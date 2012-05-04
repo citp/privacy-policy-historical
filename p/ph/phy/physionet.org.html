@@ -1,145 +1,277 @@
-<!--The following is the downloaded HTML source of the physionet.org privacy policy that was archived on 2011-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102041454id_/http%3A//www.physionet.org/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the physionet.org privacy policy that was archived on 2012-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120504233531id_/http%3A//physionet.org/privacy.shtml) for the most accurate reproduction.-->
 
-<html><head>
-<title>PhysioNet Privacy Policy</title>
-</head>
-<body bgcolor="white">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/DTD/html4/loose.dtd"><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-<script language="JavaScript" type="text/javascript">
-<!--
-function setCookie(c_name, value, path, exdays)
-{
-    var exdate = new Date();
-    exdate.setDate(exdate.getDate() + exdays);
-    var c_value = escape(value) +
-       ((exdays) ? ";expires=" + exdate.toUTCString() : "") +
-       ((path) ? ";path=" + path : "");
-    document.cookie = c_name + "=" + c_value;
-}
+ <title>PhysioNet Privacy Policy</title>
 
-function getCookie(c_name)
-{
-    var i, x, y, ARRcookies = document.cookie.split(";");
-    for (i = 0; i < ARRcookies.length; i++) {
-        x = ARRcookies[i].substr(0, ARRcookies[i].indexOf("="));
-	y = ARRcookies[i].substr(ARRcookies[i].indexOf("=") + 1);
-	x = x.replace(/^\s+|\s+$/g, "");
-	if (x == c_name) {
-	    return unescape(y);
-	}
-    }
-}
-
-window.onload=function()
-{
-    showHide();
-}
-
-function showHide()
-{
-    styleObj = document.getElementById('droplinks').style;
-    var headcompact = getCookie("headcompact");
-    if (headcompact == null) {
-	setCookie("headcompact", "false", "/");
-	headcompact = "false";
-    }
-    if (headcompact == "false") {
-   	styleObj.display = '';
-	document.getElementById('div1').innerHTML =
-	    "&nbsp;<b><tt title='Click \"-\" to show less'>-</tt></b>&nbsp;";
-    }
-    else {
-   	styleObj.display = 'none';
-	document.getElementById('div1').innerHTML =
-	    "&nbsp;<b><tt title='Click \"+\" to show more'>+</tt></b>&nbsp;";
-    }
-}
-
-function toggle() {
-    var headcompact = getCookie("headcompact");
-    if (headcompact == null || headcompact == "false") {
-	headcompact = "true";
-    }
-    else {
-        headcompact = "false";
-    }
-    setCookie("headcompact", headcompact, "/");
-    showHide();
-}
-//-->
-</script>
+<link rel="stylesheet" href="/pn/physionet.css" type="text/css" media="all">
+<link rel="stylesheet" href="/pn/print.css" type="text/css" media="print">
 <style type="text/css">
-@import url(/physionet.css);
+
+  
+ 
+
+h1, h2, h3 { color: #4a4;
+             background: #beb; }
+a[href^='http://www.physionet.org']
+ { background: none; padding-right: 0; }
 </style>
-<table width="100%" cellpadding="2" cellspacing="0" border="0">
-   <tbody><tr bgcolor="green">
-    <td align="left" bgcolor="darkgreen" width="3"><font color="white">
-      <div id="div1" onclick="toggle();">&nbsp;<b><tt title="Click &quot;-&quot; to show less">-</tt></b>&nbsp;</div></font></td>
-    
-    <td><a href="/" title="PhysioNet main page" style="text-decoration:none"><font color="white"><b>Home</b></font></a></td>
-    <td align="right"><font color="white"><b>
-	  <a href="/physionet-intro.shtml" title="Challenges, tutorials, ..." style="text-decoration:none"><font color="white">PhysioNet Library</font></a>
-	  &nbsp;·&nbsp; 
-	  <a href="/physiobank/" title="Data archives, ATM" style="text-decoration:none"><font color="white">PhysioBank</font></a>
-	  &nbsp;·&nbsp;
-	  <a href="/physiotools/" title="Open source software" style="text-decoration:none"><font color="white">PhysioToolkit</font></a>
-	  &nbsp;·&nbsp;
-	  <a href="/users/" title="Community workspace" style="text-decoration:none"><font color="white">PhysioNetWorks</font></a></b>
-   </font></td></tr>
-</tbody></table>
-<table id="droplinks" style="display:'';" width="100%" cellpadding="2" cellspacing="0" border="0">
-  <tbody><tr bgcolor="#c0f0c0">
-    <td align="left"><h2><a href="/" style="text-decoration:none">
-	  <font color="green">PhysioNet</font><br>
-	  <font size="-1" color="green">the research resource for<br>
-	    complex physiologic signals</font></a></h2>
-    </td>
-    <td align="right">
-<!-- Google CSE Search Box Begins  -->
-<form action="http://physionet.org/search-results.shtml" id="searchbox_007405203507124691154:xfntrbzi-tu">
-  <input type="hidden" name="cx" value="007405203507124691154:xfntrbzi-tu">
-  <input type="hidden" name="cof" value="FORID:11">
-  <input type="text" name="q" size="25">
-  <input type="submit" name="sa" value="PhysioNet Search">
+<script type="text/javascript" src="/pn/jquery.min.js"></script>
+<script type="text/javascript" src="/pn/hoverIntent.js"></script>
+<script type="text/javascript" src="/pn/superfish.js"></script>
+<script type="text/javascript" src="/pn/supersubs.js"></script>
+<script type="text/javascript" src="/pn/jquery.tableofcontents.min.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){
+    $('ul.sf-menu').supersubs({ maxWidth: 12, extraWidth: 1 }).superfish({
+      autoArrows: false });
+  if ($('h2').length) { $('#toc').tableOfContents(null, { startLevel: 2 }); }
+  else { $('#toc').hide(); }
+  });
+</script>
+</head>
+<body>
+<div class="banner">
+<table width="100%" style="position: fixed; margin-left: -1em;
+ background-color: #4a4;"><tbody>
+<tr>
+<td style="min-width: 700px; padding: 0;">
+<div style="float: left; padding: 0.5em 2em 0.5em 0.5em;">
+<ul class="sf-menu sf-js-enabled sf-shadow">
+<li><a href="/" style="text-align:center"><span style="font-family: Georgia, Times, serif; font-variant: small-caps;"><b>PhysioNet</b>&nbsp;<img src="/pn/menu-down.gif"></span></a>
+  <table><tbody><tr><td><ul style="margin: -1em 0px; float: none; width: 10.8125em;">
+  <li style="white-space: normal; float: left; width: 100%;"><a href="/news.shtml" style="float: none; width: auto;">What's New?&nbsp;<img src="/pn/menu-right.gif"></a>
+    <table><tbody><tr><td><ul style="float: none; width: 12em;">
+    <li style="white-space: normal; float: left; width: 100%;"><a href="/news.shtml" style="float: none; width: auto;">News from PhysioNet&nbsp;</a></li>
+    <li style="white-space: normal; float: left; width: 100%;"><a href="/in-the-news.shtml" style="float: none; width: auto;">PhysioNet in the News&nbsp;</a></li>
+    <li style="white-space: normal; float: left; width: 100%;"><a href="/events/" style="float: none; width: auto;">Events&nbsp;</a></li>
+    <li style="white-space: normal; float: left; width: 100%;"><a href="/consortium/" style="float: none; width: auto;">Sponsorship opportunities&nbsp;</a></li>
+    <li style="white-space: normal; float: left; width: 100%;"><a href="/training.shtml" style="float: none; width: auto;">Training opportunities&nbsp;</a></li>
+    </ul></td></tr></tbody></table></li>
+  <li style="white-space: normal; float: left; width: 100%;"><a href="/site-map.shtml" style="float: none; width: auto;">
+      <span style="font-family: Georgia, Times, serif; font-variant: small-caps;"><b>PhysioNet Library</b>&nbsp;<img src="/pn/menu-right.gif"></span></a>
+    <table><tbody><tr><td><ul style="float: none; width: 9.25em;">
+    <li style="white-space: normal; float: left; width: 100%;"><a href="/physionet-intro.shtml" style="float: none; width: auto;">Getting Started&nbsp;</a></li>
+    <li style="white-space: normal; float: left; width: 100%;"><a href="/challenge/" style="float: none; width: auto;">Challenges&nbsp;<img src="/pn/menu-right.gif"></a>
+      <table><tbody><tr><td><ul style="float: none; width: 10.75em;">
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/challenge/2012/" style="float: none; width: auto;">2012&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/challenge/2011/" style="float: none; width: auto;">2011&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/challenge/" style="float: none; width: auto;">Previous challenges&nbsp;</a></li>
+      </ul></td></tr></tbody></table></li>
+    <li style="white-space: normal; float: left; width: 100%;"><a href="/contributors/" style="float: none; width: auto;">Contributors&nbsp;</a></li>
+    <li style="white-space: normal; float: left; width: 100%;"><a href="/pn-citations.shtml" style="float: none; width: auto;">Publications&nbsp;<img src="/pn/menu-right.gif"></a>
+      <table><tbody><tr><td><ul style="float: none; width: 12em;">
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/publications/resource-pubs.shtml" style="float: none; width: auto;">from the PhysioNet team&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/pn-citations.shtml" style="float: none; width: auto;">citing PhysioNet&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/publications/#papers-with-data-and-software" style="float: none; width: auto;">with data and software&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/publications/#papers-with-data" style="float: none; width: auto;">with data&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/publications/#papers-with-software" style="float: none; width: auto;">with software&nbsp;</a></li>
+      </ul></td></tr></tbody></table></li>
+    <li style="white-space: normal; float: left; width: 100%;"><a href="/tutorials/" style="float: none; width: auto;">Tutorials&nbsp;<img src="/pn/menu-right.gif"></a>
+      <table><tbody><tr><td><ul style="float: none; width: 9.625em;">
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/tutorials/" style="float: none; width: auto;">Concise tutorials&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/tutorials/#workshops" style="float: none; width: auto;">Workshops&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/tutorials/#reference" style="float: none; width: auto;">Reference guides&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/tutorials/#other" style="float: none; width: auto;">Links&nbsp;</a></li>
+      </ul></td></tr></tbody></table></li>
+    <li style="white-space: normal; float: left; width: 100%;"><a href="/resource.shtml" style="float: none; width: auto;">About PhysioNet&nbsp;</a></li>
+    <li style="white-space: normal; float: left; width: 100%;"><a href="/other-links.shtml" style="float: none; width: auto;">Links&nbsp;</a></li>
+    </ul></td></tr></tbody></table></li>
+  <li class="pb" style="white-space: normal; float: left; width: 100%;"><a href="/physiobank/" style="float: none; width: auto;"> <span style="font-family: Georgia, Times, serif; font-variant: small-caps;"><b>PhysioBank</b>&nbsp;<img src="/pn/menu-right.gif"></span></a>
+    <table><tbody><tr><td><ul style="float: none; width: 10.5em;">
+    <li style="white-space: normal; float: left; width: 100%;"><a href="/physiobank/physiobank-intro.shtml" style="float: none; width: auto;">Getting Started&nbsp;</a></li>
+    <li style="white-space: normal; float: left; width: 100%;"><a href="/physiobank/database/" style="float: none; width: auto;">Signal Archives&nbsp;<img src="/pn/menu-right.gif"></a>
+      <table><tbody><tr><td><ul style="float: none; width: 12em;">
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/physiobank/database/#multi" style="float: none; width: auto;">Multi-parameter&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/physiobank/database/#ecg" style="float: none; width: auto;">ECG&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/physiobank/database/#rr" style="float: none; width: auto;">RR intervals&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/physiobank/database/#gait" style="float: none; width: auto;">Gait and balance&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/physiobank/database/#neuro" style="float: none; width: auto;">Neuro- and myoelectric&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/physiobank/database/#image" style="float: none; width: auto;">Images&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/physiobank/database/#synthetic" style="float: none; width: auto;">Synthetic&nbsp;</a></li>
+      </ul></td></tr></tbody></table></li>
+    <li style="white-space: normal; float: left; width: 100%;"><a href="/cgi-bin/ATM" style="float: none; width: auto;">PhysioBank ATM&nbsp;</a></li>
+    <li style="white-space: normal; float: left; width: 100%;"><a href="/cgi-bin/pbsearch" style="float: none; width: auto;">PhysioBank Search&nbsp;</a></li>
+    <li style="white-space: normal; float: left; width: 100%;"><a href="/physiobank/call-for-data/" style="float: none; width: auto;">Call for Data&nbsp;</a></li>
+    <li style="white-space: normal; float: left; width: 100%;"><a href="/physiobank/about.shtml" style="float: none; width: auto;">About PhysioBank&nbsp;</a></li>
+    <li style="white-space: normal; float: left; width: 100%;"><a href="/physiobank/other.shtml" style="float: none; width: auto;">Links&nbsp;</a></li>
+    </ul></td></tr></tbody></table></li>
+  <li class="pt" style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/" style="float: none; width: auto;"> <span style="font-family: Georgia, Times, serif; font-variant: small-caps;"><b>PhysioToolkit</b>&nbsp;<img src="/pn/menu-right.gif"></span></a>
+    <table><tbody><tr><td><ul style="float: none; width: 10.75em;">
+    <li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/getting-started.shtml" style="float: none; width: auto;">Getting Started&nbsp;</a></li>
+    <li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/software-index.shtml" style="float: none; width: auto;">Software Index&nbsp;<img src="/pn/menu-right.gif"></a>
+      <table><tbody><tr><td><ul style="float: none; width: 12em;">
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/software-index.shtml#pbdv" style="float: none; width: auto;">Data visualization&nbsp;<img src="/pn/menu-right.gif"></a>
+        <table><tbody><tr><td><ul style="float: none; width: 9em;">
+        <li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/software-index.shtml#pbdv" style="float: none; width: auto;">PhysioBank&nbsp;</a></li>
+        <li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/software-index.shtml#gpdv" style="float: none; width: auto;">General&nbsp;</a></li>
+        </ul></td></tr></tbody></table></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/software-index.shtml#pbdm" style="float: none; width: auto;">Data mining&nbsp;</a>
+      </li><li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/software-index.shtml#fc" style="float: none; width: auto;">Data import/export&nbsp;<img src="/pn/menu-right.gif"></a>
+        <table><tbody><tr><td><ul style="float: none; width: 10.0625em;">
+        <li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/software-index.shtml#fc" style="float: none; width: auto;">Format conversion&nbsp;</a></li>
+        <li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/software-index.shtml#cpcr" style="float: none; width: auto;">Record creation&nbsp;</a></li>
+        </ul></td></tr></tbody></table></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/software-index.shtml#deid" style="float: none; width: auto;">Deidentification&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/software-index.shtml#psp" style="float: none; width: auto;">Signal processing&nbsp;<img src="/pn/menu-right.gif"></a>
+        <table><tbody><tr><td><ul style="float: none; width: 9em;">
+        <li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/software-index.shtml#psp" style="float: none; width: auto;">Physiologic&nbsp;</a></li>
+        <li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/software-index.shtml#gsp" style="float: none; width: auto;">General&nbsp;</a></li>
+        </ul></td></tr></tbody></table></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/software-index.shtml#fdats" style="float: none; width: auto;">Time series analysis&nbsp;<img src="/pn/menu-right.gif"></a>
+        <table><tbody><tr><td><ul style="float: none; width: 10.6875em;">
+        <li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/software-index.shtml#fdats" style="float: none; width: auto;">Frequency-domain&nbsp;</a></li>
+        <li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/software-index.shtml#nats" style="float: none; width: auto;">Nonlinear&nbsp;</a></li>
+        <li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/software-index.shtml#hrv" style="float: none; width: auto;">Heart rate variability&nbsp;</a></li>
+        </ul></td></tr></tbody></table></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/software-index.shtml#pms" style="float: none; width: auto;">Models and simulation&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/software-index.shtml#lib" style="float: none; width: auto;">Software development&nbsp;<img src="/pn/menu-right.gif"></a>
+        <table><tbody><tr><td><ul style="float: none; width: 9.9375em;">
+        <li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/software-index.shtml#lib" style="float: none; width: auto;">Libraries and tools&nbsp;</a></li>
+        <li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/software-index.shtml#eea" style="float: none; width: auto;">Device Evaluation&nbsp;</a></li>
+        </ul></td></tr></tbody></table></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/software-index.shtml#misc" style="float: none; width: auto;">Miscellaneous&nbsp;</a></li>
+      </ul></td></tr></tbody></table></li>
+    <li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/matlab/" style="float: none; width: auto;">MATLAB software&nbsp;<img src="/pn/menu-right.gif"></a>
+      <table><tbody><tr><td><ul style="float: none; width: 11.5em;">
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/matlab/wfdb-swig-matlab" style="float: none; width: auto;">WFDB Toolbox for ML&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/matlab/" style="float: none; width: auto;">Other&nbsp;</a></li>
+      </ul></td></tr></tbody></table></li>
+    <li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/wfdb.shtml" style="float: none; width: auto;">WFDB software&nbsp;<img src="/pn/menu-right.gif"></a>
+      <table><tbody><tr><td><ul style="float: none; width: 9em;">
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/wfdb-freebsd-quick-start.shtml" style="float: none; width: auto;">FreeBSD&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/wfdb-linux-quick-start.shtml" style="float: none; width: auto;">GNU/Linux&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/wfdb-darwin-quick-start.shtml" style="float: none; width: auto;">Mac OS X&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/wfdb-windows-quick-start.shtml" style="float: none; width: auto;">MS-Windows&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/wfdb-solaris-quick-start.shtml" style="float: none; width: auto;">Solaris&nbsp;</a></li>
+      </ul></td></tr></tbody></table></li>
+    <li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/manuals.shtml" style="float: none; width: auto;">Manuals&nbsp;<img src="/pn/menu-right.gif"></a>
+      <table><tbody><tr><td><ul style="float: none; width: 11em;">
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/wpg/" style="float: none; width: auto;">WFDB Programming&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/wag/" style="float: none; width: auto;">WFDB Applications&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/wug/" style="float: none; width: auto;">WAVE&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/rcvsim/doc/manual/" style="float: none; width: auto;">RCVSIM&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/plt/plt/html/" style="float: none; width: auto;">plt&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="http://www.lulu.com/physionet/" class="plain" target="other" style="float: none; width: auto;">Bookstore&nbsp;</a></li>
+      </ul></td></tr></tbody></table></li>
+    <li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/other.shtml" style="float: none; width: auto;">Links&nbsp;</a></li>
+    </ul></td></tr></tbody></table></li>
+  <li class="pw" style="white-space: normal; float: left; width: 100%;"><a href="https://physionet.org/users/" style="float: none; width: auto;"> <span style="font-family: Georgia, Times, serif; font-variant: small-caps;"><b>PhysioNetWorks</b>&nbsp;<img src="/pn/menu-right.gif"></span></a>
+    <table><tbody><tr><td><ul style="float: none; width: 11.5em;">
+    <li style="white-space: normal; float: left; width: 100%;"><a href="https://physionet.org/users/home/" style="float: none; width: auto;"><em>* Home&nbsp;</em></a></li>
+    <li style="white-space: normal; float: left; width: 100%;"><a href="https://physionet.org/users/" style="float: none; width: auto;">Login&nbsp;</a></li>
+    <li style="white-space: normal; float: left; width: 100%;"><a href="https://physionet.org/users/" style="float: none; width: auto;">Create an Account&nbsp;</a></li>
+    <li style="white-space: normal; float: left; width: 100%;"><a href="https://physionet.org/works/" style="float: none; width: auto;"><em>* Works in Progress&nbsp;</em></a></li>
+    <li style="white-space: normal; float: left; width: 100%;"><a href="https://physionet.org/users/help/data-sharing/" style="float: none; width: auto;">Data Sharing&nbsp;</a></li>
+    <li style="white-space: normal; float: left; width: 100%;"><a href="https://physionet.org/users/help/" style="float: none; width: auto;">PhysioNetWorks Help&nbsp;</a></li>
+    <li style="white-space: normal; float: left; width: 100%;"><a href="https://physionet.org/users/" style="float: none; width: auto;"><em>* login to view&nbsp;</em></a></li>
+    </ul></td></tr></tbody></table></li>
+  <li style="white-space: normal; float: left; width: 100%;"><a href="/faq.shtml" style="float: none; width: auto;">Help&nbsp;<img src="/pn/menu-right.gif"></a>
+    <table><tbody><tr><td><ul style="float: none; width: 9em;">
+    <li style="white-space: normal; float: left; width: 100%;"><a href="/faq.shtml" style="float: none; width: auto;">FAQ&nbsp;<img src="/pn/menu-right.gif"></a>
+      <table><tbody><tr><td><ul style="float: none; width: 11.875em;">
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/faq.shtml#general" style="float: none; width: auto;">General&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/faq.shtml#sign-in" style="float: none; width: auto;">Sign-in and passwords&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/faq.shtml#where-is" style="float: none; width: auto;">Where is ...?&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/faq.shtml#downloading" style="float: none; width: auto;">Downloading&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/faq.shtml#physiobank" style="float: none; width: auto;">PhysioBank&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/faq.shtml#signals" style="float: none; width: auto;">Signals&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/faq.shtml#annotations" style="float: none; width: auto;">Annotations&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/faq.shtml#software" style="float: none; width: auto;">Software&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/faq.shtml#help" style="float: none; width: auto;">Help!&nbsp;</a></li>
+      </ul></td></tr></tbody></table></li>
+    <li style="white-space: normal; float: left; width: 100%;"><a href="/site-map.shtml" style="float: none; width: auto;">Site map&nbsp;</a></li>
+    <li style="white-space: normal; float: left; width: 100%;"><a href="/tour/" style="float: none; width: auto;">Tour&nbsp;</a></li>
+    <li style="white-space: normal; float: left; width: 100%;"><a href="/tutorials/" style="float: none; width: auto;">Tutorials&nbsp;<img src="/pn/menu-right.gif"></a>
+      <table><tbody><tr><td><ul style="float: none; width: 9.625em;">
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/tutorials/" style="float: none; width: auto;">Concise tutorials&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/tutorials/#workshops" style="float: none; width: auto;">Workshops&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/tutorials/#reference" style="float: none; width: auto;">Reference guides&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/tutorials/#other" style="float: none; width: auto;">Links&nbsp;</a></li>
+      </ul></td></tr></tbody></table></li>
+    <li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/manuals.shtml" style="float: none; width: auto;">Manuals&nbsp;<img src="/pn/menu-right.gif"></a>
+      <table><tbody><tr><td><ul style="float: none; width: 11em;">
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/wpg/" style="float: none; width: auto;">WFDB Programming&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/wag/" style="float: none; width: auto;">WFDB Applications&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/wug/" style="float: none; width: auto;">WAVE&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/rcvsim/doc/manual/" style="float: none; width: auto;">RCVSIM&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/physiotools/plt/plt/html/" style="float: none; width: auto;">plt&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="http://www.lulu.com/physionet/" class="plain" target="other" style="float: none; width: auto;">Bookstore&nbsp;</a></li>
+      </ul></td></tr></tbody></table></li>
+    <li style="white-space: normal; float: left; width: 100%;"><a href="/mirrors/" style="float: none; width: auto;">Mirrors&nbsp;<img src="/pn/menu-right.gif"></a>
+      <table><tbody><tr><td><ul style="float: none; width: 10.1875em;">
+      <li style="white-space: normal; float: left; width: 100%;"><a href="http://physionet.mit.edu/privacy.shtml" style="float: none; width: auto;">Cambridge, MA&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="http://physionet.caregroup.harvard.edu/privacy.shtml" style="float: none; width: auto;">Boston, MA&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="http://physionet.nlm.nih.gov/privacy.shtml" style="float: none; width: auto;">Bethesda, MD&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="http://physionet.cecst.com/privacy.shtml" style="float: none; width: auto;">San Antonio, TX&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="http://physionet.incor.usp.br/privacy.shtml" style="float: none; width: auto;">Sao Paulo, Brazil&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="http://physionet.ph.biu.ac.il/privacy.shtml" style="float: none; width: auto;">Ramat-Gan, Israel&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="http://physionet.cps.unizar.es/privacy.shtml" style="float: none; width: auto;">Zaragoza, Spain&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="http://physionet.fri.uni-lj.si/privacy.shtml" style="float: none; width: auto;">Ljubljana, Slovenia&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="http://physionet.ics.forth.gr/privacy.shtml" style="float: none; width: auto;">Heraklion, Greece&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="http://physionet.xjtu.edu.cn/privacy.shtml" style="float: none; width: auto;">Xi'an, China&nbsp;</a></li>
+      <li style="white-space: normal; float: left; width: 100%;"><a href="/mirrors/mirror-howto.shtml" style="float: none; width: auto;">Setting up a mirror&nbsp;</a></li>
+      </ul></td></tr></tbody></table></li>
+    <li style="white-space: normal; float: left; width: 100%;"><a href="/citations.shtml" style="float: none; width: auto;">How to Cite&nbsp;</a></li>
+    <li style="white-space: normal; float: left; width: 100%;"><a href="/guidelines.shtml" style="float: none; width: auto;">Contributing&nbsp;</a></li>
+    <li style="white-space: normal; float: left; width: 100%;"><a href="/copying.shtml" style="float: none; width: auto;">Copying&nbsp;</a></li>
+    <li style="white-space: normal; float: left; width: 100%;"><a href="/privacy.shtml" style="float: none; width: auto;">Privacy&nbsp;</a></li>
+    </ul></td></tr></tbody></table></li>
+  </ul></td></tr></tbody></table>
+
+
+</li></ul>
+</div>
+
+<script language="javascript" src="/pn/breadcrumbs.js"></script>
+
+<div style="float: right;
+	   padding: 0.6em;
+	   margin: 0;">
+<script type="text/javascript">
+document.write("<form action=\"/search-results.shtml\" " +
+		      "id=\"searchbox_007405203507124691154:xfntrbzi-tu\"> " +
+	       "<input type=\"hidden\" name=\"cx\" " +
+	              "value=\"007405203507124691154:xfntrbzi-tu\" /> " +
+	       "<input type=\"hidden\" name=\"cof\" value=\"FORID:11\" /> " +
+	       "<input type=\"text\" name=\"q\" size=\"25\" /> " +
+	       "<input type=\"submit\" name=\"sa\" value=\"Search\" /> " +
+	       "</form>");
+</script><form action="/search-results.shtml" id="searchbox_007405203507124691154:xfntrbzi-tu"> <input type="hidden" name="cx" value="007405203507124691154:xfntrbzi-tu"> <input type="hidden" name="cof" value="FORID:11"> <input type="text" name="q" size="25"> <input type="submit" name="sa" value="Search"> </form>
+
+<noscript>
+<form action='http://www.google.com/search' id='searchForm'>
+  <div>
+    <input name='q' type='hidden' value='site:physionet.org' />
+    <input name='q' size='25' type='text' />
+    <input name='sa' type='submit' value='Search' />
+  </div>
 </form>
-<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_007405203507124691154%3Axfntrbzi-tu"></script>
-<!-- Google CSE Search Box Ends -->
-<a href="/physiotour/">Tour</a>&nbsp;|
-<a href="/mirrors/">Mirrors</a><br>
-<a href="/citations.shtml">How to Cite</a>&nbsp;|
-<a href="/guidelines.shtml">Contributing</a>&nbsp;|
-<a href="/faq.shtml">FAQ</a>
-    </td>
-  </tr>
+</noscript>
 
-  <tr><td colspan="2" align="center" bgcolor="green"><font color="white"><b>
-       <a href="/news.shtml" style="text-decoration:none"><font color="white">What's&nbsp;New?</font></a>
-	 &nbsp;·&nbsp;
-       <a href="/challenge/" style="text-decoration:none"><font color="white">Challenges</font></a>
-	 &nbsp;·&nbsp;
-       <a href="/contributors/" style="text-decoration:none"><font color="white">Contributors</font></a>
-	 &nbsp;·&nbsp;
-       <a href="/events/" style="text-decoration:none"><font color="white">Events</font></a>
-	 &nbsp;·&nbsp;
-       <a href="/publications/" style="text-decoration:none"><font color="white">Publications</font></a>
-	 &nbsp;·&nbsp; 
-       <a href="/tutorials/" style="text-decoration:none"><font color="white">Tutorials</font></a>
-	 &nbsp;·&nbsp;
-       <a href="/sponsors/" style="text-decoration:none"><font color="white">Sponsors</font></a>
-	 &nbsp;·&nbsp;
-       <a href="/resource.shtml" style="text-decoration:none"><font color="white">About&nbsp;PhysioNet</font></a>
-	 &nbsp;·&nbsp;
-      <a href="/in-the-news.shtml" style="text-decoration:none"><font color="white">In&nbsp;the&nbsp;News</font></a>
-	 &nbsp;·&nbsp;
-       <a href="/site-map.shtml" style="text-decoration:none"><font color="white">Site&nbsp;Map</font></a></b></font>
-    </td>
-  </tr>
+</div></td>
+</tr>
 </tbody></table>
-<script language="javascript" src="/breadcrumbs.js"></script>
+</div>
+<div class="pbanner">
+<center>
+from <b>PhysioNet</b>, the research resource for complex physiologic signals
+</center>
+</div>
+<a name="top"><div style="min-width: 700px; margin: 0 0 0.4em;
+			  background-color: #4a4;
+			  padding: 1px"><br><hr></div></a>
+
+ <h1>PhysioNet Privacy Policy</h1>
+
+<div style="padding: 1.5em 0;">
+
+<ul id="toc" style="display: none;"></ul>
 
 
-<center><h1>PhysioNet Privacy Policy</h1></center>
+
 <p>
 <strong>Your privacy is important to us.</strong> We do not collect
 personally identifiable information on our web site or otherwise
@@ -165,15 +297,13 @@ stripped of personally identifiable information, to analyze web
 traffic and to document usage of this resource to funding agencies.
 
 </p><p>
-<strong>Cookies:</strong> If you use the '-' or '+' controls (which condense or
-expand the page header) in the upper left corner of a page, your most recent
-choice is saved in a session cookie, so that page headers will maintain the
-appearance you have chosen as you navigate around the site.  Within the
-PhysioNetWorks section of this web site, our server uses secure session cookies
-in combination with other authentication methods, such as passwords, to ensure
-that the source of uploaded content is correctly identified, and to protect
-restricted content from unauthorized access.  PhysioNet does not use cookies
-elsewhere on its web site.
+<strong>Cookies:</strong> PhysioBank Record Search sets a cookie
+needed for you to view and refine your recent searches.  If you use
+the '-' or '+' controls (which condense or expand the page header) in
+the upper left corner of some pages, your most recent choice is saved
+in a session cookie, so that page headers will maintain the appearance
+you have chosen as you navigate around the site.  PhysioNet does not
+use cookies elsewhere on its web site.
 
 </p><p>
 <strong>Registration:</strong> If you wish to have access to any part of
@@ -200,39 +330,45 @@ Clearinghouse</a>.  This is a <a href="http://www.w3.org/P3P/" target="other">P3
 browser, it should be able to fetch our P3P policy automatically.  If not,
 here are our <a href="/w3c/policy1.xml">P3P policy</a> and <a href="/w3c/p3p.xml">P3P policy reference</a> files.
 
-<table width="100%" cellpadding="5"><tbody><tr><td align="center" bgcolor="green">
+<!-- footer.shtml for PhysioNet pages -->
+
+
+
+</p></div>
+<div class="footer">
+<table width="100%" style="margin: 0;"><tbody><tr>
+<td style="text-align: center; vertical-align: middle; padding: 0;
+	   background: #4a4;">
 <a href="http://physionet.org/cgi-bin/feedback" style="text-decoration:none">
 <font color="white"><b>Send feedback about this page to PhysioNet</b></font></a>
 </td></tr></tbody></table>
-<table cellpadding="10"><tbody><tr><td>
-<font size="-1"><p>
+<table width="100%" style="margin: 0;"><tbody><tr>
+<td style="display: inline-block; padding: 0; vertical-align: top; font-size: 80%; margin: 2em; max-width: 40%">
 Your comments and suggestions are welcome.  We encourage you to use our
 <a href="http://physionet.org/cgi-bin/feedback">feedback form</a> to comment
 on this page.  If you would like to receive a reply, please send your
 comments by email to
-<a href="mailto:webmaster@physionet.org?subject=http://physionet.org/privacy.shtml">
-<tt>webmaster@physionet.org</tt></a>, 
-or post them to:
-</p><center>
-<i><address>
-PhysioNet<br>
-MIT Room E25-505A<br>
-77 Massachusetts Avenue<br>
-Cambridge, MA 02139 USA<br></address></i>
-</center>
-</font></td><td>
-<img src="/nibib+nih+nigms.gif" usemap="#nih" border="0" align="right"></td></tr>
-</tbody></table>
-</p><p>
+<a href="mailto:webmaster@physionet.org?subject=http://www.physionet.org/privacy.shtml">
+<tt>webmaster@physionet.org</tt></a>. 
+<br>
 Updated 
 
-Thursday, 17 March 2011 at 10:41 EDT
-<map name="nih">
- <area shape="rect" coords="0,0,160,100" href="http://www.nibib.nih.gov/" target="other" alt="National Institute of Biomedical Imaging and Bioengineering">
+Saturday,  3 March 2012 at 06:36 EST
+</td>
+<td style="display: inline-block; margin: 0 1em 0 auto; max-width: 45%;">
+<img src="/nibib+nih+nigms.gif" width="369" usemap="#nih" border="0" alt="NIBIB/NIH/NIGMS" style="float: right; min-width: 369px; padding: 1em 1em 1em 2em">
+
+<map name="nih" id="map">
+ <area shape="rect" coords="0,0,160,100" href="http://www.nibib.nih.gov/" target="other" alt="National Institute for Biomedical Imaging and Bioengineering">
  <area shape="rect" coords="170,0,230,100" href="http://www.nih.gov/" target="other" alt="National Institutes of Health">
  <area shape="rect" coords="240,0,370,100" href="http://www.nigms.nih.gov/" target="other" alt="National Institute of General Medical Sciences">
 </map>
 
+</td></tr>
+</tbody></table>
+</div>
 
 
-</p></body></html>
+
+
+</body></html>
