@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emorywheel.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218074542id_/http%3A//www.emorywheel.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emorywheel.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504032234id_/http%3A//emorywheel.com/about/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | The Emory Wheel
 
@@ -17,17 +17,3 @@ Emorywheel.com does not “spam” users and it is not our policy to send unsoli
 Emorywheel.com may contain links to other websites and is not responsible for the content or privacy practices of other sites. We suggest you consult these sites for their specific privacy policies. 
 
 If you have any questions or concerns regarding this policy, please contact us at <http://www.emorywheel.com/about/contact.php> and select “general comment” for your correspondence. 
-
-| 
-
-Most Read
-
-Most Read
-
-Latest
-
-Latest
-
-Most Commented
-
-Most Commented
