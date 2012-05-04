@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the reasonproject.org privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101152749id_/http%3A//reason.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reasonproject.org privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504034803id_/http%3A//reason.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Reason Magazine
-
-## [Privacy Policy](http://reason.com/privacy)
+# Privacy Policy - Reason.com
 
 Thank you for visiting our web site. This privacy policy tells you how we use personal information collected at this site. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy often to make sure that you understand how any personal information you provide will be used.
 
