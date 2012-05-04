@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nationalww2museum.org privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126135703id_/http%3A//www.nationalww2museum.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalww2museum.org privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504184829id_/http%3A//www.nationalww2museum.org/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# The National WWII Museum | New Orleans: PRIVACY POLICY
 
 The National WWII Museum is committed to protecting the privacy of its users and any personal information that they may share with us or that we hold. We value our users’ trust and recognize that maintaining this trust requires us to be transparent and accountable at all times. The Privacy Policy describes important information about the steps necessary to safeguarding all personal information about our users.
 
