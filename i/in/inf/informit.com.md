@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the informit.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104110943id_/https%3A//www.informit.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the informit.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504191823id_/https%3A//www.informit.com/about/privacy.aspx) for the most accurate reproduction.*
 
-# InformIT: Privacy Policy
+# Privacy Policy | InformIT
 
 We make every effort to preserve user privacy, however we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with an appropriate law enforcement investigation, current judicial proceeding, a court order or legal process served on our Web site.
 
@@ -86,7 +86,7 @@ If a user's personally identifiable information changes (such as your e-mail add
 
 Users of our site are always notified when their information is being collected by any outside parties. When products or services are jointly offered or co-branded we will indicate who is collecting the information and it will be clear which privacy statement applies when information is being collected under a co-branded situation. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not.
 
-If you choose to remove yourself from our mailing list(s) simply visit the following page and uncheck any communication you no longer want to receive: **<http://memberservices.informit.com/my_account/newsletters.aspx>**
+If you choose to remove yourself from our mailing list(s) simply visit the following page and uncheck any communication you no longer want to receive: **<https://memberservices.informit.com/my_account/newsletters.aspx?partner=53>**
 
 ### Notification of Changes
 
