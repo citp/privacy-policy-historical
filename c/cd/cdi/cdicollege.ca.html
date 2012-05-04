@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the cdicollege.ca privacy policy that was archived on 2011-10-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111008003225id_/http%3A//www.cdicollege.ca/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cdicollege.ca privacy policy that was archived on 2012-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120504104920id_/http%3A//www.cdicollege.ca/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>CDI College Privacy Policy</title>
 <meta name="description" content="">
-<meta name="keywords" content="">
-<meta name="title" content="CDI College Privacy Policy">
+
+
 
 <link rel="canonical" href="http://www.cdicollege.ca/privacy-policy/">
 
@@ -50,41 +50,59 @@
     })();
 </script>
 
-<meta name="googlebot" content="noodp">
-<meta name="msnbot" content="noodp">
-
 <script type="text/javascript">
-    function recordOutbound(link, page) {
+    var thatGALink = null;
 
+    function recordOutbound(that, page) {
         try {
+            thatGALink = that;
             _gaq.push(['_trackPageview', '/vpv/ext/' + page]);
-            setTimeout('document.location = "' + link + '"', 100)
+            setTimeout('openGAEventLink()', 100);
         } catch (err) { }
 
     }
 
-    function recordInbound(link, page) {
-        
+    function recordInbound(that, page) {
+
         try {
+            thatGALink = that;
             _gaq.push(['_trackPageview', '/vpv/int/' + page]);
-            setTimeout('document.location = "' + link + '"', 100)
+            setTimeout('openGAEventLink()', 100);
         } catch (err) { }
         
     }
 
-    function recordEmailBound(link, email) {
-        
+    function recordEmailBound(that, email) {
+
         try {
+            thatGALink = that;
             _gaq.push(['_trackPageview', '/vpv/mailto/' + email]);
-            setTimeout('document.location = "' + link + '"', 100)
+            setTimeout('openGAEventLink()', 100);
         } catch (err) { }
-        
+
+    }
+
+    function recordGAEvent(that, category, action, label) {
+        try {
+            thatGALink = that;
+            _gaq.push(['_trackEvent', category, action, label]);
+            setTimeout('openGAEventLink()', 100);
+        }catch(err){}
+    }
+
+    function openGAEventLink() {
+        if (thatGALink.target && thatGALink.target == "_blank") {
+            window.open(thatGALink.href);
+        }
+        else {
+            document.location = thatGALink.href;
+        }
     }
 </script>
 
 </head>
 
-<body>
+<body class="orangeBtn greyBg call2 button7">
 <div class="topLine"></div>
 <div class="headerContainer">
 	
@@ -100,41 +118,32 @@
 	<span class="cacheNavbarBgCenter"></span>
 </div>
 
-<div class="sidePanel">
-  <div class="button" id="topButton"><a rel="nofollow">Apply</a></div>
-  <div class="button"><a rel="nofollow">Chat</a></div>
-  <div class="button"><a rel="nofollow">Info</a></div>
-  <div class="button"><a rel="nofollow">Advisor</a></div>
-  <div class="socialMedia">
+ <div class="persistWrap">
+  <div class="persist">
+   <div class="handyLinks">
+    <a onclick="recordGAEvent(this, 'In-Page Links', 'Top Navigation', 'Apply Online');return false;" href="/admissions/apply-online/" class="line">Apply Online</a>
+    <a onclick="recordGAEvent(this, 'In-Page Links', 'Top Navigation', 'Contact');return false;" href="/contact-cdi/">Contact</a>
+    <a onclick="recordGAEvent(this, 'In-Page Links', 'Top Navigation', 'Request Information');return false;" href="/request-information/" class="line">Request Information</a>
+    <a onclick="recordGAEvent(this, 'In-Page Links', 'Top Navigation', 'Live Chat');return false;" href="/live-chat-support/">Live Chat</a>
+   </div>
+
+   <div class="phone">
+    Call Today<br><strong>1-800-675-4392</strong>
+   </div>
+   <div class="socialMedia">
     
-        <a onclick="recordOutbound(this.href, 'Facebook');return false;" href="http://www.facebook.com/CDICollege" rel="nofollow" class="facebook" target="_blank"></a>
-        <a onclick="recordOutbound(this.href, 'Twitter');return false;" href="http://www.twitter.com/CDICollege" rel="nofollow" class="twitter" target="_blank"></a>
-        <a onclick="recordOutbound(this.href, 'YouTube');return false;" href="http://www.youtube.com/CDICareerCollege" rel="nofollow" class="youtube" target="_blank"></a>
-        <a onclick="recordOutbound(this.href, 'FeedBurner');return false;" href="http://feeds.feedburner.com/cdinewsfeed" rel="nofollow" class="newsfeed" target="_blank"></a>
+        <a onclick="recordGAEvent(this, 'Social Media', 'Facebook', 'Facebook brand page');return false;" href="http://www.facebook.com/CDICollege" rel="nofollow" class="facebook" target="_blank"></a>
+        <a onclick="recordGAEvent(this, 'Social Media', 'Twitter', 'Twitter brand page');return false;" href="http://www.twitter.com/CDICollege" rel="nofollow" class="twitter" target="_blank"></a>
+        <a onclick="recordGAEvent(this, 'Social Media', 'YouTube', 'YouTube brand page');return false;" href="http://www.youtube.com/CDICareerCollege" rel="nofollow" class="youtube" target="_blank"></a>
+        <a onclick="recordOutbound(this, 'FeedBurner');return false;" href="http://feeds.feedburner.com/cdinewsfeed" rel="nofollow" class="rss" target="_blank"></a>
     
+   </div>
   </div>
-</div>
+ </div>
 
 
 <div id="header">
     <a href="/" class="homelink"></a>
-
-    <div class="headerButtons">
-        <a onclick="recordInbound(this.href, 'Apply Online');return false;" href="/admissions/apply-online/" rel="nofollow" class="applyOnline">Apply Online</a>
-        <a onclick="recordInbound(this.href, 'Live Chat');return false;" href="/live-chat-support/" rel="nofollow" class="liveChat">Live Chat</a>
-        <a onclick="recordInbound(this.href, 'Request Information');return false;" href="/request-information/" rel="nofollow" class="requestInfo">Request Information</a>
-        <a onclick="recordInbound(this.href, 'Contact');return false;" href="/contact-cdi/" rel="nofollow" class="contact">Contact</a>
-    </div>
-
-    
-        <div class="phone">
-            <strong>
-            
-                Call CDI College
-            
-            </strong> 1-800-675-4392
-        </div>
-    
 
     <div class="search">
 
@@ -151,7 +160,7 @@
         </form>
         <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
 
-        <a onclick="recordOutbound(this.href, 'CDI College | Français');return false;" href="http://www.collegecdi.ca" target="_blank" class="frenchLink">CDI College | Français</a>
+        <a onclick="recordOutbound(this, 'CDI College | Français');return false;" href="http://www.collegecdi.ca" target="_blank" class="frenchLink">CDI College | Français</a>
 
     </div>
 </div>
@@ -182,12 +191,12 @@
 				<a href="javascript: null(0);" onmouseover="ShowShare();">
 					Share</a>
 				<div id="shareComponent" style="display: none" onmouseout="HideShare();" onmouseover="ShowShare();">
-					<a onclick="recordOutbound(this.href, 'Del.icio.us');return false;" target="_blank" class="delicious" href="https://secure.del.icio.us/login?url=http%3a%2f%2fwww.cdicollege.ca%2fprivacy-policy%2f">
-						Del.icio.us</a> <a onclick="recordOutbound(this.href, 'Digg');return false;" target="_blank" class="digg" href="http://digg.com/register/">
-							Digg</a> <a onclick="recordOutbound(this.href, 'Facebook');return false;" target="_blank" class="facebook" href="http://www.facebook.com/sharer.php?u=http%3a%2f%2fwww.cdicollege.ca%2fprivacy-policy%2f">
-								Facebook</a> <a onclick="recordOutbound(this.href, 'MySpace');return false;" target="_blank" class="myspace" href="http://www.myspace.com/Modules/PostTo/Pages/?u=http%3a%2f%2fwww.cdicollege.ca%2fprivacy-policy%2f">
-									MySpace</a> <a onclick="recordOutbound(this.href, 'Reddit');return false;" target="_blank" class="reddit" href="http://www.reddit.com/submit?url=http%3a%2f%2fwww.cdicollege.ca%2fprivacy-policy%2f">
-										Reddit</a> <a onclick="recordOutbound(this.href, 'StumbleUpon');return false;" target="_blank" class="stumbleupon" href="http://www.stumbleupon.com/submit?url=http%3a%2f%2fwww.cdicollege.ca%2fprivacy-policy%2f">
+					<a onclick="recordOutbound(this, 'Del.icio.us');return false;" target="_blank" class="delicious" href="https://secure.del.icio.us/login?url=http%3a%2f%2fwww.cdicollege.ca%2fprivacy-policy%2f">
+						Del.icio.us</a> <a onclick="recordOutbound(this, 'Digg');return false;" target="_blank" class="digg" href="http://digg.com/register/">
+							Digg</a> <a target="_blank" class="facebook" href="http://www.facebook.com/sharer.php?u=http%3a%2f%2fwww.cdicollege.ca%2fprivacy-policy%2f">
+								Facebook</a> <a onclick="recordGAEvent(this, 'Social Media', 'MySpace', 'MySpace brand page');return false;" target="_blank" class="myspace" href="http://www.myspace.com/Modules/PostTo/Pages/?u=http%3a%2f%2fwww.cdicollege.ca%2fprivacy-policy%2f">
+									MySpace</a> <a onclick="recordOutbound(this, 'Reddit');return false;" target="_blank" class="reddit" href="http://www.reddit.com/submit?url=http%3a%2f%2fwww.cdicollege.ca%2fprivacy-policy%2f">
+										Reddit</a> <a onclick="recordOutbound(this, 'StumbleUpon');return false;" target="_blank" class="stumbleupon" href="http://www.stumbleupon.com/submit?url=http%3a%2f%2fwww.cdicollege.ca%2fprivacy-policy%2f">
 											StumbleUpon</a>
 				</div>
 			</div>
@@ -198,15 +207,15 @@
                     Subscribe</a>
 				<div id="subscribeComponent" style="display: none" onmouseout="HideSubscribe();" onmouseover="ShowSubscribe();">
 					
-					<a onclick="recordOutbound(this.href, 'Twitter');return false;" target="_blank" class="twitter" href="http://www.twitter.com/">
+					<a target="_blank" class="twitter" href="http://www.twitter.com/">
 						Twitter</a>
 					
-					<a onclick="recordOutbound(this.href, 'YouTube');return false;" target="_blank" class="youtube" href="http://www.youtube.com/">
+					<a target="_blank" class="youtube" href="http://www.youtube.com/">
 						Youtube</a>
 					
-					<a onclick="recordOutbound(this.href, 'FeedBurner');return false;" target="_blank" class="rss" rel="nofollow" href="http://feeds.feedburner.com/cdinewsfeed">News</a>
+					<a target="_blank" class="rss" rel="nofollow" href="http://feeds.feedburner.com/cdinewsfeed">News</a>
 					
-					<a onclick="recordOutbound(this.href, 'Facebook');return false;" target="_blank" class="facebook" href="http://www.facebook.com/">
+					<a target="_blank" class="facebook" href="http://www.facebook.com/">
 						Facebook</a>
 					
 				</div>
@@ -222,12 +231,24 @@
 
 		</div>
 			
-		<div id="content-image" class="content-image-general" style="background: url(/variable-images/privacy-policy/privacy-policy.jpg
-
-) top right no-repeat;">
+		<div id="content-image" class="content-image-general" style="background: url(/design/category-images/site/generic/cdi2.jpg) top right no-repeat;">
 			<div id="content-image-quote">
 				<blockquote>
 					
+
+<div id="content-image-quote">
+	<blockquote>
+	 "All of the courses were really helpful. I would recommend this program to other people looking to start a career in this field."
+	<cite>- Holly D., Intra Oral Dental Assistant Graduate</cite>
+	</blockquote>
+</div>
+
+
+
+
+<!--
+
+-->
 					<cite></cite>
 				</blockquote>
 			</div>
@@ -242,7 +263,7 @@
         <iframe src="http://www.facebook.com/plugins/like.php?href=http%3a%2f%2fwww.cdicollege.ca%2fprivacy-policy%2f&amp;send=false&amp;layout=box_count&amp;width=0&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=90" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width: 47px; height:61px;" allowtransparency="true"></iframe>
     </div>
     <div class="likeTwitter" style="float: left; margin-right: 5px;">
-        <a onclick="recordOutbound(this.href, 'Twitter');return false;" href="http://twitter.com/share" class="twitter-share-button" data-count="vertical">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        <a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
     </div>
     <div class="likePluseOne" style="float: left; padding-top: 2px; margin-right: 5px;">
         <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
@@ -337,7 +358,7 @@ Internet and to our site to ensure that his or her privacy is well
 protected.</p> <h3>Your Consent</h3><p>By using our website, you consent to the collection and use of your information by CDI COLLEGE. </p> <p>If
  we decide to change our privacy policy, we will post those changes on 
 this page so that you are always aware of what information we collect, 
-how we use it, and under what circumstances we disclose it.</p> <h3>If You Have any Questions About This Privacy Policy</h3> <p>If you have any questions about this privacy policy, or the content or practices of our website, you can contact CDI COLLEGE at: <a onclick="recordEmailBound(this.href, '&quot;info@cdicollege.ca&quot;');return false;" href="mailto:&quot;info@cdicollege.ca&quot;">info@cdicollege.ca</a></p> <p>&nbsp;</p>
+how we use it, and under what circumstances we disclose it.</p> <h3>If You Have any Questions About This Privacy Policy</h3> <p>If you have any questions about this privacy policy, or the content or practices of our website, you can contact CDI COLLEGE at: <a onclick="recordEmailBound(this, '&quot;info@cdicollege.ca&quot;');return false;" href="mailto:&quot;info@cdicollege.ca&quot;">info@cdicollege.ca</a></p> <p>&nbsp;</p>
 		</div>
 		
 		<div id="content-sidebar">
@@ -349,11 +370,14 @@ how we use it, and under what circumstances we disclose it.</p> <h3>If You Have 
 
     <form class="form">
         <input type="hidden" name="FormId" value="52">
+        <input type="hidden" name="FormName" value="ShortForm">
         <input type="hidden" name="FormPageId" value="77">
         <input type="hidden" name="valkey">
         <input type="hidden" name="ref" value="">
         <input type="hidden" name="defaultCountry" value="">
+        <input type="hidden" name="defaultProgram" value="">
         <input type="hidden" name="lastHourSubmissions" value="0">
+        <!--  -->
 
         
 
@@ -382,9 +406,49 @@ how we use it, and under what circumstances we disclose it.</p> <h3>If You Have 
     
 
         
+                
+                    
+                    
+                    
+                    
+                    
+
+        
+
+        <div class="divFormTitle shortFormTitle1" style="display: none;">Request Information</div>
+
+    
+
+
+
+    
+
+    
+
+        
+                
+                    
+                    
+                    
+                    
+                    
+
+        
+
+        <div class="divFormTitle shortFormTitle2" style="display: none;">Enroll Today</div>
+
+    
+
+
+
+    
+
+    
+
+        
             <div class="divField divCountry">
                 <div class="divCaption divCaptionCountry">
-                    Country&nbsp;<b class="asterix">*</b>&nbsp;<span class="label"></span><span class="error"></span>
+                    <span class="caption">Country</span>&nbsp;<b class="asterix">*</b>&nbsp;<span class="label"></span><span class="error"></span>
                 </div>
                 <div class="divBox divBoxCountry">
         
@@ -421,7 +485,7 @@ how we use it, and under what circumstances we disclose it.</p> <h3>If You Have 
         
             <div class="divField divFirstName">
                 <div class="divCaption divCaptionFirstName">
-                    First Name&nbsp;<b class="asterix">*</b>&nbsp;<span class="label"></span><span class="error"></span>
+                    <span class="caption">First Name</span>&nbsp;<b class="asterix">*</b>&nbsp;<span class="label"></span><span class="error"></span>
                 </div>
                 <div class="divBox divBoxFirstName">
         
@@ -454,7 +518,7 @@ how we use it, and under what circumstances we disclose it.</p> <h3>If You Have 
         
             <div class="divField divLastName">
                 <div class="divCaption divCaptionLastName">
-                    Last Name&nbsp;<b class="asterix">*</b>&nbsp;<span class="label"></span><span class="error"></span>
+                    <span class="caption">Last Name</span>&nbsp;<b class="asterix">*</b>&nbsp;<span class="label"></span><span class="error"></span>
                 </div>
                 <div class="divBox divBoxLastName">
         
@@ -487,7 +551,7 @@ how we use it, and under what circumstances we disclose it.</p> <h3>If You Have 
         
             <div class="divField divEmail">
                 <div class="divCaption divCaptionEmail">
-                    Email&nbsp;<b class="asterix">*</b>&nbsp;<span class="label"></span><span class="error"></span>
+                    <span class="caption">Email</span>&nbsp;<b class="asterix">*</b>&nbsp;<span class="label"></span><span class="error"></span>
                 </div>
                 <div class="divBox divBoxEmail">
         
@@ -520,7 +584,7 @@ how we use it, and under what circumstances we disclose it.</p> <h3>If You Have 
         
             <div class="divField divPhone">
                 <div class="divCaption divCaptionPhone">
-                    Phone&nbsp;<b class="asterix">*</b>&nbsp;<span class="label"></span><span class="error"></span>
+                    <span class="caption">Phone</span>&nbsp;<b class="asterix">*</b>&nbsp;<span class="label"></span><span class="error"></span>
                 </div>
                 <div class="divBox divBoxPhone">
         
@@ -553,7 +617,7 @@ how we use it, and under what circumstances we disclose it.</p> <h3>If You Have 
         
             <div class="divField divPostalZipCode">
                 <div class="divCaption divCaptionPostalZipCode">
-                    Zip/Postal Code&nbsp;<b class="asterix">*</b>&nbsp;<span class="label"></span><span class="error"></span>
+                    <span class="caption">Zip/Postal Code</span>&nbsp;<b class="asterix">*</b>&nbsp;<span class="label"></span><span class="error"></span>
                 </div>
                 <div class="divBox divBoxPostalZipCode">
         
@@ -584,9 +648,44 @@ how we use it, and under what circumstances we disclose it.</p> <h3>If You Have 
     
 
         
+            <div class="divField divProgram">
+                <div class="divCaption divCaptionProgram">
+                    <span class="caption">Program</span>&nbsp;<b class="asterix">*</b>&nbsp;<span class="label"></span><span class="error"></span>
+                </div>
+                <div class="divBox divBoxProgram">
+        
+                
+                    
+                    
+                        <select class="field selectProgram" name="Program">
+                            
+                        </select>
+                    
+                    
+                    
+                    
+
+        
+                </div>
+                <input type="hidden" name="required" value="Required">
+                <input type="hidden" name="regex" value="">
+            </div>
+        
+
+        
+
+    
+
+
+
+    
+
+    
+
+        
             <div class="divField divCampus">
                 <div class="divCaption divCaptionCampus">
-                    Campus of Interest&nbsp;<b class="asterix"></b>&nbsp;<span class="label"></span><span class="error"></span>
+                    <span class="caption">Campus of Interest</span>&nbsp;<b class="asterix"></b>&nbsp;<span class="label"></span><span class="error"></span>
                 </div>
                 <div class="divBox divBoxCampus">
         
@@ -623,7 +722,7 @@ how we use it, and under what circumstances we disclose it.</p> <h3>If You Have 
         
             <div class="divField divGraduationYear">
                 <div class="divCaption divCaptionGraduationYear">
-                    Graduation Year&nbsp;<b class="asterix"></b>&nbsp;<span class="label"></span><span class="error"></span>
+                    <span class="caption">Graduation Year</span>&nbsp;<b class="asterix"></b>&nbsp;<span class="label"></span><span class="error"></span>
                 </div>
                 <div class="divBox divBoxGraduationYear">
         
@@ -660,7 +759,7 @@ how we use it, and under what circumstances we disclose it.</p> <h3>If You Have 
         
             <div class="divField divQuestion">
                 <div class="divCaption divCaptionQuestion">
-                    Question&nbsp;<b class="asterix"></b>&nbsp;<span class="label"></span><span class="error"></span>
+                    <span class="caption">Question</span>&nbsp;<b class="asterix"></b>&nbsp;<span class="label"></span><span class="error"></span>
                 </div>
                 <div class="divBox divBoxQuestion">
         
@@ -686,9 +785,129 @@ how we use it, and under what circumstances we disclose it.</p> <h3>If You Have 
 
 
 
+    
+
+    
+
+        
+                
+                    
+                    
+                    
+                    
+                    
+
+        
+
+        <a class="formButton formSubmit btnSubmit1" style="display: none;" href="javascript: void(0);" onclick="">Submit</a>
+
+    
+
+
+
+    
+
+    
+
+        
+                
+                    
+                    
+                    
+                    
+                    
+
+        
+
+        <a class="formButton formSubmit btnSubmit2" style="display: none;" href="javascript: void(0);" onclick="">Start your Career</a>
+
+    
+
+
+
+    
+
+    
+
+        
+                
+                    
+                    
+                    
+                    
+                    
+
+        
+
+        <a class="formButton formSubmit btnSubmit3" style="display: none;" href="javascript: void(0);" onclick="">Learn at CDI College</a>
+
+    
+
+
+
+    
+
+    
+
+        
+                
+                    
+                    
+                    
+                    
+                    
+
+        
+
+        <a class="formButton formSubmit btnSubmit4" style="display: none;" href="javascript: void(0);" onclick="">Start Your Education</a>
+
+    
+
+
+
+    
+
+    
+
+        
+                
+                    
+                    
+                    
+                    
+                    
+
+        
+
+        <a class="formButton formSubmit btnSubmit5" style="display: none;" href="javascript: void(0);" onclick="">Train at CDI College</a>
+
+    
+
+
+
+    
+
+    
+
+        
+                
+                    
+                    
+                    
+                    
+                    
+
+        
+
+        <a class="formButton formSubmit btnSubmit6" style="display: none;" href="javascript: void(0);" onclick="">Start Your Career Training</a>
+
+    
+
+
+
 
         <a class="formButton formSubmit" href="javascript: void(0);" onclick="">Request Information</a>
-        <img class="imgProcess" src="/Design/Images/process.gif">
+        <img class="imgProcess" style="display: none;" src="/Design/Images/process.gif">
         <input type="hidden" name="postUrl" value="/GeneratedControls/LeadHandler.aspx?name=ShortForm">
         <input type="hidden" name="nextUrl" value="?form=ShortForm&amp;page=ThankYou">
 
@@ -699,6 +918,18 @@ how we use it, and under what circumstances we disclose it.</p> <h3>If You Have 
 
 
 </div>
+			<h2>Featured Program</h2>
+			
+<div class="featuredProgram">
+    <b>
+        <a class="link" href="/programs-and-courses/oil-and-gas-administration/">Oil &amp; Gas Administration</a></b>
+    <p>
+        </p><p>Canada is the seventh largest oil producer in the world. This growing industry demands business professionals who understand its unique regulations, business models, and other complexities.<br>
+<br>
+CDI College's Oil and Gas Administra...</p>
+    <a href="/programs-and-courses/oil-and-gas-administration/">View Program Information</a>
+</div>
+
 		</div>
 	</div>
 	<div id="sidebar">
@@ -733,7 +964,8 @@ how we use it, and under what circumstances we disclose it.</p> <h3>If You Have 
         <div class="mainNav">
     
 	        <a class="mainItem" href="http://www.cdicollege.ca/admissions/">
-                Admissions</a>
+                Admissions
+                </a>
             
                 <div class="subNav">
             
@@ -757,7 +989,7 @@ how we use it, and under what circumstances we disclose it.</p> <h3>If You Have 
             
                 
             
-                <a onclick="recordInbound(this.href, 'Apply Online');return false;" class="subcategory" href="http://www.cdicollege.ca/admissions/apply-online/">Apply Online</a>
+                <a onclick="recordGAEvent(this, 'In-Page Links', 'Top Navigation', 'Apply Online');return false;" class="subcategory" href="http://www.cdicollege.ca/admissions/apply-online/">Apply Online</a>
             
                 
             
@@ -765,15 +997,28 @@ how we use it, and under what circumstances we disclose it.</p> <h3>If You Have 
             
     
 	        <a class="mainItem" href="http://www.cdicollege.ca/programs-and-courses/">
-                Programs and Courses</a>
+                Programs and Courses
+                </a>
             
                 <div class="subNav">
+            
+                <a class="subcategory" href="http://www.cdicollege.ca/programs-and-courses/school-of-art-and-design/">School of Art and Design</a>
+            
+                
             
                 <a class="subcategory" href="http://www.cdicollege.ca/programs-and-courses/school-of-business/">School of Business</a>
             
                 
             
+                <a class="subcategory" href="http://www.cdicollege.ca/programs-and-courses/school-of-early-childhood-education/">School of Early Childhood Education</a>
+            
+                
+            
                 <a class="subcategory" href="http://www.cdicollege.ca/programs-and-courses/school-of-health-care/">School of Health Care</a>
+            
+                
+            
+                <a class="subcategory" href="http://www.cdicollege.ca/programs-and-courses/school-of-legal-studies/">School of Legal Studies</a>
             
                 
             
@@ -789,7 +1034,8 @@ how we use it, and under what circumstances we disclose it.</p> <h3>If You Have 
             
     
 	        <a class="mainItem" href="http://www.cdicollege.ca/tuition-and-financial-options/">
-                Tuition and Financial Options</a>
+                Tuition and Financial Options
+                </a>
             
                 <div class="subNav">
             
@@ -797,7 +1043,7 @@ how we use it, and under what circumstances we disclose it.</p> <h3>If You Have 
             
                 
             
-                <a class="subcategory" href="http://www.cdicollege.ca/tuition-and-financial-options/scholarships/">Scholarships</a>
+                <a class="subcategory" href="http://www.cdicollege.ca/admissions/scholarships/">Scholarships</a>
             
                 
             
@@ -805,7 +1051,8 @@ how we use it, and under what circumstances we disclose it.</p> <h3>If You Have 
             
     
 	        <a class="mainItem" href="http://www.cdicollege.ca/about-cdi/">
-                About CDI</a>
+                About CDI
+                </a>
             
                 <div class="subNav">
             
@@ -833,11 +1080,16 @@ how we use it, and under what circumstances we disclose it.</p> <h3>If You Have 
             
     
 	        <a class="mainItem" href="http://www.cdicollege.ca/community/">
-                Community</a>
+                Community
+                </a>
             
                 <div class="subNav">
             
                 <a class="subcategory" href="http://www.cdicollege.ca/community/student-services/">Student Services</a>
+            
+                
+            
+                <a class="subcategory" href="http://www.cdicollege.ca/community/career-services/">Career Services</a>
             
                 
             
@@ -865,7 +1117,8 @@ how we use it, and under what circumstances we disclose it.</p> <h3>If You Have 
             
     
 	        <a class="mainItem" href="http://www.cdicollege.ca/british-columbia/">
-                British Columbia</a>
+                British Columbia
+                </a>
             
                 <div class="subNav">
             
@@ -897,7 +1150,8 @@ how we use it, and under what circumstances we disclose it.</p> <h3>If You Have 
             
     
 	        <a class="mainItem" href="http://www.cdicollege.ca/alberta/">
-                Alberta</a>
+                Alberta
+                </a>
             
                 <div class="subNav">
             
@@ -933,7 +1187,8 @@ how we use it, and under what circumstances we disclose it.</p> <h3>If You Have 
             
     
 	        <a class="mainItem" href="http://www.cdicollege.ca/manitoba/">
-                Manitoba</a>
+                Manitoba
+                </a>
             
                 <div class="subNav">
             
@@ -945,7 +1200,8 @@ how we use it, and under what circumstances we disclose it.</p> <h3>If You Have 
             
     
 	        <a class="mainItem" href="http://www.cdicollege.ca/ontario/">
-                Ontario</a>
+                Ontario
+                </a>
             
                 <div class="subNav">
             
@@ -954,6 +1210,14 @@ how we use it, and under what circumstances we disclose it.</p> <h3>If You Have 
                 
             
                 <a class="subcategory" href="http://www.cdicollege.ca/ontario/mississauga/">Mississauga</a>
+            
+                
+            
+                <a class="subcategory" href="http://www.cdicollege.ca/ontario/hamilton/">Hamilton</a>
+            
+                
+            
+                <a class="subcategory" href="http://www.cdicollege.ca/ontario/north-york/">North York</a>
             
                 
             
@@ -969,7 +1233,8 @@ how we use it, and under what circumstances we disclose it.</p> <h3>If You Have 
             
     
 	        <a class="mainItem" href="http://www.cdicollege.ca/quebec/">
-                Quebec</a>
+                Quebec
+                </a>
             
                 <div class="subNav">
             
@@ -997,7 +1262,8 @@ how we use it, and under what circumstances we disclose it.</p> <h3>If You Have 
             
     
 	        <a class="mainItemOnly" href="http://www.cdicollege.ca/sitemap.html">
-                Sitemap</a>
+                Sitemap
+                </a>
             
                 <div class="subNav">
             
@@ -1018,21 +1284,21 @@ how we use it, and under what circumstances we disclose it.</p> <h3>If You Have 
     
     <ul id="news">
 
-            <li><a href="/all-news/community/upcoming-events/"><span class="date">October 7, 2011</span> » Upcoming Events at CDI College</a></li>
+            <li><a href="/all-news/networking/it-professionals-can-learn-of-regional-opportunities-at-career-fairs/"><span class="date">May 3, 2012</span> » IT Professionals Can Learn of Regional Opportunities at Career Fairs</a></li>
 
-            <li><a href="/all-news/ontario/new-cdi-college-campuses-in-mississauga-and-scarborough/"><span class="date">October 3, 2011</span> » CDI College Opens New Campuses in Mississauga and Scarborough</a></li>
+            <li><a href="/all-news/dental/why-cdi-college-dental-assisting-grads-do-so-well-video/"><span class="date">May 2, 2012</span> » New Video Celebrates Graduate Success Rate on National Dental Assisting Exam</a></li>
 
-            <li><a href="/all-news/community/2011-charity-pizza-challenge-results/"><span class="date">September 30, 2011</span> » CDI College Faculty Members Team up to Raise More Than $10,000 in an Apprentice-Style Showdown That Would Make the Boss Himself Proud</a></li>
+            <li><a href="/all-news/accounting/canadian-recruiters-reveal-that-accounting-professionals-continue-to-be-valuable/"><span class="date">May 1, 2012</span> » Canadian Recruiters Reveal that Accounting Professionals Continue to be Valuable</a></li>
 
-            <li><a href="/all-news/student-experience/environmentally-friendly-ipads/"><span class="date">September 27, 2011</span> » Helping the Environment, One iPad at a Time?</a></li>
+            <li><a href="/all-news/networking/employers-search-for-skilled-tech-professionals/"><span class="date">April 30, 2012</span> » Employers Search for Skilled Tech Professionals</a></li>
 
-            <li><a href="/all-news/community/cdi-college-edmonton-charity-pizza-challenge-2011/"><span class="date">September 26, 2011</span> » CDI College Hosts Charity Pizza Challenge in Downtown Edmonton</a></li>
+            <li><a href="/all-news/accounting/go-back-to-school-to-strengthen-career-kills/"><span class="date">April 27, 2012</span> » Go Back to School to Strengthen Career Skills</a></li>
 
-            <li><a href="/all-news/about-cdi/cdi-college-kyle-ferbey-edmonton-city-centre/"><span class="date">September 23, 2011</span> » CDI College Campus Director Named to 2011 Sizzling Twenty Under 30 List</a></li>
+            <li><a href="/all-news/help-desk/get-the-it-job-with-a-tailored-resume/"><span class="date">April 25, 2012</span> » Get the IT Job with a Tailored Resume</a></li>
 
-            <li><a href="/all-news/student-experience/top-ten-reasons-to-use-ebooks/"><span class="date">September 23, 2011</span> » Top Ten Reasons to Use eBooks</a></li>
+            <li><a href="/all-news/nursing/organization-and-boundaries-will-help-with-career-balance/"><span class="date">April 24, 2012</span> » Organization and Boundaries Will Help With Career Balance</a></li>
 
-            <li><a onclick="recordOutbound(this.href, 'FeedBurner');return false;" href="http://feeds.feedburner.com/cdinewsfeed" class="newsRss" rel="nofollow">Subscribe to our RSS feed of news and events</a></li>
+            <li><a onclick="recordOutbound(this, 'FeedBurner');return false;" href="http://feeds.feedburner.com/cdinewsfeed" class="newsRss" rel="nofollow">Subscribe to our RSS feed of news and events</a></li>
      </ul>
     </div>
    
@@ -1065,7 +1331,7 @@ how we use it, and under what circumstances we disclose it.</p> <h3>If You Have 
                         
                             <a href="/admissions/international-students/">International Students</a>
                         
-                            <a onclick="recordInbound(this.href, 'Apply Online');return false;" href="/admissions/apply-online/">Apply Online</a>
+                            <a onclick="recordGAEvent(this, 'In-Page Links', 'Top Navigation', 'Apply Online');return false;" href="/admissions/apply-online/">Apply Online</a>
                         
 
                     
@@ -1076,9 +1342,15 @@ how we use it, and under what circumstances we disclose it.</p> <h3>If You Have 
                     <span class="allCaps">Programs and Courses</span>
                     
                     
+                            <a href="/programs-and-courses/school-of-art-and-design/">School of Art and Design</a>
+                        
                             <a href="/programs-and-courses/school-of-business/">School of Business</a>
                         
+                            <a href="/programs-and-courses/school-of-early-childhood-education/">School of Early Childhood Education</a>
+                        
                             <a href="/programs-and-courses/school-of-health-care/">School of Health Care</a>
+                        
+                            <a href="/programs-and-courses/school-of-legal-studies/">School of Legal Studies</a>
                         
                             <a href="/programs-and-courses/school-of-technology/">School of Technology</a>
                         
@@ -1095,7 +1367,7 @@ how we use it, and under what circumstances we disclose it.</p> <h3>If You Have 
                     
                             <a href="/tuition-and-financial-options/financial-options/">Financial Options</a>
                         
-                            <a href="/tuition-and-financial-options/scholarships/">Scholarships</a>
+                            <a href="/admissions/scholarships/">Scholarships</a>
                         
 
                     
@@ -1126,6 +1398,8 @@ how we use it, and under what circumstances we disclose it.</p> <h3>If You Have 
                     
                     
                             <a href="/community/student-services/">Student Services</a>
+                        
+                            <a href="/community/career-services/">Career Services</a>
                         
                             <a href="/community/alumni/">Alumni</a>
                         
@@ -1170,17 +1444,29 @@ how we use it, and under what circumstances we disclose it.</p> <h3>If You Have 
                     <span class="allCaps">British Columbia</span>
                     
                     
-                            <a href="/british-columbia/victoria/" title="Victoria College">Victoria</a>
+                            <a href="/british-columbia/victoria/" title="Victoria College">
+                                Victoria
+                            </a>
                         
-                            <a href="/british-columbia/vancouver/" title="Vancouver College">Vancouver</a>
+                            <a href="/british-columbia/vancouver/" title="Vancouver College">
+                                Vancouver
+                            </a>
                         
-                            <a href="/british-columbia/burnaby/" title="Burnaby College">Burnaby</a>
+                            <a href="/british-columbia/burnaby/" title="Burnaby College">
+                                Burnaby
+                            </a>
                         
-                            <a href="/british-columbia/surrey/" title="Surrey College">Surrey</a>
+                            <a href="/british-columbia/surrey/" title="Surrey College">
+                                Surrey
+                            </a>
                         
-                            <a href="/british-columbia/abbotsford/" title="Abbotsford College">Abbotsford</a>
+                            <a href="/british-columbia/abbotsford/" title="Abbotsford College">
+                                Abbotsford
+                            </a>
                         
-                            <a href="/british-columbia/richmond/" title="Richmond College">Richmond</a>
+                            <a href="/british-columbia/richmond/" title="Richmond College">
+                                Richmond
+                            </a>
                         
                 </div>
             
@@ -1190,19 +1476,33 @@ how we use it, and under what circumstances we disclose it.</p> <h3>If You Have 
                     <span class="allCaps">Alberta</span>
                     
                     
-                            <a href="/alberta/calgary-city-centre/" title="Calgary City Centre College">Calgary City Centre</a>
+                            <a href="/alberta/calgary-city-centre/" title="Calgary City Centre College">
+                                Calgary City Centre
+                            </a>
                         
-                            <a href="/alberta/calgary-north/" title="Calgary North College">Calgary North</a>
+                            <a href="/alberta/calgary-north/" title="Calgary North College">
+                                Calgary North
+                            </a>
                         
-                            <a href="/alberta/calgary-south/" title="Calgary South College">Calgary South</a>
+                            <a href="/alberta/calgary-south/" title="Calgary South College">
+                                Calgary South
+                            </a>
                         
-                            <a href="/alberta/edmonton-city-centre/" title="Edmonton City Centre College">Edmonton City Centre</a>
+                            <a href="/alberta/edmonton-city-centre/" title="Edmonton City Centre College">
+                                Edmonton City Centre
+                            </a>
                         
-                            <a href="/alberta/edmonton-north/" title="Edmonton North College">Edmonton North</a>
+                            <a href="/alberta/edmonton-north/" title="Edmonton North College">
+                                Edmonton North
+                            </a>
                         
-                            <a href="/alberta/edmonton-south/" title="Edmonton South College">Edmonton South</a>
+                            <a href="/alberta/edmonton-south/" title="Edmonton South College">
+                                Edmonton South
+                            </a>
                         
-                            <a href="/alberta/edmonton-west/" title="Edmonton West College">Edmonton West</a>
+                            <a href="/alberta/edmonton-west/" title="Edmonton West College">
+                                Edmonton West
+                            </a>
                         
                 </div>
             
@@ -1212,7 +1512,9 @@ how we use it, and under what circumstances we disclose it.</p> <h3>If You Have 
                     <span class="allCaps">Manitoba</span>
                     
                     
-                            <a href="/manitoba/winnipeg/" title="Winnipeg College">Winnipeg</a>
+                            <a href="/manitoba/winnipeg/" title="Winnipeg College">
+                                Winnipeg
+                            </a>
                         
                 </div>
             
@@ -1222,13 +1524,29 @@ how we use it, and under what circumstances we disclose it.</p> <h3>If You Have 
                     <span class="allCaps">Ontario</span>
                     
                     
-                            <a href="/ontario/scarborough/" title="Scarborough College">Scarborough</a>
+                            <a href="/ontario/scarborough/" title="Scarborough College">
+                                Scarborough
+                            </a>
                         
-                            <a href="/ontario/mississauga/" title="Mississauga College">Mississauga</a>
+                            <a href="/ontario/mississauga/" title="Mississauga College">
+                                Mississauga
+                            </a>
                         
-                            <a href="/ontario/ajax/" title="Ajax College">Ajax</a>
+                            <a href="/ontario/hamilton/" title="Hamilton College">
+                                Hamilton
+                            </a>
                         
-                            <a href="/ontario/toronto/" title="Toronto College">Toronto</a>
+                            <a href="/ontario/north-york/" title="North York College">
+                                North York
+                            </a>
+                        
+                            <a href="/ontario/ajax/" title="Ajax College">
+                                Ajax
+                            </a>
+                        
+                            <a href="/ontario/toronto/" title="Toronto College">
+                                Toronto
+                            </a>
                         
                 </div>
             
@@ -1238,15 +1556,25 @@ how we use it, and under what circumstances we disclose it.</p> <h3>If You Have 
                     <span class="allCaps">Quebec</span>
                     
                     
-                            <a href="/quebec/montreal/" title="Montreal College">Montreal</a>
+                            <a href="/quebec/montreal/" title="Montreal College">
+                                Montreal
+                            </a>
                         
-                            <a href="/quebec/laval/" title="Laval College">Laval</a>
+                            <a href="/quebec/laval/" title="Laval College">
+                                Laval
+                            </a>
                         
-                            <a href="/quebec/quebec-city/" title="Quebec City College">Quebec City</a>
+                            <a href="/quebec/quebec-city/" title="Quebec City College">
+                                Quebec City
+                            </a>
                         
-                            <a href="/quebec/pointe-claire/" title="Pointe-Claire College">Pointe-Claire</a>
+                            <a href="/quebec/pointe-claire/" title="Pointe-Claire College">
+                                Pointe-Claire
+                            </a>
                         
-                            <a href="/quebec/longueuil/" title="Longueuil College">Longueuil</a>
+                            <a href="/quebec/longueuil/" title="Longueuil College">
+                                Longueuil
+                            </a>
                         
                 </div>
             
@@ -1267,11 +1595,11 @@ how we use it, and under what circumstances we disclose it.</p> <h3>If You Have 
        </a>
     </div>
 
-    <div class="copyright">Copyright © CDI Colleges, Inc. 1995 - 2011</div>
+    <div class="copyright">Copyright © CDI Colleges, Inc. 1995 - 2012</div>
 </div></div>
 
 <div class="legalLink">
-  <a href="/About-CDI/Legal/Legal" target="_blank" rel="nofollow">Legal Notice</a>
+  <a href="/legal/" target="_blank" rel="nofollow">Legal Notice</a>
   <a href="/privacy-policy/" target="_blank" rel="nofollow">Privacy Policy</a>
 </div>
 
