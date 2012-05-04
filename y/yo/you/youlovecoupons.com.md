@@ -1,59 +1,41 @@
-> *The following text is extracted and transformed from the youlovecoupons.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230164734id_/http%3A//youlovecoupons.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youlovecoupons.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504030647id_/http%3A//www.youlovecoupons.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Discount Coupon Codes and Promotional Vouchers
 
-Your privacy on the Internet is of the utmost importance to us. At YouLoveCoupons we want to make your experience online satisfying and safe.
+Tantamount to providing excellent customer service is our objective to protect the privacy and confidentiality of information shared by our users. We believe that our customers have the right to know how we conduct our business especially when it comes to valuable information gathered by our company.
 
-Because we gather certain types of information about our users, we feel you should fully understand our policy related to the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
+Therefore, this privacy policy aims to expound on our processes pertaining to the security of our systems when dealing with customer information. It is our goal to generate a sense of safety for everyone who decides to access our products and services.
 
-**What information do we collect?**
+#### Usage of Information
 
-We collect information from you only if you opt-in for our newsletter. When opting in you will be asked to enter your e-mail address.  
+Our company gathers information from customers once they sign up for our newsletter. In order to subscribe to our newsletter, a customer must submit his/her email address. This information is then used by our team to enhance the performance of our services such as our company website in lieu of the feedback we receive from our valued customers.
 
-**What do we use your information for?**
+Moreover, we also make use of this information to update them on our current offerings and activities through email. A customer can still opt to stop his/her subscription from our newsletter by just following the proper instructions found on our website.
 
-The information we collect from you may be used in one of the following ways:
+#### Protection of Information
 
-• To improve our website (we continually strive to improve our website offerings based on the response we receive from you)
+Top security systems and procedures are in place to eliminate breach of information by unauthorized persons. We consistently upgrade our security system to ensure that personal information remain accessible to the customer and top administration only. Our database network is duly protected by password codes which are restricted to authorized personnel only. Currently, our computer systems do not support the use of cookies in retaining information from customers.
 
-• To send periodic emails to those who have opted-in to our Newsletter
+#### Third Party Disclosure
 
-Note: If at any time you would like to unsubscribe from receiving our Newsletter, we include detailed unsubscribe instructions at the bottom of each email.
+It is our company’s objective to sustain the level of integrity and professionalism in every dealing with our customers. Hence, we strictly prohibit the trade or disclosure of these personal information to third parties who may exploit this accessibility. However, it is within our discretion to divulge such information to trusted partners on the condition that they uphold a contract of confidentiality.  It is also the company’s prerogative to use the information when deemed proper especially in compliance with the law or in relation to the safety and protection of our rights and those of others.
 
-**How do we protect your information?**
+#### Third Party Affiliates
 
-We implement a variety of security measures to maintain the safety of your personal information when you access your personal information. Access to our customer database is password protected and available only to Administration level. Sub administration do not have access to the customer database.
+Apart from our own product offerings, we also promote the services of our affiliate group of companies. These third party partners carry out their own privacy policies which customers must first be aware of prior to making any transaction on these featured sites. YouLoveCoupons is not responsible for any information or service offered by these third parties, however, in line with improving our overall performance, we accept and encourage customer feedback on their services.
 
-**Do we use cookies?**
+#### Government Laws
 
-Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We do not use cookies.
+In compliance with the California Online Privacy Protection Act, we guarantee that customer information will not be disseminated to external parties. It is the right of each customer to change his/her submitted information at anytime or when deemed necessary. By simply logging into their account and opening the profile page, they could modify the existing information in the database.
 
-**Do we disclose any information to outside parties?**
+Moreover, the Children’s Online Privacy Protection Act is strictly followed by our company with our offerings and services intended only for customers who are at least 13 years old. Information such as names or addresses are not mandated when using our site. We only require an email address in order to sign up for our products.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety.
+#### Terms and Conditions
 
-**Third party links**
+To better understand our policies, rules and limitations of liability, please read our Terms and Conditions prior to using our website.  By signing up, you are therefore agreeing to the privacy policy of YouLoveCoupons.
 
-As a coupon code and voucher website we include and offer third party products and services that we are affiliated with. These third party companies have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+#### Privacy Policy Changes
 
-**California Online Privacy Protection Act Compliance**
+Changes to our private policy may occur when necessary and without prior notice, hence, customers are advised to visit this page for updates before using our products and services.
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties.  As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘Edit Profile’ page where they can edit or remove the only information we hold about them, which is their email.
-
-**Children’s Online Privacy Protection Act Compliance**
-
-We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act).  We do not collect any personal information such as name or address from anyone. Siging into our newsletter is optional and requires only an email address. Our website, affiliate products and services are all directed to people who are at least 13 years old or older.
-
-**Terms and Conditions**
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website.
-
-**Your Consent**
-
-By using our site, you consent to our online privacy policy.
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page without prior notice.
-
-If you wish to [contact us](http://www.youlovecoupons.com/contact-us/ "contact us") please use the Contact Us page or email us at info[at]youlovecouponsdotcom
+For inquiries, comments and feedback, please visit our [Contact Us](http://www.youlovecoupons.com/contact-us/ "Contact Us") page or email us at [info[a]youlovecoupons.com](mailto:info@youlovecoupons.com).
