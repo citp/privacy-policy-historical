@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the myfbcovers.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016034646id_/http%3A//www.myfbcovers.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfbcovers.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504123445id_/http%3A//www.myfbcovers.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - myFBCovers
+# Privacy Policy - GraphicFlash LLC
 
-When accessing our Website, GraphicFlash LLC will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site. 
+When accessing myFBCovers, GraphicFlash LLC will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site. 
 
 If you visit our site to read or download information on our pages, we collect and store only the following information about you: 
 
   * **1.** The name of the domain from which you access the Internet 
   * **2.** The date and time you access our site 
   * **3.** The Internet address of the website you used to link directly to our site. 
+  * **4.** Any information granted through a Facebook Application 
 
 
 
