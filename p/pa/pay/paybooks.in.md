@@ -1,100 +1,92 @@
-> *The following text is extracted and transformed from the paybooks.in privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paybooks.in privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504070431id_/http%3A//paybooks.in/wp-content/uploads/2012/01/privacy_policy.pdf) for the most accurate reproduction.*
 
-# Legal Agreement
+# 1.
 
-**Go Daddy Respects Your Privacy**
+PRIVACY POLICY
+Soatech Solution Private Limited ( “Soatech”, “Paybooks”, “"we", "us" and terms of similar
+meaning) owns and operates the sites www.paybooks.in, www.ess.paybooks.in and
+www.demo.paybooks.in.
+By      accessing      the      website     www.paybooks.in       or   www.ess.paybooks.in       or
+www.demo.paybooks.in, you are agreeing to accept and comply with the terms and conditions
+of use as stated in Terms of Service. The following statement describes the privacy practices
+for Soatech. We respect individual privacy and strive to collect and use personal information in
+a manner consistent with the applicable laws. Some information provided to us by clients,
+customers, contractors and other third parties might be considered private or personal.
+Without these details we would not be able to carry on our business and provide our services to
+you. We will only collect such personal information if it is necessary for one of our functions or
+activities.
+ONLINE PRIVACY POLICY
+This Online Privacy Policy covers use of the site www.paybooks.in, www.ess.paybooks.in and
+www.demo.paybooks.in.
+ All information disclosed by visitors is subject to this Privacy Policy. With respect to data
+received through its websites, Paybooks will comply with the following:
+     1. TYPES AND USES OF INFORMATION
+     a. Paybooks gathers personal information from site visitors from time to time in order to
+         enhance existing offerings or provide additional services. The company gathers only the
+         information essential for understanding visitors in such a way as to provide better
+         payroll products and services. This may include contact information such as name, email
+         address, telephone number, and company name, and perhaps other data.
+     b. Paybooks also may monitor customer traffic patterns and site usage to help refine and
+         improve the design and layout of the website as well as the user experience. As a result,
+         Paybooks automatically tracks certain information about site visitors. This information
+         includes the users’ browser type, most recent URL and the next URL that the user visits,
+         regardless of whether these URLs are on the Paybooks website or not. Paybooks also
+         will track visitors’ IP addresses. Paybooks uses this information to, among other things,
+         identify broad demographic trends that may be used to provide information tailored to
+         users’ interests.
+     c. Any personal information given to us through our website is used exclusively by
+         Paybooks unless otherwise noted on the site. Paybooks does not make this information
+         available to third parties who trade or rent information for direct marketing purposes.
+     d. Paybooks does not collect e-mail addresses without the site visitor voluntarily providing
+         us with this information (typically via our online information or demo request form,
+         whitepaper request form, and other website forms and surveys). Paybooks will
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+       periodically use that contact information to send visitors e-mail or other
+       communications for sales, service, support and marketing purposes. Visitors who do not
+       wish to receive marketing e-mail from Paybooks in the future may opt out of receiving
+       these communications by following the instructions included in each communication.
+    2. LINKS
+Our web site may contain links to other web sites and those third party web sites may collect
+personal information about you. We are not responsible for the privacy practices of other
+businesses or the content of web sites that are linked to our web site. Paybooks encourages
+users to be aware when they leave the site and to read the privacy statements of each and
+every web site that collects personally identifiable information.
+    3. SECURITY OF INFORMATION
+    a) Paybooks endeavours to maintain appropriate safeguards and adequate physical,
+       procedural and technical security with respect to our offices and information storage
+       facilities so as to prevent any unauthorized access, disclosure, copying, use, or
+       modification of personal information. Safeguards include physical protection by the use
+       of locked cabinets and technological measures by way of secure access and encryption.
+       Paybooks employees are authorized to access personal information based only on their
+       need to deal with the information for the reason(s) for which it was obtained.
+       Safeguards are in place to ensure that the information is not disclosed or shared more
+       widely than is necessary to achieve the purpose for which it was gathered. We also take
+       measures to ensure the integrity of this information is maintained and to prevent its
+       being lost or destroyed.
+    b) To ensure the integrity and privacy of the personal and credit card information you pass
+       to us via the Internet when you make an online transaction, Paybooks has obtained a
+       Secure Socket Layer (SSL) Server Certificate, with the strongest level of 128-bit
+       encryption. All information collected within a secure page is encrypted while being
+       transmitted to Paybooks’ secure server. The server is protected by a firewall that is
+       regularly updated when new patches and fixes are released.
+    4. NOTIFICATION OF PRIVACY POLICY CHANGES/CHOICE
+Paybooks reserves the right to change, modify, add, or remove portions of this Policy at any
+time. All changes will be posted on this page to inform our users what information we collect,
+how we use it, and under what circumstances, if any, we may disclose it. We may e-mail
+periodic reminders of our notices and conditions, unless you have instructed us not to, but you
+should check www.payrollmanagerexpress.com frequently to see recent changes. Unless stated
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-**Information Collection and Use**
-
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
-
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
-
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
-
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
-
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
-
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
-
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
-
-**Security**
-
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
-
-**Updating Your Information**
-
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
-
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
-
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
-
-      iii.      You may call us at: (480) 505-8800
-
-       iv.      You may fax us at: (480) 505-8844
-
-**Sending Emails**
-
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
-
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+otherwise, our current privacy notice applies to all information that we have about you and
+your account. We will not materially change our policies and practices to make them less
+protective of personal information collected in the past without the consent of affected users.
+     5. LEGAL DISCLAIMER
+Paybooks may disclose Personal Information when required by law or in the good faith belief
+that such action is necessary in order to conform to the edicts of the law, comply with legal
+mandates, enforce the terms of use of Paybooks’ website, enforce agreement between
+Paybooks and its customers or to protect the rights, property, or personal safety of Paybooks,
+its users and the public.
+     6. CONTACTING PAYBOOKS
+If you have any questions about this privacy policy, the practices of this site, or your dealings
+with this site, please send correspondence to the following address……
