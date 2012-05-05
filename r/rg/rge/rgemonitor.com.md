@@ -1,26 +1,30 @@
-> *The following text is extracted and transformed from the rgemonitor.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102204657id_/http%3A//www.roubini.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rgemonitor.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505144143id_/http%3A//www.roubini.com/privacy) for the most accurate reproduction.*
 
 # Roubini Global Economics
+
+**RGE Privacy Policy**
 
 **Roubini Global Economics, LLC Privacy Notice**
 
 **Substantive Changes to Privacy Policy** : 
 
-  * Clarified the transactions to which the Privacy Policy applies. 
-  * Explained the use of web beacons and IP addresses. 
-  * For our users in the European Economic Area, indicate our compliance with the US/EU Safe Harbor Principles. 
+  * Clarified the transactions to which the Privacy Policy applies.
+  * Explained the use of web beacons and IP addresses.
+  * For our users in the European Economic Area, indicate our compliance with the US/EU Safe Harbor Principles.
 
 
 
-**Roubini Global Economics, LLC ("RGE")** provides this notice explaining our online information practices and the way your personal information is collected and used. If you do not agree with the practices explained in this policy, do not use the service, and if necessary, ask that your registration or subscription be cancelled. This policy applies only to information RGE collects from you in connection with your use of the Service. By using the Service, and by checking the box indicating agreement with the Terms of Use during registration, you agree to accept the practices and terms set forth in this Privacy Policy. Capitalized terms not defined in this policy shall have the meaning set forth in the [RGE Terms and Conditions](http://www.roubini.com/terms-and-conditions.php).
+**Roubini Global Economics, LLC ("RGE")**
+
+provides this notice explaining our online information practices and the way your personal information is collected and used. If you do not agree with the practices explained in this policy, do not use the service, and if necessary, ask that your registration or subscription be cancelled. This policy applies only to information RGE collects from you in connection with your use of the Service. By using the Service, and by checking the box indicating agreement with the Terms of Use during registration, you agree to accept the practices and terms set forth in this Privacy Policy. Capitalized terms not defined in this policy shall have the meaning set forth in the [RGE Terms and Conditions](http://www.roubini.com/terms-and-conditions.php).
 
 **1\. Children**
 
-RGE does not knowingly collect personal information from children under the age of 13. RGE requests that children under the age of 13 not use the Service nor submit any personal information to the Service. Because RGE does note collect information regarding children under the age of 13, RGE does not knowingly use or distribute personal information regarding children under the age of 13. If RGE obtains actual knowledge that it has collected personal information about a child under the age of 13, that information will be immediately deleted from our database.
+RGE does not knowingly collect personal information from children under the age of 13. RGE requests that children under the age of 13 not use the Service nor submit any personal information to the Service. Because RGE does not collect information regarding children under the age of 13, RGE does not knowingly use or distribute personal information regarding children under the age of 13. If RGE obtains actual knowledge that it has collected personal information about a child under the age of 13, that information will be immediately deleted from our database.
 
 **2\. Personally Identifiable Information**
 
-Registration is required to access certain features of the Service. As part of the registration process you are asked for limited personal and demographic information and are required to choose a username and password that will be used to gain access to the Service. While most of the information we collect is used internally for site analysis and improvement, some of the demographic information in your registration data is used in compiling reports that we may disclose to our partners as part of our business. However, it is important to note that, except as stated in Section 3 below, RGE will never disclose or associate with your site usage any of your personally identifiable information, which consists of the following: name, postal address, telephone number, fax number, e-mail address, username.
+Registration is required to access certain features of the Service. As part of the registration process you are asked for limited personal and demographic information and are required to choose a username and password that will be used to gain access to the Service. While most of the information we collect is used internally for site analysis and improvement, some of the demographic information in your registration data is used in compiling reports that we may disclose to our partners as part of our business. However, it is important to note that, except as stated in Section 3 below, RGE will never disclose or associate with your site usage any of your personally identifiable information, which consists of the following: name, postal address, telephone number, title, e-mail address, username.
 
 **3\. Use and Disclosure of Personally Identifiable Information**
 
@@ -28,7 +32,7 @@ RGE does not rent or sell to advertisers personally identifiable information, su
 
      To deliver you the Service and send you notices related to the Service, your Account and necessary updates. This includes fulfilling your requests for products and services.
 
-     To e-mail you our newsletter, promotions and special offers from us and our partners. You may remove yourself from this list at any time by following the link in the e-mail that we send to you or by unscribing in your Account management area.
+     To e-mail you our newsletter, promotions and special offers from us and our partners. You may remove yourself from this list at any time by following the link in the e-mail that we send to you or by unsubscribing in your Account management area.
 
      To manage your Account and Account access, provide you with RGE Content and User-Supplied Content, purchase confirmations, support and customer service and to keep track of support and customer service requests.
 
@@ -66,11 +70,11 @@ For personal information of employees, consumers, healthcare professionals, medi
 
 **9\. Contact, Corrections and Updates**
 
-If you have any questions or comments about this policy or have questions about our privacy practices, or to issue a complaint, contact us at privacy@roubini.com.
+If you have any questions or comments about this policy or have questions about our privacy practices, or to issue a complaint, contact us at [privacy@roubini.com](mailto:privacy@roubini.com).
 
 Roubini Global Economics, LLC 95 Morton Street, 6th Floor New York, New York 10014 Attention: Privacy Manager
 
-You may change your User profile and personally identifiable information at any time by logging onto the Service and clicking on the "Manage my Account" link in the left hand navigation.
+You may change your User profile and personally identifiable information at any time by logging onto the Service and clicking on the "Manage my Account" link in the navigation.
 
 **10\. Reasonable Efforts**
 
@@ -85,6 +89,3 @@ If you have not established an Account, any modifications to this Privacy Policy
 **Last Updated (November 30, 2009)**
 
 _©Roubini Global Economics, LLC. All rights reserved. RGE reserves the right to enforce its copyright and pursue other redress. RGE is not a certified investment advisory service and aims to create an intellectual framework for informed financial decisions by its clients._
-
-  
-
