@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optimizely.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206131407id_/http%3A//www.optimizely.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimizely.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505033544id_/http%3A//www.optimizely.com/privacy) for the most accurate reproduction.*
 
 # Optimizely: Privacy Policy
 
@@ -10,8 +10,6 @@
 #### Effective Date: July 2, 2010.
 
 Optimizely, Inc. ("Optimizely," "we," or "us") knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Optimizely when you access the Optimizely Service (including through the websites of our partners), how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Use](https://web.archive.org/terms).
-
-Optimizely has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at support@optimizely.com. If you are not satisfied with our response you can contact TRUSTe [here](http://www.truste.com/about_TRUSTe/contact_us.html). 
 
 ### Information We Collect
 
