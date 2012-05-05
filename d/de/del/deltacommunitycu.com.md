@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the deltacommunitycu.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630142011id_/https%3A//www.deltacommunitycu.com/forms/PrivacyPolicy2011.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deltacommunitycu.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505025913id_/https%3A//www.deltacommunitycu.com/forms/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # FACTS
 
-                                                                                                                            Rev. 1/11
+                                                                                                                            Rev. 1/12
                                        Privacy and Opt-Out Notification
                                                      What does Delta Community Credit Union
       FACTS                                              do with your personal information?
@@ -69,14 +69,14 @@ Definitions
 Affiliates                                              Companies related by common ownership or control. They
                                                         can be financial and nonfinancial companies.
                                                              • Our affiliates include financial companies such as
-                                                               Members Insurance Advisors.
+                                                                Members Insurance Advisors.
 Nonaffiliates                                           Companies not related by common ownership or control.
                                                         They can be financial and nonfinancial companies.
                                                              • Nonaffiliates we share with can include insurance
-                                                               companies, service providers and other financial
-                                                               institutions.
+                                                                companies, service providers and other financial
+                                                                institutions.
 Joint Marketing                                         A formal agreement between nonaffiliated financial
                                                         companies that together market financial products or
                                                         services to you.
                                                              • Our joint marketing partners include insurance
-                                                               companies and service providers.
+                                                                companies and service providers.
