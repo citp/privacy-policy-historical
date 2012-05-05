@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the nejm.org privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216230329id_/http%3A//www.nejm.org/page/about-nejm/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nejm.org privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505061234id_/http%3A//www.nejm.org/page/about-nejm/privacy-policy) for the most accurate reproduction.*
 
 # NEJM — About NEJM - Privacy Policy
 
   
-NEJM.org is owned and operated by the Massachusetts Medical Society (“MMS”). We take privacy issues seriously and are committed to protecting your personal information. Please take a moment to review our privacy policy, which explains how we collect, use, and safeguard information you enter at NEJM.org. This privacy policy applies only to information collected by MMS through NEJM.org. This privacy policy does not govern personal information furnished to MMS through any means other than NEJM.org.
+NEJM.org is owned and operated by the Massachusetts Medical Society (“MMS”). We take privacy issues seriously and are committed to protecting your personal information. Please take a moment to review our privacy policy, which explains how we collect, use, and safeguard information you enter at NEJM.org and any of our digital applications (such as our iPhone and iPad applications). This privacy policy applies only to information collected by MMS through NEJM.org and our digital applications. This privacy policy does not govern personal information furnished to MMS through any other means.
 
 #### WHAT INFORMATION DO WE COLLECT?
 
 ##### **Information You Provide to Us**
 
-We will request information from you if you establish a personal profile on our site to gain access to certain content or services, if you ask to be notified by e-mail about online content, or if you participate in surveys we conduct. This requires the input of personal information and preferences that may include, but is not limited to, details such as your name, address (postal and e-mail), telephone number, or demographic information. If you request paid content, including subscriptions, we will also ask for payment information such as credit card type and number. 
+We will request information from you if you establish a personal profile to gain access to certain content or services, if you ask to be notified by e-mail about online content, or if you participate in surveys we conduct. This requires the input of personal information and preferences that may include, but is not limited to, details such as your name, address (postal and e-mail), telephone number, or demographic information. If you request paid content from NEJM.org, including subscriptions, we will also ask for payment information such as credit card type and number. 
 
 ##### **Information That Is Automatically Collected** _ ****_
 
 ##### _**Log Files**_   
 
 
-We use log files to collect general data about the movement of visitors through our site. This may include some or all of the following information: the Internet Protocol Address (IP Address) of the machine which accessed our Web site, host name, domain name, browser version and platform, date and time of requests, and the files downloaded or viewed. We use this information to measure and analyze traffic and usage of NEJM.org.   
+We use log files to collect general data about the movement of visitors through our site and digital applications. This may include some or all of the following information: the Internet Protocol Address (IP Address) of your computer or other digital device, host name, domain name, browser version and platform, date and time of requests, and the files downloaded or viewed. We use this information to measure and analyze traffic and usage of NEJM.org and our digital applications.   
 
 
 _**Cookies**_   
@@ -34,26 +34,25 @@ back to top
 #### ****HOW IS THIS INFORMATION USED?**   
 **
 
-Information that you provide to us will be used to process, fulfill, and deliver your requests for content and services. We may send you information about our products and services, unless you have indicated you do not wish to receive further information.
+Information that you provide to us will be used to process, fulfill, and deliver your requests for content and services. We may send you information about our products and services, unless you have indicated you do not wish to receive further information. 
 
-Information that is automatically collected is used to monitor usage patterns of NEJM.org in order to help us improve the site and its service offerings.  We do not sell or rent your e-mail address to any third party. You may unsubscribe from our e-mail services at any time.  For additional information on how to unsubscribe from our e-mail services, please refer to the **How to Make Changes to Your Information section** of this Privacy Policy.   
+Information that is automatically collected is used to monitor usage patterns at NEJM.org and at our digital applications in order to help us improve our service offerings.  We do not sell or rent your e-mail address to any third party. You may unsubscribe from our e-mail services at any time.  For additional information on how to unsubscribe from our e-mail services, please refer to the **How to Make Changes to Your Information section** of this Privacy Policy. 
 
-
-We may report aggregate information about NEJM.org usage to third parties, including our service vendors and advertisers.  For additional information, please also see our **[Internet Advertising Policy](https://web.archive.org/page/about-nejm/advertising-policy)**. We may also disclose personal and demographic information about your use of NEJM.org  to companies and individuals we engage to perform functions on our behalf.  Examples may include hosting our Web servers, analyzing data, and providing marketing assistance.  These companies and individuals are obligated to maintain your personal information as confidential and may have access to your personal information only as necessary to perform their requested function on our behalf.
+We may report aggregate information about usage to third parties, including our service vendors and advertisers.  For additional information, please also see our  **[Internet Advertising Policy](https://web.archive.org/page/about-nejm/advertising-policy)**. We may also disclose personal and demographic information about your use of NEJM.org and our digital applications to companies and individuals we engage to perform functions on our behalf.  Examples may include hosting our Web servers, analyzing data, and providing marketing assistance.  These companies and individuals are obligated to maintain your personal information as confidential and may have access to your personal information only as necessary to perform their requested function on our behalf.
 
 ##### **Advertisers**
 
-****We contract with third-party advertisers and their agents that post on our site banner and other advertisements, which may link to other Web sites not under our control. These third-party advertisers may use cookie technology or similar means to measure the effectiveness of their ads or may otherwise collect personally identifying information from you when you leave our site. We are not responsible or liable for any content, advertising, products or other materials offered from such advertisers and their agents. Transactions that occur between you and the third-party advertisers are strictly between you and the third party and are not our responsibility. You should review the privacy policy of any third-party advertiser and its agent, as their policies may differ from ours.
+****We contract with third-party advertisers and their agents to post banner and other advertisement at our site and digital applications.   These advertisements may link to Web sites not under our control. These third-party advertisers may use cookie technology or similar means to measure the effectiveness of their ads or may otherwise collect personally identifying information from you when you leave our site or digital applications. We are not responsible or liable for any content, advertising, products or other materials offered from such advertisers and their agents. Transactions that occur between you and the third-party advertisers are strictly between you and the third party and are not our responsibility. You should review the privacy policy of any third-party advertiser and its agent, as their policies may differ from ours.
 
 ##### **Advertisement Servers**
 
-We use a third-party ad server, CheckM8, to serve advertising at NEJM.org. CheckM8 does not collect any personally identifiable information regarding consumers who view or interact with CheckM8 advertisements. CheckM8 solely collects non-personally identifiable ad delivery and reporting data. For further information, see **[CheckM8’s privacy policy](http://www.checkm8.com/privacy_policy)**. ****back to top   
+We use a third-party ad server, CheckM8, to serve advertising at NEJM.org. CheckM8 does not collect any personally identifiable information regarding consumers who view or interact with CheckM8 advertisements. CheckM8 solely collects non-personally identifiable ad delivery and reporting data. For further information, see  **[CheckM8’s privacy policy](http://www.checkm8.com/privacy_policy)**. ****back to top   
 
 
 #### ******WHAT SECURITY MEASURES ARE USED?**   
 
 
-When you submit personal information via NEJM.org, your information is protected both online and offline with what we believe to be appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. We use the latest Secure Socket Layer (SSL) technology, which encrypts your credit card and personal information. ****back to top **  
+When you submit personal information via NEJM.org or our digital applications, your information is protected both online and offline with what we believe to be appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect. For information submitted via NEJM.org, we use the latest Secure Socket Layer (SSL) technology to encrypt your credit card and personal information.  ****back to top **  
 **
 
 #### ****HOW TO MAKE CHANGES TO YOUR INFORMATION**   
@@ -68,7 +67,7 @@ You may also contact our Customer Service Department by telephone: 800-843-6356 
 #### ****USER-GENERATED CONTENT FORUMS**   
 **
 
-Any data or personal information that you submit to us as user-generated content becomes public and may be used by MMS in connection with NEJM.org and other MMS publications in any and all media.  For more information, see our **[User-Generated Content Guidelines](https://web.archive.org/page/about-nejm/terms-of-use#usergen)**. ****back to top **  
+Any data or personal information that you submit to us as user-generated content becomes public and may be used by MMS in connection with NEJM.org, our digital applications, and other MMS publications in any and all media.  For more information, see our **[User-Generated Content Guidelines](https://web.archive.org/page/about-nejm/terms-of-use#usergen)**. ****back to top **  
 **
 
 #### ****OTHER INFORMATION**   
