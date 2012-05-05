@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fidelitybankplc.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113135358id_/http%3A//www.fidelitybankplc.com/pages.asp%3Fparentid%3D269%26id%3D269) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fidelitybankplc.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505233802id_/http%3A//fidelitybankplc.com/pages.asp%3Fparentid%3D269%26id%3D269) for the most accurate reproduction.*
 
 # We are Fidelity - We keep our word
 
