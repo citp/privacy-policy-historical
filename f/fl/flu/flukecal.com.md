@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the flukecal.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227092240id_/http%3A//us.flukecal.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flukecal.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505114529id_/http%3A//us.flukecal.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fluke Calibration: United States
-
-Access denied. You must login to view this page.
 
 **Last updated January 6, 2011**  
 Fluke Calibration has created this privacy statement to demonstrate our commitment to privacy, and to ensure you are aware of our latest position regarding privacy. Please note that this statement is subject to change, so we suggest you refer to it any time you may have questions regarding Fluke Calibration's privacy practices relative to the web. The following discloses our current information gathering and dissemination practices for the [www.flukecal.com](https://web.archive.org/home) website. For non-U.S. websites, please review their specific Privacy Statements.
