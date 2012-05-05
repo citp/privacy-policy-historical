@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the darpa.mil privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101140306id_/http%3A//www.darpa.mil/Privacy_Security_Notice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darpa.mil privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505115222id_/http%3A//www.darpa.mil/Privacy_Security_Notice.aspx) for the most accurate reproduction.*
 
-# Defense Advanced Research Projects Agency - Privacy & Security Notice
+# Privacy & Security Notice
 
 1\. This Web site is provided as a public service by the DARPA  
 2\. Information presented on this Web site is considered public information and may be distributed or copied unless otherwise specified. Use of appropriate byline/photo/image credits is requested.  
@@ -14,7 +14,7 @@
 This website uses measurement and customization technology known as a "cookies." Cookies are used to remember a user's online interactions with a website or online application in order to conduct measurement and analysis of usage or to customize the user's experience.   
 There are two kinds of cookies used on this website. A single-session cookie (Tier 1) is a line of text that is stored temporarily on a user's computer and deleted as soon as the browser is closed. A persistent or multi-session cookie (Tier 2) is saved to a file on a user's hard drive and is called up the next time that user visits a website. Use of these cookies does not involve the collection of a visitor's personally identifiable information (PII).   
 The Department of Defense does not use the information associated with cookies to track individual user activity on the Internet outside Defense Department websites, nor does it share the data obtained through such technologies, without the user's explicit consent, with other departments or agencies. The Department of Defense does not keep a database of information obtained from the use of cookies.   
-Cookies are enabled by default to optimize website functionality and customize user experience. Users can choose not to accept the use of these cookies by changing the settings on their local computer's web browser. The USA.gov website, <http://www.usa.gov/optout_instructions.shtml>, provides general instructions on how to opt out of cookies and other commonly used web measurement and customization technologies. Opting out of cookies still permits users to access comparable information and services; however, it may take longer to navigate or interact with the website if a user is required to fill out certain information repeatedly.
+Cookies are enabled by default to optimize website functionality and customize user experience. Users can choose not to accept the use of these cookies by changing the settings on their local computer's web browser. The USA.gov website provides general instructions on how to opt out of cookies and other commonly used web measurement and customization technologies. Opting out of cookies still permits users to access comparable information and services; however, it may take longer to navigate or interact with the website if a user is required to fill out certain information repeatedly.
 
 ##### Specific Technologies/Vendors:
 
@@ -25,5 +25,8 @@ Defense.gov uses Tier 2 cookies to remember whether a website visitor prefers to
 
 ##### Use of Third-party Websites and Applications 
 
-Third-party websites and applications that are not owned, operated, or controlled by the Department of Defense are integral to Internet-based operations across the Department of Defense. These capabilities include social networking services, wikis, photo- and video-hosting services, data mashups, and so forth. A list of all Defense Department official pages across various social media networks can be found at <http://www.defense.gov/registeredsites/socialmediasites.aspx>.   
- 
+Third-party websites and applications that are not owned, operated, or controlled by the Department of Defense are integral to Internet-based operations across the Department of Defense and used to augment official communication. These capabilities include, but are not limited to, networking services, media sharing services, wikis and data mashups. A list of the Defense Department's authorized pages and uses of these services is listed at [www.defense.gov/registeredsites/socialmediasites.aspx](https://web.archive.org/external_Link.aspx?url=http://www.defense.gov/registeredsites/socialmediasites.aspx "www.defense.gov/registeredsites/socialmediasites.aspx"). These sites may collect PII and may make it available to the Department of Defense and other users; however, the PII is not collected on behalf of, nor is it provided specifically for, the Department of Defense. The Department of Defense does not harvest and additionally collect, maintain, share or otherwise use such PII for any purpose other than that for which it is made available to all users.
+
+##### DARPA PRIVACY IMPACT ASSESSMENTS (PIAs)
+
+[Click here](https://web.archive.org/WorkArea/DownloadAsset.aspx?id=2147484897 "Privacy Impact Assessment") for a list of approved DARPA PIAs.
