@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbtopsites.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007162706id_/http%3A//cbtopsites.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbtopsites.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506003703id_/http%3A//cbtopsites.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy for CBTopSites.com
 
@@ -49,11 +49,9 @@ If you have any questions, comments or concerns about our Privacy Policy, you ma
 
 [](http://tellafriend.socialtwist.com/)   [](http://addthis.com/bookmark.php?v=250&pub=downloadsonline.org)
 
-Please Send Your Feedback / Contact us
-
 * * *
 
-email to: admin at cbtopsites.com © 2005-10 CBTopSites.com All Rights Reserved.   [Privacy Policy](http://cbtopsites.com/privacy_policy.php) [Webmasters and Affiliates](http://cbtopsites.com/site/downlod "Webmasters and Affiliates earn money")
+email to: admin at cbtopsites.com © 2005-11 CBTopSites.com All Rights Reserved.   [Privacy Policy](http://cbtopsites.com/privacy_policy.php) [Webmasters and Affiliates](http://cbtopsites.com/site/downlod "Webmasters and Affiliates earn money")
 
 Disclaimer : CBTopSites.com directory updates the details about Privacy Policy for CBTopSites.com sites from the Clickbank datafeed or the publisher websites or blogs. We do not directly provide Privacy Policy for CBTopSites.com downloads, CD or DVD, pirated torrent files, nulled or cracked versions, or links from file sharing sites like rapidshare, megaupload or mediafire etc. Direct Download links are available on the product web sites after purchase. 
 
