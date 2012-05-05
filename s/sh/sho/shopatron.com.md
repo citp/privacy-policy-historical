@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shopatron.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222094844id_/http%3A//ecommerce.shopatron.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopatron.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505051912id_/http%3A//ecommerce.shopatron.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy .:. Shopatron
+# Privacy Policy | Shopatron eCommerce
 
 **Information We Collect**  
 The Shopatron service collects information about the use of the service to provide a secure and personalized experience. This includes the customer's name, purchasing records, and shopping patterns.
