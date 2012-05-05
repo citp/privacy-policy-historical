@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4sq.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008220048id_/https%3A//foursquare.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4sq.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505062628id_/https%3A//foursquare.com/legal/privacy) for the most accurate reproduction.*
 
 # foursquare
 
@@ -99,7 +99,7 @@ Foursquare allows you to access the following information about you for the purp
 
 ### How Do I Delete My Account?
 
-Should you ever decide to delete your foursquare account, you may do so by clicking on the "delete account" link on your account [settings page](https://web.archive.org/settings). If you terminate your account, your profile, including your check-in history, badges you received, your User Submissions (as defined in foursquare's Terms of Service) and any promotional offers you received, will be removed from the site and deleted from foursquare's servers. Because of the way we maintain foursquare, such deletion may not be immediate, and residual copies of your profile information or posts may remain on backup media for up to ninety (90) days.
+Should you ever decide to delete your foursquare account, you may do so by clicking on the "delete account" link on your account [settings page](https://web.archive.org/settings/privacy). If you terminate your account, your profile, including your check-in history, badges you received, your User Submissions (as defined in foursquare's Terms of Service) and any promotional offers you received, will be removed from the site and deleted from foursquare's servers. Because of the way we maintain foursquare, such deletion may not be immediate, and residual copies of your profile information or posts may remain on backup media for up to ninety (90) days.
 
 ### How Is Information Removed From My Account?
 
