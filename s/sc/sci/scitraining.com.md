@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scitraining.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008183016id_/http%3A//www.scitraining.com/Dispstpg.htm%3FID%3D7698) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scitraining.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505153215id_/http%3A//www.scitraining.com/Dispstpg.htm%3FID%3D7698) for the most accurate reproduction.*
 
 # Privacy Policy | Stratford Career Institute
 
@@ -65,7 +65,7 @@ If a student’s personally identifiable information changes (such as your addre
 
 **Choice/Opt-out**  
 Our students and prospective students are given the opportunity to ‘opt-in’ or ‘opt-out’ of various mailing lists when they request course information.  
-Users who no longer wish to receive our newsletter or promotional materials may opt-out of receiving these communications by replying with unsubscribe in the subject line of the email or by emailing us at [admissions@scitraining.com](mailto:admissions@scitraining.com).Users may also opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/Privacy_ads.html).
+Users who no longer wish to receive our newsletter or promotional materials may opt-out of receiving these communications by replying with unsubscribe in the subject line of the email or by emailing us at [admissions@scitraining.com](mailto:admissions@scitraining.com).Users may also opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/policies/privacy/ads/).
 
  **Notification of Changes**  
 If we decide to change our privacy policy, we will post those changes on our Homepage so our visitors are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
