@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the davidrisley.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223003320id_/http%3A//www.davidrisley.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidrisley.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505065346id_/http%3A//www.davidrisley.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | David Risley dot com
+# Privacy Policy | DavidRisley.com
 
 The privacy of the visitors to davidrisley.com is important to me.
 
