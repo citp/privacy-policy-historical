@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the otherinbox.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227001127id_/http%3A//www.otherinbox.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otherinbox.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505141025id_/http%3A//www.otherinbox.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | OtherInbox
+# Privacy Policy | OtherInbox
 
-### OtherInbox, Inc. (“OtherInbox”) Privacy PoIicy
-
-#### This Privacy PoIicy is effective as of October 1, 2010.
-
-#### Information CoIIected
+This Privacy PoIicy is effective as of October 1, 2010.
 
 When you register for our services OtherInbox may collect information including, but not limited to, first and last name, email address, and user name.
 
@@ -14,9 +10,9 @@ Most of our services also involve accessing your email messages and contacts. We
 
 OtherInbox saves the public comments that you leave about senders, purchases, or other parts of the service.
 
-#### Information Use
+### Information Use
 
-OtherInbox may use account information for third party services such as Gmail and Yahoo! Mail to scan, process, move, and store your email messages and contacts in order to provide OtherInbox's services to you.
+OtherInbox may use account information for third party services such as Gmail and Yahoo! Mail to scan, process, move, and store your email messages and contacts in order to provide OtherInbox’s services to you.
 
 Depending on which services you enable, this information will be used to create reports, move or modify messages, classify messages, extract useful information, and to provide other services.
 
@@ -34,38 +30,37 @@ Any exceptions to this policy of sharing your name, address or email address wit
 
 OtherInbox reserves the right to disclose information when required by law. We occasionally use other companies to perform services necessary to our operations. In the course of providing these services, those companies may have access to your personal information. By contractual agreement, those companies must treat your information in accordance with this Privacy Policy. However, we will not be liable for any damages that may result from the misuse of your personal information by these companies.
 
-OtherInbox may use your IP address to help diagnose problems with OtherInbox's server and to administer OtherInbox's web site. Your IP address may also be used to help identify you and your online profile and to gather broad demographic information.OtherInbox may use demographic and/or profile data to tailor the visitor's experience on OtherInbox's site, show the visitor content that OtherInbox thinks you may be interested in, and display content according to your preferences. The demographic and profile data will be shared with advertisers ONLY on an aggregate basis.
+OtherInbox may use your IP address to help diagnose problems with OtherInbox’s server and to administer OtherInbox’s web site. Your IP address may also be used to help identify you and your online profile and to gather broad demographic information.OtherInbox may use demographic and/or profile data to tailor the visitor’s experience on OtherInbox’s site, show the visitor content that OtherInbox thinks you may be interested in, and display content according to your preferences. The demographic and profile data will be shared with advertisers ONLY on an aggregate basis.
 
-#### Security
+### Security
 
-OtherInbox uses industry-standard technologies when transferring and receiving consumer data exchanged between OtherInbox and other companies to help ensure its security. This site has security measures in place to protect the loss, misuse and alteration of the information under OtherInbox's control. OtherInbox's servers are backed up regularly and protected by security systems.
+OtherInbox uses industry-standard technologies when transferring and receiving consumer data exchanged between OtherInbox and other companies to help ensure its security. This site has security measures in place to protect the loss, misuse and alteration of the information under OtherInbox’s control. OtherInbox’s servers are backed up regularly and protected by security systems.
 
-#### Cookies
+### Cookies
 
-"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. OtherInbox's site uses cookies to keep track of your session, shopping cart, and advertising delivery. OtherInbox may also use cookies to deliver content specific to your interests and to save your password. OtherInbox may use an outside ad company to display ads on OtherInbox's site. These ads may also contain cookies. While OtherInbox uses cookies in other parts of OtherInbox's web site, cookies received with banner ads are collected by OtherInbox's ad company and OtherInbox does not have access to this information.
+“Cookies” are small pieces of information that are stored by your browser on your computer’s hard drive. OtherInbox’s site uses cookies to keep track of your session, shopping cart, and advertising delivery. OtherInbox may also use cookies to deliver content specific to your interests and to save your password. OtherInbox may use an outside ad company to display ads on OtherInbox’s site. These ads may also contain cookies. While OtherInbox uses cookies in other parts of OtherInbox’s web site, cookies received with banner ads are collected by OtherInbox’s ad company and OtherInbox does not have access to this information.
 
-#### Links
+### Links
 
 OtherInbox has links to other web sites that are not associated or authorized by OtherInbox. OtherInbox cannot control these links and OtherInbox is not responsible for any content appearing on these sites.
 
-#### Amendments
+### Amendments
 
-OtherInbox may amend this policy at any time. If OtherInbox is going to use personally identifiable information collected through OtherInbox's corporate site in a manner materially different from that stated at the time of collection OtherInbox will notify users via email and/or by posting a notice on OtherInbox's Web site for 30 days prior to such use. This Agreement may not be otherwise amended except in a writing that specifically refers to this Privacy Policy and is physically signed by both parties.
+OtherInbox may amend this policy at any time. If OtherInbox is going to use personally identifiable information collected through OtherInbox’s corporate site in a manner materially different from that stated at the time of collection OtherInbox will notify users via email and/or by posting a notice on OtherInbox’s Web site for 30 days prior to such use. This Agreement may not be otherwise amended except in a writing that specifically refers to this Privacy Policy and is physically signed by both parties.
 
-#### Deleting Account Information
+### Deleting Account Information
 
-OtherInbox's site provides users the opportunity to deactivate the service and delete all Personally Identifiable Information (PII) stored in reference to an account by OtherInbox. To delete all PII you can (i) send email to [privacy@otherinbox.com](mailto:privacy@otherinbox.com); or (ii) send postal mail to the address below.
+OtherInbox’s site provides users the opportunity to deactivate the service and delete all Personally Identifiable Information (PII) stored in reference to an account by OtherInbox. To delete all PII you can (i) send email to [privacy@otherinbox.com](mailto:privacy@otherinbox.com); or (ii) send postal mail to the address below.
 
-#### Marketing Opt-Out
+### Marketing Opt-Out
 
-OtherInbox's site provides users the opportunity to opt-out of receiving marketing communications from OtherInbox. To opt-out of receiving our communications, you can (i) send email to [remove@otherinbox.com](mailto:remove@otherinbox.com); or (ii) send postal mail to the address below.
+OtherInbox’s site provides users the opportunity to opt-out of receiving marketing communications from OtherInbox. To opt-out of receiving our communications, you can (i) send email to [remove@otherinbox.com](mailto:remove@otherinbox.com); or (ii) send postal mail to the address below.
 
-#### Contacts
+### Contacts
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this web site, you can contact [privacy@otherinbox.com](mailto:privacy@otherinbox.com).
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this web site, you can contact [privacy@otherinbox.com](mailto:privacy@otherinbox.com).
 
-**OtherInbox  
+OtherInbox  
 ATTN: Opt Out  
-3267 Bee Cave Road  
-Suite 107, Box 520  
-Austin, TX 78746**
+701 Brazos Street, Suite 800  
+Austin, TX 78701
