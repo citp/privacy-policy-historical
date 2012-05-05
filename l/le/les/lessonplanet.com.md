@@ -1,75 +1,67 @@
-> *The following text is extracted and transformed from the lessonplanet.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009072826id_/http%3A//www.lessonplanet.com/us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lessonplanet.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505024509id_/http%3A//www.lessonplanet.com/us/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Lesson Planet
 
-At Education Planet Inc. [DBA as Lesson Planet], we strive to provide teachers, students and parents with high quality, safe educational resources, tools, services while fully respecting and protecting the privacy of our visitors and members. Education Planet Inc. is committed to protecting your privacy. This Statement exists to disclose our information practices regarding the personally identifiable information you submit to us while using our Service. This Privacy Statement applies to the Site ["http://www.lessonplanet.com"](http://www.lessonplanet.com/) . “Personally identifiable Information” pertains to information that could be used to identify a person; such as their name or email address.
+###  **Privacy Statement**
 
-### **Information Collection**
+Education Planet (DBA Lesson Planet) respects your privacy. Our purpose in collecting information from you is to help us better understand our user base and to provide quality service. We will not willfully disclose any individually identifiable information about you to any third party without first receiving your permission, as explained in this privacy statement. Our customers include teachers, student teachers, and school administrators in the K-12 public and private school markets as well as homeschooling parents. 
 
-Education Planet Inc. requests personally identifiable information from visitors registering for Lesson Planet Memberships. This includes first and last name, email address, school name and zip code. We also collect sensitive financial information during the registration process such as your name, credit card number and billing address. We only collect personally identifiable information from you when you voluntarily submit it. We use this information to, register your account on our Site, process payments, and to contact you about administrative issues like scheduled membership upgrades, membership renewal reminders or membership expiration. 
+###  **Information We Collect**
 
-If you allow us, this information is used to contact you with updates on new products and features as well as special promotions from Education Planet and our partners. If you allow us, we will also email you our biweekly Lesson Planet Newsletter.
+We may request that an entity applying for an account with Lesson Planet provide us with personal information relevant to our provision of the various services offered on our site. We do not collect any personal information other than name, address, school/district, city, state, zip, phone, credit card and email address. When information is requested, we explain how it may be used and give you an opportunity to request that the information not be used for those purposes. We also give you an opportunity to opt out of future communications from us. 
 
-We do not knowingly collect any personally identifiable information on children under the age of 13.
+###  **Cookies and Other Monitoring Technologies**
 
-### **Personally Identifiable Information Collected by Teacher Web Tools Users**
+Lesson Planet uses cookies, web beacons and other monitoring technologies to compile anonymous statistics about site users. Cookies are data files stored on your computer that identify you as a unique user. From time to time we may use third party business applications to monitor our sites for the purpose of reporting user traffic, statistics, "click-throughs" and/or other activities and to set a cookie on your computer. Cookies and related monitoring technologies enable us to track user trends, preferences and patterns. We may also receive and record information from your computer and browser, including your IP address, site(s) you visited and keyword searches you conducted on our site(s). The information helps us provide improved services, including customized e-mail notifications. You can visit our site without using cookies. Most browsers permit users to refuse cookies or to be notified before a cookie is accepted. In addition, you may opt-out of most third party tracking. 
 
-Education Planet Inc.'s Teacher Web Tools suite of web-based applications is designed for direct use by K-12 educators and indirect use by students and parents. Lesson Planet Members using Teacher Web Tools may utilize the following web tools: TeacherSiteMaker, Online Storage, NewsletterMaker, AssignmentMaker and LessonMaker.
+###  **Access and Opt-Out**
 
-When members use these tools, they may request personally identifiable information from their students and parents, such as email, which constitutes the collection of third party personally identifiable information. This third party personally identifiable information is used to service the requests explicitly made by members of the Site to send information to a third party. We do not share any of the personally identifiable information collected on our Site with third parties for their promotional purposes. We use the information submitted on our Site to fulfill your requests; we do not use any of your information for any purposes where your explicit consent hasn’t been provided.
+Members can update or correct membership information by logging in (via [http://www.lessonplanet.com](http://www.lessonplanet.com/)) and clicking on Your Profile link or you can contact us at [support@lessonplanet.com](mailto:support@lessonplanet.com). If you would like to be removed from Lesson Planet notifications you can unsubscribe at <http://lessonplanet.com/profile/edit> or by accessing your account and updating your information preferences. 
 
-We post testimonials to our Site that include personally identifiable information; we include your first name, last initial, state and country with your testimonial. We obtain your explicit consent prior to posting your testimonial on our Site. Please note that any personally identifiable information you select to include within your testimonial can be used to send you unsolicited messages. Education Planet Inc. is not responsible for the personally identifiable information you submit within your testimonial.
+###  **Security**
 
-### **Anonymous Survey Information**
+We employ Industry Accepted standards in protecting your personally identifiable information on our Site. We use Secure Socket Layer (SSL) technology when transmitting your sensitive financial information. While we employ precautionary measures to protect your information, no system can be 100% secure and we encourage you to use discretion in how you share your personal information online. 
 
-We collect non-personally identifiable information via voluntary visitor surveys. This information is anonymous and used to gain a broad picture of visitor interests and usage patterns relating to Education Planet.
+We do not knowingly collect information from children under the age of 13 on our Site. 
 
-### **Reviews & Comments**
+###  **Links to Other Sites**
 
-As an added value feature, Silver and Gold Member subscribers to our Site have the capacity to review the documents presented on our Site. We publish the member’s first name, last initial, city and state with their review. Please be aware any personally identifiable information you submit within your review could be used to send you unsolicited messages. We are not responsible for the information a user selects to provide within their review. The Site editors’ reserve the right to delete any comments that may not appropriately relate to the specific lesson available for comment. All comments and reviews voluntarily added to the "Add Comment" area, become the property of Education Planet Inc.
+The Lesson Planet website contains links to other sites. Those sites may send their own cookies to users, collect data, or solicit personal information. We are not responsible or liable for the privacy practices or content of such sites since we do not control them. 
 
-### **Information Sharing**
+###  **Education Planet Does Not Share Information**
 
-We share information with our service providers to fulfill your service requests; we use a third party agent to process payments made on our Site. We also use a third party agent to deliver our newsletters.
+Lesson Planet does not share non-personal and non-personally identifiable information about our users with advertisers, business partners, sponsors, and other third parties. Such non-personally identifiable information may include your IP address, sites(s) you visited and keyword searches you conducted on our site(s). 
 
-In the event of an acquisition, merger or sale of all, or some of Education Planet Inc.’s assets, your information may be part of the transferred assets. We shall notify you by email of your choices in how your information is to be used henceforth.
+In addition, Lesson Planet may partner with other parties in connection with the various services offered on our site, such as credit card processors or email delivery services. In such instances, we may share limited personal information that is necessary for the third party to provide its services. These companies are prohibited from using this information for any other purpose. 
 
-Moreover, we may be required to disclose your personally identifiable information under certain circumstances, such as the discovery of illegal activity on our Site. Education Planet Inc. reserves the right to disclose your information to its third party service providers, law enforcement and other government officials, or, in response to a formal request, such as in a civil suit, court order, subpoena or judicial proceeding.
+Lesson Planet may also provide personal information if disclosure is required by law (e.g., subpoenas, search warrants and court orders). We may also determine that such action is reasonably necessary to protect a party's rights, property, or wellbeing. This action may include exchanging information with other companies and organizations for the purposes of fraud detection or protection, or in other situations involving suspicious or illegal activities. 
 
-We do not share your personally identifiable information with any third parties for their promotional purposes.
+We post testimonials to our Site that includes personally identifiable information; we include your first name, last name, city, and state with your testimonial on our Site. Please note that any personally identifiable information you elect to include within your testimonial can be used to send you unsolicited messages. Education Planet is not responsible for the personally identifiable information you submit with your testimonial. 
 
-### **Cookies**
+We do not share your personally identifiable information with any third parties for their promotional purposes. 
 
-We aspire to make your user experience on our Site as simple and meaningful as possible. We use cookies on our Site to achieve this. Cookies are files that Web browsers place on a computer's hard drive and are used to indicate whether you have visited the Site previously. We tie the information in cookies to your personally identifiable information you submit on our site such as your name and email. We use cookies to facilitate your registration on our Site as well as remember your account information and preferences so you don’t have to enter the information each time you visit our Site. Cookies are never associated with your sensitive financial information on our Site. Cookies are also used to facilitate the use of Teacher Web Tools and membership areas. Education Planet Inc.,will never willfully disclose personally identifiable information about its members to any third party without first receiving a particular member's permission.
+###  **Anonymous Survey Information**
 
-Education Planet aggregates data from cookies to anonymously determine visitor and member usage patterns.
+We collect non-personally identifiable information via voluntary visitor surveys. This information is anonymous and is used to gain a broad picture of visitor/member interests and usage patterns related to Education Planet. 
 
-Third Party Cookies: We may from time to time engage third parties to track and analyze non-personally identifiable usage and volume statistical information from visitors to our Site to help us administer our Site and improve its quality.
+###  **Business Transfers**
 
-### **Access & Opt-Out**
+In the event of a transfer of ownership of Lesson Planet, such as acquisition by or merger with another company, a user's personal information will, in most instances, be part of the assets transferred. 
 
-Members can update or correct your membership information by logging in (via [http://www.lessonplanet.com](http://www.lessonplanet.com/)) and clicking on the 'My Account' link or you can contact us at [support@lessonplanet.com](mailto:support@lessonplanet.com). If you would like to be removed from the Lesson Planet newsletter you can unsubscribe at [http://www.lessonplanet.com/update_info](http://www.lessonplanet.com/users/update_info) or by accessing your account and updating your information preferences.
+###  **Consent and Changes to this Privacy Statement**
 
-### **Security**
+By using the Lesson Planet site or services, you consent to the collection and use of your information as outlined in this privacy statement and consent to our Terms of Use. Additionally, if you are using any of our services, we may also collect and use information in accordance with such service's applicable Terms and Conditions. 
 
-We employ Industry Accepted standards in protecting your personally identifiable information on our Site. We use Secure Socket Layer [SSL] technology when transmitting your sensitive financial information. While we employ precautionary measures to protect your information, no system can be 100% secure and we encourage you to use discretion in how you share your personal information online.
+Lesson Planet may decide to change this privacy statement from time to time. If and when we do, we will post the changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. 
 
-We do not knowingly collect information from children under the age of 13 on our Site.
+###  **Additional Questions**
 
-### **Material Changes**
+Please contact us with questions regarding our privacy statement. 
 
-We may modify this privacy statement from time to time; please check back on this page regularly to stay up to date. Should we make a material change to the manner in which we use your personal information, we shall notify you of the change by placing a prominent notice on the Site, or sending you an email. 
+[support@lessonplanet.com](mailto:support@lessonplanet.com)
 
-### **Links to other sites**
+or write to us at:
 
-Education Planet Inc.'s editors and teacher reviewers go to great efforts to provide only high quality education-related web resources that are valuable and appropriate. Education Planet Inc. offers links to other websites for your convenience but makes no guarantees for the accuracy of the content of these sites. We are not responsible for the privacy practices of these third party sites and encourage you to read their privacy statements prior to disclosing your personal information to them.
+Lesson Planet, 924 Anacapa Street, Suite 4i, Santa Barbara, CA 93101
 
-### **Questions & Comments**
-
-If you have any questions or feedback concerning Education Planet's privacy policy. Please contact us at [support@lessonplanet.com](mailto:support@lessonplanet.com).
-
-Write to us at:
-
-Education Planet, 924 Anacapa Street, Suite 4i, Santa Barbara, CA 93101
-
-Last updated 02/03/2009
+_Effective November 30, 2011_
