@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the missesdressy.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231234731id_/http%3A//www.missesdressy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the missesdressy.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505032728id_/http%3A//www.missesdressy.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - MissesDressy.com
 
@@ -9,7 +9,7 @@
 
 Information collected from our customers and visitors will never be sold or transferred to others for any purpose. The information you enter in forms on our website will be used to complete your order, and send you occasional newsletters about our new products and promotions.
 
-To complete your order, we'll need your name, address, and payment information. Your credit card information will never be stored on our computers. The credit card authorization process is instantaneous and your sensitive credit card information is immediately discarded in accordance with recently implemented e-commerce regulations. We ship items ourselves, so we won't share your shipping address won't be given to anyone.
+To complete your order, we'll need your name, address, and payment information. Your credit card information will never be stored on our computers. The credit card authorization process is instantaneous and your sensitive credit card information is immediately discarded in accordance with recently implemented e-commerce regulations. We ship items ourselves, so we won't share your shipping address won't be given to anyone. 
 
   
 
