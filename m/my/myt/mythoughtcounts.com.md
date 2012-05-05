@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mythoughtcounts.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231133028id_/http%3A//mythoughtcounts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mythoughtcounts.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505044318id_/http%3A//www.mythoughtcounts.com/privacy.html) for the most accurate reproduction.*
 
 # mythoughtcounts.com
 
