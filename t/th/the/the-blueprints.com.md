@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-blueprints.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222194244id_/http%3A//www.the-blueprints.com/information/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-blueprints.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505190219id_/http%3A//www.the-blueprints.com/information/privacypolicy) for the most accurate reproduction.*
 
 # The-Blueprints.com - Privacy Policy
 
@@ -26,4 +26,4 @@ Specifically, We use standards-based Internet protocols to safeguard the informa
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted. 
 
-© 2000 - 2011 Onno van Braam, EVOlution Graphics 
+© 2000 - 2012 Onno van Braam, EVOlution Graphics 
