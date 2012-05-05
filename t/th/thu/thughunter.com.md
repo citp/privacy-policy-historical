@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thughunter.com privacy policy that was archived on 2011-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111025101843id_/http%3A//thughunter.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thughunter.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505041922id_/http%3A//thughunter.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
