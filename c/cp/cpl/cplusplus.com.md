@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the cplusplus.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101121116id_/http%3A//www.cplusplus.com/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cplusplus.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505034234id_/http%3A//www.cplusplus.com/privacy.do) for the most accurate reproduction.*
 
 # Privacy policy
-
-  
-
 
 ### Privacy policy
 
@@ -19,6 +16,8 @@ Nevertheless, some services that allow users to participate actively by submitti
   * **Email address:** Your email address is needed for identification purposes. It is only public if you choose so (by default it is not).
   * **Password:** We don't store your password, only a one-way hash value of it.
 
+
+
 These fields are kept in our database for identification purposes, and are only used for the services provided in this website and those you opt-in voluntarily. 
 
 Registered users have the option to fill a _Personal profile_ with some additional personal information which can be partly or entirely made public. 
@@ -31,6 +30,8 @@ Some non-personal information is automatically logged by our servers as provided
   * Referer pages
   * Cookies
   * Browser information, such as name, version, operating system...
+
+
 
 This information is temporarily stored in our servers for statistical and reviewing purposes. 
 
