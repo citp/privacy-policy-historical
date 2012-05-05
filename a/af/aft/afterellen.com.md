@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the afterellen.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213235705id_/http%3A//www.afterellen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afterellen.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505204748id_/http%3A//www.afterellen.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement | News, Reviews & Commentary on Lesbian & Bisexual Women in Entertainment & the Media | AfterEllen.com
+# Privacy Statement | AfterEllen.com
 
                                                                                                               **Last Modified: November 28, 2011**  
-**[Go to](http://www.afterellen.com/terms)**[ **Terms of Use Agreement** ](http://www.afterellen.com/terms)
+ **[Go to](http://www.afterellen.com/terms)**[ **Terms of Use Agreement** ](http://www.afterellen.com/terms)
 
 **PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS**
 
@@ -175,7 +175,7 @@ Some Device manufacturers may preset their browsers to block Tracking Technologi
 
 **iii.         Flash Cookies.  **Please note that deleting, rejecting, disabling or turning off Tracking Technologies set by Third Party Advertising Service Providers and Advertisers and set by this Site through the above options will not remove Flash cookies.  For more information about Flash cookies and how to remove them from your computer, please visit **<http://kb2.adobe.com/cps/526/52697ee8.html>**. ****
 
-**c.    Opting-Out of Characteristics Personalized Advertising.**  **[This Section 4(c) is Downelink.com only]**
+ **c.    Opting-Out of Characteristics Personalized Advertising.**  **[This Section 4(c) is Downelink.com only]**
 
 In order to withdraw your consent for Characteristics Personalized Advertising, you shall need to deactivate your account on the Site by following the procedures set forth in Section 13 of the “ **[Terms of Use Agreement](http://www.afterellen.com/terms)** “ labeled “Deactivation/Termination of Your Registration.
 
@@ -204,7 +204,7 @@ A user may cancel one or more services via his or her wireless device at any tim
 **d.   Use of Information.  **Logo will not use a wireless telephone number, wireless or conventional Internet email address, or other Information submitted for its wireless marketing services for any other purpose but to provide the service requested, unless we provide advance notice of any other use.  We will not share any Personal Information with Advertisers or other third party marketers unless you opt-in to such disclosure.  We will share Personal Information with the operational service providers that assist us in delivering these wireless services to you and with the Parent Companies and Affiliates. 
 
 **6.        Sharing and Disclosure of Personal Information and Other Information.**  
-**a.    Sharing and Disclosure of Personal Information.**
+ **a.    Sharing and Disclosure of Personal Information.**
 
 Generally, we do not sell, rent, lease or disclose your Personal Information to third parties, except if you consent to such disclosure or as described in this Privacy Policy. 
 
@@ -241,12 +241,12 @@ In addition, Parents of children or Ineligible Teenagers who wish to terminate t
 
 While no data transmission over the Internet is 100% secure from intrusion, we maintain commercially reasonable physical, electronic and procedural safeguards to protect your Information.  However, regardless of our efforts and the Device you use to access the Site, it is possible that third parties may unlawfully intercept or access transmissions or private communications over an unsecured transmission.  We conduct financial transactions via secured transmissions but may not always secure other parts of the Site.  We also limit access to the Site by our own employees to those individuals who are authorized for the proper handling of such information and any employee found violating our standards of security and confidentiality will be subject to our disciplinary processes.  We request that our operational service providers follow similar standards of security and confidentiality.
 
-**Phishing** **.**   Phishing attacks attempt to steal consumers’ personal identity data and financial account credentials.  “Phishers” use ‘spoofed’ e-mails to lead consumers to counterfeit websites designed to trick recipients into divulging Information such as credit card numbers, account usernames, passwords and social security numbers.  **WE DO NOT SEND EMAILS ASKING YOU TO PROVIDE OR CONFIRM CREDIT CARD NUMBERS, SOCIAL SECURITY NUMBERS OR YOUR USERNAME OR PASSWORD!**   If you receive such email communication, please forward it immediately to the Site’s Privacy Administrator at **privacy-admin@logostaff.com** , and then immediately delete the fraudulent email from your computer. 
+**Phishing** **.**   Phishing attacks attempt to steal consumers’ personal identity data and financial account credentials.  “Phishers” use ‘spoofed’ e-mails to lead consumers to counterfeit websites designed to trick recipients into divulging Information such as credit card numbers, account usernames, passwords and social security numbers.  **WE DO NOT SEND EMAILS ASKING YOU TO PROVIDE OR CONFIRM CREDIT CARD NUMBERS, SOCIAL SECURITY NUMBERS OR YOUR USERNAME OR PASSWORD!**   If you receive such email communication, please forward it immediately to the Site’s Privacy Administrator at **[privacy-admin@logostaff.com](mailto:privacy-admin@logostaff.com)** , and then immediately delete the fraudulent email from your computer. 
 
 **9.         Your California Privacy Rights.  **  
 If you are a resident of the State of California, we provide you with information on how to exercise your disclosure choice options such as your right to opt-out (which we may sometimes refer to as “unsubscribe”) or opt-in for use of your Personal Information by third parties (such as Advertisers) for marketing purposes.  Therefore, pursuant to the California Civil Code, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year. 
 
-If you are a California resident and wish to request information about how to exercise your third party disclosure choices, please send a request by email to the Privacy Administrator at **privacy-admin@logostaff.com,** or by postal mail to
+If you are a California resident and wish to request information about how to exercise your third party disclosure choices, please send a request by email to the Privacy Administrator at **[privacy-admin@logostaff.com](mailto:privacy-admin@logostaff.com), **or by postal mail to
 
 ******AfterEllen.com / LOGOonline.com** **  
 1540 Broadway  
@@ -268,7 +268,7 @@ You are solely responsible for maintaining the strict confidentiality of your Us
 
 Further, if you use any of the Communities features and functions made available on or through the Site, please remember that any Information disclosed in these venues is automatically made public and please use caution when disclosing any Personal Information in the Communities, as you do not know who will access and use your Personal Information or for what purposes. Logo is in no way responsible for the accuracy, use, or misuse of any information, including Personal Information, that you disclose or receive through these venues and you should assume that any disclosure you do make in these venues will be available publicly, even without your knowledge or authorization.
 
-**b.    Questions.** If you have questions about this Privacy Policy or if you do not understand any information about how we collect, maintain, use or share your Personal Information or Other Information, you may contact us directly by sending an email to **privacy-admin@logostaff.com** or please contact our Privacy Administrator at Logo at the following address.
+**b.    Questions.** If you have questions about this Privacy Policy or if you do not understand any information about how we collect, maintain, use or share your Personal Information or Other Information, you may contact us directly by sending an email to **[privacy-admin@logostaff.com](mailto:privacy-admin@logostaff.com) **or please contact our Privacy Administrator at Logo at the following address.
 
 **********Privacy Administrator  
 A********** ** ** **fterEllen.com / LOGOonline.com** **  
@@ -281,4 +281,4 @@ New York, NY 10036
 **d.    Other:**  **Please review** our **[Terms of Use Agreement](http://www.afterellen.com/terms)** which governs your use of the Site.  Any terms that are not defined in this Privacy Policy shall have the meaning given in the Terms of Use Agreement. 
 
 This Privacy Policy was last modified on the date indicated above and is effective immediately.  
-Copyright © 2011Viacom Media Networks, a division of Viacom International Inc. - All Rights Reserved.
+Copyright © 2012Viacom Media Networks, a division of Viacom International Inc. - All Rights Reserved.
