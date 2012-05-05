@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the escentual.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009072317id_/http%3A//www.escentual.com/info/general/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escentual.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506005956id_/http%3A//www.escentual.com/info/general/privacy) for the most accurate reproduction.*
 
-# Escentual.com - Privacy
+# Privacy
 
 We collect information when you register at the store and during the purchase process. This information includes your name, address, email, credit card information and shopper preferences. This information is stored on secure servers, and can only be accessed by escentual employees.
 
