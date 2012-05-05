@@ -1,75 +1,112 @@
-> *The following text is extracted and transformed from the circleup.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113081711id_/http%3A//circleup.com/pub/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the circleup.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505100238id_/http%3A//circleup.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CircleUp
+# CircleUp.com - Privacy Policy
 
-### At CircleUp we recognize that your privacy is extremely important, and protecting your privacy and personal information is cornerstone of our business. This policy covers how CircleUp treats personal information that CircleUp collects and receives, including information related to your past use of CircleUp products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
+### Our Commitment to Privacy
 
-### Your Guarantee of Privacy
+At CircleUp, our most important asset is our relationship with you.
 
-At CircleUp, we don't believe in SPAM. Period. _We won't rent, sell or barter or lease your email or instant messenger address or your contacts' emails addresses or IM accounts to third parties._ That is your information, and even though we store it, we will never give it away or share it. In addition, we will only send you CircleUp emails directly related to your account or the CircleUp service. CircleUp does not rent email lists (ever), nor will we share your name with "marketing partners" unless you specifically authorize it by proactively opting-in to a mailing list. 
+We are required by law to ask for certain information in order to perform our services for you, but we are committed to protecting your personal and financial information. This Privacy Policy answers some questions about what information we collect, what we do with it, and how we protect it. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-### Privacy of Questions
+### Our Policy
 
-The CircleUp service enables questions to have different levels of privacy. These privacy choices are selected by the question Author and determine how and to whom your responses are displayed. Your contact information (email, IM, SMS) is NEVER displayed in full, but to attach some identity to your answer we use your address prefix. Questions can have the following privacy status: 
+Welcome to the web site [www.circleup.com](http://www.circleup.com/) (the " **Site** ") owned and operated by CircleUp Network, Inc. (Henceforward " **CircleUp** ," "we," "us," and/or "our"). This Site has been created to provide information about our company and its financial matchmaking services (the " **Services** ") to our users ("you," "your"). This Privacy Policy sets forth CircleUp's policy with respect to information, including personally identifiable data (" **Personal Data** "), and other information that is collected from Site visitors and users of the Services.
 
-  * **Public:** Anyone will be able to view the results of the question, including search engines. The question and results are posted publicly for search and can be accessed by anyone with the link to the results page. 
-  * **Private Summary:** Only recipients of the question (the circle) and those they forward the question to will be able to view the summary results (in aggregate), but not individual responses or comments. Only the Author can review individual answers and comments. 
-  * **Private Detailed:** Only recipients of the question and those they forward to will be able to view the complete results. The entire circle can review individual answers and comments. 
-  * **Personal:** Only the author can view the results of the question, both summary and detail. 
+CircleUp Network, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, www.circleup.com.
 
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions _. If you have questions or complaints regarding our privacy policy or practices, please contact us at_[ _info@circleup.com_](mailto:info@circleup.com) _._ If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
+### Information We Collect
 
-### Your Contacts' Personal Information
+When you interact with us through the Site or the Services, we may collect Personal Data and other information from you, as further described below:
 
-The CircleUp service sends communications on your behalf to people you know. We understand that these people trust you with their contact information, and we maintain it with the same confidentiality as you do. 
+**Personal Data That You Provide Through the Site:** We collect Personal Data from you when you voluntarily provide such information such as when you register for access to the Services (for example, contact information such as your name, email address, and mailing address; and when you wish to use certain Services (for example financial information such as bank account numbers, your Date of Birth and last 4 digits of you social security number). ,contact us with inquiries or respond to one of our surveys. Wherever CircleUp collects Personal Data provide a link to this Privacy Policy.
 
-Your contacts' email addresses and instant messenger (IM) accounts are held in the same strict confidence that your own contact information is held. We will never contact any of your contacts directly unless you make a specific request. We will never rent, lease, sell or barter this information to any third party. We will only use your contacts' email or IM address in order to send the message you asked us to send. Your contacts will never ever hear from us again ... unless they voluntarily subscribe to our services! 
+**By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. If you provide Personal Data, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of CircleUp and the authorized third parties referred to herein located in the United States.** **Non-Identifiable or Aggregated Data:** When you interact with CircleUp through the Site or Services, we receive and store certain personally non-identifiable information. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you. 
 
-### Personal Information and Other Data We Collect
+As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. CircleUp may store such information itself or such information may be included in databases owned and maintained by CircleUp affiliates, agents or service providers. This Site may use such information and pool it with other information to track, for example, the total number of visitors to our Site, the number of visitors to each page of our Site, the domain names of our visitors' Internet service providers, and how our users use and interact with the Services. Also, in an ongoing effort to better understand and serve the users of the Services, CircleUp often conducts research on its customer demographics, interests and behavior based on the Personal Data and other information provided to us. 
 
-  * CircleUp collects personal information when you register and use the CircleUp service or otherwise voluntarily provide such information. We may combine personal information collected from you with information from other CircleUp services or third parties to provide a better user experience, including customizing content for you. 
-  * CircleUp uses cookies and other technologies to enhance your online experience and to learn about how you use CircleUp services so that we can continue to improve the quality of our services. 
-  * CircleUp's servers automatically record information when you visit our website or use some of our products, including the URL, IP address, browser type and language, and the date and time of your request. 
-  * CircleUp collects your login credentials for various 3rd party internet services in order for our service to be fully-functional. CircleUp will never lease, rent, sell, divulge or use that information except for the explicit use of our service. 
+This research may be compiled and analyzed on an aggregate basis. CircleUp may share this non-identifiable and aggregate data with its affiliates, agents and business partners, but this type of non-identifiable and aggregate information does not identify you personally. CircleUp may also disclose aggregated user statistics in order to describe our Services to current and prospective business partners and to other third parties for other lawful purposes.
 
+In operating this Site, we may also use a technology called "cookies." A cookie is a piece of information that the computer that hosts our Site gives to your browser when you access the Site. Our cookies help provide additional functionality to the Site and help us analyze Site usage more accurately. For instance, our Site may set a cookie on your browser that allows you to access the Site without needing to remember and then enter a password more than once during a visit to the Site. In all cases in which we use cookies, we will not collect Personal Data except with your permission. On most web browsers, you will find a "help" section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies turned on because they allow you to take advantage of some of the Site's features.
 
+The use of cookies by our any of our affiliates or service providers is not covered by our privacy policy. We do not have access or control over these cookies. Our partners use session ID cookies to make it easier for you to navigate our site and use our Services.
 
-### Uses of Your Information
+### Our Use of Your Personal Data and Other Information
 
-CircleUp may use your information for the following general purposes: 
+CircleUp uses the Personal Data you provide in a manner that is consistent with this Privacy Policy. If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by email, we will use the Personal Data you provide to answer your question or resolve your problem. Also, if you provide Personal Data in order to obtain access to the Services, we will use your Personal Data to provide you with access to such services and to monitor your use of such services. We also may obtain information about you from third party sources to verify your identity so we can properly process your requests and prevent fraud.
 
-  * To customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you directly regarding your account or the service, conduct research, and provide anonymous reporting for internal and external clients. 
-  * We may use personal information to provide the services you've requested, including services that display customized content and advertising. 
-  * We may also use personal information for auditing, research and analysis to operate and improve CircleUp technologies and services. We may contact you directly to ask you about your experience with the service. 
-  * We may also use personal information for auditing, research and analysis to operate and improve CircleUp technologies and services. 
-  * We may share aggregated non-personal information with third parties outside of CircleUp. 
-  * When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. 
-  * We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. 
-  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. 
-  * We transfer information about you if CircleUp is acquired by or merged with another company. In this event, CircleUp will notify you before information about you is transferred and becomes subject to a different privacy policy. 
-  * CircleUp displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria - for example, women ages 18-24 from a particular geographic area. 
-    * CircleUp does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
+CircleUp and its subsidiaries and affiliates (the "Related Companies") may also use your Personal Data and other personally non-identifiable information collected through the Site to help us improve the content and functionality of the Site, to better understand our users and to improve the Services. CircleUp and its Related Companies may use this information to communicate with you regarding the Services or to tell you about services we believe will be of interest to you. If at any time you wish not to receive any future marketing communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below. Note however that as user of the Service we will send you administrative communications that are reasonably necessary to the Service, such as billing or service notifications. , If CircleUp intends on using any Personal Data in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which the Personal Data is collected.
 
+### Our Disclosure of Your Personal Data and Other Information
 
+We will share your personal information with third parties only in the ways that are described in this privacy policy. We consider this information to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below:
+
+**Business Transfers:** As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets and you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
+
+**Related Companies:** We may also share your Personal Data with our Related Companies for purposes consistent with this Privacy Policy.
+
+**Agents, Consultants and Related Third Parties:** CircleUp, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information, maintaining databases, ID verification, processing applications, shipping and fulfillment, and processing payments and completing transactions. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function. These companies are authorized to use your personal information _only as necessary to provide_ these services to us.
+
+**Legal Requirements:** CircleUp may disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of CircleUp, (iii) act in urgent circumstances to protect the personal safety of users of the Site or the public against fraud or other harm, or (iv) protect against legal liability.
 
 ### Your Choices
 
-  * We offer you choices when we ask for personal information, whenever reasonably possible. 
-  * You may decline to provide personal information to us and/or refuse cookies in your browser, although some of our features or services may not function properly as a result. 
-  * We make good faith efforts to provide you access to your personal information upon request and to let you correct such data if it is inaccurate and delete it. 
+If your personally information changes, or if you no longer desire our service, you may correct, update, amend, delete or request deletion by making the change in your registered account settings page, by emailing our Customer Support at [info@circleup.com](mailto:info@circleup.com) or by contacting us at the contact information listed below. We will respond to your request to access within 30 days.
 
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
+When you sign up for our Services or newsletter(s), we will send periodic emails to you regarding the Services or to tell you about services we believe will be of interest to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [info@circleup.com](mailto:info@circleup.com)
 
-### Changes to this Privacy Policy
+### Security
 
-  * CircleUp may update this policy in the future. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your CircleUp account and/or by placing a prominent notice on our site. 
+The security of your personal information is important to us. When you enter sensitive information (such as bank account information) on our website, we encrypt the transmission of that information using secure socket layer technology (SSL). We also use third party ID verification to ensure our users’ true identities are validated.
 
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at info@circleup.com
 
+### Exclusions
 
-### Questions? Concerns?
+This Privacy Policy does not apply to any Personal Data collected by CircleUp other than Personal Data collected through the Site or Services. This Privacy Policy shall not apply to any unsolicited information you provide to CircleUp through this Site or through any other means. This includes, but is not limited to, information posted to any public areas of the Site, such as bulletin boards (collectively, "Public Areas"), any ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, "Unsolicited Information"). All Unsolicited Information shall be deemed to be non-confidential and CircleUp shall be free to reproduce, use, disclose, distribute and exploit such Unsolicited Information without limitation or attribution.
 
-If you have any privacy questions or concerns, please [contact us](http://www.circleup.com/pub/content/contact-us).  
+### Blog
 
+Our Web site offers a publicly accessible blog. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog, contact us at [info@circleup.com](mailto:info@circleup.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
+### Testimonials
 
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name and other information. If you wish to update or delete your testimonial, please contact us at info@circleup.com
 
+### Social Media Features
+
+You can log in to our site using sign-in services such as Facebook Connect or Linkedin. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network. 
+
+Our Web site also includes Social Media Features such as the Facebook Like button, Twitter, and Add This button. These Features are interactive mini-programs and may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+
+### Children
+
+CircleUp does not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data through the Site. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data on this Site without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to CircleUp through this Site, please contact us, and we will endeavor to delete that information from our databases.
+
+### Links to Other Web Sites
+
+This Privacy Policy applies only to the Site. This Site may contain links to other web sites not operated or controlled by CircleUp (the "Third Party Sites"). The policies and procedures we described here do not apply to the Third Party Sites. The links from this Site do not imply that CircleUp endorses or has reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies.
+
+### Other Terms and Conditions
+
+Your access to and use of this Site is subject to the [Terms of Use.](http://production.circleup.com/terms/)
+
+### Changes to CircleUp's Privacy Policy
+
+We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+### Contacting CircleUp
+
+Please feel free to contact us if you have any questions about CircleUp's Privacy Policy or the information practices of this Site.
+
+### CircleUp Network, Inc.
+
+[info@circleup.com](mailto:info@circleup.com)
+
+CircleUp Network Inc.  
+c/o WR Hambrecht & Co.  
+Pier 1, Bay 3  
+San Francisco CA 94111
