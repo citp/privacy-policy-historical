@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the trover.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007005927id_/http%3A//www.trover.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trover.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505130951id_/http%3A//www.trover.com/privacy) for the most accurate reproduction.*
 
 # Trover Privacy Policy
 
 ### 1\. Overview
 
-The Trover Web site and Mobile Application ("Trover", "we," or "us") is a community site containing user-generated discoveries, maps and information for things and places places around the world (collectively, the "Services"). We at Trover recognize that your privacy is important to you. We have created this privacy policy ("Privacy Policy") to explain our privacy practices so you will understand when and how personally identifiable information is collected, used, disclosed and protected with respect to our Site. BY ACCESSING OUR SITE, YOU CONSENT TO OUR PRIVACY POLICY AS DESCRIBED HEREIN.
+The Trover Web site and Mobile Application ("Trover", "we," or "us") is a community site containing user-generated discoveries, maps and information for things and places around the world (collectively, the "Services"). We at Trover recognize that your privacy is important to you. We have created this privacy policy ("Privacy Policy") to explain our privacy practices so you will understand when and how personally identifiable information is collected, used, disclosed and protected with respect to our Site. BY ACCESSING OUR SITE, YOU CONSENT TO OUR PRIVACY POLICY AS DESCRIBED HEREIN.
 
 ### 2\. What kind of information does Trover collect about you?
 
 We collect two basic types of information from our Site and Mobile Application. Personally identifiable information is information that is directly associated with a specific person or entity such as a user's name, e-mail address, or information about activities that is directly linked to that person.
 
-Our definition of personally identifiable information does not include "aggregate" information. Aggregate information is data we collect about a group or category of services or user from which individual user identities have been removed. Aggregate data may include anonymous demographic information such as country of origin, citizenship, ZIP code, age, gender, preferences and survey information. In other words, how you use our Site and Mobile Application may be collected and combined with information about how others use the Site and Mobile Application, but no personal information will be included in the resulting data. Aggregate data helps us understand trends and our user's needs so that we can better consider new features or otherwise tailor our Site and Mobile Application.
+Our definition of personally identifiable information does not include "aggregate" information. Aggregate information is data we collect about a group or category of services or user from which individual user identities have been removed. Aggregate data may include anonymous demographic information such as country of origin, citizenship, ZIP code, age, gender, preferences and survey information. In other words, how you use our Site and Mobile Application may be collected and combined with information about how others use the Site and Mobile Application, but no personally identifiable information will be included in the resulting data. Aggregate data helps us understand trends and our user's needs so that we can better consider new features or otherwise tailor our Site and Mobile Application.
 
-The choice of how much personally identifiable information you disclose to us is completely at your discretion. Some areas of our Site and Mobile Application are accessible without registration of any kind, and you can browse those areas of our Site. Other areas of our Site require registration in order for you to participate in the services offered. It is not mandatory for you to register and provide information to us, but please realize that in order for us to serve you better or provide particular features, you will need to provide certain information to access some areas of our Site. We collect information you give us when you register at and use our Site. Specific examples of the information we collect include the following:
+The choice of how much personally identifiable information you disclose to us is completely at your discretion. Some areas of our Site and Mobile Application are accessible without registration of any kind, and you can browse those areas. Other areas of our Site and mobile application require registration in order for you to participate in the services offered. It is not mandatory for you to register and provide information to us, but please realize that in order for us to serve you better or provide particular features, you will need to provide certain information to access some areas of our Site and mobile application. We collect information you give us when you register at and use our Site and mobile application. Specific examples of the information we collect include the following:
 
 **A. Registration Information.** When you register at our Site and Mobile Application, we may collect various kinds of contact information about you including your name, e-mail address, date of birth, and other personally identifiable information.
 
@@ -26,23 +26,27 @@ The choice of how much personally identifiable information you disclose to us is
 
 **F. Third Party Links and Ad Servers.** We provide links to third party websites, which may, or may not, use cookies, pixel tags and web tags. We also allow other companies, called third-party ad servers, to display advertisements on Trover.com. Ad servers may also use these tools to compile information about where users saw particular advertisements, and to determine which ads were clicked on. We are not responsible for, or have any control over, the privacy policies of those third party websites and ad servers, and encourage all users to read the privacy policies of each and every website visited when linking directly from Trover.
 
+**G. Mobile Device information.** Trover transmits and stores the following device information: Push Notification Device Tokens – when user grants permission, location – when user grants permission, UDID, iOS operating system version, country of device registration, crash report information (timestamp, crash GPS radio state (on/off), cellular radio state, WiFi radio state when application crashes), and user language preference.
+
+We also store email addresses that we obtain through user actions associated with the Trover application: Facebook registration, Trover registration, or feedback emails sent to Trover. This information is not passively collected from the device.
+
 ### 3\. How will the information that Trover collects be used?
 
-In general, we use personal information to serve our users, enable them to take maximum advantage of our services and to improve the products and services we provide to you. For example, we may use personal information to contact our users relating to their registration to our service, to anticipate and resolve problems with our Site and Mobile Application, to respond to customer support inquiries, and to send other Trover administrative and systems-related messages. We reserve the right to send such communications to our users without offering the opportunity to opt-out of receiving them. We do not send advertisements, newsletters, or any other commercial solicitations to our users.
+In general, we use personally identifiable information to serve our users, enable them to take maximum advantage of our services and to improve the products and services we provide to you. For example, we may use personal information to contact our users relating to their registration to our service, to anticipate and resolve problems with our Site and Mobile Application, to respond to customer support inquiries, and to send other Trover administrative and systems-related messages. We reserve the right to send such communications to our users without offering the opportunity to opt-out of receiving them. We do not send advertisements or any other commercial solicitations to our users.
 
 ### 4\. With whom does Trover share the personal information it collects about you?
 
-We do not rent, sell, or share your personal information with third parties or nonaffiliated companies, except as described in this section or with your express permission.
+We do not rent, sell, or share your personally identifiable information with third parties or nonaffiliated companies, except as described in this section or with your express permission.
 
-  1. We share trend and aggregate information with our partners for business purposes and with other third parties for marketing purposes. We might disclose, for example, that a certain percentage of our users list their home town as San Francisco. However, this aggregated information is in no way traceable to any specific personal information.
+  1. We reserve the right to share trend and aggregate information with our partners for business purposes and with other third parties for marketing purposes. We might disclose, for example, that a certain percentage of our users list their home town as San Francisco. However, will not link aggregated data to individuals or their devices or accounts.
   2. We disclose information when required by law or judicial authority.
   3. We disclose information as required to safeguard Trover's rights or property.
-  4. We reserve the right to share certain personal information (such as your log-in, profile, and preference information) with other websites that are owned and/or operated by Trover LLC These sites are also required to adhere to the provisions of this Privacy Policy until such time as it was amended in accordance with the process for modification set forth herein.
+  4. We reserve the right to share certain personally identifiable information (such as your log-in, profile, and preference information) with other websites that are owned and/or operated by Trover, Inc. These sites are also required to adhere to the provisions of this Privacy Policy until such time as it was amended in accordance with the process for modification set forth herein.
   5. If Trover is ever merged with another company, or if Trover buys, sells or reorganizes some or all part(s) of its business, parties involved in such a transaction would gain access to the information that Trover has collected over time. Such third parties would be required, however, to adhere to the provisions of this Privacy Policy until such time as it was amended in accordance with the process for modification set forth herein.
 
 
 
-### 5\. What are the opt-out choices Trover provides you with regarding the collection, use, and distribution of your information?
+### 5\. What are the opt-out choices Trover provides you with regarding the collection, use, and distribution of your personally identifiable information?
 
 We reserve the right to send you certain communications relating to your registration with our service and Trover's other services, such as customer service responses and other administrative messages, without offering you the opportunity to opt-out of receiving them. You can opt-out from receiving such messages by canceling your registration with Trover. We reserve the right to send you advertisements, newsletters, and any other commercial solicitations to our users. You can opt-out from receiving this kind of communication in your profile settings.
 
@@ -52,7 +56,7 @@ We are opposed to spam and our [Terms of Service](https://web.archive.org/terms)
 
 ### 6\. What security procedures does Trover use to protect against the loss, misuse, or alteration of information collected by the company?
 
-Trover uses industry standard security measures to protect the loss, misuse and alteration of the information under our control. Although we make good faith efforts to store the information collected by the Trover website and Mobile Application in a secure operating environment that is not available to the public, we cannot guarantee complete security. Further, while we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information.
+Trover uses industry standard security measures to protect the loss, misuse and alteration of the information under our control. Although we make good faith efforts to store the information collected by the Trover website and Mobile Application in a secure operating environment that is not available to the public, we cannot guarantee complete security. Further, while we make reasonable efforts to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information.
 
 Your account information is accessible online only through the use of a password. To protect the confidentiality of personal information, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of our web site by any person using your password. Please advise us immediately if you believe your password has been misused.
 
@@ -66,15 +70,15 @@ Trover.com is intended solely for use by persons 13 years of age or older. All p
 
 ### 9\. How can I access the information Trover has about me or correct it?
 
-Registered users may, at any time, choose to correct or update the account information they have submitted to us. This may be done by logging into the site or Facebook (for people who regsiter for Trover via Facebook Connect) and editing the information on these registration pages. Registered users may, at any time, chose to cancel their registration with Trover by sending an email to admin@trover.com and requesting Trover to close their account.
+Registered users may, at any time, choose to correct or update the account information they have submitted to us. This may be done by logging into the site or Facebook or Twitter (for people who register for Trover via these services) and editing the information on these registration pages. Registered users may, at any time, chose to cancel their registration with Trover by sending an email to admin@trover.com and requesting Trover to close their account.
 
 ### 10\. Notification of Changes
 
 From time to time, we may need to update our Privacy Policy because of changes in the law, in technology, in our business, or in our attempts to better serve your needs. If we make any material changes to our Privacy Policy, we will post a notification on our Site and update the effective date above. All amended terms shall automatically be effective 30 days after they are initially posted on the Site. Therefore, we encourage you to check the date of our privacy policy whenever you visit this Site to see if it has been updated since your last visit.
 
-If you have any questions, comments, or concerns about this Privacy Policy or personal information you have provided to us, please email us at admin@trover.com or contact us by mail at:
+If you have any questions, comments, or concerns about this Privacy Policy or personally identifiable information you have provided to us, please email us at admin@trover.com or contact us by mail at:
 
-Trover, LLC.  
-401 2nd Ave. S, Suite 500  
+Trover, Inc.  
+307 3rd Ave. S, Suite 520  
 Seattle, WA 98104  
 Attention: Privacy Officer
