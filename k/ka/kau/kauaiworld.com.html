@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kauaiworld.com privacy policy that was archived on 2011-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102012403id_/http%3A//thegardenisland.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kauaiworld.com privacy policy that was archived on 2012-05-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120505223356id_/http%3A//thegardenisland.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
 <base href="http://thegardenisland.com/content/tncms/live/">
@@ -34,6 +34,8 @@ if(document.location.protocol=='http:'){
 
 
 <title>Privacy Policy</title>
+
+
 
 
 <script type="text/javascript">
@@ -111,10 +113,22 @@ yld_mgr.slots.leaderboardbtm_slot.ad_size_list = ["728x90"]; //LeaderBtm
 yld_mgr.slots.leaderboardbtm_slot.ad_delivery_mode = "ipbtf";
 yld_mgr.slots.leaderboardbtm_slot.content_type_list=["fn_news"];
 
+
+yld_mgr.slots.asset_modal = {};
+yld_mgr.slots.asset_modal.ad_size_list = ["640x480"];
+yld_mgr.slots.asset_modal.ad_delivery_mode = "ipatf";
+
+
+yld_mgr.slots.bottom_bar = {};
+yld_mgr.slots.bottom_bar.ad_size_list = ["970x60"];
+yld_mgr.slots.bottom_bar.ad_delivery_mode = "ipatf";
+
+
 //-->
     //]]>
 </script>
 <script src="http://e.yieldmanager.net/script.js" type="text/javascript"></script>
+
 
 </head>
 
@@ -134,6 +148,7 @@ yld_mgr.slots.leaderboardbtm_slot.content_type_list=["fn_news"];
         <div class="clear"></div>
     </div>
 
+
 <div id="blox-html-container">
 <div id="blox-wrapper" class="container_12">
 
@@ -142,11 +157,69 @@ yld_mgr.slots.leaderboardbtm_slot.content_type_list=["fn_news"];
                     
             <div id="blox-logo" class="grid_9 alpha">
                 <h1><a href="/" title="">Privacy Policy</a></h1>
-                
+
+        
+             
+            <script type="text/javascript">
+                function tnLogin(){
+                    var pUser = j('#facebox #tn-username').val();
+                    var pPass = j('#facebox #tn-password').val();
+                    if( !pUser ){ j('#facebox #tn-username').focus(); j('#facebox #tn-username').css('background-color','#fde0e0'); return false; }
+                    if( !pPass){ j('#facebox #tn-password').focus(); j('#facebox #tn-password').css('background-color','#fde0e0');  return false; }
+                    jQuery('#facebox #loginLoading').show();
+                    jQuery('#facebox #tn-login').submit();
+                }
+                function fbLogin(){
+                    jQuery('#facebox #loginLoading').show();
+                    jQuery('#facebox #facebook-login').submit();
+                }
+            </script>
+            <div id="tnLoginForm" class="hide">
+                <div id="blox-modal">
+                    <h1>Login  <span>or <a class="appendTimeStamp" href="/users/signup/?referer_url=/privacy/">Signup</a></span></h1>
+                    <style type="text/css">
+                        #loginLoading  { position:absolute; background: #fff; height: 160px; width: 500px;  text-align: center; padding-top: 50px; filter:alpha(opacity=90);  -moz-opacity:0.9; -khtml-opacity: 0.9; opacity: 0.9; }
+                        #facebox #tnLoginForm { display: block; width: 500px; }
+                        #site-login { border-right: 1px dotted #ccc; float: left; width: 240px; padding-left: 10px;}
+                        #facebook-login-container { float: left; width: 180px; padding-left: 20px; }
+                        #facebox #tnLoginForm h1 { background: transparent; color: inherit; border-bottom: 2px solid #ccc; }
+                        #facebox #tnLoginForm h1 span { font-size: 11px; }
+                        #facebox #tnLoginForm label span { margin: 0px; padding-bottom: 5px; float: none; width: auto; }
+                        #facebook-login-container dt { font-size: 16px; font-weight: bold; margin-bottom: 10px; }
+                        #facebook-login-container dd { margin-bottom: 10px; }
+                    </style>
+                    <div id="loginLoading" class="hide"><img src="/content/tncms/live/global/resources/images/facebox/loading.gif"></div>
                     
-                    <p id="blox-user-nav"><a href="https://thegardenisland-dot-com.bloxcms.com/users/login/?referer_url=/privacy/">Login</a> | <a href="/users/signup/">Register</a> | <a href="/subscribe/">Subscribe</a></p>
-                
+                    <div id="site-login">
+                        <form id="tn-login" class="appendTimeStamp" action="https://thegardenisland-dot-com.bloxcms.com/users/login/?" method="post" onsubmit="tnLogin(); return false;">
+                            <input class="appendTimeStamp" type="hidden" name="referer_url" value="/privacy/">
+                            <fieldset>
+                                <label><span>Email:</span>  <input type="text" size="30" class="text-field" id="tn-username" name="username" value=""></label>
+                                <label><span>Password:</span>  <input type="password" size="30" class="text-field" id="tn-password" name="password" value=""></label>
+                                <label><a href="https://thegardenisland-dot-com.bloxcms.com/users/forgot/">Forgot Password</a></label>
+                                <p><input type="submit" class="submit-button moz-border" value="Login"></p>
+                            </fieldset>
+                        </form>
+                    </div>
+                    <div id="facebook-login-container">
+                        <dl>
+                            <dt>Facebook user?</dt>
+                            <dd>You can use your Facebook account to log in.</dd>
+                            <dd>
+                                <form id="facebook-login" class="appendTimeStamp" action="https://thegardenisland-dot-com.bloxcms.com/users/login/?" method="post" onsubmit="fbLogin(); return false;">
+                                    <input class="appendTimeStamp" type="hidden" name="referer_url" value="/privacy/">
+                                    <input type="hidden" name="username" value="provider:facebook">
+                                    <input type="image" src="http://static.ak.fbcdn.net/images/fbconnect/login-buttons/connect_light_medium_long.gif">
+                                </form>
+                            </dd>
+                        </dl>
+                    </div>
+                    <div class="clear"></div>
+                </div>
             </div>
+            <p id="blox-user-nav"><a id="tnLogin" class="appendTimeStamp" href="https://thegardenisland-dot-com.bloxcms.com/users/login/?referer_url=/privacy/">Login</a> | <a class="appendTimeStamp" href="/users/signup/?referer_url=/privacy/">Register</a>  | <a href="/subscribe/">Subscribe</a> | <a href="/vn/">Submit News</a></p>
+        
+    </div>
             
             <div id="blox-search-form-container" class="grid_3">
                 <form id="blox-search-form" action="/search/" method="get">
@@ -246,7 +319,7 @@ yld_mgr.slots.leaderboardbtm_slot.content_type_list=["fn_news"];
                     <li><a href="http://thegardenisland.com/app/walaau/" title="Walaau">Walaau</a></li>
                 </ul>
             </li>
-            <li><a href="/classifieds/"><span>Marketplace</span></a> <em class="nav-toggle"><a href="javascript:void(0);">more</a></em>
+            <li><a href="/get-it/"><span>Get It</span></a> <em class="nav-toggle"><a href="javascript:void(0);">more</a></em>
                 <ul>
                     <li><a href="/classifieds/" title="Classifieds">Classifieds</a></li>
                     <li><a href="http://advault.kauaiworld.com/ROP/Categories.aspx" rel="external" title="Ads Today">Today's Ads</a></li>
@@ -259,8 +332,8 @@ yld_mgr.slots.leaderboardbtm_slot.content_type_list=["fn_news"];
             </li>
             <li><a href="/Homes"><span>Real Estate</span></a> <em class="nav-toggle"><a href="javascript:void(0);">more</a></em>
                 <ul>
-                    <li><a href="http://kauai-www2.kauaiworld.com/classifieds/real_estate/" rel="external" title="Homes for Sale">Homes for Sale</a></li>
-                    <li><a href="http://thegardenisland.com/real_estate/" rel="external" title="Rentals">Rentals</a></li>
+                    <li><a href="http://thegardenisland.com/real_estate/" rel="external" title="Homes for Sale">Homes for Sale</a></li>
+                    <li><a href="http://homes.lee.net/thegardenisland/for-rent/hi-usa/0-ns" rel="external" title="Rentals">Rentals</a></li>
                 </ul>
             </li>
             <li><a href="http://kauai-www2.kauaiworld.com/jobs/" rel="external"><span>Jobs</span></a> <em class="nav-toggle"><a href="javascript:void(0);">more</a></em>
@@ -269,10 +342,10 @@ yld_mgr.slots.leaderboardbtm_slot.content_type_list=["fn_news"];
                     <li><a href="/app/work-here/openings.php" title="Work here">Work for the newspaper</a></li>
                 </ul>
             </li>
-            <li><a href="http://advault.kauaiworld.com/SS/Tiles.aspx?type=essentialkauai"><span>Visitors</span></a> <em class="nav-toggle"><a href="javascript:void(0);">more</a></em>
+            <li><a href="http://th-ee.thegardenisland.com/special/essential_kauai/"><span>Visitors</span></a> <em class="nav-toggle"><a href="javascript:void(0);">more</a></em>
                 <ul>
 
-                    <li><a href="http://advault.kauaiworld.com/SS/Tiles.aspx?type=essentialkauai" rel="external" title="">Essential Kauai</a></li>
+                    <li><a href="http://th-ee.thegardenisland.com/special/essential_kauai/" rel="external" title="">Essential Kauai</a></li>
                     <li><a href="http://www.kauaiexplorer.com/ocean_report/" rel="external" title="Ocean Safety">Ocean Safety</a></li>
                     <li><a href="/gallery/" title="">Gallery</a></li>
                     <li><a href="/calendar/" title="">Calendar</a></li>
@@ -406,15 +479,15 @@ you accept the privacy policy of the AP News Registry. Please refer to the <a hr
 			
 	<div id="blox-right-col" class="grid_4 omega">
 		<dl id="blox-weather">
-	<dt><a href="/app/weather/"><span id="wTemp">&nbsp;</span> <span id="wTempUnit"></span></a></dt>
-	<dd>
-		Sponsored by:
-		<div><script type="text/javascript">yld_mgr.place_ad_here("weather_slot");</script></div>
-	</dd>
+    <dt><a href="/app/weather/"><span id="wTemp">&nbsp;</span> <span id="wTempUnit"></span></a></dt>
+    <dd>
+        Sponsored by:
+        <div><script type="text/javascript">yld_mgr.place_ad_here("weather_slot");</script></div>
+    </dd>
 </dl>
 
 <div id="weather-nav">
-	<a href="/app/weather">Current Conditions</a>
+    <a href="/app/weather">Current Conditions</a>
 </div>
 
 <div id="blox-big-ad" class="pad-bottom pad-top"><script type="text/javascript">yld_mgr.place_ad_here("bigad_slot");</script></div>
@@ -434,25 +507,25 @@ you accept the privacy policy of the AP News Registry. Please refer to the <a hr
 		
 			<ul class="bull-list">
 				
-					<li><a href="/news/local/article_8dd094f6-03a3-11e1-80c6-001cc4c002e0.html">Hiker dies on Sleeping Giant</a></li>
+					<li><a href="/news/local/woman-dies-after-princeville-traffic-collision/article_945aa900-9440-11e1-afaa-001a4bcf887a.html">Woman dies after  Princeville traffic collision </a></li>
 				
-					<li><a href="/news/local/article_12954824-0144-11e1-86e1-001cc4c002e0.html">Roofless in Paradise</a></li>
+					<li><a href="/news/local/crime-and-courts/kaua-i-s-most-wanted/article_76384b42-94ec-11e1-8b27-0019bb2963f4.html">Kaua‘i’s Most Wanted</a></li>
 				
-					<li><a href="/news/local/article_aa731ee0-fbc3-11e0-a5b8-001cc4c002e0.html">Woman sues Kukui Grove </a></li>
+					<li><a href="/news/local/tests-show-toxins-polluting-hanalei-river-mouth-bay/article_b8793cc6-92a0-11e1-8bca-0019bb2963f4.html">Tests show toxins polluting Hanalei river mouth, bay</a></li>
 				
-					<li><a href="/news/local/policelogs/article_6c729fa0-006c-11e1-9064-001cc4c03286.html">Arrest Log for Thursday, October 27, 2011</a></li>
+					<li><a href="/news/local/consultant-unveils-north-shore-path-report/article_6bf10388-94f4-11e1-a956-0019bb2963f4.html">Consultant unveils North Shore Path report</a></li>
 				
-					<li><a href="/news/opinion/mailbag/article_d2ba29c8-006b-11e1-b503-001cc4c03286.html">Letters for Thursday, October 27, 2011</a></li>
+					<li><a href="/news/opinion/mailbag/letters-for-thursday-may/article_3c11cfd6-94f8-11e1-b046-0019bb2963f4.html">Letters for Thursday, May 3, 2012</a></li>
 				
-					<li><a href="/news/local/article_5bf68a2e-02d8-11e1-97d9-001cc4c03286.html">Farmers (only) markets</a></li>
+					<li><a href="/news/local/crime-and-courts/mixed-verdicts-in-ha-ena-incident/article_38f90644-94f7-11e1-ba1c-0019bb2963f4.html">Mixed verdicts in Ha‘ena incident</a></li>
 				
-					<li><a href="/news/local/obituaries/article_ecef4fcc-ffa2-11e0-ac1b-001cc4c002e0.html">Obituaries for Wednesday, October 26, 2011</a></li>
+					<li><a href="/promo/homepage/letters-for-wednesday-may/article_5a6071c6-943b-11e1-932c-001a4bcf887a.html">Letters for Wednesday, May 2, 2012</a></li>
 				
-					<li><a href="/news/opinion/mailbag/article_05ed154a-ff85-11e0-adee-001cc4c002e0.html">Letters for Wednesday, October 26, 2011</a></li>
+					<li><a href="/news/opinion/mailbag/letters-for-monday-april/article_e42dbab4-928b-11e1-9fd4-0019bb2963f4.html">Letters for Monday, April 30, 2012</a></li>
 				
-					<li><a href="/news/opinion/mailbag/article_3075d894-02c6-11e1-b1ac-001cc4c03286.html">Letters for Sunday, October 30, 2011</a></li>
+					<li><a href="/news/opinion/mailbag/letters-for-friday-may/article_54b1684a-95d3-11e1-9f39-0019bb2963f4.html">Letters for Friday, May 4, 2012</a></li>
 				
-					<li><a href="/news/opinion/mailbag/article_b07732ea-03a7-11e1-bdf6-001cc4c002e0.html">Letters for Monday, October 31, 2011</a></li>
+					<li><a href="/promo/homepage/letters-for-sunday-april/article_721a4d8a-91d6-11e1-8d47-001a4bcf887a.html">Letters for Sunday, April 29, 2012</a></li>
 				
 			</ul>
 		
@@ -464,43 +537,67 @@ you accept the privacy policy of the AP News Registry. Please refer to the <a hr
 			<ul class="bull-list">
 				
 				
-					<li><a href="/news/opinion/mailbag/article_3075d894-02c6-11e1-b1ac-001cc4c03286.html">Letters for Sunday, October 30, 2011</a></li>
+					<li><a href="/news/opinion/mailbag/letters-for-thursday-may/article_3c11cfd6-94f8-11e1-b046-0019bb2963f4.html">Letters for Thursday, May 3, 2012</a></li>
 				
 				
 				
-					<li><a href="/news/opinion/mailbag/article_d2ba29c8-006b-11e1-b503-001cc4c03286.html">Letters for Thursday, October 27, 2011</a></li>
+					<li><a href="/promo/homepage/letters-for-sunday-april/article_721a4d8a-91d6-11e1-8d47-001a4bcf887a.html">Letters for Sunday, April 29, 2012</a></li>
 				
 				
 				
-					<li><a href="/news/opinion/mailbag/article_c7eba918-018d-11e1-941d-001cc4c03286.html">Letters for Friday, October 28, 2011</a></li>
+					<li><a href="/promo/homepage/letters-for-wednesday-may/article_5a6071c6-943b-11e1-932c-001a4bcf887a.html">Letters for Wednesday, May 2, 2012</a></li>
 				
 				
 				
-					<li><a href="/news/opinion/mailbag/article_b07732ea-03a7-11e1-bdf6-001cc4c002e0.html">Letters for Monday, October 31, 2011</a></li>
+					<li><a href="/news/opinion/mailbag/letters-for-friday-may/article_54b1684a-95d3-11e1-9f39-0019bb2963f4.html">Letters for Friday, May 4, 2012</a></li>
 				
 				
 				
-					<li><a href="/news/opinion/mailbag/article_d84822b4-01d3-11e1-8122-001cc4c03286.html">Letters for Saturday, October 29, 2011</a></li>
+					<li><a href="/news/local/consultant-unveils-north-shore-path-report/article_6bf10388-94f4-11e1-a956-0019bb2963f4.html">Consultant unveils North Shore Path report</a></li>
 				
 				
 				
-					<li><a href="/news/opinion/mailbag/article_be691e6a-044a-11e1-82ad-001cc4c002e0.html">Letters for Tuesday, November 1, 2011</a></li>
+					<li><a href="/news/opinion/mailbag/letters-for-monday-april/article_e42dbab4-928b-11e1-9fd4-0019bb2963f4.html">Letters for Monday, April 30, 2012</a></li>
 				
 				
 				
-					<li><a href="/news/local/article_12954824-0144-11e1-86e1-001cc4c002e0.html">Roofless in Paradise</a></li>
+					<li><a href="/promo/homepage/letters-for-tuesday-may/article_722ea4e2-9366-11e1-b616-0019bb2963f4.html">Letters for Tuesday, May 1, 2012</a></li>
 				
 				
 				
-					<li><a href="/news/local/article_b67b2be0-0070-11e1-9b6a-001cc4c03286.html">Full steam ahead for KIUC hydro</a></li>
+					<li><a href="/news/local/tests-show-toxins-polluting-hanalei-river-mouth-bay/article_b8793cc6-92a0-11e1-8bca-0019bb2963f4.html">Tests show toxins polluting Hanalei river mouth, bay</a></li>
 				
 				
 				
-					<li><a href="/news/opinion/mailbag/article_05ed154a-ff85-11e0-adee-001cc4c002e0.html">Letters for Wednesday, October 26, 2011</a></li>
+					<li><a href="/news/local/candidate-kollar-says-he-has-drive-to-make-a-difference/article_0d13e808-9369-11e1-bc79-0019bb2963f4.html">Candidate Kollar says he has drive to make a difference</a></li>
 				
 				
 				
-					<li><a href="/news/local/article_406a5c90-ffa4-11e0-a420-001cc4c002e0.html">Japan tsunami debris floating toward Hawai‘i</a></li>
+					<li><a href="/business/hydropower-developer-gets-koke-e-project/article_66089868-92a2-11e1-aa92-0019bb2963f4.html">Hydropower developer gets Koke‘e project  </a></li>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
 				
 				
 				
@@ -593,33 +690,32 @@ you accept the privacy policy of the AP News Registry. Please refer to the <a hr
 <div id="tncms-region-side-rail-middle" class="tncms-region "><div id="tncms-block-48090" class="tncms-block">
 
 
-	<div id="promo-holder_1"><div class="blox-promo-slider moz-border"><ul><li><dl><dd class="promo-title"><a href="/lifestyles/announcements/article_1a4b5f08-f0ce-11e0-9c23-001cc4c03286.html">Kaua‘i support groups schedule</a></dd><dd>• Alcoholics • Narcotics • Al-Anon/Alateen • Co-Dependents •
-Compulsive Eaters • Gamblers • Overe</dd><dd class="clear"></dd></dl></li><li><dl><dd class="promo-title"><a href="/lifestyles/announcements/article_8c412c36-044d-11e1-842e-001cc4c002e0.html">Senior Calendar for Tuesday, November 1, 2011</a></dd><dd>Today</dd><dd class="clear"></dd></dl></li><li><dl><dd class="promo-title"><a href="/lifestyles/announcements/article_0f18a1be-03ab-11e1-b0dc-001cc4c002e0.html">Island Calendar for Monday, October 31, 2011</a></dd><dd>Monday</dd><dd class="clear"></dd></dl></li><li><dl><dd class="promo-title"><a href="/sports/article_d80060ba-f881-11e0-9e14-001cc4c03286.html">Bridge Club Results for Monday, October 17, 2011</a></dd><dd>The Sunrise Duplicate Bridge Club plays at 9 a.m. every Thursday
-(open game) at the Princeville C</dd><dd class="clear"></dd></dl></li><li><dl><dd class="promo-title"><a href="/entertainment/night-life/article_593c07cc-042d-11e1-b328-001cc4c002e0.html">Good sounds around da island</a></dd><dd>Live music listings for October 30 - November 5, 2011</dd><dd class="clear"></dd></dl></li><li><dl><dd class="promo-title"><a href="/entertainment/night-life/article_7bca634e-042b-11e1-896f-001cc4c002e0.html">Pau Hana for Sunday, October 30, 2011</a></dd><dd>Island Happy hours for October 23 - November 5, 2011</dd><dd class="clear"></dd></dl></li><li><dl><dd class="promo-title"><a href="/lifestyles/announcements/article_98028796-0203-11e1-8684-001cc4c03286.html">Island Calendar for Saturday, October 29, 2011</a></dd><dd>Saturday</dd><dd class="clear"></dd></dl></li><li><dl><dd class="promo-title"><a href="/entertainment/night-life/article_7d7a2cd6-042d-11e1-8596-001cc4c002e0.html">Things to do on the garden island</a></dd><dd>Island calendar for October 30 - November 5, 2011</dd><dd class="clear"></dd></dl></li><li><dl><dd class="promo-title"><a href="/lifestyles/announcements/article_dfc56182-0151-11e1-b2e1-001cc4c002e0.html">Community Calendar for Friday, October 28, 2011</a></dd><dd>Friday</dd><dd class="clear"></dd></dl></li><li><dl><dd class="promo-title"><a href="/lifestyles/announcements/article_3d5260a0-fee8-11e0-ae4f-001cc4c002e0.html">Senior Calendar for Tuesday, October 25, 2011</a></dd><dd>Today</dd><dd class="clear"></dd></dl></li></ul></div></div>
+	<div id="promo-holder_1"><div class="blox-promo-slider moz-border"><ul><li><dl><dd class="promo-title"><a href="/lifestyles/announcements/island-calendar-for-thursday-may/article_7e5c8904-94ed-11e1-a5ed-0019bb2963f4.html">Island Calendar for Thursday, May 3, 2012</a></dd><dd>Today</dd><dd class="clear"></dd></dl></li><li><dl><dd class="promo-title"><a href="/lifestyles/announcements/farmers-markets-for-wednesday-april/article_8f7d0cf2-886f-11e1-9c40-001a4bcf887a.html">Farmers Markets for Wednesday, April 18, 2012</a></dd><dd>Monday</dd><dd class="clear"></dd></dl></li><li><dl><dd class="promo-title"><a href="/entertainment/events-calendar/island-happy-hours-for-sunday-april/article_0aec4528-91db-11e1-b4e9-001a4bcf887a.html">Island Happy Hours for Sunday, April 29, 2012</a></dd><dd>Big Wave Dave’s</dd><dd class="clear"></dd></dl></li><li><dl><dt class="promo-thumb"><a href="/entertainment/events-calendar/weekend-calendar-for-friday-may/article_bdf1651e-95d6-11e1-bbe5-0019bb2963f4.html"><img width="65px" src="http://bloximages.chicago2.vip.townnews.com/thegardenisland.com/content/tncms/assets/v3/editorial/6/89/68969e81-6d29-5a8c-9933-3a5db1730fef/4fa3ae1308016.preview-100.jpg" alt=""></a></dt><dd class="promo-title"><a href="/entertainment/events-calendar/weekend-calendar-for-friday-may/article_bdf1651e-95d6-11e1-bbe5-0019bb2963f4.html">Weekend Calendar for Friday, May 4, 2012</a></dd><dd>Friday</dd><dd class="clear"></dd></dl></li><li><dl><dd class="promo-title"><a href="/entertainment/events-calendar/music-listings-for-sunday-april/article_df75f668-91db-11e1-a582-001a4bcf887a.html">Music Listings for Sunday, April 29, 2012</a></dd><dd>Monday</dd><dd class="clear"></dd></dl></li><li><dl><dd class="promo-title"><a href="/lifestyles/announcements/kaua-i-support-groups-schedule/article_1a4b5f08-f0ce-11e0-9c23-001cc4c03286.html">Kaua‘i support groups schedule</a></dd><dd>• Alcoholics • Narcotics • Al-Anon/Alateen • Co-Dependents •
+Compulsive Eaters • Gamblers • Overe</dd><dd class="clear"></dd></dl></li><li><dl><dd class="promo-title"><a href="/lifestyles/announcements/artist-s-alley-for-sunday-april/article_95ce45e6-91be-11e1-bf25-001a4bcf887a.html">Artist's Alley for Sunday, April 29, 2012</a></dd><dd>• Upcoming • Theater • Ongoing</dd><dd class="clear"></dd></dl></li><li><dl><dd class="promo-title"><a href="/lifestyles/announcements/senior-calendar-for-tuesday-april/article_0e03ea34-8dd2-11e1-8ae5-001a4bcf887a.html">Senior Calendar for Tuesday, April 24, 2012</a></dd><dd>Today</dd><dd class="clear"></dd></dl></li><li><dl><dd class="promo-title"><a href="/entertainment/events-calendar/island-calendar-for-sunday-april/article_8029da3a-91db-11e1-9ab5-001a4bcf887a.html">Island Calendar for Sunday, April 29, 2012</a></dd><dd>Sunday</dd><dd class="clear"></dd></dl></li><li><dl><dd class="promo-title"><a href="/entertainment/events-calendar/live-music-listings-for-sunday-april/article_7b42eee0-8c71-11e1-adc7-001a4bcf887a.html">Live Music Listings for Sunday, April 22, 2012</a></dd><dd>Monday</dd><dd class="clear"></dd></dl></li></ul></div></div>
 	
 	<script type="text/javascript">
 		var assetArray = new Array;
 	
 		
-			assetArray[1]=['Kaua‘i support groups schedule','• Alcoholics • Narcotics • Al-Anon/Alateen • Co-Dependents •\nCompulsive Eaters • Gamblers • Overe','','/lifestyles/announcements/article_1a4b5f08-f0ce-11e0-9c23-001cc4c03286.html']
+			assetArray[1]=['Kaua‘i support groups schedule','• Alcoholics • Narcotics • Al-Anon/Alateen • Co-Dependents •\nCompulsive Eaters • Gamblers • Overe','','/lifestyles/announcements/kaua-i-support-groups-schedule/article_1a4b5f08-f0ce-11e0-9c23-001cc4c03286.html']
 		
-			assetArray[2]=['Senior Calendar for Tuesday, November 1, 2011','Today','','/lifestyles/announcements/article_8c412c36-044d-11e1-842e-001cc4c002e0.html']
+			assetArray[2]=['Weekend Calendar for Friday, May 4, 2012','Friday','http://bloximages.chicago2.vip.townnews.com/thegardenisland.com/content/tncms/assets/v3/editorial/6/89/68969e81-6d29-5a8c-9933-3a5db1730fef/4fa3ae1308016.preview-100.jpg','/entertainment/events-calendar/weekend-calendar-for-friday-may/article_bdf1651e-95d6-11e1-bbe5-0019bb2963f4.html']
 		
-			assetArray[3]=['Island Calendar for Monday, October 31, 2011','Monday','','/lifestyles/announcements/article_0f18a1be-03ab-11e1-b0dc-001cc4c002e0.html']
+			assetArray[3]=['Island Calendar for Thursday, May 3, 2012','Today','','/lifestyles/announcements/island-calendar-for-thursday-may/article_7e5c8904-94ed-11e1-a5ed-0019bb2963f4.html']
 		
-			assetArray[4]=['Pau Hana for Sunday, October 30, 2011','Island Happy hours for October 23 - November 5, 2011','','/entertainment/night-life/article_7bca634e-042b-11e1-896f-001cc4c002e0.html']
+			assetArray[4]=['Artist\'s Alley for Sunday, April 29, 2012','• Upcoming • Theater • Ongoing','','/lifestyles/announcements/artist-s-alley-for-sunday-april/article_95ce45e6-91be-11e1-bf25-001a4bcf887a.html']
 		
-			assetArray[5]=['Good sounds around da island','Live music listings for October 30 - November 5, 2011','','/entertainment/night-life/article_593c07cc-042d-11e1-b328-001cc4c002e0.html']
+			assetArray[5]=['Island Happy Hours for Sunday, April 29, 2012','Big Wave Dave’s','','/entertainment/events-calendar/island-happy-hours-for-sunday-april/article_0aec4528-91db-11e1-b4e9-001a4bcf887a.html']
 		
-			assetArray[6]=['Things to do on the garden island','Island calendar for October 30 - November 5, 2011','','/entertainment/night-life/article_7d7a2cd6-042d-11e1-8596-001cc4c002e0.html']
+			assetArray[6]=['Music Listings for Sunday, April 29, 2012','Monday','','/entertainment/events-calendar/music-listings-for-sunday-april/article_df75f668-91db-11e1-a582-001a4bcf887a.html']
 		
-			assetArray[7]=['Island Calendar for Saturday, October 29, 2011','Saturday','','/lifestyles/announcements/article_98028796-0203-11e1-8684-001cc4c03286.html']
+			assetArray[7]=['Island Calendar for Sunday, April 29, 2012','Sunday','','/entertainment/events-calendar/island-calendar-for-sunday-april/article_8029da3a-91db-11e1-9ab5-001a4bcf887a.html']
 		
-			assetArray[8]=['Community Calendar for Friday, October 28, 2011','Friday','','/lifestyles/announcements/article_dfc56182-0151-11e1-b2e1-001cc4c002e0.html']
+			assetArray[8]=['Senior Calendar for Tuesday, April 24, 2012','Today','','/lifestyles/announcements/senior-calendar-for-tuesday-april/article_0e03ea34-8dd2-11e1-8ae5-001a4bcf887a.html']
 		
-			assetArray[9]=['Senior Calendar for Tuesday, October 25, 2011','Today','','/lifestyles/announcements/article_3d5260a0-fee8-11e0-ae4f-001cc4c002e0.html']
+			assetArray[9]=['Live Music Listings for Sunday, April 22, 2012','Monday','','/entertainment/events-calendar/live-music-listings-for-sunday-april/article_7b42eee0-8c71-11e1-adc7-001a4bcf887a.html']
 		
-			assetArray[10]=['Bridge Club Results for Monday, October 17, 2011','The Sunrise Duplicate Bridge Club plays at 9 a.m. every Thursday\n(open game) at the Princeville C','','/sports/article_d80060ba-f881-11e0-9e14-001cc4c03286.html']
+			assetArray[10]=['Farmers Markets for Wednesday, April 18, 2012','Monday','','/lifestyles/announcements/farmers-markets-for-wednesday-april/article_8f7d0cf2-886f-11e1-9c40-001a4bcf887a.html']
 		
 		
 		Array.prototype.shuffleArray_1= function()
@@ -689,10 +785,10 @@ Compulsive Eaters • Gamblers • Overe</dd><dd class="clear"></dd></dl></li><l
 </div></div></div>
 
 <div id="blox-tile-ad" class="pad-bottom">
-	<script type="text/javascript">yld_mgr.place_ad_here("tile_one");</script>
+    <script type="text/javascript">yld_mgr.place_ad_here("tile_one");</script>
 
 <script type="text/javascript">yld_mgr.place_ad_here("tile_two");</script>
-	<div class="clear"></div>
+    <div class="clear"></div>
 </div>
 
 <div id="tncms-region-side-rail-bottom" class="tncms-region "><div id="tncms-block-48086" class="tncms-block"></div><div id="tncms-block-48031" class="tncms-block">
@@ -703,14 +799,7 @@ Compulsive Eaters • Gamblers • Overe</dd><dd class="clear"></dd></dl></li><l
 
 <style type="text/css">.dd-box {margin-bottom:20px;} .dd-list li { display:block; float:left; background-color:#eee; margin:0 5px 5px 0; -moz-border-radius:2px; -webkit-border-radius:2px; } .dd-list li a { display:block; float:left; font-weight:bold; width:92px; padding:10px 10px 10px 40px; } #dd-connect { background:url(http://images.townnews.com/leetemplates.com/app/images/digital-delivery/dd-txt-old.gif) 15px 50% no-repeat; } #dd-txt { background:url(http://images.townnews.com/leetemplates.com/app/images/digital-delivery/dd-txt.gif) 15px 50% no-repeat; } #dd-email { background:url(http://images.townnews.com/leetemplates.com/app/images/digital-delivery/dd-email.gif) 15px 50% no-repeat; } #dd-rss { background:url(http://images.townnews.com/leetemplates.com/app/images/digital-delivery/dd-rss.gif) 15px 50% no-repeat; } #dd-twitter { background:url(http://images.townnews.com/leetemplates.com/app/images/digital-delivery/dd-twitter.gif) 15px 50% no-repeat; } #dd-facebook { background:url(http://images.townnews.com/leetemplates.com/app/images/digital-delivery/dd-facebook.gif) 15px 50% no-repeat; } </style><h2>Connect with Us</h2><div class="dd-box"><ul class="dd-list">
 
-  <li><a id="dd-rss" href="/rss/" title="Use RSS feeds to get news delivered to your feed reader" target="_blank">RSS</a></li><li><a id="dd-twitter" href="http://www.twitter.com/thegardenisland" title="Follow us on Twitter for news and updates throughout the day" target="_blank">Twitter</a></li><li><a id="dd-facebook" href="http://www.facebook.com/home.php?#/pages/Lihue/The-Garden-Island/128511864485" title="Become a fan on Facebook to get news alerts on your Facebook page" target="_blank">Facebook</a></li><li><a id="dd-connect" href="/mobile/" title="Browse the news from your cell phone" target="_blank">Mobile</a></li><li><a id="dd-email" href="http://thegardenisland.com/app/maillist/signup.php" title="Email Update" target="_blank">Email Update</a></li></ul><div class="clear"></div></div>
-
-
-
-
-
-
-
+  <li><a id="dd-rss" href="/rss/" title="Use RSS feeds to get news delivered to your feed reader" target="_blank">RSS</a></li><li><a id="dd-twitter" href="http://www.twitter.com/thegardenisland" title="Follow us on Twitter for news and updates throughout the day" target="_blank">Twitter</a></li><li><a id="dd-facebook" href="http://www.facebook.com/TheGardenIsland" title="Become a fan on Facebook to get news alerts on your Facebook page" target="_blank">Facebook</a></li><li><a id="dd-connect" href="/mobile/" title="Browse the news from your cell phone" target="_blank">Mobile</a></li><li><a id="dd-email" href="http://thegardenisland.com/app/maillist/signup.php" title="Email Update" target="_blank">Email Update</a></li><li><a id="dd-txt" href="http://th-ee.thegardenisland.com/eedition/" title="E-Edition" target="_blank">E-Edition</a></li></ul><div class="clear"></div></div>
 	</div>
 
 	<div class="clear"></div>
@@ -724,6 +813,7 @@ Compulsive Eaters • Gamblers • Overe</dd><dd class="clear"></dd></dl></li><l
             <script type="text/javascript">yld_mgr.place_ad_here("leaderboardbtm_slot");</script>
         </div>
     </div>
+
 
     <!-- end main container -->
     </div>
@@ -748,9 +838,128 @@ Compulsive Eaters • Gamblers • Overe</dd><dd class="clear"></dd></dl></li><l
                 </ul>
             </div>
                     
-            <div class="grid_3">
-                <h3>Services</h3>
-                <ul class="bull-list">
+                
+    <!-- local nav list -->
+    <div id="local-footer-menu_menu" class="blox-expand-menu hide moz-border">
+        <ul>
+                    <li><a href="http://local.thegardenisland.com/lihue+hi/apartments.zq.html">Lihue Apartments</a></li>
+                    <li><a href="http://local.thegardenisland.com/princeville+hi/apartments.zq.html">Princeville Apartments</a></li>
+                    <li><a href="http://local.thegardenisland.com/poipu+hi/apartments.zq.html">Poipu Apartments</a></li>
+                    <li><a href="http://local.thegardenisland.com/kapaa+hi/apartments.zq.html">Kapaa Apartments</a></li>
+                    <li><a href="http://local.thegardenisland.com/wailua+hi/apartments.zq.html">Wailua Apartments</a></li>
+                    <li><a href="http://local.thegardenisland.com/lihue+hi/attorneys.zq.html">Lihue Attorneys</a></li>
+                    <li><a href="http://local.thegardenisland.com/princeville+hi/attorneys.zq.html">Princeville Attorneys</a></li>
+                    <li><a href="http://local.thegardenisland.com/poipu+hi/attorneys.zq.html">Poipu Attorneys</a></li>
+                    <li><a href="http://local.thegardenisland.com/kapaa+hi/attorneys.zq.html">Kapaa Attorneys</a></li>
+                    <li><a href="http://local.thegardenisland.com/wailua+hi/attorneys.zq.html">Wailua Attorneys</a></li>
+                    <li><a href="http://local.thegardenisland.com/lihue+hi/auto+dealers.zq.html">Lihue Auto Dealers</a></li>
+                    <li><a href="http://local.thegardenisland.com/princeville+hi/auto+dealers.zq.html">Princeville Auto Dealers</a></li>
+                    <li><a href="http://local.thegardenisland.com/poipu+hi/auto+dealers.zq.html">Poipu Auto Dealers</a></li>
+                    <li><a href="http://local.thegardenisland.com/kapaa+hi/auto+dealers.zq.html">Kapaa Auto Dealers</a></li>
+                    <li><a href="http://local.thegardenisland.com/wailua+hi/auto+dealers.zq.html">Wailua Auto Dealers</a></li>
+                    <li><a href="http://local.thegardenisland.com/lihue+hi/auto+parts.zq.html">Lihue Auto Parts</a></li>
+                    <li><a href="http://local.thegardenisland.com/princeville+hi/auto+parts.zq.html">Princeville Auto Parts</a></li>
+                    <li><a href="http://local.thegardenisland.com/poipu+hi/auto+parts.zq.html">Poipu Auto Parts</a></li>
+                    <li><a href="http://local.thegardenisland.com/kapaa+hi/auto+parts.zq.html">Kapaa Auto Parts</a></li>
+                    <li><a href="http://local.thegardenisland.com/wailua+hi/auto+parts.zq.html">Wailua Auto Parts</a></li>
+                    <li><a href="http://local.thegardenisland.com/lihue+hi/auto+repair.zq.html">Lihue Auto Repair</a></li>
+                    <li><a href="http://local.thegardenisland.com/princeville+hi/auto+repair.zq.html">Princeville Auto Repair</a></li>
+                    <li><a href="http://local.thegardenisland.com/poipu+hi/auto+repair.zq.html">Poipu Auto Repair</a></li>
+                    <li><a href="http://local.thegardenisland.com/kapaa+hi/auto+repair.zq.html">Kapaa Auto Repair</a></li>
+                    <li><a href="http://local.thegardenisland.com/wailua+hi/auto+repair.zq.html">Wailua Auto Repair</a></li>
+                    <li><a href="http://local.thegardenisland.com/lihue+hi/beauty+salons.zq.html">Lihue Beauty Salons</a></li>
+                    <li><a href="http://local.thegardenisland.com/princeville+hi/beauty+salons.zq.html">Princeville Beauty Salons</a></li>
+                    <li><a href="http://local.thegardenisland.com/poipu+hi/beauty+salons.zq.html">Poipu Beauty Salons</a></li>
+                    <li><a href="http://local.thegardenisland.com/kapaa+hi/beauty+salons.zq.html">Kapaa Beauty Salons</a></li>
+                    <li><a href="http://local.thegardenisland.com/wailua+hi/beauty+salons.zq.html">Wailua Beauty Salons</a></li>
+                    <li><a href="http://local.thegardenisland.com/lihue+hi/car+rental.zq.html">Lihue Car Rental</a></li>
+                    <li><a href="http://local.thegardenisland.com/princeville+hi/car+rental.zq.html">Princeville Car Rental</a></li>
+                    <li><a href="http://local.thegardenisland.com/poipu+hi/car+rental.zq.html">Poipu Car Rental</a></li>
+                    <li><a href="http://local.thegardenisland.com/kapaa+hi/car+rental.zq.html">Kapaa Car Rental</a></li>
+                    <li><a href="http://local.thegardenisland.com/wailua+hi/car+rental.zq.html">Wailua Car Rental</a></li>
+                    <li><a href="http://local.thegardenisland.com/lihue+hi/dentists.zq.html">Lihue Dentists</a></li>
+                    <li><a href="http://local.thegardenisland.com/princeville+hi/dentists.zq.html">Princeville Dentists</a></li>
+                    <li><a href="http://local.thegardenisland.com/poipu+hi/dentists.zq.html">Poipu Dentists</a></li>
+                    <li><a href="http://local.thegardenisland.com/kapaa+hi/dentists.zq.html">Kapaa Dentists</a></li>
+                    <li><a href="http://local.thegardenisland.com/wailua+hi/dentists.zq.html">Wailua Dentists</a></li>
+                    <li><a href="http://local.thegardenisland.com/lihue+hi/doctors.zq.html">Lihue Doctors</a></li>
+                    <li><a href="http://local.thegardenisland.com/princeville+hi/doctors.zq.html">Princeville Doctors</a></li>
+                    <li><a href="http://local.thegardenisland.com/poipu+hi/doctors.zq.html">Poipu Doctors</a></li>
+                    <li><a href="http://local.thegardenisland.com/kapaa+hi/doctors.zq.html">Kapaa Doctors</a></li>
+                    <li><a href="http://local.thegardenisland.com/wailua+hi/doctors.zq.html">Wailua Doctors</a></li>
+                    <li><a href="http://local.thegardenisland.com/lihue+hi/flowers.zq.html">Lihue Flowers</a></li>
+                    <li><a href="http://local.thegardenisland.com/princeville+hi/flowers.zq.html">Princeville Flowers</a></li>
+                    <li><a href="http://local.thegardenisland.com/poipu+hi/flowers.zq.html">Poipu Flowers</a></li>
+                    <li><a href="http://local.thegardenisland.com/kapaa+hi/flowers.zq.html">Kapaa Flowers</a></li>
+                    <li><a href="http://local.thegardenisland.com/wailua+hi/flowers.zq.html">Wailua Flowers</a></li>
+                    <li><a href="http://local.thegardenisland.com/lihue+hi/hotels.zq.html">Lihue Hotels</a></li>
+                    <li><a href="http://local.thegardenisland.com/princeville+hi/hotels.zq.html">Princeville Hotels</a></li>
+                    <li><a href="http://local.thegardenisland.com/poipu+hi/hotels.zq.html">Poipu Hotels</a></li>
+                    <li><a href="http://local.thegardenisland.com/kapaa+hi/hotels.zq.html">Kapaa Hotels</a></li>
+                    <li><a href="http://local.thegardenisland.com/wailua+hi/hotels.zq.html">Wailua Hotels</a></li>
+                    <li><a href="http://local.thegardenisland.com/lihue+hi/insurance.zq.html">Lihue Insurance</a></li>
+                    <li><a href="http://local.thegardenisland.com/princeville+hi/insurance.zq.html">Princeville Insurance</a></li>
+                    <li><a href="http://local.thegardenisland.com/poipu+hi/insurance.zq.html">Poipu Insurance</a></li>
+                    <li><a href="http://local.thegardenisland.com/kapaa+hi/insurance.zq.html">Kapaa Insurance</a></li>
+                    <li><a href="http://local.thegardenisland.com/wailua+hi/insurance.zq.html">Wailua Insurance</a></li>
+                    <li><a href="http://local.thegardenisland.com/lihue+hi/loans.zq.html">Lihue Loans</a></li>
+                    <li><a href="http://local.thegardenisland.com/princeville+hi/loans.zq.html">Princeville Loans</a></li>
+                    <li><a href="http://local.thegardenisland.com/poipu+hi/loans.zq.html">Poipu Loans</a></li>
+                    <li><a href="http://local.thegardenisland.com/kapaa+hi/loans.zq.html">Kapaa Loans</a></li>
+                    <li><a href="http://local.thegardenisland.com/wailua+hi/loans.zq.html">Wailua Loans</a></li>
+                    <li><a href="http://local.thegardenisland.com/lihue+hi/mortgages.zq.html">Lihue Mortgages</a></li>
+                    <li><a href="http://local.thegardenisland.com/princeville+hi/mortgages.zq.html">Princeville Mortgages</a></li>
+                    <li><a href="http://local.thegardenisland.com/poipu+hi/mortgages.zq.html">Poipu Mortgages</a></li>
+                    <li><a href="http://local.thegardenisland.com/kapaa+hi/mortgages.zq.html">Kapaa Mortgages</a></li>
+                    <li><a href="http://local.thegardenisland.com/wailua+hi/mortgages.zq.html">Wailua Mortgages</a></li>
+                    <li><a href="http://local.thegardenisland.com/lihue+hi/movers.zq.html">Lihue Movers</a></li>
+                    <li><a href="http://local.thegardenisland.com/princeville+hi/movers.zq.html">Princeville Movers</a></li>
+                    <li><a href="http://local.thegardenisland.com/poipu+hi/movers.zq.html">Poipu Movers</a></li>
+                    <li><a href="http://local.thegardenisland.com/kapaa+hi/movers.zq.html">Kapaa Movers</a></li>
+                    <li><a href="http://local.thegardenisland.com/wailua+hi/movers.zq.html">Wailua Movers</a></li>
+                    <li><a href="http://local.thegardenisland.com/lihue+hi/pizza.zq.html">Lihue Pizza</a></li>
+                    <li><a href="http://local.thegardenisland.com/princeville+hi/pizza.zq.html">Princeville Pizza</a></li>
+                    <li><a href="http://local.thegardenisland.com/poipu+hi/pizza.zq.html">Poipu Pizza</a></li>
+                    <li><a href="http://local.thegardenisland.com/kapaa+hi/pizza.zq.html">Kapaa Pizza</a></li>
+                    <li><a href="http://local.thegardenisland.com/wailua+hi/pizza.zq.html">Wailua Pizza</a></li>
+                    <li><a href="http://local.thegardenisland.com/lihue+hi/realtors.zq.html">Lihue Realtors</a></li>
+                    <li><a href="http://local.thegardenisland.com/princeville+hi/realtors.zq.html">Princeville Realtors</a></li>
+                    <li><a href="http://local.thegardenisland.com/poipu+hi/realtors.zq.html">Poipu Realtors</a></li>
+                    <li><a href="http://local.thegardenisland.com/kapaa+hi/realtors.zq.html">Kapaa Realtors</a></li>
+                    <li><a href="http://local.thegardenisland.com/wailua+hi/realtors.zq.html">Wailua Realtors</a></li>
+                    <li><a href="http://local.thegardenisland.com/lihue+hi/restaurants.zq.html">Lihue Restaurants</a></li>
+                    <li><a href="http://local.thegardenisland.com/princeville+hi/restaurants.zq.html">Princeville Restaurants</a></li>
+                    <li><a href="http://local.thegardenisland.com/poipu+hi/restaurants.zq.html">Poipu Restaurants</a></li>
+                    <li><a href="http://local.thegardenisland.com/kapaa+hi/restaurants.zq.html">Kapaa Restaurants</a></li>
+                    <li><a href="http://local.thegardenisland.com/wailua+hi/restaurants.zq.html">Wailua Restaurants</a></li>
+                    <li><a href="http://local.thegardenisland.com/lihue+hi/storage.zq.html">Lihue Storage</a></li>
+                    <li><a href="http://local.thegardenisland.com/princeville+hi/storage.zq.html">Princeville Storage</a></li>
+                    <li><a href="http://local.thegardenisland.com/poipu+hi/storage.zq.html">Poipu Storage</a></li>
+                    <li><a href="http://local.thegardenisland.com/kapaa+hi/storage.zq.html">Kapaa Storage</a></li>
+                    <li><a href="http://local.thegardenisland.com/wailua+hi/storage.zq.html">Wailua Storage</a></li>
+                    <li><a href="http://local.thegardenisland.com/lihue+hi/tax+preparation.zq.html">Lihue Tax Preparation</a></li>
+                    <li><a href="http://local.thegardenisland.com/princeville+hi/tax+preparation.zq.html">Princeville Tax Preparation</a></li>
+                    <li><a href="http://local.thegardenisland.com/poipu+hi/tax+preparation.zq.html">Poipu Tax Preparation</a></li>
+                    <li><a href="http://local.thegardenisland.com/kapaa+hi/tax+preparation.zq.html">Kapaa Tax Preparation</a></li>
+                    <li><a href="http://local.thegardenisland.com/wailua+hi/tax+preparation.zq.html">Wailua Tax Preparation</a></li>
+                    <li><a href="http://local.thegardenisland.com/lihue+hi/travel.zq.html">Lihue Travel</a></li>
+                    <li><a href="http://local.thegardenisland.com/princeville+hi/travel.zq.html">Princeville Travel</a></li>
+                    <li><a href="http://local.thegardenisland.com/poipu+hi/travel.zq.html">Poipu Travel</a></li>
+                    <li><a href="http://local.thegardenisland.com/kapaa+hi/travel.zq.html">Kapaa Travel</a></li>
+                    <li><a href="http://local.thegardenisland.com/wailua+hi/travel.zq.html">Wailua Travel</a></li>
+                    <li><a href="http://local.thegardenisland.com/lihue+hi.z.html">More Lihue ...</a></li>
+                    <li><a href="http://local.thegardenisland.com/princeville+hi.z.html">More Princeville ...</a></li>
+                    <li><a href="http://local.thegardenisland.com/poipu+hi.z.html">More Poipu ...</a></li>
+                    <li><a href="http://local.thegardenisland.com/kapaa+hi.z.html">More Kapaa ...</a></li>
+                    <li><a href="http://local.thegardenisland.com/wailua+hi.z.html">More Wailua ...</a></li>
+            <li><a href="http://local.thegardenisland.com/allads.q.html">Featured</a></li>
+        </ul>
+    </div>
+        
+                <div class="grid_3">
+                    <h3>Services</h3>
+                    <ul class="bull-list">
+                        <li class="blox-flyout-link no-style"><a id="local-footer-menu" class="blox-flyout-open" href="#">Find Kauai Island Businesses</a></li>
                     <li><a href="http://jobsearch.local-jobs.monster.com/Search.aspx?wt.mc_n=hjnpsearch&amp;ch=lihue&amp;q=&amp;where=Lihue,HI&amp;re=130&amp;cy=us&amp;brd=1">Find Lihue Jobs</a></li>
                     <li><a href="/app/our_newspaper/advertise/" title="Advertise on our site">Advertise on Our Site</a></li>
                     <li><a href="/app/our_newspaper/contact/" title="Contact Us">Contact Us </a></li>
@@ -764,9 +973,9 @@ Compulsive Eaters • Gamblers • Overe</dd><dd class="clear"></dd></dl></li><l
             <div class="grid_3">
                 <h3>Other Websites</h3>
                 <ul class="bull-list">
-                <li><a href="http://advault.kauaiworld.com/SS/Tiles.aspx?type_current=kauaibusinessreport/" rel="external">Kauai Business Report</a></li>
+                <!-- li><a href="http://advault.kauaiworld.com/SS/Tiles.aspx?type_current=kauaibusinessreport/" rel="external">Kauai Business Report</a></li -->
                 <li><a href="http://advault.kauaiworld.com/SS/Tiles.aspx?type=homeedition" rel="external">KBR: Homes</a></li>
-                <li><a href="http://advault.kauaiworld.com/SS/Tiles.aspx?type=essentialkauai" rel="external">Essential Kauai</a></li>
+                <li><a href="http://th-ee.thegardenisland.com/special/essential_kauai/" rel="external">Essential Kauai</a></li>
                 <li><a href="http://kauaitimes.net">Kauai Times</a></li>
                 </ul>
             </div>
@@ -790,7 +999,7 @@ Compulsive Eaters • Gamblers • Overe</dd><dd class="clear"></dd></dl></li><l
     </div>
 </div>
 <div id="blox-copyright-container">
-    <p id="blox-copyright" class="container_12">© Copyright 2011, <a href="/">The Garden Island</a>, 3137 Kuhio Hwy. Lihue, HI | <a href="/terms/">Terms of Service</a> and <a href="/privacy/">Privacy Policy</a></p>
+    <p id="blox-copyright" class="container_12">© Copyright 2012, <a href="/">The Garden Island</a>, 3137 Kuhio Hwy. Lihue, HI | <a href="/terms/">Terms of Service</a> and <a href="/privacy/">Privacy Policy</a></p>
 </div>
 <div id="blox-peel-ad"><script type="text/javascript">yld_mgr.place_ad_here("peel_slot");</script></div>
 <div id="blox-background-ad" style="display:none"><script type="text/javascript">yld_mgr.place_ad_here("background");</script></div>
@@ -798,11 +1007,16 @@ Compulsive Eaters • Gamblers • Overe</dd><dd class="clear"></dd></dl></li><l
 
 
 <div id="blox-omniture" class="hide">
-        <script type="text/javascript" src="http://images.townnews.com/leetemplates.com/app/images/omniture/lihue.js"></script>
+        
+            <script type="text/javascript" src="http://images.townnews.com/leetemplates.com/app/images/omniture/lihue.js"></script>
+        
         <script type="text/javascript">
         <!--
+            var fBiz = typeof oFeaturedBusinesses != 'undefined' ? oFeaturedBusinesses : ''
+            var fBizP = typeof oFeaturedPosts != 'undefined' ? oFeaturedPosts : ''
+            var rdomain = document.referrer.split('/')[2];
             s.pageName="http://thegardenisland.com/privacy/"
-                s.server="kauai"
+            s.server="kauai"
             s.channel="kauaiworld.com"
             s.pageType=""
             s.prop1="privacy"
@@ -818,6 +1032,8 @@ Compulsive Eaters • Gamblers • Overe</dd><dd class="clear"></dd></dl></li><l
             s.prop11=""
             s.prop12=""
             s.prop26=""
+            s.prop52=fBiz
+            s.prop53=fBizP
             
             /* Conversion Variables */
             s.campaign=""
@@ -826,11 +1042,13 @@ Compulsive Eaters • Gamblers • Overe</dd><dd class="clear"></dd></dl></li><l
             s.events=""
             s.products=""
             s.purchaseID=""
-            s.eVar1=""
-            s.eVar2=""
             s.eVar3=""
-            s.eVar4=""
-            s.eVar5=""
+            s.eVar12=rdomain;
+            s.eVar14=""
+            s.eVar15=""
+            s.eVar16="/privacy"
+            s.eVar18=""
+
             s.hier1="Lee Enterprises," + s.server + "," + s.channel + "," + s.prop1 + "," + s.prop2 + "," + s.prop3 + "," + s.prop4 + "," + s.prop5
             s.hier2="Lee Enterprises," + s.prop1 + "," + s.server + "," + s.channel + "," + s.prop2 + "," + s.prop3 + "," + s.prop4 + "," + s.prop5
             /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
@@ -842,7 +1060,7 @@ Compulsive Eaters • Gamblers • Overe</dd><dd class="clear"></dd></dl></li><l
             if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
         //-->
         </script>
-        <noscript><p><a href="http://www.omniture.com" title="Web Analytics"><img src="http://lee-kauaiworldcom.112.2O7.net/b/ss/lee-kauaiworldcom/1/H.19.4--NS/0" height="1" width="1" alt="" /></a></p></noscript>
+        <noscript><p><a href="http://www.omniture.com" title="Web Analytics"><img src="http://leeenterprises.112.2O7.net/b/ss/lee-kauaiworldcom/1/H.19.4--NS/0" height="1" width="1" alt="" /></a></p></noscript>
         <!--/DO NOT REMOVE/-->
         <!-- End SiteCatalyst code version: H.19.3. -->
     </div>
@@ -852,6 +1070,18 @@ Compulsive Eaters • Gamblers • Overe</dd><dd class="clear"></dd></dl></li><l
 <script src="editorial/editorial-core-base-v0-4-1/resources/scripts/jcarousel.js" type="text/javascript"></script>
 <script src="global/resources/scripts/facebox.js" type="text/javascript"></script>
 <script src="global/resources/scripts/common.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+       function xCloseBottomAd(){
+               jQuery('#x-blox-bottom-ad').hide();
+               jQuery.cookie('x_blox_bottom_ad_closed', 'true', {
+expires: 1 });
+       }
+       if( !jQuery.cookie('x_blox_bottom_ad_closed') ){
+               yld_mgr.place_ad_here("bottom_bar");
+       }
+</script>
+
 
 
     
