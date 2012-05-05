@@ -1,36 +1,42 @@
-> *The following text is extracted and transformed from the thebrowser.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007164155id_/http%3A//thebrowser.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebrowser.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505031617id_/http%3A//thebrowser.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Browser
 
-### FAQs
+(last update: Feb 2012)
 
-**What information do we collect?**
+**Information we gather**
 
-We collect information from you only when you subscribe to our newsletter.
+The following information is gathered from our website visitors and app users:  
+IP address  
+Email address (when registering).  
+As appropriate, you may be asked to enter your e-mail address. You may, however, use our app and site services anonymously (with limited functionality).  
+We do not ask for, use or store your credit card or other payment information; billing is performed via external billing services (such as iTunes) and we do not have access to your payment information during the process. 
 
-**When ordering or registering on our site**
+**How we use the information we gather**
 
-As appropriate, you may be asked to enter your e-mail address. You may, however, visit our site anonymously.
+We use the information to enhance your visitor experience and to provide your subscription service across web, iOS apps and other media.   
+As a subscriber to our services, you may receive related product or service information via email, notifications about technical issues with the service, maintenance periods etc.   
+In addition, if you decide to opt-in to receiving our email newsletter, we will send you periodic emails with information from the site (the email address you provide will only be used to send you information and site updates). More information about our newsletters can be found [here](http://thebrowser.com/newsletters).  
+Please note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-**What do we use your information for?**
+**The people that are given access to this information**
 
-Any of the information we collect from you may be used in one of the following ways: 
+Your personal information is accessible by server administrator, and by our marketing department.
 
-_• To personalise your experience_ (your information helps us to better respond to your individual needs)
+**The security measures we have in place to protect your personal information**
 
-_• To improve our website_ (we continually strive to improve our website offerings based on the information and feedback we receive from you)
+To safeguard your personal information, we use SSL encryption between your computer and our server, and we keep all server software secure by applying all necessary security patches.  
+Whenever you provide sensitive information, we will take all reasonable steps to protect it, such as encrypting it during transmission and processing. We will also take reasonable security measures to protect your personal information in storage.  
+We use proactive system monitoring to detect suspicious activities. 
 
-_• To send periodic emails_ (the email address you provide will only be used  to send you information and site updates)
+**Our use of cookies**
 
-If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc. Please note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
-
-**How do we protect your information?**
-
-We implement a variety of security measures to maintain the safety of your personal information when you access your personal information.
-
-**Do we use cookies?**
-
-We do not use cookies.
+Our website makes use of cookies which are small digital files that are stored in your web browser that enable us to track your return visits to our website.   
+Your browser settings may allow you to block these cookies, but we recommend you have them enabled to help us personalise your experience of our website.  
+Additionally, 3rd party advertisers on our site may use cookies for tracking purposes.  
+Google, as a third party vendor, uses cookies to serve ads.  
+Google's use of the DART cookie enables it to serve ads to visitors based on their visit to sites they visit on the Internet.  
+Website visitors may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 **Do we disclose any information to outside parties?**
 
@@ -38,7 +44,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 **Third party links**
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+As a part of our recommendation service, we include links to third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
 **Childrens Online Privacy Protection Act Compliance**
 
@@ -50,7 +56,7 @@ By using our site, you consent to our privacy policy.
 
 **Changes to our Privacy Policy**
 
-If we decide to change our privacy policy, we will post those changes on this page. 
+If we decide to change our privacy policy, we will post those changes on this page.
 
 **Contacting Us**
 
