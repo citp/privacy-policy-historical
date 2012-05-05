@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobalertsusa.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125125339id_/http%3A//forms.jobalertsusa.com/classic/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobalertsusa.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505121421id_/http%3A//forms.jobalertsusa.com/classic/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - jobalertsusa.com
 
@@ -59,7 +59,7 @@ We employ industry standard security measures designed to safeguard against unau
 
 California Civil Code Section 1798.83 enables California residents who have provided PII to US, and/or to a third party who has then shared such information with US, to request information regarding our disclosure of such PII information to third parties. Within thirty days of receipt of such a request, we will provide a list of the PII disclosed to third parties for the past calendar year, along with the names and addresses of such third parties. This request may not be made more than once per calendar year. Should you wish to exercise your rights under this Section, please use the postal address listed below. We reserve the right not to honor and/or respond to such requests that are not sent to the address below.
 
-GMB555 - jobalertsusa.com  
+GMB Direct - jobalertsusa.com  
 315 Madison Avenue  
 Suite 901  
 New York, NY 10017 
@@ -68,4 +68,4 @@ New York, NY 10017
 
 By using the Website and/or agreeing to receive information via e-mail from us, you agree to this Privacy Policy. We reserve the right, in our sole discretion, to change, modify, add and/or remove portions of this Privacy Policy at any time. All Privacy Policy changes will take effect immediately upon their posting on the Website. Please check this page periodically for any changes. Your continued use of the Website and/or acceptance of our e-mail communications following the posting of changes to this Privacy Policy will constitute your acceptance of any and all changes. 
 
-© 2009-2011 jobalertsusa.com. All rights reserved.
+© 2009-2012 jobalertsusa.com. All rights reserved.
