@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lyricstatus.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213022338id_/http%3A//www.lyricstatus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricstatus.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505150255id_/http%3A//www.lyricstatus.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy policy
 
 LyricStatus.com (the Site) provides a content service to you (the "Service(s)"), subject to the following Privacy Policy, which may be updated from time to time without notice to you. Your use of the Service constitutes acceptance of this Privacy Policy and creates a binding legal agreement, so read them carefully. This Privacy Policy applies only to information that you provide to us through the Site, and when you access, download, purchase or use any information, services, products or content appearing on the Site. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You should consult this Privacy Policy regularly for any changes. Any reference to us, our, we or similar words shall refer to this Site and its affiliates thereto.
 
