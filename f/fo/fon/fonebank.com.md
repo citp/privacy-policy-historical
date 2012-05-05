@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fonebank.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101143212id_/http%3A//www.fonebank.com/privacy.aspx%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fonebank.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505064423id_/http%3A//www.fonebank.com/privacy.aspx%23privacy) for the most accurate reproduction.*
 
 # Sell my mobile phone recycling | Earn Cash upto £430 – Recycle online
 
@@ -57,7 +57,7 @@ All comments, queries and requests relating to our use of your information are w
 
 |  | 
 
-|  | Type in your model for a quote  
+|  | Type model or IMEI for a quote  
 ---|---  
 |   
   
