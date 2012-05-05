@@ -1,41 +1,27 @@
-> *The following text is extracted and transformed from the apics8.org privacy policy that was archived on 2007-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071024195526id_/http%3A//www.apics8.org/Privacy%2520Statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apics8.org privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505160518id_/http%3A//apics8.org/privacy/index.html) for the most accurate reproduction.*
 
-# Region VIII Privacy Statement
+# Privacy Policy
 
-Region VIII (Canada) has created this privacy statement in order to demonstrate our firm commitment to privacy.  Please review our privacy statement regarding the use of any information collected from you on this website. 
+At [apics8](https://web.archive.org/web/20120505160518id_/http%3A//apics8.org/privacy/apics8.org), the privacy of our visitors is of extreme importance to us (See [this article](http://www.wp-insert.smartlogix.co.in/what-is-a-privacy-policy/) to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by [apics8](http://apics8.org/) and how it is used.
 
-We respect and abide by the Personal Information Protection and Electronic Documents Act (PIPED).  Because we value your relationship with us, we have detailed below our privacy objectives for our website:
+**Log Files**  
+Like many other Web sites, [apics8](http://apics8.org/) makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-**_Using Your Personal Information_**
+**Cookies and Web Beacons**  
+[apics8](http://apics8.org/) does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-Region VIII (Canada) does not collect individual (personal), corporate, or student membership information.   APICS – The Association for Operations  Management, located in Alexandria, Virginia, USA, collects membership information and distributes your personal information to your chosen chapter.  Any personal information collected at our website will enable us to customize products and services from APICS and our chapters which may be of interest to you and better serve your needs.
+**DoubleClick DART Cookie**
 
-Region VIII (Canada) may require personal information if:
+  * Google, as a third party vendor, uses cookies to serve ads on [apics8](http://apics8.org/).
+  * Google's use of the DART cookie enables it to serve ads to users based on their visit to [apics8](http://apics8.org/) and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>.
 
-·          You wish to receive our e-newsletters or announcements, or
 
-·          You are a Chapter President listed on our Parent Chapter or Student Chapter pages
 
-Region VIII (Canada) preserves the content of your email, your email address and our response so that we can efficiently respond to questions you may have.  We also do this in an effort to meet legal requirements. 
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on [apics8](http://apics8.org/) send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-We do not use cookies on our website. 
+[backlinksjuice.com](http://apics8.org/) has no access to or control over these cookies that are used by third-party advertisers.
 
-**_Sharing Your Personal Information_**
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. [apics8's](http://apics8.org/) privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-Region VIII (Canada) does not sell others personal information.
-
-Region VIII (Canada) works with chapter officers across Canada, who may be provided with only the information they require to perform their specific function and they may not use the information for other purposes.  Region VIII (Canada) is not responsible for the privacy practices of its chapters as they are independent licensees of the Society.
-
-Region VIII (Canada) reserves the right to co-operate with local, provincial, and national officials in any investigation requiring personal information.
-
-**_External Links_**
-
-This website contains links to other websites.  Region VIII (Canada) is not responsible for the privacy practices or the content of such websites.
-
-**_Changes to Our Policy  _**
-
-Region VIII (Canada) reserves the right to change this Privacy Policy at any time.  We also reserve the right at any time to disclose any information in the individual’s account to satisfy any law, regulation, or government request; if such disclosure is necessary or appropriate to site operation; or to protect the rights or property of Region VIII (Canada) and its users or service providers.  
-_**  
-** _**_ Contacting us Regarding Privacy_**
-
-If you have questions or concerns regarding our policy on our website, please send a detailed email to:  Privacy Officer at [ privacy@apics8.org ](mailto:axel.dietz@apics.ca)
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
