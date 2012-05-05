@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the prairieecothrifter.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205122331id_/http%3A//prairieecothrifter.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prairieecothrifter.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505042256id_/http%3A//prairieecothrifter.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy | Prairie Eco-Thrifter
 
-At **Prairie[Eco](http://prairieecothrifter.com/2011/02/how-to-become-an-earth-friendly-consumer.html "Eco")-Thrifter,** we know that the privacy of your personal information is very important. Here is some information on what types of personal information we collect when you visit and use www.prairieecothrifter.com and how we safeguard your information: 
+At **Prairie Eco-Thrifter,** we know that the privacy of your personal information is very important. Here is some information on what types of personal information we collect when you visit and use www.prairieecothrifter.com and how we safeguard your information: 
 
 We never sell your personal information to third parties. The email address you provide in the comments section will not be displayed publicly. If you choose to [subscribe via email](http://feeds.feedburner.com/PrairieEcothriftercom), you will be sent an email each time a new post is published.  You can unsubscribe at any time by simply clicking on the “unsubscribe” link at the bottom of the email. If you are uncomfortable sharing your email address in order to receive regular post updates, you might want to consider subscribing via [RSS feed](http://feeds.feedburner.com/PrairieEcothriftercom).
 
-#### **Log Files**
+####  **Log Files**
 
 As with most other sites, we collect and use the data contained in log files. The information in the log files include your IP (Internet Protocol) address, your ISP (Internet Service Provider,  _eg_. Rogers Cable or AOL), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site, and which pages you visited here.
 
