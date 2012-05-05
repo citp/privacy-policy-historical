@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dacast.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227155613id_/http%3A//www.dacast.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dacast.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505143000id_/http%3A//www.dacast.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Live video streaming service – DaCast online video platform
 
