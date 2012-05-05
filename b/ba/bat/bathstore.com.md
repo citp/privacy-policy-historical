@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bathstore.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102005730id_/http%3A//www.bathstore.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bathstore.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505022452id_/http%3A//www.bathstore.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Bathstore.com
 
 This Privacy Policy regulates the use by Bathstore ("Bathstore"/"we"/"our"/"us") of the information you provide when using the Bathstore website. It is to be read in conjunction with the terms and conditions of use of the site. 
 
