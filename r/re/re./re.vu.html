@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the re.vu privacy policy that was archived on 2011-10-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111007222804id_/http%3A//re.vu/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the re.vu privacy policy that was archived on 2012-05-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120505045459id_/http%3A//re.vu/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head profile="http://www.w3.org/2005/10/profile">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta content="text/html; charset=UTF-8" http-equiv="content-type">
 <meta name="keywords" content="infographic resume, infographic, resume, visual resume, online resume, free online resume, interactive resume, resume builder, resume maker, resume template, resume service, resume help, resume format, create a resume, free resume, professional resume, data visualization">
 <meta name="description" content="Re.vu is a complete rethinking of what a resume can be. You no longer have to cram your experience and expertise onto a plain white piece of paper. Re.vu gives you interactive tools to visually (and dynamically) represent who you are and what you have to offer.">
-<meta property="og:image" content="http://re.vu/sites/all/shared/images/revu_st.png">
-<link type="text/css" rel="stylesheet" media="all" href="http://cdn.re.vu/sites/default/files/css/css_3fd751b49c701a37874f8f43cf5b2e22.css">
-<script type="text/javascript" async="" src="https://widget.uservoice.com/Cm4MleUOvTsN5MPhRvwtEA.js"></script><script type="text/javascript" defer="" async="" src="piwik.js"></script><script type="text/javascript" src="http://cdn.re.vu/sites/default/files/js/js_6f56d973daf8a1767986355282f3ad1e.js"></script>
+<meta property="og:image" content="http://re.vu/sites/all/shared/images/revu-logo.png">
+<link type="text/css" rel="stylesheet" media="all" href="http://cdn.re.vu/sites/default/files/css/css_e1be60cb3cfeff16f63890b1313c035b.css">
+<script type="text/javascript" async="" src="https://widget.uservoice.com/Cm4MleUOvTsN5MPhRvwtEA.js"></script><script type="text/javascript" defer="" async="" src="/sites/default/files/piwik/piwik.js?9"></script><script type="text/javascript" src="http://cdn.re.vu/sites/default/files/js/js_114009bad49b300ecfaae589622c9054.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 jQuery.extend(Drupal.settings, {"basePath":"\/","lightbox2":{"rtl":0,"file_path":"\/(\\w\\w\/)sites\/default\/files","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":true,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":false,"disable_resize":false,"disable_zoom":false,"force_show_nav":false,"show_caption":true,"loop_items":false,"node_link_text":"View Image Details","node_link_target":false,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\u003e\u003ckbd\u003ex\u003c\/kbd\u003e\u003c\/a\u003e to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":false},"cdn":{"status":"on","origin_pull_url":"http:\/\/cdn.re.vu"}});
@@ -45,6 +45,23 @@ $.extend( TypekitConfig, {
 </script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
+
+	$(function(){
+		if ($.browser.msie && ($.browser.version<8)) {
+			$("#nav-dd>li").each(function(){
+				var ul=$(this).find(">ul");
+				var cssObj={position:"relative", left:4};
+				$(this).hover(
+				function(){ul.css(cssObj).show()},
+				function(){ul.hide()}
+				);
+			});		
+		}
+	});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
 $(function() {
   if(-1 != navigator.userAgent.indexOf("MSIE")) {
     var r=Math.floor(Math.random()*1000000000000);
@@ -66,15 +83,15 @@ $(function() {
  <link rel="stylesheet" type="text/css" href="/sites/all/themes/revu/style-ie8.css" />
 <![endif]--><title>Privacy Policy | re.vu</title>
 </head>
-<body class="not-front not-logged-in page-node node-type-page no-sidebars">
+<body class="not-front not-logged-in page-node node-type-page one-sidebar sidebar-left">
 
 	<div id="header-background"> 
 		<div id="header-container" class="clearfix">
 			
 			<div id="menu" class="tk-proxima-nova"> 
-				<ul class="nav accountlinks">
-					<li><a id="getown" href="/" target="_top">Get your own re.vu page!</a></li>
-					<li><a href="/members" target="_top">Sign In</a></li>
+				<ul id="nav-dd" class="accountlinks">
+					<li class="get-your-own"><a id="getown" href="/">Get your own re.vu page!</a></li>
+					<li><a href="/members" class="sign-in">Sign In</a></li>
 						
 				</ul>		
 				<a id="header_logo" href="/"></a>
@@ -120,7 +137,7 @@ $(function() {
 </script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-var _paq = _paq || [];(function(){var u=(("https:" == document.location.protocol) ? "" : "http://re.vu/piwik/");_paq.push(["setSiteId", "2"]);_paq.push(["setTrackerUrl", u+"piwik.php"]);_paq.push(["setDoNotTrack", 1]);_paq.push(["trackPageView"]);_paq.push(["enableLinkTracking"]);var d=document,g=d.createElement("script"),s=d.getElementsByTagName("script")[0];g.type="text/javascript";g.defer=true;g.async=true;g.src=u+"piwik.js";s.parentNode.insertBefore(g,s);})();
+var _paq = _paq || [];(function(){var u=(("https:" == document.location.protocol) ? "" : "http://piwik.re.vu/");_paq.push(["setSiteId", "2"]);_paq.push(["setTrackerUrl", u+"piwik.php"]);_paq.push(["setDoNotTrack", 1]);_paq.push(["trackPageView"]);_paq.push(["enableLinkTracking"]);var d=document,g=d.createElement("script"),s=d.getElementsByTagName("script")[0];g.type="text/javascript";g.defer=true;g.async=true;g.src="/sites/default/files/piwik/piwik.js?9";s.parentNode.insertBefore(g,s);})();
 //--><!]]>
 </script>
 
