@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the witn.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011030902id_/http%3A//www.witn.com/unclassified/34218884.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the witn.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505022603id_/http%3A//www.witn.com/unclassified/34218884.html) for the most accurate reproduction.*
 
 # GRAY TELEVISION, INC. PRIVACY POLICY AND YOUR PRIVACY RIGHTS
+
+## GRAY TELEVISION, INC. PRIVACY POLICY AND YOUR PRIVACY RIGHTS
 
 This Privacy Policy was last updated on April 8, 2009 and is effective immediately. 
 
