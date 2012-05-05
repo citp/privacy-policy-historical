@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indonetwork.net privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102001749id_/http%3A//indonetwork.net/help-0317.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indonetwork.net privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505050049id_/http%3A//indonetwork.net/help-0317.html) for the most accurate reproduction.*
 
 # Help Center - Indonetwork.net
 
@@ -40,11 +40,6 @@ You always have a choice about receiving mailings, surveys or information about 
 
 ↑ Back to top ↑
 
- **Corrections of inaccuracies**  
-We are committed to providing reasonable and practical access to you to identify and to correct any inaccuracies in or to update the information you may provide. Our users who have provided information on our web site can use the relevant automated updating system (where applicable) to make corrections or updates or contact our Customer Services Department at [support@indonetwork.net](mailto:support@indonetwork.net).
-
-↑ Back to top ↑
-
  **WHAT IS A COOKIE?**  
 A "cookie" is a small piece of information that a website can store in a designated file on your computer. It can be used, among other things, to identify you when you log in to a website. When you visit a site, that site can access only the information which it stored in your cookie -- not information put in your cookie by other sites. Indonetwork is one of many sites that use cookies. 
 
@@ -63,6 +58,11 @@ If you have setup your browser to warn you every time a cookie is set, you can s
 **What if I do not accept your cookies?**   
 Some of our services or features require cookies. If you do not accept cookies on our website, you may not be able to use, access or participate in such services or features fully or at all.  
 
+
+↑ Back to top ↑
+
+ **Corrections of inaccuracies**  
+We are committed to providing reasonable and practical access to you to identify and to correct any inaccuracies in or to update the information you may provide. Our users who have provided information on our web site can use the relevant automated updating system (where applicable) to make corrections or updates or contact our Customer Services Department at [support@indonetwork.net](mailto:support@indonetwork.net).
 
 ↑ Back to top ↑
 
