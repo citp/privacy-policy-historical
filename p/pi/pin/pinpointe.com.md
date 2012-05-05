@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pinpointe.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105072744id_/http%3A//www.pinpointe.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinpointe.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505122133id_/http%3A//www.pinpointe.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Pinpointe Privacy Policy. We respect your privacy.
+# Pinpointe's Email Marketing Privacy Policy. We Respect Your Privacy
 
 We respect and are committed to protecting your privacy. This privacy policy lets you know how your personal information is collected and used, both by Pinpointe and our clients who use our hosted application. We have created this privacy policy so that you can understand the care with which we intend to treat your personal information. If you have any questions about our privacy policy, please contact us.
 
@@ -22,7 +22,7 @@ We do not hold your lists hostage. You may export (download) your lists from Pin
 
 ### Transactional and Mandatory Emails That We’ll Be Sending You
 
-These are the types of emails you can expect to receive from Pinpointe if you sign up for our services.
+These are the types of emails you can expect to receive from Pinpointe if you sign up for our email marketing services.
 
 Email Receipts – When you use your credit card to place an order with Pinpointe, you will naturally be receiving an email receipt for your purchase.
 
@@ -36,9 +36,9 @@ Automated responses – If you submit a help ticket to Pinpointe, our system mig
 
 We do not send promotional emails unless you have requested them.
 
-From time to time, we send a “Pinpointe Tips ‘N Tricks Newsletter” email newsletter. Pinpointe services include a subscription to Pinpointe’s bi-monthly Customer Tips ‘n Tricks newsletter for B2B marketers. You may of course opt-out at any time by clicking the “unsubscribe link” that we include in every newsletter.
+From time to time, we send a “Pinpointe Tips ‘N Tricks Newsletter” email newsletter. Pinpointe email marketing services include a subscription to Pinpointe’s bi-monthly Customer Tips ‘n Tricks newsletter for B2B marketers. You may of course opt-out at any time by clicking the “unsubscribe link” that we include in every newsletter.
 
-### Personally Identifiable Information, and Our Use of Cookies
+### Personally Identifiable Information and Our Use of Cookies
 
 We do not share your personally identifiable information with any 3rd parties.
 
@@ -56,19 +56,19 @@ We reserve the right to disclose your personally identifiable information as req
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently.
 
-We use other third parties to handle secure credit card transaction processing from our site. When you make purchases on Pinpointe, we send your billing information as necessary for the third party to process your order.  Pinpointe does not store or retain your personal credit card information unless you request that we do in order to process your order(s).
+We use other third parties to handle secure credit card transaction processing from our site. When you make purchases on Pinpointe, we send your billing information as necessary for the third party to process your order. Pinpointe does not store or retain your personal credit card information unless you request that we do in order to process your order(s).
 
 ### Safeguarding Your Information
 
-To protect your information, we use a credit processing vendor – we do not retain your credit card information.  Our vendor uses the latest 128-bit Secure Socket Layer (SSL) technology for secure transactions. In addition, our vendor is certified as compliant with card association security initiatives, such as the Visa Cardholder Information Security Program (CISP), MasterCard® (SDP), and Discover Information Security and Compliance (DISC).
+To protect your information, we use a credit processing vendor – we do not retain your credit card information. Our vendor uses the latest 128-bit Secure Socket Layer (SSL) technology for secure transactions. In addition, our vendor is certified as compliant with card association security initiatives, such as the Visa Cardholder Information Security Program (CISP), MasterCard® (SDP), and Discover Information Security and Compliance (DISC).
 
-Pinpointe accounts require a username (in the form of an email address, such as “user@company.com”) and password to log in. When you’re finished using Pinpointe, please click the “log out” link in the top right corner of your screen, to prevent someone from using your computer to access your account
+Pinpointe accounts require a username (in the form of an email address, such as “user@company.com”) and password to log in. When you’re finished using Pinpointe, please click the “log out” link in the top right corner of your screen, to prevent someone from using your computer to access your account.
 
 ### Breach of Security Policy
 
 Pinpointe will notify you if a breach in security results in an unauthorized intrusion into our system which directly or materially affects you or your subscribers, and will subsequently report the corrective action taken in response to the intrusion.
 
-It should be noted however, that when you send a campaign, it bounces around the Internet from server to server, and can theoretically be read by prying eyes and nosy techies and government officials. We have no control over the security and privacy of your emails and subscribers after you hit the “Send” button from Pinpointe. So if you’re sending extremely private information to your recipients, and require absolute secrecy, email is not the way to go.
+It should be noted however, that when you send an email marketing campaign, it bounces around the Internet from server to server, and can theoretically be read by prying eyes and nosy techies and government officials. We have no control over the security and privacy of your emails and subscribers after you hit the “Send” button from Pinpointe. So if you’re sending extremely private information to your recipients, and require absolute secrecy, email is not the way to go.
 
 ### Children under 13
 
