@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the getcu3er.com privacy policy that was archived on 2011-10-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111006052257id_/http%3A//getcu3er.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the getcu3er.com privacy policy that was archived on 2012-05-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120505033510id_/http%3A//getcu3er.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -18,7 +18,7 @@
 
 
 
-	<script type="text/javascript" src="/js/jquery-1.4.2.min.js"></script>
+	<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=142767120187"></script><script type="text/javascript" src="/js/jquery-1.4.2.min.js"></script>
 	<script type="text/javascript" src="/js/jquery.dimensions.js"></script>
 	<script type="text/javascript" src="/js/jquery.accordion.js"></script>
 	<script type="text/javascript" src="/js/prettyPhoto/js/jquery.prettyPhoto.js"></script>
@@ -44,7 +44,7 @@
 
         $(document).ready(function() {
           $.ajax({
-            url: 'http://getcu3er.com/app/views/notifications/javascript.html',
+            url: 'http://getcu3er.com/app/views/notifications/javascript3d.html',
             success: function(data) {
               $(data).insertBefore('.wrapper');
               $("#notification").css("marginTop", - $("#notification").height()+"px");
@@ -56,7 +56,7 @@
         function closeNotification() {
            $("#notification").animate({marginTop:-$("#notification").height()+"px"}, function() {
               $("#notification").remove();
-              createCookie("notification_javascript", 1, 30);
+              createCookie("notification_javascript_3d", 1, 30);
            });
         }
       </script>
@@ -117,9 +117,31 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 
 <div class="wrapper">
 
-    <div id="header" class="outer">
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=142767120187";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 
-	<div class="header-top">
+<div id="header" class="outer">
+
+	<div class="header-top" style="position:relative; ">
+			<div style="position:absolute; top:40px; left:160px; z-index:1000">
+				<a href="http://twitter.com/share?text=Unique%20%26%20Awesome%203D%20Image%20Slider.%20Nice%20templates%20and%20works%20on%20all%20devices%20-%20http%3A%2F%2Fgetcu3er.com%20(via%20%40CU3ER)" target="_blank">					
+						<img src="/img/javascript/tweet.gif" alt="Tweet">
+					</a>
+				<script type="text/javascript">
+					function openFBShare() {
+						window.open("http:\/\/www.facebook.com\/sharer.php?u=http%3A\/\/getcu3er.com", "Facebook Share", "height=440,width=620,scrollbars=true"); 
+						return;
+					}
+				</script>&nbsp;
+				<div class="fb-like" style="width:77px; top:-2px;" data-href="http://facebook.com/CU3ER" data-send="false" data-layout="button_count" data-width="40" data-show-faces="true"></div>&nbsp;
+				<g:plusone size="medium" href="http://getcu3er.com"></g:plusone>
+			</div>
 
                      
             <a href="/account/home" id="login-btn">Log-In</a>                    
@@ -133,16 +155,18 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
                 <a href="/">
                     <img src="/img/logo/logo_cu3er_site_small.png" width="81" height="30" alt="">
               	</a>
+				
 
         </div> 
             <div id="mainnavi" class="grid_10 last">
               <ul>
                    
                     <li><a id="navi-features" href="/features">Features</a></li>
-                    <li><a id="navi-about" href="/about">About</a></li>
-                    <li><a id="navi-pricing" href="/pricing">Pricing</a></li>
+                     <li><a id="navi-pricing" href="/pricing">Pricing</a></li>
                     <li><a id="navi-suppoprt" href="/support">Support</a></li>
-					<li><a id="navi-affiliate" href="/affiliate">Affiliate</a></li>
+                   
+					<!-- <li><a id="navi-about"		 href="/about">About</a></li>-->
+					  <li><a id="navi-affiliate" href="/affiliate">Affiliate</a></li>
                     <li><a id="navi-contant" href="/contact">Contact Us</a></li>
 					
 										   <li><a href="/users/create/?iframe=true&amp;width=540&amp;height=238" class="signUpNew" rel="prettyPhoto">Sign up free</a></li>
@@ -171,6 +195,8 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
     }
 
   </script>
+  <!-- Place this tag in your head or just before your close body tag -->
+			<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 
     <div id="content" class="outer">
         <div class="inner">
