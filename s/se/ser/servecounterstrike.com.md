@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the servecounterstrike.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102004019id_/http%3A//www.no-ip.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servecounterstrike.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505092718id_/http%3A//www.no-ip.com/legal/privacy.php) for the most accurate reproduction.*
 
 # No-IP™ - Privacy Policy
 
@@ -100,7 +100,7 @@ c/o No-IP.com
 Reno, NV 89503  
 info @ no-ip.com  
 775-853-1883 phone   
-775-853-1883 fax   
+775-853-1886 fax   
 
 
 _
