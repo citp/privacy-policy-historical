@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the radioplayer.co.uk privacy policy that was archived on 2011-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111124031456id_/http%3A//www.radioplayer.co.uk/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the radioplayer.co.uk privacy policy that was archived on 2012-05-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120505134655id_/http%3A//www.radioplayer.co.uk/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en-GB"><head>
 <meta charset="UTF-8">
 <title>Privacy Policy | Radioplayer</title>
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="stylesheet" type="text/css" media="all" href="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/style.css">
+<link rel="stylesheet" type="text/css" media="all" href="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/search.css">
 <link href="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/images/favicon.ico" rel="SHORTCUT ICON">
 <!--[if IE 7]>
 <link rel="stylesheet" href="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/style_ie7.css" type="text/css" media="all" />
@@ -29,45 +30,56 @@
 <meta name="generator" content="WordPress 3.0.4">
 <link rel="canonical" href="http://www.radioplayer.co.uk/privacy/">
 <script src="http://www.radioplayer.co.uk/wp-content/plugins/cms/js/faq-frontend.js" type="text/javascript"></script>
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1/jquery-ui.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2/swfobject.js"></script>
+
 <script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/js/jquery.tooltip.min.js"></script>
 <script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/js/jquery.dimensions.min.js"></script>
 <script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/js/jquery.liscroll.min.js"></script>
 <script type="text/javascript">
-	var basePath = "http://www.radioplayer.co.uk/wp-content/themes/radioplayer";
+
+var basePath = "http://www.radioplayer.co.uk/wp-content/themes/radioplayer";
+/**
+ * Console Settings
+ */
+ 
+var currentStationID = "1";
+var currentStationName = "Radioplayer Web Site";
+var currentStationLogo = "img/station_fallback.png";
+var autoPopulatePlaying = true;
+var autoHandleOD = true;
+
+
+/**
+ * Audio Settings
+ */
+ 
+// -- audioType can be one of: playlist, http, httpmp4m4a, rtmp
+var audioType = "playlist";
+// -- audioUrl does not need to be set for rtmp
+var audioUrl = "";		
+// -- audioServer and audioEndpoint only need to be set for rtmp
+var audioServer = "";
+var audioEndpoint = "";
+// -- bufferTime may need to be adjusted in rare circumstances to facilitate faster loading
+var bufferTime = 5;
+// -- Set audioLive to true for live streaming, or false for on demand
+var audioLive = true;
+
 </script>
 
-<!-- RP core -->
-<script src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/script/glow/1.7.3/core/core.js" type="text/javascript"></script>
-<script src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/script/glow/1.7.3/widgets/widgets.js" type="text/javascript"></script>
-<link href="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/script/glow/1.7.3/widgets/widgets.css" type="text/css" rel="stylesheet">
+<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/js/browse.js"></script>
 
-<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/script/radioplayer/begin.js"></script>
-<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/script/radioplayer/utils/utils.js"></script>
-<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/script/radioplayer/utils/events.js"></script>
-<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/script/radioplayer/controllers/crossdomain.js"></script>
-<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/script/radioplayer/controllers/quickfind.js"></script>
-<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/script/radioplayer/views/quickfind.js"></script>
-<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/script/radioplayer/controllers/mystations.js"></script>
-<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/script/radioplayer/views/mystations_overlay.js"></script>
-<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/script/radioplayer/controllers/radioplayeroverlaymanager.js"></script>
-<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/script/radioplayer/models/radioplayeroverlay.js"></script>
-<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/script/radioplayer/models/radioplayerpresets.js"></script>
-<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/script/radioplayer/models/radioplayeroverlaycontainer.js"></script>
-<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/script/radioplayer/models/stationiconfactory.js"></script>
-<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/script/radioplayer/models/stationrow.js"></script>
-<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/script/radioplayer/models/radioplayerquickfind.js"></script>
-<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/script/radioplayer/models/modal.js"></script>
-<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/script/radioplayer/views/tipbox.js"></script>
-<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/script/radioplayer/services/crossdomain.js"></script>
-<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/script/radioplayer/services/datastore.js"></script>
-<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/script/radioplayer/services/flashEmp.js"></script>
-<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/script/radioplayer/controllers/currentlyOnAir.js"></script>
+<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/js/init.js"></script>
+<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/js/services.js"></script>
+<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/js/emp.js"></script>
+<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/js/controls.js"></script>
+<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/js/overlay.js"></script>
+<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/js/playing.js"></script>
+<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/js/mystations.js"></script>
+<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/js/search.js"></script>
 
-<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/script/radioplayer/bind.js"></script>
-
-<!-- UKRP site custom -->
-<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/js/main.js"></script>
 <script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/js/analytics.js"></script>
 <!--[if IE 6]>
 <script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/script/radioplayer/utils/ie6script.js"></script>
@@ -224,7 +236,7 @@ Information about our users is an important part of our business, and we are not
 </ul></div>		</div><!-- #footer-access -->
 		
 		<div id="site-info">
-			<p>All contents © copyright 2011</p>
+			<p>All contents © copyright 2012</p>
 			<a href="http://www.radioplayer.co.uk/" title="Radioplayer" class="small-logo" rel="home">
 				<span>Radioplayer</span>
 			</a>
@@ -234,31 +246,12 @@ Information about our users is an important part of our business, and we are not
 
 </div><!-- #wrapper -->
 
-<script type="text/javascript"> 
-	/* <![CDATA[ */ 
-	(function() {
-		//Each Radioplayer partner to set their unique station ID here
-		var currentStationID = '1';
-		radioplayer.currentStationID = currentStationID;
-		
-		radioplayer.emp.isLaunched = true;
-		radioplayer.searchServerBaseUrl = 'http://search.radioplayer.co.uk/qp/';
-		radioplayer.stationListFileDomainName = 'http://static.radioplayer.co.uk/';
-		
-		var mystationsController = new radioplayer.controllers.MyStations(currentStationID);
-		
-		var crossdomain = new radioplayer.controllers.CrossDomain(mystationsController);
-		new radioplayer.controllers.Quickfind(mystationsController);
-		var overlayContainer = new radioplayer.models.RadioplayerOverlayContainer('#overlay-container'), 
-			overlays = {}, 
-			$overlays = glow.dom.get("#overlay-container > div"); 
-		$overlays.each(function() { 
-			overlays[this.id] = new radioplayer.models.RadioplayerOverlay(this); 
-		}); 
-		var radioplayerOverlayManager = new radioplayer.controllers.RadioplayerOverlayManager(overlayContainer, overlays, mystationsController, crossdomain);
-		//new radioplayer.controllers.CurrentlyOnAir();
-	})();
-	/* ]]> */ 
+
+
+<script type="text/javascript">
+	$(document).ready(function(){
+		radioplayerInit();
+	});
 </script>
 
 
