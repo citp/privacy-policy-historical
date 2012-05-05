@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the looknbook.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124013309id_/http%3A//www.looknbook.com/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the looknbook.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505101339id_/http%3A//www.looknbook.com/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # www.looknbook.com
 
