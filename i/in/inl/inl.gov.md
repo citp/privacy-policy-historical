@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inl.gov privacy policy that was archived on 2011-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111018081956id_/https%3A//inlportal.inl.gov/portal/server.pt%3Fopen%3D514%26objID%3D3313%26mode%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inl.gov privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505055734id_/https%3A//inlportal.inl.gov/portal/server.pt%3Fopen%3D514%26objID%3D3313%26mode%3D2) for the most accurate reproduction.*
 
 # Home
 
