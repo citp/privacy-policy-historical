@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smosh.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201145529id_/http%3A//www.smosh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smosh.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505042839id_/http%3A//www.smosh.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Smosh
+# Privacy Policy | SMOSH
 
 Thank you for visiting www.smosh.com ("the Site")! The Site is strongly committed to protecting your privacy. The purpose of this privacy policy is to inform users of the Site as to what information we collect and how and why we use such information. The Site is a website published and maintained by Alloy Digital, LLC.  
 Disclosure Regarding Collection and Use of Personal Information.  
