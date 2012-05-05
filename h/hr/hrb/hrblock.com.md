@@ -1,99 +1,105 @@
-> *The following text is extracted and transformed from the hrblock.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122170146id_/http%3A//www.hrblock.com/bank/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrblock.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505142708id_/http%3A//www.hrblock.com/universal/web_privacy_policy.html) for the most accurate reproduction.*
 
-# Bank - Privacy Statement - H&R Block - H&R Block®
+# H&R Block Privacy Policy - H&R Block®
 
-**FACTS:** | WHAT DOES **H &R BLOCK BANK**  
-DO WITH YOUR PERSONAL INFORMATION? 
+H&R Block offers a wide range of tax and financial services, including tax preparation, tax planning, banking, and business services through various affiliates and franchisees. Because we offer a variety of services both online (via the Internet) and throughout H&R Block's nationwide network of offices, H&R Block's privacy practices will vary depending on how you interact with H&R Block. The following guidelines set forth general privacy principles that apply to information collected on the www.hrblock.com web site, independent of any particular business relationship you enter into with H&R Block. If you enter into a business relationship with H&R Block as our customer (such as when you are utilizing our tax preparation or other software or online tax preparation tools), we will make you aware of the privacy practices that apply to that particular business or relationship you enter into with H&R Block. 
 
-* * *  
-  
----|---  
-**Why?:** | Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.  
-**What?:** | The types of personal information we collect and share depend on the product or service you have with us. This information can include: 
+[](https://privacy.truste.com/privacy-seal/HRB-Tax-Group,-Inc--/validation?rid=cdc0844d-4f96-4586-a730-5673e62d1e3c "TRUSTe online privacy certification")
 
-  * Social Security number and income
-  * assets and account balances
-  * payment history and credit history.
+[](https://privacy.truste.com/privacy-seal/HRB-Tax-Group,-Inc--/validation?rid=8002c2f3-1d34-47c4-93fc-077eb2f7b716&lang=es "TRUSTe online privacy certification")
 
-  
-**How?:** | All financial companies need to share customers' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers' personal information: the reasons **H &R Block Bank** chooses to share; and whether you can limit this sharing.  
-  
-**Reasons we can share your personal information** | **Does H &R Block Bank Share?** | **Can you limit sharing?**  
----|---|---  
-**For our everyday business purposes -**  
-such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus | Yes | No  
-**For our marketing purposes -**  
-to offer our products and services to you | Yes | Yes  
-**For joint marketing with other financial companies** | No | We don­t share  
-**For our affiliates' everyday business purposes -**  
-Information about your transactions and experiences | Yes | No  
-**For our affiliates' everyday business purposes -**  
-Information about your creditworthiness | Yes | Yes  
-**For our affiliates to market to you** | Yes | Yes  
-**For non-affiliates to market to you** | No | We don­t share  
-  
-**To limit our sharing:** | 
+These practices do not apply to our physical offices you may visit for services, and these practices do not apply to specific relationships you may establish with H&R Block Bank, H&R Block Digital LLC, or other affiliates of H&R Block. Those H&R Block affiliates will provide you with their privacy notices when you enter into a business relationship with them. If you are a user of H&R Block's software, mobile or online tax preparation services, the ["Privacy Notice for H&R Block At Home™ Tax Services "](https://web.archive.org/universal/privacy_policy.html) will apply to information collected by H&R Block. 
 
-  * Call 800-472-5625 - our menu will prompt you through your choices(s) **or**
-  * View us Online: [www.hrbbank.com](http://www.hrbbank.com/)
-  
-**Please Note:**  
-If you are a new customer, we can begin sharing your information 30 days from the date we sent this notice. When you are no longer our customer, we continue to share your information as described in this notice.  
-However, you can contact us at anytime to limit our sharing. 
-  
----|---  
-**Questions?:** | 
+**Information We Collect**
 
-  * Call 800-472-5625 or go to [www.hrbbank.com](http://www.hrbbank.com/)
+When you visit www.hrblock.com, we may collect information about you from the following categories and sources: 
 
-  
-  
-**Who we are**  
----  
-Who is providing this notice? | H&R Block Bank, a Federal Savings Bank  
-  
-**What we do**  
----  
-How does H&R Block Bank protect my personal information? | To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings. **Additionally, we restrict associate access to your personal information**  
-How does H&R Block Bank collect my personal information? | We collect your personal information, for example, when you 
+  * Information we receive when you request services, or information from us or companies with whom we have business relationships, enter contests or sweepstakes, or complete surveys or polls, such as your name, address, e-mail address and payment or billing information. 
+  * Information to prepare your tax return or for other financial products and services. The collection of this information is governed by the specific privacy policy for the H&R Block business providing these services to you. 
+  * Information you provide when you apply for employment with H&R Block or any of its affiliates. 
+  * Information about your location so that we may provide you with H&R Block offices in the area in which you are searching and to enhance the services we are providing you. You may at any time revoke our collection of this information by turning this off at the device level. 
+  * Information about your mobile device such as the unique identifier, app version, and operating system version. 
 
-  * open an account or use your debit card
-  * pay your bills or apply for a loan or line of credit
-  * make deposits or withdrawals from your account
+When you use calculators and other tools on our Sites that do not require registration, H&R Block may collect non-identifiable data from such tools, such as the number of people that use a certain tool. H&R Block may also set cookies or clear gifs based upon your use of tools and calculators to help us customize offers and tools to your particular interests. H&R Block will not record or track any data you enter into standalone tools and calculators in any way that identifies you personally, unless we specifically inform you that we are doing so at the time you provide such data. 
 
-We also collect your personal information for others, such as credit bureaus, affiliates, or other companies.   
-Why can't I limit ALL sharing? | Federal law gives you the right to limit only 
+When you use our office locator service, we may collect data such as address or zip code information you provide so that we can better assess the level of interest in our services in a particular area, and the effectiveness of the locator tool at helping clients actually use our services. 
 
-  * sharing for affiliates' everyday business purposes â€“ information about your creditworthiness
-  * affiliates from using your information to market to you
-  * sharing for non-affiliates to market to you
-
-State laws and individual companies may give you additional rights to limit sharing. See below for more on your rights under state law.   
-What happens when I limit sharing for an account I hold jointly with someone else? | Your choices will apply to everyone on your account.  
-  
-**Definitions**  
----  
-Affiliates | Companies related by common ownership or control 
-
-  * Our affiliates include companies with a common corporate identity or name; financial companies such as H&R Block, Inc.; and nonfinancial companies such as HRB Digital, LLC.
-
-  
-Nonaffiliates | Companies non related by common ownership or control. They can be financial and nonfinancial companies. 
-
-  * H&R Block Bank does not share with non-affiliates so they can market to you.
-
-  
-Joint marketing | A formal agreement between nonaffiliated financial companies that together market financial products or services to you. 
-
-  * H&R Block Bank doesn­t jointly market.
-
-  
-  
-**Other important information**  
----  
-You may have privacy rights under various state laws including Vermont, California, and Nevada. H&R Block bank will comply with these laws to the extent they apply. We may telephone existing customers with offers for additional financial products. You have the right to opt-out of this contact by calling 800-472-5625 to add your name to our do-not-call/contact list. Nevada residents may also contact the Nevada Attorney General for opt out information by phone (775-684-1100); email ([bcpinfo@ag.state.nv.us](mailto:bcpinfo@ag.state.nv.us)); or mail (100 N Carson St., Carson City, NV 89701). We may share your personal information with offshore service providers, for the limited purpose of providing a customer service call center for certain of the bank's products and services.  
-  
+When you use the My H&R Block Account℠ service to store, access, and manage your tax return and related information we will collect and store personally identifiable information about you as necessary to set up your account, authenticate your identity, and provide you tax related services and information.. 
 
 
-Emerald Card  
-Online Banking
+
+
+**Web and wireless technologies**
+
+We may collect information through the following Web technologies: We utilize a software technology called "cookies". Cookies allow us to customize our Sites for you by placing small files on your computer or mobile device as you visit various components of our Sites. Through the use of cookies, we can display only those items that may be of interest to you on a particular Site, or make it easier for you to access your account information. In most cases, however, Information we collect through Internet cookies does not identify you personally. We also employ a software technology called clear gifs (also known as web beacons), that help us better manage content on our Sites by allowing us to understand usage patterns, fix problems, and improve the products and services offered to you on the Sites. These activities may be performed by H&R Block or a service provider acting on behalf of H&R Block. 
+
+We use local shared objects, also known as Flash cookies, to better organize and present Site content that may be relevant to you based on previous visits to our Site. Flash cookies are not used for any online behavioral advertising purpose. 
+
+Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies [ click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118). 
+
+Like most Sites, H&R Block uses log files. Information collected in log files may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. We utilize this information to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. This information is not personally identifiable. When you use certain online tax services, IP addresses are tied to personally identifiable information to enable users to file or transmit tax returns to the Internal Revenue Service. For more information on these technologies - specific to your use of this Site - please click [ Privacy Technology Definitions](http://www.hrblock.com/universal/privacy_technology_definitions.html) for a discussion of these terms. 
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to our Sites and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To opt-out of this type of advertising, please complete both forms at [http://ad.adlegend.com/TE_optout.html ](http://ad.adlegend.com/TE_optout.html) and <http://www.networkadvertising.org/managing/opt_out.asp>. We may engage different providers to provide similar services from time to time. 
+
+**How We May Disclose Your Information**
+
+Tax return information that H&R Block collects from you is controlled by Section 7216 of the Internal Revenue Code, the Gramm Leach Bliley Act of 1999, certain other laws, and H&R Block policies. Any information that is collected from you as part of your customer relationship(s) with H&R Block, either online or through a retail office will be governed by the privacy notice that will be provided to you when you become a customer of the specific H&R Block business. For example, H&R Block's use and disclosure of tax return information we collect when you use our online and software tax preparation tools is addressed in our ["Privacy Notice for H&R Block At Home™ Web-based Tax Services and Software"](https://web.archive.org/universal/privacy_policy.html). 
+
+For information collected on www.hrblock.com (as described above), H&R Block may use and disclose such information to the following categories of persons: 
+
+  * **Uses and Disclosures by H &R Block.** Where permitted by law, H&R Block may use the information collected on this website to make you aware of products and services offered by H&R Block and its affiliated companies. 
+  * **Third Parties.** We do not share your personal information with non-affiliated third parties for marketing purposes except as permitted by applicable law or with your consent. We do not sell or rent your personal information to third party direct marketers. 
+  * **Affiliates.** H&R Block may provide information it collects to its affiliates as permitted by law. For example, we disclose information to our affiliates in order to respond to your requests for information or services, or to help limit your receipt of marketing materials you have requested not to receive. 
+  * **Service Providers.** Where permitted by applicable law, we may disclose your personal information to service providers who perform business functions on our behalf. We require H&R Block service providers to have written contracts that specify appropriate use of your personal information, require them to safeguard your personal information, and prohibit them from making unauthorized or unlawful use of your personal information. 
+  * **Joint Marketing Arrangements.** Where permitted by law, H&R Block may provide information it collects to joint marketers with whom H&R Block has a marketing arrangement. For example, H&R Block may enter into agreements with airlines or credit card companies to provide you with "miles" or "points" for visiting the H&R Block Web site or purchasing certain products or services from H&R Block. In such case, H&R Block would provide identifying information about you to the company in order to credit your account with such "miles" or "points". We require all joint marketers to have written contracts with us that specify appropriate use of your personal information, require them to safeguard your personal information, and prohibit them from making unauthorized or unlawful use of your personal information. If a state law (or other law) requires us to give you the right to opt-out prior to any disclosure of your personal information for joint marketing, we will not disclose your personal information for such purposes without providing such opt-out or obtaining your consent to such disclosure. 
+  * **Franchisees.** If H&R Block sells or transfers any of its business or assets, certain information about our clients may be a part of that sale or transfer. In the event of such a sale or transfer, H&R Block will notify you. The notification procedure will be the same as the procedure we use to notify you of a change in our privacy statement as described below. 
+  * **Persons Who Acquire Our Assets or Business.** If H&R Block sells or transfers any of its business or assets, certain information about our clients may be a part of that sale or transfer. In the event of such a sale or transfer, H&R Block will notify you. The notification procedure will be the same as the procedure we use to notify you of a change in our privacy statement as described below. 
+  * **Persons Who Request Information for Legal Purposes.** We may disclose your information to affiliates or non-affiliated third parties when we have a good faith belief that such disclosure is required by law. This may occur in connection with a court order, legal process, or other judicial, administrative or investigative proceeding that produces a request for information from H&R Block. 
+  * **Facebook Connect.** You may be able to log in to certain portions of our Site using sign-in services such as Facebook Connect. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network. 
+  * **Aggregate Data.** We may disclose aggregate information compiled using your personal information that does not identify you individually or personally. This may include, for example, the total number of visitors to our Sites from a particular state, or the average age of a user of our Sites. 
+
+**Data Retention** We will retain your information for as long as your account is active, as needed to provide you services and will use your information as necessary to comply with our policies, legal obligations, resolve disputes, and enforce our agreements. 
+
+
+
+
+**Links to Other Web sites and Offers for Third Party Products**
+
+H&R Block's Web site may contain links to third party Web sites or offers for services from third parties. For any such third party products or services, you should carefully read the privacy policies of the third parties providing such products or services and any terms and conditions applicable to such products or services. 
+
+H&R Block may also have business relationships with third parties that provide products or services on the H&R Block site. These companies are clearly indicated on our Web sites. This privacy policy does not apply to products or services offered by a third party. When you request products or services from such companies, you give H&R Block permission to provide these third parties with personal information about you necessary to fulfill or process your request. 
+
+**Security of your Information**
+
+The security of your personal information is important to us. If we collect sensitive information (such as your social security number or geo-location), we will encrypt the transmission of that information using secure socket layer technology (SSL).   
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us by[ clicking here.](http://www.hrblock.com/universal/privacy_contact.html)
+
+**Children Under Age 13**
+
+Because of the financial nature of the services we provide, we do not market our Web site to children under the age of 13, nor do we knowingly collect information from children under the age of 13. 
+
+**Changes to Our Privacy Statement**
+
+If we make a material change to the "H&R Block Online Privacy Practices and Principles", including a material change in the way we use any personal information collected on www.hrblock.com, we will notify you by using one of the following methods at least thirty (30) days prior to the effective date of such change: (1) we will post a notice on our Web site describing the change; or (2) we will send you electronic mail notifying you of the change. 
+
+**Updating your Information:**
+
+Some of the information we collect as described in this privacy notice either does not identify you personally or is not stored in an online accessible format. If you are a user of **My H &R Block Account℠** service you may update your log in and password information by logging into your account. For all other inquiries related to the correction, updating of, or deactivation of your information, please contact us via one of the methods listed below. 
+
+**Controlling the Use of your Information**
+
+Where permitted by law, H&R Block may use information you provide (subject to your consent, where required) to communicate with you about products and services available through H&R Block or third parties. If at any time you wish to limit your receipt of such communications you may [click here](http://www.hrblock.com/universal/privacy_contact.html). At your request and subject to the limitations below, we will make reasonable efforts to limit all such marketing communications to you. We also provide you the ability to stop receiving marketing emails by following the unsubscribe instructions included in each marketing communication. Other affiliates of H&R Block may also have their own procedures for limiting communications from them. You will need to directly contact the affiliate that they are working with in order to update their information or modify their communication preferences. 
+
+**Contacting Us With Questions**
+
+If you have questions or concerns regarding this privacy policy, contact H&R Block by [clicking here](https://web.archive.org/universal/privacy_contact.html). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed within fifteen (15) business days, you may then contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
+
+H&R Block has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with[ TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. The TRUSTe program covers only information that is collected through the Sites and does not cover information you provide in connection with H&R Block affiliates or information that may be collected through your use of our software, mobile or online tax preparation tools. 
+
+Updated: 3/01/2012   
+© 2012 H&R Block All rights reserved. 
+
+H&R Block World Headquarters   
+One H&R Block Way   
+Kansas City, MO 64105   
+1-800-472-5625. 
