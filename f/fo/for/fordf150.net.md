@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fordf150.net privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231052640id_/http%3A//www.fordf150.net/misc/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fordf150.net privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505053221id_/http%3A//www.fordf150.net/misc/privacy-policy.php) for the most accurate reproduction.*
 
 # FordF150.net Privacy Policy
 
@@ -17,9 +17,9 @@ NOTE: By using this site, you agree to the terms of the FordF150.net privacy pol
 
 
 Here is the information we have right now regarding your visit:  
-**IP Address:** 207.241.228.163  
-**Remote Hostname:** ia360919.us.archive.org  
-**Referring Page:** http://www.fordf150.net/
+**IP Address:** 207.241.237.236  
+**Remote Hostname:** crawl413.us.archive.org  
+**Referring Page:**
 
 ## Information Sharing And Disclosure
 
