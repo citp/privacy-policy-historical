@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapfareguru.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103091903id_/http%3A//www.cheapfareguru.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapfareguru.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505181731id_/http%3A//www.cheapfareguru.com/privacypolicy.php) for the most accurate reproduction.*
 
 # CheapFareGuru.com Privacy Policy
 
@@ -10,7 +10,7 @@
 
 November 8th, 2008
 
-Please read this Privacy Policy carefully. You can access the Privacy Policy any time at [http://www.CheapFareGuru.com/privacypolicy.php](https://web.archive.org/web/20111103091903id_/http%3A//www.cheapfareguru.com/privacypolicy.php). Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy.   
+Please read this Privacy Policy carefully. You can access the Privacy Policy any time at [http://www.CheapFareGuru.com/privacypolicy.php](https://web.archive.org/web/20120505181731id_/http%3A//www.cheapfareguru.com/privacypolicy.php). Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy.   
   
 
 
@@ -219,6 +219,8 @@ We'll send you updates with the latest deals, reviews and articles.
 ********************************
 
 ********************************
+
+Didn't find what you are looking for? Go to our [Flights ](https://web.archive.org/web/20120505181731id_/http%3A//www.cheapfareguru.com/index.php) section to get started booking your trip today.
 
 * Discount is applicable on Unrestricted published airfare of most major scheduled airlines. These offers are good on major airlines to all destinations world wide. All fares are subject to availability.Discount may vary based on availability, season, travel dates, advance notice, minimum maximum stay, black out travel dates and may change without any prior notice.Additional restrictions may apply.   
 This site pays most careful attention in providing information and data, but it does not guarantee the correctness, completeness, and the usefulness of its contents. 
