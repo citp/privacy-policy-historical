@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the pmtonline.co.uk privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230140601id_/http%3A//www.pmtonline.co.uk/shop_with_confidence%23privacy_and_security_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pmtonline.co.uk privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505060313id_/http%3A//www.pmtonline.co.uk/shop_with_confidence%23privacy_and_security_policy) for the most accurate reproduction.*
 
 # Shop with Confidence make music for less
 
-PMT Online has now been in business for over twenty years, having started in 1978, and can rightly claim to be the birthplace of recording for musicians. Not only was it the first store of its kind in the world, but PMT Online played an integral role in the development of the Portastudio™ which made multitrack recording affordable to the average musician for the first time, and ushered in the age of the home studio which we take for granted today.
+**PMT Online** has now been in business for over twenty years, and can rightly claim the honour of **Best Music Retailer** , having won the the title at the MIA awards five years in a row, beating the previous world record. We are the proud owners of **Ten** PMT Superstores across the UK, and we are continuing to grow. Opening up career opportunities for more and more young and experienced musicians to come work in our stores, whilst supporting the growth of musicians all across the UK by bringing our expertise closer to our customer's front door. 
 
 As by far one of the largest retailers in the UK (and indeed, Europe) we have **over 10,000 products** In stock today. 
 
-Above all though, PMT Online's main aim is to help the recording musician get the results they need by delivering the very latest equipment with great advice and service, and all at the most competitive prices around. 
+Above all though, PMT Online's main aim is to help musicians get the results they need by delivering the very latest equipment with great advice and service, and all at the most competitive prices around. 
 
 ## 7 Day Moneyback Guarantee
 
-No problems, No quibbles. If you're unhappy with your purchase simply return the item to us. Just call us or e-mail [orders@pmtonline.co.uk](mailto:orders@pmtonline.co.uk) to arrange.
+No problems, No quibbles. If you're unhappy with your online purchase simply return the item to us. Just call us or e-mail [returns@pmtonline.co.uk](mailto:returns@pmtonline.co.uk) to arrange. **Please note, this applies to online sales only.**
+
+There are certain kinds of products which are exempt from this guarantee under Health and Safety laws, please visit our [Customer Services](http://www.pmtonline.co.uk/customer-services/) section to find out more.
 
 ## Lowest Price Guarantee
 
