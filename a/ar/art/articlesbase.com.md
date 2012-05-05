@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesbase.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201175348id_/http%3A//www.articlesbase.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesbase.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505045531id_/http%3A//www.articlesbase.com/privacy-policy) for the most accurate reproduction.*
 
 # Articlesbase.com - Website Privacy Policy
 
