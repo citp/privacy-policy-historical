@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the frightcatalog.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115105653id_/http%3A//www.frightcatalog.com/Site/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frightcatalog.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505203136id_/http%3A//www.frightcatalog.com/site/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Policy as of 11/15/2011
+Policy as of 5/5/2012
 
 ## PRIVACY STATEMENT
 
-FrightCatalog.com values its customer and respects their privacy. Any time you visit a website on the Internet, your computer exchanges information with other computers. FrightCatalog.com recognizes that it must maintain and use customer information responsibly. This privacy policy explains what personal information is collected through this web site, how that information is used, and how it is kept safe. This policy only applies to FrightCatalog.com and no other web site. If you ever have a question about this policy or information that it shared with FrightCatalog.com, please email us at [service@frightcatalog.com](mailto:service@frightcatalog.com) or fill out our online [contact form](https://web.archive.org/Assistance/ContactUs/).
+FrightCatalog.com values its customer and respects their privacy. Any time you visit a website on the Internet, your computer exchanges information with other computers. FrightCatalog.com recognizes that it must maintain and use customer information responsibly. This privacy policy explains what personal information is collected through this web site, how that information is used, and how it is kept safe. This policy only applies to FrightCatalog.com and no other web site. If you ever have a question about this policy or information that it shared with FrightCatalog.com, please email us at [service@frightcatalog.com](mailto:service@frightcatalog.com) or fill out our online [contact form](https://web.archive.org/assistance/contactus/).
 
 ## PERSONAL INFORMATION COLLECTED
 
@@ -22,7 +22,7 @@ To better understand how you use our web site, we use a browser feature known as
 
 ## LIMITING INFORMATION WE CAN USE
 
-There are steps you can take to limit the information that we collect and use. If at any time you have questions about your personal information and how it is collected, please email our customer service department at [service@frightcatalog.com](mailto:service@frightcatalog.com) or fill our online [contact form](https://web.archive.org/Assistance/ContactUs).
+There are steps you can take to limit the information that we collect and use. If at any time you have questions about your personal information and how it is collected, please email our customer service department at [service@frightcatalog.com](mailto:service@frightcatalog.com) or fill our online [contact form](https://web.archive.org/assistance/contactus).
 
 If you would like to stop the future delivery of our email offers, simply follow the removal instructions located at the bottom of every email message or complete our online unsubscribe form. This will stop any email offers from us; however, we may still contact you via email for operation or transactional messages such as order confirmations or customer service communications. We also may occasionally provide you with the opportunity to opt back in to our email offers.
 
