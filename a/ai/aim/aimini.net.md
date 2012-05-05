@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aimini.net privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108084217id_/http%3A//www.aimini.net/web-usage/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aimini.net privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505040136id_/http%3A//www.aimini.net/web-usage/privacy-policy) for the most accurate reproduction.*
 
 # aimini.net - Privacy Policy
 
