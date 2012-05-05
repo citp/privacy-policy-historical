@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the createspace.com privacy policy that was archived on 2011-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111013060545id_/https%3A//www.createspace.com/Help/Rights/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the createspace.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505054302id_/https%3A//www.createspace.com/Help/Rights/Privacy.jsp) for the most accurate reproduction.*
 
 # CreateSpace: Self Publishing and Free Distribution for Books, CD, DVD
 
