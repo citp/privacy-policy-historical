@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialbrite.org privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103054429id_/http%3A//www.socialbrite.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialbrite.org privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505112240id_/http%3A//www.socialbrite.org/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -15,3 +15,5 @@ We don’t track your movements through cookies or other means.
 Socialbrite may disclose information it collects if it believes in good faith that such action is reasonably necessary to enforce its site rules or other policies, to comply with the law and the legal process, or to protect the rights or property of itself, its users or others.
 
 It is possible that the computers at Socialbrite could become compromised by outsiders and that information could be collected and disseminated without our knowledge or consent. While Socialbrite attempts to thwart such “crackers,” we are not responsible or liable for any such unauthorized uses of our records or data.
+
+[](http://www.printfriendly.com/print/v2?url=http://www.socialbrite.org/privacy/)
