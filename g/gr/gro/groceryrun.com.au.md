@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groceryrun.com.au privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124014437id_/http%3A//www.groceryrun.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groceryrun.com.au privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505084521id_/http%3A//www.groceryrun.com.au/privacy.php) for the most accurate reproduction.*
 
 # GroceryRun.com.au - Just like supermarkets, only cheaper! | Privacy Policy
 
@@ -6,7 +6,7 @@ At GroceryRun.com.au we appreciate that you value your privacy and wish to have 
 
 At GroceryRun.com.au we only collect personal information that is necessary for us to conduct our business as an online provider of goods. The personal information we collect will include information you give us when you place an order for the purchase of a good we supply. We may also collect personal information about individuals who are not customers of our business, but whose personal information is given to us by those individuals or other people in the course of a transaction. This personal information will include your name, address and contact details, and may include other personal information about individuals we collect in the course of a transaction.
 
-We may also collect some information from you when you use our website [www.groceryrun.com.au](http://www.groceryrun.com.au/). Your use of the information and services available through our website will determine the type of information that we collect about you.
+We may also collect some information from you when you use our website [www.groceryrun.com.au](https://www.groceryrun.com.au/). Your use of the information and services available through our website will determine the type of information that we collect about you.
 
 The only personal information that we collect about you when you use our website is what you tell us about yourself, for example, when you complete an online form when placing an order, or information you provide to us when you send us an email. Please note, we will record your email address if you send us an email.
 
