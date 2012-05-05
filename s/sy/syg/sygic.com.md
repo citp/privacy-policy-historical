@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sygic.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202220543id_/http%3A//www.sygic.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sygic.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505123125id_/http%3A//www.sygic.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Sygic | Privacy policy
 
@@ -103,11 +103,11 @@ Please note that if You access our Websites from a shared computer or a public c
 
 #### Your Choices regarding Your Personal Information
 
-We offer You choices regarding the collection, use and sharing of Your Personal Information. When You receive newsletters or promotional communications from us, You may indicate a preference to stop receiving further communications from us and You have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail You receive or by contacting us directly at [support@sygic.com](mailto:support@sygic.com) . However, regardless of Your indicated e-mail preferences, we may send You service e-mails regarding our products and services or notices of any updates to the terms and conditions or Privacy Policy. You may change any of the Personal Information in Your account by editing Your account information.
+We offer You choices regarding the collection, use and sharing of Your Personal Information. When You receive newsletters or promotional communications from us, You may indicate a preference to stop receiving further communications from us and You have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail You receive or by contacting us directly at [privacy@sygic.com](mailto:privacy@sygic.com) . However, regardless of Your indicated e-mail preferences, we may send You service e-mails regarding our products and services or notices of any updates to the terms and conditions or Privacy Policy. You may change any of the Personal Information in Your account by editing Your account information.
 
 #### Accessing, reviewing and changing Your Personal Information
 
-You can see, review and change much of Your Personal Information by signing in to Your Sygic account. Generally, we will not modify Your Personal Information because it is very difficult to verify Your identity remotely (e.g. via telephone). You must promptly update Your Personal Information if it changes or is inaccurate. Once You make a public posting, You may not be able to change or remove it. Upon Your request ( [support@sygic.com](mailto:support@sygic.com) ), we will close Your account and remove Your Personal Information from view as soon as reasonably possible, based on Your account activity and in accordance with applicable law. We do retain Personal Information from closed accounts to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our terms and conditions, and take other actions permitted by law.
+You can see, review and change much of Your Personal Information by signing in to Your Sygic account. Generally, we will not modify Your Personal Information because it is very difficult to verify Your identity remotely (e.g. via telephone). You must promptly update Your Personal Information if it changes or is inaccurate. Once You make a public posting, You may not be able to change or remove it. Upon Your request ([privacy@sygic.com](mailto:privacy@sygic.com) ), we will close Your account and remove Your Personal Information from view as soon as reasonably possible, based on Your account activity and in accordance with applicable law. We do retain Personal Information from closed accounts to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our terms and conditions, and take other actions permitted by law.
 
 #### Transfer of Business Assets
 
@@ -123,7 +123,7 @@ Our provision of links to other Websites or locations is for Your convenience an
 
 #### Children
 
-We do not intentionally gather Personal Information about visitors who are under the age of 16. If You believe that we have collected Personal Information about a visitor who is under the age of 16, please contact Us at [support@sygic.com](mailto:support@sygic.com) , and such Personal Information will be deleted.
+We do not intentionally gather Personal Information about visitors who are under the age of 16. If You believe that we have collected Personal Information about a visitor who is under the age of 16, please contact Us at [privacy@sygic.com](mailto:privacy@sygic.com), and such Personal Information will be deleted.
 
 #### Safeguarding the information You share with us
 
@@ -131,7 +131,7 @@ We recognize our responsibility to protect the Personal Information You entrust 
 
 #### Privacy questions
 
-If You think that the use of Your Personal Information is not in alignment with the purpose for which You have provided it to Us, as described in this Privacy Policy, or if You have any questions or suggestions regarding this Privacy Policy, please contact Us at [support@sygic.com](mailto:support@sygic.com). We do not intentionally gather Personal Information about visitors who are under the age of 16. If You believe that we have collected Personal Information about a visitor who is under the age of 16, please contact us at [support@sygic.com](mailto:support@sygic.com).
+If You think that the use of Your Personal Information is not in alignment with the purpose for which You have provided it to Us, as described in this Privacy Policy, or if You have any questions or suggestions regarding this Privacy Policy, please contact Us at [privacy@sygic.com](mailto:privacy@sygic.com). We do not intentionally gather Personal Information about visitors who are under the age of 16. If You believe that we have collected Personal Information about a visitor who is under the age of 16, please contact us at [privacy@sygic.com](mailto:privacy@sygic.com).
 
 #### Privacy Policy Updates
 
