@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the line6.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123164926id_/http%3A//line6.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the line6.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505063140id_/http%3A//line6.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Line 6 - Privacy Policy
 
@@ -17,20 +17,36 @@ The Website is not intended for use by children under the age of thirteen (13). 
 
 **PERSONALLY IDENTIFIABLE INFORMATION WE COLLECT**
 
- _Registration Information About You_  
-We ask for Personal Information about you when you create a " **User Account** " in order to purchase software, software upgrades, product accessories, and other materials from Line 6 (including, without limitation, your name, billing address, email address, credit card number and expiration date). We ask for Personal Information about you when you register your Line 6 product(s) with us (including, without limitation, your name, address, and email address). We ask for Personal Information about you when you register for a user name to participate in the Website bulletin boards (including, without limitation, your email address). We may also ask you for information about your interests, preferences and future needs, so that we can improve the Website content. _Newsletter Subscription Information_  
-From time to time we provide information to our users in the form of electronic and/or print newsletters. When you create a User Account or register products with Line 6, you will be added to our mailing list and will receive announcements and information about Line 6 and Line 6's Service Partners (defined below). Please see the " **Line 6 Service Partners** " and " **Opt-Out Policy** " paragraphs below for opt-out information if you do not want to receive announcements and information from Line 6 Service Partners. The newsletters will be emailed or mailed directly to the address that you provide when you register. You may also subscribe to receive electronic newsletters and information, without registering a product, by submitting your email address only. _Service Email Links_  
-We may place email links on the Website to allow you to contact us directly. The Personal Information you provide in these email links is used to respond directly to your questions or comments. We may also file your comments to improve the Website, or review and discard the Personal Information. All information, _other than Personal Information_ , that you send to Line 6 using these email links will not be considered or treated as confidential information. Do not send us any information, ideas, suggestions, proposals, or comments that you consider confidential or that you want to be treated as confidential. _Chat, Message Boards and User Postings_  
+ _Registration Information About You_
+
+We ask for Personal Information about you when you create a " **User Account** " in order to purchase software, software upgrades, product accessories, and other materials from Line 6 (including, without limitation, your name, billing address, email address, credit card number and expiration date). We ask for Personal Information about you when you register your Line 6 product(s) with us (including, without limitation, your name, address, and email address). We ask for Personal Information about you when you register for a user name to participate in the Website bulletin boards (including, without limitation, your email address). We may also ask you for information about your interests, preferences and future needs, so that we can improve the Website content.
+
+ _Newsletter Subscription Information_
+
+From time to time we provide information to our users in the form of electronic and/or print newsletters. When you create a User Account or register products with Line 6, you will be added to our mailing list and will receive announcements and information about Line 6 and Line 6's Service Partners (defined below). Please see the " **Line 6 Service Partners** " and " **Opt-Out Policy** " paragraphs below for opt-out information if you do not want to receive announcements and information from Line 6 Service Partners. The newsletters will be emailed or mailed directly to the address that you provide when you register. You may also subscribe to receive electronic newsletters and information, without registering a product, by submitting your email address only.
+
+ _Service Email Links_
+
+We may place email links on the Website to allow you to contact us directly. The Personal Information you provide in these email links is used to respond directly to your questions or comments. We may also file your comments to improve the Website, or review and discard the Personal Information. All information, 
+
+_other than Personal Information_
+
+, that you send to Line 6 using these email links will not be considered or treated as confidential information. Do not send us any information, ideas, suggestions, proposals, or comments that you consider confidential or that you want to be treated as confidential.
+
+ _Chat, Message Boards and User Postings_
+
 If you choose to provide Personal Information through your participation in chat sessions, forums, bulletin boards, email exchanges or newsgroups in connection with your use of the Website, that information is public and immediately available to anyone who has access to this site; it is not private. This Policy does not apply to such information.
 
 Any and all information, including personal and non-personal information, that you provide through your participation in chat sessions, forums, bulletin boards, email exchanges or newsgroups in connection with your use of the Website is public and immediately available to anyone who has access to this Website; it is not private or held confidential. Do not provide any information that you consider confidential information.
 
- _Automated Data Capture_  
+ _Automated Data Capture_
+
 We may automatically track certain information about your use of the Website. Line 6 tracks and logs individual log-in times, IP addresses, connection speeds, and browser types for system administration purposes. This information will be used to prepare statistical data, analyzed to improve troubleshooting techniques and responses, and used to improve the value of the materials and services available through the Website.
 
 Cookies are small text files that are stored on the site visitor's computer and used to gather and keep track of non-personal information related to you. Information collected through cookies is not linked to any personally identifiable information. Cookies help Line 6 review the Website traffic patterns and improve the Website. Although many browsers are set to accept cookies, you can set your browser to reject cookies, but this may prevent you from using some of the convenience features the Website.
 
- _Sensitive Information_  
+ _Sensitive Information_
+
 We do not request, and we ask that you not provide, " **sensitive information,** " that is, Personal Information indicating medical or health conditions, racial or ethnic origin, political opinions, religions or philosophical beliefs, trade union membership or information specifying sexual orientation. This information is not relevant to the use of the Website.
 
 **USE OF YOUR PERSONALLY IDENTIFIABLE INFORMATION**
@@ -41,8 +57,12 @@ We use Personal Information to respond to your inquiries, improve our marketing 
 
 We will use the information collected under the "Automated Data Capture" section above to prepare statistical data, to analyze and improve troubleshooting techniques and responses, and to improve the value of the materials and services available through the Website.
 
- _Required Disclosures_  
-Line 6 may disclose Personal Information if required to do so by law or in the good-faith belief that such action is necessary to prevent injury or property damage. We will usually attempt to notify you when we are making such a disclosure, but we may not do so in an emergency or when we are prohibited by law or court order from giving such notice. _Information Sharing and Third Party Service Partners_  
+ _Required Disclosures_
+
+Line 6 may disclose Personal Information if required to do so by law or in the good-faith belief that such action is necessary to prevent injury or property damage. We will usually attempt to notify you when we are making such a disclosure, but we may not do so in an emergency or when we are prohibited by law or court order from giving such notice.
+
+ _Information Sharing and Third Party Service Partners_
+
 Line 6 does not rent, sell or share personal information about you with other people or non-affiliated companies without your consent (see our Opt-Out Policy below) or unless we have a good faith belief that access, use, preservation or disclosure is reasonably necessary to (a) satisfy any law, regulation, legal process or enforceable governmental request, (b) enforce any applicable Terms of Service (including investigation of potential violations thereof), or (c) detect, prevent or otherwise address fraud, security or technical issues.
 
 Line 6 provides some of the Website's services through contractual arrangements with affiliates, service providers, partners and other third parties (" **Service Partners** "). Line 6 and its Service Partners use your Personal Information to operate their sites and to deliver their services. Line 6's Service Partners may also use your Personal Information to inform you of other products or services available from those Service Partners. To opt out of receiving future notifications, see our **Opt-Out Policy** below.
