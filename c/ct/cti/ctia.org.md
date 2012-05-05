@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ctia.org privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101223500id_/http%3A//www.ctia.org/content/index.cfm/AID/10058) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctia.org privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505042723id_/http%3A//www.ctia.org/content/index.cfm/AID/10058) for the most accurate reproduction.*
 
 # CTIA.ORG Website Privacy Policy
 
