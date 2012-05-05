@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediaminer.org privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121015449id_/http%3A//mediaminer.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediaminer.org privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505054032id_/http%3A//www.mediaminer.org/privacy.php) for the most accurate reproduction.*
 
 # MediaMiner.org - Privacy Policy
 
