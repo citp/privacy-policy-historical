@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tigernet.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101131236id_/http%3A//www.tigernet.com/disclaimer.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigernet.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505040806id_/http%3A//www.tigernet.com/disclaimer.do) for the most accurate reproduction.*
 
 # TigerNet.com -- Disclaimer
 
@@ -23,7 +23,7 @@ TigerNet.com will not disclose any of your personal information, except with you
 IP Addresses: We do use your IP address to help diagnose problems with our server, and to administer our Web site, and also to help distinquish between certain userids ion the interactive areas. Your IP address is also used to gather broad demographic information such as geographic distribution of our members. 
 
 **TigerNet.com Cookies:**  
-Contrary to popular myth, cookies do not extract private or personal information from your computer’s memory, but rather, record only information you volunteer to us upon registering or visiting the site. Cookies are tiny files placed onto the hard drive of your computer when you register at our Web site that enable our server to recognize or "remember" who you are each time you return. TigerNet.com may make limited use of cookies to deliver content specific to your interests. For instance we often save your password so it doesn’t have to be re-entered each time you login. 
+Contrary to popular myth, cookies do not extract private or personal information from your computers memory, but rather, record only information you volunteer to us upon registering or visiting the site. Cookies are tiny files placed onto the hard drive of your computer when you register at our Web site that enable our server to recognize or "remember" who you are each time you return. TigerNet.com may make limited use of cookies to deliver content specific to your interests. For instance we often save your password so it doesnt have to be re-entered each time you login. 
 
 **Advertiser Cookies:**  
 We use third-party advertising companies to serve ads when you visit our Web site. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. 
@@ -35,7 +35,7 @@ To learn more about behavioral advertising practice or to opt-out of this type o
 While we do use cookies in other parts of our Web site as explained above, cookies received with banner ads may or may not be collected by our company or be under our control. 
 
 **Member Profiles**  
-Demographic data is collected at our site at the users’ option. This information may include age and gender and other personal preferences that can be viewed and tabulated for use in marketing TigerNet.com to advertisers and others. In no case is personal information given or sold to third parties. TigerNet.com controls the distribution of ALL information at the site. 
+Demographic data is collected at our site at the users option. This information may include age and gender and other personal preferences that can be viewed and tabulated for use in marketing TigerNet.com to advertisers and others. In no case is personal information given or sold to third parties. TigerNet.com controls the distribution of ALL information at the site. 
 
 **Contacting the Website**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact: Tommy Crumpton PO Box 974 Pickens, SC 29671 [Submit Feedback](https://web.archive.org/roar.do)
