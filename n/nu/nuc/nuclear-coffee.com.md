@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nuclear-coffee.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007071534id_/http%3A//nuclear-coffee.com/php/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuclear-coffee.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505040453id_/http%3A//nuclear-coffee.com/php/privacy.php) for the most accurate reproduction.*
 
 # Privacy
 
@@ -20,7 +20,7 @@ The information that is received by Nuclear-Coffee Software is:
 
 The information sent to Nuclear-Coffee Software servers does not concern any personal user information such as name, gender etc.
 
-To buy our software you should register with one of our online registrators providing them with your personal information including name, email address, mailing address, phone number, credit card number, and expiration date. You can find additional information about our registrators privacy policies at [Plimus Privacy Policy](http://www.plimus.com/privacy.shtml).   
+To buy our software you should register with one of our online registrators providing them with your personal information including name, email address, mailing address, phone number, credit card number, and expiration date. You can find additional information about our registrators privacy policies at [CleverBridge Privacy Policy](http://www.cleverbridge.com/corporate/support/privacy-policy).   
 Neither Nuclear-Coffee Software, nor its partners do not disclose to any third parties information received when you are registering Nuclear-Coffee Software products.
 
 We don't share information you provide us with any third parties apart from mentioned above.  
