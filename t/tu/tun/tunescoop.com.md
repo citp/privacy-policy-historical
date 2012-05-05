@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tunescoop.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109025710id_/http%3A//www.tunescoop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tunescoop.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505144101id_/http%3A//www.tunescoop.com/privacy) for the most accurate reproduction.*
 
 # TuneScoop - Free music hosting and Sharing
 
