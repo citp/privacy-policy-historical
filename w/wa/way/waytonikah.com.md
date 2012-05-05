@@ -1,23 +1,10 @@
-> *The following text is extracted and transformed from the waytonikah.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206020049id_/http%3A//waytonikah.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waytonikah.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505034741id_/http%3A//www.waytonikah.com/privacy.php) for the most accurate reproduction.*
 
 # waytonikah.com® :- Kerala's No1 Muslim Matrimonial Website
 
 ---  
   
 |  |   
----  
-  
-Our Lord! Grant unto us wives and offspring who will be the comfort of our eyes, and give us (the grace) to lead righteous. Qur'an 25:74
-
-* * *
-
-"A woman may married for four reasons: for her property, for her rank, for her beauty, and for her religion (and character). So marry the one who is best in the religion and character and prosper". (Bukhari and Muslim)
-
-* * *
-
-"The whole world is an asset and the best asset is a good wife" (Muslim)  
-  
-  
 
 
 | 
