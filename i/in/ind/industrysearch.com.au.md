@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the industrysearch.com.au privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119075524id_/http%3A//www.industrysearch.com.au/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the industrysearch.com.au privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505085353id_/http%3A//www.industrysearch.com.au/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,7 +9,7 @@
 
 
 **Definitions**  
-Website: Refers to the website owner/operator Industracom Pty Ltd ([www.industracom.com](http://www.industracom.com/), Australia ABN 20 079 858 236) operators of [IndustrySearch.com.au](http://www.industrysearch.com.au/) and [MedicalSearch.com.au](http://www.medicalsearch.com.au/).
+Website: Refers to the website owner/operator Industracom Pty Ltd ([www.industracom.com](http://www.industracom.com/), Australia ABN 20 079 858 236) operators of [IndustrySearch.com.au](http://www.industrysearch.com.au/), [MedicalSearch.com.au](http://www.medicalsearch.com.au/) and [HospitalityHub.com.au](http://www.hospitalityhub.com.au/).
 
 * * *
 
