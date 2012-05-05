@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allcruisejobs.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105072635id_/http%3A//www.allcruisejobs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allcruisejobs.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505185646id_/http%3A//www.allcruisejobs.com/privacy-policy) for the most accurate reproduction.*
 
-# Cruise Ship Jobs - Privacy Policy
+# All Cruise Jobs - Privacy Policy
 
 By registering or using this site (www.allcruisejobs.com), you consent to the collection, use and transfer of your information under the terms of this policy.
 
@@ -38,7 +38,11 @@ Cookies are small pieces of information which we store on your computer. Our sys
 
 There is no personally identifiable information held on cookies. An example of a cookie is below:
 
-j4c_login,c5b5ea3cd355f536517d22b50eb14dfd
+user_id,1-1-98461
+
+## Data Protection Act
+
+Owner of All Cruise Jobs, Webix Ltd, is registered with the Information Commissioner's Office No. Z2765918.
 
 ## Changes to our Privacy Policy
 
@@ -48,4 +52,4 @@ Any changes to our privacy policy in the future will be posted to the site and, 
 
 All comments, queries and requests relating to our use of your information are welcome. Find our [contact details here](http://www.allcruisejobs.com/contact/).
 
-Updated 10th July 2008
+Updated 15th August 2011
