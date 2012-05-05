@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sbs.com.au privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103093200id_/http%3A//www.sbs.com.au/aboutus/corporate/view/id/113/h/SBS-Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbs.com.au privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506002619id_/http%3A//www.sbs.com.au/aboutus/corporate/view/id/113/h/SBS-Privacy-Statement) for the most accurate reproduction.*
 
 # Corporate : View : SBS Corporate
 
