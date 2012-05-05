@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the eartheasy.com privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101234811id_/http%3A//eartheasy.com/privacy-security) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eartheasy.com privacy policy that was archived on 2012-05-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120505040017id_/http%3A//eartheasy.com/privacy-security) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Privacy &amp; Security</title>
@@ -10,12 +10,11 @@
 <meta name="robots" content="INDEX,FOLLOW">
 <link rel="icon" href="http://eartheasy.com/skin/frontend/ee/ee/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="http://eartheasy.com/skin/frontend/ee/ee/favicon.ico" type="image/x-icon">
-<script type="text/javascript">
+<script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript">
     var BLANK_URL = 'http://eartheasy.com/js/blank.html';
     var BLANK_IMG = 'http://eartheasy.com/js/spacer.gif';
 	var SKIN_URL = 'http://eartheasy.com/skin/frontend/ee/ee/';
 </script>
-<link rel="stylesheet" type="text/css" href="http://eartheasy.com/js/blueacorn/lightwindow.css">
 <link rel="stylesheet" type="text/css" href="http://eartheasy.com/skin/frontend/ee/ee/css/styles.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://eartheasy.com/skin/frontend/ee/ee/css/client.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://eartheasy.com/skin/frontend/ee/ee/css/print.css" media="print">
@@ -34,7 +33,6 @@
 <script type="text/javascript" src="http://eartheasy.com/js/mage/cookies.js"></script>
 <script type="text/javascript" src="http://eartheasy.com/js/blueacorn/ajax.js"></script>
 <script type="text/javascript" src="http://eartheasy.com/js/blueacorn/blueacorn-common.js"></script>
-<script type="text/javascript" src="http://eartheasy.com/js/blueacorn/lightwindow.js"></script>
 <!--[if lt IE 8]>
 <link rel="stylesheet" type="text/css" href="http://eartheasy.com/skin/frontend/ee/ee/css/styles-ie.css" media="all" />
 <![endif]-->
@@ -52,32 +50,76 @@
 optionalZipCountries = [];
 //]]>
 </script>
-<script type="text/javascript">var Translator = new Translate([]);</script><meta name="google-site-verification" content="j6LV9Ijqc_3RBBAdV6Ism19yWidvhRU3qqTVGb2nd70"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-<body class=" cms-page-view cms-privacy-security"><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
 
 <!-- BEGIN GOOGLE ANALYTICS CODE -->
 <script type="text/javascript">
 //<![CDATA[
-    (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
-    })();
-    var _gaq = _gaq || [];
-    _gaq.push(["_setAccount", "UA-3471726-1"]);
-	_gaq.push(
-		["_setCustomVar",
-		   1,                        // slot (1-5)
-		   "Shopping Customer",          // The name of the custom variable
-		   "Yes",           // The value of the custom variable
-		   2                         // scope (1=visitor, 2=session, 3=page)
-		],
-		["_trackPageview","/privacy-security"]
-	);
-	//]]>
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = 'http://www.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+            var _gaq = _gaq || [];
+
+            _gaq.push(["_setAccount", "UA-3471726-1"], ["_setCustomVar", 1, "Shopping Customer", "Yes", 2], ["_trackPageview","/privacy-security"]);
+
+            if(Ajax.Responders){
+                Ajax.Responders.register({
+                  onComplete: function(response){
+                    if(!response.url.include("progress")){
+                        if(response.url.include("saveOrder")){
+                            _gaq.push(["_trackPageview", "/privacy-security"+ "/opc-review-placeOrderClicked"]);
+                        }else if(accordion.currentSection){
+                            _gaq.push(["_trackPageview", "/privacy-security/"+ accordion.currentSection]);
+                        }
+                    }
+                  }
+                });
+            }
+
+//]]>
 </script>
+
+
 <!-- END GOOGLE ANALYTICS CODE -->
-        <div class="wrapper">
+<script type="text/javascript">var Translator = new Translate([]);</script><meta name="google-site-verification" content="j6LV9Ijqc_3RBBAdV6Ism19yWidvhRU3qqTVGb2nd70"><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+<body class=" cms-page-view cms-privacy-security"><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
+<script type="text/javascript">
+ var cvtSiteName = "eartheasy";
+ var cvtJsHost = (("https:" == document.location.protocol)?"https://dnhgz729v27ca.cloudfront.net/" : "http://use.convertglobal.com/");
+ document.write(unescape("%3Cscript src='" + cvtJsHost+"client/setup.js' type='text/javascript'%3E%3C/script%3E"));
+ if(!window.convert_cart){
+    window.convert_cart={};
+    convert_cart.shoppingCartItems=new Array();
+    }
+ if(!window.convert_profile){
+    window.convert_profile = {};
+    }
+</script><script src="https://dnhgz729v27ca.cloudfront.net/client/setup.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+ window.convert = new Convert("BtgPj");
+ convert.init();
+</script>
+
+<script type="text/javascript">
+ document.write(unescape("%3Cscript src='" + cvtJsHost + cvtSiteName + "/extras.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://dnhgz729v27ca.cloudfront.net/eartheasy/extras.js" type="text/javascript"></script>
+
+<!--<script type="text/javascript">
+    var cvtSiteName = "aimadvantage";
+    var cvtJsHost = (("https:" == document.location.protocol) ? "https://dnhgz729v27ca.cloudfront.net/" : "http://use.convertglobal.com/");
+    document.write(unescape("%3Cscript src='" + cvtJsHost+"client/setup.js' type='text/javascript'%3E%3C/script%3E"));
+    if(!window.convert_cart)
+        window.convert_cart= {};
+    convert_cart.shoppingCartItems = new Array();
+    if(!window.convert_profile)
+        window.convert_profile = {};
+</script>
+
+<script type="text/javascript">
+    document.write(unescape("%3Cscript src='" + cvtJsHost + cvtSiteName +"/extras.js' type='text/javascript'%3E%3C/script%3E"));
+</script>-->
+<div class="wrapper">
         <noscript>
         <div class="noscript">
             <div class="noscript-inner">
@@ -228,12 +270,15 @@ optionalZipCountries = [];
 <a href="http://eartheasy.com/green-home/green-kitchen"><span>Kitchen</span></a>
 </li>
 <li class="level1 nav-1-2">
-<a href="http://eartheasy.com/green-home/green-washroom"><span>Washroom</span></a>
+<a href="http://eartheasy.com/green-home/water-filtration"><span>Water Filtration</span></a>
 </li>
 <li class="level1 nav-1-3">
+<a href="http://eartheasy.com/green-home/green-washroom"><span>Washroom</span></a>
+</li>
+<li class="level1 nav-1-4">
 <a href="http://eartheasy.com/green-home/eco-laundry-room"><span>Laundry Room</span></a>
 </li>
-<li class="level1 nav-1-4 last">
+<li class="level1 nav-1-5 last">
 <a href="http://eartheasy.com/green-home/solar-cooking"><span>Solar Cooking</span></a>
 </li>
 </ul></li>
@@ -264,8 +309,11 @@ optionalZipCountries = [];
 <li class="level1 nav-2-8">
 <a href="http://eartheasy.com/yard-garden/natural-pest-control"><span>Natural Pest Control</span></a>
 </li>
-<li class="level1 nav-2-9 last">
+<li class="level1 nav-2-9">
 <a href="http://eartheasy.com/yard-garden/complete-raised-garden-bed-kits"><span>Complete Garden Kits</span></a>
+</li>
+<li class="level1 nav-2-10 last">
+<a href="http://eartheasy.com/yard-garden/chicken-coops"><span>Chicken Coops</span></a>
 </li>
 </ul></li>
             <li onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)" class="level0 nav-3 parent">
@@ -343,7 +391,7 @@ optionalZipCountries = [];
             <div class="main">
 				<div class="content-header">
 					<div class="content-header">
-	<div class="catalog-callout"><a>Family Owned - Hassle free Returns - Quick Shipping - Carbon Neutral - Call Toll-Free: 1-888-451-6752</a></div><div class="mcafee-badge">
+	<div class="catalog-callout"><a>Family Owned - Hassle free Returns - Quick Shipping - Carbon Neutral - Call Toll-Free: 1-888-451-6752&gt;</a></div><div class="mcafee-badge">
 <!-- START SCANALERT CODE -->
 	<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.eartheasy.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.eartheasy.com/12.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
 <!-- END SCANALERT CODE -->
@@ -391,12 +439,12 @@ optionalZipCountries = [];
 <div class="block-title"><strong><span>Customer Service</span></strong></div>
 <div class="block-content">
 <ul>
-<li class="first"><a href="/track-your-order">Track your Order</a></li>
-<li><a href="/shipping-information">Shipping Information</a></li>
+<li class="first"><a href="/shipping-information">Shipping Information</a></li>
 <li><a href="/satisfaction-guarantee">100% Satisfaction Guarantee</a></li>
 <li><a href="/returns">Returns</a></li>
 <li><a href="/frequently-asked-questions">F.A.Q.</a></li>
 <li><a href="/privacy-security">Privacy &amp; Security</a></li>
+<li><a href="/terms-and-conditions">Terms &amp; Conditions</a></li>
 <li class="last"><a href="/contact">Contact Us</a></li>
 </ul>
 </div>
@@ -439,12 +487,12 @@ optionalZipCountries = [];
                             </ul>
             <ul class="links customer-service">
 <li><strong>Customer Service</strong></li>
-<li><a href="http://eartheasy.com/track-your-order">» Track your Order</a></li>
 <li><a href="http://eartheasy.com/shipping-information">» Shipping Information</a></li>
 <li><a href="http://eartheasy.com/satisfaction-guarantee">» Satisfaction Guarantee</a></li>
 <li><a href="http://eartheasy.com/returns">» Returns</a></li>
 <li><a href="http://eartheasy.com/privacy-security">» Privacy &amp; Security</a></li>
-<li class="last"><a href="http://eartheasy.com/contact">» Contact Us</a></li>
+<li><a href="http://eartheasy.com/contact">» Contact Us</a></li>
+<li class="last"><a href="http://eartheasy.com/frequently-asked-questions">» F.A.Q.</a></li>
 </ul>
 <ul class="links about-earth-easy last">
 <li><strong>About Eartheasy</strong></li>
@@ -452,8 +500,7 @@ optionalZipCountries = [];
 <li><a href="http://eartheasy.com/the-team">» The Team</a></li>
 <li><a href="http://eartheasy.com/our-mission">» Our Mission</a></li>
 <li><a href="http://eartheasy.com/sustainability">» Sustainability</a></li>
-<li><a href="http://eartheasy.com/press-media">» Press &amp; Media</a></li>
-<li class="last"><a href="http://eartheasy.com/frequently-asked-questions">» F.A.Q.</a></li>
+<li class="last"><a href="http://eartheasy.com/press-media">» Press &amp; Media</a></li>
 </ul>            <ul class="footer-callouts">
 <li> <a href="http://eartheasy.com/privacy-security"><strong>Privacy &amp; Security</strong> <span>View our Privacy Policy and security features here.</span></a> </li>
 <li> <a href="http://eartheasy.com/satisfaction-guarantee"><strong>Our 100% Satisfaction Guarantee</strong> <span>Read our Satisfaction Guarantee here.</span></a> </li>
@@ -471,15 +518,15 @@ optionalZipCountries = [];
 <li class="payment-methods"><img src="http://eartheasy.com/skin/frontend/ee/ee/images/media/payment_methods.gif" alt="major payment methods accepted"></li>
 </ul></div>
 <div class="copyright">
-    <address>© 2011 Eartheasy.com - All Rights Reserved</address>
+    <address>© 2012 Eartheasy.com - All Rights Reserved</address>
 </div>
 <div style="display: none;" id="expiring-sessiong-message">
     <div class="cart-header">
-		<span class="cart-header-title">Enable Cookies</span>
+		<span class="cart-header-title">Session Expired</span>
         <span class="cart-header-close" id="close-widget2" onclick="$('new-cart-container').toggle();">Close</span>
 	</div>
     <div class="notice-msg">
-					You need to enable cookies to add products to your cart. <a href="http://eartheasy.com/enable-cookies">Click here to learn how</a>.
+			        Your session has expired, please refresh this page or try again to add the product!
 		    </div>
 </div>
 <script type="text/javascript">
