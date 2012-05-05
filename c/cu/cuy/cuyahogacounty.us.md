@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cuyahogacounty.us privacy policy that was archived on 2007-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070713192541id_/http%3A//www.cuyahogacounty.us/home/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuyahogacounty.us privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505082450id_/http%3A//www.cuyahogacounty.us/en-US/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Cuyahoga County of Ohio - Privacy Policy
+# Privacy Policy and Security Statement - Cuyahoga County of Ohio
 
-#### Privacy Policy and Security Statement
+You are here: Privacy Policy and Security Statement
 
 **Public Records**
 
