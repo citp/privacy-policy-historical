@@ -1,0 +1,589 @@
+<!--The following is the downloaded HTML source of the supfella.com privacy policy that was archived on 2012-05-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120505034728id_/http%3A//www.supfella.com/privacy-policy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--SITE_TITLE-->
+<title> - Social Bookmarking - Digg</title>
+<meta name="keywords" content="">
+<meta name="description" content="">
+<link href="http://www.supfella.com/templates/simple/images/style.css" type="text/css" rel="stylesheet">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+var http = createRequestObject();
+
+function createRequestObject() 
+{
+
+	var ro;
+	var browser = navigator.appName;
+	if(browser == "Microsoft Internet Explorer")
+	{
+		ro = new ActiveXObject("Microsoft.XMLHTTP");
+	}
+	else
+	{
+		ro = new XMLHttpRequest();
+	}
+	return ro;
+}
+
+function digResponse() 
+{
+	if(http.readyState == 4)
+	{
+        var response = http.responseText;
+		
+		returned = response.split('|');
+
+		if(response.indexOf('|' != -1)) 
+		{
+			var id=returned[1];
+			var numdigs=returned[2];
+			var status=returned[0];
+			
+			if(status == '1')
+			{
+				document.getElementById('digbut'+id).innerHTML = 'Liked';
+				document.getElementById('numdigs'+id).innerHTML = numdigs;
+  			}
+			else if(status == '2')
+			{
+				document.getElementById('digbut'+id).innerHTML = 'Liked';
+			}
+			else if(status == '0')
+			{
+				//document.getElementById('digbut'+id).innerHTML = '<a href="http://www.supfella.com/login.php">kasturi-1<\/a>';
+document.getElementById('digbut'+id).innerHTML = 'sending';
+http.open('get', 'http://www.supfella.com/dig.php?i='+id);
+http.onreadystatechange = digResponse;
+http.send(null);
+document.getElementById('digbut'+id).innerHTML = 'Liked';
+
+			}
+		}
+    }
+}
+
+
+function dig(id)
+{
+	//
+	document.getElementById('digbut'+id).innerHTML = 'sending';
+	http.open('get', 'http://www.supfella.com/dig.php?i='+id);
+    http.onreadystatechange = digResponse;
+    http.send(null);
+document.getElementById('digbut'+id).innerHTML = 'Liked';
+}
+
+
+function cdigResponse() 
+{
+	if(http.readyState == 4)
+	{
+        var response = http.responseText;
+		
+		returned = response.split('|');
+
+		if(response.indexOf('|' != -1)) 
+		{
+			var id=returned[1];
+			var numdigs=returned[2];
+			var status=returned[0];
+			
+			if(status == '1')
+			{
+				document.getElementById('comd'+id).innerHTML = numdigs+' Likes';
+				document.getElementById('cup'+id).className = 'opacityit';
+				document.getElementById('cdown'+id).className = 'opacityit';
+  			}
+			else if(status == '2')
+			{
+				// Already dug comment
+				document.getElementById('cup'+id).className = 'opacityit';
+				document.getElementById('cdown'+id).className = 'opacityit';
+			}
+			else if(status == '0')
+			{
+				document.getElementById('comd'+id).innerHTML = '<a href="http://www.supfella.com/login.php">kasturi-2<\/a>';
+			}
+		}
+    }
+}
+
+function buryResponse() 
+{
+	if(http.readyState == 4)
+	{
+        var response = http.responseText;
+		
+		returned = response.split('|');
+
+		if(response.indexOf('|' != -1)) 
+		{
+			var id=returned[1];
+			var status=returned[0];
+			
+			if(status == '0')
+			{
+				document.getElementById('digbut'+id).innerHTML = '<a href="http://www.supfella.com/login.php">kasturi-3<\/a>';
+			}
+			else
+			{
+				document.getElementById('storyb'+id).style.filter = "Alpha(Opacity=80)";
+				document.getElementById('storyb'+id).style.opacity = ".2";
+				document.getElementById('digbut'+id).innerHTML = 'Buried';
+				document.getElementById('storyb'+id).disabled = true;
+			}
+		}
+	}
+}
+
+
+function digcom(comment_id,dir,story_id)
+{
+	http.open('get', 'http://www.supfella.com/dig.php?type=comm&i='+comment_id+'&story='+story_id+'&dir='+dir);
+    http.onreadystatechange = cdigResponse;
+    http.send(null);
+
+	if(dir == 0)
+	{
+		dispcomment(comment_id,false,0);
+	}
+}
+
+function bury_story(id)
+{	
+	if(1 == 0)
+	{
+		document.getElementById('digbut'+id).innerHTML = '<a href="http://www.supfella.com/login.php">kasturi-4<\/a>';
+		return;
+	}
+
+	http.open('get', 'http://www.supfella.com/bury.php?i='+id);
+    http.onreadystatechange = buryResponse;
+    http.send(null);
+}
+
+function inclickcheck(field,def,val)
+{
+	if(field.value == def)
+	{
+		field.value = val;
+	}
+}
+
+function changeuser(field,but)
+{
+	if(field.value == '')
+	{
+		document.getElementById(but).disabled = true;
+	}
+	else
+	{
+		document.getElementById(but).disabled = false;
+	}
+}
+
+function checkavail(field)
+{
+	username = document.getElementById(field).value;
+	
+	if(username.length < 4)
+	{
+		document.getElementById('availres').innerHTML = 'The username "'+username+'" is too short';
+		return;
+	}
+	else if(username.length > 16)
+	{
+		document.getElementById('availres').innerHTML = 'The username "'+username+'" is too long';
+		return;
+	}
+	
+	http.open('get', 'http://www.supfella.com/signup.php?avail='+username);
+    http.onreadystatechange = availResponse;
+    http.send(null);
+}
+
+function availResponse() 
+{
+	if(http.readyState == 4)
+	{
+        var response = http.responseText;
+		
+		returned = response.split('|');
+
+		if(response.indexOf('|' != -1)) 
+		{
+			var username=returned[0];
+			var status=returned[1];
+
+			if(status == 1)
+			{
+				document.getElementById('availres').innerHTML = 'The username "'+username+'" is available';
+			}
+			else
+			{
+				document.getElementById('availres').innerHTML = 'Sorry, The username "'+username+'" is taken';
+			}
+		}
+	}
+}
+
+function dispcomment(id,show,ctype)
+{	
+	if(ctype == 0)
+	{
+		if(show)
+		{
+			document.getElementById('commdesc'+id).style.display = '';
+			document.getElementById('commbut'+id).innerHTML = 'Buried [<a href="javascript:dispcomment('+id+',false,0);">Hide Comment</a>]';
+		}
+		else
+		{
+			document.getElementById('commdesc'+id).style.display = 'none';
+			document.getElementById('commbut'+id).innerHTML = 'Buried [<a href="javascript:dispcomment('+id+',true,0);">Show Comment</a>]';
+		}
+	}
+	else if(ctype == 1)
+	{
+		if(show)
+		{
+			document.getElementById('commdesc'+id).style.display = '';
+			document.getElementById('commbut'+id).innerHTML = 'Below Threshold [<a href="javascript:dispcomment('+id+',false,1);">Hide Comment</a>]';
+		}
+		else
+		{
+			document.getElementById('commdesc'+id).style.display = 'none';
+			document.getElementById('commbut'+id).innerHTML = 'Below Threshold [<a href="javascript:dispcomment('+id+',true,1);">Show Comment</a>]';
+		}
+	}
+}
+
+function openWindow(theURL,winName,features) 
+{
+	window.open(theURL,winName,features);
+}
+
+function comreply(id,nickname)
+{
+	if(1 == 0)
+	{
+		alert('Please login before replying');
+		return;
+	}
+
+	document.getElementById('creply').style.display = '';
+	document.getElementById('replynick').innerHTML = nickname;
+	document.getElementById('parentid').value = id;
+}
+
+function replycancel()
+{
+	document.getElementById('creply').style.display = 'none';
+	document.getElementById('replynick').innerHTML = '';
+	document.getElementById('parentid').value = '0';
+}
+
+</script>
+
+
+<style type="text/css">
+<!--
+.topic-nav{
+	float: left;
+	vertical-align: middle;
+	padding: 0px 7px 0px 18px;
+}
+.footer-font
+	{
+	color:#FFFFFF;
+	font-size:14px;
+	padding-bottom:5px;
+	}
+.footer-font a:link {
+	text-decoration: none;
+	color:#FFFF66;
+}
+.footer-font a:hover {
+	text-decoration: underline;
+	color:#000000;
+}
+.footer-font a:visited {
+	text-decoration: none;
+	color:#FFFF66;
+}
+.digbox0
+{
+	background-image:url("http://supfella.com/templates/simple/images/digg_back_0.jpg");
+}
+
+.digbox1
+{
+	background-image:url("http://supfella.com/templates/simple/images/digg_back_1.jpg");
+}
+
+.auto-style1 {
+	background-image: url('images/top-adv.jpg');
+}
+.auto-style3 {
+	background-image: url('images/top-adv_r1_c3.jpg');
+}
+#tabsB a 
+{
+	float:left;
+	background:url("http://supfella.com/templates/simple/images/tableftB.gif") no-repeat left top;
+	margin:0;	
+	padding:0 0 0 4px;
+	text-decoration:none;
+}
+#tabsB a span 
+{
+	float:left;
+	display:block;
+	background:url("http://supfella.com/templates/simple/images/tabrightB.gif") no-repeat right top;
+	padding:5px 15px 4px 6px;
+	color:#666;
+}
+.titlex a{
+	font-size:16px;
+	color:#7c852e;
+	font-weight: bold;
+}
+
+
+-->
+</style>
+</head>
+
+<body style="margin-top: 0px; margin-bottom: 0px;">
+
+<table border="0" width="100%" cellspacing="0" cellpadding="0" id="table1" height="6%">
+	<tbody><tr>
+		<td width="13" background="images/l-side.jpg">&nbsp;</td>
+		<td>
+		<!-- Wrapper Starts -->
+			
+
+<table cellpadding="0" cellspacing="0" align="left" style="width: 100%;"><tbody><tr>
+	<td colspan="2">
+	<table width="100%" border="0" align="left" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+	<td height="66" valign="top">
+   	
+   	
+<table border="0" width="100%" height="66px" cellspacing="0" cellpadding="0" id="table1">
+	<tbody><tr>
+		<td rowspan="2" width="129">
+		<a href="http://www.supfella.com">
+		<img border="0" src="images/top1_r1_c1.jpg" width="129" height="66" alt="Social Bookmarking"></a></td>
+		<td colspan="7" height="29" align="center">
+		<img border="0" src="images/blinking_dot.gif" width="15" height="15"><b><font style="font-size: 11pt">Save 
+		&amp; Share Your Bookmarks With World</font></b><img border="0" src="images/blinking_dot.gif" width="15" height="15"><img border="0" src="images/header-spacer.jpg" width="129" height="1"></td>
+	</tr>
+	<tr>
+		<td width="100%" background="images/Untitled-6_r2_c4.jpg">
+		&nbsp;</td>
+		<td width="91px">
+		<a href="http://www.supfella.com"><img border="0" src="images/home.jpg" width="91" height="37"></a></td>
+		<td width="91px">
+
+<a href="login.php"><img border="0" src="images/top1_r2_c2.jpg" width="91" height="37"></a><br>
+
+		</td>
+		<td width="91px">
+<a href="signup.php"><img border="0" src="images/top1_r2_c3.jpg" width="91" height="37"></a>
+
+		</td>
+		<td width="212px">
+		<a href="http://www.supfella.com/add_story.php"><img border="0" src="images/top1_r2_c4.jpg" width="212" height="37"></a>
+		</td>
+		<td width="212px">
+		<table border="0" width="212px" cellspacing="0" cellpadding="0" id="table2" height="37">
+			<tbody><tr>
+				<td width="212px" background="images/top1_r2_c4_1.jpg" style="padding-left: 30px"><b><font color="#FFFFFF">2135</font></b></td>
+			</tr>
+		</tbody></table>
+		</td>
+		<td width="292px">
+		<table border="0" width="238" cellspacing="0" cellpadding="0" id="table3" height="37">
+			<tbody><tr>
+				<td background="images/top1_r2_c5.jpg" width="238" style="padding-left: 10px;">
+	<form name="form1" method="get" action="http://www.supfella.com/search.php" style="padding:0px;margin:0px;">
+    <input class="text" name="q" type="text" id="q" onfocus="inclickcheck(this,'Search','');" onblur="inclickcheck(this,'','Search');" value="Search" style="border: 0px; outline: none; padding-left: 4px; padding-right: 4px; padding-top: 1px; padding-bottom: 1px" size="20">
+	</form></td>
+	<td width="54">
+	<input type="image" src="images/top1_r2_c5_r1_c2.jpg" width="54" height="37">
+    
+				</td>
+			</tr>
+		</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+   	
+   	
+   	
+   	
+   	
+   	
+   	
+   	</td>
+    </tr></tbody></table></td></tr>
+	<tr>
+	<td colspan="2">
+	<table width="100%" border="0" align="left" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+    <td width="8"><img src="http://www.supfella.com/templates/simple/images/anounce_left.gif" width="8" height="32"></td>
+    <td background="http://www.supfella.com/templates/simple/images/anounce_back.gif" style="vertical-align: middle;" align="center">
+	<table border="0px" width="950px" cellspacing="0" cellpadding="0" id="table3" align="center">
+	<tbody><tr>
+	<td>
+
+
+<li class="topic-nav" style="list-style: none;"><a href="http://www.supfella.com/index.php"><b>Top Bookmark</b></a></li>
+
+
+<li class="topic-nav" style="list-style: none;"><a href="http://www.supfella.com/cat.php?id=6"><b>Business</b></a></li>
+
+
+<li class="topic-nav" style="list-style: none;"><a href="http://www.supfella.com/cat.php?id=7"><b>Entertainment</b></a></li>
+
+
+<li class="topic-nav" style="list-style: none;"><a href="http://www.supfella.com/cat.php?id=2"><b>Gaming</b></a></li>
+
+
+<li class="topic-nav" style="list-style: none;"><a href="http://www.supfella.com/cat.php?id=4"><b>Lifestyle</b></a></li>
+
+
+<li class="topic-nav" style="list-style: none;"><a href="http://www.supfella.com/cat.php?id=1"><b>Offbeat</b></a></li>
+
+
+<li class="topic-nav" style="list-style: none;"><a href="http://www.supfella.com/cat.php?id=5"><b>Politics</b></a></li>
+
+
+<li class="topic-nav" style="list-style: none;"><a href="http://www.supfella.com/cat.php?id=3"><b>Science</b></a></li>
+
+
+<li class="topic-nav" style="list-style: none;"><a href="http://www.supfella.com/cat.php?id=8"><b>Sports</b></a></li>
+
+
+<li class="topic-nav" style="list-style: none;"><a href="http://www.supfella.com/cat.php?id=9"><b>Technology</b></a></li>
+
+
+<li class="topic-nav" style="list-style: none;"><a href="http://www.supfella.com/cat.php?id=10"><b>World News</b></a></li>
+
+	</td></tr></tbody></table></td>
+    <td width="8"><img src="http://www.supfella.com/templates/simple/images/anounce_right.gif" width="8" height="32"></td>
+	</tr></tbody></table></td></tr>
+	</tbody></table>
+<br>&nbsp;<br>
+
+
+
+<table width="100%" border="0" align="left" cellpadding="0" cellspacing="0"><tbody><tr>
+    <td width="180px" valign="top" align="left">
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-6003956958323605";
+/* 160x600, created 11/23/10 */
+google_ad_slot = "1311113908";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+
+</script>
+	  <br>
+    <br></td>
+    <td valign="top">
+  	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  	<tbody><tr><td>
+	<p align="justify">Your privacy is very important to us. Accordingly, we have 
+	developed this Policy in order for you to understand how we collect, use, 
+	communicate and disclose and make use of personal information. The following 
+	outlines our privacy policy.</p>
+	<ul>
+		<li>
+		<p align="justify">Before or at the time of collecting personal information, we will 
+		identify the purposes for which information is being collected.</p></li>
+		<li>
+		<p align="justify">We will collect and use of personal information solely with the 
+		objective of fulfilling those purposes specified by us and for other 
+		compatible purposes, unless we obtain the consent of the individual 
+		concerned or as required by law.</p></li>
+		<li>We will only retain personal information as long as necessary for 
+		the fulfillment of those purposes.</li>
+		<li>
+		<p align="justify">We will collect personal information by lawful and fair means and, 
+		where appropriate, with the knowledge or consent of the individual 
+		concerned.</p></li>
+		<li>
+		<p align="justify">Personal data should be relevant to the purposes for which it is to 
+		be used, and, to the extent necessary for those purposes, should be 
+		accurate, complete, and up-to-date.</p></li>
+		<li>
+		<p align="justify">We will protect personal information by reasonable security 
+		safeguards against loss or theft, as well as unauthorized access, 
+		disclosure, copying, use or modification.</p></li>
+		<li>
+		<p align="justify">We will make readily available to customers information about our 
+		policies and practices relating to the management of personal 
+		information.</p></li>
+	</ul>
+	<p align="justify">We are committed to conducting our business in accordance with these 
+	principles in order to ensure that the confidentiality of personal 
+	information is protected and maintained.</p></td>
+</tr>
+</tbody></table>
+    </td><td valign="top" width="180px" align="right"><script type="text/javascript"><!--
+google_ad_client = "pub-6003956958323605";
+/* 160x600, created 11/23/10 */
+google_ad_slot = "1311113908";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+
+</script></td>
+  </tr>
+</tbody></table>
+<br>
+<br>&nbsp;<br>
+
+
+	<table border="0" width="100%" cellspacing="0" cellpadding="0" id="table1" height="176">
+		<tbody><tr>
+			<td class="footer-font" align="center" valign="bottom" style="float: center; clear: both;" background="images/bottom-bg-2.jpg"> 
+			Copyright 2011 <a href="http://www.supfella.com">Social Bookmarking</a> | All rights reserved. | 
+			<a href="http://www.supfella.com/terms-of-use.php">Terms of Use</a> |
+			<a href="http://www.supfella.com/privacy-policy.php">Privacy Policy</a> 
+			| <a href="http://www.supfella.com/sitemap.xml">Site Map</a> |
+			<a href="http://www.supfella.com/contact-us.php">Contact Us</a></td>
+		</tr>
+	</tbody></table>
+
+		
+		<!-- Wrapper Ends -->
+		</td>
+		<td width="13" background="images/r-side.jpg">&nbsp;</td>
+	</tr>
+</tbody></table>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-16369506-5']);
+  _gaq.push(['_setDomainName', 'supfella.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</body></html>
