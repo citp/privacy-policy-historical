@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leanhybridmuscle.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007113400id_/http%3A//leanhybridmuscle.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leanhybridmuscle.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505033239id_/http%3A//leanhybridmuscle.com/privacy.html) for the most accurate reproduction.*
 
 # Lean Hybrid Muscle Building - Burn Fat Build Muscle
 
