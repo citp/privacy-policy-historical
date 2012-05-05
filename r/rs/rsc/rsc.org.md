@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rsc.org privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111062006id_/http%3A//www.rsc.org/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsc.org privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505073850id_/http%3A//www.rsc.org/help/privacy.asp) for the most accurate reproduction.*
 
 # Privacy
 
@@ -97,3 +97,5 @@ The RSC links to other sites in order to provide you with additional useful info
 
   
 
+
+This is a list of the main cookies set by the RSC websites, with an explanation about each
