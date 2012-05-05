@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asknumbers.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228055431id_/http%3A//www.asknumbers.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asknumbers.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505050348id_/http%3A//asknumbers.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use
 
@@ -30,4 +30,4 @@ Although all the precautions have been taken in the preparation of these metric 
 
 Users should independently verify the accuracy, currency, completeness and relevance of the material on this site, or information contained in it. In particular, users should seek independent professional advice before making any investment or business decisions. If you find an error, please report it to us so we will correct it as soon as possible. 
 
-No part of these conversion, information pages and tables shall be reproduced, stored or transmitted by any means, without prior written permission from the publisher. 
+No part of these conversion, information pages and tables shall be reproduced, stored or transmitted by any means, without prior written permission from the publisher.
