@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mredllc.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101162151id_/http%3A//www.mredllc.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mredllc.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505044058id_/http%3A//www.mredllc.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Midwest Real Estate Data LLC
 
