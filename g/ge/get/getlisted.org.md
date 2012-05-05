@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the getlisted.org privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206000454id_/http%3A//getlisted.org/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getlisted.org privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505085703id_/http%3A//getlisted.org/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | GetListed.org
 
-_Effective January 19, 2009_
+_Effective January 6, 2012  
+_View [Original Privacy Policy](http://getlisted.org/Privacy_2009.aspx) / Updates are _italicized_ below 
 
 **What information do we collect?**
 
@@ -13,7 +14,8 @@ _Effective January 19, 2009_
 Address   
 Phone number   
 Email Address  
-Website Address 
+Website Address  
+_IP address_
 
 
 
@@ -76,7 +78,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 [GetListed.org](http://getlisted.org/)  
-1919 NW Quimby St., Suite 402  
+_1400 NW Irving Street, Suite 111_  
 Portland, OR 97209  
 USA  
 [ask@getlisted.org](mailto:ask@getlisted.org)
