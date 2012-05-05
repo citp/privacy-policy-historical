@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the easyvoyage.co.uk privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206004323id_/http%3A//www.easyvoyage.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyvoyage.co.uk privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505065045id_/http%3A//www.easyvoyage.co.uk/privacy) for the most accurate reproduction.*
 
 # Easyvoyage newsletter
 
-  * [www.easyvoyage.com](http://www.easyvoyage.com/ "French")
-  * [www.easyvoyage.co.uk](http://www.easyvoyage.co.uk/ "English")
-  * [www.easyviajar.com](http://www.easyviajar.com/ "Spanish")
-  * [www.easyviaggio.com](http://www.easyviaggio.com/ "Italian")
-  * [www.easyvoyage.de](http://www.easyvoyage.de/ "German")
+  * [ ](http://www.facebook.com/EasyVoyageUK "Check out our Facebook page")
+  * [ ](http://twitter.com/#!/EasyVoyageUK "Follow us on Twitter")
+  * [ ](https://plus.google.com/115380534684171077578 "Connect with Easyvoyage on Google+")
+  * [ ](http://itunes.apple.com/en/app/easyvoyage/id405038585?mt=8 "Compare flight prices with our iPhone application")
 
 
   * [Home](https://web.archive.org/)
@@ -14,7 +13,7 @@
 
 
 
-##  The Easyvoyage newsletters.  
+## The Easyvoyage newsletters.
 
 Easyvoyage newsletters are published by the company EASYVOYAGE SAS - stock company with a capital of €239,250. Registered offices: 71 rue Desnouettes, 75015 Paris, France. RCS Paris B 432 123 446 and represented by the CEO Jean-Pierre Nadir.
 
@@ -22,7 +21,7 @@ The Easyvoyage newsletters contain a selection of online offers and information 
 
 Once subscribed, each user receives three offers per week via Easyvoyage newsletters.
 
-##  Easyvoyage and the protection of your personal data.  
+## Easyvoyage and the protection of your personal data.
 
 The charter aims to define, firstly, the various personal data collected from you by Easyvoyage for its newsletters, and secondly, the measures we take to protect your personal data.
 
