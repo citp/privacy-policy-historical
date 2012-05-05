@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatetrafficmachine.com privacy policy that was archived on 2011-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110220081300id_/http%3A//www.affiliatetrafficmachine.com/legal/grm-2009-privacy_b.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatetrafficmachine.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505024017id_/http%3A//www.affiliatetrafficmachine.com/legal/grm-2009-privacy_b.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,7 +46,7 @@ Special Cases:  It is our company's policy to use or share the personal informa
 
 Also, we may disclose personal information about Visitors or Members, or information regarding your use of the Services or Web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: credit agencies, collection agencies, merchant database agencies, law enforcement, or to satisfy laws, such as the Electronic Communications Privacy Act, the Child Online Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Acceptable Use Policy or Terms Of Service, or other user policies; to operate the Services properly; or to protect our company and our Members. 
 
-Notice of Compliance to California Residents – Your California Privacy Rights Under The California Online Privacy Protection Act and the California Business and Professions Code 
+Notice of Compliance to California Residents � Your California Privacy Rights Under The California Online Privacy Protection Act and the California Business and Professions Code 
 
 This privacy policy identifies the categories of personally identifiable information that our company collects through our Web site or online service, about individual consumers who use or visit our company's commercial Web site or online service and the categories of third-party persons or entities with whom our company may share that personally identifiable information.
 
@@ -96,5 +96,5 @@ Revisions to This Policy: Our company reserves the right to revise, amend, or mo
 
 Last updated: **July 2009**
 
-Copyright © 2003-2009 2020 InternetMarketingLawProducts.com  for **Guaranteed Results Marketing, LLC**  
+Copyright � 2003-2009 2020 InternetMarketingLawProducts.com  for **Guaranteed Results Marketing, LLC**  
 
