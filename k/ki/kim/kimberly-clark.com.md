@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kimberly-clark.com privacy policy that was archived on 2011-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111017121840id_/http%3A//www.kimberly-clark.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kimberly-clark.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505120538id_/http%3A//www.kimberly-clark.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Kimberly-Clark | Privacy Policy
 
