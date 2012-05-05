@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stellaservice.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201185200id_/http%3A//www.stellaservice.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stellaservice.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505065519id_/http%3A//www.stellaservice.com/policy) for the most accurate reproduction.*
 
 # About Us
 
@@ -112,7 +112,7 @@ Only authorized employees have access to the information you provide us. For exa
 
 If you have questions about this privacy policy or the practices of this site, please contact:
 
-STELLAService 27 West 20th Street Suite 400 New York, NY 10011 (866) 876-6322 privacy@stellaservice.com
+STELLAService 27 West 20th Street Suite 400 New York, NY 10011 (212) 366-1483 privacy@stellaservice.com
 
   
 
