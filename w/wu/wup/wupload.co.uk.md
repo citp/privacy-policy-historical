@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wupload.co.uk privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008055140id_/http%3A//www.wupload.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wupload.co.uk privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505124757id_/http%3A//www.wupload.com/privacy-policy) for the most accurate reproduction.*
 
 # Wupload, ultimate file hosting.
 
