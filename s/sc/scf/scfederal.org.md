@@ -1,67 +1,112 @@
-> *The following text is extracted and transformed from the scfederal.org privacy policy that was archived on 2006-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061005033156id_/http%3A//scfederal.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scfederal.org privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505063301id_/https%3A//www.scfederal.org/Privacy-Notice-5-11) for the most accurate reproduction.*
 
-# Your Privacy Matters
+# South Carolina Federal Credit Union - for all your financial and banking needs
 
-Dear Member:
+[](https://web.archive.org/Home/Personal-Banking/Checking.aspx)
 
-You have entrusted us with your personal information. We know that the privacy and security of that information is top priority for you. At S.C. Federal, it’s top priority for us, too. That’s why we never sell or share information — on current or previous members — with non-affiliated organizations. We have strict policies and controls governing employee access to information. We also use the latest technology to secure our online and electronic channels. A more detailed description of the information we collect, how we handle that information, and the precautions we take are addressed below. 
+### Privacy Notice
 
-We’re honored that you have chosen us as your financial institution, and we are committed to maintaining the privacy and security of the information with which you have entrusted us.
+ Rev. 5/11
 
-Sincerely,  
-R. Scott Woods, CPA  
-President and CEO 
+FACTS  | WHAT DOES SOUTH CAROLINA FEDERAL CREDIT UNION DO WITH YOUR PERSONAL INFORMATION?   
+---|---  
+**Why?** | Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.  
+**What?** | The types of personal information we collect and share depend on the product or service you have with us. This information can include: 
 
-**_June 30, 2005_**
+  * Social Security number and credit card or other debt 
+  * credit history and employment information 
+  * payment history and transaction or loss history 
 
-We only collect information about you for lawful business purposes, or as otherwise required by law, including:
+  
+**How?** | All financial companies need to share members’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their members’ personal information; the reasons South Carolina Federal chooses to share; and whether you can limit this sharing.  
+  
+**Reasons we can share your personal information** | **Does South Carolina Federal share?** | **Can you limit this sharing?**  
+---|---|---  
+**For our everyday business purposes –** such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or to report to credit bureaus  | Yes | No  
+**For our marketing purposes –** to offer our products and services to you  | Yes | No  
+**For joint marketing with other financial companies** | Yes | No  
+**For our affiliates’ everyday business purposes –** information about your transactions and experiences  | Yes | No  
+**For our affiliates’ everyday business purposes –** information about your creditworthiness  | No | We don't share  
+**For our affiliates to market to you** | Yes | Yes  
+**For nonaffiliates to market to you** | No | We don't share  
+  
+**To limit our sharing** | 
 
-  * Information we receive on applications or other information you provide to us
-  * Information about your identity, such as name, address, social security number and driver’s license number
-  * Information about member transactions with us, our affiliates, or others
-  * Information we receive from consumer reporting agencies
-  * Certain information when you visit our website or e-mail us:
+  * Call 843-797-8300 **(Charleston)** or 800-845-0432 **(Nationwide)**
+  * Visit us online at scfederal.org 
 
+  
+**Please note:** If you are a new member, we can begin sharing your information 30 days from the date we sent this notice. When you are no longer our member, we continue to share your information as described in this notice. However, you can contact us at any time to limit our sharing.   
+---|---  
+  
+**Questions?** | Call 843-797-8300 **(Charleston)** or 800-845-0432 **(Nationwide)** or visit us online at scfederal.org  
+---|---  
+  
+**What we do**    
+---  
+**How does South Carolina Federal protect my personal information?** | To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.  
+**How does South Carolina Federal collect my personal information?** | 
 
+We collect your personal information, for example, when you 
 
-> a. **Website Information.** When you visit our website, our server automatically collects non-identifying information in the aggregate, such as: (1) date and time our site was accessed; (2) domain name and IP address (for example, “aol.com” or “ncua.gov”); (3) web browser used; (4) pages accessed; and (5) city, state and country. This information is used to find out how many people visit our site. This information helps us continually evaluate our website usage and improve our online services.
-> 
-> b. **E-Mail.** When you send us an e-mail, we maintain the e-mail address to respond to questions or comments, or to send information and offers regarding the credit union’s services.
-> 
-> c. **Cookies.*** Unlike some companies and organizations, we do not use cookies to collect personal information, information to determine who you are, or your e-mail address. Cookies collected by us do not read data off your hard drive and do not read cookie files created by another website. For your protection, we use cookies for security purposes with online transactions and web-based applications and communications; therefore, you must accept cookies to conduct these activities. You can access our website at any time without accepting a cookie, however.
-> 
-> _*A “cookie” is a small file of information that a website creates when you visit the site._
-
-**Categories of Information We Disclose**
-
-We may share information with affiliated third parties that perform marketing services on our behalf, or to other institutions with whom we have joint marketing agreements. In all such instances, we will only provide information to parties that meet our strict security and privacy standards and agree — in writing — to hold all member information confidential. We do not permit these companies to sell our member information to other third parties. To conduct the business of the credit union, we may also disclose nonpublic personal information about you under other circumstances as permitted or required by law. These disclosures typically include information to process transactions on your behalf, conduct the operations of our credit union, follow your instructions as you authorize, or protect the security of your financial records.
-
-We have substantial security measures in place to protect against the loss, misuse, or alteration of information that is under our control. We also use the latest firewall and encryption technologies to protect individual identifying information transmitted over the Internet.
-
-_NOTE: Regular, non-encrypted e-mail is not secure. Accordingly, we encourage you to exercise caution regarding any e-mails that are sent through your e-mail service. We provide a direct, secure e-mail function on our website for inquiries, which include your personal information._
-
- **Our Employees' Access to Member Information.** Employees’ access is restricted to their need to know such information for business reasons. All employees are trained to respect member privacy, and those who violate our Privacy Policies are subject to disciplinary action.
-
-**Links to Third Party Websites.** Our website may contain links to third-party websites. We provide these links as a service. We are not affiliated with or an agent of any third-party websites that are linked to our website. We want you to know that when you link to a third-party website, you leave our website, and we are not responsible for the privacy practices of that site. We encourage you to read the privacy policies of any website you access, especially if individual identifying information is being collected.
-
-Protecting children’s identities and their privacy online is a major concern for us at S.C. Federal. We recognize that protecting children is the responsibility of both the online industry and parents. We do not solicit data from or market to children. However, we may, on occasion, promote children’s products, such as the Clown Club account, or sponsor events for children. In these instances, we may collect information as outlined in the preceding sections.
-
-**How You Can Help Protect Your Privacy**
-
-Following are some simple ways you can help protect your identity and your private information:
-
-  * Protect your account numbers, card numbers, PINs (personal identification numbers) and passwords. Never keep your PIN with, or write your PIN on, your debit or credit card.
-  * Use caution when disclosing your account numbers, social security numbers, etc. to other persons.
-  * Never disclose an account number, social security number or other private information to someone who calls or emails you to request it, even if that person claims to be with S.C. Federal (or another organization where you have an account). Remember, we already have that information in our files, so we would never contact you to get it.
-  * If your address, phone number or name changes, please let us know immediately so we can update our records. That will help ensure our ability to stop unauthorized or fraudulent activity on your accounts, and will allow us to contact you immediately if we suspect that such activity has occurred.
+  * open an account or apply for a loan 
+  * show your government-issued ID or give us your employment information 
+  * give us your wage statements 
 
 
 
-_If you have questions concerning this notice, please do not hesitate to call us. Serving you is our top priority._
+We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.    
+  
+**Why can’t I limit all sharing?** | 
 
-797-8300 in Charleston  
-787-3626 in Columbia  
-546-8688 in Georgetown  
-1-800-845-0432 outside Charleston
+Federal law gives you the right to limit only 
 
-**www.scfederal.org**
+  * sharing for affiliates’ everyday business purposes – information about your creditworthiness 
+  * affiliates from using your information to market to you 
+  * sharing for nonaffiliates to market to you 
+
+
+
+State law and individual companies may give you additional rights to limit sharing.    
+  
+**What happens when I limit sharing for an account I hold jointly with someone else?** | Your choices will apply to everyone on your account.  
+  
+**Definitions**    
+---  
+**Affiliates** | 
+
+Companies related by common ownership or control. They can be financial and nonfinancial companies. 
+
+  * _Our affiliates include financial companies, such as PSCU Financial Services and CO-OP Financial Services_
+
+  
+**Nonaffiliates** | 
+
+Companies not related by common ownership or control. They can be financial and nonfinancial companies. 
+
+  * _South Carolina Federal does not share with our nonaffiliates so they can market to you_
+
+  
+**Joint Marketing** | 
+
+A formal agreement between nonaffiliated financial companies that together market financial products or services to you. 
+
+  * _Our joint marketing partners include CUNA Mutual Group's MEMBERCONNECT and financial advisors_
+
+  
+  
+**Other important information**  
+---  
+                                                                              
+  
+**Online Banking Enrollment**
+
+Enrolling in Online Banking is simple and FREE:
+
+  1. Enter your **User ID**
+  2. Enter Phone Banking PIN as your **Password**
+  3. Click on the **LOG IN** button
+
+
+
+If you don't know your Phone Banking PIN, please contact us at 843.797.8300 **(Charleston)** or 800.845.0432 **(Nationwide)**.
