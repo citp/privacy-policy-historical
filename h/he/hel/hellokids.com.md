@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the hellokids.com privacy policy that was archived on 2009-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090209030607id_/http%3A//www.hellokids.com/c_1956/appendix-pages/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellokids.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505032056id_/http%3A//www.hellokids.com/c_1956/footer/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Footer / Appendix pages
+# Privacy Policy - Footer
 
-Website WWW.HELLOKIDS.COM is published by the company COBALINK, 227 rue Jean Jaurès, 83000 Toulon. This last one is declared with the CNIL under N 697375.
+**COBALINK PRIVACY POLICY for Hellokids.com  
+**
 
 The Internet is an amazing tool. It has the power to change the way we live, and we're starting to see that potential today. With only a few mouse-clicks, you can follow the news, look up facts and communicate with others from around the world. It's important to COBALINK to help our customers retain their privacy when they take advantage of all the Internet has to offer. 
 
@@ -26,7 +27,13 @@ If you choose not to register or provide personal information, you can still use
 
 If you decide to register, you will be able to select the kinds of information you want to receive from us by subscribing to various services. If you do not want us to communicate with you about other offers regarding COBALINK programs, events, or services by e-mail, you may select the option stating that you do not wish to receive marketing messages from COBALINK. 
 
-COBALINK occasionally allows other companies to offer our registered customers information about their products and services, using email only. If you do not want to receive these offers, you may select the option stating that you do not wish to receive marketing materials from third parties. 
+COBALINK occasionally allows other companies to offer our registered customers information about their products and services, using email only. If you do not want to receive these offers, you may select the option stating that you do not wish to receive marketing materials from third parties.
+
+ **ADVERTISING**
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
+
+The link for “click here” is [www.networkadvertising.org](http://www.networkadvertising.org/).
 
 **ACCESS**
 
@@ -68,3 +75,5 @@ Even if we try hard to publish all the children's productions, Hello kids, reser
 When your child joins us, he/she provides us with personal information, including name and email address. 
 
 COBALINK will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on COBALINK or the site; (b) protect and defend the rights or property of COBALINK and its family of Web sites, and, (c) act in urgent circumstances to protect the personal safety of users of COBALINK, its Web sites, or the public.
+
+Website WWW.HELLOKIDS.COM is published by the company COBALINK, 227 rue Jean Jaurès, 83000 Toulon. This last one is declared with the CNIL under N 697375.
