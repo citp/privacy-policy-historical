@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the mansionpoker.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102154441id_/http%3A//www.mansionpoker.com/security-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mansionpoker.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505030142id_/http%3A//www.mansionpoker.com/security-and-privacy) for the most accurate reproduction.*
 
 # Online Poker - Security & Privacy | Play Poker Online at MansionPoker.com – Online Poker
 
 ####  Legal Quick Links
 
-  * [Terms and Conditions](https://web.archive.org/web/20111102154441id_/http%3A//www.mansionpoker.com/terms-and-conditions)
-  * [Privacy Policy](https://web.archive.org/web/20111102154441id_/http%3A//www.mansionpoker.com/security-and-privacy)
-  * [Withdrawal Policy](https://web.archive.org/web/20111102154441id_/http%3A//www.mansionpoker.com/withdrawal-policy)
-  * [Disclaimer](https://web.archive.org/web/20111102154441id_/http%3A//www.mansionpoker.com/disclaimer)
+  * [Terms and Conditions](https://web.archive.org/web/20120505030142id_/http%3A//www.mansionpoker.com/terms-and-conditions)
+  * [Privacy Policy](https://web.archive.org/web/20120505030142id_/http%3A//www.mansionpoker.com/security-and-privacy)
+  * [Withdrawal Policy](https://web.archive.org/web/20120505030142id_/http%3A//www.mansionpoker.com/withdrawal-policy)
+  * [Disclaimer](https://web.archive.org/web/20120505030142id_/http%3A//www.mansionpoker.com/disclaimer)
 
 
 
@@ -15,7 +15,7 @@
 
 **Introduction**
 
-MANSIONPOKER.COM is a duly authorised branded casino of Mansion Online Casino Limited, (referred to as "MANSIONPOKER.COM", "we", "our" or "us" as the context requires). We are incorporated in Gibraltar and duly licensed to provide online casino services in and from Gibraltar, (collectively referred to as "the Group").
+MANSIONPOKER.COM is a duly authorised branded casino of Mansion Online Casino Limited, (referred to as "MANSIONPOKER.COM", "we", "our" or "us" as the context requires). We are incorporated in Gibraltar and duly licensed to provide online casino services in and from Gibraltar in conjunction with and/or as well as other companies under the same ownership also involved in providing similar or complementary services, (collectively referred to as "the Group").
 
 We have provided this privacy policy to help you understand how we collect, use and safeguard your information for the purpose of operating our online casino and poker services. You should read this notice in conjunction with our terms and conditions for use of this site or any other sites operated by us.
 
@@ -46,7 +46,7 @@ We ensure that your information will not be disclosed to government institutions
 
 
 
-In addition, we reserve the right to disclose and transfer your personal data to our respective payment settlement service providers and financial institutions to the extent necessary for the completion of payments for services provided through our website.
+In addition, we reserve the right to disclose and transfer your personal data to our respective payment settlement service providers and financial institutions to the extent necessary for the completion of payments for services provided through our website. We may also permit selected third parties to use such data, to provide you with information about related services which may be of interest to you and we or they may contact you about these.
 
 **Security**
 
