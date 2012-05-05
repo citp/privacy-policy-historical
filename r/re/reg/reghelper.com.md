@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reghelper.com privacy policy that was archived on 2011-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110722115609id_/http%3A//www.reghelper.com/rh/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reghelper.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505022408id_/http%3A//www.reghelper.com/rh/privacy.asp) for the most accurate reproduction.*
 
 # Registry Helper From SafeApp Software, LLC - Detects And Deletes Invalid Entries In Your Computer's Registry
 
@@ -101,7 +101,7 @@ We welcome your questions and/or suggestions about our Privacy Policy. **12. _Re
 
 Safe
 
- _App_ Software reserves the right to revise, amend or modify this Privacy Policy at any time and in any manner. If our information practices change at some time in the future, we will post the policy changes to our Site to notify you of these changes. Where practicable, we will provide you with the ability to opt-out of these new uses. Please check this Privacy Policy periodically to inform yourself of any changes. By accessing the Site or using the Software after modification of the Privacy Policy, you agree to be bound by this Privacy Policy as modified. The last date this Privacy Policy was revised is set forth above. © 2007-2011 Safe _App_ Software, LLC. All rights reserved.
+ _App_ Software reserves the right to revise, amend or modify this Privacy Policy at any time and in any manner. If our information practices change at some time in the future, we will post the policy changes to our Site to notify you of these changes. Where practicable, we will provide you with the ability to opt-out of these new uses. Please check this Privacy Policy periodically to inform yourself of any changes. By accessing the Site or using the Software after modification of the Privacy Policy, you agree to be bound by this Privacy Policy as modified. The last date this Privacy Policy was revised is set forth above. © 2007-2012 Safe _App_ Software, LLC. All rights reserved.
 
   
 
