@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frugalnewenglandkitchen.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223111404id_/http%3A//frugalnewenglandkitchen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frugalnewenglandkitchen.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505101821id_/http%3A//frugalnewenglandkitchen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Frugal New England Kitchen
 
@@ -6,7 +6,7 @@ Effective Date: December 15, 2007
 
 **PRIVACY STATEMENT**
 
-Your privacy is important to [Frugal](http://frugalnewenglandkitchen.com/recommends/Coupon_Clutch/) New England [Kitchen](http://frugalnewenglandkitchen.com/recommends/Stonewall/). This privacy statement provides information about the personal information that [Frugal](http://frugalnewenglandkitchen.com/recommends/Save_At_Home_Mommy_Coupon_Binder/) New England Kitchen collects, and the ways in which [Frugal](http://frugalnewenglandkitchen.com/recommends/Coupon_Clutch/) New England Kitchen uses that personal information.
+Your privacy is important to [Frugal](http://frugalnewenglandkitchen.com/recommends/Coupon_Clutch/) New England [Kitchen](http://frugalnewenglandkitchen.com/recommends/Stonewall/). This privacy statement provides information about the personal information that [Frugal](http://frugalnewenglandkitchen.com/recommends/Save_At_Home_Mommy_Coupon_Binder/) New England Kitchen collects, and the ways in which Frugal New England Kitchen uses that personal information.
 
 **Comment Policy:**
 
@@ -86,7 +86,7 @@ You agree to such cross-border transfers of personal information.
 
 **Updating this statement**
 
-Frugal New England Kitchen may update this privacy policy by posting a new version on this website.
+Frugal New England Kitchen may [update](http://frugalnewenglandkitchen.com/recommends/Altard/) this privacy policy by posting a new version on this website.
 
 You should check this page occasionally to ensure you are familiar with any changes.
 
