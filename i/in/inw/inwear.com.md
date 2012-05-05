@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inwear.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121224953id_/http%3A//www.inwear.com/DK/popup/privacy-statement/%3FNYRO_WIDTH%3D550%26NYRO_HEIGHT%3D380%26partner%3D5343) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inwear.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505101823id_/http%3A//www.inwear.com/popup/%3Fpage%3Dprivacy_statement%26NYRO_WIDTH%3D550%26NYRO_HEIGHT%3D380) for the most accurate reproduction.*
 
 # Privacy Policy - InWear
 
@@ -89,7 +89,7 @@ Our website may contain links to other websites which are outside our control an
 
 ## Any questions?
 
-We are always happy to hear from you and welcome any questions, comments and concerns about privacy. Please visit the [Contact Us](http://www.inwear.com/dk/tickets/new/?partner=5343) page.
+We are always happy to hear from you and welcome any questions, comments and concerns about privacy. Please visit the [Contact Us](http://www.inwear.com/dk/tickets/new/) page.
 
 Or write to us:  
 InWear  
