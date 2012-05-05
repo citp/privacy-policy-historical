@@ -1,7 +1,9 @@
-<!--The following is the downloaded HTML source of the britainexpress.com privacy policy that was archived on 2011-10-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111007031926id_/http%3A//www.britainexpress.com/Privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the britainexpress.com privacy policy that was archived on 2012-05-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120505031140id_/http%3A//www.britainexpress.com/Privacy.htm) for the most accurate reproduction.-->
 
-<html><head><title>Britain Express Privacy Policy</title><meta name="Description" content="Britain Express privacy policy details"><meta name="Keywords" content="uk hotels accommodation directory united kingdom england hotels london uk hotel accommodation england scotland wales hotels"><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><link href="/styles/london-hotels3.css" rel="stylesheet" type="text/css">
+<html><head><title>Britain Express Privacy Policy</title>
+<meta name="Description" content="Privacy policy detail for Britain Express, the UK Travel and heritage guide">
+<meta name="Keywords" content="uk hotels accommodation directory united kingdom england hotels london uk hotel accommodation england scotland wales hotels"><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><link href="/styles/london-hotels3.css" rel="stylesheet" type="text/css">
 </head><body bgcolor="#ffffff" link="#000000" vlink="#003366" alink="#990000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 <table cellspacing="0" cellpadding="0" width="100%" border="0"><tbody><tr><td height="41" colspan="2"><img height="44" src="/Bookstore/transparent.gif" width="5" alt="spacer"><a href="/index.htm"><img src="/images/pr3/logo3.gif" border="0" width="107" height="37" vspace="5" alt="UK Hotel accommodation guide. Instant confirmed bookings. Hotel accommodation in the UK, England, Scotland, Wales, and London."></a></td><td height="41" width="63%"><div align="left"><span class="bold-small"><b> 
           Hotel Accommodation UK</b></span></div></td><td height="41" width="17%"><div align="right"><b><a href="/search2.htm"><img src="/images/PR/search5.gif" alt="Search Britain Express for travel information and hotels in the UK" width="58" height="25" hspace="10" vspace="5" border="0"></a></b></div></td></tr><tr bgcolor="#990000"><td colspan="4" height="2"><img src="/Bookstore/transparent.gif" width="1" height="4"></td></tr><tr bgcolor="#003366">
@@ -133,8 +135,8 @@ google_ad_height = 600;
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>      </td>
-      <td width="50" height="953">&nbsp;<img src="/transparent.gif" width="5" height="1">&nbsp;</td>
-      <td valign="top" width="1068" height="953"> 
+      <td width="35" height="953">&nbsp;<img src="/transparent.gif" width="5" height="1">&nbsp;</td>
+      <td valign="top" width="1428" height="953"> 
         <table cellspacing="0" cellpadding="0" width="100%" border="0"><tbody><tr>
               <td valign="top" height="18" colspan="2">&nbsp;</td>
             </tr><tr bgcolor="#990000"><td height="16" colspan="2" valign="top" bgcolor="#003366"><div align="center" class="content-title"></div></td></tr></tbody></table>
@@ -190,24 +192,24 @@ google_ad_height = 600;
           </li><li>visit <a href="http://www.britainexpress.com/contact-us.htm" class="blue">http://www.britainexpress.com/contact-us.htm</a> 
           </li><li>send mail to the following postal address: 
             <address>
-            Britain Express, Ryecroft House, Glebe Farm, Little Risssington, Cheltenham, 
-            Gloucestershire, GL54 2ND 
+            Britain Express, 12 Sopwith Road, Upper Risssington, Cheltenham, 
+            Gloucestershire, GL54 2NS
             </address>
         </li></ul>
         <p class="site-location">Contacting Britain Express </p>
         <p>If you have any questions about this privacy statement, the practices 
           of this site, or your dealings with Britain Express, you can contact:</p> 
         <p> Britain Express<br>
-          Ryecroft House<br>
-          Glebe Farm<br>
-          Little Risssington<br>
+          12 Sopwith Road<br>
+          Upper Risssington<br>
           Cheltenham<br>
           Gloucestershire<br>
-          GL54 2ND 
+          GL54 2NS 
       </p></td>
-      <td width="26" height="953">&nbsp;&nbsp;</td>
-      <td valign="top" width="25"><div align="right"><br>
+      <td width="33" height="953">&nbsp;&nbsp;</td>
+      <td valign="top" width="35"><div align="right"><br>
           <div align="left"><script type="text/javascript">
+/*<![CDATA[*/
  function ajaxFunction(){
 	var ajaxRequest;  // The variable that makes Ajax possible!
 	
@@ -236,7 +238,9 @@ google_ad_height = 600;
 	$('#answer').show('slow');
 		}
 	}
-	var guess = choices.choice.options[choices.choice.selectedIndex].value;
+	var selection = document.getElementById('choice');
+	var guess = selection.options[selection.selectedIndex].value;
+	
 	var correct = document.getElementById('correct').value;
 	var image_id = document.getElementById('image_id').value;
 	
@@ -252,14 +256,14 @@ google_ad_height = 600;
 	try{
 		// Opera 8.0+, Firefox, Safari
 		monarchRequest = new XMLHttpRequest();
-	} catch (e){
+	} catch (er){
 		// Internet Explorer Browsers
 		try{
 			monarchRequest = new ActiveXObject("Msxml2.XMLHTTP");
-		} catch (e) {
+		} catch (er) {
 			try{
 				monarchRequest = new ActiveXObject("Microsoft.XMLHTTP");
-			} catch (e){
+			} catch (er){
 				// Something went wrong
 				alert("Oops, your browser does not like javascript!");
 				return false;
@@ -273,10 +277,9 @@ google_ad_height = 600;
 	$('#monarch_answer').show('slow');
 		}
 	}
-	var monarch_guess = monarchs.monarch.options[monarchs.monarch.selectedIndex].value;
-	
+	var monarchselection = document.getElementById('monarch');
+	var monarch_guess = monarchselection.options[monarchselection.selectedIndex].value;
 	var monarch_correct = document.getElementById('monarch_correct').value;
-	
 	var monarch_id = document.getElementById('monarch_id').value;
 	
 	var monarchQueryString = "?monarch_correct=" + monarch_correct + "&monarch_guess=" + monarch_guess + "&monarch_id=" + monarch_id;
@@ -292,14 +295,14 @@ google_ad_height = 600;
 	try{
 		// Opera 8.0+, Firefox, Safari
 		quizz_Request = new XMLHttpRequest();
-	} catch (e){
+	} catch (err){
 		// Internet Explorer Browsers
 		try{
 			quizz_Request = new ActiveXObject("Msxml2.XMLHTTP");
-		} catch (e) {
+		} catch (err) {
 			try{
 				quizz_Request = new ActiveXObject("Microsoft.XMLHTTP");
-			} catch (e){
+			} catch (err){
 				// Something went wrong
 				alert("Oops, your browser does not like javascript!");
 				return false;
@@ -313,7 +316,9 @@ google_ad_height = 600;
 	$('#quizz_answer').show('slow');
 		}
 	}
-	var quizz_guess = quizzes.quizz.options[quizzes.quizz.selectedIndex].value;
+	var quizzselection = document.getElementById('quizz');
+	var quizz_guess = quizzselection.options[quizzselection.selectedIndex].value;
+
 	var quizz_correct = document.getElementById('quizz_correct').value;
 	var QuizID = document.getElementById('quizz_id').value;
 		
@@ -322,10 +327,9 @@ google_ad_height = 600;
 	quizz_Request.send(null); 
 	
 	}
-	
-</script>       <link href="/styles/accordion.css" rel="stylesheet" type="text/css">
+	/*]]>*/ 
+</script>       <link href="/styles/accordion.css" rel="stylesheet" type="text/css"><div id="scriptload"></div>
 <script type="text/javascript" src="/scripts/jquery-ui/js/jquery-1.4.2.min.js"></script>
-
 <script type="text/javascript">
 $(document).ready(function(){
 	
@@ -386,25 +390,25 @@ $(".accordion div:not('#first')").hide();
 <div id="accordion" class="accordion">
     <h3 class="active">Name the Historic attraction</h3>
     <div id="first">
-<a href="/history_mystery.htm?image=245">
-<img src="/images/history/mystery/thumbs/245.jpg" alt="Name the mystery historic attraction" width="160" class="AttractionImage"></a>
+<a href="/history_mystery.htm?image=3048">
+<img src="/images/history/mystery/thumbs/3048.jpg" alt="Name the mystery historic attraction" width="160" class="AttractionImage"></a>
 <br>
-<a href="/history_mystery.htm?image=245" class="formtext-large">See larger image</a>
+<a href="/history_mystery.htm?image=3048" class="formtext-large">See larger image</a>
 <br><br>
 <form name="choices" id="choices" method="post" action="">
 
   <select id="choice" class="topnav">
     <option value="" class="topnav">Select an attraction:</option>
-        <option value="245" class="topnav">Canons Ashby</option>
-        <option value="3783" class="topnav">Lamport Hall</option>
-        <option value="678" class="topnav">Plas Newydd</option>
-        <option value="347" class="topnav">Stokesay Castle</option>
-        <option value="2404" class="topnav">Sulgrave Manor</option>
-        <option value="1247" class="topnav">Thirlestane Castle </option>
-        <option value="1248" class="topnav">Torosay Castle</option>
+        <option value="411" class="topnav">Abergavenny Castle</option>
+        <option value="3045" class="topnav">Bamburgh Castle</option>
+        <option value="3048" class="topnav">Belsay Castle</option>
+        <option value="65" class="topnav">Bodiam Castle</option>
+        <option value="3418" class="topnav">Brough Castle</option>
+        <option value="3064" class="topnav">Etal Castle</option>
+        <option value="106" class="topnav">Warkworth Castle</option>
       </select> 
-  <input type="hidden" id="correct" value="245">
-   <input type="hidden" id="image_id" value="245"><br>
+  <input type="hidden" id="correct" value="3048">
+   <input type="hidden" id="image_id" value="3048"><br>
   <input type="button" class="topnav" style="margin-top:5px" onclick="ajaxFunction()" value="Submit Answer">
 
 </form><br>
@@ -415,51 +419,51 @@ $(".accordion div:not('#first')").hide();
   <p><a href="/heritage-travel-article.htm?travel=5450">View this year's winners.</a></p>
 </div>
  <h3>British History Quiz</h3>
-  <div id="second" style="display: none;"><p>This cleric and scholar served as tutor to the young Princess Elizabeth, later Elizabeth I</p>
+  <div id="second" style="display: none;"><p>This outspoken politician was the first female to sit in the House of Commons</p>
       <form id="quizzes" name="quizzes" method="post" action="">
         <select name="quizz" id="quizz" class="topnav">
        <option value="">Select:</option>
-        <option value="Roger Ascham" class="topnav">Roger Ascham</option>
-        <option value="Roger Bacon" class="topnav">Roger Bacon</option>
-        <option value="Roger of Gaunt" class="topnav">Roger of Gaunt</option>
-        <option value="Thomas Aquinas" class="topnav">Thomas Aquinas</option>
-        <option value="Thomas Telford" class="topnav">Thomas Telford</option>
+        <option value="Margaret Thatcher" class="topnav">Margaret Thatcher</option>
+        <option value="Nancy Asher" class="topnav">Nancy Asher</option>
+        <option value="Nancy Asquith" class="topnav">Nancy Asquith</option>
+        <option value="Nancy Astor" class="topnav">Nancy Astor</option>
+        <option value="Nancy Major" class="topnav">Nancy Major</option>
       </select> 
-  <input type="hidden" id="quizz_correct" value="Roger Ascham">
-  <input type="hidden" id="quizz_id" value="16"><br>
+  <input type="hidden" id="quizz_correct" value="Nancy Astor">
+  <input type="hidden" id="quizz_id" value="22"><br>
   <input type="button" class="topnav" style="margin-top:5px" onclick="quizzAjax()" value="Submit Answer">
-        
+      
       </form><br>
    <p>&nbsp;<a href="#" id="quiz_clickclue1" class="title">Clue</a></p>
-      <div id="quiz_clue1" style="display: none"><p class="blue">He was secretary to the English ambassador at the court of Charles V, then Edward VI's secretary</p><p><a href="#" id="quiz_clickclue2" class="title">Another clue</a></p></div>
-      <div id="quiz_clue2" style="display: none"><p class="blue">His most famous work was Toxophilus (1545)</p></div>
+      <div id="quiz_clue1" style="display: none"><p class="blue">She served in Parliament from 1919-1945</p><p><a href="#" id="quiz_clickclue2" class="title">Another clue</a></p></div>
+      <div id="quiz_clue2" style="display: none"><p class="blue">She was a campaigner for temperance and women's rights - and a proponent of appeasement to deal with Nazi Germany</p></div>
     <div id="quizz_answer" style="display: none;"></div>
   </div>
  <h3>This Day in British History</h3>
     <div id="third" style="display: none;">
-      <p class="displayboxheadline">07 October, 1857</p>
-    <p class="cat-head">Day of Solemn Fast, Humiliation, and Prayer</p><p>At queen Victoria's request, a special day of services is held to mark the Indian Mutiny</p></div>
+      <p class="displayboxheadline">05 May, 1405</p>
+    <p class="cat-head">Battle of Usk</p><p>English forces led by Prince Henry defeat Owain Glyndwr's Welsh troops</p></div>
   <h3>Monarch Mayhem</h3>
-    <div id="fourth" style="display: none;"><p>This monarch was killed by a stray arrow</p>
+    <div id="fourth" style="display: none;"><p>This king's madness led to a Regency headed by his son, George (and to a popular modern film!)</p>
       <form id="monarchs" name="monarchs" method="post" action="">
         <select name="monarch" id="monarch" class="topnav">
        <option value="">Select:</option>
-        <option value="Edward I" class="topnav">Edward I</option>
-        <option value="Edward II" class="topnav">Edward II</option>
-        <option value="Edward III" class="topnav">Edward III</option>
+        <option value="Charles I" class="topnav">Charles I</option>
+        <option value="George I" class="topnav">George I</option>
+        <option value="George II" class="topnav">George II</option>
+        <option value="George III" class="topnav">George III</option>
         <option value="Henry I" class="topnav">Henry I</option>
-        <option value="Henry II" class="topnav">Henry II</option>
-        <option value="William II" class="topnav">William II</option>
-        <option value="William III" class="topnav">William III</option>
+        <option value="James I" class="topnav">James I</option>
+        <option value="James II" class="topnav">James II</option>
       </select> 
-  <input type="hidden" id="monarch_correct" value="William II">
-  <input type="hidden" id="monarch_id" value="7"><br>
+  <input type="hidden" id="monarch_correct" value="George III">
+  <input type="hidden" id="monarch_id" value="100"><br>
   <input type="button" class="topnav" style="margin-top:5px" onclick="monarchAjax()" value="Submit Answer">
-        
+      
       </form><br>
      <p>&nbsp;<a href="#" id="clickclue1" class="title">Clue</a></p>
-      <div id="clue1" style="display: none"><p class="blue">The arrow was shot by William Tyrell</p><p><a href="#" id="clickclue2" class="title">Another clue</a></p></div>
-      <div id="clue2" style="display: none"><p class="blue">The king was hunting in the New Forest</p></div>
+      <div id="clue1" style="display: none"><p class="blue">His father was George II</p><p><a href="#" id="clickclue2" class="title">Another clue</a></p></div>
+      <div id="clue2" style="display: none"><p class="blue">He was followed to the throne by George IV</p></div>
     <div id="monarch_answer" style="display: none;"></div>
     </div>
 </div><br><br>
@@ -486,50 +490,45 @@ google_ui_features = "rc:0";
   </tr>
 </tbody></table>
 <br>
+<br><table width="210" border="0" cellpadding="1" cellspacing="0" bgcolor="#003366">
+  <tbody><tr> 
+    <td><table width="100%" border="0" cellpadding="4" cellspacing="0" bgcolor="#ecece8">
+        <tbody><tr> 
+          <td bgcolor="#E0EAFF" class="BGA7C2ED">&nbsp;<span class="blue-bold-link">Car Rental</span></td>
+        </tr>
+        <tr> 
+          <td bgcolor="#FFFFFF" class="medium-black-text"> <a href="/Travel/cars/car-rental-uk.htm" class="most-popular-title"><strong>The 
+            Car Rental Centre</strong></a> <span class="formtext-large">Wholesale 
+            rates, instant quotes, from all the major car rental companies</span></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+</tbody></table>
+<br>
+
 <table width="210" border="0" cellpadding="1" cellspacing="0" bgcolor="#003366">
   <tbody><tr> 
     <td> 
       <table width="100%" border="0" cellpadding="4" cellspacing="0" bgcolor="#ecece8">
         <tbody><tr> 
           <td bgcolor="#E0EAFF" class="BGA7C2ED"> 
-           <span class="small-red">+</span><span class="bold-small">Great British Heritage Pass</span><span class="small-red">+</span>
+          <span class="cat-head"><strong>London Pass</strong></span>
           </td>
         </tr>
         <tr> 
           <td bgcolor="#FFFFFF" class="medium-black-text"> 
-            <p><a href="/gbhp.htm"><img src="/images/history/castle-s.jpg" alt="Great British Heritage Pass" width="48" height="58" hspace="4" border="0" align="left"></a> 
-              <a href="/gbhp.htm" class="searchtitle"><strong>Free entry to almost 600 top UK attractions</strong></a></p>
-            <p class="formtext-large"><strong class="site-location">Visit</strong> <span class="alternate">castles, 
-              gardens, abbeys, stately homes, Roman forts, museums, mills, historic 
-              buildings, lighthouses, townhouses, museums, windmills, nature reserves, 
-              stone circles, medieval tithe barns, industrial heritage sites, 
-              dovecotes, battlefields, tunnels, cathedrals, bridges, and royal 
-              palaces.</span> <strong class="site-location">Whew!</strong></p>
-            <p class="formtext-large">&nbsp;<a href="/gbhp.htm" class="searchtitle"><strong>Great British Heritage Pass</strong></a></p></td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-</tbody></table>
-<br>
-<table width="210" border="0" cellpadding="1" cellspacing="0" bgcolor="#CCCCCC">
-  <tbody><tr> 
-    <td> 
-      <table width="100%" border="0" cellpadding="3" cellspacing="0" bgcolor="#ecece8">
-        <tbody><tr> 
-          <td bgcolor="#FFFFCC" class="BGA7C2ED"> 
-           <span class="topnav"><strong>National Trust<br>
-           Gift Memberships</strong></span></td>
-        </tr>
-        <tr> 
-          <td bgcolor="#FFFFFF" class="medium-black-text"> 
-            <p align="center"><a href="http://nationaltrustmemberships.at/BritainExpress?CTY=1&amp;CID=16791"><img src="http://b1.perfb.com/b1.php?ID=16791&amp;PURL=nationaltrustmemberships.at/BritainExpress" border="0" alt="National Trust membership"></a><a href="http://nationaltrustmemberships.at/BritainExpress?CTY=2&amp;CID=22668"></a>
-            </p>
-            <p align="center" class="blue-bold-link"><a href="http://nationaltrustmemberships.at/BritainExpress?DURL=http://www.nationaltrust.org.uk/main/w-trust/w-support/w-jointoday/w-jointoday-categories_costs/w-jointoday-gift_membership.htm" class="searchtitle"><strong> National Trust Gift membership</strong></a></p>
-            <p class="form-text">The perfect holiday gift - Free entry to National Trust properties throughout England, Wales, and Northern Ireland, plus discounted admission to National Trust for Scotand properties </p>
-            <p class="formtext-large">Save <strong>25%</strong> on gift membership when you pay by Direct Debit</p>
-            <p align="center" class="form-text"><a href="http://nationaltrustmemberships.at/BritainExpress?DURL=http://www.nationaltrust.org.uk/main/w-trust/w-support/w-jointoday/w-jointoday-categories_costs/w-jointoday-gift_membership.htm" class="searchtitle"><strong><em>membership details</em></strong></a></p>
-            <p align="center" class="form-text"><a href="/national-trust.htm" class="searchtitle"><strong><u>more about the National Trust</u></strong></a></p></td>
+            <p><a href="/articles/Notebook/London-Pass.htm"><img src="/images/locations/big_ben2-s.jpg" alt="Great British Heritage Pass" width="64" height="96" hspace="4" border="0" align="left" class="leftimage"></a> 
+              <a href="/articles/Notebook/London-Pass.htm" class="searchtitle"><strong>Free 
+              entry to top London attractions</strong></a></p>
+            <p class="blue"><strong>Including</strong> 
+              Tower of London, St. Paul's Cathedral, Windsor 
+              Castle, London Zoo, London Dungeons,  theatre, 
+              open-top buses... and a 
+              lot more!</p>
+            <p class="blue"><span class="alphabet-heading">NOW - Save 5%</span> off All London Pass purchases - just enter Voucher Code <span class="alphabet-heading">londpas05</span> when you buy your pass</p>
+            <p align="center"><a href="/articles/Notebook/London-Pass.htm" class="searchtitle"><strong>The 
+              London Pass</strong></a></p>
+          </td>
         </tr>
       </tbody></table>
     </td>
