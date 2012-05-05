@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atmosenergy.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227052002id_/http%3A//www.atmosenergy.com/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atmosenergy.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505232634id_/http%3A//www.atmosenergy.com/about/privacy_policy.html) for the most accurate reproduction.*
 
 # Atmos Energy
 
