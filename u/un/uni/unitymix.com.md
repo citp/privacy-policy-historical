@@ -1,38 +1,13 @@
-> *The following text is extracted and transformed from the unitymix.com privacy policy that was archived on 2010-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101026074551id_/http%3A//www.unitymix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitymix.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505220412id_/http%3A//www.unitymix.com/privacy) for the most accurate reproduction.*
 
-# Your Privacy Policy
+# Unitymix.com
 
-**Unitymix Privacy policy** Effective Septempter 2,2010: 
+**Unitymix Privacy policy** Effective December 3,2010: 
 
-Below is our Privacy Policy. Please take a moment of your time to read what we expect of our members and how we are devoted to protecting your privacy. 
-
-## Privacy Policy 
-
-Not sure how to use unitymix.com or need help? [**Write to Us**](http://www.unitymix.com/contacts)
-
-  
+Below is our Privacy Policy. Please take a moment of your time to read what we expect of our members and how we are devoted to protecting your privacy.   
 
 
-  
-
-  * Your privacy is protected at unitymix.com
-  
-
-  * You control your personal information.
-  
-
-  * You can end your membership at any time.
-  
-
-  * We will never disclose your personal information to any third party unless you expressly authorize us to do so.
-  
-
-  * We do not send members unsolicited emails.
-  
-
-
-
-If you have any questions regarding the full privacy statement below, or any questions or comments at all, please [**Contact Us**](http://www.unitymix.com/contacts)directly. If you're interested, please read more [**About Us**](http://www.unitymix.com/about)
+Unitymix.com cares about online privacy. If you have any questions about this privacy policy,please [**Contact Us**](http://www.unitymix.com/contacts)directly. If you're interested, please read more [**About Us**](http://www.unitymix.com/about)
 
 **unitymix.com's privacy policy**   
 We are not going to sell your personal information to anyone! No If's, And's or But's!!! We will only provide your information under the order of a recognized court providing a search warrant for such information! Or in an emergency situation, in my best judgement, may provide information to recognized law enforcement agencies! - Founder.... Now to the legal section. 
@@ -47,7 +22,7 @@ Like most e-commerce Websites, each time you visit the Site, we automatically co
 you and to gather broad demographic information about you.
 
 **Cookies**   
-Like most Websites, the Site uses cookies to keep track of your purchases and other activity on the Site and enhance your experience on the Site. We also use cookies to deliver content specific to your interests, to save your password, and if you choose, to save other personal and financial information so you do not have to reenter it each time you visit the Site. Third party advertisers on the Site may also place or read cookies on your browser. If you wish to disable these cookies, the "help" portion of the toolbar on most browsers will tell you how. However, if you set your browser to disable cookies, you may not be able to access certain areas on the Site. 
+Unitymix.com uses cookies to store visitors' preferences and to record session information, for purposes including ensuring that visitors are not repeatedly offered the same advertisements and to customize newsletter, advertising, and Web page content based on browser type and user profile information. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set -- each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences -- however, you must enable cookies from Unitymix.com in order to use most functions on the site. Please note that Unitymix may allow 3rd party advertisers to set and access their cookies on your computer. Advertisers' use of cookies is subject to their own privacy policies, not the Unitymix Privacy Policy. 
 
 **TELL-A-FRIEND program**   
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address.We will automatically send your friend a one-time email inviting him or her to visit the site. unitymix.com does not store any informations.unitymix.com will never spam, rent, or sell any email addresses you enter for invitations. You may not use this email form for any purpose except inviting people you know to join unitymix.com. 
@@ -82,8 +57,9 @@ We use your financial information to check your qualifications, to bill you for 
 **Law Enforcement**   
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site. 
 
-**Acquisition**   
-We may continue to develop our website. Should unitymix.com be bought or merged with another company, and despite the present Privacy Policy, your personal information could be transferred and become subject to the practice and procedure of the acquiror. 
+**Acquisition**
+
+We may continue to develop our website. Should unitymix.com be bought or merged with another company, and despite the present Privacy Policy, your personal information could be transferred and become subject to the practice and procedure of the acquiror.
 
 **Special Cases in which we Share Personal and Financial Information**   
 Your personal information or financial information may be passed on to a third party in the event of a transfer of ownership or assets, or a bankruptcy. We may also disclose personal information or financial information when we determine that such disclosure is necessary to comply with applicable law, to cooperate with law enforcement or to protect the interests or safety of unitymix.com or other visitors to the Site. We also may disclose your personal information or financial information to our subsidiary and parent companies and businesses, and other affiliated legal entities and businesses with whom we are under common corporate control. Whenever personal information or financial information is disclosed under this paragraph, we may also disclose your demographic information along with it, on a non-anonymous basis. All of our parent, subsidiary and affiliated legal entities and businesses that receive your personal information, financial information, or non-anonymous demographic information from us will comply with the terms of this privacy policy with respect to their use and disclosure of such information. 
@@ -91,13 +67,20 @@ Your personal information or financial information may be passed on to a third p
 **How We Use Public Information and Other Demographic Information**   
 We may review all demographic information. We may use public information to enable other users to find your profile, to determine whether they are a match for you and to communicate with you. We may use demographic information to tailor the Site and communications to your interests. We may also share demographic information with advertisers on an anonymous and aggregated basis (i.e., without telling the advertisers your identity). One of the reasons we may do this is to increase the likelihood that our advertisers' goods and services will appeal to unitymix.com users, so that we may target specific ads at specific demographic groups. Our sharing of demographic information with advertisers is anonymous (i.e., we do not tell advertisers which particular unitymix.com users are members of which demographic groups), subject to the rest of this privacy policy. When you respond to an advertisement, however, we ask you to remember that if that ad that is targeted to a demographic group and you decide to give the advertiser your personal information, then the advertiser may be able to identify you as being a member of that demographic group. Please also be aware that when we disclose your financial information or personal information to a Co-Branded Company, as described above, we may also disclose to that Co-Branded Company your demographic information, other than the content of one-on-one communications between you and other members. Please also be aware that we may disclose your demographic information on a non-anonymous basis as described above in the paragraph titled "Special Cases in which we Share Personal and Financial Information." Also, to read further details about how we may use your public information, see our 
 
-**Our Security Precautions**   
-The Site has security measures in place to protect against the loss, misuse and alteration of the information under our control. Our secure server software (SSL) is the industry standard and among the best software available today for secure commerce transactions. We encrypt all of your personal and financial information as it travels over the Internet and we store your financial information on our servers in encrypted form. Your information may be transferred to and maintained on computer networks which may be located outside of the state, province, country or other governmental jurisdiction in which you reside, and the country or jurisdiction in which these computer networks are located may not have privacy laws as protective as the laws in your country or jurisdiction. 
+**Our Security Precautions**
 
-**Changing our Privacy Policy for Previously Gathered Information**   
-If at any point we decide to use particular personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email or by providing 30 days notice on the Site. Please note that we will continue to have the right to change our privacy policy and practices, and how we use your personally identifiable information, without notice, as described in the first paragraph of this Privacy Policy, provided that such changes shall only apply to information gathered on or after the date of the change. 
+Unitymix.com member accounts are secured by member-created passwords. Unitymix.com takes precautions to insure that member account information is kept private. We use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time For any additional information about the security measures we use on Unitymix.com, please contact us at [admin@Unitymix.com](mailto:admin@Unitymix.com)   
+**Email Choice/Opt-out**
+
+Members who no longer wish to receive updates or notifications may choose not to by editing their profile. All notification emails and Unitymix.com newsletters also include the above instructions for opting-out of those communications in the future. 
+
+**Changes in Our Privacy Policy**
+
+From time to time we may make changes to our privacy policy. If we make changes, we will post them on our site to make users aware of what the changes are so users will always be aware of what information we collect, how we use it, and when we may disclose it. A user is bound by any minor changes to the policy when she or he uses the site after those changes have been posted. If, however, we are going to use users' personally identifiable information in a manner materially different from that stated at the time of collection we will notify by posting a prominent notice on our Web site. 
 
 **How You Can Access and Update Your Email Preferences, Personal Information and Public Information**   
 We give you the opportunity to opt-out of certain communications and modify personal information or demographic information you have provided to us, and to hide demographic information from, or make demographic information visible to, the public users of the Site, at anytime by going to the section of the Site. Please be aware that it may take several hours for the changes you make to take effect on the public areas of the Site. We thank you for your patience. Please note that changing or deleting your information through the "Account Settings" or "My Profile" section of the Site, or otherwise opting-out of receipt of email communications from unitymix.com, will only change or delete the data in our database for purposes of future activities on the Site and for managing future communications from unitymix.com. These changes and deletions will not change or delete emails or information that we may have already forwarded to other users or credit card companies or any other third parties, all as provided above in this privacy policy. 
 
-If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the Site, you can [**Contact Us**](http://www.unitymix.com/contacts)
+**Contacting the Website**
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, please [**Contact Us**](http://www.unitymix.com/contacts)
