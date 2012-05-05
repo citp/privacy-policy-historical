@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cuyana.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201193558id_/http%3A//www.cuyana.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuyana.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505222901id_/http%3A//www.cuyana.com/privacy-policy) for the most accurate reproduction.*
 
 # Cuyana - Privacy Policy
 
@@ -28,7 +28,7 @@ We may receive and store any information you enter on our website or provide to 
 
 **E-mail Communications:**
 
-We often receive a confirmation when you open an email from Cuyana if your computer supports this type of program.  Cuyana uses this confirmation to help make emails more interesting and helpful.  We also may compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers.  When you receive e-mail from Cuyana, you can opt out of receiving further e-mails by emailing us at unsubscribe@cuyana.com.
+We often receive a confirmation when you open an email from Cuyana if your computer supports this type of program.  Cuyana uses this confirmation to help make emails more interesting and helpful.  We also may compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers.  When you receive e-mail from Cuyana, you can opt out of receiving further e-mails by emailing us at info@cuyana.com.
 
 **Information from Other Sources** :
 
@@ -52,7 +52,7 @@ _Agents_ : We employ other companies and people to perform tasks on our behalf a
 
 _Communication in response to User Information:_ As part of the Site and services, you will receive from Cuyana email and other communication relating to your User Information. You acknowledge and agree that by posting such User Information, Cuyana may send you email and other communication that it determines in its sole discretion relate to your User Information.
 
-_Promotional Offers_ : We may send offers to you on behalf of other businesses.  However, when we do so, we do not give the other business your name and address.  If you do not wish to receive these offers, please send an email with your request to unsubscribe@cuyana.com.
+_Promotional Offers_ : We may send offers to you on behalf of other businesses.  However, when we do so, we do not give the other business your name and address.  If you do not wish to receive these offers, please send an email with your request to info@cuyana.com.
 
 _Business Transfers_ : In some cases, we may choose to buy or sell assets.  In these types of transactions, customer information is typically one of the business assets that are transferred.  Moreover, if Cuyana, or substantially all of its assets were acquired, or in the unlikely event that Cuyana goes out of business or enters bankruptcy, customer information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Cuyana may continue to use your Personal Information as set forth in this policy.
 
