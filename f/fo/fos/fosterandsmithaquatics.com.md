@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the fosterandsmithaquatics.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008050646id_/http%3A//www.fosterandsmithaquatics.com/general.cfm%3Fgid%3D997) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fosterandsmithaquatics.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505103230id_/http%3A//www.drsfostersmith.com/general.cfm%3Fgid%3D320) for the most accurate reproduction.*
 
 # Customer Service: Privacy & Security
 
-|   
-  
 _Drs. Foster & Smith is very sensitive to the issues of online privacy and electronic security. As we establish and maintain an online relationship with you, we want you to know we will always do whatever possible to ensure a secure and private environment to maintain your unquestioned trust._
 
 **Privacy Policy**  
@@ -18,27 +16,24 @@ Drs. Foster & Smith offers three shopping options that allow you to choose how m
 
 The information you provide for the **Remember Me** and **Express Checkout** options is protected by the personal password you select, along with your User ID, so that only you have access to your account information. 
 
-You are free to change your shopping convenience preference at any time by clicking on the **My Account** link at the top of each page. 
+You are free to change your shopping convenience preference at any time by clicking on the **Your Account** link at the top of each page. 
 
 **Email**  
 We believe that your email address is private information and you have our assurance that we do not rent or sell your email address to anyone. We use your email address to send you order-related emails, like shipping confirmations, as well as informational/sale newsletters. 
 
 _We will always try to contact you by phone if we have a question about an order you placed. If we are unable to reach you by phone, we may also try to contact you by email._
 
-You may opt out at any time from any or ALL newsletters in the series, either online or by using the links provided in every newsletter issue. 
+You may opt out at any time from any or ALL newsletters in the series, either [online](https://web.archive.org/newsletters/index.cfm?login) or by using the links provided in every newsletter issue. 
 
-|   
----|---  
-  
 **Secure Shopping**  
 
 
-[ ](https://www.scanalert.com/RatingVerify?ref=www.drsfostersmith.com)
+[](https://www.scanalert.com/RatingVerify?ref=www.drsfostersmith.com)
 
 All orders on our site are encrypted using Secure Socket Layer (SSL) technology - one of the most prevalent and secure systems available online. SSL is an extremely complex form of cryptography that makes it virtually impossible for a third party to decrypt any personal information you provide. You can rest assured that your personal and credit card information is protected when transmitted online. You can find detailed information about SSL technology and how it works online using any of the search engines. A good place to start is by visiting [Webopedia's discussion on SSL](http://webopedia.internet.com/TERM/S/SSL.html). 
 
-**BBB Online Reliability**  
-[ ](http://www.bbbonline.org/cks.asp?id=10308281333135037) Drs. Foster & Smith is a participant in the Better Business Bureau's BBBOnLine program. This means we meet all the standards required for membership in the Better Business Bureau, and we fully abide with the BBB Code of Online Business Practices. 
+**Better Business Bureau Accredited**  
+[](http://www.bbb.org/wisconsin/business-reviews/pet-supplies-and-foods-retail/drs-foster-smith-in-rhinelander-wi-24002163/) Drs. Foster & Smith accredted by the Better Business Bureau. This means we meet all the standards required for membership in the Better Business Bureau, and we fully abide with the BBB Code of Online Business Practices. 
 
 **Cookies**  
 We use computer "cookies" only to assist us in identifying our valued returning customers and tracking items placed in their shopping carts. We store an identification number in your cookie that is only significant to DrsFosterSmith.com. No personal information is stored in your cookie. If you attempt to shop and have cookies disabled, we will not be able to remember items you have placed in your shopping cart. 
@@ -49,4 +44,4 @@ We use JavaScript for many useful features such as instantly displaying backorde
 **Third Party Advertising**  
 We use third party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/). 
 
-**If you have any questions regarding our privacy practices, please[contact us](https://web.archive.org/general.cfm?gid=996)!**
+**If you have any questions regarding our privacy practices, please[contact us](https://web.archive.org/general.cfm?gid=314)!**
