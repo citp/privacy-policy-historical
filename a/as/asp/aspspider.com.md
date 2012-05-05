@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aspspider.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105071833id_/http%3A//www.aspspider.com/team/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspspider.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505104820id_/http%3A//www.aspspider.com/team/Privacy.aspx) for the most accurate reproduction.*
 
 # AspSpider Privacy Policy
 
@@ -32,5 +32,3 @@ We use advertisements from third party companies. We try to avoid any kind of of
 As we continue to develop and grow our web site, we may sell AspSpider or part of it. In such transactions, member information generally is one of the transferred business assets. 
 
 If you have any questions, please write to [contact us](https://web.archive.org/team/ContactUs.aspx). 
-
-Try [shared webhosting by Brinkster](http://www.brinkster.com/redirect.aspx?rfred=/hosting/hosting.aspx?rf=dotnetspider&ad=1000)
