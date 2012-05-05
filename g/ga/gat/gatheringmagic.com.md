@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gatheringmagic.com privacy policy that was archived on 2011-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111017061402id_/http%3A//www.gatheringmagic.com/disclosure-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatheringmagic.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505065454id_/http%3A//www.gatheringmagic.com/disclosure-policy) for the most accurate reproduction.*
 
 # Disclosure & Privacy Policy | GatheringMagic.com - Magic: The Gathering Website
 
@@ -6,13 +6,13 @@ This page will outline both our Disclosure Policy as well as our Privacy Policy.
 
 ## Disclosure Policy
 
-This blog is a sponsored blog created or supported by a company, organization or group of organizations. For questions about this blog, please contact Patrick Jarrett (trick@mananation.com).
+This blog is a sponsored blog created or supported by a company, organization or group of organizations. For questions about this blog, please contact Adam Styborski (stybs@gatheringmagic.com).
 
-This blog accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation.
+This blog accepts forms of cash advertising, sponsorship, paid insertions, or other forms of compensation.
 
 This blog abides by word of mouth marketing standards. We believe in honesty of relationship, opinion and identity. The compensation received may influence the advertising content, topics or posts made in this blog. That content, advertising space or post will be clearly identified as paid or sponsored content.
 
-The owner(s) of this blog is compensated to provide opinion on products, services, websites and various other topics. Even though the owner(s) of this blog receives compensation for our posts or advertisements, we always give our honest opinions, findings, beliefs, or experiences on those topics or products. The views and opinions expressed on this blog are purely the bloggers' own. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question.
+The owner(s) of this blog is compensated to provide opinion on products, services, websites, and various other topics. Even though the owner(s) of this blog receives compensation for our posts or advertisements, we always give our honest opinions, findings, beliefs, or experiences on those topics or products. The views and opinions expressed on this blog are purely the bloggers' own. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question.
 
 This blog does contain content which might present a conflict of interest. This content will always be identified.
 
@@ -20,11 +20,11 @@ This blog does contain content which might present a conflict of interest. This 
 
 **What information do we collect?**
 
-We collect information from you when you respond to a survey, fill out a form or Leave a comment.
+We collect information from you when you respond to a survey, fill out a form, or leave a comment.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
+When ordering or registering on our site, as appropriate, you may be asked to enter your name or e-mail address. You may, however, visit our site anonymously.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 **What do we use your information for?**
 
@@ -42,7 +42,7 @@ We implement a variety of security measures to maintain the safety of your perso
 
 **Do we use cookies?**
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser, if you allow), and this enables the sites or service providers systems to recognize your browser and capture or remember certain information
 
 We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
@@ -72,16 +72,16 @@ By using our site, you consent to our [web site privacy policy](http://www.free
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on October 5th, 2010
+This policy was last modified on March 2nd, 2012.
 
 **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-ManaNation.com  
+CoolStuffInc.com  
 3592 Aloma Ave, Suite 6  
 Winter Park, FL 32792  
 USA  
-trick@mananation.com
+stybs@gatheringmagic.com
 
 * * *
