@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the line2.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123165039id_/http%3A//www.line2.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the line2.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505132659id_/http%3A//www.line2.com/privacy.html) for the most accurate reproduction.*
 
 # Line2 - Privacy Policy
 
@@ -85,6 +85,8 @@ toktumi works to safeguard your personally identifiable information. toktumi lim
 
 
 
+Attachments to MMS messages sent to recipients outside of Line2's network, including videos and photographs, may be accessible to third parties, and are not confidential.
+
 As with any Web site, the security of information also depends on the safe computing practices of its customers. We strongly recommend that all toktumi customers: 
 
   * should use strong passwords that are not easily guessed for system access 
@@ -97,8 +99,8 @@ As with any Web site, the security of information also depends on the safe compu
 toktumi may update this policy from time to time if our practices change or if changes in the law require us to do so. We will notify customers about significant changes in the policy by sending a notice to the primary e-mail address specified in the toktumi account or by placing a prominent notice on our site. 
 
 **Questions and Suggestions**  
-If you have questions or suggestions about this policy, you can contact us at: Toktumi, Inc., 50 California Street, Suite 1500, San Francisco, CA 94111 [privacy@toktumi.com](mailto:privacy@toktumi.com)
+If you have questions or suggestions about this policy, you can contact us at: Toktumi, Inc., 230 California Street, Suite 500, San Francisco, CA 94111 [privacy@toktumi.com](mailto:privacy@toktumi.com)
 
 Update/Effective Date:  
-This policy was last updated 11/19/2008  
-Copyright © 2008 toktumi Inc. All rights reserved. 
+This policy was last updated 02/15/2012  
+Copyright © 2012 toktumi Inc. All rights reserved. 
