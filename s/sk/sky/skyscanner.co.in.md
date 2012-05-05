@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyscanner.co.in privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202220819id_/http%3A//www.skyscanner.co.in/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyscanner.co.in privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505040614id_/http%3A//www.skyscanner.co.in/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Skyscanner India
 
@@ -44,7 +44,7 @@ We may collect and process the following data (" **Personal Information** ") abo
 
   * Where you choose to register to use our [website](http://www.skyscanner.net/) (our " **sign-in service** "), we will collect certain personal information provided by you which may include your user ID, password, name and , email address. Additional information may be requested in future to improve the level of service we can provide you, and to allow access to additional Skyscanner services.
   * Any information that you provide by filling in forms on our website. This includes information provided by you if subscribing to our newsletter, posting material, searching for or saving travel options or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by us and when you report a problem with our site.
-  * If you contact us, we may keep a record of that correspondence.
+  * If you contact us, we may keep a record of that correspondence. We use a third party website to enable us to provide this service.
   * Information you provide to us when you complete surveys that we use for research purposes.
 
 
@@ -62,6 +62,7 @@ We will use your IP Details, Cookies and Personal Information held about you in 
   * To carry out our obligations arising from any contracts entered into between you and us.
   * To allow you to participate in interactive features of our service, when you choose to do so.
   * To notify you about changes to our service.
+  * To respond to customer support queries where you have supplied personal information.
 
 
 
@@ -93,7 +94,7 @@ At present we have partnership agreements with a number of organisations, some o
 
 ## Links to third party websites
 
-This website contains links to other sites. In particular this website may direct you to the websites of third party flight or travel provider companies for you to make bookings. In order to book flights, you will provide personal data to the operators of such sites. Please be aware that we are not responsible for the privacy practices of such other sites. When you leave our site, we encourage you to read the privacy statements/policies of each and every website that collects personal data from you. This Privacy Policy applies solely to information collected by us via this website.
+This website contains links to other sites. In particular this website may direct you to the websites of third party flight or travel provider companies for you to make bookings. In order to book flights, you will provide personal data to the operators of such sites. When contacting Skyscanner through the contact us form or FAQ content, you will provide personal data that is handled by a customer support third party site. Please be aware that we are not responsible for the privacy practices of such other sites. When you leave our site, we encourage you to read the privacy statements/policies of each and every website that collects personal data from you. This Privacy Policy applies solely to information collected by us via this website.
 
 ## Sharing Information
 
