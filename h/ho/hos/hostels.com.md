@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostels.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206201811id_/http%3A//www.hostels.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostels.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505074329id_/http%3A//www.hostels.com/privacy.php) for the most accurate reproduction.*
 
 # Hostels.com - Every Hostel, Everywhere - 20,000+ Hostels Worldwide
 
@@ -8,7 +8,7 @@ Hostels.com has been processing online hostel reservations since 2003 and we hav
 
 We will continue to offer our customers the highest level of security available for online transactions and hope this reassures you when you make your reservations with us. 
 
-All sensitive information exchanged between your computer and our site is encrypted using SSL. Our SSL Certificate is provided by Verisign. This ensures that your information is transmitted securely and is safe from third parties. Please read on for more information on site encryption. 
+All sensitive information exchanged between your computer and our site is encrypted using SSL. Our SSL Certificate is provided by GlobalSign. This ensures that your information is transmitted securely and is safe from third parties. Please read on for more information on site encryption. 
 
 **SITE ENCRYPTION**
 
@@ -43,7 +43,7 @@ All travel service providers on whose behalf we facilitate bookings have agreed 
 
 **SECURITY**
 
-All sensitive information exchanged between your computer and our site is encrypted using SSL. Our SSL Cert. is provided by Verisign. This ensures that your information is transmitted securely and is safe from third parties. 
+All sensitive information exchanged between your computer and our site is encrypted using SSL. Our SSL Cert. is provided by GlobalSign. This ensures that your information is transmitted securely and is safe from third parties. 
 
 You should be aware that where you link to another web site from this web site, that Hostels.com has no control over that other web site. Accordingly, Hostels.com cannot guarantee that the controller of that web site will respect your privacy in the same manner as Hostels.com. 
 
