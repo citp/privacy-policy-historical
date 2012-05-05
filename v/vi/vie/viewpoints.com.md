@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the viewpoints.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228040852id_/http%3A//www.viewpoints.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewpoints.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505112450id_/http%3A//www.viewpoints.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - Viewpoints
+# Privacy Policy – Viewpoints.com
+
+_Last updated: August 29, 2011_
 
 Viewpoints Network, LLC, ("Viewpoints", "us", "we" or "our") is committed to protecting your privacy. This policy ("Privacy Policy") covers how Viewpoints treats personal information that it collects and receives. Personal information is information about you that is personally identifiable like your name, address, email address, and phone number.
 
-This Privacy Policy is considered to be a part of Viewpoints' Terms of Service. By using and accessing the site owned and operated by Viewpoints located at [http://www.viewpoints.com](http://www.viewpoints.com/), and any and all linked pages owned and operated by Viewpoints, related on-line services provided by Viewpoints and any content and materials provided by Viewpoints, its business partners or Users (collectively, the "Viewpoints Site") you agree to the terms and conditions of the Terms of Service, including this Privacy Policy. By using the Viewpoints Site, you are also consenting to Viewpoints' privacy practices. If you have additional questions, you may send an email to [privacy@viewpoints.com](mailto:privacy@viewpoints.com?subject=Question%20about%20your%20privacy%20policy).
+This Privacy Policy is considered to be a part of Viewpoints' Terms of Service. By using and accessing the site owned and operated by Viewpoints located at http://www.viewpoints.com, and any and all linked pages owned and operated by Viewpoints, related on-line services provided by Viewpoints and any content and materials provided by Viewpoints, its business partners or Users (collectively, the "Viewpoints Site") you agree to the terms and conditions of the Terms of Service, including this Privacy Policy. By using the Viewpoints Site, you are also consenting to Viewpoints' privacy practices. If you have additional questions, you may send an email to [privacy@viewpoints.com](mailto:privacy@viewpoints.com?subject=Question%20about%20your%20privacy%20%20policy).
 
 ### What We Collect
 
@@ -64,11 +66,9 @@ We reserve the right, at any time and without notice, to add to, update, change,
 
 If you have any questions about this Privacy Policy, our information-handling practices, or other aspects of privacy, please contact us by email or via postal mail at: 
 
-Viewpoints Privacy   
+Viewpoints Privacy  
 Viewpoints Network, LLC.  
 222 W. Hubbard St.  
 Suite 200  
 Chicago, IL 60654  
-privacy@viewpoints.com
-
-Last updated: August 29, 2011
+[privacy@viewpoints.com](mailto:privacy@viewpoints.com?subject=Question%20about%20your%20%20%20%20privacy%20policy)
