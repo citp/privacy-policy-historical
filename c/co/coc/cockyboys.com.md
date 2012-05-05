@@ -1,11 +1,7 @@
-> *The following text is extracted and transformed from the cockyboys.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228120333id_/http%3A//www.cockyboys.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cockyboys.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506004251id_/http%3A//www.cockyboys.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy @ CockyBoys.com
+# CockyBoys Privacy Notice
 
-Untitled Document
-
-> Cockyboys.com Privacy Policy
-> 
 > Cockyboys.com (“Website”) has created this privacy policy ("Policy") in order to demonstrate our company's commitment to privacy. The following discloses our information gathering and disseminating practices. This Policy also instructs you on what procedures to take if you do not want to receive communications from us other than those required for account maintenance.
 > 
 > MINORS. Our company's services are directed to adults who possess validated credit card information, and are not marketed to individuals under the age of eighteen (18) (or twenty-one in territories where twenty-one is the age of majority). Certain portions of Website, which may contain content considered offensive to some, are inaccessible to individuals under the age of eighteen (18) (or twenty-one in territories where 21 is the age of majority), as advocated by the Communications Decency Act. For those portions that may be accessible to individuals under the applicable age of majority, such as the Website home page and other areas presenting non-offensive content, the Website has no intention of collecting any personally identifiable information (that is, name, address, telephone number, or email address) from individuals under age. PERSONS UNDER THE AGE OF EIGHTEEN (18) SHOULD NOT SUBMIT INFORMATION TO THE WEBSITE. If a minor has provided us with personally-identifiable information, a parent or guardian of that minor should contact us at the email address listed at the bottom of this Policy immediately.
