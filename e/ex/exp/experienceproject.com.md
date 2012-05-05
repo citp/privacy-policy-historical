@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the experienceproject.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006000754id_/http%3A//www.experienceproject.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experienceproject.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505080024id_/http%3A//www.experienceproject.com/privacy.php) for the most accurate reproduction.*
 
 # Experience Project : Privacy Policy
 
@@ -88,7 +88,7 @@ Experience Project regularly reviews its compliance with this Policy. Please fee
 
 Experience Project urges parties to civil litigation to resolve their discovery issues without involving Experience Project. The information sought by parties to civil litigation is almost always in the possession of, and readily accessible to, a party to the litigation. Requests for account information are therefore better obtained through party discovery.
 
-If you are or represent a party to a civil case and believe basic subscriber information is indispensable and is not within the possession of a party, you must personally serve a valid California or Federal subpoena on Experience Project (please [contact us](mailto:support@experienceproject.com) for our agent for service of process address) . Out-of-state civil subpoenas must be domesticated in California. Experience Project charges a mandatory, non-refundable processing fee of $250.00 per user account. Please enclose payment with your properly served subpoenas. 
+If you are or represent a party to a civil case and believe basic subscriber information is indispensable and is not within the possession of a party, you must personally serve a valid California or Federal subpoena on Experience Project (please [contact us](mailto:help@experienceproject.com) for our agent for service of process address) . Out-of-state civil subpoenas must be domesticated in California. Experience Project charges a mandatory, non-refundable processing fee of $250.00 per user account. Please enclose payment with your properly served subpoenas. 
 
 Experience Project requires a minimum of 30 days to process a civil subpoena. Additional time may be required depending on various factors. You may request your subpoena be expedited by submitting an additional $150.00 fee with your subpoena.
 
