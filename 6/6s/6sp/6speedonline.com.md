@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 6speedonline.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216214557id_/http%3A//www.internetbrands.com/ib/privacy/enthusiasts%3Fsite%3D6speedonline.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 6speedonline.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505110310id_/http%3A//www.internetbrands.com/ib/privacy/enthusiasts%3Fsite%3D6Speedonline.com) for the most accurate reproduction.*
 
 # Site Privacy Policy
 
-6speedonline.com ("Site")
+6Speedonline.com ("Site")
 
 Privacy Statement
 
@@ -54,6 +54,6 @@ Please be aware that we may change our Privacy Policy from time to time. If we d
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact: [information@internetbrands.com](mailto:information@internetbrands.com).
 
-6speedonline.com
+6Speedonline.com
 
 March 24, 2009
