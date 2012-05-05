@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imonggo.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122043509id_/http%3A//www.imonggo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imonggo.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505194831id_/http%3A//imonggo.com/privacy.html) for the most accurate reproduction.*
 
 # Imonggo Privacy Statement
 
