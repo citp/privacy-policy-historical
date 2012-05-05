@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the canon-asia.com privacy policy that was archived on 2011-11-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111113052315id_/http%3A//www.canon-asia.com/personal/web/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the canon-asia.com privacy policy that was archived on 2012-05-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120505065810id_/http%3A//www.canon-asia.com/personal/web/privacy%3FlanguageCode%3DEN) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 			<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -37,8 +37,9 @@
 <div class="navigation_bg">
 	<div class="navigation"> 
 		<div class="header">
-			  <div class="left"> <a href="/"><img src="http://media.canon-asia.com/v3.5media/common/canon_logo.gif" alt="Canon" title="Home" width="99" height="39"></a> </div>
-  <div id="country" class="left">South &amp; southeast Asia</div>
+			
+			 <div class="left"> <a href="/"><img src="http://media.canon-asia.com/v3.5media/common/canon_logo.gif" alt="Canon" title="Home" width="99" height="39"></a> </div>
+  <div id="country" class="left">South &amp; Southeast Asia</div>
   <div class="navigation_tabs">
     <ul id="segments" class="left">
       <li class="left"><a id="personal" href="/personal/highlights?languageCode=EN">Personal</a></li>
@@ -53,8 +54,8 @@
       <li class="left" style="background:none;"><a id="news_press" href="/personal/web/news?languageCode=EN">Press room</a></li>
     </ul>
   </div>
-  <!--<div style="clear:both;"></div>-->
-  <div class="search right">
+  <div style="clear:both;"></div>
+  <div class="search right" style="margin-top:-10px;">
     <input id="keyword" name="q" type="text">
     <input id="submit_search" class="submit_search" type="submit" value="">
   </div>
@@ -90,7 +91,32 @@ $('#keyword').keyup(function(e) {
   <div style="clear:both;"></div>
 
 			
+				<div class="right">
+					
+				</div>
+			
 		</div>
+		<script type="text/javascript">
+        	
+			var searchUrl = '/personal/search?languageCode=EN&filter=p&';
+			jQuery('#submit_search').click(function(){
+				location.href = searchUrl + 'q=' + jQuery('#keyword').val();
+					
+		 		if(typeof sendQuery == 'function'){
+					sendQuery(jQuery('#keyword').val());
+				}
+			});
+				
+			$('#keyword').keyup(function(e) {
+				if(e.keyCode == 13) {
+					location.href = searchUrl + 'q=' + jQuery('#keyword').val();
+
+					if(typeof sendQuery == 'function'){
+				 		sendQuery(jQuery('#keyword').val());
+					}
+				}
+			});
+		</script>
         <!--[if IE 7]>
         	<div style="clear: both; height:25px;"></div>
         <![endif]-->
@@ -115,10 +141,10 @@ $('#keyword').keyup(function(e) {
 
 
 	
-			<div class="product_category left" onclick="javascript:document.location.href='http://www.canon-asia.com/personal/products/dslrs?languageCode=EN'" style="">
-				<div style="HEIGHT: 55px"><a href="http://www.canon-asia.com/personal/products/dslrs?languageCode=EN"><img src="http://media.canon-asia.com/local/asia/live/categories/medium/consumer_dslrs.gif"></a></div>
+			<div class="product_category left" onclick="javascript:window.open('http://www.canon-asia.com/personal/products/dslrs?languageCode=EN', '_self')" style="">
+				<div style="HEIGHT: 55px"><img src="http://media.canon-asia.com/local/asia/live/categories/medium/consumer_dslrs.gif"></div>
 				<div style="CLEAR: both"></div>
-	            <a class="category_name" href="http://www.canon-asia.com/personal/products/dslrs?languageCode=EN">DSLRs</a> 
+	            <a class="category_name">DSLRs</a> 
 				<div style="CLEAR: both"></div>
 				
 					<div class="subcategory_name"> 
@@ -133,10 +159,10 @@ $('#keyword').keyup(function(e) {
 		    		            
 	 		</div>
 	
-			<div class="product_category left" onclick="javascript:document.location.href='http://www.canon-asia.com/personal/products/compact-cameras?languageCode=EN'" style="">
-				<div style="HEIGHT: 55px"><a href="http://www.canon-asia.com/personal/products/compact-cameras?languageCode=EN"><img src="http://media.canon-asia.com/local/asia/live/categories/medium/consumer_compact_cameras.gif"></a></div>
+			<div class="product_category left" onclick="javascript:window.open('http://www.canon-asia.com/personal/products/compact-cameras?languageCode=EN', '_self')" style="">
+				<div style="HEIGHT: 55px"><img src="http://media.canon-asia.com/local/asia/live/categories/medium/consumer_compact_cameras.gif"></div>
 				<div style="CLEAR: both"></div>
-	            <a class="category_name" href="http://www.canon-asia.com/personal/products/compact-cameras?languageCode=EN">Compact cameras</a> 
+	            <a class="category_name">Compact cameras</a> 
 				<div style="CLEAR: both"></div>
 				
 					<div class="subcategory_name"> 
@@ -149,10 +175,10 @@ $('#keyword').keyup(function(e) {
 		    		            
 	 		</div>
 	
-			<div class="product_category left" onclick="javascript:document.location.href='http://www.canon-asia.com/personal/products/all-in-ones?languageCode=EN'" style="">
-				<div style="HEIGHT: 55px"><a href="http://www.canon-asia.com/personal/products/all-in-ones?languageCode=EN"><img src="http://media.canon-asia.com/local/asia/live/categories/medium/business_all_in_ones.gif"></a></div>
+			<div class="product_category left" onclick="javascript:window.open('http://www.canon-asia.com/personal/products/all-in-ones?languageCode=EN', '_self')" style="">
+				<div style="HEIGHT: 55px"><img src="http://media.canon-asia.com/local/asia/live/categories/medium/personal-aio.gif"></div>
 				<div style="CLEAR: both"></div>
-	            <a class="category_name" href="http://www.canon-asia.com/personal/products/all-in-ones?languageCode=EN">All-in-ones</a> 
+	            <a class="category_name">All-in-ones</a> 
 				<div style="CLEAR: both"></div>
 				
 					<div class="subcategory_name"> 
@@ -165,10 +191,10 @@ $('#keyword').keyup(function(e) {
 		    		            
 	 		</div>
 	
-			<div class="product_category left" onclick="javascript:document.location.href='http://www.canon-asia.com/personal/products/printers?languageCode=EN'" style="">
-				<div style="HEIGHT: 55px"><a href="http://www.canon-asia.com/personal/products/printers?languageCode=EN"><img src="http://media.canon-asia.com/local/asia/live/categories/medium/consumer_printers.gif"></a></div>
+			<div class="product_category left" onclick="javascript:window.open('http://www.canon-asia.com/personal/products/printers?languageCode=EN', '_self')" style="">
+				<div style="HEIGHT: 55px"><img src="http://media.canon-asia.com/local/asia/live/categories/medium/consumer_printers.gif"></div>
 				<div style="CLEAR: both"></div>
-	            <a class="category_name" href="http://www.canon-asia.com/personal/products/printers?languageCode=EN">Printers</a> 
+	            <a class="category_name">Printers</a> 
 				<div style="CLEAR: both"></div>
 				
 					<div class="subcategory_name"> 
@@ -181,34 +207,34 @@ $('#keyword').keyup(function(e) {
 		    		            
 	 		</div>
 	
-			<div class="product_category left" onclick="javascript:document.location.href='http://www.canon-asia.com/personal/products/personal-camcorders/personal-camcorders?languageCode=EN'" style="border-right: 0pt none;">
-				<div style="HEIGHT: 55px"><a href="http://www.canon-asia.com/personal/products/personal-camcorders/personal-camcorders?languageCode=EN"><img src="http://media.canon-asia.com/local/asia/stage/categories/consumer_personal_camcorders.gif"></a></div>
+			<div class="product_category left" onclick="javascript:window.open('http://www.canon-asia.com/personal/products/personal-camcorders/personal-camcorders?languageCode=EN', '_self')" style="border-right: 0pt none;">
+				<div style="HEIGHT: 55px"><img src="http://media.canon-asia.com/local/asia/live/categories/medium/consumer_personal_camcorders.gif"></div>
 				<div style="CLEAR: both"></div>
-	            <a class="category_name" href="http://www.canon-asia.com/personal/products/personal-camcorders/personal-camcorders?languageCode=EN">Personal camcorders (LEGRIA)</a> 
-				<div style="CLEAR: both"></div>
-					            
-	 		</div>
-	
-			<div class="product_category left" onclick="javascript:document.location.href='http://www.canon-asia.com/personal/products/professional-camcorders/professional-camcorders?languageCode=EN'" style="">
-				<div style="HEIGHT: 55px"><a href="http://www.canon-asia.com/personal/products/professional-camcorders/professional-camcorders?languageCode=EN"><img src="http://media.canon-asia.com/local/asia/stage/categories/consumer_professional_camcorders.gif"></a></div>
-				<div style="CLEAR: both"></div>
-	            <a class="category_name" href="http://www.canon-asia.com/personal/products/professional-camcorders/professional-camcorders?languageCode=EN">Professional camcorders</a> 
+	            <a class="category_name">Personal camcorders (LEGRIA)</a> 
 				<div style="CLEAR: both"></div>
 					            
 	 		</div>
 	
-			<div class="product_category left" onclick="javascript:document.location.href='http://www.canon-asia.com/personal/products/compact-photo-printers/compact-photo-printers?languageCode=EN'" style="">
-				<div style="HEIGHT: 55px"><a href="http://www.canon-asia.com/personal/products/compact-photo-printers/compact-photo-printers?languageCode=EN"><img src="http://media.canon-asia.com/local/asia/stage/categories/consumer_compact_photo_printers.gif"></a></div>
+			<div class="product_category left" onclick="javascript:window.open('http://www.canon-asia.com/personal/products/professional-camcorders/professional-camcorders?languageCode=EN', '_self')" style="">
+				<div style="HEIGHT: 55px"><img src="http://media.canon-asia.com/local/asia/stage/categories/consumer_professional_camcorders.gif"></div>
 				<div style="CLEAR: both"></div>
-	            <a class="category_name" href="http://www.canon-asia.com/personal/products/compact-photo-printers/compact-photo-printers?languageCode=EN">Compact photo printers (SELPHY)</a> 
+	            <a class="category_name">Professional camcorders</a> 
 				<div style="CLEAR: both"></div>
 					            
 	 		</div>
 	
-			<div class="product_category left" onclick="javascript:document.location.href='http://www.canon-asia.com/personal/products/scanners?languageCode=EN'" style="">
-				<div style="HEIGHT: 55px"><a href="http://www.canon-asia.com/personal/products/scanners?languageCode=EN"><img src="http://media.canon-asia.com/local/asia/live/categories/medium/consumer_scanners.gif"></a></div>
+			<div class="product_category left" onclick="javascript:window.open('http://www.canon-asia.com/personal/products/compact-photo-printers/compact-photo-printers?languageCode=EN', '_self')" style="">
+				<div style="HEIGHT: 55px"><img src="http://media.canon-asia.com/local/asia/live/categories/medium/consumer_compact_photo_printers.gif"></div>
 				<div style="CLEAR: both"></div>
-	            <a class="category_name" href="http://www.canon-asia.com/personal/products/scanners?languageCode=EN">Scanners</a> 
+	            <a class="category_name">Compact photo printers (SELPHY)</a> 
+				<div style="CLEAR: both"></div>
+					            
+	 		</div>
+	
+			<div class="product_category left" onclick="javascript:window.open('http://www.canon-asia.com/personal/products/scanners?languageCode=EN', '_self')" style="">
+				<div style="HEIGHT: 55px"><img src="http://media.canon-asia.com/local/asia/live/categories/medium/consumer_scanners.gif"></div>
+				<div style="CLEAR: both"></div>
+	            <a class="category_name">Scanners</a> 
 				<div style="CLEAR: both"></div>
 				
 					<div class="subcategory_name"> 
@@ -223,10 +249,10 @@ $('#keyword').keyup(function(e) {
 		    		            
 	 		</div>
 	
-			<div class="product_category left" onclick="javascript:document.location.href='http://www.canon-asia.com/personal/products/fax-machines?languageCode=EN'" style="">
-				<div style="HEIGHT: 55px"><a href="http://www.canon-asia.com/personal/products/fax-machines?languageCode=EN"><img src="http://media.canon-asia.com/local/asia/stage/categories/consumer_fax_machiness.gif"></a></div>
+			<div class="product_category left" onclick="javascript:window.open('http://www.canon-asia.com/personal/products/fax-machines?languageCode=EN', '_self')" style="">
+				<div style="HEIGHT: 55px"><img src="http://media.canon-asia.com/local/asia/stage/categories/consumer_fax_machiness.gif"></div>
 				<div style="CLEAR: both"></div>
-	            <a class="category_name" href="http://www.canon-asia.com/personal/products/fax-machines?languageCode=EN">Fax machines</a> 
+	            <a class="category_name">Fax machines</a> 
 				<div style="CLEAR: both"></div>
 				
 					<div class="subcategory_name"> 
@@ -239,10 +265,10 @@ $('#keyword').keyup(function(e) {
 		    		            
 	 		</div>
 	
-			<div class="product_category left" onclick="javascript:document.location.href='http://www.canon-asia.com/personal/products/supplies?languageCode=EN'" style="border-right: 0pt none;">
-				<div style="HEIGHT: 55px"><a href="http://www.canon-asia.com/personal/products/supplies?languageCode=EN"><img src="http://media.canon-asia.com/local/asia/stage/categories/consumer_supplies.gif"></a></div>
+			<div class="product_category left" onclick="javascript:window.open('http://www.canon-asia.com/personal/products/supplies?languageCode=EN', '_self')" style="border-right: 0pt none;">
+				<div style="HEIGHT: 55px"><img src="http://media.canon-asia.com/local/asia/live/categories/medium/72x55-supplies-v2.gif"></div>
 				<div style="CLEAR: both"></div>
-	            <a class="category_name" href="http://www.canon-asia.com/personal/products/supplies?languageCode=EN">Supplies</a> 
+	            <a class="category_name">Supplies</a> 
 				<div style="CLEAR: both"></div>
 				
 					<div class="subcategory_name"> 
@@ -251,34 +277,35 @@ $('#keyword').keyup(function(e) {
 		       			
 								<a href="http://www.canon-asia.com/personal/products/supplies/supplies-paper?languageCode=EN">Paper and media </a>&nbsp;
 		       			
+								<a href="http://www.canon-asia.com/personal/products/supplies/toner-cartridges?languageCode=EN">Toner</a>&nbsp;
+		       			
 			   		</div>
 		    		            
 	 		</div>
 	
-			<div class="product_category left" onclick="javascript:document.location.href='http://www.canon-asia.com/personal/products/projectors/projectors?languageCode=EN'" style="">
-				<div style="HEIGHT: 55px"><a href="http://www.canon-asia.com/personal/products/projectors/projectors?languageCode=EN"><img src="http://media.canon-asia.com/local/asia/stage/categories/consumer_projectors.gif"></a></div>
+			<div class="product_category left" onclick="javascript:window.open('http://www.canon-asia.com/personal/products/projectors/projectors?languageCode=EN', '_self')" style="">
+				<div style="HEIGHT: 55px"><img src="http://media.canon-asia.com/local/asia/stage/categories/consumer_projectors.gif"></div>
 				<div style="CLEAR: both"></div>
-	            <a class="category_name" href="http://www.canon-asia.com/personal/products/projectors/projectors?languageCode=EN">Projectors (XEED and LV)</a> 
-				<div style="CLEAR: both"></div>
-					            
-	 		</div>
-	
-			<div class="product_category left" onclick="javascript:document.location.href='http://www.canon-asia.com/personal/products/network-video-solutions/network-video-solutions?languageCode=EN'" style="">
-				<div style="HEIGHT: 55px"><a href="http://www.canon-asia.com/personal/products/network-video-solutions/network-video-solutions?languageCode=EN"><img src="http://media.canon-asia.com/local/asia/stage/categories/consumer_network_video_solutions.gif"></a></div>
-				<div style="CLEAR: both"></div>
-	            <a class="category_name" href="http://www.canon-asia.com/personal/products/network-video-solutions/network-video-solutions?languageCode=EN">Network video solutions</a> 
+	            <a class="category_name">Projectors (XEED and LV)</a> 
 				<div style="CLEAR: both"></div>
 					            
 	 		</div>
 	
-			<div class="product_category left" onclick="javascript:document.location.href='http://www.canon-asia.com/personal/products/binoculars/binoculars?languageCode=EN'" style="">
-				<div style="HEIGHT: 55px"><a href="http://www.canon-asia.com/personal/products/binoculars/binoculars?languageCode=EN"><img src="http://media.canon-asia.com/local/asia/stage/categories/consumer_binoculars.gif"></a></div>
+			<div class="product_category left" onclick="javascript:window.open('http://www.canon-asia.com/personal/products/network-video-solutions/network-video-solutions?languageCode=EN', '_self')" style="">
+				<div style="HEIGHT: 55px"><img src="http://media.canon-asia.com/local/asia/stage/categories/consumer_network_video_solutions.gif"></div>
 				<div style="CLEAR: both"></div>
-	            <a class="category_name" href="http://www.canon-asia.com/personal/products/binoculars/binoculars?languageCode=EN">Binoculars</a> 
+	            <a class="category_name">Network video solutions</a> 
 				<div style="CLEAR: both"></div>
 					            
 	 		</div>
 	
+			<div class="product_category left" onclick="javascript:window.open('http://www.canon-asia.com/personal/products/binoculars/binoculars?languageCode=EN', '_self')" style="">
+				<div style="HEIGHT: 55px"><img src="http://media.canon-asia.com/local/asia/stage/categories/consumer_binoculars.gif"></div>
+				<div style="CLEAR: both"></div>
+	            <a class="category_name">Binoculars</a> 
+				<div style="CLEAR: both"></div>
+					            
+	 		</div>
 	
 	<div style="clear:both"></div>
 	<div class="segment_link">
@@ -520,21 +547,22 @@ Developer resources</span></a></li>                                 </ul>
 				<div class="subfooter_bg">
 					
 						<script type="text/javascript">
-							document.getElementById("terms_container").style.display  = "none";
+							if (document.getElementById("terms_container")!=null)
+								document.getElementById("terms_container").style.display  = "none";
 						</script>
 					
 				    <div class="sub_footer">
 				        <div class="sub_footer">
     <div style="display: none;" id="sub_footer_tooltip" class="white">
-        <div onclick="window.open('http://www.facebook.com/sharer.php?u=' + window.location + '&amp;t=' + document.title);" style="background: transparent url(http://media.canon-asia.com/v3.5media/common/ic_shared/facebook.gif) no-repeat scroll left center; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous;"><a id="fbShareLink" href="http://www.facebook.com/sharer.php?share_url=https://web.archive.org/web/20111113052315id_/http%3A//www.canon-asia.com/personal/web/privacy&amp;share_title=Privacy policy - Canon in South and Southeast Asia - Personal" onclick="return false;" target="_blank" class="share_link_item">facebook</a>
+        <div onclick="window.open('http://www.facebook.com/sharer.php?u=' + window.location + '&amp;t=' + document.title);" style="background: transparent url(http://media.canon-asia.com/v3.5media/common/ic_shared/facebook.gif) no-repeat scroll left center; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous;"><a id="fbShareLink" href="http://www.facebook.com/sharer.php?share_url=https://web.archive.org/web/20120505065810id_/http%3A//www.canon-asia.com/personal/web/privacy%3FlanguageCode%3DEN&amp;share_title=Privacy policy - Canon in South and Southeast Asia - Personal" onclick="return false;" target="_blank" class="share_link_item">facebook</a>
         </div>
-        <div onclick="window.open('http://twitter.com/home?status=' + document.title + '+' + window.location + '+%23Canon');" style="background: transparent url(http://media.canon-asia.com/v3.5media/common/ic_shared/twitter.gif) no-repeat scroll left center; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous;"><a id="twitterShareLink" href="http://twitter.com/home?status=Privacy policy - Canon in South and Southeast Asia - Personal+https://web.archive.org/web/20111113052315id_/http%3A//www.canon-asia.com/personal/web/privacy+%23Canon" onclick="return false;" target="_blank" class="share_link_item">twitter</a>
+        <div onclick="window.open('http://twitter.com/home?status=' + document.title + '+' + window.location + '+%23Canon');" style="background: transparent url(http://media.canon-asia.com/v3.5media/common/ic_shared/twitter.gif) no-repeat scroll left center; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous;"><a id="twitterShareLink" href="http://twitter.com/home?status=Privacy policy - Canon in South and Southeast Asia - Personal+https://web.archive.org/web/20120505065810id_/http%3A//www.canon-asia.com/personal/web/privacy%3FlanguageCode%3DEN+%23Canon" onclick="return false;" target="_blank" class="share_link_item">twitter</a>
         </div>
-        <div onclick="window.open('http://del.icio.us/post?v=2&amp;url=' + window.location + '&amp;title=' + document.title);" style="background: transparent url(http://media.canon-asia.com/v3.5media/common/ic_shared/delicious.gif) no-repeat scroll left center; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous;"><a id="deliciousShareLink" href="http://del.icio.us/post?v=2&amp;url=https://web.archive.org/web/20111113052315id_/http%3A//www.canon-asia.com/personal/web/privacy&amp;title=Privacy policy - Canon in South and Southeast Asia - Personal" onclick="return false;" target="_blank" class="share_link_item">delicious</a>
+        <div onclick="window.open('http://del.icio.us/post?v=2&amp;url=' + window.location + '&amp;title=' + document.title);" style="background: transparent url(http://media.canon-asia.com/v3.5media/common/ic_shared/delicious.gif) no-repeat scroll left center; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous;"><a id="deliciousShareLink" href="http://del.icio.us/post?v=2&amp;url=https://web.archive.org/web/20120505065810id_/http%3A//www.canon-asia.com/personal/web/privacy%3FlanguageCode%3DEN&amp;title=Privacy policy - Canon in South and Southeast Asia - Personal" onclick="return false;" target="_blank" class="share_link_item">delicious</a>
         </div>
-        <div onclick="window.open('http://digg.com/submit?phase=2&amp;url=' + window.location + '&amp;title=' + document.title);" style="background: transparent url(http://media.canon-asia.com/v3.5media/common/ic_shared/digg.gif) no-repeat scroll left center; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous;"><a id="diggShareLink" href="http://digg.com/submit?phase=2&amp;url=https://web.archive.org/web/20111113052315id_/http%3A//www.canon-asia.com/personal/web/privacy&amp;title=Privacy policy - Canon in South and Southeast Asia - Personal" onclick="return false;" target="_blank" class="share_link_item">digg</a>
+        <div onclick="window.open('http://digg.com/submit?phase=2&amp;url=' + window.location + '&amp;title=' + document.title);" style="background: transparent url(http://media.canon-asia.com/v3.5media/common/ic_shared/digg.gif) no-repeat scroll left center; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous;"><a id="diggShareLink" href="http://digg.com/submit?phase=2&amp;url=https://web.archive.org/web/20120505065810id_/http%3A//www.canon-asia.com/personal/web/privacy%3FlanguageCode%3DEN&amp;title=Privacy policy - Canon in South and Southeast Asia - Personal" onclick="return false;" target="_blank" class="share_link_item">digg</a>
         </div>
-        <div onclick="window.open('http://www.stumbleupon.com/submit?url=' + window.location + '&amp;title=' + document.title);" style="background: transparent url(http://media.canon-asia.com/v3.5media/common/ic_shared/stumbleupon.gif) no-repeat scroll left center; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous;"><a id="stumbleUponShareLink" href="http://www.stumbleupon.com/submit?url=https://web.archive.org/web/20111113052315id_/http%3A//www.canon-asia.com/personal/web/privacy&amp;title=Privacy policy - Canon in South and Southeast Asia - Personal" onclick="return false;" target="_blank" class="share_link_item">stumbleupon</a>
+        <div onclick="window.open('http://www.stumbleupon.com/submit?url=' + window.location + '&amp;title=' + document.title);" style="background: transparent url(http://media.canon-asia.com/v3.5media/common/ic_shared/stumbleupon.gif) no-repeat scroll left center; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous;"><a id="stumbleUponShareLink" href="http://www.stumbleupon.com/submit?url=https://web.archive.org/web/20120505065810id_/http%3A//www.canon-asia.com/personal/web/privacy%3FlanguageCode%3DEN&amp;title=Privacy policy - Canon in South and Southeast Asia - Personal" onclick="return false;" target="_blank" class="share_link_item">stumbleupon</a>
         </div>
 
         <div onclick="javascript:openEmailPage();" style="background: transparent url(http://media.canon-asia.com/v3.5media/common/ic_shared/email_tooltip.gif) no-repeat scroll left center; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous;"><a id="emailShareLink" href="javascript:openEmailPage();" onclick="return false;" target="_blank" class="share_link_item">email</a>
