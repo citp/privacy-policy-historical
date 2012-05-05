@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the concentratemedia.com privacy policy that was archived on 2011-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102145533id_/http%3A//concentratemedia.com/about/privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the concentratemedia.com privacy policy that was archived on 2012-05-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120505081832id_/http%3A//www.concentratemedia.com/about/privacypolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head><title>
 	Privacy Policy
@@ -16,8 +16,8 @@
 <meta property="og:site_name" content="Concentrate"> 
 <meta property="og:title" content="Privacy Policy">
 <meta property="og:author" content="Concentrate">
-<meta property="og:image" content="http://www.concentratemedia.com/images/logo90x90.jpg">
-<meta property="og:description" content=""> 
+
+<meta property="og:description" content="">
 
 <link rel="stylesheet" type="text/css" href="/css/reset.css?v=1">
 <link rel="stylesheet" type="text/css" href="/css/grid.css?v=1">
@@ -27,13 +27,16 @@
 <link rel="stylesheet" type="text/css" href="/css/jquery.lightbox-0.5.css?v=1" media="screen">
 
 <!-- <script type="text/javascript" src="/script/jquery-1.2.6.min.js" ></script> -->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
 <script type="text/javascript" src="/script/jquery.lightbox-0.5.min.js"></script>
 <script type="text/javascript" src="/script/jquery.cycle.all.min.js"></script>
 <script type="text/javascript" src="/script/jquery.media_gallery-1.0.1.min.js"></script>
 <script type="text/javascript" src="/script/swfobject.js"></script>
+
 <script type="text/javascript" src="/script/site.js?v=2"></script>
 <script type="text/javascript" src="http://platform.linkedin.com/in.js"></script>
+
 
 <!--[if lt IE 7]>
     <link rel="stylesheet" type="text/css" href="/css/ie.6.css?v=2" />
@@ -47,13 +50,13 @@
 
 <script type="text/javascript">
 $(function() {
-	$('.relatedContent a.lightbox').lightBox({
-	    imageLoading: '/images/lightbox-ico-loading.gif?v=1',
-	    imageBtnPrev: '/images/lightbox-btn-prev.gif?v=1',
-	    imageBtnNext: '/images/lightbox-btn-next.gif?v=1',
-	    imageBtnClose: '/images/lightbox-btn-close.gif?v=1'
+    $('.relatedContent a.lightbox').lightBox({
+        imageLoading: '/images/lightbox-ico-loading.gif?v=1',
+        imageBtnPrev: '/images/lightbox-btn-prev.gif?v=1',
+        imageBtnNext: '/images/lightbox-btn-next.gif?v=1',
+        imageBtnClose: '/images/lightbox-btn-close.gif?v=1'
        }
-	);
+    );
 });
 
 var google_domain = 'www.concentratemedia.com';
@@ -163,7 +166,7 @@ var google_cof = 'FORID:11';
                 var curr_year = d.getFullYear();
                 document.write(d_names[curr_day] + ", " + m_names[curr_month] + " " + curr_date + ", " + curr_year);
                 //-->
-                </script>Thursday, January 30, 2020
+                </script>Monday, February 24, 2020
                 
                     <span> | </span> Follow Us: 
                     
@@ -270,11 +273,11 @@ var google_cof = 'FORID:11';
     
 <div class="section-container mastheadSection">
     <div class="masthead" id="mastheadImage">
-        <img src="/images/Features/Issue_171/patrick-elkins-01---DMC_5795.jpg" alt="Patrick Elkins and shadow puppets prepare for their State Theater show - Ypsilanti" width="980">
+        <img src="/images/Features/Issue_192/ypsi-library-mast.jpg" alt="Ypsilanti District Library on Whitaker Road - Ypsilanti" width="980">
     </div>
 
     <div class="photoCredit">
-        Patrick Elkins and shadow puppets prepare for their State Theater show - Ypsilanti - Doug Coombe <span>|</span> <a href="javascript:void(0);" onclick="ToggleMasthead();" id="toggleText">Show Photo</a>
+        Ypsilanti District Library on Whitaker Road - Ypsilanti - Doug Coombe <span>|</span> <a href="javascript:void(0);" onclick="ToggleMasthead();" id="toggleText">Show Photo</a>
     </div>
 
     <div class="clear"></div>
@@ -371,24 +374,28 @@ free movement of such data.</font> </p>
                 $('#facebookButton a').click(function (e) {
                     e.preventDefault();
                     var a = $(this);
-                    if (facebookLoginStatus) {
-                        var height = 400, width = 600;
-                        if ($.browser.msie) {//hacked together for IE browsers
-                            centeredY = (window.screenTop - 120) + ((((document.documentElement.clientHeight + 120) / 2) - (height / 2)));
-                            centeredX = window.screenLeft + ((((document.body.offsetWidth + 20) / 2) - (width / 2)));
+
+                    FB.getLoginStatus(function (response) {
+                        if (response.status === 'connected') {
+                            var height = 400, width = 600;
+                            if ($.browser.msie) {//hacked together for IE browsers
+                                centeredY = (window.screenTop - 120) + ((((document.documentElement.clientHeight + 120) / 2) - (height / 2)));
+                                centeredX = window.screenLeft + ((((document.body.offsetWidth + 20) / 2) - (width / 2)));
+                            } else {
+                                centeredY = window.screenY + (((window.outerHeight / 2) - (height / 2)));
+                                centeredX = window.screenX + (((window.outerWidth / 2) - (width / 2)));
+                            }
+                            window.open(a.attr('href'), a.attr('target'), 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=600,height=400,left=' + centeredX + ',top=' + centeredY, true).focus();
+//                        } else if (response.status === 'not_authorized') {
+//                            // the user is logged in to Facebook, 
+//                            // but has not authenticated your app
                         } else {
-                            centeredY = window.screenY + (((window.outerHeight / 2) - (height / 2)));
-                            centeredX = window.screenX + (((window.outerWidth / 2) - (width / 2)));
+                            // the user isn't logged in to Facebook.
+                            FB.login(function (r) {
+                                facebookLoginStatus = r.session;
+                            });
                         }
-                        window.open(a.attr('href'), a.attr('target'), 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=600,height=400,left=' + centeredX + ',top=' + centeredY, true).focus();
-                    }
-                    else {
-                        FB.login(function (r) {
-                            facebookLoginStatus = r.session;
-                        });
-                    }
-                });
-            });
+                    });
         </script>
 
         <div id="facebookButton" class="toolBarItem toolBarItemFacebook">
@@ -397,7 +404,7 @@ free movement of such data.</font> </p>
                     <span id="facebookCount"></span>
                 </div>
             </div>
-            <a rel="nofollow" href="http://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.concentratemedia.com%2fabout%2fprivacypolicy.aspx&amp;t=Privacy+Policy&quot;" target="Share" onclick="_gaq.push(['_trackSocial', 'facebook', 'send', 'http://www.concentratemedia.com/about/privacypolicy.aspx']);" class="toolbar-button facebook"><i></i><span>Share</span></a>
+            <a rel="nofollow" href="http://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.concentratemedia.com%2fabout%2fprivacypolicy.aspx&amp;t=Privacy+Policy" target="Share" onclick="_gaq.push(['_trackSocial', 'facebook', 'send', 'http://www.concentratemedia.com/about/privacypolicy.aspx']);" class="toolbar-button facebook"><i></i><span>Share</span></a>
         </div>
         
         <script type="text/javascript">
@@ -548,7 +555,7 @@ free movement of such data.</font> </p>
         }
     }
     // --> 
-    </script><script language="javascript" src="http://ds.issuemediagroup.com/a.aspx?ZoneID=274&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=10032&amp;SiteID=7&amp;Random=1580382939594"></script>
+    </script><script language="javascript" src="http://ds.issuemediagroup.com/a.aspx?ZoneID=274&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=10032&amp;SiteID=7&amp;Random=1582521305836"></script>
     <noscript>
 	    <a href="http://ds.issuemediagroup.com/a.aspx?ZoneID=274&Task=Click&Mode=HTML&SiteID=7&PageID=10032" target="_blank"><img src="http://ds.issuemediagroup.com/a.aspxZoneID=274&Task=Get&Mode=HTML&SiteID=7&PageID=10032" border="0"  alt="" ></a>
     </noscript>
@@ -577,7 +584,7 @@ free movement of such data.</font> </p>
         }
     }
     // --> 
-    </script><script language="javascript" src="http://ds.issuemediagroup.com/a.aspx?ZoneID=275&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=10032&amp;SiteID=7&amp;Random=1580382939596"></script>
+    </script><script language="javascript" src="http://ds.issuemediagroup.com/a.aspx?ZoneID=275&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=10032&amp;SiteID=7&amp;Random=1582521305837"></script>
     <noscript>
 	    <a href="http://ds.issuemediagroup.com/a.aspx?ZoneID=275&Task=Click&Mode=HTML&SiteID=7&PageID=10032" target="_blank"><img src="http://ds.issuemediagroup.com/a.aspxZoneID=275&Task=Get&Mode=HTML&SiteID=7&PageID=10032" border="0"  alt="" ></a>
     </noscript>
@@ -606,7 +613,7 @@ free movement of such data.</font> </p>
         }
     }
     // --> 
-    </script><script language="javascript" src="http://ds.issuemediagroup.com/a.aspx?ZoneID=276&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=10032&amp;SiteID=7&amp;Random=1580382939596"></script>
+    </script><script language="javascript" src="http://ds.issuemediagroup.com/a.aspx?ZoneID=276&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=10032&amp;SiteID=7&amp;Random=1582521305838"></script>
     <noscript>
 	    <a href="http://ds.issuemediagroup.com/a.aspx?ZoneID=276&Task=Click&Mode=HTML&SiteID=7&PageID=10032" target="_blank"><img src="http://ds.issuemediagroup.com/a.aspxZoneID=276&Task=Get&Mode=HTML&SiteID=7&PageID=10032" border="0"  alt="" ></a>
     </noscript>
@@ -635,7 +642,7 @@ free movement of such data.</font> </p>
         }
     }
     // --> 
-    </script><script language="javascript" src="http://ds.issuemediagroup.com/a.aspx?ZoneID=277&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=10032&amp;SiteID=7&amp;Random=1580382939598"></script>
+    </script><script language="javascript" src="http://ds.issuemediagroup.com/a.aspx?ZoneID=277&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=10032&amp;SiteID=7&amp;Random=1582521305839"></script>
     <noscript>
 	    <a href="http://ds.issuemediagroup.com/a.aspx?ZoneID=277&Task=Click&Mode=HTML&SiteID=7&PageID=10032" target="_blank"><img src="http://ds.issuemediagroup.com/a.aspxZoneID=277&Task=Get&Mode=HTML&SiteID=7&PageID=10032" border="0"  alt="" ></a>
     </noscript>
@@ -664,7 +671,7 @@ free movement of such data.</font> </p>
         }
     }
     // --> 
-    </script><script language="javascript" src="http://ds.issuemediagroup.com/a.aspx?ZoneID=278&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=10032&amp;SiteID=7&amp;Random=1580382939600"></script>
+    </script><script language="javascript" src="http://ds.issuemediagroup.com/a.aspx?ZoneID=278&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=10032&amp;SiteID=7&amp;Random=1582521305839"></script>
     <noscript>
 	    <a href="http://ds.issuemediagroup.com/a.aspx?ZoneID=278&Task=Click&Mode=HTML&SiteID=7&PageID=10032" target="_blank"><img src="http://ds.issuemediagroup.com/a.aspxZoneID=278&Task=Get&Mode=HTML&SiteID=7&PageID=10032" border="0"  alt="" ></a>
     </noscript>
@@ -693,7 +700,7 @@ free movement of such data.</font> </p>
         }
     }
     // --> 
-    </script><script language="javascript" src="http://ds.issuemediagroup.com/a.aspx?ZoneID=279&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=10032&amp;SiteID=7&amp;Random=1580382939600"></script>
+    </script><script language="javascript" src="http://ds.issuemediagroup.com/a.aspx?ZoneID=279&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=10032&amp;SiteID=7&amp;Random=1582521305840"></script>
     <noscript>
 	    <a href="http://ds.issuemediagroup.com/a.aspx?ZoneID=279&Task=Click&Mode=HTML&SiteID=7&PageID=10032" target="_blank"><img src="http://ds.issuemediagroup.com/a.aspxZoneID=279&Task=Get&Mode=HTML&SiteID=7&PageID=10032" border="0"  alt="" ></a>
     </noscript>
