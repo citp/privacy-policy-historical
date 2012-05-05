@@ -1,18 +1,19 @@
-> *The following text is extracted and transformed from the axitrader.com.au privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223054435id_/http%3A//www.axitrader.com.au/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axitrader.com.au privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505030948id_/http%3A//www.axitrader.com.au/privacy-policy.aspx) for the most accurate reproduction.*
 
 # AxiTrader - Privacy Policy
 
 |  |  |   
 ---|---|---  
 |  |   
-|  |  [](https://web.archive.org/web/20111223054435id_/http%3A//www.axitrader.com.au/open-account.aspx)  
-[](https://web.archive.org/web/20111223054435id_/http%3A//www.axitrader.com.au/howto-fund-account.aspx)  
-[](https://web.archive.org/web/20111223054435id_/http%3A//www.axitrader.com.au/credit-card-funding.aspx)  
-[](https://web.archive.org/web/20111223054435id_/http%3A//www.axitrader.com.au/Market-News.aspx)  
-[](https://web.archive.org/web/20111223054435id_/http%3A//www.axitrader.com.au/Education.aspx)  
-[](https://web.archive.org/web/20111223054435id_/http%3A//www.axitrader.com.au/attend-a-seminar.aspx)  
-[](https://web.archive.org/web/20111223054435id_/http%3A//www.axitrader.com.au/Trading-Challenge.aspx)  
-[](https://web.archive.org/web/20111223054435id_/http%3A//www.axitrader.com.au/MYFX-Information.aspx)  
+|  |  [](https://web.archive.org/web/20120505030948id_/http%3A//www.axitrader.com.au/open-account.aspx)  
+[](https://web.archive.org/web/20120505030948id_/http%3A//www.axitrader.com.au/AxiTraderPro-Account.aspx)  
+[](https://web.archive.org/web/20120505030948id_/http%3A//www.axitrader.com.au/howto-fund-account.aspx)  
+[](https://web.archive.org/web/20120505030948id_/http%3A//www.axitrader.com.au/credit-card-funding.aspx)  
+[](https://web.archive.org/web/20120505030948id_/http%3A//www.axitrader.com.au/Market-News.aspx)  
+[](https://web.archive.org/web/20120505030948id_/http%3A//www.axitrader.com.au/Education.aspx)  
+[](https://web.archive.org/web/20120505030948id_/http%3A//www.axitrader.com.au/attend-a-seminar.aspx)  
+[](https://web.archive.org/web/20120505030948id_/http%3A//www.axitrader.com.au/Trading-Challenge.aspx)  
+[](https://web.archive.org/web/20120505030948id_/http%3A//www.axitrader.com.au/MT4-VPS-Hosting.aspx)  
 |  | | |   
 ---|---|---  
 | 
@@ -96,7 +97,8 @@ You have certain rights of access to some or all of the personal data we collect
 
 |   
 | |   
-  
+[ ](http://www.comm100.com/livechat)
+
 First Name:   
 
 
@@ -114,8 +116,8 @@ Mobile Number: 
 
 lblMessage
 
-[](https://web.archive.org/web/20111223054435id_/http%3A//www.axitrader.com.au/forex-trading-broker.aspx)  
-[](https://web.archive.org/web/20111223054435id_/http%3A//www.axitrader.com.au/introducing-brokers.aspx)  
-[](https://web.archive.org/web/20111223054435id_/http%3A//www.axitrader.com.au/metatrader-download-refer-a-lead.aspx)  
+[](https://web.archive.org/web/20120505030948id_/http%3A//www.axitrader.com.au/forex-trading-broker.aspx)  
+[](https://web.archive.org/web/20120505030948id_/http%3A//www.axitrader.com.au/forex-partners.aspx)  
+[](https://web.archive.org/web/20120505030948id_/http%3A//www.axitrader.com.au/metatrader-download-refer-a-lead.aspx)  
   
-AxiCorp Financial Services Pty Ltd is regulated in Australia by ASIC. Australian Financial Services Licence No: 318232. view our [privacy policy](https://web.archive.org/web/20111223054435id_/http%3A//www.axitrader.com.au/privacy-policy.aspx) and [disclaimer](https://web.archive.org/web/20111223054435id_/http%3A//www.axitrader.com.au/P-Disclaimer.htm).
+AxiCorp Financial Services Pty Ltd is regulated in Australia by ASIC. Australian Financial Services Licence No: 318232. view our [privacy policy](https://web.archive.org/web/20120505030948id_/http%3A//www.axitrader.com.au/privacy-policy.aspx) and [disclaimer](https://web.archive.org/web/20120505030948id_/http%3A//www.axitrader.com.au/P-Disclaimer.htm).
