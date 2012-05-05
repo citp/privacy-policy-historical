@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xoom.com privacy policy that was archived on 2011-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111026100951id_/https%3A//www.xoom.com/sendmoneynow/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xoom.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505081745id_/https%3A//www.xoom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Xoom
 
@@ -8,7 +8,7 @@ We are committed to protecting our customers' privacy and security. This Privacy
 
 [](https://clicktoverify.truste.com/pvr.php?page=validate&url=www.xoom.com&lang=en&sealid=101) Xoom Corporation has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
 
-If you have questions or concerns regarding this statement, you should first [contact us](https://web.archive.org/sendmoneynow/contact-xoom-customer-service). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+If you have questions or concerns regarding this statement, you should first [contact us](https://web.archive.org/contact-xoom-customer-service). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 We may amend this policy at any time, and shall notify you by posting a revised version on our website. Should we make a material change to the manner in which we collect, use or store your personal information, we shall provide prior notice on our Site, or by email.
 
@@ -44,7 +44,7 @@ We collect information for the following purposes:
 
 
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact [customer service](https://web.archive.org/sendmoneynow/contact-xoom-customer-service). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact [customer service](https://web.archive.org/contact-xoom-customer-service). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ## HOW WE SHARE INFORMATION WITH OTHERS
 
@@ -59,7 +59,7 @@ We do not sell or rent the information we collect to third parties for their pro
 
 
 
-Our Web site offers publicly accessible blogs. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog, contact [customer service](https://web.archive.org/sendmoneynow/contact-xoom-customer-service). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our Web site offers publicly accessible blogs. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog, contact [customer service](https://web.archive.org/contact-xoom-customer-service). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 ## ACCESS TO YOUR INFORMATION
 
@@ -73,7 +73,7 @@ We employ industry accepted standards in protecting the information you submit t
 
 Federal and state laws allow you to restrict the sharing of your personal information in certain instances. However, these laws also state that you cannot restrict other types of sharing. Because we have chosen to refrain from certain types of data sharing, the only type of sharing of your personal information that you may restrict is as follows:
 
-  * If, after giving us your permission to share your personal information with third parties with whom we market our jointly offered products, you later decide that you no longer want us to share such information, you may contact us by [email](https://web.archive.org/sendmoneynow/contact-xoom-customer-service); fax at 415-777-8690; or by mail at Xoom Corporation, attn: Customer Service, 100 Bush Street, Suite 300, San Francisco CA 94104-3906, USA. 
+  * If, after giving us your permission to share your personal information with third parties with whom we market our jointly offered products, you later decide that you no longer want us to share such information, you may contact us by [email](https://web.archive.org/contact-xoom-customer-service); fax at 415-777-8690; or by mail at Xoom Corporation, attn: Customer Service, 100 Bush Street, Suite 300, San Francisco CA 94104-3906, USA. 
   * You may also opt-out from promotional emails to you by accessing your E-mail Preferences & selecting the "Unsubscribe" function present in each email we send out. 
 
 
@@ -90,4 +90,4 @@ The Site contains links to other web sites. Xoom Corporation is not responsible 
 
 You can contact us with any questions or concerns at: Xoom Corporation, 100 Bush Street, Suite 300, San Francisco CA 94104-3906
 
-Email: [Customer Service](https://web.archive.org/sendmoneynow/contact-xoom-customer-service)
+Email: [Customer Service](https://web.archive.org/contact-xoom-customer-service)
