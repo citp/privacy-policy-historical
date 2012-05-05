@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icovia.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114064936id_/http%3A//www.icovia.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icovia.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505092935id_/http%3A//www.icovia.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ Icovia is committed to protecting and respecting your privacy. Indeed, protectio
 
 In as far as this represents best practice on the web, Icovia is committed to complying with these standards so that members can feel secure in the knowledge that their personal data is properly managed. 
 
-If you have questions or concerns regarding this statement, you should first contact Icovia Customer Support via the contact form at http://www.icovia.com/contact.aspx. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, please contact our Customer Advocate at (+1) 603-845-0089. 
+If you have questions or concerns regarding this statement, you should first contact Icovia Customer Support via the contact form at http://www.icovia.com/contact.aspx. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, please contact our Customer Advocate at (+1) 514-332-4112 ext 611. 
 
 This document discloses the privacy practices for the Icovia Space Planner and icovia.com including: - What personally identifiable information of yours is collected - What organization is collecting the information - How the information is used - With whom the information may be shared - What choices are available to you regarding collection, use and distribution of the information - What kind of security procedures are in place to protect the loss, misuse or alteration of information under Icovia's control - How you can correct any inaccuracies in the information 
 
@@ -102,7 +102,7 @@ Icovia believes in procatively informing its customers and users of changes in i
 
 If you have any questions about the Privacy Policy, the practices of, or your dealings with this site, please contact Icovia at: 
 
-e-mail: support@icovia.com 
+e-mail: helpdesk@2020.net 
 
 Mail: 
 
@@ -116,6 +116,6 @@ Londonderry, NH 03053
 
 USA 
 
-Telephone: (+1) 603-845-0089 
+Telephone: (+1) 514-332-4112 ext 611 
 
 Fax: (+1) 603-845-0064
