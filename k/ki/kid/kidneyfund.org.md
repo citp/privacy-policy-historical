@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidneyfund.org privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007080329id_/http%3A//www.kidneyfund.org/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidneyfund.org privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505152825id_/http%3A//www.kidneyfund.org/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,9 +44,5 @@ American Kidney Fund, Inc.
 6110 Executive Boulevard, Suite 1010  
 Rockville, MD 20852
 
-| 
-
-[](https://gms.kidneyfund.org/GMSexternal/NotAuthenticated/Login.aspx)
-
-[](https://secure2.convio.net/akf/site/Donation2?df_id=2100&2100.donation=form1)  
+|   
 ---|---|---
