@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alloywheels.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101193518id_/http%3A//www.alloywheels.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alloywheels.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505153402id_/http%3A//www.alloywheels.com/Privacy) for the most accurate reproduction.*
 
 # Security and Privacy - Alloy Wheels - Specialist supplier of alloy wheels and tyres packages, Fast Delivery, Buy Online.
 
@@ -69,4 +69,4 @@ The purpose of this statement is to set out how we use personal information that
 
 12\. Please be aware that our site may link to other web sites which may be accessed through our site. We are not responsible for the data policies or procedures or the content of these linked web sites.
 
-For further information about shopping please read our [Terms and Conditions](https://web.archive.org/web/20111101193518id_/http%3A//www.alloywheels.com/terms.asp). 
+For further information about shopping please read our [Terms and Conditions](https://web.archive.org/Terms). 
