@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the pcoptimizerpro.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209070604id_/http%3A//www.pcoptimizerpro.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcoptimizerpro.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505042823id_/http%3A//www.pcoptimizerpro.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
+|   
 ---  
 Our Privacy Guarantee  
-We will never sell, rent or share any of your personal information with a third-party without your express prior permission. For customers, this means that the only people who will ever access your address and contact information are us and our credit card processor.  
+We will never sell, rent or share any of your personal information with a third-party without your express prior permission. For customers, this means that the only people who will ever access your address and contact information are us and our credit card processor. [ Click here](http://www.clickbank.com/privacy.html) to view more about our payment gateway privacy policy.  
 Cookies  
 Our Site uses cookies to make sure you don't see the same ad repeatedly. We also use cookies to deliver content specific to your interests, and to save your password so you don't have to re-enter it each time you visit our site. We may also use cookies to assist in the ordering and sales process.  
 Advertisers  
@@ -42,6 +43,8 @@ Security
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.  
 Automatically Logging  
 Our systems log information including your IP address, browser and operating system to help diagnose problems with our server and to administer our Web site.  
+Difference between Trial and Full version  
+With our trial version, you will have limited features. In order to avail all PC Optimizer Pro features you need to purchase full version via our payment gateway clickbank.net. You have credit card/paypal option to purchase. Your privacy will be maintained.  
 Children's Guidelines  
   
 We care about children and understand that they have special privacy needs. Therefore, we have adopted the following privacy policy regarding children:  
