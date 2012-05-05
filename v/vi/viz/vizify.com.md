@@ -1,100 +1,84 @@
-> *The following text is extracted and transformed from the vizify.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vizify.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505050143id_/http%3A//vizify.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy || Vizify
 
-**Go Daddy Respects Your Privacy**
+**Our commitment to your privacy**
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+SteamFunk Labs Inc., a Delaware corporation d/b/a Vizify ("Vizify"), respects your individual privacy. Our privacy policy documents our adherence to industry standards for the protection of your personal information. 
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+**Scope of the Privacy Policy**
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+This Privacy Policy covers Vizify's treatment of personally identifiable information that may be collected while you are on the Vizify site, when you order its products, use its services or that is shared with Vizify by its business partners. This policy does not apply to the practices of companies not owned or controlled by Vizify or to people whom Vizify does not employ or manage, nor does it address non-personally identifiable information. The policy specifically addresses the following areas: 
+
+  * What personally identifiable information is collected by Vizify or by any third party through our site; 
+  * How Vizify uses this information; 
+  * With whom Vizify may share this information; 
+  * What choices are available to you as a user of the site with respect to collection, use and distribution of the information; 
+  * What types of security procedures are in place to protect the loss, misuse or alteration of information under our control; and 
+  * How you can correct any inaccuracies in the information. 
+
+
 
 **Information Collection and Use**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+Vizify is the sole owner of the information collected on this site. Vizify may collect information from you at two different stages. First, we collect anonymous, aggregate information from all visitors to the site. This information is never linked to any personally identifiable information and is only used in the aggregate to generate statistical reports about the use of our site. Second, Vizify collects personally identifiable information when you create a Vizify account and/or when you utilize certain Vizify services. Online account creation may require you to submit some or all of the following personal information: name, address, company information, email address, and phone number. For purposes of billing, you may need to provide your credit card type, number, expiration date and billing address for the card. Certain personally identifiable information is required if you subscribe to a Vizify newsletter, or sign up to participate in a promotion, sweepstake or survey through the site. Vizify may also receive personally identifiable information from our business partners.  Additional terms and conditions related to our use of your personally identifiable information can be found in Vizify's Terms of Services which terms are incorporated herein by this reference. 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+**Personal Information of Children Under 13**
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+Vizify complies with the requirements of the Children's Online Privacy Protection Act (COPPA) and the FTC's Rule interpreting COPPA (16 CFR § 512). This site is not directed to children and does not knowingly collect any personally identifiable information form children under 13 years of age. 
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+**Your Disclosures to Third Parties**
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+To the extent you include personal data in your submissions (such as your email address, phone number or photo of yourself), third parties may be able to identify you, associate you with your user account, and contact you. Please do not include information in your submissions that you expect to keep private. Please also note that the personal messages you send or receive using any website personal messaging feature, if available, are only private to the extent that you and the sender/recipient keep them private. For example, we do not have any control over whether a recipient of one of your personal messages publicly posts the contents of such a message. 
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+**Use of Your Personal Information**   
+Our primary goal in collecting information from you is to provide you with a smooth, efficient and customized experience while using our site and to allow us to provide products and services to you.  Vizify will never give your information to, or share your information with, any third party not affiliated with or owned by Vizify, except as permitted by law. Vizify will send personally identifiable information about you to other companies or people when: 
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+  * We have your consent to share the information; 
+  * We need to share your information to provide the products or services you have requested; 
+  * We need to send the information to companies who work on behalf of Vizify to provide a product or service to you. (Unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us); or 
+  * We respond to subpoenas, court orders, or legal process or find that your actions on our web site violate the Vizify Terms of Service or any of our usage guidelines for specific products or services. 
+
+
+
+_Profile_   
+We store information that we collect through cookies and log files to create a profile of our customers. A profile is stored information detailing how individual customers use the site. Collected information in a profile is tied to the customer's personally identifiable information. However, your profile is used solely for internal purposes, to help us improve the experience of our customers. We do not share your profile with any third parties. 
+
+_Cookies_   
+A cookie is a small text file stored on the customer's hard drive for an extended period of time. The cookies can be removed by following Internet browser help file directions. Allowing a cookie to remain on your computer makes it easier for you to log in to and use the site. 
+
+_Log files_   
+Log files record internet protocol (IP) addresses, browser types, internet service provider (ISP) referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track a customer's movement in the aggregate and gather broad demographic information for aggregate use. IP addresses, etc are not linked to personally identifiable information. 
+
+**Disclosure of Personal Information As Required By Law  
+** We will disclose personal information when required by law, or if we have good-faith belief that such action is necessary to (a) comply with current judicial proceedings, a court order or legal process served on us, (b) protect and defend our rights, or (c) protect the rights, property, and other interests of our users or others. ****
+
+**Business Transitions**
+
+In the event that Vizify goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, our customers' personal information may be part of the assets transferred. If, as a result of the business transaction, your personally identifiable information will be used in a manner materially different from that stated at the time of collection, you will be given notice consistent with our Notification of Changes section. 
+
+**Links**
+
+This site may contain links to and portions of other sites. Vizify is not responsible for the privacy practices or content of these other sites. When you leave our site or view a portion of a third party's site through our site, we encourage you to read the privacy statements of each such site. This privacy statement applies solely to information collected by Vizify. 
 
 **Security**
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+Wherever your personal information may be held within Vizify or on its behalf, we intend to take commercially reasonable and appropriate steps to protect the personal information that you share with us from unauthorized access or disclosure. However, given the nature of the Internet and the fact that network security measures are not infallible, we cannot guarantee the security of your information. We use encryption to protect sensitive information online. The servers that store your personally identifiable information are housed in a secure environment. Finally, we also make an effort to protect your information off-line. 
 
-**Updating Your Information**
+When registering for access to a secure area of the site, we may ask you to select a username and password. We recommend that you do not divulge your password to anyone. We will never ask you for your password in an unsolicited phone call or in an unsolicited email. Also, remember to sign out of the registered site and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence when accessing your computer. 
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+**Correcting, Updating, Deleting and Deactivating Personal Information**
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+If your personally identifiable information changes, you may contact us to correct, update or delete and deactivate our record of your personally identifiable information.                       ****
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+**Notification of** **Changes**
 
-      iii.      You may call us at: (480) 505-8800
+Vizify may edit this policy from time to time. If we make any substantial changes, we will prominently post a notice on this page to alert you of the change. 
 
-       iv.      You may fax us at: (480) 505-8844
+**Your California Privacy Rights**
 
-**Sending Emails**
+California Civil Code Section 1798.83 permits customers who are California residents to request that Vizify not share their personal data with third parties for such parties' direct marketing purposes. To make such a request, send an e-mail with "California Privacy" in the subject line to policy@vizify.com 
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+**Contact Information**
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+If you have any questions about our privacy policy, please contact us at [policy@vizify.com](mailto:policy@vizify.com)
