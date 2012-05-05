@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the lacava.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102104256id_/http%3A//www.lacava.com/Privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacava.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505094114id_/http%3A//www.lacava.com/Privacy_statement.htm) for the most accurate reproduction.*
 
 # 
 
 **Lacava LLC Privacy Statement  
-**Updated: December, 2009
+**Updated: January, 2011
 
 This privacy statement has been created to disclose how the information collected on this web site is used. Lacava LLC recognizes that privacy is an important issue in the information age, thus, our firm is greatly committed to our customers’ privacy. 
 
@@ -25,7 +25,7 @@ The automatically collected data, including your IP address, is used to recogniz
 
 Areas of this web site that serve you to conduct e-commerce may share your information with outside companies to allow for processing of those transactions. 
 
-Occasionally, Lacava LLC hires outside services to perform mailing and other promotional services, in which cases the collected data is shared with those outside companies. However, those companies are only provided the personal data necessary for delivery of the service and are required to keep the information confidential and prohibited from making use of that data for any other purposes. Lacava LLC may be required to disclose personal information in legal proceedings if ordered so by the law, or to protect our company, rights, and property. 
+Occasionally, Lacava LLC hires outside services to perform mailing and other promotional services, in which cases the collected data is shared with those outside companies. However, those companies are only provided the personal data necessary for delivery of the service and are required to keep the information confidential and prohibited from making use of that data for any other purposes. Lacava LLC may be required to disclose personal information in legal proceedings if ordered so by the law, or to protect our company rights, and property. 
 
 With exception of this narrow provision stated above, Lacava LLC does not share, sell, license or disclose your personal information with any outside parties. 
 
@@ -41,10 +41,10 @@ We reserve the right to modify, change, or update this Privacy Statement without
 
 **UNSUBSCRIBING**
 
-You can request to be removed from our databases to stop our communication with you at any time. Please write to Lacava LLC, 2243 S. Throop St., Chicago, IL 60608; or email [info@lacava.com](mailto:info@lacava.com) with “remove” in the subject line. Even if your personal information is removed from our promotional databases, all past transactions with you will remain on our records for accounting control and product servicing. 
+You can request to be removed from our databases to stop our communication with you at any time. Please write to Lacava LLC, 6630 W. Wrightwood Ave., Chicago, IL 60707; or email [info@lacava.com](mailto:info@lacava.com) with “remove” in the subject line. Even if your personal information is removed from our promotional databases, all past transactions with you will remain on our records for accounting control and product servicing. 
 
 **COMMUNICATION REGARDING THIS PRIVACY STATEMENT**
 
-Should you feel necessary to communicate your questions or concerns regarding this Privacy Statement, please feel free to write to Lacava LLC, 2243 S. Throop St., Chicago, IL 60608. 
+Should you feel necessary to communicate your questions or concerns regarding this Privacy Statement, please feel free to write to Lacava LLC, 6630 W. Wrightwood Ave., Chicago, IL 60707. 
 
 We welcome your inquiries and hope to exceed your expectations in every area of our business policies. 
