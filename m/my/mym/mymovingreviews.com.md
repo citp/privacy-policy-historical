@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymovingreviews.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208234626id_/http%3A//www.mymovingreviews.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymovingreviews.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505055733id_/http%3A//www.mymovingreviews.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - MyMovingReviews
 
@@ -11,7 +11,7 @@ How is my privacy protected when I leave comments?
 How will I know if you change your privacy policy?  
 What kind of security measures do you take?  
 What are the limits of your Privacy Policy?  
-How can I change my personal information?  
+How can I change my personal information?** **  
 What if I have more questions?  
 How can I be sure that you adhere to your Privacy Policy?**
 
@@ -28,6 +28,8 @@ We plan that, from time to time, we will provide certain companies (like our adv
 When the quick moving quote form or the free moving calculator form or the cost calculator is filled, the information is forwarded to partnering moving companies and moving brokers that will use the information you have submitted to provide you with commercial information. The moving reviews information and the quick quote form information are not linked and are two totally separate types of information collected and saved in separate places.
 
 From time to time we create co-branded or private label versions of our web site for third parties. A co-branded or private label version of our web site will bear the trademark or service mark, and perhaps the "look and feel", of the third party sponsor ("Co-Brand Sponsor") whose link brought you to our site. Personal information collected during the registration process from users of co-branded and private label versions of our web site will be shared with the relevant Co-Brand Sponsor. We require that each Co-Brand Sponsor commit to us that its collection and use of personal information shall be no less protective of users' privacy than permitted by this Privacy Policy, as modified from time to time. However, while we strive to associate with other businesses who value your privacy, we are not responsible for the privacy practices of the Co-Brand Sponsors. You may wish to review those sites' privacy policies.
+
+We also track the website visitors through cookies for analytical and statistical purposes. This tracking is not tied to any personal information and cannot uniquely identify you. We also use Google Site Stats conversion tracking on all moving quote forms, estimate forms and calculator forms, as well as register company pages and write a review pages. The Google Site Stats tracking is used to better target ads in the Google Display Network (also called as Retargeting or Remarketing) as well as measuring the number of form fills. This information cannot be used to personally identify you.
 
 If you are moving company and apply for a moving company account, please read the next chapter.
 
