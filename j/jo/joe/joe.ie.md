@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joe.ie privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102041850id_/http%3A//www.joe.ie/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joe.ie privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505031259id_/http%3A//www.joe.ie/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -47,6 +47,6 @@ You may inform us of any changes in your Personal Data, and in accordance with o
 
 Any changes to this Website Privacy Statement will be posted on this website so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any time we decide to use Personal Data in a manner significantly different from that stated in this Website Privacy Statement, or otherwise disclosed to you at the time it was collected, we will notify you by email, and you will have a choice as to whether or not we use your information in the new manner.
 
-Any queries or comments about this policy should be forwarded to: [info@joe.ie](mailto:info@joe.ie)
+ **Any queries or comments about this policy should be sent to[info@joe.ie](mailto:info@joe.ie) **
 
 Please note that any site that you may connect to from here is not covered by this Privacy Policy.
