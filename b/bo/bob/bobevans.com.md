@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bobevans.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108013728id_/http%3A//bobevans.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bobevans.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505044154id_/http%3A//www.bobevans.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Bob Evans, Discover Farm-Fresh Goodness | Privacy Policy
 
@@ -9,8 +9,8 @@ This Privacy Policy statement applies only to the information collected online i
 ### TABLE OF CONTENTS
 
   * What Type of Information do we Collect?
-  * Link to Online Ordering
-  * How do we use Personal Information Collected Online?
+  * Link to Online Ordering At Our Restaurants
+  * Link to Online Ordering For Gift Pack Orders @ ShopBobEvans.com
   * What Information do we Share with or Disclose to Third Parties?
   * Public Forums
   * Update your Personal Information
@@ -38,9 +38,15 @@ We gather information through two means – navigational information gathered wh
 
 Back to Top
 
-### Link to Online Ordering
+### Link to Online Ordering At Our Restaurants
 
 For your convenience, our Web site contains a link to online ordering. When you order online, your information is provided to BobEvans.com and [KudzuInteractive.com](http://www.kudzuinteractive.com/) through [SnapFinger.com.](http://www.snapfinger.com/). BobEvans.com maintains your information according to the terms of our Privacy Policy. For more information on the privacy policies of Kudzu Interactive and/or Snapfinger, please visit the Kudzu Interactive website at [KudzuInteractive.com ](http://www.kudzuinteractive.com/)or the Snapfinger website at [SnapFinger.com.](http://www.snapfinger.com/)
+
+Back to Top
+
+### Link To Online Ordering For Gift pack Orders @ ShopBobEvans.com
+
+When you order gift packs online via [www.shopbobevans.com](http://www.shopbobevans.com/), your information is provided to Burgers Ozark Country Cured Hams, Inc. at Smokehouse.com. For more information on the privacy policies of Burgers Ozark Country Cured Hams, Inc., please visit their website at [www.smokehouse.com ](http://www.smokehouse.com/)
 
 Back to Top
 
