@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gojee.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102001716id_/http%3A//www.gojee.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gojee.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505064431id_/http%3A//www.gojee.com/privacy_policy) for the most accurate reproduction.*
 
 # 
 
 ### Overview
 
-Gojee provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of the Gojee Service, including but not limited to the website at [http://www.gojee.com](http://www.gojee.com/), the [admin@gojee.com](mailto:admin@gojee.com) email address and the mobile applications created by Gojee. 
+Gojee provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of the Gojee Service, including but not limited to the website at [http://www.gojee.com](http://www.gojee.com/), the [contact@gojee.com](mailto:contact@gojee.com) email address and the mobile applications created by Gojee. 
 
 Gojee reserves the right to modify the Privacy Policy without explicit notice. Continued use of the Service after any such changes shall constitute your consent to such changes. You are responsible for reviewing our current Privacy Policy at <http://www.gojee.com/privacy>
 
@@ -16,7 +16,7 @@ BY USING THE GOJEE SERVICE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY P
 
 By using our Service you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing" means using cookies on a computer or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States. If you reside outside the U.S. your personally identifiable information will be transferred to the U.S., and processed and stored there under U.S. privacy standards. By using our Service and providing information to us, you consent to such transfer to, and processing in, the US. 
 
-If you have any questions or comments about this Privacy Policy or our use of your personally identifiable information, please contact us at [admin@gojee.com](mailto:admin@gojee.com). 
+If you have any questions or comments about this Privacy Policy or our use of your personally identifiable information, please contact us at [contact@gojee.com](mailto:contact@gojee.com). 
 
 ### Information Collection and Use
 
@@ -32,7 +32,7 @@ Feedback. If you contact us to provide feedback, register a complaint, or ask a 
 
 Activity. We record information relating to your use of the Gojee Service, such as the searches you undertake, the pages you view, your browser type, IP address, requested URL, referring URL, and timestamp information. We use this type of information to administer the Gojee Service and provide the highest possible level of service to you. We also use this information in the aggregate to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the Gojee Service. You cannot be identified from this aggregate information. 
 
-Login location. When you sign into Gojee, we use your approximate physical location (based on the Internet Protocol address of your computer or your Current Location, should you choose to provide it, via your iPhone) to provide more relevant suggestions to you. 
+Login location. When you Loginto Gojee, we use your approximate physical location (based on the Internet Protocol address of your computer or your Current Location, should you choose to provide it, via your iPhone) to provide more relevant suggestions to you. 
 
 Cookies. We send cookies to your computer in order to uniquely identify your browser and improve the quality of our service. The term "cookies" refers to small pieces of information that a website sends to your computer's hard drive while you are viewing the Service. We may use both session cookies (which expire once you close your browser) and persistent cookies (which stay on your computer until you delete them). Persistent cookies can be removed by following your browser help file directions. If you choose to disable cookies, some areas of the Gojee Service may not work properly or at all. 
 
@@ -88,4 +88,4 @@ Our Service and the services available through Gojee are not intended for childr
 
 ### Questions or Concerns
 
-If you have any questions or concerns regarding privacy, please contact us at [admin@gojee.com](mailto:admin@gojee.com). Your privacy is important to us and we will make every effort to resolve your concerns. 
+If you have any questions or concerns regarding privacy, please contact us at [contact@gojee.com](mailto:contact@gojee.com). Your privacy is important to us and we will make every effort to resolve your concerns. 
