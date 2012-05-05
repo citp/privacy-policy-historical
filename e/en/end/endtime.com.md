@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endtime.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218190803id_/http%3A//www.endtime.com/shop/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endtime.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505020950id_/https%3A//www.endtime.com/shop/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Endtime Ministries
 
@@ -25,7 +25,11 @@ Commitment to Data Security Your personally identifiable information is kept sec
 
 ## PRIVACY CONTACT INFORMATION
 
-If you have any questions, concerns, or comments about our privacy policy you may [contact the webmaster](http://www.endtime.com/contact-us/webmaster/):
+If you have any questions, concerns, or comments about our privacy policy you may [contact the webmaster](https://www.endtime.com/contact-us/):
 
 By Phone: 1-800-endtime  
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
+
+We are a GlobalSign Trusted SSL Authority. Enjoy your shopping experience with enhanced security.
+
+[](https://www.sslshopper.com/ssl-checker.html#hostname=endtime.com)
