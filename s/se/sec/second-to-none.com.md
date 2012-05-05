@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the second-to-none.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227131403id_/http%3A//second-to-none.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the second-to-none.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505061813id_/http%3A//www.second-to-none.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Mystery Shopping Services | Customer Feedback Surveys
 
