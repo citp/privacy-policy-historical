@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shapefit.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115212437id_/http%3A//www.shapefit.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shapefit.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505162509id_/http%3A//www.shapefit.com/privacy-policy.html) for the most accurate reproduction.*
 
 # ShapeFit Privacy Policy - Protecting The Privacy of Our Visitors
 
@@ -6,10 +6,10 @@
 
 ShapeFit Privacy Policy - Protecting The Privacy of Our Visitors
 
-At ShapeFit, we respect your privacy and believe you should be informed about how we collect, use and disclose your Personal Information. This Privacy Policy describes our practices regarding how we use and share with third parties Personal Information (as defined below ) that we collect on the Website. By visiting the ShapeFit.com website and any other URLs and websites administered by ShapeFit, LLC and its affiliates (collectively, the “Website”) that are offered by ShapeFit, LLC and its affiliates (collectively, “ShapeFit” or “we” or “us”) or otherwise submitting your Personal Information to us, you accept the practices described in this statement. The terms "you" and "user" as used herein refer to all individuals and/or entities accessing the Website for any reason. 
+At ShapeFit, we respect your privacy and believe you should be informed about how we collect, use and disclose your Personal Information. This Privacy Policy describes our practices regarding how we use and share with third parties Personal Information (as defined below ) that we collect on the Website. By visiting the ShapeFit.com website and any other URLs and websites administered by ShapeFit, LLC and its affiliates (collectively, the “Website”) that are offered by ShapeFit, LLC and its affiliates (collectively, “ShapeFit” or “we” or “us”) or otherwise submitting your Personal Information to us, you accept the practices described in this statement. The terms "you" and "user" as used herein refer to all individuals and/or entities accessing the Website for any reason.
 
 **Terms of Use**  
-Your use of the Website is subject to the terms of this Privacy Policy and the [Term of Use](http://www.shapefit.com/terms-conditions.html) (“Terms of Use”), so please read this policy and the [Terms of Use](http://www.shapefit.com/terms-conditions.html) before using the Website. All terms with initial capital letters used in this Privacy Policy but not defined herein have the meanings given them in the Terms of Use. 
+Your use of the Website is subject to the terms of this Privacy Policy and the [Term of Use](http://www.shapefit.com/terms-conditions.html) (“Terms of Use”), so please read this policy and the [Terms of Use](http://www.shapefit.com/terms-conditions.html) before using the Website. All terms with initial capital letters used in this Privacy Policy but not defined herein have the meanings given them in the Terms of Use. Also review ShapeFit's [Product Liability Waiver](http://www.shapefit.com/product-liability-waiver.html) which covers any products purchased on the ShapeFit.com website or through ShapeFit, LLC directly.
 
 **Age Requirement**  
 In order to use the Website you must be at least 18 years of age or the legal age to form a binding contract in your jurisdiction if that age is greater than 18 years of age. Please see the [Terms of Use](http://www.shapefit.com/terms-conditions.html) for additional information regarding this requirement. 
@@ -45,8 +45,54 @@ If you have a question or comment about the ShapeFit site or a request to correc
 
 | 
 
+| 
+
+[](http://www.shapefit.com/training.html)
+
+| Our database of over 500 exercise guides lets you choose the right exercises for your workouts. It's like having your own personal online fitness trainer! [**Go >>**](http://www.shapefit.com/training.html)  
+---|---  
+  
+[](http://www.shapefit.com/success-stories.html)
+
+| Over 300 weight loss success stories from real people who have successfully lost weight. They share tips about their diet plans and workout routines! [**Go >>**](http://www.shapefit.com/success-stories.html)  
+---|---  
+  
 [](http://www.shapefit.com/free-fitness-ebooks.html)
 
-[](http://www.shapefit.com/fitness-models.html)  
+| Are you ready to build muscle & burn fat? Download your FREE ShapeFit eBooks today and learn diet and exercise secrets to pack on muscle and get ripped! [**Go >>**](http://www.shapefit.com/free-fitness-ebooks.html)  
+---|---  
   
+[](http://www.shapefit.com/fitness-models.html)
+
+| Read interviews and see photos from fitness models and figure competitors. They reveal top diet and exercise secrets to build muscle and burn fat! [**Go >>**](http://www.shapefit.com/fitness-models.html)  
+---|---  
+  
+[](http://fittracker.shapefit.com/)
+
+| FitTracker will track and analyze every aspect of your fitness program and it has amazing features to take the guesswork out of getting into shape! [**Go >>**](http://fittracker.shapefit.com/)  
+---|---  
+  
+[](http://www.shapefit.com/exercise-videos.html)
+
+| Watch over 100 exercise videos and learn the best workout routines and exercises to implement into your fitness plan to build muscle, gain strength and get huge! [**Go >>**](http://www.shapefit.com/exercise-videos.html)  
+---|---  
+  
+[](http://www.shapefit.com/fastfood.html)
+
+| Our fast food restaurant database will show you how many calories and fat grams are packed into your favorite fast food meals. You will be in for a surprise! ****[**Go >>**](http://www.shapefit.com/fastfood.html)  
+---|---  
+  
+[](http://www.shapefit.com/calculators.html)
+
+| Our fitness calculators will show you how many calories you need to eat, help you find your target heart rate zone and learn how many calories are in your meals! [**Go >>**](http://www.shapefit.com/calculators.html)  
+---|---  
+  
+[](http://www.shapefit.com/fitness-questions-answers.html)
+
+| Read different fitness questions and answers about a wide array of diet and exercise concerns from our visitors who need help building muscle and burning fat! [**Go >>**](http://www.shapefit.com/fitness-questions-answers.html)  
+---|---  
+  
+[](http://www.shapefit.com/shapefit-fitness-products.html)
+
+| We offer exercise equipment that is the perfect choice for anyone who wants to get a great full body workout anywhere without spending a lot of money! [**Go >>**](http://www.shapefit.com/shapefit-fitness-products.html)  
 ---|---
