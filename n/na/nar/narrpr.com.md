@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the narrpr.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101163555id_/https%3A//www.narrpr.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the narrpr.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505022136id_/https%3A//www.narrpr.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Realtors Property Resource - Privacy Policy
+# Realtors Property Resource
 
-Welcome to the Realtors Property Resource, LLC ("RPR") website ("Site"). We at RPR recognize and respect the privacy expectations of our users. We believe that making you aware of how we collect information about you and about your usage of the Site, how we use that information, and who we share that information with will form the basis for a relationship of trust between RPR and you. This Privacy Policy provides that explanation. We reserve the right to change this Privacy Policy from time to time.
+RPR will be down for maintenance from 11pm-2am ET/8pm-11pm PT. We apologize for the inconvenience.
+
+Welcome to the Realtors Property Resource®, LLC ("RPR") website ("Site"). We at RPR recognize and respect the privacy expectations of our users. We believe that making you aware of how we collect information about you and about your usage of the Site, how we use that information, and who we share that information with will form the basis for a relationship of trust between RPR and you. This Privacy Policy provides that explanation. We reserve the right to change this Privacy Policy from time to time.
 
 ## Collection of Information
 
@@ -20,8 +22,8 @@ Welcome to the Realtors Property Resource, LLC ("RPR") website ("Site"). We at R
 
 **In general, RPR uses the information collected to provide services and to communicate with you. RPR will only share information in the following circumstances:**
 
-  * When you consent or direct RPR to share the information; 
-  * When RPR provides information to NAR or affiliated companies or service providers to manage and use on our behalf, consistent with the terms of this Privacy Policy;
+  * When you consent or direct RPR to share the information;
+  * When RPR provides information to NAR, affiliated companies, service or content providers pursuant to an agreement or to manage and use on our behalf;
   * When necessary to comply with a legal requirement or to protect the rights, property, or personal safety of RPR, its users, or the public against harm;
   * To enforce or investigate a potential violation of the [Terms of Use](https://web.archive.org/terms-of-use.aspx);
   * To detect, prevent, or otherwise respond to fraud, security; or technical concerns; and
