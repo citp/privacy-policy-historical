@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the americangolf.co.uk privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124225801id_/http%3A//www.americangolf.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americangolf.co.uk privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505203954id_/http%3A//www.americangolf.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - American Golf
+
+  * [United Kingdom](https://web.archive.org/privacy.aspx)
+
+
 
 [Print Page]( "Print Page")
 
