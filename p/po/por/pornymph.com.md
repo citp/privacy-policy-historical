@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornymph.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211195059id_/http%3A//www.pornymph.com/page-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornymph.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505033334id_/http%3A//www.pornymph.com/page-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: PorNymph
 
