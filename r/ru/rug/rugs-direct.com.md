@@ -1,15 +1,17 @@
-> *The following text is extracted and transformed from the rugs-direct.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101113204id_/http%3A//www.rugs-direct.com/Content/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rugs-direct.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505095040id_/http%3A//www.rugs-direct.com/Content/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
   * Rugs
   * Special Buys
+  * Photo Rugs
   * Rug Pads
   * Color Coordinates
+  * Furniture
   * Pillows
   * Window Blinds
   * Art
-  * Rug Outlet
+  * Clearance Outlet
 
 
 
