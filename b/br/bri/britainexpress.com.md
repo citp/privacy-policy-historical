@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the britainexpress.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007031926id_/http%3A//www.britainexpress.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britainexpress.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505031140id_/http%3A//www.britainexpress.com/Privacy.htm) for the most accurate reproduction.*
 
 # Britain Express Privacy Policy
 
@@ -45,7 +45,7 @@ We give users the following options for changing and modifying information previ
 
   * email [editor@britainexpress.com](mailto:editor@britainexpress.com)
   * visit <http://www.britainexpress.com/contact-us.htm>
-  * send mail to the following postal address:  Britain Express, Ryecroft House, Glebe Farm, Little Risssington, Cheltenham, Gloucestershire, GL54 2ND 
+  * send mail to the following postal address:  Britain Express, 12 Sopwith Road, Upper Risssington, Cheltenham, Gloucestershire, GL54 2NS 
 
 
 
@@ -54,12 +54,11 @@ Contacting Britain Express
 If you have any questions about this privacy statement, the practices of this site, or your dealings with Britain Express, you can contact:
 
 Britain Express  
-Ryecroft House  
-Glebe Farm  
-Little Risssington  
+12 Sopwith Road  
+Upper Risssington  
 Cheltenham  
 Gloucestershire  
-GL54 2ND 
+GL54 2NS 
 
 |    | 
 
@@ -78,20 +77,23 @@ GL54 2ND
 
 ### Monarch Mayhem
 
+|  Car Rental  
+---  
+[**The Car Rental Centre**](https://web.archive.org/Travel/cars/car-rental-uk.htm) Wholesale rates, instant quotes, from all the major car rental companies  
+  
   
 
 
-|  +Great British Heritage Pass+  
+**London Pass**  
 ---  
   
-[](https://web.archive.org/gbhp.htm) [**Free entry to almost 600 top UK attractions**](https://web.archive.org/gbhp.htm)
+[](https://web.archive.org/articles/Notebook/London-Pass.htm) [**Free entry to top London attractions**](https://web.archive.org/articles/Notebook/London-Pass.htm)
 
-**Visit** castles, gardens, abbeys, stately homes, Roman forts, museums, mills, historic buildings, lighthouses, townhouses, museums, windmills, nature reserves, stone circles, medieval tithe barns, industrial heritage sites, dovecotes, battlefields, tunnels, cathedrals, bridges, and royal palaces. **Whew!**
+**Including** Tower of London, St. Paul's Cathedral, Windsor Castle, London Zoo, London Dungeons, theatre, open-top buses... and a lot more!
 
- [ **Great British Heritage Pass**](https://web.archive.org/gbhp.htm)  
+NOW - Save 5% off All London Pass purchases - just enter Voucher Code londpas05 when you buy your pass
+
+[**The London Pass**](https://web.archive.org/articles/Notebook/London-Pass.htm)  
   
-  
-
-
   
 
