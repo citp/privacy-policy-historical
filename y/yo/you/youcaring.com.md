@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the youcaring.com privacy policy that was archived on 2011-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110925195615id_/http%3A//youcaring.com/StaticPage/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youcaring.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505124948id_/http%3A//www.youcaring.com/StaticPage/Privacy-Policy) for the most accurate reproduction.*
 
-# Welcome to www.YouCaring.com
+# Privacy Policy | YouCaring
 
 **1\. WHAT INFORMATION DO WE COLLECT?    
 ******  
@@ -73,10 +73,10 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-Youcaring.com  
-Po 7184  
-St Cloud, MN  56302  
+YouCaring.com  
+1042 Spring Ridge Drive  
+Redding, CA  (6003  
 USA
 
   
-[ brock@YouCaring.com](mailto:brock@youcaring.com)
+[ support@YouCaring.com](mailto:brock@youcaring.com)
