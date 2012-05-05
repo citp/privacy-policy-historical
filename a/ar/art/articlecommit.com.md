@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlecommit.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107095417id_/http%3A//articlecommit.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlecommit.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506015332id_/http%3A//www.articlecommit.com/privacy.php) for the most accurate reproduction.*
 
 # Articles Directory | Free Articles | New Articles Daily | Privacy Statement
 
