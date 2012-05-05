@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 123onlinemovies.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215123908id_/http%3A//movies.rangu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123onlinemovies.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505141304id_/http%3A//movies.rangu.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy ~ Free Online Movies, Bollywood News, Gossips, Telugu Movies, Hindi Movies, TV Shows, Cricket, Watch Free Online Hindi Movies, Tollywood News
+# Privacy Policy | Rangu.com
 
 We at rangu.com respect the privacy concerns of the users of this site and have created this privacy policy to explain a)what information we gather from you when you visit our site, b) how we may use such information, c) your choices concerning how we may use such information and d) the security measures we take to protect such information. 
 
