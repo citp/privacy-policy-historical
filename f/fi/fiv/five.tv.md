@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the five.tv privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219041719id_/http%3A//about.channel5.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the five.tv privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505022351id_/http%3A//about.channel5.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Channel 5
 
@@ -6,8 +6,9 @@ Channel 5 is part of the Northern & Shell Broadcasting Limited group of companie
 
 If you agree, we may pass on your personal information to other companies in the Northern & Shell Group so that they may offer you their products and services.  The Northern & Shell Group will not share your information for marketing purposes with other third party companies outside the Northern & Shell Group without your consent.
 
-We would like to send you newsletters and information about our products and services and products and services of other companies in the Northern & Shell Group which may be of interest to you.  If you have consented to receive marketing, you may opt out at a later date.  You have the right at any time to stop us from contacting you for marketing purposes or giving your information to other companies in the Northern & Shell Group.
+We would like to send you newsletters and information about our products and services and products and services of other companies in the Northern & Shell Group, or selected third party offers that may be of interest to you.  If you have consented to receive marketing, you may opt out at a later date.  You have the right at any time to stop us from contacting you for marketing purposes or giving your information to other companies in the Northern & Shell Group.
 
+  
 Topics:
 
   * What information do we collect about you?
@@ -30,7 +31,7 @@ We may collect information about you when you register on any of our sites, regi
 You are in control of the information you provide about yourself but if you choose not to share your information with us some of the areas of our websites may not be accessible to you.
 
  **How will we use the information about you?**  
-We collect information about you to manage and operate your accounts with us, to contact you if we think you might be interested in contributing to Channel 5's programmes or to the website, to fulfil any competition prizes you have won, and if you agree, to email you and/or send you by SMS newsletters and information about other products and services we think may be of interest to you. We use your information collected from the website to personalise your repeat visits to our website.
+We collect information about you to manage and operate your accounts with us, to contact you if we think you might be interested in contributing to Channel 5's programmes or to the website, to fulfil any competition prizes you have won, and if you agree, to email you and/or send you by SMS newsletters and information about other products and services, or selected third party offers that we think may be of interest to you. We use your information collected from the website to personalise your repeat visits to our website.
 
 If you agree, we may pass on your personal information to our group of companies so that they may offer you their products and services.  Northern & Shell PLC will not share your information for marketing purposes with companies outside the network without your consent.
 
@@ -40,14 +41,16 @@ If you win a prize on Free Bingo, your details will be sent to 192.com for age v
 
 We store any information collected about you safely and will only retain your information for as long as is necessary for the purpose for which it was collected.  Your information will then be securely deleted. 
 
-**Users under 16**  
-If you are aged under 16, please obtain your parent/guardian's permission before you provide personal information to the website. 
+**Children**  
+Children under the age of 13 are not allowed to register with this website, and must not try to give any personal information to this website.  If we become aware that we have collected personal information from a child under the age of 13, we will delete that information.
+
+If you are under the age of16, please obtain your parent/guardian's permission before you provide personal information to the website. 
 
 **Chat Rooms**  
 Our websites provide chat rooms and may make news groups available to users.  Users of these services are warned that such chat rooms and news groups are public discussion forums.  Any personal information supplied by users is widely accessible.  We do not monitor and are not responsible for the content posted on these services.  Use or exchange of profane or sexually explicit comments or material on the website chat rooms is prohibited.  The posting of any unlawful material is also prohibited.
 
  **Marketing and Third Parties**  
-We would like to send you newsletters and information about our products and services and products and services of other companies in Northern & Shell which may be of interest to you.  If you have consented to receive marketing, you may opt out at a later date.  You have the right at any time to stop us from contacting you for marketing purposes or giving your information to other members of Northern & Shell PLC.  If you have a channel5.com account and no longer wish to be contacted for marketing purposes, please[ log in to your account](http://www.five.tv/user/login), click on “Manage newsletter subscriptions”, where you can opt out of receiving marketing materials. 
+We would like to send you newsletters and information about our products and services and products and services of other companies in Northern & Shell, or selected third party offers that may be of interest to you.  If you have consented to receive marketing, you may opt out at a later date.  You have the right at any time to stop us from contacting you for marketing purposes or giving your information to other members of Northern & Shell PLC.  If you have a channel5.com account and no longer wish to be contacted for marketing purposes, please[ log in to your account](http://www.five.tv/user/login), click on “Manage newsletter subscriptions”, where you can opt out of receiving marketing materials. 
 
 We will also pass on your information to third parties where this is necessary to provide you with the goods or service you have requested or any competition prize due to you.   Your information will not be transferred outside of the European Economic Area without adequate protection.  We reserve the right to transfer any personal information to a third party in the event that we sell the whole or part of our business.
 
@@ -66,7 +69,7 @@ We may also log your Internet Protocol (“IP”) address to help diagnose probl
 For further information visit [www.aboutcookies.org](http://www.aboutcookies.org/) or [www.allaboutcookies.org](http://www.allaboutcookies.org/), and for information on Local Shared Objects stored by Adobe Flash applications [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager06.html). 
 
 **Third party advertising cookies**  
-Most of the advertisements you see on our sites are generated by third parties. Some of these third parties generate their own cookies to track how many people have seen a particular advertisement (or use the services of other third parties to do this), and to track how many people have seen it more than once.  These cookies cannot be used to identify an individual; they can only be used for statistical purposes, for example, in providing you with advertisements that are more relevant to your interests.  Some of the information obtained from third party cookies will be aggregated with other anonymous information for statistical purposes.  The third party companies that generate these cookies have their own privacy policies andChannel 5 does not have access to these cookies; other than allowing them to be served and we have no role to play in these cookies (although we may use statistical information arising from these third party cookies and provided to us by third parties, to improve the targeting of advertisements to users of the website). 
+Most of the advertisements you see on our sites are generated by third parties. Some of these third parties generate their own cookies to track how many people have seen a particular advertisement (or use the services of other third parties to do this), and to track how many people have seen it more than once.  These cookies cannot be used to identify an individual; they can only be used for statistical purposes, for example, in providing you with advertisements that are more relevant to your interests.  Some of the information obtained from third party cookies will be aggregated with other anonymous information for statistical purposes.  The third party companies that generate these cookies have their own privacy policies and Channel 5 does not have access to these cookies; other than allowing them to be served and we have no role to play in these cookies (although we may use statistical information arising from these third party cookies and provided to us by third parties, to improve the targeting of advertisements to users of the website). 
 
 If you would like to disable "third party" cookies generated by advertisers or providers of targeted advertising services, you can turn them off by going to the third party's website and getting them to generate a one-time "no thanks" cookie that will stop any further cookies being written to your machine.  Here are links to the main third party advertising platforms we use, each of which have instructions on how to do this:   
 [http://www.doubleclick.com/us/about_doubleclick/privacy/ad-cookie/ ](http://www.doubleclick.com/us/about_doubleclick/privacy/ad-cookie/)  
@@ -80,15 +83,17 @@ If you would like to disable "third party" cookies generated by advertisers or p
 
 <http://inskinmedia.com/privacypolicy.html>
 
-You can also visit the trade body representing these advertising bodies for more information on how to opt out of these cookies: <http://www.networkadvertising.org/optout_nonppii.asp>. 
+You can also visit the trade body representing these advertising bodies for more information on how to opt out of these cookies: <http://www.networkadvertising.org/optout_nonppii.asp>.
 
-**Other websites**  
+Note: Following amendments to the Privacy and Electronic Communications (EC Directive) Regulations 2003, we are currently working towards implementing the new requirements relating to the use of cookies.
+
+ **Other websites**  
 Our website contains links to other websites. This privacy notice only applies to this website so when you link to other websites you should read their own privacy notices.
 
  **Changes to our privacy notice**  
-We keep our privacy notice under regular review and we will place any updates on this webpage.  This privacy notice was last updated on **26th May 2011**.
+We keep our privacy notice under regular review and we will place any updates on this webpage.  This privacy notice was last updated on 28th March **2012**.
 
- **How to contact us, update your information or delete your Five.tv and/or Demand Five account**  
+ **How to contact us, update your information or delete your channel5.com and/or Demand 5 account**  
 To update your information on your channel5.com account please [log into your account](http://www.five.tv/user/login). 
 
 You can also contact us:
@@ -98,6 +103,4 @@ You can also contact us:
 
 
 
-  
-If you would like to delete any of your accounts with us permanently, please send us an email instructing us to delete your account and specifying which account you would like us to delete, if applicable.  Once we receive your email, your account will be deleted as soon as is reasonably practicable.  
- 
+If you would like to delete any of your accounts with us permanently, please send us an email instructing us to delete your account and specifying which account you would like us to delete, if applicable.  Once we receive your email, your account will be deleted as soon as is reasonably practicable.
