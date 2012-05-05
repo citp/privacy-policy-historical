@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bustygfs.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231214630id_/http%3A//www.bustygfs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bustygfs.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505040507id_/http%3A//www.bustygfs.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,7 @@ We retain the right to use any of the information collected from members/surfers
 
 (6) to aid in the understanding of BustyGFs.com's visitors.
 
-(7) to protect the security and/or itegreity of BustyGFs.com.
+(7) to protect the security and/or integrity of BustyGFs.com.
 
 All data collected by BustyGFs.com is stored securely and will not be shared with any third parties; including but not limited to: marketing agents, partners, or affiliates. The stored data does not include the client's credit card data. As noted above, individuals may opt-out of any mailings that may result from the information collected by BustyGFs.com.
 
