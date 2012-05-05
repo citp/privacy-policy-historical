@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bettycrocker.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202143601id_/http%3A//www.bettycrocker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettycrocker.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505214128id_/http%3A//www.bettycrocker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Betty Crocker
 
 **Privacy Policy**
 
- **Effective Date: November 16th, 2009**
+ **Effective Date: March 26th, 2012**
 
 At General Mills, we are very sensitive to the privacy concerns of visitors to all of our websites, including this one. We know that maintaining your trust requires that we protect your privacy. This Privacy Policy explains our online information practices at this website and the choices that you, as a visitor to this site, can make about the collection and use of your information.
 
@@ -17,13 +17,13 @@ Here are the circumstances in which we might ask for personal information from o
 • If you contact one of our Consumer Services Representatives through our site, we may ask you for personal information such as your name, address, phone number, or e-mail address so that we can respond to your questions or comments. (Of course, if you send us an e-mail, we will at a minimum obtain your e-mail address.) 
 
 • You may be asked to provide personal information if you:  
-      o register as a user of our site or to post content to our site;   
-      o agree to receive an online newsletter or other information or material from us;   
-      o register for a sweepstakes, contest, or other promotion;   
-      o register to receive coupons through our site;  
-      o participate in a survey, a consumer research panel, or similar type of activity; or  
-      o ask to receive an online newsletter or other information or material from us; or  
-      o otherwise participate in features of our website that ask for personal information.
+o register as a user of our site or to post content to our site;   
+o agree to receive an online newsletter or other information or material from us;   
+o register for a sweepstakes, contest, or other promotion;   
+o register to receive coupons through our site;  
+o participate in a survey, a consumer research panel, or similar type of activity; or  
+o ask to receive an online newsletter or other information or material from us; or  
+o otherwise participate in features of our website that ask for personal information.
 
 • If you purchase or otherwise request a product, publication, or promotional offering from us or take advantage of a rebate or similar offer, you may be required to provide your contact and/or payment information (such as a credit card number) in order for us to process your request. 
 
@@ -31,14 +31,15 @@ Your participation in any of these activities (and therefore your provision of p
 
 We will not send you any online newsletter or similar e-mail communication unless you expressly consent to receive such a communication from us. And if you do choose to receive any such e-mail communication from us, you will always have the opportunity to “unsubscribe” from receiving the e-mail at any time. 
 
-**How do we use cookies, web beacons, and similar technologies?**  
-We may employ cookie technology, web beacons, transparent GIF images, and similar devices to facilitate site administration and navigation and to provide an enhanced online experience for our visitors. Information tracked through these mechanisms includes but is not limited to (1) a user’s IP address (e.g., yahoo.com - 192.168.1.1), (2) the type of web browser (e.g., Microsoft Explorer) and operating system (e.g., Windows or Linux) being used, (3) the pages of the site a user visits, and (4) other websites a user visited before visiting our site. These devices may also be used on our behalf by third parties managing our advertising on other websites to enable us to learn which advertisements bring visitors to our websites and to otherwise improve our online advertising. 
+**Cookies and similar technologies used for online behavioral advertising - and your right to opt out**
 
-Most browsers accept cookies automatically, but can be configured not to do so or to notify the user when a cookie is being sent. If you wish to disable cookies, refer to your browser help menu to learn how to disable cookies. Please note that if you disable cookies, you may be unable to access some customized features on our site.
+Third parties that are involved in serving other companies’ advertising on our websites, or that are involved in determining which advertisements you might see on third-party websites, may use cookies to collect information (such as the advertisements you have seen or the websites or pages you have visited) in order to draw inferences about what internet advertising content might be relevant to you.  These cookies may be used by these third parties while you are visiting our website, and these third parties may then use the information gathered through these cookies to show you advertising they believe to be most relevant to you when you visit other websites not belonging to us.  This practice is called “online behavioral advertising.”  You have the ability to opt out of allowing these third parties to use cookies to gather information from your computer for online behavioral advertising by clicking here: <http://preferences.truste.com/truste/>. 
 
-Devices like web beacons and transparent GIF images are tiny or transparent graphics that allow us to count the number of users who have visited a particular web page or to access certain cookies. We may use these graphics on our websites to count users and to recognize users by accessing our cookies. Being able to access our cookies allows us to personalize our website and improve your experience at our website. We may also include these graphics in HTML-formatted e-mail messages that we send to determine which e-mail messages were opened. 
+  
+If you opt out, these companies have committed to refrain from using cookies (or similar technologies) in this manner to gather information on any website (not just ours) for online behavioral advertising purposes.  Please be aware that the opt-out process is itself cookie-based.  In other words, when you opt out, a cookie is placed on your browser that informs these third parties that they are not to use cookies with you for online behavioral advertising.  As a result, if you subsequently clear cookies from your browser (as many people do periodically), your opt out will be lost until you reinstate it.  Also, please be aware that your opt out does not mean you will not continue to receive advertising – you just will not receive advertising that might otherwise have been targeted to you based on these cookies on your computer.  
 
-**When we might provide other parties with your personal information**
+
+ **When we might provide other parties with your personal information**
 
 If you give us your explicit consent to do so, we may share your personal information with other marketers at unaffiliated companies. If you do not affirmatively consent to this, we will not share your information with such other marketers. 
 
@@ -47,6 +48,10 @@ We may provide your personal information to third parties who provide services o
 We reserve the right to transfer any information we have about you in the event that we sell or transfer all or a portion of our business or assets to a third party. We also reserve the right to share information within General Mills amongst our various businesses. 
 
 We reserve the right to disclose any personal information as needed if such information is requested by law enforcement agencies or if we are required to do so by law, regulation, subpoena, court order, or by a government entity. We also may disclose personal information to third parties if we have reason to believe that disclosing such information is necessary to conduct investigations of possible breaches of law or legal rights, to cooperate in any legal investigation, or to identify, contact, or bring legal action against someone who may be violating the terms of use of our site or any other terms applicable to any activity or feature of our site. 
+
+**Personal information we may receive from third-party social-networking services**
+
+If you choose to access or make use of third-party social-networking services (such as Facebook or Twitter), we may receive personal information about you that you have made available to those services, including information about your contacts on those services.  For example, some social-networking services allow you to push content from our website to your contacts or to pull information about your contacts so you can connect with them on our website.  Some social-networking services also will facilitate your registration for our website or enhance or personalize your experience on our website.  Your decision to use a social-networking service will always be voluntary.  However, you should make sure you are comfortable with the information your third-party social-networking services may make available to our website by visiting those services’ privacy policies.  Any personal information we receive through third-party social-networking services may be used as described above.     ****
 
 **Security for credit card data and transaction information**   
 At General Mills, we are committed to keeping your online transactions safe and secure. In order to reasonably assure the privacy and security of your credit card and other personal data when making an order, we use Secure Sockets Layer (SSL) technology. SSL uses encryption technology to create a secure connection between your computer and ours. We have also put procedures in place to safeguard the information/data we collect from you. We cannot absolutely guarantee the security of any information you provide online; you provide it at your own risk. 
@@ -73,4 +78,4 @@ We reserve the right to change or replace this Privacy Policy at our sole discre
 By using this website, you signify your assent to all of the terms of this Privacy Policy and this website's [Terms of Use](https://web.archive.org/terms-of-use). If you do not agree with any term of this Privacy Policy or our [Terms of Use](https://web.archive.org/terms-of-use), please do not use this site or submit any personally identifiable information.
 
  **How To Contact Us**  
-If you have any questions or concerns about this Privacy Policy or about our collection or use of information, please [Contact Us](http://consumercontacts.generalmills.com/ConsolidatedContact.aspx?page=http://www.bettycrocker.com). 
+If you have any questions or concerns about this Privacy Policy or about our collection or use of information, please [Contact Us](http://consumercontacts.generalmills.com/ConsolidatedContact.aspx?page=http://www.bettycrocker.com). 
