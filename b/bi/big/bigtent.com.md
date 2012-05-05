@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bigtent.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231035900id_/http%3A//www.bigtent.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigtent.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505042926id_/http%3A//www.bigtent.com/privacy) for the most accurate reproduction.*
 
 # How we collect and use member information | BigTent
 
-Privacy Policy last modified on August 15, 2008.
+Privacy Policy last modified on February 6, 2011.
 
 BigTent's Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share, and help you make informed decisions when using BigTent, located at [www.bigtent.com](https://www.bigtent.com/) and its directly associated domains (collectively, "BigTent Site")
 
@@ -10,7 +10,7 @@ By using or accessing the BigTent Site, you are accepting the practices describe
 
 ## Key Points
 
-Information You Share
+### Information You Share
 
   * Your Group Administrator determines how little or how much information must be shared with other members and leaders of your group.
   * You generally control how much personal information you choose to share with other Group Members, within those parameters set by the Group Administrator.
@@ -18,14 +18,14 @@ Information You Share
 
 
 
-Children On BigTent
+### Children On BigTent
 
   * Children under 13 are not allowed to have accounts on the BigTent Site.
   * Children 13-18 are encouraged to get parental permission before registering for accounts on the BigTent Site.
 
 
 
-What BigTent Does With Your Information
+### What BigTent Does With Your Information
 
   * The information you provide is for sharing with other Group Members privately, unless you opt to share beyond your group.
   * Third party advertisers have no access to your personal profile information or User Content stored on the BigTent Site unless it is in an aggregated format and/or non-personally identifiable. 
@@ -34,7 +34,7 @@ What BigTent Does With Your Information
 
 
 
-Security
+### Security
 
   * BigTent treats data as an asset that must be protected and uses many tools and techniques to protect your personal information against unauthorized access and disclosure.
   * Please bear in mind that, as you probably know, third parties may unlawfully intercept or access transmissions or private communications, and others may abuse or misuse your personal information that they collect from the BigTent Site.
@@ -120,4 +120,4 @@ Your use of the BigTent Site, and any disputes arising from it, is subject to th
 
 ### Contacting BigTent
 
-If you have any questions about this privacy policy, please contact us at privacy@bigtent.com. You may also contact us by mail at BigTent Design, Inc., ATTN: PRIVACY, 72 Townsend St, San Francisco, CA 94107. 
+If you have any questions about this privacy policy, please contact us at privacy@bigtent.com. You may also contact us by mail at Big Tent Design, Inc., ATTN: PRIVACY, 72 Townsend Street, San Francisco, CA 94107. 
