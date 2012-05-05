@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canon-asia.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113052315id_/http%3A//www.canon-asia.com/personal/web/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canon-asia.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505065810id_/http%3A//www.canon-asia.com/personal/web/privacy%3FlanguageCode%3DEN) for the most accurate reproduction.*
 
 # Privacy policy - Canon in South and Southeast Asia - Personal
 
