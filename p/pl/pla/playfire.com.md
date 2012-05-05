@@ -1,13 +1,14 @@
-> *The following text is extracted and transformed from the playfire.com privacy policy that was archived on 2011-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110824191223id_/https%3A//www.playfire.com/a/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playfire.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505072613id_/https%3A//www.playfire.com/a/privacy) for the most accurate reproduction.*
 
 # About Playfire - Playfire
 
 This is the website of **UUMC Ltd**.
 
 **Our postal address is:**  
-40 Beak Street  
+Third Floor  
+1-4 Langley Court  
 London  
-W1F 9RQ  
+WC2E 9JY  
 
 
 We can be reached via e-mail at [privacy@playfire.com](mailto:privacy@playfire.com)
