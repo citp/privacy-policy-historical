@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designforjoomla.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103071614id_/http%3A//designforjoomla.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designforjoomla.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505051837id_/http%3A//designforjoomla.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Joomla Templates, Joomla Extensions for the Joomla CMS - Privacy Policy
 
@@ -22,17 +22,17 @@ We do not sell user list of our users to any third party company for any further
 
 ### Popular D4J Joomla! Templates Club Templates
 
-**BreakingOnTop** is a fresh design added to D4J Joomla! Templates Club. ...
+**Internet_Market** is an elastic design, smart use of color, excellent mark ...
 
-| [](http://designforjoomla.com/home/joomla_templates_club/breakingontop.php)  
+| [](http://designforjoomla.com/joomla_templates/joomla_templates_club/internet_market.php)  
 ---|---  
   
-**Online Business** is an elastic design, smart use of color, excellent mark ...
+**Artica** is a clean, fresh, green design that is quick to load. ...
 
-| [](http://designforjoomla.com/joomla_templates/joomla_templates_club/onlinebusiness.php)  
+| [](http://designforjoomla.com/joomla_templates/joomla_templates_club/artica.php)  
 ---|---  
   
-**GT1** is a green sheme colour design added to D4J Joomla ...
+**Deep** is a strange-looking design, smart use of color, excellent mark up ...
 
-| [](http://designforjoomla.com/home/joomla_templates_club/gt1.php)  
+| [](http://designforjoomla.com/joomla_templates/joomla_templates_club/deep.php)  
 ---|---
