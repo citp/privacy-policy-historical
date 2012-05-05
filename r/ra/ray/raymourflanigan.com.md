@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raymourflanigan.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214130443id_/http%3A//www.raymourflanigan.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raymourflanigan.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505102709id_/http%3A//www.raymourflanigan.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Raymour and Flanigan Furniture Customer Care | Privacy Policy
 
@@ -10,7 +10,7 @@ We believe you have a right to know what information we collect and how we use i
 
 **Our Privacy Policy**
 
-Raymour & Flanigan Furniture is committed to protecting your personally identifiable information. As a reminder, **Raymour & Flanigan does not request personally identifiable information via e-mail or telemarketing**. If someone contacts you in either of these manners and requests personally identifiable information on behalf of Raymour & Flanigan, do not respond. Delete, disregard or hang up. These questions are not from us. If you have questions about Raymour & Flanigan’s privacy practices, contact [privacy@raymourflanigan.com](mailto:%20privacy@raymourflanigan.com), or call toll free at 1.866.383.4484.
+Raymour & Flanigan Furniture is committed to protecting your personally identifiable information. As a reminder, **Raymour & Flanigan does not request personally identifiable information via e-mail or telemarketing**. If someone contacts you in either of these manners and requests personally identifiable information on behalf of Raymour & Flanigan, do not respond. Delete, disregard or hang up. These questions are not from us. If you have questions about Raymour & Flanigan’s privacy practices, [contact us](mailto:privacy@raymourflanigan.com), or call toll free at 1.866.383.4484.
 
 ## Our Privacy Pledge
 
@@ -68,7 +68,7 @@ Some browser versions and some firewalls don't permit communication through secu
 
     * ###  Accessing and Updating Your Information 
 
-You always have the opportunity to review and change the information you provide to us by logging into the site and entering in the new information yourself. You can edit your name, contact information and preferences by logging into the [Sign In](https://web.archive.org/web/20111214130443id_/http%3A//www.raymourflanigan.com/login.aspx) section of the site and then clicking on "Edit Your Account."
+You always have the opportunity to review and change the information you provide to us by logging into the site and entering in the new information yourself. You can edit your name, contact information and preferences by logging into the [Sign In](https://web.archive.org/web/20120505102709id_/http%3A//www.raymourflanigan.com/login.aspx) section of the site and then clicking on "Edit Your Account."
 
 As a customer or subscriber, you will occasionally receive e-mail communications about new Raymour & Flanigan products, special offers we think you'll like and requests for feedback. Raymour & Flanigan is an opt-out organization. You always have the ability to opt in or opt out of receiving future marketing communications from Raymour & Flanigan.
 
@@ -78,7 +78,7 @@ To opt out of or opt in to receiving marketing communications from Raymour & Fla
 
       2. Call toll free (1.866.383.4484) and provide your current contact information.
 
-      3. Send an e-mail with your current contact information to: [privacy@raymourflanigan.com](mailto:%20privacy@raymourflanigan.com) (please include "Opt Out" in the subject line)
+      3. Send an [e-mail](mailto:privacy@raymourflanigan.com) with your current contact information (please include "Opt Out" in the subject line)
 
       4. Or, send a request with your current contact information to:
 
@@ -105,7 +105,7 @@ RaymourFlanigan.com may contain links to other websites. We are not responsible 
 
     * ###  Children's Privacy Protection 
 
-Raymour & Flanigan understands the importance of protecting children's privacy in the interactive online world. We do not intentionally collect or maintain personally identifiable information about anyone under the age of 13. If you believe that we might have personally identifiable information from or about anyone under the age of 13, please contact us at the following e-mail [privacy@raymourflanigan.com](mailto:privacy@raymourflanigan.com).
+Raymour & Flanigan understands the importance of protecting children's privacy in the interactive online world. We do not intentionally collect or maintain personally identifiable information about anyone under the age of 13. If you believe that we might have personally identifiable information from or about anyone under the age of 13, please [contact us](mailto:privacy@raymourflanigan.com).
 
     * ###  Changes to the RaymourFlanigan.com Privacy Policy 
 
