@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualmedicalcentre.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607120908id_/http%3A//www.virtualmedicalcentre.com/health/privacy-policy/86) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualmedicalcentre.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505071012id_/http%3A//www.virtualmedicalcentre.com/health/privacy-policy/86) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -125,6 +125,11 @@ Cookies can contain data about user movement during the visit to a website. If a
 VMC uses cookies to make the individual's use of the VMC site and services as enjoyable as possible. Cookies themselves do not personally identify users, although they do identify a user's browser. Cookies are useful to estimate the number of VMC site members and determine overall traffic patterns through the website.
 
 An individual can configure their browser to accept all cookies, reject all cookies, or notify them when a cookie is sent. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.)
+
+  
+
+
+#### Connect
 
   
 
