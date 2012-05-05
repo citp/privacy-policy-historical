@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the somethingawful.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208101112id_/http%3A//www.somethingawful.com/d/feature-articles/website-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the somethingawful.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505030804id_/http%3A//www.somethingawful.com/d/feature-articles/website-privacy-policy.php) for the most accurate reproduction.*
 
 # Something Awful's Privacy Policy
 
@@ -65,12 +65,12 @@ Questions, comments, or inquiries may be sent to [webmaster@somethingawful.com.]
   
 
 
-  *   * [December 6, 2011](http://www.somethingawful.com/d/twitter-tuesday/tt12-06-11.php "December 6, 2011")  
-**Twitter Tuesday**
+  *   *   * [I'm a VERY angry mouse](http://www.somethingawful.com/d/comedy-goldmine/very-angry-mouse.php "I'm a VERY angry mouse")  
+**Comedy Goldmine**
 
-Twiter is ubed by nillions of people every dat to pobt cool things abot life in todat's woled.
+Here's one shrew that CAN'T be tamed! Did I say shrew? I meant mouse, maybe. Oh no, now I've done it
 
-  * 
+
 
   *   *   * 
 
