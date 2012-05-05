@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditsolutions.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209025008id_/http%3A//creditsolutions.com/Popup/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditsolutions.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505045743id_/http%3A//www.creditsolutions.com/Popup/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Debt Consolidation and Credit Consolidation alternative with Credit Solutions
 
