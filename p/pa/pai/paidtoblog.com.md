@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paidtoblog.com privacy policy that was archived on 2011-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111021054555id_/http%3A//paidtoblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paidtoblog.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505133356id_/http%3A//paidtoblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Get Paid To Blog
+# Privacy Policy | Paid To Blog
 
 **Your privacy is critically important to us. At PaidtoBlog we have a few fundamental principles:**
 
