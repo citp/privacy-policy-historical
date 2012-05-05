@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the followfollow.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127142349id_/http%3A//www.followfollow.com/privacy_policy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the followfollow.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505185440id_/http%3A//www.followfollow.com/privacy_policy/index.shtml) for the most accurate reproduction.*
 
 # Rangers FC News - FollowFollow.com
 
