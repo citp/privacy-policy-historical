@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the canbet.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511153005id_/http%3A//www.canbet.com/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canbet.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506003801id_/http%3A//www.canbet.com/help/privacy.aspx) for the most accurate reproduction.*
 
-# Canbet.com - Privacy Policy
+# Online Sports Betting | Canbet.com | Privacy Policy
 
 In providing betting services to clients, Canbet is committed to ensuring the privacy of everyone we deal with, and to providing you with the highest levels of customer service.
 
