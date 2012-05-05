@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gumbumper.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106114927id_/http%3A//gumbumper.com/about/privacydisclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gumbumper.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505212243id_/http%3A//gumbumper.com/about/privacydisclaimer) for the most accurate reproduction.*
 
-# Privacy/Disclaimer
+# Privacy/Disclaimer - GumBumper | GumBumper
 
 Pictures on the GumBumper.com site were not taken by GumBumper.com (unless otherwise noted), we do not claim ownership of them in any way, shape, form, or fashion. This site is strictly for entertainment purposes ONLY. It’s ONLY hearsay. So read on and continue to bump your gums! We all love celebrity gossip, of course that’s why YOUR here! GumBumper.com contains published rumors, speculation, assumptions, opinions, as well as factual information. Information on this site may or may not be true and not meant to be taken as fact. GumBumper.com makes no warranty as to the validity of any claims.
 
