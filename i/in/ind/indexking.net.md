@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the indexking.net privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222005043id_/http%3A//indexking.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indexking.net privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505080636id_/http%3A//indexking.net/privacy.html) for the most accurate reproduction.*
 
-# IndexKing Worldwide Directory - Privacy Policy
+# IndexKing | Worldwide Paid Directory - Privacy Policy
 
 Privacy Policy
 
 **Information Collection and Use**
 
-IndexKing.Net is the sole owner of the information collected from this site, if any. We respect the privacy of every individual who visits our website. Information submitted by a visitor or buyer will not be shared, sold, reused in lists, or be used for any other purpose than to complete a transaction or address a customer service concern. This Privacy Policy outlines the information we might collect and how we may use any information collected. This Policy will also instruct you what to do if you do not want your personal information collected when you visit our website.
+IndexKing.Net is the sole owner of the information collected from this site, if any. We respect the privacy of every individual who visits our website. Information submitted by a visitor or buyer will not be shared, sold, reused in lists, or be used for any other purpose than to complete a transaction or address a customer service concern. This Privacy Policy outlines the information we might collect and how we may use any information collected. This Policy will also instruct you what to do if you do not want your personal information collected when you visit our website. These policies are subject to change or revision. Any changes will be posted here. You should review this section regularly.
 
 **  
 Collecting Information from Children**
@@ -35,6 +35,6 @@ In some cases, we may collect additional not personally identifiable information
 **  
 Contact Us**
 
-If you have any questions or comments about our privacy policy, please [ contact us.](https://web.archive.org/web/20111222005043id_/http%3A//contact.php)
+If you have any questions or comments about our privacy policy, please [ contact us.](https://web.archive.org/web/20120505080636id_/http%3A//contact.php)
 
-Last Modified October, 2009
+Last Modified February, 2012
