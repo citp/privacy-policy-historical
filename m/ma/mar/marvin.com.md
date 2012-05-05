@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marvin.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106114959id_/http%3A//www.marvin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marvin.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505212302id_/http%3A//www.marvin.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -8,21 +8,23 @@ Marvin Lumber and Cedar Company (“Marvin”) respects the privacy of its custo
 
 ## 1\. INFORMATION COLLECTION AND USE
 
-Portions of the Site permit users to contact Marvin with requests for information regarding our products and services. These and other portions of the Site require users to provide personally identifiable contact information. In general, Marvin uses the information users provide for the purposes stated at the point of collection. For example, Marvin may use contact information to respond to a user’s request for product information. Marvin may also use this information to contact users as a follow up to a user’s request for information, or to contact users in the future with respect to new products, options or promotional offers we think may be of interest to users. Users who have provided information in the past may opt-out of receiving future information by complying with the opt-out procedures described below in Section 2.
+Portions of the Site permit users to contact Marvin with requests for information regarding our products and services. These and other portions of the Site require users to provide personally identifiable contact information. In general, Marvin uses the information users provide for the purposes stated at the point of collection. For example, Marvin may use contact information to respond to a user’s request for product information. Marvin may also use this information to contact users as a follow up to a user’s request for information, or to contact users in the future with respect to new products, options or promotional offers we think may be of interest to users. Users who have provided information in the past may opt-out of receiving future information by following the opt-out procedures described below in Section 2.
 
 [ ](https://web.archive.org/)
 
 ## Information Sharing 
 
-Marvin may share user information with its affiliates, and its network of distributors and dealers. Marvin may also share user information with third parties which Marvin has engaged to provide a particular service. In the event Marvin sells or acquires business assets or concerns, in whole or in part, Marvin may transfer user information in conjunction with such sale or acquisition.
+Marvin may share user information with its affiliates and its network of distributors and dealers. Marvin may also share user information with third parties which Marvin has engaged to provide a particular service, such as an advertising service. In the event Marvin sells or acquires business assets or concerns, in whole or in part, Marvin may transfer user information in conjunction with such sale or acquisition.
 
 [ ](https://web.archive.org/)
 
 ## Cookies/IP Addresses
 
-Cookies are small files stored by a web browser to help keep track of a user’s activity while visiting the Site. The Site’s cookies do not collect personally identifiable information and are not shared with third parties. The Site uses cookies to remember choices and information for the user’s convenience and to deliver content specific to a user’s needs and interests. Marvin may use cookies to provide faster service or to personalize a user’s visit to the Site. Marvin may also use cookies to track Site usage trends, to help Marvin understand what Site information is most valuable to the Site’s users, and to improve the Site for all users.
+Cookies are small files stored by a web browser, which can keep track of that browser’s activity. Cookies used on the Site do not collect personally identifiable information. 
 
-Marvin may collect and use users' Internet Protocol or “IP” Addresses and other usage data to gather broad demographic information. Marvin generally does not use IP addresses to identify a user. Marvin may use IP addresses to identify a user when we feel it is necessary to enforce compliance with the Site’s [Terms of Use](https://web.archive.org/legal/) or to protect our business, the Site, our customers or others, or in response to requests or subpoenas by law-enforcement authorities.
+Cookies may be used to remember choices and information for the user’s convenience and to deliver content specific to a user’s needs and interests, to provide faster service or personalize a user’s visit to the Site, to track Site usage trends, to help Marvin understand what Site information is most valuable to the Site’s users, or to improve the Site for all users. Cookies may also be used to serve relevant, targeted advertisements via third party web sites. 
+
+Marvin or third party advertisers may collect and use users' Internet Protocol or “IP” Addresses and other usage data to gather broad demographic information or for use in connection with targeted advertising. Marvin generally does not use IP addresses to personally identify a user. Marvin may use IP addresses in an effort to identify a user when we feel it is necessary to enforce compliance with the Site’s [Terms of Use](https://web.archive.org/legal/) or to protect our business, the Site, our customers or others, or in response to requests or subpoenas by law-enforcement authorities.
 
 [ ](https://web.archive.org/)
 
@@ -58,9 +60,9 @@ The Site is not intended for use by children. Marvin encourages parents and guar
 
 [ ](https://web.archive.org/)
 
-## Links to Other Sites
+## Other Sites
 
-The Site contains links to other web sites. Each of these linked web sites maintains its own independent privacy policies. Marvin does not control and is not responsible for the privacy policies or the content of those web sites. When you leave the Site and access the web sites of third parties, the privacy policies of the parties maintaining those web sites apply.
+The Site may contain links to other web sites and may contain third party pixels or other embedded means of facilitating online interaction with other web sites. Marvin does not control and is not responsible for the privacy policies or the content of any other web site. 
 
 [ ](https://web.archive.org/)
 
@@ -92,4 +94,4 @@ Eagan, MN 55122
 [ ](https://web.archive.org/) ©Copyright 2009, Marvin Lumber and Cedar Co, All Rights Reserved.
 
  **DATE OF LAST MODIFICATION  
-May 5, 2009**
+April 18, 2012**
