@@ -1,9 +1,12 @@
-> *The following text is extracted and transformed from the flyerspecials.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225102924id_/http%3A//www.flyerspecials.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyerspecials.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505085027id_/http%3A//www.flyerspecials.com/privacy.htm) for the most accurate reproduction.*
 
-# flyerspecials.com - Flyers, coupons, savings, online shopping,
+# Flyers Specials Saving Weekly Grocery Store Ads Flyer ads
 
-  | **Private Privacy  
-**
+** Private Privacy**
+
+ **Private Privacy**
+
+* * *
 
 Although we take appropriate measures to safeguard against unauthorized disclosures of information, we assure you that personal information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy. Inadvertent disclosures may result, for example, when third parties misrepresent their identities in contacting flyerspecials.com for access to personal information about themselves for purposes of correcting possible factual errors in the data.
 
