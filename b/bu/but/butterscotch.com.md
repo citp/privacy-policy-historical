@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the butterscotch.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101122749id_/http%3A//www.butterscotch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the butterscotch.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506090833id_/http%3A//www.butterscotch.com/privacy.html) for the most accurate reproduction.*
 
 # butterscotch.com privacy statement
 
