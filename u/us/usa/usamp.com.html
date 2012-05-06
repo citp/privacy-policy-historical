@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the usamp.com privacy policy that was archived on 2011-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111214035249id_/http%3A//www.usamp.com/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the usamp.com privacy policy that was archived on 2012-05-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120506235000id_/http%3A//www.usamp.com/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 	<title>Privacy Policy | uSamp</title>
@@ -10,7 +10,7 @@
     <meta http-equiv="description" content="site description">
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta http-equiv="Copyright" content="uSamp © 2011">
+<meta http-equiv="Copyright" content="uSamp © 2012">
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
 
 <!-- FACEBOOK -->
@@ -37,20 +37,16 @@
 	<script type="text/javascript" src="http://www.usamp.com/objects/js/panel_book_search.js"></script>
 	<script type="text/javascript" src="http://www.usamp.com/objects/js/jquery.simplerss-0.1.0.js"></script>
 	<script type="text/javascript" src="http://www.usamp.com/objects/js/shadowbox.js"></script>
+	<script type="text/javascript" src="http://www.usamp.com/objects/js/site_accordion.js"></script>
 
-	<script type="text/javascript" src="http://www.usamp.com/objects/js/shadowbox.js"></script>		
-			
-	<script type="text/javascript">
+
+
+<script type="text/javascript">
 		$(document).ready(function(){
 			$('body').pngFix( );
-			
-			$('#accordion').hoverAccordion({
-					activateitem: '1',
-					speed: 'fast'
-				});
-			$('#accordion').children('li:first').addClass('firstitem');
-			$('#accordion').children('li:last').addClass('lastitem');
-					
+								
+            $('.usamp-accordion').uSampAccordion();        
+                    
 			Shadowbox.init({
 			    language: 'en',
 			    players:  ['img', 'html', 'iframe', 'qt', 'wmp', 'swf', 'flv']
@@ -77,16 +73,19 @@
 <div id="header">
  <h1><a href="http://www.usamp.com/">United Sample Takes Online Sample Research To The Next Level</a></h1>
 
-<div id="search">
- <form name="panel_book_search" id="panel_book_search" method="GET" action="http://www.usamp.com/panel_book_search_results" class="searchForm">
-  <label>Panel Book Search
-  <input type="text" name="s" id="panel_search_box" maxlength="100" class="panel_search_box" value="ex. diabetes, Ford" onfocus="keywordBoxFocus(this.id);" onblur="keywordBoxBlur(this.id);"></label>
-  <input type="SUBMIT" alt="Search" class="btnArrow" id="submit_panel_search" value="Search" onclick="return keywordSearch(panel_book_search,'panel_search_box');">
- </form>
+<div id="login">
+	<a href="https://network.usamp.com">LOGIN</a>
+</div>
 
- <a href="https://network.usamp.com" class="login">Login <span></span></a>
-
- <cite><a href="http://www.usamp.com/panel_book_search">New to Panel Book Search?</a></cite>
+<div id="socialMediaIcons">
+	<!-- <span style="float:left; margin-right:10px; color:#716d6c; font-size:10px; padding-top: 5px;">Sign up to receive exciting news:</span> -->
+	<a id="smi_facebook" class="button" alt="Connect with us on Facebook" href="http://www.facebook.com/pages/uSamp/174617839273719" target="_blank">Facebook</a>
+    <a id="smi_twitter" class="button" alt="Follow our Twitter feed" href="http://twitter.com/#!/uSamp" target="_blank">Twitter</a>
+    <a id="smi_linkedin" class="button" alt="Connect with us through LinkedIn" href="http://www.linkedin.com/company/usamp" target="_blank">LinkedIn</a>
+    <a id="smi_youtube" class="button" alt="Watcfh our videos on You Tube" href="http://www.youtube.com/usamp" target="_blank" style=" margin-right:10px;">You Tube</a>
+    <a id="smi_google" class="button" alt="Connect with us on Google+" href="https://plus.google.com/102379693281117546378/posts" target="_blank" style=" margin-right:10px;">Google+</a>    
+    <a id="smi_blog" class="button" alt="View our blog" href="http://blog.usamp.com" target="_blank" style="margin-right:15px;">Visit the uSamp Blog</a>
+    <a id="smi_newsletter" alt="View our blog" href="/our-company/newsletter" style=" padding-top: 5px;">Subscribe to our newsletter</a>
 </div>
 <div id="nav">
  <ul>
@@ -104,7 +103,10 @@
 
 <div id="content">
 <div class="hero">
- <img src="http://www.usamp.com/objects/img/policy/hero_index.jpg" width="774" height="160" alt="uSamp Privacy Policy">
+ 
+		<img src="http://www.usamp.com/objects/img/policy/hero_index.jpg" width="774" height="160" alt="uSamp Privacy Policy"> 
+
+
 </div>
 <div id="holder">
 
@@ -184,7 +186,8 @@
   </li><li><a href="http://www.usamp.com/technology/" title="Our Technology">Our Technology</a>
   </li><li><a href="http://www.usamp.com/publishers/" title="Publishers">Publishers</a></li>
   <li><a href="http://www.usamp.com/our-company/" title="Our Company">Our Company</a>
- </li><li><a href="http://www.usamp.com/sitemap/" title="Site Map">Site Map</a></li>
+  </li><li><a href="http://blog.usamp.com/" target="_blank">Blog</a></li>
+ <li><a href="http://www.usamp.com/sitemap/" title="Site Map">Site Map</a></li>
   <li><a href="http://www.usamp.com/contact/" title="Contact Us">Contact Us</a></li>
   <li><a href="javascript:sendMailTo('newbids','usamp','com','Bid Request')" title="Submit a bid">Submit a bid</a></li>	
  </ul>
@@ -193,7 +196,7 @@
   <li><a href="javascript:sendMailTo('sales','usamp','com','')">Sales: <span>Sales@uSamp.com</span></a></li>
  </ul>
  <ul class="last">
-  <li> © Copyright 2011 uSamp (United Sample Inc.). All Rights Reserved. <a href="http://www.usamp.com/policy/" class="active" title="Privacy Policy">Privacy Policy</a>.</li>	
+  <li> © Copyright 2012 uSamp (United Sample Inc.). All Rights Reserved. <a href="http://www.usamp.com/policy/" class="active" title="Privacy Policy">Privacy Policy</a>.</li>	
  </ul>
 </div>
 
