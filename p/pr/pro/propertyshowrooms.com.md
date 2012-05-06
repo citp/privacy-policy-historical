@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertyshowrooms.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211131id_/http%3A//www.propertyshowrooms.com/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyshowrooms.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506024244id_/http%3A//www.propertyshowrooms.com/privacy_statement.asp) for the most accurate reproduction.*
 
 # Propertyshowrooms.com Privacy Statement
 
@@ -53,6 +53,6 @@ The following information is required by the Electronic Commerce (EC Directive) 
 Service Provided by www.propertyshowrooms.com which is an operational business unit of Global Prospects S.L.
 
 Global Prospects SL  
-Edificio Beroe, Calle Ramon y Cajal 5  
+Edif River Playa 2, Calle Santa Barbara 1  
 Fuengirola/Malaga   
 Spain, 29640
