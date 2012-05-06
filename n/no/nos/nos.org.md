@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nos.org privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124174912id_/http%3A//www.nios.ac.in/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nos.org privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506041719id_/http%3A//www.nios.ac.in/policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
