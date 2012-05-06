@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ausearchengine.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102005046id_/http%3A//ausearchengine.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ausearchengine.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506195531id_/http%3A//ausearchengine.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Au Search Engine
 
@@ -18,6 +18,10 @@ You may occasionally get cookies from our advertisers. These cookies are sent fr
 
 **Removal from our Database**  
 Should you ever wish to be removed from our database, simply contact us and we will be happy to fulfill your request. Additionally, should you wish further clarification of this policy, please do not hesitate to email us at **[support@ientry.com](mailto:support@ientry.com)**.
+
+* * *
+
+[](http://www.searchingindia.in/)
 
 * * *
 
