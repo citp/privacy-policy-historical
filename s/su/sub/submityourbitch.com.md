@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the submityourbitch.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225040127id_/http%3A//submityourbitch.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submityourbitch.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506024957id_/http%3A//submityourbitch.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
