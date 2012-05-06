@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the pizzahut.com.au privacy policy that was archived on 2011-11-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111126043354id_/http%3A//www.pizzahut.com.au/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pizzahut.com.au privacy policy that was archived on 2012-05-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120506042526id_/https%3A//www.pizzahut.com.au/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="EN" xml:lang="EN"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
  	<title>Privacy Policy - Pizza Hut Australia</title>
  	<meta name="description" content="Pizza Hut's privacy policy.">
+
 	<meta name="keywords" content="">
 	<link href="/css/style.css" rel="stylesheet" type="text/css">
 <script src="/js/swfobject.js" type="text/javascript"></script>
@@ -41,7 +42,7 @@ $(document).ready(function(){
 	
 	<div id="header">
 	<a class="skiplinks" href="#maincontent">Skip navigation</a> 
-	<a href="/" class="SiteLogo"><img src="/images/PH_logo.png" width="157" height="148" alt="Pizza Hut" class="pngfix"></a>
+	<a href="/" class="SiteLogo"><img src="/images/PH_logo.png" width="302" height="148" alt="Pizza Hut" class="pngfix"></a>
 	<ul id="nav-top">
 		<li><a href="/" class="home">Home</a></li>
 		<li><a href="/pizza-hut-menu" class="menu">Menu</a></li>
@@ -50,21 +51,22 @@ $(document).ready(function(){
 		<li><a href="/nutrition" class="nutrition">Nutrition</a></li>
 		<li><a href="/work-with-us" class="work">Work With Us</a></li>
 		<li><a href="/franchise" class="franchising">Franchising</a></li>
-		<li class="last"><a href="/members/login" class="members memberlogin">Members</a></li>
+		<li class="last"><a href="/members/login" rel="nofollow" class="members memberlogin">Members</a></li>
 	</ul>
 	<div id="nav">
 		<ul>
-			<li class="highlights"><a href="/index"><span>Highlights</span></a>
+<!--			<li class="highlights"><a href="/"><span>Highlights</span></a>
 				<ul>
 				<li><a href="/?s=new" class="new" rel="new"><span>New</span></a></li>
 				<li><a href="/?s=featured" class="featured" rel="featured"><span>Featured</span></a></li>
 				<li><a href="/?s=deals" class="deals" rel="deals"><span>Deals</span></a></li>
 				</ul>
-			</li>
+			</li>-->
 			<li class="menu"><a href="/pizza-hut-menu"><span>Menu</span></a>
 				<ul>
 				<li><a href="/pizza-hut-menu/" class="mega_all"><span>View Entire Range</span></a></li>
-				<li><a href="/pizza-hut-menu/taste-sensations" class="mega_taste"><span>Taste Sensations</span></a></li>
+<!--				<li><a href="/pizza-hut-menu/taste-sensations" class="mega_taste"><span>Taste Sensations</span></a></li>-->
+                <li><a href="/pizza-hut-menu/signature-range" class="mega_signature"><span>Signature Range</span></a></li>
 				<li><a href="/pizza-hut-menu/legends" class="mega_legends"><span>Legends</span></a></li>
                 <li><a href="/pizza-hut-menu/pizza-classics" class="mega_classics"><span>Pizza Classics</span></a></li>
 				<li><a href="/pizza-hut-menu/pizza-mia" class="mega_mia"><span>MIA</span></a></li>
@@ -84,13 +86,14 @@ $(document).ready(function(){
 						<form action="/store-finder">
 							<img src="/images/title_enter-location.gif" border="0" alt="Enter Location">
 							<input type="text" size="20" id="MegaStoreLocation" name="location" value="Suburb or Postcode" onfocus="if(this.value=='Suburb or Postcode') { this.value=''; }" onblur="if(this.value=='') { this.value='Suburb or Postcode'; }">
-							<button type="submit"><span>Search</span></button>
+							<button id="all_stores" type="submit"><span>All Stores</span></button>
+                            <button id="dine_in" type="submit" name="dinein" value="1"><span>Dine in</span></button>
 						</form>
 					</span>
 									</li>
 				</ul>
 			</li>
-			<li class="members"><a href="/members/login" class="memberlogin"><span>Members</span></a>
+			<li class="members"><a href="/members/login" class="memberlogin" rel="nofollow"><span>Members</span></a>
 				<ul>
 								<li>	
 					<span>
@@ -99,7 +102,7 @@ $(document).ready(function(){
 							<input type="text" size="20" name="LoginEmail" value="Email address" onfocus="if(this.value=='Email address') { this.value=''; }" onblur="if(this.value=='') { this.value='Email address'; }">
 							<input type="text" size="20" name="LoginPass" value="Password" onfocus="if(this.value=='Password') { this.value='';this.type='password'; }" onblur="if(this.value=='') { this.type='text';this.value='Password';}">
 							<button type="submit"><span>Login</span></button>
-							<a href="/members/lostpass" class="LostPass"><span>Forgotten Password</span></a>
+							<a href="/members/lostpass" class="LostPass" rel="nofollow"><span>Forgotten Password</span></a>
 						<input type="hidden" name="Login" value="1">
 						</form>
 						<script type="text/javascript">
@@ -119,20 +122,24 @@ $(document).ready(function(){
 						<img src="/images/title_mega-not-a-member.gif" border="0" alt="Not a member?">
 						Sign up and we will remember important information about your orders to save you time.
 					</span>
-					<a href="/members/register" class="memberlogin registeroverlay"><span>Register now</span></a>
+					<a href="/members/register" class="memberlogin registeroverlay" rel="nofollow"><span>Register now</span></a>
 				</li>
 								</ul>
 			</li>
 		</ul>
-		<h2><a class="ButtonOrder" href="https://order.pizzahut.com.au/rc.aspx?"><span>Order Now</span></a></h2>
+        <h2>
+            <a class="ButtonOrder" href="https://order.pizzahut.com.au/rc.aspx?">
+                <span>Order Now</span>
+            </a>
+                    </h2>
 	</div>
 	 	
-	<div id="value-box">
+    	<div id="value-box">
 				<p><span>Rewards</span><br>Pay less online everyday</p>
 		<p><span>Value</span><br>Redeem Coupons</p>
 		<p><span>Flexibility</span><br>Pay by cash or credit card</p>
 			</div>
-</div>	 
+    </div>	 
   	<div id="mid"><a href="maincontent"></a>
   		<div id="mid-inner">
   			<div id="content">
@@ -175,16 +182,16 @@ $(document).ready(function(){
   			<ul>
   				<li><a href="/work-with-us">Work With Us</a></li>
   				<li><a href="/franchise">Franchising</a></li>
-  				<li><a href="/members/login.php" class="memberlogin">Members</a></li>
+  				<li><a href="/members/login.php" class="memberlogin" rel="nofollow">Members</a></li>
   				<li><a href="/about-us">About Us</a></li>
   			</ul>
   			<ul>
   				<li><a href="/contact-us">Contact Us</a></li>
   				<li><a href="/FAQ">FAQs</a></li>
-  				<li><a href="/terms-and-conditions">Terms &amp; Conditions</a></li>
+  				<li><a href="/terms-and-conditions" rel="nofollow">Terms &amp; Conditions</a></li>
   			</ul>
   			<ul>
-  				<li><a href="/privacy-policy">Privacy Policy</a></li>
+  				<li><a href="/privacy-policy" rel="nofollow">Privacy Policy</a></li>
   				<li><a href="/latest">Latest</a></li>
   				<li><a href="/sitemap/sitemap.php">Sitemap</a></li>
   			</ul>
