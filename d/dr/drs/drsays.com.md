@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drsays.com privacy policy that was archived on 2011-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110314081743id_/http%3A//www.drsays.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drsays.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506173431id_/https%3A//www.drsays.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | DrSays
 
@@ -44,4 +44,4 @@ We cooperate with law enforcement inquiries and demands for information that are
 
 **8\. Data Access and Security.  **DRSAYS has developed all systems and manages the data for this site. No data is transferred to users that do not have specific data access keys. Personal information collected by our web site is stored in secure operation environments that are not available to the public. We take every reasonable precaution to protect your personal information including encryption and passwords when appropriate. Only those staff members of DRSAYS with relevant business duties (for example, a customer service representative) may access personal information on the site to perform those specific duties, each having signed confidentiality agreements. Any staff member who violates our privacy or security policies is subject to disciplinary action, including possible termination and civil and/or criminal prosecution. 
 
-DRSAYS welcomes your questions and comments about privacy and this policy. If you have any questions about our policies or our site, please [Contact Us](mailto:contact@drsays.com?subject=Privacy%20Policy%20).
+DRSAYS welcomes your questions and comments about privacy and this policy. If you have any questions about our policies or our site, please [Contact Us](https://www.drsays.com/contact).
