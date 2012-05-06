@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlemotron.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124021343id_/http%3A//www.articlemotron.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlemotron.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506091203id_/http%3A//www.articlemotron.com/privacy.php) for the most accurate reproduction.*
 
 # ArticleMotron Article Directory
 
