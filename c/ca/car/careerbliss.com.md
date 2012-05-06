@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the careerbliss.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630081250id_/http%3A//www.careerbliss.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerbliss.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506130607id_/http%3A//www.careerbliss.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CareerBliss.com
 
 At CareerBliss, we recognize that privacy is important. This Privacy Policy applies to all of the services offered by CyberCoders, LLC or its related companies (the "Services").
 
 If you have any questions about this Privacy Policy, please feel free to contact us through our website or write to us at:  
-42 Discovery  
+6591 Irvine Center Drive, Suite 200  
 Irvine, CA 92618 
 
 ## Information We Collect and How We Use It
@@ -73,7 +73,7 @@ When you use CareerBliss services, we make good faith efforts to provide you wit
 ## Enforcement
 
 CareerBliss regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or CareerBliss’s treatment of personal information by contacting us through the CareerBliss website or by writing to us at:  
-42 Discovery  
+6591 Irvine Center Drive, Suite 200  
 Irvine, CA 92618 
 
 When we receive formal written complaints at this address, it is CareerBliss’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between CareerBliss and an individual.
@@ -83,5 +83,5 @@ When we receive formal written complaints at this address, it is CareerBliss’s
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Privacy Policy changes on this page, and, if the changes are significant, we will provide a more prominent notice (including e-mail notification of Privacy Policy changes). Each version of this Privacy Policy will be identified at the top of the page.
 
 If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us at any time through this web site or at:  
-42 Discovery  
+6591 Irvine Center Drive, Suite 200  
 Irvine, CA 92618 
