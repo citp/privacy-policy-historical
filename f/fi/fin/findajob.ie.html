@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the findajob.ie privacy policy that was archived on 2011-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111228043125id_/http%3A//www.findajob.ie/About-Us/privacy-statement.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the findajob.ie privacy policy that was archived on 2012-05-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120506212823id_/http%3A//www.findajob.ie/About-Us/privacy-statement.cfm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- Content Copyright StepStone UK Limited --><!-- Page generated 2011-12-28 05:31:21 by CommonSpot Build 5.0.3.132 (2009-02-13 11:10:58) --><!-- JavaScript & DHTML Code Copyright 1998-2009 PaperThin, Inc.  All rights reserved --><head> <title>Findajob Privacy Statement </title> <meta name="Description" id="Description" content="Privacy Statement">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- Content Copyright StepStone UK Limited --><!-- Page generated 2012-05-06 23:28:24 by CommonSpot Build 5.0.3.132 (2009-02-13 11:10:58) --><!-- JavaScript & DHTML Code Copyright 1998-2009 PaperThin, Inc.  All rights reserved --><head> <title>Findajob Privacy Statement </title> <meta name="Description" id="Description" content="Privacy Statement">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="Keywords" id="Keywords" content="privacy statement">
 <meta name="Generator" id="Generator" content="CommonSpot Content Server Build 5.0.3.132">
 
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
-<meta name="serverid" content="176/web1">
+<meta name="serverid" content="178/web2">
 
 <meta name="robots" content="follow">
 
@@ -53,8 +53,8 @@
 <![endif]-->
 
 <script src="/5/resources/js/prototype.js" type="text/javascript"></script>
-<script src="/5/resources/js/onDOMready.js" type="text/javascript"></script>
-<script src="/5/resources/js/cms/loginState.js" type="text/javascript"></script>
+<script src="/5/resources/js/ondomready.js" type="text/javascript"></script>
+<script src="/5/resources/js/cms/loginstate.js" type="text/javascript"></script>
 <script src="/5/resources/js/leftmenu.js" type="text/javascript"></script>
 
 
@@ -68,165 +68,7 @@
 		});
 		/* ]]> */
 		</script>
-		<link rel="stylesheet" href="/commonspot/commonspot.css" type="text/css" id="cs_maincss"> </head><body lang="en" class="inner v2NavInline about locale_en_ie"><a name="__topdoc__"></a><script type="text/javascript" src="/commonspot/javascript/browser-all.js"></script><script src="/commonspot/pagemode/always-include-common.js" type="text/javascript"></script><script type="text/javascript">
-<!--
-		// always-include-ie.js  Copyright 1998-2005 PaperThin, Inc. All rights reserved.
-
-bName = navigator.appName;
-bVer = parseInt(navigator.appVersion);
-
-var bCanRollover=0
-if (bName == "Netscape")
-{
-	if(bVer >= 3)
-		bCanRollover=1;
-}
-else if (bName == "Microsoft Internet Explorer")
-{
-	if(bVer >= 4)
-		bCanRollover=1;
-}
-
-function ImageSet(imgID,newTarget)
-{
-	if (bCanRollover)
-		document[imgID].src=newTarget;
-}
-function clearStatus()
-{
-	window.status = "";
-}
-function setStatbar(statbar)
-{
-	var strStatbar=unescape(statbar);
-	window.status=strStatbar;
-}
-function onLoadComplete()
-{
-	if( menus_included == 1 )
-		document.onmouseover = document_mouseover;	// defined in menu_ie.js
-}
-function HandleLink(parentID,link,displaylink) 
-{
-	// links are in one of the following formats:
-	// 		cpe_60_0,CP___PAGEID=100
-	// 		CPNEWWIN:WindowName^params@CP___
-	// 			CPNEWWIN:child^top=110:left=130:ww=140:hh=150:tb=1:loc=1:dir=0:stat=1:mb=1:sb=1:rs=1@CP___PAGEID=3811,Adv-Search-2,1
-	// displaylink is the server relative URL or fully qualified URL
-	windowname = "";
-	windowparams = "";
-
-	// "CPNEWWIN:" & NewWindowName & "^" & params & "@" & linkStruct.LinkURL; 
-	pos = link.indexOf("CPNEWWIN:");
-	if (pos != -1)
-	{
-		pos1 = link.indexOf ("^");
-		windowname = link.substring (pos+9, pos1);
-		pos2 = link.indexOf ("@");
-		windowparams = link.substring (pos1 + 1, pos2);
-		link = link.substring (pos2 + 1, link.length);
-	}
-	
-	if( displaylink && displaylink != "" )
-	{		
-		if (windowname == "")
-			window.location = displaylink;
-		else
-		{
-			windowparams = FormatWindowParams(windowparams);
-			window.open (displaylink, windowname, windowparams);
-		}
-	}
-	else
-	{
-		targetLink = link;
-
-		if (link.indexOf ("CP___") != -1)
-		{
-
-			httpPos = -1;
-			commaPos = link.indexOf(",");
-			if (commaPos != -1)
-			{
-				targetUrl = link.substr(commaPos + 1);
-				if (targetUrl.indexOf("://") != -1 || targetUrl.indexOf("/") == 0)
-				{
-						httpPos = commaPos + 1;
-				}		
-			}
-				
-			if (httpPos != -1)
-			{
-				targetLink = link.substr(httpPos);
-
-				commaPos = targetLink.indexOf(",");
-				if (commaPos != -1)
-					targetLink = targetLink.substr(0, commaPos);
-			}
-			else
-				targetLink = jsDlgLoader + "?csModule=utilities/handle-link&thelink=" + link;
-			
-			if (windowname == "")
-				window.location = targetLink;
-			else
-			{
-				windowparams = FormatWindowParams(windowparams);
-				window.open (targetLink, windowname, windowparams);
-			}
-		}
-		else
-		{
-			//commaPos = link.indexOf(",");
-			//if (commaPos != -1)
-			//	link = link.substr(0, commaPos);
-
-			if (windowname == "")
-				window.location = link;
-			else
-			{
-				windowparams = FormatWindowParams(windowparams);
-				window.open (link, windowname, windowparams);
-			}
-		}
-	}
-
-}
-function doWindowOpen(href,name,params)
-{
-	if (params != '')
-	window.open (href, name, params);
-	else
-		window.open (href, name);	
-}
-
-// 	CPNEWWIN:child^top=110:left=130:ww=140:hh=150:tb=1:loc=1:dir=0:stat=1:mb=1:sb=1:rs=1@CP___PAGEID=3811,Adv-Search-2,1
-function FormatWindowParams(windowparams)
-{
-	if( windowparams.indexOf(":loc=") != -1 || windowparams.indexOf(":ww=") != -1 || windowparams.indexOf(":hh=") != -1 || 
-	    windowparams.indexOf(":left=") != -1 || windowparams.indexOf(":top=") != -1 )
-	{
-		windowparams = substringReplace(windowparams,':left=',',left=');
-		windowparams = substringReplace(windowparams,'left=','left=');
-		windowparams = substringReplace(windowparams,':ww=',',width=');
-		windowparams = substringReplace(windowparams,'ww=','width=');		
-		windowparams = substringReplace(windowparams,':hh=',',height=');
-		windowparams = substringReplace(windowparams,'hh=','height=');
-		windowparams = substringReplace(windowparams,':loc=',',location=');
-		windowparams = substringReplace(windowparams,'loc=','location=');
-		windowparams = substringReplace(windowparams,':dir=',',directories=');
-		windowparams = substringReplace(windowparams,'dir=','directories=');
-		windowparams = substringReplace(windowparams,':tb=',',toolbar=');
-		windowparams = substringReplace(windowparams,'tb=','toolbar=');
-		windowparams = substringReplace(windowparams,':stat=',',status=');
-		windowparams = substringReplace(windowparams,':mb=',',menubar=');
-		windowparams = substringReplace(windowparams,':sb=',',scrollbars=');
-		windowparams = substringReplace(windowparams,':rs=',',resizable=');
-	}
-	return windowparams;
-}
-
-// -->
-		</script>
+		<link rel="stylesheet" href="/commonspot/commonspot.css" type="text/css" id="cs_maincss"> <link rel="stylesheet" type="text/css" href="/5/resources/css/cms/viewmode.css"></head><body lang="en" class="inner v2NavInline about locale_en_ie"><a name="__topdoc__"></a><script src="/commonspot/ns-resize.js" type="text/javascript"></script><script type="text/javascript" src="/commonspot/javascript/browser-all.js"></script><script src="/commonspot/pagemode/always-include-common.js" type="text/javascript"></script><script src="/commonspot/pagemode/always-include-ns.js" type="text/javascript"></script>
 <div id="wrapper">
 	<div id="container">
 		<div id="cs_control_1342" class=""> <div class="CS_Element_Schedule" title="" id="CS_Element_containerLayout"> 
@@ -250,6 +92,12 @@ function FormatWindowParams(windowparams)
 							<li id="nav-supportingcareers">
 								<span>
 									<a href="http://www.supportingcareers.ie " title="Education &amp; Training" target="_blank">Education &amp; Training</a>
+								</span>
+							</li>
+						
+							<li id="nav-postjob">
+								<span>
+									<a href="http://advertise.findajob.ie " title="Post A Job">Post A Job</a>
 								</span>
 							</li>
 						
@@ -809,11 +657,11 @@ Email: <a src="" id="mailto:info@findajob.ie|" onmouseover="" onmouseout="" href
 		<div class="h3">Categories</div>
 		<ul id="left_navigation">
 			
-					<li id="link_42" class="">
+					<li id="link_42" class="list-item ">
 						<a href="/About-Us/history.cfm" target="_self" class=""><span>A brief history</span></a>
 					</li>
 				
-					<li id="link_43" class="">
+					<li id="link_43" class="list-item ">
 						<a href="/About-Us/contact-form.cfm" target="_self" class=""><span>Contact Us</span></a>
 					</li>
 				
@@ -881,7 +729,7 @@ Email: <a src="" id="mailto:info@findajob.ie|" onmouseover="" onmouseout="" href
 <div id="Footer">
 	<div class="hr"><!-- dashed line separator --></div>
 	<div id="FooterLogo">
-	  <p>Copyright © INM plc 2011
+	  <p>Copyright © INM plc 2012
 | Jobs in Ireland</p>
 	  <ul class="nav">
 <li><a href="/About-Us/privacy-statement.cfm"><span>Privacy Statement</span></a><!--[if lt IE 8]> | <![endif]--></li>
@@ -896,33 +744,7 @@ Email: <a src="" id="mailto:info@findajob.ie|" onmouseover="" onmouseout="" href
 <!-- IMPORTANT >>> --> <br clear="all"> <!-- <<< IMPORTANT -->
 
 <!-- BANNERS -->
-	<div id="BannerLeaderboard" class="banner">
-	<script type="text/javascript"> 
-	//<![CDATA[ 
-	<!--
-		ord=Math.random()*10000000000000000;
-		document.write('<scr' + 'ipt src="http://ad.uk.doubleclick.net/adj/loadzajobs2.ie/career-advice/;sz=468x60,729x91;tile=1;dcopt=ist;ord=' + ord + '?"><\/scr' + 'ipt>');
-	//-->
-	//]]> 
-	</script><script src="http://ad.uk.doubleclick.net/adj/loadzajobs2.ie/career-advice/;sz=468x60,729x91;tile=1;dcopt=ist;ord=4679893876810024?"></script> 
-	<noscript> 
-		<p>
-			<a href="#" onclick="window.open('http://ad.uk.doubleclick.net/jump/loadzajobs2.ie/career-advice/;sz=468x60,729x91;tile=1;dcopt=ist;ord=20110413030623?'); return false;">
-				<img src="http://ad.uk.doubleclick.net/ad/loadzajobs2.ie/career-advice/;sz=468x60,729x91;tile=1;dcopt=ist;ord=20110413030623?" alt="Click here..." />
-			</a>
-		</p>
-	</noscript>
-</div> <div id="SkyscraperContainer" class="banner">
-	<script type="text/javascript"><!--
-		google_ad_client = "pub-5112893014342570";
-		/* 160x600, created 25/06/10 */
-		google_ad_slot = "7324191971";
-		google_ad_width = 160;
-		google_ad_height = 600;
-		//-->
-	</script>
-	<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
-</div> 
+	
 <!-- /BANNERS -->
 </div> </div> 
 </div> </div> </div> </div> 
@@ -961,69 +783,10 @@ Email: <a src="" id="mailto:info@findajob.ie|" onmouseover="" onmouseout="" href
 
 
 
-<!-- site catalyst -->
+<!-- Tagging begin -->
 
-		
-<script language="JavaScript" type="text/javascript"><!--
-/* Specify the Report Suite ID(s) to track here */
-var s_account="stepstonededevelopment"
-//--></script>
-
-<!-- SiteCatalyst code version: H.23_2_v4.
-Copyright 1997-2008 Omniture, Inc. More info available at
-http://www.omniture.com -->
-<script language="JavaScript" type="text/javascript" src="/5/resources/js/cm_plugins.js"></script><!-- include cm js library //-->
-<script language="JavaScript" type="text/javascript" src="/5/resources/js/s_codeh23_2_v4.js?version=20090330"></script>
-<script language="JavaScript" type="text/javascript"><!--
-
-s.charSet="UTF-8";
-/* Conversion Config */
-s.currencyCode="EUR";
-/* Link Tracking Config */
-s.trackDownloadLinks=true;
-s.trackExternalLinks=true;
-s.trackInlineStats=true;
-s.linkDownloadFileTypes="exe,zip,wav,mp3,mov,mpg,avi,wmv,doc,pdf,xls";
-
-s.linkLeaveQueryString=false;
-s.linkTrackVars="None";
-s.linkTrackEvents="None";		
-/* You may give each page an identifying name, server, and channel on
-the next lines. */
-s.pageName="privacy statement"; s.channel="content"; s.prop7="EN";
-s.prop1="content";
-s.prop5="default";
-var eventParameter = s.getQueryParam('event');
-var strippedLocation = window.location.href.split('?')[0];
-if(eventParameter != ''){
-s.prop35 = strippedLocation + '?event=' + eventParameter;
-}else{
-s.prop35 = strippedLocation;
-}
-/* Conversion Variables */
-
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code);
-
-
-function sendSC(options){
-if(s != null){
-for (key in options){
-s[key] = options[key];
-}
-s.t();
-}				
-}
-
-//]]>-->
-</script>
-<script language="JavaScript" type="text/javascript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
-src="https://102.112.2O7.net/b/ss/stepstonededevelopment/1/23_2_v4--NS/0?[AQB]&amp;pageName=privacy%20statement&amp;CH=content&amp;c7=EN&amp;c1=content&amp;c5=default&amp;[AQE]"
-height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.23_2_v4. -->
-<script type="text/javascript">
+	<!-- Tagging loop -->
+	<script type="text/javascript">
 	
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-2721057-37']);
@@ -1062,7 +825,7 @@ _tag.dcsCollect();
 </noscript>
 
 <!-- END OF SmartSource Data Collector TAG -->
-<div style="display:block; clear:left; padding:0px; font-family:Verdana,Arial; font-size:10px; color:gray;"></div><script type="text/javascript">
+<!-- missing file digicert --> <div style="display:block; clear:left; padding:0px; font-family:Verdana,Arial; font-size:10px; color:gray;"></div><script type="text/javascript">
 		<!--
 			var jsPageContributeMode = 'read';
 			var jsPageSessionContributeMode = 'read';
@@ -1078,7 +841,7 @@ _tag.dcsCollect();
 			commonspot.csPage.subsiteRoot = '/About-Us/';
 			commonspot.csPage.siteRoot = '/cmsie/';
 			commonspot.csPage.mode = jsPageSessionContributeMode;
-			commonspot.csPage.authorok = 1;
+			commonspot.csPage.authorok = 0;
 			commonspot.csPage.showContainerUI = 0;
 			commonspot.csPage.requestedVersionTimestamp = '';
 			commonspot.csPage.userRights = {};
