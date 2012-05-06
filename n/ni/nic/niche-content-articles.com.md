@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the niche-content-articles.com privacy policy that was archived on 2010-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100207101132id_/http%3A//www.niche-content-articles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niche-content-articles.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507004437id_/http%3A//www.niche-content-articles.com/privacy.php) for the most accurate reproduction.*
 
 # Niche Content Articles Directory | Privacy Statement
 
