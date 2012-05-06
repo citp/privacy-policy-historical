@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the messaggiamo.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206084049id_/http%3A//www.messaggiamo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the messaggiamo.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506170020id_/http%3A//www.messaggiamo.com/privacy.html) for the most accurate reproduction.*
 
 # Messaggiamo.com Privacy Policy
 
