@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkwave.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125035256id_/http%3A//www.thinkwave.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkwave.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506143740id_/http%3A//www.thinkwave.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Information
 
@@ -30,13 +30,13 @@ ThinkWave, Inc. is committed to safeguarding personal information online. This i
 ThinkWave, Inc. has created this statement in order to demonstrate our firm commitment to privacy. ThinkWave, Inc. uses your Internet Protocol (IP) address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information. ThinkWave, Inc. uses cookies to store and sometimes track information about you. Cookies are pieces of information that a Web site transfers to your computer's hard disk for record-keeping purposes. Cookies do not personally identify users, but they do identify a user's computer. ThinkWave, Inc. generally uses cookies to:
 
   * »  Personalize your view on Grades Online;
-  * »  Deliver content and advertisements specific to your interests;
+  * »  Deliver content and advertisements (within our free, ad-supported gradebook and grades online) specific to your interests;
   * »  Estimate audience size; and
-  * »  Measure certain traffic patterns, which areas of the website you have visited, and your visiting patterns in the aggregate.
+  * »  We may measure certain traffic patterns, which areas of the website you have visited, and your visiting patterns in the aggregate.
 
 
 
-Our site's registration form may ask users to give us contact information such as name and email address and demographic information such as zip code, age, or income level. We use customer contact information from the registration form to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact visitors when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor visitors' experiences at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information may be shared with advertisers on an aggregate basis. Personal information will not be shared with advertisers. ThinkWave will have access to personally identifiable data or information in order to provide services in connection with ThinkWave. ThinkWave may provide personal information to third parties, including but not limited to:
+Our site's registration form may ask users to give us contact information such as name and email address and demographic information such as zip code, age, or income level. We use customer contact information from the registration form to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact visitors when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data may also be collected at our site. We use this data to tailor visitors' experiences at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information may be shared with advertisers on an aggregate basis. Personal information will not be shared with advertisers. ThinkWave will have access to personally identifiable data or information in order to provide services in connection with ThinkWave. ThinkWave may provide personal information to third parties, including but not limited to:
 
   * »  Law enforcement agencies, if required to do so by official request, law or court order;
   * »  Official school request;
