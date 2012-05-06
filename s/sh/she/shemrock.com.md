@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shemrock.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205175036id_/http%3A//www.shemrock.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shemrock.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506022346id_/http%3A//www.shemrock.com/privacy.htm) for the most accurate reproduction.*
 
 # Shemrock - Privacy Policy
 
