@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boatsales.com.au privacy policy that was archived on 2011-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111013051350id_/http%3A//www.boatsales.com.au/info/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boatsales.com.au privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506064253id_/http%3A//www.boatsales.com.au/info/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Boatsales Privacy Policy - boatsales.com.au
 
@@ -98,11 +98,11 @@ This site uses Crazy Egg web analytics service. Crazy Egg may record mouse click
 **What if I have a problem?**  
 If you have a problem, complaint, want to change your personal information or just wish to enquire about privacy please contact us.
 
-Location: | Level 1, 109 Burwood Road, Hawthorn VIC 3122   
+Location: | Level 4, 449 Punt Road, Richmond VIC 3121   
 ---|---  
-Postal Address: | Locked Bag 3333, Hawthorn VIC 3122   
+Postal Address: | Locked Bag 9001, Richmond VIC 3121   
 Phone: | +61 (03) 9093 8600 (Business Hours EST)  
-Contact: | Margaret Beattie  
+Contact: | Nicole Birman  
 Email: | [Click here](http://helpcentre.carsales.com.au/help/contact-us/) to contact us by email  
   
   
