@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chamberlain.edu privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107234310id_/http%3A//www.chamberlain.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chamberlain.edu privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506114631id_/http%3A//www.chamberlain.edu/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -16,7 +16,7 @@ Chamberlain may collect other information from you that is not in conjunction wi
 
 ## 3)    How We Use the Information We Collect.
 
-We use the information that we collect to complete a contact or request; to better understand your needs, to provide to Chamberlain marketing, to improve our products and services, and to contact you. Please note that we will not contact you unless you have authorized Chamberlain to contact you.
+We use the information that we collect to complete a contact or request; to better understand your needs, to provide to Chamberlain marketing and its resources, to improve our products and services, and to contact you. Please note that we will not contact you unless you have authorized Chamberlain to contact you.
 
 ## 4)    Sharing Information That You Provide With Others.
 
