@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openfaves.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213510id_/http%3A//www.openfaves.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openfaves.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506082030id_/http%3A//www.openfaves.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Social Bookmarking Service & Directory Submission | Submit Link, Submit Website, Submit URL & Submit Latest News | Submit Site to Google | Submit Site to Search Engines
 
