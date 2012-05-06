@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clips4sale.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115223151id_/http%3A//www.clips4sale.com/do/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clips4sale.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506220640id_/http%3A//www.clips4sale.com/do/PrivacyPolicy) for the most accurate reproduction.*
 
 # Clips4Sale.com
 
@@ -27,15 +27,13 @@ Users may also follow this procedure for changing and modifying information prev
 
 CHANGES TO OUR PRIVACY POLICY.We will users of any change to this privacy policy either by posting a notification on the main page of the site or via email, unless you have opted-out of receiving email from us.
 
-WHO TO CONTACT.If you have submitted personally-identifiable information through the Website and would like that information deleted from our records, please contact our Customer Service and provide us with your full name, your username, your credit card billing address, and any information you feel important. We will use reasonable efforts to delete this information from our existing files.
-
 FURTHER QUESTIONS.Further Customer Service questions? Contact us at our email address customerservice@clips4sale.com
 
 |  |   
 ---  
    
-[About Us](https://web.archive.org/do/about) | [Title 2257](https://web.archive.org/do/2257) | [Contact Us](http://support.clips4sale.com/) | [Privacy Policy](https://web.archive.org/do/PrivacyPolicy) **[  
-](https://web.archive.org/do/privacy) PARENTS! USE THESE SITES TO FILTER ADULT CONTENT!**  
+[About Us](https://web.archive.org/do/about) | [Title 2257](https://web.archive.org/do/2257) | [Contact Us](http://support.clips4sale.com/) | [Privacy Policy](https://web.archive.org/do/PrivacyPolicy) | [Terms of Service](http://clips4sale.com/do/agree) | [DMCA](https://web.archive.org/do/DMCA)   
+** PARENTS! USE THESE SITES TO FILTER ADULT CONTENT!**  
 [RSAC](http://www.rsac.org/) | [Cyber Patrol](http://www.cyberpatrol.com/) | [Safesurf](http://www.safesurf.com/) | [NetNanny](http://www.netnanny.com/) | [CyberSitter](http://www.cybersitter.com/) |   
   
 The contents of the site service (Clips4Sale, Videos4Sale, Images4Sale) are intent for the personal non commercial use of its users. All materials published on the site (including, but not limited to news articles, photographs images, illustrations, audio clips ad video clips collectively, 'content') are protected by Copyright (C), Trademark and all other applicable intelligential property laws, and are owned and controlled by Clips4Sale, Videos4Sale, Images4Sale or the party credited as the provider of such content, software or other materials. You shall abide by Copyright (C) or other notices, information and restrictions appearing in conjunction with any content accessed through the service. All models on this site are 18 or older. [Title 2257](https://web.archive.org/do/2257)
