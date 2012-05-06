@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the courthousenews.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103103823id_/http%3A//www.courthousenews.com/CNS%2520privacy%2520policy%2520december%252017%25202009.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the courthousenews.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506214748id_/http%3A//www.courthousenews.com/CNS%2520privacy%2520policy%2520december%252017%25202009.htm) for the most accurate reproduction.*
 
 # Courthouse News Service Privacy Policy
 
 **Courthouse News Service Privacy Policy**
 
-Policy version date: December 17, 2009
+Policy version date: August 1, 2011
 
 Courthouse News Service (" **Courthouse News** ," “ **Us** ,” or “ **We** ”) wishes to offer the users of its web sites a personalized and interactive experience.  At the same time, Courthouse News is  committed to protecting the privacy of information that users provide to Courthouse News through its web sites.  This Privacy Policy explains how Courthouse News and others use the information received when you use Courthouse News’ web sites.  This Privacy Policy applies only to information collected by or through Courthouse News’ web sites and does not apply to information obtained by Courthouse News through other means. 
 
@@ -20,7 +20,7 @@ _Environmental Law Report_ (www.cnsenvironmentallaw.com)
 
 _Walt_ _ Girdner_ ([www.waltgirdner.com](http://www.waltgirdner.com/))
 
-On.Point (www.onpoint.com)
+_Kaiser Bad News_ (www.kaiserbadnews.com)
 
 The web sites listed above are each a “ **Site** ,” and referred to collectively as the “ **Sites**.” 
 
@@ -115,4 +115,4 @@ If Courthouse News elects, in its reasonable discretion, to transfer ownership o
 
 **Thank you for visiting the Sites.   ******
 
-**Effective date:   December 17, 2009**
+**Effective date:   August 1, 2011**
