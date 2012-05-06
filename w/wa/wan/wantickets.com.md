@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wantickets.com privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014084827id_/http%3A//wantickets.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wantickets.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506213036id_/http%3A//www.wantickets.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Wantickets United States - United States Wantickets Events
 
