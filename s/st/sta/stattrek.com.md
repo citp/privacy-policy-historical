@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stattrek.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122153142id_/http%3A//stattrek.com/admin/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stattrek.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506101303id_/http%3A//stattrek.com/site/privacy.aspx) for the most accurate reproduction.*
 
-# Stat Trek Privacy Policy
+# Privacy Policy
 
 Here is the bottom line. Your privacy is very important to us. We do not sell or rent your personal information to anyone. 
 
@@ -12,17 +12,13 @@ If you choose to use certain services, we may ask you to provide contact informa
 
 ### How We Use Your Information
 
-We use the personal information that you provide for three basic purposes. 
+We use the personal information that you provide for two basic purposes. 
 
-  * To respond to email queries.
-  * To send the Stat Trek newsletter to subscribers.
   * To process payment for fee-based services.
 
 
 
-To maximize security and protect Users, financial transactions are handled over a secure connection by PayPal Bank. Stat Trek neither sees nor retains User financial information. 
-
-Subscribers to the Stat Trek newsletter can "unsubscribe" and purge their email address from our subscriber list at the [Newsletter](https://web.archive.org/web/20111122153142id_/http%3A//stattrek.com/Products/Newsletter.aspx) page. 
+To maximize security and protect site visitors, financial transactions are handled over a secure connection by PayPal Bank. Stat Trek neither sees nor retains your financial information.
 
 ### Third-Party Advertisers
 
@@ -30,4 +26,4 @@ We use third-party advertising companies to serve ads when you visit our website
 
 If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
-If you have any questions about our privacy policy, please feel free to [ contact us](https://web.archive.org/web/20111122153142id_/http%3A//stattrek.com/admin/StatTrekContactUs.aspx). 
+If you have any questions about our privacy policy, please feel free to [ contact us](https://web.archive.org/web/20120506101303id_/http%3A//stattrek.com/site/StatTrekContactUs.aspx). 
