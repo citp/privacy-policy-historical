@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the pressmart.net privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204024933id_/http%3A//www.pressmart.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressmart.net privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506101620id_/http%3A//www.pressmart.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Pressmart - Privacy Policy
+# ePublishing Company: Electronic Publishing Software / Solutions
 
-## PRIVACY POLICY
-
-Pressmart Media Limited (“ **Pressmart** ” or “” **We** ”) is committed in protecting the privacy of each individual of its subscriber community. This privacy policy (“ **Privacy** **Policy** ”) provides how We collect and make use of information provided by the subscriber (“ **You** ”) when You access the website of Pressmart (“ **Website** ”).  Please note that this Privacy Policy applies only to Website owned by Pressmart and not to the websites of other companies or organizations to which We provide links.
+Pressmart Media Limited (" **Pressmart** " or "" **We** ") is committed in protecting the privacy of each individual of its subscriber community. This privacy policy (" **Privacy** **Policy** ") provides how We collect and make use of information provided by the subscriber (" **You** ") when You access the website of Pressmart (" **Website** ").  Please note that this Privacy Policy applies only to Website owned by Pressmart and not to the websites of other companies or organizations to which We provide links.
 
 This Privacy Policy applies only to information Pressmart collects about You as a subscriber of the Website. This Privacy Policy does not apply to information about You collected by Pressmart's affiliated providers or third party websites and offerings linked to or otherwise accessible from the Website. The information collected or received by Pressmart's affiliated providers and the third parties is subject to their own privacy policies.
 
@@ -12,18 +10,10 @@ This Privacy Policy applies only to information Pressmart collects about You as 
 
 **Personal Information:** In general, We only collect personal information voluntarily provided by You, when You are:
 
-  * 1.
-
-registering on to the Website; 
-  * 2.
-
-subscribing to services provided by Pressmart;
-  * 3.
-
-making inquiries about the services of Pressmart; or 
-  * 4.
-
-contacting Pressmart (including the customer service representatives or other employees) by email. 
+  * registering on to the Website;
+  * subscribing to services provided by Pressmart;
+  * making inquiries about the services of Pressmart; or 
+  * contacting Pressmart (including the customer service representatives or other employees) by email. 
 
 
 
@@ -37,33 +27,15 @@ In addition, We may collect information about your browsing behavior, such as th
 
 We may use the information collected from You for any of the following purposes: 
 
-  * a)
-
-to facilitate your use of the Website and for better understanding of needs of the   subscribers; 
-  * b)
-
-to process and fulfill your orders for certain services; 
-  * c)
-
-to respond to your inquiries or requests for information about the services; 
-  * d)
-
-to send You information, promotional materials, and offers from Pressmart as well as from the  subsidiaries and affiliates;
-  * e)
-
-to contact visitors of the Website when necessary; 
-  * f)
-
-to help You address your problems with the Website; 
-  * g)
-
-for proper administering of the Website; 
-  * h)
-
-to conduct internal reviews of the Website (e.g., to determine the number of visitors to specific pages within the Website); 
-  * i)
-
-to protect the integrity of the Website. 
+  * to facilitate your use of the Website and for better understanding of needs of the   subscribers; 
+  * to process and fulfill your orders for certain services; 
+  * to respond to your inquiries or requests for information about the services; 
+  * to send You information, promotional materials, and offers from Pressmart as well as from the  subsidiaries and affiliates; 
+  * to contact visitors of the Website when necessary; 
+  * to help You address your problems with the Website; 
+  * for proper administering of the Website; 
+  * to conduct internal reviews of the Website (e.g., to determine the number of visitors to specific pages within the Website); 
+  * to protect the integrity of the Website. 
 
 
 
@@ -73,44 +45,22 @@ Non-personal information will be used for these purposes as well to monitor the 
 
 We do not rent, sell or share personal information about You with other people or non-affiliated companies except to provide the services You have requested. When We have your permission, or under the following circumstances, We may transfer or otherwise disclose information collected from You to the following entities for the following purposes: 
 
-  * a)
-
-to the employees, independent contractors, subsidiaries, affiliates, consultants, business associates, service providers and suppliers of Pressmart, if the disclosure will enable that entity to provide Pressmart with business, professional, or technical support
-  * b)
-
-to the employees, independent contractors, service providers and suppliers of Pressmart to fulfill your service request; 
-  * c)
-
-to the trusted partners who work on behalf of or with Pressmart under confidentiality agreements. These companies may use your personal information to help Pressmart communicate with You about offers from Pressmart and the marketing partners. However, these companies do not have any independent right to share this information;
-  * d)
-
-the advertisers which is inclusive of, but is not limited to, the financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies) of Pressmart; 
-  * e)
-
-when We determine that there has been a violation of  the terms of use provided by Pressmart; and also to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law; 
-  * f)
-
-to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, as otherwise required by law.
-  * g)
-
-We transfer information about You to such other company when Presssmart is acquired by or merged with another company. In this event, We will notify You before any information about You is transferred and becomes subject to a different privacy policy. 
+  * to the employees, independent contractors, subsidiaries, affiliates, consultants, business associates, service providers and suppliers of Pressmart, if the disclosure will enable that entity to provide Pressmart with business, professional, or technical support
+  * to the employees, independent contractors, service providers and suppliers of Pressmart to fulfill your service request; 
+  * to the trusted partners who work on behalf of or with Pressmart under confidentiality agreements. These companies may use your personal information to help Pressmart communicate with You about offers from Pressmart and the marketing partners. However, these companies do not have any independent right to share this information;
+  * the advertisers which is inclusive of, but is not limited to, the financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies) of Pressmart; 
+  * when We determine that there has been a violation of  the terms of use provided by Pressmart; and also to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law; 
+  * to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, as otherwise required by law. 
+  * We transfer information about You to such other company when Presssmart is acquired by or merged with another company. In this event, We will notify You before any information about You is transferred and becomes subject to a different privacy policy. 
 
 
 
 **Confidentiality and Security**
 
-  * a)
-
-We limit access of personal information about You only to employees who We believe reasonably need to provide services to You or in order to do their jobs.
-  * b)
-
-We have physical, electronic and procedural safeguards that comply with legal regulations to protect personal information about You.
-  * c)
-
-To prevent unauthorized access, maintain data accuracy and ensure correct usage of information, We have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information We collect online. 
-  * d)
-
-We have established sufficient safeguards to prevent unauthorized access to or misuse of your  information, but cannot guarantee that your personally identifiable information will never be disclosed in a manner inconsistent with this Privacy Policy (for example, as a result of unauthorized acts by third parties that violate applicable law or the policies of the service and its affiliated providers).
+  * We limit access of personal information about You only to employees who We believe reasonably need to provide services to You or in order to do their jobs.
+  * We have physical, electronic and procedural safeguards that comply with legal regulations to protect personal information about You.
+  * To prevent unauthorized access, maintain data accuracy and ensure correct usage of information, We have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information We collect online. 
+  * We have established sufficient safeguards to prevent unauthorized access to or misuse of your  information, but cannot guarantee that your personally identifiable information will never be disclosed in a manner inconsistent with this Privacy Policy (for example, as a result of unauthorized acts by third parties that violate applicable law or the policies of the service and its affiliated providers).
 
 
 
