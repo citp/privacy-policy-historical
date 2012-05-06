@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siu.edu privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124014846id_/http%3A//www.siu.edu/privacy-policy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siu.edu privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506151551id_/http%3A//www.siu.edu/privacy-policy/index.php) for the most accurate reproduction.*
 
 # Southern Illinois University | SIU Campus Web Privacy Policy
 
