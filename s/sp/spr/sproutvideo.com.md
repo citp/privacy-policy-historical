@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sproutvideo.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231215701id_/http%3A//sproutvideo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sproutvideo.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506043410id_/http%3A//sproutvideo.com/privacy) for the most accurate reproduction.*
 
 # SproutVideo - Video Hosting and Streaming for Businesses
 
