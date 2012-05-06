@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 1iota.com privacy policy that was archived on 2011-11-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111106124808id_/http%3A//www.1iota.com/company/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 1iota.com privacy policy that was archived on 2012-05-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120506045111id_/http%3A//www.1iota.com/company/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -59,6 +59,7 @@
     Cufon.replace(".text_xsmall");
     // ]]>
 </script>
+
 
 
 
@@ -178,7 +179,7 @@
         var event = $(element).closest('.event');
         var eventId = $(event).attr('id');
         var isShowNav = $(event).hasClass('showNav');
-        if ($.cookie('1iotafname') != null && $.cookie('1iotaSession') == '880d03bd-0b9d-4176-93af-6a2a8af7da6b') {
+        if ($.cookie('1iotafname') != null && $.cookie('1iotaSession') == '912bfbe2-330d-4fb9-9d1d-47c27086d471') {
             $.fn.eventSettings.loggedin = true;
         }
         else {
@@ -233,13 +234,32 @@
             font-size: 7pt; color: #E11947; padding-right: 22px;"></span></li>
     <li></li>
     <li class="logoutli">
-        
-        
-        <a href="/member/logout" class="logout">Logout <span id="aUser"></span>
+        <a href="/member/logout" onclick="return Logout();" class="logout">Logout <span id="aUser"></span>
         </a>
     </li>
 </ul>
 <script type="text/javascript">
+
+    function Logout() {
+        try {
+            FB.getLoginStatus(function (response) {
+                if (response.authResponse) {
+                    if (response.status === 'connected') {
+                        var accessToken = response.authResponse.accessToken;
+                        if (accessToken != '') {
+                            FB.logout(function (response) {
+                                window.location = '/member/logout';
+                                return false;
+                            });
+                        }
+                    }
+                }
+            });
+        }
+        catch (err) { return true; }
+        return true;
+    }
+
     function GetMyTicketCount() {
         $.ajax({
             type: 'POST',
@@ -269,7 +289,7 @@
         });
     }
     checkLogin = function () {
-        if ($.cookie('1iotafname') != null && $.cookie('1iotaSession') == '880d03bd-0b9d-4176-93af-6a2a8af7da6b') {
+        if ($.cookie('1iotafname') != null && $.cookie('1iotaSession') == '912bfbe2-330d-4fb9-9d1d-47c27086d471') {
             $('#loggedIn').show();
             $('#aUser').text($.cookie('1iotafname'));
             $('#NavLoginForm').hide();
@@ -365,6 +385,18 @@
     
 </script>
 
+<div style="float:right; margin-top: 4px; margin-right: 6px;">
+    <a href="http://www.twitter.com/1iota" target="_blank">
+        <img src="/Content/images/social_twitter_box_white.png" alt="1iota on Twitter">        
+    </a>
+</div>    
+
+<div style="float:right; margin-top: 4px; padding-right: 2px;">
+    <a href="http://www.facebook.com/1iota" target="_blank">
+        <img src="/Content/images/social_facebook_box_white.png" alt="1iota on Facebook">     
+    </a>   
+</div>
+
 <div id="SearchBasicform" style="float: right;">
     <ul class="user-nav">
         <li class="form-input">
@@ -374,7 +406,7 @@
                 <img src="/Content/images/search.gif" border="0" alt="Submit Search">
             </a>
         </li>
-    </ul>
+    </ul>    
 </div>
 
 	<ul class="global-nav">
@@ -423,7 +455,9 @@
 <div id="Header">
     <div class="content-area">
         <h1>
-            <a href="/" title="Free Tickets And Shows" id="main_logo">1iota: Free Tickets for Fans </a>
+            
+            <a href="/" title="Free Tickets And Shows" id="main_logo" class="main">1iota: Free Tickets for Fans </a>
+            
         </h1>
         
         <ul class="main-nav">
@@ -436,15 +470,15 @@
     <div class="dropdown-container visible-columns-3">
         
             <div class="column"><h4>Featured Shows</h4><ul>
-        <li><a href="/member/media/Show/Index?showIdentifier=212&amp;performance=46671">Talking Dead - Live Show</a></li><li class="event showNav" id="46672"><a class="cta" href="#" title="Talking Dead - Live Show">Talking Dead - Live Show</a></li><li class="event showNav" id="46673"><a class="cta" href="#" title="Talking Dead - Live Show">Talking Dead - Live Show</a></li><li class="event showNav" id="46674"><a class="cta" href="#" title="Talking Dead - Live Show">Talking Dead - Live Show</a></li><li class="event showNav" id="46647"><a class="cta" href="#" title="The Sing-Off Live Finale">The Sing-Off Live Finale</a></li>
+        <li class="event showNav" id="47031"><a class="cta" href="#" title="MTV - Americas Best Dance Crew">MTV - Americas Best Dance Crew</a></li><li class="event showNav" id="47032"><a class="cta" href="#" title="MTV - Americas Best Dance Crew">MTV - Americas Best Dance Crew</a></li><li class="event showNav" id="47012"><a class="cta" href="#" title="The Voice - Live Finale">The Voice - Live Finale</a></li><li><a href="/member/media/Show/Index?showIdentifier=178&amp;performance=47017">The Voice - Live Finale Results</a></li>
             </ul></div>
                 
             <div class="column"><h4>TV Shows</h4><ul>
-        <li><a href="/member/media/Show/Index?showIdentifier=212">AMC - Talking Dead</a></li><li><a href="/member/media/Show/Index?showIdentifier=217">Disneyland Christmas Parade</a></li><li><a href="/member/media/Show/Index?showIdentifier=1">Jimmy Kimmel Live</a></li><li><a href="/member/media/Show/Index?showIdentifier=204">Laugh Your Way to the Bank - Castin...</a></li><li><a href="/member/media/Show/Index?showIdentifier=209">MTV - O Music Awards - Los Angeles</a></li><li><a href="/member/media/Show/Index?showIdentifier=215">MTV Halloween Performance featuring...</a></li><li><a href="/member/media/Show/Index?showIdentifier=143">NBC - The Sing-Off</a></li><li><a href="/member/media/Show/Index?showIdentifier=178">NBC - The Voice</a></li><li><a href="/member/media/Show/Index?showIdentifier=157">The Late Late Show with Craig Fergu...</a></li><li><a href="/member/media/Show/Index?showIdentifier=210">The Revolution</a></li>
+        <li><a href="/member/media/Show/Index?showIdentifier=1">Jimmy Kimmel Live</a></li><li><a href="/member/media/Show/Index?showIdentifier=102">MTV - Americas Best Dance Crew</a></li><li><a href="/member/media/Show/Index?showIdentifier=178">NBC - The Voice</a></li><li><a href="/member/media/Show/Index?showIdentifier=157">The Late Late Show with Craig Fergu...</a></li>
             </ul></div>
                 
             <div class="column"><h4>Live Music</h4><ul>
-        <li><a href="/member/media/Show/Index?showIdentifier=1&amp;performance=46707">Jimmy Kimmel Live CHRISTINA PERRI I...</a></li><li class="event showNav" id="46714" projectid="1"><a class="cta" href="#" title="Jimmy Kimmel Live FEIST outdoor mini-concert">Jimmy Kimmel Live FEIST outdoor mini-concert</a></li><li><a href="/member/media/Show/Index?showIdentifier=1&amp;performance=46710">Jimmy Kimmel Live LADY ANTABELLUM o...</a></li><li class="event showNav" id="46709" projectid="1"><a class="cta" href="#" title="Jimmy Kimmel Live MIRANDA LAMBERT outdoor mini-concert">Jimmy Kimmel Live MIRANDA LAMBERT outdoor mini-concert</a></li><li><a href="/member/media/Show/Index?showIdentifier=1&amp;performance=46712">Jimmy Kimmel Live MORRISSEY outdoor...</a></li><li class="event showNav" id="46711" projectid="1"><a class="cta" href="#" title="Jimmy Kimmel Live NICKELBACK outdoor mini-concert">Jimmy Kimmel Live NICKELBACK outdoor mini-concert</a></li><li><a href="/member/media/Show/Index?showIdentifier=1&amp;performance=46706">Jimmy Kimmel Live THE BELLE BRIGADE...</a></li><li class="event showNav" id="46708" projectid="1"><a class="cta" href="#" title="Jimmy Kimmel Live VINCE GILL Indoor Mini-Concert">Jimmy Kimmel Live VINCE GILL Indoor Mini-Concert</a></li><li><a href="/member/media/Show/Index?showIdentifier=1&amp;performance=46685">Jimmy Kimmel Live WALE outdoor mini...</a></li>
+        <li><a href="/member/media/Show/Index?showIdentifier=1&amp;performance=47117">Jimmy Kimmel Live B.O.B. outdoor mi...</a></li><li class="event showNav" id="47115" projectid="1"><a class="cta" href="#" title="Jimmy Kimmel Live CARRIE UNDERWOOD outdoor mini-concert">Jimmy Kimmel Live CARRIE UNDERWOOD outdoor mini-concert</a></li><li><a href="/member/media/Show/Index?showIdentifier=1&amp;performance=47139">Jimmy Kimmel Live DELTA SPIRIT Indo...</a></li><li class="event showNav" id="47118" projectid="1"><a class="cta" href="#" title="Jimmy Kimmel Live GAVIN DEGRAW outdoor mini-concert">Jimmy Kimmel Live GAVIN DEGRAW outdoor mini-concert</a></li><li><a href="/member/media/Show/Index?showIdentifier=1&amp;performance=47141">Jimmy Kimmel Live GRAFITTI6 Indoor ...</a></li><li class="event showNav" id="47114" projectid="1"><a class="cta" href="#" title="Jimmy Kimmel Live KIMBRA outdoor mini-concert">Jimmy Kimmel Live KIMBRA outdoor mini-concert</a></li><li><a href="/member/media/Show/Index?showIdentifier=1&amp;performance=47140">Jimmy Kimmel Live LISA MARIE PRESLE...</a></li><li class="event showNav" id="47138" projectid="1"><a class="cta" href="#" title="Jimmy Kimmel Live RITA WILSON Indoor Mini-Concert">Jimmy Kimmel Live RITA WILSON Indoor Mini-Concert</a></li><li><a href="/member/media/Show/Index?showIdentifier=1&amp;performance=47116">Jimmy Kimmel Live SILVERSUN PICKUPS...</a></li><li class="event showNav" id="47113" projectid="1"><a class="cta" href="#" title="Jimmy Kimmel Live THE CULT outdoor mini-concert">Jimmy Kimmel Live THE CULT outdoor mini-concert</a></li><li><a href="/member/media/Show/Index?showIdentifier=1&amp;performance=47136">Jimmy Kimmel Live USHER outdoor min...</a></li>
             </ul></div>
         
     </div>
