@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elpasotexas.gov privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102004722id_/http%3A//www.elpasotexas.gov/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elpasotexas.gov privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506201406id_/http%3A//www.elpasotexas.gov/privacy.asp) for the most accurate reproduction.*
 
 # www.elpasotexas.gov - City of El Paso
 
