@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the shopping-cart-migration.com privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231214052id_/http%3A//www.shopping-cart-migration.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shopping-cart-migration.com privacy policy that was archived on 2012-05-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120506172910id_/http%3A//www.shopping-cart-migration.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
   <title>Privacy Policy</title>
@@ -12,14 +12,54 @@
   <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
   <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" media="screen">
   <link rel="stylesheet" href="/templates/system/css/general.css" type="text/css" media="screen">
+  <link rel="stylesheet" href="/templates/jclean/js/fancybox/jquery.fancybox-1.3.4.css" type="text/css" media="screen">
   <link rel="stylesheet" href="/templates/jclean/css/style.css" type="text/css" media="screen">
   <link rel="stylesheet" href="http://www.shopping-cart-migration.com/modules/mod_superfishmenu/tmpl/css/superfish.css" type="text/css">
   <link rel="stylesheet" href="http://www.shopping-cart-migration.com/modules/mod_superfishmenu/tmpl/css/superfish-navbar.css" type="text/css">
+  <link rel="stylesheet" href="/.sf-menu, .sf-menu * {" type="text/css" media="all">
+  <link rel="stylesheet" href="/    padding" type="text/css" media=" 0 1px !important;">
+  <link rel="stylesheet" href="/}" type="text/css" media="all">
   <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 
 <meta name="netinsert" content="0.0.1.3.1.6.1">
 <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
 <link href="http://feeds.feedburner.com/Cart2CartLatestNews" type="application/rss+xml" rel="alternate">
+
+<script type="text/javascript">
+
+function setCookie (name, value, expires, path, domain, secure) {
+      document.cookie = name + "=" + escape(value) +
+        ((expires) ? "; expires=" + expires : "") +
+        ((path) ? "; path=" + path : "") +
+        ((domain) ? "; domain=" + domain : "") +
+        ((secure) ? "; secure" : "");
+}
+
+function getCookie(name) {
+	var cookie = " " + document.cookie;
+	var search = " " + name + "=";
+	var setStr = null;
+	var offset = 0;
+	var end = 0;
+	if (cookie.length > 0) {
+		offset = cookie.indexOf(search);
+		if (offset != -1) {
+			offset += search.length;
+			end = cookie.indexOf(";", offset)
+			if (end == -1) {
+				end = cookie.length;
+			}
+			setStr = unescape(cookie.substring(offset, end));
+		}
+	}
+	return(setStr);
+}
+
+if( getCookie('_C2C_REFERER') == null ){
+   setCookie('_C2C_REFERER', window.document.referrer, 'Mon, 20-Jan-2022 10:10:10 GMT', '/', '.shopping-cart-migration.com');
+}
+
+</script>
 
 <script type="text/javascript">
 
@@ -74,6 +114,50 @@ var gmtHours = -d.getTimezoneOffset()/60;
 <script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript" defer="defer"></script>
 <noscript><div><img src="//mc.yandex.ru/watch/7233358" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
+<!-- Fancybox -->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+<script type="text/javascript" src="/templates/jclean/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+
+<script type="text/javascript">
+$(document).ready(function() {
+	
+	$(".video_tube").click(function() {
+	$.fancybox({
+			'padding'				: 0,
+            'autoDimensions'        : false,
+            'width'                 : 720,
+            'height'                : 450, 
+			'transitionIn'	        : 'none',
+			'transitionOut'	        : 'none',
+			'title'					: this.title,
+			'href'					: this.href.replace(new RegExp("watch\\?v=", "i"), 'v/'),
+			'allowfullscreen'		: true,
+            'hideOnContentClick'    : false,
+            'type'                  : 'swf',
+            'swf'					: {
+			'allowfullscreen'		: 'true',
+            'wmode'                 : 'opaque',
+			}
+
+		});
+		return false;
+	});
+	
+	$("a[rel=gallery_fancy]").fancybox({
+		'transitionIn'		: 'none',
+		'autoScale'         : false,
+		'allowfullscreen'	: true,
+		'transitionOut'		: 'none',
+		'titlePosition' 	: 'over',
+		'titleFormat'       : function(title, currentArray, currentIndex, currentOpts) {
+		    return '<span id="fancybox-title-over">Image ' +  (currentIndex + 1) + ' / ' + currentArray.length + ' ' + title + '</span>';
+	}
+	
+	});
+	
+});
+</script>
+<!-- End Fancybox -->
 </head>
 <body>
 <!--Privacy Policy || Cart2Cart Privacy Policy || cart2cart privacy, cart2cart policy-->
@@ -98,7 +182,7 @@ var gmtHours = -d.getTimezoneOffset()/60;
     <!-- header start -->
     <table width="100%" cellspacing="0" cellpadding="0" border="0" style="height:133px;">
     <tbody><tr>
-        <td width="400" rowspan="2" valign="bottom"><a href="/" title="Back to Home Page"><img src="/templates/jclean/images/logo.gif" width="77" height="82" alt="Privacy Policy" border="0"><img src="/templates/jclean/images/logo_text.gif" width="220" height="82" alt="cart2cart privacy, cart2cart policy" border="0"></a></td>
+        <td width="363" rowspan="2" valign="bottom"><a href="/" title="Back to Home Page"><img src="/templates/jclean/images/logo.gif" width="77" height="82" alt="Privacy Policy" border="0"><img src="/templates/jclean/images/logo_text.gif" width="220" height="82" alt="cart2cart privacy, cart2cart policy" border="0"></a></td>
         <td height="66" valign="top">
         <div id="loginForm"></div>
               </td>
@@ -106,12 +190,12 @@ var gmtHours = -d.getTimezoneOffset()/60;
     <tr>
 
       <td>
-	  		<div class="goog_search" style="line-height: 100%;float:left;margin-right: 0px;padding-top:10px; width: 252px; overflow: hidden; ">
+	  		<div class="goog_search" style="line-height: 100%;float:left;margin-right: 0px;padding-top:10px; width: 250px; overflow: hidden; ">
 			<form action="http://www.google.com/cse" id="cse-search-box">
 				<div>
 				<input type="hidden" name="cx" value="008541276288642829268:rev0jd1_b4e">
 				<input type="hidden" name="ie" value="UTF-8">
-				<input class="goog_search_input" type="text" name="q" size="25">
+				<input class="goog_search_input" type="text" name="q" size="20">
 				<!--input type="submit" name="sa" value="Search" /-->
 				<input type="image" align="top" src="/templates/jclean/images/button_login_top.gif">
 				</div>
@@ -119,7 +203,8 @@ var gmtHours = -d.getTimezoneOffset()/60;
 			<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
 			<small style="font-size: 10px;">cart2cart privacy, cart2cart policy</small>
 		</div>
-		<div style="float: left; margin: 7px 15px 0;">		<span style="font-size: 18px; font-weight: bold; color: #169b36; padding: 9px 0 0; ">1-858-201-6401 </span> <br><span style="font-size: 9px; display: block;"><b>Mon. – Fri.: </b> <script type="text/javascript"> supporttime();</script>6:00 am - 7:00 pm
+		
+		<div style="float: left; margin: 7px 5px 0pt 62px;position:relative;"><div class="toll_free">US&amp;Canada<br>Toll Free</div><span style="font-size: 18px; font-weight: bold; color: #169b36; padding: 9px 0 0; ">1-800-224-1462 </span> <br><span style="font-size: 9px; display: block;"><b>Mon. – Fri.: </b> <script type="text/javascript"> supporttime();</script>6:00 am - 7:00 pm
 <noscript>9:00 - 17:00 (GMT +2)</noscript>	<!-- 05:00 - 13:00 (EDT) <br>11:00 - 19:00 (GMT+2) --> <br>(For sales and general questions only)</span>		</div>
 
 
@@ -142,10 +227,10 @@ var gmtHours = -d.getTimezoneOffset()/60;
     <div class="moduletabletestimonialku3">
 			<div class="small_blue">
 										<img src="/components/com_testimonialku/left_blue.gif" border="0" alt="Cart2Cart" width="20" height="14">&nbsp;
-										quite fast and effective service,with no erro.i recommend for some one need to migrate from zen cart to open cart.Thank you for all the help from shopping cart migration ...&nbsp;
+										This service made things so easy to go from my Magento store that was just a mess to X-cart that works like a gem.  I am still in the process of getting everything set up but I wanted to see if things would work and ...&nbsp;
 										<img src="/components/com_testimonialku/right_blue.gif" border="0" alt="Cart2Cart" width="20" height="14">
-									<div class="testimonial_author">david </div>
-									<div class="testimonial_website">http://www.dragonmart.com</div>				
+									<div class="testimonial_author">Rhonda Morin </div>
+									<div class="testimonial_website">http://DecortoMyDoor.com</div>				
 						
 							</div>		</div>
 	
@@ -172,7 +257,7 @@ var gmtHours = -d.getTimezoneOffset()/60;
 
 
 
-<p class="success_message">This privacy policy applies to Cart2Cart service developed by MagneticOne. </p><p>MagneticOne is committed to ensuring that your privacy  is protected. We recognize the importance of protecting all the information  provided by Cart2Cart service users, newsletter subscribers and all MagneticOne  customers. All our customers and users are encouraged to read this privacy  policy prior to submitting any personal information or using the website in any  other manner. 
+<p class="success_message">This privacy policy applies to <a href="http://www.shopping-cart-migration.com/shopping-cart-migration-scenarios" title="Cart2Cart service">Cart2Cart service</a> developed by MagneticOne. </p><p>MagneticOne is committed to ensuring that your privacy  is protected. We recognize the importance of protecting all the information  provided by Cart2Cart service users, newsletter subscribers and all MagneticOne  customers. All our customers and users are encouraged to read this privacy  policy prior to submitting any personal information or using the website in any  other manner. 
 </p><h2>
   Information  Collection and Usage</h2>
 <p>
@@ -238,27 +323,25 @@ var gmtHours = -d.getTimezoneOffset()/60;
 								<div class="testimonial">
 									<div class="testimonial_text">
 										<img src="/images/stories/left.gif" border="0" alt="Cart2Cart" width="20" height="14">&nbsp;
-										Magic! Migarted over 4000 products a-over 13000 images..took some days and we were holding thumbs. And then it happened.! Manufactureres in place
-
-original web links in place on product pages + best of all ...&nbsp;
+										I have to tell you that your service is great. My migration went very smoothly.
+Thank you
 										<img src="/images/stories/right.gif" border="0" alt="Cart2Cart" width="20" height="14">
 									</div>
-									<div class="date">Date Written: 25 November 2011</div>
-									<div class="testimonial_author">Mike Irwin</div>
-									<div class="testimonial_website">skysun.co.za</div>				
+									<div class="date">Date Written: 17 March 2011</div>
+									<div class="testimonial_author">Faiben </div>
+									<div class="testimonial_website">http://argane.be/shop</div>				
 								</div>
 							
 							
 								<div class="testimonial">
 									<div class="testimonial_text">
 										<img src="/images/stories/left.gif" border="0" alt="Cart2Cart" width="20" height="14">&nbsp;
-										Thanks, really quick and safe procedure, and it's working fine!
-Thanks ...&nbsp;
+										Seriously, this service saved me 100s of hours of work.  I had over 1200 skus and they moved it over in a day.  All the images, all the descriptions, categories... everything in tact.  If you are on the fence about ...&nbsp;
 										<img src="/images/stories/right.gif" border="0" alt="Cart2Cart" width="20" height="14">
 									</div>
-									<div class="date">Date Written: 09 October 2010</div>
-									<div class="testimonial_author">Herubel Sylvain </div>
-									<div class="testimonial_website">http://www.orthopedie-herubel.fr</div>				
+									<div class="date">Date Written: 05 September 2011</div>
+									<div class="testimonial_author">David Sammons </div>
+									<div class="testimonial_website">http://hammerofthorgames.com</div>				
 								</div>
 							
 							<p align="right"><a href="http://www.shopping-cart-migration.com/customer-testimonials" title="Click to read more customer testimonials"><b>Read more...</b></a></p></div>		</div>
@@ -277,7 +360,7 @@ Thanks ...&nbsp;
         </div>
       		
     <div class="moduletable">
-			<ul class="menu"><li class="item97"><a href="/quick-demo-tour"><span>Quick Demo Tour</span></a></li><li class="item54"><a href="/terms-of-service"><span>Terms of Service</span></a></li><li class="item86"><a href="/service-level-agreement"><span>Service Level Agreement</span></a></li><li class="item72"><a href="/privacy-policy"><span>Privacy Policy</span></a></li><li class="item80"><a href="/sitemap"><span>Sitemap</span></a></li><li class="item106"><a href="/useful-articles"><span>Useful Articles</span></a></li><li class="item100"><a href="/release-notes"><span>Release Notes</span></a></li><li class="item89"><a href="/component/artforms/?formid=1"><span>Contact Us</span></a></li></ul>		</div>
+			<ul class="menu"><li class="item97"><a href="/quick-demo-tour"><span>Quick Demo Tour</span></a></li><li class="item109"><a href="/provided-services"><span>Provided Services</span></a></li><li class="item54"><a href="/terms-of-service"><span>Terms of Service</span></a></li><li class="item86"><a href="/service-level-agreement"><span>Service Level Agreement</span></a></li><li class="item72"><a href="/privacy-policy"><span>Privacy Policy</span></a></li><li class="item80"><a href="/sitemap"><span>Sitemap</span></a></li><li class="item106"><a href="/useful-articles"><span>Useful Articles</span></a></li><li class="item100"><a href="/release-notes"><span>Release Notes</span></a></li><li class="item89"><a href="/component/artforms/?formid=1"><span>Contact Us</span></a></li></ul>		</div>
 	
 	</div>
 	<div class="footer_column">
@@ -309,7 +392,7 @@ Thanks ...&nbsp;
 	</div>
 
 	<div class="footer_info">
-		<div class="copyright"><a href="http://magneticone.com/" target="_blank" title="MagneticOne">MagneticOne</a> © 2008-2011   <br></div>
+		<div class="copyright"><a href="http://magneticone.com/" target="_blank" title="MagneticOne">MagneticOne</a> © 2008-2012  <br></div>
 	Privacy Policy <br> Cart2Cart Privacy Policy</div>
 	</div>
 	  
@@ -347,7 +430,7 @@ Thanks ...&nbsp;
 	} catch(err) {}
 	</script>
 </div>
-<a href="http://www.shopping-cart-migration.com/release-notes"><div title="Current service version and latest revision date" style="position: absolute; right:10px;top:0;text-align:right;width:275px;font: normal 10px arial; color: white;">Service Version: 3.37.6265 (Dec 29, 2011)</div></a>	<!--RESOLUTION CHECK AND BAGE -->
+<a href="http://www.shopping-cart-migration.com/release-notes" title="Current service version and latest revision date" class="release_notes">Service Version: 3.40.7010 (May 04, 2012)</a>	<!--RESOLUTION CHECK AND BAGE -->
 		<script type="text/javascript">
 	var winW = 630;
 if (document.body && document.body.offsetWidth) {
@@ -362,9 +445,9 @@ if (window.innerWidth && window.innerHeight) {
  winW = window.innerWidth;
 }
 if (winW > 1280) {
-document.write("<div style='position: absolute; right:0px;top:30px;text-align:right;width:188px;height:125px;'><a title='Start Now! FREE migration of 10 products/customers available' href='https://app.shopping-cart-migration.com/#register'><img alt='Free Migration Preview Available!' src='/templates/jclean/images/migration_preview_badge.png'></a></div>");
+document.write("<div class='start_now'><a title='Start Now! FREE migration of 10 products/customers available' href='https://app.shopping-cart-migration.com/#register'><img alt='Free Migration Preview Available!' src='/templates/jclean/images/migration_preview_badge.png' /></a></div>");
 }
-	</script><div style="position: absolute; right:0px;top:30px;text-align:right;width:188px;height:125px;"><a title="Start Now! FREE migration of 10 products/customers available" href="https://app.shopping-cart-migration.com/#register"><img alt="Free Migration Preview Available!" src="/templates/jclean/images/migration_preview_badge.png"></a></div>
+	</script><div class="start_now"><a title="Start Now! FREE migration of 10 products/customers available" href="https://app.shopping-cart-migration.com/#register"><img alt="Free Migration Preview Available!" src="/templates/jclean/images/migration_preview_badge.png"></a></div>
 	
 <!--Privacy Policy || Cart2Cart Privacy Policy || cart2cart privacy, cart2cart policy-->
 <script type="text/javascript">
