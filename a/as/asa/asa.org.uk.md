@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asa.org.uk privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101225007id_/http%3A//www.asa.org.uk/General/Privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asa.org.uk privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506022422id_/http%3A//www.asa.org.uk/General/Privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy policy - Advertising Standards Authority
 
@@ -8,7 +8,7 @@
 
 ### About ASA
 
-This is the Privacy Policy of Advertising Standards Authority (ASA), Mid City Place, 71 High Holborn, London WC1V 6QT.
+This is the Privacy Policy of the Advertising Standards Authority Limited (ASA), Mid City Place, 71 High Holborn, London WC1V 6QT.
 
 The ASA takes its responsibilities on the confidentiality of your personal information very seriously. To comply with the Data Protection Act, processing by the Advertising Standards Authority (ASA), the Advertising Standards Authority (Broadcast) Ltd (ASA(B)), the Committee of Advertising Practice (CAP) and the Broadcast Committee of Advertising Practice (BCAP) Ltd is covered by notifications with the Information Commissioner’s Office.
 
@@ -53,7 +53,7 @@ A cookie is a text-only string that is entered into the cookie file or "memory" 
 Permanent cookies (with an expiry time of 1 hr): This means that,
 
   * If you login and check the remember me, browse through the website and then close the browser, you will not be required to log in as long as you are within that hour time frame. If you come back to the website after 3 hrs, you will be required to log in since the cookie has gone past its expiry time. 
-  * If you login and check the remember me, browse through the website and then hit the sign out button, your cookie will be automatically removed since you’ve explicitly signed out. You will still be required to log in next time you visit the site.
+  * If you login and check the remember me, browse through the website and then hit the sign out button, your cookie will be automatically removed since you’ve explicitly signed out. You will still be required to log in next time you visit the site. 
 
 
 
@@ -71,4 +71,12 @@ Copyright in all information, text and images featured on our site is owned by o
 
 ### Changes to this policy
 
-If we decide to change our Privacy Policy, we shall post changes on this page so that you are always aware of how ASAuses your personal information.
+If we decide to change our Privacy Policy, we shall post changes on this page so that you are always aware of how ASA uses your personal information.
+
+* * *
+
+The Advertising Standards Authority Ltd  
+Mid City Place  
+71 High Holborn  
+London  
+WC1V 6QT 
