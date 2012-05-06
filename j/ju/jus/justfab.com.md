@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the justfab.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102134527id_/http%3A//www.justfab.com/index.cfm%3Faction%3Dhome.privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justfab.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506113406id_/http%3A//www.justfab.com/index.cfm%3Faction%3Dhome.privacy_policy) for the most accurate reproduction.*
 
-# JustFabulous
+# Privacy Policy | JustFabulous
 
 This privacy policy addresses the use of information we collect from you. By visiting JustFab.com (this "Site"), or providing your information to us, you agree to accept the practices described in this privacy policy.
 
