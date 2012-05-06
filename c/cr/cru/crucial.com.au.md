@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crucial.com.au privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009002205id_/http%3A//www.crucial.com.au/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crucial.com.au privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506170402id_/http%3A//www.crucial.com.au/privacy-policy.php) for the most accurate reproduction.*
 
 # Crucial Paradigm Web Solutions
 
@@ -121,16 +121,16 @@ Not sure which plan is right for you or after a solution that suits your needs. 
 
   * Crucial Paradigm Pty Ltd
   * (by appointment only)
-  * Suite 4, Level 3
-  * 2-12 Foveaux St
-  * Surry Hills, NSW 2010
-  *  
+  * Suite 1, Level 3
+  * 104 Commonwealth Street
+  * Surry Hills NSW 2010
+  * Australia
   * Phone Number: 1300 884 839
   * Email: [sales@crucial.com.au](mailto:sales@crucial.com.au)
 
 
 
-###  Featured **Clients**
+###  Client **Testimonials**
 
 [](http://mypubs.com.au/)
 
@@ -150,20 +150,26 @@ Nathan Reeves
 
 www.mypubs.com.au
 
-[(more...)](https://web.archive.org/web/20111009002205id_/http%3A//www.crucial.com.au/blog/category/featuredclients/)
+[(more...)](https://web.archive.org/crucial-paradigm-testimonials.php)
 
 ###  Crucial **Updates**
 
-Crucial and World IPv6 Day 6th June 2011
+Saving Money Expert 2nd April 2012
 
-World IPv6 day is a “test flight” for IPv6 across the internet, with large networks such as Google, Facebook, Yahoo!, Akamai, and many others taking part to test IPv6 connectivity across a period of 24 hours.  This is to help raise awareness and push network operators, OS vendors, software vendors, content providers, and other organisations which provide software or hardware that rely on the IP protocol to start supporting IPv6. [(more…)](http://www.crucial.com.au/blog/2011/06/06/crucial-and-world-ipv6-day/#more-962)
+[](http://www.crucial.com.au/blog/wp-content/uploads/2012/04/logo_curved.png)
 
-[More News](https://web.archive.org/web/20111009002205id_/http%3A//www.crucial.com.au/blog/category/crucialupdates/)
+Crucial has been running Saving Money Expert since its inception in 2010 and i couldn’t be happier with the fast, reliable service. I would recommend them to anyone!
 
-5 ways to deliver better value to your Customers 18th May 2011
+Ryan O’Connor, Founder.
 
-_Very often you can get caught up in long complicated marketing or sales strategies but you should never forget the 101′s. Value is still one of the best ways to not only attract customers but it’s also a great way of building long term relationships. Here are a couple quick tips on what you can do to help deliver better value to   your customers. _
+[Saving Money Expert](http://savingmoneyexpert.com.au/ "Save Money ")
 
-_[(more…)](http://www.crucial.com.au/blog/2011/05/18/delivervaluetoyourcustomers/#more-896)_
+[More News](https://web.archive.org/web/20120506170402id_/http%3A//www.crucial.com.au/blog/category/crucialupdates/)
 
-[View Blog](https://web.archive.org/web/20111009002205id_/http%3A//www.crucial.com.au/blog/)
+End of Year Update (2011) and Upcoming Improvements (2012) 30th December 2011
+
+It’s been another great year thanks to the support of all our customers, and the great work by the Crucial team. We really have taken some leaps and bounds over the past 12 months with significant improvements to our support and service offerings.
+
+We are very excited about the upcoming year, and providing a new round of great improvements to you! [(more…)](http://www.crucial.com.au/blog/2011/12/30/end-of-year-update-2011-and-upcoming-improvements-2012/#more-1035)
+
+[View Blog](https://web.archive.org/web/20120506170402id_/http%3A//www.crucial.com.au/blog/)
