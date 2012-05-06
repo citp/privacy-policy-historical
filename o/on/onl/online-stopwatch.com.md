@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online-stopwatch.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204164931id_/http%3A//www.online-stopwatch.com/online-stopwatch/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-stopwatch.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506051939id_/http%3A//www.online-stopwatch.com/online-stopwatch/terms.php) for the most accurate reproduction.*
 
 # Online Stopwatch
 
