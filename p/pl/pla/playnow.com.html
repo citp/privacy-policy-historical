@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the playnow.com privacy policy that was archived on 2011-10-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111020132715id_/https%3A//www.playnow.com/about-playnow/privacy.html%3FWT.ac%3DFT%7Caboutplaynow%7Cprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the playnow.com privacy policy that was archived on 2012-05-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120506093402id_/https%3A//www.playnow.com/about-playnow/privacy.html%3FWT.ac%3DFT%7Caboutplaynow%7Cprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 <script type="text/javascript">
@@ -12,7 +12,7 @@ if(top != self){top.location = location};
 <link type="text/css" href="/resources/css/template.css" rel="stylesheet">
 <link type="text/css" href="/resources/css/about.css" rel="stylesheet">
 </head>
-<body class="footerPage secondary" onload="page_load();setSidebar(&quot;account&quot;,&quot;privacy&quot;);">
+<body class="aboutUsPage secondary" onload="page_load();setSidebar(&quot;About&quot;,&quot;privacy&quot;);">
 <script type="text/javascript">
 //<![CDATA[
 
@@ -52,24 +52,23 @@ if(top != self){top.location = location};
 <div id="walletHeading">
 <div class="dashHeading"><b>ACCOUNT BALANCE</b></div>
 </div>
-<div id="cashBalance"><span class="dashHeading">Cash Balance:&nbsp;</span> <span class="dashInfo" id="dash_balance"></span></div>
-<div id="tokenBalance"><span class="dashHeading">Token Balance:&nbsp;</span> <span class="dashInfo" id="dash_token_balance"></span></div>
+<div id="cashBalance"><span class="dashHeading">Cash Balance:&nbsp;</span>  <span class="dashInfo" id="dash_balance"></span></div>
+<div id="tokenBalance"><span class="dashHeading">Token Balance:&nbsp;</span>  <span class="dashInfo" id="dash_token_balance"></span></div>
 </div>
 <div id="thisSession">
 <div id="sessionHeading">
 <div class="dashHeading"><b>THIS SESSION</b></div>
 </div>
 <div id="timeSpent"><span class="dashHeading">Time Spent:&nbsp;</span> <span class="dashInfo" id="dash_sess_time"></span></div>
-<div id="moneySpent"><span class="dashHeading">Cash Spent:&nbsp;</span> <span class="dashInfo" id="dash_sess_stakes"></span></div>
+<div id="moneySpent"><span class="dashHeading">Cash Spent:&nbsp;</span>  <span class="dashInfo" id="dash_sess_stakes"></span></div>
 </div>
 <div id="dashButtons">
-<div class="dashButton"><a href="/playnow?action=GoMyAcctHome">MY ACCOUNT</a></div>
-<div class="dashButton"><a href="/playnow?action=DoLogout">LOGOUT</a></div>
+<div class="buttonRound smBtn thinText redBtn"><a href="https://www.playnow.com/playnow?action=GoMyAcctHome">MY ACCOUNT</a></div>
+<div class="buttonRound smBtn thinText redBtn"><a href="/playnow?action=DoLogout">LOGOUT</a></div>
 </div>
 </div>
 <div id="dashboardRight"></div>
 </div>
-<hr>
 <div id="loginContainer" style="display: none">
 <div id="loginContent">
 <form id="loginFm">
@@ -91,34 +90,31 @@ if(top != self){top.location = location};
 
     function goLogin() {
         if (!location.href.match(/action=DoLogout/gi)) {
-            location.href = "/playnow?action=GoLogin&return_url=" + escape(location.href);
+            location.href = "https://www.playnow.com/playnow?action=GoLogin&return_url=" + escape(location.href);
         } else {
-            location.href = "/playnow?action=GoLogin";
+            location.href = "https://www.playnow.com/playnow?action=GoLogin";
         }
     }
 
 //]]>
 </script>
 <div id="mainHeader">
-<div id="headerContainer">
-<hr>
-<div id="headerContent"><a id="headerLogo" href="/"></a> 
+<div id="headerContent">
+<div id="headerLogo"><a href="/"></a></div>
 <div id="headerRegister" style="display: block;">
-<div class="dashButton"><a href="/playnow?action=GoRegister&amp;WT.ac=globalheader|registerbutton">REGISTER</a></div>
-<div class="dashButton"><a href="javascript:%20goLogin();">LOGIN</a></div>
+<div class="buttonRound smBtn thinText redBtn"><a href="https://www.playnow.com/playnow?action=GoRegister&amp;WT.ac=globalheader|registerbutton">REGISTER</a></div>
+<div class="buttonRound smBtn thinText redBtn"><a href="javascript:goLogin();">LOGIN</a></div>
 </div>
 </div>
 <hr>
 <div id="topNavMenu">
 <ul>
-<li><a class="mainMenuItem" id="topNavHome" href="/">Home</a></li>
-<li><a class="mainMenuItem" id="topNavLottery" href="/lottery/">Lottery</a></li>
-<li><a class="mainMenuItem" id="topNavCasino" href="/playnow?tab=Casino">Casino</a></li>
-<li><a class="mainMenuItem" id="topNavPoker" href="/poker/">Poker</a></li>
-<li><a class="mainMenuItem" id="topNavSports" href="/sports/">Sports</a></li>
-<li><a class="mainMenuItem" id="topNavBingo" href="/bingo/">Bingo</a></li>
+<li id="topNavPoker" class="mainMenuItem"><a href="/poker/"><span>Poker</span></a></li>
+<li id="topNavCasino" class="mainMenuItem"><a href="/playnow?tab=Casino"><span>Casino</span></a></li>
+<li id="topNavSports" class="mainMenuItem"><a href="/sports/"><span>Sports</span></a></li>
+<li id="topNavBingo" class="mainMenuItem"><a href="/bingo/"><span>Bingo</span></a></li>
+<li id="topNavLottery" class="mainMenuItem"><a href="/lottery/"><span>Lottery</span></a></li>
 </ul>
-</div>
 </div>
 </div>
 <div id="secNav">
@@ -130,40 +126,19 @@ if(top != self){top.location = location};
 <div id="contentContainer">
 <hr>
 <div id="leftNavContainer">
-<div id="leftNav">
-<div id="leftNavMenu">
-<div id="leftNavMenuHdr">
-<div class="leftNavMenuHdrCap"><img src="/resources/images/left-nav/leftNav-hdr-lft-end.gif" width="4" height="25" alt="left"></div>
-<div class="leftNavMenuHdrCentre leftNavTxtMenuHdr" style="background-image:url('/resources/images/left-nav/leftNav-hdr-filler.gif')">Help &amp; Information</div>
-<div class="leftNavMenuHdrCap"><img src="/resources/images/left-nav/leftNav-hdr-rt-end.gif"></div>
-<div class="clear"></div>
-</div>
-<div id="leftNavGameMenu">
-<div id="leftNavGameMenuCat_Account" class="leftNavGameMenuCat"><img id="leftNavGameMenuCatImg_Account" src="/resources/images/left-nav/leftNav-plus-icon.gif"> <a href="/about-playnow/index.html">About PlayNow.com</a> <img src="/resources/images/left-nav/leftNav-menu-end.gif"> 
-<div id="leftNavGameMenuShadow_Account" class="leftNavGameMenuShadow"><img src="/resources/images/left-nav/leftNav-expanded-top-shadow.png"></div>
-</div>
-<div id="leftNavGameMenuItems_Account" class="leftNavGameMenuItems">
-<div class="leftNavGameMenuItem leftNavMenuAccount helpNav" id="helpMenu" onmouseover="javascript:menuBgChange(this,'over');" onmouseout="javascript:menuBgChange(this,'out');"><a href="/about-playnow/help.html">Help</a></div>
-<div class="leftNavGameMenuSep"><img src="/resources/images/left-nav/leftNav-expanded-separator.gif"></div>
-<div class="leftNavGameMenuItem leftNavMenuAccount newsNav" id="newsMenu" onmouseover="javascript:menuBgChange(this,'over');" onmouseout="javascript:menuBgChange(this,'out');"><a href="/about-playnow/news.html">News</a></div>
-<div class="leftNavGameMenuSep"><img src="/resources/images/left-nav/leftNav-expanded-separator.gif"></div>
-<div class="leftNavGameMenuItem leftNavMenuAccount siteNav" id="siteMenu" onmouseover="javascript:menuBgChange(this,'over');" onmouseout="javascript:menuBgChange(this,'out');"><a href="/about-playnow/site-map.html">Site Map</a></div>
-<div class="leftNavGameMenuSep"><img src="/resources/images/left-nav/leftNav-expanded-separator.gif"></div>
-<div class="leftNavGameMenuItem leftNavMenuAccount privacyNav" id="privacyMenu" onmouseover="javascript:menuBgChange(this,'over');" onmouseout="javascript:menuBgChange(this,'out');"><a href="/about-playnow/privacy.html">Privacy</a></div>
-<div class="leftNavGameMenuSep"><img src="/resources/images/left-nav/leftNav-expanded-separator.gif"></div>
-<div class="leftNavGameMenuItem leftNavMenuAccount legalNav" id="legalMenu" onmouseover="javascript:menuBgChange(this,'over');" onmouseout="javascript:menuBgChange(this,'out');"><a href="/about-playnow/legal.html">Legal</a></div>
-<div class="leftNavGameMenuSep"><img src="/resources/images/left-nav/leftNav-expanded-separator.gif"></div>
-<div class="leftNavGameMenuItem leftNavMenuAccount securityNav" id="securityMenu" onmouseover="javascript:menuBgChange(this,'over');" onmouseout="javascript:menuBgChange(this,'out');"><a href="/about-playnow/account-security.html">Account Security</a></div>
-<div class="leftNavGameMenuSep"><img src="/resources/images/left-nav/leftNav-expanded-separator.gif"></div>
-<div class="leftNavGameMenuItem leftNavMenuAccount contactNav" id="contactMenu" onmouseover="javascript:menuBgChange(this,'over');" onmouseout="javascript:menuBgChange(this,'out');"><a href="/about-playnow/contact.html">Contact Us</a></div>
-<div class="leftNavGameMenuSep"><img src="/resources/images/left-nav/leftNav-expanded-separator.gif"></div>
-<div class="leftNavGameMenuItem leftNavMenuAccount gamesenseNav" id="gamesenseMenu" onmouseover="javascript:menuBgChange(this,'over');" onmouseout="javascript:menuBgChange(this,'out');"><a href="/about-playnow/gamesense.html">GameSense</a></div>
-<div class="leftNavGameMenuSep"><img src="/resources/images/left-nav/leftNav-expanded-separator.gif"></div>
-</div>
-</div>
-</div>
-<div class="leftNavBtmCap"><img src="/resources/images/left-nav/leftNav-menu-btm.png" width="177" height="69" alt="btm nav"></div>
-</div>
+<ul>
+<li class="togglable"><span class="togglerWrapper"><span class="nonToggler"><a href="/about-playnow/index.html" class="level1" id="About"><span><span>About Playnow.com</span></span></a></span><span class="toggler level1toggler"><a class="closed" href="#"></a></span></span> 
+<ul class="toggleClosed">
+<li><a id="help" href="/about-playnow/help.html" class="level2">Help</a></li>
+<li><a id="news" href="/about-playnow/news.html" class="level2">News</a></li>
+<li><a id="site" href="/about-playnow/site-map.html" class="level2">Site Map</a></li>
+<li><a id="privacy" href="/about-playnow/privacy.html" class="level2">Privacy</a></li>
+<li><a id="legal" href="/about-playnow/legal.html" class="level2">Legal</a></li>
+<li><a id="security" href="/about-playnow/account-security.html" class="level2">Account Security</a></li>
+<li><a id="contact" href="/about-playnow/contact.html" class="level2">Contact Us</a></li>
+</ul>
+</li>
+</ul>
 </div>
 <div id="rightContainer">
 <div id="rightContentHeader">
@@ -172,11 +147,22 @@ if(top != self){top.location = location};
 <div id="rightContentBody">
 <div class="contentBody774"><span class="bodyContentTopLeft"></span><span class="bodyContentTopRight"></span>  
 <div class="gamesContent">
-<div class="areaName">Privacy Charter</div>
+<div class="areaName">Player Privacy Policy</div>
 <div class="bodyContentMain">
-<p class="featureBody">BCLC takes your right to privacy seriously. You have a right to know what we do with your personal information so that you can make informed choices. We aim to be a privacy leader within the gambling industry and so we have created this Privacy Charter to explain, in straightforward terms, what we do and what we don't do with your personal information. If you have any comments, questions or suggestions after reading this Charter please contact us – we want to hear from you.</p>
+<p class="featureBody">British Columbia Lottery Corporation ("BCLC") takes your right to privacy seriously. You have a right to know what we do with your personal information so that you can make informed choices while on www.playnow.com. We aim to be a privacy leader within the gambling industry and so we have created this Privacy Charter to explain, in straightforward terms, what we do and what we don't do with your personal information. If you have any comments, questions or suggestions after reading this Charter please contact us – we want to hear from you.</p>
+<div class="TrustEinfo">
+<p class="featureBody">BCLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html" target="_blank">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information while on www.playnow.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at <a href="mailto:privacy@bclc.com">privacy@bclc.com</a>. If you are not satisfied with our response you can contact <a href="http://watchdog.truste.com/pvr.php?page=complaint" target="_blank">TRUSTe here</a>.</p>
+</div>
+<div class="TrustEseal">
+<div id="6538f0c0-9ba9-4791-b6c6-ea2ab6acd144"><script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/British-Columbia-Lottery-Corporation/asc?rid=6538f0c0-9ba9-4791-b6c6-ea2ab6acd144">
+//<![CDATA[
+//]]>
+</script>
+<a href="//privacy.truste.com/privacy-seal/British-Columbia-Lottery-Corporation/validation?rid=b82db4ca-7690-4de8-bdbe-d958afa06072" title="TRUSTe online privacy certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/British-Columbia-Lottery-Corporation/seal?rid=b82db4ca-7690-4de8-bdbe-d958afa06072" alt="TRUSTe online privacy certification"></a></div>
+</div>
+<p class="featureTitle clear">Privacy Charter</p>
 <p class="featureTitle">BCLC's Three Pillars of Privacy</p>
-<p class="featureBody">As a public body, the <em>Freedom of Information and Protection of Privacy Act</em> ("FIPPA") applies to BCLC. FIPPA directs how BCLC can use your personal information. BCLC's commitment to privacy is based upon three pillars – fairness, accountability and accessibility. These three pillars are designed to help BCLC meet its obligations under FIPPA.</p>
+<p class="featureBody">As a public body, the Freedom of Information and Protection of Privacy Act ("FIPPA") applies to BCLC. FIPPA directs how BCLC can use your personal information. BCLC's commitment to privacy is based upon three pillars – fairness, accountability and accessibility. These three pillars are designed to help BCLC meet its obligations under FIPPA.</p>
 <p class="featureTitle">1. Fairness</p>
 <p class="featureBody">BCLC strives to use fair information practices. This means:</p>
 <ul class="featureBody basicUl">
@@ -185,30 +171,111 @@ if(top != self){top.location = location};
 <li>We take steps to minimize the collection of sensitive personal information.</li>
 <li>If we use your personal information to make a decision that directly affects you we make every reasonable effort to ensure that your personal information is accurate and complete.</li>
 <li>We will not send you advertising or marketing information without your consent.</li>
-<li>We will not sell your personal information to third parties.</li>
-<li>In some cases, we share your personal information with other companies that provide services on our behalf. In those cases, we only provide them with the information needed to perform those services and we also require them not to share your information with anyone else</li>
+<li>We will not sell your personal information to third parties. In some cases, we share your personal information with other companies that provide services on our behalf. In those cases, we only provide them with the information needed to perform those services and we also require them not to share your information with anyone else</li>
 </ul>
 <p class="featureTitle">2. Accountability</p>
 <p class="featureBody">BCLC is accountable for the ways in which we deal with your personal information. We do this by:</p>
 <ul class="featureBody basicUl">
 <li>Developing and providing privacy training to all of our employees and key service providers so that each person who may handle your personal information understands how to protect that information.</li>
 <li>Conducting regular reviews to make sure that our employees and key service providers have completed the training.</li>
-<li>Rewarding employees for good privacy practices and reprimanding employees for poor privacy practices.</li>
 <li>Using appropriate physical, technical and administrative safeguards to protect the personal information we do collect.</li>
 <li>Having an established chain for reporting and responding to privacy issues.</li>
 </ul>
 <p class="featureTitle">3. Accessibility</p>
-<p class="featureBody">BCLC aims to be accessible. This means:</p>
+<p class="featureBody">BCLC aims to be accessible. This means we will provide you with information about the existence, use and disclosure of your personal information, and provide you with access to that information upon request.</p>
+<p class="featureBody">To review records containing your personal information you may be required to submit a formal request under FIPPA. You can do this by contacting BCLC's Information and Privacy department at (250) 852-5383.</p>
+<p class="featureTitle">Privacy on PlayNow.com</p>
+<p class="featureBody"><strong>Registration</strong></p>
+<p class="featureBody">In order to use PlayNow.com, you must first complete the registration form and create a user account. During registration you are required to provide personal information (such as name, address, date of birth, phone number, email address and credit card information). We use this information to verify your identity (BC Resident over age 19) and register you for our website. We also use this information to expedite enrolment in other services provided by BCLC or BCLC's service providers that BCLC thinks may be of interest to you.</p>
+<p class="featureBody">Upon successful registration, you will receive a Welcome Letter, a monthly newsletter and the occasional promotional offering. See "Communications from the Site" for complete details.</p>
+<p class="featureBody"><strong>Deposit of Funds</strong></p>
+<p class="featureBody">Once registered for an account, you will need to deposit funds to use our website and services. You must provide financial information, such as credit card number and expiry date. We use this information solely for the purpose of processing a deposit into your account. If there is difficulty processing the deposit, you will receive notification on your screen and will be prompted to contact our Consumer Services department.</p>
+<p class="featureBody"><strong>Withdrawal of Funds</strong></p>
+<p class="featureBody">In the event that you wish to withdraw funds from your account, we will collect your bank account information (transit #, institution #, account #). This information is used to facilitate the transfer of funds from your PlayNow.com wallet into your bank account, and is only accessed upon your request.</p>
+<p class="featureBody"><strong>Surveys or Contests</strong></p>
+<p class="featureBody">From time-to-time we may provide you the opportunity to participate in contests or surveys on our site. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose any personal information. The requested information typically includes contact information (such as name, email address, and phone number), and demographic information (such as postal code and age group).</p>
+<p class="featureBody">We use this information to track and target the interests of our users so that we can enhance the experience of users on our site. In the case of contests, this information is used to contact the winners to award their prize.</p>
+<p class="featureBody">We use a third party service provider to conduct these surveys or contests and that company is prohibited from using our players' personal information for any other purpose.</p>
+<p class="featureTitle">Communications from the Site</p>
+<p class="featureBody"><strong>Special Offers and Updates</strong></p>
+<p class="featureBody">We will occasionally send you information about our site and services. Out of respect for your privacy, we present the option not to receive these types of communications. Please see the "Choice and Opt-out" section for details.</p>
+<p class="featureBody"><strong>Newsletters</strong></p>
+<p class="featureBody">Upon registration, you are automatically subscribed to receive our monthly newsletter. Out of respect for your privacy, we provide a way for you to unsubscribe. Please see the "Choice and Opt-out" section for details.</p>
+<p class="featureBody"><strong>Service-related Announcements</strong></p>
+<p class="featureBody">All service-related announcements (i.e. website temporarily down for maintenance) are present on our website and will not be communicated directly with you.</p>
+<p class="featureBody"><strong>Customer Service</strong></p>
+<p class="featureBody">Any personal information you provide will be used to prove your identity if you contact our Consumer Services department. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.</p>
+<p class="featureBody"><strong>Identity Verification</strong></p>
+<p class="featureBody">To determine if you qualify to participate on our website, we use your name, address, date of birth and credit card information to verify that you meet our age (19+) and residency (B.C. residents only) requirements. A soft check against your credit file is performed as part of the verification process. This check will not affect your credit rating or credit score.</p>
+<p class="featureTitle">Information Sharing and Disclosure</p>
+<p class="featureBody"><strong>Aggregate Information (non-personal information)</strong></p>
+<p class="featureBody">We share aggregated demographic information, such as age, gender and location, about our user base with third party companies that provide marketing services to BCLC. This information does not identify individual users and is only used for the purpose of selecting target audiences for marketing campaigns.</p>
+<p class="featureBody">We do not link aggregate user data with personal information.</p>
+<p class="featureBody"><strong>Personal information</strong></p>
+<p class="featureBody">We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.</p>
+<p class="featureBody">We may provide your personal information to companies that provide services to help us with our business activities such as credit card processors and email services providers. These companies are authorized to use your personal information <em>only as necessary</em> to provide these services to us.</p>
+<p class="featureBody">We may also disclose your personal information:</p>
 <ul class="featureBody basicUl">
-<li>We will provide you with information about the existence, use and disclosure of your personal information, and provide you with access to that information upon request: 
+<li>as required by law, such as to comply with a subpoena, or similar legal process</li>
+<li>when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,</li>
+<li>to any other third party with your prior consent to do so.</li>
+</ul>
+<p class="featureBody"><strong>Agents/Service Providers</strong></p>
+<p class="featureBody">We use other third parties such as an email service provider to send emails on our behalf, and a credit card processing company to bill you for services. We will share your name, email address, and financial information as necessary for the third party to provide that service.</p>
+<p class="featureTitle">Choice/Opt-out</p>
+<p class="featureBody">If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by:</p>
 <ul class="featureBody basicUl">
-<li>To review records containing your personal information you may be required to submit a formal request under FIPPA. You can do this by contacting BCLC's Information and Privacy department at (250) 852-5383.</li>
+<li>following the "unsubscribe" link included in each newsletter or communication</li>
+<li>calling Consumer Services at 1-866-815-0222</li>
+<li>emailing us at <a href="mailto:consumerservices@bclc.com">consumerservices@bclc.com</a></li>
+<li>completing the <a href="/about-playnow/contact/feedback.html">General Feedback Form</a> on PlayNow.com</li>
 </ul>
-</li>
-<li>If you would like more information about our privacy practices or believe that we could do something better, please contact our Information and Privacy department. While we may not be able to implement all suggestions, we will give them all genuine consideration.</li>
-<li>If, at any time, you feel like we have not acted in accordance with this Charter, you may request a formal review of your case by contacting BCLC's Information and Privacy department.</li>
+<p class="featureBody">You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.</p>
+<p class="featureTitle">Log Files</p>
+<p class="featureBody">As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.</p>
+<p class="featureBody">We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. We tie an IP address to every transaction for the purpose of troubleshooting and dispute resolution. IP address is also used to ensure that players are logging in to their account from residences within BC.</p>
+<p class="featureBody">We use a third-party tracking service that uses tracking technologies (cookies and web beacons) to track non-personal information about visitors to our site in the aggregate to track usage and volume statistics to improve our services and our website.</p>
+<p class="featureTitle">Cookies</p>
+<p class="featureBody">A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personal information you submit while on our site.</p>
+<p class="featureBody">We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser whereas a persistent cookie remains on your hard drive for an extended period of time. We utilize cookies to help manage player logins, to protect against security issues and to remember player preferences. We do not set a persistent cookie to store your passwords, as we do not want anyone to be able to access your account other than you.</p>
+<p class="featureBody">If you reject cookies, you will not be allowed access to our site.</p>
+<p class="featureBody"><strong>Third Party Cookies</strong></p>
+<p class="featureBody">The use of cookies by our tracking utility company and service providers is not covered by our privacy statement. We do not have access or control over these cookies.</p>
+<p class="featureBody">Our site regularly uses Google Website Optimizer (GWO) to perform variation testing. GWO cookies are placed within site pages to determine page effectiveness in conversion. The results from this testing are used to create an improved product experience for our players. GWO does not collect personal information, only information related to the session. In the event that personal information is collected, Google requests your consent before sharing it. Further details can be found in the <a href="http://www.google.com/intl/en/privacy/privacy-policy.html" target="_blank">Google Privacy Policy</a>.</p>
+<p class="featureTitle">Clear Gifs (Web Beacons/Web Bugs)</p>
+<p class="featureBody">We use a third party tracking utility company to employ a software technology called clear gifs (a.k.a. Web Beacons, Web Bugs, Tracking Tags), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personal information.</p>
+<p class="featureBody">We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see "Choice and Opt-out."</p>
+<p class="featureTitle">Flash LSO's</p>
+<p class="featureBody">We use local shared objects, also known as Flash Cookies, to store your preferences (such as volume control) or to display content based upon what you view on our site to personalize your visit.</p>
+<p class="featureBody">Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here: <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118" target="_blank">http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118</a>.</p>
+<p class="featureTitle">Links to Other Sites</p>
+<p class="featureBody">This Web site contains links to other sites that are not owned or controlled by BCLC. Please be aware that we, BCLC, are not responsible for the privacy practices of such other sites.</p>
+<p class="featureBody">We encourage you to read the privacy statements of each and every Web site that collects personal information.</p>
+<p class="featureBody">This privacy statement applies only to information collected by the PlayNow.com web site.</p>
+<p class="featureTitle">Social Media Features</p>
+<p class="featureBody">Our Web site includes Social Media Features, such as the Facebook Like button and the Twitter Tweet button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features are hosted by a third party. Your interactions with these Features are governed by the privacy policy of the company providing it.</p>
+<p class="featureTitle">Public Forums</p>
+<p class="featureBody">Our website offers publicly accessible in-game chat. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our in-game chat, contact us at <a href="mailto:consumerservices@bclc.com">consumerservices@bclc.com</a>. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.</p>
+<p class="featureTitle">Winner Stories</p>
+<p class="featureBody">We post winner stores on our web site which may contain personal information, such as name and city of residence. Player consent is governed by the Rules and Regulations Respecting Lotteries and Gaming and the PlayNow.com Player Agreement that is acknowledged upon registration for an account.</p>
+<p class="featureTitle">Access to Personal information</p>
+<p class="featureBody">If your personal information changes, or if you no longer desire our service, you may edit, update, or delete your information by:</p>
+<ul class="featureBody basicUl">
+<li>making the change on your account page</li>
+<li>emailing us at <a href="mailto:consumerservices@bclc.com">consumerservices@bclc.com</a></li>
+<li>contacting us by telephone at 1-866-815-0222</li>
+<li>sending us a letter via postal mail at the contact information listed below</li>
 </ul>
-<p class="featureBody">If, at any time, you are not satisfied with how BCLC is dealing with your case, you can contact the Office of the Information and Privacy Commissioner of British Columbia, at:</p>
+<p class="featureBody">We will respond to all requests within 30 days.</p>
+<p class="featureTitle">Security</p>
+<p class="featureBody">The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.</p>
+<p class="featureBody">When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).</p>
+<p class="featureTitle">Data Retention</p>
+<p class="featureBody">We will retain your information for as long as your account is active or as needed to provide services to you. If you wish to cancel your account or request that we no longer use your information to provide you services, please contact us at <a href="mailto:consumerservices@bclc.com">consumerservices@bclc.com</a>. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
+<p class="featureTitle">Changes in this Privacy Statement</p>
+<p class="featureBody">We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by means of a notice on PlayNow.com prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.</p>
+<p class="featureBody">If you would like more information about our privacy practices or believe that we could do something better, please contact our Information and Privacy department. While we may not be able to implement all suggestions, we will give them all genuine consideration.</p>
+<p class="featureBody">If, at any time, you feel like we have not acted in accordance with this Charter, you may request a formal review of your case by contacting <em>BCLC's Information and Privacy department</em>.</p>
 <p class="featureBody"><strong>Mailing Address:</strong><br>
  Office of the Information and Privacy<br>
  Commissioner for British Columbia<br>
@@ -226,6 +293,7 @@ if(top != self){top.location = location};
  (250) 387-1696</p>
 <p class="featureBody"><strong>E-mail:</strong><br>
  <a href="mailto:info@oipc.bc.ca">info@oipc.bc.ca</a></p>
+<p class="featureBody">Last Updated: March 8, 2012</p>
 </div>
 </div>
 <span class="bodyContentBottomLeft"></span><span class="bodyContentBottomRight"></span> </div>
@@ -235,217 +303,130 @@ if(top != self){top.location = location};
 </div>
 <div id="mainFooter">
 <div id="footerContainer">
-<div id="topFooterContainer">
-<div id="topFooterHeading" class="footerHeading">Looking for something? <a id="arrowUp" href="#" onclick="javascript:hideFooter();return false;"></a><a id="arrowDown" href="#" onclick="javascript:showFooter();return false;"></a></div>
-<div id="toggleTopContentContainer"><span class="bodyContentTopLeft"></span><span class="bodyContentTopRight"></span> 
-<div id="topFooterContent">
-<div class="topFooterColumn" id="topColumn1">
+<div id="topContent">
+<div>
+<h4>Safe &amp; Secure</h4>
+<p><a href="/about-playnow/account-security.html?WT.ac=FT|safe-secure|acct-security">PlayNow.com delivers a safe and secure online gaming experience. We are committed to player protection and game integrity. You must be 19 years of age or older to play.</a></p>
+<div id="truste">
+<div id="6538f0c0-9ba9-4791-b6c6-ea2ab6acd144"><script src="//privacy-policy.truste.com/privacy-seal/British-Columbia-Lottery-Corporation/asc?rid=6538f0c0-9ba9-4791-b6c6-ea2ab6acd144" type="text/javascript">
+//<![CDATA[
+//]]>
+</script>
+<a target="_blank" title="TRUSTe online privacy certification" href="//privacy.truste.com/privacy-seal/British-Columbia-Lottery-Corporation/validation?rid=b82db4ca-7690-4de8-bdbe-d958afa06072"><img alt="TRUSTe online privacy certification" src="//privacy-policy.truste.com/privacy-seal/British-Columbia-Lottery-Corporation/seal?rid=b82db4ca-7690-4de8-bdbe-d958afa06072" style="border: none"></a></div>
+</div>
+</div>
+<div id="connect">
+<h4>Stay Connected</h4>
+<p>Join the PlayNow.com community on Facebook and Twitter.</p>
+<a href="https://www.facebook.com/PlayNowCasino?WT.ac=FT|facebookbutton" target="_blank"><img src="/resources/images/home/facebook-icon.gif"></a> <a href="http://twitter.com/#!/playnowcasino?WT.ac=FT|twitterbutton" target="_blank"><img src="/resources/images/home/twitter-icon.gif"></a> <a href="http://twitter.com/#!/playnowpoker?WT.ac=FT|twitterpokerbutton" target="_blank"><img src="/resources/images/home/poker-icon.gif"></a></div>
+<div>
+<h4>Customer Support</h4>
+<p>We provide general support daily from 7am to midnight: 1-866-815-0222<br>
+ Problem Gambling Help Line is 24/7:<br>
+1-888-795-6111<br>
+ Poker support is 24/7: 1-877-706-6789<br>
+ <a href="/about-playnow/contact/feedback.html?WT.ac=FT|support|feedbackform">Feedback Form</a><br>
+ <a href="/about-playnow/contact.html?WT.ac=FT|support|morecontact">More contact info</a></p>
+</div>
+<div id="gamesense">
+<h4>Use Your GameSense</h4>
+<p><a href="/gamesense/?WT.ac=FT|gamesense|textlink">Looking to keep it fun? GameSense is your source for advice.</a></p>
+</div>
+</div>
+<div id="bottomContent">
+<div>
+<h4>Useful Links</h4>
 <ul>
-<li><a href="/playnow?action=GoLogin&amp;WT.ac=FT|login">Login</a></li>
-<li><a href="/playnow?action=GoRegister&amp;WT.ac=FT|register">Register</a></li>
+<li><a href="/about-playnow/help.html?WT.ac=FT|aboutplaynow|help">Help</a></li>
+<li><a href="/about-playnow/?WT.ac=FT|aboutplaynow|home">About PlayNow.com</a></li>
+<li><a href="/promotions/?WT.ac=FT|promotions|home">All Promotions</a></li>
+<li><a href="/about-playnow/news.html?WT.ac=FT|aboutplaynow|news">News</a></li>
+<li><a href="/about-playnow/privacy.html?WT.ac=FT|aboutplaynow|privacy">Privacy</a></li>
+<li><a href="/about-playnow/legal.html?WT.ac=FT|aboutplaynow|legal">Legal</a></li>
+<li><a href="/about-playnow/account-security.html?WT.ac=FT|aboutplaynow|accountsecurity|usefullinks">Account Security</a></li>
+<li><a href="/gamesense/?WT.ac=FT|gamesense|home">GameSense</a></li>
+<li><a href="/about-playnow/site-map.html?WT.ac=FT|aboutplaynow|sitemap">Site Map</a></li>
+<li><a href="http://www.bclc.com?WT.ac=FT|bclccom|home" target="_blank">bclc.com</a></li>
 </ul>
-<div class="footerHeading"><a href="/playnow?tab=Casino&amp;WT.ac=FT|casino|home">Casino</a></div>
+</div>
+<div>
+<h4>Poker</h4>
+<ul>
+<li><a onclick="redirectToGettingStarted('FT|pokerclient');" href="http://cpn-download.g2-networks.com/DL/CPN/pokerplaynow.exe">Download Poker</a></li>
+<li><a href="/poker/getting-started/?WT.ac=FT|poker|gettingstarted|home">Get Started with Poker</a></li>
+<li><a href="/poker/at-the-poker-table/?WT.ac=FT|poker|atthepokertable|home">At the Poker Table</a></li>
+<li><a href="/poker/poker-games/?WT.ac=FT|poker|pokergames|home">Poker Games</a></li>
+<li><a href="/poker/tournaments/?WT.ac=FT|poker|tournaments|home">Poker Tournaments</a></li>
+<li><a href="/poker/promotions/?WT.ac=FT|poker|promotions|home">Poker Promotions</a></li>
+</ul>
+</div>
+<div>
+<h4>Casino</h4>
 <ul>
 <li><a href="/playnow?action=GoCat&amp;name=Blackjack%20Games&amp;WT.ac=FT|casino|blackjack">Play Blackjack</a></li>
 <li><a href="/playnow?action=GoCat&amp;name=Table%20Games&amp;WT.ac=FT|casino|tablegames">Play Table Games</a></li>
-<li><a href="/playnow?action=GoCat&amp;name=New%20Slots&amp;WT.ac=FT|casino|newslots">View New Slots</a></li>
-<li><a href="/playnow?action=GoCat&amp;name=All%20Slots&amp;WT.ac=FT|casino|allslots">View All Slots</a></li>
+<li><a href="/playnow?action=GoCat&amp;name=New%20Games&amp;WT.ac=FT|casino|newslots">Play New Games</a></li>
 <li><a href="/playnow?action=GoCat&amp;name=Video%20Poker&amp;WT.ac=FT|casino|videopoker">Play Video Poker</a></li>
 <li><a href="/playnow?action=GoCat&amp;name=Arcade%20&amp;WT.ac=FT|games|arcade">Play Arcade</a></li>
 <li><a href="/playnow?action=GoCat&amp;name=Reactors%20&amp;WT.ac=FT|games|reactors">Play Reactors</a></li>
 <li><a href="/playnow?action=GoCat&amp;name=Scratch%20Cards&amp;WT.ac=FT|games|scratchcards">Play Scratch Cards</a></li>
+<li><a href="/playnow?action=GoCat&amp;name=Slots%20&amp;WT.ac=FT|casino|allslots">View All Slots</a></li>
+<li><a href="/casino/promotions/?WT.ac=FT|casino|promotions|home">Casino Promotions</a></li>
 </ul>
 </div>
-<div class="topFooterColumn" id="topColumn2">
-<div class="footerHeading"><a href="/lottery/?WT.ac=FT|lottery|home">Lottery</a></div>
-<ul>
-<li><a href="/BCCF/games/L649/forwardL649.do?WT.ac=FT|649">Buy Lotto 6/49 ticket</a></li>
-<li><a href="/BCCF/games/LMAX/forwardLMAX.do?WT.ac=FT|lottomax">Buy LOTTO MAX ticket</a></li>
-<li><a href="/BCCF/games/BC49/forwardBC49.do?WT.ac=FT|bc49">Buy BC/49 ticket</a></li>
-<li><a href="/BCCF/viewTicketInWatchMode.do?WT.ac=FT|keno">Play Keno</a></li>
-<li><a href="/BCCF/games/POKR/forwardPOKR.do?WT.ac=FT|phep">Play Pacific Hold'Em Poker</a></li>
-</ul>
-<div class="footerHeading"><a href="/bingo/?WT.ac=FT|bingo|home">Bingo</a></div>
-<ul>
-<li><a href="/BCCF/games/BINGO/forwardBINGO.do?WT.ac=FT|bingo|multiplayer">Play Multi-Player eBingo</a></li>
-<li><a href="/BCCF/games/BINGO/forwardBINGO.do?WT.ac=FT|bingo|singleplayer">Play Single Player eBingo</a></li>
-<li><a href="/bingo/draw-results/?WT.ac=FT|bingo|drawresults">eBingo Draw Results</a></li>
-</ul>
-</div>
-<div class="topFooterColumn" id="topColumn3">
-<div class="footerHeading"><a href="/sports?WT.ac=FT|sports|home">Sports</a></div>
+<div>
+<h4>Sports</h4>
 <ul>
 <li><a href="/BCCF/forwardODST.do?WT.ac=FT|sports|oddset">Play Oddset</a></li>
 <li><a href="/BCCF/forwardPTSP.do?WT.ac=FT|sports|pointspread">Play Point Spread</a></li>
 <li><a href="/BCCF/forwardOVUN.do?WT.ac=FT|sports|overunder">Play Over/Under</a></li>
 <li><a href="/BCCF/forwardResultsODST.do?WT.ac=FT|sports|results">View Sports Results</a></li>
 <li><a target="_blank" href="https://www.bclc.com/PlayNow/SportsAction/SAMenu.asp?WT.ac=FT|bclccom|dailymenu">View Daily Sports Menu</a></li>
-</ul>
-<div class="footerHeading"><a href="/poker?WT.ac=FT|poker|home">Poker</a></div>
-<ul>
-<li><a onclick="redirectToGettingStarted('FT|pokerclient');" href="http://cpn-download.g2-networks.com/DL/CPN/pokerplaynowcom.exe">Download Poker</a></li>
-<li><a href="/poker/getting-started/?WT.ac=FT|poker|gettingstarted|home">Get Started with Poker</a></li>
-<li><a href="/poker/poker-games/?WT.ac=FT|poker|pokergames|home">Poker Games</a></li>
-<li><a href="/poker/tournaments/?WT.ac=FT|poker|tournaments|home">Poker Tournaments</a></li>
-<li><a href="/poker/at-the-poker-table/?WT.ac=FT|poker|atthepokertable|home">At the Poker Table</a></li>
+<li><a href="/sports/promotions/?WT.ac=FT|sports|promotions|home">Sports Promotions</a></li>
 </ul>
 </div>
-<div class="topFooterColumn" id="topColumn4">
-<div class="footerHeading"><a href="/promotions/?WT.ac=FT|allpromotions">Promotions</a></div>
+<div>
+<h4>Bingo</h4>
 <ul>
-<li><a href="/casino/promotions/?WT.ac=FT|casino|promotions">Casino Promotions</a></li>
-<li><a href="/lottery/promotions/?WT.ac=FT|lottery|promotions">Lottery Promotions</a></li>
-<li><a href="/bingo/promotions/?WT.ac=FT|bingo|promotions">Bingo Promotions</a></li>
-<li><a href="/sports/promotions/?WT.ac=FT|sports|promotions">Sports Promotions</a></li>
-<li><a href="/poker/promotions/?WT.ac=FT|poker|promotions">Poker Promotions</a></li>
-</ul>
-<div class="footerHeading"><a href="/about-playnow/?WT.ac=FT|aboutplaynow|home|top">Help &amp; Info</a></div>
-<ul>
-<li><a href="/about-playnow/help.html?WT.ac=FT|aboutplaynow|help|top">Help</a></li>
-<li><a href="/about-playnow/contact.html?WT.ac=FT|aboutplaynow|contact|top">Contact Us</a></li>
-<li><a href="/about-playnow/news.html?WT.ac=FT|aboutplaynow|news|top">News</a></li>
-<li><a href="/about-playnow/site-map.html?WT.ac=FT|aboutplaynow|sitemap|top">Site Map</a></li>
+<li><a href="/BCCF/games/BINGO/forwardBINGO.do?WT.ac=FT|bingo|multiplayer">Play Multi-Player eBingo</a></li>
+<li><a href="/BCCF/games/BINGO/forwardBINGO.do?WT.ac=FT|bingo|singleplayer">Play Single Player eBingo</a></li>
+<li><a href="/bingo/draw-results/?WT.ac=FT|bingo|drawresults">eBingo Draw Results</a></li>
+<li><a href="/bingo/promotions/?WT.ac=FT|bingo|promotions|home">Bingo Promotions</a></li>
 </ul>
 </div>
-<div class="clear">&nbsp;</div>
-</div>
-<span id="topFooterBottomLeft" class="bodyContentBottomLeft"></span><span id="topFooterBottomRight" class="bodyContentBottomRight"></span></div>
-</div>
-<div id="bottomFooterContainer">
-<div id="bottomFooterContent">
-<div class="bottomFooterColumn" id="bottomColumn1">
-<div class="footerHeading">Useful Links</div>
+<div>
+<h4>Lottery</h4>
 <ul>
-<li><a href="/about-playnow/help.html?WT.ac=FT|aboutplaynow|help">Help</a></li>
-<li><a href="/about-playnow/?WT.ac=FT|aboutplaynow|home">About PlayNow.com</a></li>
-<li><a href="/about-playnow/news.html?WT.ac=FT|aboutplaynow|news">News</a></li>
-<li><a href="/about-playnow/privacy.html?WT.ac=FT|aboutplaynow|privacy">Privacy</a></li>
-<li><a href="/about-playnow/legal.html?WT.ac=FT|aboutplaynow|legal">Legal</a></li>
-<li><a href="/about-playnow/account-security.html?WT.ac=FT|aboutplaynow|accountsecurity|usefullinks">Account Security</a></li>
-<li><a href="/about-playnow/gamesense.html?WT.ac=FT|gamesense|home">GamesSense</a></li>
-<li><a href="/about-playnow/site-map.html?WT.ac=FT|aboutplaynow|sitemap">Site Map</a></li>
-<li><a href="http://www.bclc.com?WT.ac=FT|bclccom|home" target="_blank">bclc.com</a></li>
+<li><a href="/BCCF/games/L649/forwardL649.do?WT.ac=FT|649">Buy Lotto 6/49 ticket</a></li>
+<li><a href="/BCCF/games/LMAX/forwardLMAX.do?WT.ac=FT|lottomax">Buy LOTTO MAX ticket</a></li>
+<li><a href="/BCCF/games/BC49/forwardBC49.do?WT.ac=FT|bc49">Buy BC/49 ticket</a></li>
+<li><a href="/BCCF/viewTicketInWatchMode.do?WT.ac=FT|keno">Play Keno</a></li>
+<li><a href="/BCCF/games/POKR/forwardPOKR.do?WT.ac=FT|phep">Play Pacific Hold'Em Poker</a></li>
+<li><a href="/lottery/promotions/?WT.ac=FT|lottery|promotions|home">Lottery Promotions</a></li>
 </ul>
-</div>
-<div class="bottomFooterColumn" id="bottomColumn2">
-<div class="footerHeading">Customer Support</div>
-<ul>
-<li>We provide general support daily from 7am to midnight.</li>
-<li>General: <strong>1-866-815-0222</strong></li>
-</ul>
-<ul>
-<li>Poker support is 24/7.</li>
-<li>Poker Help: <strong>1-877-706-6789</strong></li>
-</ul>
-<ul>
-<li><a href="/about-playnow/contact/feedback.html?WT.ac=FT|aboutplaynow|contactus|feedbackform">Feedback Form</a></li>
-<li><a href="/about-playnow/contact.html?WT.ac=FT|aboutplaynow|contact">More contact info</a></li>
-</ul>
-</div>
-<div class="bottomFooterColumn" id="bottomColumn3">
-<div class="footerHeading">Stay Connected</div>
-<ul>
-<li>Join the PlayNow.com community on Facebook and Twitter.</li>
-</ul>
-<ul id="socialIcons">
-<li><a href="http://www.facebook.com/PlayNowCasino?WT.ac=FT|facebookbutton" target="_blank"><img src="/resources/images/footer/icon_facebook.gif" border="0" alt="Facebook" title="Facebook"></a></li>
-<li><a href="http://twitter.com/playnowcasino?WT.ac=FT|twitterbutton" target="_blank"><img src="/resources/images/footer/icon_twitter.gif" border="0" alt="Twitter" title="Twitter"></a></li>
-<li><a href="http://twitter.com/playnowpoker?WT.ac=FT|twitterpokerbutton" target="_blank"><img src="/resources/images/footer/icon_twitter_poker.gif" border="0" alt="Twitter Poker" title="Twitter Poker"></a></li>
-</ul>
-</div>
-<div class="bottomFooterColumn" id="bottomColumn4">
-<ul>
-<li>We accept the following payment methods:</li>
-</ul>
-<ul id="socialIcons">
-<li><img src="/resources/images/footer/icon_visa.gif" border="0" alt="Visa" title="Visa"></li>
-<li><img src="/resources/images/footer/icon_mastercard.gif" border="0" alt="Mastercard" title="Mastercard"></li>
-<li><img src="/resources/images/footer/icon_interac.gif" border="0" alt="Interac" title="Interac"></li>
-</ul>
-<ul>
-<li>PlayNow.com is safe and secure. Learn more about <a href="/about-playnow/account-security.html?WT.ac=FT|aboutplaynow|accountsecurity">Account Privacy &amp; Security</a>. <img src="/resources/images/footer/icon-padlock.gif" border="0" alt="padlock icon" width="13"></li>
-</ul>
-</div>
-<div class="clear">&nbsp;</div>
 </div>
 </div>
 </div>
 <hr>
-<div id="RGBar">
-<div id="RGBarLogo"><a href="https://www.bclc.com?WT.ac=FT|rgbar|bclccom|home" target="_blank"><img style="border:medium none; margin-top:50px;" height="45" width="100" src="/resources/images/common/buttons/spacer.gif"></a></div>
-<div id="RGBarText"><a href="/about-playnow/gamesense.html?WT.ac=FT|rgbar|gamesense|home"><img style="border:medium none; margin-top:50px;" height="45" width="398" src="/resources/images/common/buttons/spacer.gif"></a></div>
+<div id="mainRGBar">
+<div id="RGBarGamesense"><a href="http://www.gamesense.ca" target="_new"></a></div>
+<div id="RGBarLogo"><a href="http://www.bclc.com" target="_new"></a></div>
+<div id="RGBar19Plus"><a href="http://www.gamesense.ca" target="_new"></a></div>
 </div>
 <script src="/resources/js/webtrends/webtrends.js" type="text/javascript">
 //<![CDATA[
 //]]>
 </script>
-     <script type="text/javascript">
-        //<![CDATA[
-        var _tag=new WebTrends();
-        _tag.dcsGetId();
-        //]]>>
-        </script><script type="text/javascript" src="https://webtrends.bclc.com/dcsmgnref1a8zq1b6i6qv2u2u_3k7k/wtid.js"></script>
  <script type="text/javascript">
-        //<![CDATA[
-        // Add custom parameters here.
-        //_tag.DCSext.param_name=param_value;
-        _tag.dcsCollect();
-        //]]>>
-        </script>
- <script type="text/javascript">
-        //<![CDATA[
-        function hideFooter(){
-            var upButton = document.getElementById("arrowUp");
-            var downButton = document.getElementById("arrowDown");
-            var divTopContentContainer = document.getElementById("toggleTopContentContainer");
-            
-            if (upButton != null) {
-                upButton.style.display = 'none';
-            }
-            if (downButton != null) {
-                downButton.style.display = 'block';
-            }
-            if (divTopContentContainer != null) {
-                $('#toggleTopContentContainer').slideToggle(400);
-            }
-            
-            return false;
-        }
-        function showFooter(){
-            var upButton = document.getElementById("arrowUp");
-            var downButton = document.getElementById("arrowDown");
-            var divTopContentContainer = document.getElementById("toggleTopContentContainer");
-            
-            if (upButton != null) {
-                upButton.style.display = 'block';
-            }
-            if (downButton != null) {
-                downButton.style.display = 'none';
-            }
-            if (divTopContentContainer != null) {
-                $('#toggleTopContentContainer').slideToggle(400);
-            }
-            return false;
-        }
-        //]]>>
-        </script>
+//<![CDATA[
+    var _tag=new WebTrends();
+    _tag.dcsGetId();
+    _tag.dcsCollect();
+//]]>
+</script><script type="text/javascript" src="https://webtrends.bclc.com/dcsmgnref1a8zq1b6i6qv2u2u_3k7k/wtid.js"></script>
  <noscript>
 <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="https://webtrends.bclc.com/dcsmgnref1a8zq1b6i6qv2u2u_3k7k/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.6.2" /></div>
-</noscript>  <script type="text/javascript">
-//<![CDATA[
-            // function 'redirect' and 'gotoDownload' are used to redirect to the getting-started page from the download button 
-            function redirectToGettingStarted(strWebTrendsParams){
-                if(strWebTrendsParams != null && strWebTrendsParams != undefined && strWebTrendsParams != '') {
-                    dcsMultiTrack('DCS.dcsuri', '/poker/DL/CPN/pokerplaynowcom.exe','WT.ac', strWebTrendsParams, 'WT.dl', '20');
-                }
-                setTimeout('gotoDownload()', 3000);
-            }
-            function gotoDownload(){
-                window.location.href="https://www.playnow.com/poker/getting-started/";
-            }
-        //]]>
-</script>
-</div>
+</noscript></div>
 <script type="text/javascript">
 //<![CDATA[
 var loginNavUrl = '/loginNav';
