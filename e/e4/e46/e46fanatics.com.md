@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the e46fanatics.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125504id_/http%3A//www.e46fanatics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e46fanatics.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506221151id_/http%3A//www.e46fanatics.com/privacy.php) for the most accurate reproduction.*
 
 # E46Fanatics.com Privacy Policy
 
-performanceIX values your right to privacy. This Privacy Policy is effective February 10, 2011 and describes the types of information that performanceIX gathers from visitors and how that information is used. performanceIX reserves the right to modify this Privacy Policy at any time. The currently operative Privacy Policy will always be available by clicking on the Privacy Policy link on the home page. Please read this policy carefully and, if you have any questions, please email us at [pix@performanceix.com](mailto:pix@performanceix.com)
+performanceIX values your right to privacy. This Privacy Policy is effective February 14, 2011 and describes the types of information that performanceIX gathers from visitors and how that information is used. performanceIX reserves the right to modify this Privacy Policy at any time. The currently operative Privacy Policy will always be available by clicking on the Privacy Policy link on the home page. Please read this policy carefully and, if you have any questions, please email us at [pix@performanceix.com](mailto:pix@performanceix.com)
 
 We do not collect any personally identifiable information unless you specifically provide it to us. You may provide such information to us by registering on the Site or by otherwise specifically providing such information to us. If you do not specifically provide personally identifiable information to us, then we do not have it. 
 
@@ -31,6 +31,10 @@ The Site may contain links to web sites of third parties. When you leave our web
 _How to review and update your personal information._
 
 You can review and update the personal information you have provided through the registration process by visiting: [http://forum.E46fanatics.com/profile.php?do=editprofile](http://forum.e46fanatics.com/profile.php?do=editprofile)
+
+_How to opt-out from future communications ._
+
+You can quickly and easily opt-out of any future communications by visiting <http://forum.e46fanatics.com/profile.php?do=editoptions> and un-checking the boxes in the "Receive Email" section. Once you have set your preferences, scroll to the bottom of the page and click on the "Save Changes" button to confirm your changes. 
 
 _How we protect your personal information._
 
