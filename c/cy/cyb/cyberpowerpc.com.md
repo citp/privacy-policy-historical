@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberpowerpc.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108014303id_/http%3A//www.cyberpowerpc.com/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberpowerpc.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507010246id_/http%3A//www.cyberpowerpc.com/company/privacy.aspx) for the most accurate reproduction.*
 
 # CyberPower Inc. - UNLEASH THE POWER - Create the Custom Gaming PC and Laptop Computer of your dreams
 
