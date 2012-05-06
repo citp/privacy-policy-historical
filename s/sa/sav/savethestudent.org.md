@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the savethestudent.org privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228043853id_/http%3A//www.savethestudent.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savethestudent.org privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506134214id_/http%3A//www.savethestudent.org/privacy-policy) for the most accurate reproduction.*
 
-# SaveTheStudent.org Privacy Policy – Save The Student!
+# Privacy Policy – Save the Student!
 
-[promoslider]
+## Privacy Policy
 
-This privacy policy sets out how this website (www.savethestudent.org) uses and protects any information that you may provide when you use the site. The website is owned and operated by SaveTheStudent.org. This policy is effective from 15th September 2010.
+This privacy policy sets out how this website (www.savethestudent.org) uses and protects any information that you may provide when you use the site. The website is owned and operated by Grip Media Limited. This policy is effective from 12th April 2012.
 
-We (SaveTheStudent.org) are committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+We (Grip Media Ltd) are committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-**We only ever use your personal information (eg. email address) with your consent (opt-in) and do not share any such details with third parties. Your privacy is of upmost importance to us.**
+**We only ever use your personal information (eg. email address) with your consent (opt-in) and do not share any such details with third parties without your prior permission. Your privacy is of upmost importance to us.**
 
 We may change this policy from time to time by updating this page. You should check this page periodically to ensure that you are happy with any changes
 
