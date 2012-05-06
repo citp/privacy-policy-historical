@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustedid.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115214023id_/https%3A//www.trustedid.com/about_us.php%3Fserviceterms%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustedid.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506120105id_/https%3A//www.trustedid.com/about_us.php%3Fserviceterms%3Dprivacy_policy) for the most accurate reproduction.*
 
 # TrustedID Privacy Policy
 
@@ -87,7 +87,7 @@ We require your social security number to enhance the protection offered by Trus
 
 **Supplementation of Personal Information**
 
-To improve the security of our service, to protect your identity, and protect your information, we may verify your personal information by matching the information you provide to TrustedID against other publicly available information that we obtain from third parties. This matching is done via secure systems and all your information, both that which you provide to TrustedID and that which we obtain through third parties, is held in strict confidence.
+To improve the security of our service, to protect your identity, and protect your information, we may verify your personal information by matching the information you provide to TrustedID against other publicly available information that we obtain from identification verification companies. This matching is done via secure systems and all your information, both that which you provide to TrustedID and that which we obtain through third parties, is held in strict confidence.
 
 **3\. Information Sharing**
 
@@ -95,11 +95,11 @@ Your privacy and the security of your data is our primary concern. Your trust is
 
 Affiliated Businesses We Do Not Control: We are affiliated with a variety of businesses and work closely with them. In certain situations, these businesses may operate services at the TrustedID website or offer services or products to you through TrustedID's website. In other situations, TrustedID provides services, or offers products jointly with affiliated businesses. You may generally be able to recognize when an affiliated business is associated with your transaction when the TrustedID logo is not clearly in view. We may share information that is related to such transactions with that affiliated business, such as information regarding whether a customer's registration is completed, or whether a customer is an active member of the service. In the event you are a member of TrustedID's “IDSafe” service, TrustedID may share information with the third party that is providing you with the IDSafe membership (e.g. your employer), such as your name, address, date of registration and type of membership.
 
-Agents: We may employ other companies and people to perform tasks on our behalf and need to share information (Name, Address, Phone Number) with them to provide products or services to you. Unless we tell you differently, TrustedID's agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes.
+Agents: We may employ other companies and people to perform tasks on our behalf such as an email provider to send specific types of emails, or payment processor to process your credit card and need to share information (Name, Address, Phone Number) with them to provide products or services to you. Unless we tell you differently, TrustedID's agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes.
 
 Promotional Offers: We will never send offers to customers on behalf of other businesses.
 
-Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that is transferred. Moreover, if TrustedID, or substantially all of its assets were acquired, customer information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of TrustedID may continue to use your Personal Information as set forth in this policy.
+Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that is transferred. Moreover, if TrustedID, or substantially all of its assets were acquired, customer information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of TrustedID may continue to use your Personal Information as set forth in this policy. You will be notified via a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
 Protection of TrustedID and Others: We reserve the right to disclose your Personal Information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Website, enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of TrustedID, our employees, our customers, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
@@ -129,7 +129,7 @@ This Privacy Policy applies only to the TrustedID website and service. This site
 
 **Changes to this privacy policy**
 
-TrustedID may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is collected. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our Website.
+TrustedID may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is collected. If we make material changes in the way we use Personal Information, we will notify you by posting an announcement on our Website prior to the changes taking effect.
 
 **Questions or concerns**
 
