@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nidirect.gov.uk privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231112429id_/http%3A//www.nidirect.gov.uk/index/your-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nidirect.gov.uk privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506041621id_/http%3A//www.nidirect.gov.uk/index/your-privacy.htm) for the most accurate reproduction.*
 
 # Your privacy | nidirect
 
@@ -64,7 +64,7 @@ Where you are directed to the nidirect site from another site (whether a third p
 
 If you wish to see the nidirect records of any correspondence with you, within the last three months, or if you have a query or complaint about this privacy policy or about the site, you can contact nidirect using this email address.
 
-  * [Feedback@nidirect.gov.uk](mailto:feedback@nidirect.gov.uk "feedback@nidirect.gov.uk")
+  * [Feedback@nidirect.gov.uk](mailto:feedback@nidirect.gov.uk)
 
 
 
