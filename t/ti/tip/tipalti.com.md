@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tipalti.com privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012025249id_/http%3A//tipalti.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipalti.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507014614id_/http%3A//www.tipalti.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Tipalti Mass Payment Solutions for Online Ad Networks and Crowd Sourcing
-
-**PRIVACY POLICY**
+# Tipalti - privacy policy
 
 Tipalti Solutions Ltd. (" **Tipalti** " or " **we** ") is providing this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of information we receive when you visit the [ www.Tipalti.com](http://www.tipalti.com/) website (the " **Site** "), and when you use any part of our services via our Site or on the websites of our partners or other third parties (collectively, the " **Services** "). By entering the Site, you fully understand and unambiguously consent to the collection and processing of such information and to the terms of this Privacy Policy. If you do not agree to the terms of this Privacy Policy, you must not use the Site or any available Services.
 
@@ -34,7 +32,7 @@ This Privacy Policy applies only to the Site. The Site may include links and r
 
 ##  **2.   ****Our Policy Toward Children**
 
-We do not knowingly collect personally identifiable information from children under the age of 21. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [support@Tipalti.com](file:///Y:/Work/Tipalti/Legal/support@Tipalti.com). If we become aware that a child under 21 has provided us with Personal Information, we will delete such information from our files.
+We do not knowingly collect personally identifiable information from children under the age of 21. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [ support@Tipalti.com](mailto:support@tipalti.com). If we become aware that a child under 21 has provided us with Personal Information, we will delete such information from our files.
 
 ##  **3.   ****Security**
 
@@ -54,4 +52,4 @@ This Privacy Statement is subject to occasional revision, and if we make any sub
 
 ##  **7.   ****Contacting Us**
 
-If you have any concerns or questions about this Privacy Policy, please contact us at [support@Tipalti.com](file:///Y:/Work/Tipalti/Legal/support@Tipalti.com). 
+If you have any concerns or questions about this Privacy Policy, please contact us at [ support@Tipalti.com](mailto:support@tipalti.com). 
