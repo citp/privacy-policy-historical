@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the seasweb.net privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430140323id_/http%3A//www.computerautomation.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seasweb.net privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506072552id_/http%3A//www.computerautomation.com/privacy.asp) for the most accurate reproduction.*
 
-# Special Education Automation Software
+# Computer Automation Systems, Inc.
 
-Computer Automation Systems, Inc. has adopted the following privacy policy statement applicable to the Website, www.pearsondigital.com, a Website designed to supply information about Computer Automation Systems, Inc. and its products and services. If you have any questions or concerns about this Privacy Policy, please contact us at webmaster@seasweb.net. 
+Computer Automation Systems, Inc. has adopted the following privacy policy statement applicable to the Website, www.computerautomation.com, a Website designed to supply information about Computer Automation Systems, Inc. and its products and services. If you have any questions or concerns about this Privacy Policy, please contact us at webmaster@seasweb.net. 
 
 COLLECTION AND USE OF INFORMATION FROM USER INFORMATION REQUESTS. Users may, but are not required to, send inquiries or request further information about Computer Automation Systems, Inc. and its products and services through completing a contact or request form or sending us an email message. We collect information, including name, organization, email address and the other information supplied through such contact or email. We may use such information to respond to the inquiry, supply information about Computer Automation Systems, Inc. and its products and services to the user from time to time, and maintain a record of the contact. 
 
