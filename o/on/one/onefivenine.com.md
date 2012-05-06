@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the onefivenine.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009114249id_/http%3A//www.onefivenine.com/suggestion.dont%3Fmethod%3Dpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onefivenine.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507002049id_/http%3A//www.onefivenine.com/suggestion.dont%3Fmethod%3Dpp) for the most accurate reproduction.*
 
 # ANDHRA PRADESH
 
-[Home ](https://web.archive.org/) |  [Maps & Directions](https://web.archive.org/india/head/map) |  [Find Your Village ](https://web.archive.org/india/head/findVillage) |  [Cities ](https://web.archive.org/india/head/Cities) |  [City Bus Routes ](https://web.archive.org/india/BusRouteStage/) |  [Search Place ](https://web.archive.org/place.dont?method=nearByPlacesByPlace) |  [Find Your School ](https://web.archive.org/india/head/School) | [Find Your College ](https://web.archive.org/india/head/College) |  [Pin Codes ](https://web.archive.org/india/head/pincodes) |  [Chat ](javascript:clickLinkEdit\('/loginRegister.dont?method=listUserProfileAll'\)) | [ Contact ](https://web.archive.org/india/head/Suggestion)  
----|---|---|---|---|---|---|---|---|---|---  
-  
 ###  Privacy Policy for www.onefivenine.com 
 
 The privacy of our visitors to www.onefivenine.com is important to us. 
