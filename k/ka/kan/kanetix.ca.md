@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kanetix.ca privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103211410id_/http%3A//www.kanetix.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kanetix.ca privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506171139id_/http%3A//www.kanetix.ca/privacy) for the most accurate reproduction.*
 
 # privacy
 
@@ -83,7 +83,7 @@ These third parties are prohibited from using your personally identifiable infor
 If you submit a testimonial to be posted on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. If you wish to request the removal of your testimonial you may [contact us through our online form](http://www.kanetix.ca/about_generic_about_us). 
 
 **How can you change your personal information?**   
-You can change your username (email address) and password online in the 'My _Kanetix_ ' section of the site or you can update your personal information by calling us at 1 (888) 854-2503, (416) 599-9779, or writing to us at [20 Camden Street, Toronto, Ontario, M5V 1V1](http://maps.google.ca/maps/place?cid=11970293001746376940). 
+You can change your username (email address) and password online in the 'My _Kanetix_ ' section of the site or you can update your personal information by calling us at 1 (888) 854-2503 or writing to us at [20 Camden Street, Toronto, Ontario, M5V 1V1](http://maps.google.ca/maps/place?cid=11970293001746376940). 
 
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us through our online form. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
