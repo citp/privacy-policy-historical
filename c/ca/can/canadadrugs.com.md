@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the canadadrugs.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119055421id_/http%3A//www.canadadrugs.com/policies/Privacy/82) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadadrugs.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506075557id_/http%3A//www.canadadrugs.com/policies/Privacy/82) for the most accurate reproduction.*
 
 # Canadian Pharmacy Online - Our Policies Frequently Asked Questions - CanadaDrugs.com
-
-[](http://capwiz.com/rxrights/issues/alert/?alertid=36823501&PROCESS=Take+Action)
 
   * ## [Frequently Asked Questions](http://www.canadadrugs.com/patient_services/)
 
@@ -13,7 +11,7 @@
 
 
 
-**Q. What is CanadaDrugs.com Privacy Policy?**
+**Q. What is the Canada Drugs Privacy Policy?**
 
 ### Introduction
 
@@ -114,6 +112,10 @@ Your Guarantee
 
 To provide a secure and safe shopping experience for all of our customers, CanadaDrugs.com is committed to meeting and exceeding all standards outlined by the leading [pharmacy accreditation organizations.](http://www.canadadrugs.com/accreditation.php)
 
+[](http://www.canadadrugs.com/accreditation.php) [](http://www.canadadrugs.com/accreditation.php) [](http://www.canadadrugs.com/accreditation.php) [](http://www.canadadrugs.com/accreditation.php)
+
+* All prices are subject to change at any time. [Exchange rates under license from XE.com](http://xe.com/). For questions regarding pricing and availability of products from CanadaDrugs.com you may call 1-800-226-3784.
+
 CanadaDrugs.com is licensed in the province of Manitoba by the Manitoba Pharmaceutical Association. License Number 32195  
 
 
@@ -122,15 +124,13 @@ Be advised that, given the international nature of the practice of International
 
 Manitoba pharmacists are not permitted to fill US physicians' prescriptions. They can only fill prescriptions issued by a physician licensed in a province or territory of Canada. M.Ph.A takes the position that it may be contrary to professional standards for a pharmacist to fill prescriptions by a physician, licensed in a province or territory of Canada, who has not established an acceptable patient physician relationship with you.
 
-* All prices are subject to change at any time. [Exchange rates under license from XE.com](http://xe.com/). For questions regarding pricing and availability of products from CanadaDrugs.com you may call 1-800-226-3784.
-
 CanadaDrugs.com LP is presently licensed in the province of Manitoba by the Manitoba  
 Pharmaceutical Association. License Number 32195
 
 CanadaDrugs.com Customer Care is located at: 24 Terracon Place, Winnipeg, Manitoba, Canada, R2J 4G7
 
-Copyright © 2011 CanadaDrugs.com. All rights reserved.
+Copyright © 2012 CanadaDrugs.com. All rights reserved.
 
 "Canada Drugs" and "CanadaDrugs.com" are registered trademarks used under exclusive license by CanadaDrugs.com Customer Care. All rights reserved.
 
-[Canada Drugs Home](http://www.canadadrugs.com/) | [All Products](https://web.archive.org/family/) | [Online Prescription Drugs](https://web.archive.org/prescription/) | [Buy Over The Counter Drugs](https://web.archive.org/otc/) | [Ordering Prescription Drugs Online](https://web.archive.org/new_orders/) | [Online Prescription Refill](https://web.archive.org/refills/) | [Online Pharmacy & Patient Services](https://web.archive.org/patient_services/) [Plavix](http://www.canadadrugs.com/family/Plavix/231/) | [Lipitor](http://www.canadadrugs.com/family/Lipitor/68/) | [Advair Diskus](http://www.canadadrugs.com/family/Advair/387/) | [Spiriva With Handihaler](http://www.canadadrugs.com/family/Spiriva%20With%20Handihaler/133/) | [Flomax](http://www.canadadrugs.com/family/Flomax/314/) | [Propecia](http://www.canadadrugs.com/family/Propecia/222/) [Effexor XR](http://www.canadadrugs.com/family/Effexor%20XR/219/) | [Actos](http://www.canadadrugs.com/family/Actos/51/) | [Zetia](http://www.canadadrugs.com/family/Zetia/149/) | [Lexapro](http://www.canadadrugs.com/family/Lexapro/845/) | [Aricept](http://www.canadadrugs.com/family/Aricept/364/) | [Cymbalta](http://www.canadadrugs.com/family/Cymbalta/850/) | [Motilium](http://www.canadadrugs.com/family/Motilium/1231/) | [Lamictal](http://www.canadadrugs.com/family/Lamictal/251/) | [Protonix](http://www.canadadrugs.com/family/Protonix/289/)
+[Canadian Pharmacy Home](http://www.canadadrugs.com/) | [All Products](https://web.archive.org/family/) | [Online Prescription Drugs](https://web.archive.org/prescription/) | [Buy Over The Counter Drugs](https://web.archive.org/otc/) | [Ordering Prescription Drugs Online](http://www.canadadrugs.com/new_orders/) | [Online Prescription Refill](https://web.archive.org/refills/) | [Online Pharmacy & Patient Services](https://web.archive.org/patient_services/) | [Plavix](http://www.canadadrugs.com/family/Plavix/231/) | [Lipitor](http://www.canadadrugs.com/family/Lipitor/68/) | [Advair Diskus](http://www.canadadrugs.com/family/Advair/387/) | [Spiriva With Handihaler](http://www.canadadrugs.com/family/Spiriva%20With%20Handihaler/133/) | [Flomax](http://www.canadadrugs.com/family/Flomax/314/) | [Propecia](http://www.canadadrugs.com/family/Propecia/222/) [Effexor XR](http://www.canadadrugs.com/family/Effexor%20XR/219/) | [Actos](http://www.canadadrugs.com/family/Actos/51/) | [Zetia](http://www.canadadrugs.com/family/Zetia/149/) | [Lexapro](http://www.canadadrugs.com/family/Lexapro/845/) | [Aricept](http://www.canadadrugs.com/family/Aricept/364/) | [Cymbalta](http://www.canadadrugs.com/family/Cymbalta/850/) | [Motilium](http://www.canadadrugs.com/family/Motilium/1231/) | [Lamictal](http://www.canadadrugs.com/family/Lamictal/251/) | [Protonix](http://www.canadadrugs.com/family/Protonix/289/)
