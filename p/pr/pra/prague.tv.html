@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the prague.tv privacy policy that was archived on 2011-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102001921id_/http%3A//prague.tv/about/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the prague.tv privacy policy that was archived on 2012-05-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120506064059id_/http%3A//prague.tv/about/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 
@@ -30,7 +30,7 @@
 <link rel="stylesheet" href="/css/new-header-adjustments.css" type="text/css" media="screen">
 <link rel="stylesheet" href="/js/colorbox/colorbox.css" type="text/css" media="screen">
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
 <script type="text/javascript" src="/js/colorbox/jquery.colorbox-min.js"></script>
 <script type="text/javascript" src="/js/shadowbox/shadowbox.js"></script>
 <script type="text/javascript" src="/js/jquery.MetaData.js"></script>
@@ -45,13 +45,22 @@
 		$(".signinfancybox").colorbox({
 			inline:true,
 			scrolling:false,
-			onOpen:function(){ $('object,embed').css('visibility','hidden'); },
+			onOpen:function(){
+				$('object,embed').css('visibility','hidden');
+				// document.getElementById('check_human').src = '/_v/captcha2.php?h=20&bg=99ffff'+Math.round((new Date()).getTime() / 1000);
+				},
 			onClosed:function(){
 				$("#login_error").hide();
 				$('object,embed').css('visibility','visible');
 				}
 		});
 		$.get("/token.php",function(txt){$(".secure").append('<input type="hidden" name="ts" value="'+txt+'" />');});
+
+		$('a.logged').click(function() {
+			$("#signinlink").trigger('click');
+			return false;
+		});
+
 	});
 	var options = {
 		handleOversize:		'drag',
@@ -95,11 +104,18 @@
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head>
 <body>
-<div id="aboveall"><span id="toptextlinks">
-	<a href="#formsignin" class="signinfancybox" rel="nofollow">Sign in</a> | <a href="#formregister" class="signinfancybox" title="Create your account" rel="nofollow">Register</a>
-	</span>
-	<span id="toptextad">&nbsp;<em>AD:</em> <a href="http://prague.tv/phpads/www/delivery/ck.php?oaparams=2__bannerid=1990__zoneid=402__cb=5383953988__maxdest=http://prague.tv/jobs" target="_blank">Prague Jobs: Are you seeking employment in Prague? Check our jobs section...</a><div id="beacon_1990" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://prague.tv/phpads/www/delivery/lg.php?bannerid=1990&amp;campaignid=1305&amp;zoneid=402&amp;loc=http%3A%2F%2Fprague.tv%2Fabout%2Fprivacy.php&amp;referer=http%3A%2F%2Fprague.tv%2Fabout%2Fprivacy.php&amp;cb=5383953988" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></span>
+<div style="position:absolute;z-index:299999;left:-9999px;">
 </div>
+
+<div id="aboveall"><span id="toptextlinks">
+
+
+	<a href="#formsignin" class="signinfancybox" id="signinlink" rel="nofollow">Sign in</a> | <a href="#formregister" class="signinfancybox" id="registerlink" title="Create your account" rel="nofollow">Register</a>
+
+	</span>
+	<span id="toptextad">&nbsp;<em>AD:</em> <a href="http://prague.tv/phpads/www/delivery/ck.php?oaparams=2__bannerid=1990__zoneid=402__cb=79bb7b77a5__maxdest=http://prague.tv/realestate" target="_blank">Prague Real Estate: Are you looking for a flat in Prague? Check our real estate section...</a><div id="beacon_1990" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://prague.tv/phpads/www/delivery/lg.php?bannerid=1990&amp;campaignid=1305&amp;zoneid=402&amp;loc=http%3A%2F%2Fprague.tv%2Fabout%2Fprivacy.php&amp;referer=http%3A%2F%2Fprague.tv%2Fabout%2Fprivacy.php&amp;cb=79bb7b77a5" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></span>
+</div>
+
 
 <div id="container">
 <div id="directoryMenu" class="directoryMenu" style="display: none;">
@@ -377,9 +393,18 @@
 <div id="header">
 <div style="position:absolute;z-index:999999;left:-9999px;"></div>
 <div id="header_content">
-	<div class="ptv_logo"><a href="http://prague.tv"><img src="/images/layout/logo.jpg" width="180" height="65" alt="Prague TV - Directory"></a></div>
+	<div class="ptv_logo"><a href="http://prague.tv"><img src="/images/layout/logo.gif" width="180" height="65" alt="Prague TV - Directory"></a></div>
 
-	<div id="top_ads"><a href="http://prague.tv/phpads/www/delivery/ck.php?oaparams=2__bannerid=2000__zoneid=140__cb=3154f4674f__maxdest=http://www.leadersmagazine.cz/" target="_blank"><img src="http://prague.tv/images/ads/728x90animated.gif" width="728" height="90" alt="Leaders Magazine" title="Leaders Magazine" border="0"></a><div id="beacon_2000" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://prague.tv/phpads/www/delivery/lg.php?bannerid=2000&amp;campaignid=1283&amp;zoneid=140&amp;loc=http%3A%2F%2Fprague.tv%2Fabout%2Fprivacy.php&amp;referer=http%3A%2F%2Fprague.tv%2Fabout%2Fprivacy.php&amp;cb=3154f4674f" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></div>
+	<div id="top_ads"><script type="text/javascript" src="http://prague.tv/phpads/www/delivery/fl.js"></script>
+<div id="ox_318ed18504669ce556616161a0490dfc" style="display: inline;"><img src="http://prague.tv/images/ads/1x1.gif" alt="Great Banking Service with a smile" title="Great Banking Service with a smile" border="0"></div>
+<script type="text/javascript"><!--// <![CDATA[
+var ox_swf = new FlashObject('http://prague.tv/images/ads/expat_center1_728x90.swf', 'Great Banking Service with a smile', '728', '90', '6');
+    ox_swf.addVariable('alink1', 'http%3A%2F%2Fprague.tv%2Fphpads%2Fwww%2Fdelivery%2Fck.php%3Foaparams%3D2__bannerid%3D1985__zoneid%3D140__cb%3D57af36ca53__maxdest%3Dhttp%3A%2F%2Fprague.tv%2Fvideo%2Fexpat-center%2F');
+    ox_swf.addVariable('atar1', '_blank');
+
+ox_swf.addParam('allowScriptAccess','always');
+ox_swf.write('ox_318ed18504669ce556616161a0490dfc');
+// ]]> --></script><div id="beacon_1985" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://prague.tv/phpads/www/delivery/lg.php?bannerid=1985&amp;campaignid=1302&amp;zoneid=140&amp;loc=http%3A%2F%2Fprague.tv%2Fabout%2Fprivacy.php&amp;referer=http%3A%2F%2Fprague.tv%2Fabout%2Fprivacy.php&amp;cb=57af36ca53" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></div>
 <div id="user_stuff" class="hidden">
 
 <form action="/about/privacy.php?" method="post">
@@ -456,6 +481,7 @@
 <!-- end of header -->
 <div class="hidden" id="formregisterdiv">
 	<form class="formregister" id="formregister" name="formregister" action="/users/register.php" method="post">
+		<input type="hidden" name="captchakey22" value="9,9,29,9">
 		<h3>Create your Prague TV account:</h3>
 		<div class="leftpart">
 			<label for="user_login">User name:<br>
@@ -481,9 +507,13 @@
 			<label for="lt_weekly"><input id="newuser_lt_weekly" class="regchkbox" type="checkbox" checked="checked" value="1" name="newuser[lt_weekly]"> Lime&amp;Tonic Weekly<br>
 			<span>Lime&amp;Tonic's Weekly email offers awesome deals at Prague's best places.</span></label>
 
-			<div class="centerthings">
+			<p><strong>Please enter the code in the box provided:</strong></p>
 
-				<input id="createaccount" type="image" src="/images/buttons/create-account-button.png" value="Create Your Account" name="createaccount">
+			<label for="captcha"><img src="/captcha/?randnew=9,9,29,9" alt=""> <input type="text" style="margin-left:16px;" name="captcha22" maxlength="6" size="8"></label>
+
+			<div class="centerthings">
+				<input id="email2" type="text" value="" name="email2" style="position:absolute; left:-500px;">
+				<input id="createaccount" type="image" src="/images/buttons/create-account-button.png" value="Create Your Account" name="createaccount"><br>
 				<img src="/images/praguetv-logotype-black.gif" alt="">
 			</div>
 		</div>
@@ -505,6 +535,7 @@
 			<input id="passtry" class="regtxt" type="password" value="" name="passtry"></label>
 
 			<div class="centerthings">
+				<input id="email2" type="text" value="" name="email2" style="position:absolute; left:-500px;">
 				<input id="sign-in" type="image" src="/images/buttons/sign-in-button.png" value="Sign in" name="sign-in">
 				<p><a href="/users/forgot.php">Forgotten your password?</a></p>
 			</div>
@@ -585,8 +616,8 @@ The following policy is intended to explain how your personal information will b
 
 
 	</div>
-
 <!-- end of main content -->
+
 
 <div id="third_col">
 <div id="main_search" class="sb">
@@ -611,9 +642,9 @@ The following policy is intended to explain how your personal information will b
 <div id="recent_gl">
 <h1>RECENT GOLD LISTINGS</h1>
 <div id="gl" class="sb">
-<p><img src="/venues/extras/wellness-yoga-studio/27397_100000938225220_1611_n.jpg" width="40" height="40" alt="Wellness Yoga Studio"><a href="http://prague.tv/prague/health/yoga-tai-chi/wellness-yoga-studio">Wellness Yoga Studio</a><br>Yoga for the whole family</p>
-<p><img src="/venues/extras/the-candy-store/logo_candy_store_rgb_slogan - Copy.jpg" width="40" height="40" alt="The Candy Store"><a href="http://prague.tv/prague/shopping/specialty-food-shops/the-candy-store">The Candy Store</a><br>Prague’s first true candy store...</p>
-<p><img src="/venues/extras/20497/thumb.mainpic.jpg" width="40" height="40" alt="Residence Invalidovna"><a href="http://prague.tv/prague/realestate/realestate-agencies/residence-prague">Residence Invalidovna</a><br>No commission apartments for rent</p>
+<p><img src="/venues/extras/galerie-harfa-shopping-mall/logo_duha-150x150.jpg" width="40" height="40" alt="Galeria Harfa"><a href="http://prague.tv/prague/shopping/shopping-centres/galerie-harfa-shopping-mall">Galeria Harfa</a><br>The biggest shopping &amp; administr...</p>
+<p><img src="/venues/extras/soave-ristorante/soave 150x150.jpg" width="40" height="40" alt="Ristorante Soave"><a href="http://prague.tv/prague/dining/restaurants-italian/soave-ristorante">Ristorante Soave</a><br>La cucina italiana</p>
+<p><img src="/venues/extras/century-21/c21-sm.jpg" width="40" height="40" alt="Century 21"><a href="http://prague.tv/prague/realestate/realestate-agencies/century-21-prague">Century 21</a><br>World Leader in Real Estate</p>
 </div>
 <div id="free_listing">
 <img src="/images/layout/green-arrow.gif" align="left" alt="free business listing"><a href="/advertise/get-listed.php">Get a free business listing</a>
@@ -623,45 +654,45 @@ The following policy is intended to explain how your personal information will b
 <div id="recent_articles" class="sb">
 <h1><strong>RECENT ARTICLES</strong></h1>
 <ul>
-<li class="metacat_articles"><a href="/articles/art-and-culture/i-still-have-some-strength-in-my-hands-respekt">'I Still Have Some Strength in My Hands'</a></li>
-<li class="metacat_articles"><a href="/articles/art-and-culture/interview-with-the-phantom-and-christina-too-opus-osm">Interview with the Phantom… and Christina, Too</a></li>
-<li class="metacat_articles"><a href="/articles/art-and-culture/from-one-extreme-to-another-respekt">From One Extreme to Another</a></li>
-<li class="metacat_articles"><a href="/articles/shopping/prague-fashion-weekend-2011-review">Prague Fashion Weekend 2011 Review</a></li>
-<li class="metacat_articles"><a href="/articles/health/prenatal-and-postnatal-yoga-wellness-yoga-studio">Prenatal and Postnatal Yoga</a></li>
-<li class="metacat_articles"><a href="/articles/business/rail-wars-radim-vancura-regiojet-respekt">Rail Wars</a></li>
-<li class="metacat_articles"><a href="/articles/sports/sharlston-rovers-welcome-czech-internationals-rugby-league-press-release">Sharlston Rovers Welcome Czech Internationals</a></li>
-<li class="metacat_articles"><a href="/articles/art-and-culture/art-imaging-brings-giclee-to-prague-press-release">Art Imaging Brings Giclée to Prague</a></li>
-<li class="metacat_articles"><a href="/articles/shopping/gallery-by-minty-concept-club">Gallery by Minty Concept Club</a></li>
-<li class="metacat_articles"><a href="/articles/art-and-culture/the-hip-bone-connects-to-the-opus-osm">The Hip Bone Connects to the...</a></li>
+<li class="metacat_articles"><a href="/articles/nightlife/this-week-in-prague-april-30-2012">This Week in Prague (April 30-May 6, 2012)</a></li>
+<li class="metacat_articles"><a href="/articles/nightlife/this-week-in-prague-april-23-2012">This Week in Prague (April 23-29, 2012)</a></li>
+<li class="metacat_articles"><a href="/articles/cinema/rok-konopi-press-release">Year of Mari©huana (Rok konopí)</a></li>
+<li class="metacat_articles"><a href="/articles/art-and-culture/cycle-to-work-campaign">Cycle to Work Campaign</a></li>
+<li class="metacat_articles"><a href="/articles/nightlife/this-week-in-prague-apr-16-2012">This Week in Prague (April 16-22, 2012)</a></li>
+<li class="metacat_articles"><a href="/articles/shopping/pietro-filipi-spring-summer-twenty-twelve-collection">Pietro Filipi Spring/Summer 2012</a></li>
+<li class="metacat_articles"><a href="/articles/art-and-culture/prague-youth-theatre-summer-courses">Prague Youth Theatre Summer Courses</a></li>
+<li class="metacat_articles"><a href="/articles/nightlife/this-week-in-prague-apr-9-2012">This Week in Prague (April 9-15, 2012)</a></li>
+<li class="metacat_articles"><a href="/articles/shopping/days-custom-meats">Day's Custom Meats</a></li>
+<li class="metacat_articles"><a href="/articles/shopping/spring-twenty-twelve-at-galerie-harfa">Spring 2012 at Galerie Harfa</a></li>
 </ul>
 </div>
 
 </div>
 <div id="fourth_col">
 <div id="fourth_col_add" class="sb"><script type="text/javascript" src="http://prague.tv/phpads/www/delivery/fl.js"></script>
-<div id="ox_e5844c172706234f64e839638ac5a5fa" style="display: inline;"><img src="http://prague.tv/images/ads/1x1.gif" alt="NUDE Fresh &amp; Juicy " title="NUDE Fresh &amp; Juicy " border="0"></div>
+<div id="ox_fa4ecaf84f639ec04d99956199fc23f8" style="display: inline;"><img src="http://prague.tv/images/ads/1x1.gif" alt="Prague's # 1 source for Czech news in English" title="Prague's # 1 source for Czech news in English" border="0"></div>
 <script type="text/javascript"><!--// <![CDATA[
-var ox_swf = new FlashObject('http://prague.tv/images/ads/drinfresh_banner.swf', 'NUDE Fresh & Juicy ', '120', '160', '9');
+var ox_swf = new FlashObject('http://prague.tv/images/ads/prague-monitor_120x160.swf', 'Prague&#039;s # 1 source for Czech news in English', '120', '160', '10');
     ox_swf.addVariable('clickTARGET', '_blank');
-    ox_swf.addVariable('clickTAG', 'http%3A%2F%2Fprague.tv%2Fphpads%2Fwww%2Fdelivery%2Fck.php%3Foaparams%3D2__bannerid%3D2009__zoneid%3D26__cb%3Dab35bc5794');
+    ox_swf.addVariable('clickTAG', 'http%3A%2F%2Fprague.tv%2Fphpads%2Fwww%2Fdelivery%2Fck.php%3Foaparams%3D2__bannerid%3D2184__zoneid%3D297__cb%3D1e0537cc25');
 
    ox_swf.addParam('wmode','transparent');
 ox_swf.addParam('allowScriptAccess','always');
-ox_swf.write('ox_e5844c172706234f64e839638ac5a5fa');
-// ]]> --></script><div id="beacon_2009" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://prague.tv/phpads/www/delivery/lg.php?bannerid=2009&amp;campaignid=1315&amp;zoneid=26&amp;loc=http%3A%2F%2Fprague.tv%2Fabout%2Fprivacy.php&amp;cb=ab35bc5794" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><br><br>
+ox_swf.write('ox_fa4ecaf84f639ec04d99956199fc23f8');
+// ]]> --></script><div id="beacon_2184" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://prague.tv/phpads/www/delivery/lg.php?bannerid=2184&amp;campaignid=1408&amp;zoneid=297&amp;loc=http%3A%2F%2Fprague.tv%2Fabout%2Fprivacy.php&amp;cb=1e0537cc25" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><br><br>
 <script type="text/javascript" src="http://prague.tv/phpads/www/delivery/fl.js"></script>
-<div id="ox_2f785ac3e290973b77ca9225414c5acf" style="display: inline;"><img src="http://prague.tv/images/ads/1x1.gif" alt="" title="" border="0"></div>
+<div id="ox_44dc251f95fa8eee652bf1c883c0c624" style="display: inline;"><img src="http://prague.tv/images/ads/1x1.gif" alt="" title="" border="0"></div>
 <script type="text/javascript"><!--// <![CDATA[
 var ox_swf = new FlashObject('http://prague.tv/images/ads/realest-120x600.v1.swf', 'Advertisement', '120', '600', '7');
-    ox_swf.addVariable('alink1', 'http%3A%2F%2Fprague.tv%2Fphpads%2Fwww%2Fdelivery%2Fck.php%3Foaparams%3D2__bannerid%3D816__zoneid%3D296__cb%3Df2f8c5e520__maxdest%3Dhttp%3A%2F%2Fprague.tv%2Frealestate');
+    ox_swf.addVariable('alink1', 'http%3A%2F%2Fprague.tv%2Fphpads%2Fwww%2Fdelivery%2Fck.php%3Foaparams%3D2__bannerid%3D816__zoneid%3D296__cb%3Dc0aa7adfa8__maxdest%3Dhttp%3A%2F%2Fprague.tv%2Frealestate');
     ox_swf.addVariable('atar1', '_self');
 
    ox_swf.addParam('wmode','transparent');
 ox_swf.addParam('allowScriptAccess','always');
-ox_swf.write('ox_2f785ac3e290973b77ca9225414c5acf');
-// ]]> --></script><div id="beacon_816" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://prague.tv/phpads/www/delivery/lg.php?bannerid=816&amp;campaignid=576&amp;zoneid=296&amp;loc=http%3A%2F%2Fprague.tv%2Fabout%2Fprivacy.php&amp;referer=http%3A%2F%2Fprague.tv%2Fabout%2Fprivacy.php&amp;cb=f2f8c5e520" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><div id="fourth_col_content" class="sb">
+ox_swf.write('ox_44dc251f95fa8eee652bf1c883c0c624');
+// ]]> --></script><div id="beacon_816" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://prague.tv/phpads/www/delivery/lg.php?bannerid=816&amp;campaignid=576&amp;zoneid=296&amp;loc=http%3A%2F%2Fprague.tv%2Fabout%2Fprivacy.php&amp;referer=http%3A%2F%2Fprague.tv%2Fabout%2Fprivacy.php&amp;cb=c0aa7adfa8" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div><div id="fourth_col_content" class="sb">
 <h2>DID YOU KNOW...</h2>
-<p class="small">You can use the <a href="/realestate/home-hunter.php" class="small">Home Hunter</a> to to easily find an apartment that fits exactly what you need.</p>
+<p class="small">Charles University is the oldest university in Central Europe - it was founded in 1348!</p>
 </div><div id="fourth_col_content_1" class="sb">
 <p class="small">See a bug?
 Want<br> to request a feature?<br><br>
@@ -691,8 +722,10 @@ roundedcorners.render('fourth_col_content_1');
 	| <a title="Advertising Information" href="/advertise/">Advertise</a>
 	| <a title="Privacy Policy" href="/about/privacy.php">Privacy</a>
 	| <a title="Terms of Service" href="/about/terms.php">Terms of Service</a></p>
-<p><strong>Prague TV is a Real Time Production.</strong> ©2011 All rights reserved.</p>
-<p><img src="/images/layout/baby-bottom.gif" alt="Prague Directory"></p>
+<p><strong>Prague TV is a Real Time Production.</strong> ©2012 All rights reserved.</p>
+
+	<p><img src="/images/layout/baby-bottom.gif" alt="Prague Directory"></p>
+
 </div>
 </div>
 <!-- end of content
@@ -706,7 +739,8 @@ roundedcorners.render('fourth_col_content_1');
 <div class="tooltip"></div>
 
 <div class="socialIcons">
-	<a class="connectLimeTonic" href="http://www.limeandtonic.com/prague/en/index.php" rel="nofollow" title="Sign up to receive Lime&amp;Tonic's awesome deals."></a>
+	<a class="connectPragueConnect" href="http://www.pragueconnect.cz/" target="_blank rel=" nofollow"="" title="Expat and Czech Business professional network"></a>
+	<a class="connectLimeTonic" href="http://www.limeandtonic.com/prague/en/index.php" target="_blank rel=" nofollow"="" title="Sign up to receive Lime&amp;Tonic's awesome deals."></a>
 	<a class="connectEmail" href="http://prague.tv/contact/" rel="nofollow" title="Contact PTV stuff"></a>
 	<a class="connectTwitter" href="http://www.twitter.com/praguetv" target="_blank" title="Follow Prague TV Twitter Feed"></a>
 	<a class="connectFacebook" href="http://www.facebook.com/prague.tv" target="_blank" title="Become a fan of Prague TV on our Facebook Fan Page"></a>
