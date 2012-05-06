@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the my-ptr.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422111404id_/http%3A//www.my-ptr.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my-ptr.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506171140id_/http%3A//my-ptr.com/pages/privacy.php%3FPHPSESSID%3D51aa36186a13c9f6da5aa366be5e266fzqqwrfzpcofnhyhrrybwgqrkuf171546) for the most accurate reproduction.*
 
 # my-ptr.com
 
@@ -27,4 +27,6 @@ We do not collect online contact information without prior parental consent or p
 **Correct/Update:**  
 my-ptr.comgives users the following options for changing and modifying information previously provided. Affiliates Area - log-in and change your personal information. Contacting the Web Site If you have any questions about this privacy statement, the practices of this site, or your dealings with my-ptr.com, you can [Contact Us](http://my-ptr.com/pages/contact.php).  
   
----|---
+---|---  
+  
+
