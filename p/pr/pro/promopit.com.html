@@ -1,0 +1,265 @@
+<!--The following is the downloaded HTML source of the promopit.com privacy policy that was archived on 2012-05-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120506115018id_/http%3A//www.promopit.com/privacy_policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    
+	<title>PromoPit - Digital product marketplace</title>
+	<meta name="description" content="Get up to 95% OFF on digital products and services! New deals every 6 hours at PromoPit.com!">
+	
+	<link rel="stylesheet" type="text/css" href="/css/reset.css">
+	<link rel="stylesheet" type="text/css" href="/css/styles.css">
+	<link rel="icon" href="/images/favicon.png" type="image/png">
+	<!-- <script type="text/javascript" src="http://code.jquery.com/jquery-1.6.2.min.js"></script> 
+	<script type="text/javascript" src="/js/jquery-1.5.1.min.js"></script>-->
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	<script type="text/javascript" src="/js/jquery.scrollTo-min.js"></script>
+	<script type="text/javascript" src="/js/jquery.easing.1.3.js"></script>
+	<link rel="stylesheet" media="screen" type="text/css" href="/colorpicker/css/colorpicker.css">
+	<script type="text/javascript" src="/colorpicker/js/colorpicker.js"></script>
+
+
+</head>
+<body>
+	<div id="wrapper" style="position:relative;">	
+		<div id="prehead">
+			<div id="premenu_cont" style="position:relative;">
+				<div id="premenu">
+					
+					
+					
+					<a href="javascript:void(0);" id="login_link" onclick="login_drop_click()">Login</a>
+					<a href="/register">Create an Account</a>
+					<a href="/support-docs">Support</a>
+				</div>
+			</div>
+		</div>
+		<div id="headwrap">
+			<div id="header">
+				<a id="logo" href="/"></a>
+				<div id="menu">
+					<div id="m1">
+					
+						<a href="/marketplace" class="">MARKETPLACE</a>
+						
+							<a href="/merchants" class=" ">START SELLING</a>
+							
+							<a href="/affiliates" class=" ">EARN COMMISSIONS</a>
+							
+					</div>
+				</div>
+				<div id="login_form" style="display:none;">
+					
+		<table cellpadding="0" cellspacing="0" border="0" class="login_table table_cell_style">
+			<tbody><tr>
+				<td>
+					<div id="login_mes"></div>
+					Username<br>
+					<input type="text" class="input" id="login_drop_username" name="username" value="">
+				</td>
+			</tr>
+			<tr>
+				<td>Password<br><input type="password" class="input" id="login_drop_password" name="password" value=""></td>
+			</tr>
+			<tr>
+				<td><input type="submit" name="submit" id="login_drop_submit" value="Login" onclick="login_drop_submit();"></td>
+			</tr>
+			<tr>
+				<td>Don't have an account? <a href="/register">Create one</a></td>
+			</tr>
+			<tr>
+				<td>Problems logging in? <a href="/password_reset">Click here</a></td>
+			</tr>
+		</tbody></table>
+	<script type="text/javascript">
+	
+		function login_drop_submit() {
+			var username = $("#login_drop_username").val();
+			var password = $("#login_drop_password").val();
+		
+			$.get("/index.php?a=login_proc_m&username="+username+"&password="+password, function(data) {
+				//alert(data);
+				if(data == '-9') {
+					$('#login_mes').html('Incorrect username or password');
+					return false;
+				}
+				if(data == '0') {
+					//$('#login_mes').html('Account requires activation');
+					location.href = '/index.php?a=register_done';
+					return false;
+				}				
+				if(data == '1') {
+					if(window.location.pathname == '/' || window.location.pathname == '/login') {
+						location.href = '/myaccount';
+					} else {
+						location.href = window.location.pathname.replace("mc=","mc_r=");
+						return false;
+					}
+				}
+			});
+		}
+		
+	    $('.input').keypress(function(e) {
+	        if(e.which == 13) {
+	            $(this).blur();
+	            $('#login_drop_submit').focus().click();
+	        }
+	    });
+
+	</script>
+	
+				</div>
+			</div>
+		</div>
+		<script type="text/javascript">
+			function login_drop_click() {
+				if($('#login_form').is(':visible')) { 
+					$('#login_link').removeClass('loginclick'); 
+					$('#login_form').fadeOut(); 
+				} else { 
+					$('#login_link').addClass('loginclick'); 
+					$('#login_form').fadeIn(); 
+					$('#login_drop_username').focus(); 
+				}
+			}
+			function logout_drop_click() {
+				$.get("index.php?a=logout_proc_m", function(data) {				
+					if(data == '1') {
+						//location.reload(true);
+						location.href = '/login?mc=101';
+					}
+				});
+			}
+		</script>
+		
+		<div id="content">
+		<div id="content_left"><h1>privacy policy</h1>
+<p>
+    Logiscape Technologies Inc. (the company that owns and operates promopit) takes privacy extremely seriously.  The following outlines the information that we collect and how this information is handled.<br>
+</p>
+    <h3><strong>1. Information collected at time of registration.</strong></h3>
+    <p>In order to use the promopit website and services, you must first register for a free account. The registration process requires some personal information such as name and email address, along with some voluntary information that the user may provide to improve their experience on the promopit website.</p>
+    <p>All information collected (including the users login details) is stored on our secured servers that are within datacenters that employ the most stringent security measures available. In other words, your data is completely safe with us!<br>
+    </p>
+    <h3><strong>2. Handling of the data collected</strong></h3>
+    <p>First and foremost, Logiscape Technologies Inc. will never share, rent, sell, or otherwise give away any of your personal information unless required to do so by law.</p>
+    <p>Furthermore, all employees have access to only the information they require to do their job effectively. Some details, such as login passwords, are completely encrypted on our servers and are therefore NOT accessible to ANY employees of Logiscape Technologies Inc.<br>
+    </p>
+    <h3><strong>3. Data collected when making a purchase</strong></h3>
+    <p>Logiscape Technologies Inc. uses Paypal to handle all of it's transactions on the promopit website. As such, all personal information entered while making a purchase is being handled by Paypal on their secure gateway. Logiscape Technologies Inc. does NOT have any access to your credit card number, Paypal account, or other data that you supply to Paypal while making your purchase. For further details on how Paypal handles your information, please refer to the Paypal website directly.<br>
+    </p>
+    <h3><strong>4. Other minor data that is collected automatically</strong></h3>
+    <p>In order to provide the best possible experience for all users of the promopit program, Logiscape Technologies Inc. collects data at several points throughout the promopit website.<br>
+    </p>
+    <blockquote>
+      <p><strong>4.1 User flow through the promopit website</strong></p>
+      <p>As a user moves around on the promopit website, some information may be collected and used to provide a better and more personalized experience for the user over time. The information gathered is only for generating patterns of interest so that we can provide the user with useful infomation that is targeted better to their own interests. This infomation is ONLY to provide a better experience for the user and is never shared with any third party.<br>
+      </p>
+      <p><strong>4.2 Tracking for security purposes</strong></p>
+      <p>Some information is also collected for security measures. For instance, we will track and record login attempts, IP addresses, and user activity on the promopit website as part of our security protocol to ensure that members' accounts remain safe and secure.<br>
+      </p>
+      <p><strong>4.3 The use of cookies</strong></p>
+      <p>A cookie is a piece of information that is stored on a user's computer and can serve many purposes. We use cookies to preserve a user's login (so they don't have to login over and over again), and also to set a sponsor id on a new user coming to the site for the first time (so that the sponsor is credited should this user register for an account - as per our affiliate program). Other uses for cookies all relate to providing a smooth user experience while using the promopit website.</p>
+      <p>Under NO circumstances will the cookies be harmful to your computer or jeopardize your privacy or security online.</p>
+      <p>Although a user can turn cookies OFF on their computer (a browser setting), it is highly recommended that you allow cookies to be placed by promopit so that you can use the promopit website without interruption or annoyance.<br>
+        <br>
+        </p>
+    </blockquote>
+    <h3>      <strong>Summary
+      </strong></h3>
+    <p>Overall, please rest assured that any information you provide to Logiscape Technologies Inc. will remain in the strictect confidence and will only be used in relation to your direct involvement with the promopit website.</p>
+    <p>If any changes are made to our privacy policy, all users will be made aware of such changes through an email notification and posted message on the promopit website. Continued use of promopit following such changes would indicate your acceptance of the new privacy policy in its entirety.<br>
+    </p>
+    <p>Please contact our dedicated support team if you have any questions or concerns about our privacy policy or any other aspect of the promopit website.</p>
+</div>
+			<div style="clear:both;"></div>
+		</div><!-- #content -->
+		<div id="footer_cont">
+			<div id="footer">
+				<a href="http://www.logiscape.com" target="_blank" id="logiscape_logo"></a>
+				<ul>
+					<li><h4>Marketplace</h4></li>
+					<li><a href="/docs/marketplace/how-it-works">How it works</a></li>
+					<li><a href="/docs/merchants">How to sell</a></li>
+					<li><a href="/docs/marketplace/free-products">Get FREE products</a></li>
+					<li><a href="/marketplace">Featured promos</a></li>
+					<li><a href="/marketplace">Latest promos</a></li>
+					
+				</ul>
+				<ul>
+					<li><h4>Merchants</h4></li>
+					<li><a href="/merchants">Sell your products</a></li>
+					<li><a href="/docs/marketplace/how-promos-work">How promos work</a></li>
+					<li><a href="/docs/merchants/product-giveaways">Product giveaways</a></li>
+					<li><a href="/merchants">Account types</a></li>
+					<li><a href="/merchants">Selling fees</a></li>
+					<li><a href="/merchants">Learn more</a></li>
+				</ul>
+				<ul>
+					<li><h4>Affiliates</h4></li>
+					<li><a href="/docs/affiliates">Learn more</a></li>
+					<li><a href="/docs/affiliates/earning-commissions">Earn commissions</a></li>
+					
+				</ul>
+				<ul>
+					<li><h4>Goodies</h4></li>
+					<li><a href="/docs/api">PromoPit API</a></li>
+					<li><a href="/docs/affiliates/using-widgets">PromoPit Widgets</a></li>
+				</ul>
+				<ul>
+					<li><h4>Support</h4></li>
+					<li><a href="/docs">Documentation</a></li>
+					<li><a href="/support">Contact us</a></li>
+				</ul>
+				<ul class="last">
+					<li><h4>Legal Stuff</h4></li>
+					<li><a href="/user_agreement">User Agreement</a></li>
+					<li><a href="/user_agreement#refund_policy">Refund Policy</a></li>
+					<li><a href="/privacy_policy">Privacy Policy</a></li>
+					<li><a href="http://logiscape.com" target="_blank">Corporate Relations</a></li>
+				</ul>
+	
+			</div>
+		</div>
+	</div><!-- #wrapper -->
+	
+	<script type="text/javascript">
+		function share_facebook() {
+			var URL = "http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.promopit.com%2Fmarketplace%2Fproduct%2F";
+			day = new Date();
+			id = day.getTime();
+			eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=480,height=400,left = 483,top = 184');");
+		}
+		function share_twitter(mes) {
+			var URL = "https://twitter.com/intent/tweet?status="+mes+"%20http%3A%2F%2Fwww.promopit.com%2Fmarketplace%2Fproduct%2F&url=http%3A%2F%2Fwww.promopit.com%2Fmarketplace%2Fproduct%2F";
+			day = new Date();
+			id = day.getTime();
+			eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=400,height=400,left = 483,top = 184');");
+		}
+		
+		function share_twitter_general(mes) {
+			var URL = "https://twitter.com/intent/tweet?status="+mes+"%20http%3A%2F%2Fwww.promopit.com&url=http%3A%2F%2Fwww.promopit.com%2Fmarketplace%2Fproduct%2F";
+			day = new Date();
+			id = day.getTime();
+			eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=400,height=400,left = 483,top = 184');");
+		}
+		
+		function ismaxlength_ps(obj,id){
+			var mlength=obj.getAttribute? parseInt(obj.getAttribute("maxlength")) : ""
+			if (obj.getAttribute && obj.value.length>mlength)
+			obj.value=obj.value.substring(0,mlength);
+			
+			document.getElementById('charmax_'+id).innerHTML = (mlength-obj.value.length);
+			if(obj.value.length > 100) {
+				//document.getElementById('ps_'+id+'_text').style.height = '120px';
+			} else {
+				//document.getElementById('ps_'+id+'_text').style.height = '60px';
+			}
+		}
+
+
+
+	</script>
+
+
+</body></html>
