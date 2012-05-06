@@ -1,100 +1,873 @@
-<!--The following is the downloaded HTML source of the alphacoders.com privacy policy that was archived on 2010-01-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100102003447id_/http%3A//www.alphacoders.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alphacoders.com privacy policy that was archived on 2012-05-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120507001534id_/http%3A//alphacoders.com/site/privacy) for the most accurate reproduction.-->
 
-<html><head>
-<link rel="stylesheet" type="text/css" href="styles.css">
-<title>
-Alpha Coders - free games, wallpapers, and jokes.
-</title>
-<meta name="description" content="Alpha Coders - free games, wallpapers, and jokes">
-<meta name="Keywords" content="Alpha Coders, games, wallpapers, jokes">
-</head>
-<body class="alphacoders" alink="#6c8d21" link="#6c8d21" vlink="#6c8d21">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
+        <title>
+            Alpha Coders - Privacy Policy        </title>
+        <meta name="keywords" content="art,wallpaper,wallpapers,backgrounds,quote,quotes,entertainment">
 
-<center>
-<table width="80%" cellpadding="0" cellspacing="0" border="0" height="70">
-	<tbody><tr valign="middle">
-		<td>
-        	<a href="http://www.alphacoders.com"><img src="alpha_coders_med.png" align="left" border="0"></a>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="index.php"><img src="home.png" border="0"></a>&nbsp;&nbsp;<a href="contact.html"><img src="contact.png" border="0"></a>&nbsp;&nbsp;<a href="faq.html"><img src="faq.png" border="0"></a>
+        <meta name="description" content="Enjoy art, wallpapers, and quotes!">
+
+        <link href="http://alphacoders.com/css/site.css" rel="stylesheet" type="text/css"><link href="http://alphacoders.com/favicon.ico" rel="shortcut icon" type="image/ico">
+
+        <script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://static.alphacoders.com/jquery.js"></script>
+
+        <script type="text/javascript" src="http://static.alphacoders.com/ckeditor/ckeditor.js"></script>
+            
+        
+
+        
+<script type="text/javascript" src="http://images2.alphacoders.com/jquery.tools.min.js"></script>
+<script type="text/Javascript" src="http://static.alphacoders.com/jquery.masonry.min.js"></script>
+
+ <script type="text/javascript">
+
+    function addArtTagForm(art_id)
+    {
+        $.post("http://alphacoders.com/arts/tag_form",
+            {  art_id: art_id },
+             function(data){
+                    $("#" + art_id + "_tag").html(data);
+         });
+    }
+
+    function addTagForm(wallpaper_id)
+    {
+        $.post("http://alphacoders.com/wallpapers/tag_form",
+            {  wallpaper_id: wallpaper_id },
+             function(data){
+                    $("#" + wallpaper_id + "_tag").html(data);
+         });
+    }
+
+    function fan_user(id)
+    {
+        $.post("http://alphacoders.com/users/add_fan",
+            { id: id },
+             function(data){
+                    $("#fan_user").html(data);
+         });
+    }
+
+    function favorite_wallpaper(id) {
+        $.post("http://alphacoders.com/wallpapers/favorite",
+            { id: id},
+            function(data) {
+                $("fav_wallpaper_" + id).html(data);
+            });
+    }
+
+    function unfan_user(id)
+    {
+        $.post("http://alphacoders.com/users/delete_fan",
+        { id: id},
+        function(data) {
+            $("#fan_user").html(data);
+        });
+    }
+
+    function submitArtTags(art_id)
+    {
+            var tags = $("input#new_tag").val();
+            $.post("http://alphacoders.com/arts/submit_tags",
+            { tag: tags, id: art_id },
+             function(data){
+                    $("#" + art_id + "_tag").html(data);
+         });
+    }
+
+    function submitTags(wallpaper_id)
+    {
+            var tags = $("input#new_tag").val();
+            $.post("http://alphacoders.com/wallpapers/submit_tags",
+            { tag: tags, id: wallpaper_id },
+             function(data){
+                    $("#" + wallpaper_id + "_tag").html(data);
+         });
+    }
+
+    </script>
+
+
+<script type="text/javascript">
+			$(document).ready(function(){
+				//To switch directions up/down and left/right just place a "-" in front of the top/left attribute
+				//Vertical Sliding
+				$('.boxgrid.slidedown').hover(function(){
+					$(".cover", this).stop().animate({top:'-260px'},{queue:false,duration:300});
+				}, function() {
+					$(".cover", this).stop().animate({top:'0px'},{queue:false,duration:300});
+				});
+				//Horizontal Sliding
+				$('.boxgrid.slideright').hover(function(){
+					$(".cover", this).stop().animate({left:'325px'},{queue:false,duration:300});
+				}, function() {
+					$(".cover", this).stop().animate({left:'0px'},{queue:false,duration:300});
+				});
+				//Diagnal Sliding
+				$('.boxgrid.thecombo').hover(function(){
+					$(".cover", this).stop().animate({top:'260px', left:'325px'},{queue:false,duration:300});
+				}, function() {
+					$(".cover", this).stop().animate({top:'0px', left:'0px'},{queue:false,duration:300});
+				});
+				//Partial Sliding (Only show some of background)
+				$('.boxgrid.peek').hover(function(){
+					$(".cover", this).stop().animate({top:'90px'},{queue:false,duration:160});
+				}, function() {
+					$(".cover", this).stop().animate({top:'0px'},{queue:false,duration:160});
+				});
+				//Full Caption Sliding (Hidden to Visible)
+				$('.boxgrid.captionfull').hover(function(){
+					$(".cover", this).stop().animate({top:'160px'},{queue:false,duration:160});
+				}, function() {
+					$(".cover", this).stop().animate({top:'260px'},{queue:false,duration:160});
+				});
+				//Caption Sliding (Partially Hidden to Visible)
+				 $('.boxgrid.caption').hover(function(){
+            var the_top = parseInt($(this).attr('id')) - 63;
+            var the_top_hidden = the_top + 43;
+            var the_top_string = String(the_top + "px");
+            var the_top_hidden_string = String(the_top_hidden + "px");
+            $(".cover", this).stop().animate({top: the_top_string },{queue:false,duration:160});
+    }, function() {
+            var the_top = parseInt($(this).attr('id')) - 63;
+            var the_top_hidden = the_top + 63;
+            var the_top_string = String(the_top + "px");
+            var the_top_hidden_string = String(the_top_hidden + "px");
+            $(".cover", this).stop().animate({top: the_top_hidden_string },{queue:false,duration:160});
+    });
+			});
+		</script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-281956-21']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+    </head>
+<body class="main">
+
+<div class="ac_wrapper">
+<div class="ac_header">
+  <div class="ac_header_top">
+    <table class="ac_header_top">
+      <tbody><tr>
+        <td>
+          <a href="http://alphacoders.com/"><img src="http://alphacoders.com/images/alpha_coders_med.png" class="ac_no_border" alt=""></a>
         </td>
-    </tr>
-</tbody></table>
+                       <td>
+                              <table>
+            <tbody><tr>
+
+              <td>
+
+                <strong>
+                    <a href="http://alphacoders.com/users/login" class="sign_in">Sign in</a>                     <span class="title"> | </span>
+                <a href="http://alphacoders.com/users/register" class="sign_in">Register</a>                </strong>
+
+              </td>
+
+            </tr>
+          </tbody></table>
+                  </td>
+      </tr>
+    </tbody></table>
+  </div>
+</div>
 
 
-<table width="50%">
-<tbody><tr>
-	<td width="40%">&nbsp;
-    	
+</div>
+         <style type="text/css">
+/* Navigation Bar */
+
+#menu {
+    list-style:none;
+    width:900px;
+    margin:10px auto 10px auto;
+    height:43px;
+    padding:0px 20px 0px 20px;
+    border-radius:8px;
+
+    /* Rounded Corners */
+
+
+    /* Background color and gradients */
+
+    background: #014464;
+    background: -moz-linear-gradient(top, #FDFDFD, #E4E4E4);
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#FDFDFD), to(#E4E4E4));
+
+    /* Borders */
+
+    border: 1px solid #EEEEEE;
+
+    -moz-box-shadow:inset 0px 0px 1px #edf9ff;
+    -webkit-box-shadow:inset 0px 0px 1px #edf9ff;
+    box-shadow:inset 0px 0px 1px #edf9ff;
+
+    z-index:99999;
+}
+
+#menu li {
+    float:left;
+    text-align:center;
+    position:relative;
+    padding: 4px 10px 4px 10px;
+    margin-right:30px;
+    margin-top:7px;
+    border:none;
+}
+
+#menu li:hover {
+    border: 1px solid #777777;
+    padding: 4px 9px 4px 9px;
+
+    /* Background color and gradients */
+
+    background: #F4F4F4;
+    background: -moz-linear-gradient(top, #FDFDFD, #E4E4E4);
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#FDFDFD), to(#E4E4E4));
+
+    /* Rounded corners */
+
+    -moz-border-radius: 5px 5px 0px 0px;
+    -webkit-border-radius: 5px 5px 0px 0px;
+    border-radius: 5px 5px 0px 0px;
+
+    z-index:99999;
+}
+
+#menu li a {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:14px;
+    color: #444444;
+    display:block;
+    outline:0;
+    text-decoration:none;
+    text-shadow: 1px 1px 1px #FFF;
+}
+
+#menu li:hover a {
+    color:#161616;
+    text-shadow: 1px 1px 1px #FFFFFF;
+}
+#menu li .drop {
+    padding-right:21px;
+    background:url("img/drop.png") no-repeat rightright 8px;
+}
+#menu li:hover .drop {
+    background:url("img/drop.png") no-repeat rightright 7px;
+}
+
+/* Drop Down */
+
+.dropdown_1column,
+.dropdown_2columns,
+.dropdown_3columns,
+.dropdown_4columns,
+.dropdown_5columns {
+    margin:4px auto;
+    float:left;
+    position:absolute;
+    left:-999em; /* Hides the drop down */
+    text-align:left;
+    padding:10px 5px 10px 5px;
+    border:1px solid #777777;
+    border-top:none;
+
+    /* Gradient background */
+    background:#F4F4F4;
+    background: -moz-linear-gradient(top, #FDFDFD, #E4E4E4);
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#FDFDFD), to(#E4E4E4));
+
+    /* Rounded Corners */
+    -moz-border-radius: 0px 5px 5px 5px;
+    -webkit-border-radius: 0px 5px 5px 5px;
+    border-radius: 0px 5px 5px 5px;
+
+    z-index:99999;
+}
+
+.dropdown_1column {width: 140px;}
+.dropdown_2columns {width: 280px;}
+.dropdown_3columns {width: 420px;}
+.dropdown_4columns {width: 560px;}
+.dropdown_5columns {width: 700px;}
+
+#menu li:hover .dropdown_1column,
+#menu li:hover .dropdown_2columns,
+#menu li:hover .dropdown_3columns,
+#menu li:hover .dropdown_4columns,
+#menu li:hover .dropdown_5columns {
+    left:-1px;
+    top:auto;
+}
+
+/* Columns */
+
+.col_1,
+.col_2,
+.col_3,
+.col_4,
+.col_5 {
+    display:inline;
+    float: left;
+    position: relative;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.col_1 {width:130px;}
+.col_2 {width:270px;}
+.col_3 {width:410px;}
+.col_4 {width:550px;}
+.col_5 {width:690px;}
+
+/* Right alignment */
+
+#menu .menu_right {
+    float:rightright;
+    margin-right:0px;
+}
+#menu li .align_right {
+    /* Rounded Corners */
+    -moz-border-radius: 5px 0px 5px 5px;
+    -webkit-border-radius: 5px 0px 5px 5px;
+    border-radius: 5px 0px 5px 5px;
+}
+#menu li:hover .align_right {
+    left:auto;
+    rightright:-1px;
+    top:auto;
+}
+
+/* Drop Down Content Stylings */
+
+#menu p, #menu h2, #menu h3, #menu ul li {
+    font-family:Arial, Helvetica, sans-serif;
+    line-height:21px;
+    font-size:12px;
+    text-align:left;
+
+}
+#menu h2 {
+    font-size:21px;
+    font-weight:400;
+    letter-spacing:-1px;
+    margin:7px 0 14px 0;
+    padding-bottom:14px;
+    border-bottom:1px solid #666666;
+}
+#menu h3 {
+    font-size:14px;
+    margin:7px 0 14px 0;
+    padding-bottom:7px;
+    border-bottom:1px solid #888888;
+}
+#menu p {
+    line-height:18px;
+    margin:0 0 10px 0;
+}
+
+#menu li:hover div a {
+    font-size:12px;
+    color:#015b86;
+}
+#menu li:hover div a:hover {
+    color:#029feb;
+}
+.strong {
+    font-weight:bold;
+}
+.italic {
+    font-style:italic;
+}
+.imgshadow {
+    background:#FFFFFF;
+    padding:4px;
+    border:1px solid #777777;
+    margin-top:5px;
+    -moz-box-shadow:0px 0px 5px #666666;
+    -webkit-box-shadow:0px 0px 5px #666666;
+    box-shadow:0px 0px 5px #666666;
+}
+.img_left { /* Image sticks to the left */
+    width:auto;
+    float:left;
+    margin:5px 15px 5px 5px;
+}
+#menu li .black_box {
+    background-color:#333333;
+    color: #eeeeee;
+    text-shadow: 1px 1px 1px #000;
+    padding:4px 6px 4px 6px;
+
+    /* Rounded Corners */
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+
+    /* Shadow */
+    -webkit-box-shadow:inset 0 0 3px #000000;
+    -moz-box-shadow:inset 0 0 3px #000000;
+    box-shadow:inset 0 0 3px #000000;
+}
+#menu li ul {
+    list-style:none;
+    padding:0;
+    margin:0 0 12px 0;
+}
+#menu li ul li {
+    font-size:12px;
+    line-height:24px;
+    position:relative;
+    text-shadow: 1px 1px 1px #ffffff;
+    padding:0;
+    margin:0;
+    float:none;
+    text-align:left;
+    width:130px;
+}
+#menu li ul li:hover {
+    background:none;
+    border:none;
+    padding:0;
+    margin:0;
+}
+#menu li .greybox li {
+    background:#F4F4F4;
+    border:1px solid #bbbbbb;
+    margin:0px 0px 4px 0px;
+    padding:4px 6px 4px 6px;
+    width:116px;
+
+    /* Rounded Corners */
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+#menu li .greybox li:hover {
+    background:#ffffff;
+    border:1px solid #aaaaaa;
+    padding:4px 6px 4px 6px;
+    margin:0px 0px 4px 0px;
+}
+    </style>
+
+<ul id="menu">
+
+    <li><a style="font-size:16px; font-weight:bold;" href="http://alphacoders.com" class="drop">Home</a><!-- Begin Home Item -->
+
+        <div class="dropdown_2columns"><!-- Begin 2 columns container -->
+
+            <div class="col_2">
+                <h2>Welcome !</h2>
+            </div>
+
+            <div class="col_2">
+                <p>Hello and welcome to Alpha Coders! We are mostly made up of community-based websites, with a few services thrown into the mix.</p>
+
+            </div>
+
+            <div class="col_2">
+                <h2>Enjoy !</h2>
+                <p>Whether you just enjoy browsing around, or are a content submitter, we want you to enjoy your stay here at Alpha Coders.</p>
+            </div>
+
+        </div><!-- End 2 columns container -->
+
+    </li><!-- End Home Item -->
+
+
+
+    <li><a style="font-size:16px; font-weight:bold;" href="#" class="drop">Our Websites</a><!-- Begin 4 columns Item -->
+
+        <div class="dropdown_4columns"><!-- Begin 4 columns container -->
+
+            <div class="col_4">
+                <h2>We Have a Bunch of Awesome Stuff!</h2>
+            </div>
+
+            <div class="col_2">
+
+                <h2>The Abyss Family</h2>
+<h3><a style="font-size:14px; text-shadow:none;" href="http://wall.alphacoders.com">Wallpaper Abyss - 143391 Wallpapers</a></h3>
+<h3><a style="font-size:14px; text-shadow:none;" href="http://art.alphacoders.com">Art Abyss - 30548 Art Pieces</a></h3>
+<h3><a style="font-size:14px; text-shadow:none;" href="http://photos.alphacoders.com">Photography Abyss - 5326 Photos</a></h3>
+<h3><a style="font-size:14px; text-shadow:none;" href="http://avatars.alphacoders.com">Avatar Abyss - 7020 Forum Avatars</a></h3>
+<h3><a style="font-size:14px; text-shadow:none;" href="http://quote.alphacoders.com">Quote Abyss - 1400 Quotes</a></h3>
+<h3><a style="font-size:14px; text-shadow:none;" href="http://flash.alphacoders.com">Flash Abyss - 13133 Flash Games</a></h3>
+<h3><a style="font-size:14px; text-shadow:none;" href="http://blogs.alphacoders.com">Blog Abyss - 63 Blog Entries</a></h3>
+<h3><a style="font-size:14px; text-shadow:none;" href="http://img.alphacoders.com">Img Abyss - Image Sharing/Hosting</a></h3>
+            </div>
+
+
+            <div class="col_2">
+
+                <h2>More Websites</h2>
+<h3><a style="font-size:14px; text-shadow:none;" href="http://neo.alphacoders.com">Neo Colony - Custom Communities!</a></h3>
+<h3><a style="font-size:14px; text-shadow:none;" href="http://ping.alphacoders.com">Up Ping - Monitor Your Website</a></h3>
+            </div>
+        </div><!-- End 4 columns container -->
+
+    </li><!-- End 4 columns Item -->
+
+    <li><a style="font-size:16px; font-weight:bold;" href="#" class="drop">Our Community</a><!-- Begin 4 columns Item -->
+
+        <div class="dropdown_2columns"><!-- Begin 4 columns container -->
+
+            <div class="col_2">
+                <h2>Our Community Grows Every Day</h2>
+            </div>
+
+            <div class="col_1">
+
+                <h3>Our Community</h3>
+                <ul class="greybox">
+                                        <li><a href="http://alphacoders.com/users/top">47298 Users</a></li>
+                    <li><a href="http://forum.alphacoders.com">Forums</a></li>
+
+                    <li><a href="http://wiki.alphacoders.com">Our Wiki</a></li>
+                    <li><a href="http://alphacoders.com/site/moderators">Our Moderator Team</a></li>
+                </ul>
+
+            </div>
+        </div>
+    </li>
+
+
+    <li><a style="font-size:16px; font-weight:bold;" href="#" class="drop">Our Cool Stuff!</a><!-- Begin 3 columns Item -->
+
+        <div class="dropdown_3columns"><!-- Begin 3 columns container -->
+
+            <div class="col_3">
+                <h2>Monthly Contests !</h2>
+            </div>
+
+             <div class="col_3">
+                <div class="col_3">
+                <img src="http://static.alphacoders.com/raffle-Rubiks-Cube-Coasters.png" class="img_left imgshadow" style="width:50px;" alt="">                      <p>It's a Raffle! For this lovely: <a href="http://www.thinkgeek.com/interests/giftsunder20/e866/" style="display:inline;">Rubiks Cube Coasters</a>  Anyone with points can enter the raffle or suggest future items! Enter, and view full details <a href="http://alphacoders.com/contests/current_raffle" style="display:inline;">here</a></p>
+                      
+
+             </div>
+
+             <div class="col_3">
+                <h2>Earn By Participating !</h2>
+                </div>
+
+                 <div class="col_3">
+                     <img src="http://alphacoders.com/images/up.png" class="img_left imgshadow" alt="">
+                     <p>Earn <strong>AC Points</strong> by participating in our community! The points can be used in our monthly raffles!</p>
+                 </div>
+
+                 <div class="col_3">
+                     <img style="width:30px;" src="http://alphacoders.com/images/moderate.png" class="img_left imgshadow" alt="">
+                     <p>Users like you help moderate new user submissions - we are always looking for more moderators! View our team <a href="http://alphacoders.com/site/moderators" style="display:inline;">here</a></p>
+                 </div>
+
+                 <div class="col_3">
+                     <p>Many of our newest features are user requested! Anyone can <a href="http://alphacoders.com/site/feature_requests" style="display:inline;">request features</a>!</p>
+                 </div>
+
+
+            <div class="col_3">
+                <h2>Submissions Do Good !</h2>
+            </div>
+
+             <div class="col_3">
+                <img src="http://alphacoders.com/images/tree.png" class="img_left imgshadow" alt="">
+                <p>We plant a tree for every 500 submissions. We're at over <a style="display:inline;" href="http://www.mokugift.com/island/david182">200 trees</a> so far!</p>
+             </div>
+
+             <div class="col_3">
+                <img style="width:30px;" src="http://alphacoders.com/images/kiva.png" class="img_left imgshadow" alt="">
+                <p>For every 100,000 submissions we add $25 to our <a style="display:inline;" href="http://www.kiva.org/lender/davidwestAC">Kiva account</a>, helping more people build their dreams!</p>
+             </div>
+
+        </div><!-- End 3 columns container -->
+
+    </div></li><!-- End 3 columns Item -->
+
+    <li><a style="font-size:16px; font-weight:bold;" href="#" class="drop">Useful Stuff!</a><!-- Begin 3 columns Item -->
+
+         <div class="dropdown_1column"><!-- Begin 4 columns container -->
+            <div class="col_1">
+
+                <h3>Useful links</h3>
+                <ul>
+                    <li><a href="http://alphacoders.com/site/faq">Our FAQ</a></li>
+                    <li><a href="http://alphacoders.com/site/privacy">Privacy Policy</a></li>
+                    <li><a href="http://alphacoders.com/site/contact">Contact Us!</a></li>
+                </ul>
+
+            </div>
+         </div>
+    </li>
+
+</ul>
+
+    <div class="main_small">
+
+
+<table class="content_wrapper">
+  <tbody><tr>
+    <!-- MAIN CONTENT -->
+    <td class="content_left">
+
+<!-- SIDE CONTENT -->
+                    <script type="text/javascript"><!--
+              google_ad_client = "ca-pub-2597887417591492";
+              /* Alpha Coders Side */
+              google_ad_slot = "5167895438";
+              google_ad_width = 300;
+              google_ad_height = 250;
+              //-->
+              </script>
+              <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+              </script>
+                
+      <table class="content_white">
+        <tbody><tr>
+          <td>
+            <center>
+              <span class="shadow title_big">
+             Our Content
+              </span>
+            </center>
+            <div class="content_wrapper">
+            <span class="content_text">
+              <a href="http://wall.alphacoders.com" class="title">143391 Wallpapers</a><br><a href="http://art.alphacoders.com" class="title">30548 Art Pieces</a><br><a href="http://photos.alphacoders.com" class="title">5326 Photos</a><br><a href="http://avatars.alphacoders.com" class="title">7020 Forum Avatars</a><br><a href="http://quote.alphacoders.com" class="title">1400 Quotes</a><br><a href="http://flash.alphacoders.com" class="title">13133 Flash Games</a><br><a href="http://forum.alphacoders.com" class="title">Forums</a><br><a href="http://blogs.alphacoders.com" class="title">63 Blog Posts</a><br><a href="http://alphacoders.com/users/top" class="title">47298 Members</a><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://alphacoders.com/users/top">View Member Stats</a><br><br>Join Our New Website:<a href="http://neo.alphacoders.com"><img src="http://neo.alphacoders.com/images/logo.png" style="width:200px; border:0px;" alt=""></a><br>It's a place to share and discuss your interests with like minded people!<br>            </span>
+            </div>
+          </td>
+        </tr>
+      </tbody></table>
+
+    <table class="content_white">
+        <tbody><tr>
+            <td>
+            <center>
+              <span class="shadow title_big">
+             Our Cool Stuff
+              </span>
+            </center>
+            <div class="content_wrapper">
+            <span class="content_text">
+                <img src="http://alphacoders.com/images/tree.png" alt="">                We plant a tree for every 500 submissions. We're at over
+                <a href="http://www.mokugift.com/island/david182">200 trees</a> so far!
+                <br>
+                <img src="http://alphacoders.com/images/present.png" alt=""><span class="title_big">It's a Raffle!</span><br>For this lovely <a href="http://alphacoders.com/contests/current_raffle">Rubiks Cube Coasters</a>
+            </span>
+            </div></td>
+        </tr>
+    </tbody></table>
+
+    <table class="content_white">
+        <tbody><tr>
+            <td>
+                <center><span class="shadow title_big">Follow Us!</span></center>
+                <div class="content_wrapper">
+<a href="https://twitter.com/alphacoders" class="twitter-follow-button" data-show-count="true" data-width="280px">Follow @alphacoders</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+                <iframe src="http://www.facebook.com/plugins/like.php?href=http://www.facebook.com/pages/Alpha-Coders/124560844236151" scrolling="no" frameborder="0" style="border:none; width:300px; height:65px"></iframe>
+               
+            </div></td>
+        </tr>
+    </tbody></table>
+
+
+      <table class="content_white">
+        <tbody><tr>
+          <td>
+            <center>
+              <span class="shadow title_big">
+             AC Points
+              </span>
+            </center>
+            <div class="content_wrapper">
+            <span class="content_text">
+              Once you register you will earn Alpha Coders Points (ACP). You can then use these points in our
+              monthly raffle for cool stuff!
+              <br>
+              <strong>Earn ACP From:</strong>
+              <ul>
+                  <li>
+                      Submitting Wallpapers (5acp)<br>
+                      ... with author info  (10acp)<br>
+                      ... one you created   (15acp)
+                  </li>
+                  <li>
+                      Commenting on Wallpapers (1acp)
+                  </li>
+                  <li>
+                      Posting a Blog (2acp)
+                  </li>
+                  <li>
+                      Submitting Art (5acp)
+                  </li>
+                  <li>
+                      Posting in the Forums (1acp)
+                  </li>
+              </ul>
+            </span>
+            </div>
+          </td>
+        </tr>
+      </tbody></table>
+
+      <table class="content_white">
+        <tbody><tr>
+          <td>
+            <center>
+              <span class="shadow title_big">
+              Accepting Moderators!
+              </span>
+            </center>
+            <div class="content_wrapper">
+              <span class="content_text">
+              Moderators are an essential part of Alpha Coders, and get extra points for helping out. If you would like to be a moderator send an email with why you would be a good moderator to admin@alphacoders.com
+              <br>
+              <strong>Earn ACP From:</strong>
+              <ul>
+                  <li>
+                      Moderating Wallpapers (1 acp each)<br>
+                  </li>
+                  <li>
+                      Tags (1/10th acp each)
+                  </li>
+                  <li>
+                      Duplicates (1/2 acp each)
+                  </li>
+                  <li>
+                      Translations (1/5 acp each)
+                  </li>
+                  <li>
+                      Art (1 acp each)
+                  </li>
+                  <li>
+                      Changing categories (1 acp)
+                  </li>
+              </ul>
+            </span>
+                        
+            </div>
+          </td>
+        </tr>
+      </tbody></table>
+
+<table class="content_white"><tbody><tr><td>
+        <a href="http://alphacoders.com/site/feature_requests">Current Feature Requests</a>        </td></tr></tbody></table>
+
+
+ <script type="text/javascript"><!--
+google_ad_client = "ca-pub-2597887417591492";
+/* Alphacoders Side Bottom */
+google_ad_slot = "0926796541";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>    
+         
     </td>
-    <td width="400">
-		<span class="green_text_big">Alpha Coders is a quickly growing portal for all your entertainment needs.</span>
+    <td class="content_right">
+ <table class="content_white"><tbody><tr><td>
+            <center><span class="header">
+                    Alpha Coders Privacy Policy
+                </span> </center>
+         
+<span class="info">
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@alphacoders.com.</span>
+
+<span class="nav"><br>
+<p> At wall.alphacoders.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by wall.alphacoders.com and how it is used. </p>
+<br><p> <b>Log Files</b><br> Like many other Web sites, wall.alphacoders.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user?s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. </p>
+<br><p> <b>Cookies and Web Beacons</b><br> wall.alphacoders.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. </p>
+<br><b>DoubleClick DART Cookie</b><br>
+<p>
+.:: Google, as a third party vendor, uses cookies to serve ads on wall.alphacoders.com.<br>
+.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to wall.alphacoders.com and other sites on the Internet. <br>
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html </p>
+<p> Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....... <br> Google Adsense <br> ValueClick Media
+<br> <br></p>
+<p> These third-party ad servers or ad networks use technology to the advertisements and links that appear on wall.alphacoders.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. </p>
+<p> wall.alphacoders.com has no access to or control over these cookies that are used by third-party advertisers. </p>
+<p> You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. wall.alphacoders.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. </p>
+<p> If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. </p>
+<br><p>
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click <a href="http://www.networkadvertising.org">here</a>.
+
+</p>
+        </span></td></tr></tbody></table> </td></tr>
+</tbody></table>
+
+
+
+</div>
+
+
+
+<div class="footer">
+<table class="footer">
+  <tbody><tr>
+    <td class="footer">
+      <table class="footer_showcase">
+        <tbody><tr>
+          <td class="footer_third">
+            <center>
+            <a href="http://wall.alphacoders.com"><img class="no_border" src="http://alphacoders.com/images/wallpaper_abyss_small.png" alt=""></a>            </center>
+          </td>
+          <td class="footer_third">
+            <center>
+            <a href="http://art.alphacoders.com"><img class="no_border" src="http://alphacoders.com/images/art_abyss_small.png" alt=""></a>            </center>
+          </td>
+          <td class="footer_third">
+            <center>
+            <a href="http://quoteabyss.com"><img class="no_border" src="http://alphacoders.com/images/quote_abyss_small.png" alt=""></a>            </center>
+          </td>
+        </tr>
+      </tbody></table>
+
+      <br>
+      <hr class="footer">
+      <br>
+
     </td>
-    <td>&nbsp;
-    	
-     </td>
-</tr>
+  </tr>
+  <tr>
+    </tr></tbody></table><table class="footer_showcase">
+        <tbody><tr>
+          <td class="footer_third">
+              <span class="footer_title">Popular</span><br>
+              <a href="http://wall.alphacoders.com" title="Background Wallpaper">Background Wallpaper</a>
+              <br>
+              <a href="http://wall.alphacoders.com/s=Earth" title="Nature Wallpaper">Nature Wallpaper</a>
+              <br>
+              <a href="http://wall.alphacoders.com/s=Artistic&amp;su=Love" title="Love Wallpapers">Love Wallpapers</a>
+              <br>
+              <a href="http://wall.alphacoders.com/s=Vehicles" title="Cars Wallpaper">Cars Wallpaper</a>
+          </td>
+  </tr>
+  <tr>
+    <td class="footer">
+      <center>
+      <span class="footer_small">
+      All text and design is copyright 2012 Alpha Coders.
+      <a href="http://alphacoders.com/site/faq" class="footer_small">FAQ</a>&nbsp;&nbsp;<a href="http://alphacoders.com/site/privacy" class="footer_small">Privacy Policy</a>&nbsp;&nbsp;<br><span class="footer">Page Rendered In: 0.2122 Seconds&nbsp;|&nbsp;This page is using: 2.42MB of memory      </span>
+      </span></center>
+    </td>
+  </tr>
 </tbody></table>
+</div>
 
 
-<br><br><br><br>
-<table class="white_green">
-<tbody><tr width="80%"><td>
-<span class="nav">We take your privacy <strong>VERY</strong> seriously. In short, we will never sell your information to any 3rd parties. The only information we collect is for advertising and website analytics purposes. The full privacy policy is below.</span>
-</td></tr></tbody></table>
-<br>
-<table width="80%"><tbody><tr><td>
-<span class="info"><strong>Privacy Policy</strong><br><br>
-Last Modified: December 10, 2008
-<br><br>
-We at Alpha Coders recognize that your privacy is very important. This policy applies to everything hosted by Alpha Coders, including all of our domains, websites, and online applications. 
-<br><br>
-<strong>Information we collect</strong>
-<br><br>
-We collect basic log information such as your IP address, the browser you are using, and other non identifiable information. 
-<br><br>
-<strong>Information Sharing</strong>
-<br><br>
-We will not sell your information to any third parties. The only information that is handled by a party other than Alpha Coders is unidentfiable log information soley to keep track of overall webiste performance.
-<br><br>
-<strong>Information Security</strong>
-<br><br>
-Any and all personal information is restricted soley to eployees of Alpha Coders, and are subject to criminal prosecution if they fail to meet their obligations.
-<br><br>
-<strong>Privacy Policy Changes</strong>
-<br><br>
-This privacy policy may change. Your consent will be required if we reduce your rights. Any signficiant changes will be shown prominently.
-<br><br>
-Alpha Coders<br>
-4945 Bonneville St.<br>
-Shasta Lake, California, 96019<br>
-USA
-</span>
-</td></tr></tbody></table>
-</center>
-<br>
-<table class="ac_footer">
-<tbody><tr>
-<td>
-	<center><table width="80%"><tbody><tr>
-        <td width="200">
-            <span class="green_text_med">Site Links</span><br>
-                &nbsp;&nbsp;<span class="nav"><a href="http://www.alphacoders.com">Home</a></span><br>
-                &nbsp;&nbsp;<span class="nav"><a href="contact.html">Contact</a></span><br>
-                &nbsp;&nbsp;<span class="nav"><a href="faq.html">Faq</a></span><br><br>
-            <span class="green_text_med">Help</span><br>
-                &nbsp;&nbsp;<span class="nav"><a href="privacy.html">Privacy Policy</a></span>
-        </td>
-        <td width="400">
-            <span class="white_12">Copyright 2009 Alpha Coders. If you are a copyright holder and find any infringing material on any Alpha Coders website please send an email to <strong>admin@alphacoders.com</strong> and we will remove the infringing material immediately</span>
-        </td>
-       </tr>
-       </tbody></table>
-     </center>
-   </td>
-</tr>
-</tbody></table>
 
 </body></html>
