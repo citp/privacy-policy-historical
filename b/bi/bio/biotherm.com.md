@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biotherm.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205003154id_/http%3A//www.biotherm-usa.com/_us/_en/customerservice/article.aspx%3Ftopic%3DCust_Serv_5%26%26%23Cust_Serv_5_2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biotherm.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506143133id_/http%3A//www.biotherm-usa.com/_us/_en/customerservice/article.aspx%3Ftopic%3DCust_Serv_5%26%26%23Cust_Serv_5_2) for the most accurate reproduction.*
 
 # Biotherm
 
