@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ravpower.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114150737id_/http%3A//www.ravpower.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ravpower.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506223556id_/http%3A//www.ravpower.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -55,7 +55,6 @@ We use the information we collect for things like:
   *     Establishing and managing your accounts with us
   *     Communicating things like special events, sweepstakes, promotions and surveys
   *     Operating, evaluating and improving our business
-  *  
 
 
 
@@ -92,19 +91,17 @@ You may choose to:
   *     Update, correct or delete your personal information at any time
   *     Cancel your account or request that we no longer use your information to provide you services
   *     Request removal of your personal information from our blog or community forum
-  *  
 
 
 
 To do any of these, let us know by one of these methods:
 
-·  Follow the unsubscribe/delete directions in any marketing e-mail that you receive from us.
-
-·  Send an e-mail with your request and current contact information to PrivacyManager@ravpower.com
+•  Follow the unsubscribe/delete directions in any marketing e-mail that you receive from us.  
+•  Send an e-mail with your request and current contact information to [ **support@ravpower.com**](mailto:%20support@ravpower.com)
 
   **Protecting Children's Privacy**
 
-We are committed to protecting children's privacy on the Internet and we do not knowingly collect personal information from children under the age of 13.  
+We are committed to protecting children's privacy on the Interne t and we do not knowingly collect personal information from children under the age of 13.  
 Links to Other Websites
 
 Our websites link to other websites, many of which have their own privacy policies. Be sure to review the privacy policy on the site you're visiting.  
@@ -113,11 +110,9 @@ Privacy Policy Updates
 We may need to update our Privacy Policy as RAVPower and our customers grow and evolve. If we make significant changes to the Privacy Policy, we'll post a prominent message on our website(s).  
 U.S.-EU Safe Harbor Framework
 
-RAVPower complies with the U.S.-E.U. Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union. Information regarding the E.U. Safe Harbor Framework can be found at: http://export.gov/safeharbor.  
+RAVPower complies with the U.S.-E.U. Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union. Information regarding the E.U. Safe Harbor Framework can be found at: <http://export.gov/safeharbor>.  
 Have Questions?
 
 If you have any questions about our Privacy Policy, we'll do our best to answer them. Here's how to contact us:
 
-E-mail:  
-support@ravpower.com  
-
+E-mail:[ **support@ravpower.com**](mailto:support@ravpower.com)
