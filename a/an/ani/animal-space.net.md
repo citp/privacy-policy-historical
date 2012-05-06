@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animal-space.net privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206155659id_/http%3A//www.animal-space.net/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animal-space.net privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506021128id_/http%3A//www.animal-space.net/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Animal Space: Privacy Policy
 
