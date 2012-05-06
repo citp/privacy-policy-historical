@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enteruk.co.uk privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101132742id_/http%3A//www.enteruk.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enteruk.co.uk privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506141416id_/http%3A//www.enteruk.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | EnterUK
 
