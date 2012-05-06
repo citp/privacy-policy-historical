@@ -1,15 +1,10 @@
-> *The following text is extracted and transformed from the mongohq.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211154225id_/http%3A//mongohq-docs.heroku.com/policy_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mongohq.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506071437id_/http%3A//docs.mongohq.com/policies/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | MongoHQ Documentation
+# MongoHQ Privacy Policy - MongoHQ Documentation for Mongo and MongoDB Hosting
 
-  * We Do Not Share Customer Information
-  * We Only Collect Necessary Information
-  * We Protect Your Data
-  * You Have Access to Your Data
-  * We Still Have to Follow The Law
-  * Let’s Talk
+Jan 4th, 2012
 
-
+This is the general privacy policy that the founders and team members of MongoHQ all agree to adhere to. If you have any questions about this or any other policy, please reach out to us at: **support@mongohq.com** and we will respond promptly.
 
 ## We Do Not Share Customer Information
 
@@ -27,7 +22,7 @@ MongoHQ takes strong measures to protect any data that you have submitted to us,
 
 Along with the data that you may host with MongoHQ, you also have access to your personal/profile data as well as your financial data. At all times, the owner of your MongoHQ account can access this data and edit this data as necessary. This allows you to ensure that this data is correct.
 
-## We Still Have to Follow The Law
+## We Still Have to Follow Laws
 
 MongoHQ may release personal information if the partnership is required to by law, search warrant, subpoena, court order or fraud investigation. We may also use personal information in a manner that does not identify you specifically nor allow you to be contacted but does identify certain criteria about our Site’s users in general (such as we may inform third parties about the number of registered users, number of unique visitors, number of databases used, number of datastores, and the pages most frequently browsed, etc.).
 
