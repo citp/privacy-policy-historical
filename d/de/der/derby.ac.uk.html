@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the derby.ac.uk privacy policy that was archived on 2011-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111226062619id_/http%3A//www.derby.ac.uk/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the derby.ac.uk privacy policy that was archived on 2012-05-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120506164326id_/http%3A//www.derby.ac.uk/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 		<title>Privacy - University of Derby</title>
@@ -7,7 +7,7 @@
 	
 <!--
 	Content Management by SiteManager 7.0.8 (build 201)
-	&copy; Silktide Ltd 2011. All rights reserved. - http://www.silktide.com/
+	&copy; Silktide Ltd 2012. All rights reserved. - http://www.silktide.com/
 -->
 	<meta name="author" content="">
 	<meta name="robots" content="all">
@@ -20,8 +20,43 @@
 	<script type="text/javascript">
 		var taosPageLoaded = false;
 
-		function onTaosPageLoad() { taosPageLoaded = true; }
+	                function elementInViewport(el) { var top = el.offsetTop; var left = el.offsetLeft; var width = el.offsetWidth; var height = el.offsetHeight; 
+	                	while(el.offsetParent) { el = el.offsetParent; top += el.offsetTop; left += el.offsetLeft; }  			
+				return ( top >= getViewportScrollY() && left >= getViewportScrollX() && (top + height) <= (getViewportScrollY() + getViewportHeight()) && (left + width) <= (getViewportScrollX() + getViewportWidth()));
+			}
+			function getViewportScrollX() { var scrollX = 0;
+			  if( document.documentElement && document.documentElement.scrollLeft ) { scrollX = document.documentElement.scrollLeft; }
+			  else if( document.body && document.body.scrollLeft ) {  scrollX = document.body.scrollLeft; }
+			  else if( window.pageXOffset ) {  scrollX = window.pageXOffset; }
+			  else if( window.scrollX ) {  scrollX = window.scrollX; }
+			  return scrollX;
+			};
+
+			function getViewportScrollY() { var scrollY = 0;
+			  if( document.documentElement && document.documentElement.scrollTop ) { scrollY = document.documentElement.scrollTop; }
+			  else if( document.body && document.body.scrollTop ) { scrollY = document.body.scrollTop; }
+			  else if( window.pageYOffset ) { scrollY = window.pageYOffset;}
+			  else if( window.scrollY ) { scrollY = window.scrollY; }
+			  return scrollY;
+			};
+			function getViewportWidth() { var width = 0;
+  			if( document.documentElement && document.documentElement.clientWidth ) { width = document.documentElement.clientWidth; }
+  			else if( document.body && document.body.clientWidth ) { width = document.body.clientWidth; }
+  			else if( window.innerWidth ) { width = window.innerWidth - 18; }
+  			return width; }
+  			function getViewportHeight() { var height = 0;
+  			if( document.documentElement && document.documentElement.clientHeight ) { height = document.documentElement.clientHeight; }
+  			else if( document.body && document.body.clientHeight ) { height = document.body.clientHeight; }
+  			else if( window.innerHeight ) { height = window.innerHeight - 18; }
+  			return height;
+  			}
+	                       
+	               			function onTaosPageLoad() { 
+			taosPageLoaded = true;
+			var focusTarget = 'f1_eduCourseSearchText';			var fEl = document.getElementById(focusTarget);			if (fEl != null){ if(elementInViewport(fEl)) { fEl.focus(); } }
+		}
 	</script>
+	<script type="text/javascript" src="/taos_public/js/jquery.js"></script>
 	<script type="text/javascript" src="/taos_public/js/swfobject2.js"></script>
 
 	<link href="/taos_public/style/taosshared.css" rel="stylesheet" type="text/css">
@@ -66,10 +101,10 @@
                                     </div>
 			<div id="askquestion">
 				<img src="/templatefiles/askus-logo.jpg" width="30" height="30" alt="Ask us" id="askus-logo">
-				<form action="http://ask.derby.ac.uk/current/index.jsp" method="post" name="questionForm" id="questionForm">
+				<form action="http://ask.derby.ac.uk/prospective/" method="post" name="questionForm" id="questionForm">
 						
 													
-					<input name="question" type="text" class="searchbox" value="How do I apply for a course?" maxlength="250">
+					<input name="question" type="text" class="searchbox defaulttext" value="How do I apply for a course?" maxlength="250">
   
   					<input class="button" name="NormalRequest" type="submit" value="Ask us">
   					<input type="hidden" name="interfaceID" value="12">
@@ -115,6 +150,276 @@
 			<p class="breadcrumb"></p>
 		
 			<div class="sidecol">
+			<div id="Menuimage"></div>
+		<!-- SMS VARIABLE Show Course search = [display: none;] -->
+				
+			
+			<div class="sidebox coursesearch" style="display: none;">
+			<p class="largetext">Find a course</p>
+						<script type="text/javascript">	
+			//<![CDATA[
+	
+// Taos AJAX utility functions (ajax/ajax.inc) v1.6.3
+// Adapted from Open Source (BSD license) SAJAX by Modern Method
+		
+var taosAjaxDebugMode 		= false;
+var taosAjaxShowMalformed 	= false;
+var taosAjaxRequestType 	= "GET";
+var taosAjaxReqUri 		= "http://www.derby.ac.uk/index.php?node=846";
+var taosAjaxStopped 		= false;
+
+function taosAjaxDebug(text) 
+{
+	if (taosAjaxDebugMode)
+		alert("AJAX debug: " + text)
+}
+
+function taosAjaxInitObject() 
+{
+	var A;
+	try 
+	{
+		A=new ActiveXObject("Msxml2.XMLHTTP");
+	} 
+	catch (e) 
+	{
+		try 
+		{
+			A=new ActiveXObject("Microsoft.XMLHTTP");
+		} 
+		catch (oc) 
+		{
+			A=null;
+		}
+	}
+	if (!A && typeof XMLHttpRequest != "undefined")
+		A = new XMLHttpRequest();
+	if (!A)
+		taosAjaxDebug("Could not create connection object.");
+	return A;
+}
+
+function taosAjaxCall(func_name, cacheSetName, remoteUri, args) 
+{
+	var i, x, n;
+	var uri;
+	var post_data;
+	
+	if (taosAjaxStopped)
+		return false;
+		
+	uri = (remoteUri ? remoteUri : taosAjaxReqUri);
+	if (taosAjaxRequestType == "GET") 
+	{
+		if (uri.indexOf("?") == -1) 
+			uri = uri + "?taosRs=" + encodeURIComponent(func_name);
+		else
+			uri = uri + "&taosRs=" + encodeURIComponent(func_name);
+		for (i = 0; i < args.length-1; i++) 
+			uri = uri + "&taosRsargs[]=" + encodeURIComponent(args[i]);
+		post_data = null;
+	} 
+	else 
+	{
+		post_data = "taosRs=" + encodeURIComponent(func_name);
+		for (i = 0; i < args.length-1; i++) 
+			post_data = post_data + "&taosRsargs[]=" + encodeURIComponent(args[i]);
+	}
+	
+	if (cacheSetName!="")
+		uri += "&taosRsCache="+cacheSetName;
+	
+	x = taosAjaxInitObject();
+	x.open(taosAjaxRequestType, uri, true);
+	if (taosAjaxRequestType == "POST") 
+	{
+		x.setRequestHeader("Method", "POST " + uri + " HTTP/1.1");
+		x.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+	}
+	x.onreadystatechange = function() 
+	{
+		if (x.readyState != 4) 
+			return;
+		if (taosAjaxStopped)
+			return;
+		taosAjaxDebug("Received: " + x.responseText);
+		
+		var status;
+		var data;
+		status = x.responseText.charAt(0);
+		data = x.responseText.substring(2);
+		if (status == "-") 
+		{
+			taosAjaxStopped = true;
+			alert("AJAX error: " + data);
+		}
+		else if (status == "x") // Exit (logout) to specified URL, explain to user
+		{
+			taosAjaxStopped = true;
+			//alert("You have been logged out.\n\nAnother person may have logged into your account elsewhere,\nor you may have logged out in another window.");
+			location.href = data;
+		}
+		else if (status == "s") // String 
+		{
+			eval(data);
+			args[args.length-1](string); // Call success function
+		}
+		else if (data=='')
+		{
+			// Failed response, probably connection timeout
+		}
+		else if (status=='a') // Array
+		{
+			var tmpA = '';
+			eval(data); // Expects in format tmpA = new Array (...
+			if (tmpA)
+			{
+				args[args.length-1](tmpA); // Call success function
+			}
+			else
+			{
+				if (taosAjaxShowMalformed)
+				{
+					taosAjaxStopped = true;
+					alert("AJAX error: unable to parse array:\n"+data);
+				}
+				
+				// Call as failed
+				args[args.length-1](false);
+			}
+		}
+		else
+		{
+			if (taosAjaxShowMalformed)
+			{
+				taosAjaxStopped = true;
+				alert("AJAX error: unable to parse response:\n"+data);
+			}
+			// Call as failed
+			
+			args[args.length-1](false);
+		}
+	}
+	x.send(post_data);
+	taosAjaxDebug("Method: "+func_name + "\nUrl: " + uri + " ("+taosAjaxRequestType+")\nVars: " + post_data);
+	delete x;
+}
+			//]]>
+//<![CDATA[
+function ajaxCall_getCourseSearchHtml() 
+{
+	taosAjaxCall("getCourseSearchHtml", "edu_course", '', ajaxCall_getCourseSearchHtml.arguments);
+}
+			//]]>
+			
+			var callbackResponseLag = 100;
+			
+			function taosGotCourseSearchResults(html) 
+			{
+				// Slower once we have an initial response
+				callbackResponseLag=200;
+				
+				document.getElementById('courseSearch_5df91ef251').style.display = 'block';
+				document.getElementById('courseSearch_5df91ef251').innerHTML = html;
+			}
+			
+			function taosHideCourseSearchResults(closeNow) 
+			{
+				if (closeNow)
+				{
+					document.getElementById('courseSearch_5df91ef251').style.display = 'none';
+				}
+				else
+				{
+					// Have to lag to handle IE cancelling link click event
+					setTimeout("taosHideCourseSearchResults(true)", 200);
+				}
+			}
+			
+			function taosChangedSearchText() 
+			{
+				document.getElementById('subjectId').value = "";
+				currentText = document.getElementById('f1_eduCourseSearchText').value;
+				currentText=currentText.replace("'", '');
+				if (currentText.length>0)
+				{
+					setTimeout("taosCheckSearchText('"+currentText+"')", callbackResponseLag);
+				}
+				else
+				{
+					taosHideCourseSearchResults(true);
+				}
+			}
+			
+			function taosSelectSubject(subjectId) 
+			{
+								
+					location.href="http://www.derby.ac.uk/courses?subjectId="+subjectId;
+				
+								}
+			
+			function taosChangeSearchOptions(subjectId) 
+			{
+				taosGetNewResults();
+			}
+		
+			function taosGetNewResults() 
+			{
+				currentText = document.getElementById('f1_eduCourseSearchText').value;
+				currentText=currentText.replace("'", '');
+				
+				subjectId = document.getElementById('subjectId').value;
+				
+				
+				fullorparttime = '';
+				level = '';
+				derbyOrBuxton = '';
+												
+												
+				ajaxCall_getCourseSearchHtml(currentText, subjectId, fullorparttime, level, derbyOrBuxton, 
+					846, taosGotCourseSearchResults);
+			}
+			
+			function taosCheckSearchText(oldText) 
+			{
+				currentText = document.getElementById('f1_eduCourseSearchText').value;
+				currentText=currentText.replace("'", '');
+				if (currentText == oldText)
+				{
+					taosGetNewResults();
+				}
+			}
+			
+			</script>
+			
+<form action="/index.php" method="get" id="form1_form" onsubmit="form1_form_onsubmit()">
+<input type="hidden" name="node" value="846">
+<input type="hidden" name="form_refresh_single" value="0">
+<input type="hidden" name="form1" value="1">
+<label for="f1_eduCourseSearchText"></label>
+	<input type="text" name="f1_eduCourseSearchText" id="f1_eduCourseSearchText" class="taosTextField" value="" style="width: 170px;" onkeyup="taosChangedSearchText();" onblur="taosHideCourseSearchResults(false);" maxlength="80" size="40" autocomplete="off">
+<script type="text/javascript">
+<!--
+if (document.getElementById('f1_eduCourseSearchText'))
+	document.getElementById('f1_eduCourseSearchText').autocomplete='off';
+-->
+</script>
+
+	<input type="submit" name="f1_ok" value="Search" class="button" style="cursor: pointer;width: 50px;"><br><div id="courseSearch_5df91ef251" style="background-color: #FFF; border: 1px solid #888; color; #000; padding: 10px; position: absolute; width: 400px; margin-top: -2px; z-index: 1000; display: none;" class="coursesearchresults"></div><input type="hidden" id="subjectId" name="subjectId" value="0"><input type="hidden" name="pagetree" value="">
+<input type="hidden" name="editSessionid" value="">
+<input type="hidden" name="objectid" value="">
+</form>
+<script type="text/javascript">
+
+function form1_form_onsubmit() {
+
+
+}
+</script>
+
+
+			</div>
+			
 								<div class="sidenav">
 					<ul><li class="firstoption">
 <a href="http://www.derby.ac.uk/undergraduate">Undergraduate courses</a></li>
@@ -154,8 +459,33 @@
 			
 			
 			
-							
+							 
+					
+	
+	<!-- SMS VARIABLE Show AddThis = [display: block;] -->
 				
+	<div class="sidebox" style="display: block;"> 	
+					<h2>Print, save or share</h2>
+					<!-- AddThis Button BEGIN -->
+				<div class="addthis_toolbox addthis_default_style">
+						<a class="addthis_button_email"></a>
+						<a class="addthis_button_favorites"></a>
+						<a class="addthis_button_print"></a>
+	
+					<div class="addthis_toolbox addthis_pill_combo">
+						<span class="addthis_separator">|</span>					
+						<a class="addthis_button_facebook"></a>					
+        				
+						<a class="addthis_button_tweet" tw:count="horizontal" tw:via="DerbyUni" tw:related="DerbyUniPress"></a>
+    				
+						<a href="http://www.addthis.com/bookmark.php?v=250&amp;pub=derbyuni" class="addthis_button_compact">Share</a>
+					</div>
+				</div>
+					
+<!--Additional bit of code in footer after Google Analytics-->
+				
+					<!-- AddThis Button END -->
+				</div>		
 		
 			</div> <!-- end .sidecol -->
 			<div class="content">
@@ -248,7 +578,7 @@
 		</div>
 	</div> 
 	<div id="footerlower">
-		<p>© Copyright University of Derby 2011 | 
+		<p>© Copyright University of Derby 2012 | 
 <a href="http://www.derby.ac.uk/accessibility">Accessibility</a>
  | <a href="http://www.derby.ac.uk/privacy">Privacy</a>
  | <a href="http://www.derby.ac.uk/sitemap">Site map</a>
@@ -301,7 +631,7 @@
 	} 
 })();
 //]]>
-</script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+</script>
 
 			<script type="text/javascript">//<![CDATA[
 var hasreset = false;
