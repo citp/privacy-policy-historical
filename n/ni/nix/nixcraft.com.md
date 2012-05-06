@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nixcraft.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006062514id_/http%3A//www.cyberciti.biz/tips/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nixcraft.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506215847id_/http%3A//www.cyberciti.biz/tips/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -25,7 +25,7 @@ nixCraft collect and use the data contained in server log files. The information
 
 ### Cookies and Web Beacons
 
-We do use cookies to store information, such as your personal preferences when you visit our site. 
+We do use cookies to store information, such as your personal preferences when you visit our site.
 
 #### Advertising and Third-party ads
 
