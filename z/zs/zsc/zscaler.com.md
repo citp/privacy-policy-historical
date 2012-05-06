@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zscaler.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101213403id_/http%3A//www.zscaler.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zscaler.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506090227id_/http%3A//www.zscaler.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Zscaler Cloud Security : SaaS Web Security, Web Security, URL Filtering, Internet Security
 
@@ -46,6 +46,6 @@ _Zscaler may transfer personal data when legally required to do so.   _Zscaler 
   
 _Who should End Users contact regarding privacy?_ If you are an end-user of our service you should contact our client for any information related to information held about you and the privacy policy which governs the relationship between you and our client.  In many cases our client will be your employer.   
 _Access by Zscaler employees.   _We intend to protect individual personal information and to maintain its privacy. Zscaler implements reasonable physical, administrative and technical safeguards to help us protect your personal information from unauthorized access, use and disclosure. For example, we encrypt certain sensitive personal information when we transmit such information over the Internet. We also limit access to private and confidential data on our systems to only those employees with a specific need to retrieve this information.  
-EU Safe Harbor Privacy Statement  
-Zscaler adheres to the US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the [U.S. Department of Commerce’s Safe Harbor Program](http://www.export.gov/safeharbor/).  
+EU Safe Harbor and Swiss Safe Harbor Privacy Statement   
+Zscaler complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Zscaler has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Zscaler’s certification, please visit <http://www.export.gov/safeharbor/>  
  
