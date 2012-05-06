@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bumbershoot.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225223936id_/http%3A//www.bumbershoot.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bumbershoot.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506145730id_/http%3A//bumbershoot.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Bumbershoot 2011
-
-## Policy
+# Privacy Policy | Bumbershoot 2012
 
 As part of the usage terms of our website, You, the user (“you”), will be asked to provide financial, demographic and contact information. This notice describes our privacy policy concerning the collection, use and dissemination of this information. We, ONE REEL, are committed to protecting the privacy and accuracy of your confidential information. Other than as required by state and federal laws that guarantee access or require information disclosure, your personally identifiable information is not shared without your permission. Please review this policy periodically, as it is subject to change. 
 
