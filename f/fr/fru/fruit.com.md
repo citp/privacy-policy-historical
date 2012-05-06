@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fruit.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102144635id_/http%3A//www.fruit.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fruit.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506145204id_/http%3A//www.fruit.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Fruit of the Loom - Privacy Policy
 
@@ -16,8 +16,8 @@ Fruit of the Loom, Inc. uses industry-standard security measures to safeguard th
 
 Nothing herein shall prevent Fruit of the Loom, Inc. and its affiliates from using information provided to us, by email or otherwise, in investigating claims or complaints, or defending Fruit of the Loom, Inc. and its affiliates and their employees against claims or complaints.
 
-If you wish to review or change your personally identifiable information, you may do so by filling out the form on the [contact page](https://web.archive.org/web/20111102144635id_/http%3A//www.fruit.com/contact.html "Contact Us"). Fruit of the Loom, Inc. will send you an email stating any personally identifiable information it has stored concerning you and will make specific changes you may request.
+If you wish to review or change your personally identifiable information, you may do so by filling out the form on the [contact page](https://web.archive.org/web/20120506145204id_/http%3A//www.fruit.com/contact.html "Contact Us"). Fruit of the Loom, Inc. will send you an email stating any personally identifiable information it has stored concerning you and will make specific changes you may request.
 
-If you have questions about Fruit of the Loom, Inc. privacy policy or practices, please [click here](https://web.archive.org/web/20111102144635id_/http%3A//www.fruit.com/contact.html "Contact Us") to let us know
+If you have questions about Fruit of the Loom, Inc. privacy policy or practices, please [click here](https://web.archive.org/web/20120506145204id_/http%3A//www.fruit.com/contact.html "Contact Us") to let us know
 
 Return to top
