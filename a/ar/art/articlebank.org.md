@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlebank.org privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114103735id_/http%3A//articlebank.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlebank.org privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506093057id_/http%3A//articlebank.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Article Bank Page
 
@@ -22,3 +22,10 @@ We have included links on this site for your use and reference. We are not respo
 The contents of this statement may be altered at any time, at our discretion.
 
 If you have any questions regarding the privacy policy of this site then you may contact us.````
+
+#### Terms:
+
+acquire top authors powered by wordpress using article directory plugin
+
+  
+
