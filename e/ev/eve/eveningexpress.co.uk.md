@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eveningexpress.co.uk privacy policy that was archived on 2011-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111018094237id_/http%3A//www.eveningexpress.co.uk/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eveningexpress.co.uk privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506151323id_/http%3A//www.eveningexpress.co.uk/Privacy.aspx) for the most accurate reproduction.*
 
 # Evening Express - Site Privacy Policy and Conditions of Use
 
@@ -37,4 +37,4 @@
 
 [](http://www.facebook.com/EveningExpressAberdeen)
 
-[](http://www.eveningexpress.co.uk/Article.aspx/2446822)
+[](http://www.twitter.com/eveningexpress)
