@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the theluckyladybug.net privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215065039id_/http%3A//www.theluckyladybug.net/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theluckyladybug.net privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507225012id_/http%3A//theluckyladybug.net/privacy) for the most accurate reproduction.*
 
-# Privacy | The Lucky Ladybug
+# Privacy Policy - The Lucky Ladybug
 
 **Gathering and Use of Information**
 
-The Lucky Ladybug respects your privacy and will never willfully disclose any personally identifiable information to any third party without first receiving the user's permission. Personally identifiable information is not collected from visitors other than what is supplied on a voluntary basis. Any personal information you provide here including and similar to your name, address, telephone number and email address will not be released, sold, or rented to any entities or individuals outside of The Lucky Ladybug.
+The Lucky Ladybug respects your privacy and will never willfully disclose any personally identifiable information to any third party without first receiving the user’s permission. Personally identifiable information is not collected from visitors other than what is supplied on a voluntary basis. Any personal information you provide here including and similar to your name, address, telephone number and email address will not be released, sold, or rented to any entities or individuals outside of The Lucky Ladybug.
 
 **External Sites**
 
@@ -12,7 +12,7 @@ The Lucky Ladybug is not responsible for the content of external Internet sites.
 
 **Cookies**
 
-A "cookie" is a small data text file that is placed in your browser and allows The Lucky Ladybug to recognize you each time you visit this site (customization, etc). Cookies themselves do not contain any personal information, and The Lucky Ladybug does not use cookies to collect personal information. Cookies may also be used by third party content providers such as news feeds.
+A “cookie” is a small data text file that is placed in your browser and allows The Lucky Ladybug to recognize you each time you visit this site (customization, etc). Cookies themselves do not contain any personal information, and The Lucky Ladybug does not use cookies to collect personal information. Cookies may also be used by third party content providers such as news feeds.
 
 **Remember The Risks Whenever You Use The Internet**
 
@@ -26,6 +26,6 @@ By using this site, you signify your agreement to the terms and conditions of th
 
 From time to time, The Lucky Ladybug may update this privacy notice. You are encouraged to periodically check back and review this policy so you always will know what information is collected, how it is used, and to whom it is disclosed. Your continued use of the The Lucky Ladybug blog following the posting of any changes to these terms shall mean that you have accepted those changes.
 
-Feel free to [contact me](http://www.theluckyladybug.net/p/contact-me_23.html) if you have questions, concerns, or need more information.
+Feel free to [contact me](http://theluckyladybug.net/contact/) if you have questions, concerns, or need more information.
 
 (Revised Friday, September 16, 2011)
