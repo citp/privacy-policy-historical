@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cariboucoffee.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219081150id_/http%3A//www.cariboucoffee.com/page/1/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cariboucoffee.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507090607id_/http%3A//www.cariboucoffee.com/page/1/privacy.jsp) for the most accurate reproduction.*
 
 # Your Privacy
 
