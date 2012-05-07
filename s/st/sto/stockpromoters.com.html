@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the stockpromoters.com privacy policy that was archived on 2011-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111226235331id_/http%3A//stockpromoters.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stockpromoters.com privacy policy that was archived on 2012-05-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120507142657id_/http%3A//stockpromoters.com/Stock-Promoters-Privacy-Policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><link rel="stylesheet" type="text/css" href="css/main.css"><link rel="stylesheet" type="text/css" href="css/spage.css"><link rel="stylesheet" type="text/css" href="css/inside.css"><link rel="stylesheet" type="text/css" href="css/quotemedia_module.css"><link rel="stylesheet" type="text/css" href="css/quotemedia_tools.css">
     <script type="text/javascript" language="javascript" src="js/jquery.js"></script>
@@ -21,14 +21,9 @@
     
      
     
-<title>Stockpromoters.com - Privacy Policy</title>
-<meta name="description" content="The first and only site of its kind.  StockPromoters.com tracks thousands of promotional websites, news letters, and fax and email campaigns.">
-<meta name="keywords" content="Investors, Promoters, Public Companies, Stock Performance">
-
-
-
+    <meta name="description"><meta name="keyword">
 <title>
-
+	
 </title></head>
 <body>
 
@@ -48,8 +43,8 @@
 
 <script type="text/javascript" language="javascript" src="../js/crotator.js"></script>
 
-<script type="text/javascript" language="javascript" src="../js/jquery.js"></script>
-
+<script type="text/javascript" language="javascript" src="../js/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" language="javascript" src="../js/jquery.extend.js"></script>
 <script type="text/javascript" language="javascript" src="../js/jquery.dropdown.js"></script>
 <script type="text/javascript">
     function Validations() {
@@ -62,35 +57,163 @@
             return false;
         }
     }
- </script>
-<!-- Developer: TirupathiRao.B -->
-<!-- Created By: JIVA Team -->
-<!-- Date: 23-Dec-2010 -->
-<!-- top header -->
+    
+$(document).ready(function () {
+	$('#h1New').mouseover(function () {
+		$('#menu_pop_newfeature').slideDown('medium');
+    });
+
+	$('#h1New_out').mouseleave(function () {
+	    $('#menu_pop_newfeature').slideUp('medium');
+	});
+});
+
+function link_twitter()
+{
+	alert("Coming Soon!");
+	return false;
+	
+	mypopWindow = window.open('http://stockpromoters.com/Twitter.aspx','PopWindow','width=400,height=400,resizable=no,menubar=no,toolbar=no');
+	mypopWindow.focus();
+}
+function link_facebook()
+{
+	alert("Coming Soon!");
+	return false;
+	
+	mypopWindow = window.open('http://stockpromoters.com/Facebook.aspx','PopWindow','width=400,height=400,resizable=no,menubar=no,toolbar=no');
+	mypopWindow.focus();
+}
+
+function post_to_twitter(js_PromoterPromotionID)
+{
+    if(parseInt(js_PromoterPromotionID) > 0)
+    {
+	    $("#TwittIcon-"+js_PromoterPromotionID).attr("src", "/images/ajax-loader.gif");
+	    
+	    $.ajax({
+
+	        type        : "GET",
+	        url        : 'http://stockpromoters.com/TwitterPost.aspx',
+
+	        data        : {
+	        	PromoterPromotionID : js_PromoterPromotionID,
+	        },
+			
+	        success: function(data) {
+	           
+	           $("#TwittIcon-"+js_PromoterPromotionID).attr("src", "/images/post_twitter.png");
+	           
+	           if(data == 'SUCCESS') {
+					alert("Successfully Posted!");
+	           } else {
+					alert(data);
+	           }
+	        }
+	    });
+    }
+    else if(parseInt(js_PromoterPromotionID) < 0)
+    {
+        alert("Please login first!");
+    }
+    else
+    {
+        alert("Please link your twitter account first!");
+    }
+}
+function post_to_facebook(js_PromoterPromotionID)
+{
+    if(parseInt(js_PromoterPromotionID) > 0)
+    {
+	    $("#FacebookIcon-"+js_PromoterPromotionID).attr("src", "/images/ajax-loader.gif");
+	    
+	    $.ajax({
+
+	        type        : "GET",
+	        url        : 'http://stockpromoters.com/FacebookPost.aspx',
+
+	        data        : {
+	        	PromoterPromotionID : js_PromoterPromotionID,
+	        },
+			
+	        success: function(data) {
+	           
+	           $("#FacebookIcon-"+js_PromoterPromotionID).attr("src", "/images/post_facebook.png");
+	           
+	           if(data == 'SUCCESS') {
+					alert("Successfully Posted!");
+	           } else {
+					alert(data);
+	           }
+	        }
+	    });
+    }
+    else if(parseInt(js_PromoterPromotionID) < 0)
+    {
+        alert("Please login first!");
+    }
+    else
+    {
+        alert("Please link your facebook account first!");
+    }
+}
+</script>
 <div id="topHeader">
     <div id="topHeaderLeft">
         <ul class="noList followIcons">
-            <li class="followIconFacebook"><a href="#" target="_blank">
+            <li class="followIconFacebook"><a href="http://www.facebook.com/#!/stockpromoters" target="_blank">
                 <img src="img/icon_follow.gif" id="ctl00_ContentPlaceHolderyy_Footer1_Img1" alt="Follow us on Facebook"></a></li>
             <li class="followIconTwitter"><a href="http://twitter.com/StockPromoters" target="_blank">
                 <img src="img/icon_follow.gif" id="ctl00_ContentPlaceHolderyy_Footer1_Img2" alt="Follow us on Twitter"></a></li>
             <li class="followIconFriendfeed"><a href="http://friendfeed.com/stockpromoters" target="_blank">
                 <img src="img/icon_follow.gif" id="ctl00_ContentPlaceHolderyy_Footer1_Img3" alt="Follow us on FriendsFeed"></a></li>
             <li class="topHeaderDate">
-                <span id="ctl00_ContentPlaceHolderyy_Footer1_lblMarketInfo">Monday, December 26, 2011 6:53:35 PM EST, Market opens in 14:36</span></li>
+                <span id="ctl00_ContentPlaceHolderyy_Footer1_lblMarketInfo">Mon, May 07, 2012 10:26:59 AM EST, Market closes in 05:33</span></li>
         </ul>
     </div>
     <div id="topHeaderRight">
         <!-- login -->
-        <div id="ctl00_ContentPlaceHolderyy_Footer1_pnlLogin1">
+
+        <div id="ctl00_ContentPlaceHolderyy_Footer1_pnlLogin">
 	
-            <ul class="noList">
-                <li class="joinLink">
-                    <a id="ctl00_ContentPlaceHolderyy_Footer1_hlSignup" href="signup.aspx">Join For Free</a></li>
-              
-            </ul>
+            <form id="form1" action="http://stockpromoters.com/login.aspx" method="post">
+                <table style="margin-top:-5px;" width="590">
+                    <tbody><tr>
+                        <td>
+                            <ul class="noList">
+                                <li class="joinLink">
+                                    <a id="ctl00_ContentPlaceHolderyy_Footer1_hlSignup" href="http://stockpromoters.com/Join-Stock-Promoters-For-Free.aspx">Join For Free</a>
+                                </li>
+                            </ul>
+                        </td>
+                        <td align="right">
+                            <span style="color: #ffcc33; font-family: Arial; font-size: small;">Username:</span>
+                        </td>
+                        <td>
+                            <input type="text" name="username" id="username" size="12">
+                        </td>
+                        <td align="right">
+                            <span style="color: #ffcc33; font-family: Arial; font-size: small;">Password:</span>
+                           
+                        </td>
+                        <td>
+                            <input type="password" name="password" size="12" id="password">
+                        </td>
+                        <td>&nbsp;
+                            
+                        </td>
+                        <td>
+                             <input id="login" type="submit" value="Login" onclick="return Validations()">
+                        </td>
+                        <td>
+                            <a href="http://stockpromoters.com/login.aspx" style="color: #44df00; font-family: Arial; font-size: 11px; text-decoration: none;">Lost Password</a>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </form>
         
 </div>
+        
         <!-- logout -->
         
     </div>
@@ -101,166 +224,73 @@
 <!-- header -->
 <div id="header">
     <div id="headerLeft">
-        <a id="ctl00_ContentPlaceHolderyy_Footer1_hlHome" title="StockPromoters.com - Home Page" href="./"><img src="img/stockpromoters_logo.jpg" id="ctl00_ContentPlaceHolderyy_Footer1_Img6" alt="StockPromoters Logo" border="0"></a>
+        <a href="http://stockpromoters.com" title="StockPromoters.com - Home Page">
+            <img src="/img/stockpromoters_logo.jpg" id="ctl00_ContentPlaceHolderyy_Footer1_Img6" alt="StockPromoters Logo" border="0">
+        </a>
     </div>
     <div id="headerRight">
-        <div id="ctl00_ContentPlaceHolderyy_Footer1_pnlLogin2" class="homelogin2">
-	
-            <div id="dataTerminalBG">
-                <div id="dataTerminal">
-                    <div style="width: auto; padding: 5px 0px 5px 0px; font-size: 15px; color: #ffcc33;
-                        text-transform: uppercase; text-align: center;">
-                        StockPromoters.com Live Data Terminal
-                    </div>
-                    <div style="padding: 0px 0px 0px 0px; width: auto; color: #ccc; width: auto; text-align: center;
-                        font-size: 11px;">
-                        <span style="padding: 0px 0px 0px 0px;">Promotions Tracked To Date:
-                            <span id="ctl00_ContentPlaceHolderyy_Footer1_lblPromotions"><b>115121</b></span></span> <span style="padding: 0px 50px 0px 50px;">
-                                Promoters Tracked:
-                                <span id="ctl00_ContentPlaceHolderyy_Footer1_lblPromoters"><b>1299</b></span></span>
-                    </div>
-                    <div style="padding: 5px 0px 5px 0px; width: auto; color: #ccc; width: auto; text-align: center;
-                        font-size: 11px;">
-                        <span style="padding: 0px 15px 0px 15px;">Companies Looking to go Public:
-                            <span id="ctl00_ContentPlaceHolderyy_Footer1_lblLookingPublic"><b>1</b></span></span> <span style="padding: 0px 24px 0px 24px;">Public&nbsp;Companies&nbsp;Seeking&nbsp;Promotion:
-                                <span id="ctl00_ContentPlaceHolderyy_Footer1_lblSeekingPromotion"><b>3</b></span></span>
-                        <span style="padding: 0px 10px 0px 15px;">Public&nbsp;Companies&nbsp;Seeking&nbsp;Financing:
-                            <span id="ctl00_ContentPlaceHolderyy_Footer1_lblSeekingFinancing"><b>5</b></span></span>
-                    </div>
-                </div>
-            </div>
-        
-</div>
          
-        <div id="ctl00_ContentPlaceHolderyy_Footer1_pnlLogin" class="homelogin">
+        <div id="ctl00_ContentPlaceHolderyy_Footer1_pnlLogout2">
 	
-            <form id="form1" action="../login.aspx" method="post">
-            
-            <div style="height: 91px; border: 1px solid #B3B3B3;">
-                <table>
-                    <tbody><tr style="height: 33px">
-                        <td align="right">
-                            <span style="color: Gold; font-family: Arial; font-size: small;">Username:</span>
-                        </td>
-                        <td>
-                            <input type="text" name="username" id="username" size="14">
-                            
-                        </td>
-                    </tr>
-                    <tr>
-                        <td align="right">
-                            <span style="color: Gold; font-family: Arial; font-size: small;">Password:</span>
-                           
-                        </td>
-                        <td>
-                            <input type="password" name="password" size="14" id="password">
-                            
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            &nbsp;
-                        </td>
-                        <td>
-                             <input id="login" type="submit" value="Login" onclick="return Validations()">
-                            
-                        </td>
-                    </tr>
-                </tbody></table>
-            </div>
-            </form>
-           
+            <div id="ctl00_ContentPlaceHolderyy_Footer1_headerBanner"><br><a href="http://equitygroups.com" target="_blank"><img src="/images/Advertisers/banners/equitygroups_banner_720_88.png" width="720px" height="88px" runat="server"></a></div>
         
 </div>
-        
     </div>
 </div>
 <!-- END header -->
 <!-- main menu -->
-<div id="mainMenu">
+<div id="mainMenu" style="position:relative; z-index:10;">
     <div id="dropdown">
         <ul>
-            <li><a href="#">StockPromoters Services</a>
+            <li><a href="http://stockpromoters.com/Services.aspx">StockPromoters Services</a>
                 <ul>
-                    <li><a id="ctl00_ContentPlaceHolderyy_Footer1_hykHeaderInvestorAwareness" href="Investor-Awareness.aspx">Investor Awareness</a></li>
-                    <li><a id="ctl00_ContentPlaceHolderyy_Footer1_hykHeaderConsultingServices" href="Consulting-Services.aspx">Consulting Services</a></li>
-                    <li><a id="ctl00_ContentPlaceHolderyy_Footer1_hykInternetMarketing" href="Internet-Marketing.aspx">Internet Marketing</a></li>
-                    <li><a id="ctl00_ContentPlaceHolderyy_Footer1_hykWireServices" href="Wire-Services.aspx">Wire Services</a></li>
-                    <li><a href="http://stockpromoters.com/services/restricted_stock_solutions.aspx">
-                        Restricted Stock Solutions</a></li>
-                    <li><a href="http://stockpromoters.com/services/links.aspx">
-                        Useful Links</a></li>
-                    <li><a href="http://stockpromoters.com/signup.aspx">
-                        Join StockPromoters For Free</a></li>
-                    <li>
-                        <a id="ctl00_ContentPlaceHolderyy_Footer1_hlnkMemberComments" href="view-member-comments.aspx">View Member Comments</a></li>
-                   
-                    <li>
-                        <a id="ctl00_ContentPlaceHolderyy_Footer1_hlnkWatchList" href="stock-promoter-watrch-list.aspx">Promoter Watch List</a></li>
-                    <li>
-                        <a id="ctl00_ContentPlaceHolderyy_Footer1_hlnkChanges" href="view-changes-in-the-rules.aspx">Changes in the Rules</a></li>
+                    <li><a href="http://stockpromoters.com/Investor-Awareness.aspx">Investor Awareness</a></li>
+                    <li><a href="http://stockpromoters.com/Consulting-Services.aspx">Consulting Services</a></li>
+                    <li><a href="http://stockpromoters.com/Internet-Marketing.aspx">Internet Marketing</a></li>
+                    <li><a href="http://stockpromoters.com/Wire-Services.aspx">Wire Services</a></li>
+                    <li><a href="http://stockpromoters.com/Restricted-Stock-Solutions.aspx">Restricted Stock Solutions</a></li>
+                    <li><a href="http://stockpromoters.com/Useful-Stock-Market-Links.aspx">Useful Links</a></li>
+                    <li><a href="http://stockpromoters.com/View-Changes-In-The-Rules.aspx">Changes in the Rules</a></li>
+                    <li><a href="http://stockpromoters.com/Join-Stock-Promoters-For-Free.aspx">Join StockPromoters For Free</a></li>
                 </ul>
             </li>
-            <li><a href="#">Stock Promotions</a>
+            <li><a href="http://stockpromoters.com/Stock-Promotions.aspx">Stock Promotions</a>
                 <ul>
-                    <li><a id="ctl00_ContentPlaceHolderyy_Footer1_hlnkPromotionHeader" href="daily-stock-promotions.aspx">Daily Promotions</a></li>
-                    
-                    
-                    <li>
-                        <a id="ctl00_ContentPlaceHolderyy_Footer1_hlnkFirstTimePromotions" href="first-time-stock-promotions.aspx">First Time Promotions</a></li>
-                    <li>
-                        <a id="ctl00_ContentPlaceHolderyy_Footer1_hlnkRealTimePromotions" href="new-stock-promotions.aspx">Real Time Promotions</a></li>
-                             <li>
-                        <a id="ctl00_ContentPlaceHolderyy_Footer1_hlnkEmail" href="stock-promotion-email-archive.aspx">Stock Promotion Email Archive</a></li>
-                    <li>
-                        <a id="ctl00_ContentPlaceHolderyy_Footer1_hlnkPromotionsBySymbol" href="view-stock-promotions-by-symbol.aspx">View Promotions by Symbol</a></li>
-                      <li><a id="ctl00_ContentPlaceHolderyy_Footer1_hykHViewByPromoter" href="View-Promotions-By-Promoter.aspx">View Promotions by Promoter</a></li>
-                    <li><a id="ctl00_ContentPlaceHolderyy_Footer1_hykHEODPromotions" href="Todays-EOD-Promotions.aspx">Todays (EOD) Promotions</a></li>
+                    <li><a href="http://stockpromoters.com/Daily Promotions">Daily-Stock-Promotions.aspx</a></li>
+                    <li><a href="http://stockpromoters.com/First-Time-Stock-Promotions.aspx">First Time Promotions</a></li>
+                    <li><a href="http://stockpromoters.com/Real-Time-Stock-Promotions.aspx">Real Time Promotions</a></li>
+                    <li><a href="http://stockpromoters.com/Stock-Promotion-Email-Archive.aspx">Stock Promotion Email Archive</a></li>
+                    <li><a href="http://stockpromoters.com/View-Stock-Promotions-By-Symbol.aspx">View Promotions by Symbol</a></li>
+                    <li><a href="http://stockpromoters.com/View-Promotions-By-Promoter.aspx">View Promotions by Promoter</a></li>
+                    <li><a href="http://stockpromoters.com/Todays-EOD-Promotions.aspx">Todays (EOD) Promotions</a></li>
                 </ul>
             </li>
-            <li><a href="#">Promoters</a>
+            <li><a href="http://stockpromoters.com/Stock-Promoters.aspx">Promoters</a>
                 <ul>
-                    
-                    <li>
-                        <a id="ctl00_ContentPlaceHolderyy_Footer1_hlnkFeaturePromoters" href="featured-stock-promoters.aspx">Featured Promoters</a></li>
-                    <li> <a id="ctl00_ContentPlaceHolderyy_Footer1_hykHYesterdays" href="Yesterdays-Top-Promotions.aspx">Yesterdays Top Promotions</a></li>
-                    <li>
-                        <a id="ctl00_ContentPlaceHolderyy_Footer1_hlnkTopPromoters" href="top-stock-promoters.aspx">Top Promoters (Best)</a></li>
-                    
-                    <li>
-                        <a id="ctl00_ContentPlaceHolderyy_Footer1_hlnkBottomPromoters" href="worst-stock-promoters.aspx">Bottom Promoters (Worst)</a></li>
-                    <li><a id="ctl00_ContentPlaceHolderyy_Footer1_hlnkPromoServicesHeader" href="view-stock-promoters-by-services.aspx">View Promoters by Services</a></li>
-                    
-                    <li>
-                        <a id="ctl00_ContentPlaceHolderyy_Footer1_hlnkPromotersToAvoid" href="stock-promoters-to-avoid.aspx">Promoters to Avoid</a></li>
-                    <li><a id="ctl00_ContentPlaceHolderyy_Footer1_hykHNews" href="http://ofinancialinc.com/category/sec-litigation-release">Stock Promoters in the News</a></li>
-                    
-                    <li>
-                        <a id="ctl00_ContentPlaceHolderyy_Footer1_hlnkAddpromoter" href="add-stock-promoter-to-be-tracked.aspx">Add&nbsp;Stock&nbsp;Promoter&nbsp;to&nbsp;be&nbsp;Tracked</a></li>
+                    <li><a href="http://stockpromoters.com/Featured-Stock-Promoters.aspx">Featured Promoters</a></li>
+                    <li><a href="http://stockpromoters.com/Yesterdays-Top-Promotions.aspx">Yesterdays Top Promotions</a></li>
+                    <li><a href="http://stockpromoters.com/Top-Stock-Promoters.aspx">Top Promoters (Best)</a></li>
+                    <li><a href="http://stockpromoters.com/Worst-Stock-Promoters.aspx">Bottom Promoters (Worst)</a></li>
+                    <li><a href="http://stockpromoters.com/Stock-Promoter-Watch-List.aspx">Stock Promoter Watch List</a></li>
+                    <li><a href="http://stockpromoters.com/View-Stock-Promoters-By-Services.aspx">View Promoters by Services</a></li>
+                    <li><a href="http://stockpromoters.com/Stock-Promoters-To-Avoid.aspx">Promoters to Avoid</a></li>
+                    <li><a href="http://stockpromoters.com/Stock-Promoters-In-The-News.aspx">Stock Promoters in the News</a></li>
+                    <li style="white-space:nowrap;"><a href="http://stockpromoters.com/Add-Stock-Promoter-To-Be-Tracked.aspx">Add Stock Promoter to be Tracked</a></li>
                 </ul>
             </li>
-            <li>
-                <a id="ctl00_ContentPlaceHolderyy_Footer1_hlnkPublicCompanies" href="PublicCompanies.aspx">Public Companies</a>
+            <li><a href="http://stockpromoters.com/PublicCompanies.aspx">Public Companies</a>
                 <ul>
-                  <li><a id="ctl00_ContentPlaceHolderyy_Footer1_hlnkSeekingPromotion" href="Public-Companies-Seeking-Promotion.aspx">Seeking Promotion</a></li>
-                                
-                                <li><a id="ctl00_ContentPlaceHolderyy_Footer1_hlnkNeedFunding" href="view-public-companies-seeking-financing.aspx">Seeking Financing</a></li>
-                                <li><a id="ctl00_ContentPlaceHolderyy_Footer1_hlnkLookingGoPublic" href="companies-looking-to-go-public.aspx">Looking to Go Public</a></li>
-                    <li> <a id="ctl00_ContentPlaceHolderyy_Footer1_hykIRPRH" href="IR-vs-PR-Which-is-for-Me.aspx">IR vs. PR Which is for Me?</a></li>
-                    <li>
-                        <a id="ctl00_ContentPlaceHolderyy_Footer1_hlnkFunding" href="public-companies-seeking-financing.aspx">Public&nbsp;Companies&nbsp;Seeking&nbsp;Financing</a></li>
+                  <li><a href="http://stockpromoters.com/Public-Companies-Seeking-Promotion.aspx">Co's Seeking Promotion (List)</a></li>
+                  <li><a href="http://stockpromoters.com/View-Public-Companies-Seeking-Financing.aspx">Co's Seeking Financing (LIst)</a></li>
+                  <li><a href="http://stockpromoters.com/View-Companies-Looking-To-Go-Public.aspx">Co's Looking to Go Public (LIst)</a></li>
+                  <li><a href="http://stockpromoters.com/Public-Companies-Seeking-Financing.aspx">Add Your Company</a></li>
                 </ul>
             </li>
-            <li><a href="http://stockpromoters.com/blog.aspx">
-                Penny Stock Market Blog</a></li>
-            <li><a href="http://stockpromoters.com/contactus.aspx">
-                Contact Stock Promoters</a>
+            <li><a href="http://stockpromoters.com/Contact-Stock-Promoters.aspx">Contact Stock Promoters</a>
                 <ul>
-                <li>
-                <a id="ctl00_ContentPlaceHolderyy_Footer1_hplnkcomments" href="submit-general-comments-or-questions.aspx">Submit&nbsp;Your&nbsp;General&nbsp;Questions&nbsp;&amp;&nbsp;Comments</a>
-                </li>
+                    <li style="white-space:nowrap;"><a href="http://stockpromoters.com/submit-general-comments-or-questions.aspx">Submit Your General Questions &amp; Comments</a></li>
                 </ul>
-                </li>
+            </li>
         </ul>
     </div>
     <div class="wrapper">
@@ -270,7 +300,7 @@
 <!-- search and lookup -->
 <div id="searchStripe">
     <div class="stockQuote">
-        <form action="../Stock_Quote/symboldata.aspx" method="get">
+        <form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get">
         <p>
             <label>
                 Stock Quote</label></p>
@@ -288,36 +318,36 @@
             </select>
         </p>
         <p>
-            <input src="img/btn_go.gif" name="ctl00$ContentPlaceHolderyy$Footer1$Image1" type="image" id="ctl00_ContentPlaceHolderyy_Footer1_Image1"></p>
+            <input src="/img/btn_go.gif" name="ctl00$ContentPlaceHolderyy$Footer1$Image1" type="image" id="ctl00_ContentPlaceHolderyy_Footer1_Image1"></p>
         </form>
     </div>
-    <div class="symbolLookup">
+    <!--<div class="symbolLookup">
         <form action="../Stock_Quote/symboldata.aspx" method="get">
         <p>
             <label>
                 Symbol Lookup</label></p>
         <p>
-            <input name="symbol" type="text">
+            <input name="symbol" type="text" />
             </p>
-            <input type="hidden" name="action" value="showDetailedQuote">
+            <input type="hidden" name="action" value="showDetailedQuote" />
         <p>
-            <input src="img/btn_go.gif" name="ctl00$ContentPlaceHolderyy$Footer1$Image2" type="image" id="ctl00_ContentPlaceHolderyy_Footer1_Image2"></p>
+            <input src="img/btn_go.gif" name="ctl00$ContentPlaceHolderyy$Footer1$Image2" type="image" id="ctl00_ContentPlaceHolderyy_Footer1_Image2" /></p>
         <p>
             <a href="#">Advanced</a></p>
         </form>
-    </div>
-    <div class="siteSearch">
+    </div>-->
+    <!--<div class="siteSearch">
         <form action="../Stock_Quote/symboldata.aspx" method="get">
         <p>
             <label>
                 Search</label></p>
         <p>
-            <input name="symbol" type="text" title="Promoter, Public Company, Stock"></p>
-            <input type="hidden" name="action" value="showDetailedQuote">
+            <input name="symbol" type="text" title="Promoter, Public Company, Stock" /></p>
+            <input type="hidden" name="action" value="showDetailedQuote" />
         <p>
-            <input src="img/btn_go.gif" name="ctl00$ContentPlaceHolderyy$Footer1$Image3" type="image" id="ctl00_ContentPlaceHolderyy_Footer1_Image3"></p>
+            <input src="img/btn_go.gif" name="ctl00$ContentPlaceHolderyy$Footer1$Image3" type="image" id="ctl00_ContentPlaceHolderyy_Footer1_Image3" /></p>
         </form>
-    </div>
+    </div>-->
     <div class="wrapper">
     </div>
 </div>
@@ -328,124 +358,445 @@
           
             <div id="contentContainer">
                 
+
 <div id="sPageLeftSideBar">
-    <div id="sQuotemediaMD">
-    <!--   Start of Quotemedia.com Tab Indices Chart Tool Code   -->
-    <script language="javascript" type="text/javascript" src="http://app.quotemedia.com/quotetools/miniTabQuotes.go?cp=off&amp;toolWidth=200&amp;chhig=120&amp;chbdr=cccccc&amp;dji=dl&amp;symbols=.dji&amp;symbols=comp&amp;symbols=.sp500&amp;chfill=0E9E1E&amp;chfill2=97BF9B&amp;chln=444444&amp;webmasterId=95599"></script>
-    <!--   End of Quotemedia.com Tab Indices Chart Tool Code   -->
-    <img src="images/pixshim.gif" height="5" width="1" alt="">
-    <!--   Start of Quotemedia.com Vertical Actives/Gainers/Losers Tool Code   -->
-    <script language="javascript" type="text/javascript" src="http://app.quotemedia.com/quotetools/scalingMarketStats.go?webmasterId=95599&amp;toolWidth=200&amp;statExchange=OTC&amp;stat=va&amp;htext=OTC+Vol.+Actives&amp;statTop=8&amp;cp=off&amp;detailURL=http://stockpromoters.com/Stock_Quote/companydata.asp"></script>
-    <!--   End of Quotemedia.com Vertical Actives/Gainers/Losers Tool Code   -->
-    <img src="images/pixshim.gif" height="5" width="1" alt="">
-    <!--   Start of Quotemedia.com Vertical Actives/Gainers/Losers Tool Code   -->
-    <script language="javascript" type="text/javascript" src="http://app.quotemedia.com/quotetools/scalingMarketStats.go?webmasterId=95599&amp;toolWidth=200&amp;statExchange=OTC&amp;stat=dg&amp;htext=OTC+%24+Gainers&amp;statTop=8&amp;cp=off&amp;detailURL=http://stockpromoters.com/Stock_Quote/companydata.asp"></script>
-    <!--   End of Quotemedia.com Vertical Actives/Gainers/Losers Tool Code   -->   
-    <img src="images/pixshim.gif" height="5" width="1" alt="">
-    <!--   Start of Quotemedia.com Vertical Actives/Gainers/Losers Tool Code   -->
-    <script language="javascript" type="text/javascript" src="http://app.quotemedia.com/quotetools/scalingMarketStats.go?webmasterId=95599&amp;toolWidth=200&amp;statExchange=OTC&amp;stat=pg&amp;htext=OTC+%25+Gainers&amp;statTop=8&amp;cp=off&amp;detailURL=http://stockpromoters.com/Stock_Quote/companydata.asp"></script>
-    <!--   End of Quotemedia.com Vertical Actives/Gainers/Losers Tool Code   -->
-    </div>
+        <div id="ctl00_Main_ucleftContent_pnlLogin2">
+	
+            <div id="dataTerminalBG" style="width:212px;">
+                <div id="dataTerminal" style="width:195px;">
+                    <div style="width: auto; padding: 5px 0px 5px 0px; font-size: 12px; font-weight:bold; color: #ffcc33;
+                        text-transform: uppercase; text-align: center;">
+                        StockPromoters.com Live Data Terminal
+                    </div>
+                    <div style="padding: 5px 0px 0px 0px; width: auto; color: #ccc; width: auto; text-align: center; font-size: 11px;">
+                        <span style="padding: 0px 0px 0px 0px;">Promotions Tracked To Date: <span id="ctl00_Main_ucleftContent_lblPromotions"><b>125622</b></span></span>
+                    </div>
+                    <div style="padding: 5px 0px 0px 0px; width: auto; color: #ccc; width: auto; text-align: center; font-size: 11px;">
+                        <span style="padding: 0px 0px 0px 0px;">Promoters Tracked: <span id="ctl00_Main_ucleftContent_lblPromoters"><b>1524</b></span></span>
+                    </div>
+                    <div style="padding: 5px 0px 0px 0px; width: auto; color: #ccc; width: auto; text-align: center; font-size: 11px;">
+                        <span style="padding: 0px 0px 0px 0px;">Companies Looking to go Public: <span id="ctl00_Main_ucleftContent_lblLookingPublic"><b>1</b></span></span>
+                    </div>
+                    <div style="padding: 5px 0px 0px 0px; width: auto; color: #ccc; width: auto; text-align: center; font-size: 11px;">
+                        <span style="padding: 0px 0px 0px 0px;">Public&nbsp;Companies&nbsp;Seeking&nbsp;Promotion: <span id="ctl00_Main_ucleftContent_lblSeekingPromotion"><b>4</b></span></span>                        
+                    </div>
+                    <div style="padding: 5px 0px 0px 0px; width: auto; color: #ccc; width: auto; text-align: center; font-size: 11px;">
+                        <span style="padding: 0px 0px 0px 0px;">Public&nbsp;Companies&nbsp;Seeking&nbsp;Financing: <span id="ctl00_Main_ucleftContent_lblSeekingFinancing"><b>5</b></span></span>
+                    </div>
+                </div>
+            </div>
+        
 </div>
+        <br>
+        
+
+    <div style="background-color:White; border: 1px #C7C7C7 solid;font-family:Arial,Helvetica,sans-serif; padding-left:5px; padding-top:5px;padding-bottom:20px">
+        <table>
+    <tbody><tr>
+    <td align="center">
+    <span style="font-size:20px;line-height:21px">The Most Promoted Penny Stocks This Week</span>
+    </td>
+    </tr>
+    <tr>
+    <td align="center">
+    <span style="font-size:10px; color:Black">(Last 5 Trading Days)</span>
+    </td>
+    </tr>
+    </tbody></table>
+       
+        
+        <hr style="width:90%">
+        <br>
+        <ul style=" margin:0px; padding-left:0;">
+    
+        
+            
+                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
+		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="SNPK">
+			<input name="symbol" type="hidden" value="SNPK" style="display:none">
+			<input name="action" type="hidden" value="showDetailedQuote">
+                  <a href='javascript:SearchSubmit("SNPK")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">SNPK</a>
+                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
+                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=SNPK">67&nbsp;newsletters</a> 
+		</form>
+                </li>
+          
+    
+        
+            
+                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
+		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="SPOW">
+			<input name="symbol" type="hidden" value="SPOW" style="display:none">
+			<input name="action" type="hidden" value="showDetailedQuote">
+                  <a href='javascript:SearchSubmit("SPOW")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">SPOW</a>
+                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
+                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=SPOW">59&nbsp;newsletters</a> 
+		</form>
+                </li>
+          
+    
+        
+            
+                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
+		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="RACK">
+			<input name="symbol" type="hidden" value="RACK" style="display:none">
+			<input name="action" type="hidden" value="showDetailedQuote">
+                  <a href='javascript:SearchSubmit("RACK")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">RACK</a>
+                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
+                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=RACK">38&nbsp;newsletters</a> 
+		</form>
+                </li>
+          
+    
+        
+            
+                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
+		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="SEFE">
+			<input name="symbol" type="hidden" value="SEFE" style="display:none">
+			<input name="action" type="hidden" value="showDetailedQuote">
+                  <a href='javascript:SearchSubmit("SEFE")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">SEFE</a>
+                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
+                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=SEFE">34&nbsp;newsletters</a> 
+		</form>
+                </li>
+          
+    
+        
+            
+                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
+		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="AEDC">
+			<input name="symbol" type="hidden" value="AEDC" style="display:none">
+			<input name="action" type="hidden" value="showDetailedQuote">
+                  <a href='javascript:SearchSubmit("AEDC")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">AEDC</a>
+                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
+                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=AEDC">29&nbsp;newsletters</a> 
+		</form>
+                </li>
+          
+    
+        
+            
+                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
+		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="FROG">
+			<input name="symbol" type="hidden" value="FROG" style="display:none">
+			<input name="action" type="hidden" value="showDetailedQuote">
+                  <a href='javascript:SearchSubmit("FROG")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">FROG</a>
+                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
+                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=FROG">57&nbsp;newsletters</a> 
+		</form>
+                </li>
+          
+    
+        
+            
+                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
+		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="PTSH">
+			<input name="symbol" type="hidden" value="PTSH" style="display:none">
+			<input name="action" type="hidden" value="showDetailedQuote">
+                  <a href='javascript:SearchSubmit("PTSH")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">PTSH</a>
+                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
+                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=PTSH">31&nbsp;newsletters</a> 
+		</form>
+                </li>
+          
+    
+        
+            
+                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
+		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="OREO">
+			<input name="symbol" type="hidden" value="OREO" style="display:none">
+			<input name="action" type="hidden" value="showDetailedQuote">
+                  <a href='javascript:SearchSubmit("OREO")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">OREO</a>
+                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
+                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=OREO">35&nbsp;newsletters</a> 
+		</form>
+                </li>
+          
+    
+        
+            
+                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
+		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="DHSM">
+			<input name="symbol" type="hidden" value="DHSM" style="display:none">
+			<input name="action" type="hidden" value="showDetailedQuote">
+                  <a href='javascript:SearchSubmit("DHSM")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">DHSM</a>
+                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
+                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=DHSM">21&nbsp;newsletters</a> 
+		</form>
+                </li>
+          
+    
+        
+            
+                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
+		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="MDRM">
+			<input name="symbol" type="hidden" value="MDRM" style="display:none">
+			<input name="action" type="hidden" value="showDetailedQuote">
+                  <a href='javascript:SearchSubmit("MDRM")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">MDRM</a>
+                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
+                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=MDRM">17&nbsp;newsletters</a> 
+		</form>
+                </li>
+          
+    
+        
+            
+                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
+		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="MELY">
+			<input name="symbol" type="hidden" value="MELY" style="display:none">
+			<input name="action" type="hidden" value="showDetailedQuote">
+                  <a href='javascript:SearchSubmit("MELY")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">MELY</a>
+                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
+                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=MELY">14&nbsp;newsletters</a> 
+		</form>
+                </li>
+          
+    
+        
+            
+                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
+		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="ZNTR">
+			<input name="symbol" type="hidden" value="ZNTR" style="display:none">
+			<input name="action" type="hidden" value="showDetailedQuote">
+                  <a href='javascript:SearchSubmit("ZNTR")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">ZNTR</a>
+                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
+                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=ZNTR">11&nbsp;newsletters</a> 
+		</form>
+                </li>
+          
+    
+        
+            
+                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
+		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="LUXR">
+			<input name="symbol" type="hidden" value="LUXR" style="display:none">
+			<input name="action" type="hidden" value="showDetailedQuote">
+                  <a href='javascript:SearchSubmit("LUXR")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">LUXR</a>
+                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
+                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=LUXR">14&nbsp;newsletters</a> 
+		</form>
+                </li>
+          
+    
+        
+            
+                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
+		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="RSRS">
+			<input name="symbol" type="hidden" value="RSRS" style="display:none">
+			<input name="action" type="hidden" value="showDetailedQuote">
+                  <a href='javascript:SearchSubmit("RSRS")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">RSRS</a>
+                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
+                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=RSRS">20&nbsp;newsletters</a> 
+		</form>
+                </li>
+          
+    
+        
+            
+                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
+		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="STKO">
+			<input name="symbol" type="hidden" value="STKO" style="display:none">
+			<input name="action" type="hidden" value="showDetailedQuote">
+                  <a href='javascript:SearchSubmit("STKO")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">STKO</a>
+                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
+                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=STKO">30&nbsp;newsletters</a> 
+		</form>
+                </li>
+          
+    
+        
+            
+                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
+		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="DIGX">
+			<input name="symbol" type="hidden" value="DIGX" style="display:none">
+			<input name="action" type="hidden" value="showDetailedQuote">
+                  <a href='javascript:SearchSubmit("DIGX")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">DIGX</a>
+                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
+                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=DIGX">23&nbsp;newsletters</a> 
+		</form>
+                </li>
+          
+    
+        
+            
+                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
+		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="SYNC">
+			<input name="symbol" type="hidden" value="SYNC" style="display:none">
+			<input name="action" type="hidden" value="showDetailedQuote">
+                  <a href='javascript:SearchSubmit("SYNC")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">SYNC</a>
+                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
+                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=SYNC">10&nbsp;newsletters</a> 
+		</form>
+                </li>
+          
+    
+        
+            
+                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
+		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="MSEZ">
+			<input name="symbol" type="hidden" value="MSEZ" style="display:none">
+			<input name="action" type="hidden" value="showDetailedQuote">
+                  <a href='javascript:SearchSubmit("MSEZ")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">MSEZ</a>
+                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
+                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=MSEZ">10&nbsp;newsletters</a> 
+		</form>
+                </li>
+          
+    
+        
+            
+                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
+		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="XCLL">
+			<input name="symbol" type="hidden" value="XCLL" style="display:none">
+			<input name="action" type="hidden" value="showDetailedQuote">
+                  <a href='javascript:SearchSubmit("XCLL")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">XCLL</a>
+                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
+                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=XCLL">18&nbsp;newsletters</a> 
+		</form>
+                </li>
+          
+    
+        
+            
+                <li style="text-align:left; background: url(img/bullted.gif) no-repeat left; padding:0 0 0 40px; list-style:none;  line-height:35px">
+		<form action="http://stockpromoters.com/Stock_Quote/symboldata.aspx" method="get" id="PFNI">
+			<input name="symbol" type="hidden" value="PFNI" style="display:none">
+			<input name="action" type="hidden" value="showDetailedQuote">
+                  <a href='javascript:SearchSubmit("PFNI")' style="font-size:13px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline">PFNI</a>
+                  <span style="font-family:Arial,Helvetica,sans-serif; color:black">by</span>&nbsp;
+                 <a style="font-size:12px; font-family:Arial,Helvetica,sans-serif; color: #0577f8; text-decoration: underline" href="http://stockpromoters.com/News-Letters.aspx?symbol=PFNI">9&nbsp;newsletters</a> 
+		</form>
+                </li>
+          
+    
+    </ul>
+        </div>
+    
+
+        <!--<div id="sQuotemediaMD">-->
+            <!--   Start of Quotemedia.com Tab Indices Chart Tool Code   -->
+            <!--<script language="javascript" type="text/javascript" src="http://app.quotemedia.com/quotetools/miniTabQuotes.go?cp=off&toolWidth=200&chhig=120&chbdr=cccccc&dji=dl&symbols=.dji&symbols=comp&symbols=.sp500&chfill=0E9E1E&chfill2=97BF9B&chln=444444&webmasterId=95599"></script>-->
+            <!--   End of Quotemedia.com Tab Indices Chart Tool Code   -->
+            <!--<img src="../images/pixshim.gif" height="5" width="1" alt=""/>-->
+            <!--   Start of Quotemedia.com Vertical Actives/Gainers/Losers Tool Code   -->
+            <!--<script language="javascript" type="text/javascript" src="http://app.quotemedia.com/quotetools/scalingMarketStats.go?webmasterId=95599&toolWidth=200&statExchange=OTC&stat=va&htext=OTC+Vol.+Actives&statTop=8&cp=off&detailURL=http://stockpromoters.com/Stock_Quote/companydata.asp"></script>-->
+            <!--   End of Quotemedia.com Vertical Actives/Gainers/Losers Tool Code   -->
+            <!--<img src="../images/pixshim.gif" height="5" width="1" alt=""/>-->
+            <!--   Start of Quotemedia.com Vertical Actives/Gainers/Losers Tool Code   -->
+            <!--<script language="javascript" type="text/javascript" src="http://app.quotemedia.com/quotetools/scalingMarketStats.go?webmasterId=95599&toolWidth=200&statExchange=OTC&stat=dg&htext=OTC+%24+Gainers&statTop=8&cp=off&detailURL=http://stockpromoters.com/Stock_Quote/companydata.asp"></script>-->
+            <!--   End of Quotemedia.com Vertical Actives/Gainers/Losers Tool Code   -->
+            <!--<img src="../images/pixshim.gif" height="5" width="1" alt="" />-->
+            <!--   Start of Quotemedia.com Vertical Actives/Gainers/Losers Tool Code   -->
+            <!--<script language="javascript" type="text/javascript" src="http://app.quotemedia.com/quotetools/scalingMarketStats.go?webmasterId=95599&toolWidth=200&statExchange=OTC&stat=pg&htext=OTC+%25+Gainers&statTop=8&cp=off&detailURL=http://stockpromoters.com/Stock_Quote/companydata.asp"></script>-->
+            <!--   End of Quotemedia.com Vertical Actives/Gainers/Losers Tool Code   -->
+        <!--</div>-->
+        <div id="ctl00_Main_ucleftContent_headerCompanyBanner"><br><br><a href="http://stockpromoters.com/Contact-Stock-Promoters.aspx" target="_blank"><img src="/images/Advertisers/banners/TEST-01.jpg" runat="server"></a></div>
+    </div>
+
 
 <div id="sPageRightContent">
-    
-    <h2>Privacy Policy</h2>
-    
-    
-<table width="100%" border="0">
-    <tbody>
-        <tr style="font-weight: bold;">
-            <td style="padding: 10px 20px 10px 15px; text-align: left;">Privacy is our priority.</td>
-        </tr>
-        <tr>
-            <td style="padding: 10px 20px 10px 15px; text-align: left;">We are committed to protecting our customers' personal and financial information. In the course of providing financial products and services, we need to collect and maintain certain nonpublic personal information. This Privacy Statement answers some questions about what nonpublic personal information we collect, what we do with it, and how we protect it. <br>
-
-            <br>
-            We do not disclose any nonpublic personal information about our customers or former customers to any nonaffiliated third parties, except as described below. </td>
-        </tr>
-        <tr style="font-weight: bold;">
-            <td style="padding: 10px 20px 10px 15px; text-align: left;">What types of nonpublic personal information do we collect?</td>
-        </tr>
-        <tr>
-            <td style="padding: 10px 20px 10px 15px; text-align: left;">When you apply for, open, or maintain an account with us we collect the following types of information: <br>
-
-            Information you provide online and on applications or other forms, such as your name, address,&nbsp; date of birth, employment information, investment experience, and risk tolerance. <br>
-            Information about your transactions with us, such as your account balance and payment history.  </td>
-        </tr>
-        <tr style="font-weight: bold;">
-            <td style="padding: 10px 20px 10px 15px; text-align: left;">What types of nonpublic personal information do we disclose?</td>
-        </tr>
-
-        <tr>
-            <td style="padding: 10px 20px 10px 15px; text-align: left;">We may disclose nonpublic personal information we collect, primarily to make available to you the financial products and services that we and our business partners provide. We do not disclose nonpublic personal information about former customers to anyone, except as permitted by law or to cooperate with regulators or law enforcement authorities. </td>
-        </tr>
-        <tr style="font-weight: bold;">
-            <td style="padding: 10px 20px 10px 15px; text-align: left;">To what types of entities (other than those companies used to process or service transactions) do we disclose nonpublic personal information?</td>
-        </tr>
-        <tr>
-            <td style="padding: 10px 20px 10px 15px; text-align: left;">We may disclose nonpublic personal information among our affiliated companies and to other financial services providers with which we have joint marketing agreements or that offer financial products and services with us or on our behalf. By sharing this information, we can provide you with a broader range of financial products and services, improve your experience with us, and better serve your financial needs. <br>
-
-            <br>
-            We may also disclose information that we collect from you such as your name, contact information, and customer relationships with us to nonaffiliated third parties that perform services, such as marketing or market research, on our behalf. For example, we may provide your name, address, phone number, and/or e-mail address to vendors who send out our e-mail or regular mail. <br>
-            <br>
-            We require that all entities with which we share your nonpublic personal information, including companies that process or service transactions for us, agree to keep your information confidential. We also prohibit them from using or disclosing your information except for the limited purpose and to the persons for whom disclosure was intended, or as otherwise permitted by law. <br>
-            <br>
-            We will not sell your personal information to third-party marketers or any other entity for any purpose without your consent. <br>
-            <br>
-
-            In some limited circumstances, we may disclose nonpublic personal information to a non-financial services company, such as a retailer with which we have a marketing program, but only with your prior consent. If you consent to such disclosure, the information shared will be limited to that stated in our request for your consent. Account balance, credit, Social Security number, and trading activity information are not disclosed.</td>
-        </tr>
-        <tr style="font-weight: bold;">
-            <td style="padding: 10px 20px 10px 15px; text-align: left;">To what other types of entities might we disclose nonpublic personal information?</td>
-        </tr>
-        <tr>
-            <td style="padding: 10px 20px 10px 15px; text-align: left;">We may disclose nonpublic personal information to companies employed to SP to service, maintain, or process your transactions and accounts. For example, we provide information to companies that prepare and mail account statements and transaction confirmations. <br>
-
-            <br>
-            In addition, we disclose nonpublic personal information to nonaffiliated third parties, as permitted or required by law or to cooperate with regulators or law enforcement authorities. These parties include government/regulatory organizations, such as the Internal Revenue Service (IRS) and the Securities and Exchange Commission (SEC), any of the securities exchanges and states with which we are registered and to parties under court order or subpoena that request this information. Disclosures for which you have provided your consent or you have directed SP to make are also permitted. </td>
-        </tr>
-        <tr style="font-weight: bold;">
-            <td style="padding: 10px 20px 10px 15px; text-align: left;">What opt-outs of disclosure are available and how can they be exercised?</td>
-        </tr>
-        <tr>
-            <td style="padding: 10px 20px 10px 15px; text-align: left;">The law allows you to opt-out of our sharing nonpublic personal information about you in certain circumstances with affiliated and nonaffiliated companies; that is, you may direct us to not make such disclosures. Currently we do not share information about you with any affiliate or third party that triggers this opt-out right. Therefore, there is no need for you to opt-out. If, in the future, we desire to disclose your information in a way that is inconsistent with this policy, we will notify you in advance and provide you with the opportunity to opt-out of such disclosure. </td>
-
-        </tr>
-        <tr style="font-weight: bold;">
-            <td style="padding: 10px 20px 10px 15px; text-align: left;">How do we protect the confidentiality and security of nonpublic personal information?</td>
-        </tr>
-        <tr>
-            <td style="padding: 10px 20px 10px 15px; text-align: left;">We maintain physical, electronic, and procedural safeguards that meet or exceed industry standards to guard your nonpublic personal information. We protect your account information by placing it on the secure portion of our web site, using firewalls and other security technology to protect our network and systems from external attacks, and requiring you to enter a unique user name and password to access your account information online. Also, our servers have been enabled with Secure Sockets Layer (SSL) technology to prevent unauthorized parties from viewing the nonpublic personal information that you provide or access during a secure session (look for the padlock icon on your browser). In addition, we use digital certificate services to authenticate that you are transacting with our web site. <br>
-            <br>
-            Our employees (for example, customer service and compliance personnel) and third party service providers have access to your nonpublic personal information strictly on a "need to know" basis. We conduct regular internal audits of our business practices and procedures, examining confidentiality standards and information access in order to protect your personal information. <br>
-
-            <br>
-            In addition to our security measures, you can also take steps to maximize your security online and to protect your confidential information. Additional information on these topics can be found on our web site at the Online Security link at the bottom of most web pages. </td>
-        </tr>
-        <tr style="font-weight: bold;">
-            <td style="padding: 10px 20px 10px 15px; text-align: left;">What should I know about "cookies"?</td>
-        </tr>
-        <tr>
-
-            <td style="padding: 10px 20px 10px 15px; text-align: left;">"Cookies" are small amounts of data that a web site can send to your web browser and store on your computer. Cookies do not contain personal information about you (unless you knowingly provide it). Cookies can note that your browser was used to visit certain sites, pages, or advertisements on a certain date. <br>
-            <br>
-            We use cookies to enhance navigation and the functionality of our web site, to securely verify your identity, and to personalize aspects of your experience on our site. We also use cookies to let us know how visitors are using our web site, so that we can improve our site and your experience on it. We permit certain third party ad servers to set cookies and use related technology (such as web beacons) through our web site to track performance of advertisements and to collect aggregate data on web page viewing. <br>
-            <br>
-            You do have control over cookies. Most browsers can be set to notify you when a cookie is being placed on your computer. You can set most browsers to refuse to accept cookies, although this may affect your internet experience. You can also erase cookies that are already on your computer. For more information on working with cookies, consult the user manual, FAQ, or "Help" function of your specific browser. </td>
-
-        </tr>
-        <tr style="font-weight: bold;">
-            <td style="padding: 10px 20px 10px 15px; text-align: left;">How can customers access and update their nonpublic personal information that we collect?</td>
-        </tr>
-        <tr>
-            <td style="padding: 10px 20px 10px 15px; text-align: left;">We take measures to ensure that customers' nonpublic personal information is accurate and up-to-date. You can also access and update certain nonpublic personal information that we collect about you. To access and update your mailing address or your home or work phone numbers for your StockPromoters.com account, log on to our Web site using your user name and password. </td>
-        </tr>
-    </tbody>
-
+    <div id="ctl00_Main_divStaticPageContent" style="width: 658px"><h2 style="padding:10px 0px 10px 0px">
+	Privacy Policy</h2>
+<hr size="1" style="margin:0 0 8px 0;">
+<table border="0" width="100%">
+	<tbody>
+		<tr style="font-weight: bold;">
+			<td style="padding: 10px 20px 10px 15px; text-align: left;">
+				Privacy is our priority.</td>
+		</tr>
+		<tr>
+			<td style="padding: 10px 20px 10px 15px; text-align: left;">
+				We are committed to protecting our customers' personal and financial information. In the course of providing financial products and services, we need to collect and maintain certain nonpublic personal information. This Privacy Statement answers some questions about what nonpublic personal information we collect, what we do with it, and how we protect it.<br>
+				<br>
+				We do not disclose any nonpublic personal information about our customers or former customers to any nonaffiliated third parties, except as described below.</td>
+		</tr>
+		<tr style="font-weight: bold;">
+			<td style="padding: 10px 20px 10px 15px; text-align: left;">
+				What types of nonpublic personal information do we collect?</td>
+		</tr>
+		<tr>
+			<td style="padding: 10px 20px 10px 15px; text-align: left;">
+				When you apply for, open, or maintain an account with us we collect the following types of information:<br>
+				Information you provide online and on applications or other forms, such as your name, address,&nbsp; date of birth, employment information, investment experience, and risk tolerance.<br>
+				Information about your transactions with us, such as your account balance and payment history.</td>
+		</tr>
+		<tr style="font-weight: bold;">
+			<td style="padding: 10px 20px 10px 15px; text-align: left;">
+				What types of nonpublic personal information do we disclose?</td>
+		</tr>
+		<tr>
+			<td style="padding: 10px 20px 10px 15px; text-align: left;">
+				We may disclose nonpublic personal information we collect, primarily to make available to you the financial products and services that we and our business partners provide. We do not disclose nonpublic personal information about former customers to anyone, except as permitted by law or to cooperate with regulators or law enforcement authorities.</td>
+		</tr>
+		<tr style="font-weight: bold;">
+			<td style="padding: 10px 20px 10px 15px; text-align: left;">
+				To what types of entities (other than those companies used to process or service transactions) do we disclose nonpublic personal information?</td>
+		</tr>
+		<tr>
+			<td style="padding: 10px 20px 10px 15px; text-align: left;">
+				We may disclose nonpublic personal information among our affiliated companies and to other financial services providers with which we have joint marketing agreements or that offer financial products and services with us or on our behalf. By sharing this information, we can provide you with a broader range of financial products and services, improve your experience with us, and better serve your financial needs.<br>
+				<br>
+				We may also disclose information that we collect from you such as your name, contact information, and customer relationships with us to nonaffiliated third parties that perform services, such as marketing or market research, on our behalf. For example, we may provide your name, address, phone number, and/or e-mail address to vendors who send out our e-mail or regular mail.<br>
+				<br>
+				We require that all entities with which we share your nonpublic personal information, including companies that process or service transactions for us, agree to keep your information confidential. We also prohibit them from using or disclosing your information except for the limited purpose and to the persons for whom disclosure was intended, or as otherwise permitted by law.<br>
+				<br>
+				We will not sell your personal information to third-party marketers or any other entity for any purpose without your consent.<br>
+				<br>
+				In some limited circumstances, we may disclose nonpublic personal information to a non-financial services company, such as a retailer with which we have a marketing program, but only with your prior consent. If you consent to such disclosure, the information shared will be limited to that stated in our request for your consent. Account balance, credit, Social Security number, and trading activity information are not disclosed.</td>
+		</tr>
+		<tr style="font-weight: bold;">
+			<td style="padding: 10px 20px 10px 15px; text-align: left;">
+				To what other types of entities might we disclose nonpublic personal information?</td>
+		</tr>
+		<tr>
+			<td style="padding: 10px 20px 10px 15px; text-align: left;">
+				We may disclose nonpublic personal information to companies employed to SP to service, maintain, or process your transactions and accounts. For example, we provide information to companies that prepare and mail account statements and transaction confirmations.<br>
+				<br>
+				In addition, we disclose nonpublic personal information to nonaffiliated third parties, as permitted or required by law or to cooperate with regulators or law enforcement authorities. These parties include government/regulatory organizations, such as the Internal Revenue Service (IRS) and the Securities and Exchange Commission (SEC), any of the securities exchanges and states with which we are registered and to parties under court order or subpoena that request this information. Disclosures for which you have provided your consent or you have directed SP to make are also permitted.</td>
+		</tr>
+		<tr style="font-weight: bold;">
+			<td style="padding: 10px 20px 10px 15px; text-align: left;">
+				What opt-outs of disclosure are available and how can they be exercised?</td>
+		</tr>
+		<tr>
+			<td style="padding: 10px 20px 10px 15px; text-align: left;">
+				The law allows you to opt-out of our sharing nonpublic personal information about you in certain circumstances with affiliated and nonaffiliated companies; that is, you may direct us to not make such disclosures. Currently we do not share information about you with any affiliate or third party that triggers this opt-out right. Therefore, there is no need for you to opt-out. If, in the future, we desire to disclose your information in a way that is inconsistent with this policy, we will notify you in advance and provide you with the opportunity to opt-out of such disclosure.</td>
+		</tr>
+		<tr style="font-weight: bold;">
+			<td style="padding: 10px 20px 10px 15px; text-align: left;">
+				How do we protect the confidentiality and security of nonpublic personal information?</td>
+		</tr>
+		<tr>
+			<td style="padding: 10px 20px 10px 15px; text-align: left;">
+				We maintain physical, electronic, and procedural safeguards that meet or exceed industry standards to guard your nonpublic personal information. We protect your account information by placing it on the secure portion of our web site, using firewalls and other security technology to protect our network and systems from external attacks, and requiring you to enter a unique user name and password to access your account information online. Also, our servers have been enabled with Secure Sockets Layer (SSL) technology to prevent unauthorized parties from viewing the nonpublic personal information that you provide or access during a secure session (look for the padlock icon on your browser). In addition, we use digital certificate services to authenticate that you are transacting with our web site.<br>
+				<br>
+				Our employees (for example, customer service and compliance personnel) and third party service providers have access to your nonpublic personal information strictly on a "need to know" basis. We conduct regular internal audits of our business practices and procedures, examining confidentiality standards and information access in order to protect your personal information.<br>
+				<br>
+				In addition to our security measures, you can also take steps to maximize your security online and to protect your confidential information. Additional information on these topics can be found on our web site at the Online Security link at the bottom of most web pages.</td>
+		</tr>
+		<tr style="font-weight: bold;">
+			<td style="padding: 10px 20px 10px 15px; text-align: left;">
+				What should I know about "cookies"?</td>
+		</tr>
+		<tr>
+			<td style="padding: 10px 20px 10px 15px; text-align: left;">
+				"Cookies" are small amounts of data that a web site can send to your web browser and store on your computer. Cookies do not contain personal information about you (unless you knowingly provide it). Cookies can note that your browser was used to visit certain sites, pages, or advertisements on a certain date.<br>
+				<br>
+				We use cookies to enhance navigation and the functionality of our web site, to securely verify your identity, and to personalize aspects of your experience on our site. We also use cookies to let us know how visitors are using our web site, so that we can improve our site and your experience on it. We permit certain third party ad servers to set cookies and use related technology (such as web beacons) through our web site to track performance of advertisements and to collect aggregate data on web page viewing.<br>
+				<br>
+				You do have control over cookies. Most browsers can be set to notify you when a cookie is being placed on your computer. You can set most browsers to refuse to accept cookies, although this may affect your internet experience. You can also erase cookies that are already on your computer. For more information on working with cookies, consult the user manual, FAQ, or "Help" function of your specific browser.</td>
+		</tr>
+		<tr style="font-weight: bold;">
+			<td style="padding: 10px 20px 10px 15px; text-align: left;">
+				How can customers access and update their nonpublic personal information that we collect?</td>
+		</tr>
+		<tr>
+			<td style="padding: 10px 20px 10px 15px; text-align: left;">
+				We take measures to ensure that customers' nonpublic personal information is accurate and up-to-date. You can also access and update certain nonpublic personal information that we collect about you. To access and update your mailing address or your home or work phone numbers for your StockPromoters.com account, log on to our Web site using your user name and password.</td>
+		</tr>
+	</tbody>
 </table>
-
-    
+</div>
     <div class="wrapper"></div>
 </div>
 
@@ -461,112 +812,73 @@
     <div id="footerL1">
         <ul>
             <li>
-                <h6>
-                    StockPromoters Services</h6>
+                <h6>StockPromoters Services</h6>
                 <ul>
-                  <li><a id="ctl00_ucMainFooter_hykFInvestorAwareness" href="Investor-Awareness.aspx">Investor Awareness</a></li>
-                    <li><a id="ctl00_ucMainFooter_hykFConsultingServices" href="Consulting-Services.aspx">Consulting Services</a></li>
-                    <li><a id="ctl00_ucMainFooter_hykFMarketing" href="Internet-Marketing.aspx">Internet Marketing</a></li>
-                    <li><a id="ctl00_ucMainFooter_hykFWireServices" href="Wire-Services.aspx">Wire Services</a></li>
-                    <li><a href="http://stockpromoters.com/services/restricted_stock_solutions.aspx">
-                        Restricted Stock Solutions</a></li>
-                    <li><a href="http://stockpromoters.com/services/links.aspx">
-                        Useful Links</a></li>
-                    <li><a href="http://stockpromoters.com/signup.aspx">
-                        Join StockPromoters For Free</a></li>
-                    <li>
-                        <a id="ctl00_ucMainFooter_hlnkMemberComments" href="view-member-comments.aspx">View Member Comments</a></li>
-                  
-                    <li>
-                        <a id="ctl00_ucMainFooter_hlnkWatchList" href="stock-promoter-watrch-list.aspx">Promoter Watch List</a></li>
-                    <li>
-                        <a id="ctl00_ucMainFooter_hlnkChanges" href="view-changes-in-the-rules.aspx">Changes in the Rules</a></li>
+                  <li><a href="http://stockpromoters.com/Investor-Awareness.aspx">Quarterbacked IR Campaigns</a></li>
+                  <li><a href="http://stockpromoters.com/Consulting-Services.aspx">Consulting Services</a></li>
+                  <li><a href="http://stockpromoters.com/Wire-Services.aspx">Wire Services</a></li>
+                  <li><a href="http://stockpromoters.com/Restricted-Stock-Solutions.aspx">Restricted Stock Solutions</a></li>
+                  <li><a href="http://stockpromoters.com/Useful-Stock-Market-Links.aspx">Useful Links</a></li>
+                  <li><a href="http://stockpromoters.com/View-Changes-In-The-Rules.aspx">Changes in the Rules</a></li>
+                  <li><a href="http://stockpromoters.com/Join-Stock-Promoters-For-Free.aspx">Join StockPromoters For Free</a></li>
+                </ul>
+           </li>
+           <li>
+                <h6>Stock Promotions</h6>
+                <ul>
+                    <li><a href="http://stockpromoters.com/Daily-Stock-Promotions.aspx">Daily Promotions</a></li>
+                    <li><a href="http://stockpromoters.com/First-Time-Stock-Promotions.aspx">First Time Promotions</a></li>
+                    <li><a href="http://stockpromoters.com/Real-Time-Stock-Promotions.aspx">Real Time Promotions</a></li>
+                    <li><a href="http://stockpromoters.com/Stock-Promotion-Email-Archive.aspx">Stock Promotion Email Archive</a></li>
+                    <li><a href="http://stockpromoters.com/View-Stock-Promotions-By-Symbol.aspx">View Promotions by Symbol</a></li>
+                    <li><a href="http://stockpromoters.com/View-Promotions-By-Promoter.aspx">View Promotions by Promoter</a></li>
+                    <li><a href="http://stockpromoters.com/Todays-EOD-Promotions.aspx">Todays (EOD) Promotions</a></li>
                 </ul>
             </li>
             <li>
-                <h6>
-                    Stock Promotions</h6>
+                <h6>Promoters</h6>
                 <ul>
-                    <li><a id="ctl00_ucMainFooter_hlnkPromotion" href="daily-stock-promotions.aspx">Daily Promotions</a></li>
-                    
-                    <li>
-                        <a id="ctl00_ucMainFooter_hlnkFirstTimePromotions" href="first-time-stock-promotions.aspx">First Time Promotions</a></li>
-                    <li>
-                        <a id="ctl00_ucMainFooter_hlnkRealTimePromotions" href="new-stock-promotions.aspx">Real Time Promotions</a></li>
-                               <li>
-                        <a id="ctl00_ucMainFooter_hlnkEmail" href="stock-promotion-email-archive.aspx">Stock Promotion Email Archive</a></li>
-                    
-                    <li>
-                        <a id="ctl00_ucMainFooter_hlnkPromotionsBySymbol" href="view-stock-promotions-by-symbol.aspx">View Promotions by Symbol</a></li>
-                    <li><a id="ctl00_ucMainFooter_hykFViewByPromoter" href="View-Promotions-By-Promoter.aspx">View Promotions by Promoter</a></li>
-                    <li><a id="ctl00_ucMainFooter_hykFEODPromotions" href="Todays-EOD-Promotions.aspx">Todays (EOD) Promotions</a></li>
+                    <li><a href="http://stockpromoters.com/Featured-Stock-Promoters.aspx">Featured Promoters</a></li>
+                    <li><a href="http://stockpromoters.com/Yesterdays-Top-Promotions.aspx">Yesterdays Top Promotions</a></li>
+                    <li><a href="http://stockpromoters.com/Top-Stock-Promoters.aspx">Top Promoters (Best)</a></li>
+                    <li><a href="http://stockpromoters.com/Worst-Stock-Promoters.aspx">Bottom Promoters (Worst)</a></li>
+                    <li><a href="http://stockpromoters.com/Stock-Promoter-Watch-List.aspx">Stock Promoter Watch List</a></li>
+                    <li><a href="http://stockpromoters.com/View-Stock-Promoters-By-Services.aspx">View Promoters by Services</a></li>
+                    <li><a href="http://stockpromoters.com/Stock-Promoters-To-Avoid.aspx">Promoters to Avoid</a></li>
+                    <li><a href="http://stockpromoters.com/Stock-Promoters-In-The-News.aspx">Stock Promoters in the News</a></li>
+                    <li><a href="http://stockpromoters.com/Add-Stock-Promoter-To-Be-Tracked.aspx">Add Promoter to be Tracked</a></li>
                 </ul>
             </li>
             <li>
-                <h6>
-                    Promoters</h6>
+                <h6>Public Companies</h6>
                 <ul>
-                    
-                    <li>
-                        <a id="ctl00_ucMainFooter_hlnkFeaturePromoters" href="featured-stock-promoters.aspx">Featured Promoters</a></li>
-                    <li> <a id="ctl00_ucMainFooter_hykFYesterdays" href="Yesterdays-Top-Promotions.aspx">Yesterdays Top Promotions</a></li>
-                    
-                    <li>
-                        <a id="ctl00_ucMainFooter_hlnkTopPromoters" href="top-stock-promoters.aspx">Top Promoters (Best)</a>
-                        <a href="#"></a></li>
-                    
-                    <li>
-                        <a id="ctl00_ucMainFooter_hlnkBottomPromoters" href="worst-stock-promoters.aspx">Bottom Promoters (Worst)</a></li>
-                    <li><a id="ctl00_ucMainFooter_hlnkPromoServices" href="view-stock-promoters-by-services.aspx">View Promoters by Services</a></li>
-                    
-                    <li>
-                        <a id="ctl00_ucMainFooter_hlnkPromotersToAvoid" href="stock-promoters-to-avoid.aspx">Promoters to Avoid</a></li>
-                    <li><a id="ctl00_ucMainFooter_hykFNews" href="http://ofinancialinc.com/category/sec-litigation-release">Stock Promoters in the News</a></li>
-                    
-                    <li>
-                        <a id="ctl00_ucMainFooter_hlnkPromotertobeTracked" href="add-stock-promoter-to-be-tracked.aspx">Add Promoter to be Tracked</a></li>
-                </ul>
-            </li>
-            <li>
-                <h6>
-                    Public Companies</h6>
-                <ul>
-
-                    
-                    <li><a id="ctl00_ucMainFooter_HyperLink2" href="Public-Companies-Seeking-Promotion.aspx">Seeking Promotion</a></li>
-                    <li><a id="ctl00_ucMainFooter_hlnkSeekingFinancing" href="view-public-companies-seeking-financing.aspx">Seeking Financing</a></li>
-                    <li><a id="ctl00_ucMainFooter_hlnkGoPublic" href="companies-looking-to-go-public.aspx">Looking to Go Public</a></li>
-                    <li><a id="ctl00_ucMainFooter_hlnkNeedFunding" href="public-companies-seeking-financing.aspx">Public Companies Seeking Financing</a></li>
-
-                    <li><a id="ctl00_ucMainFooter_hykIRPRF" href="IR-vs-PR-Which-is-for-Me.aspx">IR vs. PR Which is for Me?</a></li>
-                </ul>
-            </li>
+                    <li><a href="http://stockpromoters.com/Public-Companies-Seeking-Promotion.aspx">Co's Seeking Promotion (List)</a></li>
+                    <li><a href="http://stockpromoters.com/View-Public-Companies-Seeking-Financing.aspx">Co's Seeking Financing (List)</a></li>
+                    <li><a href="http://stockpromoters.com/View-Companies-Looking-To-Go-Public.aspx">Co's Looking to Go Public (List)</a></li>
+                    <li><a href="http://stockpromoters.com/Public-Companies-Seeking-Financing.aspx">Add Your Company</a></li>
+              </ul>
+          </li>
         </ul>
-        <div class="wrapper">
+      <div class="wrapper">
         </div>
     </div>
     <div id="footerL2">
-        <a id="ctl00_ucMainFooter_hlnkAboutStockPromoters" href="about-stock-promoters-com.aspx">About StockPromoters</a>
-        <a id="ctl00_ucMainFooter_hlnkFAQ" href="stockpromoters-faq.aspx">F.A.Q.</a>
-        <a id="ctl00_ucMainFooter_hlnkWhatsNew" href="whats-new-at-stockpromoters.aspx">What's New</a>
-        
-        <a href="http://stockpromoters.com/privacy.aspx">
-            Privacy Policy</a> <a href="http://stockpromoters.com/disclaimer.aspx">
-                Disclaimer</a> <a href="http://stockpromoters.com/testimonials.aspx">
-                    What People Are Saying About SP</a> 
-                    <a href="http://stockpromoters.com/blog.aspx">
-                        Blog</a> <a href="http://stockpromoters.com/contactus.aspx">
-                            Contact</a>
+        <a href="http://stockpromoters.com/About-Stock-Promoters.aspx">About StockPromoters</a>
+        <a href="http://stockpromoters.com/Stock-Promoters-FAQ.aspx">F.A.Q.</a>
+        <a href="http://stockpromoters.com/Whats-New-At-Stock-Promoters.aspx">What's New</a>
+        <a href="http://stockpromoters.com/Stock-Promoters-Privacy-Policy.aspx">Privacy</a>
+        <a href="http://stockpromoters.com/Disclaimer.aspx">Disclaimer</a>
+        <a href="http://stockpromoters.com/View-Member-Comments.aspx">Member Comments</a>
+        <a href="http://stockpromoters.com/Contact-Stock-Promoters.aspx">Contact Us</a>
     </div>
-    <div id="footerL3">
+<div id="footerL3">
         <div class="footerCopyright">
             <p>
                 Copyright ©
-                <span id="ctl00_ucMainFooter_lblCopyrightYear">2011</span>
+                <span id="ctl00_ucMainFooter_lblCopyrightYear">2012</span>
                 Stockpromoters.com.</p>
             <p>
-                All Rights Reserved. (<a href="http://stockpromoters.com/terms.aspx">Terms
-                    and Conditions</a>)</p>
+                All Rights Reserved. (<a href="http://stockpromoters.com/Terms-And-Conditions.aspx">Terms and Conditions</a>)</p>
         </div>
         <div class="footerTerms">
             <p>
@@ -578,8 +890,11 @@
     </div>
     <div class="wrapper">
     </div>
+    <br>
+	<br>
 </div>
 <!-- END Footer Section-->
+<!-- <script src="http://cdn.wibiya.com/Toolbars/dir_0626/Toolbar_626591/Loader_626591.js" type="text/javascript"></script><noscript></noscript> -->
 
             <!-- END Footer -->
         </div>
