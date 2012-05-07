@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metro.net privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205928id_/http%3A//www.metro.net/about/site-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metro.net privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507233357id_/http%3A//www.metro.net/about/site-information/privacy-policy) for the most accurate reproduction.*
 
 # Site Information | Privacy Policy
 
