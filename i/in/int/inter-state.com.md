@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inter-state.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230163214id_/http%3A//www.inter-state.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inter-state.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507172300id_/http%3A//www.inter-state.com/privacy.cfm) for the most accurate reproduction.*
 
 # Inter-State Studio & Publishing Company
 
