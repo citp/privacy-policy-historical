@@ -1,579 +1,345 @@
-<!--The following is the downloaded HTML source of the vendanything.com privacy policy that was archived on 2011-11-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111107185108id_/http%3A//www.vendanything.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vendanything.com privacy policy that was archived on 2012-05-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120507112656id_/http%3A//vendanything.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xml:lang="en"><head>
-	<base href="http://www.vendanything.com/">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><base href="http://vendanything.com/">
 	<title></title>
-	<link href="http://www.vendanything.com/newads.php" rel="alternate" title="VendAnything.com New Ads" type="application/rss+xml">
-	<link rel="shortcut icon" href="/images/favicon.ico">
-	<script type="text/javascript">
-	var showDateShort = 1;
-	var showDate= 2;
-	var showDateTime= 3;
-	var showTime= 4;
-	function ShowDateTime(dateStyle)
-	{
-	var today = new Date();
-	var dStr = "";
-	switch (dateStyle)
-	{
-	case showDateShort:
-	dStr = today.toDateString();
-	break;
-	case showDateTime:
-	dStr = today.toLocaleString();
-	break;
-	case showTime:
-	dStr = today.toLocaleTimeString();
-	break;
-	case showDate:
-	default:
-	dStr = today.toLocaleDateString();
-	break;
-	}
-	document.write(dStr);
-	}
-	</script>
-	<link href="geostyle.css" rel="stylesheet" type="text/css">
-	<script type="text/javascript">
-	<!--
-	function win(fileName) {
-		myFloater = window.open('','myWindow','scrollbars=yes,status=no,width=300,height=300');
-		myFloater.location.href = fileName;
-		
-		if (window.focus) {myFloater.focus();}
-		
-	}
-	function winimage(fileName,width,height) {
-		myFloater = window.open('','myWindow','scrollbars=yes,resizable=yes,status=no,width=' + width + ',height=' + height)
-		myFloater.location.href = fileName;
-	}
-	--></script>
-<style type="text/css">
-<!--
- .identifier_field { 
-font-family: Arial, Helvetica, sans-serif; 
-font-size: 12px; 
-font-style: normal; 
-font-weight: bold; 
-color: #000000; 
- } 
-
-.main_navigation_1_name { 
-font-family: Arial, Helvetica, sans-serif; 
-font-size: 12px; 
-font-style: normal; 
-font-weight: normal; 
-color: #000000; 
-text-decoration: underline; 
- } 
-
-.main_navigation_1_count { 
-font-family: Arial, Helvetica, sans-serif; 
-font-size: 12px; 
-font-style: normal; 
-font-weight: bold; 
-color: #000000; 
-text-decoration: none; 
- } 
-
-.main_navigation_1_description { 
-font-family: Arial, Helvetica, sans-serif; 
-font-size: 12px; 
-font-style: normal; 
-font-weight: normal; 
-color: #cc6600; 
- } 
-
-.main_navigation_1_subcategories_to { 
-font-family: Arial, Helvetica, sans-serif; 
-font-size: 12px; 
-font-style: normal; 
- } 
-
-.main_navigation_1_ad_count { 
-font-family: Arial, Helvetica, sans-serif; 
-font-size: 10px; 
-font-style: normal; 
-font-weight: normal; 
-color: #ff0000; 
-text-decoration: none; 
- } 
-
-.main_navigation_1_auction_count { 
-font-family: Arial, Helvetica, sans-serif; 
-font-size: 10px; 
-font-style: normal; 
-font-weight: normal; 
-color: #0000ff; 
-text-decoration: none; 
- } 
-
-.main_navigation_1_sub_category_name { 
-font-family: Arial, Helvetica, sans-serif; 
-font-size: 10px; 
-font-style: normal; 
-color: #000000; 
-text-decoration: underline; 
- } 
-
- -->
-</style>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="Content-Style-Type" content="text/css">
+	<meta name="Keywords" content="KEYWORDS GO HERE">
+	<meta name="Description" content="DESCRIPTION GOES HERE">
+	<script type="text/javascript" src="js/prototype.js"></script>
+<script type="text/javascript" src="js/scriptaculous/scriptaculous.js"></script>
+<script type="text/javascript" src="geo_templates/default/external/js/main.js"></script>
 
 <script type="text/javascript">
-	var debug = 0;
-	var status = '';
-
-	function createRequestObject() {
-		var ro;
-		var browser = navigator.appName;
-		if(browser == 'Microsoft Internet Explorer'){
-			ro = new ActiveXObject("Microsoft.XMLHTTP");
-		}else{
-			ro = new XMLHttpRequest();
-		}
-		return ro;
-	}
-
-	var http = createRequestObject();
-
-	function sendReq(action, b) {
-		if (b){
-			b = '&amp;b='+b;
-		}
-		if (action=='close'){
-			//use different url for close/cron routines
-			url = 'cron.php?action=cron';
-		} else {
-			//so that page is valid, and ajax still works.
-			url = '?a=ajax&amp;action='+action+b;
-			url = url.replace(/amp;/ig,"");
-		}
-		if(debug) {
-			status += 'URL: '+url+'\n';
-			alert(status);
-		}
-		try {
-			http.open('get', url);
-			if(debug)
-				status += 'Request sent\n\n';
-			http.onreadystatechange = handleResponse;
-			http.send(null);
-		} catch(exception) {
-				if(debug)	alert('exception error is . . . \n\n'+exception);
-			}
-	}
-
-	function handleResponse() {
-		if(http.readyState == 4) {
-			var response = http.responseText;
-			var update = new Array();
-			var sep = '|';
-			if (response.indexOf('~~|~~') != -1){
-				sep = '~~|~~';
-			}
-			if(response.indexOf(sep) != -1) {
-				update = response.split(sep);
-				if(debug) {
-					alert('Debug: \n\t'+status+'\n\nupdate[0] = '+update[0]+'\n\nupdate[1] = '+update[1]);
-					status = '';
-				}
-				//allow applying text to up to 4 different elements.
-				if (document.getElementById(update[1]))
-					document.getElementById(update[1]).innerHTML = update[0];
-				if (document.getElementById(update[2]))
-					document.getElementById(update[2]).innerHTML = update[0];
-				if (document.getElementById(update[3]))
-					document.getElementById(update[3]).innerHTML = update[0];
-				if (document.getElementById(update[4]))
-					document.getElementById(update[4]).innerHTML = update[0];
-			} else if(debug)
-				alert ('Debug: \n\t'+status+'\n\n'+response);
-		}
-	}
+	//<![CDATA[
+	//initialize things for the page
+	Event.observe(window, 'load', function () {
+		geoUtil.runHeartbeat = true;
+		
+		geoUtil.init();
+	});
+	//]]>
 </script>
-	<script type="text/javascript">
-	  	sendReq('close', '');
-	</script>
+		
+	<!--  This loads the RSS feed  -->
+	<link rel="alternate" type="application/rss+xml" title="Newest Listing Feed" href="rss_listings.php">
+	
+	<link href="geo_templates/my_templates/external/css/theme_styles.css" rel="stylesheet" type="text/css">
+	<link href="geo_templates/my_templates/external/css/primary_theme_styles.css" rel="stylesheet" type="text/css">
+	<link href="geo_templates/my_templates/external/css/secondary_theme_styles.css" rel="stylesheet" type="text/css">
 </head>
 <body>
-<table class="bodytable">
-	<tbody>
-		<tr>
-			<td><!-- # BEGIN HEADER - CHANGE THIS HTML IN THE MODULES AREA OF THE ADMIN -->&nbsp; 
-<table border="0" style="width: 249px; height: 102px">
-	<tbody>
-		<tr>
-			<td><a href="index.php"><img alt="Header Logo" height="130" src="images/logos/vendanythinglogo3web.jpg" width="596"></a>&nbsp;</td>
-			<td>
-			<p align="center">
-			<a href="index.php?a=1"><img align="middle" alt="Place Your FREE AD Now!" hspace="100" src="images/buttons/but_freeadnow.jpg" title="PLACE YOUR FREE AD NOW!"></a>&nbsp;<font color="#000080"> </font>
-			</p>
-			</td>
-			<td><font color="#000080" size="5" style="background-color: #ffffff">FREE Auctions!</font>&nbsp;&nbsp;</td>
-			<td>&nbsp;</td>
-		</tr>
-	</tbody>
-</table>
-<script src="http://www.easyipfinder.com/openx284/www/delivery/spcjs.php?id=3&amp;block=1&amp;blockcampaign=1&amp;target=_blank" type="text/javascript">
-</script>
- <!-- END HEADER --></td>
-		</tr>
-		<tr>
-			<td><!-- # BEGIN TOP MENU BAR - CHANGE THIS HTML IN THE MODULES AREA OF THE ADMIN --><table cellpadding="0" cellspacing="0" style="border-collapse: collapse; height: 21px; border: 0pt" width="100%">
-	<tbody>
-		<tr>
-			<td>
-			<table cellpadding="0" cellspacing="0" style="border-collapse: collapse; height: 21px; border: 0pt">
-				<tbody>
-					<tr>
-						<td style="height: 21px"><img alt="" src="images/blank.gif" width="4"></td>
-						<td class="box_head_1_left">&nbsp;</td>
-						<td class="box_head_1_dyn"><a href="index.php">Browse</a></td>
-						<td class="box_head_1_right">&nbsp;</td>
-						<td style="height: 21px"><img alt="" src="images/blank.gif" width="2"></td>
-						<td class="box_head_1_left">&nbsp;</td>
-						<td class="box_head_1_dyn"><a href="index.php?a=19">Search</a></td>
-						<td class="box_head_1_right">&nbsp;</td>
-						<td style="height: 21px"><img alt="" src="images/blank.gif" width="2"></td>
-						<td class="box_head_1_left">&nbsp;</td>
-						<td class="box_head_1_dyn"><a href="index.php?a=1">Place Your Free Ad NOW!</a></td>
-						<td class="box_head_1_right">&nbsp;</td>
-						<td style="height: 21px"><img alt="" src="images/blank.gif" width="2"></td>
-						<td class="box_head_1_left">&nbsp;</td>
-						<td class="box_head_1_dyn"><a href="index.php?a=4">My Account</a></td>
-						<td class="box_head_1_right">&nbsp;</td>
-						<td style="height: 21px"><img alt="" src="images/blank.gif" width="2"></td>
-						<td class="box_head_1_left">&nbsp;</td>
-						<td class="box_head_1_dyn"><a href="index.php?a=28&amp;b=143">Pricing</a></td>
-						<td class="box_head_1_right">&nbsp;</td>
-						<td style="height: 21px"><img alt="" src="images/blank.gif" width="2"></td>
-						<td class="box_head_1_left">&nbsp;</td>
-						<td class="box_head_1_dyn"><a href="index.php?a=28&amp;b=136">Contact Us</a></td>
-						<td class="box_head_1_right">&nbsp;</td>
-						<td style="height: 21px"><img alt="" src="images/blank.gif" width="2"></td>
-					</tr>
-				</tbody>
-			</table>
-			</td>
-			<td align="right">
-			<table cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: 0pt">
-				<tbody>
-					<tr>
-						<td class="box_head_1_left">&nbsp;</td>
-						<td class="box_head_1_dyn">
-						<script type="text/javascript">
-						ShowDateTime(showDate)</script>1/30/2020</td>
-						<td class="box_head_1_right">&nbsp;</td>
-						<td><img alt="" height="1" src="images/blank.gif" width="2"></td>
-						<td class="box_head_2_left">&nbsp;</td>
-						<td class="box_head_2_dyn"><a href="register.php">Register</a></td>
-						<td class="box_head_2_right">&nbsp;</td>
-						<td><img alt="" height="1" src="images/blank.gif" width="2"></td>
-						<td class="box_head_2_left">&nbsp;</td>
-						<td class="box_head_2_dyn"><a href="index.php?a=10">Sign In</a></td>
-						<td class="box_head_2_right">&nbsp;</td>
-					</tr>
-				</tbody>
-			</table>
-			</td>
-		</tr>
-	</tbody>
-</table>
- <!-- # END TOP MENU BAR --><!-- # BEGIN SUBMENU BAR - CHANGE THIS HTML IN THE MODULES AREA OF THE ADMIN --><script type="text/javascript">
-function make_bookmark() {
-var title = document.title == "" ? "VendAnything.com" : document.title;
-var location = document.location.href;
-if(window.sidebar) { //FF
-window.sidebar.addPanel(title,location,"");
-} else if(window.external) { //IE
-window.external.addFavorite(location,title);
-}
-}</script>
-<table cellpadding="0" cellspacing="0" class="submenu" style="margin-bottom: 6px" width="100%">
-	<tbody>
-		<tr>
-			<td style="width: 24px"><img alt="" height="1" src="images/blank.gif" width="24"></td>
-			<td><!--# Submenu Elements Begin-->
-			<table cellpadding="0" cellspacing="0" class="submenu_buttons">
-				<tbody>
-					<tr>
-						<td><img alt="" src="images/bullet2.gif" style="border: 0px">&nbsp;<a href="index.php?a=10">Login</a></td>
-						<td><img alt="" src="images/blank.gif" width="20"></td>
-						<td><img alt="" src="images/bullet2.gif" style="border: 0px">&nbsp;<a href="index.php?a=28&amp;b=137">How it Works</a></td>
-						<td><img alt="" src="images/blank.gif" width="20"></td>
-						<td><img alt="" src="images/bullet2.gif" style="border: 0px">&nbsp;<a href="index.php?a=28&amp;b=135">Seller Features</a></td>
-						<td><img alt="" src="images/blank.gif" width="20"></td>
-						<td><img alt="" src="images/bullet2.gif" style="border: 0px">&nbsp;<a href="index.php?a=28&amp;b=139">Buyer Features</a></td>
-						<td><img alt="" src="images/blank.gif" width="20"></td>
-						<td><img alt="" src="images/bullet2.gif" style="border: 0px">&nbsp;<a href="register.php">Register</a></td>
-						<td><img alt="" src="images/blank.gif" width="20"></td>
-						<td><img alt="" src="images/bullet2.gif" style="border: 0px"><a href="javascript: make_bookmark();">Bookmark Site</a></td>
-						<td><img alt="" src="images/blank.gif" width="20"></td>
-						<td><img alt="" src="images/bullet2.gif" style="border: 0px"><a href="#" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage(document.location.href);">Make Homepage</a></td>
-					</tr>
-				</tbody>
-			</table>
-			<!--# Submenu Elements Begin--></td>
-			<td style="text-align: right">Welcome: <span class="identifier_field">Guest</span><img alt="" height="1" src="images/blank.gif" width="20"> </td>
-		</tr>
-	</tbody>
-</table>
- <!-- # END SUBMENU BAR --></td>
-		</tr>
-		<tr>
-			<td><!-- MAIN 3 COLUMN BODY TABLE START-->
-			<table class="maintable">
-				<tbody>
-					<tr valign="top">
-						<td class="leftcolumn"><!-- LEFT COLUMN - MAIN TABLE START--><table border="0" cellpadding="0" cellspacing="0" width="190">
-	<tbody>
-		<tr>
-			<td>
-			<table border="0" cellpadding="0" cellspacing="0" width="100%">
-				<tbody>
-					<tr>
-						<td class="box_head_1_left">&nbsp;</td>
-						<td class="box_head_1_dyn">Quick Search </td>
-						<td class="box_head_1_right">&nbsp;</td>
-					</tr>
-				</tbody>
-			</table>
-			</td>
-		</tr>
-		<tr>
-			<td>
-			<form action="index.php?a=19" method="post">
-				<table class="box_content_1" width="100%">
-					<tbody>
-						<tr>
-							<td align="center"><input name="b[search_titles]" type="hidden" value="1"> <input name="b[search_descriptions]" type="hidden" value="1"> <input maxlength="80" name="b[search_text]" size="15" style="border: #000000 1px solid" type="text"> <input class="formbutton" name="submit" type="submit" value="Go"> <br>
-							<a href="index.php?a=19" style="font-size: 12px; font-family: Tahoma">Advanced Search</a> </td>
-						</tr>
-					</tbody>
-				</table>
-			</form>
-			</td>
-		</tr>
-	</tbody>
-</table>
-<br>
-<!-- # CATEGORIES SECTION BEGIN -->
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" width="190">
-	<tbody>
-		<tr>
-			<td>
-			<table border="0" cellpadding="0" cellspacing="0" width="100%">
-				<tbody>
-					<tr>
-						<td class="box_head_1_left">&nbsp;</td>
-						<td class="box_head_1_dyn">Categories</td>
-						<td class="box_head_1_right">&nbsp;</td>
-					</tr>
-				</tbody>
-			</table>
-			</td>
-		</tr>
-		<tr>
-			<td>
-			<table class="box_content_1" width="100%">
-				<tbody>
-					<tr>
-						<td><table cellpadding="2" cellspacing="1" style="border-style: none; width: 100%;">
+
+
+<div class="outer_shell">
+	 <!-- START HEADER -->
+<div id="header"><a id="header_logo" title="Website Name" href="index.php">&nbsp; <img style="margin-top: 0px; margin-bottom: 0px;" title="VendAnything Logo" alt="VendAnything Logo" src="images/header/vendanythinglogo640x480.jpg"></a>
+<div id="top_banner"><!-- EDIT THE FOLLOWING LINE OF CODE WITH YOUR BANNER OR ADSENSE CODE -->
+<script type="text/javascript">// <![CDATA[
+google_ad_client = "ca-pub-5891150470273826";
+/* header banner */
+google_ad_slot = "9301870750";
+google_ad_width = 468;
+google_ad_height = 60;
+// ]]></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">// <![CDATA[
+
+// ]]></script>
+<!-- EDIT THE ABOVE LINE OF CODE WITH YOUR BANNER OR ADSENSE CODE --></div>
+</div>
+<!-- END HEADER --><!-- START NAVIGATION -->
+<div id="nav">
+<ul id="extra_links">
+<li><a href="index.php?a=28&amp;b=142">About Us</a></li>
+<li>|</li>
+<li><a href="index.php?a=28&amp;b=136">Contact Us</a></li>
+</ul>
+<ul id="nav_bar">
+<li><a href="index.php">Home</a></li>
+<li><a href="index.php?a=1">Sell</a></li>
+<li><a href="index.php?a=19">Search</a></li>
+<li><a href="index.php?a=ap&amp;addon=storefront&amp;page=list_stores">Stores</a></li>
+
+<li><a href="index.php?a=28&amp;b=135">Features</a></li>
+<li><a href="index.php?a=28&amp;b=143">Pricing</a></li>
+<li><a href="index.php?a=28&amp;b=141">Help</a></li>
+</ul>
+<div id="search_bar">
+<div id="search_inner"><div class="element">
+	<a href="index.php" style="display: none;" id="cat_dropdown_base">&nbsp;</a>
+	<select name="category_quick_nav0" id="category_quick_nav0" onchange="location.href = $('cat_dropdown_base').href+'?a=5&amp;b=' + this.options[this.selectedIndex].value;" class="field">
+			 		<option value="0" selected="selected">All Categories</option>
+	 		 		<option value="255">Aircraft</option>
+	 		 		<option value="12">Announcements </option>
+	 		 		<option value="201">&nbsp;&nbsp;&nbsp;Carpool</option>
+	 		 		<option value="200">&nbsp;&nbsp;&nbsp;Community Events</option>
+	 		 		<option value="198">&nbsp;&nbsp;&nbsp;Garage Sales</option>
+	 		 		<option value="203">&nbsp;&nbsp;&nbsp;General</option>
+	 		 		<option value="211">&nbsp;&nbsp;&nbsp;Lost &amp; Found</option>
+	 		 		<option value="202">&nbsp;&nbsp;&nbsp;Musicans - Artist - Bands</option>
+	 		 		<option value="204">&nbsp;&nbsp;&nbsp;Volunteers</option>
+	 		 		<option value="11">Antiques </option>
+	 		 		<option value="238">Apparel</option>
+	 		 		<option value="161">Arts &amp; Crafts </option>
+	 		 		<option value="15">Automobiles </option>
+	 		 		<option value="196">&nbsp;&nbsp;&nbsp;Cars</option>
+	 		 		<option value="207">&nbsp;&nbsp;&nbsp;Sport Utilty</option>
+	 		 		<option value="210">&nbsp;&nbsp;&nbsp;Sports Cars</option>
+	 		 		<option value="206">&nbsp;&nbsp;&nbsp;Trucks</option>
+	 		 		<option value="208">&nbsp;&nbsp;&nbsp;Vans</option>
+	 		 		<option value="262">Boats</option>
+	 		 		<option value="267">&nbsp;&nbsp;&nbsp;PWC</option>
+	 		 		<option value="261">Motorcycles</option>
+	 		 		<option value="266">&nbsp;&nbsp;&nbsp;ATV</option>
+	 		 		<option value="264">&nbsp;&nbsp;&nbsp;Off Road Bikes</option>
+	 		 		<option value="265">&nbsp;&nbsp;&nbsp;Street Bikes</option>
+	 		 		<option value="263">&nbsp;&nbsp;&nbsp;Accessories  &amp; Parts</option>
+	 		 		<option value="176">Books </option>
+	 		 		<option value="13">Business </option>
+	 		 		<option value="245">&nbsp;&nbsp;&nbsp;Equipment</option>
+	 		 		<option value="177">Cell Phones </option>
+	 		 		<option value="217">Collectibles</option>
+	 		 		<option value="218">Commercial Vehicles</option>
+	 		 		<option value="160">Computers &amp; Software</option>
+	 		 		<option value="213">&nbsp;&nbsp;&nbsp;Desktops</option>
+	 		 		<option value="214">&nbsp;&nbsp;&nbsp;Laptops</option>
+	 		 		<option value="215">&nbsp;&nbsp;&nbsp;Parts and Accessories</option>
+	 		 		<option value="246">&nbsp;&nbsp;&nbsp;Software</option>
+	 		 		<option value="10">Electronics </option>
+	 		 		<option value="237">Furniture</option>
+	 		 		<option value="242">Home Appliances</option>
+	 		 		<option value="235">Jewelry</option>
+	 		 		<option value="212">Jobs</option>
+	 		 		<option value="162">Music &amp; Movies </option>
+	 		 		<option value="247">Musical Instruments</option>
+	 		 		<option value="17">Personals </option>
+	 		 		<option value="216">Pets</option>
+	 		 		<option value="16">Real Estate - Sale</option>
+	 		 		<option value="219">&nbsp;&nbsp;&nbsp;Homes For Sale</option>
+	 		 		<option value="220">&nbsp;&nbsp;&nbsp;Commercial</option>
+	 		 		<option value="223">&nbsp;&nbsp;&nbsp;Condo/Townhouse</option>
+	 		 		<option value="225">&nbsp;&nbsp;&nbsp;Multifamily/Investment</option>
+	 		 		<option value="222">&nbsp;&nbsp;&nbsp;Vacant Land</option>
+	 		 		<option value="248">Real Estate - Rent</option>
+	 		 		<option value="250">&nbsp;&nbsp;&nbsp;Homes For Rent</option>
+	 		 		<option value="253">&nbsp;&nbsp;&nbsp;Apartments / Multifamily</option>
+	 		 		<option value="249">&nbsp;&nbsp;&nbsp;Commercial</option>
+	 		 		<option value="252">&nbsp;&nbsp;&nbsp;Condo/Townhouse</option>
+	 		 		<option value="251">&nbsp;&nbsp;&nbsp;Vacant Land</option>
+	 		 		<option value="205">RecreationalVehicles</option>
+	 		 		<option value="232">&nbsp;&nbsp;&nbsp;Campers &amp; Trailers</option>
+	 		 		<option value="226">&nbsp;&nbsp;&nbsp;Coaches &amp; Motorhomes</option>
+	 		 		<option value="231">&nbsp;&nbsp;&nbsp;Personal Watercraft</option>
+	 		 		<option value="14">Vacation Rentals </option>
+	 		 		<option value="241">Services</option>
+	 		 		<option value="240">Sporting Goods</option>
+	 		 		<option value="170">Tickets </option>
+	 		 		<option value="258">&nbsp;&nbsp;&nbsp;Concerts</option>
+	 		 		<option value="256">&nbsp;&nbsp;&nbsp;Sports</option>
+	 		 		<option value="259">&nbsp;&nbsp;&nbsp;Theater</option>
+	 		 		<option value="260">&nbsp;&nbsp;&nbsp;Other</option>
+	 		 		<option value="254">Tools and Equipment</option>
+	 		 		<option value="239">Toys &amp; Games</option>
+	 		 		<option value="191">Travel</option>
+	 		 		<option value="193">Anything Else</option>
+	 		 		<option value="234">Free Stuff</option>
+	 		</select>
+</div>
+<div id="search_box_1">
+	<form action="index.php?a=19" method="get">
+		<ul>
+			<li>
+				<input type="hidden" name="a" value="19">
+				<input type="text" name="b[search_text]" class="field keyword">
+			</li>
+			<li><select name="c" class="field">
+	 	<option value="0" selected="selected">All Categories</option>
+ 	 	<option value="255">Aircraft</option>
+ 	 	<option value="12">Announcements </option>
+ 	 	<option value="201">&nbsp;&nbsp;&nbsp;Carpool</option>
+ 	 	<option value="200">&nbsp;&nbsp;&nbsp;Community Events</option>
+ 	 	<option value="198">&nbsp;&nbsp;&nbsp;Garage Sales</option>
+ 	 	<option value="203">&nbsp;&nbsp;&nbsp;General</option>
+ 	 	<option value="211">&nbsp;&nbsp;&nbsp;Lost &amp; Found</option>
+ 	 	<option value="202">&nbsp;&nbsp;&nbsp;Musicans - Artist - Bands</option>
+ 	 	<option value="204">&nbsp;&nbsp;&nbsp;Volunteers</option>
+ 	 	<option value="11">Antiques </option>
+ 	 	<option value="238">Apparel</option>
+ 	 	<option value="161">Arts &amp; Crafts </option>
+ 	 	<option value="15">Automobiles </option>
+ 	 	<option value="196">&nbsp;&nbsp;&nbsp;Cars</option>
+ 	 	<option value="207">&nbsp;&nbsp;&nbsp;Sport Utilty</option>
+ 	 	<option value="210">&nbsp;&nbsp;&nbsp;Sports Cars</option>
+ 	 	<option value="206">&nbsp;&nbsp;&nbsp;Trucks</option>
+ 	 	<option value="208">&nbsp;&nbsp;&nbsp;Vans</option>
+ 	 	<option value="262">Boats</option>
+ 	 	<option value="267">&nbsp;&nbsp;&nbsp;PWC</option>
+ 	 	<option value="261">Motorcycles</option>
+ 	 	<option value="266">&nbsp;&nbsp;&nbsp;ATV</option>
+ 	 	<option value="264">&nbsp;&nbsp;&nbsp;Off Road Bikes</option>
+ 	 	<option value="265">&nbsp;&nbsp;&nbsp;Street Bikes</option>
+ 	 	<option value="263">&nbsp;&nbsp;&nbsp;Accessories  &amp; Parts</option>
+ 	 	<option value="176">Books </option>
+ 	 	<option value="13">Business </option>
+ 	 	<option value="245">&nbsp;&nbsp;&nbsp;Equipment</option>
+ 	 	<option value="177">Cell Phones </option>
+ 	 	<option value="217">Collectibles</option>
+ 	 	<option value="218">Commercial Vehicles</option>
+ 	 	<option value="160">Computers &amp; Software</option>
+ 	 	<option value="213">&nbsp;&nbsp;&nbsp;Desktops</option>
+ 	 	<option value="214">&nbsp;&nbsp;&nbsp;Laptops</option>
+ 	 	<option value="215">&nbsp;&nbsp;&nbsp;Parts and Accessories</option>
+ 	 	<option value="246">&nbsp;&nbsp;&nbsp;Software</option>
+ 	 	<option value="10">Electronics </option>
+ 	 	<option value="237">Furniture</option>
+ 	 	<option value="242">Home Appliances</option>
+ 	 	<option value="235">Jewelry</option>
+ 	 	<option value="212">Jobs</option>
+ 	 	<option value="162">Music &amp; Movies </option>
+ 	 	<option value="247">Musical Instruments</option>
+ 	 	<option value="17">Personals </option>
+ 	 	<option value="216">Pets</option>
+ 	 	<option value="16">Real Estate - Sale</option>
+ 	 	<option value="219">&nbsp;&nbsp;&nbsp;Homes For Sale</option>
+ 	 	<option value="220">&nbsp;&nbsp;&nbsp;Commercial</option>
+ 	 	<option value="223">&nbsp;&nbsp;&nbsp;Condo/Townhouse</option>
+ 	 	<option value="225">&nbsp;&nbsp;&nbsp;Multifamily/Investment</option>
+ 	 	<option value="222">&nbsp;&nbsp;&nbsp;Vacant Land</option>
+ 	 	<option value="248">Real Estate - Rent</option>
+ 	 	<option value="250">&nbsp;&nbsp;&nbsp;Homes For Rent</option>
+ 	 	<option value="253">&nbsp;&nbsp;&nbsp;Apartments / Multifamily</option>
+ 	 	<option value="249">&nbsp;&nbsp;&nbsp;Commercial</option>
+ 	 	<option value="252">&nbsp;&nbsp;&nbsp;Condo/Townhouse</option>
+ 	 	<option value="251">&nbsp;&nbsp;&nbsp;Vacant Land</option>
+ 	 	<option value="205">RecreationalVehicles</option>
+ 	 	<option value="232">&nbsp;&nbsp;&nbsp;Campers &amp; Trailers</option>
+ 	 	<option value="226">&nbsp;&nbsp;&nbsp;Coaches &amp; Motorhomes</option>
+ 	 	<option value="231">&nbsp;&nbsp;&nbsp;Personal Watercraft</option>
+ 	 	<option value="14">Vacation Rentals </option>
+ 	 	<option value="241">Services</option>
+ 	 	<option value="240">Sporting Goods</option>
+ 	 	<option value="170">Tickets </option>
+ 	 	<option value="258">&nbsp;&nbsp;&nbsp;Concerts</option>
+ 	 	<option value="256">&nbsp;&nbsp;&nbsp;Sports</option>
+ 	 	<option value="259">&nbsp;&nbsp;&nbsp;Theater</option>
+ 	 	<option value="260">&nbsp;&nbsp;&nbsp;Other</option>
+ 	 	<option value="254">Tools and Equipment</option>
+ 	 	<option value="239">Toys &amp; Games</option>
+ 	 	<option value="191">Travel</option>
+ 	 	<option value="193">Anything Else</option>
+ 	 	<option value="234">Free Stuff</option>
+ 	 </select>
+</li>
+							<li>
+					<select name="b[search_by_field]" class="field">
+						<option value="all_fields">All Fields</option>	
+						<option value="title_only">title only</option>	
+						<option value="description_only">description only</option>
+						<option value="optional_field_1">Shipping Cost
+</option>																														
+																																				
+																																				
+																																			</select>
+				</li>
+									<li>
+								<input type="hidden" name="b[subcategories_also]" value="1">
+				<input type="submit" value="Search" class="button">
+			</li>
+			
+					</ul>
+	</form>
+</div></div>
+</div>
+</div>
+<!-- END NAVIGATION -->
+<div class="clr"></div>
+<!-- START USER BAR -->
+<div id="user_bar">Welcome, <span class="text_highlight">
+			Guest
+	</span> (   <a href="register.php">Register</a> | <a href="index.php?a=10">Login</a>  )</div>
+<!-- END USER BAR -->
+	<div class="content_shell">
+		<div class="content_box">
+	<h1 class="title">Privacy Policy</h1>
 	
-<tbody><tr>
-	<td style="width: 100%;"><a href="index.php?a=5&amp;b=255" class="main_navigation_1_name">Aircraft</a><a href="index.php?a=5&amp;b=255" class="main_navigation_1_ad_count">(0)</a><a href="index.php?a=5&amp;b=255" class="main_navigation_1_auction_count">(0)</a></td></tr>
-<tr>
-	<td style="width: 100%;"><a href="index.php?a=5&amp;b=12" class="main_navigation_1_name">Announcements </a><a href="index.php?a=5&amp;b=12" class="main_navigation_1_ad_count">(2)</a><a href="index.php?a=5&amp;b=12" class="main_navigation_1_auction_count">(0)</a></td></tr>
-<tr>
-	<td style="width: 100%;"><a href="index.php?a=5&amp;b=11" class="main_navigation_1_name">Antiques </a><a href="index.php?a=5&amp;b=11" class="main_navigation_1_ad_count">(0)</a><a href="index.php?a=5&amp;b=11" class="main_navigation_1_auction_count">(0)</a></td></tr>
-<tr>
-	<td style="width: 100%;"><a href="index.php?a=5&amp;b=238" class="main_navigation_1_name">Apparel</a><a href="index.php?a=5&amp;b=238" class="main_navigation_1_ad_count">(18)</a><a href="index.php?a=5&amp;b=238" class="main_navigation_1_auction_count">(1)</a><img src="images/misc/new_ad.gif" alt=""></td></tr>
-<tr>
-	<td style="width: 100%;"><a href="index.php?a=5&amp;b=161" class="main_navigation_1_name">Arts &amp; Crafts </a><a href="index.php?a=5&amp;b=161" class="main_navigation_1_ad_count">(9)</a><a href="index.php?a=5&amp;b=161" class="main_navigation_1_auction_count">(0)</a></td></tr>
-<tr>
-	<td style="width: 100%;"><a href="index.php?a=5&amp;b=15" class="main_navigation_1_name">Automobiles </a><a href="index.php?a=5&amp;b=15" class="main_navigation_1_ad_count">(0)</a><a href="index.php?a=5&amp;b=15" class="main_navigation_1_auction_count">(0)</a></td></tr>
-<tr>
-	<td style="width: 100%;"><a href="index.php?a=5&amp;b=262" class="main_navigation_1_name">Boats</a><a href="index.php?a=5&amp;b=262" class="main_navigation_1_ad_count">(0)</a><a href="index.php?a=5&amp;b=262" class="main_navigation_1_auction_count">(0)</a></td></tr>
-<tr>
-	<td style="width: 100%;"><a href="index.php?a=5&amp;b=261" class="main_navigation_1_name">Motorcycles</a><a href="index.php?a=5&amp;b=261" class="main_navigation_1_ad_count">(0)</a><a href="index.php?a=5&amp;b=261" class="main_navigation_1_auction_count">(0)</a></td></tr>
-<tr>
-	<td style="width: 100%;"><a href="index.php?a=5&amp;b=176" class="main_navigation_1_name">Books </a><a href="index.php?a=5&amp;b=176" class="main_navigation_1_ad_count">(7)</a><a href="index.php?a=5&amp;b=176" class="main_navigation_1_auction_count">(0)</a></td></tr>
-<tr>
-	<td style="width: 100%;"><a href="index.php?a=5&amp;b=13" class="main_navigation_1_name">Business </a><a href="index.php?a=5&amp;b=13" class="main_navigation_1_ad_count">(34)</a><a href="index.php?a=5&amp;b=13" class="main_navigation_1_auction_count">(1)</a><img src="images/misc/new_ad.gif" alt=""></td></tr>
-<tr>
-	<td style="width: 100%;"><a href="index.php?a=5&amp;b=177" class="main_navigation_1_name">Cell Phones </a><a href="index.php?a=5&amp;b=177" class="main_navigation_1_ad_count">(2)</a><a href="index.php?a=5&amp;b=177" class="main_navigation_1_auction_count">(0)</a></td></tr>
-<tr>
-	<td style="width: 100%;"><a href="index.php?a=5&amp;b=217" class="main_navigation_1_name">Collectibles</a><a href="index.php?a=5&amp;b=217" class="main_navigation_1_ad_count">(1)</a><a href="index.php?a=5&amp;b=217" class="main_navigation_1_auction_count">(0)</a><img src="images/misc/new_ad.gif" alt=""></td></tr>
-<tr>
-	<td style="width: 100%;"><a href="index.php?a=5&amp;b=218" class="main_navigation_1_name">Commercial Vehicles</a><a href="index.php?a=5&amp;b=218" class="main_navigation_1_ad_count">(1)</a><a href="index.php?a=5&amp;b=218" class="main_navigation_1_auction_count">(0)</a></td></tr>
-<tr>
-	<td style="width: 100%;"><a href="index.php?a=5&amp;b=160" class="main_navigation_1_name">Computers &amp; Software</a><a href="index.php?a=5&amp;b=160" class="main_navigation_1_ad_count">(11)</a><a href="index.php?a=5&amp;b=160" class="main_navigation_1_auction_count">(0)</a></td></tr>
-<tr>
-	<td style="width: 100%;"><a href="index.php?a=5&amp;b=10" class="main_navigation_1_name">Electronics </a><a href="index.php?a=5&amp;b=10" class="main_navigation_1_ad_count">(7)</a><a href="index.php?a=5&amp;b=10" class="main_navigation_1_auction_count">(0)</a></td></tr>
-<tr>
-	<td style="width: 100%;"><a href="index.php?a=5&amp;b=237" class="main_navigation_1_name">Furniture</a><a href="index.php?a=5&amp;b=237" class="main_navigation_1_ad_count">(2)</a><a href="index.php?a=5&amp;b=237" class="main_navigation_1_auction_count">(0)</a><img src="images/misc/new_ad.gif" alt=""></td></tr>
-<tr>
-	<td style="width: 100%;"><a href="index.php?a=5&amp;b=242" class="main_navigation_1_name">Home Appliances</a><a href="index.php?a=5&amp;b=242" class="main_navigation_1_ad_count">(3)</a><a href="index.php?a=5&amp;b=242" class="main_navigation_1_auction_count">(0)</a><img src="images/misc/new_ad.gif" alt=""></td></tr>
-<tr>
-	<td style="width: 100%;"><a href="index.php?a=5&amp;b=235" class="main_navigation_1_name">Jewelry</a><a href="index.php?a=5&amp;b=235" class="main_navigation_1_ad_count">(0)</a><a href="index.php?a=5&amp;b=235" class="main_navigation_1_auction_count">(0)</a></td></tr>
-<tr>
-	<td style="width: 100%;"><a href="index.php?a=5&amp;b=212" class="main_navigation_1_name">Jobs</a><a href="index.php?a=5&amp;b=212" class="main_navigation_1_ad_count">(71)</a><a href="index.php?a=5&amp;b=212" class="main_navigation_1_auction_count">(0)</a><img src="images/misc/new_ad.gif" alt=""></td></tr>
-<tr>
-	<td style="width: 100%;"><a href="index.php?a=5&amp;b=162" class="main_navigation_1_name">Music &amp; Movies </a><a href="index.php?a=5&amp;b=162" class="main_navigation_1_ad_count">(1)</a><a href="index.php?a=5&amp;b=162" class="main_navigation_1_auction_count">(0)</a></td></tr>
-<tr>
-	<td style="width: 100%;"><a href="index.php?a=5&amp;b=247" class="main_navigation_1_name">Musical Instruments</a><a href="index.php?a=5&amp;b=247" class="main_navigation_1_ad_count">(0)</a><a href="index.php?a=5&amp;b=247" class="main_navigation_1_auction_count">(0)</a></td></tr>
-<tr>
-	<td style="width: 100%;"><a href="index.php?a=5&amp;b=17" class="main_navigation_1_name">Personals </a><a href="index.php?a=5&amp;b=17" class="main_navigation_1_ad_count">(1)</a><a href="index.php?a=5&amp;b=17" class="main_navigation_1_auction_count">(0)</a><img src="images/misc/new_ad.gif" alt=""></td></tr>
-<tr>
-	<td style="width: 100%;"><a href="index.php?a=5&amp;b=216" class="main_navigation_1_name">Pets</a><a href="index.php?a=5&amp;b=216" class="main_navigation_1_ad_count">(3)</a><a href="index.php?a=5&amp;b=216" class="main_navigation_1_auction_count">(1)</a></td></tr>
-<tr>
-	<td style="width: 100%;"><a href="index.php?a=5&amp;b=16" class="main_navigation_1_name">Real Estate - Sale</a><a href="index.php?a=5&amp;b=16" class="main_navigation_1_ad_count">(15)</a><a href="index.php?a=5&amp;b=16" class="main_navigation_1_auction_count">(0)</a></td></tr>
-<tr>
-	<td style="width: 100%;"><a href="index.php?a=5&amp;b=248" class="main_navigation_1_name">Real Estate - Rent</a><a href="index.php?a=5&amp;b=248" class="main_navigation_1_ad_count">(8)</a><a href="index.php?a=5&amp;b=248" class="main_navigation_1_auction_count">(0)</a></td></tr>
-<tr>
-	<td style="width: 100%;"><a href="index.php?a=5&amp;b=205" class="main_navigation_1_name">Recreational<br>Vehicles</a><a href="index.php?a=5&amp;b=205" class="main_navigation_1_ad_count">(0)</a><a href="index.php?a=5&amp;b=205" class="main_navigation_1_auction_count">(0)</a></td></tr>
-<tr>
-	<td style="width: 100%;"><a href="index.php?a=5&amp;b=14" class="main_navigation_1_name">Vacation Rentals </a><a href="index.php?a=5&amp;b=14" class="main_navigation_1_ad_count">(1)</a><a href="index.php?a=5&amp;b=14" class="main_navigation_1_auction_count">(0)</a></td></tr>
-<tr>
-	<td style="width: 100%;"><a href="index.php?a=5&amp;b=241" class="main_navigation_1_name">Services</a><a href="index.php?a=5&amp;b=241" class="main_navigation_1_ad_count">(104)</a><a href="index.php?a=5&amp;b=241" class="main_navigation_1_auction_count">(0)</a><img src="images/misc/new_ad.gif" alt=""></td></tr>
-<tr>
-	<td style="width: 100%;"><a href="index.php?a=5&amp;b=240" class="main_navigation_1_name">Sporting Goods</a><a href="index.php?a=5&amp;b=240" class="main_navigation_1_ad_count">(6)</a><a href="index.php?a=5&amp;b=240" class="main_navigation_1_auction_count">(0)</a></td></tr>
-<tr>
-	<td style="width: 100%;"><a href="index.php?a=5&amp;b=170" class="main_navigation_1_name">Tickets </a><a href="index.php?a=5&amp;b=170" class="main_navigation_1_ad_count">(1)</a><a href="index.php?a=5&amp;b=170" class="main_navigation_1_auction_count">(0)</a></td></tr>
-<tr>
-	<td style="width: 100%;"><a href="index.php?a=5&amp;b=254" class="main_navigation_1_name">Tools and Equipment</a><a href="index.php?a=5&amp;b=254" class="main_navigation_1_ad_count">(2)</a><a href="index.php?a=5&amp;b=254" class="main_navigation_1_auction_count">(0)</a><img src="images/misc/new_ad.gif" alt=""></td></tr>
-<tr>
-	<td style="width: 100%;"><a href="index.php?a=5&amp;b=239" class="main_navigation_1_name">Toys &amp; Games</a><a href="index.php?a=5&amp;b=239" class="main_navigation_1_ad_count">(3)</a><a href="index.php?a=5&amp;b=239" class="main_navigation_1_auction_count">(0)</a></td></tr>
-<tr>
-	<td style="width: 100%;"><a href="index.php?a=5&amp;b=191" class="main_navigation_1_name">Travel</a><a href="index.php?a=5&amp;b=191" class="main_navigation_1_ad_count">(8)</a><a href="index.php?a=5&amp;b=191" class="main_navigation_1_auction_count">(0)</a><img src="images/misc/new_ad.gif" alt=""></td></tr>
-<tr>
-	<td style="width: 100%;"><a href="index.php?a=5&amp;b=193" class="main_navigation_1_name">Anything Else</a><a href="index.php?a=5&amp;b=193" class="main_navigation_1_ad_count">(14)</a><a href="index.php?a=5&amp;b=193" class="main_navigation_1_auction_count">(0)</a><img src="images/misc/new_ad.gif" alt=""></td></tr>
-<tr>
-	<td style="width: 100%;"><a href="index.php?a=5&amp;b=234" class="main_navigation_1_name">Free Stuff</a><a href="index.php?a=5&amp;b=234" class="main_navigation_1_ad_count">(3)</a><a href="index.php?a=5&amp;b=234" class="main_navigation_1_auction_count">(0)</a></td></tr></tbody></table> </td>
-					</tr>
-				</tbody>
-			</table>
-			</td>
-		</tr>
-	</tbody>
-</table>
-<!-- # CATEGORIES SECTION END -->
- <br>
-						<!-- LEFT COLUMN - MAIN TABLE END--></td>
-						<td class="centercolumn"><!-- CENTER COLUMN - MAIN TABLE START--><p align="center">
-<font size="3"><strong>Privacy Policy</strong></font> 
-</p>
-<div class="p">
-This privacy policy describes how we handle your personal information. We collect, use, and share personal information to help the VendAnything.com website (“VendAnything”) work and to keep it safe (details below). This policy is effective 10/25/2007. 
-</div>
-<br>
-<strong>Collection.</strong> Information posted on VendAnything is obviously publicly available. Our servers are located in the United States. Therefore, if you choose to provide us with personal information, you are consenting to the transfer and storage of that information on our servers in the United States. We collect and store the following personal information: 
-<div>
-</div>
-<ul class="bulletindent">
-	<li>email address, physical contact information, and (depending on the service used) sometimes financial information; </li>
-	<li>computer sign-on data, statistics on page views, traffic to and from VendAnything and ad data (all through cookies – you can take steps to disable the cookies on your browser although this is likely to affect your ability to use the site); </li>
-	<li>other information, including users IP address and standard web log information. </li>
-</ul>
-<div class="p">
-<strong>Use.</strong> We use users’ personal information to: 
-</div>
-<ul class="bulletindent">
-	<li>provide our services </li>
-	<li>resolve disputes, collect fees, and troubleshoot problems; </li>
-	<li>encourage safe trading and enforce our policies; </li>
-	<li>customize users’ experience, measure interest in our services, and inform users about services and updates; </li>
-	<li>communicate marketing and promotional offers to you; </li>
-	<li>do other things for users as described when we collect the information. </li>
-</ul>
-<div class="p">
-<strong>Disclosure.</strong> We don’t sell or rent users’ personal information to third parties for their marketing purposes without users explicit consent. We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a posting or other content violates other’s rights, or protect anyone’s rights, property, or safety. We may also share personal information with: 
-</div>
-<ul class="bulletindent">
-	<li>corporate affiliates who help detect and prevent potentially illegal acts and provide joint services. (Our corporate affiliates will market only to users who ask them to). </li>
-	<li>service providers who help with our business operations. </li>
-</ul>
-<div class="p">
-<strong>Using Information from VendAnything.</strong> You may use personal information gathered from VendAnything only to follow up with another user about a specific posting, not to send spam or collect personal information from someone who hasn’t agreed to that. 
-</div>
-<br>
-<strong>Access, Modification, and Deletion.</strong> You can see, modify or erase your personal information by reviewing your posting or my account&nbsp;page. Contact customer support (<a href="mailto:kijiji-com-privacy@kijiji.com"><font color="#000066">customerservice@VendAnything.com</font></a> ) to review any personal information we store that is not available on VendAnything. There may a charge associated with such requests but these will not exceed the amounts permitted by law. We delete personal information when we no longer need it for the purposes we described earlier. We retain personal information as permitted by law to resolve disputes, enforce our policies; and prevent bad guys from coming back. 
-<div>
-</div>
-<br>
-<strong></strong>
-<div>
-</div>
-<div class="p">
-<strong>Security.</strong> We use lots of tools (encryption, passwords, physical security) to protect your personal information against unauthorized access and disclosure, but as you probably know, nothing’s perfect, so we make no guarantees. 
-</div>
-<br>
-<strong>General.</strong> We may update this policy at any time, with updates taking effect when you next post or after 30 days, whichever is sooner. If we or our corporate affiliates are involved in a merger or acquisition, we may share personal information with another company, but this policy will continue to apply. Send questions about this policy to <a href="mailto:kijiji-com-privacy@kijiji.com"><font color="#000066">customerservice@VendAnything.com</font></a>. 
-<!-- CENTER COLUMN - MAIN TABLE END--></td>
-					</tr>
-				</tbody>
-			</table>
-			<!-- MAIN 3 COLUMN BODY TABLE END--></td>
-		</tr>
-		<tr>
-			<td><a href="http://www.adgridwork.com/?r=11511" style="font-size: 14px; color: #7fbe00" target="_blank">Free Advertising</a>
-			<script type="text/javascript">
-			var sid = '11511'; 
-			var title_color = '000000'; 
-			var description_color = '646360'; 
-			var link_color = '7FBE00'; 
-			var background_color = 'FFFFFF'; 
-			var border_color = '646360';</script>
-			<script src="http://www.mediagridwork.com/mx.js" type="text/javascript">
-			</script> </td>
-		</tr>
-		<tr>
-			<td><div class="submenu" style="text-align: center">
-<a class="footer_links" href="index.php">home</a>&nbsp;|&nbsp;<a class="footer_links" href="register.php">register</a>&nbsp;|&nbsp;<a class="footer_links" href="index.php?a=28&amp;b=142">about us</a>&nbsp;| <a href="index.php?a=28&amp;b=144">advertise</a> |&nbsp;<a class="footer_links" href="index.php?a=28&amp;b=140">terms &amp; conditions</a>&nbsp;|&nbsp;<a href="index.php?a=28&amp;b=145">privacy</a> | <a class="footer_links" href="index.php?a=28&amp;b=141">help</a> 
-</div>
-<div class="footertext" style="text-align: center">
-©Copyright 2008 <a href="/">www.VendAnything.com</a> All Rights Reserved.<br>
-<img alt="" src="images/a_ccards.gif"><img alt="" src="images/a_paypal.gif"> 
-</div>
+	<p>You can change the text for this page by accessing the following menu in the admin panel:<br>
+	Design &gt; Templates &gt; main_page &gt; extra_pages</p>
+
 <p>
-		</p><p></p><table align="center" border="0" style="height: 60px; border: 0px solid" width="468">
-	<tbody>
-		<tr>
-			<td>
-			<div>
-			<p align="center">
-			Visit Our Sponsers 
-			</p>
-			</div>
-			</td>
-		</tr>
-		<tr>
-		</tr>
-		
-		<tr>
-			<td style="border: #000000 1px solid">
-			<div>
-			<script type="text/javascript">
-			<!--// <![CDATA[
-			OA_show(2);
-			// ]]> --></script>
-			</div>
-			</td>
-		</tr>
-		<tr>
-			<td>
-			<p align="center">
-			<a href="mailto:paul@vendanything.com">Advertise with Us!</a> 
-			</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
- </td>
-		</tr>
-	</tbody>
-</table>
+	Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
+</p>
+
+<ul>
+	<li>
+		Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
+	</li>
+	<li>
+		We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.		
+	</li>
+	<li>
+		We will only retain personal information as long as necessary for the fulfillment of those purposes. 
+	</li>
+	<li>
+		We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned. 
+	</li>
+	<li>
+		Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date. 
+	</li>
+	<li>
+		We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
+	</li>
+	<li>
+		We will make readily available to customers information about our policies and practices relating to the management of personal information. 
+	</li>
+</ul>
+
+<p>
+	We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
+</p>
+</div>
+	</div>
+	<div class="clr"></div>
+</div>
+
+<!-- START FOOTER -->
+<div id="footer">
+<div class="outer_shell">
+<div class="blurb">
+<h3>Contact Us</h3>
+<p>Need assistance? Have a question that isn't answered in our <a href="index.php?a=28&amp;b=141">help</a> sections? You can contact support by visiting our <a href="index.php?a=28&amp;b=136">contact us</a> page.</p>
+</div>
+<div class="footer_divider"></div>
+<ul>
+<li><a href="index.php">Home</a></li>
+<li><a href="index.php?a=1">Sell</a></li>
+<li><a href="index.php?a=19">Search</a></li>
+<li><a href="index.php?a=28&amp;b=135">Features</a></li>
+<li><a href="index.php?a=28&amp;b=143">Pricing</a></li>
+<li><a href="index.php?a=28&amp;b=141">Help</a></li>
+<li><a href="index.php?a=28&amp;b=137">How It Works</a></li>
+<li><a href="index.php?a=28&amp;b=144">Advertise With Us</a></li>
+</ul>
+<div class="disclaimer">
+<h4>Copyright © 2012 VendAnything.com. All Rights Reserved.</h4>
+
+<p>Use of this Web site constitutes acceptance of the <a href="index.php?a=28&amp;b=140">User Agreement</a> and <a href="index.php?a=28&amp;b=145">Privacy Policy</a>. Designated trademarks and brands are the property of their respective owners.</p>
+</div>
+</div>
+</div><br>
+<!--Google Adsense-->
+<center><script type="text/javascript"><!--
+google_ad_client = "ca-pub-5891150470273826";
+/* footer banner */
+google_ad_slot = "2681127617";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><!--End Google Adsense-->
+<!-- END FOOTER -->
+<div style="clear: both; text-align: center; color: #a9a9a9; font-size: 10px; font-weight: bold; margin:33px 10px 10px 10px; padding:5px;"><a href="http://geodesicsolutions.com/" style="color: #a9a9a9; text-decoration: none;" onclick="window.open(this.href); return false;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAYAAABy6+R8AAAABGdBTUEAALGPC/xhBQAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEgAACxIB0t1+/AAAAAd0SU1FB9sHGxQzIrsxZboAAAEBSURBVCjPddIxSkNREAXQ8z9RUBB0BRaalBYWNoK4hgjP0gUoau0G7DRCGjvb/y3iKmzcgT/uwEKwEEESm3nwDHjhMbw7XGbmzlRN0yhwgTNsocIcbxjjDlJKeoXgFX1/UWEbI5xgF+p/BHN8RMz/65yso6UsmGES/EbECY7xWIpOiwpPGObeA8MsyFzVNM0sev/BUk62bZtwj/fFWXshgM+FCiOsxzvHTna1LoZdg7Zts+ihMOEl3DvEQY1pUfWyEF5hH5vYizxM61hcxk24mfGMI9wW3LiKi+hiiRlf+MYyVgu+wyAvtx9ExkoYUAqmGEBduDWI1rqFS+jKA0gp+QVqAEH+iaAnXgAAAABJRU5ErkJggg==" alt="" style="vertical-align: -2px; width: 13px; heigh: 13px;"> Powered by Geodesic Solutions, LLC</a></div>
 
 
-</body></html>
+</center></body></html>
