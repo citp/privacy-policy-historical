@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deskshare.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228221147id_/http%3A//www.deskshare.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deskshare.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507072641id_/http%3A//www.deskshare.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
