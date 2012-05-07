@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lapeches.com privacy policy that was archived on 2011-10-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111008043214id_/http%3A//www.lapeches.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lapeches.com privacy policy that was archived on 2012-05-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120507043135id_/http%3A//www.lapeches.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html dir="LTR" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -7,7 +7,7 @@
 <meta name="description" content="It is our top priority to protect your privacy. We do collect personal information about you in order to process your orders and we pledge to maintain the confidentiality of that information. We do not sell, rent or give away the information you have entrusted us with.">
 <base href="http://www.lapeches.com/">
 <link rel="stylesheet" type="text/css" href="style.css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" type="text/javascript" src="con.js"></script>
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" type="text/javascript" src="con.js"></script>
 </head>
 <body marginwidth="0" marginheight="0" topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0">
 <script type="text/javascript" src="../jquery.min.js"></script>
@@ -69,8 +69,71 @@ document.onclick = mclose;
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
-</script>
 
+function chk(){
+	var filter=/^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i;
+    d=document.discount;	
+   if((!(filter.test(d.disc_email.value)))){
+        alert ("Please Enter Your Email address in abc@xyz.com");
+        d.disc_email.focus();
+        return false;
+    }
+}
+</script>
+<style>
+.topemail {
+    background: url("../images/topemail_bg.jpg") no-repeat scroll 0 0 transparent;
+    border: 0 solid #000000;
+    color: #FFFFFF;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 14px;
+    height: 78px;
+    margin-left: 528px;
+    position: absolute;
+    text-align: left;
+    top: 0;
+    width: 240px;
+    z-index: 1;
+	margin-top: 8px;
+}
+.topemail .mailtext {
+    padding-left: 10px;
+    padding-top: 18px;
+}
+.topemail .mailsubmit {
+    padding-right: 2px;
+    padding-top: 2px;
+    text-align: right;
+}
+.topemail .mailsubmitbg {
+    background: url("../images/mailsubmit.png") no-repeat scroll 0 0 transparent;
+    border: 0 none;
+    cursor: pointer;
+    height: 14px;
+    outline: 0 none;
+    width: 53px;
+}
+.topemail .mailbg {
+    background: url("../images/mailtextarea_bg.png") no-repeat scroll 0 0 transparent;
+    border: 0 solid #000000;
+    display: block;
+    height: 19px;
+    margin-left: 5px;
+    width: 152px;
+}
+.topemail .mailtextarea {
+    background: none repeat scroll 0 0 transparent;
+    border: 0 none;
+    color: #333333;
+    font-size: 11px;
+    height: 16px;
+    outline: 0 none;
+    padding-left: 5px;
+    padding-right: 5px;
+    vertical-align: middle;
+    width: 142px;
+}
+</style>
  <div id="header">
         <div class="container">
             <div id="headerWrapper">
@@ -79,7 +142,28 @@ document.onclick = mclose;
               <div id="headerPromo">
                    <img src="images/promoHeader.png" width="342" height="121" alt=""> 
               </div>
-			  				  <div style="float:right"><img src="images/bgHeaderPic.jpg" alt="lapeaches.com"></div>
+	     <div style="color: rgb(0, 0, 0); float: left; margin-top: 100px;">		  	
+                         <a href="account.php" onmouseover="mopen('m8')" onmouseout="mclosetime()"><font color="#B0164D" style="font-size:12px;"><strong>My Account</strong></font></a>&nbsp;
+                        </div> 
+			  <!--<div class="topemail">
+              	
+            <table border="0" cellpadding="0" cellspacing="0" width="240">
+                <tbody><tr>
+                    <td class="mailtext">E-Mail</td>
+                    <td rowspan="3" width="78">&nbsp;</td>
+                    </tr>
+					<form name="discount" method="post" action="discount_coupon.php" onsubmit="return chk();">
+                    <tr>
+                    <td class="mailbg"><input name="disc_email" class="mailtextarea" type="text"></td>
+                    </tr>
+                    <tr>
+                    <td class="mailsubmit"><input name="" class="mailsubmitbg" value="" type="submit"></td>
+                </tr>
+				</form>
+            </tbody></table>
+    	      
+              </div>-->
+			  <div style="float:right"><img src="images/bgHeaderPic.jpg" alt="lapeaches.com"></div>
             </div>
         </div>
  	
@@ -91,7 +175,7 @@ document.onclick = mclose;
         <div class="container1">
 		<ul id="sddm">
 	<li><a href="home.php" onmouseover="mopen('m1')" onmouseout="mclosetime()">Home</a> 
-	 
+	<!--li><a href="golden_bra.php" style="font-size: 11px;" onmouseover="mopen('m0')" onmouseout="mclosetime()">Golden Lingerie</a></li-->
 	</li>
 	<li><a href="#" onmouseover="mopen('m2')" onmouseout="mclosetime()">Collections</a>
 		<div id="m2" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
@@ -329,8 +413,8 @@ document.onclick = mclose;
 </tr></tbody></table>
 		</div>
 	</li>
-		<li><a href="account.php" onmouseover="mopen('m8')" onmouseout="mclosetime()" style="*width: 90px!important;">My Account</a></li>
-	</ul>
+	
+</ul>
 		
 		
             				<!--<div style="position:absolute;padding-top:6px;padding-left:625px;">-->
@@ -516,6 +600,7 @@ function openwin () {
 
         <div id="footerNav">
             <ul>
+                <li><a href="http://www.lapeches.com/golden_bra.php">Golden Lingerie</a></li>
 	            <li><a href="http://www.lapeches.com/store_locator.php">Store Locator</a></li>
                 <li><a href="http://www.lapeches.com/sizing_chart.php" "="">Size Chart</a></li>
                 <li><a rel="nofollow" href="http://www.lapeches.com/terms.php">Terms And Conditions</a></li>
@@ -557,13 +642,28 @@ function openwin () {
             </div>
             <div id="followUs">
                 <p>Follow us at:</p>
-<!-- Facebook share button Start -->
-<div style="float:left;padding:5px 5px 5px 0;">
-<a href="rss.xml"><img src="images/icoRSS.png" width="21" height="22" alt=""></a>
-</div> 
-<!-- Facebook share button End -->
+				<!--google+ start-->
+							 <div style="width:90px;float:left;">
+ <!-- Place this tag where you want the +1 button to render -->
+<g:plusone></g:plusone>
+
+<!-- Place this render call where appropriate -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+</div>
+<!--google+ end-->
+
+		 		<!--facebook like start-->
+<iframe src="//www.facebook.com/plugins/like.php?href&amp;send=false&amp;layout=button_count&amp;width=75&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowtransparency="true"></iframe>		 
+		 <!--facebook like end-->
 		 
-                 
+  <a target="_blank" href="http://twitter.com/lapeches" rel="nofollow"><img src="images/icoTwitter.png" width="21" height="22" alt=""></a> 
+                
             </div>
 
         </div>
