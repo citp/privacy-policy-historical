@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daysofwonder.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118153709id_/http%3A//www.daysofwonder.com/en/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daysofwonder.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508011139id_/http%3A//www.daysofwonder.com/en/about/privacy) for the most accurate reproduction.*
 
 # Days of Wonder Privacy Policy - Play different.™ | Days of Wonder
 
