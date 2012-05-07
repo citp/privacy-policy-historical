@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the ukessays.com privacy policy that was archived on 2011-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111017222540id_/http%3A//www.ukessays.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukessays.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507162719id_/http%3A//www.ukessays.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | UK Essays
 
-## UKEssays.com Privacy Policy
-
-UKEssays.com is a website belonging to All Answers Limited, a UK Registered Company (No. 4964706). We take the privacy of your information very seriously.
+UK Essays is a website belonging to All Answers Limited, a UK Registered Company (No. 4964706). We take the privacy of your information very seriously.
 
 Our privacy policy below explains how we will collect and use the information you give us. We may vary this policy from time to time and the current version will be that published on this site. The word 'we' refers to All Answers Limited, unless otherwise indicated.
 
-### Collecting your information
+## Collecting your information
 
 From time to time, you will be asked to submit personal information about yourself (e.g. name and email address etc) in order to receive or use services on our website(s). This may happen, for example, when you make a purchase from us, when you apply to be a writer, when you subscribe to a newsletter, when you enter a competition or when you register for personalised services such as your customer control panel.
 
@@ -20,7 +18,7 @@ We may combine this information with other information that we may hold about yo
 
 We will act in accordance with current legislation and we will maintain a link to our privacy policy, which includes our Data Protection Notice, in a prominent place on our website.
 
-### UKEssays.com Data Protection Notice
+### UK Essays Data Protection Notice
 
 Unlike many reputable (and many more not so reputable) companies who trade on the Internet, we will **_NEVER_** share the information you provide, together with other information, with any other company.
 
@@ -82,7 +80,7 @@ You generally have the opportunity to set your computer to accept all cookies, t
 
 If you refuse a cookie it may prevent the proper operation of the site or even prevent your access to certain areas. The customer login area, for example, relies on cookies to help identify you, and to identify if you are logged in or logged out at any time.
 
-### Links to other websites
+## Links to other websites
 
 Our websites may contain links to other sites outside the group. All Answers Limited is not responsible for the privacy and security of these sites unless they belong to All Answers. This privacy policy applies only to All Answers Limited Websites.
 
