@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylookout.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119184547id_/https%3A//www.mylookout.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylookout.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507133146id_/https%3A//www.mylookout.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy & Security - Lookout
 
@@ -32,13 +32,13 @@ At Lookout, we’re committed to building products and services that we are prou
 
   * Our team is staffed with security experts who are active in the security community and have previously worked at security companies such as Symantec and McAfee.
   * Our investors and leaders have helped build companies such as Sun Microsystems, PayPal, Juniper Networks, Good Technology, and Symantec.
-  * Over a million people have already chosen to trust Lookout to keep their phone safe.
+  * Millions of people have already chosen to trust Lookout to keep their phone safe.
 
 
 
 ## We use information to provide better protection for you.
 
-  * When you share information with us, we use it to provide better products and services for you and over a million other people who trust Lookout.
+  * When you share information with us, we use it to provide better products and services for you and millions of other people who trust Lookout.
   * By anonymously aggregating information from users around the world, we can share insights that help make everyone safer. For example, when we share information about the most prevalent mobile malware in the wild, you can take steps to protect yourself.
 
 
@@ -57,4 +57,4 @@ At Lookout, we’re committed to building products and services that we are prou
 
 
 
-For more detailed information, view our [Privacy Policy](https://web.archive.org/legal/privacy). We updated our Privacy Policy as of October 18, 2011 with two changes: (1.) Device type and OS version are collected as part of the Security and Anti-Virus features; (2.) Encrypted (hashed) equipment identifiers are shared to understand how new users find Lookout. 
+For more detailed information, view our [Privacy Policy](https://web.archive.org/legal/privacy). We updated our Privacy Policy as of January 12, 2012 with two changes: (1.) To clarify that unique device identifier (UDID) is a subset of equipment identifier that may be recorded on our servers when you use the Lookout Services; (2.) To clarify our policy regarding the removal of personal information from blogs and community forums. 
