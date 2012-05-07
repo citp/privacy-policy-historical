@@ -1,14 +1,13 @@
-<!--The following is the downloaded HTML source of the photocase.com privacy policy that was archived on 2011-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111206162916id_/http%3A//www.photocase.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the photocase.com privacy policy that was archived on 2012-05-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120507124000id_/http%3A//www.photocase.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Photocase - Privacy policy</title>
 
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
   <meta name="author" content="Photocase">
-  <meta http-equiv="imagetoolbar" content="no">  
-  <meta name="phcisalive" content="true">
   <meta http-equiv="imagetoolbar" content="no">
+  <meta name="phcisalive" content="true">
 
 <meta name="description" content="Photocase is the website for creative, royalty free stock photography. Photocase photos are available to purchase for royalty-free use in commercial and non-commercial projects.">
 <meta name="keywords" content="Photos, Photography, Stock Photography, creative stock photography, unique stock photography, unique stock photos, creative stock photos, Medium Format, analog, digital, buy stock photos, buy stock, download photos, download stock photos, prints, art prints, mounted prints, photographers, portfolio, digital, analog, film, High Resolution stock photos, high resolution stock, Royalty Free, royalty free photos, royalty free images, royalty free pictures, Download, Share, Vote, Community, Print, lomography, contest, photo contest, exchange, vote, contemporary, authentic, creative, stock, photography, microstock">
@@ -16,15 +15,15 @@
   <meta name="robots" content="index, follow">
   <meta name="googlebot" content="index, follow">
 
-<link rel="alternate" type="application/rss+xml" title="" href="http://www.photocase.com/piclensfeed.rss">
 <link rel="alternate" type="application/rss+xml" title="Photocase Feed" href="http://www.photocase.com/photocase.rss">
+<link rel="alternate" type="application/rss+xml" title="Browser via Cooliris" href="http://www.photocase.com/piclensfeed.rss">
 <link rel="search" type="application/opensearchdescription+xml" href="http://www.photocase.com/searchplugin/photocasesearchen.xml" title="Photocase.com - Photosearch">
 <link rel="copyright" href="http://www.photocase.com/terms-of-use">
 <link rel="shortcut icon" href="http://www.photocase.com/images/pc_favicon.ico" type="image/x-icon">
-<link href="/css/basic.css?44" rel="stylesheet" type="text/css">
-<link href="/css/photo.css?44" rel="stylesheet" type="text/css">
-<link href="/css/common.css?44" rel="stylesheet" type="text/css">
-<link href="/css/firefox.css?44" rel="stylesheet" type="text/css">
+<link href="/css/basic.css?55" rel="stylesheet" type="text/css">
+<link href="/css/photo.css?55" rel="stylesheet" type="text/css">
+<link href="/css/common.css?55" rel="stylesheet" type="text/css">
+<link href="/css/firefox.css?55" rel="stylesheet" type="text/css">
 <!--[if lte IE 7]>
 <link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen,projection" />
 <![endif]-->
@@ -32,28 +31,28 @@
 <link rel="stylesheet" type="text/css" href="/css/ie7.css" media="screen,projection" />
 <![endif]-->
 
-<script type="text/JavaScript">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/JavaScript">
 // <![CDATA[
 window.name = "main";
 var gbolDebug = false;
 var gbolDevMode = false;
- /** send javascript errors to the error log **/
+/** send javascript errors to the error log **/
 if(!gbolDevMode) {
 window.onerror = function(errorMessage, url, line) {
 //new Image().src = "http://www.photocase.com/errorjs.asp?d=" + escape(errorMessage) + "&u=" + escape(url) + "&l=" + escape(line) + "&p=" + escape(document.location.href);
 return true; //does not raise the error
-} 
-} 
+}
+}
 // ]]>
 </script>
-<script src="/javascript/common.js?44" type="text/javascript"></script>
-<script src="/javascript/swfobject.js?44" type="text/javascript"></script>
-<script src="/javascript/anylink.js?44" type="text/javascript"></script>
-<script src="/javascript/prototype.js?44" type="text/javascript"></script>
-<script src="/javascript/scriptaculous.js?44" type="text/javascript"></script>
-<script src="/javascript/colorselect.js?44" type="text/javascript"></script>
-<script src="/javascript/catselect.js?44" type="text/javascript"></script>
-<script src="/javascript/swfaddress/swfaddress.js?44&amp;tracker=null" type="text/javascript"></script>
+<script src="/javascript/common.js?55" type="text/javascript"></script>
+<script src="/javascript/swfobject.js?55" type="text/javascript"></script>
+<script src="/javascript/anylink.js?55" type="text/javascript"></script>
+<script src="/javascript/prototype.js?55" type="text/javascript"></script>
+<script src="/javascript/scriptaculous.js?55" type="text/javascript"></script>
+<script src="/javascript/colorselect.js?55" type="text/javascript"></script>
+<script src="/javascript/catselect.js?55" type="text/javascript"></script>
+<script src="/javascript/swfaddress/swfaddress.js?55&amp;tracker=null" type="text/javascript"></script>
 
 <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
 </script>
@@ -75,6 +74,7 @@ document.observe("dom:loaded", function() {
 try {
 Behaviour.register(pcBehaviour);
 extSearchInit();
+loadSocialLinks();
 } catch(e) {
 /** send javascript errors to the error log **/
 //if(!gbolDevMode) new Image().src = "http://www.photocase.com/errorjs.asp?d=" + escape(e.message) + "&u=" + escape(e.fileName) + "&l=" + escape(e.lineNumber) + "&p=" + escape(document.location.href);
@@ -83,21 +83,35 @@ if(gbolDevMode) alert("dom:loaded error\n" + e + "\nFile: " + e.fileName + "\nLi
 });
 // ]]>
 </script>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-825113-1']);
+_gaq.push(['_setDomainName', 'photocase.com']);
+_gaq.push(['_setAllowLinker', true]);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
 </head>
 <body>
+<div id="fb-root"></div>
 
 <div id="overall">
 
 <div id="header">
 <h2 class="logo">
-<a href="/" title="Photocase - Good for your eyes.">Photocase - Good for your eyes.</a>
+<a href="/" title="Photocase - Good for your eyes." accesskey="1">Photocase - Good for your eyes.</a>
 </h2>
 
 
-    <div id="logedOut" style="width: 250px;">
-      <div style="color: white; margin-bottom: 5px;"><span style="color: #84ba3c;">Hello.</span> Please log in now. If you don't have an account, click "Register" to create one for free.</div>
-      <a href="/login" title="use your username"><img src="/language/english/images/btn_login.gif" alt="use your username"></a>
-      <a href="/sign-up" title="Register"><img src="/language/english/images/btn_register.gif" alt="Register"></a>
+    <div id="logedOut">
+      <a href="/login" title="use your username" class="button buttonHeader">Log in</a>
+      <span>or</span>
+      <a href="/sign-up" title="Register" class="button buttonHeader">Register</a>
     </div>
     
 <div class="infobox"><a href="/tour" title="New to Photocase? Take the tour and let us tell you all about it!"><img src="/language/english/images/tourheader.gif" alt="Tour"></a></div>
@@ -106,49 +120,48 @@ if(gbolDevMode) alert("dom:loaded error\n" + e + "\nFile: " + e.fileName + "\nLi
 </div>
 <div class="clear"></div>
 <div id="navigation">
-<ul class="mainnav"><li id="first-nav"><a href="/" accesskey="1">Home</a>
-</li><li class="border"><a href="/explore.asp">Explore</a>
-</li><li class="border"><a href="/photobrowser.asp" onmouseover="dropdownmenu(this, event, 'subFoto')">Photos</a>
+<ul class="mainnav"><li id="first-nav"><a href="/photobrowser.asp" class="sub" onmouseover="dropdownmenu(this, event, 'subFoto')">Photos</a>
 <ul id="subFoto">
-<li><a href="/photobrowser.asp">Browse all Photos</a></li>
-<li><a href="/collection.asp">Public Lightboxes</a></li>
 
-<li><a href="/newcomments.asp">New Comments</a></li>
-<li><a href="/photoadd.asp">Upload Photos</a></li>
-<li><a href="/myphotos.asp">My Photos </a></li>
-<li><a href="javascript: OpenLightbox('/lightbox.asp');">My Lightboxes</a></li>
+		<li><a href="/photobrowser.asp">Browse all Photos</a></li>
+		<li><a href="/collection.asp">Public Lightboxes</a></li>
+		<li><a href="javascript: OpenLightbox('/lightbox.asp');">My Lightboxes</a></li>
+		
+
+
 </ul>
-</li><li class="border"><a href="/photoadd.asp">Upload</a></li><li class="border"><a href="/community.asp" onmouseover="dropdownmenu(this, event, 'subCommunity')">Community</a>
+</li><li class="border"><a href="/explore.asp">Explore</a>
+</li><li class="border"><a href="/photoadd.asp">Upload</a></li><li class="border"><a href="/community.asp" class="sub" onmouseover="dropdownmenu(this, event, 'subCommunity')">Community</a>
 <ul id="subCommunity">
-<li><a href="/community.asp">Community overview</a></li>
-<li><a href="/news">News</a></li>
-<li><a href="http://blog.photocase.com/en/" target="_blank">Blog</a></li>
-<li><a href="/forum.asp">Forum</a></li>
-<li><a href="/poll.asp">Polls</a></li>
-<li><a href="/user.asp">Photographers &amp; Users</a></li>
-<li><a href="/affiliates">Affiliate Program</a></li>
+
+		<li><a href="/forum.asp">Forum</a></li>
+		<li><a href="http://blog.photocase.com/en/" target="_blank">Blog</a></li>
+		<li><a href="/poll.asp">Polls</a></li>
+		<li><a href="/affiliates">Affiliate Program</a></li>
+		
+
+
 </ul>
-</li><li class="border"><a href="/myphotocase.asp" onmouseover="dropdownmenu(this, event, 'subMyPhotocase')">My Photocase</a>
+</li><li class="border"><a href="/myphotocase.asp" class="sub" onmouseover="dropdownmenu(this, event, 'subMyPhotocase')">My Photocase</a>
 <ul id="subMyPhotocase">
 
-		<li><a href="/myphotocase.asp">My Photocase</a></li>
-		<li class="newBlock popup"><a href="/myphotocase.asp?m=downloads">My Downloads</a></li>
-		<li><a href="/myphotocase.asp?m=invoice">My Receipts</a></li>
-		<li class="newBlock popup"><a href="javascript: OpenLightbox('/lightbox.asp');">My Lightboxes</a></li>
-		<li><a href="/photofavorite.asp?m=myfavorites">My Favorites</a></li>
+		<li><a href="/myphotocase.asp">Overview</a></li>
+		<li class="popup"><a href="javascript: OpenLightbox('/lightbox.asp');">My Lightboxes</a></li>
+		<li><a href="/myphotocase.asp?m=downloads">My Downloads</a></li>
 		<li><a href="/mynotifications.asp">My Notifications</a></li>
-		<li class="newBlock"><a href="/myuseraccount.asp?m=personal">Edit my Personal Details</a></li>
+		<li><a href="/myphotocase.asp?m=invoice">My Receipts</a></li>
+		<li><a href="/myuseraccount.asp?m=personal">Edit my Personal Details</a></li>
 		<li><a href="/myuseraccount.asp?m=settings">Edit Preferences</a></li>
 		
 
 </ul>
-</li><li class="border"><a href="/shop.asp">Buy Credits</a></li><li class="active" id="last-nav"><a href="/faq?s1=1871" class="popFaq" onmouseover="dropdownmenu(this, event, 'subHelp')">Help &amp; Service</a>
+</li><li class="border"><a href="/shop.asp">Buy Credits</a></li><li class="border" id="last-nav"><a href="/faq?s1=1871" class="popFaq sub" onmouseover="dropdownmenu(this, event, 'subHelp')">Help &amp; Service</a>
 <ul id="subHelp">
 <li><a href="/faq" class="popFaq">Help &amp; FAQ</a></li>
 <li><a href="/contact">Contact</a></li>
 <li><a href="/newsletter">Newsletter</a></li>
 <li><a href="/terms-of-use">Terms of Use</a></li>
-<li class="active"><a href="/privacy">Privacy policy</a></li>
+
 <li><a href="/about">About Photocase</a></li>
 </ul>
 </li><li class="border" id="cur"><a href="#" onmouseover="dropdownmenu(this, event, 'subCur')">USD <img src="/images/currencydollar.gif" class="curicon"></a>
@@ -158,32 +171,30 @@ if(gbolDevMode) alert("dom:loaded error\n" + e + "\nFile: " + e.fileName + "\nLi
 </ul>
 </li><li class="border" id="lang"><a href="#" onmouseover="dropdownmenu(this, event, 'subLang')">English <img src="/images/languageflag_en.gif" title="English" class="languageflag"></a>
 <ul id="subLang">
-<li><a href="/language.asp?lid=1&amp;ref=%2Fprivacypolicy%2Easp" rel="nofollow">English <img src="/images/languageflag_en.gif" title="English" class="languageflag"></a></li>
-<li><a href="/language.asp?lid=2&amp;ref=%2Fprivacypolicy%2Easp" rel="nofollow">Deutsch <img src="/images/languageflag_de.gif" title="Deutsch" class="languageflag"></a></li>
-<li><a href="/language.asp?lid=4&amp;ref=%2Fprivacypolicy%2Easp" rel="nofollow">Español <img src="/images/languageflag_es.gif" title="Español" class="languageflag"></a></li>
+<li><a href="/language.asp?lid=1&amp;ref=%2Fprivacypolicy%2Easp" onclick="_gaq.push(['_link', 'http://www.photocase.com/privacypolicy.asp']); return false;" rel="nofollow">English <img src="/images/languageflag_en.gif" title="English" class="languageflag"></a></li>
+<li><a href="/language.asp?lid=2&amp;ref=%2Fprivacypolicy%2Easp" onclick="_gaq.push(['_link', 'http://www.photocase.de/privacypolicy.asp']); return false;" rel="nofollow">Deutsch <img src="/images/languageflag_de.gif" title="Deutsch" class="languageflag"></a></li>
+<li><a href="/language.asp?lid=4&amp;ref=%2Fprivacypolicy%2Easp" onclick="_gaq.push(['_link', 'http://www.photocase.es/privacypolicy.asp']); return false;" rel="nofollow">Español <img src="/images/languageflag_es.gif" title="Español" class="languageflag"></a></li>
 </ul>
 </li></ul>
 </div>
 <div class="clear"></div>
 
 
-<div class="searchAndNav" style="background-color: #eae9e8; border-bottom: 1px solid #d1d0cd; padding: 13px 20px 7px 20px;">
+<div class="searchAndNav" style="background-color: #eae9e8; border-bottom: 1px solid #d1d0cd; padding: 12px 20px 10px 20px;">
 	
   
 
   <!-- javascripts are beeing attached in components.asp line 648 -->
 
-<form method="post" action="/photobrowser.asp?m=dosearch" name="SearchPhotoForm" id="SearchPhotoForm" style="display: inline; margin: 0; padding: 0;">
+<form method="post" action="/photobrowser.asp?m=dosearch" name="SearchPhotoForm" id="SearchPhotoForm">
+  <input type="text" name="SearchPhotoInput" id="SearchPhotoInput" title="Search for Photos..." value="Search for Photos..." class="inputText SetSearchFieldTitle">
+  <input name="Submit" type="submit" class="button" style="" value="Search">
 
-<div style="float: left; width: 370px;">
-  <input type="text" name="SearchPhotoInput" id="SearchPhotoInput" title="Search for Photos..." value="Search for Photos..." class="inputText SetSearchFieldTitle" style="height: 15px; position: relative; top: -7px; width: 280px;">
-  <input name="Submit" type="image" class="inputImage" style="margin-top: 0;" value="Submit" src="/language/english/images/btn_search.gif" alt="Start search">
-</div>
 
-<ul class="linklist linklistVertical" style="margin-top: 0; width: 190px; float: left;">
-  <li class="extSearch"><a href="javascript:;" class="toggleExtSearch">Advanced search</a></li>
-  <li class="popup"><a href="/faq?s1=1813" class="popFaq">Search Tips</a></li>
-</ul>
+  <ul class="linklist linklistVertical">
+    <li class="extSearch" style="margin-right: 15px;"><a href="javascript:;" class="toggleExtSearch">Advanced search</a></li>
+    <li class="popup"><a href="/faq?s1=1813" class="popFaq">Search Tips</a></li>
+  </ul>
 
 </form>
 
@@ -192,7 +203,7 @@ if(gbolDevMode) alert("dom:loaded error\n" + e + "\nFile: " + e.fileName + "\nLi
 <form method="post" action="/photobrowser.asp?m=dosearch" name="ExtSearchPhotoForm" id="ExtSearchPhotoForm" style="display: inline; margin: 0; padding: 0;">
 <input type="hidden" name="ExtSearch" id="ExtSearch" value="1">
 
-<div id="extendedSearch" style="display: none; position: relative; background-color: #eae9e8; float: left; margin-top: -40px;">
+<div id="extendedSearch" style="display: none; position: relative; background-color: #eae9e8; float: left; margin-top: -40px; width: 100%;">
 
   <div style="width: 200px; margin-top: -10px; float: left;">
     <h1 style="white-space: nowrap;">Advanced search</h1>
@@ -210,7 +221,7 @@ if(gbolDevMode) alert("dom:loaded error\n" + e + "\nFile: " + e.fileName + "\nLi
   </div>
 
   <div style="width: 120px; margin: 78px 0 0 45px; float: left;">
-    <h5>Orientation</h5>
+    <h5 style="margin: 15px 0 -5px 0;">Orientation</h5>
 		
     <label for="SearchPhotoFormatSquare" class="block"><input type="checkbox" name="SearchPhotoFormatSquare" id="SearchPhotoFormatSquare" value="1" checked="checked"> Square</label>
     <label for="SearchPhotoFormatPortrait" class="block"><input type="checkbox" name="SearchPhotoFormatPortrait" id="SearchPhotoFormatPortrait" value="1" checked="checked"> Portrait</label>
@@ -219,7 +230,7 @@ if(gbolDevMode) alert("dom:loaded error\n" + e + "\nFile: " + e.fileName + "\nLi
   </div>
 
   <div style="width: 190px; margin: 78px 0 0 20px; float: left;">
-    <h5 style="margin-bottom: 5px;">Minimum Resolution</h5>
+    <h5 style="margin: 15px 0 5px 0;">Minimum Resolution</h5>
 		
 		<!-- ie needs the span because of the inherited margins bug -->
 		<span><input type="text" name="SearchPhotoWidth" id="SearchPhotoWidth" value="Width" title="Width" class="inputTextCanvas" onfocus="if(this.value==this.title)this.value='';" onblur="if(this.value=='')this.value=this.title;" style="margin: 0;"> <span class="x">x</span></span>
@@ -276,7 +287,7 @@ if(gbolDevMode) alert("dom:loaded error\n" + e + "\nFile: " + e.fileName + "\nLi
 
   <div class="clear"></div>
 
-  <div style="margin: 20px -10px 10px 0; padding-top: 20px; border-top: 1px dotted #b7b299;">
+  <div style="margin: 20px -10px 10px 0; padding-top: 20px; padding-right: 20px; border-top: 1px dotted #b7b299;">
     <input name="Submit" type="image" class="inputImage" value="Submit" src="/language/english/images/btn_startsearch_big.gif" alt="Start search" style="margin: -4px 0; float: left;">
 
     <ul class="linklist linklistVertical" style="margin: 0 0 0 20px; float: left;">
@@ -558,105 +569,77 @@ GA_googleFillSlot("PCSlotSubpageRightColumn");
 </div>
 </div> <!-- BoxContent End -->
 <div class="footer">
-<div class="copyright"><span class="copy">©</span> 2011 Photocase Addicts GmbH. Made in Germany since 2001.</div>
-<!-- AddThis Button BEGIN -->
-<div class="addthis_toolbox addthis_default_style" style="margin: 2px 0 0 20px; float: right;">
-<a class="addthis_button_facebook"><img src="/images/fb2.gif"></a>
-<a class="addthis_button_twitter"><img src="/images/twitter2.gif"></a>
-<a class="addthis_button_email"><img src="/images/mail.gif"></a>
-<a href="http://www.addthis.com/bookmark.php?v=250&amp;username=photocase" class="addthis_button_expanded" style="margin-left: 10px;">More <img src="/images/arrowdown.gif"></a>
-</div>
-<!-- there is some css styles for the add this button in commom.css. look for "addthis" -->
- <script type="text/javascript">
-var addthis_share = { templates: { twitter: '{{title}} {{url}} via @photocase' } };
-var addthis_config = {
-data_track_clickback: true,
-services_compact: 'facebook, email, twitter, print, google, live, myspace, stumbleupon, favorites, digg, delicious, orkut, blogger, meinvz, studivz, tumblr, more',
-services_expanded: 'facebook, email, twitter, print, google, live, myspace, stumbleupon, favorites, digg, delicious, orkut, blogger, vk, reddit, yahoomail, aim, gmail, mailto, meneame, hotmail, linkedin, viadeo, buzz, googlebuzz, meinvz, hyves, aolmail, yahoobkm, baidu, tumblr, sonico, misterwong_de, pdfonline, wordpress, friendfeed, 100zakladok, friendster, addio, amazonwishlist, bebo, bobrdobr, studivz, livejournal, dotnetshoutout, hatena, bitly, 2tag, adifni, oyyla, more'
-};
-</script>
-<script type="text/javascript">
-var sAddThisSrc = (("https:" == document.location.protocol) ? "https%3A//" : "http%3A//");
-document.write((unescape("%3Cscript src='" + sAddThisSrc + "s7.addthis.com/js/250/addthis_widget.js%23username%3Dphotocase' type='text/javascript'%3E%3C/script%3E")));
-</script><script src="https://s7.addthis.com/js/250/addthis_widget.js#username=photocase" type="text/javascript"></script>
-<!-- AddThis Button END -->
+<div class="footer_bar1 clearfix">
+<form action="/newsletter" class="footer_newletter" id="NewsletterForm" method="post">
+<label for="NewsletterForm-email">Get our newsletter</label>
+<input id="NewsletterForm-email" maxlength="255" name="NewsletterForm-email" placeholder="Your email address..." size="30" type="text" class="inputText">
+<input type="submit" value="Subscribe" class="button footer_newletter_button">
+ <a href="http://www.photocase.com/newsletter">More info</a>
+</form> 
 <ul class="linklist linklistVertical">
 <li class="feed"><a href="photocase.rss">New Photos</a></li>
 <li class="feed"><a href="photocase.rss?m=interestingphotos">Interesting Photos</a></li>
 <li class="feed"><a href="photocase.rss?m=interestingusers">Interesting Users</a></li>
 </ul>
-<div class="clear"></div><div class="divider" style="margin-top: 11px;">&nbsp;</div>
-<ul class="linklist linklistFooter">
+</div>
+<div class="footer_bar2 clearfix">
+<ul class="linklist">
 <li class="linklistHeadline">Photos</li>
 <li><a href="/photobrowser.asp">Browse all Photos</a></li>
+<li><a href="/explore.asp">Interesting Photos</a></li>
 <li><a href="/collection.asp">Public Lightboxes</a></li>
-<li><a href="/newcomments.asp">New Comments</a></li>
-<li><a href="/photoadd.asp">Upload Photos</a></li>
-<li><a href="/myphotos.asp">My Photos </a></li>
-<li><a href="javascript: OpenLightbox('/lightbox.asp');">My Lightboxes</a></li>
+<li><a href="/shop.asp">Buy Credits</a></li>
+<li><a href="/faq?s1=2439" class="popFaq">How do I buy a photo?</a></li>
 </ul>
-<ul class="linklist linklistFooter">
-<li class="linklistHeadline">Community</li>
-<li><a href="/community.asp">Community overview</a></li>
-<li><a href="/news">News</a></li>
-<li><a href="/forum.asp">Forum</a></li>
-<li><a href="/user.asp">Photographers &amp; Users</a></li>
-<li><a href="/poll.asp">Polls</a></li>
-<li><a href="http://blog.photocase.com/en/" target="_blank" style="background: url(/images/ico_star_blue.gif) no-repeat top right; padding-right: 10px;">Blog</a></li>
-</ul>
-<ul class="linklist linklistFooter">
-<li class="linklistHeadline">MyPhotocase</li>
+<ul class="linklist">
+<li class="linklistHeadline">My Photocase</li>
 
-  	<li class="popup"><a href="/myphotocase.asp?m=downloads">My Downloads</a></li>
-  	<li><a href="/myphotocase.asp?m=invoice">My Receipts</a></li>
-
-  	<li class="popup"><a href="javascript: OpenLightbox('/lightbox.asp');">My Lightboxes</a></li>
-  	<li><a href="/photofavorite.asp?m=myfavorites">My Favorites</a></li>
-  	<li><a href="/mynotifications.asp">My Notifications</a></li>
-
-  	<li><a href="/myuseraccount.asp?m=personal">Edit my Personal Details</a></li>
-  	<li><a href="/myuseraccount.asp?m=settings">Edit Preferences</a></li>
-    
+    	<li><a href="/myphotocase.asp?m=invoice">My Receipts</a></li>
+    	<li><a href="/myphotocase.asp?m=downloads">My Downloads</a></li>
+    	<li class="popup"><a href="javascript: OpenLightbox('/lightbox.asp');">My Lightboxes</a></li>
+      
 
 </ul>
-<ul class="linklist linklistFooter">
-<li class="linklistHeadline">Help &amp; Service</li>
-<li><a href="/faq" class="popFaq">Help &amp; FAQ</a></li>
-<li><a href="/contact">Contact</a></li>
-<li><a href="/newsletter">Newsletter</a></li>
-<li><a href="/imprint">Imprint</a></li>
-<li><a href="/terms-of-use">Terms of Use</a></li>
-<li><a href="/copyright-violation">Report copyright violation</a></li>
-<li><a href="/privacy">Privacy policy</a></li>
-<li><a href="/about">About Photocase</a></li>
+<ul class="linklist footer_hotline">
+<li class="linklistHeadline">Any questions?</li>
+<li>
+<a href="tel:+442032395151" class="tel">+44 20 3239 5151</a>
+<br>
+Available between 10-17, Mon to Fri.
+<br>
+Or use our <a href="/contact" rel="contact">contact page</a>
+<br>
+or the <a href="/faq" rel="help">FAQ</a>.
+</li>
 </ul>
-<ul class="linklist linklistFooter">
-<li class="linklistHeadline">Shop</li>
-<li><a href="/shop.asp">Buy Download Credits</a></li>
-<li class="linklistHeadline" style="margin-top: 20px;">Language</li>
-<li><a href="/language.asp?lid=1&amp;ref=%2Fprivacypolicy%2Easp" rel="nofollow">English</a></li>
-<li><a href="/language.asp?lid=2&amp;ref=%2Fprivacypolicy%2Easp" rel="nofollow">Deutsch</a></li>
-<li><a href="/language.asp?lid=4&amp;ref=%2Fprivacypolicy%2Easp" rel="nofollow">Español</a></li>
-</ul>
-<ul class="linklist linklistFooter">
-<li class="linklistHeadline">Partner</li>
+<ul class="linklist" style="float: right;">
+<li class="linklistHeadline" style="text-align: center;">Friends</li>
 <li style="margin-top: 15px;"><a href="http://www.designmadeingermany.de/" title="Design made in Germany Beta - Die besten Arbeiten deutscher Agenturen und Designer." target="_blank"><img src="/images/dmig.gif"></a></li>
 </ul>
-<div class="clear"></div>
+<ul class="linklist footer_social" style="float: right;">
+<li class="linklistHeadline">Rule the galaxy with us on</li>
+<li><div class="fb-like" data-href="https://www.facebook.com/photocase" data-send="false" data-layout="button_count" data-width="120" data-show-faces="false" data-font="tahoma"></div></li>
+<li><a href="https://twitter.com/share" class="twitter-share-button" data-url="photocase" data-text="Cliché free stock photos that are good for your eyes. http://www.photocase.com #photocase" data-lang="en" data-related="photocase">Tweet</a></li>
+</ul>
+</div>
+<div class="footer_bar3 clearfix">
+<div class="copyright"><span class="copy">©</span> 2012 Photocase Addicts GmbH. Made in Germany since 2001.</div>
+<ul class="linklist linklistVertical" style="float: left;">
+<li><a href="/imprint">Imprint</a></li>
+<li><a href="/terms-of-use">Terms of Use</a></li>
+<li><a href="/privacy">Privacy policy</a></li>
+<li><a href="/about">About Photocase</a></li>
+<li><a href="http://blog.photocase.com/en/" target="_blank">Blog</a></li>
+</ul>
+<ul class="linklist linklistVertical" style="float: right;">
+<li><a href="/language.asp?lid=1&amp;ref=%2Fprivacypolicy%2Easp" onclick="_gaq.push(['_link', 'http://www.photocase.com/privacypolicy.asp']); return false;" rel="nofollow">English</a></li>
+<li><a href="/language.asp?lid=2&amp;ref=%2Fprivacypolicy%2Easp" onclick="_gaq.push(['_link', 'http://www.photocase.de/privacypolicy.asp']); return false;" rel="nofollow">Deutsch</a></li>
+<li><a href="/language.asp?lid=4&amp;ref=%2Fprivacypolicy%2Easp" onclick="_gaq.push(['_link', 'http://www.photocase.es/privacypolicy.asp']); return false;" rel="nofollow">Español</a></li>
+</ul>
+</div>
 </div>
 
 
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-825113-1");
-
-pageTracker._initData();
-pageTracker._trackPageview();
-
-</script>
 </div>
 
 </body></html>
