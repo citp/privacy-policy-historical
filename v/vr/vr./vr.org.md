@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vr.org privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011020126id_/http%3A//www.vr.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vr.org privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508001233id_/http%3A//www.vr.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Host Virtual, Inc
 
@@ -55,8 +55,7 @@
     customize the advertising and content you see, to fulfill your requests for
     certain products and services, and to contact you about specials and new
     products.
-        * Host Virtual routinely time-stamps and logs events (like features
-    used, number of participants, length of meetings.) This data is used for
+        * Host Virtual routinely time-stamps and logs events when you use our service. This data is used for
     accounting/billing purposes as well as for performance tuning and
     optimization of the Host Virtual services. 
     
@@ -84,8 +83,7 @@
     You have the ability to edit your Host Virtual Account Information,
     including subscriptions for non-account specific email and general
     promotions, at any time. To request account maintenance, contact Host
-    Virtual Customer Services at support@Host Virtual.com or call
-    +1-866-229-3239 or +1-408-435-7088.
+    Virtual Customer Services at vr-support@HostVirtual.com 
     
     Host Virtual Prospect Opt Out Profile
     
@@ -98,19 +96,6 @@
     personal information.
     
     Security
-    
-    Host Virtual Meetings take place within the context of a switched
-    communications environment. With Host Virtual, any session information
-    (such as applications, chat, polling data, documents, video, and voice)
-    provided by participants within a meeting is never saved on the Host
-    Virtual switching platform but is instead instantly switched between
-    meeting participants. The Host Virtual switching environment is architected
-    similarly to the telephone switching environment; once the call is over all
-    remnants of the content of that call dissipate, leaving only a record that
-    a call took place. Further, the only means to participate in a meeting is
-    through the Host Virtual invitation and join process; Host Virtual
-    employees can therefore only participate in Host Virtual customer meetings
-    when expressly permitted by our customer.
     
         * Your Host Virtual Account Information is password-protected for your
     privacy and security.
