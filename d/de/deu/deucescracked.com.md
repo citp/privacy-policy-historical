@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deucescracked.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129153544id_/http%3A//www.deucescracked.com/account/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deucescracked.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508010450id_/http%3A//www.deucescracked.com/account/privacy) for the most accurate reproduction.*
 
 # DeucesCracked : Free Poker Videos : Poker Coaching : Win at Poker
 
