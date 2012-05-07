@@ -1,50 +1,20 @@
-> *The following text is extracted and transformed from the vendanything.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107185108id_/http%3A//www.vendanything.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vendanything.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507112656id_/http%3A//vendanything.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
 # 
 
-|    
-  
-| 
+You can change the text for this page by accessing the following menu in the admin panel:  
+Design > Templates > main_page > extra_pages
 
-**Privacy Policy**
+Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
 
-This privacy policy describes how we handle your personal information. We collect, use, and share personal information to help the VendAnything.com website (“VendAnything”) work and to keep it safe (details below). This policy is effective 10/25/2007. 
-
-  
-**Collection.** Information posted on VendAnything is obviously publicly available. Our servers are located in the United States. Therefore, if you choose to provide us with personal information, you are consenting to the transfer and storage of that information on our servers in the United States. We collect and store the following personal information: 
-
-  * email address, physical contact information, and (depending on the service used) sometimes financial information; 
-  * computer sign-on data, statistics on page views, traffic to and from VendAnything and ad data (all through cookies – you can take steps to disable the cookies on your browser although this is likely to affect your ability to use the site); 
-  * other information, including users IP address and standard web log information. 
+  * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected. 
+  * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law. 
+  * We will only retain personal information as long as necessary for the fulfillment of those purposes. 
+  * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned. 
+  * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date. 
+  * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. 
+  * We will make readily available to customers information about our policies and practices relating to the management of personal information. 
 
 
 
-**Use.** We use users’ personal information to: 
-
-  * provide our services 
-  * resolve disputes, collect fees, and troubleshoot problems; 
-  * encourage safe trading and enforce our policies; 
-  * customize users’ experience, measure interest in our services, and inform users about services and updates; 
-  * communicate marketing and promotional offers to you; 
-  * do other things for users as described when we collect the information. 
-
-
-
-**Disclosure.** We don’t sell or rent users’ personal information to third parties for their marketing purposes without users explicit consent. We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a posting or other content violates other’s rights, or protect anyone’s rights, property, or safety. We may also share personal information with: 
-
-  * corporate affiliates who help detect and prevent potentially illegal acts and provide joint services. (Our corporate affiliates will market only to users who ask them to). 
-  * service providers who help with our business operations. 
-
-
-
-**Using Information from VendAnything.** You may use personal information gathered from VendAnything only to follow up with another user about a specific posting, not to send spam or collect personal information from someone who hasn’t agreed to that. 
-
-  
-**Access, Modification, and Deletion.** You can see, modify or erase your personal information by reviewing your posting or my account page. Contact customer support ([customerservice@VendAnything.com](mailto:kijiji-com-privacy@kijiji.com) ) to review any personal information we store that is not available on VendAnything. There may a charge associated with such requests but these will not exceed the amounts permitted by law. We delete personal information when we no longer need it for the purposes we described earlier. We retain personal information as permitted by law to resolve disputes, enforce our policies; and prevent bad guys from coming back.   
-****
-
-**Security.** We use lots of tools (encryption, passwords, physical security) to protect your personal information against unauthorized access and disclosure, but as you probably know, nothing’s perfect, so we make no guarantees. 
-
-  
-**General.** We may update this policy at any time, with updates taking effect when you next post or after 30 days, whichever is sooner. If we or our corporate affiliates are involved in a merger or acquisition, we may share personal information with another company, but this policy will continue to apply. Send questions about this policy to [customerservice@VendAnything.com](mailto:kijiji-com-privacy@kijiji.com).   
----|---
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
