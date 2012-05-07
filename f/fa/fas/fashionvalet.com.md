@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionvalet.com privacy policy that was archived on 2011-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110812071452id_/http%3A//fashionvalet.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionvalet.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507224709id_/http%3A//fashionvalet.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
