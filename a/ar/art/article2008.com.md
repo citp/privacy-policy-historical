@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the article2008.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008025909id_/http%3A//article2008.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the article2008.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507233309id_/http%3A//article2008.com/privacy.php) for the most accurate reproduction.*
 
 # Article2008.com | Privacy Statement
 
