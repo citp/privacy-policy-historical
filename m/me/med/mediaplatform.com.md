@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediaplatform.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126124715id_/http%3A//www.mediaplatform.com/webcasting-software/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediaplatform.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507153954id_/http%3A//www.mediaplatform.com/webcasting-software/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MediaPlatform
 
