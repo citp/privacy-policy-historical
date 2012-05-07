@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easybizchina.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102234119id_/http%3A//www.easybizchina.com/Help/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easybizchina.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508002319id_/http%3A//www.easybizchina.com/Help/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # EasyBizChina - China Manufacturers, Suppliers, China Trade, Exporter, Importer, B2B Marketplace
 
