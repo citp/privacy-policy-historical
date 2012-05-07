@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nhd.weebly.com privacy policy that was archived on 2010-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100130185659id_/http%3A//nhd.weebly.com/nhd-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhd.weebly.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507195040id_/http%3A//nhd.weebly.com/nhd-privacy.php) for the most accurate reproduction.*
 
 # Weebly - Create a free website and a free blog
 
@@ -102,9 +102,9 @@ If you have a privacy concern regarding Weebly, or this policy, and if you canno
 
 Weebly, Inc.
 
-447 Battery St, #250
+564 Pacific Ave
 
-San Francisco, CA 94111
+San Francisco, CA 94133
 
 **TRUSTe**
 
