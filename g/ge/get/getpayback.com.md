@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getpayback.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215014757id_/http%3A//www.getpayback.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getpayback.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507101317id_/http%3A//www.getpayback.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Get Payback
+# Privacy Policy - GetPayback.com
 
 **Effective May 2011.**
 
@@ -58,11 +58,16 @@ We follow reasonable standards to protect the personal information submitted to 
 
 If you believe that Payback Inc. or one of our customers has not adhered to this Policy you may write to the Payback Inc. Privacy Office at the following address:
 
-Payback Inc.  
-Attn: Privacy Officer  
-1550 Larimer St STE #215  
-Denver, CO 80202  
-United States of America
+**By Mail:**  
+Payback Inc. Attn: Privacy Officer  
+82 Broad Street Suite 328  
+Boston, MA 02110
+
+**By Email:** noic@getpayback.com
+
+**By Fax:** 303-379-5494
+
+**By Phone:** 202-688-5965 ( _please note GetPayback.com customer support only responds via email or by our contact form, this is for legal inquiries only. Our legal department will only respond to law enforcement or Attorneys / Lawyers_ )
 
 Note that for Customer Websites, our customers and not Payback Inc. are independently responsible for their compliance with this Policy. However, we will notify our customers of any Complaints we receive regarding this Policy.
 
