@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bna.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102052311id_/http%3A//www.bna.com/internet-privacy-policy-a4717) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bna.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507221931id_/http%3A//www.bna.com/internet-privacy-policy-a4717) for the most accurate reproduction.*
 
-# Privacy Policy | BNA
+# Privacy Policy | Bloomberg BNA
 
 1. **Introduction**. BNA publishes its information services in print and various electronic media, including Web-based formats. We are continually adapting to changes in technology to bring you the information you rely on faster and more efficiently than ever before.
 
