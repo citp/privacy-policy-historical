@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helpareporter.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216195414id_/http%3A//www.helpareporter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpareporter.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507193729id_/http%3A//www.helpareporter.com/privacy) for the most accurate reproduction.*
 
 # HARO - Help a Reporter Out ™
 
