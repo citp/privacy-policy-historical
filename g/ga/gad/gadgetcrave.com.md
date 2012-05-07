@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gadgetcrave.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007074339id_/http%3A//gadgetcrave.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadgetcrave.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507165513id_/http%3A//gadgetcrave.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GadgetCrave.com
 
