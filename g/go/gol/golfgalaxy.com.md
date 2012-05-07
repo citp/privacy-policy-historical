@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the golfgalaxy.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112224454id_/http%3A//www.golfgalaxy.com/safety_security_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golfgalaxy.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507235000id_/http%3A//www.golfgalaxy.com/safety_security_privacy.aspx) for the most accurate reproduction.*
 
 # Safety, Security & Privacy at Golf Galaxy
 
@@ -61,6 +61,17 @@ This Web site is designed for an adult audience only, and children should not us
 ## Mobile Alerts (Text Messages)
 
 You may decide to have promotional text messages sent directly to your mobile device. This program is completely voluntary, and messages will be sent to you only if you have opted in to receive them. Message and data rates may apply. If you have errantly received a marketing text message without opting in to the program, or if you wish to opt out of receiving text messages, you can remove yourself from the program by either:
+
+  * **texting "STOP" to 453499; or**
+  * **contacting Customer Service by email at[customerservice@golfgalaxy.com](mailto:customer.service@dcsg.com) or by phone at 1 (800) 287-9060**
+
+
+
+You will need to provide your mobile phone number in order to be removed from the program. It may take up to 10 days to process your stop request. You may receive additional text messages from Golf Galaxy during this time. Golf Galaxy respects your privacy and your mobile number will only be used in this text message program by Golf Galaxy and its third party marketing partners administering this program on Golf Galaxy’s behalf as set forth above.
+
+## Golf Galaxy Job Alerts (Text Messages)
+
+You may decide to have recruitment reminder text messages sent directly to your mobile device. This program is completely voluntary, and messages will be sent to you only if you have opted in to receive them. Message and data rates may apply. If you have errantly received a recruitment reminder text message without opting in to the program, or if you wish to opt out of receiving text messages, you can remove yourself from the program by either:
 
   * **texting "STOP" to 453499; or**
   * **contacting Customer Service by email at[customerservice@golfgalaxy.com](mailto:customer.service@dcsg.com) or by phone at 1 (800) 287-9060**
