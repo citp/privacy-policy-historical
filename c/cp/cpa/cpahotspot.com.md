@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpahotspot.com privacy policy that was archived on 2011-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110907092221id_/http%3A//www.cpahotspot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpahotspot.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507072252id_/http%3A//www.cpahotspot.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
