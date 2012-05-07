@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backlinksgenius.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227112937id_/http%3A//www.backlinksgenius.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backlinksgenius.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508010025id_/http%3A//www.backlinksgenius.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement | BackLinks Genius
 
@@ -10,9 +10,13 @@ BackLinks Genius Ltd may collect and use the following kinds of personal inform
 
   * information about your use of this website;
   * information that you provide using for the purpose of registering with the website;
-  * information about transactions carried out over this website;
-  * information that you provide for the purpose of subscribing to the website services;
   * any other information that you send to BackLinks Genius Ltd.
+
+
+
+## What we do not collect
+
+  * financial details of our customers (like credit/debet cards, login details to PayPal and Moneybookers...)
 
 
 
@@ -27,7 +31,6 @@ BackLinks Genius Ltd may use your personal information to:
   * send to you products that you purchase;
   * supply to you services that you purchase;
   * send you statements and invoices;
-  * collect payments from you; and
   * send you marketing communications.
 
 
