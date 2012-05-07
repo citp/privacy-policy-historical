@@ -1,19 +1,6 @@
-> *The following text is extracted and transformed from the seoworkers.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007100116id_/http%3A//www.seoworkers.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoworkers.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507160532id_/http%3A//www.seoworkers.com/privacy-policy.html) for the most accurate reproduction.*
 
 # SEO Workers Web Site Privacy Policy & Important Notices
-
-  * Skip to main content
-  * Skip to local navigation
-
-
-
-**Call us:**
-
-  * US (323) 580-6285
-  * UK (020) 3286-0213
-  * AU (03) 9016-3603
-
-
 
 **You are here:**
 
@@ -109,7 +96,7 @@ A few SEO Workers Web sites may also make use of persistent cookies to remember 
 
 Each SEO Workers site using persistent cookies identifies itself as doing so.
 
-At no time is your private information, whether stored in persistent cookies or elsewhere, shared with third parties who have no right to that information.
+Your private information, whether stored in persistent cookies or elsewhere, are only shared with the third party service of **Google, Inc.** and only for our use of their service called **"Google Analytics"** , but your IP is not delivered to this third party website.
 
 If you do not wish to have session or persistent cookies stored on your machine, you can turn them off in your browser. However, this may affect the functioning of some SEO Workers Web sites.
 
@@ -177,19 +164,19 @@ This site gives users the following options for removing their information from 
 You also can send mail to the following postal address:
 
 **SEO Workers**   
-John S. Britsios, CEO   
+Helga Haas, CEO   
 Will-Stoer Str. 4,   
 D-86159 Augsburg,   
 Germany.
 
 You can call one of the following telephone/fax numbers:
 
-**Germany:** +49-821-5894716   
-**United States:** : +1-217-4084510   
-**United Kingdom:** +44-20-81337065   
+**Germany:** +49-821-4082715   
+**United States:** : +1-323-580-6285    
+**United Kingdom:** +44-20-3286-0213   
 **Australia:** +61-2-80113838
 
-**Facsimile (fax):** +49-821-2594908
+**Facsimile (fax):** +49-821-4082715
 
 * * *
 
@@ -251,13 +238,9 @@ Please [**contact SEO Workers**](https://web.archive.org/contact.html) for repro
 
 ### SEO Workers Official for Privacy Related Matters
 
-John S. Britsios, Founder & CEO   
-Web Architect & Senior SEO Consultant
+**Mrs. Helga Haas, CEO**
 
 **Telephone:** +49-821-4082715
 
 **Date of publication:** October, 2006.
-  *[US]: United States
-  *[UK]: United Kingdom
-  *[AU]: Australia
   *[CD]: Compact Disc
