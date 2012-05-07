@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toilette-humor.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104085729id_/http%3A//www.toilette-humor.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toilette-humor.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507043309id_/http%3A//www.toilette-humor.com/privacy.shtml) for the most accurate reproduction.*
 
 # Toilette-Humor.com Statement of Privacy
 
@@ -31,7 +31,7 @@ PO Box 195183 | Winter Springs | FL | 32719
 
 
 
-**We track IP addresses only to measure traffic on our site.**
+**[](http://reseller.constantcontact.com/index.jsp?pn=eyecatcher)We track IP addresses only to measure traffic on our site.**
 
 We have contracted with "[Constant Contact®](http://reseller.constantcontact.com/index.jsp?pn=eyecatcher)" and are a reseller for their externally hosted mailing program to maintain our cartoon alert subscribers data base. We do not use IP addresses to determine any user's identity other than the opt-in program that Constant Contact® might use.
 
