@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expatwomen.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108152133id_/http%3A//www.expatwomen.com/expat-women-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatwomen.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508014109id_/http%3A//www.expatwomen.com/expat-women-privacy.php) for the most accurate reproduction.*
 
 # Expat Women - Privacy
 
@@ -25,7 +25,7 @@ Expat Women Enterprises Pty Ltd will not knowingly give away, rent, or sell any 
 
 4\. Accuracy and Security
 
-The accuracy and security of the personal information is important to Expat Women Enterprises Pty Ltd. Currently, you may request updates to your personal information retained by Expat Women Enterprises Pty Ltd. If you [Contact Us](mailto:contactus@expatwomen.com?subject=Expat%20Women%20Updates:%20Genuine%20Contact) to correct your personal information, we will attempt to correct such inaccuracies in a timely manner. If you have previously provided us with your [Contact Us](mailto:contactus@expatwomen.com?subject=Expat%20Women:%20Genuine%20Contact). We will try to accommodate your request, but cannot promise that it will happen immediately. Expat Women Enterprises Pty Ltd is concerned with the security of your Personal information and is committed to taking reasonable steps to protect it from unauthorized access and use of that personal information. __  
+The accuracy and security of the personal information is important to Expat Women Enterprises Pty Ltd. Currently, you may request updates to your personal information retained by Expat Women Enterprises Pty Ltd. If you email us to correct your personal information, we will attempt to correct such inaccuracies in a timely manner. If you have previously provided us with your details, we will try to accommodate your request, but cannot promise that it will happen immediately. Please allow 1-4 weeks for updates to be made. Expat Women Enterprises Pty Ltd is concerned with the security of your Personal information and is committed to taking reasonable steps to protect it from unauthorized access and use of that personal information. __  
 5\. External Links
 
 Expat Women Enterprises Pty Ltd web site provides links to other third party web sites. Even if the third party is affiliated with Expat Women Enterprises Pty Ltd through a business partnership or otherwise, Expat Women Enterprises Pty Ltd is not responsible for the privacy policies or practices or the content of such external links. These links are provided to you for convenience purposes only and you access them at your own risk. 
@@ -36,4 +36,4 @@ Please also see our Terms and Conditions, which describes the restrictions, disc
 
 7\. General
 
-If you have questions regarding our Privacy Statement, please [Contact Us](mailto:contactus@expatwomen.com?subject=Expat%20Women:%20Genuine%20Contact%20-%20Privacy%20Policy).
+If you have questions regarding our Privacy Statement, please email: contactus at expatwomen dotcom
