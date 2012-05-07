@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epals.com privacy policy that was archived on 2011-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111028124924id_/http%3A//www.epals.com/groups/about/pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epals.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507200427id_/http%3A//www.epals.com/groups/about/pages/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - About ePals - ePals Global Community
 
