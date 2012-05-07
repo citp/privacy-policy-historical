@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funmunch.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124124408id_/http%3A//www.funmunch.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funmunch.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507194748id_/http%3A//www.funmunch.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Funmunch.com
 
@@ -48,7 +48,7 @@ To provide relevant information not found on our Web site, Funmunch may provide 
  **Questions or Suggestions**   
 ~~~~~~~~~~~~~~~~~
 
-To review, modify or remove the information you have provided to us, or to contact us with any questions or complaints, please e-mail us at [ webmaster@funmunch.com](mailto:webmaster@funmunch.com)
+To review, modify or remove the information you have provided to us, or to contact us with any questions or complaints, please e-mail us at [ myfunmunch@gmail.com](mailto:myfunmunch@gmail.com)
 
 By using this site, you signify your acceptance to the funmunch.com Privacy Policy. This Privacy Policy may be reviewed from time to time. We will thereby request you to review this Privacy Policy over the period of time to be informed of how funmunch.com protects your information.
 
