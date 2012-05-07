@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nicoclub.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206162001id_/http%3A//www.nicoclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nicoclub.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507182753id_/http%3A//www.nicoclub.com/privacy-policy) for the most accurate reproduction.*
 
 # NICOclub.com Privacy Policy
 
@@ -20,13 +20,11 @@ As with most free resource sites, we have advertising on the forums. To bring yo
 
 If you feel that this site is not following its stated information policy, you may contact us via e-mail at webmaster@nicoclub.com.
 
+Did you like this article? If so, please help us spread the word and share it!
+
   * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.nicoclub.com%2Fprivacy-policy%20\(via%20@sociablesite\) "Twitter")
   * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.nicoclub.com%2Fprivacy-policy&t=Privacy%20Policy "Facebook")
   * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.nicoclub.com%2Fprivacy-policy&ui=2&tf=1&shva=1 "email")
   *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.nicoclub.com%2Fprivacy-policy&title=Privacy%20Policy "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.nicoclub.com%2Fprivacy-policy&title=Privacy%20Policy&notes=NICOclub.com%20and%20all%20affiliated%20sites%20are%20the%20property%20of%20HDS%20Holdings%2C%20Inc.%20They%20are%20independent%20publications%20and%20are%20not%20affiliated%20with%20or%20endorsed%20by%20Nissan%20or%20Infiniti.%0D%0A%0D%0AAll%20information%20is%20copyrighted%20by%20NICOclub%2C%20with%20all%20rights%20reserved.%20The "Delicious")
-  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.nicoclub.com%2Fprivacy-policy&title=Privacy%20Policy&srcURL=http%3A%2F%2Fwww.nicoclub.com%2Fprivacy-policy&srcTitle=NICO+Club+Nissan+Forums+%7C+Infiniti+Forums "Google Reader")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.nicoclub.com%2Fprivacy-policy&title=Privacy%20Policy&source=NICO+Club+Nissan+Forums+%7C+Infiniti+Forums&summary=NICOclub.com%20and%20all%20affiliated%20sites%20are%20the%20property%20of%20HDS%20Holdings%2C%20Inc.%20They%20are%20independent%20publications%20and%20are%20not%20affiliated%20with%20or%20endorsed%20by%20Nissan%20or%20Infiniti.%0D%0A%0D%0AAll%20information%20is%20copyrighted%20by%20NICOclub%2C%20with%20all%20rights%20reserved.%20The "LinkedIn")
-  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.nicoclub.com%2Fprivacy-policy&Title=Privacy%20Policy "BlinkList")
-  * 
+
 
