@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yuku.com privacy policy that was archived on 2011-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111027031845id_/http%3A//www.yuku.com/portal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yuku.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507091716id_/http%3A//www.yuku.com/portal/privacy) for the most accurate reproduction.*
 
 # Yuku Privacy Policy | Free forums, social networks, communities, chat rooms
 
