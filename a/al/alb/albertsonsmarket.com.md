@@ -1,43 +1,111 @@
-> *The following text is extracted and transformed from the albertsonsmarket.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106205324id_/http%3A//www.albertsonsmarket.com/component/content/article/99.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the albertsonsmarket.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507032731id_/http%3A//www.albertsonsmarket.com/component/content/article/99.html) for the most accurate reproduction.*
 
 # Albertsons Privacy Policy
 
-##  Albertsons Privacy Policy 
+ Albertsons LLC Privacy Policy
 
-**ALBERTSON’S LLC:   PRIVACY STATEMENT**
+Albertson’s LLC respects your privacy and is committed to safeguarding your personally identifiable information or “personal information” from unauthorized use or disclosure. This policy describes how your personal information may be collected when you visit our website, shop at our stores, use our products or access our services, or otherwise interact with us. It also describes how your personal information is used or disclosed and the steps we take to protect it from unauthorized use or disclosure. For special offers, promotions, contests or specific services, such as those provided by our pharmacies, we might advise you that additional or different personal information practices or terms exist. You should refer to those terms or practices as well.
 
-## Privacy Statement
+**CONSENT TO PRIVACY POLICY**
 
-Albertson’s LLC (“Albertsons”) respects the privacy of users of www.Albertsonsmarket.com (the "Site"). This Privacy Statement discloses how we collect and use information on the Site, and the choices that you can make about the way your information is collected and used.
+By accessing our website or obtain information or services or providing personal information to us through other means, you are agreeing to the terms of this Privacy Policy.
 
-**1\. INFORMATION COLLECTION AND USE**  
-Portions of the Site may allow users to make online requests for information, submit comments regarding ALBERTSONS’ operations, register for certain services online, or inquire about opportunities for employment or other business transactions with ALBERTSONS. These portions of the site will require the user to provide personally identifiable contact information. ALBERTSONS uses the information you provide for the purposes stated at the point of collection. For example, ALBERTSONS routes the information internally to the individual or department best able to respond to your inquiry, and uses your contact information to respond to or follow-up regarding your inquiry. ALBERTSONS does not maintain a central database of user information obtained from users who have requested information from ALBERTSONS.  
-(a) Sharing of Information. ALBERTSONS does not sell or rent personally identifiable user information collected about or from our users. In the event that ALBERTSONS sells or acquires business assets or concerns, in whole or in part, ALBERTSONS may transfer user information in conjunction with such sale or acquisition.  
-(b) Web Traffic Monitoring. ALBERTSONS uses analytical software to track page views, user sessions, IP addresses, general geographic location of visitors, and similar information regarding the use of the web site in an effort to understand how visitors experience the Site and how we may improve the Site. ALBERTSONS does not normally link IP addresses to anything personally identifiable, which means that your session will be logged, but you remain anonymous to us. ALBERTSONS may use IP addresses to identify a user when we feel it is necessary to enforce compliance with the Site's Terms of Use or to protect our service, the Site, our customers or others, or in response to requests or subpoenas by law-enforcement authorities.
+**DEFINITION OF PERSONAL INFORMATION**
 
-**2\. CONSENT TO PRIVACY STATEMENT**   
-By providing the information requested by the Site, or by continuing to use the Site after having an opportunity to review the Privacy Statement, you have consented to the terms of the Privacy Statement, and ALBERTSONS' use of the information it collects as described at the point of collection or in this Privacy Statement. If you do not agree to the Privacy Statement, you may not use the Site.  
-ALBERTSONS reserves the right to modify the Privacy Statement at any time without giving you prior notice. Any updates or material changes to this Privacy Statement will be posted here, and the last date of modification will be noted. Your use of the Site following any such modification constitutes your agreement to follow and be bound by the Privacy Statement as modified. The last date the Privacy Statement was revised is set forth below.  
-Because ALBERTSONS does not maintain a central database of user information obtained from users who have requested information via the site, the Site does not provide a mechanism to opt-out of receiving future communications from ALBERTSONS. Should you wish to cease communications with a particular individual or department within ALBERTSONS from whom or from which you have requested information, you may inform that individual or department of your wishes at any time. ALBERTSONS’ policy is to respect such requests.
+We define the term “personal information” to mean any information that we directly associate with or use to identify a specific person. This may include an address, phone number, email address, fax number, online registration or financial account, when associated with a person’s name. Our definition does not include "aggregate personal information,” which is information that we collect about a group or category of persons or services, or “de-identified information,” which is information from which we or our agents have removed any information that can be used to specifically identify a person, and this policy does not restrict or limit our collection or use of those types of information.
 
-**3 **. INTEGRITY / SECURITY OF THE DATA COLLECTED****  
-The Site is not a secure web site. Therefore, information you post to or transmit via the Site cannot be considered secure and safe from intrusion. Please do not post or transmit any sensitive personal information. If you have any questions about the security of our Site, you may send a letter via the U.S. Mail to:  
-ALBERTSON’S LLC   
-250 Parkcenter Blvd   
-Boise, Idaho 83706
+**COLLECTION OF PERSONAL INFORMATION**
 
-**4\. MISCELLANEOUS PROVISIONS**  
-(a) Children and Privacy. The Site is not intended for use by children. ALBERTSONS encourages parents and guardians to be familiar with the web sites that their children visit. The Federal Trade Commission ("FTC") regulates the means by which web site operators collect and use personal information from children under 13, pursuant to the Children's Online Privacy Protection Act of 1998 (the "Act"). For more information about the Act and children's on-line privacy in general, visit the FTC's web site at http://www.ftc.gov. ALBERTSONS generally does not collect or distribute personal information from its users, including its users under 13. To the extent that some of the features and services provided in conjunction with the Site require a user to disclose personal information, ALBERTSONS requests that children under 13 refrain from using these features or obtain permission from a parent or guardian before using the features. Users under 13 are prohibited from posting any personal information on the Site or any other ALBERTSONS web site. ALBERTSONS relies on its users to comply with the provisions of this section.  
-(b) Links to Other Sites. The Site contains links to other web sites. Each of these linked web sites maintains its own independent privacy policies. ALBERTSONS does not control and is not responsible for the privacy policies or the content of those web sites. When you leave the Site and access the web sites of third parties, the privacy policies of the parties maintaining those web sites apply.  
-(c) Disclaimer of Liability. Under no circumstances shall ALBERTSONS, its parent entities, or any subsidiary or affiliate be liable for any damages, including, but not limited to, special, incidental, consequential or exemplary damages, that result from the use of the information or materials posted to or collected as a result of the user's access of the Site, even if ALBERTSONS has been advised of the possibility of such damages. This and the other sections in the Privacy Statement should be read in conjunction with and are subject to the Terms of Use.
+We may collect your personal information through one or more of the following methods.
 
-**5\. ENFORCEMENT / REDRESS**  
-If for some reason you believe that ALBERTSONS has not adhered to the Privacy Statement, please notify us at the address below. ALBERTSONS will do its best to respond to your concerns and, when appropriate, take steps to correct a problem.
+  * **Personal Information You Provide.** We may request or give you the opportunity to provide personal information when you register as a user of our website, shop in our stores, sign up for or use our products or services, cash a check, contact us about a prior purchase, or email, call, or otherwise communicate with us. For example, if you enter an on-line sweepstakes, we may request that you provide your telephone number. If you do not provide such information, your participation in such program may be limited. Similarly, if you contact us regarding a product or service that you are interested in or concerned about, we may request that you provide personal information that will enable us to respond to your inquiry.
 
-**6\. CONTACT INFORMATION**  
-If you have any questions about this Privacy Statement, the practices of this Site, or your dealings with this Site, you may contact us by sending a letter via the U.S. Mail to:  
-ALBERTSON’S LLC   
-250 Parkcenter Blvd   
-Boise, Idaho 83706
 
-Date of Last Modification: November 1, 2008
+  * **Automatically Collected Personal Information.** When you shop at our stores, or register for or use our services, transactional information such as the date of your purchase, registration or service usage, their descriptions and if applicable, the dollar amount or value of the transaction may be collected automatically. We treat this information as personal information if we combine it with or link it to other information that may identify you. 
+
+
+  * **Other Information.** We may obtain information about you from third parties such as demographic marketing information, address verification, or mailing list information and combine it with other personal information pertaining to you.
+
+
+  * **Cookies, Web Beacons and Similar Technologies.** We may use cookies, web beacons and similar technologies to manage our website and email messages, and we may collect information about your activities online at our website. We may link this information with other personal information about you. We may also allow third parties to serve ads on our websites, and if you visit their websites, they may collect information about your visit. This Privacy Policy does not apply to, and we are not responsible for, the practices of third parties that collect your personal information. We encourage you to check the privacy policies of such third parties to learn about their practices with respect to the collection, use, disclosure and protection of your personal information.
+
+
+
+**OUR USE OF PERSONAL INFORMATION**
+
+We may use your personal information for a variety of purposes, including but not limited to:
+
+  * Responding to your requests
+  * Processing and completing your transactions, including the delivery of products or services
+  * Contacting you about products or services that we believe may be of interest to you, or sharing with you special offers from other companies
+  * Conducting market research, surveys and similar inquiries to help us understand trends and customer needs across product categories or customer groups
+  * Evaluating your shopping experience or existing products and services, or to create new items
+  * Attempting to contact you regarding product safety or recall issues
+  * Entering you into sweepstakes and promotions
+  * Verifying and validating your identity
+  * Keeping a record of our interactions with you if you place an order or otherwise deal with our representatives over the telephone or online
+  * Preventing, investigating or providing notice of fraud, unlawful or criminal activity, or unauthorized access to or use of personal information, our website or data systems; or to meet legal obligations
+
+
+
+**DISCLOSURE OF PERSONAL INFORMATION**
+
+We do not sell or rent your personal information to third parties in the ordinary course of our business, nor do we share it with them for their own direct marketing purposes. Notwithstanding, upon the occurrence of certain corporate transactions, your personal information may be disclosed or transferred as described under the caption “Certain Business Transfers” below. We may also share your personal information with our parent corporation or affiliated companies for their use in a manner similar to the purposes described above under the caption “Our Use of Personal Information.” Our practices with respect to the disclosure of personal information are described below.
+
+  * **With Your Consent.** We may disclose your personal information to third parties with your consent. You may give your consent in several ways, such as through a written agreement that you sign or acknowledge; an online method, such as a "clickthrough" agreement or registration page; an oral statement, such as by way of an interactive voice response; or through the terms and conditions under which we provide you a particular product or service. Sometimes your consent may be implicit. For example, if you purchase products with a credit card and have them shipped to your home, you implicitly consent to the disclosure of your name and address to a third-party shipping company to complete the delivery, and of your credit card number to the credit card processor to authorize the transaction and to the bank to collect payment.
+
+
+  * **Service Providers.** We may disclose your personal information to third parties who complete transactions or perform services on our behalf or for your benefit. Information provided to such parties for payment authorization or verification purposes may be retained by them in a database that is used to provide similar services to others. We may also utilize the services of third parties to verify customer data, such as mailing addresses or to supplement other information we have collected. We may also contract with third parties to host a site, conduct market research, or send you information regarding our products or services, or those of other companies with whom we conduct business.
+
+
+  * **Legal Process.** We may disclose your personal information to legal or government regulatory authorities in response to their requests for such information or to assist in investigations of theft, fraud or abuse. We may also disclose your personal information to third parties in connection with claims, disputes or litigation, or if we determine its disclosure is necessary in an emergency.
+
+
+  * **Certain Business Transfers.** Your personal information may be disclosed as part of a corporate business transaction, such as a merger, acquisition, joint venture, or financing or sale of company assets, and could be transferred to a third party as one of the business assets in such a transaction. It may also be disclosed in the event of insolvency, bankruptcy or receivership.
+
+
+
+**HEALTH INFORMATION/PHARMACIES**
+
+Our pharmacies collect protected health information, which includes your medical and personal history, prescription profile for fulfillment of pharmacy orders, and other health-related information that you, your doctor or your insurance carrier provides to us. This information is most often used to process your prescriptions, provide you with health care information or services, or to contact you with questions and respond to your inquiries. This information is subject to our notice of privacy practices that more specifically describes how we may use or disclose your protected health information. You may request a copy of our notice of privacy practices when you visit any of our pharmacies or by contacting us using one of the methods listed under the caption "How to Contact Us" that appears below.
+
+**INFORMATION PERTAINING TO CHILDREN**
+
+We do not intend to or knowingly collect personal information online from children under the age of 13, and we encourage parents or guardians to participate in and monitor their children's online activity. If a child under 13 has provided personal information, a parent or guardian may inform us of that fact by contacting us using one of the methods listed under the caption "How to Contact Us" that appears below, and we will then delete the information from our database. If you are under the age of 13, do not provide us with any personal information either directly, on any website bulletin boards or by other means.
+
+**ACCESS TO AND RETENTION OF PERSONAL INFORMATION**
+
+We do not maintain all of your personal information in a form that you can access or update, and some items, such as transaction records, may not be changed. Accordingly, we will determine and may limit what may be accessed and how, and we may keep a record of changes (including deletions) and disclose them for lawful purposes. We keep your personal information for as long as we think is necessary or advisable, and we reserve the right to retain it to the full extent not prohibited by law. You may review your personal information that is readily accessible or request that it be updated by contacting our Customer Interaction Center using one of the methods listed under the caption "How to Contact Us" that appears below.
+
+**SECURITY OF PERSONAL INFORMATION**
+
+We take various physical, electronic and procedural measures to protect your personal information from unauthorized disclosure or misuse. We employ Secure Sockets Layer (SSL) technology, a commonly employed method of encrypted communication used on the Internet, to encrypt during transmission, sensitive personal information you input, including credit card numbers. However, because no data security systems are completely secure, we do not warrant that any personal information that you provide to us will be secure or safe from unauthorized access. If you provide any personal information to us, you do so at your own risk.
+
+**LINKS TO OTHER WEBSITES**
+
+Our website may contain links to websites operated by third parties. When you visit their websites, they may collect information about your visit and use it to provide advertisements to you. This Privacy Policy does not apply to, and we are not responsible for, the practices of third parties that collect your personal information. Each of these linked websites may maintain its own policies about the collection, use and protection of your personal information. We encourage you to check the privacy policies of such third parties to learn about their practices.
+
+**CHANGES TO THIS POLICY**
+
+We will modify this Privacy Policy if our practices change. We will notify you of such changes by posting the modified version on our website and indicating the date it was last modified. We encourage you to visit our website periodically to view the latest version of this Privacy Policy.
+
+**OPT-OUT CHOICES**
+
+We may send you email messages, direct mail offers, or other communications regarding products or services unless you specifically ask us not to do so when you  access our website or change your preferences by updating any accounts you may have with us. At any time, you may elect to discontinue receiving commercial messages from us by submitting an opt-out request to Albertson’s LLC (see “How to Contact Us” below) or by following the instructions in the form of the communication you received, as described below. We will endeavor to process your opt-out request in a commercially reasonable time.
+
+  * **Printed Materials:** To opt out of receiving printed marketing materials at your postal address, such as advertisements, flyers or postcards, contact Albertson’s LLC at the address below.
+  * **Emails:** To opt out of receiving marketing materials via email, use the method provided in the email or contact Albertson’s LLC at the address below.
+  * **Facsimiles:** If you have consented to receiving facsimile messages, you may opt out of receiving them by using the method provided in the facsimile message or by contacting Albertson’s LLC at the address below.
+  * **Voice or Text Messages:** To opt out of receiving in-person voice messages by telephone, contact Albertson’s LLC at the address below. If you have consented to receiving prerecorded voice messages or text messages, you may opt out of receiving them by using the method provided in the prerecorded voice message or text message, or by contacting Albertson’s LLC at the address below.
+
+
+
+**HOW TO CONTACT US**
+
+If you have any questions, comments or concerns about this Privacy Policy or privacy-related comments or questions, please contact Albertson’s LLC by mail as follows:
+
+**Mailing Address** Attn: Albertson’s LLC Customer Service, 250 Parkcenter Blvd., Boise, ID  83706
+
+**Effective Date: February 8, 2012**
+
+© 2011 Albertson’s LLC. All rights reserved.
