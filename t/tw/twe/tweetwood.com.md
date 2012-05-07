@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tweetwood.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108065916id_/http%3A//www.tweetwood.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweetwood.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507164320id_/http%3A//tweetwood.com/privacy) for the most accurate reproduction.*
 
-# Tweetwood - Privacy Policy
+# Tweetwood : Privacy Policy
 
 Tweetwood.com India Limited and its subsidiaries ("Tweetwood.com") respects your privacy. This Privacy Policy provides succinctly the manner your data is collected and used by Tweetwood.com. You are advised to please read the Privacy Policy carefully. By accessing the services provided by Tweetwood.com you agree to the collection and use of your data by Tweetwood.com in the manner provided in this Privacy Policy.
 
