@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the irex.org privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107220626id_/http%3A//www.irex.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irex.org privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507163030id_/http%3A//irex.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | IREX
+# Privacy Policy | IREX - Civil Society, Education and Media Development
 
 This **IREX Privacy Policy** is designed to inform visitors to our website [www.irex.org](http://www.irex.org/ "www.irex.org") about what information we may collect and how we protect users’ privacy. We encourage you to read this Privacy Policy before submitting any personal information through this website. IREX reserves the right to modify this Privacy Policy at any time by posting changes on our website.
 
