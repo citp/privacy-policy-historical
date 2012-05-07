@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cinemaclock.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105122347id_/http%3A//www.cinemaclock.com/privacy/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinemaclock.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507164903id_/http%3A//www.cinemaclock.com/privacy/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
