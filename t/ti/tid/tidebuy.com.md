@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the tidebuy.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101122346id_/http%3A//help.tidebuy.com/Privacy-Policy-on-Tidebuycom-141.html%23detail1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tidebuy.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508014336id_/http%3A//help.tidebuy.com/Privacy-Policy-on-Tidebuycom-141.html%23detail1) for the most accurate reproduction.*
 
 # privacy policy on tidebuy.com :Tidebuy.com
 
-At Tidebuy.com, we take the protection for your Personal Information (such as name; address; phone number; e-mail address; credit card number; gender; language preference; and merchandise category preferences) very seriously.
+On Tidebuy.com, we take the protection for your Personal Information (such as name; address; phone number; e-mail address; credit card number; gender; language preference; and merchandise category preferences) very seriously.
 
 We collect Personal Information that you provide to us voluntarily and process it for the following purposes ("Purposes"):
 
-•To complete transactions with you and manage your membership of our customer loyalty scheme where applicable;
+•to complete transactions with you and manage your membership of our customer loyalty scheme where applicable;
 
-•to guide you the latest maket trend;
+•to guide you the latest market trend;
 
 •to understand and analyse our sales, and your needs and preferences;
 
@@ -30,4 +30,4 @@ At first, thank you for accessing the website ("Site") of Tidebuy.com, Limited. 
 
 Though this privacy notice, you can know that how we collect, use, (and under certain conditions) disclose your personal information. Finally, you will know your options regarding the collection, use, and disclosure of your personal information with the privacy notice. You accept the practices described in this Notice by visiting our site.
 
-You can apply this Privacy Notice only in this Site. So for our offline collection of your personal information, this privacy policy is not necessary. You will see the detail below. The content or privacy practices on any non-Tidebuy.com website to which this Site links or that links to this Site is not our responsibility..
+You can apply this Privacy Notice only in this Site. So for our offline collection of your personal information, this privacy policy is not necessary. You will see the detail below. The content or privacy practices on any non-Tidebuy.com website to which this Site links or that links to this Site is not our responsibility.
