@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brightidea.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229090117id_/http%3A//www.brightidea.com/privacy.bix) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightidea.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507195717id_/http%3A//www.brightidea.com/privacy.bix) for the most accurate reproduction.*
 
-# Brightidea, Inc.
+# Innovation Management, Idea Management, Crowdsourcing. Ideation. Brightidea, Inc., The Global Leader Cloud-Based Enterprise Innovation Management
 
 (Effective as of February 2010)
 
@@ -10,13 +10,13 @@ Brightidea, Inc. ("Brightidea") is committed to protecting the privacy of your p
 
 ## Safe Harbor Certification
 
-Your personal information may be transferred abroad (including outside the EU for our users in the EU) in connection with our providing our hosted application service and related support services.
+Your personal information may be transferred abroad (including outside the EU and Switzerland for our users in the EU or Switzerland) in connection with our providing our hosted application service and related support services.
 
-Brightidea is self-certified to the United States/European Union Safe Harbor Program and is thus committed to complying with the EU Safe Harbor principles with respect to all personal data received from the EU (see <http://www.export.gov/safeharbor/eu/eg_main_018476.asp>).
+Brightidea is self-certified to the United States/European Union and United States/Switzerland Safe Harbor Programs and is thus committed to complying with the U.S.-EU and U.S.-Swiss Safe Harbor principles with respect to all personal data received from the EU and Switzerland (see [http://www.export.gov/safeharbor/eg_main_018236.asp](http://export.gov/safeharbor/eg_main_018236.asp)).
 
 Brightidea agrees to cooperate with the EU Data Protection Authorities and the Swiss Federal Data Protection and Information Commissioner, and to participate in the dispute resolution program provided by the European Data Protection Authorities Panel.
 
-If you have a complaint concerning Brightidea' Safe Harbor compliance, please contact [ support@Brightidea.com](mailto:support@Brightidea.com)
+If you have a complaint concerning Brightidea' Safe Harbor compliance, please contact [ support@Brightidea.com](mailto:support@Brightidea.com).
 
 ## Web Site Data Collection Overview
 
