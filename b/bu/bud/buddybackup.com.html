@@ -1,110 +1,155 @@
-<!--The following is the downloaded HTML source of the buddybackup.com privacy policy that was archived on 2011-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102230902id_/http%3A//www.buddybackup.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the buddybackup.com privacy policy that was archived on 2012-05-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120507200617id_/http%3A//www.buddybackup.com/privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html;charset=utf-8"><title>
-	BuddyBackup - Privacy Policy
-</title>
+<!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en"><!--<![endif]--><head><meta charset="utf-8">
+    <!-- Handshake so that connection is faster when we get jQuery, etc. from CDNs -->
+    <link rel="dns-prefetch" href="//ajax.googleapis.com"><link rel="dns-prefetch" href="//fonts.googleapis.com">
+    <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame
+       Use the .htaccess and remove these lines to avoid edge case issues.
+       More info: h5bp.com/b/378 -->
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge;chrome=1">
+    <!-- TODO: Change site title -->
+    <title>
+	BuddyBackup: Safe, Free and Secure Data Backup
+</title><meta name="robots" content="index, follow"><meta name="description"><meta name="keywords"><meta name="author" content="NXT Digital Solutions">
 
-    <!-- Style Sheets -->
-    <link rel="stylesheet" href="css/buddybackup.css" type="text/css"><link rel="stylesheet" href="css/sifr.css" type="text/css">
+    <!-- Mobile viewport optimized: j.mp/bplateviewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+
+    
+    <!-- CSS: implied media="all". Use versions to avoid most-caching after updates in production -->
+    <!-- TODO: For perfromance, it is probably best to host the files on the same site in Assets/Fonts, then include the font-face code in CSS? -->
+	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Droid+Serif:400,b,i,bi"><link rel="stylesheet" href="Assets/CSS/normalize.css?v=1"><link rel="stylesheet" href="Assets/CSS/960.css?v=1"><link rel="stylesheet" href="Assets/CSS/main.css?v=1"><link rel="stylesheet" href="Assets/CSS/sifr.css?v=1"><link rel="stylesheet" href="Assets/CSS/original.css?v=1">
+    <!-- In a live site based on this template, required styles should be copied to main -->
+	<link rel="stylesheet" href="Assets/CSS/useful.css?v=1"><link href="http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+
+    <!-- All JavaScript at the bottom, except for Modernizr / Respond. [which is included inside Mordenizr] 
+       Modernizr enables HTML5 elements & feature detects; Respond is a polyfill for min/max-width CSS3 Media Queries
+       For optimal performance, use a custom Modernizr build: www.modernizr.com/download/ -->
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/Assets/JS/modernizr-2.0.6.min.js"></script>
+    <script type="text/javascript" src="/Assets/JS/flash.js"></script>
+    <script type="text/javascript" src="/js/buddybackup.js"></script>
+
     <!--[if lte IE 7]>
-        <link rel="stylesheet" href="css/ie6.css" type="text/css" />
+        <link rel="stylesheet" href="/Assets/CSS/ie7.css" type="text/css" />
     <![endif]-->
 
-   
-    <!-- sIFR -->
-    <script src="http://www.buddybackup.com/js/sifr.js" type="text/javascript"></script> 
-    <script src="http://www.buddybackup.com/js/sifr-debug.js" type="text/javascript"></script>
-    <script src="http://www.buddybackup.com/js/sifr-config.js" type="text/javascript"></script>
 
-    <!-- jQuery -->
-    <script src="http://www.buddybackup.com/js/jquery-1.3.2.js" type="text/javascript"></script>
-    <script src="http://www.buddybackup.com/js/jquery.pngFix.js" type="text/javascript"></script>
-    <script src="http://www.buddybackup.com/js/jquery.watermark.js" type="text/javascript"></script>
     
-    <!-- Scripts -->
-    <script src="http://www.buddybackup.com/js/flash.js" type="text/javascript"></script>    
-    <script src="http://www.buddybackup.com/js/buddybackup.js" type="text/javascript"></script>
+    
 
     <script type="text/javascript">
-        $(document).ready(function() {
-           $(document).pngFix();
+        var selectedLang = 'english';
 
-            $(".sub-email").watermark("yourname@example.com",
-                    { cssClass: "textboxWatermark" });
-        });
+        function toggleLanguageDropdown() {
+            var p = $('#selectedLanguage').position();
+
+            $('.langSelect').css('left', (p.left + 3) + 'px');
+            $('.langSelect').css('top', p.top-1 + 'px');
+            $('.langSelect').toggle();
+
+            return false;
+        }
+
+        function langSelected(o) {
+            var c = o.className;
+            var t = o.innerHTML;
+            var oc = document.getElementById("selectedLanguage").className;
+
+            $('#' + selectedLang).removeClass('selected');
+            $('#' + c).addClass('selected');
+            selectedLang = c;
+
+            $('#selectedLanguage').html(t);
+            $('#selectedLanguage').removeClass(oc);
+            $('#selectedLanguage').addClass(c);
+
+            $('.langSelect').hide();
+
+            return true;
+        }
     </script>
-<meta name="description" content="The BuddyBackup privacy policy"></head>
 
-<body id="home-privacy">	
-			
-<form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTcwODg1MTE2Ng9kFgJmD2QWBGYPZBYCAgcPFQgbaHR0cDovL3d3dy5idWRkeWJhY2t1cC5jb20vG2h0dHA6Ly93d3cuYnVkZHliYWNrdXAuY29tLxtodHRwOi8vd3d3LmJ1ZGR5YmFja3VwLmNvbS8baHR0cDovL3d3dy5idWRkeWJhY2t1cC5jb20vG2h0dHA6Ly93d3cuYnVkZHliYWNrdXAuY29tLxtodHRwOi8vd3d3LmJ1ZGR5YmFja3VwLmNvbS8baHR0cDovL3d3dy5idWRkeWJhY2t1cC5jb20vG2h0dHA6Ly93d3cuYnVkZHliYWNrdXAuY29tL2QCAQ9kFgYCAQ9kFgJmDxBkZBYBZmQCAg8PFgQeCENzc0NsYXNzBQdjdXJyZW50HgRfIVNCAgJkZAIID2QWAmYPFgIeBFRleHQFnAE8cCBpZD0nYnJlYWRjcnVtYnMnPjxhIGhyZWY9J2h0dHA6Ly93d3cuYnVkZHliYWNrdXAuY29tLyc+SG9tZTwvYT4gPGltZyBzcmM9Jy9pbWFnZXMvYnVsbGV0LWdyZWVuLmdpZicgd2lkdGg9JzQnIGhlaWdodD0nNycgYWx0PScmZ3Q7JyAvPiBQcml2YWN5IFBvbGljeTwvcD5kZFeAVPP1374HIAZI2alSjtpZTBN9">
+	<script type="text/javascript">
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWDwKMxZf4DQLsg6nqDgLOpIDrDQL6ttH3BgK9pJjrDQKlpITrDQLJpMjrDQK5pLzrDQK7pIjrDQLPpLzrDQKwpPDrDQKzpPjrDQKyg6uMBwLJhIGcBgLck8DSD0W0CwN6NplbxWsnMh6jR1Lai5HF">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-265603-8']);
+	  _gaq.push(['_trackPageview']);
 
-    <!-- Header-->    
-    <div id="header">
-        <span class="languageDropdownOuter">
-        <img src="images/earth.png" id="ctl00_Img1" alt="Small icon of the earth">
-        <select name="ctl00$udcLanguageDropDown$DropDownList1" id="ctl00_udcLanguageDropDown_DropDownList1" class="languageDropdownInner">
-	<option selected="selected" value="en_main">English</option>
-	<option value="es">español (Spanish)</option>
-	<option value="zh-cn">简体中文 (Chinese)</option>
-	<option value="hi">हिन्दी (Hindi)</option>
-	<option value="pt">Português (Portuguese)</option>
-	<option value="de">Deutsch (German)</option>
-	<option value="tr">Türkçe (Turkish)</option>
-	<option value="ru">Русский (Russian)</option>
-	<option value="fr">Français (French)</option>
-	<option value="ko">한국어 (Korean)</option>
-	<option value="ja">日本語 (Japanese)</option>
+	  (function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
 
-</select>
+	</script>
 
-        </span>
-        <ul id="main-navigation">
-            
-            <li><a id="ctl00_hlHome" class="current" href="./">Home</a></li>
-            <li><a id="ctl00_hlAbout" href="about/">About</a></li>
-            <li><a id="ctl00_hlDownload" href="download/">Download</a></li>
-            <li><a id="ctl00_hlHelp" href="help/">Help</a></li>
-            <li><a id="ctl00_hlBlog" href="http://blog.buddybackup.com" target="_blank">Blog</a></li>
-        </ul>
+</head>
 
-        <div id="logo">
-            <a href="/"><img src="images/logo.gif" alt="BuddyBackup Logo" width="390" height="69"></a>
+<body id="home-privacy" class="">
+    <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTcwODg1MTE2Ng9kFgJmD2QWAgIBD2QWAmYPZBYCZg9kFgJmDxYCHgRUZXh0BfIBPHAgaWQ9J2JyZWFkY3J1bWJzJz4gPGltZyBzcmM9Jy9hc3NldHMvaW1hZ2VzL2J1bGxldC1ncmVlbi5naWYnIHdpZHRoPSc3JyBoZWlnaHQ9JzYnIGFsdD0nJmd0OycgLz4gPGEgaHJlZj0naHR0cDovL3d3dy5idWRkeWJhY2t1cC5jb20vJz5Ib21lPC9hPiA8aW1nIHNyYz0nL2Fzc2V0cy9pbWFnZXMvYnVsbGV0LWdyZWVuLmdpZicgd2lkdGg9JzcnIGhlaWdodD0nNicgYWx0PScmZ3Q7JyAvPiBQcml2YWN5IFBvbGljeTwvcD5kZIaDZAyBZdCkDHYi9m7V+TGBjqod">
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBAKA/4eXCgKyg6uMBwLJhIGcBgLck8DSD/udqrxZMJkqtQjt1iLdKVNDQXuB">
+
+    <div id="headerBarWrapper">
+        <div id="headerBar" class="container_12">
+            <div class="icons">
+                <a href="http://twitter.com/BuddyBackup" target="_blank" class="icon twitter" title="Connect with us via Twitter">&nbsp;</a>
+                <a href="http://www.facebook.com/pages/BuddyBackup/215110991856002" target="_blank" class="icon facebook" title="Connect with us Linked In">&nbsp;</a>
+                <a id="selectedLanguage" href="#" onclick="return toggleLanguageDropdown();" class="english" title="English"><span>English</span></a>
+
+                <ul class="langSelect" style="display:none;">
+                    <li id="english" class="selected"><a href="/" class="english" onclick="return langSelected(this);">English</a></li>
+                    <li id="spanish"><a href="/global/?lang=es" class="spanish" onclick="return langSelected(this);">español (Spanish)</a></li>
+                    <li id="chinese"><a href="/global/?lang=zh-cn" class="chinese" onclick="return langSelected(this);">简体中文 (Chinese)</a></li>
+                    <li id="hindi"><a href="/global/?lang=hi" class="hindi" onclick="return langSelected(this);">हिन्दी (Hindi)</a></li>
+                    <li id="portuguese"><a href="/global/?lang=pt" class="portuguese" onclick="return langSelected(this);">Português (Portuguese)</a></li>
+                    <li id="german"><a href="/global/?lang=de" class="german" onclick="return langSelected(this);">Deutsch (German)</a></li>
+                    <li id="turkish"><a href="/global/?lang=tr" class="turkish" onclick="return langSelected(this);">Türkçe (Turkish)</a></li>
+                    <li id="russian"><a href="/global/?lang=ru" class="russian" onclick="return langSelected(this);">Русский (Russian)</a></li>
+                    <li id="french"><a href="/global/?lang=fr" class="french" onclick="return langSelected(this);">Français (French)</a></li>
+                    <li id="korean"><a href="/global/?lang=ko" class="korean" onclick="return langSelected(this);">한국어 (Korean)</a></li>
+                    <li id="japanese"><a href="/global/?lang=ja" class="japanese" onclick="return langSelected(this);">日本語 (Japanese)</a></li>
+                </ul>
+            </div>
         </div>
-
-        <div id="tagline">
-            Free Online Backup
-        </div>
-        
-        <div id="social">
-			<a href="http://www.facebook.com/pages/BuddyBackup/215110991856002" target="_blank" class="headerFacebook">Join us</a>
-			<a href="http://twitter.com/BuddyBackup" target="_blank" class="headerTwitter">Follow us</a>
-        </div>
-        
-        <p id="breadcrumbs"><a href="http://www.buddybackup.com/">Home</a> <img src="/images/bullet-green.gif" width="4" height="7" alt=">"> Privacy Policy</p>
     </div>
-    <!-- Header Ends -->
-    
-    <a name="top"></a>
-    
-    <div id="page-content">
-        <div id="download-invite">
-            <h1>Privacy Policy</h1>
-            <div id="ctl00_phDownloadNowButton">
-	
-				<a href="download/downloading.aspx" id="ctl00_downloadlink" onclick="doDownload();return false;" class="downloadlink"></a>
-            
-</div>
-        </div>
-        
-        <!-- Content Starts -->
-        <div id="page-body-content">
-	        
 
+    <header role="banner">
+        <div class="container_12">
+            <hgroup class="grid_6">
+                <h1>
+                    <a href="/"><img src="/assets/images/buddy-logo.png" alt="Buddy Backup" title="Buddy Backup"></a>
+                </h1>               
+            </hgroup>
+
+            <nav role="navigation">
+                <ul>
+                    <li class="selected"><a href="/">Home</a></li>
+                    <li><a href="/about/">About</a></li>
+					<li><a href="/download/">Download</a></li>
+                    <li><a href="/help/">Help</a></li>
+                    <li><a href="http://blog.buddybackup.com" target="_blank">Blog</a></li>
+                    <li class="end">&nbsp;</li>
+                </ul>
+            </nav>
+        </div>
+
+        
+            <div class="container_12">
+                <div class="grid_12">
+                    <p id="breadcrumbs"> <img src="/assets/images/bullet-green.gif" width="7" height="6" alt=">"> <a href="http://www.buddybackup.com/">Home</a> <img src="/assets/images/bullet-green.gif" width="7" height="6" alt=">"> Privacy Policy</p>
+                    <h1 class="mainTitle">Privacy Policy</h1>
+                </div>
+            </div>
+        
+    </header>
+
+    
+
+<div id="contentWrapper" class="container_12">
+    <div class="grid_12">
     <div class="primary-content">
         <p>
             We take your privacy and the protection of your personal data seriously. We will
@@ -279,14 +324,14 @@
             Once you have left our site, these terms no longer apply.
         </p>
     </div>
+    </div>
+    </div>
 
-	    </div>
-        <!-- Content Ends -->
-        
-        <!-- Hack to force the footer down in IE6 -->
-		<div style="clear:both; float:none; height:1px; overflow:hidden;">&nbsp;</div>
-	    
-		
+
+    
+        <div class="container_12">
+            <div class="grid_12">
+                
 
 <div class="award">
 	<div class="awardContent">
@@ -294,84 +339,90 @@
 		<p class="stars">- 5 Stars</p>
 	</div>
 </div>
-
-	    <!-- Footer Starts -->
-        <div id="power-footer" class="visualClear">
-
-            <div id="about-bb">
-              <h3>About BuddyBackup</h3>
-              
-              <ul>
-                <li><a href="about/how-buddybackup-works.aspx">How it works</a></li>
-                <li><a href="about/system-requirements.aspx">System Requirements</a></li>
-                <li><a href="help/faq.aspx">FAQ</a></li>
-                <li><a href="about/contact.aspx">Contact Us</a></li>
-                <li><a href="download/">Download</a></li>
-              </ul>
             </div>
-
-            <div id="support-bb">
-              <h3>BuddyBackup Support</h3>
-              
-              <ul>
-                <li><a href="help/getting-started.aspx">Getting Started</a></li>
-                <li><a href="help/manual/restoring-files.aspx">Restoring Files</a></li>
-                <li><a href="help/manual/">Online Manual</a></li>
-                <li><a href="download/BuddyBackupManual.pdf" target="_blank">Download PDF Manual</a></li>
-              </ul>
-            </div>
-
-            <div id="update-email-bb">
-              <h3>BuddyBackup update email</h3>
-
-              <p><label for="ctl00_txtUpdateEmail">Keep up to date with BuddyBackup. Type your email address and click submit:</label></p>
-              <!--input class="text" id="sub-email" type="text" size="20"/>
-              <input class="button" type="submit" value="submit" /-->
-              
-              
-              
-              <input name="ctl00$hidDefaultEmail" type="text" value="yourname@example.com" id="ctl00_hidDefaultEmail" style="display:none;">
-              <input name="ctl00$txtUpdateEmail" type="text" id="ctl00_txtUpdateEmail" class="sub-email text">
-              <input type="submit" name="ctl00$btnUpdateEmail" value="Submit" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$btnUpdateEmail&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_btnUpdateEmail" class="button">
-              
-
-              <p class="small">We never share your details with anyone else, and you will receive a maximum of 1 email per month.</p>
-            </div>
-
-
-            <div class="visualClear"></div>
         </div>
+    
 
-        <div id="footer">
-
-            <p class="left">© BuddyBackup is a trademark of BuddyBackup Ltd.</p>
-
-            <div class="right">
-                <a href="privacy.aspx" style="float:left; font-size:0.8em;">Privacy Policy</a>
-                <div style="float:left; border-left:1px solid #007FC5; padding-left:16px; margin-left:16px; height:18px;">
-					<span style="color:#007FC5; font-size:0.8em; float:left; margin-right:10px;">Connect with us</span>
-					<a href="http://twitter.com/BuddyBackup" target="_blank"><img src="images/twitter-footer.png" alt="Twitter Logo" width="16" height="16" style="border:none;"></a>
-					<a href="http://www.facebook.com/pages/BuddyBackup/215110991856002" target="_blank"><img src="images/facebook-footer.png" alt="Facebook Logo" style="border:none;" width="16" height="16"></a>
+    <div id="footerWrapper">
+        <div id="footer" class="container_12">
+                <div class="grid_4">
+                    <h2>About BuddyBackup</h2>
+                    <ul>
+                        <li><a href="/about/how-buddybackup-works.aspx" title="How it works">How it works</a></li>
+                        <li><a href="/about/system-requirements.aspx" title="System Requirements">System Requirements</a></li>
+                        <li><a href="/help/faq.aspx" title="FAQ">FAQ</a></li>
+                        <li><a href="/about/contact.aspx" title="Contact Us">Contact Us</a></li>
+                        <li><a href="/download/" title="Download">Download</a></li>
+                    </ul>
                 </div>
-            </div>
-          
-            <div class="bottom visualClear"></div>
+            
+                <div class="grid_4">
+                    <h2>BuddyBackup Support</h2>
+                    <ul>
+                        <li><a href="/help/getting-started.aspx" title="Getting Started">Getting Started</a></li>
+                        <li><a href="/help/manual/restoring-files.aspx" title="Restoring Files">Restoring Files</a></li>
+                        <li><a href="/help/manual/" title="Online Manual">Online Manual</a></li>
+                        <li><a href="/download/BuddyBackupManual.pdf" title="Download PDF Manual">Download PDF Manual</a></li>
+                    </ul>
+                </div>
+
+                <div class="emailForm grid_4">
+                    <h2>BuddyBackup update email</h2>
+                    <p>Keep up to date with BuddyBackup.  Type your email address and click submit:</p>
+                    <div class="submitForm">
+                    <div style="font-size:1.4em;">
+                        
+                          
+                          
+                            </div>
+                          <input name="ctl00$hidDefaultEmail" type="text" value="yourname@example.com" id="ctl00_hidDefaultEmail" style="display:none;">
+                          <div>
+                          <input name="ctl00$txtUpdateEmail" type="text" id="ctl00_txtUpdateEmail" class="sub-email text textboxWatermark" style="clear:both;">
+                          <input type="submit" name="ctl00$btnUpdateEmail" value="Submit" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$btnUpdateEmail&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_btnUpdateEmail" class="button">
+                          </div>
+                    </div>
+                    <p class="unsubscribe">We never share your details with anyone else and you will receive a maximum of 1 email per month.  To unsubscribe please email <a href="mailto:unsubscribe@buddybackup.com">unsubscribe@buddybackup.com</a></p>
+                </div>
         </div>
+    </div>
+
+    <footer class="container_12 footerLinks">
+        <div class="grid_7">
+            <p class="copy">© BuddyBackup is a trademark of <a href="http://www.databarracks.com" target="_blank">Databarracks Ltd.</a></p>
+        </div>
+        <div class="grid_5 policyLinks">
+            <div style="float:right;">
+                <a href="/privacy.aspx">Privacy Policy</a><span>|</span>
+                <a href="/accessibility.aspx">Accessibility Policy</a><span>|</span>
+                <a href="/terms.aspx">Terms and Conditions</a>
+            </div>
+        </div>
+    </footer>
+
+    <!-- JavaScript at the bottom for fast page loading -->
+
+    <!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if necessary -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+    <script>        window.jQuery || document.write('<script src="/Assets/JS/jquery-1.6.2.min.js">\x3C/script>')</script><script src="/Assets/JS/jquery-1.6.2.min.js"></script>
+    
+    <!-- scripts should be concatenated and minified via ant build script or similar -->
+    <script src="/Assets/JS/main.js"></script>
+    <script src="/Assets/JS/jquery.pngFix.js" type="text/javascript"></script>
+    <script src="/Assets/JS/jquery.watermark.js" type="text/javascript"></script>
+
+    
         
-        <!-- Footer Ends -->
+        
+        <script type="text/javascript">
+            $(document).ready(function () {
+                $(".sub-email").watermark("yourname@example.com",
+                    { cssClass: "textboxWatermark" });
+            });
+    </script>
+    
+    <!-- end scripts-->
 
-    </div><!-- </div id="page-content"> -->
 
-</form>
-
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try{
-var pageTracker = _gat._getTracker("UA-7696331-2");
-pageTracker._trackPageview();
-} catch(err) {}</script>
+    </form>
 
 </body></html>
