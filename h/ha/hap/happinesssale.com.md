@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the happinesssale.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113090117id_/http%3A//www.happinesssale.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happinesssale.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507235601id_/http%3A//www.happinesssale.com/index.php/privacy-policy) for the most accurate reproduction.*
 
-# HappinessSale.com | Privacy Policy
+# Privacy Policy | HappinessSale.com
 
 A **privacy policy** states how you will respect the privacy of your website users. It says what information you will gather, how you will use it and how you will keep it secure. 
 
