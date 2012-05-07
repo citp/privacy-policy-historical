@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameserpent.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203004409id_/http%3A//gameserpent.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameserpent.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507222856id_/http%3A//gameserpent.com/privacypolicy) for the most accurate reproduction.*
 
 # Free Games to play GameSerpent.com
 
