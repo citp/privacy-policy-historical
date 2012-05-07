@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the guyism.com privacy policy that was archived on 2011-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110904042136id_/http%3A//guyism.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guyism.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508000416id_/http%3A//guyism.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Guyism
 
 **Privacy Policy**
 
