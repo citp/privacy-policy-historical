@@ -1,7 +1,9 @@
-> *The following text is extracted and transformed from the greenfingers.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016124657id_/http%3A//www.greenfingers.com/articledisplay.asp%3Fid%3D1287) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenfingers.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507194057id_/http%3A//www.greenfingers.com/articledisplay.asp%3Fid%3D1287) for the most accurate reproduction.*
 
 # Privacy Policy
 
+  
+  
   
   
   
