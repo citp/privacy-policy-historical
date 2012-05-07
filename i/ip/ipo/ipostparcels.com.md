@@ -1,145 +1,108 @@
-> *The following text is extracted and transformed from the ipostparcels.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627112907id_/http%3A//customersupport.networksolutions.com/article.php%3Fid%3D306) for the most accurate reproduction.*
-
-# Privacy Policy | Network Solutions
-
-**Why A Privacy Policy?**
-
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
-
-**This Privacy Policy protects your privacy by:**
-
-**Informing you about:**
-
-  * The types of personal information Network Solutions collects about you through its Web sites;
-  * How it collects that information;
-  * The general purposes for which it collects such information;
-  * The types of organizations to which it discloses the information;
-  * The choices and means by which individuals may limit its use and disclosure.
-
-
-
-**Empowering you to choose:**
-
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it).
-
-
-
-**Assuring you that Network Solutions:**
-
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction;
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered;
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate.
-
-
-
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles.
-
-**Third Party Advertising and Cookies**
-
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit <http://www.doubleclick.net/us/corporate/privacy> and <http://www.accipiter.com/company/privacy.php>.
-
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click [here](http://www.privacychoices.org/).
-
-**Information Corrections or Changes**
-
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at [https://www.networksolutions.com/manage-it/index.jsp](https://web.archive.org/manage-it/index.jsp). You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com).
-
-**How We Put Information to Good Use**
-
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
-
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
-
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
-
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
-
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
-
-**Getting to Know Our Customers**
-
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
-
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at [www.networksolutions.com](http://www.networksolutions.com/) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
-
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
-
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
-
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates.
-
-**With Whom We May Share Information**
-
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
-
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name.
-
-We may share certain information about you with our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors when necessary and appropriate, we will not share such information with any other third parties unless directed by you or except in response to discovery request(s) directed to Network Solutions in any civil or criminal proceeding, provided they are not objectionable in Network Solutions' sole discretion, formal requests in the form of a subpoena or court order issued in connection with civil or criminal proceedings related to a domain name registration or other services we provide, or in response to requests by law enforcement agencies when we suspect that you or your agent is using our services to cause harm or damage to us or others or adversely affect our ability to provide services to our customers.
-
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
-
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/);
-
-b. Click "Edit User Info" in the left menu;
-
-c. Scroll to the bottom of the page;
-
-d. Select "NO" for the third statement, which reads, "I would like to receive selected and relevant information from Network Solutions partners;" and
-
-e. Click "SAVE."
-
-
-
-
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
-
-**How Do I Get My Name Removed from Bulk Access**
-
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons' own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
-
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/);
-
-b. Click "Edit User Info" in the left menu;
-
-c. Scroll to the bottom of the page;
-
-d. Select "NO" for the first statement, which reads, "I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;" and
-
-e. Click "SAVE."
-
-
-
-
-**Our Accountability to You**
-
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
-
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below.
-
-**Employee Accountability**
-
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
-
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access.
-
-**The Accountability of Network Solutions' Agents and Business Partners**
-
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
-
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at [privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
-
-Network Solutions, LLC  
-Attention: General Counsel  
-13861 Sunrise Valley Dr  
-Suite 300  
-Herndon VA 20171  
-United States  
-(703) 668-4600
-
-**Notification of Changes**
-
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to [privacy@networksolutions.com](mailto:privacy@networksolutions.com).
-
-**If you have any questions regarding this Privacy Policy, please contact[privacy@networksolutions.com](mailto:privacy@networksolutions.com).**
+> *The following text is extracted and transformed from the ipostparcels.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507163027id_/https%3A//www.ipostparcels.com/media/docs/privacy_policy.pdf) for the most accurate reproduction.*
+
+# PRIVACY POLICY
+
+Privacy policy
+PRIVACY POLICY
+This page states our Privacy Policy for our Website located at www.ipostparcels.com (the “Website”).
+General
+UK Mail facilitates the delivery of important letters, parcels and documents. As such, personal information will be
+required from you if you wish to use our Website for purposes including the use of our online credit card payment
+facility.
+Your privacy is important to us. This privacy policy is intended to give you confidence in the privacy and security
+of the personal information we obtain from you whether you are merely visiting our Website, or are making a
+payment using our online credit card facility. However, please note that we are not responsible for any use of
+your personal information in respect of third party websites that may be accessed via this Website. You will
+therefore need to review the privacy policy of any third party websites that you use.
+Collection of Personal Information
+When you access our Website, cookie information pages you have requested and your IP address may be
+recorded by us and/or third parties from your browser as set out in this policy http://www.ukmail.com/privacy.html.
+If you use this Website you may be asked for personally identifiable information such as your name and address.
+By giving us such information you will need to consent to our using it in the manner described in this policy. On-
+line credit and debit card payments to UK Mail are made through a third party provider and will require us to
+share personal information with Close Credit Management Limited. It is important that you review their Privacy
+Policy at Close Credit Management Limited’s website,www.paicheck.com before using the online payment
+facility. You may withdraw your consent at any time by emailing us at marketing@ukmail.com
+Use of Personal Information
+We may use your information to provide access to privileged areas of the Website, personalise your visit to our
+Website, to enable us to review, develop and improve the products, services, and special offers we provide
+online, as well as to administer any payment request that you may wish to make.
+We may occasionally carry out market research and send you details of services and offers that we think will be
+of interest to you. If you do not wish to receive such information, please email us at marketing@ukmail.com
+Disclosure of Personal Information
+We may provide information about you to employees and agents of UK Mail to administer any accounts, products
+and services provided to you by UK Mail.
+We will not disclose your personal information to any third party unless you have consented to such disclosure or
+where we are required to do so by law. Should you breach our terms and conditions or terms of use or if we are
+under a duty to disclose or share your personal data in order to comply with any legal obligation, we may disclose
+your information to a relevant authority. This may include exchanging information with other companies and
+organisations for the purposes of fraud protection and credit risk reduction.
+
+
+Any disclosure of personal information will be strictly controlled and made fully in accordance with current UK
+legislation, in particular the UK Data Protection Act 1998 (the Act). For the purpose of the Act, the data controller
+is UK Mail Group PLC, Express House, 464 Berkshire Avenue, Slough, Berkshire, SL1 4PL.
+Right to access your Personal Information
+The Act gives you the right to access information held about you. You can obtain access to your personal
+information held by us by sending a cheque for £10 (to cover administration costs for collating this information),
+made payable to "UK Mail Group PLC", to: Data Protection Officer, UK Mail Group PLC, Express House, 464
+Berkshire Avenue, Slough, Berkshire, SL1 4PL.
+Cookies
+Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in
+order to make websites work, or work more efficiently, as well as to provide information to the owners of the site.
+Some of the cookies we use are essential for parts of the site to operate and have already been set (please see
+Essential site cookies below). Other cookies may be provided by third parties for the purposes stated below.
+Where cookies are provided by third parties, these are subject to the privacy policies of those third parties and
+the responsibility and liability arising from the use of such cookies will rest wholly with the third party provider, not
+UK Mail.
+  Cookie                      Name                             Purpose                            More information
+  Essential site cookie       ASP.NET_SessionId                This cookie is essential for       Visit the Microsoft
+                                                               the online notification form       website
+                                                               to operate and is set upon
+                                                               your arrival to the
+                                                               ipostparcels site. This
+                                                               cookie is deleted when you
+                                                               close your browser.
+  Google Analytics            _utma                            These cookies are used to          Click here for an
+                              _utmb                            collect information about          overview of privacy
+                              _utmc                            how visitors use our site.         at Google
+                              _utmz                            We use the information to
+                                                               compile reports and to help
+                                                               us improve the site. The
+                                                               cookies collect information
+                                                               in an anonymous form,
+                                                               including the number of
+                                                               visitors to the site, where
+                                                               visitors have come to the
+                                                               site from and the pages
+                                                               they visited.
+   ipostparcels site          UKMailCookiesAccepted            This cookie is used to
+  cookie acceptance                                            record if a user has
+                                                               accepted the use of cookies
+                                                               on the ipostparcels website.
+
+
+Most web browsers allow some control of most cookies through the browser settings. The option to do so is
+normally found in your browser's "security settings" section. However, please note, permanently disabling
+cookies in your browser may hinder your use of our Website as well as other websites and interactive services.To
+find out more about cookies, including how to see what cookies have been set and how to manage and delete
+them, visit www.allaboutcookies.org.
+To opt out of being tracked by Google Analytics across all websites visit http://tools.google.com/dlpage/gaoptout.
+Security
+At UK Mail we take security very seriously including the use of the online credit card payment facility operated by
+Close Credit Management Ltd. Your browser will go into secure mode before you enter any payment details. You
+can check that you are making such payments in a secure environment by looking for either a locked padlock or
+a key icon in the grey bar at the bottom of your screen or when the address bar goes green.
+Being in 'secure mode' means that all of your details are encrypted to help keep them secure. Encryption creates
+billions of code combinations to protect each transaction made on our Website, so your card details cannot be
+viewed by anyone else using the Internet. No credit or debit card details are stored on our servers once your
+initial payment has been processed. They are stored securely with Close Credit Management Ltd. Once on their
+systems, all sensitive data is secured using internationally recognised 256-bit encryption standards. The
+encryption keys are held on state-of-the-art, tamper proof systems in the same family as those used to secure
+VeriSign's Global Root certificate, making them all but impossible to extract. The data they hold is extremely
+secure and they are regularly audited by the banks and banking authorities to ensure it remains so.
+If you have any further concerns about security, please email our Customer Service team at
+marketing@ukmail.com or call our Customer Service team on 08451 552 552.
+Policy Changes
+Changes in this policy will be posted on our Website. You are advised to check our Website regularly to view our
+most recent privacy policy.
