@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jref.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008080244id_/http%3A//www.jref.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jref.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508001314id_/http%3A//www.jref.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Japan Reference (JREF)
 
