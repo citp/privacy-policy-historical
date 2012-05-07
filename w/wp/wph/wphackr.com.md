@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wphackr.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106145329id_/http%3A//www.rlmseo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wphackr.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507035837id_/http%3A//www.rlmseo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | RLM
 
-Your privacy is important to us. That's why we will never share your contact information with any third parties unless you want us to. We also hate spam just as much as you do and will never use your email address for anything other than what you tell us is ok. 
+Your privacy is important to us. That’s why we will never share your contact information with any third parties unless you want us to. We also hate spam just as much as you do and will never use your email address for anything other than what you tell us is ok.
 
 Razorlight Media is committed to your privacy and your rights as our customer. Any information gathered by Razorlight Media will be kept strictly confidential and will only be used or shared in ways for which you have specifically consented. The following statement discloses our standard practice regarding the information we collect and the information we hold on behalf of our customers.
 
@@ -10,19 +10,19 @@ This privacy policy only applies to the Razorlight Media website. The privacy po
 
 ## Information gathered online
 
-Subscribe to any of Razorlight Media’ Newsletters - Email address (required) and other optional data such as First and Last Name, Company or Organization and phone number are gathered when you subscribe to any of Razorlight Media’s Newsletters.
+Subscribe to any of Razorlight Media’ Newsletters – Email address (required) and other optional data such as First and Last Name, Company or Organization and phone number are gathered when you subscribe to any of Razorlight Media’s Newsletters.
 
-Webinars - Razorlight Media may collect information from you for the purposes of tracking webinar participants as well as to follow up and get feedback from participants, as well as notify participants of promotional offers. All information requested is optional. Information may include, but is not limited to, First and Last Name, Company or Organization, information requested, and whether or not participants would like to receive newsletters or special offers via email. Supplying Razorlight Media, whether verbally or in writing, with any information constitutes your agreement for Razorlight Media to contact you through email, telephone, or postal mail for marketing purposes.
+Webinars – Razorlight Media may collect information from you for the purposes of tracking webinar participants as well as to follow up and get feedback from participants, as well as notify participants of promotional offers. All information requested is optional. Information may include, but is not limited to, First and Last Name, Company or Organization, information requested, and whether or not participants would like to receive newsletters or special offers via email. Supplying Razorlight Media, whether verbally or in writing, with any information constitutes your agreement for Razorlight Media to contact you through email, telephone, or postal mail for marketing purposes.
 
-Contact Us - You are directed to send an Email to a specific department within Razorlight Media. Through this process your Name, Email Address and Comment or Question are collected. This information is only used to respond to your question or suggestion and to follow up in the future if there is no response or if you request a future contact attempt.
+Contact Us – You are directed to send an Email to a specific department within Razorlight Media. Through this process your Name, Email Address and Comment or Question are collected. This information is only used to respond to your question or suggestion and to follow up in the future if there is no response or if you request a future contact attempt.
 
-Technical Information - Upon visiting the website, Razorlight Media may collect log file data on your session. This technical information alone does not identify a specific individual. The information collected may include (but is not limited to): The URL of the site that you came from before visiting Razorlight Media’ website. Your computer’s IP address. The browser you are using. The pages that you visit on the Razorlight Media website. Search terms that are used on the Razorlight Media website. There is no merging of technical and personal data collected on the site. Technical information is used to measure and improve the effectiveness of the Razorlight Media website and diagnose problems and is not used to gather personal information about you in any way.
+Technical Information – Upon visiting the website, Razorlight Media may collect log file data on your session. This technical information alone does not identify a specific individual. The information collected may include (but is not limited to): The URL of the site that you came from before visiting Razorlight Media’ website. Your computer’s IP address. The browser you are using. The pages that you visit on the Razorlight Media website. Search terms that are used on the Razorlight Media website. There is no merging of technical and personal data collected on the site. Technical information is used to measure and improve the effectiveness of the Razorlight Media website and diagnose problems and is not used to gather personal information about you in any way.
 
-Contests or Sweepstakes - When you enter a sweepstakes or other promotional event on Razorlight Media' website, we may ask for your name, address, telephone number and e-mail address so we can administer the sweepstakes and notify winners. By entering contests or sweepstakes you agree to be notified of promotional offers via email, telephone, or postal mail. You can always opt out of receiving any promotional offers when submitting information or by unsubscribing to such offers.
+Contests or Sweepstakes – When you enter a sweepstakes or other promotional event on Razorlight Media’ website, we may ask for your name, address, telephone number and e-mail address so we can administer the sweepstakes and notify winners. By entering contests or sweepstakes you agree to be notified of promotional offers via email, telephone, or postal mail. You can always opt out of receiving any promotional offers when submitting information or by unsubscribing to such offers.
 
 ## Information gathered offline
 
-Any information you submit to Razorlight Media in any form that is not online will be stored in a secure location and never shared with any third parties unless necessary for your project, or if requested or authorized by you. Information shared with a third party for purposes related to your project will be kept to a minimum level that is necessary to ensure proper completion of the task. The level of information that is considered a "minimum level" will be determined exclusively by Razorlight Media.
+Any information you submit to Razorlight Media in any form that is not online will be stored in a secure location and never shared with any third parties unless necessary for your project, or if requested or authorized by you. Information shared with a third party for purposes related to your project will be kept to a minimum level that is necessary to ensure proper completion of the task. The level of information that is considered a “minimum level” will be determined exclusively by Razorlight Media.
 
 ## Customer Data
 
@@ -53,15 +53,16 @@ This site does not have security measures in place. Any information that you do 
 If you have any questions about this privacy Policy, you can [contact us here](https://web.archive.org/company/contact/ "Contact Us"). Or, send correspondence to the following address:
 
 > Razorlight Media  
->  358 Walnut Lane  
->  Mason, OH 45040 USA
+> 2207 Kemper Lane  
+> Cincinnati, OH 45206  
+> United States of America
 
 ## Changes to Privacy Policy
 
 Changes to the privacy policy will be posted in this section. This way you will always have a clear understanding of what information is collected online and offline, how it is used, and the choices you have. Your personal information will only be used in accordance with the version of the Policy that is in place at the time that you provided your information, unless you provide your consent to do otherwise.
 
-We hope you enjoy your experience here! If you'd like more information about Razorlight Media, or to request a free consultation, feel free to [contact us today](https://web.archive.org/company/contact/ "Contact Us").
+We hope you enjoy your experience here! If you’d like more information about Razorlight Media, or to request a free consultation, feel free to [contact us today](https://web.archive.org/company/contact/ "Contact Us").
 
-If you're new here and haven't read our newsletter, subscribe for free and receive the techniques we use everyday to market our clients' sites delivered directly to your inbox twice a month. [Find out more about your free subscription here.](https://web.archive.org/seo-newsletter/ "Subscribe to our SEO newsletter")
+If you’re new here and haven’t read our newsletter, subscribe for free and receive the techniques we use everyday to market our clients’ sites delivered directly to your inbox twice a month. [Find out more about your free subscription here.](https://web.archive.org/seo-newsletter/ "Subscribe to our SEO newsletter")
 
 Looking for [cincinnati web design](https://web.archive.org/services/web-design/ "Web Design") services? Or perhaps [WordPress SEO](https://web.archive.org/services/wordpress-seo/ "WordPress SEO")? We can help. Get in touch with us for a free, no obligation quote or view our [services section](https://web.archive.org/services/ "Services") for more information about how we can help you acheive your goals.
