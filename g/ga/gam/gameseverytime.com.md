@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameseverytime.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102003202id_/http%3A//www.gameseverytime.com/pages/2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameseverytime.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507123306id_/http%3A//www.gameseverytime.com/pages/2/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Online Fun Games at GamesEverytime.com
 
