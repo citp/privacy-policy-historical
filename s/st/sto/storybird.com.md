@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the storybird.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107064248id_/http%3A//storybird.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storybird.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507163756id_/http%3A//storybird.com/privacy) for the most accurate reproduction.*
 
-# Storybird - Collaborative storytelling
+# Storybird - Artful storytelling
 
 This is the Privacy Policy of the Storybird website (the “Site”), operated by Storybird Inc. (“Storybird”, “us”, “our” and “we” and terms of similar meaning). It describes the information that we collect from you as part of the normal operation of our Site, and how we use and disclose that information.
 
@@ -12,7 +12,7 @@ In this Privacy Policy, we use the term “Member” to describe a registered us
 
 Our primary purpose in collecting personal information from you is to provide you with a safe, smooth, efficient, and customized experience. This allows us to provide services and features that most likely meet your needs, and to customize our service to make your experience safer and easier. We only collect personal information about you that we consider necessary for achieving this purpose.
 
-In general, you can browse the Site without telling us who you are or revealing any personal information about yourself. Once you become a Member, we require you to provide various contact and identity information and other personal information as indicated on the relevant forms on the Site, and you are no longer anonymous to us. Where possible, on these forms we indicate which fields are required and which fields are optional. You always have the option to not provide information by choosing not to become a Member or by not using the particular feature of the Site for which the information is being collected.
+In general, you can browse the Site without telling us who you are or revealing any personal information about yourself. Once you become a Member, we require you to provide various contact and identity information and other personal information as indicated on the relevant forms on the Site, and you are no longer anonymous to us. Where possible, on these forms we indicate which fields are required and which fields are optional. You always have the option to not provide information by choosing not to become a Member or by not using the particular feature of the Site for which the information is being collected. Of course, if you include personal information in your Storybirds we collect that information as well.
 
 We also automatically track certain information about you based upon your behaviour on our Site. We use this information to do internal research on our users' demographics, interests, and behaviour to better understand, protect and serve you and our community. This information may include the URL that you just came from (whether this URL is on our Site or not), which URL you next go to (whether this URL is on our Site or not), your computer browser information, and your IP address.
 
@@ -32,7 +32,7 @@ We may also use your personal information to contact you and deliver information
 
 We will not sell or rent any of your personal information to third parties without your explicit consent. The following describes some of the ways that your personal information may be disclosed in the normal scope of business to provide our services.
 
-_Storybirds_. In the normal operation of the Site, if you choose to make a Storybird public, your username and avatar will appear on the Site when you post your Storybirds, together with other information you include in your Storybirds.
+_Storybirds_. In the normal operation of the Site, if you choose to make a Storybird public, your username and avatar will appear on the Site when you post your Storybirds, together with other information you include in your Storybirds. We may use third parties to edit Storybirds before publication and any personal information you include in your Storybirds may be disclosed to them as well.
 
 _Comments_. If you post comments on a Storybird comments page, your username and avatar will appear on the site and is therefore available to the public.
 
