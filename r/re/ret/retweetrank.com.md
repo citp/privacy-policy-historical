@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retweetrank.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218171121id_/http%3A//www.retweetrank.com/view/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retweetrank.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507192205id_/http%3A//www.retweetrank.com/view/privacy) for the most accurate reproduction.*
 
 # Retweet Rank: About
 
