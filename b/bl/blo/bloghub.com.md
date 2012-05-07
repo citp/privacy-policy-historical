@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloghub.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102143300id_/http%3A//www.bloghub.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloghub.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507064919id_/http%3A//www.bloghub.com/privacy.htm) for the most accurate reproduction.*
 
 # Bloghub.com - blog directory & blog search engine : Privacy Policy
 
