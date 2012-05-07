@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the blognator.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128130818id_/http%3A//blognator.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blognator.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507021514id_/http%3A//blognator.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blognator
-
-Published on November rd, 2010 
 
 **Blognator.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
