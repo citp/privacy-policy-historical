@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobsearch.gov.au privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007131343id_/http%3A//jobsearch.gov.au/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsearch.gov.au privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508135134id_/http%3A//jobsearch.gov.au/Pages/Privacy.aspx) for the most accurate reproduction.*
 
-# - Australian JobSearch
+# Privacy - Australian JobSearch
 
 This website is managed and maintained by the Department of Education, Employment and Workplace Relations (DEEWR). This privacy statement refers to the handling of personal information by DEEWR. 
 
