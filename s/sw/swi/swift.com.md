@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swift.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210042748id_/http%3A//www.swift.com/about_swift/legal/swift_contracts/info/privacy_statement.page%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swift.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508224010id_/http%3A//www.swift.com/about_swift/legal/swift_contracts/info/privacy_statement.page%3F) for the most accurate reproduction.*
 
 # SWIFT - Privacy statement
 
@@ -11,7 +11,7 @@ This Statement explains how we use personal data collected from you on our websi
   * [swift.com](http://www.swift.com/)
   * <http://www.swiftcommunity.net/> (with its own [Terms of Use](https://www.swiftcommunity.net/termsofuse.cfm) confirming this Statement)
   * our annual Sibos website, available at www.sibos[year].com (currently <http://www.sibos2010.com/>)
-  * [www.3skey.com](http://www.3skey.com/) , and
+  * <http://www.3skey.com/> , and
   * other URLs that redirect to [swift.com](http://www.swift.com/).
 
 
@@ -93,15 +93,19 @@ When you browse our websites, you do so anonymously. For our internal purposes, 
 
 **Cookies**
 
-Cookies are small pieces of information that are stored by your browser on your computer's hard drive or in your browser memory. We use cookies for authentication purposes (for example to access the secure area of [http://www.swift.com](http://www.swift.com/) ), to track user sessions (for example login information on both the secure and public areas of [http://www.swift.com](http://www.swift.com/) ), to repopulate fields (for example to access the Sibos Exhibitor Guide), or to track online acceptance (for example to track acceptance of the disclaimer of our translation service over the last 24 hours) or language preference. 
+Cookies are small pieces of information that are stored by your browser on your computer's hard drive or in your browser memory. We use cookies for authentication purposes (for example to access the secure area of [http://www.swift.com](http://www.swift.com/) ), to track user sessions (for example login information on both the secure and public areas of <http://www.swift.com/> ), to repopulate fields (for example to access the Sibos Exhibitor Guide), or to track online acceptance (for example to track acceptance of the disclaimer of our translation service over the last 24 hours) or language preference. 
 
-The information stored with cookies may include your name, first name, registration number on [http://www.swift.com](http://www.swift.com/) , language preference, login ID, and IP addresses. Cookies stored in your browser memory are deleted when closing your browser. 
+The information stored with cookies may include your name, first name, registration number on <http://www.swift.com/> , language preference, login ID, and IP addresses. Cookies stored in your browser memory are deleted when closing your browser. 
 
 **Web Acceleration Services**
 
 For purposes of accelerating the consultation of our websites, we use the services of a supplier specialised in web acceleration services. This requires caching the content of our websites on a substantial number of servers worldwide. 
 
 This supplier only processes data on our instructions, provides sufficient guarantees in respect of technical and organisational data security measures, and has committed to notify us in case of a security breach compromising your personal data (see also ‘Sharing Data’ section below). 
+
+**Tracking of URL activation**
+
+Upon registration to certain services (such as SWIFT Index), we will send you by e-mail a dedicated URL where you can download the relevant materials. For purposes of measuring and following-up on the use of the service, we will track the identity of persons who activated such URL as well as the moment of download. 
 
 ### Data Security
 
