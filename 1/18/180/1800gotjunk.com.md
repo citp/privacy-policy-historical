@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1800gotjunk.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223195153id_/http%3A//www.1800gotjunk.com/us_en/footer/privacy-legal.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800gotjunk.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508134406id_/http%3A//www.1800gotjunk.com/us_en/footer/privacy-legal.aspx) for the most accurate reproduction.*
 
 # Privacy Policy and Legal 1-800-GOT-JUNK? LLC and RBDS Rubbish Boys Disposal Service Inc
 
