@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmarket.com.sg privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216163151id_/http%3A//www.gmarket.com.sg/gmkt.inc/Company/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmarket.com.sg privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508171837id_/http%3A//www.gmarket.com.sg/gmkt.inc/Company/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Gmarket – shopping Fun and be Colorful
 
