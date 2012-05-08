@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the limera1n.cc privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214063140id_/http%3A//www.limera1n.cc/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limera1n.cc privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508080527id_/http%3A//www.limera1n.cc/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Jailbreak 5.1 / 5.0.1 / 5 / 4.3.5 / 4.3.2 / 4.3.3 / 4.3.4 Untethered - iPad 2 Jailbreak
+# Privacy Policy - Jailbreak 5.1.1 / 5.1 / 5.0.1 / 5 / 4.3.5 / 4.3.2 / 4.3.3 Untethered - iPad 3, 2 Jailbreak
 
 **Privacy Policy for www.Limera1n.cc**
 
