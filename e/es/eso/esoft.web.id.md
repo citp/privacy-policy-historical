@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the esoft.web.id privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210091213id_/http%3A//www.esoft.web.id/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esoft.web.id privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508223016id_/http%3A//www.esoft.web.id/privacy-statement.html) for the most accurate reproduction.*
 
-# Esoft.Web.Id - Esoft Download Free Software Privacy Statement - Free Software Download and Review @Esoft.Web.id
+# Esoft.Web.Id - Esoft Download Free Software Privacy Statement - Freeware - Shareware Download and Review @Esoft.Web.id
 
 This site is owned and operated by Esoft.Web.Id|Esoft Download Free Software. Your privacy on the Internet is of the utmost importance to us. At Esoft.Web.Id|Esoft Download Free Software, we want to make your experience online satisfying and safe.
 
 Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
-
-**[FIX PC ERRORS!!](https://web.archive.org/go/link_regdef)**  
-Speed Up Your Computers performance and Eliminate Errors. The Award Winning RegDefense will Scan,Repair, and help you Effectively Manage your Registry just moments after downloading. 100% Effective Guaranteed !
 
 INFORMATION Esoft.Web.Id|Esoft Download Free Software GATHERS AND TRACKS  
 Esoft.Web.Id|Esoft Download Free Software gathers two types of information about users:
