@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webdevelopersnotes.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529061852id_/http%3A//www.webdevelopersnotes.com/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdevelopersnotes.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508114848id_/http%3A//www.webdevelopersnotes.com/privacy.php3) for the most accurate reproduction.*
 
 # Privacy Policy - WebDevelopersNotes.com
 
@@ -32,6 +32,10 @@ We also may use DART _cookies_ for ad serving through Google's DoubleClick, whic
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+
+## Non-personally identifiable information
+
+We use third-party companies to serve ads and collect non-personally identifiable information (e.g., the pages you visit, and which links you click, which ads you see and click on, and the categories of search terms you enter) when you visit our web site. These companies may use the information outlined above (which does not include your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. These companies often use a cookie or third party web beacon to collect this information. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp "NAI universal user opt-out") (link to the NAI universal user opt-out).
 
 ## Mailing list
 
