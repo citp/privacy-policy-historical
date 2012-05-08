@@ -1,8 +1,7 @@
-<!--The following is the downloaded HTML source of the deepelmdigital.com privacy policy that was archived on 2011-04-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110430092820id_/http%3A//bandcamp.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the deepelmdigital.com privacy policy that was archived on 2012-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120508194548id_/http%3A//bandcamp.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" class=" js"><head>
-    
     <title>Privacy | Bandcamp</title>
     
     
@@ -10,15 +9,12 @@
 
  
     <meta name="Description" content="
-
 ">
     
      
-         
-        
     
-    <link rel="shortcut icon" href="/img/bc_favicon.ico">
-    <link rel="apple-touch-icon" href="/img/bc_favicon.ico">
+    <link rel="shortcut icon" href="http://s0.bcbits.com/img/bc_favicon.ico">
+    <link rel="apple-touch-icon" href="http://s0.bcbits.com/img/bc_favicon.ico">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <!--<meta name="apple-mobile-web-app-status-bar-style" content="black translucent" />-->
     
@@ -27,13 +23,13 @@
     
      
 
-     
-      
     
-    <link type="text/css" rel="stylesheet" href="http://bandcamp.com/tmpdata/cache/container_eb638aaab989afb8ce58aecf119f06dc.css">
+    
+        <link type="text/css" rel="stylesheet" href="http://s0.bcbits.com/tmpdata/cache/global_bundle_c5a1f6e829dfd4c3303759186a5d4b57.css">
+    
     
 
-    <script type="text/javascript">
+    <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript">
         var isDebug = false;
     </script>
 
@@ -44,6 +40,8 @@
     
     var isDebug = false;
     var siteroot = "http:\/\/bandcamp.com";
+    var siteroot_https = "https:\/\/bandcamp.com";
+    var siteroot_current = "http:\/\/bandcamp.com";
     var band_url = null;
     var isProduction = true;
 
@@ -53,36 +51,107 @@
     
     var Browser = {"grade":"X","type":null,"version":[-1],"make":null,"platform":null};    
 
-    var JSLoader = {
     
+    var TemplGlobals = {"siteroot":"http:\/\/bandcamp.com","static_siteroot":"http:\/\/s0.bcbits.com","siteroot_https":"https:\/\/bandcamp.com"};
+
+    
+    
+
+
         
-         
+        
+
+<!-- JS set for template privacy.liquid: legacy-->
+
+
+    var JSLoader = {
+        sets : 
 
     
-        sets: {
-            head: [
-                
-                "http://bandcamp.com/tmpdata/cache/yahoo-dom-event_cd17c99764c2ee3c2714eaf44469e4bd.js"
-                       
-            ],
+    
+    
+    
+    
+    
+    
+    
+
+    
+
+    
+
+    
+
+    
+    
+    
+    
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
+        {
             
-            foot: [
-                
-                
-                "http://bandcamp.com/tmpdata/cache/json-min_8481414997875116e78cde50d3c5cfe2.js",
-                
-                "http://bandcamp.com/tmpdata/cache/utils_1defd636f5e8e0ae9ad564fefadc91b7.js"
-                            
-            ]
-        },
-    
 
-        writeScriptTags: function( set ) {
-            var libs = JSLoader.sets[ set ];
+            
+            
+            
+            
+            
+            
+            
+            legacy: {
+                head: [
+                    
+                     
+
+    "http://s0.bcbits.com/tmpdata/cache/yahoo-dom-event_a401442db2c7b83faf44d62d88f2dd82.js"
+
+
+                
+                
+                ],
+                
+                foot: [
+                    
+                    
+                     
+
+    "http://s0.bcbits.com/tmpdata/cache/json-min_5f97e41133fcf214c90129e9ae0fb794.js"
+
+
+                    ,
+                    
+                     
+
+    "http://s0.bcbits.com/tmpdata/cache/utils_8f47d9202bc842bf24e09e5a65599917.js"
+
+
+    
+                                
+    
+                ]
+            },
+        
+
+            lastThing:0 
+        }
+,
+        writeScriptTags: function( section ) {
+            var libs = JSLoader.currentset[ section ];
             if ( !libs ) 
-                throw "no js set: " + set;
-            for ( var i=0; i < libs.length; i++ )
+                throw "couldn't find js section: " + section;
+            for ( var i=0; i < libs.length; i++ ) {
                 document.write( '<script type="text/javascript" src="' + libs[i] + '"><\/s' + 'cript>' );
+            }
         },
         
         requireJS : function(src) {
@@ -98,9 +167,43 @@
                 }
             }
         },
+
+        selectSet : function(setname) {
+            if(!setname || !JSLoader.sets[setname]) {
+                if(setname && console.log) {
+                    console.log("JS set \"" + setname + "\" not found, using legacy set.");
+                }
+                setname = "legacy";
+            }
+
+            JSLoader.currentset = JSLoader.sets[setname];
+        },
+
+        checkSets : function() {
+            return; //disabled
+            if(!console.log || !JSLoader.sets.legacy) return;
+
+            var a = JSLoader.original_sets;
+            var b = JSLoader.sets.legacy;
+
+            var sections = ["head", "foot"];
+
+            for(var s=0; s<sections.length; s++) {
+                var seca = a[sections[s]];
+                var secb = b[sections[s]];
+
+                for(var i=0; i<seca.length; i++) {
+                    if(seca[i] != secb[i]) {
+                        console.log("warning: js lib " + sections[s] + "[" + i + "] mismatch:");
+                        console.log("should be: " + seca[i]);
+                        console.log("       is: " + secb[i]);
+                    }
+                }
+            }
+        },
         
         _addRequire : function(src) {
-            var libs = JSLoader.sets.foot;
+            var libs = JSLoader.currentset.foot;
             for(var i=0; i<libs.length; i++)
             {
                 if(libs[i] == src) return;
@@ -110,34 +213,70 @@
             
         onJSLoaded : null
     };
+
+
+        
+        
+         
+
+    /* keep a copy of the original loader sets here for comparison during debugging */
     
+    JSLoader.original_sets = {
+            head: [
+                
+                "http://s0.bcbits.com/tmpdata/cache/yahoo-dom-event_7a36d3e163219e33d545fb7aba1e6478.js"
+            
+            
+            ],
+            
+            foot: [
+                
+                
+                "http://s0.bcbits.com/tmpdata/cache/json-min_5f97e41133fcf214c90129e9ae0fb794.js",
+                
+                "http://s0.bcbits.com/tmpdata/cache/utils_8f47d9202bc842bf24e09e5a65599917.js"
+                            
+            ]
+        };
+    
+
+    JSLoader.checkSets();
+    JSLoader.selectSet("legacy");
     JSLoader.writeScriptTags( "head" );
-        
-    
-</script><script type="text/javascript" src="http://bandcamp.com/tmpdata/cache/yahoo-dom-event_cd17c99764c2ee3c2714eaf44469e4bd.js"></script>    
-
-
 
     
-        
+</script><script type="text/javascript" src="http://s0.bcbits.com/tmpdata/cache/yahoo-dom-event_a401442db2c7b83faf44d62d88f2dd82.js"></script>    
 
+
+    
+
+    
+        
 
     <script type="text/javascript">
-        // pull id out of the cookies
-        ClientID = null;
-        var pairs = document.cookie.split(/;\s*/);
-        for (var i = 0; i < pairs.length; ++i) {
-            var pair = pairs[i].split("=");
-            if (pair[0] == "client_id") {
-                ClientID = pair[1];
-                break;
+        (function(){
+            function snickerdoodle(which) {
+                var pairs = document.cookie.split(/;\s*/);
+                for (var i = 0; i < pairs.length; ++i) {
+                    var pair = pairs[i].split("=");
+                    if (pair[0] == which) {
+                        return pair[1];
+                    }
+                }
+                return null;
             }
-        }
+
+
+            // pull id out of the cookies
+            window.ClientID = snickerdoodle("client_id");
+
+        })();
     </script>
 
 
-
         <script type="text/javascript">
+            
+        
             var gCrumb = null;
             Control.registerEvents();
             Control.registerController( "/no_js", TPController );
@@ -151,49 +290,56 @@
 
     
     
-
+    
+    
+    <!--@@PAGEBUCKETS@@-->
 </head>
 
-<body>
-<div id="centerWrapper">
-    <div id="propOpenWrapper">
-        
+
+<body class="has-navbar ">
 
 
-    
-    
-    
-
-    
-
-
-
-    
-
+    <div id="navbar-wrapper" class="bc-ui">
     
         
-    
-    
-        <div id="pgHd">
-        
-<ul id="siteNav" class="horizNav">
-    <li class="first"><a href="http://bandcamp.com"><span class="hiddenAccess">home</span><span id="headerLogo" alt="Bandcamp logo"></span></a></li>
 
+
+
+
+
+<div id="navbar">
+<ul id="site-nav" class="horizontal">
+    
+        <li><a href="http://bandcamp.com" class="header-logo" alt="bandcamp home">bandcamp home</a></li>
+    
+    
+    
 </ul>
-<ul id="userNav" class="horizNav">
 
-    <li class="first"><a href="https://bandcamp.com/login">login</a></li>
+<ul id="user-nav" class="horizontal">
+
+    <li><a class="b" href="https://bandcamp.com/login">login</a></li>
     <li><a href="https://bandcamp.com/signup">signup</a></li>
 
 </ul>
-&nbsp; 
 
-        
-        </div>
+
+</div>
 
     
+    </div>
 
 
+<div id="centerWrapper">
+    <div id="propOpenWrapper">
+        
+        
+
+    
+    
+    
+
+    
 
         <div id="pgBd" class="yui-skin-sam">
             
@@ -289,39 +435,44 @@
 
             <div style="clear:both"></div>
         </div>
-
         <div id="pgFt">
+            <div id="pgFt-inner">
+
+    <div id="footer-logo-wrapper">
+    
+        <a id="footer-logo" href="http://bandcamp.com?from=logo"><span class="hiddenAccess">Bandcamp</span></a>
+    
+        <span id="view-switcher" style="display:none"></span>
+        <span id="webapp-selector-ui" style="display:none"></span>
+    </div>
+    
+    <ul id="legal" class="horizNav">
+        
+        <li id="login"><a href="https://bandcamp.com/login"><span id="login-artist">artist </span>login</a></li>
+        
+        <li><a href="http://bandcamp.com/terms_of_use">terms of use</a></li>
+        <li><a href="http://bandcamp.com/privacy">privacy</a></li>
+        <li><a href="http://bandcamp.com/copyright">copyright policy</a></li>
+        
             
-<a href="http://bandcamp.com?from=logo"><div id="footerLogo" alt="Bandcamp logo"><span class="hiddenAccess">Bandcamp</span></div></a>
-<script type="text/javascript">  
-if ((typeof Y != "undefined") && (typeof Stats != "undefined")) {
-    Y.util.Event.onDOMReady(function() {
-        Stats.record({kind:"click", click:"footer_logo_served"});
-    });
-}
+        
+        
+    </ul>
+    <span class="static-content">&nbsp;</span>
+
+</div>
+
+<script type="text/javascript">
+    if (typeof Y != "undefined") {
+        Y.util.Event.onDOMReady(function() {
+            WebappSelector.create_ui("http:\/\/bandcamp.com", null);
+        });
+    }
 </script>
-
-<ul id="legal" class="horizNav">
-    
-    <li id="login"><a href="https://bandcamp.com/login">artist login</a></li>
-    
-    <li><a href="http://bandcamp.com/terms_of_use">terms of use</a></li>
-    <li><a href="http://bandcamp.com/privacy">privacy</a></li>
-    <li><a href="http://bandcamp.com/copyright">copyright policy</a></li>
-    
-</ul>
-&nbsp; 
-
-
-
-
-
-
 
         </div>
     </div>
 </div>
-
 
 
 
@@ -332,15 +483,21 @@ if ((typeof Y != "undefined") && (typeof Stats != "undefined")) {
     JSLoader.writeScriptTags( "foot" );
 
     
-</script><script type="text/javascript" src="http://bandcamp.com/tmpdata/cache/json-min_8481414997875116e78cde50d3c5cfe2.js"></script><script type="text/javascript" src="http://bandcamp.com/tmpdata/cache/utils_1defd636f5e8e0ae9ad564fefadc91b7.js"></script>    
+</script><script type="text/javascript" src="http://s0.bcbits.com/tmpdata/cache/json-min_5f97e41133fcf214c90129e9ae0fb794.js"></script><script type="text/javascript" src="http://s0.bcbits.com/tmpdata/cache/utils_8f47d9202bc842bf24e09e5a65599917.js"></script>    
+
+
+
+
 
 <script type="text/javascript">
+    
+    
+
     if(JSLoader.onJSLoaded) {
         JSLoader.onJSLoaded();
     }
     Dom.initActiveElement();
 </script>
-
 
 
 
@@ -350,6 +507,7 @@ if ((typeof Y != "undefined") && (typeof Stats != "undefined")) {
         Y.util.Event.onDOMReady( function() {
             Control.handleDomReady();
             FieldHints.init();
+            Dom.scrollToParamElt();
         });
 
     })();
@@ -370,12 +528,41 @@ if(!isDebug)
 {
     var pageTracker = _gat._getTracker("UA-4189134-2");
     pageTracker._setDomainName("bandcamp.com");
-    pageTracker._initData();
     pageTracker._trackPageview();
+    
 }
 </script>
 
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+if(!isDebug)
+{
+    var _qevents = _qevents || [];
+    
+    (function() {
+    var elem = document.createElement('script');
+    elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+    elem.async = true;
+    elem.type = "text/javascript";
+    var scpt = document.getElementsByTagName('script')[0];
+    scpt.parentNode.insertBefore(elem, scpt);
+    })();
+    
+    _qevents.push({
+    qacct:"p-0207-dhLCDgvg"
+    });
+}
+</script>
 
-<!-- roberto-7 Sat Apr 30 09:28:20 UTC 2011 -->
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-0207-dhLCDgvg.gif" border="0" height="1" width="1">
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+
+
+<!-- roberto-15 Tue May 08 19:45:48 UTC 2012 -->
 
 </body></html>
