@@ -1,0 +1,4125 @@
+<!--The following is the downloaded HTML source of the prescriptionsolutions.com privacy policy that was archived on 2012-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120508161741id_/https%3A//www.prescriptionsolutions.com/RxSolWeb/mvc/cmsContent.do%3FpageUrl%3D/CHP/Footer/PrivacyPolicy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
+<meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+<meta http-equiv="PRAGMA" content="NO-CACHE">
+<script language="Javascript"><!--
+var gService = false;
+var gTimeZone = -6;
+// Code section for Enable First-Party Cookie Tracking
+function dcsCookie(){
+	if (typeof(dcsOther)=="function"){
+		dcsOther();
+	}
+	else if (typeof(dcsPlugin)=="function"){
+		dcsPlugin();
+	}
+	else if (typeof(dcsFPC)=="function"){
+		dcsFPC(gTimeZone);
+	}
+}
+function dcsGetCookie(name){
+	var pos=document.cookie.indexOf(name+"=");
+	if (pos!=-1){
+		var start=pos+name.length+1;
+		var end=document.cookie.indexOf(";",start);
+		if (end==-1){
+			end=document.cookie.length;
+		}
+		return unescape(document.cookie.substring(start,end));
+	}
+	return null;
+}
+function dcsGetCrumb(name,crumb){
+	var aCookie=dcsGetCookie(name).split(":");
+	if( aCookie != null ){
+		for (var i=0;i<aCookie.length;i++){
+			if( aCookie[i] != null && aCookie[i].length > 0  ){
+				var aCrumb=aCookie[i].split("=");
+				if( aCrumb != null && aCrumb.length >= 2){
+					if (crumb==aCrumb[0]){
+						return aCrumb[1];
+					}
+				}
+			}
+		}
+	}
+	return null;
+}
+function dcsFPC(offset){
+	if (!offset){
+		return;
+	}
+	var name=gFpc;
+	var dCur=new Date();
+	dCur.setTime(dCur.getTime()+(dCur.getTimezoneOffset()*60000)+(offset*3600000));
+	var dExp=new Date(dCur.getTime()+315360000000);
+	var dSes=new Date(dCur.getTime());
+	if (document.cookie.indexOf(name+"=")!=-1){
+		var id=dcsGetCrumb(name,"id");
+		var lv=parseInt(dcsGetCrumb(name,"lv"));
+		var ss=parseInt(dcsGetCrumb(name,"ss"));
+		if ((id==null)||(id=="null")||isNaN(lv)||isNaN(ss)){
+			return;
+		}
+		WT.co_f=id;
+		WT.vt_f="0";
+		var dLst=new Date(lv);
+		dSes.setTime(ss);
+		if ((dCur.getTime()>(dLst.getTime()+1800000))||(dCur.getTime()>(dSes.getTime()+28800000))){
+			dSes.setTime(dCur.getTime());
+			WT.vt_f_s="1";
+		}
+		if ((dCur.getDay()!=dLst.getDay())||(dCur.getMonth()!=dLst.getMonth())||(dCur.getYear()!=dLst.getYear())){
+			WT.vt_f_d="1";
+		}
+	}
+	else{
+		var tmpname=name+"_TMP=";
+		document.cookie=tmpname+"1";
+		if (document.cookie.indexOf(tmpname)!=-1){
+			document.cookie=tmpname+"; expires=Thu, 01-Jan-1970 00:00:01 GMT";
+			if ((typeof(gWtId)!="undefined")&&(gWtId!="")){
+				WT.co_f=gWtId;
+				WT.vt_f="0";
+			}
+			else{
+				WT.co_f="2";
+				var cur=dCur.getTime().toString();
+				for (var i=2;i<=(32-cur.length);i++){
+					WT.co_f+=Math.floor(Math.random()*16.0).toString(16);
+				}
+				WT.co_f+=cur;
+				WT.vt_f="1";
+			}
+			WT.vt_f_s="1";
+			WT.vt_f_d="1";
+		}
+		else{
+			WT.vt_f="2";
+			return;
+		}
+	}
+	WT.co_f=escape(WT.co_f);
+	WT.vt_sid=WT.co_f+"."+dSes.getTime();
+	var expiry="; expires="+dExp.toGMTString();
+	document.cookie=name+"="+"id="+WT.co_f+":lv="+dCur.getTime().toString()+":ss="+dSes.getTime().toString()+expiry+"; path=/"+(((typeof(gFpcDom)!="undefined")&&(gFpcDom!=""))?("; domain="+gFpcDom):(""));
+}
+
+// Code section for Use the new first-party cookie generated with this tag.
+var gFpc="WT_FPC";
+var gWtId="";
+if (gService){
+	var gConvert=true;
+}
+
+function dcsAdv(){
+	dcsFunc("dcsET");
+	dcsFunc("dcsCookie");
+	dcsFunc("dcsAdSearch");
+}
+
+//-->
+</script><script language="Javascript"><!--
+gVersion="1.0";
+//-->
+</script><script language="Javascript1.1"><!--
+gVersion="1.1";
+//-->
+</script><script language="Javascript1.2"><!--
+gVersion="1.2";
+var RE={"%09":/\t/g,"%20":/ /g,"%23":/#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
+//-->
+</script><script language="Javascript1.3"><!--
+gVersion="1.3";
+if (window.ActiveXObject){
+	var gFV="";
+	for (var gVer=2;gVer<=10;gVer++){
+		try{
+			var gFlash = eval("new ActiveXObject('ShockwaveFlash.ShockwaveFlash."+gVer+"');");
+			if (gFlash){
+				gFV=gVer+".0";
+				break;
+			}
+		}
+		catch(e){
+		}
+	}
+}
+//-->
+</script><script language="Javascript1.4"><!--
+gVersion="1.4";
+//-->
+</script><script language="Javascript1.5"><!--
+gVersion="1.5";
+//-->
+</script><script language="JavaScript"><!--
+var gImages=new Array;
+var gIndex=0;
+var DCS=new Object();
+var WT=new Object();
+var DCSext=new Object();
+var gQP=new Array();
+
+var gDomain="jwt-bi-sdc01.jwt.com";
+var gDcsId="dcs45xcei0a8zqbqb0ek5zj1v_3h2h";
+
+if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"=")==-1)){
+	// for webtrends tracking by RMG
+	document.write("<SCR"+"IPT Language='JavaScript' SRC='"+"http://"+gDomain+"/"+gDcsId+"/wtid.js"+"'></SCR"+"IPT>");
+	// for webtrends tracking by UHG
+	document.write("<SCR"+"IPT Language='JavaScript' SRC='"+"http://"+wtsdc.uhc.com+"/"+gDcsId+"/wtid.js"+"'></SCR"+"IPT>");
+}
+//--> 
+</script><script language="Javascript"><!--
+function dcsVar(){
+	var dCurrent=new Date();
+	WT.tz=dCurrent.getTimezoneOffset()/60*-1;
+	if (WT.tz==0){
+		WT.tz="0";
+	}
+	WT.bh=dCurrent.getHours();
+	WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
+	if (typeof(screen)=="object"){
+		WT.cd=navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth;
+		WT.sr=screen.width+"x"+screen.height;
+	}
+	if (typeof(navigator.javaEnabled())=="boolean"){
+		WT.jo=navigator.javaEnabled()?"Yes":"No";
+	}
+	if (document.title){
+		WT.ti=document.title;
+	}
+	WT.js="Yes";
+	if (typeof(gVersion)!="undefined"){
+		WT.jv=gVersion;
+	}
+	if (document.body&&document.body.addBehavior){
+		document.body.addBehavior("#default#clientCaps");
+		if (document.body.connectionType){
+			WT.ct=document.body.connectionType;
+		}
+		document.body.addBehavior("#default#homePage");
+		WT.hp=document.body.isHomePage(location.href)?"1":"0";
+	}
+	if (parseInt(navigator.appVersion)>3){
+		if ((navigator.appName=="Microsoft Internet Explorer")&&document.body){
+			WT.bs=document.body.offsetWidth+"x"+document.body.offsetHeight;
+		}
+		else if (navigator.appName=="Netscape"){
+			WT.bs=window.innerWidth+"x"+window.innerHeight;
+		}
+	}
+	WT.fi="No";
+	if (window.ActiveXObject){
+		if ((typeof(gFV)!="undefined")&&(gFV.length>0)){
+			WT.fi="Yes";
+			WT.fv=gFV;
+		}
+	}
+	else if (navigator.plugins&&navigator.plugins.length){
+		for (var i=0;i<navigator.plugins.length;i++){
+			if (navigator.plugins[i].name.indexOf('Shockwave Flash')!=-1){
+				WT.fi="Yes";
+				var words = navigator.plugins[i].description.split(" ");
+				if( words != null && words.length >= 3 ){
+					WT.fv=words[2];
+				}else{
+					WT.fv="";
+				}
+				break;
+			}
+		}
+	}
+	WT.sp="@@SPLITVALUE@@";
+	DCS.dcsdat=dCurrent.getTime();
+	DCS.dcssip=window.location.hostname;
+	DCS.dcsuri=window.location.pathname;
+	if (window.location.search){
+		DCS.dcsqry=window.location.search;
+		if (gQP.length>0){
+			for (var i=0;i<gQP.length;i++){
+				var pos=DCS.dcsqry.indexOf(gQP[i]);
+				if (pos!=-1){
+					var front=DCS.dcsqry.substring(0,pos);
+					var end=DCS.dcsqry.substring(pos+gQP[i].length,DCS.dcsqry.length);
+					DCS.dcsqry=front+end;
+				}
+			}
+		}
+	}
+	if ((window.document.referrer!="")&&(window.document.referrer!="-")){
+		if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
+			DCS.dcsref=window.document.referrer;
+		}
+	}
+}
+
+function A(N,V){
+	return "&"+N+"="+dcsEscape(V);
+}
+
+function dcsEscape(S){
+	if (typeof(RE)!="undefined"){
+		var retStr = new String(S);
+		for (R in RE){
+			retStr = retStr.replace(RE[R],R);
+		}
+		return retStr;
+	}
+	else{
+		return escape(S);
+	}
+}
+
+function dcsLoadHref(evt){
+	if ((typeof(gHref)!="undefined")&&(gHref.length>0)){
+		window.location=gHref;
+		gHref="";
+	}
+}
+
+function dcsCreateImage(dcsSrc){
+
+	if ( document.images){
+		gImages[gIndex]=new Image;
+		if ((typeof(gHref)!="undefined")&&(gHref.length>0)){
+			gImages[gIndex].onload=gImages[gIndex].onerror=dcsLoadHref;
+		}
+		// for webtrends tracking by RMG
+		gImages[gIndex].src=dcsSrc;
+		gIndex++;
+		// for webtrends tracking by UHG
+		gImages[gIndex]=new Image;
+		gImages[gIndex].src=dcsSrc.replace("jwt-bi-sdc01.jwt.com","wtsdc.uhc.com");
+		gIndex++;
+	}
+	else{
+		var url = '<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+dcsSrc+'"/>';
+		document.write(url);
+	}
+}
+
+function dcsMeta(){
+	var elems;
+	if (document.all){
+		elems=document.all.tags("meta");
+	}
+	else if (document.documentElement){
+		elems=document.getElementsByTagName("meta");
+	}
+	if (typeof(elems)!="undefined"){
+		for (var i=1;i<=elems.length;i++){
+			var meta=elems.item(i-1);
+			if (meta.name){
+				if (meta.name.indexOf('WT.')==0){
+					WT[meta.name.substring(3)]=meta.content;
+				}
+				else if (meta.name.indexOf('DCSext.')==0){
+					DCSext[meta.name.substring(7)]=meta.content;
+				}
+				else if (meta.name.indexOf('DCS.')==0){
+					DCS[meta.name.substring(4)]=meta.content;
+				}
+			}
+		}
+	}
+}
+
+function createDcsTag(){
+	var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?";
+	for (N in DCS){
+		if (DCS[N]) {
+			P+=A(N,DCS[N]);
+		}
+	}
+	for (N in WT){
+		if (WT[N]) {
+			P+=A("WT."+N,WT[N]);
+		}
+	}
+	for (N in DCSext){
+		if (DCSext[N]) {
+			P+=A(N,DCSext[N]);
+		}
+	}
+	if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
+		P=P.substring(0,2040)+"&WT.tu=1";
+	}
+	return P;
+}
+
+function dcsTag(){  
+	dcsCreateImage(createDcsTag());
+}
+
+function dcsFunc(func){
+	if (typeof(window[func])=="function"){
+		window[func]();
+	}
+}
+
+dcsVar();
+dcsMeta();
+dcsFunc("dcsAdv");
+//-->
+</script><script src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/js/jquery-1.2.6.pack.js" type="text/javascript"></script><script src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/js/jquery.validate-1.7.min.js" type="text/javascript"></script><script type="text/javascript">
+	$(document).ready(function(){
+	jQuery('.over').each(function(){
+	    var t=jQuery(this);
+	   	var src1= t.attr('src');
+	    var newSrc = src1.substring(0, src1.lastIndexOf('.'));; // let's get file name without extension
+	    t.hover(function(){
+			var newSrc1 = newSrc.substring(0, newSrc.length-3)+"_Rollover.png";
+		    jQuery(this).attr('src', newSrc1); //last part is for extension   
+	    }, function(){
+	        jQuery(this).attr('src', src1); //removing '-over' from the name
+	    });
+	});
+	});
+</script><script type="text/javascript">
+		function addMetaTagHeader( name, value ){
+			var meta;
+			if (document.createElement && (meta = document.createElement('meta'))) {
+			    meta.NAME = name; //IE
+			    meta.name = name; //FIREFOX
+			    meta["HTTP-EQUIV"]=name; //IE
+			    meta.content = value;
+				document.getElementsByTagName('head').item(0).appendChild(meta);
+			}
+		}
+	var $jq = jQuery.noConflict();
+	$jq(document).ready(function(){
+		addMetaTagHeader("Last-modified","Tue, 8 May 2012 18:22:43 GMT");
+		addMetaTagHeader("Etag","Tue, 8 May 2012 18:22:43 GMT");
+		addMetaTagHeader("Expires","-1");
+		addMetaTagHeader("Cache-control","no-cache,no-store,must-revalidate");
+		addMetaTagHeader("Pragma","no-cache");
+		addMetaTagHeader("P3P",'CP="CAO PSA OUR"');
+		});
+	</script><script type="text/javascript">
+		var var_cobrandPlanName = '';
+		// This variable is used to populate the plan name which is exposed to click to call.
+		var planName = '';
+		var var_msoUser = 'false'
+		var var_hasLogo = '';
+		var var_portalHome = 'https://www.prescriptionsolutions.com';
+		var var_fullname = "";		
+		var var_print_logo = 'PS_by_ORx.gif';	
+	    var var_customer_service='1.800.788.4863';	
+	    var var_customer_service_tty='1.800.498.5428';
+	    var var_window_title = 'Prescription Solutions by OptumRx';	    
+	    var var_today_date = '05/08/2012';
+	</script><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><link rel="stylesheet" href="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/css/core.min.css" type="text/css" media="screen, projection"><link type="text/css" href="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/css/additional_core.min.css" rel="stylesheet"><link type="text/css" href="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/css/modules/default.min.css" title="default" rel="alternate stylesheet"><link type="text/css" href="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/css/modules/medium.min.css" title="medium" rel="stylesheet"><link type="text/css" href="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/css/modules/large.min.css" title="large" rel="alternate stylesheet"><link type="text/css" href="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/css/modules/code.min.css" title="large" rel="alternate stylesheet"><link type="text/css" href="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/css/modules/generic_tabs.min.css" rel="stylesheet"><link type="text/css" href="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/css/modules/home_page_tabs.min.css" title="large" rel="alternate stylesheet"><script src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/js/master_JsIncude.js"></script><script src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/js/printpage.js" type="text/javascript"></script><script src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/js/rxsolapp.min.js" type="text/javascript"></script><script type="text/javascript" src="//static.atgsvcs.com/js/atgsvcs.js"></script><script type="text/javascript">
+  ATGSvcs.setUOID(200106295293);
+</script><style>
+.alt_table_color{
+border-collapse:collapse;
+}
+
+</style><script type="text/javascript">       
+    window.name = "parent";
+    var $jq = jQuery.noConflict();
+    $jq(document).ready(function() {
+        $jq('table.alt_table_color tbody tr:even td').css("background-color", "#ffffff"); 
+	    $jq('table.alt_table_color tbody tr:odd td').css("background-color", "#f0f0f0"); 
+	    $jq('table.alt_table_color tbody tr td.planclass').css("background-color", "#fff"); 
+	    $jq('table.alt_table_color tbody tr td.blackClass').css("background-color", "#8C9B93"); 
+
+	    //$jq('table.alt_table_color').css("border-collapse","collapse");
+	   	$jq('a.cluetip').each(function(){$jq(this).attr("class","clueTip");});
+		// to fix the popup background issue.
+	    $jq(document).mousemove(function(){		
+				$jq(window).resize();			
+		});
+		$jq(document).keypress(function(){		
+				$jq(window).resize();			
+		});
+		
+        // hide awards in footer
+        $jq("#our_awards, #awards_map").hide();
+
+        // Triggers the "?" icon
+        $jq("img#search_help").click(function() {
+        	window.location = "/mvc/cmsContent.do?pageUrl=/CHP/CustomerService/HelpTopics/TechnicalQuestions#8"; // set path
+        });
+
+        // CONTEXTUAL HELP
+        // Mouseover text
+        // To replace  cmsStaticContentPath with  web server path
+	     $jq('a.clueTip').each(function(){
+            
+           $jq(this).cluetip({activation: 'click' });
+      });
+
+        // Click ["I" icons]
+      $jq('img.clueTip').cluetip ({ attribute: 'id', activation: 'click' });
+      $jq('img.clueTip').attr('style','height:24px;width: 24px;');
+      
+      if($jq.browser.mozilla){
+      	$jq("a").bind("focus", function(e){
+      		if($jq(this).children('img').length == 1){
+      			$jq(this).children(':first').addClass('linkFocus');
+      		}else{
+      			$jq(this).addClass('linkFocus');
+      		}
+	     });
+	     $jq("a").bind("blur", function(e){
+      		if($jq(this).children('img').length == 1){
+	      		$jq(this).children(':first').removeClass('linkFocus');
+      		}else{
+      			$jq(this).removeClass('linkFocus');
+      		}
+	     });	
+      }
+      	
+		$jq('.logo').each(function(){
+			$jq(this).parent().bind('focus',function(e){
+				if($jq('#dialog #cancel').length ==1){
+					$jq(this).children(':first').removeClass('linkFocus');
+					$jq('#dialog #cancel').focus();
+				}
+			});
+			$jq(this).parent().bind('blur',function(e){
+				if($jq('#dialog #cancel').length ==1){
+					$jq(this).children(':first').removeClass('linkFocus');
+					$jq('#dialog #cancel').focus();
+				}
+			});
+		});	
+    });
+    
+    // Customized jquery validation methods
+    (function() {
+    	jQuery.validator.addMethod("maxChars", function(value, element, params) {
+    	    return this.optional(element) || value.length <= params;
+    	}, jQuery.validator.format("Please enter {0} characters or less."));
+
+    	jQuery.validator.addMethod("basicChars", function(value, element) {
+    		return this.optional(element) || /^[a-zA-Z0-9,\s]+$/i.test(value);
+    	}, "Please enter only letter, number, space or comma");
+    	
+    })();
+</script><script type="text/javascript"> 
+		var thisTitle = html_entity_decode('Prescription Solutions by OptumRx - Our Privacy Policy'); // BROWSER TITLE FOR THE PAGE 
+	    var numberOfColumns = 2;//NUMBER OF COLUMNS ON THIS PAGE (1,2,3)
+		var thisPageTitle = html_entity_decode("Privacy Statement"); //PAGE TITLE TO BE DISPLAYED IN STATIC PRINT PREVIEW PAGES
+		// Function call to display Print This Page Link from two_column_layout.jsp for NLF
+		// TChan @ 4/6/2009	    
+		function showPTPLink() {
+			document.getElementById('ptplink').style.display = 'block';
+		}	    
+	</script><meta name="decorator" content="two_column_layout"><meta name="page_title" content="Privacy Statement"><meta name="browser_title" content="Our Privacy Policy"><meta name="WT.ti" content=""><meta name="keywords" content="Our Privacy Policy"><meta name="description" content="Our Privacy Policy"><script type="text/javascript">                                      
+function checkForAdobeReaderForGenericPages()                            
+{
+	// only keeping this method in until any references 
+	// are deleted in static content project while content is moved to vignette
+	return true;
+}
+$jq('#subnav1').ready(function(){
+	if (jQuery.browser.msie) 
+ 	{
+		var pm1items = $jq('#subnav1 > ul > li').size();
+		$jq('#myPrescriptions').mouseover(function(){
+			if(pm1items == 0)
+			{
+				$jq('#subnav1').attr('style','display:none;');
+			}
+		});
+ 	}
+});
+$jq(document).ready(function()
+{
+    $jq("span.vignetteRef").each(function(){
+       
+        if(($jq(this).text()== "first.dba"))
+       {
+	
+		$jq(this).replaceWith("Prescription Solutions by OptumRx");
+	   }
+       
+       if(($jq(this).text()== "other.dba"))
+       {
+      	$jq(this).replaceWith("Prescription Solutions");
+       }
+    });
+	var pmitems = $jq('#subnav1 > ul > li').size();
+	if(pmitems == 0)
+	{
+	    	$jq('#subnav1').attr('style','display :none !important;');
+	}
+	if (jQuery.browser.msie) 
+ 	{
+	    var pm1items = $jq('#subnav1 > ul > li').size()
+	    var pm2items = $jq('#subnav2 > ul > li').size()
+	    var pm3items = $jq('#subnav3 > ul > li').size()
+	    var pm4items = $jq('#subnav4 > ul > li').size()
+	    var pm5items = $jq('#subnav5 > ul > li').size()
+	    var pm6items = $jq('#subnav6 > ul > li').size()
+	    var pm7items = $jq('#subnav7 > ul > li').size()
+	    pm1items = pm1items*18;
+	    pm2items = pm2items*19;
+	    pm3items = pm3items*18+'%';
+	    pm4items = pm4items*13.8+'%';
+	    pm5items = pm5items*15.6+'%';
+	    pm6items = pm6items*16;
+	    pm7items = pm7items*12.5;
+	   
+	    if(pm1items >= 85)
+	    {
+	      pm1items = 88+'%';
+	    }
+	    else
+	    {
+	      pm1items = pm1items +'%';
+	    }
+	    
+	    
+	    if(pm2items >= 78)
+	    {
+	      pm2items = 74+'%';
+	    }
+	    else
+	    {
+	      pm2items = pm2items+'%';
+	      if($jq('#subnav2 > ul > li').size() == 2)
+	    {
+	    	pm2items = 38+'%';
+	    }
+	    if($jq('#subnav2 > ul > li').size() == 3)
+	    {
+	    	var msoUser = 'false';
+	    	if(msoUser == 'true')
+	    	{
+	    		pm2items =  49+'%';
+	    	}
+	    	var thirdPartyAccessView = '';
+	    	if(thirdPartyAccessView == 'true')
+	    	{
+	    		pm2items = 40+'%';
+	    	}
+	    }
+	    
+	    }
+	      if(pm6items >= 80)
+	    {
+	     var subnav6size = $jq('#subnav6 > ul > li').size();
+	   
+	     
+	     
+	      
+	      	pm6items = 93+'%';
+	     
+	    }
+	    else
+	    {
+	     pm6items = pm6items+'%';
+	    }
+	   
+	   if(pm7items <= 50 )
+	   {
+	   	pm7items = 51+'%';
+	   }
+	   
+	      if(pm7items <= 62.5 )
+	    {
+	     
+	      
+	       pm7items = 65+'%';
+	     
+	    }
+	    
+	     if(pm7items > 62.5 && pm7items <= 75 )
+	    {
+	     
+	        
+	       pm7items = 85+'%';
+	     
+	    }
+	    
+	    if(pm7items > 75)
+	    {
+	       pm7items = 85+'%';
+	    }
+	   
+	    $jq('#subnav1').css('width',pm1items);
+	    $jq('#subnav2').css('width',pm2items);
+	    $jq('#subnav3').css('width',pm3items);
+	    $jq('#subnav4').css('width',pm4items);
+	    $jq('#subnav5').css('width',pm5items);
+	    $jq('#subnav6').css('width',pm6items);
+	    $jq('#subnav7').css('width',pm7items); 
+   	}
+	jQuery('.crossbutton').css('display','none');
+	jQuery('link[rel*=style][title]').each(function(i) 
+	{
+		if(this.disabled == false) 
+		{
+			if (this.getAttribute('title') == 'medium') 
+			{
+				jQuery('#smallFont').attr('src','https://www.prescriptionsolutions.com/rxsol/chp/html/ps/branding/icons/Icon_TextSize_Small_On.png');
+				jQuery('#largeFont').attr('src','https://www.prescriptionsolutions.com/rxsol/chp/html/ps/branding/icons/Icon_TextSize_Large_Off.png');
+			}
+			else if (this.getAttribute('title') == 'large')
+			{
+				jQuery('#largeFont').attr('src','https://www.prescriptionsolutions.com/rxsol/chp/html/ps/branding/icons/Icon_TextSize_Large_On.png');
+				jQuery('#smallFont').attr('src','https://www.prescriptionsolutions.com/rxsol/chp/html/ps/branding/icons/Icon_TextSize_Small_Off.png');
+			}
+		}
+	});
+	jQuery('#switch3').click(function(){
+		jQuery('#smallFont').attr('src','https://www.prescriptionsolutions.com/rxsol/chp/html/ps/branding/icons/Icon_TextSize_Small_On.png');
+		jQuery('#largeFont').attr('src','https://www.prescriptionsolutions.com/rxsol/chp/html/ps/branding/icons/Icon_TextSize_Large_Off.png');
+	});
+	jQuery('#switch2').click(function(){
+		jQuery('#largeFont').attr('src','https://www.prescriptionsolutions.com/rxsol/chp/html/ps/branding/icons/Icon_TextSize_Large_On.png');
+		jQuery('#smallFont').attr('src','https://www.prescriptionsolutions.com/rxsol/chp/html/ps/branding/icons/Icon_TextSize_Small_Off.png');
+	});
+});
+</script><style>
+/* For clue Tip */
+.clue-bottom-rounded {margin-top:-24px !important;}
+#cluetip{z-index:1500 !important;}
+
+label {font-weight:normal !important;}
+.gecko #dialog_adobe_mail_download{padding-left:234px;}
+.ie6 #dialog_adobe_mail_download{padding-left:180px;}
+.okbuttonstyle
+{
+	padding-right:5px;
+}
+
+.ie6 .okbuttonstyle
+{
+	padding-right:10px;
+}
+
+.ie7 .okbuttonstyle 
+{
+padding-right:10px;
+}
+.classlength0{
+display: none !important;
+}
+
+.lastMenuItemBorder {border-right: 0px !important;}
+.ie6 #subnav1{padding-bottom:0px;}
+.ie6 #subnav7{width:85%;}
+div.tabcontent ul li.current a{
+	color: #EF8A1D !important;
+}
+</style><script type="text/javascript">
+      var standAlone = "null";
+      var hideFooter = "null";
+      var footerBaseRenderUrl = "null";
+      var sitename = "www.prescriptionsolutions.com";
+    var brand = "default";
+    var contactus = "null";
+    var aboutus = "null"; 
+    // This variable is used to populate the plan name which is exposed to click to call.
+    var planname = "";
+</script><script type="text/javascript">
+      var thisSubnav = ""; 
+      $jq(document).ready(function(){
+      
+      $jq("div.tabcontent ul li.current a").css({'color':'#EF8A1D !important;'});
+       
+		    
+	   	$jq("#okConfirmationForReq").click(function() {
+			$jq("#alredyRegistered").dialog('close').css({'display':'none','border':'none'});
+			return false;
+		});	
+      
+       $jq("a.clueTip").mouseout(
+	      function(){
+	      $jq("div#cluetip").addClass("clue-right-rounded");
+	    }); 
+         
+         
+         $jq('#dialog_adobe_prescrption').bgiframe();
+		 $jq("#dialog_adobe_prescrption").dialog({autoOpen: false, modal: true, overlay: {opacity:0.5, background:"black" }, bgiframe:true });
+		
+		 $jq('#dialog_adobe_application').bgiframe();
+		 $jq("#dialog_adobe_application").dialog({autoOpen: false, modal: true, overlay: {opacity:0.5, background:"black" }, bgiframe:true });
+		
+		$jq('#dialog_adobe_mail_prescrption').bgiframe();
+		 $jq("#dialog_adobe_mail_prescrption").dialog({autoOpen: false, modal: true, overlay: {opacity:0.5, background:"black" }, bgiframe:true });
+		
+		
+		$jq("#adobeBackPrescription").click(function() {
+			$jq("#dialog_adobe_prescrption").dialog('close').css({'display':'none','border':'none'});
+			return false;
+		});	
+
+		$jq("#adobeBackGeneric").click(function() {	
+			$jq("#dialog_adobe_application").dialog('close').css({'display':'none','border':'none'});
+			return false;
+		});
+		
+		// PDF plugin detection message
+		if(isPdfPluginDetected()) {
+			$jq("#pdf_reader_not_detected").hide();
+		}
+		else {
+			$jq("#pdf_reader_not_detected").show();
+		}		
+		
+      });
+      
+      
+	$jq("a.clueTip").mouseout(
+		function(){
+		$jq("div#cluetip").addClass("clue-right-rounded"); 
+		$jq("div#cluetip").addClass("clue-bottom-rounded");
+	}); 
+	
+	
+      
+</script><title>PrescriptionSolutions.com - Our Privacy Policy</title></head>
+	<!-- NOTE, the SDCScript isn't a javascript file...its an html include file RMG/Webtrends has bad naming..and causes confusion -->
+	<!-- START OF SDC Advanced Tracking Code -->
+<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
+<!-- V7.5 -->
+<!-- $DateTime: 2005/06/02 09:59:59 $ -->
+
+<!-- END OF SDC Advanced Tracking Code -->
+
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
+<!-- V7.5 -->
+<!-- $DateTime$ -->
+
+
+
+
+
+
+
+
+
+<!-- END OF SmartSource Data Collector  TAG -->	
+
+
+		
+	
+	
+	
+	
+	
+	
+  
+    
+<!--// CSS -- DO NOT REMOVE "X-UA-Compatible" META TAG-- //-->
+
+
+<!--// FOR DEVELOPMENT ONLY //-->
+
+
+<!--// USE THIS ONE FOR PRODUCTION RELEASE
+<link rel="stylesheet" href="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/css/production.css" type="text/css" media="screen, projection">
+//-->
+
+
+
+
+
+
+
+<!-- link type="text/css" href="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/css/tourModal.css" rel="stylesheet" -->
+
+    
+
+
+
+
+
+
+
+
+
+
+
+<!--// scripts //-->
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+	
+
+    
+		
+			
+			
+				
+			
+			
+			
+						
+	   
+      
+
+    
+
+
+
+
+
+
+
+
+
+
+  
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+   <body><div id="overlay"></div>
+    <div id="wrapper">
+
+ 
+      
+      
+            <!--// DO NOT BREAK LAYOUT OF FORM, IT MUST SURROUND THE CODE AS SHOWN /-->
+            <form name="search" action="/RxSolWeb/search.ep" method="GET">
+                  
+                 
+                 
+                  <!-- Display Header Logo based on multiple conditions - Requirement: As per Trunk Code - rxsol_consumers_header.jsp-->
+                  
+						
+							<script>
+		
+</script>
+
+
+<div id="header" class="eight-col grid">
+	
+	
+	
+	<!-- Cobranding mode -->
+		
+			
+			
+				<a href="/RxSolWeb/index.ep"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/logos/PS_by_ORx.gif" class="logo" width="247" height="61" alt="Prescription Solutions Image" title="rxsolutions"></a>
+			 
+				
+        
+			
+
+  <table class="span4 fl_right" cellpadding="0" cellspacing="0" border="0" id="font-sizer">
+	<tbody><tr>
+		<td colspan="4" class="links">
+		
+					<a href="/RxSolWeb/index.ep">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+
+		<!--// LOGGED OUT  STATE //--> 
+		
+			
+			
+			<a href="/RxSolWeb/mvc/login.do">Log in</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+			<a href="/RxSolWeb/mvc/registration/displayRegistrationForm.do" onclick="dcsMultiTrack('DCS.dcssip',sitename,'DCS.dcsuri','/RegistrationButtonClicked','WT.ti','INTERNAL: Initiate Site Registration','WT.cg_n','CONSUMER','WT.si_n','','WT.si_p','','WT.si_x','','WT.seg_1','','WT.vhseg_1','','WT.seg_2','','WT.vhseg_2','','WT.pn_sku','','WT.tx_u','','WT.tx_s','')">Register</a>
+			
+		
+		</td>
+	</tr>
+</tbody></table>
+</div>
+
+						
+						
+				                                                                                  
+                  <!-- End - Display Header Logo based on multiple conditions - Requirement: As per Trunk Code - rxsol_consumers_header.jsp-->                                                                                         
+
+   
+                  
+                        <div id="ddtabs1" class="navbar">
+                              <ul>
+                                    
+                                        
+                                    	
+                                   		 	  										 	
+										 	    
+										 	
+												<li id="myPrescriptions" class=""> <a href="/RxSolWeb/mvc/rxDashBoard/displayPrescriptionDashBoardPage.do?cache=true&amp;_rxthr_ENABLED=true&amp;_rxthr_DELAY_SECONDS=15&amp;_rxthr_TIMEOUT_SECONDS=20&amp;_rxthr_MAXWAIT_SECONDS=180&amp;" rel="subnav1">My Prescriptions</a></li>
+											
+										
+                                    
+                                        
+                                    	
+                                   		 	  										 	
+										 	    
+										 	
+												<li id="myAccount" class=""> <a href="/RxSolWeb/mvc/rxDashBoard/displayAccountDashBoardPage.do?cache=true&amp;_rxthr_ENABLED=true&amp;_rxthr_DELAY_SECONDS=15&amp;_rxthr_TIMEOUT_SECONDS=20&amp;_rxthr_MAXWAIT_SECONDS=180&amp;" rel="subnav2">My Account</a></li>
+											
+										
+                                    
+                                        
+                                    	
+                                   		 	  										 	
+										 	    
+										 	
+												<li id="shopForMedicalSupplies" class=""> <a href="/RxSolWeb/mvc/cmsContent.do?pageUrl=/CHP/OrderMedicalSupplies&amp;disclaimer=RxMedicarePartBDisclaimer" rel="subnav3">Order Medical Supplies</a></li>
+											
+										
+                                    
+                                        
+                                    	
+                                   		 	  										 	
+										 	
+										 		<li id="healthStore" class=""> <a id="leavingSiteLink_NavBar_healthStore" href="https://prescriptionsolutionshealthstore.com?store=default" rel="subnav4">Health Store</a></li>
+										 	    
+										 	
+										
+                                    
+                                        
+                                    	
+                                   		 	  										 	
+										 	    
+										 	
+												<li id="SpecialtyPharmacy" class=""> <a href="/RxSolWeb/mvc/specialtyPharmacy.do" rel="subnav5">Specialty Pharmacy</a></li>
+											
+										
+                                    
+                                        
+                                    	
+                                   		 	  										 	
+										 	    
+										 	
+												<li id="healthTools" class=""> <a href="/RxSolWeb/mvc/healthtool.do" rel="subnav6">Health Tools</a></li>
+											
+										
+                                    
+                                        
+                                    	
+                                   		 	  										 	
+										 	    
+										 	
+												<li id="customerService" class=""> <a href="/RxSolWeb/mvc/customerService.do" rel="subnav7">Customer Service</a></li>
+											
+										
+                                    
+                                        
+                                    	
+                                   		 	  										 	
+										 	    
+										 	
+												<li id="whatsNew" class="lastMenuItemBorder"> <a href="/RxSolWeb/mvc/cmsContent.do?pageUrl=/CHP/WhatsNew" rel="subnav8">What's New</a></li>
+											
+										
+                                          
+                              </ul>
+                             
+                        </div>
+                        <div class="tabcontainer">
+                              <div id="sectert" style="z-index: 0; !important">
+                              
+                              
+                                    
+                                       
+                                    	                                
+                                          <div id="subnav1" class="tabcontent classlength6">  
+                                                            
+                                    
+                              
+                              
+                            	
+			                    
+			                    	
+			                    	                               
+                                         
+
+                                    <ul>
+                                        <!--  
+                                           <li class="left_edge"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/left_edge.jpg" alt=""></li>
+                                         
+                                          --> 
+                                          
+                                          
+                                          
+                                          	
+						                    
+				                                         
+				                                         
+				                                         		  <li id="myMedicineCabinet" rel="ternav11" class="">
+				                                         
+				                                         
+
+		                                          
+			                                           
+			                                           
+			                                            	
+ 													   
+				                                         	
+				                                         	 
+				                                         														   
+															     <a id="hohmenu" href="/RxSolWeb/mvc/myMedicineCabinet/getAllPrescriptionsForMedicineCabinet.do?&amp;_rxthr_ENABLED=true&amp;_rxthr_DELAY_SECONDS=15&amp;_rxthr_TIMEOUT_SECONDS=20&amp;_rxthr_MAXWAIT_SECONDS=180&amp;">My Medicine Cabinet 
+																</a>
+																
+															
+ 													    
+ 													    												   
+			                                           
+		                                         
+	                                          </li>
+	                                         <!--  
+	                                                <li class="divider"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/divider.jpg"></li>
+	                                          
+	                                          -->
+						                    
+                                          
+                                          
+                                    
+                                          
+                                          
+                                          	
+						                    
+				                                         
+				                                         
+				                                         		  <li id="renewPrescriptions" rel="ternav12" class="">
+				                                         
+				                                         
+
+		                                          
+			                                           
+			                                           
+			                                            	
+ 													   
+				                                         	
+				                                         	
+		 														<a href="/RxSolWeb/mvc/renewPrescription/renewPrescription.do?_rxthr_ENABLED=true&amp;_rxthr_DELAY_SECONDS=15&amp;_rxthr_TIMEOUT_SECONDS=20&amp;_rxthr_MAXWAIT_SECONDS=180&amp;" rel="ternav12">Renew Prescriptions</a>
+				                                         	 
+				                                         	
+															
+ 													    
+ 													    												   
+			                                           
+		                                         
+	                                          </li>
+	                                         <!--  
+	                                                <li class="divider"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/divider.jpg"></li>
+	                                          
+	                                          -->
+						                    
+                                          
+                                          
+                                    
+                                          
+                                          
+                                          	
+						                    
+				                                         
+				                                         
+				                                         		  <li id="transferPrescriptions" rel="ternav13" class="">
+				                                         
+				                                         
+
+		                                          
+			                                           
+			                                           
+			                                            	
+ 													   
+				                                         	
+				                                         	
+		 														<a href="/RxSolWeb/mvc/transferPrescriptions/transferPrescriptions.do?_rxthr_ENABLED=true&amp;_rxthr_DELAY_SECONDS=15&amp;_rxthr_TIMEOUT_SECONDS=20&amp;_rxthr_MAXWAIT_SECONDS=180&amp;" rel="ternav13">Transfer Prescriptions</a>
+				                                         	 
+				                                         	
+															
+ 													    
+ 													    												   
+			                                           
+		                                         
+	                                          </li>
+	                                         <!--  
+	                                                <li class="divider"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/divider.jpg"></li>
+	                                          
+	                                          -->
+						                    
+                                          
+                                          
+                                    
+                                          
+                                          
+                                          	
+						                    
+				                                         
+				                                         
+				                                         		  <li id="fillNewPrescriptions" rel="ternav14" class="">
+				                                         
+				                                         
+
+		                                          
+			                                           
+			                                           
+			                                            	
+ 													   
+				                                         	
+				                                         	 
+				                                         														   
+															     <a id="hohmenu" href="/RxSolWeb/mvc/initiateNewPrescription/showForm.do">Fill New Prescriptions 
+																</a>
+																
+															
+ 													    
+ 													    												   
+			                                           
+		                                         
+	                                          </li>
+	                                         <!--  
+	                                                <li class="divider"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/divider.jpg"></li>
+	                                          
+	                                          -->
+						                    
+                                          
+                                          
+                                    
+                                          
+                                          
+                                          	
+						                    
+				                                         
+				                                         
+				                                         		  <li id="orderHistory" rel="ternav15" class="">
+				                                         
+				                                         
+
+		                                          
+			                                           
+			                                           
+			                                            	
+ 													   
+				                                         	
+				                                         	 
+				                                         														   
+															     <a id="hohmenu" href="/RxSolWeb/mvc/orderHistory/performOrderHistorySearch.do?orderStatus=false">Order Status 
+																</a>
+																
+															
+ 													    
+ 													    												   
+			                                           
+		                                         
+	                                          </li>
+	                                         <!--  
+	                                                <li class="divider"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/divider.jpg"></li>
+	                                          
+	                                          -->
+						                    
+                                          
+                                          
+                                    
+                                          
+                                          
+                                          	
+						                    
+				                                         
+				                                         
+				                                         		  <li id="claimHistory" rel="ternav16" class="lastMenuItemBorder">
+				                                         
+				                                         
+
+		                                          
+			                                           
+			                                           
+			                                            	
+ 													   
+				                                         	
+				                                         	 
+				                                         														   
+															     <a id="hohmenu" href="/RxSolWeb/mvc/claimHistory/claimHistory.do?prescription=true&amp;fromClaimMenu=true&amp;_rxthr_ENABLED=true&amp;_rxthr_DELAY_SECONDS=15&amp;_rxthr_TIMEOUT_SECONDS=20&amp;_rxthr_MAXWAIT_SECONDS=180&amp;">Claim History 
+																</a>
+																
+															
+ 													    
+ 													    												   
+			                                           
+		                                         
+	                                          </li>
+	                                         <!--  
+	                                          -->
+						                    
+                                          
+                                          
+                                     
+                                    <!--
+                                      <li class="right_edge"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/right_edge.jpg" alt=""> </li> 
+                                    
+                                    -->                                          
+                                    </ul>  
+                                                                        
+                                    
+                                   
+                                                        
+                                                         
+                                          </div>  
+                                       
+                              
+                              
+                                    
+                                       
+                                    	                                
+                                          <div id="subnav2" class="tabcontent classlength5">  
+                                                            
+                                    
+                              
+                              
+                            	
+			                    
+			                    	
+			                    	                               
+                                         
+
+                                    <ul>
+                                        <!--  
+                                           <li class="left_edge"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/left_edge.jpg" alt=""></li>
+                                         
+                                          --> 
+                                          
+                                          
+                                          
+                                          	
+						                    
+				                                         
+				                                         
+				                                         		  <li id="orderStatus" rel="ternav21" class="">
+				                                         
+				                                         
+
+		                                          
+			                                           
+			                                           
+			                                            	
+ 													   
+				                                         	
+				                                         	 
+				                                         														   
+															     <a id="hohmenu" href="/RxSolWeb/mvc/orderHistory/performOrderHistorySearch.do?orderStatus=true">Order Status 
+																</a>
+																
+															
+ 													    
+ 													    												   
+			                                           
+		                                         
+	                                          </li>
+	                                         <!--  
+	                                                <li class="divider"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/divider.jpg"></li>
+	                                          
+	                                          -->
+						                    
+                                          
+                                          
+                                    
+                                          
+                                          
+                                          	
+						                    
+				                                         
+				                                         
+				                                         		  <li id="manageAccount" rel="ternav22" class="">
+				                                         
+				                                         
+
+		                                          
+			                                           
+			                                           
+			                                            	
+ 													   
+				                                         	
+				                                         	 
+				                                         														   
+															     <a id="hohmenu" href="/RxSolWeb/mvc/manageAccount.do">Manage Account 
+																</a>
+																
+															
+ 													    
+ 													    												   
+			                                           
+		                                         
+	                                          </li>
+	                                         <!--  
+	                                                <li class="divider"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/divider.jpg"></li>
+	                                          
+	                                          -->
+						                    
+                                          
+                                          
+                                    
+                                          
+                                          
+                                          	
+						                    
+				                                         
+				                                         
+				                                         		  <li id="memberBenefits" rel="ternav23" class="">
+				                                         
+				                                         
+
+		                                          
+			                                           
+			                                           
+			                                            	
+ 													   
+				                                         	
+				                                         	 
+				                                         														   
+															     <a id="hohmenu" href="/RxSolWeb/mvc/claimMemberBenefitDetail.do?_rxthr_ENABLED=true&amp;_rxthr_DELAY_SECONDS=15&amp;_rxthr_TIMEOUT_SECONDS=20&amp;_rxthr_MAXWAIT_SECONDS=180&amp;">Real Time Benefits 
+																</a>
+																
+															
+ 													    
+ 													    												   
+			                                           
+		                                         
+	                                          </li>
+	                                         <!--  
+	                                                <li class="divider"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/divider.jpg"></li>
+	                                          
+	                                          -->
+						                    
+                                          
+                                          
+                                    
+                                          
+                                          
+                                          	
+						                    
+				                                         
+				                                         
+				                                         		  <li id="myFormulary" rel="ternav24" class="">
+				                                         
+				                                         
+
+		                                          
+			                                           
+			                                           
+			                                            	
+ 													   
+				                                         	
+				                                         	 
+				                                         														   
+															     <a id="hohmenu" href="/RxSolWeb/mvc/formularyEntryPoint.do">My Formulary 
+																</a>
+																
+															
+ 													    
+ 													    												   
+			                                           
+		                                         
+	                                          </li>
+	                                         <!--  
+	                                                <li class="divider"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/divider.jpg"></li>
+	                                          
+	                                          -->
+						                    
+                                          
+                                          
+                                    
+                                          
+                                          
+                                          	
+						                    
+				                                         
+				                                         
+				                                         		  <li id="houseHoldCareGiver" rel="ternav25" class="lastMenuItemBorder">
+				                                         
+				                                         
+
+		                                          
+			                                           
+			                                           
+			                                            	
+ 													   
+				                                         	
+				                                         	 
+				                                         														   
+															     <a id="hohmenu" href="/RxSolWeb/mvc/houseHoldCareGiver.do">Household/Caregiver Access 
+																</a>
+																
+															
+ 													    
+ 													    												   
+			                                           
+		                                         
+	                                          </li>
+	                                         <!--  
+	                                          -->
+						                    
+                                          
+                                          
+                                     
+                                    <!--
+                                      <li class="right_edge"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/right_edge.jpg" alt=""> </li> 
+                                    
+                                    -->                                          
+                                    </ul>  
+                                                                        
+                                    
+                                   
+                                                        
+                                                         
+                                          </div>  
+                                       
+                              
+                              
+                                    
+                                       
+                                    	                                
+                                          <div id="subnav3" class="tabcontent classlength4">  
+                                                            
+                                    
+                              
+                              
+                            	
+			                    
+			                    	
+			                    	                               
+                                         
+
+                                    <ul>
+                                        <!--  
+                                           <li class="left_edge"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/left_edge.jpg" alt=""></li>
+                                         
+                                          --> 
+                                          
+                                          
+                                          
+                                          	
+						                    
+				                                         
+				                                         
+				                                         		  <li id="diabetesTestingSupplies" rel="ternav31" class="">
+				                                         
+				                                         
+
+		                                          
+			                                           
+			                                           
+			                                            	
+ 													   
+				                                         	
+				                                         	 
+				                                         														   
+															     <a id="hohmenu" href="/RxSolWeb/mvc/cmsContent.do?pageUrl=/CHP/OrderMedicalSupplies/DiabetesTestingSupplies&amp;disclaimer=RxMedicarePartBDisclaimer">Diabetes Testing Supplies 
+																</a>
+																
+															
+ 													    
+ 													    												   
+			                                           
+		                                         
+	                                          </li>
+	                                         <!--  
+	                                                <li class="divider"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/divider.jpg"></li>
+	                                          
+	                                          -->
+						                    
+                                          
+                                          
+                                    
+                                          
+                                          
+                                          	
+						                    
+				                                         
+				                                         
+				                                         		  <li id="respiratorySupplies" rel="ternav32" class="">
+				                                         
+				                                         
+
+		                                          
+			                                           
+			                                           
+			                                            	
+ 													   
+				                                         	
+				                                         	 
+				                                         														   
+															     <a id="hohmenu" href="/RxSolWeb/mvc/cmsContent.do?pageUrl=/CHP/OrderMedicalSupplies/RespiratorySupplies&amp;disclaimer=RxMedicarePartBDisclaimer">Respiratory Supplies 
+																</a>
+																
+															
+ 													    
+ 													    												   
+			                                           
+		                                         
+	                                          </li>
+	                                         <!--  
+	                                                <li class="divider"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/divider.jpg"></li>
+	                                          
+	                                          -->
+						                    
+                                          
+                                          
+                                    
+                                          
+                                          
+                                          	
+						                    
+				                                         
+				                                         
+				                                         		  <li id="respiratoryMedication" rel="ternav33" class="">
+				                                         
+				                                         
+
+		                                          
+			                                           
+			                                           
+			                                            	
+ 													   
+				                                         	
+				                                         	 
+				                                         														   
+															     <a id="hohmenu" href="/RxSolWeb/mvc/cmsContent.do?pageUrl=/CHP/OrderMedicalSupplies/RespiratoryMedications&amp;disclaimer=RxMedicarePartBDisclaimer">Respiratory Medication 
+																</a>
+																
+															
+ 													    
+ 													    												   
+			                                           
+		                                         
+	                                          </li>
+	                                         <!--  
+	                                                <li class="divider"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/divider.jpg"></li>
+	                                          
+	                                          -->
+						                    
+                                          
+                                          
+                                    
+                                          
+                                          
+                                          	
+						                    
+				                                         
+				                                         
+				                                         		  <li id="selfCareResources" rel="ternav34" class="lastMenuItemBorder">
+				                                         
+				                                         
+
+		                                          
+			                                           
+			                                           
+			                                            	
+ 													   
+				                                         	
+				                                         	 
+				                                         														   
+															     <a id="hohmenu" href="/RxSolWeb/mvc/cmsContent.do?pageUrl=/CHP/OrderMedicalSupplies/SelfCareResources">Self Care Resources 
+																</a>
+																
+															
+ 													    
+ 													    												   
+			                                           
+		                                         
+	                                          </li>
+	                                         <!--  
+	                                          -->
+						                    
+                                          
+                                          
+                                     
+                                    <!--
+                                      <li class="right_edge"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/right_edge.jpg" alt=""> </li> 
+                                    
+                                    -->                                          
+                                    </ul>  
+                                                                        
+                                    
+                                   
+                                                        
+                                                         
+                                          </div>  
+                                       
+                              
+                              
+                                    
+                                       
+                                    	                                
+                                          <div id="subnav4" class="tabcontent classlength5">  
+                                                            
+                                    
+                              
+                              
+                            	
+			                    
+			                    	
+			                    	                               
+                                         
+
+                                    <ul>
+                                        <!--  
+                                           <li class="left_edge"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/left_edge.jpg" alt=""></li>
+                                         
+                                          --> 
+                                          
+                                          
+                                          
+                                          	
+						                    
+				                                         
+				                                         
+				                                         		  <li id="fitnessAndExercise" rel="ternav41" class="">
+				                                         
+				                                         
+
+		                                          
+			                                           
+			                                                <a id="leavingSiteLink_NavBar_fitnessAndExercise" href="https://prescriptionsolutionshealthstore.com/fitness-exercise.html?store=default">Fitness &amp; Exercise</a>
+			                                           
+			                                           
+		                                         
+	                                          </li>
+	                                         <!--  
+	                                                <li class="divider"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/divider.jpg"></li>
+	                                          
+	                                          -->
+						                    
+                                          
+                                          
+                                    
+                                          
+                                          
+                                          	
+						                    
+				                                         
+				                                         
+				                                         		  <li id="foodAndNutrition" rel="ternav42" class="">
+				                                         
+				                                         
+
+		                                          
+			                                           
+			                                                <a id="leavingSiteLink_NavBar_foodAndNutrition" href="https://prescriptionsolutionshealthstore.com/food-nutrition.html?store=default">Food &amp; Nutrition</a>
+			                                           
+			                                           
+		                                         
+	                                          </li>
+	                                         <!--  
+	                                                <li class="divider"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/divider.jpg"></li>
+	                                          
+	                                          -->
+						                    
+                                          
+                                          
+                                    
+                                          
+                                          
+                                          	
+						                    
+				                                         
+				                                         
+				                                         		  <li id="homeTreatment" rel="ternav43" class="">
+				                                         
+				                                         
+
+		                                          
+			                                           
+			                                                <a id="leavingSiteLink_NavBar_homeTreatment" href="https://prescriptionsolutionshealthstore.com/home-treatment.html?store=default">Home Treatment</a>
+			                                           
+			                                           
+		                                         
+	                                          </li>
+	                                         <!--  
+	                                                <li class="divider"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/divider.jpg"></li>
+	                                          
+	                                          -->
+						                    
+                                          
+                                          
+                                    
+                                          
+                                          
+                                          	
+						                    
+				                                         
+				                                         
+				                                         		  <li id="monitorsAndElectronics" rel="ternav44" class="">
+				                                         
+				                                         
+
+		                                          
+			                                           
+			                                                <a id="leavingSiteLink_NavBar_monitorsAndElectronics" href="https://prescriptionsolutionshealthstore.com/monitors-electronics.html?store=default">Monitors &amp; Electronics</a>
+			                                           
+			                                           
+		                                         
+	                                          </li>
+	                                         <!--  
+	                                                <li class="divider"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/divider.jpg"></li>
+	                                          
+	                                          -->
+						                    
+                                          
+                                          
+                                    
+                                          
+                                          
+                                          	
+						                    
+				                                         
+				                                         
+				                                         		  <li id="healthShops" rel="ternav45" class="lastMenuItemBorder">
+				                                         
+				                                         
+
+		                                          
+			                                           
+			                                                <a id="leavingSiteLink_NavBar_healthShops" href="https://prescriptionsolutionshealthstore.com/health-shops.html?store=default">Health Shops</a>
+			                                           
+			                                           
+		                                         
+	                                          </li>
+	                                         <!--  
+	                                          -->
+						                    
+                                          
+                                          
+                                     
+                                    <!--
+                                      <li class="right_edge"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/right_edge.jpg" alt=""> </li> 
+                                    
+                                    -->                                          
+                                    </ul>  
+                                                                        
+                                    
+                                   
+                                                        
+                                                         
+                                          </div>  
+                                       
+                              
+                              
+                                    
+                                       
+                                    	                                
+                                          <div id="subnav5" class="tabcontent classlength5">  
+                                                            
+                                    
+                              
+                              
+                            	
+			                    
+			                    	
+			                    	                               
+                                         
+
+                                    <ul>
+                                        <!--  
+                                           <li class="left_edge"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/left_edge.jpg" alt=""></li>
+                                         
+                                          --> 
+                                          
+                                          
+                                          
+                                          	
+						                    
+				                                         
+				                                         
+				                                         		  <li id="GettingStarted" rel="ternav51" class="">
+				                                         
+				                                         
+
+		                                          
+			                                           
+			                                           
+			                                            	
+ 													   
+				                                         	
+				                                         	 
+				                                         														   
+															     <a id="hohmenu" href="/RxSolWeb/mvc/cmsContent.do?pageUrl=/CHP/SpecialtyPharmacy/GettingStarted">Getting Started 
+																</a>
+																
+															
+ 													    
+ 													    												   
+			                                           
+		                                         
+	                                          </li>
+	                                         <!--  
+	                                                <li class="divider"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/divider.jpg"></li>
+	                                          
+	                                          -->
+						                    
+                                          
+                                          
+                                    
+                                          
+                                          
+                                          	
+						                    
+				                                         
+				                                         
+				                                         		  <li id="ProgramsAndServices" rel="ternav52" class="">
+				                                         
+				                                         
+
+		                                          
+			                                           
+			                                           
+			                                            	
+ 													   
+				                                         	
+				                                         	 
+				                                         														   
+															     <a id="hohmenu" href="/RxSolWeb/mvc/cmsContent.do?pageUrl=/CHP/SpecialtyPharmacy/ProgramsAndServices">Programs And Services 
+																</a>
+																
+															
+ 													    
+ 													    												   
+			                                           
+		                                         
+	                                          </li>
+	                                         <!--  
+	                                                <li class="divider"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/divider.jpg"></li>
+	                                          
+	                                          -->
+						                    
+                                          
+                                          
+                                    
+                                          
+                                          
+                                          	
+						                    
+				                                         
+				                                         
+				                                         		  <li id="ConditionsAndTherapies" rel="ternav53" class="">
+				                                         
+				                                         
+
+		                                          
+			                                           
+			                                           
+			                                            	
+ 													   
+				                                         	
+				                                         	 
+				                                         														   
+															     <a id="hohmenu" href="/RxSolWeb/mvc/cmsContent.do?pageUrl=/CHP/SpecialtyPharmacy/ConditionsAndTherapies">Conditions And Therapies 
+																</a>
+																
+															
+ 													    
+ 													    												   
+			                                           
+		                                         
+	                                          </li>
+	                                         <!--  
+	                                                <li class="divider"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/divider.jpg"></li>
+	                                          
+	                                          -->
+						                    
+                                          
+                                          
+                                    
+                                          
+                                          
+                                          	
+						                    
+				                                         
+				                                         
+				                                         		  <li id="priorAuthorizationSpeciality" rel="ternav54" class="">
+				                                         
+				                                         
+
+		                                          
+			                                           
+			                                           
+			                                            	
+ 													   
+				                                         	
+				                                         	 
+				                                         														   
+															     <a id="hohmenu" href="/RxSolWeb/mvc/priorAuth.do?healthTools=false">Prior Authorization 
+																</a>
+																
+															
+ 													    
+ 													    												   
+			                                           
+		                                         
+	                                          </li>
+	                                         <!--  
+	                                                <li class="divider"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/divider.jpg"></li>
+	                                          
+	                                          -->
+						                    
+                                          
+                                          
+                                    
+                                          
+                                          
+                                          	
+						                    
+				                                         
+				                                         
+				                                         		  <li id="safetyAlerts" rel="ternav55" class="lastMenuItemBorder">
+				                                         
+				                                         
+
+		                                          
+			                                           
+			                                           
+			                                            	
+ 													   
+				                                         	
+				                                         	 
+				                                         														   
+															     <a id="hohmenu" href="/RxSolWeb/mvc/cmsContent.do?pageUrl=/CHP/SpecialtyPharmacy/SafetyAlerts">Safety Alerts 
+																</a>
+																
+															
+ 													    
+ 													    												   
+			                                           
+		                                         
+	                                          </li>
+	                                         <!--  
+	                                          -->
+						                    
+                                          
+                                          
+                                     
+                                    <!--
+                                      <li class="right_edge"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/right_edge.jpg" alt=""> </li> 
+                                    
+                                    -->                                          
+                                    </ul>  
+                                                                        
+                                    
+                                   
+                                                        
+                                                         
+                                          </div>  
+                                       
+                              
+                              
+                                    
+                                       
+                                    	                                
+                                          <div id="subnav6" class="tabcontent classlength6">  
+                                                            
+                                    
+                              
+                              
+                            	
+			                    
+			                    	
+			                    	                               
+                                         
+
+                                    <ul>
+                                        <!--  
+                                           <li class="left_edge"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/left_edge.jpg" alt=""></li>
+                                         
+                                          --> 
+                                          
+                                          
+                                          
+                                          	
+						                    
+				                                         
+				                                         
+				                                         		  <li id="drugInformation" rel="ternav61" class="">
+				                                         
+				                                         
+
+		                                          
+			                                           
+			                                           
+			                                            	
+ 													   
+				                                         	
+				                                         	 
+				                                         														   
+															     <a id="hohmenu" href="/RxSolWeb/mvc/drugInformation.do">Drug Information 
+																</a>
+																
+															
+ 													    
+ 													    												   
+			                                           
+		                                         
+	                                          </li>
+	                                         <!--  
+	                                                <li class="divider"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/divider.jpg"></li>
+	                                          
+	                                          -->
+						                    
+                                          
+                                          
+                                    
+                                          
+                                          
+                                          	
+						                    
+				                                         
+				                                         
+				                                         		  <li id="fdaUpdates" rel="ternav62" class="">
+				                                         
+				                                         
+
+		                                          
+			                                           
+			                                           
+			                                            	
+ 													   
+				                                         	
+				                                         	 
+				                                         														   
+															     <a id="hohmenu" href="/RxSolWeb/mvc/cmsContent.do?pageUrl=/CHP/HealthTools/FdaUpdates">FDA Updates 
+																</a>
+																
+															
+ 													    
+ 													    												   
+			                                           
+		                                         
+	                                          </li>
+	                                         <!--  
+	                                                <li class="divider"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/divider.jpg"></li>
+	                                          
+	                                          -->
+						                    
+                                          
+                                          
+                                    
+                                          
+                                          
+                                          	
+						                    
+				                                         
+				                                         
+				                                         		  <li id="DTM" rel="ternav63" class="">
+				                                         
+				                                         
+
+		                                          
+			                                           
+			                                           
+			                                            	
+ 													   
+				                                         	
+				                                         	 
+				                                         														   
+															     <a id="hohmenu" href="/RxSolWeb/mvc/cmsContent.do?pageUrl=/CHP/HealthTools/DiseaseTherapyManagement">Disease Therapy Management 
+																</a>
+																
+															
+ 													    
+ 													    												   
+			                                           
+		                                         
+	                                          </li>
+	                                         <!--  
+	                                                <li class="divider"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/divider.jpg"></li>
+	                                          
+	                                          -->
+						                    
+                                          
+                                          
+                                    
+                                          
+                                          
+                                          	
+						                    
+				                                         
+				                                         
+				                                         		  <li id="priorAuthorization" rel="ternav64" class="">
+				                                         
+				                                         
+
+		                                          
+			                                           
+			                                           
+			                                            	
+ 													   
+				                                         	
+				                                         	 
+				                                         														   
+															     <a id="hohmenu" href="/RxSolWeb/mvc/priorAuth.do?healthTools=true">Prior Authorization 
+																</a>
+																
+															
+ 													    
+ 													    												   
+			                                           
+		                                         
+	                                          </li>
+	                                         <!--  
+	                                                <li class="divider"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/divider.jpg"></li>
+	                                          
+	                                          -->
+						                    
+                                          
+                                          
+                                    
+                                          
+                                          
+                                          	
+						                    
+				                                         
+				                                         
+				                                         		  <li id="healthBasics" rel="ternav65" class="">
+				                                         
+				                                         
+
+		                                          
+			                                           
+			                                           
+			                                            	
+ 													   
+				                                         	
+				                                         	 
+				                                         														   
+															     <a id="hohmenu" href="/RxSolWeb/mvc/cmsContent.do?pageUrl=/CHP/HealthTools/HealthBasics">Health Basics 
+																</a>
+																
+															
+ 													    
+ 													    												   
+			                                           
+		                                         
+	                                          </li>
+	                                         <!--  
+	                                                <li class="divider"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/divider.jpg"></li>
+	                                          
+	                                          -->
+						                    
+                                          
+                                          
+                                    
+                                          
+                                          
+                                          	
+						                    
+				                                         
+				                                         
+				                                         		  <li id="MedicationManagement" rel="ternav66" class="lastMenuItemBorder">
+				                                         
+				                                         
+
+		                                          
+			                                           
+			                                           
+			                                            	
+ 													   
+				                                         	
+				                                         	 
+				                                         														   
+															     <a id="hohmenu" href="/RxSolWeb/mvc/cmsContent.do?pageUrl=/CHP/HealthTools/MedicationManagement">Medication Management 
+																</a>
+																
+															
+ 													    
+ 													    												   
+			                                           
+		                                         
+	                                          </li>
+	                                         <!--  
+	                                          -->
+						                    
+                                          
+                                          
+                                     
+                                    <!--
+                                      <li class="right_edge"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/right_edge.jpg" alt=""> </li> 
+                                    
+                                    -->                                          
+                                    </ul>  
+                                                                        
+                                    
+                                   
+                                                        
+                                                         
+                                          </div>  
+                                       
+                              
+                              
+                                    
+                                       
+                                    	                                
+                                          <div id="subnav7" class="tabcontent classlength7">  
+                                                            
+                                    
+                              
+                              
+                            	
+			                    
+			                    	
+			                    	                               
+                                         
+
+                                    <ul>
+                                        <!--  
+                                           <li class="left_edge"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/left_edge.jpg" alt=""></li>
+                                         
+                                          --> 
+                                          
+                                          
+                                          
+                                          	
+						                    
+				                                         
+				                                         
+				                                         		  <li id="contactUs" rel="ternav71" class="">
+				                                         
+				                                         
+
+		                                          
+			                                           
+			                                           
+			                                            	
+ 													   
+				                                         	
+				                                         	 
+				                                         														   
+															     <a id="hohmenu" href="/RxSolWeb/mvc/cmsContent.do?pageUrl=/CHP/CustomerService/ContactUs">Contact Us 
+																</a>
+																
+															
+ 													    
+ 													    												   
+			                                           
+		                                         
+	                                          </li>
+	                                         <!--  
+	                                                <li class="divider"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/divider.jpg"></li>
+	                                          
+	                                          -->
+						                    
+                                          
+                                          
+                                    
+                                          
+                                          
+                                          	
+						                    
+				                                         
+				                                         
+				                                         		  <li id="helpTopics" rel="ternav72" class="">
+				                                         
+				                                         
+
+		                                          
+			                                           
+			                                           
+			                                            	
+ 													   
+				                                         	
+				                                         	 
+				                                         														   
+															     <a id="hohmenu" href="/RxSolWeb/mvc/cmsContent.do?pageUrl=/CHP/CustomerService/HelpTopics">Help Topics 
+																</a>
+																
+															
+ 													    
+ 													    												   
+			                                           
+		                                         
+	                                          </li>
+	                                         <!--  
+	                                                <li class="divider"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/divider.jpg"></li>
+	                                          
+	                                          -->
+						                    
+                                          
+                                          
+                                    
+                                          
+                                          
+                                          	
+						                    
+				                                         
+				                                         
+				                                         		  <li id="mostUsedForms" rel="ternav73" class="">
+				                                         
+				                                         
+
+		                                          
+			                                           
+			                                           
+			                                            	
+ 													   
+				                                         	
+				                                         	 
+				                                         														   
+															     <a id="hohmenu" href="/RxSolWeb/mvc/cmsContent.do?pageUrl=/CHP/CustomerService/MostUsedForms">Most Used Forms 
+																</a>
+																
+															
+ 													    
+ 													    												   
+			                                           
+		                                         
+	                                          </li>
+	                                         <!--  
+	                                                <li class="divider"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/divider.jpg"></li>
+	                                          
+	                                          -->
+						                    
+                                          
+                                          
+                                    
+                                          
+                                          
+                                          	
+						                    
+				                                         
+				                                         
+				                                         		  <li id="siteTutorials" rel="ternav74" class="">
+				                                         
+				                                         
+
+		                                          
+			                                           
+			                                           
+			                                            	
+ 													   
+				                                         	
+				                                         	 
+				                                         														   
+															     <a id="hohmenu" href="/RxSolWeb/mvc/cmsContent.do?pageUrl=/CHP/CustomerService/WebSiteTour">Website Tour 
+																</a>
+																
+															
+ 													    
+ 													    												   
+			                                           
+		                                         
+	                                          </li>
+	                                         <!--  
+	                                                <li class="divider"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/divider.jpg"></li>
+	                                          
+	                                          -->
+						                    
+                                          
+                                          
+                                    
+                                          
+                                          
+                                          	
+						                    
+				                                         
+				                                         
+				                                         		  <li id="medicalSupplies" rel="ternav75" class="">
+				                                         
+				                                         
+
+		                                          
+			                                           
+			                                           
+			                                            	
+ 													   
+				                                         	
+				                                         	 
+				                                         														   
+															     <a id="hohmenu" href="/RxSolWeb/mvc/cmsContent.do?pageUrl=/CHP/CustomerService/MedicalSuppliesPolicies">Medical Supplies Policies 
+																</a>
+																
+															
+ 													    
+ 													    												   
+			                                           
+		                                         
+	                                          </li>
+	                                         <!--  
+	                                                <li class="divider"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/divider.jpg"></li>
+	                                          
+	                                          -->
+						                    
+                                          
+                                          
+                                    
+                                          
+                                          
+                                          	
+						                    
+				                                         
+				                                         
+				                                         		  <li id="loginAssistance" rel="ternav76" class="">
+				                                         
+				                                         
+
+		                                          
+			                                           
+			                                           
+			                                            	
+ 													   
+				                                         	
+				                                         	 
+				                                         														   
+															     <a id="hohmenu" href="/RxSolWeb/mvc/cmsContent.do?pageUrl=/CHP/CustomerService/LoginAssistance">Login Assistance 
+																</a>
+																
+															
+ 													    
+ 													    												   
+			                                           
+		                                         
+	                                          </li>
+	                                         <!--  
+	                                                <li class="divider"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/divider.jpg"></li>
+	                                          
+	                                          -->
+						                    
+                                          
+                                          
+                                    
+                                          
+                                          
+                                          	
+						                    
+				                                         
+				                                         
+				                                         		  <li id="mediaFiles" rel="ternav77" class="lastMenuItemBorder">
+				                                         
+				                                         
+
+		                                          
+			                                           
+			                                           
+			                                            	
+ 													   
+				                                         	
+				                                         	 
+				                                         														   
+															     <a id="hohmenu" href="/RxSolWeb/mvc/cmsContent.do?pageUrl=/CHP/CustomerService/Media">Media 
+																</a>
+																
+															
+ 													    
+ 													    												   
+			                                           
+		                                         
+	                                          </li>
+	                                         <!--  
+	                                          -->
+						                    
+                                          
+                                          
+                                     
+                                    <!--
+                                      <li class="right_edge"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/backgrounds/navbar/right_edge.jpg" alt=""> </li> 
+                                    
+                                    -->                                          
+                                    </ul>  
+                                                                        
+                                    
+                                   
+                                                        
+                                                         
+                                          </div>  
+                                       
+                              
+                              
+                                    
+                                       
+                                    	                                
+                                          <div id="subnav8" class="tabcontent classlength0">  
+                                                            
+                                    
+                              
+                              
+                            	
+			                    
+			                    	
+			                    	                               
+                                         
+
+                                    <ul>
+                                        <!--  
+                                          --> 
+                                           
+                                    <!--
+                                    -->                                          
+                                    </ul>  
+                                                                        
+                                    
+                                   
+                                                        
+                                                         
+                                          </div>  
+                                       
+                              
+                             
+                      </div>                 
+                        </div> <!--  end of tab container -->
+                       
+                                                               
+                        
+                        
+                             
+                        
+            </form>
+            
+      
+
+<style type="text/css">
+/* generic style */
+div.tile {
+  position: absolute;  
+  width:auto;
+}
+</style>
+
+      <!--// END HEADER SECTION/-->
+
+<div id="dialog_adobe_mail_prescrption" class="prescription_mail_limit" style="display:none;">
+	<div class="modal_container">
+	<h2>Download Adobe Reader To See Forms</h2>
+	<p>To see the PDF prescription form you will create next, you need to have Adobe<span class="reg_symbol">®</span> Reader on your computer.
+	</p>
+	<p>For a free, secure download of Adobe Reader, click Download Reader and follow the instructions.</p>
+	<table class="buttons" style="padding-bottom:30px !important;;">
+		<tbody><tr>
+			<td><a href="/RxSolWeb/mvc/rxDashBoard/displayPrescriptionDashBoardPage.do">
+			 <img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/branding/buttons/Back_btn_ON.png" class="fl_left over" alt="Back" title="Back" id="adobeBackMailPrescription"></a></td>
+			<td style="width:227px;"><a id="dialog_adobe_mail_download" href="http://get.adobe.com/reader/" target="_blank"> <img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/buttons/download_reader.png" alt="Download Reader" title="Download Reader"> </a></td>
+		</tr>
+		</tbody></table>
+
+	</div>
+</div>
+
+ 
+
+<div id="dialog_adobe_prescrption" class="prescription_limit" style="display:none;">
+	<div class="modal_container">
+	<h2>Download Adobe Reader To See Forms</h2>
+	<p>To see the PDF prescription form you will create next, you need to have Adobe<span class="reg_symbol">®</span> Reader on your computer.
+	</p>
+	<p>For a free, secure download of Adobe Reader, click Download Reader and follow the instructions.</p>
+	<table class="buttons" style="padding-bottom:30px !important;">
+		<tbody><tr>
+			<td><input type="image" src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/branding/buttons/Back_btn_ON.png" class="over fl_left" alt="Back" title="Back" id="adobeBackPrescription"></td>
+			<td style="width:227px;"><a id="dialog_adobe_mail_download" href="http://get.adobe.com/reader/" target="_blank"> <img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/buttons/download_reader.png" alt="Download Reader" title="Download Reader"> </a></td>
+		</tr>
+		</tbody></table>
+
+	</div>
+</div>
+
+<div id="dialog_adobe_application" class="application_adobe_limit" style="display:none;height:auto!important;">
+	<div class="modal_container">
+	<h2>Download Adobe Reader </h2>
+	<p>To download and see PDF files, including many forms, you need to have Adobe<span class="reg_symbol">®</span> Reader on your computer. </p>
+	<p>For a free, secure download of Adobe Reader, click Download Reader and follow the instructions.</p>
+	<table class="buttons" style="padding-bottom:30px !important;">
+		<tbody><tr>
+			<td><input type="image" src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/branding/buttons/Back_btn_ON.png" class="over fl_left" alt="Back" title="Back" id="adobeBackGeneric"></td>
+			<td style="width:227px;"><a id="dialog_adobe_mail_download" href="http://get.adobe.com/reader/" style="float:left;" target="_blank"> <img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/buttons/download_reader.png" alt="Download Reader" title="Download Reader"> </a></td>
+		</tr>
+	
+	</tbody></table>
+
+	</div>
+</div>
+
+
+<style type="text/css">
+.leavingSiteNoticeClass {display:none; height: auto !important; top: 100px !important;}
+.ui-dialog .leavingSiteNoticeClass { z-index: 10001; height: auto !important; top: 100px !important;}
+
+.leavingSiteNoticeClassFixedSize {display:none; height: auto !important; top: 100px !important;}
+.ui-dialog .leavingSiteNoticeClassFixedSize { z-index: 10001; height: auto !important; top: 100px !important;}
+</style>
+ 
+<script type="text/javascript">
+ 
+	$jq(document).ready(function(){
+	
+		$jq(".crossbutton").click(function() {
+			$jq("#dialogLeavingSite").dialog('close').css("display","none");
+			$jq("#dialogLeavingSiteFixedSize").dialog('close').css("display","none");
+		});
+		
+		
+		$jq('#dialogLeavingSite').bgiframe();
+        $jq("#dialogLeavingSite").dialog({autoOpen: false, modal: true, overlay: {opacity:0.5, background:"black" }, bgiframe:true });
+		
+		$jq('#dialogLeavingSiteFixedSize').bgiframe();
+        $jq("#dialogLeavingSiteFixedSize").dialog({autoOpen: false, modal: true, overlay: {opacity:0.5, background:"black" }, bgiframe:true });
+		
+		
+		// If you want a 'leavingSite' popup to show for a link, just give it 
+		// a unique id attribute for it's page and add the name to this array.
+		var leavingSiteLinkIds = new Array(
+			"leavingSiteLink_ShopNow", 
+			
+			"leavingSiteLink_SiteMap_HealthStore", 
+			"leavingSiteLink_SiteMap_FitnessExercise", 
+			"leavingSiteLink_SiteMap_FoodNutrition",
+			"leavingSiteLink_SiteMap_HomeTreatment",
+			"leavingSiteLink_SiteMap_MonitorsElectronics",
+			"leavingSiteLink_SiteMap_HealthShops", 
+			
+			"leavingSiteLink_NavBar_healthStore", 
+			"leavingSiteLink_NavBar_fitnessAndExercise", 
+			"leavingSiteLink_NavBar_foodAndNutrition",
+			"leavingSiteLink_NavBar_homeTreatment",
+			"leavingSiteLink_NavBar_monitorsAndElectronics",
+			"leavingSiteLink_NavBar_healthShops"
+			);
+		// Note all fully qualified links coming from dynamicMenuRules.xml will have their 
+		// link id in the format of "leavingSiteLink_NavBar_{id}"
+		for (i=0;i<leavingSiteLinkIds.length;i++) {
+			var currLink = '#' + leavingSiteLinkIds[i]; // append # for id selector
+			$jq(currLink).click(function(event) { 
+				event.preventDefault(); // prevent link from going to href url just yet
+				var href = $jq(this).attr("href"); // get href
+				showLeavingSitePopup(href);
+			});
+		}
+		
+		// display 'leaving site' popup with continueUrl to go to if 'Continue' clicked
+		function showLeavingSitePopup(continueUrl)
+		{
+			$jq('#leavingSiteContinue').attr("href", continueUrl); // set href to 'continue' button
+	    	$jq(".leavingSiteNoticeClass").dialog('open').css("display","block").css("height","auto");
+	       	$jq("#leavingSiteNoticeId").css("display", "block").css("height","auto");
+		}
+		
+		// for cancelling from the 'Leaving Site' popup.
+		$jq('#leavingSiteCancel').click(function() { 
+	    	$jq(".leavingSiteNoticeClass").dialog('close').css("display","none"); 
+		});
+		
+		// for continuing from the 'Leaving Site' popup.
+		$jq('#leavingSiteContinue').click(function() { 
+	    	$jq(".leavingSiteNoticeClass").dialog('close').css("display","none"); 
+		});
+		
+		// display 'leaving site' popup with continueUrl to go to if 'Continue' clicked
+		function showLeavingSitePopupFixedSize(continueUrl)
+		{
+			$jq('#leavingSiteContinueFixedSize').attr("href", continueUrl); // set href to 'continue' button
+	    	$jq(".leavingSiteNoticeClassFixedSize").dialog('open').css("display","block").css("height","auto");
+	       	$jq("#leavingSiteNoticeIdFixedSize").css("display", "block").css("height","auto");
+		}
+		
+		// for cancelling from the 'Leaving Site' popup.
+		$jq('#leavingSiteCancelFixedSize').click(function() { 
+	    	$jq(".leavingSiteNoticeClassFixedSize").dialog('close').css("display","none"); 
+		});
+		
+		// for continuing from the 'Leaving Site' popup.
+		$jq('#leavingSiteContinueFixedSize').click(function() { 
+	    	$jq(".leavingSiteNoticeClassFixedSize").dialog('close').css("display","none"); 
+		});
+		
+		
+        // (from site header) if member searching Health Store, open new  
+        // window to Paquin search results while remaining on same CHP page
+        $jq("#headSearchButton").click(function() {
+	      	var myRadioValue = $jq('form[name="search"] #search_options input[type="radio"]:checked').val();
+	     	if(myRadioValue=='p') {
+	     		var searchTerm = $jq('form[name="search"] input[name="keyWords"]').val();
+	     		var searchUrl = "https://prescriptionsolutionshealthstore.com/catalogsearch/result/?q=" + searchTerm + "&store=default";
+	     		showLeavingSitePopup(searchUrl);
+	     		return false;
+     		}
+        }); 
+		
+        // (from home page) if member searching Health Store, open new  
+        // window to Paquin search results while remaining on same CHP page
+        $jq("#homeSearchButton").click(function() {
+      		var myRadioValue = $jq('form[name="search"] #home_search_options input[type="radio"]:checked').val();
+     		if(myRadioValue=='p') {
+	     		var searchTerm = $jq('form[name="search"] input[name="keyWords"]').val();
+	     		var searchUrl = "https://prescriptionsolutionshealthstore.com/catalogsearch/result/?q=" + searchTerm;
+	     		showLeavingSitePopupFixedSize(searchUrl);
+	     		return false;
+     		}
+        });
+		
+	});
+	
+</script>
+
+
+<div id="dialogLeavingSite" class="leavingSiteNoticeClass" style="height: auto !important; top: 100px !important;padding-bottom:0px;">
+<div class="modal_container" style="padding-bottom: 20px; margin-bottom: 10px; height: auto !important; top: 100px !important;padding-top:0px;">
+	<div id="leavingSiteNoticeId" style="display: block; height: auto !important;top: 100px !important;">
+		<h2 style="float:left;">Leaving PrescriptionSolutions.com</h2>
+		<a id="" name="" href="#">
+<img class="crossbutton" alt="Close" title="Close" src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/branding/buttons/X_Button.png" style="float: right;margin-top:15px;margin-right:10px;">
+</a>
+		<p>
+		You are about to leave the Prescription Solutions by OptumRx website. As a convenience, this link will take you to a third party website where you may browse or purchase over-the-counter (OTC) medications and health and wellness products and/or services (collectively, "Products").   
+		</p>
+		<p>
+		The Products offered on this website will be sold and shipped by The Paquin Healthcare Companies.    Paquin is not affiliated with Prescription Solutions by OptumRx or UnitedHealth Group. Prescription Solutions by OptumRx does not endorse the content of the Paquin website or any Products offered by Paquin through its site or by calling Paquin's customer service phone lines. Prescription Solutions by OptumRx also does not endorse the accuracy of the information or the appropriateness or effectiveness of the Products available from Paquin.
+		</p>
+		<p>
+		Do you want to leave PrescriptionSolutions.com?
+		</p>
+		<div class="buttons" style="margin-right:30px;">
+			<a href="javascript:void(0);" id="leavingSiteCancel">
+				<img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/branding/buttons/NoThanks_btn_ON.png" alt="No thanks" title="No thanks" class="fl_left green_button tourbutton over" style="margin-bottom:30px;">
+			</a>
+			<a href="javascript:void(0);" target="_blank" id="leavingSiteContinue">
+				<img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/branding/buttons/Yes_btn_ON.png" alt="Yes" title="Yes" class="fl_right green_button tourbutton over" style="margin-bottom:30px;">
+			</a>
+		</div>
+	</div>
+</div>
+</div>
+
+<div id="dialogLeavingSiteFixedSize" class="leavingSiteNoticeClassFixedSize" style="height: auto !important; top: 100px !important;padding-bottom:0px;">
+<div class="modal_container" style="padding-bottom: 50px; margin-bottom: 10px; height: auto !important; top: 100px !important;padding-top:0px;">
+	<div id="leavingSiteNoticeIdFixedSize" style="display: block; height: auto !important;top: 100px !important;">
+		<h2 style="font-size: 16px !important; line-height: 20px !important;float:left;">Leaving PrescriptionSolutions.com</h2>
+		<a id="" name="" href="#">
+<img class="crossbutton" alt="Close" title="Close" src="https://consumer-dev.uhc.com/rxsol/chp/html/ps/branding/buttons/X_Button.png" style="margin-top:15px;margin-right:10px;float: right;">
+</a>
+		<p style="font-size: 13px !important; line-height: 19px !important;">
+		You are about to leave the Prescription Solutions by OptumRx website. As a convenience, this link will take you to a third party website where you may browse or purchase over-the-counter (OTC) medications and health and wellness products and/or services (collectively, "Products").   
+		</p>
+		<p style="font-size: 13px !important; line-height: 19px !important;">
+		The Products offered on this website will be sold and shipped by The Paquin Healthcare Companies.    Paquin is not affiliated with Prescription Solutions by OptumRx or UnitedHealth Group. Prescription Solutions by OptumRx does not endorse the content of the Paquin website or any Products offered by Paquin through its site or by calling Paquin's customer service phone lines. Prescription Solutions by OptumRx also does not endorse the accuracy of the information or the appropriateness or effectiveness of the Products available from Paquin.
+		</p>
+		<p style="font-size: 13px !important; line-height: 19px !important;">
+		Do you want to leave PrescriptionSolutions.com?
+		</p>
+		<div class="buttons" style="margin-right:30px;">
+			<a href="javascript:void(0);" id="leavingSiteCancelFixedSize">
+				<img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/branding/buttons/NoThanks_btn_ON.png" alt="No thanks" title="No thanks" class="fl_left green_button tourbutton over" style="margin-bottom:30px;">
+			</a>
+			<a href="javascript:void(0);" target="_blank" id="leavingSiteContinueFixedSize">
+				<img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/branding/buttons/Yes_btn_ON.png" alt="Yes" title="Yes" class="fl_right green_button tourbutton over" style=" ">
+			</a>
+		</div>
+	</div>
+</div>
+</div>
+
+
+<script type="text/javascript">
+	var sessionTimeout = 900;
+    var timer;
+	$jq(document).ready(function(){
+		$jq('#dialog').bgiframe();
+        $jq("#dialog").dialog({autoOpen: false, modal: true, overlay: {opacity:0.5, background:"black" }, bgiframe:true });
+		
+      });
+     
+</script>
+
+<div id="dialog" class="sessionTimeOut tour">
+<div class="modal_container" style="*padding-left:15px;">
+	<div id="sessionTimedOutReminder" style="display: none;">
+		<h2>Your session will time out in 5 minutes</h2>
+		<p>Your screen has not been active for several minutes.  For your security we will log you out in five minutes. 
+		If you would like to stay logged in, click Stay Logged In below. 
+		If you are ready to log out, click Logout or you will automatically be logged out in five minutes
+		</p>
+		
+		<div class="buttons" style="*margin-bottom:20px;">
+		
+			
+			
+				<a href="/RxSolWeb/mvc/j_spring_security_logout">
+					<img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/branding/buttons/LogOut_btn_ON.png" alt="Logout" title="Logout" class="fl_left green_button over leftbtn">
+				</a>
+			
+		
+		<a href="#" id="resetTimers">
+			<img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/branding/buttons/StayLoggedIn_btn_ON.png" alt="Stay Logged In" title="Stay Logged In" class="fl_right green_button tourbutton over rightbtn" style="*margin-right:20px;">
+		</a>
+		</div>
+	</div>
+
+	<div id="sessionTimedOut" style="display: none;">
+	
+		<h2>Sorry, your session has timed out</h2>
+		<p>Your screen was not active for several minutes. For your security we logged you out of the system. If you would like to log back in, click Log In below. Or you may click Close to close this window. </p>
+		
+		<div class="buttons" style="padding-top:20px;*padding-top:0px;*margin-right:20px;">
+		
+			
+			
+				<a href="/RxSolWeb/mvc/home.do" id="closeWindow">
+					<img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/branding/buttons/Close_btn_ON.png" alt="Close" title="Close" class="fl_left green_button over leftbtn">
+				</a>
+			
+		
+		
+			
+			
+				<a href="/RxSolWeb/mvc/j_spring_security_logout">
+					<img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/branding/buttons/LogIn_btn_ON.png" alt="Login" title="Login" class="fl_right green_button tourbutton over rightbtn">
+				</a>
+			
+		
+		</div>
+	</div>
+
+</div>
+</div>
+
+<style type="text/css">
+.sessionTimeOut {display:none;}
+.ui-dialog .sessionTimeOut {z-index: 10002;}
+#header table
+{
+	top:0 !important;
+	margin-left:0px;
+}	
+</style>
+    <div id="content" class="sppt">
+    <!-- Below TITLE is added for Search indexing --> 
+        <script type="text/javascript">
+       		document.title = "Prescription Solutions by OptumRx - Our Privacy Policy";
+        </script>
+        <div id="secondaryContent"></div>
+        <div id="primaryContent">
+            <h1 id="ptp">Privacy Statement</h1>
+            <h1 id="ptp"><span id="ptplink" style="display: block;"><a href="javascript:;" onclick="javascript:showPrintPreviewGeneric();">Print This Page</a></span></h1>
+            <div id="main_content">
+               <!-- <div class="top">&nbsp;</div> -->
+                <div class="content">
+                    <!--// CONTENT GOES HERE //-->
+                    <!--?xml version="1.0" encoding="UTF-8" ?-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/js/cms.js"></script>
+<script src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/js/jquery.tablesorter.js"></script>
+<script type="text/javascript">
+
+if( typeof docUri == 'undefined' ){
+    var docUri = "";
+}
+
+
+//OVERRIDE analytics.jspf
+ 
+docUri = "\x2FCHP\x2FFooter\x2FPrivacyPolicy";
+if( docUri == null || docUri == "null" || docUri == "" ){
+    
+    
+    docUri = "null";
+    
+    
+}
+
+
+// To display customer service page dynamically based on the brand only in static pages.
+ function displayCustomerServiceLink() {
+   	  	 window.location.href="/RxSolWeb/mvc/customerService.do";
+}
+ 
+$jq(document).ready(function(){
+	var brand = 'default';
+    //when brand is chnaged from default to proact or prx , display sitename dynamically 
+    $jq("span").each(function(){
+       if(($jq(this).text()== "Prescription Solutions") || ($jq(this).text()=="PRESCRIPTION SOLUTIONS"))
+       {
+             $jq(this).replaceWith('Prescription Solutions by OptumRx');
+       }
+       
+        if(($jq(this).text()== "first.dba"))
+       {
+	
+		$jq(this).replaceWith("Prescription Solutions by OptumRx");
+	   }
+       
+       if(($jq(this).text()== "other.dba"))
+       {
+      	$jq(this).replaceWith("Prescription Solutions");
+       }
+       
+        if(($jq(this).text()== "first.dba.branding"))
+      	 {
+      	 if(brand == 'default')
+      	 {
+      		$jq(this).replaceWith("Prescription Solutions by OptumRx");
+      	 }
+      	 else
+      	 
+      	 {
+      	 	$jq(this).replaceWith('Prescription Solutions by OptumRx');
+      	 }
+       }
+       
+       if(($jq(this).text()== "other.dba.branding"))
+       {
+      	if(brand == 'default')
+      	 {
+      		$jq(this).replaceWith("Prescription Solutions");
+      	 }
+      	 else
+      	 
+      	 {
+      	 	$jq(this).replaceWith('Prescription Solutions by OptumRx');
+      	 }
+       }
+           
+     //when brand is chnaged from default to proact or prx , display the phone number dynamically   
+     if($jq(this).text()== 'default_customer_service_number')
+     {
+       $jq(this).replaceWith('<b>1.800.788.4863</b>');
+     }
+	});
+});
+
+function displayContactUsLink(){
+	var msoUser = "false";
+	var brand="default";
+	if (brand == 'proact' && msoUser != 'true')
+	{
+   	  	 window.open("http://www.proactrx.com/about_us.php#contact");  
+   	}
+   	else if(brand == 'prx' && msoUser != 'true')
+   	{
+   	  	window.open("http://www.partnersrx.com/contactus.html");
+   	} 
+   	  else
+   	  {
+	  	 window.location.href="/RxSolWeb/mvc/cmsContent.do?pageUrl=/CHP/CustomerService/ContactUs"; 	
+   	  }
+}
+
+</script>
+
+  <!-- Added to show the disclaimer in print this page pop up for static pages -->
+  <input type="hidden" id="disclaimer" value=""> 
+  
+   <!-- Added to show the print this page link and Search Text-->
+  <script>
+ 	var isPrintPage='YES';
+ 	if(isPrintPage == 'YES')
+ 	{
+ 		showPTPLink();
+
+ 		function showPrintPreviewGeneric() {	
+ 	 		showPrintPreviewStaticPages('#print_content',600,750);
+ 			}
+ 	}
+
+ 	document.title = "PrescriptionSolutions.com - Our Privacy Policy";
+ 	
+</script>
+	
+<!-- Added for Page Setting - Starts -->
+
+	
+	<style type="text/css">
+	.align_left_branding{margin-left:0;}
+	</style>
+		<script type="text/javascript">
+			var primaryMenu='none';
+			var secondaryMenu='none';	
+			var position = ddtabmenu.getMenuIndex("ddtabs1",primaryMenu); 
+			ddtabmenu.definemenu("ddtabs1", position );
+			var thisSubnav = secondaryMenu;
+			 
+			
+ 			
+		</script>
+		
+		
+		
+	
+	
+
+<!-- Added for Page Setting - Ends -->
+
+
+
+
+    <div class="align_left_branding">
+	<div id="print_content">
+<h3>Notice of Privacy Practices</h3>
+
+<p class="print_no_display">View the Health Insurance Portability and Accountability Act of 1996 (HIPAA) Notice of Privacy Practices, please select the link below.</p>
+
+<p><a target="_blank" href="https://www.prescriptionsolutions.com/vgnlive/CHP/Assets/PDF/Printable_2010_Privacy_Policy.pdf"><img alt="Open PDF" src="https://www.prescriptionsolutions.com/vgnlive/CHP/Assets/Images/pdf.gif"></a> <a target="_blank" href="https://www.prescriptionsolutions.com/vgnlive/CHP/Assets/PDF/OPTUMRx_NP_2012.pdf">Printable Privacy Policy</a><br>
+</p>
+
+<p><b>Privacy</b></p>
+
+<p><b>HIPAA Notice of Privacy Practice:</b> To read more about our privacy practices regarding health and medical information under Health Insurance Portability and Accountability Act ("HIPAA", please <a href="https://www.prescriptionsolutions.com/vgnlive/CHP/Assets/PDF/OPTUMRx_NP_2012.pdf">click here</a>, which links to our HIPAA Notice of Privacy Practices.</p>
+
+<p><b>&nbsp;Website Privacy Policy</b></p>
+
+<p><b>Introduction</b></p>
+
+<p>We are very sensitive to privacy issues. The purpose of this Website Privacy Policy is to let you know how we handle the information we receive from you through this website. Portions of this website may describe additional privacy practices applicable to specific types of information or to information provided on specific Web pages</p>
+
+<p>This Website Privacy Policy does not apply to information collected through other means such as by telephone or in person, although that information may be protected by other privacy policies. As used in this Website Privacy Policy, terms such as “we” or “our” and “Company” refer to <span>first.dba</span> and its current and future affiliate entities.</p>
+
+<p>This site is intended for a United States audience. If you access this site from outside the U.S., you acknowledge, agree, and consent that any information you provide, including any personal information, will be transferred to and processed by a computer server located within the U.S., and subject to U.S. laws and regulations. Further, if you access this site from outside the U.S., you acknowledge and agree that you are responsible for compliance with any applicable local or national laws, rules or regulations applicable to such use.</p>
+
+<p><b>Cookies and non-personal information</b></p>
+
+<p>“Non-personal information” means information that does not permit us to specifically identify you by your full name or similar unique identifying information such as a social security number, member identification number, address or telephone number. The Company uses “cookie” technology and similar technology to gather non-personal information from our website visitors such as which pages are used and how often they are used, and to enable certain features on this website.</p>
+
+<p>You may disable these cookies and similar items by adjusting your browser preferences on your computer at any time; however, this may limit your ability to take advantage of all the features on this website. Keep in mind that cookies are not used to collect any personal information and do not tell us who you are. Some examples of the way we use cookies include:</p>
+
+<ul>
+<li>Tracking resources and data accessed on the site.</li>
+
+<li>Recording general site statistics and activity.</li>
+
+<li>Assisting users experiencing website problems.</li>
+
+<li>Enabling certain functions and tools on this website.</li>
+
+<li>Tracking paths of visitors to this site and within this site.</li>
+</ul>
+
+<p>We may also collect other forms of non-personal information such as what web browsers are used to read our website and what websites are referring traffic or linking to our website. Aggregate and de-identified data regarding website users is also considered non-personal information.</p>
+
+<p><b>With whom is non-personal information shared?</b></p>
+
+<p>Because non-personal information does not identify who you are, we do not limit the ways we may use or share non-personal information. For example, we may share non-personal information with our affiliates, suppliers, employees and agents, other businesses, and the government.</p>
+
+<p><b>Personal information provided by you</b></p>
+
+<p>“Personal information” means information that we will collect that specifically identifies you as an individual, such as your full name, telephone number, e-mail address, postal address, or certain account numbers. As used in this Website Privacy Policy, personal information does not include information protected under HIPAA, which is protected as described in the section “HIPAA Notice of Privacy Practices” above.</p>
+
+<p>This website may include web pages that give you the opportunity to provide personal information about yourself that will be collected by us. <b>You do not have to provide us with personal information if you do not want to; however, that may limit your ability to use certain functions of this website or to request certain services or information.</b></p>
+
+<p>We may combine personal information that you provide us through this website with other personal information held by the Company, including with affiliates or our vendors. For example, if you have purchased a product or service from us, we may combine personal information you provide through this website with information regarding your receipt of the product or service.</p>
+
+<p>We may use personal information for a number of purposes such as:</p>
+
+<ul>
+<li>To respond to an e-mail or particular request from you.</li>
+
+<li>To personalize the website for you.</li>
+
+<li>To process an application as requested by you.</li>
+
+<li>To provide you with information that we believe may be useful to you, such as information about health products or services provided by us or other businesses.</li>
+
+<li>To comply with applicable laws, regulations, and legal process.</li>
+
+<li>To protect someone's health, safety, or welfare.</li>
+
+<li>To protect our rights, the rights of affiliates or related third parties, or take appropriate legal action, such as to enforce our Terms of Use.</li>
+
+<li>To keep a record of our transactions and communications.</li>
+
+<li>As otherwise necessary or useful for us to conduct our business, so long as such use is permitted by law.</li>
+
+<li style=" list-style-type: none; list-style-image: none;">
+<p>You understand and specifically agree that we may use personal information to contact you, to the extent permitted by law, through any contact information you provide through this website, including any email address, telephone number, cell phone number, text message number, or fax number.</p>
+
+<p><b>With whom is personal information shared?</b></p>
+
+<p>We will only share your personal information with third parties as outlined in this Website Privacy Policy (in its current or future form) and as otherwise permitted by law.</p>
+
+<p>We share and give access to personal information to our employees and agents in the course of operating our businesses. For example, if you sent us an e-mail asking a question, we would provide your e-mail address to one of our employees or agents, along with your question, in order for that person to reply to your e-mail. We may share personal information with other affiliates or business units within the Company.</p>
+
+<p>We may share and give access to personal information with other companies that we hire to perform services on our behalf or collaborate with. For example, we may hire an outside company to help us send and manage e-mail, and in that case we might provide the outside company with your e-mail address and certain other information in order for them to send you an e-mail message on our behalf. Similarly, we may hire outside companies to host or operate some of our websites and related computers and software applications.</p>
+
+<p>However, if we share or give access to personal information to outside companies we require them to use the personal information only for limited purposes, such as for sending you the e-mail in the example above. If you believe we or any company associated with the Company has misused any of your information please contact us immediately and report such misuse.</p>
+
+<p>We may share personal information if all or part of the Company is sold, merged, dissolved, acquired, or in a similar transaction.</p>
+
+<p>We may share personal information in response to a court order, subpoena, search warrant, law or regulation. We may cooperate with law enforcement authorities in investigating and prosecuting website visitors who violate our rules, or engage in behavior that is harmful to other visitors, or is illegal.</p>
+
+<p>If you submit information or a posting to a chat room, bulletin board, or similar “chat” related portion of this website, the information you submit along with your screen name will be visible to all visitors, and such visitors may share with others. Therefore, please be thoughtful in what you write and understand that this information may become public.</p>
+
+<p><b>Reviewing my information</b></p>
+
+<p>This website may permit you to view your visitor profile and related personal information and request changes to such information. If this function is available, we will include a link on this website with a heading such as “Manage My Profile” or similar words. Clicking on the link will take you to a page (“Manage My Profile” or similar words) through which you may review and request changes to your visitor profile and related personal information.</p>
+
+<p><b>Website and information security</b></p>
+
+<p>We use a number of physical security (such as locks and alarm systems), electronic security (such as passwords and encryption methods), and procedural security methods (such as rules regarding the handling and use of information), designed to protect the security and integrity of information submitted through this website. Due to the nature of the Internet and on-line communications, however, we can not guarantee that any information transmitted on-line will remain absolutely confidential, and we are not liable for the acts of third parties such as criminal hackers. Please be advised that when you are accessing our site’s third party tools (including, but not limited to, Google maps), such third party may also collect information about you, including, but not limited to, non-personal information such as an Internet protocol (IP) address, and the information they collect is covered under that particular third party’s privacy policies, not <span>other.dba</span>’ Website Privacy Policy.</p>
+
+<p><b>Our online communication practices</b></p>
+
+<p>General e-mail communications<br>
+Most e-mail, including any e-mail functionality on our site, does not provide a completely secure and confidential means of communication. It is possible that your e-mail communication may be accessed or viewed inappropriately by another Internet user while in transit to us. If you wish to keep your information completely private, you should not use e-mail. We may send e-mail communications to you regarding topics such as general health benefits, website updates, health conditions, and general health topics.</p>
+
+<p>Other online communications<br>
+The Company sends electronic newsletters, notification of account status, and other communications such as information marketing other products or services offered by us, on a periodic basis to various individuals and organizations. To opt-out of any specific electronic communication you're receiving, click on the opt-out button associated with the specific communication.</p>
+
+<p><b>Information for children under 13</b></p>
+
+<p>We will not intentionally collect any personal information from children under the age of 13 through this website. If you think that we have collected personal information from a child under the age of 13 through this website, please contact us.</p>
+
+<p><b>Contact us</b></p>
+
+<p>The Effective Date of this Privacy Policy is July 29, 2011.</p>
+
+<p><b>Changes to this Website Privacy Policy</b></p>
+
+<p>We may change this Website Privacy Policy. If we do so such change will appear on this page of our website or in another location as indicated by us. Material changes will be implemented by a change in the effective date of the Website Privacy Policy. It is your responsibility to review the Website Privacy Policy each time you use this website. By continuing to use this website, you consent to any changes to our Website Privacy Policy.</p>
+</li>
+</ul>
+</div>         
+	
+	
+	<!--Added for Disclaimer -->
+    
+    </div>
+
+	
+
+
+
+
+
+
+                    <!--// END CONTENT //-->
+                   
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+.disc_down{margin: 0 !important; padding: 0 !important;}
+</style>
+<!-- //THIRD PARTY DISCLAIMER // -->
+
+  						
+	
+<!-- //END DISCLAIMER CONTENT // -->
+                </div>
+               <!-- <div class="bottom">&nbsp;</div> -->
+            </div>
+        </div> <!-- end of primaryContent -->
+        <div id="tertiaryContent">        	
+        	
+        		 
+    		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+<script type="text/javascript">
+function isZip(s){
+	    reZip = new RegExp(/(^\d{9}$)|(!\s)|(^\d{5}$)|(^\d{5}-\d{4}$)/);
+	    if (!reZip.test(s)) {
+	         return false;
+	    }
+		return true;
+  }
+  
+  function analytic_webTrendTagPharmacyLocator(zipcode) {
+<!--//	  dcsMultiTrack('DCS.dcssip','www.prescriptionsolutions.com','DCS.dcsuri','/myprescription/zipcode.evt?Zip='+zipcode,'WT.ti','My Prescription - Locate A Pharmacy','WT.cg_n','CONSUMER','WT.si_n','','WT.si_p','','WT.si_x','','WT.seg_1','','WT.vhseg_1','','WT.seg_2','','WT.vhseg_2','','WT.pn_sku','','WT.tx_u','','WT.tx_s','');-->
+  }
+ 
+ function validateZipForm ( form ){
+	 if(form!=null)	 {
+	    if(isZip(form.zipCode.value) == false){
+		    alert("Please enter a valid Zip Code. An example of a valid Zip Code is 90210 or 90210-4000.");
+		    return false ;
+	    }	   
+	  }
+	 analytic_webTrendTagPharmacyLocator(form.zipCode.value);	    
+	 return true;
+ } 
+ 
+    function searchKey(e)
+    {
+   		 // look for window.event in case event is not passed in
+       if (window.event)
+       { 
+       	   e = window.event; 
+       }
+       if (e.keyCode == 13)
+       {
+            var result=validateZipForm(document.getElementById('toolPharmacyForm'));          
+	       	return result;;
+       }
+    }
+    
+    jQuery(document).ready(function(){   
+    	jQuery('link[rel*=style][title]').each(function(i) 
+		{
+	    	if(this.disabled == false) 
+			{
+				if (this.getAttribute('title') == 'medium') 
+				{
+					jQuery('.realTimeBenefitsTableFT').css('margin-left','0px');
+				}
+				else if (this.getAttribute('title') == 'large')
+				{
+					jQuery('.realTimeBenefitsTableFT').css('margin-left','16px');
+				}
+			}
+		});
+		jQuery('#switch3').click(function(){
+			jQuery('.realTimeBenefitsTableFT').css('margin-left','0px');
+		});
+		jQuery('#switch2').click(function(){
+			jQuery('.realTimeBenefitsTableFT').css('margin-left','16px');
+		});
+    	if (jQuery.browser.msie) 
+		{
+			jQuery(".realtimepdpstyle").css('padding-right','7px');
+			
+		}
+		else
+		{
+			jQuery(".realtimepdpstyle").css('padding-right','0px');
+		}
+    });
+</script>
+	
+<style>
+<!-- Scroll Fix for Shopping Cart Quick Link Text -->
+.ie6 .scrollfix{position: fixed !important;}
+.ie7 .scrollfix{position: fixed !important;}
+.ie6 #clicktocallFtools {position: fixed !important; height: 195px !important}
+.ie7 #clicktocallFtools {position: fixed !important; height: 195px !important}
+div#search_options table tr th
+{
+	width:25px;
+	margin:0;
+	padding:5px;
+	padding-left:15px;
+}
+.ie div#search_options table tr th
+{
+	padding:3px;
+	padding-left:15px;
+}
+.ie div#search_options table tr td
+{
+	padding:3px;
+}
+div#search_options table tr td
+{
+	width:145px;
+	text-align:left;
+	margin:0;
+	padding:5px;
+	padding-left:6px;
+}
+
+table.realTimeBenefitsTableFT tr td
+{
+    padding-left: 0;
+    padding-right: 0;
+}
+</style>
+
+
+
+
+
+
+
+
+<div id="rightAreaSection1">
+<div class="rightAreaSection1Content">
+
+
+		<form name="search" action="/RxSolWeb/search.ep" method="GET">
+		<div id="search" align="center">		
+		<input type="text" maxlength="40" class="inputboxSearch" value="Search" name="keyWords">
+    	<div id="search_options">
+        	<table cellpadding="0" cellspacing="0" border="0">
+            	<tbody><tr>
+                	<td colspan="2" class="right" style="padding-top:5px; padding-right:5px; width:100%;"><img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/branding/buttons/X_Button.png" class="close" alt="Close" title="Close"></td>
+                </tr>
+                <tr><th><input type="radio" class="radio_selects" name="collection" value="s" id="s" checked=""></th><td><label for="s">Entire Site</label></td></tr>
+                <tr><th><input type="radio" class="radio_selects" name="collection" value="p" id="p"></th><td><label for="p">Health Store</label></td></tr>
+                <tr><th><input type="radio" class="radio_selects" name="collection" value="m" id="m"></th><td><label for="m">Medications</label></td></tr>
+                <tr><th><input type="radio" class="radio_selects" name="collection" value="e" id="e"></th><td><label for="e">Educational</label></td></tr>
+                <tr><th><input type="radio" class="radio_selects" name="collection" value="f" id="f"></th><td><label for="f">Forms</label></td></tr>
+                <tr><th><input type="radio" class="radio_selects" name="collection" value="d" id="d"></th><td><label for="d">Media</label></td></tr>
+                <tr><td colspan="2" class="right" style="width:100%; padding-right:5px; padding-bottom:5px;"><input type="image" id="headSearchButton" src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/branding/buttons/Search_btn_ON.png" class="over" alt="Search" title="Search"></td></tr>                          
+           </tbody></table>
+        </div></div>  </form><!-- end of search_options -->
+	<!-- end of search -->
+	<div class="right_help1">
+		<a href="/RxSolWeb/mvc/cmsContent.do?pageUrl=/CHP/CustomerService/HelpTopics/TechnicalQuestions#8">Help</a>
+	</div>
+	
+
+
+<div class="cart_details">
+	<h3 id="numofcarts" class="noitemsstyle" style="margin-left:43px;font-size:16px;">Cart
+		(0)
+	
+	<span id="cartPrice" class="nocoststyle">
+		$0.00
+	</span>
+	</h3> 
+</div>
+<hr class="hrFtools">
+<!-- <table width="188" border="0" cellspacing="0" cellpadding="0">
+		<tr>
+			<td height="57" class="Qlink5"><a class="fl_left">
+			<img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/banners/spacer.gif"
+				class="img_margin_left" alt="" width="188" height="57"
+				border="0" style="height:57px;"></a>
+				<div class="scrollfix">
+				<div class="cartstyle">
+					CART</div>
+				<div class="noitemsstyle">
+					(0)</div>
+				<div class="nocoststyle">
+					$0.00</div>
+					</div>
+			</td>
+		</tr>	
+	</table>
+-->	
+
+
+
+
+<!-- -->
+
+<!-- 
+
+	<table width="188" border="0" cellspacing="0" cellpadding="0">
+		<tr>
+			<td height="31" class="Qlink6"><a class="fl_left">
+			<img src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/banners/spacer.gif"
+				class="img_margin_left" alt="Quick Links" width="188" height="31"
+				border="0" style="height:31px;"> </a></td>
+		</tr>
+	</table>
+
+ -->
+
+	<div class="drugPricingFT">
+		<a href="/RxSolWeb/mvc/drugPricingEntryPoint.do">
+			<h3 style="font-size:16px;">Drug Pricing</h3>
+		</a>
+	</div>
+
+
+
+
+	<div class="drugLookupFT">
+		<a href="/RxSolWeb/mvc/gpiDrugSearch.do">
+			<h3 style="font-size:16px;">Drug Lookup</h3>
+		</a>
+	</div>
+
+
+
+
+	<div class="formularyFT">
+		<a href="/RxSolWeb/mvc/formularyEntryPoint.do">
+			<h3 style="font-size:16px;margin-left:3px;*margin-left:0px;">Formulary</h3>
+		</a>
+	</div>
+	<hr class="hrFtools">
+
+
+
+
+	
+	
+	
+		<div class="realTimeBenefitsFT">
+			<a href="/RxSolWeb/mvc/claimMemberBenefitDetail.do">
+				<h3>Real Time Benefits</h3>
+			</a>
+		</div>
+		<!-- </div> -->
+	
+	
+
+
+
+
+   
+	<form id="toolPharmacyForm" name="locate_pharmacy" action="/RxSolWeb/mvc/pharmacySearch/searchByZipCode.do" method="post" class="second_form">
+	<div class="locateAPharmacyFT">
+		<h3>Locate a Pharmacy</h3>
+	</div>
+	<div class="zipCodeTextBoxGoButtonFT">		
+		<div class="zipCodeTextBoxDivFT">
+			<input type="hidden" name="tool_pharmacy_search" value="true">
+			<input type="text" class="zipCodeTextBoxFT" name="zipCode" value="Enter Zip Code" size="5" maxlength="10" onkeypress="javascript:return searchKey(event);">
+		</div>
+		<div class="GoButtonDivFT">
+			<input type="image" name="search_submit" class="GoButtonFT over" src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/branding/buttons/GO_btn_ON.png" alt="Go" title="Go" onclick="javascript:return validateZipForm(document.getElementById('toolPharmacyForm'));">
+		</div>
+	</div> <!-- end of zipCodeTextBoxGoButtonFT -->
+	<div class="advancedLinkFT">
+		<a href="/RxSolWeb/mvc/pharmacySearch/searchByZipOrStateCity.do">Advanced</a>
+	</div>
+	</form>
+
+
+
+	</div> <!-- end of rightAreaSection1Content -->
+</div> <!-- end of rightAreaSection -->
+
+
+
+
+
+
+		     
+			      
+			   
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+.gecko .bannersize {
+
+	margin:4px auto;
+	padding:0;
+	/*padding-top:37px;*/
+	padding-top:26px;
+	height:156px;
+	width:200px;
+	background-repeat:no-repeat;
+}
+
+.ie .bannersize {
+	margin:4px auto;
+	padding:0;
+	/*padding-top:37px;*/
+	padding-top:26px;
+	height:156px;
+	width:200px;
+	background-repeat:no-repeat;
+}
+
+.rbannersize 
+{
+	margin:4px auto;
+	padding:0;
+	/*padding-top:37px;*/
+	padding-top:12px;
+	height:156px;
+	width:200px;
+	background-repeat:no-repeat;
+}
+.rset_pos 
+{
+	padding:0 11px;
+	text-align:right;	
+}
+.rset_pos, .rset_pos p
+{
+	color:#333333;
+}
+.rset_pos a
+{
+	color:#333333;
+	text-decoration:none;
+	font-weight:bold;
+	font-size:14px;
+	text-transform:uppercase;
+	*margin-top:-10px !important;
+}
+.rset_pos a:hover
+{
+	text-decoration:underline;
+}	
+.rbannersize p
+{
+	color:#333333;
+}
+.ie .rbannersize .rset_pos a
+{
+	margin-top: 0px !important;
+}
+
+div.sideAd1 p
+{
+	margin:0;
+	padding:2px 11px !important;
+	color:#333333;
+	text-align:left;
+	line-height:18px;
+	font-family:Arial;
+	margin-top:10px !important;
+}
+.rbannersize a {
+    color: #333333;
+    float: left;
+    margin-top: 10px;
+    padding-top:0px !important;
+    text-decoration: none;
+    float:left;
+}
+/*.rbannersize a
+{
+	color:#333333;
+	text-decoration:none;
+}	*/
+/*.gecko .rset_pos {
+	position: relative !important;
+	bottom: 21px;
+	font-size: 14px !important;
+	margin:0px 17px 0px 0px !important;
+	text-align: right;
+}*/
+
+.rDiscriptionSize, p.rDiscriptionSize
+{
+	margin:0;
+	padding:0 11px;
+	height:85px !important;
+	color:#333333;
+	text-align:left;
+	font-size:12px;
+	font-family:Arial;
+}
+
+.ie .afsStyle{
+margin:  5px 5px 5px 10px;
+}
+.gecko .afsStyle{
+margin:  5px 5px 5px 10px;
+}
+table#clicktocallFtools, table#clicktocallFtools div
+{ 
+	display:inline;
+	clear:both;
+	height:auto !important;
+}
+</style>
+<script type="text/javascript">
+var bannerIsLink = true; // by default, banners are usually links
+            $jq(document).ready(function()
+            {
+              jQuery(".rbannersize").css('background-image','url(https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/banners/sideBanner_bg.png)');
+              
+                                                            	
+ 			});
+</script>
+
+<div class="sideAd1">
+	
+	
+		
+		 
+			
+				
+					
+					
+					
+						
+					
+					
+					
+					
+					
+						<div class="rbannersize" style="background-repeat:no-repeat; background-image: url('https://www.prescriptionsolutions.com/rxsol/chp/html/ps/img/banners/sideBanner_bg.png');">
+						
+						
+						
+							<a href="/RxSolWeb/mvc/feedback.do" onclick="">
+								<p class="rDiscriptionSize">We want to hear from you! Questions, comments or suggestions?</p>
+							</a>	
+							<p class="rset_pos">
+							<a href="/RxSolWeb/mvc/feedback.do" onclick="" style="*margin-top:-10px !important;">Click here <span class="graphicRightArrow">»</span></a>
+						</p>
+						
+						
+						</div>
+					
+					
+				
+			
+		
+	
+
+</div> <!-- End of sideAd1 -->
+
+
+               
+
+<div class="sideAd1">
+<table id="clicktocallFtools">
+	<tbody><tr>
+		<td height="39"><div id="clicktocallbanner"></div></td>
+	</tr>
+</tbody></table>  
+</div>
+
+ </div> <!-- end of tertiaryContent -->
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+	 	
+
+
+
+
+
+
+
+
+<!--// PLACE THIS ENTIRE SECTION INTO THE FOOTER - Version 0.3 //-->
+  
+        <div class="clearb">&nbsp;</div>       
+    </div> <!-- end of content -->
+  
+  <div id="footer">
+  
+  <div id="our_awards" style=""> <!-- show only on home page -->        
+        	<table id="our_awards" cellpadding="0" cellspacing="0">
+	          	<tbody><tr>           
+					
+        		</tr> 
+      		</tbody></table>
+    	</div> <!-- end of out_awards -->
+  <!-- Tag to retrieve footer links from vignette	-->
+	
+	<div class="footerLine1">
+		
+			
+				
+				
+				
+					
+					<a href="/RxSolWeb/index.ep">Home</a>
+				
+			
+		
+			
+				
+				
+				
+					|
+					<a href="/RxSolWeb/mvc/cmsContent.do?pageUrl=/CHP/AboutUs">About Us</a>
+				
+			
+		
+			
+				
+				
+					|
+					<a href="https://www.prescriptionsolutions.com/RxsolHcpWeb/index.html">Healthcare Professionals</a>
+				
+				
+			
+		
+			
+				
+				
+					|
+					<a href="https://www.prescriptionsolutions.com/RxsolClientWeb/index.html">Clients</a>
+				
+				
+			
+		
+			
+				
+				
+					|
+					<a href="https://www.prescriptionsolutions.com/RxsolClientWeb/cmsContent.do?pageUrl=/CLP/Consultants">Consultants</a>
+				
+				
+			
+		
+			
+				
+				
+				
+					|
+					<a href="/RxSolWeb/mvc/cmsContent.do?pageUrl=/CHP/Footer/TermsOfUse">Terms of Use</a>
+				
+			
+		
+			
+				
+				
+				
+					|
+					<a href="/RxSolWeb/mvc/cmsContent.do?pageUrl=/CHP/Footer/PrivacyPolicy">Privacy</a>
+				
+			
+		
+			
+				
+				
+				
+					|
+					<a href="/RxSolWeb/mvc/siteMap.do">Site Map</a>
+				
+			
+		
+			
+				
+				
+				
+					|
+					<a href="/RxSolWeb/mvc/cmsContent.do?pageUrl=/CHP/AboutUs/News">News</a>
+				
+			
+		
+			
+				
+				
+				
+					|
+					<a href="/RxSolWeb/mvc/cmsContent.do?pageUrl=/CHP/CustomerService/ContactUs">Contact Us</a>
+				
+			
+		
+			
+				
+					|
+					<a target="_new" href="http://careers.unitedhealthgroup.com/Why-Work-Here/Our-Businesses/Prescription-Solutions.aspx">Careers</a>
+				
+				
+				
+			
+		
+			
+				
+				
+				
+					|
+					<a href="/RxSolWeb/mvc/cmsContent.do?pageUrl=/CHP/CustomerService/HelpTopics">Help Topics</a>
+				
+			
+		
+	</div><!-- end of footerLine1 -->
+	<div class="footerLine2">
+		<div class="footerLine2Left">
+  			© <a href="javascript:alert('BUILD: [r.1.6.16] @ 2012-05-05 00:19:20')" style="text-decoration:none;">2012 OptumRx, Inc.</a>
+  		</div>
+		<div class="footerLine2Right">
+			<!--Text Size&nbsp;		
+			<div id="switch2" rel="medium" class="styleswitch"><span>A</span></div>
+			<div id="switch3" rel="large" class="styleswitch"><span>A</span></div>-->			
+    		<span id="switch3" rel="medium" class="styleswitch smaller_font"><img id="smallFont" src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/branding/icons/Icon_TextSize_Small_Off.png"></span>
+			<span id="switch2" rel="large" class="styleswitch bigger_font"><img id="largeFont" src="https://www.prescriptionsolutions.com/rxsol/chp/html/ps/branding/icons/Icon_TextSize_Large_Off.png"></span>
+			<span class="text_div" style="float:right;">Text Size</span>
+		</div>		
+	</div> <!-- end of footerLine2 -->
+        
+    
+    <div class="clearb">&nbsp;</div>
+  </div> <!-- end of footer -->
+	<div class="clearb">&nbsp;</div>
+  </div> <!--  end of wrapper -->
+ 
+
+
+    <script type="text/javascript">
+		if( typeof ddtabmenu != 'undefined' && document.getElementById("ddtabs1") != null){
+		
+	       		ddtabmenu.definemenu("ddtabs1", "");
+	       }
+          // Sets columns
+          if (numberOfColumns == 2){
+            $jq("#content").removeClass("sppt").addClass("ppt");
+            $jq("#secondaryContent").hide();
+          }
+          else if (numberOfColumns == 1){
+                $jq("#content").removeClass("sppt").addClass("ppp");
+            $jq("#secondaryContent").hide();
+            $jq("#tertiaryContent").hide();
+            }
+            else {
+            //$jq("#content").removeClass("sppt")
+            }
+
+            if (numberOfColumns == 2 || numberOfColumns == 3) {
+            // Drug lookup
+            $jq("#tertiaryContent td.drug_search input[type='text']").focus(function(){
+              $jq(this).parent().addClass('klicked'); $jq(this).val('');
+            });
+            $jq("#tertiaryContent td.drug_search input[type='text']").blur(function(){
+                var checkLookup = $jq(this).val();
+                if (!checkLookup){ $jq(this).parent().removeClass('klicked'); }
+            });
+              
+               $jq(document).ready(function(){
+            // Pharmacy search
+            $jq("#tertiaryContent div.zipCodeTextBoxGoButtonFT div.zipCodeTextBoxDivFT input[type='text']").blur(function(){
+              $jq(this).parent().addClass('klicked'); 
+              var checkSearch = $jq(this).val();
+                if(!checkSearch)
+                {
+                	 $jq(this).val('Enter Zip Code');
+                }
+            });
+            $jq("#tertiaryContent div.zipCodeTextBoxGoButtonFT div.zipCodeTextBoxDivFT input[type='text']").click(function(){
+            $jq(this).parent().addClass('klicked');
+                var checkSearch = $jq(this).val();
+                	$jq(this).val('');
+            });});
+            };
+    
+      $jq(document).ready(function(){
+    
+    		//to fix the search box issue on click of Browser Back button -CTS  
+		  $jq("input.inputboxSearch").attr({'value' : 'Search'});
+		  $jq("td.drug_search input").attr({'value' : ''});
+		  $jq("td.pharmacy_search input").attr({'value' : ''});	       
+
+	      
+//        // Sets browser title
+        $jq(this).attr("title", thisTitle);
+
+        // Nav searchbox
+        $jq("#search div").hide();
+        $jq("input.inputboxSearch").focus(function(){
+          $jq(this).addClass("klicked");          
+          $jq("div#search_options").slideDown();
+          $jq("input.inputboxSearch").attr({'value' : ''});
+          $jq("img.close").click(function(){
+            $jq("input.inputboxSearch").removeClass('klicked').val("");
+            if (jQuery.browser.msie){ $jq('div#search_options').hide("slow");
+            $jq("input.inputboxSearch").attr({'value' : 'Search'});
+             }
+            else { $jq('div#search_options').hide("slow");
+            $jq("input.inputboxSearch").attr({'value' : 'Search'});
+            }
+            $jq("#search_help").focus();
+          });
+        });
+        
+         // Set subnav
+       	
+	       	if(thisSubnav.length > 0){
+		        $jq("li#" + thisSubnav).addClass("current");
+	        }
+	        if(typeof thisTernav != 'undefined'){
+	            $jq("li#" + thisTernav+" a").addClass("current");
+		    }
+	    
+      });
+
+    </script>
+
+
+<!--// END FOOTER //-->
+<!-- START WEBTRENDS ANALYTICS -->
+
+
+<script type="text/javascript"> //START A NEW JAVASCRIPT BLOCK TO TRY TO PROTECT javascript from compilation errors elsewhere
+
+//=============================[ START WINDOW EVENT SUPPORT ]======
+	if( window.addEvent == null ){
+		window.addEvent = function(obj, eventName, func)
+		{
+		      if(obj.addEventListener)
+		            return obj.addEventListener(eventName, func, true);
+		      else if(obj.attachEvent)
+		      {
+		            obj.attachEvent("on" + eventName, func);
+		            return true;
+		      }
+		      return false;
+		}
+	}
+//=============================[ END WINDOW EVENT SUPPORT ]======
+
+
+//=============================[ START IE6 background image fix ]======
+	function fixIE6BackgroundImages(){
+		var agt = navigator.userAgent.toLowerCase();
+		var appVer = navigator.appVersion.toLowerCase();
+		    // *** BROWSER VERSION ***
+		var is_konq = false;
+		var kqPos = agt.indexOf('konqueror');
+		if (kqPos != -1) {
+		    is_konq = true;
+		}
+		var is_safari = ((agt.indexOf('safari') != -1) && (agt.indexOf('mac') != -1));
+		var is_khtml = (is_safari || is_konq);
+		var is_opera = (agt.indexOf("opera") != -1);
+		var iePos = appVer.indexOf('msie');
+		var is_ie = ((iePos != -1) && (!is_opera) && (!is_khtml));
+		if (is_ie)
+		{
+		    try {
+		        document.execCommand('BackgroundImageCache', false, true);
+		    } catch(e) {
+		        // this will fail for IE 6 prior to SP1.
+		    }
+		}
+	}
+	try{
+		fixIE6BackgroundImages();
+	}catch(e){}
+//=============================[ END IE6 background image fix ]======
+</script>
+
+
+<script type="text/javascript"> //START A NEW JAVASCRIPT BLOCK TO TRY TO PROTECT javascript from compilation errors elsewhere
+//=============================[ START WEBTRENDS ANALYTICS ]======
+
+	function doWebtrendsTracking(){ 
+	
+    
+	    if (typeof docInfo == 'undefined')
+	    {
+	    	var docInfo = "";
+	    }
+	    
+	    if (typeof docUri == 'undefined')
+	    {
+	    	docUri = "\x2FRxSolWeb\x2Fmvc\x2FcmsContent.do";
+	    }
+	
+		if (typeof thisTitle == 'undefined') 
+		{
+			if (docInfo == "")
+			{
+				docInfo = document.title;
+			}
+			if(docUri == ""){
+				docUri = "/" + document.title;
+			}
+		}
+		else
+		{
+			if (docInfo == "")
+			{
+				docInfo = thisTitle;
+			}
+			if(docUri == ""){
+				docUri = "/" + thisTitle;
+			}
+		}
+
+		// this hack fixes the webtrends issue with payment-info.ep for last 3 checkout tabs
+		if (docUri.indexOf("payment-info.ep") >= 0)
+		{
+			var noSpaceDocInfo = docInfo.replace("PrescriptionSolutions.com - ", "");
+			noSpaceDocInfo = noSpaceDocInfo.replace(/ /gi, "_");
+			docUri += "/" + noSpaceDocInfo;
+		}
+
+		try{
+			var debugLoc = window.location.href;
+			if( debugLoc && debugLoc.indexOf("debug=webtrends") >= 0 ){
+				alert("DCS Site: " + sitename + " :: dcsUri: " + docUri + "  :: WT.ti: " + docInfo);
+			}
+		}catch(e){}
+		
+		//alert("DCS Site: " + sitename + " :: dcsUri: " + docUri + "  ::  dcsInfo: " + docInfo);
+		dcsMultiTrack('DCS.dcssip',sitename,'DCS.dcsuri',docUri,'WT.ti',docInfo,'WT.cg_n','CONSUMER','WT.si_n','','WT.si_p','','WT.si_x','','WT.seg_1','','WT.vhseg_1','','WT.seg_2','','WT.vhseg_2','','WT.pn_sku','','WT.tx_u','','WT.tx_s','')
+	}
+	
+
+	$jq(document).bind("ready", doWebtrendsTracking); 
+
+//	window.addEvent(window,"load", doWebtrendsTracking);
+	
+//=============================[ END WEBTRENDS ANALYTICS ]======
+
+</script>
+
+<script type="text/javascript">
+
+	$jq(document).ready(function(){
+
+		
+        	setTimeout("nonAuthenticatedHit()",840000); 
+        
+    });
+        
+     
+		// this function is used to make AJAX call to emptyContent.html for Non-Authenticated Users 
+	    function nonAuthenticatedHit()
+	    {
+			$jq.get('/RxSolWeb/html/alui/emptyContent.html?' + Math.random());
+	    } 
+    
+</script>
+
+
+
+
+
+
+</body></html>
