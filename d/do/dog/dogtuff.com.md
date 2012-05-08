@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the dogtuff.com privacy policy that was archived on 2011-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110304114308id_/http%3A//www.dogtuff.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogtuff.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508113830id_/http%3A//www.dogtuff.com/privacy) for the most accurate reproduction.*
 
 # DogTuff.com - Privacy Policy
 
 **What information do we collect?**  
 We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number and/or credit card information. You may also visit our site anonymously.
 
  **What do we use your information for?**  
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+Your information will never be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the sole purpose of delivering the purchased product or service requested.
 
 Any of the information we collect from you may be used in one of the following ways:
 
-The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+The email address you provide for order processing will only be used to send you information and updates pertaining to your order.
 
 If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.
 
