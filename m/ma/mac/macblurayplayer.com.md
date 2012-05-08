@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the macblurayplayer.com privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012055433id_/http%3A//www.macblurayplayer.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macblurayplayer.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508071953id_/http%3A//www.macblurayplayer.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# Macgo Blu-ray player Privacy Policy
 
-MACGO
+Macgo
 
-MACGO Respects Your Privacy
+Macgo Respects Your Privacy
 
 This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.
 
@@ -60,7 +60,7 @@ We may use a third party service provider to conduct these surveys or contests. 
 
 Tell-A-Friend
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. MACGO will automatically send the friend a one-time email inviting them to visit our Site. MACGO stores this information for the sole purpose of sending this one-time email. The friend may contact MACGO at support@macblurayplayer.com to request the removal of this information from our database.
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Macgo will automatically send the friend a one-time email inviting them to visit our Site. Macgo stores this information for the sole purpose of sending this one-time email. The friend may contact Macgo at support@macblurayplayer.com to request the removal of this information from our database.
 
 What Happens to my Personal Information if I Opt Out?
 
@@ -79,6 +79,6 @@ Contacting Our Site
 
 If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
 
-MACGO  
+Macgo  
 Revised: 06/02/2011   
-Copyright © 2010-2011 Macgo.com Inc. All Rights Reserved.
+Copyright © 2010-2011 Macgo Inc. All Rights Reserved.
