@@ -1,10 +1,18 @@
-> *The following text is extracted and transformed from the simplylearnt.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609040244id_/http%3A//www.simplylearnt.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplylearnt.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509012114id_/http%3A//www.simplylearnt.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - simplyLearnt
+# PrivacyPolicy - simplylearnt.com
+
+**_Privacy Policy_**
+
+  Your privacy is our top concern. We work hard to earn and keep your trust, so we adhere to the following principles to protect your privacy.
 
     \- We will never rent or sell your personally identifiable information to third parties for marketing purposes  
     \- We will never share your contact information with any other user without your consent  
     \- Any sensitive information that you provide will be secured with all industry standard protocols and technology
+
+Notice of all changes that materially affect ways in which your personally identifiable data may be used or shared will be posted in updates to our Privacy Policy. If you continue to use the simplyLearnt service after notice of changes have been sent to you or published on our site, you hereby provide your consent to the changed practices.
+
+  Please read this privacy policy to learn more about:
 
     * What personally identifiable information of yours is collected by SimplyLearnt?  
     * How your personal information is used.  
@@ -53,6 +61,20 @@ SimplyLearnt partners with other online services to give you the combined result
   **Communications between Users** :  
 Many emails you initiate through SimplyLearnt, will list your email address and name in the header of the message. Other communications that you initiate through the SimplyLearnt website, like a request for teacher, will list your name as the initiator but will not include your personal contact information. Your contact information will only be shared with another user if both of you have indicated your interest to establish contact with each other.
 
+  **Web Beacons** :  
+Webpages and HTML emails may contain a small snippet of code called a web beacon. In their simplest form, web beacons allow a website to transfer or collect information through a graphic image request. Websites may use web beacons and cookies for many purposes, including site usage analytics, advertising auditing and reporting, and content and advertising personalization.
+
+**SimplyLearnt's Practices Regarding Web Beacons**  
+SimplyLearnt may collect information through web beacons about your web browsing activities such as the address of the page you are visiting, the address of the referrer page you previously visited, the time you are viewing the page, your browsing environment and your display settings. We may use the information we collect through web beacons:
+
+  * To understand how you use and interact with SimplyLearnt's products and services.
+  * To improve SimplyLearnt products and services.
+  * To optimize your browsing experience.
+  * To provide you relevant advertising and content.
+  * To determine which email messages sent by SimplyLearnt, or its agent, were opened and to note whether a message was acted upon.
+
+
+
   **Legal Disclaimer** :  
 It is possible that we may need to disclose personal information when required by law. We will disclose such information wherein we have a good-faith belief that it is necessary to comply with a court order, ongoing judicial proceeding, or other legal process served on our company or to exercise our legal rights or defend against legal claims.
 
@@ -66,8 +88,13 @@ All private information like your address or credit card number or PayPal accoun
 SimplyLearnt may update this privacy policy. In the event there are significant changes in the way we process your personally identifiable information, we will display a notice on this site. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
 
   **Questions or Comments**  
-If you have questions or comments about this privacy policy, please email us at support@simplyLearnt.com or contact us at: www.SimplyLearnt.com
+If you have questions or comments about this privacy policy, please email us at info@simplyLearnt.com or contact us at: www.SimplyLearnt.com
 
 Kamal Group of Companies, Sole Proprietorship.  
 Attn: Privacy Policy issues  
 F 46/A, Moti Nagar,
+
+New Delhi 110015, India
+
+  
+
