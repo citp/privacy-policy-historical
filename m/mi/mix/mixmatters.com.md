@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixmatters.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203115314id_/http%3A//www.mixmatters.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixmatters.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508073103id_/http%3A//www.mixmatters.com/privacy) for the most accurate reproduction.*
 
 # Welcome to MixMatters
 
@@ -58,5 +58,3 @@ Upon request we offer visitors the ability to have inaccuracies corrected in con
 Consumers can have this information corrected by sending us e-mail at the above address. 
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, state or local chapters of the Better Business Bureau.
-
-[ ](https://web.archive.org/users/sign_up "register to win")
