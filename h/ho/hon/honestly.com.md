@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the honestly.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211143611id_/http%3A//www.honestly.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honestly.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508024207id_/http%3A//www.honestly.com/static/privacy) for the most accurate reproduction.*
 
 # Honestly.com (formerly Unvarnished) - Community-contributed reviews for business professionals
 
