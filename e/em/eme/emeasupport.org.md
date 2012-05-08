@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emeasupport.org privacy policy that was archived on 2011-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110309052139id_/https%3A//library.familysearch.org//privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emeasupport.org privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508184052id_/https%3A//library.familysearch.org//privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FamilySearch.org
 
