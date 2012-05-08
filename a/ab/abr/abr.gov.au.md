@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abr.gov.au privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008051142id_/http%3A//help.abr.gov.au/content.asp%3Fdoc%3D/content/27617.htm%26usertype%3DBC) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abr.gov.au privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508022910id_/http%3A//help.abr.gov.au/content.asp%3Fdoc%3D/content/27617.htm%26usertype%3DBC) for the most accurate reproduction.*
 
 # Privacy statement (long version)
 
