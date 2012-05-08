@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the berrybenka.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619050951id_/http%3A//berrybenka.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berrybenka.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508040412id_/http%3A//berrybenka.com/privacyPolicy.php) for the most accurate reproduction.*
 
 # Berrybenka.com - One Shop. Many Brands. | Ladies fashion, clothes, and accessories.
-
-PRIVACY POLICY 
 
 Welcome to Berrybenka.com (“Site”). We respect your privacy and want to protect your personal information. To learn more, please continue reading this Privacy Policy. We will not disclose personal information to third parties except where it may be part of providing a service to you - e.g. arranging for goods to be sent to you, carrying out credit and other security checks, and for the purposes of customer research and profiling or where we have your express permission to do so.
 
