@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 2go.com.ph privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120122446id_/http%3A//www.2go.com.ph/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2go.com.ph privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508040441id_/http%3A//2go.com.ph/GROUP/privacy-policy.asp) for the most accurate reproduction.*
 
-# 2GO Together - Privacy Policy
+# 2GO Group, Inc. » Privacy Policy
 
 http://www.2GO.com.ph
 
