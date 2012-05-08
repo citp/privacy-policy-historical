@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the robo.to privacy policy that was archived on 2011-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111019203524id_/http%3A//robo.to/welcome/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robo.to privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509012056id_/http%3A//robo.to/welcome/privacy) for the most accurate reproduction.*
 
 # Robo.to
 
