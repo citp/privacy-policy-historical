@@ -1,20 +1,6 @@
-> *The following text is extracted and transformed from the founderinstitute.com privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010043429id_/http%3A//www.founderinstitute.com/information/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the founderinstitute.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508074406id_/http%3A//fi.co/information/privacy_policy) for the most accurate reproduction.*
 
 # The Founder Institute: Helping Founders to Build Great Companies
-
-Location
-
-Choose a city closest to you.
-
-**Fall 2011 Amsterdam**  
-Applications: **Oct 02, '11**  
-Sessions: **Oct 11, '11 - Jan 31, '12**
-
-Vision
-
-Our vision is to **Globalize Silicon Valley** by creating and fostering local startup ecosystems in promising markets across the globe. We aim to help launch 1,000 technology companies per year in over 30 cities worldwide.
-
-[Join the Program](https://web.archive.org/join)
 
 Welcome to the Founder Institute, Incorporated (“FII”) website and online services (the “FII Site”). FII values the privacy of our subscribers, customers, members, and others who visit and use the FII Site and its associated services (collectively or individually, “You” or “Users”).
 
