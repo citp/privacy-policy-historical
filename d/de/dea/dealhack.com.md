@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealhack.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102070509id_/http%3A//www.dealhack.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealhack.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508121019id_/http%3A//www.dealhack.com/privacy.php) for the most accurate reproduction.*
 
 # Dealhack: Privacy Policy
 
