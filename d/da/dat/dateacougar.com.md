@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dateacougar.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011043743id_/http%3A//www.dateacougar.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dateacougar.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508074414id_/http%3A//www.dateacougar.com/privacyPolicy) for the most accurate reproduction.*
 
 # .: Privacy Policy
 
@@ -79,11 +79,11 @@ Notice - Use of Website by the Subscriber Constitutes the Subscriber's Express A
 
 **"OPT-OUT" Revocation Procedure.**
 
-> The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by [clicking here](https://web.archive.org/web/20111011043743id_/http%3A//www.dateacougar.com/settings/2) and deselecting "I want to be informed of promotional offers".
+> The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by [clicking here](https://web.archive.org/web/20120508074414id_/http%3A//www.dateacougar.com/settings/2) and deselecting "I want to be informed of promotional offers".
 
 **Terms and Conditions of Membership.**
 
 > Each subscriber should carefully read each of the terms and conditions of Membership of this Site. By accepting membership to this Site you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this Site to use information that it has gathered from subscribers.
 > 
-> In the event of any conflicts between the [Membership Terms the Conditions](https://web.archive.org/web/20111011043743id_/http%3A//www.dateacougar.com/termsofservice) and this Privacy Policy Statement, the provisions of this Privacy Policy shall control.  
+> In the event of any conflicts between the [Membership Terms the Conditions](https://web.archive.org/termsOfService) and this Privacy Policy Statement, the provisions of this Privacy Policy shall control.  
 > 
