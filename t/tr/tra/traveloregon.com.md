@@ -1,11 +1,86 @@
-> *The following text is extracted and transformed from the traveloregon.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214109id_/http%3A//www.traveloregon.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveloregon.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508122604id_/http%3A//traveloregon.com/legal/%23privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Travel Oregon
 
-## Content
+## Privacy Policy & Terms of Use
 
-Content and information contained in this site has been compiled by the Oregon Tourism Commission, based on data submitted directly from local tourism promotion partners and business entities. While every effort is made to ensure the accuracy of this information, all data is subject to change without notice. Travelers are advised to contact individual businesses or organizations to obtain information to their satisfaction before traveling. Links to third-party websites are provided as a convenience to users; the Oregon Tourism Commission does not control or endorse their content. 
+About TravelOregon
 
-## Privacy
+TravelOregon.com is the official website of The Oregon Tourism Commission (dba Travel Oregon), the official destination marketing agency for the State of Oregon.
 
-We respect your privacy. If you provide us personal information through this Web site, you have the opportunity to request that we not contact you in the future. If you allow us to contact you in the future, the Oregon Tourism Commission, Oregon tourism organizations and businesses may provide you with current and future information about travel opportunities in the state of Oregon. Information about you or your request will not be shared with any other organization. 
+Our postal address is:  
+670 Hawthorne SE, Suite 240  
+Salem, Oregon 97301
+
+We can be reached via e-mail at [ info@traveloregon.com](mailto:%20info@traveloregon.com)
+
+### About
+
+Your privacy is important to Travel Oregon and we will treat any of your information with care.
+
+Our Privacy Statement lets you know how we handle personally identifiable information you share with us through our digital and printed communication vehicles.
+
+### Personal Information Collection
+
+You may use our web sites, digital newsletters and other forms of internet-based communications to learn about Travel Oregon products and services without disclosing any personal information beyond what you provided when requesting authorized publications, both digital or printed. We may ask you to provide us with personal information, for example, to access or use certain features or if you request additional information from our partners. Information that may be requested by Travel Oregon includes: contact information, such as name, address, email address, and telephone number; demographic information, such as household information, age group, etc. and information about your travel interests.
+
+### Personal Information Uses
+
+It is Travel Oregon’s policy to treat any personally identifiable information submitted via our web site as strictly confidential. Travel Oregon does not make your personal information available to third parties for any reason, except to fulfill requests made by you and / or your company or as may be required by the Oregon Public Records Law.
+
+However, Travel Oregon may use the information you voluntarily offer to inform you directly about information, products or services that may be of interest to you, improve content on our web site or electronic newsletter, or to assist with marketing research. We may disclose your personal information as required by law, in conjunction with a public records request, government inquiry, or in litigation or dispute resolution.
+
+### Links to Outside Websites
+
+This site may contain links to third party sites not controlled by Travel Oregon, which therefore are not covered by this privacy statement, such as those belonging to Travel Oregon partners and advertisers. We recommend that you check the privacy statement of other sites you visit before providing any personal information.
+
+### Unsubscribe
+
+We do not want to send you information you do not want to receive. All of our e-newsletters include links in the footer of the e-mail for managing all aspects of your subscription, including the ability to globally unsubscribe from such communications.
+
+### Changes to Privacy
+
+Travel Oregon retains the right to change this Privacy Policy Statement. For your benefit, we will post changes to this page in a timely manner.
+
+### Content
+
+Content and information contained in this site has been compiled by the Oregon Tourism Commission, based on data submitted directly from local tourism promotion partners and business entities. While every effort is made to ensure the accuracy of this information, all data is subject to change without notice. Travelers are advised to contact individual businesses or organizations to obtain information to their satisfaction before traveling. Links to third-party websites are provided as a convenience to users; the Oregon Tourism Commission does not control or endorse their content.
+
+### Google Analytics
+
+This web site uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the web site analyze how users use the site. The information generated by the cookie about your use of the web site (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the web site, compiling reports on web site activity for web site operators and providing other services relating to web site activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google.
+
+### Comment Policy
+
+Travel Oregon encourages comments, critiques, questions, and suggestions. By posting comments on the Travel Oregon Network of sites you are agreeing to the following:
+
+All comments left on the Travel Oregon network of sites are the responsibility of the commenter. By submitting a comment on our network of sites, you agree that the comment content is your own, and to hold this site, Travel Oregon, harmless from any and all repercussions, damages, or liability.
+
+ **Travel Oregon** reserves the right to edit, delete, move, or mark as spam any and all comments and to block access by any individual or group from commenting or from the entire network of sites. The comment form must be filled in with a proper or legitimate sounding name and URL. Comments using keywords, spam or splog-like URLs or suspicious information in the comment form will be edited or deleted.
+
+ **Email Privacy:** Email addresses are required for commenting, and they are not published, nor shared except as described above. They may be used by the site owner to privately contact the commenter.
+
+ **Commenter Privacy and Protection:** All email, physical mail, phone numbers, and any private and personal information posted in any comment will be deleted as soon as possible to protect the privacy of the commenter. To prevent such editing, never share this private information within the comment.  
+****
+
+**Language and Manners:** This network of sites is “family friendly” and comments which include offensive or inappropriate language, or considered by the network of sites owner and administrator to be rude and offensive, will be edited or deleted.
+
+  * We will not allow personal attacks or vulgar, abusive, offensive, threatening or harassing language. This includes creative spellings of swear words using asterisks or spaces between words.
+  * We will not allow comments that contain sexual content or links to sexual content.
+  * We will not allow comments that promote or advertise a person or a business or commercial transaction that is unrelated to travel within the state of Oregon.
+  * We will not allow comments that promote or oppose any person campaigning for election to a political office or that promote or oppose any ballot measure.
+  * We will not allow comments or posts that disclose information which the agency and its employees are required to keep confidential by law or administrative rule.
+
+
+
+ **Limit Links:** This site is setup to automatically hold any comment with more than two links in moderation, which may delay your comment from appearing. Any comment with more than four links could be marked as comment spam.
+
+ **How Travel Oregon Will Respond:** Comments will only be responded to in direct response to the comment. The site administrator(s) will not respond privately via email or other communication method to a comment.
+
+ **Comment Spam:** Any comment assumed to be possible comment spam will be deleted and marked as comment spam.
+
+ **Commenters Blocked:** Anyone who violates this Comments Policy may be blocked from future access and/or commenting on this network of sites.
+
+ **All Rights Reserved:** The site owner, administrator, contributor, editor, and/or author reserve the right to edit, delete, move, or mark as spam any and all comments and to block access by any individual or group from commenting or from the entire network of sites.
+
+ **Trackbacks Are Comments:** All trackbacks will be treated inline with our Comments Policy.
