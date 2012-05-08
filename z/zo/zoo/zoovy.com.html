@@ -1,21 +1,21 @@
-<!--The following is the downloaded HTML source of the zoovy.com privacy policy that was archived on 2011-11-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111103174244id_/https%3A//www.zoovy.com/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zoovy.com privacy policy that was archived on 2012-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120508222451id_/https%3A//www.zoovy.com/legal/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><!-- BEGIN /includes/header-20111012 (technically, it starts above the doctype, but we want that first ) --><head>
+<html><!-- BEGIN /includes/header-20120418 (technically, it starts above the doctype, but we want that first ) --><head>
 <script type="text/javascript" src="//www.zoovy.com/includes/cookies.js"></script> <script type="text/javascript">
 
 setCookie('ZOOVY_LEAD','||');
 
 </script>
 <link rel="canonical" href="https://www.zoovy.com/legal/privacy/index.html">
-<!-- SRC:  LEAD:  HOST: z104 GENERATED: 20111004 10:42:45 -->
+<!-- SRC:  LEAD:  HOST: z104 GENERATED: 20120402 15:24:52 -->
 
 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
 <meta name="verify-v1" content="aA7HWK2Dw+bMEHlbp0D5uJh2YoHgxv0gB3N2ZplTL6U=">
 <meta name="google-site-verification" content="u_9mA-KVIsm6QyYyaT_qejrnuuyILC0X3ErXN-8kY3k">
-
+<meta name="google-site-verification" content="NUB7fyH23AICi6ZvZslxKbY5ZjNyy_KYQawGY3OHFcQ"><!-- for google apps -->
 <meta name="description" content="">
 <meta name="keywords" content="turnkey ecommerce, turnkey ecommerce websites, ecommerce turnkey, ecommerce solution, e-commerce, ecommerce, e-commerce solution">
 
@@ -23,12 +23,21 @@ setCookie('ZOOVY_LEAD','||');
 
 
 
-<script type="text/javascript" src="//static.zoovy.com/graphics/general/jslib/scriptaculous-js-1.8.2/lib/prototype.js"></script>
-<script type="text/javascript" src="//static.zoovy.com/graphics/general/jslib/scriptaculous-js-1.8.2/src/scriptaculous.js"></script>
-<script type="text/javascript" src="//static.zoovy.com/graphics/general/jslib/scriptaculous-js-1.8.2/src/effects.js"></script>
+
+<script type="text/javascript" src="//www.zoovy.com/biz/ajax/jquery-1.6.4/jquery-1.6.4.js"></script>
+<script type="text/javascript" src="//www.zoovy.com/biz/ajax/jquery-ui-1.8.16/js/jquery-ui-1.8.16.custom.min.js"></script>
+
+<script type="text/javascript" src="//crypto-js.googlecode.com/files/2.5.3-crypto-md5.js"></script>
+<script type="text/javascript" src="/biz/ajax/zmvc/201216/model.js?ts=20120222132300"></script>
+<script type="text/javascript" src="/biz/ajax/zmvc/201216/controller.js"></script>
+<script type="text/javascript" src="/biz/ajax/zmvc/201216/json2.js"></script>
 
 
-<link rel="stylesheet" type="text/css" href="//www.zoovy.com/includes/header-20111012/styles-20111012.css">
+
+
+<link rel="stylesheet" type="text/css" href="//www.zoovy.com/biz/ajax/jquery-ui-1.8.16/css/smoothness/jquery-ui-1.8.16.custom.css">
+
+<link rel="stylesheet" type="text/css" href="//www.zoovy.com/includes/header-20120404/styles-20120404.css">
 
 <link rel="stylesheet" type="text/css" href="//static.zoovy.com/graphics/general/jslib/magiczoomplus-2.0.8/magiczoomplus.css">
 <script type="text/javascript" src="//static.zoovy.com/graphics/general/jslib/magiczoomplus-2.0.8/magiczoomplus.js"></script>
@@ -37,7 +46,36 @@ MagicThumb.options = {
 	'background-color':'#000000',
 	'background-opacity':'50'
 	}
+
+
+var myControl; //create global var for controller. makes using firebug a ton easier.
+
+function instantiateController()	{
+	$.support.cors = true;  //cross site scripting for non cors sites. will b needed for IE10. IE8 & 9 don't support xss well.
+	
+	myControl = new zController({
+		"sdomain":"www.zoovy.com",
+		"noVerifyzjsid":true, //skip the verify session. should only do this on admin login page.
+		"jqurl":"https://www.zoovy.com/webapi/jquery/", //could be changed to zoovy.com/webapi...
+		"release":"20120418194100", //increment this with each change. should solve caching issues.
+		"secureURL" : "https://www.zoovy.com" //will change based on whether or not user has ssl cert. end with a slash.
+		},{});  //instantiate controller. handles all logic and communication between model and view.
+	myControl.storageFunctions.deleteCookie('zjsid');
+	var zuser = myControl.storageFunctions.readLocal('zuser');
+	if(myControl.util.isSet(zuser))
+		$('#loginFormLogin').val(zuser);
+//	localStorage.clear(); //make sure all previous session/cart data is gone. removed 2012-04-18
+	var msg = decodeURI(myControl.util.getParameterByName('msg'));
+	if(msg)	{
+		$('#loginMessaging').append(myControl.util.formatMessage("A login error occurred. Please try again. If error persists, please contact Zoovy support.  <p class='hint zhint'>Error: "+msg+"<\/p>"));
+		}
+	}
+
+
+
 </script>
+
+
 
 </head>
 
@@ -49,23 +87,36 @@ MagicThumb.options = {
 
 
 
+<div id="loginFormContainer" class="displayNone" title="Zoovy Account Login">
+<div id="loginMessaging"></div>
+<form action="" onsubmit="myControl.calls.authentication.appSessionStart.init(); myControl.model.dispatchThis('immutable'); return false;">
+<div><label>Username: </label><input type="text" name="login" id="loginFormLogin"></div>
+<div><label>Password: </label><input type="password" name="password" id="loginFormPassword"></div>
+<div class="alignRight">
+<input type="submit" value="login" class="ui-button ui-state-default ui-corner-all ui-button-text-only ui-state-active ">
+</div>
+</form>
+<hr>
 
+<a href="/recover/">lost password?</a> | <a href="#" onclick="$('#loginFormContainer').dialog('close'); return false;">cancel</a>
+
+</div>
 
 <div align="center">
 
 
 
-<div style="background:url(//www.zoovy.com/includes/header-20111012/images/body_bg_horgrad-1435x268.jpg) no-repeat center 149px ;">
-	<div style="background:url(//www.zoovy.com/includes/header-20111012/images/body_bg_horgrad-1x268.jpg) repeat-x 0 149px ;">
+<div style="background:url(//www.zoovy.com/includes/header-20120404/images/body_bg_horgrad-1435x268.jpg) no-repeat center 149px ;">
+	<div style="background:url(//www.zoovy.com/includes/header-20120404/images/body_bg_horgrad-1x268.jpg) repeat-x 0 149px ;">
 		<div style="width:984px;">
 
-<div style="background:url(//www.zoovy.com/includes/header-20111012/images/edges-984x1.gif) repeat-y;">
+<div style="background:url(//www.zoovy.com/includes/header-20120404/images/edges-984x1.gif) repeat-y;">
 <table cellspacing="0" cellpadding="0" width="948">
 <tbody><tr>
 	<td colspan="2">
 	<div style="height:123px; position:relative;">
 
-<div style="float:left; margin-left:32px; margin-top:32px;"><a href="/index.html"><img src="//www.zoovy.com/includes/header-20111012/images/zoovy_logo-217x61.png" width="217" height="61" alt="Zoovy.com - success driven ecommerce technology" border="0"></a></div>
+<div style="float:left; margin-left:32px; margin-top:32px;"><a href="/index.html"><img src="//www.zoovy.com/includes/header-20120404/images/zoovy_logo-217x61.png" width="217" height="61" alt="Zoovy.com - success driven ecommerce technology" border="0"></a></div>
 
 
 <div style="float:right; margin-right:37px; margin-top:32px; text-align:right">
@@ -73,34 +124,16 @@ MagicThumb.options = {
 
 <a href="/company/contact/" class="menu">Contact</a> | 
 
-<a href="#" onclick="if(document.getElementById('loginForm').style.display == 'block'){document.getElementById('loginForm').style.display = 'none'} else {document.getElementById('loginForm').style.display = 'block'}; return false;" class="menu">Customer Login</a>
+<a href="#" onclick="$('#loginFormContainer').dialog({modal:true,width:500,height:500}); instantiateController(); return false;" class="menu">Customer Login</a>
 
 	</div>
 	<div style="margin-top:7px;">
 		<div style="float:right; margin-left:2px; font-size:14px; font-weight:bold; color:#333333;">1.877.966.8948</div>
-		<div style="float:right;"><img src="//www.zoovy.com/includes/header-20111012/images/phone_number-21x22.gif"></div>
+		<div style="float:right;"><img src="//www.zoovy.com/includes/header-20120404/images/phone_number-21x22.gif"></div>
 	</div>
 
 </div>
 
-
-<div id="loginForm" style="display:none; position:absolute; top:52px; right:37px; background:#efefef;" class="border">
-<form target="_top" method="post" name="FrmLogin" action="https://www.zoovy.com/login/index.cgi">
-<input type="hidden" name="authenticate" value="true">
-<table cellspacing="3" cellpadding="0">
-<tbody><tr>
-	<td class="small">Username:</td>
-	<td style="padding-right:5px;"><input value="" type="text" name="login" size="15" maxlength="45" class="formed"></td>
-	<td class="small">Password:</td>
-	<td style="padding-right:5px;"><input type="password" name="password" size="15" maxlength="25" class="formed"></td>
-	<td><input type="submit" class="button" value=" login "></td>
-</tr>
-<tr>
-	<td align="right" class="small" colspan="7"><a href="/recover/">lost password?</a> | <a href="https://www.zoovy.com/login/">secure login</a> | <a href="#" onclick="document.getElementById('loginForm').style.display = 'block'; return false;">cancel</a></td>
-</tr>
-</tbody></table>
-</form>
-</div>
 
 	</div>
 	</td>
@@ -109,16 +142,16 @@ MagicThumb.options = {
 
 <!-- main navigation -->
 <tr>
-	<td colspan="2" style="background:url(//www.zoovy.com/includes/header-20111012/images/menu_bg-1x32.gif) repeat-x; height:32px;" align="left">
+	<td colspan="2" style="background:url(//www.zoovy.com/includes/header-20120404/images/menu_bg-1x32.gif) repeat-x; height:32px;" align="left">
 	<div style="position:relative; height:32px; ">
 		
-		<div style="position:absolute; left:-18px; top:0;"><img src="//www.zoovy.com/includes/header-20111012/images/menu_endcap_left-18x32.jpg" width="18" height="32" alt=""></div>
+		<div style="position:absolute; left:-18px; top:0;"><img src="//www.zoovy.com/includes/header-20120404/images/menu_endcap_left-18x32.jpg" width="18" height="32" alt=""></div>
 		
-		<div style="position:absolute; right:-18px; top:0;"><img src="//www.zoovy.com/includes/header-20111012/images/menu_endcap_right-18x32.jpg" width="18" height="32" alt=""></div>
+		<div style="position:absolute; right:-18px; top:0;"><img src="//www.zoovy.com/includes/header-20120404/images/menu_endcap_right-18x32.jpg" width="18" height="32" alt=""></div>
 		
 		<div style="margin-left:37px;">
 
-<img src="//www.zoovy.com/includes/header-20111012/images/mainnav-674x32.png" width="674" height="32" alt="" usemap="#mainMenuMap">
+<img src="//www.zoovy.com/includes/header-20120404/images/mainnav-674x32.png" width="674" height="32" alt="" usemap="#mainMenuMap">
 		
 <map name="mainMenuMap">
 	<area shape="rect" coords="5,1,92,31" href="/howitworks/" title="Products" alt="Products">
@@ -140,12 +173,12 @@ MagicThumb.options = {
 
 
 <tr>
-	<td colspan="2" style="background:url(/includes/header-20111012/images/menu_sublinks_bg-1x28.gif) repeat-x; height:24px;" valign="top">
+	<td colspan="2" style="background:url(/includes/header-20120404/images/menu_sublinks_bg-1x28.gif) repeat-x; height:24px;" valign="top">
 	<div style="position:relative; height:24px;">
 
-		<div style="position:absolute; left:-18px; top:0;"><img src="/includes/header-20111012/images/submenu_endcap_left-18x32.gif" width="18" height="32" alt=""></div>
+		<div style="position:absolute; left:-18px; top:0;"><img src="/includes/header-20120404/images/submenu_endcap_left-18x32.gif" width="18" height="32" alt=""></div>
 	
-		<div style="position:absolute; right:-18px; top:0;"><img src="/includes/header-20111012/images/submenu_endcap_right-18x32.gif" width="18" height="32" alt=""></div>
+		<div style="position:absolute; right:-18px; top:0;"><img src="/includes/header-20120404/images/submenu_endcap_right-18x32.gif" width="18" height="32" alt=""></div>
 <!-- the width needs to be specified on this div because otherwise IE 7 blows chunks. there's a shocker -->	
 		<div style="position:absolute; left:37px; top:0px; height:24px; width:905px;" id="subcats">
 <!--
@@ -171,7 +204,7 @@ focusPage =
 
 
 
-<!-- END /includes/header-20111012 -->
+<!-- END /includes/header-20120404 -->
 
 
 <h1>Privacy Policy</h1>
@@ -544,7 +577,7 @@ else if	(window.hideDiv != null)	{
 
 
 <!-- BEGIN ProvideSupport.com Graphics Chat Button Code -->
-<div id="ciFeLJ" style="z-index:100;position:absolute"></div><div id="scFeLJ" style="display:inline"></div><div id="sdFeLJ" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/zoovy/safe-standard.js?ps_h=FeLJ&amp;ps_t=1580418943946"></script></div>
+<div id="ciFeLJ" style="z-index:100;position:absolute"></div><div id="scFeLJ" style="display:inline"></div><div id="sdFeLJ" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/zoovy/safe-standard.js?ps_h=FeLJ&amp;ps_t=1580418945576"></script></div>
 <script type="text/javascript">var seFeLJ=document.createElement("script");seFeLJ.type="text/javascript";var seFeLJs=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/zoovy/safe-standard.js?ps_h=FeLJ&ps_t="+new Date().getTime();setTimeout("seFeLJ.src=seFeLJs;document.getElementById('sdFeLJ').appendChild(seFeLJ)",1)</script><noscript><div style="display:inline"><a href="http://www.providesupport.com?messenger=zoovy">Live Customer Support</a></div></noscript>
 <!-- END ProvideSupport.com Graphics Chat Button Code -->
 
