@@ -1,36 +1,36 @@
-> *The following text is extracted and transformed from the applydirect.com.au privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102002301id_/http%3A//applydirect.com.au/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applydirect.com.au privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508022908id_/http%3A//www.applydirect.com.au/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# ApplyDirect - Privacy Policy
+# Privacy Policy
 
 **Respecting Your Privacy**
 
-Apply Direct simplifies the connection between Job Seekers and Employers to create greater value for both parties. Your privacy is important to Apply Direct. This privacy statement provides information about the personal information and the ways in which Apply Direct uses that personal information. 
+Apply Direct simplifies the connection between Job Seekers and Employers to create greater value for both parties. Your privacy is important to Apply Direct. This privacy statement provides information about the personal information and the ways in which Apply Direct uses that personal information.
 
 **Collection Personal Information**
 
-Apply Direct may collect and use personal information from registered users only, including information: 
+Apply Direct may collect and use personal information from registered users only, including information:
 
-  * Provided for the purpose of registering with the website including your name and email address;
-  * About positions applied for via this website; and 
-  * That you send to Apply Direct.
+  *     Provided for the purpose of registering with the website including your name and email address;
+  *     About positions applied for via this website; and
+  *     That you send to Apply Direct.
 
 
 
 **Use of Information**
 
-Apply Direct may use personal information from registered users only, to: 
+Apply Direct may use personal information from registered users only, to:
 
-  * Administer this website;
-  * Personalise the website for you;
-  * Enable you to access and use the website services;
-  * Forward you marketing or job listings information;
-  * To communicate with you; and
-  * To assist us to manage and enhance our services.
+  *     Administer this website;
+  *     Personalise the website for you;
+  *     Enable you to access and use the website services;
+  *     Forward you marketing or job listings information;
+  *     To communicate with you; and
+  *     To assist us to manage and enhance our services.
 
 
 
-Where Apply Direct discloses your personal information to its agents or sub-contractors for these purposes, the agent or sub-contractor in question will be obliged to use that personal information in accordance with the terms of this privacy statement. In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, Apply Direct may disclose your personal information to the extent that it is required to do so by law, in connection with legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights. 
+Where Apply Direct discloses your personal information to its agents or sub-contractors for these purposes, the agent or sub-contractor in question will be obliged to use that personal information in accordance with the terms of this privacy statement. In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, Apply Direct may disclose your personal information to the extent that it is required to do so by law, in connection with legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights.
 
 **Securing Your Information**
 
-Apply Direct will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. 
+Apply Direct will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
