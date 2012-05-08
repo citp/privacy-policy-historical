@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the abcsignup.com privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005213157id_/http%3A//abcsignup.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcsignup.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508065608id_/http%3A//abcsignup.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy With Registration Software | ABC Signup
 
-"We offer a variety of professional development events that require flexibility in registration features. We have found that ABC Signup works wonderfully to meet our needs. It is very adaptable to unique events, and allows us to collect significant assessment information in the registration process, w ... [(Read More)](https://web.archive.org/web/20111005213157id_/http%3A//abcsignup.com/Testimonials.html)
+"We offer a variety of professional development events that require flexibility in registration features. We have found that ABC Signup works wonderfully to meet our needs. It is very adaptable to unique events, and allows us to collect significant assessment information in the registration process, which significantly decreases our workload. The fact that the customer service is so great and reliable is a plus!"  **Judi, Clarkson College**
 
 [](https://web.archive.org/customers.html)
 
