@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the polarisindustries.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224210641id_/http%3A//www.polarisindustries.com/en-US/OurCompany/Privacy/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polarisindustries.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508115727id_/http%3A//www.polarisindustries.com/en-us/Company/Privacy/Pages/Privacy.aspx) for the most accurate reproduction.*
 
-# Polaris ATV, Snowmobiles, RANGER, Victory : Privacy
-
-|   |   
----|---|---  
-  | 
-
-Polaris Privacy Policy 
+# 
 
 | 1. | Introduction  
 ---|---  
@@ -41,7 +35,4 @@ Polaris Privacy Policy
 10. | Contact Us  
   | If you have any questions about Polaris’ privacy policies and practices, please feel free to contact us by email at consumer.service@polarisind.com or by writing to us at Polaris Industries Inc., 2100 Hwy 55, Medina MN 55340, Attention: Webmaster.   
    
-December 2002  
-  
-   
-  |   | 
+December 2002
