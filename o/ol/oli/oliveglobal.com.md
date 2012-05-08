@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oliveglobal.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218210329id_/http%3A//www.oliveglobal.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oliveglobal.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508063508id_/http%3A//www.oliveglobal.com/privacy.aspx) for the most accurate reproduction.*
 
 # Olive E-Business Privacy Policies
 
