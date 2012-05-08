@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idaho.gov privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006115404id_/http%3A//www.idaho.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idaho.gov privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508211154id_/http%3A//www.idaho.gov/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Idaho.gov
 
@@ -10,6 +10,8 @@
 ##### Thanks for visiting the Idaho.gov website.
 
 Our privacy policy is simple: **we collect NO personal information (like names or addresses) when you visit our website**. If you choose to provide that information to us, it is only used to fulfill your request for information or a service.
+
+The State of Idaho is dedicated to protect private information it may collect about its citizens and others from unauthorized access and dissemination in concert with state and federal laws dealing with personal privacy. In order to guarantee a consistent statement of that responsibility, ITRMC has issued this policy.
 
   
 
@@ -34,7 +36,7 @@ The information we automatically collect or store is used to improve the content
 
 ##### E-mail and Surveys
 
-If, during your visit to Access Idaho Idaho.gov, you participate in a survey or send an e-mail to Idaho.gov, the following additional information will be collected: 
+If, during your visit to Idaho.gov, you participate in a survey or send an e-mail to Idaho.gov, the following additional information will be collected: 
 
   1. E-mail Correspondence - The e-mail address and contents of the e-mail; and 
   2. Surveys - Any information you volunteered in response to a survey. 
@@ -54,6 +56,10 @@ We collect no personal information about you unless you voluntarily participate 
 If personal information is requested on the web site or volunteered by the user, state law and the federal Privacy Act of 1974 may protect it. However, this information is a public record, once you provide it, and may be subject to public inspection and copying if not protected by federal or state law.
 
 Users are cautioned that the collection of personal information requested from or volunteered by children online or by e-mail will be treated the same as information given by an adult and may be subject to public access.
+
+Children under the age of 13 are not eligible to use services that require submission of personal information and should not submit any personal information to us. This includes submitting personal information to the website as part of a user profile or personalization profile. If you are a child under the age of 13, you can use these services only if used together with your parents or guardians. Seek guidance from your parents or guardians if you are under the age of 13.
+
+If we decide to begin collecting personal information from children under the age of 13, we will notify parents that it is being requested, disclose the reasons for collecting it, and disclose our intended use of it. We will seek verifiable parental consent before collecting any personally identifiable information. If we do collect such information, parents may request information on the type of data being collected, view their child's information, and, if they choose, prohibit us from making further use of their child's information. We will not provide personal information about children to third parties.
 
 ### Public Disclosure
 
@@ -104,6 +110,19 @@ This information should not be construed in any way as giving business, legal, o
 ### Disclaimer
 
 Idaho.gov has links to other websites, including links to web sites operated by other government agencies, nonprofit organizations and private businesses. When you link to another site, you are no longer on Idaho.gov and this Idaho.Gov Portal Privacy Notice will not apply; you are subject to the privacy policy of that new site.
+
+### Legal Notices
+
+Any trademarks that appear on this site are the property of their respective owners who may or may not be affiliated with, connected to, or sponsored by Idaho.gov. Idaho.gov respects the rights of all copyright holders, and therefore, Idaho.gov has adopted and implemented a policy that provides for the termination in appropriate circumstances of users and account holders who infringe the rights of copyright holders. If you believe that your work has been copied in a way that constitutes copyright infringement, please provide Idaho.gov's Copyright Agent the following information required by the Online Copyright Infringement Liability Limitation Act of the Digital Millennium Copyright Act, 17 U.S.C. 512:
+
+  1. A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;
+  2. Identification of the copyright work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site;
+  3. Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material;
+  4. Information reasonably sufficient to permit us to contact the complaining party;
+  5. A statement that the complaining party has a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
+  6. A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+
+
 
 ### Contact Information
 
