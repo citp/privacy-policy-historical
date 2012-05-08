@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluecoat.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108205809id_/http%3A//www.bluecoat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluecoat.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508230442id_/http%3A//www.bluecoat.com/privacy-policy) for the most accurate reproduction.*
 
 # Blue Coat – Privacy Policy
 
@@ -86,17 +86,17 @@ Blue Coat has implemented industry-standard security mechanisms and procedures t
 
 ### Unsubscribing From Future Communications
 
-You can unsubscribe from future marketing communications by logging into your account at [www.bluecoat.com](http://www.bluecoat.com/) under “Manage Email Settings” and modifying your communication preferences. Should you for any reason continue to receive unsolicited and undesired communications from Blue Coat, please forward the communication to [privacy@bluecoat.com](mailto:privacy@bluecoat.com) for further attention.
+You can unsubscribe from future marketing communications by logging into your account at www.bluecoat.com under “Manage Email Settings” and modifying your communication preferences. Should you for any reason continue to receive unsolicited and undesired communications from Blue Coat, please forward the communication to [privacy@bluecoat.com](mailto:privacy@bluecoat.com) for further attention.
 
 ### Updating Your Personal Information
 
-You can update your personal information maintained by our sales and marketing organization by logging into your account at [www.bluecoat.com](http://www.bluecoat.com/) and modifying your personal information. Should you need to update any other information, please forward the details to [privacy@bluecoat.com](mailto:privacy@bluecoat.com).
+You can update your personal information maintained by our sales and marketing organization by logging into your account at www.bluecoat.com and modifying your personal information. Should you need to update any other information, please forward the details to privacy@bluecoat.com.
 
 ### Accessing Your Personal Information
 
-You are entitled to access the personal information that Blue Coat holds relating to you. Email your request to [privacy@bluecoat.com](mailto:privacy@bluecoat.com). To the extent permitted by applicable law, Blue Coat reserves the right to assess an administrative fee for such access.
+You are entitled to access the personal information that Blue Coat holds relating to you. Email your request to privacy@bluecoat.com. To the extent permitted by applicable law, Blue Coat reserves the right to assess an administrative fee for such access.
 
 ### Additional Questions
 
-If you have further questions or concerns about Blue Coat’s collection, use or disclosure of your personal information, please email the Blue Coat at [privacy@bluecoat.com](mailto:privacy@bluecoat.com). For more information about this site or your visit, please email us at [webteam@bluecoat.com](mailto:webteam@bluecoat.com).  
+If you have further questions or concerns about Blue Coat’s collection, use or disclosure of your personal information, please email the Blue Coat at [privacy@bluecoat.com](mailto:privacy@bluecoat.com). For more information about this site or your visit, please email us at webteam@bluecoat.com.  
 This document was last updated September 22, 2010
