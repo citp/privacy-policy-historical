@@ -1,111 +1,75 @@
-> *The following text is extracted and transformed from the talkbiz.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213141id_/http%3A//www.talkbiz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkbiz.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508092350id_/http%3A//talkbiz.com/legal/privacy.html) for the most accurate reproduction.*
 
-# TalkBiz News Privacy Policy
-
-**TalkBiz Digital, LLC  
-Privacy Policy**
+# TalkBiz Digital, LLC - Privacy Policy
 
 This policy covers all sites owned or operated by Paul Myers and/or TalkBiz Digital, LLC, unless otherwise noted on the site.
 
-Most recent change: March 2, 2009
+Most recent change: January 26, 2012
 
-Not only is this legalese required, it's a really good idea. It lets people know what's involved in their dealings with the folks they associate with online.
+**General Privacy Policies**
 
-That being said, on with the Required Law Talk.
+We respect your interest in your privacy and as a result we have created this informational disclosure. 
 
-**How Do We Gather Information About Our Visitors?**
+We collect and use personal information for many purposes, including but not limited to, billing; product and service fulfillment; to better understand our customer needs; to provide a better website, products and services; to communicate with customers and potential customers regarding our products and services and third party products and services. 
 
-Depends on where you are and what you're doing.
+Generally, your private information will only be disclosed to our owners, employees, independent contractors, subsidiaries, partners, affiliates, attorneys, consultants, business associates, service providers, suppliers and agents, acting on our behalf or request. This general rule, and disclosures in specific situations, is more particularly described below. 
 
-If you want to use certain portions of a site, you might need to enter information into a form. An example is the Blog, at which you have to register in order to leave comments. You need to provide information in order to get our newsletters or update notifications. And, obviously, you have to provide certain information in order to purchase products.
+You must be at least 18 years old to access this website. We do not direct this website to persons under 18, nor do we knowingly collect any personal information from children under the age of thirteen. 
 
-Other activities which we might engage in that would require this could be contests, discussion forums, or other interactive options, such as the "Make Your Own Business" tutorial or occasional surveys.
+**Information Collected by our ISP**
 
-Some information is collected automatically. The web server software collects the usual information (IP address, browser type, etc) which is stored in log files. This is not personally identifying, and virtually every site on the net collects this.
+The hosting provider for this Internet site (as with any Internet site) has the ability to record various information, including domain name, pages accessed, date and time of access, web browser type and computer operating system, and referring information, and to disclose this information. This is most commonly done by providing access to raw server logs. For more information you should perform an Internet search on 'server logs' or 'raw server logs.' We may have access to our raw server logs and access reports prepared by our hosting provider. 
 
-We also track some actions of subscribers to the various publications in ways that are personally identifiable. This is done to help us to offer more relevant information, based on what you actively choose to do, view or visit via links in the publications.
+**Financial Information for Billing Purposes**
 
-We may also use systems that set "cookies," which are used to make certain web activities more user-friendly. They can remember passwords, limit how many times you see certain ads or other features, and help to customize the site for your enjoyment. If you refuse cookies, you may find that some features don't work for you, or don't work as well.
+We sell products and services. When sales are made financial information must be disclosed. This information can include any number of facts you are asked to provide, but most commonly includes your name, financial / credit card information, billing address, and email address. Generally, this purchase information will be provided by you to a third party payment processor and we do not receive your financial / credit card information. 
 
-It's a trade-off, which you have to decide on for yourself.
+In the event we do receive financial / credit card information, we will not disclose it to anyone unless disclosure is required by law or a court order, or unless disclosure is required to address an issue implicated by the financial transaction. If you claim that your financial information was used to make a purchase you did not authorize, details about the financial transaction may be disclosed to law enforcement and anyone else we deem necessary to address the matter. 
 
-The web keeps getting more and more complicated. It's possible (even likely) that we'll end up with other systems added that collect other information. What and how, I don't know. My crystal ball is at the cleaners. ;)
+**Use of eMail Addresses and other Contact Information**
 
-**What Do We Do With This Information?**
+An important part of our services includes being able to provide information to you. As a result, you expressly consent to receiving communications from us via email, fax, telephone, mail, or any other delivery method. 
 
-First off, we'll respect your privacy. In a meaningful way.
+As a customer you are agreeing to receive information about the product or service you purchased. This may include, but is not limited to, information about product or service updates, new features, or information we believe you may find interesting. 
 
-If you ask for a subscription, we'll use the information to deliver the requested content. That may include advertising, including stand-alone (or "solo" ads).
+We may also send you information about other products and services our company offers. 
 
-In the case of free publications, you should assume that it will. There's very little that is both free and ad-free.
+We will not sell, provide, or transfer you email address to others. 
 
-Gotta pay the bills somehow, right?
+We may allow advertising to our customers, or engage in joint ventures, which result in your receiving advertisements from selected third parties. 
 
-Each subscription is treated separately. You can subscribe to, or unsubscribe from, any publication without that action affecting your other subscriptions.
+**Identification of Purchasers**
 
-If we track personally identifying information, it will be used to follow up and provide content that's more relevant to the individuals' preferences and interests.
+If you purchase one of our products or services, you authorize us to use your name and identification information in advertising or promotions. 
 
-We might include resource links in the newsletter, and track who clicks through to each one separately. That data might be used so that we can send information relevant to those topics only to the subscribers or visitors who expressed those interests.
+We also use personal information in an aggregate form (i.e., not individually attributable to you) for business analysis, operational, marketing and other promotional purposes. 
 
-For example, suppose that 500 subscribers clicked through to a story on butterfly collecting, and we later find out about products, resources or other information about butterfly collecting. We could send that only to the folks who had expressed an interest, rather than sending it to everyone on that particular subscription list.
+**Cookies**
 
-This way, we can work to give you more of what you want, and less of what other people want.
+Cookies may be used to keep track of referred affiliate commissions and to monitor access to our website. You consent to any future use of cookies for testing purposes and the use of cookies for publicly available data to gather statistics for the purpose of determining which search engines, referring sites, key words, etc., bring visitors to our website, which pages visitors are most interested in, what web browsers are used, etc. Various providers may be used for this purpose. The purpose is obtain information that will help promote the website, make the website more interesting and useful to visitors, and to identify areas where improvement is needed. 
 
-Note that **visiting resources tracked in this way does NOT create a new subscription!** If you unsubscribe from the main publication the resource was mentioned in, you will not have to unsubscribe separarately from each of these topical "sub lists."
+Additionally, various third party information suppliers and other entities that provide information for this website, or for use by us, may use cookies. Examples include, but are not necessarily limited to billing providers, third party advertisers, and third party resources we promote. 
 
-Information provided to enable a subscription for each publication will be used for contact relevant to that publication, as well as possibly sending updates about the associated website or other information we consider appropriate.
+**Disclosure by Necessity**
 
-**Your information will not be made available to anyone but the publisher of the newsletter or other publication to which you subscribed.**
+Private information may be disclosed if required by a court order, statute, law, or regulation. 
 
-(See also our "Publishing Policies.")
+Information is subject to disclosure to address a claim that you are violating the terms of any agreement pertaining to your use of your use this website or our products or services, or rights of any third party. 
 
-Note that our service providers may have access to some of this data, and may need to use it for troubleshooting purposes. We may also be required to give portions of it to law enforcement personnel upon duly authorized request.
+Information is also subject to disclosure if we believe that disclosure is necessary to identify, contact or bring an action against someone who may be causing injury to or interfering (either intentionally or unintentionally) with our rights or property, your rights or property, other users of our website, products or services, or anyone else. 
 
-Some information, such as web logs and the like, are not personally identifying. This is analyzed in aggregate, to help us understand better what our visitors and members find most useful, and to generally improve the sites for your use and enjoyment.
+As we continue to develop our business, we or our affiliates may sell or buy other businesses or entities, or we may merge with another company, or be bought by another company. In such transactions, personal information may be one of the transferred assets. 
 
-On occasion it may be necessary to correlate this with individual user data to investigate and address abusive actions by visitors, such as subscription forgery attempts, harrassment and other unacceptable behavior. This will be done only as deemed necessary to prevent or correct such abusive behavior.
+Your information may be stored and processed in any country in which we maintain facilities or conduct operations. By using our website, products and services, you consent to any such transfer of information outside of your country. 
 
-Third Party Sites and Advertisers
+After your account becomes inactive your information may remain in our databases, computers, and archives, and cannot reasonably be expunged. 
 
-We are not in control of or responsible for anything that happens on other sites you may visit after leaving our sites.
+**Policy Changes**
 
-It is possible that advertisers on our sites may use technology, such as cookies, to track or retrieve information about you.
+These policies may be amended by us at any time and without notice, but will be posted at this page. 
 
-We may also use third party service providers, such as autoresponders, which might track some information for the purpose of providing the required services. We do not control this, and are not responsible for the actions of these or any other third party.
+You agree that your continued use of our websites, product or service after that date will constitute your consent and acceptance of the amendment. 
 
-Before posting to blogs, discussion boards or other such features, consider that some of the information you post will be available to the public. Only reveal what you are comfortable disclosing to strangers.
+You may contact us via email at [paul@talkbiz.com](https://web.archive.org/web/20120508092350id_/http%3A//talkbiz.com/legal/paul@talkbiz.com?Subject=Privacy_Policy), or at the address below.   
+  
 
-Information On Visitors Under 13
-
-We do not knowingly collect or solicit personally identifiable information from children. (I can't honestly see what a kid would want with these sites anyay.)
-
-If you believe we have inadvertently collected information from anyone under the age of 13, please notify us, and that information will be deleted immediately. You can contact us:
-
-Via email at [paul@talkbiz.com](mailto:paul@talkbiz.com?Subject=COPPA).
-
-Or:
-
->  **TalkBiz Digital, LLC  
->  651 E 24th St  
->  Erie, PA 16503  
->  (814)452-2855**
-
-Changes To This Policy
-
-We reserve the right to change this policy at any time. Any changes will be posted to this page. Continuing to use the site or remain subscribed to any related publications after the posting of changes will mean you're cool with them and accept them.
-
-Governing Law
-
-TalkBiz Digital, LLC. is a registered Pennsylvania corporation. The policy and use of the sites operated by or for TalkBiz Digital, LLC. are governed by Pennsylvania law.
-
-If a dispute occurs, we agree to first try to settle the matter via a mutually agreed upon mediator, either via electronic communication (phone, fax and/or email between us and the mediator), or via a mutually agreed upon mediator located in or near Erie, Pennsylvania.
-
-If it's impossible to arrive at a satisfactory solution through mediation, we agree to hand the dispute over to binding arbitration, in Erie, Pennsylvania, under the rules of the American Arbitration Association.
-
-Judgements rendered by the arbitrators may be entered in any court with appropriate jurisdiction.
-
-Neither this statement nor any of the associated documents are intended to, nor do they, create any contractual or other rights of any party.
-
- **TalkBiz Digital, LLC  
-651 E 24th St  
-Erie, PA 16503** [Main Page](https://web.archive.org/web/20111231213141id_/http%3A//www.talkbiz.com/index.html) . . [Privacy Policy](https://web.archive.org/web/20111231213141id_/http%3A//www.talkbiz.com/privacy.html) . . [Publishing Policies](https://web.archive.org/web/20111231213141id_/http%3A//www.talkbiz.com/policy.html)
