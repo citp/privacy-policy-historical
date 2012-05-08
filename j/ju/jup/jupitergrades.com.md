@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jupitergrades.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108123713id_/http%3A//jupitergrades.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jupitergrades.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508212844id_/http%3A//jupitergrades.com/about/privacy.html) for the most accurate reproduction.*
 
 # Jupiter Privacy Policy
 
