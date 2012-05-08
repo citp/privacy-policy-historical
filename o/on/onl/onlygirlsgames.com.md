@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlygirlsgames.com privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005222856id_/http%3A//www.onlygirlsgames.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlygirlsgames.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508022437id_/http%3A//www.onlygirlsgames.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,3 +30,5 @@ All the games published on Onlygirlsgames.com must follow the above rule and we 
 
   
 **By playing on Onlygirlsgames.com and using this website, you consent with this Privacy Policy and you agree to be banned without any warnings if you are reported of missuse of our rules and terms. If you do not agree with our policy we politely ask you to stop using our system. You also agree that we may at any time change the contents of this Privacy Policy without any announcement.**
+
+Thanks for visiting our Girls Games website. We provide, safe, fun games for girls and free games for everyone in many different game categories such as cooking games, dressup games, celebrity games and cartoon games.
