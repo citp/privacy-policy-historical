@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnrealenglish.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007011935id_/http%3A//learnrealenglish.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnrealenglish.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508022012id_/http%3A//learnrealenglish.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Learn Real English Conversation Now
 
@@ -57,13 +57,7 @@ If we wish to use your personal data for a new purpose, we offer you the means t
 
 **Use of Collected Data**
 
-We use the collected data to create content on our website that we believe will interest visitors to our website.
-
-We use your contact information to send you information about our company and promotional material from our partners. 
-
-We may also use this data to improve our site, for statistical analysis and for marketing and promotional purposes. Information collected by us may be added to our databases and used for future correspondence regarding site updates, new products and services, upcoming events, and/or status of orders placed online. 
-
-By using this site, you agree that you may be contacted in any manner contemplated in this section.
+We use the collected data to create content on our website that we believe will interest visitors to our website. We use your contact information to send you information about our company and promotional material from our partners. We may also use this data to improve our site, for statistical analysis and for marketing and promotional purposes. Information collected by us may be added to our databases and used for future correspondence regarding site updates, new products and services, upcoming events, and/or status of orders placed online. By using this site, you agree that you may be contacted in any manner contemplated in this section. 
 
 **Children’s Privacy**
 
@@ -79,7 +73,7 @@ We do not disclose your personal data to our subsidiaries or other organizations
 
 **Your Opt-Out Rights**
 
-You have the right to opt-out of receiving future correspondence from us by:
+You have the right to opt-out of receiving future correspondence from us by: 
 
   * Clicking on the unsubscribe link in the email we send you
   * Sending an email to info@learnrealenglish.com requesting that you be opted-out of future correspondence
@@ -111,7 +105,7 @@ We ensure that your personal data will not be disclosed to State institutions an
 
 You can ask us, by sending an email (members@learnrealenglish.com ):
 
-whether we are keeping personal data about you.
+whether we are keeping personal data about you. 
 
 We will provide you with a readable copy of the personal data which we keep about you, within a month. – although we may before require proof of your identity -.We will provide the information without any charge. We allow you to challenge the data that we hold about you and, where appropriate, you may have the data:
 
