@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tantusinc.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108041500id_/http%3A//www.tantusinc.com/s.nl/c.1143818/it.I/id.11/.f) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tantusinc.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508025109id_/http%3A//tantusinc.com/s.nl/c.1143818/it.I/id.11/.f) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,7 +23,7 @@ Your personally identifiable information is kept secure. Only authorized employe
  **Privacy Contact Information**  
 If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
 
-By e-mail: Click here to [visit our contact page.](http://tantusinc.com/contact.php?gc=clear)  
+By e-mail: Click here to [visit our contact page.](https://web.archive.org/contact.php)  
 By Phone: 775-284-6400
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
