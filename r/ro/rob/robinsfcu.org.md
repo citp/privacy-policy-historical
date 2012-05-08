@@ -1,74 +1,92 @@
-> *The following text is extracted and transformed from the robinsfcu.org privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217204640id_/https%3A//www.robinsfcu.org/Forms_Applications/Disclosures/Privacy%2520Notice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robinsfcu.org privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508182524id_/https%3A//www.robinsfcu.org/Forms_Applications1/Disclosures/2011%2520Privacy%2520Policy%2520Final%2520Aug.pdf) for the most accurate reproduction.*
 
-# 7/10
+# FACTS
 
-7/
- 10
+                                                                                                                Rev [08/2011]
+                       WHAT DOES ROBINS FEDERAL CREDIT UNION DO
+FACTS                  WITH YOUR PERSONAL INFORMATION?
+                       Financial companies choose how they share your personal information. Federal law gives
+Why?                   consumers the right to limit some but not all sharing. Federal law also requires us to tell you how
+                       we collect, share, and protect your personal information. Please read this notice carefully to
+                       understand what we do.
+What?                  The types of personal information we collect and share depend on the product or service you have
+                       with us. This information can include:
+                             Social Security number and Name
+                             Address and Telephone Number
+                             Email Address and Income
+                       When you are no longer our customer, we continue to share your information as described in this
+                       notice.
+How?                   All financial companies need to share customers’ non-public personal information to run their
+                       everyday business. In the section below, we list the reasons financial companies can share their
+                       customers’ non-public personal information; the reasons Robins Federal Credit Union chooses to
+                       share; and whether you can limit this sharing.
+                                                               Does Robins Federal
+Reasons we can share your personal information                                                Can you limit this sharing?
+                                                                Credit Union share?
+For our everyday business purposes—
+such as to process your transactions, maintain your
+                                                                          Yes                               No
+account(s), respond to court orders and legal
+investigations, or report to credit bureaus
+For our marketing purposes—
+                                                                          Yes                              Yes
+to offer our products and services to you
+For joint marketing with other financial companies                        Yes                              Yes
+For our affiliates’ everyday business purposes—                                                            N/A
+                                                                          No
+information about your transactions and experiences
+For our affiliates’ everyday business purposes—                                                            N/A
+                                                                          No
+information about your creditworthiness
+                                                                                                           N/A
+For our affiliates to market to you                                       No
+For nonaffiliates to market to you                                        No                               N/A
+                             Call 478.923.3773 or 1.800.241.2405 - our menu will prompt you through your choice(s)
+To limit
+                             Visit us online: www.robinsfcu.org or
+our sharing
+                        Please note:
+                        If you are a new customer, we can begin sharing your information [30] days from the date we sent
+                        this notice. When you are no longer our customer, we continue to share your information as
+                        described in this notice.
+                        However, you can contact us at any time to limit our sharing.
+Questions?             Call 478.923.3773, 1.800.241.2405, or go to www.robinsfcu.org
 
 
-TRUST has always been the foundation of the Credit Union’s        To protect your privacy, we only work with companies that
-relationship with its members. Because you trust us with your     agree to maintain strong confidentiality and limit the use
-financial and other personal information, we are committed to     of information we provide. We do not allow these companies
-protecting your privacy and safeguarding your information. In     to sell the member information we provide to other
-order to preserve that trust, we want you to understand our       third parties.
-information practices and your rights to ask us not to share
-certain information about you. This notice, required by law,      Certain Parties That Receive Information
-explains how we collect, use, and safeguard your personal         From Us Where You Can Request To Opt-Out
-financial information.                                            We may disclose non-public personal information about you
-                                                                  to the following types of third parties:
-Information We Collect
-                                                                     Robins Investment & Retirement Services provides our
-                                                                                                                                                                                                                                                                                                                                    ACCOUNT NUMBER
-We collect information about our members for lawful                  members with retirement, insurance, and investment
-business purposes, or as otherwise required by applicable law.       services; these services are offered through CUNA
-We collect non-public personal information about you from            Brokerage Services Incorporated (CBSI).
-the following sources:
- (a) Information we receive from you on membership and loan       Although joint marketing agreements are permissible by law,
-     applications and other forms and any communications          the Credit Union will allow you to Opt-Out of certain
-     you send to us including electronic messages;                marketing business relationships. Therefore, if you prefer that
- (b)Information about your transactions with us or others;        we not disclose information about you to certain businesses,
-                                                                                                                                     Robins Federal Credit Union
- (c) Information we receive from a consumer reporting agency;     you may Opt-Out of these disclosures. The Opt-Out will
- (d)Other third parties, such as market research firms, that      remove your information from all third-party providers listed
-     provide us with a variety of information regarding our       in the section above, “Certain Parties That Receive Information
-                                                                                                                                                                                          PRINT FULL NAME                                                                                                                                                                                                       PHONE NUMBER
-     members, such as the number of individuals in a household    From Us Where You Can Request To Opt-Out.”
-                                                                                                                                                                                                                                                                             SIGNATURE
-     and home ownership;
-                                                                  Opt-Out Information
- (e) Information obtained when verifying the information you                                                                                                                                                                                                                                                                        DATE
-     provide on an application or other forms, such as from       If you have questions about this notice, if you would like
-     your current or past employers or from other institutions    to exercise your Opt-Out right, or if you have elected to
-                                                                                                                                           Opt-Out Form
-     where you conduct financial transactions; and                Opt-Out previously but have changed your mind, please
-                                                                                                                                                                                                                                                                                                                                                        I now revoke that decision and I choose to opt-in
-                                                                                                                                                                                                                                                                                                       Previously, I chose to opt-out of information sharing;
- (f) Online, such as from cookies or other technology that may    detach and complete the accompanying form, and mail or
-                                                                                                                                                                                                                             I choose to opt-out of information sharing with the
-     be used to remember passwords for you.                       deliver it to RFCU.
-                                                                                                                                                                   Please choose the statement that best fits your needs:
-Information We Share                                              Note To Non-Member Joint Deposit Account Owner
-                                                                  Any one of you may exercise the right to Opt-Out, even if you
-We are committed to providing you with competitive products       are not actually a member of the Credit Union. The Credit
-and services to meet your financial needs; this may require       Union will treat an Opt-Out request from any one party to an
-that we share information about you with others to complete       account as if all of you directed us to not make disclosures to
-your transactions and provide you with a choice of products       affiliated parties.
-and services. We may also disclose the following types of non-
-public personal information about you:                            Disclosure Of Information About Former Members
- (a) Information we receive from you on applications and other    If you terminate your membership with the Credit Union, we
-     forms, such as your name, address, Social Security number,
-                                                                                                                                                                                                                                                                                                                                                        information sharing with the companies listed within.
-                                                                  will not share information we have collected about you, except
-                                                                                                                                                                                                                                                                           companies listed within.
-     telephone number, e-mail address, and income;                as permitted or required by law.
- (b)Information about your transactions with us or other
-     companies that work closely with us to provide you with      How We Protect Your Information
-     financial products and services, such as account balances,   We restrict access to non-public personal information about
-     payment history, and credit card usage;                      you to those employees who have a specific business purpose in
- (c) Information we receive from a consumer reporting agency,     utilizing your data. Our employees are trained in the importance
-     such as your creditworthiness and credit history;            of maintaining confidentiality and member privacy. We main-
- (d)We may also disclose all the information we collect to        tain physical, electronic, and procedural safeguards that comply
-     companies that perform marketing and other services on       with federal regulations and leading industry practices to
-     our behalf; and                                              safeguard your non-public personal information.
- (e) We may also share information when permitted by
-     applicable law.
+Page 2
+Who we are
+Who is providing this notice?        Robins Federal Credit Union
+What we do
+How does Robins Federal Credit Union To protect your personal information from unauthorized access
+protect my personal information?     and use, we use security measures that comply with federal law.
+                                     These measures include computer safeguards and secured files
+                                     and buildings.
+How does Robins Federal Credit Union We collect your personal information, for example, when you
+collect my personal information?         open an account or apply for a loan
+                                         send emails or other types of communication to the credit union
+                                         conduct transactions with us or others
+                                     We also collect information we receive from consumer reporting
+                                     agencies and other third parties such as market research firms.
+                                     Federal law gives you the right to limit only
+Why can’t I limit all sharing?
+                                         sharing for affiliates’ everyday business purposes—information
+                                          about your creditworthiness
+                                         affiliates from using your information to market to you
+                                         sharing for nonaffiliates to market to you
+                                     State laws and individual companies may give you additional rights to
+                                     limit sharing.
+                                     Robins Federal Credit Union will treat an opt-out request from any one
+What happens when I limit sharing
+                                     party to an account as if all of you chose to opt-out.
+for an account I hold jointly with
+someone else?
+Definitions
+Affiliates                           Companies related by common ownership or control. They can be
+                                     financial and nonfinancial companies.
+                                         Robins Federal Credit Union does not share with affiliates
+Nonaffiliates                        Companies not related by common ownership or control. They can be
+                                     financial and nonfinancial companies.
+                                         Robins Federal Credit Union does not share with nonaffiliates
+Joint marketing                      A formal agreement between nonaffiliated financial companies that
+                                     together market financial products or services to you.
+                                         Robins Investment & Retirement Services, CUNA Mutual
