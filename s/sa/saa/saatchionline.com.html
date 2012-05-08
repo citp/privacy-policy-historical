@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the saatchionline.com privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231020516id_/http%3A//www.saatchionline.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the saatchionline.com privacy policy that was archived on 2012-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120508063159id_/http%3A//www.saatchionline.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en-US" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//cdn.optimizely.com/js/12533397.js"></script>
@@ -16,9 +16,9 @@
 <meta name="og:type" content="article">
 <meta name="og:image" content="http://www.saatchionline.com/media/images/saatchi_online_small_logo.gif">
 <meta name="og:title" content="Privacy Policy | Saatchi Online">
-<meta name="og:url" content="http://www.saatchionline.com/privacy?">
+<meta name="og:url" content="http://www.saatchionline.com/privacy">
 <meta name="og:description" content="Privacy and Security Policy Related to the Use, Protection, and Disclosure of Personal Information at Saatchi Online">	
-	<link rel="stylesheet" type="text/css" href="/assets/css/,infopage?v=1325192772">
+	<link rel="stylesheet" type="text/css" href="/assets/css/infopage?v=1335892118">
 	<!--[if IE 7]>
 	<link rel="stylesheet" type="text/css" href="/assets/css/ie"/>
 	<![endif]-->
@@ -26,12 +26,12 @@
 	<link rel="stylesheet" type="text/css" href="/assets/css/ie8"/>
 	<![endif]-->
 	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
-	<meta name="viewport" content="width=device-width">
+	<meta name="viewport" content="width=device-width, height=device-height">
 
 	<link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.6/themes/smoothness/jquery-ui.css" media="screen" rel="stylesheet" type="text/css">	
 
-		<script type="text/javascript" src="/media/js/yui_rollup.js?v=1325192772"></script>
-	<script type="text/javascript" src="/assets/js/?v=1325192772"></script>
+		<script type="text/javascript" src="/media/js/yui_rollup.js?v=1335892118"></script>
+	<script type="text/javascript" src="/assets/js/?v=1335892118"></script>
 
 	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.6/jquery-ui.min.js"></script>
@@ -42,7 +42,7 @@
 	  var _gaq = _gaq || [];
 	  _gaq.push(['_setAccount','UA-15756294-1']);
 	  _gaq.push(['_setDomainName','.saatchionline.com']);
-	  _gaq.push(['_setCustomVar','1','userType','anonymous']);
+	  _gaq.push(['_setCustomVar',1,'userType','anonymous']);
 	  _gaq.push(['_trackPageview']);
 		
 	  (function() {
@@ -56,12 +56,11 @@
 
 	
 </head>
-<body class="saatchi privacy signed-out fixed">
-
+<body class="saatchi privacy signed-out">
 <div id="so-doc" class="container">
 	
-	<header id="hd">
-		<div id="so-hd">
+	<header id="hd" class="row-layout">
+		<div class="twelvecol last"><div id="so-hd">
 	<div class="so-quick-links">
 		<ul class="so-gallery-links">
 			<li class="first" style="border:0;">Visit:</li>
@@ -69,9 +68,10 @@
 			<li><a title="Magazine" href="http://magazine.saatchionline.com/" target="_parent">Magazine</a></li>
 			<li class="last" style="border:0;"><a title="Gallery Shop" href="http://www.saatchi-gallery.co.uk/galleryshop/" target="_blank">Gallery Shop</a></li>
 					</ul>
-		<ul class="so-artist-links">	
+		<ul class="so-artist-links">
+				
 			<li class="fan-page-like"><div class="fb-like" data-href="www.facebook.com/saatchionline" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false"></div></li>
-			<li class="first" style="border:0;padding-right: 0px;">Artists:</li>
+						<li class="first" style="border:0;padding-right: 0px;">Artists:</li>
 			<li class="upload last" style="border:0;padding-right: 0px;"><a href="/upload" title="Sell / Upload" target="_parent">Sell / Upload</a></li>
 		</ul>
 		<div class="clearfix"></div>
@@ -100,13 +100,18 @@
 				<div class="clearfix"></div>
 			</div>
 			<div id="so-hd-search">
-				<form action="/buy-art" method="get" id="header_search_form" target="_parent">
-					<input class="keywords" type="text" name="query" value="Search for art" placeholder="Search for art">
+				<form action="/buy-art" method="get" id="header_search_form" class="so-search" target="_parent">
+					<input class="keywords" type="text" name="query" value="Search for art">
 					<input type="submit" value="GO" class="so-button">
 				</form>
-				<div id="search-type"><input name="search-for" type="radio" value="art-for-sale" checked=""> <span>Art</span><input name="search-for" type="radio" value="search-artist"> <span>Artist/Collections</span></div>
+				<div id="search-type">
+					<input id="search-for-art" class="so-radio" name="search-for" type="radio" value="art-for-sale" checked=""> <label for="search-for-art">Art</label>
+					<input id="search-for-artist" class="so-radio" name="search-for" type="radio" value="search-artist"> <label for="search-for-artist">Artist/Collections</label>
+					<div class="clearfix"></div>
+				</div>
+				
 			</div>
-					</div>
+		</div>
 		<div class="clearfix"></div>
 	</div>
 </div>
@@ -143,82 +148,173 @@ Saatchi.Loader.load('dropdown', {js:true}, function() {
 	$('.sub-menu-trigger a').dropdown();
 });
 </script>
+<script>
+ images = new Array(); // Array of images to load in background for quick view and hover over
+</script>
+</div>
+		<div class="clearfix"></div>
 	</header>
 		
-	<div id="bd" class="row-layout">		<div id="so-privacy-page" class="pageInfo so-col-main">
-	<div class="hd">
-		<h1>Saatchi Online Privacy Policy</h1>
+	<div id="bd" class="row-layout">		<div id="so-page-nav" class="threecol">
+	<div class="so-module">
+		<div class="hd"></div>
+		<div class="bd">
+			<ul>
+				<li><a href="/help">FAQ</a></li>
+				<li><a href="/contact">Contact Us</a></li>
+				<li><a href="/terms">Terms</a></li>
+				<li class="active"><a href="/privacy">Privacy Policy</a></li>
+				<li><a href="/copyright">Copyright Policy</a></li>
+			</ul>
+		</div>
+		<div class="ft"></div>
 	</div>
-	<div class="bd">
-		<p>Effective Date: <strong><em>August 1, 2011</em></strong></p>
-
-		<p>Saatchi Online ("<strong><em>Saatchi Online,</em></strong>" "<strong><em>we</em></strong>" or "<strong><em>our</em></strong>") provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of www.saatchionline.com (the "<strong><em>Site</em></strong>"). Saatchi Online makes available through the Site an online service for selling and purchasing original works of art and commercially exploiting digital images of works of art (the "<strong><em>Services</em></strong>"). This Privacy Policy applies only to information that you provide to us through the Site and Services.</p>
-		<p>We may update this Privacy Policy from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You should consult this policy regularly for any changes. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Service, located at <a href="http://www.saatchionline.com/terms">http://www.saatchionline.com/terms</a>.</p>
-		<p>As used in this policy, the terms "using" and "processing" information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally.</p>
-		
-		<p><strong>Information Collection and Use: Personally Identifiable Information</strong></p>
-		<ul>
-			<li>In the course of using the Site and Services, you may provide us with personally identifiable information, which refers to information about you that can be used to contact or identify you ("<strong><em>Personal Information</em></strong>"). Personal Information includes, but is not limited to, your name, phone number, credit card or other billing information, email address, phone number and postal address. We use your Personal Information primarily to provide and improve the Site and Services and to respond to your inquiries.</li>
-			<li>We may also request that you provide certain information, such as your zip code and personal preferences, which is typically considered "<strong><em>Non-Identifying Information</em></strong><em>" </em>because it cannot, by itself, be used to contact or identify you.</li>
-			<li>We use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) primarily to provide and improve the Services, to complete your transactions and respond to your inquiries.</li>
-			<li>Certain Non-Identifying Information would be considered a part of your Personal Information if it were combined with other identifiers (for example, combining your zip code with your street address) in a way that enables you to be identified. But, the same items of information are considered Non-Identifying Information when they are taken alone or combined only with other non-Identifying information (for example, your age). We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other Saatchi Online users to attempt to provide you with a better experience, to improve the quality and value of the Site and Services and to analyze and understand how our Site and Services are used.</li>
-			<li>We also use your Personal Information to contact you with Saatchi Online newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or via the "Account" section of the Site. (See "<strong>Changing or Deleting Information,</strong>" below.)</li>
-		</ul>
-		<p><em><span style="text-decoration: underline;">Log Data</span></em><em>. </em>When you visit the Site, whether as a Member or a non-registered user just browsing (any of these, a "<strong><em>Saatchi Online User</em></strong>"), our servers automatically record information that your browser sends whenever you visit a website (<strong><em>"Log Data"</em></strong>). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type or the webpage you were visiting before you came to our Site, pages of our Site that you visit, the time spent on those pages, information you search for on our Site, access times and dates, ads you click on during your use of the Site, your viewing preferences, bookmark habits and other statistics. We use this information to monitor and analyze use of the Site and for the Site's technical administration, to increase our Site's functionality and user-friendliness and to better tailor the Site to our visitors' needs. For example, some of this information is collected so that when you visit the Site again, it will recognize you and serve advertisements and other information appropriate to your interests. We also use this information to verify that visitors to the Site meet the criteria required to process their requests.<strong> </strong></p>
-		
-		<p><strong>Cookies</strong></p>
-		<p>Like many websites, we use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We do link the information we store in cookies to the Personal Information you submit while on our Site.<strong> </strong>We use cookies for two purposes. First, we utilize persistent cookies to save your login information for future logins to the Site. Second, we utilize session ID cookies to enable certain features of the Site, to better understand how you interact with the Site and to monitor aggregate usage by Saatchi Online Users and web traffic routing on the Site. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Site and then close your browser. You can instruct your browser,by changing its options, to stop accepting cookies or to prompt you beforeaccepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of our Services. <strong> </strong></p>
-		
-		<p><strong>Web Beacons</strong></p>
-		<p>We also use "web beacons," "pixel tags," "clear GIFs" or similar means (individually or collectively "<strong><em>Web Beacons</em></strong>") on our Site. A Web Beacon is an electronic image, often a single pixel, embedded on web pages. Web Beacons are ordinarily not visible to users. Web Beacons allow us to count the number of users who have visited certain pages of the Site, to deliver branded services and to generate statistics about how our Site is used.</p>
-		
-		<p><strong>Making Purchases and Listing Works via the Site</strong></p>
-		<p>If you purchase a work or other item or list a work for sale via the Site, we request certain Personal Information from you. You must provide contact information such as first and last name, address, city, zip, email and phone number and financial information such as credit card type, credit card number, expiration date and CVV2. We use this information for billing and remittance purposes, to list works for sale on the Site and to fulfill your orders, as applicable. If we have trouble processing an order or listing a work for sale, we will use this information to contact you. If you list a work for sale via the Site, we may require you to provide a copy of a government issued photo identification. When you place an order or list a work for sale via the Site, Saatchi Online will also send you informational emails regarding such orders and sales.</p>
-		
-		<p><strong>Information Sharing and Disclosure</strong></p>
-		<p><em><span style="text-decoration: underline;">Saatchi Online Members.</span></em> When you register for the Site and create an Account, your Personal Information (including, but not limited to, your name) will be publicly viewable via the Site. We recommend that you guard your sensitive information and we encourage you to think carefully about what information you post via the Site. If you choose to purchase Original Works of Art via the Site and Services, we will share your name and postal address with the Member who listed the work for sale on the Site to enable that Member to ship the purchased work directly to you.</p>
-		<p><em><span style="text-decoration: underline;">Saatchi Online Forums.</span></em> If you choose to participate in the Saatchi Online forums via the Site, the content of any comments or information you post in such forums will be publicly available via the Site, together with your profile picture, your name, and a link to your profile on the Site.  Participating in the Saatchi Online forums is voluntary and should correlate with the degree of interaction you want to have with other Saatchi Online Users.</p>
-		<p><em><span style="text-decoration: underline;">Facebook Connect</span></em>. Our Site allows users to create an account and login to the Site using their Facebook account credentials through Facebook Connect. Creating an account for the first time through Facebook Connect will prompt users to merge their Saatchi Online and Facebook accounts. By using Facebook Connect, you are allowing Saatchi Online to access your Facebook account information and you are agreeing to the Facebook Terms of Use in your use of the Site via Facebook. If you are not currently registered as a Saatchi Online Member and you click on "Sign in Using Facebook," you will first be asked to enter your Facebook credentials and then be given the option to register and join Saatchi Online. We allow Members to automatically post recent activity back to Facebook, and give them the option to disable Facebook Connect at any time by accessing your Facebook account and disconnecting access to the Site.</p>
-		<p><em><span style="text-decoration: underline;">Aggregate Information and Non-Identifying Information</span></em>. We may share aggregated information that does not include Personal Information and we may otherwise disclose Non-Identifying Information and Log Data with third parties for industry analysis, demographic profiling and other purposes. Any aggregated information shared in these contexts will not contain your Personal Information.</p>
-		<p><em><span style="text-decoration: underline;">Service Providers</span></em>. We may employ third party companies and individuals to facilitate our Services, to provide our Services on our behalf, to perform Site-related services (<em>e.g.</em>, without limitation, payment processing, billing and shipping services, maintenance services, database management, web analytics and improvement of the Site's features) or to assist us in analyzing how our Site and Services are used. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.</p>
-		<p><em><span style="text-decoration: underline;">Compliance with Laws and Law Enforcement</span></em>. Saatchi Online cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Saatchi Online or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, any illegal, unethical or legally actionable activity.</p>
-		<p><em><span style="text-decoration: underline;">Business Transfers</span></em>. Saatchi Online may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.</p>
-		
-		<p><strong>Changing or Deleting Your Information</strong></p>
-		<p>To completely delete all Personal Information you provide to Saatchi Online, you must contact us at <a href="mailto:help@saatchionline.com">help@saatchionline.com</a>. If you completely delete all such information, your account may be deactivated. We may retain an archived copy of your records as required by law or for legitimate business purposes.</p>
-		
-		<p><strong>Security</strong></p>
-		<p>The security of your Personal Information is important to Saatchi Online. But remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. When you enter sensitive information (such as credit card number) via the Site, we encrypt that information using secure socket layer technology (SSL). In some cases, we also encrypt sensitive information where it is stored on our systems.</p>
-		<p>We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored "personal data" (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.</p>
-		
-		<p><strong>International Transfer</strong></p>
-		<p>Your information may be transferred to - and maintained on - computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, Saatchi Online transfers Personal Information to the United States and processes it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.</p>
-		
-		<p><strong>Our Policy Toward Children</strong></p>
-		<p>This Site is not directed to children under 18. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at help@saatchionline.com. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.</p>
-		
-		
-		<p><strong>Phishing</strong></p>
-		<p>Identity theft and the practice currently known as "phishing" are of great concern to Saatchi Online. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your credit card information, username, login password or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more information about phishing, visit the U.S. Federal Trade Commission's website.</p>
-		
-		
-		<p><strong>Links to Other Sites</strong></p>
-		<p>Our Site contains links to other websites. If you choose to visit an advertiser by "clicking on" a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party's website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other sites follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.</p>
-		
-		
-		<p><strong>Contacting Us </strong></p>
-		<p>If you have any questions about this Privacy Policy, please contact us at: <a href="mailto:help@saatchionline.com">help@saatchionline.com</a>.</p>
+</div>
+<div class="ninecol last">
+	<div id="so-privacy-page" class="so-module">
+		<div class="hd">
+			<h1>Saatchi Online Privacy Policy</h1>
+		</div>
+		<div class="bd">
+			<p>Effective Date: <strong><em>August 1, 2011</em></strong></p>
+	
+			<p>Saatchi Online ("<strong><em>Saatchi Online,</em></strong>" "<strong><em>we</em></strong>" or "<strong><em>our</em></strong>") provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of www.saatchionline.com (the "<strong><em>Site</em></strong>"). Saatchi Online makes available through the Site an online service for selling and purchasing original works of art and commercially exploiting digital images of works of art (the "<strong><em>Services</em></strong>"). This Privacy Policy applies only to information that you provide to us through the Site and Services.</p>
+			<p>We may update this Privacy Policy from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You should consult this policy regularly for any changes. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Service, located at <a href="http://www.saatchionline.com/terms">http://www.saatchionline.com/terms</a>.</p>
+			<p>As used in this policy, the terms "using" and "processing" information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally.</p>
+			
+			<p><strong>Information Collection and Use: Personally Identifiable Information</strong></p>
+			<ul>
+				<li>In the course of using the Site and Services, you may provide us with personally identifiable information, which refers to information about you that can be used to contact or identify you ("<strong><em>Personal Information</em></strong>"). Personal Information includes, but is not limited to, your name, phone number, credit card or other billing information, email address, phone number and postal address. We use your Personal Information primarily to provide and improve the Site and Services and to respond to your inquiries.</li>
+				<li>We may also request that you provide certain information, such as your zip code and personal preferences, which is typically considered "<strong><em>Non-Identifying Information</em></strong><em>" </em>because it cannot, by itself, be used to contact or identify you.</li>
+				<li>We use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) primarily to provide and improve the Services, to complete your transactions and respond to your inquiries.</li>
+				<li>Certain Non-Identifying Information would be considered a part of your Personal Information if it were combined with other identifiers (for example, combining your zip code with your street address) in a way that enables you to be identified. But, the same items of information are considered Non-Identifying Information when they are taken alone or combined only with other non-Identifying information (for example, your age). We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other Saatchi Online users to attempt to provide you with a better experience, to improve the quality and value of the Site and Services and to analyze and understand how our Site and Services are used.</li>
+				<li>We also use your Personal Information to contact you with Saatchi Online newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or via the "Account" section of the Site. (See "<strong>Changing or Deleting Information,</strong>" below.)</li>
+			</ul>
+			<p><em><span style="text-decoration: underline;">Log Data</span></em><em>. </em>When you visit the Site, whether as a Member or a non-registered user just browsing (any of these, a "<strong><em>Saatchi Online User</em></strong>"), our servers automatically record information that your browser sends whenever you visit a website (<strong><em>"Log Data"</em></strong>). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type or the webpage you were visiting before you came to our Site, pages of our Site that you visit, the time spent on those pages, information you search for on our Site, access times and dates, ads you click on during your use of the Site, your viewing preferences, bookmark habits and other statistics. We use this information to monitor and analyze use of the Site and for the Site's technical administration, to increase our Site's functionality and user-friendliness and to better tailor the Site to our visitors' needs. For example, some of this information is collected so that when you visit the Site again, it will recognize you and serve advertisements and other information appropriate to your interests. We also use this information to verify that visitors to the Site meet the criteria required to process their requests.<strong> </strong></p>
+			
+			<p><strong>Cookies</strong></p>
+			<p>Like many websites, we use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We do link the information we store in cookies to the Personal Information you submit while on our Site.<strong> </strong>We use cookies for two purposes. First, we utilize persistent cookies to save your login information for future logins to the Site. Second, we utilize session ID cookies to enable certain features of the Site, to better understand how you interact with the Site and to monitor aggregate usage by Saatchi Online Users and web traffic routing on the Site. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Site and then close your browser. You can instruct your browser,by changing its options, to stop accepting cookies or to prompt you beforeaccepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of our Services. <strong> </strong></p>
+			
+			<p><strong>Web Beacons</strong></p>
+			<p>We also use "web beacons," "pixel tags," "clear GIFs" or similar means (individually or collectively "<strong><em>Web Beacons</em></strong>") on our Site. A Web Beacon is an electronic image, often a single pixel, embedded on web pages. Web Beacons are ordinarily not visible to users. Web Beacons allow us to count the number of users who have visited certain pages of the Site, to deliver branded services and to generate statistics about how our Site is used.</p>
+			
+			<p><strong>Making Purchases and Listing Works via the Site</strong></p>
+			<p>If you purchase a work or other item or list a work for sale via the Site, we request certain Personal Information from you. You must provide contact information such as first and last name, address, city, zip, email and phone number and financial information such as credit card type, credit card number, expiration date and CVV2. We use this information for billing and remittance purposes, to list works for sale on the Site and to fulfill your orders, as applicable. If we have trouble processing an order or listing a work for sale, we will use this information to contact you. If you list a work for sale via the Site, we may require you to provide a copy of a government issued photo identification. When you place an order or list a work for sale via the Site, Saatchi Online will also send you informational emails regarding such orders and sales.</p>
+			
+			<p><strong>Information Sharing and Disclosure</strong></p>
+			<p><em><span style="text-decoration: underline;">Saatchi Online Members.</span></em> When you register for the Site and create an Account, your Personal Information (including, but not limited to, your name) will be publicly viewable via the Site. We recommend that you guard your sensitive information and we encourage you to think carefully about what information you post via the Site. If you choose to purchase Original Works of Art via the Site and Services, we will share your name and postal address with the Member who listed the work for sale on the Site to enable that Member to ship the purchased work directly to you.</p>
+			<p><em><span style="text-decoration: underline;">Saatchi Online Forums.</span></em> If you choose to participate in the Saatchi Online forums via the Site, the content of any comments or information you post in such forums will be publicly available via the Site, together with your profile picture, your name, and a link to your profile on the Site.  Participating in the Saatchi Online forums is voluntary and should correlate with the degree of interaction you want to have with other Saatchi Online Users.</p>
+			<p><em><span style="text-decoration: underline;">Facebook Connect</span></em>. Our Site allows users to create an account and login to the Site using their Facebook account credentials through Facebook Connect. Creating an account for the first time through Facebook Connect will prompt users to merge their Saatchi Online and Facebook accounts. By using Facebook Connect, you are allowing Saatchi Online to access your Facebook account information and you are agreeing to the Facebook Terms of Use in your use of the Site via Facebook. If you are not currently registered as a Saatchi Online Member and you click on "Sign in Using Facebook," you will first be asked to enter your Facebook credentials and then be given the option to register and join Saatchi Online. We allow Members to automatically post recent activity back to Facebook, and give them the option to disable Facebook Connect at any time by accessing your Facebook account and disconnecting access to the Site.</p>
+			<p><em><span style="text-decoration: underline;">Aggregate Information and Non-Identifying Information</span></em>. We may share aggregated information that does not include Personal Information and we may otherwise disclose Non-Identifying Information and Log Data with third parties for industry analysis, demographic profiling and other purposes. Any aggregated information shared in these contexts will not contain your Personal Information.</p>
+			<p><em><span style="text-decoration: underline;">Service Providers</span></em>. We may employ third party companies and individuals to facilitate our Services, to provide our Services on our behalf, to perform Site-related services (<em>e.g.</em>, without limitation, payment processing, billing and shipping services, maintenance services, database management, web analytics and improvement of the Site's features) or to assist us in analyzing how our Site and Services are used. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.</p>
+			<p><em><span style="text-decoration: underline;">Compliance with Laws and Law Enforcement</span></em>. Saatchi Online cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Saatchi Online or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, any illegal, unethical or legally actionable activity.</p>
+			<p><em><span style="text-decoration: underline;">Business Transfers</span></em>. Saatchi Online may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.</p>
+			
+			<p><strong>Changing or Deleting Your Information</strong></p>
+			<p>To completely delete all Personal Information you provide to Saatchi Online, you must contact us at <a href="mailto:help@saatchionline.com">help@saatchionline.com</a>. If you completely delete all such information, your account may be deactivated. We may retain an archived copy of your records as required by law or for legitimate business purposes.</p>
+			
+			<p><strong>Security</strong></p>
+			<p>The security of your Personal Information is important to Saatchi Online. But remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. When you enter sensitive information (such as credit card number) via the Site, we encrypt that information using secure socket layer technology (SSL). In some cases, we also encrypt sensitive information where it is stored on our systems.</p>
+			<p>We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored "personal data" (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.</p>
+			
+			<p><strong>International Transfer</strong></p>
+			<p>Your information may be transferred to - and maintained on - computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, Saatchi Online transfers Personal Information to the United States and processes it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.</p>
+			
+			<p><strong>Our Policy Toward Children</strong></p>
+			<p>This Site is not directed to children under 18. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at help@saatchionline.com. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.</p>
+			
+			
+			<p><strong>Phishing</strong></p>
+			<p>Identity theft and the practice currently known as "phishing" are of great concern to Saatchi Online. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your credit card information, username, login password or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more information about phishing, visit the U.S. Federal Trade Commission's website.</p>
+			
+			
+			<p><strong>Links to Other Sites</strong></p>
+			<p>Our Site contains links to other websites. If you choose to visit an advertiser by "clicking on" a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party's website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other sites follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.</p>
+			
+			
+			<p><strong>Contacting Us </strong></p>
+			<p>If you have any questions about this Privacy Policy, please contact us at: <a href="mailto:help@saatchionline.com">help@saatchionline.com</a>.</p>
+		</div>
+		<div class="ft"></div>
 	</div>
-	<div class="ft"></div>
 </div>
 	</div>
 
 	
 
 	<footer id="ft" class="row-layout">
-		<div class="clearfix"></div>
+		<div class="twelvecol last"><div class="clearfix"></div>
 <div id="so-ft">
 	<div class="bd">
+		<!-- Email Subscribe Module -->
+				<div id="so-index-sign-up" class="so-module so-mod-border">
+			<div class="subscribe">
+	<div class="so-subscribe-toggle so-button dark">-</div>
+	<form id="so-sign-up-form">
+		<div class="hd">
+			<h1 style="">LOVE ART?</h1>
+			<h2 style="">Subscribe to Our Newsletter</h2>
+		</div>
+		<div class="bd">
+			<hr style="margin: 1em 0;">
+			<div class="so-select-account-type"><label for="so-select-account-type" class="so-account-select-one required">Select One</label>
+
+<label for="so-select-account-type-collector"><input type="radio" name="account_type" id="so-select-account-type-collector" value="collector" checked="checked" class="so-radio">I'm a Collector</label><span class="so-or-separator"> or </span><label for="so-select-account-type-artist"><input type="radio" name="account_type" id="so-select-account-type-artist" value="artist" class="so-radio">I'm an Artist</label></div>
+			<div class="clearfix"></div>
+			<div class="so-enter-email">
+<input type="text" name="email" id="so-subscribe-email" value="" defaultemail="Enter Email Address" class="fancy-email text" autocomplete="off"><input type="submit" name="subscribe" id="so-subscribe-submit" value="Subscribe" helper="formSubmit" class="so-button dark so-sign-up-submit"></div>
+			<div class="clearfix"></div>
+			<div class="so-subscribe-msg" style="display:none;">
+				<ul class="subscribe-collector">
+					<li style="margin-bottom: .5em;">Be the first to discover emerging artists from around the world.</li>
+					<li>Enjoy priority access to exclusive offers and more.</li>
+				</ul> 
+				<ul class="subscribe-artist" style="display:none;">
+					<li style="margin-bottom: .5em;">Find out about important updates at  Saatchi Online.</li>
+					<li>Learn valuable tips  for promoting your work and discover artists from around the world.</li> 
+				</ul>
+			</div>
+		</div>
+		<div class="ft"></div>
+	</form>
+</div>
+
+<script type="text/javascript">
+	Saatchi.Loader.load('subscribe', {'js': true}, function() {
+		Saatchi.Subscribe.observeFooterSubmit();
+	});
+
+	$(function(){
+		Saatchi.Form.defaultValues($('#so-subscribe-email'), 'Enter Email Address');
+	});
+	
+	$('.subscribe .so-radio').change(function(){
+		$('.so-subscribe-msg ul').hide();
+		if( $(this).attr('value') == 'collector' ){
+			$('.subscribe-collector').show();
+		} else {
+			$('.subscribe-artist').show();
+		}
+	});
+	
+		
+	$('.so-subscribe-toggle').toggle(function(){
+		$('#ft #so-index-sign-up').animate({
+			bottom: '-=' + (parseInt($('#ft #so-index-sign-up').height()) + 40)
+		}, 1000);
+		$(this).html('Subscribe');
+		Saatchi.Cookie.create('subscription_closed', true, 0);
+	}, function(){
+		$('#ft #so-index-sign-up').animate({
+			bottom: '+=' + (parseInt($('#ft #so-index-sign-up').height()) + 40)
+		}, 1000);
+		$(this).html('-');
+		Saatchi.Cookie.erase('subscription_closed');
+	} 
+	);
+	</script>
+		</div>
+				
 		<ul class="so-ft-menu">
 			<li class="so-ft-menu-title">Saatchi Online</li>
 			<li><a href="/about">About Us</a></li>
@@ -251,29 +347,41 @@ Saatchi.Loader.load('dropdown', {js:true}, function() {
 			<li class="so-social-twitter"><a href="http://www.twitter.com/saatchionline" target="_blank">Twitter</a></li>
 			<li class="so-social-tumblr"><a href="http://blog.saatchionline.com" target="_blank">Tumblr</a></li>
 		</ul>
-				<div class="so-ft-ad so-ad"><a href="/upload/why"><img src="/media/images/ad/artist-join.jpg"></a></div>
-				<div class="so-ft-search">
-			<div class="so-ft-copyright">© 2011 Saatchi Online. All rights reserved.</div>
-		</div>
+		
 		<div class="clearfix"></div>
+		<div class="so-ft-copyright">© 2012 Saatchi Online. All rights reserved.</div>
 	</div>
 </div>
+</div>
+		<div class="clearfix"></div>
 	</footer>
 </div>
 
 	<script type="text/javascript">
 		Saatchi.Facebook.requiredPermissions = 'email,publish_stream';
-		Saatchi.Loader.version = '1325192772';
+		Saatchi.Loader.version = '1335892118';
 		Saatchi.Cookie.domain = '.saatchionline.com';
 
 		Saatchi.Loader.load('notify', {'js' : true, 'css' : true}, function() { Saatchi.Notifier.init(); });
-		Saatchi.Loader.load('like', {'js' : true }, function() { Saatchi.Like.init(); });
-		Saatchi.Loader.load('favorite', { js : true }, function() { $('.so-favorite a').favorite(); });
-		Saatchi.Loader.load('qtip', {'js':true});
-		Saatchi.Loader.load('tips', { 'js':true}, function() { Saatchi.Tips.init();	});
-		Saatchi.Loader.load('viewer', {'css': true, 'js': true});
+		Saatchi.Loader.load('like', {'js' : true }, function() { Saatchi.Like.init(); }); // Deprecate
+		Saatchi.Loader.load('favorite', {'js' : true }, function() { $('.so-favorite a').favorite(); });
+		Saatchi.Loader.load('qtip', {'js' : true });
+		Saatchi.Loader.load('tips', {'js' : true }, function() { Saatchi.Tips.init(); });
 		Saatchi.Loader.load('easing');
+		Saatchi.Loader.load('uniform', {'js':true}, function() { $(".so-radio, .so-checkbox, .so-select").uniform(); });
 		
+		if ( $.browser.msie == undefined ) {
+		Saatchi.Loader.load('image_loader', {'js' : true}, function(){
+			$(window).ready(function(){
+				$({}).imageLoader({
+				    images: images,
+				    async: 3
+				});
+			});
+		});
+		}
+		
+				
 				Saatchi.Loader.load('dialog');
 		Saatchi.Loader.load(
 			'signup',
