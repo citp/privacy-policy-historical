@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plainsite.org privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204033918id_/http%3A//www.plainsite.org/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plainsite.org privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508030813id_/http%3A//www.plainsite.org/legal/privacy.html) for the most accurate reproduction.*
 
 # PlainSite :: Privacy Policy
 
@@ -55,12 +55,16 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 By using our site, you consent to this privacy policy.
 
+**Data Removal**
+
+For information on removing data from PlainSite, see our [Public Information Policy](https://web.archive.org/web/20120508030813id_/http%3A//www.plainsite.org/contact/information.html).
+
 **Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on May 19, 2011.
+This policy was last modified on January 27, 2012.
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/web/20111204033918id_/http%3A//www.plainsite.org/contact/index.html).
+If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/web/20120508030813id_/http%3A//www.plainsite.org/contact/index.html).
