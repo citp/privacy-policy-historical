@@ -1,85 +1,22 @@
-> *The following text is extracted and transformed from the alltopics.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204084940id_/http%3A//www.alltopics.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltopics.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508071954id_/http%3A//alltopics.com/privacy-policy) for the most accurate reproduction.*
 
-# | AllTopics.com
+# Privacy Policy | AllTopics.com
 
-**What information do we collect?**
-
-AllTopics.com, referred to as we or us, will collect information from you when you register on our site. When ordering or registering on our site, as appropriate, the user, referred to as you, may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously. Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
-
-**What do we use your information for?**
-
-Any of the information we collect from you may be used in one of the following ways: 
-
-  * To personalize your experience - Your information helps us to better respond to your individual needs.
-  * To improve our website - We continually strive to improve our website offerings based on the information and feedback we receive from you.
-  * To send periodic emails - The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
-
-
-
-_Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email._
-
-**_How do we protect your information?_**
-
-We implement a variety of security measures to maintain the safety of your personal information when you access your personal information. 
-
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our database to be only accessed by those authorized with special access rights to our systems, and are required to keep the information confidential. 
-
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
-
-**Do we use cookies?**
-
-Yes we do. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
-
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, and keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service.
-
-**Do we disclose any information to outside parties?**
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
-_Third party links_
-
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
-_California Online Privacy Protection Act Compliance_
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
-_Children's Online Privacy Protection Act Compliance_
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
-_Online Privacy Policy Only_
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-**Terms and Conditions**
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.AllTopics.com.com/term_of_service.php.
-
-**Your Consent**
-
-By using our site, you consent to our privacy policy.
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
-
-**This policy was last modified on June 14, 2010**
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-http://www.help.AllTopics.com.com
-
-AllTopics.com.com
-
-c/o Jennifer Shearer
-
-1 Lawrence Place
-
-New Oxford, PA17350
-
-United States
-
-copyright@AllTopics.com.com
+Alltopics respects and protects the privacy of the individuals that use Alltopics's services ("Alltopics Services"). Individually identifiable information about you is not willfully disclosed to any third party without first receiving your permission or as explained in this privacy policy ("Privacy Policy").  
+Alltopics and Cookies  
+Upon your first visit to Alltopics.com, Alltopics sends a "cookie" to your computer. A cookie is a piece of data that identifies you as a unique user. Alltopics uses cookies to improve the quality of our service and to understand our user base more. Alltopics does this by storing user preferences in cookies and by tracking user trends and patterns of how people use the Alltopics Services. Alltopics will not disclose its cookies to third parties except as required by a valid legal process such as a search warrant, subpoena, statute, or court order.  
+Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Be aware, however, that some parts of the Alltopics Services may not function properly if you refuse cookies.  
+Third Party Cookies  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.  
+What Information Do We Collect?  
+Alltopics does not collect any unique information about you (such as your name, email address, etc.) except when you specifically and knowingly provide such information. For example, Alltopics DOES collect such information from those users registering as Community Users and/or User Editors. Alltopics notes and saves information such as time of day, browser type, browser language, and IP address with each query. That information is used to verify our records and to provide more relevant services to users. For example, Alltopics may use your IP address or browser language to determine which language to use when showing search results or advertisements.  
+Links to Other Sites  
+The stories/sites displayed and/or linked to by the Alltopics.com Service are developed by people over whom Alltopics exercises no control. Other links are also on sites not controlled by Alltopics. These other sites may send their own cookies to users, collect data, or solicit personal information. Alltopics encourages you to read the privacy policy of all web sites you visit. Alltopics may choose to exhibit its results in the form of a "URL redirecter." When Alltopics uses a URL redirecter, if you click on a URL on a Alltopics page, information about the click is sent to Alltopics, and Alltopics in turn sends you to the site you clicked on. Alltopics uses this URL information to understand and improve the quality of Alltopics's technology.  
+With Whom Does Topix Share Information?  
+Alltopics may share information about you with advertisers, business partners, sponsors, and other third parties. However, we only divulge aggregate information about our users and will not share personally identifiable information with any third party without your express consent. For example, we may disclose how frequently the average Alltopics user visits Alltopics, or which Alltopics pages are most often used. Please be aware, however, that we will release specific personal information about you if required to do so in order to comply with any valid legal process such as a search warrant, subpoena, statute, or court order. Further, Alltopics reserves the right to cooperate with legitimate law enforcement requests for information at its sole discretion.  
+Children’s Privacy  
+We do not knowingly collect personal information from children under the age of 13. If we learn that we have personal information on a child under the age of 13, we will delete that information from our systems.  
+Third Party Advertising  
+Alltopics uses third-party advertising companies to serve ads when you visit our Web site. These companies may use cookies or web beacons to collect non-personally identifiable information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. To learn more about this behavioral advertising practice or to opt out, you can visit [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp "www.networkadvertising.org/managing/opt_out.asp")  
+Your consent and changes to the Privacy Policy  
+By using the Alltopics Services and our web site, you consent to the collection and use of your information as we have outlined in this policy and to our Terms of Service Policy. Alltopics may decide to change this Privacy Policy from time to time. When we do, we will post those changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it.
