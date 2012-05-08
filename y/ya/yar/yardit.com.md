@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the yardit.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102061443id_/http%3A//www.yardit.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yardit.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508191217id_/http%3A//www.yardit.com/privacy.php) for the most accurate reproduction.*
 
 # Yardit.com - Privacy Policy
+
+[ ](http://www.jdoqocy.com/im65shqnhp4AABD6ED4658CE5CB)
 
 At Yardit, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit Yardit, and how we safeguard your information. We never sell your personal information to third parties.
 
@@ -29,7 +31,7 @@ While this Privacy Policy states our standards for maintenance of Data and we wi
   
 
 
-AVOID SCAMS AND FRAUD: When posting free classified ads, beware or any deal involving Western Union, Moneygram, wire transfer, cashier check, money order, shipping, escrow, any promise of transaction protection/certification/guarantee, or your personal or banking information. When it comes to free classified ads, safety comes first."
+AVOID SCAMS AND FRAUD: Beware or any deal involving Western Union, Moneygram, wire transfer, cashier check, money order, shipping, escrow, any promise of transaction protection/certification/guarantee, or your personal or banking information.
 
   
   
