@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the madisonlogic.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214061406id_/http%3A//www.madisonlogic.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madisonlogic.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508034455id_/http%3A//www.madisonlogic.com/privacy.asp) for the most accurate reproduction.*
 
-# Madison Logic | Privacy Policy
+# Privacy Policy | Madison Logic
 
 ### Privacy Statement
 
