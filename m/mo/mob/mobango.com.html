@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mobango.com privacy policy that was archived on 2011-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110623140405id_/http%3A//www.mobango.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mobango.com privacy policy that was archived on 2012-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120508185618id_/http%3A//www.mobango.com/view/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
@@ -8,7 +8,7 @@
 				<title>MOBANGO - Privacy Statement</title>
 				<meta name="description" content="Privacy Statement">
 				
-				<meta name="keywords" content="free games, free phone apps, free themes, free downloads, mobile phone ringtones, video sharing">
+				<meta name="keywords" content="free games, free phone apps, free themes, free  apps, free downloads, free videos, free ringtones, free polytunes, free wallpapers, free mobile images , free fulltracks, mobile phone ringtones, video sharing, latest, top, new, most downloaded, best, app store, appstore, mobango, mobile apps, entertainment, media, fun, animation, logo, icons, wap, mobile applications, free mobile games, free mobile apps, free games, free apps, free applications, free mobile applications, online games, online mobile games, online mobile apps, free themes, free wallpapers, mobile themes, mobile wallpapers, vas, screen savers, download mobile apps, download mobile games, download mobile applications, download mobile ringtones, download mobile wallpapers, download mobile themes,  download mobile videos, free videos, popular, free android apps, free android applications, free android games, free java games, free symbian apps, free symbian applications, free symbian games, free blackberry games, free blackberry apps, free blackberry applications, free bb games, free bb apps, free bb applications, free windows apps, free windows applications, free windows games, latest android apps, latest android applications, latest android games, new android apps, new android games, latest java games, latest java apps, latest java applications, new java games, new java apps , new java applications, Audio,Browser,Business,Education,Entertainment,Mobile,Sports,sms,Travel, News, Information, Shopping, Social, Community, Messenger, Chat, Finance, Utility, Video, Photo, Lifestyle, Navigation, Productivity, Action , Adventure, Arcade, Strategy, Puzzle, Board, Casino.Card, Poker, Racing, 3D, Sports, Cricket, Soccer, Cartoons, Jazz, Pop, Rap, Hip-Hop, Reggae, Latin, Rock, Album, Songs, Ringtones, Polytones, Polytunes, Entertainment, Bollywood, Hollywood, mp3,, Electronic, R&amp;B, Classicals, Adult,Celebrities,Funny, Fun, Kids, Model, Babe, Bollywood, Hollywood, Trailer, Cartoon, Music, Nursery Rhymes, Humor, Adult, Animation, Abstract, Nature, Culture, Fun, Symbols, Technology, Sports, Animals, Pets, Models, Babes, Bollywood, Hollywood, Celebrities, Cartoon, Kids, God, Devotional, Art">
 				
 		<style media="all" type="text/css">@import "http://c1.mobimgs.com/css2/all_mobango_css-2_96.css";</style>
 		<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="http://c2.mobimgs.com/css2/ie6.css" media="screen"/><![endif]-->
@@ -42,7 +42,11 @@
 				onloadHandler();	
 			}
 		}
-		
+
+		function postLikeComment(fid,faction,fb_title,path){
+			window.location.href = "http://www.mobango.com/handler/LikeCommentHandler.php?fid="+fid+"&faction="+faction+"&fb_title="+fb_title+"&path="+path;
+		}
+		  
 		jQuery(function() {
 			jQuery("#header-search-form").submit(function() {
 				selected_category = jQuery("#header-search-srcategory").val();
@@ -55,15 +59,8 @@
 				}				
 				if(selected_category == "") {
 					// standard search
-					jQuery("#header-search-form").attr("action", "/view/search.php"); 
+					jQuery("#header-search-form").attr("action", "/view/search.php");
 					jQuery("#header-search-search").val("key");
-				} else if(selected_category == 10 || selected_category == 11 || selected_category == 19) {
-					// software and games search
-					jQuery("#header-search-form").attr("action", "/swarea");
-					jQuery("#header-search-word").val(jQuery("#header-search-key").val());
-					jQuery("#header-search-page").val("Home");
-					jQuery("#header-search-a").val("search");
-					jQuery("#header-search-area").val(selected_category);
 				} else {
 					// category search
 					jQuery("#header-search-form").attr("action", "/view/search.php");
@@ -72,7 +69,7 @@
 				}
 			});		
 		});
-		
+
 		
 		var iacl = false;
 		function clickMemberSearch() {
@@ -98,11 +95,11 @@
 		<div class="content">
 			<h1><a href="/">Mobango</a></h1>
 			<ul id="add-nav" class="sub-nav">
-								<li><a href="/signup/?page=%2Fprivacy%2F" rel="nofollow">Sign up</a></li>
-				<li><a href="/login/?page=%2Fprivacy%2F" rel="nofollow">Login</a></li>
+								<li><a href="http://www.mobango.com/signup?page=%2Fview%2Fprivacy.php" rel="nofollow">Sign up</a></li>
+				<li><a href="http://www.mobango.com/login?page=%2Fview%2Fprivacy.php" rel="nofollow">Login</a></li>
 								
-				<li><a href="/help/" rel="nofollow">Help</a></li>
-				<li><a href="/view/feedback.php" rel="nofollow">Feedback</a></li>
+				<li><a href="http://www.mobango.com/help" rel="nofollow">Help</a></li>
+				<li><a href="http://www.mobango.com/view/feedback.php" rel="nofollow">Feedback</a></li>
 				<li class="lang">
 					<a href="#" rel="nofollow">Language</a>
 					<ul>
@@ -137,6 +134,7 @@
 					<div>
 						<span>you're in:</span>
 						<ul>
+							<li><a href="http://www.mobango.com/free/mobile/home"></a></li>
 							<li>Privacy</li>
 						</ul>
 					</div>
@@ -144,22 +142,23 @@
 						<div class="nav-panel">
 				<ul id="nav">
 
-					<li class="home"><a href="/"><span>Home</span></a></li>					
-											<li><a href="/swarea/index.php/themes" title="Free Themes">Themes</a></li>
-											<li><a href="/videos/free-mobile-ugc/9" title="Free Videos">Videos</a></li>
-											<li><a href="/pictures/free-mobile-stuff/5" title="Free Pictures">Pictures</a></li>
-											<li><a href="/tunes/free-mobile-stuff/4" title="Free Tunes">Tunes</a></li>
-											<li><a href="/swarea/index.php/apps" title="Free Applications">Applications</a></li>
-											<li><a href="/swarea/index.php/games" title="Free Games">Games</a></li>
-											<li><a href="/users/topusers" title="Free Community">Community</a></li>
+					<li class="home"><a href="http://www.mobango.com/free/mobile/home"><span>Home</span></a></li>
+											<li><a href="http://www.mobango.com/free/mobile/apps" title="Free Apps">Apps</a></li>
+											<li><a href="http://www.mobango.com/free/mobile/games" title="Free Games">Games</a></li>
+											<li><a href="http://www.mobango.com/free/mobile/videos" title="Free Videos">Videos</a></li>
+											<li><a href="http://www.mobango.com/free/mobile/images_all" title="Free Images">Images</a></li>
+											<li><a href="http://www.mobango.com/free/mobile/tunes" title="Free Tunes">Tunes</a></li>
+											<li><a href="http://www.mobango.com/free/mobile/themes" title="Free Themes">Themes</a></li>
+											<li><a href="http://blog.mobango.com/" title="Free Blog">Blog</a></li>
 					
 									</ul>
-				<div class="btnUp upload"><a href="/view/upload.php" rel="nofollow"><span>Upload</span></a></div>	
-				<div class="btnStd-DevelopersArea"><a href="/swarea/index.php?page=MyItems" rel="nofollow" title="Upload your free mobile applications for Java, J2ME, Windows Mobile, Android, Flash Lite, BlackBerry and Symbian"><span>DEVELOPERS AREA</span></a></div>
-				<div class="inner">
-				
-					<!-- include per la home page loggato e non loggato -->
-					<div class="info-box">
+				<div class="btnUp upload"><a href="http://www.mobango.com/view/upload.php" rel="nofollow"><span>Upload</span></a></div>	
+				<div class="btnStd-DevelopersArea"><a href="http://www.mobango.com/swarea/index.php/homedeveloper " rel="nofollow" title="Upload your free mobile applications for Java, J2ME, Windows Mobile, Android, Flash Lite, BlackBerry and Symbian"><span>DEVELOPERS AREA</span>
+				</a></div>
+				    <div class="clearer"><!-- --></div>
+                    <div class="welcomeText">
+                        <!-- include per la home page loggato e non loggato -->
+    				    <div class="info-box">
 		
 	<!-- lista generica -->
 			<!--<ul>
@@ -174,11 +173,16 @@
 	<!-- fine lista generica -->
 		
 	
-	</div>				
+	</div>    				</div>
+    				<div class="clearer"><!-- --></div>
+                </div>
+                <div class="clearer"><!-- --></div>
+                <div class="inner">
 					<!-- include gli step di upload -->
 										<div class="search-box">
-						<form action="/view/search.php" id="header-search-form">
+						<form action="http://www.mobango.com/view/search.php" id="header-search-form">
 							<fieldset>
+								 <input type="text" size="4" style="border:none;border-color:#FFFFFF;color:#58595B;" value="Search" readonly="">
 								<input type="hidden" name="search" value="key" id="header-search-search">
 								<input type="hidden" name="word" value="" id="header-search-word">
 								<input type="hidden" name="page" value="" id="header-search-page">
@@ -202,13 +206,14 @@
 							</fieldset>
 						</form>
 					</div>
+
 					<div class="clearer"><!-- --></div>
 					
 					<noscript>
 						<div class="error_msg">
 							<div class="error_msg_top"><!-- --></div>
 							<div class="error_msg_middle">
-								<p class="msg">This page is designed for JavaScript-only browsers. In case you have disabled JavaScript, please enable it and reload this page. Otherwise consider installing a JavaScript capable browser such as Mozilla  Firefox or Opera.</p>							
+								<p class="msg">This page is designed for JavaScript-only browsers. In case you have disabled JavaScript, please enable it and reload this page. Otherwise consider installing a JavaScript capable browser such as Mozilla  Firefox or Opera.</p>
 							</div>
 							<div class="error_msg_bottom"><!-- --></div>
 						</div>
@@ -222,14 +227,14 @@
 					<div id="search-usr" class="search-adv" style="display: none;">
 										</div>
 					<div id="popup-container"><div id="popup"></div></div>
-
-				</div>				
+					<!--add search-->
+				</div>
 			</div>
-		</div>
 		<!--<a href="/view/jobs.php" title="WE'RE HIRING" rel="nofollow"><span class="label-were-hiring">WE'RE HIRING</span></a>-->
 		<div class="clearer"><!-- --></div>
 	</div>
-		
+
+
 	<div id="container">
 		<div class="content">
 			<div class="title without_padding">
@@ -260,171 +265,27 @@ Please refer to the section <a href="../view/termsofservices.php" class="orange1
 		</div>
 	</div>
 
-				<div id="footer" class="content">
-			<div class="column">
-				<div class="text-box">
-					<h2>Browse by popular tags</h2>
-					<ul class="tag-clouds">
-						
-  <li class="fs-16"><a href="/tags/fun" title="Fun Mobile Content" onclick="javascript:urchinTracker('/track/stats/links/footer/tags/fun');">Fun</a>,</li>
-  <li class="fs-16"><a href="/tags/love" title="Love Mobile Content" onclick="javascript:urchinTracker('/track/stats/links/footer/tags/love');"> Love</a>,</li> 
-  <li class="fs-16"><a href="/ringtones/free-mobile-ugc/3" title="Free Mobile Ringtones" onclick="javascript:urchinTracker('/track/stats/links/footer/tags/ringtones');"> Ringtones</a>,</li>
-  <li class="fs-16"><a href="/tags/3gp" title="3GP Mobile Videos" onclick="javascript:urchinTracker('/track/stats/links/footer/tags/3gp');"> 3GP</a>,</li>
-  <li class="fs-16"><a href="/tags/sports" title="Sports Mobile Content" onclick="javascript:urchinTracker('/track/stats/links/footer/tags/sports');"> Sports</a>,</li>
-  <li class="fs-16"><a href="/tags/games" title="Free Mobile Games" onclick="javascript:urchinTracker('/track/stats/links/footer/tags/games');"> Games</a>,</li>
-  <li class="fs-16"><a href="/tags/video" title="Mobile Video" onclick="javascript:urchinTracker('/track/stats/links/footer/tags/video');"> Video</a>,</li>
-  <li class="fs-16"><a href="/tags/football" title="Football Mobile Content" onclick="javascript:urchinTracker('/track/stats/links/footer/tags/football');"> Football</a>,</li>
-  <li class="fs-16"><a href="/tags/pop" title="Free Pop music for your mobile" onclick="javascript:urchinTracker('/track/stats/links/footer/tags/pop');"> Pop</a>,</li>
-  <li class="fs-16"><a href="/tags/rock" title="Rock music for your mobile" onclick="javascript:urchinTracker('/track/stats/links/footer/tags/rock');"> Rock</a>,</li>
-  <li class="fs-14"><a href="/tags/sexy" title="Sexy Mobile Content" onclick="javascript:urchinTracker('/track/stats/links/footer/tags/sexy');"> Sexy</a>,</li>
-  <li class="fs-14"><a href="/tags/sis" title="SIS application, games and themes downloads" onclick="javascript:urchinTracker('/track/stats/links/footer/tags/sis');"> SIS</a>,</li>
-  <li class="fs-14"><a href="/tags/pictures" title="Pictures for your mobile phone" onclick="javascript:urchinTracker('/track/stats/links/footer/tags/pictures');"> Pictures</a>,</li>
-  <li class="fs-14"><a href="/tags/sms" title="Get free SMS tones for your mobile" onclick="javascript:urchinTracker('/track/stats/links/footer/tags/sms');"> SMS</a>,</li>
-  <li class="fs-14"><a href="/tags/downloads" title="Free Mobile Downloads" onclick="javascript:urchinTracker('/track/stats/links/footer/tags/downloads');"> Downloads</a>,</li>  
-  <li class="fs-14"><a href="/tags/messages" title="Free Mobile Messages" onclick="javascript:urchinTracker('/track/stats/links/footer/tags/messages');"> Messages</a>,</li>
-  <li class="fs-13"><a href="/tags/jar" title="JAR Downloads for your mobile phone" onclick="javascript:urchinTracker('/track/stats/links/footer/tags/jar');"> JAR</a>,</li>
-  <li class="fs-13"><a href="/tags/cartoons" title="Free Mobile Cartoons" onclick="javascript:urchinTracker('/track/stats/links/footer/tags/cartoons');"> Cartoons</a>,</li>
-  <li class="fs-13"><a href="/tags/mp3" title="Free Mobile MP3" onclick="javascript:urchinTracker('/track/stats/links/footer/tags/cartoons');"> MP3,</a></li>
-  <li class="fs-14"><a href="/tunes/free-mobile-stuff/4" title="Download Mobile Tunes" onclick="javascript:urchinTracker('/track/stats/links/footer/tags/tunes');"> Tunes</a>,</li>
-  <li class="fs-13"><a href="/polyphonics/free-mobile-ugc/2" title="Free Mobile Polyphonic" onclick="javascript:urchinTracker('/track/stats/links/footer/tags/cartoons');"> Polyphonic</a></li>  
-					</ul>
-					<!-- <div class="see-more btns"><a href="#"><span>See more</span></a></div> -->
-				</div>
-				<dl id="summary">
-					<dt>All mobile content</dt>
-					<dd style="border-top: none;">
-						<a href="/swarea/index.php/games" onclick="javascript:urchinTracker('/track/stats/links/footer/free-categories/Games');">Free Mobile Games</a> -
-						<a href="/swarea/index.php/themes" onclick="javascript:urchinTracker('/track/stats/links/footer/free-categories/Themes');">Free Themes</a> -
-						<a href="/swarea/index.php/apps" onclick="javascript:urchinTracker('/track/stats/links/footer/free-categories/Apps');">Free Mobile Applications</a> -
-						<a href="/videos/free-mobile-ugc/Uiw3_ezZNEs=/" onclick="javascript:urchinTracker('/track/stats/links/footer/free-categories/Videos');">Free Mobile Videos</a> -
-						<a href="/tunes/free-mobile-stuff/DxiHFfE6pV8%3D/" onclick="javascript:urchinTracker('/track/stats/links/footer/free-categories/Tunes');">Free Mobile Tunes</a> -
-						<a href="/images/free-mobile-stuff/MKzj4ivzHkU%3D/" onclick="javascript:urchinTracker('/track/stats/links/footer/free-categories/Images');">Free Mobile Images</a>
-					</dd>
-					<!-- <dt>Mobile phone brands</dt>
-					<dd>
-						<a href="/cell_phones/brand/11/" title="Free Nokia Games" onclick="javascript:urchinTracker('/track/stats/links/footer/favorite-brands/Nokia');">Nokia</a> -
-						<a href="/cell_phones/brand/14/" title="Free Motorola Games" onclick="javascript:urchinTracker('/track/stats/links/footer/favorite-brands/Motorola');">Motorola</a> -
-						<a href="/cell_phones/brand/25/" title="Free SonyEricsson Games" onclick="javascript:urchinTracker('/track/stats/links/footer/favorite-brands/SonyEricsson');">SonyEricsson</a> -
-						<a href="/cell_phones/brand/17/" title="Free Samsung Games" onclick="javascript:urchinTracker('/track/stats/links/footer/favorite-brands/Samsung');">Samsung</a> -
-						<a href="/cell_phones/brand/19/" title="Free LG Games" onclick="javascript:urchinTracker('/track/stats/links/footer/favorite-brands/LG');">LG</a> -
-						<a href="/cell_phones/brand/109/" title="Free BlackBerry Applications" onclick="javascript:urchinTracker('/track/stats/links/footer/favorite-brands/RIM_BlackBerry');">BlackBerry</a> -
-						<a href="/cell_phones/brand/100/" title="Free iPhone Downloads" onclick="javascript:urchinTracker('/track/stats/links/footer/favorite-brands/Apple');">Apple</a>
-					</dd>
-					<dt>Most Popular</dt>
-					<dd>
-						<a href="/cell_phones/brand/100/model/2273/" title="Applications, Games and Themes for Apple iPhone" onclick="javascript:urchinTracker('/track/stats/links/footer/favorite-mobiles/Apple_iPhone');">Apple iPhone</a> -
-						<a href="/cell_phones/brand/11/model/2651/" title="Applications, Games and Themes for Nokia 6500 classic" onclick="javascript:urchinTracker('/track/stats/links/footer/favorite-mobiles/Nokia_6500_classic');">Nokia 6500 Classic</a> -
-						<a href="/cell_phones/brand/11/model/2281/" title="Applications, Games and Themes for Nokia N95" onclick="javascript:urchinTracker('/track/stats/links/footer/favorite-mobiles/Nokia_N95');">Nokia N95</a> -
-						<a href="/cell_phones/brand/25/model/1609/" title="Applications, Games and Themes for SonyEricsson K800i" onclick="javascript:urchinTracker('/track/stats/links/footer/favorite-mobiles/SonyEricsson_K800i');">SonyEricsson K800i</a> -
-						<a href="/cell_phones/brand/14/model/2644/" title="Applications, Games and Themes for Motorola RAZR2 V9" onclick="javascript:urchinTracker('/track/stats/links/footer/favorite-mobiles/Motorola_RAZR2_V9');">Motorola RAZR2 V9</a> -
-						<a href="/cell_phones/brand/109/model/2723/" title="Applications, Games and Themes for BlackBerry 8800" onclick="javascript:urchinTracker('/track/stats/links/footer/favorite-mobiles/RIM_BlackBerry_8800');">BlackBerry 8800</a> -
-						<a href="/cell_phones/brand/40/model/3497/" title="Applications, Games and Themes for Google Android" onclick="javascript:urchinTracker('/track/stats/links/footer/favorite-mobiles/Google_Android');">Google Android</a>
-					</dd> -->
-					<dt>Partner sites</dt>
-					<dd>
-						<a href="http://www.thefreesite.com/" onclick="javascript:urchinTracker('/track/stats/links/footer/partner-links/TheFreeSite');">TheFreeSite.com</a>
-					</dd>
-				</dl>
-				
-				<!--<div class="copyright-box">
-					<div class="inner">
-						<h2><a href="#">Mobango</a></h2>
-						<ul>
-							<li><a href="#">All about Mobango</a></li>
-							<li><a href="#">Download the toolbar</a></li>
-							<li><a href="#">Watch the screencasts</a></li>
-							<li><a href="#">Help</a></li>
-							<li><a href="#">Blog</a></li>
-						</ul>
-						<p>&copy; 2009 Mobango Ltd</p>
-					</div>
-				</div>-->
-			</div>
-			<div class="column secondary">
-				<div class="text-box">
-						    				    					   							   						    		    
-													<h2>Spread the word. Add us to your bookmarks</h2>
-					<ul class="icons">
-						<!--<li><a href="#"><img src="http://c4.mobimgs.com/images2/ico-01.gif" alt="" /></a></li>
-						<li><a href="#"><img src="http://c4.mobimgs.com/images2/ico-02.gif" alt="" /></a></li>-->
-						<li><a onclick="javascrihttp://spaces.live.com/BlogIt.aspx?description=%3Cimg&amp;Title=pt:urchinTracker('/outbound/bookmark/furl');" href="http://www.furl.net/storeIt.jsp?t=MOBANGO+-+Free+mobile+applications%2C+games%2C+themes%2C+ringtones%2C+wallpapers+and+videos+for+your+mobile+phone.+Downloads+apps+for+all+platforms%21&amp;au=http%3A%2F%2Fwww.mobango.com%2Fprivacy%2F" rel="nofollow"><img src="http://c2.mobimgs.com/images2/ico-03.gif" alt="furl"></a></li>
-						<li><a onclick="window.open('http://del.icio.us/post?v=4&amp;noui&amp;jump=close&amp;url=http%3A%2F%2Fwww.mobango.com%2Fprivacy%2F&amp;title=MOBANGO+-+Free+mobile+applications%2C+games%2C+themes%2C+ringtones%2C+wallpapers+and+videos+for+your+mobile+phone.+Downloads+apps+for+all+platforms%21', 'delicious','toolbar=no,width=700,height=400');urchinTracker('/outbound/bookmark/del.icio.us'); return false;" href="#" rel="nofollow"><img src="http://c3.mobimgs.com/images2/ico-04.gif" alt="delicious"></a></li>
-						<li><a onclick="javascript:urchinTracker('/outbound/bookmark/digg');" href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fwww.mobango.com%2Fprivacy%2F&amp;title=MOBANGO+-+Free+mobile+applications%2C+games%2C+themes%2C+ringtones%2C+wallpapers+and+videos+for+your+mobile+phone.+Downloads+apps+for+all+platforms%21" rel="nofollow"><img src="http://c3.mobimgs.com/images2/ico-05.gif" alt="digg"></a></li>
-						<li><a onclick="javascript:urchinTracker('/outbound/bookmark/spurl');" href="http://www.spurl.net/spurl.php?title=MOBANGO+-+Free+mobile+applications%2C+games%2C+themes%2C+ringtones%2C+wallpapers+and+videos+for+your+mobile+phone.+Downloads+apps+for+all+platforms%21&amp;url=http%3A%2F%2Fwww.mobango.com%2Fprivacy%2F" rel="nofollow"><img src="http://c1.mobimgs.com/images2/ico-06.gif" alt="spurl"></a></li>
-						<li><a onclick="javascript:urchinTracker('/outbound/bookmark/reddit');" href="http://reddit.com/submit?url=http%3A%2F%2Fwww.mobango.com%2Fprivacy%2F&amp;title=MOBANGO+-+Free+mobile+applications%2C+games%2C+themes%2C+ringtones%2C+wallpapers+and+videos+for+your+mobile+phone.+Downloads+apps+for+all+platforms%21" rel="nofollow"><img src="http://c1.mobimgs.com/images2/ico-07.gif" alt="reddit"></a></li>
-						<li><a href="/rss/" title="rss feed"><img src="http://c2.mobimgs.com/images2/ico-08.gif" alt="rss"></a></li>
-						<li><a target="_blank" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.mobango.com%2Fprivacy%2F&amp;t=MOBANGO+-+Privacy+Statement"><img src="http://c2.mobimgs.com/images2/facebooksmall.png" alt="Share on Facebook" title="Share on Facebook"></a></li>
-                     	<li><a target="_blank" href="http://twitter.com/home?status=MOBANGO+-+Privacy+Statement+http%3A%2F%2Fwww.mobango.com%2Fprivacy%2F"><img src="http://c1.mobimgs.com/images2/twittersmall.png" alt="Share on Twitter" title="Share on Twitter"></a></li>
-                     	<li><a target="_blank" href="http://www.myspace.com/Modules/PostTo/pages/?c=%3Cimg+src%3D%27http%3A%2F%2Fcontent.mobango.com%2Fimages2%2Flogo-beta.gif%27+alt%3D%27Preview%27+style%3D%27margin-right%3A+10px%3B+float%3A+left%3B%27+align%3D%27middle%27+%2F%3E%3Cbr+%2F%3E%3Cspan+style%3D%27line-height%3A20px%3Bfont-size%3A10px%3Bfont-family%3Aarial%27%3E%3Ca+href%3D%27%2Fprivacy%2F%27%3EMOBANGO+-+Privacy+Statement%3C%2Fa%3E%3Cbr+%2F%3E%3Cbr+%2F%3E%3Ca+href%3D%27http%3A%2F%2Fwww.mobango.com%2F%27%3EMobango.com%3C%2Fa%3E%3C%2Fspan%3E%3Cbr+%2F%3E&amp;l=3"><img src="http://c1.mobimgs.com/images2/myspacesmall.png" alt="Share on MySpace" title="Share on MySpace"></a></li>
-                     	<li><a target="_blank" href="http://spaces.live.com/BlogIt.aspx?description=%3Cimg+src%3D%27http%3A%2F%2Fcontent.mobango.com%2Fimages2%2Flogo-beta.gif%27+alt%3D%27Preview%27+style%3D%27margin-right%3A+10px%3B+float%3A+left%3B%27+align%3D%27middle%27+%2F%3E%3Cbr+%2F%3E%3Cspan+style%3D%27line-height%3A20px%3Bfont-size%3A10px%3Bfont-family%3Aarial%27%3E%3Ca+href%3D%27%2Fprivacy%2F%27%3EMOBANGO+-+Privacy+Statement%3C%2Fa%3E%3Cbr+%2F%3E%3Cbr+%2F%3E%3Ca+href%3D%27http%3A%2F%2Fwww.mobango.com%2F%27%3EMobango.com%3C%2Fa%3E%3C%2Fspan%3E%3Cbr+%2F%3E&amp;Title=MOBANGO+-+Privacy+Statement"><img src="http://c2.mobimgs.com/images2/livespacessmall.png" alt="Share on LiveSpaces" title="Share on LiveSpaces"></a></li>
-            	 </ul>
-     		</div>
-
-   		  <div class="clearer"><!-- --></div>
-   		  
-	     <div class="text-box">
-             <h2>Stay connected</h2>
-             <ul class="iconsText">
-                <li><a target="_blank" href="http://www.facebook.com/pages/Mobango/17642289665"><img src="http://c2.mobimgs.com/images2/facebooksmall.png" alt="Become a fan on Facebook" title="Become a fan on Facebook">Become a fan on Facebook</a></li>
-          		<li><a target="_blank" href="http://www.twitter.com/mobango"><img src="http://c1.mobimgs.com/images2/twittersmall.png" alt="Follow us on Twitter" title="Follow us on Twitter">Follow us on Twitter</a></li>
-             </ul>
-    	 </div>
-    	 
-				<!--<div id="mobile-tools" class="list-box">
-					<h4>Mobile tools</h4>
-					<ul>
-						<li><a href="/cell_phones/">Cell phones</a></li>
-						<li><a href="/compatibility/">Compatibility </a></li>
-												<li>
-														<a href="http://wap.mobango.com">
-														Mobango Mobile Site
-							</a>
-						</li>
-					</ul>
-				</div>
-				<dl id="summary" style="margin: 0 0 20px 0">
-					<dt style="float: none;">Mobile tools</dt>
-					<dd style="border-top: none;padding-left: 0;">
-					<a href="/swarea/index.php/homedeveloper" title="Publish your mobile applications, games and themes for free on Mobango and distribute them to our worldwide community. Mobango supports Java/J2ME, BlackBerry, Windows Mobile, Symbian, Flash Lite and Android apps. To increase your downloads we offer a great self-service campaign tool!">Publishers &amp; Developers</a> -
-											<a href="http://wap.mobango.com">
-												Mobango Mobile Site
-						</a>
-					</dd>
-				</dl>-->
-				<div class="clearer"><!-- --></div>
-				
-				<!--<div class="text-box">
-					<h2>Let your voice be heard.</h2>
-					<form action="#">
-						<fieldset>
-							<div class="form-section"><label>Your Name</label> <input type="text" value="" class="text" /></div>
-							<div class="form-section"><label>Your email</label> <input type="text" value="" class="text" /> <span>(no spam, don't worry)</span></div>
-							<div class="form-section"><label>Message</label> <textarea rows="10" cols="10">Type your message here...</textarea></div>
-							<div class="send btns"><a href="#"><span>Send</span></a></div>
-						</fieldset>
-					</form>
-				</div>-->
-				<div class="copyright-box">
-					<div class="inner" style="padding: 10px;">
-						<h2><a href="#">Mobango</a></h2>
-						<ul>
-							<li><a href="/aboutus/">About us</a></li>
-							<li><a href="/view/press.php">Press</a></li>
-							<li><a href="/view/jobs.php">Jobs</a></li>
-							<li><a href="http://blog.mobango.com/" title="This is the official Mobango.com Blog. Here we inform you about new features, cool downloads and the latest mobile industry news." onclick="javascript:urchinTracker('/outbound/blog.mobango.com');">Blog</a></li>
-						</ul>
-						<ul>
-							<li><a href="/privacy/" rel="nofollow">Privacy</a></li>
-							<li><a href="/terms_of_services.php" rel="nofollow">  Terms of service</a></li>
-						</ul>
-						<p>© 2009 Mobango Ltd</p>
-					</div>
-				</div>
-				<!--<p>&copy; 2009 Mobango Ltd</p>-->
-							
-			</div>
+	<div id="footer">
+		<div class="copyright-box">
+			<table width="1000" cellspacing="1" cellpadding="2" border="0" align="center" style="padding:0px;align:center;">
+				<tbody><tr align="center">
+					<td align="center" width="100%">
+					<span style="padding-left:55px;align:center;float:left;"><a href="http://www.mobango.com/view/aboutus.php">About us</a></span>
+					<span style="padding-left:50px;align:center;float:left;"><a href="http://www.mobango.com/view/press.php">Press</a></span>
+					<span style="padding-left:50px;align:center;float:left;"><a href="http://www.mobango.com/view/jobs.php">Jobs</a></span>
+					<span style="padding-left:50px;align:center;float:left;"><a href="http://blog.mobango.com/new/" title="This is the official Mobango.com Blog. Here we inform you about new features, cool downloads and the latest mobile industry news." onclick="javascript:urchinTracker('/outbound/blog.mobango.com');">Blog</a></span>
+					<span style="padding-left:50px;align:center;float:left;"><a href="http://www.mobango.com/view/privacy.php" rel="nofollow">Privacy</a></span>
+					<span style="padding-left:50px;align:center;float:left;"><a href="http://www.mobango.com/view/termsofservices.php" rel="nofollow">  Terms of service</a></span>
+					<span style="padding-left:50px;align:center;float:left;"><a href="http://www.mobango.com/swarea/index.php/homedeveloper " rel="nofollow">Developer Website</a></span>
+					<span style="padding-left:50px;align:center;float:left;"><a href="http://www.mauj.com/" rel="nofollow">People Infocom Corporate Site</a></span>	
+					</td>
+				</tr>
+			</tbody></table>
 		</div>
-	
+		<div class="clearer"><!-- --></div>
+		<div align="center" class="copyright-text">© 2009 Mobango Ltd</div>
+	</div>
+
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
@@ -432,7 +293,7 @@ _uacct = "UA-128668-7";
 _udn="mobango.com";
 urchinTracker();
 </script>
-	
+
 	
 
 </body></html>
