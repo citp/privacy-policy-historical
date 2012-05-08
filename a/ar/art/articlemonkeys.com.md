@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlemonkeys.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008045014id_/http%3A//www.articlemonkeys.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlemonkeys.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508074545id_/http%3A//www.articlemonkeys.com/privacy.php) for the most accurate reproduction.*
 
 # ArticleMonkeys | Privacy Statement
 
