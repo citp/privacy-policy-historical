@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the websitetrafficmakers.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204158id_/http%3A//websitetrafficmakers.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitetrafficmakers.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508102417id_/http%3A//www.websitetrafficmakers.com/privacypolicy.php) for the most accurate reproduction.*
 
-# WebsiteTrafficMakers.com - Privacy Policy
+# Website Traffic Makers - Privacy Policy
 
 **PRIVACY POLICY
 
