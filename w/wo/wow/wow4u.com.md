@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wow4u.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102052709id_/http%3A//www.wow4u.com/privacystatement/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wow4u.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508144433id_/http%3A//www.wow4u.com/privacystatement/index.html) for the most accurate reproduction.*
 
-# Privacy Statement, Inspirational Words of Wisdom
+# Privacy Statement
 
-|  Inspirational Words of Wisdom __ The privacy of our visitors to Inspirational Words of Wisdom, http://www.wow4u.com is important to us. At www.wow4u.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit www.wow4u.com, and how we safeguard your information. 
+|  __ The privacy of our visitors to Words of Wisdom, http://www.wow4u.com is important to us. At www.wow4u.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit www.wow4u.com, and how we safeguard your information. 
 
   
 **Newsletter List**   
