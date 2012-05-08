@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weightlossresources.co.uk privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206123229id_/http%3A//www.weightlossresources.co.uk/logout/info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weightlossresources.co.uk privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508145929id_/http%3A//www.weightlossresources.co.uk/logout/info/privacy.htm) for the most accurate reproduction.*
 
 # Privacy and Security
 
@@ -113,10 +113,4 @@ Weight Loss Resources reserves the right to change this Privacy Policy as we may
 
 © Simply-docs - TR.WEB.TC.18 Website Privacy Policy
 
-### Back to top | [WEIGHT LOSS](https://web.archive.org/lostart.htm?from=bottomlink) | [Terms of Use](https://web.archive.org/logout/info/terms.htm) | [Privacy Policy](https://web.archive.org/logout/info/privacy.htm)
-
-[Log in to non-mobile site.](http://www.weightlossresources.co.uk/member/login.htm)
-
-## Sponsored Links
-
-The adverts below are not endorsed by Weight Loss Resources
+[](http://www.addtoany.com/share_save?linkname=Weight%20Loss%20Resources&linkurl=http%3A%2F%2Fwww.weightlossresources.co.uk%2F)
