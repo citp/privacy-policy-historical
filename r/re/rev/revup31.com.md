@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revup31.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118002345id_/http%3A//www.revup31.com/policy_popup.php%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revup31.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508043417id_/http%3A//www.revup31.com/policy_popup.php%3Fid%3Dprivacy) for the most accurate reproduction.*
 
 # None
 
