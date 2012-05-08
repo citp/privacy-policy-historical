@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the vpike.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214152947id_/http%3A//www.vpike.com%3Fr%3Df%26st%3Dp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vpike.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508055253id_/http%3A//www.vpike.com%3Fr%3Df%26st%3Dp) for the most accurate reproduction.*
 
 # vPike.com Privacy Policy
+
+[](https://web.archive.org/)
+
+[Home](https://web.archive.org/) » vPike.com Privacy Policy
 
 vPike.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: vPike.com.
 
@@ -14,7 +18,7 @@ As part of the services offered by vPike.com we may display a map via the [Googl
 
 * * *
 
-#### VPIKE.COM WORKS WITH THIRD PARTIES THAT SERVES ADS TO THIS SITE.
+#### vPike.com WORKS WITH THIRD PARTIES THAT SERVES ADS TO THIS SITE.
 
 **Third Party Cookies** \- In the course of serving advertisements to this site, a third-party advertiser may place or recognize a unique "cookie" on your browser.
 
@@ -44,7 +48,7 @@ Like most Web servers on the Internet, the vPike.com server collects and stores 
 
 It is impossible to determine the actual identity of an individual user from this information. The logs are periodically summarized and analyzed to study site usage over time and to perform other studies to help us improve the site's organization, performance, and usefulness.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, then please **[Contact Us](mailto:al@vpike.com)**. 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, then please **[Contact Us](mailto:al@vPike.com)**. 
 
   
 
