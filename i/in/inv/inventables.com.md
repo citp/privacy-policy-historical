@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the inventables.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103070046id_/http%3A//www.inventables.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inventables.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508105400id_/https%3A//www.inventables.com/privacy_policy) for the most accurate reproduction.*
 
-# Inventables Privacy Policy
+# Inventables: Find new materials
+
+Inventables Privacy Policy
 
 ## Inventables Privacy Statement
 
