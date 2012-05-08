@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the usconcealedcarry.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121234718id_/https%3A//www.usconcealedcarry.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usconcealedcarry.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508092156id_/https%3A//www.usconcealedcarry.com/policies/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | USConcealedCarry.com
+# - USConcealedCarry.com
 
 #### Overview
 
@@ -16,7 +16,7 @@ Each time a member logs into our site, we store a temporary “cookie” in the 
 
 When ever you log off or leave the site, the cookies file is automatically removed.
 
-**Please also note:  **Third party vendors, including Google, use cookies to serve ads based on your prior visits to this website. You have the option to opt out of Google’s use of cookies by visiting the Google advertising opt-out page. ([http://www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html\)Alternatively)) Alternatively you can opt-out of cookies by visiting the Network Advertising Initiative op out page.
+**Please also note:** Third party vendors, including Google, use cookies to serve ads based on your prior visits to this website. You have the option to opt out of Google’s use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/policies/privacy/ads/#toc-optout). Alternatively you can opt-out of cookies by visiting the [Network Advertising Initiative op out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
 #### External Links
 
