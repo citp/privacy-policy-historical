@@ -1,47 +1,110 @@
-> *The following text is extracted and transformed from the wirelessground.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217084101id_/http%3A//www.wirelessground.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wirelessground.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508020450id_/http%3A//www.wirelessground.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
-If you purchase a product from  **WirelessGround**.com, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). 
+[](http://secure.trust-guard.com/certificates/3860)
 
-We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you. Once your order is received, you will receive a confirmation email from us confirming your order number. When your order is shipped out, you will receive another e-mail with shipment tracking information. If we have any problems processing your billing or shipping information, a customer care representative will contact you via e-mail or at the phone number you have provided. 
+**What information do we collect?**
 
-When you submit an order to  **WirelessGround**.com via the order form, you have the option of adding yourself to our newsletter. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at sales@ **wirelessground**.com You may also contact us at 877-764-2460 or 316 Mira Loma Avenue Glendale, CA 91204.
+We collect information from you when you place an order. 
 
-We do not share any information with any third party that is not our agent/service provider or as required by law.  
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.  
-We use the United States Postal Service and the United Parcel Service to send shipments and a credit card processing company to bill you for goods and services. Yahoo is the hosting company of **WirelessGround**.com These companies do not retain, share, store or use personally identifiable information for any other purposes.
+Any data we request that is not required will be specified as voluntary or optional. 
 
-If your personally identifiable information changes, or if you no longer desire our service, you may update it by emailing our Customer Support at sales@ **wirelessground**.com or 877-764-2460 or postal mail at the contact information listed below
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
-**WirelessGround**.com  
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+ **What do we use your information for?**
+
+Any of the information we collect from you may be used in one of the following ways: 
+
+腹To personalize your experience  
+(your information helps us to better respond to your individual needs)
+
+腹To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+
+腹To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
+
+腹To process transactions  
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer. 
+
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you submit a request or place an order. 
+
+These security measures include: password protected directories and databases to safeguard your information, SSL (Secure Sockets Layered) technology to ensure that your information is fully encrypted and sent across the Internet securely or PCI Scanning to actively protect our servers from hackers and other vulnerabilities. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+
+ **Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+
+ **Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+ **Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+ **California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+ **Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+ **CAN-SPAM Compliance**
+
+We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
+
+ **Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+ **Terms and Conditions**
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.wirelessground.com/privacypolicy.html.
+
+ **Your Consent**
+
+By using our site, you consent to our privacy policy.
+
+ **Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. 
+
+This policy was last modified on **03/02/2012**
+
+ **Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+www.wirelessground.com  
 316 Mira Loma Avenue  
-Glendale, CA 91204
+Glendale, CA 91204  
+United States  
+sales@wirelessground.com  
+877-764-2460
 
-The security of your personal information is important to us. When our company first went online a few years ago, we chose Yahoo because it has the best e commerce platform in terms of customer security. When you enter sensitive information (such as credit card number) or our order forms, we encrypt that information using secure socket layer technology (SSL). All shipping, billing, or credit card information is kept with in our secure server. To learn more about SSL, please visit http://www.verisign.com/ssl/ssl-information-center/how-ssl-security-works/index.html
+ **Privacy Policy Customer Pledge**
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:  
+Federal Trade Commision Fair  
+California Online Privacy Protection Act  
+Childrens Online Privacy Protection Act  
+Privacy Alliance  
+Controlling the Assault of Non-Solicited Pornography and Marketing Act
 
-If you have any questions about security on our Web site, you can send email us at sales@ **wirelessground**.com
+If at anytime you have a cause that needs to be disputed please fill out the [Trust Guard Dispute Resolution form](http://secure.trust-guard.com/disputesystem/). 
 
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
+Respectfully, 
 
-We use session ID cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. 
-
-If you reject cookies, you may not be able to add multiple items onto the shopping cart to checkout.
-
-Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. 
-
-This  **privacy**  statement covers the use of cookies by  **WirelessGround**.com only and does not cover the use of cookies by any advertisers.
-
-As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information. 
-
-If we decide to change our  **privacy**   **policy** , we will post those changes to this  **privacy**  statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com  
-  
-We reserve the right to modify this  **privacy**  statement at any time, so please review it frequently. If we make material changes to this  **policy** , we will notify you here, by email, or by means of a notice on our home page. 
-
-**WirelessGround**.com is a licensee of the TRUSTe  **Privacy**  Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This  **privacy**  statement covers the Web site http://www. **wirelessground**.com/ Because this Web site wants to demonstrate its commitment to your **privacy** , it has agreed to disclose its information practices and have its  **privacy**  practices reviewed for compliance by TRUSTe.  
-If you have questions or concerns regarding this statement, you should first contact a customer care representative at 877-764-2460 or sales@ **wirelessground**.com If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php TRUSTe will then serve as a liaison with us to resolve your concerns.  
-Date: 12/20/2006
+WirelessGround.com   
+www.wirelessground.com
