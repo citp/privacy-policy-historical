@@ -1,68 +1,46 @@
-> *The following text is extracted and transformed from the crowdfunder.com privacy policy that was archived on 2008-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080618174836id_/http%3A//crowdfunder.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdfunder.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508134859id_/http%3A//crowdfunder.com/privacy.html) for the most accurate reproduction.*
 
-# Welcome to CrowdFunder
+# 
 
-**Effective Date of this version: September 21, 2007**
+**crowdfunder, Inc. Privacy Policy**
 
-Thank you for visiting CrowdFunder.com (the "Site"). This Site is operated by Fairground Media LLC, mailing address at PO Box 850, Boulder, Colorado 80306. Your access to and use of the Site is subject to the following Privacy Policy ("Privacy Policy") and all applicable laws. The terms "CrowdFunder," "we," "us" and "our" when used in this Privacy Policy mean Fairground Media LLC. The terms "you" and "your," when used in this Privacy Policy, mean any user of the Site.
+**Last Updated February 12, 2012**
 
-We understand your concerns about privacy and we want to assure you that CrowdFunder takes privacy matters seriously. Therefore, we are providing this notice explaining our online information practices and the choices you can make about the way your information is collected and used. If you have questions regarding this Privacy Policy, you may direct them to [privacy@CrowdFunder.com](mailto:privacy@CrowdFunder.com). 
+crowdfunder.com is committed to respecting your privacy and using your information carefully and sensibly. This Privacy Policy describes what information we may collect about you and the ways we may use or share such information. By using crowdfunder.com (the "Site"), you accept all of the practices described in this Privacy Policy, as they may be updated by us from time to time in our sole discretion.
 
-Important: by submitting information manually or in electronic form to us and/or by using the Site, you give your consent that all information that you submit may be processed by CrowdFunder in the manner and for the purposes described below. Do not send CrowdFunder any confidential or proprietary information other than as necessary to post your postings. 
+  1. **Information Collection Practices.**
+    1. Information You Give Us. We collect and keep any information you enter on our Site or give us in any other manner. For example: 
+      1. In order to register for a user account, you must give us personal identifying information such as your name, address, and e-mail address.
+      2. You may also give us optional information such as your phone number, and you may choose to link your crowdfunder account to various social networking sites such as Facebook, LinkedIn, Google+, Quora, etc.
+      3. You may e-mail us directly, in which case we will keep all of our correspondence with each other, including your e-mail address.
+      4. You may sign a petition on our Site, in which case you will be required to give us certain personal identifying information such as your name, e-mail address, and zip code.
+    2. Information We Automatically Collect. We automatically track and collect the following categories of information when you visit our Site: (1) IP addresses; (2) domain servers; (3) types of computers and operating systems accessing the Site; (4) types of web browsers used to access the Site and browser settings and plug-ins; (5) URL traffic to, through, and from the Site; (6) pitches viewed on the Site, including length of viewing (collectively "Traffic Data"). Traffic Data is anonymous information that does not personally identify you but is helpful for marketing purposes or for improving your experience on the Site. We also use "cookies" (including session, persistent, and Flash) to customize content specific to your interests, to ensure that you do not see the same advertisement repeatedly, to store your password so you do not have to re-enter it each time you visit the Site, and for any number of other uses.
+    3. Opt-Out. If you object to the collection of any of this information, you should not use the Site.
+  2. **Automated E-Mails.**
+    1. We may send you e-mails from time to time to let you know about featured pitches, special promotions, other crowdfunder news, or offers or promotions from our partners. You may opt out of receiving e-mails at any time by clicking "Unsubscribe" in any e-mail we send you.
+    2. If you e-mail us directly, we may e-mail you back and keep records of all of our correspondence.
+  3. **How We Use Your Information.**
+    1. We will not share your personal information with any third parties except as specifically described in this Privacy Policy.
+    2. We may use your personal information to customize and tailor your experience on the Site and to display content that we think you might be interested in.
+    3. We will share your information as required by court order or law.
+    4. We may use your personal information to enforce our Terms of Use or to protect our rights or property or those of our users or others.
+    5. crowdfunder reserves the right to cooperate with legal authorities and third parties in the investigation of alleged wrongdoing, including disclosing the identity of a user that crowdfunder deems responsible for any wrongdoing.
+    6. We may share your personal information with unaffiliated businesses that you request to learn more information about or that you request to provide you with services.
+    7. We may share your personal information with business partners who assist us by performing services such as hosting, fulfillment, or data storage and security related to our operation of the Site. Those business partners have all agreed to uphold the same standards of security and confidentiality that we've promised to you in this Privacy Policy, and they will only use your information to carry out their specific business obligations to crowdfunder.
+    8. We reserve the right to transfer your personal information to a successor in interest that acquires rights to that information as a result of the sale of crowdfunder or a transfer of all or substantially all of its assets to that successor in interest.
+    9. Non-personal information may be collected about your usage of the Site and aggregated with data from other users ("Aggregate Data"). This Aggregate Data is anonymous. Aggregate Data is collected to build higher quality, more useful services by performing statistical analyses of the collective characteristics and behavior of our users. We may provide statistical information based on this data to advertisers and other current and potential business partners.
+    10. You may choose not to provide us with any personal information. In such an event, you can still access and the Site and view some publicly available information; however you will not be able to access and use those portions of the Site that require your personal information.
+  4. **Lost or Stolen Information.** You must promptly notify us if your user name or password is lost, stolen, or used without permission. In such an event, we will remove that user name or password from your account and update our records accordingly.
+  5. **How We Safeguard Your Information.** We take the protection of your personal information seriously, and we take commercially reasonable measures to safeguard it. If you register for an account with us, you will be required to secure it with a user-created password. Please note that we cannot guarantee the security of account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of user information at any time.
+  6. **Public Information.**
+    1. The Site contains links to other websites. Some links are to service providers that we believe offer complementary services, and in some instances we may receive a commission for referrals. However, we do not control or take any responsibility for the actions of any such service providers, including without limitation if those service providers use your personal information in any inappropriate manner. We are not responsible for the privacy practices or the content of any other websites.
+    2. Any information you post on a public profile will be public information available to anyone. We also make chat rooms, forums, message boards, and news groups available to you. Please understand that any information that is disclosed in these areas becomes public information. We have no control over its use and you should exercise caution when deciding to disclose your any personal information.
+    3. We may access certain information of yours that exists on third party sites such as Facebook.com and Linkedin.com. We will only access such information if you grant us permission to do so, such as by clicking on a link on our Site. We may use your information in any way consistent with this Privacy Policy, and we may also use your profile picture from such sites on our Site.
+    4. If you sign a petition on our Site, we may deliver the petition including whatever personal information you provided us in signing the petition to the designated recipient(s) of the petition.
+  7. **Updates and Changes to Privacy Policy.** We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site.
+  8. **Governing Law.** By using the Site, you agree that this Privacy Policy is governed by California law and that any and all controversies arising under this Privacy Policy shall be resolved exclusively by the state or federal courts located in Los Angeles County, California.
+  9. **Contact.** If you need to contact us regarding this Privacy Policy, we can be reached at: privacy@crowdfunder.com.
 
-**WHAT TYPE OF INFORMATION DOES CrowdFunder COLLECT?**
 
-We sometimes collect information about you in an effort to make our services more efficient and customized to you. You are free to browse the Site without revealing any personally identifiable information about yourself. However, once you give us your personally identifiable information (as further described below), you are not anonymous to us. We collect two types of information from visitors to the Site, "Automatic Anonymous Information" and "Personally Identifiable Information. We treat Automatic Anonymous Information and Personally Identifiable Information differently and the following sections describe both Automatic Anonymous Information and Personally Identifiable Information, and address how each type of information is collected and used by CrowdFunder. 
 
-The Site may automatically track certain information based upon your behavior. This information does not identify you personally. We use this information to improve the content and functionality of the Site, and to better understand and serve our users. This information may include what browser you are using, your IP address, or other information.
-
-Personally Identifiable Information is individually identifiable information about you that could permit one to identify or contact you. At various places on the Site, we may request certain Personally Identifiable Information, such as your name, phone number, e-mail, payment address and other personal information. You may choose to provide Personally Identifiable Information in order to access or use certain features or services of the Site, such as registering on the Site, filling out a survey or providing feedback. Where possible, we indicate which fields of information are required and which fields are optional. You can always choose not to provide information, but you may not be able to use a particular service or feature on the Site.
-
-**OUR USE OF YOUR INFORMATION**
-
-We use Automatic Anonymous Information to collect from you for specific and limited purposes, including improving our services and providing you with a personalized service. We may also use your Automatic Anonymous Information internally to administer the Site. 
-
-When you create a posting, we will ask you for certain Personally Identifiable Information such as your name, address and/or e-mail address in order to administer the posting, to send you promotional e-mails and notify you with respect to your fundraising goal. Your consent to such use and disclosure of this information is a condition of your participation. 
-
-If you provide us with your e-mail address as part of a posting or if you opt-in to receive communications from CrowdFunder, we may periodically send you newsletters, e-mails featuring exclusive sales and promotions, and e-mails requesting your feedback on our products and services. In addition, if you make a donation via the Site, we will send you confirmation e-mails. You can remove your e-mail from our e-mail list at any time by visiting the "Accessing and Updating Your Information" section below to change your preferences, or clicking on the "unsubscribe" link in every CrowdFunder e-mail.
-
-**DOES CrowdFunder SHARE THE INFORMATION IT RECEIVES?**
-
-CrowdFunder may share your Personally Identifiable Information: (i) with third parties who are under obligations of confidentiality with CrowdFunder or with CrowdFunder's affiliates or subsidiaries, (ii) if CrowdFunder is required by law to do so, (iii) in the event of a transfer of ownership of CrowdFunder, merger or other similar transaction, or (iv) as otherwise set forth in this Privacy Policy. The following describes some of the ways that your Personally Identifiable Information may be disclosed to third parties: 
-
-We may employ other third parties to perform services or functions on our behalf in order to improve the Site, merchandising, marketing and promotional efforts, communications or other services. Those third parties may include authorized contractors, consultants and other companies working with us (collectively, "agents"). They only have access to Personally Identifiable Information needed to perform their functions, and they may not share any Personally Identifiable Information with others or use it for any other purpose than providing or improving CrowdFunder's services and offerings. 
-
-This Privacy Policy applies only to the Site and does not address the practices of third parties who may collect your Personally Identifiable Information. You may visit other Web sites, through links on the Site, which may collect, use and share your Personally Identifiable Information in accordance with their own privacy policies. The information practices of those Web sites linking from or to the Site are not covered by this Privacy Policy, and we encourage you to be very cautious before you disclose your Personally Identifiable Information to others. In order to provide you with the information or products or services which you have requested, we may share or transfer your Personally Identifiable Information with our affiliates. 
-
-CrowdFunder may be obligated to cooperate with various law enforcement inquiries. CrowdFunder reserves the right to share or transfer Personally Identifiable Information to comply with a legal requirement, disclose any activities or Personally Identifiable Information about you to law enforcement or other government officials as we, in our sole discretion, determine necessary or appropriate, in connection with an investigation of fraud, for the administration of justice, intellectual property infringements, or other activity that is illegal or may expose us or you to legal liability.
-
-**ACCESSING AND UPDATING YOUR INFORMATION**
-
-You always have the opportunity to review and change the information you provide to us by logging into the Site and entering in the new information yourself. You can edit your name, contact information and preferences by logging into the "My Account" section of the Site. 
-
-You may ask to have your account information removed from our active databases; however, because we keep track of past purchases, we cannot delete information associated with past purchases. Also, as a security measure we "back up" the data stored on our systems, and such prior information cannot be completely removed from our databases. Therefore, you should not expect that all of your Personally Identifiable Information will be completely removed from our databases in response to your requests. 
-
-**A SPECIAL NOTE ABOUT CHILDREN'S PRIVACY**
-
-You must be at least 18 years old to have our permission to use the Site. We do not knowingly collect, use or disclose Personally Identifiable Information about visitors under 18 years of age. If you are under the age of 18, you can use this service only in conjunction with your parent's or guardian's permission. 
-
-**PRIVACY POLICY CHANGES**
-
-CrowdFunder reserves the right to change, modify, add or remove portions of this Privacy Policy at any time. Any changes will be posted in this document and will become effective immediately upon being posted unless we tell you otherwise. 
-
-**GOVERNING LAW**
-
-This Privacy Policy forms part of the Terms of Use and as such shall be governed by and construed in accordance with the laws of the State of Colorado in the United States of America without regard to conflicts of a law principles. You hereby consent and waive all objection to jurisdiction of the federal and state courts of the state Colorado and to venue therein.
-
-Further, you hereby waive trial by jury in any action or proceeding brought by either party to enforce or defend the provisions of this Privacy Policy.
-
-**CONTACTING CrowdFunder WITH QUESTIONS OR COMMENTS**
-
-If you have further questions about CrowdFunder's Privacy Policy or comments on how we can improve the CrowdFunder's services, please do not hesitate to e-mail us at [privacy@CrowdFunder.com](mailto:help@CrowdFunder.com). Need more help? You can refer to our Help Center or email one of our friendly Customer Service Specialists at [help@CrowdFunder.com](mailto:help@CrowdFunder.com). 
-
-You may also contact us at:  
-Privacy Manager  
-CrowdFunder  
-PO Box 850  
-Boulder, CO 80306   
-
+**© 2012 crowdfunder, Inc. All rights reserved.**
