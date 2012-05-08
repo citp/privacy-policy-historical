@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justzik.net privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222084510id_/http%3A//justzik.net/Privacy-Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justzik.net privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508092114id_/http%3A//justzik.net/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Règles de confidentialité
 
