@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the restorm.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204153111id_/http%3A//restorm.com/pages/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restorm.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508174446id_/http%3A//restorm.com/pages/policy) for the most accurate reproduction.*
 
 # Privacy Policy • restorm.com
 
@@ -12,7 +12,7 @@ restorm is a musicplatform and works as neutral service provider. The aim is to 
 
 2\. As far as possible to provide the service of restorm, any user can decide about the privacy settings individually.
 
-## What information are automatically stored?
+## What information is automatically stored?
 
 3\. When you access restorm from a computer, mobile phone, or other device, we may collect information from that device about your browser type, location, and IP address, as well as the pages you visit.
 
