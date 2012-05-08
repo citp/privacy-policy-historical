@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the easyinfo.in privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228133156id_/http%3A//easyinfo.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyinfo.in privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508055505id_/http%3A//easyinfo.in/privacy.html) for the most accurate reproduction.*
 
 # Privacy
+
+[](http://www.addthis.com/bookmark.php?v=20)
 
 **General Policies**
 
@@ -8,17 +10,17 @@
 
 Throughout our Web pages, we provide links to other servers which may contain information of interest to our readers. The Easy Info takes no responsibility for, and exercises no control over, the organizations, views, or accuracy of the information contained on other servers.
 
-Creating a text link from your Web site to the Easy Info Web site does not require permission. If you have a link you'd like us to consider adding to the Easy Info Web site, please send e-mail to [webmaster@easyinfo.co.in](mailto:webmaster@easyinfo.co.in) with the subject "Link request."
+Creating a text link from your Web site to the Easy Info Web site does not require permission. If you have a link you'd like us to consider adding to the Easy Info Web site, please send e-mail to webmaster@easyinfo.co.in with the subject "Link request."
 
  **Using Text and Images**
 
-If you would like to publish information that you find on the Easy Info Web site, please send your request to [webmaster@easyinfo.co.in](mailto:webmaster@easyinfo.co.in). Where text or images are posted on our site with the permission of the original copyright holder, a copyright statement appears at the bottom of the page.
+If you would like to publish information that you find on the Easy Info Web site, please send your request to webmaster@easyinfo.co.in. Where text or images are posted on our site with the permission of the original copyright holder, a copyright statement appears at the bottom of the page.
 
 Information about using the Easy Info logo and images is available in Media Resources. Easy Info Web banner ads and buttons, along with instructions for their use, also are available.
 
  **Accessibility**
 
-This Web site is designed to be accessible to visitors with disabilities, and to comply with federal guidelines concerning accessibility. We welcome your comments. If you have suggestions on how to make the site more accessible, please contact us at [webmaster@easyinfo.co.in](mailto:webmaster@easyinfo.co.in).
+This Web site is designed to be accessible to visitors with disabilities, and to comply with federal guidelines concerning accessibility. We welcome your comments. If you have suggestions on how to make the site more accessible, please contact us at webmaster@easyinfo.co.in.
 
  **Privacy Policy**
 
@@ -58,4 +60,4 @@ Questions About Our Policies
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at:
 
-[webmaster@easyinfo.co.in](mailto:webmaster@easyinfo.co.in)
+webmaster@easyinfo.co.in
