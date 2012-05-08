@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bidmc.org privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125045906id_/http%3A//bidmc.org/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidmc.org privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508222248id_/http%3A//www.bidmc.org/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - Beth Israel Deaconess Medical Center
 
