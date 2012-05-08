@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlecube.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124012043id_/http%3A//www.articlecube.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlecube.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508113816id_/http%3A//www.articlecube.com/privacy-policy) for the most accurate reproduction.*
 
 # About Us - Contact Us - TOS - Privacy Policy - ArticleCube
 
@@ -20,7 +20,7 @@ Personally Identifiable Information collected by ArticleCube.com may also be use
 
 Affiliated sites, linked sites and advertisements
 
-ArticleCube.com expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a www.ArticleCube.com page, certain content that is actually created or hosted by a third party. Also, through ArticleCubecom you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. ArticleCube.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+ArticleCube.com expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a www.ArticleCube.com page, certain content that is actually created or hosted by a third party. Also, through ArticleCube.com you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. ArticleCube.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
 
 While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. ArticleCube.com does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
 
@@ -38,7 +38,7 @@ ArticleCube.com does not knowingly collect or solicit Personally Identifiable In
 
 Contacting Us 
 
-We can be reached by emailing us. 
+We can be reached by emailing us. admin (at) articlecube.com 
 
 Changes to this Policy 
 
