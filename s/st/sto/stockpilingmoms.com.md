@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the stockpilingmoms.com privacy policy that was archived on 2011-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110901234552id_/http%3A//www.stockpilingmoms.com/2009/08/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockpilingmoms.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508075917id_/http%3A//www.stockpilingmoms.com/2009/08/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[](http://www.printfriendly.com/print/v2?url=http://www.stockpilingmoms.com/2009/08/privacy-policy.html)
 
 The privacy of our visitors to StockpilingMoms.com is important to us.
 
@@ -25,7 +23,7 @@ We also may use DART cookies for ad serving through Google’s DoubleClick, whic
 
 Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website.  
 Google’s use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.  
-Users may opt out of the use of the DART cookie by visiting the advertising [opt-out page](http://www.google.com/privacy/ads/). (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies by visiting the Network Advertising Initiative opt-out page.) 
+Users may opt out of the use of the DART cookie by visiting the advertising [opt-out page](http://www.google.com/privacy/ads/). (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies by visiting the Network Advertising Initiative opt-out page.)
 
 If you have not opted out of third-party ad serving, the cookies of other third-party vendors or ad networks may also be used to serve ads on your site, and should be disclosed in your privacy policy as well in the following manner.
 
@@ -37,4 +35,8 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-Tagged as: [Privacy Policy](http://www.stockpilingmoms.com/tag/privacy-policy)
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+
+Tagged as: [Privacy Policy](http://www.stockpilingmoms.com/tag/privacy-policy/)
+
+[](http://www.stockpilingmoms.com/2009/09/disclosure-policy.html)
