@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benefitsandwork.co.uk privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210143603id_/http%3A//www.benefitsandwork.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benefitsandwork.co.uk privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508162508id_/http%3A//www.benefitsandwork.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -10,4 +10,4 @@ We take the privacy of our users very seriously indeed and give the following th
 
 3) You will not receive any continual email solicitation, such as newsletters or auto-responses, from Benefits and Work Publishing Ltd unless you have asked to receive them via a double-opt in process. And, if you do consent to receive emails from us, we will always provide a simple unsubscribe option, along with unsubscribe instructions in every email.
 
-If you have any queries about how we collect and store data about you, please feel free to [contact us](http://www.benefitsandwork.co.uk/contact).
+If you have any queries about how we collect and store data about you, please feel free to [contact us](http://benefitsandwork.co.uk/contact).
