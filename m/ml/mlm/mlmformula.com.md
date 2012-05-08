@@ -1,91 +1,102 @@
-> *The following text is extracted and transformed from the mlmformula.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101123116id_/http%3A//mlmformula.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlmformula.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508031916id_/http%3A//mlmformula.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
 
-**Ugility Enterprises, Inc. and www.mlmformula.com Privacy Statement**
+**Ugility Enterprises, Inc. and www.MLMFormula.com Privacy Statement**
 
-This document was last updated on June 13, 2008.
+To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-1\. ACKNOWLEDGEMENT AND ACCEPTANCE OF TERMS
+To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-Ugility Enterprises, Inc. is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing www.mlmformula.com, you acknowledge and fully understand Ugility Enterprises, Inc.'s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Policy Statement.
+To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-2\. PARTICIPATING MERCHANT POLICIES
+To process transactions  
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer.
 
-Related services and offering with links from this website, including vendor sites, affiliates, and the like have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in Ugility Enterprises, Inc. services are encouraged to participate in industry privacy initiatives and to take a responsible attitutde towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
+To administer a contest, promotion, survey or other site feature
 
-3\. INFORMATION WE COLLECT AND HOW E USE IT
+**How do we protect your information?**
 
-Our company collects information in different way s from Visitors and Members who access the various parts of our Services and the network of Web sites accessible through our Service.
+We implement a variety of security measures to maintain the safety of your personal information when you submit a request, place an order or access your personal information. 
 
-Members may be asked to provide certain personal information when they sign up for our Products or Services including name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. The personal information collected from Members during the registration process is used to manage each Member's account (such as for billing purposes). This information may be shared with third parties, as stated herein, or in special circumstances.
+These security measures include: password protected directories and databases to safeguard your information or SSL (Secure Sockets Layered) technology to ensure that your information is fully encrypted and sent across the Internet securely. 
 
-In instances where our company and a partner jointly promote our Services, we may provide the partner certain personal information, such as the name, address, and username of persons who subscribe to the Services as a result of the joint promotion for the purpose of offering you other products and services.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
-In this instance, personal information may not be used by the partner for any other purpose. We may also generate non-identifying and aggregate profiles from personal information Members provide during registration (such as the total number, but not the names, of Members). As explained in more detail below, we may use this aggregated and non-identifying information to sell advertisements that appear on the Services.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-Also, with purchases, we supply our member's contact information, to our business partners, who then may contact the member by telephone after the member purchase. Sales proceeds are collected by that business partner company. We also may supply other companies with contact information, for mail offers we believe would be of interest to our members, with or without compensation from those companies. At times we may send an advertisement for a third party product, where we collect the sales proceeds, and forward the purchaser's information to that third party.
+**Do we use cookies?**
 
-Some products and services may be offered to Visitors and Members in conjunction with an affiliate, independent contractor seller or non-affiliated partner. To provide Visitors and Members some of these products and services, the partner may need to collect and maintain personal information.
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-At some Web sites, you can purchase products and services or register to receive materials, such as a newsletter, catalog or new product product and service updates. In many cases, you may be asked to provide contact information, such as your name, address, email address, phone number, and billing information (debit/credit/check).
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-If you are to purchase a product from our site, its partners, affiliates, or the like and choose to send the product directly to a recipient as a gift, you will be required to submit information on that person in order to fulfill the order.
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
 
-PERSONAL INFORMATION USERS
+**Do we disclose any information to outside parties?**
 
-www.isponsoring.com Web pages may contain tracking and electronic images that allow Ugility Enterprises, Inc. to track and count Users and Visitors to this site. And also to further market to users. Ugility Enterprises, Inc. may also include such counters and trackers in email messages in order to determine if said messages have been opened and acted upon.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-Some Web Counters/Tracking devices may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These counters/trackers may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile annonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. Ugility Enterprises, Inc. prohibits trackers/counters from being used to collect or access your personal information.
+**Third party links**
 
-5\. ACCESSING WEB ACCOUNT INFORMATION
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-We sill provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant - support@mlmformula.com
+**California Online Privacy Protection Act Compliance**
 
-6\. CHANGES TO THIS STATEMENT
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-Ugility Enterprises, Inc. has the discretion to occasionally update this privacy statement. When we do, we will also revise the "updated" date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into the member's area and going to the 'My Account' page.
 
-7 CONTACTING US
+**Childrens Online Privacy Protection Act Compliance**
 
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at:
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-Ugility Enterprises  
-ATTN: Privact  
-7645 North Union Blvd  
-Suite 254  
-Colorado Springs, CO 80920
+**CAN-SPAM Compliance**
 
-Email: privacy@mlmformula.com
+We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
 
-Telephone: 866-326-2174
+**Online Privacy Policy Only**
 
-8\. MISCELLANEOUS
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-When visitors or Members send email inquiries to our company, the return email address is used to answer the email inquiry we receive.
+**Terms and Conditions**
 
-We may periodically conduct both business and individual customer surveys. These surveys provides the opportunity to best tailor www.isponsoring.com to the needs and wants of those that visit. We make every attempt to keep collected information as protected as possible. 
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://mlmformula.com/terms.html.
 
-UGILITY ENTERPRISES, INC. WILL NEVER SHARE SENSITIVE, PERSONAL, OR COLLECTED INFORMATION TO ANYONE NOT DEEMED APPROPRIATE BY ACTING PARTIES OF UGILITY ENTERPRISES, INC.
+**Your Consent**
 
-The term "personally identifiable information" means individually identifiable information about an individual consumer or visitor collected online by Ugility Enterprises, Inc. from an indivudual and maintained by Ugility Enterprises, Inc. in an accessible form, and may include any or all of the following:
+By using our site, you consent to our privacy policy.
 
-(1) First Name  
-(2) Last Name  
-(3) Home or other physical or billing address, to include but not limited to street name and name of city, town, and or zip code  
-(4) Contact Number   
-(5) Fax Number  
-(6) Any other type of information that allows the physical or online contacting of a specific individual  
-(7) Any information concerning a user that the Web site or onoline service collects online, from the user, and maintains in personally identifiable form, in combination with an identifier described within this privacy polic
+**Changes to our Privacy Policy**
 
-Services and Web sites owned or maintained by Ugility Enterprises, Inc. have security measures in place to protect the loss, misuse, and alteration of the information under the control of Ugility Enterprises, Inc.. While every effort is made to ensure the integrity and security of networks and systems owned or operated by Ugility Enterprises, Inc., said company cannot guarantee that implemented security measures will prevent third-party "hackers" from illegally obtaining this information. 
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. 
 
-9 POLICY FOR CHILDREN
+This policy was last modified on **01-09-2012**
 
-It is our policy to comply with the Children's Online Privacy Protection Act of 1998 and all other applicable laws. Therefore we restrict our Web site to persons eighteen (18) years of age or older
+**Contacting Us**
 
-YOU MUST BE EIGHTEEN (18) YEARS OR OLDER TO ACCESS ANY WEB SITE OWNED OR MAINTAINED BY UGILITY ENTERPRISES, INC.. IF YOU ARE UNDER 18 YEARS OF AGE, YOU ARE NOT PERMITTED TO ACCESS ANY MATERIAL SET FORTH BY UGILITY ENTERPRISES FOR ANY REASON. DUE TO THE AGE RESTRICTIONS FOR USE OF THIS WEB SITE, NO INFORMATION OBTAINED BY THIS WEB SITE, FALLS WITHIN THE CHILREN'S ONLINE PRIVACY PROTECTION ACT (COPPA) AND IS NOT MONITORED AS DOING SO 
+If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-Ugility Enterprises, Inc. reserves the right to alter or update this Privacy Policy without notice. It is encouraged for visitors to frequently check back to see if this document has been updated. The date of update will be clearly printed at the beginning of this document for easy reference.
+MLMFormula.com  
+6050 Stetson Hills Blvd Suite 164  
+Colorado Springs, CO 80923  
+United States  
+support [at] mlmformula.com  
+800-681-1352
 
-© Copyright 2008 Ugility Enterprises, Inc., all rights reserved. 
+**Privacy Policy Customer Pledge**
+
+We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:  
+Federal Trade Commision Fair  
+California Online Privacy Protection Act  
+Childrens Online Privacy Protection Act  
+Privacy Alliance  
+Controlling the Assault of Non-Solicited Pornography and Marketing Act
+
+If at anytime you have a cause that needs to be disputed please fill out the [Trust Guard Dispute Resolution form](http://secure.trust-guard.com/disputesystem/). 
+
+Respectfully,   
+MLMFormula.com
