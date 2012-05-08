@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcdonalds.com.ph privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128144601id_/http%3A//www.mcdonalds.com.ph/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcdonalds.com.ph privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508135637id_/http%3A//www.mcdonalds.com.ph/privacy) for the most accurate reproduction.*
 
 # McDonald's Philippines - Love ko 'to
 
