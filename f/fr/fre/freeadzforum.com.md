@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeadzforum.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104174554id_/http%3A//www.freeadzforum.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeadzforum.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508145643id_/http%3A//www.freeadzforum.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
