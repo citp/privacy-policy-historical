@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the istanto.net privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101215129id_/http%3A//www.istanto.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the istanto.net privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508095404id_/http%3A//www.istanto.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Istanto Blogs
+# Privacy Policy - Online Business, Short Reviews, Computers and Internet, Tips and Trick, Make Money Online.
 
 ## Privacy Policy 
 
@@ -42,6 +42,10 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-### Leave a Reply
+#### Incoming search terms:
 
-You must be [logged in](http://www.istanto.net/wp-login.php?redirect_to=http://www.istanto.net/privacy-policy) to post a comment.
+  * alamat dan telepon mandiri surabaya
+
+
+
+### Leave a Reply
