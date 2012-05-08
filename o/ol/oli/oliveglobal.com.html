@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the oliveglobal.com privacy policy that was archived on 2011-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111218210329id_/http%3A//www.oliveglobal.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the oliveglobal.com privacy policy that was archived on 2012-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120508063508id_/http%3A//www.oliveglobal.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Olive E-Business Privacy Policies</title>
@@ -176,6 +176,87 @@
 
 	<!--footer starts-->
 
+
+        <script>
+    function ValidateEnquiryFormHome()
+	{
+	    var emailexp = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;                	    
+         
+         
+      if(document.getElementById("FooterExplore_txtNameE").value.trim() == '' || document.getElementById("FooterExplore_txtNameE").value.trim() == 'Name')	
+	{	    
+		document.getElementById('msg_divE').innerHTML = "Please enter Name.";
+		document.getElementById("FooterExplore_txtNameE").focus();
+		displayAlertE();		
+		return false;
+	}
+	
+	if(document.getElementById("FooterExplore_txtEmailE").value.trim() == '' || document.getElementById("FooterExplore_txtEmailE").value.trim() == 'E-mail')	
+	{	    
+		document.getElementById('msg_divE').innerHTML = "Please enter E-mail.";
+		document.getElementById("FooterExplore_txtEmailE").focus();
+		displayAlertE();
+		return false;
+	}
+	else if(emailexp.test(document.getElementById("FooterExplore_txtEmailE").value.trim()) == 0)	
+	{	    
+		document.getElementById('msg_divE').innerHTML = "Please enter correct email format ex.(abc@test.com).";
+		document.getElementById("FooterExplore_txtEmailE").focus();
+		displayAlertE();
+		return false;
+	}   
+	
+	 
+	if(document.getElementById("FooterExplore_txtPhoneE").value.trim() == '' || document.getElementById("FooterExplore_txtPhoneE").value.trim() == 'Phone')	
+	{	    
+		document.getElementById('msg_divE').innerHTML = "Please enter Phone No.";
+		document.getElementById("FooterExplore_txtPhoneE").focus();
+		displayAlertE();
+		return false;
+	}
+	else if (document.getElementById("FooterExplore_txtPhoneE").value.trim() != '')	
+	{	    
+	  
+	  var validChars = " +-0123456789()";			       
+			       for (var i = 0; i < document.getElementById("FooterExplore_txtPhoneE").value.length; i++)
+	               {				        
+				        if(validChars.indexOf(document.getElementById("FooterExplore_txtPhoneE").value.charAt(i)) == -1)
+				        {					    
+			                    document.getElementById('msg_divE').innerHTML = "Please enter valid Phone No";
+		                        document.getElementById("FooterExplore_txtPhoneE").focus();
+		                        displayAlertE();
+		                        return false;			                    
+				        }
+			        }
+    }
+    if(document.getElementById("FooterExplore_txtRequirementE").value.trim() == '' || document.getElementById("FooterExplore_txtRequirementE").value.trim() == 'Requirement')	
+	{	    
+		document.getElementById('msg_divE').innerHTML = "Please enter Requirement";
+		document.getElementById("FooterExplore_txtRequirementE").focus();
+		displayAlertE();
+		return false;
+	}
+	 if(document.getElementById("FooterExplore_txtSecurityCode").value.trim() == '')	
+	{	    
+		document.getElementById('msg_divE').innerHTML = "Please enter the security code";
+		document.getElementById("FooterExplore_txtSecurityCode").focus();
+		displayAlertE();
+		return false;
+	}
+	
+}
+
+function displayAlertE(msg)
+{    
+    if(msg) document.getElementById('msg_divE').innerHTML = msg;
+	document.getElementById('alert_divE').style.display = 'block';
+}
+function ReturnParentPage()
+{
+   parent.document.location.href = "thanks_contact.aspx";
+
+}
+    </script>
 <div class="footermain_bg">
     <div class="footer">
         <div class="footer_wave">
@@ -211,7 +292,7 @@
                         <li class="last">
                             <ul class="green">
                                 <li class="head green"><a href="experience/experience.aspx"><span>experience</span></a></li>
-                                <li><a href="experience/portfolio.aspx">Portfolio</a></li>
+                                <li><a href="experience/dulux-corporate.aspx">Portfolio</a></li>
                                 <li><a href="experience/clients.aspx">Clients</a></li>
                                 <li><a href="experience/contactus.aspx">Contact Us</a></li>
                                 <li><a href="experience/sitemap.aspx">Sitemap</a></li>
@@ -233,156 +314,90 @@
                     <h3>
                         call now</h3>
                     <div class="call-info">
-                        <div class="country"><div class="fastrak-left">India</div> <div class="fastrak-right">+91 11 2699 1100</div></div>
-                        <div class="clear"></div>
-                        
-                        <div class="country"><div class="fastrak-left">UK </div><div class="fastrak-right">+44 29 2062 6211</div> </div>
-                        <div class="clear"></div>
-                        
-                        <div class="country"><div class="fastrak-left">UAE </div><div class="fastrak-right">+971 43296800</div></div> 
-                        <div class="clear"></div>
-                        
-                        <div class="country"><div class="fastrak-left">Oman</div> <div class="fastrak-right">+968 24489596</div></div>
-                        
+                        <div class="country">
+                            <div class="fastrak-left">
+                                India</div>
+                            <div class="fastrak-right">
+                                +91 11 2699 1100</div>
+                        </div>
+                        <div class="clear">
+                        </div>
+                        <div class="country">
+                            <div class="fastrak-left">
+                                UK
+                            </div>
+                            <div class="fastrak-right">
+                                +44 29 2062 6211</div>
+                        </div>
+                        <div class="clear">
+                        </div>
+                        <div class="country">
+                            <div class="fastrak-left">
+                                UAE
+                            </div>
+                            <div class="fastrak-right">
+                                +971 43296800</div>
+                        </div>
+                        <div class="clear">
+                        </div>
+                        <div class="country">
+                            <div class="fastrak-left">
+                                Oman</div>
+                            <div class="fastrak-right">
+                                +968 24489596</div>
+                        </div>
                     </div>
                     <a href="experience/contactus.aspx" class="footer_button">contact us</a> <a href="javascript:void(window.open('http://livechat.olivewebhosting.com/livezilla/livezilla.php','','width=600,height=550,left=0,top=0,resizable=yes,menubar=no,location=yes,status=yes,scrollbars=no'))" class="footer_button">live chat</a>
                 </div>
-                <div class="enquiry_box">
-                    <h3>
-                        enquire now</h3>
-                    <p>
-                        <span id="FooterExplore_lblMsgE"></span>
-                        <a id="loveE" href="#"></a>
-                        <span id="alert_divE" style="display: none; background: #C9252C; padding: 10px; top:-11px; right:0px;
-                                    font: bold 12px arial; position: absolute; margin-bottom: -30px; color:#F3E0B1;">
-                                    <a id="msg_divE">
-                                    </a>
-                                </span>
-                    </p>
-                    <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTIxMjQ0MjQ4OTRkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBRRGb290ZXJFeHBsb3JlJHR4dGJ0bs/mrpnWiMHNJWD2Nj/sqBCjYkaL">
-
-
-<script src="/ScriptResource.axd?d=67W4BoHELQ6D4DpIhj5pmIbY6IHnjbl8UQI1RaJZdnD58HnjDv89j59RZOAf0bU6RU35RHBnc7IGKoESOsxo1Qdif2Ttman2W2eLgEYHE0fV4tPdIhaEtto6sWiZ31aFM1KiWrrBImft5x2mQivocBa8-F4k0hO65bphqExsw4XvcLKH0&amp;t=ffffffff96ceb70b" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
-//]]>
-</script>
-
-<script src="/ScriptResource.axd?d=f_AMda04VlvOH1NmnKMIfcNQ-4Mzhh96oVW4ORsaVhV533sOg1xZ2MyJ3zxboFPS1bEYivdA-oQMIx83HBA7Fm7hjDPQoUd3WIF1vg_JawD4hiDFMlvFS3xN4DMKoxEZahiU7s9uJ4NDMKN1EdtzZzqf5mw1&amp;t=ffffffffb47e03e7" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=r4AJd_ZxOQMpiVN87CecFmgjtiaPYk0h5mWUZ1O1EK4Fbml3s7_B_CaabTn2TGT1chBmXyrseZW1fKQ-wxRbhUM2qnrdpJeyZkt-s_qwOCH5aUM0K2nRFXPmKOPbez2lbS0JnZvvdRZZXesViAE3Q9COecc1&amp;t=ffffffffb47e03e7" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=NMsk9TklG9HCln38Gd0arqKqg83rkEU4OcXdiw3oSLWCBDbrQZQXqQgx-siYfdGud9qfvD3BdBoyqtfOV-1Y6XoaaueC6hGUR1E3q9BXkBu7ZUDsEmMNo8I2HXyAp1dl7QhkdNMiyIGKsOmrlO-yN1QngyFgxMXLndF1IqFDlfWr29qC0&amp;t=ffffffffb47e03e7" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=kMDPHlTzUp8juANAV2pto-Of1seT4eBgJTGBAYpDb3p9TvLRUL0uC5H_8Lp0B5KzIBluPH1SDgVRomUWeRUyhG8E_Umz1qaNcUnDoigKzK2QrmOyD1B9OFqwepRJ-Stloy4n84k_iG0K9XCiHmX3QDyal-g1&amp;t=ffffffffb47e03e7" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=NxXAOro1iA-tVXMaUEAPZKxaEBhD9s7ex1_SHlrXsXAUyr3slBtg95ZIemglc-c3NQn6OLWpZNgSRbkS-Gqmfx9ykK7vRxcQP54hvBu7jClCEFiX7ptb-7O9q23UBu2-myQik2gCeSLwFmLmbcG-qp0AtU41&amp;t=ffffffffb47e03e7" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=2hWG5W1Bea7mJ47XVUvTvUbzEXroKSf-xQlz5SDm_wxlhTlJtvctBZvVE4aPcb1CgJZFW3RGb_k2WUteDeh-kopw2Zf0M0W5mizS-puvNmTjv91-bz8MpJvpnVQBVkws-QSPFdl4Ex-Wg0NccvxRM9pkfBGgHMCZtLhyRHdPSglArxiG0&amp;t=ffffffffb47e03e7" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=PLvXHxWVrOXtqYMNPA_F4wBjdrGXKchwvJ1cS1lmyebGoDAq6eSZj_rw7IzcWOU5zzl6EWMR4baBahobXS9SNivpvR_yScBO7BPB6NtFeinNwDQXQ-lf7bA7gnjsygJasRXLZKy7xNsFKzyC8dU1f7kNX--Bnb7ls8o6ojX4-TNaL8NX0&amp;t=ffffffffb47e03e7" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=No75R63fCiU2fqhqCYG5xV5ktJeKrQOSX43LNE3SqGDGE6lTBJJpz_mOszHLbAeHDZ-j1yhNsEWV7GNhBfGr5-XxTYE6cE-mtBCfDFEoS0QyR9MiuYB76tvWiz32VRW-2cayjMmjcA9_VOqN_8-_JtKBRONrcgwpHrARtBOCXkDbR_s30&amp;t=ffffffffb47e03e7" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=uOZQwGCmgrTcgrXIu-zGzrmYoYomC_uF2Z5dFQ9TQokKNKHxQVUqoQAgY3ObuzPa-pvfRAy7Av0JuZANYW6Abt3kmAje2quXUmF-NM6R2urHAUe5V4vtLgrHmaRbjRm3x3bfCHajwhTr0YGfHMWzy43nWKAQfDc5iZG6oBJ60JcLy01k0&amp;t=ffffffffb47e03e7" type="text/javascript"></script>
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCQLawISeAQKapYasCwLC86jUCQLu17nUDAK4royCAwK8i/mVCAL+467QBQLRpYylCgL1x+G9A58cVRPClhV3DVMK/KdAH010kp12">
-                      
-                  
-                         
-                <div id="DivSignIn">
-                <div id="FooterExplore_pnlAddCustomPackage" class="popup1" style="display: none; color: #9F9D9D; width: 565px; padding: 0px;">
-	
-                    <table border="0" cellpadding="5" cellspacing="0" style="width: 100%">
-                        <tbody><tr>
-                            <td>                            
-                            <div style="float:left;"><a href="../index.aspx" title="Olive Global"><img src="../images/logo.jpg" alt="Olive Global" width="205" height="70" border="0"></a></div>
-                           
-                                <div style="text-align: right; vertical-align: top;">
-                                <input name="FooterExplore$AnkSignInClose" type="submit" id="FooterExplore_AnkSignInClose" class="cross" onclick="JavaScript:HideModalPopupSignIn()">
-                                
-                                </div>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>
-                                <div id="FooterExplore_msg_div" align="center" style="color: Red;" class="ErrMess">
-                                </div>
-                                <div style="width: auto;">
-                                    <table width="100%" style="align: center" border="0" cellpadding="5" cellspacing="5">
-                                        <tbody><tr align="center">
-                                            <td colspan="2" class="login-heading" style="background:#f7f7f7; color:#e5a222; font-size:16px;">
-                                                An enquiry form has been submitted successfully!
-                                            </td>
-                                        </tr>
-                                        
-                                    </tbody></table>
-                                </div>
-                            </td>
-                        </tr>
-                    </tbody></table>
-                    <input type="submit" name="FooterExplore$btnSignIn" value="" id="FooterExplore_btnSignIn" style="display: none; position: absolute;">
                 
-</div>
+                <iframe src="HomeEnquiry.aspx" height="500" width="250" class="footerframe"></iframe>
                 
-            </div>
-                
-                                
-                           
-                   
-                    <a id="FooterExplore_btnShowPopup" href="javascript:__doPostBack('FooterExplore$btnShowPopup','')" style="display: none">showpopup</a>
-                    
-                         
-                        <input name="FooterExplore$txtNameE" type="text" id="FooterExplore_txtNameE" class="inputbox" value="Name" onfocus="if (this.value == 'Name') this.value = '';" onblur="if (this.value == '') this.value = 'Name';">
-                        <input name="FooterExplore$txtEmailE" type="text" id="FooterExplore_txtEmailE" class="inputbox" value="E-mail" onfocus="if (this.value == 'E-mail') this.value = '';" onblur="if (this.value == '') this.value = 'E-mail';">
-                        <input name="FooterExplore$txtPhoneE" type="text" id="FooterExplore_txtPhoneE" class="inputbox" value="Phone" onfocus="if (this.value == 'Phone') this.value = '';" onblur="if (this.value == '') this.value = 'Phone';">
-                        <textarea name="FooterExplore$txtRequirementE" id="FooterExplore_txtRequirementE" class="inputtext" onfocus="if (this.value == 'Requirement') this.value = '';" onblur="if (this.value == '') this.value = 'Requirement';">Requirement</textarea>
-                        <input src="images/submit.gif" name="FooterExplore$txtbtn" type="image" id="FooterExplore_txtbtn" onclick="return ValidateEnquiryForm();">
-                    
-
-<script type="text/javascript">
-//<![CDATA[
-Sys.Application.initialize();
-Sys.Application.add_init(function() {
-    $create(AjaxControlToolkit.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","PopupControlID":"FooterExplore_pnlAddCustomPackage","dynamicServicePath":"/privacy.aspx","id":"SignInId"}, null, null, $get("FooterExplore_btnShowPopup"));
-});
-//]]>
-</script>
-</form>
-                </div>
             </div>
             <!--right box ends-->
             <div class="clear">
             </div>
         </div>
         <div class="homesocial_links">
-			<div align="center" class="font_12"><strong>Explore Our Group Brands</strong></div>
-			<div class="footer_logo">
-			<a href="http://www.oflowers.in" target="_blank" class="footer-logo1">Oflower</a>
-			<a href="http://www.olivewebhosting.com" target="_blank" class="footer-logo2">Olive Web Hosting</a>
-			<a href="http://www.jumphigherglobal.com/" target="_blank" class="footer-logo5">Jump Higher</a>
-			<a href="http://www.olivemideast.com" target="_blank" class="footer-logo3">Olive Middle East</a>
-			<a href="http://www.mobilephonedealz.co.uk/" target="_blank" class="footer-logo6">Mobile Phone Dealz</a>
-			<a href="http://www.oliveglobal.co.uk" target="_blank" class="footer-logo4">Olive United Kingdom</a>
-			
-			<div class="clear"></div>
-			</div>
-			
-				<div class="follow"> follow us on</div>
-				
-				<div class="follow_icons">
-				<a href="http://www.facebook.com/pages/Olive-E-Business/101165056593466 " target="_blank"><img src="images/facebook_icon.jpg" alt="facebook" width="20" height="20" border="0" title="follow us on facebook"></a>
-				<a href="http://twitter.com/Olive_ebusiness" target="_blank"><img src="images/twitter_icon.jpg" alt="twitter" width="20" height="20" border="0" title="follow us on twitter"></a>
-				<a href="#" target="_blank"><img src="images/rss_icon.jpg" alt="rss feed" width="20" height="20" border="0" title="rss feed"></a>				</div>
-				
-				<div class="sharethis">
-						
-						<script type="text/javascript" src="http://w.sharethis.com/button/sharethis.js#publisher=320f49d0-e332-4d87-af75-75f3d1f63d0f&amp;type=website"></script>
-		  </div>
-						<div class="sharethis" style="width:150px; margin:2px 0 0 12px;"><g:plusone size="small" annotation="inline"></g:plusone></div>
+            <div align="center" class="font_12">
+                <strong>Explore Our Group Brands</strong></div>
+            <div class="footer_logo">
+                <a href="http://www.oflowers.in" target="_blank" class="footer-logo1">Oflower</a>
+                <a href="http://www.olivewebhosting.com" target="_blank" class="footer-logo2">Olive
+                    Web Hosting</a> <a href="http://www.jumphigherglobal.com/" target="_blank" class="footer-logo5">
+                        Jump Higher</a> <a href="http://www.olivemideast.com" target="_blank" class="footer-logo3">
+                            Olive Middle East</a> <a href="http://www.mobilephonedealz.co.uk/" target="_blank" class="footer-logo6">Mobile Phone Dealz</a> <a href="http://www.oliveglobal.co.uk" target="_blank" class="footer-logo4">Olive United Kingdom</a>
+                <div class="clear">
+                </div>
+            </div>
+            <div class="follow">
+                follow us on</div>
+            <div class="follow_icons">
+                <a href="http://www.facebook.com/pages/Olive-E-Business/101165056593466 " target="_blank">
+                    <img src="images/facebook_icon.jpg" alt="facebook" width="20" height="20" border="0" title="follow us on facebook"></a> <a href="http://twitter.com/Olive_ebusiness" target="_blank">
+                            <img src="images/twitter_icon.jpg" alt="twitter" width="20" height="20" border="0" title="follow us on twitter"></a> <a href="#" target="_blank">
+                                    <img src="images/rss_icon.jpg" alt="rss feed" width="20" height="20" border="0" title="rss feed"></a>
+            </div>
+            <div class="sharethis">
+                
 
-				<div class="privacy_link">
-				<a href="privacy.aspx">Privacy</a>  |  <a href="disclaimer.aspx">Disclaimer</a>     © Olive e-Business Pvt. Ltd
-			</div>
-			<div class="clear"></div>
-	  </div>
+                <script type="text/javascript" src="http://w.sharethis.com/button/sharethis.js#publisher=320f49d0-e332-4d87-af75-75f3d1f63d0f&amp;type=website"></script>
+
+            </div>
+            <div class="sharethis" style="width: 150px; margin: 2px 0 0 12px;">
+                <g:plusone size="small" annotation="inline"></g:plusone>
+            </div>
+            <div class="privacy_link">
+                <a href="privacy.aspx">Privacy</a> | <a href="disclaimer.aspx">Disclaimer</a> ©
+                Olive e-Business Pvt. Ltd
+            </div>
+            <div class="clear">
+            </div>
+        </div>
     </div>
 </div>
 <!-- Place this tag where you want the +1 button to render -->
 <!-- Place this render call where appropriate -->
+
 <script type="text/javascript">
   (function() {
     var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
@@ -390,8 +405,8 @@ Sys.Application.add_init(function() {
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
   })();
 </script>
-<!--footer ends-->
 
+<!--footer ends-->
 
 
 
