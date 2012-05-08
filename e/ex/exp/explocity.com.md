@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the explocity.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125951id_/http%3A//bangalore.explocity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explocity.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508111334id_/http%3A//bangalore.explocity.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | BANGALORE | EXPLOCITY.com
 
@@ -19,4 +19,4 @@ By "Explocity", we mean Explocity Private Limited and explocity.com, its employe
 
 
 
-If you have any questions or need your doubts clarified, please write to us at [ ](mailto:admin@explocity.com) , we will get back to you as soon as we can. 
+If you have any questions or need your doubts clarified, please write to us at corporate@explocity.com, we will get back to you as soon as we can. 
