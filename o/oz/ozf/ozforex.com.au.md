@@ -1,20 +1,12 @@
-> *The following text is extracted and transformed from the ozforex.com.au privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124140855id_/http%3A//www.ozforex.com.au/documents/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozforex.com.au privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508080958id_/http%3A//www.ozforex.com.au/about-us/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy|Oz Forex Foreign Exchange | Ozforex
+# Privacy Policy - OzForex Foreign Exchange Services
 
-| 
+[ ](https://web.archive.org/)
 
-  
-
-
-| **Related Links** |  | [Regulation](https://web.archive.org/web/20101124140855id_/http%3A//www.ozforex.com.au/documents/regulatory-statement.asp) |  | [Website Terms](https://web.archive.org/web/20101124140855id_/http%3A//www.ozforex.com.au/documents/terms-of-use.asp)  
----|---|---|---|---  
-|  | [Privacy Policy](https://web.archive.org/web/20101124140855id_/http%3A//www.ozforex.com.au/documents/privacy-policy.asp) |  | [Money Laundering Statement](https://web.archive.org/web/20101124140855id_/http%3A//www.ozforex.com.au/documents/money-laundering-statement.asp)  
-|  | [Complaints Policy](https://web.archive.org/web/20101124140855id_/http%3A//www.ozforex.com.au/documents/complaints-policy.asp) |   |    
-  
 **Responsibility**
 
-  1. OzForex is responsible for all personal information you provide to it and will deal with that information in accordance with the following Privacy Principles.
+  1. OzForex is responsible for all personal information you provide to it and will deal with that information in accordance with the following Privacy Principles. 
   2. OzForex has implemented procedures to implement its Privacy Principles and to deal with complaints and enquiries. Our Compliance Manager has overall responsibility for ensuring that OzForex and its employees, agents and subsidiaries comply with our Privacy Principles. Our Compliance Manager may be contacted in relation to any enquiry or complaint at: compliance@ozforex.com.au. 
   3. OzForex will not disclose any of your personal information to a third party, or in a foreign country, unless the recipient is subject to legislation, or a contract, that safeguards your personal information in a manner that is substantially similar to our Privacy Principles. 
   4. The Privacy Principles should be read in conjunction with OzForex's Client Agreement. 
@@ -104,3 +96,23 @@ _Complaints_
   2. OzForex takes all complaints seriously and will investigate all complaints. 
 
 
+
+### Currency Converter
+
+Rate:  1.0163 
+
+=
+
+Rate:  0.9840 
+
+= 
+
+###  Register Free
+
+Registration is quick and easy. Access live customer rates, free tools and make international payments.
+
+[Register today](https://web.archive.org/registration)  
+Already registered? [Login](https://web.archive.org/login/login)   
+
+
+* * *
