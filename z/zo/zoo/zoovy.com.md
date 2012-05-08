@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoovy.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103174244id_/https%3A//www.zoovy.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoovy.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508222451id_/https%3A//www.zoovy.com/legal/privacy) for the most accurate reproduction.*
 
 # Zoovy Privacy Policy
 
