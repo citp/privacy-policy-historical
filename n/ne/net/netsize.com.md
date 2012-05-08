@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netsize.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110181308id_/http%3A//www.netsize.com/Information_LegalPrivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netsize.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508050132id_/http%3A//www.netsize.com/Information_LegalPrivacy.htm) for the most accurate reproduction.*
 
 # Netsize - Information: Legal & Privacy
 
@@ -26,4 +26,4 @@ We may also use your personal information to communicate with you, by sending ne
 ## Accessing Your Personal Information
 
 According to articles 39 and 40 of [the French Data Protection Law of the 6th January 1978](http://www.cnil.fr/en-savoir-plus/textes-fondateurs/loi78-17/#Article39) you are entitled to exercise your right to access, modify or delete your personal data.  
-Please use the links sent to you in Netsize emailings or through the [Update your Profile](https://web.archive.org/web/20111110181308id_/http%3A//www.netsize.com/Update-Your-Profile.htm) online form. 
+Please use the links sent to you in Netsize emailings or through the [Update your Profile](https://web.archive.org/web/20120508050132id_/http%3A//www.netsize.com/Update-Your-Profile.htm) online form. 
