@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecobank.com privacy policy that was archived on 2011-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110109130457id_/http%3A//www.ecobank.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecobank.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508072101id_/http%3A//www.ecobank.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,7 +30,7 @@ To run our everyday business, we share customer information with service-provide
 
 ## Why And What We Share With Affiliates 
 
-We share customer information concerning your transactions and experience within the Ecobank Group (the bank), which includes our mortgage and securities affiliates. A list of the bank’s family of companies is located in page ”[our network](http://www2.ecobank.com/ournetwork.aspx)” . This sharing of information is intended only to facilitate the servicing of our customers’ accounts and to offer financial products and services we believe would be beneficial to our customers.
+We share customer information concerning your transactions and experience within the Ecobank Group (the bank), which includes our mortgage and securities affiliates. A list of the bank’s family of companies is located in page ”[our network](https://web.archive.org/ournetwork.aspx)” . This sharing of information is intended only to facilitate the servicing of our customers’ accounts and to offer financial products and services we believe would be beneficial to our customers.
 
 ## Why And What We Share With Joint Marketing Partners 
 
@@ -56,8 +56,8 @@ If you have requested to be removed from marketing communications/lists, it is y
 
 **The Ecobank Group**   
 Ecobank Transnational Incorporated  
-2 Avenue Sylvanus Olympio  
+2365, Boulevard du Mono  
 BP 3261  
 Lomé (Togo)  
-Phone: (228) 221 03 03 / 221 31 68  
-Fax: (228) 221 51 19
+Phone: (228) 22 21 03 03 / 22 21 31 68  
+Fax: (228) 22 21 51 19 
