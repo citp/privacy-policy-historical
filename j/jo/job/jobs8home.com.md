@@ -1,15 +1,58 @@
-> *The following text is extracted and transformed from the jobs8home.com privacy policy that was archived on 2011-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110819090645id_/http%3A//www.jobs8home.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs8home.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508022038id_/http%3A//www.jobs8home.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy - ClassicIncome
+# Privacy Policy
 
-** Jobs8Home.com** does not sell, rent, or loan it's mailing list to any other organization or third parties. The information you provide, such as your address, e-mail address, and telephone number, is only used within Jobs8Home.com to ensure accurate and timely processing of orders. Everything is kept confidential and we will remove any information concerning you from our files at your request.  
- 
+This privacy policy sets out how Jobs8Home.com uses and protects any information that you give Jobs8Home.com when you use this website.
 
-** Responses to Email Inquiries: ** When visitors or members send email inquiries to our website, the return email address is used to answer the email inquiry we receive. We do not use the return email address for any other purpose and do not share the return email address with any third party. We may retain these emails for our records, only for use as a reference. **Testimonials:** If you submit a testimonial, you should be aware that any personally identifiable information you submit, such as your name, website, e-mail ID or contact number may be displayed on our site, where it could potentially be used by third parties to contact you, or send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in a testimonial. Although, as a policy as of now, in your personal interest we have decided not to mention any personal information besides your first name. **How we use "cookies"** : A "cookie" is a small data file that can be placed on your hard drive when you visit certain web sites. We may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide. 
+Jobs8Home.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-If you are a visitor or member we may use a cookie to save your settings and to provide customizable and personalized services. These cookies do not enable third parties to access any of your customer information. Additionally, be aware that if you visit other web sites where you are prompted to log in or that are customizable, you may be required to accept cookies. 
+Jobs8Home.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from Monday, December 26, 2011.
 
-Advertisers on our website may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them.
+#### What we collect.
 
- **Online Shopping:** At some web sites described within our product, you can purchase products and services or register to receive materials, such as a newsletter. You can decide whether or not to use these sites or services at your own discretion. **Legal:** We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our web site.  
- 
+We may collect the following information:
+
+  * Name and job title.
+  * Contact information including email address.
+  * Demographic information such as postcode, preferences and interests.
+  * Other information relevant to customer surveys and/or offers.
+
+
+
+#### What we do with the information we gather.
+
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests.
+
+
+
+#### Security.
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+#### How we use cookies
+
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.  
+We may use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.  
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.  You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+#### Links to other websites
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+#### Controlling your personal information
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes.
+  * If you have previously agreed to us using your personal information for direct marketing purposes,  you may change your mind at any time by writing to or emailing us at [support@jobs8home.com](mailto:support@jobs8home.com).
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.  
+You may request details of personal information which we hold about you as governed by the laws of India. A small fee may be payable. If you would like a copy of the information held on you please write to Sadguru Complex, Filmcity Road, Goregaon, Mumbai 400063, MS, India.  
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
