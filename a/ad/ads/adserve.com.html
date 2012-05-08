@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the adserve.com privacy policy that was archived on 2011-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111230093206id_/http%3A//www.adserve.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adserve.com privacy policy that was archived on 2012-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120508023601id_/http%3A//www.adserve.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<title>AdServe - Privacy Policy</title>
@@ -12,7 +12,7 @@
 		<script src="http://cdn.jquerytools.org/1.2.5/jquery.tools.min.js"></script>
 		
 		<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600" rel="stylesheet" type="text/css">
-		<link href="/style/main.css?v=20111229194801" rel="Stylesheet" type="text/css">
+		<link href="/style/main.css?v=20120426172114" rel="Stylesheet" type="text/css">
 		<link rel="shortcut icon" href="/img/static/favicon.ico">
 	</head>
 	
@@ -36,13 +36,31 @@
 					<div class="home">&nbsp;</div>
 				</a>
 				
-				<a href="javascript:loginShow();" class="login">Login</a>
-				<a href="/advertiser/register" class="signup">Signup</a>
+				<a href="javascript:void(0);" id="loginpath" class="login">Login</a>
+				<a href="/advertiser/register" id="singupBtn" class="signup">Signup</a>
+				<!-- <div id="chooseSignUpDiv" style="display:none;">
+					<a href="/advertiser/register" class="signup">Advertiser</a>
+					<a href="/publisher/register" class="signup">Publisher</a>
+				</div> -->
+				<div id="chooseSignUpDiv" style="display:none;">
+					<div style="display: block" class="signup_menu">
+						<a class="link_title" href="/advertiser/register"><span>Signup</span></a>
+						<a class="link" href="/advertiser/register"><span>Advertiser</span></a>
+						<a class="link" href="/publisher/register"><span>Publisher</span></a>
+					</div>
+				</div>
 				
 				<div id="loginDiv">
 					<form id="loginFormT" name="loginFormT" action="/login/do" method="post" class="form">
 						<div style="display:none" id="loginBox" class="loginbox">
 							<h1><a href="" class="login_homeicon">Login</a></h1>
+							<div class="formTitle">Please Select</div>
+							<div class="formInput">
+								<select id="loginTypeT" class="box1" style="width:164px;">
+									<option value="1">Advertiser</option>
+									<option value="2">Publisher</option>
+								</select>
+							</div>
 							<div class="formTitle">Username</div>
 							<div class="formInput">
 								<input name="username" id="usernameT" value="" type="text" class="text" maxlength="20">
@@ -57,13 +75,14 @@
 									Remember me
 								</label>
 								<div class="clear"></div>
-								<a href="/advertiser/forgot-password" class="icon_help">Forgot password</a>
+								<a id="linkToForgotPwdT" href="/advertiser/forgot-password" class="icon_help">Forgot password</a>
 							</div>
 							
 							<div class="colL">
 								<span id="loginT_error"></span>
 							</div>
 							<input type="hidden" id="fromUrlT" name="fromUrl" value="">
+							<input type="hidden" id="userSubmit" name="userSubmit" value="true">
 							<br>
 							<div class="colR">
 								<span onclick="loginT();">
@@ -84,24 +103,31 @@
 	$().ready(function(){
 		$("#loginBox").hide();
 
-		$(document).bind('click', function(e) {
-			var position = $('#loginBox').offset();
-			var height = $('#loginBox').height();
-			var width = $('#loginBox').width();
-			if ((e.pageX < position.left || e.pageX > position.left + width
-					|| e.pageY < position.top || e.pageY > position.top + height)) {
-				$('#loginBox').hide();
-			}
+		$("body").bind('click', function(e) {
+		    if($(e.target).closest('#loginBox').length == 0) {
+		       //outside login box
+		    	$('#loginBox').hide();
+		    } 
 		});
-		
-		
+		$("#loginpath").mouseover(function(){
+			loginShow();
+		});
+		 
 		$('#usernameT').keyup(function(e) {
 			enterPress(e.keyCode);
 		});
            $('#pwdT').keyup(function(e) {
         	   enterPress(e.keyCode);
 		});
-   		
+           
+        $("#singupBtn").mouseover(function(){
+        	$("#chooseSignUpDiv").show();
+        });
+        
+        $("#chooseSignUpDiv").mouseleave(function(e){
+        	$("#chooseSignUpDiv").hide();
+        });
+        
 		var error_msg = "<h6><span class=\"warning\" title=\"\">!</span><b>Incorrect username and/or password.</b></h6>";
 		//$("#wrong_login_error").html(error_msg);
 
@@ -111,6 +137,16 @@
      		$("#fromUrl").val(url.substring(url.indexOf("/")));
      		$("#fromUrlT").val(url.substring(url.indexOf("/")));
      		
+     		
+     		$("#loginTypeT").change(function(){
+       			if ($("#loginTypeT").val() == 1) {
+       				$("#loginFormT").attr("action","/login/do");
+       				$("#linkToForgotPwdT").attr("href", "/advertiser/forgot-password");
+       			} else {
+       				$("#loginFormT").attr("action","/publisher/login");
+       				$("#linkToForgotPwdT").attr("href", "/publisher/forgot-password");
+       			}
+       		});
 	});
 	
 	function enterPress(value){
@@ -144,7 +180,8 @@
 <div class="menu">
 	<ul>
 		<li><a href="/about">What We Do</a></li>
-		<li><a href="/advertiser">Advertise with Us</a></li>
+		<li><a href="/advertiser">Advertiser</a></li>
+		<li><a href="/publisher">Publisher</a></li>
 		<li><a href="/contact">Contact Us</a></li>
 		<div class="clear"></div>
 	</ul>
@@ -251,20 +288,24 @@
                 </ul>
             </td>
             <td rowspan="2" valign="top">
-            	<h5 class="advertise">Advertise with Us</h5>
+            	<h5 class="advertise">Advertiser</h5>
                 <ul>
                 	<li><a href="/advertiser">Why AdServe</a></li>
                     <li><a href="/advertiser/ad-format">Ad Format</a></li>
-
                     <li><a href="/advertiser/targeting">Targeting</a></li>
-                </ul>
-                <ul>
                 	<li><a href="/advertiser/banner/create">Create Ad</a></li>
                     <li><a href="/advertiser/global-reach">Global Reach</a></li>
                 </ul>
-            
             </td>
-
+            <td rowspan="2" valign="top">
+            	<h5 class="soltn">Publisher</h5>
+            	<ul>
+            		<li><a href="/publisher">Why AdServe</a></li>
+            		<li><a href="/publisher/publisher-solutions">Publisher Solutions</a></li>
+            		<li><a href="/publisher/how-to-use">How to use</a></li>
+            		<li><a href="/publisher/agreement">Agreement</a></li>
+            	</ul>
+            </td>
             <td valign="top" width="281">
             	<h5 class="brand">Contact Us</h5>
                 <a href="/contact" class="btn_grey find">Find our Sales Representative &gt;</a>
@@ -278,12 +319,10 @@
                     <!-- <a href="javascript:void(0);" class="btn_grey">See why &gt;</a> -->
                 </div>
                 <div class="clear"></div>
-                
             </td>
           </tr>
           <tr>
             <td valign="top">
-
             	<!-- <h5 class="newsletter">Newsletter</h5>
                 <input class="txt" type="text"/> <a href="" class="btn_grey subscribe">Subscribe</a>
                 <div class="clear"></div>
@@ -292,9 +331,8 @@
           </tr>
         </tbody></table>
 
-		
         <div class="bottombox">
-       	  <div class="copyright">© 2011 AdServe Ltd. All Rights Reserved.</div>
+       	  <div class="copyright">© 2012 AdServe Ltd. All Rights Reserved.</div>
 			<div class="optimize">
             	<a href="/terms">Terms &amp; Condition</a>
                 <a href="/privacy">Privacy Policy</a>
