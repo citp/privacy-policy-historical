@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sapiensweb.info privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104225149id_/http%3A//www.sapiensweb.info/p/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sapiensweb.info privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508210856id_/http%3A//www.sapiensweb.info/p/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Premium Website Directory
 
@@ -39,8 +39,8 @@ Recommended Sites
 
 Whois Online 
 
-| Active Users: | 86  
+| Active Users: | 289  
 ---|---  
 Accounts: | 0  
-Guests: | 86  
-Visits last 24h: | 986
+Guests: | 289  
+Visits last 24h: | 1892
