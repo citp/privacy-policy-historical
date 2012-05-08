@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gamerzplanet.net privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231060347id_/http%3A//www.gamerzplanet.net/forums/gamerzplanet-discussion/100304-gamerzplanet-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamerzplanet.net privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508031557id_/http%3A//www.gamerzplanet.net/forums/gamerzplanet-discussion/100304-gamerzplanet-privacy-policy.html) for the most accurate reproduction.*
 
 # Announcement GamerzPlanet Privacy Policy
-
-  1. 01-16-2007 10:37 PM [#1](http://www.gamerzplanet.net/forums/gamerzplanet-discussion/100304-gamerzplanet-privacy-policy.html#post622214)
 
 ##  GamerzPlanet Privacy Policy 
 
@@ -10,18 +8,20 @@
 >    
 >  **
 > 
-> **Our Commitment To Privacy** Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.   
+> **Our Commitment To Privacy **Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.   
 >    
 >  **The Information We Collect:**
 > 
 > This notice applies to all information collected or submitted on the GamerzPlanet website. The types of personal information collected at these pages are:
 > 
->     * Name   
+>   * Name   
 > 
->     * Address   
+>   * Address   
 > 
->     * Email address
->     * (etc.) 
+>   * Email address
+>   * (etc.) 
+> 
+
 > 
 > **The Way We Use Information:  
 >    
@@ -38,26 +38,10 @@
 > We reserve the right to modify and amend these terms at any time without notice. If you have any concerns on about GamerzPlanet Privacy Police, please **[Only registered and activated users can see links.[](http://www.gamerzplanet.net/forums/register.php)]**  
 > 
 
-> Last edited by Messiah; 01-16-2009 at 11:44 AM. 
+> Last edited by Messiah; 01-16-2009 at 10:44 AM. 
 
 > Join   
 > _To view links or images in signatures your post count must be 5 or greater. You currently have 0 posts._  
 >  and make it the biggest Off Topic Discussion Board on the internet!
 > 
 > **_I DO NOT MM or Trade_**
-
-* * *
-
-
-
-
-####  [](http://www.gamerzplanet.net/forums/gamerzplanet-discussion/100304-gamerzplanet-privacy-policy.html#top) Posting Permissions 
-
-  * You **may not** post new threads
-  * You **may not** post replies
-  * You **may not** post attachments
-  * You **may not** edit your posts
-
-
-
-[Forum Rules](http://www.gamerzplanet.net/forums/misc.php?do=showrules)
