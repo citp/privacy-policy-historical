@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the youbrandinc.com privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209174015id_/http%3A//www.youbrandinc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youbrandinc.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508205132id_/http%3A//www.youbrandinc.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | You Brand Inc
+# Privacy Policy | You Brand, Inc.
 
 You Brand, Inc. (“You Brand, Inc.”) strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience.
 
