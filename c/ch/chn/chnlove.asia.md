@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the chnlove.asia privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211201713id_/http%3A//www.chnlove.asia/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chnlove.asia privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508022536id_/http%3A//www.chnlove.asia/help/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy protects yourself when dating beautiful Chinese Women on Chnlove.com
 
-|  |  |    
----  
   | The [Qpid Network Privacy Policy](http://www.qpidnetwork.com/my/privacy.php) describes how we treat personal information when you use Qpid Network subsidiary sites' services ("Services"), including information provided when you use Chnlove. In addition, the following describes our additional privacy practices that are specific to Chnlove. 
 
   
@@ -52,6 +50,4 @@ Further information about Chnlove is available [here](https://web.archive.org/h
 For more information about our privacy practices, go to [the full privacy policy](http://www.qpidnetwork.com/my/privacy.php). If you have additional questions, please [contact us](https://web.archive.org/help/contact_us.php).
 
 
-|    
-|  |   
- 
+|  
