@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the abcsignup.com privacy policy that was archived on 2011-10-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111005213157id_/http%3A//abcsignup.com/Privacy-Policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the abcsignup.com privacy policy that was archived on 2012-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120508065608id_/http%3A//abcsignup.com/Privacy-Policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Privacy Policy With Registration Software | ABC Signup</title>
@@ -26,6 +26,22 @@
 
 
 	<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+	<script type="text/javascript">
+	$(document).ready(function() {
+		var happenings = escape($("#testimonial-content").html());
+		//alert(happenings);
+		$.ajax({
+		  url: "cleanUpHTML.php",
+		  type: "POST",
+		  data: {h : happenings},
+		  dataType: "html",
+		  success: function(html){
+		 	$("#testimonial-content").html(html);
+		  }
+		});
+	});
+	</script>
 
 </head>
 
@@ -67,7 +83,7 @@
 		<div class="row-2-center">
 			<div class="logo-area">
 				<div class="logo-area-left"><a href="/"><img src="/images/logo-left.jpg"></a></div><!-- end of logo-area-left div -->
-				<div class="logo-area-middle"><div class="g1"><g:plusone></g:plusone></div></div><!-- end of logo-area-middle div -->
+				<div class="logo-area-middle"></div><!-- end of logo-area-middle div -->
 				<div class="logo-area-right">
 					<ul>
 						<li><a href="/Request-Demo.html" class="logo-area-right-1">Click Here to Request A Live Demo or More Information</a></li>
@@ -101,9 +117,6 @@
 <li>
 <a href="/Making-News.html">Making News</a>
 </li>
-<li>
-<a href="/Resources.html">Resources</a>
-</li>
 <li class="dropdown-bottom"></li>
 </ul>
 </li>
@@ -115,10 +128,10 @@
 <a href="/Features-Overview.html">Overview</a>
 </li>
 <li>
-<a href="/Quick-Setup.html">Quick Setup</a>
+<a href="/Next-Steps.html">Next Steps</a>
 </li>
 <li>
-<a href="/Easy-To-Use.html">Easy To Use</a>
+<a href="/Credit-Card-Processing.html">Credit Card Processing</a>
 </li>
 <li>
 <a href="/5-Minute-Tour.html">5 Minute Tour</a>
@@ -127,10 +140,10 @@
 <a href="/Simply-Priced.html">Simply Priced</a>
 </li>
 <li>
-<a href="/Credit-Card-Processing.html">Credit Card Processing</a>
+<a href="/Quick-Setup.html">Quick Setup</a>
 </li>
 <li>
-<a href="/Next-Steps.html">Next Steps</a>
+<a href="/Easy-To-Use.html">Easy To Use</a>
 </li>
 <li class="dropdown-bottom"></li>
 </ul>
@@ -142,8 +155,33 @@
 <li>
 <a href="/Customers-Overview.html">Overview</a>
 </li>
+<li class="">
+<a href="/Niches.html" class="sf-with-ul">Niches<span class="sf-sub-indicator"> »</span></a>
+<ul class="dropdown dropdown-2" style="display: none; visibility: hidden;">
+<li class="dropdown-top"></li>
 <li>
-<a href="/Testimonials.html">Testimonials</a>
+<a href="/Universities.html">Universities</a>
+</li>
+<li>
+<a href="/cookingschools.html">Cooking Schools</a>
+</li>
+<li>
+<a href="/Corporate-Training.html">Corporate Training</a>
+</li>
+<li>
+<a href="/Faith-Based.html">Faith-Based</a>
+</li>
+<li>
+<a href="/Hospitals-Healthcare.html">Hospitals-Healthcare</a>
+</li>
+<li>
+<a href="/Dental-Schools.html">Dental Schools</a>
+</li>
+<li>
+<a href="/Educational-Cooperatives.html">Educational Cooperatives</a>
+</li>
+<li class="dropdown-bottom"></li>
+</ul>
 </li>
 <li class="">
 <a href="/Case-Studies.html" class="sf-with-ul">Case Studies<span class="sf-sub-indicator"> »</span></a>
@@ -173,30 +211,8 @@
 <li class="dropdown-bottom"></li>
 </ul>
 </li>
-<li class="">
-<a href="/Niches.html" class="sf-with-ul">Niches<span class="sf-sub-indicator"> »</span></a>
-<ul class="dropdown dropdown-2" style="display: none; visibility: hidden;">
-<li class="dropdown-top"></li>
 <li>
-<a href="/Universities.html">Universities</a>
-</li>
-<li>
-<a href="/Corporate-Training.html">Corporate Training</a>
-</li>
-<li>
-<a href="/Faith-Based.html">Faith-Based</a>
-</li>
-<li>
-<a href="/Hospitals-Healthcare.html">Hospitals-Healthcare</a>
-</li>
-<li>
-<a href="/Dental-Schools.html">Dental Schools</a>
-</li>
-<li>
-<a href="/Educational-Cooperatives.html">Educational Cooperatives</a>
-</li>
-<li class="dropdown-bottom"></li>
-</ul>
+<a href="/Testimonials.html">Testimonials</a>
 </li>
 <li class="dropdown-bottom"></li>
 </ul>
@@ -215,24 +231,25 @@
 							<li><a href="/5-Minute-Tour.html" class="second-tour-1">Take A Quick Tour</a></li>
 						</ul>
 					</div><!-- end of second-tour div -->
-					<div class="second-testimonials"><div class="Testimonial"><p class="NoSpacing"><span style="font-family: arial, helvetica, sans-serif;">"We offer a variety of professional development events that require flexibility in registration features. We have found that ABC Signup works wonderfully to meet our needs. It is very adaptable to unique events, and allows us to collect significant assessment information in the registration process, w ... <a class="read-more" href="Testimonials.html">(Read More)</a></span></p></div></div><!-- end of second-testimonials div -->
+					<div class="second-testimonials"><div class="Testimonial" id="testimonialBox"><p><span style="color: #333399;">"We offer a variety of professional development events that require flexibility in registration features. We have found that ABC Signup works wonderfully to meet our needs. It is very adaptable to unique events, and allows us to collect significant assessment information in the registration process, which significantly decreases our workload. The fact that the customer service is so great and reliable is a plus!"&nbsp;</span><span style="color: #333399;"><span style="color: #7abc40;"><strong>Judi, Clarkson College</strong></span></span></p><div id="testimonial-content"><a class="read-more right" href="Testimonials.html">(Read More)</a></div><br><br>
+</div></div><!-- end of second-testimonials div -->
 					<div class="second-news"><div class="sec-NewsBlock">
 <div class="NewsBlock">
-<h2 class="NewsHeading" id="n219"><a class="NewsLink" href="News.html#n219">
-	ABC Signup Named a Finalist For 2011 Inc.credible Awards... </a></h2>
+<h2 class="NewsHeading"><a class="NewsLink" href="News.html#n394">
+	ABC Signup Registration Software Customers Save Time, Money and T... </a></h2>
 
 </div>
 
 <div class="NewsBlock">
-<h2 class="NewsHeading" id="n201"><a class="NewsLink" href="News.html#n201">
-	ABC Signup Customers Expect Uptrend in Programs and Events to Con... </a></h2>
+<h2 class="NewsHeading"><a class="NewsLink" href="News.html#n324">
+	ABC Signup Closes 2011 With Record Customer Retention Rate of Ove... </a></h2>
 
 </div>
 </div></div><!-- end of second-news div -->
 					<div class="second-newsletter">
 						<ul>
 							<li><a href="/Newsletter.html" class="second-newsletter-1">View Our Newsletter</a></li>
-							<li><a href="/Blog" class="second-newsletter-2">Read Our Blog</a></li>
+							<li><a href="http://info.abcsignup.com/blog" target="_blank" class="second-newsletter-2">Read Our Blog</a></li>
 						</ul>
 					</div><!-- end of second-newsletter div -->
 					<div class="second-news-signup"><form name="oemProSubscription" class="newsletter" method="post" action="http://em.mediamarketers.com/em/subscribe.php">
@@ -250,14 +267,11 @@
  frmvalidator.addValidation("FormValue_Email","minlen=4", "Please Enter an Email Address");
  frmvalidator.addValidation("FormValue_Email","req", "Please Enter an Email Address");
  frmvalidator.addValidation("FormValue_Email","email");
-</script></div><div class="second-clients"><a href="/customers.html" target=""><img src="/custimages/med_329201123402PM.gif"></a></div><!-- end of second-clients div -->
+</script></div><div class="second-clients"><a href="/customers.html" target=""><img src="/custimages/med_1220201035926PM.jpg"></a></div><!-- end of second-clients div -->
 				</div><!-- end of second-content-left div -->
-				
-				
-				
 				<div class="second-content-right">
 					<div class="second-content-right-padding">
-						<div class="breadcrumbs"><a href="/">Home</a> » <a href="Contact-Us.html">Contact Us</a> » <a href="Privacy-Policy.html" class="breadcrumbs">Privacy Policy</a></div>
+						<div class="breadcrumbs"><a href="/" class="breadcrumbs-home">Home</a> » <a href="Contact-Us.html">Contact Us</a> » <a href="Privacy-Policy.html" class="breadcrumbs">Privacy Policy</a></div>
 						<h1 class="pagetitle">Privacy Policy</h1>
 						<div><p class="NoSpacing"><span style="font-family: arial,helvetica,sans-serif;">This privacy statement applies to the website of:<br><br>JTC Technologies, LLC <br>6060 Dutchmans Lane, Suite 250 <br>Louisville KY 40205 <br>US <br>502-454-2850 <br><a href="mailto:jtctech@jtctech.com">jtctech@jtctech.com</a></span></p>
 <p class="NoSpacing"><span style="font-family: arial,helvetica,sans-serif;">We respect your privacy. This is why we have taken the time to disclose our information collection practices and our privacy policy. Please take the time to review this document.</span></p>
@@ -304,13 +318,13 @@
 		<div class="row-4-1"></div><!-- end of row-4-1 div -->
 		<div class="row-4-2">
 			<div class="row-4-padding">
-					<a href="/About-Us.html">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/Features.html">Features</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/Customers.html">Customers</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/Contact-Us.html">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/Partners.html">Partners</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/Privacy-Policy.html">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/Site-Map.html">Sitemap</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/FAQs.html">FAQ</a>
+					<a href="/About-Us.html">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/Features.html">Features</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/Customers.html">Customers</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/Contact-Us.html">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/Partners.html">Partners</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/Safe-Harbor.html">Safe Harbor</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/Privacy-Policy.html">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/Site-Map.html">Sitemap</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/FAQs.html">FAQ</a>
 					<br>
 					ABC Signup&nbsp;&nbsp;|&nbsp;&nbsp;6060 Dutchmans Lane&nbsp;&nbsp;|&nbsp;&nbsp;Suite 250&nbsp;&nbsp;|&nbsp;&nbsp; Louisville, KY 40205&nbsp;&nbsp;|&nbsp;&nbsp;866-791-8268 ext.0
 			</div><!-- end of row-4-2 div -->
 		</div><!-- end of row-4-padding div -->
 	
-		<div class="mm-foot-links"><a title="Web Design Louisville" class="mm" target="_blank" href="http://www.mediamarketers.com">Web Design</a> 
+		<div class="mm-foot-links"><a title="Web Design Louisville" class="mm" target="_blank" href="http://www.mediamarketers.com/Web%20Design.asp">Web Design</a> 
 <a class="mm" href="#" style="text-decoration: none;padding: 0 8px;">
 |</a> 
 <a title="Web Hosting Louisville" class="mm" target="_blank" href="http://www.mediamarketers.com/2006/WebHosting.asp">Web Hosting</a> 
@@ -324,6 +338,9 @@
 </div><!-- end of row-4 div -->
 
 <div class="clear"></div><div class="print-footer">© ABC Signup</div>
+<!-- Start of HubSpot Tracking Code -->
+<script type="text/javascript" language="javascript"> var hs_portalid=139345; var hs_salog_version = "2.00"; var hs_ppa = "abcsignup.app11.hubspot.com"; document.write(unescape("%3Cscript src='" + document.location.protocol + "//" + hs_ppa + "/salog.js.aspx' type='text/javascript'%3E%3C/script%3E")); </script><script src="https://abcsignup.app11.hubspot.com/salog.js.aspx" type="text/javascript"></script>
+<!-- End of HubSpot Tracking Code -->
 
 
 
