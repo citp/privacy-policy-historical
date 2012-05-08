@@ -1,14 +1,18 @@
-> *The following text is extracted and transformed from the teachingchannel.org privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230202347id_/http%3A//www.teachingchannel.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachingchannel.org privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508041737id_/https%3A//www.teachingchannel.org/privacy) for the most accurate reproduction.*
 
-# Teaching Channel: Videos, Lesson Plans and Other Resources for Teachers
+# Teaching Channel Respects the Privacy of Teachers, Administrators and All Visitors
 
-**Last Updated June 6, 2011**
+**Last Updated March 30, 2012**
 
 ## Teaching Channel values the privacy of our users and visitors.
 
-At Teaching Channel, we understand that you value your privacy, and we want to help make your experience with our site and services, including our content offerings through third-party sites such as Facebook, YouTube, and our newsletters and blogs (referred to in this policy collectively as our " **Service** " or " **Services** ") is satisfying and safe. This policy describes the information we collect, including personal information, in connection with our Services, and explains how we use and disclose this information. By accessing and/or using the Site, you agree to be bound by the provisions of this Privacy Policy.
+At Teaching Channel, we understand that you value your privacy, and we want to help make your experience with our site and services, including our content offerings through third-party sites such as Facebook, YouTube, and our newsletters and blogs (referred to in this policy collectively as our " **Service** " or " **Services** ") is satisfying and safe. This policy describes the information we collect on www.teachingchannel.org, including personal information, in connection with our Services, and explains how we use and disclose this information. By accessing and/or using the Site, you agree to be bound by the provisions of this Privacy Policy.
 
 Please note that this Privacy Policy is incorporated into, and made a part of, the Teaching Channel [Terms and Conditions](https://web.archive.org/terms) (the " **Terms** "). Capitalized terms used and not defined in this policy have the meaning given to them in the Terms.
+
+Teaching Channel has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@teachingchannel.org. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+
+The TRUSTe program covers only information that is collected through this Web site www.teachingchannel.org and does not cover information that may be collected through or posted on third party Web Sites.
 
 ### What We Collect
 
@@ -46,19 +50,37 @@ We use all the information you provide, or that we collect or receive, in a vari
 > 
 > Teaching Channel may use your email address or other personally identifiable information to communicate with you in a variety of ways, such as by sending you (i) messages about our Services, such as when you receive communications from another user, (ii) promotional messages about our Services or third-party products you may be interested in, and (iii) communications on behalf of other users who think you may be interested in our Services or certain content available on the Site. Generally, you have the ability to opt-out of receiving any such communications, either through links provided in the messages, or by contacting us at [privacy@teachingchannel.org](mailto:privacy@teachingchannel.org)
 
+### Updating/Accessing/Amending/Correcting Personally Identifiable Information
+
+If your personally identifiable information changes, you should [correct, update, amend, or deactivate it] by making the change on our member information page [or by emailing our Customer Support at privacy@teachingchannel.org] or by contacting us by telephone or postal mail at the contact information listed below.
+
+### Surveys or Contests
+
+From time-to-time we may provide you the opportunity to participate in contests, sweepstakes or surveys on the site which require you to disclose certain personally identifiable information in order to participate. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code).
+
 ### How We Disclose Information
 
-We are not in the business of selling your information. We do, however, disclose your personally identifiable information in a variety of circumstances in connection with developing and providing our Services and operating our business. For example:
+We are not in the business of selling your information to third parties. We do, however, disclose your personally identifiable information in a variety of circumstances in connection with developing and providing our Services and operating our business. For example:
 
 > Our Site enables users to communicate in a variety of ways. Any personally identifiable information that you voluntarily choose to include in a publicly accessible area on any of our Sites, such as in a blog discussion, user review or other User Submission, will be publically available to others. This also applies to information you choose to make available through our features that connect to third party services, such as Twitter and Facebook. Teaching Channel may also syndicate content posted in public areas to other third party services. Once you make your personally identifiable information publically available and accessible, that information may be collected and used by others without restriction. Similarly, information you make available to another user or users through private or semi-private communication channel may be collected and used by the recipients without restriction.
 > 
 > Teaching Channel discloses automatically collected and other aggregate non-personally-identifiable information with interested third parties to assist such parties in understanding the usage, viewing, and demographic patterns for certain programs, content, services, advertisements, promotions, and/or functionality on our Site.
 > 
-> Teaching Channel works with third party service providers to provide website hosting and maintenance as well as other services for us. To the extent it is necessary for these service providers to complete their contractual obligations to Teaching Channel, these third parties may have access to or process your personally identifiable information. Generally, these disclosures are made under terms comparable to this policy, and the recipients are limited to using the information for the purpose for which it was provided. For example, Teaching Channel may provide your payment information (and supporting personal information) to a third party payment processor in connection with processing your payments for subscription fees.
+> Teaching Channel works with third party service providers to provide website hosting and maintenance as well as other services, such as sweepstakes administration. To the extent it is necessary for these service providers to complete their contractual obligations to Teaching Channel, these third parties may have access to or process your personally identifiable information. Generally, these disclosures are made under terms comparable to this policy, and the recipients are limited to using the information for the purpose for which it was provided. For example, Teaching Channel may provide your payment information (and supporting personal information) to a third party payment processor in connection with processing your payments for subscription fees.
 > 
 > Teaching Channel may also disclose your information if required to do so by law, where we believe that such action is necessary to comply with state or federal laws (such as U.S. Copyright law), in response to a court order, judicial or other government subpoena or warrant, or to otherwise cooperate with law enforcement activity.
 > 
 > Teaching Channel also reserves the right to disclose your information that we believe, in our sole discretion, is appropriate or useful to protect you, other users, third parties, or ourselves from harm or liability; to protect Teaching Channel and others from fraudulent, abusive, or unlawful uses or activity; to investigate and defend ourselves against any third party claims or allegations; to assist government and law enforcement agencies; to protect the security or integrity of our Services; or to protect the rights, property, or personal safety of Teaching Channel, our users, or others.
+
+### Tell-A-Friend
+
+If you choose to use our referral service to tell a friend about our site, share a video or other aspect of the site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Teaching Channel stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
+
+Your friend may contact us at privacy@teachingchannel.org to request that we remove this information from our database.
+
+### Import Contacts
+
+You can import contacts from your Outlook or other email account address book to invite them to become members of our site. We collect the username and password for the email account you wish to import your contacts from and will only use it for that purpose.
 
 ### Links
 
@@ -66,7 +88,7 @@ We are not in the business of selling your information. We do, however, disclose
 
 ### Our Commitment to Children's Privacy
 
-Protecting the privacy of young children is especially important. For that reason, Teaching Channel does not knowingly collect or maintain personally identifiable information from persons under 13 years-of-age without verifiable parental consent, and children under 13 years-of-age are prohibited from using the site. **IF YOU ARE NOT 13 YEARS-OF-AGE OR OLDER YOU ARE NOT ALLOWED TO USE THE SITE OR SUBMIT PERSONAL INFORMATION TO TEACHING CHANNEL.** If Teaching Channel learns that personally identifiable information of persons less than 13-years-of-age has been collected through our Service without verifiable parental consent, then Teaching Channel will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under the age of 13 has posted, submitted or otherwise communicated personal information to our Service without your consent, then you may alert Teaching Channel at [privacy@teachingchannel.org](mailto:privacy@teachingchannel.org) so that we may take appropriate action to remove the child's personally identifiable information from our systems.
+Protecting the privacy of young children is especially important. For that reason, Teaching Channel does not knowingly collect or maintain personally identifiable information from persons under 13 years-of-age. **IF YOU ARE NOT 13 YEARS-OF-AGE OR OLDER YOU ARE NOT ALLOWED TO USE THE SITE OR SUBMIT PERSONAL INFORMATION TO TEACHING CHANNEL.** If Teaching Channel learns that personally identifiable information of persons less than 13-years-of-age has been collected through our Service, then Teaching Channel will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under the age of 13 has posted, submitted or otherwise communicated personal information to our Service without your consent, then you may alert Teaching Channel at [privacy@teachingchannel.org](mailto:privacy@teachingchannel.org) so that we may take appropriate action to remove the child's personally identifiable information from our systems.
 
 ### Our Commitment to Data Security
 
@@ -77,6 +99,10 @@ If Teaching Channel learns of a security systems breach, then we may attempt to 
 ### International Visitors
 
 Our Sites are intended solely for visitors located within the United States. If you nonetheless choose to use our Site from the European Union or other regions of the world with laws governing data collection and use that may differ from U.S. law, then please note that you are transferring your personally identifiable information outside of those regions to the United States for storage and processing and by providing your personally identifiable information on the Site you consent to that transfer, storage, and processing. Further, we may transfer this data from the United States to other jurisdictions in connection with storing and processing data, fulfilling your requests, and operating our Sites.
+
+### Data Retention
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, contact us at privacy@teachingchannel.org. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ### In the Event of Merger or Sale
 
