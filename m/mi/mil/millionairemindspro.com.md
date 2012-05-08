@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the millionairemindspro.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210163052id_/http%3A//millionairemindspro.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millionairemindspro.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508090557id_/http%3A//www.millionairemindspro.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Millionaire Minds Pro
 
