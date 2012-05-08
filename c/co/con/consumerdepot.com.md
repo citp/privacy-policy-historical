@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumerdepot.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102150617id_/http%3A//consumerdepot.com/pg_privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerdepot.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508120143id_/http%3A//www.consumerdepot.com/pg_privacy_policy.asp) for the most accurate reproduction.*
 
 # Consumer Depot Electronics & Computer Liquidator
 
@@ -37,12 +37,12 @@ Nashville, TN 37204
 
 By using our Web site, you consent to the collection and use of this information by Consumer Depot described in this Policy. If we change our privacy policy we will post any change on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-© Copyright 1997 - 2011 Consumer Depot, LLC. All rights reserved.
+© Copyright 1997 - 2012 Consumer Depot, LLC. All rights reserved.
 
-[](https://web.archive.org/web/20111102150617id_/http%3A//consumerdepot.com/pg_categories.asp?id=MPP&manfid=AP)
+[](https://web.archive.org/web/20120508120143id_/http%3A//www.consumerdepot.com/pg_category.asp?id=CN)
 
 ## FEATURED PRODUCTS
 
-[](https://web.archive.org/web/20111102150617id_/http%3A//consumerdepot.com/pg_protection_plan.asp)
+[](https://web.archive.org/web/20120508120143id_/http%3A//www.consumerdepot.com/pg_protection_plan.asp)
 
 ## CERTIFICATIONS
