@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ceiva.com privacy policy that was archived on 2011-11-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111106022923id_/http%3A//www.ceiva.com/home/hp/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ceiva.com privacy policy that was archived on 2012-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120508032840id_/http%3A//www.ceiva.com/home/hp/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 	<meta http-equiv="content-type" content="text/html;charset=utf-8">
@@ -79,7 +79,7 @@ newwindow=window.open(url,'name','height=450,width=550,resizable');
 if (window.focus) {newwindow.focus()}
 }
 </script> 
-<script type="text/javascript" src="/js/ceiva_dropdown.js"></script>
+<script type="text/javascript" src="/js/ceiva_dropdown.js?20120221"></script>
 <!--[if lte IE 7]>
 <style>
 #menuwrapper, #p7menubar ul a {height: 1%;}
@@ -93,11 +93,35 @@ a:active {width: auto;}
 <![endif]-->
 
 <script type="text/javascript">
+function _uGC(l,n,s) {
+	if (!l || l=='' || !n || n=='' || !s || s=='') return '';
+	var i,i2,i3,c='';
+	i=l.indexOf(n);
+	i3=n.indexOf('=')+1;
+	if (i > -1) {
+		i2=l.indexOf(s,i); if (i2 < 0) { i2=l.length; }
+		c=l.substring((i+i3),i2);
+	}
+	return c;
+}
+
+function checkIfNewGASession() {
+	if (_uGC(document.cookie, '__utmb=',';') == '')	return true;
+	else return false;
+}
+
+
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-2089685-3']);
   _gaq.push(['_setDomainName','.ceiva.com']);
   
+  
+  if (checkIfNewGASession()) {
+	_gaq.push(['_setCustomVar',5,'et','2020',2]);
+  }
+  
   _gaq.push(['_trackPageview']);
+  
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -106,6 +130,7 @@ a:active {width: auto;}
   })();
 </script>
 </head>
+
 
 <body onload="P7_ExpMenu()">
 
@@ -116,6 +141,7 @@ a:active {width: auto;}
          <!-- Begin Header -->
          <div id="header">
          		 
+
 
 
 
@@ -172,13 +198,14 @@ a:active {width: auto;}
 		
 	   
       </span>
-<a href="/cstore/sc/cstore_cart.jsp"><img src="/images/nav/smallcart.gif" width="35" height="28" alt="Shopping Cart" border="0" style="position: relative;top: 9px;"></a><a href="/cstore/sc/cstore_cart.jsp">VIEW CART</a>&nbsp;&nbsp;&nbsp;<br>
+      
 
 
 
 
-<a href="/home/nf/contest_halloween.jsp"><img src="/common/images/halloween11.gif" border="0" class="headerbanner"></a>
- 
+
+<a href="/cstore/ct/cstore_catalog.jsp"><img src="/common/images/headban_mothersday12.png" border="0" class="headerbanner" style="right:10px"></a>
+  
 
 </span><!-- End inner --><br>
 
@@ -217,7 +244,7 @@ a:active {width: auto;}
 <li><a class="triggerS" href="/cstore/ct/cstore_catalog.jsp"><span class="container1">I</span></a>
 <ul>
                     <li><a href="/cstore/ct/cstore_catalog.jsp">CEIVA Frames</a></li>
-                    <!--<li><a href="/cstore/sp/specials.jsp">Specials</a></li>-->
+                    <li><a href="/cstore/sp/specials.jsp">Specials</a></li>
                     <li><a href="/cstore/ct/cstore_accessories.jsp">Accessories</a></li>
                     <li><a href="/cstore/depot/depot.jsp">Outlet</a></li>
 </ul>
@@ -243,7 +270,7 @@ a:active {width: auto;}
                     
                      
 
-					<li><a href="/member/my_map.jsp">My Map <img src="/images/newoval.png" class="newoval" border="0"></a></li>
+					<li><a href="/member/my_map.jsp">My Map</a></li>
                     
 					<li><a href="/member/my_options.jsp">My Account</a></li>
                     
@@ -326,13 +353,13 @@ a:active {width: auto;}
 
 
 
-<!-- $Id: footer2008.jsp,v 1.18 2011/04/29 17:50:16 design Exp $ -->
+<!-- $Id: footer2008.jsp,v 1.20 2012/03/16 17:59:19 design Exp $ -->
 <div id="smbar">
 <span style="float: left; padding: 8px;"><a href="/community/newsletters.jsp"><img src="/common/images/sm_email.gif" width="20" height="20" hspace="10" border="0" align="middle" alt="Sign-Up for Email Offers"></a><a href="/community/newsletters.jsp" style="position:relative; top: 4px;">Sign-Up for Email Offers</a></span>
 <span class="mediaIcons" style="padding-bottom: 0px; white-space:nowrap;">
 <span style="width:150px; position: relative; top:-8px;">
 <strong style="position:relative; top: 3px;">Read our blog:</strong> <a href="http://blog.ceiva.com" target="_blank"><img src="/common/images/sm_blog.gif" width="20" height="20" hspace="5" border="0" align="middle" alt="Read the CEIVA Blog"></a>&nbsp;&nbsp;
-<strong style="position:relative; top: 3px;">Follow us on:</strong><a href="http://www.facebook.com/pages/CEIVA/34632178889" target="_blank"><img src="/common/images/sm_facebook.gif" width="20" height="20" hspace="5" border="0" align="middle" alt="Become a fan on Facebook"></a><a href="http://twitter.com/ceiva" target="_blank"><img src="/common/images/sm_twitter.gif" width="20" height="20" hspace="5" border="0" align="middle" alt="Follow us on Twitter"></a></span>
+<strong style="position:relative; top: 3px;">Follow us on:</strong><a href="http://www.facebook.com/pages/CEIVA/34632178889" target="_blank"><img src="/common/images/sm_facebook.gif" width="20" height="20" hspace="5" border="0" align="middle" alt="Become a fan on Facebook"></a><a href="http://twitter.com/ceiva" target="_blank"><img src="/common/images/sm_twitter.gif" width="20" height="20" hspace="5" border="0" align="middle" alt="Follow us on Twitter"></a><a href="http://pinterest.com/ceivajoe/"><img src="http://passets-cdn.pinterest.com/images/small-p-button.png" width="16" height="16" alt="Follow Me on Pinterest" border="0" hspace="5" align="middle"></a></span>
 
   
   
@@ -357,7 +384,7 @@ a:active {width: auto;}
 <a class="one" href="/home/hp/terms_conditions.jsp">Terms &amp; Conditions</a> <span class="sep">I</span>  
 <a class="one" href="/home/nf/affiliateprogram.jsp">Join Our Affiliate Program</a>
 </p>	       
-			   <a class="one" href="/public-servlet/MemberHelp">©</a> 2011 CEIVA Logic Inc. All Rights Reserved.<br>Protected by the United States Patent Nos. 6,442,573, D545,782. Other Patents Pending.
+			   <a class="one" href="/public-servlet/MemberHelp">©</a> 2012 CEIVA Logic Inc. All Rights Reserved.<br>Protected by the United States Patent Nos. 6,442,573, D545,782. Other Patents Pending.
                
 
                <div id="mcfee">	
@@ -377,65 +404,6 @@ a:active {width: auto;}
    </div>
    <!-- End Wrapper -->
    
-<script language="javascript">
-
-
-    
-
-
-
-
-    
-
-</script>
-
-<!-- SiteCatalyst code version: H.14.
-Copyright 1997-2008 Omniture, Inc. More info available at
-http://www.omniture.com -->
-<script language="JavaScript" src="/js/s_code.js"></script>
-<script type="text/javascript" src="/js/omni.js?20080312237"></script>
-<script language="JavaScript"><!--
-/* You may give each page an identifying name, server, and channel on
-the next lines. */
-s.pageName=""
-s.channel=""
-s.prop1=""
-s.prop2=""
-s.prop3=""
-s.server="app-duskwood"
-
-if (window.omEvent) {
-s.events=omEvent
-}
-if (window.omProd) {
-s.products=omProd
-}
-if (window.omId) {
-s.purchaseID=omId
-}
-if (window.omZip) {
-s.zip=omZip
-}
-if (window.omState) {
-s.state=omState
-}
-if (window.omPay) {
-s.eVar5=omPay
-}
-if (window.omPromo) {
-s.eVar10=omPromo
-}
-if (window.omLogin) {
-s.eVar6=omLogin
-}
-if (window.omInternal) {
-s.eVar8=omInternal
-}
-
-
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<!-- End SiteCatalyst code version: H.14. -->
 
    
 
