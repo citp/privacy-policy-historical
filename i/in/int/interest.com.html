@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the interest.com privacy policy that was archived on 2011-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111225200451id_/http%3A//www.interest.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the interest.com privacy policy that was archived on 2012-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120508021700id_/http%3A//www.interest.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -348,10 +348,10 @@ var UACpositions = 'Top,Right,Right1,Bottom,TopRight,Right2,Frame2';
       </ul>
     </div>
     <div class="icom-page-footer-section-left">
-      <a href="http://www.interest.com/about-us/">About Us</a> | <a href="http://www.interest.com/sitemap/">Sitemap</a> | <a href="http://www.interest.com/privacy-policy/">Privacy Policy</a>
+      <a href="http://www.interest.com/about-us/">About Us</a> | <a href="http://www.interest.com/sitemap/">Sitemap</a> | <a href="http://www.interest.com/privacy-policy/">Privacy Policy/Your California Privacy Rights</a>
       | <a href="http://www.interest.com/terms-of-use/">Terms of use</a><br>
 
-      © 2011 Interest.com All Rights Reserved.
+      © 2012 Interest.com All Rights Reserved.
     </div>
     <div class="icom-page-footer-section-right">
       <img src="http://www.interest.com/content/themes/interest/images/footer/icom-logo-footer.png" width="200" height="35">
@@ -396,14 +396,25 @@ s.eVar16=''+UACarea
 s.prop17=''+UACkeyword
 s.eVar17=''+UACkeyword
 s.prop23='interest.com'//Hostname c23
-s.eVal23='interest.com'//Hostname c23
+s.eVar23='interest.com'//Hostname c23
 s.prop25='page'
-s.eVal25='page'
+s.eVar25='page'
+s.prop44=''
+s.eVar44=''
 s.products='PVR;ch_' + s.prop2 + ';1;'
 
 /* Conversion Variables */
 s.campaign=''
 s.events='purchase'
+
+if (s.campaign){
+    s.events += ',event1';
+}
+
+if (s.eVar44){
+    s.events += ',event10';
+}
+
 s.purchaseID=Math.round((Math.random() * Math.random()) * 10000000).toString() + new Date().getTime();
 
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
