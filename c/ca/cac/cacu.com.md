@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the cacu.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130132332id_/http%3A//www.cacu.com/ancillary/privacy-and-security.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cacu.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508075051id_/http%3A//www.cacu.com/ancillary/privacy-and-security.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
 PRIVACY POLICY
-                                                                                                                                            Rev. 03/11
+                                                                                                                                            Rev. 03/12
                    WHAT DOES COMMUNITYAMERICA CREDIT UNION
 FACTS              DO WITH YOUR PERSONAL INFORMATION?
                    Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some
@@ -71,7 +71,7 @@ Affiliates                                         Companies related by common o
                                                    nonfinancial companies.
                                                    • Our affiliates include companies with a CommunityAmerica name; financial
                                                       companies such as CommunityAmerica CUSO One, LLC; TruHome Solutions,
-                                                      LLC; Financial Planning Services.
+                                                      LLC; TruHome Title, LLC.
 Nonaffiliates                                      Companies not related by common ownership or control. They can be financial
                                                    and nonfinancial companies.
                                                    • Nonaffiliates we share with can include insurance companies.
@@ -81,4 +81,4 @@ Joint Marketing                                    A formal agreement between no
                                                    • Our joint marketing partners include financial services companies (such as
                                                       insurance agencies and organizations with whom we have agreements to
                                                       jointly market financial products)
-                                                                                                                      CU-111 (Rev. 03/11)
+                                                                                                                      CU-111 (Rev. 03/12)
