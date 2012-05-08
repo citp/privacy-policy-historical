@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3wj.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102003938id_/http%3A//www.3wj.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3wj.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508024352id_/http%3A//www.3wj.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
