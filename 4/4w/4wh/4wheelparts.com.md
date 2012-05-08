@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4wheelparts.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125061552id_/http%3A//www.4wheelparts.com/info/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4wheelparts.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508092036id_/http%3A//www.4wheelparts.com/info/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy and Site Security Policies
 
@@ -84,16 +84,7 @@ Every order is processed using the Network Solutions encryption technology to se
 
 4WheelParts.com utilizes an intensely elaborate data encryption system using 128-bit Secure Socket Layer (SSL) technology. All browsers that shop at 4WheelParts.com are required to enable 128-bit encryption to ensure a safe shopping experience.
 
-[ ](https://www.scanalert.com/RatingVerify?ref=4wheelparts.com)
-
 As a constant reminder that your shopping experience on either 4WheelParts.com or any other e-commerce website is safe, look for the Network Solutions logo indicating a valid SSL certification. Click on the Network Solutions icon to confirm complete data encryption and verification of the seller’s identity.
-
-  * **ScanAlert's Hacker Safe™ Certification Service**  
-ScanAlert security technology is used to protect us from hackers and shows you proof of our ability to protect you. 
-
-4WheelParts.com is Hacker Safe certified by ScanAlert, the world’s largest e-commerce security auditing company. Our servers are required to pass a daily scan that checks for vulnerabilities to hacker threats.
-
-Look for the ScanAlert "Hacker Safe" icon, which denotes that the entire site is protected from hacking threats.
 
   * **Advanced Firewall Technology**  
 We prevent unauthorized access to account information through a sophisticated combination of hardware, software and personnel. Our rigid firewall keeps potential intruders out of our secure network of computers.
