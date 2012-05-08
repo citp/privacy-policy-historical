@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the whitegfs.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207070655id_/http%3A//join.whitegfs.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitegfs.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508061438id_/http%3A//join.whitegfs.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
 **White GFs**
 
 **PRIVACY POLICY STATEMENT**  
-  
   
 
 
