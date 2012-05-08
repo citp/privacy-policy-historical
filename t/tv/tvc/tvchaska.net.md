@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tvchaska.net privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130190507id_/http%3A//tvchaska.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvchaska.net privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508115306id_/http%3A//tvchaska.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Tvchaska Live Cricket|Cricket Highlights|Updates...
 
 **Privacy Policy for www.TvChaska.Net**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at love@TvChaska.Net.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at love[@TvChaska.Net](mailto:love@TvChaska.Net).
 
 At www.TvChaska.Net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.TvChaska.Net and how it is used.
 
