@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americascup.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102143541id_/http%3A//www.americascup.com/en/G/F/Privacy-Policy1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americascup.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508190139id_/http%3A//www.americascup.com/en/G/F/Privacy-Policy1) for the most accurate reproduction.*
 
 # America's Cup | ACEA Privacy Policy
 
