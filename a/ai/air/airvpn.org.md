@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the airvpn.org privacy policy that was archived on 2011-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111004203521id_/http%3A//www.airvpn.org/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D57%26Itemid%3D104) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airvpn.org privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508164332id_/https%3A//airvpn.org/privacy) for the most accurate reproduction.*
 
-# Privacy Notice
-
-AirVPN Privacy Notice and Terms
+# Air VPN - The air to breathe the real Internet
 
 Iridium S.r.l. ("Iridium") recognizes the importance of protecting the privacy of all information provided by any user of AirVPN (collectively or individually "User(s)").
 
@@ -30,4 +28,11 @@ Users have the right to ask for information about their data and to ask for dele
 
 Data are treated with automatic systems for the time being necessary to erogate the service. Security measures are taken to protect data leakage, illegal use of data, unauthorized access to data.
 
-Responsible of data treatment is: IRIDIUM S.r.l. c.a. Paolo Brini Via Angeloni 115 I-06124 PERUGIA ITALY 
+Responsible of data treatment is: 
+    
+    
+    IRIDIUM S.r.l.
+    c.a. Paolo Brini
+    Via Angeloni 115
+    I-06124 PERUGIA ITALY
+    
