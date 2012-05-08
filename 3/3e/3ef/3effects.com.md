@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3effects.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120023836id_/http%3A//www.3effects.com/cms.php%3Fcmsid%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3effects.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508025742id_/http%3A//www.3effects.com/cms.php%3Fcmsid%3D12) for the most accurate reproduction.*
 
 # فوتو فونيا | Funny Photos | Cool Photo Effects | Photo Frames
 
