@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spectrum-research.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011044841id_/http%3A//www.spectrum-research.com/V2/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spectrum-research.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508074618id_/http%3A//www.spectrum-research.com/V2/privacy-policy.asp) for the most accurate reproduction.*
 
 # Spectrum Research, Inc. - Privacy Policy
 
