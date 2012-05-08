@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the europeana.eu privacy policy that was archived on 2011-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111124015022id_/http%3A//www.europeana.eu/portal/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the europeana.eu privacy policy that was archived on 2012-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120508020020id_/http%3A//www.europeana.eu/portal/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
 <title>Europeana - Privacy policy</title>
 <link rel="shortcut icon" href="/portal/favicon.ico">
 <link rel="search" type="application/opensearchdescription+xml" href="http://api.europeana.eu/api/opensearch.xml" title="Europeana Search">
-<link rel="stylesheet" href="/portal/branding/portal2/css/min/core.min.css">
+<link rel="stylesheet" href="/portal/branding/portal2/css/min/common.min.css">
 <link rel="stylesheet" href="/portal/branding/portal2/css/min/staticpages.min.css">
 <!--[if IE]><link rel="stylesheet" href="/portal/branding/portal2/css/min/ie.min.css"/><![endif]-->
 <!--[if lte IE 7]><link rel="stylesheet" href="/portal/branding/portal2/css/min/ie7.min.css"/><![endif]-->
@@ -27,7 +27,8 @@
 <li><a href="http://exhibitions.europeana.eu" target="_self" title="Exhibitions" class="menu-sub-tab">Exhibitions</a></li>
 <li><a href="/portal/newcontent.html" target="_self" title="New content" class="menu-sub-tab">New content</a></li>
 <li><a href="/portal/europeana-providers.html" target="_self" title="By provider" class="menu-sub-tab">By provider</a></li>
-<li><a href="/portal/timeline.html?query=*:*&amp;format=simile" target="_self" title="Timeline" class="menu-sub-tab">Timeline</a></li>
+<li><a href="/portal/timeline.html" target="_self" title="Timeline" class="menu-sub-tab">Timeline</a></li>
+<li><a href="/portal/map.html" target="_self" title="Map" class="menu-sub-tab">Map</a></li>
 </ul>
 </li>
 <li>
@@ -37,17 +38,16 @@
 <li><a href="/portal/usingeuropeana_explore.html" target="_self" title="Exploring Europeana" class="menu-sub-tab">Exploring Europeana</a></li>
 <li><a href="/portal/usingeuropeana_results.html" target="_self" title="Results in Europeana" class="menu-sub-tab">Results in Europeana</a></li>
 <li><a href="/portal/usingeuropeana_myeuropeana.html" target="_self" title="Using My Europeana" class="menu-sub-tab">Using My Europeana</a></li>
+<li><a href="/portal/aboutus_faqs.html" target="_self" title="FAQs" class="menu-sub-tab">FAQs</a></li>
 </ul>
 </li>
 <li>
 <a href="/portal/aboutus.html" target="_self" title="About Us" class="dropdown menu-tab">About Us</a>
 <ul>
-<li><a href="/portal/aboutus_background.html" target="_self" title="Background" class="menu-sub-tab">Background</a></li>
-<li><a href="/portal/aboutus_press.html" target="_self" title="Press Room" class="menu-sub-tab">Press Room</a></li>
-<li><a href="/portal/aboutus_jobs.html" target="_self" title="Job opportunities" class="menu-sub-tab">Job opportunities</a></li>
-<li><a href="/portal/partners.html" target="_self" title="Partners" class="menu-sub-tab">Partners</a></li>
-<li><a href="/portal/thoughtlab.html" target="_self" title="ThoughtLab" class="menu-sub-tab">ThoughtLab</a></li>
-<li><a href="/portal/aboutus_faqs.html" target="_self" title="FAQs" class="menu-sub-tab">FAQs</a></li>
+<li><a href="http://pro.europeana.eu/about?utm_source=portalmenu&amp;utm_medium=portal&amp;utm_campaign=Portal%2Bmenu" target="_self" title="Background" class="menu-sub-tab">Background</a></li>
+<li><a href="http://pro.europeana.eu/news/press-room?utm_source=portalmenu&amp;utm_medium=portal&amp;utm_campaign=Portal%2Bmenu" target="_self" title="Press Room" class="menu-sub-tab">Press Room</a></li>
+<li><a href="http://pro.europeana.eu/about/jobs?utm_source=portalmenu&amp;utm_medium=portal&amp;utm_campaign=Portal%2Bmenu" target="_self" title="Job opportunities" class="menu-sub-tab">Job opportunities</a></li>
+<li><a href="http://pro.europeana.eu/about/partners?utm_source=portalmenu&amp;utm_medium=portal&amp;utm_campaign=Portal%2Bmenu" target="_self" title="Partners" class="menu-sub-tab">Partners</a></li>
 </ul>
 </li>
 <li>
@@ -100,7 +100,6 @@
 </ul>
 <h1 id="logo">
 <a href="/portal/" title="Europeana Think Culture">
-<span id="beta-icon"></span>
 <img src="/portal/sp/img/europeana-logo-en.png" alt="Europeana Think Culture" width="206" height="123">
 </a>
 </h1>
@@ -108,10 +107,19 @@
 <h3>Explore Europe's cultural collections</h3>
 <form id="query-search" method="get" action="/portal/search.html">
 <fieldset>
-<input type="text" name="query" id="query-input" title="Search term(s)" maxlength="175" class="ui-autocomplete-input" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
+<input type="text" name="query" id="query-input" class="ui-autocomplete-input" title="Search term(s)" maxlength="175" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
 <input type="submit" class="submit-button" value="Search">
 </fieldset>
-<a href="/portal/usingeuropeana.html" id="search-help">Help</a>
+<a href="" id="refine-search" class="nofollow disabled">Refine your search</a>
+<a href="/portal/usingeuropeana.html" id="search-help" class="">Help</a>
+</form>
+<form id="refine-search-form" method="get" action="/portal/search.html">
+<fieldset>
+<input type="text" name="rq" id="rq" value="" class="" title="Refine your search">
+<input type="hidden" name="query">
+<input type="submit" class="submit-button" value="Refine your search">
+<a href="" id="close-refine-search" rel="nofollow">Hide Refine Search</a>
+</fieldset>
 </form>
 </div>
 </div>
@@ -206,10 +214,12 @@ To make optimal use of this website you need to have JavaScript activated. <a hr
 </div>
 </noscript>
 <script>
-window.eu = { europeana : { vars : { msg : {}, item : {}, mapview : {} } } };
-window.js = { min_suffix : '.min', min_directory : 'min/', cache_helper : '', empty_console : { log : function() {}, error : function() {}, info : function() {} } };
+window.eu = { europeana : { vars : { msg : { cite:{} }, item : {}, mapview : {} } } };
+window.js = { min_suffix : '', min_directory : '', cache_helper : '', empty_console : { log : function() {}, error : function() {}, info : function() {} } };
 if ( !window.console ) { window.console = js.empty_console; }
 js.console = js.empty_console;
+js.min_suffix = '.min';
+js.min_directory = 'min/';
 eu.europeana.vars.portal_name = 'portal';
 eu.europeana.vars.page_name = 'staticpage.html';
 eu.europeana.vars.branding = '/portal/branding/portal2';
@@ -217,7 +227,10 @@ eu.europeana.vars.gaId = 'UA-12776629-1';
 eu.europeana.vars.locale = 'en';
 eu.europeana.vars.msg.search_error = 'Please try another search';
 eu.europeana.vars.addthis_pubid = 'xa-4b4f08de468caf36';
+eu.europeana.vars.query = false;
+// url variables to check for timeline / map content
+eu.europeana.vars.timeline = {};
 </script>
 <script src="/portal/branding/portal2/js/eu/europeana/bootstrap/min/bootstrap.min.js"></script><script src="/portal/branding/portal2/js/js/min/loader.min.js"></script>
 
-<script src="/portal/branding/portal2/js/jquery/jquery-1.4.4.min.js"></script><script src="/portal/branding/portal2/js/jquery/jquery-ui-1.8.2.custom.min.js"></script><script src="/portal/branding/portal2/js/js/min/utils.min.js"></script><script src="/portal/branding/portal2/js/com/google/analytics/min/analytics.min.js"></script><script src="/portal/branding/portal2/js/eu/europeana/min/ajax.min.js"></script><script src="/portal/branding/portal2/js/com/addthis/min/addthis.min.js"></script><script src="/portal/branding/portal2/js/eu/europeana/min/header.min.js"></script><script src="https://web.archive.org/web/20130119004205/https://ssl.google-analytics.com/ga.js"></script><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 1; top: 0px; left: 0px; display: none;"></ul></body></html>
+<script src="/portal/branding/portal2/js/jquery/jquery-1.4.4.min.js"></script><script src="/portal/branding/portal2/js/jquery/jquery-ui-1.8.2.custom.min.js"></script><script src="/portal/branding/portal2/js/js/min/utils.min.js"></script><script src="/portal/branding/portal2/js/com/google/analytics/min/analytics.min.js"></script><script src="/portal/branding/portal2/js/eu/europeana/min/ajax.min.js"></script><script src="/portal/branding/portal2/js/com/addthis/min/addthis.min.js"></script><script src="https://web.archive.org/web/20130119004205/https://ssl.google-analytics.com/ga.js"></script><script src="/portal/branding/portal2/js/eu/europeana/min/header.min.js"></script><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 111; top: 0px; left: 0px; display: none;"></ul></body></html>
