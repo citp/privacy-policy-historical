@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letmeget.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008043624id_/http%3A//letmeget.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letmeget.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508064833id_/http%3A//letmeget.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | letmeget.com
 
