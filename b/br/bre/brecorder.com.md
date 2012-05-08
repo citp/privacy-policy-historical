@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brecorder.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101062642id_/http%3A//www.brecorder.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brecorder.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508134349id_/http%3A//www.brecorder.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
