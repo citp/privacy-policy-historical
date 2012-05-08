@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jerkmenow.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224121311id_/http%3A//track.jerkmenow.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jerkmenow.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508025635id_/http%3A//secure.jerkmenow.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
