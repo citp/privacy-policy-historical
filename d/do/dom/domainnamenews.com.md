@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the domainnamenews.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101121406id_/http%3A//www.domainnamenews.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainnamenews.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508080805id_/http%3A//www.domainnamenews.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Domain Name News (DNN)
 
 Privacy Policy for www.domainnamenews.com
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://www.domainnamenews.com/contact "contact us") by email at editor@domainnamenews.com.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at editor@domainnamenews.com.
 
 At www.domainnamenews.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.domainnamenews.com and how it is used.
 
@@ -14,7 +14,7 @@ Like many other Web sites, www.domainnamenews.com makes use of log files. The in
 **Cookies and Web Beacons**  
 www.domainnamenews.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-Some of our [advertising](http://www.domainnamenews.com/advertising "advertising") partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense. Users may opt out of the use of the Google DART cookie[ by visiting the Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense. Users may opt out of the use of the Google DART cookie[ by visiting the Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.domainnamenews.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
