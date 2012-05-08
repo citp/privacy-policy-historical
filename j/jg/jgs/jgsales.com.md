@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jgsales.com privacy policy that was archived on 2011-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111018131417id_/http%3A//www.jgsales.com/privacy.php%3FSID) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jgsales.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508023126id_/http%3A//www.jgsales.com/privacy.php) for the most accurate reproduction.*
 
 # J&G Sales
 
@@ -10,7 +10,7 @@ The information we learn from customers helps us personalize and continually imp
 
   * **Information You Give Us:** We receive and store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, fulfilling orders, customizing future shopping for you, improving our store features, and communication with you. 
   * **Automatic Information:** We receive and store certain types of information whenever you interact with our website. For example, like many web sites, we sometimes use "cookies," to make the shopping cart work, and we obtain certain types of information when your Web browser accesses our website. 
-  * **E-mail Communications:** To help us make e-mails more productive to improve service and your shopping experience, we sometimes send you emails such as order confirmations. You can also subscribe to our email newsletters to receive notices of sales and new products. You will not receive these newletters unless you subscribe.
+  * **E-mail Communications:** To help us make e-mails more productive to improve service and your shopping experience, we sometimes send you emails such as order confirmations. You can also subscribe to our email newsletters to receive notices of sales and new products. You will not receive these newletters unless you subscribe. 
 
 
 
@@ -50,4 +50,4 @@ Paperwork related to a firearm sale (the form 4473 if done in person, the invoic
 
 **Questions**
 
-Questions regarding our Terms Of Service, Privacy Policy, or other policy related material can be directed to our support staff by clicking on the "Contact Us" link in the side menu. Or you can email us at:  **[ info@jgsales.com](mailto:%20info@jgsales.com)**
+Questions regarding our Terms Of Service, Privacy Policy, or other policy related material can be directed to our support staff by clicking on the "Contact Us" link in the side menu. Or you can email us at: **[info@jgsales.com](mailto:%20info@jgsales.com)**
