@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dunelm-mill.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116205915id_/http%3A//www.dunelm-mill.com/info/dunelm_os_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunelm-mill.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508043020id_/http%3A//www.dunelm-mill.com/info/dunelm_os_privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Dunelm Mill
 
