@@ -1,22 +1,23 @@
-> *The following text is extracted and transformed from the interplas.com privacy policy that was archived on 2010-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100927033823id_/http%3A//www.interplas.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interplas.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508183527id_/http%3A//www.interplas.com/info/privacy-policy) for the most accurate reproduction.*
 
 # International Plastics Privacy Policy
 
 **International Plastics Privacy Policy  
 **
 
-General  
+General
 
-
-All information that you provide is for our use only and will be held in strict confidence. We will not sell, trade or pass on any personal or business information provided by our clients.  We require only the personal or corporate information that is needed for safe processing of your online order and for contacting you about your transactions. It is used exclusively for that purpose. Once you become a customer, you may receive, from time to time,  important reminders. If you would prefer not to receive these, please contact us or edit your InterPlas.com account settings to disable such notices.
+All information that you provide is for our use only and will be held in strict confidence. We will not sell, trade or pass on any personal or business information provided by our clients.  We require only the personal or corporate information that is needed for safe processing of your online order and for contacting you about your transactions. It is used exclusively for that purpose. Once you become a customer, you may receive, from time to time,  important reminders. If you would prefer not to receive these, please contact us or edit your InterPlas.com account settings to disable such notices.  
+ 
 
 Purchasing Security
 
-For your protection, certain orders will be required to have "signed-off proofs" to ensure acurate processing.  For this, some artwork or logos may be shared with third-party plate manufacturers.  International Plastics is self-assessed as PCI DSS 1.2 secure for protection of your credit card security.  No unencrpted wireless communication is ever used at International Plastics.
+For your protection, certain orders will be required to have "signed-off proofs" to ensure acurate processing.  For this, some artwork or logos may be shared with third-party plate manufacturers.  International Plastics is self-assessed as PCI DSS 1.2 secure for protection of your credit card security.  No unencrpted wireless communication is ever used at International Plastics.  
+ 
 
 Ship Tracking
 
-In order to ship and track merchandise, we make your name and address available to such companies as United Parcel Service, Fedex, LTL Freight Carriers, and the U.S. Postal Service.  In no instance are these business affiliates allowed to use your personal information for purpose s other than shipment delivery.
+In order to ship and track merchandise, we make your name and address available to such companies as United Parcel Service, Fedex, LTL Freight Carriers, and the U.S. Postal Service.  In no instance are these business affiliates allowed to use your personal information for purposes other than shipment delivery.
 
 Website Cookies
 
