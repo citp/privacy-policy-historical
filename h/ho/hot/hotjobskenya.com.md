@@ -1,37 +1,24 @@
-> *The following text is extracted and transformed from the hotjobskenya.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529040137id_/http%3A//hotjobskenya.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotjobskenya.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508135641id_/http%3A//hotjobskenya.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Jobs in Kenya! - Latest Jobs in Kenya, Careers Opportunities
+# Jobs in Kenya – Latest Jobs in Kenya, Recruitment, Employment Job Vacancies In Kenya - Privacy
 
-This website uses third-party advertising companies to serve ads when visiting this site. These third parties may collect and use information (but not your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, you can visit **[Google’s Advertising and Privacy](http://www.google.com/privacy_ads.html)** page.
+**Your Privacy**  
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-If you wish to opt out of Advertising companies tracking and tailoring advertisements to your surfing patterns you may do so at [**Network Advertising Initiative**](http://networkadvertising.org/managing/opt_out.asp).
+**Google Adsense and the DoubleClick DART Cookie**  
+Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
 
-Google uses the Doubleclick DART cookie to serve ads across it’s Adsense network and you can get further information regarding the DART cookie at Doubleclick as well as opt out options at [Google’s Privacy Center](http://www.google.com/privacy_ads.html)
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
 
-We respect your privacy and we are committed to safeguarding your privacy while online at this site JobcentreNigeria. The following discloses how we gather and disseminate information for this Blog, Nigerian Job site.
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, hotjobskenya.com has no access or control over these cookies that may be used by third party advertisers.
 
-**RSS Feeds and Email Updates**
+**Collection of Personal Information**  
+When visiting hotjobskenya.com, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
-If a user wishes to subscribe to our JobcentreNigeria RSS Feeds or obcentreNigeria Email Updates (powered by Google – Feedburner), we ask for contact information such as name and email address. This subscriptions provide easy tools for users of this blog to opt-out of these communications at any time. Your personal information will never be sold or given to a third party. We hate Spam as much as you do.
+**Links to third party Websites**  
+We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own. 
 
-**Log Files and Stats**
+**Changes to this Privacy Statement**  
+The contents of this statement may be altered at any time, at our discretion. 
 
-Like most blogging platforms we use log files, in this case Statcounter. Statcounter stores information such as internet protocol (IP) addresses, browser type, internet service provider (ISP), referring, exit and visited pages, platform used, date/time stamp, track user’s movement in the whole, and gather broad demographic information for aggregate use. IP addresses etc. are not linked to personally identifiable information. The data gathered are meant to help the webmaster optimize the website.
-
-**Cookies**
-
-What is a cookie? A cookie is a piece of data stored on the user’s computer tied to information about the user. This blog doesn’t use cookies. However, some of our business partners use cookies on this site (for example – advertisers).We can’t access or control these cookies once the advertisers have set them.
-
-**Links**
-
-This Blog contains links to other sites. Please be aware that we are not responsible for the privacy practices of these other sites. We suggest our users should be aware of this when they leave this blog and advise that they read the privacy statements of each and every site that collects personally identifiable information. This privacy statement applies solely to information collected by this Blog.
-
-**Advertisers**
-
-We use both inside and outside ad companies to display ads on this blog. These ads may contain cookies and are collected by the advertising companies and we do not have access to this information. We work with the following advertising companies: Google Adsense, Kontera etc.
-
-_**Contact Information**_
-
-If you have any questions or concerns please contact  ** _[admin@hotjobskenya.com](mailto:admin@jobcentrenigeria.com)._**
-
-This privacy policy updated April 2009
+If you have any questions regarding our privacy policy then you may contact us at info@hotjobskenya.com
