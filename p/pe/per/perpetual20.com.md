@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perpetual20.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210124405id_/http%3A//www.perpetual20.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perpetual20.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508060111id_/http%3A//www.perpetual20.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
