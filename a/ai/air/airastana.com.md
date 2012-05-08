@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airastana.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103063149id_/http%3A//www.airastana.com/kaz/en/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airastana.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508134134id_/http%3A//www.airastana.com/kaz/en/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Air Astana - Privacy Policy
 
@@ -21,3 +21,21 @@ We give access to the personal data only those workers, contractors and agents o
 To ensure the security of your personal data information when you book flights through www.airastana.com, SSL (Secure Sockets Layer) with 128 Bit encryption technology is used to transfer your data securely. It encrypts all of your personal information, including credit/debit card number, so that it cannot be read as the information travels over the Internet.
 
 If your browser does not support SSL, we recommend you to update to the latest version of any browser to improve the security of transactions, otherwise the transmission of your personal information may not be protected and Air Astana disclaims any responsibility in this regard. 
+
+ **Email services**
+
+When you subscribe to receiving such communications as Air Astana’s electronic newsletter, you are giving Air Astana permission to use your email address for sending you the newsletter, and other mail such as surveys and news about special offers. You can subscribe to electronic newsletters via our Frequent Flyer Programme [Nomad Club](https://web.archive.org/kaz/en/Join-Now.aspx) or on [Subscribe to Specials Offers](https://web.archive.org/kaz/en/Subscribe-to-Special-Offers.aspx) page at airastana.com.
+
+If you wish to retract your permission for Air Astana and do not want to receive information by email, you can do so any time by clicking the ‘unsubscribe’ link in the email.
+
+ **Contact**
+
+For enquiries or complaints about the protection of your personal information by Air Astana, please email [customer.relations@airastana.com](mailto:customer.relations@airastana.com) and we will contact you as soon as possible.
+
+To view your personal information, have it corrected or submit a complaint about the use of your personal information by Air Astana, you may send your written response, accompanied by a copy of your proof of identity, to:
+
+Air Astana JSC  
+Customer Relations  
+4A, Zakarpatskaya Str.  
+Almaty 050039  
+Kazakhstan
