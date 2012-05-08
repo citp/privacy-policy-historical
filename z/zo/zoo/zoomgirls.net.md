@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zoomgirls.net privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102001154id_/http%3A//zoomgirls.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoomgirls.net privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508071219id_/http%3A//zoomgirls.net/privacy.html) for the most accurate reproduction.*
 
-# Sexy Wallpapers, Hot Girls Wallpaper - Sexy wallpapers
+# Sexy Wallpapers, Nude Girls and Pornstars - Sexy wallpapers
 
 Privacy Policy - www.zoomgirls.net
 
