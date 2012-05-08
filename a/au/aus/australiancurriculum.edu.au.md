@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the australiancurriculum.edu.au privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102004755id_/http%3A//www.acara.edu.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australiancurriculum.edu.au privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508033950id_/http%3A//www.acara.edu.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | ACARA
 
@@ -82,4 +82,4 @@ If you would like further information or advice in relation to privacy matters, 
  **General enquiries:**[info@acara.edu.au](mailto:info@acara.edu.au)  
  **Website help:**[webhelp@acara.edu.au](mailto:webhelp@acara.edu.au)
 
-Information about the Internet and personal information can also be found on the website of the [Office of the Privacy Commissioner](http://www.privacy.gov.au/).
+Information about the Internet and personal information can also be found on the website of the [Office of the Privacy Commissioner](http://www.privacy.gov.au/)..
