@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the audiomidi.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205161051id_/http%3A//www.audiomidi.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiomidi.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508055959id_/http%3A//www.audiomidi.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
+e-News Subscription: |  |  |   
+---|---|---|---  
+  
 audioMIDI.com is committed to protecting the privacy of our customers and we have taken strong measures to ensure that the information we gather from you will be secure and remain confidential. 
 
 If you have any further questions, please call us or [email us](http://www.audiomidi.com/contactus.aspx).
@@ -33,3 +36,11 @@ When you use the audioMIDI.com web site you consent to the collection and use of
 ## Any more questions?
 
 audioMIDI.com takes the issue of protecting your privacy seriously. If you have any concerns, questions, or just want to tell us what you think, feel free to [contact us](http://www.audiomidi.com/contactus.aspx).
+
+  
+
+
+[ ](https://www.scanalert.com/RatingVerify?ref=www.audiomidi.com)
+
+  
+
