@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aurasma.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216135500id_/http%3A//www.aurasma.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aurasma.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509011944id_/http%3A//www.aurasma.com/privacy) for the most accurate reproduction.*
 
-# Aurasma - The world's first Visual Browser, bringing the physical and virtual worlds together
+# Aurasma
 
 By downloading, installing, running, and accessing the Aurasma mobile application and corresponding Aurasma online service and related content (collectively " _Aurasma_ "), you agree to be bound by this Privacy Policy. Certain features of Aurasma may require you become an Aurasma member, which, as part of the registration process, may require that you provide us with certain personal information. Your use of Aurasma is subject to this Privacy Policy, which is incorporated into the Terms of Service that you accepted by downloading the Aurasma mobile application to your mobile device or by accessing Aurasma. The Terms of Services can be found on our website, for reference.
 
