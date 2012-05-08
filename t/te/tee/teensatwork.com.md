@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teensatwork.com privacy policy that was archived on 2011-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110809122424id_/http%3A//static.mofos.com/policy_files/pp.php%3Fsite%3Dmfw) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teensatwork.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508164944id_/http%3A//static.mofos.com/policy_files/pp.php%3Fsite%3Dmfw) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -67,6 +67,12 @@ This privacy policy may be changed, modified or edited at any time. It is the su
 ## TERMS AND CONDITIONS OF MEMBERSHIP
 
 Each subscriber should carefully read each of the terms and conditions of membership for the site. By accepting membership to this site, you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this site to use information that it has gathered from subscribers. 
+
+## "OPT-IN" & "OPT-OUT" USER COMMUNICATION 
+
+"OPT-IN" -- Subscriber’s expressly and specifically acknowledges and agrees that his email address or other means of communicating with subscriber may be used to send him offers, information or any other commercially oriented emails or other means of communications. More specifically, some offers may be presented to the subscriber via email campaigns or other means of communications with the option to express the subscriber’s preference by either clicking or entering "accept" (alternatively "yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes", the subscriber indicates that the subscriber "OPTS-IN" to that offer and thereby agrees and assents that the subscriber’s personal information, including its email address and data may be used for that matter or disclosed to third-parties.
+
+"OPT-OUT" -- Subscriber’s expressly and specifically acknowledges and agrees that his email address or other means of communicating with subscriber may be used to send him offers, information or any other commercially oriented emails or other means of communications. More specifically, other offers may be presented to the subscriber via email campaigns or other means of communications with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the offer) then the site may transfer the subscriber’s personal profile information to the third-party service or content provider making the offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider.
 
 ### Terms and Conditions:
 
