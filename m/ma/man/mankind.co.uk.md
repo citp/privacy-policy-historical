@@ -1,21 +1,33 @@
-> *The following text is extracted and transformed from the mankind.co.uk privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509083740id_/http%3A//www.mankind.co.uk/security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mankind.co.uk privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508063526id_/http%3A//www.mankind.co.uk/privacy-policy.info) for the most accurate reproduction.*
 
-# Male Grooming Tips and Products from Mankind
+# Privacy Policy | Mankind.co.uk
 
-**Your privacy and the security of your personal information is our highest priority.  
-**  
-We also want to provide you the best and easiest online shopping experience possible. In order to do this we need to gather certain pieces of information from you. 
+**This is a Secure Website**
 
-Your name and address is required to send you catalogues, samples and to deliver products you have ordered. 
+This site uses a VeriSign SSL123 Certificate to offer secure communications by encrypting all data to and from the site. VeriSign has checked and verified the site's registered domain name.
 
-From time to time, we allow other companies to use your name and address (as permitted by law) in order to offer you other outstanding products or services which we feel may be of interest to you. Even in these circumstances, we do not divulge any other information about you, including your email address. You have the option to opt out of receiving these mailings when you register. 
+We are committed to protecting our customer’s privacy. We are entirely open about our information gathering practices. Please take the time to review this notice which states our privacy policy.
 
-We ask for your e-mail address and password when you register on the site. You then do not need to re-enter your name and address when you return to the site at a later date. We use your email address to confirm your order and to keep you informed of the progress of your order. 
+For us to process your order, we need to know your name, email address, delivery address, credit/debit card number, security code and expiry date. We will not collect any information about you unless it is specifically and knowingly provided by you. The information we collect will be accurate and up to date. You can check this at any time by contacting our customer care department. We will immediately correct any inaccuracies you report.
 
-The only other occasion when Mankind will use your e-mail address is, with your permission, to send you from time to time further information on products and special offers. Again, you have the option to opt out of receiving our email newsletter when you register. 
+Additionally, we will look at the products you buy, together with the way you view our site to enable us to send you information about products and services that you may be interested in. We will use this information to tailor your view of the site to make it more interesting and relevant in respect of the products and offers on view.
 
-**Your email address will never be disclosed to any third party.**
+We collect information about our customers via server logs, cookies, order forms and competitions. A cookie is a file that your web browser places on your computer’s hard disk for record keeping purposes. The information collected in this way can be used to identify you unless you modify your browser settings. The cookie does not store any credit/debit card information nor password details.
 
-To discuss any matters relating to privacy, you may contact Paul Jameson at Mankind by phone (0870 443 7060) or email [paul@mankind.co.uk ](mailto:paul@mankind.co.uk)
+We have business and technical partners whom we share data with to handle orders, process credit and debit card payments and provide a range of services, including for fraud protection purposes. They are bound by Data Protection covenants and must process the personal information in accordance with this privacy policy. You should be aware that if we are requested by the police or any other regulatory authority investigating suspected illegal activities to provide your personal information, we are entitled to do so.
 
-Our data collection and storage is governed by the rules of the UK's Data Protection Act. Mankind's registration number is: Z5243727 
+In the event that we sell or buy any business or assets, we may disclose your personal data to the prospective seller or buyer of such business or assets.
+
+We operate an opt out mail system. This gives you the choice of whether or not you wish to receive marketing information. Replying to the 'unsubscribe' link in promotional mail will also ensure that your name is removed from our mailing list. Your opt-in preference to receive promotional emails from websites owned by The Hut Group of companies will be recorded at the point of registration and as part of the sales process. You can unsubscribe from any of these emails at any time.
+
+This website employs VeriSign and industry-standard SSL to provide secure credit card transactions. SSL is a communications protocol for transmitting private information over the internet. It works by encrypting data that is transmitted over the SSL connection. When you place an order, your credit/debit card information is encrypted and then sent over the internet using an SSL connection. No one can read or access the data that is being transmitted.
+
+It is important for you to protect against unauthorized access to your password and to your computer. Ensure that you log out when you finish using a shared computer.
+
+In addition to the company's safeguards, your personal data is protected in the UK by the Data Protection Act (the "Act"). The Act requires us, as registered Data Controllers, amongst other things to ensure that the data we hold about you should be processed lawfully and fairly. It should be accurate, relevant and not excessive. The information should, where necessary, be kept up to date and not retained for longer than is necessary. It should be kept securely to prevent unauthorized access by other people.
+
+We take the risk of internet fraud very seriously. With the volume of fraudulent credit card transactions increasing, we make every effort to ensure all orders are thoroughly checked using the information already supplied. There is a possibility we may contact you to make additional security checks and we ask for your co-operation to enable us to complete them. Fraudulent transactions will not be tolerated by us and such transactions will be reported to the relevant authorities.
+
+## Contact Us
+
+If you have any queries on any aspect of the above policy, please [contact us](https://www.mankind.co.uk/mankind/customerQuery.secure?skeletonAccount=true).
