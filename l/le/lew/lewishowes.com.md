@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the lewishowes.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230044354id_/http%3A//www.lewishowes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lewishowes.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508114007id_/http%3A//www.lewishowes.com/your-privacy-is-important) for the most accurate reproduction.*
 
-# Privacy Policy
+# Your Privacy Is Important
 
-Security & Privacy Policy – www.lewishowes.com
-
-Lewis Howes and www.lewishowes.com are committed to maintaining and protecting the privacy of your personal information. Collectively Lewis Howes and www.lewishowes.com will be referred to as either “we,” “our” or “us.” The following discloses our policy for gathering and disseminating personal information collected by Lewis Howes and www.lewishowes.com. If you have any questions about your rights as a user of our services, you may contact Lewis Howes, Owner at www.lewishowes.com, via [email](http://www.lewishowes.com/contact/).
+Lewis Howes and www.lewishowes.com are committed to maintaining and protecting the privacy of your personal information. Collectively Lewis Howes and www.lewishowes.com will be referred to as either “we,” “our” or “us.” The following discloses our policy for gathering and disseminating personal information collected by Lewis Howes and www.lewishowes.com. If you have any questions about your rights as a user of our services, you may contact Lewis Howes, Owner at www.lewishowes.com, via [email](http://www.lewishowes.com/contact/).
 
 This privacy policy contains information about our commitment to your privacy, including:
 
@@ -15,7 +13,7 @@ This privacy policy contains information about our commitment to your privacy, i
 
 
 
-Note: This privacy policy applies to (i) personal information collected on [www.lewishowes.com](http://www.lewishowes.com/ "www.lewishowes.com") (the “Site”): and (ii) personal information collected offline or through other sources, unless otherwise noted. This privacy policy does not apply to the collection practices of any other company, including the web sites of other companies, individuals, or organizations to which we may provide links. These web sites may have different polices relating to your privacy and information they collect about you. Visitors should consult other sites’ privacy policies, as we have no control over information that is submitted to, or controlled by, third parties.
+Note: This privacy policy applies to (i) personal information collected on [www.lewishowes.com](http://www.lewishowes.com/ "www.lewishowes.com") (the “Site”): and (ii) personal information collected offline or through other sources, unless otherwise noted. This privacy policy does not apply to the collection practices of any other company, including the web sites of other companies, individuals, or organizations to which we may provide links. These web sites may have different polices relating to your privacy and information they collect about you. Visitors should consult other sites’ privacy policies, as we have no control over information that is submitted to, or controlled by, third parties.
 
 A. Information We Collect  
 We may collect two types of information about you when you visit the Site, contact us, place an order, or in any other communication we may have with you: personal information such as, your name, address, telephone number, e-mail address, and credit card number), and, via the Site only, non-personal, aggregate information (such as information regarding the pages on our site you have visited and your IP address).
