@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedevilspanties.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007124713id_/http%3A//thedevilspanties.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedevilspanties.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508231814id_/http%3A//thedevilspanties.com/privacy-policy) for the most accurate reproduction.*
 
 # The Devil's Panties - Privacy Policy
 
@@ -13,7 +13,7 @@ We collect the following information about you:
 \- Anything the network transaction protocol (HTTP,TCP etc) presents to our servers. 
 
 
-Personally Identifiable Information in its raw form will not be shared with other parties except when required by law enforcement.
+Personally Identifiable Information in its raw form will not be shared with other parties except when required by law enforcement or when reporting abuse.
 
 Information collected by The Devil’s Panties may be shared with other parties in a non personally identifiable form.
 
