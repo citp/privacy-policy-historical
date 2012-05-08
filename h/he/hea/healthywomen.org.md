@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthywomen.org privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219205708id_/http%3A//www.healthywomen.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthywomen.org privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508052144id_/http%3A//www.healthywomen.org/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | HealthyWomen
 
@@ -129,7 +129,7 @@ National Women's Health Resource Center, Inc.
 
 157 Broad Street
 
-Suite 106
+Suite 200
 
 Red Bank, NJ 07701
 
