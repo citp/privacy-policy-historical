@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openmedia.ca privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101193255id_/http%3A//openmedia.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openmedia.ca privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508070549id_/http%3A//openmedia.ca/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | OpenMedia.ca
 
@@ -24,6 +24,8 @@ In addition, with your explicit permission, we pass along certain of your inform
   * Canadian policy-makers, communications companies, news publications and other targets when you choose to use our email tool to send them messages.
 
 
+
+By explicit permission we mean, in each instance, we will ask additional permission from you before passing along information. This additional permission will set out the parties with which we wish to share your information and the purposes for which we intend to do so. We will also require from you some positive indication to demonstrate you have assented to the disclosure of information. The most typical example of this would be a letter campaign, where you enter your information into an internet based form beside a message and click 'Send Your Message'. The parties to whom you will be 'sending your message' will be listed.
 
 When you give OpenMedia.ca personal information, we take steps to ensure that your information is treated securely. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, OpenMedia.ca cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.
 
