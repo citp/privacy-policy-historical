@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pharmacy2u.co.uk privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101150239id_/http%3A//www.pharmacy2u.co.uk/static/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmacy2u.co.uk privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508164602id_/http%3A//www.pharmacy2u.co.uk/static/privacy.aspx) for the most accurate reproduction.*
 
-# Pharmacy, Online Pharmacy, Pharmacy Online UK, Internet Pharmacy, Internet Chemist - Pharmacy2U.co.uk
+# Pharmacy2U - Online Pharmacy, Pharmacy Online UK, Internet Pharmacy, Online Chemist
 
 Pharmacy2U is registered under the Data Protection Act, Registration No. Z714211X. At Pharmacy2U we are committed to protecting your privacy. We use the information we collect about you to ensure you receive a personalised experience of the services you have requested from us. In order to provide the best service we can we need to collect and store information about you and the services we have provided to you.
 
