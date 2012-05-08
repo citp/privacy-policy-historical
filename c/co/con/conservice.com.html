@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the conservice.com privacy policy that was archived on 2011-10-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111007083502id_/http%3A//conservice.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the conservice.com privacy policy that was archived on 2012-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120508082537id_/https%3A//www.conservice.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript" src="Scripts/jquery-1.4.2.min.js"></script>
 
@@ -50,9 +50,7 @@
     });
 
     //-->          
-    function cancel() {
-        $('#ctl00_pnlForm input').val(""); //clear all form values
-    }
+
 
     function clearClientLogin() {
         $('#ctl00_pnlLogin input:text').val(""); //clear all form values
@@ -77,26 +75,9 @@
     function clearControlLogin() {
         $('#ctl00_pnlControlLogin input:text').val(""); //clear all form values
     }
-</script>
 
-
-
-<script language="JavaScript" type="text/JavaScript">
-    function pageLoad(sender, args) { //pageLoad reserved function name in ASP.NET AJAX fro synchronous and asynchronous postbacks
-
-        $('#ctl00_btnSubmit').click(function() {
-            var values = 0;
-            $('#divForm input[type="text"]').each(function() {
-                if ($(this).val().length > 0) {
-                    if (jQuery.trim($(this).val())) {
-                        values = values + 1;
-                    }
-                }
-            });
-            if (!(values == 0)) {
-                $("#imgloader").show();
-            }
-        });
+    function validateCheckboxes(oSrc, args) {
+        alert("validating checkboxes");
     }
 </script>
 
@@ -189,32 +170,53 @@
 
 
 
-
     <!--[if IE 7]>
 	<link rel="stylesheet" type="text/css" href="CSS/IE7Menu.css" />
 <![endif]-->
-<!---// load jQuery  and Marquee--->
+    <!---// load jQuery  and Marquee--->
     <link type="text/css" href="CSS/jquery.marquee.css" rel="stylesheet" title="default" media="all"><link type="text/css" href="CSS/Content.css" rel="stylesheet" media="all"><link type="text/css" href="CSS/Menu.css" rel="stylesheet" title="default" media="all"><link href="CSS/Login.css" rel="stylesheet" type="text/css" media="all" title=""><link href="CSS/loginresidents.css" rel="stylesheet" type="text/css" media="all"><link rel="SHORTCUT ICON" href="Images/conserv.ico"><title>
 	Conservice
-</title></head>
+</title>
+    <style type="text/css">
+        .style1
+        {
+            height: 90px;
+        }
+    </style>
+</head>
 <body id="Mainbody" style="background: #8A8CA3 url(Images/BackgroundImage.jpg) repeat-x top center;
     padding: 0; margin: 0; overflow: auto;">
     <form name="aspnetForm" method="post" action="/PrivacyPolicy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjhkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYoBRZjdGwwMCRidG5kZWZhdWx0SGVhZGVyBRxjdGwwMCRpbWdidG5jbG9zZWNsaWVudGxvZ2luBRljdGwwMCR1c3Jsb2dpbiRSZW1lbWJlck1lBR9jdGwwMCR1c3Jsb2dpbiRMb2dpbkltYWdlQnV0dG9uBR5jdGwwMCRpbWdidG5jbG9zZXJlc2lkZW50bG9naW4FHmN0bDAwJHJlc2lkZW50TG9naW4kUmVtZW1iZXJNZQUkY3RsMDAkcmVzaWRlbnRMb2dpbiRMb2dpbkltYWdlQnV0dG9uBR1jdGwwMCRpbWdidG5jbG9zZXN5bmVyZ3lsb2dpbgUdY3RsMDAkc3luZXJneUxvZ2luJFJlbWVtYmVyTWUFI2N0bDAwJHN5bmVyZ3lMb2dpbiRMb2dpbkltYWdlQnV0dG9uBR5jdGwwMCRpbWdidG5jbG9zZXN5bXBob255bG9naW4FHmN0bDAwJHN5bXBob255TG9naW4kUmVtZW1iZXJNZQUkY3RsMDAkc3ltcGhvbnlMb2dpbiRMb2dpbkltYWdlQnV0dG9uBR1jdGwwMCRpbWdidG5Db250cm9sQ2xvc2VMb2dpbgUdY3RsMDAkY29udHJvbExvZ2luJFJlbWVtYmVyTWUFI2N0bDAwJGNvbnRyb2xMb2dpbiRMb2dpbkltYWdlQnV0dG9uBR9jdGwwMCRpbWdidG5Db25zdHJ1Y3RDbG9zZUxvZ2luBR9jdGwwMCRjb25zdHJ1Y3RMb2dpbiRSZW1lbWJlck1lBSVjdGwwMCRjb25zdHJ1Y3RMb2dpbiRMb2dpbkltYWdlQnV0dG9uBQ9jdGwwMCRDYW5jZWxCdG4FEmN0bDAwJGNibFBmbHR5cGUkMAUSY3RsMDAkY2JsUGZsdHlwZSQxBRJjdGwwMCRjYmxQZmx0eXBlJDIFEmN0bDAwJGNibFBmbHR5cGUkMwUSY3RsMDAkY2JsUGZsdHlwZSQzBRNjdGwwMCRjYmxTZXJ2aWNlcyQwBRNjdGwwMCRjYmxTZXJ2aWNlcyQxBRNjdGwwMCRjYmxTZXJ2aWNlcyQyBRNjdGwwMCRjYmxTZXJ2aWNlcyQzBRNjdGwwMCRjYmxTZXJ2aWNlcyQ0BRNjdGwwMCRjYmxTZXJ2aWNlcyQ1BRNjdGwwMCRjYmxTZXJ2aWNlcyQ2BRNjdGwwMCRjYmxTZXJ2aWNlcyQ2BRRjdGwwMCRjYmxTb2Z0d2FyZXMkMAUUY3RsMDAkY2JsU29mdHdhcmVzJDEFFGN0bDAwJGNibFNvZnR3YXJlcyQyBRRjdGwwMCRjYmxTb2Z0d2FyZXMkMwUUY3RsMDAkY2JsU29mdHdhcmVzJDQFFGN0bDAwJGNibFNvZnR3YXJlcyQ1BRRjdGwwMCRjYmxTb2Z0d2FyZXMkNdAmg+UGfxKhi2j+4WnQm0r4kpvC">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjhkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYTBRZjdGwwMCRidG5kZWZhdWx0SGVhZGVyBRxjdGwwMCRpbWdidG5jbG9zZWNsaWVudGxvZ2luBRljdGwwMCR1c3Jsb2dpbiRSZW1lbWJlck1lBR9jdGwwMCR1c3Jsb2dpbiRMb2dpbkltYWdlQnV0dG9uBR5jdGwwMCRpbWdidG5jbG9zZXJlc2lkZW50bG9naW4FHmN0bDAwJHJlc2lkZW50TG9naW4kUmVtZW1iZXJNZQUkY3RsMDAkcmVzaWRlbnRMb2dpbiRMb2dpbkltYWdlQnV0dG9uBR1jdGwwMCRpbWdidG5jbG9zZXN5bmVyZ3lsb2dpbgUdY3RsMDAkc3luZXJneUxvZ2luJFJlbWVtYmVyTWUFI2N0bDAwJHN5bmVyZ3lMb2dpbiRMb2dpbkltYWdlQnV0dG9uBR5jdGwwMCRpbWdidG5jbG9zZXN5bXBob255bG9naW4FHmN0bDAwJHN5bXBob255TG9naW4kUmVtZW1iZXJNZQUkY3RsMDAkc3ltcGhvbnlMb2dpbiRMb2dpbkltYWdlQnV0dG9uBR1jdGwwMCRpbWdidG5Db250cm9sQ2xvc2VMb2dpbgUdY3RsMDAkY29udHJvbExvZ2luJFJlbWVtYmVyTWUFI2N0bDAwJGNvbnRyb2xMb2dpbiRMb2dpbkltYWdlQnV0dG9uBR9jdGwwMCRpbWdidG5Db25zdHJ1Y3RDbG9zZUxvZ2luBR9jdGwwMCRjb25zdHJ1Y3RMb2dpbiRSZW1lbWJlck1lBSVjdGwwMCRjb25zdHJ1Y3RMb2dpbiRMb2dpbkltYWdlQnV0dG9uCCUHngMjwTMlWTDFDZv6QJmlpBY=">
 
 
-<script src="/ScriptResource.axd?d=FW0xDoBNoKgm0E24yivAeNl9BP_UZTEPCMLxXBTODNfN2PD0v1w1O0FgIp_rbvgZ0e82xaFvUgrkD_R3Pi4K1J748e6GsRQA0rQP3xZoA601&amp;t=ffffffff9a59f750" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=VLk-LKoEGj8WI39mAhSzRxeDhkukn0SCyYY9Yt6su04w92EZq335w850NCvixeFlclBOtogoBmqNRf-rm1nF2Q2&amp;t=2dd90101" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=VLk-LKoEGj8WI39mAhSzRxeDhkukn0SCyYY9Yt6su07eF6WTgsl_oVipHcVR1-2nAi-1Qc_N_itj2AHqA4bwKw2&amp;t=2dd90101" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=VLk-LKoEGj8WI39mAhSzRxeDhkukn0SCyYY9Yt6su07Wtk0JUVjP4Gi4X7VhnMz9w-Rjm7_3HF-Y4nmfFfCYw8eQsIeZX0YRtLiyvXiRorU1&amp;t=2dd90101" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=VLk-LKoEGj8WI39mAhSzRxeDhkukn0SCyYY9Yt6su07YmZ-ASjZmIZi1p-fyO3oAxNYTPSNMcYtWnS2Hu51Puf-jxeppjUG4z1BihQzKxro1&amp;t=2dd90101" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=VLk-LKoEGj8WI39mAhSzRxeDhkukn0SCyYY9Yt6su05NSOOiv2SEEaZMXWXa1kepQG4IklyUjvucxz740TGnhW507joHucNR2nTtYvXPKhY1&amp;t=2dd90101" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=VLk-LKoEGj8WI39mAhSzRxeDhkukn0SCyYY9Yt6su05QiSdAIULRlSGYjyGJ3HV1w81wPDQ7DgEi5ahKKjZSnpA_QE9q1KeIbDelC4DGS1qygHnTpdR_aUnby4g5gYjL0&amp;t=2dd90101" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=VLk-LKoEGj8WI39mAhSzRxeDhkukn0SCyYY9Yt6su067jE4pqJxg9gad6vh4uUPcJ_xQmstUNt8Yt4LmPoNQoVLB4b9ggdstofm8N6F8QolfKenv6gbmHrDx67xg8hCe0&amp;t=2dd90101" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=VLk-LKoEGj8WI39mAhSzRxeDhkukn0SCyYY9Yt6su05XYq3iBQRCL1hSDPfLtGauCrjkX-hsnAjJq8GO-OuCdeXSdb9IKSDL8zPjadMz-s81&amp;t=2dd90101" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=VLk-LKoEGj8WI39mAhSzRxeDhkukn0SCyYY9Yt6su07crCBsk5TdARFgQATVvUCVJHALw5p6twAScONcI8PV8CEvl5TjiikXaFXhsN1WZF41&amp;t=2dd90101" type="text/javascript"></script>
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWQQKJ+NHgCQK574gTAq2p7rgFArmagoYFAp6H/KAIAtrk5fEJAq+dmroFApmqx/UGApK7oJYCAq/X3KIEAurewqQPAuO/584BAq+DuaAJAtG5zpAHArXZ0j0C6Pr3OQL0uaDyCgKozfz/BgLuzM2xDgKg7ZC0DwKy4LzrAQLvmeu4CgKgx+vcDgKn1uyNBwLcurjcCwKB6qMOAp2U0cEPAvuK0tEPAr3z0ysCp8ze0g8CitOBxgUCi4aQlggC8oTFogwCv76lmAMC4tyjvAwChI6enA4Cq6GLvQ8C9dLYNQLB2NmTCgKrofXcCgKk3+LnCALt/ZH9DALKhbDQDAKnneWVBwKdj8gbAqDJsJoNApGTxjgCkZPCOAKRk844ApGTyjgC4qjRvAwC/ZHv0QYCrNaVkggCx7+zpwIC9oPa5wMCke33/A0CwLGevQ8C+8+9XAL7z6mBCAL7z5WmDwL7z4HLBgL7z+3vDQL7z9mUBQLru6avBwLS09ydC5Use5H7SxCJOyDVzG/juWsewJWJ">
+<script src="/ScriptResource.axd?d=FW0xDoBNoKgm0E24yivAeNl9BP_UZTEPCMLxXBTODNfN2PD0v1w1O0FgIp_rbvgZ0e82xaFvUgrkD_R3Pi4K1J748e6GsRQA0rQP3xZoA601&amp;t=ffffffffec2d9970" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=VLk-LKoEGj8WI39mAhSzRxeDhkukn0SCyYY9Yt6su04w92EZq335w850NCvixeFlclBOtogoBmqNRf-rm1nF2Q2&amp;t=4e0b8ae9" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=VLk-LKoEGj8WI39mAhSzRxeDhkukn0SCyYY9Yt6su07eF6WTgsl_oVipHcVR1-2nAi-1Qc_N_itj2AHqA4bwKw2&amp;t=4e0b8ae9" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=VLk-LKoEGj8WI39mAhSzRxeDhkukn0SCyYY9Yt6su07Wtk0JUVjP4Gi4X7VhnMz9w-Rjm7_3HF-Y4nmfFfCYw8eQsIeZX0YRtLiyvXiRorU1&amp;t=4e0b8ae9" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=VLk-LKoEGj8WI39mAhSzRxeDhkukn0SCyYY9Yt6su07YmZ-ASjZmIZi1p-fyO3oAxNYTPSNMcYtWnS2Hu51Puf-jxeppjUG4z1BihQzKxro1&amp;t=4e0b8ae9" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=VLk-LKoEGj8WI39mAhSzRxeDhkukn0SCyYY9Yt6su05NSOOiv2SEEaZMXWXa1kepQG4IklyUjvucxz740TGnhW507joHucNR2nTtYvXPKhY1&amp;t=4e0b8ae9" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=VLk-LKoEGj8WI39mAhSzRxeDhkukn0SCyYY9Yt6su05QiSdAIULRlSGYjyGJ3HV1w81wPDQ7DgEi5ahKKjZSnpA_QE9q1KeIbDelC4DGS1qygHnTpdR_aUnby4g5gYjL0&amp;t=4e0b8ae9" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=VLk-LKoEGj8WI39mAhSzRxeDhkukn0SCyYY9Yt6su067jE4pqJxg9gad6vh4uUPcJ_xQmstUNt8Yt4LmPoNQoVLB4b9ggdstofm8N6F8QolfKenv6gbmHrDx67xg8hCe0&amp;t=4e0b8ae9" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=VLk-LKoEGj8WI39mAhSzRxeDhkukn0SCyYY9Yt6su05XYq3iBQRCL1hSDPfLtGauCrjkX-hsnAjJq8GO-OuCdeXSdb9IKSDL8zPjadMz-s81&amp;t=4e0b8ae9" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=VLk-LKoEGj8WI39mAhSzRxeDhkukn0SCyYY9Yt6su07crCBsk5TdARFgQATVvUCVJHALw5p6twAScONcI8PV8CEvl5TjiikXaFXhsN1WZF41&amp;t=4e0b8ae9" type="text/javascript"></script>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWJgKhpqzEDgK574gTAq2p7rgFArmagoYFAp6H/KAIAtrk5fEJAq+dmroFApmqx/UGApK7oJYCAq/X3KIEAurewqQPAuO/584BAq+DuaAJAtG5zpAHArXZ0j0C6Pr3OQL0uaDyCgKozfz/BgLuzM2xDgKg7ZC0DwKy4LzrAQLvmeu4CgKgx+vcDgKn1uyNBwLcurjcCwKB6qMOAp2U0cEPAvuK0tEPAr3z0ysCp8ze0g8CitOBxgUCi4aQlggC8oTFogwCv76lmAMC4tyjvAwChI6enA4Cq6GLvQ8C9dLYNRn88d3cUtKz1jNuImUUbOKCP7UD">
     
+    
+    <script type="text/javascript" language="javascript">
+        //for this to work consistently in all browsers, the below code should be the last javascript to load on the page
+        if (typeof (Sys.Browser.WebKit) == "undefined") {
+            Sys.Browser.WebKit = {};
+        }
+
+        if (navigator.userAgent.indexOf('WebKit/') > -1) {
+            Sys.Browser.agent = Sys.Browser.WebKit;
+            Sys.Browser.version = parseFloat(navigator.userAgent.match(/WebKit\/(\d+(\.\d+)?)/)[1]);
+            Sys.Browser.name = 'WebKit';
+        }
+                  
+    </script>
+
     <div id="divMainmenu" style="background-color: White; border: solid 2px black; margin: auto;
         position: relative; z-index: 1; width: 900px; min-width: 900px; height: 600px;
         max-width: 900px; margin-top: 10px; padding-bottom: 3px;">
@@ -243,7 +245,7 @@
                 <div id="mymenu2" class="hide" style="text-align: center; display: none;">
                     <a class="submenu"></a><a href="Continum.aspx" class="submenu">Continum</a> <a href="Synergy.aspx" class="submenu">Synergy</a> <a href="Conex.aspx" class="submenu">Conex</a> <a href="Symphony.aspx" class="submenu">Symphony</a> <a href="Control.aspx" class="submenu">Control</a>
                     <a href="Construct.aspx" class="submenu">Construct</a> <a href="Confirm.aspx" class="submenu">
-                        Confirm</a>
+                        Confirm</a> <a href="http://energyze.conservice.com" class="submenu">Energyze</a>
                 </div>
                 
                 <a id="menu2" class="menu">
@@ -387,15 +389,16 @@
                                     <tbody><tr>
                                         <td>
                                             <table cellpadding="0" border="0">
-                                                <tbody><tr>
-                                                    </tr></tbody><caption>
-                                                        <img alt="Login Info" src="Images/ResidentLoginHeader.png">
-                                                        <br>
-                                                        <br>
-                                                    </caption>
-                                                
-                                                <tbody><tr>
-                                                    </tr></tbody></table><table cellspacing="0" cellpadding="0" bordercolor="#E6E2D8" border="0" id="ctl00_residentLogin" bgcolor="#F7F6F3">
+                                                <caption>
+                                                    <img alt="Login Info" src="Images/ResidentLoginHeader.png">
+                                                    <br>
+                                                    <br>
+                                                </caption>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        </tr></tbody></table><table cellspacing="0" cellpadding="0" bordercolor="#E6E2D8" border="0" id="ctl00_residentLogin" bgcolor="#F7F6F3">
 		<tbody><tr>
 			<td><table cellpadding="0" border="0">
 				<tbody><tr>
@@ -412,18 +415,16 @@
 			</tbody></table></td>
 		</tr>
 	</tbody></table>
-                                                </td></tr>
-                                                <tr>
-                                                    <td>
-                                                        <br>
-                                                        <a id="PasswordRecoveryLink" href="https://utilitiesinfo.conservice.com/ForgotPassword.aspx">Forgot Your Password? Click
-                                                            Here</a>
-                                                    </td>
-                                                </tr>
-                                            </tbody></table>
+                                    
+                                    
+                                        
+                                            <br>
+                                            <a id="PasswordRecoveryLink" href="https://utilitiesinfo.conservice.com/ForgotPassword.aspx">
+                                                Forgot Your Password? Click Here</a>
                                         
                                     
                                 
+                                  
                                 <div id="BillImg">
                                     <div style="padding-top: 20px;">
                                         <img src="Images/ResidentHelp.png" alt="Account Help">
@@ -436,7 +437,8 @@
                     </div>
                     <div class="footer">
                         Copyright © <a href="https://www.conservice.com" class="blackLink">Conservice Utility
-                            Management &amp; Billing</a> 2011
+                            Management &amp; Billing</a>
+                        2012
                     </div>
                 </div>
             </div>
@@ -458,7 +460,8 @@
                             width: 100%;">
                             <input type="image" name="ctl00$imgbtnclosesynergylogin" id="ctl00_imgbtnclosesynergylogin" src="Images/closeResidentLogin.png" align="right" border="0" style="border: solid 1px #42466b; padding: 2px;">
                         </div>
-                        <div style="overflow: hidden; padding: 2px; position: relative; float: left; width: 100%; height:10%">
+                        <div style="overflow: hidden; padding: 2px; position: relative; float: left; width: 100%;
+                            height: 10%">
                             <img src="Images/FullHeader.jpg" alt="Header" width="720" height="87" style="position: relative;
                                 z-index: 1;">
                         </div>
@@ -497,7 +500,7 @@
                     <div class="footer">
                         <div style="text-align: center; padding-top: 0px; width: 100%; font-size: x-small;">
                             Copyright
-                            2011
+                            2012
                             Conservice Utility Management &amp; Billing
                         </div>
                     </div>
@@ -523,7 +526,7 @@
                         </div>
                         <div style="overflow: hidden; padding: 2px; position: relative; float: left; width: 100%;">
                             
-                                <img src="Images/SymphonyHeader.jpg" alt="SymphonyHeader" height="84" width="720" border="0" style="position: relative;z-index: 1;">
+                            <img src="Images/SymphonyHeader.jpg" alt="SymphonyHeader" height="84" width="720" border="0" style="position: relative; z-index: 1;">
                         </div>
                     </div>
                     <table style="position: relative; float: left;">
@@ -560,7 +563,7 @@
                     <div class="footer">
                         <div style="text-align: center; padding-top: 0px; width: 100%; font-size: x-small;">
                             Copyright
-                            2011
+                            2012
                             Conservice Utility Management &amp; Billing
                         </div>
                     </div>
@@ -577,28 +580,30 @@
         <div id="ctl00_pnlControlLogin" class="modalpanel" style="display: none; border: solid 0px black;"><font face="@MS PGothic">
 	
             <div style="text-align: left; border: solid 2px black;" class="modalPopup">
-                <div style="background-color: White; border: solid 0px black; margin: auto;
-                    width: 720px; min-width: 720px; max-width: 720px; padding-bottom: 0px; background-image:url(Images/login_bg.jpg);background-repeat:repeat-y; position:relative;">
+                <div style="background-color: White; border: solid 0px black; margin: auto; width: 720px;
+                    min-width: 720px; max-width: 720px; padding-bottom: 0px; background-image: url(Images/login_bg.jpg);
+                    background-repeat: repeat-y; position: relative;">
                     <div style="position: relative; width: 100%; border: solid 0px black; float: left;
                         clear: both;">
                         <div style="position: relative; z-index: 2; float: right; border: solid 0px black;
                             width: 50%;">
-                            <input type="image" name="ctl00$imgbtnControlCloseLogin" id="ctl00_imgbtnControlCloseLogin" src="Images/closeResidentLogin.png" align="right" border="0" style="border: solid 1px #42466b; padding: 2px; background-color: White;"> 
+                            <input type="image" name="ctl00$imgbtnControlCloseLogin" id="ctl00_imgbtnControlCloseLogin" src="Images/closeResidentLogin.png" align="right" border="0" style="border: solid 1px #42466b; padding: 2px; background-color: White;">
                         </div>
                         <div style="overflow: hidden; padding: 2px; position: relative; float: left; width: 50%;">
                             <img id="ctl00_ControlHeader" src="Images/control_header3.jpg" alt="Header" border="0" style="position: relative; z-index: 1;">
                         </div>
                     </div>
-                    <div style="width: 450px; color: White; position: absolute; right: 0; top: 20px; text-align: center;z-index:1;">
-                        <h1 style="color: White; font-family: Verdana; letter-spacing: -1px;font-size:90%;">
+                    <div style="width: 450px; color: White; position: absolute; right: 0; top: 20px;
+                        text-align: center; z-index: 1;">
+                        <h1 style="color: White; font-family: Verdana; letter-spacing: -1px; font-size: 90%;">
                             Ancillary services are now under ConTrol</h1>
                         <img style="padding-top: 15px;" src="images/wm.jpg" alt="ancillary services">
-                        <p style="color: White; font-size: 80%; margin-top: 0pt; text-align: center;letter-spacing: -1px; ">
+                        <p style="color: White; font-size: 80%; margin-top: 0pt; text-align: center; letter-spacing: -1px;">
                             CONTRACT &amp; VENDOR MANAGEMENT</p>
                     </div>
                     <table style="position: relative; float: left; width: 100%; border-top: 2px solid black;">
                         <tbody><tr>
-                            <td style="padding: 25px 0px 0px 45px; border: solid 0px black;font-family:Verdana;">
+                            <td style="padding: 25px 0px 0px 45px; border: solid 0px black; font-family: Verdana;">
                                 <table cellspacing="0" cellpadding="1" border="0" id="ctl00_controlLogin">
 		<tbody><tr>
 			<td><table cellpadding="0" border="0">
@@ -649,7 +654,7 @@
                         </div>
                         <div style="overflow: hidden; padding: 2px; position: relative; float: left; width: 100%;">
                             <img src="Images/ConstructHeader.jpg" alt="Header" width="720" style="position: relative;
-                                z-index: 1; height:87">
+                                z-index: 1; height: 87">
                         </div>
                     </div>
                     <table style="position: relative; float: left;">
@@ -686,7 +691,7 @@
                     <div class="footer">
                         <div style="text-align: center; padding-top: 0px; width: 100%; font-size: x-small;">
                             Copyright
-                            2011
+                            2012
                             Conservice Utility Management &amp; Billing
                         </div>
                     </div>
@@ -695,152 +700,6 @@
         
 </font></div>
         
-        
-        
-        <div id="ctl00_updtpnlrequestdemo">
-	
-                <input type="hidden" name="ctl00$ctrlreqform" id="ctl00_ctrlreqform">
-                
-                <div id="ctl00_pnlForm" class="modalpanel" style="display: none; border: solid 0px black;
-                    overflow: auto;"><font face="Arial" size="3">
-		
-                    <div style="overflow: auto; height: 740px; width: 500px;">
-                        
-                        <div id="divDrag" style="background-color: #42466b; height: 30px;">
-                            <span style="position: relative; display: block; border: solid 0px white; width: 100%;
-                                height: 100%;"><b><span style="width: 90%; color: White; border: solid 0px white;
-                                    height: 100%; vertical-align: middle; padding-top: 7px; text-align: center; float: left;
-                                    display: block;">REQUEST FORM</span></b> <span style="position: relative; height: 100%;
-                                        width: 9%; float: right; border: solid 0px black;">
-                                        <input type="image" name="ctl00$CancelBtn" id="ctl00_CancelBtn" text="Cancel" src="Images/closebox.png" align="right" border="0">
-                                        <input type="hidden" name="ctl00$hdnField" id="ctl00_hdnField">
-                                    </span></span>
-                        </div>
-                        
-                        <div id="divForm" style="text-align: left; border: solid 2px #42466b;" class="modalPopup">
-                            <table style="line-height: 30px;">
-                                <tbody><tr>
-                                    <td>
-                                        <label for="lblName">
-                                            Name</label>
-                                    </td>
-                                    <td>
-                                        <input name="ctl00$txtName" type="text" id="ctl00_txtName">
-                                        
-                                        <br>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <label for="lblCompany">
-                                            Company</label>
-                                    </td>
-                                    <td>
-                                        <input name="ctl00$txtCompany" type="text" id="ctl00_txtCompany">
-                                        
-                                        <br>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <label for="lblPhone">
-                                            Phone</label>
-                                    </td>
-                                    <td>
-                                        <input name="ctl00$txtPhone" type="text" id="ctl00_txtPhone">
-                                        
-                                        <br>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <label for="lblEmail">
-                                            Email</label>
-                                    </td>
-                                    <td>
-                                        <input name="ctl00$txtEmail" type="text" id="ctl00_txtEmail">
-                                        
-                                        <br>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <label for="lblPfl">
-                                            Portolio size</label>
-                                    </td>
-                                    <td>
-                                        <input name="ctl00$txtPfl" type="text" id="ctl00_txtPfl">
-                                        <br>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td style="vertical-align: text-top;">
-                                        <label for="lblpfltype">
-                                            PortFolio Type</label>
-                                    </td>
-                                    <td>
-                                        <div style="height: 110px; overflow: auto; border: solid 2px gray; margin-top: 6px;
-                                            width: 300px;">
-                                            <span id="ctl00_cblPfltype"><input id="ctl00_cblPfltype_0" type="checkbox" name="ctl00$cblPfltype$0"><label for="ctl00_cblPfltype_0">Multi-Family</label><br><input id="ctl00_cblPfltype_1" type="checkbox" name="ctl00$cblPfltype$1"><label for="ctl00_cblPfltype_1">Student Housing</label><br><input id="ctl00_cblPfltype_2" type="checkbox" name="ctl00$cblPfltype$2"><label for="ctl00_cblPfltype_2">HOA</label><br><input id="ctl00_cblPfltype_3" type="checkbox" name="ctl00$cblPfltype$3"><label for="ctl00_cblPfltype_3">Military</label></span>
-                                        </div>
-                                        <br>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td style="vertical-align: text-top;">
-                                        <label for="lblServices">
-                                            Services</label>
-                                    </td>
-                                    <td>
-                                        <div style="height: 110px; overflow: auto; border: solid 2px gray; margin-top: 6px;">
-                                            <span id="ctl00_cblServices"><input id="ctl00_cblServices_0" type="checkbox" name="ctl00$cblServices$0"><label for="ctl00_cblServices_0">Utility Billing-Continum</label><br><input id="ctl00_cblServices_1" type="checkbox" name="ctl00$cblServices$1"><label for="ctl00_cblServices_1">Expense Management-Synergy</label><br><input id="ctl00_cblServices_2" type="checkbox" name="ctl00$cblServices$2"><label for="ctl00_cblServices_2">Data Exchange-Conex</label><br><input id="ctl00_cblServices_3" type="checkbox" name="ctl00$cblServices$3"><label for="ctl00_cblServices_3">Resident Payment Processing-Symphony</label><br><input id="ctl00_cblServices_4" type="checkbox" name="ctl00$cblServices$4"><label for="ctl00_cblServices_4">Construct-Sub-meters</label><br><input id="ctl00_cblServices_5" type="checkbox" name="ctl00$cblServices$5"><label for="ctl00_cblServices_5">Control-Contract Management</label><br><input id="ctl00_cblServices_6" type="checkbox" name="ctl00$cblServices$6"><label for="ctl00_cblServices_6">Confirm-Utility Analysis</label></span>
-                                        </div>
-                                        <br>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td style="vertical-align: text-top;">
-                                        <label for="lblSoftware">
-                                            Software</label>
-                                    </td>
-                                    <td>
-                                        <div style="height: 110px; overflow: auto; border: solid 2px gray; margin-top: 0px;">
-                                            <span id="ctl00_cblSoftwares"><input id="ctl00_cblSoftwares_0" type="checkbox" name="ctl00$cblSoftwares$0"><label for="ctl00_cblSoftwares_0">Yardi</label><br><input id="ctl00_cblSoftwares_1" type="checkbox" name="ctl00$cblSoftwares$1"><label for="ctl00_cblSoftwares_1">AMSI-ESTIE</label><br><input id="ctl00_cblSoftwares_2" type="checkbox" name="ctl00$cblSoftwares$2"><label for="ctl00_cblSoftwares_2">MRI</label><br><input id="ctl00_cblSoftwares_3" type="checkbox" name="ctl00$cblSoftwares$3"><label for="ctl00_cblSoftwares_3">Realpage/Onesite</label><br><input id="ctl00_cblSoftwares_4" type="checkbox" name="ctl00$cblSoftwares$4"><label for="ctl00_cblSoftwares_4">RentManager</label><br><input id="ctl00_cblSoftwares_5" type="checkbox" name="ctl00$cblSoftwares$5"><label for="ctl00_cblSoftwares_5">Other</label></span>
-                                        </div>
-                                        <br>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td style="vertical-align: text-top;">
-                                        <label for="lblComments">
-                                            Comments</label>
-                                    </td>
-                                    <td>
-                                        <textarea name="ctl00$txtComments" rows="2" cols="20" id="ctl00_txtComments"></textarea>
-                                        
-                                        <br>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                    </td>
-                                    <td>
-                                        <input type="submit" name="ctl00$btnSubmit" value="Submit" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$btnSubmit&quot;, &quot;&quot;, true, &quot;requestform&quot;, &quot;&quot;, false, false))" id="ctl00_btnSubmit">
-                                        <img id="imgloader" src="Images/ajax-loader.gif" alt="loading" class="hide">
-                                        
-                                    </td>
-                                </tr>
-                            </tbody></table>
-                        </div>
-                    </div>
-                
-	</font></div>
-                <div id="ctl00_pnlEmpty" style="display: none; height: 10px; width: 10px;">
-		
-                
-	</div>
-            
-</div>
         
         
         <!--CONTENT PART OF THE PAGE!-->
@@ -904,7 +763,7 @@
                 padding-left: 50px; font-family: 'trebuchet MS'; font-size: 12px; color: #FFFFFF;">
                 
                 <ul id="marquee2" class="marquee">
-                    <li style="width: 800px; top: 8.89003px; left: 0px;" class="marquee-showing"><a href="Construct.aspx" style="color: White; text-decoration: none;">
+                    <li style="width: 800px; top: 8.5325px; left: 0px;" class="marquee-showing"><a href="Construct.aspx" style="color: White; text-decoration: none;">
                         INTRODUCING CONSTRUCT: METER MANAGEMENT SOLUTIONS INCLUDING ONLINE DAILY CONSUMPTION
                         REPORTING</a><br>
                     </li>
@@ -935,13 +794,13 @@
                 <a href="PrivacyPolicy.aspx" id="PrivacyPolicy" title="PrivacyPolicy" style="color: rgb(66, 70, 107);">privacy</a>
                 | <a href="ContactUs.aspx" title="ContactUs" id="ContactUs" style="color: rgb(66, 70, 107);">contact us</a> <b style="padding-left: 10px;
                     text-align: right">Copyright
-                    2011
+                    2012
                     Conservice Utility Management &amp; Billing</b>
                 <br>
             </div>
         </div>
-        <div id="ProductFooter1" align="center">
-            <div style="text-align: left; display: block; background-color: #FFFFFF; width: 900px;">
+        <div id="ProductFooter1" align="left">
+            <div style="text-align: center; display: block; background-color: #FFFFFF; width: 900px;">
                 <a href="Continum.aspx">
                     <img src="Images/ProductFooter_01.jpg" alt="Continum" style="border-style: none"></a>
                 <a href="Synergy.aspx">
@@ -956,8 +815,10 @@
                     <img src="Images/ProductFooter_06.jpg" alt="Construct" style="border-style: none"></a>
                 <a href="Confirm.aspx">
                     <img src="Images/ProductFooter_07.jpg" alt="Confirm" style="border-style: none"></a>
+                <a href="http://energyze.conservice.com">
+                    <img src="Images/ProductFooter_08.jpg" alt="Energyze" style="border-style: none"></a>
                 <a href="Conservation.aspx">
-                    <img src="Images/ProductFooter_08.jpg" alt="Go Green" style="border-style: none"></a>
+                    <img src="Images/ProductFooter_09.jpg" alt="Go Green" style="border-style: none"></a>
             </div>
         </div>
     </div>
@@ -983,9 +844,6 @@ Sys.Application.add_init(function() {
 });
 Sys.Application.add_init(function() {
     $create(AjaxControlToolkit.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","CancelControlID":"ctl00_imgbtnConstructCloseLogin","OnCancelScript":"clearConstructLogin();","PopupControlID":"ctl00_pnlConstructLogin","dynamicServicePath":"/PrivacyPolicy.aspx","id":"ctl00_ModalPopupConstructLogin"}, null, null, $get("ctl00_hfConstructLogin"));
-});
-Sys.Application.add_init(function() {
-    $create(AjaxControlToolkit.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","CancelControlID":"ctl00_CancelBtn","Drag":true,"OnCancelScript":"cancel();","PopupControlID":"ctl00_pnlForm","PopupDragHandleControlID":"ctl00_pnlEmpty","X":150,"Y":80,"dynamicServicePath":"/PrivacyPolicy.aspx","id":"ctl00_ModalPopupExtenderForm","repositionMode":0}, null, null, $get("ctl00_ctrlreqform"));
 });
 //]]>
 </script>
