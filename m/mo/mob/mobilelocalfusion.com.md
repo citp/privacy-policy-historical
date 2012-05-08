@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilelocalfusion.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225052728id_/http%3A//www.mobilelocalfusion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilelocalfusion.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508190148id_/http%3A//www.mobilelocalfusion.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mobile Local Fusion
 
