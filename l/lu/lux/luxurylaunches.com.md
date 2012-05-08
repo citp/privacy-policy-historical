@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the luxurylaunches.com privacy policy that was archived on 2008-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081010173656id_/http%3A//www.luxurylaunches.com/other_stuff/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxurylaunches.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508162313id_/http%3A//www.luxurylaunches.com/other_stuff/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Luxurylaunches.com
+# Privacy Policy
+
+* ### Privacy Policy
 
 User Information
 
@@ -15,6 +17,8 @@ Information such as your full name, profile photo and any personally identifiabl
 Luxurylaunches uses third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: (http://networkadvertising.org/consumer/opt_out.asp).
 
 Browser-type related information, IP address, requested URL, referring URL, and timestamp data help us diagnose problems with our server, administer Luxurylaunches, and otherwise provide the highest possible level of service to you. In addition, we use this information to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the site and to inform advertisers of such information as well as the number of users that have been exposed to, or clicked on, their advertising banners.
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
 Transfer of Information
 
@@ -39,6 +43,8 @@ Use of Cookies
 
 Like most websites, Luxurylaunches requires cookies to function properly. Cookies are small text files that reside on a user's computer and identify you as a unique user. We use cookies to refine our site and simplify the user experience. For example, the use of cookies allows registered users to enter our site without explicitly typing in their email address and password every time. You should be aware that Luxurylaunches cannot control the use of cookies by advertisers or any information advertisers may gather from their use of cookies. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature; however, you should note that cookies may be necessary to provide you certain features (e.g., customized delivery of information) available on the Luxurylaunches site.
 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+
 Security
 
 Your Luxurylaunches account is password-protected. Luxurylaunches tries very hard to protect our users' information. We use industry standard measures to protect your information that is stored within our database. We limit the access to your information to those employees who need access to perform their job function such as our customer service personnel. If you have any questions about the security at our website, please contact us. Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy.
@@ -58,3 +64,7 @@ Contact Us
 
 If you have any questions about this Privacy Policy, the privacy practices of this website, or if you want to exercise any of the rights that you are given under this Privacy Policy, you can contact Luxurylaunches@gmail.com.  
 
+
+by dhiram, on July 19, 2008 - 9:22 AM in [Other Stuff](http://www.luxurylaunches.com/other_stuff/) | [**Comments** ()](http://www.luxurylaunches.com/other_stuff/privacy_policy.php#comments) \- 
+
+[](http://pinterest.com/pin/create/button/?url=http://www.luxurylaunches.com/other_stuff/privacy_policy.php&media=)
