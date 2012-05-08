@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picsplash.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114021557id_/http%3A//www.picsplash.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picsplash.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508151715id_/http%3A//www.picsplash.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - ImageHyper
 
