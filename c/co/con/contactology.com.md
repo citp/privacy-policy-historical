@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the contactology.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224153956id_/http%3A//www.contactology.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contactology.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508042714id_/http%3A//www.contactology.com/privacy.php) for the most accurate reproduction.*
 
 # Contactology - Privacy Policy
 
 **Last updated: January 19, 2010**
 
-To report any abuse or violations of the Contactology service, please contact [support@contactology.com](https://web.archive.org/web/20111224153956id_/http%3A//www.contactology.com/support@contactology.com) We will follow up with you and make every effort to trace the origin of the message. 
+To report any abuse or violations of the Contactology service, please contact [support@contactology.com](mailto:support@contactology.com) We will follow up with you and make every effort to trace the origin of the message. 
 
 Contactology is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy policy covers the Web site [www.contactology.com.](http://www.contactology.com/) Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
@@ -106,7 +106,6 @@ By Phone: 866-363-0670
 
 By Email: [support@contactology.com](mailto:support@contactology.com)
 
-By Mail:   
-2530 Meridian Parkway   
-3rd Floor   
-Durham, North Carolina 27713 
+By Mail:  
+316 Holland Street Mall  
+Durham, North Carolina 27701
