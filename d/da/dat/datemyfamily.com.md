@@ -1,17 +1,15 @@
-> *The following text is extracted and transformed from the datemyfamily.com privacy policy that was archived on 2011-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111024222222id_/http%3A//www.datemyfamily.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datemyfamily.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508220807id_/http%3A//www.datemyfamily.com/privacy_ext.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy at DateMyFamily.com
 
 This privacy statement discloses the privacy practices for DatemyFamily.com.
 
-We are committed to protecting your privacy and encourage you to periodically review this page to be informed of how we protect the information you disclose to us. If you believe that DatemyFamily.com is not abiding by our posted privacy policy, please contact us at [info@DatemyFamily.com](mailto:info@datemyfamily.com)
+We are committed to protecting your privacy and encourage you to periodically review this page to be informed of how we protect the information you disclose to us. If you believe that DatemyFamily.com is not abiding by our posted privacy policy, please contact us at [info@DateMyFamily.com](mailto:info@DateMyFamily.com)
 
 DatemyFamily.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. DatemyFamily.com collects information from our users at several different points on our website.
 
- _How the information is used_
-
-:  
-During the registration process, depending on the type of account you choose to create, we collect a substantial amount of information. Both types of accounts, the Dating, and the Social Network account will both require basic information from the user in order to create a unique profile. During the registration process for the Dating portion of DatemyFamily.com we collect a great amount of private information through our questionnaire. This information is used to match single users with other single users according to their results, and is kept strictly confidential and will not be made public.
+How the information is used:  
+During the registration process, depending on the type of account you choose to create, we collect information such as first name, last name, email, and date of birth. Both types of accounts, the Dating, and the Social Network account will both require basic information from the user in order to create a unique profile. When completing your profile for the Dating portion of DatemyFamily.com, we collect a great amount of private information through our questionnaire and the “My Likes” section. This information is used to match single users with other single users according to their results, and is kept strictly confidential and will not be made public.
 
 Some other reasons why we collect information are to develop the products and services users want, manage the user’s account, provide the best quality customer service possible, perform research and analysis of the user’s behaviors relating to products, services, or content we or our advertisers and sponsors may provide, assure our Terms & Conditions of Use are being followed, customize advertising to individual user’s needs and wants, and to communicate with users about products, services, or special offers that DatemyFamily.com or our advertisers or sponsors may be offering.
 
@@ -19,27 +17,21 @@ Some information provided during the registration process, as well as through ou
 
 Some of the information needed during the registration process does not need to be provided, but neglecting to do so could cause the benefits of the website to be limited and may cause you to be unable to use some features and tools.
 
- _Exceptions to disclosing your information_
-
-:  
+Exceptions to disclosing your information:  
 In the case that a situation arises where the disclosure of your information is necessary in order to comply with a legal process, the law, any type of legal investigation, DatemyFamily.com will reserve the right to do so. DatemyFamily.com may also disclose your information if legal actions must be taken against an individual member, or in order to maintain proper operations of the website, as well as having to do so in order to maintain the safety and protection of an individual user if they are threatened in any way, at any point during the use of the website.
 
- _How we protect your information_
-
-:  
+How we protect your information:  
 DatemyFamily.com takes every precaution to protect our users' information. When users submit sensitive information via our website, their information is protected both online and off-line.
 
 When we asks users to enter sensitive information in the registration form, that information is handled encrypted and protected using Secure Socket Layers (SSL), the best encryption technology in the industry.
 
 The servers that we store personally identifiable information on are kept in a secure environment under restricted access.
 
-If you have any questions about the security at our website or need more information, feel free to contact us at [info@DatemyFamily.com](mailto:info@datemyfamily.com)
+If you have any questions about the security at our website or need more information, feel free to contact us at [info@DateMyFamily.com](mailto:info@DateMyFamily.com)
 
 Our address is:
 
-**DatemyFamily.com**  
+DatemyFamily.com  
 15970 W State Road 84  
 Suite #349  
 Weston, FL 33326 USA
-
-Phone: 754.444.0809
