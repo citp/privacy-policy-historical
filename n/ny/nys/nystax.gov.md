@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nystax.gov privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427101447id_/http%3A//www.tax.ny.gov/help/tech/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nystax.gov privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509042414id_/http%3A//nystax.gov/help/tech/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -61,7 +61,7 @@ DTF will regard provision of an email address by a site user, taxpayer or taxpay
 
 Retention of Information Collected Through this Web site
 
-The information collected through this Web site is retained by DTF in accordance with the records retention and disposition requirements of the New York State Arts & Cultural Affairs Law. Information on the requirements of the Arts & Cultural Affairs Law may be found at <http://www.archives.nysed.gov/a/records/mr_retention.shtml>. In general, the Internet services logs of DTF, comprising electronic files or automated logs created to monitor access and use of DTF services provided through this Web site, are retained for at least three months. Information that you submit in an email or when you conduct an online transaction is retained in accordance with the records retention and disposition schedule established for the records of the program unit to which you submitted the information.
+The information collected through this Web site is retained by DTF in accordance with the records retention and disposition requirements of the New York State Arts & Cultural Affairs Law. Information on the requirements of the Arts & Cultural Affairs Law may be found at <http://www.archives.nysed.gov/a/records/mr_laws_state.shtml>. In general, the Internet services logs of DTF, comprising electronic files or automated logs created to monitor access and use of DTF services provided through this Web site, are retained for at least three months. Information that you submit in an email or when you conduct an online transaction is retained in accordance with the records retention and disposition schedule established for the records of the program unit to which you submitted the information.
 
 Access to and Correction of Personal Information Collected Through this Web site
 
