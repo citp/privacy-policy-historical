@@ -1,159 +1,145 @@
-> *The following text is extracted and transformed from the personalcapital.com privacy policy that was archived on 2004-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041212034649id_/http%3A//www.networksolutions.com/en_US/legal/privacy-policy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personalcapital.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509072431id_/https%3A//www.personalcapital.com/content/docs/Personal_Capital_Privacy_Policy.pdf) for the most accurate reproduction.*
 
-# Privacy Policy | Network Solutions
+# FACTS
 
-Privacy Policy  
-
-
-  
-Updated September 30, 2004  
-Version 2.4
-
-**Privacy Topics  
-**   
-Why A Privacy Policy?  
-Getting to Know our Customers  
-Third Party Advertising and Cookies  
-Information Corrections or Changes  
-How We Put Information to Good Use  
-With Whom We May Share Information  
-How Do I Get My Name Removed from Bulk Access  
-Our Accountability to You  
-Employee Accountability  
-The Accountability of Network Solutions' Agents and Business Partners  
-Notification of Changes
-
-**Why A Privacy Policy?**   
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
-
-**This Privacy Policy protects your privacy by:**
-
-**Informing you about:**
-
-  * The types of personal information Network Solutions collects about you through its Web sites;
-  * How it collects that information;
-  * The general purposes for which it collects such information;
-  * The types of organizations to which it discloses the information;
-  * The choices and means by which individuals may limit its use and disclosure.
-
-**Empowering you to choose:**  
-
-
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it).
-
-**Assuring you that Network Solutions:**  
+                                     Personal Capital Privacy Policy
+                                                                                                        Rev. 01/12
+FACTS               WHAT DOES PERSONAL CAPITAL DO
+                    WITH YOUR PERSONAL INFORMATION?
+Why?                Financial companies choose how they share your personal information. Federal law
+                    gives consumers the right to limit some but not all sharing. Federal law also requires us
+                    to tell you how we collect, share, and protect your personal information. Please read
+                    this notice carefully to understand what we do.
+What?               The types of personal information we collect and share depend on the product or
+                    service you have with us. This information can include:
+                            Social Security Number and Income
+                            Account Balances and Payment History
+                            Credit History and Credit Scores
+                            Investment objective and profile information (such as your name, date of birth
+                             and contact information)
+                            Tax data, such as investment securities cost basis and income tax bracket
+                            Encrypted log-in credentials for purpose of auto-login
+                            Service and device usage
+                            Other appended or shared profile information
+                    For our Personal Financial Advisor Service, we do not collect or share the first three
+                    bullet items above; however, we may collect and share all of the above information to
+                    provide our Investment Advisory Services.
+                    When you are no longer our customer, we will continue to share your information as
+                    may be required by law.
+How?                All financial companies need to share customers’ personal information to run their
+                    everyday business. In the section below, we list the reasons financial companies can
+                    share their customers’ personal information; the reasons Personal Capital chooses to
+                    share; and whether you can limit this sharing.
+Reasons we can share your                            Does Personal                 Can you limit this
+personal information                                 Capital share?                sharing?
+For our everyday business purposes —                             Yes                           No
+such as to process your transactions,
+maintain your account(s), respond to court
+orders and legal investigations, or report to
+credit bureaus
+For our marketing purposes —to offer our                         Yes                           No
+products and services to you
+LEGAL_US_W # 67949114.2
 
 
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction;
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered;
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate.
-
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
-
-**Getting to Know Our Customers**
-
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
-
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at [www.networksolutions.com](https://web.archive.org/web/20041212034649id_/http%3A//www.networksolutions.com/en_US/legal/www.networksolutions.com;jsessionid=QIXOXXRHSGEHECWKEAQSFEY) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
-
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
-
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
-
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
-
-**Third Party Advertising and Cookies**
-
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit <http://www.doubleclick.net/us/corporate/privacy>. 
-
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click [here](http://www.privacychoices.org/ "http://www.privacychoices.org/"). 
-
-**Information Corrections or Changes  
-**   
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
-
-**How We Put Information to Good Use  
-**   
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
-
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
-
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
-
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
-
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
-
-**With Whom We May Share Information  
-**   
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
-
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
-
-We may share certain information about you with those of our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share sensitive financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors where necessary and appropriate, we will not share such information with other third parties, except in response to formal requests (e.g., subpoena or court order) made in connection with litigation, arbitration, or criminal proceedings directly relating to a domain name registration or other services we provide, or as directed by you or your agent. 
-
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
-
-  1. Log into Account Manager at [www.networksolutions.com](https://web.archive.org/web/20041212034649id_/http%3A//www.networksolutions.com/en_US/legal/www.networksolutions.com;jsessionid=QIXOXXRHSGEHECWKEAQSFEY "www.networksolutions.com");  
-
-  2. Click “Edit User Info” in the left menu;  
-
-  3. Scroll to the bottom of the page;  
-
-  4. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and  
-
-  5. Click “SAVE.”  
+For joint marketing with other financial                          Yes                            No
+companies
+For our affiliates’ everyday business                             Yes                            No
+purposes —information about your
+transactions and experiences
+For our affiliates’ everyday business                             Yes                            Yes
+purposes — information about your
+creditworthiness
+For our affiliates to market to you                               Yes                            No
+For non-affiliates to market to you                               No                             No
+Questions?          Call toll-free 855-855-8005 or go to www.personalcapital.com
+Who we are
+Who is providing this                    This notice applies to all Personal Capital services, including those
+notice?                                  offered by Personal Capital Corporation and its subsidiaries,
+                                         Personal Capital Advisors Corporation (an SEC registered
+                                         investment adviser), Personal Capital Services Corporation, and
+                                         Personal Capital Technology Corporation.
+What we do
+How does Personal Capital                To protect your personal information from unauthorized access and
+protect my personal                      use, we use security measures that comply with federal law. These
+                                         measures include computer safeguards and secured files and
+information?
+                                         buildings.
+How does Personal Capital                We collect your personal information, for example, when you
+collect my personal                            Open an Account or Deposit Money
+information?
+                                               Use your credit or debit card
+                                               Enroll for a new Personal Capital service
+                                               Give us your contact information
+                                               Utilize the account aggregation and password management
+                                                function
+                                               Use your 3rd party institution products that are aggregated
+                                               Utilize the web, smartphone and tablet service
+                                               Communicate with a Personal Capital financial advisor or
+                                                representative
+                                         We may also collect your personal information from other sources,
+                                         such as our affiliates or other companies.
+Why can’t I limit all                    Federal law gives you the right to limit only:
+sharing?                                       sharing for affiliates’ everyday business purposes—
+                                                information about your creditworthiness
+LEGAL_US_W # 67949114.2
 
 
-  
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
+                                               affiliates from using your information to market to you
+                                               sharing for non-affiliates to market to you
+                                       State laws and individual companies may give you additional rights
+                                       to limit sharing. See below for more on your rights under state law.
+Definitions
+Affiliates                           Companies related by common ownership or control. They can be
+                                     financial and nonfinancial companies.
+                                          Any affiliated entities using the Personal Capital name
+                                              including, without limitation, Personal Capital Advisors
+                                              Corporation (an SEC registered investment adviser), Personal
+                                              Capital Technology Corporation, and Personal Capital Services
+                                              Corporation.
+Non- Affiliates                      Companies not related by common ownership or control.
+                                     They can be financial and nonfinancial companies.
+Joint Marketing                      A formal agreement between nonaffiliated financial
+                                     companies that together market financial products or
+                                     services to you.
+Other Important Information
+Investment Advisory Services
+Personal Capital Advisors Corporation is an investment advisor registered with the Securities and
+Exchange Commission since August 1, 2011. The Firm provides investment advisory services to its
+Clients. Personal Capital offers a full suite of integrated money management services, including personal
+portfolio management, cash management, and personal financial management services. The web,
+mobile, tablet, and personal financial management software portion of the Advisory Service is delivered
+through Personal Capital Technology Corporation, another subsidiary of Personal Capital.
+Personal Financial Advisor Service
+Personal Capital Advisors’ Personal Financial Advisor Service is a complimentary investment advisory
+service where Personal Capital Advisors provides investment advice based on the client’s third party
+investment accounts that have been linked through our financial aggregation service, as well as limited
+information about the client’s investment situation provided by the client.
+** We will share your personal information for our affiliates to market to you. If you would like
+to limit this sharing, you will not be able to use our services.
+For California Residents- Personal Capital must comply with California Financial Information Privacy
+Act (SB1) if the firm does business with California consumers. California state law requires financial
+institutions to obtain your consent prior to sharing information about you with non-affiliated third
+parties. Except as permitted by law, we will not share information we collect about you with non-
+affiliated third parties while you are a resident of California.
+LEGAL_US_W # 67949114.2
 
-**How Do I Get My Name Removed from Bulk Access  
-**   
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
 
-  1. Log into Account Manager at [www.networksolutions.com](https://web.archive.org/web/20041212034649id_/http%3A//www.networksolutions.com/en_US/legal/www.networksolutions.com;jsessionid=QIXOXXRHSGEHECWKEAQSFEY "www.networksolutions.com");  
-
-  2. Click “Edit User Info” in the left menu;  
-
-  3. Scroll to the bottom of the page;  
-
-  4. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and  
-
-  5. Click “SAVE.”   
-
-
-
-
-**Our Accountability to You  
-**   
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
-
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
-
-**Employee Accountability  
-**   
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
-
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
-
-**The Accountability of Network Solutions' Agents and Business Partners  
-**   
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
-
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at [privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
-
-Network Solutions, LLC  
-Attention: General Counsel  
-13200 Woodland Park Drive  
-Herndon, VA 20171  
-(703) 668-4600 
-
-**Notification of Changes  
-**   
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to [privacy@networksolutions.com](mailto:privacy@networksolutions.com).
-
-**If you have any questions regarding this Privacy Policy, please contact[privacy@networksolutions.com](mailto:privacy@networksolutions.com).   
-**
+For Vermont Residents — We will not share your personal information with non-affiliates, except for
+our everyday business and marketing purposes, unless you agree to such sharing on a separate form
+that we will send you. Also, we will not share information about your creditworthiness with affiliates
+unless you agree to such sharing. You do not have to contact us to implement these limits on our
+sharing. We may share information about your transactions and experiences with affiliates for their
+everyday business purposes and to market to you, but you can stop them from using your information
+for marketing by calling us at the toll-free number above.
+For Nevada residents only. Nevada law requires that we provide you with the following contact
+information: Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington
+St., Suite 3900, Las Vegas, NV 89101; Phone number- 702.486.3132; email: BCPINFO@ag.state.nv.us.
+Cookies– We use first-party and third-party cookies. Cookies are small text files sent by a Web site
+server to your Web browser and stored on your computer. The use of cookies helps us understand how
+you are using our Web site. They allow us to improve the security, content, navigation and functionality
+of the Web site. Additionally, we use cookies on our Web sites and the sites on which we advertise to
+track and improve marketing performance. Cookies are not used to collect or disseminate any of your
+personal information.
+© 2012 Personal Capital. All rights reserved. 1/12
+LEGAL_US_W # 67949114.2
