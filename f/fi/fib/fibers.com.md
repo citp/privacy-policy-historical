@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fibers.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127030211id_/http%3A//www.fibers.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fibers.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509205519id_/http%3A//www.fibers.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fibers.com
 
@@ -54,3 +54,5 @@ hen you utilize certain services offered by Fibers.com, some information may be 
 13.  BEHAVIORAL ADVERTISING:
 
 We partner to serve ads and/or collect certain information when you visit our website. FetchBack may use cookies or web beacons to collect non-personally identifiable information such as IP Address, pages viewed, and if a conversion occurred during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit www.networkadvertising.org.
+
+This site also uses ClickTale web analytics service. ClickTale may record clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for information Collected by the ClickTale Web Analytics Service. We are using the information collected by ClickTale service to improve the website experience.. You can choose to disable the Service at http://www.clicktale.net/disable.html
