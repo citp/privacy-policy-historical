@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mastercard.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011055731id_/http%3A//www.mastercard.com/us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mastercard.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510001210id_/http%3A//www.mastercard.com/privacy) for the most accurate reproduction.*
 
 # MasterCard Global Privacy Policy — United States | MasterCard®
 
