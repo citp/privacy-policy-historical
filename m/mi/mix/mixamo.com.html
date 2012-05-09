@@ -1,47 +1,17 @@
-<!--The following is the downloaded HTML source of the mixamo.com privacy policy that was archived on 2011-11-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111108231005id_/http%3A//www.mixamo.com/home/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mixamo.com privacy policy that was archived on 2012-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120509230049id_/http%3A//www.mixamo.com/home/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-  <script type="text/javascript" language="JavaScript">
-  	var MixamoTimeTracker = {};
-    MixamoTimeTracker.javascript_start_time = (new Date()).getTime();
-	MixamoTimeTracker.buckets = [125, 250, 500, 1000, 2000, 4000, 8000 , 16000];
-    MixamoTimeTracker.record_time = function( category ) {
-        var milliseconds = (new Date()).getTime() - MixamoTimeTracker.javascript_start_time;
-        Mixamo.console.info( "TIME TRACKER - " + category + ": " + milliseconds + "ms" );
-		var i;
-		var bucketString;
-		var bucket_ = MixamoTimeTracker.buckets;
-		for(i = 0; i < bucket_.length; i++) {
-		    if ( milliseconds < bucket_[i]) {
-		      if (i == 0) {
-		        bucketString = "0-" + (bucket_[0]);
-		        break;
-		      } else {
-		        bucketString = bucket_[i - 1] + "-" + (bucket_[i] - 1);
-		        break;
-		      }
-		    }
-		}
-		if (!bucketString) {
-		    bucketString = bucket_[i - 1] + "+";
-		}
-
-		Mixamo.GoogleAnalytics.trackEvent( "Time_" + category ,  bucketString , "" , milliseconds );
-    };
-  </script>
-  
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html class="splash"><head><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
   <meta http-equiv="content-type" content="text/html;charset=UTF-8">
-  <link rel="shortcut icon" href="/favicon.ico">
+  <link rel="shortcut icon" href="/favicon.ico"> 
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+
   <title>
     Mixamo: Privacy
   </title>
-  
-  
     <script type="text/javascript">
 //<![CDATA[
-AUTH_TOKEN = "QJDcu8S8BzMY+ZCjhK3HzuXcLPXIfVQ5HUGTEOnQLRY=";
+AUTH_TOKEN = "zo/uNSiqEiAP2gIBbq55wzTcqVrByG/8yilY7jZN6B0=";
 //]]>
 </script>
 
@@ -53,12 +23,12 @@ AUTH_TOKEN = "QJDcu8S8BzMY+ZCjhK3HzuXcLPXIfVQ5HUGTEOnQLRY=";
 
 
 
-<script src="http://assets1.mixamo.com/assets/headers.js?1319674601" type="text/javascript"></script>
+<script src="http://assets1.mixamo.com/assets/headers.js?1335905682" type="text/javascript"></script>
 <!--[if (!IE)|(gte IE 8)]><!-->
-<link href="http://assets2.mixamo.com/assets/headers-datauri.css?1319674603" media="screen" rel="stylesheet" type="text/css">
+<link href="http://assets2.mixamo.com/assets/headers-datauri.css?1335903303" media="screen" rel="stylesheet" type="text/css">
 <!--<![endif]-->
 <!--[if lte IE 7]>
-<link href="http://assets2.mixamo.com/assets/headers.css?1319674602" media="screen" rel="stylesheet" type="text/css" />
+<link href="http://assets2.mixamo.com/assets/headers.css?1335903303" media="screen" rel="stylesheet" type="text/css" />
 <![endif]-->
 
 <script type="text/javascript">
@@ -66,12 +36,12 @@ AUTH_TOKEN = "QJDcu8S8BzMY+ZCjhK3HzuXcLPXIfVQ5HUGTEOnQLRY=";
 
 
 Mixamo.enable_log_collection = function() {
-	return false;
+	return true;
 }
 	
 Mixamo.preview_url = function( code )
 {
-	return "http://www.mixamo.com/v/XXXXXX".replace( "XXXXXX" , code.toString() );
+	return "/"; // disabling preview urls (see MXMO-298)
 }
 
 Mixamo.go_to_cart_url = function( id )
@@ -79,11 +49,11 @@ Mixamo.go_to_cart_url = function( id )
 	return "/cart";
 }
 
-Mixamo.can_use_advanced_motion_packs = false;
+Mixamo.can_use_advanced_motion_packs = true;
 
 function show_flash_notice( str ) {
 	if($("#flash-notice").length == 0 ) {
-		$("div#layout-middle-window").prepend('<div id="flash-notice-container" align="center"><table id="flash-notice"><tr><td><div class="containing-box"><img align="left" alt="Alert" src="http://assets2.mixamo.com/images/icons/alert.gif?1319672948" /> <div id="flash-text">$$$</div><div class="clear"></div></div></td></tr></table></div>'.replace( "$$$" , str ) );
+		$("div#layout-middle-window").prepend('<div id="flash-notice-container" align="center"><table id="flash-notice"><tr><td><div class="containing-box"><img align="left" alt="Alert" src="http://assets2.mixamo.com/images/icons/alert.gif?1335898687" /> <div id="flash-text">$$$</div><div class="clear"></div></div></td></tr></table></div>'.replace( "$$$" , str ) );
 	} else {
 		$("#flash-text").html(str);
 	}
@@ -103,7 +73,7 @@ function destroy_flash_notice( ) {
 
 Mixamo.GoogleAnalytics = {
 	google_analytics_url: function(url) {
-		return( url + (( url.indexOf("?") >= 0 ) ? "&" : "?") + '__ab__=|jnyx2h|lah07o|');
+		return( url + (( url.indexOf("?") >= 0 ) ? "&" : "?") + '__ab__=|09gf9p|c4ab3w|g4cvha|41ibrf|dfvexk|je5tm7|egm05l|xo1zjf|a89par|lah07o|w0j6yy|fwm0jp|');
 	},
     
 	trackPageview: function(url) {
@@ -123,13 +93,25 @@ Mixamo.GoogleAnalytics = {
     }
 }
 
-Mixamo.Unity_Version = '1319673032';
+<!-- Viewer filename is controlled by AB -->
 
+Mixamo.Unity_Viewer_Path = "/unity-viewer/MixamoViewer.unity3d";
+
+
+
+<!-- Store Rails generated asset ids for use in later, not dynamically generated Javascript -->
 Mixamo.Unity_Asset_Versions = {}
-Mixamo.Unity_Asset_Versions["/unity-viewer/MixamoViewer.unity3d"] = '1319673032'
-Mixamo.Unity_Asset_Versions["/unity-viewer/MixamoWallboardViewer.unity3d"] = '1319673032'
+Mixamo.Unity_Asset_Versions["/unity-viewer/MixamoViewer.unity3d"] = '1335898472'
+Mixamo.Unity_Asset_Versions["/unity-viewer/MixamoViewer-PrefetchTweaks.unity3d"] = '1335898472'
+Mixamo.Unity_Asset_Versions["/unity-viewer/MixamoWallboardViewer.unity3d"] = '1335898472'
+if(Mixamo.Unity_Asset_Versions[Mixamo.Unity_Viewer_Path] == undefined)
+    alert("Mixamo messed up.  Please contact Mixamo. (Unity_Asset_Versions blank for viewer)");
 
-Mixamo.AbFacade = {"pricing_baseline_multiplier":1.0,"grace_activation_period_minutes":1440,"subscription_offers":[13,9,10,11,14],"prepay_offers":[13,14,16,17,18,21,20],"pricing_levels":{},"skeleton_reminder_email_hours":24,"autorig_followup_delay_hours":24,"unity_verifier_version":"editor","alt_change_character_location":"none","landingpage_override":"","user_referral_promotions":[],"autorigging_offer":0,"autorigging_offer_high":0,"autorigging_offer_low":0,"custom_character_offer":0,"cms_override_0":{},"cms_override_1":{},"cms_override_2":{},"cms_override_3":{},"cms_override_4":{},"cms_override_5":{},"cms_override_6":{},"cms_override_7":{},"cms_override_8":{},"cms_override_9":{},"cms_override_10":{},"cms_override_11":{},"cms_override_12":{},"cms_override_13":{},"cms_override_14":{},"cms_override_15":{},"cms_override_16":{},"cms_override_17":{},"cms_override_18":{},"cms_override_19":{}};
+<!-- unused? -ewebb 20120126 -->
+Mixamo.Unity_Version = '1335898472';
+
+
+Mixamo.AbFacade = {"pricing_baseline_multiplier":1.0,"grace_activation_period_minutes":1440,"subscription_offers":[9,10,11,14],"prepay_offers":[13,14,16,17,18,21,20],"pricing_levels":{},"skeleton_reminder_email_hours":72.0,"autorig_followup_delay_hours":24,"unity_verifier_version":"editor","alt_change_character_location":"clip_editor","landingpage_override":"","user_referral_promotions":[56],"autorigging_offer":0,"autorigging_offer_high":19,"autorigging_offer_low":18,"custom_character_offer":2,"viewer_filename":"MixamoViewer.unity3d","cms_override_0":{"dragon_animation":"dragon_animation"},"cms_override_1":{"cat_animation":"cat_animation"},"cms_override_2":{},"cms_override_3":{"unity-lerpz":"unity"},"cms_override_4":{"animal_animation_and_rigging":"animal_motions_rd"},"cms_override_5":{},"cms_override_6":{},"cms_override_7":{},"cms_override_8":{},"cms_override_9":{},"cms_override_10":{},"cms_override_11":{},"cms_override_12":{},"cms_override_13":{},"cms_override_14":{},"cms_override_15":{},"cms_override_16":{},"cms_override_17":{},"cms_override_18":{"home/main":"home2"},"cms_override_19":{"home/main-loggedin":"home2"}};
 
 <!-- manually inserted -->
 
@@ -144,7 +126,7 @@ Mixamo.viewCharacterSpecialMotionId = 386;
 </script>
   
   
-   
+
   
 	<style type="text/css">
 		div.privacy-policy {
@@ -157,46 +139,11 @@ Mixamo.viewCharacterSpecialMotionId = 386;
 		
 	</style>
 
-	
-	<script type="text/javascript">
-//<![CDATA[
-
-			$(document).ready( function() {
-			  Mixamo.Menubar.load("div.tab-sublinkable");
-			  
-				
-			  
-				setCookie( "tz" , calculate_time_zone() );	
-			  
-			  
-			  
-			  
-			  
-			  	Mixamo.ApplicationSidebar.load(true);
-			  
-			  
-				
-				
-				
-				
-				
-				
-			});
-	
-//]]>
-</script>
-
-<!-- GET SATISFACTION FEEDBACK WIDGET -->		
-	
-<!-- END OF WIDGET -->
-
 </head>
 
 <body>
 
-
-
-
+		
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -205,270 +152,16 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 try{
 var pageTracker = _gat._getTracker("UA-7470907-1");
 
-pageTracker._trackPageview( '/home/privacy?__ab__=|jnyx2h|lah07o|' );
+pageTracker._trackPageview( '/home/privacy?__ab__=|09gf9p|c4ab3w|g4cvha|41ibrf|dfvexk|je5tm7|egm05l|xo1zjf|a89par|lah07o|w0j6yy|fwm0jp|' );
 } catch(err) {}</script>
 
-<div style="height: 100%;width: 100%;">
-	<div id="layout-root">
-		
-		<div id="application-sidebar" style="left: 965px;visibility:hidden;">
-			<div class="app-sidebar-top"></div>
-			<div class="app-sidebar-middle">
-				<div class="contents">
-					<div class="header">What you can do on Mixamo</div>
-					
-					
-						<div id="sidebar-task-signup" class="todo">
-							<div class="checbox-icon"></div>
-							<p>
-							Create <a href="http://www.mixamo.com/signup">Free Account</a>
-							</p><div class="todoHelpPopupLink" href="#nogo" onclick="Mixamo.help('Create a free account in seconds to check out our 3D animation editing interface.');return false;"></div>
-							<p></p>
-						</div>
-					
-						<div id="sidebar-task-explore" class="todo todoDisabled">
-							<div class="checbox-icon"></div>
-							<p>
-							<a href="http://www.mixamo.com/motions">Explore</a> Motions Collection
-							</p><div class="todoHelpPopupLink" href="#nogo" onclick="Mixamo.help('Search and discover motions of all types on this page. Use filters and tags to find groups of motions, or simply use the search box.');return false;"></div>
-							<p></p>
-						</div>
-					
-						<div id="sidebar-task-customize" class="todo todoDisabled">
-							<div class="checbox-icon"></div>
-							<p>
-							Customize Motions in Real-time
-							</p><div class="todoHelpPopupLink" href="#nogo" onclick="Mixamo.help('Use Mixamo\'s simple customization sliders to change the motion in real-time.  These \&quot;director-level\&quot; controls make it easy to customize Mixamo motions into 1,000,000+ unique animations.');return false;"></div>
-							<p></p>
-						</div>
-					
-						<div id="sidebar-task-skeleton" class="todo todoDisabled">
-							<div class="checbox-icon"></div>
-							<p>
-							<a href="http://www.mixamo.com/skeletons/new">Upload</a> a Character
-							</p><div class="todoHelpPopupLink" href="#nogo" onclick="Mixamo.help('Mixamo will automatically retarget any motions onto your character after you upload your character.  Mixamo seamlessly supports many character types, such as 3ds Max Biped System.  For custom characters, Mixamo provides an easy mapping wizard.');return false;"></div>
-							<p></p>
-						</div>
-					
-						<div id="sidebar-task-custom_character" class="todo todoDisabled">
-							<div class="checbox-icon"></div>
-							<p>
-							<a href="http://www.mixamo.com/editor/new_character">Create</a> a Character
-							</p><div class="todoHelpPopupLink" href="#nogo" onclick="Mixamo.help('Create a fully-rigged character using Mixamo\'s new Character Creation feature. Pick your character\'s sex and outfit and then use intuitive sliders to customize body shape and colors.');return false;"></div>
-							<p></p>
-						</div>
-					
-						<div id="sidebar-task-download" class="todo todoDisabled">
-							<div class="checbox-icon"></div>
-							<p>
-							Download a Motion
-							</p><div class="todoHelpPopupLink" href="#nogo" onclick="Mixamo.help('Download a motion into your character scene or pipeline to verify how easy it is to use the Mixamo service. You can test this out immediately by downloading the free demo motion!  It is also on download where you can use Mixamo\'s keyframe reduction feature and specify which formats you prefer.');return false;"></div>
-							<p></p>
-						</div>
-					
-					
-					
-					
-				</div>
-				<div class="percentComplete">
-						0% Complete
-					</div>
-				<div class="showHide" onclick="return Mixamo.ApplicationSidebar.toggle();"></div>
-				<div class="clear"></div>
-			</div>
-			<div class="app-sidebar-bottom"></div>
+		<div id="splash-logo">
+			<img alt="mixamo" src="http://assets2.mixamo.com/images/logo-medium.png?1335898687">
+			<div class="tagline" style="font-size: 16px;">animation in seconds</div>
 		</div>
-		
-		<div id="layout-header">
-			
-		    <div class="right-bar" align="center">
-		    	
-			  
-			  	
-					<div style="margin-bottom: 3px;">
-					<form action="http://www.mixamo.com/sessions/login" class="new_user_session" id="new_user_session" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="QJDcu8S8BzMY+ZCjhK3HzuXcLPXIfVQ5HUGTEOnQLRY="></div>
-
-    
-
-    <span id="micro-login">
-		<input name="user_session[remember_me]" type="hidden" value="0"><input id="user_session_remember_me" name="user_session[remember_me]" type="checkbox" value="1"> Remember Me
-        <a href="http://www.mixamo.com/users/new_password">Forgot your password?</a><br>
-		Login:
-	    <span class="login-box"><input id="user_session_login" name="user_session[login]" onblur="if( this.value == '') { this.value = 'Username'; $(this).css( 'color' , '#9e9e9e' );} " onclick="if( this.value == 'Username') { this.value = ''; $(this).css( 'color' , '#000000' ); }" size="15" style="color: #9e9e9e;" type="text" value="Username"></span>
-	    <span class="pwd-box"><input id="user_session_password" name="user_session[password]" size="15" style="display: none;width: 120px; " type="password"><input id="pwdPlaceHolder" name="pwdPlaceHolder" onfocus="$(this).hide();$('input#user_session_password').show().focus();" size="15" style="width: 120px; color: #9E9E9E" type="text" value="Password"></span>
-
-
-        <input class="fixed-generic-button-75" name="commit" type="submit" value="Login">
-	</span>
-</form>
-
-					</div>
-					<div class="divider" align="center"></div>
-				
-		      
-			  
-		    </div>
-		    <div class="logo">
-		    	<a href="http://www.mixamo.com/"><img alt="mixamo" src="http://assets3.mixamo.com/images/logo.png?1319672948"></a>
-				<div class="tagline">animation in seconds</div>
-		    </div>
-			
-		    <div class="tabbed-menu" style="width: 972px;">
-				<div class="tab tab-start" style="width: 26px;"></div>
-				
-				
-				
-					<div class="tab">
-								
-						
-						<div class="tab tab-left" style="width: 10px;"></div>
-						<div class="tab tab-middle" style="width: 70px;">
-							<span class="tab-headingtext">
-								<a href="http://www.mixamo.com/">home</a>
-								
-							</span>
-							
-						</div>
-						<div class="tab tab-right" style="width: 10px;"></div>
-					</div>
-				
-					<div class="tab">
-								
-						
-						<div class="tab tab-left" style="width: 10px;"></div>
-						<div class="tab tab-middle" style="width: 103px;">
-							<span class="tab-headingtext">
-								<a href="http://www.mixamo.com/characters/new">characters</a>
-								
-							</span>
-							
-						</div>
-						<div class="tab tab-right" style="width: 10px;"></div>
-					</div>
-				
-					<div class="tab">
-								
-						
-						<div class="tab tab-left" style="width: 10px;"></div>
-						<div class="tab tab-middle" style="width: 79px;">
-							<span class="tab-headingtext">
-								<a href="http://www.mixamo.com/motions">motions</a>
-								
-							</span>
-							
-						</div>
-						<div class="tab tab-right" style="width: 10px;"></div>
-					</div>
-				
-					<div class="tab">
-								
-						
-						<div class="tab tab-left" style="width: 10px;"></div>
-						<div class="tab tab-middle tab-greyed-out" style="width: 63px;">
-							<span class="tab-headingtext">
-								<a href="http://www.mixamo.com/motions">editor</a>
-								
-							</span>
-							
-						</div>
-						<div class="tab tab-right" style="width: 10px;"></div>
-					</div>
-				
-					<div class="tab tab-sublinkable">
-								
-						
-						<div class="tab tab-left" style="width: 10px;"></div>
-						<div class="tab tab-middle" style="width: 65px;">
-							<span class="tab-headingtext">
-								<a href="http://www.mixamo.com/home/help">help</a>
-								
-									<em class="sublink_arrow mixamo_menubar_selector"></em>
-								
-							</span>
-							
-								
-								<div class="sublink_nav_menu mixamo_menubar_menu" style="visibility: hidden;">
-<ul><li class="first"><a href="http://www.mixamo.com/c/help">General</a></li>
-<li class="middle"><a href="http://www.mixamo.com/c/faq">FAQ</a></li>
-<li class="middle"><a href="http://www.mixamo.com/c/tutorials">Tutorials</a></li>
-<li class="middle"><a href="http://www.mixamo.com/c/workflows">Workflows</a></li>
-<li class="middle"><a href="http://www.mixamo.com/c/articles/main">Articles</a></li>
-<li class="last"></li></ul>
-								</div>
-							
-						</div>
-						<div class="tab tab-right" style="width: 10px;"></div>
-					</div>
-				
-					<div class="tab tab-sublinkable">
-								
-						
-						<div class="tab tab-left" style="width: 10px;"></div>
-						<div class="tab tab-middle" style="width: 100px;">
-							<span class="tab-headingtext">
-								<a href="http://www.mixamo.com/c/services">services</a>
-								
-									<em class="sublink_arrow mixamo_menubar_selector"></em>
-								
-							</span>
-							
-								
-								<div class="sublink_nav_menu mixamo_menubar_menu" style="visibility: hidden;">
-<ul><li class="first"><a href="http://www.mixamo.com/c/services">Overview</a></li>
-<li class="middle"><a href="http://www.mixamo.com/c/savings">Savings/ROI</a></li>
-<li class="middle"><a href="http://www.mixamo.com/c/customers">Our Customers</a></li>
-<li class="middle"><a href="http://www.mixamo.com/c/showcase">Showcase</a></li>
-<li class="middle"><a href="http://www.mixamo.com/c/purchasing-options">Buy Mixamo Credits</a></li>
-<li class="last"></li></ul>
-								</div>
-							
-						</div>
-						<div class="tab tab-right" style="width: 10px;"></div>
-					</div>
-				
-				<div class="tab tab-empty" style="width: 6px;"></div>
-				
-				<div class="tab tab-search-left" style="width: 45px;"></div>
-				<div class="tab search" style="width: 204px;">
-					<div style="padding-top: 5px;">
-			      		
-							<!--<form action="http://www.mixamo.com/search/query" id="search-box-submit-form" method="get" onsubmit="return (this.q.value!='Search Motions' &amp;&amp; this.q.value != '')">
-  <div class="search-box-container">
-    <input class="searchbox" id="q" name="q" onblur="if( this.value == '') { this.value = 'Search Motions'; $(this).css( 'color' , '#9e9e9e' );}" onfocus="if( this.value == 'Search Motions') { this.value = ''; $(this).css( 'color' , '#000000' );}" size="20" style="color: #9e9e9e;" type="text" value="Search Motions" />
-    <input id="search-box-type" name="search_type" type="hidden" value="motions" />
-	<input class="searchsubmitbtn" name="commit" onclick="Mixamo.console.info( 'goovers' );$('.search-box-type-list').toggle();return false;" type="submit" value="Search" />
-	<div class="search-box-type-list" style="visibility: hidden;">
-		<div class="option" onclick="$('#search-box-type').val('motion');$('#search-box-submit-form').submit();">Motion</div>
-		<div class="option" onclick="$('#search-box-type').val('site');$('#search-box-submit-form').submit();">Site</div>
-	</div>
-  </div>
-</form>-->
-
-
-
-<form action="http://www.mixamo.com/search/query" id="search-box-submit-form" method="get">
-  <div class="search-box-container" id="search-box-container">
-    <input class="searchbox" id="q" name="q" onblur="if( this.value == '') { this.value = 'Search Motions'; $(this).css( 'color' , '#9e9e9e' );}" onfocus="if( this.value == 'Search Motions') { this.value = ''; $(this).css( 'color' , '#000000' );}" size="20" style="color: #9e9e9e;" type="text" value="Search Motions">
-    <input id="search-box-type" name="search_type" type="hidden" value="motion">
-    <input class="searchsubmitbtn mixamo_menubar_selector" id="search-box-selector-button" name="commit" type="submit" value="Search">
-  </div>
-</form>
-						
-					</div>
-				</div>
-				<div class="tab tab-end" style="width: 35px;"></div>
-				<div class="clear"></div>
-		    </div>
-			
-	
-		</div>
-		<div id="layout-contents">
-		  
-			<div class="generic-window-top-large"></div>
-			<div class="generic-window-middle-large" id="layout-middle-window">
-				
-				<div class="layout-inner-contents">
-					
+		<div id="splash-root">
+			<div class="splash-window-top"><div></div></div>
+			<div class="splash-window-middle">
 
 <h1>Privacy Policy</h1>
 
@@ -539,152 +232,24 @@ pageTracker._trackPageview( '/home/privacy?__ab__=|jnyx2h|lah07o|' );
 
 
 </div>
-
-				</div>
-			</div>
-			<div class="generic-window-bottom-large" style="position:relative;">
-			</div>
-			
-			
+</div>
+			<div class="splash-window-bottom"><div></div></div>
 		</div>
-		 
-		 
-		 
-	
+		<div id="splash-footer" align="center">
+			<span class="first">© 2009 Mixamo ™</span>
+				<a href="http://www.mixamo.com/privacy">Privacy</a>
+				<a href="http://www.mixamo.com/home/legal">Terms and Conditions</a>
+		    
+	    </div>
+	<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
+NREUMQ.push(["load",new Date().getTime()]);
+var e=document.createElement("script");
+e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/32/eum/rum.js";
+document.body.appendChild(e);
+if(NREUMQ.a)NREUMQ.a();
+};
+NREUMQ.a=window.onload;window.onload=NREUMQ.f;
+};
+NREUMQ.push(["nrfj","beacon-1.newrelic.com","561df921b4",34441,"dVcNQ0paCVhRFh8KDVtdTEdKXBNVVx0=",0,107,new Date().getTime(),"","","","",""])</script>
 
-
-<div class="browser_cms_segment" id="browser_cms_application_bottom">
-    
-        
-      
-    <p>
-	<style type="text/css">
-
-
-img#social_icons{
-	padding: 2px 7px;
-}
-
-div#social_icons_container{
-    background: url("/images/icons/social/icons_background.png") no-repeat scroll 0 0 transparent;
-    float: left;
-    height: 58px;
-    padding-left: 15px;
-    padding-right: 5px;
-    padding-top: 9px;
-    width: 230px;
-}
-
-</style></p>
-<div id="social_icons_container">
-	<a href="http://twitter.com/mixamo"><img alt="mixamo twitter" id="social_icons" src="/images/icons/social/twitter_icon.png"></a><a href="http://www.facebook.com/pages/Mixamo/125936996180"><img alt="mixamo facebook" id="social_icons" src="/images/icons/social/facebook_icon.png"></a><a href="http://www.youtube.com/user/mixamo3danimation"><img alt="mixamo youtube" id="social_icons" src="/images/icons/social/youtube_icon.png"></a><a href="http://blog.mixamo.com/"><img alt="mixamo blog" id="social_icons" src="/images/icons/social/blog_icon.png"></a><a href="http://blog.mixamo.com/feed/"><img alt="mixamo rss feed" id="social_icons" src="/images/icons/social/rss_feed_icon.png"></a></div>
-<div style="padding-left: 30px; width: 155px; float: right; height: 20px; color: rgb(255, 255, 255); padding-top: 9px;">
-	© 2009-2011 Mixamo ™</div>
-<div id="layout-footer" style="width: 1000px; margin-right: -40px; padding-top: 15px;">
-	<ul class="horizontal">
-		<li>
-			<a style="font-weight: bold;">ABOUT US</a><br>
-			<a href="http://www.mixamo.com/c/company">Company</a><br>
-			<a href="http://www.mixamo.com/home/contact">Contact Us</a><br>
-			<a href="http://www.mixamo.com/c/customers">Customers</a><br>
-			<a href="http://www.mixamo.com/c/jobs">Jobs</a><br>
-			<a href="http://www.mixamo.com/c/media-coverage">Media Coverage</a><br>
-			<a href="http://www.mixamo.com/c/partners">Partners</a><br>
-			<a href="http://www.mixamo.com/c/press">Press Releases</a><br>
-			<a href="http://www.mixamo.com/home/privacy">Privacy</a><br>
-			<a href="http://www.mixamo.com/home/legal">Terms of Service</a></li>
-		<li>
-			<a style="font-weight: bold;">ANIMATE</a><br>
-			<a href="http://www.mixamo.com/skeletons/new">Apply to your character</a><br>
-			<a href="http://www.mixamo.com/c/create-custom-characters">Create a character</a><br>
-			<a href="http://www.mixamo.com/motions/request">Request animation</a><br>
-			<a href="http://www.mixamo.com/motions">Search animation</a></li>
-		<li>
-			<a style="font-weight: bold;">CONNECT</a><br>
-			<a href="http://blog.mixamo.com/" target="_blank">Blog</a><br>
-			<a href="http://community.mixamo.com/mixamo" target="_blank">Community</a><br>
-			<a href="http://www.facebook.com/pages/Mixamo/125936996180?ref=search&amp;sid=567521326.2068506716..1" target="_blank">Facebook</a><br>
-			<a href="http://www.twitter.com/mixamo" target="_blank">Twitter</a><br>
-			<a href="http://www.youtube.com/user/Mixamo3DAnimation" target="_blank">YouTube</a></li>
-		<li>
-			<a style="font-weight: bold;">CUSTOM SERVICES</a><br>
-			<a href="http://www.mixamo.com/c/services">Motion capture studio</a>
-		</li>
-		<li>
-			<a style="font-weight: bold;">FEATURED CUSTOMERS</a><br>
-			<a href="http://www.mixamo.com/c/gamersfirst">GamersFirst</a><br>
-			<a href="http://www.mixamo.com/c/trigger">Trigger</a><br>
-			<a href="http://www.mixamo.com/c/customers">Moondus</a><br>
-			<a href="http://www.mixamo.com/c/customers">Post Modern Group</a><br>
-			<a href="http://www.mixamo.com/c/touchko">Touch KO</a><br>
-			<a href="http://www.mixamo.com/c/customers">ESPN Sport Science</a><br>
-			<a href="http://www.mixamo.com/c/buddypoke">Buddy Poke</a><br>
-			<a href="http://www.mixamo.com/c/ndreams">NDreams</a><br>
-			<a href="http://www.mixamo.com/c/jumpcore">JumpCore</a></li>
-		<li>
-			<a style="font-weight: bold;">HELP</a><br>
-			<a href="http://www.mixamo.com/c/tutorials">Tutorials</a><br>
-			<a href="http://community.mixamo.com/mixamo">Post a question</a><br>
-			<a href="http://www.mixamo.com/c/faq">FAQ</a></li>
-		<li>
-			<a style="font-weight: bold;">WE SUPPORT</a><br>
-						<a href="http://www.mixamo.com/c/workflows">AutoDesk 3ds Max</a><br>
-			<a href="http://www.mixamo.com/c/help/workflows_maya">AutoDesk Maya</a><br>
-			<a href="http://www.mixamo.com/c/blender">Blender</a><br>
-			<a href="http://www.mixamo.com/c/help/workflows_cinema4d">Cinema4D</a><br>
-			<a href="http://www.mixamo.com/c/partners">Evolver</a><br>
-			<a href="http://www.mixamo.com/c/automatic-rigging-for-modo-unity3d">Luxology modo</a><br>
-			<a>MotionBuilder</a><br>
-			<a href="http://www.mixamo.com/c/stonetrip">Stonetrip ShiVa</a><br>
-			<a href="http://www.mixamo.com/c/help/workflows_trinigy">Trinigy</a><br>
-			<a href="http://www.mixamo.com/c/unity">Unity</a><br>
-			<a href="http://www.mixamo.com/c/workflows">and more…</a>
-</li>
-	</ul>
-</div>
-<div class="clear">
-	&nbsp;</div>
-<!--tracking--><script type="text/javascript">document.write(unescape('%3Cscript type="text/javascript" src="'+document.location.protocol+'//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/5862.js"%3E%3C%2Fscript%3E'))</script><script type="text/javascript" src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/5862.js"></script><!--end tracking-->
-  
-    
-    
-	   
-</div>
-
-	
-	  
-	  
-		<!--
-		User Login: 
-		Ab Facade: {"pricing_baseline_multiplier"=>1.0, "grace_activation_period_minutes"=>1440, "subscription_offers"=>[13, 9, 10, 11, 14], "prepay_offers"=>[13, 14, 16, 17, 18, 21, 20], "pricing_levels"=>{}, "skeleton_reminder_email_hours"=>24, "autorig_followup_delay_hours"=>24, "unity_verifier_version"=>"editor", "alt_change_character_location"=>"none", "landingpage_override"=>"", "user_referral_promotions"=>[], "autorigging_offer"=>0, "autorigging_offer_high"=>0, "autorigging_offer_low"=>0, "custom_character_offer"=>0, "cms_override_0"=>{}, "cms_override_1"=>{}, "cms_override_2"=>{}, "cms_override_3"=>{}, "cms_override_4"=>{}, "cms_override_5"=>{}, "cms_override_6"=>{}, "cms_override_7"=>{}, "cms_override_8"=>{}, "cms_override_9"=>{}, "cms_override_10"=>{}, "cms_override_11"=>{}, "cms_override_12"=>{}, "cms_override_13"=>{}, "cms_override_14"=>{}, "cms_override_15"=>{}, "cms_override_16"=>{}, "cms_override_17"=>{}, "cms_override_18"=>{}, "cms_override_19"=>{}}
-		-->
-	
-		
-		
-
-						
-<div class="bg-bubble bg-bubble-50x50 left-bubble" style="top: 100px;left:-150px;opacity:0.4;filter:alpha(opacity=40);"></div>
-<div class="bg-bubble bg-bubble-50x50 left-bubble" style="top: 150px;left:-180px;opacity:0.6;filter:alpha(opacity=60);"></div>
-<div class="bg-bubble bg-bubble-25x25 left-bubble" style="top: 80px;left:-170px;opacity:0.2;filter:alpha(opacity=20);"></div>
-<div class="bg-bubble bg-bubble-25x25 left-bubble" style="top: 180px;left:-200px;opacity:0.2;filter:alpha(opacity=20);"></div>
-<div class="bg-bubble bg-bubble-100x100 left-bubble" style="top: 190px;left:-180px;opacity:0.3;filter:alpha(opacity=30);"></div>
-
-<div class="bg-bubble bg-bubble-50x50 right-bubble" style="top: 205px;right:-50px;opacity:0.7;filter:alpha(opacity=70);"></div>
-<div class="bg-bubble bg-bubble-50x50 right-bubble" style="top: 230px;right:-70px;opacity:0.4;filter:alpha(opacity=40);"></div>
-<div class="bg-bubble bg-bubble-25x25 right-bubble" style="top: 180px;right:-65px;opacity:0.6;filter:alpha(opacity=60);"></div>
-
-
-
-<div class="bg-bubble bg-bubble-50x50 right-bottom-bubble" style="top: 565px;right:-70px;opacity:0.3;filter:alpha(opacity=30);"></div>
-<div class="bg-bubble bg-bubble-100x100 right-bottom-bubble" style="top: 465px;right:-50px;opacity:0.1;filter:alpha(opacity=10);"></div>
-<div class="bg-bubble bg-bubble-25x25 right-bottom-bubble" style="top: 525px;right:-55px;opacity:0.6;filter:alpha(opacity=60);"></div>
-<div class="bg-bubble bg-bubble-25x25 right-bottom-bubble" style="top: 450px;right:-90px;opacity:0.4;filter:alpha(opacity=40);"></div>
-
-	</div>
-</div>
-
-<!-- Version: /branches/sprint71/webapp 8819M -->
-
-
-
-</body></html>
+<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/32/eum/rum.js"></script></body></html>
