@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsnow.co.uk privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217081445id_/http%3A//www.newsnow.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsnow.co.uk privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509100604id_/http%3A//www.newsnow.co.uk/privacy) for the most accurate reproduction.*
 
 # NewsNow: Privacy Notice
 
