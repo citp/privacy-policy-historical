@@ -1,78 +1,79 @@
-> *The following text is extracted and transformed from the smartbargains.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202072524id_/http%3A//www.smartbargains.com/Promo/Help/Help-Privacy.aspx%3Ft%3DHome...corp-foot.) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartbargains.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509132330id_/http%3A//www.smartbargains.com/cust/privacypolicy.asp%3Fd%3D0) for the most accurate reproduction.*
 
-# SmartBargains: Help Desk - Privacy & Security
+# Online shopping for brand names at discounted prices. Duvet covers, sheets, shoes, handbags & more; find the best bargains at SmartBargains.com
 
-At SmartBargains.com, we want you to have the best shopping experience possible. And while it is  
-necessary for us to collect certain personal information, we respect and protect your right to privacy.  
-The following is our policy regarding your privacy and the security of your information. If you have any  
-additional questions or concerns, please contact us at [CustomerService@SmartBargains.com](mailto:CustomerService@SmartBargains.com). 
+**Last Updated: July 16, 2008**
 
-How We Protect Your Information  
-SmartBargains.com is committed to protecting the information we receive from you. We follow reasonable technical and management practices to help protect the confidentiality, security and integrity of data stored on our system. While no computer system is completely secure, we believe the measures implemented by our web site reduce the likelihood of security problems to a level appropriate to the type of data involved. Our site encrypts your credit card number and other personal information using secure socket layer (SSL) technology to provide for the secure transmission of the information from your PC to our servers. In addition, only those employees and contractors who need access to your information in order to perform their duties are allowed such access. Any employee who violates our privacy and/or security policies may be subject to disciplinary action, including possible termination and civil and/or criminal prosecution.  
-back to top
+  
+SmartBargains.com Privacy Policy
 
-Secure Shopping at SmartBargains.com  
-We use SSL and Verisign encryption technology, digital certificates, secure commerce servers, and authentication to ensure that your personal information is secure online.  
-back to top
+This privacy statement discloses the privacy practices for SmartBargains.com. We are committed to protecting your privacy and encourage you to periodically review this page to be informed of how we protect the information you disclose to us. 
 
-What Information Do We Collect and How?
+If you believe that SmartBargains.com is not abiding by our posted privacy policy, please contact us at 1.877.222.6660 or email us at customerservice@SmartBargains.com 
 
-Registration Information  
-SmartBargains.com keeps track of information in order to give you a more enjoyable, convenient shopping experience. When you register (log in), you will be asked for information such as your email address and a password so that we can provide you access to your account in the future. Before completing your first purchase, we will ask you for information such as your name, phone number, email, billing and shipping addresses. This information, along with your credit card number, is necessary to fulfill your order. In addition, we use this information, your shopping history and other information that we have gathered or that you have provided to us for internal purposes and to comply with any requirements of law. This information may be disclosed to our staff and to third parties involved in the completion of your transaction, the delivery of your order or the support of your use of the SmartBargains.com web site. We may use your email address or phone number to contact you if we have questions about your order. We may also use your email address to notify you about new services or special promotional programs, or send you offers or information if you have opted-in. Emails are sent only to customers who have chosen to receive them (opted-in) or who have made a purchase on our website. At any time, you may stop receiving these emails ([opt out](https://secure.smartbargains.com/subscription_edit.aspx)) if you desire. Logging in does NOT obligate you in any way to SmartBargains.com. In addition, we will keep track of past purchases you have made to provide you with a personalized profile of your shopping history. We may also ask you for information regarding your and your family's shopping preferences and demographics in order for us to better fill your needs. However, all information not necessary to fulfill your order is optional.
+**Information Collection and Use**  
+SmartBargains.com collects information from our users at several different points on our website.
 
-_Note:_ It is not necessary to provide us with information to view our site.
+**My Account**  
+When you make a purchase on our site, you will have the option to create an account. By creating an account, the system will remember your personal and purchase information and the checkout process on future purchases will be fast, easy and [secure](https://web.archive.org/web/20120509132330id_/http%3A//www.smartbargains.com/cust/secure.asp?d=0). At your option, your account can also store important dates such as birthdays or anniversaries and allow you to subscribe to receive promotional emails and announcements from us (see “Electronic Mailings” below).
 
-Non-Edible Cookies  
-In revolutionizing the way you shop, SmartBargains.com uses new technologies to better serve our customers. Like many web sites, we use "cookies" so you can best experience our site and the Internet. Cookies are bits of electronic information placed over the Internet onto your computer. A cookie assigns a unique tracking number to each computer accessing our site or email campaigns, which enables us and our third party service providers to recognize and keep track of each user. Through cookies we can customize our site and advertisements to your individual preferences in order to create a more personalized, convenient shopping experience. For example, cookies let us know that you are a prior customer or a Bargain Alert subscriber so that we may tailor information for you and provide certain features or advertisements that are more likely to interest you. Cookies used for our web site or email campaigns do not store personally identifiable information about you or your finances. Most browsers can be set to prevent cookies or to notify you when one is being placed. Although cookies are not necessary to view our site or receive advertisements from us, we recommend their use for the best experience possible.
+Creating an account is also fast and easy: simply enter your personal information once and select your very own username and password. Then during checkout on your next purchase, just login and the system will take care of the rest. At all times, your personal information is accessible to you to review, edit, or update as necessary by clicking on the “My Account” link. 
 
-Data Collection and Reporting Service.  
-This site makes use of a technology designed to enhance your browsing experience and provide analytics. The technology provides aggregate reporting information to us only. No personal or personally identifiable information is gathered or used for this process.
+**Order**  
+We request information from the user on our order form when making a purchase. Here is where a user must provide their contact information, like name and shipping address, and financial information, like credit card number and expiration date. This information is used for billing purposes and to fill the customer's order. If we have difficulty processing an order, this contact information is used to communicate with the customer. 
 
-If for any reason you do not wish to have this technology enabled while browsing this site, please click here. A cookie will be set on your browser that instructs the service not to start. If you have disabled the service and wish to reactivate it, please click here.
+**Cookies**  
+A cookie is a piece of data stored on the user's hard drive containing information about the user. We use both session and persistent cookies. Cookies enable us to track and target the interests of our users in the aggregate by analyzing popular areas and products to enhance future experiences on our site.Cookies do not cause damage to your computer systems or files, and only the web site that transferred a particular cookie to you can read, modify or delete such cookie. If you do not want information collected through the use of cookies, there are simple procedures in most browsers that allow you to delete existing cookies, to automatically decline cookies, or to be given the choice of declining or accepting the transfer of particular cookies to your computer.
 
-Server Logs  
-In an effort to make our site as effective and enjoyable as possible, the computers that operate the site will collect certain information each time you visit the site and store these statistics in server logs. These statistics do not identify you personally, but will give us information regarding the type of user who is accessing the site and certain browsing activities of that user. Information collected in this way includes the IP address of the user accessing our site (i.e. the unique I.D. number of the user's computer), the type of browser (Internet Explorer, Netscape, etc.) and operating system (system software) used to access our site, the website the user last visited before linking to our site, how long the user accessed our site in any given session, and the date and time of access. We may make extensive use of these non-personally identifiable aggregated data in order to understand how our site is being used and will share them with advertisers, sponsors, investors, strategic partners, and others in order to develop, promote, and expand our business.
+**Usage Tracking**  
+SmartBargains.com's database tracks the traffic throughout our site. This information is used to compile overall statistics and is not recorded at an individual level. This includes IP (internet protocol) addresses, browser type, ISP (internet service provider), referring/exit pages, platform type, date/time stamp, and #of clicks to analyze trends, administer the site, track user's movement in the aggregate. The statistics help us decide which products and services best serve our members and guests.
 
-Children's Privacy and Parental Controls  
-Our site is intended for use by general audiences that are 18 years of age and older. If you are not 18 or older, please do not use our site. Parents should be aware that there are parental control tools available online that you can use to prevent your children from submitting information online without parental permission or from accessing material that is harmful to minors.
+**Aggregate Information**  
+SmartBargains.com uses aggregate information from demographic surveys, traffic patterns and IP addresses to customize our site. Aggregate information is occasionally shared with third parties for purposes such as planning or executing advertising or promotions.
 
-How You Can Access and Edit Your Registration Information or Remove Yourself From Our Newsletters, Updates & Reminders Lists  
-You are able to review and edit your registration information from our site at any time. If you have already registered with us, [click here](https://secure.smartbargains.com/mya.aspx) to access your information. Our mailing lists and email notification are available on an opt-in basis. If you would like to opt out of all email communication, [click here](https://secure.smartbargains.com/subscription_edit.aspx). If you would like to restrict our use of your information, contact us in one of the ways provided below. While we make efforts to accommodate requests to restrict our use of your information, we reserve the right to delete customer information if we can't reasonably accommodate a requested restriction.
+**Sharing**  
+SmartBargains.com gives you access to third party partners to provide you with certain services. SmartBargains.com will provide that third party with your transaction information and then that third party will collect additional information if needed to provide you with the requested service, such as outside shipping company to ship orders, and a credit card processing company to bill users for goods and services.
 
-With Whom Do We Share Your Information?  
-We share customer information only as described in this policy and with our parent, subsidiaries, divisions, and affiliates. SmartBargains.com is a wholly-owned subsidiary of Retail Convergence, Inc.
+We reserve the right to transfer any and all information that we collect from users of the site to a third party in the event of any merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of the assets or stock (including without limitation in connection with any bankruptcy or similar proceedings) relating to SmartBargains.com.
 
-Service Providers  
-SmartBargains.com may use various outside agencies (third party service providers) to make our website operate as smoothly as possible. For example, we may use third parties to host our website, operate various features made available on our website, send emails, analyze data, provide search results and links and assist in fulfilling your orders. Some of these third parties may need access to your information in order to make the services provided through our website work. Information will only be disclosed to these service providers on a need to know basis, and they will only be permitted to use such information for the purpose of providing the particular services provided by such entities in connection with our website.
+Finally, notwithstanding any other provision of this privacy policy to the contrary, we reserve the right to disclose your personal information if we believe that we are required to do so (i) by law; (ii) to comply with legal process or governmental requests; (iii) to enforce our Terms of Service; (iv) to protect our operations or those of any affiliated entities; (v) to protect the rights, privacy, safety or property of SmartBargains.com, any affiliated entities, you or others; and (vi) to permit us to pursue available remedies or limit the damages that we may sustain.
 
-We may use third party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [click here](http://www.networkadvertising.org/optout_nonppii.asp).  
-back to top
+**Links**  
+This website contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy policy applies solely to information collected by SmartBargains.com.
 
-Strategic Alliances  
-From time to time, SmartBargains.com may enter into strategic alliances to enhance and expand the scope of the services we are able to provide. Some of these strategic alliances may involve operating co-branded websites or web pages with a strategic partner. When you see websites or web pages that are co-branded with SmartBargains.com (meaning it would have both the SmartBargains.com logo and the logo or trademarks of another company), you should be aware that these sites' may collect different or additional information that is subject to such sites privacy policy and such privacy policies might vary from ours. Please consult the privacy policy of the website you are visiting.  
-back to top
+**Catalog, Newsletters, Etc.**  
+If a user wishes to subscribe to our catalog, newsletter, etc., we ask for contact information such as name, street address and email address to provide these communications. Because we respect our users' privacy, we provide a way to opt-out of these communications. Please see the choice and opt-out section below.
 
-Third Party Marketing Companies  
-Occasionally, we provide our postal mailing list (consisting of customer names and postal mailing addresses, but not e-mail addresses) to other companies whose products we believe may be of interest to you. In order to determine those products that we believe may be of interest to you, the information that you give us and information about your order may be combined with other personally identifiable information (such as demographic information and past purchase history) available from our records and other sources. If you prefer for us not to provide your name and postal mailing address to third parties, you may contact us in one of the ways provided below.  
-back to top
+On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send you an email. Generally, users may not opt-out of these communications, though you can deactivate your account. However, these communications are not promotional in nature. 
 
-With Your Consent  
-Other than as set forth in this policy, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.  
-back to top
+**Surveys & Sweepstakes**  
+From time to time, our site requests information from users via surveys or sweepstakes. Participation in these surveys or sweepstakes is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name, shipping address and email address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
 
-Is There Any Other Way That User Information Might Be Disclosed?  
-We may disclose information in order to comply with a subpoena, court order, administrative or governmental order, or any other requirement of law, or when we, in our sole discretion, deem it necessary in order to protect our rights or the rights of others, to prevent harm to persons or property, to fight fraud and credit risk reduction or to enforce or apply our web site terms of use. Personally identifiable information may be transferred as an asset in connection with a proposed or actual merger or sale (including any transfers made as part of an insolvency or bankruptcy proceeding) involving all or part of our business or as part of a corporate reorganization, stock sale or other change in control. Other than as described in this Privacy Policy, we will not share or disclose your information to anyone.  
-back to top
+**Tell-A-Friend**  
+If a user elects to use our referral service for informing a friend about an item, we ask them for the friend's name and email address. SmartBargains.com will automatically send the friend a one-time email inviting them to visit the site. We do store the friend's email and they have an option to opt-out in the communication.
 
-Changes in Policy  
-You unconditionally agree that using SmartBargains.com signifies your assent to this Privacy Policy Policy which is a part of SmartBargains.com's Terms of Use. If you do not agree with this Privacy Policy, please do not use our site. Your visit and any dispute over privacy is subject to this Privacy Policy and all other portions of our Terms of Use, including limitations on damages and application of the law of the Commonwealth of Massachusetts. If you have any concern about privacy at SmartBargains.com, please send us a thorough description to [CustomerService@SmartBargains.com](mailto:CustomerService@SmartBargains.com), and we will try to resolve it.
+**Special request page**  
+Our customers can use the special request page to inquire about products that they cannot find on the website, such as, for example, special orders. Personal information is gathered during this process.
 
-SmartBargains.com reserves the right to change the Terms of Use and this Privacy Policy, at any time. We will post any changes here and your continued use of our site indicates your asset to the Privacy Policy as posted. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. Please note: This Privacy Policy covers our website (www.smartbargains.com), as well as our activities on the co-branded websites (joint websites containing our logo along with another company's) where this Policy is posted. Please check the privacy policy of the website you are visiting since activities of SmartBargains.com in connection with other co-branded websites may be subject to different privacy policies.  
-back to top
+**Security**  
+SmartBargains.com takes precautions to protect our users' information. When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the Secure Socket Layers (SSLs)encryption software. While on a secure page, such as our order form, a lock icon appears on the bottom of your Web browser. When you are not on a secure page, no lock icon will appear. To learn more about SSL, click here. In addition, the servers that we store personally identifiable information on are kept in a secure environment under restricted access.
 
-Contact Us  
-If you have any questions about this Policy or wish to update or remove your information or restrict how we use your information, please call 1-866-692-2742 or email [CustomerService@SmartBargains.com](mailto:CustomerService@SmartBargains.com).  
-back to top
+If you have any questions about the security at our website, send us an [Online Inquiry](https://web.archive.org/web/20120509132330id_/http%3A//www.smartbargains.com//cust/contactus.asp?d=0) for more info.
 
-Updated as of May 12, 2008.  
-Retail Convergence.com, LP, 20 Channel Center, Boston, MA 02210
+**Supplementation of Information**  
+In order for SmartBargains.com to properly fulfill its obligation to our customers, it is necessary for us to supplement the information we receive with information from third party sources. When a user makes a purchase from any of these companies, the companies collect and share that purchase information with us so we can tailor the site to our users' preferences.
+
+**Special Offers**  
+Established members will occasionally receive information on products, services, special offers and a newsletter. Out of respect for the privacy of our users, we present the option to not receive these types of communications. Please see our choice and opt-out below.
+
+**Correcting/Updating/Deleting/Deactivating**  
+If a user's personally identifiable information changes (such as your zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate that user's personally identifiable information provided to us. This can be done by using the unsubscribe feature in our communication or by sending us an   
+[Online Inquiry](https://web.archive.org/web/20120509132330id_/http%3A//www.smartbargains.com/cust/contactus.asp?d=0).
+
+**Choice/Opt-Out**  
+Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an 'opt-out' mechanism so users who buy a product from us, but don't want any marketing material, can keep their email address off of our lists.
+
+Users who no longer wish to receive promotional materials may opt-out of receiving these communications by using the unsubscribe feature in our email or by visiting http://www.SmartBargains.com/unsub.asp.
+
+**Changes to This Policy**  
+We reserve the right to change this privacy policy, and any of our policies or procedures concerning the treatment of information collected through the site, without prior notice. You can determine when this privacy policy was last revised by referring to the "Last Updated" legend at the top of this page. Any changes to our privacy policy will become effective upon posting of the revised policy on the Internet, accessible through the site. Use of the site following such changes constitutes your acceptance of the revised policy then in effect. We encourage you to bookmark this page and to periodically review it to ensure familiarity with the most current version of our privacy policy.
