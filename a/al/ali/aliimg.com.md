@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aliimg.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008022037id_/http%3A//news.alibaba.com/article/detail/help/100453303-1-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aliimg.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509220423id_/http%3A//news.alibaba.com/article/detail/help/100453303-1-privacy-policy.html) for the most accurate reproduction.*
 
 # Safety & Security Center - Learn How to Enhance the Safety of Your Online Transactions
 
