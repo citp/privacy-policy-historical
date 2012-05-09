@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibmsecu.org privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117171938id_/https%3A//www.ibmsecu.org/content/download/365/1924/Privacy%2BPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibmsecu.org privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509230654id_/https%3A//www.ibmsecu.org/wp-content/uploads/Privacy-Policy.pdf) for the most accurate reproduction.*
 
 # FACTS
 
