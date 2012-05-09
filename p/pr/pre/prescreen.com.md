@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prescreen.com privacy policy that was archived on 2011-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111013034426id_/https%3A//prescreen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prescreen.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509211054id_/https%3A//prescreen.com/privacy%3Fui%3Dfoot) for the most accurate reproduction.*
 
-# Prescreen: Discover one new Movie Each Day, Stream On Demand
+# Privacy policy
 
 We at Prescreen, Inc. have created this privacy policy to describe our information gathering and dissemination practices with respect to information we collect through our website. This privacy policy does not govern our use of any information you provide to us when you call us, write to us, or communicate with us in any manner other than through our website. Because the Internet is global, information about you that we collect or that you submit may be transferred to, processed in, and held in countries (including the United States) other than the one in which you reside. By using our website, you explicitly consent to such use of your information and agree to the terms of this privacy policy. By renting digital versions of movies (“Programs”) through the website, you may share the history of those Program transactions with third parties. This privacy policy is effective as of July 18, 2011. 
 
