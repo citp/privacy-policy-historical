@@ -1,43 +1,325 @@
-> *The following text is extracted and transformed from the rownine.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507023514id_/http%3A//www.rownine.com/aboutus.aspx%3Fpage%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rownine.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509124001id_/https%3A//www.beyondtherack.com/info/privacy/simple) for the most accurate reproduction.*
 
-# RowNine - The finer things ... for less
+# Privacy - Beyond the Rack
 
-**1\. Disclaimer & Privacy Policy.**  
-The information we collect through our Site helps us provide you with information specific to your needs and interests. This privacy policy (the “Privacy Policy”) covers the RowNine website (the “Site”). Please read below to review our Privacy Policy and the types of information we gather through our Site. In this Privacy Policy, “we”, “us”, “our” and other similar references mean RowNine and “you” and “your” and other similar references mean a specific user of the Site. By visiting the Site, you accept the practices described in this Privacy Policy. 
+PRIVACY POLICY
 
-**2\. How Does RowNine Gather and Use Information?**  
-(i) Cookies. Cookies are pieces of data assigned by a web server that uniquely identify the browser on your PC. Websites typically use temporary cookies called “session” cookies to ensure that you are recognized when you move from page to page within one site and that any information you have entered is remembered. For example, if an e-commerce site did not use session cookies then items placed in a shopping basket would disappear by the time you reach the checkout. Websites also use cookies called “persistent” cookies to enable a website to remember you on subsequent visits, speeding up or enhancing your experience of services or functions offered. RowNine attempts to install both persistent and session cookies when a user arrives at our Site. Cookies enable our systems to gather information about your navigational patterns through the site. Viewers have the option to accept or disable cookies at any time through their browsers. Visit the “help” portion of your toolbar for more information. If you block or refuse to accept cookies, or delete cookies between visits to the site, you may not be able to access or use certain features or functions of our Site. 
+_Effective Date: 11/10/2011
 
-(ii) Server Statistics. We collect general statistics to track user trends on our Site. These statistics include hits to our server, the types of browsers used to access our Site, page views, and navigational patterns. The information that is collected in this manner does NOT provide us with any personally identifiable information about our users. It helps us track “where” our users are coming from. This allows us to pinpoint high traffic areas and determine the most effective ways to communicate with our users. As part of that ongoing analysis, RowNine also uses devices called “web beacons” to help us identify when emails sent to you have been received and read. In order to prevent the introduction of viruses and hackers into the RowNine site we may collect information, such as IP addresses, into a log file to be used to identify potential hackers of the RowNine site. 
+Last Updated on 11/10/2011 
 
-(iii) Personal Information You Provide Us. For the purposes of this Privacy Policy, “Personal Information” is any information that identifies you, would enable someone to contact you, or that describes your relationship with RowNine. We collect and store Personal Information when you register to use our Site, ask a question, complete a form, conduct a transaction, or send us an email. While you are not required to submit any information to our Site, if you do not provide the requested information, you may not be able to access or use some of the features and functions of our Site and we may not be able to provide you with certain services. RowNine uses your Personal Information to complete transactions, respond to your requests, deliver the products and services you request, and notify you of promotions, updates, or special offers that we think may interest you. 
+_
 
-**3\. What Security Procedures Does RowNine Use To Protect Personal Information?**  
-We use physical, electronic, and administrative safeguards to assist us in preventing unauthorized access, maintaining data accuracy, and correctly using your Personal Information. Except as specified in this Privacy Policy, we use commercially reasonable efforts to limit access to your Personal Information to the employees, agents, and officers of RowNine who need the information for their jobs. 
+Your privacy is important to Beyond the Rack . So we’ve developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and let us know if you have any questions by either: 
 
-**4\. Will RowNine Disclose The Information It Collects To Outside Parties?**  
-RowNine may share information with carefully selected vendors and business partners with whom we work. This includes companies that offer affinity, frequent-user, and reward programs; and, companies that perform marketing services and other business operations for us (including providing goods and services to our users, as necessary to complete transactions you request). All companies that act on our behalf are contractually obligated to keep all information confidential and to use the customer information only to provide the services we ask them to perform for you and us. We may provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third party vendors, but these statistics do not include Personal Information. We may disclose Personal Information we collect from you if required to do so by law or in the good-faith belief that disclosure is necessary (a) to obey the law or comply with legal process served on us or our affiliates; (b) to protect and defend our rights or property or the rights or property of other users of our Site; or (c) to act in an emergency to protect the personal safety of users of our Site or the public. 
+  * Emailing our Customer Service team at [privacy@beyondtherack.com](mailto:privacy@beyondtherack.com), or
+  * Calling our toll-free number at **1-877-733-4660** on weekdays, between 8AM - 8PM ET and weekends between 10AM - 2PM ET or
+  * Mailing to:
 
-**5\. External Links.**  
-Other companies or organizations may have links to their Sites on our Site. We are not responsible for how these other companies or organizations collect, use, disclose, or secure the information that you provide them. If you choose to access a third party Site linked to our Site, you do so at your own risk and subject to any terms of service or privacy policy (if any) associated with such third party Sites. 
 
-**6\. Collection Of Information From Children.**  
-RowNine does not direct any of our content specifically to children. Users of our Site are required to be at least 18 years old, and any user under 18 is not an authorized user. If we learn that a user is under thirteen (13) years of age, we will promptly delete any Personal Information we have collected about that user. 
 
-**7\. Consent To Processing In The United States.**  
-By providing any Personal Information to RowNine, all users, including, without limitation, users in Canada and the member states of the European Union, fully understand and unambiguously consent to this Privacy Policy and to the transfer of such Personal Information across international borders in accordance with RowNine’s standard operations, including the collection, storage, and processing of such information in the United States of America. 
+Privacy Matters  
+c/o Beyond the Rack   
+4600 Hickmore  
+Montreal, Quebec  
+H4T 1K2, Canada  
 
-**8\. Your California Privacy Rights.**  
-As provided by California Civil Code Section 1798.83, a California resident who has provided Personal Information to a business with whom he/she has established a business relationship for personal, family, or household purposes (“California customer”) is entitled to request information about whether the business has disclosed Personal Information to any third parties for the third parties’ direct marketing purposes. In general, if the business has made such a disclosure of Personal Information, upon receipt of a request by a California customer, the business is required to provide a list of all third parties to whom Personal Information was disclosed in the preceding calendar year, as well as a list of the categories of Personal Information that were disclosed. 
 
-However, under the law, a business is not required to provide the above-described lists if the business adopts and discloses to the public (in its privacy policy) a policy of not disclosing customer’s Personal Information to third parties for their direct marketing purposes unless the customer first affirmatively agrees to the disclosure, as long as the business maintains and discloses this policy. Rather, the business may comply with the law by notifying the customer of his or her right to prevent disclosure of Personal Information and providing a cost free means to exercise that right. 
+This privacy policy describes how Beyond the Rack (“BTR”) collects and uses the personal information you provide on our Website: [www.beyondtherack.com](http://www.beyondtherack.com/) (“the Website”) for your use of the services, features and content offered by Beyond the Rack (collectively referred to as the “BTR Services”). It also describes the choices available to you regarding the use of your personal information and how you can access and update your personal information. For the purposes of this Privacy Policy, unless otherwise noted, all references to "Beyond the Rack" include beyondtherack.com and BTR. 
 
-As stated in this Privacy Policy, we do not share information with third parties for their direct marketing purposes unless you affirmatively agree to such disclosure -- typically by opting in to receive information from a third party that is participating in some activity described on our site. If you do ask us to share your information with a third party for its marketing purposes, we will only share information in connection with that specific activity, as we do not share information with any third party on a continual basis. To prevent disclosure of your Personal Information for use in direct marketing by a third party, do not opt in to such use when you provide Personal Information on our site. Please note that whenever you opt in to receive future communications from a third party, your information will be subject to the third party's privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use information. You should always review the privacy policy of any party that collects your information to determine how that entity will handle your information. 
+Beyond the Rack is committed to protecting all the information you share with us. We follow stringent procedures to help protect the confidentiality, security, and integrity of data stored on BTR systems. 
 
-California customers may request further information about our compliance with this law by emailing [CaliforniaPrivacy@Rownine.com](mailto:CaliforniaPrivacy@Rownine.com). Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this email address. 
+Only those employees who need access to your information in order to perform their duties are allowed such access. Any employee who violates our privacy and/or security policies is subject to disciplinary action, including possible termination and civil and/or criminal prosecution. 
 
-**9\. Modification And Notification Of Changes.**  
-RowNine may at our sole discretion edit this Privacy Policy. Notice of all changes to the Privacy Policy will be provided as specified in Section 12 (Modification and Notification of Changes) of the Terms of Service. 
+We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties. 
 
-**10\. In Summary.**  
-RowNine is committed to protecting your privacy. The information collected from our Site helps us better understand our market and consumer interests. This allows us to serve our customers and business associates with the level of satisfaction they deserve. If you have questions or suggestions regarding this Privacy Policy or our privacy practices please send an email message to [privacy@Rownine.com](mailto:privacy@Rownine.com). 
+To prevent unauthorized access, maintain data accuracy and ensure the appropriate use of information, we have put in place physical, electronic and managerial procedures to protect the information we collect online. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt that information using secure socket layer technology (SSL). 
+
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. Please note, however, that no method of transmission over the internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. If you have any questions about security on the Website, you can contact us at [security@beyondtherack.com](mailto:security@beyondtherack.com). 
+
+Beyond the Rack has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. 
+
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us either by: 
+
+  * Emailing our Customer Service team at [privacy@beyondtherack.com](mailto:privacy@beyondtherack.com), or
+  * Calling our toll-free number at **1-877-733-4660** on weekdays, between 8AM - 8PM ET and weekends between 10AM - 2PM ET or
+  * Mailing to:
+
+
+
+Privacy Matters  
+c/o Beyond the Rack  
+4600 Hickmore  
+Montreal, Quebec  
+H4T 1K2, Canada 
+
+If you have questions or concerns regarding this privacy policy, you should first contact Customer Service. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). TRUSTe will then serve as a liaison with Beyond the Rack to address your concerns. 
+
+The TRUSTe program covers only information that is collected through the Website. 
+
+The information Beyond the Rack gathers falls into two categories: 
+
+  1. Personally identifiable information, which includes personal information you supply when you register, order, complete a survey, enter a contest, provide your email address or provide your friends’ emails addresses and
+  2. Non-personally identifiable information collected through technology, which includes tracking information collected as you navigate the Website.
+
+
+
+**__Personally Identifiable Information That You Provide Us__**
+
+Registration for the BTR Services requires that you supply certain personally identifiable information, including, in most cases, your first name, your last name, a unique email address and a password to register. This allows BTR to provide you access to your account every time you visit the Website. Beyond the Rack keeps track of your information to offer you the best possible shopping experience. 
+
+To enable the purchase of products, we also collect and store billing and credit card information as well as your address, telephone number or any other information required to process your order. 
+
+This information may be disclosed to specific members of our staff and to select third parties (such as our credit card processor and shipping provider) involved in the completion of your transaction and delivery of your order. Examples of this include fulfilling orders and processing credit card payments service providers. 
+
+We will also use your email address to notify you about new services, special promotional programs, promotional offers or any information related to BTR Services. 
+
+At any time, you can notify us that you wish to stop receiving these emails by either: 
+
+  * Making the appropriate selections in your account management center, or
+  * Following the "unsubscribe" instructions located near the bottom of each email, or
+  * Contacting us at [unsubscribe@beyondtherack.com](mailto:unsubscribe@beyondtherack.com) requesting that we remove your email from our database. To do so please include your email in the body of your email, and put "Unsubscribe" in the subject line, or
+  * Calling our toll-free number at **1-877-733-4660** on weekdays, between 8AM - 8PM ET and weekends between 10AM - 2PM ET.
+
+
+
+In addition, we keep a record of your past purchases, returns, and credits. We may also ask you for information regarding your personal preferences and demographics to better meet your needs. 
+
+The Website is targeted for use by a general audience; BTR does not market to or create special areas for use by children. Accordingly, BTR does not collect age identifying information nor does BTR knowingly collect any personal information, even in aggregate, from children under the age of 13 years. However, we hereby advise all visitors to the Website under the age of 13 not to disclose or provide any personally identifiable information on the Website. In the event that we discover that a child under the age of 13 has provided personally identifiable information to BTR, in accordance with the Children's Online Privacy Protect Act ([see the Federal Trade Commission's website](http://www.ftc.gov/privacy/privacyinitiatives/childrens.html)), we will delete the child's personally identifiable information from our files and databases to the extent technologically possible. 
+
+You may choose to log-on, create an account or enhance your profile at beyondtherack.com with the Facebook Connect feature on the Website. By doing this, you are asking Facebook to send us registration information from your Facebook profile. We treat that information as we do any other information you give to us when you log on, register or create a profile. After you have connected, Facebook also sends us additional information from your profile that allows us to display a Facebook module on the pages you view. We do not store this additional information. 
+
+Beyond the Rack collects personal information such as your first name, your last name, a unique email address and a password from readers in connection with optional sweepstakes, contests or special offers. If this information is to be shared with a third party other than Beyond the Rack, we will notify you at the time of collection. If you do not want any personal information shared, you may always decline to participate in the sweepstakes, contest or special offer. 
+
+Beyond the Rack may collect personal information such as your first name, your last name, a unique email address and a password as well as your opinion on specific BTR services from members in connection with voluntary surveys. Data may be collected on the Website, on the phone or through the mail. The information you provide by answering optional survey questions may be shared, but only in the aggregate, with advertisers and partners unless we notify you otherwise at the time of collection. 
+
+If your personal identifiable information changes, or if you no longer desire our services, you may correct, update, delete/deactivate it by either: 
+
+  * Making the necessary changes in your member information page, or
+  * Emailing our Customer Service team at [privacy@beyondtherack.com](mailto:privacy@beyondtherack.com), or
+  * Calling our toll-free number at **1-877-733-4660** on weekdays, between 8AM - 8PM ET and weekends between 10AM - 2PM ET, or
+  * Mailing to:
+
+
+
+Privacy Matters  
+c/o Beyond the Rack   
+4600 Hickmore  
+Montreal, Quebec  
+H4T 1K2, Canada  
+
+
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
+If you choose to use BTR’s invite a friend referral service to invite your friends to join the Website or send an email regarding a product/event to a friend, we will ask you for your friend’s email address. We will automatically send your friend a one-time email inviting him or her to visit the Website. Beyond the Rack stores this information for the purpose of sending this one-time email and three email reminders and tracking the success of its invite a friend referral program. 
+
+You can also import contacts from your Outlook or another email account address book to invite your friends to become members of the Website. We collect the username and password for the email account from which you wish to import your contacts and will only use it for this purpose. 
+
+Your friend may contact us at [unsubscribe@beyondtherack.com](mailto:unsubscribe@beyondtherack.com) to request that we remove this information from our database by either: 
+
+  * Making the necessary changes in your member information page, or
+  * Emailing our Customer Service team at [privacy@beyondtherack.com](mailto:privacy@beyondtherack.com), or
+  * Calling our toll-free number at **1-877-733-4660** on weekdays, between 8AM - 8PM ET and weekends between 10AM - 2PM ET, or
+  * Mailing to:
+
+
+
+Privacy Matters  
+c/o Beyond the Rack  
+4600 Hickmore  
+Montreal, Quebec  
+H4T 1K2, Canada  
+
+
+We may disclose personal information if we are required to do so by law or we in good faith believe that such action is necessary to (1) comply with the law or with legal process; (2) protect and defend our rights and property; (3) protect against misuse or unauthorized use of the BTR Services; or (4) protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions). 
+
+**_Non-Personally Identifiable Information Collected Using Technology_**
+
+**Device Information:** We may collect information about the computer, mobile telephone, smartphone or other device you use to access the Website. 
+
+Some of the services and advertisements included in the BTR Services, including on beyondtherack.com, are delivered or served by third-party companies that may place or recognize cookies, Web beacons or other technology to track certain non-personally identifiable information about the Website users. For example, in the course of serving certain advertisements, some advertisers may place or recognize a unique cookie on your browser in order to collect certain information about your use of the BTR Services. In many cases, this information could be used to show you ads based on your interests on other websites. 
+
+Please note that we do not have access to, nor control over, advertisers' or service providers' cookies or how they may be used. 
+
+The Website also transmits non-personally identifiable Website usage information about visitors to the servers of reputable third parties. To do this, BTR uses Web Beacons in conjunction with cookies provided by our third-party ad server vendors. 
+
+The purpose is to recognize you, provide personalization, improve your shopping experience, save you time, help us understand where our visitors are going and how much time they spend there, as well as to target internet banner advertisements on other sites. You will not be able to access certain areas of the Website, if your computer does not accept cookies from beyondtherack.com. 
+
+A cookie is a small piece of information that is stored on a computer for the purpose of identifying that browser during interaction on the websites. Cookies may be used to store items such as identifiers and user preferences. A website may set a cookie to the browser if the browser's preferences allow it. A browser only permits a website to access the cookies it has set, not those set by other websites. 
+
+A session ID cookie expires when you close your browser. A persistent cookie remains on your computer for an extended period of time. You can remove persistent cookies by following the directions provided in your Internet browser’s “help” file. If you reject cookies, you may still use the Website, but your ability to use some areas of the Website may be limited. 
+
+BTR uses third party vendors to store cookies on your computer when you first visit the Website in order to enable BTR to recognize you each time you come back to the Website. Our third party vendors use both session ID cookies and/or persistent cookies. Through cookies BTR can customize the Website to your individual preferences in order to create a more personalized and convenient user experience. 
+
+Please note that cookies stored on your computer through the Website or BTR email campaigns do not store personally identifiable information about you or your finances. 
+
+Our third party vendors, including Google, use cookies to serve ads based on your prior visits to the Website. 
+
+For example, Google is one of the companies that serve advertisements for beyondtherack.com. The [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) is used by Google in the ads served on the websites of its partners, such as websites displaying AdSense ads or participating in Google certified ad networks. When users visit a partner's website and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help better serve and manage ads on the Website and across the Web. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/ads/preferences). 
+
+You may opt out of the use of the DoubleClick DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html). Alternatively, you may opt out of third-party vendors use of cookies by visiting the Network Advertising Initiative [opt-out page](http://www.networkadvertising.org/managing/opt_out.asp). 
+
+We also use Google conversion tracking to measure the conversion rate related to our Google AdWords campaigns. This allows Google to tell us how users find the Website using Google. To protect the user's privacy Google’s cookie is not personally-identifiable and expires in 30 days. If you want to disable conversion tracking cookies, you can set your browser to block cookies from the googleadservices.com domain. Please refer to the [Google Advertising and Privacy](http://www.google.com/privacy/ads/) for more information about Google Conversion Tracking and the ability to opt out. 
+
+You have choices about the collection of information by third parties on the Website: 
+
+  1. If you would like more information about advertisers' use of cookies, and about your option not to accept these cookies, please [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
+  2. If you would like to opt-out of having interest-based information collected during your visits to this Website or other sites, please [click here](http://www.aboutads.info/choices/).
+
+
+
+Your access to the Website will not be affected if you do not accept cookies served by third parties. 
+
+A web beacon is an object that is embedded in a web page or e-mail and is usually invisible to the user but allows checking that a user has viewed a specific page of the Website or e-mail. 
+
+BTR and our third party advertising partner employ a tracking technique called web beacons. Web beacons can be small (usually 1×1 pixel) transparent GIF or PNG with a unique identifier, similar in function to cookies, embedded in an HTML page, usually a page on the web or the content of an e-mail, used to know if a user has completed a specific action like registering or placing an order. We do not tie the information gathered by web beacons to our customers’ personally identifiable information. 
+
+We use web beacons in our HTML-based emails to know which emails have been opened by recipients. This allows BTR to gauge the effectiveness of certain communications and marketing campaigns. If you would like to opt-out of these emails, please proceed by either: 
+
+  * Making the appropriate selections in your account management center, or
+  * Following the "unsubscribe" instructions located near the bottom of each email, or
+  * Contacting us at [unsubscribe@beyondtherack.com](mailto:unsubscribe@beyondtherack.com) requesting that we remove your email from our database. To do so please include your email in the body of your email, and put "Unsubscribe" in the subject line, or
+  * Calling our toll-free number at **1-877-733-4660** on weekdays, between 8AM - 8PM ET and weekends between 10AM - 2PM ET.
+
+
+
+**Analytics Technologies:** BTR uses third party tools to collect information, reports and analysis about the usage, browsing patterns of users of the Website. 
+
+BTR uses this data to make improvements to your shopping experience and to ensure that the Website has enough capacity to properly serve all of our users. The software provides aggregate reporting information to Beyond the Rack only. No personal or personally identifiable information is gathered or used for this process. 
+
+The Website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies" to help the Website analyze how users use the Website. The information generated by the cookie about your use of the Website (including your IP address) will be transmitted to and stored by Google on its servers. Google will use this information for the purpose of evaluating your use of the Website, compiling reports on Website activity for Website operators and providing other services relating to Website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of the Website. By using the Website, you consent to the processing of data about you by Google in the manner and for the purposes set out above. 
+
+We use the information we gather about you to enable your use of the BTR Services. 
+
+We perform statistical, demographic and marketing analyses of users of the BTR Services, and their subscribing and purchasing patterns, for product development purposes and to generally inform advertisers about the nature of our subscriber base. Beyond the Rack uses this information for analysis purposes, including analysis to improve customer relationships. 
+
+We use the information that we collect to allow advertising to be targeted to the users for whom such advertising is most pertinent. We also use this information to customize certain features of the BTR Services to provide you with an enhanced experienced based on the type of device you are using to access the BTR Services, and in certain cases, provide you with requested services. 
+
+We may use demographic and preference information to allow advertising on the BTR Service to be targeted, in aggregate, to the users for whom they are most pertinent. This means users see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive, improving both the viewer's experience and the effectiveness of the ads. We disclose information to third parties only in aggregate form. 
+
+BTR will periodically send you promotional emails about services offered by Beyond the Rack and its advertisers. For details about Beyond the Rack’s mail policy, please see the section labeled "Email Policy" below. 
+
+If you have registered to use the BTR Services, we will not sell, rent, swap or authorize any third party to use your email address or any information that personally identifies you without your permission. We do, however, share information about our audience in aggregate form. 
+
+We contract with other companies to provide services on our behalf, including hosting the Website, operating various features made available on the Website, sending emails, analyzing data, providing search results and links, credit-card and payment processing, shipping, email distribution, list processing and analytics, customer service through live chat software, order fulfillment or promotions management. 
+
+We provide these companies only with the information they need to perform their services. These service providers are restricted from using this data in any way other than to provide services for Beyond the Rack, and they may not share or resell this data. 
+
+We reserve the right to disclose your unsubscribe information to third parties so they can suppress your name from future solicitations, in accordance with applicable laws. We may occasionally release personal information as required by law, for example, to comply with a court order or subpoena. 
+
+**Beyond the Rack complies fully with the federal CAN-SPAM Act of 2003 and the Canadian Fighting Internet and Wireless Spam[Bill C-28](http://www2.parl.gc.ca/sites/lop/legisinfo/index.asp?Language=E&Chamber=N&StartList=A&EndList=Z&Session=23&Type=0&Scope=I&query=7019&List=toc-1)**. We will not share, sell, rent, swap or authorize any third party to use your email address without your permission. If you feel you have received an email from us in error, please contact us at [privacy@beyondtherack.com](mailto:privacy@beyondtherack.com). 
+
+**Account and Service-Related Email:** Beyond the Rack reserves the right to send you emails relating to your account status. This includes order confirmations, notices of credit-card problems, other transactional emails and notifications about major changes to the BTR Services. 
+
+**Promotional Email:** BTR may periodically email you messages about products and services that we think may be of interest to you. You can choose not to receive messages in the future by either: 
+
+  * Making the appropriate selections in your account management center, or
+  * Following the "unsubscribe" instructions located near the bottom of each email, or
+  * Contacting us at [unsubscribe@beyondtherack.com](mailto:unsubscribe@beyondtherack.com) requesting that we remove your email from our database. To do so please include your email in the body of your email, and put "Unsubscribe" in the subject line, or
+  * Calling our toll-free number at **1-877-733-4660** on weekdays, between 8AM - 8PM ET and weekends between 10AM - 2PM ET.
+
+
+
+**Survey Email:** BTR may send you an email inviting you to participate in user surveys, asking for feedback on BTR Services and existing or prospective products and services, as well as information to better understand our users. User surveys greatly help us to improve BTR Services, and any information obtained in such surveys will not be shared with third parties, except in aggregate form. 
+
+**HTML Email:** When you sign up to receive emails from us, you can select either plain text or HTML (with images) format. If you select the HTML format, we may place a one-pixel gif to determine whether or not you have viewed the email. This process does not leave any information on your computer, nor does it collect information from your computer. Beyond the Rack may share this data with others in aggregate form only. 
+
+**Emails from You:** If you send us emails, you should be aware that information disclosed in emails may not be secure or encrypted and thus may be available to others. We suggest that you exercise caution when deciding to disclose any personal or confidential information in emails. We will use your email address to respond directly to your questions or comments. 
+
+If, at any time, you prefer not to receive promotional emails, traditional mail or telephone solicitations originated by Beyond the Rack and its third party affiliates, you can choose not to receive messages in the future by either: 
+
+  * Making the appropriate selections in your account management center, or
+  * Following the "unsubscribe" instructions located near the bottom of each email, or
+  * Mailing to:
+
+Privacy Matters  
+c/o Beyond the Rack  
+4600 Hickmore  
+Montreal, Quebec  
+H4T 1K2, Canada  
+
+
+  
+
+  * Contacting us at [unsubscribe@beyondtherack.com](mailto:unsubscribe@beyondtherack.com) requesting that we remove your email from our database. To do so please include your email in the body of your email and put "Unsubscribe" in the subject line, or
+  * By Calling our toll-free number at **1-877-733-4660** on weekdays, between 8AM - 8PM ET and weekends between 10AM - 2PM ET.
+
+
+
+BTR automatically logs certain usage information about your use of the Website. This information includes a reading history of the pages you view. We use this information in order to provide you with customized recommendations on beyondtherack.com. We also use log files in the aggregate to analyze usage of the Website. 
+
+In an effort to make the Website as effective and enjoyable as possible, the computers that operate the Website use third party tracking services to collect certain information each time you visit the Website. We store these statistics in log files. Once again, these statistics do not identify you personally, but provide us information regarding the type of users who are accessing the Website and certain browsing activities of those users. This data may include: the IP address of the user accessing the Website (i.e. the unique I.D. number of the user's computer), the type of browser (Internet Explorer, Firefox, Safari, etc.), the operating system (Windows, Mac OS, etc.), the Website the user last visited before linking to the Website, how long the user accessed the Website in any given session, and the date and time of access. We may make extensive use of this data at an aggregated level in order to understand how the Website is being used. We may share some of the aggregate findings (not the specific data) with advertisers, sponsors, investors, strategic partners, and others in order to help grow our business. 
+
+**BTR Web Account:** You may update and/or edit your BTR account information online on the Website. Should you require assistance, please call us toll-free number at **1-877-733-4660** on weekdays, between 8AM - 8PM ET and weekends between 10AM - 2PM ET. 
+
+**Manage Your beyondtherack.com Account at Member Center:** You may review and update your beyondtherack.com account information and access your transaction history in the Member Center by logging at [www.beyondtherack.com](http://www.beyondtherack.com/). 
+
+To gain access to the Member Center, you will be asked to enter your password. If you do not remember your password, you can request it by using the “Forgot Password” functionality. If you need further assistance, please contact Customer Service by email at [service@beyondtherack.com](mailto:service@beyondtherack.com) or By Calling our toll-free number at **1-877-733-4660** on weekdays, between 8AM - 8PM ET and weekends between 10AM - 2PM ET. 
+
+There are a number of things you can do in the Member Center to ensure your personal information is accurate and up to date. 
+
+  1. You can update the information provided during the registration process. You may securely update your first and last name; email and shipping address, phone, and password registered on the account and provide us some basic demographic data.
+  2. You can also subscribe or unsubscribe from Beyond the Rack’s periodic events emails, by clicking on the “Notifications” sub tab and unchecking the email notifications that you do not want to receive anymore and clicking "UPDATE."
+  3. You can also track your orders by selecting the “Track Orders” tab.
+  4. Finally you also have the ability to invite your friends to join BTR by clicking the “INVITATIONS” tab to get a $10.00 credit for each friend that purchases an item through the Website.
+
+
+
+**Email**
+
+If, at any time, you prefer not to receive email marketing information from us, please proceed by either: 
+
+  * Making the appropriate selections in your account management center. [Click here](http://www.beyondtherack.com/) to log in to your Beyond the Rack account. Click on the "Account" section at the top of the navigational bar and proceed to the "NOTIFICATIONS" section. On the “NOTIFICATIONS” page please uncheck the email notifications that you want to unsubscribe from and click "UPDATE", or
+  * Following the "unsubscribe" instructions located near the bottom of each email, or
+  * Mailing to:
+
+Privacy Matters  
+c/o Beyond the Rack   
+4600 Hickmore  
+Montreal, Quebec  
+H4T 1K2, Canada  
+
+
+  
+
+  * Contacting us at [unsubscribe@beyondtherack.com](mailto:unsubscribe@beyondtherack.com) requesting that we remove your email from our database. To do so please include your email in the body of your email and put "Unsubscribe" in the subject line, or
+  * Calling our toll-free number at **1-877-733-4660** on weekdays, between 8AM - 8PM ET and weekends between 10AM - 2PM ET.
+
+
+
+The Website includes links to other websites whose privacy practices may differ from those of Beyond the Rack. If you submit personal information to any of those websites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit. 
+
+With your consent we may post your testimonial along with your first name. 
+
+The testimonials presented on the Website are applicable to the individuals depicted and may not be representative of the experience of others. 
+
+The testimonials are not paid and are not indicative of future performance or success. 
+
+We reserve the right to choose which testimonials will be published on the Website or in advertising materials. 
+
+If you want your testimonial to be removed please contact us at [testimonials@beyondtherack.com](mailto:testimonials@beyondtherack.com) and we will remove it as soon as reasonably possible. 
+
+We may edit your testimonial for errors such as spelling and grammar prior to adding it to the Website or to any advertising material. 
+
+In order to protect your privacy, we do not include surnames and/or family names with testimonials. 
+
+The Website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [service@beyondtherack.com](mailto:service@beyondtherack.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
+
+Beyond the Rack may be forced to disclose information in order to comply with a subpoena, court order, administrative or governmental order, or any other requirement of law, or when Beyond the Rack, in its sole discretion, deems it necessary in order to protect our rights or the rights of others, to prevent harm to persons or property, to fight fraud and credit risk, or to enforce or apply the Website terms of use. Personally identifiable information may be transferred as an asset in connection with a merger or sale (including any transfers made as part of an insolvency or bankruptcy proceeding) involving all or part of our business or as part of a corporate reorganization, stock sale, or other change in control. 
+
+You acknowledge that this Privacy Policy is part of the Terms of Use and you unconditionally agree that using this Website signifies your assent to Beyond the Rack's Privacy Policy. If you do not agree with this Privacy Policy, please do not use the Website. Your visit and any dispute over privacy matters are subject to this policy and our Terms of Use, including limitations on damages. Beyond the Rack reserves the right to change the terms of use and this Privacy Policy, at any time. We will post any changes on the Website so that you are always aware of our Privacy Policy, so please make sure to check back periodically. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. We stand behind the promises we make and we will never change our policies and practices to make them less protective of you personally identifiable information without your consent. 
+
+If you have any questions or suggestions regarding our privacy policy please let us know by either: 
+
+  * Emailing our Customer Service team at [privacy@beyondtherack.com](mailto:privacy@beyondtherack.com), or
+  * Calling our toll-free number at **1-877-733-4660** on weekdays, between 8AM - 8PM ET and weekends between 10AM - 2PM ET, or
+  * Mailing to:
+
+
+
+Privacy Matters  
+c/o Beyond the Rack  
+4600 Hickmore  
+Montreal, Quebec  
+H4T 1K2, Canada  
+
