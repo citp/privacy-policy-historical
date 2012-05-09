@@ -1,913 +1,577 @@
-<!--The following is the downloaded HTML source of the iii.co.uk privacy policy that was archived on 2011-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110510140751id_/http%3A//www.iii.co.uk/about/%3Ftype%3Dlegal%26subtype%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iii.co.uk privacy policy that was archived on 2012-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120509131523id_/http%3A//www.iii.co.uk/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-
-<title>Interactive Investor - About us </title>
-<meta name="keywords" content="">
-<meta name="description" content="The most comprehensive UK investment service on the web. All the information you need to make an investment decision. Prices for UK and international shares, stocks, unit trusts, investment trusts and pension funds. News, analysis, performance information, tools, discussion groups and a powerful portfolio to track all your investments.">
-<meta name="resource-type" content="document">
-<meta name="revisit-after" content="7 days">
-<meta name="classification" content="Consumer">
-<meta name="robots" content="INDEX">
-<meta name="distribution" content="Global">
-<meta name="rating" content="Safe For Kids">
-<meta name="verify-v1" content="">
-<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-<link rel="stylesheet" href="/print.css" media="print" type="text/css">
-<link rel="stylesheet" href="/main_ie.css" media="screen" type="text/css">
-<script language="JavaScript" type="text/javascript">
-<!--
-/* Load javascript dependant styles */
-document.write("<link rel='stylesheet' href='/javascript.css' media='screen' type='text/css' />");
-
-// Tabbed editorial stories
-NewTab = new Array ();
-var ids;
-var TabNum = 0;
-var TabLength = NewTab.length - 1;
-var delay = 6000;
-var lock = false;
-var run;
-
-function assignTabs(ids) {
-	myNewTab = ids.split('/');
-	NewTab = myNewTab;
-	TabLength = NewTab.length - 1;
-}
-
-// Auto news panel rotating
-function autoTab(myids, newdelay) {
-	ids = myids;
-	if (newdelay) {
-		delay = newdelay;
-	}
-	if (lock == true) {
-		lock = false;
-		window.clearInterval(run);
-	} else if (lock == false) {
-		lock = true;
-		run = setInterval("chgTab(ids, 1)", delay);
-	}
-}
-
-function chgTab(myids, direction) {
-	if (myids) {
-		assignTabs(myids);
-	}
-	var currpanel = document.getElementById(NewTab[TabNum]);
-	TabNum = TabNum + direction;
-		if (TabNum > TabLength) {
-			TabNum = 0;
-		}
-		if (TabNum < 0) {
-			TabNum = TabLength;
-		}
-	var nextpanel = document.getElementById(NewTab[TabNum]);
-	nextpanel.style.zIndex = 2;
-	currpanel.style.zIndex = 1;
-}
-
-// Show or hide id
-function swap(show, hide) {
-	var showpanel = document.getElementById(show);
-	var hidepanel = document.getElementById(hide);
-	showpanel.className = 'hide';
-	hidepanel.className = 'show';
-}
-
-/* Display tabbed panel's contents (using .tabpanel, .tab, .tabactive, tabpanelcontents) */
-function selectTab(n, numDiv, panelID) {
-	// iterate all tab-panels
-	for (var i = 0; i < numDiv; i++) {
-		var panel = window.document.getElementById(panelID + "panel" + i);
-		var tab = document.getElementById(panelID + "tab" + i);
-		z = panel.style.zIndex
-		// if clicked and not front, move to front
-		if (i == n && z != ((numDiv * 2) - 1)) {
-			z = numDiv + 98;
-			t = numDiv + 99;
-			c = 'tabactive';
-		} else {
-			z = (numDiv - i);
-			t = z;
-			c = 'tab';
-		}
-		panel.style.zIndex = z;
-		tab.style.zIndex = t;
-		tab.className = c;
-	}
-}
-
-/* Show particular tab -and panel replaces selectTab above */
-function showPanel(panel,size,Id) {
-	for (var i = 0; i <= size; i++) {
-		panelId = panel + i;
-		element = document.getElementById(panelId);
-		elementP = document.getElementById(panelId+"body");
-		if (i == Id) {
-			element.className = "tabsactive";
-			elementP.style.display = "";
-		} else {
-			element.className = "";
-			elementP.style.display = "none";
-		}
-	}
-}
-
-// Create a popup window 
-// href defines the target url
-// size (optional) defines the popup window size. e.q. 350x250
-function popuphelp(href,size) {
-  var dim = 'width=350,height=250';
-  if (size) {
-    var dims = size.split('x');
-    dim = 'width='+ dims[0] +',height='+ dims[1];
-  }
-  if (href.indexOf("knowledgebase.iii") != -1){
-    href += "__popup";
-  }
-  var popup = window.open(href, "popup", dim + ",scrollbars,resizable");
-  popup.focus();
-  return false;
-}
-
-// -->
-</script><link rel="stylesheet" href="/javascript.css" media="screen" type="text/css">
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Privacy Policy | Interactive Investor</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" href="http://static1.iii.co.uk/sites/default/files/i5d_favicon.ico" type="image/x-icon">
 
 
-<script language="JavaScript" type="text/javascript">
-<!--
-function get_current_user ()
-{
-	var III_user = ''; 
-		return III_user;
-}
-	
-function logged_in_user()
-{
-		
-	var logincol= document.getElementById('logincol');
-	var loggedin= document.getElementById('loggedin');
-	var logintempcol= document.getElementById('logintempcol');
-
-	logintempcol.style.display="none";
-	loggedin.style.display="none";
-	logincol.style.display="";
-	}
-
-function set_loginbox_focus()
-{
-	document.login_form.III_username.focus();
-		}
-// -->
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<link rel="apple-touch-icon" href="http://static1.iii.co.uk/sites/all/themes/iii2010/apple-touch-icon-precomposed.png">
+<link rel="apple-touch-icon" sizes="72x72" href="http://static1.iii.co.uk/sites/all/themes/iii2010/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon" sizes="114x114" href="http://static1.iii.co.uk/sites/all/themes/iii2010/apple-touch-icon-114x114-precomposed.png">
+<link type="text/css" rel="stylesheet" media="all" href="http://static1.iii.co.uk/sites/default/files/css/css_2aa193c51d6f218934501e19cab58e5e.css">
+<link type="text/css" rel="stylesheet" media="print" href="http://static1.iii.co.uk/sites/default/files/css/css_762bf6bb9ea1acf2e35ea9bb20baa297.css">
+<!--[if IE]>
+<link type="text/css" rel="stylesheet" media="all" href="http://static1.iii.co.uk/sites/all/themes/iii2010/ie.css?J" />
+<![endif]-->
+<!--[if lt IE 8]>
+<link type="text/css" rel="stylesheet" media="all" href="http://static1.iii.co.uk/sites/all/themes/i5d/ielt8.css?J" />
+<![endif]-->
+<noscript><link rel="stylesheet" href="http://static1.iii.co.uk/sites/all/themes/i5d/noscript.css" type="text/css" /></noscript>
+<script type="text/javascript" src="http://static1.iii.co.uk/sites/default/files/js/js_7b53327de34091138f392bc32b282afe.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","beautytips":{"cite":{"fill":"#F7F7F7","padding":8,"strokeStyle":"#B7B7B7","cornerRadius":0,"cssStyles":{"fontFamily":"\"lucida grande\",tahoma,verdana,arial,sans-serif","fontSize":"11px"},"cssSelect":"cite","list":["fill","padding","strokeStyle","cornerRadius","cssStyles"]},".beautytips":{"fill":"#F7F7F7","padding":8,"strokeStyle":"#B7B7B7","cornerRadius":0,"cssStyles":{"fontFamily":"\"lucida grande\",tahoma,verdana,arial,sans-serif","fontSize":"11px"},"cssSelect":".beautytips","list":["fill","padding","strokeStyle","cornerRadius","cssStyles"]},"bt_sharprice":{"fill":"#C7E4FF","padding":8,"strokeStyle":"#2A7DEB","cornerRadius":5,"cssStyles":{"fontFamily":"\"lucida grande\",tahoma,verdana,arial,sans-serif","fontSize":"11px"},"cssSelect":"a.shareprice-lookup","ajaxPath":["$(this).attr('popup')"],"width":300,"strokeWidth":2,"shadow":true,"shadowBlur":3,"list":["fill","padding","strokeStyle","cornerRadius","cssStyles","ajaxPath","width","strokeWidth","shadow","shadowBlur"]}},"googleanalytics":{"trackOutgoing":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|avi|csv|doc|exe|flv|gif|gz|jpe?g|js|mp(3|4|e?g)|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip"},"iii":{"rsCat":0},"lightbox2":{"rtl":0,"file_path":"\/(\\w\\w\/)sites\/default\/files","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":1,"resize_sequence":0,"resize_speed":100,"fade_in_speed":100,"slide_down_speed":100,"use_alt_layout":0,"disable_resize":0,"disable_zoom":0,"force_show_nav":0,"show_caption":1,"loop_items":0,"node_link_text":"","node_link_target":0,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\u003e\u003ckbd\u003ex\u003c\/kbd\u003e\u003c\/a\u003e to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":0},"views":{"ajax_path":"\/views\/ajax","ajaxViews":[{"view_name":"sitewide_warning","view_display_id":"block_1","view_args":"","view_path":"node\/7699","view_base_path":null,"view_dom_id":1,"pager_element":0}]}});
+//--><!]]>
 </script>
-<script>
-
-<!--WEBSIDESTORY CODE HBX1.0 (Universal)-->
-<!--COPYRIGHT 1997-2004 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
-var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
-var hbx=_hbEvent("pv");hbx.vpc="HBX0100u";hbx.gn="i.iii.co.uk";
-
-hbx.acct="DM541020K6CS";
-hbx.pn="legal/privacy";
-hbx.mlc="Investing+About+us";
-hbx.pndef="title";
-hbx.ctdef="full";
-hbx.fv="";
-hbx.lt="auto";
-hbx.dlf="n";
-hbx.dft="n";
-hbx.elf="n";
-
-hbx.seg="";
-hbx.fnl="";
-
-hbx.cmp="";
-hbx.cmpn="";
-hbx.dcmp="";
-hbx.dcmpn="";
-hbx.dcmpe="";
-hbx.dcmpre="";
-hbx.hra="";
-hbx.hqsr="";
-hbx.hqsp="";
-hbx.hlt="";
-hbx.hla="";
-hbx.gp="";
-hbx.gpn="";
-hbx.hcn="";
-hbx.hcv="";
-
-hbx.cp="null";
-hbx.cpd="";
-
-hbx.ci="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
-hbx.hc1="";
-hbx.hc2="+";
-hbx.hc3="";
-hbx.hc4="";
-hbx.hrf="";
-hbx.pec="";
-
-</script>
-
-<!-- REVENUE SCIENCE AD TAG CODE -->
-<script type="text/javascript" language="JavaScript" charset="utf-8">
-<!--
-var rsi_segs = [];
-var segs_beg=document.cookie.indexOf('rsi_segs=');
-if(segs_beg>=0){
-segs_beg=document.cookie.indexOf('=',segs_beg)+1;
-if(segs_beg>0){
-var segs_end=document.cookie.indexOf(';',segs_beg);
-if(segs_end==-1)segs_end=document.cookie.length;
-rsi_segs=document.cookie.substring(segs_beg,segs_end).split('|');
-}}
-var segLen=20
-var segQS="",segArr=new Array()
-if (rsi_segs.length<segLen){segLen=rsi_segs.length}
-for (var i=0;i<segLen;i++){
-segArr=rsi_segs[i].split("_")
-if (segArr.length>1) segQS+=("rsi"+"="+segArr[1]+";")
-}
-//-->
-</script>
-<!-- END REVENUE SCIENCE AD TAG CODE -->
-
-<!-- OAS SETUP begin -->
-
-<script language="JavaScript">
-var adds_lookup= new Array();
-adds_lookup['Top1']='top';
-adds_lookup['TopRight1']='topright1';
-adds_lookup['MastHead16']='masthead16';
-adds_lookup['xRight3']='left3';
-adds_lookup['MastHead4']='masthead4';
-adds_lookup['Centre1']='centre1';
-adds_lookup['xRight3_to_Right1']='left3_to_left1';
-adds_lookup['MastHead5']='masthead5';
-adds_lookup['MastHead9']='masthead9';
-adds_lookup['MastHead11']='masthead11';
-adds_lookup['MastHead6']='masthead6';
-adds_lookup['MastHead19']='masthead19';
-adds_lookup['xRight1_to_Right3']='left1_to_left3';
-adds_lookup['Sky_2']='sky_2';
-adds_lookup['xmpu_bottom']='mpu_bottom';
-adds_lookup['xMPU']='mpu';
-adds_lookup['Poster1']='poster1';
-adds_lookup['Bottom']='bottom';
-adds_lookup['MastHead8']='masthead8';
-adds_lookup['xMastHead']='masthead';
-adds_lookup['MastHead14']='masthead14';
-adds_lookup['MastHead2']='masthead2';
-adds_lookup['MastHead18']='masthead18';
-adds_lookup['MastHead17']='masthead17';
-adds_lookup['MastHead']='masthead';
-adds_lookup['Right3_to_Right1']='left3_to_left1';
-adds_lookup['Right1_to_Right3']='left1_to_left3';
-adds_lookup['MastHead7']='masthead7';
-adds_lookup['MastHead12']='masthead12';
-adds_lookup['Right3']='left3';
-adds_lookup['MastHead15']='masthead15';
-adds_lookup['xBottom']='bottom';
-adds_lookup['MastHead13']='masthead13';
-adds_lookup['mpu_bottom']='mpu_bottom';
-adds_lookup['Top']='top';
-adds_lookup['Top2']='top';
-adds_lookup['MPU']='mpu';
-adds_lookup['MastHead20']='masthead20';
-adds_lookup['MastHead3']='masthead3';
-adds_lookup['Right1']='left1';
-adds_lookup['Centre2']='centre2';
-adds_lookup['xTop']='top';
-adds_lookup['MastHead1']='masthead1';
-adds_lookup['MastHead10']='masthead10';
-adds_lookup['MidTop']='midtop';
-adds_lookup['xRight1']='left1';
-
-function convert_tag(tag)
-{
-        if (tag)
-        {
-                var theirtag = adds_lookup[tag];
-                return theirtag;
-        }
-        return;
-}
-</script>
-<script type="text/javascript" language="JavaScript" charset="utf-8">
-<!--
-var adds_xy_lookup= new Array();
-var adds_x_lookup= new Array();
-var adds_y_lookup= new Array();
-adds_xy_lookup['topright1']='125x125';
-adds_x_lookup['topright1']='125';
-adds_y_lookup['topright1']='125';
-adds_xy_lookup['masthead16']='468x30';
-adds_x_lookup['masthead16']='468';
-adds_y_lookup['masthead16']='30';
-adds_xy_lookup['masthead4']='468x30';
-adds_x_lookup['masthead4']='468';
-adds_y_lookup['masthead4']='30';
-adds_xy_lookup['centre1']='468x30';
-adds_x_lookup['centre1']='468';
-adds_y_lookup['centre1']='30';
-adds_xy_lookup['masthead5']='468x30';
-adds_x_lookup['masthead5']='468';
-adds_y_lookup['masthead5']='30';
-adds_xy_lookup['left1_to_left3']='120x600';
-adds_x_lookup['left1_to_left3']='120';
-adds_y_lookup['left1_to_left3']='600';
-adds_xy_lookup['left3']='120x600';
-adds_x_lookup['left3']='120';
-adds_y_lookup['left3']='600';
-adds_xy_lookup['masthead9']='468x30';
-adds_x_lookup['masthead9']='468';
-adds_y_lookup['masthead9']='30';
-adds_xy_lookup['masthead11']='468x30';
-adds_x_lookup['masthead11']='468';
-adds_y_lookup['masthead11']='30';
-adds_xy_lookup['masthead6']='468x30';
-adds_x_lookup['masthead6']='468';
-adds_y_lookup['masthead6']='30';
-adds_xy_lookup['masthead19']='468x30';
-adds_x_lookup['masthead19']='468';
-adds_y_lookup['masthead19']='30';
-adds_xy_lookup['sky_2']='120x600';
-adds_x_lookup['sky_2']='120';
-adds_y_lookup['sky_2']='600';
-adds_xy_lookup['poster1']='224x600';
-adds_x_lookup['poster1']='224';
-adds_y_lookup['poster1']='600';
-adds_xy_lookup['bottom']='468x60';
-adds_x_lookup['bottom']='468';
-adds_y_lookup['bottom']='60';
-adds_xy_lookup['masthead8']='468x30';
-adds_x_lookup['masthead8']='468';
-adds_y_lookup['masthead8']='30';
-adds_xy_lookup['masthead14']='468x30';
-adds_x_lookup['masthead14']='468';
-adds_y_lookup['masthead14']='30';
-adds_xy_lookup['masthead2']='468x30';
-adds_x_lookup['masthead2']='468';
-adds_y_lookup['masthead2']='30';
-adds_xy_lookup['masthead18']='468x30';
-adds_x_lookup['masthead18']='468';
-adds_y_lookup['masthead18']='30';
-adds_xy_lookup['masthead17']='468x30';
-adds_x_lookup['masthead17']='468';
-adds_y_lookup['masthead17']='30';
-adds_xy_lookup['left3_to_left1']='120x240';
-adds_x_lookup['left3_to_left1']='120';
-adds_y_lookup['left3_to_left1']='240';
-adds_xy_lookup['masthead']='468x30';
-adds_x_lookup['masthead']='468';
-adds_y_lookup['masthead']='30';
-adds_xy_lookup['left1']='120x240';
-adds_x_lookup['left1']='120';
-adds_y_lookup['left1']='240';
-adds_xy_lookup['masthead7']='468x30';
-adds_x_lookup['masthead7']='468';
-adds_y_lookup['masthead7']='30';
-adds_xy_lookup['masthead12']='468x30';
-adds_x_lookup['masthead12']='468';
-adds_y_lookup['masthead12']='30';
-adds_xy_lookup['masthead15']='468x30';
-adds_x_lookup['masthead15']='468';
-adds_y_lookup['masthead15']='30';
-adds_xy_lookup['masthead13']='468x30';
-adds_x_lookup['masthead13']='468';
-adds_y_lookup['masthead13']='30';
-adds_xy_lookup['mpu_bottom']='300x250';
-adds_x_lookup['mpu_bottom']='300';
-adds_y_lookup['mpu_bottom']='250';
-adds_xy_lookup['top']='468x60';
-adds_x_lookup['top']='728';
-adds_y_lookup['top']='90';
-adds_xy_lookup['mpu']='300x250';
-adds_x_lookup['mpu']='300';
-adds_y_lookup['mpu']='250';
-adds_xy_lookup['masthead20']='468x30';
-adds_x_lookup['masthead20']='468';
-adds_y_lookup['masthead20']='30';
-adds_xy_lookup['masthead3']='468x30';
-adds_x_lookup['masthead3']='468';
-adds_y_lookup['masthead3']='30';
-adds_xy_lookup['centre2']='180x150';
-adds_x_lookup['centre2']='180';
-adds_y_lookup['centre2']='150';
-adds_xy_lookup['masthead1']='468x30';
-adds_x_lookup['masthead1']='468';
-adds_y_lookup['masthead1']='30';
-adds_xy_lookup['masthead10']='468x30';
-adds_x_lookup['masthead10']='468';
-adds_y_lookup['masthead10']='30';
-adds_xy_lookup['midtop']='468x60';
-adds_x_lookup['midtop']='468';
-adds_y_lookup['midtop']='60';
-
-function xypos(tag)
-{
-        if (tag)
-        {
-                var xypos = adds_xy_lookup[tag];
-                return xypos;
-        }
-        return;
-}
-
-
-
-
-function xpos(tag)
-{
-        if (tag)
-        {
-                var xpos = adds_x_lookup[tag];
-                return xpos;
-        }
-        return;
-}
-
-
-
-
-function ypos(tag)
-{
-        if (tag)
-        {
-                var ypos = adds_y_lookup[tag];
-                return ypos;
-        }
-        return;
-}
-
-
-
-// -->
-</script>
-<script language="javascript" type="text/javascript">
-<!-- 
-var adHost = document.location.protocol;
-if (adHost == "http:"){
-	document.write('');
-}
-ord=Math.random()*10000000000000000;
-var my_tile=0;
-var III_OAS_AD_POS = new Array();
-var window_fully_loaded=0;
-var use_iframes=0;
-
-
-var III_OAS_list_array = new Array();
-var III_OAS_IF_list_array = new Array();
-
-	III_OAS_list_array['top']='1';
-	III_OAS_list_array['left1']='1';
-	III_OAS_list_array['left3']='1';
-	III_OAS_list_array['bottom']='1';
-
-	function addLoadEvent(func) 
-{
-  	var oldonload = window.onload;
-  	if (typeof window.onload != 'function') 
-	{
-    	window.onload = func;
-  	} 
-	else 
-	{
-    	window.onload = function() 
-		{
-      		oldonload();
-      		func();
-    	}
-	}
-}
-
-function make_ad_string(pos,type)
-{
-
-		if (type == null)
-		{
-			return;
-		}
-		if (pos == null)
-		{
-			return;
-		}
-
-		var my_dcopt;
-		if (pos == convert_tag('Top'))
-		{
-			my_dcopt = 'ist' ;
-		}
-		else if(pos == convert_tag('Top1'))
-		{
-			my_dcopt = 'ist' ;
-		}
-		else if(pos == convert_tag('Top2'))
-		{
-			my_dcopt = 'ist' ;
-		}
-		else
-		{
-			my_dcopt='';
-		}
-
-		
-		var ad_str = 'ii_about/;zone=;pos=' + pos + ';env=;dcopt=' + my_dcopt + ';sz='+xypos(pos) + ';tile=' + my_tile + ';is_ifa=no' + ';' + segQS + 'ord=' + ord + '?';
-		var string = 'http://ad.uk.doubleclick.net/' + type + '/' + ad_str;
-
-		return string;
-}
-
-		
-
-function OAS_AD (pos) {
-	if ((III_OAS_list_array[pos] == null)&&(III_OAS_IF_list_array[pos] == null)){
-
-	} else {
-
-		my_tile++;
-		var ad_i = make_ad_string(pos,'adi');
-		var ad_j = make_ad_string(pos,'adj');
-		var ad_k = ad_j;
-		var string;
-		var strnof;
-		if (!(III_OAS_IF_list_array[pos] == null)){
-			var jump = make_ad_string(pos,'jump');
-			if (use_iframes == 0){
-				use_iframes=1;
-				addLoadEvent(OAS_SERVE_ADS);
-			}
-			if (III_OAS_AD_POS[pos]==null){
-				III_OAS_AD_POS[pos]= 1;
-			} else {
-				III_OAS_AD_POS[pos]++;
-			}
-			var posname = pos + '_DIV' + III_OAS_AD_POS[pos];
-
-			string = '<iframe src="/ads/bg.html"  id=' + posname + ' name="' + posname + '" frameborder="0" vspace="0" hspace="0" marginwidth="0" marginheight="0" width="' + xpos(pos) + '" height="' + ypos(pos) + '" scrolling="no" style="overflow-x:visible;overflow-y:visible;" ALLOWTRANSPARENCY="true"><script language="JavaScript1.1" src="' + ad_i + '"></' + 'script></iframe>';
-			strnof = '<NOSCRIPT> <a href="' + jump + '"  TARGET="_blank"><img src="' + ad_i + '"></A></NOSCRIPT>';
-		} else {
-			string='<script language="JavaScript1.1" src="' + ad_j + '"><\/' + 'script>';	
-		}
-		var adsite = 'ii_about';
-		if (adsite == 'ii_news') {
-			string='<script language="JavaScript1.1" src="' + ad_k + '"><\/' + 'script>';
-		}
-		// Hack to stop Mozilla giving server error. url end up like GET /news/'%20+%20ad_j%20+%20' HTTP/1.0" 404
-                if (adHost == "http:"){
-			document.write(string);
-		}
-                // Also a Hack to stop Mozilla giving server error. url end up like GET /'%20+%20jump%20+%20' HTTP/1.0" 404 
-		if (!(III_OAS_IF_list_array[pos] == null)){
-	 		if (/http/.test(strnof)){
-				document.write(strnof);
-			}
-		}
-	}
-}
-
-function OAS_SERVE_ADS() 
-{
-		for (pos in III_OAS_IF_list_array)
-	{
-		OAS_SERVE_AD(pos);
-	}
-}
-
-function OAS_SERVE_AD(pos)
-{
-	var undefined;
-	var pos_number = III_OAS_AD_POS[pos];
-	var hidden_posname = pos + '_DIV' + pos_number + '_hidden';
-	var real_posname = pos + '_DIV' + pos_number;
-
-	if (III_OAS_IF_list_array[pos] == null)	
-	{
-	}
-	else
-	{
-		my_tile++;
-		var url_i = make_ad_string(pos,'adi');
-
-		var real_position = document.getElementById(real_posname);
-
-		if (real_position)
-		{
-			real_position.src=url_i;
-		}
-
-	}
-		//alert('Pos = ' + pos + ' size = ' + xypos(pos) + ' tile = ' + my_tile + ' dcopt = ' + my_dcopt);
-}
-
-//-->
-</script>
-<!-- OAS SETUP end -->
-<script language="javascript1.1" src="/js/hbx.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var rsJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
+document.write(unescape("%3Cscript src='" + rsJsHost + "js.revsci.net/gateway/gw.js?csid=E07590&auto=t' type='text/javascript'%3E%3C/script%3E"));
+//--><!]]>
+</script><script src="https://js.revsci.net/gateway/gw.js?csid=E07590&amp;auto=t" type="text/javascript"></script>
 </head>
+<body class="not-front not-logged-in node-type-page one-sidebar sidebar-right page-privacy section-privacy">
 
-<body bgcolor="#ffffff">
-<div class="hide"><a href="#content" title="Skip navigation" accesskey="2">Skip navigation</a></div>
+  <div id="page"><div id="page-inner">
 
-<div id="top">
-<table style="margin:0; padding:0" width="770" cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr valign="middle">
-	<td class="brand" align="left" nowrap="nowrap">
-	<a href="/"><img src="/icons/logos/uk_logo2.gif" width="190" height="90" border="0" alt="logo"></a>
-	</td>
-	<td class="advert" align="right">
-<script language="JavaScript" type="text/javascript">
-<!--
- OAS_AD(convert_tag('Top'));
--->
-</script>
-	</td>
-	</tr>
-</tbody></table>
+    <a name="navigation-top" id="navigation-top"></a>
+          <div id="skip-to-nav"><a href="#navigation">Skip to Navigation</a></div>
+    
+    <div id="header"><div id="header-inner" class="clear-block">
+              <div id="logo-title">
+          <div id="logo"><a href="/" title="Home" rel="home"><img src="http://static1.iii.co.uk/sites/all/themes/i5d/logo.png" alt="Home" id="logo-image"></a></div>
+                <div id="ad-header-blocks" class="region region-ad-header"><div id="block-iii_dart-1" class="block block-iii_dart region-odd odd region-count-1 count-3"><div class="block-inner">
+
+  
+  <div class="content">
+    <!-- iii_dart --><iframe src="http://static1.iii.co.uk/sites/all/modules/iii/iii_dart/dart.php?p=ii_home;pos=top;dcopt=ist;sz=468x60;tile=1;ord=207999514" width="728" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" bordercolor="#ffffff"></iframe>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
 </div>
+                </div> <!-- /#logo-title -->
 
-	<script language="JavaScript1.1" type="text/javascript">
-<!--
-function navcheckform(f) {
-	var exchosen = 0;
-	if ((f.searchterm.value == null) || (f.searchterm.value == "")) {
-		alert("You have not entered any search text");
-		return false;
-	}
-	else { return true; }
-}
+    </div></div> <!-- /#header-inner, /#header -->
 
-function NavAct(act) {
-	document.navsearchbox.action = act;
-}
-// -->
-</script>
+    <div id="main"><div id="main-inner" class="clear-block with-navbar">
 
-<div id="usertools" class="dontprint">
+      <div id="content">
+                        <div id="content-inner">
+
+        
+                  <div id="content-header">
+                        <h1 class="title">Privacy Policy</h1>
+                                                                      </div> <!-- /#content-header -->
+        
+          <div id="content-area">
+            <div id="node-7699" class="node node-type-page"><div class="node-inner">
+
+    
+  
+        
+  <div class="content">
+     <p>Version: 16 August 2007</p>
+<h3>Introduction</h3>
+<ol>
+<li>We take our obligations under the Data Protection Act 1998 and all related regulations ("the Act") very seriously and have taken steps to ensure compliance with the provisions of the Act.</li>
+<li>This Privacy Policy sets out the principles governing our use of your Personal Data. By registering to use the services available on our website (the "Site") and by using the Site generally, you agree to the principles set out below.  Defined terms in this Privacy Policy have the same meanings as in the <a href="/terms">General Site Conditions</a> and the Act.</li>
+</ol>
+<h3>What Personal Data do we collect and why</h3>
+<ol start="3">
+<li>When you register and use the Site, we will ask you to provide certain data, such as your contact details and demographic information.  We may supplement the information that you provide us with information we receive from our Service Providers and/or other third parties.</li>
+<li>
+    The principal purposes for which we process and store your Personal Data are:
 <ul>
-  <li title="Search across the whole site for: Articles, Editorial comment, Business and Market News, Members' postings on discussion boards" style="padding-left:22px; background:url(/i/ii/search19x19.gif) left center no-repeat; float:right; margin:-9px 6px">
-    <form action="/search" name="navsearchbox" onsubmit="return navcheckform(this)" method="get">
-      <input class="formtext" onclick="this.select()" name="searchterm" size="30" type="text" value="">
-      <input type="hidden" name="type" value="quotes">
-      <input type="hidden" name="it" value="le">
-      <input type="hidden" name="it" value="li">
-      <input type="hidden" name="it" value="lg">
-      <input type="hidden" name="it" value="lb">
-      <input type="hidden" name="it" value="leit">
-      <input type="hidden" name="it" value="letf">
-      <input type="hidden" name="it" value="plus">
-      <input type="hidden" name="it" value="ye">
-      <input type="hidden" name="it" value="arca">
-      <input type="hidden" name="it" value="ase">
-      <input type="hidden" name="it" value="ne">
-      <input type="hidden" name="it" value="ukut">
-      <input type="hidden" name="it" value="ukpn">
-      <input type="hidden" name="it" value="ukin">
-      <input type="hidden" name="it" value="ukof">
-      <input type="hidden" name="it" value="usi">
-      <input type="radio" id="ch_search" checked="checked" name="option" onclick="NavAct(this.value)" value="/search/">
-      <label for="ch_search">Site</label> 
-      <input type="radio" id="ch_quote" name="option" onclick="NavAct(this.value)" value="/quotes/">
-      <label for="ch_quote">Shares</label> 
-      <input class="button" name="submitButtonName" type="submit" value="Search">
-    </form>
-  </li>
-<li>&nbsp;&nbsp;Tuesday 10 May 2011</li>
+<li>to allow you to personalise services provided via the Site (for example, allowing you to create and customise your own portfolios);</li>
+<li>to speed up the application process for Trading Services (for example, by collecting personal details we can pre-populate new applications and other forms on the Site saving you time in filling in those details);</li>
+<li>to monitor, improve and administer the Site and the services provided on the Site;</li>
+<li>to enable Service Providers to assist in providing, maintaining and operating the Trading Services;</li>
+<li>to enable us to conduct surveys and aggregate user profiles;</li>
+<li>to enable us to conduct prize draws which you have entered via the Site;</li>
+<li>to provide you with information on selected products and selected services that we think may be of interest to you (unless you have asked us not to do so); and</li>
+<li>to enable us to comply with our legal and regulatory obligations.</li>
+<li>to contact you to ensure customer satisfaction in respect of our role as a site provider  and assist you in getting the best value from our service.</li>
 </ul>
+<p>    Full details of the purposes are set out in our Data Protection registration.
+  </p></li>
+<li>As part of our customer service we may also share your Personal Data with other companies so that we can provide you with appropriate information about our or other company's products and selected services. You will be able to indicate on the Site if you do not wish to receive such information. You may also notify us at any time on the "My Profile" page on the Site or by contacting the Interactive Investor Contact Centre on 0845 88 00 267 if you decide you do not want to receive such information.</li>
+<li>If you decide you would rather not receive email communications on selected products and selected services then you can unsubscribe from these by:
+<ul>
+<li>using the  ‘unsubscribe’ link in emails; or</li>
+<li>by going to ‘Newsletter subscription’ section of  ‘My Account’.</li>
+</ul>
+</li>
+</ol>
+<h3>Use of Cookies</h3>
+<ol start="6">
+<li>To enable us to provide the services available on the Site and to monitor and improve the Site, we may gather certain information about you, including details of your operating system, browser version, domain name and IP address, the details of the web site you linked from to the Site.</li>
+<li>We may use cookies only to store information such as your User name and your session identifiers to enable us to identify whether you are registered on to the Site and, if so, to shortcut your access to the Site.  We will only read cookies from your cookie file placed there through your web browser's interaction with the Site.</li>
+<li>Third party advertising cookies: some of the advertisements you see on this site are generated by third parties. Some of these third parties generate their own "anonymous cookies", for the same reasons we do: to track how many unique users have seen a particular ad, and how many times they have seen it and provide you with advertisements that are more relevant to your interests. Additionally, the companies that generate these cookies have their own, very strict, privacy policies but we don't have access to these cookies; other than allowing them to be served, we have no role to play in these cookies at all (although we may use statistical information arising from these third party cookies and provided to us by third parties, to improve the targeting of advertisements to users).</li>
+<li>Interactive Investor may use pixels, or transparent GIF files to help manage online advertising. The GIF files are provided by our ad management partners to enable them to recognise a unique cookie on your web browser, and to display adverts which are of relevance to you. The information collected is anonymous and is not personally identifiable.</li>
+</ol>
+<h3>Security of your Personal Data</h3>
+<ol start="10">
+<li>We endeavour to take all reasonable steps to protect your Personal Data including the use of encryption technology, but cannot guarantee the security of any Personal Data you disclose online. You accept the inherent security implications of dealing online over the internet and will not hold us responsible for any breach of security unless we have been negligent or in wilful default. </li>
+<li>For further information on the security of the Site and your Personal Data please click here to view our Security Policy.</li>
+</ol>
+<h3>Communications between us</h3>
+<ol start="12">
+<li>We may intercept, record and/or monitor any communication(s) (including telephone calls or other electronic communications) between you and us. We may do so in order to resolve queries in the future and for the purposes of ensuring security, staff training and complying with our regulatory and legal responsibilities.</li>
+<li>In the case of communications by email you should note that as emails are not currently encrypted (and may therefore be intercepted by third parties) and as the identity of the sender cannot be confirmed you must NOT provide your security details by email and should avoid providing any Personal Data to us by email.  We will not provide Personal Data to you be email.</li>
+<li>We have certain responsibilities under the Money Laundering Regulations 2003 and the <cite title="Financial Services Authority
+Chief financial regulator for the financial services industry, as of May 2011, though the Coalition Government has earmarked it for reform. The body to turn to if you want general advice or to complain about any aspect of personal finance. Its website http://www.fsa.org.uk - offers lots of useful guidance. And if you want to check whether a certain financial company is fully authorised to be doing what it is doing, look at the FSA's Central Register - www.thecentralregister.co.uk.
+Here are the FSA's other contact details:-
+Address:
+The Financial Services Authority
+25 The North Colonnade
+Canary Wharf
+London E14 5HS
+Telephone:
+Switchboard: 020 7676 1000
+Public Enquiries (including Central Register authorisation queries): 0845 606 1234 (local call rates)
+Fax: 020 7676 1099 ,
+E-mail: enguiries@fsa.gov.uk
+">FSA</cite> Rules to verify the identity of clients and may need to make certain enquiries and obtain certain information from you for that purpose. You confirm that all information you supply will be accurate and that we may disclose such information as we consider necessary to comply with any reporting or legal and regulatory requirements.</li>
+<li>You agree that we may disclose to the FSA and to any other regulatory authority to which we are subject and to any investment exchange on which we may deal or to its related clearing house (or to investigators, inspectors or agents appointed by them), or to any person empowered to require such information by or under any legal enactment, any information they may request or require relating to you or, if relevant, any of your clients.</li>
+</ol>
+<h3>Obtaining copies of and changing your Personal Data</h3>
+<ol start="16">
+<li>
+    In the event that you wish to see a copy of your Personal Data held by us please visit the "My Profiles" page on the Site or write to:
+<p>The Interactive Investor Data Protection Officer<br>
+Interactive Investor Trading Limited<br>
+21 Mansell Street,<br>
+London<br>
+EC1 8AA</p>
+</li>
+<li>We will amend or delete any Personal Data relating to you which is found to be incorrect or not relevant in accordance with the Act.  If you are aware of any changes that should be made to your Personal Data please visit the "My Profiles" page on the Site or otherwise notify the Interactive Investor Contact Centre on 0845 88 00 267 as soon as possible.</li>
+</ol>
+<h3>Our use of 3rd party services</h3>
+<p>We use the following third party services that impact your online privacy:</p>
+<ul>
+<li>Google Analytics. For further information see:<br>
+  <a href="http://www.google.com/intl/en/analytics/privacyoverview.html" title="Google Privacy Center">http://www.google.com/intl/en/analytics/privacyoverview.html</a></li>
+<li>Audience Science - used to deliver targeted advertising on our site and other sites using Audience Science. For further information see:<br>
+  <a href="http://www.audiencescience.com/uk/privacy" title="Privacy Policy | AudienceScience">http://www.audiencescience.com/uk/privacy</a></li>
+</ul>
+<h3>How to contact us</h3>
+<p>You can contact us by:</p>
+<ul>
+<li>By telephone: 0845 88 00 267</li>
+<li>By writing to us at: Interactive Investor, Standon House, 21 Mansell Street, London E1 8AA</li>
+<li>By email: <a href="mailto:help@iii.co.uk">help@iii.co.uk</a></li>
+</ul>
+   </div>
+
+            
+</div></div> <!-- /node-inner, /node -->
+          </div>
+
+          
+                      <div id="content-bottom" class="region region-content_bottom"><div id="block-iii-6" class="block block-iii region-odd even region-count-1 count-6"><div class="block-inner">
+
+  
+  <div class="content">
+    <!-- iiicentre2010-split-here -->  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+</div> <!-- /#content-bottom -->
+          
+        </div>
+      </div> <!-- /#content-inner, /#content -->
+
+            <div id="navbar"><div id="navbar-inner" class="clear-block region region-navbar">
+
+          <a name="navigation" id="navigation"></a>
+          <div id="block-menu-menu-anon" class="block block-menu region-odd even region-count-1 count-4"><div class="block-inner">
+
+  
+  <div class="content">
+    <ul class="menu"><li class="leaf first"><a href="https://www.iii.co.uk/auth/reg/?orig_url=/reg/&amp;orig_server=www.iii.co.uk&amp;orig_method=GET&amp;" title="">Sign in</a></li>
+<li class="leaf"><a href="http://www.iii.co.uk/reg/wealth" title="">My Portfolio</a></li>
+<li class="leaf last"><a href="http://www.iii.co.uk/registration" title="">Register now</a></li>
+</ul>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-menu-primary-links" class="block block-menu region-even odd region-count-2 count-5"><div class="block-inner">
+
+  
+  <div class="content">
+    <ul class="menu"><li class="leaf first"><a href="/" title="">Home</a></li>
+<li class="expanded"><a href="/trading" title="Trading">Trading</a><ul class="menu"><li class="expanded first"><a href="/sharedealing" title="Share Dealing">Share Dealing</a><ul class="menu"><li class="collapsed first"><a href="/trading/share-dealing/find-and-trade" title="Find and Trade Shares">Find &amp; Trade</a></li>
+<li class="collapsed"><a href="/trading/share-dealing/how-do-i-invest" title="How do I invest">How to Invest</a></li>
+<li class="leaf"><a href="/trading/share-dealing/what-can-i-invest" title="Share Dealing - what can I invest in?">What can I invest in?</a></li>
+<li class="leaf"><a href="/trading/mobile" title="">Mobile Trading</a></li>
+<li class="leaf"><a href="/trading/share-dealing/trading-ideas" title="Trading Ideas">Trading Ideas</a></li>
+<li class="leaf"><a href="/trading/share-dealing/charges" title="Share Dealing Charges">Charges</a></li>
+<li class="leaf last"><a href="http://www.iii.co.uk/investing/isas/self-select" title="">Self-select ISA</a></li>
+</ul></li>
+<li class="expanded"><a href="/imtrader/spreadbetting" title="Spread Betting with Interactive Investor">Spread Betting</a><ul class="menu"><li class="collapsed first"><a href="/trading/spread-betting/trading-ideas" title="Spreadbetting Ideas and Strategies">Trading Ideas</a></li>
+<li class="leaf"><a href="/trading/spread-betting/knowledge" title="Knowledge Centre">Knowledge</a></li>
+<li class="leaf"><a href="/imtrader/spreadbetting/charges" title="">Charges</a></li>
+<li class="leaf"><a href="/imtrader/spreadbetting/legal" title="">Legal</a></li>
+<li class="leaf last"><a href="/imtrader/spreadbetting/risk" title="">Risk Warning</a></li>
+</ul></li>
+<li class="expanded"><a href="/imtrader/cfd" title="CFD Trading with Interactive Investor">CFD Trading</a><ul class="menu"><li class="collapsed first"><a href="/trading/cfds/trading-ideas" title="Ideas and strategies">Trading Ideas</a></li>
+<li class="leaf"><a href="/trading/cfds/knowledge-centre" title="Knowledge Centre">Knowledge</a></li>
+<li class="leaf"><a href="/imtrader/cfd/charges" title="">Charges</a></li>
+<li class="leaf"><a href="/imtrader/legal" title="">Legal</a></li>
+<li class="leaf last"><a href="/imtrader/cfd/risk" title="">Risk Warning</a></li>
+</ul></li>
+<li class="expanded"><a href="/imtrader/forex" title="Spot Forex Trading with Interactive Investor">Forex</a><ul class="menu"><li class="collapsed first"><a href="/trading/forex/trading-ideas" title="Forex Ideas and Strategies">Trading Ideas</a></li>
+<li class="leaf"><a href="/trading/forex/knowledge-centre" title="Knowledge Centre">Knowledge</a></li>
+<li class="leaf"><a href="/imtrader/forex/charges" title="">Charges</a></li>
+<li class="leaf"><a href="/imtrader/legal" title="">Legal</a></li>
+<li class="leaf last"><a href="/imtrader/forex/risk" title="">Risk Warning</a></li>
+</ul></li>
+<li class="expanded last"><a href="http://www.iii.co.uk/investing/isas" title="">ISAs</a><ul class="menu"><li class="leaf first"><a href="http://www.iii.co.uk/investing/isas/self-select" title="">Self-select ISAs</a></li>
+<li class="leaf"><a href="http://www.iii.co.uk/investing/isas/funds-isas" title="">Fund ISAs</a></li>
+<li class="leaf"><a href="http://www.iii.co.uk/investing/model-portfolios" title="">Model Portfolios</a></li>
+<li class="leaf"><a href="http://www.iii.co.uk/packages/" title="Ready Made Selections">Ready Made</a></li>
+<li class="leaf"><a href="http://www.iii.co.uk/investing/isas/bed-isa" title="">Bed &amp; ISA</a></li>
+<li class="leaf"><a href="http://www.iii.co.uk/investing/charges" title="">Charges</a></li>
+<li class="leaf last"><a href="http://www.iii.co.uk/investing/isas/what-invest/secure-your-allowance" title="Secure your Allowance">Secure Allowance</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded"><a href="/investing" title="Investing">Investing</a><ul class="menu"><li class="expanded first"><a href="/investing/investments-accounts" title="">Investments &amp; Accounts</a><ul class="menu"><li class="leaf first"><a href="/investing/interactive-investor-account" title="">Interactive Investor Account</a></li>
+<li class="leaf"><a href="/funds" title="">Funds</a></li>
+<li class="leaf"><a href="/investing/investment-trusts" title="">Investment Trusts</a></li>
+<li class="leaf"><a href="/etfs" title="">Exchange Traded Funds</a></li>
+<li class="leaf"><a href="/isas" title="">ISAs</a></li>
+<li class="leaf"><a href="/investment-trusts" title="">SIPPs</a></li>
+<li class="leaf"><a href="/vcts" title="">VCT/EIS</a></li>
+<li class="leaf"><a href="/investing/investments-accounts/transfers" title="">Transfers In</a></li>
+<li class="leaf last"><a href="/investing/charges" title="">Charges</a></li>
+</ul></li>
+<li class="expanded"><a href="/investing/portfolios" title="">Portfolios</a><ul class="menu"><li class="leaf first"><a href="/investing/portfolios" title="">Real Portfolio</a></li>
+<li class="leaf"><a href="/investing/portfolios" title="">Virtual Portfolio</a></li>
+<li class="leaf"><a href="/model-portfolios" title="">Model Portfolios</a></li>
+<li class="leaf"><a href="/investing/portfolio-doctor" title="">Portfolio Doctor</a></li>
+<li class="leaf last"><a href="/trading/mobile" title="">Mobile Portfolios</a></li>
+</ul></li>
+<li class="expanded"><a href="/investing/how-am-i-doing" title="">How Am I Doing?</a><ul class="menu"><li class="leaf first"><a href="/investing/leaderboard" title="">Investor Leaderboard</a></li>
+<li class="leaf"><a href="/investing/funds-discussion" title="">Fund discussions</a></li>
+<li class="leaf"><a href="/investing/portfolio-doctor" title="">Portfolio Doctor</a></li>
+<li class="leaf last"><a href="/investing/get-started/questionnaire" title="">Risk Questionnaire</a></li>
+</ul></li>
+<li class="expanded"><a href="/investing/research-centre" title="">Research Centre</a><ul class="menu"><li class="leaf first"><a href="/investing/funds/top-10" title="">Top Funds</a></li>
+<li class="leaf"><a href="/investing/investment-trusts/top-10" title="">Top Investment Trusts</a></li>
+<li class="leaf"><a href="/investing/etfs/top-10" title="Top Exchange Traded Funds">Top ETFs</a></li>
+<li class="leaf"><a href="/investing/research/articles" title="">Features &amp; Analysis</a></li>
+<li class="leaf last"><a href="/investing/research/forms" title="">Useful forms</a></li>
+</ul></li>
+<li class="expanded last"><a href="/investing/get-started" title="">Getting Started</a><ul class="menu"><li class="leaf first last"><a href="/investing/get-started" title="">Start here!</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded"><a href="/tools-research" title="Tools &amp; Research">Tools &amp; Research</a><ul class="menu"><li class="expanded first"><a href="/tradingtools" title="Trading Tools">Trading Tools</a><ul class="menu"><li class="leaf first"><a href="http://www.iii.co.uk/markets/?type=stockfilter" title="">Stock Filter</a></li>
+<li class="leaf"><a href="/tools-research/trading-tools/technical-insight" title="Technical Insight">Technical Insight</a></li>
+<li class="leaf"><a href="http://www.iii.co.uk/funds/fundfilter?task=show_fund_search" title="">Fund Search</a></li>
+<li class="leaf"><a href="/investing/funds/top-10" title="">Top 10 Funds</a></li>
+<li class="collapsed"><a href="/tools-research/trading-tools/quotestream" title="Quotestream">Quotestream</a></li>
+<li class="leaf last"><a href="http://www.iii.co.uk/reg/wealth" title="">Portfolio</a></li>
+</ul></li>
+<li class="expanded"><a href="/tools-research/research" title="Research">Research</a><ul class="menu"><li class="leaf first"><a href="http://www.iii.co.uk/markets/?type=winners" title="">Winners / Losers</a></li>
+<li class="leaf"><a href="http://www.iii.co.uk/markets/?type=volume" title="">Most Active</a></li>
+<li class="leaf"><a href="/tools-research/research/trading-activity" title="">Trading Activity</a></li>
+<li class="leaf"><a href="http://www.iii.co.uk/markets/?type=extreme" title="">Extreme Stocks</a></li>
+<li class="leaf"><a href="http://www.iii.co.uk/markets/?type=holdings" title="">Users' Holdings</a></li>
+<li class="leaf last"><a href="http://www.iii.co.uk/markets/?type=wil" title="Reports recently added">New Reports</a></li>
+</ul></li>
+<li class="expanded"><a href="/tools-research/markets" title="Markets">Markets</a><ul class="menu"><li class="leaf first"><a href="http://www.iii.co.uk/markets/?type=ftse" title="">FTSE 100</a></li>
+<li class="leaf"><a href="http://www.iii.co.uk/markets/?type=aim" title="">AIM</a></li>
+<li class="leaf"><a href="http://www.iii.co.uk/markets/?type=listings" title="">New Issues</a></li>
+<li class="leaf"><a href="http://www.iii.co.uk/markets/?type=indices" title="">Indices</a></li>
+<li class="leaf"><a href="http://www.iii.co.uk/markets/?type=heatmaps" title="">Heatmaps</a></li>
+<li class="leaf last"><a href="http://www.iii.co.uk/markets/?type=sectors" title="">Sectors</a></li>
+</ul></li>
+<li class="expanded last"><a href="/tools-research/knowledge-centre" title="">Knowledge Centre</a><ul class="menu"><li class="leaf first"><a href="/tools-research/glossary" title="">Investment Glossary</a></li>
+<li class="leaf"><a href="/tools-research/knowledge-centre/fundamental-analysis" title="Fundamental Analysis">Fundamental Analysis</a></li>
+<li class="leaf"><a href="/tools-research/knowledge-centre/technical-analysis" title="Technical Analysis">Technical Analysis</a></li>
+<li class="leaf"><a href="/tools-research/knowledge-centre/trading-and-investing-strategies" title="Trading and Investing Strategies">Strategies</a></li>
+<li class="leaf last"><a href="/tv/knowledge" title="">Knowledge TV</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded"><a href="/news-opinion" title="News &amp; Opinion">News &amp; Opinion</a><ul class="menu"><li class="expanded first"><a href="/news" title="News">News</a><ul class="menu"><li class="leaf first"><a href="/news-opinion/news/market-report" title="Market Report">Market Report</a></li>
+<li class="leaf"><a href="/news-opinion/news/commodities" title="Commodities">Commodities</a></li>
+<li class="leaf"><a href="/news-opinion/news/economics" title="Economics">Economics</a></li>
+<li class="leaf"><a href="/news-opinion/news/business" title="Business">Business</a></li>
+<li class="leaf"><a href="/news-opinion/news/reuters" title="Reuters">Reuters</a></li>
+<li class="leaf last"><a href="http://www.iii.co.uk/markets/?type=squawk" title="">Market Squawk</a></li>
+</ul></li>
+<li class="expanded"><a href="/news-opinion/features" title="Features">Features</a><ul class="menu"><li class="leaf first"><a href="/news-opinion/features/cfds" title="CFDs">CFDs</a></li>
+<li class="leaf"><a href="/news-opinion/features/commodities" title="Commodities">Commodities</a></li>
+<li class="leaf"><a href="/news-opinion/features/forex" title="Forex">Forex</a></li>
+<li class="leaf"><a href="/news-opinion/features/funds" title="Funds and Investment Trusts">Funds</a></li>
+<li class="leaf"><a href="/news-opinion/features/investment-trusts" title="">Investment Trusts</a></li>
+<li class="leaf"><a href="/news-opinion/features/isas" title="ISAs">ISAs</a></li>
+<li class="leaf"><a href="/news-opinion/features/pensions-sipps" title="Pensions &amp; SIPPs">Pensions &amp; SIPPs</a></li>
+<li class="leaf"><a href="/news-opinion/features/share-trading" title="Share Trading">Share Trading</a></li>
+<li class="leaf last"><a href="/news-opinion/features/spread-betting" title="Spread Betting">Spread Betting</a></li>
+</ul></li>
+<li class="expanded"><a href="/news-opinion/iitv" title="Financial TV for the private investor delivered in an entertaining and lively style that takes the lid off the inner workings of the City and Financial Markets.">iiTV</a><ul class="menu"><li class="leaf first"><a href="/tv/iball" title="iBall features the companies investors are tracking focusing on the key issues that are driving the share price. If there’s an investment story to tell, iBall will tell it, in a unique and entertaining way.">iBall</a></li>
+<li class="leaf"><a href="http://www.moneywise.co.uk/news-views/tv" title="Moneywise TV focuses on the personal finance issues we all face, giving straight forward advice, removing the confusion that can surround personal finance decisions.">Moneywise TV</a></li>
+<li class="leaf"><a href="http://www.moneyobserver.com/tv" title="Interviews with Britain's leading fund managers revealing the tips and tactics they use to manage major investment portfolios and target their funds to deliver growth for investors.">Money Observer</a></li>
+<li class="leaf"><a href="/tv/ilight" title="iLight turns the spotlight on CEOs and senior industry figures directing the questions you want answered to them.">iLight</a></li>
+<li class="leaf"><a href="/tv/take2" title="Succinct presentations from leading commentators revealing the inner workings of the City that give perspectives on where the markets are heading.">Take 2</a></li>
+<li class="leaf"><a href="/tv/knowledge" title="">Knowledge</a></li>
+<li class="leaf"><a href="/tv/investor-relations" title="">Video Packages</a></li>
+<li class="leaf last"><a href="/node/20719" title="iiTV Podcasts">Podcasts</a></li>
+</ul></li>
+<li class="expanded"><a href="http://www.iii.co.uk/community" title="">Community</a><ul class="menu"><li class="leaf first"><a href="http://www.iii.co.uk/community/?type=privatebb" title="">Private Boards</a></li>
+<li class="leaf"><a href="http://www.iii.co.uk/community/?type=discussionspy" title="Discussion Spy">Spy</a></li>
+<li class="leaf"><a href="http://www.iii.co.uk/community/?type=recent" title="">Mega Board</a></li>
+<li class="collapsed last"><a href="/news-opinion/community/mailing-lists" title="">Mailing List</a></li>
+</ul></li>
+<li class="expanded"><a href="/news-opinion/blogs" title="">Blogs</a><ul class="menu"><li class="leaf first"><a href="/news-opinion/blog/peter-temple" title="">Peter Temple</a></li>
+<li class="leaf"><a href="/news-opinion/blog/richard-beddard-blog" title="">Richard Beddard</a></li>
+<li class="leaf last"><a href="/news-opinion/blog/colonel" title="">The Colonel</a></li>
+</ul></li>
+<li class="expanded last"><a href="/news-opinion/specials">Specials</a><ul class="menu"><li class="leaf first"><a href="/articles/specials/view-top-interviews" title="View from the top">Interviews</a></li>
+<li class="leaf"><a href="/articles/specials/guide-investing-technology" title="Guide to technology">Technology</a></li>
+<li class="leaf"><a href="/articles/specials/guide-bric" title="Guide to BRIC">Guide to BRIC</a></li>
+<li class="leaf"><a href="/articles/specials/should-i-buy-shares" title="Should I buy shares in...?">Shares in...</a></li>
+<li class="leaf last"><a href="/articles/specials/focus-apple" title="">Apple</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded last"><a href="/everyday-money" title="Everyday Money - Content and tools provided by Moneywise">Everyday Money</a><ul class="menu"><li class="expanded first"><a href="http://www.moneywise.co.uk" title="">Moneywise</a><ul class="menu"><li class="leaf first"><a href="http://www.moneywise.co.uk/investing" title="">Basic Investing</a></li>
+<li class="leaf"><a href="http://www.moneywise.co.uk/pensions" title="">Pensions</a></li>
+<li class="leaf"><a href="http://www.moneywise.co.uk/banking-saving" title="">Saving &amp; Banking</a></li>
+<li class="leaf"><a href="http://www.moneywise.co.uk/home-mortgage" title="">Home &amp; Mortgage</a></li>
+<li class="leaf"><a href="http://www.moneywise.co.uk/insurance" title="">Insurance</a></li>
+<li class="leaf"><a href="http://www.moneywise.co.uk/scams-rip-offs" title="">Scams &amp; Rip-offs</a></li>
+<li class="leaf"><a href="http://www.moneywise.co.uk/cards-loans" title="">Cards &amp; Loans</a></li>
+<li class="leaf"><a href="http://www.moneywise.co.uk/cut-your-costs" title="">Cut Your Costs</a></li>
+<li class="leaf last"><a href="http://www.moneywise.co.uk/work-wages" title="">Work &amp; Wages</a></li>
+</ul></li>
+<li class="expanded"><a href="http://www.moneywise.co.uk/" title="">Featured Services</a><ul class="menu"><li class="leaf first"><a href="http://www.moneywise.co.uk/customer-service-awards/results" title="">Customer Service Awards</a></li>
+<li class="leaf"><a href="http://www.dianomioffers.co.uk/partner/moneywise/brochures.epl?partner=123&amp;partner_id=123&amp;campaign=1722" title="">Free brochures</a></li>
+<li class="leaf"><a href="http://www.moneywise.co.uk/news-views" title="">News</a></li>
+<li class="leaf"><a href="http://www.moneywise.co.uk/tv" title="">TV</a></li>
+<li class="collapsed"><a href="/everyday-money/international-money-transfer" title="International Money Transfer">International Money Transfer</a></li>
+<li class="leaf"><a href="http://www.moneywise.co.uk/guides" title="">Guides</a></li>
+<li class="leaf last"><a href="http://www.moneywise.co.uk/competitions" title="">Competitions</a></li>
+</ul></li>
+<li class="expanded last"><a href="http://www.moneywise.co.uk/compare" title="">Moneywise Compare</a><ul class="menu"><li class="leaf first"><a href="http://www.myannuityplan.co.uk/moneywise/?cid=MW004" title="">Compare Annuities</a></li>
+<li class="leaf"><a href="http://www.moneywise.co.uk/compare-mortgages" title="">Compare Mortgages</a></li>
+<li class="leaf"><a href="https://health-insurance.moneywise.co.uk/" title="">Compare Health Insurance</a></li>
+<li class="leaf"><a href="http://broadband.consumerchoices.co.uk/?tid=0&amp;partner=moneywise" title="">Compare Broadband</a></li>
+<li class="leaf"><a href="http://www.energyhelpline.com/moneywise" title="">Compare Gas &amp; Electricity</a></li>
+<li class="leaf last"><a href="http://www.moneywise.co.uk/compare-credit-cards" title="">Compare Credit Cards</a></li>
+</ul></li>
+</ul></li>
+</ul>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+                    <div id="breadcrumb"></div>
+          
+      </div>
+      
+      
+      
+      </div> <!-- /#navbar-inner, /#navbar -->
+      
+
+      
+            <div id="sidebar-right"><div id="sidebar-right-inner" class="region region-right">
+        <div id="block-iii_dart-2" class="block block-iii_dart region-odd odd region-count-1 count-7"><div class="block-inner">
+
+  
+  <div class="content">
+    <!-- iii_dart --><iframe src="http://static1.iii.co.uk/sites/all/modules/iii/iii_dart/dart.php?p=ii_home;pos=mpu;sz=300x250;tile=2;ord=2079342998" width="300" height="250" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" bordercolor="#ffffff"></iframe>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+      </div></div> <!-- /#sidebar-right-inner, /#sidebar-right -->
+      
+    </div></div> <!-- /#main-inner, /#main -->
+
+    
+    <div id="pre-header-blocks" class="region region-pre-header"><div id="block-nice_menus-2" class="block block-nice_menus region-odd odd region-count-1 count-1"><div class="block-inner">
+
+  
+  <div class="content">
+    <ul class="nice-menu nice-menu-down" id="nice-menu-2"><li id="menu-1377" class="menu-path-rss.xml"><a href="/rss.xml" title="">RSS</a></li>
+<li id="menu-1378" class="menu-path-mobile.iii.co.uk"><a href="http://mobile.iii.co.uk" title="">Mobile</a></li>
+<li id="menu-1379" class="menu-path-node-11335"><a href="/about" title="">About us</a></li>
+<li id="menu-3224" class="menuparent menu-path-www.capacc.com"><a href="http://www.capacc.com" title="">Our network</a><ul><li id="menu-3228" class="menu-path-www.ifa.net"><a href="http://www.ifa.net" title="">IFA.net</a></li>
+<li id="menu-3226" class="menu-path-www.moneyobserver.com"><a href="http://www.moneyobserver.com" title="">Money Observer</a></li>
+<li id="menu-3225" class="menu-path-www.moneywise.co.uk"><a href="http://www.moneywise.co.uk" title="">Moneywise</a></li>
+<li id="menu-3227" class="menu-path-www.shareprice.co.uk"><a href="http://www.shareprice.co.uk" title="">Share Price</a></li>
+</ul>
+</li>
+<li id="menu-3016" class="menu-path-node-13598"><a href="/help" title="">Help</a></li>
+</ul>
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-search-0" class="block block-search region-even even region-count-2 count-2"><div class="block-inner">
+
+      <h2 class="title">Search</h2>
+  
+  <div class="content">
+    <form action="/privacy" accept-charset="UTF-8" method="post" id="search-block-form">
+<div><div class="container-inline">
+  <div class="form-item" id="edit-search-block-form-1-wrapper">
+ <label for="edit-search-block-form-1">Search this site: </label>
+ <input type="text" maxlength="128" name="search_block_form" id="edit-search-block-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text">
 </div>
-<div id="breadcrumbs">
-	<div style="float:left">
-<a href="/">Home</a>
-		/ <a href="/about/">About us</a>
-		/ <a href="/about/?type=legal&amp;subtype=privacy">Legal terms</a>
-		</div>
-	<div class="dontprint" style="float:right">
-	<a style="font-weight:normal" title="Register with Interactive Investor for a portfolio, to set up a share dealing account, to buy funds and ISAs, to sign up for newsletters and to access some of our share trading tools and information. It's free to register." href="/registration/">Register</a> |
-		<a style="font-weight:normal" title="Update your address and subscribe to finance newsletters." href="/profile/">My Account</a> |
-		<a style="font-weight:normal" title="The history of Interactive Investor, formerly known as Ample (Ample.com)." href="/about/">About Us</a> |
-<a style="font-weight:normal" title="An overview of the main site areas" href="/help/?type=sitemap">Site Map</a> |
-<a style="font-weight:normal" title="Define all those tricky finance words." href="http://www.finance-glossary.com/pages/home.htm?ginPtrCode=12738&amp;PopupMode=false">Glossary</a> |
-<a style="font-weight:normal" title="Common questions, FAQs, online support, forgotten password" href="/help/">Help</a> |
-		<a style="font-weight:normal" title="General site conditions, discussion board terms, ISA and PEP terms, etc." href="/about/?type=legal">T&amp;Cs</a> |
-		<a title="Login to Interactive Investor" href="/reg/about/?type=legal&amp;subtype=privacy">Login</a>
-		</div>
-</div>
-		
-
-<div style="display:none"></div>
-<div class="advert" style="position:absolute; left:920px; padding:10px 0;">
+<input type="submit" name="op" id="edit-submit" value="Search" class="form-submit">
+<input type="hidden" name="form_build_id" id="form-bed89007e0ee046f76136a2caabb5a3b" value="form-bed89007e0ee046f76136a2caabb5a3b">
+<input type="hidden" name="form_id" id="edit-search-block-form" value="search_block_form">
 </div>
 
-<div id="container">
-<div id="leftcol">
+</div></form>
+  </div>
 
-	<div id="navcontainer">
-
-	<ul><li><ul><li><a title="Business and finance news from Reuters and AFX." href="/news/" class="inactive" name="&amp;lid=lhsnav_News">News</a></li><li><a title="Latest summaries and updates, plus newspaper tips, world investment markets, share prices, share quotes, winners and losers and most active traders." href="/markets/" class="inactive" name="&amp;lid=lhsnav_Markets">Markets</a></li><li><a title="Watch our latest TV episodes" href="/tv/" class="inactive" name="&amp;lid=lhsnav_iiTV">iiTV</a></li><li><a title="Exchange tips on Interactive Investor's bulletin boards and message boards." href="/community/" class="inactive" name="&amp;lid=lhsnav_Discuss">Discuss</a></li><li><a title="News and expert opinion." href="/opinion/" class="inactive" name="&amp;lid=lhsnav_Expert Opinion">Expert Opinion</a></li><li><a title="Sign up for a snapshot of your wealth in our free portfolio. Track your stocks and shares, funds, property and more." href="/portfolio/" class="inactive" name="&amp;lid=lhsnav_Portfolio">Portfolio</a></li><li><a title="Buy and sell stocks and shares. Share dealing news, how to's and information. " href="/sharedealing/" class="inactive" name="&amp;lid=lhsnav_Share Dealing">Share Dealing</a></li><li><a title="Sign up for Spread Betting." href="/imtrader/spreadbetting/" class="inactive" name="&amp;lid=lhsnav_Spread Betting">Spread Betting</a></li><li><a title="" href="/imtrader/forex/account" class="inactive" name="&amp;lid=lhsnav_Forex">Forex</a></li><li><a title="Sign up to trade Contracts For Difference. Short or go long." href="/imtrader/cfd/account" class="inactive" name="&amp;lid=lhsnav_CFD Trading">CFD Trading</a></li><li><a title="Get the most out of trading with our unique set of tools" href="/tradingtools/" class="inactive" name="&amp;lid=lhsnav_Trading Tools">Trading Tools</a></li><li><a title="Un-contended Level 2 for just £20.00 per month; SETS, SETSmm, and SEAQ. Live prices streamed to your portfolio; Trade direct from Level 2; Advanced Charting and Technical Analysis; Real Time Terminal; Live streaming discussions and news integrated within portfolio" href="/quotestream/" class="inactive" name="&amp;lid=lhsnav_Quotestream">Quotestream</a></li><li><a title="Find the highest interest rates on savings accounts. Cash ISAs." href="/savings/" class="inactive" name="&amp;lid=lhsnav_Savings">Savings</a></li><li><a title="Buy a UK ISA from our ISA fund supermarket or transfer." href="/isas/" class="inactive" name="&amp;lid=lhsnav_ISAs">ISAs</a></li><li><a title="Buy funds, ISAs, unit trusts and OEICs online or complete a PEP transfer." href="/funds/" class="inactive" name="&amp;lid=lhsnav_Funds">Funds</a></li><li><a title="Review pension information for your retirement, SIPPs, annuities, tax saving s, pension guides." href="/pensions/" class="inactive" name="&amp;lid=lhsnav_Pensions">Pensions</a></li><li><a title="Buy SIPPs, funds, ISAs, unit trusts and OEICs online or transfer." href="/sipp/" class="inactive" name="&amp;lid=lhsnav_SIPPs">SIPPs</a></li><li><a title="Socially Responsible Investing. Helping you understand the green and ethical investment climate." href="/sri/" class="inactive" name="&amp;lid=lhsnav_Ethical Investing">Ethical Investing</a></li><li><a title="Find a property, UK or abroad, value your home, commercial property, land for sale, buy to let, property as your pension, mortgages, conveyancing and much more" href="/property/" class="inactive" name="&amp;lid=lhsnav_Property">Property</a></li><li><a title="A currency account provides you with direct access to dealers to ensure preferential rates and quality customer service whenever you wish to transfer funds abroad." href="/foreignexchange/" class="inactive" name="&amp;lid=lhsnav_Foreign Exchange">Foreign Exchange</a></li><li><a title="Request free brochures for a range of financial products." href="http://www.dianomioffers.co.uk/partner/iii/brochures.epl?showmenu=1" class="inactive" name="&amp;lid=lhsnav_Free Brochures">Free Brochures</a></li><li><a title="Improve your spending, saving and budgeting by using our financial planning tools." href="/planning/" class="inactive" name="&amp;lid=lhsnav_Planning">Planning</a></li><li><a title="Free review service. Mortgage calculator . Get the best rate. Endowments, re payment, buy to let, property abroad." href="/mortgages/" class="inactive" name="&amp;lid=lhsnav_Mortgages">Mortgages</a></li><li><a title="Compare credit cards , APR, interest rates, platinum cards, etc." href="/creditcards/" class="inactive" name="&amp;lid=lhsnav_Credit cards">Credit cards</a></li><li><a title="Compare loan rates, APR, interest rates, repayment periods." href="/loans/" class="inactive" name="&amp;lid=lhsnav_Loans">Loans</a></li><li><a title="Get help finding the most appropriate life insurance protection policy." href="/lifeinsurance/" class="inactive" name="&amp;lid=lhsnav_Life Insurance">Life Insurance</a></li><li><a title="Compare current accounts and banks, interest rates, overdraft facilities, ch eque books, branch networks." href="/banking/" class="inactive" name="&amp;lid=lhsnav_Banking">Banking</a></li><li><a title="Tax tips and links to the Inland Revenue's online services. Guides to higher and lower rates of tax, tax saving tips, pensions, SIPPS, CGT." href="/tax/" class="inactive" name="&amp;lid=lhsnav_Tax">Tax</a></li><li><a title="Compare and save on gas, electricity and telephone bills. Utilities made easy." href="/cutbills/" class="inactive" name="&amp;lid=lhsnav_Cut your bills">Cut your bills</a></li><li><a title="See the special offers available in the Interactive Investor Bookshop." href="http://books.global-investor.com/pages/books.htm?BookCode=347615;27120;337625;278487;260748;411377;267353;421804;&amp;header=Featured_Titles&amp;ginPtrCode=12738" class="inactive" name="&amp;lid=lhsnav_Bookshop">Bookshop</a></li><li><a title="Sign up for Sport's Betting." href="/sportsbetting/" class="inactive" name="&amp;lid=lhsnav_Sports Betting">Sports Betting</a></li><li><a title="Play roulette online with William Hill." href="http://serve.williamhillcasino.com/promoRedirect?member=iiicouk&amp;campaign=DEFAULT&amp;channel=casinomainnav&amp;zone=14184098&amp;lp=0" class="inactive" name="&amp;lid=lhsnav_Casino">Casino</a></li></ul></li></ul>
-
-	</div>
-	<!-- OAS AD 'Sky_2' begin -->
-<script language="javascript" type="text/javascript">
-<!--
-OAS_AD(convert_tag('Sky_2'));
-// -->
-</script>
-<!-- OAS AD 'Sky_2' end -->
-
-	</div>
-<div id="content">
-
-<div id="widecontent">
-
-
-  <p>Version: 16 August 2007</p>
-
-  <h3>Introduction</h3>
-
-  <ol>
-    <li>We take our obligations under the Data Protection Act 1998 and all related regulations ("the Act") very seriously and have taken steps to ensure compliance with the provisions of the Act.</li>
-
-    <li>This Privacy Policy sets out the principles governing our use of your Personal Data. By registering to use the services available on our website (the "Site") and by using the Site generally, you agree to the principles set out below.  Defined terms in this Privacy Policy have the same meanings as in the <a href="/about/legal">General Site Conditions</a> and the Act.</li>
-  </ol>
-
-  <h3>What Personal Data do we collect and why</h3>
-
-  <ol start="3">
-    <li>When you register and use the Site, we will ask you to provide certain data, such as your contact details and demographic information.  We may supplement the information that you provide us with information we receive from our Service Providers and/or other third parties.</li>
-
-    <li>
-      <p>The principal purposes for which we process and store your Personal Data are:</p>
-
-      <ul>
-        <li>to allow you to personalise services provided via the Site (for example, allowing you to create and customise your own portfolios);</li>
-        <li>to speed up the application process for Trading Services (for example, by collecting personal details we can pre-populate new applications and other forms on the Site saving you time in filling in those details);</li>
-        <li>to monitor, improve and administer the Site and the services provided on the Site;</li>
-        <li>to enable Service Providers to assist in providing, maintaining and operating the Trading Services;</li>
-        <li>to enable us to conduct surveys and aggregate user profiles;</li>
-        <li>to enable us to conduct prize draws which you have entered via the Site;</li>
-        <li>to provide you with information on selected products and selected services that we think may be of interest to you (unless you have asked us not to do so); and</li>
-        <li>to enable us to comply with our legal and regulatory obligations.</li>
-        <li>to contact you to ensure customer satisfaction in respect of our role as a site provider  and assist you in getting the best value from our service.</li>
-      </ul>
-
-      <p>Full details of the purposes are set out in our Data Protection registration.</p>
-    </li>
-
-    <li>As part of our customer service we may also share your Personal Data with other companies so that we can provide you with appropriate information about our or other company's products and selected services. You will be able to indicate on the Site if you do not wish to receive such information. You may also notify us at any time on the "My Profile" page on the Site or by contacting the Interactive Investor Contact Centre on <span style="white-space:nowrap">0845 88 00 267</span> if you decide you do not want to receive such information.</li>
-
-    <li><p>If you decide you would rather not receive email communications on selected products and selected services then you can unsubscribe from these by:</p>
-    <ul>    
-      <li>using the  ‘unsubscribe’ link in emails; or</li>
-      <li>by going to ‘Newsletter subscription’ section of  ‘My Account’.</li>
-    </ul>
-    </li>
-
-  </ol>
-
-  <h3>Use of Cookies</h3>
-
-  <ol start="6">
-    <li>To enable us to provide the services available on the Site and to monitor and improve the Site, we may gather certain information about you, including details of your operating system, browser version, domain name and IP address, the details of the web site you linked from to the Site.</li>
-
-    <li>We may use cookies only to store information such as your User name and your session identifiers to enable us to identify whether you are registered on to the Site and, if so, to shortcut your access to the Site.  We will only read cookies from your cookie file placed there through your web browser's interaction with the Site.</li>
-
-    <li>Third party advertising cookies: some of the advertisements you see on this site are generated by third parties. Some of these third parties generate their own "anonymous cookies", for the same reasons we do: to track how many unique users have seen a particular ad, and how many times they have seen it and provide you with advertisements that are more relevant to your interests. Additionally, the companies that generate these cookies have their own, very strict, privacy policies but we don't have access to these cookies; other than allowing them to be served, we have no role to play in these cookies at all (although we may use statistical information arising from these third party cookies and provided to us by third parties, to improve the targeting of advertisements to users).</li>
-
-    <li>Interactive Investor may use pixels, or transparent GIF files to help manage online advertising. The GIF files are provided by our ad management partners to enable them to recognise a unique cookie on your web browser, and to display adverts which are of relevance to you. The information collected is anonymous and is not personally identifiable.</li>
-  </ol>
-
-  <h3>Security of your Personal Data</h3>
-
-  <ol start="10">
-    <li>We endeavour to take all reasonable steps to protect your Personal Data including the use of encryption technology, but cannot guarantee the security of any Personal Data you disclose online. You accept the inherent security implications of dealing online over the internet and will not hold us responsible for any breach of security unless we have been negligent or in wilful default. </li>
-
-    <li>For further information on the security of the Site and your Personal Data please click here to view our Security Policy.</li>
-  </ol>
-
-  <h3>Communications between us</h3>
-
-  <ol start="12">
-    <li>We may intercept, record and/or monitor any communication(s) (including telephone calls or other electronic communications) between you and us. We may do so in order to resolve queries in the future and for the purposes of ensuring security, staff training and complying with our regulatory and legal responsibilities.</li>
-
-    <li>In the case of communications by email you should note that as emails are not currently encrypted (and may therefore be intercepted by third parties) and as the identity of the sender cannot be confirmed you must NOT provide your security details by email and should avoid providing any Personal Data to us by email.  We will not provide Personal Data to you be email.</li>
-
-    <li>We have certain responsibilities under the Money Laundering Regulations 2003 and the FSA Rules to verify the identity of clients and may need to make certain enquiries and obtain certain information from you for that purpose. You confirm that all information you supply will be accurate and that we may disclose such information as we consider necessary to comply with any reporting or legal and regulatory requirements.</li>
-
-    <li>You agree that we may disclose to the FSA and to any other regulatory authority to which we are subject and to any investment exchange on which we may deal or to its related clearing house (or to investigators, inspectors or agents appointed by them), or to any person empowered to require such information by or under any legal enactment, any information they may request or require relating to you or, if relevant, any of your clients.</li>
-  </ol>
-
-  <h3>Obtaining copies of and changing your Personal Data</h3>
-
-  <ol start="16">
-    <li>
-      <p>In the event that you wish to see a copy of your Personal Data held by us please visit the "My Profiles" page on the Site or write to:</p>
-
-      <address>
-  The Interactive Investor Data Protection Officer
-  Interactive Investor Trading Limited
-  21 Mansell Street,
-  London
-  EC1 8AA
-      </address>
-    </li>
-    <li>We will amend or delete any Personal Data relating to you which is found to be incorrect or not relevant in accordance with the Act.  If you are aware of any changes that should be made to your Personal Data please visit the "My Profiles" page on the Site or otherwise notify the Interactive Investor Contact Centre on <span style="white-space:nowrap">0845 88 00 267</span> as soon as possible.</li>
-  </ol>
-
-  <h3>Our use of 3rd party services</h3>
-
-  <p>We use the following third party services that impact your online privacy:</p>
-
-  <ul>
-  <li>Google Analytics. For further information see:<br>
-    <a href="http://www.google.com/intl/en/analytics/privacyoverview.html" title="Google Privacy Center">http://www.google.com/intl/en/analytics/privacyoverview.html</a></li>
-  <li>Audience Science - used to deliver targeted advertising on our site and other sites using Audience Science. For further information see:<br>
-    <a href="http://www.audiencescience.com/uk/privacy" title="Privacy Policy | AudienceScience">http://www.audiencescience.com/uk/privacy</a></li>
-  </ul>
-
-  <h3>How to contact us</h3>
-
-  <p>You can contact us by:</p>
-  <ul>
-    <li>By telephone: <span style="white-space:nowrap">0845 88 00 267</span></li>
-    <li>By writing to us at: Interactive Investor, Standon House, 21 Mansell Street, London E1 8AA</li>
-    <li>By email: help@iii.co.uk</li>
-  </ul>
+  
+</div></div> <!-- /block-inner, /block -->
 </div>
+    </div></div> <!-- /#page-inner, /#page -->
+        <div id="footer"><div id="footer-inner" class="region region-footer">
+
+                  <div id="footer-top"><div id="block-menu-menu-info" class="block block-menu region-odd even region-count-1 count-8"><div class="block-inner">
+
+      <h2 class="title">Information</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="leaf first"><a href="/about" title="About Interactive Investor">About us</a></li>
+<li class="leaf last"><a href="/advertise" title="Advertise with us">Advertise with us</a></li>
+</ul>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-menu-menu-connect" class="block block-menu region-even odd region-count-2 count-9"><div class="block-inner">
+
+      <h2 class="title">Connect</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="leaf first"><a href="/help" title="Help">Contact us</a></li>
+<li class="leaf"><a href="http://twitter.com/iii_co_uk" title="">Follow us on Twitter</a></li>
+<li class="leaf last"><a href="/rss.xml" title="">RSS feed</a></li>
+</ul>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
 </div>
+      
+      <div id="block-menu_block-1" class="block block-menu_block region-odd even region-count-1 count-10"><div class="block-inner">
 
-</div>
+      <h2 class="title">Categories</h2>
+  
+  <div class="content">
+    <div class="menu-block-1 menu-name-primary-links parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="leaf first menu-mlid-438"><a href="/" title="">Home</a></li>
+<li class="leaf menu-mlid-227 has-children"><a href="/trading" title="Trading">Trading</a></li>
+<li class="leaf menu-mlid-5927 has-children"><a href="/investing" title="Investing">Investing</a></li>
+<li class="leaf menu-mlid-489 has-children"><a href="/tools-research" title="Tools &amp; Research">Tools &amp; Research</a></li>
+<li class="leaf menu-mlid-488 has-children"><a href="/news-opinion" title="News &amp; Opinion">News &amp; Opinion</a></li>
+<li class="leaf last menu-mlid-437 has-children"><a href="/everyday-money" title="Everyday Money - Content and tools provided by Moneywise">Everyday Money</a></li>
+</ul></div>
+  </div>
 
-<div id="footer">
-<!-- time: 1305036470 -->
-  <div style="clear:both; margin:15px 120px 0" class="advert"> 
-<script class="advert" language="javascript" type="text/javascript">
-<!--
-       OAS_AD(convert_tag('Bottom'));
-//-->
-</script>
-</div>
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-block-28" class="block block-block region-even odd region-count-2 count-11"><div class="block-inner">
 
-<div id="footernav">
-    <div id="footernavleft">
-            <a href="/about/?type=legal">Legal terms</a>
-            <a href="/risk-centre/">Risk warning</a>
-            <a href="/about/?type=legal&amp;subtype=privacy">Privacy</a>
-<a href="/about/?type=legal&amp;subtype=security">Security</a>
-<a href="/mobile/">Mobile</a>
-<a href="/jobs/">Jobs</a>
-<a href="http://blog.iii.co.uk/">Blog</a>
-    </div>
+  
+  <div class="content">
+    <p class="company">Equity, index and currency market data provided by Interactive Data.<br>
+Interactive Investor Trading Limited, trading as "Interactive Investor", is authorised and regulated by the Financial Services Authority.</p>
 
+<p class="office">Registered Office: Standon House, 21 Mansell Street, London E1 8AA, telephone 0845 88 00 267. Registered in England with Company Registration number 3699618.
+<span style="white-space:nowrap">Group VAT registration number 832 6732 26.</span><br>
+We may record and/or monitor telephone calls or intercept other telecommunications between us. This is to protect both of us and for training purposes.</p>  </div>
 
-    <div id="footernavright">
-<a href="/help/">Contact us</a> <strong>0845 88 00 267</strong>
-    </div>
-</div>
-            <p class="company">
-Interactive Investor Trading Limited, trading as "Interactive Investor", is authorised and regulated by the Financial Services Authority.<br>
-</p>
-	<p class="office">
-Registered Office: Standon House, 21 Mansell Street, London E1 8AA, telephone <span style="white-space: nowrap">0845 88 00 267</span>. Registered in England with Company Registration number 3699618.<br>
-Group VAT registration number 832 6732 26.<br>
-We may record and/or monitor telephone calls or intercept other telecommunications between us.  This is to protect both of us and for training purposes.
-</p>
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-menu-secondary-links" class="block block-menu region-odd even region-count-3 count-12"><div class="block-inner">
 
-			
-</div>
+      <h2 class="title">Secondary links</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="leaf first"><a href="/legal" title="Legal Terms">Legal Terms</a></li>
+<li class="leaf"><a href="/risk-centre" title="Risk Warning">Risk Warning</a></li>
+<li class="leaf active-trail"><a href="/privacy" title="Privacy Policy" class="active">Privacy</a></li>
+<li class="leaf"><a href="/security" title="Security">Security</a></li>
+<li class="leaf last"><a href="/help" title="">Help</a></li>
+</ul>  </div>
 
-<div class="hide"><a href="#navcontainer">Jump back to site navigation</a></div>
-<!-- START REVENUE SCIENCE PIXELLING CODE -->
-<script src="http://js.revsci.net/gateway/gw.js?csid=E07590"></script>
-	<script type="text/javascript" language="JavaScript" charset="utf-8">
-	<!--
-	DM_cat(' > Legal terms');
-	DM_tag();
-	//-->
-	</script>
-<!-- END REVENUE SCIENCE PIXELLING CODE -->
+  
+</div></div> <!-- /block-inner, /block -->
 
+    </div></div> <!-- /#footer-inner, /#footer -->
+    
+
+    <div id="closure-blocks" class="region region-closure"><div id="block-block-108" class="block block-block region-odd odd region-count-1 count-13"><div class="block-inner">
+
+  
+  <div class="content">
+    <script src="http://static1.iii.co.uk/sites/all/themes/iii2010/js/jquery.cookie.min.js" type="text/javascript" charset="utf-8"></script>
 <script type="text/javascript" charset="utf-8">
 <!--
-//var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-//document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"//));
-var gaJsHost = document.location.protocol;
-if (gaJsHost == "https:" )
- {document.write(unescape("%3Cscript src='https://ssl.google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"))}
-else
- {document.write(unescape("%3Cscript src='http://www.google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"))}
+  // display migration message
+  // if user hasn't skipped (or is forced) and has trading session cookie
+  if (($.cookie("NOTSKIP2") == null || $.cookie("NOTSKIP2") == 'force') && $.cookie("TRSESSION2")) {
+    alert('Please read this important information about your Investment Account.');
+    window.location = "/auth/reg/profile?type=acct_mig";
+  }
 // -->
+</script>
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+</div>
+  
+  <script type="text/javascript" src="http://static1.iii.co.uk/sites/default/files/js/js_ea0bcd0b401cf7b3bd6b4adf1b07715c.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+//--><!]]>
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript" charset="utf-8">
-<!--
-try {
-  var pageTracker = _gat._getTracker("UA-2142927-1");
-  pageTracker._trackPageview();
-} catch(err) {}
-// -->
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// AUDIENCE SCIENCE AD TAG CODE
+var rsi_segs = [];
+var segs_beg = document.cookie.indexOf('rsi_segs=');
+if (segs_beg >= 0) {
+    segs_beg = document.cookie.indexOf('=', segs_beg) + 1;
+    if (segs_beg > 0) {
+        var segs_end = document.cookie.indexOf(';', segs_beg);
+        if (segs_end == -1) segs_end = document.cookie.length;
+        rsi_segs = document.cookie.substring(segs_beg, segs_end).split('|');
+    }
+}
+var segLen = 45
+var segQS = "",
+segArr = new Array()
+if (rsi_segs.length < segLen) {
+    segLen = rsi_segs.length
+}
+for (var i = 0; i < segLen; i++) {
+    segArr = rsi_segs[i].split("_")
+    if (segArr.length > 1) segQS += ("rsi" + "=" + segArr[1] + ";")
+}
+
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+if(Drupal.settings.iii.rsCat==0){DM_cat('privacy')}else{DM_cat(Drupal.settings.iii.rsCat)};DM_tag()
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{var pageTracker = _gat._getTracker("UA-2142927-1");pageTracker._trackPageview();} catch(err) {}
+//--><!]]>
 </script>
 
 
