@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hypnosiscertified.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210746id_/http%3A//www.hypnosiscertified.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypnosiscertified.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509112544id_/http%3A//www.hypnosiscertified.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -74,4 +74,4 @@ Staten Island, NY  10309
 
 You may also contact us at this address if you think any information we have collected about you is inaccurate or incomplete or if you want to make changes to the types of information about you that we may be collecting.
 
-This Privacy Policy was last revised on September 26, 2009.
+This Privacy Policy was last revised on February 13, 2012.
