@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lleitmotif.net privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101123204id_/http%3A//www.lleitmotif.net/sales-enquiries/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lleitmotif.net privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509223430id_/http%3A//www.lleitmotif.net/sales-enquiries/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | lleitmotif
 
@@ -74,4 +74,6 @@ We may amend this Privacy Policy from time to time so that it accurately reflect
 
 |   
 ---  
-your cart is empty
+your cart is empty  
+  
+Receive emails about our promotion, new product information and news!
