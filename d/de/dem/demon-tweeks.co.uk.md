@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the demon-tweeks.co.uk privacy policy that was archived on 2011-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111025170535id_/http%3A//www.demon-tweeks.co.uk/Privacy_Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demon-tweeks.co.uk privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509085418id_/http%3A//www.demon-tweeks.co.uk/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | Demon Tweeks
+# Privacy Statement
 
-|  |    |  |  Privacy Statement  
----|---|---  
-  
 Privacy issues are very important to us, given the current regulatory and technical environment and we are committed to protecting your privacy.
 
  **Use of Personal Data**  
