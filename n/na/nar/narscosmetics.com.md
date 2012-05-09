@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the narscosmetics.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224025311id_/http%3A//www.narscosmetics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the narscosmetics.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509110622id_/http%3A//www.narscosmetics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NARS
 
