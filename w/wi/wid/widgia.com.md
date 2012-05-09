@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the widgia.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109095124id_/http%3A//widgia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the widgia.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509160755id_/http%3A//widgia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## [Privacy Policy](http://widgia.com/privacy-policy/ "Permanent Link to Privacy Policy")
-
-  
-
+## Privacy Policy
 
 **Widgia** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
 
@@ -30,8 +27,3 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 ## Contact Information
 
 Concerns or questions about this privacy policy can be directed to widgia@gmail.com for further clarification.
-
-Posted in | [No Comments »](http://widgia.com/privacy-policy/#respond "Comment on Privacy Policy")
-
-  
-
