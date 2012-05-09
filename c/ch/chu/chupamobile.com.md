@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the chupamobile.com privacy policy that was archived on 2011-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110901214631id_/http%3A//www.chupamobile.com/chupa/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chupamobile.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509054145id_/http%3A//www.chupamobile.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy | Chupa Mobile
 
-## Privacy Policy
+## Privacy policy
 
-**1.Public**  
+1\. Public  
 We record only personal information that we consider necessary for the work of the platform, which bring together buyers and sellers.  
 When you visit the site we record:
 
@@ -25,7 +25,7 @@ If you ask us feedback you will be asked to send us your information: name, emai
 When you send us this information allows us to record and use them.  
 Your purchases and sales will be monitored for statistical purposes.
 
-**2.Buyers and developers**  
+2\. Buyers and developers  
 We collect information from persons who become buyers or developers.  
 This information is used to send them news, information about our activities and in general promotional materials that may be useful for us and for them.  
 We monitor buyers and developers access for statistical purpose.  
@@ -37,7 +37,7 @@ We will collect information about your method of payment:
 
 
 
-**3.Use of information**  
+3\. Use of information  
 Chupa will use the information recorded for:
 
   * forwarded important information of any kind;
@@ -55,19 +55,19 @@ Chupa will not give, sell or exchange any personal information about you only to
 
 
 
-**4.Access or correction of your information**  
+4\. Access or correction of your information  
 You can request to have the information we have recorded about you or change the information that we recorded by emailing support@Chupamobile.com
 
-**5.Disclaimer**  
+5.Disclaimer  
 Chupa includes links to other sites, but is not responsible for the privacy practies of linked sites.
 
-**6.Amendments to the privacy policy**  
+6\. Amendments to the privacy policy  
 Chupa may change this policy. The new policy will be considered active when the change will be notified on the site.  
 You will have thirty days to notify us that you do not agree with the new policy.
 
-**7.Marketing communication**  
+7\. Marketing communication  
 If you no longer wish to receive marketing communications please contact us by sending an e-mail at unsubscribe@Chupamobile.com.
 
-**8.International transfer of information**   
+8\. International transfer of information  
 Our servers are located in different countries around the world.  
 By using the site Chupamobile.com you authorize us to forward your information to other jurisdictions outside Italy.
