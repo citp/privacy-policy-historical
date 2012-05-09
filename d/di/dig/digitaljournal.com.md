@@ -1,20 +1,16 @@
-> *The following text is extracted and transformed from the digitaljournal.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101123932id_/http%3A//digitaljournal.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaljournal.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509214327id_/http%3A//www.digitaljournal.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Digital Journal
 
-| 
-
-DigitalJournal.com Privacy Policy 
-
 DigitalJournal.com, DigitalJournal.mobi and DigitalJournal.tv are owned and operated by Digital Journal, Inc. The following privacy policy explains more about how we protect your personal information. We do not rent, sell or share your information. By using or visiting DigitalJournal.com, you accept the terms outlined below. 
 
-Minimum age requirement: 
+**Minimum age requirement:**
 
 In compliance with the Children's Online Privacy Protection Act of 1998, Digital Journal, Inc. and DigitalJournal.com do not accept membership registrations from users who are under 13 years of age. By registering with Digital Journal, Inc., you represent that you are at least 13 years old. 
 
-What personal information is collected on DigitalJournal.com? 
+**What personal information is collected on DigitalJournal.com?**
 
-All information collected is intended for creating and maintaining an account on www.digitaljournal.com, therefore we only collect information relevant to enhancing the user experience. We do not process this information in a way that is incompatible with the purpose for which it has been collected or subsequently authorized by you. 
+All information collected is intended for creating and maintaining an account on [www.digitaljournal.com](http://www.digitaljournal.com/), therefore we only collect information relevant to enhancing the user experience. We do not process this information in a way that is incompatible with the purpose for which it has been collected or subsequently authorized by you. 
 
 As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), your operating system (such as Windows Vista or Mac OSX), the time you visited our site and which pages you visited throughout our site. 
 
@@ -28,7 +24,7 @@ DigitalJournal.com also allows other users to see: Articles, blogs and images yo
 
 DigitalJournal.com allows third parties and non-registered users to access all data publicly available on DigitalJournal.com. Email addresses, password and settings will remain private. 
 
-Is information secure? 
+**Is information secure?**
 
 For your privacy and security, your account information is protected by a password. Your password is encrypted using one-way encryption, meaning it cannot be decoded using a passkey or any other means. We recommend you log-off after each session to ensure your account is not accessed by an unauthorized party in places like libraries, Internet cafes or any other place where computers are shared. 
 
@@ -36,13 +32,13 @@ DigitalJournal.com will only access your email address in the event we need to c
 
 Although we implement security measures on the Site and limit access to the Site by third party search engine "crawlers," please be aware that no security measures are perfect or impenetrable. Therefore, we cannot and do not guarantee that personal information and content you post on the site will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. You understand and acknowledge that, even after removal, copies of content remain viewable. 
 
-Are there any cases in which DigitalJournal.com will share personal information with third parties? 
+**Are there any cases in which DigitalJournal.com will share personal information with third parties?**
 
 We never rent, sell or distribute your personal information to anyone unless we believe, in good faith, that release is necessary to comply with that law; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of DigitalJournal.com, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
 
 In the event DigitalJournal.com is buying or selling assets, user information is typically one of the business assets transferred. This is particularly important in the event DigitalJournal.com is acquired, at which point user information would be transferred. If there are any other cases in which your personal information may be shared, you will be contacted by a member of our staff at which point you can opt out of having your information shared. 
 
-How does DigitalJournal.com collect cookies? 
+**How does DigitalJournal.com collect cookies?**
 
 As an alphanumeric identifier, we transfer cookies to your computer's hard disk through your Internet browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. 
 
@@ -52,17 +48,14 @@ We use Google, a third party vendor, that uses cookies to serve ad on our site. 
 
 Some of our business partners, advertisers and other websites that are linked on DigitalJournal.com may use cookies on our website. However, we have no access to or control over these cookies. Click on the "help" portion of your browser's toolbar to find information on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. However, we strongly recommend that you leave the cookies activated otherwise you may not be able to use all of DigitalJournal.com's features and services. 
 
-How do I see what information is publicly available, and how do I change it? 
+**How do I see what information is publicly available, and how do I change it?**
 
 In order to see what information of yours is available to other users, ensure you are logged in at DigitalJournal.com. Hover over your name at the top of the page and then go to Settings. Here you can change your city, country, photo, personal website and password. In the event you need to close your account, you can also perform this action here. 
 
-Conditions of Use 
+**Conditions of Use**
 
 If you decide to visit and/or use DigitalJournal.com, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of Ontario law. 
 
 We reserve the right to update or modify this Privacy Policy, at any time and without prior notice, by posting the revised version of this Privacy Policy on the Site. Your use of the Site following any such change constitutes your agreement that all Personal Information collected from or about you through the Site after the revised Privacy Policy is posted will be subject to the terms of the revised Privacy Policy. You may access the current version of this Privacy Policy at any time by clicking on the link marked "Privacy Policy" at the bottom of each page of our Site. 
 
 This Privacy Policy is effective as of Oct. 1, 2006 
-
-|  |   
----|---|---
