@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the listmywebsite.net privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104044125id_/http%3A//www.listmywebsite.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listmywebsite.net privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509231545id_/http%3A//www.listmywebsite.net/privacy.php) for the most accurate reproduction.*
 
 # Free Website Link Listing Directory - Submit and promote your website free - List My Website Directory
 
-[Home](https://web.archive.org/web/20111104044125id_/http%3A//www.listmywebsite.net/index.php) » Privacy Policy
+[Home](https://web.archive.org/web/20120509231545id_/http%3A//www.listmywebsite.net/index.php) » Privacy Policy
 
 **List My Website Web Directory** do respect the privacy of individuals who use the services provided on this Site, [http://www.listmywebsite.net](http://www.listmywebsite.net/). At the same time, we may collect the user's information of IP address, Web Browser and Operating System Versions in order to know the demographic information of the users. We only collect these information with the purpose of helping us in promoting our site's performances and compatibilities for the various browser versions and operating systems. This Privacy Policy is provided here to help our users understand how we deal with the information collected from the users.
 
 We uses cookies to keep track of users activities with our site. But the only personal information a cookie can contain is information you supply yourself. A cookie can not read data off your hard disk or read cookie files created by other sites.
 
-All domain names and contents listed in this website are owned and copyrighted by their respective owners. **ListMyWebsite.Net** are not responsible and no control for the privacy practices or the content of such web sites. It is important to you to observe their privacy practices before using them for your own benefit.
+All domain names and contents listed in this website are owned and copyrighted by their respective owners. **ListMyWebsite.Net** is not responsible and no control for the privacy practices or the content of such web sites. It is important to you to observe their privacy practices before using them for your own benefit.
 
 Our site's registration form requires users to provide us contact information such as their name and email address, date of birth, gender, address and other demographic information. But, we WILL NEVER PASS OR SOLD your information to any third parties for any purposes.
 
@@ -20,8 +20,17 @@ This policy may be revised over time as new features are added to the website. W
 
 Updated on 07.11.2010
 
-### Advertisements
+[](http://www.ecoweb4u.com/solutions/budget-website-design.html "Affordable Website")
 
-[](https://web.archive.org/web/20111104044125id_/http%3A//www.listmywebsite.net/href=%22advertise.php%22 "Advertise")
+### Useful Links
 
-   
+Get latest updates and support from Listmywebsite.net by 'liking' us on Facebook!
+
+### Statistics
+
+Categories: 20  
+Sub Categories: 565  
+Links: 1186  
+Pending Links: 731  
+Members: 7145  
+
