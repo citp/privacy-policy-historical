@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chalet-hire.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229022927id_/http%3A//www.chalet-hire.com/pages/index/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chalet-hire.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509161922id_/http%3A//www.chalet-hire.com/pages/index/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Chalet-Hire.com
 
@@ -8,7 +8,7 @@ This Site is operated by Chalet-Hire.
 
 The terms “users” or “you” as used in this Privacy Policy, refer to both travellers, who use the Site to look for properties to rent, and members who join the Site and list their properties for rent.
 
-We use information collected about you as explained in this Privacy Policy. The Site may contain links to third party websites. We are not responsible for the privacy practices or the content of those websites. Therefore, please read carefully any privacy policies on those websites before either agreeing to their terms or using those websites. Unless we explain otherwise in this Policy, the words and phrases used in this Policy have the same meaning as in the Terms and Conditions of Use - available at [Terms & Conditions](http://www.chalet-hire.com/pages/index/terms-and-conditions).
+We use information collected about you as explained in this Privacy Policy. The Site may contain links to third party websites. We are not responsible for the privacy practices or the content of those websites. Therefore, please read carefully any privacy policies on those websites before either agreeing to their terms or using those websites. Unless we explain otherwise in this Policy, the words and phrases used in this Policy have the same meaning as in the Terms and Conditions of Use - available at **[Terms & Conditions](http://www.chalet-hire.com/pages/index/terms-and-conditions)**.
 
 By providing information to us when subscribing, sending enquiries or otherwise using the Site, you expressly agree to this Privacy Policy. This Privacy Policy was last updated on 26 October 2011. This Privacy Policy applies from that date. We may occasionally amend this Privacy Policy to reflect regulatory requirements, advances in technology, Site updates and changes in our information collection and disclosure practices. Any new policy will automatically be effective when it is published on the website. You should therefore return here regularly to view our most up to date Privacy Policy. You should also print a copy for your records.
 
