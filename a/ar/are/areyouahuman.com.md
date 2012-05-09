@@ -1,38 +1,68 @@
-> *The following text is extracted and transformed from the areyouahuman.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628144717id_/http%3A//www.selfgrowth.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the areyouahuman.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509130002id_/http%3A//areyouahuman.com/privacy-policy) for the most accurate reproduction.*
 
-# Online Privacy Policy
+# privacy policy | are you a human | the captcha alternative
 
-This page contains the privacy policy for Self Improvement Online, Inc., SelfGrowth.com and all it's related websites. 
+Personal identification information
 
-**-What information do we collect?**  We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey, or fill out a form. When ordering or registering on our site, as appropriate, you may be asked to enter your name,email address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. Like most websites we use cookies and/or web beacons to enhance your experience, gather general visitor information,and track visits to our website. Please refer to the 'do we use cookies?' section below for information about cookies and how we use them. 
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-**\- What do we use your information for?**  Any of the information we collect about you may be used in one of the following ways: 
+### Non-personal identification information
 
-* To improve our website  
-(We continually strive to improve our website offerings based on the information and feedback we receive from you) 
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-* To process transactions  
-(We may share or sell information with third parties for marketing or other purposes without your consent) 
+### Web browser cookies
 
-* To administer acontest, promotion, survey, or other site feature 
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
- *To send periodic emails   
-The email address you provide for order processing may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc. You may unsubscribe from emails at any time by clicking the unsubscribe link. 
+### How we use collected information
 
-**\- How do we protect your information?**   We implement a variety of security measures to maintain the safety of your personal information when you access the website. We offer the use of a secure server. All supplied sensitive information is encrypted into our database to be only accessed by those authorized with special access rights to our systems, and are required to keep the information confidential. After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+Are You a Human collects and uses Users personal information for the following purposes:
 
-**-Do we use cookies?**  Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. If you prefer, you can choose to have your computer warn you each time a cookies is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+  * To personalize user experience
+  * We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * To improve our Site
+  * We continually strive to improve our website offerings based on the information and feedback we receive from you.
+  * To process transactions
+  * We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
+  * To send periodic emails
 
-**\- Do we disclose any information to outside parties?**  We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us inoperating our website, conducting our business, or servicing you, so long asthose parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
 
-**\- Third party links**  We include or offer third party products or services on our website. These third party sites have separate and independent privacy polices. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
 
-**-Online privacy policy only**  This online privacy policy applies only to information collected through our website and not to information collected offline 
+The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
-**-Terms and Conditions**  Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of your website at your site. 
+### How we protect your information
 
-**  
--Your Consent**  By using our site, you consent to our privacy policy  
- 
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-**-Changes to our privacy policy**  Changes to this privacy policy will be made available on this webpage only. 
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
+
+### Sharing your personal information
+
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+
+### Third party websites
+
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+
+### Changes to this privacy policy
+
+Are You a Human has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+### Your acceptance of these terms
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+### Contacting us
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+
+Are You a Human  
+areyouahuman.com  
+1555 Broadway St, Suite 350  
+Detroit, MI 48226  
+313-451-4790  
+humans@areyouahuman.com
+
+_This document was last updated on September 13, 2011_
+
+Privacy policy created by [www.generateprivacypolicy.com](http://www.generateprivacypolicy.com/ "Generate Privacy Policy")
