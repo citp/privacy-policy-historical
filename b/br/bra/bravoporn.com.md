@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bravoporn.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108024424id_/http%3A//www.bravoporn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bravoporn.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509034149id_/http%3A//www.bravoporn.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
