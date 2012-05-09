@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebull.com.au privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106120710id_/http%3A//www.thebull.com.au/about_us_list.php%3Fc%3DPrivacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebull.com.au privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509120211id_/http%3A//www.thebull.com.au/about_us_list.php%3Fc%3DPrivacy%2BPolicy) for the most accurate reproduction.*
 
 # about_us - privacy policy - www.thebull.com.au
 
@@ -122,7 +122,7 @@ An individual's request for access to his/her personal information will be dealt
 
 This Policy will be reviewed from time to time to take account of new laws and technology, changes to our operations and practices and the changing business environment. 
 
-TheBull Privacy Policy detailing our handling of personal information is available upon request and you may also request access to information held about you by contacting the TheBull.com.au Privacy Officer at info@TheBull.com.au. 
+TheBull Privacy Policy detailing our handling of personal information is available upon request and you may also request access to information held about you by contacting the TheBull.com.au Privacy Officer at contactus '@' TheBull.com.au. 
 
 In order to undertake the management and administration of our business, being:
 
