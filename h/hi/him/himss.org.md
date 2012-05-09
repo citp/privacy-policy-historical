@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the himss.org privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207080726id_/http%3A//www.himss.org/asp/legal.asp%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the himss.org privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509230704id_/http%3A//www.himss.org/asp/legal.asp%23privacy) for the most accurate reproduction.*
 
 # HIMSS - Legal Disclaimer, Copyright, Trademark and Privacy Policy
 
 Watch the HIMSS Year In Review Video
 
-[](https://web.archive.org/web/20111207080726id_/http%3A//www.himss.org/asp/about_YIRvideo.asp)
+[](https://web.archive.org/web/20120509230704id_/http%3A//www.himss.org/asp/about_YIRvideo.asp)
 
 ## DISCLAIMER
 
@@ -30,8 +30,8 @@ HIMSS recognizes the importance of protecting the privacy of information provide
 
 **Our location and contact information:**  
 HIMSS   
-230 East Ohio, Suite 500  
-Chicago, IL 60611  
+33 West Monroe Street, Suite 1700   
+Chicago, IL 60603-5616   
 312-664-4467  
 [himss@himss.org](mailto:himss@himss.org)
 
