@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inetu.net privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124013640id_/http%3A//www.inetu.net/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inetu.net privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509131926id_/http%3A//www.inetu.net/Privacy.aspx) for the most accurate reproduction.*
 
-# INetU Managed Hosting - Web Hosting Solutions | Privacy
+# Managed Web Hosting | Privacy & Use of Information | INetU
 
 ## Information Collection & Use
 
@@ -112,4 +112,7 @@ INetU Managed Hosting will respond to your request to access or delete personal 
 
 If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
-Effective Date 9.29.08
+Effective Date 9.29.08  
+ 
+
+[PRINT THIS PAGE](https://web.archive.org/Privacy/InetU-Privacy-Policy-Print.aspx)
