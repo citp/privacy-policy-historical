@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poetv.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214085726id_/http%3A//www.poetv.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poetv.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509071940id_/http%3A//www.poetv.com/privacy.php) for the most accurate reproduction.*
 
 # ##TITLE##
 
@@ -7,22 +7,20 @@ Some ads will use the content of the page to deliver context sensitive ads. Thes
 
 \--------------------------------------------------------------------------------
 
- **How does POE News use my information?**  
-We only use log data to check for daily visitors and partners linking to our site.  Any email supplied to POE NEWS is used only by POE NEWS to send you the daily newsletter or to verify your login id.  Your email is never sold or shared with any of our partners. 
+ **How does poeTV & 73Q use my information? **  
+We only use log data to check for daily visitors and partners linking to our site.  Any email supplied to poeTV & 73Q is used only by poeTV & 73Q to send you the daily newsletter or to verify your login id.  Your email is never sold or shared with any of our partners. 
 
 \--------------------------------------------------------------------------------
 
  **Who is collecting information?**  
-POE NEWS collects information on this site and some third party partners may track banner displays and clicks.  Some deals may also have cookies associated with them and that merchant or their partners may collect data available such as unique visitors.
+poeTV & 73Q collects information on this site and some third party partners may track banner displays and clicks.  Some deals may also have cookies associated with them and that merchant or their partners may collect data available such as unique visitors.
 
 \--------------------------------------------------------------------------------
 
- **With whom does POE NEWS share my information?**  
-As a general rule, POE NEWS will not disclose any of your personally identifiable information except when required by law.
+ **With whom does poeTV & 73Q share my information? **  
+As a general rule, poeTV & 73Q will not disclose any of your personally identifiable information except when required by law.
 
-poeTV does share logins with the following sites - poe-news.com, portalofevil.com, poetv.com, wickedsmallgames.com, bidboy.com and friendandfoe.com. These sites are all owned and operated by the Arcadialane LLC, this privacy statement also carries on to cover your actions and information on these sites.
-
-poeTV displays refer information publicly. This is to promote interaction with other sites that may be of interest to poeTV users. If you would like your site removed from being publicly displayed, please use the contact information below.
+poeTV & 73Q displays refer information publicly. This is to promote interaction with other sites that may be of interest to poeTV users. If you would like your site removed from being publicly displayed, please use the contact information below.
 
 Individual users are not linked to the referring website, only counted in the aggregate.
 
@@ -34,15 +32,13 @@ We partner with only legitimate merchants who have valid privacy statements.
 \--------------------------------------------------------------------------------
 
  **What about children's privacy?**  
-The POE NEWS is for people over 18 years of age. 
+poeTV & 73Q are for people over 18 years of age. 
 
 \--------------------------------------------------------------------------------
 
  **What about Logs?**  
-POE NEWS keeps standard logs from our apache web server.
+poeTV & 73Q keep standard logs from our apache web server.
 
 \--------------------------------------------------------------------------------  
  **What else should I know about my privacy?**  
-If at anytime you have a concern about your privacy on our site or one of our partner sites, or you wish to suggest an advertisement removed, please contact us through chet at poe-news dot com.
-
-poeTV is an Arcadia Lane LLC website
+If at anytime you have a concern about your privacy on our site or one of our partner sites, or you wish to suggest an advertisement removed, please contact us through support @ poetv dot com.
