@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designersdigest.co privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007115205id_/http%3A//designersdigest.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designersdigest.co privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509162607id_/http%3A//designersdigest.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Copyright Policy
 
