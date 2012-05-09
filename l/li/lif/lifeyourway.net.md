@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the lifeyourway.net privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109053452id_/http%3A//life.yourway.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeyourway.net privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509163953id_/http%3A//life.yourway.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Life Your Way
+
+[](http://www.facebook.com/sharer.php?u=http://life.yourway.net/privacy-policy/&t=Privacy%20Policy) 
 
 The privacy of our visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
 
@@ -23,15 +25,13 @@ None of this information is linked to anything that is personally identifiable, 
 
 **2\. Cookies**
 
-Some of my advertising partners may use cookies and web beacons on my site. My advertising partners include, but are not limited to, Lifetime Moms, Rivit, Halogen and Amazon.com.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information ( _not_ including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
 
-These third-party ad servers or ad networks sponsor advertisements and links on Life…Your Way that are sent directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or web beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and/or to personalize the advertising content that you see.
+My advertising partners include, but are not limited to, Lifetime Moms, Rivit, Halogen, Burst Media and Amazon.com.
 
-Life…Your Way has no access to or control over these cookies that are used by third-party advertisers.
+These third-party ad servers or ad networks sponsor advertisements and links on Life Your Way that are sent directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or web beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and/or to personalize the advertising content that you see.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt out of certain practices. Life…Your Way’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
-
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+Life Your Way has no access to or control over these cookies that are used by third-party advertisers, and our privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 **3\. Personal Information**
 
@@ -43,11 +43,11 @@ In compliance with the requirements of COPPA (Childrens Online Privacy Protectio
 
 **5\. External Links**
 
-While Life…Your Way is highly selective about which sites we provide links to, we do not control these web sites, nor do we endorse or otherwise accept responsibility for the content or privacy policies of those sites. We encourage you to review the privacy policies posted on third party sites.
+While Life Your Way is highly selective about which sites we provide links to, we do not control these web sites, nor do we endorse or otherwise accept responsibility for the content or privacy policies of those sites. We encourage you to review the privacy policies posted on third party sites.
 
 **6\. Other**
 
-Users might be asked to subscribe to our newsletter by providing name and email address to receive communication from Life…Your Way. We use a secure op-in subscription system and we reserve the right to contact subscribers with information related to this website and blog. Subscribers may unsubscribe anytime and every email delivered will contain an “Unsubscribe” link.
+Users might be asked to subscribe to our newsletter by providing name and email address to receive communication from Life Your Way. We use a secure opt-in subscription system and we reserve the right to contact subscribers with information related to this website and blog. Subscribers may unsubscribe anytime and every email delivered will contain an “Unsubscribe” link.
 
 If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://life.yourway.net/contact).
 
