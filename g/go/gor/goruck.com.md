@@ -1,13 +1,19 @@
-> *The following text is extracted and transformed from the goruck.com privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014002744id_/http%3A//www.goruck.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goruck.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509142837id_/http%3A//www.goruck.com/privacy) for the most accurate reproduction.*
 
-# GORUCK | Privacy Policy
+# Privacy Policy | GORUCK
 
-Our postal address is
+## Privacy
 
+We guard your privacy and will never sell your private information.  
+ 
+
+This is the website of GORUCK LLC. Our postal address is:
+
+  GORUCK  
 600 N Wallace #5  
 Bozeman MT 59715
 
-We can be reached via e-mail at [info@goruck.com](mailto:info@goruck.com)
+Via email: [Contact us](https://web.archive.org/contacts/).
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
@@ -41,4 +47,4 @@ Consumers can have this information corrected by sending us e-mail at the above 
 
 With respect to security: and Any payments are through a secure server..
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA’s Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA’s Committee on Ethical Business Practices at mgoldberger@the-dma.org, state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at http://www.ftc.gov/ftc/complaint.htm.
