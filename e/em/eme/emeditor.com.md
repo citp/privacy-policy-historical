@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emeditor.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120182114id_/http%3A//www.emeditor.com/modules/about3/rewrite/tc_6.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emeditor.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509022405id_/http%3A//www.emeditor.com/modules/about3/rewrite/tc_6.html) for the most accurate reproduction.*
 
 # EmEditor Text Editor - Privacy Policy
 
