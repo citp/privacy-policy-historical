@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thameswater.co.uk privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213194241id_/http%3A//www.thameswater.co.uk/cps/rde/xchg/corp/hs.xsl/4444.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thameswater.co.uk privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509200231id_/http%3A//www.thameswater.co.uk/cps/rde/xchg/corp/hs.xsl/4444.htm) for the most accurate reproduction.*
 
 # Privacy policy - Thames Water
 
-Last updated: 11.7.2011 - 8.17pm
+Last reviewed: 11.7.2011 - 8.17pm
 
 Thames Water is committed to protecting your privacy and complying with the Data Protection Act 1998. This policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  
 
