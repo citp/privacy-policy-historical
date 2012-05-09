@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the markmonitor.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006034521id_/https%3A//www.markmonitor.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markmonitor.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509160744id_/https%3A//www.markmonitor.com/legal/privacy.php) for the most accurate reproduction.*
 
-# MarkMonitor - Privacy Policy
+# MarkMonitor | Legal - Privacy Policy
 
 MarkMonitor values your personal privacy rights. Our privacy policy is therefore adopted with a commitment to safeguarding these rights:
 
