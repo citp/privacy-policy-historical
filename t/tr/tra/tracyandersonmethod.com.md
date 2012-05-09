@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tracyandersonmethod.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201110340id_/http%3A//tracyandersonmethod.com/%3Fpage_id%3D56) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tracyandersonmethod.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509133144id_/http%3A//tracyandersonmethod.com/privacy/%3Fref%3Dfooter-menu) for the most accurate reproduction.*
 
 # Privacy » Tracy Anderson Official Site - Metamorphosis
 
@@ -14,4 +14,4 @@ We are committed to protecting the privacy of visitors to our website. When you 
 
 **Links to Other Websites.** The Tracy Anderson Method website contains many links to other websites. The Tracy Anderson Method is not responsible for the privacy practices or the content of such websites. No personal information resulting from user registration is shared with such websites.
 
-**Address.** Tracy Anderson: 12345 Ventura Boulevard. Studio City, CA 91604-2511. [Use the following form to electronically submit questions or comments](https://web.archive.org/wp/?page_id=58).
+**Address.** Tracy Anderson: 12345 Ventura Boulevard. Studio City, CA 91604-2511.
