@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desu.edu privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104230344id_/http%3A//www.desu.edu/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desu.edu privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509120821id_/http%3A//www.desu.edu/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | DSU
 
@@ -15,7 +15,7 @@ This data may be used to preserve the integrity of our computing resources.
 
 **Personal Information**  
 We do not share any personal information with any third parties. Any personal information entered in any forms is considered to be freely given for the sole use of the party for which it is intended.  
-**  
+ **  
 Links to External Sites**  
 This site contains links to other sites. Delaware State University is not responsible for the privacy practices or the content of such web sites.
 
