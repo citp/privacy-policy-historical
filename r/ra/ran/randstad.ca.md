@@ -1,73 +1,85 @@
-> *The following text is extracted and transformed from the randstad.ca privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002112639id_/http%3A//www.randstad.ca/global/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the randstad.ca privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509153252id_/http%3A//www.randstad.ca/privacy.aspx) for the most accurate reproduction.*
 
-# Randstad | Privacy Policy
+# Randstad Technologies - privacy statement
 
-  
-[Home](https://web.archive.org/index.html) > Privacy Policy    
+**Your privacy is important to us**  
+Protecting the privacy and confidentiality of personal information has always been a fundamental principle in our business relationships. We want you to know that Randstad Canada adheres to privacy legislation that governs what information may be collected, how it is used and how it is protected. This Privacy Statement explains our privacy policies and information handling practices. 
 
+**Protecting your privacy means:**
 
-  
+• We keep your personal information and the business you do with us in strict confidence 
 
+• We do not sell your personal information 
 
-Please read this privacy policy carefully. Your use of the Randstad website constitutes your agreement to this privacy policy and consent to the terms herein. Please see the section labeled "Information We Collect and How We Use It" to learn more about our collection and use of user information.
+• You have control over how we obtain, use, and give out personal information about you 
 
-Introduction
+• You have reasonable access to the personal information we have about you 
 
-Randstad is committed to safeguarding the privacy of visitors to our website and users of the other services available through our site (the "Service(s)"). We believe one of the most unique and valuable aspects of Randstad's Services is our ability to provide a secure environment where our users can efficiently exchange information and transact business without fear of unpermitted disclosure or use of their proprietary information. We will use our best efforts to ensure that the information you provide us remains private and is used only for the purposes set forth herein. 
+• We respect your privacy when we market our services 
 
-This privacy policy details our commitment to protect your information and the limited manner in which we will use that information to provide and improve our provision of the Services. 
+**Why we collect personal information**  
+We collect information in order to represent you for employment opportunities with our clients, to carry out contests or surveys, to administer our web site, and to provide information about our services. We understand that some of this information is personal. We collect, use and disclose personal information only for purposes that a reasonable person would consider appropriate in the circumstances. The information we will collect from you includes, but is not limited to: 
 
-Important Terms Used Throughout This Privacy Policy
+• Your personal profile via your resume and information supplied by you 
 
-Throughout this privacy policy we use several specialized terms. "Personally Identifiable Information" is information that tells us specifically who you are, like your name, street address, email address, billing address, credit card number and expiration date. "User Information" means all Personally Identifiable Information and any other forms of information discussed in this privacy policy, including the Internet Protocol (IP) address of a user's computer. We use the term "aggregate" when we combine information from various persons or users. Information is said to be "anonymized" if it does not identify individual persons or entities or associate a particular person or entity with such information. 
+• Your employment preferences, such as work location, salary, and other personal factors important to you 
 
-Information We Collect and How We Use It
+You can visit our web site without sharing any personal information. While visiting our site, you may choose to provide information in the form of a resume or by creating a profile using our online My Randstad tool. In order to be considered for opportunities with our clients, you may choose to provide references. While using our web site, you may choose to provide personal information in order to enter a contest or complete a survey. 
 
-If you visit our site to browse. We will only collect and store the domain name and host from which a user accessed the Internet (e.g., aol.com), the IP address of the user's computer, the user's browser software and operating system, the date and time the user accesses the site and the Internet address of any website from which the user linked directly to our site or to which the user links after visiting our site. We use this information to measure the number of visitors to sections of our sites, to determine from where our visitors linked and to where our visitors link from the sites and to help us make our sites more useful. For example, we organize and analyze IP addresses so that we can provide efficient service, enhance security, monitor appropriate usage and produce traffic volume statistics. This type of information is sometimes shared with third parties, such as when we aggregate and disclose site traffic information for marketing and commercial purposes. When we share such information with third parties we will require them to abide by the standards of this privacy policy. 
+**What we do with personal information**  
+When you provide personal information to us in the form of a resume, references, complete a profile using our My Randstad tool, or by participating in a contest or survey, the information will be stored in our secure database. We may use your personal information to: 
 
-If you register or engage in a transaction while at our site. To make full use of our Services you will need to complete our registration process. We collect and store the Personally Identifiable Information you provide through this registration process, including your user ID and password, which we may elect to provide for you. If you engage in a transaction while logged on to our site, then we collect and store information about the transaction. If you complete an employment application on our website, then we collect and store Personally Identifiable Information. If you send us communications, then we may collect such communications in a file specific to you. 
+• Match your profile against our clients’ requirements 
 
-We use the information we collect from you as a registered user to build features that we hope will make the Services more attractive and easier for you to use. This may include better customer support and timely notice of new services and employment opportunities. We may share User Information with our partners, affiliates and joint venturers that are committed to serving your need for the Services and improving your user experience, but will require such third parties to abide by the standards of this privacy policy. We may also share aggregate anonymized data relating to activity on the site and use of the Services, such as demographical and statistical information, for marketing, research and other purposes. Furthermore, we may need to disclose User Information to law enforcement or other government officials if appropriate for your protection or in connection with an investigation of fraud, intellectual property infringement or other activity that is illegal or may expose us or our users to legal liability. 
+• Contact you regarding profile matches 
 
-If You Submit A Resume Or Application Online. Since Randstad is an employment service site, we give you the option of submitting your resume and completing an employment application online. The employment information we collect will be kept strictly confidential. Your electronically submitted application and resume will be forwarded to the nearest Randstad "brick-and-mortar" branch office so that they may better serve you. No Personally Identifiable Information we collect will be shared with third parties.
+• Contact and obtain information about you from references supplied by you (upon your approval, see Your Information is Obtained or Used Only With Your Consent) 
 
-How We Protect Your Information
+• Provide your information to clients (upon your approval, see Your Information is Obtained or Used Only With Your Consent) 
 
-Randstad employs advanced technology and security measures to protect your User Information. When you submit sensitive information via our website, your information is protected in a variety of ways both on-line and off-line. Our wide range of security measures includes encryption, firewalls and technology that monitors data exchanged on the site. Although no one can guarantee absolute security, we will continue to monitor and update our security measures to help ensure that your sensitive information remains protected. 
+• Carry out contests and/or surveys 
 
-If You Do Not Wish to Disclose User Information
+• Improve our site and, where applicable, the services we offer 
 
-If you do not want to provide us with certain User Information then you may opt out by not using the Service that provides us with such User Information. For example, if you do not want us to retain your name, then you may choose not to become a registered user. You will not be entitled to the benefits of registration, but you are still free to browse the site and to visit the parts of the site accessible to non-registrants. Also, you may complete an application, or any portion of an application, at any of our branch offices. 
+• We may send you information about our company and promotional material from some of our partners from time to time. If you have concerns about receiving occasional communication from us, please contact our [Privacy Officer](mailto:privacyofficer@randstadgroup.ca). 
 
-Cookies
+• Demographic data collected while visiting our site is used to tailor your experience at our site and to display content that we think you might be interested in. We also use this data to learn more about the demographics of our site visitors and to refine our marketing plans. 
 
-Cookies are small text files that our site can send to your browser for storage on your hard drive. Cookies can make your use of our site easier by saving your status and preferences upon visits to our site. The cookies are refreshed every time you enter the site. Most browsers are initially set to accept cookies, but you may be able to change the settings to refuse cookies or to be alerted when cookies are being sent. We use cookies for two purposes: (1) to enable Randstad to customize information for certain segments of its customer base; and (2) in some instances, to associate you with your User Information. For example, through the use of cookies you may login automatically and thereby save you time. Although rejection of cookies will not interfere with your ability to interact with most of our site, you will need to accept cookies in order to login and use certain interactive Services on the site. 
+• For other similar or related purposes that are reasonably necessary for the proper management of Randstad Canada’s business. 
 
-Control of Your Password
+**Randstad Canada consultants/placements**  
+When you are placed with one of our clients, we will collect additional information in order to complete the placement process. In addition, we will survey you to ensure that we are offering our consultants the best possible opportunities and to provide our clients with constructive feedback. We will survey clients to verify and confirm the information we currently have in your file and to ensure our consultants are consistently meeting client expectations.   
+Please note that all active contract consultants will receive communication from Randstad Canada containing pertinent information related to current placements. 
 
-Except as specifically permitted by this privacy policy or your User Agreement you may not disclose your Randstad password to any third parties nor share it with any third parties. If you lose control of your Randstad password you may lose control over your Personally Identifiable Information, and you will be responsible for any legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password or, if we provided your password, notify Randstad so that we may issue you a new password. 
+**Your information is obtained and used only with your consent**  
+We want to assure you that any personal information you provide to Randstad Canada will remain completely confidential until you request otherwise, unless required by law. We do not sell or provide candidate or client information to third parties. We will always obtain your authorization to contact references and we will always contact you via email or telephone before we submit your profile to a client requirement. 
 
-Removal or Correction of Personally Identifiable Information 
+**Your consent can be express or implied**  
+Express consent can be verbal or written. You imply consent when we reasonably conclude that you have given consent by some action you have taken, or when you decide not to take action. For example, by providing your contact information, profile or other personal information to a recruitment specialist or through our web site, you are granting your consent to allow Randstad Canada to use your profile information in the matching process, and to contact you regarding any such matches. 
 
-Upon your request, we may remove your Personally Identifiable Information from our database and correct any errors you identify in such information. If Personally Identifiable Information is removed you will lose access to the parts of the site for which you must provide such Personally Identifiable Information to gain access. After removal, we will only retain copies of such information as are necessary for us to comply with governmental orders, resolve disputes, troubleshoot problems, enforce any agreement you have entered into through our sites and as otherwise reasonably necessary. Any Personally Identifiable Information provided as a part of a transaction on the site represents a record of that business transaction that cannot be altered after the transaction is complete. 
+**You can withdraw your consent after you’ve given it**  
+While we would like your consent to continue to collect and use your information as outlined above, we want you to know that you do have choices. In addition, you can request to have your information removed from our database, or opt out of receiving optional future mailings at any time by contacting our [Privacy Officer](mailto:privacyofficer@randstadgroup.ca). 
 
-Third Parties
+**We protect your information from error, loss, and unauthorized access**  
+Our employees who have access to your information are made aware of how to keep it confidential. Each employee is governed by policies regarding information handling. Only employees who require access to your information in the course of their duties will have access to your information.   
+We respect the confidential information that we receive from others and therefore will not release any personal information provided to us by third parties without their explicit authorization.  
+As a member of the Randstad Canada online community, you have access to your own information, information about positions that match your profile, plus additional information and tools. Select Randstad Canada personnel have password-protected access to your information. Authorized client/employer contacts are able to view candidate information without seeing your identity. No client/employer contact may view your personal information (identity or contact information) without your prior permission. 
 
-This privacy policy only addresses the use and disclosure of User Information collected by Randstad. If you disclose information to other parties, different rules may apply to their use or disclosure of such information regardless of their affiliation or relationship with Randstad. Because Randstad does not control the privacy practices of third parties you are subject to the privacy customs and policies of those third parties. When you link to another website, you are subject to the privacy policy of that website. We encourage you to ask questions and review the applicable privacy policy before you disclose your personal information to third parties. 
+**You can see and verify the accuracy of your information**  
+You can update your personal information at any time through our web site or by contacting [Privacy Officer](mailto:privacyofficer@randstadgroup.ca).   
+If you would like access to the personal information we have on file for you, we will ask you to put your request in writing. You will be given reasonable access to your personal information to verify or correct information. Every effort will be made to respond to your inquiry within 30 days. There may be circumstances where Randstad Canada will not provide you with access or may require additional time to meet your request, in which case you will be informed. 
 
-We do not try to control, and disclaim responsibility for, information provided by other users or third parties that is made available through our site. Such information may contain errors, intentional or otherwise, or may be offensive, inappropriate or inaccurate, and in some cases will be mislabeled or deceptively labeled. 
+**Links to other sites**  
+Our site may contain links to other sites that we think you might be interested in. While we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the content, security, or privacy practices employed by other sites. 
 
-Merger, Assets, Sales, etc.
+**Cookies**  
+Our site uses cookies to keep track of user sessions. We use cookies to deliver content specific to your choice of language. Cookies improve functionality and in some cases, provide visitors with a customized online experience. 
 
-If Randstad or any of its lines of business is sold, pledged or disposed of as a going concern whether by merger, sale of assets, bankruptcy or otherwise, then the user database of Randstad could be sold as part of that transaction and all User Information accessed by such successor or purchaser. 
+**Password protection**  
+Portions of our web site are password protected to help safeguard your information. When you complete your registration, you will create a password in order to access portions of the site. Randstad Canada reserves the right to change passwords at any time to protect the security of our site. We require that you keep confidential the password you select for accessing our site. We require that you email us immediately at [Customer Support](mailto:CustomerSupport@randstadgroup.ca) if you feel that your password has been compromised. If you forget your password, email us and we will issue a reminder of your password via email. 
 
-How do I Contact Randstad
+**Resolving your concerns, inquiries, or listening to your suggestions is important to us**  
+In order to continually monitor and strengthen our privacy procedures, we have appointed a Privacy Officer who can be contacted through our head office at 416.962.9262 or 1.800.540.3594. Please contact our Privacy Officer if you have any questions about privacy that were not answered above. We welcome your suggestions. 
 
-If you have any questions regarding this privacy policy you may contact the Randstad Webmaster by sending an email to: internetwebmaster@us.randstad.com. 
-
-Miscellaneous
-
-Randstad may from time to time change this privacy policy with or without notice, so please check it regularly for any changes or updates. For future reference, Randstad will make a link to the current privacy policy available to you on your screen when you are on our website. Your use of the site constitutes your agreement to this privacy policy and your assent to any modification thereto. 
-
-**Copyright © 2002 Randstad North America All Rights Reserved.  
-[Legal Information](https://web.archive.org/global/legal.html) | [Randstad Privacy Policy](https://web.archive.org/global/privacy_policy.html) | [Site Feedback](mailto:internetwebmaster@us.randstad.com)**
+**Changes to this privacy statement**  
+Randstad Canada reserves the right to modify or supplement our privacy statement at any time. If we make any changes, we will update this site to include such changes and post a notice on our home page for a period of 30 days, with a link to the updated privacy statement. If you return to this site after a period of more than 30 days, please check this privacy statement to confirm you are familiar with the most recent update. Your continued use of the site will constitute your consent to the changes, including use of personal information previously provided, as if they were the initial terms. However, we will seek your consent if we want to use your personal information for purposes other than those agreed to previously. 
