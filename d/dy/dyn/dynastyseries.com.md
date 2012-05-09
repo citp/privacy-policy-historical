@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dynastyseries.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108233422id_/http%3A//dynastyseries.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynastyseries.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509155057id_/http%3A//dynastyseries.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | DynastySeries ™ - dynastyseries.com - @dynastyseries - Home of Your Favorite Video Vixens
+# DynastySeries.com » Privacy Policy
 
 This is the web site of JKF Media. We can be reached via e-mail at jfoster@jkfmedia.com.
 
