@@ -1,28 +1,6 @@
-> *The following text is extracted and transformed from the exterminate-it.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213231630id_/http%3A//www.exterminate-it.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exterminate-it.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509225412id_/http%3A//www.exterminate-it.com/privacy-policy) for the most accurate reproduction.*
 
 # Exterminate It!: Privacy Policy
-
-
-
-
-[](https://web.archive.org/download)
-
-###### Top 10 Alerts
-
-###### Latest 10 malware files
-
-###### Testimonials
-
-Hey Matt,  
-It worked! You guys are INCREDIBLE!! I cannot thank you enough. Best money I ever spent on a piece of software. My entire LIFE was on my PC and if it wasn't for Exterminate It! and the help from you, well to be blunt, I would of just been screwed! I pray that you guys will keep doin what your doin. This is not the first time I've had trouble with my pc and am sure it wont be my last. Every time I've ended up reformatting and losing everything, BUT NOT THIS TIME!! WOOHOO!! I will tell EVERYONE about your software and will be a customer for life!
-
-THANK YOU AGAIN!!! 
-
-Erik R.
-
-[More ...](https://web.archive.org/testimonials)
-
-###### Latest Blog Posts
 
 ## General
 
@@ -62,7 +40,11 @@ Please note that a system snapshot includes NO private information.
 
 
 
+## Emails and Notifications
+
 We do not disclose your e-mail address to business partners or to anyone other than our employees. CurioLab may contact you by e-mail to respond to comments, feedback, and customer service inquiries you submitted.
+
+CurioLab can send informational emails and notifications to your email address. We guarantee that these messages are 100% safe and contain only information related to our products. If you don’t want to receive these emails you can disable them with a special option.
 
 We send e-mails using the following addresses: 
 
@@ -72,5 +54,3 @@ We send e-mails using the following addresses:
 
 
 If you have any questions or comments concerning this policy, please contact us at [privacy@exterminate-it.com](mailto:privacy@exterminate-it.com).
-
-CURIOLAB S.M.B.A., Amagertorv 15, 2, 1160 Copenhagen K, Denmark, +45.36965533
