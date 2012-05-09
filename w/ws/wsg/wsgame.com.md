@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsgame.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205024456id_/http%3A//www.wsgame.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsgame.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510001104id_/http%3A//www.wsgame.com/about/privacy) for the most accurate reproduction.*
 
 # Wondershare Games | Play Free Browser Games Online
 
@@ -14,10 +14,10 @@ We collect the following information:
 **IP Address :** Each and every time you log on, your IP address will be collected in order to protect you in case someone other than you is using your account. We provide IP Addresses to our advertising partners.  
 **Cookies :** We store cookies on your PC to keep track of your account. Cookies are not shared with other companies. 
 
-When a child under 18 years of age signs up we do not collect their email address without the permission of their parent or legal guardian. We will also not collect the other items listed above. If a child under 18 years of age wants to post information on our website or chat with other players, we will require that they do not disclose any personal information such as their real name, address, phone number, and any other information that could be used to contact the child.
+When a child under 18 years of age signs up, we do not collect their email address without the permission of their parent or legal guardian. We will also not collect the other items listed above. If a child under 18 years of age wants to post information on our website or chat with other players, we will require that they do not disclose any personal information such as their real name, address, phone number, and any other information that could be used to contact the child.
 
   
-Once you've clicked on an advertisement and have left our website, our Privacy Policy no longer applies, and you must read the privacy policy of the advertiser to see how your personal information will be handled on their site. 
+Once you've clicked on an advertisement and have left our website, our Privacy Policy no longer applies, and you must read the Privacy Policy of the advertiser to see how your personal information will be handled on their site. 
 
 When purchasing game items or subscriptions to our games, you will have the choice to pay by PayPal, Moneybookers, mobile phone, bill to your home phone, or any other e-commerce available today or in the future. We will collect the required information for each payment method, however. This information will be kept confidential and is only shared under industry standard security methodologies to the billing partners. The billing partners have no right to use your information other than completing the billing process you have initiated. 
 
@@ -25,10 +25,10 @@ We ask that you educate your child to never give out their email, name, address,
 
 You can send us email at: [support@wsgame.com](mailto:support@wsgame.com)
 
-If we materially change our privacy policy, we will notify you when you sign on or send you an email if we have it on record. We will offer you the choice to agree to our new privacy policy. We will delete your account should you refuse to agree to the new privacy policy. 
+If we materially change our Privacy Policy, we will notify you when you sign on or send you an email if we have it on record. We will offer you the choice to agree to our new Privacy Policy. We will delete your account should you refuse to agree to the new Privacy Policy. 
 
 You can change your information with the exception of your User ID anytime by visiting www.wsgame.com, signing on, and then choosing the 'My Account' link on the upper right side of the website. 
 
 In the event that we sell a portion or our entire Company, we will include provisions in the selling contract requiring the purchaser to treat your personally identifiable information in the same manner required by this Privacy Policy. 
 
-We will disclose personal information when we believe in good faith that such disclosures are required by law, including, for example, to comply with a court order or subpoena, or will help to enforce our Terms of Use; enforce contest, sweepstakes, promotions, and/or game rules; protect your safety or security, including the safety and security of property that belongs to you; and/or, protect the safety and security of our Web sites. 
+We will disclose personal information when we believe in good faith that such disclosures are required by law, including, for example, to comply with a court order or subpoena, or will help to enforce our Terms of Servive; enforce contest, sweepstakes, promotions, and/or game rules; protect your safety or security, including the safety and security of property that belongs to you; and/or, protect the safety and security of our Web sites. 
