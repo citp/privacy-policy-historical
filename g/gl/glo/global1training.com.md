@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the global1training.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220004742id_/http%3A//global1training.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the global1training.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509183722id_/http%3A//www.global1training.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Security Policy
 
 Privacy & Security Policy   
   
-Global1Training Pty Ltd (ACN 18 112 642 485) knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. By visiting [www.global1training.com](http://www.global1training.com/index.php), you are accepting the practices described in this Privacy Notice. Questions regarding this statement should be directed by e-mail to [info@global1training.com](mailto:info@global1training.com). You also contact us at Global1Training Pty Ltd, Suite 203, Level 2, 309 Pitt St Sydney NSW 2000.
+Global1Training Pty Ltd (ACN 18 112 642 485) knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. By visiting [www.global1training.com](http://www.global1training.com/index.php), you are accepting the practices described in this Privacy Notice. Questions regarding this statement should be directed by e-mail to [info@global1training.com](mailto:info@global1training.com). You also contact us at Global1Training Pty Ltd,  Suite 1106, Level 11, 100 William St Woolloomooloo NSW 2011.
 
 ### Information Collected
 
