@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winster.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229105051id_/http%3A//www.winster.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winster.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509093746id_/http%3A//www.winster.com/privacy.html) for the most accurate reproduction.*
 
 # Winster - Games, Friends, Prizes
 
@@ -8,7 +8,7 @@ Privacy Policy |  |
   
 ---|---|---  
   
-Last updated: June 24, 2011
+Last updated: April 3, 2012
 
 Winster, Inc. ("Winnie", "I", "We", "Us", "Our") believes in the Golden Rule: We respect your right to privacy, and intend to treat your personal information as We would want Ours treated on your web site. This notice describes Our Privacy Policy. 
 
@@ -36,7 +36,7 @@ We send you email and other forms of communication for a variety of reasons, suc
 
 We employ people, consultants, and other companies to perform functions for Us. This may from time to time include order fulfillment, prize delivery, sending mail (postal and electronic), analyzing data, marketing consulting, processing credit card payments, providing customer service, and other business functions. These organizations and individuals may have access to your personal information as needed to perform their functions, but may not use it for other purposes. Note specifically that We may share information about you with business partners and vendors from whom We source prizes, including gift certificates, and they may retain this information for their records, add you to their customer records, and treat this information in accordance with their own privacy policies which may differ from Ours. We may receive discounts, payments, or other forms of consideration in return for sharing this information with them. 
 
-As We grow Our business, We may sell or buy other businesses, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the terms of any pre-existing Privacy Policy (unless, of course, you give Us permission to do otherwise). If Our business (or substantially all of its assets) is acquired by another party, your personal information may be one of the assets transferred to that party. 
+As We grow Our business, We may sell or buy other businesses, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the terms of any pre-existing Privacy Policy (unless, of course, you give Us permission to do otherwise). If Our business (or substantially all of its assets in one or more transactions) is acquired by or assigned to another party, your personal information may be one of the assets transferred to that party. 
 
 We also like to obey the law, so we may release your personal information as appropriate to comply with the law or in response to what We believe to be legitimate requests from law enforcement agencies. If We suspect that you aren't playing fair, have lied to Us, are impersonating or pretending to be someone else, are violating the law or Our Terms & Conditions of Use, are abusing Our web site or are infringing Our rights (or those of some third party) in some way, We may disclose your information to others in order to investigate Our suspicions or help them to stop you from behaving badly. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction, among other purposes. 
 
