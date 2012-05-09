@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shafiq.pk privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206150737id_/http%3A//shafiq.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shafiq.pk privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509145522id_/http%3A//shafiq.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | shafiq.pk
 
