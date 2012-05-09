@@ -1,97 +1,84 @@
-> *The following text is extracted and transformed from the scripted.com privacy policy that was archived on 2010-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100225051912id_/http%3A//scripped.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scripted.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509225855id_/https%3A//scripted.com/privacy) for the most accurate reproduction.*
 
-# Scripped - Privacy Policy
+# Scripted.com has agreements to protect both our Buyers and our Writers.
 
-## At Scripped we know your information is very important and we take your privacy seriously.
+Scripted ("Scripted" or "we") is very sensitive to the privacy needs of its website visitors and members (collectively, "You" or "User") and recognizes the importance of protecting personally identifiable information that You may choose to share with Scripted. This Online Privacy Policy ("Privacy Policy") provides You with important information regarding Scripted's collection, storage and use of personally identifiable information.
 
-_Effective as of December 27, 2007_
+This Privacy Policy applies only to personally identifiable information collected on the website(s) operated by Scripted on which this Privacy Policy is posted (collectively, "Website"), and does not apply to any other information collected by Scripted offline or through any other means.
 
-Here at [Scripped.com](http://scripped.com/), (“Scripped”, “we” and “us”), we understand and respect your concerns about the use of your personal information. We believe that you should know what information about you we collect, as well as how that information is used, maintained, and, in some cases, shared. The following sets forth our privacy practices and policies (“Privacy Policy”):
+Capitalized terms not defined in this Privacy Policy are defined in the Scripted Terms of Service.
 
-We will collect information about you when you register for our website or other features and services we provide, when you transmit information via our website or by email, when you register for our promotions and when you otherwise use our website. By doing any of the foregoing, you assent to this Privacy Policy. If you do not agree with the terms of this Privacy Policy, please do not engage in any of these activities.
+_Registration Information_
 
-As described in greater detail below, we will store and use information about you, including information about where and when you browse on our website, to continually improve the quality of our business and our website. 
+Scripted never automatically collects any information that specifically identifies Users, such as their name, address, or e-mail address. Scripted collects personally identifiable information from Users only when Users voluntarily provide it as part of the registration process ("Registration Information") to open an Account. We always ask Users whenever we need Registration Information that identifies Users or allows us to contact Users.
 
-We will not sell or disclose to unaffiliated third parties without your consent information that we collect about you, except that we may share non-personal, aggregate, or summary information regarding our users with unaffiliated third parties. Such information does not identify you individually, but is often used to provide general demographics or statistics.
+Scripted may collect and use personally identifiable information from Users for purposes other than to open an Account, e.g., such as subscribing to a newsletter, participating in polls, surveys, and questionnaires, using tell-a-friend features, participating in contests, sweepstakes, or other promotions, or receiving technical support.
 
-### INFORMATION COLLECTED ABOUT YOU AND OUR USE OF SUCH INFORMATION
+_Consent and Security_
 
-The following describes the types of personal and other information we may collect about you, and how we use and maintain that information:
+It is Your choice whether or not You provide Your Registration Information to Scripted, but Registration Information is required in order for Scripted to provide You with services \- namely, access to and/or participation in the Jobs, to post Jobs and receive Writer Services, and certain other features of the Website.
 
-#### Contact Information
+_Use of Personally Identifiable Information_
 
-We collect your contact information when you register for or subscribe to our website or other services and features we provide, when you transmit information via our website or by email, and when you otherwise use our website. Specifically, we may collect and store in a database your name, mailing address, phone number, email address and any other information you provide to us when registering with our website.
+Your personally identifiable information may be used internally within Scripted and its subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information in conformance with our Privacy Policy. We require that such other businesses and persons agree to comply with our Privacy Policy. For example, Scripted may use Your personally identifiable information internally to provide access to You and process Your contributions to Jobs, to understand who uses the Website, to improve the Website, to provide updates on special events, news, and announcements of interest to our Users, and to contact You for customer service, payment, and billing purposes.
 
-We use this information to contact you with regard to your account and/or subscription to our website. We also use this information to respond to any inquiries you may submit to us. In addition, we may use this information to send you periodic publications or news associated with Scripped or promotional materials about Scripped, unless you inform us that you opt out from receiving such communications via email. We also use your contact information to help operate our website. We reserve the right to send you certain communications relating to your use of our website, such as service announcements, administrative messages and communications regarding your account, subscription, or materials you have posted, without offering you the opportunity to opt out of receiving them.
+In addition, Scripted reserves the right to disclose Your personally identifiable information under limited circumstances in the event Scripted believes that the Website is being used to commit unlawful acts; if disclosure of Your personally identifiable information is required to comply with applicable laws or regulations, or with a court or administrative order; or will help to enforce our Terms of Service, to protect Your safety or security) including the safety and security of property that belongs to You) or to protect the safety and security of the Website or third parties.
 
-#### Website Information
+From time to time, we may purchase a business or sell one or more of our businesses and Your personally identifiable information may be transferred as a part of the purchase or sale. The personally identifiable information transferred as a part of the purchase or sale would be treated in accordance with this Privacy Policy, if it is practicable and permissible to do so.
 
-Our website collects aggregate information site-wide, including anonymous site statistics. Our website also employs browser cookies to store users' preferences and record session information. “Cookies” are bits of information that are stored by your browser on your hard drive. This technology allows you to save your preferences, if applicable, and remembers you when you take action on our website. You can turn off the “cookie” function through most standard browsers.
+_Usage Information_
 
-In addition, when you visit our website our system automatically collects domain names, your IP address and the type of browser that you use. When you browse our website, our systems log the Scripped web pages that you visit. This information is used to analyze trends, administer the website, improve the design of our website, track user movement, protect copyrighted materials, and otherwise enhance the services we provide. 
+Non-personally identifying information ("Usage Information") comprises information that does not identify any particular User. Examples include: information about which of Scripted's pages are visited on an aggregate level, browser type, operating system type, or IP address of a User.
 
-Scripped lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. 
+Scripted may collect other types of non-personally identifying information, e.g., age, date of birth, gender, hobbies, or other demographic information.
 
-#### Information from Promotions
+_Use of Usage Information_
 
-We will collect information you give us if you participate in a Scripped promotion, such as a contest. You may be asked to provide your name and email address, and possibly other information such as your mailing address and telephone number.
+Your Usage Information may be disclosed internally within Scripted and to third parties. For example, Scripted may disclose Usage Information in order to better understand which parts of the Website Users are visiting, to improve the content of the Website, and for marketing, advertising, or research purposes.
 
-We will store this information in our database and will use it to communicate with you about the promotion. We may also use this information to send you periodic publications or news associated with Scripped in the future or promotional materials about Scripped, unless you inform us that you opt out from receiving such communications.
+_Cookies and Log Files_
 
-If a promotion is done jointly with another entity, the information we collect may be shared with such third parties who have their own, separate privacy policies. In such a case, you should visit their website(s) to read each applicable privacy policy.
+The Website may place a text file called a "cookie" in the browser files of Your computer. Cookies can be used to provide You with tailored information from the Website. The cookie itself does not contain Registration Information. You can set Your browser to notify You when You receive a cookie, giving You the chance to decide whether or not to accept it. Scripted also records information that Your web browser sends whenever You visit any website, such as Your Internet Protocol address.
 
-#### Payment Information
+The Website uses a variety of technical methods for tracking purposes, including web beacons. Web beacons are small pieces of data that are embedded in images on the pages of websites. We also use these technical methods to analyze the traffic patterns on the Website, such as the frequency with which our Users visit various parts of the Website. These technical methods may involve the transmission of information either directly to us or to another party authorized by us to collect information on our behalf. We may collect information from use of these technical methods in a form that is personally identifiable.
 
-If you have a paid subscription to our website, your payment information, such as a credit card number and expiration date, may be stored. We may use the information you provide us to bill you for the products and services you have requested, or to notify you of additional products and services available to you. By subscribing, you agree that we may share this information with our service providers, which may include banks and credit card companies we use to process your transaction.
+You may, of course, decline to submit personally identifiable information through the Website, in which case Scripted may not be able to provide certain services or features of the Website to You.
 
-We take reasonable precautions to protect your payment information from loss, misuse or alteration. We use Secure Socket Layer (SSL) technology to protect sensitive information such as your credit card number and a series of firewalls to protect our internal systems. However, while processing credit card purchases through such systems is reported to be as safe or safer than many other traditional means, there is always a risk that such information could be obtained by an unauthorized third party.
+To protect Your privacy and security, we take reasonable steps (such as requesting a unique password) to verify Your identity before granting You access to your profile or making corrections. You are responsible for maintaining the secrecy of Your unique password and account information at all times.
 
-#### Other Information
+If at any time You decide to remove Your personally identifiable information from our database, You may do so by emailing us at [contact@scripted.com](mailto:contact@scripted.com) or contacting us via the following mailing address:
 
-We may retain any data you provide to us in an email or other inquiry, for the purpose of tracking the types of questions that we receive. Additionally, to effectuate the intent of our website to reduce costs to screenwriters and introduce collaboration into the writing process, we may store any written, audio, video or material you submit to or through our website, including but not limited to, material submitted or posted to or through our community forums, messaging and chat features, web logs, user profiles, writer groups, and script-authoring application.
+Scripted, Inc.
 
-Notwithstanding anything contained herein, we will disclose non-personally identifiable information to other companies that we contract with to create, support, manage, maintain or improve our website and the features on our website.
+423 Washington Street, Floor 2
 
-### WHEN YOUR INFORMATION WILL BE SHARED OR DISCLOSED
+San Francisco, CA 94111 
 
-We may provide your name, mailing address, phone number and email address to affiliates of Scripped and other companies for use in the marketing and promotion of Scripped only with your consent. Otherwise we will only provide non-personally identifiable aggregate data.
+Upon such removal, Scripted may not be able to provide certain services or features of the Website to You.
 
-We will comply with any subpoenas, court orders or other legal processes for any of the information about you in our possession, and we may use such information to establish or exercise our legal rights, or to defend against legal claims.
+_Third-party Advertisers, Links to Other Sites_
 
-We reserve the right to disclose information about you, including data on which pages you have visited, to third parties if we feel it is necessary to protect our systems, business, users or others.
+Scripted may allow advertising services companies to serve advertisements within the Website. Advertising may be based on usage, text, demographic, or other information gathered by or on behalf of Scripted. Scripted's Privacy Policy does not apply to, and we cannot control, the activities of advertisers.
 
-We may provide aggregate information, such as the number of users who have visited our website, to other parties.
+This Privacy Policy applies only to the Website operated by Scripted, and not to any other websites to which we may link.
 
-Information about you in our possession may also be disclosed as part of any merger, acquisition, sale of company assets, or transition of service to another provider, as well as in the unlikely event of insolvency, bankruptcy, or receivership in which your personal information would be transferred as one of the business assets of the company. Scripped does not guarantee that any entity receiving such information in connection with one of these transactions will comply with all terms of this Privacy Policy.
+_Our Commitment To Data Security_
 
-In addition, when you use certain features on our website, such as posting or visiting our community forums, messaging or chatting with other users, creating a profile page, or writing a web log, your “user name” and other information you disclose will be viewable by other users of our website.
+Scripted uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of Your personally identifiable information. We cannot, however, ensure or warrant the security of any information You provide to Scripted and You do so at Your own risk. Once We receive Your transmission of information, Scripted makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.   
 
-#### Security
 
-Whenever Scripped handles information that you enter on our website, regardless of where this occurs, we take steps to ensure that your information is treated securely and in accordance with this Privacy Policy. Unfortunately, Scripped cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.
+_Our Commitment To Children’s' Privacy_
 
-Our site has security measures in place to protect against the loss, modification or alteration of the information under our control. Such measures include, but are not limited to, text-to-image conversion, pagination, oversight and backups of all Scripped.com databases, IP address tracking, and implementation of the latest PHP, MySQL and Linux libraries and functions, and records of user access to Materials.
+Protecting the privacy of young children is especially important. For that reason, Scripted does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the Website from persons under 13 years of age, and no part of our website is directed to persons under 13. If You are under 13 years of age, then please do not use or access the Website at any time or in any manner. If Scripted learns that personally identifiable information of persons under 13 years of age has been collected on the Website without verified parental consent, then Scripted will take appropriate steps to delete this information.
 
-### THIRD PARTY INFORMATION
+_Special Note to International Users_
 
-You agree that you have provided notice to, and obtained consent from, any third party individuals whose personal information you supply to us with regard to: (a) the purposes for which such third party's personal information has been collected; (b) the intended recipients or categories of recipients of the third party's personal information; (c) which of the third party's information is obligatory and which information, if any, is voluntary; and (d) how the third party can access and, if necessary, rectify the information held about them.
+The Website is hosted in the United States and is intended for and directed to Users in the United States. If You are accessing the Website from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through Your continued access and use of Scripted, which are governed by U.S. law, this Privacy Notice, and our Terms of Service, You are transferring Your personally identifiable information to the United States and You consent to that transfer.
 
-### CHILDREN'S PRIVACY
+_Effective Date_
 
-If you are under the age of 13, please do not use or access this Site in any way. We will not knowingly collect or use any personal information from such children under the age of 13. If we become aware that we have collected any personal information from children under 13, we will promptly delete such information from our databases.
+This Privacy Policy is effective as of January 31, 2012 and will remain in effect unless changed. Scripted may modify this Privacy Policy at any time, and such modifications shall be effective immediately upon posting of the modified Privacy Policy on the Website.
 
-### OTHER WEBSITES
+_Contacting the Website_
 
-For your convenience, this website may contain links to other websites, or you may be otherwise referred to other websites, including websites administered by Scripped or administered by other companies on behalf of Scripped, as well as to websites unrelated to Scripped. This Privacy Policy does not apply to these linked websites. Each website should be checked for its own privacy policy.
-
-### CHANGES TO THIS POLICY
-
-Scripped may update this Privacy Policy from time to time. In the event that Scripped merges with, or is acquired by another company, a change to this Privacy Policy may result. Whenever a change to this Privacy Policy is significant, we will place a prominent notice on this website.
-
-### GOVERNING LAW
-
-By choosing to visit this website or otherwise provide information to Scripped, you agree that any dispute over privacy or the terms contained in this Privacy Policy will be governed by the laws of the State of California. You also agree to arbitrate such disputes and to abide by any limitation on damages contained in our Terms of Use (available at [http://www.scripped.com/term](http://scripped.com/term)) or other agreement we have with you.
-
-### UPDATE INFORMATION / SUGGESTIONS
-
-If you would like to update or correct any information that you have provided to Scripped through your use of this website or otherwise, or you have suggestions for improving this Privacy Policy, please send an email to [legal@scripped.com](mailto:%20legal@scripped.com).
+If You have any questions about this Privacy Policy, the practices of this Website, or Your dealings with this Website, please contact: [contact@scripted.com](mailto:contact@scripted.com).
