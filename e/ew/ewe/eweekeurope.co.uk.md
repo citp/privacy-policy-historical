@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eweekeurope.co.uk privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211191301id_/http%3A//www.eweekeurope.co.uk/service-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eweekeurope.co.uk privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510001015id_/http%3A//www.techweekeurope.co.uk/service-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | eWEEK Europe UK
+# Privacy Policy | TechWeekEurope UK
 
 NetMediaEurope endeavours to respect the privacy of its customers and users at all times, ensuring that the confidentiality of any information they share with NetMediaEurope is treated with the utmost guarantees. In the present Privacy Policy, NetMediaEurope sets out its compliance with current data protection legislation in the United Kingdom such as the UK Data Protection Act 1998. It also seeks to address any queries or doubts that its customers and users might have in this sense.
 
