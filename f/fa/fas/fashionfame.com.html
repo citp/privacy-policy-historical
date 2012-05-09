@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fashionfame.com privacy policy that was archived on 2011-11-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111105115323id_/http%3A//www.fashionfame.com/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fashionfame.com privacy policy that was archived on 2012-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120509214939id_/http%3A//www.fashionfame.com/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -140,8 +140,93 @@ google.load('ads.search', '2');
     );
   });
 </script>
+
+<style type="text/css">
+
+#mask{position:fixed;left:0;top:0;width:100%;height:100%;z-index:9000;background:#000000;opacity:0.8;filter:alpha(opacity=80);
+display:none;}
+#p-con{width:100%}
+#con{-moz-box-shadow:0 0 5px 5px #888;-webkit-box-shadow: 0 0 5px 5px #888;box-shadow:0 0 5px 5px #888;height:450px;width:400px;padding:15px;font-size:15px;font-weight:bold;color:#FFF;z-index:99999;background:#959595 url(/wp-content/uploads/2012/03/rbk.png) repeat;display:none;position:fixed;left:35%;top:20%;}
+#con img{float:inherit;}
+</style>
+
 </head>
-<body>
+<body onload="get_email()">
+
+
+
+<script type="text/javascript">
+var time = 0;
+var tt;
+var tm;
+function setCookie(c_name,value,exdays)
+{
+	var exdate=new Date();
+	exdate.setDate(exdate.getDate() + exdays);
+	var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
+	document.cookie=c_name + "=" + c_value;
+}
+function getCookie(c_name)
+{
+var i,x,y,ARRcookies=document.cookie.split(";");
+for (i=0;i<ARRcookies.length;i++)
+{
+  x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+  y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+  x=x.replace(/^\s+|\s+$/g,"");
+  if (x==c_name)
+    {
+    return unescape(y);
+    }
+  }
+}
+function closeDisForever()
+{
+	//$('#mask').fadeOut(500);
+        $('#con').fadeOut(500);
+        document.getElementById('mask').style.display = 'none';
+//document.getElementById('con').style.display = 'none';
+	setCookie("ds","dontshow",10);
+	get_email();
+}
+function closeDis()
+{
+
+	//$('#mask').fadeOut(500);
+        $('#con').fadeOut(500);
+        document.getElementById('mask').style.display = 'none';
+//document.getElementById('con').style.display = 'none';
+	setTimeout('checkCookie()', parseInt(time));
+}
+function checkCookie()
+{
+	time = 30000 + parseInt(time);
+        document.getElementById('mask').style.display = 'block';
+        document.getElementById('con').style.display = 'block';
+	$('#mask').fadeIn(500);
+        $('#con').fadeIn(500);
+}
+function get_email()
+{
+	if(parseInt(time) == 0)
+	{
+		time = 5000;
+	}
+	if(!getCookie("ds"))
+	{
+		setTimeout('checkCookie()', parseInt(time));
+	}
+}
+</script><div id="mask"></div>
+
+<div id="p-con">
+<div id="con">
+<img style="cursor:pointer;position:absolute; right:40px;top:20px" src="/wp-content/uploads/2012/03/cancel.png" onclick="closeDis();" title="close">			
+<iframe height="440px" width="400px" src="https://app.expressemailmarketing.com/Survey.aspx?SFID=108754"></iframe> 
+<img src="/wp-content/uploads/2012/03/ns.png" onclick="closeDisForever();" title="Never Show Again" style="cursor:pointer">
+</div>
+</div>
+
 
 <script type="text/javascript" charset="utf-8">
 					var pageOptions = {
@@ -223,28 +308,28 @@ google.load('ads.search', '2');
         	<h2 class="pinkcategory">Fragrances</h2>
             <div class="pinkpic">
 					 
-				<a href="http://www.fashionfame.com/2011/10/tulisa-contostavlos-female-boss-fragrance-launch/" title="Tulisa Contostavlos in Karen Millen: ‘The Female Boss’ Fragrance Launch" rel="nofollow"><img src="http://www.fashionfame.com/wp-content/themes/FashionFame3.5/thumb.php?src=wp-content/uploads/2011/10/the-female-boss-perfume-tulisa.jpeg&amp;h=105&amp;w=150&amp;zc=1&amp;q=100" alt="Tulisa Contostavlos in Karen Millen: ‘The Female Boss’ Fragrance Launch"></a>        
+				<a href="http://www.fashionfame.com/2012/01/victorias-secret-fragrances-valentines-day/" title="Victoria’s Secret Launches Two Fragrances For Valentine’s Day" rel="nofollow"><img src="http://www.fashionfame.com/wp-content/themes/FashionFame3.5/thumb.php?src=wp-content/uploads/2012/01/victorias-secret-valentines-day-fragrances.jpeg&amp;h=105&amp;w=150&amp;zc=1&amp;q=100" alt="Victoria’s Secret Launches Two Fragrances For Valentine’s Day"></a>        
             </div>
-            <h2 class="pinktitle"><a href="http://www.fashionfame.com/2011/10/tulisa-contostavlos-female-boss-fragrance-launch/" title="Tulisa Contostavlos in Karen Millen: ‘The Female Boss’ Fragrance Launch">Tulisa Contostavlo...</a></h2>
+            <h2 class="pinktitle"><a href="http://www.fashionfame.com/2012/01/victorias-secret-fragrances-valentines-day/" title="Victoria’s Secret Launches Two Fragrances For Valentine’s Day">Victoria’s S...</a></h2>
             <div class="pinkdes">
-                Hot and <a title="sexy Tulisa Contostavlos" href="http://www.fashionfame.com/category/celebrity-news/celeb-tulisa-contostavlos/" target="_self">sexy Tulisa Contostavlos</a> is touching new heights <a href="http://www.fashionfame.com/2011/10/tulisa-contostavlos-female-boss-fragrance-launch/#more-73917"></a>...
+                <a title="Victoria's Secret" href="http://www.fashionfame.com/category/designer-fashion/brands/victorias-secret-brand/" target="_self">Victoria's Secret</a>, an American retailer of women's wear, lingerie and <a href="http://www.fashionfame.com/2012/01/victorias-secret-fragrances-valentines-day/#more-80801"></a>...
             </div>
     
-<div class="bluereadmore"> <a href="http://www.fashionfame.com/2011/10/tulisa-contostavlos-female-boss-fragrance-launch/" title="Tulisa Contostavlos in Karen Millen: ‘The Female Boss’ Fragrance Launch">Get Insight</a></div>
+<div class="bluereadmore"> <a href="http://www.fashionfame.com/2012/01/victorias-secret-fragrances-valentines-day/" title="Victoria’s Secret Launches Two Fragrances For Valentine’s Day">Get Insight</a></div>
             <div class="clear"></div>
         </div>
         
                         <div class="pinkframe">
-        	<h2 class="pinkcategory">Fashion Jewelry</h2>
+        	<h2 class="pinkcategory">Fashion Footwear</h2>
             <div class="pinkpic">
 					 
-				<a href="http://www.fashionfame.com/2011/10/john-hardy-fall-2011-jewelry-campaign/" title="John Hardy Fall 2011 Jewelry Campaign" rel="nofollow"><img src="http://www.fashionfame.com/wp-content/themes/FashionFame3.5/thumb.php?src=wp-content/uploads/2011/10/john-hardy-fall-2011-jewelry-campaign.jpg&amp;h=105&amp;w=150&amp;zc=1&amp;q=100" alt="John Hardy Fall 2011 Jewelry Campaign"></a>        
+				<a href="http://www.fashionfame.com/2012/03/sexy-fergie-rocks-prada-flame-sandals/" title="Sexy Fergie Rocks Prada Flame Sandals" rel="nofollow"><img src="http://www.fashionfame.com/wp-content/themes/FashionFame3.5/thumb.php?src=wp-content/uploads/2012/03/fergie-prada-flame-sandals.jpeg&amp;h=105&amp;w=150&amp;zc=1&amp;q=100" alt="Sexy Fergie Rocks Prada Flame Sandals"></a>        
             </div>
-            <h2 class="pinktitle"><a href="http://www.fashionfame.com/2011/10/john-hardy-fall-2011-jewelry-campaign/" title="John Hardy Fall 2011 Jewelry Campaign">John Hardy Fall 2011 Jew...</a></h2>
+            <h2 class="pinktitle"><a href="http://www.fashionfame.com/2012/03/sexy-fergie-rocks-prada-flame-sandals/" title="Sexy Fergie Rocks Prada Flame Sandals">Sexy Fergie Rocks Prada ...</a></h2>
             <div class="pinkdes">
-                Hey Fashionistas!! It's time to check out some statement making jewelry pieces that are <a href="http://www.fashionfame.com/2011/10/john-hardy-fall-2011-jewelry-campaign/#more-72376"></a>...
+                Popular <a title="singer Fergie" href="http://www.fashionfame.com/category/celebrity-news/celeb-fergie/" target="_self">singer Fergie</a> attended the launch of Don-A-Matrix Training in <a href="http://www.fashionfame.com/2012/03/sexy-fergie-rocks-prada-flame-sandals/#more-85471"></a>...
             </div>
-           <div class="pinkreadmore"><a href="http://www.fashionfame.com/2011/10/john-hardy-fall-2011-jewelry-campaign/" title="John Hardy Fall 2011 Jewelry Campaign">Get Insight</a></div>
+           <div class="pinkreadmore"><a href="http://www.fashionfame.com/2012/03/sexy-fergie-rocks-prada-flame-sandals/" title="Sexy Fergie Rocks Prada Flame Sandals">Get Insight</a></div>
             <div class="clear"></div>
         </div>
         
@@ -253,43 +338,43 @@ google.load('ads.search', '2');
         	<h2 class="pinkcategory">Ad Campaigns</h2>
             <div class="pinkpic">
 					 
-				<a href="http://www.fashionfame.com/2011/11/giedre-dukauskaite-for-blanco-christmas-campaign/" title="Giedre Dukauskaite For Blanco Christmas Campaign" rel="nofollow"><img src="http://www.fashionfame.com/wp-content/themes/FashionFame3.5/thumb.php?src=wp-content/uploads/2011/11/christmas-campaign.jpeg&amp;h=105&amp;w=150&amp;zc=1&amp;q=100" alt="Giedre Dukauskaite For Blanco Christmas Campaign"></a>        
+				<a href="http://www.fashionfame.com/2012/05/irina-shayk-for-blanco-summer-2012-campaign/" title="Irina Shayk For Blanco Summer 2012 Campaign" rel="nofollow"><img src="http://www.fashionfame.com/wp-content/themes/FashionFame3.5/thumb.php?src=wp-content/uploads/2012/05/irina-shayk-in-blanco-2012-campaign.jpg&amp;h=105&amp;w=150&amp;zc=1&amp;q=100" alt="Irina Shayk For Blanco Summer 2012 Campaign"></a>        
             </div>
-            <h2 class="pinktitle"><a href="http://www.fashionfame.com/2011/11/giedre-dukauskaite-for-blanco-christmas-campaign/" title="Giedre Dukauskaite For Blanco Christmas Campaign">Giedre Dukauskaite For B...</a></h2>
+            <h2 class="pinktitle"><a href="http://www.fashionfame.com/2012/05/irina-shayk-for-blanco-summer-2012-campaign/" title="Irina Shayk For Blanco Summer 2012 Campaign">Irina Shayk For Blanco S...</a></h2>
             <div class="pinkdes">
-                Check out <a title="Blanco" href="http://www.fashionfame.com/category/designer-fashion/brands/blanco-brand/" target="_self">Blanco</a> Christmas Campaign featuring Giedre Dukauskaite. Photographed by David <a href="http://www.fashionfame.com/2011/11/giedre-dukauskaite-for-blanco-christmas-campaign/#more-74683"></a>...
+                Gorgeous <a title="model Irina Shayk" href="http://www.fashionfame.com/category/celebrity-news/model-irina-sheik/" target="_self">model Irina Shayk</a> is fronting Blanco's Summer 2012 <a href="http://www.fashionfame.com/2012/05/irina-shayk-for-blanco-summer-2012-campaign/#more-89054"></a>...
             </div>
-            <div class="greenreadmore"><a href="http://www.fashionfame.com/2011/11/giedre-dukauskaite-for-blanco-christmas-campaign/" title="Giedre Dukauskaite For Blanco Christmas Campaign">Get Insight</a></div>
+            <div class="greenreadmore"><a href="http://www.fashionfame.com/2012/05/irina-shayk-for-blanco-summer-2012-campaign/" title="Irina Shayk For Blanco Summer 2012 Campaign">Get Insight</a></div>
             <div class="clear"></div>
         </div>
                         <div class="pinkframe">
         	<h2 class="pinkcategory">New Products</h2>
             <div class="pinkpic">
 					 
-				<a href="http://www.fashionfame.com/2011/10/nicki-minaj-opi-nail-polish-collection/" title="Nicki Minaj OPI Nail Polish Collection" rel="nofollow"><img src="http://www.fashionfame.com/wp-content/themes/FashionFame3.5/thumb.php?src=wp-content/uploads/2011/10/nicki-minaj-opi-nail-polish.jpg&amp;h=105&amp;w=150&amp;zc=1&amp;q=100" alt="Nicki Minaj OPI Nail Polish Collection"></a>        
+				<a href="http://www.fashionfame.com/2012/04/china-glaze-crackle-glitters-collection/" title="China Glaze Crackle Glitters Summer 2012 Collection" rel="nofollow"><img src="http://www.fashionfame.com/wp-content/themes/FashionFame3.5/thumb.php?src=wp-content/uploads/2012/04/china-glaze-crackle-glitters-summer-2012-collection.jpeg&amp;h=105&amp;w=150&amp;zc=1&amp;q=100" alt="China Glaze Crackle Glitters Summer 2012 Collection"></a>        
             </div>
-            <h2 class="pinktitle"><a href="http://www.fashionfame.com/2011/10/nicki-minaj-opi-nail-polish-collection/" title="Nicki Minaj OPI Nail Polish Collection">Nicki Minaj OPI Nail Pol...</a></h2>
+            <h2 class="pinktitle"><a href="http://www.fashionfame.com/2012/04/china-glaze-crackle-glitters-collection/" title="China Glaze Crackle Glitters Summer 2012 Collection">China Glaze Crackle Glit...</a></h2>
             <div class="pinkdes">
-                Wanna have Nicki Minaj at your fingertips? Here's your chance to do that. Stylish <a href="http://www.fashionfame.com/2011/10/nicki-minaj-opi-nail-polish-collection/#more-73352"></a>...
+                Glam up your nails with sparkling nail shades from <a title="China Glaze" href="http://www.fashionfame.com/category/designer-fashion/brands/china-glaze-brand/" target="_self">China </a><a href="http://www.fashionfame.com/2012/04/china-glaze-crackle-glitters-collection/#more-87353"></a>...
             </div>
-              <div class="pinkreadmore"><a href="http://www.fashionfame.com/2011/10/nicki-minaj-opi-nail-polish-collection/" title="Nicki Minaj OPI Nail Polish Collection">Get Insight</a></div>
+              <div class="pinkreadmore"><a href="http://www.fashionfame.com/2012/04/china-glaze-crackle-glitters-collection/" title="China Glaze Crackle Glitters Summer 2012 Collection">Get Insight</a></div>
             <div class="clear"></div>
         </div>
                          <div class="blueframe" style="margin:0px;">
         	<h2 class="pinkcategory">Celebrity On Airport</h2>
             <div class="pinkpic">
 					 
-				<a href="http://www.fashionfame.com/2011/10/cheryl-coleisabel-marant-x-factor-print-jeans/" title="Cheryl Cole in Isabel Marant X-Factor Print Jeans" rel="nofollow"><img src="http://www.fashionfame.com/wp-content/themes/FashionFame3.5/thumb.php?src=wp-content/uploads/2011/10/hollywood-celebrities.jpeg&amp;h=105&amp;w=150&amp;zc=1&amp;q=100" alt="Cheryl Cole in Isabel Marant X-Factor Print Jeans"></a>
+				<a href="http://www.fashionfame.com/2012/04/kim-kardashian-2012-celebrity-airport-fashion/" title="Kim Kardashian: 2012 Celebrity Airport Fashion" rel="nofollow"><img src="http://www.fashionfame.com/wp-content/themes/FashionFame3.5/thumb.php?src=wp-content/uploads/2012/04/hot-kim-kardashian.jpeg&amp;h=105&amp;w=150&amp;zc=1&amp;q=100" alt="Kim Kardashian: 2012 Celebrity Airport Fashion"></a>
             </div>
-            <h2 class="pinktitle"><a href="http://www.fashionfame.com/2011/10/cheryl-coleisabel-marant-x-factor-print-jeans/" title="Cheryl Cole in Isabel Marant X-Factor Print Jeans">Cheryl Cole in Isabel Ma...</a></h2>
+            <h2 class="pinktitle"><a href="http://www.fashionfame.com/2012/04/kim-kardashian-2012-celebrity-airport-fashion/" title="Kim Kardashian: 2012 Celebrity Airport Fashion">Kim Kardashian: 2012 Cel...</a></h2>
             <div class="pinkdes">
-               Sexy <a title="popstar Cheryl Cole" href="http://www.fashionfame.com/category/celebrity-news/celeb-cheryl-cole/" target="_self">popstar Cheryl Cole</a> was seen arriving at LAX airport in Los Angeles <a href="http://www.fashionfame.com/2011/10/cheryl-coleisabel-marant-x-factor-print-jeans/#more-72124"></a>...
+               Undoubtedly, <a title="Super hot Kim Kardashian" href="http://www.fashionfame.com/category/celebrity-news/celeb-kim-kardashian/" target="_self">Super hot Kim Kardashian</a> always wears fashionable and attention-grabbing outfits for <a href="http://www.fashionfame.com/2012/04/kim-kardashian-2012-celebrity-airport-fashion/#more-88075"></a>...
             </div>
-           <div class="bluereadmore"><a href="http://www.fashionfame.com/2011/10/cheryl-coleisabel-marant-x-factor-print-jeans/" title="Cheryl Cole in Isabel Marant X-Factor Print Jeans">Get Insight</a></div>
+           <div class="bluereadmore"><a href="http://www.fashionfame.com/2012/04/kim-kardashian-2012-celebrity-airport-fashion/" title="Kim Kardashian: 2012 Celebrity Airport Fashion">Get Insight</a></div>
             <div class="clear"></div>
         </div>
                 <div class="clear"></div>
-    
+
     </div>
     
 				            
@@ -301,8 +386,9 @@ google.load('ads.search', '2');
 	<a href="http://www.fashionfame.com/community"><img src="/wp-content/uploads/2010/02/fashion-community.gif" height="192px" width="192px" alt="fashion community" style="padding-left:0px;border:none;padding-top:0px; text-align:center;"></a><br><br>
 </div>
 
+
 <div style="width:190px;height:105px; text-align:center; background:url(/wp-content/uploads/2011/08/g_plus_new.jpg) no-repeat">
-<table align="center" style="margin:72px 0 0 40px;" width="100%">
+<table align="center" style="margin:15px 0 0 40px;padding-top:72px;padding-left:52px" width="100%">
 <tbody><tr align="center">
 <td width="70%" align="center">
 <g:plusone></g:plusone>
@@ -332,20 +418,20 @@ google.load('ads.search', '2');
 <div class="catetitle" style="text-align: center;">Fashion Picks</div>	<div>
 	<div style="width:126px;height:150px;margin-left:15%;margin-right:auto;margin-top: 5px;">
 		<div style="color:#FFFFFF;font-weight:bold;padding:5px;width:116px;height:28px;position:absolute;margin-top:112px;background:#000000;opacity: 0.6;">
-			<a onclick="window.open('http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=17019.15697&type=23&subid=0');" onmouseover="this.style.cursor = 'pointer';">SPANX Swimwear Skirtini Bottom..</a>
+			<a onclick="window.open('http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=17019.16869&type=23&subid=0');" onmouseover="this.style.cursor = 'pointer';">Freya Pier Rio Swimwear Brief..</a>
 		</div>
-		<a style="border: medium none;" onclick="window.open('http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=17019.15697&type=23&subid=0');" onmouseover="this.style.cursor = 'pointer';">
-			<img style="border: medium none; height:150px; width:126px;" src="http://m.adscale.linksynergy.com/adscale/product/126x150/1623/15697" alt="http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=17019.15697&type=23&subid=0"></a>
+		<a style="border: medium none;" onclick="window.open('http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=17019.16869&type=23&subid=0');" onmouseover="this.style.cursor = 'pointer';">
+			<img style="border: medium none; height:150px; width:126px;" src="http://m.adscale.linksynergy.com/adscale/product/126x150/1623/16869" alt="http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=17019.16869&type=23&subid=0"></a>
 		</div>
 	</div>
 		
 		<div>
 	<div style="width:126px;height:150px;margin-left:15%;margin-right:auto;margin-top: 5px;">
 		<div style="color:#FFFFFF;font-weight:bold;padding:5px;width:116px;height:28px;position:absolute;margin-top:112px;background:#000000;opacity: 0.6;">
-			<a onclick="window.open('http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=17019.18740&type=23&subid=0');" onmouseover="this.style.cursor = 'pointer';">Freya Venetian Sundress Cover-..</a>
+			<a onclick="window.open('http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=17019.20649&type=23&subid=0');" onmouseover="this.style.cursor = 'pointer';">Linda Hartman Stretch Satin Pa..</a>
 		</div>
-		<a style="border: medium none;" onclick="window.open('http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=17019.18740&type=23&subid=0');" onmouseover="this.style.cursor = 'pointer';">
-			<img style="border: medium none; height:150px; width:126px;" src="http://m.adscale.linksynergy.com/adscale/product/126x150/1623/18740" alt="http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=17019.18740&type=23&subid=0"></a>
+		<a style="border: medium none;" onclick="window.open('http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=17019.20649&type=23&subid=0');" onmouseover="this.style.cursor = 'pointer';">
+			<img style="border: medium none; height:150px; width:126px;" src="http://m.adscale.linksynergy.com/adscale/product/126x150/1623/20649" alt="http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=17019.20649&type=23&subid=0"></a>
 		</div>
 	</div>
 		
@@ -354,20 +440,20 @@ google.load('ads.search', '2');
 		<div>
 	<div style="width:126px;height:150px;margin-left:15%;margin-right:auto;margin-top: 5px;">
 		<div style="color:#FFFFFF;font-weight:bold;padding:5px;width:116px;height:28px;position:absolute;margin-top:112px;background:#000000;opacity: 0.6;">
-			<a onclick="window.open('http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=196055.15093&type=23&subid=0');" onmouseover="this.style.cursor = 'pointer';">Genuine Diamond 1/4 Carat San ..</a>
+			<a onclick="window.open('http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=196055.11569&type=23&subid=0');" onmouseover="this.style.cursor = 'pointer';">Sterling Silver Hand Carved Na..</a>
 		</div>
-		<a style="border: medium none;" onclick="window.open('http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=196055.15093&type=23&subid=0');" onmouseover="this.style.cursor = 'pointer';">
-			<img style="border: medium none; height:150px; width:126px;" src="http://m.adscale.linksynergy.com/adscale/product/126x150/2142/15093" alt="http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=196055.15093&type=23&subid=0"></a>
+		<a style="border: medium none;" onclick="window.open('http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=196055.11569&type=23&subid=0');" onmouseover="this.style.cursor = 'pointer';">
+			<img style="border: medium none; height:150px; width:126px;" src="http://m.adscale.linksynergy.com/adscale/product/126x150/2142/11569" alt="http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=196055.11569&type=23&subid=0"></a>
 		</div>
 	</div>
 		
 		<div>
 	<div style="width:126px;height:150px;margin-left:15%;margin-right:auto;margin-top: 5px;">
 		<div style="color:#FFFFFF;font-weight:bold;padding:5px;width:116px;height:28px;position:absolute;margin-top:112px;background:#000000;opacity: 0.6;">
-			<a onclick="window.open('http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=196055.13053&type=23&subid=0');" onmouseover="this.style.cursor = 'pointer';">Sterling Silver Marquise and R..</a>
+			<a onclick="window.open('http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=196055.4207&type=23&subid=0');" onmouseover="this.style.cursor = 'pointer';">Wide Wedding Band..</a>
 		</div>
-		<a style="border: medium none;" onclick="window.open('http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=196055.13053&type=23&subid=0');" onmouseover="this.style.cursor = 'pointer';">
-			<img style="border: medium none; height:150px; width:126px;" src="http://m.adscale.linksynergy.com/adscale/product/126x150/2142/13053" alt="http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=196055.13053&type=23&subid=0"></a>
+		<a style="border: medium none;" onclick="window.open('http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=196055.4207&type=23&subid=0');" onmouseover="this.style.cursor = 'pointer';">
+			<img style="border: medium none; height:150px; width:126px;" src="http://m.adscale.linksynergy.com/adscale/product/126x150/2142/4207" alt="http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=196055.4207&type=23&subid=0"></a>
 		</div>
 	</div>
 		
@@ -437,18 +523,18 @@ google.load('ads.search', '2');
                     <div class="archivetitle">&nbsp;</div>
                     <div class="cateframe">
                     	<ul>
-                            	<li><a href="http://www.fashionfame.com/2011/11/" title="November 2011">November 2011</a></li>
+                            	<li><a href="http://www.fashionfame.com/2012/05/" title="May 2012">May 2012</a></li>
+	<li><a href="http://www.fashionfame.com/2012/04/" title="April 2012">April 2012</a></li>
+	<li><a href="http://www.fashionfame.com/2012/03/" title="March 2012">March 2012</a></li>
+	<li><a href="http://www.fashionfame.com/2012/02/" title="February 2012">February 2012</a></li>
+	<li><a href="http://www.fashionfame.com/2012/01/" title="January 2012">January 2012</a></li>
+	<li><a href="http://www.fashionfame.com/2011/12/" title="December 2011">December 2011</a></li>
+	<li><a href="http://www.fashionfame.com/2011/11/" title="November 2011">November 2011</a></li>
 	<li><a href="http://www.fashionfame.com/2011/10/" title="October 2011">October 2011</a></li>
 	<li><a href="http://www.fashionfame.com/2011/09/" title="September 2011">September 2011</a></li>
 	<li><a href="http://www.fashionfame.com/2011/08/" title="August 2011">August 2011</a></li>
 	<li><a href="http://www.fashionfame.com/2011/07/" title="July 2011">July 2011</a></li>
 	<li><a href="http://www.fashionfame.com/2011/06/" title="June 2011">June 2011</a></li>
-	<li><a href="http://www.fashionfame.com/2011/05/" title="May 2011">May 2011</a></li>
-	<li><a href="http://www.fashionfame.com/2011/04/" title="April 2011">April 2011</a></li>
-	<li><a href="http://www.fashionfame.com/2011/03/" title="March 2011">March 2011</a></li>
-	<li><a href="http://www.fashionfame.com/2011/02/" title="February 2011">February 2011</a></li>
-	<li><a href="http://www.fashionfame.com/2011/01/" title="January 2011">January 2011</a></li>
-	<li><a href="http://www.fashionfame.com/2010/12/" title="December 2010">December 2010</a></li>
                         </ul>
                     </div>                    
                     <div class="frtitle">&nbsp;</div>
@@ -535,7 +621,7 @@ if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogI
 <input type="text" value="" name="captcha_code" id="captcha_code" tabindex="4" style="width:65px;">
  <label for="captcha_code"><small>CAPTCHA Code</small></label>
  </div>
-<div style="width: 250px; height: 55px; padding-top:10px;"><img id="si_image" style="border-style:none; margin:0; padding-right:5px; float:left;" src="http://www.fashionfame.com/wp-content/plugins/si-captcha-for-wordpress/captcha-secureimage/securimage_show_high.php?sid=375eb7f8b832c66d7af394a1cf255ca7" alt="CAPTCHA Image" title="CAPTCHA Image"><a href="http://www.fashionfame.com/wp-content/plugins/si-captcha-for-wordpress/captcha-secureimage/securimage_play.php" title="CAPTCHA Audio">
+<div style="width: 250px; height: 55px; padding-top:10px;"><img id="si_image" style="border-style:none; margin:0; padding-right:5px; float:left;" src="http://www.fashionfame.com/wp-content/plugins/si-captcha-for-wordpress/captcha-secureimage/securimage_show_high.php?sid=af3b597451240d6cd03f2306ce85ae8a" alt="CAPTCHA Image" title="CAPTCHA Image"><a href="http://www.fashionfame.com/wp-content/plugins/si-captcha-for-wordpress/captcha-secureimage/securimage_play.php" title="CAPTCHA Audio">
         <img src="http://www.fashionfame.com/wp-content/plugins/si-captcha-for-wordpress/captcha-secureimage/images/audio_icon.gif" alt="CAPTCHA Audio" style="border-style:none; margin:0; vertical-align:top;" onclick="this.blur()"></a><br><a href="#" title="Refresh Image" onclick="document.getElementById('si_image').src = 'http://www.fashionfame.com/wp-content/plugins/si-captcha-for-wordpress/captcha-secureimage/securimage_show_high.php?sid=' + Math.random(); return false">
   <img src="http://www.fashionfame.com/wp-content/plugins/si-captcha-for-wordpress/captcha-secureimage/images/refresh.gif" alt="Refresh Image" style="border-style:none; margin:0; vertical-align:bottom;" onclick="this.blur()"></a>
   </div>
@@ -587,20 +673,20 @@ if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogI
 <div class="catetitle" style="text-align: center;">Fashion Picks</div><a href="/shop/" title="Fashion Shop"><img style="margin-top:5px;margin-left:8px" src="/wp-content/uploads/2011/05/fashion_trends.jpg" alt="" /></a><br />	<div>
 	<div style="width:126px;height:150px;margin-left:15%;margin-right:auto;margin-top: 5px;">
 		<div style="color:#FFFFFF;font-weight:bold;padding:5px;width:116px;height:28px;position:absolute;margin-top:112px;background:#000000;opacity: 0.6;">
-			<a onclick="window.open('http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=179845.16886&type=23&subid=0');" onmouseover="this.style.cursor = 'pointer';">J Brand Jeans Mid-Rise Luxe Twil..</a>
+			<a onclick="window.open('http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=179845.355852011120915946229&type=23&subid=0');" onmouseover="this.style.cursor = 'pointer';">Beyond Vintage Marina Floral-Pri..</a>
 		</div>
-		<a style="border: medium none;" onclick="window.open('http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=179845.16886&type=23&subid=0');" onmouseover="this.style.cursor = 'pointer';">
-			<img style="border: medium none; height:150px; width:126px;" src="http://m.adscale.linksynergy.com/adscale/product/126x150/35585/16886" alt="http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=179845.16886&type=23&subid=0"></a>
+		<a style="border: medium none;" onclick="window.open('http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=179845.355852011120915946229&type=23&subid=0');" onmouseover="this.style.cursor = 'pointer';">
+			<img style="border: medium none; height:150px; width:126px;" src="http://m.adscale.linksynergy.com/adscale/product/126x150/35585/355852011120915946229" alt="http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=179845.355852011120915946229&type=23&subid=0"></a>
 		</div>
 	</div>
 		
 		<div>
 	<div style="width:126px;height:150px;margin-left:15%;margin-right:auto;margin-top: 5px;">
 		<div style="color:#FFFFFF;font-weight:bold;padding:5px;width:116px;height:28px;position:absolute;margin-top:112px;background:#000000;opacity: 0.6;">
-			<a onclick="window.open('http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=179845.16289&type=23&subid=0');" onmouseover="this.style.cursor = 'pointer';">Tucker Honeycomb-Print Blouse..</a>
+			<a onclick="window.open('http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=179845.355852011120915949975&type=23&subid=0');" onmouseover="this.style.cursor = 'pointer';">MICHAEL Michael Kors One-Shoulde..</a>
 		</div>
-		<a style="border: medium none;" onclick="window.open('http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=179845.16289&type=23&subid=0');" onmouseover="this.style.cursor = 'pointer';">
-			<img style="border: medium none; height:150px; width:126px;" src="http://m.adscale.linksynergy.com/adscale/product/126x150/35585/16289" alt="http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=179845.16289&type=23&subid=0"></a>
+		<a style="border: medium none;" onclick="window.open('http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=179845.355852011120915949975&type=23&subid=0');" onmouseover="this.style.cursor = 'pointer';">
+			<img style="border: medium none; height:150px; width:126px;" src="http://m.adscale.linksynergy.com/adscale/product/126x150/35585/355852011120915949975" alt="http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=179845.355852011120915949975&type=23&subid=0"></a>
 		</div>
 	</div>
 		
@@ -609,20 +695,20 @@ if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogI
 		<div>
 	<div style="width:126px;height:150px;margin-left:15%;margin-right:auto;margin-top: 5px;">
 		<div style="color:#FFFFFF;font-weight:bold;padding:5px;width:116px;height:28px;position:absolute;margin-top:112px;background:#000000;opacity: 0.6;">
-			<a onclick="window.open('http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=207134.14071600&type=23&subid=0');" onmouseover="this.style.cursor = 'pointer';">M Simcoe-blk..</a>
+			<a onclick="window.open('http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=207134.14071946&type=23&subid=0');" onmouseover="this.style.cursor = 'pointer';">Ladies Serenity Gold..</a>
 		</div>
-		<a style="border: medium none;" onclick="window.open('http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=207134.14071600&type=23&subid=0');" onmouseover="this.style.cursor = 'pointer';">
-			<img style="border: medium none; height:150px; width:126px;" src="http://m.adscale.linksynergy.com/adscale/product/126x150/3096/14071600" alt="http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=207134.14071600&type=23&subid=0"></a>
+		<a style="border: medium none;" onclick="window.open('http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=207134.14071946&type=23&subid=0');" onmouseover="this.style.cursor = 'pointer';">
+			<img style="border: medium none; height:150px; width:126px;" src="http://m.adscale.linksynergy.com/adscale/product/126x150/3096/14071946" alt="http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=207134.14071946&type=23&subid=0"></a>
 		</div>
 	</div>
 		
 		<div>
 	<div style="width:126px;height:150px;margin-left:15%;margin-right:auto;margin-top: 5px;">
 		<div style="color:#FFFFFF;font-weight:bold;padding:5px;width:116px;height:28px;position:absolute;margin-top:112px;background:#000000;opacity: 0.6;">
-			<a onclick="window.open('http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=207134.16020165&type=23&subid=0');" onmouseover="this.style.cursor = 'pointer';">W Chukka Boot Alberta..</a>
+			<a onclick="window.open('http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=207134.14071600&type=23&subid=0');" onmouseover="this.style.cursor = 'pointer';">M Simcoe-blk..</a>
 		</div>
-		<a style="border: medium none;" onclick="window.open('http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=207134.16020165&type=23&subid=0');" onmouseover="this.style.cursor = 'pointer';">
-			<img style="border: medium none; height:150px; width:126px;" src="http://m.adscale.linksynergy.com/adscale/product/126x150/3096/16020165" alt="http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=207134.16020165&type=23&subid=0"></a>
+		<a style="border: medium none;" onclick="window.open('http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=207134.14071600&type=23&subid=0');" onmouseover="this.style.cursor = 'pointer';">
+			<img style="border: medium none; height:150px; width:126px;" src="http://m.adscale.linksynergy.com/adscale/product/126x150/3096/14071600" alt="http://click.linksynergy.com/fs-bin/click?id=3tqTGEfq8E8&offerid=207134.14071600&type=23&subid=0"></a>
 		</div>
 	</div>
 		
@@ -670,12 +756,12 @@ if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogI
 			<div style="color:#FFF;font-weight:bold;padding:5px;width:114px;height:28px;position:absolute;margin-top:112px;margin-left:2px;background:#000;opacity:0.6;filter:alpha(opacity=60);">
 			<a href="/celebrity-hairstyle" title="">Celebrity Hairstyle</a></div>
 		  <a style="border:none;" href="/celebrity-hairstyle" title="">
-		  <img width="126" height="150" style="height:150px;width:126px;border:none " src="http://www.fashionfame.com/wp-content/themes/FashionFame3.5/thumb.php?src=wp-content/uploads/2011/11/delta-goodrem-hairstyle.jpeg&amp;h=150&amp;w=126&amp;zc=1&amp;q=100" alt="Celebrity Hairstyle" title="Celebrity Hairstyle"></a>
+		  <img width="126" height="150" style="height:150px;width:126px;border:none " src="http://www.fashionfame.com/wp-content/themes/FashionFame3.5/thumb.php?src=wp-content/uploads/2012/05/lauren-conrad-pink-hair-tips.jpeg&amp;h=150&amp;w=126&amp;zc=1&amp;q=100" alt="Celebrity Hairstyle" title="Celebrity Hairstyle"></a>
 		  </div><div style="width:126px;height:150px; margin-left:15%; border:2px solid #FFF; margin-right:auto; margin-top:5px;">
 			<div style="color:#FFF;font-weight:bold;padding:5px;width:114px;height:28px;position:absolute;margin-top:112px;margin-left:2px;background:#000;opacity:0.6;filter:alpha(opacity=60);">
 			<a href="/celebrity-look-of-day" title="">Celebrity Look Of Day</a></div>
 		  <a style="border:none;" href="/celebrity-look-of-day" title="">
-		  <img width="126" height="150" style="height:150px;width:126px;border:none " src="http://www.fashionfame.com/wp-content/themes/FashionFame3.5/thumb.php?src=wp-content/uploads/2011/11/naomi-watts-j.-edgar-premiere.jpeg&amp;h=150&amp;w=126&amp;zc=1&amp;q=100" alt="Celebrity Look Of Day" title="Celebrity Look Of Day"></a>
+		  <img width="126" height="150" style="height:150px;width:126px;border:none " src="http://www.fashionfame.com/wp-content/themes/FashionFame3.5/thumb.php?src=wp-content/uploads/2012/05/scarlett-johansson-2012-met-gala.jpeg&amp;h=150&amp;w=126&amp;zc=1&amp;q=100" alt="Celebrity Look Of Day" title="Celebrity Look Of Day"></a>
 		  </div>	<br>
 </div> 
 <br>
@@ -689,12 +775,18 @@ if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogI
     <div id="vslider">
         <ul id="sliderbody">
             
-                		                            <li><a href="http://www.fashionfame.com/2011/11/jessica-biel-covers-elle-december-2011/" title="Jessica Biel Covers Elle December 2011"><img src="http://www.fashionfame.com/wp-content/uploads/2011/11/jessica-biel-elle-december-2011.jpeg" style="width:px;height:px;" alt="Jessica Biel Covers Elle December 2011" class="vsliderImg"></a></li>
+                		                            <li><a href="http://www.fashionfame.com/2012/05/christina-hendricks-easy-living-may-2012-cover/" title="Christina Hendricks: Easy Living May 2012 Cover"><img src="http://www.fashionfame.com/wp-content/uploads/2012/05/christina-hendricks-easy-living-may-2012-cover.jpeg" style="width:px;height:px;" alt="Christina Hendricks: Easy Living May 2012 Cover" class="vsliderImg"></a></li>
                 
                         </ul>
     </div>
 
 </div>
+
+
+<br><br>
+Brand new <a href="http://www.watchesonnet.com/watches/invicta.html" title="Invicta watches on sale at Watches On Net">Designer Invicta Watches</a> for sale at Watches On Net
+<br><br>
+
 <div class="catetitle">Support Charity </div>	
 <div class="cateframe">	
 <a href="http://www.fashionfame.com/2011/04/irina-shayk-nude-marc-jacobs-t-shirt/"><img src="http://www.fashionfame.com/wp-content/themes/FashionFame3.5/thumb.php?src=wp-content/uploads/2011/04/irina-shayk-nude-marc-jacobs-t-shirt.jpg&amp;h=200&amp;w=150&amp;zc=1&amp;q=100" border="none" alt="fight against skin cancer">
@@ -1136,15 +1228,21 @@ if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogI
 </li>
 	<li class="cat-item cat-item-1871"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-adam-lambert/" title="View all posts filed under Adam Lambert">Adam Lambert</a>
 </li>
+	<li class="cat-item cat-item-42359"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-adele/" title="View all posts filed under Adele">Adele</a>
+</li>
 	<li class="cat-item cat-item-5673"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-adrian-grenier/" title="View all posts filed under Adrian Grenier">Adrian Grenier</a>
 </li>
 	<li class="cat-item cat-item-11990"><a href="http://www.fashionfame.com/category/celebrity-news/model-adriana-lima/" title="View all posts filed under Adriana Lima">Adriana Lima</a>
+</li>
+	<li class="cat-item cat-item-45712"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-adrienne-bailon/" title="View all posts filed under Adrienne Bailon">Adrienne Bailon</a>
 </li>
 	<li class="cat-item cat-item-3170"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-agyness-deyn/" title="View all posts filed under Agyness Deyn">Agyness Deyn</a>
 </li>
 	<li class="cat-item cat-item-6467"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-aishwarya-rai/" title="View all posts filed under Aishwarya Rai">Aishwarya Rai</a>
 </li>
 	<li class="cat-item cat-item-1338"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-alec-baldwin/" title="View all posts filed under Alec Baldwin">Alec Baldwin</a>
+</li>
+	<li class="cat-item cat-item-42464"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-alesha-dixon/" title="View all posts filed under Alesha Dixon">Alesha Dixon</a>
 </li>
 	<li class="cat-item cat-item-4593"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-alessandra-ambrosio/" title="View all posts filed under Alessandra Ambrosio">Alessandra Ambrosio</a>
 </li>
@@ -1183,6 +1281,8 @@ if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogI
 	<li class="cat-item cat-item-4632"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-amber-rose/" title="View all posts filed under Amber Rose">Amber Rose</a>
 </li>
 	<li class="cat-item cat-item-4964"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-amy-adams/" title="View all posts filed under Amy Adams">Amy Adams</a>
+</li>
+	<li class="cat-item cat-item-42358"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-amy-childs/" title="View all posts filed under Amy Childs">Amy Childs</a>
 </li>
 	<li class="cat-item cat-item-1699"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-amy-poehler/" title="View all posts filed under Amy Poehler">Amy Poehler</a>
 </li>
@@ -1246,6 +1346,8 @@ if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogI
 </li>
 	<li class="cat-item cat-item-15358"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-becki-newton/" title="View all posts filed under Becki Newton">Becki Newton</a>
 </li>
+	<li class="cat-item cat-item-45040"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-bella-thorne/" title="View all posts filed under Bella Thorne">Bella Thorne</a>
+</li>
 	<li class="cat-item cat-item-16475"><a href="http://www.fashionfame.com/category/celebrity-news/model-ben-hill/" title="View all posts filed under Ben Hill">Ben Hill</a>
 </li>
 	<li class="cat-item cat-item-8544"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-betty-white/" title="View all posts filed under Betty White">Betty White</a>
@@ -1259,6 +1361,8 @@ if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogI
 	<li class="cat-item cat-item-2891"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-brad-pitt/" title="View all posts filed under Brad Pitt">Brad Pitt</a>
 </li>
 	<li class="cat-item cat-item-3460"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-brad-walsh/" title="View all posts filed under Brad Walsh">Brad Walsh</a>
+</li>
+	<li class="cat-item cat-item-39953"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-brenda-song/" title="View all posts filed under Brenda Song">Brenda Song</a>
 </li>
 	<li class="cat-item cat-item-2122"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-bret-michaels/" title="View all posts filed under Bret Michaels">Bret Michaels</a>
 </li>
@@ -1290,6 +1394,8 @@ if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogI
 </li>
 	<li class="cat-item cat-item-1391"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-carla-bruni-sarkozy/" title="View all posts filed under Carla Bruni Sarkozy">Carla Bruni Sarkozy</a>
 </li>
+	<li class="cat-item cat-item-45420"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-carmen-electra/" title="View all posts filed under Carmen Electra">Carmen Electra</a>
+</li>
 	<li class="cat-item cat-item-12849"><a href="http://www.fashionfame.com/category/celebrity-news/model-caroline-inberg/" title="View all posts filed under Caroline Winberg">Caroline Winberg</a>
 </li>
 	<li class="cat-item cat-item-2562"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-carolyn-murphy/" title="View all posts filed under Carolyn Murphy">Carolyn Murphy</a>
@@ -1303,6 +1409,8 @@ if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogI
 	<li class="cat-item cat-item-5365"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-catherine-zeta-jones/" title="View all posts filed under Catherine Zeta-Jones">Catherine Zeta-Jones</a>
 </li>
 	<li class="cat-item cat-item-13113"><a href="http://www.fashionfame.com/category/celebrity-news/celebrity-babies/" title="View all posts filed under Celebrity Babies">Celebrity Babies</a>
+</li>
+	<li class="cat-item cat-item-45965"><a href="http://www.fashionfame.com/category/celebrity-news/celebrity-couple-celebrity-news/" title="View all posts filed under Celebrity Couple">Celebrity Couple</a>
 </li>
 	<li class="cat-item cat-item-13152"><a href="http://www.fashionfame.com/category/celebrity-news/celebrity-fashion/" title="View all posts filed under Celebrity Fashion">Celebrity Fashion</a>
 </li>
@@ -1356,6 +1464,8 @@ if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogI
 </li>
 	<li class="cat-item cat-item-3869"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-chris-pine/" title="View all posts filed under Chris Pine">Chris Pine</a>
 </li>
+	<li class="cat-item cat-item-45506"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-christa-b-allen/" title="View all posts filed under Christa B. Allen">Christa B. Allen</a>
+</li>
 	<li class="cat-item cat-item-13581"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-christian-bale/" title="View all posts filed under Christian Bale">Christian Bale</a>
 </li>
 	<li class="cat-item cat-item-2580"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-christina-aguilera/" title="View all posts filed under Christina Aguilera">Christina Aguilera</a>
@@ -1363,6 +1473,8 @@ if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogI
 	<li class="cat-item cat-item-3137"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-christina-hendricks/" title="View all posts filed under Christina Hendricks">Christina Hendricks</a>
 </li>
 	<li class="cat-item cat-item-11871"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-christina-milian/" title="View all posts filed under Christina Milian">Christina Milian</a>
+</li>
+	<li class="cat-item cat-item-42401"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-christina-ricci/" title="View all posts filed under Christina Ricci">Christina Ricci</a>
 </li>
 	<li class="cat-item cat-item-8056"><a href="http://www.fashionfame.com/category/celebrity-news/model-christy-turlington/" title="View all posts filed under Christy Turlington">Christy Turlington</a>
 </li>
@@ -1373,6 +1485,8 @@ if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogI
 	<li class="cat-item cat-item-6181"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-claire-danes/" title="View all posts filed under Claire Danes">Claire Danes</a>
 </li>
 	<li class="cat-item cat-item-1286"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-claudia-schiffer/" title="View all posts filed under Claudia Schiffer">Claudia Schiffer</a>
+</li>
+	<li class="cat-item cat-item-43862"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-cobie-smulders/" title="View all posts filed under Cobie Smulders">Cobie Smulders</a>
 </li>
 	<li class="cat-item cat-item-16008"><a href="http://www.fashionfame.com/category/celebrity-news/model-coco-rocha/" title="View all posts filed under Coco Rocha">Coco Rocha</a>
 </li>
@@ -1411,6 +1525,8 @@ if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogI
 	<li class="cat-item cat-item-2402"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-david-beckham/" title="View all posts filed under David Beckham">David Beckham</a>
 </li>
 	<li class="cat-item cat-item-9894"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-david-burtka/" title="View all posts filed under David Burtka">David Burtka</a>
+</li>
+	<li class="cat-item cat-item-39552"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-debby-ryan/" title="View all posts filed under Debby Ryan">Debby Ryan</a>
 </li>
 	<li class="cat-item cat-item-5466"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-deepika-padukone/" title="View all posts filed under Deepika Padukone">Deepika Padukone</a>
 </li>
@@ -1497,6 +1613,8 @@ if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogI
 	<li class="cat-item cat-item-1754"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-faith-hill/" title="View all posts filed under Faith Hill">Faith Hill</a>
 </li>
 	<li class="cat-item cat-item-1873"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-fergie/" title="View all posts filed under Fergie">Fergie</a>
+</li>
+	<li class="cat-item cat-item-39795"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-florence-welch/" title="View all posts filed under Florence Welch">Florence Welch</a>
 </li>
 	<li class="cat-item cat-item-11258"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-freida-pinto/" title="View all posts filed under Freida Pinto">Freida Pinto</a>
 </li>
@@ -1636,6 +1754,8 @@ if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogI
 </li>
 	<li class="cat-item cat-item-4689"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-jennifer-love-hewitt/" title="View all posts filed under Jennifer Love Hewitt">Jennifer Love Hewitt</a>
 </li>
+	<li class="cat-item cat-item-43855"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-jennifer-morrison/" title="View all posts filed under Jennifer Morrison">Jennifer Morrison</a>
+</li>
 	<li class="cat-item cat-item-1748"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-jennifer-nettles/" title="View all posts filed under Jennifer Nettles">Jennifer Nettles</a>
 </li>
 	<li class="cat-item cat-item-9928"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-jenny-mccarthy/" title="View all posts filed under Jenny McCarthy">Jenny McCarthy</a>
@@ -1712,6 +1832,8 @@ if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogI
 </li>
 	<li class="cat-item cat-item-2059"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-kaiane-aldorino/" title="View all posts filed under Kaiane Aldorino">Kaiane Aldorino</a>
 </li>
+	<li class="cat-item cat-item-40781"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-kaley-cuoco/" title="View all posts filed under Kaley Cuoco">Kaley Cuoco</a>
+</li>
 	<li class="cat-item cat-item-1349"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-kanye-west/" title="View all posts filed under Kanye West">Kanye West</a>
 </li>
 	<li class="cat-item cat-item-10811"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-kara-dioguardi/" title="View all posts filed under Kara DioGuardi">Kara DioGuardi</a>
@@ -1728,6 +1850,8 @@ if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogI
 </li>
 	<li class="cat-item cat-item-5505"><a href="http://www.fashionfame.com/category/celebrity-news/model-karolina-kurkova/" title="View all posts filed under Karolina Kurkova">Karolina Kurkova</a>
 </li>
+	<li class="cat-item cat-item-41179"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-kat-graham/" title="View all posts filed under Kat Graham">Kat Graham</a>
+</li>
 	<li class="cat-item cat-item-2917"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-kate-beckinsale/" title="View all posts filed under Kate Beckinsale">Kate Beckinsale</a>
 </li>
 	<li class="cat-item cat-item-8835"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-kate-bosworth/" title="View all posts filed under Kate Bosworth">Kate Bosworth</a>
@@ -1735,6 +1859,8 @@ if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogI
 	<li class="cat-item cat-item-3668"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-kate-gosselin/" title="View all posts filed under Kate Gosselin">Kate Gosselin</a>
 </li>
 	<li class="cat-item cat-item-12062"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-kate-hudson/" title="View all posts filed under Kate Hudson">Kate Hudson</a>
+</li>
+	<li class="cat-item cat-item-45524"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-kate-mara/" title="View all posts filed under Kate Mara">Kate Mara</a>
 </li>
 	<li class="cat-item cat-item-13621"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-kate-middleton/" title="View all posts filed under Kate Middleton">Kate Middleton</a>
 </li>
@@ -1755,6 +1881,8 @@ if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogI
 	<li class="cat-item cat-item-1269"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-katie-holmes/" title="View all posts filed under Katie Holmes">Katie Holmes</a>
 </li>
 	<li class="cat-item cat-item-13735"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-katie-price/" title="View all posts filed under Katie Price">Katie Price</a>
+</li>
+	<li class="cat-item cat-item-44776"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-katrina-bowden/" title="View all posts filed under Katrina Bowden">Katrina Bowden</a>
 </li>
 	<li class="cat-item cat-item-1462"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-katrina-kaif/" title="View all posts filed under Katrina Kaif">Katrina Kaif</a>
 </li>
@@ -1818,6 +1946,10 @@ if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogI
 </li>
 	<li class="cat-item cat-item-6817"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-kristin-davis/" title="View all posts filed under Kristin Davis">Kristin Davis</a>
 </li>
+	<li class="cat-item cat-item-42276"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-krysten-ritter/" title="View all posts filed under Krysten Ritter">Krysten Ritter</a>
+</li>
+	<li class="cat-item cat-item-38338"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-kylie-jenner/" title="View all posts filed under Kylie Jenner">Kylie Jenner</a>
+</li>
 	<li class="cat-item cat-item-4999"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-kylie-minogue/" title="View all posts filed under Kylie Minogue">Kylie Minogue</a>
 </li>
 	<li class="cat-item cat-item-4928"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-la-toya-jackson/" title="View all posts filed under La Toya Jackson">La Toya Jackson</a>
@@ -1825,6 +1957,8 @@ if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogI
 	<li class="cat-item cat-item-1870"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-lady-gaga/" title="View all posts filed under Lady Gaga">Lady Gaga</a>
 </li>
 	<li class="cat-item cat-item-1281"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-lake-bell/" title="View all posts filed under Lake Bell">Lake Bell</a>
+</li>
+	<li class="cat-item cat-item-42633"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-lana-del-rey/" title="View all posts filed under Lana Del Rey">Lana Del Rey</a>
 </li>
 	<li class="cat-item cat-item-2317"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-lara-stone/" title="View all posts filed under Lara Stone">Lara Stone</a>
 </li>
@@ -1846,6 +1980,8 @@ if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogI
 </li>
 	<li class="cat-item cat-item-6934"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-lee-dewyze/" title="View all posts filed under Lee DeWyze">Lee DeWyze</a>
 </li>
+	<li class="cat-item cat-item-45324"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-leelee-sobieski/" title="View all posts filed under Leelee Sobieski">Leelee Sobieski</a>
+</li>
 	<li class="cat-item cat-item-1366"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-leighton-meester/" title="View all posts filed under Leighton Meester">Leighton Meester</a>
 </li>
 	<li class="cat-item cat-item-11665"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-leona-lewis/" title="View all posts filed under Leona Lewis">Leona Lewis</a>
@@ -1859,6 +1995,8 @@ if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogI
 	<li class="cat-item cat-item-10878"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-lily-allen/" title="View all posts filed under Lily Allen">Lily Allen</a>
 </li>
 	<li class="cat-item cat-item-14404"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-lily-cole/" title="View all posts filed under Lily Cole">Lily Cole</a>
+</li>
+	<li class="cat-item cat-item-41548"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-lily-collins/" title="View all posts filed under Lily Collins">Lily Collins</a>
 </li>
 	<li class="cat-item cat-item-3657"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-lily-donaldson/" title="View all posts filed under Lily Donaldson">Lily Donaldson</a>
 </li>
@@ -1944,6 +2082,8 @@ if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogI
 </li>
 	<li class="cat-item cat-item-2715"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-melanie-fiona/" title="View all posts filed under Melanie Fiona">Melanie Fiona</a>
 </li>
+	<li class="cat-item cat-item-45396"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-mena-suvari/" title="View all posts filed under Mena Suvari">Mena Suvari</a>
+</li>
 	<li class="cat-item cat-item-3881"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-meryl-streep/" title="View all posts filed under Meryl Streep">Meryl Streep</a>
 </li>
 	<li class="cat-item cat-item-2749"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-mia-wasikowska/" title="View all posts filed under Mia Wasikowska">Mia Wasikowska</a>
@@ -1988,6 +2128,8 @@ if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogI
 </li>
 	<li class="cat-item cat-item-5790"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-miranda-lambert/" title="View all posts filed under Miranda Lambert">Miranda Lambert</a>
 </li>
+	<li class="cat-item cat-item-45734"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-mischa-barton/" title="View all posts filed under Mischa Barton">Mischa Barton</a>
+</li>
 	<li class="cat-item cat-item-12632"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-monica-bellucci/" title="View all posts filed under Monica Bellucci">Monica Bellucci</a>
 </li>
 	<li class="cat-item cat-item-8934"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-nahla-aubry/" title="View all posts filed under Nahla Aubry">Nahla Aubry</a>
@@ -2003,6 +2145,8 @@ if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogI
 	<li class="cat-item cat-item-10667"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-natalie-portman/" title="View all posts filed under Natalie Portman">Natalie Portman</a>
 </li>
 	<li class="cat-item cat-item-6451"><a href="http://www.fashionfame.com/category/celebrity-news/model-natasha-poly/" title="View all posts filed under Natasha Poly">Natasha Poly</a>
+</li>
+	<li class="cat-item cat-item-44652"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-naya-rivera/" title="View all posts filed under Naya Rivera">Naya Rivera</a>
 </li>
 	<li class="cat-item cat-item-9893"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-neil-patrick-harris/" title="View all posts filed under Neil Patrick Harris">Neil Patrick Harris</a>
 </li>
@@ -2050,6 +2194,8 @@ if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogI
 </li>
 	<li class="cat-item cat-item-1872"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-paula-abdul/" title="View all posts filed under Paula Abdul">Paula Abdul</a>
 </li>
+	<li class="cat-item cat-item-39880"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-paula-patton/" title="View all posts filed under Paula Patton">Paula Patton</a>
+</li>
 	<li class="cat-item cat-item-2509"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-penelope-cruz/" title="View all posts filed under Penelope Cruz">Penelope Cruz</a>
 </li>
 	<li class="cat-item cat-item-5886"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-pharrell-williams/" title="View all posts filed under Pharrell Williams">Pharrell Williams</a>
@@ -2057,6 +2203,8 @@ if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogI
 	<li class="cat-item cat-item-1351"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-pink/" title="View all posts filed under Pink">Pink</a>
 </li>
 	<li class="cat-item cat-item-28165"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-pippa-middleton/" title="View all posts filed under Pippa Middleton">Pippa Middleton</a>
+</li>
+	<li class="cat-item cat-item-42522"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-pixie-lott/" title="View all posts filed under Pixie Lott">Pixie Lott</a>
 </li>
 	<li class="cat-item cat-item-13620"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-prince-william/" title="View all posts filed under Prince William">Prince William</a>
 </li>
@@ -2124,6 +2272,8 @@ if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogI
 </li>
 	<li class="cat-item cat-item-2423"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-sarah-jessica-parker/" title="View all posts filed under Sarah Jessica Parker">Sarah Jessica Parker</a>
 </li>
+	<li class="cat-item cat-item-38706"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-sarah-michelle-gellar/" title="View all posts filed under Sarah Michelle Gellar">Sarah Michelle Gellar</a>
+</li>
 	<li class="cat-item cat-item-6261"><a href="http://www.fashionfame.com/category/celebrity-news/model-sasha-pivovarova/" title="View all posts filed under Sasha Pivovarova">Sasha Pivovarova</a>
 </li>
 	<li class="cat-item cat-item-5403"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-scarlett-johansson/" title="View all posts filed under Scarlett Johansson">Scarlett Johansson</a>
@@ -2136,9 +2286,13 @@ if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogI
 </li>
 	<li class="cat-item cat-item-11723"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-seth-rogen/" title="View all posts filed under Seth Rogen">Seth Rogen</a>
 </li>
+	<li class="cat-item cat-item-41573"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-shailene-woodley/" title="View all posts filed under Shailene Woodley">Shailene Woodley</a>
+</li>
 	<li class="cat-item cat-item-1275"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-shakira/" title="View all posts filed under Shakira">Shakira</a>
 </li>
 	<li class="cat-item cat-item-17445"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-shania-twain/" title="View all posts filed under Shania Twain">Shania Twain</a>
+</li>
+	<li class="cat-item cat-item-40114"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-shay-mitchell/" title="View all posts filed under Shay Mitchell">Shay Mitchell</a>
 </li>
 	<li class="cat-item cat-item-24545"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-shenae-grimes/" title="View all posts filed under Shenae Grimes">Shenae Grimes</a>
 </li>
@@ -2155,6 +2309,8 @@ if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogI
 	<li class="cat-item cat-item-10487"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-sofia-vergara/" title="View all posts filed under Sofia Vergara">Sofia Vergara</a>
 </li>
 	<li class="cat-item cat-item-27499"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-sophia-bush/" title="View all posts filed under Sophia Bush">Sophia Bush</a>
+</li>
+	<li class="cat-item cat-item-40693"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-stacy-keibler/" title="View all posts filed under Stacy Keibler">Stacy Keibler</a>
 </li>
 	<li class="cat-item cat-item-3515"><a href="http://www.fashionfame.com/category/celebrity-news/celeb-steffanie-sampson/" title="View all posts filed under Steffanie Sampson">Steffanie Sampson</a>
 </li>
@@ -2313,6 +2469,8 @@ if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogI
 </li>
 	<li class="cat-item cat-item-1331"><a href="http://www.fashionfame.com/category/designer-fashion/brands/burberry-prorsum-brand/" title="View all posts filed under Burberry Prorsum">Burberry Prorsum</a>
 </li>
+	<li class="cat-item cat-item-41394"><a href="http://www.fashionfame.com/category/designer-fashion/brands/butter-london-brand/" title="View all posts filed under Butter London">Butter London</a>
+</li>
 	<li class="cat-item cat-item-1343"><a href="http://www.fashionfame.com/category/designer-fashion/brands/calvin-klein-brand/" title="View all posts filed under Calvin Klein">Calvin Klein</a>
 </li>
 	<li class="cat-item cat-item-2483"><a href="http://www.fashionfame.com/category/designer-fashion/brands/canturi-brand/" title="View all posts filed under Canturi">Canturi</a>
@@ -2395,6 +2553,8 @@ if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogI
 </li>
 	<li class="cat-item cat-item-7885"><a href="http://www.fashionfame.com/category/designer-fashion/brands/ermenegildo-zegna-brand/" title="View all posts filed under Ermenegildo Zegna">Ermenegildo Zegna</a>
 </li>
+	<li class="cat-item cat-item-43394"><a href="http://www.fashionfame.com/category/designer-fashion/brands/essie-brand/" title="View all posts filed under Essie">Essie</a>
+</li>
 	<li class="cat-item cat-item-1265"><a href="http://www.fashionfame.com/category/designer-fashion/brands/estee-lauder-brand/" title="View all posts filed under Estee Lauder">Estee Lauder</a>
 </li>
 	<li class="cat-item cat-item-3715"><a href="http://www.fashionfame.com/category/designer-fashion/brands/etam-brand/" title="View all posts filed under Etam">Etam</a>
@@ -2452,6 +2612,8 @@ if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogI
 	<li class="cat-item cat-item-2592"><a href="http://www.fashionfame.com/category/designer-fashion/brands/joop-brand/" title="View all posts filed under JOOP!">JOOP!</a>
 </li>
 	<li class="cat-item cat-item-2791"><a href="http://www.fashionfame.com/category/designer-fashion/brands/judith-leiber-brand/" title="View all posts filed under Judith Leiber">Judith Leiber</a>
+</li>
+	<li class="cat-item cat-item-41075"><a href="http://www.fashionfame.com/category/designer-fashion/brands/juicy-couture-brand/" title="View all posts filed under Juicy Couture">Juicy Couture</a>
 </li>
 	<li class="cat-item cat-item-3569"><a href="http://www.fashionfame.com/category/designer-fashion/brands/just-cavalli-brand/" title="View all posts filed under Just Cavalli">Just Cavalli</a>
 </li>
@@ -2538,6 +2700,8 @@ if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogI
 	<li class="cat-item cat-item-5236"><a href="http://www.fashionfame.com/category/designer-fashion/brands/omega-brand/" title="View all posts filed under OMEGA">OMEGA</a>
 </li>
 	<li class="cat-item cat-item-24105"><a href="http://www.fashionfame.com/category/designer-fashion/brands/opi-brand/" title="View all posts filed under OPI">OPI</a>
+</li>
+	<li class="cat-item cat-item-43237"><a href="http://www.fashionfame.com/category/designer-fashion/brands/orly-brand/" title="View all posts filed under Orly">Orly</a>
 </li>
 	<li class="cat-item cat-item-2614"><a href="http://www.fashionfame.com/category/designer-fashion/brands/patek-philippe-brand/" title="View all posts filed under Patek Philippe">Patek Philippe</a>
 </li>
@@ -2647,6 +2811,8 @@ if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogI
 </li>
 	<li class="cat-item cat-item-2839"><a href="http://www.fashionfame.com/category/designer-fashion/brands/zara-brand/" title="View all posts filed under Zara">Zara</a>
 </li>
+	<li class="cat-item cat-item-44080"><a href="http://www.fashionfame.com/category/designer-fashion/brands/zoya-brand/" title="View all posts filed under Zoya">Zoya</a>
+</li>
                 </ul></div></div>
 </div>
    
@@ -2665,7 +2831,7 @@ var pollsL10n = {
 <script type="text/javascript" src="http://www.fashionfame.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.50"></script>
 <script type="text/javascript" src="http://www.fashionfame.com/wp-includes/js/jquery/ui.core.js?ver=1.7.1"></script>
 <script type="text/javascript" src="http://www.fashionfame.com/wp-includes/js/jquery/ui.tabs.js?ver=1.7.1"></script>
-<script src="http://stats.wordpress.com/e-201144.js" type="text/javascript"></script>
+<script src="http://stats.wordpress.com/e-201219.js" type="text/javascript"></script>
 <script type="text/javascript">
 st_go({blog:'8824604',v:'ext',post:'50223'});
 var load_cmc = function(){linktracker_init(8824604,50223,2);};
@@ -2681,13 +2847,13 @@ else load_cmc();
 <div class="footertitle">Most Viewed</div>
             
 					<ul>
-<li><a href="http://www.fashionfame.com/2010/04/kesha-sexy-photoshoot-for-maxim-april-2010/">Kesha - Sexy Photoshoot for Maxim April 2010! .. { 203941 fashion views }</a></li>
-<li><a href="http://www.fashionfame.com/2010/03/top-prom-hairstyles-for-mesmerizing-look/">Top Prom Hairstyles For Mesmerizing Look .. { 147215 fashion views }</a></li>
-<li><a href="http://www.fashionfame.com/2011/03/justin-bieber-selena-gomez-kissing/">Justin Bieber and Selena Gomez: Oscars 2011 Kissing Couple .. { 107804 fashion views }</a></li>
-<li><a href="http://www.fashionfame.com/2009/08/top-4-dramatic-hair-styles-for-fall-2009/">Top 4 Dramatic Hair Styles for Fall 2009 .. { 97095 fashion views }</a></li>
-<li><a href="http://www.fashionfame.com/2011/02/justin-bieber-2011-brit-awards-winner/">Justin Bieber: 2011 BRIT Awards Big Winner .. { 87719 fashion views }</a></li>
-<li><a href="http://www.fashionfame.com/2010/03/alice-eve-cover-girl-of-maxim-april-2010/">Alice Eve - Sexy Cover Girl of Maxim April 2010! .. { 85798 fashion views }</a></li>
-<li><a href="http://www.fashionfame.com/2011/03/raven-symone-2011-abc-upfront-presentation/">Raven Symone: 2011 ABC Upfront Presentation Hottie .. { 83141 fashion views }</a></li>
+<li><a href="http://www.fashionfame.com/2010/04/kesha-sexy-photoshoot-for-maxim-april-2010/">Kesha - Sexy Photoshoot for Maxim April 2010! .. { 208250 fashion views }</a></li>
+<li><a href="http://www.fashionfame.com/2010/03/top-prom-hairstyles-for-mesmerizing-look/">Top Prom Hairstyles For Mesmerizing Look .. { 175084 fashion views }</a></li>
+<li><a href="http://www.fashionfame.com/2011/03/justin-bieber-selena-gomez-kissing/">Justin Bieber and Selena Gomez: Oscars 2011 Kissing Couple .. { 134009 fashion views }</a></li>
+<li><a href="http://www.fashionfame.com/2011/03/raven-symone-2011-abc-upfront-presentation/">Raven Symone: 2011 ABC Upfront Presentation Hottie .. { 104798 fashion views }</a></li>
+<li><a href="http://www.fashionfame.com/2009/08/top-4-dramatic-hair-styles-for-fall-2009/">Top 4 Dramatic Hair Styles for Fall 2009 .. { 99891 fashion views }</a></li>
+<li><a href="http://www.fashionfame.com/2011/02/justin-bieber-2011-brit-awards-winner/">Justin Bieber: 2011 BRIT Awards Big Winner .. { 90271 fashion views }</a></li>
+<li><a href="http://www.fashionfame.com/2010/03/alice-eve-cover-girl-of-maxim-april-2010/">Alice Eve - Sexy Cover Girl of Maxim April 2010! .. { 87893 fashion views }</a></li>
 </ul>
                    
                 </div>
@@ -2695,12 +2861,12 @@ else load_cmc();
 <div class="mostcommented">
                 	<div class="footertitle">Recent Comments</div>
                     <ul style="text-align:justify;">
-						                                                <li><a href="http://www.fashionfame.com/2011/06/color-block-trend-for-2011/"><span class="author">Star Print Fashion Trend: Hollywood Loves It | Fashion Fame</span> on Try Out ...</a></li>
-                                                <li><a href="http://www.fashionfame.com/2011/06/cut-out-dresses-sexy-fashion-trend/"><span class="author">Star Print Fashion Trend: Hollywood Loves It | Fashion Fame</span> on Cut Out ...</a></li>
-                                                <li><a href="http://www.fashionfame.com/2011/08/kim-kardashian-wedding-cake-shopping/"><span class="author">Star Print Fashion Trend: Hollywood Loves It | Fashion Fame</span> on Kim Kard...</a></li>
-                                                <li><a href="http://www.fashionfame.com/2011/11/anne-hathaway-selita-ebanks-princess-grace-awards-gala/"><span class="author">FashionFame's Weekly Roundup | Fashion Fame</span> on Anne Hat...</a></li>
-                                                <li><a href="http://www.fashionfame.com/2011/11/emily-blunt-for-yves-saint-laurent-opium-campaign/"><span class="author">FashionFame's Weekly Roundup | Fashion Fame</span> on Emily Bl...</a></li>
-                                                <li><a href="http://www.fashionfame.com/2011/11/justin-bieber-introduces-latest-spiky-hairstyle/"><span class="author">FashionFame's Weekly Roundup | Fashion Fame</span> on Justin B...</a></li>
+						                                                <li><a href="http://www.fashionfame.com/2012/05/irina-shayk-for-blanco-summer-2012-campaign/"><span class="author">FashionFame's Weekly Roundup | Fashion Fame</span> on Irina Sh...</a></li>
+                                                <li><a href="http://www.fashionfame.com/2012/05/tulisa-contostavlos-is-fhms-sexiest-woman/"><span class="author">FashionFame's Weekly Roundup | Fashion Fame</span> on Tulisa C...</a></li>
+                                                <li><a href="http://www.fashionfame.com/2012/05/georgia-salpa-dolce-gabbana-dress/"><span class="author">FashionFame's Weekly Roundup | Fashion Fame</span> on Georgia ...</a></li>
+                                                <li><a href="http://www.fashionfame.com/2012/05/jessica-alba-shows-colorful-street-style/"><span class="author">FashionFame's Weekly Roundup | Fashion Fame</span> on Jessica ...</a></li>
+                                                <li><a href="http://www.fashionfame.com/2012/05/poofy-half-up-half-down-hairstyle/"><span class="author">FashionFame's Weekly Roundup | Fashion Fame</span> on Poofy Ha...</a></li>
+                                                <li><a href="http://www.fashionfame.com/2012/05/charlize-theron-is-sheer-sexy-in-dion-lee/"><span class="author">FashionFame's Weekly Roundup | Fashion Fame</span> on Charlize...</a></li>
                                             </ul>
                 
                 
@@ -2709,13 +2875,14 @@ else load_cmc();
                     <div class="footertitle">Fashion Buzz </div>
                     <div class="tags">
 						                        <a href="http://www.fashionfame.com/tag/best-dressed-celebrity/" class="tag-link-5340" title="22 topics" rel="tag" style="font-size: 11.643835616438pt;">best dressed celebrity</a>
-<a href="http://www.fashionfame.com/tag/best-dressed-celebs-of-the-week/" class="tag-link-19500" title="11 topics" rel="tag" style="font-size: 10.13698630137pt;">Best Dressed Celebs Of The Week</a>
+<a href="http://www.fashionfame.com/tag/best-dressed-celebs-of-the-week/" class="tag-link-19500" title="13 topics" rel="tag" style="font-size: 10.41095890411pt;">Best Dressed Celebs Of The Week</a>
 <a href="http://www.fashionfame.com/tag/celebrity-airport-fashion/" class="tag-link-13434" title="13 topics" rel="tag" style="font-size: 10.41095890411pt;">celebrity airport fashion</a>
 <a href="http://www.fashionfame.com/tag/celebrity-hairstyle/" class="tag-link-13112" title="39 topics" rel="tag" style="font-size: 13.972602739726pt;">Celebrity Hairstyle</a>
 <a href="http://www.fashionfame.com/tag/celebrity-hairstyle-of-day/" class="tag-link-13224" title="43 topics" rel="tag" style="font-size: 14.520547945205pt;">Celebrity Hairstyle of Day</a>
 <a href="http://www.fashionfame.com/tag/celebrity-look/" class="tag-link-13685" title="18 topics" rel="tag" style="font-size: 11.095890410959pt;">Celebrity Look</a>
 <a href="http://www.fashionfame.com/tag/celebrity-look-of-day/" class="tag-link-13099" title="83 topics" rel="tag" style="font-size: 20pt;">Celebrity Look Of Day</a>
 <a href="http://www.fashionfame.com/tag/celebrity-news/" class="tag-link-173" title="11 topics" rel="tag" style="font-size: 10.13698630137pt;">Celebrity News</a>
+<a href="http://www.fashionfame.com/tag/celebrity-red-carpet-fashion/" class="tag-link-10176" title="11 topics" rel="tag" style="font-size: 10.13698630137pt;">Celebrity Red Carpet Fashion</a>
 <a href="http://www.fashionfame.com/tag/celebrity-street-style/" class="tag-link-17460" title="14 topics" rel="tag" style="font-size: 10.547945205479pt;">Celebrity Street Style</a>
 <a href="http://www.fashionfame.com/tag/celebrity-style-alert/" class="tag-link-11928" title="16 topics" rel="tag" style="font-size: 10.821917808219pt;">Celebrity Style Alert</a>
 <a href="http://www.fashionfame.com/tag/cocktail-dresses/" class="tag-link-834" title="14 topics" rel="tag" style="font-size: 10.547945205479pt;">cocktail dresses</a>
@@ -2723,12 +2890,11 @@ else load_cmc();
 <a href="http://www.fashionfame.com/tag/designer-collection/" class="tag-link-127" title="29 topics" rel="tag" style="font-size: 12.602739726027pt;">designer collection</a>
 <a href="http://www.fashionfame.com/tag/designer-fashion/" class="tag-link-11" title="49 topics" rel="tag" style="font-size: 15.342465753425pt;">Designer Fashion</a>
 <a href="http://www.fashionfame.com/tag/fashion/" class="tag-link-9" title="17 topics" rel="tag" style="font-size: 10.958904109589pt;">Fashion</a>
-<a href="http://www.fashionfame.com/tag/fashion-designer/" class="tag-link-279" title="10 topics" rel="tag" style="font-size: 10pt;">fashion designer</a>
-<a href="http://www.fashionfame.com/tag/fashion-jewelry/" class="tag-link-48" title="14 topics" rel="tag" style="font-size: 10.547945205479pt;">Fashion Jewelry</a>
-<a href="http://www.fashionfame.com/tag/fashion-show/" class="tag-link-73" title="10 topics" rel="tag" style="font-size: 10pt;">fashion show</a>
+<a href="http://www.fashionfame.com/tag/fashion-jewelry/" class="tag-link-48" title="15 topics" rel="tag" style="font-size: 10.684931506849pt;">Fashion Jewelry</a>
 <a href="http://www.fashionfame.com/tag/fashion-trends/" class="tag-link-76" title="20 topics" rel="tag" style="font-size: 11.369863013699pt;">fashion trends</a>
 <a href="http://www.fashionfame.com/tag/hairstyle-of-day/" class="tag-link-13265" title="21 topics" rel="tag" style="font-size: 11.506849315068pt;">Hairstyle of Day</a>
 <a href="http://www.fashionfame.com/tag/hairstyle-of-the-day/" class="tag-link-12459" title="37 topics" rel="tag" style="font-size: 13.698630136986pt;">Hairstyle of The Day</a>
+<a href="http://www.fashionfame.com/tag/half-up-half-down-hairstyle/" class="tag-link-15102" title="12 topics" rel="tag" style="font-size: 10.27397260274pt;">half up half down hairstyle</a>
 <a href="http://www.fashionfame.com/tag/latest-celebrity-news/" class="tag-link-16353" title="18 topics" rel="tag" style="font-size: 11.095890410959pt;">latest celebrity news</a>
 <a href="http://www.fashionfame.com/tag/london-fashion-week/" class="tag-link-699" title="15 topics" rel="tag" style="font-size: 10.684931506849pt;">London Fashion Week</a>
 <a href="http://www.fashionfame.com/tag/look-of-day/" class="tag-link-13294" title="27 topics" rel="tag" style="font-size: 12.328767123288pt;">Look of Day</a>
@@ -2736,8 +2902,8 @@ else load_cmc();
 <a href="http://www.fashionfame.com/tag/makeup-collection/" class="tag-link-129" title="14 topics" rel="tag" style="font-size: 10.547945205479pt;">Makeup Collection</a>
 <a href="http://www.fashionfame.com/tag/makeup-products/" class="tag-link-47" title="11 topics" rel="tag" style="font-size: 10.13698630137pt;">makeup products</a>
 <a href="http://www.fashionfame.com/tag/mens-fashion/" class="tag-link-72" title="24 topics" rel="tag" style="font-size: 11.917808219178pt;">men's fashion</a>
-<a href="http://www.fashionfame.com/tag/new-york-fashion-week/" class="tag-link-333" title="28 topics" rel="tag" style="font-size: 12.465753424658pt;">New York Fashion Week</a>
-<a href="http://www.fashionfame.com/tag/new-york-fashion-week-spring-2010/" class="tag-link-284" title="10 topics" rel="tag" style="font-size: 10pt;">New York Fashion Week Spring 2010</a>
+<a href="http://www.fashionfame.com/tag/mercedes-benz-fashion-week/" class="tag-link-287" title="11 topics" rel="tag" style="font-size: 10.13698630137pt;">Mercedes Benz Fashion Week</a>
+<a href="http://www.fashionfame.com/tag/new-york-fashion-week/" class="tag-link-333" title="29 topics" rel="tag" style="font-size: 12.602739726027pt;">New York Fashion Week</a>
 <a href="http://www.fashionfame.com/tag/new-york-fashion-week-spring-2011/" class="tag-link-11012" title="13 topics" rel="tag" style="font-size: 10.41095890411pt;">New York Fashion Week Spring 2011</a>
 <a href="http://www.fashionfame.com/tag/paris-fashion-week/" class="tag-link-1042" title="18 topics" rel="tag" style="font-size: 11.095890410959pt;">Paris Fashion Week</a>
 <a href="http://www.fashionfame.com/tag/red-carpet-dresses/" class="tag-link-2716" title="18 topics" rel="tag" style="font-size: 11.095890410959pt;">red carpet dresses</a>
@@ -2756,12 +2922,14 @@ else load_cmc();
         </div>
     </div>
     
-    
+    <div style="text-align:center;width:100%;float:left;margin-bottom:10px">
+<div id="lijit_region_138159"></div>
+<script type="text/javascript" src="http://www.lijit.com/delivery/fp?u=fashionfame&amp;z=138159&amp;n=1"></script></div>  
     
   <div style="text-align:center;width:100%;float:left;margin-bottom:10px"><script>var ACE_AR = {Site: '804813', Size: '728090', CallType: 'IFRAME'};</script> <script language="JavaScript" src="http://uac.advertising.com/wrapper/aceUAC.js"></script></div>  
     
 
-<div class="copyrights"><a href="http://www.fashionfame.com/">Fashion Trends</a> | <a href="/contact/">Contact Us</a> Copyright © 2011 All Rights Reserved . | &nbsp; <a style="font-weight:normal;" href="/policy/">Privacy Policy</a> | &nbsp; Powered by <a href="http://wordpress.org/" rel="external nofollow">WordPress</a></div>
+<div class="copyrights"><a href="http://www.fashionfame.com/">Fashion Trends</a> | <a href="/contact/">Contact Us</a> Copyright © 2012 All Rights Reserved . | &nbsp; <a style="font-weight:normal;" href="/policy/">Privacy Policy</a> | &nbsp; Powered by <a href="http://wordpress.org/" rel="external nofollow">WordPress</a></div>
 </div>
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 
