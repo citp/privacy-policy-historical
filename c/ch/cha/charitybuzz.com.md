@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charitybuzz.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207160616id_/http%3A//www.charitybuzz.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charitybuzz.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509192017id_/http%3A//www.charitybuzz.com/privacy_policy) for the most accurate reproduction.*
 
 # charitybuzz | Privacy Policy
 
@@ -13,14 +13,14 @@ Here are some examples of the types of personal information Charitybuzz may coll
 ### What personal information we collect
 
   * When you create an Charitybuzz account, register your credit card, apply for, purchase a product, register for an email newsletter at the Charitybuzz.com website, we may collect a variety of information, including your name, mailing address, phone number, email address, contact preferences, and credit card information.
-  * When you share your content with family and friends using Charitybuzz products, send gift certificates and products, or invite others to join you on Charitybuzz, Charitybuzz may collect the information you provide about those people such as name, mailing address, email address, and phone number. Email addresses will be collected via forms on www.charitybuzz.com; any other information will be collected via an offline manner. This information is only used to redeem auction lots and is then disposed of, beyond financial and shipping record keeping.
+  * When you share your content with family and friends using Charitybuzz products, send gift certificates and products, or invite others to join you on Charitybuzz, Charitybuzz may collect the information you provide about those people such as name, mailing address, email address, and phone number. Email addresses will be collected via forms on www.Charitybuzz.com; any other information will be collected via an offline manner. This information is only used to redeem auction lots and is then disposed of, beyond financial and shipping record keeping.
   * In the US we may ask for your Social Security number (SSN) but only in limited circumstances such as when setting up a background check for the high profile celebrity experiences when determining and ensuring safety of our partnering celebrities. We do not store this information in our system but we may share this information with your written permit with a certified third party completing the background check. This information will be collected in an offline manner.
 
 
 
 ### How we use your personal information
 
-  * The personal information we collect allows us to keep you posted on Charitybuzz's latest product announcements, software updates, and upcoming events. It also helps us to improve our services, content, and advertising. If you don't want to be on our mailing list, you can opt out anytime by [updating your preferences](https://www.charitybuzz.com/account) in your user account or contacting us at [unsubscribe@charitybuzz.com](mailto:unsubscribe@charitybuzz.com).
+  * The personal information we collect allows us to keep you posted on Charitybuzz's latest product announcements, software updates, and upcoming events. It also helps us to improve our services, content, and advertising. If you don't want to be on our mailing list, you can opt out anytime by [updating your preferences](https://www.charitybuzz.com/account) in your user account or contacting us at [unsubscribe@Charitybuzz.com](mailto:unsubscribe@Charitybuzz.com).
   * From time to time, we may use your personal information to send important notices, such as communications about purchases and changes to our terms, conditions, and policies. Because this information is important to your interaction with Charitybuzz, you may not opt out of receiving these communications.
   * We may also use personal information for internal purposes such as auditing, data analysis, and research to improve Charitybuzz's products, services, and customer communications.
 
@@ -41,7 +41,7 @@ If we do combine non-personally identifying information with personally identify
 
 Charitybuzz's website, online services, interactive applications, and advertisements may use "cookies" and other technologies such as pixel tags and web traffic and meta-tags. These technologies help us understand user behavior, tell us which parts of our website people have visited, and facilitate and measure the effectiveness of advertisements and web searches. We treat information collected by cookies and other technologies as non-personal information. However, to the extent that Internet Protocol (IP) addresses or similar identifiers are considered personal information by local law, we also treat these identifiers as personal information. Similarly, to the extent that non-personal information is combined with personal information, we treat the combined information as personal information for the purposes of this Privacy Policy.
 
-Charitybuzz utilizes cookies and other technologies in mobile advertising services to control the number of times you see a given ad, deliver ads that relate to your interests, and measure the effectiveness of ad campaigns. If you do not want to receive ads with this level of relevance on your mobile device, you can opt out by emailing [unsubscribe@charitybuzz.com](mailto:unsubscribe@charitybuzz.com) from the address you wish to have opted out.
+Charitybuzz utilizes cookies and other technologies in mobile advertising services to control the number of times you see a given ad, deliver ads that relate to your interests, and measure the effectiveness of ad campaigns. If you do not want to receive ads with this level of relevance on your mobile device, you can opt out by emailing [unsubscribe@Charitybuzz.com](mailto:unsubscribe@Charitybuzz.com) from the address you wish to have opted out.
 
 If you opt out, you will not receive the newsletters or mobile ads. This unsubscribe option applies only to Charitybuzz advertising services and does not affect interest-based advertising from other advertising networks.
 
@@ -63,13 +63,13 @@ At times Charitybuzz may make certain personal information available to strategi
 
 It may be necessary − by law, legal process, litigation, and/or requests from public and governmental authorities within or outside your country of residence − for Charitybuzz to disclose your personal information. We may also disclose information about you if we determine that for purposes of national security, law enforcement, or other issues of public importance, disclosure is necessary or appropriate.
 
-We may also disclose information about you if we determine that disclosure is reasonably necessary to enforce our terms and conditions or protect our operations or users. Additionally, in the event of a reorganization, merger, or sale we may transfer any and all personal information we collect to the relevant third party.
+We may also disclose information about you if we determine that disclosure is reasonably necessary to enforce our user agreement or protect our operations or users. Additionally, in the event of a reorganization, merger, or sale we may transfer any and all personal information we collect to the relevant third party.
 
 ### Protection of Personal Information
 
 Charitybuzz takes precautions — including administrative, technical, and physical measures — to safeguard your personal information against loss, theft, and misuse, as well as against unauthorized access, disclosure, alteration, and destruction.
 
-Charitybuzz online services such as the Charitybuzz.com online auctions and charitybuzz The Goods store utilize Secure Socket Layer (SSL) encryption on all web pages where personal information is collected. To make purchases from these services, you must use an SSL-enabled browser such as Safari, Firefox, or Internet Explorer. Doing so protects the confidentiality of your personal information while it's transmitted over the Internet.
+Charitybuzz online services such as the Charitybuzz.com online auctions and Charitybuzz The Goods store utilize Secure Socket Layer (SSL) encryption on all web pages where personal information is collected. To make purchases from these services, you must use an SSL-enabled browser such as Safari, Firefox, or Internet Explorer. Doing so protects the confidentiality of your personal information while it's transmitted over the Internet.
 
 When you use some Charitybuzz products, services, or applications or post on an Charitybuzz forum, chat room, or social networking service, the personal information you share is visible to other users and can be read, collected, or used by them. You are responsible for the personal information you choose to submit in these instances. For example, if you list your name and email address in a forum posting, that information is public. Please take care when using these features.
 
@@ -79,7 +79,7 @@ Charitybuzz makes it easy for you to keep your personal information accurate, co
 
 ### Access to Personal Information
 
-You can help ensure that your contact information and preferences are accurate, complete, and up to date by logging in to your account at www.charitybuzz.com and click on the account login. For other personal information, we make good faith efforts to provide you with access so you can request that we correct the data if it is inaccurate or delete the data if Charitybuzz is not required to retain it by law or for legitimate business purposes. We may decline to process requests that are unreasonably repetitive, require disproportionate technical effort, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by local law. Access, correction, or deletion requests can be made directly via email to [privacy@charitybuzz.com](mailto:privacy@charitybuzz.com). We will respond to your request to access within 30 days. 
+You can help ensure that your contact information and preferences are accurate, complete, and up to date by logging in to your account at www.Charitybuzz.com and click on the account login. For other personal information, we make good faith efforts to provide you with access so you can request that we correct the data if it is inaccurate or delete the data if Charitybuzz is not required to retain it by law or for legitimate business purposes. We may decline to process requests that are unreasonably repetitive, require disproportionate technical effort, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by local law. Access, correction, or deletion requests can be made directly via email to [privacy@Charitybuzz.com](mailto:privacy@Charitybuzz.com). We will respond to your request to access within 30 days. 
 
 ### Children
 
@@ -87,7 +87,7 @@ We do not knowingly collect personal information from children under 16. If we l
 
 ### Security
 
-Charitybuzz.com is a Thawte® secured website and uses a Thawte® SSL Certificate for encryption. Customer data is securely transmitted by Charitybuzz.com to non-affiliated third-parties as permitted by this privacy policy or by law and to service providers through a combination of encryption techniques and other privacy protection measures. Selected NPPI submitted through the charitybuzz.com website such as your debit or credit card numbers, expiration dates are encrypted for security reasons. Charitybuzz also maintains and enforces strict internal policies to protect NPPI from unauthorized access by employees or third-parties.
+Charitybuzz.com is a Thawte® secured website and uses a Thawte® SSL Certificate for encryption. Customer data is securely transmitted by Charitybuzz.com to non-affiliated third-parties as permitted by this privacy policy or by law and to service providers through a combination of encryption techniques and other privacy protection measures. Selected NPPI submitted through the Charitybuzz.com website such as your debit or credit card numbers, expiration dates are encrypted for security reasons. Charitybuzz also maintains and enforces strict internal policies to protect NPPI from unauthorized access by employees or third-parties.
 
 ### Location-Based Services
 
