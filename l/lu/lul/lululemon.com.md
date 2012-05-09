@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the lululemon.com privacy policy that was archived on 2011-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111020050230id_/http%3A//www.lululemon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lululemon.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509225403id_/http%3A//www.lululemon.com/privacy) for the most accurate reproduction.*
 
 # privacy policy | lululemon athletica
+
+## Your Privacy: Overview
 
 This privacy policy (this " **Privacy Policy** ") sets out the privacy policies and practices for lululemon athletica inc. and its subsidiaries and affiliates including ivivva athletica canada inc. (" **lululemon** ") with respect to the collection, use, and disclosure of personal information by lululemon. This Privacy Policy applies to information collected from you by lululemon via this website and other websites operated or provided by lululemon, including www.lululemon.com, www.lululemon.ca, [www.ivivva.com](http://www.ivivva.com/) and various subdomains (collectively, the " **Sites** "); our retail stores (the " **Stores** "); our Guest Education Centre (the "GEC"); and other places where we may collect personal information. This Privacy Policy also sets out how you can access certain information that lululemon may collect about you. In this Privacy Policy, " **personal information** " means information about an identifiable individual as further defined under applicable privacy laws.
 
@@ -46,6 +48,8 @@ An IP address is a computer's numeric address, by which it can be located within
 To prevent unauthorized access or disclosure, maintain data accuracy and facilitate the appropriate use of information, lululemon uses physical, technological and administrative procedures to protect the personal information that lululemon collects that are appropriate to the sensitivity of the personal information. 
 
 Nevertheless, Internet transmissions are never completely private or secure. You understand that any messages or information you send to the Sites may be read or intercepted by others. If you have any questions about the security of personal information collected by lululemon, please contact: [privacyofficer@lululemon.com](mailto:privacyofficer@lululemon.com). You should also be aware that certain aspects of the Sites are not confidential and are available for public viewing. For example, other users of the Sites will be able to view your profile and goals that are publically available. Any submissions that you may post to any publicly available blogs or other publicly available features of the Sites are not confidential and may be viewed by other users of the Sites. By making personal information publicly available where the Sites allow you to do so, you consent to such publication by lululemon or its service providers and agents. Please refer to the Terms of Use for additional provisions relating to user submissions that may apply to you. 
+
+## Use of Your Personal Information
 
 Upon lululemon's collection of your personal information, lululemon may use such personal information internally, separately or in combination with pre-existing information, for the following purposes: 
 
