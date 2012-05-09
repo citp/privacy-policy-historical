@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the sojones.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103172141id_/http%3A//www.sojones.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sojones.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509153236id_/http%3A//www.sojones.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 SOJONES.COM PRIVACY POLICY  
-Last Updated: April 2008
+Last Updated: May 2012
 
 1\. Purpose
 
@@ -88,3 +88,10 @@ SoJones.com does not knowingly collect or solicit Personally Identifiable Inform
 17\. Affiliated sites, linked sites and advertisements.
 
 SoJones.com expects its partners, advertisers and third-party affiliates to respect the privacy of our users. However, third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a SoJones.com page, certain content that is actually created or hosted by a third party. Also, through SoJones.com you may be introduced to, or be able to access, information, Web sites, advertisements, features, contests or sweepstakes offered by other parties. SoJones.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+
+**Advertisers may engage in the collection of non-personally identifiable information about end users by third parties through the use of cookies and pixel tags.**
+
+**End users may opt out of behavioral targeting through the opt-out link located at  [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)**
+
+**SoJones is participating in the Digital Advertising Alliance’s (DAA) Self-Regulatory Program for Online Behavioral Advertising:  [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/).**  
+
