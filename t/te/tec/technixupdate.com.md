@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technixupdate.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206215332id_/http%3A//www.technixupdate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technixupdate.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510001529id_/http%3A//www.technixupdate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
