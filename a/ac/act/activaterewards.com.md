@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activaterewards.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006225431id_/https%3A//www.activaterewards.com/terms_and_conditions/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activaterewards.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509212054id_/https%3A//www.activaterewards.com/terms_and_conditions/privacy) for the most accurate reproduction.*
 
 # 
 
