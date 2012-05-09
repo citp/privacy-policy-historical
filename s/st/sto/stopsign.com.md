@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stopsign.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117115359id_/http%3A//www.stopsign.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stopsign.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509230639id_/http%3A//www.stopsign.com/privacy) for the most accurate reproduction.*
 
 # StopSign® Privacy Policy
 
@@ -103,9 +103,3 @@ Attn: Operations Department
 Poulsbo, WA 98370 USA 
 
 or, email us at: [Privacy@eAcceleration.com](mailto:Privacy@eAcceleration.com).
-
-[](http://www.stopsign.com/downloads/stop-sign_install.exe?uid=f5dbe4d100a973f661d077e842ca4548&bit_mask=4194304&bit_sample=3194653225&ver=online&b=%26qq_eac-nohost&pg=%26IA2&SV=stopsign.com_index_ssmkc_01&n=d_mss)
-
-### Chat With a Technician
-
-Available daily from 5:00 a.m. to 11:00 p.m. (Pacific).
