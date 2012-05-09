@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the wbal.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123115500id_/http%3A//www.wbal.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbal.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509021157id_/http%3A//wbal.com/about/privacy) for the most accurate reproduction.*
 
-# WBAL - Maryland's News, Talk, Sports Station AM1090
+# Internet Privacy Policy | Baltimore News | WBAL Radio 1090 AM
+
+##  Internet Privacy Policy
 
 WBAL Radio's Internet site, http://wbal.com, complies with the following Privacy Policy. 
 
@@ -13,3 +15,18 @@ While we will seek to require third parties with whom we have agreements to foll
 Users should be aware that when they voluntarily disclose personal information (e.g., user name, e-mail address) on the bulletin boards or in the chat areas, that information can be collected and used by others and may result in unsolicited messages from other posters or parties.
 
 Children should ask their parents for permission before sending any information about themselves to us or anyone else over the Internet.
+
+##  Sponsors
+
+##  Talkshow Numbers
+
+  * Main Talkshow Call-In  
+**410-467-WBAL**
+  * Toll Free Talkshow Call-In  
+**800-767-WBAL**
+  * Verizon Wireless  
+***WBAL**
+  * AT&T Wireless  
+**# WBAL**
+
+
