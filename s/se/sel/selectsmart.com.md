@@ -1,9 +1,12 @@
-> *The following text is extracted and transformed from the selectsmart.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103024641id_/http%3A//selectsmart.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selectsmart.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509221633id_/http%3A//selectsmart.com/privacy.htm) for the most accurate reproduction.*
 
 # 
 
+**Conduct**   
+We don't allow you to post comments or publish material that is obscene, offensive or rip-offs of other peoples' original and/or copyrighted material. We alone reserve the right to edit or delete material that we determine does not meet these standards. We have no delineated set of dos and don'ts. If you are a spammer, rude or annoying you may be banned from our websites. We edit and delete without warning posts that we deem inappropriate. Much like any social gathering, you are welcome here as long as you are mature, polite and considerate. 
+
 **Privacy Statement**   
-We respect your privacy. Your individual opinions are private, unless you share them in our [discussion groups](http://www.selectsmart.com/DISCUSS). We do not collect or store any individual's information or opinions. Creators of [free selectors](http://www.selectsmart.com/FREE) have the option of collecting results with the participant's permissions. We certainly do not share nor sell email addresses, names or other information. Please note that we link to other sites that we deem of value. These sites may or may not have the same views of privacy as SelectSmart.com, SelectPoll.com and YouDebateIt.com. 
+We respect your privacy. Your individual opinions are private, unless you share them in our discussion groups, blog pages and elsewhere. We strongly discourage all users and members from using their real names on our websites. We do not collect or store any individual's information or opinions. We certainly do not share nor do we sell email addresses, names or other information. Please note that we link to other sites that we deem of value. These sites may or may not have the same views of privacy as SelectSmart.com, SelectPoll.com and YouDebateIt.com. 
 
 We work with third parties that serves ads to this site. 
 
@@ -39,5 +42,5 @@ Our selectors use a numeric point system. If an item has a trait or characterist
   
 We are dedicated to continuous improvement. Please notify us if you have corrections or suggestions. [Send your comments or questions to Curt Anderson of SelectSmart.com. ](http://www.selectsmart.com/suggestion/comments.html)
 
-**Copyright © 1999-2009 SelectSmart.com  
+**Copyright © 1999-2012 SelectSmart.com  
 All Rights Reserved **
