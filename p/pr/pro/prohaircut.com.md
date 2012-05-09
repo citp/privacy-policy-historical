@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the prohaircut.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102001643id_/http%3A//www.prohaircut.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prohaircut.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509023108id_/http%3A//www.prohaircut.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[Home](https://web.archive.org/index.html)
 
 This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the Web site that you were viewing when you clicked through to this policy.
 
