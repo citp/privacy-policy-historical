@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flyingflowers.co.uk privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124110617id_/http%3A//www.flyingflowers.co.uk/Privacy-Policy-at-Flying-Flowers/Flowers/FF_PrivacyPolicy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyingflowers.co.uk privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509101243id_/http%3A//www.flyingflowers.co.uk/Privacy-Policy-at-Flying-Flowers/Flowers/FF_PrivacyPolicy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy at Flying Flowers
 
@@ -6,22 +6,22 @@ Flying Flowers takes the protection of customer's personal information very seri
 
 All data is collected securely using industry standard SSL encryption. SSL security certificates have been obtained from Thawte. Please refer to our [Security Policy](http://www.flyingflowers.co.uk/Security-Policy-at-Flying-Flowers/Flowers/FF_SecurityPolicy,default,pg.html) for further information.
 
-Flying Flowers will occasionally send details of special offers and products to existing customers. If you would prefer not to receive these details please email us at [DataProtectionOfficer@flyingflowers.com](mailto:DataProtectionOfficer@flyingflowers.com) or write to the Data Protection Officer, Flying Flowers (Jersey) Limited, Retreat Farm, Jersey JE1 1L. Please remember to include your full name, address and customer number and we will happily remove you from all future contacts.
+Flying Flowers will occasionally send details of special offers and products to existing customers. If you would prefer not to receive these details please email us at [customerservices@flyingflowers.co.uk](mailto:customerservices@flyingflowers.co.uk) or write to the Data Protection Officer, Flying Flowers, Interflora House, Watergate, Sleaford, Lincolnshire, NG34 7TB. Please remember to include your full name, address and customer number and we will happily remove you from all future contacts.
 
 As part of our high security standards, when you enter this website we will use cookies. Cookies are small pieces of information which are stored by your browser on your computer's hard drive. Our cookies do not contain any personal information about you and are used only to determine your browser and user preferences for our site. We believe that this can greatly assist us in providing you with the service that you desire and to enhance your browsing experience. For this reason if you do not wish to receive cookies you will not be able to use this website.
 
-If you have any questions regarding our Privacy Policy or Security Policy please get in touch with our UK Customer Services department:
+If you have any questions regarding our Privacy Policy or Security Policy please get in touch with our Customer Services department:
 
-**Address:** Customer Services  
-Flying Flowers (Jersey) Limited  
-Saxon House  
-27 Duke Street  
-Chelmsford  
-Essex  
-CM1 1HT
+**Address:** Customer Services,  
+Flying Flowers,  
+Interflora House,  
+Watergate,  
+Sleaford,  
+Lincolnshire,  
+NG34 7TB
 
-**Telephone:** 0844 884 6533   
-**Email:** [customerservices@flyingflowers.com](mailto:customerservices@flyingflowers.com)
+**Telephone:** 0844 576 0888  
+**Email:** [customerservices@flyingflowers.co.uk](mailto:customerservices@flyingflowers.co.uk)
 
 When customers register with Flying Flowers to place an order via the internet, telephone or post the following data is captured by Flying Flowers:
 
@@ -38,12 +38,12 @@ Password Hint This is a phrase entered by the customer to assist them in remembe
 
 For every order a customer enters the following data is also collected.
 
-Payment Card Details Including card holder's name, card number, card start date (if applicable), card expiration date, card issue number (for debit cards only). These are used to accurately process the card payment and to deal with any queries which might arise.
+Payment Card Details including card holder's name, card number, card start date (if applicable), card expiration date, card issue number (for debit cards only). These are used to accurately process the card payment and to deal with any queries which might arise.
 
-Recipient Details Including name/title, address, phone number, personal message. These details are used to ensure accurate despatch of the order.
+Recipient Details including name/title, address, phone number, personal message. These details are used to ensure accurate dispatch of the order.
 
 ## Data Protection
 
 All personal details supplied by you will be stored in a secure location and used to provide the services you have requested from us. In addition, your details may be used by us to tell you about other products and services we offer. We may occasionally pass your details to companies offering quality products or services carefully selected by us, which we feel may be of interest to you.
 
-Should you prefer some of these contacts not to be made in the future regarding new promotions and services, then either write to us as explained above or an opt out option is available from the Privacy Policy section in Your Account.
+Should you prefer some of these contacts not to be made in the future regarding new promotions and services, then contact us on the details above.
