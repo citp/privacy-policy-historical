@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the apnapaisa.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209021320id_/http%3A//www.apnapaisa.com/corporate/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apnapaisa.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509212020id_/http%3A//www.apnapaisa.com/corporate/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Why Apnapaisa?**
+**Why[Apnapaisa](http://www.apnapaisa.com/ "apnapaisa ")?**
 
-Apnapaisa.com Services Private Limited respects your privacy. This Privacy Policy gives you details about our data collection methods and usage. You are advised to please read the Privacy Policy carefully. By accessing the services provided by apnaloan.com you agree to the collection and use of your data by apnaloan.com in the manner provided in this Privacy Policy.
+Apnapaisa.com Services Private Limited respects your privacy. This Privacy Policy gives you details about our data collection methods and usage. You are advised to please read the Privacy Policy carefully. By accessing the services provided by [apnaloan](http://www.apnapaisa.com/loan/ "apnaloan ").com you agree to the collection and use of your data by apnaloan.com in the manner provided in this Privacy Policy.
 
 **What data is collected from you automatically?**
 
@@ -25,7 +25,7 @@ Data which we collect from you
   * mobile phone number and contact details 
   * ZIP/Postal code 
   * demographic profile (like your age, gender, occupation, address) 
-  * preferences (such as housing loan, personal loan, credit card, car loan); 
+  * preferences (such as housing [loan](http://www.apnapaisa.com/loan/ "loan "), [personal loan](http://www.apnapaisa.com/loan/personal-loan-india/ "personal loan"), [credit card](http://www.apnapaisa.com/loan/credit-card-india/ "credit card"), [car loan](http://www.apnapaisa.com/loan/car-loan-india/ "car loan")); 
   * financial information (like salary)
 
 
@@ -87,13 +87,13 @@ We need to share your information with certain service partners in order to resp
 
 
 
-**To unsubscribe and stop receiving loan / insurance offers,[click here](http://www.apnapaisa.com/unsubscribe.html)**  
+**To unsubscribe and stop receiving loan /[insurance](http://www.apnapaisa.com/insurance/ "insurance ") offers, click here**  
  
 
 **To correct inaccuracies in the information you can**
 
-  * Send an e-mail to service@apnapaisa.com 
-  * Call the following telephone number: 91 (22) 6613 1900  
+  * Post on our Apnapaisa Community Page [Apnapaisa Facebook Community](http://www.facebook.com/apnapaisa). 
+  * Call the following telephone number: 91 (22) 6613 1999  
 
 
 
