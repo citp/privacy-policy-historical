@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awfulannouncing.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103101825id_/http%3A//awfulannouncing.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awfulannouncing.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509191226id_/http%3A//www.awfulannouncing.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Content
 
