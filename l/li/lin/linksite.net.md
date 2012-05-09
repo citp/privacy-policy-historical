@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the linksite.net privacy policy that was archived on 2011-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111026075630id_/http%3A//www.linksite.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linksite.net privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509131900id_/http%3A//www.linksite.net/privacy_policy.html) for the most accurate reproduction.*
 
-# LinkSite.net - Privacy Policy
-
-  * 
-
+# LinkSite.net - Premium Link Directory. Free and Paid Links. Human-Edited. - Privacy Policy
 
   * **Privacy Policy**   
 We take your privacy seriously. This policy describes what personal information we collect and how we use it. (This privacy policy is applicable to all the LinkSite.net domain and services.) 
@@ -28,7 +25,6 @@ About Google advertising: What is the DoubleClick DART cookie? The DoubleClick D
 
 
   * **Contact Information**   
-Concerns or questions about this privacy policy can be directed to the following [**email**](http://mailhide.recaptcha.net/d?k=01aCDEeb40YM4TJhn73WnTOA==&c=4zAX0tJwyJYuxkCPDfUnoa6ooTxI1q1UuY1gcJkvYLM= "Reveal this e-mail address") or [**contact form**](http://www.linksite.net/contact.html). Turn around time is usually 24 hours. 
+Concerns or questions about this privacy policy can be directed to the following [**email**](http://mailhide.recaptcha.net/d?k=01aCDEeb40YM4TJhn73WnTOA==&c=4zAX0tJwyJYuxkCPDfUnoa6ooTxI1q1UuY1gcJkvYLM= "Reveal this e-mail address") or [**contact form**](http://www.linksite.net/contact.php). Turn around time is usually 24 hours. 
 
-  
----
+
