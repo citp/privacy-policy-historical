@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linoit.com privacy policy that was archived on 2011-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110909114652id_/http%3A//www.infoteria.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linoit.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509154458id_/http%3A//www.infoteria.com/en/privacy) for the most accurate reproduction.*
 
 # Infoteria Corporation : Privacy Policy
 
