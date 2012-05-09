@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the quest-global.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102151447id_/http%3A//www.quest-global.com/Privacy-Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quest-global.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509161030id_/http%3A//www.quest-global.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy |QuEST Global
+# Engineering Consulting Service | Quest Global
 
 QuEST only collects identifiable information that is specifically and voluntarily provided by a visitor to our site. Any identifiable information collected from the user is used solely for the purpose for which it is collected. Our policy is not to share personally identifiable information with third parties, unless required by law. We recognize that your information is valuable and we take all reasonable measures to protect your information while it is in our care.
 
@@ -12,10 +12,15 @@ The data collected on voluntary submission by the user is collected by QuEST. Th
 
 We collect only personally identifiable information that is specifically and voluntarily provided by visitors to QuEST website. QuEST receives limited identifiable information, such as name, title, company address, email address, telephone and fax numbers, from website visitors. Typically, identifying information is collected to:
 
-| 
+  * Register for certain areas of the site.
+  * Inquire for further information.
+  * Distribute requested reference materials, or.
+  * Submit resumes.
+
+
 
 Demographic information, including gender and occupation, is not actively sought, but may be submitted when a visitor responds to an online job application. It is our policy to limit the information collected to only the minimum information required to complete a visitor's request. In any instance where non-mandatory information is sought, the Web site visitor will be notified of this at the point of collection.
 
 In case of any Third Party Links appearing on the QuEST website, we encourage visitors to review each site's privacy policy before disclosing any personally identifiable information.
 
-QuEST reserves the right to modify or amend this Statement at any time. The effective date will be displayed at the beginning of this statement. 
+QuEST reserves the right to modify or amend this Statement at any time. The effective date will be displayed at the beginning of this statement.
