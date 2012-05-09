@@ -1,174 +1,82 @@
-> *The following text is extracted and transformed from the intacct.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103093409id_/http%3A//us.intacct.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intacct.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509153526id_/http%3A//us.intacct.com/about-us/trust/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - ERP Software Solutions - Intacct
+# Website Privacy Policy | Intacct
 
-Intacct is committed to safeguarding your privacy online. We have implemented numerous technical and administration measures to ensure that your data remains protected and secure. You should also know that we will never sell or rent your personal information to a third party. 
+Effective Date: 09/28/2011
 
-Please read the following policy if you would like to understand in detail how your personal information will be treated as you make full use of our many offerings. As this policy may change from time to time, please check back periodically for the most recent additions to our policy. 
+This privacy statement describes how Intacct Corporation ("Intacct") collects and uses the personal information you provide on our public Web site: [www.intacct.com](http://www.intacct.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
 
-This policy will let you know: 
+Intacct Corporation has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [ TRUSTe's program requirements ](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@intacct.com](mailto:info@intacct.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through this website which may be shared with the Intacct service. Such shared information and information collected through the Intacct service is covered separately by our product privacy policy located at - [http://www.intacct.com/privacy_policy.php](http://us.intacct.com/privacy_policy.php)
 
-  1. What personally identifiable information is collected from you. 
-  2. How Intacct protects the privacy of your data. 
-  3. What cookies are and how they are used. 
-  4. How your information is used. 
-  5. Who is collecting your information. 
-  6. With whom your information may be shared. 
-  7. How you may obtain access to your personal information. 
-  8. What choices are available to you regarding collection, use, and distribution of your information. 
-  9. How you can access, update, or delete your information. 
-  10. How Intacct treats your personal financial and health-related information. 
-  11. The kind of security precautions that are in place to protect against the loss, misuse, or alteration of your information. 
-  12. How Intacct protects children's privacy. 
-  13. What else you should know about your online privacy. 
-  14. Whom you can contact if you have additional questions. 
+Intacct complies with the U.S. — E.U. & U.S. — Swiss Safe Harbor Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union and Switzerland. Information regarding the E.U. and Swiss Safe Harbor Framework can be found at: <http://export.gov/safeharbor>.
 
+If you have questions or concerns regarding this Policy, you should first contact [info@intacct.com](mailto:info@intacct.com). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at <http://www.truste.org/consumers/watchdog_complaint.php>, by mail at WatchDog Complaints, TRUSTe, 55 Second Street, 2nd Floor, San Francisco, CA, USA 94105, by phone at 415-520-3400, or by fax at 415-520-3420. If you are mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see <http://www.truste.org/consumers/watchdog_complaint.php> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
 
+Information We Collect and How We Use It
 
-##### Overview
+We collect demographic and contact information, such as your name, title, company name, address, phone number, e-mail address, and professional association and certain firmographic company information, such as number of employees, or industry, from visitors who wish to receive information about Intacct and its products and services. We use this information to provide you with information about the products and services that we provide and to send you information regarding Intacct or its partners, such as newsletters, promotions and events. If you no longer wish to receive these email communications you may follow the unsubscribe mechanism contained in each of the emails you receive.
 
-Intacct has made the privacy and security of our customers' data our top priority. We have set forth a very strict privacy policy, which is accessible from all parts of our web site and service, and which is supplied to all Intacct employees. 
+Intacct Advocates
 
-**1\. What personally identifiable information does Intacct collect from me?**
+If you choose to use our referral service to tell a colleague about our site, we will ask you for your friend's name, email address and phone number. We will automatically send your friend a one-time email inviting him or her to visit the site. Intacct stores this information for tracking the success of our referral program.  
+Your friend may contact us at [info@intacct.com](mailto:info@intacct.com) to request that we remove this information from our database.
 
-To register for Intacct's services, you will be asked to supply (that is, to create) the following: 
+Service Providers
 
-  * Company ID (possibly but not necessarily related to your official company name). 
-  * User ID, which you select. 
-  * Password, which you or the individual users select. 
+We use other third parties such as an email service provider to send out emails on our behalf, Live Chat to assist you if you have questions while using our site, teleconference services to provide you with webinars and demos, and a hosting service provider to host and provide our content. When you sign up to receive any of these services, we will share your personal information only as necessary with the third party solely for the purpose of providing that service.  
+We provide the information to our trusted distribution partners who work on behalf of or with Intacct under confidentiality agreements. These companies may use your information to help Intacct communicate with you about offers from Intacct and our partners. These companies do not have any independent right to share this information. If you would like to opt out of having your information shared with these third parties you may contact us at [info@intacct.com](mailto:info@intacct.com).
 
+Legal Disclaimer
 
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.
 
-Your password can be changed at a later time, but the company ID and user ID cannot be. 
+Access To Personally Identifiable Information
 
-Additional personally identifiable information that is collected during the registration process includes: 
+If you wish to correct, update or request the deletion of personally identifiable information provided to us you may also contact us using the information below. We will respond to your request to access within 30 days.
 
-  * Company name* 
-  * Company address (street address, town/city, state/province, zip/postal code, country)* 
-  * Contact e-mail address* 
-  * Contact name 
-  * Contact phone number 
-  * Federal tax ID 
-  * First fiscal month 
-  * First tax month 
-  * Income reporting method 
-  * Billing information 
-  * Accounting information 
+We will retain your information for as long as you remain identified as a potential customer or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations and to resolve disputes.
 
+Security
 
+The security of your personal information is important to us. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [info@intacct.com](mailto:info@intacct.com).
 
-* This information is required during the sign up process 
+Cookies
 
-In order to use Intacct's services, Intacct requires that you provide the company name, address (street, town/city, state/province, zip/postal code), and a contact e-mail address. If you do not wish to provide this information, you will not be able to use Intacct's services. 
+A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We link the information we store in cookies to any personally identifiable information you submit while on our site.
 
-Certain of our services ask for select employee information. It is up to you whether or not to supply this information. However, the usefulness of these services may depend in part upon the range of information that you provide. 
+We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file.
 
-If you contact Intacct, we may keep a record of that correspondence. Intacct also occasionally asks users to complete surveys that we use for research purposes. Wherever Intacct collects personal information, we will include a link to this Privacy Policy on that page. 
+The use of cookies enables us to improve our Web sites and emails by seeing which areas and features are most popular, to count the number of computers accessing our Web site, to personalize and improve your experience and to record your preferences.
 
-**2\. How does Intacct protect the privacy of my data?**
+If you reject cookies, you may still use our site, but your ability to use some areas of our site will be limited.
 
-Only Intacct customers can enter, edit, and use their data. These data are kept secure and private through the following means: 
+The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, service providers use session ID cookies to record your preferences, to count the number of computers accessing the website and to personalize and improve your experience.
 
-  * The Intacct system employs 128-bit RSA secure-socket layer (SSL) data encryption—the same level of encryption required for online banking. Such 128-bit SSL encryption has never been broken, and would require a trillion-trillion years to crack using current and foreseeable technology, according to RSA labs. 
-  * Intacct's SSL-based network security is supplemented by additional security protections, including a VeriSign Server ID, also known as a "digital certificate." The certificate verifies that all data claimed to have originated from a customer or partner web site did, in fact, originate from that site, and that it has not been tampered with along the way. Also based on 128-bit encryption, a VeriSign digital certificate is the industry standard, and can be neither forged nor decoded with current or foreseeable technology 
-  * In order to prevent virus attacks, Intacct has chosen UNIX as the platform of choice on which to deploy its web and database servers. UNIX is inherently a virus-free operating system, and has a very strict security system that makes it virtually impossible to implant a virus. Moreover, without proper authentication, outside access to Intacct's customer data is virtually impossible, given the multiple layers of firewalls and security measures that have been put in place. 
-  * These protections notwithstanding, Intacct is careful to prepare for all foreseeable contingencies. Intacct therefore automatically backs up all customer data every night, with back-ups stored on non-degradable media in a fireproof, off-site location, making it possible to restore customer data should the unthinkable happen and some portion of the Intacct database be corrupted or destroyed. 
+Log Files
 
+As is true of most Web sites, we use a third party tracking-utility partner to gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.  
+We use this information, which does not identify individual users, to analyze trends and to help us improve your experience on our website.
 
+Re-Targeted Advertising
 
-**3\. What are cookies and how does Intacct use them?**
+Re-Targeted advertising uses information collected on an individual's web browsing behavior such as the pages they have visited or the searches they have made. This information is then used to display ads. The information collected is only linked to an anonymous cookie ID (alphanumeric number); it does not include any information that could be linked back to a particular person, such as their name, address or credit card number. The information used for targeted advertising either comes from Intacct or through third party website publishers. If you would like to opt out of re-targeted advertising from Intacct that occurs when visiting our third party advertising publishers, please click [here](http://preferences.truste.com/truste/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
-As part of its provision of individualized, user-configurable accounting services, Intacct uses "cookies" to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a web server and that is subsequently stored on your computer's hard drive. All areas within the Intacct service where you subsequently are prompted to log in or that are customizable require that you accept cookies. (See "What are my choices regarding collection, use, and distribution of my information?" for more information on cookies.) 
+Links to other sites
 
-Generally, we use cookies to: 
+Our Site includes links to other Web sites whose privacy practices may differ from those of Intacct. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
 
-  * Remind us of who you are and to access your account information (stored on our servers) in order to keep your information private and secure and to make sure your information and only your information is accessible to you. This cookie is set when you register or sign in, and is modified, as necessary, when you sign out of our services. 
-  * Measure certain traffic patterns, including which areas of Intacct's web site and services you have visited and your visiting patterns in the aggregate. We use this research to understand how our users' habits are similar or different from one another so that we can improve the quality of the Intacct service. 
+Testimonials
 
+We post customer testimonials on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you wish to request the removal of your testimonial you may do so by contacting us at [info@intacct.com](mailto:info@intacct.com).
 
+Public Forums
 
-Intacct also collects IP addresses for system administration purposes. 
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [info@intacct.com](mailto:info@intacct.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-Please note, however, that, while Intacct may sometimes supply aggregate traffic or behavioral data to third parties, we will never sell or rent any of the personally identifiable information that we collect from you. This data is stripped of all personally identifiable information. Thus, it contains no personal information about you that would allow third parties to identify you, have access to your financial data, or contact you by telephone, e-mail, or other means. 
+Changes To This Policy
 
-**4\. How does Intacct use my information?**
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-Intacct's primary goal in collecting personal information is to provide you, the user, with secure and private individualized accounting services. The following paragraphs describe how we use this information. 
+Contact Us
 
-  * Company name and company address (street address, town/city, state/province, zip/postal code, country), are required for customer identification and for displaying the official company name on the customer's financial reports as well as for following up on customer service or billing matters. 
-  * Contact e-mail address is used as a means to provide customers with information about any changes to or updates in the Intacct services. 
-  * Contact name and contact phone number are used as a means of providing customers with information about any changes in or updates to the Intacct services as well as for handling customer service inquiries, billing matters, and the like. 
-  * First fiscal month is used to determine the company's year beginning and end date for configuring Intacct's services. 
-  * Income reporting method is used to instruct the system as to how to handle the customer's revenues and expenses (e.g., accrual basis or cash basis). 
-  * First tax month will be used to determine the dates on which the company's tax report year begins and ends (once the tax module is operational). 
-  * Federal tax ID is used to further and specifically identify companies or customers for any reports, tax filings, or other legal documents where this information may be. 
-  * Legal name and address(es) are used for customer identification and contact by Intacct pursuant to customer services billing and related matters. 
-
-
-
-Intacct occasionally does research on its users' demographics, interests, and behavior based on the information provided to us upon registration, from our server log files, or from surveys. We do this to better understand and serve our users and to determine which additional features or services we should provide to our customers. This research is compiled and analyzed on an aggregate basis and includes no personally identifiable information. Intacct may share this aggregated data with advertisers or business partners. However, no personal identifiable information is shared in this manner. 
-
-Intacct does not currently envision changing the way that it uses customers' personal information. However, should this happen in the future, Intacct will notify you by e-mail of the impending change (prior to the time the change is made), and you will have the option to decline to share your information in the proposed way or, if the new usage is essential to the Intacct service, you will have the option to discontinue the service at that time and protect the privacy of your personal information. 
-
-**5\. Who is collecting your information?**
-
-When you are on the Intacct site and are asked for personal information, you are sharing that information with Intacct alone, unless specifically stated otherwise. If data is being collected and/or maintained by any company other than Intacct, you will be notified prior to the time of the data collection or transfer. If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular service. 
-
-Promotions that run on Intacct may be sponsored by companies other than Intacct or may be co-sponsored by Intacct and another company. Some or all data collected during a promotion may be shared with the sponsor. If data will be shared, you will be notified prior to the time of data collection or transfer. You can decide not to participate in the promotion if you do not want your data to be shared. 
-
-Please be aware that currently, there are no advertisers on Intacct's web site 
-
-**6\. With whom does Intacct share my information?**
-
-As a general rule, Intacct will not disclose any of your personally identifiable information except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or under the circumstances described below. Please see the Terms of Service or Use Agreements for each of our products and services for more detailed information about the limited circumstances under which your personal information may be shared in this way. The following describes these circumstances: 
-
-  * Many promotions offer opportunities to request additional information from sponsors. By requesting more information, you give Intacct permission to transfer your personal information to the sponsor so that they can fulfill your request. In many instances, only your e-mail address will be shared. If more information will be shared with the sponsor, you will be notified prior to the transfer. 
-  * Intacct also may disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be violating Intacct's Terms of Service or may be causing injury to or interference with (either intentionally or unintentionally) Intacct's rights or property, other Intacct users, or anyone else that could be harmed by such activities. Intacct may disclose or access account information when we believe in good faith that the law requires it and for specific administrative and other purposes that we deem necessary to maintain, service, and improve our products and services. 
-
-
-
-**7\. How do I obtain access to my personal information?**
-
-Because all personal information is part of the individual account, any person who has been authenticated to access his/her own account will have access to his/her personal information as long as he/she has entered the correct company ID, user ID and password. 
-
-**8\. What are my choices regarding collection, use, and distribution of my information?**
-
-Intacct may, from time to time, send you e-mail regarding our products and services. Only Intacct (or agents working on behalf of Intacct and under confidentiality agreements) will send you these direct mailings and only if you indicated that you do not object to these offers. From the beginning of the reception of such e-mails, there will be the option available to you of discontinue receiving such mailings. This option will be available solely through those mailings and not through the sign-in process. 
-
-You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies, you will be unable to use Intacct's services. 
-
-Intacct does not sell or rent customer information to anyone. We will notify you at the time of data collection or transfer if your data will be shared with a third party and you will always have the option of not permitting the transfer. In particular, if you do not wish to allow your data to be shared with Intacct's partners you can choose not to use a particular partner service. 
-
-**9\. What is Intacct's policy on allowing me to update, correct, or delete my personally identifiable information?**
-
-Your Intacct account can be deleted or deactivated, but doing so will result in your not being able to access any area of Intacct's services. If you want to edit and/or change any part of your personally identifiable information other than company ID or user ID, which cannot be changed without creating a new account and/or new user, you can do so at any time by using your company ID, user ID, and password to access your account. Please contact [privacypolicy@intacct.com](mailto:privacypolicy@intacct.com) for further instructions about deleting or deactivating your Intacct account. Residual information will remain within our archive records. 
-
-**10\. How does Intacct protect my financial and health-related information?**
-
-Keeping your financial information private is vitally important to us. Just as we safeguard all personally identifiable information, Intacct will never rent or sell your personal financial information. 
-
-Finally, Intacct does not at this time collect any health-related personal information. 
-
-**11\. What security precautions are in place to protect the loss, misuse, or alteration of my information?**
-
-Your Intacct financial information and Intacct profile are password-protected so that you and only you and your company's authorized users have access to this information. You may edit your Intacct financial information and Intacct profile at any time by using your company ID, user ID, and password. 
-
-We recommend that you do not divulge your password to anyone. Intacct will never ask you for your password in an unsolicited phone call or in an unsolicited e-mail. Also remember to sign out of your Intacct account and close your browser window when you have finished your work. This will ensure that others cannot access your personal information if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe. 
-
-Intacct may store your personal data in a location different from its physical offices. At present, all customer information is stored on servers located in the United States. Whenever Intacct handles personal information as described above, regardless of where this occurs, Intacct takes steps to ensure that your information is treated securely and in accordance with the relevant Terms of Service and Use Agreement and this Privacy Policy. 
-
-Intacct places top priority on the security and privacy of its customer data, and, as spelled out in Intacct's Terms of Service agreement, strives for the highest practicable degree of security. Be advised, however, that, for a variety of inherent technical reasons, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Intacct cannot absolutely ensure or warrant the security of any information that you transmit to us or from our online services, either during or subsequent to transmission. Hence, while we have architected our system to be extremely secure, you ultimately transmit such information at your own risk. 
-
-**12\. How does Intacct protect children's privacy?**
-
-Because the Intacct service is a business service, it is neither designed nor intended to be used by children. The site provides no content likely to be of interest or relevance to children, and Intacct neither solicits nor knowingly accepts registrations for its service from children. In any event, there is no content on the Intacct web site nor on any of Intacct's services that is offensive to or inappropriate for children. 
-
-**13\. What else should I know about my privacy?**
-
-Please keep in mind that whenever you voluntarily disclose personal information online—for example, on message boards, through e-mail, or in chat areas-that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. Having said that, there is no content on the Intacct site nor any of Intacct's services that would be offensive to or inappropriate for children. 
-
-Ultimately, you are solely responsible for maintaining the secrecy of your company ID, user ID, password, and/or any account information. Please be careful and responsible whenever you are online or otherwise communicating with people about your Intacct account. 
-
-**14\. Where can I address any questions I might have about the privacy policy?**
-
-You may direct questions regarding this Privacy Policy to [privacypolicy@intacct.com](mailto:privacypolicy@intacct.com) or, by telephone, to Intacct's customer support staff at 877.704.3700. 
+You may direct questions regarding our Website Privacy Policy to [info@intacct.com](mailto:info@intacct.com) or, by telephone, to Intacct's customer support staff at 877.704.3700 or via postal mail at 150 Almaden Boulevard, Suite 1500, San Jose, CA - 95113. 
