@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gog.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203165705id_/http%3A//www.gog.com/en/support/policies/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gog.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509232126id_/http%3A//www.gog.com/en/support/policies/privacy_policy) for the most accurate reproduction.*
 
 # Policies - GOG.com
 
@@ -17,7 +17,7 @@ Please take a moment to review our Privacy Policy in detail. To assist you, we o
 
 Information Collected by GOG We only collect personal information to give you convenient access to our service and provide greater user experience each time you visit the Website. We collect the following types of information from our users: 
 
-1\. We store the information you enter on our Website. You can choose not to provide it, but then you won't not be able to access many of the Website's functionality and features. 
+1\. We store the information you enter on our Website. You can choose not to provide it, but then you won't be able to access many of the Website's functionality and features. 
 
   * In order to purchase games or access some of the Website features you must create a GOG.com account. As part of the registration, we require some personal information, including your e-mail address, your location, gender and date of birth, subject to special information collection mechanisms regarding children.
   * When you contact us, we may collect personal information relevant to the situation, such as your name, e-mail address and information relating to a support or service issue.
