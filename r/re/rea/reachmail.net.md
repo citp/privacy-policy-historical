@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reachmail.net privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111053624id_/http%3A//www.reachmail.net/pages/privacy_policy/13.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reachmail.net privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509234923id_/http%3A//reachmail.net/pages/privacy_policy/13.php) for the most accurate reproduction.*
 
 # ReachMail - Privacy Policy
 
@@ -12,7 +12,7 @@ There is no issue of greater importance than user privacy. Since personal privac
 
 ## Client Data Policy
 
-As our client, you have exclusive ownership and rights to your subscriber data. Your subscriber data will never be shared with any third-parties. Other ReachMail users do not have access to your data. ReachMail support staff my access your data during support requests or from time to time during account audits. ReachMail support staff will never modify your data except at your written request. 
+As our client, you have exclusive ownership and rights to your subscriber data. Your subscriber data will never be shared with any third-parties. Other ReachMail users do not have access to your data. ReachMail support staff may access your data during support requests or from time to time during account audits. ReachMail support staff will never modify your data except at your written request. 
 
 ## Email Recipient Policy
 
