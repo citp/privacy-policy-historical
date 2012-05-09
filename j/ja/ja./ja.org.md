@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ja.org privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101220201id_/http%3A//www.ja.org/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ja.org privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509200217id_/http%3A//www.ja.org/about/privacy.shtml) for the most accurate reproduction.*
 
 # About JA - Privacy Policy
 
-**Junior Achievement USA™ Privacy Policy**
+**Junior Achievement USA ® Privacy Policy**
 
 _This statement discloses the privacy practices of Junior Achievement._
 
@@ -30,23 +30,23 @@ Any personal information you provide to Junior Achievement is maintained and acc
 
   * We use aggregate data collected to inform our local offices of the number of people from their areas who are registered users. No personally identifiable information is disclosed in this process; only general information in aggregate form.
 
-  * Non-specific, aggregate data is also used for the purposes of collecting general demographic information, measuring user interests, and analyzing the collective characteristics and behaviors of our registered visitors. The collection of this information allows us to appropriately change, update, and service the Web site in accordance to common trends.
+  * Non-specific, aggregate data is also used for the purposes of collecting general demographic information, measuring user interests, and analyzing the collective characteristics and behaviors of our registered visitors. The collection of this information allows us to appropriately change, update, and service the Web site in accordance to common trends. 
 
-  * From time to time, Junior Achievement may use your information to inform you of changes and enhancements to our content and services. For those who have elected to receive information from Junior Achievement such as offers or information about the company, we may send you direct mail regarding products we feel may be of interest to you. We will NOT release your personal information to other organizations without your express permission.
+  * From time to time, Junior Achievement may use your information to inform you of changes and enhancements to our content and services. For those who have elected to receive information from Junior Achievement such as offers or information about the company, we may send you direct mail regarding products we feel may be of interest to you. We will NOT release your personal information to other organizations without your express permission. 
 
-  * If you enter a sweepstakes or contest, we may use your provided information to contact you if you should win.
+  * If you enter a sweepstakes or contest, we may use your provided information to contact you if you should win. 
 
-  * Junior Achievement is in compliance with the Children’s Online Privacy Protection Act of 1998 (COPPA). The personally identifiable information we collect is in no way intended for those under the age of 13. Where “age” or “date of birth” is requested, it must be indicated that the user is over 13 years of age in order for the information to be stored or transmitted.
+  * Junior Achievement is in compliance with the Children’s Online Privacy Protection Act of 1998 (COPPA). The personally identifiable information we collect is in no way intended for those under the age of 13. Where “age” or “date of birth” is requested, it must be indicated that the user is over 13 years of age in order for the information to be stored or transmitted. 
 
   * We respond to subpoenas, warrants, or other court orders regarding information that is contained within our access logs concerning any member or visitor. We also reserve the right to release that information concerning a user who we believe is in violation of Junior Achievement's terms and conditions or other published guidelines and official rules, even without a subpoena, warrant, or other court order. We cooperate with law enforcement agencies in identifying those who use our servers for illegal activities. We also reserve the right to report any illegal activity to law enforcement. 
 
   * Junior Achievement also cooperates with, and reserves the right to release any and all information to, tax collection and tax law enforcement agencies in order to identify those users who may owe taxes on earnings from Junior Achievement prize winnings. (U.S. residents who win $600.00 or more combined cash and merchandise prizes in a calendar year must provide their Social Security number in order to receive "1099" forms from Junior Achievement.) 
 
-  * Junior Achievement uses SSL security on any form that requires credit card information. We will never ask for information that could be used in a phishing scheme without the SSL security behind the form.
+  * Junior Achievement uses SSL security on any form that requires credit card information. We will never ask for information that could be used in a phishing scheme without the SSL security behind the form. 
 
 
 
 
-[ ](https://web.archive.org/web/20111101220201id_/http%3A//www.ja.org/about/about_res_stan.shtml)Individuals may opt-out of communications, thereby terminating all existing information he or she may have registered with Junior Achievement. This is done by sending an email to [newmedia@ja.org](mailto:newmedia@ja.org) and requesting a removal from our database.
+[ ](https://web.archive.org/web/20120509200217id_/http%3A//www.ja.org/about/about_res_stan.shtml)Individuals may opt-out of communications, thereby terminating all existing information he or she may have registered with Junior Achievement. This is done by sending an email to [newmedia@ja.org](mailto:newmedia@ja.org) and requesting a removal from our database.
 
 Any modifications to this policy will be posted in this space. We welcome any questions or comments you have. 
