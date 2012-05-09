@@ -1,288 +1,458 @@
-<!--The following is the downloaded HTML source of the chupamobile.com privacy policy that was archived on 2011-09-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110901214631id_/http%3A//www.chupamobile.com/chupa/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chupamobile.com privacy policy that was archived on 2012-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120509054145id_/http%3A//www.chupamobile.com/legal/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
+<!DOCTYPE html><html lang="en" itemscope="" itemtype="http://schema.org/Product"><head>
 	<meta charset="utf-8">
   <meta name="google-site-verification" content="q78nnorIAStdwD5IyMjgFgKW0CJGf90PO8QgiZubIbY">
-
-	<link rel="stylesheet" href="/css/site.css">
-	<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
-
-	<link rel="stylesheet" type="text/css" href="/css/slider.css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/assets/a0d51737/jquery.min.js"></script>
-<script type="text/javascript" src="/js/jquery.nivo.slider.pack.js"></script>
+	<script type="text/javascript" async="" src="https://widget.uservoice.com/5aYctq10RfnCN8oIGq6W5A.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/assets/a0d51737/jquery.min.js"></script>
+<script type="text/javascript" src="/js/jquery.poshytip.js"></script>
 <title>Privacy policy | Chupa Mobile</title>
-	<!--[if lt IE 9]>
+	<link href="http://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700,700italic" rel="stylesheet" type="text/css">
+  <!--[if lt IE 9]>
   <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
-  <script type="text/javascript">
+	<link rel="stylesheet" href="/css/site.css?s=4146">
+	<link rel="stylesheet" href="/css/menuHeader.css?s=4146">
+	<!--[if IE 7]>
+  <link rel="stylesheet" href="/css/ie.css" />
+  <![endif]-->
+  <script>
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-28794124-1']);
+_gaq.push(['_trackPageview']);
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-840016-14']);
-  _gaq.push(['_trackPageview']);
+_gaq.push(['t2._setAccount', 'UA-840016-14']);
+//_gaq.push(['t2._setDomainName', 'foo.com']);
+_gaq.push(['t2._trackPageview']);
+  
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
+(function ($) {
 
+  // Log all jQuery AJAX requests to Google Analytics
+  $(document).ajaxSend(function(event, xhr, settings){ 
+    if (typeof _gaq !== "undefined" && _gaq !== null) {
+      _gaq.push(['_trackPageview', settings.url]);
+      _gaq.push(['t2._trackPageview', settings.url]);
+      _gaq.push(['_trackEvent',event,settings.data, settings.url]);
+      _gaq.push(['t2._trackEvent',event,settings.data, settings.url]);
+      
+      /**
+      var test = '';
+       jQuery.each(settings, function(i, val) {
+	    test += i + " => " + val + "\n";
+	   });
+       alert(test);
+       **/
+    }
+  });
+
+})(jQuery);
+  </script> 
+  <script type="text/javascript">
+$(document).ready(function() {
+var $scrollingDiv = $("#floating-box");
+$(window).scroll(function(){
+
+if (document.documentElement.scrollTop > 145 || self.pageYOffset > 145){
+$scrollingDiv
+.stop()
+.animate({top: ($(window).scrollTop() - 120) +"px"}, "slow" );
+}
+else if (document.documentElement.scrollTop < 300 || self.pageYOffset < 300) {
+$scrollingDiv
+.stop()
+.animate({"top": 0 + "px"}, "slow" );
+}
+
+});
+});
 </script>
+  
+  <script type="text/javascript">
+
+$(document).ready(function(){
+	$('#signInBoxT, #signInBoxTuT').hide();
+	$('.twitSign').hover(
+	function(){
+		
+		$('#signInBoxT, #signInBoxTuT').stop(true, true).fadeIn('fast');
+	},
+	function(){
+		$('#signInBoxT, #signInBoxTuT').stop(true, true).delay(1000).fadeOut('fast');
+	});
+	
+	
+});
+</script> 
+  <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
 </head>
 
 <body>
-<div id="super_conteiner">
-<header>
-	<div id="header_container">
-		<div class="logo">
-			    	<a href="/chupa/index"><img src="/images/fe/chupa_logo.jpg" alt="Chupa" width="197" height="60"></a>
-    	    </div><!-- logo -->
-    <nav class="header_area_personale">
-    	<span class="personale"><a href="/chupa/contacts">Contact Us</a></span> | 
-            <span class="personale"><a rel="nofollow" href="/chupa/signin">Sign In to My Account</a></span> |
-      <span class="personale"><a href="/chupa/signup">Sign Up</a></span>
-      		</nav><!-- header_area_personale -->
-	</div><!-- header_container -->
-</header><!-- header -->
+<div id="super_conteiner"> 
+<header> 
+ <nav id="userTopMenu">
+   <div id="contentUserTopManu">
+     <ul id="user_menu">
+       <li><a id="cartSummary" class="personale" rel="nofollow" href="/purchase/cart"><img id="icoCartSummary" src="/images/fe/ico_cart.png" class="icoCart" alt="cart" width="16" height="16">0 Items</a></li> 
+       <li>
+       	<a class="nameUser twitSign userNotLogged" href="/chupa/signup">Sign In</a></li>
+            </ul>
+      
+     
+     
+       
+  
+  <div id="signInBoxT" class="twitSign" style="display: none;"> <!-- popup login!!! -->
+     <div class="signInTtit"></div>                               
+     <img src="/images/fe/arrowPopSignIn.png" class="arrowPopSignIn"> 
+      <form class="signInT" method="post" action="/chupa/signin">
+       <ul class="registerInT">
+         <li>
+           <a href="/socialSignin/facebookLogin" class="fbPopup pulsSignInPopFace popupSocial">Sign in with Facebook</a>
+         </li>
+         <li class="SignInPopLine">
+           <a href="/socialSignin/index" class="pulsSignInPopTwit popupSocial">Sign in with Twitter</a>
+         </li>
+         <li class="SignInPopLineTop">
+           <label>Username<a href="/chupa/forgotUsername" class="link_underline2 fontN floatRight" tabindex="1">Forgot username?</a></label>
+           <input class="txt_formSignPop" type="text" name="LoginUserForm[username]">
+         </li>
+         <li>
+           <label>Password<a href="/chupa/forgotPassword" class="link_underline2 fontN floatRight" tabindex="2">Forgot password?</a></label>
+           <input class="txt_formSignPop" type="password" name="LoginUserForm[password]">
+         </li>
+       </ul>  
+       <div class="rem_formSignPop">
+         <input class="checkboxPop" type="checkbox" value="1" name="option" checked="checked">
+         <label class="rememeberMe">Remember me</label>
+       </div>                                                              
+       <input class="puls_signPop" type="submit" value="Login">
+     
+         <p class="popNoFT"><a href="/chupa/signUp">I don't have a Facebook or Twitter account</a></p>
+      
+     </form>
+     </div>
+        </div>
+ </nav>
 
+  <div id="contentTopNav">
+    <a href="/" class="menu_logo"><img src="/images/fe/logo.png" width="208" height="61"></a>
+    
+    <nav id="TopNav">
+      <ul id="main-nav">
+        <li><a class="main-link menu_appComp" href="/products/index">App Components<img src="/images/fe/menu_arrow.png" width="19" height="10" class="arrow" style="opacity: 0;"></a>
+        	<ul class="sub-links">
+            	<li><a class="link_iOS" href="/products/category/0/iOS/">iOS</a></li>
+              <li><a class="link_and" href="/products/category/3/Android/">Android</a></li>
+              <li><a class="link_titan" href="/products/category/1/Titanium/">Titanium</a></li>
+              <li><a class="link_corona" href="/products/category/4/Corona/">Corona</a></li>
+              <li><a class="link_blackB border0" href="/products/category/5/BlackBerry/">Black Berry</a></li>
+          </ul>
+        </li>
+        <!--
+        <li><a class="main-link menu_tutorial" href="/tutorial/index">Tutorial<img src="/images/fe/menu_arrow.png" width="19" height="10" class="arrow2" ></a>
+        	<ul class="sub-links">
+                              	<li><a class="link_iOS border0" href="/tutorial/index/cat/0/iOS/">iOS</a></li>              <li><a class="link_and border0" href="/tutorial/index/cat/3/Android/">Android</a></li>              <li><a class="border0" href="#"></a></li>               <li><a class="border0" href="#"></a></li>               <li><a class="border0" href="#"></a></li>           </ul>
+        </li>-->
+        <li><a class="main-link menu_resour" href="/resources/index">Resources<img src="/images/fe/menu_arrow.png" width="19" height="10" class="arrow" style="opacity: 0;"></a>
+        	<ul class="sub-links">
+                              	<li><a class="link_iOS " href="/resources/index/platform/1/iOS/">iOS</a></li>              <li><a class="link_and " href="/resources/index/platform/3/Android/">Android</a></li>              <li><a class="link_titan " href="/resources/index/platform/2/Titanium/">Titanium</a></li>              <li><a class="link_corona " href="/resources/index/platform/5/Corona/">Corona</a></li>              <li><a class="link_adobe " href="/resources/index/platform/6/Adobe/">Adobe</a></li>	      <li><a class="link_phoneg border0" href="/resources/index/platform/7/phonegap/">Phonegap</a></li>          </ul>
+        </li>
+        <li><a class="main-link menu_howIt" href="#">How It works<img src="/images/fe/menu_arrow.png" width="19" height="10" class="arrow" style="opacity: 0;"></a>
+        	<ul class="sub-links">
+            	<li><a class="border0" href="#"></a></li>
+              <li><a class="border0" href="#"></a></li>
+              <li><a class="border0" href="#"></a></li>
+              <li><a href="/chupa/purchase_an_item">Purchase an item</a></li>
+              <li><a href="/chupa/sell_your_work">Sell your work</a></li>
+              <li><a class="border0 lastLinkMenu" href="/chupa/help_and_support">Help/Support</a></li>
+          </ul>
+        </li>
+        <li><a class="main-link menu_about" href="#">About Us<img src="/images/fe/menu_arrow.png" width="19" height="10" class="arrow" style="opacity: 0;"></a>
+        	<ul class="sub-links">
+              <li><a class="border0" href="#"></a></li>
+            	<li><a href="/chupa/what_is_chupa">What is Chupa</a></li>
+              <li><a href="/chupa/team">Founding Team</a></li>
+              <li><a href="/chupa/press">Press Releases</a></li>
+              <li><a href="http://www.chupamobile.com/blog">Blog</a></li>
+              <li><a class="border0 lastLinkMenu" href="/chupa/contacts">Contact us</a></li>
+          </ul>
+        </li>
+
+      </ul>
+    </nav>
+<script type="text/javascript">
+		
+	
+$(document).ready(function(){
+  
+	$("#main-nav li a.main-link").hover(function(){
+		$("#main-nav li a.main-link").removeClass("active");												 
+		$(this).addClass("active");			
+                var oldThis = $(this);
+                //$("#sub-link-bar").css({height:'35px'});
+                $("#sub-link-bar").stop(true).animate({
+		  height: "35px"					   
+		},"fast", function(){
+                  $(".sub-links").stop(true).hide();
+                  oldThis.siblings(".sub-links").css({"display":"block"});  
+                });
+                
+	});
+        
+        $(".container").hover(function(){
+          $(".sub-links").css({"display":"none"});
+            $("#sub-link-bar").stop(true).animate({
+              height: "0px"					   
+            },"fast",function(){
+              $("#main-nav li a.main-link").removeClass("active");
+            });		
+  	});
+$(".arrow").css({"opacity":"0"});
+
+
+//Arrow App COMPONENT
+	$("#main-nav li").hover(function(){
+    $(this).find(".arrow").stop().animate({"opacity": "1"}, "fast");	
+},
+function(){
+    $(this).find(".arrow").stop().animate({"opacity": "0"}, "fast");	
+});
+
+});
+</script>
+    <!-- End roundfg -->
+        
+  <!-- End main-handle-->
+ </div>
+
+ <div id="sub-link-bar"></div>
+ </header>
 <div class="container">
 	<div id="content">
 		<div id="content_container">
-  
-		<div id="slider-wrapper">
- 		<div id="slider" class="nivoSlider" style="position: relative; width: 930px; height: 369px; background: url(&quot;/images/visore/1-hero_v2_2.gif&quot;) no-repeat;">
- 			    	<a href="http://www.chupamobile.com/chupa/step1" class="nivo-imageLink" style="display: block;"><img src="/images/visore/1-hero_v2_2.gif" alt="Foto slider" width="930" height="369" style="display: none;"></a>
-    		          	<a href="http://www.chupamobile.com/chupa/signup" class="nivo-imageLink" style="display: none;"><img src="/images/visore/4-visore_hp3.jpg" alt="Foto slider" width="930" height="369" style="display: none;"></a>
-    		      		<div class="nivo-caption" style="display: none; opacity: 0.8;"><p></p></div><div class="nivo-controlNav"><a class="nivo-control active" rel="0">1</a><a class="nivo-control" rel="1">2</a></div></div>
-  </div>
-	<!-- end slider -->
-	
-	<span class="line_1"></span>  
-	<div class="box_int_1">
-		<div class="cont_titolo_box_int_1">
-			<img class="true_box_int_1" src="/images/fe/true.gif" alt="" width="31" height="29">
-			<h2 class="titolo_box_int_1">Quick Setup.</h2>
-    </div>
-		<span class="text_box_int_1">
-    	Sign up now, join the authoring program and start selling instantly.
-            <a class="link_underline" href="/chupa/signup">Get Started Now.</a>
-		</span>
-	</div>
-	<div class="box_int_1">
-		<div class="cont_titolo_box_int_1">
-			<img class="true_box_int_1" src="/images/fe/true.gif" alt="" width="31" height="29">
-			<h2 class="titolo_box_int_1">Selling is Easy.</h2>
-		</div>
-		<span class="text_box_int_1">
-			Earn a 70% commission when your items sell on Chupa. What are you waiting for? Start selling now.
-		</span>
-	</div>
-	<div class="box_int_1">
-		<div class="cont_titolo_box_int_1">
-			<img class="true_box_int_1" src="/images/fe/true.gif" alt="" width="31" height="29">
-			<h2 class="titolo_box_int_1">Always On.</h2>
-		</div>
-		<span class="text_box_int_1">
-			The Always On Sales Platform where your items can be purchased 24h 7d, from people anywhere in the world. Earn money while you sleep. 
-		</span>
-	</div>
-	<div class="box_int_1">
-		<div class="cont_titolo_box_int_1">
-			<img class="true_box_int_1" src="/images/fe/true.gif" alt="" width="31" height="29">
-			<h2 class="titolo_box_int_1">Willing to Freelance?</h2>
-		</div>
-		<span class="text_box_int_1">
-			We bring in a wide audience of visitors. You can self promoting your skills in your personal Author Page and get Extra work from anywhere in the world.
-		</span>
-	</div>
-	<!-- end box int 1 -->	
-	<span class="line_1"></span>
-	<div id="box_2">
-				<div id="content_menu_left_container">
-			<div class="content_int_menu_left_container">
-				<nav class="content_menu_left">
-					<h3 class="title_14">How to start Selling?</h3>
-					<span class="line_2"></span>
-					<ul class="menu_left">
-						<li>
-							<a class="menu-left_link" href="/">What Is Chupa?</a>
-						</li>
-						<li>
-							<a class="menu-left_link" href="/chupa/howto/become-an-author/">Become an Author</a>
-						</li>
-						<li>
-							<a class="menu-left_link" href="/chupa/howto/getting-paid/">Getting Paid</a>
-						</li>
-						<li>
-							<a class="menu-left_link" href="/chupa/howto/files-review-process/">Files Review Process</a>
-						</li>
-						<li>
-							<a class="menu-left_link" href="/chupa/howto/item-purchase-price/">Item Purchase Price</a>
-						</li>
-						<li>
-							<a class="menu-left_link" href="/chupa/howto/upload-your-work/">How to Upload your Work</a>
-						</li>
-					</ul>
-				</nav>
-			</div>
-		</div>		<!--end menu left -->
- 		
-		<div id="content_right_container">
-			<div class="box_int_2">
-				<h2>Privacy Policy</h2>
-				<div class="text_box_int_2">
-<strong>1.Public</strong><br>
-We record only personal information that we consider necessary for the work of the platform, which bring together buyers and sellers.<br>
-When you visit the site we record:<br>
-<ul class="int_home top13">
-<li>the date and time of your visit to the website;</li>
-<li>the length of your session;</li>
-<li>the pages which you have accessed;</li>
-<li>the number of times you access our site within any month;</li>
-<li>The size of file you look at;</li>
-<li>The website which referred you to our website;</li>
-<li>The operating system which your computer uses.</li>
-</ul><br>
-This information is used only for statistical purposes and to bring improvements to the site.<br><br>
-If you ask us feedback you will be asked to send us your information: name, email and telephone.<br><br>
-When you send us this information allows us to record and use them.<br>
-Your purchases and sales will be monitored for statistical purposes.<br><br>
+  <h2 class="tit_cont Top20">Privacy policy</h2>
+  <div class="pad3 Top10 Inter18">
+    <span class="Bold C1">1. Public</span><br>
+    We record only personal information that we consider necessary for the work of the platform, which bring together buyers and sellers.<br>
+    When you visit the site we record:<br>
+    <ul class="int_home top13">
+      <li>the date and time of your visit to the website;</li>
+      <li>the length of your session;</li>
+      <li>the pages which you have accessed;</li>
+      <li>the number of times you access our site within any month;</li>
+      <li>The size of file you look at;</li>
+      <li>The website which referred you to our website;</li>
+      <li>The operating system which your computer uses.</li>
+    </ul><br>
+    This information is used only for statistical purposes and to bring improvements to the site.<br><br>
+    If you ask us feedback you will be asked to send us your information: name, email and telephone.<br><br>
+    When you send us this information allows us to record and use them.<br>
+    Your purchases and sales will be monitored for statistical purposes.<br><br>
 
 
-<strong>2.Buyers and developers </strong><br>
-We collect information from persons who become buyers or developers.<br> 
-This information is used to send them news, information about our activities and in general promotional materials that may be useful for us and for them.<br> 
-We monitor buyers and developers access for statistical purpose.<br>
-If you choose to buy or sell on the site will collect information on sales and purchases for statistical purposes.<br>
-We will collect information about your method of payment:<br>
-<ul class="int_home top13">
-<li>when you make a purchase;</li>
-<li>when you have to be paid for the revenue generated from the sale of your products.</li>
-</ul><br>
-<strong>3.Use of information</strong><br>
-Chupa will use the information recorded for:<br>
-<ul class="int_home top13">
-<li>forwarded important information of any kind;</li>
-<li>contact questionnaires on changes in the service;</li>
-<li>monitor the performance of the site;</li>
-<li>internal administration;</li>
-<li>in other cases according to your instructions.</li>
-</ul><br>
-Chupa will not give, sell or exchange any personal information about you only to a third party unless:<br>
-<ul class="int_home top13">
-<li>you have given your consent to do so;</li>
-<li>required by law.</li>
-</ul><br>
+    <span class="Bold C1">2. Buyers and developers</span><br>
+    We collect information from persons who become buyers or developers.<br> 
+    This information is used to send them news, information about our activities and in general promotional materials that may be useful for us and for them.<br> 
+    We monitor buyers and developers access for statistical purpose.<br>
+    If you choose to buy or sell on the site will collect information on sales and purchases for statistical purposes.<br>
+    We will collect information about your method of payment:<br>
+    <ul class="int_home top13">
+      <li>when you make a purchase;</li>
+      <li>when you have to be paid for the revenue generated from the sale of your products.</li>
+    </ul><br>
+    <span class="Bold C1">3. Use of information</span><br>
+    Chupa will use the information recorded for:<br>
+    <ul class="int_home top13">
+      <li>forwarded important information of any kind;</li>
+      <li>contact questionnaires on changes in the service;</li>
+      <li>monitor the performance of the site;</li>
+      <li>internal administration;</li>
+      <li>in other cases according to your instructions.</li>
+    </ul><br>
+    Chupa will not give, sell or exchange any personal information about you only to a third party unless:<br>
+    <ul class="int_home top13">
+      <li>you have given your consent to do so;</li>
+      <li>required by law.</li>
+    </ul><br>
 
-<strong>4.Access or correction of your information</strong><br>
-You can request to have the information we have recorded about you or change the information that we recorded by emailing support@Chupamobile.com<br><br>
-<strong>5.Disclaimer</strong><br>
-Chupa includes links to other sites, but is not responsible for the privacy practies of linked sites.<br><br>
+    <span class="Bold C1">4. Access or correction of your information</span><br>
+    You can request to have the information we have recorded about you or change the information that we recorded by emailing support@Chupamobile.com<br><br>
+    <span class="Bold C1">5.Disclaimer</span><br>
+    Chupa includes links to other sites, but is not responsible for the privacy practies of linked sites.<br><br>
 
-<strong>6.Amendments to the privacy policy</strong><br>
-Chupa may change this policy. The new policy will be considered active when the change will be notified on the site.<br>
-You will have thirty days to notify us that you do not agree with the new policy.<br><br>
-<strong>7.Marketing communication</strong><br>
-If you no longer wish to receive marketing communications please contact us by sending an e-mail at unsubscribe@Chupamobile.com.<br><br>
-<strong>8.International transfer of information</strong> <br>
-Our servers are located in different countries around the world.<br> 
-By using the site Chupamobile.com you authorize us to forward your information to other jurisdictions outside Italy.<br> 
-				</div>
-			</div>
-		</div><!-- content_right_container -->
-	</div>
-	<!-- end box 2-->
-</div><!-- content_container -->
-	</div><!-- content -->
+    <span class="Bold C1">6. Amendments to the privacy policy</span><br>
+    Chupa may change this policy. The new policy will be considered active when the change will be notified on the site.<br>
+    You will have thirty days to notify us that you do not agree with the new policy.<br><br>
+    <span class="Bold C1">7. Marketing communication</span><br>
+    If you no longer wish to receive marketing communications please contact us by sending an e-mail at unsubscribe@Chupamobile.com.<br><br>
+    <span class="Bold C1">8. International transfer of information</span><br>
+    Our servers are located in different countries around the world.<br> 
+    By using the site Chupamobile.com you authorize us to forward your information to other jurisdictions outside Italy.<br>
+  </div> 
+  <!--END CONTENT CONTEINER-->
+</div> 	</div><!-- content -->
 </div>
 
 <footer>
-	<!--<div id="footer_chupa_container">
-  	<div class="main_footer_single">  
-    	<a href=""><img src="/images/fe/puls_getting_started.png" alt="Getting started" width="234" height="41" /></a>
-            <p class="copyright">&copy;  Chupa Inc.</p>
-    </div>
-    <span class="turn_your_footer"><img src="/images/fe/turn_your_footer.gif" alt="Turn your portfolio pieces into earnings" width="535" height="29"/></span>
-  </div>-->
-  <div id="footer_chupa_container">
-      <div class="main_footer_single_2">  
-                <a href="/chupa/signup"><img src="/images/fe/puls_getting_started.png" alt="Getting started" width="234" height="41"></a>
-               <p class="copyright">© 2011 Chupa Inc.</p>
-      </div>
-      <div class="main_footer_single">  
-        <h4 class="title_3">Menu</h4>
-         <span class="line_footer"></span>
-          <ul class="footer_list">
-             <li>
-              <span class="menu-footer_link"><a rel="nofollow" href="/">What Is Chupa?</a></span>
-             </li>
-             <li>
-              <span class="menu-footer_link"><a rel="nofollow" href="/chupa/howto/become-an-author/">Become an Author</a></span>
-             </li>
-             <li>
-              <span class="menu-footer_link"><a rel="nofollow" href="/chupa/howto/getting-paid/">Getting Paid</a></span>
-             </li>
-             <li>
-              <span class="menu-footer_link"><a rel="nofollow" href="/chupa/howto/files-review-process/">Files Review Process</a></span>
-             </li>
-             <li>
-              <span class="menu-footer_link"><a rel="nofollow" href="/chupa/howto/item-purchase-price/">Item Purchase Price</a></span>
-             </li>
-             <li>
-              <span class="menu-footer_link"><a rel="nofollow" href="/chupa/howto/upload-your-work/">How to Upload your Work</a></span>
-             </li>
-         </ul>
-      </div>
-      <div class="main_footer_single">  
-        <h4 class="title_3">About</h4>
-         <span class="line_footer"></span>
-          <ul class="footer_list">
-           <li>
-              <span class="menu-footer_link"><a href="/chupa/contacts">Contact Us</a></span>
-           </li>
-           <li>
-              <span class="menu-footer_link"><a href="http://www.chupamobile.com/blog/">Blog</a></span>
-           </li>
-         </ul>
-      </div>
-      <div class="main_footer_single"> 
-         <h4 class="title_3">Legal stuffs</h4>
-         <span class="line_footer"></span>
-          <ul class="footer_list">
-           <li>
-              <span class="menu-footer_link"><a href="/chupa/developer_terms_and_conditions">Developer Terms and Conditions</a></span>
-           </li>
-           <li>
-              <span class="menu-footer_link"><a href="/chupa/buyer_terms_and_conditions">Buyers Terms and Conditions</a></span>
-           </li>
-            <li>
-              <span class="menu-footer_link"><a href="/chupa/privacy">Privacy Policy</a></span>
-           </li>
-            <li>
-              <span class="menu-footer_link"><a href="/chupa/user_terms_and_conditions">Users Terms and Conditions</a></span>
-           </li>
-         </ul>
-      </div>
+  <div id="footer_chupa_container" class="positionR">
+         <a class="getStartFooter" href="/chupa/signup"><img src="/images/fe/puls_getting_started.png" alt="Getting started" width="195" height="41"></a>
+             <nav class="main_footer_single">  
+      <h4 class="title_3">App Components</h4>
+       <span class="line_footer"></span>
+        <ul class="footer_list">
+         <li>
+            <a class="menu-footer_link" rel="nofollow" href="/products" title="Browse files">Browse files</a>
+         </li>
+         <li>
+            <a class="menu-footer_link" rel="nofollow" href="/products/category/0/iOS/" title="iOS">iOS</a>
+         </li>
+         <li>
+            <a class="menu-footer_link" rel="nofollow" href="/products/category/3/Android/" title="Android">Android</a>
+         </li>
+         <li>
+            <a class="menu-footer_link" rel="nofollow" href="/products/category/1/Titanium/" title="Titanium">Titanium</a>
+         </li>
+         <li>
+            <a class="menu-footer_link" rel="nofollow" href="/products/category/4/Corona/" title="Corona">Corona</a>
+         </li>
+         <li>
+            <a class="menu-footer_link" rel="nofollow" href="/products/category/5/BlackBerry/" title="BlackBerry">BlackBerry</a>
+         </li>
+         <!--<li>
+            <a class="menu-footer_link" href="faq.html">FAQ</a>
+         </li>-->
+       </ul>
+    </nav>
+    <nav class="main_footer_single">  
+      <h4 class="title_3">Mobile Resources</h4>
+       <span class="line_footer"></span>
+        <ul class="footer_list">
+         <li>
+            <a class="menu-footer_link" rel="nofollow" href="/resources/index" title="Resources">Resources</a>
+         </li>
+         <!--<li>
+            <a class="menu-footer_link" rel="nofollow" href="/tutorial/index" title="Tutorial" >Tutorial</a>
+	 </li>-->
+       </ul>
+    </nav>
+    <nav class="main_footer_single">  
+      <h4 class="title_3">How It Works</h4>
+       <span class="line_footer"></span>
+        <ul class="footer_list">
+         <li>
+            <a class="menu-footer_link" rel="nofollow" href="/chupa/purchase_an_item" title="Purchase an item">Purchase an item</a>
+         </li>
+         <li>
+            <a class="menu-footer_link" rel="nofollow" href="/chupa/sell_your_work" title="Sell your work">Sell your work</a>
+         </li>
+         <li>
+            <a class="menu-footer_link" rel="nofollow" href="/chupa/help_and_support" title="Help/Support">Help/Support</a>
+         </li>
+       </ul>
+    </nav>
+    <nav class="main_footer_single">  
+      <h4 class="title_3">About</h4>
+       <span class="line_footer"></span>
+        <ul class="footer_list">
+         <li>
+            <a class="menu-footer_link" rel="nofollow" href="/chupa/what_is_chupa" title="What is Chupa">What is Chupa</a>
+         </li>
+	<li>
+            <a class="menu-footer_link" rel="nofollow" href="/chupa/team" title="Founding Team">Founding Team</a>
+         </li>
+         
+         <li>
+            <a class="menu-footer_link" rel="nofollow" href="/chupa/press" title="Press Releases">Press Releases</a>
+         </li>
+         <li>
+            <a class="menu-footer_link" rel="nofollow" href="http://www.chupamobile.com/blog/" title="Blog">Blog</a>
+         </li>
+         <li>
+            <a class="menu-footer_link" rel="nofollow" href="/chupa/contacts" title="Contact us">Contact us</a>
+         </li>
+
+       </ul>
+    </nav>
+    <nav class="main_footer_single" style="margin-right:0">  
+      <h4 class="title_3">Legal stuffs</h4>
+       <span class="line_footer"></span>
+        <ul class="footer_list">
+         <li>
+            <a class="menu-footer_link" rel="nofollow" href="/legal/developer_terms_and_conditions" title="Developer Terms and Conditions">Developer Terms and Conditions</a>
+         </li>
+         <li>
+            <a class="menu-footer_link" rel="nofollow" href="/legal/buyer_terms_and_conditions" title="Buyer Terms and Conditions">Buyer Terms and Conditions</a>
+         </li>
+         <li>
+            <a class="menu-footer_link" rel="nofollow" href="/legal/privacy_policy" title="Privacy policy">Privacy policy</a>
+         </li>
+         <li>
+            <a class="menu-footer_link" rel="nofollow" href="/legal/user_terms_and_conditions" title="User Terms and Conditions">User Terms and Conditions</a>
+         </li>
+       </ul>
+    </nav>
+    <nav class="footer_social">
+        <strong>Keep in touch</strong>
+        <a href="http://www.facebook.com/pages/Chupamobile/193587113996137?sk=wall" target="_blank" class="Left10"><img src="/images/fe/ico_fb.png" alt="Facebook logo" width="21" height="20"></a>
+        <a href="http://twitter.com/#!/chupamobile" target="_blank"><img src="/images/fe/ico_tw.png" alt="Twitter logo" width="21" height="20"></a>
+        <a href="https://plus.google.com/108565070025008444604/posts?hl=it" target="_blank"><img src="/images/fe/ico_g+.png" alt="Google plus" width="21" height="20"></a>
+        <a href="/chupa/rss" target="_blank"><img src="/images/fe/ico_rss.png" alt="rss" width="21" height="20"></a>
+      </nav>
+    <p class="copyright">© 2012 ChupaMobile LTD – London, UK</p>
 	  <div class="turn_footer">
-	  	<img src="/images/fe/turn_your_footer.gif" alt="Turn your portfolio pieces into earnings" width="410" height="23">
+	  	<img src="/images/fe/turn_your_footer.gif" alt="turn your portfolio pieces into earnings" width="410" height="23">
 	  </div>
   </div>
-<!--END FOOTER-->
+  
 </footer>
 </div><!-- super_conteiner -->
+<script>
+  var uvOptions = {};
+  (function() {
+    var uv = document.createElement('script'); uv.type = 'text/javascript'; uv.async = true;
+    uv.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'widget.uservoice.com/5aYctq10RfnCN8oIGq6W5A.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(uv, s);
+  })();
+</script>
+
 <script type="text/javascript">
 /*<![CDATA[*/
 jQuery(function($) {
 
-	$("#slider").nivoSlider({
-		effect:"fade",
-		directionNav:false,
-		animSpeed:500,
-		pauseTime:8000
-	});
+$(document).ready(function(){
+	function popup(mylink, windowname,type)
+	{
+	if (! window.focus)return true;
+	var href;
+	if (typeof(mylink) == "string")
+	   href=mylink;
+	else
+	   href=mylink.href;
+	   if(type == "tw")
+		window.open(href, windowname, "width=600,height=580,scrollbars=yes");
+	else
+		window.open(href, windowname, "width=590,height=285,scrollbars=yes");
+	return false;
+	}
 	
+	
+	$(".popupSocial").click(function(){
+		if($(this).hasClass("fbPopup"))
+			return popup(this,"connection","fb");
+		else
+			return popup(this,"connection","tw");
+	});
+});
+
 });
 /*]]>*/
 </script>
+
 
 </body></html>
