@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huntington.com privacy policy that was archived on 2011-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111017100441id_/https%3A//www.huntington.com/footer/HNB3800.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huntington.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509212944id_/https%3A//www.huntington.com/footer/HNB3800.htm) for the most accurate reproduction.*
 
 # Huntington Privacy Policy
 
@@ -11,7 +11,7 @@
 This Online Privacy Policy ("Online Policy") applies to The Huntington National Bank, its parent Huntington Bancshares Incorporated and their subsidiaries and affiliates (collectively described as "Huntington," "we," or "us"), this website and any Huntington website that links to this Online Policy (each a "Site, and collectively "Sites"). This Online Policy specifically applies to Huntington's online collection, use and disclosure of information collected from visitors during use of the Sites, such as for transactional purposes or through online tracking technology, including cookies or action tags. This Site is operated in and controlled from the United States of America. This Online Policy should be read together with the "What Does Huntington Do with Your Personal Information" Privacy Notice ("Privacy Notice") below, which, among other things, describes how Huntington may share personal information gathered from you and how you can opt-out or limit certain types of information sharing. 
 
 **Effective Date**   
-The Online Policy is effective as of 5/11/2011
+The Online Policy is effective as of 5/11/2011.
 
 **Changes to the Online Policy**   
 We reserve the right to amend the Online Policy at any time to address future developments of Huntington, the Site or changes in industry or legal trends. We will post the revised Online Policy on the Site or announce the change on the Site's homepage. If we make changes to the Online Policy, we will revise the "Effective Date" section above. Any changes to this Online Policy will become effective upon the posting of the revised Online Policy on the Site. By continuing to use the Site following such changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Online Policy, as it may be amended from time to time, in whole or in part, please do not continue using this Site. If you have any questions or comments about the Online Policy, please feel free to contact us at [privacy@huntington.com](mailto:privacy@huntington.com).
