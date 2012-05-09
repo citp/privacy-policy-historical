@@ -1,21 +1,20 @@
-> *The following text is extracted and transformed from the iii.co.uk privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510140751id_/http%3A//www.iii.co.uk/about/%3Ftype%3Dlegal%26subtype%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iii.co.uk privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509131523id_/http%3A//www.iii.co.uk/privacy) for the most accurate reproduction.*
 
-# Interactive Investor - About us
+# Privacy Policy | Interactive Investor
 
 Version: 16 August 2007
 
 ### Introduction
 
   1. We take our obligations under the Data Protection Act 1998 and all related regulations ("the Act") very seriously and have taken steps to ensure compliance with the provisions of the Act.
-  2. This Privacy Policy sets out the principles governing our use of your Personal Data. By registering to use the services available on our website (the "Site") and by using the Site generally, you agree to the principles set out below. Defined terms in this Privacy Policy have the same meanings as in the [General Site Conditions](https://web.archive.org/about/legal) and the Act.
+  2. This Privacy Policy sets out the principles governing our use of your Personal Data. By registering to use the services available on our website (the "Site") and by using the Site generally, you agree to the principles set out below. Defined terms in this Privacy Policy have the same meanings as in the [General Site Conditions](https://web.archive.org/terms) and the Act.
 
 
 
 ### What Personal Data do we collect and why
 
   3. When you register and use the Site, we will ask you to provide certain data, such as your contact details and demographic information. We may supplement the information that you provide us with information we receive from our Service Providers and/or other third parties.
-  4. The principal purposes for which we process and store your Personal Data are:
-
+  4. The principal purposes for which we process and store your Personal Data are: 
     * to allow you to personalise services provided via the Site (for example, allowing you to create and customise your own portfolios);
     * to speed up the application process for Trading Services (for example, by collecting personal details we can pre-populate new applications and other forms on the Site saving you time in filling in those details);
     * to monitor, improve and administer the Site and the services provided on the Site;
@@ -26,11 +25,10 @@ Version: 16 August 2007
     * to enable us to comply with our legal and regulatory obligations.
     * to contact you to ensure customer satisfaction in respect of our role as a site provider and assist you in getting the best value from our service.
 
-Full details of the purposes are set out in our Data Protection registration.
+Full details of the purposes are set out in our Data Protection registration. 
 
   5. As part of our customer service we may also share your Personal Data with other companies so that we can provide you with appropriate information about our or other company's products and selected services. You will be able to indicate on the Site if you do not wish to receive such information. You may also notify us at any time on the "My Profile" page on the Site or by contacting the Interactive Investor Contact Centre on 0845 88 00 267 if you decide you do not want to receive such information.
-  6. If you decide you would rather not receive email communications on selected products and selected services then you can unsubscribe from these by:
-
+  6. If you decide you would rather not receive email communications on selected products and selected services then you can unsubscribe from these by: 
     * using the ‘unsubscribe’ link in emails; or
     * by going to ‘Newsletter subscription’ section of ‘My Account’.
 
@@ -63,9 +61,14 @@ Full details of the purposes are set out in our Data Protection registration.
 
 ### Obtaining copies of and changing your Personal Data
 
-  16. In the event that you wish to see a copy of your Personal Data held by us please visit the "My Profiles" page on the Site or write to:
+  16. In the event that you wish to see a copy of your Personal Data held by us please visit the "My Profiles" page on the Site or write to: 
 
-The Interactive Investor Data Protection Officer Interactive Investor Trading Limited 21 Mansell Street, London EC1 8AA 
+The Interactive Investor Data Protection Officer  
+Interactive Investor Trading Limited  
+21 Mansell Street,  
+London  
+EC1 8AA
+
   17. We will amend or delete any Personal Data relating to you which is found to be incorrect or not relevant in accordance with the Act. If you are aware of any changes that should be made to your Personal Data please visit the "My Profiles" page on the Site or otherwise notify the Interactive Investor Contact Centre on 0845 88 00 267 as soon as possible.
 
 
@@ -87,6 +90,6 @@ You can contact us by:
 
   * By telephone: 0845 88 00 267
   * By writing to us at: Interactive Investor, Standon House, 21 Mansell Street, London E1 8AA
-  * By email: help@iii.co.uk
+  * By email: [help@iii.co.uk](mailto:help@iii.co.uk)
 
 
