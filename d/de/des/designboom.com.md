@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the designboom.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210052847id_/http%3A//www.designboom.com/weblog/cat/9/view/12756/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designboom.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509035041id_/http%3A//www.designboom.com/weblog/cat/9/view/12756/privacy.html) for the most accurate reproduction.*
 
 # privacy
-
-**privacy**
 
 ****designboom recognizes the importance of protecting the privacy of all information  
 provided by users of our web site, subscribers to our on-line education and events,   
@@ -53,9 +51,6 @@ we use reasonable precautions to protect our users' personal information
 and to store it securely. the servers on which we store personally   
 identifiable information are kept in a secure environment.
 
-|   
----  
-|  |  |   
-|  |  |   
-  
-**comments:**
+© copyrights 2000 - 2012 designboom, all rights reserved. all material published remains the exclusive copyright of designboom.   
+no contents, including text, photographs, videos, etc. may be reproduced in whole or in part without the written consent of designboom. in addition,   
+no material or contents may be reproduced on the world wide web by techniques of mirroring, framing, posting, etc. without the written consent of designboom. 
