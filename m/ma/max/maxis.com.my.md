@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxis.com.my privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205954id_/http%3A//www.maxis.com.my/personal/general/tnc_general_ps.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxis.com.my privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509221954id_/http%3A//www.maxis.com.my/personal/general/tnc_general_ps.asp) for the most accurate reproduction.*
 
 # Maxis - Personal - Terms and Conditions
 
