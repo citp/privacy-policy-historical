@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the musiccitynetworks.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126232304id_/http%3A//musiccitynetworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musiccitynetworks.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509170032id_/http%3A//www.musiccitynetworks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | musiccitynetworks
+# Privacy Policy | Music City Networks
 
 **Privacy Policy**
 
@@ -40,5 +40,13 @@ The websites have procedural security measures in place to protect the loss, mis
 **4\. A Special Note About Children**  
 This website is a general audience site and is not directed to or intended for use by children under the age of 13.  To ensure compliance with federal law, this website does not knowingly collect or maintain personal information provided by children under the age of 13.  If a child under the age of 13 has provided personal information in violation of the website access restrictions, a parent or guardian of that child must contact us immediately at [info@MusicCityNetworks.com](mailto://info@musiccitynetworks.com/) so we can promptly remove such information from our records. 
 
-**5\. Contacting Us** **  
+**5.** **Your California Privacy Rights**  
+California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to:
+
+**Online Privacy Coordinator**  
+MusicCityNetworks  
+209 Tenth Avenue South, Suite 400  
+Nashville, TN 37203
+
+**6.** **Contacting Us** **  
 ** If you have any questions about this Privacy Statement, the practices of this websites, or your dealings with these websites, you may email us at [info@MusicCityNetworks.com ](mailto://info@musiccitynetworks.com/).
