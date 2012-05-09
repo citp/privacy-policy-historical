@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the customerlobby.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213123219id_/http%3A//www.customerlobby.com/index/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customerlobby.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509224239id_/http%3A//www.customerlobby.com/index/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Customer Lobby (866) 718-9549
 
@@ -28,11 +28,11 @@ We reserve the right to disclose your Personal Information as required by law an
 
 Please note that we may share non-personally-identifiable information (such as anonymous usage data, referring/exit pages and URLs, number of clicks, etc.) with third-parties so that they can understand usage patterns on our Site and assist us both in enhancing our service and improving your experience.
 
-### Communications from Customer Lobby
+### Communications from Customer Lobby and the Companies You Review
 
-Based upon the information you provide us, we will send you a welcoming email to verify your email address, and, if you provided us with a mailing address or phone number, we may contact you via mail or telephone. We will communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We may also use your email address to respond to questions from you, provide information about the Site, invite you to participate in new services and research programs, and/or inform you of significant changes to this Privacy Policy. We will also send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, to notify you of Site maintenance, we might send you an email. If your contact information is outdated or inaccurate, we may not be able to send you emails or notify you about changes to this Privacy Policy.
+Based upon the information you provide us, we will send you a welcoming email to verify your email address and may contact you via mail or telephone. We will communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We may also use your email address to respond to questions from you, provide information about the Site, invite you to participate in new services and research programs, and/or inform you of significant changes to this Privacy Policy. We will also send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, to notify you of Site maintenance, we might send you an email. If your contact information is outdated or inaccurate, we may not be able to send you emails or notify you about changes to this Privacy Policy.
 
-When you submit a review form, we may contact you on behalf of a review reader that has a question or comment regarding your review that they have submitted using our Ask the Reviewer™ feature.
+When you submit a review form, (i) we may contact you on behalf of a review reader that has a question or comment regarding your review that they have submitted using our Ask the Reviewer™ feature; (ii) we will share your contact information with the company you reviewed and they may contact you directly; and (iii) we may contact you on behalf of the company you reviewed with promotional offers and other communication.
 
 ### Security
 
