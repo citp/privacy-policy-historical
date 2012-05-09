@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educationcity.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203230751id_/http%3A//us.educationcity.com/us/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationcity.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509233148id_/http%3A//us.educationcity.com/us/content/privacy-policy) for the most accurate reproduction.*
 
 # Education City Privacy Policy
 
