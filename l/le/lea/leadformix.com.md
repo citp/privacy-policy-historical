@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadformix.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206150205id_/http%3A//www.leadformix.com/trust-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadformix.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510001932id_/http%3A//www.leadformix.com/trust-privacy-policy.html) for the most accurate reproduction.*
 
 # Trust : Privacy Policy
 
@@ -54,4 +54,4 @@ LeadFormix reserves the right to change this Privacy Statement.  All amended te
 
 #### 7\. Contacting Us
 
-Questions regarding this Privacy Statement should be directed to LeadFormix Privacy by mailing LeadFormix Privacy, 2975 Bowers Avenue, Suite 323, Santa Clara, California 95051.  You can also reach LeadFormix by phone at (408) 988-8070.
+Questions regarding this Privacy Statement should be directed to LeadFormix Privacy by mailing LeadFormix Privacy, 6200 Stoneridge Mall Road, Suite 500,Pleasanton, CA 94588.  You can also reach LeadFormix by phone at 925-251-2283.
