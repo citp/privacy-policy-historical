@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetruthaboutcars.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110052527id_/http%3A//www.thetruthaboutcars.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetruthaboutcars.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509135454id_/http%3A//www.thetruthaboutcars.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Truth About Cars
 
@@ -67,3 +67,5 @@ VerticalScope may at any time, without notice to you and in its sole discretion,
 **Questions or Suggestions**
 
 If you have questions or suggestions about this privacy statement, or your own personal information, please [contact us](https://web.archive.org/contact/).
+
+### Avoidable Contact Articles
