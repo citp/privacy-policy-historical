@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobs.af privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123104315id_/http%3A//www.jobs.af/page.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs.af privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509210951id_/http%3A//www.jobs.af/privacy) for the most accurate reproduction.*
 
-# Jobs in Afghanistan - Jobs.af : Privacy Policy
+# Jobsaf - Jobs.af Privacy Policy
 
 These days, we all need to be smart about the way we use our own personal data. Your privacy is taken very seriously at Jobs.af. Jobs.af strives to provide the safest possible environment for you to search and apply to jobs. Jobs.af Precautions
 
@@ -40,3 +40,9 @@ You never need to provide data to search for jobs. Logging into Jobs.af is alway
 **Post a Resume**
 
 Posting your resume on Jobs.af puts you in front of hundreds of employers with open positions each day. When you post your resume, we automatically create a registration for you using the email address and password that you supply. When you return to the site in the future you will use that same email address and password to access and edit your existing resume.
+
+Jobs.af is Afghanistan's first one-stop jobs portal for employers and jobseekers to connect within the site's comprehensive database. Jobs.af presents a complete range of recruitment and career planning solutions by offering a fast and easy method for jobseekers to find jobs for free and employers to find quality candidates cost effectively. Jobs.af is the ideal place for employers to advertise their job vacancies and jobseekers to find jobs. Jobs.af brings you the latest job offers announced in Afghanistan by UN, Government, International development agencies, Aid Agencies, Private Companies, MNCs in different industries.
+
+Disclaimer: Jobs.af, Jobs.com.af and NETLINKS are registered trademark of NETLINKS Ltd licensed under Afghanistan Investment Support Agency (AISA) License # D-21519. Jobs.af is in no ways associated with Agency Coordinating Body for Afghan Relief (ACBAR).
+
+**Copyright 2012 Jobs.af. All Rights Reserved**
