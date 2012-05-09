@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dhgate.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103070258id_/http%3A//help.dhgate.com/help/buyer_about_usen.php%3Fcatpid%3Dg4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dhgate.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509230335id_/http%3A//help.dhgate.com/help/buyer_about_usen.php%3Fcatpid%3Dg4) for the most accurate reproduction.*
 
 # DHgate - China Wholesale Marketplace - About Us
 
