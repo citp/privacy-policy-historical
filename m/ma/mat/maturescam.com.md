@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maturescam.com privacy policy that was archived on 2010-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100924222757id_/http%3A//www.maturescam.com/policy.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maturescam.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509212452id_/http%3A//www.maturescam.com/policy.php%23privacy) for the most accurate reproduction.*
 
 # Free Live Sex - Hot Live Sex Shows!... MaturesCam..
 
