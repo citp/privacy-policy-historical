@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the finspreads.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101124555id_/http%3A//www.finspreads.com/Footer_links/Privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finspreads.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509234625id_/http%3A//www.finspreads.com/Footer_links/Privacy_policy.aspx) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy - Spread Betting - Finspreads UK
 
   1. Finspreads is subject to data protection legislation in the UK. We are therefore committed to protecting your privacy and maintaining the security of any personal information that we receive from you. If our Privacy Policy changes, we will place an updated version on this page. 
   2. The purpose of this statement is to explain to you what personal information we collect and how we and our associated companies may use it. 
