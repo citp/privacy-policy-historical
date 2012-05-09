@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthclassmail.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225020613id_/http%3A//www.earthclassmail.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthclassmail.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509215155id_/http%3A//www.earthclassmail.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Earth Class Mail
 
