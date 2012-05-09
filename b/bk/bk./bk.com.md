@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the bk.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221100518id_/http%3A//www.bk.com/en/us/company-info/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bk.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509234749id_/http%3A//www.bk.com/en/us/company-info/legal/privacy-policy.html) for the most accurate reproduction.*
 
-# BURGER KING® – Privacy Policy
+# Privacy Policy | BURGER KING®
 
-### BURGER KING CORPORATION GENERAL ONLINE PRIVACY POLICY Last Revised: October 23, 2009
+### BURGER KING CORPORATION GENERAL ONLINE PRIVACY POLICY Last Revised: December 23, 2011
 
-Burger King Corporation is sensitive to the privacy concerns of visitors to its websites. The purpose of this General Online Privacy Policy is to describe what types of personal information we collect from visitors to Burger King Corporation’s website, http://www.bk.com or any other site operated by Burger King Corporation or by a Service Provider on behalf of Burger King Corporation (collectively the “BKC Websites”), the purposes for which we use the information, what rights you have regarding your personal information, and to whom and under what circumstances we disclose your personal information. This General Online Privacy Policy applies to our information collection, use, and disclosure practices for website visitors ages 13 and over. Our [Children’s Online Privacy Policy](http://www.clubbk.com/Legal/ChildrensPolicy.aspx) describes our information collection, use, and disclosure practices for visitors to any BKC Website directed to children under the age of 13.
+Burger King Corporation is sensitive to the privacy concerns of visitors to its websites. The purpose of this General Online Privacy Policy is to describe what types of personal information we collect from visitors to Burger King Corporation’s website, http://www.bk.com or any other site operated by Burger King Corporation or by a Service Provider on behalf of Burger King Corporation, including without limitation www.bkdelivers.com (collectively the “BKC Websites”), the purposes for which we use the information, what rights you have regarding your personal information, and to whom and under what circumstances we disclose your personal information. This General Online Privacy Policy applies to our information collection, use, and disclosure practices for website visitors ages 13 and over. Our [Children’s Online Privacy Policy](http://www.clubbk.com/Legal/ChildrensPolicy.aspx) describes our information collection, use, and disclosure practices for visitors to any BKC Website directed to children under the age of 13.
 
 ### WEB SITE OPERATORS
 
-BKC Websites are operated by Burger King Corporation. Certain companies including, but not limited to, advertising, promotional, internet and public relations service providers (collectively, “Service Providers”) assist BKC with respect to its websites. In this Online Privacy Policy, Burger King Corporation and Service Providers are referred to collectively as “we” or “our”. Burger King Corporation is the sponsor of a BKC Website. Service Providers will develop and/or host BKC Websites, provide other services such as customer service support for BKC Websites or analysis of the performance of BKC Websites. If you have any questions regarding this General Online Privacy Policy or any other matter in connection with a BKC Website, please contact Burger King Corporation's Consumer Relations Department at (305) 378-3000.
+BKC Websites are operated by Burger King Corporation. Certain companies including, but not limited to, advertising, promotional, internet and public relations service providers (collectively, "Service Providers") assist BKC with respect to its websites. In this Online Privacy Policy, Burger King Corporation and Service Providers are referred to collectively as "we" or "our". Burger King Corporation is the sponsor of a BKC Website. Service Providers will develop and/or host BKC Websites, provide other services such as customer service support for BKC Websites or analysis of the performance of BKC Websites.
 
 ### COLLECTION OF INFORMATION
 
 #### Collection and Use of Non-Personal Information
 
-Certain non-personal information about BKC Website visits is recorded by the standard operation of the Internet servers on which BKC Websites are hosted. The non-personal information that we collect may include IP addresses, the type of operating system in use (e.g., Macintosh or Windows), the type of browser being used by the visitor (e.g., Netscape or Internet Explorer), the number and frequency of visitors to BKC Websites, and the site the visitor was on immediately before visiting the BKC Website. When you view BKC Websites or use website features, we may collect certain non-personal information from you by using small text files known as cookies. We use cookies for several purposes, such as to recognize visitors to our websites, to determine the number of unique visitors to our websites, to ascertain which website pages they visit, and to conduct internal reviews of our site. We may associate information we collect via cookies with the personal information we collect online. We may use the combined information, for example, to personalize your experience on the website or to personalize marketing communications we may send to you. We explain the personal information we collect online in the “Collection of Personal Information” section of this Privacy Policy. You are always free to decline cookies, but in doing so you may not be able to use certain features on our website. The “help” segment of the toolbar on most browsers will tell you how to configure your browser to not accept new cookies, how to have the browser inform you when you receive a new cookie, and how to erase cookies from your hard drive.
+Certain non-personal information about BKC Website visits is recorded by the standard operation of the Internet servers on which BKC Websites are hosted. The non-personal information that we collect may include IP addresses, the type of operating system in use (e.g., Macintosh or Windows), the type of browser being used by the visitor (e.g., Netscape or Internet Explorer), the number and frequency of visitors to BKC Websites, and the site the visitor was on immediately before visiting the BKC Website. When you view BKC Websites or use website features, we may collect certain non-personal information from you by using small text files known as cookies. We use cookies for several purposes, such as to recognize visitors to our websites, to determine the number of unique visitors to our websites, to ascertain which website pages they visit, and to conduct internal reviews of our site. We may associate information we collect via cookies with the personal information we collect online. We may use the combined information, for example, to personalize your experience on the website or to personalize marketing communications we may send to you. We explain the personal information we collect online in the “Collection of Personal Information” section of this Privacy Policy. You are always free to decline cookies, but in doing so you may not be able to use certain features on our website. The "help" segment of the toolbar on most browsers will tell you how to configure your browser to not accept new cookies, how to have the browser inform you when you receive a new cookie, and how to erase cookies from your hard drive.
 
 We may also use web beacons to count page visits by our users, to access our cookies, and otherwise to improve your experience on BKC Websites. If you have registered to receive emails from us, we may also use web beacons in our emails to let us know which emails you have opened and acted upon, allowing us to gauge the effectiveness of our communications and marketing campaigns. If you would like to opt-out of these emails, please follow the instructions in the email.
 
@@ -50,16 +50,23 @@ By visiting a BKC Website, you are agreeing to the practices described in this G
 
 ### CONTACT US
 
-If you have any questions, comments or concerns regarding our General Online Privacy Policy and/or practices, please contact us at the following mailing address or telephone number:
+If you have any questions regarding this General Online Privacy Policy or any other matter in connection with a BKC Website, please contact BKC Guest Relations:
 
 ### Mailing Address:
 
 Burger King Corporation  
-Consumer Relations Department  
+Guest Relations Program  
 5505 Blue Lagoon Drive  
-Miami, Florida 33126  
-Phone: 305-378-3000
+Miami, Florida 33126
 
-Effective Date: October 23, 2009
+### Web:
+
+www.bk.com/contactus
+
+### Phone:
+
+1-866-394-2493 
+
+Effective Date: December 23, 2011
 
 [Click here for the most recent prior version of this Privacy Policy.](https://web.archive.org/en/us/company-info/legal/privacy-policy-previous.html)
