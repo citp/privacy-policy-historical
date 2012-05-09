@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationbuilder.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206104329id_/http%3A//nationbuilder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationbuilder.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509204345id_/http%3A//nationbuilder.com/privacy) for the most accurate reproduction.*
 
 # NationBuilder privacy policy
 
@@ -52,7 +52,7 @@ Except as otherwise described in this Privacy Policy, 3dna will not disclose per
 
 3dna cares about the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to 3dna or guarantee that your information on the Service may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. Your privacy settings may also be affected by changes to the functionality of NationBuilder’s distributors, such as social networks. 3dna is not responsible for the functionality or security measures of any third party.
 
-To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from 3dna, at all times.
+To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from 3dna, at all times. NationBuilder complies with the U.S.-EU and U.S.-Swiss Safe Harbor principles and is self-certified. Our Safe Harbor Privacy Policy can be reviewed [here](https://web.archive.org/safeharbor).
 
 **Compromise of Personal Information**
 
@@ -79,6 +79,10 @@ It is our policy to provide notifications, whether such notifications are requir
 If we change our privacy policies and procedures, we will post those changes on the Service to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at [privacy@nationbuilder.com](mailto:privacy@nationbuilder.com), or send mail to:
+
+We Self-Certify Compliance with:
+
+[](https://web.archive.org/safeharbor)
 
 NationBuilder   
 Attn: Jim Gilliam   
