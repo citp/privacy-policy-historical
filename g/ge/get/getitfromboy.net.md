@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the getitfromboy.net privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108221020id_/http%3A//getitfromboy.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getitfromboy.net privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509060051id_/http%3A//getitfromboy.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Showbiz? Get It From Boy!
-
-Browse >
-
-[Home](http://getitfromboy.net/ "Browse to: Home") / Privacy Policy 
-
-  
-
+# Privacy Policy
 
 This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Continued access of the Website by you will constitute your acceptance of any changes or revisions to the Privacy Policy.
 
@@ -29,4 +22,4 @@ This Web site contains links to other sites. Please be aware that we are not res
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.google.com/privacy_ads.html).
 
 **Contact Information**  
-If users have any questions or suggestions regarding our privacy policy, please contact us at:  _ **boy@getitfromboy.net**_
+If users have any questions or suggestions regarding our privacy policy, please contact us at: _**boy@getitfromboy.net**_
