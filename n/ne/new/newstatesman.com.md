@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newstatesman.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205200648id_/http%3A//www.newstatesman.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newstatesman.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509194343id_/http%3A//www.newstatesman.com/page/privacy-policy) for the most accurate reproduction.*
 
 # New Statesman - Privacy Policy
 
@@ -30,8 +30,9 @@ The information about you as an identifiable individual, including contact detai
 
 ### Cookies
 
-We use cookies to help personalise your use of our sites. A cookie is a small piece of information sent to your computer's hard drive by the web server so that our website can remember who you are. This information may include information relating to your use of our sites, information about your computer such as the computer's IP address and browser type, demographic data and, if you arrived at our site via a link from third party site, the URL of the linking page. If you are a registered user or subscriber this may include your name and email address for verification purposes.   
-We use information from cookies for purposes which may include: 
+We use cookies to help personalise your use of our sites. A cookie is a small piece of information sent to your computer's hard drive by the web server so that our website can remember who you are. This information may include information relating to your use of our sites, information about your computer such as the computer's IP address and browser type, demographic data and, if you arrived at our site via a link from third party site, the URL of the linking page. If you are a registered user or subscriber this may include your name and email address for verification purposes.
+
+We use information from cookies for purposes which may include:
 
   * identifying returning users, registrants and subscribers and to allow subscribers to be presented with a personalised version of the site
   * enabling you to move more easily around our site
@@ -60,7 +61,8 @@ A: We only share personal information about you with third parties whom we have 
 If you tell us that you do not want us to use your details, then data about your use of the website would then only form part of aggregated statistics and would not be related to you as an individual.
 
 Q: "What do I do if I am not happy for you to share information about me with others?"
-    A: You may not wish us to share personal details about you with third parties outside the New Statesman, or to use your information in the other ways we have described in this Privacy Policy. You can e-mail us at [info@newstatesman.co.uk](mailto:info@newstatesman.co.uk) at any time to let us know of any objections you may have to how we use or disclose your data. In any event your personal details may be shared with third party organisations we have contracted to provide services to us, on an agency basis, which include processing data. We may also have to release information (which could include the contents of e-mail communications between any persons) because of a legal requirement on us or pursuant to a court order. 
+    A: You may not wish us to share personal details about you with third parties outside the New Statesman, or to use your information in the other ways we have described in this Privacy Policy. You can e-mail us at [info@newstatesman.co.uk](mailto:info@newstatesman.co.uk) at any time to let us know of any objections you may have to how we use or disclose your data. In any event your personal details may be shared with third party organisations we have contracted to provide services to us, on an agency basis, which include processing data. We may also have to release information (which could include the contents of e-mail communications between any persons) because of a legal requirement on us or pursuant to a court order.  
+
 
 ## International transfer of personal data
 
