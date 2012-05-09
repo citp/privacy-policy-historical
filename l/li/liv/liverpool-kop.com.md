@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the liverpool-kop.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201215818id_/http%3A//www.liverpool-kop.com/2007/11/contribute-to-site.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liverpool-kop.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509224359id_/http%3A//www.liverpool-kop.com/2007/11/contribute-to-site.html) for the most accurate reproduction.*
 
-# Privacy Policy | Liverpool-Kop.com | Liverpool FC News, features, statistics and analysis
-
-###  [Privacy Policy](http://www.liverpool-kop.com/2007/11/contribute-to-site.html)
+# Privacy Policy | Liverpool-Kop.com
 
 Liverpool-Kop knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy. 
 
@@ -71,5 +69,5 @@ If you have any questions about this policy, please contact the Editor:
 
 * * *
 
-YOU MAY ALSO LIKE...  
+  
 
