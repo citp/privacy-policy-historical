@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nybits.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104184056id_/http%3A//www.nybits.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nybits.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509213841id_/http%3A//www.nybits.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy -- NY Bits
 
@@ -14,22 +14,21 @@ A cookie is a piece of data stored on the user's computer tied to information ab
 
 ## Third Party Advertising
 
-The ads appearing on this Web site may be delivered through our business partners, including Google AdSense, Commission Junction, LinkShare and other third-party networks. In the course of serving advertisements to this site, our partners may place or recognize a unique cookie in your browser. This information is used to serve ads to you. 
+The ads appearing on this Web site may be delivered through our business partners, including Google AdSense, Media.net and other third-party networks. In the course of serving advertisements to this site, our partners may place or recognize a unique cookie in your browser. This information is used to serve ads to you. 
 
 ## Third Party Cookies
 
-Some of our advertising partners may use cookie information to serve you ads tailored to your interests. 
-
-Note, however, that Gromco, Inc has no access to or control over these cookies. This privacy statement only covers the use of cookies by Gromco, Inc and does not cover the use of cookies by any advertisers. 
+Some of our advertising partners may use cookie information to serve you ads tailored to your interests. Gromco, Inc has no access to or control over these cookies. This privacy statement only covers the use of cookies by Gromco, Inc and does not cover the use of cookies by any 3rd party advertisers. 
 
 For more information on Google's use of cookies, please consult:   
 [www.google.com/privacy.html](http://www.google.com/privacy.html)
 
-For more information on Commission Junction's cookie policy, please consult:   
-[www.cj.com/privacy.html](http://www.cj.com/privacy.html)
+For more information on Casale Media's cookie policy, please consult:   
+<http://casalemedia.com/privacy/>
 
-For more information on LinkShare's cookie policy, please consult:  
-[www.linkshare.com/company/privacy.shtml](http://www.linkshare.com/company/privacy.shtml)
+For more information on Pointroll's cookie policy, please consult: **<https://wiki.pointroll.com/pages/viewpage.action?pageId=149328415> **
+
+**
 
 ## Discussion Boards
 
@@ -46,3 +45,5 @@ Though we make every effort to preserve user privacy, Gromco may need to disclos
 ## Security of Data
 
 Gromco has taken measures to protect the loss, misuse or alteration of information under our control. Gromco's networking systems include standard networking equipment designed to prevent unauthorized access to any information stored within our network. All information is regularly backed up and copies are stored at a secure location. 
+
+**
