@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gigsalad.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229042802id_/http%3A//www.gigsalad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigsalad.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509094716id_/http%3A//www.gigsalad.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Gig Salad
 
