@@ -1,59 +1,106 @@
-> *The following text is extracted and transformed from the gomezpeerzone.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130091432id_/http%3A//www.gomezpeerzone.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomezpeerzone.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509075155id_/http%3A//www.gomezpeerzone.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy | Gomez PEER Zone
 
-**Information Collection and Use**  
-Gomez, Inc. is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Gomez, Inc. collects information from our users at several different points on our website. Registration will be required to access certain portions of our website, but is not required to use this website. 
+## Our commitment to privacy
 
-**Reward Programs**  
-Participants in the Gomez PEER program may be eligible to participate in reward programs that allow users to earn money. Any such payments to users will be issued through a third-party payment fulfillment provider. Gomez's third-party payment fulfillment providers are PayPal, Monyebookers, and Alipay. To enable the providers to properly issue payments to users, Gomez will disclose the e-mail address of eligible users and the cash amount to be paid. Because this privacy policy only addresses the practices of Gomez, and because Gomez cannot govern the practices of third parties, we urge you to read the privacy policy of our third party providers.
+Compuware Corporation recognizes your right to confidentiality and is committed to protecting your privacy. This privacy statement applies solely to information collected by Compuware-owned web sites.
 
-**Referral Programs**  
-When you sign up for a Gomez PEER account, you will have the ability to [refer your friends](https://web.archive.org/web/20111130091432id_/http%3A//www.gomezpeerzone.com/Refer.aspx) to the program. If people you refer subsequently join the Gomez PEER program, indicate you as the referrer, and meet the eligibility requirements, you will be eligible for a cash referral bonus. Please use our referral program responsibly.
-
-**Cookies**  
-Cookies may be used on this site to allow for movement between secure sections. A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site.
-
-**Log Files**  
-We use IP addresses to analyze trends, administer the site, track users' movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
-
-**Sharing**  
-We will share aggregated demographic information with our partners and/or customers. This is not linked to any personal information that can identify any individual person. For customers that order Gomez's peerReview service using a credit card, we must share the credit card information with a bank card merchant service provider (RBC Centura Bank), the appropriate credit card clearinghouse (Visa, MasterCard, and American Express), and an online payment processing service (VeriSign) in order to process the transaction. Gomez never stores or shares the credit card information with any other third parties.
-
-**Links**  
-This website contains links to other sites. Please be aware that Gomez, Inc. is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this Website. 
-
-**Mailing List**   
-If a user wishes to subscribe to our mailing list, we ask for contact information such as name and e-mail address. From time to time, our site may request feedback from users via surveys. Participation in these surveys is completely voluntary and the user therefore has a choice whether or not to disclose this information. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. Please see our "Choice/Opt-out" below. 
-
-**Security**  
-Gomez takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. When our registration/login forms ask users to enter sensitive information (such as account information), that information is encrypted and is protected with the most widely used encryption software in the industry - SSL. While on a secure page, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'. To learn more about SSL, follow this link [www.ssl.com](http://www.ssl.com/). 
-
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user information off-line. All of our users' information is restricted in our offices and our service provider's offices. Only employees who need the information to perform a specific job (for example, our technical team or a customer service representative) are granted access to personally identifiable information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment. 
-
-If you have any questions about the security at our website, please visit our [Contact Us](https://web.archive.org/web/20111130091432id_/http%3A//www.gomezpeerzone.com/Contact.aspx) page. 
-
-**Special Offers**  
-We send all registered Gomez PEER users a welcoming e-mail to verify password and username. We may occasionally send registered users information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out below. 
-
-**Administrative Updates**  
-We also send administrative updates to registered Gomez PEER users, and customers of Gomez's peerReview service. We communicate with the user to provide requested services and in regards to issues relating to their account via e-mail. Members are not able to unsubscribe from administrative updates, which contain important information about the service. Administrative update e-mails will include information such as important software and site upgrades, system status information and scheduled downtime. Administrative update e-mails do not contain advertising information. 
-
-**Correction/Updating Personal Information**  
-If a user's personally identifiable information changes, or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. Gomez PEER users can change their account password and e-mail address, ZIP code and country through the Gomez PEER Custom Homepage. This page is accessible via the "Gomez PEERs" section of the Web site after logging in with username and password. If a user no longer desires our service, they can unsubscribe from the Gomez PEER program by visiting our [Contact Us](https://web.archive.org/web/20111130091432id_/http%3A//www.gomezpeerzone.com/Contact.aspx) page. 
-
-**Choice/Opt-out**  
-If information will be used for purposes not directly related to our site, our users are given the opportunity to 'opt-out.' Users who no longer wish to receive our newsletter may opt-out of receiving these communications by visiting our [Contact Us](https://web.archive.org/web/20111130091432id_/http%3A//www.gomezpeerzone.com/Contact.aspx) page. Gomez PEER users can also opt-out of newsletters and leaderboards through the Gomez PEER Custom Homepage. This page is accessible via the "Gomez Peers" section of the Web site after logging in with username and password. 
-
-**Notification of Changes**  
-If we decide to change our privacy policy, we will prominently post changes on our homepage so that our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an e-mail. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
-
-**Legal Disclaimer**  
-Gomez may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our website.   
+  * The collection of personal data
+  * The use of information collected
+  * The use of cookies
+  * Opt-out
+  * Links to non-Compuware web sites
+  * Commitment to data security
+  * European Union Safe Harbor Certification
+  * Public forums
+  * Online job applications
 
 
-**Gomez, Inc.**  
-**10 Maguire Road, Suite 330**  
-**Lexington, MA 02421-3110**  
-[peers@gomez.com ](mailto:peers@gomez.com)  
 
+### The collection of personal data
+
+You may visit the web site without disclosing any personally identifiable information.   
+Registration: Registration is often required, before issuing special offers, promotions, newsletters, etc. If you wish to subscribe, we may request such personal information as name, title, company, physical address, phone number, fax number, e-mail address, primary language preference, informational preferences, topics of interest, etc. Compuware will not request more information than is reasonably necessary to provide requested information or services. Compuware assumes all information will be true, accurate, current, non-misleading, consistent and relevant. 
+
+**E-mail a friend or colleague:** Unless otherwise indicated, the names and e-mail addresses provided on "e-mail a friend" forms will be used only to forward the message to the intended recipient and to notify the intended recipient of the sender. The recipient's e-mail address is not stored unless registration information is received.
+
+Top
+
+### The use of information collected
+
+**General:** Compuware will record and collect information about how you may use the site. This may include such data as a domain name, language, type of browser and operating system, Internet Service Provider, Internet protocol (IP) address, the web site from which you arrived at the site, and the amount of time spent on the site. Compuware may monitor and use usage data in aggregated form to measure the web site's performance and activity and improve the web site's design and functionality. Compuware may also use usage data in aggregated form to develop, and distribute to third parties, statistical and general information about how the web site is used for other marketing purposes. Compuware may also use usage data in non-aggregated form to investigate and prosecute security violations.
+
+**Compuware online communications:** Compuware will use personally identifiable data to communicate special promotions, events and announcements. This information may be used for the purpose of providing you with products or services you have requested, servicing you, improving our services, developing and/or informing you of additional products or services provided by Compuware. Should you wish not to receive promotional material from Compuware, you are offered the option to opt-out from future communications.
+
+Please note that we do not knowingly solicit information from children and we do not knowingly market our products and services to children.
+
+**Information sharing and disclosure:** Compuware values your business and strives to protect your privacy. Compuware will not sell or provide your information to list brokers or similar mass marketing entities. However, we may provide information about you to our business partners in order to better serve your interests and/or to vendors with whom Compuware has contracted in support of targeted promotions. In those instances, Compuware’s master “opt-out” suppression file will be provided to such vendors to prevent unwanted Compuware material from delivery. 
+
+### 
+
+### Top
+
+The use of cookies
+
+  * A "cookie" is a small file that your web browser places on your computer's hard drive to store important data. A cookie cannot be executed as code or deliver viruses. Cookies save you time by enabling your browser to keep track of information such as passwords and account information. In most cases, the cookies that we use will expire after 365 days. In some instances, such as the online job application, the cookies expire as soon as you close your browser. 
+  * Third party vendors, including Google, show our ads on sites on the internet. They use cookies to serve ads based on a user’s prior visits to our website. Users may opt out of Google’s use of cookies by visiting the Google advertising opt-out page. 
+  * **Rejecting cookies:** You have the option of setting your browser to reject cookies. In most cases, if you do not accept the cookie you are still able to use the site. Please note, however, that by not accepting cookies, you will limit the functionality we can provide you when you visit this site.
+
+
+
+Top
+
+### Opt-out 
+
+We provide the opportunity to opt-out of receiving communications from Compuware at the point where we request information about you and in each instance when you receive material from us. If you have difficulty in opting-out in this manner, please visit [www.compuware.com/unsubscribe](http://www.compuware.com/unsubscribe) or e-mail [unsubscribe@compuware.com](mailto:unsubscribe@compuware.com) and provide your name, e-mail address and subscription you wish to cancel. 
+
+### Links to non-Compuware web sites
+
+Compuware may provide links to Internet sites maintained by others. Compuware does not review all of such third-party web sites linked to the site and is not responsible for the contents of, or any products or services offered, in such third-party sites. 
+
+We encourage our users to be aware when leaving Compuware web sites and to read the privacy statements of each and every web site that collects personally identifiable information.
+
+Compuware provides these links to you as a convenience, and the inclusion of any link does not imply endorsement or acceptance of responsibility of non-Compuware web sites.
+
+Top
+
+### Commitment to data security
+
+To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+### European Union Safe Harbor Certification
+
+Compuware Corporation currently complies with the Safe Harbor certification developed by the U.S. Department of Commerce for the collection, use, and retention of data from the European Union. For more information about the Safe Harbor program please visit <http://www.export.gov/safeharbor>.
+
+### Public forums
+
+This site may make chat rooms, forums, message boards, feedback forms, web logs / "blogs", news groups and / or other public messaging forums available to its users. Please remember any information disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+
+Top
+
+### Online job applications
+
+Compuware's web site provides the capability for candidates to submit their resume or curriculum vitae online. All resumes received by Compuware will be held in confidence and used only for the purpose of considering the candidate for employment or such other purpose as requested by the candidate. Compuware will not sell, trade, rent or distribute personal information to third parties.
+
+All open positions offered by Compuware or by its domestic and international subsidiaries are subject to specific job skill requirements. The job skill requirements, qualifications and preferred experience are determined by the domestic or international subsidiary offering the position. All positions are subject to local prevailing employment laws and restrictions. This includes immigration laws pertaining to work authorization requirements and any other applicable government permissions or compliance.
+
+**The use of cookies to search and apply for jobs online**
+
+Cookies save you time by enabling your browser to keep track of the job numbers that you are interested in applying for online, and remembering your last job search criteria. Learn more about cookies and how Compuware uses them.
+
+You have the option of setting your browser to reject cookies. If you do not accept the cookie, you are still able to use the site and search for jobs, but you will not be able to utilize the job portfolio/shopping cart feature to apply online.
+
+**How to update your personal information**
+
+If you have already submitted your resume or curriculum vitae to Compuware and your skills, experience or contact information has changed, please resubmit your resume. Your revised resume will be updated in our resume management system. Visit the Careers site to learn more about candidate eligibility and the interviewing process.
+
+**How to contact Compuware Recruiting regarding your privacy**
+
+Please e-mail us at [compuware.recruiting@compuware.com](mailto:compuware.recruiting@compuware.com).
+
+**Issue Resolution**
+
+Our goal is to respect your privacy. If you seek resolution to any privacy or data collection issue you have with Compuware, or have suggestions on how we can improve our policies, please contact us.
+
+Top
