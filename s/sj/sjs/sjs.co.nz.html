@@ -1,376 +1,434 @@
-<!--The following is the downloaded HTML source of the sjs.co.nz privacy policy that was archived on 2011-11-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111114161120id_/http%3A//www.sjs.co.nz/en/General-Pages/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sjs.co.nz privacy policy that was archived on 2012-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120509202017id_/http%3A//www.sjs.co.nz/content/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
-    <!-- V1.13.3 -->
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
-	Student Job Search
-</title><link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen" charset="utf-8"><link rel="stylesheet" href="/css/print.css" type="text/css" media="print" charset="utf-8"><link rel="Stylesheet" href="/css/custom-theme/jquery-ui-1.7.2.custom.css" type="text/css">
-    <!--[if lte IE 6]><link rel="stylesheet" href="/css/lib/ie.css" type="text/css" media="screen" charset="utf-8" /><![endif]-->
-    <script type="text/javascript" src="/Script/jquery-1.3.2.min.js"></script>
-    <script type="text/javascript" src="/Script/jquery-ui-1.7.2.custom.min.js"></script>
-    <script type="text/javascript" src="/Script/jquery-autocomplete.js"></script>
-    <script type="text/javascript" src="/Script/jquery-tooltip.min.js"></script>
-    <script type="text/javascript" src="/Script/ui.dropdownchecklist.js"></script>
-    <script type="text/javascript">
-        function GetChildDropDownListElements(parentControlCssClass, childControlCssClass, serviceMethod, serviceMethodParamName, childDropDownValue) {
-            parentControlCssClass = '.' + parentControlCssClass + ':first';
-            childControlCssClass = '.' + childControlCssClass + ':first';
-            if ($(parentControlCssClass).val() != '00000000-0000-0000-0000-000000000000') {
-                $.ajax({ type: "POST", url: "/WebClientService.asmx/" + serviceMethod, data: "{'" + serviceMethodParamName + "': '" + $(parentControlCssClass).val() + "'}", contentType: "application/json; charset=utf-8", dataType: "json",
-                    success: function(msg) {
-                        $(childControlCssClass).removeAttr("disabled");
-                        var options = '';
-                        for (var i = 0; i < msg.d.length; i++) { options += "<option value='" + msg.d[i].Id + "'>" + msg.d[i].Name + "</option>"; }
-                        $(childControlCssClass).html(options);
-                        if (childDropDownValue && childDropDownValue != '') { $(childControlCssClass).val(childDropDownValue); }
-                        $(childControlCssClass).change();
-                    }
-                });
-            }
-            else {
-                $(childControlCssClass).val('00000000-0000-0000-0000-000000000000');
-                $(childControlCssClass).attr("disabled", true);
-                $(childControlCssClass).change();
-            }
-        }
-    </script>
-    </head><body><div>
-	<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#"><head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+<link rel="shortcut icon" href="http://www.sjs.co.nz/sites/all/themes/sjs/favicon.ico" type="image/vnd.microsoft.icon">
+<meta content="Privacy Policy" about="/content/privacy-policy" property="dc:title">
+<link rel="canonical" href="/content/privacy-policy">
+<meta name="Generator" content="Drupal 7 (http://drupal.org)">
+<link rel="shortlink" href="/node/337">
+  <title>Privacy Policy | Student Job Search</title>
+  <link type="text/css" rel="stylesheet" href="http://www.sjs.co.nz/sites/default/files/css/css_CKoWqiBj9gVXhPuDSnNphuEB0b0J2To76x0pX0EGqn4.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.sjs.co.nz/sites/default/files/css/css_tyQgvNWyQd4XDB-nx4f6msm5jMh3j-ylW0iUwuUao3w.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.sjs.co.nz/sites/default/files/css/css_Mmsth6Cky079DjRQbA1V30m_ORTxEdJ3HUqrQo5YNXI.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.sjs.co.nz/sites/default/files/css/css_RWg0Fjq2qTRBJKke_li8VWg534C8fCzJCfoowym0sEA.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.sjs.co.nz/sites/default/files/css/css_e0Oi8I1L8cGJ7KxcUbimLkO-ivlPDoZXuBZMWKAz5GY.css" media="print">
 
-<script type="text/javascript"> 
-  GS_googleAddAdSenseService("ca-pub-7564861833208206");
-  GS_googleEnableAllServices();
-</script>
+<!--[if IE]>
+<link type="text/css" rel="stylesheet" href="http://www.sjs.co.nz/sites/default/files/css/css_mgubE56FlXDrj1BKVpZ4r7M0V4LkfQ-lufdfTn9Gxjw.css" media="all" />
+<![endif]-->
 
-<script type="text/javascript"> 
-  GA_googleAddSlot("ca-pub-7564861833208206", "SJS_Banner");
-  GA_googleAddSlot("ca-pub-7564861833208206", "sjs_rectangle");
-  GA_googleAddSlot("ca-pub-7564861833208206", "SJS_Skyscraper");
-</script>
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://www.sjs.co.nz/sites/default/files/css/css_jC3vQpOF1lw3azK4ayFR1SMA9i68ujlqgtJ7IgXHE6A.css" media="all" />
+<![endif]-->
 
-<script type="text/javascript"> 
-  GA_googleFetchAds();
-</script>
-</div>
-    
-
-
-    <form name="aspnetForm" method="post" action="/en/General-Pages/Privacy/" id="aspnetForm">
-<div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTI3MjAzMjk3MA9kFgJmD2QWAmYPZBYGAgIQZGQWAgIJDw8WBB4LX2lzRWRpdGFibGVoHglfbGFzdFR5cGUFB0RlZmF1bHRkZAIEEGRkFhBmDw8WBB8AaB8BBQdEZWZhdWx0ZGQCAQ9kFgICAQ9kFgICAQ9kFgJmD2QWBAILDw8WAh4LTmF2aWdhdGVVcmwFNS90ZW1wbGF0ZXMvUGFzc3dvcmRSZWNvdmVyeS5hc3B4P2lkPTcxJmVwc2xhbmd1YWdlPWVuZGQCDQ8QDxYCHgdDaGVja2VkaGRkZGQCAg9kFggCAw9kFgICAQ8PFgQfAGgfAQUHRGVmYXVsdGRkAgUPZBYCAgUPZBYIAgMPEA8WBh4ORGF0YVZhbHVlRmllbGQFAklkHg1EYXRhVGV4dEZpZWxkBQROYW1lHgtfIURhdGFCb3VuZGdkEBUFG0Nhc3VhbCwgRml4ZWQtVGVybSwgT25lLU9mZgZDYXN1YWwKRml4ZWQtVGVybQdPbmUtT2ZmCVBlcm1hbmVudBUFJDAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMCQ0MGU5MjkyMC1iOTRlLTQ4ZDUtYWE0ZC0yOWM4Njg4YWE4MWYkMDBmYjE2OTEtNTg5MS00ZDhkLWI4NDctNGUyNTEyMTNjM2U4JGI5ZDFiZWE1LWY4ODMtNDRjZi1iNTU0LWYzMWU5NTQwMDIwOSQ1YmI4MTIyOC00ZDM3LTQ5MTktYjg1OS1kN2YwMzNhZTNlMDkUKwMFZ2dnZ2dkZAIFDxAPFgYfBAUCSWQfBQUETmFtZR8GZ2QQFRIOQ2xhc3NpZmljYXRpb24SQXJ0cy9FbnRlcnRhaW5tZW50CkNhcmVnaXZpbmcJQ2hpbGRjYXJlFEZhcm13b3JrL0FncmljdWx0dXJlDEhvcnRpY3VsdHVyZQtIb3NwaXRhbGl0eQtJVC9Db21wdXRlcgZMYWJvdXIDTGF3Hk9mZmljZS9BZG1pbmlzdHJhdGlvbi9DbGVyaWNhbCFQcm9mZXNzaW9uYWwvTWFya2V0aW5nL0FjY291bnRpbmcKUmVjcmVhdGlvbhNSZXNlYXJjaC9MYWJvcmF0b3J5DFNhbGVzL1JldGFpbBFUcmFkZXMgQXNzaXN0YW5jZQlUcmFuc3BvcnQIVHV0b3JpbmcVEiQwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAkMDkxZTY3YzEtMzAwNi00MThiLWI1ZGEtY2IxMzczYmU0ZWRiJDY4MmYzYTE0LTc1ZDgtNDQyZi1hMDliLTMxNGI0OWVhYjNmMiQ5ZjdlN2RiYS1jOTQ0LTRiNDMtOGZmMS1iYWQyMWI1YzRlYTkkN2JjZmI5OGQtODNlNi00MDdhLThlNzgtMjc1YmU4NTlkNzc0JDVhMDU2ODY0LWYzMjgtNDRjNi1iZTA3LTgxN2FjNWExYWJiNCRiYTUwMGQ3Zi03MmQ1LTRjYWEtYmY4OS0wOWQyOWMwNTFhMzkkMmI2OTkzZjQtYjc5NS00M2ViLWI4NWYtZTc3ODBhY2M3MDk0JDg4ZWZjMDUzLTIwYzYtNDNjNi05OGY3LWMxYzA0MjlmMWU5MCRjNDNlMTk5NC1hY2Y2LTRhYjItOTNiYi0xNzkzOGViZjA4YzMkZjAyYmRmMzQtNjRjZS00ZDkxLWI2MjAtNzIwNWY3NzBmZmYzJGVjZGUwZDIyLWVkNTEtNDQ3Yy04YzQ0LWVhN2Q2NTYzZTdmOCRlNjFlYTcwMy1jMTUzLTRmZDEtOGE0Mi0yYzkyYzg4ODAzZDMkYjk3OTEwYWUtZjI2MC00NTcxLThiNGQtNmY2MGFjODg2NjhhJDcxNTlhN2IwLTljNWMtNDBiNi1iY2I1LTNiMTg4MmRkNWNhYiRkMDVkYTEzYS1kZjU1LTRiYmMtOTMzMi0yMWY5ZTRiOTJkMzckNDNjMjBhMGEtN2FlYi00MWY4LWFjMWEtNzMwODZkMTI3YTg2JGExMWViMzdjLWIzMTUtNDg0OS05ODU0LTU4MjVkOTJmNGEzNhQrAxJnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dkZAIHDxAPFgYfBAUCSWQfBQUETmFtZR8GZ2QQFREGUmVnaW9uD0F1Y2tsYW5kIFJlZ2lvbhRCYXkgb2YgUGxlbnR5IFJlZ2lvbhFDYW50ZXJidXJ5IFJlZ2lvbhBFYXN0IENhcGUgUmVnaW9uEkhhd2tlJ3MgQmF5IFJlZ2lvbhhNYW5hd2F0dS1XYW5nYW51aSBSZWdpb24STWFybGJvcm91Z2ggUmVnaW9uDU5lbHNvbiBSZWdpb24QTm9ydGhsYW5kIFJlZ2lvbgxPdGFnbyBSZWdpb24QU291dGhsYW5kIFJlZ2lvbg9UYXJhbmFraSBSZWdpb24NVGFzbWFuIFJlZ2lvbg5XYWlrYXRvIFJlZ2lvbhFXZWxsaW5ndG9uIFJlZ2lvbhFXZXN0IENvYXN0IFJlZ2lvbhURJDAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMCRjMTUyNzc3Yy0xMzZiLTQ5ZjktODhiOS1kYjc1YjQ1NjA5MDAkNjNjZWI2YWUtNmMwMC00YmFmLWE3NDQtNDc5NjNkZGYwYzVjJGU2MTIxZmYyLTg0ZWQtNDNkOS04ODk5LTRkN2MwZTIwOGMzOCQ5ZDQyOTVjMS0yN2ViLTRjMTEtOTdjYS02OWQzNjZiNDU3YzckMTFlNTBlODgtOTFhNC00MjkzLTgzZTMtYzEyYjQ0MDA5NDcyJGRmZTkyYzNlLWZiYmUtNGQzZi1iM2Y2LTM4M2I5OWNkYmI4YyQyNDY4ZjJkZC1mMDIyLTRkOGEtYjE5YS1lN2MzMDAzNjI0OGUkZTI1Nzk0ODQtOWU2YS00M2RiLTg3YjEtMDQ4MTQ2ODYyNmYwJDg4N2YzZDhlLTYyMjYtNDllZS05OWU4LTlhYTc3ZTJjMmZkYiRlMTE5ODAyZi05ZGJlLTRjOGMtOWNiNS0xNmRmYjg1NTZmYmQkMTdmYTk1ZTAtNjI4OC00Njk1LThiZTYtMDkyMDdiMmYxOTI1JGQzODYzMTdlLWY3MzAtNDg2Yy1iNjNiLWViNTQ3NjBhMzExOSRhZmU4MTY5ZS1lNDNhLTQ3NWEtYjcxMS05OGY5ZWM3YjhhODAkNmQyNzUwNjMtNmI2Ni00NDQ4LThjZGQtY2EzYjRmODhjNWNhJDY2ZTRjMzJiLTIzMDQtNGI2Ny05YjM0LTE3ZTljMGI4NzZlMSRhYjU3YzI4ZS0zMDlhLTQ2ODgtYmQyMS1iYTg5YWE2MTQzNjUUKwMRZ2dnZ2dnZ2dnZ2dnZ2dnZ2dkZAIJDxBkDxYBZhYBEAULQ2l0eSAvIFRvd24FJDAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMGdkZAILD2QWAgIBDw8WBB8AaB8BBQdEZWZhdWx0ZGQCDQ8PFgQfAGgfAQUHRGVmYXVsdGRkAgMPDxYEHwBoHwEFB0RlZmF1bHRkZAIEDw8WBB8AaB8BBQdEZWZhdWx0ZGQCBQ8PFgQfAGgfAQUHRGVmYXVsdGRkAgYPDxYEHwBoHwEFB0RlZmF1bHRkZAIHDw8WBB8AaB8BBQdEZWZhdWx0ZGQCBg8PFgQfAGgfAQUHRGVmYXVsdGRkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYDBS1jdGwwMCRjdGwwMCRCYW5uZXJDb250cm9sJExvZ2luMSRMb2dpbjEkTG9naW4FMmN0bDAwJGN0bDAwJEJhbm5lckNvbnRyb2wkTG9naW4xJExvZ2luMSRSZW1lbWJlck1lBTZjdGwwMCRjdGwwMCRNYWluQ29udGVudFBsYWNlSG9sZGVyJFNlYXJjaCRzZWFyY2hCdXR0b27Y81MdaJq4zKMWyRVUj1VjHDk4kQ==">
-</div>
-
-    <div id="page">
-        <div align="center">
-            <div>
-	<script type="text/javascript"> 
-  GA_googleFillSlot("SJS_Banner");
-</script>
-</div>
-        </div>
-        
-<div id="header">
-    <div class="logo">
-        <a href="/Default.aspx">
-            <img height="102" border="0" width="182" alt="Student Job Search" src="/images/header_logo.png"></a>
-    </div>
-
-    
-<div class="login">
-    <div class="leftCorner">
-        <div class="rightCorner">
-            <table id="ctl00_ctl00_BannerControl_Login1_Login1" cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse;">
-	<tbody><tr>
-		<td>
-                    
-                    <table>
-                        <tbody><tr>
-                            <td class="loginInstruction" rowspan="3">
-                                <p class="login-help-text">
-                                    <span>Already Registered? Sign in here. Need help? Call us on 0800 757 562</span>
-                                </p>
-                            </td>
-                            <td>
-                                Email
-                            </td>
-                            <td>
-                                <input name="ctl00$ctl00$BannerControl$Login1$Login1$UserName" type="text" id="ctl00_ctl00_BannerControl_Login1_Login1_UserName" class="UserName">
-                                &nbsp;
-                                
-                            </td>
-                            <td>
-                                Password
-                            </td>
-                            <td>
-                                <input name="ctl00$ctl00$BannerControl$Login1$Login1$Password" type="password" id="ctl00_ctl00_BannerControl_Login1_Login1_Password" class="password">
-                                &nbsp;
-                            </td>
-                            <td>
-                                <input type="image" name="ctl00$ctl00$BannerControl$Login1$Login1$Login" id="ctl00_ctl00_BannerControl_Login1_Login1_Login" class="button" src="/images/login_button.gif" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$BannerControl$Login1$Login1$Login&quot;, &quot;&quot;, true, &quot;login&quot;, &quot;&quot;, false, false))" style="border-width:0px;">
-                            </td>
-                            <td rowspan="2" class="forgotPasswordLink">
-                                <a id="ctl00_ctl00_BannerControl_Login1_Login1_passwordRetreivalLink" href="/en/Shared-Pages/Password-Recovery/">Forgot Password?</a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="rememberMe" colspan="6">
-                                <input id="ctl00_ctl00_BannerControl_Login1_Login1_RememberMe" type="checkbox" name="ctl00$ctl00$BannerControl$Login1$Login1$RememberMe"><label for="ctl00_ctl00_BannerControl_Login1_Login1_RememberMe">Remember me</label>
-                           
-                                
-                            </td>
-                            </tr><tr>
-                                <td colspan="6">
-                                    <h6 style="padding-top: 5px;">
-                                        </h6>
-                                </td>
-                            </tr>
-                        </tbody></table></td></tr>
-                    </tbody></table>
-                
-	
-
-            
-        </div>
-    </div>
-</div>
-
-
-    
-		<ul class="tabs">
-			<li><a href="/en/">Home</a></li>
-			<li><a href="/en/Feedback/">Feedback</a></li>
-			<li><a href="/en/Employers1/">Employers</a></li>
-			<li><a href="/en/Students/">Students</a></li>
-			<li><a href="/en/About-SJS/">About SJS</a></li>
-			<li><a href="/en/Contact-us/">Contact us</a></li>
-		</ul>
-	
-</div>
-
-        <div id="body" class="wrapper">
-            
-    <div class="banner">
-        
-    <a id="ctl00_ctl00_MainContentPlaceHolder_BannerContentRegion_TopBanner"></a>
-
-    </div>  
-    <div id="left-col">
-        
-            <div align="center">
-                <div>
-	<script type="text/javascript"> 
-  GA_googleFillSlot("SJS_Skyscraper");
-</script>
-</div>
-            </div>
-        
-    </div>
-    <div id="right-col">
-        
-<script language="javascript" type="text/javascript" src="/script/jquery-search.js"></script> 
-<input name="ctl00$ctl00$MainContentPlaceHolder$Search$SubRegionHidden" type="hidden" id="ctl00_ctl00_MainContentPlaceHolder_Search_SubRegionHidden" class="SubRegionHidden">
-<input name="ctl00$ctl00$MainContentPlaceHolder$Search$SubClassificationHidden" type="hidden" id="ctl00_ctl00_MainContentPlaceHolder_Search_SubClassificationHidden" class="SubClassificationHidden">
-<div id="ctl00_ctl00_MainContentPlaceHolder_Search_searchPanel">
-	
-    <div class="search-panel">                 
-        <div class="sform">
-            <div class="fieldset">
-                <p class="adv-search">
-                    
-                </p>
-                <p>
-                    <label>Keywords:</label>
-                    <input name="ctl00$ctl00$MainContentPlaceHolder$Search$enterSearchKeywordTextBox" type="text" value="Enter Keywords..." id="ctl00_ctl00_MainContentPlaceHolder_Search_enterSearchKeywordTextBox" onfocus="if(this.value=='Enter Keywords...')this.value=''"></p>
-                <p>
-                    <label>Type:</label>
-                    <select name="ctl00$ctl00$MainContentPlaceHolder$Search$typeDropDownList" id="ctl00_ctl00_MainContentPlaceHolder_Search_typeDropDownList">
-		<option value="00000000-0000-0000-0000-000000000000">Casual, Fixed-Term, One-Off</option>
-		<option value="40e92920-b94e-48d5-aa4d-29c8688aa81f">Casual</option>
-		<option value="00fb1691-5891-4d8d-b847-4e251213c3e8">Fixed-Term</option>
-		<option value="b9d1bea5-f883-44cf-b554-f31e95400209">One-Off</option>
-		<option value="5bb81228-4d37-4919-b859-d7f033ae3e09">Permanent</option>
-
-	</select>
-                </p>
-                <p>
-                    <label>Classification:</label>
-                    <select name="ctl00$ctl00$MainContentPlaceHolder$Search$classificationDropDownList" id="ctl00_ctl00_MainContentPlaceHolder_Search_classificationDropDownList" class="ClassificationDropDownList">
-		<option value="00000000-0000-0000-0000-000000000000">Classification</option>
-		<option value="091e67c1-3006-418b-b5da-cb1373be4edb">Arts/Entertainment</option>
-		<option value="682f3a14-75d8-442f-a09b-314b49eab3f2">Caregiving</option>
-		<option value="9f7e7dba-c944-4b43-8ff1-bad21b5c4ea9">Childcare</option>
-		<option value="7bcfb98d-83e6-407a-8e78-275be859d774">Farmwork/Agriculture</option>
-		<option value="5a056864-f328-44c6-be07-817ac5a1abb4">Horticulture</option>
-		<option value="ba500d7f-72d5-4caa-bf89-09d29c051a39">Hospitality</option>
-		<option value="2b6993f4-b795-43eb-b85f-e7780acc7094">IT/Computer</option>
-		<option value="88efc053-20c6-43c6-98f7-c1c0429f1e90">Labour</option>
-		<option value="c43e1994-acf6-4ab2-93bb-17938ebf08c3">Law</option>
-		<option value="f02bdf34-64ce-4d91-b620-7205f770fff3">Office/Administration/Clerical</option>
-		<option value="ecde0d22-ed51-447c-8c44-ea7d6563e7f8">Professional/Marketing/Accounting</option>
-		<option value="e61ea703-c153-4fd1-8a42-2c92c88803d3">Recreation</option>
-		<option value="b97910ae-f260-4571-8b4d-6f60ac88668a">Research/Laboratory</option>
-		<option value="7159a7b0-9c5c-40b6-bcb5-3b1882dd5cab">Sales/Retail</option>
-		<option value="d05da13a-df55-4bbc-9332-21f9e4b92d37">Trades Assistance</option>
-		<option value="43c20a0a-7aeb-41f8-ac1a-73086d127a86">Transport</option>
-		<option value="a11eb37c-b315-4849-9854-5825d92f4a36">Tutoring</option>
-
-	</select>
-                </p>
-
-                <p>
-                    <label>Region:</label>
-                    <select name="ctl00$ctl00$MainContentPlaceHolder$Search$regionDropDownList" id="ctl00_ctl00_MainContentPlaceHolder_Search_regionDropDownList" class="RegionDropDownList">
-		<option value="00000000-0000-0000-0000-000000000000">Region</option>
-		<option value="c152777c-136b-49f9-88b9-db75b4560900">Auckland Region</option>
-		<option value="63ceb6ae-6c00-4baf-a744-47963ddf0c5c">Bay of Plenty Region</option>
-		<option value="e6121ff2-84ed-43d9-8899-4d7c0e208c38">Canterbury Region</option>
-		<option value="9d4295c1-27eb-4c11-97ca-69d366b457c7">East Cape Region</option>
-		<option value="11e50e88-91a4-4293-83e3-c12b44009472">Hawke's Bay Region</option>
-		<option value="dfe92c3e-fbbe-4d3f-b3f6-383b99cdbb8c">Manawatu-Wanganui Region</option>
-		<option value="2468f2dd-f022-4d8a-b19a-e7c30036248e">Marlborough Region</option>
-		<option value="e2579484-9e6a-43db-87b1-0481468626f0">Nelson Region</option>
-		<option value="887f3d8e-6226-49ee-99e8-9aa77e2c2fdb">Northland Region</option>
-		<option value="e119802f-9dbe-4c8c-9cb5-16dfb8556fbd">Otago Region</option>
-		<option value="17fa95e0-6288-4695-8be6-09207b2f1925">Southland Region</option>
-		<option value="d386317e-f730-486c-b63b-eb54760a3119">Taranaki Region</option>
-		<option value="afe8169e-e43a-475a-b711-98f9ec7b8a80">Tasman Region</option>
-		<option value="6d275063-6b66-4448-8cdd-ca3b4f88c5ca">Waikato Region</option>
-		<option value="66e4c32b-2304-4b67-9b34-17e9c0b876e1">Wellington Region</option>
-		<option value="ab57c28e-309a-4688-bd21-ba89aa614365">West Coast Region</option>
-
-	</select>
-                </p>
-                <p>
-                    <label>Sub Region:</label>
-                    <select name="ctl00$ctl00$MainContentPlaceHolder$Search$subRegionDropDownList" id="ctl00_ctl00_MainContentPlaceHolder_Search_subRegionDropDownList" class="SubRegionDropDownList">
-		<option value="00000000-0000-0000-0000-000000000000">City / Town</option>
-
-	</select>
-                </p>
-                <p class="searchButton">
-                    <input type="image" name="ctl00$ctl00$MainContentPlaceHolder$Search$searchButton" id="ctl00_ctl00_MainContentPlaceHolder_Search_searchButton" class="button" src="/images/search_button.gif" alt="Search Jobs" style="border-width:0px;">
-                </p>
-            </div>   
-        </div>
-    </div>
-
-</div>
-        
-        
-    </div>
-    <div id="mid-col">
-        
-    <div class="introduction">
-        <div>
-	<h2>Student Job Search – Privacy Policy</h2>
-<h2><font color="#000000"><b style="mso-bidi-font-weight: normal"><span lang="EN-GB" style="mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><span style="mso-list: Ignore"><font size="2">1</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;</span></span></span></b><b style="mso-bidi-font-weight: normal"><span lang="EN-GB" style="mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2">Introduction</font></span></b></font></h2>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 9pt"><font size="2"><span lang="EN-GB" style="COLOR: black; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB">We may collect, retain and use your personal information (including your e-mail address, name, phone number and mailing address) from time to time. This Privacy Policy sets out our practices regarding the collection, use, storage and disclosure of your personal information in compliance with the Privacy Act 1993. Please read this Privacy Policy before using this website or submitting your personal information to this website. By using this website, you agree to be bound by the terms of this Privacy Policy.</span></font></p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 9pt"><font size="2"><span lang="EN-GB" style="COLOR: black; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"></span></font><font color="#000000"><b style="mso-bidi-font-weight: normal"><span lang="EN-GB" style="mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><span style="mso-list: Ignore"><font size="2">2</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp; </span></span></span></b><b style="mso-bidi-font-weight: normal"><span lang="EN-GB" style="mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2">Terminology<!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office"/?--><o:p></o:p></font></span></b></font></p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 9pt"><font size="2"><span lang="EN-GB" style="COLOR: black; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB">In this Privacy Policy, the terms ‘SJS’, ‘we’, ‘us’, and ‘our’ refer to Student Job Search Aotearoa Inc and the terms ‘you’ and ‘your’ refer to you as a website user, student or employer.</span></font></p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 9pt"><font size="2"><span lang="EN-GB" style="COLOR: black; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"></span></font><font color="#000000"><b style="mso-bidi-font-weight: normal"><span lang="EN-GB" style="mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><span style="mso-list: Ignore"><font size="2">3</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp; </span></span></span></b><b style="mso-bidi-font-weight: normal"><span lang="EN-GB" style="mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2">Information we may collect and retain<o:p></o:p></font></span></b></font></p>
-<p class="MsoNormal" style="MARGIN: 0cm 0cm 9pt; mso-layout-grid-align: none"><span lang="EN-GB" style="COLOR: black; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2">We may collect and retain your personal information in the following circumstances:<o:p></o:p></font></span></p>
-<p class="Outline3" style="MARGIN: 0cm 0cm 9pt 2cm"><font color="#000000"><span lang="EN-GB" style="mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><span style="mso-list: Ignore"><font size="2">a</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2">when you complete forms on this website (including surveys, search forms, competition entry forms, registration forms, and other forms);<o:p></o:p></font></span></font></p>
-<p class="Outline3" style="MARGIN: 0cm 0cm 9pt 2cm"><font color="#000000"><span lang="EN-GB" style="mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><span style="mso-list: Ignore"><font size="2">b</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2">when you create, modify, or use any accounts or registered user facilities available through this website; <o:p></o:p></font></span></font></p>
-<p class="Outline3" style="MARGIN: 0cm 0cm 9pt 2cm"><font color="#000000"><span lang="EN-GB" style="mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><span style="mso-list: Ignore"><font size="2">c</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2">in the course of receiving questions, comments or other communications from you; and<o:p></o:p></font></span></font></p>
-<p class="Outline3" style="MARGIN: 0cm 0cm 9pt 2cm"><font color="#000000"><span lang="EN-GB" style="mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><span style="mso-list: Ignore"><font size="2">d</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2">as you navigate through this website, certain information may be passively collected (that is, gathered without your active participation) using various technologies and means, such as Internet Protocol addresses, cookies, Internet tags, and navigational data collection. Information collected may include server addresses, top-level domain names, dates and times of visits to the website, pages accessed and documents downloaded, previous websites visited and the type of browser used.</font></span></font></p>
-<p class="Outline3" style="MARGIN: 0cm 0cm 9pt 2cm"><font color="#000000"><b style="mso-bidi-font-weight: normal"><span lang="EN-GB" style="mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2"><o:p></o:p></font></span></b></font>&nbsp;</p>
-<p class="MsoNormal" style="MARGIN: 0cm 0cm 9pt; mso-layout-grid-align: none"><span lang="EN-GB" style="COLOR: black; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2"><strong>4&nbsp; Use of personal information</strong></font></span></p>
-<p class="MsoNormal" style="MARGIN: 0cm 0cm 9pt; mso-layout-grid-align: none"><span lang="EN-GB" style="COLOR: black; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2">The personal information we collect will be used to provide services you have authorised or requested.<span style="mso-spacerun: yes">&nbsp; </span>We may also use personal information collected by us to:<o:p></o:p></font></span></p>
-<p class="Outline3" style="MARGIN: 0cm 0cm 9pt 2cm"><font color="#000000"><span lang="EN-GB" style="mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><span style="mso-list: Ignore"><font size="2">a</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2">verify your identity and assist you in case you forget your password or login details<o:p></o:p></font></span></font></p>
-<p class="Outline3" style="MARGIN: 0cm 0cm 9pt 2cm"><font color="#000000"><span lang="EN-GB" style="mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><span style="mso-list: Ignore"><font size="2">b</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2">enable us to offer an effective job service and assist you in obtaining employment / employee referrals <o:p></o:p></font></span></font></p>
-<p class="Outline3" style="MARGIN: 0cm 0cm 9pt 2cm"><font color="#000000"><span lang="EN-GB" style="mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><span style="mso-list: Ignore"><font size="2">c</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2">respond to any questions or correspondence from you;<o:p></o:p></font></span></font></p>
-<p class="Outline3" style="MARGIN: 0cm 0cm 9pt 2cm"><font color="#000000"><span lang="EN-GB" style="mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><span style="mso-list: Ignore"><font size="2">d</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2">manage and improve this website and any related services;<o:p></o:p></font></span></font></p>
-<p class="Outline3" style="MARGIN: 0cm 0cm 9pt 2cm"><font color="#000000"><span lang="EN-GB" style="mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><span style="mso-list: Ignore"><font size="2">e</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2">carry out internal research and development;<o:p></o:p></font></span></font></p>
-<p class="Outline3" style="MARGIN: 0cm 0cm 9pt 2cm"><font color="#000000"><span lang="EN-GB" style="mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><span style="mso-list: Ignore"><font size="2">f</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2">conduct student/employer satisfaction surveys via an independent agency to assist us better serve our clients;<o:p></o:p></font></span></font></p>
-<p class="Outline3" style="MARGIN: 0cm 0cm 9pt 2cm"><font color="#000000"><span lang="EN-GB" style="mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><span style="mso-list: Ignore"><font size="2">g</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2">provide you with information about a service that you are using (including critical updates and announcements);<o:p></o:p></font></span></font></p>
-<p class="Outline3" style="MARGIN: 0cm 0cm 9pt 2cm"><font color="#000000"><span lang="EN-GB" style="mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><span style="mso-list: Ignore"><font size="2">h</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2">reduce the need for you to repeatedly enter the same information;<o:p></o:p></font></span></font></p>
-<p class="Outline3" style="MARGIN: 0cm 0cm 9pt 2cm"><font color="#000000"><span lang="EN-GB" style="mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><span style="mso-list: Ignore"><font size="2">i</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2">customise this website to suit your particular preferences and interests;<o:p></o:p></font></span></font></p>
-<p class="Outline3" style="MARGIN: 0cm 0cm 9pt 2cm"><font color="#000000"><span lang="EN-GB" style="mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><span style="mso-list: Ignore"><font size="2">j</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2">where you create a message using this website (for the purpose of sending that message to us, or to any other recipient specified by you), send that message;<o:p></o:p></font></span></font></p>
-<p class="Outline3" style="MARGIN: 0cm 0cm 9pt 2cm"><font color="#000000"><span lang="EN-GB" style="mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><span style="mso-list: Ignore"><font size="2">k</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2">analyse website usage, trends and statistics;<o:p></o:p></font></span></font></p>
-<p class="Outline3" style="MARGIN: 0cm 0cm 9pt 2cm"><font color="#000000"><span lang="EN-GB" style="mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><span style="mso-list: Ignore"><font size="2">l</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2">with your permission, supply you with further information concerning products and services which may be of interest to you; or<o:p></o:p></font></span></font></p>
-<p class="Outline3" style="MARGIN: 0cm 0cm 9pt 2cm"><font color="#000000"><span lang="EN-GB" style="mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><span style="mso-list: Ignore"><font size="2">m</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2">carry out any other use that is authorised by you or is notified to you at the time of collection.<o:p></o:p></font></span></font></p>
-<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none"><span lang="EN-GB" style="COLOR: black; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><o:p><font size="2">&nbsp;</font></o:p></span><font color="#000000"><b style="mso-bidi-font-weight: normal"><span lang="EN-GB" style="mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><span style="mso-list: Ignore"><font size="2">5</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp; </span></span></span></b><b style="mso-bidi-font-weight: normal"><span lang="EN-GB" style="mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2">Disclosure of personal information<o:p></o:p></font></span></b></font></p>
-<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt; mso-layout-grid-align: none"><span lang="EN-GB" style="COLOR: black; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2">We will not disclose your personal information except in accordance with this Privacy Policy (and in accordance with the Privacy Act 1993). We may use or disclose your personal information if you have authorised us to do so, or in any of the following circumstances:<o:p></o:p></font></span></p>
-<p class="Outline3" style="MARGIN: 0cm 0cm 9pt 2cm; mso-list: l0 level3 lfo2"><font color="#000000"><span lang="EN-GB" style="mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><span style="mso-list: Ignore"><font size="2">a</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2">we have given you notification of the intended use or disclosure and you have not objected to that use or disclosure;<o:p></o:p></font></span></font></p>
-<p class="Outline3" style="MARGIN: 0cm 0cm 9pt 2cm"><font color="#000000"><span lang="EN-GB" style="mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><span style="mso-list: Ignore"><font size="2">b</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2">you have consented for us to do so, we may provide your contact details to your past, current or prospective employers or employees;<o:p></o:p></font></span></font></p>
-<p class="Outline3" style="MARGIN: 0cm 0cm 9pt 2cm"><font color="#000000"><span lang="EN-GB" style="mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><span style="mso-list: Ignore"><font size="2">c</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2">you have consented for us to do so, we may provide your name and telephone number to students in the same job as you;<o:p></o:p></font></span></font></p>
-<p class="Outline3" style="MARGIN: 0cm 0cm 9pt 2cm"><font color="#000000"><span lang="EN-GB" style="mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><span style="mso-list: Ignore"><font size="2">d</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2">you apply for an Unemployment Benefit Student Hardship (UBSH) from the Ministry of Social Development (MSD) and MSD request that we provide your SJS enrolment details (your personal information) in order to check your eligibility to receive the unemployment benefit;<o:p></o:p></font></span></font></p>
-<p class="Outline3" style="MARGIN: 0cm 0cm 9pt 2cm"><font color="#000000"><span lang="EN-GB" style="mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><span style="mso-list: Ignore"><font size="2">e</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2">we believe that the use or disclosure is reasonably necessary to assist a law enforcement agency or an agency responsible for national security in the performance of their functions;<o:p></o:p></font></span></font></p>
-<p class="Outline3" style="MARGIN: 0cm 0cm 9pt 2cm"><font color="#000000"><span lang="EN-GB" style="mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><span style="mso-list: Ignore"><font size="2">f</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2">we believe that the use or disclosure is reasonably necessary to enforce any legal rights<span style="mso-spacerun: yes">&nbsp; </span>we may have, or is reasonably necessary to protect the rights, property and safety of you, us, or others; or<o:p></o:p></font></span></font></p>
-<p class="Outline3" style="MARGIN: 0cm 0cm 9pt 2cm"><font color="#000000"><span lang="EN-GB" style="mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><span style="mso-list: Ignore"><font size="2">g</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2">we are required or permitted by law to disclose the information.</font></span></font></p>
-<p class="Outline3" style="MARGIN: 0cm 0cm 9pt 2cm"><font color="#000000"><b style="mso-bidi-font-weight: normal"><span lang="EN-GB" style="mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2"><o:p></o:p></font></span></b></font>&nbsp;</p>
-<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt; mso-layout-grid-align: none"><span lang="EN-GB" style="COLOR: black; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2"><strong>6&nbsp; Storage of personal information</strong></font></span></p>
-<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt; mso-layout-grid-align: none"><span lang="EN-GB" style="COLOR: black; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2">All personal information collected on this website is collected and stored on a secure SJS server located at Plunket House, 126 Lambton Quay, Wellington, New Zealand.</font></span></p>
-<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt; mso-layout-grid-align: none"><span lang="EN-GB" style="COLOR: black; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"></span><font color="#000000"><b style="mso-bidi-font-weight: normal"><span lang="EN-GB" style="mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><span style="mso-list: Ignore"><font size="2">7</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;</span></span></span></b><b style="mso-bidi-font-weight: normal"><span lang="EN-GB" style="mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2">Security<o:p></o:p></font></span></b></font></p>
-<p class="Outline1" style="MARGIN: 0cm 0cm 9pt; TEXT-INDENT: 0cm; mso-list: none; tab-stops: 36.0pt"><span lang="EN-GB" style="mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2"><font color="#000000">No data transmissions over the Internet are completely secure. Accordingly, we cannot ensure the security of information transmitted from or to you. However, once we have received your personal information, we will use reasonable efforts to protect the information against loss or misuse, and against unauthorised access, use, modification, or disclosure.</font></font></span></p>
-<p class="Outline1" style="MARGIN: 0cm 0cm 9pt; TEXT-INDENT: 0cm; mso-list: none; tab-stops: 36.0pt"><span lang="EN-GB" style="mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"></span><font color="#000000"><b style="mso-bidi-font-weight: normal"><span lang="EN-GB" style="mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><span style="mso-list: Ignore"><font size="2">8</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span></b><b style="mso-bidi-font-weight: normal"><span lang="EN-GB" style="mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2">Right to access and correct your personal information<o:p></o:p></font></span></b></font></p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 9pt"><span lang="EN-GB" style="mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2"><font color="#000000">You have the right to access, request or correct the personal information that we hold about you at any time by editing the ‘My Profile’ details on this website.<o:p></o:p></font></font></span></p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 9pt"><span lang="EN-GB" style="mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2"><font color="#000000">To ensure that the personal information we hold about you is accurate and up to date, please update the ‘My Profile’ details with any changes to your personal details as soon as possible.<o:p></o:p></font></font></span></p>
-<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt; mso-layout-grid-align: none"><span lang="EN-GB" style="COLOR: black; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2">You may request that we remove any personal information held about you by sending an email to the following address with the message subject of ‘Remove My Profile’.<o:p></o:p></font></span></p>
-<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt 36pt; mso-layout-grid-align: none"><font size="2"><span lang="EN-GB" style="COLOR: black; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB">Email address: <a href="mailto:help@sjs.co.nz">help@sjs.co.nz</a></span></font></p>
-<p class="MsoNormal" style="MARGIN: 0cm 0cm 10pt 36pt; mso-layout-grid-align: none"><font color="#000000"><b style="mso-bidi-font-weight: normal"><span lang="EN-GB" style="mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2"><o:p></o:p></font></span></b></font>&nbsp;</p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 9pt"><font size="2"><font color="#000000"><span lang="EN-GB" style="mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><strong>9&nbsp; Changes to our Privacy Policy</strong></span></font></font></p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 9pt"><font size="2"><font color="#000000"><span lang="EN-GB" style="mso-fareast-language: EN-GB; mso-ansi-language: EN-GB">We reserve the right, at our discretion, to update, change or revise this Privacy Policy, at any time. Please check the Privacy Policy periodically for changes. </span><span style="COLOR: black; mso-bidi-font-family: Arial">Your continued use of this website following the posting of any changes to the Privacy Policy indicates your acceptance of those changes.</span></font></font></p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 9pt"><font size="2"><font color="#000000"><span style="COLOR: black; mso-bidi-font-family: Arial"></span></font></font><font color="#000000"><b style="mso-bidi-font-weight: normal"><span lang="EN-GB" style="mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><span style="mso-list: Ignore"><font size="2">10</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span></b><font size="2"><b style="mso-bidi-font-weight: normal">Other Terms</b><b style="mso-bidi-font-weight: normal"><span lang="EN-GB" style="mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><o:p></o:p></span></b></font></font></p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 9pt"><span lang="EN-GB" style="mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><font size="2"><font color="#000000">Your use of this website is subject to our Terms of Use.</font></font></span></p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 9pt"><span lang="EN-GB" style="mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"></span><span lang="EN-GB" style="mso-fareast-language: EN-GB; mso-ansi-language: EN-GB"><o:p><font color="#000000" size="2">&nbsp;</font></o:p></span></p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 9pt"><span style="COLOR: black; mso-bidi-font-family: Arial"><font size="2">This Privacy Policy was last updated on 26 August 2009.<span style="DISPLAY: none; mso-hide: all">New Zealand law governs the use of SJS and these terms and conditions</span></font></span></p>
-
-</div>
-    </div>
-    <div>
-
-</div>
-
-    </div>
-    <div class="rectangleAd">
-        <div>
-	<script type="text/javascript"> 
-  GA_googleFillSlot("sjs_rectangle");
-</script>
-</div>
-    </div>
-
-        </div>
-        <div id="footer">
-            <div class="banner" align="center">
-                <div>
-	<!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT SJS_Banner
-     -->
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://www.sjs.co.nz/sites/default/files/css/css_cuUmSs2IpvHkc9ChHyznTaUhknhiQppe5Rlu1L4Oevk.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://www.sjs.co.nz/sites/default/files/js/js_xeIhn1zXkFRcOnCdfg5ufsNgSp0K2HdIeUemcGR3FJ4.js"></script>
+<script type="text/javascript" src="http://www.sjs.co.nz/sites/default/files/js/js_P80Ox8eELgpKfYs0M3woqcMaYJx9oqJ9X3PkdL8jKn4.js"></script>
+<script type="text/javascript" src="http://www.sjs.co.nz/sites/default/files/js/js_NuVfsnZgEr12hlTLeToYWpbtzxtGUQ2nm4Kf0ZQyAqY.js"></script>
 <script type="text/javascript">
-  GA_googleFillSlot("SJS_Banner");
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"sjs","theme_token":"5V90aE3E9L4TGJvvSirwCoczINPjMtA53P2Ey_xe9Xc","js":{"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/custom\/sjs_profiles\/js\/sjs_profiles.js":1,"sites\/all\/modules\/contrib\/hint\/hint.js":1,"sites\/all\/modules\/contrib\/panels\/js\/panels.js":1,"sites\/all\/modules\/custom\/pollanon\/js\/pollanon.pack.js":1,"sites\/all\/modules\/custom\/sjs_search\/js\/sjs_search.js":1,"sites\/all\/modules\/custom\/pollanon\/js\/pollanon.js":1,"sites\/all\/modules\/custom\/pollanon\/js\/jquery.cookie.min.js":1,"sites\/all\/modules\/contrib\/cool_message\/cool_message.js":1,"sites\/all\/themes\/sjs\/js\/sjs.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/custom\/sjs_profiles\/css\/sjs_profiles.css":1,"sites\/all\/modules\/contrib\/ckeditor\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/custom\/tagadelic\/tagadelic.css":1,"sites\/all\/modules\/contrib\/cool_message\/cool_message.css":1,"sites\/all\/modules\/custom\/pollanon\/pollanon.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/themes\/sjs\/css\/html-reset.css":1,"sites\/all\/themes\/sjs\/css\/wireframes.css":1,"sites\/all\/themes\/sjs\/css\/layout-fixed.css":1,"sites\/all\/themes\/sjs\/css\/page-backgrounds.css":1,"sites\/all\/themes\/sjs\/css\/tabs.css":1,"sites\/all\/themes\/sjs\/css\/pages.css":1,"sites\/all\/themes\/sjs\/css\/blocks.css":1,"sites\/all\/themes\/sjs\/css\/navigation.css":1,"sites\/all\/themes\/sjs\/css\/views-styles.css":1,"sites\/all\/themes\/sjs\/css\/nodes.css":1,"sites\/all\/themes\/sjs\/css\/comments.css":1,"sites\/all\/themes\/sjs\/css\/forms.css":1,"sites\/all\/themes\/sjs\/css\/fields.css":1,"sites\/all\/themes\/sjs\/css\/fresh.css":1,"sites\/all\/themes\/sjs\/css\/sidebars.css":1,"sites\/all\/themes\/sjs\/css\/print.css":1,"sites\/all\/themes\/sjs\/css\/ie.css":1,"sites\/all\/themes\/sjs\/css\/ie7.css":1,"sites\/all\/themes\/sjs\/css\/ie6.css":1}},"heartbeat_language":"en","jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in two-sidebars page-node page-node- page-node-337 node-type-page section-content">
+  <div id="skip-link">
+    <a href="#main-menu" class="element-invisible element-focusable">Jump to Navigation</a>
+  </div>
+    
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+GS_googleAddAdSenseService("ca-pub-7564861833208206");
+              GS_googleEnableAllServices();
+//--><!]]>
+
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+GA_googleAddSlot("ca-pub-7564861833208206", "SJS_Banner");
+              GA_googleAddSlot("ca-pub-7564861833208206", "sjs_rectangle");
+              GA_googleAddSlot("ca-pub-7564861833208206", "SJS_Skyscraper");
+              GA_googleAddSlot("ca-pub-7564861833208206", "SJS_topbanner");
+              GA_googleAddSlot("ca-pub-7564861833208206", "studentjobsearch");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+GA_googleFetchAds();
+//--><!]]>
 </script>
 
+<div class="page-container">
+
+<div id="top-bar"><div class="section clearfix">  <div class="region region-top-bar">
+    <div id="block-menu-menu-top-bar" class="block block-menu first last odd">
+
+        <h2 class="block-title">Top bar navigation</h2>
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/content/feedback-0" title="">Feedback</a></li>
+<li class="leaf"><a href="/content/contact-us">Contact us</a></li>
+<li class="last leaf"><a href="/content/about-us">About us</a></li>
+</ul>  </div>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+</div></div>
+
+
+<div id="header"><div class="section clearfix">
+
+          <a href="/" title="Home" rel="home" id="logo"><img src="http://www.sjs.co.nz/sites/default/files/sjs-logo_1.png" alt="Home"></a>
+    
+    
+    
+      <div class="region region-header">
+    <div id="block-sjs-ads-leaderboard-header" class="block block-sjs-ads first odd">
+
+      
+  <div class="content">
+    <div class="block-ad-wrapper" id="block-ad-leaderboard-header-wrapper"><div class="block-ad" id="block-ad-leaderboard-header"><iframe src="http://tpnads.com/iframe/jscode.php?zoneid=3895&amp;size=760x120" width="760" height="120" border="0" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true">
+<a href='http://tpnads.com/delivery/ck.php?n=1105308609&cb={random}' target='_blank'>
+ <img src='http://tpnads.com/delivery/avw.php?zoneid=3895&cb={random}&n=1105308609' border='0' alt='' />
+</a>
+</iframe></div></div>  </div>
+
+</div><!-- /.block -->
+<div id="block-menu-menu-anonymous-navigation" class="block block-menu last even">
+
+      
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/" title="">Home</a></li>
+<li class="leaf"><a href="/search/jobs" title="">Find a job</a></li>
+<li class="leaf"><a href="/content/employ-student" title="">Employer Registration</a></li>
+<li class="last leaf"><a href="http://www.facebook.com/studentjobsearchnz" title="">f</a></li>
+</ul>  </div>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+
+      <div class="region region-sub-header">
+    <div id="block-menu-menu-get-started" class="block block-menu first odd">
+
+        <h2 class="block-title">Get started</h2>
+    
+  <div class="content">
+    <ul class="menu"><li class="first last leaf"><a href="/user/register/student" title="">Student registration</a></li>
+</ul>  </div>
+
+</div><!-- /.block -->
+<div id="block-user-login" class="block block-user even">
+
+        <h2 class="block-title">Log in now!</h2>
+    
+  <div class="content">
+    <form action="/content/privacy-policy" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+ <input title="E-mail" class="hint-enabled form-text required" type="text" id="edit-name" name="name" value="" size="19" maxlength="60">
+</div>
+<div class="form-item form-type-password form-item-pass">
+ <input title="Password" class="hint-enabled form-text required" type="password" id="edit-pass" name="pass" size="19" maxlength="60">
+</div>
+<input type="hidden" name="form_build_id" value="form-k2d0xY6wU33xeZgQ0ONjd6cc6GSypQM9cmvaSj4zLqc">
+<input type="hidden" name="form_id" value="user_login_block">
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit"></div></div></form>  </div>
+
+</div><!-- /.block -->
+<div id="block-block-16" class="block block-block last odd">
+
+      
+  <div class="content">
+    <a class="forgot-password" href="/user/password">Forgot password?</a>
+  </div>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+
+</div></div><!-- /.section, /#header -->
+
+<div id="page-wrapper"><div id="page">
+
+  <div id="main-wrapper"><div id="main" class="clearfix">
+
+		
+		  <div class="region region-sidebar-first column sidebar"><div class="section">
+    <div id="block-search-api-page-2" class="block block-search-api-page first odd">
+
+        <h2 class="block-title">Enter region, job type or keyword</h2>
+    
+  <div class="content">
+    <form action="/content/privacy-policy" method="post" id="search-api-page-search-form-2" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-keys-2">
+  <input type="text" id="edit-keys-2" name="keys_2" value="Enter keywords..." size="15" maxlength="128" class="form-text">
+</div>
+<input type="hidden" name="id" value="2">
+<input type="submit" id="edit-submit-2" name="op" value="Search" class="form-submit"><input type="hidden" name="form_build_id" value="form-yk0fD0EAeyDUjtJpme-1Yg9Jpe0mJAlGNK8RI8Ka2yM">
+<input type="hidden" name="form_id" value="search_api_page_search_form_2">
+</div></form>  </div>
+
+</div><!-- /.block -->
+<div id="block-sjs-ads-rectangle" class="block block-sjs-ads last even">
+
+      
+  <div class="content">
+    <div class="block-ad-wrapper" id="block-ad-rectangle-wrapper"><div class="block-ad" id="block-ad-rectangle"><iframe src="http://tpnads.com/iframe/jscode.php?zoneid=3894&amp;size=300x250" width="300" height="250" border="0" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true">
+<a href='http://tpnads.com/delivery/ck.php?n=1293568537&cb={random}' target='_blank'>
+ <img src='http://tpnads.com/delivery/avw.php?zoneid=3894&cb={random}&n=1293568537' border='0' alt='' />
+</a>
+</iframe></div></div>  </div>
+
+</div><!-- /.block -->
+  </div></div><!-- /.section, /.region -->
+
+    <div id="content" class="column"><div class="section">
+            <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Privacy Policy</h1>
+                        <div id="messages-box">
+</div>
+
+      
+                    <div class="region region-content">
+    <div id="block-system-main" class="block block-system first last odd">
+
+      
+  <div class="content">
+    <div id="node-337" class="node node-page view-mode-full clearfix" about="/content/privacy-policy" typeof="foaf:Document">
+
+  
+      
+  
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-long field-label-hidden clearfix">
+    <div class="field-items">
+          <div class="field-item even" property="content:encoded"><h3>
+	<span style="color:#ff0000;">Introduction</span></h3>
+<div>
+	<p>We may collect, retain and use your personal information (including your e-mail address, name, phone number and mailing address) from time to time. This Privacy Policy sets out our practices regarding the collection, use, storage and disclosure of your personal information in compliance with the Privacy Act 1993. Please read this Privacy Policy before using this website or submitting your personal information to this website. By using this website, you agree to be bound by the terms of this Privacy Policy. This privacy policy is subject to, and must be read in conjuction with, our <a href="/content/terms-conditions">Terms and Conditions</a>.</p>
+</div>
+<h3>
+	<span style="color:#ff0000;">Terminology</span></h3>
+<div>
+	<p>In this Privacy Policy, the terms ‘SJS’, ‘we’, ‘us’, and ‘our’ refer to Student Job Search Aotearoa Inc and the terms ‘you’ and ‘your’ refer to you as a website user, student or employer.</p>
+</div>
+<h3>
+	<span style="color:#ff0000;">Information we may collect and retain</span></h3>
+<div>
+	<p>We may collect and retain your personal information in the following circumstances:</p>
+</div>
+<div>
+	<strong>a)</strong> when you complete forms on this website (including surveys, search forms, competition entry forms, registration forms, and other forms);</div>
+<div>
+	<strong>b)</strong> when you create, modify, or use any accounts or registered user facilities available through this website;&nbsp;</div>
+<div>
+	<strong>c)</strong> in the course of receiving questions, comments or other communications from you; and</div>
+<div>
+	<strong>d)</strong> as you navigate through this website, certain information may be passively collected (that is, gathered without your active participation) using various technologies and means, such as Internet Protocol addresses, cookies, Internet tags, and navigational data collection. Information collected may include server addresses, top-level domain names, dates and times of visits to the website, pages accessed and documents downloaded, previous websites visited and the type of browser used.</div>
+<h3>
+	<span style="color:#ff0000;">Use of personal information</span></h3>
+<div>
+	<p>The personal information we collect will be used to provide services you have authorised or requested. &nbsp;We may also use personal information collected by us to:</p>
+</div>
+<div>
+	<strong>a)</strong> verify your identity and assist you in case you forget your password or login details</div>
+<div>
+	<strong>b)</strong> enable us to offer an effective employmentjob &nbsp;service and assist you in obtaining employment / employee referrals&nbsp;</div>
+<div>
+	<strong>c)</strong> respond to any questions or correspondence from you;</div>
+<div>
+	<strong>d) </strong>manage and improve this website and any related services;</div>
+<div>
+	<strong>e)</strong> carry out internal research and development;</div>
+<div>
+	<strong>f) </strong>conduct student/employer satisfaction surveys via an independent agency to assist us better serve our clients;</div>
+<div>
+	<strong>g)</strong> provide you with information about a service that you are using (including critical updates and announcements);</div>
+<div>
+	<strong>h)</strong> reduce the need for you to repeatedly enter the same information;</div>
+<div>
+	<strong>i)</strong> customise this website to suit your particular preferences and interests;</div>
+<div>
+	<strong>j)</strong> where you create a message using this website (for the purpose of sending that message to us, or to any other recipient specified by you), send that message;</div>
+<div>
+	<strong>k)</strong> analyse website usage, trends and statistics;</div>
+<div>
+	<strong>l)</strong> with your permission, supply you with further information concerning products and services which may be of interest to you; or</div>
+<div>
+	<strong>m)</strong> carry out any other use that is authorised by you or is notified to you at the time of collection.</div>
+<h3>
+	<span style="color:#ff0000;">Disclosure of personal information</span></h3>
+<div>
+	<p>We will not disclose your personal information except in accordance with this Privacy Policy (and in accordance with the Privacy Act 1993). We may use or disclose your personal information if you have authorised us to do so, or in any of the following circumstances:</p>
+</div>
+<div>
+	<strong>a)</strong> we have given you notification of the intended use or disclosure and you have not objected to that use or disclosure;</div>
+<div>
+	<strong>b)</strong> you have consented for us to do so, we may provide your contact details to your past, current or prospective employers or employees;</div>
+<div>
+	<strong>c)</strong> you have consented for us to do so, we may provide your name and telephone number to students in the same job as you;</div>
+<div>
+	<strong>d)</strong> you apply for an Unemployment Benefit Student Hardship (UBSH) from the Ministry of Social Development (MSD) and MSD request that we provide your SJS enrolment details (your personal information) in order to check your eligibility to receive the unemployment benefit;</div>
+<div>
+	<strong>e)</strong> we believe that the use or disclosure is reasonably necessary to assist a law enforcement agency or an agency responsible for national security in the performance of their functions;</div>
+<div>
+	<strong>f)</strong> we believe that the use or disclosure is reasonably necessary to enforce any legal rights &nbsp;we may have, or is reasonably necessary to protect the rights, property and safety of you, us, or others; or</div>
+<div>
+	<strong>g) </strong>we are required or permitted by law to disclose the information.</div>
+<h3>
+	<span style="color:#ff0000;">Third Party Websites</span></h3>
+<div>
+	<p>This website may contain hyperlinks to third party websites. We are not responsible for the content of such websites, or the manner in which those websites collect, store, use, and distribute any personal information you provide. When visiting a third party website from hyperlinks displayed on this website, we encourage you to review the privacy statements of those websites so that you can understand how the personal information you provide will be will collected, stored, used and distributed.</p>
+</div>
+<h3>
+	<span style="color:#ff0000;">Storage of personal information</span></h3>
+<div>
+	<p>Your personal information is collected by SJS and may be held by SJS, i-Sage ("i-Sage), and Amazon ('Amazon') from time to time. The address collected on this website is collected and stored on a secure SJS server located at Plunket House, 126 Lambton Quay, Wellington, New Zealand .</p>
+</div>
+<div>
+	- SJS: L8, Grand Annexe, 84 Boulcott St, Wellington, 6011</div>
+<div>
+	- i-Sage Limited: 2/318 Oriental Parade, Wellington, 6011</div>
+<div>
+	- Amazon</div>
+<h3>
+	<span style="color:#ff0000;">Security</span></h3>
+<div>
+	<p>No data transmissions over the Internet are completely secure. Accordingly, we cannot ensure the security of information transmitted from or to you. However, once we have received your personal information, we will use reasonable efforts to protect the information against loss or misuse, and against unauthorised access, use, modification, or disclosure.</p>
+</div>
+<h3>
+	<span style="color:#ff0000;">Right to access and correct your personal information</span></h3>
+<div>
+	<p>You may request access to, or correction of, any personal information we hold about you by contacting our privacy officer at: catherine.martindale@sjs.co.nz.</p>
+</div>
+<div>
+	You have the right to access, request or correct the personal information that we hold about you at any time by editing the 'My Profile' details on this website.</div>
+<div>
+	&nbsp;</div>
+<div>
+	To ensure that the personal information we hold about you is accurate and up to date, please update the 'MyProfile' with, or notify us of, any changes to your personal details as soon as possible.</div>
+<div>
+	&nbsp;</div>
+<div>
+	You may request that we remove any personal information held about you by sending an email to the following address with the message subject of ‘Remove My Profile’.</div>
+<div>
+	Email address: help@sjs.co.nz&nbsp;</div>
+<h3>
+	<span style="color:#ff0000;">Changes to our Privacy Policy</span></h3>
+<div>
+	<p>We reserve the right, at our discretion, to update, change or revise this Privacy Policy, at any time. Changes to this privacy policy will take effect immediately once they are published on this website. Please check the Privacy Policy periodically for changes. Your continued use of this website following the posting of any changes to the Privacy Policy indicates your acceptance of those changes.</p>
+</div>
+<div>
+	This Privacy Policy was last updated December 2011.</div>
+<h3>
+	<span style="color:#ff0000;">Other Terms</span></h3>
+<div>
+	<p>Your use of this website is subject to our <a href="/content/terms-conditions">Terms and Conditions.</a></p>
+</div>
+<div>
+	This Privacy Policy was last updated on 29 February 2012 .</div>
+<div>
+	&nbsp;</div>
+</div>
+      </div>
+</div>  </div>
+
+  <ul class="links inline"><li class="service-links-forward first"><a href="http://www.sjs.co.nz/forward?path=node/337" title="Send to a friend" class="service-links-forward" rel="nofollow" target="_blank"><img typeof="foaf:Image" src="http://www.sjs.co.nz/sites/all/themes/sjs/images/icons/forward.png" alt="Forward"></a></li>
+<li class="service-links-facebook"><a href="http://www.facebook.com/sharer.php?u=http%3A//www.sjs.co.nz/content/privacy-policy&amp;t=Privacy%20Policy" title="Share on Facebook." class="service-links-facebook" rel="nofollow" target="_blank"><img typeof="foaf:Image" src="http://www.sjs.co.nz/sites/all/themes/sjs/images/icons/facebook.png" alt="Facebook"></a></li>
+<li class="service-links-twitter"><a href="http://twitter.com/share?url=http%3A//www.sjs.co.nz/content/privacy-policy&amp;text=Privacy%20Policy" title="Share this on Twitter" class="service-links-twitter" rel="nofollow" target="_blank"><img typeof="foaf:Image" src="http://www.sjs.co.nz/sites/all/themes/sjs/images/icons/twitter.png" alt="Twitter"></a></li>
+<li class="service-links-digg"><a href="http://digg.com/submit?phase=2&amp;url=http%3A//www.sjs.co.nz/content/privacy-policy&amp;title=Privacy%20Policy" title="Digg this post on digg.com" class="service-links-digg" rel="nofollow" target="_blank"><img typeof="foaf:Image" src="http://www.sjs.co.nz/sites/all/themes/sjs/images/icons/digg.png" alt="Digg"></a></li>
+<li class="service-links-google-buzz"><a href="http://www.google.com/buzz/post?url=http%3A//www.sjs.co.nz/content/privacy-policy" title="Buzz this post on Google." class="service-links-google-buzz" rel="nofollow" target="_blank"><img typeof="foaf:Image" src="http://www.sjs.co.nz/sites/all/themes/sjs/images/icons/google_buzz.png" alt="Google Buzz"></a></li>
+<li class="service-links-stumbleupon"><a href="http://www.stumbleupon.com/submit?url=http%3A//www.sjs.co.nz/content/privacy-policy&amp;title=Privacy%20Policy" title="Thumb this up at StumbleUpon" class="service-links-stumbleupon" rel="nofollow" target="_blank"><img typeof="foaf:Image" src="http://www.sjs.co.nz/sites/all/themes/sjs/images/icons/stumbleit.png" alt="StumbleUpon"></a></li>
+<li class="service-links-reddit"><a href="http://reddit.com/submit?url=http%3A//www.sjs.co.nz/content/privacy-policy&amp;title=Privacy%20Policy" title="Submit this post on reddit.com." class="service-links-reddit" rel="nofollow" target="_blank"><img typeof="foaf:Image" src="http://www.sjs.co.nz/sites/all/themes/sjs/images/icons/reddit.png" alt="Reddit"></a></li>
+<li class="service-links-delicious"><a href="http://del.icio.us/post?url=http%3A//www.sjs.co.nz/content/privacy-policy&amp;title=Privacy%20Policy" title="Bookmark this post on del.icio.us." class="service-links-delicious" rel="nofollow" target="_blank"><img typeof="foaf:Image" src="http://www.sjs.co.nz/sites/all/themes/sjs/images/icons/delicious.png" alt="del.icio.us"></a></li>
+<li class="service-links-linkedin last"><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A//www.sjs.co.nz/content/privacy-policy&amp;title=Privacy%20Policy&amp;summary=%0D%0A%09Introduction%0D%0A%0D%0A%09We%20may%20collect%2C%20retain%20and%20use%20your%20personal%20information%20%28including%20your%20e-mail%20address%2C%20name%2C%20phone%20number%20and%20mailing%20address%29%20from%20time%20to%20time.%20This%20Privacy%20Policy%20sets%20out%20our%20practices%20regarding%20the%20collection%2C%20use%2C%20storage%20and%20disclosure%20of%20your%20personal%20information%20in%20compliance%20with%20the%20Privacy%20Act%201993.%20Please%20read%20this%20Privacy%20Policy%20before%20using%20this%20website%20or%20submitting%20your%20personal%20information%20to%20this%20website.%20By%20using%20this%20website%2C%20you%20agree%20to%20be%20bound%20by%20the%20terms%20of%20this%20Privacy%20Policy.&amp;source=Student%20Job%20Search" title="Publish this post to LinkedIn" class="service-links-linkedin" rel="nofollow" target="_blank"><img typeof="foaf:Image" src="http://www.sjs.co.nz/sites/all/themes/sjs/images/icons/linkedin.png" alt="LinkedIn"></a></li>
+</ul>
+  
+</div><!-- /.node -->
+  </div>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+                </div></div><!-- /.section, /#content -->
+
+      <div class="region region-sidebar-second column sidebar"><div class="section">
+    <div id="block-sjs-ads-skyscraper" class="block block-sjs-ads first last odd">
+
+      
+  <div class="content">
+    <div class="block-ad-wrapper" id="block-ad-skyscraper-wrapper"><div class="block-ad" id="block-ad-skyscraper"><iframe src="http://tpnads.com/iframe/jscode.php?zoneid=3893&amp;size=160x600" width="160" height="600" border="0" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true">
+<a href='http://tpnads.com/delivery/ck.php?n=696187209&cb={random}' target='_blank'>
+ <img src='http://tpnads.com/delivery/avw.php?zoneid=3893&cb={random}&n=696187209' border='0' alt='' />
+</a>
+</iframe></div></div>  </div>
+
+</div><!-- /.block -->
+  </div></div><!-- /.section, /.region -->
+
+  </div></div><!-- /#main, /#main-wrapper -->
+
+    <div class="region region-footer">
+    <div id="block-block-17" class="block block-block first odd">
+
+      
+  <div class="content">
+    <a href="http://www.facebook.com/studentjobsearchnz"><img style="display: block;" src="/sites/all/themes/sjs/images/like-us.jpg" alt="Facebook Like us Join in, and take part."></a>  </div>
+
+</div><!-- /.block -->
+<div id="block-sjs-ads-leaderboard-footer" class="block block-sjs-ads last even">
+
+      
+  <div class="content">
+    <div class="block-ad-wrapper" id="block-ad-leaderboard-footer-wrapper"><div class="block-ad" id="block-ad-leaderboard-footer"><iframe src="http://tpnads.com/iframe/jscode.php?zoneid=3895&amp;size=760x120" width="760" height="120" border="0" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true">
+<a href='http://tpnads.com/delivery/ck.php?n=1105308609&cb={random}' target='_blank'>
+ <img src='http://tpnads.com/delivery/avw.php?zoneid=3895&cb={random}&n=1105308609' border='0' alt='' />
+</a>
+</iframe></div></div>  </div>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+<div id="footer-container">
+	  <div class="region region-bottom">
+    <div id="block-block-12" class="block block-block first odd">
+
+      
+  <div class="content">
+    Copyright © 2012 Student Job Search
+  </div>
+
+</div><!-- /.block -->
+<div id="block-menu-menu-footer" class="block block-menu last even">
+
+      
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/content/terms-conditions">Terms &amp; conditions</a></li>
+<li class="leaf"><a href="/content/privacy-policy" class="active">Privacy policy</a></li>
+<li class="last leaf"><a href="/content/employment-guides">Employment concerns</a></li>
+</ul>  </div>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
 
 </div>
-            </div>
-            <ul class="tabs">
-                <li>Copyright © 2011 Student Job Search</li>
-                <li><a href="/en/Contact-us/">Contact us</a></li>
-                <li><a href="/en/General-Pages/Terms-and-Conditions/">Terms and Conditions</a></li>
-                <li><a href="/en/General-Pages/Privacy/">Privacy Policy</a></li>
-                <li><a href="/en/General-Pages/Links/">Links</a></li>
-            </ul>
-            <p class="quiet">Need help? Call us on 0800 757 562</p>
-        </div>
-    </div>
-    </form>
-    <div>
-	<!-- COPYRIGHT 2009 Nielsen Online -->
-<script src="//secure-nz.imrworldwide.com/v60.js"></script>
-<script type="text/javascript"> 
- var pvar = { cid: "nz-sjs", content: "0", server: "secure-nz" };
- var trac = nol_t(pvar);
- trac.record().post();
+</div>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-11653365-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
 </script>
-<noscript>
- <div>
- <img src="//secure-nz.imrworldwide.com/cgi-bin/m?ci=nz-sjs&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1" height="1" alt="" />
- </div>
-</noscript>
-<!-- END Nielsen Online SiteCensus V6.0 -->
-</div>
+  <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/31/eum/rum-staging.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","c043e2e64a",539771,"bgFQbEVUVhFVU0JZXldLc1tDXFcMG15ZVFRmFFNfUmpOC1FH",0,682,new Date().getTime()]);</script>
 
 
-</body></html>
+<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/31/eum/rum-staging.js"></script></body></html>
