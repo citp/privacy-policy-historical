@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the godaam.com privacy policy that was archived on 2011-11-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111110044331id_/http%3A//godaam.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D3) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the godaam.com privacy policy that was archived on 2012-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120509084314id_/http%3A//godaam.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D3) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr"><head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="robots" content="index, follow">
-  <meta name="keywords" content="godaam, Godaam">
+  <meta name="keywords" content="godaam, Godaam, Wallet, Bags, Backpacks, accesories, accesory, t-shirt, shoes, watch, Targus, Belkin, Reebok, Laptop,Fashion Accessories,Handbags and Purses,School Bags,Designer Handbags,School Backpacks,Leather Bags,Unique Backpacks,Army Backpacks,HD Accessory,Hand Bags,Chanel Bags,Cool Wallets,Google Wallet,Hiking Backpacks">
   <meta name="title" content="Privacy Policy">
   <meta name="author" content="Ashvin Sharma">
   <meta name="description" content="Godaam brings you Indian designers, national and international brands and plethora of products at one place. It is a platform that sells everything.
@@ -13,24 +13,23 @@ Here, you buy exclusive brands in retail but pay in wholesale price - The best a
   <meta name="generator" content="Joomla! 1.5 - Open Source Content Management">
   <title>Privacy Policy</title>
   <link href="/templates/vmblend/favicon.ico" rel="shortcut icon" type="image/x-icon">
-  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/media/system/js/mootools-uncompressed.js"></script>
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/media/system/js/mootools-uncompressed.js"></script>
   <script type="text/javascript" src="/media/system/js/caption.js"></script>
 
-  <link rel="stylesheet" type="text/css" href="/templates/vmblend/css/godaam.css" media="screen">
-  <link rel="stylesheet" type="text/css" href="/templates/vmblend/css/extra1.css" media="screen">
-  <link rel="stylesheet" type="text/css" href="/templates/vmblend/css/extra.css" media="all">
-  <link rel="stylesheet" type="text/css" href="/templates/vmblend/css/reset1.css" media="screen">
-  <link href="/templates/vmblend/css/slideshow.css" rel="stylesheet" type="text/css" media="screen">
-  <link href="/templates/vmblend/css/new.css" rel="stylesheet" type="text/css" media="screen">
+  <link rel="stylesheet" type="text/css" href="http://static.godaam.com/templates/vmblend/css/godaam.css" media="screen">
+  <link rel="stylesheet" type="text/css" href="http://static.godaam.com/templates/vmblend/css/extra1.css" media="screen">
+  <link rel="stylesheet" type="text/css" href="http://static.godaam.com/templates/vmblend/css/extra.css" media="all">
+  <link rel="stylesheet" type="text/css" href="http://static.godaam.com/templates/vmblend/css/reset1.css" media="screen">
+  <link href="http://static.godaam.com/templates/vmblend/css/slideshow.css" rel="stylesheet" type="text/css" media="screen">
+  <link href="http://static.godaam.com/templates/vmblend/css/new.css" rel="stylesheet" type="text/css" media="screen">
 
-  <!--[if IE 6]><link rel="stylesheet" type="text/css" href="/templates/vmblend/css/ie6.css" media="screen" /><![endif]-->
-  <!--[if IE 7]><link rel="stylesheet" type="text/css" href="/templates/vmblend/css/ie.css" media="screen" /><![endif]-->
-  <!--[if IE 8]><link rel="stylesheet" type="text/css" href="/templates/vmblend/css/ie8.css" media="screen" /><![endif]-->
+  
+  
+  
 	<script type="text/javascript" src="/templates/vmblend/js/slidediv.js"></script>
 	<script type="text/javascript" src="/templates/vmblend/js/mootools-fluid16.js"></script>
 	<script type="text/javascript" src="/templates/vmblend/js/moomenu.js"></script>
 	<script type="text/javascript" src="/templates/vmblend/js/_class.noobSlide.js"></script>
-	<script type="text/javascript" src="/templates/vmblend/js/plusone.js"></script>
 	<style type="text/css">
 		#top h1{left:20px;top:20px;}#top h2{left:230px;top:0px;}#top-handler #logo{left:px;top:px;}
 			</style>
@@ -49,6 +48,34 @@ var div = document.getElementById('panel_s');
     myVerticalSlide.slideOut();
   });
 });
+</script>
+
+<script type="text/javascript">
+function CheckPincode(str)
+{
+	if (str=="")
+	{
+	  document.getElementById("txtHint").innerHTML="Please enter the pincode.";
+	  return;
+	}
+	if (window.XMLHttpRequest)
+	{// code for IE7+, Firefox, Chrome, Opera, Safari
+	  xmlhttp=new XMLHttpRequest();
+	}
+	else
+	{// code for IE6, IE5
+	  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+	}
+	xmlhttp.onreadystatechange=function()
+	{
+		if (xmlhttp.readyState==4 && xmlhttp.status==200)
+		{
+			document.getElementById("txtHint").innerHTML=xmlhttp.responseText;
+		}
+	}
+	xmlhttp.open("GET","getpincode.php?q="+str,true);
+	xmlhttp.send();
+}
 </script>
 
 
@@ -116,8 +143,119 @@ var div = document.getElementById('panel_s');
 		}
 	</script>
 
+<script type="text/javascript">
+var days = "1";
+var youmsg = "Got an offer! <br><br><input value='close' type='button' Onclick='clo()'>"
+function getCookie(c_name)
+{
+if (document.cookie.length>0)
+  {
+  c_start=document.cookie.indexOf(c_name + "=");
+  if (c_start!=-1)
+    {
+    c_start=c_start + c_name.length+1;
+    c_end=document.cookie.indexOf(";",c_start);
+    if (c_end==-1) c_end=document.cookie.length;
+    return unescape(document.cookie.substring(c_start,c_end));
+    }
+  }
+return "";
+}
+
+function setCookie(c_name,value,expiredays)
+{
+var exdate=new Date();
+exdate.setDate(exdate.getDate()+expiredays);
+document.cookie=c_name+ "=" +escape(value)+
+((expiredays==null) ? "" : ";expires="+exdate.toGMTString());
+
+document.getElementById("pet").innerHTML = youmsg;
+}
+
+function checkCookie()
+{
+username=getCookie('username');
+if (username!=null && username!="")
+  {
+	hideDiv();
+  }
+  else
+  {
+  showDiv();
+  username="repeat";
+  if (username!=null && username!="")
+    {
+    setCookie('username',username,days);
+    }
+  }
+}
+function clo()
+{
+	document.getElementById("pet").innerHTML = "";
+}
+
+function hideDiv() { 
+if (document.getElementById) { // DOM3 = IE5, NS6 
+document.getElementById('hideshow').style.visibility = 'hidden'; 
+} 
+else { 
+if (document.layers) { // Netscape 4 
+document.hideshow.visibility = 'hidden'; 
+} 
+else { // IE 4 
+document.all.hideshow.style.visibility = 'hidden'; 
+} 
+} 
+}
+
+function showDiv() { 
+if (document.getElementById) { // DOM3 = IE5, NS6 
+document.getElementById('hideshow').style.visibility = 'visible'; 
+} 
+else { 
+if (document.layers) { // Netscape 4 
+document.hideshow.visibility = 'visible'; 
+} 
+else { // IE 4 
+document.all.hideshow.style.visibility = 'visible'; 
+} 
+} 
+} 
+</script>
+
+
+<script type="text/javascript">
+					  var _gaq = _gaq || [];
+					  _gaq.push(['_setAccount', 'UA-24828445-1']);
+					  
+					  
+					  _gaq.push(['_trackPageview']);
+					  
+
+					  (function() {
+						var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+						ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+						var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+					  })();
+					</script>
+
 </head>
 <body class="cms-index-index cms-home">
+
+<div id="hideshow" style="visibility:hidden;">
+    <div id="fade"></div>
+
+    <div class="popup_block">
+        <div class="popup">
+            <a href="javascript:hideDiv()"><img src="/templates/vmblend/images/close.png" class="cntrl" title="Close" width="40px"></a>
+            <h3>Welcome!!!</h3>
+			<strong>Godaam</strong> is an exclusive online store of bags and fashion accessory product line. It will showcase the largest collection of the product line. <br><br>
+			<div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#appId=195619200501138&amp;xfbml=1&amp;status=1&amp;cookie=1"></script>Please do not forget to like this page. <fb:like href="http://www.facebook.com/pages/Godaam/221796267851769" send="false" colorscheme="light" show_faces="false" font="" layout="button_count"></fb:like><br><br>
+            <center><strong>To start shopping please close the box.  </strong></center>
+        </div>
+    </div>
+</div>
+
 <div id="background">
 	<div id="theme-width" class="w-fixednarrow">
 		<div class="container_16" style="position: relative; background: transparent;">
@@ -128,12 +266,12 @@ var div = document.getElementById('panel_s');
 					<div class="header-top">
 
 					<div class="quick-access">
-					<span class="phone"><img alt="Call over for any query" src="/templates/vmblend/images/ribbon/phone/phone.png"> +91-95354-63226</span>
+					<span class="phone"><img alt="Call over for any query" src="http://static.godaam.com/templates/vmblend/images/ribbon/phone/phone.png"> +91-95354-63226</span>
 					
 											<span class="newuser">New User?</span>
 										
 					<div class="shop-access">
-						<ul id="mainlevel"><li><a href="/" class="mainlevel">Home</a></li><li><a href="/index.php?option=com_virtuemart&amp;Itemid=8" class="mainlevel">My Account</a></li><li><a href="/index.php?option=com_virtuemart&amp;Itemid=24" class="mainlevel">Track Order</a></li><li><a href="/index.php?option=com_virtuemart&amp;Itemid=52" class="mainlevel">Cart</a></li></ul>					</div>
+						<ul id="mainlevel"><li><a href="/" class="mainlevel">Home</a></li><li><a href="/index.php?option=com_virtuemart&amp;Itemid=24" class="mainlevel">Track Order</a></li><li><a href="/index.php?option=com_virtuemart&amp;Itemid=52" class="mainlevel">Cart</a></li></ul>					</div>
 					<div align="left" style="padding-top:0px;">
 						<!-- 	facebook like block	 -->
 						<div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#appId=134860133285873&amp;xfbml=1&amp;status=1&amp;cookie=1"></script><fb:like href="http://www.facebook.com/pages/Godaam/221796267851769" send="true" width="450" colorscheme="light" show_faces="false" font="" layout="button_count"></fb:like>
@@ -170,7 +308,7 @@ var div = document.getElementById('panel_s');
 				<div class="container">
 					<div class="logomain">
 						<div id="logo" title="Godaam.com">
-							<a href="/"><img alt="Godaam" src="/templates/vmblend/images/logo/godaam_logo.png"></a>
+							<a href="/"><img alt="Godaam" src="http://static.godaam.com/templates/vmblend/images/logo/godaam_logo.png"></a>
 						</div>
 					</div>
 					<div id="logoleft">
@@ -179,17 +317,17 @@ var div = document.getElementById('panel_s');
 						<div class="shippingmenu">
 							 
 							<span>
-								<img src="/templates/vmblend/images/ShippingTruck.gif" alt="Free Shipping" align="absmiddle">
+								<img src="http://static.godaam.com/templates/vmblend/images/ShippingTruck.gif" alt="Free Shipping" align="absmiddle">
 								Free Shipping
 							</span>
 
 							<span>
-								<img src="/templates/vmblend/images/cash.gif" alt="COD" align="absmiddle">
+								<img src="http://static.godaam.com/templates/vmblend/images/cash.gif" alt="COD" align="absmiddle">
 								Cash on delivery
 							</span>
 
 							<span>
-								<img src="/templates/vmblend/images/safeandsecure.gif" alt="Safe And Secure Delivery" align="absmiddle"> 
+								<img src="http://static.godaam.com/templates/vmblend/images/safeandsecure.gif" alt="Safe And Secure Delivery" align="absmiddle"> 
 								Safe And Secure Delivery
 							</span>
 						</div>
@@ -197,7 +335,7 @@ var div = document.getElementById('panel_s');
 
 
 					<div class="loginmenu">
-						
+						<span class="refer" title="Refer a Friend"><a href="/index.php?option=com_content&amp;view=article&amp;id=6"><img src="http://static.godaam.com/images/refer/referral-friend.jpg" alt="Refer a Friend"></a></span>
 													<a class="button" href="/index.php?option=com_user&amp;task=register#content" style="float:right;">Sign up &gt;</a>
 												<br>
 						<br>
@@ -211,7 +349,7 @@ var div = document.getElementById('panel_s');
 										&nbsp;
 									</td>
 									<td>
-										<a id="v_toggle" class="button" href="#" style="float:right;">Login</a>
+										<a id="v_toggle" class="button" style="float:right;">Login</a>
 									</td>
 								</tr>
 							</tbody></table>
@@ -224,7 +362,7 @@ var div = document.getElementById('panel_s');
 						
 				<div class="menuMain">
 					<ul id="menu">
-						<li> <a class="tab-01" href="/index.php?option=com_virtuemart&amp;Itemid=15">Men</a> <!--submenu wrapper-->
+						<li> <a class="tab-01" href="/index.php?option=com_virtuemart&amp;Itemid=103">HandBags</a> <!--submenu wrapper-->
 							<div id="submenu1" class="submenuBox"><!--tees content-->
 							<div class="subContent menu1width">
 							<div class="highlightBox">
@@ -232,19 +370,17 @@ var div = document.getElementById('panel_s');
 							<h3>Pick of the week</h3>
 							</div>
 
-							<div class="whiteImgbox"><p><a href="/index.php?page=shop.product_details&amp;flypage=vmj_naru.tpl&amp;product_id=131&amp;category_id=41&amp;option=com_virtuemart&amp;Itemid=55"><img src="/templates/vmblend/images/Tommy_Hilfiger_B_4e8b3e17df806.jpg" border="0" width="133" height="150"></a></p>
-<h4 class="white"><a href="/index.php?page=shop.product_details&amp;flypage=vmj_naru.tpl&amp;product_id=131&amp;category_id=41&amp;option=com_virtuemart&amp;Itemid=55">Tommy Hilfiger Wallet</a></h4></div>
-							
+							<div class="whiteImgbox"><p><a href="/index.php?page=shop.product_details&amp;flypage=vmj_naru.tpl&amp;product_id=410&amp;category_id=70&amp;option=com_virtuemart&amp;Itemid=25"><img src="/templates/vmblend/images/W_pink.jpg" border="0" width="146" height="146"></a></p>
+<h4 class="white"><a href="/index.php?page=shop.product_details&amp;flypage=vmj_naru.tpl&amp;product_id=410&amp;category_id=70&amp;option=com_virtuemart&amp;Itemid=25">W Pink Handbag</a></h4></div>
 							</div>
 							<!--featured product end-->
 							<div class="categoryBox padLT20">
 							<div class="mainTitle">Categories</div>
 							<div class="left">
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=30" class="mainlevel">Accessory</a></td></tr>
-<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=55" class="mainlevel">Wallets</a></td></tr>
-<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=28" class="mainlevel">T-shirts</a></td></tr>
-<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=53" class="mainlevel">Support Anti Corruption</a></td></tr>
+<tbody><tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=111" class="mainlevel">Ladies Handbags</a></td></tr>
+<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=109" class="mainlevel">Clutch</a></td></tr>
+<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=110" class="mainlevel">Potli</a></td></tr>
 </tbody></table></div>
 
 							</div>
@@ -253,100 +389,208 @@ var div = document.getElementById('panel_s');
 							<div class="mainTitle">Brands</div>
 							<div class="left">
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=35" class="mainlevel">Targus</a></td></tr>
-<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=31" class="mainlevel">Adidas</a></td></tr>
-<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=32" class="mainlevel">Duke</a></td></tr>
-<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=34" class="mainlevel">Member Mark</a></td></tr>
-<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=36" class="mainlevel">Reebok</a></td></tr>
-<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=56" class="mainlevel">Mont Blanc</a></td></tr>
-<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=57" class="mainlevel">Tommy Hilfiger</a></td></tr>
+<tbody><tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=134" class="mainlevel">Modacc</a></td></tr>
+<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=84" class="mainlevel">Fastrack</a></td></tr>
+<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=85" class="mainlevel">WildCraft</a></td></tr>
+<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=100" class="mainlevel">Kara</a></td></tr>
+<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=101" class="mainlevel">SpiceArt</a></td></tr>
 </tbody></table></div>
-
 							</div>
+
 							<!--shop categoryBox end--></div>
 							<!--tees content end--></div>
 						<!--submenu wrapper end--> 
 						</li>
 
-						<li> <a class="tab-02" href="/index.php?option=com_virtuemart&amp;Itemid=17">Women</a> <!--submenu wrapper-->
+						<li> <a class="tab-02" href="/index.php?option=com_virtuemart&amp;Itemid=104">Laptops</a> <!--submenu wrapper-->
 							<div id="submenu1" class="submenuBox"><!--tees content-->
-							<div class="subContent menu1width">
+							<div class="subContent menu2width">
 							<div class="highlightBox">
 							<div class="pinkTitlebox">
 							<h3>Pick of the week</h3>
 							</div>
 
-							<div class="whiteImgbox"><p><a href="/index.php?page=shop.product_details&amp;flypage=vmj_naru.tpl&amp;product_id=57&amp;category_id=15&amp;option=com_virtuemart&amp;Itemid=17"><img src="/templates/vmblend/images/Allen_Solly_4debb301a5e24.jpg" border="0" width="132" height="148"></a></p>
-<h4 class="white"><a href="/index.php?page=shop.product_details&amp;flypage=vmj_naru.tpl&amp;product_id=57&amp;category_id=15&amp;option=com_virtuemart&amp;Itemid=17">Round Neck Top</a></h4></div>
+							<div class="whiteImgbox"><p><a href="/index.php?page=shop.product_details&amp;flypage=vmj_naru.tpl&amp;product_id=182&amp;category_id=74&amp;option=com_virtuemart&amp;Itemid=25"><img src="/templates/vmblend/images/Belkin_Apple_Move_TopLoader.jpg" border="0" width="146" height="146"></a></p>
+<h4 class="white"><a href="/index.php?page=shop.product_details&amp;flypage=vmj_naru.tpl&amp;product_id=182&amp;category_id=74&amp;option=com_virtuemart&amp;Itemid=25">Belkin Apple Move TopLoader</a></h4></div>
 
 							</div>
-							<!--featured product end-->
-							<div class="categoryBox padLT20">
-							<div class="mainTitle">Categories</div>
-							<div class="left">
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=40" class="mainlevel">Tops</a></td></tr>
-<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=41" class="mainlevel">Accessory</a></td></tr>
-</tbody></table></div>
-
-							</div>
-							<!--shop categoryBox end-->
-							<div class="categoryBox padLT20">
-							<div class="mainTitle">Brands</div>
-							<div class="left">
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=37" class="mainlevel">Allen Solly</a></td></tr>
-<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=38" class="mainlevel">Provogue</a></td></tr>
-<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=39" class="mainlevel">Targus</a></td></tr>
-</tbody></table></div>
-
-							</div>
-							<!--shop categoryBox end--></div>
-							<!--tees content end--></div>
-						<!--submenu wrapper end--> 
-						</li>
-
-						<li> <a class="tab-03" href="/index.php?option=com_virtuemart&amp;page=shop.browse&amp;category_id=19">Accessories</a> <!--submenu wrapper-->
-							<div id="submenu1" class="submenuBox"><!--tees content-->
-							<div class="subContent menu3width">
-
-							<div class="highlightBox">
-							<div class="pinkTitlebox">
-							<h3>Pick of the week</h3>
-							</div>
-
-							<div class="whiteImgbox"><p><a href="/index.php?page=shop.product_details&amp;flypage=vmj_naru.tpl&amp;product_id=146&amp;category_id=19&amp;option=com_virtuemart&amp;Itemid=13"><img src="/templates/vmblend/images/Targus_A7____16__4eb4ff3514887.jpg" border="0" width="146" height="146"></a></p>
-<h4 class="white"><a href="/index.php?page=shop.product_details&amp;flypage=vmj_naru.tpl&amp;product_id=146&amp;category_id=19&amp;option=com_virtuemart&amp;Itemid=13">Targus A7™ 16" Bagpack</a></h4></div>
-
-							</div>
-
 <!--featured product end-->
 							<div class="categoryBox padLT20">
 							<div class="mainTitle">Categories</div>
 							<div class="left">
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=42" class="mainlevel">Backpack</a></td></tr>
-<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=43" class="mainlevel">Wallets</a></td></tr>
-<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=44" class="mainlevel">Travel Bag</a></td></tr>
-<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=45" class="mainlevel">Watches</a></td></tr>
-<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=46" class="mainlevel">Interesting</a></td></tr>
+<tbody><tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=112" class="mainlevel">Laptop Backpacks</a></td></tr>
+<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=113" class="mainlevel">Top Loader Laptop Bags</a></td></tr>
+<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=114" class="mainlevel">Trolley Laptop Bags</a></td></tr>
 </tbody></table></div>
+
 							</div>
-							
+							<!--shop categoryBox end-->
+							<div class="categoryBox padLT20">
+							<div class="mainTitle">Brands</div>
+							<div class="left">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=96" class="mainlevel">Targus</a></td></tr>
+<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=97" class="mainlevel">Belkin</a></td></tr>
+<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=137" class="mainlevel">American Tourister</a></td></tr>
+</tbody></table></div>
+
+							</div>
+							<!--shop categoryBox end--></div>
+							<!--tees content end--></div>
+						<!--submenu wrapper end--> 
+						</li>
+
+						<li> <a class="tab-03" href="/index.php?option=com_virtuemart&amp;Itemid=105">BackPacks</a> <!--submenu wrapper-->
+							<div id="submenu1" class="submenuBox"><!--tees content-->
+							<div class="subContent menu5width">
+
+							<div class="highlightBox">
+							<div class="pinkTitlebox">
+							<h3>Pick of the week</h3>
+							</div>
+
+							<div class="whiteImgbox"><p><a href="/index.php?page=shop.product_details&amp;flypage=vmj_naru.tpl&amp;product_id=246&amp;category_id=80&amp;option=com_virtuemart&amp;Itemid=25"><img src="/templates/vmblend/images/Hydration_Bag_Green.jpg" border="0" width="146" height="146"></a></p>
+<h4 class="white"><a href="/index.php?page=shop.product_details&amp;flypage=vmj_naru.tpl&amp;product_id=246&amp;category_id=80&amp;option=com_virtuemart&amp;Itemid=25">Hydration Bag Green</a></h4></div>
+
+							</div>
+							<!--featured product end-->
+							<div class="categoryBox padLT20">
+							<div class="mainTitle">Categories</div>
+							<div class="left">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=115" class="mainlevel">Backpacks</a></td></tr>
+<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=116" class="mainlevel">Shoulder Bags/Slings</a></td></tr>
+<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=117" class="mainlevel">Duffle/Trek Bags</a></td></tr>
+</tbody></table></div>
+
+							</div>
 							<!--featured product end-->
 							<div class="categoryBox padLT20">
 							<div class="mainTitle">Brands</div>
 							<div class="left">
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=58" class="mainlevel">Tommy Hilfiger</a></td></tr>
-<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=59" class="mainlevel">Mont Blanc</a></td></tr>
-<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=71" class="mainlevel">Targus</a></td></tr>
+<tbody><tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=138" class="mainlevel">American Tourister</a></td></tr>
+<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=89" class="mainlevel">Fastrack</a></td></tr>
+<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=88" class="mainlevel">Decathalon</a></td></tr>
+<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=102" class="mainlevel">WildCraft</a></td></tr>
 </tbody></table></div>
 							</div>
 							</div>
 						</div></li>
 
-						<li> <a class="tab-04" href="/index.php?option=com_virtuemart&amp;Itemid=19">SuperSale</a>
+						<li> <a class="tab-04" href="/index.php?option=com_virtuemart&amp;Itemid=106">Sports-Duffle</a> <!--submenu wrapper-->
+							<div id="submenu1" class="submenuBox"><!--tees content-->
+							<div class="subContent menu1width">
+
+							<div class="highlightBox">
+							<div class="pinkTitlebox">
+							<h3>Pick of the week</h3>
+							</div>
+
+							<div class="whiteImgbox"><p><a href="/index.php?page=shop.product_details&amp;flypage=vmj_naru.tpl&amp;product_id=393&amp;category_id=86&amp;option=com_virtuemart&amp;Itemid=25"><img src="/templates/vmblend/images/Air_Large_Blue.jpg" border="0" width="146" height="146"></a></p>
+<h4 class="white"><a href="/index.php?page=shop.product_details&amp;flypage=vmj_naru.tpl&amp;product_id=393&amp;category_id=86&amp;option=com_virtuemart&amp;Itemid=25">Air Large Blue</a></h4></div>
+
+							</div>
+							<!--featured product end-->
+							<div class="categoryBox padLT20">
+							<div class="mainTitle">Categories</div>
+							<div class="left">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=118" class="mainlevel">Duffle Bag</a></td></tr>
+</tbody></table></div>
+
+							</div>
+							<!--featured product end-->
+							<div class="categoryBox padLT20">
+							<div class="mainTitle">Brands</div>
+							<div class="left">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=90" class="mainlevel">WildCraft</a></td></tr>
+</tbody></table></div>
+							</div>
+							</div>
+						</div></li>
+
+						<li> <a class="tab-05" href="/index.php?option=com_virtuemart&amp;Itemid=107">TravelBags</a> <!--submenu wrapper-->
+							<div id="submenu1" class="submenuBox"><!--tees content-->
+							<div class="subContent menu2width">
+							<div class="highlightBox">
+							<div class="pinkTitlebox">
+								<h3>Pick of the week</h3>
+							</div>
+
+							<div class="whiteImgbox"><p><a href="/index.php?page=shop.product_details&amp;flypage=vmj_naru.tpl&amp;product_id=452&amp;category_id=90&amp;option=com_virtuemart&amp;Itemid=25"><img src="/templates/vmblend/images/Geonaute_Action_Sports_Bag.jpg" border="0" width="146" height="146"></a></p>
+<h4 class="white"><a href="/index.php?page=shop.product_details&amp;flypage=vmj_naru.tpl&amp;product_id=452&amp;category_id=90&amp;option=com_virtuemart&amp;Itemid=25">Geonaute Action Sports Bag</a></h4></div>
+							
+							</div>
+<!--featured product end-->
+							<div class="categoryBox padLT20">
+							<div class="mainTitle">Categories</div>
+							<div class="left">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=119" class="mainlevel">Shoulder Duffle Bags</a></td></tr>
+<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=120" class="mainlevel">Backpack Travel Bags</a></td></tr>
+<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=121" class="mainlevel">Trolley Travel Bags</a></td></tr>
+</tbody></table></div>
+
+							</div>
+							<!--shop categoryBox end-->
+							<div class="categoryBox padLT20">
+							<div class="mainTitle">Brands</div>
+							<div class="left">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=91" class="mainlevel">Decathalon</a></td></tr>
+</tbody></table></div>
+
+							</div>
+							<!--shop categoryBox end--></div>
+							<!--tees content end--></div>
+						<!--submenu wrapper end--> 
+						</li>
+
+						<li> <a class="tab-06" href="/index.php?option=com_virtuemart&amp;Itemid=108">Wallets-Accessory</a> <!--submenu wrapper-->
+							<div id="submenu1" class="submenuBox"><!--tees content-->
+							<div class="subContent menu1width">
+							<div class="highlightBox">
+							<div class="pinkTitlebox">
+								<h3>Pick of the week</h3>
+							</div>
+
+							<div class="whiteImgbox"><p><a href="/index.php?page=shop.product_details&amp;flypage=vmj_naru.tpl&amp;product_id=241&amp;category_id=96&amp;option=com_virtuemart&amp;Itemid=25"><img src="/templates/vmblend/images/Mobile_cover_wallet.jpg" border="0" width="146" height="146"></a></p>
+<h4 class="white"><a href="/index.php?page=shop.product_details&amp;flypage=vmj_naru.tpl&amp;product_id=241&amp;category_id=96&amp;option=com_virtuemart&amp;Itemid=25">Mobile Cover Wallet</a></h4></div>
+							
+							</div>
+							<!--featured product end-->
+							<div class="categoryBox padLT20">
+							<div class="mainTitle">Categories</div>
+							<div class="left">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=94" class="mainlevel">Wallets</a></td></tr>
+<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=95" class="mainlevel">Belts</a></td></tr>
+<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=122" class="mainlevel">Mobile Cover</a></td></tr>
+</tbody></table></div>
+
+							</div>
+							<!--shop categoryBox end-->
+							<div class="categoryBox padLT20">
+							<div class="mainTitle">Brands</div>
+							<div class="left">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=98" class="mainlevel">Fastrack</a></td></tr>
+<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=92" class="mainlevel">WildCraft</a></td></tr>
+<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=93" class="mainlevel">SpiceArt</a></td></tr>
+<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=99" class="mainlevel">Newhide</a></td></tr>
+<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=133" class="mainlevel">Kara</a></td></tr>
+</tbody></table></div>
+
+							</div>
+							<!--shop categoryBox end--></div>
+							<!--tees content end--></div>
+						<!--submenu wrapper end--> 
+						</li>
+
+						<li> <a class="tab-07" href="/index.php?option=com_virtuemart&amp;Itemid=131">SuperSale</a>
 							<div id="submenu4" class="submenuBox">
 							<div class="subContent menu4width">
 							<div class="highlightBox">
@@ -361,10 +605,19 @@ var div = document.getElementById('panel_s');
 							</div>
 							<!--featured product end-->
 							<div class="categoryBox padLT20">
-							<div class="left"><p>&nbsp;</p>
-<p><a href="/index.php?option=com_virtuemart&amp;Itemid=42" target="_self">Targus Backpacks</a></p>
-<p><a href="/index.php?option=com_virtuemart&amp;Itemid=56" target="_self">Mont Blanc's Wallets</a></p>
-<p><a href="/index.php?option=com_virtuemart&amp;Itemid=57" target="_self">Tommy Hilfiger's Wallets</a></p></div>
+							<div class="left">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=135" class="mainlevel">Modacc</a></td></tr>
+<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=123" class="mainlevel">Targus</a></td></tr>
+<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=124" class="mainlevel">Belkin</a></td></tr>
+<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=130" class="mainlevel">Fastrack</a></td></tr>
+<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=125" class="mainlevel">Spice Art</a></td></tr>
+<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=126" class="mainlevel">NewHide</a></td></tr>
+<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=127" class="mainlevel">WildCraft</a></td></tr>
+<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=128" class="mainlevel">Decathalon</a></td></tr>
+<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=129" class="mainlevel">Kara</a></td></tr>
+<tr><td><a href="/index.php?option=com_virtuemart&amp;Itemid=139" class="mainlevel">American Tourister</a></td></tr>
+</tbody></table></div>
 							</div>
 							</div>
 							</div>
@@ -374,7 +627,7 @@ var div = document.getElementById('panel_s');
 				</div>	
 								<div id="search-form">
 					<!--BEGIN Search Box -->
-<form action="index.php?page=shop.browse&amp;option=com_virtuemart&amp;Itemid=8" method="post">
+<form action="index.php?page=shop.browse&amp;option=com_virtuemart&amp;Itemid=132" method="post">
 
 	<p><label for="keyword">Search</label></p>
 	<p>
@@ -397,7 +650,7 @@ var div = document.getElementById('panel_s');
 				<div id="vertical_slide">
 					<div>
 	<form action="http://www.godaam.com/index.php?option=com_user&amp;task=login" method="post" name="login" id="login">
-				<label for="username_vmlogin">Username</label><br>
+				<label for="username_vmlogin">Email</label><br>
 		<input class="inputbox" type="text" id="username_vmlogin" size="12" name="username">
 		<br>
 		<label for="password_vmlogin">Password</label><br>
@@ -408,12 +661,11 @@ var div = document.getElementById('panel_s');
 		<input type="submit" value="Login" class="button" name="Login">
 		<ul>
 			<li><a href="/index.php?option=com_user&amp;view=reset">Lost Password?</a></li>
-						<li><a href="/index.php?option=com_user&amp;view=remind">Forgot your username?</a></li>
-									<li>No account yet? <a href="/index.php?option=com_user&amp;view=register#content&amp;option=com_virtuemart&amp;Itemid=8">Sign Up</a></li>
+						<li>No account yet? <a href="/index.php?option=com_user&amp;view=register#content&amp;option=com_virtuemart&amp;Itemid=13">Sign Up</a></li>
 					</ul>
 		<input type="hidden" value="login" name="op2">
 		<input type="hidden" value="aW5kZXgucGhwP29wdGlvbj1jb21fY29udGVudCZ2aWV3PWZyb250cGFnZSZJdGVtaWQ9MQ==" name="return">
-		<input type="hidden" name="f63a6f78e3601e0974f0096a4c4995c7" value="1">
+		<input type="hidden" name="752d33a10a34c0e2421f0b0e1d4d1f28" value="1">
 			</form>
 </div>
 
@@ -427,11 +679,15 @@ var div = document.getElementById('panel_s');
 			<div class="grid_16">
 							</div>
 			
-							
-									<div class="grid_4">
+												<div class="grid_4">
+						
+						
+						
+						
 						
 					</div>
-					<div class="grid_12">
+				
+									<div class="grid_12">
 						<!--<div id="breadcrumb-handler"></div>-->
 						
 <div id="page">
@@ -473,7 +729,29 @@ var div = document.getElementById('panel_s');
 </div>
 
 					</div>
-											
+													<div class="grid_4">
+						
+						
+								<div class="moduletable_empty">
+			<div class="tl"><div class="tr"><div class="tt">
+								<div class="w-space"></div>
+								<div class="block"><div class="m2 hf"><div class="m3"><p><img src="/templates/vmblend/images/SideDeals/safe_shopping.jpg" border="0"></p>
+<p><img src="/templates/vmblend/images/SideDeals/free_shipping.gif" border="0"></p></div></div></div>
+			</div></div></div>
+			<div class="bl"><div class="br"><div class="bb"></div></div></div>
+		</div>
+			<div class="moduletable_empty">
+			<div class="tl"><div class="tr"><div class="tt">
+								<div class="w-space"></div>
+								<div class="block"><div class="m2 hf"><div class="m3"><iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FGodaam%2F221796267851769&amp;width=218&amp;connections=10&amp;stream=false&amp;header=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:218px; height:287px" allowtransparency="true"></iframe></div></div></div>
+			</div></div></div>
+			<div class="bl"><div class="br"><div class="bb"></div></div></div>
+		</div>
+	
+						
+						
+					</div>
+							
 			
 			<div class="clear"></div>
 			<br>
@@ -530,7 +808,7 @@ var div = document.getElementById('panel_s');
 								<div class="clear"></div>
 								
 								<div id="footer-line">
-									<p style="text-align: center;color:white;">Copyright © 2011 Godaam. All Rights Reserved.</p>
+									<p style="text-align: center;color:white;">Copyright © 2012 Godaam. All Rights Reserved.</p>
 								</div>
 							</div>
 						<!--</div>
@@ -544,6 +822,7 @@ var div = document.getElementById('panel_s');
 	</div>
 </div>
 
+<div style="position:fixed;height:20px; bottom:10px; right:10px;"><a href="javascript:;" onclick="window.scrollTo(0,0)"><img class="spo-ico" src="http://static.godaam.com/templates/vmblend/images/top.png" alt="Back to Top" border="0"></a></div>
 
 
-</div></div></div></body></html>
+<!--WSS--></div></div></div></body></html>
