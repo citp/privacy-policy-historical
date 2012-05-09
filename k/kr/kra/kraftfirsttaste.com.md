@@ -1,140 +1,128 @@
-> *The following text is extracted and transformed from the kraftfirsttaste.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231215345id_/http%3A//www.kraftfirsttaste.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kraftfirsttaste.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509212152id_/http%3A//www.kraftrecipes.com/about/PrivacyNotice.aspx) for the most accurate reproduction.*
 
-# Privacy Notice - KRAFT First Taste
+# kraftfoods.com privacy notice
 
-Effective Date: September 23, 2008
+This website is owned and operated by Kraft Foods Global, Inc. At Kraft, we recognize that visitors to our site may be concerned about the information they provide to us and how we handle that information. 
 
-This website is owned and operated by Kraft Foods Global, Inc. At Kraft, we recognize that visitors to our site may be concerned about the information they provide to us and how we handle that information. We've prepared this website Privacy Notice to address those concerns. This notice relates only to information collected through this website.
+### Personally-Identifiable Information 
 
-  * Information We Collect
-    * Personally-Identifiable Information You Provide Us
-      * Registration
-      * Contests, Sweepstakes and Games
-      * Individual Campaigns
-      * "Contact Us" Link
-      * Tell A Friend
-      * Interactive Forums
-      * Featured Members
-      * Other Site Features
-      * Questionnaires and Surveys
-    * Information We Collect by Automated Means
-      * Cookies
-      * Web Beacons
-      * Log Files
-    * Tracking and Merging Information from Other Sources
-  * How We Use Personally-Identifiable Information
-  * How We Share Personally-Identifiable Information
-  * Links To Other Websites
-  * Your Choices
-  * How We Protect Personally-Identifiable Information
-  * Updates To This Privacy Notice
-  * How To Contact Us
-
-
-
-## Information We Collect
-
-### Personally-Identifiable Information You Provide Us
-
-On our website, we collect certain personally-identifiable information about our online visitors. Personally-identifiable information relates to an individual consumer – for example, name, address, telephone number and e-mail address. You may provide personally-identifiable information, for example, by registering on our site or by entering a promotion. We don't require you to register or provide personally-identifiable information to view our site. However, we do require you to provide this information in order to participate in the opportunities on our site, such as "My Offers." Also, the more detailed the information you provide in the "Account Settings" section of the website, the better we are able to customize your website experience. Here are the ways we collect personally-identifiable information.
+On our website, we collect certain personally-identifiable information, such as name, telephone number and e-mail address, about online visitors who choose to register on our website or participate in our offers and programs. We don’t require you to register or provide personally-identifiable information to view our site or access much of its content, such as our many delicious recipes. But if you register, you may use certain additional features that allow you to receive or access your favorite recipes and participate in our interactive communities.  Sharing this additional information with us also helps us customize your website experience.  In addition, we may use the information you provide us to send you offers and information about Kraft, its portfolio of brands and its partners.  Here are the ways we collect personally-identifiable information.
 
 #### Registration
 
-To take advantage of our offerings, you may choose to register on our website. In the registration process, we request certain information, such as your contact information and birth date, so we can contact you about your registration and about promotions, opportunities and offers. We also use this information to provide you with e-mail newsletters and postings about our website. You can unsubscribe to these communications by following the "unsubscribe" link included with each issue. In addition, we may use this information to provide you with communications, samples and information you request, to tailor our website to better meet your needs; to customize our contacts with you; and to develop new products and services that meet your needs. We may also use the registration information you provide for other purposes to which you consent.
+To take full advantage of our offers, you may choose to register on our site. In the registration process, we request certain information (such as your contact information and age) so we can provide you with the communications you request, tailor our website to better meet your needs and customize our contacts with you. 
 
 #### Contests, Sweepstakes and Games
 
-Our site, at times, may contain notices of contests, sweepstakes and games we are conducting, which you may enter electronically in some cases. We use the information you provide to conduct the promotion (for example, to contact you if you're a winner). We won't use the information you provide to enter the promotion for any other purpose unless you've agreed otherwise.
+Our site contains notices of contests, sweepstakes and games that you can enter. We use the information you provide to conduct the promotion (for example, to contact you if you’re a winner).
 
-#### Individual Campaigns
+#### E-mail
 
-If you choose to participate in a campaign, such as a coupon or sample offer, or use online community tools, we may require some additional information, such as your geographic location. In addition, by participating in a campaign, we will be tracking your activities related to the campaign.
+When you ask us to send you recipes, cooking ideas, or other content by e-mail, you may provide us with certain information like your e-mail address so we can fulfill your request.
+
+#### Kraft First Taste
+
+If you sign up through Kraft First Taste, we may ask you for certain information so we can provide you with the communications and offers you requested, including information about new products and services.
+
+#### Community
+
+When you participate through the Community portion of our site, such as using our Recipe Exchange, message boards, or other interactive functions, you may submit information and content, such as a recipe, rating, picture, etc. to the site. Remember that what you post or upload to the site will be publicly available, so please exercise caution when deciding whether to disclose anything personal about yourself. Kraft cannot control the actions of third parties who may view the website and use publicly-available information for their own purposes.
 
 #### "Contact Us" Link
 
-If you e-mail us through the "Contact Us" link on this site, we ask you for information such as your first name and e-mail address so we can respond to your questions and comments. You may choose to provide additional information as well.
+If you contact us through the "Contact Us" link on this site, we ask you for information such as your first name, e-mail address, and other information, so we can respond to your questions and comments. You may choose to provide additional information as well.
 
-#### Tell A Friend
+#### Shopping
 
-We may give you the opportunity to tell your friends about our website or send them special offers. If you take advantage of our Tell-A-Friend option, we ask you for your friend's first name and your first name and e-mail addresses. We use your friend's name and e-mail address only to send the information you requested we forward. We don't keep your friend's e-mail address or use it for any other purpose without their consent.
+When you purchase products or services from Kraft, we request your billing information so we can fulfill your request. We use your billing information only to send you the items you ordered.
 
-#### Interactive Forums
+#### Send to a Friend
 
-If you wish to participate in one of our interactive forums, such as blogs, forums or product recommendations, you may choose to post personally-identifiable information. Remember that comments you post are publicly available to our members, so please exercise caution when deciding whether to disclose or post anything personal about yourself.
-
-#### Featured Members
-
-We may select registered members from time to time to be highlighted on our website. Through the feedback survey, these members can agree to be "Featured Members." They will be featured on the website with their name, photo and comments.
+We may give you the opportunity to tell your friends about features or information on our website. If you take advantage of our Send to a Friend option, we ask you for your friend’s and your first name and e-mail addresses to send the information to them that you requested. We don’t keep or use your friend’s e-mail address for any other purpose.
 
 #### Other Site Features
 
-We offer members of our website various features for their enjoyment, which we change from time to time. We may ask you to submit certain personally-identifiable information so we can provide you with these features.
+We offer visitors to our website various features for their enjoyment, which we change from time to time. We may ask you to submit certain personally-identifiable information so we can provide you with these features.
 
 #### Questionnaires and Surveys
 
-We occasionally ask visitors to our website to complete online surveys and opinion polls about their activities, attitudes and interests. These surveys help us understand the needs of our visitors. We may keep personally-identifiable information about you in connection with your participation in our website surveys and opinion polls.
+We may ask our website visitors and purchasers to complete surveys and opinion polls to provide feedback on activities, attitudes and interests. These surveys help us understand the needs of our visitors and purchasers.
 
-### Information We Collect by Automated Means
+#### Information Collected By Automated Means 
 
-We collect certain information by automated means when you visit our website, such as how many users have visited the website, the pages they have accessed and the products viewed. We also collect the IP addresses of our website visitors. By collecting this information, we learn how to improve our website. We collect this information through various means, including "cookies," "web beacons" and "log files."
+We may use cookies, web beacons/pixel tags, log files, and other technologies to collect certain information about visitors to our website, use of our online services, and interactions with our emails and online advertisements. For example, through these means, we may collect your browser type and operating system, viewed webpages, links that are clicked, IP address, sites visited before coming to our website, emails we send that you open, forward, or click through to our website. Collecting this information, and linking it with your personally-identifiable information, helps us to best tailor our website and enhance your online experience by saving your preferences while you are visiting a particular site, and to help identify site features, recipes, advertisements, and offers that may be of particular interest to you.
 
-#### Cookies
+We also may use third party advertisements placed by ad networks to support our site. Some of these advertisers and ad networks may use technology such as cookies and web beacons/pixel tags when they advertise on our site, which will also send these advertisers and ad networks information including your IP address, your ISP, the browser you used to visit our site, and whether you have Flash installed. Some of these advertisers and ad networks also may use anonymous data, such as demographic data, received from third parties to assist in the delivery of advertisements to you. These advertisers and ad networks use the information described above to provide you relevant advertisements based on your online behavior, search activities on our site and on other third party sites, demographic information and/or relevant to your general location, so that the advertising you see on our site more closely reflects your interests and needs. For example, if you search for, or browse a, recipe or product on our site, you may see an advertisement from a third party with information about, or an offer similar to, that for which you were searching or browsing on our site, or an offer related to a third party whose site you have visited in the past.
 
-Like many companies, we use "cookies" on our website. Cookies are bits of text that are placed on your computer's hard drive when you visit certain websites. Cookies may enhance your online experience by saving your preferences while you are visiting a particular site.
+You can set your Internet browser settings to stop accepting new cookies, to receive notice when you receive a new cookie, to disable existing cookies, and to omit images (which will disable pixel tags). Note that the opt-out will apply only to the browser that you are using when you elect to opt out of advertising cookies. You can learn more about and opt out from receiving third party advertiser cookies by visiting the Network Advertising Initiative’s opt-out page [here](http://www.networkadvertising.org/managing/opt_out.asp). Without cookies or pixel tags though, you may not be able to take full advantage of all of Kraft’s website features.
 
-When you visit our website, cookies are placed on your computer. We use cookies to tell us, for example, whether you've visited us before or if you're a new visitor and to help us identify site features and products in which you may have the greatest interest. We collect this information to enhance your experience on our website. We also use cookies to track users' movements through the website.
+#### Information Collected From Other Sources 
 
-The "help" portion of the toolbar on most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. Remember, though, without cookies, you may not be able to take advantage of all of our website features.
+We may obtain information about you from other sources, including commercially available sources, such as data aggregators and public databases. This information may include name, demographic information, interests, and publicly-observed data, such as from social media and shopping behavior. We may combine this information with the information we collect from you to help us tailor our communications to you and to improve our services and products.
 
-#### Web Beacons
+### How We Use Your Information
 
-Certain pages on our site contain "web beacons" (also known as Internet tags, pixel tags and clear GIFs). These web beacons allow third parties to obtain information such as the IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, the type of browser used to view the page, and the information in cookies set by the third party.
+We may use the information we collect to contact you from time to time. For example, we may (i) send you promotional offers, materials, and other communications and information about Kraft, its portfolio of brands and its partners, (ii) respond to your comments or questions, or (iii) contact you if needed while processing a product or service you requested through our website. We also may use the information you provide to contact you for your opinions on Kraft products, services or websites. As described in this Privacy Notice, we also use the information we collect about you to improve our website, products and services, and to deliver content that is customized to your interests.
 
-#### Log Files
+### How We Share Your Information 
 
-As is true of many websites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information to analyze trends, to administer the website, and to identify and solve hardware and software problems as they arise. We may link this automatically-collected data to your personally-identifiable information for the purpose of determining your interests and to offer you goods or services that we believe may be of interest to you.
+We do not sell or otherwise disclose personally identifiable information about our website visitors, except as described here. We do not share your personally identifiable information with unaffiliated third parties for their own marketing purposes without your consent. For California residents, please see “Your California Privacy Rights” below.
 
-### Tracking and Merging Information from Other Sources
+We may share personally identifiable information among Kraft brands and subsidiaries. We may also share the information with service providers we have retained to perform services on our behalf, such as to help run promotions, fulfill orders and provide customer service. These service providers may have access to personally-identifiable information about our website visitors if it is needed to perform their functions for Kraft, but they are not authorized by Kraft to use or disclose the information except as necessary to perform services on Kraft’s behalf or to comply with legal requirements. In addition, we may disclose information where we think it’s necessary to investigate or prevent an actual or suspected crime or injury to ourselves or others, if required by law, or in response to a request from law enforcement authorities or other government officials.
 
-If you register on our website and provide us with personally-identifiable information, we may link information we collect by automated means with the personally-identifiable information you provided us online. We may also supplement the personally-identifiable information we collect from you with non-personal or personal information from other, third party sources. We will merge this third party information with the information we collect on this website. The composite information about you will be treated in accordance with this Privacy Notice. We perform this tracking and merging to assist us in evaluating and improving our website, products, and services; to determine your preferences so that we can tailor our website, products, and services to your needs; to provide you with targeted marketing offers that we think may be of interest to you; and to study marketing-related questions in general.
+We may conduct joint promotions with other companies. We may share with our promotional partners (and their service providers) certain personally-identifiable information as necessary to conduct the promotion. We will not share this information with our promotional partners for any other purpose unless you consent to such sharing.
 
-## How We Use Personally-Identifiable Information
+During the normal course of our business, Kraft may sell or purchase assets. If another entity acquires us or any of our assets, information we have collected about you may be transferred to such entity. In addition, if any bankruptcy or reorganization proceeding is brought by or against us, such information may be considered an asset of ours and may be sold or transferred to third parties. Should a sale or transfer occur, we will use reasonable efforts to try to require that the transferee use personally identifiable information provided through this website in a manner that is consistent with this Privacy Notice.
 
-We may use the information you provide to contact you from time to time. For example, we may (i) send you promotional materials, (ii) respond to your comments or questions, (iii) contact you if needed while processing a product or service you request through our website, or (iv) send you any communications you request. We also may use the information you provide to contact you for your opinions on Kraft products or the website, or on other products and services that may be featured on our website.
+#### Your California Privacy Rights
 
-We also use personally-identifiable information about you to improve our website features and content and to analyze website usage. In addition, we use personally-identifiable information for market research purposes. We also may use personally-identifiable information about you to deliver content that is customized to your interests as we understand them from the information you've provided to us and your activities on the site. This customized content may include recipes, product information and promotions.
-
-## How We Share Personally-Identifiable Information
-
-We do not sell or otherwise disclose personally-identifiable information about our website visitors, except as described here. We may share the information with service providers we have retained to perform services on our behalf. For example, we hire service providers to help us operate this website and fulfill your orders. These service providers are not authorized by us to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements. In addition, we may disclose information about you (i) if we are required to do so by law or legal process, (ii) to law enforcement authorities or other government officials or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity.
-
-On our website, we may conduct joint promotions with other companies. We may share with our promotional partners (and their service providers) certain personally-identifiable information as necessary to conduct the promotion. We will not share this information with our promotional partners for any other purpose unless you tell us it's okay to do so.
-
-We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to try to direct the transferee to use personal information provided through this website in a manner that is consistent with this Privacy Notice.
-
-## Links To Other Websites
-
-This website may contain links to other websites. We provide these links solely for your convenience and information. Different websites have different privacy practices. You should always check the privacy notice of the specific site you're visiting to understand the privacy practices associated with that site. We are not responsible for the content of linked websites, any use of linked websites or their privacy practices.
-
-## Your Choices
-
-You can change your preferences for follow-up contacts by Kraft. If you're registered with kraftfirsttaste.com, you can change the information you've provided to us in the "Account Settings" section of the site. If you're not registered with this site, you can change your preferences by contacting us indicated below. If you prefer, you can cancel your registration altogether. Contact us as indicated below if you wish to take this action.
-
-## How We Protect Personally-Identifiable Information
-
-The security of personally-identifiable information is important to us. We maintain administrative, technical and physical safeguards to protect against unauthorized use, disclosure, alteration or destruction of the personally-identifiable information we collect on this website.
-
-## Updates To This Privacy Notice
-
-We may change or update portions of this Privacy Notice at any time. Please check back from time to time so you are aware of any changes or updates to the notice. We will indicate the notice's effective date on the first page of the notice.
-
-## How To Contact Us
-
-If you have any questions about this Privacy Notice, you can contact us through the "contact us" link on this website or by writing or calling us at:
+For California Residents: We may share your personally-identifiable information with affiliated third parties, some of which do not share the Kraft name, for their own direct marketing purposes. Because this category of affiliates is considered to be “unaffiliated parties” under California Law, you may opt out of us sharing with them. To opt out, please send a letter with your name, postal address, e-mail, with the heading “California Privacy Rights” to: 
 
 Kraft Foods Global, Inc.  
 1 Kraft Court  
 Glenview, IL 60025  
-Attention: Consumer Relations  
-1-877-KRAFT-FT (1-877-572-3838)  
-(9 a.m. - 5 p.m. Eastern Time, Monday through Friday, excluding holidays.)
+Attention: Consumer Relations 
+
+### Links To Other Websites
+
+This website may contain links to other websites. We provide these links solely for your convenience and information. Different websites have different privacy practices. You should always check the privacy notice of the specific site you’re visiting to understand the privacy practices associated with that site. We are not responsible for the content or privacy practices of third party websites.
+
+### Your Choices
+
+You can change your preferences for follow-up contacts by Kraft. If you’re registered with our website, you can change the information you’ve provided to us in the "Your Profile" section of the site. If you’re not registered with this site, you can change your preferences by [clicking here](http://www.kraftrecipes.com/registration/contextualsignuplogin.aspx). If you prefer, you can cancel your registration altogether. [E-mail](http://kraftfoods.custhelp.com/cgi-bin/kraftfoods.cfg/php/enduser/std_alp.php?p_search_text=) us if you wish to take this action.
+
+### Children's Privacy 
+
+Some portions of our website may be directed to children under 13. In these areas of our website, our conduct is governed by federal law and regulations that address children’s online privacy, as well as by the guidelines of the Children’s Advertising Review Unit (CARU), a part of the Council of Better Business Bureaus. If you are under 13, please be sure to read this notice with your parent or legal guardian.
+
+We do not knowingly collect personally-identifiable information from children under 13 on our website, except as permitted by legal requirements and the CARU guidelines. We sometimes offer promotions on our website, such as contests, sweepstakes and games, which children may enter. In those cases, we do not require a child to disclose more information than is reasonably necessary to participate in the promotion as a condition of participation. If we need more than just your child’s first name (or screen name) and e-mail address for your child to participate in a particular online promotion, we will ask your child for your e-mail address so that we can notify you of your child’s request and obtain your permission. When we ask for your permission, we will tell you what we will do with the information that you or your child provides us. In addition, if a child under 13 signs up with us for an email newsletter or other online activity that requires more than one online contact, we also ask the child for your email address so that we can notify you and give you the opportunity to opt your child out of further communications from us. Unless you have explicitly consented, we do not (i) use your child’s personal information for any purpose other than to complete the promotion or (ii) share the information with third parties except as described above in this Privacy Notice. We do not keep your (or your child’s) email address unless you tell us it is okay.
+
+We permit children under the age of 13 to contact us through the website "Contact Us" link with questions or comments. We request only the child’s first name and e-mail address and use that information solely to respond directly to the child on a one-time basis. We do not use the information to recontact the child and we delete the child’s personal information from our database after responding to the child’s inquiry.
+
+Upon proper identification, a parent may review any personal information we have collected from his or her child if we still have the information in our database. The parent also may request that the child’s information be deleted from our database and may refuse to permit further collection or use of the child’s information. If you are a parent and wish to exercise these rights, please contact us as described below.
+
+### How We Protect Your Information 
+
+The security of personally-identifiable information is important to us. We maintain administrative, technical and physical safeguards to protect against unauthorized use, disclosure, alteration or destruction of the personally-identifiable information we collect on this website.
+
+### Updates To This Privacy Notice 
+
+We may change or update portions of this Privacy Notice at any time. Please check back from time to time so you are aware of any changes or updates to the notice. We will indicate the notice’s effective date on the first page of the notice.
+
+### How To Contact Us 
+
+If you have any questions about this Privacy Notice, you can contact us at:
+
+Kraft Foods Global, Inc.  
+1 Kraft Court  
+Glenview, IL 60025  
+Attention: Consumer Relations Group
+
+1-800-543-5335  
+9 a.m. - 5 p.m. Eastern Time, Monday through Friday, excluding holidays.
+
+[E-mail us](http://kraftfoods.custhelp.com/cgi-bin/kraftfoods.cfg/php/enduser/std_alp.php?p_search_text=).
+
+We would be happy to answer your questions or hear your concerns.
+
+© 2011 KF Holdings.
