@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the java-tips.org privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104145844id_/http%3A//www.java-tips.org/site-documentation/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the java-tips.org privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509125914id_/http%3A//www.java-tips.org/site-documentation/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Java Tips - Privacy Policy
 
@@ -19,10 +19,11 @@
 [Java Games](http://www.java-tips.org/java-games/)  
 Java Network   
 ---  
+|  [Java Forums](http://www.java-forums.org/forum.php)  
   
-[Java Forums](http://www.java-forums.org/)  
-
-
+---  
+[Java Blog](http://www.java-forums.org/blogs/all/)  
+  
   
   
   
