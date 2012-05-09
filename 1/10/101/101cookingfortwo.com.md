@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 101cookingfortwo.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224022228id_/http%3A//www.101cookingfortwo.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 101cookingfortwo.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509133018id_/http%3A//www.101cookingfortwo.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # 101 Cooking For Two - Everyday Recipes for Two: Privacy Policy
 
