@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the forexroot.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124020008id_/http%3A//www.forexroot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexroot.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509151236id_/http%3A//www.forexroot.com/privacy-policy) for the most accurate reproduction.*
 
-# Forex Root | Privacy Policy
-
-Last Updated on Thursday, 19 August 2010 10:50 
+# Privacy Policy | Forex Root
 
 **Introduction**
 
@@ -18,9 +16,9 @@ We allow you to create a screen name that is not your real name, providing you c
 
 You can de-activate your account for any reason at any time and we will delete all of your personally identifiable information from our servers. We will not keep a copy of your personally identifiable information for any purposes upon account deactivation except as may be required by law or to otherwise protect legal rights.
 
-We use secure server software (SSL) and firewalls to protect your information from unauthorized access, disclosure, alteration, or destruction. Further, our employees and third party service providers have access to your nonpublic personal information only on a "need to know" basis. Finally, we internally audit our business practices and procedures, examining confidentiality standards and information access in order to protect your personal information.
+We use secure server software (SSL) and firewalls to protect your information from unauthorized access, disclosure, alteration, or destruction. Further, our employees and third party service providers have access to your nonpublic personal information only on a “need to know” basis. Finally, we internally audit our business practices and procedures, examining confidentiality standards and information access in order to protect your personal information.
 
-**What Information We Collect**   
+**What Information We Collect**  
 **Personally Identifiable Information**
 
 When you browse the non-password protected portions of our Site, you do so anonymously; no personally identifiable information is collected.  When you sign up to become a registered user of **Forex Root** we request that you provide to us your name, address and email address.
@@ -40,7 +38,8 @@ We also collect personal information from you in two other general ways:
 
 
 
-For example, once you are a registered user of our Site, you may register your brokerage account through our Site by providing the user ID, password and other information necessary to access such account (“Verification Information”).  We will collect the transactional information regarding your brokerage account to display it to you on the Site. This information may include your current holdings, and your past and future transactions, to name a few.   
+For example, once you are a registered user of our Site, you may register your brokerage account through our Site by providing the user ID, password and other information necessary to access such account (“Verification Information”).  We will collect the transactional information regarding your brokerage account to display it to you on the Site. This information may include your current holdings, and your past and future transactions, to name a few.
+
 **Forex Root** limits its use of your personal investment information to the purposes for which it has been collected and as we describe in this Privacy Policy. Except as necessary to carry out your requests, **Forex Root** uses this information only on an aggregate, non-personal basis.
 
 **Technical and Other Information**
@@ -48,14 +47,17 @@ For example, once you are a registered user of our Site, you may register your b
 When you visit our platform, we may collect information through “cookies” or other similar Web tools to enhance the user experience.  Cookies are small strings of text that are sent by our Site to your browser on your computer’s hard drive.  Cookies enable us to recognize you when you return to our Site, to maintain your Web session while you browse throughout the Site, as well as help us provide you with a better, more personalized experience. Our cookies are not tied to personally identifiable information.  Most web browsers automatically accept cookies, but it is possible to change your browser setup so that it does not accept cookies.  However, rejecting cookies may prevent you from taking advantage of certain portions of our Site.  
 In addition, when you are browsing our Site, **Forex Root** automatically receives and records information on our server logs from your browser including your IP address, **Forex Root** cookie information and the pages you request.  We use this information to improve the functionality and usability of our services.  Our log files are not tied to personally identifiable information.
 
-**How We Use the Information We Collect**   
+**How We Use the Information We Collect**
+
 **Communications from the Site**
 
 We will send you strictly service-related announcements on rare occasions when it is necessary to do so.  For instance, if our Site is temporarily suspended for maintenance, we might send you an email.  Generally, you may not opt-out of these communications, which are not promotional in nature.
 
 **Customer Service**
 
-Based upon the personally identifiable information you provide us during the registration process, we will send you a welcoming email to verify your username and password.  We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account.  We will communicate with you by email or telephone, in accordance with your wishes.
+Based upon the personally identifiable information you provide us during the registration process, we will send you a welcoming email to verify your username and password.  We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. 
+
+We will communicate with you by email or telephone, in accordance with your wishes.
 
 **Verification Information**
 
@@ -71,9 +73,9 @@ We do not publish any verification information anywhere.  This is used solely i
 
 **You Choose to Whom You Want to Make Your Performances Public**
 
-You may choose to whom you provide authorization to explore your trading performance, if any: your Virtual Trading Team members and/or for all **Forex Root** 's members.  Other registered users will be able to search for, access and review this information.
+You may choose to whom you provide authorization to explore your trading performance, if any: your Virtual Trading Team members and/or for all **Forex Root** ‘s members.  Other registered users will be able to search for, access and review this information.
 
-Should you elect to make your trading performance public to all **Forex Root** 's registered users, summary information including recent activity information may be made available to non-registered users and accessible by search engine technologies.
+Should you elect to make your trading performance public to all **Forex Root** ‘s registered users, summary information including recent activity information may be made available to non-registered users and accessible by search engine technologies.
 
 **We Do Not Rent or Share Any Personally Identifiable Information**
 
@@ -93,7 +95,8 @@ Our Site empowers you with insights into your trading information and enables yo
 
 If you choose to use our referral service to tell a friend about our Site, we will ask you for your friend’s name and email address.  We will automatically send your friend an email inviting him or her to visit our Site. **Forex Root** stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
 
-**Amending Your Account Information**   
+**Amending Your Account Information**
+
 **Accuracy of Information**
 
 We are committed to keeping accurate and up-to-date records to help ensure the integrity of the services we offer.  It is your responsibility, however, to ensure that such information is accurate, complete and up-to-date.  If you identify an inaccuracy, or need to make a change to any personally identifiable information you have provided to us, please update the information directly on our Site.  Alternatively, you may Contact Us to have such information changed.  If you believe any information to be erroneous, you can contact **Forex Root** and we will endeavor to verify and correct it if erroneous.  You may not change any information on the system regarding, or posted by, other people, including comments they make about you or your information.
