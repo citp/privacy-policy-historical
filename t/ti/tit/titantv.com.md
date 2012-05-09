@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the titantv.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101162213id_/http%3A//www.titantv.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titantv.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509082209id_/http%3A//www.titantv.com/privacy.aspx) for the most accurate reproduction.*
 
 # TitanTV - Privacy Policy Page
 
@@ -36,5 +36,4 @@ Write to us at:
 818 Dows Road SE  
 Cedar Rapids, IA 52403-7000 
 
-We can be reached via e-mail at [t3@decisionmark.com](mailto:t3@decisionmark.com)  
-or you can reach us by telephone at 319-365-5597. 
+We can be reached via e-mail at [t3@bimlocal.com](https://web.archive.org/contact.aspx) or you can reach us by telephone at 800-365-7629. 
