@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rudefuck.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105124249id_/http%3A//www.rudefuck.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rudefuck.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509183934id_/http%3A//www.rudefuck.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
