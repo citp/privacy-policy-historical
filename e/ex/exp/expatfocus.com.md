@@ -1,42 +1,8 @@
-> *The following text is extracted and transformed from the expatfocus.com privacy policy that was archived on 2011-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110927163643id_/http%3A//www.expatfocus.com/index.php%3Fname%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatfocus.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509074121id_/http%3A//www.expatfocus.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | Move Abroad, Live Abroad, Work Abroad, Retire Abroad
+# Privacy Policy | ExpatFocus.com
 
 **Privacy Policy**
-
-Thank you for your interest in joining Expat Focus! You are just one step away from creating a free account which will allow you to post to the forums, receive our monthly newsletter (if desired), send and receive private messages, access all areas of the site and more. 
-
-We try hard to be the friendliest expat website on the web and look forward to welcoming you in the forums (please feel free to introduce yourself!) Before you join, though, please take a moment to read the rest of this registration agreement as it contains important information about acceptable use and your privacy. 
-
-_Acceptable Use Policy_
-
-\- You agree not to post any forum or private messages advertising or promoting a particular website, product, service or venture (regardless of whether it is for profit or not) unless it is in direct response and relevant to a request for such information and any interest is fully disclosed. If you wish to advertise at Expat Focus please see the relevant advertising section in the main menu for details. 
-
-\- You agree not to post any material which is false, defamatory, derogatory, inflammatory, inaccurate, abusive, vulgar, hateful, racist, harassing, obscene, profane, sexually oriented, threatening, violent, invasive of a person's privacy, or otherwise in violation of any law. Contravention of this agreement may result in criminal action being taken against you. You also agree not to post any copyrighted material unless you own the copyright or you have consent from the owner of the copyrighted material. 
-
-\- You agree not to use the public forums to "name and shame" companies or individuals. If you wish to warn other members of poor service or fraudulent activity please invite them to contact you privately for further details. 
-
-In addition, please note: 
-
-\- Forum signatures may contain no more than 2 text-only URLs (i.e. no images, banners, flash etc.) and may not link to sites promoting multi-level marketing programs, work from home schemes or sites of an adult nature. 
-
-\- Users wishing to advertise property may do so only through our dedicated property sub-forums (each main country forum has one). 
-
-\- Users wishing to advertise job vacancies must use our dedicated job vacancies forum. 
-
-\- Users wishing to advertise a survey must use our "Can You Help?" forum. 
-
-\- Please be courteous at all times, even if you disagree with another member's point of view! Opposing viewpoints are very welcome but personal, derogatory attacks on other members or moderators are not acceptable. 
-
-\- Posting of inflammatory, extraneous, or off-topic messages (especially those likely to provoke an emotional response) or otherwise disrupting normal on-topic discussion, i.e. "trolling", is strictly forbidden. 
-
-\- Promotion of political groups or ideologies, political rants, inflammatory religious content, any form of spam, flooding, advertisements, chain letters, pyramid schemes or solicitations of any kind are strictly prohibited, as is cross-posting the same message across multiple forums. 
-
-It is impossible for us to confirm the validity of posts on this forum. Please remember that we do not actively monitor the posted messages and are not responsible for their content. We do not warrant the accuracy, completeness or usefulness of any information presented. The messages express the views of the author, not necessarily the views of this forum. Anyone who feels that a posted message is objectionable is encouraged to notify an administrator of this forum immediately. We have the right to remove objectionable content, within a reasonable time frame, if we determine that removal is necessary. Any removal will be completed as soon as possible. We also retain the right to edit, move or delete any posted message and suspend, delete or deny any account or account registration request without giving any reason. Individuals, companies or their representatives are expressly prohibited from opening a new account if an earlier account has been closed or suspended or earlier registration request denied. You acknowledge that all posts made to this website express the views and opinions of the author and not the site owner, administrators or moderators (except for messages by these people) who cannot be held liable for the contents of such posts. 
-
-Major updates to the site or surveys may be announced to the membership via email (no more than 2 emails per year). 
-
-_Privacy Policy_
 
 The privacy of our visitors is important to us. 
 
@@ -64,4 +30,36 @@ As a user you agree to any information you have entered being stored in a databa
 
 Expat Experiences and Interviews 
 
-By submitting content for publication as an Expat Experience or Interview you agree that such material may be indexed by search engines or promoted via social media websites/services and that Expat Focus cannot be held liable for the content held by these third parties.
+By submitting content for publication as an Expat Experience or Interview you agree that such material may be indexed by search engines or promoted via social media websites/services and that Expat Focus cannot be held liable for the content held by these third parties. 
+
+**Acceptable Use Policy**
+
+\- You agree not to post any forum or private messages advertising or promoting a particular website, product, service or venture (regardless of whether it is for profit or not) unless it is in direct response and relevant to a request for such information and any interest is fully disclosed. If you wish to advertise at Expat Focus please see the relevant advertising section in the main menu for details. 
+
+\- You agree not to post any material which is false, defamatory, derogatory, inflammatory, inaccurate, abusive, vulgar, hateful, racist, harassing, obscene, profane, sexually oriented, threatening, violent, invasive of a person's privacy, or otherwise in violation of any law. Contravention of this agreement may result in criminal action being taken against you. You also agree not to post any copyrighted material unless you own the copyright or you have consent from the owner of the copyrighted material. 
+
+\- You agree not to use the public forums to "name and shame" companies or individuals. If you wish to warn other members of poor service or fraudulent activity please invite them to contact you privately for further details. 
+
+In addition, please note: 
+
+\- Forum signatures may contain no more than 2 text-only URLs (i.e. no images, banners, flash etc.) and may not link to sites promoting multi-level marketing programs, work from home schemes or sites of an adult nature. 
+
+\- Users wishing to advertise property may do so only through our dedicated property sub-forums (each main country forum has one). 
+
+\- Users wishing to advertise job vacancies must use our dedicated job vacancies forum. 
+
+\- Users wishing to advertise a survey must use our "Can You Help?" forum. 
+
+\- Please be courteous at all times, even if you disagree with another member's point of view! Opposing viewpoints are very welcome but personal, derogatory attacks on other members or moderators are not acceptable. 
+
+\- Posting of inflammatory, extraneous, or off-topic messages (especially those likely to provoke an emotional response) or otherwise disrupting normal on-topic discussion, i.e. "trolling", is strictly forbidden. 
+
+\- Promotion of political groups or ideologies, political rants, inflammatory religious content, any form of spam, flooding, advertisements, chain letters, pyramid schemes or solicitations of any kind are strictly prohibited, as is cross-posting the same message across multiple forums. 
+
+It is impossible for us to confirm the validity of posts on this forum. Please remember that we do not actively monitor the posted messages and are not responsible for their content. We do not warrant the accuracy, completeness or usefulness of any information presented. The messages express the views of the author, not necessarily the views of this forum. Anyone who feels that a posted message is objectionable is encouraged to notify an administrator of this forum immediately. We have the right to remove objectionable content, within a reasonable time frame, if we determine that removal is necessary. Any removal will be completed as soon as possible. We also retain the right to edit, move or delete any posted message and suspend, delete or deny any account or account registration request without giving any reason. Individuals, companies or their representatives are expressly prohibited from opening a new account if an earlier account has been closed or suspended or earlier registration request denied. You acknowledge that all posts made to this website express the views and opinions of the author and not the site owner, administrators or moderators (except for messages by these people) who cannot be held liable for the contents of such posts. 
+
+Reminders about the site, major updates to the site or surveys may be announced to the membership via email (no more than 2 emails per year). You may unsubscribe from these announcements at any time. 
+
+_Disclaimer_
+
+Nothing on this web site should be interpreted as legal advice or as a buy, sell, hold or other investment recommendation. Visitors are strongly urged to consult with a qualified legal or financial advisor before making any decisions. Neither Expat Focus nor any person involved with the running of this website can be held responsible for any decisions made by our visitors.
