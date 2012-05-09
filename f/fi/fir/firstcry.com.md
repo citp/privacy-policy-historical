@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the firstcry.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202083650id_/http%3A//www.firstcry.com/sppolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstcry.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509223201id_/http%3A//www.firstcry.com/sppolicy.aspx) for the most accurate reproduction.*
 
-# Untitled Page
+# FirstCry.com - Privacy Policy
 
 This Privacy Policy relates solely to the information collection and use practices of our web site located at http://www.firstcry.com (this "Website"). We recognize that many visitors and users of this Website are concerned about the information they provide to us, and how we treat that information. This Privacy Policy, which may be updated from time to time, has been developed to address those concerns. 
 
