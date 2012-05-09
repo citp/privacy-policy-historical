@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jackrabbitclass.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130034708id_/http%3A//jackrabbitclass.com/privacysecurity.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackrabbitclass.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509133507id_/http%3A//www.jackrabbitclass.com/privacysecurity.asp) for the most accurate reproduction.*
 
 # Online Class/Gym Management Software - Privacy & Security Information
 
 Jackrabbit is committed to respecting your privacy. We recognize your need for appropriate protection and management of personally identifiable information you share with us. We want you to understand the care with which we treat your personal information.
 
-[**Frequently Asked Questions**](https://web.archive.org/web/20111130034708id_/http%3A//jackrabbitclass.com/faqs.asp)
+[**Frequently Asked Questions**](https://web.archive.org/web/20120509133507id_/http%3A//www.jackrabbitclass.com/faqs.asp)
 
 To protect your privacy, we have adopted the following principles:
 
