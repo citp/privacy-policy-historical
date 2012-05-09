@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the seatguru.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011002157id_/http%3A//www.seatguru.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seatguru.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509110118id_/http%3A//www.seatguru.com/privacy.php) for the most accurate reproduction.*
 
 # SeatGuru Privacy Policy
+
+### PRIVACY POLICY
+
+SeatGuru is the ultimate source for airplane seating, in-flight amenities, and airline information. Our Web site is part of the TripAdvisor® Media Group, which is owned and operated by TripAdvisor LLC. More details about SeatGuru can be found below under "How you can contact us." 
+
+We understand that providing information online involves a great deal of trust on your part. We take this trust very seriously, and make it a high priority to ensure the security and confidentiality of the personal information you provide to us. Before submitting your personal information to our Web site, please read this Policy carefully to learn about our privacy practices. By visiting SeatGuru's Web site, www.SeatGuru.com, you are accepting the practices described herein. 
 
 ### What information we collect from you
 
