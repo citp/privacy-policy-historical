@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coles.com.au privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101105338id_/http%3A//www.coles.com.au/Coles/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coles.com.au privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510003008id_/http%3A//www.coles.com.au/Coles/Privacy.aspx) for the most accurate reproduction.*
 
 # Coles | Privacy
 
@@ -28,10 +28,10 @@ Coles is committed to complying with the federal Privacy Act 1988.
 
 ## Coles' Privacy commitment
 
-  * We will always make sure that we handle your personal information securely and carefully and will only use your personal information when it is necessary for us to deliver you a service or perform other necessary business functions and activities.
-  * Coles will not use your information for purposes unrelated to the services we provide, unless we first obtain your consent.
-  * Wherever possible Coles will give you the option of interacting anonymously with us provided it is practicable and lawful to do so.
-  * We will always use fair and lawful means of collecting personal information.
+  * We will always make sure that we handle your personal information securely and carefully and will only use your personal information when it is necessary for us to deliver you a service or perform other necessary business functions and activities. 
+  * Coles will not use your information for purposes unrelated to the services we provide, unless we first obtain your consent. 
+  * Wherever possible Coles will give you the option of interacting anonymously with us provided it is practicable and lawful to do so. 
+  * We will always use fair and lawful means of collecting personal information. 
   * In most circumstances we will collect personal information directly from you. 
 
 
@@ -60,12 +60,12 @@ You can decline cookies by adjusting the “accept cookies” setting in your br
 
 We may collect information for a number of reasons including to:
 
-  * deliver products or services to you
-  * complete other transactions with you or on your behalf
-  * better understand your requirements and preferences.
-  * improve our service
-  * protect against fraud or theft
-  * provide offers that are of greater interest or benefit to you.
+  * deliver products or services to you 
+  * complete other transactions with you or on your behalf 
+  * better understand your requirements and preferences. 
+  * improve our service 
+  * protect against fraud or theft 
+  * provide offers that are of greater interest or benefit to you. 
 
 
 
@@ -75,11 +75,11 @@ The personal information we collect is in most cases directly supplied by you wh
 
 We collect information in a number of ways including:
 
-  * When you register your details with us or give us the information
-  * When you order goods or services
-  * When you use our deli catering services or the Britex cleaning service
-  * When you open an account with us
-  * When you shop in our stores and use your FlyBuys or your Coles Group Card™.
+  * When you register your details with us or give us the information 
+  * When you order goods or services 
+  * When you use our deli catering services or the Britex cleaning service 
+  * When you open an account with us 
+  * When you shop in our stores and use your FlyBuys or your Coles Group Card™. 
 
 
 
@@ -107,7 +107,7 @@ If you would like to access your personal information, write to Coles Customer R
 
 ## Direct marketing
 
-If you do not wish to be contacted by Coles (about special offers, discounts or other promotional events), write to Coles Customer Relations Department L3 M7 P.O. Box 480 Glen Iris 3146, e-mail to [customer.relations@coles.com.au](mailto:customer.relations@coles.com.au) or call Coles Customer Relations toll free on 1800 061 562 or if you no longer wish to be contacted by Coles Baby Club, please call the Coles Baby Club toll free on 1800 645 000, or email to [babyclub@coles.com.au](mailto:babyclub@coles.com.au).
+If you do not wish to be contacted by Coles (about special offers, discounts or other promotional events), write to Coles Customer Care Department – P.O. Box 480 Glen Iris 3146, e-mail to [coles.customer.care@coles.com.au](mailto:coles.customer.care@coles.com.au) or call Coles Customer Care toll free on 1800 061 562 or if you no longer wish to be contacted by Coles Baby & Toddler Club, please call the Coles Baby & Toddler Club toll free on 1800 645 000, or email to [babyclub@coles.com.au](mailto:babyclub@coles.com.au).
 
 ## Coles and Coles Group Limited Privacy Policies and Practices
 
