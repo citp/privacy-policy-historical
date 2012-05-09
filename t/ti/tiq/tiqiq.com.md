@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the tiqiq.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101222545id_/http%3A//tiqiq.com/Site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiqiq.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509194043id_/http%3A//www.tiqiq.com/privacy.aspx) for the most accurate reproduction.*
 
-# TiqIQ - Privacy Policy
+# TiqIQ Privacy
 
 **1\. Introduction**  
+We are committed to protecting your privacy and creating a safe and secure online environment to find and purchase tickets online.  
 This Privacy Policy discloses and covers all of the privacy practices of TiqIQ, including as they relate to†TiqIQ’s website, the related services offered thereon and any services provided by TiqIQ through its partner websites (collectively, the “Site”). We understand and respect the privacy concerns of our users, and we have made it a critical focus of the Site to protect the confidentiality and security of the personal information you provide us. Please read this Privacy Policy carefully. By accessing or using the Site, you acknowledge that you have read, understand, and agree to be bound to all the terms and conditions of this Privacy Policy. If you do not agree to these terms and conditions, please exit this page and do not access or use the Site. 
 
 **2\. The Information We Collect**  
