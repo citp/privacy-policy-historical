@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitecm.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105204352id_/http%3A//www.websitecm.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitecm.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509080324id_/http%3A//www.websitecm.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,7 +29,7 @@ Any comment, feedback or information you voluntarily provide to us will be deeme
 It may be necessary, if required by law or if pertinent to judicial or governmental investigations, to release your personally identifiable information.  
 
 
-|  [](http://www.websitecm.com/contact/)
+| 
 
 News
 
@@ -37,9 +37,9 @@ Articles
 
 Testimonials
 
-ABSOLUTELY FIRST CLASS CUSTOMER CARE ON A PRODUCT PURCHASED IN 2007!!!! Now going to update to the new super duper CDSEO Pro that everyone is raving about. Put simply - FANTASTIC . Many thanks Jon I appreciate all your help. 
+Another big thumbs up for Jon at Websitecm not only is his mod for CDSEO fantastic but he bent over backwards to help us out when we got shafted by our hosting company. This guy is the only guy we will be buying mods from now on. Some of the other people selling mods for X-cart should take a leaf out of his book because some of them really suck on support and professionalism. 
 
-Nick 
+JoBananas.com 
 
 * * *
 
