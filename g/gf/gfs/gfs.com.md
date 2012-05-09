@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gfs.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102010519id_/http%3A//www.gfs.com/en/privacy-policy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gfs.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509063811id_/http%3A//www.gfs.com/en/privacy-policy.page) for the most accurate reproduction.*
 
 # Privacy Policy - GFS.com
 
@@ -10,17 +10,17 @@
 
 
 
-_Effective Date: April 2, 2010_
+_Effective Date: February 9, 2012_
 
-The GFS.com website is owned and operated by Gordon Food Service. This policy describes the way that Gordon Food Service and its related companies (collectively, "GFS", "we" or "us") may collect and use your information. 
+This Policy explains how we collect, use and protect the information we gather at the GFS.com, siennabakery.com and tradeeastspices.com, websites (collectively “website) that are owned and operated by Gordon Food Service, Inc. and its related companies (collectively, "GFS", "we" or "us").
 
 The website has two sections: a section that is available to the general public, and a section that is restricted to our customers, which we refer to as the GFS Experience section of the website. While this policy applies generally to both parts of the website, please note that there are sections of this policy that apply only to the GFS Experience section.
 
 **How We Collect Information**
 
-The public section of the GFS.com website is primarily an information website that tells you about our company and our products and services. You do not need to provide any personal information if you simply want to browse the public section of our website and learn about what we have to offer. When we ask for your personal information, it is so that we can provide a service to you and to communicate with you about our products and services. For example, if you want to register as a customer of GFS, we will ask for your name, address, telephone number and e-mail address, and we will provide that information to someone in our customer relations department who will follow up with you about our products and services.
+The public section of the website is primarily an information website that tells you about our company and our products and services. You do not need to provide any personal information if you simply want to browse the public section of our website and learn about what we have to offer. When we ask for your personal information, it is so that we can provide a service to you and to communicate with you about our products and services. For example, if you want to register as a customer of GFS, we will ask for your name, address, telephone number and e-mail address, and we will provide that information to someone in our customer relations department who will follow up with you about our products and services.
 
-When you visit GFS.com, we may record information that your web browser routinely shares with websites. This information may include your browser type, browser language, Internet Protocol address, and the date and time of your visit. This information is collected on an anonymous basis, and we do not try to connect it with your personal information.
+When you visit the website, we may record information that your web browser routinely shares with websites. This information may include your browser type, browser language, Internet Protocol address, and the date and time of your visit. This information is collected on an anonymous basis, and we do not try to connect it with your personal information.
 
 The GFS Experience section of the website is only available to our registered customers. In order to establish access to the GFS Experience, GFS requires personal information associated with your account. This will generally include your name, the company that you work for and your contact information. In order to make purchases, Gordon Food Service may also need credit card or bank account information.
 
@@ -40,7 +40,7 @@ If you use the blog feature on our website or if you communicate with us through
 
 **Testimonials**
 
-We post video customer testimonials on our website which may contain personally identifiable information such as the customer's name. We obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial. 
+We post video customer testimonials on our website which may contain personally identifiable information such as the customer's name. We obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial.
 
 **Use of Cookies**
 
@@ -76,7 +76,7 @@ If you have any questions or complaints about our practices, would like to reque
 
 **Website Visitors under Age 18**
 
-The GFS.com website is intended to be used by customers and potential customers of GFS. The site is available for anyone to view, but please do not submit any personal information if you are not 18 years of age or older.
+The website is intended to be used by customers and potential customers of GFS. The site is available for anyone to view, but please do not submit any personal information if you are not 18 years of age or older.
 
 **Links to other Websites**
 
