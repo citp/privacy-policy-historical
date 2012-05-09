@@ -1,22 +1,30 @@
-<!--The following is the downloaded HTML source of the gog.com privacy policy that was archived on 2011-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111203165705id_/http%3A//www.gog.com/en/support/policies/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gog.com privacy policy that was archived on 2012-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120509232126id_/http%3A//www.gog.com/en/support/policies/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
+<!DOCTYPE html><html><head>
 		<title>Policies - GOG.com</title>
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<link rel="stylesheet" href="http://static01.gog.com/www/default/-css/_http_default.1212e0fb.css" type="text/css" charset="utf-8">
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="http://static.gog.com/www/default/-css/_http_default.3114496864.css" type="text/css" charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<meta name="description" content="Classic PC video games, free or cheap, downloaded direct to your desktop from GOG.com. Look at our catalog of 300+ games from many different publishers.">
 		<link rel="icon" type="image/vnd.microsoft.icon" href="http://static.gog.com/favicon.ico">
 		
-		<link rel="stylesheet" href="http://static05.gog.com/www/default/-css/_http_support.d8f2f129.css" type="text/css" charset="utf-8"><link rel="stylesheet" href="http://static06.gog.com/www/default/-css/_http_print.4e9d115b.css" media="print" type="text/css" charset="utf-8">
-		<!--[if IE]><link rel="stylesheet" href="http://static02.gog.com/www/default/-css/_http_default_ie.3e0e4482.css" type="text/css" charset="utf-8" /><![endif]-->
+		<link rel="stylesheet" href="http://static.gog.com/www/default/-css/_http_support.3114496864.css" type="text/css" charset="utf-8"><link rel="stylesheet" href="http://static.gog.com/www/default/-css/_http_print.3114496864.css" media="print" type="text/css" charset="utf-8">
+		<!--[if (gt IE 8)|(!IE)]><!-->
+		<link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600" rel="stylesheet" type="text/css"> 
+		<!--<![endif]-->
+		<!--[if IE]><link rel="stylesheet" href="http://static.gog.com/www/default/-css/_http_default_ie.3114496864.css" type="text/css" charset="utf-8" /><![endif]-->
+		<!--[if lte IE 9]>
+		<style>
+			.gog_btn, .css3pie { behavior:url(/www/default/-css/PIE.htc); }
+		</style>
+		<![endif]-->
 		
 	</head>
-	
-	<body class="noie page_support">
-	
-		<div id="loginHolder">    <div id="loginRegisterResetStepOne_overlayer" class="ove_container" style="display:none;">
+
+	<body class="noie page_support nouser">
+		
+				<div id="loginHolder">    <div id="loginRegisterResetStepOne_overlayer" class="ove_container" style="display:none;">
 		<div class="login_overlay"></div>
 		<div class="lg_outer_container">	
 			<div class="lg_hold">
@@ -37,7 +45,7 @@
 				</div>
 
 				<div id="register_holder" style="display:none;">
-					<form action="https://www.gog.com/en/login/register" method="post" name="register_form" id="register_form">
+					<form action="https://secure.gog.com/en/login/register" method="post" name="register_form" id="register_form">
 						<div class="lg_marker"></div>
 						<div id="su_main_container" class="su_main">
 									<div id="reg_form_container" class="lg_check hideMeOnFormChange"></div>
@@ -136,7 +144,8 @@
 									</div>
 									<div id="parent_nice_select_3" class="lg_select_wrapper lg_year nice_select_parent">				
 										<select id="nice_select_3" name="nice_select_3" class="lg_birthyear reg_date_select nice_select">
-											 <option selected="selected" value="1999">1999</option>
+											 <option selected="selected" value="2000">2000</option>
+											 <option value="1999">1999</option>
 											 <option value="1998">1998</option>
 											 <option value="1997">1997</option>
 											 <option value="1996">1996</option>
@@ -237,7 +246,7 @@
 											 <option value="1901">1901</option>
 											 <option value="1900">1900</option>
 										</select>
-										<span id="value_nice_select_3" class="lg_value">1999</span>
+										<span id="value_nice_select_3" class="lg_value">2000</span>
 										<div class="lg_arrow"></div>
 									</div>
 									<div id="nice_select_2_message_container" class="lg_message birthday">
@@ -251,14 +260,14 @@
 									</div>				
 								 <p class="lg_terms">I agree to GOG.com <a href="/en/support/policies/terms_of_use" target="_blank" class="login_un">Terms of Use</a> and <a href="/en/support/policies/privacy_policy" target="_blank" class="login_un">Privacy Policy</a></p>
 								 <div class="lg_spinner hideMeOnFormChange">Please wait</div>
-								 <div id="btn_create_acc" class="btn_create_acc inactive"></div>
+								 <div id="btn_create_acc" class="btn_create_acc gog_btn green">Create my account</div>
 							</div>
-							<input id="registerRedirectOk" type="hidden" name="registerRedirectOk" value="/en/myaccount">
+							<input id="registerRedirectOk" type="hidden" name="registerRedirectOk" value="/en/account">
 						</form>
 				</div> <!-- subscribe end -->	
 				
 				<div id="login_holder" style="display:none;">
-					<form action="https://www.gog.com/en/login" method="post" name="login_form" autocomplete="on" id="login_form">
+					<form action="https://secure.gog.com/en/login" method="post" name="login_form" autocomplete="on" id="login_form">
 						<div class="lg_marker2"></div>
 						<div id="login_main_container" class="lg_main">
 								<div class="message_container">
@@ -276,8 +285,8 @@
 								<input id="log_password" type="password" name="log_password" value="" autocomplete="on" class="">
 								<div class="lg_spinner hideMeOnFormChange">Please wait</div>
 								<input id="redirectOk" type="hidden" name="redirectOk" value="/en/support/policies/privacy_policy/">
-								<div class="btn_login">
-									<input id="submitForLoginForm" class="btn_login" type="submit">
+								<div class="btn_login gog_btn green">
+									<input id="submitForLoginForm" class="btn_login" type="submit" value="Log me in">Log me in
 								</div>
 							</div>
 					</form>			
@@ -303,8 +312,8 @@
 								</div>
 							</div>
 							<div class="lg_separator"></div>
-							<div class="btn_cancel"></div>
-							<div class="btn_continue"></div>
+							<div class="btn_cancel gog_btn">Cancel</div>
+							<div class="btn_continue gog_btn white">Continue</div>
 							<div class="lg_spinner">Please wait</div>
 						</div>
 						<div class="lg_reset_too_many" style="display:none;">
@@ -322,116 +331,91 @@
 </div>
 </div>
 				<!-- poczatek overlayer -->
-		<div class="ove_container">
-						<div class="overlayer_h" style="display: none;" id="overlayer">
-				<div class="ov_position_left">
-					<div class="overlayer_bg_h">
-						<div class="ov_sh_top">
-							<div class="ov_bg_dim ov_left_top_h">
-								<div class="ov_left_top"></div>
-							</div>
-							<div class="ov_bg_dim ov_right_top_h">
-								<div class="ov_right_top"></div>
-							</div>
-							<div class="clear"></div>
+		<div id="mainNav" class="no_messages">
+			<div class="nav_left"></div>
+			<div class="nav_in">
+				<div class="nav_home">
+					<a href="/" class="nav_logo">
+						<div class="nav_logo_click"></div>
+					</a>
+				</div>
+				<div class="nav_item nav_games expandable" data-hoverclass="hover_games">
+					<a class="nav_link_in" href="/en/catalogue">
+						<span class="nav_text">Browse Games</span><span class="nav_triangle"></span>
+						<div class="nav_hover"></div>
+					</a>
+					<div class="nav_dropdown">
+						<div class="nav_dropdown_in css3pie">
+							<a href="/en/catalogue/action" class="nav_row">
+								<span class="white_un">Action</span>
+							</a>
+							<a href="/en/catalogue/adventure/" class="nav_row">
+								<span class="white_un">Adventure</span>
+							</a>
+							<a href="/en/catalogue/indie/" class="nav_row">
+								<span class="white_un">Indie</span>
+							</a>
+							<a href="/en/catalogue/sport/" class="nav_row">
+								<span class="white_un">Racing &amp; Sports</span>
+							</a>
+							<a href="/en/catalogue/rpg" class="nav_row">
+								<span class="white_un">Role-playing</span>
+							</a>
+							<a href="/en/catalogue/shooter/" class="nav_row">
+								<span class="white_un">Shooter</span>
+							</a>
+							<a href="/en/catalogue/simulation/" class="nav_row">
+								<span class="white_un">Simulation</span>
+							</a>
+							<a href="/en/catalogue/strategy/" class="nav_row">
+								<span class="white_un">Strategy</span>
+							</a>
+							<a href="/en/catalogue/?price=free" class="nav_row">
+								<span class="vdark_un">Free games</span>
+							</a>
 						</div>
-						<div class="ov_sh_bottom">
-							<div class="ov_bg_dim ov_left_bottom_h">
-								<div class="ov_left_bottom"></div>
-							</div>
-							<div class="ov_bg_dim ov_right_bottom_h">
-								<div class="ov_right_bottom"></div>
-							</div>
-							<div class="clear"></div>
-						</div>
 					</div>
-					<div class="overlayer_contetn_h" id="overlayerContent">
-									
-					</div>
-				</div>
-			</div>
-		</div>
-		<!-- poczatek overlayer -->
-		<!-- search results /begin -->
-		<div class="res_container">
-			<div class="sliding_top" id="topSlidingMenu">
-				<div id="topCartHolder">
-				<div class="sliding_box empty">
-	<ul class="sb_content" id="topCartList">
-			</ul>
-	<div class="sb_checkout_cont">
-				<div class="sb_checkout">
-			<span class="checkout_total_empty">your cart is empty</span>
-		</div>		
-				<div class="sb_checkout_spin">
-			<div class="sb_spiner"></div>
-		</div>
-	</div>
-	<div class="sb_bottom"></div>
-	<div class="sb_shadow" id="topCartShadow"></div>
+				</div> <!--nav_link--> 
+				<a href="/en/forum" class="nav_link nav_community" data-hoverclass="hover_comm">
+					<span class="nav_text">
+						Community
+					</span>
+					<div class="nav_hover"></div>
+				</a> <!--nav_link--> 
+				<a href="/en/support" class="nav_link nav_support" data-hoverclass="hover_supp">
+					<span class="nav_text">
+						Support
+					</span>
+					<div class="nav_hover"></div>
+				</a> <!--nav_link--> 
+				<div class="nav_user"> <!--account + cart--> 
+										<div class="nav_link nav_account nav_login" data-hoverclass="hover_acc">
+	<span class="nav_login_icon"></span><span class="nav_text">Account login</span>
+	<div class="nav_hover"></div>
 </div>
-<input type="hidden" name="topCartCountField" id="topCartCountField" value="0">
-				</div>
-				<div id="topPmHolder">
-				<div class="sliding_msg">
-	<div class="sb_content" id="topCartList">
-			</div><!--  topcartlist -->
-	<div class="sb_bottom"></div>
-	<div class="sb_shadow" id="topCartShadow"></div>
+<div class="nav_cart_h">
+	<div class="nav_empty"></div>
 </div>
-				</div>
-				<!-- info flags (forum replies, messages, my cart) /begin -->
-				<div class="info_flags">
-					<div class="ifl_crt" id="flagCart">
-						<span class="ico"></span>
-						<span class="inf">my cart (<span id="topCartCount">0</span>)</span>
+									</div> <!--nav_user --> 
+				<div class="nav_item nav_search" data-hoverclass="hover_search">
+					<div class="nav_search_in css3pie">
+						<div class="nav_search_icon"></div>
+						<input type="text" class="nav_input" autocomplete="off" id="topMenuSearchInput">
+						<div class="nav_search_spiner"></div>
+						<div class="nav_search_clear"></div>
 					</div>
-
-					<div class="ifl_msg" id="flagMessages">
-						<span class="ico"></span>
-						<span class="inf">messages (<span id="topMessagesCnt"></span>)</span>
-					</div>
-
-					<div class="ifl_rep" id="flagForum">
-						<span class="ico"></span>
-						<span class="inf">forum replies (<span id="topForumCnt">1</span>)</span>
+					<div class="nav_hover"></div>
+					<div class="nav_shadow"></div>
+					<div class="nav_dropdown css3pie" id="topMenuSearchResults">
 					</div>
 				</div>
-				<!-- info flags (forum replies, messages, my cart) /end -->				
-			</div>
-			
-			<div class="gs_holder">
-				<div class="gs_clear"></div>
-				<div class="gs_spinner2"></div>
-				<div class="gs_look"></div>
-				<input class="gs_feel" type="text">
-			</div>
-			<ul class="gs_res">
-				<li class="res_head"></li>
-				<li class="res_empty">
-					<p class="res_e_inf"><b>No games found.</b> Try another search or browse the <a class="dark_un" href="/en/catalogue">games catalogue</a> instead.</p>
-				</li>
-				<li class="res_bott">
-					<div class="bott_more"><a class="cat" id="searcherMoreLink" href="/en/catalogue">browse in catalogue <span class="m_ico"></span></a></div>
-				</li>
-			</ul>
-		</div>
-		<!-- search results /end -->
-		<div class="sta_container">
-			<!-- top navigation bar + search results /begin -->
-			<ul class="top_nav">
-				<li class="tn_hm"><a class="nav_item" href="/">GOG.com</a></li>
-				<li class="tn_gm"><a class="nav_item" href="/en/catalogue">Games Catalogue</a></li>
-				<li class="tn_cm"><a class="nav_item" href="/en/forum">Community</a></li>
-				<li class="tn_sp"><a class="nav_item" href="/en/support">Support</a></li>
-										<li class="tn_ac">
-					<div class="ln" id="topMenuNoUser"><a class="nav_item" onclick="loginShowForm('',0)">Account login</a></div>
-				</li>				
-										<li class="tn_gs"></li>
-			</ul>
+			</div> <!-- top_nav_in --> 
+			<div class="nav_right"></div>
 		</div>
 		<div class="sta_container" id="templateStaContainer">
-		<!-- !section 1  -->
+			<div id="topSpacer"></div>
+			<div id="mainTemplateHolder">
+			<!-- !section 1  -->
 		<div class="section_1">
 			<div class="sub_header_s_h">
 				<div class="sub_header_s"></div>
@@ -529,7 +513,7 @@ GOG Limited (together with its affiliates, successors and assigns, “GOG” or 
 We only collect personal information to give you convenient access to our service and provide greater user experience each time you visit the Website. We collect the following types of information from our users:
 </p>
 
-<p>1. We store the information you enter on our Website. You can choose not to provide it, but then you won't not be able to access many of the Website's functionality and features.
+<p>1. We store the information you enter on our Website. You can choose not to provide it, but then you won't be able to access many of the Website's functionality and features.
 	</p><ul>
 		<li>In order to purchase games or access some of the Website features you must create a GOG.com account. As part of the registration, we require some personal information, including your e-mail address, your location, gender and date of birth, subject to special information collection mechanisms regarding children.</li>
 		<li>When you contact us, we may collect personal information relevant to the situation, such as your name, e-mail address and information relating to a support or service issue.</li>
@@ -588,54 +572,76 @@ The terms of this Privacy Policy are incorporated into our general Terms of Use.
 			</div>		<div class="clear"></div>
 		</div><div class="clear"></div>
 </div><div class="clear"></div>
-
+</div>
+			
+			<div id="bottomSpacer"></div>
 		
 		<div id="gatekeeperHolder"></div>
-		
-		<div class="sta_container">
-			<!-- footer /begin -->
-			<div class="footer  ">
-				<div class="foo_top">
-					<ul class="foo_tl">
-						<li>Looking for more?</li>
-						<li><a class="dark_un" href="/en/about">About us</a></li>
-						<li><a class="dark_un" href="/en/gift">Redeem gift</a></li>
-						<li><a class="dark_un" href="/en/sitemap">Site map</a></li>
-						<li><a class="dark_un" href="/en/support/contact">Contact us</a></li>
-						<li><a class="dark_un" href="/en/spreadtheword">Spread the word</a></li>
-					</ul>
-					<ul class="foo_tr">
-						<li>Follow us on:</li>
-						<li><a class="dark_un" href="http://www.twitter.com/gogcom" target="_blank"><span class="fol_twtr"></span>Twitter</a></li>
-						<li><a class="dark_un" href="http://www.youtube.com/GOGcom" target="_blank"><span class="fol_yutb"></span>YouTube</a></li>
-						<li><a class="dark_un" href="http://www.facebook.com/gogcom" target="_blank"><span class="fol_fcbk"></span>Facebook</a></li>
-					</ul>
+	<div id="mainFooter" class="">
+		<div class="footer_top">
+				<div class="footer_social face">
+					<b>Facebook</b>
+					<div class="fb-like" data-href="http://www.facebook.com/gogcom" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false" data-font="arial"></div>
 				</div>
-				<div class="foo_bot">
-					<ul class="foo_bl">
-						<li>Copyright © 2011 GOG.com.</li>
-						<li><a class="med_un" href="/en/support/policies/terms_of_use">Terms of Use</a></li>
-						<li><a class="med_un" href="/en/support/policies/privacy_policy">Privacy Policy</a></li>
-						<li><a class="med_un" href="/en/thanks/">Our Thanks</a></li>
-					</ul>
-					<ul class="foo_br">
-						<li class="f_lab">We accept:</li>
-						<li class="f_vis">Visa</li>
-						<li class="f_mas">MasterCard</li>
-						<li class="f_ame">American Express</li>
-						<li class="f_pay">PayPal</li>
-					</ul>
+				<div class="footer_social twit">
+					<b>Twitter</b>
+					<a href="https://twitter.com/gogcom" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @gogcom</a>
 				</div>
-			</div>
-			<!-- footer /end -->
+				<div class="footer_social gplus">
+					<b>Google +1</b>
+					<div class="g-plusone" data-size="medium" data-href="http://www.gog.com"></div>
+				</div>
+				<div class="footer_social yout">
+					<b>Youtube</b>
+					<a href="http://www.youtube.com/gogcom" target="_blank" class="footer_btn css3pie">
+						<i class="icon"></i>Watch trailers
+					</a>
+				</div>
+				<div class="footer_social rss">
+					<b>RSS Feed</b>
+					<a href="feed://www.gog.com/frontpage/rss" class="footer_btn css3pie">
+						<i class="icon"></i>Subscribe to news
+					</a>
+				</div>
+				<div class="footer_social impr">
+					<b>Help us improve GOG.com</b>
+					<a href="/wishlist" class="footer_btn css3pie">
+						<i class="icon"></i>Request Games &amp; Site features
+					</a>
+				</div>
+			<span class="footer_empty_space"></span>
 		</div>
+		<div class="footer_bottom">
+			<div class="footer_left">
+				Looking for more?
+				<span class="footer_link">
+					<a class="dark_un" href="/en/gift/">Redeem gift</a>
+				</span>
+				<span class="footer_link">
+					<a class="dark_un" href="/en/support/contact">Contact us</a>
+				</span>
+				<span class="footer_link">
+					<a class="dark_un" href="/en/thanks/">Our thanks</a>
+				</span>
+			</div>
+			<div class="footer_right">
+				GOG.com © 2012.
+				<span class="footer_link">
+					<a class="dark_un" href="/en/support/policies/terms_of_use">Terms of Use</a>
+				</span>
+				<span class="footer_link">
+					<a class="dark_un" href="/en/support/policies/privacy_policy">Privacy Policy</a>
+				</span>
+			</div>
+		</div>
+	</div> <!-- main_footer --> 
 		<form action="#" method="post" onsubmit="return false;">
-			<input type="hidden" id="redirect" value="/en/support/policies/privacy_policy/"><input type="hidden" id="lngC" value="EN"><input type="hidden" id="ctr" value="support"><input type="hidden" id="uid" value=""><input type="hidden" id="focusInPass" value="0"><input type="hidden" id="redirectOk" value=""><input type="hidden" id="minUserAge" value="13"><input type="hidden" id="presentYear" value="2011"><input type="hidden" id="presentMonth" value="12"><input type="hidden" id="presentDay" value="03"><input type="hidden" id="lng" value="en"><input type="hidden" id="url" value="/en/support/policies/privacy_policy/"><input type="hidden" id="host" value="www.gog.com">
+			<input type="hidden" id="redirect" value="/en/support/policies/privacy_policy/"><input type="hidden" id="lngC" value="EN"><input type="hidden" id="ctr" value="support"><input type="hidden" id="uid" value=""><input type="hidden" id="focusInPass" value="0"><input type="hidden" id="redirectOk" value=""><input type="hidden" id="minUserAge" value="13"><input type="hidden" id="presentYear" value="2012"><input type="hidden" id="presentMonth" value="05"><input type="hidden" id="presentDay" value="09"><input type="hidden" id="lng" value="en"><input type="hidden" id="url" value="/en/support/policies/privacy_policy/"><input type="hidden" id="host" value="www.gog.com">
 		</form>
 		
-		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://static03.gog.com/www/default/-js/_min_jquery.aa3cb184.js"></script>
-		<script type="text/javascript" src="http://static04.gog.com/www/default/-js/_min_global.f8bb1f76.js"></script>
-		<script type="text/javascript" src="http://static01.gog.com/www/default/-js/_min_support.b5fab662.js"></script><script type="text/javascript" src="http://static02.gog.com/www/default/-js/_min_ajaxfileupload.555bee69.js"></script>
+		<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://static.gog.com/www/default/-js/_min_jquery.1342641725.js"></script>
+		<script type="text/javascript" src="http://static.gog.com/www/default/-js/_min_global.1342641725.js"></script>
+		<script type="text/javascript" src="http://static.gog.com/www/default/-js/_min_support.1342641725.js"></script><script type="text/javascript" src="http://static.gog.com/www/default/-js/_min_ajaxfileupload.1342641725.js"></script>
 		
 <script type="text/javascript"> 
 (function() {
@@ -649,9 +655,28 @@ The terms of this Privacy Policy are incorporated into our general Terms of Use.
 <script type="text/javascript">
 	var _gaq = _gaq || [];
 	_gaq.push(['_setAccount', 'UA-6605418-1']);
+	_gaq.push (['_gat._anonymizeIp']);
 	_gaq.push(['_trackPageview']);
 	
 </script>
+<!-- social --> 
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+ <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+ <script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
 		<input type="hidden" name="status_veryfication" value="gogcomisupandrunningwithoutaproblem">
 		 
 	
