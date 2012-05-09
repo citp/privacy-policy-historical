@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centralrestaurant.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101234913id_/http%3A//www.centralrestaurant.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centralrestaurant.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509102952id_/http%3A//www.centralrestaurant.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy : Central Restaurant Products
 
@@ -10,7 +10,6 @@ Our secure server software (SSL) is the industry standard and is among the best 
 We encrypt all of your personal information including credit card number, name and address so that it cannot be read as information travels over the internet.
 
   
----  
   
   * **Cookies**  
 We only use cookies to keep track of items that you put into your shopping cart and to tell us whether you have shopped with us before, making the shopping experience more convenient for you.
@@ -37,19 +36,4 @@ Central Restaurant Products
 7750 Georgetown Rd.  
 Indianapolis, IN 46268   
 
-  
-  
-  
 
-
-Central Restaurant Products
-
-800-215-9293
-
-7750 Georgetown Rd  
-Indianapolis, IN 46268
-
-**Privacy Policy : Central Restaurant Products**  
-
-
-**© 2020 Central Products, LLC**
