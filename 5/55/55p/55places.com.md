@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 55places.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211155252id_/http%3A//www.55places.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 55places.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509235231id_/http%3A//www.55places.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Retirement Communities - 55 Plus Active Adult Community Guide
+# Privacy Policy - 55Places.com
 
 ## Privacy Statement
 
@@ -19,7 +19,7 @@ We recognize and respect your need for privacy and security as you visit our Web
 
 
 
-If you fill out one of our feedback or request forms or send us email, you will be transmitting the information that appears to you in the form or the message.  This will typically include information like your name, mailing address, email address, the kind of request you are making, and any other information necessary to fulfill your request.  This information cannot be collected unless you elect to send it to us.  The information we receive through our Website is used internally for the purpose of fulfilling the request, contacting you directly and sharing with our trusted Community Advisers.  We do not sell or distribute your information to other outside companies or parties.
+If you fill out one of our feedback or request forms or send us email, you will be transmitting the information that appears to you in the form or the message.  This will typically include information like your name, mailing address, email address, the kind of request you are making, and any other information necessary to fulfill your request.  This information cannot be collected unless you elect to send it to us.  The information we receive through our Website is used internally for the purpose of fulfilling the request, contacting you directly and sharing with our trusted Partner Agents or other service provider that you select.  We do not sell or distribute your information to other outside companies or parties.
 
 ## Security
 
