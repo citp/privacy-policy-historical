@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ediets.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509085056id_/http%3A//www.ediets.com/jsps/company/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ediets.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509044541id_/http%3A//www.ediets.com/company/Privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -136,7 +136,7 @@ We do not control third parties' use of cookies or web beacons, or how they mana
 
 We are committed to protecting the privacy of children. This Website is not designed for, nor is it intended to attract, children under the age of 13. We do not knowingly collect Personal Information directly from any person under the age of 13, and if we do inadvertently collect information from a person under the age of 13, we delete it as soon as we discover it.
 
-eDiets.com offers the Trim KidsTM Nutrition Program to adult parents (i.e., legal guardians over 18 years of age) as a nutrition tool for use with their children, ages 5-17. When a parent joins the Trim KidsTM Nutrition Program, we will need to collect non-personally identifiable information about the parent’s child or children (i.e., birthday, gender, height, weight, and waist measurement) so we may provide the parent with the proper nutrition guidance and resources for use with their child(ren). If a parent closes a Trim KidsTM Membership, the non-personally identifiable information about that parent’s child(ren) will be deleted. Please feel free, however, to contact our Customer Service Department at (800) 265-6170 if you have any questions.
+eDiets.com offers the Trim KidsTM Nutrition Program to adult parents (i.e., legal guardians over 18 years of age) as a nutrition tool for use with their children, ages 5-17. When a parent joins the Trim KidsTM Nutrition Program, we will need to collect non-personally identifiable information about the parent's child or children (i.e., birthday, gender, height, weight, and waist measurement) so we may provide the parent with the proper nutrition guidance and resources for use with their child(ren). If a parent closes a Trim KidsTM Membership, the non-personally identifiable information about that parent's child(ren) will be deleted. Please feel free, however, to contact our Customer Service Department at (800) 265-6170 if you have any questions.
 
 #### D. Public Forums
 
