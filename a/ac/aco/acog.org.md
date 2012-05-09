@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the acog.org privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103013125id_/http%3A//www.acog.org/from_home/misc/privacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acog.org privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509132023id_/http%3A//www.acog.org/About_ACOG/Privacy_Statement) for the most accurate reproduction.*
 
-# Privacy Statement for ACOG's Website
-
-Privacy Statement for ACOG's Website 
+# ACOG - Privacy Statement
 
 The American College of Obstetricians and Gynecologists (ACOG) created this Privacy Statement to demonstrate our commitment to the privacy of our member and non-member users. This Privacy Statement discloses the privacy practices for acog.org, acog.com, and ACOG's other top-level domains. 
 
@@ -30,6 +28,6 @@ ACOG's Website contains links to other external websites that do not fall under 
 
 ACOG may disclose your personal information if required to do so by law or in the good-faith belief that such action is necessary to 1) conform to legal requirements or comply with legal process served on ACOG, 2) protect and defend the rights of property of ACOG, or 3) protect the personal safety of ACOG personnel or members of the public in urgent circumstances. 
 
-The American College of Obstetricians and Gynecologists reserves the right to amend the Privacy Statement at any time for any reason. This Privacy Statement only applies to information collected by ACOG through ACOG's Website. 
+The American College of Obstetricians and Gynecologists reserves the right to amend the Privacy Statement at any time for any reason. This Privacy Statement only applies to information collected by ACOG through ACOG's Website.
 
 8/26/2004
