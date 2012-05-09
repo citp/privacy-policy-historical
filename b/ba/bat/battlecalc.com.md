@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the battlecalc.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103011340id_/http%3A//www.battlecalc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the battlecalc.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509081847id_/http%3A//www.battlecalc.com/privacy) for the most accurate reproduction.*
 
 # BattleCalc! Privacy Policy
 
 ## BattleCalc! A Combat Calculator for Starfleet Commander
+
+### BattleCalc Nova Beta is now available at [nova.battlecalc.com](http://nova.battlecalc.com/)
 
 #### Privacy Policy
 
