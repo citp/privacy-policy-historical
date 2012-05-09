@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oron.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207011341id_/http%3A//oron.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oron.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509234346id_/http%3A//oron.com/privacy.html) for the most accurate reproduction.*
 
 # Welcome to Oron.com
 
