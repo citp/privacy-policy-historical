@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hudforeclosed.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102044848id_/http%3A//www.hudforeclosed.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hudforeclosed.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509090901id_/http%3A//www.hudforeclosed.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | HUDforeclosed.com
 
