@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proxyway.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124075207id_/http%3A//www.proxyway.com/www/info/proxyway-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxyway.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509232249id_/http%3A//www.proxyway.com/www/info/proxyway-privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,10 +35,10 @@ ProxyWay.com Privacy Policy may be changed from time to time. Please review the 
 ---|---|---  
   
 _Proxy Question_  
-• What kind of information about my computer can be collected by web sites?
+• Why are my Internet Explorer proxy settings changed after changing Safari proxy settings?
 
-When you surf the Internet, web sites collect and record usage information about your computer such as your IP address, Operating System, browser type, configuration of a browser (display resolution, color depth, java / javascript support, etc.), operating system you are using, web pages last visited. Some of this information, for example browser type, operating system, etc. automatically comes from your browser. Other information, for example display resolution, color depth, local time, java / javascript support, etc. can be collected if you enable scripts while surfing.   
+Safari, MSN Explorer, AOL Explorer and Maxthon use some Internet Explorer settings e.g proxy settings. So, if you make any changes for Internet Explorer, these changes influence Internet Explorer as well as other browsers which share Internet Explorer settings and vice versa.   
   
- Copyright © 2011 [ProxyWay.com](http://www.proxyway.com/) All rights reserved. | [Terms of Use](http://www.proxyway.com/www/info/proxyway-terms.html) | [Privacy Policy](http://www.proxyway.com/www/info/proxyway-privacy.html) | [Check IP](http://www.proxyway.com/www/check-ip-address/whatis-my-ip-address.html) | [Site Map](http://www.proxyway.com/www/site_map.html) | [Contact](http://www.proxyway.com/cf.html)      Thursday, November 24, 2011   
+ Copyright © 2011 [ProxyWay.com](http://www.proxyway.com/) All rights reserved. | [Terms of Use](http://www.proxyway.com/www/info/proxyway-terms.html) | [Privacy Policy](http://www.proxyway.com/www/info/proxyway-privacy.html) | [Check IP](http://www.proxyway.com/www/check-ip-address/whatis-my-ip-address.html) | [Site Map](http://www.proxyway.com/www/site_map.html) | [Contact](http://www.proxyway.com/cf.html)      Wednesday, May 9, 2012   
 |   
 ---
