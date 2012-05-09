@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazyshirts.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202193730id_/http%3A//www.crazyshirts.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazyshirts.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509211127id_/http%3A//www.crazyshirts.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
 
 # Privacy and Security - Customer Service - Crazy Shirts Official Site
 
@@ -15,7 +15,7 @@ Customer Service Department
 99-969 Iwaena Street  
 Aiea, Hawaii 96701
 
-Call us at 1-800-771-2720 or [email us](http://www.crazyshirts.com/category/customer+service/contact+us.do). 
+Call us at 1-800-771-2720 or [email us](http://www2.crazyshirts.com/category/customer+service/contact+us.do). 
 
 **The Information We Collect**   
 We collect transaction information and email addresses. We collect only the minimum information necessary to complete your order online; this is the same information required to complete telephone orders - name, billing and shipping address, telephone number, and payment information. We require customer email address for online orders so that we may notify you of your order status or merchandise return status. Additionally, if you opt-in, we may send you emails promoting our products, announcing special events and offering other special limited-time discounts, such as free shipping, that may be used by online customers. 
@@ -35,7 +35,7 @@ Crazy Shirts does not sell or rent customers' email addresses to other companies
 **Remove or update my personal information**   
 If you have registered for a crazyshirts.com account, we have provided you with a means to log into your account and edit your personal information including name, address, email address, phone number and account password to ensure its accuracy. 
 
-If you signed up to receive email communications and wish to remove your address from our mailing list, you may use the Unsubscribe link provided in our e-mails, call us at 1-800-771-2720 or click [here](https://web.archive.org/ancillary/unsubscribe.do). 
+If you signed up to receive email communications and wish to remove your address from our mailing list, you may use the Unsubscribe link provided in our e-mails, call us at 1-800-771-2720 or click [here](https://web.archive.org/category/customer+service/privacy+and+security/optdown.do). 
 
 **We listen to you!**  
 We read and respond to every message that is sent to us. A customer care representative will personally get back to you with in 24-48 hours. We do not retain any personal information from your email unless requested to do so.
@@ -44,4 +44,4 @@ We read and respond to every message that is sent to us. A customer care represe
 If any changes are made to our privacy policy in whole or in part, we will inform you by posting a notice on our web site. Those changes will go into effect on the date posted in the notice. The new policy will apply to all current and past users of our web site and will replace any prior policies that are inconsistent. This policy was posted in April 2007. 
 
 **Your Feedback**  
-To help us improve our privacy policy and practice, please give us your feedback. You may can [email us](http://www.crazyshirts.com/category/customer+service/contact+us.do) or call us at at 1.800.771.2720. 
+To help us improve our privacy policy and practice, please give us your feedback. You may can [email us](http://www2.crazyshirts.com/category/customer+service/contact+us.do) or call us at at 1.800.771.2720. 
