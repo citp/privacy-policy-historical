@@ -1,11 +1,7 @@
-> *The following text is extracted and transformed from the thelandofspas.info privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010030335id_/http%3A//thelandofspas.info/content/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelandofspas.info privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509160440id_/http%3A//thelandofspas.info/content/privacy-policy.html) for the most accurate reproduction.*
 
-# Very Cheap Hosting - Privacy Policy
+# 2012 FatCow Coupon Promo Codes Discount Enjoy 67% OFF Fatcow Coupon Today! - Privacy Policy
 
-Fat Cow Coupons Codes Latest Discounts 
-
-Wednesday, 23 March 2011   
----  
 thelandofspas.info takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this privacy policy primer to learn more about privacy policies in general.
 
 Routine Information Collection
@@ -36,6 +32,4 @@ Comments
 Write comment
 
   
-  
-[ Next >](http://thelandofspas.info/content/quality-internet-hosting-at-an-exceptionally-affordable-price.html)  
----
+
