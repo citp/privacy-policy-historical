@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egnyte.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206073714id_/http%3A//www.egnyte.com/corp/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egnyte.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510074524id_/https%3A//www.egnyte.com/corp/privacy_policy.html) for the most accurate reproduction.*
 
 # Egnyte - Privacy Policy
 
@@ -92,6 +92,6 @@ Egnyte, Inc.
 Attn: Kris Lahiri  
 1890 N. Shoreline Blvd., 1st Floor  
 Mountain View, CA 94043  
-[inquiry@egnyte.com](https://web.archive.org/web/20111206073714id_/http%3A//www.egnyte.com/corp/inquiry@egnyte.com)
+[inquiry@egnyte.com](mailto:inquiry@egnyte.com)
 
 Last Updated 06/29/2011
