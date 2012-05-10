@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aquaticcommunity.com privacy policy that was archived on 2011-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111026215034id_/http%3A//www.aquaticcommunity.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquaticcommunity.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510135709id_/http%3A//www.aquaticcommunity.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # AquaticCommunity Privacy Policy
 
@@ -8,6 +8,8 @@ Google, as a third party advertisement vendor, uses cookies to serve ads on this
 To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
 
 Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, this site has no access or control over these cookies that may be used by third party advertisers. 
+
+AquaticCommunity uses Viglink.com to monetize links to retailers and websites. Learn more about the technology by visiting viglink.com
 
 AquaticCommunity  
 Privacy Policy  
