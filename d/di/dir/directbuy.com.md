@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the directbuy.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101122057id_/http%3A//clubs.directbuy.com/content/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directbuy.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510060811id_/http%3A//www.directbuy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-**Privacy Policy**
+# Privacy Policy | DirectBuy
 
 We at DirectBuy ® understand that you value your privacy and we strive to respect that privacy when you are using our services. This Privacy Policy describes what information we gather from you, how we use that information and what we do to protect it. By using the DirectBuy ® website, you are expressly consenting to the information handling practices described in this policy.
 
@@ -12,7 +10,7 @@ Our websites' servers collect and retain technical information regarding visits 
 
 **Information Relating to Children**
 
-You must be at least eighteen (18) years of age to use the DirectBuy ® Services. Any person who provides their information to DirectBuy ® represents to DirectBuy ® that they are 18 years of age or older. DirectBuy ® is in no way directed at children under 18 years of age. We will not knowingly collect personal information of children under 18 years of age, and if we learn that we have inadvertently collected such information, we will promptly delete it. 
+You must be at least eighteen (18) years of age to use the DirectBuy ® Services. Any person who provides their information to DirectBuy ® represents to DirectBuy ® that they are 18 years of age or older. DirectBuy ® is in no way directed at children under 18 years of age. We will not knowingly collect personal information of children under 18 years of age, and if we learn that we have inadvertently collected such information, we will promptly delete it.
 
 **How We Use Your Information**
 
@@ -48,4 +46,4 @@ This policy is effective as of January 1, 2007.  As we update and expand our se
 
 **Contact Information**
 
-If you have any questions or suggestions regarding our Privacy Policy, please contact us at _DirectBuy@ActiveEmailCompliance.com._
+If you have any questions or suggestions regarding our Privacy Policy, please contact us at [_DirectBuy@ActiveEmailCompliance.com._](mailto:DirectBuy@ActiveEmailCompliance.com)
