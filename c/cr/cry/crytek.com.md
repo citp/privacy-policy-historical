@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crytek.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228142118id_/http%3A//www.crytek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crytek.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510030001id_/http%3A//www.crytek.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Crytek
 
@@ -122,7 +122,7 @@ You may choose to disclose information about yourself in the course of contribut
 
 You should be aware that any personally identifiable information you submit in the course of these public activities can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
 
-If you post a video, image or photo on one of our sites for public view you should be aware that these may be viewed, collected, copied and/or used by other users without your consent. We are not responsible for the videos, images or photos that you choose to submit to Crytek's site. Please see our regulations at [www.legal.com](http://www.legal.com/ "www.legal.com") on this point and for other guidelines about posting content on our websites.
+If you post a video, image or photo on one of our sites for public view you should be aware that these may be viewed, collected, copied and/or used by other users without your consent. We are not responsible for the videos, images or photos that you choose to submit to Crytek's site. Please see our regulations at [www.crytek.com/legal](http://www.crytek.com/legal "www.crytek.com/legal") on this point and for other guidelines about posting content on our websites.
 
 ## IX.   Third Party Sites.
 
