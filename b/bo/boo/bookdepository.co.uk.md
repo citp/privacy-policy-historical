@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookdepository.co.uk privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009135338id_/http%3A//www.bookdepository.co.uk/help/topic/HelpId/20/Our-privacy-policy%23helpContent) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookdepository.co.uk privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510171901id_/http%3A//www.bookdepository.co.uk/help/topic/HelpId/20/Our-privacy-policy%23helpContent) for the most accurate reproduction.*
 
 # Help at The Book Depository
 
@@ -6,7 +6,7 @@
 
  **Summary for people who are not lawyers:**
 
-  * We fully abide by the UK Data Protection Act.
+  * We fully abide by the Data Protection Act.
   * We'll never share, sell or otherwise leverage your data unless you agree to it
   * The information we collect is necessary for the smooth running of an e-commerce website - don't worry, we'll only ask for data that we need.
   * If you have any questions, requests etc just drop us a line and we'll do our best to help
@@ -20,7 +20,7 @@ The Book Depository is committed to ensuring that your privacy is protected. Sho
 
 This Privacy Policy explains our data processing practices and your options regarding the ways in which your personal data is used. If you have any requests concerning your personal information or any queries with regard to our processing please contact us via the [Contact us](http://www.bookdepository.co.uk/contactus) page.
 
-The Book Depository may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
+The Book Depository may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
 
 **What we collect**  
 We may collect the following information:
@@ -49,13 +49,14 @@ We require this information to understand your needs and provide you with a bett
 
 
 **Use of your information and your preferences**  
-We will use your information to provide and personalise our service. We will also use your contact details to communicate with you. We may use your information to send you offers and news about products and services. Once you have registered to use The Book Depository, you will be provided with access to a "My account" page that will allow you to tailor our communications to your preferences.
+We will use your information to provide and personalise our service. We will also use your contact details to communicate with you. We may use your information to send you offers and news about products and services. Once you have registered to use The Book Depository Ltd, you will be provided with access to a "My account" page that will allow you to tailor our communications to your preferences.
 
 To change your contact preferences simply click "My Account" at the top of the page and click "My contact preferences". If you do not want to receive commercial marketing communications from us, please select your choices by using the boxes available on that page. Please note you will still receive transactional emails from us.
 
 We like to hear your views to help us improve our service. From time to time, we may contact you by email to ask your opinions. Again, if you do not want to be contacted for this purpose, please make your choice on the "Contact preferences" page.
 
-Please note that there may be instances where it may be necessary for us to communicate with you, in any event, for administrative or operational reasons relating to our service.  
+Please note that there may be instances where it may be necessary for us to communicate with you, in any event, for administrative or operational reasons relating to our service.
+
 For e-mail notifications of out of stock titles we will only use your e-mail address for this purpose and not for additional marketing. 
 
 **Your interactions**  
@@ -82,7 +83,9 @@ You can find out more about the way cookies work on [http://www.cookiecentral.co
 **Data transfer**  
 Under the Data Protection Act 1998, The Book Depository Ltd is required to tell you if it transfers or intends to transfer information which it holds about you to countries outside the European Economic Area ("EEA").
 
-The Book Depository Ltd currently transfers such information outside the EEA for secure storage on its servers which are currently located in the United States. Because The Book Depository Ltd servers are located in the United States, the transfer of all of The Book Depository Ltd data (including the personal details contained in your account) outside the EEA is necessary to enable The Book Depository Ltd to operate its website and provide products and information to you.
+The Book Depository Ltd is a subsidiary of Amazon.com, Inc. Amazon.com, Inc. and its controlled subsidiaries are participants in the Safe Harbour programme developed by the US Department of Commerce and the European Union. Amazon has certified that they adhere to the Safe Harbour Privacy Principles agreed upon by the US and the EU. For more information about the Safe Harbour and to view the certification, visit the U.S. Department of Commerce's Safe Harbour website. If you would like to learn more about the Safe Harbour programme, please send an e-mail to safeharbor@amazon.com. The Book Depository Ltd shares information only as described below, with its parent company Amazon.com, Inc. and the subsidiaries which Amazon.com, Inc., controls and that are either subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Policy.
+
+The Book Depository Limited currently transfers such information outside the EEA for secure storage on its servers which are currently located in the United States. Because The Book Depository Ltd servers are located in the United States, the transfer of all of The Book Depository Ltd data (including the personal details contained in your account) outside the EEA is necessary to enable The Book Depository Ltd to operate its website and provide products and information to you.
 
 By accessing and using The Book Depository Ltd website you are deemed to have accepted The Book Depository Ltd Terms and Conditions of Use, and to have consented to the transfer and storage of your personal information and data outside the EEA. If you do not wish any of your personal data or information to be stored or transferred outside the EEA, you may withdraw your consent to such at any time by notifying The Book Depository Ltd Customer Service Manager at the address at the end of this page. However, because The Book Depository Ltd servers are located outside the EEA, if you withdraw your consent, The Book Depository Ltd will no longer be able to provide you access to or use of its website. 
 
@@ -99,12 +102,12 @@ You may choose to restrict the collection or use of your personal information in
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about our group of companies which we think you may find interesting.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to:
+You may request details of personal information which we hold about you under the Data Protection Act 1998. If you would like a copy of the information held on you please write to:
 
-Customer Services Manager,   
-The Book Depository Limited  
-Goodridge Business Park  
-Gloucester  
+Customer Services Manager,  
+The Book Depository Limited,  
+Goodridge Business Park,  
+Gloucester,  
 GL2 5EB
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us via the [Contact us](http://www.bookdepository.co.uk/contactus) page as soon as possible, or at the above address. We will promptly correct any information found to be incorrect.
