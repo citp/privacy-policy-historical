@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutor.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009140128id_/http%3A//www.tutor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutor.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510030202id_/http%3A//www.tutor.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Tutor.com
 
@@ -41,15 +41,15 @@ If you use a promotion code at Tutor.com to create an account, or to add minutes
 
 We share your personal information with the vendors (companies) that help us process transactions, such as charging your credit card when you make purchases. Any such sharing is always done subject to a legal agreement that requires them to keep your personal information strictly confidential.
 
-### We May Share Your Personal Information For Safety Reasons
+### We May Share Your Personal Information For Safety or Legal Reasons
 
-If we have reason to believe that disclosing your Personal Identification is required by law, or is otherwise reasonable to protect someone from possible injury, we may do so.
+If we have reason to believe that disclosing your Personal Identification is required by law, is reasonable to protect someone from possible injury, or as part of a internal or external legal investigation, we may do so.
 
 ### Cookies
 
 Cookies are files that your Web browser puts on your computer when you visit a Web site. We use cookies to tell us how often you visit our site, and what pages you go to on our site. Sometimes we use files from other companies (called third-party cookies) to help us see where people go on our website, to improve our services and the performance of our advertising. Unless you give us permission, the cookies we use do not store any personally identifying information. For example, If you choose the option to “remember my email address” on our login page, we will store the information we need to identify you on your next visit in a cookie on your computer.
 
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.fetchback.com/optout.html).
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [ click here](http://www.fetchback.com/optout.html).
 
 ### Links to Other Sites
 
