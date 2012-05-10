@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the good.is privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204091723id_/http%3A//www.good.is/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the good.is privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510033105id_/http%3A//www.good.is/privacy) for the most accurate reproduction.*
 
 # GOOD Privacy Policy - GOOD
 
@@ -16,7 +16,7 @@ GOOD Worldwide, LLC
 
 Los Angeles, CA 90038
 
-Please read this Privacy Policy carefully. You can access the Privacy Policy anytime at [www.good.is/privacy](https://web.archive.org/web/20111204091723id_/http%3A//www.good.is/www.good.is/privacy). Your use and/or registration on any aspect of GOOD will constitute your agreement to this Privacy Policy. This privacy policy does not cover information collected elsewhere, including, without limitation, offline and on sites linked to from GOOD. 
+Please read this Privacy Policy carefully. You can access the Privacy Policy anytime at [www.good.is/privacy](https://web.archive.org/web/20120510033105id_/http%3A//www.good.is/www.good.is/privacy). Your use and/or registration on any aspect of GOOD will constitute your agreement to this Privacy Policy. This privacy policy does not cover information collected elsewhere, including, without limitation, offline and on sites linked to from GOOD. 
 
 **1\. What this Policy Covers**. This policy covers our treatment of information that we obtain when you visit GOOD. This policy does not cover the privacy practices of third parties that we do not own or control, such as our partners or advertisers. In addition we may provide links to other services and on occasion links to other sites that may interest you. All of these sites own independently of GOOD and they have their own privacy and security practices. For your best on-line experience, we encourage you to review their privacy policies before submitting personal information to them. 
 
