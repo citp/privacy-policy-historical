@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the oxylusflash.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227084658id_/http%3A//www.oxylusflash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxylusflash.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510034444id_/http%3A//www.oxylusflash.com/privacy-policy) for the most accurate reproduction.*
 
-# Resources
+# OXYLUS Flash | Privacy Policy
 
-OXYLUSFlash ("OXYLUSFlash") has developed this Privacy Policy ("Policy") to inform you about how we deal with privacy issues in relation to our website. Your privacy is very important to us and you must agree to the terms of this Policy before becoming a OXYLUSFlash member and/or using the site located at [www.OXYLUSFlash.com](http://www.oxylusflash.com/)("the Site").
+OXYLUS Flash has developed this Privacy Policy ("Policy") to inform you about how we deal with privacy issues in relation to our website. Your privacy is very important to us and you must agree to the terms of this Policy before becoming a OXYLUS Flash member and/or using the site located at [www.oxylusflash.com](http://www.oxylusflash.com/) ("the Site").
 
 This Policy governs the information we collect about you and your use of information we provide to you. By accepting this Policy and the Website Terms of Access Agreement, you expressly consent to our use and disclosure of your personal information in a manner prescribed in this Policy. You acknowledge this by using the Site.
 
@@ -39,7 +39,7 @@ This information is only used for statistical and website development purposes.
 
 Various pages on this Site invite you to provide us your name and contact details, for example, to go onto our mailing list for our newsletter enter competitions, or to enable us to provide you with site related services such as notifications.
 
-If you use our Site's feedback and support forms, you are asked to provide your name, organization, title, address, e-mail address and telephone number. OXYLUSFlash will not otherwise collect information from you through this Site unless you knowingly provide it to us.
+If you use our Site's feedback and support forms, you are asked to provide your name, organization, title, address, e-mail address and telephone number. OXYLUS Flash will not otherwise collect information from you through this Site unless you knowingly provide it to us.
 
 By voluntarily providing information to us when using the Site, you are consenting to the collection and use of your personal information by us.
 
@@ -65,9 +65,9 @@ If you use a payment facilitator on the Site, we collect additional necessary in
 
 **USE OF INFORMATION AND DISCLOSURE**
 
-OXYLUSFlash will only use the information it collects through the Site for the following purposes:
+OXYLUS Flash will only use the information it collects through the Site for the following purposes:
 
-  * Forwarding important information relating to OXYLUSFlash activities and other requested information;
+  * Forwarding important information relating to OXYLUS Flash activities and other requested information;
   * Contacting you in response to your feedback or query to discuss our services;
   * Monitoring Site performance;
   * Improving our Site and services to you;
@@ -76,7 +76,7 @@ OXYLUSFlash will only use the information it collects through the Site for the f
 
 
 
-OXYLUSFlash will not give, sell, trade or otherwise disclose any personal information about you to a third party unless:
+OXYLUS Flash will not give, sell, trade or otherwise disclose any personal information about you to a third party unless:
 
   * You have provided us with your consent; or
   * We are required to do so by law.
@@ -87,10 +87,10 @@ OXYLUSFlash will not give, sell, trade or otherwise disclose any personal inform
 
 You may request access to your personal information and can ask us to correct your personal information.
 
-You can do this by e-mailing [legal@OXYLUSFlash.com](mailto:legal@OXYLUSFlash.com)
+You can do this by e-mailing [legal@oxylusflash.com](mailto:legal@OXYLUSFlash.com)
 
 **DISCLAIMER**   
-This Site contains links to other sites. OXYLUSFlash is not responsible for the privacy practices of linked sites. Underlined words and phrases are click-through links or hyperlinks to pages and websites. OXYLUSFlash strongly recommends that you read the Privacy Policy of the linked websites as they may contain further terms and conditions which apply to you.
+This Site contains links to other sites. OXYLUS Flash is not responsible for the privacy practices of linked sites. Underlined words and phrases are click-through links or hyperlinks to pages and websites. OXYLUS Flash strongly recommends that you read the Privacy Policy of the linked websites as they may contain further terms and conditions which apply to you.
 
 **SECURITY**
 
@@ -98,11 +98,11 @@ This Site has security measures in place to protect the loss or misuse of, or al
 
 **AMENDMENTS TO THE PRIVACY POLICY**
 
-We may change this Policy. Such changes will be effective when a notice of the change is made available on the Site. We will provide you with thirty (30) days notice to allow you the opportunity to notify OXYLUSFlash if you do not agree to such changes.
+We may change this Policy. Such changes will be effective when a notice of the change is made available on the Site. We will provide you with thirty (30) days notice to allow you the opportunity to notify OXYLUS Flash if you do not agree to such changes.
 
 **OPT - OUT PROVISION**
 
-To protect you from unwanted e-mail communications, OXYLUSFlash adopts an opt-out facility for marketing communication. If you decide you no longer would like to receive marketing communications from us, please advise us by sending an e-mail to [legal@OXYLUSFlash.com](mailto:legal@OXYLUSFlash.com)or follow the instructions in the "Opt-Out" section of the e-mail you have received.
+To protect you from unwanted e-mail communications, OXYLUS Flash adopts an opt-out facility for marketing communication. If you decide you no longer would like to receive marketing communications from us, please advise us by sending an e-mail to [legal@oxylusflash.com](mailto:legal@OXYLUSFlash.com) or follow the instructions in the "Opt-Out" section of the e-mail you have received.
 
 If you request us not to use personal information in a particular manner or at all, we will adopt all reasonable measures to observe your request but we may still use or disclose that information if:
 
@@ -114,8 +114,8 @@ If you request us not to use personal information in a particular manner or at a
 
 **INTERNATIONAL TRANSFER OF INFORMATION**
 
-Because our server and information processing equipment is located in the United States of America, the information collected from you will be stored there. By voluntarily providing information to us when using the Site, you are consenting to the collection and use of your personal information by us, including the transfer to another jurisdiction other than Canada.
+Because our server and information processing equipment is located in the Germany, the information collected from you will be stored there. By voluntarily providing information to us when using the Site, you are consenting to the collection and use of your personal information by us, including the transfer to another jurisdiction.
 
 **FURTHER INFORMATION**
 
-For further information about OXYLUSFlash's privacy policy, please e-mail us at [legal@OXYLUSFlash.com](mailto:legal@OXYLUSFlash.com)
+For further information about OXYLUS Flash's privacy policy, please e-mail us at [legal@oxylusflash.com](mailto:legal@OXYLUSFlash.com)
