@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lendingclub.com privacy policy that was archived on 2011-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111026025320id_/http%3A//www.lendingclub.com/public/privacy-policy.action) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lendingclub.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510132411id_/http%3A//www.lendingclub.com/public/privacy-policy.action) for the most accurate reproduction.*
 
 # Privacy Policy - Lending Club
 
 [](http://www.truste.org/ivalidate.php?url=www.lendingclub.com&sealid=101) Lending Club is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site [www.lendingclub.com](https://www.lendingclub.com/). Because we want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact Lending Club at [privacy@lendingclub.com](mailto:privacy@lendingclub.com) or at the mailing address at the end of this statement. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact Lending Club at [privacy@lendingclub.com](mailto:privacy@lendingclub.com) or at the mailing address at the end of this statement. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url=http://www.lendingclub.com](http://watchdog.truste.com/pvr.php?page=complaint&url=http://www.lendingclub.com). TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 Your privacy and the protection of your sensitive personal information are important to us. Because we collect and/or store certain types of information from and about you, it is necessary to explain our policy and the terms and conditions surrounding the capture and use of that information. 
 
@@ -77,7 +77,7 @@ Our users can also refer friends to the site by completing a simple form to gene
 
 ### Communications From Our Site
 
-When you register on our site you will receive emails that confirm specific actions you requested. You will receive notifications confirming your registration, the successful verification of email addresses and bank accounts, and confirmation of successful submissions of loan requests and portfolios. You will also receive progress updates on the status of loan requests and submitted portfolios. These are transactional notifications that you cannot opt out of receiving, as they are in place to protect the security of your account and your personal information. We will also send you responses to any emails you send us. From time to time, we will also send user surveys and requests for user feedback regarding user experience and site operations. The completion of these surveys or requests for feedback is strictly voluntary. If you do not wish to receive these surveys or user feedback emails, you may opt out by writing to [contact@lendingclub.com](mailto:contact@lendingclub.com).
+When you register on our site you will receive emails that confirm specific actions you requested. You will receive notifications confirming your registration, the successful verification of email addresses and bank accounts, and confirmation of successful submissions of loan requests and portfolios. You will also receive progress updates on the status of loan requests and submitted portfolios. These are transactional notifications that you cannot opt out of receiving, as they are in place to protect the security of your account and your personal information. We may also send you responses to emails you send us,if appropriate or applicable. From time to time, we will also send user surveys, requests for user feedback regarding user experience and site operations or marketing offers from us or from us on behalf of our marketing partners. The completion of these surveys or requests for feedback or acceptance of any offer is strictly voluntary. If you do not wish to receive these offers, surveys or user feedback emails, please opt out in any offer email you receive from us.
 
 ### How and When Your Information Is Shared With Other Parties
 
@@ -215,7 +215,7 @@ Attn: Compliance Department
 San Francisco, CA 94105  
 
 
-Last updated: December 29, 2010
+Last updated: December 16, 2011
 
 ### Exhibit A
 
