@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wzronline.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101152326id_/http%3A//www.wzronline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wzronline.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510094745id_/http%3A//www.wzronline.com/privacy-policy) for the most accurate reproduction.*
 
 # WWE News and Wrestling News – Privacy
 
@@ -32,4 +32,4 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 This site gives users the following options for changing and modifying information previously provided: You can send email to WZR Online staff.
 
 **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact the WZR Online staff. 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact the WZR Online staff.
