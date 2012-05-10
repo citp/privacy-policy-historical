@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viagogo.co.uk privacy policy that was archived on 2011-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110821114601id_/http%3A//www.viagogo.co.uk/help.aspx%3Fhelpgroupid%3D98) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viagogo.co.uk privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510192202id_/http%3A//www.viagogo.co.uk/help.aspx%3Fhelpgroupid%3D98) for the most accurate reproduction.*
 
 # 
 
@@ -46,7 +46,7 @@ Most web browsers automatically accept cookies but it is possible to change the 
 
 Opting Out
 
-As a viagogo customer, you may opt in at any time to occasionally receive updates from us about ticket sales in your area, special offers, new viagogo services, and other items that may be of interest to you. Where previous indication of consent has been provided, it is possible for you to opt out at any time, in order to no longer receive these types of email messages through your account settings. This feature is accessible on the viagogo home page. 
+As a viagogo customer, you may opt in at any time to occasionally receive updates from us about ticket sales in your area, special offers, new viagogo services, and other items that may be of interest to you via email, text messages, phone or post. Where previous indication of consent has been provided, it is possible for you to opt out at any time, in order to no longer receive these types of messages either through an opt out feature in the message or through your account settings. Your account settings are accessible on the viagogo home page. 
 
 If you opt in, viagogo's partners may sell, rent or trade personal information (excluding credit or bank card details) to certain third parties. If you do not wish viagogo's partners to pass on these details, please do not opt in, or if you have already opted in, use the opt out procedure as described in above paragraph. 
 
@@ -82,7 +82,7 @@ You can always submit concerns regarding our Privacy Policy or our privacy pract
 
 **viagogo**  
 Attn: Privacy Team  
-Morley House, 1st Floor, 26 Holborn Viaduct, London, EC1A 2AT 
+viagogo, Rue de Jargonnant 2, 1207 Geneva, CH 
 
 Thank you for using viagogo! 
 
