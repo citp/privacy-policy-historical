@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatthetech.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108181806id_/http%3A//www.whatthetech.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatthetech.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510093433id_/http%3A//www.whatthetech.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | What the Tech
 
