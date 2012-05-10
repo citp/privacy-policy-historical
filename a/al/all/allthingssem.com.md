@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the allthingssem.com privacy policy that was archived on 2011-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110809063818id_/http%3A//www.allthingssem.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allthingssem.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510161251id_/http%3A//infolific.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Infolific
 
-**All Things SEM Blog** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
+**Infolific** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
 ## Routine Information Collection
 
@@ -10,7 +10,7 @@ All web servers track basic information about their visitors. This information i
 
 ## Cookies and Web Beacons
 
-Where necessary, All Things SEM Blog uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+Where necessary, Infolific uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
 Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
 
@@ -20,4 +20,8 @@ Note that you can change your browser settings to disable cookies if you have pr
 
 ## Contact Information
 
-Concerns or questions about this privacy policy can be directed to blog [at] allthingssem [dot] com for further clarification.
+Concerns or questions about this privacy policy can be directed to admin [at] infolific [dot] com for further clarification.
+
+What did you think of this article?
+
+Rating: 0.0/ **5** (0 votes cast)
