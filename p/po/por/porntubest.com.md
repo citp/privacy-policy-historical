@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the porntubest.com privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014123113id_/http%3A//www.porntubest.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porntubest.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510181845id_/http%3A//www.porntubest.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy on Porn Tube ST
 
@@ -46,4 +46,4 @@ You use porntubest at your own risk, however we do everything in our power to ma
 
 ## Contact
 
-You make contact porntubest using **[Contact Page](https://web.archive.org/web/20111014123113id_/http%3A//www.porntubest.com/contact.php "Contact Page")**
+You make contact porntubest using **[Contact Page](https://web.archive.org/web/20120510181845id_/http%3A//www.porntubest.com/contact.php "Contact Page")**
