@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nobledrugstore.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201235649id_/http%3A//www.nobledrugstore.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nobledrugstore.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510070800id_/http%3A//www.nobledrugstore.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy and Security Policy – Nobledrugstore.com
 
@@ -21,7 +21,7 @@ Noble Drug Store does not rent, sell, or give away your personally identifiable 
 
 Noble Drug Store respects the confidentiality of your personal information. There are circumstances in which we may disclose to third parties information we have about you in order to conduct our business, including processing a prescription transaction that you request or authorize. We will make these disclosures only when they are permitted or required by law. These disclosures may include providing information in response to a request by regulatory or governmental authorities, other administrators, auditors, or consultants. We may also provide the pharmacy or doctor with access to your personal information that is needed to administer your business and provide service to you. They may also use this information to advise you of additional products and services offered through their company.  
 We do not rent, sell, or disclose any of your personal information, regardless of whether you are a current or former customer. Should your relationship with Noble Drug Store end, we will continue to limit disclosures of your personal information in accordance with our stated privacy policy and practices just as we do for those who maintain a continuing relationship with us.  
-We welcome your inquiries. Please email us at [admin@nobledrugstore.com](mailto:admin@nobledrugstore.com)
+We welcome your inquiries. Please email us at [noreply@nobledrugstore.com](mailto:noreply@nobledrugstore.com)
 
   
 
