@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the goldenpalace.com privacy policy that was archived on 2011-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111204194755id_/http%3A//www.goldenpalace.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the goldenpalace.com privacy policy that was archived on 2012-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120510063325id_/http%3A//www.goldenpalace.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head><script language="JavaScript">
 		function setCookie(name,value,days) { if (days) { var date = new Date(); date.setTime(date.getTime()+(days*24*60*60*1000)); var expires = "; expires="+date.toGMTString(); } else var expires = ""; document.cookie = name+"="+value+expires+"; path=/"; }
@@ -19,15 +19,11 @@
 	<link rel="icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
 	<link rel="stylesheet" href="/style_v4.php?sec=&amp;langPrefix=" type="text/css">
 	<link rel="stylesheet" href="/global/_v3/js/nivo-slider.css" type="text/css" media="screen">
-	<script type="text/javascript" src="/common.js"></script>
-	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
-	<script type="text/javascript" src="/global/_v3/js/jquery.tools.min.js"></script>
-			<script type="text/javascript" src="/global/_v3/js/cufon-yui.js"></script><style type="text/css">cufon{text-indent:0!important;}@media screen,projection{cufon{display:inline!important;display:inline-block!important;position:relative!important;vertical-align:middle!important;font-size:1px!important;line-height:1px!important;}cufon cufontext{display:-moz-inline-box!important;display:inline-block!important;width:0!important;height:0!important;overflow:hidden!important;text-indent:-10000in!important;}cufon canvas{position:relative!important;}}@media print{cufon{padding:0!important;}cufon canvas{display:none!important;}}</style>
-	<script type="text/javascript" src="/js-v4/GPwebfont_400_minimal.font.js"></script>
-			<script type="text/javascript" src="/js-v4/gp_v4.js"></script>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	<script type="text/javascript" src="/js-v4/js.php?sec=&amp;langPrefix="></script>
 	<script type="text/javascript">
-	var jackpotTotal = 5405710.44;
-	var jackpotStep = 2.17;
+	var jackpotTotal = 5135417.12;
+	var jackpotStep = 1.77;
 	<!--
 // cookie functions
 function setCookie(name, value, days, path, domain, secure) {
@@ -122,9 +118,9 @@ function redirToDownloadHelpPage(){
 function recordLinkClick(linkDest,clickedLink){
 	delete myPic;
 	var myPic = new Image();
-	myPic.src = '/global/tx/pixel.php?action=click&site=1&member=&profile=&item='+escape(clickedLink)+'&dest='+escape(linkDest)+'&r='+Math.random();
+	myPic.src = '/global/tx/pixel.php?action=click&site=1&member=Poksoft232&profile=affgp&item='+escape(clickedLink)+'&dest='+escape(linkDest)+'&r='+Math.random();
 	
-	//var dest = '/global/tx/pixel.php?action=click&site=1&member=&profile=&item='+escape(clickedLink)+'&dest='+escape(linkDest)+'&r='+Math.random();
+	//var dest = '/global/tx/pixel.php?action=click&site=1&member=Poksoft232&profile=affgp&item='+escape(clickedLink)+'&dest='+escape(linkDest)+'&r='+Math.random();
 	//try{ xmlhttp = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject("Microsoft.XMLHTTP"); }
 	//catch (e){ /* do nothing */ }
 	////xmlhttp.onreadystatechange = triggered;
@@ -150,13 +146,41 @@ function popFlashGames(){
 	return;
 }
 
+
+//------[ begin jackpot ticker ]------//
+function updateJackpotTicker(initialize) {
+	if (!initialize) {
+		jackpotTotal = Math.round( (jackpotTotal + jackpotStep) * 100) / 100;
+	}		
+	//var ticker = jackpotTotal.toFixed(2);
+	if(jackpotTotal>9999999){
+		ticker = number_format(jackpotTotal, 0, "p", "c");
+	}else{
+		ticker = number_format(jackpotTotal, 2, "p", "c");
+	}
+	for (i = 0; i < ticker.length; i++) {
+		var ch = ticker.charAt(i);
+					$('#jackpot_ticker #jackpot_digit'+i).attr('src', '/images-v4/jackpotTicker-'+ch+'.gif');
+			}
+}
+    
+function number_format( number, decimals, dec_point, thousands_sep ) {
+    var n = number, c = isNaN(decimals = Math.abs(decimals)) ? 2 : decimals;
+    var d = dec_point == undefined ? "," : dec_point;
+    var t = thousands_sep == undefined ? "." : thousands_sep, s = n < 0 ? "-" : "";
+    var i = parseInt(n = Math.abs(+n || 0).toFixed(c)) + "", j = (j = i.length) > 3 ? j % 3 : 0;     
+    return s + (j ? i.substr(0, j) + t : "") + i.substr(j).replace(/(\d{3})(?=\d)/g, "$1" + t) + (c ? d + Math.abs(n - i).toFixed(c).slice(2) : "");
+}
+//------[ end jackpot ticker ]------//  
+
+
 //-->	</script>
 	<!--[if lt IE 7]>
 	<script type="text/javascript">
 	var disableSlider = true;
 	</script>
 	<![endif]-->
-	<!--[if lte IE 8]>
+	<!--[if lte IE 7]>
 	<script type="text/javascript" src="/global/_v3/js/DD_belatedPNG_0.0.8a-min.js"></script>
 	<script type="text/javascript">
 		var disableProblemAnim = true;
@@ -178,17 +202,144 @@ function popFlashGames(){
 		});
 		</script>
 	<![endif]-->
+	<!--[if IE 8]>
+	<script type="text/javascript">
+		var disableProblemAnim = true;
+	</script>
+	<![endif]-->
 <script type="text/javascript" charset="iso-8859-1" src="http://server.iad.liveperson.net/hcp/html/mTag.js?site=31612713"></script></head>
 <body id="sec_">
 	
-		<div id="exitNetLeft" style="position:absolute; top:0px; left:0px; width:50px; height:50px; z-index:98; text-align: center;"><a href="#" style="cursor:default;"><img src="/images/spacer.gif" width="50" height="50" border="0" alt="" onmouseover="showDHTMLExitPop();"></a></div>
-	<div id="exitNetRight" style="position:absolute; top:0px; right:0px; width:50px; height:50px; z-index:98; text-align: center;"><a href="#" style="cursor:default;"><img src="/images/spacer.gif" width="50" height="50" border="0" alt="" onmouseover="showDHTMLExitPop();"></a></div>
-	<div id="exitNetCenter" style="position:absolute; top:0px; left:50px; right:50px; height:10px; z-index:98; text-align: center; overflow: hidden;"><a href="#" style="cursor:default;"><img src="/images/spacer.gif" width="700" height="10" border="0" alt="" onmouseover="showDHTMLExitPop();"></a></div>
-	<div id="dhtmlExitOverlay" style="position:absolute; top:0px; left:0px; right:0px; height:500px; z-index:99; display: none; background-color:#000000; filter:alpha(opacity=80);-moz-opacity:.80;opacity:.80;"></div>
-	<div id="dhtmlExit" style="position:absolute; top:0px; left:0px; z-index:100; display: none;"><a href="javascript:hideDHTMLExitPop();"><img src="http://goldenpalaceaffiliates.com/partnerExitRotation/exit-images/x.gif" alt="" border="0" style="display:block;"></a> <a id="tiExitAnchor" href="#"></a></div>
-	<script type="text/javascript" src="http://goldenpalaceaffiliates.com/partnerExitRotation/js.php?cs=gp&amp;lang=&amp;m="></script>
+
+<div id="exitNetLeft" style="position:absolute; top:0px; left:0px; width:50px; height:50px; z-index:98; text-align: center;"><a href="#" style="cursor:default;"><img src="/global/exitV2/images/spacer.gif" width="50" height="50" border="0" alt="" onmouseover="showDHTMLExitPop();"></a></div>
+<div id="exitNetRight" style="position:absolute; top:0px; right:0px; width:50px; height:50px; z-index:98; text-align: center;"><a href="#" style="cursor:default;"><img src="/global/exitV2/images/spacer.gif" width="50" height="50" border="0" alt="" onmouseover="showDHTMLExitPop();"></a></div>
+<div id="exitNetCenter" style="position: absolute; top: 0px; left: 0px; right: 50px; height: 10px; z-index: 98; text-align: center; overflow: hidden;"><a href="#" style="cursor:default;"><img src="/global/exitV2/images/spacer.gif" width="700" height="10" border="0" alt="" onmouseover="showDHTMLExitPop();"></a></div>
+<div id="dhtmlExitOverlay" style="position:absolute; top:0px; left:0px; right:0px; height:500px; z-index:99; display: none; background-color:#000; filter:alpha(opacity=90);-moz-opacity:.90;opacity:.90;"></div>
+<div id="dhtmlExit" style="position:absolute; top:0px; left:0px; z-index:100; display: none;"><a href="javascript:hideDHTMLExitPop();"><img src="/global/exitV2/images/x.gif" alt="" border="0" style="display: block;"></a><a href="http://banner.grandonline.com/cgi-bin/redir.cgi?member=Poksoft232&amp;profile=affgp" target="_blank"><img src="/global/exitV2/images/go_210x430_001.gif" alt="" width="210" height="430" border="0"></a><a href="http://banner.onlinecasinocentral.com/cgi-bin/redir.cgi?member=Poksoft232&amp;profile=affgp" target="_blank"><img src="/global/exitV2/images/oc_210x430_001.gif" alt="" width="210" height="430" border="0"></a><a href="http://banner.24ktgoldcasino.com/cgi-bin/redir.cgi?member=Poksoft232&amp;profile=affgp" target="_blank"><img src="/global/exitV2/images/gn_210x430_001.gif" alt="" width="210" height="430" border="0"></a><a href="http://banner.flamingoclub.com/cgi-bin/redir.cgi?member=Poksoft232&amp;profile=affgp" target="_blank"><img src="/global/exitV2/images/fc_210x430_001.gif" alt="" width="210" height="430" border="0"></a></div>
+
+<script type="text/javascript">
+
+var doExit = false;
+
+function getBodySize(){
+	if (document.body.scrollHeight>document.body.offsetHeight) return {x:document.body.scrollWidth,y:document.body.scrollHeight}; // all but Explorer Mac
+	return {x:document.body.offsetWidth,y:document.body.offsetHeight}; // Explorer Mac;
+}
+
+function getPageScroll(){
+	var offsetX=0, offsetY=0;
+	if(!window.pageYOffset){
+		if(!(document.documentElement.scrollTop == 0)){
+			offsetY = document.documentElement.scrollTop;
+			offsetX = document.documentElement.scrollLeft;
+		}else{
+			offsetY = document.body.scrollTop;
+			offsetX = document.body.scrollLeft;
+		}
+	}else{
+		offsetX = window.pageXOffset;
+		offsetY = window.pageYOffset;
+	}
+	return {x:offsetX,y:offsetY};
+}
+
+function getWindowSize() {
+	var myWidth=0, myHeight=0;
+	if(typeof(window.innerWidth) == 'number'){
+		myWidth = window.innerWidth;
+		myHeight = window.innerHeight;
+	} else if(document.documentElement && (document.documentElement.clientWidth || document.documentElement.clientHeight)){
+		myWidth = document.documentElement.clientWidth;
+		myHeight = document.documentElement.clientHeight;
+	} else if(document.body && (document.body.clientWidth || document.body.clientHeight)){
+		myWidth = document.body.clientWidth;
+		myHeight = document.body.clientHeight;
+	}
+	return {x:myWidth,y:myHeight};
+}
+
+function showDHTMLExitPop(){
+		if (doExit==true){
+		var objExitOverlay = document.getElementById('dhtmlExitOverlay');
+		var objExit = document.getElementById('dhtmlExit');
+
+		if ((getCookie('tx_unique_flash') != 1) && (getCookie('tx_unique_dl') != 1) && (getCookie('tx_unique_dhtmlexit') != 1)){
+			// no flash click, download click, and previous dhtml exit pop - don't but our customers :)
+			setCookie('tx_unique_dhtmlexit','1',1);
+			var winSize = getWindowSize();
+			var pageScroll = getPageScroll();
+			var bodySize = getBodySize();
+			var totalPageHeight = bodySize.y;
+			if (winSize.y > totalPageHeight) totalPageHeight = winSize.y;
+			if (pageScroll.y > 0) totalPageHeight = totalPageHeight + pageScroll.y;
+			objExitOverlay.style.height = totalPageHeight+'px';
+			objExitOverlay.style.display = '';
+			objExit.style.display = '';
+			objExit.style.top = (winSize.y / 2) - (objExit.offsetHeight / 2) + pageScroll.y +'px';
+			objExit.style.left = (winSize.x / 2) - (objExit.offsetWidth / 2)+'px';
+		}
+	}
+}
+
+function hideDHTMLExitPop(){
+	document.getElementById('dhtmlExitOverlay').style.display = 'none';
+	document.getElementById('dhtmlExit').style.display = 'none';
+}
+
+function updateExitNets(){
+	if (document.getElementById('exitNetLeft') && document.getElementById('exitNetRight') && document.getElementById('exitNetCenter')){
+		var pageScroll = getPageScroll();
+		var winSize = getWindowSize();
 		
+		var objNetLeft = document.getElementById('exitNetLeft');
+		var objNetRight = document.getElementById('exitNetRight');
+		var objNetCenter = document.getElementById('exitNetCenter');
+		
+		objNetLeft.style.left = '0px';
+		objNetLeft.style.top = pageScroll.y +'px';
+		objNetRight.style.right = '0px';
+		objNetRight.style.top = pageScroll.y +'px';
+		objNetCenter.style.left = '0px';
+		objNetCenter.style.top = pageScroll.y +'px';
+	}
+	setTimeout(updateExitNets,100);
+}
+
+function setCookie(name, value, days, path, domain, secure) {
+	if (days) {
+		var date = new Date();
+		date.setTime(date.getTime()+(days*24*60*60*1000));
+		var expires = "; expires="+date.toGMTString();
+	}
+	else var expires = "";
 	
+	var curCookie = name + "=" + escape(value) + expires +
+		((path) ? "; path=" + path : "") +
+		((domain) ? "; domain=" + domain : "") +
+		((secure) ? "; secure" : "");
+	document.cookie = curCookie;
+}
+
+function getCookie(name) {
+	var nameEQ = name + "=";
+	var ca = document.cookie.split(';');
+	for (var i=0;i < ca.length;i++){
+		var c = ca[i];
+		while (c.charAt(0)==' ') c = c.substring(1,c.length);
+		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	}
+	return null;
+}
+
+function allowExit(){
+	
+	doExit = true;	
+}
+
+setTimeout("allowExit()",10000);
+updateExitNets();
+
+</script>	
 	<div id="wrapper">
 		
 		<div id="nav">
@@ -199,8 +350,7 @@ function popFlashGames(){
 			<a id="nav_preview" href="/preview.php">Preview</a>
 			<a id="nav_faq" href="/support_faq.php">FAQ</a>
 			<a id="nav_contact" href="/support.php">24hr Support</a>
-			<a id="nav_playpoker" href="http://www.goldenpalacepoker.com/">Play Poker</a>
-			<span id="nav_buffer"></span>
+						<span id="nav_buffer"></span>
 			<a id="nav_currency" href="/cashier.php">€ £ $ A$ R</a>
 		</div> <!-- /#nav -->
 
@@ -226,7 +376,7 @@ function popFlashGames(){
 				<div id="welcome_bonus">
 					<a href="/playnow.php"><img src="/images-v4/welcomebonus.png" width="261" height="115" class="png" alt=""></a>
 					<ul id="welcome_bonus_currency">
-						<li><a href="&lt;? print $strBaseHref; ?&gt;playnow.php"><img src="/images-v4/welcomebonus_currency_gbp.png" width="62" height="73" class="png" alt=""></a></li><li><a href="&lt;? print $strBaseHref; ?&gt;playnow.php"><img src="/images-v4/welcomebonus_currency_euro.png" width="62" height="73" class="png" alt=""></a></li><li><a href="&lt;? print $strBaseHref; ?&gt;playnow.php"><img src="/images-v4/welcomebonus_currency_usd.png" width="62" height="73" class="png" alt=""></a></li>					</ul>
+						<li><a href="/playnow.php"><img src="/images-v4/welcomebonus_currency_gbp.png" width="62" height="73" class="png" alt=""></a></li><li><a href="/playnow.php"><img src="/images-v4/welcomebonus_currency_euro.png" width="62" height="73" class="png" alt=""></a></li><li><a href="/playnow.php"><img src="/images-v4/welcomebonus_currency_usd.png" width="62" height="73" class="png" alt=""></a></li>					</ul>
 				</div> <!-- /#welcome_bonus -->
 				
 								<div id="button_download_inside" class="fancybutton">
@@ -257,7 +407,7 @@ function popFlashGames(){
 								<li><a href="/preview.php"><img src="/images-v4/feature_livedealers_hover.jpg" width="225" height="96" class="hover" alt=""><img src="/images-v4/feature_livedealers.jpg" width="225" height="96" class="blur" alt=""></a></li>
 								<li><a href="/preview.php"><img src="/images-v4/feature_hottestgames_hover.jpg" width="225" height="96" class="hover" alt=""><img src="/images-v4/feature_hottestgames.jpg" width="225" height="96" class="blur" alt=""></a></li>
 								<li><!-- BEGIN LivePerson Button Code --><a id="_lpChatBtn" href="http://server.iad.liveperson.net/hc/31612713/?cmd=file&amp;file=visitorWantsToChat&amp;site=31612713&amp;byhref=1&amp;SESSIONVAR!skill=website&amp;imageUrl=http://server.iad.liveperson.net" target="chat31612713" onclick="javascript:window.open('http://server.iad.liveperson.net/hc/31612713/?cmd=file&amp;file=visitorWantsToChat&amp;site=31612713&amp;SESSIONVAR!skill=website&amp;imageUrl=http://server.iad.liveperson.net&amp;referrer='+escape(document.location),'chat31612713','width=475,height=400,resizable=yes');return false;"><img src="/images-v4/feature_accessibility_hover.jpg" width="225" height="96" class="hover" alt=""><img src="/images-v4/feature_accessibility.jpg" width="225" height="96" class="blur" alt=""></a><!-- END LivePerson Button code --></li>
-								<li><a href="/contest_cruise.php"><img src="/images-v4/feature_events_hover.jpg" width="225" height="96" class="hover" alt=""><img src="/images-v4/feature_events.jpg" width="225" height="96" class="blur" alt=""></a></li>
+								<li><a href="/promo_annanicole.php"><img src="/images-v4/feature_events_hover.jpg" width="225" height="96" class="hover" alt=""><img src="/images-v4/feature_events.jpg" width="225" height="96" class="blur" alt=""></a></li>
 							</ul>
 						</div>
 					</div>
@@ -330,13 +480,13 @@ function popFlashGames(){
 						<img src="/images-v4/hr_footer.gif" width="925" height="3" class="hr" alt="">	<br>		
 			<a href="/blackjack/">Blackjack</a> | <a href="/craps/">Craps</a> | <a href="/slots/">Slots</a> | <a href="/roulette/">Roulette</a> | <a href="/baccarat/">Baccarat</a> | <a href="/sic-bo/">Sic-Bo</a> | <a href="/pai_gow/">Pai Gow</a> | <a href="/keno/">Keno</a> | <a href="/red_dog/">Red Dog Poker</a> | <a href="/video_poker/">Video Poker</a> | <a href="/caribbean-poker/">Caribbean Poker</a>						
 			<img src="/images-v4/hr_footer.gif" width="925" height="3" class="hr" alt=""><br>		
-			<span class="copyright">Copyright © 2011 Golden Palace Casino  ™ , remember to join our <a class="copyright" href="http://adv.goldenpalaceaffiliates.com/index.php?" target="_blank" rel="nofollow">Casino Affiliate Program</a>! Read our <a class="copyright" href="/privacy.php" rel="nofollow">Privacy Statement</a>.</span> <a href="/about.php">About Us</a>.<br><span class="copyright"><a href="javascript:MM_openBrWindow('/terms.php','','scrollbars=yes,resizable=yes,width=500,height=420');">Terms of Use</a></span>
+			<span class="copyright">Copyright © 2012 Golden Palace Casino  ™ , remember to join our <a class="copyright" href="http://adv.goldenpalaceaffiliates.com/index.php?Poksoft232" target="_blank" rel="nofollow">Casino Affiliate Program</a>! Read our <a class="copyright" href="/privacy.php" rel="nofollow">Privacy Statement</a>.</span> <a href="/about.php">About Us</a>.<br><span class="copyright"><a href="javascript:MM_openBrWindow('/terms.php','','scrollbars=yes,resizable=yes,width=500,height=420');">Terms of Use</a></span>
 <script language="javascript">
 <!--
-document.write('<img width=1 height=1 border=0 hspace=0 '+'vspace=0 src="/global/tx/pixel.php?site=1&lang=&action=page&ref=' + escape(document.referrer) + '">');
+document.write('<img width=1 height=1 border=0 hspace=0 '+'vspace=0 src="/global/tx/pixel.php?site=1&lang=&member=Poksoft232&action=page&ref=' + escape(document.referrer) + '">');
 //-->
-</script><img width="1" height="1" border="0" hspace="0" vspace="0" src="/global/tx/pixel.php?site=1&amp;lang=&amp;action=page&amp;ref=">
-<noscript><img width=1 height=1 border=0 hspace=0 vspace=0 src="/global/tx/pixel.php?site=1&lang=&action=page"></noscript>
+</script><img width="1" height="1" border="0" hspace="0" vspace="0" src="/global/tx/pixel.php?site=1&amp;lang=&amp;member=Poksoft232&amp;action=page&amp;ref=">
+<noscript><img width=1 height=1 border=0 hspace=0 vspace=0 src="/global/tx/pixel.php?site=1&lang=&member=Poksoft232&action=page"></noscript>
 
 		</div> <!-- /#footer -->
 		
