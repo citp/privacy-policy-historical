@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appmobi.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526233530id_/http%3A//mkt.appmobi.com/index.php%3Fq%3Dnode/56) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appmobi.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510074910id_/http%3A//mkt.appmobi.com/%3Fq%3Dnode/56) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,6 +13,7 @@
 
  **General**
 
+  *  **appMobi never stores sensitive financial information** , such as credit card information on its servers. When you give appMobi your credit card information in order to purchase a product or service, we never store that information after the transaction has been processed. 
   * appMobi collects personal information when you register with appMobi, when you use appMobi products or services, when you visit appMobi pages or the pages of certain appMobi partners, and when you enter promotions or sweepstakes. appMobi may combine information about you that we have with information we obtain from business partners or other companies.
   * When you register, we ask for information such as your name, email address, birth date, gender, zip code, occupation, industry, and personal interests. For some financial products and services we may also ask for your address, Social Security number, and information about your assets. Once you register with appMobi and sign in to our services, you are not anonymous to us.
   * appMobi collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer.
