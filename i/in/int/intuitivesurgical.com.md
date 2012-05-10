@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intuitivesurgical.com privacy policy that was archived on 2011-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111015070655id_/http%3A//www.intuitivesurgical.com/company/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intuitivesurgical.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510091643id_/http%3A//www.intuitivesurgical.com/company/legal/privacy.html) for the most accurate reproduction.*
 
 # Intuitive Surgical - Privacy
 
@@ -16,7 +16,7 @@ As part of offering and improving our services, we may use "cookies" to store an
 
 ## Third-Party Web Beacons
 
-We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://ondemand.indextools.com/optout,OptOut.vm?domain=stats.indextools.com).
+We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html).
 
 ## Disclosure
 
