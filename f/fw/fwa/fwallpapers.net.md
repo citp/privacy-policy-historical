@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fwallpapers.net privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011155829id_/http%3A//www.fwallpaper.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fwallpapers.net privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510072222id_/http%3A//www.fwallpaper.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Free Wallpapers | desktop wallpapers | HD wallpapers | Nice wallpapers
 
