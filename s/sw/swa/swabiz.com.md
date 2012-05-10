@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swabiz.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103100427id_/http%3A//www.swabiz.com/travel_center/privacy_policy.html%3Fint%3DSWABIZ_POLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swabiz.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510140905id_/http%3A//www.swabiz.com/travel_center/privacy_policy.html%3Fint%3DSWABIZ_POLICY) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -65,7 +65,10 @@ A cookie is a small text file that is stored on a user's computer for record-kee
 
 We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our web sites. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file.
 
-We set a persistent cookie to store your account number, so you don't have to enter it each time you want to log-in to your Rapid Rewards, Southwest or SWABIZ® account. Persistent cookies also enable us to track and target the interests of our users to enhance their experience on our site as well as provide more relevant content in our e-mails. Southwest Airlines has agreed to allow a select group of marketing platforms to place persistent cookies in our web sites, Southwest Airlines emails and Rapid Rewards emails. In addition to use on our web sites, these cookies may be used for targeted online advertising by third party merchants on third party websites. These cookies do not enable a marketing platform to collect personally identifiable information. To opt-out from our marketing platform’s persistent cookies click here (please note that if you delete your cookies or switch to a different browser you will have to repeat this procedure). Use of the cookies by the marketing platforms is subject to their privacy policies.
+We set a persistent cookie to store your account number, so you don't have to enter it each time you want to log-in to your Rapid Rewards, Southwest or SWABIZ® account. Persistent cookies also enable us to track and target the interests of our users to enhance their experience on our site as well as provide more relevant content in our e-mails. Southwest Airlines has agreed to allow a select group of marketing platforms to place persistent cookies in our web sites, Southwest Airlines emails and Rapid Rewards emails. In addition to use on our web sites, these cookies may be used for targeted online advertising by third party merchants on third party websites. These cookies do not enable a marketing platform to collect personally identifiable information.
+
+**Opt-out  
+** If you would like to opt-out from our marketing platform’s persistent cookies, you can do so by clicking here. (please note that if you delete your cookies or switch to a different browser you will have to repeat this procedure). Use of the cookies by the marketing platforms is subject to their privacy policies.
 
 If you reject cookies, you may still use our site, but your ability to use some areas of our site will be limited and we will not be able to provide you with the most convenient experience.
 
