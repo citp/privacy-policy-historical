@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the photos.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231170438id_/http%3A//www.photos.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photos.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510141122id_/http%3A//www.photos.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Photos.com Royalty-Free Subscription Stock Photos
+# Photos.com - Privacy Policy | Photos.com Royalty-Free Subscription Stock Photos
 
 Last updated: September 2009
 
