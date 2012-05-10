@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ht.com.au privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012042344id_/http%3A//www.ht.com.au/itype/purchasing/article/security_and_privacy/information_detail.hts) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ht.com.au privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510162123id_/http%3A//www.ht.com.au/itype/purchasing/article/security_and_privacy/information_detail.hts) for the most accurate reproduction.*
 
 # Security &amp; Privacy Policy | Purchasing Information | ht.com.au
 
-Read about our commitment to ensuring the privacy of your information. If you can't find the information you need, please use the [Make an Enquiry](http://www.ht.com.au/itype/contact/article/make_an_enquiry/information_detail.hts) page or phone **1300 13 9999** and get help from a Customer Service representative. 
+Read about our commitment to ensuring the privacy of your information. If you can't find the information you need, please use the [Make an Enquiry](http://www.ht.com.au/form/enquiry/forms.hts) page or phone **1300 13 9999** and get help from a Customer Service representative. 
 
 Harris Technology is a Coles Group Limited business. Coles Group Limited businesses highly value the strong relationships we have with our customers. Often these relationships have been built up over many decades and with generations of the same family. The gradual introduction of data collection technology at Coles Group Limited will be handled with full and proper respect for the privacy of our customers.
 
