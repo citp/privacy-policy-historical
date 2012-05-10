@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the computervalley.ca privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219053402id_/http%3A//www.computervalley.ca/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computervalley.ca privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510052930id_/http%3A//www.computervalley.ca/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Notice : Online Computer Store
+# Privacy Policy : ComputerValley.ca
 
 **Our Privacy Commitment**  
 At ComputerValley.ca we know how important it is to protect your personal information. When you are shopping with us online we want to make every customer experience safe and secure. In keeping with that goal, we have developed this Privacy Policy to explain our practices for the collection, use, and disclosure of your personal information.
@@ -13,9 +13,9 @@ _At ComputerValley.ca, we collect two types of information: personal information
 Personal information 
 
   * Personal information is information that can identify an individual or information about an identifiable individual. We may collect personal information such as:
-    * your contact information – e.g., name, postal address, telephone number, and email address;
-    * your personal preferences – e.g., product wish lists, language preferences, and marketing consent; and
-    * your transaction information – e.g., products purchased, method of payment, amount paid, and credit or debit card number.
+    * your contact information � e.g., name, postal address, telephone number, and email address;
+    * your personal preferences � e.g., product wish lists, language preferences, and marketing consent; and
+    * your transaction information � e.g., products purchased, method of payment, amount paid, and credit or debit card number.
 
 
 
@@ -29,7 +29,7 @@ Non-personal information
 
 
   
-All references to “Web Sites” in this Privacy Policy mean www.computervalley.ca or other ComputerValley.ca provided Web sites.
+All references to �Web Sites� in this Privacy Policy mean www.computervalley.ca or other ComputerValley.ca provided Web sites.
 
 You may choose not to provide us with your personal information. However, if you make this choice we may not be able to provide you with the product, service, or information that you requested. For example, we can only offer you a ComputerValley.ca credit card if you have provided us with certain financial information. 
 
@@ -59,7 +59,7 @@ Express Consent
 
 Implied Consent 
 
-  * Other times, we may obtain your consent implicitly when we can reasonably conclude that you’ve given consent by some action you have taken or an action you have decided not to take. Generally, this occurs where the purpose for use of your personal information would be reasonably apparent to you.
+  * Other times, we may obtain your consent implicitly when we can reasonably conclude that you�ve given consent by some action you have taken or an action you have decided not to take. Generally, this occurs where the purpose for use of your personal information would be reasonably apparent to you.
 
 
 
@@ -86,16 +86,16 @@ Following a purchase from some of our departments we may send you a follow-up le
 Our Web Sites can be browsed anonymously. However, to engage in certain special features or functions of our Web Sites, or to order products and services from our Web Sites, you may be asked to provide certain personal information, such as your name, email address, postal address, telephone number, or credit card information. We use this information to create your account, contact and correspond with you about your order, respond to your inquiries, and monitor functions of our Web Sites that you choose to use, such as online forums.
 
  **Online Forums and Customer Reviews**  
-Certain pages of our Web Sites, such as “Community Forum”, facilitate interactive discussions between users and ComputerValley.ca staff or agents acting on our behalf regarding products and services available for purchase through the Web Sites. The Customer Review functionality is provided as a rating system that offers you the chance to share your thoughts on a product. These public forums and reviews are accessible to all Web Site visitors so please use discretion when posting information to them and do not post personal information.
+Certain pages of our Web Sites, such as �Community Forum�, facilitate interactive discussions between users and ComputerValley.ca staff or agents acting on our behalf regarding products and services available for purchase through the Web Sites. The Customer Review functionality is provided as a rating system that offers you the chance to share your thoughts on a product. These public forums and reviews are accessible to all Web Site visitors so please use discretion when posting information to them and do not post personal information.
 
  **Sign-Up for Newsletters or Updates**  
-ComputerValley.ca also offers a variety of newsletters and promotional communications. Should you choose to enrol we will collect your contact information, such as name and email address. This information will only be used to send you the newsletter and promotional announcements that you have requested. You may “unsubscribe” at any time by using the unsubscribe link included in the footer of the newsletter or by using the unsubscribe link included below under the heading “Unsubscribe”. Our subscriber list is never sold or rented to other parties.
+ComputerValley.ca also offers a variety of newsletters and promotional communications. Should you choose to enrol we will collect your contact information, such as name and email address. This information will only be used to send you the newsletter and promotional announcements that you have requested. You may �unsubscribe� at any time by using the unsubscribe link included in the footer of the newsletter or by using the unsubscribe link included below under the heading �Unsubscribe�. Our subscriber list is never sold or rented to other parties.
 
  **Participate in a Contest or Promotion**  
-From time to time, we may run contests or promotions. If you participate, you may be asked for contact information as well as additional optional survey information (for example, product preferences). Personal information from contest entries will be used only to administer the contest and contact you if you win. For research and analysis purposes, we may also summarize contest survey information in a manner that no longer identifies individual participants. All contests and promotions are subject to this Privacy Policy and the rules that will be available with each particular campaign. Some contests are conducted by third parties and will be subject to the third party’s policies.
+From time to time, we may run contests or promotions. If you participate, you may be asked for contact information as well as additional optional survey information (for example, product preferences). Personal information from contest entries will be used only to administer the contest and contact you if you win. For research and analysis purposes, we may also summarize contest survey information in a manner that no longer identifies individual participants. All contests and promotions are subject to this Privacy Policy and the rules that will be available with each particular campaign. Some contests are conducted by third parties and will be subject to the third party�s policies.
 
  **Tell a Friend**  
-While visiting our Web Sites you may choose to use the “Tell a Friend” tool which allows you to inform a friend about products of interest to you. The information you provide will be used to send a one-time email to your friend, inviting them to our Web Sites. We will not add your friend to a mailing list and will not send them further email unless they choose to receive such communications from us. When using the “Tell a Friend” tool you are contacting your friend directly and as such you acknowledge that you are responsible for this correspondence and not ComputerValley.ca. If you provide us with personal information concerning another individual (e.g., email address), you represent and warrant that you have obtained all necessary consents from that individual to enable us to use that personal information for the identified purpose.
+While visiting our Web Sites you may choose to use the �Tell a Friend� tool which allows you to inform a friend about products of interest to you. The information you provide will be used to send a one-time email to your friend, inviting them to our Web Sites. We will not add your friend to a mailing list and will not send them further email unless they choose to receive such communications from us. When using the �Tell a Friend� tool you are contacting your friend directly and as such you acknowledge that you are responsible for this correspondence and not ComputerValley.ca. If you provide us with personal information concerning another individual (e.g., email address), you represent and warrant that you have obtained all necessary consents from that individual to enable us to use that personal information for the identified purpose.
 
  **Subscription Services and Activations**  
 ComputerValley.ca may offer activation of certain products and services like cellular plans, satellite services, or Internet services. These activations may require that certain contact and financial information be collected and provided to the respective service providers as part of the activation process. For example, a cellular carrier may need to perform a credit check prior to activation so a government-issued ID number and your credit card number may be provided to the carrier for that purpose.
@@ -125,7 +125,7 @@ _When returning products which may contain stored or recorded personal informati
 _From time to time we may supplement information you give us with information from other sources, such as information validating your address or other available information you have provided us. This is to help us maintain the accuracy of the information we collect and to help us provide better service.
 
  ** _Does ComputerValley.ca Share Your Information?_** _  
-_ComputerValley.ca does not sell or rent our customers’ personal information to any other party. However, in the normal course of business we may share some of your personal information within our corporate family and with third parties acting on our behalf or as permitted or required by law.
+_ComputerValley.ca does not sell or rent our customers� personal information to any other party. However, in the normal course of business we may share some of your personal information within our corporate family and with third parties acting on our behalf or as permitted or required by law.
 
 Some of these operations may result in personal information collected by ComputerValley.ca being stored or processed outside of Canada and, as a result, your personal information may be accessible to law enforcement and regulatory authorities in accordance with the law of these foreign jurisdictions.
 
