@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whistlerblackcomb.com privacy policy that was archived on 2011-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111027134816id_/http%3A//www.whistlerblackcomb.com/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whistlerblackcomb.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510074613id_/http%3A//www.whistlerblackcomb.com/privacy/index.htm) for the most accurate reproduction.*
 
 # Whistler Blackcomb - Privacy Policy
 
@@ -180,8 +180,9 @@ If you have questions or concerns about our privacy policy or practices, or woul
 
 **Email:** [yourprivacy@whistlerblackcomb.com](mailto:yourprivacy@whistlerblackcomb.com)
 
-**Phone:** (604) 938-7372   
-**Mail:** Chief Privacy Officer   
+**Phone:** 1-855-938-7396  
+**Mail:** Wendy Aitken  
+Chief Privacy Officer   
 Whistler Blackcomb   
 4545 Blackcomb Way   
 Whistler, BC   
