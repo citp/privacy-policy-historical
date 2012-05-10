@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the indiaboard.com privacy policy that was archived on 2011-11-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111113035104id_/http%3A//www.indiaboard.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the indiaboard.com privacy policy that was archived on 2012-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120510095845id_/http%3A//www.indiaboard.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" class="cufon-active cufon-ready"><head profile="http://gmpg.org/xfn/11">
 <title>Free India Classifieds for All Indians Around the World - Forums, Cricket, TV, Everything!</title>
@@ -15,6 +15,17 @@ urchinTracker();
 
 
 
+<script language="Javascript">
+<!--
+//This credit must stay intact
+//Script by http://www.java-Scripts.net and http://wsabstract.com
+ function doClear(theText) {
+     if (theText.value == theText.defaultValue) {
+         theText.value = ""
+     }
+ }
+//-->
+</script>
 
 <script type="text/javascript" src="/includes/js/jquery.js"></script>
 <script type="text/javascript" src="/includes/js/sexy-bookmarks-public.js"></script>
@@ -774,8 +785,10 @@ function MM_swapImage() { //v3.0
 
 
        
-                            <li><a href="/register" title="Register For Free">Register For Free</a></li>
-                             <li><a href="/login" title="Login">Login</a></li>
+                           
+                             
+                             <li><a href="/login" title="Login">Login With Facebook</a></li>
+                           
                             
                             
             </ul>
@@ -904,6 +917,7 @@ Welcome to Indiaboard.com, the No 1 Free Classifieds Portal in the India <br>
 
 
 
+
       <div class="shadowblock_out">
         <div class="shadowblock">
                 <h2 class="colour_top">Welcome to Indiaboard.com!</h2>
@@ -917,47 +931,17 @@ Welcome to Indiaboard.com, the No 1 Free Classifieds Portal in the India <br>
     
 
 
+      <div class="shadowblock_out">
+        <div class="shadowblock">
+                <h2 class="colour_top">Search By Ad ID</h2>
 
-<div class="shadowblock_out" id="widget_appthemes_twitter"><div class="shadowblock"><h2 class="dotted"><cufon class="cufon cufon-canvas" alt="Twitter " style="width: 136px; height: 27px;"><canvas width="157" height="27" style="width: 157px; height: 27px; top: 2px; left: -1px;"></canvas><cufontext>Twitter </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Updates" style="width: 128px; height: 27px;"><canvas width="141" height="27" style="width: 141px; height: 27px; top: 2px; left: -1px;"></canvas><cufontext>Updates</cufontext></cufon></h2>
-					<script type="text/javascript" src="http://platform.twitter.com/anywhere.js?id=ZSO1guB57M6u0lm4cwqA&amp;v=1"></script>
-				<link rel="stylesheet" type="text/css" href="http://appthemes.com/demo/classipress/wp-content/themes/classipress/includes/js/jtweetsanywhere/jtweetsanywhere.css">
-		<script type="text/javascript">
-			jQuery(document).ready(function(){
-				jQuery('#tweetFeed').jTweetsAnywhere({
-					//searchParams: ['geocode=48.856667,2.350833,30km'],
-									  searchParams: ['q=india', 'lang=en'],
-									count: 2,
-													showTweetFeed: {
-						expandHovercards: true,
-						showSource: true,
-						paging: {
-							mode: 'more'
-						},
-						showTimestamp: {
-							refreshInterval: 30
-						},
-						autorefresh: {
-							mode: 'none',
-							interval: 20
-						}
-					},
-					onDataRequestHandler: function(stats, options) {
-						if (stats.dataRequestCount < 11) {
-							return true;
-						}
-						else {
-							stopAutorefresh(options);
-							// alert("To avoid struggling with Twitter's rate limit, we stop loading data after 10 API calls.");
-						}
-					}
-				});
-			});
-		</script>
-		<div id="tweetFeed"><ul class="jta-tweet-list"></ul><div class="jta-tweet-list-controls"><span class="jta-tweet-list-controls-button jta-tweet-list-controls-button-more">More</span></div></div>
-        <div class="pad5"></div>
-        </div><!-- /shadowblock --></div><!-- /shadowblock_out -->
-        
-        
+<form action="/rents101/findbyid" enctype="multipart/form-data" method="post">
+<input name="adid" type="text" value="Enter AD ID" size="16" onfocus="doClear(this)">
+<input type="submit" name="login" value="Go">
+</form>
+        </div><!-- /shadowblock -->
+      </div><!-- /shadowblock_out -->
+    
 
 
     </div><!-- /content_right -->
@@ -1707,6 +1691,7 @@ Welcome to Indiaboard.com, the No 1 Free Classifieds Portal in the India <br>
   
 
 </div><!-- /container -->
+
 
 
 
