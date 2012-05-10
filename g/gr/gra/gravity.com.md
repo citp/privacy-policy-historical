@@ -1,99 +1,98 @@
-> *The following text is extracted and transformed from the gravity.com privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014222301id_/http%3A//www.gravity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gravity.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510111540id_/http%3A//www.gravity.com/privacy) for the most accurate reproduction.*
 
 # Gravity.com
 
-Last update on April 19, 2011. 
+* Introduction
 
-Gravity's mission is to build the internet's Interest Graph and enable amazing, personalized experiences anywhere on the web without compromising each person's right to privacy. 
-
-Our business is based upon the collection and use of anonymous Interest Data (as defined below) via partner websites in order to allow publishers, advertisers, and other content providers to deliver content, media and advertising that is relevant and meaningful to their users. Your interests may be used anonymously to influence which types of content or advertisements are displayed to you across partner sites that we work with. You may choose not to participate by opting out of our service. 
-
-This privacy policy is intended to inform you about our collection, use, and disclosure of information that is processed by the Gravity's Interest Graph services and applications. 
-
-  
-
-
-##  Overview of Our Services 
-
-We collect non-personally identifiable information regarding the behavior and usage patterns of users on web sites that use our services. In this policy, we refer to this non-personally identifiable information, together with other non-personally identifiable information that we obtain from third parties, as "Interest Data." Interest Data is anonymous and does not include personally identifiable information such as your name, email address or phone number. We process Interest Data to create Interest Graphs (an online representation of your interests) for users based upon their behaviors and preferences. We give our customers a limited right to use users' Interest Graphs in order to understand their users better and/or deliver personalized experiences (e.g., content, advertising) to their users based on their interests. 
-
-If you create an account directly with Gravity we may collect volunteered personally identifiable information such as your name, email, password, or social identity (e.g., Facebook). Unless you explicitly consent to do so, we will not associate your Interest Graph with any such personally identifiable information. We will not share any personally identifiable information without first obtaining consent unless required by law. 
-
-  
+  1. Gravity's mission is to enable personalized experiences anywhere on the web without compromising each person's right to privacy. 
+  2. This privacy policy is intended to inform you about our collection, use, and disclosure of information that is processed by Gravity through the services and applications that we provide to end-users, publishers and advertisers (the "Services"), as well as information that is collected through the gravity.com website (the "Site"). 
+  3. Our business is based upon the collection and use of anonymous Interest Data (as defined below) via websites and applications that use our Services ("Partner Sites") in order to: 
+    1. deliver personalized content, media and advertising to you, and 
+    2. provide personalization and data analytics services to the Partner Sites' publishers and other authorized recipients of such services (our "Partners"). 
+  4. You may choose not to participate by opting out of our service at [www.gravity.com/optout](https://web.archive.org/optout) (see below for details). 
 
 
-##  Collection of Interest Data 
+* Information Collection and Use
 
-We use non-personally identifiable means, including "cookies" and "pixel tags," to collect and store Interest Data. 
-
-Cookies are small text files that contain a string of characters and uniquely identify a browser. They are sent to a computer by web site operators or third parties. Most browsers are initially set up to accept cookies. You may, however, be able to change your browser settings to cause your browser to refuse third-party cookies or to indicate when a third-party cookie is being sent. Check your browser's "Help" files to learn more about handling cookies on your browser. 
-
-Pixel tags are small strings of code that provide a method for delivering a graphic image on a web page or other document. Pixel tags allow the operator of the web page or other document, or a third party who serves the pixel tag, to set, read, and modify cookies on, and to transfer other data to, the browser used to view the web page or other document. Pixel tags may also be used to obtain information about the computer being used to view that web page or other document. The entity that sends the tag can view the IP address of the computer that the tag is sent to, the time it was sent, the user's operating system and browser type, and similar information. 
-
-We use information collected at various times and by pixel tags and cookies placed on web sites in order to collect Interest Data. We may also obtain Interest Data from third-party sources, and may combine it with other Interest Data that we have collected. The Interest Data that we collect from users includes the contents of pages of the web sites that a user visits and other click-stream data, none of which includes personal information about the user. In addition, we may collect information about the users' web browser or operating system. 
-
-  
-
-
-##  Use of Interest Data 
-
-We analyze Interest Data collected from various sources and at different times in order to build user Interest Graphs. All Interest Data has a limited lifetime, and naturally decays over time. 
-
-We are aware of the sensitivity of certain types of Interest Data. We do not intentionally collect or retain Interest Data that we consider sensitive. We presently treat Interest Data as sensitive if it includes data reflecting a user having any medical or health condition; certain aspects of a user's personal life or financial situation; or use of, or interest in, gambling, alcoholic beverages, or "adult" products or services. We may update from time to time the types of Interest Data that we consider sensitive. 
-
-  
-
-
-##  Disclosure of Interest Data 
-
-We disclose Interest Data, and information derived from Interest Data, to our customers in the ordinary course of our business. We provide our customers with access to Interest Data through our applications and API. 
-
-For example, we may determine that a user is interested in baseball because the user frequently reads baseball articles on web pages that are operated or controlled by a customer. Our customer may use this information to recommend baseball content to the user or target them with appropriate advertisements. We do not authorize our customers to resell or sublicense Interest Data to third parties. Please note that our customers have their own data retention policies. 
-
-We may share Interest Data with third-party service providers (e.g., data storage and processing facilities) in order for those service providers to perform business functions for us or on our behalf. We may also disclose Interest Data if we believe that we have a legal obligation to do so. In addition, information in our possession or control, including Interest Data, may be disclosed in connection with any merger, acquisition, debt financing, sale of company assets, or other business transaction in which data could be transferred to third parties as one of our business assets. 
-
-  
+  1. If you create an account directly with Gravity, either as a Partner or as an individual user of Partner Sites (a "User"), we collect the information you volunteer when registering for or updating that account, including personally identifiable information such as your name, email, and password, as well as any social identity information you make available by associating your Gravity account with your account on a compatible social media or networking service (e.g., Twitter or Facebook) (collectively, "Registration Information"). 
+    1. We use Registration Information: 
+      1. To administer your account and provide you services;
+      2. To send communications and administrative emails;
+      3. To respond to your inquiries;
+      4. To send marketing and product update messages to those who elect to receive such messages.
+    2. We will not share any personally identifiable information without first obtaining consent unless required by law. 
+  2. We collect non-personally identifiable information regarding the behavior and usage patterns of Users on Partner Sites. In this policy, we refer to this non-personally identifiable information, together with other non-personally identifiable information that we obtain from third parties, as "Interest Data." 
+    1. Interest Data is anonymous and does not include personally identifiable information such as your name, email address or phone number. To keep Interest Data anonymous (but still useful for providing personalization services to you on Partner Sites) we use unique but non-personally identifying cookies (see below for more detail) to associate the Interest Data with the particular device and browser being used when the Interest Data is generated. Accordingly, "your Interest Data" simply means the Interest Data associated with the device and browser you use. 
+    2. Interest Data may include the contents of pages of the web sites that a User visits, access times and dates, search terms entered, ads that the User clicks on, and other click-stream data, none of which includes personally identifying information about the User. 
+    3. We process and use your Interest Data: 
+      1. To create and maintain an "Interest Graph" (an online representation of your interests as inferred from behaviors and preferences expressed through your browser), which can be used to create personalized experiences; 
+      2. To deliver our Services to Partners, including but not limited to: 
+        1. personalization of content, media and advertising to be delivered to you, and 
+        2. analytics services related to Partner Sites and/or Users' interests more generally (which analytics services may involve, among other things, aggregating your Interest Data with Interest Data from other Users). 
+      3. Unless you explicitly consent to our doing so, we will not associate your Interest Data with any personally identifiable information that you provide or make available. 
+      4. Whether you are a User or a Partner, you acknowledge that Interest Graphs can be based on Interest Data from any number of Partner Sites, and we may use the same Interest Graphs and underlying Interest Data in providing Services to any or all of our Partners. 
+    4. In addition to Interest Data, we may collect (through our Site and through Partner Sites) other non-personally identifiable log data, such as your computer's Internet protocol (IP) address, your operating system, browser type and version, and the web page you were visiting before coming to our Site or the Partner Site. We use this information for monitoring, analysis, technical administration, improvement, and tailoring of the Site and Services. We may also use this log data to verify that visitors of the Site meet the criteria required to process their requests. 
+    5. We use non-personally identifiable means, including "cookies" and "pixel tags," to collect, organize, and store Interest Data and to enable proper functioning of the Site. 
+      1. Cookies are small text files that are sent to a computer or other device by web site operators or third parties. If accepted by the browser, they are stored on that device to enable the browser to be uniquely identified, or for other record-keeping or technical purposes. Most browsers are initially set up to accept cookies. You may, however, be able to change your browser settings to cause your browser to refuse cookies (or certain types of cookies, such as third-party cookies) or to indicate when a cookie (or third-party cookie) is being sent. Check your browser's "Help" files to learn more about handling cookies on your browser. Please note, however, that if your browser does not accept cookies, including third-party cookies, you may be unable to use portions of the Site or functionality of the Services (particularly including personalization of content for you). 
+      2. A pixel tag is a small strings of code, embedded within a web page or other document, that calls for a graphic image or other content to be delivered when the web page or other document is viewed. The content called by the pixel tag may or may not be visible to the user, and may originate from a third party's server (separate from the web page or other document that contains the pixel tag). Pixel tags allow the operator of the web page or other document, or a third party who serves the content associated with the pixel tag, to set, read, and modify cookies on, and to transfer other data to, the browser used to view the web page or other document. Pixel tags may also be used to obtain information about the computer being used to view that web page or other document. The entity that sends the content associated with the tag can view the IP address of the computer that the tag is sent to, the time it was sent, the user's operating system and browser type, and similar information. 
+      3. Much of our Interest Data collection is accomplished using pixel tags on Partner Sites and cookies (including third-party cookies) that are set when Users visit those Partner Sites. We may also obtain Interest Data from third-party sources, and may combine it with other Interest Data that we have collected. 
 
 
-##  Opting Out of the Services 
+* Information Disclosure
 
-We provide multiple ways for you to opt out of our services. 
+We disclose information collected via the Services to other companies or individuals as follows: 
 
-We make available a Gravity "opt-out" cookie that you may download to your browser. This cookie, when installed on your browser, will prevent us from collecting Interest Data on that browser. You can learn more about our opt-out cookie [here](https://web.archive.org/optout). 
-
-Additionally, you may prevent us from collecting Interest Data on a browser by blocking third-party cookies in that browser and deleting any existing Gravity cookies. If you block third-party cookies from being set on your browser, you may not be able to enjoy some features or functionality of, and you may see the same content and advertisements repeatedly on, some Web sites. 
-
-  
-
-
-##  Reporting 
-
-We may provide reports to our customers that contain Interest Data. Our customers may use these reports to determine information about their users and for other purposes. These reports are prepared by aggregating Interest Data on the web sites on which it is collected. To prepare our reports, we maintain log files. Our reports and log files do not include any personally identifiable information about users. 
-
-  
-
-
-##  Children 
-
-We do not intentionally collect Interest Data from children under 13 years of age. 
-
-  
+  1. We disclose non-personally identifiable information to Partners who use the Service for their own analytics purposes. 
+    1. For example, we provide our Partners with statistics on the number of people interested in a specific topic, so that a publisher can understand demand for a specific type of content or so that advertisers can understand the number of people who may be interested in their campaigns. 
+  2. We disclose information to third parties if we have a good faith belief that disclosure of such information is reasonably necessary to: 
+    1. Satisfy applicable law, regulation, legal process or an enforceable governmental request; 
+    2. Enforce the Terms of Service for our Site and/or Services, including investigation of potential violations thereof; 
+    3. Detect, prevent, or otherwise address fraud, security or technical issues; 
+    4. Protect against harm to the rights, property or safety of Gravity, its Partners, its users, or the public as required or permitted by law. 
+  3. We may disclose information to our subsidiaries, joint ventures, or other companies under common control with us, in which case we will require them to honor this policy; 
+  4. In the event we go through a business transition such as a merger, acquisition by another company, or sale of all or a portion of our assets, we expect that any and all information that we have will be among the assets transferred; 
+  5. We disclose information to third-party service providers (e.g., data storage and processing facilities) in order for those service providers to perform business functions for us or on our behalf; 
+  6. We may aggregate your non-personally identifiable Information with the non-personally identifiable Information of others and disclose that aggregated information to third parties without restriction. 
 
 
-##  Data Security 
+* Opting-out
 
-We employ a variety of security measures designed to protect Interest Data from unauthorized access, use or sharing, but no security measures can be guaranteed to be completely effective. Consequently, we cannot ensure or warrant the security of any Interest Data or other information. 
+We provide multiple ways for you to opt out of collection of Interest Data. 
 
-  
+  1. We make available a Gravity "opt-out" cookie that you may download to your browser. This cookie, when installed on your browser, will prevent us from collecting Interest Data on that browser. You can obtain our opt-out cookie, and learn more about it, at [www.gravity.com/optout](https://web.archive.org/optout). 
+  2. Because the Interest Data we collect is associated with a given device and browser (not your personal identity), any opt-out election will apply only to the device and browser that you use to make that election. 
+  3. Additionally, you may prevent us from collecting Interest Data on a browser by blocking third-party cookies in that browser and deleting any existing Gravity cookies. If you block third-party cookies from being set on your browser, you may not be able to enjoy some features or functionality of, and you may see the same content and advertisements repeatedly on, some Web sites. 
+  4. If you delete the Gravity opt-out cookie (but do not block third-party cookies), you will need to opt out again in order to prevent Interest Data from being collected on the affected browser. 
 
 
-##  Updates to This Policy 
+* Viewing and Changing Your Information
+
+  1. If you have a Gravity account, you may review, update, correct or delete your Registration Information through your account or by contacting us. If you delete such information, then your account may become deactivated. 
+  2. Since Interest Data and other information we collect regarding Users (other than Registration Information) is anonymous, we do not currently provide Users with tools to view, edit, or delete that information. If you would like us to delete your Interest Data from our system, however, you may contact us at [privacy@gravity.com](mailto:privacy@gravity.com) with your request, and we will use commercially reasonable efforts to honor that request. We may retain an archived copy of any information as required by law or for legitimate business purposes. 
+
+
+* Children
+
+Our Site and Services are not directed to children. We do not intentionally or knowingly collect personal information, Interest Data, or other information from children under 13 years of age. If a parent or guardian believes that his or her child has provided us with personal information, they should contact us at [privacy@gravity.com](mailto:privacy@gravity.com). If we become aware that a child under 13 has provided us with personal information, we will delete that information from our files. 
+
+* Data Security
+
+We employ a variety of security measures designed to protect Interest Data and Registration Information from unauthorized access, use or sharing, but no security measures can be guaranteed to be completely effective. Consequently, we cannot ensure or warrant the security of any Interest Data, Registration Information, or other information. 
+
+* International Transfer
+
+Your information may be transferred to, and maintained on, computers located outside of your state, province, country or other governmental jurisdiction, where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide Registration Information or other personal information to us, it may be transferred to and processed in the United States. Your submission of such information with an awareness of this privacy policy represents your agreement to that transfer. 
+
+* Non-Gravity Sites
+
+  1. Our Site contains links to other websites. If you choose to follow any such links (which may include ads), you will be directed to the third party's website. In addition, Partners use our Services to personalize their own Partner Sites and other non-Gravity content and advertising. The fact that a third party's website, application, content, or advertisement is linked to on our Site, or is personalized or delivered using our Services, is not an endorsement of or representation of any affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. 
+  2. We do not exercise control over third party websites. These other websites (including Partner Sites) may place their own cookies or other files on your computer, and may collect data or solicit personal information from you. Other sites follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the Partner Sites and other websites you visit. 
+
+
+* Updates to This Policy
 
 We may update this policy from time to time. When we do, we will also revise the "last updated" date at the beginning of the policy. We encourage you to review this policy periodically to stay informed about how we collect, use, and disclose Interest Data. 
 
-  
+* Contacting Us
 
-
-##  Contacting Us 
-
-You can contact us regarding privacy issues by emailing [privacy@gravity.com](mailto:privacy@gravity.com) or by mail at Gravity Privacy, P.O. Box 1804, Santa Monica, CA 90406. 
+You can contact us regarding privacy issues by emailing [privacy@gravity.com](mailto:privacy@gravity.com) or by mail at Gravity Privacy, 2525 Main Street, Santa Monica, CA 90405. 
