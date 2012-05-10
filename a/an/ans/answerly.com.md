@@ -1,32 +1,41 @@
-> *The following text is extracted and transformed from the answerly.com privacy policy that was archived on 2011-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110925005808id_/http%3A//alpha.answerly.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the answerly.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510051206id_/https%3A//www.inboxq.com/privacy) for the most accurate reproduction.*
 
-# Answerly | Ask Questions and Get Answers in Minutes
+# InboxQ
 
-This is the web site of Answerly, a division of Queryable Corp.
+## Privacy Policy
 
-We can be reached via our [contact](https://web.archive.org/contact.php) page  
-For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
+**Website Visitors**  
+Like most website operators, InboxQ collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. InboxQ's purpose in collecting non-personally identifying information is to better understand how InboxQ's visitors use its website. From time to time, InboxQ may release non-personally-identifying information in the aggregate, e.g. by publishing a report on trends in the usage of its website.
 
-We collect the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
+InboxQ also collects potentially personally-identifying information like Internet Protocol (IP) addresses. InboxQ does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below. Gathering of Personally-Identifying Information
 
-The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site, used by us to contact consumers for marketing purposes, , disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website, to a successor entity in connection with a corporate merger, consolidation, sale of assets or other corporate change respecting the Website.
+Certain visitors to InboxQ's websites choose to interact with InboxQ in ways that require InboxQ to gather personally-identifying information. The amount and type of information that InboxQ gathers depends on the nature of the interaction.
 
-With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site , customize Web page content based on visitors’ browser type or other information that the visitor sends.
+At present we use Twitter as our identification provider. Any use of Twitter on behalf of the individual is subject to the Twitter Terms of Service and Twitter Privacy Policy. InboxQ collects such information only insofar as is necessary or appropriate to fulfil the purpose of the visitor's interaction with InboxQ. InboxQ does not disclose personally-identifying information other than as described below. And visitors can always refuse to authenticate with Twitter, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
+**Aggregated Statistics**  
+InboxQ may collect statistics about the behaviour of visitors to its websites. InboxQ does not disclose personally-identifying information other than as described below. InboxQ uses Google Analytics, Chartbeat and Mixpanel to help collect information about site usage. These services collect information sent by your browser as part of a web page request, including cookies and your IP address. Their usage of this information is governed by their privacy policies. Protection of Certain Personally-Identifying Information
 
-If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
+InboxQ discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors, and affiliated organisations that (i) need to know that information in order to process it on InboxQ's behalf or to provide services available at InboxQ's websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organisations may be located outside of your home country; by using InboxQ's websites, you consent to the transfer of such information to them.
 
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
+InboxQ will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors, and affiliated organisations, as described above, InboxQ discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when InboxQ believes in good faith that disclosure is reasonably necessary to protect the property or rights of InboxQ, third parties, or the public at large.
 
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizationsWith respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.
+If you are a registered user of a InboxQ website and have supplied your email address, InboxQ may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with InboxQ and our products. We primarily use our blog to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. InboxQ will also send you transactional email that you opted into, at the frequency you requested, you can unsubscribe from these at any time. InboxQ reserves the right to introduce new types of transactional mail which you can then change the frequency of or unsubscribe if you so choose.
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
+InboxQ would like to reassure you that we will be respectable with the permissions you grant us with your Twitter authentication. We will never access your direct messages stored against your Twitter account. We will never post to Twitter without your explicit permission for us to do so.
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them.
+InboxQ takes all measures reasonably necessary to protect against the unauthorised access, use, alteration, or destruction of potentially personally-identifying and personally-identifying information.
 
-Consumers can access this information by e-mail us at the above address.Upon request we offer visitors the ability to have inaccuracies corrected in contact information.
+**Cookies**  
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. InboxQ uses cookies to help InboxQ identify and track visitors, their usage of InboxQ website, and their website access preferences. 
 
-Consumers can have this information corrected by sending us e-mail at the above address.With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+InboxQ visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using InboxQ's websites, with the drawback that certain features of InboxQ's websites may not function properly without the aid of cookies.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+**Privacy Policy Changes**  
+Although most changes are likely to be minor, InboxQ may change its Privacy Policy from time to time, and at InboxQ's sole discretion. InboxQ encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change. 
+
+## Contact Us
+
+Need help? [Visit our forum](http://www.getsatisfaction.com/inboxq/)
+
+For everything else, email[ joe@inboxq.com](mailto:joe@inboxq.com) or call (855) 3-INBOXQ
