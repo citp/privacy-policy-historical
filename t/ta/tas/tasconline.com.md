@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tasconline.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221173537id_/http%3A//www.tasconline.com/about-tasc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tasconline.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510114549id_/https%3A//www.tasconline.com/about-tasc/privacy) for the most accurate reproduction.*
 
-# TASC (Total Administrative Services Corporation) - TASC Privacy Policy
+# Privacy
 
 Total Administrative Services Corporation (TASC) takes your privacy very seriously. We share a commitment to protect your privacy and the confidentiality of your personal information.
 
