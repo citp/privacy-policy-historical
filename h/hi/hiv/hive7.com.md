@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hive7.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008050537id_/http%3A//www.playdom.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hive7.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510041653id_/http%3A//www.playdom.com/about/privacy) for the most accurate reproduction.*
 
 # Playdom
 
@@ -76,7 +76,7 @@ We provide you the ability to exercise certain controls and choices regarding ou
 
 
 
-You may exercise your controls and choices, or request access to your personal information, by visiting [Communication Choices](http://www.playdom.com/account/communcationchoices), contacting [Guest Services](http://support.playdom.com/), or following instructions provided in communications sent to you. Please be aware that, if you do not allow us to collect personal information from you, we may not be able to deliver certain products and services to you, and some of our services may not be able to take account of your interests and preferences. If you have questions regarding the specific personal information about you that we process or retain, please contact [Guest Services](http://support.playdom.com/).
+You may exercise your controls and choices, or request access to your personal information, by visiting [Communication Choices](http://www.playdom.com/account/communicationchoices), contacting [Guest Services](http://support.playdom.com/), or following instructions provided in communications sent to you. Please be aware that, if you do not allow us to collect personal information from you, we may not be able to deliver certain products and services to you, and some of our services may not be able to take account of your interests and preferences. If you have questions regarding the specific personal information about you that we process or retain, please contact [Guest Services](http://support.playdom.com/).
 
 We recognize the need to provide further privacy protections with respect to personal information we may collect from children on our sites and applications. Some of the features on our sites and applications are age-gated so that they are not available for use by children, and we do not knowingly collect personal information from children in connection with those features. When we intend to collect personal information from children, we take additional steps to protect children's privacy, including:
 
