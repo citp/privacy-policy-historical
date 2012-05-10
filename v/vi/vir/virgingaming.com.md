@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virgingaming.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110233827id_/http%3A//virgingaming.com/privacy/%3Ff%3DHME_6M_001) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virgingaming.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510174245id_/http%3A//virgingaming.com/privacy/%3Ff%3DHME_6M_001) for the most accurate reproduction.*
 
 # Privacy Policy for Virgin Gaming
 
@@ -40,7 +40,7 @@ We collect two types of information from you when you visit the Site: informatio
 
 (i) Non-Personal Information
 
-Our Web servers may automatically record certain technical information related to your visit to the Site. This information is anonymous and does not identify you personally. It includes things such as: the Internet domain for your Internet service provider; the Internet Protocol (IP) address of the computer accessing the Site; the address of the last webpage that you visited prior to clicking through to the Site; the browser used and the type of computer operating system that your computer is using; information about your computer hardware; the date and time that you visited the Site; and a record of which pages you viewed while you were visiting the Site. Other information such as demographic information which does not identify an individual is also considered Non-Personal Information. Gamer Information (described below) is also considered Non- Personal Information. 
+Our Web servers may automatically record certain technical information related to your visit to the Site. This information is anonymous and does not identify you personally. It includes things such as: the Internet domain for your Internet service provider; the Internet Protocol (IP) address of the computer accessing the Site; the address of the last webpage that you visited prior to clicking through to the Site; the browser used and the type of computer operating system that your computer is using; information about your computer hardware; the date and time that you visited the Site; and a record of which pages you viewed while you were visiting the Site. Other information such as demographic information which does not identify an individual is also considered Non-Personal Information. Gamer Information (described below) is also considered Non- Personal Information.
 
 (ii) Personal Information
 
@@ -70,13 +70,17 @@ In order to provide a fair playing environment for all users and to protect the 
 
 In addition to collecting Personal Information directly from visitors to the Site, we may also collect Personal Information from third parties such as marketing partners who have been granted permission to share that information with us.
 
-When you download any Virgin Gaming Widget or a Virgin Gaming application, you may also be provided with the opportunity to download software provided by parties other than Virgin Gaming (for example, Xfire from Xfire, Inc.). Please note that when you install and use software provided by third parties, any information that you provide through such use (including Personal Information) will be subject to the privacy policy of that software provider, and not this Privacy Policy.
+When you download any Virgin Gaming Widget or a Virgin Gaming application, you may also be provided with the opportunity to download software provided by parties other than Virgin Gaming (for example, Xfire from Xfire, Inc.). Please note that when you install and use software provided by third parties, any information that you provide through such use (including Personal Information) will be subject to the privacy policy of that software provider, and not this Privacy Policy. 
+
+Facebook Connect
+
+When you register with us through the Site to become a Member of Virgin Gaming, we will ask you for personally identifiable information. This refers to information about you that can be used to contact or identify you ("Personal Information"). Personal Information includes, but is not limited to, your name, age, country of residence and email address. You can register to join Virgin Gaming via the Site or by logging into your account with certain third-party social networking sites ("SNS") (i.e., Facebook) via our Site. If you decide to create your Account by logging into a SNS via the Site, we will extract the Personal Information you have provided to the SNS (such as your "real" name, email address and other information you make publicly available via the SNS) from the account you have with such SNS and use that information to create your Account; the information we extract may depend on the privacy settings you have with the SNS. For example, our Service allows users to create an account and login to the Service using their Facebook account credentials through Facebook Connect. If you are not currently registered as a Member and you click on "Sign in Using Facebook", you will first be asked to enter your Facebook credentials and then be given the option to register and join Virgin Gaming. By using Facebook Connect, you are allowing Virgin Gaming to access your Facebook account information and you are agreeing to the Facebook Terms of Use regarding your use of the Service via Facebook. 
 
 B. What are "cookies" and how does the Site use them?
 
 A cookie is a small text file containing a unique identification number that is transferred (through your browser) from a website to the hard drive of your computer. The cookie identifies your browser but will not let a website know any Personal Information about you, such as your name or address. These files are then used by such websites as a kind of electronic identification tag when users revisit that site. Since cookies are only text files, they cannot run on your computer, search your computer for other information, or transmit any information to anyone.
 
-As with many major websites, the Site use cookies. Cookies are used by the Site so that we can recognize you when you return to the Site and personalize your settings and preferences. Most browsers are initially set up to accept cookies. If you wish, you can change your browser settings either to notify you when you have received a cookie, or to refuse to accept cookies.
+As with many major websites, the Site use cookies. Cookies are used by the Site so that we can recognize you when you return to the Site and personalize your settings and preferences. Most browsers are initially set up to accept cookies. If you wish, you can change your browser settings either to notify you when you have received a cookie, or to refuse to accept cookies. 
 
 C. Personal Information about Children
 
@@ -92,7 +96,7 @@ A. Internal Uses
 
 We collect Personal Information to operate our Site, including to open and maintain customer accounts with us, to contact customers regarding updates of the Site, their account status, new products and services and upcoming events, to collect subscription and entry fees from users, to process payments, to prevent fraud and protect the integrity of the Site, and to deliver prizes to users. We use your date of birth and address information to ensure that you comply with the T&Cs and are permitted to create an account based upon where you reside. We also collect Personal Information to facilitate a fair gameplay environment and for fraud prevention. We may also, but do not have any obligation to, use Personal Information to contact customers regarding changes to the T&Cs and any other policies or agreements relevant to the Site, including this Privacy Policy. If a member uses the "Invite Your Friends / Tell-A-Friend" feature, we will use the name and e-mail address that that member provides to invite his or her friend to create a user account.
 
-In addition to the uses above, we use Personal Information for feedback and marketing purposes, to promote goods and services we believe you may be interested in, to provide a product or service requested by you, to notify you of changes to our products and services, and to customize and improve the content and layout of the Site. When you create your account, you can customize these preferences. If you wish to change your account preferences to modify the ways that we contact you, please contact Customer Care or use the "unsubscribe" link included in all email messages sent on our behalf.
+In addition to the uses above, we use Personal Information for feedback and marketing purposes, to promote goods and services we believe you may be interested in, to provide a product or service requested by you, to notify you of changes to our products and services, and to customize and improve the content and layout of the Site. When you create your account, you can customize these preferences. If you wish to change your account preferences to modify the ways that we contact you, please contact Customer Care or use the "unsubscribe" link included in all email messages sent on our behalf. 
 
 B. Authorized Third-Party Service Providers
 
@@ -139,7 +143,7 @@ Virgin Gaming has implemented a variety of commercially reasonable security safe
 
     * internal password and security policies.
 
-However, please note that no data transmission or storage can be guaranteed to be 100% secure. We are committed to protecting your Personal information, but we cannot ensure or warrant the security of any information you transmit to us. Please take reasonable steps to guard against identity theft, including 'phishing' attacks. You are responsible for maintaining the confidentiality of your password and account, and you are fully responsible for all activities that occur under your password or account. In the event of unauthorized use of your password or account or any other breach of security, you must notify Virgin Gaming immediately and promptly change your password.
+However, please note that no data transmission or storage can be guaranteed to be 100% secure. We are committed to protecting your Personal information, but we cannot ensure or warrant the security of any information you transmit to us. Please take reasonable steps to guard against identity theft, including 'phishing' attacks. You are responsible for maintaining the confidentiality of your password and account, and you are fully responsible for all activities that occur under your password or account. In the event of unauthorized use of your password or account or any other breach of security, you must notify Virgin Gaming immediately and promptly change your password. 
 
 6\. ACCURACY AND CURRENCY OF PERSONAL INFORMATION
 
@@ -162,7 +166,7 @@ The Site is governed by and operated in accordance with the laws of the Province
 
 All policies and procedures of Virgin Gaming are reviewed and updated periodically to reflect changes in our practices and Services, including this Privacy Policy. If we modify this Privacy Policy, we will update the "effective Date" and such changes will be effective upon posting to the Site.
 
-Copyright © 2011 Virgin Gaming - All Rights Reserved
+Copyright © 2011 Virgin Gaming - All Rights Reserved 
 
   
 
