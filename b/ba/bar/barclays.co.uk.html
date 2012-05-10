@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the barclays.co.uk privacy policy that was archived on 2011-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111202061452id_/http%3A//www.barclays.co.uk/ImportantInformation/Privacypolicy/P1242557966945) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the barclays.co.uk privacy policy that was archived on 2012-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120510135203id_/http%3A//www.barclays.co.uk/ImportantInformation/Privacypolicy/P1242557966945) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <script type="text/javascript">
@@ -14,6 +14,7 @@ var referrerTCvalue= [];
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 <meta name="description" content="Read about how Barclays protects your personal information">
 <meta name="keywords" content="Important, information, personal, information, private, privacy">
+
 <link rel="stylesheet" href="/css/layout.css" type="text/css">
 <link rel="stylesheet" href="/css/modules.css" type="text/css">
 <link rel="stylesheet" href="/css/typography.css" type="text/css">
@@ -100,9 +101,14 @@ Accessibility<span class="popupper"> (Link opens in a new window)</span></a>
 Contact us</a>
 
 </li>
-<li class="last">
+<li>
 <a href="/Helpsupport/Barclayshelpsupport/P1242563642593" rel="" onmousedown="dcsMultiTrack('DCS.dcsuri','Privacypolicy/Header/Help', 'WT.ti', '','WT.dl','1');">
 Help</a>
+
+</li>
+<li class="last">
+<a href="http://www.jobs.barclays.co.uk" class="popup" title="This link opens in a new window" rel="" onmousedown="dcsMultiTrack('DCS.dcsuri','Privacypolicy/Header/Careers', 'WT.ti', '','WT.dl','1');">
+Careers<span class="popupper"> (Link opens in a new window)</span></a>
 
 </li>
 </ul>
@@ -117,11 +123,12 @@ Help</a>
 <dl>
 <dt>Online Banking</dt>
 <dd><div class="btn">
-<a href="https://ibank.barclays.co.uk/olb/w/LoginMember.do" class="directional rolbpopup " title="Log in to Online Banking">Log in<span class="lock icon"></span><em class="tl"></em><em class="tr"></em><em class="bl"></em><em class="br"></em></a>
+<a href="https://bank.barclays.co.uk" class="directional rolbpopup " title="Log in to Online Banking">Log in<span class="lock icon"></span><em class="tl"></em><em class="tr"></em><em class="bl"></em><em class="br"></em></a>
 </div>
 </dd>
+
 <dd><div class="btn noicon">
-<a href="https://ibank.barclays.co.uk/olb/w/TakeonPersonal.do?action=TakeonPersonal&amp;screenName=takeonPersonal" class="functional rolbpopup " title="Register for Online Banking">Register<em class="tl"></em><em class="tr"></em><em class="bl"></em><em class="br"></em></a>
+<a href="https://bank.barclays.co.uk/olb/auth/RegistrationLink_display.action" class="functional rolbpopup " title="Register for Online Banking">Register<em class="tl"></em><em class="tr"></em><em class="bl"></em><em class="br"></em></a>
 </div></dd>
 
 </dl>
@@ -154,9 +161,36 @@ Privacy policy
 
 </div>
 <div class="search">
-<form action="http://www.search.barclays.co.uk/search" name="searchForm">
-<div class="searchform"><input type="text" style="border-color: rgb(127, 157, 185);" class="textbox" title="Search" name="Search" value="Site search"></div>
-<div class="btn fr"><a class="functional " href="javascript:document.searchForm.submit();" onmousedown="dcsMultiTrack('DCS.dcsuri','Privacypolicy/Header/Go', 'WT.ti', '','WT.dl','1');">
+<p><style type="text/css">
+#js
+{
+display:none;
+}
+#no-js
+{
+clear: both;
+float: right;
+position: relative;
+width: 150px;
+display:block;
+margin-top:-3px;
+}
+#no-js input
+{
+border: 1px solid #CDCDCD;
+border-radius: 10px 10px 10px 10px;
+color: #00A3E6;
+cursor: pointer;
+float: right;
+font-weight: bold;
+height: 25px;
+position: relative;
+width: 40px;
+}
+</style></p>
+<form method="get" action="http://ask.barclays.co.uk/sitesearch/results" id="searchForm" name="searchForm">
+<div class="searchform"><input type="text" class="textbox" title="Keyword or question" style="width:150px;" name="nlpq" id="nlpq" value="Keyword or question" autocomplete="off" onfocus="this.value='';this.style.fontStyle='normal'; return false;"></div>
+<div id="js" class="btn fr" style="display: inline;"><a class="functional " href="javascript:document.searchForm.submit();" onmousedown="dcsMultiTrack('DCS.dcsuri','Privacypolicy/Header/Keywordorquestion', 'WT.ti', '','WT.dl','1');">
 Go
 <span class="arrow icon"></span>
 <em class="tl"></em>
@@ -165,8 +199,12 @@ Go
 <em class="br"></em>
 </a>
 </div>
-<input type="hidden" style="display: none;" name="subsite" value="personal">
+<div id="no-js" style="margin: -20px 8px 0pt 0pt; display: none;"><input type="submit" style="background-image: none ! important; width: 55px; text-align: left; height: 21px; background-color: rgb(238, 238, 238);" value="Go"></div>
 </form>
+<script type="text/javascript">
+                $("#js").css('display','inline');
+                $("#no-js").css('display','none');
+</script>
 </div>
 <div class="">
 </div>
@@ -317,6 +355,7 @@ Electronic Commerce Directive
 </div>
 </div>
 
+
 <div class="nav-module question">
 <div class="nav-module-body">
 <div class="nav-container">
@@ -337,6 +376,7 @@ Find your answer
 </div>
 
 </div>
+
 <div class="module full">
 <div class="lt">
 <div class="lt-right"></div>
@@ -413,11 +453,6 @@ Higher Education Account</a>
 <h3>Savings</h3>
 <ul>
 <li>
-<a href="/Savings/Childrenssavings/ChildTrustFund/P1242557976018" rel="" onmousedown="dcsMultiTrack('DCS.dcsuri','Privacypolicy/Footer/ChildTrustFund', 'WT.ti', '','WT.dl','1');">
-Child Trust Fund</a>
-
-</li>
-<li>
 <a href="/Savings/Regularsavings/MonthlySavings/P1242558327055" rel="" onmousedown="dcsMultiTrack('DCS.dcsuri','Privacypolicy/Footer/MonthlySavings', 'WT.ti', '','WT.dl','1');">
 Monthly Savings</a>
 
@@ -468,7 +503,7 @@ Open a Euro Savings Account<span class="popupper"> (Link opens in a new window)<
 
 </li>
 <li>
-<a href="/Savings/ISAs/CashISAndashISASaverndashIssue1/P1242580433210" rel="" onmousedown="dcsMultiTrack('DCS.dcsuri','Privacypolicy/Footer/CashISAGoldenISAIssue3', 'WT.ti', '','WT.dl','1');">
+<a href="/Savings/ISAs/CashISAndashLoyaltyRewardISA/P1242580433210" rel="" onmousedown="dcsMultiTrack('DCS.dcsuri','Privacypolicy/Footer/CashISAGoldenISAIssue3', 'WT.ti', '','WT.dl','1');">
 Cash ISA - Golden ISA - Issue 3</a>
 
 </li>
@@ -550,7 +585,7 @@ Remortgage</a>
 <h3>Insurance</h3>
 <ul>
 <li>
-<a href="/Insurance/StudentPossessions/StudentPossessionsInsurance/P1242557963432" rel="" onmousedown="dcsMultiTrack('DCS.dcsuri','Privacypolicy/Footer/StudentPossessionsInsurance', 'WT.ti', '','WT.dl','1');">
+<a href="/Insurance/Studentinsurance/StudentPossessionsInsurance/P1242557963432" rel="" onmousedown="dcsMultiTrack('DCS.dcsuri','Privacypolicy/Footer/StudentPossessionsInsurance', 'WT.ti', '','WT.dl','1');">
 Student Possessions Insurance </a>
 
 </li>
@@ -575,7 +610,7 @@ Annual Multi-trip Travel Insurance</a>
 
 </li>
 <li>
-<a href="/Insurance/LifeInsurance/LifeInsurancefromAviva/P1242557963444" rel="" onmousedown="dcsMultiTrack('DCS.dcsuri','Privacypolicy/Footer/LifeInsurancefromAviva', 'WT.ti', '','WT.dl','1');">
+<a href="/Insurance/Lifeinsurance/LifeInsurancefromAviva/P1242557963444" rel="" onmousedown="dcsMultiTrack('DCS.dcsuri','Privacypolicy/Footer/LifeInsurancefromAviva', 'WT.ti', '','WT.dl','1');">
 Life Insurance from Aviva</a>
 
 </li>
@@ -620,7 +655,7 @@ Barclays WellWoman Plan </a>
 
 </li>
 <li>
-<a href="/Insurance/IncomeInsurance/BarclaysIncomeInsurance/P1242570079215" rel="" onmousedown="dcsMultiTrack('DCS.dcsuri','Privacypolicy/Footer/BarclaysIncomeInsurance', 'WT.ti', '','WT.dl','1');">
+<a href="/Insurance/Incomeinsurance/BarclaysIncomeInsurance/P1242570079215" rel="" onmousedown="dcsMultiTrack('DCS.dcsuri','Privacypolicy/Footer/BarclaysIncomeInsurance', 'WT.ti', '','WT.dl','1');">
 Barclays Income Insurance</a>
 
 </li>
@@ -641,7 +676,7 @@ Credit Cards</a>
 
 </li>
 <li>
-<a href="/Loans/Ourloans/GraduateLoan/P1242557963946" rel="" onmousedown="dcsMultiTrack('DCS.dcsuri','Privacypolicy/Footer/GraduateLoan', 'WT.ti', '','WT.dl','1');">
+<a href="/HOLDDonotPublish/HOLDDonotpublish/GraduateLoan/P1242557963946" rel="" onmousedown="dcsMultiTrack('DCS.dcsuri','Privacypolicy/Footer/GraduateLoan', 'WT.ti', '','WT.dl','1');">
 Graduate Loan</a>
 
 </li>
@@ -651,7 +686,7 @@ Loan repayment calculator</a>
 
 </li>
 <li>
-<a href="/Loans/Ourloans/ProfessionalandCareerLoan/P1242557963934" rel="" onmousedown="dcsMultiTrack('DCS.dcsuri','Privacypolicy/Footer/ProfessionalandCareerLoan', 'WT.ti', '','WT.dl','1');">
+<a href="/HOLDDonotPublish/HOLDDonotpublish/ProfessionalandCareerLoan/P1242557963934" rel="" onmousedown="dcsMultiTrack('DCS.dcsuri','Privacypolicy/Footer/ProfessionalandCareerLoan', 'WT.ti', '','WT.dl','1');">
 Professional and Career Loan</a>
 
 </li>
@@ -692,12 +727,12 @@ Foundation ISA</a>
 
 </li>
 <li>
-<a href="/BarclaysInvestorZone/Investmentproducts/P1242582439640" rel="" onmousedown="dcsMultiTrack('DCS.dcsuri','Privacypolicy/Footer/Investmentproducts', 'WT.ti', '','WT.dl','1');">
+<a href="/BarclaysInvestorZone/Compareourinvestmentproducts/P1242582439640" rel="" onmousedown="dcsMultiTrack('DCS.dcsuri','Privacypolicy/Footer/Investmentproducts', 'WT.ti', '','WT.dl','1');">
 Investment products</a>
 
 </li>
 <li>
-<a href="/BarclaysInvestorZone/InvestorsChoice/P1242580266020" rel="" onmousedown="dcsMultiTrack('DCS.dcsuri','Privacypolicy/Footer/InvestorsChoicefunds', 'WT.ti', '','WT.dl','1');">
+<a href="/BarclaysInvestorZone/Investmentfundfinder/P1242580266020" rel="" onmousedown="dcsMultiTrack('DCS.dcsuri','Privacypolicy/Footer/InvestorsChoicefunds', 'WT.ti', '','WT.dl','1');">
 Investors' Choice funds</a>
 
 </li>
@@ -733,12 +768,17 @@ Learn about investing</a>
 <p>Barclays Bank PLC. Registered in England. Barclays Bank PLC is authorised and regulated by the Financial Services Authority (FSA). Registered No 1026167. Barclays Insurance Services Company Limited is authorised and regulated by the FSA. Registered No 973765. Registered Office for both: 1 Churchill Place, London, E14 5HP. "The Woolwich" and "Woolwich" are trademarks and trading names of Barclays Bank PLC. Barclays Business is a trading name of Barclays Bank PLC. Barclays Bank PLC subscribes to the Lending Code which is monitored and enforced by the Lending Standards Board and is licensed and regulated by the Office of Fair Trading for the provision of credit products to consumers and related services. Further details can be found at www.lendingstandardsboard.org.uk</p>
 <br>
 <p>
-<a class="premier-league" href="http://www.premierleague.com/page/Home/0,,12306,00.html" title="Link through to Barclays Premiership website">
+<a class="premier-league" href="http://www.premierleague.com/" title="Link through to Barclays Premiership website">
 <span class="premier-league">Proud sponsors of the Barclays Premier League</span>
+</a>
+<span>&nbsp;&amp;&nbsp;</span>
+<a class="atp-finals" href="http://www.barclaysatpworldtourfinals.com/ " title="Link through to Barclays ATP World Tour Finals website">
+<span class="atp-finals">the Barclays ATP World Tour Finals</span>
 </a>
 </p>
 <br>
 </div>
+
 
 </div>
 <div class="main-footer"></div>
@@ -746,9 +786,7 @@ Learn about investing</a>
 <script type="text/javascript" src="/js/barclays.js"></script><iframe id="tooltipIframe" frameborder="0" tabindex="-1" height="0px" width="0px"></iframe><div class="toolTipWrapper" id="tooltipContainer"><div class="toolTipTop"></div><div class="toolTipMid"></div><div class="toolTipBtm"></div></div>
 <script type="text/javascript" src="/js/thickbox.js"></script>
 <script type="text/javascript" src="/js/load.js"></script>
-<!--Natural search Tag March 2010 -->
 <script src="/js/naturalsearch-ns1.js" type="text/javascript"></script>
-<!--Foresee Oct 2011 -->
 <script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
 <script type="text/javascript" src="/js/equalheightsmanual.js"></script>
 <script type="text/javascript" src="/js/logging.js">
