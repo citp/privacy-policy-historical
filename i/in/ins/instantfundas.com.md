@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantfundas.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219142345id_/http%3A//www.instantfundas.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantfundas.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510102446id_/http%3A//www.instantfundas.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Instant Fundas - All Things Technology and More
 
@@ -12,7 +12,7 @@ Like most standard Web site servers we use log files. This includes Internet Pro
 
 ### Cookies
 
-A cookie is a piece of file stored on the user's computer tied to information about the user. Our site use cookies to track returning visitors. These cookies does not collect any information about the user. Some of our business partners use cookies on our site too (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. If you wish to disable cookies, you may do so through your individual browser options.
+A cookie is a piece of file stored on the user's computer tied to information about the user. This site use cookies to track returning visitors. These cookies does not collect any information about the user. Some of our business partners use cookies on our site too (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. If you wish to disable cookies, you may do so through your individual browser options.
 
 ### Newsletter
 
