@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the machinemart.co.uk privacy policy that was archived on 2011-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111015134115id_/http%3A//www.machinemart.co.uk/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the machinemart.co.uk privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510150729id_/http%3A//www.machinemart.co.uk/pages/privacy-policy) for the most accurate reproduction.*
 
 # Machine Mart: No1 for Tools & Equipment
 
