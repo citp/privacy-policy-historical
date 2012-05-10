@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the naaleads.com privacy policy that was archived on 2009-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090409130032id_/http%3A//www.naaleads.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naaleads.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511000508id_/http%3A//www.naaleads.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | NAA - America's #1 Seller of Mortgage Protection Insurance
+# Privacy Policy | National Agents Alliance - NAA | Insurance Sales Jobs
 
 We at NAA are firmly committed to maintaining the privacy of every visitor to our website. Please notice that we ask only the briefest of information in order to speak to you about personal matters in person and privately.
 
@@ -16,7 +16,7 @@ NAA gathers site usage information, or statistics, from all visitors. This infor
 
 Cookies are tiny bits of information placed by a website on a visitors personal computer. They help track a visitor's session while online. Although in general our website does not utilize cookies, certain aspects of our website may not function without them. Cookies are not related to any personally identifiable information and are not used to retrieve information from your computer that was not originally sent in a Cookie.
 
-Many browsers are set to accept Cookies. You may prefer to set your browser to refuse Cookies. Please be aware that some areas of our website will not function properly if you do so. All Cookies will expire once a visitor leaves our website.
+Many browsers are set to accept Cookies. You may prefer to set your browser to refuse Cookies. Please be aware that some areas of our website will not function properly if you do so. All Cookies will expire once a visitor leaves our website. 
 
 Click here to learn more about [cookies](http://cookiecentral.com/faq/).
 
