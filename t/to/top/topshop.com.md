@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topshop.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228005340id_/http%3A//www.topshop.com/webapp/wcs/stores/servlet/CatalogNavigationSearchResultCmd%3FcatalogId%3D33057%26storeId%3D12556%26langId%3D-1%26viewAllFlag%3Dfalse%26categoryId%3D277997%26interstitial%3Dtrue%26intcmpid%3DW_FOOTER_WK45_HP_UK_PRIVACY_POLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topshop.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510053132id_/http%3A//www.topshop.com/webapp/wcs/stores/servlet/CatalogNavigationSearchResultCmd%3FcatalogId%3D33057%26storeId%3D12556%26langId%3D-1%26viewAllFlag%3Dfalse%26categoryId%3D277997%26interstitial%3Dtrue%26intcmpid%3DW_FOOTER_WK45_HP_UK_PRIVACY_POLICY) for the most accurate reproduction.*
 
 # Privacy Policy - Topshop
 
