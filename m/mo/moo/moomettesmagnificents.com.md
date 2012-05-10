@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moomettesmagnificents.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011062019id_/http%3A//moomettesmagnificents.com/blog/disclosure-policy/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moomettesmagnificents.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510094604id_/http%3A//moomettesmagnificents.com/blog/disclosure-policy/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement – Moomettes Magnificents
 
@@ -86,7 +86,7 @@ You agree to such cross-border transfers of personal information.
 
 **Updating this statement**
 
-Moomette’s Magnificents may update this privacy policy by posting a new version on this website.
+Moomette’s Magnificents may [update](http://moomettesmagnificents.com/blog/goto/Altard/) this privacy policy by posting a new version on this website.
 
 You should check this page occasionally to ensure you are familiar with any changes.
 
@@ -107,5 +107,5 @@ If you have any questions about this privacy policy or Moomette’s Magnificents
 
 ###### _This privacy statement is based on a precedent created by[employmentlawcontracts.co.uk](http://www.employmentlawcontracts.co.uk/) and published by [freenetlaw.com](http://www.freenetlaw.com/)[.](http://www.freenetlaw.com/)_
 
-[](http://www.tastefullysimple.com/web/cmatthews1)  
+[](http://moomettesmagnificents.com/blog/goto/Altard/)  
 
