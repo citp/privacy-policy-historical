@@ -1,68 +1,114 @@
-> *The following text is extracted and transformed from the silverpop.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216154729id_/http%3A//www.silverpop.com/about/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silverpop.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510152609id_/http%3A//www.silverpop.com/marketing-company/trust/privacy/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Silverpop
+# Privacy Policy | Silverpop
 
-**Effective Date: 8/1/2005**
+**Effective as of February 22, 2009 ([click here](https://web.archive.org/web/20120510152609id_/http%3A//www.silverpop.com/marketing-company/trust/privacy/privacy-old.html) to see the previous version of our Privacy Policy)**
 
-[](http://www.truste.org/ivalidate.php?url=www.silverpop.com&sealid=101)Silverpop has created this privacy statement ("Statement") in order to demonstrate our commitment to customer privacy. Because we gather important information from our customers and visitors, we have established this Statement as a means to communicate our information gathering and dissemination practices. Visitors and customers can update their personal information by visiting our personal preference page at <http://www.silverpop.com/preferences/>.
+At [Silverpop](https://web.archive.org/web/20120510152609id_/http%3A//www.silverpop.com/marketing-company/company-overview.html), we respect and protect the privacy of our clients and visitors to our Web site. This Privacy Policy explains how visitors’ and clients’ personal information is collected and used. This Privacy Policy applies to the Silverpop Web site and our products and services. Visitors and clients can update their personal information by visiting one of our personal preference pages: 
 
-**Information Collection and Usage**  
+[Preference Center](https://web.archive.org/preferences/index.html)[](https://web.archive.org/preferences/index_b2b.html)
 
-Silverpop requires customers who request information, and subsequently register to use our products and services to provide contact information such as their name, company name, address, phone number and email address and later financial qualification and billing information such as billing name and address, credit card number, and the number of users within the customer's organization.   This data is typically collected offline as part of the customer provisioning process. Silverpop typically asks for marketing information via an online form when a customer or visitor requests information about our products and services. This information often includes name, company name, address, phone number, email address, title, and additional company information such as annual revenues, number of employees, and industry.  Silverpop uses the collected information to set up accounts for customers and their respective companies. We may also use the information to contact prospective customers to further discuss their interest in Silverpop, our products and services and to send information on Silverpop.  We may send our email newsletter and notices of promotions and upcoming events, if the customer or visitor has so opted to receive these communications. Silverpop customers will automatically be subscribed to our email newsletter as part of the set up process. All customers have the opportunity to choose to opt out from receiving our newsletter. Customer information will not be shared or distributed.
+**Information Collection and Usage**
 
-Silverpop customers will be asked to provide an email address when registering for usage of Silverpop products and services. This is used to send notification of product updates and service and support information. Customers can choose to opt out of receiving these notifications. Again, customer information will not be shared or distributed.   
-Except as explicitly stated at the time Silverpop requests information, or as explicitly defined in our Terms of Service, we do not disclose to any third party the information provided. All financial and billing information we collect is used solely to check qualifications of prospective customers and to invoice our customers for their usage of Silverpop products and services. This billing information is not used by Silverpop for marketing and/or promotional purposes.
+Silverpop collects information at several different points on our Web site in order to better serve client and visitor needs. Silverpop is the sole owner of the information collected on this site. Under no circumstances will Silverpop sell, share or rent this information in any manner to any unaffiliated third parties.
 
-Silverpop uses a third party for credit card processing. This intermediary is solely a link in the distribution chain, and is not permitted to store, retain, or use the information provided except for the sole purpose of credit card processing.
+Silverpop’s Web site offers several opportunities for visitors to register for promotional and informational mailings, online Webinars and resources, and for assistance in evaluating our software and services. These registration forms enable users to opt in to Silverpop's mailing lists and require users to give contact information (such as name and email address). We use this contact information to send the requested information about our company, products and services. Notice is given at the point of collection to enable users to choose whether or not they consent to the usage terms. Those who have signed up and subsequently wish to withdraw their participation may opt out of receiving future mailings at any time (see the opt-out section below).
 
-Silverpop uses pixel tags and other methods to gather information about the emails we send to our registered users and recipients of emails sent by our registered users to others. Pixel tags are tiny graphic files that are included in our HTML-encoded email messages. When such a message is opened in an HTML-capable email program, the recipient's computer will access Silverpop's servers to retrieve the pixel tag file, allowing Silverpop to record and store information such as email address, date and time the recipient viewed the email message, if the recipient's email program is capable of receiving HTML, and other logging information. Silverpop uses this information to optimize delivery of future messages to specific recipients and to provide information to registered users with respect to emails they send through the Silverpop System.
+All financial and billing information we collect is used solely to check credit qualifications of prospective clients and to invoice our clients for their usage of Silverpop products and services. 
 
-Silverpop maintains log files tracking IP addresses to analyze trends, help diagnose problems with our servers and to monitor traffic/usage in order to provide better service to our customers and visitors.
+Silverpop will not use client-provided content or email address lists for any purpose whatsoever other than to construct and send messages as intended by the client providing such lists and/or content. Email lists will neither be used by Silverpop for solicitation, nor will they ever be provided to any third party, nor will they be accessible through Silverpop by any client other than the client providing the list.
 
-Silverpop uses cookies to deliver content specific to your interests and to improve the convenience and efficiency of your experience when using our products and services. A cookie is a piece of data stored on the user's hard drive tied to statistical information about the user. Usage of a cookie is in no way linked to any personally identifiable information in Silverpop products and email messages. You can always choose to not accept cookies, but you may not be able to use some of the Silverpop products and services.   Some of our business partners, such as our web analytics provider, use cookies on our site. These cookies are used to track visitor behavior on our web site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by Silverpop only and does not cover the use of cookies by any third parties.
+ **Opt out and Update of Information**
 
-**A Note to Recipients of Email Messages from Silverpop Users**
+If an individual no longer wishes to subscribe to Silverpop newsletters and promotional communications, he or she can easily opt out of receiving them by following instructions included in each newsletter or communication. If personally identifiable information changes, or if an email recipient no longer desires to receive specific mailings, he or she may correct, update or delete all information or specific details by making the change on our preference center page.
 
-Silverpop does not retain email address information after our users delete from our servers. Silverpop does not monitor or limit our users from creating email messages. We do, however, quickly and fervently respond to notification of violations or abuses of Silverpop Terms of Service, including failure to honor opt-outs.
+ **SPAM**
 
-**Other Information**
+Silverpop is an industry leader in permission-based [email marketing](https://web.archive.org/web/20120510152609id_/http%3A//www.silverpop.com/marketing-solutions/email-marketing.html). Click [here](https://web.archive.org/web/20120510152609id_/http%3A//www.silverpop.com/marketing-company/trust/privacy/anti-spam.html) to read our Anti-Spam Policy. 
 
-Users of Silverpop will place email address lists and digital content on Silverpop's servers. Silverpop does not monitor content or review lists. Silverpop's servers use the content to construct email messages and the address lists to deliver messages. Silverpop will not use user-provided content or email address lists for any purpose whatsoever other than to construct and send messages as intended by the user providing the list and/or content. Email lists will never be used by Silverpop for solicitation nor will they ever be provided to any third party or be accessible through Silverpop by any user other than the user providing the list.
+**Children's Online Privacy Protection Act (“COPPA”)**
 
-**Disclosure of Data**
+Silverpop will not knowingly accept any information from children under the age of 13. For any children under the age of 13, a parent or guardian will need to contact Silverpop to provide consent for any portion of the site that gathers personal information. We require our clients to comply with COPPA with respect to their use of Silverpop products.
 
-Silverpop will only disclose your Data (as defined collectively above under the topic Information Collection and Usage), the contents of your private communications, or the contact information of your recipients if required to do so by law, or as otherwise stated in this Statement, or in the good faith belief that such action is necessary to: (1) conform to the edicts of the law or comply with legal process served on Silverpop; (2) protect and defend the rights or property of Silverpop and others, including among other things to enforce our Terms of Service; (3) act under exigent circumstances to protect the personal safety of its members or the public; (4) to correct technical problems and malfunctions in how we provide our service to you and to technically process your information; (5) to take precautions against liability; (6) to respond to claims that information you have submitted to Silverpop has violated the rights or interests of a third party; or (7) as permitted by law or to provide information to law enforcement agencies. Also, certain technical processing of email messages and their content are required: (1) for sending and receiving messages; (2) to conform to connecting networks' technical requirements; (3) to conform to the limitations of the Service; or (4) for other similar technical connecting requirements.
+ **Security and Privacy**
 
-It is possible that as we continue to develop our business, Silverpop may be acquired. In such a transaction, customer information may be transferred to the acquiring entity. Users will be notified via email prior to a change of ownership or control of their personal information if users’ personally identifiable information will be used in a manner materially different from that stated at the time of collection. If as a result of the business transition, the users' personally identifiable information will be used in a manner materially different from that stated at the time of collection they will be given choice consistent with our notification of changes section.
+Silverpop takes every precaution to protect the confidentiality and security of the personal information of Web-site visitors and clients by using industry-standard security safeguards, such as firewalls, coupled with carefully developed security procedures. These measures are designed to protect visitor and client information from loss, misuse or unauthorized alteration. Silverpop uses a third party for credit card processing. This intermediary is solely a link in the distribution chain and is not permitted to store, retain or use the information provided except for the sole purpose of credit card processing.
 
-**Other Web Sites; Links**
+Silverpop’s employees are trained and required to safeguard client and Web-site visitor information. Using physical, electronic and procedural safeguards, we restrict access to such personal information to only those employees with a “need-to-know” for business purposes. Additionally, we conduct periodic audits (including via external security experts) to review the adequacy of our security procedures.  
+ **  
+Automatic Collection of Anonymous Data**
 
-Silverpop's web site, or messages created with Silverpop Services, may contain links to other Web sites. Silverpop is not responsible for the privacy practices or the content of such Web sites.
+Following standard industry practice, Silverpop uses pixel tags and other methods to gather information about the emails it sends to registered Web-site users and recipients of emails sent by the company’s registered users to others. Pixel tags are tiny graphic files that are included in HTML-encoded email messages. When such a message is opened in an HTML-capable email program, the recipient's computer will access Silverpop's servers to retrieve the pixel tag file, allowing Silverpop to record and store information such as email address, date and time the recipient viewed the email message, if the recipient's email program is capable of receiving HTML, and other logging information. Silverpop uses this information to optimize delivery of future messages to specific recipients and to provide information to registered users with respect to emails they send through the Silverpop System.
 
-As described above, third parties may independently collect information about you when you view ads or other communications from third parties through Silverpop products or services. If you do not want those companies to collect information about you, please contact them directly.
+Silverpop maintains log files tracking IP addresses to analyze trends, help diagnose problems with our servers, and to monitor traffic/usage in order to provide better service to our clients and Web-site visitors.
 
-**Changes to this Statement**
+Silverpop uses cookies to deliver content specific to Web-site visitors’ interests and to improve the convenience and efficiency of our clients’ experience when using our products and services. A cookie is a piece of data stored on the user's hard drive tied to statistical information about the user. Usage of a cookie is in no way linked to any personally identifiable information in Silverpop products and email messages. Visitors can always choose to not accept cookies, but in doing so they may not be able to use some of the Silverpop products and services.  Some of our business partners, such as our Web analytics provider, also use cookies on our site. These cookies are used to track visitor behavior, and Silverpop has no access to or control over these cookies. This Privacy Policy covers the use of cookies by Silverpop only and does not cover the use of cookies by any third parties
 
-Silverpop reserves the right to make changes to this Statement and to our information gathering and dissemination practices and will provide notification of the change with a minimum of thirty (30) business days prior to the changes taking effect. If as a result of this change, the users' personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our Opt-out and Update of Information section.
+ **Safe Harbor Data Privacy Notice for European Union Web site visitors and clients  
+**  
+Silverpop abides by the European Union (“EU”) Safe Harbor Framework Principles for protecting the privacy of data flowing from the EU to the United States. This portion of our Privacy Policy outlines our general policy and practices for implementing the Safe Harbor Principles, including the type of information to which this notice applies, how we use personal information, and the choices individuals have regarding our use of, and their ability to correct, that personal information. If there is any conflict between the policies in this notice and the Safe Harbor Principles, the Safe Harbor Principles will govern. 
 
-**Opt-out and Update of Information**
+Silverpop complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Silverpop has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Silverpop's certification, please visit <http://www.export.gov/safeharbor/>
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following instructions included in each newsletter or communication.  If your personally identifiable information changes, or if you no longer desire to receive specific mailings, you may correct, update or delete it by making the change on our preference center page [www.silverpop.com/preferences/](http://www.silverpop.com/preferences/).
+**  
+International Clients**
 
-**Security**
+Silverpop enters into email marketing agreements with its clients in the EU that may include the processing of information relating to our clients' customers. In these agreements, the EU client agrees and recognizes that it is the “data controller” for the purposes of data protection legislation. This means that our EU clients are responsible for complying with the data protection legislation in the relevant Member State before they send their customer data to Silverpop for processing. Any data processed by Silverpop is only disclosed to third parties at the request and direction of its EU clients as the data controllers, or when required by law. Any information that our EU clients identify as sensitive will be treated as such.  
+ **  
+Sensitive Information**
 
-Silverpop takes your security seriously and takes reasonable proactive steps to protect your information.  Silverpop has security measures in place to protect the loss, misuse, and alteration of the information under our control. It is important to note that no data transmission over the Internet or information storage technology can be guaranteed to be 100% secure and we cannot guarantee that our security measures will prevent third-party “hackers” from illegally obtaining stored or transmitted information. 
+"Sensitive information" is a subcategory of personal information. Sensitive information is defined as personal information specifying medical or health conditions, racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, or the sex life of the individual. Sensitive information also includes personal information received from a third party where the third party treats and identifies it as sensitive.
 
-**Contact Us**
+ **Disclosure**
 
-Questions or comments regarding this Privacy Policy should be directed to the Chief Privacy Officer at:   
-[privacy@silverpop.com](mailto:privacy@silverpop.com)
+We will comply with the Safe Harbor Principles with respect to disclosures of sensitive information, including, when applicable, obtaining the individual’s explicit consent prior to disclosing sensitive information to a third party or using sensitive information for purposes other than those for which it was originally collected or subsequently authorized by the individual. Transfers of information permitted under this notice, either to third parties or within Silverpop, include the transfer of data from one jurisdiction to another, such as transfers to and from the United States of America. Silverpop will take reasonable precautions to protect personal information in its possession from loss, misuse and unauthorized access, disclosure, alteration and destruction.
+
+Silverpop conducts compliance audits of its relevant privacy practices to verify adherence to this Policy. Any employee that Silverpop determines is in violation of this policy will be subject to disciplinary action up to and including termination of employment.
+
+ **Privacy Officer**
+
+Silverpop has a Chief Privacy Officer who is responsible for the internal supervision of Silverpop privacy policies. Silverpop educates its employees about compliance with the Safe Harbor Principles and has self-assessment procedures in place to ensure its compliance.   
+Dispute Resolution 
+
+Silverpop participates in the Direct Marketing Association (DMA) Safe Harbor dispute resolution process. If an individual feels this company is not abiding by its posted privacy policy or is not in compliance with the Safe Harbor principals, he or she should first contact Silverpop's Compliance Manager by email at [privacy@silverpop.com](mailto:privacy@silverpop.com). If the individual does not receive acknowledgment of his or her inquiry or the inquiry has not been satisfactorily addressed, the individual should then contact the DMA Safe Harbor Dispute Resolution Program. The DMA will act as a liaison to Silverpop to resolve the person’s concerns.
+
+Individuals can contact the DMA Safe Harbor Dispute Resolution Program at:
+
+Safe Harbor Line  
+Direct Marketing Association  
+1615 L Street, NW, Suite 1100  
+Washington, DC 20036  
+[Safeharbor@the-dma.org](mailto:Safeharbor@the-dma.org)
+
+ **Disclosures and Transfers**
+
+Silverpop does not disclose personal information to third parties, except when one or more of the following conditions is true:
+
+(i) We have the individual's permission to make the disclosure;  
+(ii) The disclosure is permitted by law or mandatory professional standards;  
+(iii) The disclosure is reasonably related to the sale or other disposition of all or part of our business or assets;  
+(iv) The personal information to be disclosed is publicly available;  
+(v) The party to whom the disclosure is made controls, is controlled by, or is under common control with Silverpop;  
+(vi) The disclosure is reasonably necessary for the establishment or maintenance of legal claims; or  
+(vii) The disclosure is to persons or entities for which we are providing services, provided the disclosure is consistent with the purpose for which the personal information was obtained.
+
+It is possible that as we continue to develop our business, Silverpop may be acquired. In such a transaction, client information may be transferred to the acquiring entity. If, as a result of the business transition, the users' personally identifiable information will be used in a manner materially different from that stated at the time of collection, they will be given choice consistent with our notification-of-changes section.
+
+ **Links to other Web sites**
+
+Silverpop's Web site, or messages created with Silverpop Services, may contain links to other Web sites. Silverpop is not responsible for the privacy practices or the content of such other Web sites. Third parties may independently collect information about Web site visitors when they view ads or other communications from third parties through Silverpop products or services. If visitors do not want those companies to collect information about them, they should contact these companies directly.
+
+ **Changes to this Policy**
+
+Silverpop will notify its Clients and subscribers via email if we make any changes to our Privacy Policy. Any new policy will be posted on our site at least thirty (30) days prior to its taking effect. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify impacted subscribers via email. Subscribers will have a choice as to whether or not we use their information in this different manner.
+
+ **Contact Us**
+
+If you have questions or concerns regarding this Policy, you should first contact the Chief Privacy Officer at the contact address listed below or via email at [privacy@silverpop.com](mailto:privacy@silverpop.com). 
 
 Chief Privacy Officer   
 Silverpop Systems Inc.   
 200 Galleria Parkway, Suite 750   
 Atlanta, GA 30339
 
-Phone: 678-247-0500
-
-If you have questions or concerns regarding this statement, you should first contact the Chief Privacy Officer at the contact address above or via [privacy@silverpop.com](mailto:privacy@silverpop.com). 
+Phone: 770-763-3048 
