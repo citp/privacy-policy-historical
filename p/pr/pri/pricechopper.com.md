@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pricechopper.com privacy policy that was archived on 2010-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100401121548id_/http%3A//www.pricechopper.com/Privacy/Privacy_Stub.las%3F-token.S%3DAE8T9R1E4430808P7f21DA65lhtN6L53B57C70%7C22867%7C1003301214%7C%7C%7C) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricechopper.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510153802id_/http%3A//www.pricechopper.com/Privacy/Privacy_Stub.las%3F-token.S%3D) for the most accurate reproduction.*
 
 # Price Chopper - Privacy
 
-| [ Security Information](https://web.archive.org/web/20100401121548id_/http%3A//www.pricechopper.com/Privacy/Privacy_SecureServer_Stub.las?-token.S=AE8T9R1E4430808P7f21DA65lhtN6L53B57C70|22867|1004010815|||) | [ Privacy Statement](https://web.archive.org/web/20100401121548id_/http%3A//www.pricechopper.com/Privacy/Privacy_Stub.las?-token.S=AE8T9R1E4430808P7f21DA65lhtN6L53B57C70|22867|1004010815|||) | 
+| [ Security Information](https://web.archive.org/web/20120510153802id_/http%3A//www.pricechopper.com/Privacy/Privacy_SecureServer_Stub.las?-token.S=) | [ Privacy Statement](https://web.archive.org/web/20120510153802id_/http%3A//www.pricechopper.com/Privacy/Privacy_Stub.las?-token.S=) | 
 
 Price Chopper supports the consumer's right to privacy and pledges not to sell, rent or relinquish personally identifiable information to third party vendors, suppliers or marketers. 
 
@@ -16,4 +16,4 @@ In the operation of pharmacies, Price Chopper considers presentation of a prescr
 
 Price Chopper pharmacies will only transfer personally identifiable information to third parties for the purpose of professional treatment, insurance reimbursement, or improved health care outcomes. 
 
-| [ Security Information](https://web.archive.org/web/20100401121548id_/http%3A//www.pricechopper.com/Privacy/Privacy_SecureServer_Stub.las?-token.S=AE8T9R1E4430808P7f21DA65lhtN6L53B57C70|22867|1004010815|||) | [ Privacy Statement](https://web.archive.org/web/20100401121548id_/http%3A//www.pricechopper.com/Privacy/Privacy_Stub.las?-token.S=AE8T9R1E4430808P7f21DA65lhtN6L53B57C70|22867|1004010815|||) | 
+| [ Security Information](https://web.archive.org/web/20120510153802id_/http%3A//www.pricechopper.com/Privacy/Privacy_SecureServer_Stub.las?-token.S=) | [ Privacy Statement](https://web.archive.org/web/20120510153802id_/http%3A//www.pricechopper.com/Privacy/Privacy_Stub.las?-token.S=) | 
