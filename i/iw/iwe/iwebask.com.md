@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iwebask.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227074424id_/http%3A//iwebask.com/blog/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwebask.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510040151id_/http%3A//iwebask.com/blog/privacy) for the most accurate reproduction.*
 
 # -
 
