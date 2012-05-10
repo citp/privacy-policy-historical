@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the recreation.gov privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216213001id_/http%3A//www.recreation.gov/marketing.do%3Fgoto%3D/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recreation.gov privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510040453id_/http%3A//www.recreation.gov/marketing.do%3Fgoto%3D/acm/privacyPolicy.htm) for the most accurate reproduction.*
 
-# New Document
-
-New Document 
+# Privacy Policy
 
 ### Recreation.gov Privacy Policy
 
@@ -34,7 +32,7 @@ Registered users may opt to receive links to other sites we think you will enjoy
 
 ### Secure Server
 
-This site uses the latest technology to ensure your personal and payment information is handled with confidentiality and security. Any personal information you provide through this Web site is encrypted through secure server technology using Secure Socket Layers (SSL). Once encrypted, this information travels from your computer to our servers. Only after your information reaches our servers, is your information decrypted and transferred to the NRRS� reservation system. This technology ensures the security of your information. 
+This site uses the latest technology to ensure your personal and payment information is handled with confidentiality and security. Any personal information you provide through this Web site is encrypted through secure server technology using Secure Socket Layers (SSL). Once encrypted, this information travels from your computer to our servers. Only after your information reaches our servers, is your information decrypted and transferred to the NRRS reservation system. This technology ensures the security of your information. 
 
 ### DISCLAIMER AND LIABILITY NOTICE
 
@@ -46,11 +44,14 @@ Recreation.gov makes no claims, promises, or guarantees about the accuracy, comp
 
 ### Ownership
 
-Information presented on this website is considered public information and may be distributed or copied. Recreation.gov shall have the unlimited right to use for any purpose, free of any charge, all information submitted to Recreation.gov via this site except those submissions made under separate legal contract. Recreation.gov shall be free to use, for any purpose, any ideas, concepts, or techniques contained in information provided to Recreation.gov through this site. If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the Site, you can contact us by using the "Contact Us" link at the bottom of this page. 
+Information presented on this website is considered public information and may be distributed or copied. Recreation.gov shall have the unlimited right to use for any purpose, free of any charge, all information submitted to Recreation.gov via this site except those submissions made under separate legal contract. Recreation.gov shall be free to use, for any purpose, any ideas, concepts, or techniques contained in information provided to Recreation.gov through this site. If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the Site, you can contact us by using the "Contact Us" link at the bottom of this page.
 
 You can also send inquiries by mail to: N.R.R.S.  
 P.O. Box 140  
 Ballston Spa, New York  
 12020
 
-This site is operated and maintained by ReserveAmerica under contract with USDA, Forest Service and other National Recreation Reservation Service participating agencies. 
+This site is operated and maintained by ReserveAmerica under contract with USDA, Forest Service and other National Recreation Reservation Service participating agencies.
+
+  
+
