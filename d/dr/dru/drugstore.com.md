@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drugstore.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007202812id_/http%3A//www.drugstore.com/category.asp%3Fcatid%3D148674) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugstore.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510071053id_/http%3A//www.drugstore.com/category.asp%3Fcatid%3D148674) for the most accurate reproduction.*
 
 # Buy drugstore online
 
