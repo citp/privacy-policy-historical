@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the interactivebrokers.com privacy policy that was archived on 2011-11-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111113103320id_/http%3A//www.interactivebrokers.com/en/accounts/legalDocuments/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the interactivebrokers.com privacy policy that was archived on 2012-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120510133325id_/http%3A//www.interactivebrokers.com/en/accounts/legalDocuments/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <title></title>
@@ -16,8 +16,9 @@
 <link href="/stylesheet/new/highlights.css" rel="stylesheet" type="text/css" media="screen">
 <link href="/stylesheet/print.css" rel="stylesheet" type="text/css" media="print">
 <script language="javascript" type="text/javascript" src="/scripts/common/js/swfobject.js"></script>
-<script language="javascript" type="text/javascript" src="/scripts/common/js/lib.js?t=1321180400"></script><script src="../../../scripts/common/js/jquery.js" type="text/javascript"></script>
-<script type="text/javascript">
+<script language="javascript" type="text/javascript" src="/scripts/common/js/lib.js?t=1336656805"></script><script src="../../../scripts/common/js/jquery.js" type="text/javascript"></script>
+<script src="/scripts/common/js/jquery-ui.js" type="text/javascript" language="Javascript"></script>
+<!--<script type="text/javascript">
  $(document).ready(function(){
    $(".latest_img").fadeTo("slow", 0.3); // This sets the opacity of the thumbs to fade down to 30% when the page loads
    $(".latest_img").hover(function(){
@@ -35,7 +36,6 @@
      $(this).fadeTo("slow", 0.7); // This should set the opacity back to 30% on mouseout
    });
  });
-
  $(document).ready(function(){
    $("#div").fadeTo("slow", 1.0); // This sets the opacity of the thumbs to fade down to 30% when the page loads
    $("#div").hover(function(){
@@ -44,22 +44,17 @@
      $(this).fadeTo("slow", 1.0); // This should set the opacity back to 30% on mouseout
    });
  });
-</script>
-
+</script>-->
 <!-- Code for highlights accordian-->
 <script type="text/javascript">
 var hlaccordion={
-	
 	contentclassname:{}, //object to store corresponding contentclass name based on headerclass
-
 	expandone:function(headerclass, selected){ //PUBLIC function to expand a particular header
 		this.toggleone(headerclass, selected, "expand")
 	},
-
 	collapseone:function(headerclass, selected){ //PUBLIC function to collapse a particular header
 		this.toggleone(headerclass, selected, "collapse")
 	},
-
 	expandall:function(headerclass){ //PUBLIC function to expand all headers based on their shared CSS classname
 		var $=jQuery
 		var $headers=$('.'+headerclass)
@@ -67,7 +62,6 @@ var hlaccordion={
 			$headers.eq(parseInt($(this).attr('contentindex'))).trigger("evt_accordion")
 		})
 	},
-
 	collapseall:function(headerclass){ //PUBLIC function to collapse all headers based on their shared CSS classname
 		var $=jQuery
 		var $headers=$('.'+headerclass)
@@ -75,7 +69,6 @@ var hlaccordion={
 			$headers.eq(parseInt($(this).attr('contentindex'))).trigger("evt_accordion")
 		})
 	},
-
 	toggleone:function(headerclass, selected, optstate){ //PUBLIC function to expand/ collapse a particular header
 		var $=jQuery
 		var $targetHeader=$('.'+headerclass).eq(selected)
@@ -83,7 +76,6 @@ var hlaccordion={
 		if (typeof optstate=="undefined" || optstate=="expand" && $subcontent.is(":hidden") || optstate=="collapse" && $subcontent.is(":visible"))
 			$targetHeader.trigger("evt_accordion")
 	},
-
 	expandit:function($targetHeader, $targetContent, config, useractivated, directclick){
 		this.transformHeader($targetHeader, config, "expand")
 		$targetContent.slideDown(config.animatespeed, function(){
@@ -95,12 +87,10 @@ var hlaccordion={
 			}
 		})
 	},
-
 	collapseit:function($targetHeader, $targetContent, config, isuseractivated){
 		this.transformHeader($targetHeader, config, "collapse")
 		$targetContent.slideUp(config.animatespeed, function(){config.onopenclose($targetHeader.get(0), parseInt($targetHeader.attr('headerindex')), $targetContent.css('display'), isuseractivated)})
 	},
-
 	transformHeader:function($targetHeader, config, state){
 		$targetHeader.addClass((state=="expand")? config.cssclass.expand : config.cssclass.collapse) //alternate btw "expand" and "collapse" CSS classes
 		.removeClass((state=="expand")? config.cssclass.collapse : config.cssclass.expand)
@@ -113,25 +103,21 @@ var hlaccordion={
 		else if (config.htmlsetting.location=="suffix")
 			$targetHeader.find('.accordsuffix').html((state=="expand")? config.htmlsetting.expand : config.htmlsetting.collapse)
 	},
-
 	urlparamselect:function(headerclass){
 		var result=window.location.search.match(new RegExp(headerclass+"=((\\d+)(,(\\d+))*)", "i")) //check for "?headerclass=2,3,4" in URL
 		if (result!=null)
 			result=RegExp.$1.split(',')
 		return result //returns null, [index], or [index1,index2,etc], where index are the desired selected header indices
 	},
-
 	getCookie:function(Name){ 
 		var re=new RegExp(Name+"=[^;]+", "i") //construct RE to search for target name/value pair
 		if (document.cookie.match(re)) //if cookie found
 			return document.cookie.match(re)[0].split("=")[1] //return its value
 		return null
 	},
-
 	setCookie:function(name, value){
 		document.cookie = name + "=" + value + "; path=/"
 	},
-
 	init:function(config){
 	document.write('<style type="text/css">\n')
 	document.write('.'+config.contentclass+'{display: none}\n') //generate CSS to hide contents
@@ -251,9 +237,7 @@ hlaccordion.init({
 })
 </script><style type="text/css">
 .submenu{display: none}
-</style>
-
-<script type="text/javascript">
+</style><script type="text/javascript">
  $(document).ready(function(){
   closetimer = 0;
   if($("#menu_llc")) {
@@ -359,13 +343,35 @@ $(document).ready(function(){
  }
 });
 </script>
-<style>#search_box .s {
-    float: left;
-    padding: 0;
-    margin: 6px 0 0 6px;
-    border: 0;
-    width: 185px;
-    background: none;
+
+<script type="text/javascript">// controls language menu
+$(document).ready(function()
+{
+	$("#langIcon").click(function() { showLanguageMenu(); });
+});
+function showLanguageMenu()
+{
+    $("#langIcon").unbind("click");
+    if (!$("#language_table").is(":visible"))
+    {
+        setTimeout(function(){
+            $("#language_table").show("slide", {direction: "up"}, 1000, function() {$("#langIcon").click(function() {showLanguageMenu();})});
+        }, 500);
+    }
+    else
+    {
+        $("#language_table").hide("slide", {direction: "up"}, 1000, function() {$("#langIcon").click(function() {showLanguageMenu();})});
+    }
+}
+</script>
+<style>
+#search_box .s {
+    float:left;
+    padding:0;
+    margin:6px 0px 0px 6px;
+    border:0px;
+    width:185px;
+    background:none;
 }
 </style>
 <div id="signinsearch_help">
@@ -374,14 +380,10 @@ $(document).ready(function(){
    <tr valign="top">
     <td align="right"> 
 <ul id="menu_help">
-<li class="search"><a href="http://www.interactivebrokers.co.uk/contract_info/index.php?site=IB&amp;action=TopSearch&amp;symbol=&amp;description="><b>Contract Search</b></a>
-</li>
-<li class="sub"><a href="/en/site_map.php?ib_entity=llc"><b>Site Map</b></a>
-</li>
 <li class="help"><a href="/en/pagemap/pagemap_helpcontacts.php"><b>Help &amp; Contacts</b></a>
 <ul class="dd0">
 <li><a href="/en/p.php?f=customerService&amp;ib_entity=llc">Customer Service</a></li>
-<li><a href="http://www.interactivebrokers.co.uk/contract_info/index.php?site=IB&amp;action=TopSearch&amp;symbol=&amp;description=">Contract Search</a></li>
+<li><a href="http://www1.interactivebrokers.ch/contract_info/">Contract Search</a></li>
 <li><a href="/en/software/systemStatus.php?ib_entity=llc">System Status</a></li>
 <li><a href="http://ibkb.interactivebrokers.com">IB Knowledge Base</a></li>
 <li><a href="/en/general/notifications/ibchanges.php?ib_entity=llc">IB Web Changes</a></li>
@@ -397,7 +399,6 @@ $(document).ready(function(){
     <script language="javascript" type="text/javascript">
     searchbox_input_changed = false;
 </script>
-
 
 <div id="search_box" style="margin-right:20px;">
     <form id="search_form" method="get" action="../../../search/search.php" onsubmit="return searchbox_input_changed;;">
@@ -423,8 +424,40 @@ $(document).ready(function(){
   </tr>
  </tbody>
  </table>
- <div id="identifier"><a href="../../../en/main.php"><img src="../../../images/sitetemplate/mnTempFlag_LLC.gif"></a></div>
- <div id="menu_international"><a href="/en/ibglobal_sites.php"><img src="../../../images/sitetemplate/new/btn_international.png" alt="Click for International Website" title="Click for International Website"></a></div>
+    <div id="identifier"><a href="../../../en/main.php"><img src="../../../images/sitetemplate/mnTempFlag_LLC.gif"></a></div>
+    <div id="menu_international"><img id="langIcon" style="cursor: pointer" title="Language Menu" alt="Language Menu" src="../../..//images/sitetemplate/new/btn_international.png">
+    <div id="language_table" style="display:none;">
+    <table width="100%" cellspacing="0" cellpadding="0" border="0">
+    <tbody>
+    <tr>
+    <td align="left" valign="top" style="padding:10px 20px; border-bottom:1px dotted #AAA;">
+    <a href="/en/main.php" class="selected_lang">English</a> <span style="color:#AAA;">•</span> 
+    <a href="http://www.interactivebrokers.ca/fr/main.php">Français</a> <span style="color:#AAA;">•</span> 
+    <a href="http://www.interactivebrokers.com/de/main.php">Deutsch</a> <span style="color:#AAA;">•</span> 
+    <a href="http://www.interactivebrokers.com/es/main.php">Español</a> <span style="color:#AAA;">•</span> 
+    <a href="http://www.interactivebrokers.com.hk/cn/main.php">中文</a> <span style="color:#AAA;">•</span> 
+    <a href="http://www.interactivebrokers.co.jp/jp/main.php">日本語</a> 
+    </td>
+    </tr>
+    <tr>
+    <td align="left" valign="top" style="padding:10px 20px; border-bottom:1px dotted #AAA;">
+    <span style="font-weight:bold; font-size:11px;">Interactive Brokers Entities</span><br>
+    <a href="http://www.interactivebrokers.com/ibg/main.php">Interactive Brokers LLC</a><br>
+    <a href="http://www.interactivebrokers.co.uk/en/main.php">Interactive Brokers (U.K.) Limited</a><br>
+    <a href="http://www.interactivebrokers.ca/en/main.php">Interactive Brokers Canada Inc.</a><br>
+    <a href="http://www.interactivebrokers.co.jp/jp/main.php">Interactive Brokers Securities Japan Inc.</a><br>
+    <a href="http://www.interactivebrokers.co.in/en/main.php">Interactive Brokers (India) Pvt. Ltd.</a><br>
+    </td>
+    </tr>
+    <tr>
+    <td align="left" valign="top" style="padding:10px 20px;">
+    <a href="http://www.interactivebrokers.com/en/ibglobal_sites.php#ibpartners">Full List of Partner Brokers</a>
+    </td>
+    </tr>
+    </tbody>
+    </table>
+    </div>
+    </div>
 </div>
 <!-- End front sign in search -->    </div>
     <!-- End front sign in search -->
@@ -434,7 +467,7 @@ $(document).ready(function(){
 <li class="home"><a href="/ibg/main.php"><b>Home</b></a>
 <ul class="dd0">
 <li><a href="http://www.interactivebrokers.com/ibg/main.php">Main</a></li>
-<li><a href="http://individuals.interactivebrokers.com/en/main.php">Single Account</a></li>
+<li><a href="http://individuals.interactivebrokers.com/en/main.php">Individual Account</a></li>
 <li><a href="http://institutions.interactivebrokers.com/inst/main.php">Institutional Account</a></li>
 <li><a href="http://ibis.interactivebrokers.com/ibis/index.php">IBIS</a></li>
 <li><a href="/en/ibglobal_sites.php">IB Worldwide</a></li>
@@ -486,6 +519,7 @@ $(document).ready(function(){
 <li><a href="/en/p.php?f=smartRouting">SmartRouting</a></li>
 <li><a href="/en/trading/holidayAndExpirationCalendar.php">Trader's Calendar</a></li>
 <li><a href="/en/p.php?f=shortableStocks">Short Sales</a></li>
+<li><a href="/en/p.php?f=adrs">ADR Conversions</a></li>
 <li><a href="/en/p.php?f=deliveryExerciseActions">Delivery, Exercise &amp; Actions</a></li>
 <li><a href="/en/p.php?f=customerService&amp;p1=bust">Erroneous Trade Policy</a></li>
 </ul>
@@ -524,6 +558,7 @@ $(document).ready(function(){
 <li class=""><a href="/en/pagemap/pagemap_about.php"><b>About IB</b></a>
 <ul class="dd6">
 <li><a href="/en/general/about/about.php">Information and History</a></li>
+<li><a href="/en/p.php?f=ibgStrength">Strength &amp; Security</a></li>
 <li><a href="http://investors.interactivebrokers.com/ir/main.php">Investor Relations</a></li>
 <li><a href="/en/p.php?f=news">News at IB</a></li>
 <li><a href="/en/p.php?f=media">Media</a></li>
@@ -552,10 +587,12 @@ $(document).ready(function(){
 <li class="login"><a href="/en/pagemap/pagemap_login.php" target="_blank"><b>Login</b></a>
 <ul class="dd7">
 <li><a href="/en/software/twsDisclaimer.php">Trader Workstation</a></li>
+<li><a href="/en/software/twsPluginDisclaimer.php">Trader Workstation Beta</a></li>
 <li><a href="/en/software/twsPrevious.php">Trader Workstation Previous</a></li>
 <li><a href="https://cwt1.interactivebrokers.com/webtrader2/servlet/login" target="_blank">WebTrader</a></li>
 <li><a href="https://cwt1.interactivebrokers.com/webtraderbeta/servlet/login" target="_blank">WebTrader Beta</a></li>
 <li><a href="http://www.interactivebrokers.com/java/classes/ibg.jnlp" target="_blank">IB Gateway</a></li>
+<li><a href="http://www.interactivebrokers.com/java/classes/ibg.beta.jnlp" target="_blank">IB Gateway Beta</a></li>
 <li style="border-bottom:1px dotted #999;line-height:0px">&nbsp;</li><li></li>
 <li><a href="https://www.interactivebrokers.com/sso/Login" target="_blank">Account Management</a></li>
 <li><a href="https://www.interactivebrokers.com/Universal/servlet/AccountAccess.Login?c=t" target="_blank">Finish an Application</a></li>
@@ -574,10 +611,11 @@ $(document).ready(function(){
 <li><a href="/en/p.php?f=smallBusinessAccounts&amp;ib_entity=llc">Small Business</a></li>
 <li style="border-bottom:1px dotted #999;line-height:0px">&nbsp;</li><li></li>
 <li><a href="/en/accounts/advisors/advisorsMain.php?ib_entity=inst">Professional Advisor</a></li>
+<li><a href="/en/accounts/advisors/moneymanagersMain.php?ib_entity=inst">Money Manager</a></li>
 <li><a href="/en/accounts/brokers/brokerMain.php?ib_entity=inst">Registered Brokers &amp; FCMs</a></li>
 <li><a href="/en/accounts/institutions/institutionalMain.php?ib_entity=inst">Proprietary Trading Groups</a></li>
 <li><a href="/en/accounts/institutions/fundMain.php?ib_entity=inst">Hedge &amp; Mutual Funds</a></li>
-<li><a href="/en/accounts/advisors/employeeTrackMain.php?ib_entity=inst">Broker Compliance Officers</a></li>
+<li><a href="/en/accounts/advisors/employeeTrackMain.php?ib_entity=inst">Compliance Officers</a></li>
 <li style="border-bottom:1px dotted #999;line-height:0px">&nbsp;</li><li></li>
 <li><a href="https://www.interactivebrokers.com/Universal/servlet/AccountAccess.Login?c=t" target="_blank">Finish an Application</a></li>
 </ul>
