@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberessays.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107081005id_/http%3A//www.cyberessays.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberessays.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510142221id_/http%3A//www.cyberessays.com/privacy.php) for the most accurate reproduction.*
 
 # CyberEssays.com Privacy Policy
 
@@ -6,7 +6,7 @@ Welcome to CyberEssays.com! When you register with us or use CyberEssays.com, yo
 
 * ### Information Collected by Our Site
 
-CyberEssays.com is provided by The Paper Database, Inc. and its affiliates ("we" or "us"). Registration with us is optional, but please keep in mind that you may not be able to use many of the services on CyberEssays.com unless you register with us. Depending on how you interact with CyberEssays.com, you provide us with information, which may include: (a) your name, email address, age (to comply with legal requirements), user name, password, postal code, gender and other registration information; (b) your interaction with CyberEssays.com features and advertisements; (c) transaction-related information, such as, when you make purchases, respond to any offers, or download software from us; and (d) information you provide us when you contact us for help.
+CyberEssays.com is provided by Collective Research and its affiliates ("we" or "us"). Registration with us is optional, but please keep in mind that you may not be able to use many of the services on CyberEssays.com unless you register with us. Depending on how you interact with CyberEssays.com, you provide us with information, which may include: (a) your name, email address, age (to comply with legal requirements), user name, password, postal code, gender and other registration information; (b) your interaction with CyberEssays.com features and advertisements; (c) transaction-related information, such as, when you make purchases, respond to any offers, or download software from us; and (d) information you provide us when you contact us for help.
 
 We may also collect other information when users interact with CyberEssays.com, such as city, state, zip code, country and IP address that does not identify a person individually, so that we can improve CyberEssays.com's services to you.
 
@@ -46,7 +46,7 @@ This Privacy Policy applies to web sites, services and applications that are own
 
 * ### Acquisition
 
-We reserve the right to transfer your personal information in the event of a transfer of ownership of The Paper Database, Inc., such as acquisition by or merger with another company. If such an acquisition will result in a material change to this privacy policy, you will be provided with notice and information about the choices you have before the transfer takes effect.
+We reserve the right to transfer your personal information in the event of a transfer of ownership of Collective Research, such as acquisition by or merger with another company. If such an acquisition will result in a material change to this privacy policy, you will be provided with notice and information about the choices you have before the transfer takes effect.
 
 * ### Security
 
@@ -71,8 +71,8 @@ privacy@cyberessays.com
 **By mail:**
 
 CyberEssays.com  
-127 S. Brand Blvd., Suite 109  
-Glendale, CA 91204 USA
+8939 1/2 Santa Monica Blvd  
+West Hollywood, CA 90069 USA
 
 * ### If You Are a Resident of California
 
@@ -87,10 +87,10 @@ If you are a California resident, in addition to the rights set forth above, you
 
 
 
-You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. Our designated email address for such requests is privacy@cyberessays.com.
+You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. Our designated email address for such requests is privacyCyber Essayscyberessays.com.
 
 * ### Changes
 
 We may update this Privacy Policy from time to time. Therefore, you should review this Policy periodically. If there are significant changes to our information practices, you will be provided with appropriate online notice. You may be provided other privacy-related information in connection with your use of offerings from us, as well as for special features and services not described in this Policy that may be introduced in the future.
 
-Last Updated 01-21-2009
+Last Updated: 03-21-2012
