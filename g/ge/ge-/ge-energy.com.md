@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ge-energy.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205111956id_/http%3A//www.ge-energy.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ge-energy.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510033842id_/http%3A//www.ge-energy.com/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy
 
@@ -10,7 +10,7 @@ PLEASE READ THIS PRIVACY POLICY ("PRIVACY POLICY" OR "POLICY") CAREFULLY BEFORE 
 
 3.  **What Type of Information Do We Collect?**
 
-(a) When you first visit one of our Sites we may ask that you register and provide us with information about you and your company including your name, company name, address, telephone and fax numbers, e-mail address, and other identity and contact information.
+(a) When you first visit one of our Sites, we may ask that you take certain action, like registering and/or subscribing to one of the Sites, and may request and/or require further information about you and your company, including, but not limited to, your name, your company’s name, address, telephone and facsimile number, email address and other identity and contact information.
 
 (b) If you use our services, request quotes for products through our Sites or otherwise make use of the Sites, we may ask you to provide further information, including but not limited to technical specifications, financial information, and other business-related information. When you visit our Sites, we may collect certain routing information such as the Internet Protocol address of your originating Internet Service Provider, and information provided by “cookies” stored on your hard drive. Cookies are small data files containing a unique identifier so that we can recognize you each time you return to our Sites, and which keep track of the pages you view on websites and which services you use. This information allows us to provide more tailored and user-friendly services.
 
