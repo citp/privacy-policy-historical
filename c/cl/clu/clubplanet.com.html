@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the clubplanet.com privacy policy that was archived on 2011-04-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110429192809id_/http%3A//www.clubplanet.com/aboutus/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the clubplanet.com privacy policy that was archived on 2012-05-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120511005951id_/http%3A//www.clubplanet.com/aboutus/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_ctl00_Head1"><title>
 	Clubplanet - Privacy
@@ -7,18 +7,17 @@
 
 
 
-<link rel="stylesheet" type="text/css" href="/Assets/css/Default.css">
 <link rel="stylesheet" type="text/css" href="/Assets/css/Classes.css">
-<link rel="stylesheet" type="text/css" href="/Assets/css/Layout.css">
 
 
 
 		
 
-		<script type="text/javascript" src="/Assets/JavaScript/ClubPlanet.js"></script>
-		<script type="text/javascript" src="/Assets/Javascript/loadUserControls.js"></script>
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/Assets/JavaScript/ClubPlanet.js"></script>
+        <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
 
         
+
 		
 	
     <style type="text/css">
@@ -37,44 +36,137 @@
         <!-- GOOGLE Analytics -->
         <script type="text/javascript">
             var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-74481-8']); _gaq.push(['_trackPageview']);
-            (function() {
-                var ga = document.createElement('script'); ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; ga.setAttribute('async', 'true');
-                document.documentElement.firstChild.appendChild(ga);
-            })();
-        </script><script src="https://ssl.google-analytics.com/ga.js" async="true"></script>
+
+            $(document).ready(function () {
+                var AdPageZone = document.getElementById("ctl00_ctl00_hidAdPageZone").value;
+                var GoogleAdPageZone = document.getElementById("ctl00_ctl00_hidGoogleAdPageZone").value;
+                var ShowAds = document.getElementById("ctl00_ctl00_hidShowAds").value;
+
+                if ($("#topLeaderBoard").length > 0) {
+                    TopLeaderBoard();
+                }
+                if ($("#bottomLeaderBoard").length > 0) {
+                    BottomLeaderBoard();
+                }
+                if ($("#topMedReq").length > 0) {
+                    TopMedReq();
+                }
+                if ($("#bottomMedReq").length > 0) {
+                    BottomMedReq();
+                }
+                if ($("#skyScrapper").length > 0) {
+                    SkyScrapper();
+                }
+
+                function TopLeaderBoard() {
+                    $.ajax({
+                        type: "POST",
+                        url: "/ads/topLeaderBoard.aspx?AdPageZone=" + AdPageZone + "&ShowAds=" + ShowAds, //Top banner File
+                        data: "",
+                        beforeSend: function () {
+                            $("div#topLeaderBoard").html('<span class="loading">Loading...</span>');
+                        },
+                        cache: false,
+                        success: function (data) {
+                            $("#topLeaderBoard").html(data);
+                        }
+                    });
+                }
+
+                function BottomLeaderBoard() {
+                    $.ajax({
+                        type: "POST",
+                        url: "/ads/BottomLeaderBoard.aspx?GoogleAdPageZone=" + GoogleAdPageZone + "&ShowAds=" + ShowAds,
+                        data: "",
+                        beforeSend: function () {
+                            $("div#bottomLeaderBoard").html('<span class="loading">Loading...</span>');
+                        },
+                        cache: false,
+                        success: function (data) {
+                            $("#bottomLeaderBoard").html(data);
+                        }
+                    });
+                }
+
+                function TopMedReq() {
+                    $.ajax({
+                        type: "POST",
+                        url: "/ads/TopMedReq.aspx?AdPageZone=" + AdPageZone + "&ShowAds=" + ShowAds,
+                        data: "",
+                        beforeSend: function () {
+                            $("div#topMedReq").html('<span class="loading">Loading...</span>');
+                        },
+                        cache: false,
+                        success: function (data) {
+                            $("#topMedReq").html(data);
+                        }
+                    });
+                }
+
+                function BottomMedReq() {
+                    $.ajax({
+                        type: "POST",
+                        url: "/ads/BottomMedReq.aspx?GoogleAdPageZone=" + GoogleAdPageZone + "&ShowAds=" + ShowAds,
+                        data: "",
+                        beforeSend: function () {
+                            $("div#bottomMedReq").html('<span class="loading">Loading...</span>');
+                        },
+                        cache: false,
+                        success: function (data) {
+                            $("#bottomMedReq").html(data);
+                        }
+                    });
+                }
+
+                function BottomMedReqHome() {
+                    $.ajax({
+                        type: "POST",
+                        url: "/ads/BottomMedReqHome.aspx", //Top banner File
+                        data: "",
+                        beforeSend: function () {
+                            $("div#bottomMedReqHome").html('<span class="loading">Loading...</span>');
+                        },
+                        cache: false,
+                        success: function (data) {
+                            $("#bottomMedReqHome").html(data);
+                        }
+                    });
+                }
+
+                function SkyScrapper() {
+                    $.ajax({
+                        type: "POST",
+                        url: "/ads/SkyScrapper.aspx", //Top banner File
+                        data: "",
+                        beforeSend: function () {
+                            $("div#skyScrapper").html('<span class="loading">Loading...</span>');
+                        },
+                        cache: false,
+                        success: function (data) {
+                            $("#skyScrapper").html(data);
+                        }
+                    });
+                }
+
+            });
+        </script>
         <!-- End Of GOOGLE Analytics -->
 		
+
 	</head>
 
 
   <body>
-
-
-      <script language="javascript" type="text/javascript">
-          // This function makes the wallpaper clickable when called from onclick event of the body
-          function bodyClick(evt) {
-              evt = (evt) ? evt : window.event;
-              var tagName;
-              var elementRef = (evt.srcElement) ? evt.srcElement : evt.target;
-
-              if (elementRef && (elementRef.tagName.toLowerCase() == "body" || elementRef.id == "innerMain")) {
-                  window.open("http://www.wantickets.com/Events/116281/Electric-Zoo-2010.aspx");
-              }
-          }
-
-         </script>
-
-        
         <form name="aspnetForm" method="post" action="/aboutus/privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTI5NzIzNzg3Mg9kFgJmD2QWAmYPZBYEAgEPZBYEAgIPFgIeB2NvbnRlbnQFeldvcmxkcyBsYXJnZXN0IG9ubGluZSBndWlkZSB0byBuaWdodGxpZmUsIG5pZ2h0Y2x1YiBsaXN0aW5ncywgZGFuY2UgY2x1YiBwcm9tb3Rpb25zLCBjbHViIHNlYXJjaCwgbmV3IHllYXJzLCB0aWNrZXQgc2FsZXMuZAIDDxYCHwAF6gFuaWdodGxpZmUsIG5pZ2h0bGlmZSBzdHlsZSwgbmlnaHQgY2x1YiwgbmV3IHllYXJzLCBuZXcgeWVhcnMgZXZlLCBuaXRlIGNsdWIsIG5pZ2h0Y2x1YiwgbmlnaHRjbHVicywgY2x1YmJpbmcsIG5pZ2h0IGNsdWIgcHJvbW90aW9ucywgY2x1YiBkYW5jZSwgY2x1YiBzZWFyY2gsIGRhbmNlIGNsdWJzLCAgYmFyLCBwYXJ0eSwgIHRlY2hubywgcmF2ZSwgZnJlZSBnYW1lcywgIHNwZWNpYWwgZXZlbnQsIHRpY2tldHNkAgMPFgIeBmFjdGlvbgUVL2Fib3V0dXMvcHJpdmFjeS5hc3B4FgYCBQ9kFgoCAg8PFgIeB1Zpc2libGVoZGQCBA9kFgJmD2QWAgIDDw9kFgQeB29uZm9jdXMFKmlmKHRoaXMudmFsdWUgPT0gJ1NlYXJjaCcpdGhpcy52YWx1ZSA9ICcnOx4Gb25ibHVyBStpZih0aGlzLnZhbHVlID09ICcnKSB0aGlzLnZhbHVlID0gJ1NlYXJjaCc7ZAIHDw8WAh4EVGV4dAUFTWlhbWlkZAIID2QWAmYPZBYCAgEPZBYEAgEPFgIeC18hSXRlbUNvdW50AhAWIAIBD2QWAgIBD2QWBGYPZBYCZg8VAgp1cy9BdGxhbnRhB0F0bGFudGFkAgEPZBYCAgEPDxYEHwUFB0F0bGFudGEeD0NvbW1hbmRBcmd1bWVudAUHQXRsYW50YWRkAgIPZBYCAgEPZBYEZg9kFgJmDxUCEHVzL0F0bGFudGljLUNpdHkNQXRsYW50aWMgQ2l0eWQCAQ9kFgICAQ8PFgQfBQUNQXRsYW50aWMgQ2l0eR8HBQ1BdGxhbnRpYyBDaXR5ZGQCAw9kFgICAQ9kFgRmD2QWAmYPFQIJdXMvQm9zdG9uBkJvc3RvbmQCAQ9kFgICAQ8PFgQfBQUGQm9zdG9uHwcFBkJvc3RvbmRkAgQPZBYCAgEPZBYEZg9kFgJmDxUCCnVzL0NoaWNhZ28HQ2hpY2Fnb2QCAQ9kFgICAQ8PFgQfBQUHQ2hpY2Fnbx8HBQdDaGljYWdvZGQCBQ9kFgICAQ9kFgRmD2QWAmYPFQIMdXMvTGFzLVZlZ2FzCUxhcyBWZWdhc2QCAQ9kFgICAQ8PFgQfBQUJTGFzIFZlZ2FzHwcFCUxhcyBWZWdhc2RkAgYPZBYCAgEPZBYEZg9kFgJmDxUCDnVzL0xvcy1BbmdlbGVzC0xvcyBBbmdlbGVzZAIBD2QWAgIBDw8WBB8FBQtMb3MgQW5nZWxlcx8HBQtMb3MgQW5nZWxlc2RkAgcPZBYCAgEPZBYEZg9kFgJmDxUCCHVzL01pYW1pBU1pYW1pZAIBD2QWAgIBDw8WBB8FBQVNaWFtaR8HBQVNaWFtaWRkAggPZBYCAgEPZBYEZg9kFgJmDxUCDnVzL05ldy1PcmxlYW5zC05ldyBPcmxlYW5zZAIBD2QWAgIBDw8WBB8FBQtOZXcgT3JsZWFucx8HBQtOZXcgT3JsZWFuc2RkAgkPZBYCAgEPZBYEZg9kFgJmDxUCC3VzL05ldy1Zb3JrCE5ldyBZb3JrZAIBD2QWAgIBDw8WBB8FBQhOZXcgWW9yax8HBQhOZXcgWW9ya2RkAgoPZBYCAgEPZBYEZg9kFgJmDxUCEHVzL09yYW5nZS1Db3VudHkNT3JhbmdlIENvdW50eWQCAQ9kFgICAQ8PFgQfBQUNT3JhbmdlIENvdW50eR8HBQ1PcmFuZ2UgQ291bnR5ZGQCCw9kFgICAQ9kFgRmD2QWAmYPFQIPdXMvUGhpbGFkZWxwaGlhDFBoaWxhZGVscGhpYWQCAQ9kFgICAQ8PFgQfBQUMUGhpbGFkZWxwaGlhHwcFDFBoaWxhZGVscGhpYWRkAgwPZBYCAgEPZBYEZg9kFgJmDxUCDXVzL1NhY3JhbWVudG8KU2FjcmFtZW50b2QCAQ9kFgICAQ8PFgQfBQUKU2FjcmFtZW50bx8HBQpTYWNyYW1lbnRvZGQCDQ9kFgICAQ9kFgRmD2QWAmYPFQIMdXMvU2FuLURpZWdvCVNhbiBEaWVnb2QCAQ9kFgICAQ8PFgQfBQUJU2FuIERpZWdvHwcFCVNhbiBEaWVnb2RkAg4PZBYCAgEPZBYEZg9kFgJmDxUCEHVzL1Nhbi1GcmFuY2lzY28NU2FuIEZyYW5jaXNjb2QCAQ9kFgICAQ8PFgQfBQUNU2FuIEZyYW5jaXNjbx8HBQ1TYW4gRnJhbmNpc2NvZGQCDw9kFgICAQ9kFgRmD2QWAmYPFQILdXMvU2FuLUpvc2UIU2FuIEpvc2VkAgEPZBYCAgEPDxYEHwUFCFNhbiBKb3NlHwcFCFNhbiBKb3NlZGQCEA9kFgICAQ9kFgRmD2QWAmYPFQIQdXMvV2FzaGluZ3Rvbi1EQw1XYXNoaW5ndG9uIERDZAIBD2QWAgIBDw8WBB8FBQ1XYXNoaW5ndG9uIERDHwcFDVdhc2hpbmd0b24gRENkZAIDDxYCHgRocmVmBQMvVVNkAgkPDxYEHhZDdXJyZW50QnJlYWRjcnVtYlRpdGxlBQdQcml2YWN5HhBDdXJyZW50UGFnZVRpdGxlBRRDbHVicGxhbmV0IC0gUHJpdmFjeWQWAmYPFgIfBQVpPGEgaHJlZj0iL1VTIj5VUzwvYT4gJmd0OyA8YSBocmVmPSIvVVMvTWlhbWkiPk1pYW1pPC9hPiAmZ3Q7IDxhIGhyZWY9Ii9hYm91dHVzIj5BYm91dCBVczwvYT4gJmd0OyBQcml2YWN5ZAIGD2QWAgIGD2QWAgICD2QWAmYPZBYCZg8WAh8GAgQWCAIBD2QWBgIBDw8WAh4LTmF2aWdhdGVVcmwFLC9BcnRpY2xlcy84OTM1L1RoZS1XZWVrZW5kLVBsYXlsaXN0LUFwcmlsLTI5ZBYCZg8PFggeBkhlaWdodBsAAAAAAABEQAEAAAAeBVdpZHRoGwAAAAAAAFJAAQAAAB4ISW1hZ2VVcmwFkwFodHRwOi8vZmlsZXMuY2x1YnBsYW5ldC5jb20vU2l0ZUZpbGVzL0dldEltYWdlLmFzaHg/aW1hZ2VGaWxlUGF0aD0lMmZTaXRlRmlsZXMlNWNBcnRpY2xlSW1hZ2VzJTVjODkzNSU1Y1RodW1iLmpwZyZtYXhXaWR0aD03MiZtYXhIZWlnaHQ9NDAmbWF4S2I9NTAeBF8hU0ICgANkZAIDDw8WAh8LBSwvQXJ0aWNsZXMvODkzNS9UaGUtV2Vla2VuZC1QbGF5bGlzdC1BcHJpbC0yOWQWAmYPFQEeVGhlIFdlZWtlbmQgUGxheWxpc3Q6IEFwcmlsIDI5ZAIEDxUBR1doZW4gRnJpZGF5IHJvbGxzIGFyb3VuZCB0aGVyZSdzIG9ubHkgb25lIHRoaW5nIG9uIGV2ZXJ5b25lJ3MgbWluZCwgdGhlZAICD2QWBgIBDw8WAh8LBSsvQXJ0aWNsZXMvOTAwMC9MYXRlLU5pdGUtQml0ZXMtNS1TdGFyLURpbmVyZBYCZg8PFggfDBsAAAAAAABEQAEAAAAfDRsAAAAAAABSQAEAAAAfDgWTAWh0dHA6Ly9maWxlcy5jbHVicGxhbmV0LmNvbS9TaXRlRmlsZXMvR2V0SW1hZ2UuYXNoeD9pbWFnZUZpbGVQYXRoPSUyZlNpdGVGaWxlcyU1Y0FydGljbGVJbWFnZXMlNWM5MDAwJTVjVGh1bWIuSlBHJm1heFdpZHRoPTcyJm1heEhlaWdodD00MCZtYXhLYj01MB8PAoADZGQCAw8PFgIfCwUrL0FydGljbGVzLzkwMDAvTGF0ZS1OaXRlLUJpdGVzLTUtU3Rhci1EaW5lcmQWAmYPFQEdTGF0ZSBOaXRlIEJpdGVzOiA1IFN0YXIgRGluZXJkAgQPFQFIQSB2aXNpdCB0byA1IFN0YXIgaXMgb25lIHRvIGJlIHJlbWVtYmVyZWQsIGFmdGVyIGFsbCwgaG93IGNhbiAxMCwwMDAgY2FiZAIDD2QWBgIBDw8WAh8LBS0vQXJ0aWNsZXMvODkwNS9EaWd3ZWVkLVJldHVybnMtdG8tU291dGgtQmVhY2hkFgJmDw8WCB8MGwAAAAAAAERAAQAAAB8NGwAAAAAAAFJAAQAAAB8OBZMBaHR0cDovL2ZpbGVzLmNsdWJwbGFuZXQuY29tL1NpdGVGaWxlcy9HZXRJbWFnZS5hc2h4P2ltYWdlRmlsZVBhdGg9JTJmU2l0ZUZpbGVzJTVjQXJ0aWNsZUltYWdlcyU1Yzg5MDUlNWNUaHVtYi5qcGcmbWF4V2lkdGg9NzImbWF4SGVpZ2h0PTQwJm1heEtiPTUwHw8CgANkZAIDDw8WAh8LBS0vQXJ0aWNsZXMvODkwNS9EaWd3ZWVkLVJldHVybnMtdG8tU291dGgtQmVhY2hkFgJmDxUBHkRpZ3dlZWQgUmV0dXJucyB0byBTb3V0aCBCZWFjaGQCBA8VAURKb2huIERpZ3dlZWQgcmV0dXJucyB0byBTb3V0aCBCZWFjaCBvbiBTdW5kYXksIE1heSA4dGggdG8gcGxheSBTRVQnc2QCBA9kFgYCAQ8PFgIfCwUeL0FydGljbGVzLzkwMjcvSS1MaWtlLVlvdXItR3VuZBYCZg8PFggfDBsAAAAAAABEQAEAAAAfDRsAAAAAAABSQAEAAAAfDgWTAWh0dHA6Ly9maWxlcy5jbHVicGxhbmV0LmNvbS9TaXRlRmlsZXMvR2V0SW1hZ2UuYXNoeD9pbWFnZUZpbGVQYXRoPSUyZlNpdGVGaWxlcyU1Y0FydGljbGVJbWFnZXMlNWM5MDI3JTVjVGh1bWIuanBnJm1heFdpZHRoPTcyJm1heEhlaWdodD00MCZtYXhLYj01MB8PAoADZGQCAw8PFgIfCwUeL0FydGljbGVzLzkwMjcvSS1MaWtlLVlvdXItR3VuZBYCZg8VAQ9JIExpa2UgWW91ciBHdW5kAgQPFQFDSSBoYWQgdGhlIGJlc3QgYXNzYXNzaW4gY29zdHVtZSBhbmQgdGhlIGhvdHRlc3QgZGF0ZSB0aGF0IG5pZ2h0IGZvcmQCCA9kFgICBA9kFgJmDxYCHwgFPmh0dHA6Ly93d3cuZmFjZWJvb2suY29tL3BhZ2VzL0NsdWJQbGFuZXRjb20tTWlhbWkvMzMwODc1MTMxMjg4ZBgQBT1jdGwwMCRjdGwwMCRIZWFkZXIxJGN0bDAwJGN0bDAwJHJwdExpbmtzJGN0bDA1JG12UG9wdWxhclpvbmVzDw9kZmQFPWN0bDAwJGN0bDAwJEhlYWRlcjEkY3RsMDAkY3RsMDAkcnB0TGlua3MkY3RsMDEkbXZQb3B1bGFyWm9uZXMPD2RmZAU9Y3RsMDAkY3RsMDAkSGVhZGVyMSRjdGwwMCRjdGwwMCRycHRMaW5rcyRjdGwwNyRtdlBvcHVsYXJab25lcw8PZGZkBT1jdGwwMCRjdGwwMCRIZWFkZXIxJGN0bDAwJGN0bDAwJHJwdExpbmtzJGN0bDA4JG12UG9wdWxhclpvbmVzDw9kZmQFPWN0bDAwJGN0bDAwJEhlYWRlcjEkY3RsMDAkY3RsMDAkcnB0TGlua3MkY3RsMDMkbXZQb3B1bGFyWm9uZXMPD2RmZAU9Y3RsMDAkY3RsMDAkSGVhZGVyMSRjdGwwMCRjdGwwMCRycHRMaW5rcyRjdGwxNSRtdlBvcHVsYXJab25lcw8PZGZkBT1jdGwwMCRjdGwwMCRIZWFkZXIxJGN0bDAwJGN0bDAwJHJwdExpbmtzJGN0bDA5JG12UG9wdWxhclpvbmVzDw9kZmQFPWN0bDAwJGN0bDAwJEhlYWRlcjEkY3RsMDAkY3RsMDAkcnB0TGlua3MkY3RsMTIkbXZQb3B1bGFyWm9uZXMPD2RmZAU9Y3RsMDAkY3RsMDAkSGVhZGVyMSRjdGwwMCRjdGwwMCRycHRMaW5rcyRjdGwxMCRtdlBvcHVsYXJab25lcw8PZGZkBT1jdGwwMCRjdGwwMCRIZWFkZXIxJGN0bDAwJGN0bDAwJHJwdExpbmtzJGN0bDEzJG12UG9wdWxhclpvbmVzDw9kZmQFPWN0bDAwJGN0bDAwJEhlYWRlcjEkY3RsMDAkY3RsMDAkcnB0TGlua3MkY3RsMDIkbXZQb3B1bGFyWm9uZXMPD2RmZAU9Y3RsMDAkY3RsMDAkSGVhZGVyMSRjdGwwMCRjdGwwMCRycHRMaW5rcyRjdGwxNiRtdlBvcHVsYXJab25lcw8PZGZkBT1jdGwwMCRjdGwwMCRIZWFkZXIxJGN0bDAwJGN0bDAwJHJwdExpbmtzJGN0bDA0JG12UG9wdWxhclpvbmVzDw9kZmQFPWN0bDAwJGN0bDAwJEhlYWRlcjEkY3RsMDAkY3RsMDAkcnB0TGlua3MkY3RsMTEkbXZQb3B1bGFyWm9uZXMPD2RmZAU9Y3RsMDAkY3RsMDAkSGVhZGVyMSRjdGwwMCRjdGwwMCRycHRMaW5rcyRjdGwwNiRtdlBvcHVsYXJab25lcw8PZGZkBT1jdGwwMCRjdGwwMCRIZWFkZXIxJGN0bDAwJGN0bDAwJHJwdExpbmtzJGN0bDE0JG12UG9wdWxhclpvbmVzDw9kZmTHWq0g55PQ7PBIGGGl4BoXGRkRzg==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTgyNjA4NDE3MQ9kFgJmD2QWAmYPZBYEZg9kFgQCAg8WAh4HY29udGVudAV6V29ybGRzIGxhcmdlc3Qgb25saW5lIGd1aWRlIHRvIG5pZ2h0bGlmZSwgbmlnaHRjbHViIGxpc3RpbmdzLCBkYW5jZSBjbHViIHByb21vdGlvbnMsIGNsdWIgc2VhcmNoLCBuZXcgeWVhcnMsIHRpY2tldCBzYWxlcy5kAgMPFgIfAAXqAW5pZ2h0bGlmZSwgbmlnaHRsaWZlIHN0eWxlLCBuaWdodCBjbHViLCBuZXcgeWVhcnMsIG5ldyB5ZWFycyBldmUsIG5pdGUgY2x1YiwgbmlnaHRjbHViLCBuaWdodGNsdWJzLCBjbHViYmluZywgbmlnaHQgY2x1YiBwcm9tb3Rpb25zLCBjbHViIGRhbmNlLCBjbHViIHNlYXJjaCwgZGFuY2UgY2x1YnMsICBiYXIsIHBhcnR5LCAgdGVjaG5vLCByYXZlLCBmcmVlIGdhbWVzLCAgc3BlY2lhbCBldmVudCwgdGlja2V0c2QCAQ8WAh4GYWN0aW9uBRUvYWJvdXR1cy9wcml2YWN5LmFzcHgWBAICD2QWBgIBD2QWAgIBD2QWAmYPZBYCAgMPD2QWBB4Hb25mb2N1cwUqaWYodGhpcy52YWx1ZSA9PSAnU2VhcmNoJyl0aGlzLnZhbHVlID0gJyc7HgZvbmJsdXIFK2lmKHRoaXMudmFsdWUgPT0gJycpIHRoaXMudmFsdWUgPSAnU2VhcmNoJztkAgIPDxYEHhZDdXJyZW50QnJlYWRjcnVtYlRpdGxlBQdQcml2YWN5HhBDdXJyZW50UGFnZVRpdGxlBRRDbHVicGxhbmV0IC0gUHJpdmFjeWQWAmYPFgIeBFRleHQFbzxhIGhyZWY9Ii9VUyI+VVM8L2E+ICZndDsgPGEgaHJlZj0iL1VTL05ldy1Zb3JrIj5OZXcgWW9yazwvYT4gJmd0OyA8YSBocmVmPSIvYWJvdXR1cyI+QWJvdXQgVXM8L2E+ICZndDsgUHJpdmFjeWQCAw8PFgIeB1Zpc2libGVoZGQCAw9kFgICAw9kFgICAQ9kFgJmD2QWAmYPFgIeC18hSXRlbUNvdW50AgQWCAIBD2QWBgIBDw8WAh4LTmF2aWdhdGVVcmwFOC9BcnRpY2xlcy8xMDA2MS9BYm92ZS1hbmQtQmV5b25kLUdyb3VwLVRoZXJhcHktVG91ci1QdC0yZBYCZg8PFggeBkhlaWdodBsAAAAAAABEQAEAAAAeBVdpZHRoGwAAAAAAAFJAAQAAAB4ISW1hZ2VVcmwFoAFodHRwOi8vZmlsZXMuY2x1YnBsYW5ldC5jb20vU2l0ZUZpbGVzL0dldEltYWdlLmFzaHg/aW1hZ2VGaWxlUGF0aD0lMmZTaXRlRmlsZXMlNWNBcnRpY2xlSW1hZ2VzJTVjMTAwNjElNWM1QSUyNkJzdW4tNDk4ODE1MC5qcGcmbWF4V2lkdGg9NzImbWF4SGVpZ2h0PTQwJm1heEtiPTUwHgRfIVNCAoADZGQCAw8PFgIfCQU4L0FydGljbGVzLzEwMDYxL0Fib3ZlLWFuZC1CZXlvbmQtR3JvdXAtVGhlcmFweS1Ub3VyLVB0LTJkFgJmDxUBJkFib3ZlICYgQmV5b25kIEdyb3VwIFRoZXJhcHkgVG91ciBQdCAyZAIEDxUBREFib3ZlICYgQmV5b25kIHJldHVybiBmb3IgYW5vdGhlciBhbWF6aW5nIHRvdXIgZm9yIHRoZWlyIGFsYnVtIEdyb3VwZAICD2QWBgIBDw8WAh8JBTMvQXJ0aWNsZXMvMTAwNjAvTGlzdGVuLXVwLVYtTU9EQS1IZWFkcGhvbmUtR2l2ZWF3YXlkFgJmDw8WCB8KGwAAAAAAAERAAQAAAB8LGwAAAAAAAFJAAQAAAB8MBaYBaHR0cDovL2ZpbGVzLmNsdWJwbGFuZXQuY29tL1NpdGVGaWxlcy9HZXRJbWFnZS5hc2h4P2ltYWdlRmlsZVBhdGg9JTJmU2l0ZUZpbGVzJTVjQXJ0aWNsZUltYWdlcyU1YzEwMDYwJTVjNDZWLU1vZGFfbG9nb19ia2dyb3VuZDIuanBnJm1heFdpZHRoPTcyJm1heEhlaWdodD00MCZtYXhLYj01MB8NAoADZGQCAw8PFgIfCQUzL0FydGljbGVzLzEwMDYwL0xpc3Rlbi11cC1WLU1PREEtSGVhZHBob25lLUdpdmVhd2F5ZBYCZg8VASRMaXN0ZW4gdXAhIFYtTU9EQSBIZWFkcGhvbmUgR2l2ZWF3YXlkAgQPFQFKUmVhZCBmdXJ0aGVyIHRvIGZpbmQgb3V0IGhvdyB0byB3aW4gYSBmcmVlIHBhaXIgb2Ygc3R5bGlzaCBhbmQgc2V4eSB2LW1vZGFkAgMPZBYGAgEPDxYCHwkFKS9BcnRpY2xlcy8xMDA1OC9Nb3ZlLWZvci1Nb3ZlbWVudC1EZXRyb2l0ZBYCZg8PFggfChsAAAAAAABEQAEAAAAfCxsAAAAAAABSQAEAAAAfDAWUAWh0dHA6Ly9maWxlcy5jbHVicGxhbmV0LmNvbS9TaXRlRmlsZXMvR2V0SW1hZ2UuYXNoeD9pbWFnZUZpbGVQYXRoPSUyZlNpdGVGaWxlcyU1Y0FydGljbGVJbWFnZXMlNWMxMDA1OCU1YzgxMTUwLmpwZyZtYXhXaWR0aD03MiZtYXhIZWlnaHQ9NDAmbWF4S2I9NTAfDQKAA2RkAgMPDxYCHwkFKS9BcnRpY2xlcy8xMDA1OC9Nb3ZlLWZvci1Nb3ZlbWVudC1EZXRyb2l0ZBYCZg8VARlNb3ZlIGZvciBNb3ZlbWVudCBEZXRyb2l0ZAIEDxUBSlRoZXJlIGlzIG5vIG5lZWQgdG8gaGF2ZSBhIGJvcmluZyBhbmQgdW5ldmVudGZ1bCBNZW1vcmlhbCBEYXkgV2Vla2VuZCB0aGlzZAIED2QWBgIBDw8WAh8JBVUvQXJ0aWNsZXMvMTAwNTYvQ2x1YnBsYW5ldC1FeGNsdXNpdmUtU2NyYXRjaGluZy13aXRoLVRoYXQtRGVhZi1ESi1Sb2JiaWUtV2lsZGUtYXQtRHViZBYCZg8PFggfChsAAAAAAABEQAEAAAAfCxsAAAAAAABSQAEAAAAfDAWUAWh0dHA6Ly9maWxlcy5jbHVicGxhbmV0LmNvbS9TaXRlRmlsZXMvR2V0SW1hZ2UuYXNoeD9pbWFnZUZpbGVQYXRoPSUyZlNpdGVGaWxlcyU1Y0FydGljbGVJbWFnZXMlNWMxMDA1NiU1Yzk3MTUwLmpwZyZtYXhXaWR0aD03MiZtYXhIZWlnaHQ9NDAmbWF4S2I9NTAfDQKAA2RkAgMPDxYCHwkFVS9BcnRpY2xlcy8xMDA1Ni9DbHVicGxhbmV0LUV4Y2x1c2l2ZS1TY3JhdGNoaW5nLXdpdGgtVGhhdC1EZWFmLURKLVJvYmJpZS1XaWxkZS1hdC1EdWJkFgJmDxUBSkNsdWJwbGFuZXQgRXhjbHVzaXZlOiBTY3JhdGNoaW5nIHdpdGggVGhhdCBEZWFmIERKIFJvYmJpZSBXaWxkZSBhdCBEdWJzcG90ZAIEDxUBTVJvYmJpZSBXaWxkZSBoYXMgdGhlIHBocmFzZSDigJxPdXQgb2YgT3JkZXLigJ0gdGF0dG9vZWQgYmVoaW5kIGhpcyByaWdodCBlYXIuZGQBlo9amsTBlsPWU9LwIOogjZHlWh1PwmuqKKfmZ5Y9Bw==">
 
 
 <script type="text/javascript">
 //<![CDATA[
 function SearchClubPlanet() {
-    var criteria = document.getElementById('ctl00_ctl00_Header1_SearchBar1_txtCriteria').value; 
+    var criteria = document.getElementById('ctl00_ctl00_Header1_MainMenu1_SearchBar1_txtCriteria').value; 
     if(criteria == 'Search' || criteria == '') { 
-        document.getElementById('ctl00_ctl00_Header1_SearchBar1_txtCriteria').style.backgroundColor = '#EFCF8C'
+        document.getElementById('ctl00_ctl00_Header1_MainMenu1_SearchBar1_txtCriteria').style.backgroundColor = '#EFCF8C'
         return false;
     } 
     window.open('/SiteSearch.aspx?cx=008183685107203223017%3Aumqodczholq&q=' + encodeURI(criteria) + '&cof=FORID%3A11&ie=utf-8&oe=utf-8#1372','_self');
@@ -82,21 +174,22 @@ function SearchClubPlanet() {
 //]]>
 </script>
 
-<script src="/ScriptResource.axd?d=m4fqKMkgY5rkXX0PSJTJgbKv6Zqw-AHOWCzmMeTHelmFyu2GzqeD3KcgkMnigWcxlXUHqYd0e1iFS6Nea3nIdjeirtVWRUls1ME0UxNPkbxk3LJEZLg32KaE-VxM0eUehvkorOKqOPwrvJOuc9QD7lHxuAE1&amp;t=65bada6e" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=EqVkWcGjgnVdy31W5GpdydQTRwgTJlwzSIdrdsCd17awWue09a8yrCvIB8G-WFrMqqV5XDqTrdNXYvH0VkZO_UJzBvALWzZhLrQQinMt-gMri5gw-rNoq1An4rUk2DEbZpotyyzVsEe47XauW7B8hzCEtlQ1&amp;t=41a5b0a3" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=UlsmuZjDkZKOdTaSauKPiphCAovVAwjNyDZIv8-Yq6gmbU0n2H2xkbT1OL220r8dOE49gBoPsC0vBZYAdu95LEsboXNOU7uZlkqbkO74vj1X-GkDQknP5mpyiLCMBGOEeaCQYrBYPO3_6ortK48GaZuTQz01&amp;t=41a5b0a3" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=V43kP5G90zVDhfszKR2HUhU0jkL-DmIro5lr8YmmPvc09DcHs9CiSKgQLPxeeuk_U3ftOcsRDgAsqkLVgK0LnxuhWielarkVXJDr9GdfdHu21TlzXIGeP-fQ5QdLbgwxctXM5eMV6iMuKKNEwjhIT_R54899AATL8ZuB31YTr8zvhp3M0&amp;t=41a5b0a3" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=EGIwd-B_ZkD8JwL0ekJPtmrnb62ia6KlgHqQqOIglWC4jyUsYJzVygSlUI5HFZ_0MrpltAqIcv7qyKok2uyZZBgcMIty0cZGMZpu5F32NKEZxIxL5fbfcYrdkXmDlOiFZnK_v3OjkQkdm6PB0hQdjpP5OsY1&amp;t=41a5b0a3" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=I1-011QWpHHTTdy_1e3XdHQzASn1Xi4QGtJvwXjGacUbu_mhjiWpUWxZb1VOvf923K0thCleohfG62bg3cFkyNZf5JMfcfFLnw8PhF87yckZ8PFabOa4JEyZ3j83vVJjUaftWnPSuxMmveCipVEehmPlkPs1&amp;t=41a5b0a3" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=L4gn88adwDuvdo7u2iQWBWGLrowZT_ibSRgXoofLCU4TRT9zNGOcWjuOvPcN2kCXXOZhN8TaPR-U44Q9YSpGVfw5WDndTyRrIgrOXo61sgVNBp9okEYtREIWGGVm1g4xq3H5JiAxPQviN_O6eaZuIk-YUtxbUtXOguYTpfOGt00foQ340&amp;t=41a5b0a3" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=KkKaUujup_rx_qzebD1JzViWHNwIdBUfOoOJ1XjJabX2QSGoa92fyEA-seO-6_qHjl8eKzjuebKcfKLmcT7-u-DTlbsaUe-zg0bFe5dtugIMiQi68ruKPmvtsw9RZxyJUz0GTy_gjUukzSl3V7piU09n95Y8gOt9PeBU20CWL_LTLp8p0&amp;t=41a5b0a3" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=J4r_2AE9NesyC1cTfrLYxOEIxKoQriu6NArWXbhEH2MqBiCikL0MFxDEFoPCu5Zj1XZIPJLVddajKhgEGWWNOQskvGwdy616HoLZqhU6aoJaxjAcmuQ3EblkunspTEN9wYmpdwvPLFiBBOLQF1r-cqHQEVUpP1r12SlgS3x3wP0ghl7v0&amp;t=41a5b0a3" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=NgHz1owQhp7hdi9B31KAG2IPcVrpj-23rWnKJYAkUc3yc4RZ-oLnWhnvSAnRmZOLKtFajzjmPgXLlUCtnZUTFeTsMORmYTQ7g0zA_qjLFY49U8YcqmAjvqcynqGyKQsHAShDPSA7T2wRR8Ud5TrXyfc62LNBq2HQVFVhFkjpGNI_TwyJ0&amp;t=41a5b0a3" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=Y_fOgi84xL0w8CDehWsiVbW9CF_aaQ_eQUDaHYe_3ymOIH9Kq8bg5u3XNbcLVS4vP23Lwdv_1cAu0JmZ32Y-Vrqu3wbLl7pTzinEWnrWtEZAMvL_cdpj77N8rmKKy8COPalmnX955xfF7YduyinoWsjcPno1&amp;t=41a5b0a3" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=qGVaZGgGfQyVMC17t6iL_ivfg3hiYLymtpmjA_uispKEYAnH1BbhPBSyqJuDVqw6rt3x5wXjJYG_Rg0CQac1NKLxsjVi3_FIB_1XL0R-qv5eedRSnePeNfmuLCc_bixY2TEzXoSMTj5hCcLIEuCG5eCO1sg1&amp;t=41a5b0a3" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=QYpAQNm5Hm_9wWMZRgDEVLXgazoc-rtcM8zyBtMsq6DLFp2g2OYIPbc6H4EnbxzzP89r4hi8rQwF4LPeA9UlrnI9PRjVYYUpSqikYlo8EUjRIOAEcASVxhzEKP-wZqGtsMHWUM3MohGKkmO2YuVcf9UNPDM1&amp;t=41a5b0a3" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=o8tDn3nA2fZdh9zv3gQuBkRhmt-2rGfq20mNh-h9mgZkGdjPCIu6Uig1YzOXcDqaFl0xDasXyTBc6yLuYnc_By39M6twFTeAUx6d2KpTw_wbQXTuYzlBYQfSUzFJOMio25VvxwTfbPMUQi2eOZxVDbjsIDo1&amp;t=41a5b0a3" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=woGgGXRCUBL_bTl-tjU7WboFABylA0earyXOtgCS88pHmEVpPToKXKBR6iCfh_9gCc0wi_ErDqnSSKxvRB1c4xPpDlox4fJzZby5X9a7l3hfaFItajEUTKI6WsHPrBjhaVdAAe8YxvhiWnbTOf6HDO9rvMU1&amp;t=41a5b0a3" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=RAfM3TLInMUYIgk1qAqpVdxZ4WmYHNlA5raqdnBSKsCOI0L8RkzY-76awkmFnfgahhrL-dB7o4KHqf29k7pTPmcI5fbpiCLjxuRXAnvNaetUg4pP_hGRvzeimEdtlwCTewWr0UA8T52hsnJessrSqssJOW1yfWCbgPyWx7un3aZKMzUSuSDg4AvrEYfGeHpq0&amp;t=ffffffff940d030f" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=nrda45We8Dk8AYoYUrzINRuGmD6HwyexA_ZBP7vzTjrq0tCyLsyMTXSJqngh9SHr1V7xldOPCEur1tbGyKXMvk0M8-GwhzmSOBuoYBsoZH6Qr3IUkBZKRyNTMjZsjbro6peeH6P8Ri7IHyJQ5530O8t_xBeNwkuOGhoOzLUbquc1&amp;t=ffffffffd2a9b7c7" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=9LAw3O2CojlU4H00ul1Vz9yOdOBtAY5mSqhR3xSg7ZQrRt8bau-OZmz9EoMWqMQD1ytnB3rMaFWblLWjg5oIoBfLmL0Syby06JmlrbyQNj_t2bJtdzlHa8tgyP5LgNWRdAZhUAbsWyYnOOk8nsDyXuWXCvRtWUzNW6Ov3YkFXpo1&amp;t=ffffffffd2a9b7c7" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=-w6Yfg3tUnr-LHvX7dMbHh2y3TlkWbpeVZO6uNE7ERTo-V1aSwCktxRIlIUrIcc_jwAvo-vIdwiclbIJQLGjAADSU1Cj7M51_llLHVC53iZST3apVdJqUc6d0qKMgL6Cb_nazXB534dFVOzEItxch7csG1VFt6_7bSWTTsWAT8JGWhD1EJTJyg96idMlncDn0&amp;t=ffffffffd2a9b7c7" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=18Qoz9VimxtfP9_IPxQSho5CfWzJKpuccLXOwBWI1Wm0oVpVG7VoTg84EEpfDwMhVHdy-Q6v4Q3fDs5Vk0M9cysSyZHWPsb_5QjXLrRkLUL8d79B-rzMS73ZEEWswZA0k0D0ff2uS0NpDZO0we5H4S3WZXc5j99zX7LZpe1zTC81&amp;t=ffffffffd2a9b7c7" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=vFJMAXmQJP6JTFGTnVftIBG9Y96MJKMqUsYHUuqHcvZbRcAr089p1xFyEzumZSO8zd7dKAmxK53zgc5GLhVyCm6Y9VNeIEx4hD7JfznoodUrUyxUAVN2YcuspqRpck_kadIBQigwSEXwkTNcikTb0LTKjhozSrYtCHUZ2fkorgtPNknfREZqTWMn-O9RMb7c0&amp;t=ffffffffd2a9b7c7" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=976Ebwvh4T4fg9Z8V-4Kvz2wcO-e418R2t1VEy8E9G9hhCF1AmZYQIem1k0Cw0zjdkdVdN6maD9p1_ub1vlrywSL6LOUCV6JPoeNlHEoN7_iWnoOkWFtS8X_amCaEXrcoMEFmAenYSM_ojLZxPuXkJ7oVy_q1FV3ySNpCkxbbwyW7QCP5kPhogmlZJwfxXgXgjUAzfTUmhsfzkkb9UM5Tg2&amp;t=ffffffffd2a9b7c7" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=L21SEnH1nD2oW8mRq-N4MGmfdRA5y1VzE6-LTmbiE6YJVFRpkC1gbjzLhLAP-VZBi_yF14eAtb8S1pmlbYh0AE_X2GES-fGg1jthOIBaPREBVmtY4dn7NKlzSJ0r69kJZGvXti4Jl0hx4fk9D0plNTTY-VNtWwRtDypXMR4nc6w9-G3n_Rx5544SjGsB5vTa0&amp;t=ffffffffd2a9b7c7" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=UJOdxFwhAd3I0jdw5YKuRb_44zJywr7SCfb2sMCsAJ6l48oewz6hcKfFXJFfnVQBHz2FFQrGLGP3obyLue_vV-9MUz867bLO5XC8Rn3Z3CYUy1MDe48LNLXMzVQOmc5pWSqYR4lsxwIBXcZetsUIczuvwfzfWdKJINfl3ZnzBWK3RIl4UQa2yfaDuwHuVsjK0&amp;t=ffffffffd2a9b7c7" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=DCqgjrU3hDW5fkmpCZ7mtJrznSdh6hV7L2quIE7RrPbmIBQ8OWV6KALbDKZcP6qS-FWPMIRu9epeD4eja4eekB3IP8tEjWsR0XpjtuPEg62rooKraxCyYF6ZrU4yXKTAo6PSPMn3yhOJID-17upJj7U3HbYHcsLcL3RPiuuujYRCVxzs5hpqLa6ZAlKcdhWo0&amp;t=ffffffffd2a9b7c7" type="text/javascript"></script>
 			
 			
 			
@@ -129,26 +222,15 @@ function SearchClubPlanet() {
 			    }
 
             </script>
-            <a id="ctl00_ctl00_lnkModalPopupTrigger" href="javascript:__doPostBack('ctl00$ctl00$lnkModalPopupTrigger','')" style="display:none;"></a>
-            
-            <div id="ctl00_ctl00_pnlPopup" class="popup" style="display:none;">
-	
-                <div id="ctl00_ctl00_pnlDragger" class="title">
-		
-                    <div id="ModalPopupHeader" class="text"><!-- --></div>
-                    <a id="ctl00_ctl00_lnkPopupClose" class="close" href="javascript:__doPostBack('ctl00$ctl00$lnkPopupClose','')"></a>
-                
-	</div>
-                <div id="ModalPopupBody" class="Content">
-                    <iframe frameborder="0" marginheight="0" marginwidth="0" id="ModalPopupBoxIframe" name="ModalPopupBoxIframe"></iframe>
-                </div>
-            
-</div>
-
          <div id="main">
-				<div id="innerMain">
+                <div id="innerMain">
+
+                     
                 	<div id="wrapper">
-					
+				      
+                    
+                     
+				    
 
 
 					    <div id="header" style="position:relative;">
@@ -161,96 +243,45 @@ function SearchClubPlanet() {
      
         <div id="socialNetworkingLinks">
             <span>Follow us on</span>&nbsp;&nbsp;
-            <a href="http://twitter.com/clubplanet" title="Twitter" target="_blank"><img src="/assets/images/icons/TwitterSmall.png" alt="Twitter"></a>&nbsp; <span>|</span> &nbsp;
-            <a href="http://www.facebook.com/pages/wwwclubplanetcom/40249033921" target="_blank" title="Facebook"><img style="position:relative; bottom:3px;" src="/assets/images/icons/FacebookSmall.png" alt="Facebook"></a>&nbsp; <span>|</span> &nbsp;
-            <a href="http://itunes.apple.com/us/app/clubplanet-com/id372647504?mt=8" target="_blank" title="Download iPhone App"><img src="/assets/images/icons/IPhone.png" alt="CP Iphone App"></a>
+            <img src="/assets/images/icons/SocialNetworkSprite.png" alt="Twitter" usemap="#socialnetwork" width="50px;" height="25px;">
+            <map name="socialnetwork">
+                <area shape="rect" coords="0, 0 ,25, 25" href="http://twitter.com/clubplanet" alt="twitter" target="_blank">
+                <area shape="rect" coords="25, 0 ,50, 25" href="http://www.facebook.com/pages/wwwclubplanetcom/40249033921" alt="facebook" target="_blank">
+            </map>
         </div>
-        
-        
-		
-		<div id="facebookLogin">    	
-		    
 
-
-<div>
-	<iframe scrolling="no" frameborder="0" border="0" style="border: none; background-color: Transparent;" src="/includes/Facebook/FacebookLogin.aspx?buttonType=small&amp;buttonLength=short&amp;linkText=" width="20" height="20" allowtransparency="true"></iframe>
-</div>
-
-    	</div>	 
-		
 	    <div id="loginBox">
 	    
-            <div id="ctl00_ctl00_Header1_pnlLogin">
+            <div id="ctl00_ctl00_Header1_pnlLeader">
 	
-                 <div id="loginLink" style="float:left;">
-                    <a onclick="showLoginPopup()" href="javascript:void(0);">Login</a>&nbsp;&nbsp;<span class="separator">|&nbsp;&nbsp;</span>
-                    
-                    <a href="/ForgotPassword.aspx">Forgot Password?</a>&nbsp;&nbsp;<span class="separator">|&nbsp;&nbsp;</span>
-                   <a href="/LoginMessagePage.aspx">Join!</a>&nbsp;
+                
+
+                <div id="leaderBoard">
+                    <!-- DO NOT REMOVE THIS DIV. TOP AD IS LOADED DYNAMICALLY BASED ON THIS ID -->
+                    <div id="topLeaderBoard"></div>
+                </div>
+
+                
+                <div class="clear">
                 </div>
             
 </div>
-
-		    
-		    
+            
+            <a href="/US/New-York/" title="New York Nightlife Directory" target="_top" id="topBannerLink"></a>
+            
+            <div class="Clear"></div>
+       
 	    </div>
 
-         
-        
     </div>
 
     <div class="Clear"></div>
     
-    <div id="ctl00_ctl00_Header1_pnlLeader">
-	
-	    <div style=" position:relative; z-index:1; padding-top:15px;">
-	    <div id="leaderBoard">
-             <iframe scrolling="no" frameborder="0" src="/Services/Handlers/AdHandler.ashx?adType=LeaderBoard" height="90" width="728">
-
-	</iframe>
-		</div>
-         
-       
-	    </div>
-	  
     
-</div>
 
     
     <div id="banner">
-	    <a href="/US/Miami/" title="Home" target="_top" id="topBannerLink"> </a>
-
-	    <div id="eventVenueLink" style="margin-left:320px; margin-top:45px;">
-        
-            <div class="AddEvents">
-                <a href="/events/addeditevent.aspx"><span>+ </span>add event</a>    
-            </div>
-            <div class="AddVenues">
-                <a href="/venues/addeditvenue.aspx"><span>+ </span>add venue</a>    
-            </div>
-                    
-		</div>
-        <div id="weeklyNL">
-            <a href="/MemberSignup.aspx" title="Weekly newsletter"> 
-                <img src="/Assets/Images/Backgrounds/WeeklyNL.jpg" alt="Weekly newsletter">
-            </a>
-        </div>
-        <div class="Clear"></div>
-     
-	    <div id="searchBar">
-           <div id="ctl00_ctl00_Header1_SearchBar1_pnlSearch">
-	
-<img src="../Assets/Images/Backgrounds/Search.jpg" id="ctl00_ctl00_Header1_SearchBar1_Img1">
-       <input name="ctl00$ctl00$Header1$SearchBar1$txtCriteria" type="text" value="Search" id="ctl00_ctl00_Header1_SearchBar1_txtCriteria" class="Input" onfocus="if(this.value == 'Search')this.value = '';" onblur="if(this.value == '') this.value = 'Search';">
-      <input type="submit" name="ctl00$ctl00$Header1$SearchBar1$btnSearch1" value="GO" onclick="SearchClubPlanet(); return false;" id="ctl00_ctl00_Header1_SearchBar1_btnSearch1" class="Buttons">
-    
-
-</div>
-
-	    </div>
-    	<div id="googleImage">
-    	<img src="../Assets/Images/Headers/GoogleImage.jpg" id="ctl00_ctl00_Header1_img1">
-    	</div>
+        <a href="/US/New-York/" title="New York Nightlife Directory" target="_top" id="topBannerLink"></a>
     </div>
 </div>
 
@@ -259,76 +290,75 @@ function SearchClubPlanet() {
         <div id="menu">
 	        
 
-
 <ul class="menu">
 <li>
-    <a id="lnkClubSearch" href="/US/Miami/venues" target="_top" onmouseover="menuLinkOver(this)" onmouseout="menuLinkOut(this)">Clubs</a>
+    <a id="lnkClubSearch" href="/US/New-York/venues?city=New-York" target="_top" onmouseover="menuLinkOver(this)" onmouseout="menuLinkOut(this)">Clubs</a>
     <ul onmouseover="menuLinkOver(this)" onmouseout="menuLinkOut(this)" style="width:600px; height:285px; border-left:none;">
         <li>
             <div class="submenu clubs">
                 <div class="header">BEST CLUBS</div>
-                <div><a title="Exlusive Clubs" href="/venues/VenueSearchResults.aspx?f_VenueType=Tough+Door">Exclusive Clubs</a></div>
-                <div><a title="Afterhours Clubs" href="/venues/VenueSearchResults.aspx?f_VenueType=Afterhours">Afterhours Clubs</a></div>
-                <div><a title="House Music Clubs" href="/venues/VenueSearchResults.aspx?f_MusicType=House">House Music Clubs</a></div>
-                <div><a title="Hip-Hop Clubs" href="/venues/VenueSearchResults.aspx?f_MusicType=Hip-Hop">Hip-Hop Clubs</a></div>
-                <div><a title="Gay Clubs" href="/venues/VenueSearchResults.aspx?f_VenueType=Gay">Gay Clubs</a></div>
-                <div><a title="Outdoor Clubs" href="/venues/VenueSearchResults.aspx?f_VenueType=Outdoors+%2f+Patio">Outdoor Clubs</a></div>
-                <div><a title="Upscale Clubs" href="/venues/VenueSearchResults.aspx?f_VenueType=Upscale">Upscale Clubs</a></div>
-                <div><a title="Supper Clubs" href="/venues/VenueSearchResults.aspx?f_VenueType=Supper+Club">Supper Clubs</a></div>
-                <div><a title="Jazz Clubs" href="/venues/VenueSearchResults.aspx?f_MusicType=Jazz">Jazz Clubs</a></div>
-                <div><a title="Dance Clubs" href="/venues/VenueSearchResults.aspx?f_VenueType=Dance+Club">Dance Clubs</a></div>
+                <div><a title="Exlusive Clubs" href="/venues/VenueSearchResults.aspx?f_VenueType=Exclusive+Club&amp;city=New-York">Exclusive Clubs</a></div>
+                <div><a title="Afterhours Clubs" href="/venues/VenueSearchResults.aspx?f_VenueType=Afterhours&amp;city=New-York">Afterhours Clubs</a></div>
+                <div><a title="House Music Clubs" href="/venues/VenueSearchResults.aspx?f_MusicType=House&amp;city=New-York">House Music Clubs</a></div>
+                <div><a title="Hip-Hop Clubs" href="/venues/VenueSearchResults.aspx?f_MusicType=Hip-Hop&amp;city=New-York">Hip-Hop Clubs</a></div>
+                <div><a title="Gay Clubs" href="/venues/VenueSearchResults.aspx?f_VenueType=Gay&amp;city=New-York">Gay Clubs</a></div>
+                <div><a title="Outdoor Clubs" href="/venues/VenueSearchResults.aspx?f_VenueType=Outdoors+%2f+Patio&amp;city=New-York">Outdoor Clubs</a></div>
+                <div><a title="Upscale Clubs" href="/venues/VenueSearchResults.aspx?f_VenueType=Upscale&amp;city=New-York">Upscale Clubs</a></div>
+                <div><a title="Supper Clubs" href="/venues/VenueSearchResults.aspx?f_VenueType=Supper+Club&amp;city=New-York">Supper Clubs</a></div>
+                <div><a title="Jazz Clubs" href="/venues/VenueSearchResults.aspx?f_MusicType=Jazz&amp;city=New-York">Jazz Clubs</a></div>
+                <div><a title="Dance Clubs" href="/venues/VenueSearchResults.aspx?f_VenueType=Dance+Club&amp;city=New-York">Dance Clubs</a></div>
             </div>
             <div class="submenu clubs">
                 <div class="header">BEST LOUNGES</div>
-                <div><a title="Exlusive Lounges" href="/venues/VenueSearchResults.aspx?f_VenueType=Lounge">Exclusive Lounges</a></div>
-                <div><a title="Romantic Lounges" href="/venues/VenueSearchResults.aspx?f_VenueType=Romantic">Romantic Lounges</a></div>
-                <div><a title="Theme Lounges" href="/venues/VenueSearchResults.aspx?f_VenueType=Fetish">Theme Lounges</a></div>
-                <div><a title="Singles Lounges" href="/venues/VenueSearchResults.aspx?f_VenueType=Pickup+%2f+Singles">Singles Lounges</a></div>
-                <div><a title="Jazz Lounges" href="/venues/VenueSearchResults.aspx?f_VenueType=Strip+Club">Jazz Lounges</a></div>
+                <div><a title="Exlusive Lounges" href="/venues/VenueSearchResults.aspx?f_VenueType=Lounge&amp;city=New-York">Exclusive Lounges</a></div>
+                <div><a title="Romantic Lounges" href="/venues/VenueSearchResults.aspx?f_VenueType=Romantic&amp;city=New-York">Romantic Lounges</a></div>
+                <div><a title="Theme Lounges" href="/venues/VenueSearchResults.aspx?f_VenueType=Fetish&amp;city=New-York">Theme Lounges</a></div>
+                <div><a title="Singles Lounges" href="/venues/VenueSearchResults.aspx?f_VenueType=Pickup+%2f+Singles&amp;city=New-York">Singles Lounges</a></div>
             </div>
             <div class="submenu clubs">
                 <div class="header">BEST BARS</div>
-                <div><a title="Happy Hour Bars" href="/venues/VenueSearchResults.aspx?f_VenueType=Afterwork+%2f+Happy+Hour">Happy Hour Bars</a></div>
-                <div><a title="Dive Bars" href="/venues/VenueSearchResults.aspx?f_VenueType=Dive">Dive Bars</a></div>
-                <div><a title="Brew Pubs" href="/venues/VenueSearchResults.aspx?f_VenueType=Brew+Pub">Brew Pubs</a></div>
-                <div><a title="Wine Bars" href="/venues/VenueSearchResults.aspx?f_VenueType=Wine+Bar">Wine Bars</a></div>
-                <div><a title="Beer Garden" href="/venues/VenueSearchResults.aspx?f_VenueType=Beer+Garden">Beer Garden</a></div>
-                <div><a title="Martini Bars" href="/venues/VenueSearchResults.aspx?f_VenueType=Martini+Bar">Martini Bars</a></div>
-                <div><a title="College Bars" href="/venues/VenueSearchResults.aspx?f_VenueType=College+Bar">College Bars</a></div>
-                <div><a title="Irish Pub" href="/venues/VenueSearchResults.aspx?f_VenueType=Irish+Pub">Irish Pub</a></div>
-                <div><a title="Sports Bar" href="/venues/VenueSearchResults.aspx?f_VenueType=Sports+Bar">Sports Bar</a></div>
+                <div><a title="Happy Hour Bars" href="/venues/VenueSearchResults.aspx?f_VenueType=Afterwork+%2f+Happy+Hour&amp;city=New-York">Happy Hour Bars</a></div>
+                <div><a title="Dive Bars" href="/venues/VenueSearchResults.aspx?f_VenueType=Dive&amp;city=New-York">Dive Bars</a></div>
+                <div><a title="Brew Pubs" href="/venues/VenueSearchResults.aspx?f_VenueType=Brew+Pub&amp;city=New-York">Brew Pubs</a></div>
+                <div><a title="Wine Bars" href="/venues/VenueSearchResults.aspx?f_VenueType=Wine+Bar&amp;city=New-York">Wine Bars</a></div>
+                <div><a title="Beer Garden" href="/venues/VenueSearchResults.aspx?f_VenueType=Beer+Garden&amp;city=New-York">Beer Garden</a></div>
+                <div><a title="Martini Bars" href="/venues/VenueSearchResults.aspx?f_VenueType=Martini+Bar&amp;city=New-York">Martini Bars</a></div>
+                <div><a title="College Bars" href="/venues/VenueSearchResults.aspx?f_VenueType=College+Bar&amp;city=New-York">College Bars</a></div>
+                <div><a title="Irish Pub" href="/venues/VenueSearchResults.aspx?f_VenueType=Irish+Pub&amp;city=New-York">Irish Pub</a></div>
+                <div><a title="Sports Bar" href="/venues/VenueSearchResults.aspx?f_VenueType=Sports+Bar&amp;city=New-York">Sports Bar</a></div>
             </div>
             <div class="submenu clubs">
                 <div class="header">HOTSPOTS</div>
-                <div><a title="Cigar Bars" href="/venues/VenueSearchResults.aspx?f_VenueType=Cigar+Bar">Cigar Bars</a></div>
-                <div><a title="Pools" href="/venues/VenueSearchResults.aspx?f_VenueType=Pool">Pools</a></div>
-                <div><a title="Strip Clubs" href="/venues/VenueSearchResults.aspx?f_VenueType=Strip+Club">Strip Clubs</a></div>
-                <div><a title="Under 21" href="/venues/VenueSearchResults.aspx?f_VenueType=Under+21">Under 21</a></div>
-                <div><a title="Restaurant Bars" href="/venues/VenueSearchResults.aspx?f_VenueType=Restaurant+%2f+Bar">Restaurant Bars</a></div>
-                <div><a title="Older Crowd" href="/venues/VenueSearchResults.aspx?f_VenueType=Older+Crowd+(35%2b)">Older Crowd</a></div>
+                <div><a title="Cigar Bars" href="/venues/VenueSearchResults.aspx?f_VenueType=Cigar+Bar&amp;city=New-York">Cigar Bars</a></div>
+                <div><a title="Pools" href="/venues/VenueSearchResults.aspx?f_VenueType=Pool&amp;city=New-York">Pools</a></div>
+                <div><a title="Strip Clubs" href="/venues/VenueSearchResults.aspx?f_VenueType=Strip+Club&amp;city=New-York">Strip Clubs</a></div>
+                <div><a title="Under 21" href="/venues/VenueSearchResults.aspx?f_VenueType=Under+21&amp;city=New-York">Under 21</a></div>
+                <div><a title="Restaurant Bars" href="/venues/VenueSearchResults.aspx?f_VenueType=Restaurant+%2f+Bar&amp;city=New-York">Restaurant Bars</a></div>
+                <div><a title="Older Crowd" href="/venues/VenueSearchResults.aspx?f_VenueType=Older+Crowd+(35%2b)&amp;city=New-York">Older Crowd</a></div>
             </div>
+            <!-- I don't see the missing div tag. -luis -->
         </li>
     </ul>
 </li>
 
 <li>
-    <a href="/US/Miami/Articles" target="_top" onmouseover="menuLinkOver(this)" onmouseout="menuLinkOut(this)">News</a>
+    <a href="/Articles" title="The Latest New York Nightlife News" target="_top" onmouseover="menuLinkOver(this)" onmouseout="menuLinkOut(this)">News</a>
     <ul onmouseover="menuLinkOver(this)" onmouseout="menuLinkOut(this)" style="width:300px; margin-left:-70px; height:185px;">
         <li>
             <div class="submenu" style="height:165px">
             <div class="header">NIGHTLIFE NEWS</div>
-            <div><a target="_top" href="/US/Miami/Articles/">Breaking News</a></div>
-            <div><a target="_top" href="/US/Miami/Articles/Music">Music</a></div>
-            <div><a target="_top" href="/US/Miami/Articles/Style">LifeStyle</a></div>
-            <div><a target="_top" href="/US/Miami/Articles/Nightlife/Celebrity-Sighting">Celebrity Sighting</a></div>
-            <div><a target="_top" href="/US/Miami/Articles/Nightlife/CP-Spotlight">Clubplanet Pick of the Week</a></div>
+            <div><a title="New York Nightlife Breaking News" target="_top" href="/Articles">Breaking News</a></div>
+            <div><a title="New York Nightlife Music News" target="_top" href="/Articles/Music">Music</a></div>
+            <div><a title="New York Nightlife Lifestyle News" target="_top" href="/Articles/Style">LifeStyle</a></div>
+            <div><a title="New York Celebrity Sightings" target="_top" href="/Articles/Nightlife/Celebrity-Sighting">Celebrity Sighting</a></div>
+            <div><a title="Clubplanet Pick of The Week" target="_top" href="/Articles/Nightlife/CP-Spotlight">Clubplanet Pick of the Week</a></div>
         </div>
             <div class="submenu" style="height:165px">
                 <div class="header">CLUBPLANET BLOGGERS</div>
-                <div><a target="_top" href="/US/Miami/Articles/VipSection/sirivan">Where's The Party</a></div>            
-                <div><a target="_top" href="/US/Miami/Articles/VipSection/alanphilips">Cocktail Hour</a></div>            
-                <div><a target="_top" href="/US/Miami/Articles/VipSection/marcjay">Inside Sin City</a></div>            
-                <div><a target="_top" href="/US/Miami/Articles/VipSection/humberto">Nightvision</a></div>
+                <div><a title="Where's the party? With Sir Ivan" target="_top" href="/US/New-York/Articles/VipSection/sirivan">Where's The Party</a></div>            
+                <div><a title="Cocktail Hour with Alan Philips" target="_top" href="/US/New-York/Articles/VipSection/alanphilips">Cocktail Hour</a></div>            
+                <div><a title="inside Sin City with Marc Jay" target="_top" href="/US/New-York/Articles/VipSection/marcjay">Inside Sin City</a></div>            
+                <div><a title="Humberto's NightVision" target="_top" href="/US/New-York/Articles/VipSection/humberto">Nightvision</a></div>
                 
             </div>
         </li>
@@ -336,13 +366,13 @@ function SearchClubPlanet() {
 </li>		
 
 <li>
-    <a href="/US/Miami/Articles" target="_top" onmouseover="menuLinkOver(this)" onmouseout="menuLinkOut(this)">Music</a>
+    <a href="/US/New-York/Articles" target="_top" onmouseover="menuLinkOver(this)" onmouseout="menuLinkOut(this)">Music</a>
     <ul onmouseover="menuLinkOver(this)" onmouseout="menuLinkOut(this)" style="margin-left:-5px; height:185px;">
         <li>
             <div class="submenu" style="height:165px">
-            <div><a target="_top" href="/US/Miami/Articles/Music/Daily-Beats">Daily Beat</a></div>
-            <div><a target="_top" href="/US/Miami/Articles/Music/Interviews">Interviews</a></div>            
-            <div><a target="_top" href="/US/Miami/Articles/Style">LifeStyle</a></div>            
+            <div><a target="_top" href="/US/New-York/Articles/Music/Daily-Beats">Daily Beat</a></div>
+            <div><a target="_top" href="/US/New-York/Articles/Music/Interviews">Interviews</a></div>            
+            <div><a target="_top" href="/US/New-York/Articles/Style">LifeStyle</a></div>            
             <div><a target="_blank" href="/videos">Videos</a></div>
             <div><a target="_blank" href="http://www.clublandmiami.com">Clubland Miami</a></div>
             <div><a target="_top" href="/Members/EditMedia.aspx">My Videos</a></div>
@@ -353,14 +383,14 @@ function SearchClubPlanet() {
 </li>		
 
 <li>
-    <a href="/US/Miami/Events" target="_top" onmouseover="menuLinkOver(this)" onmouseout="menuLinkOut(this)">Events</a>
+    <a href="/US/New-York/Events" target="_top" onmouseover="menuLinkOver(this)" onmouseout="menuLinkOut(this)">Events</a>
     <ul onmouseover="menuLinkOver(this)" onmouseout="menuLinkOut(this)" style="height:187px; margin-left:-5px;">
         <li>
             <div class="submenu">
-                <div><a target="_top" href="/US/Miami/events">Event Calendar</a></div>
-                <div><a target="_top" href="/US/Miami/guestlists">Guestlists</a></div>
+                <div><a target="_top" href="/US/New-York/events">Event Calendar</a></div>
+                <div><a target="_top" href="/US/New-York/guestlists">Guestlists</a></div>
                 <div><a target="_top" href="http://www.wantickets.com/?ref=cp" rel="vote-for">Tickets</a></div>
-                <div><a target="_top" href="/newyears" rel="vote-for">New Years Eve</a></div>
+                <div><a target="_top" href="/US/New-York/new-years-eve-parties/" rel="vote-for">New Years Eve</a></div>
                 <div><a target="_top" href="/Events/SearchEvents.aspx?searchby=Type">Search by Type</a></div>
                 <div><a target="_top" href="/Events/SearchEvents.aspx?searchby=Location">Search by Location</a></div>
                 <div><a target="_top" href="/Events/addEditEvent.aspx">Add Your Event</a></div>
@@ -388,28 +418,6 @@ div.submenu .imageWrapper {width:165px;}
 <div class="submenu" style="width:160px; height:340px;">
     <div class="header">LATEST GALLERIES</div>
         
-		        <div class="imageWrapper">
-		                        
-                <a id="ctl00_ctl00_Header1_MainMenu1__ctrl_0_lstLatestGalleries_ctrl0_RewrittenUrlLink3" href="/Galleries/264224/SET/Miami-Beach/20110424"><img id="ctl00_ctl00_Header1_MainMenu1__ctrl_0_lstLatestGalleries_ctrl0_CpImage1" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cGalleryImages%5c264224%5cIMG_1978.jpg&amp;maxWidth=160&amp;maxHeight=110&amp;maxKb=50&amp;cropImage=true" alt="Movement @ SET"></a>
-                                      
-	                        
-                
-                
-                    <div class="smallThumb">			                    
-                        <a id="ctl00_ctl00_Header1_MainMenu1__ctrl_0_lstLatestGalleries_ctrl1_RewrittenUrlLink1" href="/Galleries/264217/Phuket-Lounge/New-York/20110423"><img id="ctl00_ctl00_Header1_MainMenu1__ctrl_0_lstLatestGalleries_ctrl1_CpImage2" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cGalleryImages%5c264217%5cPhuket_120.jpg&amp;maxWidth=70&amp;maxHeight=70&amp;maxKb=50&amp;cropImage=true" alt="Saturdays @ Phuket"></a>
-                    </div>
-                                      
-	                        
-                
-                
-                    <div class="smallThumb">			                    
-                        <a id="ctl00_ctl00_Header1_MainMenu1__ctrl_0_lstLatestGalleries_ctrl2_RewrittenUrlLink1" href="/Galleries/264223/Cameo/Miami-Beach/20110423"><img id="ctl00_ctl00_Header1_MainMenu1__ctrl_0_lstLatestGalleries_ctrl2_CpImage2" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cGalleryImages%5c264223%5cDSC_8080.jpg&amp;maxWidth=70&amp;maxHeight=70&amp;maxKb=50&amp;cropImage=true" alt="Saturdays @ Cameo"></a>
-                    </div>
-                                      
-	        
-		        </div>
-		        <div class="Clear"></div>
-	        
         
     <div><a target="_top" href="/Galleries/ShowGalleries.aspx?bydate=true">More...</a></div>
 </div>
@@ -422,34 +430,34 @@ div.submenu .imageWrapper {width:165px;}
         
                 <div class="imageWrapper">
                 
-                <a id="ctl00_ctl00_Header1_MainMenu1__ctrl_0_lstPopularPhotos_ctrl0_RewrittenUrlLink3" href="/Galleries/264238/Vice-Lounge/Miami-Beach/04-29-2011/417310"><img id="ctl00_ctl00_Header1_MainMenu1__ctrl_0_lstPopularPhotos_ctrl0_CPImage3" title="04-09 Sat Alvaro M Vice_115.JPG" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cGalleryImages%5c264238%5c04-09+Sat+Alvaro+M+Vice_115.JPG&amp;maxWidth=160&amp;maxHeight=110&amp;maxKb=50&amp;cropImage=true" alt="04-09 Sat Alvaro M Vice_115.JPG"></a>
+                <a id="ctl00_ctl00_Header1_MainMenu1_GalleryResultsForMenu1_lstPopularPhotos_ctrl0_RewrittenUrlLink3" href="/Galleries/265815/Fetish-Fridays-at-Kinematics/New-York/05-10-2012/459931"><img id="ctl00_ctl00_Header1_MainMenu1_GalleryResultsForMenu1_lstPopularPhotos_ctrl0_CPImage3" title="POSTER 2.jpg" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cGalleryImages%5c265815%5cPOSTER+2.jpg&amp;maxWidth=160&amp;maxHeight=110&amp;maxKb=50&amp;cropImage=true" alt="POSTER 2.jpg"></a>
                                       
             
                 
                 
                     <div class="smallThumb">			                    
-                        <a id="ctl00_ctl00_Header1_MainMenu1__ctrl_0_lstPopularPhotos_ctrl1_RewrittenUrlLink2" href="/Galleries/264238/Vice-Lounge/Miami-Beach/04-29-2011/417311"><img id="ctl00_ctl00_Header1_MainMenu1__ctrl_0_lstPopularPhotos_ctrl1_CPImage2" title="04-09 Sat Alvaro M Vice_105.JPG" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cGalleryImages%5c264238%5c04-09+Sat+Alvaro+M+Vice_105.JPG&amp;maxWidth=70&amp;maxHeight=70&amp;maxKb=50&amp;cropImage=true" alt="04-09 Sat Alvaro M Vice_105.JPG"></a>
+                        <a id="ctl00_ctl00_Header1_MainMenu1_GalleryResultsForMenu1_lstPopularPhotos_ctrl1_RewrittenUrlLink2" href="/Galleries/265815/Fetish-Fridays-at-Kinematics/New-York/05-10-2012/459932"><img id="ctl00_ctl00_Header1_MainMenu1_GalleryResultsForMenu1_lstPopularPhotos_ctrl1_CPImage2" title="POSTER 3.jpg" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cGalleryImages%5c265815%5cPOSTER+3.jpg&amp;maxWidth=70&amp;maxHeight=70&amp;maxKb=50&amp;cropImage=true" alt="POSTER 3.jpg"></a>
                     </div>
                                       
             
                 
                 
                     <div class="smallThumb">			                    
-                        <a id="ctl00_ctl00_Header1_MainMenu1__ctrl_0_lstPopularPhotos_ctrl2_RewrittenUrlLink2" href="/Galleries/264238/Vice-Lounge/Miami-Beach/04-29-2011/417312"><img id="ctl00_ctl00_Header1_MainMenu1__ctrl_0_lstPopularPhotos_ctrl2_CPImage2" title="04-09 Sat Alvaro M Vice_102.JPG" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cGalleryImages%5c264238%5c04-09+Sat+Alvaro+M+Vice_102.JPG&amp;maxWidth=70&amp;maxHeight=70&amp;maxKb=50&amp;cropImage=true" alt="04-09 Sat Alvaro M Vice_102.JPG"></a>
+                        <a id="ctl00_ctl00_Header1_MainMenu1_GalleryResultsForMenu1_lstPopularPhotos_ctrl2_RewrittenUrlLink2" href="/Galleries/265807/Ajna-Bar/New-York/05-08-2012/459911"><img id="ctl00_ctl00_Header1_MainMenu1_GalleryResultsForMenu1_lstPopularPhotos_ctrl2_CPImage2" title="may11_2.jpg" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cGalleryImages%5c265807%5cmay11_2.jpg&amp;maxWidth=70&amp;maxHeight=70&amp;maxKb=50&amp;cropImage=true" alt="may11_2.jpg"></a>
                     </div>
                                       
             
                 
                 
                     <div class="smallThumb">			                    
-                        <a id="ctl00_ctl00_Header1_MainMenu1__ctrl_0_lstPopularPhotos_ctrl3_RewrittenUrlLink2" href="/Galleries/264238/Vice-Lounge/Miami-Beach/04-29-2011/417313"><img id="ctl00_ctl00_Header1_MainMenu1__ctrl_0_lstPopularPhotos_ctrl3_CPImage2" title="04-09 Sat Alvaro M Vice_086.JPG" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cGalleryImages%5c264238%5c04-09+Sat+Alvaro+M+Vice_086.JPG&amp;maxWidth=70&amp;maxHeight=70&amp;maxKb=50&amp;cropImage=true" alt="04-09 Sat Alvaro M Vice_086.JPG"></a>
+                        <a id="ctl00_ctl00_Header1_MainMenu1_GalleryResultsForMenu1_lstPopularPhotos_ctrl3_RewrittenUrlLink2" href="/Galleries/265808/Ajna-Bar/New-York/05-08-2012/459912"><img id="ctl00_ctl00_Header1_MainMenu1_GalleryResultsForMenu1_lstPopularPhotos_ctrl3_CPImage2" title="may11_2.jpg" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cGalleryImages%5c265808%5cmay11_2.jpg&amp;maxWidth=70&amp;maxHeight=70&amp;maxKb=50&amp;cropImage=true" alt="may11_2.jpg"></a>
                     </div>
                                       
             
                 
                 
                     <div class="smallThumb">			                    
-                        <a id="ctl00_ctl00_Header1_MainMenu1__ctrl_0_lstPopularPhotos_ctrl4_RewrittenUrlLink2" href="/Galleries/264238/Vice-Lounge/Miami-Beach/04-29-2011/417314"><img id="ctl00_ctl00_Header1_MainMenu1__ctrl_0_lstPopularPhotos_ctrl4_CPImage2" title="04-09 Sat Alvaro M Vice_070 1.JPG" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cGalleryImages%5c264238%5c04-09+Sat+Alvaro+M+Vice_070+1.JPG&amp;maxWidth=70&amp;maxHeight=70&amp;maxKb=50&amp;cropImage=true" alt="04-09 Sat Alvaro M Vice_070 1.JPG"></a>
+                        <a id="ctl00_ctl00_Header1_MainMenu1_GalleryResultsForMenu1_lstPopularPhotos_ctrl4_RewrittenUrlLink2" href="/Galleries/265808/Ajna-Bar/New-York/05-08-2012/459913"><img id="ctl00_ctl00_Header1_MainMenu1_GalleryResultsForMenu1_lstPopularPhotos_ctrl4_CPImage2" title="IMAG0274.jpg" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cGalleryImages%5c265808%5cIMAG0274.jpg&amp;maxWidth=70&amp;maxHeight=70&amp;maxKb=50&amp;cropImage=true" alt="IMAG0274.jpg"></a>
                     </div>
                                       
             
@@ -468,27 +476,27 @@ div.submenu .imageWrapper {width:165px;}
         
 		        <div class="imageWrapper">
 		            
-                <a id="ctl00_ctl00_Header1_MainMenu1__ctrl_0_lstHotties_ctrl0_RewrittenUrlLink4" href="/Galleries/p/97"><img id="ctl00_ctl00_Header1_MainMenu1__ctrl_0_lstHotties_ctrl0_CpImage4" title="65NY_Maracas.jpg" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cPremiumGalleries%5c97%5c65NY_Maracas.jpg&amp;maxWidth=160&amp;maxHeight=110&amp;maxKb=50&amp;cropImage=true"></a>
+                <a id="ctl00_ctl00_Header1_MainMenu1_GalleryResultsForMenu1_lstHotties_ctrl0_RewrittenUrlLink4" href="/Galleries/p/98"><img id="ctl00_ctl00_Header1_MainMenu1_GalleryResultsForMenu1_lstHotties_ctrl0_CpImage4" title="81LA_Roxbury.jpg" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cPremiumGalleries%5c98%5c81LA_Roxbury.jpg&amp;maxWidth=160&amp;maxHeight=110&amp;maxKb=50&amp;cropImage=true"></a>
                                       
 	        
                 
                 
                     <div class="smallThumb">			                    
-                        <a id="ctl00_ctl00_Header1_MainMenu1__ctrl_0_lstHotties_ctrl1_RewrittenUrlLink5" href="/Galleries/p/101"><img id="ctl00_ctl00_Header1_MainMenu1__ctrl_0_lstHotties_ctrl1_CpImage5" title="5151MIA_SET.jpg" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cPremiumGalleries%5c101%5c5151MIA_SET.jpg&amp;maxWidth=70&amp;maxHeight=70&amp;maxKb=50&amp;cropImage=true"></a>
+                        <a id="ctl00_ctl00_Header1_MainMenu1_GalleryResultsForMenu1_lstHotties_ctrl1_RewrittenUrlLink5" href="/Galleries/p/101"><img id="ctl00_ctl00_Header1_MainMenu1_GalleryResultsForMenu1_lstHotties_ctrl1_CpImage5" title="52MIA_Cameo.jpg" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cPremiumGalleries%5c101%5c52MIA_Cameo.jpg&amp;maxWidth=70&amp;maxHeight=70&amp;maxKb=50&amp;cropImage=true"></a>
                     </div>
                                       
 	        
                 
                 
                     <div class="smallThumb">			                    
-                        <a id="ctl00_ctl00_Header1_MainMenu1__ctrl_0_lstHotties_ctrl2_RewrittenUrlLink5" href="/Galleries/p/98"><img id="ctl00_ctl00_Header1_MainMenu1__ctrl_0_lstHotties_ctrl2_CpImage5" title="51LA_Avalon_Hollywood.jpg" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cPremiumGalleries%5c98%5c51LA_Avalon_Hollywood.jpg&amp;maxWidth=70&amp;maxHeight=70&amp;maxKb=50&amp;cropImage=true"></a>
+                        <a id="ctl00_ctl00_Header1_MainMenu1_GalleryResultsForMenu1_lstHotties_ctrl2_RewrittenUrlLink5" href="/Galleries/p/99"><img id="ctl00_ctl00_Header1_MainMenu1_GalleryResultsForMenu1_lstHotties_ctrl2_CpImage5" title="55LV_Encore_Beach_Club.jpg" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cPremiumGalleries%5c99%5c55LV_Encore_Beach_Club.jpg&amp;maxWidth=70&amp;maxHeight=70&amp;maxKb=50&amp;cropImage=true"></a>
                     </div>
                                       
 	        
                 
                 
                     <div class="smallThumb">			                    
-                        <a id="ctl00_ctl00_Header1_MainMenu1__ctrl_0_lstHotties_ctrl3_RewrittenUrlLink5" href="/Galleries/p/99"><img id="ctl00_ctl00_Header1_MainMenu1__ctrl_0_lstHotties_ctrl3_CpImage5" title="69LV_Palms_Pool_and_Bungalows.jpg" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cPremiumGalleries%5c99%5c69LV_Palms_Pool_and_Bungalows.jpg&amp;maxWidth=70&amp;maxHeight=70&amp;maxKb=50&amp;cropImage=true"></a>
+                        <a id="ctl00_ctl00_Header1_MainMenu1_GalleryResultsForMenu1_lstHotties_ctrl3_RewrittenUrlLink5" href="/Galleries/p/97"><img id="ctl00_ctl00_Header1_MainMenu1_GalleryResultsForMenu1_lstHotties_ctrl3_CpImage5" title="1818NY_Phuket.jpg" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cPremiumGalleries%5c97%5c1818NY_Phuket.jpg&amp;maxWidth=70&amp;maxHeight=70&amp;maxKb=50&amp;cropImage=true"></a>
                     </div>
                                       
 	        
@@ -520,9 +528,8 @@ div.submenu .imageWrapper {width:165px;}
     <ul onmouseover="menuLinkOver(this)" onmouseout="menuLinkOut(this)" style="height:80px; margin-left:-5px;">
         <li>
             <div class="submenu">
-                <div><a target="_top" href="/BBS.aspx">Message Boards</a></div>
+                <div><a target="_top" href="http://bbs.clubplanet.com">Message Boards</a></div>
                 <div><a target="_top" href="/Members/ShowMembers.aspx">Friends</a></div>
-                <div><a target="_top" href="/promoters">Promoters</a></div>
 
             </div>
         </li>
@@ -532,201 +539,80 @@ div.submenu .imageWrapper {width:165px;}
 <li>
 	<a target="_top" class="last" href="/events/partyplanning.aspx">Plan Your Party</a>
 </li>
-<li>
- <a target="_top" href="/promoteyourevent">Promote Your Event</a>
-</li>    
 
+<li>
+    <div id="ctl00_ctl00_Header1_MainMenu1_SearchBar1_pnlSearch">
+	
+<img src="../Assets/Images/Icons/search_icon.png" id="ctl00_ctl00_Header1_MainMenu1_SearchBar1_Img1">
+       <input name="ctl00$ctl00$Header1$MainMenu1$SearchBar1$txtCriteria" type="text" value="Search" id="ctl00_ctl00_Header1_MainMenu1_SearchBar1_txtCriteria" class="Input" onfocus="if(this.value == 'Search')this.value = '';" onblur="if(this.value == '') this.value = 'Search';">
+      <input type="submit" name="ctl00$ctl00$Header1$MainMenu1$SearchBar1$btnSearch1" value="GO" onclick="SearchClubPlanet(); return false;" id="ctl00_ctl00_Header1_MainMenu1_SearchBar1_btnSearch1" class="Buttons">
+    
+
+</div>
+
+</li>    
 </ul>
  
 
 <!--<div><a target="_top" href="/links">Links</a></div>-->
         </div>
-         <div id="zoneWrapper">
-                    <div class="CurrentCity">current city:</div>
-	                <div class="CurrentArea"><span id="ctl00_ctl00_Header1_lblCurrentZone">Miami</span></div>
-	                <div class="PopularCities"><span class="Label">most popular cities:</span>&nbsp;<div id="ctl00_ctl00_Header1_ctl00_pnlZone" style="display:none;">
+        <div>
+            <div style="width:100px; float:left; padding-left:10px;">
+                <a href="/US">[change city]</a>
+            </div>
+            <div style="width: 550px; float: left;">
+                <a href="/US">US</a> &gt; <a href="/US/New-York">New York</a> &gt; <a href="/aboutus">About Us</a> &gt; Privacy
+
+            </div>
+            <div style="width: 290px; float: right;">
+
+                    
+                
+                <div id="ctl00_ctl00_Header1_pnlLogin">
 	
-        <div id="zoneWrapper">
-            
+                    <div id="facebookLogin">
+                        
 
-<div class="popularzone-results results">
-    <ul>
-            
-	                <li>
-		                <a href="/us/Atlanta">Atlanta</a>
-	                </li>
-                
-        
-            
-	                <li>
-		                <a href="/us/Atlantic-City">Atlantic City</a>
-	                </li>
-                
-        
-            
-	                <li>
-		                <a href="/us/Boston">Boston</a>
-	                </li>
-                
-        
-            
-	                <li>
-		                <a href="/us/Chicago">Chicago</a>
-	                </li>
-                
-        
-            
-	                <li>
-		                <a href="/us/Las-Vegas">Las Vegas</a>
-	                </li>
-                
-        
-            
-	                <li>
-		                <a href="/us/Los-Angeles">Los Angeles</a>
-	                </li>
-                
-        
-            
-	                <li>
-		                <a href="/us/Miami">Miami</a>
-	                </li>
-                
-        
-            
-	                <li>
-		                <a href="/us/New-Orleans">New Orleans</a>
-	                </li>
-                
-        
-            
-	                <li>
-		                <a href="/us/New-York">New York</a>
-	                </li>
-                
-        
-            
-	                <li>
-		                <a href="/us/Orange-County">Orange County</a>
-	                </li>
-                
-        
-            
-	                <li>
-		                <a href="/us/Philadelphia">Philadelphia</a>
-	                </li>
-                
-        
-            
-	                <li>
-		                <a href="/us/Sacramento">Sacramento</a>
-	                </li>
-                
-        
-            
-	                <li>
-		                <a href="/us/San-Diego">San Diego</a>
-	                </li>
-                
-        
-            
-	                <li>
-		                <a href="/us/San-Francisco">San Francisco</a>
-	                </li>
-                
-        
-            
-	                <li>
-		                <a href="/us/San-Jose">San Jose</a>
-	                </li>
-                
-        
-            
-	                <li>
-		                <a href="/us/Washington-DC">Washington DC</a>
-	                </li>
-                
-        
-	        </ul>
-        
-    <div class="FooterLink Clear">
-        <a href="/US" id="ctl00_ctl00_Header1_ctl00_ctl00_lnkMoreCities" class="MoreLink">more cities</a>
-    </div>
-</div>   
-    
 
+<div>
+	<iframe scrolling="no" frameborder="0" border="0" style="border: none; background-color: Transparent;" src="/includes/Facebook/FacebookLogin.aspx?buttonType=small&amp;buttonLength=short&amp;linkText=" width="20" height="20" allowtransparency="true"></iframe>
+</div>
+
+                    </div>
+                    <div id="loginLink" style="float: right;">
+                        <a rel="nofollow" title="Login" onclick="showLoginPopup()" href="javascript:void(0);">
+                            Login</a>&nbsp;&nbsp;<span class="separator">|&nbsp;&nbsp;</span>
+                        
+                        <a rel="nofollow" title="Login" href="/LoginMessagePage.aspx">
+                                Join!</a>&nbsp;
+                    </div>
+                
+</div>
+            </div>
         </div>
-    
-</div>
-                                
-    
+    </div>
 
-    
-            <a href="/US/New-York" )=""> New York</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-        
-            <a href="/US/Las-Vegas" )=""> Las Vegas</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-        
-            <a href="/US/Los-Angeles" )=""> Los Angeles</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-        
-            <a href="/US/Atlantic-City" )=""> Atlantic City</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-        
-            <a href="/US/Chicago" )=""> Chicago</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-        
 
-    <div id="ctl00_ctl00_Header1_ctl00_pnlMoreCities" class="MoreCities">
-	
-        more cities...
-    
-</div></div> 
-	            </div> 
-	    </div>
-	    
-	    <div class="Clear"><!-- --></div>
-<div id="breadCrumb"><a href="/US">US</a> &gt; <a href="/US/Miami">Miami</a> &gt; <a href="/aboutus">About Us</a> &gt; Privacy
-</div>
 
 					    </div>
-                		
-                        
+                		                        
 					    <div id="Content">
 						    
 
+	
+		<script language="javascript" type="text/javascript">
+			</script>
+		
+
     <div id="twoColumnWrapper">
+            	
+       <a href="http://ev6.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS%3AGLOBAL-BORGATA%3ABOR12%3AEBG0526%3A&amp;linkID=global-borgata&amp;shopperContext=&amp;call&amp;disid=wmm_clp_bon_afroroger_42-94040" target="_blank"><img src="http://www.clubplanet.com/Assets/Images/banners/Afrojack_940x40.jpg"></a>
+	
 
-    <div id="twoColTop">
-    <!-- Begin -  Site: Clubplanet.com Zone: Strip 940x40 --> <script language="javascript" type="text/javascript">
-    <!--
-                                                                  var browName = navigator.appName;
-                                                                  var SiteID = 2;
-                                                                  var ZoneID = 400;
-                                                                  var browDateTime = (new Date()).getTime(); if (browName == 'Netscape') {
-                                                                      document.write('<s' + 'cript lang' + 'uage="jav' + 'ascript" src="http://ads.trackentertainment.com/ad.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=44642&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime + '">'); document.write('</' + 'scr' + 'ipt>');
-                                                                  }
-                                                                  if (browName != 'Netscape') {
-                                                                      document.write('<s' + 'cript lang' + 'uage="jav' + 'ascript" src="http://ads.trackentertainment.com/ad.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=44642&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime + '">'); document.write('</' + 'scr' + 'ipt>');
-                                                                  }
-    // -->
-</script><script language="javascript" src="http://ads.trackentertainment.com/ad.aspx?ZoneID=400&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=44642&amp;SiteID=2&amp;Random=1580481529158"></script>
-<noscript>
-    <a href="http://ads.trackentertainment.com/ad.aspx?ZoneID=400&amp;Task=Click&amp;Mode=HTML&amp;SiteID=2&amp;PageID=44642" target="_blank">
-    <img src="http://ads.trackentertainment.com/ad.aspx?ZoneID=400&amp;Task=Get&amp;Mode=HTML&amp;SiteID=2&amp;PageID=44642" width="940" height="40" border="0"  alt=""></a> </noscript>
-<!-- End -  Site: Clubplanet.com Zone: Strip 940x40 -->
+        <div id="twoColTop">
+
 
         
-        
-    </div>
-    <!--[Farhan]: Winter Music Conference-->
-    
-     <!--
-    
-        <div id="WinterMusicBanner" style="margin:0px;padding:0px; padding-bottom:5px;">
-            <a href="../Events/wmc.aspx" id="ctl00_ctl00_cphMain_A1"><img src="../Assets/Images/Banners/WMC2011_header_home.gif" id="ctl00_ctl00_cphMain_Img1" alt="Winter Music Conference, 2011" /></a>
-        </div>
-    
-    -->
-    
-    <!--Disable this for all pages, enable it only on music conference page, you can find a javascript there for the said purpose-->
-    <div id="WinterMusicTopButtons" style="display:none;">
         
     </div>
 		<div id="twoColumnMain">
@@ -805,15 +691,15 @@ div.submenu .imageWrapper {width:165px;}
     </div>
 
 		</div>
-        
+
 		<div id="twoColumnSub"> 
 			
 			<div id="twoColumnSubContent">
 				
+                
     <div class="Section">
-        <iframe scrolling="no" frameborder="0" src="/Services/Handlers/AdHandler.ashx?adType=MedRec" height="250" width="300" class="ad-medium-rectangle">
-
-</iframe>
+        <!-- DO NOT REMOVE THIS DIV OR MODIFY THIS ID. BOTTOM AD IS LOADED DYNAMICALLY HERE. -->
+        <div id="topMedReq"></div>
     </div>
     
     <div class="PadBottom"></div>
@@ -851,13 +737,13 @@ div.submenu .imageWrapper {width:165px;}
 		<div class="Todaysfix-Result">
 		
 			<div class="Image">
-				<a id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl01_RewrittenUrlLink2" href="/Articles/8935/The-Weekend-Playlist-April-29"><img id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl01_CPImage2" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cArticleImages%5c8935%5cThumb.jpg&amp;maxWidth=72&amp;maxHeight=40&amp;maxKb=50" height="40" width="72"></a>
+				<a id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl01_RewrittenUrlLink2" href="/Articles/10061/Above-and-Beyond-Group-Therapy-Tour-Pt-2"><img id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl01_CPImage2" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cArticleImages%5c10061%5c5A%26Bsun-4988150.jpg&amp;maxWidth=72&amp;maxHeight=40&amp;maxKb=50" height="40" width="72"></a>
 			</div>
 
 			<div class="Summary">
 				<div>
-					<a id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl01_RewrittenUrlLink1" class="link" href="/Articles/8935/The-Weekend-Playlist-April-29">The Weekend Playlist: April 29</a> - 
-					<span class="descr">When Friday rolls around there's only one thing on everyone's mind, the... </span>
+					<a id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl01_RewrittenUrlLink1" class="link" href="/Articles/10061/Above-and-Beyond-Group-Therapy-Tour-Pt-2">Above &amp; Beyond Group Therapy Tour Pt 2</a> - 
+					<span class="descr">Above &amp; Beyond return for another amazing tour for their album Group... </span>
 				</div>
 			</div>
 			<div class="Clear"><!-- --></div>
@@ -868,13 +754,13 @@ div.submenu .imageWrapper {width:165px;}
 		<div class="Todaysfix-Result">
 		
 			<div class="Image">
-				<a id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl02_RewrittenUrlLink2" href="/Articles/9000/Late-Nite-Bites-5-Star-Diner"><img id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl02_CPImage2" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cArticleImages%5c9000%5cThumb.JPG&amp;maxWidth=72&amp;maxHeight=40&amp;maxKb=50" height="40" width="72"></a>
+				<a id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl02_RewrittenUrlLink2" href="/Articles/10060/Listen-up-V-MODA-Headphone-Giveaway"><img id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl02_CPImage2" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cArticleImages%5c10060%5c46V-Moda_logo_bkground2.jpg&amp;maxWidth=72&amp;maxHeight=40&amp;maxKb=50" height="40" width="72"></a>
 			</div>
 
 			<div class="Summary">
 				<div>
-					<a id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl02_RewrittenUrlLink1" class="link" href="/Articles/9000/Late-Nite-Bites-5-Star-Diner">Late Nite Bites: 5 Star Diner</a> - 
-					<span class="descr">A visit to 5 Star is one to be remembered, after all, how can 10,000 cab... </span>
+					<a id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl02_RewrittenUrlLink1" class="link" href="/Articles/10060/Listen-up-V-MODA-Headphone-Giveaway">Listen up! V-MODA Headphone Giveaway</a> - 
+					<span class="descr">Read further to find out how to win a free pair of stylish and sexy v-moda... </span>
 				</div>
 			</div>
 			<div class="Clear"><!-- --></div>
@@ -885,13 +771,13 @@ div.submenu .imageWrapper {width:165px;}
 		<div class="Todaysfix-Result">
 		
 			<div class="Image">
-				<a id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl03_RewrittenUrlLink2" href="/Articles/8905/Digweed-Returns-to-South-Beach"><img id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl03_CPImage2" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cArticleImages%5c8905%5cThumb.jpg&amp;maxWidth=72&amp;maxHeight=40&amp;maxKb=50" height="40" width="72"></a>
+				<a id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl03_RewrittenUrlLink2" href="/Articles/10058/Move-for-Movement-Detroit"><img id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl03_CPImage2" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cArticleImages%5c10058%5c81150.jpg&amp;maxWidth=72&amp;maxHeight=40&amp;maxKb=50" height="40" width="72"></a>
 			</div>
 
 			<div class="Summary">
 				<div>
-					<a id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl03_RewrittenUrlLink1" class="link" href="/Articles/8905/Digweed-Returns-to-South-Beach">Digweed Returns to South Beach</a> - 
-					<span class="descr">John Digweed returns to South Beach on Sunday, May 8th to play SET's... </span>
+					<a id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl03_RewrittenUrlLink1" class="link" href="/Articles/10058/Move-for-Movement-Detroit">Move for Movement Detroit</a> - 
+					<span class="descr">There is no need to have a boring and uneventful Memorial Day Weekend this... </span>
 				</div>
 			</div>
 			<div class="Clear"><!-- --></div>
@@ -902,13 +788,13 @@ div.submenu .imageWrapper {width:165px;}
 		<div class="Todaysfix-Result">
 		
 			<div class="Image">
-				<a id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl04_RewrittenUrlLink2" href="/Articles/9027/I-Like-Your-Gun"><img id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl04_CPImage2" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cArticleImages%5c9027%5cThumb.jpg&amp;maxWidth=72&amp;maxHeight=40&amp;maxKb=50" height="40" width="72"></a>
+				<a id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl04_RewrittenUrlLink2" href="/Articles/10056/Clubplanet-Exclusive-Scratching-with-That-Deaf-DJ-Robbie-Wilde-at-Dub"><img id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl04_CPImage2" src="http://files.clubplanet.com/SiteFiles/GetImage.ashx?imageFilePath=%2fSiteFiles%5cArticleImages%5c10056%5c97150.jpg&amp;maxWidth=72&amp;maxHeight=40&amp;maxKb=50" height="40" width="72"></a>
 			</div>
 
 			<div class="Summary">
 				<div>
-					<a id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl04_RewrittenUrlLink1" class="link" href="/Articles/9027/I-Like-Your-Gun">I Like Your Gun</a> - 
-					<span class="descr">I had the best assassin costume and the hottest date that night for... </span>
+					<a id="ctl00_ctl00_cphMain_cphRight_DailyPlanet1_rptData_ctl04_RewrittenUrlLink1" class="link" href="/Articles/10056/Clubplanet-Exclusive-Scratching-with-That-Deaf-DJ-Robbie-Wilde-at-Dub">Clubplanet Exclusive: Scratching with That Deaf DJ Robbie Wilde at Dubspot</a> - 
+					<span class="descr">Robbie Wilde has the phrase “Out of Order” tattooed behind his right ear.... </span>
 				</div>
 			</div>
 			<div class="Clear"><!-- --></div>
@@ -932,15 +818,15 @@ div.submenu .imageWrapper {width:165px;}
 </iframe>
     </div>
 
+
+                
 				<div class="PadBottom"></div>
 				
 				<div id="ctl00_ctl00_cphMain_pnlSideBottomGoogleAd">
 	
-				    <div class="Section">
-    		            <iframe scrolling="no" frameborder="0" src="/Services/Handlers/AdHandler.ashx?adType=MedRec&amp;pageZone=Google" height="250" width="300" class="ad-medium-rectangle">
 
-	</iframe>
-				    </div>
+                    <!-- DO NOT REMOVE THIS DIV OR MODIFY THIS ID. BOTTOM MED REQ AD IS LOADED DYNAMICALLY HERE. -->
+                    <div id="bottomMedReq"></div>
 				
 </div>
 			</div>
@@ -954,105 +840,12 @@ div.submenu .imageWrapper {width:165px;}
 
 						    <div class="Clear"><!-- --></div>
 
-					        <div class="Section" style="text-align: center; padding:10px;">
-						        <iframe scrolling="no" frameborder="0" src="/Services/Handlers/AdHandler.ashx?adType=LeaderBoard&amp;pageZone=Google" height="90" width="728">
-
-</iframe>
-                            </div>
-
-					    </div> 
-						
+                            <!-- DO NOT REMOVE THIS DIV OR MODIFY THIS ID. BOTTOM AD IS LOADED DYNAMICALLY HERE. -->
+                            <div id="bottomLeaderBoard"></div>
+					    </div> 						
 					    <div id="footer">
 						    
 
-
-    <div id="footerMenuLink">
-
-        <div class="LeftSection">
-            <a target="_top" class="Title" href="/Venues/AddEditVenue.aspx">+Add Venue</a>
-            <a target="_top" class="Title" href="/Events/AddEditEvent.aspx">+Add Event</a>
-            
-            <p>
-                <a class="City" href="/US">USA</a>
-                <a class="City" href="/CA">CANADA</a>
-            </p>
-            <a style=" text-transform:none;" href="/US" target="_top">[Change City]</a>
-        </div>    
-    
-        <div id="MenuItems">
-            <div class="MenuItem">
-                <a class="Title" href="/US/Miami/venues" target="_top">Places To Go</a>
-                <a href="/Venues/VenueSearchResults.aspx?Category=Club" id="ctl00_ctl00_Footer1_A1" target="_top">Clubs</a>
-                <a href="/Venues/VenueSearchResults.aspx?Category=Lounge" id="ctl00_ctl00_Footer1_A2" target="_top">Lounges</a>
-                <a href="/Venues/VenueSearchResults.aspx?Category=Restaurant%20/%20Bar" id="ctl00_ctl00_Footer1_A3" target="_top">Bar &amp; Restaurants</a>
-                <a target="_top" href="/US/Miami/venues">All Venues</a>
-                <a href="/Venues/SearchVenues.aspx?searchby=Advanced" id="ctl00_ctl00_Footer1_A4" class="LastItem" target="_top">Advanced Search</a>
-            </div>
-            <div class="Clear"><!-- --></div>
-            <div class="MenuItem">
-                <a class="Title" href="/US/Miami/Events" target="_top">Events</a>
-                <a target="_top" href="/US/Miami/events">Event Calendar</a>
-                <a target="_top" href="/US/Miami/guestlists">Guestlists</a>
-                <a target="_top" href="http://www.wantickets.com/?ref=cp" rel="vote-for">Tickets</a>
-                <a target="_top" href="/newyears" rel="vote-for">New Years Eve</a>
-                <a target="_top" href="/Events/SearchEvents.aspx?searchby=Type">Search By Type</a>
-                <a class="LastItem" target="_top" href="/Events/SearchEvents.aspx?searchby=Location">Search By Location</a>
-            </div>
-            <div class="Clear"><!-- --></div>
-            <div class="MenuItem">
-                <a class="Title" href="/Members/ShowMembers.aspx" target="_top">Community</a>
-                <a target="_top" href="/Members/ShowMembers.aspx">Friends</a>
-                <a target="_top" href="/promoters">Promoters</a>
-                <a class="LastItem" href="/BBS.aspx">Message Boards</a>
-                
-            </div>
-            <div class="Clear"><!-- --></div>
-            <div class="MenuItem">
-                <a class="Title" href="/US/Miami/Articles" target="_top">Articles</a>
-                <a target="_top" href="/US/Miami/Articles/Nightlife">Nightlife</a>
-                <a target="_top" href="/US/Miami/Articles/Music">Music</a>
-                <a class="LastItem" target="_top" href="/US/Miami/Articles/Style">Style</a>
-                            
-            </div>
-            <div class="Clear"><!-- --></div>
-            <div class="MenuItem">
-                <a class="Title" href="/Galleries" target="_top">Photos</a>
-                <a target="_top" href="/Galleries/">Nightlife Hotties</a>
-                <a target="_top" href="/Galleries/ShowGalleryImages.aspx?type=MostPopular&amp;dateRange=7">Most Popular</a>
-                <a target="_top" href="/Galleries/ShowGalleries.aspx?bydate=true">Latest Galleries</a>
-                <a target="_top" href="/Members/ShowMember.aspx">My Photos</a>
-                <a class="LastItem" target="_top" href="/Members/CreateGallery.aspx">Upload Photos</a>
-            </div>        
-            <div class="Clear"><!-- --></div>
-            <div class="MenuItem">
-                <a class="Title" href="/videos" target="_top">Videos</a>
-                <a target="_blank" href="http://www.clublandmiami.com">Clubland Miami</a>
-                <a target="_top" href="/Members/ShowMember.aspx">My Videos</a>
-                <a class="LastItem" target="_top" href="/Members/LinkVideo.aspx">Submit A Video</a>
-            </div>            
-            <div class="Clear"><!-- --></div>
-        </div>
-
-        <div class="Text">
-            <p>
-                Search the best <span>Miami</span> bars, nightclubs, and nightlife events. Find the best bars, clubs, and lounges in <span class="ZoneName">Miami</span> on Clubplanet. Read bar and club reviews, get night club ratings, directions, Halloween and New Years Eve tickets, and nightlife recommendations with Clubplanet's <span class="ZoneName">Miami</span> bar, lounge, and club guide. 
-            </p>
-            <p>
-                Clubplanet has you covered with the latest nightlife and nightclub news and gossip, club music news, and interviews on your favorite dance club DJs.
-            </p>
-        </div>
-       
-        <div class="networkLink">
-            <a href="http://www.facebook.com/pages/ClubPlanetcom-Miami/330875131288" id="ctl00_ctl00_Footer1_ctl00_fbLink" target="_blank">
-<img src="/Assets/images/buttons/FacebookSmall.png" border="0" alt="" title="Facebook" width="35" height="35"></a> 
-<a href="http://twitter.com/clubplanet" target="_blank">
-<img src="/Assets/images/buttons/TwitterSmall.png" border="0" alt="" title="Twitter" width="35" height="35">
-</a> 
-
-            <a href="http://feeds.feedburner.com/cp-main">
-	        <img alt="Click here for RSS feed" src="/Assets/images/buttons/Rss.png" width="35px" height="35px" border="0"></a> 
-        </div>
-    </div>
 
 
 <div id="footerPropertyBar">
@@ -1060,14 +853,25 @@ div.submenu .imageWrapper {width:165px;}
 	
 	<img src="/Assets/Images/Logos/CPLogo-Small-Footer.jpg" alt="Clubplanet"> 
 	<ul class="HorizList">
-		<li class="HorizListItem"><a href="http://www.wantickets.com" target="_blank" title="wantickets.com" rev="vote-for">wantickets</a></li>
+		<li class="HorizListItem"><a href="http://spreadsave.com/" target="_blank" title="SpreadSave.com" rev="vote-for">coupons &amp; deals</a></li>
 		<li class="HorizListItem"><a href="http://www.cooljunkie.com" target="_blank" title="cooljunkie.com" rev="vote-for">cooljunkie</a></li>
 		<li class="HorizListItem"><a href="http://www.nochelatina.com" target="_blank" title="nochelatina.com" rev="vote-for">nochelatina</a></li>
+        <li class="HorizListItem"><a href="http://www.wantickets.com" target="_blank" title="wantickets.com" rev="vote-for">wt</a></li>
 		<li class="HorizListItem"><a href="http://www.newyears.com" target="_blank" title="newyears.com" rev="vote-for">new years</a></li>
-		<li class="HorizListItem"><a href="http://www.doyoulookgood.com" target="_blank" title="doyoulookgood.com" rev="vote-for">doyoulookgood</a></li>
-		<li class="HorizListItemLast"><a href="http://www.halloweenparties.com" target="_blank" title="halloweenparties.com" rev="vote-for">halloween parties</a></li>
-    </ul>		
-
+		<li class="HorizListItemLast"><a href="http://www.halloweenparties.com" target="_blank" title="halloweenparties.com" rev="vote-for">halloween</a></li>
+        
+    </ul>
+    <div class="cityLink">        
+         <a class="City" href="/US">USA</a> <br> <a class="City" href="/CA">CANADA</a>        
+    </div>
+    <div class="networkLink">
+        <img src="/assets/images/buttons/footersprite.png" alt="Twitter" usemap="#socialnetworkfooter" width="132px;" height="40px;">
+        <map name="socialnetworkfooter">
+            <area shape="rect" coords="0, 0 ,43, 40" href="http://www.facebook.com/pages/wwwclubplanetcom/40249033921" alt="facebook" target="_blank" rel="no-follow">
+            <area shape="rect" coords="44, 0 ,86, 40" href="http://twitter.com/clubplanet" alt="twitter" target="_blank">
+            <area shape="rect" coords="87, 0 ,132, 40" href="http://feeds.feedburner.com/cp-main" alt="RSS" target="_blank">
+        </map>
+    </div>
 </div>
 
 <p></p>
@@ -1081,56 +885,69 @@ div.submenu .imageWrapper {width:165px;}
 		<li><a target="_top" href="/careers">careers</a></li>
 		<li class="last"><a target="_top" href="/aboutus/Advertising.aspx">advertising</a></li>
 	</ul>
-	<p></p>
    	
-	<ul>
-		<li><a href="/newyears">Miami New Years Eve</a></li>
-		<li><a href="/newyears">Miami New Years Tickets</a></li>
-		<li><a href="/newyears">Miami New Year's 2011</a></li>
-		<li><a href="http://www.halloweenparties.com" target="_blank">Halloween Miami</a></li>
-		<li class="last"><a href="http://www.halloweenparties.com" target="_blank">Miami Halloween Tickets</a></li>
-    </ul>		
-
 </div>
 
 <div>
     Tel: (212)843-2400
 </div>
 <div>
-	<div id="copyRight">Copyright © 2011 Clubplanet, Inc. All Rights Reserved.</div>
+	<div id="copyRight">Copyright © 2012 Clubplanet, Inc. All Rights Reserved.</div>
 
 </div>
 
 
 
 					    </div>						
-    					
-					    
-    				    
+                        <input type="hidden" name="ctl00$ctl00$hidAdPageZone" id="ctl00_ctl00_hidAdPageZone">
+                        <input type="hidden" name="ctl00$ctl00$hidGoogleAdPageZone" id="ctl00_ctl00_hidGoogleAdPageZone">
+                        <input type="hidden" name="ctl00$ctl00$hidShowAds" id="ctl00_ctl00_hidShowAds">
+                        
 					</div>
                     
                     
 
 				</div>
 			</div>
+            
+            <a id="ctl00_ctl00_lnkModalPopupTrigger" href="javascript:__doPostBack('ctl00$ctl00$lnkModalPopupTrigger','')" style="display:none;"></a>
+            
+            <div id="ctl00_ctl00_pnlPopup" class="popup" style="display:none;">
+	
+                <div id="ctl00_ctl00_pnlDragger" class="title">
+		
+                    <div id="ModalPopupHeader" class="text"><!-- --></div>
+                    <a id="ctl00_ctl00_lnkPopupClose" class="close" href="javascript:__doPostBack('ctl00$ctl00$lnkPopupClose','')"></a>
+                
+	</div>
+                <div id="ModalPopupBody" class="Content">
+                    <iframe frameborder="0" marginheight="0" marginwidth="0" id="ModalPopupBoxIframe" name="ModalPopupBoxIframe"></iframe>
+                </div>
+            
+</div>
 					
     		
 
 <script type="text/javascript">
 //<![CDATA[
-Sys.Application.initialize();
 Sys.Application.add_init(function() {
     $create(AjaxControlToolkit.ModalPopupBehavior, {"BackgroundCssClass":"popupUiCover","CancelControlID":"ctl00_ctl00_lnkPopupClose","PopupControlID":"ctl00_ctl00_pnlPopup","PopupDragHandleControlID":"ctl00_ctl00_pnlDragger","dynamicServicePath":"/aboutus/privacy.aspx","id":"ctl00_ctl00_mpePopup"}, null, null, $get("ctl00_ctl00_lnkModalPopupTrigger"));
-});
-Sys.Application.add_init(function() {
-    $create(AjaxControlToolkit.HoverMenuBehavior, {"OffsetX":-200,"OffsetY":10,"PopupPosition":3,"dynamicServicePath":"/aboutus/privacy.aspx","id":"ctl00_ctl00_Header1_ctl00_HoverMenuExtender1","popupElement":$get("ctl00_ctl00_Header1_ctl00_pnlZone")}, null, null, $get("ctl00_ctl00_Header1_ctl00_pnlMoreCities"));
 });
 //]]>
 </script>
 </form>
     
-    
-   	    
+     
+            
+
+   	    <script type="text/javascript">
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+   	            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+   	            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+   	        })();
+       </script>
+
    	    <!-- Start Quantcast tag -->
         <script type="text/javascript">
             _qoptions = {
@@ -1146,8 +963,10 @@ Sys.Application.add_init(function() {
         <!-- Advertiser 'Global Interactive',  Include user in segment 'nightlife' - DO NOT MODIFY THIS PIXEL IN ANY WAY -->
         <img src="http://ad.globalinteractive.com/pixel?id=586930&amp;t=2" width="1" height="1">
         <!-- End of segment tag -->
+
+        
          
-        <!-- Trojan ad tracking -->
-        <!--<img src="http://view.atdmt.com/MSR/view/255914081/direct/01/" width="1" height="1" />-->
+		
+
 	
 </body></html>
