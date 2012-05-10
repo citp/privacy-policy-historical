@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blingo.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229030847id_/http%3A//www.blingo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blingo.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510145735id_/http%3A//www.blingo.com/privacy) for the most accurate reproduction.*
 
-# Blingo: Privacy Policy
+# Privacy Policy | Instant Win Prizes from Searching, Free Online Sweepstakes | PCHSearchAndWin
 
 **Blingo** recognizes that privacy is an important issue, so we design and operate our site with the protection of your privacy in mind. This Privacy Policy outlines the types of information we gather when you use Blingo, as well as some of the steps we take to safeguard it. 
 
@@ -40,7 +40,7 @@ The sites displayed as search results or linked to by Blingo Search Services are
 
 ## Changes to the Privacy Policy
 
-By using the Blingo Search Services and our Website, you consent to the collection and use of your information as we have outlined in this policy and to our [Terms of Service Policy](https://web.archive.org/tos). Blingo may decide to change this Privacy Policy from time to time. When we do, we will post those changes prominently on our Website so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. Please review this Privacy Policy from time to time so that you will be apprised of any changes.
+By using the Blingo Search Services and our Website, you consent to the collection and use of your information as we have outlined in this policy and to our [Terms of Use Policy](https://web.archive.org/tou). Blingo may decide to change this Privacy Policy from time to time. When we do, we will post those changes prominently on our Website so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. Please review this Privacy Policy from time to time so that you will be apprised of any changes.
 
 ## Contact Information
 
@@ -54,8 +54,8 @@ Port Washington, NY 11053-4016
 
 | 
 
-[](https://web.archive.org/aboutfriends)  
+[](https://web.archive.org/)  
   
-Copyright © 2004-9 Blingo, Inc. 
+Copyright © 2004-2012 Blingo, Inc. 
 
 All trademarks and registered trademarks appearing on this site are the property of their respective owners. Said owners do not endorse nor are they affiliated with Blingo.com or its promotions.
