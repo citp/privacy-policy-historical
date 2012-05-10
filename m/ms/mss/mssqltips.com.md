@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mssqltips.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228124112id_/http%3A//www.mssqltips.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mssqltips.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510085231id_/http%3A//www.mssqltips.com/privacy.asp) for the most accurate reproduction.*
 
 # MSSQLTips - Privacy
 
@@ -36,31 +36,5 @@ If you have questions about our Privacy Statement, please e-mail us at [privacy@
 
 updated: 9/22/2011
 
-| 
+  
 
-[](http://www.mssqltips.com/tac.asp?b=943&l=http://www.red-gate.com/products/sql-development/sql-compare/entrypage/deployment?utm_source=mssql&utm_medium=rectangle&utm_term=5167&utm_content=deploy&utm_campaign=sqlcompare)
-
-[](http://www.mssqltips.com/tac.asp?b=1081&l=http://www.idera.com/Promo/SQL-safe-7-Beta/?s=BN_MSSQLTips_safebeta)  
-[](http://www.mssqltips.com/tac.asp?b=1081&l=http://www.idera.com/Promo/SQL-safe-7-Beta/?s=BN_MSSQLTips_safebeta)
-
-  * Events
-  * Giveaways
-  * Contribute
-
-
-
-## Giveaways
-
-**Giveaways**  
-[Win a Kindle Fire](http://www.mssqltips.com/giveaway.asp)
-
-MSSQLTips is giving away a Kindle Fire.
-
-The winner will be selected on December 23, 2011. 
-
-## Contribute
-
-**Contribute and make some money!**  
-[Become a MSSQLTips author](http://www.mssqltips.com/contribute.asp)
-
-Share your knowledge about SQL server with the MSSQLTips community. Just about every day you probably learn something new, so share that knowledge. 
