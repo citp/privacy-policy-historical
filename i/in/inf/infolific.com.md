@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infolific.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223092205id_/http%3A//infolific.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infolific.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510161251id_/http%3A//infolific.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Infolific
 
@@ -21,3 +21,7 @@ Note that you can change your browser settings to disable cookies if you have pr
 ## Contact Information
 
 Concerns or questions about this privacy policy can be directed to admin [at] infolific [dot] com for further clarification.
+
+What did you think of this article?
+
+Rating: 0.0/ **5** (0 votes cast)
