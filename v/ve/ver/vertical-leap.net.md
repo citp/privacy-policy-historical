@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vertical-leap.net privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116195709id_/http%3A//www.vertical-leap.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vertical-leap.net privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510163854id_/http%3A//www.vertical-leap.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Vertical Leap - The Search Marketing Specialists
 
@@ -10,7 +10,7 @@ At Vertical Leap Ltd, providing our customers with useful Analytics without infr
 Vertical Leap is committed to maintaining the trust and confidence of its customers and visitors to our web sites. We are also committed to the security of the data we collect for sites using Search Analytics, and the trust and confidence of visitors who frequent those sites. That’s why we want you to understand when we collect and use information about you, the actions we take to protect your privacy and our commitment to data security. Because your privacy is important, Vertical Leap will not sell, rent or trade your personal information except as outlined in this privacy statement.
 
 **What is Vertical Leap’s business?**  
-Vertical Leap Ltd provides a fully managed search engine marketing service (including [search engine optimisation](http://www.vertical-leap.co.uk/seo/)) for its clients with the express aim of improving their website’s ranking positions in the main organic search engines such as Google and MSN.
+Vertical Leap Ltd provides a fully managed search engine marketing service (including search engine optimisation) for its clients with the express aim of improving their website’s ranking positions in the main organic search engines such as Google and MSN.
 
 The following documents describe our privacy practices for www.vertical-leap.co.uk. It details how we handle the information we gather about visitors to our customers’ web sites running Vertical Leap Search Analytics as well as information about our customers’ visits to www.vertical-leap.co.uk to retrieve their reports.
 
@@ -120,4 +120,4 @@ Boathouse 6
 Portsmouth Historic Dockyard  
 Portsmouth, Hampshire  
 PO1 3LJ  
-England 
+England
