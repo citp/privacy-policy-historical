@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bee.com.eg privacy policy that was archived on 2011-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111028041146id_/http%3A//bee.com.eg/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bee.com.eg privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510201257id_/http%3A//www.bee.com.eg/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -60,4 +60,6 @@ TBE Egypt “ **Bee** ” is not responsible for the privacy policies or practic
 
 ## Contact TBE Egypt “Bee”
 
-If you have any questions about this privacy policy or TBE Egypt “ **Bee** ”'s treatment of your personal information, please report this by email to [info@bee.com.eg](mailto:info@bee.com.eg) or by post to TBE Egypt “ **Bee** ” at their address: 27, Street 10, Block 63, Mahatta Square, Maadi, Helwan, Egypt.
+If you have any questions about this privacy policy or TBE Egypt “ **Bee** ”'s treatment of your personal information, please report this by email to [info@bee.com.eg](mailto:info@bee.com.eg) or by post to TBE Egypt “ **Bee** ” at their address: 27, Street 10, Block 63, Mahatta Square, Maadi, Cairo, Egypt.
+
+Also, you can call us anytime 24/7 on our dedicated call center at 16BEE (16233), and you can inquire about any of Bee services and also about the nearest “Bee” outlet to you.
