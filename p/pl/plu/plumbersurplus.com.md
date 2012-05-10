@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the plumbersurplus.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101155632id_/http%3A//www.plumbersurplus.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plumbersurplus.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510195443id_/http%3A//www.plumbersurplus.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy at PlumberSurplus.com
 
-[](https://web.archive.org/Save-on-Price-Pfister.aspx)
+[](https://web.archive.org/Thousandsshipfreedaily.aspx)
 
 [Home](https://web.archive.org/) > **Privacy Policy**
 
@@ -12,10 +12,10 @@ Our web site allows you to buy products and services, enter contests, receive sp
 
 Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you online. For some services, we either collect and transfer personal information to a service provider you have selected, or you may visit other merchants through links on our site who may collect and use your personal information. We encourage you to ask questions and to be very cautious before you disclose your personal information to others.
 
-Questions regarding this Policy should be directed to [info@plumbersurplus.com](mailto:info@plumbersurplus.com) or may also be contacted directly at the following address::
+Questions regarding this Policy should be directed to [info@PlumberSurplus.com](mailto:info@PlumberSurplus.com) or may also be contacted directly at the following address::
 
 Privacy Compliance Officer  
-PlumberSurplus.com, LLC  
+PlumberSurplus.com,   
 P.O. Box 4786  
 Riverside, CA 92514 
 
@@ -25,7 +25,7 @@ In order to better provide you with numerous products and services, PlumberSurpl
 
 #### Personally Identifiable Information
 
-This refers to information that lets us know the specifics of who you are. Personal information is requested when you order a product or service, enter contests or sweepstakes, fill out surveys, and send us feedback. For example, this information might include your name, billing address, shipping address, telephone number, e-mail address, credit card or other payment information, and product details. With this information, PlumberSurplus.com can fill your orders and better provide you with personalized services. For a few services, we may collect your personal information on behalf of other merchants or entities and share it with them. For example, to consider discounts for contractors, we may ask you for your social security number, contractor's license number and date of birth and share that information with third-party verification service providers. If you visit one of the stores available through a link on our site, they will independently collect, use and share your personal information in accordance with their own privacy policies. If you have questions about their information practices, please read their privacy policies. In many cases, you can find a link to their privacy policies on the page offering the Partners' services. 
+This refers to information that lets us know the specifics of who you are. Personal information is requested when you order a product or service, enter contests or sweepstakes, fill out surveys, and send us feedback. For example, this information might include your name, billing address, shipping address, telephone number, e-mail address, credit card or other payment information, and product details. With this information, PlumberSurplus.com can fill your orders and better provide you with personalized services. For a few services, we may collect your personal information on behalf of other merchants or entities and share it with them. If you visit one of the stores available through a link on our site, they will independently collect, use and share your personal information in accordance with their own privacy policies. If you have questions about their information practices, please read their privacy policies. In many cases, you can find a link to their privacy policies on the page offering the Partners' services. 
 
 #### Non-Personally Identifiable Information
 
@@ -45,10 +45,7 @@ We gather information in the following ways:
 We collect IP addresses for the purposes of system administration, to gather broad demographic information, to enable ads to be served on our site, to report Non-Personally Identifiable Information to our advertisers, and to monitor the level of activity on our site. We collect information from visitors to our site regarding the URLs they came from, domain types (e.g., .com or .org), their IP addresses, the date and time of their visit or order, the number of visits and orders, the number of visits per browsing session, the server type, the operating system and browser type used to come to the site, the country, state and telephone area code where their servers are located, the pages and page titles of our site that visitors viewed during their visit, whether the visitor's computer is enabled for Java or cookies, browser language, applications and plug-ins, and any search terms entered on our site.
 
 **Ordering**  
-When you order from us, we collect personally identifiable information from you. If you order one of our products or services, we will collect and maintain your name, e-mail address, billing address, shipping address, telephone number, product selections, credit card or other payment information, order number, referring URL, IP address, page you bought from and a password. We collect this, and other information, as disclosed in this Policy, in order to fill your order, to communicate with you about your order and to send you promotional materials. Before confirming your order, you will have the opportunity to review the product order form and make changes and additions to the information it contained and these changes will be automatically kept for future use.
-
-**Contractor Discounts**  
-To consider discounts for contractors, we may collect such such information as your social security number, driver's license, date of birth and order specific information on behalf of third-party verification service providers. We may use and transfer to our fulfillment partners and the third-party verification service providers such information together with your other personal information as needed to fulfill any orders that you may place. The third-party verification service providers may use and share that information in accordance with their own privacy policies. Please review the privacy policy of your third-party verification service providers to understand how such information may be used and disclosed by such third-party verification service providers.
+When you order from us, we collect personally identifiable information from you. If you order one of our products or services, we will collect and maintain your name, e-mail address, billing address, shipping address, telephone number, product selections, or other payment information, order number, referring URL, IP address, page you bought from and a password. We collect this, and other information, as disclosed in this Policy, in order to fill your order, to communicate with you about your order and to send you promotional materials. Before confirming your order, you will have the opportunity to review the product order form and make changes and additions to the information it contained and these changes will be automatically kept for future use.
 
 **Online Surveys and Polling**  
 In order to improve our services to you, we ask some of our customers to voluntarily complete surveys, which may be collected by an independent third party. Individual survey answers are confidential, although Non-Personally Identifiable Information is collected and disclosed to third parties. If you do not wish to participate in a survey, simply decline to participate when asked.
@@ -63,7 +60,7 @@ We periodically send emails such as, account emails, order emails, product email
 If you contact PlumberSurplus.com or our customer service representatives by telephone, e-mail or letter, we may keep a record of your correspondence or comments. If you report a problem with our site, we may collect such information in a file specific to you. If you contact us through our feedback area or by calling one of our customer service representatives, we may ask for your name, e-mail address and order information in order to send you a reply. If other users or third parties send us correspondence about your activities or purchases on our site, we may keep the information in a file specific to you.
 
 **Product Reviews**  
-PlumberSurplus.com LLC has arranged with PowerReviews, Inc. (d/b/a Buzzillions) ("PowerReviews") to facilitate the collection of customer product reviews on products sold by PlumberSurplus.com LLC. When you submit a product review to PlumberSurplus.com LLC, you are also subject to PowerReviews' terms of use and privacy policies (see <http://www.buzzillions.com/public/legal/index_en_US.html>). Accordingly, you should review those policies prior to submitting a review. Also, reviews you submit may be posted on both [http://www.Buzzillions.com](http://www.buzzillions.com/) and PlumberSurplus.com.
+PlumberSurplus.com has arranged with PowerReviews, Inc. (d/b/a Buzzillions) ("PowerReviews") to facilitate the collection of customer product reviews on products sold by PlumberSurplus.com. When you submit a product review to PlumberSurplus.com, you are also subject to PowerReviews' terms of use and privacy policies (see <http://www.buzzillions.com/public/legal/index_en_US.html>). Accordingly, you should review those policies prior to submitting a review. Also, reviews you submit may be posted on both [http://www.Buzzillions.com](http://www.buzzillions.com/) and PlumberSurplus.com.
 
 **Customer Service**  
 We use a third party to help us provide customer service. In order to help you most effectively, we provide them with your order information.
@@ -74,14 +71,6 @@ We may display advertisements on our site. By knowing a little about you, Plumbe
 We also track customers' traffic patterns throughout their online session, including which pages, information and advertisements a customer views while using the site and what items they place in their basket or purchase. We use your IP address to diagnose problems with our servers, software, to administer our site and to gather demographic information.
 
 We may share aggregated statistics about pages viewed on our site, sales and other shopping information with third parties. 
-
-#### Cookies
-
-We use cookies and may allow others to use cookies in the operation of our site; to find out what cookies are and how they are used, read the entire Privacy Policy. 
-
-#### Analysis Tools
-
-We may use and allow others to use analysis tools in the operation of our site; to find out what analysis tools are and how they are used, read the entire Privacy Policy. 
 
 #### Who is collecting your information?
 
@@ -115,7 +104,7 @@ Compliance with Service of Process or Law Enforcement: Occasionally PlumberSurpl
 
 Sweepstakes and Drawings: Where you enter a sweepstakes, drawing or other promotion, we may provide entry information, including name, address, email address and age to the company providing the prize or sponsoring the promotion. They may use your Personally Identifiable Information to send you marketing or promotional materials or other communications. 
 
-#### How can you update or correct your Personally Identifieable Information?
+#### How can you update or correct your Personally Identifiable Information?
 
 We believe you should have the ability to access and edit the personal information that you have provided to us. During the online ordering process you can review, change, or delete the information that you have submitted. You may change any of your personal information in your account online at any time. We encourage you to promptly update your information if it changes. You may ask to have the information on your account deleted or removed; however, because we keep track of past purchases, you cannot delete information associated with past purchases. Also, as a security measure we "back up" the data stored on our systems, and such prior information cannot be completely removed from our databases. As a result, you should not expect that all of your Personally Identifiable Information will be completely removed from our backed-up databases. 
 
@@ -131,9 +120,9 @@ In order to most efficiently serve you, credit card transactions and order fulfi
 
 When you access your account information, the information is kept on a secure server. All of the customer data we collect is protected against unauthorized access by physical security means.
 
-#### A special note about childrens privacy
+#### A special note about children's privacy
 
-You must be at least 18 years old to have our permission to use this site. Our policy is that we do not knowingly collect, use or disclose Personally Identifiable Information about visitors under 13 years of age. If you are the parent or guardian of a child under 13 years of age and believe that they have disclosed personally identifiable information to us, please contact us at [info@plumbersurplus.com](mailto:info@plumbersurplus.com) so that we may delete the child's information. 
+You must be at least 18 years old to have our permission to use this site. Our policy is that we do not knowingly collect, use or disclose Personally Identifiable Information about visitors under 13 years of age. If you are the parent or guardian of a child under 13 years of age and believe that they have disclosed personally identifiable information to us, please contact us at [info@PlumberSurplus.com](mailto:info@PlumberSurplus.com) so that we may delete the child's information. 
 
 #### PlumberSurplus.com and third-party use of "cookies" and "analysis tools."
 
@@ -155,19 +144,8 @@ You should carefully review privacy policies of any third party sites accessible
 
 Other sites accessible through our web site have their own privacy policies and data collection, use and disclosure practices. Please consult each site's privacy policy. PlumberSurplus.com is not responsible for the policies or practices of third parties. Please be aware that this site may contain links to other sites on the Internet that are owned and operated by third parties. The information practices of those web sites linked to PlumberSurplus.com are not covered by this Privacy Policy. These other sites may send their own cookies to users, collect data, or solicit personal information. Additionally, other companies that place advertising on our site may collect information about you when you view or click on their advertising through the use of cookies. We cannot control this collection of information. You should contact these advertisers directly if you have any questions about their use of the information that they collect.
 
-On behalf of various sponsors, PlumberSurplus.com provides sponsored links to third-party web sites. If you click on a sponsored link or banner ad, a "window" or "frame" containing a third-party's web site may appear in the foreground with the PlumberSurplus.com web site in the background. Unless you are on PlumberSurplus.com's web site, any time that you have moved to a window, you should assume that your personal information is being collected, used and disclosed in accordance with the windowed site's privacy policy (if any). If you are unsure as to whose privacy policy applies, please contact us by e-mail at [info@plumbersurplus.com](mailto:info@plumbersurplus.com), or by sending a letter to the address below. 
+On behalf of various sponsors, PlumberSurplus.com provides sponsored links to third-party web sites. If you click on a sponsored link or banner ad, a "window" or "frame" containing a third-party's web site may appear in the foreground with the PlumberSurplus.com web site in the background. Unless you are on PlumberSurplus.com's web site, any time that you have moved to a window, you should assume that your personal information is being collected, used and disclosed in accordance with the windowed site's privacy policy (if any). If you are unsure as to whose privacy policy applies, please contact us by e-mail at [info@PlumberSurplus.com](mailto:info@PlumberSurplus.com), or by sending a letter to the address below. 
 
-#### Contacting PlumberSurplus.com about privacy questions or concerns
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact PlumberSurplus.com by sending a letter to:
-
-Attn: Privacy Compliance Officer  
-PlumberSurplus.com, LLC  
+PlumberSurplus.com  
 P.O. Box 4786  
 Riverside, CA 92514
-
-You may also contact us by email at [info@plumbersurplus.com](mailto:info@plumbersurplus.com)
-
-#### Privacy Policy changes
-
-This Privacy Policy was last changed on July 7, 2008. If PlumberSurplus.com makes changes to any terms or conditions of the Privacy Policy, the changes will be posted in this document so that you will always know what information we gather, how we might use that information and to whom we will disclose it. We may change, modify, add or remove portions of this Policy at any time, and any changes will become effective immediately upon being posted unless we tell you otherwise. 
