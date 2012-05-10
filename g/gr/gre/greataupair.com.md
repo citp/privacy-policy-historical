@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the greataupair.com privacy policy that was archived on 2011-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111028013313id_/http%3A//greataupair.com/support.cfm/topic/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greataupair.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510165633id_/http%3A//www.greataupair.com/support.cfm/topic/privacy) for the most accurate reproduction.*
 
 # Nanny Agency Au Pair Work Child Care Jobs Babysitter Service
 
 ## Privacy & Security Policy
 
-It is InteliMark Enterprises’ and GreatAupair's policy to maintain strict security and privacy practices to protect its systems and its customer data. GreatAupair maintains compliance with U.S. State and Federal laws. Please visit our [Security Center](https://web.archive.org/security_center.htm) to learn more about how we help protect you and how you can help protect yourself against potential online fraud.
+It is GreatAuPair's policy to maintain strict security and privacy practices to protect its systems and its customer data. GreatAuPair maintains compliance with U.S. State and Federal laws. Please visit our [Security Center](https://web.archive.org/security_center.htm) to learn more about how we help protect you and how you can help protect yourself against potential online fraud.
 
-InteliMark Enterprises is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the website GreatAupair.com. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first [contact the support team](https://web.archive.org/support.cfm/topic/help) at GreatAupair.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url=](http://watchdog.truste.com/pvr.php?page=complaint&url).
-
-TRUSTe will then serve as a liaison with us to resolve your concerns.
+GreatAuPair has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this website, www.GreatAuPair.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact [GreatAuPair Support](https://web.archive.org/support.cfm/topic/help). If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 ### Anti-Spam & UCE Policy
 
@@ -18,27 +14,31 @@ InteliMark Enterprises and GreatAupair do not send out unsolicited commercial em
 
 ### Privacy & Personal Information
 
-InteliMark Enterprises and GreatAupair have a firm commitment to safeguarding the privacy of our members' Personally Identifiable Information.
+GreatAuPair has a firm commitment to safeguarding the privacy of our members' Personally Identifiable Information.
 
-We offer this statement to inform our users of how we define, gather and utilize personal information. We reserve the right, at our sole discretion, to alter this policy at any time. Alterations shall become effective immediately upon the posting thereof. Without limiting the foregoing, we may occasionally notify you by email about changes to GreatAupair, its terms or policies or provide notices of changes by displaying notices or links to notices on the website. Your continued use of GreatAupair following the posting of changes and/or modifications will constitute your acceptance of the revised Terms and Privacy Policy. This Policy may change from time to time, so please check back periodically.
+We offer this statement to inform our users of how we define, gather and utilize personal information. We reserve the right, at our sole discretion, to alter this policy at any time. Alterations shall become effective immediately upon the posting thereof. Without limiting the foregoing, we may occasionally notify you by email about changes to GreatAuPair, its terms or policies or provide notices of changes by displaying notices or links to notices on the website. Your continued use of GreatAuPair following the posting of changes and/or modifications will constitute your acceptance of the revised Terms and Privacy Policy. This Policy may change from time to time, so please check back periodically.
 
-We collect personal information from guests and members during the registration and payment processes and, occasionally, at other times. Information collected by GreatAupair is securely stored by physical and electronic means. Data collected by GreatAupair will not be sold or rented on an individual basis to independent third parties without your knowledge or permission. By accepting the GreatAupair Terms of Use, you acknowledge and grant permission to GreatAupair to use your Personal Contact Information as specifically stated under Uses of Personal Contact Information, herein, on GreatAupair and InteliMark’s Childcare Network Affiliate websites.
+We collect personal information from guests and members during the registration and payment processes and, occasionally, at other times. Information collected by GreatAuPair is securely stored by physical and electronic means. Data collected by GreatAuPair will not be sold or rented on an individual basis to independent third parties without your knowledge or permission. By accepting the GreatAuPair Terms of Use, you acknowledge and grant permission to GreatAupair to use your Personal Contact Information as specifically stated under Uses of Personal Contact Information, herein, on GreatAuPair and its Childcare Network Affiliate websites.
 
-Search engines may index publicly available information from your profile, such as your first name, that is searchable by anyone on the Internet. Search engines do not have access to any Personal Contact Information contained within the fields of a profile, some of which is available only to paid members of the GreatAupair service. Personal Contact Information is defined as first and last name together, email address, phone number and physical street address. We also collect your credit card number if you make a purchase. With your permission, we will also supplement data through a background check.
+Search engines may index publicly available information from your profile, such as your first name, that is searchable by anyone on the Internet. Search engines do not have access to any Personal Contact Information contained within the fields of a profile, some of which is available only to paid members of the GreatAuPair service. Personal Contact Information is defined as first and last name together, email address, phone number and physical street address. We also collect your credit card number if you make a purchase. With your permission, we will also supplement data through a background check.
 
 ### Uses of Personal Contact Information
 
-Paid members may see your first and last name listed on your profile. You have the option of providing your phone number, which you may elect to display or not display to paid members; either families or care providers who are claiming to seek a working relationship with you as a result of your online registration. Your email address is not visible to anyone, except to those whom you directly send an email during the time you have a paid subscription. Your physical address is not revealed on the website. A map showing the location of your city or zip code is available and may be seen by registered users. No representations or warranties are made regarding the legitimacy of the claims of those who have paid for a membership subscription to contact you through GreatAupair's private messaging system which relies on your Personal Contact Information. You are urged to validate the identity of anyone who contacts you and utilize the background check resources available to you through GreatAupair and the Childcare Network before making any commitments or arrangements. We do not sell, share, rent or trade personal information with third parties for their promotional purposes. 
+Paid members may see your first and last name listed on your profile. You have the option of providing your phone number, which you may elect to display or not display to paid members; either families or care providers who are claiming to seek a working relationship with you as a result of your online registration. Your email address is not visible to anyone, except to those whom you directly send an email during the time you have a paid subscription. Your physical address is not revealed on the website. A map showing the location of your city or zip code is available and may be seen by registered users. No representations or warranties are made regarding the legitimacy of the claims of those who have paid for a membership subscription to contact you through GreatAuPair's private messaging system which relies on your Personal Contact Information. You are urged to validate the identity of anyone who contacts you and utilize the background check resources available to you through GreatAuPair and the Childcare Network before making any commitments or arrangements. We do not sell, share, rent or trade personal information with third parties for their promotional purposes. 
 
 The information you provide during registration may also be used to enable us to process, validate and verify services or membership subscription purchases. We may also provide advertisers with aggregate - never individual - information about our member base and usage patterns. We may also use aggregated information to develop new features and services to better meet member needs.
 
 Internally we may use aggregated and personally identifiable information to improve our marketing efforts, to statistically analyze site usage, to improve our content and product offerings as well as to customize our site's content and layout. We believe these uses allow us to improve our site and better tailor your online experience to meet your needs.
 
-We also may use personally identifiable information about you to deliver information to you that, in some cases, is targeted to your interests, such as GreatAupair news, updates, promotions, Favorites notifications or FastMatch emails. You may opt out of receiving such automated information services at any time by signing in to your account: click My Account then click Preferences in the sub-navigation menu to select your email preferences.
+We also may use personally identifiable information about you to deliver information to you that, in some cases, is targeted to your interests, such as GreatAuPair news, updates, promotions, Favorites notifications or FastMatch emails. You may opt out of receiving such automated information services at any time by signing in to your account: click My Account then click Preferences in the sub-navigation menu to select your email preferences.
 
 Users also may post third party personal information, such as name and email for referral purposes. This information is used only for the purposes which it was collected.
 
 We use personally identifiable information to resolve disputes, troubleshoot problems and enforce our Terms of Use.
+
+### Updating/Accessing/Amending/Correcting Personally Identifiable Information
+
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, amend, deactivate or delete it by making your desired changes on your [My Account](https://web.archive.org/myaccount.cfm) page or by contacting our [Customer Support](https://web.archive.org/support.cfm/topic/help) team by email, phone or U.S. mail.
 
 ### Communications from the Site
 
@@ -52,11 +52,11 @@ Out of respect for your privacy, we provide you a way to unsubscribe. At the bot
 
 If you wish to subscribe to our newsletter, we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. At the bottom of every Newsletter, you will find an "Opt-out" link at the bottom, which if clicked, will remove your name from the list of recipients for future Newsletters.
 
-We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate or cancel your account.
+We will send you service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate or cancel your account.
 
 We reserve the right to disclose your personally identifiable information to enforce our Terms of Use, prevent fraud, or as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our website.
 
-This website contains links to other sites that are not owned or controlled by InteliMark Enterprises. Please be aware that we, InteliMark Enterprises, are not responsible for the privacy practices of such other sites.
+This website contains links to other sites that are not owned or controlled by GreatAuPair. Please be aware that we, GreatAuPair, are not responsible for the privacy practices of such other sites.
 
 We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects personally identifiable information.
 
@@ -66,7 +66,7 @@ If you use a bulletin board or chat room on this site, you should be aware that 
 
 The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). To learn more about how we help protect you and your privacy, visit our [Security Center](https://web.archive.org/security_center.htm).
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. InteliMark Enterprises does not store and only uses this information for the sole purpose of sending this one-time email.
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. GreatAuPair does not store and only uses this information for the sole purpose of sending this one-time email.
 
 We use third parties such as a credit card processing company to bill you for services. When you sign up for our service, we will share only that specific personal information as necessary for the third party to provide that service. These third parties are prohibited from using your personally identifiable information for promotional purposes.
 
@@ -82,9 +82,17 @@ We also may conduct occasional online surveys. If you choose to participate, you
 
 ### Cookie Technology
 
-We also employ cookie technology to help members move faster through our site. When a member signs on to GreatAupair we may pass a cookie to that user's computer. A cookie is a string of information that's sent by a website and stored on your hard drive or temporarily in your computer's memory. This avoids the potentially time-consuming task of entering your user name and password each time a page is requested. Data contained in the cookies is encrypted and is not linked to personal information.
+We also employ cookie technology to help members move faster through our site. When a member signs on to GreatAuPair we may pass a cookie to that user's computer. A cookie is a string of information that's sent by a website and stored on your hard drive or temporarily in your computer's memory. This avoids the potentially time-consuming task of entering your user name and password each time a page is requested. Data contained in the cookies is encrypted and is not linked to personal information.
 
-We use a third-party tracking service provided by Google, called Google Analytics that uses cookies to track non-personally identifiable information about visitors to our site in the aggregate. 
+We use a third-party tracking service provided by Google, called Google Analytics that uses cookies to track non-personally identifiable information about visitors to our site in the aggregate. The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our privacy statement.
+
+### Web Beacons
+
+Our web pages contain electronic images known as web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+
+### Data Retention
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact our [Customer Support](https://web.archive.org/support.cfm/topic/help) team by email, phone or U.S. mail. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ### Changes in this Privacy Statement
 
@@ -94,6 +102,6 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 ### Contact Us
 
-If you have any questions or suggestions regarding our privacy policy, please contact our [support team](https://web.archive.org/support.cfm/topic/contact) via the support ticketing system or via U.S. Mail at 1327 HWY 395, Suite 10333, Gardnerville, NV 89410.
+If you have any questions or suggestions regarding our privacy policy, please contact our [support team](https://web.archive.org/support.cfm/topic/contact) via the support ticketing system or via U.S. Mail at 100 Congress Avenue, Suite 2000, Austin, TX 78701.
 
-InteliMark may change its Privacy Policy from time to time, so please check back periodically. Last updated May 20, 2010.
+GreatAuPair may change its Privacy Policy from time to time, so please check back periodically. Last updated April 2, 2012.
