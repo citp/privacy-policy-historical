@@ -1,27 +1,37 @@
-> *The following text is extracted and transformed from the touristlink.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118174448id_/http%3A//www.touristlink.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the touristlink.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510230901id_/http%3A//www.touristlink.com/privacy-policy.html) for the most accurate reproduction.*
 
-# TouristLink - The Search Index of Tourism and Travel: Privacy policy
+# Privacy Policy
 
-The copyright of the material contained in this website belongs to and remains with TouristLink. Your access to it does not imply a license to reproduce and/or distribute this information. 
+This privacy policy covers all the users of the Touristlink.com website. We are committed to respecting your privacy. This privacy statement sets forth how www.Touristlink.com uses the information its users provide when using the website. We are committed to ensuring that our user's information is protected. The information you provide us will only be used in accordance with this privacy statement. You, the customer, can help us ensure your privacy by not providing your user name or password to anyone. 
 
-TouristLink has compiled the contents of this site with the utmost of care, but cannot assume any responsibility with respect to the complete accuracy of the data. We advise to verify the information always before you act upon it. 
+WHAT WE COLLECT
+    When registering with us, we may collect the following information from you such as: 
 
-TouristLink is not responsible for the contents of any off-site pages referenced through links. 
+  * Full name
+  * Contact information, including e-mail address
+  * Other information relevant to surveys/promotional offers
 
-Need for Personal Information We explicitly ask when we need information that personally identifies you and/or your company. When you engage in certain activities through this site,TouristLink.com may ask you to provide personal Information about yourself. 
 
-If you elect to order advertising products from TouristLink.com, we may ask that you provide personal information, such as your first and last name, mailing address (including zip code), email address, employer, job title and department, telephone and facsimile numbers, and other personal identifying information. When ordering products, you may be asked to provide a credit card number. Depending upon the activity, some of the information that we ask you to provide is identified as mandatory and some as voluntary. If you do not provide the mandatory data with respect to a particular activity, you will not be able to order products from TouristLink.com. 
+WHAT WE DO WITH THE INFORMATION WE COLLECT
+    We will use the following personal information in order to provide you with the travel offers & promotion from our site and provide our members with outstanding service as we continue to improve our own content and services. 
 
-Sharing of Personal Information Information about our customers is an important part of our business, and we are not in the business of selling it to others. We DO NOT share customer information with anyone. 
+We send update emails to our members from time to time, to keep them up to date with new destinations, promotions, and site news. Members and non-members are subject to the same privacy policies. Members can opt-out of these emails at the time of registration, or by replying to the original email with the word " **unsubscribe** " in the subject line, or by emailing [support@touristlink.com](mailto:support@touristlink.com). We may ask our members additional information when they sign up. Additionally, we may solicit feedback from our customers. When you provide feedback or send inquiries to us, we may retain those   
+communications in order to process your inquiries, respond to your requests and improve our services.
 
-Web Server Logs Each time there is a visitor to our website, the Web server automatically logs the consumer's domain name and IP address. We collect only the domain name of visitors to our website, aggregate information on what pages consumers access or visit, and information volunteered by the consumer, such as survey information and/or site registrations. We do not automatically collect email addresses. 
+**In addition to the above, we use the information that you provide us in the following ways:**
 
-Cookies We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable our website to relate your use of the website to information that you have specifically and knowingly provided to the Site. 
+  * We send all new members a welcoming email to verify password and username. Our members will, from time to time, receive information on tourist destination, services, special deals, and a newsletter.
+  * We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account. We reply via email or phone, in accordance with the users wishes.
+  * We will use your IP (Internet Protocol) address to assist us in diagnosing problems with our server as well as administering our website. Additionally, we use your IP address to help suggest you the matching destination and friend, and to gather broad demographic information about who our users are.
 
-Updating Personal Information You have the right to access and correct your personal information at any time. You may access and correct your Personal Information and privacy preferences by logging in to your account. 
 
-Privacy Related Complaints If you believe that TouristLink.com has not complied with this Online Privacy Policy with respect to your Personal Information, you may write TouristLink.com at the address indicated contact us. 
+COOKIES
+     Cookies are small bits of text used by a browser to store information on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. Usage of a cookie is in no way linked to any personally identifiable information while on our site. When you visit our website, we send one or more cookies to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, this may prevent you from taking full advantage of our website.
+OTHER SITES
+    This privacy policy only covers our website, at www.touristlink.com. Our website may contain links to other websites. Note that we do not have any control over other website once you leave our website and we are not responsible for the protection and privacy of any information which you provide while visiting such sites. Other sites may have privacy policies that differ from ours.
+SSL SECURITY FEATURES
+     This website takes every precaution to protect our user's information. During data transmission, we use Secured Sockets layer (SSL) software, which encrypts information that you input.
 
-In your letter, please describe in as much detail as possible the ways in which you believe that the TouristLink.com Privacy Policy has not been complied with. We will investigate your complaint promptly. 
+We maintain physical, electronic, and procedural safeguards to protect personally identifiable customer information.
 
-If you have questions about this policy, please e-mail us at info@TouristLink.com. 
+If you have any questions or comments regarding our privacy policy, please send us an e-mail at support@touristlink.com. Additionally, we encourage you to check our website from time to time as we may update and modify our privacy policy. 
