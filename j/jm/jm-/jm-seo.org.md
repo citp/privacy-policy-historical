@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jm-seo.org privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124021511id_/http%3A//www.jm-seo.org/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jm-seo.org privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510040932id_/http%3A//www.jm-seo.org/privacy/index.html) for the most accurate reproduction.*
 
 # JM Internet Group: Privacy Policy
 
@@ -11,6 +11,8 @@ Our site also automatically creates logs regarding your and other user sessions 
 JM Internet Group does not sell, distribute or disclose your personally identifiable information collected from jm-seo.org to third parties without your consent. However, we may release information to a third party if required by a legal process such as a subpoena or a search warrant. Please note that visitors to jm-seo.org are not required to provide us personally identifiable information to use the public areas of our site. You can provide us information such as address, e-mail address, or telephone number if you would like to learn more about JM Internet Group’s products and services. 
 
 **Use of Cookies** : Cookies are pieces of data stored on a user’s hard drive that contain information about a user. In the case of secure content access, if your company is a client of JM Internet Group, we use a cookie that contains your login information, so we can ensure that client-specific information is secure from unauthorized access. We utilize an encrypted cookie to track client access to client-specific secure content. These cookies are used only for this purpose and are intended to be used only by our Web site. Please note that you can view and delete these cookies using the features of your browser. 
+
+**Google AdWords Cookies** : Third party vendors, including Google, will show you ads on sites on the Internet including jm-seo.org and other sites as well. Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to this website. Users may opt out of Google's use of cookies by visitng the Google advertising opt-out page at [http://www.google.com/privacy/ads/](http://www.google.com/privacy/ads). For complete information on Google privacy, go to <http://www.google.com/privacy/privacy-policy.html>. 
 
 **Choice and Data Access** : As a representative of your company, you can view and modify your company profile information in the secure client area of our site. 
 
