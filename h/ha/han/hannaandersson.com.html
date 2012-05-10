@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hannaandersson.com privacy policy that was archived on 2011-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111226153209id_/http%3A//www.hannaandersson.com/Static.asp%3Fpg%3D201) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hannaandersson.com privacy policy that was archived on 2012-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120510054501id_/http%3A//www.hannaandersson.com/Static.asp%3Fpg%3D201) for the most accurate reproduction.-->
 
 <html><head>
 	<title>Security &amp; Privacy</title>
@@ -53,6 +53,10 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 	<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+	<link href="UI/CSS/jquery-ui.css" rel="stylesheet" type="text/css">
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="UI/JS/jquery.adobe.autocomplete.min.js"></script>
 	<script language="JavaScript" src="UI/JS/common.js"></script>
 	<script language="JavaScript" src="UI/JS/navMenusIncl.js"></script>
 	<script language="javascript">
@@ -75,14 +79,15 @@
 						img = new Image(); img.src = trckUrl + trckParam + "&prmVal=" + paramArray[1];}}}}
 	}
 		var lng = '', pageType = "general", urlPrefix = "http://www.hannaandersson.com";
-		var surlPrefix = "https://www.hannaandersson.com", joinListTxt = "Join Our E-mail List";
+		var surlPrefix = "https://www.hannaandersson.com", joinListTxt = "sign up for emails";
 		var liveHelpUrl = "http://www.hannaandersson.com/liveHelp.asp";
 		var englishOnlyUrl = "http://www.hannaandersson.com/EnglishOnly.asp";
-		var emailPrefUrl = "http://www.hannaandersson.com/EmailPref.asp";
+		var emailSignUpUrl = "http://www.hannaandersson.com/emailSignUp.asp";
 		var lowQtyUrl = "http://www.hannaandersson.com/lowQty.asp";
 		var holidayShipUrl = "http://www.hannaandersson.com/holidayShipments.asp";
 		var navmenuids=["nav_tree"];
 		var imgBrdrClr = "";
+		var adobeSearchUrl = "hannaandersson.guided.ss-omtrdc.net", adobeSearchAccount = "sp1004c4a1";
 		function freeTextSearch() {
 			var searchUrl = "http://www.hannaandersson.com/search.aspx"; var searchTxt = " keyword or item #";
 			var freeText = document.getElementById("freeText").value;
@@ -110,45 +115,47 @@
   <!--
 		BODY {color:#6f6f5f;}
 		TD {font-size:12px; color:#6f6f5f;}
-		.ttl {font-size:20px; font-weight:bold; color:#b09866;}
+		MAP area {outline:none;}
+		.ttl {font-size:20px; font-weight:bold; color:#95aa63;}
 		.hdr1 {text-decoration:none; color:; font-size:11px;}
 		.mainCat {font-size:12px; text-decoration:none;}
 		.redLink {color:#cc0000;}
 		.errorTxt {color:#e7ac59; font-weight:bold;}
 		.coHdr {text-decoration:none; color:; font-size:11px;}
-		.coTtl {font-size:16px; font-weight:bold; color:#b09866;}
-		.navbar {font-size:11px; font-weight:bold; color:#a58c57;}
+		.coTtl {font-size:16px; font-weight:bold; color:#95aa63;}
+		.navbar {font-size:11px; font-weight:bold; color:#95aa63;}
     .mainContentContainer {background-color:white; text-align:left; width:1000px;
             margin-left:auto; margin-right:auto; padding-top:10px;}
-		.outlnDiv {border:solid 1px #b09866; padding:2px 3px 1px 3px;}
-		.hdrLnks {font-size:10px; color:#6f6f5f;}
+		.outlnDiv {border:solid 1px #bec17a; padding:2px 3px 1px 3px;}
+		.hdrLnks {font-size:11px; color:#6f6f5f;}
 		.hdrLnks a {color:#6f6f5f; text-decoration:none;}
-		.hdrLnksRed {font-size:10px; color:#cc0000; cursor:pointer;}
+		.hdrLnksRed {font-size:11px; color:#cc0000; cursor:pointer;}
 		.vbr {padding:0px 9px 0px 9px;}
-		#mnTd {padding:5px 0px 0px 0px;}
-		#mnDiv {border:solid 1px #b09866; width:978px; text-align:left;}
-		.szChrtTd {border:solid 1px #b09866; padding-top:5px; text-align:left;}
+		#mnTd {padding:0px 0px 0px 0px;}
+		#mnDiv {border:solid 1px #bec17a; width:978px; text-align:left;}
+		.szChrtTd {border:solid 1px #bec17a; padding-top:5px; text-align:left;}
 		.szChrtTbl tr td {padding:4px 0px 3px 15px; text-align:left; font-size:12px;}
 		.szChrtTbl tr td div {text-align:left;}
 		.szChrtHdng td {color:#000000; font-weight:bold;}
 		#siteMsg {width:px; background-color:#eeeeee; color:#dd0000; font-size:12px; text-align:center;
 			padding:5px 0px 5px 0px;}
-		.cnfdncTxt {color:#557736;}
-		.cnfdncBg {background-color:#d4d8ab;}
-		.shpBagTxt {color:#557736;}
-		.shpBagLn {color:#d4d8ab;}
-		.coHiLtTxt {color:#557736;}
-		.coLnBg {background-color:#d4d8ab;}
+		.cnfdncTxt {color:#6F6F5F;}
+		.cnfdncBg {background-color:#e5e6ca;}
+		.shpBagTxt {color:#6F6F5F;}
+		.shpBagLn {color:#e5e6ca;}
+		.coHiLtTxt {color:#6F6F5F;}
+		.coLnBg {background-color:#e5e6ca;}
 	-->
 	</style>
 	<meta name="google-site-verification" content="xcsCFPSe_M1XSo7YY3P3GzemNcbzsI5EvqXNBV7Kl6s">
-<script type="text/javascript" src="/foresee/foresee-surveydef.js?build=7"></script></head>
-<body bgcolor="#F4F1E2" background="" marginwidth="0" onclick="" marginheight="0" leftmargin="0" topmargin="0" onload="updateChatFramePos();checkScrollingImageSets();" link="#000000" onmousemove="" onresize=""><div><script language="JavaScript" type="text/javascript" src="/omniture/haCommon.js"></script>
+<script type="text/javascript" src="/foresee/foresee-surveydef.js?build=3"></script></head>
+<body bgcolor="#E5E6CA" background="" marginwidth="0" onclick="" marginheight="0" leftmargin="0" topmargin="0" onload="updateChatFramePos();checkScrollingImageSets();" link="#000000" onmousemove="" onresize=""><div><script language="JavaScript" type="text/javascript" src="/omniture/haCommon.js"></script>
 <script language="JavaScript" type="text/javascript"><!--
 omniturePageName = "security & privacy:home"; omnitureServer = ""; omnitureChannel = "";
 omniturePageType = ""; omnitureProp1 = "Security & Privacy"; omnitureProp2 = "";
 omnitureProp3 = ""; omnitureProp4 = "Customer Service"; omnitureProp5 = "";
-omnitureProp6 = ""; omnitureProp14 = "Repeat Shopper"; omnitureCampaign = "";
+omnitureProp6 = ""; omnitureProp14 = "Repeat Shopper"; omnitureProp15 = "";
+omnitureProp16 = ""; omnitureProp17 = ""; omnitureCampaign = "";
 omnitureState = ""; omnitureZip = ""; omnitureEvents = "";
 omnitureProducts = ""; omniturePurchaseID = "";
 omnitureEVar1 = ""; omnitureEVar2 = ""; omnitureEVar3 = "";
@@ -218,8 +225,8 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 	
 								<tbody><tr><td class="hdrLnks" valign="middle"></td>
 									<td class="outlnDiv"><table border="0" cellpadding="0" cellspacing="0">
-											<form onsubmit="return freeTextSearch();"></form><tbody><tr>
-												<td valign="center" bgcolor="#ffffff"><input type="text" name="freeText" style="font-size:12px;" id="freeText" size="20" maxlength="50" value=" keyword or item #" onblur="if(this.value=='') this.value=' keyword or item #';" onfocus="if(this.value==' keyword or item #') this.value='';"></td>
+											<form onsubmit="return freeTextSearch();" style="padding:0px;margin:0px;" action="" name="searchForm" id="searchForm"></form><tbody><tr>
+												<td valign="center" bgcolor="#ffffff"><input type="text" name="freeText" style="font-size:12px;position:relative;z-index:999998;" id="freeText" size="20" maxlength="50" value=" keyword or item #" onblur="if(this.value=='') this.value=' keyword or item #';" onfocus="if(this.value==' keyword or item #') this.value='';"></td>
 												<td valign="center" style="padding:0px 0px 1px 2px;"><input type="image" alt="find item" title="find item" src="images/global/button_SEARCH.gif"></td>
 											</tr>
 									</tbody></table></td></tr>
@@ -227,113 +234,125 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 						</div>
 						<div style="position:absolute;width:100%;left:0px;bottom:0px;" align="right">
 							<table border="0" cellpadding="0" cellspacing="0" style="margin-left:auto;"><tbody><tr>
-								<td><a href="http://www.hannaandersson.com/basket.asp?bguid=0F542EB51F5A4D8EB457567571335246"><img src="images/global/ShoppingBag.gif" border="0" alt="View Bag" title="View Bag"></a></td>
-								<td valign="bottom" class="hdrLnks" style="padding-left:3px;"><a href="http://www.hannaandersson.com/basket.asp?bguid=0F542EB51F5A4D8EB457567571335246">View Bag</a><span class="vbr">|</span><a href="http://www.hannaandersson.com/wishList.asp">Wish List</a><span class="vbr">|</span><a href="https://www.hannaandersson.com/login.asp">Sign In</a><span class="vbr">|</span><a href="http://www.hannaandersson.com/OrderStatus.asp">Order Status</a><span class="vbr">|</span>(800) 222-0544<span id="spnLiveChat" style="display:none;"><span class="vbr">|</span><span class="hdrLnksRed" onclick="liveChat();">Live&nbsp;Help</span></span><script language="JavaScript" type="text/javascript">document.write('<img src="https://rs.instantservice.com/resources/smartbutton' +
+								<td><a href="http://www.hannaandersson.com/basket.asp?bguid=02BA93AF9A894796B267CDD6BD0AF067"><img src="images/global/ShoppingBag.gif" border="0" alt="view bag" title="view bag"></a></td>
+								<td valign="bottom" class="hdrLnks" style="padding-left:3px;"><a href="http://www.hannaandersson.com/basket.asp?bguid=02BA93AF9A894796B267CDD6BD0AF067">view bag</a><span class="vbr">|</span><a href="http://www.hannaandersson.com/wishList.asp">wish list</a><span class="vbr">|</span><a href="https://www.hannaandersson.com/login.asp">sign in</a><span class="vbr">|</span><a href="http://www.hannaandersson.com/OrderStatus.asp">order status</a><span class="vbr">|</span>(800) 222-0544<span id="spnLiveChat" style="display:none;"><span class="vbr">|</span><span class="hdrLnksRed" onclick="liveChat();">live&nbsp;help</span></span><script language="JavaScript" type="text/javascript">document.write('<img src="https://rs.instantservice.com/resources/smartbutton' +
 									'/5710/11970/available.gif?' + Math.floor(Math.random()*10001) + '" style="width:0;height:0;visibility:' +
-									'hidden;position:absolute;" onLoad="agents_available()" onError="agents_not_available()">');</script><img src="https://rs.instantservice.com/resources/smartbutton/5710/11970/available.gif?4557" style="width:0;height:0;visibility:hidden;position:absolute;" onload="agents_available()" onerror="agents_not_available()"></td>
+									'hidden;position:absolute;" onLoad="agents_available()" onError="agents_not_available()">');</script><img src="https://rs.instantservice.com/resources/smartbutton/5710/11970/available.gif?1090" style="width:0;height:0;visibility:hidden;position:absolute;" onload="agents_available()" onerror="agents_not_available()"></td>
 							</tr></tbody></table>
 						</div>
 					</div>
 				</td>
 			</tr></tbody></table></td></tr>
 			
-			<tr><td><div style="display:none;width:980px;height:0px;background-color:#b09866;overflow:hidden;"></div></td></tr>
+			<tr><td><div style="display:none;width:980px;height:0px;background-color:#bec17a;overflow:hidden;"></div></td></tr>
 		
 			<tr><td style="padding-top:3px;"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr>
 			
-					<td class="topNavImg" style="padding-left:0px;"><div class="topNav"><div id="topNavImg_1" name="topNavImg_1" class="topNav_left" onmouseover="navMenuMouseOver(this);" onmouseout="navMenuMouseOut(this);"><a href="http://www.hannaandersson.com/division.asp?id=baby"><img alt="baby" title="baby" src="images/Template/DivisionTitle_baby_lo_SIMH11.gif" border="0" id="topNavImg_1_MsOut" style="display:block;"><img alt="baby" title="baby" src="images/Template/DivisionTitle_baby_lo_SIMH11.gif" border="0" id="topNavImg_1_MsOvr" style="display:none;"></a><ul style="top:30px;">
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=baby_very+g%26uuml%3bd&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Baby%20Very%20g%20uuml;d">Very güd</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=baby_layette&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Baby%20Layette">Layette</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=baby_dresses&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Baby%20Dresses">Dresses</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=baby_tops&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Baby%20Tops">Tops</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=baby_bottoms&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Baby%20Bottoms">Bottoms</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=baby_one+piece&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Baby%20One%20Piece">One Piece</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=baby_sweaters+%26+jackets&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Baby%20Sweaters%20Jackets">Sweaters &amp; Jackets</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=baby_outerwear&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Baby%20Outerwear">Outerwear</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=baby_sleepwear&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Baby%20Sleepwear">Sleepwear</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=baby_socks%2c+tights+%26+shoes&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Baby%20Socks%20Tights%20Shoes">Socks, Tights &amp; Shoes</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=baby_hats+%26+mittens&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Baby%20Hats%20Mittens">Hats &amp; Mittens</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=baby_toys+%26+gifts&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Baby%20Toys%20Gifts">Toys &amp; Gifts</a></li>
-		<li><a href="http://www.hannaandersson.com/giftSet.asp?ne=y&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Baby%20Newborn%20Essentials">Newborn Essentials</a></li>
+					<td class="topNavImg" style="padding-left:0px;"><div class="topNav"><div id="topNavImg_1" name="topNavImg_1" class="topNav_left" onmouseover="navMenuMouseOver(this);" onmouseout="navMenuMouseOut(this);"><a href="http://www.hannaandersson.com/division.asp?id=baby"><img alt="baby" title="baby" src="images/Template/DivisionTitle_baby_lo_BOS12.gif" border="0" id="topNavImg_1_MsOut" style="display:block;"><img alt="baby" title="baby" src="images/Template/DivisionTitle_baby_HI_BOS12.gif" border="0" id="topNavImg_1_MsOvr" style="display:none;"></a><ul style="top:40px;">
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=baby_layette&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Baby%20Layette">Layette</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=baby_dresses&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Baby%20Dresses">Dresses</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=baby_tops&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Baby%20Tops">Tops</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=baby_bottoms&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Baby%20Bottoms">Bottoms</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=baby_one+piece&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Baby%20One%20Piece">One Piece</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=baby_sweaters+%26+jackets&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Baby%20Sweaters%20Jackets">Sweaters &amp; Jackets</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=baby_swimwear&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Baby%20Swimwear">Swimwear</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=baby_sleepwear&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Baby%20Sleepwear">Sleepwear</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=baby_socks+%26+shoes&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Baby%20Socks%20Shoes">Socks &amp; Shoes</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=baby_hats&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Baby%20Hats">Hats</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=baby_toys+%26+gifts&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Baby%20Toys%20Gifts">Toys &amp; Gifts</a></li>
+		<li><a style="color:#e7ac59;" onmouseover="this.style.color='#33cccc';" onmouseout="this.style.color='#e7ac59';" href="http://www.hannaandersson.com/giftSets.asp?id=baby_gift+ideas&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Baby%20Gift%20Ideas">Gift Ideas</a></li>
+		<li><a href="http://www.hannaandersson.com/giftSet.asp?ne=y&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Baby%20Newborn%20Essentials">Newborn Essentials</a></li>
 	</ul></div></div></td>
-					<td class="topNavImg" style="padding-left:2px;"><div class="topNav"><div id="topNavImg_2" name="topNavImg_2" class="topNav_left" onmouseover="navMenuMouseOver(this);" onmouseout="navMenuMouseOut(this);"><a href="http://www.hannaandersson.com/division.asp?id=girls"><img alt="girls" title="girls" src="images/Template/DivisionTitle_Girls_LO_SIMH11.gif" border="0" id="topNavImg_2_MsOut" style="display:block;"><img alt="girls" title="girls" src="images/Template/DivisionTitle_Girls_LO_SIMH11.gif" border="0" id="topNavImg_2_MsOvr" style="display:none;"></a><ul style="top:30px;">
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=girls_very+g%26uuml%3bd&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Girls%20Very%20g%20uuml;d">Very güd</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=girls_dresses+%26+skirts&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Girls%20Dresses%20Skirts">Dresses &amp; Skirts</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=girls_tops&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Girls%20Tops">Tops</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=girls_pants&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Girls%20Pants">Pants</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=girls_sweaters+%26+jackets&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Girls%20Sweaters%20Jackets">Sweaters &amp; Jackets</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=girls_outerwear&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Girls%20Outerwear">Outerwear</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=girls_sleepwear&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Girls%20Sleepwear">Sleepwear</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=girls_underwear&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Girls%20Underwear">Underwear</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=girls_socks+%26+tights&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Girls%20Socks%20Tights">Socks &amp; Tights</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=girls_shoes+&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Girls%20Shoes">Shoes </a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=girls_hats+%26+mittens&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Girls%20Hats%20Mittens">Hats &amp; Mittens</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=girls_hair+and+jewelry&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Girls%20Hair%20and%20Jewelry">Hair and Jewelry</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=girls_backpacks+%26+more&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Girls%20Backpacks%20More">Backpacks &amp; More</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=girls_swimwear&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Girls%20Swimwear">Swimwear</a></li>
+					<td class="topNavImg" style="padding-left:2px;"><div class="topNav"><div id="topNavImg_2" name="topNavImg_2" class="topNav_left" onmouseover="navMenuMouseOver(this);" onmouseout="navMenuMouseOut(this);"><a href="http://www.hannaandersson.com/division.asp?id=little+girls+1-6+years"><img alt="little girls 1-6 years" title="little girls 1-6 years" src="images/Template/DivisionTitle_Littlegirls_LO_BOS12.gif" border="0" id="topNavImg_2_MsOut" style="display:block;"><img alt="little girls 1-6 years" title="little girls 1-6 years" src="images/Template/DivisionTitle_LittleGirls_HI_BOS12.gif" border="0" id="topNavImg_2_MsOvr" style="display:none;"></a><ul style="top:40px;">
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=little+girls+1-6+years_very+g%26uuml%3bd&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Little%20Girls%201-6%20years%20Very%20g%20uuml;d">Very güd</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=little+girls+1-6+years_dresses&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Little%20Girls%201-6%20years%20Dresses">Dresses</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=little+girls+1-6+years_skirts&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Little%20Girls%201-6%20years%20Skirts">Skirts</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=little+girls+1-6+years_tops&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Little%20Girls%201-6%20years%20Tops">Tops</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=little+girls+1-6+years_shorts+%26+pants&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Little%20Girls%201-6%20years%20Shorts%20Pants">Shorts &amp; Pants</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=little+girls+1-6+years_sweaters+%26+jackets&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Little%20Girls%201-6%20years%20Sweaters%20Jackets">Sweaters &amp; Jackets</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=little+girls+1-6+years_swimwear&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Little%20Girls%201-6%20years%20Swimwear">Swimwear</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=little+girls+1-6+years_sleepwear&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Little%20Girls%201-6%20years%20Sleepwear">Sleepwear</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=little+girls+1-6+years_underwear&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Little%20Girls%201-6%20years%20Underwear">Underwear</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=little+girls+1-6+years_hats&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Little%20Girls%201-6%20years%20Hats">Hats</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=little+girls+1-6+years_hair+accessories+%26+jewelry&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Little%20Girls%201-6%20years%20Hair%20Accessories%20Jewelry">Hair Accessories &amp; Jewelry</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=little+girls+1-6+years_socks+%26+tights&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Little%20Girls%201-6%20years%20Socks%20Tights">Socks &amp; Tights</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=little+girls+1-6+years_shoes&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Little%20Girls%201-6%20years%20Shoes">Shoes</a></li>
+		<li><a style="color:#e7ac59;" onmouseover="this.style.color='#33cccc';" onmouseout="this.style.color='#e7ac59';" href="http://www.hannaandersson.com/giftSets.asp?id=little+girls+1-6+years_outfit+ideas&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Little%20Girls%201-6%20years%20Outfit%20Ideas">Outfit Ideas</a></li>
 	</ul></div></div></td>
-					<td class="topNavImg" style="padding-left:2px;"><div class="topNav"><div id="topNavImg_3" name="topNavImg_3" class="topNav_left" onmouseover="navMenuMouseOver(this);" onmouseout="navMenuMouseOut(this);"><a href="http://www.hannaandersson.com/division.asp?id=boys"><img alt="boys" title="boys" src="images/Template/DivisionTitle_Boys_LO_SIMH11.gif" border="0" id="topNavImg_3_MsOut" style="display:block;"><img alt="boys" title="boys" src="images/Template/DivisionTitle_Boys_LO_SIMH11.gif" border="0" id="topNavImg_3_MsOvr" style="display:none;"></a><ul style="top:30px;">
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=boys_very+g%26uuml%3bd&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Boys%20Very%20g%20uuml;d">Very güd</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=boys_tops&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Boys%20Tops">Tops</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=boys_pants&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Boys%20Pants">Pants</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=boys_sweaters+%26+jackets&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Boys%20Sweaters%20Jackets">Sweaters &amp; Jackets</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=boys_outerwear&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Boys%20Outerwear">Outerwear</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=boys_sleepwear&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Boys%20Sleepwear">Sleepwear</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=boys_underwear&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Boys%20Underwear">Underwear</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=boys_hats+%26+mittens&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Boys%20Hats%20Mittens">Hats &amp; Mittens</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=boys_socks+%26+shoes&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Boys%20Socks%20Shoes">Socks &amp; Shoes</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=boys_backpacks+%26+more&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Boys%20Backpacks%20More">Backpacks &amp; More</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=boys_swimwear&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Boys%20Swimwear">Swimwear</a></li>
+					<td class="topNavImg" style="padding-left:2px;"><div class="topNav"><div id="topNavImg_3" name="topNavImg_3" class="topNav_left" onmouseover="navMenuMouseOver(this);" onmouseout="navMenuMouseOut(this);"><a href="http://www.hannaandersson.com/division.asp?id=girls+6-12+years"><img alt="girls 6-12 years" title="girls 6-12 years" src="images/Template/DivisionTitle_girls_LO_BOS12.gif" border="0" id="topNavImg_3_MsOut" style="display:block;"><img alt="girls 6-12 years" title="girls 6-12 years" src="images/Template/DivisionTitle_girls_HI_BOS12.gif" border="0" id="topNavImg_3_MsOvr" style="display:none;"></a><ul style="top:40px;">
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=girls+6-12+years_very+g%26uuml%3bd&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Girls%206-12%20years%20Very%20g%20uuml;d">Very güd</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=girls+6-12+years_dresses&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Girls%206-12%20years%20Dresses">Dresses</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=girls+6-12+years_skirts&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Girls%206-12%20years%20Skirts">Skirts</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=girls+6-12+years_tops&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Girls%206-12%20years%20Tops">Tops</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=girls+6-12+years_shorts+%26+pants&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Girls%206-12%20years%20Shorts%20Pants">Shorts &amp; Pants</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=girls+6-12+years_sweaters+%26+jackets&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Girls%206-12%20years%20Sweaters%20Jackets">Sweaters &amp; Jackets</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=girls+6-12+years_swimwear&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Girls%206-12%20years%20Swimwear">Swimwear</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=girls+6-12+years_sleepwear&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Girls%206-12%20years%20Sleepwear">Sleepwear</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=girls+6-12+years_underwear&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Girls%206-12%20years%20Underwear">Underwear</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=girls+6-12+years_socks+%26+tights&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Girls%206-12%20years%20Socks%20Tights">Socks &amp; Tights</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=girls+6-12+years_shoes+&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Girls%206-12%20years%20Shoes">Shoes </a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=girls+6-12+years_hats&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Girls%206-12%20years%20Hats">Hats</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=girls+6-12+years_hair+accessories+%26+jewelry&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Girls%206-12%20years%20Hair%20Accessories%20Jewelry">Hair Accessories &amp; Jewelry</a></li>
+		<li><a style="color:#e7ac59;" onmouseover="this.style.color='#33cccc';" onmouseout="this.style.color='#e7ac59';" href="http://www.hannaandersson.com/giftSets.asp?id=girls+6-12+years_outfit+ideas&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Girls%206-12%20years%20Outfit%20Ideas">Outfit Ideas</a></li>
 	</ul></div></div></td>
-					<td class="topNavImg" style="padding-left:2px;"><div class="topNav"><div id="topNavImg_4" name="topNavImg_4" class="topNav_left" onmouseover="navMenuMouseOver(this);" onmouseout="navMenuMouseOut(this);"><a href="http://www.hannaandersson.com/division.asp?id=women"><img alt="women" title="women" src="images/Template/DivisionTitle_Women_lo_SIMH11.gif" border="0" id="topNavImg_4_MsOut" style="display:block;"><img alt="women" title="women" src="images/Template/DivisionTitle_Women_lo_SIMH11.gif" border="0" id="topNavImg_4_MsOvr" style="display:none;"></a><ul style="top:30px;">
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=women_match+with+me&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Women%20Match%20With%20Me">Match With Me</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=women_tops&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Women%20Tops">Tops</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=women_sweaters+%26+jackets&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Women%20Sweaters%20Jackets">Sweaters &amp; Jackets</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=women_pants&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Women%20Pants">Pants</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=women_dresses+%26+skirts&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Women%20Dresses%20Skirts">Dresses &amp; Skirts</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=women_sleepwear&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Women%20Sleepwear">Sleepwear</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=women_socks+%26+tights&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Women%20Socks%20Tights">Socks &amp; Tights</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=women_shoes&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Women%20Shoes">Shoes</a></li>
+					<td class="topNavImg" style="padding-left:2px;"><div class="topNav"><div id="topNavImg_4" name="topNavImg_4" class="topNav_left" onmouseover="navMenuMouseOver(this);" onmouseout="navMenuMouseOut(this);"><a href="http://www.hannaandersson.com/division.asp?id=little+boys+1-6+years"><img alt="little boys 1-6 years" title="little boys 1-6 years" src="images/Template/DivisionTitle_LittleBoys_LO_BOS12.gif" border="0" id="topNavImg_4_MsOut" style="display:block;"><img alt="little boys 1-6 years" title="little boys 1-6 years" src="images/Template/DivisionTitle_LittleBoys_HI_BOS12.gif" border="0" id="topNavImg_4_MsOvr" style="display:none;"></a><ul style="top:40px;">
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=little+boys+1-6+years_very+g%26uuml%3bd&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Little%20Boys%201-6%20years%20Very%20g%20uuml;d">Very güd</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=little+boys+1-6+years_tops&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Little%20Boys%201-6%20years%20Tops">Tops</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=little+boys+1-6+years_shorts+%26+pants&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Little%20Boys%201-6%20years%20Shorts%20Pants">Shorts &amp; Pants</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=little+boys+1-6+years_sweaters+%26+jackets&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Little%20Boys%201-6%20years%20Sweaters%20Jackets">Sweaters &amp; Jackets</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=little+boys+1-6+years_swimwear&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Little%20Boys%201-6%20years%20Swimwear">Swimwear</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=little+boys+1-6+years_sleepwear&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Little%20Boys%201-6%20years%20Sleepwear">Sleepwear</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=little+boys+1-6+years_underwear&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Little%20Boys%201-6%20years%20Underwear">Underwear</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=little+boys+1-6+years_hats&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Little%20Boys%201-6%20years%20Hats">Hats</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=little+boys+1-6+years_socks+%26+shoes&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Little%20Boys%201-6%20years%20Socks%20Shoes">Socks &amp; Shoes</a></li>
+		<li><a style="color:#e7ac59;" onmouseover="this.style.color='#33cccc';" onmouseout="this.style.color='#e7ac59';" href="http://www.hannaandersson.com/giftSets.asp?id=little+boys+1-6+years_outfit+ideas&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Little%20Boys%201-6%20years%20Outfit%20Ideas">Outfit Ideas</a></li>
 	</ul></div></div></td>
-					<td class="topNavImg" style="padding-left:2px;"><div class="topNav"><div id="topNavImg_5" name="topNavImg_5" class="topNav_left" onmouseover="navMenuMouseOver(this);" onmouseout="navMenuMouseOut(this);"><a href="http://www.hannaandersson.com/division.asp?id=family+collections"><img alt="family collections" title="family collections" src="images/Template/DivisionTitle_Family_LO_SIMH11.gif" border="0" id="topNavImg_5_MsOut" style="display:block;"><img alt="family collections" title="family collections" src="images/Template/DivisionTitle_Family_LO_SIMH11.gif" border="0" id="topNavImg_5_MsOvr" style="display:none;"></a><ul style="top:30px;">
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=family+collections_once+upon+a+holiday&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Family%20Collections%20Once%20Upon%20A%20Holiday">Once Upon A Holiday</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=family+collections_speaking+of+sweden&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Family%20Collections%20Speaking%20Of%20Sweden">Speaking Of Sweden</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=family+collections_merry+till+midnight&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Family%20Collections%20Merry%20Till%20Midnight">Merry Till Midnight</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=family+collections_snow+%26+mistletoe&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Family%20Collections%20Snow%20Mistletoe">Snow &amp; Mistletoe</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=family+collections_classics+with+a+twist&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Family%20Collections%20Classics%20With%20A%20Twist">Classics With A Twist</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=family+collections_little+red+dress&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Family%20Collections%20Little%20Red%20Dress">Little Red Dress</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=family+collections_soft+%26+sweatery&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Family%20Collections%20Soft%20Sweatery">Soft &amp; Sweatery</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=family+collections_storyteller&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Family%20Collections%20Storyteller">Storyteller</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=family+collections_from+lapland+with+love&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Family%20Collections%20From%20Lapland%20With%20Love">From Lapland With Love</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=family+collections_swedish+snow+how&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Family%20Collections%20Swedish%20Snow%20How">Swedish Snow How</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=family+collections_cozy+family+sleepwear&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Family%20Collections%20Cozy%20Family%20Sleepwear">Cozy Family Sleepwear</a></li>
+					<td class="topNavImg" style="padding-left:2px;"><div class="topNav"><div id="topNavImg_5" name="topNavImg_5" class="topNav_left" onmouseover="navMenuMouseOver(this);" onmouseout="navMenuMouseOut(this);"><a href="http://www.hannaandersson.com/division.asp?id=boys+6-12+years"><img alt="boys 6-12 years" title="boys 6-12 years" src="images/Template/DivisionTitle_Boys_LO_BOS12.gif" border="0" id="topNavImg_5_MsOut" style="display:block;"><img alt="boys 6-12 years" title="boys 6-12 years" src="images/Template/DivisionTitle_Boys_HI_BOS12.gif" border="0" id="topNavImg_5_MsOvr" style="display:none;"></a><ul style="top:40px;">
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=boys+6-12+years_very+g%26uuml%3bd&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Boys%206-12%20years%20Very%20g%20uuml;d">Very güd</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=boys+6-12+years_tops&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Boys%206-12%20years%20Tops">Tops</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=boys+6-12+years_shorts+%26+pants&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Boys%206-12%20years%20Shorts%20Pants">Shorts &amp; Pants</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=boys+6-12+years_sweaters+%26+jackets&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Boys%206-12%20years%20Sweaters%20Jackets">Sweaters &amp; Jackets</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=boys+6-12+years_swimwear&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Boys%206-12%20years%20Swimwear">Swimwear</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=boys+6-12+years_sleepwear&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Boys%206-12%20years%20Sleepwear">Sleepwear</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=boys+6-12+years_underwear&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Boys%206-12%20years%20Underwear">Underwear</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=boys+6-12+years_hats&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Boys%206-12%20years%20Hats">Hats</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=boys+6-12+years_socks+%26+shoes&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Boys%206-12%20years%20Socks%20Shoes">Socks &amp; Shoes</a></li>
+		<li><a style="color:#e7ac59;" onmouseover="this.style.color='#33cccc';" onmouseout="this.style.color='#e7ac59';" href="http://www.hannaandersson.com/giftSets.asp?id=boys+6-12+years_outfit+ideas&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Boys%206-12%20years%20Outfit%20Ideas">Outfit Ideas</a></li>
 	</ul></div></div></td>
-					<td class="topNavImg" style="padding-left:2px;"><div class="topNav"><div id="topNavImg_6" name="topNavImg_6" class="topNav_left" onmouseover="navMenuMouseOver(this);" onmouseout="navMenuMouseOut(this);"><a href="http://www.hannaandersson.com/division.asp?id=toys+%26+gifts"><img alt="toys &amp; gifts" title="toys &amp; gifts" src="images/Template/DivisionTitle_Toys_lo_SIMH11.gif" border="0" id="topNavImg_6_MsOut" style="display:block;"><img alt="toys &amp; gifts" title="toys &amp; gifts" src="images/Template/DivisionTitle_Toys_lo_SIMH11.gif" border="0" id="topNavImg_6_MsOvr" style="display:none;"></a><ul style="top:30px;">
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=toys+%26+gifts_soft+friends&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Toys%20Gifts%20Soft%20Friends">Soft Friends</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=toys+%26+gifts_books&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Toys%20Gifts%20Books">Books</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=toys+%26+gifts_games+%26+toys&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Toys%20Gifts%20Games%20Toys">Games &amp; Toys</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=toys+%26+gifts_high+chairs+%26+more&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Toys%20Gifts%20High%20Chairs%20More">High Chairs &amp; More</a></li>
+					<td class="topNavImg" style="padding-left:2px;"><div class="topNav"><div id="topNavImg_6" name="topNavImg_6" class="topNav_left" onmouseover="navMenuMouseOver(this);" onmouseout="navMenuMouseOut(this);"><a href="http://www.hannaandersson.com/division.asp?id=women"><img alt="women" title="women" src="images/Template/DivisionTitle_Women_lo_BOS12.gif" border="0" id="topNavImg_6_MsOut" style="display:block;"><img alt="women" title="women" src="images/Template/DivisionTitle_Women_hi_BOS12.gif" border="0" id="topNavImg_6_MsOvr" style="display:none;"></a><ul style="top:40px;">
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=women_match+with+me&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Women%20Match%20With%20Me">Match With Me</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=women_tops&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Women%20Tops">Tops</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=women_sweaters+%26+jackets&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Women%20Sweaters%20Jackets">Sweaters &amp; Jackets</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=women_shorts+%26+pants&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Women%20Shorts%20Pants">Shorts &amp; Pants</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=women_dresses+%26+skirts&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Women%20Dresses%20Skirts">Dresses &amp; Skirts</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=women_sleepwear&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Women%20Sleepwear">Sleepwear</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=women_shoes+%26+tights&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Women%20Shoes%20Tights">Shoes &amp; Tights</a></li>
 	</ul></div></div></td>
-					<td class="topNavImg" style="padding-left:2px;"><div class="topNav"><div id="topNavImg_7" name="topNavImg_7" class="topNav_right" onmouseover="navMenuMouseOver(this);" onmouseout="navMenuMouseOut(this);"><a href="http://www.hannaandersson.com/division.asp?id=sale"><img alt="sale" title="sale" src="images/Template/DivisionTitle_sale_lo_SIMH11.gif" border="0" id="topNavImg_7_MsOut" style="display:block;"><img alt="sale" title="sale" src="images/Template/DivisionTitle_sale_lo_SIMH11.gif" border="0" id="topNavImg_7_MsOvr" style="display:none;"></a><ul style="top:30px;">
-		<li><a href="http://www.hannaandersson.com/division.asp?id=sale_girls&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Sale%20Girls">Girls</a></li>
-		<li><a href="http://www.hannaandersson.com/division.asp?id=sale_boys&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Sale%20Boys">Boys</a></li>
-		<li><a href="http://www.hannaandersson.com/division.asp?id=sale_baby&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Sale%20Baby">Baby</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=sale_women&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Sale%20Women">Women</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=sale_men&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Sale%20Men">Men</a></li>
-		<li><a href="http://www.hannaandersson.com/category.aspx?id=sale_toys+%26+games&amp;cm_re=holiday%202011-_-Mouse%20Over%20Navigation-_-Sale%20Toys%20Games">Toys &amp; Games</a></li>
+					<td class="topNavImg" style="padding-left:2px;"><div class="topNav"><div id="topNavImg_7" name="topNavImg_7" class="topNav_left" onmouseover="navMenuMouseOver(this);" onmouseout="navMenuMouseOut(this);"><a href="http://www.hannaandersson.com/division.asp?id=sleep+shop"><img alt="sleep shop" title="sleep shop" src="images/Template/DivisionTitle_Sleep_LO_BOS12.gif" border="0" id="topNavImg_7_MsOut" style="display:block;"><img alt="sleep shop" title="sleep shop" src="images/Template/DivisionTitle_Sleep_HI_BOS12.gif" border="0" id="topNavImg_7_MsOvr" style="display:none;"></a></div></div></td>
+					<td class="topNavImg" style="padding-left:2px;"><div class="topNav"><div id="topNavImg_8" name="topNavImg_8" class="topNav_left" onmouseover="navMenuMouseOver(this);" onmouseout="navMenuMouseOut(this);"><a href="http://www.hannaandersson.com/division.asp?id=toys+%26+gifts"><img alt="toys &amp; gifts" title="toys &amp; gifts" src="images/Template/DivisionTitle_Toys_lo_BOS12.gif" border="0" id="topNavImg_8_MsOut" style="display:block;"><img alt="toys &amp; gifts" title="toys &amp; gifts" src="images/Template/DivisionTitle_Toys_hi_BOS12.gif" border="0" id="topNavImg_8_MsOvr" style="display:none;"></a><ul style="top:40px;">
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=toys+%26+gifts_soft+friends&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Toys%20Gifts%20Soft%20Friends">Soft Friends</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=toys+%26+gifts_books&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Toys%20Gifts%20Books">Books</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=toys+%26+gifts_games+%26+toys&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Toys%20Gifts%20Games%20Toys">Games &amp; Toys</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=toys+%26+gifts_high+chairs+%26+more&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Toys%20Gifts%20High%20Chairs%20More">High Chairs &amp; More</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=toys+%26+gifts_baby+toys+%26+gifts&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Toys%20Gifts%20Baby%20Toys%20Gifts">Baby Toys &amp; Gifts</a></li>
+	</ul></div></div></td>
+					<td class="topNavImg" style="padding-left:2px;"><div class="topNav"><div id="topNavImg_9" name="topNavImg_9" class="topNav_right" onmouseover="navMenuMouseOver(this);" onmouseout="navMenuMouseOut(this);"><a href="http://www.hannaandersson.com/division.asp?id=sale"><img alt="sale" title="sale" src="images/Template/DivisionTitle_sale_lo_BOS12.gif" border="0" id="topNavImg_9_MsOut" style="display:block;"><img alt="sale" title="sale" src="images/Template/DivisionTitle_sale_hi_BOS12.gif" border="0" id="topNavImg_9_MsOvr" style="display:none;"></a><ul style="top:40px;">
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=sale_girls+best+of+summer+sale&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Sale%20Girls%20Best%20Of%20Summer%20Sale">Girls Best Of Summer Sale</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=sale_boys+best+of+summer+sale&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Sale%20Boys%20Best%20Of%20Summer%20Sale">Boys Best Of Summer Sale</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=sale_baby+best+of+summer+sale&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Sale%20Baby%20Best%20Of%20Summer%20Sale">Baby Best Of Summer Sale</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=sale_women+best+of+summer+sale&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Sale%20Women%20Best%20Of%20Summer%20Sale">Women Best Of Summer Sale</a></li>
+		<li><a href="http://www.hannaandersson.com/category.aspx?id=sale_clearance&amp;cm_re=Spring%202012-_-Mouse%20Over%20Navigation-_-Sale%20Clearance">Clearance</a></li>
 	</ul></div></div></td>
 			</tr></tbody></table></td></tr>
 		<tr><td><img src="images/global/shim.gif" border="0" height="5" width="1"></td></tr>
-			<tr><td style="text-align:center;padding-top:5px;"><a href="http://www.hannaandersson.com/promotions.asp"><img border="0" src="images/global/banner_savingscard_SIMH11.jpg"></a></td></tr>
-	
 		</tbody></table>
 	</td>
 	<td bgcolor="#ffffff"><img src="images/global/shim.gif" border="0" height="1" width="10"></td>
 </tr></tbody></table>
 
 <table width="1000" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#ffffff">
-  <tbody><tr><td><img src="images/global/shim.gif" border="0" height="1" width="50"></td>
-		<td width="900" align="left" valign="top">
+  <tbody><tr><td><img src="images/global/shim.gif" border="0" height="1" width="10"></td>
+		<td width="980" align="left" valign="top">
 			<div class="ttl" style="padding:20px 0px 15px 0px;">Security &amp; Privacy</div>
 At Hanna Andersson (“Hanna”) we are committed to your security and privacy. We want to make any shopping experience you have with us enjoyable, informative, convenient, and secure. To accomplish this we collect customer information that permits us to enhance your shopping experience and to communicate with you about our products, services, and promotions. We want to assure you that your personal information is managed responsibly.<br><br>
 <b><font color="#64A3A0">Frequently Asked Questions</font></b><br><a href="#information">What information is collected?</a><br><a href="#informationused">How is my information used?</a><br><a href="#informationshared">Will my information be shared?</a><br><a href="#cookies">What are cookies and how does Hanna use them?</a><br><a href="#informationupdate">How can I update my information?</a><br><a href="#informationremove">How do I remove my information?</a><br><a href="#informationsecure">How does Hanna ensure my information is secure?</a><br><a href="#childprivacy">How does Hanna protect children’s privacy?</a><br><a href="#changes ">What if there are changes made to this policy?</a><br><a href="#scope">What is the scope of this policy?</a><br><a href="#intellectual">What intellectual property rights are associated with the Hanna website?</a><br><a href="#policy">How does this policy apply to sites linked with the Hanna website?</a><br><br>
@@ -375,17 +394,21 @@ Hanna Andersson, its suppliers, or the original creators of all materials on Han
 In the event this website contains hypertext links to websites that are not created or maintained by Hanna Andersson, this privacy policy applies only to Hanna Andersson’s website and not to any of these third party websites. Hanna Andersson is not responsible for the accuracy, relevance, timeliness, or completeness of those third party websites. The inclusion of any link to such websites does not imply endorsement, sponsorship, or recommendation by Hanna Andersson of the third party websites. Hanna Andersson disclaims any liability for links (1) from another website to this website, and (2) to another website from this website. &nbsp;Hanna Andersson cannot guarantee the standards of any website to which links are provided on Hanna Andersson’s website, nor shall Hanna Andersson be held responsible for the contents of those websites, or any subsequent links. For this reason, Hanna Andersson does not represent or warrant that the contents of any third party website is accurate, compliant with state or federal law, or compliant with copyright or other intellectual property laws. Hanna Andersson does not endorse the contents of these third party websites in any way. Also, Hanna Andersson is not responsible for web casting or any other form of transmission received from any linked website. Any reliance on the contents of a third party website is done at your own risk, and you assume all responsibilities and consequences resulting from such reliance.<br>
 <br></td>
 
-		<td><img src="images/global/shim.gif" border="0" height="1" width="50"></td>
+		<td><img src="images/global/shim.gif" border="0" height="1" width="10"></td>
   </tr>
 </tbody></table>
 
 <style type="text/css">
 <!--
 	#ftrTd {padding:0px 0px 15px 0px;}
-	#ftrLnksTd {text-align:center; font-size:10px; color:#6f6f5f; padding-top:5px;}
-	#ftrLnksTd a {color:#6f6f5f; text-decoration:none;}
-	#lineDiv {width:980px; height:1px; background-color:#b09866; overflow:hidden;}
+	#lineDiv {width:980px; height:1px; background-color:#bec17a; overflow:hidden;}
 	.clickable {cursor:pointer; cursor:hand;}
+	.allCaps {color:#95aa63; font-weight:normal; font-size:12px; text-decoration:none; letter-spacing:0.03em;}
+	.ftrLnks {text-align:left; font-size:11px; color:#6f6f5f; padding-top:1px;}
+	.ftrLnks a {color:#6f6f5f; text-decoration:none;}
+	.ftrCol1 {width:100px;}
+	.ftrCol2 {width:105px;}
+	.ftrCol3 {width:100px;}
 -->
 </style>
 <script language="javascript">
@@ -401,33 +424,54 @@ In the event this website contains hypertext links to websites that are not crea
 	<td><img src="images/global/shim.gif" border="0" height="1" width="10"></td>
 	<td id="ftrTd" width="980">
 		<div id="lineDiv" name="lineDiv"></div>
-		<table border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr><td width="490" align="left" valign="top" style="padding:15px 0px 10px 0px;"><iframe src="http://www.facebook.com/plugins/like.php?app_id=80848053174&amp;href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FHanna-Andersson%2F80848053174&amp;send=false&amp;layout=standard&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=35" scrolling="no" frameborder="0" style="border:none;overflow:hidden;width:450px;height:35px;" allowtransparency="true"></iframe></td>
-				<td width="490" align="right" valign="top" style="padding:15px 0px 10px 0px;">
-					<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="outlnDiv">
-						<form onsubmit="return joinEmailList();" id="formJnLst" name="formJnLst" style="padding:0px;margin:0px;">
-						<table border="0" cellpadding="0" cellspacing="0"><tbody><tr>
-							<td valign="center" bgcolor="#ffffff"><input type="text" id="jlea" name="jlea" size="20" maxlength="53" style="width:150px;font-size:12px;" value="Join Our E-mail List" onfocus="joinListFocus();" onblur="joinListBlur();"></td>
-							<td valign="center" style="padding:0px 0px 1px 2px;"><input type="image" alt="Join Our E-mail List" title="Join Our E-mail List" src="images/global/button_lo_SubmitEmail.gif"></td>
-						</tr></tbody></table>
-						</form>
-					</td></tr></tbody></table>
-				</td></tr>
-		</tbody></table>
-		<table border="0" cellspacing="0" cellpadding="0"><tbody><tr>
-			<td width="120" align="left" valign="middle"><script type="text/javascript" language="javascript" src="https://seal.verisign.com/getseal?host_name=www.hannaandersson.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script></td>
-			<td width="740" align="center" valign="middle">
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr><td id="ftrLnksTd">
-						<a style="color:#b09866;" href="https://www.hannaandersson.com/CatalogRequest.asp">Free Catalog</a><span class="vbr">|</span><a href="http://www.hannaandersson.com/quickOrder.asp">Quick Catalog Order</a><span class="vbr">|</span><a href="http://www.hannaandersson.com/onlineCatalogs.asp">View Virtual Catalog</a><span class="vbr">|</span><a href="http://www.hannaandersson.com/Email.asp">Contact Us</a><span class="vbr">|</span><a href="http://www.hannaandersson.com/customerService.asp?link=cs">Customer Service</a><span class="vbr">|</span><a href="http://www.hannaandersson.com/sizingChart.asp">Size Charts</a><span class="vbr">|</span><a href="http://www.hannaandersson.com/affiliates.asp">Affiliates</a><span class="vbr">|</span><a href="http://www.hannaandersson.com/recallInformation.asp">Recall Information</a>
-					</td></tr>
-					<tr><td id="ftrLnksTd">
-						<a href="http://www.hannaandersson.com/giftCard.asp">Gift Cards</a><span class="vbr">|</span><a href="http://www.hannaandersson.com/aboutHanna.asp?pg=46">Store Locations</a><span class="vbr">|</span><a href="http://www.hannaandersson.com/aboutHanna.asp">About Hanna</a><span class="vbr">|</span><a href="http://www.hannaandersson.com/SiteMap.asp">Site Map</a><span class="vbr">|</span><a href="http://www.hannaandersson.com/Static.asp?pg=80">Terms of Use</a><span class="vbr">|</span><a href="http://www.hannaandersson.com/Static.asp?pg=201">Security &amp; Privacy</a><span class="vbr">|</span><a href="http://www.hannaandersson.com/japanCustomerService.asp"><img src="images/global/japan.gif" alt="Japanese Customer Service" title="Japanese Customer Service" border="0" style="vertical-align:middle;padding-bottom:1px;"></a>
-					</td></tr>
-				</tbody></table>
-			</td>
-			<td width="120" align="right" valign="middle"></td>
-		</tr></tbody></table>
+		<div style="padding-top:18px">
+			<table border="0" cellspacing="0" cellpadding="0"><tbody><tr>
+				<td style="width:345px;vertical-align:top;" align="left">
+					<img src="images/global/homepage_guarantee.gif" alt="Our Unconditional Guarantee" title="Our Unconditional Guarantee" border="0">
+				</td>
+				<td style="width:220px;vertical-align:top;" align="left">
+					<div style="padding:3px 0px 2px 0px;"><a class="allCaps" href="http://www.hannaandersson.com/customerService.asp?link=cs">CUSTOMER SERVICE</a></div>
+					<div><table border="0" cellspacing="0" cellpadding="0">
+						<tbody><tr><td class="ftrLnks ftrCol1"><a href="https://www.hannaandersson.com/login.asp">sign in/register</a></td>
+							<td class="ftrLnks ftrCol2"><a href="https://www.hannaandersson.com/CatalogRequest.asp">request a catalog</a></td></tr>
+						<tr><td class="ftrLnks ftrCol1"><a href="http://www.hannaandersson.com/Email.asp">contact us</a></td>
+							<td class="ftrLnks ftrCol2"><a href="http://www.hannaandersson.com/quickOrder.asp">quick catalog order</a></td></tr>
+						<tr><td class="ftrLnks ftrCol1"><a href="http://www.hannaandersson.com/sizingChart.asp">size charts</a></td>
+							<td class="ftrLnks ftrCol2"><a href="http://www.hannaandersson.com/onlineCatalogs.asp">digital catalog</a></td></tr>
+						<tr><td class="ftrLnks ftrCol1"><a href="http://www.hannaandersson.com/recallInformation.asp">recall information</a></td>
+							<td class="ftrLnks ftrCol2"><a href="http://www.hannaandersson.com/giftCard.asp">gift cards</a></td></tr>
+						<tr><td class="ftrLnks ftrCol1"><a href="http://www.hannaandersson.com/japanCustomerService.asp"><img src="images/global/japan.gif" alt="Japanese Customer Service" title="Japanese Customer Service" border="0"></a></td><td></td></tr>
+					</tbody></table></div>
+				</td>
+				<td style="width:30px;vertical-align:top;" align="left">
+					<div style="width:1px;height:98px;background-color:#95aa63;overflow:hidden;"></div>
+				</td>
+				<td style="width:110px;vertical-align:top;" align="left">
+					<div style="padding:3px 0px 2px 0px;"><a class="allCaps" href="http://www.hannaandersson.com/aboutHanna.asp">OUR COMPANY</a></div>
+					<div class="ftrLnks ftrCol3"><a href="http://www.hannaandersson.com/aboutHanna.asp?pg=46">store locations</a></div>
+					<div class="ftrLnks ftrCol3"><a href="http://www.hannaandersson.com/Static.asp?pg=201">security &amp; privacy</a></div>
+					<div class="ftrLnks ftrCol3"><a href="http://www.hannaandersson.com/Static.asp?pg=80">terms of use</a></div>
+					<div class="ftrLnks ftrCol3"><a href="http://www.hannaandersson.com/SiteMap.asp">site map</a></div>
+					<div class="ftrLnks ftrCol3"><a href="http://www.hannaandersson.com/affiliates.asp">affiliates</a></div>
+				</td>
+				<td style="width:275px;vertical-align:top;" align="right">
+					<table border="0" cellpadding="0" cellspacing="0"><tbody><tr>
+						<td style="border:solid 1px #95aa63;" align="left" valign="top">
+						<div style="padding:12px 8px 0px 8px;"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="outlnDiv">
+							<form onsubmit="return joinEmailList();" id="formJnLst" name="formJnLst" style="padding:0px;margin:0px;">
+							<table border="0" cellpadding="0" cellspacing="0"><tbody><tr>
+								<td valign="center" bgcolor="#ffffff"><input type="text" id="jlea" name="jlea" size="20" maxlength="53" style="width:173px;font-size:12px;color:#6f6f5f;" value="sign up for emails" onfocus="joinListFocus();" onblur="joinListBlur();"></td>
+								<td valign="center" style="padding:0px 0px 1px 2px;"><input type="image" alt="sign up for emails" title="sign up for emails" src="images/global/button_lo_SubmitEmail.gif" name="emailSignUpBttn"></td>
+							</tr></tbody></table>
+							</form>
+						</td></tr></tbody></table></div>
+						<div style="padding:12px 0px 5px 8px;"><iframe src="http://www.facebook.com/plugins/like.php?app_id=80848053174&amp;href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FHanna-Andersson%2F80848053174&amp;send=false&amp;layout=standard&amp;width=244&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=30" scrolling="no" frameborder="0" style="border:none;overflow:hidden;width:244px;height:30px;" allowtransparency="true"></iframe></div>
+						</td>
+					</tr></tbody></table>
+					<div><script type="text/javascript" language="javascript" src="https://seal.verisign.com/getseal?host_name=www.hannaandersson.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script></div>
+				</td>
+			</tr></tbody></table>
+		</div>
 	</td>
 	<td><img src="images/global/shim.gif" border="0" height="1" width="10"></td>
 </tr>
