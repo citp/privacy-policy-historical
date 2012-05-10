@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blackmilkclothing.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216180508id_/http%3A//www.blackmilkclothing.com/pages/PRIVACY.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackmilkclothing.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510101036id_/http%3A//www.blackmilkclothing.com/pages/privacy) for the most accurate reproduction.*
 
-# PRIVACY
+# Black Milk Clothing - Privacy
 
 At Black Milk Clothing, we treat your privacy, and any information that you give to us, with the utmost care and respect. The following Privacy Policy explains the information we collect and what we use it for.
 
