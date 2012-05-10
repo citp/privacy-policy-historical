@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the haikulearning.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117192637id_/http%3A//www.haikulearning.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haikulearning.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510161121id_/http%3A//www.haikulearning.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Haiku LMS | The K12 learning management system
 
