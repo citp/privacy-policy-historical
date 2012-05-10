@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webhostingbreak.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011220947id_/http%3A//privacy-policy.truste.com/verified-policy/www.webhostingbreak.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhostingbreak.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511001226id_/http%3A//privacy-policy.truste.com/verified-policy/www.webhostingbreak.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.webhostingbreak.com
 
