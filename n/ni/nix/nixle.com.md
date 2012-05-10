@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nixle.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101231932id_/http%3A//www.nixle.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nixle.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510082206id_/http%3A//www.nixle.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Nixle
 
@@ -41,7 +41,7 @@ Nixle uses your Personal Information to respond to your requests, deliver the Se
 
 Other than as described in the Privacy Policy, you will be notified when Personal Information about you will be shared with third parties, and you will have an opportunity to choose not to have us share such information.  
   
-Your Personal Information will be shared with agencies and businesses to which you have subscribed. Our Terms of Service for Agencies restricts those entities from using that information for any commercial purpose. We may provide  information including Personal Information and/or aggregate statistics about our Recipients, traffic patterns and related Web Site information to reputable third party vendors.
+Your Personal Information will be shared with agencies and businesses to which you have subscribed. Our Terms of Service for Agencies restricts those entities from using that information for any commercial purpose.
 
 We may disclose Personal Information we collect from you if required to do so by law or in the good-faith belief that disclosure is necessary (a) to obey the law or comply with legal process served on us or our affiliates; (b) to protect and defend our rights or property or the rights or property of other users of our Web Site; or (c) to act in an emergency to protect the personal safety of users of our Web Site or the public.  We may also share your Personal Information in connection with a corporate transaction in which we are involved, such as a merger, consolidation or asset sale.   
   
@@ -50,6 +50,6 @@ We may disclose Personal Information we collect from you if required to do so by
 **Consent To Processing In The United States.** By providing any Personal Information to Nixle, all users, including, without limitation, users in Canada and the member states of the European Union, fully understand and unambiguously consent to this Privacy Policy and to the transfer of such Personal Information across international borders in accordance with Nixle’s standard operations, including the collection, storage, and processing of such information in the United States of America.  
 **Your California Privacy Rights.** California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes.  To make such a request, contact us by emailing **[californiaprivacy@nixle.com](mailto:californiaprivacy@nixle.com)**.  
 **What Security Procedures Does Nixle Use To Protect Personal Information?** We use physical, electronic, and administrative safeguards to assist us in preventing unauthorized access, maintaining data accuracy, and correctly using your Personal Information. Except as specified in this Privacy Policy, we use commercially reasonable efforts to limit access to your Personal Information to the employees, agents, and officers of Nixle who need the information for their jobs.  
-**Modification And Notification Of Changes.** Nixle may at our sole discretion edit this Privacy Policy. Notice of all changes to the Privacy Policy will be provided as specified in the [**Terms of Service**](https://web.archive.org/web/20111101231932id_/http%3A//www.nixle.com/termsofservice.html). 
+**Modification And Notification Of Changes.** Nixle may at our sole discretion edit this Privacy Policy. Notice of all changes to the Privacy Policy will be provided as specified in the [**Terms of Service**](https://web.archive.org/web/20120510082206id_/http%3A//www.nixle.com/termsofservice.html). 
 
 If you have questions or suggestions regarding this Privacy Policy or our privacy practices please send an email message to [**privacy@nixle.com**](mailto:privacy@nixle.com)
