@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the comsol.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104085356id_/http%3A//www.comsol.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comsol.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510120557id_/http%3A//www.comsol.com/company/privacy) for the most accurate reproduction.*
 
-# Online Privacy Policy - COMSOL
+# Online Privacy Policy
 
 By accessing or using the www.comsol.com Web site, you agree to the terms of the COMSOL AB Online Privacy Policy, as outlined below. If you do not agree to these terms, please do not access or use this site.
 
