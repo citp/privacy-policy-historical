@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the masonworld.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206153039id_/http%3A//www.masonworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masonworld.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510091221id_/http%3A//www.masonworld.com/privacy-policy) for the most accurate reproduction.*
 
-# MasonWorld Privacy Policy | MasonWorld Late Night Internet Marketing
-
-## Privacy Policy
+# Privacy Policy - MasonWorld Late Night Internet Marketing
 
 ### MasonWorld Privacy Policy
 
@@ -17,9 +15,3 @@ If and when we offer products on this site, when you order a product, the inform
 Non-identifying information may be used to improve the site or shared with advertisers. For instance, information that is collected regarding traffic to the site or specific pages may be shared, but this will never include any identifying information.
 
 I hope you have a great day, and thanks again for subscribing to the list.
-
-Popularity: 2% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
-
-#### Related posts
-
-Honesty and integrity are part of our core principles, and we believe strongly in transparent marketing standards. As such, we need you to know that we are compensated for some of our recommendations (it's how we pay the bills). Want to know more? Be sure to read our [disclosure](http://www.masonworld.com/disclosure/).
