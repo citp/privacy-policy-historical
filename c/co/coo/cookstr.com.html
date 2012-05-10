@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cookstr.com privacy policy that was archived on 2011-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111209013451id_/http%3A//www.cookstr.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cookstr.com privacy policy that was archived on 2012-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120510033424id_/http%3A//www.cookstr.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
   <title>Cookstr </title>
@@ -7,8 +7,8 @@
 <meta name="keywords" content="recipes, chefs, cookbooks, food, cooking, cook, cookstr, cookster">
 <meta name="description" content="The best recipe collection on the web -- all from the world's most acclaimed chefs and cookbook authors. Cookstr features tested, trusted recipes for everything you want to cook.">
 
-  <link href="/stylesheets/all.css?1322589434" media="screen" rel="stylesheet" type="text/css">
-<script src="/javascripts/all.js?1322589434" type="text/javascript"></script>
+  <link href="/stylesheets/all.css?1335552173" media="screen" rel="stylesheet" type="text/css">
+<script src="/javascripts/all.js?1335552173" type="text/javascript"></script>
 <!-- Start Quantcast tag -->
 <script type="text/javascript" src="http://publishers.halogennetwork.com/tracking/Cookstr.js"></script>
 <!-- End Quantcast tag -->
@@ -51,27 +51,37 @@
 
   		<div id="hdrupperright">
   		  <div class="logout">
-    		  <a href="/login" class="button" onclick="var f = document.createElement('form'); f.style.display = 'none'; this.parentNode.appendChild(f); f.method = 'POST'; f.action = this.href;var m = document.createElement('input'); m.setAttribute('type', 'hidden'); m.setAttribute('name', '_method'); m.setAttribute('value', 'delete'); f.appendChild(m);f.submit();return false;"></a>
+    		  <a href="/login?redirect_to=http%3A%2F%2Fwww.cookstr.com%2Fprivacy%2F" class="button" id="logout-button" onclick="var f = document.createElement('form'); f.style.display = 'none'; this.parentNode.appendChild(f); f.method = 'POST'; f.action = this.href;var m = document.createElement('input'); m.setAttribute('type', 'hidden'); m.setAttribute('name', '_method'); m.setAttribute('value', 'delete'); f.appendChild(m);f.submit();return false;"></a>
   		    <div class="text welcome">Welcome to Cookstr</div> 
   		  </div>
   		  <div class="signup-login">
-    		  <a class="button overlay-trigger" href="#" onclick="; return false;" rel="#login_dialogue"></a>
-		      <a class="signup overlay-trigger signup-wall text" href="#" onclick="; return false;" rel="#signup_dialogue"><span class="orange">Sign up</span> to receive handpicked recipes in your inbox</a> 
+    		  <a href="" class="button overlay-trigger" rel="#login_dialogue"></a>
+		      <a href="" class="signup overlay-trigger signup-wall text" rel="#signup_dialogue"><span class="orange">Sign up</span> to receive handpicked recipes in your inbox</a> 
   		  </div>
   		  
         <script type="text/javascript" charset="utf-8">
-          Cookstr.overlayParams = {
-            onBeforeLoad : function(){
-              jQuery('#grey-overlay').fadeIn(150);
-              return true;
-            },
-            onBeforeClose : function(){
-              jQuery('#grey-overlay').fadeOut(150);
-              return true;
-            }
-          };
-          
-          jQuery(function(){
+          jQuery(document).ready(function() {
+            
+            Cookstr.overlayParams = {
+              onBeforeLoad : function(event){
+
+                var trigger = this.getTrigger(),
+                    value = jQuery('.redirect-hidden-field').attr('value'),
+                    parameters = trigger.attr('redirect_parameters');
+                
+                jQuery('#grey-overlay').fadeIn(150);
+                
+                if (parameters !== undefined)
+                  jQuery('.redirect-hidden-field').attr('value', value + '?' + parameters);
+
+                return true;
+              },
+              onBeforeClose : function(event){
+                jQuery('#grey-overlay').fadeOut(150);
+                return true;
+              }
+            };
+            
             Cookstr.signupOverlayTrigger = jQuery('.overlay-trigger[rel=#signup_dialogue]').overlay(Cookstr.overlayParams);
             Cookstr.loginOverlayTrigger = jQuery('.overlay-trigger[rel=#login_dialogue]').overlay(Cookstr.overlayParams);
             jQuery('#mycookstr-nav-tab').click(function(event){
@@ -94,7 +104,6 @@
   <ul>
     <li class="link"><a href="/searches/new" class=" ">Search Recipes</a></li>
     <li class="link"><a href="/recipes" class=" ">Browse Recipes</a></li>
-    <li class="link"><a href="/ibooks" class=" ">iBooks</a></li>
     <li class="link"><a href="/chefs" class=" ">Chefs &amp; Authors</a></li>
   	<li class="link"><a href="/mycookstr" class="overlay-trigger signup-wall " id="mycookstr-nav-tab" rel="#signup_dialogue">My Cookstr</a></li>
     <li class="link"><a href="/about" class=" ">What's Cookstr?</a></li>
@@ -119,93 +128,90 @@
 
 </div>
       
-      
-  <div id="ticker">
-    <img alt="Star_black" class="star" src="/images/star_black.png?1322589434">
-    <span id="ticker-content">
-      <p>New Recipes on Cookstr: <a href="../../recipes/farmstand-fruit-muffins" class="RED">Farmstand Fruit Muffins</a> <a href="../../recipes/kung-pao-broccoli-and-tofu"></a> | <a href="../../recipes/chestnut-doughnut-holes" class="RED">Chestnut Doughnut Holes</a><a href="../../recipes/angel-hair-pastanbspwith-chard-and-bell-peppers"></a> | <a href="../../recipes/roasted-salmon-with-dill-sauce" class="RED">Roasted Salmon with Dill Sauce</a> | <a href="../../recipes/chard-and-lentil-soup-2" class="RED">Chard and Lentil Soup</a></p>
-<p></p>
-<p></p>
-    </span>
-  </div>
-
-      
       <div class="static-info">
-  <div class="content">
-    <h1>Privacy Policy</h1>
-    <p><strong>EFFECTIVE November 9, 2008</strong></p>
-    <p>Thank you for visiting the <a href="/">cookstr.com</a> web site. It is important to us here at Cookstr that you know how information about you may be utilized. Please take a moment to look over this privacy policy (the “Privacy Policy”) which we hope will address any questions you may have. We encourage you to <a href="/contact">contact us</a> any time with questions or feedback.</p>
-    <p>In addition to reviewing this Privacy Policy, please read our <a href="/terms_of_use">General Terms of Use Agreement</a>. Your use of the Web Site constitutes agreement to its terms and conditions.</p>
+  <div class="two_column_wide">  
+    <div class="content">
+      <h1>Privacy Policy</h1>
+      <p><strong>EFFECTIVE November 9, 2008</strong></p>
+      <p>Thank you for visiting the <a href="/">cookstr.com</a> web site. It is important to us here at Cookstr that you know how information about you may be utilized. Please take a moment to look over this privacy policy (the “Privacy Policy”) which we hope will address any questions you may have. We encourage you to <a href="/contact">contact us</a> any time with questions or feedback.</p>
+      <p>In addition to reviewing this Privacy Policy, please read our <a href="/terms_of_use">General Terms of Use Agreement</a>. Your use of the Web Site constitutes agreement to its terms and conditions.</p>
 
-    <h2>Information Covered by this Privacy Policy</h2>
-    <p>This Privacy Policy covers personally identifiable information and other visitor information that may be collected on the <a href="/">cookstr.com</a> web site (the “Web Site”). It does not cover information that may be collected by Cookstr through any other means.</p>
+      <h2>Information Covered by this Privacy Policy</h2>
+      <p>This Privacy Policy covers personally identifiable information and other visitor information that may be collected on the <a href="/">cookstr.com</a> web site (the “Web Site”). It does not cover information that may be collected by Cookstr through any other means.</p>
 
-    <h2>Kids and Parents</h2>
-    <p>The Web Site is intended for visitors over the age of thirteen (13). No one under the age of thirteen (13) is permitted to provide any personally identifiable information, enter any forums, discussion boards, chat rooms or otherwise “public areas” of the Web Site. Any visitor between the ages of thirteen to seventeen (13 – 17) must get the permission of their parent or legal guardian in order to visit or subscribe to the Web Site. </p>
+      <h2>Kids and Parents</h2>
+      <p>The Web Site is intended for visitors over the age of thirteen (13). No one under the age of thirteen (13) is permitted to provide any personally identifiable information, enter any forums, discussion boards, chat rooms or otherwise “public areas” of the Web Site. Any visitor between the ages of thirteen to seventeen (13 – 17) must get the permission of their parent or legal guardian in order to visit or subscribe to the Web Site. </p>
 
-    <h2>The Information We Collect and How We Collect It</h2>
-    <p>Cookstr may collect the following personally identifiable information when visitors visit our Web Site:</p>
-    <ul>
-      <li>Name</li>
-      <li>Email Address</li>
-      <li>Other information needed to provide access to the Web Site’s applications or Cookstr’s provision of services to you</li>
-    </ul>
+      <h2>The Information We Collect and How We Collect It</h2>
+      <p>Cookstr may collect the following personally identifiable information when visitors visit our Web Site:</p>
+      <ul>
+        <li>Name</li>
+        <li>Email Address</li>
+        <li>Other information needed to provide access to the Web Site’s applications or Cookstr’s provision of services to you</li>
+      </ul>
 
-    <p>Cookstr does not sell any products through the Web Site. If you want to purchase products advertised or otherwise displayed on the Web Site, you may be directed to an affiliate website selling the product by way of a link provided on the Web Site. Purchases through affiliate websites are governed by the policies and terms provided in their privacy policies and terms of use. We recommend that you review their terms when making purchases or visiting such websites. Cookstr does not bear any responsibility for any action or policies of its affiliates or third parties in connection with your purchase through or visit of any website through the Web Site.</p>
-    <p>Cookstr may retain information concerning your product purchases through one of our affiliate’s web sites. In addition, from time to time, visitors to the Web Site may be invited to voluntarily provide personally identifiable or other information and/or participate in one of our voluntary online surveys. These visitors are informed of the information we collect and how the information will be used before agreeing to provide this information or participate in these surveys.</p>
-    <p>Our email communications will sometimes include “refer a friend” functionality that allows the recipient to forward the email to a peer. In these cases, the referrer’s personal information is not disclosed and only the referral’s e-mail address is collected.</p>
+      <p>Cookstr does not sell any products through the Web Site. If you want to purchase products advertised or otherwise displayed on the Web Site, you may be directed to an affiliate website selling the product by way of a link provided on the Web Site. Purchases through affiliate websites are governed by the policies and terms provided in their privacy policies and terms of use. We recommend that you review their terms when making purchases or visiting such websites. Cookstr does not bear any responsibility for any action or policies of its affiliates or third parties in connection with your purchase through or visit of any website through the Web Site.</p>
+      <p>Cookstr may retain information concerning your product purchases through one of our affiliate’s web sites. In addition, from time to time, visitors to the Web Site may be invited to voluntarily provide personally identifiable or other information and/or participate in one of our voluntary online surveys. These visitors are informed of the information we collect and how the information will be used before agreeing to provide this information or participate in these surveys.</p>
+      <p>Our email communications will sometimes include “refer a friend” functionality that allows the recipient to forward the email to a peer. In these cases, the referrer’s personal information is not disclosed and only the referral’s e-mail address is collected.</p>
 
-    <h2>Cookies and Other Technology Information</h2>
-    <p>A cookie is a small file stored on your computer by a web site to give you a unique ID (each, a “Cookie”). Cookstr uses Cookies to track new visitors to the Web Site and to recognize visitors in order to present more personalized content. Cookies are also used to assist Cookstr in customizing the Web Site information or in improving the performance or usability of the Web Site. <strong>IMPORTANT NOTE:</strong> If you configure your computer to block or erase Cookies you will not be able to use all or certain parts or features of the Web Site.</p>
-    <p>Cookstr also contracts with a third party data collection and reporting service (“Third Party Service”) to collect and analyze information regarding visitors and their use of the Web Site. The Third Party Service may store data or use Cookies on Cookstr’s behalf to collect such information.</p>
+      <h2>Cookies and Other Technology Information</h2>
+      <p>A cookie is a small file stored on your computer by a web site to give you a unique ID (each, a “Cookie”). Cookstr uses Cookies to track new visitors to the Web Site and to recognize visitors in order to present more personalized content. Cookies are also used to assist Cookstr in customizing the Web Site information or in improving the performance or usability of the Web Site. <strong>IMPORTANT NOTE:</strong> If you configure your computer to block or erase Cookies you will not be able to use all or certain parts or features of the Web Site.</p>
+      <p>Cookstr also contracts with a third party data collection and reporting service (“Third Party Service”) to collect and analyze information regarding visitors and their use of the Web Site. The Third Party Service may store data or use Cookies on Cookstr’s behalf to collect such information.</p>
 
-    <h2>Setting Your Cookie Preference</h2>
-    <p>You can adjust your computer browser settings so that you are informed when a Cookie is being placed on your browser. You can also set your browser to decline or accept all Cookies. However, you must accept Cookies if you need to access pages on the Web Site that enable you to review or use your confidential account information. These Cookies are essential for Web Site administration and security.</p>
-    <p>Newer browsers provide sophisticated controls for accepting or rejecting Cookies, including the ability to notify you when your browser encounters a Cookie at a web site. Refer to your browser or ISP’s help feature to find out more about how to set these controls.</p>
+      <h2>Setting Your Cookie Preference</h2>
+      <p>You can adjust your computer browser settings so that you are informed when a Cookie is being placed on your browser. You can also set your browser to decline or accept all Cookies. However, you must accept Cookies if you need to access pages on the Web Site that enable you to review or use your confidential account information. These Cookies are essential for Web Site administration and security.</p>
+      <p>Newer browsers provide sophisticated controls for accepting or rejecting Cookies, including the ability to notify you when your browser encounters a Cookie at a web site. Refer to your browser or ISP’s help feature to find out more about how to set these controls.</p>
 
-    <h2>Information Use and Sharing</h2>
-    <p>The information that Cookstr collects from the Web Site is used primarily for improving the Web Site and to notify our visitors of updates to the Web Site. The collected information is also used to describe Web Site traffic patterns to vendors and advertisers who are interested in knowing who is viewing their offerings.</p>
-    <p>Cookstr, or its affiliates or advertisers, may offer you during your registration on the Web Site, or through future e-mail, the opportunity to receive offers and information about products and services that Cookstr believes may be of interest to you. If you do not want to receive any of these offerings or information, you may opt out from such receipt at any time by following the <a href="#opting_out">“Opting out”</a> procedures listed below.</p>
+      <h2>Information Use and Sharing</h2>
+      <p>The information that Cookstr collects from the Web Site is used primarily for improving the Web Site and to notify our visitors of updates to the Web Site. The collected information is also used to describe Web Site traffic patterns to vendors and advertisers who are interested in knowing who is viewing their offerings.</p>
+      <p>Cookstr, or its affiliates or advertisers, may offer you during your registration on the Web Site, or through future e-mail, the opportunity to receive offers and information about products and services that Cookstr believes may be of interest to you. If you do not want to receive any of these offerings or information, you may opt out from such receipt at any time by following the <a href="#opting_out">“Opting out”</a> procedures listed below.</p>
 
-    <h2>Sharing Information with Third Parties</h2>
-    <p>From time to time, Cookstr may work with and provide non-personally identifiable information, such as visitors’ Web Site browsing patterns, and visitors’ names and email addresses, to a variety of vendors and third parties, including ad delivery service providers (e.g. ADTECH), who may be interested in knowing who is viewing ads and offerings. This information may be used by Cookstr or the third party to provide you with advertisements about goods and services of interest to you.</p>
-    <p>Cookstr may also provide visitors’ names and email addresses to a third party service provider with whom Cookstr contracts to profile customer purchasing behavior. This information is used to help Cookstr, its affiliates and advertisers, to improve their offerings. This third party service provider may also supply this information to third parties for a fee.</p>
-    <p>In addition to the transfers of personally identifiable information described above, in the event that the Cookstr, LLC business is purchased by a third party, the personally identifiable information possessed or used by Cookstr will be transferred to the purchaser together with all the other assets purchased.</p>
+      <h2>Sharing Information with Third Parties</h2>
+      <p>From time to time, Cookstr may work with and provide non-personally identifiable information, such as visitors’ Web Site browsing patterns, and visitors’ names and email addresses, to a variety of vendors and third parties, including ad delivery service providers (e.g. ADTECH), who may be interested in knowing who is viewing ads and offerings. This information may be used by Cookstr or the third party to provide you with advertisements about goods and services of interest to you.</p>
+      <p>Cookstr may also provide visitors’ names and email addresses to a third party service provider with whom Cookstr contracts to profile customer purchasing behavior. This information is used to help Cookstr, its affiliates and advertisers, to improve their offerings. This third party service provider may also supply this information to third parties for a fee.</p>
+      <p>In addition to the transfers of personally identifiable information described above, in the event that the Cookstr, LLC business is purchased by a third party, the personally identifiable information possessed or used by Cookstr will be transferred to the purchaser together with all the other assets purchased.</p>
 
-    <h2>Opting Out<a name="opting_out"></a></h2>
-    <p>At Cookstr, the choice is in the hands of our visitors. As stated above, you may have your personally or non-personally identifiable information removed from Cookstr's internal distribution to affiliated parties and Cookstr's future distribution to unaffiliated third parties at any time by simply choosing to OPT OUT. You may also OPT OUT:</p>
-    <ul>
-      <li>if you do not want to receive e-mail commercial advertisements or promotions from us in the future; and/or</li>
-      <li>if you are an individual, and want to limit third party companies from marketing their products or services to you based on your personal information that we collect and share with them. This information may include such data as your income, your account history with us, and your credit score.</li>
-    </ul>
-    <p>Your choice to limit marketing offers from third parties will apply for at least 5 years from when you tell us your choice unless you tell us to change your choice, in which event your opt-out choice will apply until your notification of such change. Once the 5-year opt-out period expires, you will receive a renewal notice that will allow you to continue to limit marketing offers from third party for at least another 5 years.</p>
-    <p>If you have already made a choice to limit marketing offers from third parties, you do not need to act again until you receive the renewal notice.</p>
-    <p>In order to OPT OUT for any of these purposes, use any of the methods listed below.</p>
-    <ul>
-      <li>Login to cookstr.com and modify your profile (registered visitors only)</li>
-      <li>Email us: privacy@cookstr.com</li>
-      <li>Phone:</li>
-      <li>Fax:</li>
-    </ul>
+      <h2>Opting Out<a name="opting_out"></a></h2>
+      <p>At Cookstr, the choice is in the hands of our visitors. As stated above, you may have your personally or non-personally identifiable information removed from Cookstr's internal distribution to affiliated parties and Cookstr's future distribution to unaffiliated third parties at any time by simply choosing to OPT OUT. You may also OPT OUT:</p>
+      <ul>
+        <li>if you do not want to receive e-mail commercial advertisements or promotions from us in the future; and/or</li>
+        <li>if you are an individual, and want to limit third party companies from marketing their products or services to you based on your personal information that we collect and share with them. This information may include such data as your income, your account history with us, and your credit score.</li>
+      </ul>
+      <p>Your choice to limit marketing offers from third parties will apply for at least 5 years from when you tell us your choice unless you tell us to change your choice, in which event your opt-out choice will apply until your notification of such change. Once the 5-year opt-out period expires, you will receive a renewal notice that will allow you to continue to limit marketing offers from third party for at least another 5 years.</p>
+      <p>If you have already made a choice to limit marketing offers from third parties, you do not need to act again until you receive the renewal notice.</p>
+      <p>In order to OPT OUT for any of these purposes, email us at <a href="mailto:privacy@cookstr.com">privacy@cookstr.com</a>.
 
-    <h2>Access to, Updating or Deleting Collected Information</h2>
-    <p>Upon written or e-mail request, Cookstr will provide to visitors the ability to correct or update their contact information. Visitors shall be responsible for keeping their contact information current and accurate and may do so by checking and, if necessary, modifying their profile.</p>
+      </p><h2>Access to, Updating or Deleting Collected Information</h2>
+      <p>Upon written or e-mail request, Cookstr will provide to visitors the ability to correct or update their contact information. Visitors shall be responsible for keeping their contact information current and accurate and may do so by checking and, if necessary, modifying their profile.</p>
 
-    <h2>Security</h2>
-    <p>Making sure our visitors feel secure is a top priority at Cookstr. Cookstr is committed to our visitor’s needs and is continually working toward setting and improving the security of our Web Site. Cookstr.com currently uses a 128-bit SSL (secure socket layer) for the encryption of transactions on its Web Site. It encrypts all of your personal information, including credit card number, name, and address. <strong>Please remember, however, that you are responsible for maintaining the secrecy of your user IDs and passwords and absolute security on the Internet cannot be guaranteed.</strong></p>
+      <h2>Security</h2>
+      <p>Making sure our visitors feel secure is a top priority at Cookstr. Cookstr is committed to our visitor’s needs and is continually working toward setting and improving the security of our Web Site. Cookstr.com currently uses a 128-bit SSL (secure socket layer) for the encryption of transactions on its Web Site. It encrypts all of your personal information, including credit card number, name, and address. <strong>Please remember, however, that you are responsible for maintaining the secrecy of your user IDs and passwords and absolute security on the Internet cannot be guaranteed.</strong></p>
 
-    <h2>Third Parties</h2>
-    <p>This Privacy Policy covers only information received or collected by Cookstr via the Web Site. The Web Site may contain links to the web sites of third parties. The third party web sites that may be accessed from the Web Site have separate privacy, data collection, data transfer and e-mail policies. Although Cookstr is interested in visitor feedback regarding these links, it is not responsible for the privacy practices, security or content of any of them, or for any events that occur as a result of using these links or visiting any of the web sites of third parties.</p>
+      <h2>Third Parties</h2>
+      <p>This Privacy Policy covers only information received or collected by Cookstr via the Web Site. The Web Site may contain links to the web sites of third parties. The third party web sites that may be accessed from the Web Site have separate privacy, data collection, data transfer and e-mail policies. Although Cookstr is interested in visitor feedback regarding these links, it is not responsible for the privacy practices, security or content of any of them, or for any events that occur as a result of using these links or visiting any of the web sites of third parties.</p>
 
-    <h2>Consent</h2>
-    <p>By your use of this Site, you consent to this Privacy Policy. Cookstr reserves the right to change this Privacy Policy at any time. All changes will be posted on this page. Your continued use of the Web Site will constitute your acceptance of such changes. Check back regularly for updates to this Privacy Policy and the latest privacy policy information.</p>
+      <h2>Consent</h2>
+      <p>By your use of this Site, you consent to this Privacy Policy. Cookstr reserves the right to change this Privacy Policy at any time. All changes will be posted on this page. Your continued use of the Web Site will constitute your acceptance of such changes. Check back regularly for updates to this Privacy Policy and the latest privacy policy information.</p>
 
-    <h2>Information Security and Notification</h2>
-    <p>You agree to assume all risk in connection with the information transmitted to Cookstr or collected by Cookstr when you use the Web Site. It is impossible to ensure that all data transmissions over the Internet are completely secure, and no system of electronic security is impenetrable. Accordingly, Cookstr cannot guarantee the security of the information sent to Cookstr or the security of our services or databases.</p>
+      <h2>Information Security and Notification</h2>
+      <p>You agree to assume all risk in connection with the information transmitted to Cookstr or collected by Cookstr when you use the Web Site. It is impossible to ensure that all data transmissions over the Internet are completely secure, and no system of electronic security is impenetrable. Accordingly, Cookstr cannot guarantee the security of the information sent to Cookstr or the security of our services or databases.</p>
 
-    <h2>Privacy Policy Coordinator</h2>
-    <!-- <p>To be removed from all of Cookstr’s email lists, click here.</p> -->
-    <p>If you have any concerns or questions about any aspect of this Privacy Policy, please feel free to contact our <a href="mailto:privacypolicycoordinator@cookstr.com">Privacy Policy Coordinator</a> at <a href="mailto:privacypolicycoordinator@cookstr.com">privacypolicycoordinator@cookstr.com</a>.</p>
+      <h2>Privacy Policy Coordinator</h2>
+      <!-- <p>To be removed from all of Cookstr’s email lists, click here.</p> -->
+      <p>If you have any concerns or questions about any aspect of this Privacy Policy, please feel free to contact our <a href="mailto:privacypolicycoordinator@cookstr.com">Privacy Policy Coordinator</a> at <a href="mailto:privacypolicycoordinator@cookstr.com">privacypolicycoordinator@cookstr.com</a>.</p>
+    </div>
+  </div>
+  
+  <div class="two_column_narrow">
+    <div class="ad-content">
+
+
+  <!-- FM Medium Rectangle Zone -->
+  <script type="text/javascript" src="http://static.fmpub.net/zone/6237"></script>
+  <!-- FM Medium Rectangle Zone -->
+
+  
+</div> 
   </div>
 </div>
 
@@ -219,6 +225,7 @@
 	<div id="links">
 		<ul>
 			<li><a href="/about">ABOUT US</a></li>
+			<li><a href="/press">PRESS</a></li>
 			<li><a href="/contact">CONTACT US</a></li>
 			<li><a href="http://newsletters.cookstr.com">ARCHIVED NEWSLETTERS</a></li>
 			<li><a href="/partnerships">PARTNERSHIPS</a></li>
@@ -237,7 +244,7 @@
   
   <div id="copyright">
     
-    <a href="/terms_of_use">© 2011 Cookstr, LLC, All Rights Reserved</a>
+    <a href="/terms_of_use">© 2012 Cookstr, LLC, All Rights Reserved</a>
     
   </div>
 	
@@ -283,7 +290,7 @@
   
   <div id="signup_dialogue" class="overlay">
     <div class="instead">  
-      Already a member? <a class="overlay-trigger" href="#" onclick="; return false;" rel="#login_dialogue">Click here to Log In</a>
+      Already a member? <a href="" class="overlay-trigger" rel="#login_dialogue">Click here to Log In</a>
     </div>  
     <a class="close">close</a>
     
@@ -397,10 +404,10 @@
      		</td>
      		<td width="82"> </td>
      		<td width="258" class="smallcaps"> 
-     		  <input class="redirect-hidden-field" id="redirect_to" name="redirect_to" type="hidden"> 
+     		  <input class="redirect-hidden-field" id="redirect_to" name="redirect_to" type="hidden" value="http://www.cookstr.com/privacy/"> 
           <input class="button" name="sign_up" type="submit" value="">  
        		<div class="image-wrapper">
-       		  <img alt="Spinner" class="spinner" id="signup-spinner" src="/images/spinner.gif?1322589434">
+       		  <img alt="Spinner" class="spinner" id="signup-spinner" src="/images/spinner.gif?1335552173">
        		</div>
      		</td>
       		<td width="50"> </td>
@@ -419,7 +426,7 @@
   </div>
   <div id="login_dialogue" class="overlay">
     <div class="instead">  
-      New to Cookstr? <a class="overlay-trigger" href="#" onclick="; return false;" rel="#signup_dialogue">Click here to Sign Up</a>
+      New to Cookstr? <a href="" class="overlay-trigger" rel="#signup_dialogue">Click here to Sign Up</a>
     </div>
     <a class="close">close</a>
     <div class="social-buttons">  
@@ -458,7 +465,7 @@
         <tr>
       		<td width="64"></td>
       		<td class="submit-section" align="middle">
-      		  <input class="redirect-hidden-field" id="redirect_to" name="redirect_to" type="hidden">
+      		  <input class="redirect-hidden-field" id="redirect_to" name="redirect_to" type="hidden" value="http://www.cookstr.com/privacy/">
       		  <input class="button" name="log_in" type="submit" value="">
       		    
       		</td>
