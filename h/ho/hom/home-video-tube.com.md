@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the home-video-tube.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101232402id_/http%3A//www.home-video-tube.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the home-video-tube.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510035100id_/http%3A//www.home-video-tube.com/privacy) for the most accurate reproduction.*
 
-# Home Made Amateur Porn & Sex Videos - Couples, Voyeurs & Real Amateurs
+# ClipShare Pro 4
 
 This document details important information regarding the use and disclosure of User Data collected on Home-Video-Tube.com
 
