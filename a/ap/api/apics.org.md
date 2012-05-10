@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the apics.org privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230133217id_/http%3A//www.apics.org/About/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apics.org privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510104955id_/http%3A//www.apics.org/privacy-policy) for the most accurate reproduction.*
 
-# APICS - Online Privacy Policy
-
-APICS Online Privacy Policy
+# APICS - APICS Online Privacy Policy
 
 APICS respects the privacy of visitors to its website and has developed the following privacy policy to inform visitors about how information is handled once it has been submitted online.
 
 Personal, identifying information is not collected from visitors to our site unless this information has been voluntarily provided. All sensitive information sent to APICS is kept confidential. However, please be advised that the APICS website will query visitors browsers for certain information, such as
 
-  * the domain you are accessing our site from.
-  * the type of PC operating system you use.
+  * the domain you are accessing our site from. 
+  * the type of PC operating system you use. 
   * the type of browser you use. 
 
 
@@ -22,4 +20,4 @@ When you request information or items related to the APICS CPIM, CIRM, and CSCP 
 
 APICS never rents or sells email addresses to outside parties. Occasionally, you may wish to receive information or communication from an APICS client. In that instance, you will be asked for permission to share your email address.
 
-After you create an online account with APICS, you will receive information about APICS products, services, and educational offerings that relate to your areas of interest unless you choose to opt-out. If you have questions or concerns about APICS's online policy or wish to be removed from any APICS list, please contact APICS Customer Service at [service@apics.org](http://www.apics.org/APICS/Templates/CMS/service@apics.org) or 1-800-444-2742 or +1-773-867-1777.
+After you create an online account with APICS, you will receive information about APICS products, services, and educational offerings that relate to your areas of interest unless you choose to opt-out. If you have questions or concerns about APICS's online policy or wish to be removed from any APICS list, please contact APICS Customer Service at [service@apics.org](mailto:service@apics.org) or 1-800-444-2742 or +1-773-867-1777.
