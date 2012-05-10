@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desiplaza.us privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123141543id_/http%3A//www.desiplaza.us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desiplaza.us privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510191814id_/http%3A//www.desiplaza.us/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D14%26Itemid%3D195) for the most accurate reproduction.*
 
 # Privacy Policy
 
