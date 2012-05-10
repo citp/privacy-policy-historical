@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pgp.com privacy policy that was archived on 2011-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110910113322id_/http%3A//www.symantec.com/about/profile/privacypolicy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pgp.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510182405id_/http%3A//www.symantec.com/about/profile/privacypolicy/index.jsp) for the most accurate reproduction.*
 
 # Privacy - Symantec Corp.
 
-###  _Last Updated: November 2, 2009_
+_Last Updated: November 2, 2009_
 
 ##  As a world leader in Internet security technology, Symantec understands your desire to have your personal information protected.
 
@@ -37,32 +37,3 @@ Our Social Media Privacy Policy governs sites which include user-generated conte
 ### LiveUpdate Privacy Notice
 
 LiveUpdate is a part of many Symantec products that provides for active updating of products in order to ensure up-to-date protection. This policy describes the information collected and how it is used. Learn more about the [LiveUpdate Privacy Notice](https://web.archive.org/about/profile/policies/luprivacy.jsp).
-
-### Contact Us
-
-**Postal Mail:**   
-Symantec Corporation -   
-Privacy Lead   
-350 Ellis Street   
-PO Box 7011   
-Mountain View, CA 94043   
-U.S.A
-
-**Telephone:**   
-+1 650 527 8000
-
-**Email:**   
-[privacy@symantec.com](mailto:privacy@symantec.com)
-
-If for any reason you are not satisfied with the response from Symantec to your inquiries regarding your right to privacy, you can [contact TRUSTe](http://www.truste.com/consumers/watchdog_complaint.php).
-
-### Change Your Preferences
-
-[Norton](https://www-secure.symantec.com/norton/privacy.jsp)   
-For customers of Norton Products.
-
-[SymAccount](https://www4.symantec.com/Vrt/offer?a_id=-1)   
-For customers of Business Products.
-
-[General Marketing Offers](https://www4.symantec.com/Vrt/unsubscribe)   
-To unsubscribe from receiving information regarding seminars, webcasts, product releases and special offers available from Symantec Corporation.
