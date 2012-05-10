@@ -1,7 +1,39 @@
-> *The following text is extracted and transformed from the cnccookbook.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222175857id_/http%3A//www.cnccookbook.com/CCPrivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnccookbook.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510210828id_/http%3A//www.cnccookbook.com/CCPrivacy.htm) for the most accurate reproduction.*
 
 # CNC Cookbook : Privacy Policy
 
+CNCCookbook  Software and Information for Machinists   
+  
+[](http://www.cnccookbook.com/CCGWizard.html)
+
+[ ](http://www.cnccookbook.com/CCCNCMillFeedsSpeeds.htm)
+
+**\- Contact Us** -
+
+**E-Mail**
+
+[sales@cnccookbook.com](mailto:sales@cnccookbook.com)
+
+(Best contact is email!)
+
+**Phone**
+
+408.425.3617
+
+**Address**
+
+3470 Merrill Rd
+
+Aptos, CA 95003 
+
+[Our History](https://web.archive.org/web/20120510210828id_/http%3A//www.cnccookbook.com/CCHistory.htm)
+
+[](http://sanjose.bbb.org/BusinessReport.aspx?CompanyID=1000005908&source=ctc)
+
+[](https://privacy-policy.truste.com/click-to-verify/www.cnccookbook.com "Privacy Policy by TRUSTe") 
+
+[](http://www.addthis.com/bookmark.php?v=250&username=cnccookbook)  
+  
 CNCCookbook's Privacy Policy
 
 At CNCCookbook, we are committed to having fanatically loyal customers. Part of that is making sure that we treat your privacy with respect.
@@ -15,47 +47,148 @@ This Privacy Policy describes how we collect personal information from our users
 
 
 
-**What is Personal Information?**
+**Our privacy policy was created and is monitored on an ongoing basis by TRUSTe.**
 
-Personal information specifically identifies an individual, such as an individual's name, address, telephone number, e-mail address, credit card or other account number—and information about that individual's activities when directly linked to him or her, such as information about his or her purchases.
+**[Privacy Policy by TRUSTe](http://privacy-policy.truste.com/verified-policy/www.cnccookbook.com)**  
+  
+**[Home](http://www.cnccookbook.com/index.htm)**
 
-Personal information also includes demographic information, such as date of birth, gender, geographic area and preferences when such information is linked to other personal information that identifies an individual.
+**[Blog](http://blog.cnccookbook.com/category/blog/)**
 
-Personal information does not include "aggregate" information. Aggregate information is data collected about a group or category of products, services or customers from which individual customer identities have been removed. Aggregate data helps us understand trends and customer needs so that we can better design new products and services, and refine existing products and services to serve our customers better.
+**      [Cool](http://blog.cnccookbook.com/category/cool/)**
 
-**Information Collection, Use, and Sharing**
+**      [Projects](http://blog.cnccookbook.com/category/projects/)**
 
-We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone. 
+**      [Software](http://blog.cnccookbook.com/category/software/)**
 
-We will use your information to respond to you, regarding the reason you contacted us, and to help us improve our software and website. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order. 
+**      [Techniques](http://blog.cnccookbook.com/category/techniques/)**
 
-Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, happenings on the CNCCookbook web site, or changes to this privacy policy. 
+**      [Business](http://blog.cnccookbook.com/category/business/)**
 
-**Your Access to and Control Over Information**
+**      [Products](http://blog.cnccookbook.com/category/products/)**
 
-You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website: 
+| 
 
-  * See what data we have about you, if any. 
-  * Change/correct any data we have about you. 
-  * Have us delete any data we have about you. 
-  * Express any concern you have about our use of your data. 
+**Software**
 
+**      [G-Wizard Calculator](http://www.cnccookbook.com/CCGWizard.html)**
 
+          [User Guide](http://www.cnccookbook.com/GWCalcFeedsSpeeds.htm)
 
-**Security**
+          [Tips](http://www.cnccookbook.com/GWTips.html)
 
-We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline. 
+          [Change Log](http://www.cnccookbook.com/CCGWizardChangeLog.htm)
 
-Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page. 
+**      [G-Wizard Editor](http://www.cnccookbook.com/CCGWizardE.html)**
 
-While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
+          [User Guide](http://www.cnccookbook.com/GWEOverview.html)
 
-**Policy Changes**
+          [Change Log](http://www.cnccookbook.com/GWEChangeLog.html)
 
-We may modify this Policy if our privacy practices materially change in the future and we will notify you of such changes, such as by posting the modified Policy on our Site and indicating at the top of the Policy the date it was last updated. We encourage you to review this Policy each time you visit our Site to see if it has been updated since your last visit and to make sure you understand how information you provide will be used. 
+      **[Gearotic Gear Designer](https://web.archive.org/web/20120510210828id_/http%3A//www.cnccookbook.com/CCGearotic.html)**
 
-**Your Comments or Concerns**
+**      [Troubleshooting](http://www.cnccookbook.com/GWTrouble.htm)**
 
-We welcome your feedback. If you have any comments or concerns about this Policy or would like to contact us for any reason, you may [reach us via email](mailto:sales@cnccookbook.com). 
+**      [User's Club](http://www.cnccookbook.proboards.com/index.cgi)**
 
-**If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at _408-425-3617_ or _[via email](mailto:sales@cnccookbook.com)_.**
+| 
+
+**[Cookbooks](http://www.cnccookbook.com/CCCookbook.htm)**
+
+**      [Feeds and Speeds](http://www.cnccookbook.com/CCCNCMillFeedsSpeeds.htm)**
+
+**      [G-Code Tutorial](http://www.cnccookbook.com/CCCNCGCodeCourse.htm)**
+
+      **Beginners** : Soon!
+
+      **[Software](http://www.cnccookbook.com/MTCNCSoftware.htm)**
+
+          G-Code: Soon!
+
+          CAD/CAM: Soon!          
+
+          Other Software: Soon!
+
+****       **Machining** : Soon!
+
+      **CNC Tech** : Soon!
+
+****       **Idea Notebooks** : Soon!
+
+| 
+
+**Projects**
+
+     [ **Completed**](http://www.cnccookbook.com/CCProjects.htm)
+
+**      [Simple Wish List](http://www.cnccookbook.com/CCWishListFutures.htm)**
+
+**      [Model Wish List](http://www.cnccookbook.com/CCWishListEngines.htm)**
+
+**      [Rash Ideas](http://www.cnccookbook.com/CCWishListBiggerProjects.html)**
+
+| 
+
+**[Machines](http://www.cnccookbook.com/CCCNCMachine.htm)**
+
+      **Lathe** : Soon!
+
+      **Mill** : Soon!
+
+      **Router** : Soon!
+
+      **[Plasma Table](http://www.cnccookbook.com/CCPlasmaCNCHome.htm)**
+
+      **3D Printer** : Soon!
+
+      **[Welding](http://www.cnccookbook.com/MTWeldingHome.htm)**
+
+      **[Other Machines](http://www.cnccookbook.com/MTOtherHome.htm)**
+
+| 
+
+**Resources**
+
+**      [Machinist's Search](https://web.archive.org/web/20120510210828id_/http%3A//www.cnccookbook.com/CCSearch.html)**
+
+**      [Videos](http://www.cnccookbook.com/CCVideosHome.htm)**
+
+**      [Online Groups](http://www.cnccookbook.com/CCResources.htm)**
+
+**      [Individuals](http://www.cnccookbook.com/CCResourcesInd.htm)**
+
+**      [Reference Data](http://www.cnccookbook.com/CCResourcesRef.htm)**
+
+**      [Books](http://www.cnccookbook.com/CCResourcesBooks.htm)**
+
+**      [CNC Dictionary](http://www.cnccookbook.com/CCDictionary.htm)**
+
+**      [Suppliers](http://www.cnccookbook.com/CCResourcesSup.htm)**
+
+**      [Tool Brands](http://www.cnccookbook.com/CCResourcesBrands.htm)**
+
+| 
+
+**Workshop**
+
+**      [Hall of Fame](http://www.cnccookbook.com/CCHallOfFame.html)**
+
+      **Organization** : Soon!
+
+**[About](http://www.cnccookbook.com/CCAbout.htm)**
+
+**      [Customers](http://www.cnccookbook.com/CCManufacturers.html)**
+
+**      [Partners](http://www.cnccookbook.com/CCPartners.html)**
+
+**      [Our History](http://www.cnccookbook.com/CCHistory.htm)**
+
+**      [Privacy Policy](http://www.cnccookbook.com/CCPrivacy.htm)**  
+  
+[](https://plus.google.com/106834255444857094594?prsrc=3) | 
+
+|   | 
+
+All material © 2010-2012, [**CNCCookbook, Inc.**](mailto:sales@cnccookbook.com)  
+  
+---|---
