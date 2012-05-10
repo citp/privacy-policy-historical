@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the locobuy.com privacy policy that was archived on 2011-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111202085423id_/https%3A//www.locobuy.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the locobuy.com privacy policy that was archived on 2012-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120510135520id_/https%3A//www.locobuy.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>           
 	<title>LocoBuy</title>
@@ -8,7 +8,7 @@
 	       
 	
 	<link rel="shortcut icon" href="favicon.ico">
-	<link rel="stylesheet" href="https://www.locobuy.com/style.css" type="text/css">
+	<link rel="stylesheet" href="https://www.locobuy.com/style_new.css" type="text/css">
 	<!--[if IE]>
 		<link rel="stylesheet" href="ie.css" type="text/css" />
 	<![endif]-->
@@ -16,7 +16,7 @@
 	
 	<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.js" type="text/javascript"></script>	-->
 	
-	<script src="https://static.woopra.com/js/woopra.js" type="text/javascript" async=""></script><script src="http://static.woopra.com/js/woopra.js" type="text/javascript" async=""></script>
+	<script src="https://static.woopra.com/js/woopra.js" type="text/javascript" async=""></script><script src="https://static.woopra.com/js/woopra.js" type="text/javascript" async=""></script>
 	<script src="https://www.13deals.com/admin/jquery/jquery.1.6.1.min.js"></script>
 	
 	<script type="text/javascript" src="https://www.locobuy.com/js/coda-slider.1.1.1.pack.js"></script>
@@ -95,10 +95,24 @@
 			visible: 4,
 			scroll: 4
 		});
+		$('.carousel li').css("display","none").css("display","block");
+		
         $('#hottest-deals_carousel').jcarousel({
 			auto: 8,
+			start: 1,
+			offset: 1,
+			scroll: 3,
 			wrap: 'last'
 		});
+		
+		$('#hottest-deals_carousel li').css("display","none").css("display","block");
+	}
+	
+	function clickDealLink(intDealId){
+		$.get('http://www.locobuy.com/out.php?deal_id='+intDealId, 
+			function(data){
+				
+			});
 	}
 	
 	$(document).ready(function(){
@@ -177,14 +191,10 @@
 					<a href="http://www.locobuy.com/about.php">About</a>
 					<a href="http://www.locobuy.com/contact.php">Contact Us</a>
 					<a href="https://www.locobuy.com/user.php">My Account</a>
-					<a href="http://www.locobuy.com/blog">Blog</a>
+					<a href="http://blog.locobuy.com">Blog</a>
 				</div>
-				<h2><a href="http://www.locobuy.com/blog" class="blog-header">Blog</a></h2>
-									<p>
-						<a href="http://locobuy.com/blog/?p=718">Loco Fo-To! When searching for lost treasure, Indiana Jones found this.</a>
-						&nbsp;<span class="blog_date">December 1, 2011</span>
-					</p>
-								</div>
+				<!--<h2><a href="http://blog.locobuy.com" class="blog-header">Blog</a></h2>-->
+							</div>
 			<div id="header_login" class="login" style="display:block;">
 				<div class="login-header">Login or</div><a href="http://www.locobuy.com/signup.php" class="signup-header">Sign Up!</a>
 				<form name="header_login_frm" method="post" action="https://www.locobuy.com/privacy.php">
@@ -399,7 +409,7 @@
 					</td>
 					<td valign="top" width="22%">
 						<strong>More</strong><br>
-						<a href="http://www.locobuy.com/blog/">Blog</a>
+						<a href="http://blog.locobuy.com">Blog</a>
 						<a href="https://www.locobuy.com/faq.php">FAQ</a>
 						<a href="https://www.locobuy.com/returns.php">Return Policy</a>
 						<a href="https://www.locobuy.com/shipping.php">Shipping Policy</a>
