@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freehdwall.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228035857id_/http%3A//www.freehdwall.com/p/copyright-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freehdwall.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510071526id_/http%3A//www.freehdwall.com/p/copyright-privacy-policy.html) for the most accurate reproduction.*
 
-# Free Awesome High Definition Wallpapers: Copyright & Privacy Policy
+# FreeHDWall.Com | Free HD Wallpapers for your Desktop: Copyright & Privacy Policy
 
 Copyright Policy[](http://www.blogger.com/page-edit.g?blogID=8605770200878202379&pageID=4651624503596665163)  
 
@@ -25,8 +25,8 @@ If you are still not satisfied with our copyright policy.
 
     We use third party advertising companies to run ads when you visit our Web site.
 
-    These companies may use information (excluding your name, address, e-mail address or telephone number) about your visits to this site or others in order to provide advertisements about goods and services  that may interest you. If you want more information about these practices and to know the options on the possibility of not allowing the use of such information by these companies, [click here.](https://www.google.com/adsense/support/bin/answer.py?answer=100557)  Google, as a third party vendor, uses cookies to run ads on this site.
+    These companies may use information (excluding your name, address, e-mail address or telephone number) about your visits to this site or others in order to provide advertisements about goods and services  that may interest you. If you want more information about these practices and to know the options on the possibility of not allowing the use of such information by these companies, [click here.](http://www.google.com/privacy/ads/)  Google, as a third party vendor, uses cookies to run ads on this site.
 
-Using [DART Cookie](https://www.google.com/adsense/support/bin/answer.py?answer=100557) by Google enables broadcast ads to users on this website by users accessing this site and other sites on the Internet.
+Using DART Cookie by Google enables broadcast ads to users on this website by users accessing this site and other sites on the Internet.
 
 Users can quit using DART Cookie, consulting privacy policy advertising networks and content Google , or users can disable this module directly,[ from here.](http://www.google.com/ads/preferences/view?sig=ACi0TCgOdkOIfgFY_HbqHL4jybwKDOTUjkr6DlXdR_Co_1T1cCDbPUJBjHpXKeCrv66ZRPZuVeBdKodzo6GyVw0ZMcQ-7HCKOHACIbTsMABtTtjHmxYCJEG61zU2LSlH33XncNmK6fQfB28PgCRJJlXhYDMWSyk5JE2esfRzyw0wp1Wf80CrTHg&hl=en)
