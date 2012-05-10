@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bloomenergy.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103083845id_/http%3A//www.bloomenergy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloomenergy.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510033802id_/http%3A//www.bloomenergy.com/privacy) for the most accurate reproduction.*
 
-# Bloom Energy | Be The Solution | Privacy Policy
+# Privacy Policy | Bloom Energy
 
 **Our Commitment to Your Privacy**  
 This site is owned and operated by Bloom Energy. You should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
