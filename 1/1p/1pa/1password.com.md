@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1password.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008085609id_/https%3A//agilebits.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1password.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511001405id_/https%3A//agilebits.com/home/privacy) for the most accurate reproduction.*
 
 # AgileBits Privacy Policy
 
@@ -30,13 +30,13 @@ Cookies are used to provide additional features as well as to help us improve th
 
 ### Conditions of Use, Notices, and Revisions
 
-If you choose to visit AgileBits web sites, your visit and any dispute over privacy is subject to this Notice. If you have any concern about privacy of AgileBits sites or products, please [contact us](http://agilebits.com/contact_us) with a thorough description, and we will try to resolve it.
+If you choose to visit AgileBits web sites, your visit and any dispute over privacy is subject to this Notice. If you have any concern about privacy of AgileBits sites or products, please [contact us](https://agilebits.com/contact_us) with a thorough description, and we will try to resolve it.
 
 Our business changes constantly, and our Privacy Notice and the Terms and Conditions of Use will change also. We may e-mail notices of changes to the policies, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account.
 
 ### More information
 
-If you have additional questions, you can [contact us via email](http://agilebits.com/contact_us), or write to us at:
+If you have additional questions, you can [contact us via email](https://agilebits.com/contact_us), or write to us at:
 
 > 1 Yonge Street Suite 1801  
 >  Toronto, ON M5E 1W7  
