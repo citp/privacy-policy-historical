@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the tibco.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203160253id_/http%3A//www.tibco.com/company/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tibco.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510234859id_/http%3A//www.tibco.com/company/privacy.jsp) for the most accurate reproduction.*
 
 # TIBCO | Privacy Policy
 
-## Overview
-
-TIBCO Software Inc. ("TIBCO" "we" or "us") is committed to protecting our users' privacy. We feel it is important that you fully understand the terms and conditions under which we use the information we gather from you through the use of our Web sites, such as those located at URL [www.tibco.com](http://www.tibco.com/),  [www.tibcommunity.com](http://www.tibcommunity.com/), [www.tibbr.com](http://www.tibbr.com/), and developer.tibco.com (our "Sites"). Please read this Privacy Policy ("Policy") carefully to understand how we will use and protect your personal information. We will never share your personal information with anyone except as described in this Policy. Changes to this Policy will be announced on our home page of our Web site so please check back periodically.
+TIBCO Software Inc. ("TIBCO" "we" or "us") is committed to protecting our users' privacy. We feel it is important that you fully understand the terms and conditions under which we use the information we gather from you through the use of our Web sites, such as those located at URL [www.tibco.com](http://www.tibco.com/),  [www.tibcommunity.com](http://www.tibcommunity.com/),  [www.tibbr.com](http://www.tibbr.com/),  [www.loyaltylab.com](http://www.loyaltylab.com/),  [www.loyaltylibrary.com](http://www.loyaltylibrary.com/),  and [developer.tibco.com](http://developer.tibco.com/ "developer.tibco.com") (our "Sites") and tibbr® our mobile application (our “Mobile App”). Please read this Privacy Policy ("Policy") carefully to understand how we will use and protect your personal information. We will never share your personal information with anyone except as described in this Policy. Changes to this Policy will be announced on the home page of our Sites and Mobile App so please check back periodically.
 
 TIBCO has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html "TRUSTe's Program Requirements") including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information collected through our Sites and does not cover information that may be collected through downloadable software or through our support services behind our login. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@tibco.com](mailto:privacy@tibco.com). If you are not satisfied with our response you can contact [TRUSTe here.](http://watchdog.truste.com/pvr.php?page=complaint "Contact TRUSTe")  
-[](https://privacy-policy.truste.com/click-with-confidence/eusafe/en/www.tibco.com/seal_m "TRUSTe European Safe Harbor certification")
 
-TIBCO complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland respectively. Information regarding the both the E.U. and Swiss Safe Harbor Frameworks can be found at: <http://export.gov/safeharbor>
+
+[](https://privacy.truste.com/privacy-seal/Tibco-Software-Inc-/validation?rid=58ccb889-d748-47c2-a435-da1c1c117b43 "TRUSTe European Safe Harbor certification")
+
+TIBCO complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. TIBCO has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view TIBCO’s certification, please visit <http://export.gov/safeharbor>
 
 This Policy will explain the following regarding use of our Site:
 
@@ -36,11 +36,17 @@ This Policy will explain the following regarding use of our Site:
 
 ## 1\. What information do we collect from you?
 
-In order to better provide you with services, our Site collects two types of information about its visitors: Personally Identifiable Information and Non-Personally Identifiable Information. We retain Personally Identifiable Information temporarily — only as long as it is necessary to carry out services for you and as described in our "Data Retention" policy below. Our primary goal in collecting information from you is to provide you with a smooth and efficient experience while using our Site.
+In order to better provide you with services, our Site and Mobile App collects two types of information about its visitors: Personally Identifiable Information and Non-Personally Identifiable Information. We retain Personally Identifiable Information temporarily — only as long as it is necessary to carry out services for you and as described in our "Data Retention" policy below. Our primary goal in collecting information from you is to provide you with a smooth and efficient experience while using our Site.
 
- **Personally Identifiable Information:** Personally Identifiable Information refers to information that lets a site know the specifics of who you are, such as your name, address, telephone number, email address and any other information when needed to provide a service to you while on our Site. When you browse our Site, you do so anonymously, unless you have previously indicated that you wish TIBCO to remember your login and password. We don't automatically collect personal information, including your email address. We do log your Internet Protocol ("IP") address to give us an idea of which part of our website you visit and how long you spend there.
+ **Personally Identifiable Information:** Personally Identifiable Information refers to information that lets a site know the specifics of who you are, such as your name, address, telephone number, email address and any other information when needed to provide a service to you while on our Site or within our Mobile App. When you browse our Site, you do so anonymously, unless you have previously indicated that you wish TIBCO to remember your login and password. We don't automatically collect personal information, including your email address. We do log your Internet Protocol ("IP") address to give us an idea of which part of our website you visit and how long you spend there.
 
 TIBCO collects Personally Identifiable Information when you register with TIBCO for a TIBCO account as a customer, potential customer, or guest user, when you use certain TIBCO products or services, when you register to attend a seminar or participate in an online forum, blog, or a voluntary survey, when you ask to be included in an email or other mailing list (see "Choice/Opt-Out" below), when you submit an entry for promotions, or when you submit your personal information to TIBCO for any other reason. We use the Personally Identifiable Information that we collect to send you information that you have requested, respond to an inquiry, or to facilitate the features on the site as described above. From time to time, TIBCO receives personal information from business partners and vendors. TIBCO only uses such information if it has been collected in accordance with acceptable privacy practices consistent with this Policy.
+
+When using our Mobile App we will provide you the option to add your location in conjunction with some features of the Mobile App such as adding your location to a post. We ask you to opt into providing us with your Geo-Location data each time you provide it.
+
+### Widgets
+
+Our Site may from time to time utilize widgets, such as the “Share This” or “Add This” buttons or interactive mini-programs that run on our Site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the features to function properly. Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with Widgets are governed by the privacy policy of the company providing it.
 
 ### Blog
 
@@ -50,11 +56,11 @@ Access to certain TIBCO web pages requires a login and a password. The use of th
 
 ### Email a Friend
 
-If you choose to use our referral service to tell a friend about our Site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Site. TIBCO does not store this information and uses it for the sole purpose of sending this one-time email and tracking the success of our referral program.
+If you choose to use our referral service to tell a friend about our Site or Mobile App, or invite a colleague into your network, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Site. TIBCO does not store this information and uses it for the sole purpose of sending this one-time email and tracking the success of our referral program.
 
 ### Data Retention
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacy@tibco.com](mailto:privacy@tibco.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information and Geo-Location data for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacy@tibco.com](mailto:privacy@tibco.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
  **Non-Personally Identifiable Information:** Non-Personally Identifiable Information refers to information that does not by itself identify a specific individual. We gather certain information about you based upon the pages that you access in our Site using various tracking technologies. This information is compiled and analyzed on both a personal and an aggregated basis. This information may include the Web site's Uniform Resource Locator ("URL") that you just came from, which URL you go next to, what browser you are using, and your IP address. A URL is the global address of documents and other resources on the World Wide Web. An IP address is an identifier for a computer or device on a Transmission Control Protocol/Internet Protocol ("TCP/IP") network, such as the World Wide Web. Networks use the TCP/IP protocol to route information based on the IP address of the destination. In other words, an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web, allowing Web servers to locate and identify your computer. Computers require IP addresses in order for users to communicate on the Internet, browse, and shop. We utilize this data to improve our Site and personalize your experience while on our Site. (See "Cookies" section below)
 
@@ -65,6 +71,9 @@ We will occasionally send you information on products, services, special deals, 
 
  _Newsletters_  
 If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the "Choice and Opt-out" section.
+
+ _Push Notifications_  
+When you sign up to use our Mobile App we will ask you if you wish to receive push notifications which will use to keep you updated on the activity that occurs within tibbr® . Out of respect for your privacy, we provide you a way to unsubscribe. Please see the "Choice and Opt-out" section.
 
  _Service-Related Announcements_  
 We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email.
@@ -80,7 +89,7 @@ Because TIBCO is a global company, your personal information may be shared with 
 
 Your personal information is never shared outside TIBCO without your permission, except under conditions explained below. Inside TIBCO, data is stored in controlled servers with limited access. Your information may be stored and processed in the United States or any other country where TIBCO, its subsidiaries, affiliates, or agents are located.
 
-TIBCO may send your personal information to other companies or people under any of the following circumstances: when we have your consent to share the information; we need to share your information to provide the product or service you have requested; we need to send the information to companies who work on behalf of TIBCO to provide a product or service to you such as a marketing partner or Web analytics company (we will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose); or we want to keep you up to date on the latest product announcements, software updates, special offers or other information we think you'd like to hear about either from us or from our business partners . We will also disclose your personal information if required to do so by law, to enforce our Terms of Use, or in urgent circumstances, to protect personal safety, the public or our websites. We reserve the right to disclose your Personally Identifiable Information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Site.
+TIBCO may send your personal information to other companies or people under any of the following circumstances: when we have your consent to share the information; we need to share your information to provide the product or service you have requested; we need to send the information to companies who work on behalf of TIBCO to provide a product or service to you such as a marketing partner, mapping service provider or Web analytics company (we will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose); or we want to keep you up to date on the latest product announcements, software updates, special offers or other information we think you'd like to hear about either from us or from our business partners . We will also disclose your personal information if required to do so by law, to enforce our Terms of Use, or in urgent circumstances, to protect personal safety, the public or our websites. We reserve the right to disclose your Personally Identifiable Information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Site.
 
 ### Choice/Opt-out
 
@@ -88,23 +97,27 @@ We provide you the opportunity to 'opt-out' of having your Personally Identifiab
 
 If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [privacy@tibco.com](mailto:privacy@tibco.com).
 
+If you wish to no longer receive the push notifications you have opted into, you may turn them off at the device level.
+
 ## 3\. How may you update, correct, or delete your Personally Identifiable Information?
 
-You may send us an email at [replies@tibco.com](mailto:replies@tibco.com), as applicable, to have Personally Identifiable Information that you have submitted to our Site changed or deleted. Note that we may retain changed or deleted information for archival purposes. We will respond to your request within 30 days.
+You may send us an email at [replies@tibco.com](mailto:replies@tibco.com), as applicable, to have Personally Identifiable Information that you have submitted to our Site or App changed or deleted. Note that we may retain changed or deleted information for archival purposes. We will respond to your request within 30 days.
 
 ## 4\. What security precautions are in place to protect against the loss, misuse, or alteration of your information?
 
-We employ industry-recognized information technology to protect the security of the information you submit to us. The importance of security for all Personally Identifiable Information associated with our users is of utmost concern to us. Our secure servers protect this information using password protection and advanced encryption, and we may use firewall technology for additional protection. Furthermore, all of the user data we collect is protected against unauthorized access by physical security means.
+We employ industry-recognized information technology to protect the security of the information you submit to us. The importance of security for all Personally Identifiable Information associated with our users is of utmost concern to us. Our secure servers protect this information using password protection and advanced encryption, and we may use firewall technology for additional protection. When you enter sensitive information (such as a credit card number or Geo-Location information) on our site or through our Mobile App, we encrypt the transmission of that information using secure socket layer technology (SSL).
+
+Furthermore, all of the user data we collect is protected against unauthorized access by physical security means.
 
 We also encourage our partners and service providers to adopt and follow stringent consumer privacy policies.
 
 ## 5\. "Cookies" and other Tracking Technologies
 
-Like many other sites, our Site utilizes a standard technology called a "cookie" to collect information about how our Site is used. A cookie is a small data text file, which a Web site stores on your computer's hard drive (if your Web browser permits) that can later be retrieved to identify you to us. Cookies were designed to help a Web site recognize a user's browser as a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site. For example, cookies can securely store a user's password, personalize home pages, identify which parts of a site have been visited, or keep track of past selections.
+Like many other sites and mobile apps, our Site and Mobile App utilizes a standard technology called a "cookie" to collect information about how our Site and Mobile App is used. A cookie is a small data text file, which a Web site or mobile app stores on your computer's hard drive or mobile device (if your Web browser permits) that can later be retrieved to identify you to us. Cookies were designed to help a Web site or mobile app recognize a user's browser as a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site. For example, cookies can securely store a user's password, personalize home pages, identify which parts of a site or mobile app has been visited, or keep track of past selections.
 
-We use cookies for the limited purposes of enhancing your visit to our Site and to enable us to track and target the interests of our users. A cookie cannot be read by a Web site other than the one that set the cookie. No other company will have access to our cookies. A cookie cannot retrieve any other data from your hard drive, pass on a computer virus, or capture your email address. Our cookies are not tied to Personally Identifiable Information.
+We use cookies for the limited purposes of enhancing your visit to our Site or Mobile App and to enable us to track and target the interests of our users. A cookie cannot be read by a Web site or Mobile App other than the one that set the cookie. No other company will have access to our cookies. A cookie cannot retrieve any other data from your hard drive or device, pass on a computer virus, or capture your email address. Our cookies are not tied to Personally Identifiable Information.
 
-Most browsers are initially set up to accept cookies. If you prefer, you can reset your browser to notify you when you have received a cookie, or alternatively, to refuse to accept cookies. It is important to note that you may not be able to use certain features on our Site if you choose not to accept cookies.
+Most browsers and devices are initially set up to accept cookies. If you prefer, you can reset your browser to notify you when you have received a cookie, or alternatively, to refuse to accept cookies. It is important to note that you may not be able to use certain features on our Site if you choose not to accept cookies.
 
 Some of the third party web-monitoring providers use cookies and Web beacons on our Site. We have no access to or control over these tracking technologies.
 
@@ -125,10 +138,12 @@ Other sites accessible through our Site have their own privacy policies and data
 If you have any questions about this Privacy Policy, the practices of our Site, or your dealings with our Site, please contact us by sending an email to privacy@tibco.com or you can write to us at:
 
 TIBCO Software Inc.   
-Attention: Legal Department/Privacy Group   
+Attention: Legal Department/Privacy Committee   
 3303 Hillview Avenue   
 Palo Alto, CA 94304
 
 ## 9\. Privacy Policy changes
 
-This Privacy Policy was last changed in October 2011. If we make changes to any terms or conditions of the Privacy Policy, the changes will be posted in this document so that you will always know what information we gather, how we might use that information, and to whom we will disclose it. Any change, modification, addition, or removal of portions of this Policy that are changes in a material way will be announced on the homepage(s) of our Site. Please be sure to check this page before proceeding to use our Site.
+This Privacy Policy was last changed in October 2011. If we make changes to any terms or conditions of the Privacy Policy, the changes will be posted in this document so that you will always know what information we gather, how we might use that information, and to whom we will disclose it. Any change, modification, addition, or removal of portions of this Policy that are changes in a material way will be announced on the homepage(s) of our Site and Mobile App. Please be sure to check this page before proceeding to use our Site or Mobile App.
+
+[](https://privacy.truste.com/privacy-seal/Tibco-Software-Inc-/validation?rid=58ccb889-d748-47c2-a435-da1c1c117b43 "TRUSTe European Safe Harbor certification")
