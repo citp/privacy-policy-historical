@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tastyreview.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110110749id_/http%3A//tastyreview.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tastyreview.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510091811id_/http%3A//tastyreview.com/privacy) for the most accurate reproduction.*
 
 # Tasty Review
 
