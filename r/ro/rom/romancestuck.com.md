@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the romancestuck.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101140033id_/http%3A//www.romancestuck.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the romancestuck.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510085755id_/http%3A//www.romancestuck.com/privacy.htm) for the most accurate reproduction.*
 
 # RomanceStuck Privacy Policy
 
@@ -28,10 +28,10 @@ For specific privacy policies for other **RomanceStuck** services offered via ot
 
 If you have any questions, about this privacy statement, our online practices, or your dealings with our web sites, you can contact: [webmaster@romancestuck.com](http://www.romancestuck.com/contactus.php)
 
-Subscribe & Share:
+ 
 
-|  |  |  [](http://www.romancestuck.com/phpBB/) |  [](http://www.romancestuck.com/submit-ideas.htm) |  [ ](http://www.stumbleupon.com/submit?url=http://www.romancestuck.com/privacy.htm&title=Free%20Custommized%20Printable%20Heart%20Puzzles)[](http://twitter.com/home/?status=Reading%20a%20great%20post%20on%20http://www.romancestuck.com/privacy.htm) |  [](http://www.facebook.com/sharer.php?u=http://www.romancestuck.com/privacy.htm&t=RomanceStuck%20Privacy%20Policy) |  [](http://del.icio.us/post?url=http://www.romancestuck.com/privacy.htm&title=RomanceStuck%20Privacy%20Policy) |  [](http://www.furl.net/storeIt.jsp?u=http://www.romancestuck.com/privacy.htm&t=RomanceStuck%20Privacy%20Policy) |  [](http://reddit.com/submit?url=http://www.romancestuck.com/privacy.htm&title=RomanceStuck%20Privacy%20Policy) |  [](http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http://www.romancestuck.com/privacy.htm&=RomanceStuck%20Privacy%20Policy) |  [](http://www.google.com/bookmarks/mark?op=edit&bkmk=http://www.romancestuck.com/privacy.htm&title=RomanceStuck%20Privacy%20Policy) |  [](http://feeds2.feedburner.com/RomancestuckcomFeaturedContent "Subscribe to my feed")  
----|---|---|---|---|---|---|---|---|---|---|---|---  
   
+
+
 To link to this page, copy the following code to your site:  
 
