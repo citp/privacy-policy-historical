@@ -1,53 +1,40 @@
-> *The following text is extracted and transformed from the paperlesspipeline.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230060331id_/http%3A//www.paperlesspipeline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paperlesspipeline.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510190706id_/http%3A//www.paperlesspipeline.com/privacy-policy) for the most accurate reproduction.*
 
-# We're serious about privacy | PaperlessPipeline
+# We're serious about privacy | Paperless Pipeline
 
-We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:
+Information Collection
 
-  * It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or as otherwise required by law.
-  * We transfer information about you if Paperless Pipeline is acquired by or merged with another company. In this event, Paperless Pipeline will notify you before information about you is transferred and becomes subject to a different privacy policy.
+When you register for Paperless Pipeline, we ask for information such as your name, company name, email address, billing address, and credit card information. If you sign up for the free account, you are not required to enter a credit card.
 
+Paperless Pipeline uses this collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.
 
+Information Sharing
 
-Information Gathering and Usage
+Your information will never be shared with or sold to other organizations for commercial purposes, except to provide products or services, when we have explicit permission, or under the following circumstances:
 
-  * When you register for Paperless Pipeline we ask for information such as your name, company name, email address, billing address, credit card information. Members who sign up for the free account are not required to enter a credit card.
-  * Paperless Pipeline uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.
-
-
-
-Cookies
-
-  * A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive.
-  * Cookies are required to use the Paperless Pipeline service.
-  * We use cookies to record current session information. You are required to log-in to your Paperless Pipeline account after a certain period of time has elapsed to protect you against others accidentally accessing your account contents.
+  * If it becomes necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or as otherwise required by law.
+  * If Paperless Pipeline is acquired by or merged with another company. In this event, we will notify you before information is transferred and becomes subject to a different privacy policy.
 
 
 
 Data Storage
 
-  * Paperless Pipeline uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run Paperless Pipeline. Although Paperless Pipeline owns the code, databases, and all rights to the Paperless Pipeline application, you retain all rights to your data.
+Paperless Pipeline uses third-party vendors and partners to provide the necessary hardware, software, networking, storage, and related technology required to run our service. Although Paperless Pipeline owns the code, databases, and all rights to the Paperless Pipeline application, you retain all rights to your data.
 
+Cookies
 
+A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a website's computer and stored on your computer's hard drive. Cookies are required to use Paperless Pipeline.
 
-Disclosure
-
-  * Paperless Pipeline may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when required by law.
-
-
+We use cookies to record current session information. You are required to sign in to your Paperless Pipeline account after a certain period of time has elapsed to protect you against others accidentally accessing your account contents.
 
 Changes
 
-  * Paperless Pipeline may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Paperless Pipeline primary account holder account or by placing a prominent notice on our site.
-
-
+Paperless Pipeline may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Paperless Pipeline primary account holder account or by placing a prominent notice on our site.
 
 Questions
 
-  * If you have questions about this Privacy Policy, please [contact us](http://www.paperlesspipeline.com/contact)
-
-
+Any questions about this Privacy Policy should be addressed to [help@paperlesspipeline.com](mailto:help@paperlesspipeline.com).
 
 100% free. No credit card required. Sign up in seconds.
 
-[Go Back to the PaperlessPipeline Homepage](http://www.paperlesspipeline.com/ "Go Back to the PaperlessPipeline Homepage")
+[Go Back to the Paperless Pipeline Homepage](http://www.paperlesspipeline.com/ "Go Back to the Paperless Pipeline Homepage")
