@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the euttaranchal.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206110205id_/http%3A//www.euttaranchal.com/about_us/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the euttaranchal.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510090119id_/http%3A//www.euttaranchal.com/about_us/privacy.php) for the most accurate reproduction.*
 
 # eUttaranchal - Privacy Policy
 
@@ -14,9 +14,10 @@
 Information Sharing and Disclosure
 
   * eUttaranchal does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
-    * We provide the information to trusted partners who work on behalf of or with eUttaranchal under confidentiality agreements. These companies may use your personal information to help eUttaranchal communicate with you about offers from eUttaranchal and our marketing partners. However, these companies do not have any independent right to share this information. 
+    * We provide the information to trusted partners who work on behalf of or with eUttaranchal under confidentiality agreements. These companies may use your personal information to help eUttaranchal communicate with you about offers from eUttaranchal and our marketing partners. However, these companies do not have any independent right to share this information with any third party. 
+    * eUttaranchal had partnered with trusted agents and parties for various services. Your personal details may be shared with our trusted partners who may contact you to provide products or services you've requested at eUttaranchal. 
     * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of eUttaranchal’s terms of use, or as otherwise required by law. 
-    * We transfer information about you if eUttaranchal is acquired by or merged with another company. In this event, Yahoo! will notify you before information about you is transferred and becomes subject to a different privacy policy.
+    * We transfer information about you if eUttaranchal is acquired by or merged with another company. In this event, eUttaranchal! will notify you before information about you is transferred and becomes subject to a different privacy policy.
   * eUttaranchal displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria.
   * eUttaranchal does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
 
@@ -24,7 +25,7 @@ Information Sharing and Disclosure
 
 Cookies
 
-  * eUttaranchal may set and access eUttaranchal cookies on your computer. 
+  * eUttaranchal may set and access cookies on your computer. 
   * eUttaranchal lets other companies/advertisers that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to eUttaranchal's cookies. 
 
 
