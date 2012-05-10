@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cookstr.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209013451id_/http%3A//www.cookstr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookstr.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510033424id_/http%3A//www.cookstr.com/privacy) for the most accurate reproduction.*
 
 # Cookstr
 
@@ -71,14 +71,7 @@ Your choice to limit marketing offers from third parties will apply for at least
 
 If you have already made a choice to limit marketing offers from third parties, you do not need to act again until you receive the renewal notice.
 
-In order to OPT OUT for any of these purposes, use any of the methods listed below.
-
-  * Login to cookstr.com and modify your profile (registered visitors only)
-  * Email us: privacy@cookstr.com
-  * Phone:
-  * Fax:
-
-
+In order to OPT OUT for any of these purposes, email us at [privacy@cookstr.com](mailto:privacy@cookstr.com). 
 
 ## Access to, Updating or Deleting Collected Information
 
