@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novatech.co.uk privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117031714id_/http%3A//novatech.co.uk/privacyandsecurity.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novatech.co.uk privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510222340id_/http%3A//www.novatech.co.uk/privacyandsecurity.html) for the most accurate reproduction.*
 
 # Privacy and Security - novatech.co.uk
 
