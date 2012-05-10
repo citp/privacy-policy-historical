@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dayscoupons.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011044951id_/http%3A//dayscoupons.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dayscoupons.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510215357id_/http%3A//dayscoupons.com/privacy) for the most accurate reproduction.*
 
 # privacy | 365 Days Coupons-Promo Codes
 
