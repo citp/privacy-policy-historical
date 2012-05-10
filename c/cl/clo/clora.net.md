@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clora.net privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201223026id_/http%3A//www.clora.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clora.net privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510161943id_/http%3A//www.clora.net/privacy.php) for the most accurate reproduction.*
 
 # Clora Business Directory
 
@@ -46,9 +46,7 @@ Our website may contain links to other websites of interest. However, once you h
 **Controlling your personal information**
 
 You may choose to restrict the collection or use of your personal information in the following ways:  
-
-
-* If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us.
+If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us. 
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.   
 
