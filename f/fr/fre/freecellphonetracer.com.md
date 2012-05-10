@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freecellphonetracer.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124205530id_/http%3A//www.freephonetracer.com/%3F_act%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecellphonetracer.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510054350id_/http%3A//www.freephonetracer.com/%3F_act%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Phone Tracer
 
@@ -45,7 +45,7 @@ We do not rent, sell, or share personal information about you with other people 
   * You can edit your Account Information within our members’ area by clicking "My Account" and then "Make Changes".
   * To exclude yourself from commercial emails and alerts sent by us, simply click the "Unsubscribe" link provided in any commercial email message.
   * We reserve the right to send you certain communications relating to our service, such as service announcements, administrative messages and customer receipts without offering you the opportunity to opt-out of receiving them.
-  * • We make opting-out of our database fast, easy, and free. We believe that consumers should have the right to opt-out of any database that stores their personal information. While other companies might make the opt-out process unnecessarily difficult, we keep it simple. Just visit the [Opt-Out Request](https://web.archive.org/web/20111124205530id_/http%3A//www.freephonetracer.com/FCPT.aspx?_act=Optout) page and submit the requested information. Please allow 1 to 7 business days for processing your request.
+  * • We make opting-out of our database fast, easy, and free. We believe that consumers should have the right to opt-out of any database that stores their personal information. While other companies might make the opt-out process unnecessarily difficult, we keep it simple. Just visit the [Opt-Out Request](https://web.archive.org/web/20120510054350id_/http%3A//www.freephonetracer.com/FCPT.aspx?_act=Optout) page and submit the requested information. Please allow 1 to 7 business days for processing your request.
 
 
 
@@ -62,4 +62,8 @@ We may update this policy. We will notify you about significant changes in the w
 
 **How You Can Contact Us about Privacy Questions**
 
-If you have questions or concerns regarding this policy, you should contact us at privacy@FreePhoneTracer.com or by writing to us at FreePhoneTracer.com, Attn: Privacy Department, P.O. Box 391146, Omaha, NE 68139. FreePhoneTracer.com maintains offices at 101 University Avenue # 320, Palo Alto, CA.
+If you have questions or concerns regarding this policy, you can contact us by emailing [privacy@freephonetracer.com](mailto:privacy@freephonetracer.com), calling 888-881-7773 or writing to us at freephonetracer.com, Attn: Privacy Department, P.O. Box 391146, Omaha, NE 68139. freephonetracer.com maintains offices at 555 Twin Dolphin Drive #200, Redwood City, CA 94065.
+
+**To Unsubscribe from Email Communications**
+
+If you would like to stop receiving newsletters and marketing message emails from freephonetracer.com, please provide us with the email address you would like to unsubscribe by emailing [privacy@freephonetracer.com](mailto:privacy@freephonetracer.com) or calling 888-881-7773. Please note that you may still receive account and billing notices from us, if applicable.
