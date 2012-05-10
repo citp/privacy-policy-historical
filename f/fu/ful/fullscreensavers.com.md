@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fullscreensavers.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106213347id_/http%3A//www.fullscreensavers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullscreensavers.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510194734id_/http%3A//www.fullscreensavers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FullScreensavers.com
 
@@ -31,4 +31,5 @@ Our site contains links to other sites. We are not responsible for the privacy p
 Your Choices You may unsubscribe from our e-mail list. You may direct us not to share your e-mail with our partners for offers of their products and services. You may also turn off cookies in your browser. 
 
 **Contact Information**   
-We welcomes your comments regarding this Privacy Statement. If you have questions about this Statement or believe that we have not adhered to it, please please e-mail us using our contact webpage. By using this site, you signify your assent to the FullScreensavers.com Online Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. We reserve the right to make changes to this Privacy Policy. Please check back from time to time to ensure that you are aware of these changes. Your continued use of this site will signify your acceptance of these changes. 
+We welcomes your comments regarding this Privacy Statement. If you have questions about this Statement or believe that we have not adhered to it, please please e-mail us using our contact webpage. By using this site, you signify your assent to the FullScreensavers.com Online Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. We reserve the right to make changes to this Privacy Policy. Please check back from time to time to ensure that you are aware of these changes. Your continued use of this site will signify your acceptance of these changes.   
+You can contact us at 
