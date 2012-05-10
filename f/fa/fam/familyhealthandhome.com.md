@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familyhealthandhome.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115082649id_/http%3A//familyhealthandhome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familyhealthandhome.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510040448id_/http%3A//familyhealthandhome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Family Health and Home
 
@@ -23,4 +23,4 @@ This Web site contains links to other sites. Please be aware that I am not respo
 I use outside ad companies to display ads on my site. These ads may contain cookies and are collected by the ad companies, and I do not have access to these information. Please check their website for respective privacy policy.
 
 **Contact Information**  
-If you have any questions or suggestions regarding the privacy policy of my website, http://familyhealthandhome.com, please contact me through the contact form on this website, and address it to me, [Basti](http://familyhealthandhome.com/2008/11/basti/ "Basti") Dizon, with “Privacy Policy” on the subject.
+If you have any questions or suggestions regarding the privacy policy of my website, http://familyhealthandhome.com, please contact me through the contact form on this website, and address it to me, Basti Dizon, with “Privacy Policy” on the subject.
