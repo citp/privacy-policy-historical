@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dnsimple.com privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012221553id_/https%3A//dnsimple.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnsimple.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510174407id_/https%3A//dnsimple.com/privacy) for the most accurate reproduction.*
 
 # DNSimple - Privacy Policy
 
@@ -18,3 +18,5 @@ The information collected is for statistical purposes. DNSimple.com may use soft
 For site security purposes and to ensure that this service remains available to all users, DNSimple.com uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
 DNSimple.com will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
+
+June 25, 2011
