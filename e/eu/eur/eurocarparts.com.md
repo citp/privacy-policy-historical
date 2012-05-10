@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurocarparts.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206155614id_/http%3A//www.eurocarparts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurocarparts.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510181845id_/http%3A//www.eurocarparts.com/privacy-policy) for the most accurate reproduction.*
 
 # Euro Car Parts Privacy Policy| Car Parts | Car Accessories | Car Tools
 
@@ -59,3 +59,6 @@ For the purpose of the Data Protection Act 1998 (the Act), the data controller i
     1. 9.1 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Euro Car Parts Limited of Euro House, Fulton Road, Wembley Industrial Estate, Wembley, Middlesex, HA9 0TF.
 
 
+
+Euro Car Parts are proud to receive:  
+4.4 (*****) rating based on 90 reviews, ratings and recommendations from our customers on pricing, value, quality and service for our car parts purchased online.
