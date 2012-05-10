@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the billguard.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207001630id_/http%3A//www.billguard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billguard.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510215424id_/https%3A//www.billguard.com/privacy) for the most accurate reproduction.*
 
-# BillGuard™ | Free protection for your credit cards and debit cards | Privacy & Security Policy
+# BillGuard® | Free protection for your credit cards and debit cards | Privacy & Security Policy
 
-Hi there. We realize legal documents like these are mostly never read but since you cared enough to click over, we want to take the opportunity to thank you and to tell you that your privacy and security are our top priorities at BillGuard. No, really. We're in the business of protecting you and that all starts with ensuring that your [financial data is safe.](https://web.archive.org/web/20111207001630id_/http%3A//www.billguard.com/secure) We do not sell your personal information to any third party, for any reason. 
+##  Privacy & Security Policy 
+
+Hi there. We realize legal documents like these are mostly never read but since you cared enough to click over, we want to take the opportunity to thank you and to tell you that your privacy and security are our top priorities at BillGuard. No, really. We're in the business of protecting you and that all starts with ensuring that your [financial data is safe.](https://web.archive.org/web/20120510215424id_/https%3A//www.billguard.com/secure) We do not sell your personal information to any third party, for any reason. 
 
 We also go out of our way to request only the minimal information needed in order to notify you when BillGuard finds questionable charges on your accounts. The text below explains how we use the information you provide us in as clear terms as possible but if anything is confusing or you'd just like to chat about it, please feel free to email me personally at yaron@billguard.com. I look forward to your email and thank you for the opportunity to earn your trust. We truly are safer together.
 
@@ -36,17 +38,17 @@ Your privacy is our priority. We will not sell, trade or lease your personally i
 
   * to enable you to use the Website and its services;
   * to improve and customize your experience on the Website;
-  * to retrieve your credit card statements and information regarding your transactions as agreed by you.
-  * to provide you with support, handle complaints and collect fees and to conduct administrative activities necessary to maintain the Website and provide our services;
-  * to send you Website and service related updates, notices and announcements;
-  * to provide you with information related to the Website and its services;
+  * to retrieve your credit card statements and information regarding your transactions as agreed by you. 
+  * to provide you with support, handle complaints and collect fees and to conduct administrative activities necessary to maintain the Website and provide our services; 
+  * to send you Website and service related updates, notices and announcements; 
+  * to provide you with information related to the Website and its services; 
   * to conduct surveys and questionnaires;
   * to enforce BillGuard's Terms of Use;
-  * to contact you regarding service and administration related issues as and when BillGuard believes it to be necessary;
-  * to comply with any applicable law and assist law enforcement agencies under any applicable law, when BillGuard has good faith to believe that BillGuard's cooperation with the law enforcement agencies is legally mandated or meets the applicable legal standards;
-  * to prevent fraud, misappropriation, infringements, identity theft and other illegal activities and misuse of the Website and/or its services;
-  * to take any action in any case of dispute, or legal proceeding of any kind between you and BillGuard, or between you and any other third parties or users with respect to, or in relation with the Website and its services;
-  * to provide Yodlee with your login details in order to allow them to retrieve the information as further described here above.
+  * to contact you regarding service and administration related issues as and when BillGuard believes it to be necessary; 
+  * to comply with any applicable law and assist law enforcement agencies under any applicable law, when BillGuard has good faith to believe that BillGuard's cooperation with the law enforcement agencies is legally mandated or meets the applicable legal standards; 
+  * to prevent fraud, misappropriation, infringements, identity theft and other illegal activities and misuse of the Website and/or its services; 
+  * to take any action in any case of dispute, or legal proceeding of any kind between you and BillGuard, or between you and any other third parties or users with respect to, or in relation with the Website and its services; 
+  * to provide Yodlee with your login details in order to allow them to retrieve the information as further described here above. 
 
 
 
@@ -60,15 +62,15 @@ We do not sell, rent or lease your personally identifiable information to third 
 
 We may share personally identifiable information with others in any of the following instances, or subject to your explicit consent: 
 
-  * To operate the Website and its services and to enable you to use them; We will share your personally identifiable information with third parties to the extent required to operate the Website and our services and to facilitate your use of them. Thus for example, We will provide Yodlee with your login details in order for them to retrieve the necessary information;
-  * We may share your information with third parties for analysis purposes in the hopes of better improving our services;
-  * If we reasonably believe that you have breached BillGuard's Terms of Use, or abused your rights to use the Website, or performed any act or omission that we reasonably believe to be violating any applicable laws, rules, or regulations. We may share your information in these cases, with law enforcement and other competent authorities and with any third party, as may be required to handle any result of your wrongdoing;
+  * To operate the Website and its services and to enable you to use them; We will share your personally identifiable information with third parties to the extent required to operate the Website and our services and to facilitate your use of them. Thus for example, We will provide Yodlee with your login details in order for them to retrieve the necessary information; 
+  * We may share your information with third parties for analysis purposes in the hopes of better improving our services; 
+  * If we reasonably believe that you have breached BillGuard's Terms of Use, or abused your rights to use the Website, or performed any act or omission that we reasonably believe to be violating any applicable laws, rules, or regulations. We may share your information in these cases, with law enforcement and other competent authorities and with any third party, as may be required to handle any result of your wrongdoing; 
   * If we are required, or reasonably believe to be required by law to share or disclose your information; 
-  * In any case of dispute, or legal proceeding of any kind between you and us or between you and any other third parties and/or users with respect to, or in relation with the Website and its services;
-  * In any case where we reasonably believe that sharing information is necessary to prevent imminent physical damage or damage to property;
-  * If we organize the operation of the Website or our services within a different framework, or through another legal structure or entity, or if we are acquired by, or merged into or with another entity, provided however, that those entities agree to be bound by the provisions of this policy, with respective changes taken into consideration;
-  * We may also share personally identifiable information with companies or organizations connected, or affiliated with us and/or the Website, such as subsidiaries, sister-companies, parent companies, service providers and other partners, with the express provision that their use of such information must comply with this policy, in order to improve and provide the Website's services.
-  * We may also store and/or back up your comments (as defined on our services) through third party storage providers.
+  * In any case of dispute, or legal proceeding of any kind between you and us or between you and any other third parties and/or users with respect to, or in relation with the Website and its services; 
+  * In any case where we reasonably believe that sharing information is necessary to prevent imminent physical damage or damage to property; 
+  * If we organize the operation of the Website or our services within a different framework, or through another legal structure or entity, or if we are acquired by, or merged into or with another entity, provided however, that those entities agree to be bound by the provisions of this policy, with respective changes taken into consideration; 
+  * We may also share personally identifiable information with companies or organizations connected, or affiliated with us and/or the Website, such as subsidiaries, sister-companies, parent companies, service providers and other partners, with the express provision that their use of such information must comply with this policy, in order to improve and provide the Website's services. 
+  * We may also store and/or back up your comments (as defined on our services) through third party storage providers. 
 
 
 
