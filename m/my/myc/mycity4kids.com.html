@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mycity4kids.com privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101152027id_/http%3A//www.mycity4kids.com/Delhi-NCR/home/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mycity4kids.com privacy policy that was archived on 2012-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120510122832id_/http%3A//www.mycity4kids.com/Delhi-NCR/home/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>PRIVACY POLICY - MyCity4Kids.com</title>
@@ -15,13 +15,13 @@ R1XSMt2Iw">
 	var facebookApId = "110709795656913";
 	var path='http://www.mycity4kids.com/Delhi-NCR';
 	var WebPath="http://www.mycity4kids.com/Delhi-NCR";
-	var imgpath="http://www.mycity4kids.com/img";
-	var pathcommon="http://www.mycity4kids.com";
-	var businessimgpath="http://www.mycity4kids.com/businessimages"; 
+	var imgpath="/img";
+	var pathcommon="";
+	var businessimgpath="/business_images"; 
 	var UserSessionId ="";
 	var checkFacebooksession="";
 </script> 
-<script type="text/javascript" src="http://www.mycity4kids.com/js/ajax/yahoo-min.js"></script>
+
 <style type="text/css">
 .autocomplete-w1 { position:absolute; top:0px; left:0px; margin:8px 0 0 6px; /* IE6 fix: */ _background:none; _margin:0; }
 .autocomplete { border:1px solid #999; background:#FFF; cursor:pointer; text-align:left; max-height:350px; overflow:auto; margin:-6px 6px 6px -6px; /* IE6 specific: */ _height:350px;  _margin:0; _overflow-x:hidden; }
@@ -31,28 +31,18 @@ R1XSMt2Iw">
 </style>
 
 
-	<link rel="stylesheet" type="text/css" href="/css/style.css">
-	<link rel="stylesheet" type="text/css" href="/css/content.css">
-	<link rel="stylesheet" type="text/css" href="/css/nav.css">
-	<link rel="stylesheet" type="text/css" href="/css/overlay.css">
-	<link rel="stylesheet" type="text/css" href="/css/newpopup.css">
-	<link rel="stylesheet" type="text/css" href="/css/popup.css">
-	<link rel="stylesheet" type="text/css" href="/css/facebox.css">
+	<link rel="stylesheet" type="text/css" href="/css/mainmcity.css">
  
 
-	<script type="text/javascript" src="/js/formvalidation.js"></script>
 	<script type="text/javascript" src="/js/common.js"></script>
-	<script type="text/javascript" src="/js/errormessage.js"></script>
-	<script type="text/javascript" src="/js/jquery-popup.js"></script>
-	<script type="text/javascript" src="/js/popup.js"></script>
 	<script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
 	<script type="text/javascript" src="/js/menu.js"></script>
 	<script type="text/javascript" src="/js/jquery.autocomplete.js"></script>
 	<script type="text/javascript" src="/js/facebox.js"></script>
  
-<script type="text/javascript" src="/js/CalendarControl.js"></script></head><body><iframe id="CalendarControlIFrame" src="javascript:false;" style="display:none" frameborder="0" scrolling="no"></iframe><div id="CalendarControl"></div> 
+
 <!--[if IE 9]>
-		<link href="http://www.mycity4kids.com/css/ie9.css" rel="stylesheet" type="text/css" media="all" />
+		<link href="/css/ie9.css" rel="stylesheet" type="text/css" media="all" />
 	<![endif]-->
 <script type="text/javascript">
 
@@ -67,32 +57,49 @@ R1XSMt2Iw">
   })();
 
 </script>
-
- 
+</head>
+<body> 
 <div id="user_message"></div>
 <div id="wrapper">
-		 <div id="fb-root"></div>
-<script src="http://connect.facebook.net/en_US/all.js" type="text/javascript"></script>
+		  
+ 
+ <div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
 <script type="text/javascript">
-  FB.init({appId: '110709795656913', status: true, cookie: true, xfbml: true});
+window.fbAsyncInit = function() {
+  FB.init({appId: '110709795656913',  status: true,cookie: true, xfbml: true, oauth: true}); 
+};  
 	          function fbLogin(){
-	        	  var pagetype;
+				
+				  var pagetype;
 				  if(document.getElementById('chkreviewadd'))
 				  {
 				  pagetype=document.getElementById('chkreviewadd').value;
-				  }	
-				  FB.login(function(response) {
-	        		  if (response.session) {
-	        			  window.location = path+"/users/getfacebookcoonnect/"+pagetype;
-	        		  }
-	        		}, {perms:'email,user_location,read_stream,publish_stream,offline_access'});
+				  }			 
+	        	  FB.login(function(response) {
+	        		  if (response.authResponse) {
+					  
+					  	   var accessTokenVal = response.authResponse.accessToken;
+						   document.getElementById('accessTokenFacebook').value = accessTokenVal;
+						   document.getElementById('getbackUrl').value = document.location;
+						   document.getElementById('pagetype').value = pagetype;
+						   document.facebookLoginForm.submit();
+					  }
+	        		}, {scope:'email'});
 	          }
 
+
+(function() {
+  var e = document.createElement('script'); e.async = true;
+  e.src = document.location.protocol 
+    + '//connect.facebook.net/en_US/all.js';
+  document.getElementById('fb-root').appendChild(e);
+}());
 var searchLocality = '';
 </script>
-<script type="text/javascript" src="/js/header.js"></script><div class="black_overlay_header" id="fadesid"></div>
-<div class="white_content_header" id="lightsid" style="display:none;"> <img src="http://www.mycity4kids.com/img/loading-1.gif" style="height:70px;" alt=""> </div>
-<div id="popupContact" style="display:none;"> <a id="popupContactClose"><img src="http://www.mycity4kids.com/img/close_btn.gif" title="Close" width="19" height="19" alt=""></a>
+
+<div class="black_overlay_header" id="fadesid"></div>
+<div class="white_content_header" id="lightsid" style="display:none;"> <img src="/img/loading-1.gif" width="70" height="70" alt="loading"> </div>
+<div id="popupContact" style="display:none;"> <a id="popupContactClose" class="close-icon"></a>
   <div id="popInner"></div>
 </div>
 <div id="backgroundPopup"></div>
@@ -120,19 +127,20 @@ var searchLocality = '';
                     		
                         </div>
                         <div class="fright">
-						                        	<a href="javascript:void(0)" onclick="JavaScript:fbLogin();return true;"><img height="27" width="103" alt="Facebook" src="http://www.mycity4kids.com/img/facebook_connect.png"></a>
+						                        	<a href="javascript:void(0)" onclick="JavaScript:fbLogin();return true;"><span class="facebook-cont"></span>
+							</a>
                         						</div>
                         <div class="clr"></div>
                     </div>
                     <div class="clr"></div>
             	</div>
-				<form name="mainhead" id="mainhead" method="post" action="http://www.mycity4kids.com/Delhi-NCR/search/index">
+				<form name="mainhead" id="mainhead" method="post" action="http://www.mycity4kids.com/Delhi-NCR/search/index/" onsubmit="return searchFormMainHeaderValue()">
                 <div>
-                	<!--/*<img src="http://www.mycity4kids.com/img/blue_left.png" alt="LeftBar" width="10"  class="fleft" />*/-->
+                	<!--/*<img src="/img/blue_left.png" alt="LeftBar" width="10"  class="fleft" />*/-->
                 	<div class="blueMid">
                     	<div class="headerSearchBorderBox">
                     	<div class="blueMidTxtBox1 fleft">
-                            <input type="text" class="ac_loading" id="for" value="What are you looking for?" name="for" onfocus="if(this.value==&quot;What are you looking for?&quot;){this.value=&quot;&quot;;}" style="display: block;">
+                            <input type="text" class="ac_loading" id="for" value="What are you looking for?" name="for" onfocus="if(this.value==&quot;What are you looking for?&quot;){this.value=&quot;&quot;;}">
 							<span class="light-grey">(e.g. Playschool, XYZ Hobby Class  )</span>
                             <div class="clr"></div>
                         </div>
@@ -151,7 +159,7 @@ var searchLocality = '';
                 </div>
 				</form>
         	</div>
-             <a href="http://www.mycity4kids.com/Delhi-NCR" title="Welcome to mycity4kids"><img class="marginTB25" src="http://www.mycity4kids.com/img/logo.jpg" alt="logo"></a>
+             <a href="http://www.mycity4kids.com/Delhi-NCR" title="Welcome to mycity4kids"><img class="marginTB25" src="/img/logo.jpg" alt="Welcome to mycity4kids" title="Welcome to mycity4kids" height="85" width="258"></a>
             <div class="clr"></div>
         </div>
  
@@ -164,8 +172,9 @@ var searchLocality = '';
 	
 </div>
 
-<div class="white_content" id="loginwindow" style="display:none;height:280px;width:400px;"> <div style="float:right; margin-top: -25px; margin-right: -35px; z-index:3;"><a onclick="document.getElementById('loginwindow').style.display='none';document.getElementById('fade').style.display='none';"><img src="http://www.mycity4kids.com/img/light_close.png" alt="close me" title="close me"></a></div>
-<div id="popup-wrap" style="padding:10px; width:400px;">
+<div class="white_content" id="loginwindow" style="display:none;height:290px;width:450px;"> 
+<div style="float:right; margin-top: -25px; margin-right: -35px; z-index:3;" id="loginpopupdiv"><a onclick="document.getElementById('loginwindow').style.display='none';document.getElementById('fade').style.display='none';" class="close-icon"></a></div>
+<div id="popup-wrap" style="padding:10px; width:450px;">
 	<h2 class="requestTitle">Login</h2>
     <h6 id="loginpopupId">Please login or sign-up to share your favourites</h6>
 	<b><span id="loginwidowErrr" class="message_error"></span></b>
@@ -194,11 +203,14 @@ var searchLocality = '';
                     </div>
                     
                    <div>
-                   <input type="button" value="" class="Submit-new" onclick="loginWindowSubmit()">				   <input type="button" value="" name="signup" onclick="openSignup();" class="signup-bttn button" id="sgnbtn">
-				   <a href="javascript:void(0)" onclick="JavaScript:fbLogin();return true;"><img height="17" width="91" alt="Facebook" src="http://www.mycity4kids.com/img/fbconnect-thin.gif" style="margin-top:2px;">	</a>
+                   <input type="button" value="" class="Submit-new" onclick="loginWindowSubmit()">				  <span id="sign_up_btn"> <input type="button" value="" name="signup" onclick="openSignup();" class="signup-bttn button" id="sgnbtn"></span>
+
+				   <a class="login-icons facebook-icon facebook-login" href="javascript:void(0)" onclick="JavaScript:fbLogin();return true;">
+				   Login <span>with Facebook</span>
+				   	</a>
 				 
 				    </div>
-                   
+                    &nbsp;&nbsp;<label class="lognForgotText1"><a href="/Delhi-NCR/users/forgotpwd" style="color:#666666;">Forgot Password?</a></label>  
               	</div>
 				<input type="hidden" id="chkreviewadd" name="chkreviewadd" value="">
          </form>
@@ -211,8 +223,10 @@ var searchLocality = '';
     	</div>
     </div>
 </div> </div>
-<div id="feebackIn" style="display:none">
-  <form name="feedback" id="feedback" method="post" action="/home/add"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST"></fieldset><div class="signInColumn">
+<a href="javascript:feedBackWindow();" class="buttonText"><span class="feed-back feedback_btn"></span></a>
+<!--<img src="/img/call_top-right.png" alt="Get in touch" title="Get in touch" class="call-center_top_right_btn1" />-->
+<!--<div id='feebackIn' style="display:none">
+  <form name="feedback" id="feedback" method="post" action="/home/add"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST" /></fieldset><div class="signInColumn">
   <div class="signIn_Content">
     <h1 class="subject_title"> Feedback </h1>
 	 <p class="poputextbox">
@@ -220,10 +234,10 @@ var searchLocality = '';
 	 </p> 
     <p class="poputextbox">
       <label class="labeltxt">Full name</label>
-      <input name="data[Feedback][fname]" type="text" class="textboxPopup" id="feedbackfname" maxlength="250" value="">	   </p>
+      <input name="data[Feedback][fname]" type="text" class="textboxPopup" id="feedbackfname" maxlength="250" value="" />	   </p>
     <p class="poputextbox">
       <label class="labeltxt">Email</label>
-      <input name="data[Feedback][email]" type="text" class="textboxPopup" id="feedbackemail" maxlength="250" value="">	   </p>
+      <input name="data[Feedback][email]" type="text" class="textboxPopup" id="feedbackemail" maxlength="250" value="" />	   </p>
      <p class="poputextbox">
       <label class="labeltxt">City</label>
      <select name="data[Feedback][mcity_id]" class="textboxPopup" id="FeedbackMcityId">
@@ -233,18 +247,21 @@ var searchLocality = '';
 </select>	   </p>
 	<p class="poputextbox">
       <label class="labeltxt">Comments</label>
-      <textarea name="data[Feedback][comment]" class="textboxPopup" rows="3" cols="24" id="feedbackcomment"></textarea>	   </p>
-    <p class="poputextbox"> <input type="button" value="" class="NewsSubmitBtn" onclick="sendFeedBack('/home/sendfeedback')">	 </p>
+      <textarea name="data[Feedback][comment]" class="textboxPopup" rows="3" cols="24" id="feedbackcomment" ></textarea>	   </p>
+    <p class="poputextbox"> <input type="button" value="" class="NewsSubmitBtn" onclick="sendFeedBack(&#039;/home/sendfeedback&#039;)" />	 </p>
   </div>
   
 </div>
-</form> </div>
-<div id="htabs">
+</form> </div>-->
+<div class="htabs">
         	<ul>
 				<li><a href="http://www.mycity4kids.com/Delhi-NCR" title="Home" id="current">Home</a></li>
-		   											<li>
+		   							
+								
+								<li>
 					
-					<a href="http://www.mycity4kids.com/Delhi-NCR/Play-School_bl" class="menu" title="Play School">Play School</a>
+					<a href="http://www.mycity4kids.com/Delhi-NCR/Play-School_bl" title="Play School">
+											Play School										</a>
 					
 					<!-- level 1 -->
 			
@@ -271,9 +288,12 @@ var searchLocality = '';
 				</li>
 			
 				
-		 											<li>
+		 							
+								
+								<li>
 					
-					<a href="http://www.mycity4kids.com/Delhi-NCR/Schools_bl" class="menu" title="Schools">Schools</a>
+					<a href="http://www.mycity4kids.com/Delhi-NCR/Schools_bl" title="Schools">
+											Schools										</a>
 					
 					<!-- level 1 -->
 			
@@ -300,9 +320,12 @@ var searchLocality = '';
 				</li>
 			
 				
-		 											<li>
+		 							
+								
+								<li>
 					
-					<a href="http://www.mycity4kids.com/Delhi-NCR/Enhanced-Learning_bl" class="menu" title="Enhanced Learning">Enhanced Learning</a>
+					<a href="http://www.mycity4kids.com/Delhi-NCR/Enhanced-Learning_bl" title="Enhanced Learning">
+											Enhanced Learning										</a>
 					
 					<!-- level 1 -->
 			
@@ -341,9 +364,12 @@ var searchLocality = '';
 				</li>
 			
 				
-		 												<li class="menuRTPos">
+		 							
+								
+									<li class="menuRTPos">
 					
-					<a href="http://www.mycity4kids.com/Delhi-NCR/Birthdays_bl" class="menu" title="Birthdays">Birthdays</a>
+					<a href="http://www.mycity4kids.com/Delhi-NCR/Birthdays_bl" title="Birthdays">
+											Birthdays										</a>
 					
 					<!-- level 1 -->
 			
@@ -384,9 +410,12 @@ var searchLocality = '';
 				</li>
 			
 				
-		 												<li class="menuRTPos">
+		 							
+								
+									<li class="menuRTPos">
 					
-					<a href="http://www.mycity4kids.com/Delhi-NCR/Hobbies_bl" class="menu" title="Hobbies">Hobbies</a>
+					<a href="http://www.mycity4kids.com/Delhi-NCR/Hobbies_bl" title="Hobbies">
+											Hobbies										</a>
 					
 					<!-- level 1 -->
 			
@@ -433,9 +462,12 @@ var searchLocality = '';
 				</li>
 			
 				
-		 												<li class="menuRTPos">
+		 							
+								
+									<li class="menuRTPos">
 					
-					<a href="http://www.mycity4kids.com/Delhi-NCR/Sports_bl" class="menu" title="Sports">Sports</a>
+					<a href="http://www.mycity4kids.com/Delhi-NCR/Sports_bl" title="Sports">
+											Sports										</a>
 					
 					<!-- level 1 -->
 			
@@ -500,9 +532,13 @@ var searchLocality = '';
 				</li>
 			
 				
-		 												<li class="menuRTPos">
+		 							
+																	
+									<li class="menuRTPos" style="background:none;">
 					
-					<a href="http://www.mycity4kids.com/Delhi-NCR/Events_el" class="menu" title="Events">Events</a>
+					<a href="http://www.mycity4kids.com/Delhi-NCR/Events_el" title="Events">
+											Events &amp; Summer Camps
+										</a>
 					
 					<!-- level 1 -->
 			
@@ -521,10 +557,10 @@ var searchLocality = '';
 						</div>
 						
 																			<div class="menuColRT oneColWidth marginLT marginLT-1 borderLT color2">
-													<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Events_____mostfav_el" title="Most Favourited">Most Favourited</a></div>
-							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Events_____recentfav_el" title="Recently Favourited">Recently Favourited</a></div>
-							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Events_____mostreview_el" title="Most Reviewed">Most Reviewed</a></div>
-							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Events_____recentreview_el" title="Recently Reviewed">Recently Reviewed</a></div>
+													<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Events______mostfav_el" title="Most Favourited">Most Favourited</a></div>
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Events______recentfav_el" title="Recently Favourited">Recently Favourited</a></div>
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Events______mostreview_el" title="Most Reviewed">Most Reviewed</a></div>
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Events______recentreview_el" title="Recently Reviewed">Recently Reviewed</a></div>
 						</div>
 												<div class="clr"></div>
 					</div>
@@ -535,275 +571,250 @@ var searchLocality = '';
 			
 				
 		 	
-		 	
-												<li class="more morePos">
-					<a href="#" class="menu" title="More">
-						<span class="moreCaption">More...</span>
-						<span class="moreArrow"><img src="http://www.mycity4kids.com/img/down-arrw.png" width="10" height="6" alt="more"></span>
-					</a>
+			
+					
+		</ul>
+            <div class="clr"></div>
+        </div>
+		
+		<div class="clr"></div>
+		
+		
+		
+		
+				
+		<div class="htabs" style="border-bottom:1px solid #E4F2FF;background:none;">
+        	<ul>
+		
+		
+		<!--<li class="lowertabmenuli" style="background:none;" ><a style="padding:9px 4px;" href="javascript:void(0);" class="lowertabmenu" title="More Categories">More Categories -</a></li>-->	
+		
+		
+				
+		
+						
+								
+								<li class="lowertabmenuli">
+					
+					
+					
+					
+					<a href="http://www.mycity4kids.com/Delhi-NCR/Day-Care_bl" class="lowertabmenu" title="Day Care">Day Care</a>
 					
 					<!-- level 1 -->
-					<div class="subMenu level1 moreSubMenuWidth1">
-						<div class="menuColRT oneColWidth color1">
-																				<div class="subMenu_Item">
-								<a href="http://www.mycity4kids.com/Delhi-NCR/Day-Care_bl" class="hasChild" title="Day Care">Day Care</a>
-								<!-- level 2 -->
-								<div class="subMenu moreSubMenuWidth2 level2">
-								<div class="menuColLT twoColWidth marginRT alternateMarginRT color1">
-																									
-									
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Day-Care/Day-Care_bl" title="Day Care">Day Care</a></div>
-										
-									
-									
-								</div>	
-									<div class="borderBT">&nbsp;</div>
-									
-									<div class="menuColLT twoColWidth marginRT alternateMarginRT color2">
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Day-Care_____mostfav_bl" title="Most Favourited">Most Favourited</a></div>
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Day-Care_____recentfav_bl" title="Recently Favourited">Recently Favourited</a></div>
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Day-Care_____mostreview_bl" title="Most Reviewed">Most Reviewed</a></div>
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Day-Care_____recentreview_bl" title="Recently Reviewed">Recently Reviewed</a></div>
-									</div>
-									<div class="clr"></div>
-								</div>
-								<!-- /level 2 -->
-							</div>
-																			<div class="subMenu_Item">
-								<a href="http://www.mycity4kids.com/Delhi-NCR/Tuitions_bl" class="hasChild" title="Tuitions">Tuitions</a>
-								<!-- level 2 -->
-								<div class="subMenu moreSubMenuWidth2 level2">
-								<div class="menuColLT twoColWidth marginRT alternateMarginRT color1">
-																									
-									
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Tuitions/All-Subjects_bl" title="All Subjects">All Subjects</a></div>
-										
-									
-																								
-									
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Tuitions/Maths_bl" title="Maths">Maths</a></div>
-										
-									
-																								
-									
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Tuitions/Science_bl" title="Science">Science</a></div>
-										
-									
-									
-								</div>	
-									<div class="borderBT">&nbsp;</div>
-									
-									<div class="menuColLT twoColWidth marginRT alternateMarginRT color2">
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Tuitions_____mostfav_bl" title="Most Favourited">Most Favourited</a></div>
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Tuitions_____recentfav_bl" title="Recently Favourited">Recently Favourited</a></div>
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Tuitions_____mostreview_bl" title="Most Reviewed">Most Reviewed</a></div>
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Tuitions_____recentreview_bl" title="Recently Reviewed">Recently Reviewed</a></div>
-									</div>
-									<div class="clr"></div>
-								</div>
-								<!-- /level 2 -->
-							</div>
-																			<div class="subMenu_Item">
-								<a href="http://www.mycity4kids.com/Delhi-NCR/Fun-Places-To-Go_bl" class="hasChild" title="Fun Places To Go">Fun Places To Go</a>
-								<!-- level 2 -->
-								<div class="subMenu moreSubMenuWidth2 level2">
-								<div class="menuColLT twoColWidth marginRT alternateMarginRT color1">
-																									
-									
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Fun-Places-To-Go/Adventure_bl" title="Adventure">Adventure</a></div>
-										
-									
-																								
-									
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Fun-Places-To-Go/Amusement-Parks_bl" title="Amusement Parks">Amusement Parks</a></div>
-										
-									
-																								
-									
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Fun-Places-To-Go/Kid-Friendly-Holidays_bl" title="Kid Friendly Holidays">Kid Friendly Holidays</a></div>
-										
-									
-																								
-									
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Fun-Places-To-Go/Museums-and-Parks_bl" title="Museums &amp; Parks">Museums &amp; Parks</a></div>
-										
-									
-																								
-									
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Fun-Places-To-Go/Others_bl" title="Others">Others</a></div>
-										
-									
-																								
-									
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Fun-Places-To-Go/Play-Areas_bl" title="Play Areas">Play Areas</a></div>
-										
-									
-																								
-									
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Fun-Places-To-Go/Video-Game-Parlours_bl" title="Video Game Parlours">Video Game Parlours</a></div>
-										
-									
-									
-								</div>	
-									<div class="borderBT">&nbsp;</div>
-									
-									<div class="menuColLT twoColWidth marginRT alternateMarginRT color2">
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Fun-Places-To-Go_____mostfav_bl" title="Most Favourited">Most Favourited</a></div>
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Fun-Places-To-Go_____recentfav_bl" title="Recently Favourited">Recently Favourited</a></div>
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Fun-Places-To-Go_____mostreview_bl" title="Most Reviewed">Most Reviewed</a></div>
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Fun-Places-To-Go_____recentreview_bl" title="Recently Reviewed">Recently Reviewed</a></div>
-									</div>
-									<div class="clr"></div>
-								</div>
-								<!-- /level 2 -->
-							</div>
-																			<div class="subMenu_Item">
-								<a href="http://www.mycity4kids.com/Delhi-NCR/Where-to-Shop_bl" class="hasChild" title="Where to Shop">Where to Shop</a>
-								<!-- level 2 -->
-								<div class="subMenu moreSubMenuWidth2 level2">
-								<div class="menuColLT twoColWidth marginRT alternateMarginRT color1">
-																									
-									
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Where-to-Shop/Apparel-and-Accessories_bl" title="Apparel &amp; Accessories">Apparel &amp; Accessories</a></div>
-										
-									
-																								
-									
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Where-to-Shop/Baby-Shops_bl" title="Baby Shops">Baby Shops</a></div>
-										
-									
-																								
-									
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Where-to-Shop/Bicycles_bl" title="Bicycles">Bicycles</a></div>
-										
-									
-																								
-									
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Where-to-Shop/Book-Library_bl" title="Book Library">Book Library</a></div>
-										
-									
-																								
-									
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Where-to-Shop/Books_bl" title="Books">Books</a></div>
-										
-									
-																								
-									
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Where-to-Shop/Kids-Furniture-and-Furnishings_bl" title="Kids Furniture &amp; Furnishings">Kids Furniture &amp; Furnishings</a></div>
-										
-									
-																								
-									
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Where-to-Shop/Sports-Goods_bl" title="Sports Goods">Sports Goods</a></div>
-										
-									
-																								
-									
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Where-to-Shop/Stationery_bl" title="Stationery">Stationery</a></div>
-										
-									
-																								
-									
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Where-to-Shop/Toy-Library_bl" title="Toy Library">Toy Library</a></div>
-										
-									
-																								
-									
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Where-to-Shop/Toys_bl" title="Toys">Toys</a></div>
-										
-									
-									
-								</div>	
-									<div class="borderBT">&nbsp;</div>
-									
-									<div class="menuColLT twoColWidth marginRT alternateMarginRT color2">
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Where-to-Shop_____mostfav_bl" title="Most Favourited">Most Favourited</a></div>
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Where-to-Shop_____recentfav_bl" title="Recently Favourited">Recently Favourited</a></div>
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Where-to-Shop_____mostreview_bl" title="Most Reviewed">Most Reviewed</a></div>
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Where-to-Shop_____recentreview_bl" title="Recently Reviewed">Recently Reviewed</a></div>
-									</div>
-									<div class="clr"></div>
-								</div>
-								<!-- /level 2 -->
-							</div>
-																			<div class="subMenu_Item">
-								<a href="http://www.mycity4kids.com/Delhi-NCR/Health-and-Wellness_bl" class="hasChild" title="Health &amp; Wellness">Health &amp; Wellness</a>
-								<!-- level 2 -->
-								<div class="subMenu moreSubMenuWidth2 level2">
-								<div class="menuColLT twoColWidth marginRT alternateMarginRT color1">
-																									
-									
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Health-and-Wellness/Dentists_bl" title="Dentists">Dentists</a></div>
-										
-									
-																								
-									
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Health-and-Wellness/Ophthalmologists_bl" title="Ophthalmologists">Ophthalmologists</a></div>
-										
-									
-																								
-									
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Health-and-Wellness/Paediatricians_bl" title="Paediatricians">Paediatricians</a></div>
-										
-									
-																								
-									
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Health-and-Wellness/Pathology-Labs_bl" title="Pathology Labs">Pathology Labs</a></div>
-										
-									
-									
-								</div>	
-									<div class="borderBT">&nbsp;</div>
-									
-									<div class="menuColLT twoColWidth marginRT alternateMarginRT color2">
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Health-and-Wellness_____mostfav_bl" title="Most Favourited">Most Favourited</a></div>
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Health-and-Wellness_____recentfav_bl" title="Recently Favourited">Recently Favourited</a></div>
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Health-and-Wellness_____mostreview_bl" title="Most Reviewed">Most Reviewed</a></div>
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Health-and-Wellness_____recentreview_bl" title="Recently Reviewed">Recently Reviewed</a></div>
-									</div>
-									<div class="clr"></div>
-								</div>
-								<!-- /level 2 -->
-							</div>
-																			<div class="subMenu_Item">
-								<a href="http://www.mycity4kids.com/Delhi-NCR/Child-Financial-Planning_bl" class="hasChild" title="Child Financial Planning">Child Financial Planning</a>
-								<!-- level 2 -->
-								<div class="subMenu moreSubMenuWidth2 level2">
-								<div class="menuColLT twoColWidth marginRT alternateMarginRT color1">
-																									
-									
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Child-Financial-Planning/Child-Insurance-Plans_bl" title="Child Insurance Plans">Child Insurance Plans</a></div>
-										
-									
-									
-								</div>	
-									<div class="borderBT">&nbsp;</div>
-									
-									<div class="menuColLT twoColWidth marginRT alternateMarginRT color2">
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Child-Financial-Planning_____mostfav_bl" title="Most Favourited">Most Favourited</a></div>
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Child-Financial-Planning_____recentfav_bl" title="Recently Favourited">Recently Favourited</a></div>
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Child-Financial-Planning_____mostreview_bl" title="Most Reviewed">Most Reviewed</a></div>
-										<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Child-Financial-Planning_____recentreview_bl" title="Recently Reviewed">Recently Reviewed</a></div>
-									</div>
-									<div class="clr"></div>
-								</div>
-								<!-- /level 2 -->
-							</div>
+			
+					<div class="subMenu level1">
+					 
+										<div class="menuColLT oneColWidth marginRT borderRT color1">
+																				 
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Day-Care/Day-Care_bl" title="Day Care">Day Care</a></div>
 							
 						</div>
-													<div class="menuColRT oneColWidth color1">
-								<a href="http://www.mycity4kids.com/Delhi-NCR/home/viewarticle" class="hasChild" title="Parenting Stop">Parenting Stop</a>
-							</div>				
+						
+						 
+													<div class="menuColRT twoColWidth marginLT marginLT-1 borderLT color2">
+													<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Day-Care_____mostfav_bl" title="Most Favourited">Most Favourited</a></div>
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Day-Care_____recentfav_bl" title="Recently Favourited">Recently Favourited</a></div>
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Day-Care_____mostreview_bl" title="Most Reviewed">Most Reviewed</a></div>
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Day-Care_____recentreview_bl" title="Recently Reviewed">Recently Reviewed</a></div>
+						</div>
 												<div class="clr"></div>
 					</div>
+				
 					<!-- /level 1 -->
 					
 				</li>
 				
-        	</ul>
+		
+						
+								
+								<li class="lowertabmenuli">
+					
+					
+					
+					
+					<a href="http://www.mycity4kids.com/Delhi-NCR/Tuitions_bl" class="lowertabmenu" title="Tuitions">Tuitions</a>
+					
+					<!-- level 1 -->
+			
+					<div class="subMenu level1">
+					 
+										<div class="menuColLT twoColWidth marginRT borderRT color1">
+																				 
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Tuitions/All-Subjects_bl" title="All Subjects">All Subjects</a></div>
+														 
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Tuitions/Maths_bl" title="Maths">Maths</a></div>
+														 
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Tuitions/Science_bl" title="Science">Science</a></div>
+							
+						</div>
+						
+						 
+													<div class="menuColRT oneColWidth marginLT marginLT-1 borderLT color2">
+													<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Tuitions_____mostfav_bl" title="Most Favourited">Most Favourited</a></div>
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Tuitions_____recentfav_bl" title="Recently Favourited">Recently Favourited</a></div>
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Tuitions_____mostreview_bl" title="Most Reviewed">Most Reviewed</a></div>
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Tuitions_____recentreview_bl" title="Recently Reviewed">Recently Reviewed</a></div>
+						</div>
+												<div class="clr"></div>
+					</div>
+				
+					<!-- /level 1 -->
+					
+				</li>
+				
+		
+						
+								
+								<li class="lowertabmenuli">
+					
+					
+					
+					
+					<a href="http://www.mycity4kids.com/Delhi-NCR/Fun-Places-To-Go_bl" class="lowertabmenu" title="Fun Places To Go">Fun Places To Go</a>
+					
+					<!-- level 1 -->
+			
+					<div class="subMenu level1">
+					 
+										<div class="menuColLT twoColWidth marginRT borderRT color1">
+																				 
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Fun-Places-To-Go/Adventure_bl" title="Adventure">Adventure</a></div>
+														 
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Fun-Places-To-Go/Amusement-Parks_bl" title="Amusement Parks">Amusement Parks</a></div>
+														 
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Fun-Places-To-Go/Kid-Friendly-Holidays_bl" title="Kid Friendly Holidays">Kid Friendly Holidays</a></div>
+														 
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Fun-Places-To-Go/Museums-and-Parks_bl" title="Museums &amp; Parks">Museums &amp; Parks</a></div>
+														 
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Fun-Places-To-Go/Others_bl" title="Others">Others</a></div>
+														 
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Fun-Places-To-Go/Play-Areas_bl" title="Play Areas">Play Areas</a></div>
+														 
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Fun-Places-To-Go/Video-Game-Parlours_bl" title="Video Game Parlours">Video Game Parlours</a></div>
+							
+						</div>
+						
+						 
+													<div class="menuColRT oneColWidth marginLT marginLT-1 borderLT color2">
+													<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Fun-Places-To-Go_____mostfav_bl" title="Most Favourited">Most Favourited</a></div>
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Fun-Places-To-Go_____recentfav_bl" title="Recently Favourited">Recently Favourited</a></div>
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Fun-Places-To-Go_____mostreview_bl" title="Most Reviewed">Most Reviewed</a></div>
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Fun-Places-To-Go_____recentreview_bl" title="Recently Reviewed">Recently Reviewed</a></div>
+						</div>
+												<div class="clr"></div>
+					</div>
+				
+					<!-- /level 1 -->
+					
+				</li>
+				
+		
+						
+								
+								<li class="lowertabmenuli">
+					
+					
+					
+					
+					<a href="http://www.mycity4kids.com/Delhi-NCR/Where-to-Shop_bl" class="lowertabmenu" title="Where to Shop">Where to Shop</a>
+					
+					<!-- level 1 -->
+			
+					<div class="subMenu level1">
+					 
+										<div class="menuColLT twoColWidth marginRT borderRT color1">
+																				 
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Where-to-Shop/Apparel-and-Accessories_bl" title="Apparel &amp; Accessories">Apparel &amp; Accessories</a></div>
+														 
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Where-to-Shop/Baby-Shops_bl" title="Baby Shops">Baby Shops</a></div>
+														 
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Where-to-Shop/Bicycles_bl" title="Bicycles">Bicycles</a></div>
+														 
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Where-to-Shop/Book-Library_bl" title="Book Library">Book Library</a></div>
+														 
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Where-to-Shop/Books_bl" title="Books">Books</a></div>
+														 
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Where-to-Shop/Kids-Furniture-and-Furnishings_bl" title="Kids Furniture &amp; Furnishings">Kids Furniture &amp; Furnishings</a></div>
+														 
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Where-to-Shop/Sports-Goods_bl" title="Sports Goods">Sports Goods</a></div>
+														 
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Where-to-Shop/Stationery_bl" title="Stationery">Stationery</a></div>
+														 
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Where-to-Shop/Toy-Library_bl" title="Toy Library">Toy Library</a></div>
+														 
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Where-to-Shop/Toys_bl" title="Toys">Toys</a></div>
+							
+						</div>
+						
+						 
+													<div class="menuColRT oneColWidth marginLT marginLT-1 borderLT color2">
+													<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Where-to-Shop_____mostfav_bl" title="Most Favourited">Most Favourited</a></div>
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Where-to-Shop_____recentfav_bl" title="Recently Favourited">Recently Favourited</a></div>
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Where-to-Shop_____mostreview_bl" title="Most Reviewed">Most Reviewed</a></div>
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Where-to-Shop_____recentreview_bl" title="Recently Reviewed">Recently Reviewed</a></div>
+						</div>
+												<div class="clr"></div>
+					</div>
+				
+					<!-- /level 1 -->
+					
+				</li>
+				
+		
+						
+								
+								<li class="lowertabmenuli">
+					
+					
+					
+					
+					<a href="http://www.mycity4kids.com/Delhi-NCR/Health-and-Wellness_bl" class="lowertabmenu" title="Health &amp; Wellness">Health &amp; Wellness</a>
+					
+					<!-- level 1 -->
+			
+					<div class="subMenu level1">
+					 
+										<div class="menuColLT twoColWidth marginRT borderRT color1">
+																				 
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Health-and-Wellness/Dentists_bl" title="Dentists">Dentists</a></div>
+														 
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Health-and-Wellness/Ophthalmologists_bl" title="Ophthalmologists">Ophthalmologists</a></div>
+														 
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Health-and-Wellness/Paediatricians_bl" title="Paediatricians">Paediatricians</a></div>
+														 
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Health-and-Wellness/Pathology-Labs_bl" title="Pathology Labs">Pathology Labs</a></div>
+														 
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Health-and-Wellness/Special-Needs-_bl" title="Special Needs ">Special Needs </a></div>
+							
+						</div>
+						
+						 
+													<div class="menuColRT oneColWidth marginLT marginLT-1 borderLT color2">
+													<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Health-and-Wellness_____mostfav_bl" title="Most Favourited">Most Favourited</a></div>
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Health-and-Wellness_____recentfav_bl" title="Recently Favourited">Recently Favourited</a></div>
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Health-and-Wellness_____mostreview_bl" title="Most Reviewed">Most Reviewed</a></div>
+							<div class="subMenu_Item"><a href="http://www.mycity4kids.com/Delhi-NCR/Health-and-Wellness_____recentreview_bl" title="Recently Reviewed">Recently Reviewed</a></div>
+						</div>
+												<div class="clr"></div>
+					</div>
+				
+					<!-- /level 1 -->
+					
+				</li>
+				
+				 	<li class="lowertabmenuli" style="background:none;"><a href="http://www.mycity4kids.com/Delhi-NCR/home/viewarticle" class="lowertabmenu" title="Parenting Stop">Parenting Stop</a></li>	
+			<li style="background:#EA6894; margin-top:7px; margin-left:8px;"><span id="spanBookID" style="color: #FFFFFF;display: block;
+			font-weight: bold;padding: 2px 15px;text-decoration: none; cursor:pointer;" class="lowertabmenu" onclick="bokOnlineStyle();">Book Online</span></li>	
+					
+		</ul>
             <div class="clr"></div>
         </div>
 
+		
+		
+				
+        	
 </div>
 
 	<link rel="stylesheet" type="text/css" href="/css/common.css">
@@ -822,7 +833,7 @@ var searchLocality = '';
 	  <h1 class="aboutUs">
 	  PRIVACY POLICY</h1><br>
         <center>
-          <img src="http://www.mycity4kids.com/img/home/horizontal_line.gif" alt="B2B Right Curve" title="" class="fleft" style="width:800px; height:2px;"><br>
+          <img src="/img/home/horizontal_line.gif" alt="B2B Right Curve" title="" class="fleft" style="width:800px; height:2px;"><br>
         </center>
         <div style="float:left; margin-top:10px; margin-left:20px; width:850px;">
           <p style="text-align: justify;">This Privacy Policy sets forth policies between “www.mycity4kids.com”, herein after referred to as “THE WEBSITE” and it’s User.</p>
@@ -889,7 +900,7 @@ var searchLocality = '';
         </div>
       
         <center>
-          <img src="http://www.mycity4kids.com/img/home/horizontal_line.gif" alt="B2B Right Curve" title="" class="fleft" style="width:800px; height:2px;">
+          <img src="/img/home/horizontal_line.gif" alt="B2B Right Curve" title="" class="fleft" style="width:800px; height:2px;">
         </center>
       </div>
       <!-- ==Center Option Block Frame here== -->
@@ -907,22 +918,24 @@ var searchLocality = '';
     <!-- ==Middle top Frame End== -->
   </div>
   <!-- ==Middle Bottom Banner here== -->
-  <div class="paddingB10">
-        	<div class="mblock3-inner">
-            	<a href="http://www.mycity4kids.com/Delhi-NCR/businessuser/b2bdetails" style="color:#55ABFE;"><h2 class="heading-blue">Business-to-Business (B2B)</h2></a>
+  
+<div class="paddingB10">
+        	<div class="mblock3-inner" style="padding:12px 0 0 19px;">
+            	<h2 class="heading-blue"><a href="http://www.mycity4kids.com/Delhi-NCR/businessuser/b2bdetails" style="color:#55ABFE;">Business-to-Business (B2B)</a></h2>
             	<p class="para-business">
-                	<img src="http://www.mycity4kids.com/img/b2b.jpg" alt="B2B" width="132" height="90" class="fleft">
+                	<span class="b2b-img" title="Business-to-Business (B2B)"></span>
                     Reach out to a focused audience of parents in your vicinity and generate enquiries to grow your business.<br><br>
                    Leverage mycity4kids 'favourites' to get discovered by new parents, reach out directly to your 'favourite' ones and fuel 'word of mouth'. 
                 </p>
                 <div class="clr"></div>	
-                <div class="paddingB10">
-  <a href="http://www.mycity4kids.com/Delhi-NCR/businessuser/b2bdetails" title="" class="pink-link">Know More </a> | <a href="http://www.mycity4kids.com/Delhi-NCR/businessuser/businessrequest" title="" class="pink-link">List Your Business</a> | 
-    <a href="javascript:getLogin();" class="pink-link">Add an Event</a>
-                   </div>
+                <div class="paddingB10" style="padding-top:10px;">
+  <a href="http://www.mycity4kids.com/Delhi-NCR/users/login/business" title="" class="pink-link">B2B Login </a> | <a href="http://www.mycity4kids.com/Delhi-NCR/businessuser/businessrequest" title="" class="pink-link">List Your Business</a> | 
+    <a href="javascript:geteventLogin('eventpage');" class="pink-link">Add an Event</a>
+   
+                </div>
             </div>
-            <div class="mblock3-inner">
-            	<h2 class="heading-blue">Your Favourite Places <img src="http://www.mycity4kids.com/img/favourite.jpg" alt="" width="16" height="20" class="verticalAlgnMid"></h2><div id="renderfav"></div>
+            <div class="mblock3-inner" style="padding:12px 0 0 19px;">
+            	<h2 class="heading-blue">Your Favourite Places <img alt="Your Favourite Places" title="Your Favourite Places" src="/img/favourite.jpg" width="16" height="20" class="verticalAlgnMid"></h2><div id="renderfav"></div>
             	<p class="para-addfav" style="padding-bottom:20px;">
                 	<i>Share</i> your favourite places and <i>Discover</i> fantastic new places for your child, around your home and in your city. <i>Sharing your 'favourites'</i> shows you other parents with whom your 'favourites' overlap so you get to discover new places by looking at the ones you DON'T have in common.
                 </p>	
@@ -937,92 +950,19 @@ var searchLocality = '';
 				  
             
                 </div>
-				 <div class="paddingB10">
+				 <div class="paddingB10" style="padding-top:10px;">
   						<a href="http://www.mycity4kids.com/Delhi-NCR/home/favouritesfaqs" title="" class="pink-link">FAQ's for 'Favourites' </a> 
+						 
                 	</div>
             </div>
-            <div class="mycity-facebook">  
-                <!--<img src="http://www.mycity4kids.com/img/facebook-kids.jpg" alt="My city4kids on Facebook"  width="318" height="253" />-->
-           <iframe src="http://www.facebook.com/plugins/likebox.php?id=148518755167811&amp;width=320&amp;connections=10&amp;stream=false&amp;header=false&amp;height=255" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:320px; height:255px;" allowtransparency="true"></iframe>
-		    </div>
+           
+			
+				<div class="mycity-facebook" id="mcity_fb" style="border:1px solid #DDDDDD;">
+			
+			<!--<iframe src="http://www.facebook.com/plugins/likebox.php?id=148518755167811&amp;width=320&amp;connections=10&amp;stream=false&amp;header=false&amp;height=255" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:320px;height:255px;" ></iframe>-->
+			</div>
             <div class="clr"></div>
         </div>
-
- <!--<script type="text/javascript">
-  function findValue(li) {
-   if( li == null ) return alert("No match!");
-
-   // if coming from an AJAX call, let's use the CityId as the value
-   if( !!li.extra ) 
- var sValue = li.extra[0];
-
-   // otherwise, let's just display the value in the text box
-   else var sValue = li.selectValue;
-   if(sValue=='notfound')
-   {
-   document.getElementById('favouriteid').value=='';
-	if(UserSessionId=='')
-{
-getCommonlogin('biznotfound');
-}
-	else
-{
-jQuery.facebox({ ajax: path+'/'+'question/sendbusinessrequest' });
-}
-
-   }
-   else
-   {
-   sValue=sValue.split(',');
-	document.getElementById('favouritehidden').value=sValue[0];
-	document.getElementById('favouritetype').value=sValue[1];
-   	//alert("The value you selected was: " + sValue[0]);
-    //alert("The value you selected was: " + sValue[1]);
-  }
-  }
-
-  function selectItem(li) {
-     findValue(li);
-  }
-
-  function formatItem(row) {
-    return row[0];
-     //return row[0] + " (id: " + row[1] + ")";
-  }
-
-  function lookupAjax(){
-   var oSuggest = $("#favouriteid")[0].autocompleter;
-    oSuggest.findValue();
-   return false;
-  }
-
-  function lookupLocal(){
-     var oSuggest = $("#favouriteid")[0].autocompleter;
-
-     oSuggest.findValue();
-
-     return false;
-  }
- </script>--> 
-
-<!--<script type="text/javascript">
-
-  $("#favouriteid").autocomplete(
-      path+"/question/textsearchlistfavourite",
-      {
-     delay:10,
-     minChars:2,
-     matchSubset:1,
-     matchContains:1,
-     cacheLength:10,
-     onItemSelect:selectItem,
-     onFindValue:findValue,
-     formatItem:formatItem,
-     autoFill:true
-    }
-    );
-</script>  -->
-
 <script type="text/javascript">
 
   var options, d ;
@@ -1061,51 +1001,41 @@ jQuery(function(){
    
 
 });
-
-
+$(document).ready(function(){ 
+		$('#mcity_fb').load(path+'/videoreview/recentvideohome/10/home',function() {
+	   });
+	});
 </script> 
 
   <!-- ==Btm Listing Frame here== -->
   <div class="m-block4">
         	<div class="mblock4-right">
             	<div class="paddingTop25">
-				                 	<a href="http://www.mycity4kids.com/Delhi-NCR/users/registrations" title="Join Now">
-                        	<img src="http://www.mycity4kids.com/img/join-now.png" alt="">
+				                 	<a href="http://www.mycity4kids.com/Delhi-NCR/users/registrations" title="Join Now" class="footerJoinNowBtn">
+                        	<!--<img src="/img/join-now.png" alt="" height="35" width="97" />-->
                         </a>
-                    <a href="http://www.mycity4kids.com/Delhi-NCR/users/login" title="Sign in">
-                        	<img src="http://www.mycity4kids.com/img/sign-in.png" alt="">
+                    <a href="http://www.mycity4kids.com/Delhi-NCR/users/login" title="Sign in" class="blueSigninBtn">
+                        	<!--<img src="/img/sign-in.png" alt="" height="35" width="97"/>-->
                         </a>
 						
-			<a href="http://www.mycity4kids.com/Delhi-NCR/accounts/invitefriends" title="Invite Friends">
-                        	<img src="http://www.mycity4kids.com/img/invite-friends.png" alt="">
+			<a href="http://www.mycity4kids.com/Delhi-NCR/accounts/invitefriends" title="Invite Friends" class="footerInviteFriendsBtn">
+                        	<!--<img src="/img/invite-friends.png" height="35" width="97" alt=""/>-->
                         </a>
-
-                </div>
-                <ul class="social-network">
-				
-                 	<li style="width:220px;">	
-                		<a href="javascript:void()" title="Get in touch">
-                        	<img src="http://www.mycity4kids.com/img/icon-phone-1.gif" width="25" height="28" title="Get in touch" alt="Get in touch" style="vertical-align:middle;">&nbsp;+919999263471
-                        </a>
-                	</li>
-                    <li style="width: 100px;padding-top:8px;">	
-                		<a href="http://www.facebook.com/pages/mycity4kidscom/148518755167811" title="Facebook">
-                        	<img src="http://www.mycity4kids.com/img/facebook.png" alt="Facebook" width="16" height="16"> Facebook
-                        </a>
-                	</li>
-                    <!--<li>	
-                		<a href="#" title="Delicious">
-                        	<img src="http://www.mycity4kids.com/img/delicious.png" alt="Delicious" width="16" height="16" /> Delicious
-                        </a>
-                	</li>-->
-                </ul>
+						<div class="clr" style="padding-top:10px;"></div>
+													<input type="button" value="Follow us on Facebook" name="Add Favourite" class="button button137 fleft" onclick="document.location.href='https://www.facebook.com/mycity4kids'">
+						&nbsp;&nbsp;&nbsp;<div class="fb-like" data-href="https://www.facebook.com/mycity4kids" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false" data-font="arial"></div>
+						                </div>
+                
                 <div class="clr"></div>
             </div>
             <div class="mblock4-left">
-            	<img src="http://www.mycity4kids.com/img/kids.png" alt="Kids" width="73" height="34">
+				<span class="kids-icon"></span>
+				<div class="clr"></div>
                 <p>
-                	<a href="http://www.mycity4kids.com" target="_blank" title="www.mycity4kids.com">www.mycity4kids.com</a>
-                    is 'about your child, around your home'. We help unearth the best  your city has to offer kids in and around your neighbourhood - from kids events to fun family                    outings, discounts and offers, to a comprehensive listings of products and services for your children. It provides a platform for parents to access information as                    well as share their favourite places and most memorable experiences.
+                					
+				<a href="http://www.mycity4kids.com" target="_blank" title="www.mycity4kids.com">www.mycity4kids.com</a>
+				is 'about your child, around your home'. We are the ultimate resource guide to help parents unearth the best their city has to offer kids, in and around the neighbourhood - from playschools and schools, hobby and sports classes to fun events, summer camps and workshops. We provide parents a platform to not only access information but also use video reviews and ratings from like-minded parents to choose just the right place for their child.                 
+				
                 </p>
             </div>
             <div class="clr"></div>
@@ -1138,13 +1068,18 @@ function loadUrl()
 	}});
 			
 }
-loadFavPopup();
+
+$(document).ready(function(){ 
+	loadFavPopup();
+});
 </script>
   <!-- ==@Middle Frame close== -->
 </div>
 <div id="footer">
 		<div style="height:10px;"></div>
-		<ul class="foot-menu" style="width:850px;">
+	<div style="margin-top:-10px;">
+			<div style="float:left;">
+				<ul class="foot-menu" style="width:800px;">
 		<li>Alphabetical Listings &nbsp;:&nbsp;&nbsp;</li>
 		<li><a href="http://www.mycity4kids.com/Delhi-NCR/search/directory/num" title="Number">#</a></li>
 		<li>|</li>
@@ -1203,8 +1138,8 @@ loadFavPopup();
 		</ul>
 		<div style="height:30px;"></div>
 		 <div class="clr"></div>	
-    	<div class="copyright">©2011 Just4kids Services Pvt. Ltd </div>
-       <ul class="foot-menu" style="width:695px;">
+    	
+       <ul class="foot-menu" style="width:auto;padding-bottom:5px;">
         	<li><a href="http://www.mycity4kids.com/Delhi-NCR/home/index" title="Home">Home</a></li>
             <li>|</li>
         	<li><a href="http://www.mycity4kids.com/Delhi-NCR/home/aboutus" title="About Us">About Us</a></li>
@@ -1219,10 +1154,35 @@ loadFavPopup();
             <li>|</li>
             <li><a href="http://www.mycity4kids.com/Delhi-NCR/home/privacy" title="Privacy Statement">Privacy Statement</a></li>
 			<li>|</li>
-			<li><a href="http://www.mycity4kids.com/Delhi-NCR/home/sitemap" title="Resource Directory">Resource Directory</a></li>
+			<li><a href="http://www.mycity4kids.com/Delhi-NCR/home/sitemap" title="Resource Directory">Resources Directory</a></li>
+			
+			<li>|</li>
+			<li><a href="http://www.mycity4kids.com/Delhi-NCR/member/index" title="Members Search">Members Search</a></li>
+			
         </ul>
-        <div class="clr"></div>
-    </div>
+			<div style="height:20px;"></div>
+		 	<div class="clr"></div>
+			<ul class="foot-menu" style="width:800px;margin-left:250px;">
+				<li style="float:left"><table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose Symantec SSL for secure e-commerce and confidential communications.">
+<tbody><tr>
+<td width="135" align="center" valign="top"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.mycity4kids.com&amp;size=M&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script><br>
+<a href="http://www.symantec.com/ssl-certificates" target="_blank" style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a></td>
+</tr>
+</tbody></table></li>
+
+<li style="float:left;margin-top:25px;margin-left:35px"><span id="cdSiteSeal1">
+					<script type="text/javascript" src="//tracedseals.starfieldtech.com/siteseal/get?scriptId=cdSiteSeal1&amp;cdSealType=Seal1&amp;sealId=55e4ye7y7mb733bddf4d36bc38a6d2jw11y7mb7355e4ye779880b2af1c1489c4">
+					</script>
+				</span></li>
+			</ul>
+			<div style="height:20px;"></div> 
+        </div>
+			<div class="clr"></div>
+		</div>
+		<div style="font-weight:bold;padding-top:15px;border-top: 1px solid #DDDDDD;">©2012 Just4kids Services Pvt. Ltd</div>
+    
+	<p class="call-center_top_right_btn2 f-btn"></p>
+	</div>
  
 </div>
 <script type="text/javascript">
@@ -1233,12 +1193,9 @@ jQuery(document).ready(function($) {
 	
 </script>
 <script type="text/javascript">
- jQuery.noConflict();
-document.getElementById("middle").onmousemove=function(e){
-//document.getElementById('metrocityId').style.display = 'none';
-}
+jQuery.noConflict();
 onBusinessEventSearch();
-openfavPopupCrossed();
+//openfavPopupCrossed();
 </script>		
 
     <div id="facebox" style="display:none;">       <div class="fbpopup">         <table>           <tbody>             <tr>               <td class="tl"></td><td class="b"></td><td class="tr"></td>             </tr>             <tr>               <td class="b"></td>               <td class="body">                 <div class="content">                 </div>               </td>               <td class="b"></td>             </tr>             <tr>               <td class="bl"></td><td class="b"></td><td class="br"></td>             </tr>           </tbody>         </table>       </div>     </div></body></html>
