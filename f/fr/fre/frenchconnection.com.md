@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frenchconnection.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218204112id_/http%3A//usa.frenchconnection.com/content/legal/privacy%2Bpolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frenchconnection.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510214904id_/http%3A//usa.frenchconnection.com/content/legal/privacy%2Bpolicy.htm) for the most accurate reproduction.*
 
 # FRENCH CONNECTION USA - privacy policy
 
@@ -27,3 +27,6 @@ A "cookie" is a small data file stored by your web browser on your computer's ha
 We use cookies to keep track of what you have in your basket and to remember you when you return to our site. It also tells us which website you came to us from. You can disable cookies on your computer by changing the preferences or options menus in your browser. However, it is possible that some parts of our website will not operate correctly if you disable cookies.
 
 // top of page
+
+  
+
