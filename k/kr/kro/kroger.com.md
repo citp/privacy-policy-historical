@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kroger.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202202938id_/http%3A//www.kroger.com/company_information/Pages/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kroger.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510202829id_/http%3A//www.kroger.com/company_information/Pages/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Kroger - Company Information - Privacy Policy
 
