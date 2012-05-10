@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oliverbonas.com privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010210106id_/http%3A//www.oliverbonas.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oliverbonas.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510063359id_/http%3A//www.oliverbonas.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Oliver Bonas
 
@@ -55,4 +55,4 @@ Unit F Davis Road Industrial Estate
 Davis Road Chessington  
 KT9 1TQ
 
-"I like pigs. Dogs look up to you, cats look down on you, but pigs treat you like equals"  ~ Winston Churchill 
+"Give me a museum and I'll fill it. "  ~ Pablo Picasso 
