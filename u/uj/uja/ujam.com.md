@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ujam.com privacy policy that was archived on 2011-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110828075839id_/http%3A//www.ujam.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ujam.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510032157id_/http%3A//www.ujam.com/privacy) for the most accurate reproduction.*
 
 # UJAM - Privacy Policy
 
@@ -21,7 +21,7 @@ This summary is not the complete picture, so please read the UJAM Privacy Policy
 
 This Privacy Policy does not govern our use of any information you provide to us when you call us, write to us, or communicate with us in any manner other than through the Internet Products. Because the Internet is global, information about you that we collect or that you submit may be transferred to, processed in, and held in countries (including the United States) other than the one in which you reside. 
 
-**By using the UJAM Site, you explicitly consent to the collection, processing and use of your personal information and agree to the terms of this Privacy Policy. This Privacy Policy is effective as of August 24, 2010.**
+**By using the UJAM Site, you explicitly consent to the collection, processing and use of your personal information and agree to the terms of this Privacy Policy. This Privacy Policy is effective as of August 24, 2010**
 
 **INFORMATION YOU CHOOSE TO SUBMIT**
 
