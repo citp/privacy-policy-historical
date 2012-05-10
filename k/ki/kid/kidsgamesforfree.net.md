@@ -1,28 +1,28 @@
-> *The following text is extracted and transformed from the kidsgamesforfree.net privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229034637id_/http%3A//www.kidsgamesforfree.net/templates/default/files/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsgamesforfree.net privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510092017id_/http%3A//www.kidsgamesforfree.net/templates/default/files/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Privacy Policy
 
-Privacy Policy for www.lolarcades.com
+Privacy Policy for www.kidsgamesforfree.net
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@lolarcades.com.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@kidsgamesforfree.net.
 
-At www.lolarcades.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.lolarcades.com and how it is used.
+At www.kidsgamesforfree.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.kidsgamesforfree.net and how it is used.
 
 Log Files
 
-Like many other Web sites, www.lolarcades.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+Like many other Web sites, www.kidsgamesforfree.net makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
 Cookies and Web Beacons
 
-www.lolarcades.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+www.kidsgamesforfree.net does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
 DoubleClick DART Cookie
 
-Google, as a third party vendor, uses cookies to serve ads on www.lolarcades.com.
+Google, as a third party vendor, uses cookies to serve ads on www.kidsgamesforfree.net.
 
-Google's use of the DART cookie enables it to serve ads to users based on their visit to www.lolarcades.com and other sites on the Internet.
+Google's use of the DART cookie enables it to serve ads to users based on their visit to www.kidsgamesforfree.net and other sites on the Internet.
 
 Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html
 
@@ -44,11 +44,11 @@ Some of our advertising partners may use cookies and web beacons on our site. Ou
 
 
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.lolarcades.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.kidsgamesforfree.net send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-www.lolarcades.com has no access to or control over these cookies that are used by third-party advertisers.
+www.kidsgamesforfree.net has no access to or control over these cookies that are used by third-party advertisers.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.lolarcades.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.kidsgamesforfree.net's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
