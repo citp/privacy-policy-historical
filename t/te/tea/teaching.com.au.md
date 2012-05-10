@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teaching.com.au privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119213237id_/http%3A//www.teaching.com.au/jsp/NetStore/mta-privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teaching.com.au privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510173055id_/http%3A//teaching.com.au/jsp/NetStore/mta-privacy.jsp) for the most accurate reproduction.*
 
 # 
 
