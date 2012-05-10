@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the natively.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118092229id_/http%3A//www.natively.com/Privacy.asp%3Faf%3D.org) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natively.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510212945id_/http%3A//www.natively.com/Privacy.asp%3Faf%3D.org) for the most accurate reproduction.*
 
 # About Natively.com - Privacy Policy
 
-  
+Spanish  |   French  |   Arabic  |   Russian  
+Privacy Policy
+
 (Last updated June 15, 2011)
 
 Privacy Protection Commitment by Natively.com  
