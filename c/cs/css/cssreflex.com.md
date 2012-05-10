@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cssreflex.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009154218id_/http%3A//www.cssreflex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cssreflex.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510202637id_/http%3A//www.cssreflex.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for Cssreflex.com
+# Privacy Policy | CSSReflex
 
 for http://www.cssreflex.com
 
