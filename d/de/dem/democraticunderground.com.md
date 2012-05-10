@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the democraticunderground.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102000950id_/http%3A//www.democraticunderground.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the democraticunderground.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510105228id_/http%3A//www.democraticunderground.com%3Fcom%3Dprivacy) for the most accurate reproduction.*
 
-# Democratic Underground Privacy Policy
-
-**Democratic Underground  Privacy Policy**
+# Privacy Policy - Democratic Underground
 
 Democratic Underground, LLC (“Democratic Underground” or “the Site”) has created this privacy statement in order to demonstrate its firm commitment to privacy. In adopting this privacy policy, the intent is to balance the Site’s legitimate business interests in collecting and using personally identifiable information and a user’s reasonable expectations of privacy. The following discloses the information gathering and dissemination practices for the Democratic Underground Site.
 
@@ -46,7 +44,7 @@ This Democratic Underground Privacy Policy applies only to information collected
 
 Google, as a third party vendor, uses cookies to serve ads on the Democratic Underground site. Google's use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to users based on their visit to this site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, [click here](http://www.networkadvertising.org/managing/opt_out.asp)
 
 **Cookies**
 
@@ -70,7 +68,7 @@ Democratic Underground users may request that their personal information be dele
 
 **Changes to this Privacy Policy**
 
-Democratic Underground reserves the right to modify this Privacy Policy at any time by posting the changes on the Democratic Underground Site. This Democratic Underground Privacy Policy was last updated on August 14, 2010.
+Democratic Underground reserves the right to modify this Privacy Policy at any time by posting the changes on the Democratic Underground Site. This Democratic Underground Privacy Policy was last updated on May 11, 2010.
 
 **Contact Information**
 
