@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orabrush.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102150150id_/http%3A//www.orabrush.com/store/en/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orabrush.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510172934id_/http%3A//www.orabrush.com/store/en/privacy.php) for the most accurate reproduction.*
 
 # Orabrush Orabrush Privacy Policy - Security Commitment | Orabrush
 
@@ -8,7 +8,7 @@ Orabrush is not only firmly committed to [cure bad breath](http://www.orabrush.c
 
 ## SECURED TRANSACTIONS: 
 
-When you place an order for OraBrush you have two options to pay. They are: Google Checkout or Paypal. These services were chosen because they are well established, totally secure, and safe. You can be sure that the transaction will be correct and that you will receive the exact product you ordered.
+When you place an order for OraBrush you have two options to pay. They are by credit card on Orabrush.com or Paypal. These services were chosen because they are well established, totally secure, and safe. You can be sure that the transaction will be correct and that you will receive the exact product you ordered.
 
 ## PROTECTION FOR CHILDREN: 
 
@@ -23,10 +23,3 @@ This policy is effective and was last updated April, 2009.
 
   
 
-
-**Order Now** \- Where would you like your tongue cleaners sent?
-
-**Our Service:** Your Orabrush, the tongue brush and [tongue scraper](http://www.orabrush.com/ "tongue scraper") hybrid, is hand shipped within 1 business day!
-
-Use our secure Visa, Mastercard, Discover, American Express or PayPal Checkout. Either method will ensure that you will receive exactly what you ordered.  
-All shipments are sent by United States Postal Service.
