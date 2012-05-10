@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncsecu.org privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629133042id_/http%3A//www.ncsecu.org/Home/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncsecu.org privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510045204id_/https%3A//www.ncsecu.org/Home/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # State Employees' Credit Union - Privacy Policy
 
@@ -24,13 +24,4 @@ Occasionally, SECU may be required, by law, to disclose nonpublic personal infor
 
 ## Methods
 
-Member information is kept secure and confidential through physical, electronic, and procedural safeguards that comply with Federal regulations and industry standards. Questions or concerns regarding our privacy commitment should be directed to a local branch or the Call Center. 
-
-## Other Related Links:
-
-  * [How You Can Protect Yourself](https://web.archive.org/web/20090629133042id_/http%3A//www.ncsecu.org/Security/HowYouCanProtectYou.html)
-  * [Legal](https://web.archive.org/web/20090629133042id_/http%3A//www.ncsecu.org/Home/Legal.html)
-  * [Locator](https://web.archive.org/web/20090629133042id_/http%3A//www.ncsecu.org/Locator/Locator.html)
-  * [Call Center](https://web.archive.org/web/20090629133042id_/http%3A//www.ncsecu.org/Home/ContactUs.html#phone)
-
-
+Member information is kept secure and confidential through physical, electronic, and procedural safeguards that comply with Federal regulations and industry standards. Questions or concerns regarding our privacy commitment should be directed to a local branch or the Contact Center. 
