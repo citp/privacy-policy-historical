@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asmp.org privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501041208id_/http%3A//asmp.org/articles/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asmp.org privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510064754id_/http%3A//asmp.org/articles/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy | American Society of Media Photographers
 
@@ -10,7 +10,7 @@ ASMP respects the privacy of its members and guests. Whether online or on paper,
 
 From time to time, we may develop web pages that ask for your name, email address or other personal information in order to deliver services to you at a future time. In such cases, we will always disclose how we plan to use your information. If we don’t identify third parties who will see the information, it means that we will not reveal your information to any third parties.
 
-**ASMP members:** We require you to give us your postal contact information when you join, so that we can maintain records of membership and financial transactions. You are encouraged to give us your email addresses and website URLs, but are not required to. For General members, a listing in the public Find A Photographer database is a benefit of your membership, and your information will be published unless you choose to suppress it, via checkboxes in your member profile. All members may elect to be listed in the Find An Assistant database, on much the same terms.
+**ASMP members:** We require you to give us your postal contact information when you join, so that we can maintain records of membership and financial transactions. A valid email address is needed to enable your login to the ASMP website for access to the members-only pages. For General and Associate Plus members, a listing in the public Find A Photographer database is a benefit of your membership, and your information will be published unless you choose to suppress it, via checkboxes in your member profile. All members may elect to be listed in the Find An Assistant database, on much the same terms.
 
 We rent our mailing lists to selected vendors whose services and products we judge will be of interest to professional photographers. We supply postal addresses only, and only via bonded mailing houses; we never release email addresses, phone or fax numbers.
 
