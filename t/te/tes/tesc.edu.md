@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tesc.edu privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231203920id_/http%3A//www.tesc.edu/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tesc.edu privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510180557id_/http%3A//www.tesc.edu/about/Privacy-Policy.cfm) for the most accurate reproduction.*
 
-# Thomas Edison State College/ Privacy Policy
-
-[Home](https://web.archive.org/index.php) > Privacy Policy
+# Thomas Edison State College: Privacy Policy
 
 This is the Web site of Thomas Edison State College.
 
@@ -10,8 +8,7 @@ Our postal address is
 101 W. State St.  
 Trenton, NJ 08608-1176
 
-We may be reached via e-mail at [info@tesc.edu](mailto:info@tesc.edu)  
-or you may reach us by telephone at (888) 442-8372
+We may be reached via email at [info@tesc.edu](mailto:info@tesc.edu) or you may reach us by telephone at (888) 442-8372
 
 For each visitor to our Web page, we only collect only the domain name, but not the e-mail address of visitors to our Web page, and aggregate information on what pages visitors access or visit.
 
