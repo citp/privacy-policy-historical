@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movietalkies.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229194808id_/http%3A//www.movietalkies.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movietalkies.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510081259id_/http%3A//www.movietalkies.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -31,7 +31,7 @@ Any of the information we collect from you may be used in one of the following w
 
 **To administer a contest, promotion, survey or other site feature**
 
-**To send periodic emails:** (The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc., which you may opt to unsubscribe by visiting [www.MovieTalkies.com/unsubscribe](https://web.archive.org/web/20111229194808id_/http%3A//www.movietalkies.com/unsubscribe_news.aspx) and entering your email address. MovieTalkies.com will send you a confirmation email on the email address entered which you may confirm by clicking on the link.
+**To send periodic emails:** (The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc., which you may opt to unsubscribe by visiting [www.MovieTalkies.com/unsubscribe](https://web.archive.org/web/20120510081259id_/http%3A//www.movietalkies.com/unsubscribe_news.aspx) and entering your email address. MovieTalkies.com will send you a confirmation email on the email address entered which you may confirm by clicking on the link.
 
 **INFORMATION SHARING & DISCLOSURE**
 
@@ -73,10 +73,10 @@ Our provision of a link to any other website or location is for your convenience
 
 **REGARDING MINORS**
 
-We do not intentionally gather Personal Information about visitors who are under the age of 18. By accepting the practices in the Privacy Policy and the Terms of Use _(_[www.MovieTalkies.com/terms](https://web.archive.org/web/20111229194808id_/http%3A//www.movietalkies.com/terms-conditions.aspx)), you warrant that you are an individual (i.e. not a corporation) and are at least 18 years of age and you have the legal authority to enter into other binding agreements for the purchase and/or use goods and/or Services. You agree to be responsible for use of the Services and access of the Website (as well as for use of our account by others, including without limitation minors living with you). 
+We do not intentionally gather Personal Information about visitors who are under the age of 18. By accepting the practices in the Privacy Policy and the Terms of Use _(_[www.MovieTalkies.com/terms](https://web.archive.org/web/20120510081259id_/http%3A//www.movietalkies.com/terms-conditions.aspx)), you warrant that you are an individual (i.e. not a corporation) and are at least 18 years of age and you have the legal authority to enter into other binding agreements for the purchase and/or use goods and/or Services. You agree to be responsible for use of the Services and access of the Website (as well as for use of our account by others, including without limitation minors living with you). 
 
 **TERMS AND CONDITIONS**  
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.MovieTalkies.com/terms](https://web.archive.org/web/20111229194808id_/http%3A//www.movietalkies.com/terms-conditions.aspx)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.MovieTalkies.com/terms](https://web.archive.org/web/20120510081259id_/http%3A//www.movietalkies.com/terms-conditions.aspx)
 
 **CHANGES TO THIS PRIVACY POLICY**
 
