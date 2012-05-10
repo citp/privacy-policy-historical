@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nominet.org.uk privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006170816id_/http%3A//www.nominet.org.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nominet.org.uk privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510063223id_/http%3A//www.nominet.org.uk/privacypolicy) for the most accurate reproduction.*
 
 # Nominet - Privacy policy
 
@@ -31,6 +31,16 @@ We may collect information about your computer, including where available your I
 
 
 You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you access our site.
+
+### Analysing .uk domain name usage
+
+So we can monitor usage of .uk domains, Nominet is running a short trial to collect data on whether .uk domain names resolve, where they are hosted, whether they are used for email and/or whether a web site is in place. As part of this, we will collect information about the landing page of your website so that we can categorise the website type (e.g. blog, parking page etc). We will not collect any more information than we would if we visited the landing page via a browser, and the data will be deleted at the end of the trial.
+
+  The information we gather is used to help Nominet better understand the .uk market and identify changes over time.  To keep bandwidth to a minimum, only the landing page of a web site is visited and we will restrict the number of times we visit websites which use the same IP address.  Any information gathered is used to help Nominet better understand how .uk domains are used by registrants.
+
+  If you want to, you can stop us from collecting data about your website by using a "robots.txt" file. You can find more information about "robots.txt" files [here](http://www.robotstxt.org/robotstxt.html).
+
+  If the trial is successful, we may run this analysis on a regular basis in the future. If so, this policy will be updated accordingly.
 
 ### Where we store your personal data
 
