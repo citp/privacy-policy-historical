@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the andrewchristianshop.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110215734id_/http%3A//www.andrewchristianshop.com/Privacy-Notice-Andrew-Christian-ccid_2.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andrewchristianshop.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510215311id_/http%3A//www.andrewchristianshop.com/Privacy-Notice-Andrew-Christian-ccid_2.aspx) for the most accurate reproduction.*
 
 # Privacy Notice at Andrew Christian, Inc.
 
@@ -6,7 +6,9 @@ At Andrew Christian, Inc., we take the protection of your privacy seriously. We 
 
 AndrewChristian.com and AndrewChristianShop.com's (a.k.a Andrew Christian) Privacy Policy provides you with the information and policies regarding our information collection process and our privacy protecting assurance and how we use this information. By using the AndrewChristian.com and AndrewChristianShop.com sites, you agree to the conditions of this privacy policy.
 
-Each time a user visits Andrew Christian, certain information is collected. That information is specific to your visit and whether you browse, shop or register. Depending on those actions, different unique information is gathered. The below information details the types of information we collect, how it is gathered and what is done with it.
+Each time a user visits Andrew Christian, certain information is collected. That information is specific to your visit and whether you browse, shop or register. Depending on those actions, different unique information is gathered. The below information details the types of information we collect, how it is gathered and what is done with it. 
+
+Please note that we have the ability to retain any data that you provide on this website, even if you do not complete your [registration/transaction] by clicking [submit/next]. Such contact details and data may be used [state purpose(s) e.g. to contact you to inquire why you did not complete your [registration/transaction]. 
 
 Part of each visit to Andrew Christian is registered through an IP address that may help us diagnose issues with our servers and correct errors. Your IP address also allows us to gather broad, non-personal demographics that help us to analyze traffic patterns and how our site is browsed.
 
