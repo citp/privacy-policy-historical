@@ -1,71 +1,117 @@
-> *The following text is extracted and transformed from the briggsandstratton.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120132227id_/http%3A//www.briggsandstratton.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the briggsandstratton.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510131408id_/http%3A//www.briggsandstratton.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Briggs & Stratton
 
-This privacy statement discloses the privacy practices for [http://www.briggsandstratton.com](http://www.briggsandstratton.com/). This web site has agreed to notify you of:
+**PRIVACY POLICY**
 
-  * what personally identifiable information of yours is collected from you on the web site 
-  * the organization collecting the information 
-  * how the information is used 
-  * with whom the information may be shared 
-  * what choices are available to you regarding collection, use and distribution of the information 
-  * the kind of security procedures that are in place to protect the loss, misuse or alteration of information under briggs & stratton's control 
-  * how you can correct any inaccuracies in the information. 
+We take your privacy seriously, and we want you to know how we collect, use, share and protect your information. 
 
+**This Privacy Policy tells you:  
+** • What information we collect   
+• How we use that information   
+• How we may share that information   
+• How we protect your information   
+• Your choices regarding your personal information 
 
+This Policy applies only to briggsandstratton.com (the “Site”). This Policy does not apply to other brands or sites owned by Briggs & Stratton Corporation or its subsidiaries or affiliates, such as Snapper (snapper.com), Simplicity (simplicitymfg.com), or Murray (murray.com), among others, each of which has its own privacy policy. 
 
-### Information Collection and Use
+**INFORMATION WE COLLECT
 
-The Briggs & Stratton Corporation is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. The Briggs & Stratton Corporation collects information from our users at several different points on our web site.
+Information You Give Us 
 
-### My Engine Information: Registration
+**We collect information that you enter on our Site. For example, we collect information from you when you place an order, create an account, e-mail us with a question, create a Wish List, write a review, or use any of our services. 
 
-In order to use the My Engine Information personalized function on the Briggs & Stratton web site, you must first complete the registration form. During registration you are required to give your contact information (such as name and email address). This information is used to contact you about the services on our site for which you have expressed interest. It is optional for you to provide demographic information (such as income level and gender), and unique identifiers (such as social security number), but encouraged so we can provide a more personalized experience on our site.
+The information we collect from you may include :   
+• Your name   
+• Your mailing address   
+• Your e-mail address   
+• Your phone number   
+• Your credit card number and other payment information   
+• Demographic and lifestyle information, such as age, personal interests and product preferences 
 
-### Cookies
+**Information From Other Sources  
+** We may receive information about you from third parties who help us update, expand and analyze our records, and improve our website experience. This information does not identify you individually, but it does reflect some of your activities on the Internet, such as the web sites you visited immediately before visiting the Site or links available at other websites which directed you to the Site. 
 
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once you close your browser, the cookie simply terminates. For instance, by setting a cookie on our site, you would not have to choose your region or language, or log in a password more than once, thereby saving time while on our site. If you reject the cookie, you may still use our site. The only drawback to this is that you will be limited in some of the personalization functionality in several areas of our site. For example, you will not be able to automatically save preferences or engine information, or information about your language or region preferences. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site.
+**Do We Use Cookies?  
+** Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. 
 
-### Log Files
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits to our Site and compile aggregate data about Site traffic and Site interactions so that we can offer better Site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our Site visitors. These service providers are permitted to use the information collected on our behalf only to help us conduct and improve our business. 
 
-We use IP addresses to analyze trends, administer the site, track user movements, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies by adjusting your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
 
-### Sharing
+**Log Files  
+** The Site uses Internet Protocol (“IP”) addresses to analyze trends, administer the Site, track user movements, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. An Internet Service Provider ("ISP") typically assigns a random dynamic IP address at the time of your dial-up. For local area network ("LAN"), DSL, or cable modem users, a static IP address may be permanently assigned to a particular computer. We may record the IP addresses of visitors to the Site. While an IP address may reveal your ISP or geographic area, we cannot determine your identity solely based upon your IP address. Other web sites you visit have IP addresses, and we may collect the IP addresses of those web sites and their pages, but these IP addresses are never associated with specific Internet users. 
 
-We will share aggregated demographic information with our web site associates and advertisers. This is not linked to any personal information that can identify any individual person.
+**Public Forums  
+** Our Site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. In addition, your participation in any blog or community form through the Site is subject to the [Terms of Use](http://www.briggsandstratton.com/terms-and-conditions/). 
 
-### Links
+**HOW WE USE THE INFORMATION WE COLLECT**
 
-This web site contains links to other sites. Please be aware that we [BRIGGS & STRATTON CORPORATION] are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+We use the information we collect to serve our customers and improve their experience at the Site. Some examples include: 
 
-### Email Services/Newsletters
+• Fulfilling orders and requests for products, services or information   
+• Tracking and confirming online orders   
+• Improving customer service   
+• Marketing and advertising products and services   
+• Conducting research and analysis   
+• Establishing and managing your accounts with us   
+• Communicating about special events, sweepstakes, promotions and surveys   
+• Identifying you on our Site and tailoring messages and offers to you based on your interactions with us online   
+• Facilitating interactions with Briggs & Stratton and others, such as enabling you to email a link to a friend or post a link on Facebook   
+• Continuously evaluating and improving our online user experience 
 
-If you wish to subscribe to our Maintenance Reminder Email Service, or any email newsletters, we ask for contact information such as name and email address.
+**Surveys & Contests   
+**From time-to-time our Site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary, and you therefore have a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address) and demographic information (such as zip code or age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use of, and your satisfaction with, this Site. 
 
-### Surveys & Contests
+**Supplementation of Information  
+** In order for this Site to enhance its ability to tailor the Site to an individual's preference, we may combine information about the purchasing habits of users with similar information from our merchant partners to create a personalized user profile. When a user makes a purchase from our merchant partners, the companies collect and share that purchase information with us so we can tailor the Site to our users' preferences. 
 
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
+**Data Retention  
+** We will retain your information for as long as your account is active or as needed to provide you services, comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
-### Security
+**HOW WE SHARE THE INFORMATION WE COLLECT**
 
-This web site takes the following precautions to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line.
+We do not sell, rent or trade your personal information to third parties. Briggs & Stratton Corporation, or its subsidiaries or affiliates, are the owners of related brands, including but not limited to, Snapper, Simplicity, Brute, Murray, and Victa. As such, if you provide information on any of the websites owned or operated by Briggs & Stratton Corporation, or its subsidiaries or affiliates, this information may be combined or shared among other current or future Briggs & Stratton Corporation entities, including subsidiaries and affiliates. 
 
-All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, a customer service representative) are granted access to personally identifiable information. ALL employees are kept up-to-date on our security and privacy practices. Every time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage.
+We also will share your information with third-party service providers under contract with Briggs & Stratton Corporation, or its subsidiaries or affiliates, to help us provide services to you. Such third-party service providers include, for example, credit card payment processors, e-mail marketers, website analytics providers, and chat communications providers. We also will share your information with third parties who sell products or services that we believe might be of interest to you, such as independent dealers who sell our products and services and merchant partners who provide related products and services, such as gardening equipment or supplies. 
 
-### Supplementation of Information
+Sometimes we may be required to share personal information in response to a court order, subpoena, civil discovery request, or other legal process. We may disclose account and other personal information when we believe disclosure is appropriate to comply with the law or protect the rights, property, or safety of Briggs and Stratton Corporation, its subsidiaries or affiliates, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. We may disclose your personal information to prospective purchasers of any interest in Briggs & Stratton Corporation, its subsidiaries or affiliates, or their assets. 
 
-In order for this website to enhance its ability to tailor the site to an individual's preference, we may combine information about the purchasing habits of users with similar information from our merchant associates to create a personalized user profile. When a user makes a purchase from our merchant partners, the companies collect and share that purchase information with us so we can tailor the site to our users' preferences.
+**Third party links  
+** Occasionally, at our discretion, we may include or offer third-party products or services on our Site. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our Site and welcome any feedback about these other sites. 
 
-### Correction/Updating Personal Information
+**CALIFORNIA ONLINE PRIVACY PROTECTION ACT COMPLIANCE/YOUR CALIFORNIA PRIVACY RIGHTS**
 
-If your personally identifiable information changes (such as your zip code), or if you no longer desire our service, we will endeavor to provide a way to correct, update or remove the personal data you provided to us. This can usually be done at the My Engine Information page or by emailing our Customer Support.
+California residents who use this Site may request that we provide certain information regarding our disclosure of the user’s personal information to third parties for their direct marketing purposes. You can make such a request by [e-mail](http://www.briggsandstratton.com/engines/support/frequently-asked-questions/contact/) or by mail to:   
+Briggs & Stratton Corporate Headquarters   
+P.O. Box 702   
+Milwaukee, WI, 53201 
 
-### Choice/Opt-out
+**CHILDREN’S ONLINE PRIVACY PROTECTION ACT COMPLIANCE**
 
-Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our My Engine Information registration form has an 'opt-out' mechanism so users who use our personalization service, but don't want any marketing material, can keep their email address off of our lists.
+We do not collect any information from anyone under 13 years of age. Our Site, products and services are all directed to people who are at least 13 years old or older. If you are under the age of 13, you are not authorized to use this Site. 
 
-Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not.
+**HOW WE PROTECT THE INFORMATION WE COLLECT**
 
-### Notification of Changes
+We work to protect the security of your personal information. During transmission of personal information between you and our Site, we use Secure Sockets Layer (SSL) software to encrypt information you input. During the order process, we reveal only the last four digits of your credit card number when confirming an order. The entire credit card number is, of course, submitted to the appropriate credit card company during order processing, but we do not store your credit card information on our servers. 
 
-If we decide to change our privacy policy, we will post those changes on our home page so you are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by way of an email. You will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+All of our users' information is restricted in our offices. Only employees who need the information to perform a specific job (for example, a customer service representative) are granted access to personally identifiable information. All employees with access to personal information are kept up-to-date on our security and privacy practices. After a new policy is added, these employees are notified and/or reminded about the importance we place on privacy, and what they can do to enhance protection for our customers' information. Finally, the servers that we use to store personally identifiable information are kept in a secure, restricted access area. 
+
+**YOUR CHOICES REGARDING THE INFORMATION WE COLLECT**
+
+You may choose to:   
+• Stop receiving marketing or promotional e-mails by clicking the unsubscribe link in the e-mail   
+• Update and correct your personal information by logging into your profile via My Account and going to the 'My Profile' page 
+
+**HAVE QUESTIONS?**
+
+If you have any questions about our Privacy Policy, we'll do our best to answer them. Here's how to contact us: 
+
+**Mailing Address:  
+** Briggs & Stratton Corporate Headquarters   
+P.O. Box 702   
+Milwaukee, WI, 53201 
+
+**PRIVACY POLICY UPDATES**
+
+If we decide to materially change our Privacy Policy, we will post those changes on this page, and/or update the Privacy Policy modification date above. By using the Site after a change to this Policy has been posted, you agree to the change. We will not materially change this Policy in a way that makes it less protective of the personal information we have previously collected from you without your consent.
