@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the footballaustralia.com.au privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605072713id_/http%3A//www.footballaustralia.com.au/default.aspx%3Fs%3Dinsideffa_newsfeatures_newsitem_new%26id%3D9989) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballaustralia.com.au privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510060139id_/http%3A//www.footballaustralia.com.au/privacy) for the most accurate reproduction.*
 
-# Item
+# Privacy Policy | Football Federation of Australia
 
 **Football Federation Australia Limited (FFA)** recognises that privacy is important and that an individual has the right to control his or her Personal Information. FFA is committed to protecting the privacy of individuals on whom it collects Personal Information.
 
@@ -196,7 +196,7 @@ Football Administrators mean FFA, a Member Federation, a Competition Administrat
 
 Football Partners mean the any entity that has a partnership agreement with the FFA, Member Federation, Competition Administrator or Club (as the case requires) with which the Constituent has a direct relationship, including participation in a Competition.
 
-health information means:
+Health information means:
 
 (a) information or an opinion about:  
 (i) a Constituent’s health or a disability (at any time);  
