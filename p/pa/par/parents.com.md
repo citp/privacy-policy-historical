@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the parents.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219120914id_/http%3A//www.parents.com/parents/file.jsp%3Fitem%3Dlegal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parents.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510155136id_/http%3A//www.parents.com/parents/file.jsp%3Fitem%3Dlegal/privacy) for the most accurate reproduction.*
 
 # 
+
+**Our Online Privacy Policy will be updated effective April 5, 2012. Click[here](http://www.meredith.com/privacy.html) to view the new policy.**
 
   * Online Privacy Policy
   * [Offline Privacy Policy](http://www.parents.com/parents/file.jsp?item=/privacy/policy&temp=no)
