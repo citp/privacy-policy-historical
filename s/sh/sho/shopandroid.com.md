@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the shopandroid.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102212934id_/http%3A//store.androidcentral.com/content/customercare/page-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopandroid.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510183709id_/http%3A//www.shopandroid.com/content/customercare/page-privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy - Android Central Store
+# Privacy Policy - ShopAndroid
 
-The Android Central Store values your privacy, whether you just browse the Web Site or purchase products. We strive to make our privacy practices in keeping with the highest standards on the Web, and we hope you'll agree. This privacy policy describes the kinds of information we collect, how we collect it and how we use it. 
+ShopAndroid values your privacy, whether you just browse the Web Site or purchase products. We strive to make our privacy practices in keeping with the highest standards on the Web, and we hope you'll agree. This privacy policy describes the kinds of information we collect, how we collect it and how we use it. 
 
 **Contact Information**
 
 Our postal address is   
-Android Central Store  
+ShopAndroid  
 3151 E. Thomas St  
 Inverness, FL 34453
 
-We can be reached via e-mail at [ support@androidcentral.com](mailto:support@androidcentral.com) or you can reach us by telephone at (888) 468-6158
+We can be reached via e-mail at [ support@shopandroid.com](mailto:support@shopandroid.com) or you can reach us by telephone at (888) 468-6158
 
 **What we collect from each visitor**
 
