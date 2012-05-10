@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the societeperrier.com privacy policy that was archived on 2011-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110909232547id_/http%3A//societeperrier.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the societeperrier.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510035605id_/http%3A//societeperrier.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Société Perrier
 
@@ -10,7 +10,6 @@
   * [Fashion](https://web.archive.org/category/fashion)
   * [Travel](https://web.archive.org/category/travel)
   * [Cocktail Culture](https://web.archive.org/category/cocktail-culture)
-  * More
   * 
 
 
@@ -25,12 +24,12 @@
 
 
 
-Mirrorball Group LLC (“Company”) has created this consumer privacy policy statement in order to demonstrate our firm commitment to your privacy. The following discloses our practices regarding information collection and use solely for the web site located at www.societeperrier.com (the “Service”). By using or accessing or using the Service, you signify your agreement to be bound by our Privacy Policy. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY YOU MAY NOT ACCESS OR OTHERWISE USE THE SERVICE.
+Mirrorball Group LLC (“Company”) has created this consumer privacy policy statement in order to demonstrate our firm commitment to your privacy. The following discloses our practices regarding information collection and use solely for the web site located at www.societeperrier.com (the "Service"). By using or accessing or using the Service, you signify your agreement to be bound by our Privacy Policy. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY YOU MAY NOT ACCESS OR OTHERWISE USE THE SERVICE.
 
 ## Personal Information and Aggregate Information:
 
-You may provide us with your name, email address, and other personal information through your use of the Service (“Personal Information”).  
-In addition, we may also collect non-personally identifiable information, such as IP host address, web pages viewed, browser type and other data, and may aggregate any information collected in a manner which does not identify any individual (“Aggregate Information”).
+You may provide us with your name, email address, and other personal information through your use of the Service ("Personal Information").  
+In addition, we may also collect non-personally identifiable information, such as IP host address, web pages viewed, browser type and other data, and may aggregate any information collected in a manner which does not identify any individual ("Aggregate Information").
 
 ## Information Usage:
 
@@ -44,7 +43,7 @@ Aggregate Information may be shared with any number of parties, provided that su
 
 ## Cookies:
 
-“Cookies” are pieces of information that may be placed on your computer by a web site for the purpose of facilitating and enhancing your communication and interaction with that web site. Many web sites use cookies for these purposes. We may use cookies to customize your visit to the Service and for other purposes to make your visit more convenient or to enable us to enhance our service. You may stop or restrict the placement of cookies on your computer or flush them from your browser by adjusting your web browser preferences, in which case you may still use our Service, but it may interfere with some of its functionality. We do not use cookies to automatically retrieve personal information from your computer without your knowledge.
+"Cookies" are pieces of information that may be placed on your computer by a web site for the purpose of facilitating and enhancing your communication and interaction with that web site. Many web sites use cookies for these purposes. We may use cookies to customize your visit to the Service and for other purposes to make your visit more convenient or to enable us to enhance our service. You may stop or restrict the placement of cookies on your computer or flush them from your browser by adjusting your web browser preferences, in which case you may still use our Service, but it may interfere with some of its functionality. We do not use cookies to automatically retrieve personal information from your computer without your knowledge.
 
 ## Security:
 
@@ -72,13 +71,16 @@ United States of America: Our Service is maintained in the United States of Amer
 Effective Date: This privacy policy is effective and was last updated on May 15, 2011
 
   * [Global](https://web.archive.org/)
-  * [London](https://web.archive.org/london)
-  * [Moscow](https://web.archive.org/moscow)
-  * [Toronto](https://web.archive.org/toronto)
-  * [Los Angeles](https://web.archive.org/los-angeles)
   * [Mexico City](https://web.archive.org/mexico-city)
   * [New York](https://web.archive.org/new-york)
-  * [Montreal](https://web.archive.org/montreal)
+  * [Dubai](https://web.archive.org/dubai)
   * [Miami](https://web.archive.org/miami)
+  * [São Paulo](https://web.archive.org/sao-paulo)
+  * [London](https://web.archive.org/london)
+  * [Montreal](https://web.archive.org/montreal)
+  * [Tokyo](https://web.archive.org/tokyo)
+  * [Los Angeles](https://web.archive.org/los-angeles)
+  * [Moscow](https://web.archive.org/moscow)
+  * [Toronto](https://web.archive.org/toronto)
 
 
