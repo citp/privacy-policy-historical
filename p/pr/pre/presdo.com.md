@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the presdo.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101120743id_/http%3A//www.presdo.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presdo.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510102612id_/http%3A//www.presdo.com/about/privacy) for the most accurate reproduction.*
 
 # Presdo | Privacy Policy
 
 ### Privacy Policy
 
-Effective date: February 21, 2011
+Effective date: March 1, 2012
 
 #### 1\. Introduction
 
@@ -96,9 +96,9 @@ If you have any questions about this privacy policy, please first contact us at 
 You may also contact us at:
 
 Presdo, Inc.  
-2103 Landings Drive  
+465 Fairchild Drive, Suite 128  
 Mountain View, CA 94043  
-Phone: +1 650-625-9668  
+Phone: +1 951-9PRESDO (951-977-3736)  
 Email: [privacy@presdo.com](mailto:privacy@presdo.com?subject=Privacy%20Policy)
 
-Copyright © 2011 Presdo Inc. All rights reserved.
+Copyright © 2012 Presdo Inc. All rights reserved.
