@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searshomeservices.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218051946id_/http%3A//www.searshomeservices.com/shs/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searshomeservices.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510065305id_/http%3A//www.searshomeservices.com/shs/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
