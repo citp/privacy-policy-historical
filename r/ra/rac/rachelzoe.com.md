@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the rachelzoe.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902031400id_/http%3A//www.rachelzoe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rachelzoe.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510112217id_/http%3A//www.thezoereport.com/privacy) for the most accurate reproduction.*
 
-# Privacy | RachelZoe.com
+# Privacy | The Zoe Report
 
-Last Updated: June 30, 2009
+Last Updated: August 9, 2011
 
 **Introduction**
 
-Rachel Zoe Inc. strongly respects each individual’s right to personal privacy and we will only collect and use information through RachelZoe.com (the Web Site” or “RachelZoe.com”) or our on-line newsletter (“The Zoe Report”) for the purposes set forth in this policy.
+Zoe Media Group strongly respects each individual’s right to personal privacy and we will only collect and use information through TheZoeReport.com (the Web Site” or “TheZoeReport.com”) or our on-line newsletters (“The ZOE Report, ZOE Beautiful and AccessZOEries”) for the purposes set forth in this policy.
 
-Note: This statement applies solely to information collected at or through the Web Site. However, we will frequently link to other glamorous online destinations, so we advise you carefully review their respective privacy policies. Please be aware that Rachel Zoe Inc. is not responsible for the contents and the privacy practices of such other sites.
+Note: This statement applies solely to information collected at or through the Web Site. However, we will frequently link to other glamorous online destinations, so we advise you carefully review their respective privacy policies. Please be aware that Zoe Media Group is not responsible for the contents and the privacy practices of such other sites.
 
 **Information Collection and Usage**
 
-In compliance with our mission statement to glamorize your internet and e-mail experience, Rachel Zoe Inc. collects personal information through the Web Site at several points. For instance, to subscribe to The Zoe Report, we require your e-mail address and zip code (this trade-off is truly bananas). Rest-assured, Rachel Zoe Inc. does not collect any personal information that you do not expressly provide and will not sell, rent, or share your personal information to any third party for marketing purposes without your consent (that would be tacky).
+In compliance with our mission statement to glamorize your internet and e-mail experience, Zoe Media Group collects personal information through the Web Site at several points. For instance, to subscribe to The ZOE Report, ZOE Beautiful and AccessZOEries, we require your e-mail address and zip code (this trade-off is truly bananas). Rest-assured, Zoe Media Group does not collect any personal information that you do not expressly provide and will not sell, rent, or share your personal information to any third party for marketing purposes without your consent (that would be tacky).
 
 When you visit our site, we also collect anonymous information such as your IP address or domain name to analyze site traffic, but this information is not personally identifiable. We will use this information to help diagnose problems with our server, to administer our site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis.
 
@@ -24,7 +24,7 @@ Upon your request, we will provide you with a summary of the information we coll
 
 **How to Unsubscribe**
 
-You can unsubscribe from receiving Rachel Zoe Inc. emails at any time. You can unsubscribe by clicking on the “Unsubscribe” link in the footer of any Rachel Zoe Inc. email and following the instructions. You can also unsubscribe by clicking on the “Unsubscribe” link on the bottom of the Rachel Zoe Inc. homepage and following the instructions.
+You can unsubscribe from receiving Zoe Media Group emails at any time. You can unsubscribe by clicking on the “Unsubscribe” link in the footer of any Zoe Media Group email and following the instructions. You can also unsubscribe by clicking on the “Unsubscribe” link on the bottom of the Zoe Media Group homepage and following the instructions.
 
 **Third Party Advertising**
 
@@ -40,11 +40,11 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 **Security**
 
-All of the information collected by Rachel Zoe Inc. is locked away safely with our Birkin collection, and also on our restricted database server.
+All of the information collected by Zoe Media Group is locked away safely with our Birkin collection, and also on our restricted database server.
 
 **Modifications**
 
-Rachel Zoe Inc. may make changes to this policy in the future. We will reflect those changes in this statement, so please check back periodically.
+Zoe Media Group may make changes to this policy in the future. We will reflect those changes in this statement, so please check back periodically.
 
 **Contact Us**
 
