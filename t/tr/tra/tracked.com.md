@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tracked.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011103719id_/http%3A//hashable.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tracked.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510232431id_/http%3A//hashable.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Hashable.com
 
