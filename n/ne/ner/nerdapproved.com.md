@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nerdapproved.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210330id_/http%3A//nerdapproved.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nerdapproved.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510052234id_/http%3A//nerdapproved.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
