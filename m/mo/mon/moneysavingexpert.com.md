@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneysavingexpert.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101135317id_/http%3A//www.moneysavingexpert.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneysavingexpert.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510044948id_/http%3A//www.moneysavingexpert.com/privacy) for the most accurate reproduction.*
 
 # MoneySavingExpert Privacy Policy...
 
@@ -34,10 +34,10 @@ We do not monitor our forums or any of the communications between our users (e.g
 
 When you use our chat forums, we log the IP addresses of users' computers which we use solely for administration and trouble shooting purposes. 
 
-We use cookies (files which are sent by us to your computer or other access device):
+We use cookies (files which are sent by us to your computer or other access device)...
 
-  * in our chat forums, as they are part of the software that powers the chat forums and are needed to stay logged-in if you wish to post messages or reply to messages.
-  * On our main site to track the pages and articles visited. We use this information to see which items are (or are not) of greatest interest to MoneySavers.
+  * In our chat forums, as they are part of the software that powers the chat forums and are needed to stay logged-in if you wish to post messages or reply to messages.
+  * On our main site and in our chat forums to track the pages and articles visited. We use this information to see which items are (or are not) of greatest interest to MoneySavers.
 
 
 
