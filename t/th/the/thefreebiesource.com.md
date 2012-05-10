@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefreebiesource.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126152926id_/http%3A//www.thefreebiesource.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefreebiesource.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510143443id_/http%3A//www.thefreebiesource.com/about/privacy-policy) for the most accurate reproduction.*
 
 # The Freebie Source » Privacy Policy
 
