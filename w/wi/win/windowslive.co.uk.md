@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the windowslive.co.uk privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224214909id_/http%3A//privacy.microsoft.com/en-gb/fullnotice.mspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowslive.co.uk privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510200047id_/http%3A//privacy.microsoft.com/en-gb/fullnotice.mspx) for the most accurate reproduction.*
 
 # Microsoft Online Privacy Statement
 
-(last updated August 2011)  
+(last updated April 2012)  
 [view the privacy statement highlights](https://web.archive.org/EN-GB/default.mspx)
 
 ##### On This Page
@@ -129,9 +129,13 @@ Depending on the respective service, you may also have the option of proactively
 
 •| 
 
-The [Microsoft.com Profile Center](http://go.microsoft.com/?linkid=317027) allows you to choose whether you wish to receive marketing communications from Microsoft.com, to select whether Microsoft.com may share your contact information with selected third parties, and to subscribe or unsubscribe to newsletters about our products and services.   
+Microsoft’s [Promotional Communications Manager](http://go.microsoft.com/fwlink/?LinkId=243191) allows you to update contact information, manage Microsoft-wide contact preferences, opt out of subscriptions and choose whether to share your contact information with Microsoft partners. If you do not have a Windows Live ID, you can manage your Microsoft email communication preferences by using this [web form](http://go.microsoft.com/fwlink/?LinkId=243189).   
   
 ---|---  
+•| 
+
+The [Microsoft.com Profile Center](http://go.microsoft.com/?linkid=317027) allows you to choose whether you wish to receive marketing communications from Microsoft.com, to select whether Microsoft.com may share your contact information with selected third parties, and to subscribe or unsubscribe to newsletters about our products and services.   
+  
 •| 
 
 The [MSN & Windows Live Communications Preferences](https://accountservices.msn.com/MarketingPreference.srf?id=9&ru=https://accountservices.msn.com/PrivacySecurity.srf%3Fvv%3D30%26lc%3D1033&vv=30&lc=1033&bk=1118339927&dispmenu=1) page allows you to choose whether you wish to receive marketing material from MSN or Windows Live. You may subscribe and unsubscribe to MSN Newsletters by going to the [MSN Newsletters website](http://newsletters.msn.com/).   
