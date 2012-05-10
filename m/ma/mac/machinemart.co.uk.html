@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the machinemart.co.uk privacy policy that was archived on 2011-10-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111015134115id_/http%3A//www.machinemart.co.uk/pages/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the machinemart.co.uk privacy policy that was archived on 2012-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120510150729id_/http%3A//www.machinemart.co.uk/pages/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -20,7 +20,7 @@
 <div style="position:relative">
 <div id="headerEffect">
 <div id="store"><a href="/pages/stores"><img width="353px" height="86px" alt="Store" src="/images/design/empty1px.png"></a></div>
-<div id="logo"><a href="/"><img alt="Machine Mart" width="382px" height="86px" src="/images/design/empty1px.png"></a></div>
+<div id="logo"><a href="/"><img alt="Machine Mart" width="382px" height="68px" src="/images/design/empty1px.png"></a></div>
 </div>
 <div id="topMenu" class="level11">
 <dt class="tm leftAlign">
@@ -70,62 +70,62 @@
 </div>
 <div id="searchBar_t"><div id="searchBar_b">
 <div class="leftAlign" style="padding:3px 5px; width:99%;"> 
-									<script>
+											<script>
 
-										$().ready(function() {
+												$().ready(function() {
 
-											monkeyPatchAutocomplete();											
+													monkeyPatchAutocomplete();											
 
-											$('#keywords').autocomplete({
+													$('#keywords').autocomplete({
 
-												source: '/dynamic/search-hints.asp',
-												minLength: 2,
-												select: function (event, ui) {
+														source: '/dynamic/search-hints.asp',
+														minLength: 2,
+														select: function (event, ui) {
 
-													window.location = '/dynamic/search-autojump.asp?cat=' + ui.item.h + '&keywords=' + $('#keywords').val();
+															window.location = '/dynamic/search-autojump.asp?cat=' + ui.item.h + '&keywords=' + $('#keywords').val();
 
-												},
-												open: function() {
+														},
+														open: function() {
 
-													var t = $('.ui-autocomplete').offset().top;
-													var l = $('.ui-autocomplete').offset().left;
+															var t = $('.ui-autocomplete').offset().top;
+															var l = $('.ui-autocomplete').offset().left;
 
-													$('#autoCompleteCaption').css({
+															$('#autoCompleteCaption').css({
 
-														top: t + 3,
-														left: l + 9
+																top: t + 3,
+																left: l + 9
 													
-													}).show();
+															}).show();
 
-												},
-												close: function() {
+														},
+														close: function() {
 
-													$('#autoCompleteCaption').hide();
+															$('#autoCompleteCaption').hide();
+
+														}
+
+													});
+
+												});
+
+												function monkeyPatchAutocomplete() {
+										
+													$.ui.autocomplete.prototype._renderItem = function( ul, item) {
+
+														var _label = item.v;											
+														_label = _label.replace(new RegExp('(' + this.term + ')', 'gi'),'<span>$1</span>');
+
+														return $('<li></li>')
+															.data('item.autocomplete', item)
+															.append('<a>' + _label + '</a>')
+															.appendTo(ul);
+
+													};
 
 												}
 
-											});
-
-										});
-
-										function monkeyPatchAutocomplete() {
-										
-											$.ui.autocomplete.prototype._renderItem = function( ul, item) {
-
-												var _label = item.v;											
-												_label = _label.replace(new RegExp('(' + this.term + ')', 'gi'),'<span>$1</span>');
-
-												return $('<li></li>')
-													.data('item.autocomplete', item)
-													.append('<a>' + _label + '</a>')
-													.appendTo(ul);
-
-											};
-
-										}
-
-									</script>
-								 <div id="autoCompleteCaption">Categories matching your search</div>
+											</script>
+										 <div id="autoCompleteCaption">Categories matching your search</div>
 <form action="/shop/search" method="get" name="frmSearch" id="frmSearch" style="margin:0px;" class="leftAlign">
 <div class="font11em fontBold leftAlign topPadding3">SEARCH:</div>
 <div class="leftAlign"><input type="text" class="searchBox ui-autocomplete-input" name="keywords" id="keywords" onfocus="setValue(event, this);" onblur="setValue(event,this);" title="by Keyword" value="by Keyword" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true"><input type="hidden" name="type" id="type" value="any"></div>
@@ -158,12 +158,12 @@
 <div id="content" class="">
 <div id="breadcrumb"><span class="breadcrumblink"><a href="/">Home</a></span><span class="breadcrumbtext"> | Privacy Policy</span></div><div class="bottomMargin10" id="rightNavigation">
 <div id="rightHandNav" style="zoom: 1"><!-- CACHEINJECT_SHOPBASKETSUMMARY --><a style="margin-bottom: 2px;" href="/pages/stores?da=1&amp;TC=HPSB-Store-Finder"><img alt="store finder" src="/images/library/Store_Finder_Side_Banner.jpg"></a><div style="margin-bottom: 2px;"><img alt="Sales Online" src="/images/library/telesales.jpg"></div>
-<div style="margin-bottom: 2px;"><a href="/shop/categories/search/gift-cards?da=1&amp;TC=HPSB-XmasGiftCard"><img alt="Machine Mart Gift Card" src="/images/library/giftcardfixed.jpg"></a></div>
-<div style="margin-bottom: 2px;"><a href="/shop/categories/filter/machine-mart-xtra"><img alt="Machine Mart Xtra" src="/images/library/mm-xtra.jpg"></a></div>
-<div style="margin-bottom: 2px;"><a href="/pages/free-catalogue?da=1&amp;TC=HPSB-Catalogue"><img alt="Free Machine Mart Catalogue" src="/images/library/catalogue.jpg"></a></div>
-<div style="margin-bottom: 2px;"><a href="/" onclick="return fnShowVideo();"><img alt="TV Advert" src="/images/library/tvadvert.jpg"></a></div><a href="/pages/product-videos?da=1&amp;TC=HPSB-Video" title="Product videos" style="margin-bottom: 2px;"><img alt="product videos" src="/images/library/MachineMartProductVideos.jpg"></a><div style="margin-bottom: 2px;"><a href="/pages/competition"><img alt="Win £500 worth of tools and equipment" src="/images/library/win500.jpg"></a></div>
+<div style="margin-bottom: 2px;"><a href="/shop/categories/filter/x-machine-mart-xtra"><img alt="Machine Mart Xtra" src="/images/library/mm-xtra.jpg"></a></div>
+<div style="margin-bottom: 2px;"><a href="/pages/competition"><img alt="Win £500 worth of tools and equipment" src="/images/library/win500.jpg"></a></div>
+<div style="margin-bottom: 2px;"><a href="/" onclick="return fnShowVideo();"><img alt="TV Advert" src="/images/library/tvadvert.jpg"></a></div>
+<div style="margin-bottom: 2px;"><a href="/pages/free-catalogue?da=1&amp;TC=HPSB-Catalogue"><img alt="Free Machine Mart Catalogue" src="/images/library/catalogue.jpg"></a></div><a href="/pages/product-videos?da=1&amp;TC=HPSB-Video" title="Product videos" style="margin-bottom: 2px;"><img alt="product videos" src="/images/library/MachineMartProductVideos.jpg"></a><div style="margin-bottom: 2px;"><a href="/shop/categories/search/gift-cards?da=1&amp;TC=HPSB-XmasGiftCard"><img alt="Machine Mart Gift Card" src="/images/library/giftcardfixed.jpg"></a></div>
 <div style="margin-bottom: 2px;"><a href="http://www.facebook.com/pages/Machine-Mart/161933016613" title="Find us on Facebook" alt="Find us on Facebook" target="_blank"><img alt="Find us on Facebook" src="/images/library/facebook.jpg "></a></div>
-<div style="margin-bottom: 2px;"><a href="http://twitter.com/MachineMartUK" title="Follow us on Twitter" alt="Follow us on Twitter" target="_blank"><img alt="Follow us on Twitter" src="/images/library/twitter.gif"></a></div><a href="/shop/categories/filter/110-volt-tools--equipment?da=1&amp;TC=HPSB-110VRANGE" title="110 Volt Online Product Catalogue"><img alt="110 Volt Online Product Catalogue" src="/images/library/110VRange.jpg"></a></div>
+<div style="margin-bottom: 2px;"><a href="http://twitter.com/MachineMartUK" title="Follow us on Twitter" alt="Follow us on Twitter" target="_blank"><img alt="Follow us on Twitter" src="/images/library/twitter.gif"></a></div><a href="/shop/categories/filter/x-110-volt-tools--equipment?da=1&amp;TC=HPSB-110VRANGE" title="110 Volt Online Product Catalogue"><img alt="110 Volt Online Product Catalogue" src="/images/library/110VRange.jpg"></a></div>
 </div><div width="100%" id="insideContent" class="Large" style="background:url('/images/design/background_washedout.jpg') center repeat-y;">
 <div width="100%" style="background:url('/images/design/H1title_m.gif') top repeat-x;height:40px; margin-bottom:-11px; #margin-bottom:0px">
 <div class="border_tc" style="height:100%;">
@@ -218,7 +218,7 @@
 				"><span>
 				Your&nbsp;Recently&nbsp;Viewed&nbsp;Items
 				</span><div style="margin-top: 20px"></div>
-<div class="recentlyvieweditem" id="030710007" style="float:left;width:100px;"><a title="Remove" href="javascript:;" onclick="hideviewedDiv('030710007');" class="delete">
+<div class="recentlyvieweditem" id="060510122" style="float:left;width:100px;"><a title="Remove" href="javascript:;" onclick="hideviewedDiv('060510122');" class="delete">
 								x
 							</a><div style="clear:both"></div>
 <div style="
@@ -229,12 +229,12 @@
 								brwPic sidePadding15
 							" align="
 								left
-							"><a href="/shop/product/details/clarke-log-buster-7?da=1&amp;TC=RV-030710007"><img class="viewedPicHolder" width="83px" height="83px" alt="Cla" title="" src="/images/library/product/small/03/030710007.jpg"></a></div>
+							"><a href="/shop/product/details/cag122-grinder?da=1&amp;TC=RV-060510122"><img class="viewedPicHolder" width="83px" height="83px" alt="Cla" title="" src="/images/library/product/small/06/060510122.jpg"></a></div>
 <div align="center" style="float:left;">
-<div class="padding10 centerText" style="width:72px;margin-left:10px;"><a class="link_blue_CSS font08em" href="/shop/product/details/clarke-log-buster-7?da=1&amp;TC=RV-030710007" title="Clarke Log Buster 7 (230V)">Clarke Log Buster 7 (230V)</a></div>
+<div class="padding10 centerText" style="width:72px;margin-left:10px;"><a class="link_blue_CSS font08em" href="/shop/product/details/cag122-grinder?da=1&amp;TC=RV-060510122" title="Clarke CAG122- 115mm (4½&quot;) Angle Grinder (230V)">Clarke CAG122- 115mm (4½") Angle Grinder (230V)</a></div>
 </div>
 </div>
-<div class="recentlyvieweditem" id="000110844" style="float:left;width:100px;margin-left:15px;"><a title="Remove" href="javascript:;" onclick="hideviewedDiv('000110844');" class="delete">
+<div class="recentlyvieweditem" id="010311035" style="float:left;width:100px;margin-left:15px;"><a title="Remove" href="javascript:;" onclick="hideviewedDiv('010311035');" class="delete">
 								x
 							</a><div style="clear:both"></div>
 <div style="
@@ -245,12 +245,12 @@
 								brwPic sidePadding15
 							" align="
 								left
-							"><a href="/shop/product/details/tiger?da=1&amp;TC=RV-000110844"><img class="viewedPicHolder" width="83px" height="83px" alt="Air" title="" src="/images/library/product/small/00/000110844.jpg"></a></div>
+							"><a href="/shop/product/details/battery-charger-2?da=1&amp;TC=RV-010311035"><img class="viewedPicHolder" width="83px" height="83px" alt="Cla" title="" src="/images/library/product/small/01/010311035.jpg"></a></div>
 <div align="center" style="float:left;">
-<div class="padding10 centerText" style="width:72px;margin-left:10px;"><a class="link_blue_CSS font08em" href="/shop/product/details/tiger?da=1&amp;TC=RV-000110844" title="Airmaster Tiger 8/44 Air Compressor">Airmaster Tiger 8/44 Air Compressor</a></div>
+<div class="padding10 centerText" style="width:72px;margin-left:10px;"><a class="link_blue_CSS font08em" href="/shop/product/details/battery-charger-2?da=1&amp;TC=RV-010311035" title="Clarke BC210N Battery Charger &amp; Engine Starter">Clarke BC210N Battery Charger &amp; Engine Starter</a></div>
 </div>
 </div>
-<div class="recentlyvieweditem" id="060313180" style="float:left;width:100px;margin-left:15px;"><a title="Remove" href="javascript:;" onclick="hideviewedDiv('060313180');" class="delete">
+<div class="recentlyvieweditem" id="051016035" style="float:left;width:100px;margin-left:15px;"><a title="Remove" href="javascript:;" onclick="hideviewedDiv('051016035');" class="delete">
 								x
 							</a><div style="clear:both"></div>
 <div style="
@@ -261,12 +261,12 @@
 								brwPic sidePadding15
 							" align="
 								left
-							"><a href="/shop/product/details/cp180-1300w-sander-polisher-230v?da=1&amp;TC=RV-060313180"><img class="viewedPicHolder" width="83px" height="83px" alt="Cla" title="" src="/images/library/product/small/06/060313180.jpg"></a></div>
+							"><a href="/shop/product/details/psv1a-pump?da=1&amp;TC=RV-051016035"><img class="viewedPicHolder" width="83px" height="83px" alt="Cla" title="" src="/images/library/product/small/05/051016035.jpg"></a></div>
 <div align="center" style="float:left;">
-<div class="padding10 centerText" style="width:72px;margin-left:10px;"><a class="link_blue_CSS font08em" href="/shop/product/details/cp180-1300w-sander-polisher-230v?da=1&amp;TC=RV-060313180" title="Clarke CP180 - Electric Car Polisher &amp; Sander (1300W)">Clarke CP180 - Electric Car Polisher &amp; Sander (1300W)</a></div>
+<div class="padding10 centerText" style="width:72px;margin-left:10px;"><a class="link_blue_CSS font08em" href="/shop/product/details/psv1a-pump?da=1&amp;TC=RV-051016035" title="Clarke PSV1A Dirty Water Submersible Pump">Clarke PSV1A Dirty Water Submersible Pump</a></div>
 </div>
 </div>
-<div class="recentlyvieweditem" id="010416003" style="float:left;width:100px;margin-left:15px;"><a title="Remove" href="javascript:;" onclick="hideviewedDiv('010416003');" class="delete">
+<div class="recentlyvieweditem" id="051011002" style="float:left;width:100px;margin-left:15px;"><a title="Remove" href="javascript:;" onclick="hideviewedDiv('051011002');" class="delete">
 								x
 							</a><div style="clear:both"></div>
 <div style="
@@ -277,12 +277,12 @@
 								brwPic sidePadding15
 							" align="
 								left
-							"><a href="/shop/product/details/clarke-devil-6003-industrial-electric-fan-heat?da=1&amp;TC=RV-010416003"><img class="viewedPicHolder" width="83px" height="83px" alt="Cla" title="" src="/images/library/product/small/01/010416003.jpg"></a></div>
+							"><a href="/shop/product/details/clarke-pw2-2inch-petrol-driven-water-pump?da=1&amp;TC=RV-051011002"><img class="viewedPicHolder" width="83px" height="83px" alt="Cla" title="" src="/images/library/product/small/05/051011002.jpg"></a></div>
 <div align="center" style="float:left;">
-<div class="padding10 centerText" style="width:72px;margin-left:10px;"><a class="link_blue_CSS font08em" href="/shop/product/details/clarke-devil-6003-industrial-electric-fan-heat?da=1&amp;TC=RV-010416003" title="Clarke Devil 6003 Industrial Electric Fan Heater">Clarke Devil 6003 Industrial Electric Fan Heater</a></div>
+<div class="padding10 centerText" style="width:72px;margin-left:10px;"><a class="link_blue_CSS font08em" href="/shop/product/details/clarke-pw2-2inch-petrol-driven-water-pump?da=1&amp;TC=RV-051011002" title="Clarke PW2 2inch Petrol Driven Water Pump">Clarke PW2 2inch Petrol Driven Water Pump</a></div>
 </div>
 </div>
-<div class="recentlyvieweditem" id="080510320" style="float:left;width:100px;margin-left:15px;"><a title="Remove" href="javascript:;" onclick="hideviewedDiv('080510320');" class="delete">
+<div class="recentlyvieweditem" id="010311030" style="float:left;width:100px;margin-left:15px;"><a title="Remove" href="javascript:;" onclick="hideviewedDiv('010311030');" class="delete">
 								x
 							</a><div style="clear:both"></div>
 <div style="
@@ -293,9 +293,9 @@
 								brwPic sidePadding15
 							" align="
 								left
-							"><a href="/shop/product/details/clarke-heavy-duty-fruit-press-fp6b?da=1&amp;TC=RV-080510320"><img class="viewedPicHolder" width="83px" height="83px" alt="Cla" title="" src="/images/library/product/small/08/080510320.jpg"></a></div>
+							"><a href="/shop/product/details/jump-start-4000?da=1&amp;TC=RV-010311030"><img class="viewedPicHolder" width="83px" height="83px" alt="Cla" title="" src="/images/library/product/small/01/010311030.jpg"></a></div>
 <div align="center" style="float:left;">
-<div class="padding10 centerText" style="width:72px;margin-left:10px;"><a class="link_blue_CSS font08em" href="/shop/product/details/clarke-heavy-duty-fruit-press-fp6b?da=1&amp;TC=RV-080510320" title="Clarke FP6B Heavy Duty Fruit Press">Clarke FP6B Heavy Duty Fruit Press</a></div>
+<div class="padding10 centerText" style="width:72px;margin-left:10px;"><a class="link_blue_CSS font08em" href="/shop/product/details/jump-start-4000?da=1&amp;TC=RV-010311030" title="Clarke Heavy Duty Jump Start 4000">Clarke Heavy Duty Jump Start 4000</a></div>
 </div>
 </div>
 <div style="clear:left;overflow:hidden;"></div>
@@ -356,19 +356,19 @@
 </div>
 <div class="clearboth"></div>
 <tfooter></tfooter><table width="100%" border="0" cellpadding="0" cellspacing="0" style="
-						background-color: #153165;
-					">
+								background-color: #153165;
+							">
 <thead>
 <tr style="
-							background-color: #D6E1F7;
-						">
+									background-color: #D6E1F7;
+								">
 <td style="text-align:center;" class="link_BlueFoot bottomPadding5 topPadding5" colspan="9"><strong>Top Brands: </strong><a href="/shop/categories/filter/dewalt">Dewalt</a> | <a href="/shop/categories/filter/bosch">Bosch</a> | <a href="/shop/categories/filter/makita">Makita</a> | <a href="/shop/categories/filter/clarke">Clarke</a> | <a href="/shop/categories/filter/ryobi">Ryobi</a> | <a href="/shop/categories/filter/belle-group">Belle</a> | <a href="/shop/categories/filter/evolution">Evolution</a> | <a href="/shop/categories/filter/numatic">Numatic</a> | <a href="/shop/categories/filter/stanley">Stanley</a></td>
 </tr>
 </thead>
 <tbody>
 <tr style="
-							background-color: #2B61CB;
-						">
+									background-color: #2B61CB;
+								">
 <td width="9%">&nbsp;</td>
 <td class="link_whiteYellow bottomPadding5 topPadding5"><a href="/pages/delivery" rel="nofollow">Delivery</a></td>
 <td width="9%">&nbsp;</td>
@@ -380,62 +380,68 @@
 <td width="9%">&nbsp;</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td rowspan="3"></td>
 <td class="link_whiteYellow bottomPadding5 topPadding10"><a href="/pages/about-us">About Machine Mart</a></td>
-<td rowspan="2"></td>
+<td rowspan="3"></td>
 <td class="link_whiteYellow bottomPadding5 topPadding10"><a href="/pages/Press">Press Room</a></td>
-<td rowspan="2"></td>
+<td rowspan="3"></td>
 <td class="link_whiteYellow bottomPadding5 topPadding10"><a href="/pages/affiliates">Affiliates</a></td>
-<td rowspan="2"></td>
+<td rowspan="3"></td>
 <td class="link_whiteYellow bottomPadding5 topPadding10"><a href="/pages/careers-at-machine-mart">Careers at Machine Mart</a></td>
-<td rowspan="2"></td>
+<td rowspan="3"></td>
 </tr>
 <tr>
-<td class="link_whiteYellow"><a href="/pages/customer-service" rel="nofollow">Customer Services</a></td>
-<td class="link_whiteYellow"><a href="/pages/easy-ordering" rel="nofollow">Easy Ordering</a></td>
-<td class="link_whiteYellow"><a href="/pages/terms-conditions" rel="nofollow">Terms &amp; Conditions</a></td>
-<td class="link_whiteYellow"><a href="/pages/site-map">Site Map</a></td>
+<td class="link_whiteYellow bottomPadding5"><a href="/pages/customer-service" rel="nofollow">Customer Services</a></td>
+<td class="link_whiteYellow bottomPadding5"><a href="/pages/easy-ordering" rel="nofollow">Easy Ordering</a></td>
+<td class="link_whiteYellow bottomPadding5"><a href="/pages/terms-conditions" rel="nofollow">Terms &amp; Conditions</a></td>
+<td class="link_whiteYellow bottomPadding5"><a href="/pages/site-map">Site Map</a></td>
+</tr>
+<tr>
+<td class="link_whiteYellow"><a href="/device/mobile/pages/privacy-policy" rel="nofollow">Mobile Website</a></td>
+<td class="link_whiteYellow"></td>
+<td class="link_whiteYellow"></td>
+<td class="link_whiteYellow"></td>
 </tr>
 </tbody><tbody><tr>
 <td colspan="9" align="center" class="font085em fontWhite topPadding25 bottomPadding8">	
-							Copyright ©2011, Machine Mart Limited, 211 Lower Parliament Street, Nottingham NG1 1GN Tel: 0871 410 1250
-							<br></td>
+									Copyright ©2012, Machine Mart Limited, 211 Lower Parliament Street, Nottingham NG1 1GN Tel: 0871 410 1250
+									<br></td>
 </tr></tbody></table>
 </div>
 </div>
 </div><script language="JavaScript" type="text/javascript" src="/js/s_code.js"></script><div style="display:none"> 
-						<script language="JavaScript">
-						<!--
-						 
-						s.ios = 0;
-						mmhier = "Home | Privacy Policy";
-						mmhier = mmhier.replace(/\s*\|\s*/g,'|');
-						s.hier1=mmhier;
-						
-						
-						
-								s.pageName="Privacy Policy";
-							
-						//window.status = s.hier1;
-						 
-							var s_code=s.t();
-							if(s_code)document.write(s_code);
-							//-->
-							</script>
-						 <script language="JavaScript"> 
-							<!--
-							if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-							//-->
-						 </script></div><script type="text/javascript">
-					  var _gaq = _gaq || [];
-					  _gaq.push(['_setAccount', 'UA-153022-22']);
-					  _gaq.push(['_trackPageview']);
-			
-					  (function() {
-						var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-						ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-						(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
-					  })();
-					  </script><script src="https://www.dwin1.com/3131.js" type="text/javascript" defer=""></script><a name="footer"></a>
+				<script language="JavaScript">
+				<!--
+				 
+				s.ios = 0;
+				mmhier = "Home | Privacy Policy";
+				mmhier = mmhier.replace(/\s*\|\s*/g,'|');
+				s.hier1=mmhier;
+		
+		
+				
+						s.pageName="Privacy Policy";
+					
+				//window.status = s.hier1;
+				 
+					var s_code=s.t();
+					if(s_code)document.write(s_code);
+					//-->
+					</script>
+				 <script language="JavaScript"> 
+					<!--
+					if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+					//-->
+				 </script></div><script type="text/javascript">
+			  var _gaq = _gaq || [];
+			  _gaq.push(['_setAccount', 'UA-153022-22']);
+			  _gaq.push(['_trackPageview']);
+
+			  (function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+			  })();
+			  </script><script src="https://www.dwin1.com/3131.js" type="text/javascript" defer=""></script><a name="footer"></a>
 
 <ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 1; top: 0px; left: 0px; display: none;"></ul></body></html>
