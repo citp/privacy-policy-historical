@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the deskera.com privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101140614id_/http%3A//www.deskera.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the deskera.com privacy policy that was archived on 2012-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120510085629id_/http%3A//www.deskera.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -20,7 +20,7 @@
 <meta name="robots" content="index, follow">
 <title>Deskera Apps | Privacy Policy | Privacy Protection | Demo Login</title>
 
-<link rel="stylesheet" type="text/css" href="/templates/krawler_base/css/jquery.lightbox-0.5.css,deskera.css?v=21.06.11" media="screen">
+<link rel="stylesheet" type="text/css" href="/templates/krawler_base/css/jquery.lightbox-0.5.css,deskera.css?v=18" media="screen">
 <link rel="stylesheet" type="text/css" href="/components/com_mediasurvey4s/assets/css/survey.css" media="screen">
 <!--[if lte IE 6]>
 <link href="/templates/krawler_base/css/ie6.css" rel="stylesheet" type="text/css" />
@@ -36,20 +36,23 @@
 <![endif]-->
 
 <script type="text/javascript" src="/templates/krawler_base/js/jquery-1.2.6.min.js"></script>
-<script type="text/javascript" src="/templates/krawler_base/js/jquery.lightbox-0.5.js,jquery.simplemodal.js"></script>
+<script type="text/javascript" src="/templates/krawler_base/js/jquery.lightbox-0.5.js"></script>
 <script type="text/javascript" src="/components/com_mediasurvey4s/assets/js/validate/lib/jquery.metadata.js"></script>
-<!--<script type="text/javascript" src="/includes/js/jquery.simplemodal.js"></script>-->
+<script type="text/javascript" src="/includes/js/jquery.simplemodal.js"></script>
 <script type="text/javascript">
 //<![CDATA[
 jQuery.noConflict();
 		var imgpre=[];
-		imgpre[0]="/templates/krawler_base/images/banner.jpg";
-                imgpre[1]="/templates/krawler_base/images/home-logo.jpg";
-                imgpre[2]="/templates/krawler_base/images/top-nav-bg.jpg";
+		imgpre[0]="/images/banners/home-banner.jpg";
  		for(var i=0; i<imgpre.length; i++){		
 		var img = new Image();
 		img.src=imgpre[i];
 		}
+
+jQuery(document).ready(function(){
+     var elem = document.getElementById("loadwrapper");  
+     elem.style.display= "none";  
+});
 
  //]]>
  </script>
@@ -87,6 +90,13 @@ jQuery(document).ready(function() {
 });
 
  //]]>
+function selectsite(obj)
+ {   
+     if(jQuery("#ulid").css("display")=="none")
+         jQuery("#ulid").show();
+     else
+         jQuery("#ulid").hide();
+ }
 </script>
 
 <style type="text/css">
@@ -109,31 +119,50 @@ outline:none;
 
 </head>
 <body class="body-inner">
+
+<div class="load-wrapper" id="loadwrapper"></div>
+
 <div class="container-main">
-	<div id="system-info-message" style="display:none;">
-		
-	</div>
+<div style="display: none;" id="debug">
+            <input name="debugitem" type="hidden" value="2427">
+            
+            <div style="display:none;">
+                <div id="system-info-message">
+                    
+                </div>
+            </div>
+            <a id="system-info-message-link" href="#system-info-message" style="display: none;">Click</a>
+        </div>
+
+<div class="top-nav-wapper">
+<div class="top-menu">
+  <div id="primaryNavigation">
+    <ul>   <li><a href="/project-management">Project Management</a></li>   <li><a href="/crm">CRM</a></li>   <li><a href="/erp">ERP</a></li>   <li><a href="/hrms">HRMS</a></li>   <li><a href="/lms">LMS</a></li>   <li><a href="/leave-and-attendance-manager">eLeave</a></li>   <li><a href="/inventory">Inventory</a></li> <li><a href="/eclaims">eClaims</a></li>   <li><a href="/etraining">eTraining</a></li></ul>
+  </div>
+<form action="">
+                <dl id="sample" class="dropdown" onclick="selectsite(this)" style="float:right;">
+                    <dt><a href="#"><span><img class="flag" src="/images/us-drop.jpg" border="0" alt="USA Flag"></span></a></dt>
+                    <dd>
+                        <ul id="ulid"><li><a href="http://deskera.com.my" target="_blank"><img class="flag" src="/images/my-drop.gif" border="0" alt="My Flag"></a></li><li><a href="http://deskera.in" target="_blank"><img class="flag" src="/images/india-drop.gif" border="0" alt="India Flag"></a></li></ul>
+                    </dd>
+                </dl>
+</form>
+ <!--div class="toll-free-no"> Call Sales Toll Free: 888 808 5740 (M - F, 8am to 5pm, Pacific Time) </div-->
+</div>
+</div>
+
   <div class="container">
     <div class="wrapper">
       <div class="top-wrapper">
-        <div class="top-nav-wapper">
-          <div class="top-menu">
-            <!--div class="top-right-panel">
-<img alt="North America" style="vertical-align: middle;" src="/images/us.gif">&nbsp;(888) 808-5740&nbsp;&nbsp; </div-->
-            <div id="primaryNavigation">
-		<ul>   <li><a href="/project-management">Project Management</a></li>   <li><a href="/crm">CRM</a></li>   <li><a href="/erp">ERP</a></li>   <li><a href="/hrms">HRMS</a></li>   <li><a href="/lms">LMS</a></li>   <li><a href="/leave-and-attendance-manager">eLeave</a></li>   <li><a href="/inventory">Inventory</a></li> <li><a href="/eclaims">eClaims</a></li>   <li><a href="/etraining">eTraining</a></li></ul>
-            </div>
-          </div>
-        </div>
+      <div class="logo-nav-right-wapper">
         <a href="/./"> <span class="logo-left">&nbsp;</span> </a>
-        <div class="toll-free-no">&nbsp;
-           Call Sales Toll Free: 888 808 5740 (M - F, 8am to 5pm, Pacific Time)
-        </div>
+       
         <div class="logo-right">
           <div id="main_nav">
             <ul id="A" class="lavaLampWithImage"><li><a href="/./" class="mainlevel">HOME</a></li><li><a href="/pricing-and-signup" class="mainlevel">PRICING</a></li><li><a href="/faqs" class="mainlevel">FAQs</a></li><li><a href="/partner" class="mainlevel">PARTNER</a></li><li><a href="http://blog.deskera.com/" class="mainlevel">BLOG</a></li><li><a href="http://forum.deskera.com/" class="mainlevel">FORUM</a></li><li><a href="http://support.deskera.com/" class="mainlevel">SUPPORT</a></li><li><a href="/contact-us" class="mainlevel">CONTACT US</a></li></ul>
           </div>
         </div>
+      </div>
       </div>
       <div id="Privacy-banner">         <div class="sing-up-for-btn"><a href="/signup-and-pricing?view=interimpage"><img src="/images/sing-up-for-free.gif" border="0" alt="Deskera Sign Up"></a></div>       </div>
       <div class="middle-wrapper">
@@ -144,11 +173,11 @@ outline:none;
  <!--
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy43212 = 's&#117;pp&#111;rt' + '&#64;';
- addy43212 = addy43212 + 'd&#101;sk&#101;r&#97;' + '&#46;' + 'c&#111;m';
- var addy_text43212 = 's&#117;pp&#111;rt' + '&#64;' + 'd&#101;sk&#101;r&#97;' + '&#46;' + 'c&#111;m';
- document.write( '<a ' + path + '\'' + prefix + ':' + addy43212 + '\'>' );
- document.write( addy_text43212 );
+ var addy14312 = 's&#117;pp&#111;rt' + '&#64;';
+ addy14312 = addy14312 + 'd&#101;sk&#101;r&#97;' + '&#46;' + 'c&#111;m';
+ var addy_text14312 = 's&#117;pp&#111;rt' + '&#64;' + 'd&#101;sk&#101;r&#97;' + '&#46;' + 'c&#111;m';
+ document.write( '<a ' + path + '\'' + prefix + ':' + addy14312 + '\'>' );
+ document.write( addy_text14312 );
  document.write( '<\/a>' );
  //-->\n </script><a href="mailto:support@deskera.com">support@deskera.com</a> <script language="JavaScript" type="text/javascript">
  <!--
@@ -165,11 +194,11 @@ outline:none;
  <!--
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy91268 = 'l&#101;g&#97;l' + '&#64;';
- addy91268 = addy91268 + 'd&#101;sk&#101;r&#97;' + '&#46;' + 'c&#111;m';
- var addy_text91268 = 'l&#101;g&#97;l' + '&#64;' + 'd&#101;sk&#101;r&#97;' + '&#46;' + 'c&#111;m';
- document.write( '<a ' + path + '\'' + prefix + ':' + addy91268 + '\'>' );
- document.write( addy_text91268 );
+ var addy49537 = 'l&#101;g&#97;l' + '&#64;';
+ addy49537 = addy49537 + 'd&#101;sk&#101;r&#97;' + '&#46;' + 'c&#111;m';
+ var addy_text49537 = 'l&#101;g&#97;l' + '&#64;' + 'd&#101;sk&#101;r&#97;' + '&#46;' + 'c&#111;m';
+ document.write( '<a ' + path + '\'' + prefix + ':' + addy49537 + '\'>' );
+ document.write( addy_text49537 );
  document.write( '<\/a>' );
  //-->\n </script><a href="mailto:legal@deskera.com">legal@deskera.com</a> <script language="JavaScript" type="text/javascript">
  <!--
@@ -194,14 +223,20 @@ outline:none;
   <div class="footer">
     <div class="footer-text">
       <div class="footer-box">
-	<div class="footer-box-middle">   <div class="box-1">     <div class="box-6">       <div class="box-hd"><a href="/project-management">Deskera Project Management</a></div>       <div class="box-menu">         <ul>           <li><a href="/project-management/project-dashboard">Project Dashboard</a></li>           <li><a href="/project-management/project-planning">Project Planning</a></li>           <li><a href="/project-management/project-collaboration">Project Collaboration</a></li>           <li><a href="/project-management/project-reporting-and-analytics">Project Reporting and Analytics</a></li>           <li><a href="/project-management/resource-management">Resource Management</a></li>           <li><a href="/project-management/contact-management">Contact Management</a></li>           <li><a href="/project-management/project-administration">Project Administration</a></li>           <li><a href="/project-management/tour">Tour</a></li>           <li><a href="/project-management/pricing-and-signup">Pricing</a></li>           <li><a href="/project-management/faqs">FAQs</a></li>         </ul>       </div>     </div>     <div class="box-6">       <div class="box-hd"><a href="/crm">Deskera CRM</a></div>       <div class="box-menu">         <ul>           <li><a href="/crm/crm-dashboard">CRM Dashboard</a></li>           <li><a href="/crm/campaign-management">Campaign Management</a></li>           <li><a href="/crm/lead-management">Lead Management</a></li>           <li><a href="/crm/contact-management">Contact Management</a></li>           <li><a href="/crm/account-management">Account Management</a></li>           <li><a href="/crm/opportunity-management">Opportunity Management</a></li>           <li><a href="/crm/product-management">Product Management</a></li>           <li><a href="/crm/case-management">Case Management</a></li>           <li><a href="/crm/reports">Reports</a></li>           <li><a href="/crm/tour">Tour</a></li>           <li><a href="/crm/pricing-and-signup">Pricing</a></li>           <li><a href="/crm/faqs">FAQs</a></li>         </ul>       </div>     </div>     <div class="box-6">       <div class="box-hd"><a href="/erp">Deskera ERP</a></div>       <div class="box-menu">         <ul>           <li><a href="/erp/purchase-management">Purchase Management</a></li>           <li><a href="/erp/sales-and-billing-management">Sales and Billing Management</a></li>           <li><a href="/erp/vendor-management">Vendor Management</a></li>           <li><a href="/erp/customer-management">Customer Management</a></li>           <li><a href="/erp/product-management">Product Management</a></li>           <li><a href="/erp/account-management">Account Management</a></li>           <li><a href="/erp/financial-reports">Financial Reports</a></li>           <li><a href="/erp/tour">Tour</a></li>           <li><a href="/erp/pricing-and-signup">Pricing</a></li>           <li><a href="/erp/faqs">FAQs</a></li>         </ul>       </div>     </div>     <div class="box-6">       <div class="box-hd"><a href="/hrms">Deskera HRMS</a></div>       <div class="box-menu">         <ul>           <li><a href="/hrms/payroll-management">Payroll Management</a></li>           <li><a href="/hrms/recruitment-management">Recruitment Management</a></li>           <li><a href="/hrms/performance-appraisal">Performance Appraisal</a></li>           <li><a href="/hrms/timesheet-management">Timesheet Management</a></li>           <li><a href="/hrms/personnel-administration">Personnel Administration</a></li>           <li><a href="/hrms/employee-self-service">Employee Self Service</a></li>           <li><a href="/hrms/tour">Tour</a></li>           <li><a href="/hrms/pricing-and-signup">Pricing</a></li>           <li><a href="/hrms/faqs">FAQs</a></li>         </ul>       </div>     </div>     <div class="box-6">       <div class="box-hd"><a href="/lms">Deskera LMS</a></div>       <div class="box-menu">         <ul>           <li><a href="/lms/course-management">Course Management</a></li>           <li><a href="/lms/learning-content-management">Learning Content Management</a></li>           <li><a href="/lms/student-management">Student Management</a></li>           <li><a href="/lms/faculty-management">Faculty Management</a></li>           <li><a href="/lms/document-management">Document Management</a></li>           <li><a href="/lms/learning-collaboration">Learning Collaboration</a></li>           <li><a href="/lms/learning-portfolio-management">Learning Portfolio Management</a></li>           <li><a href="/lms/facility-management">Facility Management</a></li>           <li><a href="/lms/tour">Tour</a></li>           <li><a href="/lms/pricing-and-signup">Pricing</a></li>           <li><a href="/lms/faqs">FAQs</a></li>         </ul>       </div>     </div>     <div class="box-6">       <div class="box-hd"><a href="/leave-and-attendance-manager">Deskera Leave &amp; Attendance Manager</a></div>       <div class="box-menu">         <ul>           <li><a href="/leave-and-attendance-manager/leave-and-attendance-manager-dashboard">Leave &amp; Attendance Manager Dashboard</a></li>           <li><a href="/leave-and-attendance-manager/leave-and-attendance-manager-administration">Leave &amp; Attendance Manager Administration</a></li>           <li><a href="/leave-and-attendance-manager/leave-types">Leave Types</a></li>           <li><a href="/leave-and-attendance-manager/employee-self-service">Employee Self Service</a></li>           <li><a href="/leave-and-attendance-manager/manager-self-service">Manager Self Service</a></li>           <li><a href="/leave-and-attendance-manager/leave-and-attendance-manager-reports">Leave &amp; Attendance Manager Reports</a></li>           <li><a href="/leave-and-attendance-manager/tour">Tour</a></li>           <li><a href="/leave-and-attendance-manager/pricing-and-signup">Pricing</a></li>           <li><a href="/leave-and-attendance-manager/faqs">FAQs</a></li>         </ul>       </div>     </div>   </div>   <div class="box-1">     <div class="box-6">       <div class="box-hd"><a href="/inventory">Deskera Inventory</a></div>       <div class="box-menu">         <ul>           <li><a href="/inventory/item-master-management">Item Master Management</a></li>           <li><a href="/inventory/stock-management">Stock Management</a></li>           <li><a href="/inventory/cycle-count-management">Cycle Count Management</a></li>           <li><a href="/inventory/stockout-management">Stockout Management</a></li>           <li><a href="/inventory/checklist-management">Checklist Management</a></li>           <li><a href="/inventory/inventory-reports">Inventory Reports</a></li>           <li><a href="/inventory/tour">Tour</a></li>           <li><a href="/inventory/pricing-and-signup">Pricing</a></li>           <li><a href="/inventory/faqs">FAQs</a></li>         </ul>       </div>     </div>     <div class="box-6">       <div class="box-hd"><a href="/eclaims">Deskera eClaims</a></div>       <div class="box-menu">         <ul>           <li><a href="/eclaims/claims-administration">Claims Administration</a></li>           <li><a href="/eclaims/eclaims-reports">Claims Reports</a></li>           <li><a href="/eclaims/employee-self-service">Employee Self Service</a></li>           <li><a href="/eclaims/manager-self-service">Manager Self Service</a></li>           <li><a href="/eclaims/tour">Tour</a></li>           <li><a href="/eclaims/pricing-and-signup">Pricing</a></li>           <li><a href="/eclaims/faqs">FAQs</a></li>         </ul>       </div>     </div> <div class="box-6">       <div class="box-hd"><a href="/etraining">Deskera eTraining</a></div>       <div class="box-menu">         <ul>           <li><a href="/etraining/training-management">Training Management</a></li>           <li><a href="/etraining/training-content-management">Training Content Management </a></li>           <li><a href="/etraining/trainee-management">Trainee Management</a></li>           <li><a href="/etraining/trainer-management">Trainer Management</a></li>           <li><a href="/etraining/training-collaboration">Training Collaboration</a></li>           <li><a href="/etraining/educational-crm">Educational CRM </a></li>           <li><a href="/etraining/analytics">Analytics</a></li>           <li><a href="/etraining/facility-management">Facility Management</a></li>           <li><a href="/etraining/tour">Tour</a></li>           <li><a href="/etraining/pricing-and-signup">Pricing</a></li>           <li><a href="/etraining/faqs">FAQs</a></li>         </ul>       </div>     </div>   </div> </div>
-        <a href="/terms-service">Terms of Service</a> and <a href="/privacy-policy">Privacy Policy</a> | <a href="/sitemap">Sitemap</a> | <a href="http://www.deskera.in" target="_blank">Deskera.in</a>  <br>       ©  Deskera
+	<div class="footer-box-middle">   <div class="box-1">     <div class="box-6">       <div class="box-hd"><a href="/project-management">Deskera Project Management</a></div>       <div class="box-menu">         <ul>           <li><a href="/project-management/project-dashboard">Project Dashboard</a></li>           <li><a href="/project-management/project-planning">Project Planning</a></li>           <li><a href="/project-management/project-collaboration">Project Collaboration</a></li>           <li><a href="/project-management/project-reporting-and-analytics">Project Reporting and Analytics</a></li>           <li><a href="/project-management/resource-management">Resource Management</a></li>           <li><a href="/project-management/contact-management">Contact Management</a></li>           <li><a href="/project-management/project-administration">Project Administration</a></li>           <li><a href="/project-management/tour">Tour</a></li>           <li><a href="/project-management/pricing-and-signup">Pricing</a></li>           <li><a href="/project-management/faqs">FAQs</a></li>         </ul>       </div>     </div>     <div class="box-6">       <div class="box-hd"><a href="/crm">Deskera CRM</a></div>       <div class="box-menu">         <ul>           <li><a href="/crm/crm-dashboard">CRM Dashboard</a></li>           <li><a href="/crm/crm-campaign-management">Campaign Management</a></li>           <li><a href="/crm/crm-lead-management">Lead Management</a></li>           <li><a href="/crm/crm-contact-management">Contact Management</a></li>           <li><a href="/crm/crm-account-management">Account Management</a></li>           <li><a href="/crm/crm-opportunity-management">Opportunity Management</a></li>           <li><a href="/crm/crm-product-management">Product Management</a></li>           <li><a href="/crm/crm-support-and-service">Support and Service</a></li>           <li><a href="/crm/crm-sales-forecasting-and-reports">Sales Forecasting and Reports </a></li>           <li><a href="/crm/tour">Tour</a></li>           <li><a href="/crm/pricing-and-signup">Pricing</a></li>           <li><a href="/crm/faqs">FAQs</a></li>         </ul>       </div>     </div>     <div class="box-6">       <div class="box-hd"><a href="/erp">Deskera ERP</a></div>       <div class="box-menu">         <ul>           <li><a href="/erp/purchase-management">Purchase Management</a></li>           <li><a href="/erp/sales-and-billing-management">Sales and Billing Management</a></li>           <li><a href="/erp/vendor-management">Vendor Management</a></li>           <li><a href="/erp/customer-management">Customer Management</a></li>           <li><a href="/erp/product-management">Product Management</a></li>           <li><a href="/erp/account-management">Account Management</a></li>           <li><a href="/erp/financial-reports">Financial Reports</a></li>           <li><a href="/erp/tour">Tour</a></li>           <li><a href="/erp/pricing-and-signup">Pricing</a></li>           <li><a href="/erp/faqs">FAQs</a></li>         </ul>       </div>     </div>     <div class="box-6">       <div class="box-hd"><a href="/hrms">Deskera HRMS</a></div>       <div class="box-menu">         <ul>           <li><a href="/hrms/payroll-management-software">Payroll Management</a></li>           <li><a href="/hrms/recruitment-management-software">Recruitment Management</a></li>           <li><a href="/hrms/performance-management-and-appraisal">Performance Appraisal</a></li>           <li><a href="/hrms/timesheet-management">Timesheet Management</a></li>           <li><a href="/hrms/personnel-administration">Personnel Administration</a></li>           <li><a href="/hrms/employee-self-service">Employee Self Service</a></li>           <li><a href="/hrms/tour">Tour</a></li>           <li><a href="/hrms/pricing-and-signup">Pricing</a></li>           <li><a href="/hrms/faqs">FAQs</a></li>         </ul>       </div>     </div>     <div class="box-6">       <div class="box-hd"><a href="/lms">Deskera LMS</a></div>       <div class="box-menu">         <ul>         <li><a href="/lms/student-management-in-lms">Student Management</a></li>         <li><a href="/lms/faculty-management-in-lms">Faculty Management</a></li>         <li><a href="/lms/student-admissions-in-lms">Student Admissions </a></li>         <li><a href="/lms/examination-management-in-lms">Examination Management </a></li>         <li><a href="/lms/course-management-in-lms">Course Management</a></li>         <li><a href="/lms/learning-content-management-in-lms">Learning Content Management System</a></li>         <li><a href="/lms/bursary-financial-management-in-lms">Bursary - Financial Management </a></li>         <li><a href="/lms/virtual-classroom-in-lms">Virtual ClassRoom </a></li>         <li><a href="/lms/social-media-in-lms">Social Media </a></li>         <li><a href="/lms/campus-management-in-lms">Campus Management </a></li>         <li><a href="/lms/document-management-in-lms">Document Management </a></li>         <li><a href="/lms/learning-portfolio-management-in-lms">Learning Portfolio Management </a></li>           <li><a href="/lms/tour">Tour</a></li>           <li><a href="/lms/pricing-and-signup">Pricing</a></li>           <li><a href="/lms/faqs">FAQs</a></li>         </ul>       </div>     </div>     <div class="box-6">       <div class="box-hd"><a href="/leave-and-attendance-manager">Deskera Leave and Attendance Manager</a></div>       <div class="box-menu">         <ul>           <li><a href="/leave-and-attendance-manager/leave-and-attendance-manager-dashboard">Leave and Attendance Manager Dashboard</a></li>           <li><a href="/leave-and-attendance-manager/leave-and-attendance-manager-administration">Leave and Attendance Manager Administration</a></li>           <li><a href="/leave-and-attendance-manager/leave-types">Leave Types</a></li>           <li><a href="/leave-and-attendance-manager/employee-self-service">Employee Self Service</a></li>           <li><a href="/leave-and-attendance-manager/manager-self-service">Manager Self Service</a></li>           <li><a href="/leave-and-attendance-manager/leave-and-attendance-manager-reports">Leave and Attendance Manager Reports</a></li>           <li><a href="/leave-and-attendance-manager/tour">Tour</a></li>           <li><a href="/leave-and-attendance-manager/pricing-and-signup">Pricing</a></li>           <li><a href="/leave-and-attendance-manager/faqs">FAQs</a></li>         </ul>       </div>     </div>   </div>   <div class="box-1">     <div class="box-6">       <div class="box-hd"><a href="/inventory">Deskera Inventory</a></div>       <div class="box-menu">         <ul>           <li><a href="/inventory/item-master-management">Item Master Management</a></li>           <li><a href="/inventory/stock-management">Stock Management</a></li>           <li><a href="/inventory/cycle-count-management">Cycle Count Management</a></li>           <li><a href="/inventory/stockout-management">Stockout Management</a></li>           <li><a href="/inventory/checklist-management">Checklist Management</a></li>           <li><a href="/inventory/inventory-reports">Inventory Reports</a></li>           <li><a href="/inventory/tour">Tour</a></li>           <li><a href="/inventory/pricing-and-signup">Pricing</a></li>           <li><a href="/inventory/faqs">FAQs</a></li>         </ul>       </div>     </div>     <div class="box-6">       <div class="box-hd"><a href="/eclaims">Deskera eClaims</a></div>       <div class="box-menu">         <ul>           <li><a href="/eclaims/claims-administration">Claims Administration</a></li>           <li><a href="/eclaims/eclaims-reports">Claims Reports</a></li>           <li><a href="/eclaims/employee-self-service">Employee Self Service</a></li>           <li><a href="/eclaims/manager-self-service">Manager Self Service</a></li>           <li><a href="/eclaims/tour">Tour</a></li>           <li><a href="/eclaims/pricing-and-signup">Pricing</a></li>           <li><a href="/eclaims/faqs">FAQs</a></li>         </ul>       </div>     </div>     <div class="box-6">       <div class="box-hd"><a href="/etraining">Deskera eTraining</a></div>       <div class="box-menu">         <ul>           <li><a href="/etraining/course-management">Course Management</a></li>           <li><a href="/etraining/training-content-management">Training Content Management </a></li>           <li><a href="/etraining/assessment-management">Assessment Management</a></li>           <li><a href="/etraining/analytics">Analytics</a></li>           <li><a href="/etraining/trainee-management">Trainee Management</a></li>           <li><a href="/etraining/trainer-management">Trainer Management </a></li>           <li><a href="/etraining/training-collaboration">Training Collaboration</a></li>           <li><a href="/etraining/talent-management">Talent Management</a></li>           <li><a href="/etraining/tour">Tour</a></li>           <li><a href="/etraining/pricing-and-signup">Pricing</a></li>           <li><a href="/etraining/faqs">FAQs</a></li>         </ul>       </div>     </div>   </div> </div>
+        <div class="footer-copy-txt"> <a href="/terms-service">Terms of Service</a> and <a href="/privacy-policy">Privacy Policy</a> | <a href="/sitemap">Sitemap</a> <br> ©  Deskera  </div>
       </div>
   </div>
 </div>
+</div>
+
 
 
 <script type="text/javascript">
+function contactsalesform(){        
+            jQuery("#contact-box-form").modal();
+            jQuery("#contact-box-form").show();
+    }
 	jQuery(document).ready(function(){
 		var message = jQuery.trim(jQuery("#system-info-message").html());
 		if(message){
@@ -226,4 +261,7 @@ var pageTracker = _gat._getTracker("UA-3639449-5");
 pageTracker._trackPageview();
 } catch(err) {}</script>
 <script type="text/javascript">document.write(unescape("%3Cscript src='" + document.location.protocol + "//zopim.com/?JNuOtnI7jB5SakKTZgEZqOjhZuzDHJZR' charset='utf-8' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://zopim.com/?JNuOtnI7jB5SakKTZgEZqOjhZuzDHJZR" charset="utf-8" type="text/javascript"></script>
-</div></body></html>
+
+
+
+</body></html>
