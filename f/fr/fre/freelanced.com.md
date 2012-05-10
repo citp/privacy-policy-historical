@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freelanced.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011215050id_/http%3A//www.freelanced.com/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelanced.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510054214id_/http%3A//www.freelanced.com/help/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,8 +15,6 @@ In addition to the information you knowingly provide, Freelanced.com automatical
 We may use information we collect from you to: 1) provide you with personalized web-content; 2) process and respond to inquiries; 3) improve the content on the Website; 4) improve the navigability on the Website; 5) to enforce our Terms of Service agreement; and 6) for any reason that you provided the information to us.
 
 ## Personal Information
-
-The Freelanced.com website is a venue for users to connect with one another. Freelanced.com will provide the personal identifying information of registered users to other registered users, with the identified registered user’s consent, including the user’s email address in connection with facilitating a possible working relationship between registered users.
 
 You can contribute to the Freelanced.com in a number of different ways, including, but not limited to, uploading photos, participating in discussions, sending kudos, filling out your public profile, posting jobs, and voting on other users' contributions. We may store these contributions (your "Public Content"), display them to other users, and use them for promotional purposes. Note that if you include personally identifiable information in your Public Content, it can be used and viewed by others. We are not responsible for the information you choose to include in your Public Content.
 
