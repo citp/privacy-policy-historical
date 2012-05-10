@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the universalbusinesslisting.org privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007073428id_/https%3A//www.ubl.org/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universalbusinesslisting.org privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511011016id_/https%3A//www.ubl.org/Privacy.aspx) for the most accurate reproduction.*
 
 # 
 
