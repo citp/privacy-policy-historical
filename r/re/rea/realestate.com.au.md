@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realestate.com.au privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101152055id_/http%3A//www.realestate.com.au/cgi-bin/rsearch%3Fa%3Dv%26t%3Dres%26id%3D587) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realestate.com.au privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510141622id_/http%3A//www.realestate.com.au/cgi-bin/rsearch%3Fa%3Dv%26t%3Dres%26id%3D587) for the most accurate reproduction.*
 
 # Real Estate, Property, Land and Homes for Sale, lease and rent - realestate.com.au
 
@@ -73,6 +73,8 @@ We may disclose information held about you to the following types of organisatio
 
 We also disclose real estate agent contact details (which may include a profile photo) in association with listings or advertisements on the web site. 
 
+Please note that one of our third party suppliers is Google Inc, which supplies Maps API, a service that calculates directions between locations at the request of users of the web site. Google's privacy policy, as amended from time to time (currently located at [www.google.com/policies/privacy](http://www.google.com/policies/privacy)) is incorporated into this Privacy Policy. 
+
 ## Storage, Security and Processing
 
 We strive to ensure the security, integrity and privacy of personal information submitted to the web site, and we review and update our security measures in light of current technologies. Unfortunately, no data transmission over the internet can be guaranteed to be totally secure.  
@@ -87,9 +89,37 @@ You can also gain access to the personal information we hold about you, subject 
 
 ## Cookies
 
-Cookies are data that a web site transfers to an individual's hard drive for record-keeping purposes. Cookies, which are industry standard and are used by most web sites, including the web site, can facilitate a user's ongoing access to and use of a site. They allow us to customise the web site to your needs and serve targeted advertising.  
-All pages on the web site are coded with measurement software which is transparent to the user. The software makes use of an invisible image at the bottom of the web page. This software stores a "cookie" in the browser, which contains a unique string. This enables them to count the number of unique browsers to the web site. This information is collected and aggregated, and in no way does this unique identifier identify a user personally. We do not and will not marry any data collected with any personal information collected on our web sites. We use the independent companies, including [Neilsen/NetRatings](http://www.nielsen-online.com/) and [Omniture](http://www.omniture.com/) to measure and analyse the internet usage across our web sites. We also use an auditing system on our website in relation to internet usage measurement and/or analytics.  
+Cookies are data that a web site transfers to an individual's hard drive for record-keeping purposes. Cookies, which are industry standard and are used by most web sites, including this web site, can facilitate a user's ongoing access to and use of a site. All pages on the web site are coded with measurement software which is transparent to the user. The software makes use of an invisible image at the bottom of the web page. This software stores a "cookie" in the browser, which contains a unique string. This information is collected and aggregated, and in no way does this unique identifier identify a user personally.
+
+Cookies allow us to:
+
+  * count the number of unique browsers to the web site;
+  * customise the web site to your needs; and
+  * to serve targeted advertising.
+
+
+
+We use the independent companies, including [Neilsen/NetRatings ](http://www.nielsen-online.com/) and [Omniture ](http://www.omniture.com/en/) to measure and analyse the internet usage across our web sites. We also use an auditing system on our website in relation to internet usage measurement and/or analytics.
+
+We are a signatory to the Australian Best Practice Guideline for Online Behavioural Advertising. These Guidelines set out seven principles that must be followed when engaging in online behavioural (also known as interests based) advertising. You can view a copy of the Guidelines at the Australian Direct Marketing Association’s website [www.adma.com.au](http://www.adma.com.au/).
+
+When you visit any of these the realestate.com.au network of Australian sites (including this website, mobile sites and other websites with the realestate.com.au, realcommercial.com.au and realbusinesses.com.au header and/or footer), and the sites of our advertising partners (which may include third party websites), we may place one or more cookies on your computer in order to recognise your computer each time you visit these sites and/or are displayed advertising. These cookies allow us to collect certain information about your web browsing behaviour in order to select what advertisements to display to you and to determine the effectiveness of the advertisements. We use the information collected from your web browsing behaviour to make assumptions about your characteristics and the things you are interested in, and then display targeted advertising that we believe may be of interest to you. For example, we may select the advertisements we display based on certain interest categories that we have inferred based on:
+
+  * your online activity across the realestate.com.au network of Australian sites and our advertising partners’ websites, including pages you view and links you click;
+  * the search terms you enter using search engines and services, including on realestate.com.au, realcommercial.com.au and realbusinesses.com.au; and
+  * demographic or interest data, for example information that you have provided when creating an online account with us or one of our advertising partner websites (e.g. age, post code, gender).
+
+
+
+We also allow other ad serving networks to display advertisements the realestate.com.au network of Australian sites. In these instances code in our web pages direct our ad serving platform to call the advertisement from one of our ad serving networks. The companies in this network may also participate in behavioural advertising.
+
+We will not and do not marry any of this information that is collected via cookies with any of your personal information (i.e. information that could identify you, for example your name or email address). Your personally identifiable information is stored separately from the information collected for the purposes of behavioural advertising and the cookies used by us for behavioural advertising have an expiry date of no more than 2 years.
+
+## Cookie Choices
+
 If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature. However, you should note that cookies may be necessary to provide you with some features of our online services.
+
+If you do not want cookies to be used for behavioural advertising then you may control your advertising preferences via the REA Group opt out tool. For more information on your advertising choices, and how to use the REA Group opt out tool, please visit [www.youronlinechoices.com.au](http://www.youronlinechoices.com.au/). Here you can opt out of behavioural advertising for realestate.com.au and a number of other sites who are also signatories to the Australian Best Practice Guideline for Online Behavioural Advertising. When you opt out of behavioural advertising for realestate.com.au you are opted out of this form of advertising across the realestate.com.au network of Australian sites and advertising served by us on the sites of our advertising partners. If you opt out you can always opt in again at a later date via [www.youronlinechoices.com.au](http://www.youronlinechoices.com.au/).
 
 ## Links to Other Sites 
 
