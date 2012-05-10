@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fishingfordeals.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011011352id_/http%3A//www.fishingfordeals.com/forums/viewprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fishingfordeals.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511012519id_/http%3A//www.fishingfordeals.com/forums/viewprivacy.php) for the most accurate reproduction.*
 
 # Online shopping, discount shopping, coupon codes, and online coupons at Fishing for Deals: Privacy statement
 
