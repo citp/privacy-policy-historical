@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautyandbedlam.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230000135id_/http%3A//beautyandbedlam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautyandbedlam.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510062658id_/http%3A//beautyandbedlam.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Balancing Beauty and Bedlam
 
@@ -21,6 +21,7 @@ Some of our advertising partners may use cookies and web beacons on our site. Ou
   * Google Adsense
   * Gorilla Nation
   * Commission Junction
+  * Burst
 
 
 
