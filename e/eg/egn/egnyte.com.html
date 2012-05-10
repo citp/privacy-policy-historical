@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the egnyte.com privacy policy that was archived on 2011-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111206073714id_/http%3A//www.egnyte.com/corp/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the egnyte.com privacy policy that was archived on 2012-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120510074524id_/https%3A//www.egnyte.com/corp/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -39,7 +39,7 @@
 	}
 
 	function isMobileDevice(){
-		if(navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iTouch/i) 
+		if(navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iTouch/i) || navigator.userAgent.match(/Windows Phone/i)
 			|| ((navigator.userAgent.indexOf('Android') != -1) && (screen.width<=600 ||screen.height<=600)))
 		{
 		    return true;
@@ -67,8 +67,6 @@
 <script type="text/javascript" src="/common/js/jscript.js"></script>
 <script type="text/javascript" src="/corp_js/global.js"></script>
 <script type="text/javascript" src="/corp_js/default.js"></script>
-
-
 
 
 <!-- Begin Colorbox for Product Overview Video -->
@@ -143,74 +141,88 @@
   <div class="cntr"> <!-- Container div starts -->
   
     <div id="header">
-<div class="logo"><a href="/" title="Egnyte"><img src="/assets/images/shared/egnyte-logo.png" alt="Egnyte - Online Storage, FTP, File Sharing and File Backup"></a></div>
-
-<div class="topnav"> <div class="tel">1.877.734.6983</div><a href="#" onclick="showCustLoginBox();return false;">Customer Login</a><a href="/support/" class="lst">Support</a>   </div> 
-
-<div class="chromemenubdiv">
+	<div class="logo">
+		<a href="/" title="Egnyte">
+			<img src="/assets/images/shared/egnyte-logo.png" alt="Egnyte - Online Storage, FTP, File Sharing and File Backup">
+		</a>
+	</div>
+	<div class="topnav"> 
+		<div class="tel">
+			1.877.734.6983
+		</div>
+		<a href="#" onclick="showCustLoginBox();return false;">Customer Login</a>
+		<a href="/support/" class="lst">Support</a>   
+	</div> 
+	<div class="chromemenubdiv">
 			
 			<div class="chromestyle" id="chromemenu">
 			<ul>
-			<li id="hiw"><a href="/online-storage/online-storage-overview.html" rel="dropmenu_how-it-works">How It Works </a></li><li id="sol"><a href="/file-server/cloud-server-solutions.html" rel="dropmenu_solutions">Solutions </a></li><li id="res"><a href="/file-server/cloud-server-resources.html" rel="dropmenu_resources">Resources </a></li><li id="cus"><a href="/corp/customers.html" rel="dropmenu_customers">Customers </a></li><li id="pp"><a href="/corp/business_plans_and_pricing.html" rel="dropmenu_plans-and-pricing">Plans &amp; Pricing </a></li><li id="last"></li>			
+			<li id="hiw"><a href="/online-storage/online-storage-overview.html" rel="dropmenu_how-it-works">How It Works </a></li><li id="sol"><a href="/file-server/cloud-server-solutions.html" rel="dropmenu_solutions">Solutions </a></li><li id="res"><a href="/file-server/cloud-server-resources.html" rel="dropmenu_resources">Resources </a></li><li id="cus"><a href="/corp/customers.html" rel="dropmenu_customers">Customers </a></li><li id="pp"><a href="/corp/plans_pricing.html" rel="dropmenu_plans-and-pricing">Plans &amp; Pricing </a></li><li id="last"></li>			
 			</ul>			 
 			</div>
 			
 			<div id="dropmenu_plans-and-pricing" class="dropmenudiv">
-			<a href="/corp/business_plans_and_pricing.html"><span class="lgr">Professionals &amp; SMBs</span><br><span class="sml">(Up to 25 users)</span></a>
-			<a href="/corp/corporate_plans_and_pricing.html"><span class="lgr">Large organizations</span><br><span class="sml">(26 - 10,000+ users)</span></a>
+			<!--<a href="/corp/business_plans_and_pricing.html"><span class="lgr">Small business</span><br><span class="sml">(Up to 25 users)</span></a>
+			<a href="/corp/corporate_plans_and_pricing.html"><span class="lgr">Enterprise</span><br><span class="sml">(26 &ndash; 10,000+ users)</span></a>
+			-->
+			<a href="/corp/plans_pricing.html"><span class="lgr">View Plans</span><br><span class="sml">(5 – 10,000+ Employees)</span></a>
 			</div>
 			
 			<div id="dropmenu_how-it-works" class="dropmenudiv">
-			<a href="/online-storage/online-storage-overview.html">HybridCloud overview</a>
-			<!--<a href="/online-storage/online-storage-overview.html">Hybrid cloud</a>-->
-			<a href="/online-storage/local-cloud-features.html">Local Cloud</a>
-			<a href="/file-server/online-file-server.html">File server</a>
-			<a href="/file-sharing/online-file-sharing.html">File sharing</a>
-			<a href="/file-transfer/send-large-files-features.html">File transfer &amp; FTP</a>
-			<a href="/file-server/mobile-access.html">File access</a>
-			<a href="/backup/file-backup.html">File backup</a>
-			<a href="/file-server/centralized-administration.html">Centralized administration</a>
-			<a href="/file-server/security-privacy.html">Security &amp; privacy</a>
-            <a href="/file-server/online-file-server-features.html">Complete feature list</a>
+				<a href="/online-storage/online-storage-overview.html">HybridCloud Overview</a>
+				<a href="/online-storage/local-cloud-features.html">Local Cloud</a>
+				<a href="/file-server/online-file-server.html">File Server</a>
+				<a href="/file-sharing/online-file-sharing.html">File Sharing</a>
+				<a href="/file-transfer/send-large-files-features.html">File Transfer &amp; FTP</a>
+				<a href="/file-server/mobile-access.html">File Access</a>
+				<a href="/file-server/mobile-apps.html">Mobile Apps</a>
+				<a href="/backup/file-backup.html">File Backup</a>
+				<a href="/file-server/centralized-administration.html">Centralized Administration</a>
+				<a href="/file-server/security-privacy.html">Security &amp; Privacy</a>
+				<a href="/file-server/online-file-server-features.html">Complete Feature List</a>
 			</div>
             
-<div id="dropmenu_solutions" class="dropmenudiv">			
-			<a href="/file-server/small-companies.html">Small offices &amp; branch offices</a>
-			<a href="/file-server/large-organizations.html">Multi-office &amp; enterprise</a>
-			<a href="/file-server/sales-teams.html">Sales organizations</a>
-			<!--<a href="/file-server/industries.html">Industries</a>-->
-			<a href="/partners/partners-technology.html">Technology partners</a>
-			</div>
-	<div id="dropmenu_resources" class="dropmenudiv">	
-	<a href="/corp/sign_livedemo.html">Live Demo</a>
-    <a href="/file-server/videos.html">Videos</a>
-	<a href="/file-server/white-papers.html">White papers</a>
-    <a href="/corp/hardware_vs_egnyte_calculator.html">ROI calculator</a>
-    <a href="/file-server/compare.html">How we compare</a>
-	<a href="/corp/customers.html">Case studies</a>
-	<a href="/affiliates/egnyte-affiliates-program-overview.html">Affiliate program</a>
-	<a href="/resellers/">Reseller program</a>
-	<!--<a href="/developers/">Developer resources</a>-->
-	<a href="https://helpdesk.egnyte.com/categories/567-community-discussions" target="_blank">Forums</a>
-	<a href="/corp/faq.html">FAQs</a>
-	<a href="#" onclick="usePlan('company'); return false;">Free trial</a>
-		
-			</div>		
-			<div id="dropmenu_customers" class="dropmenudiv">
-			<a href="/corp/customers.html">Case studies</a>
-			<a href="/corp/testimonials.html">Testimonials</a>
+			<div id="dropmenu_solutions" class="dropmenudiv" style="width:210px">			
+				<a href="/file-server/small-companies.html">Small Businesses</a>
+				<a href="/file-server/large-organizations.html">Enterprises</a>
+				<a href="/file-server/sales-teams.html">Sales Organizations</a>
+				<!--<a href="/file-server/industries.html">Industries</a>-->
+				<a href="/file-server/apps-and-integrations.html">Third Party Apps &amp; Integrations</a>
 			</div>
 			
-		<!--	
-		 -->
+			
+			<div id="dropmenu_resources" class="dropmenudiv">	
+				<a href="/corp/sign_livedemo.html">Live Demo</a>
+				<a href="/file-server/videos.html">Videos</a>
+				<a href="/file-server/white-papers.html">White Papers</a>
+				<a href="/corp/hardware_vs_egnyte_calculator.html" target="_blank">ROI Calculator</a>
+				<a href="/file-server/compare.html">How We Compare</a>
+				
+				<a href="/affiliates/egnyte-affiliates-program-overview.html">Affiliate Program</a>
+				<a href="/resellers/" target="_blank">Reseller Program</a>
+				<!--<a href="/developers/">Developer resources</a>-->
+				<a href="https://helpdesk.egnyte.com/categories/567-community-discussions" target="_blank">Forums</a>
+				<a href="/corp/faq.html">FAQs</a>
+				<a href="#" onclick="usePlan('enterprise'); return false;">Free Trial</a>
+			</div>	
+			
+
+			<div id="dropmenu_customers" class="dropmenudiv">
+				<a href="/corp/customers.html">Case Studies</a>
+				<a href="/corp/testimonials.html">Testimonials</a>
+			</div>
+			
+			<!--	
+			 -->
 			
 			<script type="text/javascript">
 			cssdropdown.startchrome("chromemenu")
 			</script>
 			
 		</div>
-
-              <div class="btn-ft">No credit card required<a href="#" onclick="usePlan('company'); return false;">Free Trial</a></div>
+	<div class="btn-ft">
+		No credit card required<a href="#" onclick="usePlan('enterprise'); return false;">Free Trial</a>
+	</div>
 </div>
 
 
@@ -335,7 +347,7 @@
 		1890 N. Shoreline Blvd., 1st Floor<br>
 		Mountain View, CA 94043<br>
 		
-		<a href="inquiry@egnyte.com">inquiry@egnyte.com</a></p>
+		<a href="mailto:inquiry@egnyte.com">inquiry@egnyte.com</a></p>
 		
 		<p><small>Last Updated 06/29/2011</small></p>
 
@@ -440,7 +452,7 @@
 <span>Partners:</span> 
 <a href="/affiliates/egnyte-affiliates-program-overview.html">Affiliates</a>		
 <a href="/resellers/">Resellers</a> 
-<a href="/partners/partners-technology.html" id="lastl">Technology Partners</a>
+<a href="/file-server/apps-and-integrations.html" id="lastl">Third Party Apps &amp; Integrations</a>
 
 
 </div>
@@ -461,7 +473,7 @@
 
 <div class="ftr-c-nav">
   <div class="cntr">
-  © 2011 Egnyte, Inc. All rights reserved. <a href="/">Home</a><a href="/corp/privacy_policy.html">Privacy Policy</a><a href="/corp/terms_of_service.html">TOS</a><a href="/corp/site-map.html">Site Map</a><a href="/support/" id="lastl">Support</a>
+  © 2012 Egnyte, Inc. All rights reserved. <a href="/">Home</a><a href="/corp/privacy_policy.html">Privacy Policy</a><a href="/corp/terms_of_service.html">TOS</a><a href="/corp/site-map.html">Site Map</a><a href="/support/" id="lastl">Support</a>
 	</div>
 
 </div>
@@ -510,7 +522,7 @@
                   <li><a href="/online-storage/online-storage-overview.html">How it Works - Overview</a></li>
                   <li><a href="/file-server/online-file-server.html">As a File Server</a></li>
                   <li><a href="/ftp/ftp-server.html">As an FTP Server</a></li>
-                  <li><a href="/file-server/mobile-access.html">Mobile Access</a></li>
+                  <li><a href="/file-server/mobile-apps.html">Mobile Apps</a></li>
                   </ul>
       <ul>	
               
