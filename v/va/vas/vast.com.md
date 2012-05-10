@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vast.com privacy policy that was archived on 2011-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110824054230id_/http%3A//about.vast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vast.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510184617id_/http%3A//www.vast.com/about/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy « Vast
+# Privacy Policy - Vast
 
 This privacy policy addresses our data collection and use practices.  By continuing to use Vast.com, you agree to these terms.  This policy only applies to your use of the Vast.com website as an unregistered user.  This policy does not apply to our business partners, including our API partners.  Vast.com offers some users access to message boards, and this policy does not apply to those, either.  You have rights under California Civil Code §1798.83 to learn more about our disclosure of your personal data; to exercise those rights, contact [privacy@vast.com](mailto:privacy@vast.com).  The effective date of this policy is December 7, 2007.
 
