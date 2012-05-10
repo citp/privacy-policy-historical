@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burningshed.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220005931id_/http%3A//www.burningshed.com/index.asp%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burningshed.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510062359id_/https%3A//www.burningshed.com/index.asp%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Burning Shed: Specialist online music label and shop
 
@@ -19,7 +19,7 @@ The type of information we will collect about you includes:
 
 
 
-Please note that we do not personally hold credit and card details, as payments are securely processed by established online payment provider [Worldpay](http://www.worldpay.com/). 
+Please note that we do not personally hold credit and card details, as payments are securely processed by established online payment providers [Worldpay](http://www.worldpay.com/) and [Paypal](http://www.paypal.com/). 
 
 We will never collect sensitive information about you without your explicit consent. 
 
