@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ozgameshop.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101192547id_/http%3A//www.ozgameshop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozgameshop.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510194953id_/http%3A//www.ozgameshop.com/page/privacy) for the most accurate reproduction.*
 
-# ozgameshop.com Privacy Policy
+# Privacy Policy
 
 ## Background
 
