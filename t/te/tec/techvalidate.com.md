@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techvalidate.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117071102id_/http%3A//www.techvalidate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techvalidate.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510104215id_/http%3A//www.techvalidate.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy : TechValidate
+# Privacy Policy
 
 ## TechValidate Privacy Policy
 
@@ -14,7 +14,7 @@ TechValidate provides this Privacy Policy to inform you of our policies and proc
 
 This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site or through a message sent to your registered email address. Unless we provide you with separate notice and an opportunity to opt out, information will be treated in accordance with the policy that was in place when the information was collected.
 
-Information Collection and Use 
+##### Information Collection and Use
 
 Our primary goals in collecting information are to provide and improve our Site, Program and Services, to administer any registration or company and to enable users to enjoy, easily navigate and use the Site, Program and Services.
 
@@ -83,7 +83,7 @@ To this end, TechValidate may share Vendor Personal Information and IT Professio
 
 As a vendor or IT professional, you will have the opportunity to opt out of any such transfer if the new entity's planned processing of your Vendor Personal Information or IT Professional Personal Information (as applicable) differs materially from that set forth in this Privacy Policy.
 
-In addition, as a vendor, you will have the opportunity to opt out of any transfer of your IT Professional Personal Information if the new entity is a competitor in your line of business. 
+In addition, as a vendor, you will have the opportunity to opt out of any transfer of your IT Professional Personal Information if the new entity is a competitor in your line of business.
 
 ##### Changing or Deleting Your Information
 
