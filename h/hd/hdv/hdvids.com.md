@@ -1,133 +1,54 @@
-> *The following text is extracted and transformed from the hdvids.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429130956id_/http%3A//www.ddc.com/w3c/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdvids.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510072151id_/http%3A//www.hdvids.com/cimages/legal/privacy.html%3Fsite%3Dhdvids) for the most accurate reproduction.*
 
-# Privacy Statement for Domain Development Corporation
+# Privacy Policy Statement
 
-## About Us
+### Privacy Policy Statement
 
-This is a privacy policy for Domain Development Corporation. Our homepage on the Web is located at [ http://www.ddc.com](http://www.ddc.com/). The full text of our privacy policy is available on the Web at [ http://ddc.com/w3c/policy.html](http://ddc.com/w3c/policy.html). Domain Development Corporation allows the third party Domdex, Inc. to track users for the purpose of targeting advertisements. Domdex may allow third parties to monitor Domdex Affiliated Sites for the purpose of reporting website traffic, statistics, advertisements, "click-throughs" and/or other activities, and such third parties may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about Domdex users. The full text of Domdex's privacy policy is available on the Web at [ http://domdex.com/w3c/policy.html](http://domdex.com/w3c/policy.html) Users may go to <http://domdex.com/i> for information on what is being tracked. Users may go to [ http://domdex.com/w3c/optout.html](http://domdex.com/w3c/optout.html) for information on how to opt-in or opt-out of use of their information. 
+This website (the "Site") is operated by: 
 
-We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
-    
-    
-    28636 Roadside Drive
-    Suite 150
-    Agoura Hills, CA 91301 
-    USA
-    
+We can be reached via e-mail at [privacy@customerhelponline.com](mailto:privacy@customerhelponline.com)
 
-You may contact us by e-mail at [ support@ddc.com](mailto:support@ddc.com). You may call us at 800-332-8000. 
+This Privacy Policy Statement sets forth the policies and practices with respect to information or data gathered regarding subscribers and members of this Site. This is an adult Site that expressly and strictly limits its membership to adults. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents of this Site.
 
-## Dispute Resolution and Privacy Seals
+This Site does not knowingly seek or collect any personal information or data from persons under the age of 18.
 
-We have no privacy seals or other assurance mechanisms. 
+Notice - Use of Website by the Subscriber Constitutes the Subscriber's Express Assent to the Use of Personal Information Collected by Site.
 
-## Additional Information
+CAREFULLY READ THIS PRIVACY POLICY STATEMENT BECAUSE BY YOUR SUBSCRIPTION TO AND USE OF THIS SITE YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE TO THIS POLICY STATEMENT AND THAT YOU ASSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS POLICY STATEMENT.
 
-This policy is valid until 1 Jan, 2010 at 12:00:00 PST. 
+IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATEMENT YOU SHOULD NOT SUBSCRIBE TO OR USE THIS SITE.
 
-## Data Collection
+## Information Collected:
 
-P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 2 data groups. The data practices of each group will be explained separately. 
+**NON-REGISTERED MEMBER** : When any web user visits the site there is certain information that is collected in order to track and record visitor information and statistics. Unless the user volunatirly submits information this is limited to IP address information in order to track various statistics about the site based on all users. This information is held and shared by third parties for an unknown amount of time.
 
-* * *
+**REGISTERED MEMBER** : When any adult consumer signs-on as a member or subscriber of this Site that consumer will be required to provide certain personal as well as demographic information which may include, but is not necessarily limited to, the subscriber's name, address, e-mail address, username and password, and special interests or affiliations (ACCOUNT DATA). In addition to that information we may require certain credit card/payment information to allow us to process your transactions (FINANCIAL DATA) In order to better your experience on the site we may provide "cookies", track and store your IP address, etc in order to adjust the functionality of the site to your region (DEMOGRAPHIC DATA). This Site collects any and all such information and includes it in its customer database.
 
-### Group "Basic information"
+If the Site features or conducts any special events, special promotions or offers, contests or polls, a subscriber of the Site may be asked to provide information in order to participate, if the subscriber voluntarily provides that information, all such information may be collected by the Site and included in its customer database. 
 
-We collect the following information: 
+When a subscriber of this Site requests web pages from the Site's server or clicks on banners or other hypertext links, the Site will automatically collect some information or data about the subscriber, including the subscriber's IP address, the information that is collected may also indicate any special preferences or requests of the subscriber; all that information and data will be collected by the Site and included in its customer database.  
+If a subscriber sends any personal communication or correspondence, by any means, to the Site, or any of its employees, agents or representatives, the Site may collect any information regarding that communication and stores that information in its customer database.
 
-  * Click-stream data
-  * HTTP protocol elements
-  * Search terms
+## Use of Personal Information:
 
+ACCOUNT DATA-The information provided as account data is for the purpose of identifying the user and allow us access to a members account in order to test and confirm the functionality of various site features. You are responsible for the privacy and security of your password and account access information as this information should be kept secret from anyone besides it's intended user.
 
+FINANCIAL DATA- The site does not store any information related to the financial data provided by you the customer (ie. credit numbers, CVV2 codes or expiration dates). This information is passed on to our payment processing partners through a PCI compliant gateway. This information may be stored for the purpose of processing any and all charges that may be generated from your membership activities on this site.
 
-This data will be used for the following purposes:
+DEMOGRAPHIC DATA- We may use "cookies" and IP address information to better your experience on the site by allowing us to tailor your experience to the site according to your preferences, and what we think may appeal to you based on such demographic information. The "cookies" are set to track voting, session usage, and various other features that exist within the site. The IP address information is used to analyze traffic trends, perform regional customization and in some cases allow us to alter the presentation of the site to better match your demographics.
 
-  * Completion and support of the current activity.
-  * Web site and system administration.
-  * Research and development.
+## Security of Personal Information Collected by the Site:
 
+Consistent with the Policies set forth in this Privacy Statement, the Site has adopted and implemented reasonable and technologically feasible procedures for maintaining the security, accuracy and integrity of all personal information relating to subscribers that is collected by the Site.  All personal information will be secure and treated as confidential. No personal information will be shared with third parties without the customer's permission 
 
+## "OPT-IN" Provisions:
 
-This data will be used by ourselves and our agents. 
+There may be occasions when a subscriber will be presented with special offers either from the operators of the Site or from third-party service or content providers, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials (collectively referred to as "Offers").
 
-The following explanation is provided for why this data is collected:
+"OPT-IN" -- Some Offers may be presented to the subscriber with the option to express the subscriber's preference by either clicking or entering "accept" (alternatively "yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes" the subscriber indicates that the subscriber "OPTS-IN" to that Offer and thereby agrees and assents that the subscriber's personal information and data may be disclosed to third-parties.
 
-> Data collected from all Web users: access logs, and search strings (if entered).
+## Terms and Conditions of Membership:
 
-* * *
+Each subscriber should carefully read each of the terms and conditions of Membership of this Site. By accepting membership to this Site you are unconditionally accepting all of those terms and conditions. Some of those [terms and conditions](https://web.archive.org/web/20120510072151id_/http%3A//www.hdvids.com/cimages/legal/terms.html?site=hdvids) may also affect the right of this Site to use information that it has gathered from subscribers. 
 
-### Group "Cookies"
-
-At the user's option, we will collect the following data: 
-
-  * HTTP cookies
-
-
-
-This data will be used for the following purposes:
-
-  * Targetting advertisements
-  * Research and development.
-  * One-time tailoring.
-
-
-
-This data will be used by ourselves and our agents. Domdex may allow third parties to monitor our data for the purpose of reporting website traffic, statistics, advertisements, "click-throughs" and/or other activities, and such third parties may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about Domdex users. 
-
-The following explanation is provided for why this data is collected:
-
-> Cookies are used to track visitors to our site, so we can better understand what portions of our site best serve you and tailor advertisements served on our partner websites.
-
-* * *
-
-## Cookies
-
-Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. 
-
-Our site makes use of cookies. Cookies are used for the following purposes: 
-
-  * User targeting 
-  * Research and development 
-
-
-
-* * *
-
-## Compact Policy Summary
-
-The compact policy which corresponds to this policy is: 
-    
-    
-        CP="ALL CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT"
-    
-
-The following table explains the meaning of each field in the compact policy. 
-
-**Field**|  **Meaning**  
----|---  
-`CP=` | This is the compact policy header; it indicates that what follows is a P3P compact policy.  
-`ALL` |  Access to all collected information is available.   
-`CURa` |  The data is used for completion of the current activity.   
-`ADMa` |  The data is used for site administration.   
-`DEVa` |  The data is used for research and development.   
-`TAIa` |  The data is used for tailoring the site.   
-`OUR` |  The data is given to ourselves and our agents.   
-`BUS` |  Our business practices specify how long the data will be kept.   
-`IND` |  The data will be kept indefinitely.   
-`UNI` |  Unique identifiers are collected.   
-`COM` |  Computer information is collected.   
-`NAV` |  Navigation and clickstream data is collected.   
-`INT` |  Interactive data is collected.   
-  
-The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at <http://www.w3.org/TR/p3pdeployment>. 
-
-* * *
-
-## Policy Evaluation
-
-Microsoft Internet Explorer 6 will evaluate this policy's compact policy whenever it is used with a cookie. The actions IE will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium. In addition, IE will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. This section will attempt to evaluate this policy's compact policy against Microsoft's stated behavior for IE6. 
-
-**Note:** this evaluation is currently experimental and should not be considered a substitute for testing with a real Web browser. 
-
-**Satisfactory policy** : this compact policy is considered _satisfactory_ according to the rules defined by Internet Explorer 6. IE6 will accept cookies accompanied by this policy under the High, Medium High, Medium, Low, and Accept All Cookies settings. 
+In the event of any conflicts between the Membership Terms and Conditions and this Privacy Policy Statement, the provisions of this Privacy Policy shall control. 
