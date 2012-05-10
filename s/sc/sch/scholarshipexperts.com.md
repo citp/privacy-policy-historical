@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholarshipexperts.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127082312id_/http%3A//www.scholarshipexperts.com/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarshipexperts.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510201954id_/http%3A//www.scholarshipexperts.com/about/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - ScholarshipExperts.com
 
@@ -92,4 +92,4 @@ Alexandria, VA 22313
 
 Date last revised: January 19, 2009.
 
-_© Copyright WiseChoice Brands, LLC 2011. All rights reserved._
+_© Copyright WiseChoice Brands, LLC 2012. All rights reserved._
