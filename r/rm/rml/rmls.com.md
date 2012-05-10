@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rmls.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230133548id_/http%3A//www.rmls.com/RC2/UI/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rmls.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510142225id_/http%3A//www.rmls.com/RC2/UI/privacystatement.asp) for the most accurate reproduction.*
 
 # RMLS.com™ Regional Multiple Listing Service - Privacy Policy
 
@@ -17,8 +17,8 @@ If a member of the public contacts RMLS™ staff directly using the "contact web
 For more information about this Privacy Statement, contact RMLS™:
 
 RMLS™ Corporate Office  
-825 NE Multnomah #270  
-Portland, OR 97232  
+8338 NE Alderwood Road #230  
+Portland, OR 97220  
 503-236-7657 
 
-Version 1.1 8/27/04
+Version 1.1 3/22/12
