@@ -1,16 +1,14 @@
-<!--The following is the downloaded HTML source of the downloadjunction.com privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101140950id_/http%3A//www.downloadjunction.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the downloadjunction.com privacy policy that was archived on 2012-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120510094256id_/http%3A//www.downloadjunction.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <title>Download Junction - Download Software, Freeware, Shareware, Games</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="Content-Language" content="EN">
-<meta name="revisit-after" content="1 days">
-<meta name="robots" content="index, follow">
 <meta name="distribution" content="global">
 <meta name="resource-type" content="document">
-<meta http-equiv="Pragma" content="cache">
 <meta name="author" content="DownloadJunction.com">
+<link rel="shortcut icon" href="/resources/favicon.ico" type="image/x-icon">
 <link href="/resources/styles.css" rel="stylesheet" type="text/css">
 </head>
 
@@ -33,8 +31,7 @@
       alert('Please enter search text');
       theform.search_key.focus();
     } else {
-      document.location = '/privacy_policy/search.html' + 
-                            '?search_key=' + theform.search_key.value;
+      document.location = '/software/' + theform.search_key.value.toLowerCase().replace(/[^\w]+/g, '-') + '/';
     }
     return false;
   };
@@ -183,7 +180,11 @@ contact us</font></a><font color="#3F6E93"><br>
     </td>
   </tr>
 </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
 
 
 
-</td></tr></tbody></table></body></html>
+
+</body></html>
