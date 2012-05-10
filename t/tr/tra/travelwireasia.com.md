@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the travelwireasia.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231234154id_/http%3A//www.travelwireasia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelwireasia.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510035307id_/http%3A//www.travelwireasia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Travel Wire Asia
 
 **Consumer Privacy at TravelWire Asia, a Hybrid News Limited venture**
 
-At [TravelWireAsia.com](https://web.archive.org/web/20111231234154id_/http://www.travelwireasia.com/privacy-policy/TravelWireAsia.com) we appreciate your readership and value your personal privacy. We respect the personal nature of the information you provide us on our web site and acknowledge the importance of protecting this information. In adopting this privacy policy, our intent is to balance our legitimate business interests in collecting and using your personal information with your reasonable expectations of privacy.
+At [TravelWireAsia.com](https://web.archive.org/web/20120510035307id_/http://www.travelwireasia.com/privacy-policy/TravelWireAsia.com) we appreciate your readership and value your personal privacy. We respect the personal nature of the information you provide us on our web site and acknowledge the importance of protecting this information. In adopting this privacy policy, our intent is to balance our legitimate business interests in collecting and using your personal information with your reasonable expectations of privacy.
 
 For a summary of our activities visit [www.hybridnewsgroup.com](http://www.hybridnewsgroup.com/).
 
@@ -40,7 +40,7 @@ We may use information to:
   * Manage your account and your preferences;
   * Analyze use of and improve our website, products and services;
   * Identify and protect against fraudulent transactions and other misuses of our website; and
-  * Enforce our [Terms](http://www.travelwireasia.com/terms/ "Terms") of Use.
+  * Enforce our Terms of Use.
 
 
 
@@ -58,7 +58,7 @@ We may share aggregated, non-personal information in any of the above situations
 You may choose:
 
   * Not to provide personal information, although that may result in your inability to obtain certain services or use certain features of our website;
-  * To stop receiving promotional e-mails or newsletters from us by sending an e-mail to the [contact](http://www.travelwireasia.com/contact/ "contact") address at the bottom of this policy or by visiting the [opt out page](http://www.thedailybeast.com/privacy-policy/)
+  * To stop receiving promotional e-mails or newsletters from us by sending an e-mail to the contact address at the bottom of this policy or by visiting the [opt out page](http://www.thedailybeast.com/privacy-policy/)
   * To delete or decline [cookies](http://www.thedailybeast.com/privacy-policy/#cookies) by changing your browser settings, although if you do so, some of the features or services of our website may not function properly;
   * To review and update your personal information by contacting us at the e-mail address below or, if you have an online account on our website, by logging into that account.
   * To learn about additional choices, click [here](http://www.thedailybeast.com/full-privacy-policy/#choices).
