@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatsabyte.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124075708id_/http%3A//whatsabyte.com/P1/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatsabyte.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511014438id_/http%3A//www.whatsabyte.com/P1/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for the What's A Byte Website
 
@@ -74,4 +74,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 **How To Contact Us:**
 
-Should you have other questions or concerns about these privacy policies, send us an email at [randy@whatsabyte.com](mailto:randyy@whatsabyte.com). 
+Should you have other questions or concerns about these privacy policies, send us an email at [randy@whatsabyte.com](mailto:randy@whatsabyte.com). 
