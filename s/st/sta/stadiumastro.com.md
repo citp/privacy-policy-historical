@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the stadiumastro.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223013743id_/http%3A//www.astro.com.my/portal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stadiumastro.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511005703id_/http%3A//www.astro.com.my/portal/privacy-policy) for the most accurate reproduction.*
 
 # Astro.com.my Portal - Privacy Policy
+
+### Privacy Policy
 
 **This Privacy Policy was last updated on 18 th May 2010**
 
