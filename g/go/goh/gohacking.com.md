@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gohacking.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124173057id_/http%3A//www.gohacking.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gohacking.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510032723id_/http%3A//www.gohacking.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Go Hacking
 
@@ -36,5 +36,3 @@ By using our site, you consent to our privacy policy.
 
 **Changes to our Privacy Policy**  
 If we decide to change our privacy policy, we will post those changes on this page.
-
-Popularity: 1% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
