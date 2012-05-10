@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clickwebinar.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101225608id_/http%3A//www.clickwebinar.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickwebinar.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510225333id_/http%3A//www.clickwebinar.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Video Conferencing, Web Conference - Privacy Policy - ClickMeeting
+# Privacy policy - ClickWebinar
 
 ## Privacy Policy
 
@@ -8,7 +8,7 @@ Implix realizes that you care how your information is processed and shared, and 
 
 Any personal information provided or acquired by Implix is controlled primarily by **Implix Ltd, ul.Arkońska 6, A3,80-387 Gdańsk, Poland, hereinafter referred to as "Implix".**
 
-This Privacy Policy statement discloses the privacy practices for ClickMeeting (http://www.clickmeeting.com), a site hosted by Implix.
+This Privacy Policy statement discloses the privacy practices for ClickMeeting (https://...), a site hosted by Implix.
 
 We believe it is important to you, the user, to know how we treat the information about you which we receive during your visits to our site. This Privacy Policy is designed to assist you in understanding how we collect, disclose, and safeguard the aggregate information we receive when you visit and browse our website. We encourage you to take the time to read this Privacy Policy as well as those of any other sites you visit, whether through a link on that site or otherwise.
 
@@ -24,11 +24,11 @@ We may also ask users to provide additional personal information such as (i) com
 
 The user's email address can be used to send them newsletters from Implix. Users can opt out of such emails at anytime by contacting us, but they will still receive emails such as receipts, confirmation emails and customer service updates, and other necessary information to provide the service to the user.
 
-Implix shall use all reasonable endeavors to give the user free access to their personal information in an appropriate scope. The user may change or delete their personally identifiable information at any time by [contacting us](http://www.clickmeeting.com/contact_us.html) and clearly indicating that they wish to change or deactivate and delete such information.
+Implix shall use all reasonable endeavors to give the user free access to their personal information in an appropriate scope. The user may change or delete their personally identifiable information at any time by [contacting us](http://www.clickwebinar.com/contact_us.html) and clearly indicating that they wish to change or deactivate and delete such information.
 
 The user agrees and acknowledges that their information collected through this Site and related Services or in connection with the ClickMeeting Service may be transferred across national boundaries and stored and processed in any of the countries around the world in which Implix maintains offices, including the United States.
 
-ClickMeeting in-meeting information is encrypted from the beginning till the end and only accessible by the meeting organizer and participants. "In-meeting information" includes all screen sharing data and chat information. Information about scheduled meetings and meetings such as time, organizer, subject of meeting, are placed on our Web site www.clickmeeting.com and are available to the meeting organizer and logged participants that received an invitation from the organizer via email or other means of communication.
+ClickMeeting in-meeting information is encrypted from the beginning till the end and only accessible by the meeting organizer and participants. "In-meeting information" includes all screen sharing data and chat information. Information about scheduled meetings and meetings such as time, organizer, subject of meeting, are placed on our Web site www…. and are available to the meeting organizer and logged participants that received an invitation from the organizer via email or other means of communication.
 
 Information that is provided by meeting organizers such as: Participant name, email address and any other business contact and meeting subject contact **are considered confidential to the purchaser of the meeting**. When the meeting attendee registers with one of our users for an online transmission, that information is provided to the meeting organizer. Implix may store that information to fulfill our obligations to our users. Implix will not use the information to send marketing information for Implix services or third party offers to attendees. The user should be aware that any personally identifiable information they submit while in-session and chatting can be read, collected or used by the meeting organizer and other meeting participants. Implix will not view information except as necessary to appropriately support the service.
 
