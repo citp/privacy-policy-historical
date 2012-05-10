@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winhundred.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226231557id_/http%3A//winhundred.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winhundred.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510092804id_/http%3A//winhundred.com/privacy.htm) for the most accurate reproduction.*
 
 # WinHundred LLC Privacy Policy
 
@@ -21,6 +21,8 @@ We also reserve the right to release current or past user information in the eve
 By registering at the Site, you agree that such act constitutes an inquiry and/or application for purposes of the Amended Telemarketing Sales Rule (16 CFR §310 et seq.), as amended from time to time (the “Rule”) and applicable state do-not-call regulations. As such, notwithstanding that your telephone number may be listed on the Federal Trade Commission’s Do-Not-Call List, and/or on applicable state do-not-call lists, we retain the right to contact you via telemarketing in accordance with the Rule and applicable state do-not-call regulations.
 
 In addition, by submitting your personal information at the Site, you agree to receive mobile marketing including, but not limited to, text-message based marketing, from us and our third party advertisers and marketers (where, and to the extent that, such marketing is permitted by applicable law). As such, notwithstanding that your mobile telephone number may be listed on state and/or federal Do-Not-Call registries, we retain the right to contact you via text-message based marketing in accordance with applicable state and federal law. Further, you agree that we reserve the right to share, sell, rent, lease and/or otherwise distribute your mobile telephone and other mobile data with/to any third-party for any and all non-marketing uses permitted by this Privacy Policy and applicable law.
+
+We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp> . 
 
 **Non-Personally Identifiable Information**
 
@@ -57,3 +59,5 @@ We reserve the right, in our sole discretion, to change, modify, add and/or remo
 **Contact Us**
 
 If you have any questions regarding this statement, or would like more information on our privacy practices, please contact us at [**support@myfastonlinesupport.com**](mailto:support@myfastonlinesupport.com).
+
+Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable customized ads or content. No personally identifiable information is placed into these cookies. The cookies may reflect de-identified demographic or other data linked to data you have submitted to us, e.g., your email address, in hashed, non-human readable form. To opt-out of these cookies, please go to <http://www.aboutads.info/choices>. 
