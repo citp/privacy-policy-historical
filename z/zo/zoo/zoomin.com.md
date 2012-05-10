@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoomin.com privacy policy that was archived on 2011-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111027215449id_/http%3A//www.zoomin.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoomin.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510142120id_/http%3A//www.zoomin.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -73,3 +73,29 @@ Please remember that when you use a link to go from the Site to another web site
 ###  Your Consent.
 
 By using the Site you consent to our collection and use of your personal information as described in this Privacy Policy. If the Publisher changes its Privacy Policy and procedures, the Publisher will post those changes on the Site to keep you aware of what information the Publisher collects, how such information is used and under what circumstances the Publisher may disclose it.
+
+### Postcards from Zoomin
+
+Your privacy matters and is very important to us. We implement strict policies to ensure the privacy and security of personal information that we may collect on Postcards from Zoomin.
+
+By using Postcards from Zoomin on Facebook, you consent to the collection and use of your information as outlined in this privacy policy. Since this policy may be updated from time to time, please visit this section periodically to review any changes to the Privacy Policy.
+
+### Information Collection
+
+When you use Postcards from Zoomin, our servers gain access to information about you from Facebook, including but not limited to your profile, birth-date, name, gender, photos, and friend lists. This data is then analyzed and rendered to you in accordance with the Postcards from Zoomin’s purpose and design.
+
+We do not collect or have access to Facebook usernames and passwords. However, we store your Facebook user id (which is numerical) to associate your Facebook profile with relevant information used to process a postcard.
+
+Any images that are selected by you for use by Postcards from Zoomin are uploaded on our servers. These images remain private to you only and are not available publicly until you post them to your Facebook wall/profile/feed.
+
+### Certain Disclosures
+
+The information we collect may be disclosed if required to do so by law or if we believe that such action is necessary to (a) conform to the law or comply with legal process served on Zoomin or its Affiliated Parties; (b) protect and defend Zoomin’s rights and property, the Site, the users of the Site, and/or its Affiliated Parties; or (c) act under circumstances to protect the safety of Users of the Site, the Publisher, or third parties. We may also have to disclose information to Facebook in case they require anything, because our apps run on the Facebook platform.
+
+### Prohibitions
+
+You may not use any content that is deemed prohibited by Facebook. Such content includes but is not limited to photos that indicate alcohol content; are hateful, threatening, defamatory, or pornographic; incite violence; or contain nudity or graphic or gratuitous violence. We reserve the right to delete any such images, and deny services to such users. We also reserve the right to report such offenses to the appropriate authorities.
+
+We reserve the right to change this Privacy Policy and any other guidelines at any time, so please check periodically for changes.
+
+If you have any questions or concerns regarding this policy, please write to our support desk at [http://help.zoomin.com](http://help.zoomin.com/). 
