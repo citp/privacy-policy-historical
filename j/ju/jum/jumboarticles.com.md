@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jumboarticles.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101232150id_/http%3A//www.jumboarticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumboarticles.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510051631id_/http%3A//www.jumboarticles.com/privacy.php) for the most accurate reproduction.*
 
-# Articles Directory | Free Articles | New Articles Daily | Privacy Statement
+# JumboArticles | Privacy Statement
 
 Jumbo Articles strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period. 
 
