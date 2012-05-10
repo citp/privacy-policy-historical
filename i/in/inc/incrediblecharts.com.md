@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incrediblecharts.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016165022id_/http%3A//www.incrediblecharts.com/legal_vizhon/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incrediblecharts.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510143759id_/http%3A//www.incrediblecharts.com/legal_vizhon/privacy_policy.php) for the most accurate reproduction.*
 
 # Incredible Charts: Privacy Policy
 
@@ -76,3 +76,10 @@ If you have any questions regarding privacy, please [contact us](https://web.arc
 ## Policy Modifications
 
 We may change this Privacy Policy from time to time. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent. This policy was last updated on July 15, 2009. 
+
+| 
+
+Perfect Your Market Timing  
+Learn how to manage your market risk.  
+  
+---|---
