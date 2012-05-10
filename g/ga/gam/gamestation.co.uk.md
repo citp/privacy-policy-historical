@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamestation.co.uk privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211202659id_/http%3A//www.gamestation.co.uk/gs/info/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamestation.co.uk privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510081222id_/http%3A//www.gamestation.co.uk/gs/info/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gamestation
 
