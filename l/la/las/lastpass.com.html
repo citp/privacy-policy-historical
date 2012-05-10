@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lastpass.com privacy policy that was archived on 2011-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111216170818id_/http%3A//lastpass.com/aboutus_privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lastpass.com privacy policy that was archived on 2012-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120510121441id_/http%3A//lastpass.com/aboutus_privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <title>LastPass - Privacy Statement</title>
@@ -36,6 +36,9 @@ a:active   {text-decoration:none;}
 .navon    {background:url(media/navbuttonbgon.png) repeat-x;}
 .navoff   {background:url(media/navbuttonbgoff.png) repeat-x;}
 .navover  {background:url(media/navbuttonbgover.png) repeat-x;color:#fff;}
+.navonenterprise    {background:url(media/entgradienton.png) repeat-x;}
+.navoffenterprise   {background:url(media/entgradientoff.png) repeat-x;}
+.navoverenterprise  {background:url(media/entgradientover.png) repeat-x;color:#fff;}
 .navfirst {border-left:0;}
 .navlast  {border-right:0;width:136px;}
 .nav2over {color:#fff;cursor:pointer;background:url(media/navbuttonbgover.png) repeat-x;}
@@ -115,8 +118,8 @@ a.hrefpress:active  {color:#3b3b3b !important;}
 
 </style>
     <script type="text/javascript" src="/m.php/jquerymin?1240405331"></script>
-    <script type="text/javascript" src="/m.php/rsa?1315863491"></script>
-    <script type="text/javascript" src="/m.php/xss?1311799645"></script>
+    <script type="text/javascript" src="/m.php/rsa?1335471151"></script>
+    <script type="text/javascript" src="/m.php/xss?1332178101"></script>
     <script type="text/javascript">
       /* <![CDATA[ */
       if (typeof(top)!="undefined" && typeof(self)!="undefined" && top!=self)
@@ -265,6 +268,15 @@ $(function(){
       $(this).attr({"src":"media/enterprise/button_contactus_en.png"});
     }
   );
+
+    $(".entviewpricing").hover(
+    function(){
+      $(this).attr({"src":"media/enterprise/button_viewpricing_en_over.png"});
+    },
+    function(){
+      $(this).attr({"src":"media/enterprise/button_viewpricing_en.png"});
+    }
+  );
   
           
     $(".viewmore").hover(
@@ -355,6 +367,7 @@ b};a._setCampCIdKey=function(b){g.kb=b};a._getAccount=function(){return a.H};a._
 .fl-hu { background-position: -198px -244px; width: 16px; height: 11px; } 
 .fl-id { background-position: -198px -305px; width: 16px; height: 11px; } 
 .fl-il { background-position: -198px -427px; width: 16px; height: 11px; } 
+.fl-in { background-position: -198px -488px; width: 16px; height: 11px; } 
 .fl-ir { background-position: -198px -671px; width: 16px; height: 11px; } 
 .fl-is { background-position: -198px -732px; width: 16px; height: 11px; } 
 .fl-it { background-position: -198px -793px; width: 16px; height: 11px; } 
@@ -392,7 +405,7 @@ b};a._setCampCIdKey=function(b){g.kb=b};a._getAccount=function(){return a.H};a._
 <noscript><div style='text-align:center'>JavaScript is required to use LastPass.<br/>Our local encryption/decryption to keep your sensitive data out of our hands depends on it.<br/>We do not recommend you attempt to login without Javascript enabled</div></noscript>
 
               
-        <table cellspacing="0">
+        <table cellspacing="0" id="maintable">
             <tbody><tr>
         <td style="width:50%;background:url(media/background_pageleft.png) repeat-x;"></td>
         <td>
@@ -400,6 +413,7 @@ b};a._setCampCIdKey=function(b){g.kb=b};a._getAccount=function(){return a.H};a._
           
                         <div class="row">
                             <div style="float:left;height:63px;"><a href="/"><img style="margin-top:21px;" src="media/logo_lastpass.png" width="164" height="20" alt="LastPass Logo"></a></div>
+              
               
                                           <div id="signinbutton" style="float:right;height:32px;margin:0 10px 0 8px;background:#2d2b27;border:1px solid #d93123;border-top:0;color:#fff;cursor:pointer;" class="ie6floathack ie6widthhacksignin">
                 <div id="signintext" style="float:left;margin:7px 10px 0 15px;font-size:11px;" class="ie6floathack">Sign in to LastPass</div>
@@ -420,7 +434,7 @@ b};a._setCampCIdKey=function(b){g.kb=b};a._getAccount=function(){return a.H};a._
                     <a class="hreftranslate" href="misc_translate.php">Click here to help translate LastPass to your language!</a>
                   </div>
                   <div class="rownopad" style="padding:15px 0;border-top:1px solid #E9E9E7;margin-left:10px;">
-                                              <div style="float:left;cursor:pointer;border-right:1px solid #E9E9E7;">                            <div class="rownopad languagerow ie6langhack" style="padding:5px 15px;font-size:11px;height:16px;overflow:hidden;background:#fff;">
+                    <form>                          <div style="float:left;cursor:pointer;border-right:1px solid #E9E9E7;">                            <div class="rownopad languagerow ie6langhack" style="padding:5px 15px;font-size:11px;height:16px;overflow:hidden;background:#fff;">
                               <input name="country" type="radio" value="af_ZA">
                               <span class="fl fl-za">&nbsp;</span>
                               <span>Afrikaans</span>
@@ -605,6 +619,10 @@ b};a._setCampCIdKey=function(b){g.kb=b};a._getAccount=function(){return a.H};a._
                               <span class="fl fl-se">&nbsp;</span>
                               <span>Svenska</span>
                             </div>                            <div class="rownopad languagerow ie6langhack" style="padding:5px 15px;font-size:11px;height:16px;overflow:hidden;background:#fff;">
+                              <input name="country" type="radio" value="ta_IN">
+                              <span class="fl fl-in">&nbsp;</span>
+                              <span>தமிழ்</span>
+                            </div>                            <div class="rownopad languagerow ie6langhack" style="padding:5px 15px;font-size:11px;height:16px;overflow:hidden;background:#fff;">
                               <input name="country" type="radio" value="th_TH">
                               <span class="fl fl-th">&nbsp;</span>
                               <span>ไทย</span>
@@ -617,6 +635,10 @@ b};a._setCampCIdKey=function(b){g.kb=b};a._getAccount=function(){return a.H};a._
                               <span class="fl fl-ua">&nbsp;</span>
                               <span>Українська</span>
                             </div>                            <div class="rownopad languagerow ie6langhack" style="padding:5px 15px;font-size:11px;height:16px;overflow:hidden;background:#fff;">
+                              <input name="country" type="radio" value="ur_PK">
+                              <span class="fl fl-pk">&nbsp;</span>
+                              <span>اردو</span>
+                            </div>                            <div class="rownopad languagerow ie6langhack" style="padding:5px 15px;font-size:11px;height:16px;overflow:hidden;background:#fff;">
                               <input name="country" type="radio" value="vi_VN">
                               <span class="fl fl-vn">&nbsp;</span>
                               <span>Tiếng Việt</span>
@@ -628,7 +650,7 @@ b};a._setCampCIdKey=function(b){g.kb=b};a._getAccount=function(){return a.H};a._
                               <input name="country" type="radio" value="zh_TW">
                               <span class="fl fl-tw">&nbsp;</span>
                               <span>中文（繁體）</span>
-                            </div>                          </div>                  </div>                  
+                            </div>                          </div></form>                  </div>                  
                 </div>
                </div>
             </div>
@@ -637,10 +659,10 @@ b};a._setCampCIdKey=function(b){g.kb=b};a._getAccount=function(){return a.H};a._
                                   <div class="nav navoff navfirst" style="border-bottom:1px solid #484642;" onclick="document.location.href='/misc_download.php';">DOWNLOAD</div>
                     <div class="nav navoff" style="border-bottom:1px solid #56544F;" onclick="document.location.href='features_free.php';">FEATURES</div>
                     <div class="nav navoff" style="border-bottom:1px solid #56544F;" onclick="document.location.href='whylastpass_reviews.php';">WHY LASTPASS?</div>
-                    <div class="nav navoff" style="border-bottom:1px solid #56544F;" onclick="document.location.href='enterprise_overview.php';">ENTERPRISE</div>
                     <div class="nav navoff" style="border-bottom:1px solid #56544F;" onclick="document.location.href='news_latestnews.php';">NEWS</div>
                     <div class="nav navoff" style="border-bottom:1px solid #56544F;" onclick="document.location.href='support_helpcenter.php';">SUPPORT</div>
                     <div class="nav navon navlast" style="border-bottom:1px solid #56544F;" onclick="document.location.href='aboutus_companyinfo.php';">ABOUT US</div>
+                    <div class="nav navoff" style="border-bottom:1px solid #56544F;" onclick="document.location.href='enterprise_overview.php';">ENTERPRISE</div>
                   </div>
                              
                                       <div class="row ie67marginhack" style="display:block;position:absolute;">
@@ -731,6 +753,8 @@ b};a._setCampCIdKey=function(b){g.kb=b};a._getAccount=function(){return a.H};a._
 <h3>Privacy Statement Changes</h3>
 <p>Although most changes are likely to be minor, LastPass may change its Privacy Statement from time to time, and in LastPass' sole discretion. LastPass encourages visitors to frequently check this page for any changes to its Privacy Statement.</p>
 
+<p>Marvasol Inc. DBA LastPass</p>
+
 <div class="line">&nbsp;</div>
 
 <p>This privacy statement available under a Creative Commons Share-alike license.</p>
@@ -746,6 +770,8 @@ b};a._setCampCIdKey=function(b){g.kb=b};a._getAccount=function(){return a.H};a._
                 </div>
                 <div style="float:right;margin:16px 19px 0 0;"><a href="misc_download.php"><img class="downloadbutton" src="media/button_download_en.png" width="309" height="59" alt=""></a></div>
                           </div>
+            
+                        
           
         </td>
         <td class="ie6hack3" style="width:50%;"></td>
@@ -767,7 +793,7 @@ b};a._setCampCIdKey=function(b){g.kb=b};a._getAccount=function(){return a.H};a._
 
                             <div style="float:left;width:140px;height:215px;border-right:1px solid #302d29;">
                 <div style="color:#918d88;font-size:12px;font-weight:bold;letter-spacing:1px;margin-top:50px;">FEATURES</div>
-                                      <div style="font-size:11px;margin-left:0px;margin-top:18px;"><img style="padding-right:6px;" src="media/footer_arrow.png" width="6" height="8" alt=""><a class="hrefsitemap" href="features_free.php">Free</a></div>                      <div style="font-size:11px;margin-left:0px;margin-top:6px;"><img style="padding-right:6px;" src="media/footer_arrow.png" width="6" height="8" alt=""><a class="hrefsitemap" href="features_premium.php">Premium</a></div>                      <div style="font-size:11px;margin-left:0px;margin-top:6px;"><img style="padding-right:6px;" src="media/footer_arrow.png" width="6" height="8" alt=""><a class="hrefsitemap" href="features_compare.php">Compare</a></div>                      <div style="font-size:11px;margin-left:0px;margin-top:6px;"><img style="padding-right:6px;" src="media/footer_arrow.png" width="6" height="8" alt=""><a class="hrefsitemap" href="features_screenshots.php">Screenshots</a></div>                      <div style="font-size:11px;margin-left:0px;margin-top:6px;"><img style="padding-right:6px;" src="media/footer_arrow.png" width="6" height="8" alt=""><a class="hrefsitemap" href="features_roadmap.php">Product Roadmap</a></div>                      <div style="font-size:11px;margin-left:0px;margin-top:6px;"><img style="padding-right:6px;" src="media/footer_arrow.png" width="6" height="8" alt=""><a class="hrefsitemap" href="features_joinpremium.php">Upgrade to Premium</a></div>              </div>
+                                      <div style="font-size:11px;margin-left:0px;margin-top:18px;"><img style="padding-right:6px;" src="media/footer_arrow.png" width="6" height="8" alt=""><a class="hrefsitemap" href="features_free.php">Free</a></div>                      <div style="font-size:11px;margin-left:0px;margin-top:6px;"><img style="padding-right:6px;" src="media/footer_arrow.png" width="6" height="8" alt=""><a class="hrefsitemap" href="features_premium.php">Premium</a></div>                      <div style="font-size:11px;margin-left:0px;margin-top:6px;"><img style="padding-right:6px;" src="media/footer_arrow.png" width="6" height="8" alt=""><a class="hrefsitemap" href="features_compare.php">Compare</a></div>                      <div style="font-size:11px;margin-left:0px;margin-top:6px;"><img style="padding-right:6px;" src="media/footer_arrow.png" width="6" height="8" alt=""><a class="hrefsitemap" href="features_screenshots.php">Screenshots</a></div>                      <div style="font-size:11px;margin-left:0px;margin-top:6px;"><img style="padding-right:6px;" src="media/footer_arrow.png" width="6" height="8" alt=""><a class="hrefsitemap" href="features_joinpremium.php">Upgrade to Premium</a></div>              </div>
               <div style="float:left;width:140px;height:215px;border-left:1px solid #373430;border-right:1px solid #302d29;">
                 <div style="margin-left:10px;color:#918d88;font-size:12px;font-weight:bold;letter-spacing:1px;margin-top:50px;">WHY LASTPASS</div>
                                       <div style="font-size:11px;margin-left:10px;margin-top:18px;"><img style="padding-right:6px;" src="media/footer_arrow.png" width="6" height="8" alt=""><a class="hrefsitemap" href="whylastpass_reviews.php">Reviews</a></div>                      <div style="font-size:11px;margin-left:10px;margin-top:6px;"><img style="padding-right:6px;" src="media/footer_arrow.png" width="6" height="8" alt=""><a class="hrefsitemap" href="whylastpass_testimonials.php">Testimonials</a></div>                      <div style="font-size:11px;margin-left:10px;margin-top:6px;"><img style="padding-right:6px;" src="media/footer_arrow.png" width="6" height="8" alt=""><a class="hrefsitemap" href="whylastpass_technology.php">Technology</a></div>                      <div style="font-size:11px;margin-left:10px;margin-top:6px;"><img style="padding-right:6px;" src="media/footer_arrow.png" width="6" height="8" alt=""><a class="hrefsitemap" href="misc_download.php">Download</a></div>              </div>
@@ -786,19 +812,21 @@ b};a._setCampCIdKey=function(b){g.kb=b};a._getAccount=function(){return a.H};a._
                 <div>
                   <a href="http://twitter.com/LastPass"><img class="follow" id="followtw" style="margin-right:10px;margin-left:25px;" src="media/followus_twitter.png" width="27" height="25" alt="Twitter"></a>
                   <a href="http://www.facebook.com/LastPass"><img class="follow" id="followfb" style="margin-right:10px;" src="media/followus_facebook.png" width="27" height="25" alt="Facebook"></a>
+                  <a href="https://plus.google.com/u/0/115266437771881201904/posts"><img class="follow" id="followgp" style="margin-right:10px;" src="media/followus_googleplus.png" width="27" height="25" alt="Google+"></a>
                                       <a href="http://www.linkedin.com/companies/lastpass"><img class="follow" id="followli" style="margin-right:10px;" src="media/followus_linkedin.png" width="27" height="25" alt="LinkedIn"></a>
                                     <a href="http://www.youtube.com/user/lpuser11#p/u"><img class="follow" id="followyt" style="margin-right:10px;" src="media/followus_youtube.png" width="27" height="25" alt="YouTube"></a>
                                   </div>
                 <div id="followtwover" style="display:none;position:absolute;background:url(media/followus_hover.png) no-repeat;width:80px;height:34px;padding-top:11px;color:#ece8e2;font-size:11px;text-align:center;">twitter</div>
                 <div id="followfbover" style="display:none;position:absolute;background:url(media/followus_hover.png) no-repeat;width:80px;height:34px;padding-top:11px;color:#ece8e2;font-size:11px;text-align:center;margin-left:42px;">facebook</div>
-                                  <div id="followliover" style="display:none;position:absolute;background:url(media/followus_hover.png) no-repeat;width:80px;height:34px;padding-top:11px;color:#ece8e2;font-size:11px;text-align:center;margin-left:84px;">LinkedIn</div>
-                                <div id="followytover" style="display:none;position:absolute;background:url(media/followus_hover.png) no-repeat;width:80px;height:34px;padding-top:11px;color:#ece8e2;font-size:11px;text-align:center;margin-left:123px;">YouTube</div>
+                <div id="followgpover" style="display:none;position:absolute;background:url(media/followus_hover.png) no-repeat;width:80px;height:34px;padding-top:11px;color:#ece8e2;font-size:11px;text-align:center;margin-left:84px;">Google+</div>
+                                  <div id="followliover" style="display:none;position:absolute;background:url(media/followus_hover.png) no-repeat;width:80px;height:34px;padding-top:11px;color:#ece8e2;font-size:11px;text-align:center;margin-left:123px;">LinkedIn</div>
+                                <div id="followytover" style="display:none;position:absolute;background:url(media/followus_hover.png) no-repeat;width:80px;height:34px;padding-top:11px;color:#ece8e2;font-size:11px;text-align:center;margin-left:165px;">YouTube</div>
                                                 </div>
             </div>
             
-                        <div class="rownopad" style="width:800x;height:36;margin-top:35px;">
+                        <div class="rownopad" style="margin-top:35px;">
               <a href="http://www.xmarks.com/"><img style="float:left;" src="media/footer_cross_browser_team.png" width="693" height="36" alt="LastPass + Xmarks the ultimate cross browser team"></a>
-              <div style="float:right;color:#918d88;font-size:11px;line-height:48px;vertical-align:middle;margin-right:20px;">Copyright © 2008-2011 LastPass.com</div>
+              <div style="float:right;color:#918d88;font-size:11px;line-height:48px;vertical-align:middle;margin-right:20px;">Copyright © 2008-2012 LastPass.com</div>
             </div>
 
                         <div class="rownopad" style="margin-top:25px;">
