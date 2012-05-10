@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the savills.co.uk privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012002214id_/http%3A//www.savills.co.uk/footer/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savills.co.uk privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510110327id_/http%3A//www.savills.co.uk/footer/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Savills UK | Privacy policy
+# Savills UK | Privacy & Cookies
 
 Savills is a trading name of Savills plc. Savills is committed to ensuring that your privacy is protected. This Privacy Policy explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy.
 
@@ -71,7 +71,7 @@ Saved Properties | SavillsCommercialPortfolio | Records a users saved properties
 New Homes Search Session Cookies | Ecm, ns_session, ns_cookietest | Session cookies that help the browsing experience on the site  | Only lasts for the current browsing session.   
 Alerts | InternationalInformation  | Records that the user has subscribed for alerts so that they can change their preference in the future on our international search.  | Lasts for 10 years   
   
-How do I restrict or delete cookies?
+## How do I restrict or delete cookies?
 
 13 of the cookies we use are essential for parts of the website to operate and have already been set. You may delete and block all cookies from this website, but please be aware that restricting or deleting cookies may impact on the functionality of the website.    
 Your web browser may allow you to restrict or delete cookies set by this website. The Help function within your browser should tell you how. Alternatively, you can visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) which provides general information about cookies and how you can manage cookies on your computer.
