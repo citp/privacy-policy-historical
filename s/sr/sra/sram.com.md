@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sram.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102004009id_/http%3A//www.sram.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sram.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510032211id_/http%3A//www.sram.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Use | SRAM
 
@@ -51,6 +51,49 @@ The security of all personally identifiable information associated with users of
 ## Terms of Use
 
 Ownership; Restrictions on Use of Materials The entire content included in this site, including but not limited to text, graphics or code, is owned by or licensed to Us. We reserve the right to make changes to the content of this site at any time without notice, including with respect to our products, equipment, specifications, models, colors, and materials. You may download, view, and print text and graphics from this site, provided that such content is only used for informational, non-commercial purposes, and is not modified or altered in any way. Except as expressly provided herein, you may not use, download, upload, copy, print, display, perform, reproduce, publish, license, post, transmit or distribute any information or content from this site in whole or in part without Our prior written permission. SRAM, RockShox, etc. (Maria, please insert our marks) are trademarks or registered trademarks of SRAM, LLC. Other trademarks, service marks, slogans, logos and trade names identified on this site are either Our trademarks or trademarks of a third party licensor or other provider. None of these marks, names or logos may be used without the prior written consent of their owner.
+
+## SRAM trademark list and acknowledgements
+
+These are registered trademarks of SRAM, LLC:
+
+1:1®, Avid®, Bar®, Blackbox®, BoXXer®, DoubleTap®, Elita®, Firex®, Giga Pipe®, Grip Shift®, GXP®, HammerSchmidt®, Holzfeller®, Hussefelt®, i-Motion®, Isoflow®, Juicy®, Omnium®, PowerLock®, Reba®, Rock Shox®, Ruktion®, SID®, Single Digit®, Sparc®, Speed Dial®, SRAM APEX®, SRAM Force®, SRAM RIVAL®, SRAM VIA®, SRAM®, Stylo®, Torpedo®, The Power of Bicycles®, Truvativ®, U-Turn®, World Bicycle Relief®
+
+These are trademarks of SRAM, LLC:
+
+29"™, 2x10™, 2-Step Air™, Air Guides™, Air U-Turn™, AKA™, AL-7050-TV™, Argyle™, Ario™, Automatix™, Bend Zone™, BB™, BB5™, BB7™, BB30™, blaze™, Boobar™, BoxGuide™, Carbon Crown-Steerer™, Centera™, Code™, Contact Point Adjustment™, Deep Stroke Modulation™, Descendant™, Di.R.T.™, Dart™, Direct Route Technology™, Domain™, DOT 5.1™, DropStop™, Dual Air™, DualDrive™, Dual Flow™, Dual Position Air™, Fixed Coil™, FR-5™, Elixir™, Exact Actuation™, G2 Clean Sweep™, G3 Clean Sweep™, HollowPin™, Hot Rod™, Howitzer™, HSX™, i-Light™, Integrated Reservoir™, Kage™, Komfy™, Long Travel Dual Air™, Long Travel Solo Air™, Lyrik™, MatchMaker™, Maxle™, Mission Control™, Mojo™, Monarch™, Monoblok™, Motion Control™, MRX™, Noir™, OCT™, OpenGlide™, Overdrive™, Poploc™, Power Bulge™, Power Reserve Geometry™, R2C™, PowerChain™, PowerGlide™, PowerLink™, PowerMeter Pro™, Powered by SRAM™, Pressfit™, Pushloc™, Reach Adjust™, Recon™, RedRum™, Revelation™, Rim Wrangler™, Rise™, Roleur™, Sag Gradients™, Sektor™, ShiftGuide™, Shorty™, Solo Air™, Speed Lube™, SRAM APEX™, SRAM P5™, SRAM Red™, SRAM S7™, SRAM T3™, SRAM TRX™, SRAM X.0™, SRAM X.5™, SRAM X.7™, SRAM X.9™, Supercork™, Superlight™, Supertech™, TaperBore™, Tool-Free Reach Adjust™, Top-loading Pads™, Tora™, Totem™, Travel Gradients™, Tri-Align™, Turnkey™, Vivid™, WiFLi™, Wonder Clamp™, XC™, X-GLIDE™, XLOC™, XX™, XX Motion Control™, Zero Loss Travel™.
+
+Specifications and colors subject to change without prior notice.
+
+Trademarks owned by other companies that must be acknowledged:
+
+PowerTap® is a registered trademark of Saris Cycling Group, Inc.  
+Shimano® is a registered trademark of Shimano Inc. Japan  
+Campagnolo® is a registered trademark of Campagnolo S.R.L.  
+Castelli® is a registered trademark of Castelli S.p.A.  
+Headsweats® is a registered trademark of Alan Romick  
+Coolmax® is a registered trademark of INVISTA North America S.A.R.L.   
+TORX® is a registered trademark of Acument Intellectual Properties, LLC  
+Pantone® is a registered trademark of Pantone, Inc.   
+Sapim® is a registered trademark of SAPIM, naamloze vennootschap  
+Easton® is a registered trademark of Easton Sports Inc.  
+Bontrager® and Aeolus® are registered trademarks of Trek Bicycle Corporation  
+HED® is a registered trademark of Hed Cycling Products, Inc.  
+FFWD® is a registered trademark of Henk Schipper   
+Planet X® is a registered trademark of David Loughran  
+Tour de France® is a registered trademark of Societe du Tour de France  
+Vittoria® is a registered trademark of Vittoria Industries North America, LLC  
+Cannondale® is a registered trademark of Cycling Sports Group, Inc.  
+Grilon® is a registered trademark of EMS-Chemie AG, Switzerland HG  
+IG® is a registered trademarks of Shimano Inc., Japan  
+Empilon® is registered trademark of HO Tai Industrial Co.  
+Hayes® is a registered trademark of Hayes Brakes LLC  
+Magura® is a registered trademark of Gustav Magenwirth GmbH  
+Trek® is a registered trademark of Trek Bicycle Corporation  
+Kraton® is a registered trademark of Kraton Polymers  
+Quarq® is a registered trademark of Quarq Technology, Inc.   
+Garmin® is a registered trademark of Garmin, Ltd.
+
+Copyright notice: Copyright © 2011 SRAM LLC
 
 ## Forums
 
