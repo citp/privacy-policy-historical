@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weiku.com privacy policy that was archived on 2011-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110904233729id_/http%3A//www.weiku.com/help/rule_privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weiku.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510091959id_/http%3A//www.weiku.com/help/rule_privacy_policy.aspx) for the most accurate reproduction.*
 
-# 
+# Privacy Policy Helpful Tips for Dealing with Global Business Leads on Weiku.com
 
 This is the Privacy Policy governing your use of Weiku.com. By using this Site, you consent to our Privacy Policy set out below. All terms not defined in this document have the meanings ascribed to them in the Terms of Use Agreement between you and Weiku.com which by use of this Site you agree to accept.
 
