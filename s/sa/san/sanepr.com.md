@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sanepr.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219155831id_/http%3A//www.sanepr.com/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanepr.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510031251id_/http%3A//www.sanepr.com/privacy-policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -53,4 +53,5 @@ If you feel that this site is not following its stated information policy, you m
 Last modified: Thursday, April 7, 2005.
 
 |   
-
+  
+[Malaga agenda cultural y guia de ocio y tiempo libre.](http://www.modernicolas.com/)
