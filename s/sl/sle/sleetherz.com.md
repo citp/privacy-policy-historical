@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sleetherz.com privacy policy that was archived on 2011-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110119044613id_/http%3A//www.sleetherz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleetherz.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510122139id_/http%3A//www.sleetherz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SLEETHERZ
+# Privacy Policy - SLEETHERZ Android news
 
 **What information do we collect?**
 
@@ -70,7 +70,7 @@ This online privacy policy applies only to information collected through our web
 
 **Your Consent**
 
-By using our site, you consent to our [websites privacy policy](http://www.sleetherz.com/wp-content/plugins/quick-site-plugin/content/go.php?url=http://www.freeprivacypolicy.com/ "http://www.freeprivacypolicy.com/").
+By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
 
 **Changes to our Privacy Policy**
 
@@ -84,3 +84,5 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 Name : News Zine  
 Email : wahyukristian@gmail.com 
+
+[ ](http://www.extension103.com/)
