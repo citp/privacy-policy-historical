@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verisk.com privacy policy that was archived on 2011-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111013195752id_/http%3A//www.verisk.com/Privacy-Trademarks-Use/Privacy-Trademarks-Use/Verisk-Analytics-Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verisk.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510035055id_/http%3A//www.verisk.com/Privacy-Trademarks-Use/Privacy-Trademarks-Use/Verisk-Analytics-Privacy-Policy.html) for the most accurate reproduction.*
 
 # Verisk Analytics Privacy Policy
 
@@ -20,12 +20,12 @@ We may display employment opportunities on this site. If you choose to submit yo
 We do not permit other persons, companies or entities to collect personal information through our website.
 
 **Choice**  
-We offer you choices as to how we will use the personally identifying information that you submit through this website. Your choices encompass both our secondary internal uses (such as providing you with information regarding products and conferences) and our secondary external uses (such as disclosing information to nonaffiliated third parties). You may [advise us of your preference by e-mail. ](mailto:info@verisk.com)We will follow your instructions only with respect to information on file. If you submit information subsequently, you must advise us with respect to that information.
+We offer you choices as to how we will use the personally identifying information that you submit through this website. Your choices encompass both our secondary internal uses (such as providing you with information regarding products and conferences) and our secondary external uses (such as disclosing information to nonaffiliated third parties). You may [advise us of your preference by e-mail. ](mailto:privacy@verisk.com)We will follow your instructions only with respect to information on file. If you submit information subsequently, you must advise us with respect to that information.
 
 Please be aware that we may be unable to delete your historical information and the information of former customers from our records.
 
 **Access**  
-Upon request, we will give you access to your personal information that you submit through this website. We permit you to review the personal information you submit to us, and to correct inaccurate information. You may [submit your request by e-mail](mailto:info@verisk.com).
+Upon request, we will give you access to your personal information that you submit through this website. We permit you to review the personal information you submit to us, and to correct inaccurate information. You may [submit your request by e-mail](mailto:privacy@verisk.com).
 
 **Children**  
 Only adults may use this site. We do not knowingly use this website to solicit data from or market to children under the age of 13.
@@ -45,4 +45,4 @@ The security of customer information is very important to us, and we take a numb
 We may establish relationships with reputable business partners by creating a link between our sites. Although we choose our sites carefully, we are not responsible for the content, maintenance, or privacy policies of those sites. Once you click over to a third-party site, we encourage you to check that site's privacy policy.
 
 **Verisk Respects Your Privacy Concerns**  
-Verisk's privacy and security policies demonstrate our responsibility to the individuals from and about whom we receive and report information, and to our customers, who rely on us to safeguard the information they report. If you have any questions or concerns about our privacy and security policies, please [contact us](mailto:info@verisk.com). 
+Verisk's privacy and security policies demonstrate our responsibility to the individuals from and about whom we receive and report information, and to our customers, who rely on us to safeguard the information they report. If you have any questions or concerns about our privacy and security policies, please [contact us](mailto:privacy@verisk.com). 
