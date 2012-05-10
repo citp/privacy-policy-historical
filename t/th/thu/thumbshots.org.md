@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thumbshots.org privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629183701id_/http%3A//www.thumbshots.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thumbshots.org privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510084253id_/http%3A//www.thumbshots.com/privacy.aspx) for the most accurate reproduction.*
 
 # Free preview thumbnails on your site. Web page screenshot image
 
@@ -44,4 +44,4 @@ Thumbshots.com will occasionally update this Statement of Privacy to reflect com
 
 Contact Information
 
-Thumbshots.com welcomes your comments regarding this Statement of Privacy. If you believe that Thumbshots.com has not adhered to this Statement, please contact Thumbshots.com at [support@smartdevil.com](mailto:support@smartdevil.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+Thumbshots.com welcomes your comments regarding this Statement of Privacy. If you believe that Thumbshots.com has not adhered to this Statement, please contact Thumbshots.com at [support@smartdevil.com](mailto:support@smartdevil.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
