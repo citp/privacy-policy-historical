@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bankexamsindia.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101224545id_/http%3A//www.bankexamsindia.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankexamsindia.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510232139id_/http%3A//www.bankexamsindia.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Bank Jobs in India
+# Privacy Policy
 
 **Bankexamsindia.com respects your privacy**
 
@@ -22,4 +22,4 @@ Google,as a third party vendor,uses cookies to serve ads on this site.Google's u
 
 **Privacy policy changes**
 
-We may update this policy in future.Incase of such an event,the changes will be reflected in this page.If you have any doubts,you can email us at bankexamsindia.com [at]gmail.com (replace [at] with @) 
+We may update this policy in future.Incase of such an event,the changes will be reflected in this page.If you have any doubts,you can email us at contact[at]bankexamsindia.com (replace [at] with @) 
