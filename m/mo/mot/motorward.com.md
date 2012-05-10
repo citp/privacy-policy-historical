@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motorward.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125642id_/http%3A//www.motorward.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorward.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510075047id_/http%3A//www.motorward.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Motorward
 
@@ -26,6 +26,11 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
+  
+
+
+This article was last updated by [Bruno Silva](http://www.motorward.com/author/admin/) on March 5, 2012.
+
 ### Related Posts
 
   
@@ -43,6 +48,6 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
   * [What Determines the Premium for Car Insurance?](http://www.motorward.com/2009/09/what-determines-the-premium-for-car-insurance/ "Permanent Link: What Determines the Premium for Car Insurance?")
 
 
-  * [Kahn Design Land Rover Discovery LR4](http://www.motorward.com/2011/06/kahn-design-land-rover-discovery-lr4/ "Permanent Link: Kahn Design Land Rover Discovery LR4")
+  * [BMW i8 Hybrid Sportscar](http://www.motorward.com/2010/12/bmw-i8-hybrid-sportscar/ "Permanent Link: BMW i8 Hybrid Sportscar")
 
 
