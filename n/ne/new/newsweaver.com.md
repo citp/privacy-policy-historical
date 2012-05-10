@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsweaver.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104143313id_/http%3A//www.newsweaver.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsweaver.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510064109id_/http%3A//www.newsweaver.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Newsweaver Privacy Policy
 
@@ -62,7 +62,7 @@ When you use the Newsweaver system, we record a log of all significant actions t
 
 Customer data in the form of subscriber lists and newsletter content, and other application data relating to the newsletter publishing service, are securely stored in our application servers and will never be shared with third parties, except where we are required to do so by law.
 
-We employ industry-accepted levels of security on all data storage and transmission, but we cannot guarantee absolute security, as no online system can be proven 100% secure.
+We employ industry-accepted levels of security on all data storage and transmission.
 
 Your contact, billing and other details will never be shared or stored with third parties, except where we are legally obliged to do so, or where we make use of an external service to operate some aspect of our business, such as credit card processing, or CRM. In such instances, the storage of your data on third party systems will be solely for the purpose of operating our business to provide you with the contracted service, and never for the direct benefit of the third party, who will never have any other right of use to your data.
 
