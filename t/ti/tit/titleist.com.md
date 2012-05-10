@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the titleist.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101161823id_/http%3A//www.titleist.com/company/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titleist.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510211137id_/http%3A//www.titleist.com/company/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - Titleist.com
 
@@ -12,11 +12,11 @@ Acushnet Company wants you to know what information we collect from you when you
 
 ## What Information Is Collected
 
-When you visit this Site, we recognize only your domain name and not your e-mail address. We will see your e-mail address only if you fill out a form or send us an e-mail message. We may also collect information about you if you register on a page, fill out a survey, place an order, upload content, post blog entries or comments, participate in our contests or if you otherwise voluntarily tell us about yourself or your activities. We collect Internet-related Information from visitors to our Site, including the referring URL, your IP address, which browser you used to come to this Site, the country, state or province, the pages of our Site that you viewed during your visit and any search terms you entered on our Site, for the purposes of system administration, to gather broad demographic information, and to monitor the level of Site activity. We track customers' traffic patterns throughout their online sessions, including which pages or specific URLs a customer views while using the Site. We use your Internet-related Information to diagnose problems with our servers and software and to administer our Site. 
+When you visit this Site, we recognize only your domain name and not your e-mail address. We will see your e-mail address only if you fill out a form or send us an e-mail message. We may also collect information about you if you register on a page, fill out a survey, place an order, upload content, post blog entries or comments, participate in our contests or if you otherwise voluntarily tell us about yourself or your activities. We collect Internet-related Information from visitors to our Site, including the referring URL, your IP address, which browser you used to come to this Site, the country, state or province, the pages of our Site that you viewed during your visit and any search terms you entered on our Site, for the purposes of system administration, to gather broad demographic information, and to monitor the level of Site activity. We track customers' traffic patterns throughout their online sessions, including which pages or specific URLs a customer views while using the Site. We use your Internet-related Information to diagnose problems with our servers and software and to administer our Site. 
 
 ## How Information Is Used
 
-When you provide information about yourself, we use it to improve our products and services and the content of this Site. We may also use it to complete purchase or other transactions or to send you information about our products and services. For details on how to opt out of receiving information, please see the Choice/Opt-out/Opt-in section of this Privacy Policy, below. When you use interactive features like our blogs (posting entries or submitting comments), or submit user content, please keep in mind that these features are inherently interactive. Information and materials you submit will be publicly available, thus if you include in your submission personally identifiable information (using your full name in the "name" field of a blog comment, for example), that information will become available to the general public on the Site. We may create aggregate information from records that contain personal information, and may include in those records information you have provided to us, or information we have obtained from third parties. We may use aggregate information for our legitimate business purposes. 
+When you provide information about yourself, we use it to improve our products and services and the content of this Site. We may also use it to complete purchase or other transactions or to send you information about our products and services. For details on how to opt out of receiving information, please see the Choice/Opt-out/Opt-in section of this Privacy Policy, below. When you use interactive features like our blogs (posting entries or submitting comments), or submit user content, please keep in mind that these features are inherently interactive. Information and materials you submit will be publicly available, thus if you include in your submission personally identifiable information (using your full name in the "name" field of a blog comment, for example), that information will become available to the general public on the Site. We may create aggregate information from records that contain personal information, and may include in those records information you have provided to us, or information we have obtained from third parties. We may use aggregate information for our legitimate business purposes. 
 
 ## Cookies
 
@@ -36,7 +36,7 @@ Our users are given the opportunity to opt-out of having their email address use
 
 ## Use of This Website by Children
 
-This Site is not designed for, nor do we believe it is appealing to, children under the age of 13. We do not knowingly collect personally identifiable information from children under the age of 13. We encourage children to consult their parents before providing personal information. Parents, to learn more about how to protect your children online, visit http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm. 
+This Site is not designed for, nor do we believe it is appealing to, children under the age of 13. We do not knowingly collect personally identifiable information from children under the age of 13. We encourage children to consult their parents before providing personal information. Parents, to learn more about how to protect your children online, visit http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm. 
 
 ## Links
 
@@ -52,9 +52,9 @@ Although we have taken steps to ensure that your personal information is not col
 
 ## Information Storage and Transfer
 
-Your personal information will be kept in a database held on servers kept in a physically and technologically secure environment located in Fairhaven, Massachusetts, U.S.A. (or, in the case of certain blog sites, may be retained at the relevant service providers’ locations), accessed only by authorized personnel or contractors who are bound to keep your information confidential. We have in place procedures for training our employees about their obligations under this Privacy Policy, disciplining them for failure to follow this Policy. We also have in place internal procedures to confirm general company compliance with this Policy. 
+Your personal information will be kept in a database held on servers kept in a physically and technologically secure environment located in Fairhaven, Massachusetts, U.S.A. (or, in the case of certain blog sites, may be retained at the relevant service providers’ locations), accessed only by authorized personnel or contractors who are bound to keep your information confidential. We have in place procedures for training our employees about their obligations under this Privacy Policy, disciplining them for failure to follow this Policy. We also have in place internal procedures to confirm general company compliance with this Policy. 
 
-Your information will be transferred to Acushnet Company, Fairhaven, Massachusetts, United States of America, which location may be outside of your own country, and by providing us with your information, you are consenting to such transfer. 
+Your information will be transferred to Acushnet Company, Fairhaven, Massachusetts, United States of America, which location may be outside of your own country, and by providing us with your information, you are consenting to such transfer. 
 
 ## Correcting, Updating or Deleting Personal Information
 
@@ -62,33 +62,33 @@ If a user's personally identifiable information changes, or if a user no longer 
 
 ## Notification of Changes
 
-We reserve the right to change or update this policy at any time by posting a notice to that effect on this Site and other places where we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. However, if we are going to use users' personally identifiable information in a manner different from that stated at the time of collection, we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the Site, or deleted their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Site notifying users of the change. In some cases, where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. Your continued use of this Site constitutes your consent to these changes. 
+We reserve the right to change or update this policy at any time by posting a notice to that effect on this Site and other places where we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. However, if we are going to use users' personally identifiable information in a manner different from that stated at the time of collection, we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the Site, or deleted their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Site notifying users of the change. In some cases, where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. Your continued use of this Site constitutes your consent to these changes. 
 
 ## Contact Information
 
-If users have any questions or suggestions regarding our privacy policy, please contact us by sending a question via our FAQ, or by calling 1-800-225-8500. 
+If users have any questions or suggestions regarding our privacy policy, please contact us by sending a question via our FAQ, or by calling 1-800-225-8500. 
 
 Please see Acushnet's Legal Notice or terms governing use of this Site.
 
-## ACUSHNET COMPANY EU PRIVACY POLICY
+## ACUSHNET COMPANY EU AND SWITZERLAND PRIVACY POLICY
 
-Acushnet Company (“Acushnet”) adheres to a self-regulatory program that complies with the safe harbor privacy principles set forth in the July 2000 agreement between the EU and the United States Department of Commerce with respect to information about European Union country (EU) residents that is transferred to the United States. For more information about the Safe Harbor Program (the “Program”), please go to http://www.export.gov/safeharbor. For information about data about Acushnet employees that is transferred from the EU to the United States, please read the additional EU Employee Privacy Notice.
+Acushnet Company complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Acushnet Company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Acushnet Company’s certification, please visit http://www.export.gov/safeharbor/.
 
-## DEFINITIONS 
+## DEFINITIONS 
 
 “agent" means any third party that uses personal information provided to Acushnet to perform tasks on request of the Company.
 
-"personal information" means information relating to an identified or identifiable natural person. 
+"personal information" means information relating to an identified or identifiable natural person. 
 
-"sensitive personal information" means personal information concerning race, ethnicity, political opinions, religious or philosophical beliefs, trade union membership, or a person’s health or sex life. 
+"sensitive personal information" means personal information concerning race, ethnicity, political opinions, religious or philosophical beliefs, trade union membership, or a person’s health or sex life. 
 
 ## NOTICE
 
-When Acushnet collects personal information from persons in the EU, it will inform them of the purposes for which it collects and uses their personal information, the types of non-agent third parties, if any, to which Acushnet may disclose the information, the choices and means, if any, offered for limiting disclosure of personal information. Personal information will only be collected from individuals as permitted by the Program or as consented by the person. Notice will be provided when persons are asked for personal information, or as soon as practicable thereafter, and in any event before Acushnet uses the information for a purpose other than for which it was collected.
+When Acushnet collects personal information from persons in the EU or Switzerland, it will inform them of the purposes for which it collects and uses their personal information, the types of non-agent third parties, if any, to which Acushnet may disclose the information, the choices and means, if any, offered for limiting disclosure of personal information. Personal information will only be collected from individuals as permitted by the Program or as consented by the person. Notice will be provided when persons are asked for personal information, or as soon as practicable thereafter, and in any event before Acushnet uses the information for a purpose other than for which it was collected.
 
 ## CHOICE
 
-Acushnet offers the opportunity to choose (i.e., opt-out or opt-in when required by local law) whether their personal information is (1) disclosed to a non-agent third-party, or (2) used for a purpose other than that for which it was collected or subsequently authorized. For sensitive personal information, Acushnet gives persons the opportunity to affirmatively consent (i.e., opt-in) to the disclosure of the information to a non-agent third-party or use of the information for a purpose other than that for which it was collected or subsequently authorized by the individual. 
+Acushnet offers the opportunity to choose (i.e., opt-out or opt-in when required by local law) whether their personal information is (1) disclosed to a non-agent third-party, or (2) used for a purpose other than that for which it was collected or subsequently authorized. For sensitive personal information, Acushnet gives persons the opportunity to affirmatively consent (i.e., opt-in) to the disclosure of the information to a non-agent third-party or use of the information for a purpose other than that for which it was collected or subsequently authorized by the individual. 
 
 ## SECURITY AND DATA INTEGRITY
 
@@ -114,12 +114,11 @@ Questions regarding use or disclosure of personal information should be directed
 
 Questions or comments regarding this policy should be submitted to:
 
->Roland A. Giroux  
-Assistant General Counsel  
-Acushnet Company   
+Roland A. Giroux  
+Vice President and Assistant General Counsel  
+Acushnet Company   
 333 Bridge Street  
-Fairhaven, MA 02719  
-USA  
+Fairhaven, MA 02719 USA  
 Phone: 508-979-2000  
 Fax: 508-979-3092
 
@@ -127,11 +126,11 @@ Fax: 508-979-3092
 
 This Policy may be amended as appropriate, according to the requirements of the Program and Acushnet will provide appropriate notice of such amendments.
 
-## EU EMPLOYEE PRIVACY NOTICE
+## EU AND SWITZERLAND EMPLOYEE PRIVACY NOTICE
 
-This notice is provided in connection with, and is based upon, the principles set forth in the Acushnet Company EU Privacy Policy listed above (the "EU Privacy Policy"). 
+This notice is provided in connection with, and is based upon, the principles set forth in the Acushnet Company EU and Switzerland Privacy Policy listed above (the "EU and Switzerland Privacy Policy").
 
-This notice describes the data privacy policy of Acushnet Company (“Acushnet") concerning transfer of personal information of Acushnet employees from the European Union (“EU”) to Acushnet corporate headquarters in the United States. For the purposes of this notice, personal information means information relating to a present or former employee of Acushnet or any of its subsidiaries that can be linked to that individual.
+This notice describes the data privacy policy of Acushnet Company (“Acushnet") concerning transfer of personal information of Acushnet employees from the European Union (“EU”) and Switzerland to Acushnet corporate headquarters in the United States.  For the purposes of this notice, personal information means information relating to a present or former employee of Acushnet or any of its subsidiaries that can be linked to that individual.
 
 Acushnet collects and uses personal information about employees only for legitimate purposes reasonably related to an employee's employment, the employee's performance of the duties and responsibilities of his or her position, or Acushnet's ability to make services and benefits available to the employee.
 
@@ -139,8 +138,8 @@ Acushnet collects and uses personal information about employees only for legitim
 
 Acushnet only transfers personal information to the US for payroll management, headcount, incentive and merit decisions, succession planning, organization promotion and advancement, participation in benefit programs and other traditional human resources and/or personnel functions. The information transferred includes contact information, including name, address, internal or external identification numbers, compensation information, performance ratings, proposed incentive and merit increases and benefit program eligibility and participation information. The information collected is used solely for human resource administration, and is not further disseminated or used for any other purpose (e.g., marketing).
 
-No sensitive personal information, as defined in the EU Privacy Policy, is sent to the US. 
+No sensitive personal information, as defined in the EU and Switzerland Privacy Policy, is sent to the US.
 
-Employees are permitted reasonable access, after notice, to the personal information transferred to the US and may correct, amend or delete information that is inaccurate as reasonably possible. For access to your personal information, please contact your local human resource representative. 
+Employees are permitted reasonable access, after notice, to the personal information transferred to the US and may correct, amend or delete information that is inaccurate as reasonably possible. For access to your personal information, please contact your local human resource representative.
 
-Acushnet also transfers personal information to third-parties who use personal information provided for human resource administration tasks on behalf of Acushnet. Acushnet obtains assurances from these third parties that they will safeguard personal information consistent with the terms of the EU Privacy Policy. If Acushnet learns that a third party is using or disclosing personal information in a manner contrary to the terms of the EU Privacy Policy, Acushnet will take steps to prevent or stop the use or disclosure.
+Acushnet also transfers personal information to third-parties who use personal information provided for human resource administration tasks on behalf of Acushnet. Acushnet obtains assurances from these third parties that they will safeguard personal information consistent with the terms of the EU and Switzerland Privacy Policy.  If Acushnet learns that a third party is using or disclosing personal information in a manner contrary to the terms of the EU and Switzerland Privacy Policy, Acushnet will take steps to prevent or stop the use or disclosure. 
