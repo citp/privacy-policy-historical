@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the linkpdf.com privacy policy that was archived on 2011-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111003012330id_/http%3A//www.index-of-mp3.com/index.php%3Fdo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkpdf.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510030913id_/http%3A//www.index-of-mp3.com/index.php%3Fdo%3Dprivacy) for the most accurate reproduction.*
 
-# Download Mp3 Lirik Lagu
+# Free Download Mp3, Video, Lirik, Lagu 4shared Gratis Index Of Mp3
 
 **Privacy Statement**  
 This privacy statement was created by index-of-mp3.com to demonstrate our commitment to privacy. Please read this statement regarding our Websites.
