@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the agencyplatform.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201020903id_/http%3A//www.agencyplatform.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agencyplatform.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510025716id_/http%3A//www.agencyplatform.com/privacy-policy.html) for the most accurate reproduction.*
 
-# White Label SEO & Social Media Platform, Business Facebook Apps for Agencies
+# Privacy Policy - Agency Platform
 
 At Agency Platform, we understand the trust our users place in us and we fulfill our responsibility to protect the privacy of our users. Any website collecting information about users is legally required to inform users of how information is treated. 
 
