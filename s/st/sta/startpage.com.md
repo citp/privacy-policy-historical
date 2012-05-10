@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the startpage.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222231917id_/http%3A//startpage.com/eng/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startpage.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510110341id_/https%3A//www.startpage.com/uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Startpage.com ("Startpage") is strongly committed to protecting the privacy of its user community.
+In short:
 
-This privacy policy details the information Startpage may gather from the individuals who visit us, how that information is used, and our disclosure policy.
+###  Startpage does NOT collect or share your personal information! 
+
+The longer version:   
+Startpage is strongly committed to protecting the privacy of its user community. This privacy policy details the information Startpage.com ("Startpage") may gather from the individuals who visit us, how that information is used, and our disclosure policy. 
 
 ### IP Addresses
 
@@ -25,7 +28,7 @@ You can choose to accept or refuse cookies by changing the settings of your brow
 
 You can periodically delete cookies from your computer's hard drive, clearing out all historical data that may have been saved from your previous web surfing. If you delete cookies, you will not be recognized as a repeat visitor or viewer when returning to a site.
 
-To promote a cookie-free internet, Startpage has recently launched a [URL generator](https://web.archive.org/eng/urlgenerator-details.html) which eradicates the need for setting a cookie. It remembers your settings in a privacy friendly manner. It can be found at the bottom of the [MY SETTINGS](https://web.archive.org/do/preferences.pl?language_ui=english) page.
+To promote a cookie-free internet, Startpage has recently launched a [URL generator](https://web.archive.org/uk/urlgenerator-details.html) which eradicates the need for setting a cookie. It remembers your settings in a privacy friendly manner. It can be found at the bottom of the [SETTINGS](https://web.archive.org/do/preferences.pl?language_ui=english_uk) page.
 
 ### External Links
 
@@ -41,7 +44,7 @@ In light of the concern over protecting children's privacy online, Startpage doe
 
 ### Information Sharing
 
-Startpage does not share personal information with any third party search engine or the provider of its sponsored results. Click [here](https://web.archive.org/eng/information-sharing.html) for details. Startpage only shares personal information with third parties when obligated to do so by law (e.g. official court order or subpoena), or to protect against imminent harm to the rights, property or safety of Startpage, its users or the general public as required by law.
+Startpage does not share personal information with any third party search engine or the provider of its sponsored results. Click [here](https://web.archive.org/uk/information-sharing.html) for details. Startpage only shares personal information with third parties when obligated to do so by law (e.g. official court order or subpoena), or to protect against imminent harm to the rights, property or safety of Startpage, its users or the general public as required by law.
 
 ### Operator
 
