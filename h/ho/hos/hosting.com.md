@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hosting.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223004749id_/http%3A//www.hosting.com/terms-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hosting.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510063141id_/http%3A//www.hosting.com/terms-conditions/privacy-policy) for the most accurate reproduction.*
 
-# Hosting.com :: Privacy Policy
+# Privacy Policy
 
 This Privacy Policy discusses how Hosting.com, Inc. (Hosting.com) collects, uses, maintains and discloses information collected from our customers, visitors to our websites, individuals who contact us and visitors to our customers' websites (together, "Users").
 
