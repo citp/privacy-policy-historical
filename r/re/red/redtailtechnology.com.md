@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redtailtechnology.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205222438id_/http%3A//corporate.redtailtechnology.com/%3Fpage_id%3D84) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redtailtechnology.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510114528id_/http%3A//corporate.redtailtechnology.com/%3Fpage_id%3D84) for the most accurate reproduction.*
 
 # Redtail Technology | Privacy Policy
 
