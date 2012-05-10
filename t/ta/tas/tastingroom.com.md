@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tastingroom.com privacy policy that was archived on 2011-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111028135857id_/http%3A//www.tastingroom.com/control/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tastingroom.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510144123id_/http%3A//www.tastingroom.com/control/privacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy - TastingRoom.com
+# Taste and Discover Wines from Around the World at TastingRoom.com
 
 TastingRoom.com is committed to protecting the privacy of its customers. Our site has been designed and built with our customers’ privacy and security front of mind. These principles guide our privacy policy: 
 
