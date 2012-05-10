@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bored.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007201017id_/http%3A//www.bored.com/guest/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bored.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511014018id_/http%3A//www.bored.com/guest/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Play Free Games & Have Fun at Bored.com
 
