@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the savingstar.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009031606id_/https%3A//savingstar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savingstar.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510083847id_/https%3A//savingstar.com/privacy) for the most accurate reproduction.*
 
 # SavingStar Grocery eCoupons | Privacy Policy
+
+Effective Date: April 18, 2011
 
 SavingStar, Inc. recognizes that your privacy is important, and we want to be transparent about the information we collect, how we share and use that information and what controls you have. SavingStar is in the business of operating, administering, and providing services to Rewards Programs to help consumers receive value back when they shop. This Privacy Policy applies to all information collected by SavingStar, Inc. and any corporate affiliates (collectively, “SavingStar”) for current and former consumers in connection with all the products, services, websites and mobile applications we offer on behalf of ourselves or others. Please read this Privacy Policy carefully and [contact us](https://web.archive.org/contact/new) if you have any questions or concerns. Click here for an explanation of key terms used in this Privacy Policy.
 
