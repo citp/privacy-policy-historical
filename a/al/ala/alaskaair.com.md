@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the alaskaair.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228202701id_/http%3A//www.alaskaair.com/content/legal/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alaskaair.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510175750id_/http%3A//www.alaskaair.com/content/legal/privacy-policy.aspx%3Flid%3Dfooter%3AprivacyPolicy) for the most accurate reproduction.*
 
 # Online Privacy Notice - Alaska Airlines
 
 Alaska Airlines respects your concerns about privacy. This Privacy Notice applies to personal information we collect on the websites and mobile application (collectively, the "Sites") listed here.
 
   * alaskaair.com 
-  * horizonair.com
   * m.alaskaair.com (mobile site)
 
 
 
-  * Alaska Airlines mobile apps for iOS and BlackBerry
+  * Alaska Airlines mobile apps for Android, iOS, BlackBerry, and Windows Mobile
   * Alaska Airlines and Horizon Air Career Web sites
-  * flyasqx.com. wireless.alaskaair.com, mobile.alaskaair.com (alternate URLs for the mobile site)
 
 
 
@@ -33,6 +31,7 @@ When you visit the Sites, you may provide personal information directly to us, i
   * Payment information, such as credit card number and expiration date 
   * Gift card and travel certificate information, such as card code, PIN number, and e-ticket number 
   * Confirmation code, and e-ticket number, Mileage Plan™ number and other awards or loyalty program numbers 
+  * The location of your mobile device, if you use our mobile app or mobile website to search for the nearest airport or float plane dock 
   * Information about your education, work and military history, citizenship or legal work eligibility status, and other information relevant to specific jobs for which you wish to apply, such as whether you are at least 18 years of age.
 
 
@@ -45,7 +44,7 @@ Cookies are small files that websites send to your computer or other Internet-co
 
 Our Web servers may log information such as your device and operating system type, browser type,domain, device ID, and other system settings, as well as the language your system uses and the country and time zone where your device is located. The Web server logs also may record information such as the address of the Web page that referred you to our Site and the IP address of the device you use to connect to the Internet.
 
-To control which Web servers collect information by automated means, we may place tags on our Web pages called "Web beacons", which are small files that allow us to understand the actions of visitors to our Sites, and we use similar technology to analyze users’ interactions with our Mobile Apps.
+To control which Web servers collect information by automated means, we may place tags on our Web pages called "Web beacons", which are small files that allow us to understand the actions of visitors to our Sites, and we use similar technology to analyze users' interactions with our Mobile Apps.
 
 We use third-party Web analytics services on our Sites, such as those of Omniture and Google Analytics. These service providers use cookies and Web beacons or other technology to help us analyze how users use the Sites. The information collected by such technology (including, where applicable, your IP address) will be disclosed to these service providers, who use the information to facilitate the evaluation of your use of the Sites. To learn more about Omniture's services, including your opt-out options for the Omniture tools on our websites, [click here](http://www.omniture.com/en/privacy/product). To learn about opting out of Google Analytics, [click here](http://tools.google.com/dlpage/gaoptout). 
 
@@ -71,7 +70,7 @@ We may share personal information we collect on our Sites with our service provi
 
 We also may disclose information about you (i) if we are required to do so by law or legal process, (ii) to law enforcement authorities, or (iii) when we believe disclosure is necessary or appropriate to prevent harm or loss or in connection with an investigation of suspected or actual illegal activity.
 
-As mandated by the U.S. government and governments outside the U.S., Alaska Airlines and Horizon Air will provide to those governments specific passenger information collected on our Sites for travelers crossing international borders. For flights within the U.S., and pursuant to the Transportation Security Administration (TSA) Secure Flight Program, Alaska Airlines and Horizon Air are required to collect and transmit the following passenger information: Name, Birth Date, Gender and Redress Number, if available, to the TSA. For information from the TSA about its privacy practices, please visit [](http://www.tsa.gov/)www.tsa.gov. 
+As mandated by the U.S. government and governments outside the U.S., Alaska Airlines will provide to those governments specific passenger information collected on our Sites for travelers crossing international borders. For flights within the U.S., and pursuant to the Transportation Security Administration (TSA) Secure Flight Program, Alaska Airlines is required to collect and transmit the following passenger information: Name, Birth Date, Gender and Redress Number, if available, to the TSA. For information from the TSA about its privacy practices, please visit [](http://www.tsa.gov/)www.tsa.gov. 
 
 We also reserve the right to transfer personal information we have about you in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use personal information you have provided to us in a manner that is consistent with our Privacy Notice.
 
@@ -89,9 +88,9 @@ Subject to certain limits under California Civil Code § 1798.83, if you are a C
 
 We maintain appropriate administrative, technical and physical safeguards to protect the personal information you provide on our Sites against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use and other unlawful forms of processing.
 
-### Links to other Web sites
+### Links to other Websites
 
-Our Sites may provide links to other websites for your convenience and information. Those websites may be operated by companies not affiliated with us, such as the Bank of America website on which you can apply for an Alaska Airlines-branded credit card. Linked websites may have their own privacy policies, which we strongly suggest you review if you visit any linked websites. We are not responsible for the content of any websites that are not affiliated with Alaska Airlines or Horizon Air, any use of those websites, or the privacy practices of those websites.
+Our Sites may provide links to other websites for your convenience and information. Those websites may be operated by companies not affiliated with us, such as the Bank of America website on which you can apply for an Alaska Airlines-branded credit card. Linked websites may have their own privacy policies, which we strongly suggest you review if you visit any linked websites. We are not responsible for the content of any websites that are not affiliated with Alaska Airlines, any use of those websites, or the privacy practices of those websites.
 
 ### Children's Privacy
 
@@ -101,7 +100,7 @@ The Sites are not directed to children under the age of thirteen and we do not k
 
 This Privacy Notice may be updated periodically and without prior notice to you to reflect changes in our personal information practices or relevant laws. We will post a prominent notice on alaskaair.com to notify you of any significant changes to our Privacy Notice and indicate at the top of the notice when it was updated.
 
-### How To Contact Us
+### How to Contact Us
 
 If you have any questions or comments about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us as indicated below:
 
