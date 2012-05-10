@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phonezoo.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004738id_/http%3A//www.phonezoo.com/Privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonezoo.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510034635id_/http%3A//www.phonezoo.com/Privacy.do) for the most accurate reproduction.*
 
 # Phonezoo - Privacy Policy
 
@@ -78,7 +78,7 @@ _Questions about our Privacy Policy_
 If you have any questions about our Privacy Policy, please contact us at:
 
 Phonezoo Communications, Inc.  
-1290 Oakmead Parkway, Suite 107  
+1270 Oakmead Parkway, Suite 214  
 Sunnyvale, CA 94085  
 [privacy@phonezoo.com](mailto:privacy@phonezoo.com)
 
