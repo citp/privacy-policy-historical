@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercedes-gp.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129142452id_/http%3A//www3.mercedes-gp.com/staticlayer/privacypolicy_en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercedes-gp.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510105510id_/http%3A//www.mercedes-amg-f1.com/staticlayer/privacypolicy_en.html) for the most accurate reproduction.*
 
 # 
 
@@ -28,4 +28,4 @@ or enquiries@mercedes-gp.com
 
 Mercedes-Benz Grand Prix Ltd. is registered in England, registration number 787446 VAT number GB709258226. Last updated 22/01/10 
 
-Â© 2010 Mercedes-Benz Grand Prix. All rights reserved. 
+Â© 2012 Mercedes-Benz Grand Prix. All rights reserved. 
