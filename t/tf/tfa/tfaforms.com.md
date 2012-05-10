@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tfaforms.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210815id_/http%3A//www3.formassembly.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tfaforms.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510050615id_/http%3A//www3.formassembly.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -142,7 +142,7 @@ We may update this privacy statement to reflect changes to our information pract
 If you have questions or complaints regarding our privacy policy or practices, please contact us by email at: contact@formassembly.com, by phone: (812) 333-6505, or by post mail at:   
 `Veer West LLC  
 101 W. Kirkwood Ave.  
-Suite 307  
+Suite 224  
 Bloomington, IN 47404 USA  
 `
 
