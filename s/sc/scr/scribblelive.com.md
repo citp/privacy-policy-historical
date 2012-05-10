@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scribblelive.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104190959id_/https%3A//client.scribblelive.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scribblelive.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511012840id_/https%3A//client.scribblelive.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -53,5 +53,5 @@ Except as otherwise expressly included in this Privacy Policy, this document onl
 It is our goal to make our privacy practices easy to understand. If you have questions, concerns or if you would like more detailed information, please email our privacy officer at: [info@scribblelive.com](mailto:info@scribblelive.com)
 
 ##### **Scribble Technologies Inc.**  
-**215 Niagara Street, Suite 200**  
-**Toronto ON M6J 2L2**
+**488 Wellington St. West, Suite 200**  
+**Toronto, Ontario, M5V 1E3**
