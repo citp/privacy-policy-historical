@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the betterlesson.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209103925id_/http%3A//www.betterlesson.com/public/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterlesson.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510142316id_/http%3A//betterlesson.com/public/privacy_policy) for the most accurate reproduction.*
 
 # BetterLesson Privacy Policy
 
-BetterLesson Platform Privacy Notice
+## BetterLesson Platform Privacy Notice
 
 December 14, 2008 
 
@@ -12,6 +12,9 @@ BetterLesson values the privacy of the users, subscribers, publishers, members, 
 By using the BetterLesson Platform, you expressly consent to the information handling practices described in this notice. 
 
 This Privacy Notice is incorporated into and is subject to the BetterLesson Platform [Terms of Use](https://web.archive.org/public/terms_of_service).  Your use of the BetterLesson Platform and any personal information you provide through the BetterLesson Platform are subject at all time to this Privacy Notice and the [Terms of Use](https://web.archive.org/public/terms_of_service). 
+
+**TABLE OF CONTENTS**  
+
 
   1. The Information BetterLesson Collects 
   2. The Way BetterLesson Uses Information 
