@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadavisa.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101122402id_/http%3A//www.canadavisa.com/canada-immigration-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadavisa.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510205359id_/http%3A//www.canadavisa.com/canada-immigration-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,9 +6,9 @@
 
 Our postal address is: 
 
-215 Redfern, Suite 118,  
-Montreal, Quebec, Canada  
-H3Z 3L5  
+1980 Sherbrooke Street West, Suite 800  
+Montreal, QC, Canada  
+H3H 1E8  
 1.514.937.9445  
 1.888.947.9445 (Toll free in North America)  
 
