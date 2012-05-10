@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the usinsurancenet.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103100918id_/http%3A//usinsurancenet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usinsurancenet.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510202815id_/http%3A//usinsurancenet.com/privacy) for the most accurate reproduction.*
 
-# US Insurance Net Privacy Policy | US Insurance Net
+# US Insurance Net
 
 **What information do we collect?**
 
