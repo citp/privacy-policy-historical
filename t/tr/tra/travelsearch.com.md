@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the travelsearch.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210339id_/http%3A//www.kayak.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelsearch.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510095023id_/http%3A//www.kayak.com/help/privacy.html) for the most accurate reproduction.*
 
 # KAYAK - Privacy Policy
 
-_Effective as of March 10, 2011_
+_Effective as of February 17, 2012_
 
 Our goal is to make KAYAK the most trusted company in online travel.
 
@@ -32,7 +32,9 @@ KAYAK gives you the option of receiving emails from us. We think they are quite 
 
 ## **In This Case Sharing Is Not Caring**
 
-What's yours is yours. We won't sell your name, email address, phone number, credit card information or billing address to anyone. There might be an exception in the event KAYAK itself is sold. In this case we would transfer your PII to our buyers so that they could continue to provide the same great KAYAK service. Also, if you use the My Trips Service, you can send, or grant access to, your itinerary to your friends and family. Once displayed on publicly-viewable web pages, that information can be collected and used by others.
+We may share information you provide us with third parties for our legitimate business purposes, including vendors who perform services on our behalf. For example we may share your name, contact information, and billing information with our vendors in order to process your booking request. We may also share your information from time to time as otherwise described to you at the time of collection. 
+
+What's yours is yours. We won't sell your name, email address, phone number, credit card information or billing address to anyone. There might be an exception in the event KAYAK itself is sold or if there is otherwise a change in corporate ownership. In this case we would transfer your PII to our buyers so that they could continue to provide the same great KAYAK service. Also, if you use the My Trips Service, you can send, or grant access to, your itinerary to your friends and family. Once displayed on publicly-viewable web pages, that information can be collected and used by others.
 
 From time to time, we will also share aggregated usage information with others. This type of information does not contain your identity or anything personally identifiable to you.
 
@@ -85,4 +87,4 @@ Attention: Privacy Officer
 55 North Water Street, Suite 1  
 Norwalk, CT 06854. 
 
-Last updated: February 28, 2011
+Last updated: February 17, 2012
