@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mysitemyway.com privacy policy that was archived on 2011-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111214054519id_/http%3A//mysitemyway.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mysitemyway.com privacy policy that was archived on 2012-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120510065732id_/http%3A//mysitemyway.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en-US"><!--<![endif]--><head>
 <meta charset="UTF-8">
@@ -16,10 +16,11 @@ document.write('<style type="text/css">.noscript{visibility: hidden;}h1,h2,h3,.i
 /* ]]> */
 </script><style type="text/css">.noscript{visibility: hidden;}h1,h2,h3,.intro_title,.teaser,#intro h5,.msmw_footer_teaser,.toggle a,.toggle_accordion a{opacity: 0;-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";filter: alpha(opacity=0);}</style>
 
-<link rel="stylesheet" href="http://mysitemyway.com/_shared/shortcodes.css?ver=1.0" type="text/css" media="screen">
-<link rel="stylesheet" href="http://mysitemyway.com/_shared/style.css?ver=1.0" type="text/css" media="screen">
-<link rel="stylesheet" href="http://mysitemyway.com/_shared/msmw.css?ver=1.0" type="text/css" media="screen">
-<link rel="stylesheet" id="mysite_prettyphoto-css" href="http://mysitemyway.com/wp-content/themes/persuasion/lib/scripts/prettyphoto/css/prettyPhoto.css?ver=1.0.0" type="text/css" media="screen">
+<link rel="stylesheet" href="http://mysitemyway.com/_shared/shortcodes.css?ver=2.3" type="text/css" media="screen">
+<link rel="stylesheet" href="http://mysitemyway.com/_shared/style.css?ver=2.3" type="text/css" media="screen">
+<link rel="stylesheet" href="http://mysitemyway.com/_shared/msmw.css?ver=2.3" type="text/css" media="screen">
+<link rel="stylesheet" id="mysite_prettyphoto-css" href="http://mysitemyway.com/wp-content/themes/persuasion/lib/scripts/prettyphoto/css/prettyPhoto.css?ver=2.1" type="text/css" media="screen">
+<link rel="stylesheet" href="http://mysitemyway.com/_shared/carousel/carousel.css?ver=1.1" type="text/css" media="screen">
 
 <!--[if IE 8]> <link rel="stylesheet" href="http://mysitemyway.com/_shared/ie8.css" type="text/css" /> <![endif]-->
 
@@ -29,8 +30,80 @@ document.write('<style type="text/css">.noscript{visibility: hidden;}h1,h2,h3,.i
 <script type="text/javascript" src="http://mysitemyway.com/wp-content/themes/persuasion/lib/scripts/cluetip/jquery.cluetip.js?ver=1.0"></script>
 <script type="text/javascript" src="http://mysitemyway.com/wp-content/themes/persuasion/lib/scripts/jquery.form.js?ver=1.0"></script>
 <script type="text/javascript" src="http://mysitemyway.com/wp-content/plugins/mailchimp-widget/js/mailchimp-widget-min.js?ver=3.2"></script>
-<script type="text/javascript" src="http://mysitemyway.com/wp-content/themes/persuasion/lib/scripts/custom.js?ver=1.0"></script>
-<link rel="alternate" type="application/rss+xml" title="Mysitemyway » Privacy Policy Comments Feed" href="http://mysitemyway.com/privacy-policy/feed/">
+<script type="text/javascript" src="http://mysitemyway.com/_shared/carousel/jquery.carousel-1.1.js?ver=1.0"></script>
+<script type="text/javascript" src="http://mysitemyway.com/wp-content/themes/persuasion/lib/scripts/custom.js?ver=2.1"></script>
+
+<style>
+   .roundabout-holder { padding: 0; height: 25em; list-style: none }
+   .roundabout-moveable-item {
+      background: -moz-linear-gradient(90deg, #BBBBBB 0%, #FCFCFC 100%) repeat scroll 0 0 transparent;
+	    border: 1px solid #999999;
+	    cursor: pointer;
+	    height: 20em;
+	    overflow: hidden;
+	    width: 28em;
+   }
+   .roundabout-in-focus { cursor: auto; }
+</style>
+
+<script>
+
+   jQuery(document).ready(function() {
+	
+	//var msmw_roundabout = setTimeout(function() {
+		
+		jQuery('.carousel').preloader({
+			imgAppend: '.msmw_roundabout_img',
+			fade: false,
+			
+			oneachload: function(image){
+				slide_hover = jQuery(image).parent().parent().next().not('.spinner').removeClass('slide_hover');
+				slide_hover.remove();
+				slide_hover.appendTo(jQuery(image).parent().parent()).css('display','none');
+			},
+			
+			onDone: function(){
+				
+				slide_hover = jQuery('.slides').find('.slide_hover').removeClass('slide_hover');
+				slide_append = jQuery('.msmw_roundabout_img:last');
+				slide_hover.appendTo(slide_append).css('display','none');
+				
+				jQuery('#slider_module #msmw_roundabout_loader').remove();
+				
+				jQuery('.carousel').carousel({shadow:true, autoplay:false,after: function(carousel){
+					jQuery('.slides').children().removeClass('active_slide');
+					jQuery('.slides').children().eq(carousel.current).addClass('active_slide');
+				}});
+				
+				jQuery('.slides').children().eq(0).addClass('active_slide');
+				
+				jQuery('.carousel').removeClass('noscript');
+				jQuery('.carousel img').css('display','block');
+				
+				//clearTimeout(msmw_roundabout);
+			}
+			
+		});
+		
+	//}, 1000 );
+	
+	
+	jQuery('.active_slide').live('hover',
+	        function(e)
+	        {
+				if(e.type == 'mouseenter'){
+					jQuery(this).children().eq(1).fadeIn();
+				}
+				if(e.type == 'mouseleave'){
+					jQuery(this).children().eq(1).fadeOut();
+				}
+	        }
+	    );
+	
+	
+	
+   });
+</script><link rel="alternate" type="application/rss+xml" title="Mysitemyway » Privacy Policy Comments Feed" href="http://mysitemyway.com/privacy-policy/feed/">
 <script type="text/javascript" src="http://mysitemyway.com/wp-includes/js/l10n.js?ver=20101110"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://mysitemyway.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://mysitemyway.com/wp-includes/wlwmanifest.xml"> 
@@ -57,7 +130,45 @@ document.write('<style type="text/css">.noscript{visibility: hidden;}h1,h2,h3,.i
 </script></head>
 
 <body class="has_breadcrumbs full_width has_intro has_outro">
-<div class="multibg"><div class="multibg"></div></div>
+<script>
+var msmwAnnouncement = function() {
+  return {
+    init: function(cookie_name, container, button_text) {
+      var $container = jQuery(container).parent();
+
+      var link = jQuery("<a href='#' class='close-link'>" + button_text + "</a>").click(function() {  
+        $container.animate({
+          height: 0
+        }, '400');
+        jQuery.cookie(cookie_name, "hidden", { path: '/', expires: 3 });
+        return false;
+      });
+
+      jQuery(container).append(link);
+
+	  var announcement = jQuery.cookie(cookie_name);
+      if(announcement != 'hidden' || announcement == null) {
+        $container.removeClass("hidden");
+      }
+    }
+  };
+}();
+</script>
+
+<style>
+.promo_bar{background:url(http://mysitemyway.com/promo/images/promo-gradient.png) repeat-x 0 0 transparent;height:71px;overflow:hidden;position:relative;z-index:4000;}
+.promo_bar h4{margin:0 auto;padding:0;position:relative;width:984px;}
+.promo_bar a{background:url(http://mysitemyway.com/promo/images/promo-bar.png) no-repeat 0 center transparent;display:block;height:71px;margin:0;position:relative;text-indent:-9999px;}
+.promo_bar .close-link{background:url(http://mysitemyway.com/promo/images/promo-close.png) no-repeat 5px center #1D201F;border:1px solid #222;color:#ddd;font-size:10px;height:auto;letter-spacing:1px;text-indent:0;line-height:10px;padding:5px 5px 5px 20px;position:absolute;right:-70px;top:25px;border-radius:2px;}
+</style>
+
+
+<div class="promo_bar hidden">
+    <h4><a href="http://mysitemyway.com/user/link.php?id=45">Limited time only! The Ultimate WordPress Developer Bundle only $149</a></h4>
+</div>
+<script>
+	msmwAnnouncement.init('msmw_bundle', 'div.promo_bar h4', 'close');
+</script><div class="multibg"><div class="multibg"></div></div>
 <div id="body_inner">
 	
 <div id="header">
@@ -74,6 +185,8 @@ document.write('<style type="text/css">.noscript{visibility: hidden;}h1,h2,h3,.i
 			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home"><a href="http://mysitemyway.com/"><span>Home</span></a></li>
 			<li class="menu-item menu-item-object-page current-page-ancestor"><a href="http://mysitemyway.com/themes/"><span>Themes ˇ</span><small> </small></a>
 				<ul class="sub-menu">
+					<li class="menu-item menu-item-object-theme"><a href="http://mysitemyway.com/theme/construct-wordpress-theme/">Construct</a></li>
+					<li class="menu-item menu-item-object-theme"><a href="http://mysitemyway.com/theme/myriad-wordpress-theme/">Myriad</a></li>
 					<li class="menu-item menu-item-object-theme"><a href="http://mysitemyway.com/theme/method-wordpress-theme/">Method</a></li>
 					<li class="menu-item menu-item-object-theme"><a href="http://mysitemyway.com/theme/fusion-wordpress-theme/">Fusion</a></li>
 					<li class="menu-item menu-item-object-theme"><a href="http://mysitemyway.com/theme/elegance-wordpress-theme/">Elegance</a></li>
@@ -202,9 +315,9 @@ document.write('<style type="text/css">.noscript{visibility: hidden;}h1,h2,h3,.i
 		});
 		/* ]]> */
 		</script>
-		<div id="outro"><div id="outro_inner"><a class="prev">prev</a><div class="recent_themes_scroller"><div class="recent_themes_slides"><div class="recent_themes_pane"><div class="one_fifth"><div class="recent_theme_module"><a href="http://themes.mysitemyway.com/?theme=Method"><img src="http://mysitemyway.com/_shared/images/outro/method_wordpress_theme.png" alt="Method WordPress Theme" class="recent_theme"></a><div class="recent_theme_hover" style="display: none;"><a href="http://mysitemyway.com/theme/method-wordpress-theme/" class="theme_details_icon">details</a><a href="http://mysitemyway.com/user/cart.php?a=add&amp;pid=18" class="theme_purchase_icon">purchase</a></div><div class="base_theme"><a href="http://mysitemyway.com/theme/method-wordpress-theme/">Method</a><em> wordpress theme</em></div></div></div><div class="one_fifth"><div class="recent_theme_module"><a href="http://themes.mysitemyway.com/?theme=Fusion"><img src="http://mysitemyway.com/_shared/images/outro/fusion_wordpress_theme.png" alt="Fusion WordPress Theme" class="recent_theme"></a><div class="recent_theme_hover" style="display: none;"><a href="http://mysitemyway.com/theme/fusion-wordpress-theme/" class="theme_details_icon">details</a><a href="http://mysitemyway.com/user/cart.php?a=add&amp;pid=16" class="theme_purchase_icon">purchase</a></div><div class="base_theme"><a href="http://mysitemyway.com/theme/fusion-wordpress-theme/">Fusion</a><em> wordpress theme</em></div></div></div><div class="one_fifth"><div class="recent_theme_module"><a href="http://themes.mysitemyway.com/?theme=Elegance"><img src="http://mysitemyway.com/_shared/images/outro/elegance_wordpress_theme.png" alt="Elegance WordPress Theme" class="recent_theme"></a><div class="recent_theme_hover" style="display: none;"><a href="http://mysitemyway.com/theme/elegance-wordpress-theme/" class="theme_details_icon">details</a><a href="http://mysitemyway.com/user/cart.php?a=add&amp;pid=14" class="theme_purchase_icon">purchase</a></div><div class="base_theme"><a href="http://mysitemyway.com/theme/elegance-wordpress-theme/">Elegance</a><em> wordpress theme</em></div></div></div><div class="one_fifth"><div class="recent_theme_module"><a href="http://themes.mysitemyway.com/?theme=Echelon"><img src="http://mysitemyway.com/_shared/images/outro/echelon_wordpress_theme.png" alt="Echelon WordPress Theme" class="recent_theme"></a><div class="recent_theme_hover" style="display: none;"><a href="http://mysitemyway.com/theme/echelon-wordpress-theme/" class="theme_details_icon">details</a><a href="http://mysitemyway.com/user/cart.php?a=add&amp;pid=13" class="theme_purchase_icon">purchase</a></div><div class="base_theme"><a href="http://mysitemyway.com/theme/echelon-wordpress-theme/">Echelon</a><em> wordpress theme</em></div></div></div><div class="one_fifth last"><div class="recent_theme_module"><a href="http://themes.mysitemyway.com/?theme=Persuasion"><img src="http://mysitemyway.com/_shared/images/outro/persuasion_wordpress_theme.png" alt="Persuasion WordPress Theme" class="recent_theme"></a><div class="recent_theme_hover" style="display: none;"><a href="http://mysitemyway.com/theme/persuasion-wordpress-theme/" class="theme_details_icon">details</a><a href="http://mysitemyway.com/user/cart.php?a=add&amp;pid=12" class="theme_purchase_icon">purchase</a></div><div class="base_theme"><a href="http://mysitemyway.com/theme/persuasion-wordpress-theme/">Persuasion</a><em> wordpress theme</em></div></div></div></div><div class="recent_themes_pane"><div class="one_fifth"><div class="recent_theme_module"><a href="http://themes.mysitemyway.com/?theme=Dejavu"><img src="http://mysitemyway.com/_shared/images/outro/dejavu_wordpress_theme.png" alt="Dejavu WordPress Theme" class="recent_theme"></a><div class="recent_theme_hover" style="display: none;"><a href="http://mysitemyway.com/theme/dejavu-wordpress-theme/" class="theme_details_icon">details</a><a href="http://mysitemyway.com/user/cart.php?a=add&amp;pid=11" class="theme_purchase_icon">purchase</a></div><div class="base_theme"><a href="http://mysitemyway.com/theme/dejavu-wordpress-theme/">Dejavu</a><em> wordpress theme</em></div></div></div><div class="one_fifth"><div class="recent_theme_module"><a href="http://themes.mysitemyway.com/?theme=Modular"><img src="http://mysitemyway.com/_shared/images/outro/modular_wordpress_theme.png" alt="Modular WordPress Theme" class="recent_theme"></a><div class="recent_theme_hover" style="display: none;"><a href="http://mysitemyway.com/theme/modular-wordpress-theme/" class="theme_details_icon">details</a><a href="http://mysitemyway.com/user/cart.php?a=add&amp;pid=10" class="theme_purchase_icon">purchase</a></div><div class="base_theme"><a href="http://mysitemyway.com/theme/modular-wordpress-theme/">Modular</a><em> wordpress theme</em></div></div></div></div></div></div><a class="next">next</a></div></div>
+		<div id="outro"><div id="outro_inner"><a class="prev">prev</a><div class="recent_themes_scroller"><div class="recent_themes_slides"><div class="recent_themes_pane"><div class="one_fifth"><div class="recent_theme_module"><a href="http://themes.mysitemyway.com/?theme=Construct"><img src="http://mysitemyway.com/wp-content/uploads/2012/03/construct_wordpress_theme_thumb.png" alt="Construct WordPress Theme" class="recent_theme"></a><div class="recent_theme_hover" style="display: none;"><a href="http://mysitemyway.com/theme/construct-wordpress-theme/" class="theme_details_icon">details</a><a href="http://mysitemyway.com/user/cart.php?a=add&amp;pid=21" class="theme_purchase_icon">purchase</a></div><div class="base_theme"><a href="http://mysitemyway.com/theme/construct-wordpress-theme/">Construct</a><em> wordpress theme</em></div></div></div><div class="one_fifth"><div class="recent_theme_module"><a href="http://themes.mysitemyway.com/?theme=Myriad"><img src="http://mysitemyway.com/wp-content/uploads/2012/01/myriad_wordpress_theme_thumb.jpg" alt="Myriad WordPress Theme" class="recent_theme"></a><div class="recent_theme_hover" style="display: none;"><a href="http://mysitemyway.com/theme/myriad-wordpress-theme/" class="theme_details_icon">details</a><a href="http://mysitemyway.com/user/cart.php?a=add&amp;pid=20" class="theme_purchase_icon">purchase</a></div><div class="base_theme"><a href="http://mysitemyway.com/theme/myriad-wordpress-theme/">Myriad</a><em> wordpress theme</em></div></div></div><div class="one_fifth"><div class="recent_theme_module"><a href="http://themes.mysitemyway.com/?theme=Method"><img src="http://mysitemyway.com/_shared/images/outro/method_wordpress_theme.png" alt="Method WordPress Theme" class="recent_theme"></a><div class="recent_theme_hover" style="display: none;"><a href="http://mysitemyway.com/theme/method-wordpress-theme/" class="theme_details_icon">details</a><a href="http://mysitemyway.com/user/cart.php?a=add&amp;pid=18" class="theme_purchase_icon">purchase</a></div><div class="base_theme"><a href="http://mysitemyway.com/theme/method-wordpress-theme/">Method</a><em> wordpress theme</em></div></div></div><div class="one_fifth"><div class="recent_theme_module"><a href="http://themes.mysitemyway.com/?theme=Fusion"><img src="http://mysitemyway.com/_shared/images/outro/fusion_wordpress_theme.png" alt="Fusion WordPress Theme" class="recent_theme"></a><div class="recent_theme_hover" style="display: none;"><a href="http://mysitemyway.com/theme/fusion-wordpress-theme/" class="theme_details_icon">details</a><a href="http://mysitemyway.com/user/cart.php?a=add&amp;pid=16" class="theme_purchase_icon">purchase</a></div><div class="base_theme"><a href="http://mysitemyway.com/theme/fusion-wordpress-theme/">Fusion</a><em> wordpress theme</em></div></div></div><div class="one_fifth last"><div class="recent_theme_module"><a href="http://themes.mysitemyway.com/?theme=Elegance"><img src="http://mysitemyway.com/_shared/images/outro/elegance_wordpress_theme.png" alt="Elegance WordPress Theme" class="recent_theme"></a><div class="recent_theme_hover" style="display: none;"><a href="http://mysitemyway.com/theme/elegance-wordpress-theme/" class="theme_details_icon">details</a><a href="http://mysitemyway.com/user/cart.php?a=add&amp;pid=14" class="theme_purchase_icon">purchase</a></div><div class="base_theme"><a href="http://mysitemyway.com/theme/elegance-wordpress-theme/">Elegance</a><em> wordpress theme</em></div></div></div></div><div class="recent_themes_pane"><div class="one_fifth"><div class="recent_theme_module"><a href="http://themes.mysitemyway.com/?theme=Echelon"><img src="http://mysitemyway.com/_shared/images/outro/echelon_wordpress_theme.png" alt="Echelon WordPress Theme" class="recent_theme"></a><div class="recent_theme_hover" style="display: none;"><a href="http://mysitemyway.com/theme/echelon-wordpress-theme/" class="theme_details_icon">details</a><a href="http://mysitemyway.com/user/cart.php?a=add&amp;pid=13" class="theme_purchase_icon">purchase</a></div><div class="base_theme"><a href="http://mysitemyway.com/theme/echelon-wordpress-theme/">Echelon</a><em> wordpress theme</em></div></div></div><div class="one_fifth"><div class="recent_theme_module"><a href="http://themes.mysitemyway.com/?theme=Persuasion"><img src="http://mysitemyway.com/_shared/images/outro/persuasion_wordpress_theme.png" alt="Persuasion WordPress Theme" class="recent_theme"></a><div class="recent_theme_hover" style="display: none;"><a href="http://mysitemyway.com/theme/persuasion-wordpress-theme/" class="theme_details_icon">details</a><a href="http://mysitemyway.com/user/cart.php?a=add&amp;pid=12" class="theme_purchase_icon">purchase</a></div><div class="base_theme"><a href="http://mysitemyway.com/theme/persuasion-wordpress-theme/">Persuasion</a><em> wordpress theme</em></div></div></div><div class="one_fifth"><div class="recent_theme_module"><a href="http://themes.mysitemyway.com/?theme=Dejavu"><img src="http://mysitemyway.com/_shared/images/outro/dejavu_wordpress_theme.png" alt="Dejavu WordPress Theme" class="recent_theme"></a><div class="recent_theme_hover" style="display: none;"><a href="http://mysitemyway.com/theme/dejavu-wordpress-theme/" class="theme_details_icon">details</a><a href="http://mysitemyway.com/user/cart.php?a=add&amp;pid=11" class="theme_purchase_icon">purchase</a></div><div class="base_theme"><a href="http://mysitemyway.com/theme/dejavu-wordpress-theme/">Dejavu</a><em> wordpress theme</em></div></div></div><div class="one_fifth"><div class="recent_theme_module"><a href="http://themes.mysitemyway.com/?theme=Modular"><img src="http://mysitemyway.com/_shared/images/outro/modular_wordpress_theme.png" alt="Modular WordPress Theme" class="recent_theme"></a><div class="recent_theme_hover" style="display: none;"><a href="http://mysitemyway.com/theme/modular-wordpress-theme/" class="theme_details_icon">details</a><a href="http://mysitemyway.com/user/cart.php?a=add&amp;pid=10" class="theme_purchase_icon">purchase</a></div><div class="base_theme"><a href="http://mysitemyway.com/theme/modular-wordpress-theme/">Modular</a><em> wordpress theme</em></div></div></div></div></div></div><a class="next">next</a></div></div>
 
-<!-- Footer Teaser Cached 14th December 2011 05:41 -->
+<!-- Footer Teaser Cached 10th May 2012 06:56 -->
 
 <div id="footer">
 	<div class="multibg">
@@ -215,7 +328,7 @@ document.write('<style type="text/css">.noscript{visibility: hidden;}h1,h2,h3,.i
 	
 	
 <div id="msmw_free_trial">
-	<a href="http://trial.mysitemyway.com/" class="button_link hover_fade alignright free_trial_button"><span>Start Your Free Trial</span></a>
+	<a href="http://mysitemyway.com/user/link.php?id=13" class="button_link hover_fade alignright free_trial_button"><span>Start Your Free Trial</span></a>
 	<p class="msmw_footer_teaser">Come and be a part of the fastest growing new Premium WordPress Theme Club around!</p> 
 	<div class="clearboth divider"></div>
 </div><!-- msmw_free_trial -->
@@ -258,7 +371,7 @@ document.write('<style type="text/css">.noscript{visibility: hidden;}h1,h2,h3,.i
 <h4 class="widgettitle margin10">Live Demos</h4>			
 <div class="execphpwidget">
 <ul class="msmw_link_list">
-<li><a href="http://themes.mysitemyway.com/?theme=Method">Method WP Theme</a></li><li><a href="http://themes.mysitemyway.com/?theme=Fusion">Fusion WP Theme</a></li><li><a href="http://themes.mysitemyway.com/?theme=Elegance">Elegance WP Theme</a></li><li><a href="http://themes.mysitemyway.com/?theme=Echelon">Echelon WP Theme</a></li><li><a href="http://themes.mysitemyway.com/?theme=Persuasion">Persuasion WP Theme</a></li><li><a href="http://themes.mysitemyway.com/?theme=Dejavu">Dejavu WP Theme</a></li><li><a href="http://themes.mysitemyway.com/?theme=Modular">Modular WP Theme</a></li></ul></div>
+<li><a href="http://themes.mysitemyway.com/?theme=Construct">Construct WP Theme</a></li><li><a href="http://themes.mysitemyway.com/?theme=Myriad">Myriad WP Theme</a></li><li><a href="http://themes.mysitemyway.com/?theme=Method">Method WP Theme</a></li><li><a href="http://themes.mysitemyway.com/?theme=Fusion">Fusion WP Theme</a></li><li><a href="http://themes.mysitemyway.com/?theme=Elegance">Elegance WP Theme</a></li><li><a href="http://themes.mysitemyway.com/?theme=Echelon">Echelon WP Theme</a></li><li><a href="http://themes.mysitemyway.com/?theme=Persuasion">Persuasion WP Theme</a></li></ul></div>
 </div></div>
 
 
@@ -270,7 +383,7 @@ document.write('<style type="text/css">.noscript{visibility: hidden;}h1,h2,h3,.i
 	<img class="guarantee_badge" src="http://mysitemyway.com/_shared/images/mysitemyway_money_back_guarantee.png" alt="Mysitemyway Money Back Guarantee">
 	<div class="guarantee">
 	<img class="guarantee_title" src="http://mysitemyway.com/_shared/images/30-day-money-back-guarantee.png" alt="30 Day Money Back Guarantee">
-	<p>We stand behind the quality of our themes, and believe that you will be fully satisfied. If, for any reason you are not fully satisfied, we offer a 30 day, no-hassle, money-back guarantee.</p>
+	<a href="http://mysitemyway.com/frequently-asked-questions/#a7"><p>We stand behind the quality of our themes, and believe that you will be fully satisfied. If, for any reason you are not fully satisfied, we offer a 30 day, no-hassle, money-back guarantee.</p></a>
 	</div>
 </div><!-- msmw_free_trial -->
 
@@ -288,10 +401,10 @@ document.write('<style type="text/css">.noscript{visibility: hidden;}h1,h2,h3,.i
 <div id="msmw_who_widget" class="margin50">
 	<h4 class="widgettitle">Who's Using Mysitemyway?</h4>
 	<div class="msmw_active_users">
-	<span class="num4">4</span><span class="num5">5</span><span class="num7">7</span><span class="num2">2</span>	<strong>Active Users</strong> Can't Be Wrong...
+	<span class="num7">7</span><span class="num0">0</span><span class="num3">3</span><span class="num5">5</span>	<strong>Active Users</strong> Can't Be Wrong...
 	</div><!-- msmw_active_users -->
 	<div class="msmw_forum_posts">
-	<span class="num4">4</span><span class="num2">2</span><span class="num0">0</span><span class="num7">7</span><span class="num9">9</span>	<strong>Support Forum</strong> Posts Served!
+	<span class="num6">6</span><span class="num6">6</span><span class="num3">3</span><span class="num3">3</span><span class="num2">2</span>	<strong>Support Forum</strong> Posts Served!
 	</div><!-- msmw_forum_posts -->
 </div><!-- msmw_who_widget -->
 
@@ -299,19 +412,11 @@ document.write('<style type="text/css">.noscript{visibility: hidden;}h1,h2,h3,.i
 
 
 <div id="msmw_testimonial_widget" class="margin30">
-		<div class="msmw_testimonial_module"><div class="msmw_testimonial_wrap"><div id="footer_testimonial_419" class="msmw_single_testimonial"><p>I just wanted to say, that this theme is absolutely amazing. The documentation is superb and the customer service is above and beyond!</p>
+		<div class="msmw_testimonial_module"><div class="msmw_testimonial_wrap"><div id="footer_testimonial_537" class="msmw_single_testimonial">I've been working with WordPress for a while now and I wanted to say that MysiteMyway is by far the best support I have come across.  I've purchased about 30 themes, Dejavu was the first from these guys and I couldn't be happier!</div><p class="msmw_testimonial_author"><span class="testimonial_author">Layers</span></p></div><div class="msmw_testimonial_wrap" style="display:none;"><div id="footer_testimonial_540" class="msmw_single_testimonial">Your themes and support are the best in the entire Internet universe! Over the years I have bought many themes that never work as advertised. Your 30 day money back guarantee is a no brainer risk on your part: Who would ever want their money back? The designers, QA and support staffs are a throwback to the good old days when businesses cared about the quality of their products and their customers.</div><p class="msmw_testimonial_author"><span class="testimonial_author">Frank Gennaro</span></p></div><div class="msmw_testimonial_wrap" style="display:none;"><div id="footer_testimonial_528" class="msmw_single_testimonial">I just wanted to say, that this theme is absolutely amazing. The documentation is superb and the customer service is above and beyond! I would have spent MORE for such expertise and service that you receive with this product.
+<br>
+Thanks so much and keep up the amazing work!!!</div><p class="msmw_testimonial_author"><span class="testimonial_author">wildefranz</span></p></div><div class="msmw_testimonial_wrap" style="display:none;"><div id="footer_testimonial_535" class="msmw_single_testimonial"><p>Just a quick thanks for producing such wonderful themes. I can’t tell you how much I appreciate the amount of time, skill and craftsmanship that wen’t into these. The detail is incredible, every corner I peak into I find something that surprises me. And the documentation, it’s extremely well written and very easy to follow.</p>
 
-<p>I would have spent MORE for such expertise and service that you receive with this product.</p>
-
-Thanks so much and keep up the amazing work!!!</div><p class="msmw_testimonial_author"><span class="testimonial_author">wildefranz</span></p></div><div class="msmw_testimonial_wrap" style="display:none;"><div id="footer_testimonial_418" class="msmw_single_testimonial">Great Support !!! &amp; very powefull WP Theme… Super Flexible %100 recomended</div><p class="msmw_testimonial_author"><span class="testimonial_author">JavierDesigns</span></p></div><div class="msmw_testimonial_wrap" style="display:none;"><div id="footer_testimonial_417" class="msmw_single_testimonial">Just purchased your theme…..Absolutely fantastic so far! Extremely well documented. This is the most flexible WP theme I have ever purchased. Thanks for the great work!	</div><p class="msmw_testimonial_author"><span class="testimonial_author">kwhittaker</span></p></div><div class="msmw_testimonial_wrap" style="display:none;"><div id="footer_testimonial_416" class="msmw_single_testimonial"><p>Woww!</p>
-
-<p>Is been two hours I’m working on the theme and let me tell you that i have seen lots of Wordpress themes before but this one is above any of them, i never worked on a theme that advanced, you tough about everything, this theme is so advanced that i wish i could 10 stars it. Looking forward for your next one.</p>
-   
-Thank you :)</div><p class="msmw_testimonial_author"><span class="testimonial_author">danyno45</span></p></div><div class="msmw_testimonial_wrap" style="display:none;"><div id="footer_testimonial_415" class="msmw_single_testimonial"><p>I would just like to say – Big Thumbs Up for the clean, well designed theme.</p>
-   
-<p>Great support too by the look of it – although I didn’t need any help – the theme is so well designed and I RARELY give out praise for themes!</p>
-   
-Thanks and well done.</div><p class="msmw_testimonial_author"><span class="testimonial_author">Sol</span></p></div><span class="testimonial_nav"><span class="testimonial_prev">Prev</span><span class="testimonial_next">Next</span></span></div>
+Well done,</div><p class="msmw_testimonial_author"><span class="testimonial_author">Ed</span></p></div><div class="msmw_testimonial_wrap" style="display:none;"><div id="footer_testimonial_527" class="msmw_single_testimonial">Great Support !!! &amp; very powefull WP Theme… Super Flexible %100 recommended</div><p class="msmw_testimonial_author"><span class="testimonial_author">JavierDesigns</span></p></div><span class="testimonial_nav"><span class="testimonial_prev">Prev</span><span class="testimonial_next">Next</span></span></div>
 		<script type="text/javascript">
 		/* <![CDATA[ */
 		jQuery(document).ready(function() {
@@ -360,7 +465,7 @@ Thanks and well done.</div><p class="msmw_testimonial_author"><span class="testi
 <div id="msmw_newsletter_widget" class="margin50">
 	<h4 class="widgettitle">Join The Mailing List</h4>
 	<div id="msmw_newsletter_form">
-		<div id="ns_widget_mailchimp-3" class="widget widget_ns_mailchimp"><h4 class="widgettitle"></h4><form action="/" id="ns_widget_mailchimp_form-3" method="post"><input type="hidden" name="ns_mc_number" value="3">
+		<div id="ns_widget_mailchimp-3" class="widget widget_ns_mailchimp"><h4 class="widgettitle"></h4><form action="/images/shadowLeft.png" id="ns_widget_mailchimp_form-3" method="post"><input type="hidden" name="ns_mc_number" value="3">
 				<input type="text" name="ns_widget_mailchimp_email">
 				<input class="button" type="submit" name="Subscribe" value="Subscribe">
 				</form>
@@ -409,7 +514,7 @@ Thanks and well done.</div><p class="msmw_testimonial_author"><span class="testi
 
 </div><!-- end footer_extras_inner -->
 
-<!-- Footer Cached 14th December 2011 05:41 -->
+<!-- Footer Cached 10th May 2012 06:56 -->
 
 </div> <!-- #footer_inner -->
 	</div><!-- #footer -->
@@ -444,7 +549,7 @@ Thanks and well done.</div><p class="msmw_testimonial_author"><span class="testi
 	color: '-linear-gradient(#fff,#f9f9f9, #c3c3c3)',
 	textShadow: '1px 2px rgba(0, 0, 0, 0.25), 0px -1px rgba(0, 0, 0, 0.1)',
 	});
-	Cufon.replace('.msmw_footer_teaser',{
+	Cufon.replace('.msmw_footer_teaser,.msmw_theme_name',{
 	fontFamily: 'colaboratelight',
 	color: '-linear-gradient(#fff,#f9f9f9, #c3c3c3)',
 	textShadow: '1px 2px rgba(0, 0, 0, 0.15), 0px -1px rgba(0, 0, 0, 0.1)',
@@ -471,6 +576,6 @@ Thanks and well done.</div><p class="msmw_testimonial_author"><span class="testi
 	}
 	
 /* ]]> */
-</script><script type="text/javascript">/* <![CDATA[ */jQuery( '.blog_layout1' ).preloader({ imgSelector: '.blog_index_image_load span img', imgAppend: '.blog_index_image_load' });jQuery( '.blog_layout2' ).preloader({ imgSelector: '.blog_index_image_load span img', imgAppend: '.blog_index_image_load' });jQuery( '.blog_layout3' ).preloader({ imgSelector: '.blog_index_image_load span img', imgAppend: '.blog_index_image_load' });jQuery( '.single_post_module' ).preloader({ imgSelector: '.blog_index_image_load span img', imgAppend: '.blog_index_image_load' });jQuery( '.one_column_portfolio' ).preloader({ imgSelector: '.portfolio_img_load span img', imgAppend: '.portfolio_img_load' });jQuery( '.two_column_portfolio' ).preloader({ imgSelector: '.portfolio_img_load span img', imgAppend: '.portfolio_img_load' });jQuery( '.three_column_portfolio' ).preloader({ imgSelector: '.portfolio_img_load span img', imgAppend: '.portfolio_img_load' });jQuery( '.four_column_portfolio' ).preloader({ imgSelector: '.portfolio_img_load span img', imgAppend: '.portfolio_img_load' });jQuery( '.portfolio_gallery.large_post_list' ).preloader({ imgSelector: '.portfolio_img_load span img', imgAppend: '.portfolio_img_load' });jQuery( '.portfolio_gallery.medium_post_list' ).preloader({ imgSelector: '.portfolio_img_load span img', imgAppend: '.portfolio_img_load' });jQuery( '.portfolio_gallery.small_post_list' ).preloader({ imgSelector: '.portfolio_img_load span img', imgAppend: '.portfolio_img_load' });jQuery( '#main_inner' ).preloader({ imgSelector: '.portfolio_full_image span img', imgAppend: '.portfolio_full_image' });jQuery( '#main_inner' ).preloader({ imgSelector: '.blog_sc_image_load span img', imgAppend: '.blog_sc_image_load' });jQuery( '#main_inner' ).preloader({ imgSelector: '.fancy_image_load span img', imgAppend: '.fancy_image_load' });jQuery( '#intro_inner' ).preloader({ imgSelector: '.fancy_image_load span img', imgAppend: '.fancy_image_load' });var ua = jQuery.browser;if( ua.version.substring(0,1) == '8' && ua.msie ){jQuery( '.theme_banner .fancy_images' ).preloader({ imgSelector: '.fancy_image_load span img', imgAppend: '.fancy_image_load', fade: false });}else{jQuery( '.theme_banner .fancy_images' ).preloader({ imgSelector: '.fancy_image_load span img', imgAppend: '.fancy_image_load' });}/* ]]> */</script>
+</script><script type="text/javascript">/* <![CDATA[ */jQuery( '.blog_layout1' ).preloader({ imgSelector: '.blog_index_image_load span img', imgAppend: '.blog_index_image_load' });jQuery( '.blog_layout2' ).preloader({ imgSelector: '.blog_index_image_load span img', imgAppend: '.blog_index_image_load' });jQuery( '.blog_layout3' ).preloader({ imgSelector: '.blog_index_image_load span img', imgAppend: '.blog_index_image_load' });jQuery( '.single_post_module' ).preloader({ imgSelector: '.blog_index_image_load span img', imgAppend: '.blog_index_image_load' });jQuery( '.one_column_portfolio' ).preloader({ imgSelector: '.portfolio_img_load span img', imgAppend: '.portfolio_img_load' });jQuery( '.two_column_portfolio' ).preloader({ imgSelector: '.portfolio_img_load span img', imgAppend: '.portfolio_img_load' });jQuery( '.three_column_portfolio' ).preloader({ imgSelector: '.portfolio_img_load span img', imgAppend: '.portfolio_img_load' });jQuery( '.four_column_portfolio' ).preloader({ imgSelector: '.portfolio_img_load span img', imgAppend: '.portfolio_img_load' });jQuery( '.portfolio_gallery.large_post_list' ).preloader({ imgSelector: '.portfolio_img_load span img', imgAppend: '.portfolio_img_load' });jQuery( '.portfolio_gallery.medium_post_list' ).preloader({ imgSelector: '.portfolio_img_load span img', imgAppend: '.portfolio_img_load' });jQuery( '.portfolio_gallery.small_post_list' ).preloader({ imgSelector: '.portfolio_img_load span img', imgAppend: '.portfolio_img_load' });jQuery( '#main_inner' ).preloader({ imgSelector: '.portfolio_full_image span img', imgAppend: '.portfolio_full_image' });jQuery( '#main_inner' ).preloader({ imgSelector: '.blog_sc_image_load span img', imgAppend: '.blog_sc_image_load' });jQuery( '#main_inner' ).preloader({ imgSelector: '.fancy_image_load span img', imgAppend: '.fancy_image_load', oneachload: function(image){var imageCaption = jQuery(image).parent().parent().next();imageCaption.remove();jQuery(image).parent().addClass('has_caption_frame');jQuery(image).parent().append(imageCaption);jQuery(image).next().css('display','block');}});jQuery( '#intro_inner' ).preloader({ imgSelector: '.fancy_image_load span img', imgAppend: '.fancy_image_load' });var ua = jQuery.browser;if( ua.version.substring(0,1) == '8' && ua.msie ){jQuery( '.theme_banner .fancy_images' ).preloader({ imgSelector: '.fancy_image_load span img', imgAppend: '.fancy_image_load', fade: false });}else{jQuery( '.theme_banner .fancy_images' ).preloader({ imgSelector: '.fancy_image_load span img', imgAppend: '.fancy_image_load' });}/* ]]> */</script>
 
 </body></html>
