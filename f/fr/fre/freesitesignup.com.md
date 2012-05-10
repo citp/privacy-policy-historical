@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freesitesignup.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209015024id_/http%3A//www.freesitesignup.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freesitesignup.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510045233id_/http%3A//www.freesitesignup.com/privacy.php) for the most accurate reproduction.*
 
 # Free Cash-Pulling Websites Company - Privacy Policy
 
