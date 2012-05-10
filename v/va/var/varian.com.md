@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the varian.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103001106id_/http%3A//www.varian.com/us/corporate/legal/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the varian.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510071243id_/http%3A//www.varian.com/us/corporate/legal/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement - Legal Information - Varian
 
-[ ](http://www.truste.org/ivalidate.php?url=www.varian.com&sealid=102)
+[](http://privacy.truste.com/privacy-seal/Varian-Medical-Systems,-Inc-/validation?rid=381cea78-02a3-48a4-bcb8-58633cd9d7cf "TRUSTe Safe Harbor certification")
 
-##### Effective date: January 25, 2010
+##### Effective date: December 5, 2011
 
 Varian Medical Systems (Varian) is committed to respecting your privacy. As you visit our website, our intent is that your experience is informative, convenient and secure. Because Varian is committed to responsibly managing the personal information provided, we have adopted the following privacy statement to explain our commitment to your privacy. 
 
-This privacy statement applies to our www.varian.com website, which includes www.my.varian.com. This privacy statement is located on each online webpage where personal information is collected. This privacy statement discloses Varian's practices with respect to the type of information that we gather, the way we use information internally and our policy regarding sharing information with others.
+This privacy statement applies to our [www.varian.com](http://www.varian.com/) website, which includes [my.varian.com](http://my.varian.com/). This privacy statement is located on each online webpage where personal information is collected. This privacy statement discloses Varian's practices with respect to the type of information that we gather, the way we use information internally and our policy regarding sharing information with others.
 
 We encourage you to read this privacy statement carefully in order to ensure that you are in control of your personal information received by our company.
 
@@ -64,7 +64,13 @@ A cookie is an element of data that a website can send to your browser, which ma
 
 We use session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in you internet browser's "help" file.
 
+We use third-party tracking services that use cookies, scripts and other tracking technologies to track non-personal information about visitors to our site in the aggregate.
+
 We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
+
+### Advertising
+
+We partner with a third party ad network to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 ### Security
 
@@ -77,6 +83,10 @@ Your Varian X-ray products online store account information is password-protecte
 ### Updating Your Personal Profile
 
 If for any reason you wish to correct, update, or delete your personal profile please email us at [dataprivacyoffice@varian.com](mailto:dataprivacyoffice@varian.com). Varian will respond to your request for access within 30 days of receiving your request.
+
+### Data Retention
+
+If you wish that we no longer use your information to provide you services contact us at [webmaster@varian.com](mailto:webmaster@varian.com). We will retain and use your information in accordance with the purpose for which the data was originally collected.
 
 ### Data Forwarding
 
@@ -108,15 +118,13 @@ These third parties are prohibited from using your personally identifiable infor
 
 ### Participation in Privacy Protection Programs
 
-Varian participates in the TRUSTe Program as a licensee, and we proudly display the TRUSTe Privacy Seal. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world by providing a third party oversight function, and a dispute resolution mechanism. Our participation in the TRUSTe Program, and our compliance with its requirements and procedures, is our means of assuring you of our commitment to the protection of the privacy of your personally identifiable information and our participation in the US-EU Safe Harbor Program.
+Varian has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. Our participation in the TRUSTe Program, and our compliance with its requirements and procedures, is our means of assuring you of our commitment to the protection of the privacy of your personally identifiable information and our participation in the US-EU Safe Harbor Program.
 
 The TRUSTe program only covers information that is collected through this website, and does not cover information that may be collected through any software downloaded from this website.
 
-For further information on the TRUSTe Program, see http://www.truste.com. If you have any questions or concerns regarding this statement, please contact us at [dataprivacyoffice@varian.com](mailto:dataprivacyoffice@varian.com). If you do not receive acknowledgement of you inquiry, or if your inquiry has not been satisfactorily addressed, you may contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>, fax at 415-520-3420, or mail at Watchdog Complaints, TRUSTe, 55 2nd Street, 2nd Floor, San Francisco, CA, USA 94105. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see http://www.truste.org/consumers/watchdog_complaint.php or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with Data Protection Authorities.
+If contacting us at [dataprivacyoffice@varian.com](mailto:dataprivacyoffice@varian.com) does not resolve your complaint, you may raise your complaint with TRUSTe by Internet here, or by fax at 415-520-3420 or mail to TRUSTe Safe Harbor Compliance Dept., click for mailing address. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, click here or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with Data Protection Authorities. 
 
-For further information on the US-EU Safe Harbor Program, please see <http://www.export.gov/safeharbor>.
-
-Varian Medical Systems, Inc. abides by the EU Safe Harbor framework as set forth by the Department of Commerce regarding collection, use, and retention of data from the European Union.
+Varian Medical Systems complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland respectively. Information regarding the both the E.U. and Swiss Safe Harbor Frameworks can be found at: <http://export.gov/safeharbor>
 
 ### Testimonials
 
@@ -132,9 +140,9 @@ We welcome comments and questions on this privacy statement. As stated above, we
 
 Varian Medical Systems, Inc.,   
 Attention: Data Privacy Office  
-3100 Hansen Way, M/S E110,   
+3120 Hansen Way, M/S G100,   
 Palo Alto, CA 94304.
 
 Varian will respond to inquiries within 30 days.
 
-If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, please contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, please contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url=http://www.varian.com](http://watchdog.truste.com/pvr.php?page=complaint&url=http://www.varian.com) TRUSTe will then serve as a liaison with us to resolve your concerns.
