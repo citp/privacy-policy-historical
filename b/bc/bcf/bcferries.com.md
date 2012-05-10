@@ -1,66 +1,82 @@
-> *The following text is extracted and transformed from the bcferries.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008035037id_/http%3A//www.bcferries.com/about/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcferries.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510205549id_/http%3A//www.bcferries.com/about/privacy_statement.html) for the most accurate reproduction.*
 
 # British Columbia Ferry Services Inc. | BC Ferries - British Columbia Ferry Services Inc.
 
-## Customer Personal Information Protection Policy
+## Website Privacy Statement
 
-_This Personal_ _Info_ _rmation Protection Policy applies to BC Ferries and its affiliated or related entities and to any service providers collecting, using or disclosing personal information on behalf of BC Ferries._
+ 
 
-BC Ferries respects the privacy of its customers and is committed to protecting customer privacy through responsible personal information management practices to ensure compliance with British Columbia’s _Personal Information Protection Act_ (PIPA). 
+British Columbia Ferry Services Inc. (BC Ferries) is committed to protecting your privacy through responsible personal information management practices in accordance with British Columbia’s _Freedom of Information and Protection of Privacy Act_ and other applicable legislation, such as the _Coastal Ferry Act_. 
 
-Personal information is defined as information about an identifiable individual, such as a name, personal email address or a personal telephone number. Business contact information, which includes name, position or title, business address, business email and business telephone and fax number, is not considered to be personal information. 
+**What is Personal Information?  
+**Personal information is recorded information about an identifiable individual, such as a name, address, birth date, personal email address or a personal telephone number. Personal information does not include certain types of “contact” information which enable individuals at a place of business to be contacted, such as an individual’s business position or title, name, business telephone number, business address, business email or business fax number. 
 
-This Personal Information Protection Policy outlines the principles and practices BC Ferries follows in protecting customers’ personal information.  Our privacy commitment includes ensuring the accuracy, confidentiality, and security of our customers’ personal information and allows our customers access to and correction of their personal information. 
+**Visiting our Website  
+**When you visit the BC Ferries website, [www.bcferries.com](http://www.bcferries.com/), our web server automatically collects a limited amount of information for the website’s operation and security. This includes the Internet Protocol address of the computer or device you use to access our website, along with domain name, type of computer or device, operating system, browser type, pages viewed and content downloaded. This information is used by BC Ferries to monitor use of and improve the website, and to provide you with the best possible web experience. 
 
-**Consent, Collection, Use & Disclosure**
+**Collection, Use & Disclosure of Personal Information   
+**BC Ferries collects your personal information through our website when you voluntarily provide it to use specific services offered online. We collect the personal information necessary to provide you the service you requested, as authorized by the _Freedom of Information and Protection of Privacy Act_ or other applicable law. In particular, during your use of the website, you may be asked to voluntarily provide personal information (such as your personal name, email address, mailing address, telephone number, fax number, login and password information, and credit card information). You can choose not to provide certain requested personal information, but then you may not be able to use certain services provided by BC Ferries or access or use certain features of our website. 
 
-BC Ferries collects personal information from its customers and other individuals with whom it carries on business in order to maintain an effective business relationship. We will only collect the personal information necessary to complete the stated purpose. For instance, BC Ferries may collect a customer’s name, address, and telephone number to contact the customer about travel arrangements, to send travel information, or to complete an optional BC Ferries Coast Card registration process. Credit card numbers, however, would only be collected from a customer when required for payment purposes.
+BC Ferries may collect your personal information for the following purposes:
 
-Generally, personal information is collected directly from the customer, however, we may also receive your personal information from a third party, such as a travel agent acting on your behalf, or when you have provided  consent to a third party, such as a credit card service provider. BC Ferries does not sell personal information to third parties.
-
-Unless you voluntarily provide your personal information for an obvious purpose, BC Ferries will tell you why your personal information is being collected. It will only be used for this or a consistent purpose by BC Ferries or an organization working on our behalf, unless you consent to another purpose or as required by law. 
-
-Consent can be given orally, in writing, or electronically. It may be implicit, as in a credit card transaction, or explicit, as when given to a BC Ferries agent. Customers can withhold or withdraw their consent for BC Ferries to use their personal information in certain ways and we will tell you if this restricts our ability to provide a particular service or product.  Consent cannot be withdrawn if withdrawal would frustrate a legal obligation. 
-
-Your personal information may be collected, used or disclosed without your consent only as determined by the _Personal_ _Info_ _rmation Protection Act_ or by law. For instance, BC Ferries may collect personal information from a source other than the individual, or collect, use or disclose personal information without consent of the individual, if it is clearly in the interests of the individual and consent cannot be obtained in a timely way; when necessary for the medical treatment of an individual who is unable to give consent; or for an investigation or a proceeding when advance knowledge would compromise the availability or the accuracy of the personal information. Your personal information may be used to respond to an emergency that may threaten your life, health or security.
-
-BC Ferries may periodically review and analyze customer use of BC Ferries services and products to better understand customer needs and preferences to develop, enhance, and market products and services. 
-
-**Access, Correction & Retention**
-
-Customers may access their personal information, subject to the exceptions listed in the _Personal_ _Info_ _rmation Protection Act_ , or request a factual correction of their personal information. Registered BC Ferries Coast Card customers may update their personal information on the internet in a self-serve environment or visit BC Ferries. Otherwise, the request must be in writing and contain sufficient detail to enable BC Ferries to identify you with certainty and identify your personal information to make the correction. A minimal fee may be charged for providing access to personal information and we will inform you of any applicable fee when your request is received. Generally, a response will be provided within 30 business days, however, if a longer time is needed, we will provide you with a written notice stating the reasons for the extension. 
-
-In order to provide a personalized service, BC Ferries retains the personal information you provide. The next time you call, you will be asked to provide sufficient personal information to confirm your on-line identity so your request can be handled quickly and efficiently. The information you provide to us will be kept at least one year and will be destroyed when it is no longer necessary to retain the information for legal or business purposes.
-
-**Security**
-
-BC Ferries has physical and technological security safeguards and procedures in place to protect your personal information from unauthorized access. Security measures include locked filing cabinets, restricted access, use of user ID’s and passwords, and firewalls. Paper documents containing personal information are shredded.
-
-**Contact**
-
-Please contact us if you have questions about the personal information in our custody, how it is being used or to whom it may have been disclosed; if you have any concerns about the accuracy or completeness of your personal information; if you have any complaints about the management of your personal information; or if you would like to withdraw your consent to receive information or participate in a program. Write to the:   
+  * To contact and correspond with you regarding the website, and promotions and services offered by BC Ferries and its partners; 
+  * To process payments by or to you; 
+  * To facilitate sales and credit transactions; 
+  * To respond to specific requests from you; 
+  * To otherwise administer BC Ferries' relationship with you, including contacting you about travel arrangements and other travel related matters; 
+  * To process suggestions and comments provided by you; 
+  * To improve our website services; 
+  * To administer our website and to protect the security of the website when necessary. 
 
 
-Privacy Compliance Coordinator  
-BC Ferries
 
-Suite 500, 1321 Blanshard Street, Victoria, V8W 0B7   
-(250) 978-1364
+Personal information is normally collected directly from you but may also be received from a third party, such as a travel agent acting on your authority or from a credit card service provider if the information is for the purpose of making an online payment to BC Ferries. 
 
-[
+BC Ferries will use your personal information for the original purpose it was collected or for a use consistent with that purpose unless you consent to another purpose, or as otherwise authorized by the _Freedom of Information and Protection of Privacy Act_ or other applicable law.       
 
-* * *
+  Your personal information will be disclosed only as authorized by the _Freedom of Information and Protection of Privacy Act_ or other applicable law. BC Ferries does not sell or rent personal information to third parties.    
+**  
+Cookies  
+**Cookies are small files your web browser stores on your computer when you visit some internet sites. BC Ferries uses cookies to enable you to navigate our website but does not use them to collect personal information. 
 
-](https://na3.marqui.com/bcferries1/sm/name)
+**Marketing and Communications  
+**If you choose to receive special offers and promotions, news releases or other communications from BC Ferries, we will provide you with a method to opt out of receiving further communications from us with each email or other electronic communication we send you. 
 
-## About Privacy on the Web
+**Contests and Surveys  
+**BC Ferries may from time to time run contests or conduct online surveys. Your participation in contests or surveys is entirely voluntary. Contest or survey information, such as age or other restrictions, will usually be found at the specific contest or survey site. 
 
-When you browse through www.bcferries.com, you do so anonymously. BC Ferries does not collect personally identifiable information unless you provide it to us.
+**Access to and Correction of Personal Information  
+**You may request access to your personal information and/or correction of that information by contacting us at the address noted below or by clicking here: <http://www.bcferries.com/about/foi/submit_a_request.html>. 
 
-Our Web server automatically collects a limited amount of non-personal information essential for the operation and security of www.bcferries.com. This includes Internet Protocol (IP) address, domain name, type of computer, operating system, browser type, pages viewed and content downloaded. This information is not linked to you as an individual user. Rather, it is recorded as general statistical information, which may be used by BC Ferries to monitor use of the Web Site, improve the Web Site, and generally enable us to provide you with the best possible Web experience.
+You can help BC Ferries maintain the accuracy of your information by notifying us of any changes to your personal information. MyBCFerries customers and registered BC Ferries account card customers can visit <http://www.bcferries.com/res/SigninCentre.html> to update their personal information. 
 
-**If you have a reservation query** , please use one of the following contact lines:  
+When you contact BC Ferries, we may ask for further information to confirm your identity. 
 
-1-888-BC Ferry (1-888-223-3779) -- toll free in North America  
-(250) 386-3431 -- from outside North America  
-(250) 388-7754 -- Our fax number
+**Retention and Storage of Personal Information  
+**BC Ferries will securely retain and dispose of personal information in accordance with its records retention schedules. BC Ferries retains your personal information for at least one year if it has been used to make a decision affecting you. Unless authorized by the _Freedom of Information and Protection of Privacy Act_ or other applicable law, we store all personal information in Canada. 
+
+**Security  
+**BC Ferries takes reasonable steps to protect your personal information. We use technological, physical and managerial procedures intended to prevent the unauthorized access, disclosure, copying, use or modification of personal information submitted to this website. Our security practices are continually evolving to ensure that the integrity and confidentiality of information and systems are maintained. 
+
+Although we have security measures in place, you should be aware there is an element of risk whenever you send or receive information using the Internet. You should always carefully consider what information you choose to share. It is also your responsibility to safeguard your user identifications, passwords or any other special identifiers used to access our website. 
+
+**Links to Other Websites  
+**BC Ferries’ website includes links to other websites. When you click on one of those links you are contacting another website. BC Ferries’ privacy statement does not apply to these other sites. BC Ferries has no responsibility or liability for or control over those other websites or their collection, use and disclosure of your personal information. If you access another organization's website through our website, you should read that organization's privacy policy to determine its website practices. 
+
+**Updates  
+**BC Ferries will, as appropriate, review and update this privacy statement to ensure it is consistent with current privacy management and website administration practices. 
+
+**Contact  
+**If you have questions about this privacy statement or about BC Ferries’ management of personal information, please contact us by telephone at (250) 978-1502, by email at [FOIPP@bcferries.com](mailto:FOIPP@bcferries.com), or by writing to: 
+
+**Manager, FOIPP Office, BC Ferries  
+Suite 500, 1321 Blanshard Street,   
+Victoria, BC V8W 0B7 
+
+________________________________________ 
+
+If you have a reservation query, please use one of the following contact lines: 
+
+**1-888-BC Ferry (1-888-223-3779) -- toll free in North America   
+(250) 386-3431 -- from outside North America   
+(250) 388-7754 -- Our fax number 
