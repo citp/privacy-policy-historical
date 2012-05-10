@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iamagm.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123183506id_/http%3A//www.iamagm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iamagm.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510020911id_/http%3A//www.iamagm.com/privacy-policy) for the most accurate reproduction.*
 
 # IamaGM's Privacy Policy | IamaGM.com
 
