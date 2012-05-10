@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatabeautifullife.com privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014172904id_/http%3A//www.whatabeautifullife.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatabeautifullife.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510053718id_/http%3A//www.whatabeautifullife.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,6 +17,10 @@ We collect information from you in several different ways. One goal in collectin
 (b) Communications with You. We will use your personal information to communicate with you. Also, we may send you a confirmation email when you register with us. We may send you a service-related announcement on the rare occasions when it is necessary.
 
 (c) External Use. We want to provide you with excellent service and to offer you a great selection. We do not sell, rent, trade, license or otherwise disclose your specific personal information or financial information to anyone other than to affiliates under the company's control.
+
+**Choice and Opt-Out**
+
+If you no longer wish to receive the Company's promotional communications, you may "opt-out" of receiving them by following the instructions included in each communication or by e-mailing the Company at service@whatabeautifullife.com.
 
 **UPDATES TO THIS POLICY**
 
