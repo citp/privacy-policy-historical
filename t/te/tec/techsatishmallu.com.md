@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techsatishmallu.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225192135id_/http%3A//www.techsatishmallu.com/2007/07/techsatishmallu-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsatishmallu.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510101141id_/http%3A//www.techsatishmallu.com/2007/07/techsatishmallu-privacy-policy.html) for the most accurate reproduction.*
 
 # techsatishmallu.com - you love it! >> malayalam movies watch online,malayalam serials watch online,malayalam tv shows online,malayalam fm radio online,malayalam tv channels live
 
@@ -18,4 +18,8 @@ techsatishmallu may update this policy. We will notify you about significant cha
 
 Questions and Suggestions
 
-If you have questions or suggestions, please complete a feedback form or you can contact us at:info@techsatishmallu.com 
+If you have questions or suggestions, please complete a feedback form or you can contact us at:info@techsatishmallu.com
+
+Rate this posting: 
+
+{[['']]}
