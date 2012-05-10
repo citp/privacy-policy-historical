@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the med-u.org privacy policy that was archived on 2011-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111024070820id_/http%3A//www.med-u.org/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the med-u.org privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510124209id_/http%3A//www.med-u.org/about/privacy_policy) for the most accurate reproduction.*
 
 # medU | About Us
 
@@ -54,7 +54,7 @@ The Site may link to sites maintained by companies that are not affiliated with 
 
 ### How to Correct Inaccuracies
 
-If you've registered for iInTIME Virtual Patient, you can access and update your information by contacting [[info@i-intime.org](mailto:info@i-intime.org)](mailto:info@i-intime.org).
+If you've registered for iInTIME Virtual Patient, you can access and update your information by contacting [info@i-intime.org](mailto:info@i-intime.org).
 
 ## Information of “Individual Subscribers” and “Authorized Users”
 
@@ -72,4 +72,4 @@ If our information practices change in a significant way, we will post and highl
 
 ### Questions?
 
-Please send an e-mail message to [[info@i-intime.org](mailto:info@i-intime.org)](mailto:info@i-intime.org) .
+Please send an e-mail message to [info@i-intime.org](mailto:info@i-intime.org) .
