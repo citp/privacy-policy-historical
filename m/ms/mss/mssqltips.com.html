@@ -1,9 +1,7 @@
-<!--The following is the downloaded HTML source of the mssqltips.com privacy policy that was archived on 2011-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111228124112id_/http%3A//www.mssqltips.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mssqltips.com privacy policy that was archived on 2012-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120510085231id_/http%3A//www.mssqltips.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
-
- 
 
 
 <meta http-equiv="Content-Language" content="en-us">
@@ -13,6 +11,74 @@
 <meta name="description" content="">
 <meta name="keywords" content="">
 <link rel="stylesheet" type="text/css" href="http://www.mssqltips.com/style.css">
+
+
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="Javascript">
+/**
+ * DHTML email validation script. Courtesy of SmartWebby.com (http://www.smartwebby.com/dhtml/)
+ */
+
+function echeck2(str) {
+
+		var at="@"
+		var dot="."
+		var lat=str.indexOf(at)
+		var lstr=str.length
+		var ldot=str.indexOf(dot)
+		if (str.indexOf(at)==-1){
+		   alert("Invalid E-mail")
+		   return false
+		}
+
+		if (str.indexOf(at)==-1 || str.indexOf(at)==0 || str.indexOf(at)==lstr){
+		   alert("Invalid E-mail")
+		   return false
+		}
+
+		if (str.indexOf(dot)==-1 || str.indexOf(dot)==0 || str.indexOf(dot)==lstr){
+		    alert("Invalid E-mail")
+		    return false
+		}
+
+		 if (str.indexOf(at,(lat+1))!=-1){
+		    alert("Invalid E-mail")
+		    return false
+		 }
+
+		 if (str.substring(lat-1,lat)==dot || str.substring(lat+1,lat+2)==dot){
+		    alert("Invalid E-mail")
+		    return false
+		 }
+
+		 if (str.indexOf(dot,(lat+2))==-1){
+		    alert("Invalid E-mail")
+		    return false
+		 }
+		
+		 if (str.indexOf(" ")!=-1){
+		    alert("Invalid E-mail")
+		    return false
+		 }
+
+ 		 return true					
+	}
+
+function ValidateEmail(){
+	var emailID=document.optin.ea
+	
+	if ((emailID.value==null)||(emailID.value=="")||(emailID.value=="enter email address")){
+		alert("Please Enter your Email")
+		emailID.focus()
+		return false
+	}
+	if (echeck2(emailID.value)==false){
+		emailID.focus()
+		return false
+	}
+	return true
+ }
+</script>
 
 
 
@@ -28,93 +94,69 @@
 			<img border="0" src="/images/mssqllogo_350.gif" alt="solving sql server problems for millions of dbas and developers since 2006" width="350" height="100"></a><br>
 		</td>
 		<td style="text-align: right;">
-			<!-- JavaScript Only -->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://altfarm.mediaplex.com/ad/js/15154-138642-34190-1?mpt=[CACHEBUSTER]&amp;mpvc=">
-</script>
-<noscript>
-  <a href="http://altfarm.mediaplex.com/ad/nc/15154-138642-34190-1?mpt=[CACHEBUSTER]">
-    <img src="http://altfarm.mediaplex.com/ad/nb/15154-138642-34190-1?mpt=[CACHEBUSTER]"
-alt="Click Here" border="0">
-</a>
-</noscript>
+			<a target="new" href="http://www.mssqltips.com/tac.asp?b=1193&amp;l=http://www.red-gate.com/products/dba/sql-monitor/entrypage/new-sql-monitor-3?utm_source=mssql&amp;utm_medium=leaderboard&amp;utm_term=8203&amp;utm_content=monitor3_m1&amp;utm_campaign=sqlmonitor"><img src="http://www.mssqltips.com/absolutebm/banners\RedGate_SQLMonitor_April2012_728x90.gif" border="0"></a>
 		</td>
 	</tr>
 </tbody></table>
 <br>
-<table width="100%">
-	<tbody><tr>
-		<td>
-			<!-- CSS for Drop Down Tabs Menu #1 -->
-<link rel="stylesheet" type="text/css" href="http://www.mssqltips.com/dropdowntabfiles/ddcolortabs.css">
+<style type="text/css">
+#header-search {
+	width: 1150px;
+	height: 30px;
+}
 
-<script type="text/javascript" src="/dropdowntabfiles/dropdowntabs.js">
+#search-div {
+	margin: 3px 0px 0px 85px;
+	text-align: left;
+	float: left;
+	vertical-align: middle;
+}
 
-/***********************************************
-* Drop Down Tabs Menu- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
-* This notice MUST stay intact for legal use
-* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
-***********************************************/
+#search-box {
+	width: 210px;
+	font-size: 12px;
+	border: #e0a470;
+	height: 17px;
+	margin: 5px;
+}
 
-</script>
+#signup-div {
+	margin: 0 0 0 760px;
+	text-align: left;
+	float: none;
+	vertical-align: middle;
+}
 
+#privacy-div {
+	float: left;
+	vertical-align: middle;
+}
 
-<div id="colortab" class="ddcolortabs">
-<ul>
-<li><a href="http://www.mssqltips.com/"><span>Home</span></a></li>
-<li><a rel="dropmenu1_a"><span>Tips</span></a></li>
-<li><a href="http://www.mssqltips.com/productlist.asp"><span>Tools</span></a></li>
-<li><a href="http://www.mssqltips.com/tutoriallist.asp"><span>Tutorials</span></a></li>
-<li><a href="http://www.mssqltips.com/webcastlist.asp"><span>Webcasts</span></a></li>
-<li><a href="http://www.mssqltips.com/whitepaperlist.asp"><span>Whitepapers</span></a></li>
-<li><a rel="dropmenu1_b" href="http://www.mssqltips.com/questionlist.asp"><span>Questions</span></a></li>
-</ul>
-</div>
+#social-div {
+	float: left;
+	margin: 6px 0px 0px 40px;
+}
 
+#signup-box {
+	width: 170px;
+	font-size: 12px;
+	border: #e0a470;
+	height: 19px;
+	margin: 5px;
+	text-align: left;
+}
 
-<!--1st drop down menu -->
-<div id="dropmenu1_a" class="dropmenudiv_a">
-<a href="http://www.mssqltips.com/authorlist.asp">Authors</a>
-<a href="http://www.mssqltips.com/contribute.asp">Contribute</a>
-<a href="http://www.mssqltips.com/todaystip.asp">Today's Tip</a>
-<a href="http://www.mssqltips.com/categorylist.asp">Tips By Category</a>
-<a href="http://www.mssqltips.com/archive.asp">Latest Tips</a>
-<a href="http://www.mssqltips.com/topten.asp">Top 10 Tips</a>
-<a href="http://www.mssqltips.com/feedback.asp">Suggest a Tip</a>
-<a href="http://www.mssqltips.com/SearchByTipId.asp">Search By Tip ID</a>
-</div>
-
-<!--2nd drop down menu -->
-<div id="dropmenu1_b" class="dropmenudiv_a">
-<a href="http://www.mssqltips.com/questionnew.asp">Ask Question</a>
-<a href="http://www.mssqltips.com/questionlist.asp">All Questions</a>
-<a href="http://www.mssqltips.com/questionunansweredlist.asp">Unanswered</a>
-</div>
-
-
-<script type="text/javascript">
-//SYNTAX: tabdropdown.init("menu_id", [integer OR "auto"])
-tabdropdown.init("colortab", 25)
-</script>
-		</td>
-		<td style="text-align: right;">
-			Subscribe:
-			<a href="http://feeds.feedburner.com/MSSQLTips-LatestSqlServerTips" target="_blank" rel="nofollow" title="RSS">
-			<img height="16" src="/images/subscribe_rss.png" width="16" border="0"></a>&nbsp;
-			<a href="http://www.mssqltips.com/freesqlservertips.asp" title="Newsletter">
-			<img height="16" src="/images/subscribe_email.png" width="16" border="0"></a>&nbsp;
-			<a href="http://twitter.com/mssqltips" target="_blank" rel="nofollow" title="Twitter">
-			<img height="16" src="/images/subscribe_twitter.png" width="16" border="0"></a>&nbsp;
-			<a href="http://www.linkedin.com/groups?gid=2320891" target="_blank" rel="nofollow" title="LinkedIn">
-			<img alt="" height="16" src="/images/subscribe_LinkedIn.png" style="border-width: 0px" width="16" border="0"></a>&nbsp;
-
-			<a href="https://plus.google.com/b/113747121987215376460/" target="_blank" rel="nofollow" title="Google+">
-			<img alt="" height="16" src="/images/googleplus.png" style="border-width: 0px" width="16" border="0"></a>
+#header-img {
+	vertical-align: middle;
+	margin: 0 0 4px 0;
+}
 
 
+</style>
+<div style="width: 1150px">
 
-
-		</td>
-		<td style="text-align: right;">
+<div id="header-search" style="background: url('/images/header_blueV1.png') no-repeat right top;">
+<div id="search-div">
 			<!-- SiteSearch Google -->
 			<script type="text/javascript" src="http://www.google.com/jsapi"></script>
 			<script type="text/javascript">
@@ -131,23 +173,36 @@ tabdropdown.init("colortab", 25)
 			    <input type="hidden" name="cx" value="004111219998430415686:pjndvj5e2n4">
 			    <input type="hidden" name="cof" value="FORID:9">
 			    <input type="hidden" name="ie" value="UTF-8">
-			    <input type="text" name="q" id="q" autocomplete="off" size="31">
-			    <input type="submit" name="sa" value="Search">
+			    <input id="q" type="text" name="q" autocomplete="on" size="31&quot;">
+			    <input id="header-img" name="sa" src="/images/header_search_red.png" type="image" value="Search" class="submit">
 			  </div>
 			</form>
 			<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
 			<!-- SiteSearch Google -->
-		</td>
-	</tr>
-</tbody></table>
-<div class="ddcolortabsline">&nbsp;</div>
+	</div>	
+
+
+	
+	<div id="signup-div">
+		<form name="optin" action="http://www.mssqltips.com/NewsletterAddSubscriber.asp" method="post" onsubmit="return ValidateEmail()">
+		<div style="text-align:left;">
+					<input type="hidden" name="URL" value="headerform">
+					<input type="hidden" name="ReferralURL" value="http://www.mssqltips.com/privacy.asp?">
+					<input id="signup-box" name="ea" value="Enter E-mail Address">
+					<input id="header-img" name="Button1" src="/images/header_subscribe_red.png" type="image" value="button" class="submit">
+					<div style="float:right; padding: 4px 20px 0 0;"><a href="http://www.mssqltips.com/privacy.asp" alt="privacy policy" title="Receive newsletters, account updates and special offers about SQL Server from MSSQLTips. We respect your privacy and you can unsubscribe at any time."><img alt="" height="23" src="/images/header_privacy.png" width="61"></a></div>
+		</div>	
+
+		</form>
+	</div>
 </div>
+
 
 
 
 	<br>
 	<div align="center">
-		<a target="_blank" href="http://www.mssqltips.com/ss.asp?id=1482&amp;link=http://www.red-gate.com/products/sql-development/sql-prompt/entrypage/effortlessly?utm_source=mssql&amp;utm_medium=email&amp;utm_term=7656&amp;utm_content=effortlessly&amp;utm_campaign=sqlprompt"><img src="http://www.mssqltips.com/absolutebm/banners/RedGate_SQLPrompt_Jan2011_900x30.gif" border="0" height="30" width="990"></a>
+		<a target="_blank" href="http://www.mssqltips.com/ss.asp?id=1579&amp;link=http://www.red-gate.com/products/sql-development/sql-source-control/entrypage/5-minutes?utm_source=mssql&amp;utm_medium=email&amp;utm_term=8226&amp;utm_content=5mins&amp;utm_campaign=sqlsourcecontrol"><img src="http://www.mssqltips.com/absolutebm/banners/RedGate_SQLSourceControl_August2011_990x30.gif" border="0" height="30" width="990"></a>
 	</div>
 
 <br>
@@ -155,13 +210,134 @@ tabdropdown.init("colortab", 25)
 <!-- content start -->
 
 
-<table align="center" cellspacing="0" cellpadding="5" border="0" id="table1" width="100%">
-	<tbody><tr valign="top">
-		
-			<td width="810">
+
+	<div style="float: left; width:320px; background-color:white;">
+		<div align="center" style="width: 300px;">
+
+
+<div style="text-align:center; width:264px; margin-left:auto; margin-right:auto;">
+	<img id="Image-Maps_leftnav" src="http://www.mssqltips.com/images/LeftNav_NewCat_Groups_SameColor.png" usemap="#Image-Maps_leftnav" border="0" width="250" height="605" alt="">
+	<map id="Image-Maps_leftnav" name="Image-Maps_leftnav">
+	<area shape="rect" coords="3, 46, 245, 76" href="http://www.mssqltips.com/sql_server_dba_tips.asp" alt="SQL Server DBA Tips" title="SQL Server DBA Tips">
+	<area shape="rect" coords="3, 82, 245, 112" href="http://www.mssqltips.com/sql_server_developer_tips.asp" alt="SQL Server Developer Tips" title="SQL Server Developer Tips">
+	<area shape="rect" coords="3, 117, 245, 147" href="http://www.mssqltips.com/sql_server_business_intelligence_tips.asp" alt="SQL Server Business Intelligence Tips" title="SQL Server Business Intelligence Tips">
+	<area shape="rect" coords="3, 150, 245, 180" href="http://www.mssqltips.com/sql_server_professional_development_tips.asp" alt="SQL Server Career Tips" title="SQL Server Career Tips">
+	<area shape="rect" coords="3, 185, 245, 215" href="http://www.mssqltips.com/categorylist.asp" alt="SQL Server Tip Categories" title="SQL Server Tip Categories">
+	
+	<area shape="rect" coords="3, 234, 245, 264" href="http://www.mssqltips.com/tutoriallist.asp" alt="SQL Server Tutorials" title="SQL Server Tutorials">
+	<area shape="rect" coords="3, 270, 245, 300" href="http://www.mssqltips.com/webcastlist.asp" alt="SQL Server Webcasts" title="SQL Server Webcasts">
+	<area shape="rect" coords="3, 303, 245, 333" href="http://www.mssqltips.com/whitepaperlist.asp" alt="SQL Server Whitepapers" title="SQL Server Whitepapers">
+	<area shape="rect" coords="3, 338, 245, 368" href="http://www.mssqltips.com/productlist.asp" alt="SQL Server Tools" title="SQL Server Tools">
+	<area shape="rect" coords="3, 373, 245, 403" href="http://sqlserverquestions.mssqltips.com/questionlist.asp" alt="SQL Server Questions and Answers" title="SQL Server Career Tips">
+	
+	<area shape="rect" coords="3, 427, 245, 457" href="http://www.mssqltips.com/authorlist.asp" alt="MSSQLTips Authors" title="MSSQLTips Authors">
+	<area shape="rect" coords="3, 460, 245, 490" href="http://www.mssqltips.com/about.asp" alt="About MSSQLTips" title="About MSSQLTips">
+	<area shape="rect" coords="3, 494, 245, 524" href="http://www.mssqltips.com/usergroups.asp" alt="SQL Server User Groups" title="SQL Server User Groups">
+	<area shape="rect" coords="3, 530, 245, 560" href="http://www.mssqltips.com/giveaway.asp" alt="MSSLQTips Giveaways" title="MSSLQTips Giveaways">
+	<area shape="rect" coords="3, 564, 245, 594" href="http://www.mssqltips.com/advertise.asp" alt="MSSQLTips Advertising Options" title="MSSQLTips Advertising Options">
+	</map>
+
+<br><br>
+
+	<img id="Image-Maps_socmedia" src="http://www.mssqltips.com/images/social_media.png" usemap="#Image-Maps_socmedia" border="0" width="200" height="46" alt="">
+	<map id="Image-Maps_socmedia" name="Image-Maps_socmedia">
+	<area shape="rect" coords="0, 5, 38, 42" href="http://www.facebook.com/pages/MSSQLTips/155636491141708" alt="MSSQLTips Facebook Page" title="MSSQLTips Facebook Page" target="_blank">
+	<area shape="rect" coords="41, 5, 79, 42" href="http://www.linkedin.com/groups?gid=2320891" alt="MSSQLTips LinkedIn Page" title="MSSQLTips LinkedIn Page" target="_blank">
+	<area shape="rect" coords="81, 5, 117, 42" href="http://feeds.feedburner.com/MSSQLTips-LatestSqlServerTips" alt="MSSQLTips RSS Feed" title="MSSQLTips RSS Feed" target="_blank">
+	<area shape="rect" coords="122, 5, 158, 42" href="http://twitter.com/mssqltips" alt="MSSQLTips Twitter Page" title="MSSQLTips Twitter Page" target="_blank">
+	<area shape="rect" coords="163, 5, 199, 42" href="https://plus.google.com/113747121987215376460/" alt="MSSQLTips Google+ Page" title="MSSQLTips Google+ Page" target="_blank">
+	</map>
+<br><br>
+</div>	
+
+	<div style="width: 160px; padding: 10px;">
+<a target="new" href="http://www.mssqltips.com/tac.asp?b=1205&amp;l=http://www.idera.com/Free-Tools/SQL-check/?s=BN_MSSQLTips_chk"><img src="http://www.mssqltips.com/absolutebm/banners/IDERA-SQLCHECK_APR2012_160X600.GIF" border="0"></a><br><a target="new" href="http://www.mssqltips.com/tac.asp?b=1205&amp;l=http://www.idera.com/Free-Tools/SQL-check/?s=BN_MSSQLTips_chk"></a>
+</div>
+<br><br><br><a target="new" href="http://www.mssqltips.com/tac.asp?b=1208&amp;l=http://www.devart.com/dbforge/sql/sqlcomplete/?utm_source=MSSQLTipsMay_June&amp;utm_medium=banner300x250&amp;utm_campaign=cc%2BdbForge%2BSQL%2BComplete"><img src="http://www.mssqltips.com/absolutebm/banners/Devart_SQLComplete_300-250_May2012.png" border="0"></a><br><br><br><style type="text/css">
+.productlisting {
+	text-align: left;
+	width: 300px;
+	margin: 0px 0 0 0px;
+}
+.productlisting > div.boxtop {
+	background: url('/images/productboxtop_red.png') no-repeat left top;
+	margin: 0;
+	height: 25px;
+}
+.productlisting > div.boxtop p {
+	margin: 0;
+}
+.productlisting > div.boxmid {
+	background-image: url('/images/productboxsides_red.png');
+	background-repeat: repeat-y;
+	background-position: left top;
+	margin: 0;
+	padding: 1px 25px;
+}
+.productlisting > div.boxmid p {
+	margin-top: 0;
+}
+.productlisting .boxbot {
+	background: url('/images/productboxbottom_red.png') no-repeat left bottom;
+	margin: 0;
+	height: 25px;
+}
+</style>
+
+
+
+
+
+
+<center>
+<div class="productlisting">
+	<div class="boxtop">
+	</div>
+	<div class="boxmid">
+		<center><h2>Top SQL Server Tools</h2></center>
+		<div>
 			
-				<div style="background-color:white; border: 1px solid #aaa; padding: 4px;">
-			<h1>Privacy Statement</h1>
+
+				<a href="http://www.mssqltips.com/p.asp?z=pl&amp;id=271&amp;link=http://www.devart.com/dbforge/sql/sqlcomplete/?utm_source=MSSQLTipsMay_June&amp;utm_medium=premium_listing&amp;utm_campaign=cc%2BdbForge%2BSQL%2BComplete" target="_blank">dbForge SQL Complete</a><br><br>
+
+			
+
+				<a href="http://www.mssqltips.com/p.asp?z=pl&amp;id=1&amp;link=http://www.idera.com/Products/SQL-Server/SQL-safe-backup/?s=PL_MSSQLTips_safe " target="_blank">SQL safe backup</a><br><br>
+
+			
+
+				<a href="http://www.mssqltips.com/p.asp?z=pl&amp;id=108&amp;link=http://www.idera.com/Products/SQL-Server/SQL-diagnostic-manager/?s=PL_MSSQLTips_dm" target="_blank">SQL diagnostic manager</a><br><br>
+
+			
+
+				<a href="http://www.mssqltips.com/p.asp?z=pl&amp;id=58&amp;link=http://www.idera.com/Products/SQL-Server/SQL-compliance-manager/?s=PL_MSSQLTips_cm" target="_blank">SQL compliance manager</a><br><br>
+
+			
+
+				<a href="http://www.mssqltips.com/p.asp?z=pl&amp;id=261&amp;link=http://www.sqlsentry.net/performance-advisor/sql-server-performance-overview.asp?ad=201101-ProductListing-MSSQLTips" target="_blank">SQL Sentry Performance Advisor for SQL Server</a><br><br>
+
+			
+		</div>
+	</div>
+	<div class="boxbot">
+	</div>
+</div>
+</center>
+
+
+<br><br><br>
+					
+	
+
+</div>
+
+
+
+	</div>
+	<div style="float: left; width:810px; background-color:white;">
+
+
+<h1>Privacy Statement</h1>
 			<p>
 			MSSQLTips.com
 			respects your privacy and the personal data that we
@@ -220,13 +396,11 @@ tabdropdown.init("colortab", 25)
 			If you have questions about our Privacy Statement, please e-mail us at
 			<a href="mailto:privacy@mssqltips.com">privacy@mssqltips.com</a>.</p>
 			<p>updated: 9/22/2011</p>
-		</div>		
-		
-			
+
 				<br>&nbsp;
 				
 				<br>
-			<table cellspacing="3" cellpadding="0" width="100%" border="0" style="border: 1px solid #aaa; padding-left: 4px; padding-right: 4px; padding-top: 1px; padding-bottom: 1px; background-color:white;">
+			<table cellspacing="3" cellpadding="0" width="100%" border="0" style="padding-left: 4px; padding-right: 4px; padding-top: 1px; padding-bottom: 1px; background-color:white;">
 <tbody><tr>
 	<td style="text-align: center; padding-left: 10px; padding-bottom: 5px; padding-top: 5px; color:#FFFFFF;">
 	<font color="blue"><b>Sponsor Information</b></font>
@@ -235,268 +409,41 @@ tabdropdown.init("colortab", 25)
 <tr>
 <td style="text-align: left; padding-left: 10px; padding-bottom: 5px; padding-top: 5px; color:#FFFFFF;">
 
-<a target="new" href="http://www.mssqltips.com/tac.asp?b=936&amp;l=http://www.idera.com/Products/SQL-Server/SQL-diagnostic-manager/?s=TL_MSSQLTips_dm ">"SQL diagnostic manager delivers response in minutes, not hours!"</a><br><br><a target="new" href="http://www.mssqltips.com/tac.asp?b=556&amp;l=http://www.red-gate.com/products/sql-development/sql-prompt/entrypage/effortlessly?utm_source=mssql&amp;utm_medium=textad&amp;utm_term=5056&amp;utm_content=effortlessly&amp;utm_campaign=sqlprompt">Write, edit, and explore SQL effortlessly with SQL Prompt</a><br><br><a target="new" href="http://www.mssqltips.com/tac.asp?b=742&amp;l=http://www.edgewoodsolutions.com/solutions/sql_server_consulting.asp?mssqltips">We fill in the gaps... SQL Server Training, Development, Performance Tuning, SSIS and more</a><br><br><a target="new" href="http://www.mssqltips.com/tac.asp?b=1078&amp;l=http://altfarm.mediaplex.com/ad/ck/15154-138642-34190-0">Break the barriers of traditional SQL Server backup and recovery with LiteSpeed for SQL Server</a><br><br><a target="new" href="http://www.mssqltips.com/tac.asp?b=1087&amp;l=http://www.mssqltips.com/freesqlservertips.asp?j_4">Solving SQL Server problems for millions of DBAs and Devs since 2006.  Join now.</a><br><br><a href="http://www.mssqltips.com/tac.asp?b=1098&amp;l=http://www.mssqltips.com/whitepaper.asp?id=23">Uncover and resolve SQL Server issues before users are impacted</a><br><br>
+<a target="new" href="http://www.mssqltips.com/tac.asp?b=933&amp;l=http://www.idera.com/Products/SQL-toolbox/SQL-doctor/?s=TL_MSSQLTips_doc">"SQL doctor ROCKS! As soon as I ran it, problems that have been giving me headaches were identified and cured."</a><br><br><a target="new" href="http://www.mssqltips.com/tac.asp?b=1187&amp;l=http://www.red-gate.com/products/dba/sql-monitor/entrypage/new-sql-monitor-3?utm_source=mssql&amp;utm_medium=textad&amp;utm_term=8193&amp;utm_content=monitor3_m1&amp;utm_campaign=sqlmonitor">SQL Monitor, server monitoring so easy, your boss could do it. Try it online.</a><br><br><a href="http://www.mssqltips.com/tac.asp?b=1126&amp;l=http://www.edgewoodsolutions.com/sql_server_performance_tuning.asp?utm_source=mssqltips&amp;utm_medium=text&amp;utm_term=PT20120312_5&amp;utm_content=perftuning&amp;utm_campaign=edgewood">SQL Server Performance Tuning Consulting Expertise in the USA.</a><br><br><a target="new" href="http://www.mssqltips.com/tac.asp?b=1121&amp;l=http://ad.doubleclick.net/clk;253990037;77324668;u">Find and Fix SQL issues with Foglight Performance Analysis. Get a free copy.</a><a><br><br></a><a target="new" href="http://www.mssqltips.com/tac.asp?b=1087&amp;l=http://www.mssqltips.com/freesqlservertips.asp?j_4">Solving SQL Server problems for millions of DBAs and Devs since 2006.  Join now.</a><br><br><a href="http://www.mssqltips.com/tac.asp?b=1183&amp;l=http://www.mssqltips.com/whitepaper.asp?id=27">Demystify TempDB Performance and Manageability</a><br><br>
 </td>
 </tr>
-</tbody></table>
+</tbody></table>		
+				<br>
+			
 
-		</td>
-		<td>
-		<div align="center" style="width: 320px;">
-
-
-
-	<table cellspacing="3" cellpadding="0" width="300" border="0" style="border: 1px solid #aaa; padding-left: 4px; padding-right: 4px; padding-top: 1px; padding-bottom: 1px; background-color:white;">
-<tbody><tr>
-	<td style="text-align: center; padding-left: 10px; padding-bottom: 5px; padding-top: 5px; color:#FFFFFF; font-family:Verdana; font-size:10px;">
-	<font color="blue"><b>More SQL Server Tools</b></font>
-	</td>
-</tr>
-
-<tr>
-	<td style="text-align: left; padding-left: 10px; padding-bottom: 5px; padding-top: 5px; color:#FFFFFF; font-family:Verdana; font-size:10px;">
-
-
-	<a href="http://www.mssqltips.com/p.asp?z=pl&amp;id=201&amp;link=http://www.red-gate.com/products/sql-development/sql-prompt/entrypage/effortlessly?utm_source=mssql&amp;utm_medium=productlisting&amp;utm_term=5366&amp;utm_content=write_edit_explore&amp;utm_campaign=sqlprompt" target="_blank">SQL Prompt</a><br><br>
-
-
-
-	<a href="http://www.mssqltips.com/p.asp?z=pl&amp;id=286&amp;link=http://www.red-gate.com/products/dba/sql-virtual-restore/entrypage/painkillers?utm_source=mssql&amp;utm_medium=productlisting&amp;utm_term=7067&amp;utm_content=medicine&amp;utm_campaign=sqlvirtualrestore" target="_blank">SQL Virtual Restore </a><br><br>
-
-
-
-	<a href="http://www.mssqltips.com/p.asp?z=pl&amp;id=259&amp;link=http://www.idera.com/Products/SQL-toolbox/SQL-comparison-toolset/?s=PL_MSSQLTips_ct" target="_blank">SQL comparison toolset</a><br><br>
-
-
-
-	<a href="http://www.mssqltips.com/p.asp?z=pl&amp;id=10&amp;link=http://www.red-gate.com/products/SQL_Backup/offers/backup_saving_time.htm?utm_source=mssql&amp;utm_medium=productlisting&amp;utm_term=855&amp;utm_content=robust&amp;utm_campaign=sqlbackup" target="_blank">SQL Backup</a><br><br>
-
-
-
-	<a href="http://www.mssqltips.com/p.asp?z=pl&amp;id=1&amp;link=http://www.idera.com/Products/SQL-Server/SQL-safe-backup/?s=PL_MSSQLTips_safe " target="_blank">SQL safe backup</a><br><br>
-
-
-	</td>
-</tr>
-</tbody></table><br><br><br>
-	<a target="new" href="http://www.mssqltips.com/tac.asp?b=943&amp;l=http://www.red-gate.com/products/sql-development/sql-compare/entrypage/deployment?utm_source=mssql&amp;utm_medium=rectangle&amp;utm_term=5167&amp;utm_content=deploy&amp;utm_campaign=sqlcompare"><img src="http://www.mssqltips.com/absolutebm/banners\RedGate_SQLCompare_Jan2011_300x250.gif" border="0"></a><br><br><br>
-
-
-	<div align="left" style="width:300px; border: 1px solid #aaa; padding: 4px; background-color:white;">	
-		<div class="tabheader">SQL Server Tips</div>
-		<span class="header">
-
-
-<script type="text/javascript" src="http://www.mssqltips.com/tabber.js"></script>
-<link rel="stylesheet" href="http://www.mssqltips.com/tabber.css" type="text/css" media="screen">
-
-<script type="text/javascript">
-document.write('<style type="text/css">.tabber{display:none;}<\/style>');
-</script><style type="text/css">.tabber{display:none;}</style>
-
-<div class="tabberlive"><ul class="tabbernav"><li class="tabberactive"><a href="javascript:void(null);" title="Latest">Latest</a></li><li class=""><a href="javascript:void(null);" title="Active Comments">Active Comments</a></li></ul>
-	<div class="tabbertab " style="background-color:white;" title="">
-	<h2>Latest</h2>
-	
-	<a href="http://www.mssqltips.com/sqlservertip/2570/new-logical-functions-in-sql-server-2012-(iif-and-choose)/">New Logical Functions in SQL Server 2012 (IIF and CHOOSE)</a>
-	<hr>
-	<a href="http://www.mssqltips.com/sqlservertip/2580/querying-active-directory-data-from-sql-server/">Querying Active Directory Data from SQL Server</a>
-	<hr>
-	<a href="http://www.mssqltips.com/sqlservertip/2574/steps-to-restore-a-database-that-has-a-sql-server-audit-defined/">Steps to restore a database that has a SQL Server Audit defined</a>
-	<hr>
-	<a href="http://www.mssqltips.com/sqlservertip/2564/new-data-type-conversion-functions-in-sql-server-2012/">New Data Type Conversion Functions in SQL Server 2012</a>
-	<hr>
-	<a href="http://www.mssqltips.com/sqlservertip/2560/configure-generic-sql-server-linked-server-names/">Configure Generic SQL Server Linked Server Names</a>
-	<hr>
-	<a href="http://www.mssqltips.com/sqlservertip/2584/sql-server-interview-questions-for-dbas-and-developers/">SQL Server Interview Questions for DBAs and Developers</a>
-	<hr>
-	<a href="http://www.mssqltips.com/sqlservertip/2553/different-ways-to-monitor-log-shipping-for-sql-server-databases/">Different ways to monitor Log Shipping for SQL Server databases</a>
-	<hr>
-	<a href="http://www.mssqltips.com/sqlservertip/2552/creating-an-ssrs-map-report-with-data-pinpoints/">Creating an SSRS Map report with data pinpoints</a>
-	<hr>
-	<a href="http://www.mssqltips.com/sqlservertip/2526/enable-powershell-on-windows-server-2008-r2-core-edition/">Enable PowerShell on Windows Server 2008 R2 Core Edition</a>
-	<hr>
-	<a href="http://www.mssqltips.com/sqlservertip/2572/powershell-changes-for-database-backups-in-sql-server-2012/">PowerShell changes for database backups in SQL Server 2012</a>
-	
-	</div>
-
-	<div class="tabbertab tabbertabhide" style="background-color:white;" title="">
-	<h2>Active Comments</h2>
-	
-	<a href="http://www.mssqltips.com/sqlservertip/2580/querying-active-directory-data-from-sql-server/">Querying Active Directory Data from SQL Server</a>
-	<hr>
-	<a href="http://www.mssqltips.com/sqlservertip/1515/creating-sql-server-performance-based-reports-using-excel/">Creating SQL Server performance based reports using Excel</a>
-	<hr>
-	<a href="http://www.mssqltips.com/sqlservertip/1226/set-nocount-on-improves-sql-server-stored-procedure-performance/">SET NOCOUNT ON Improves SQL Server Stored Procedure Performance</a>
-	<hr>
-	<a href="http://www.mssqltips.com/sqlservertip/2015/import-and-export-registered-sql-servers-to-other-machines/">Import and Export Registered SQL Servers To Other Machines</a>
-	<hr>
-	<a href="http://www.mssqltips.com/sqlservertip/2560/configure-generic-sql-server-linked-server-names/">Configure Generic SQL Server Linked Server Names</a>
-	<hr>
-	<a href="http://www.mssqltips.com/sqlservertip/2553/different-ways-to-monitor-log-shipping-for-sql-server-databases/">Different ways to monitor Log Shipping for SQL Server databases</a>
-	<hr>
-	<a href="http://www.mssqltips.com/sqlservertip/2167/custom-sp_start_job-to-delay-next-task-until-sql-agent-job-has-completed/">Custom sp_start_job to delay next task until SQL Agent Job has completed</a>
-	<hr>
-	<a href="http://www.mssqltips.com/sqlservertip/2526/enable-powershell-on-windows-server-2008-r2-core-edition/">Enable PowerShell on Windows Server 2008 R2 Core Edition</a>
-	<hr>
-	<a href="http://www.mssqltips.com/sqlservertip/2521/standardize-sql-server-backups-and-maintain-existing-job-schedules/">Standardize SQL Server backups and maintain existing job schedules</a>
-	<hr>
-	<a href="http://www.mssqltips.com/sqlservertip/2563/understanding-the-sql-server-select-@@version-command/">Understanding the SQL Server SELECT @@VERSION command</a>
-	
-	</div>
-
-		
+	</div>	
 </div>
-
-</span>
-	</div>
-	<br><br><br>
-
-	<div style="background-color:white; border: 1px solid #aaa; width: 160px; padding: 10px;">
-<a target="new" href="http://www.mssqltips.com/tac.asp?b=1081&amp;l=http://www.idera.com/Promo/SQL-safe-7-Beta/?s=BN_MSSQLTips_safebeta"><img src="http://www.mssqltips.com/absolutebm/banners/IDERA-SQLSAFE_180X600_A_20111219.GIF" border="0"></a><br><a target="new" href="http://www.mssqltips.com/tac.asp?b=1081&amp;l=http://www.idera.com/Promo/SQL-safe-7-Beta/?s=BN_MSSQLTips_safebeta"></a>
-</div>
-<br><br><br>
-
-	<div align="left" style="width:300px; border: 1px solid #aaa; padding: 4px; background-color:white;">	
-		<div class="tabheader">Community Questions</div>
-		<span class="header">
-
-
-<script type="text/javascript" src="tabber.js"></script>
-<link rel="stylesheet" href="http://www.mssqltips.com/tabber.css" type="text/css" media="screen">
-
-<script type="text/javascript">
-document.write('<style type="text/css">.tabber{display:none;}<\/style>');
-</script><style type="text/css">.tabber{display:none;}</style>
-
-<div class="tabberlive"><ul class="tabbernav"><li class="tabberactive"><a href="javascript:void(null);" title="Latest">Latest</a></li><li class=""><a href="javascript:void(null);" title="Active Questions">Active Questions</a></li></ul>
-	<div class="tabbertab " style="background-color:white;" title="">
-	<h2>Latest</h2>
-	
-	<a href="http://www.mssqltips.com/sqlserverquestion/7630/select-rows-with-maximum-number-of-entries-in-columns/">Select rows with maximum number of entries in columns</a>
-	<hr>
-	<a href="http://www.mssqltips.com/sqlserverquestion/7629/sql-server-query/">Sql server Query</a>
-	<hr>
-	<a href="http://www.mssqltips.com/sqlserverquestion/7628/convert-column-into-rows/">Convert column into rows</a>
-	<hr>
-	<a href="http://www.mssqltips.com/sqlserverquestion/7627/installation-of-sql-server-2000-standard-ed--2008-r2-express-ed-on-same-machine/">Installation of  SQL Server 2000 standard ed &amp; 2008 R2 express ed. on same machine</a>
-	<hr>
-	<a href="http://www.mssqltips.com/sqlserverquestion/7626/parameters-and-connect-timeout-and-general-timeout-not-working-dts-mssqlserver-2005-has-anyone-experienced-this/">Parameters and Connect Timeout  and General Timeout not working DTS MSSQLServer 2005!!!  Has anyone experienced this?</a>
-	<hr>
-	<a href="http://www.mssqltips.com/sqlserverquestion/7625/not-able-to-restore-backup-from-network-drives-/">Not able to restore backup from network drives , </a>
-	<hr>
-	<a href="http://www.mssqltips.com/sqlserverquestion/7624/query-data-table-output-to-csv-file/">Query data table output to CSV file</a>
-	<hr>
-	<a href="http://www.mssqltips.com/sqlserverquestion/7623/conditional-backup/">Conditional Backup</a>
-	<hr>
-	<a href="http://www.mssqltips.com/sqlserverquestion/7622/how-to-write-a-query-to-find-out-i-inserted-records-in-sqlserver-table/">How to write a query to find out i inserted records in sqlserver table </a>
-	<hr>
-	<a href="http://www.mssqltips.com/sqlserverquestion/7621/accessing-several-db-inside-a-sql-function-error/">accessing several DB inside a SQL function error</a>
-	
-	</div>
-
-	<div class="tabbertab tabbertabhide" style="background-color:white;" title="">
-	<h2>Active Questions</h2>
-	
-	<a href="http://www.mssqltips.com/sqlserverquestion/7623/conditional-backup/">Conditional Backup (1)</a>
-	<hr>
-	<a href="http://www.mssqltips.com/sqlserverquestion/7625/not-able-to-restore-backup-from-network-drives-/">Not able to restore backup from network drives ,  (1)</a>
-	<hr>
-	<a href="http://www.mssqltips.com/sqlserverquestion/7624/query-data-table-output-to-csv-file/">Query data table output to CSV file (2)</a>
-	<hr>
-	<a href="http://www.mssqltips.com/sqlserverquestion/7503/cluster--evictadd-node/">Cluster - Evict/Add Node (4)</a>
-	<hr>
-	<a href="http://www.mssqltips.com/sqlserverquestion/7622/how-to-write-a-query-to-find-out-i-inserted-records-in-sqlserver-table/">How to write a query to find out i inserted records in sqlserver table  (1)</a>
-	<hr>
-	<a href="http://www.mssqltips.com/sqlserverquestion/7621/accessing-several-db-inside-a-sql-function-error/">accessing several DB inside a SQL function error (1)</a>
-	<hr>
-	<a href="http://www.mssqltips.com/sqlserverquestion/7617/need-info-on-conditional-backup/">need info on Conditional backup (5)</a>
-	<hr>
-	<a href="http://www.mssqltips.com/sqlserverquestion/7619/how-to-upgrade-a-sql-2000-database-to-sql-2005--need-confirmation/">How to upgrade a SQL 2000 Database to SQL 2005 - need confirmation? (4)</a>
-	<hr>
-	<a href="http://www.mssqltips.com/sqlserverquestion/7616/split-string-based-on-a-pattern/">Split string based on a pattern (8)</a>
-	<hr>
-	<a href="http://www.mssqltips.com/sqlserverquestion/7618/tunning-query/">Tunning Query (1)</a>
-	
-	</div>
-
-</div>
-
-</span>
-
-	</div>
-	<br><br><br>
-	
-	
-
-	<div align="left" style="width:300px; border: 1px solid #aaa; padding: 4px; background-color:white;">	
-		<div class="tabheader">Announcements</div>
-		<div class="tabberlive"><ul class="tabbernav"><li class="tabberactive"><a href="javascript:void(null);" title="Events">Events</a></li><li class=""><a href="javascript:void(null);" title="Giveaways">Giveaways</a></li><li class=""><a href="javascript:void(null);" title="Contribute">Contribute</a></li></ul>
-	<div class="tabbertab " style="background-color:white;" title="">
-	<h2>Events</h2>
-	<br>
-	<strong>Free Live Webcasts</strong><br>
-
-
-	<a href="https://www.vconferenceonline.com/event/regeventweb.aspx?id=479&amp;cid=WS_MSSQLTips" target="_blank&quot;">Putting a Better SQL Server in Production 
-</a> (Jan 18th)
-
-	</div>
-
-	<div class="tabbertab tabbertabhide" style="background-color:white;" title="">
-	<h2>Giveaways</h2>
-	<br>
-	<strong>Giveaways</strong><br>
-	<a href="http://www.mssqltips.com/giveaway.asp">Win a Kindle Fire</a>
-	<br><br>
-
-	MSSQLTips is giving away a Kindle Fire.<br><br>
-	The winner will be selected on December 23, 2011.
-	</div>
-
-	<div class="tabbertab tabbertabhide" style="background-color:white;" title="">
-	<h2>Contribute</h2>
-	<br><strong>Contribute and make some money!</strong><br>
-	<a href="http://www.mssqltips.com/contribute.asp">Become a MSSQLTips author</a>
-	<br><br>
-	
-	Share your knowledge about SQL server with the MSSQLTips community. Just about every day you probably learn something
-	new, so share that knowledge.
-	</div>
-
-</div>
-	</div>
-
-</div>
-
-
-
-		</td>
-	</tr><tr>
-</tr></tbody></table>
 <!-- content end -->
 
 <table width="100%" cellspacing="0" cellpadding="4" style="border: 1px solid #aaa; padding: 4px; background-color:#E0E0E0">
 	<tbody><tr>
 		<td>			
 			<center>                        
-			<font color="#000000" size="2">Copyright (c) 2006-2011
+			<font color="#000000" size="2">Copyright (c) 2006-2012
 			<a href="http://www.edgewoodsolutions.com" target="new">Edgewood Solutions, LLC</a> All rights reserved<br>
 			<a color="#000000" href="http://www.mssqltips.com/privacy.asp">privacy</a> |
 			<a color="#000000" href="http://www.mssqltips.com/disclaimer.asp">disclaimer</a> |
 			<a color="#000000" href="http://www.mssqltips.com/copyright.asp">copyright</a> |
 			<a color="#000000" href="http://www.mssqltips.com/advertise.asp">advertise</a> |
+			<a color="#000000" href="http://www.mssqltips.com/about.asp">about</a> <br>
+
+			<a color="#000000" href="http://www.mssqltips.com/authorlist.asp">authors</a> |
 			<a color="#000000" href="http://www.mssqltips.com/contribute.asp">contribute</a> |
 			<a color="#000000" href="http://www.mssqltips.com/feedback.asp">feedback</a> |
 			<a color="#000000" href="http://www.mssqltips.com/giveaway.asp">giveaways</a> |
-			<a color="#000000" href="http://www.mssqltips.com/usergroups.asp">user groups</a> |
-			<a color="#000000" href="http://www.mssqltips.com/about.asp">about</a>
+			<a color="#000000" href="http://www.mssqltips.com/usergroups.asp">user groups</a>
+
 			<br>
 			<font size="1">Some names and products listed are the registered trademarks of their respective owners.</font>
 			</font>
 <br>
 <br>
-			<a href="http://www.careerqanda.com/">CareerQandA.com</a> |
+			<a href="http://www.edgewoodsolutions.com/">Edgewood Solutions LLC</a> |
 			<a href="http://www.mssharepointtips.com/">MSSharePointTips.com</a> |
 			<a href="http://www.mssqltips.com/">MSSQLTips.com</a>
 			</center>
@@ -523,4 +470,4 @@ document.write('<style type="text/css">.tabber{display:none;}<\/style>');
 
 
 
-</body></html>
+</div></body></html>
