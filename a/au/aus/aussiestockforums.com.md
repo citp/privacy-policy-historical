@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aussiestockforums.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108220405id_/http%3A//www.aussiestockforums.com/content.php%3Fr%3D123-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aussiestockforums.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510221611id_/http%3A//www.aussiestockforums.com/content.php%3Fr%3D123-Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Aussie Stock Forums - Privacy Policy
 
 Aussie Stock Forums takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
@@ -28,13 +28,13 @@ To improve our website: We rely on information we receive from our members to im
 
 To send you emails: Aussie Stock Forums from time to time may send its members emails which may include advertising material, site news or announcements.
 
-Please note that members can choose to opt out of emails from Aussie Stock Forums any time by following the instructions at the bottom of the email. Please also note that if you choose to opt out of the emails your account will no longer be valid as it is a condition of membership that you accept all emails from Aussie Stock Forums.
+Please note that members can choose to opt out of emails from Aussie Stock Forums any time by following the instructions at the bottom of the email. Please also note that if you choose to opt out of the emails your access to the forums will be restricted, as it is a condition of membership that you accept all emails from Aussie Stock Forums.
 
-Aussie Stock Forums may also use your information for any of the following general purposes: to customize the advertising and content you see, fulfil your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
+Aussie Stock Forums may also use your information for any of the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
 
 **Information Sharing & Disclosure**
 
-We do not sell, trade or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in the daily operation of our website, conducting our business, or serving you so long as those parties agree to keep your information confidential. We may also release your information when we believe release may be appropriate to comply with law, litigation, enforce our site policies or protect ours or others rights, property or safety. No personally identifiable visitor information may be provided to other parties for advertising or marketing purposes.
+We do not sell, trade or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in the daily operation of our website, conducting our business, or serving you so long as those parties agree to keep your information confidential. We may also release your information when we believe release may be appropriate to comply with law, litigation, enforce our site policies or protect ours or others rights, property or safety. No personally identifiable visitor information is provided to other parties for advertising or marketing purposes.
 
 Your personal information will be transferred to any new company or organisation that may acquire or merge with Aussie Stock Forums in the future. In this situation, members will be notified of any such event before a transfer takes place.
 
@@ -50,7 +50,7 @@ Aussie Stock Forums limits access to personal information about you to employees
 
 **Changes To Your Account/Membership**
 
-You reserve the right to cease your Aussie Stock Forums membership at any time. If you wish to cease being a member of the Aussie Stock Forums website please contact us and we will disable your account and all account information.
+You reserve the right to cease your Aussie Stock Forums membership at any time. If you wish to cease being a member of the Aussie Stock Forums website please contact us and we will disable your account and all account information at your request.
 
 Please be aware that by joining and continuing to use our website you consent to the above privacy policy.
 
