@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spiritnow.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231203750id_/http%3A//www.spiritnow.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiritnow.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510180718id_/http%3A//www.spiritnow.com/static/privacy) for the most accurate reproduction.*
 
 # Spirit Now
 
@@ -96,8 +96,8 @@ Further, these same commercially reasonable physical, electronic, and procedural
 In the event of a security breach, Preston Media will attempt to notify you electronically, including but not limited to via email or a general Preston Media Network posting, so that you may take appropriate protective measures. Depending on the laws of your state or location, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of any security breach, or to withdraw your consent from receiving electronic notice, please notify us at: 
 
 Preston Media, LLC  
-48 West 37th Street, 7th Floor  
-New York, NY 10018
+888c 8th Avenue #139  
+New York, NY 10019
 
 **NOTICE: For important information about safe Internet usage from the Federal Trade Commission, please[click here](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.htm). (http://www.ftc.gov/bcp/conline/pubs/online/sitesee.htm) **
 
@@ -112,7 +112,7 @@ Use of the Preston Media Network is restricted to United States residents Presto
 Questions  
 If you have any questions about this Privacy Policy, please contact:  
 Preston Media, LLC  
-48 West 37th Street, 7th Floor  
-New York, NY 10018
+888c 8th Avenue #139  
+New York, NY 10019
 
-Last update: February 21, 2008
+Last update: Jan 11, 2012
