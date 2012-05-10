@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kingarthurflour.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206054813id_/http%3A//www.kingarthurflour.com/customerservice/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingarthurflour.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510124051id_/http%3A//www.kingarthurflour.com/customerservice/privacy.html) for the most accurate reproduction.*
 
-# Customer service | Privacy policy: King Arthur Flour
+# Privacy Policy: King Arthur Flour
 
 We respect your privacy, and value the confidence you’ve shown in us by choosing to shop via our site. 
 
@@ -16,13 +16,13 @@ We record the address of the website you came from before visiting us, and any t
 
 If you join The Baking Circle or participate in any online survey we may offer, we record your e-mail address and the information you provide us on the questionnaire. We use your e-mail address to contact you with special offers, recipes, and news about King Arthur Flour that may be of interest to you. We use summaries of the data collected from the questionnaire to help us improve the service we offer you. 
 
-If you place a catalogue request, order online, or contact us via e-mail, we record your e-mail and postal address so we’re able to respond to you in the quickest, most effective way possible. You may receive periodic contacts from us via mail or e-mail with information on new products, services, or upcoming events. We also sometimes rent or exchange our list of postal addresses with other marketers with whom we share similar customers, and whose products and offer we feel could benefit you. If you’d prefer we didn’t share your name and postal address, please let us know by contacting us via e-mail at [ customercare@kingarthurflour.com](mailto:customercare@kingarthurflour.com); by postal mail, or by calling us: 800.827.6836. 
+If you place a catalogue request, order online, or contact us via e-mail, we record your e-mail and postal address so we’re able to respond to you in the quickest, most effective way possible. You may receive periodic contacts from us via mail or e-mail with information on new products, services, or upcoming events. We also sometimes rent or exchange our list of postal addresses with other marketers with whom we share similar customers, and whose products and offer we feel could benefit you. If you’d prefer we didn’t share your name and postal address, please let us know by contacting us via e-mail at [ customercare@kingarthurflour.com](mailto:customercare@kingarthurflour.com); by postal mail, or by calling us at 1 800-827-6836. 
 
 ###  Your permission is required… 
 
 Each e-mail promotion, recipe, or update you receive from us will include instructions on how you can remove your e-mail address from this service. Prior to ever sharing your e-mail address with other marketers, we would contact you (via e-mail) and request your permission to do so. We also will disclose the information as required to do so under applicable law. 
 
-We have the opportunity to use your e-mail address to help our environment by reducing the number of catalogues that we and others put in the mail. If youâ€™d like to reduce the quantity of catalogues you receive from us, please let us know by contacting us via e-mail at [ customercare@kingarthurflour.com](mailto:customercare@kingarthurflour.com), by postal mail, or by calling us at 800.827.6836. 
+We have the opportunity to use your e-mail address to help our environment by reducing the number of catalogues that we and others put in the mail. If youâ€™d like to reduce the quantity of catalogues you receive from us, please let us know by contacting us via e-mail at [ customercare@kingarthurflour.com](mailto:customercare@kingarthurflour.com), by postal mail, or by calling us at 1 800-827-6836. 
 
 ###  Integrity of your personal information 
 
@@ -34,4 +34,4 @@ Certain features and services we offer on our website may require we place a “
 
 ###  Privacy questions 
 
-If you have any questions, concerns, or comments about this privacy policy, please contact us at [ info@kingarthurflour.com ](mailto:info@kingarthurflour.com)
+If you have any questions, concerns, or comments about this privacy policy, please contact us at [ info@kingarthurflour.com](mailto:info@kingarthurflour.com)
