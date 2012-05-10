@@ -1,20 +1,38 @@
-<!--The following is the downloaded HTML source of the blingo.com privacy policy that was archived on 2010-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229030847id_/http%3A//www.blingo.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blingo.com privacy policy that was archived on 2012-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120510145735id_/http%3A//www.blingo.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
-<title>Blingo: Privacy Policy</title>
+<title>Privacy Policy | Instant Win Prizes from Searching, Free Online Sweepstakes | PCHSearchAndWin</title>
 
 
-<link rel="stylesheet" type="text/css" href="http://static.blingo.com/version/91/shared/styles.css">
-<link rel="stylesheet" type="text/css" href="http://static.blingo.com/version/91/ext.css">
+<link rel="stylesheet" type="text/css" href="http://static.blingo.com/version/110/shared/styles.css">
+<link rel="stylesheet" type="text/css" href="http://static.blingo.com/version/110/ext.css">
 
 
-<script type="text/javascript" src="http://static.blingo.com/version/13/flashDetection.js"></script>
+
+
+
+<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" src="http://static.blingo.com/version/13/flashDetection.js"></script>
 <script type="text/javascript" src="http://static.blingo.com/version/13/util.js"></script>
 
+
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "8431438" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=8431438&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
 
 
 
@@ -49,6 +67,26 @@
         <div id="searchBox">
     <script type="text/javascript"><!--
 function swapQ(el) {
+
+	 // for call to action support/fix
+	 var frmName;
+	 var strCallToAction="Enter Your Search Here";
+
+	 if ( typeof(getfn) == typeof(Function) ) frmName = getfn();
+
+	 if ( frmName ) {
+	    var frmInit;
+	    	var frmRest;
+		    frmInit = frmName.substring(0,1).toUpperCase();
+		    	    frmRest = frmName.substring(1).toLowerCase();    
+			    	    strCallToAction=frmInit+frmRest+", " + strCallToAction
+				    }
+
+				    fldWipe(strCallToAction)
+				    // END call to action support/fix
+
+
+
 	if (window.RegExp && window.encodeURIComponent) {
 		var ue = el.href;
 		var qe = encodeURIComponent(document.searchForm.q.value);
@@ -96,26 +134,14 @@ function swapQ(el) {
 
 
     <form class="searchFormWithoutLogo" name="searchForm" id="searchForm" method="GET" action="/search">
-
-	<div class="searchSelector">
-            
-	    
-	    <div class="selectionIndicatorSelected">»</div>Web
-	    
-	    
-	    
-	    <div class="selectionIndicator">»</div><a href="/images" onclick="return swapQ(this);">Images</a>
-	    
-	    
-	</div><!-- searchSelector -->
-
 	
 
 	<div class="searchFormInputs">
 	    <input class="searchField" type="text" id="searchbox" name="q" maxlength="256" value="">
+		
 		 
          
-        <input class="submitButton" type="submit" value="Search">
+        <input class="submitButton" type="submit" value="Search" onclick="AddCmSearchButtonTag();">
 	</div>
     </form><!-- searchForm -->
 </div><!-- searchBox -->
@@ -197,7 +223,7 @@ claims.</p>
 
 
     <h2>Changes to the Privacy Policy</h2>
-    <p>By using the Blingo Search Services and our Website, you consent to the collection and use of your information as we have outlined in this policy and to our <a href="/tos">Terms of Service Policy</a>. Blingo may decide to change this Privacy Policy from time to time. When we do, we will post those changes prominently on our Website so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. Please review this Privacy Policy from time to time so that you will be apprised of any changes.</p>
+    <p>By using the Blingo Search Services and our Website, you consent to the collection and use of your information as we have outlined in this policy and to our <a href="/tou">Terms of Use Policy</a>. Blingo may decide to change this Privacy Policy from time to time. When we do, we will post those changes prominently on our Website so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. Please review this Privacy Policy from time to time so that you will be apprised of any changes.</p>
 
     <h2>Contact Information</h2>
     <p>If you have any comments regarding our privacy policy, please contact us via email or via postal mail at:</p>
@@ -218,14 +244,12 @@ claims.</p>
         <div class="menuSection">
             <div class="menuItem"><a href="/about">How Blingo Works</a></div>
             <div class="menuItem"><a href="/aboutsuperprize">About SuperPrize</a></div>
-            <div class="menuItem"><a href="/aboutfriends">About Blingo Friends</a></div>
-            
         </div>
 
         <div class="menuSection">
             <div class="menuItem"><a href="/press">Press</a></div>
             <div class="menuItem"><a target="_blank" href="http://pch.custhelp.com/app/home/site/searchwin">Contact Us</a></div>
-            <div class="menuItem"><a href="/tos">Terms of Service</a></div>
+            <div class="menuItem"><a href="/tou">Terms of Use</a></div>
             <div class="menuItem"><a href="/privacy">Privacy Policy</a></div>
             <div class="menuItem"><a href="/rules">Rules</a></div>
         </div>
@@ -243,7 +267,7 @@ claims.</p>
 </div>
 </div>
 <div class="sidebarContentWithShadow">
-    <a href="/aboutfriends"><img alt="Win More Prizes. Invite Friends!" width="192" height="120" src="http://static.blingo.com/images/d3/modules/secondary-new-day-1x1.jpg"></a>
+    <a href="/"><img alt="" width="192" height="120" src="http://static.blingo.com/images/d3/modules/secondary-new-day-1x1.jpg"></a>
 </div>
 
         </td>
@@ -254,16 +278,15 @@ claims.</p>
 <div class="footer">
 	<a href="/">Home</a>
 	| <a target="_blank" href="http://pch.custhelp.com/app/home/site/searchwin">Contact Us</a>
-	| <a href="/aboutsuperprize">February 28th SuperPrize Event</a>
+	| <a href="/aboutsuperprize">Superprize Info</a>
 	| <a href="/claim">Prize Status</a>
 	| <a href="/rules">Rules</a>
-	| <a href="/privacy">Privacy Policy</a>
-	| <a href="http://twitter.com/pchsearchandwin">Follow us on Twitter <img src="http://static.blingo.com/images/twitter.gif"></a><br>
+	| <a href="/privacy">Privacy Policy</a><br>
 </div>
-<!-- One -->
+<!-- Two -->
 
 
-<div class="copyright">Copyright © 2004-9 Blingo, Inc.
+<div class="copyright" id="copyright">Copyright © 2004-2012 Blingo, Inc.
 
 <div class="disclosure">All trademarks and
 registered trademarks appearing on this site are the property of their
@@ -273,6 +296,7 @@ with Blingo.com or its promotions.</div>
 </div>
 
 
+<script type="text/javascript" src="http://static.blingo.com/shared/searchBox.js"></script>
 <script language="javascript" type="text/javascript">
    var ispace_txtElements = ['searchbox'];
    var ispace_brand = 'pch_meta_v3';
