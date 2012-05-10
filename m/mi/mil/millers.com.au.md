@@ -1,119 +1,60 @@
-> *The following text is extracted and transformed from the millers.com.au privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206042717id_/http%3A//w3.eftel.com/Privacy.cms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millers.com.au privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510125737id_/http%3A//www.millers.com.au/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# EFTel – Australian Internet Service Provider ISP, Broadband ADSL
+# Millers - Privacy Policy
 
-#### Privacy Policy
+**Last updated: July 2011**
 
-EFTel is committed to providing you with a reliable, robust, and secure internet experience. We are also committed to guarding your privacy and personal information.  
-EFTel has obligations to protect your privacy under various Federal Government acts, including the Telecommunications Act 1997 and the Privacy Act 1998. 
+Millers is a registered brand owned by Specialty Fashion Group Ltd.
 
-**What information do we collect?**
+Specialty Fashion Group Limited ABN 43 057 569 169 and related entities (also ‘we’) appreciate that privacy is important to you. This policy explains how we collect, hold, use and disclose personal information about you. Collection
 
-EFTel collects personal information from you that is necessary for it to perform its functions, set out below: 
+We collect personal information at our stores, corporate premises and online, both electronically and in hard copy.
 
->   * Your name, address and contact details; 
->   * Your date of birth; 
->   * Account name and account number held by financial institutions from which payments for services provided by EFTel are made; 
->   * Records of communications between you and EFTel relating to services provided by EFTel to you; 
->   * Information obtained as a result of credit checks which you have authorised; 
->   * Billing information; 
->   * Records of your Internet usage (see below for more details); 
-> 
+At Specialty Fashion Group we use your personal information primarily for the purposes of: marketing and promotion, internal accounting and auditing, recording proof of purchase, validating cheque transactions, regulatory reporting and compliance, recruitment and servicing our relationship with you. We may communicate additional purposes for use and disclosure of personal information at the point of collection.
 
+Specialty Fashion Group may engage other persons or organisations (for example, loyalty program administrators and partners, data analysis specialists, statement producers, data mail houses, data processing organisations, marketing researchers, specialist call centres and service providers) to assist Specialty Fashion Group in carrying out the above purposes. Your personal information may be disclosed to such persons or organisations for these purposes and, in providing a service, they may contact you directly. In some circumstances, they may disclose personal information they collected from you to Specialty Fashion Group for one or more of the purposes already mentioned.
 
-**Internet usage records**  
-These records comprise:
+The nature of the information collected will vary depending on the purpose for which the information was collected. However, the information we usually collect includes name, address, credit card details, phone number, email address, work history etc. This information allows us to provide services to you or otherwise interact with you. If you do not provide us with the personal information requested, we may not be able to provide the services or interact.
 
->   * If you use our mail server to send or receive emails - the origin and destination of emails to and from your account and their size. These records are kept for a week in case you have a question about whether your email account is working properly, and to enable us to enforce our policy against spam email. The contents of emails are not kept after you have downloaded them, and can only be disclosed to law enforcement agencies in accordance with item 14(b) below; 
->   * for non ADSL customers - your user name and your IP address for each internet connection session and its start and finish times and, unless you have caller ID switched off, the phone number used to dial up. These records are kept for up to 7 years to bill you where you are charged by volume and in case a question arises about your use of a service or whether a service was provided to you; 
->   * for ADSL customers - your ID number and your IP address for each internet connection session and its start and finish times, the amount of data that passed over your service, and the port numbers and IP addresses of external services you connected to. These records are kept for up to 7 years to bill you where you are charged by volume and in case a question arises about your use of a service or whether a service was provided to you 
->   * the names and sizes of all files uploaded and downloaded by you to and from our File Transfer Protocol servers and the time and date they were uploaded or downloaded. The files themselves stay on the servers until you delete them or cease to be a customer. These records are kept for 9 months in case a question arises about whether changes to your website were made and when; and 
->   * if you connect to the internet through our proxy server (a choice made by your browser) - the IP address of every site you visited and the date and time you visited that site. These records are kept for 3 days. These records are kept in case you raise a question about whether your internet access service is working properly 
-> 
+**If you provide your email address or mobile telephone number to Specialty Fashion Group, you consent to Specialty Fashion Group using your email address to email you and/or your mobile telephone number to SMS you for any of the purposes listed above.**
 
+ **Use and disclosure**
 
-**How Internet Usage Records are Recorded**
+If we will be using or disclosing your personal information for a purpose other than the primary purposes described above, we will obtain your consent unless the use or disclosure is otherwise permitted under the Privacy Act 1988 (National Privacy Principles) (‘NPPs’). Specialty Fashion Group does not sell personal information to direct marketing organisations.  
+If you do not wish to be contacted by Specialty Fashion Group about our products, simply write, email or call us using the contact information provided below and we will remove you from any mail, telephone or electronic lists used by us for marketing purposes. Please be sure to include your name and other relevant details.
 
->   * Our computers generate these records. We can also use them to troubleshoot internal problems. 
-> 
+The Privacy Officer, Specialty Fashion Group, 151-163 Wyndham St. Alexandria NSW 2015  
+Email: privacy@specialtyfashiongroup.com.au  
+Phone: (02) 8303 9800
 
+ **Accuracy of and access to personal information**
 
-**How Internet Usage Records are Disclosed**  
+We endeavour to take all reasonable steps to ensure the personal information we hold is up-to-date, complete and accurate.
 
+At any time, you may request a copy of your personal information held by us by contacting us using the contact information provided above. If you believe any of your personal information held by us is incomplete or inaccurate, please notify us in writing so that we may update that information. Every reasonable effort will be made to provide or update personal information on request, unless an exemption under the NPPs applies. In these circumstances we will provide written notification as to why your request has been refused.
 
->   * In addition to any other permitted disclosures under this policy, internet usage records will only be disclosed: 
-> 
+ **Data security**
 
->
->> (a) to you in the course of resolving an issue about services provided to you; and  
-> (b) to law enforcement agencies who appear to us to have a warrant or to have followed another statutory procedure that authorises us to disclose them, or as authorised by any law.  
-> 
+Specialty Fashion Group will endeavour to take reasonable steps to protect the personal information we hold from misuse, loss and unauthorised access, modification or disclosure. We adopt practices to prevent unauthorised access to our premises, systems or physical storage locations. Personal information that is no longer required will be destroyed or de-identified, as appropriate. Online transaction security
 
- **How does EFTel collect personal information?**
+Specialty Fashion Group takes online transaction security seriously. We process online transactions using at least a 128 bit SSL encryption to a secure eWay credit card payment gateway system.
 
-When you first buy a service from us we will collect certain mandatory information from you such as your name (and in case of company applications the name of the directors of the company), contact details, and date of birth. Your use of the service will generate usage and billing information which is automatically collected by our systems.  
-We may also collect information from third parties such as:
+Specialty Fashion Group collects but does not store your credit card details on its databases or servers. You will need to enter those details each time you make a purchase on our websites. However, we do maintain records of your transaction history. As mentioned above, Specialty Fashion Group adopts practices to prevent unauthorised access to such records. Identifiers and anonymity
 
->   * Credit providers or credit reporting agencies contacted by us (or by external service providers on our behalf) in the course of carrying out a credit check. 
->   * Other entities who provide services to us related to the provision of services provided to you. 
->   * Government agencies which administer laws regulating telecommunication service providers, or complaint resolution processes established under those laws. 
-> 
+Where personal information is collected, it will usually be identified by a common identifier such as the name of the individual, address or transaction details. Specialty Fashion Group will not use identifiers assigned by a government agency, such as tax file numbers, to identify your personal information.
 
+Wherever it is lawful and practical, Specialty Fashion Group will give you the option of not identifying yourself when interacting with us. Transfer overseas
 
-  
-**How do we use your personal information?**  
-EFTel respects your privacy. As a result, EFTel does not trade, rent or sell your personal information or corporate information. The primary purpose for which we use your personal information is to provide you with the services you have purchased from us. In the course of providing an internet service to you we may also use your personal information for related purposes including the following: 
+We may transfer your personal information to a person or organisation in a foreign country, but only if the transfer is permitted under the NPPs. The NPPs permit such transfers in circumstances including if you consent to the transfer or if we have taken reasonable steps to ensure that the information transferred will not be held, used or disclosed by the recipient inconsistently with the NPPs.
 
->   * Provisioning and connecting your service. 
->   * Credit checking. 
->   * Providing you with customer service. 
->   * Billing you for that service. 
->   * Investigating and resolving complaints and faults in relation to your service. 
->   * Following up and payments you owe us. 
-> 
+ **Sensitive information**
 
+Where Specialty Fashion Group collects personal information that is also sensitive information, such as health details, we will only do so if the individual has consented or the collection is required or permitted by law, including where necessary for the establishment, exercise or defence of a legal or equitable claim.
 
-We may also use your personal information to tell you about our other products and services provided by EFTel in conjunction with either our related bodies corporate or our business partners or associates.  
-In delivering some services, EFTel contracts out some various works to external service providers. EFTel may disclose personal information held by it to these organisations, but only to the extent to allow those services to be delivered.  
-EFTel may disclose your personal information to other telecommunications service and equipment providers, EFTel's related corporate bodies, credit providers, credit reporting agencies, organisations to whom EFTel outsources services and domain registrars located locally or overseas.
+ **Feedback**
 
- **Access to Personal Information**
+If at any time you believe we have not followed our privacy policy, or if you have some query or comment about our privacy policy, please contact our privacy officer, at the address set out above. We will make every reasonable effort to resolve the problem to the satisfaction of all parties and/or provide you with a response to your query or comment. If you are not satisfied with our response, you can lodge a complaint with the Australian Privacy Commissioner.
 
-Generally, you have the right to see or obtain a copy of personal information about you that we may hold.  
-EFTel will handle requests for access to personal information in accordance with the National Privacy Principles. To request access to your personal information, please contact us on (08) 9420 9999. We will ask you several questions so we can be sure to verify your identity, and then if possible provide you with the requested information over the telephone.  
-If we cannot immediately provide you with the information you require we will send you an acknowledgement by email or post within seven days. We will respond to your request within 28 days.   
-Depending on the information you request, and how long it takes us to compile it, and respond to your request, we may charge you for the administrative costs of providing the information to you.  
-There may be rare circumstances in which we may refuse to give you access to your personal information where giving you access: 
+ **Updating this privacy policy**
 
->   * would have an unreasonable impact on other people's privacy. 
->   * would prejudice any negotiations we are having with you. 
->   * would prejudice an investigation of unlawful activity, or activities by law enforcement agencies. 
->   * would prejudice billing you for that service. 
-> 
-
-
-If you believe that we hold personal information about you that you consider to be inaccurate, incomplete or out of date you should tell us by calling (08) 9420 9999. We will amend any inaccurate, incomplete or out of date information.
-
- **How do we protect your personal information?**
-
-High technology is used to ensure that your sensitive information is secure and protected from unauthorised access or improper use. For example you will note that some features of the EFTel web site ([myaccounts.eftel.com](https://myaccount.eftel.com/)) require the need to submit a password before you gain access.  
-Your password is confidential and is encrypted to ensure secrecy. With your password, you will be able to see and edit some of your personal details via the member pages.
-
- **Changes to our Privacy Policy**
-
-From time to time, it may be necessary for us to review our Privacy Awareness Policy. We reserve the right to amend our Privacy Awareness Policy at any time and to notify you by posting an updated version on the EFTel website [www.eftel.com](https://web.archive.org/)
-
- **Privacy officer contact information**
-
-Should you have any questions or complaints about our privacy policy please contact:
-
-Customer Accounts  
-Eftel Pty Ltd  
-Level 8, 250 St George’s Terrace,  
-Perth WA 6000  
-Phone: (08) 9420 9999  
-accounts@eftel.com
-
- **Further Information**
-
-You can available yourself further information on privacy principles by visiting the Australian Privacy Commissioners webpage at [http://www.privacy.gov.au](http://www.privacy.gov.au/)
+We may update this privacy policy from time to time by posting a revised version on our website. 
