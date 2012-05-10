@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the renweb.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110094624id_/http%3A//www.renweb.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renweb.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510041913id_/http%3A//www.renweb.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -33,7 +33,7 @@ Given that our services include student information management and fundraising s
 
 We will respond to requests for Contacts and Sales Demonstration made via our website [www.renweb.com]() using personal information received from you at the time of the request. To request information about our products and services, we may ask you to provide certain information including but not limited to your name, address, telephone number, email address, school name, school address, total enrollment, grade levels, and referral information. _No information will be collected unless you provide it to us voluntarily. WilComp will not share this information with anyone outside of our company, subject to the limitations described above._
 
-WilComp may use school information to contact appropriate representatives at the school. For example, we may send marketing or promotional materials including emails or other information to school administrators; we may respond to your comments, questions or requests for information; or we may contact you as necessary to provide general customer support. You may update your contact information or opt out of receiving marketing or promotional materials by contacting our Customer Support center by phone at +1 866 800 6593, or via email request sent to [privacy@renweb.com](mailto:privacy@renweb.com).
+WilComp may use school information to contact appropriate representatives at the school. For example, we may send marketing or promotional materials including emails or other information to school administrators; we may respond to your comments, questions or requests for information; or we may contact you as necessary to provide general customer support. You may update your contact information or opt out of receiving marketing or promotional materials by contacting our Customer Support center by phone at +1 866 800 6593 , or via email request sent to [privacy@renweb.com](mailto:privacy@renweb.com).
 
 When a school becomes a customer of WilComp, the school administration will be required to submit information regarding your business, its staff members and clients (parents, guardians, students and other associated parties). This information will be managed on your behalf within WilComp product databases by means of our software interfaces, the information itself remains the property of the client school as the owner of the data. You may request the complete removal of your infomation from our systems at any time; such removal will be completed within 30 days of our receipt of your written request.
 
@@ -92,6 +92,9 @@ We or our third-party advertising partner employ a software technology called cl
 
 This site uses the "Share This" widget where personal information is collected in the form of the invite-a-friend feature. This feature is used to send a one time invite to the third party email address you entered through the widget. The personal information entered on this widget is subject to the privacy policy of the "Share This" widget. _Renweb.com shares no responsibility in regards to the personal information entered through the widget._
 
+**PUBLIC FORUMS**   
+Our Web site offers publicly accessible blogs or community forums.  You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.  To request removal of your personal information from our blog or community forum, contact us at [privacy@renweb.com](mailto:privacy@renweb.com).  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
 **LINKS TO OTHER SITES**
 
 Renweb.com maintains a co-branding relationship with Tadley, who runs the RenWebPayments.com section of the site. Some pages of the Renweb.com site will have the look and feel of Renweb.com while the personal information collected on these pages is solely controlled by Tadley's privacy polices. If you have any questions about the data collected on these pages please consult with the appropriate third party vendor managing the data on these pages.
@@ -108,4 +111,4 @@ WilComp Software, L.P.
 101 E. Renfro St. Suite A  
 Burleson, TX USA 76028
 
-This version of the Privacy Policy was last updated on **30-Sep-2010** and replaces all previous versions of our policy.
+This version of the Privacy Policy was last updated on **17-Feb-2012** and replaces all previous versions of our policy.
