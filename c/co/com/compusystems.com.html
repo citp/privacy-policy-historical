@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the compusystems.com privacy policy that was archived on 2011-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111225144359id_/http%3A//compusystems.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the compusystems.com privacy policy that was archived on 2012-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120510144921id_/http%3A//www.compusystems.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -17,6 +17,13 @@
 <script type="text/javascript" src="/js/form.js"></script>
 <script type="text/javascript" src="/js/global.js"></script>
 <script type="text/javascript" src="/js/jquery.tipsy.js"></script>
+<script type="text/javascript">
+function passwordChange(val) {
+	document.login.changePassword.value = val;
+	document.login.submit();
+}
+</script>
+
 
 </head>
 
@@ -35,12 +42,12 @@
 		<li class="last"><a href="/contact.php">Contact</a></li>
 	</ul>
 
-	<form id="login" action="https://www.compusystems.com/servlet/LoginServlet2" method="post">
+	<form id="login" name="login" action="https://www.compusystems.com/servlet/LoginServlet2" method="post">
 		<p id="headLogin"><a href="/" onclick="return false;"><span>Login</span></a></p>
 
 		<div id="memberLogin">
 
-			
+							
 			<fieldset>
 			<label for="login">Username:</label>
 			<input type="text" class="txt" id="user" name="login">
@@ -53,9 +60,9 @@
 			<input type="submit" value="Login">
 			</fieldset>
 		<p id="forgotP"><a title="Please contact your show event services manager for login information" href="/jsp/UserMaint/ForgotPassword.jsp">forgot password?</a></p>
-		</div> <!-- END MEMBER LOGIN -->
-
-	</form>
+				</div> <!-- END MEMBER LOGIN -->
+		<input type="hidden" name="changePassword">
+		</form>
 
 	</div>
 </div> <!-- END HEADER -->
