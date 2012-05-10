@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheryls.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123184019id_/http%3A//www.cheryls.com/webapp/wcs/stores/servlet/ContentDisplay%3Fc%3DPrivacy%26t%3DA%26storeId%3D10202%26catalogId%3D10102) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheryls.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510120458id_/http%3A//www.cheryls.com/webapp/wcs/stores/servlet/ContentDisplay%3Fc%3DPrivacy%26t%3DA%26storeId%3D10202%26catalogId%3D10102%26langId%3D-1) for the most accurate reproduction.*
 
 # Your Privacy - Cheryls
 
