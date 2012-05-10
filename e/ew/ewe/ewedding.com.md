@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ewedding.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117213217id_/http%3A//www.ewedding.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewedding.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510035523id_/http%3A//www.ewedding.com/privacy.php) for the most accurate reproduction.*
 
 # eWedding.com | Privacy Policy
 
@@ -57,10 +57,12 @@ You may opt out of any eWedding.com e-mails containg newly added features, news 
 
 If you have any questions, comments or concerns with the privacy of your information collected by Launchpad Web Development, please contact us with the info at the top of this page.
 
-> As someone who does web design for a living this is by far the perfect solution to not only organizing your wedding for your guest but also sharing your story. 
+> Where do I start? eWedding is the best wedding website. I searched all over and looked at many different wedding websites to decide which one to use and yours was by far the best. The designs are amazing.
 > 
-> Julie & Christopher  
-> Atlanta, Georgia
+> We live in Reston, VA., but we are getting married in Mexico next year and by far the site was so easy to use and most of all being able to communicate with mass numbers of our wedding party members that are coming from many countries. It has been very helpful for our out of towners and such a time-saver on planning their trips to our wedding. I can't thank you enough for this service!
+> 
+> Vanessa & Jean-Luc  
+> Hermosillo, Mexico
 
   
 [Start your free wedding website](https://web.archive.org/setup/signup.php)
