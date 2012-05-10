@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spoonflower.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101105453id_/http%3A//www.spoonflower.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spoonflower.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510215027id_/http%3A//www.spoonflower.com/privacy) for the most accurate reproduction.*
 
 # Spoonflower: Privacy Policy
 
@@ -8,17 +8,29 @@ Spoonflower hopes to evolve into a community of creative, passionate people who 
 
 This Privacy Policy covers Spoonflower’s treatment of personal information that our site gathers when you visit it and use Spoonflower services. This policy does not apply to the practices of third parties that Spoonflower does not own or control, or to individuals that Spoonflower does not employ or manage.
 
+  
+
+
 ## Children Under 18 Years of Age
 
 You must be 13 years and older to register to use the Spoonflower web site. As a result, Spoonflower does not specifically collect information about children. If we learn that Spoonflower has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents’ permission before using Spoonflower or sending information about themselves or anyone else over the Internet.
+
+  
+
 
 ## Information Collected by Spoonflower
 
 We only collect personal information that is relevant to the purpose of our web site, which is to enable creative people to print and share designs for textiles and to share other information and ideas as a community. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from Spoonflower visitors:
 
+  
+
+
 ## 1\. Information You Provide to Us:
 
 We receive and store any information you enter on our web site or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our features.
+
+  
+
 
   * Registration: In order for you to use Spoonflower services, such as uploading designs and ordering fabric, you must complete a registration form. As part of this registration form, we require select personal information (including your full name, city, state and e-mail address).
   * Profile: To allow you to express yourself more creatively, we may enable you to provide additional information, such as a bio, favorite links, and profiles on other sites. In addition, you may choose to include photos of yourself in your profile. As indicated below, in the section titled “Sharing Your Information”, you can control how your information is displayed and used within the Spoonflower web site. 
@@ -36,11 +48,17 @@ We receive and store any information you enter on our web site or provide to us 
 
 Spoonflower may use non-personally-identifiable data about use of the Spoonflower web site and services to improve the quality and design of our web site and services and we may track and analyze user preferences and trends to create new functions, promotions and services for the Spoonflower web site. We may provide non-personally-identifiable, aggregated and statistical data about our users and use of our web site and services to third parties for such purposes as Spoonflower may deem appropriate from time to time. 
 
+  
+
+
 ## E-mail Communications
 
 We will never provide your email address to an unaffiliated third party without your explicit permission, but we may use third party service providers who work on behalf of or with Spoonflower to provide services to you, which third parties may be granted access to your email address and other information in order to provide the services. For example, we use MailChimp, a third-party service, to maintain and administer our beta-tester list. We require that these parties agree to use such information solely for the purposes of providing Spoonflower's services and we use reasonable efforts to limit their use or access to such information. 
 
 Spoonflower may send out e-mails with news, products, offers, surveys or promotions. You may also receive notification e-mails from Spoonflower which inform you of actions (e.g. friend requests) that have been performed on the site. If you do not want to receive e-mail from us, please visit the Email Preferences section of your Profile and/or follow the instructions contained in the unwanted e-mail message. However, please note that in all cases you will continue to receive all system e-mails (e.g. those regarding forgotten user passwords) and legal notices (e.g. updates to our policies) from us.
+
+  
+
 
 ## Cookies
 
@@ -48,11 +66,15 @@ Spoonflower may send out e-mails with news, products, offers, surveys or promoti
   * The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use our Site - and others - as designed.
   * We have no access to, or control over, cookies stored on your computer by third parties.
 
+  
 
 
 ## Sharing Your Information
 
 Because Spoonflower enables people to discover and share designs with one another, information about the people who use Spoonflower is an important part of our community. Rest assured that we neither rent nor sell your personal information to any unaffiliated third parties for marketing purposes and that we will share your personal information only as described below.
+
+  
+
 
   * Spoonflower employees: Spoonflower personnel and authorized consultants and/or contractors may have access to member information in the normal course of Spoonflower business. We require that our employees and consultants or contractors access and use such information only as required to provide the Spoonflower services and do not share such information with unauthorized third parties. 
   * Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, member information is typically one of the business assets that is transferred. Moreover, if Spoonflower, or substantially all of its assets, were acquired, member information would be one of the assets that is transferred.
@@ -64,6 +86,7 @@ Because Spoonflower enables people to discover and share designs with one anothe
   * Syndication: Spoonflower will allow for the RSS syndication of all of its public content within the Spoonflower web site.
   * With Your Consent: Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information.
 
+  
 
 
 ## Keeping Information Secure
@@ -71,6 +94,9 @@ Because Spoonflower enables people to discover and share designs with one anothe
 Your Spoonflower account information is protected by a password for your privacy and security. Protect against unauthorized access to your password and to your computer by logging off once you have finished using a shared computer.
 
 Spoonflower will use reasonable security measures to protect against any unauthorized access to and disclosure of your personally identifiable information. However, please note that we cannot guarantee its absolute security. If you have any questions regarding security on our web site, please contact help@spoonflower.com
+
+  
+
 
 ## Ways to Control Display and Use of Your Information
 
@@ -81,17 +107,24 @@ Spoonflower will use reasonable security measures to protect against any unautho
   * However, please note that you will continue to receive all system e-mails (e.g. those regarding forgotten user passwords) and legal notices (e.g. updates to our policies) from us.
   * If you do not wish to have people who know you by your email address find you via search on our site, please visit the Privacy Settings section of your Profile to opt out of this feature.
 
+  
 
 
 ## Changes to this Privacy Policy
 
 Spoonflower may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by email to the address you provide in your registration or by posting an announcement on the Spoonflower web site so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
 
+  
+
+
 ## Disputes
 
 If you decide to visit Spoonflower, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of North Carolina state law.
 
 Please contact us at help@spoonflower.com or at 919-321-2949 if you have any questions regarding this Privacy Policy
+
+  
+
 
 ## Effective Date of this Privacy Policy
 
