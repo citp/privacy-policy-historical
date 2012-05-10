@@ -1,91 +1,117 @@
-> *The following text is extracted and transformed from the tweetphoto.com privacy policy that was archived on 2010-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100226151405id_/http%3A//tweetphoto.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweetphoto.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510044814id_/http%3A//www.square-enix.com/eu/en/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | TweetPhoto
+# Privacy Policy | SQUARE ENIX
 
-TweetPhoto, Inc. ("TweetPhoto") recognizes that its customers, visitors, users, and others who use [http://tweetphoto.com](http://tweetphoto.com/) or other web sites owned or operated by TweetPhoto (the "TweetPhoto Sites") (collectively or individually "Users") value their privacy. This Privacy Policy details important information regarding the use and disclosure of User information collected on the TweetPhoto Sites. TweetPhoto provides this Privacy Policy to help you make an informed decision about whether to use or continue using the TweetPhoto Sites. 
+## 1\. General
 
-This Privacy Policy is incorporated into and is subject to the TweetPhoto Terms of Service. Your use of the TweetPhoto Sites and any personal information you provide on the TweetPhoto Sites remains subject to the terms of this Privacy Policy and our Terms of Service. 
+**Data protection compliance**
 
-Please note that any photo or other content posted at the direction of Users onto the TweetPhoto Sites becomes published content and is not considered personally identifiable information subject to this Privacy Policy. 
+This Site is controlled by us from our offices in the United Kingdom ("UK"). Personal information collected from the Site is processed in accordance with the Data Protection Act 1998 (the "Act"), which regulates the processing of personal data in the UK. We are registered as a data controller in accordance with the Act and comply with UK data protection and privacy law.
 
-## The Information TweetPhoto Collects
+If you choose to visit the Site from outside the UK, you do so at your own risk, with the understanding that personal information collected from the Site may be collected, stored and used in a country whose privacy laws may be different and less protective than those of your home country.
 
-User Provided Information: You provide certain personally identifiable information (such as your Twitter username and password) to TweetPhoto when choosing to participate in various activities on the TweetPhoto Sites such as uploading photos, viewing photos, posting comments, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists. 
+**The information we collect from you**
 
-Cookies Information: When you visit the TweetPhoto Sites, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. TweetPhoto uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the TweetPhoto Sites may not function properly if the ability to accept cookies is disabled. 
+When you use the Site (such as when registering as a member and/or using our paid-for services), we may ask you to provide us with personal information that identifies you personally (including "personal data" and "sensitive personal data", as defined in the Act). This may include your name, postal address, email address, telephone number, fax number, gender, date of birth, country and/or preferred language. From time to time, you may be asked to submit personal information in order to receive or use services on the Site or for the purposes further described in this Privacy Policy. By entering your details in the fields requested, you enable us to provide you with the services you select.
 
-Log File Information: When you use the TweetPhoto Sites, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser. 
+Whenever you provide such personal information, we will treat that information in accordance with this Privacy Policy.
 
-Clear GIFs Information: When you use the TweetPhoto Sites, we may employ "clear GIFs" (a.k.a. Web Beacons) which are used to track the online usage patterns of our Users anonymously (i.e., in a non-personally-identifiable manner). In addition, we may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients. 
+You may decide to make certain information available for other users of our services to see (for example, in the course of playing an online game). In this context, you should only provide information that you are entirely comfortable with providing, and we strongly recommend that you do not provide any details that could be used to make personal contact with you. We may also collect certain anonymous usage data, such as pages visited and services used within the Site. This information is not personally identifiable information and generally is not aggregated with your personal information. We generally use usage data to improve our services to you and to customise and enhance your experience of the Site.
 
-## The Way TweetPhoto Uses Information 
+**An important note to parents or guardians**
 
-If you submit personally identifiable information to us through the TweetPhoto Sites, then we use your personal information to operate, maintain, and provide to you the features and functionality of the TweetPhoto Sites. 
+We encourage parents or guardians to take an active interest in their children's use of the internet and the Site. Parents or guardians should be aware that there are software tools available online that screens objectionable content and allows you to prevent children from disclosing their personal information without your permission.
 
-Any personal information or content that you voluntarily disclose online (in photos, in comments, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your Twitter account name (not your email address) is displayed to other Users when you upload photos or send messages through the TweetPhoto Sites and other Users can contact you through messages and comments. Any photos that you submit to the TweetPhoto Sites may be redistributed through the internet and other media channels, and may be viewed by the general public. 
+We will not intentionally collect any personal information from children under the age of 12. Children under the age of 12 can participate in all activities on the Site that do not require submission of personal information. They may view, but may not under any circumstances participate in activities that require submission of personal information, such as message boards, contests or sweepstakes.
 
-We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major TweetPhoto Site changes or for customer service purposes). 
+In addition we take particular care when processing the personal information of children over the age of 12 to ensure that such information is processed in accordance with the Act.
 
-We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the TweetPhoto Sites and to create new features, promotions, functionality, and services by storing, tracking, and analyzing User preferences and trends. 
+**How we use personal information**
 
-We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the TweetPhoto Sites; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests. 
+We may use personal information collected from the Site to enable your efficient use of the services on the Site, as well as for marketing, promotions, research, analysis, product service and development. We may occasionally use your personal information to contact you by telephone, fax, email, SMS or otherwise in writing to inform you about our products.
 
-## When TweetPhoto Discloses Information 
+We will not use your personal information for marketing or promotional purposes without having first obtained your consent to do so. In any further marketing or promotional communications we send to you, we will give you the opportunity to withdraw your consent to receiving such communications in the future.
 
-We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures. 
+We may also use your personal information for the purposes of:
 
-We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. 
+  * processing and administering your registration as a member and/or use of paid-for services;
+  * performing any contracts concluded between you and us (including our Terms of Use);
+  * running competitions and other promotional events;
+  * conducting surveys as to quality of services via the Site;
+  * miscellaneous customer service correspondence (such as notifying you of changes to our services);
+  * processing details of your personal interests and preferences submitted to us via the Site; and processing details of your visits to the Site (including traffic data, location data and other communication data) and your online activity on the Site (including information on your game usage, such as your scores and rankings).
 
-We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the TweetPhoto Sites. 
 
-We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant. 
 
-TweetPhoto also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that TweetPhoto believes, in good faith, is appropriate or necessary to enforce our Terms of Service, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of TweetPhoto, our Users or others. 
+We reserve the right to monitor your account and records to check any complaint or allegation of abuse, infringement of third-party rights or any other unauthorised use of the Site. 
 
-## Your Choices 
+**Disclosure of your personal information**
 
-You may, of course, decline to submit personally identifiable information through the TweetPhoto Sites, in which case TweetPhoto may not be able to provide certain services to you. You may update or correct your personal profile information and email preferences at any time by visiting your account profile page. Please note that media files uploaded by Users to the TweetPhoto Sites cannot be removed and remain subject to our Terms of Service. 
+We may disclose your personal information to any member of our group of companies, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006 (whether based within or outside the European Economic Area). 
 
-To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times. 
+We may disclose your personal information to third parties where:
 
-Please contact TweetPhoto with any questions or comments about this Privacy Policy, your personal information, your consent, or your opt-in or opt-out choices. 
+  * they provide products or services to us in connection with your use of the Site;
+  * we sell or buy any business or assets, in which case we may disclose your personal information to the prospective seller or buyer of such business or assets;
+  * our company or substantially all of our assets are to be acquired by a third party, in which case we may disclose your personal information the prospective acquirer and personal data held by us about users of the Site will be one of the transferred assets; and/or
+  * we reasonably believe that we need to disclose your personal information to other person(s) (a) by order of any court or governmental or regulatory body of competent authority, (b) to comply with any legal obligation, (c) to enforce or apply our Terms of Use or other contracts and/or (d) to protect our, our customers' or any other third parties' rights, property or safety (including exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction).
 
-## Third-party Advertisers, Links to Other Sites 
 
-TweetPhoto allows other companies, called third-party ad servers or ad networks, to serve advertisements within the TweetPhoto Sites. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the TweetPhoto Sites. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see. 
 
-TweetPhoto does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks TweetPhoto to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. The advertiser may also use information regarding your use of the TweetPhoto Sites, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you. 
+We may also process your personal information to anonymise and aggregate it with other data and to disclose such anonymous and aggregate data to our affiliates and/or business partners. 
 
-You should consult the respective privacy policies of these third-party ad servers or ad networks (see links below) for more information on their practices and for instructions on how to opt-out of certain practices. TweetPhoto's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+Except as required or allowed by law or as set out in this Privacy Policy, we will not disclose or dispose of your personal information to any third party without your permission.
 
-## Our Commitment To Data Security 
+**Tracking technology and IP addresses**
 
-TweetPhoto uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to TweetPhoto and you do so at your own risk. Once we receive your transmission of information, TweetPhoto makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. 
+We may collect and process information about your computer, including (where available) your IP address, operating system and browser type, for system administration. This comprises statistical data about our users' browsing actions and patterns, and does not identify any individual.
 
-If TweetPhoto learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. TweetPhoto may post a notice on the TweetPhoto Sites if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us. 
+We may, however, link IP addresses to personal data (such as a user's country) and/or non-personal data (such as a user's access location or usage record) in order to enforce our Terms of Use or other user contracts, and we may block certain IP addresses from accessing all or any part of the Site in the event of a user abuse. In particular, our Japanese affiliate may use automated tracking tools to prevent or stop users from engaging in fraudulent activities or unauthorised uses of the Site (such as unauthorised commercial use of items obtained via game play).
 
-## Our Commitment To Children's Privacy 
+**Cookie technology**
 
-Protecting the privacy of young children is especially important. For that reason, TweetPhoto does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the TweetPhoto Sites from persons under 13 years of age, and no part of our website is directed to persons under 13. If you are under 13 years of age, then please do not use or access the TweetPhoto Sites at any time or in any manner. If TweetPhoto learns that personally identifiable information of persons less than 13 years of age has been collected on the TweetPhoto Sites without verified parental consent, then TweetPhoto will take the appropriate steps to delete this information. 
+A "cookie" is a small text file deposited on your computer's hard drive when you access a website. We may use cookies to monitor your use of the Site and to customise your experience of it.For example, information you submit to us (such as a password) may be stored in a cookie so that you do not have to re-submit the information to us each time you revisit the Site.
 
-## Special Note to International Users 
+Cookies do not in themselves identify individual users of the Site and do not provide us with access to the rest of your computer. If you object to the use of cookies on the Site, most internet browsers can be reconfigured to alert you to their use or to enable you to reject their use. To learn how to do this, we recommend that you consult the "Help" function of your internet browser. If, however, you decide to disable any cookies, you may not be able to use certain services on the Site.
 
-The TweetPhoto Sites are hosted in the United States and are intended for and directed to Users in the United States. If you are a User accessing the TweetPhoto Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the TweetPhoto Sites, which are governed by U.S. law, this Privacy Policy, and our Terms of Service, you are transferring your personal information to the United States and you consent to that transfer. 
+Please note that our business partners or other websites that may be accessible via the Site may also use cookies, over which we have no control.
 
-## In the Event of Merger, Sale, or Bankruptcy
+**Where we store your personal information**
 
-In the event that TweetPhoto is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used. 
+All information you provide to us is stored on secure servers hosted by us or third parties providing hosting, payment or other services for us.
 
-## Changes and updates to this Privacy Policy 
+The information we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"), including any destination where the privacy laws of the country concerned may be different and less protective than those of EEA countries. It may also be processed by personnel operating outside the EEA who work for us or for one of our suppliers. Such personnel may be engaged in, among other things, the processing of your payment details (where applicable) and the provision of support services.
 
-This Privacy Policy may be revised periodically and this will be reflected by the "effective date" below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Policy in effect when we received the personal information you provided. Your continued use of the TweetPhoto Sites constitutes your agreement to this Privacy Policy and any future revisions. 
+By submitting your personal information, you agree to this transfer, storing and processing.
 
-For revisions to this Privacy Policy that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information. 
+**Information security**
 
-## Date Last Modified:
+We take every reasonable precaution to protect against the loss, misuse or alteration of your personal information and to ensure that it will be processed in accordance with this Privacy Policy. Any payment transactions will be encrypted. Where we have given you (or you have chosen) an account password that enables you to access certain parts of the Site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
-This Privacy Policy was last modified June 10, 2009. 
+Unfortunately, the transmission of information via the internet is not completely secure. You acknowledge and accept that others may intercept the personal information you provide to us, and that any such transmission is at your own risk. Once we have received your information, we use strict procedures and security features to try to prevent unauthorised access.
 
-## Contact Information:
+One easy and important way to protect your personal information is to keep your account password confidential and to close your browser when you are away from your computer. You can check and edit the personal information we hold about you at any time via the Site or by contacting us by email or post (details [below]()).
 
-Please contact TweetPhoto with any questions or comments about this Privacy Policy. 
+**Other websites**
+
+The Site may contain links to other websites. We are not responsible and accept no liability for the privacy practices or content of such websites. 
+
+**Opting out**
+
+If, at any time, you wish us to stop using your personal information or to correct any factual inaccuracies, just contact us by email or post (details [below]()). Be sure to state "opt-out" in the subject line, and to include your full name, registered user ID (if any) and email address in the message. 
+
+**Access to your information**
+
+If you would like a copy of the personal information that we hold about you, we are entitled to charge you £10 (plus VAT) for providing you with this. Just contact us by email or post (details [below]()).
+
+Be sure to state "Copy personal information" in the subject line, and to include your full name, registered user ID (if any) and email address in the message. If requested, we will use reasonable efforts to supply, correct or delete information about you on our files.
+
+**How to contact us**
+
+If you have any questions on this Privacy Policy or our use of your personal information, you can email us at [eu.privacypolicy@square-enix.com](https://web.archive.org/web/20120510044814id_/http://www.square-enix.com/eu/en/privacy/eu.privacypolicy@square-enix.com) or write to us at Square Enix Limited, Wimbledon Bridge House, 1 Hartfield Road, London SW19 3RU marking any correspondence for the attention of the Legal and Business Affairs Department. 
+
+**Changes to this Privacy Policy**
+
+We may at any time update or otherwise modify this Privacy Policy. We will notify you of any changes to our Privacy Policy by posting the modified Privacy Policy on the Site. You are encouraged to check the terms of our Privacy Policy whenever you visit the Site.
+
+Last modified: 20 September 2010
