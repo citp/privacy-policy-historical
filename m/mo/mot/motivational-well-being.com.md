@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the motivational-well-being.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215033929id_/http%3A//www.motivational-well-being.com/legal.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motivational-well-being.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511004621id_/http%3A//www.motivational-well-being.com/legal.html) for the most accurate reproduction.*
 
 # Legal Disclaimer | Privacy Policy
 
-**Legal Disclaimer, Privacy Policy**
+**Legal Disclaimer, Rights, Privacy Policy, Affiliate Disclosure**
 
-Legal  
+ **Legal**  
 
 
 This web site, www.motivational-well-being.com, is intended to provide educational information on topics related to personal development and motivation. The publisher is not engaged in rendering legal, medical, financial, or other professional services. If expert assistance is required, please seek the services of a competent professional.
@@ -14,7 +14,14 @@ The publisher has endeavored to make the material on this site accurate. The inf
 THE INFORMATION ON THIS SITE IS PROVIDED "AS-IS". THE AUTHOR(S) AND THE PUBLISHER WILL ASSUME NO LIABILITY NOR RESPONSIBILITY TO ANY PERSON OR ENTITY WITH RESPECT TO ANY LOSS OR DAMAGE RELATED DIRECTLY OR INDIRECTLY TO THE INFORMATION ON THIS SITE. NO WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE. THE PUBLISHER WILL PROVIDE NO REMEDY FOR INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES ARISING FROM THIS SITE, INCLUDING SUCH FROM NEGLIGENCE, STRICT LIABILITY, OR BREACH OF WARRANTY OR CONTRACT, EVEN AFTER NOTICE OF THE POSSIBILITY OF SUCH DAMAGES.  
 
 
-Privacy Policy
+**Ownership of User Submitted Content**  
+
+
+By submitting content to this website, you give the owner of this website the rights and permission to use your content as he pleases; this includes using the content in published works for profit such as ebooks, magazines, physical books, and so on.  
+
+
+ **Privacy Policy**  
+
 
 This website uses third-party advertising companies to serve ads when visiting this site. These third parties may collect and use information (but not your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, you can visit [Google's Advertising and Privacy page](http://www.google.com/privacy_ads.html).
 
@@ -46,13 +53,16 @@ Advertisers
 
 I use outside ad companies to display ads on this site. These ads may contain cookies and are collected by the advertising companies and I do not have access to this information. The following are some of the advertising companies I use: Google Adsense, Allposters, Shareasale, Amazon, and CJ.com. Please check the advertisers websites for respective privacy policies.
 
-Affiliate
+ **Affiliate Disclosure**  
+
 
 The products that are recommended on this site are through affiliate programs which means I get paid a commission if a visitor buys the product(s) using my link. 
 
+I'm also a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
+
 Contact Information
 
-If you have any questions or concerns please contact me on the contacts page. This privacy policy was updated in February 2011.
+If you have any questions or concerns please contact me on the contacts page. This privacy policy was updated in April 2012.
 
   
 
