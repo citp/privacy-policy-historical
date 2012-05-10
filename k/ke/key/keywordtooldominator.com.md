@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keywordtooldominator.com privacy policy that was archived on 2011-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110821070513id_/http%3A//www.keywordtooldominator.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keywordtooldominator.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510174444id_/http%3A//keywordtooldominator.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Keyword Tool Dominator
 
@@ -8,7 +8,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 2\. The Information We Collect
 
-We collect visitor tracking statistics using Google Analytics. If you buy the Keyword Tool Dominator, we only store the information related to the purchase transaction made through Paypal.
+We collect visitor tracking statistics using Google Analytics.
 
 3\. Our Commitment to Data Security
 
