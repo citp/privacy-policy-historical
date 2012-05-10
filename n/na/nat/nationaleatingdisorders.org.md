@@ -1,64 +1,61 @@
-> *The following text is extracted and transformed from the nationaleatingdisorders.org privacy policy that was archived on 2008-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080305204440id_/http%3A//www.nationaleatingdisorders.org/p.asp%3FWebPage_ID%3D696) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationaleatingdisorders.org privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510180507id_/http%3A//www.nationaleatingdisorders.org/about-us/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# National Eating Disorders Association
 
-* * *
+The National Eating Disorders Association (NEDA), a 501(c)3 non-profit organization, respects your privacy and is committed to protecting it through adherence to this Privacy Policy. NEDA provides help and support about eating disorders to those who struggle with the illness, their families and friends, healthcare professionals and others interested in the issue. This Privacy Policy applies to the NationalEatingDisorders.org Website (the “Website”) and provides information about the personal information that NEDA collects from that website, and the ways in which NEDA uses that personal information. It does not describe our practices with respect to information we might collect on or through other National Eating Disorders Association Websites, offline, or through other means.
 
-* * *
+## What information we collect
 
-The National Eating Disorders Association wants you to be aware of how personal information about you may be used when you visit our web site. 
+You can browse content on the Website without revealing any personal information.
 
-We respect your privacy. We want you to know how much control you have over your personal information when you use our site. 
+From time to time we may provide the opportunity to participate in a survey on the Website, or request or allow you to submit content that may be uploaded to the Website. In doing so, we may ask you for certain information such as your age, gender, race, ethnicity, and your opinions of the website. Participation will be voluntary and, if indicated, anonymous. If anonymous, it will not be linked to any personal information.
 
-We also want you to know that your personal information sometimes goes outside your control or our control. 
+Typically, if we provide for the opportunity to make online donations to NEDA, make purchases from NEDA, or participate in auctions or events sponsored by or for the benefit of NEDA, we will do so by providing you with a link through to a secure website (which may be a third party’s website) for the purposes of processing electronic transactions. The types of personal information that would be collected are disclosed prior to or at the time of submission. Please read the privacy policy(ies) and/or data collection practices of any third party site that processes electronic transactions on NEDA’s behalf. We take no responsibility for the security and/or data collection practices of third parties.
 
-We hope you will take time to educate yourself about how your personal information is used when you visit here. 
+Non-personal information and data may be automatically collected by on the Website through the use of "Cookies." "Cookies" are files a website can use to track, on a non-personally identifiable basis, repeat visitors, facilitate the visitor's access to and use of the site, and allow a site to analyze how visitors are using the site in order to make improvements to the content. By agreeing to this Privacy Policy, you are consenting to our use of Cookies. However, if you don’t want information collected through the use of Cookies, you may delete, disable, turn off or reject the Cookies through the “Internet Options” sub-option of the “Tools” menu on your browser (or as otherwise directed by your browser technology). From time to time certain areas or content of the Website can only be accessed in conjunction with Cookies and you should be aware that disabling Cookies might prevent you from accessing some of our content.
 
-**Giving Your Personal Information**
+## What we do with your information
 
-You give us your personal information in several ways. For example: 
+NEDA does not sell, trade or rent your personal information to other companies or individuals. NEDA may use information collected through its services and the Website for research and development purposes. However, such use will not include any personally identifiable information in such research or analysis. We only use your information for its intended purposes. We will use members’ email addresses to respond to requests and to send updates about new content on the Website and special events organized by NEDA. We may also directly communicate with you concerning non-anonymous surveys or submission of content. Information collected from the Website will be stored as long as NEDA deems reasonably necessary and practicable for the purposes of NEDA, or to otherwise meet legal requirements.
 
-  * If you join the National Eating Disorders Association, you tell us your name, details about where you live and how to contact you, and other personal information. You also give us information about your credit card or checking account. 
-  * The same is true if you become a Professional Member of the Association to participate in our referrals program. In addition, Professional Members give us information about their credentials. 
-  * If you donate to the National Eating Disorders Association, you send us the same kind of personal information as someone who joins. 
-  * If you order learning or teaching materials on this site from the National Eating Disorders Association, you furnish us with your contact and credit card or checking account information. 
-  * If you participate in our Ask the Expert Program, you may voluntarily tell us information about you and your personal life. 
-  * If you participate in our Information and Referral Program, you may voluntarily tell our helpline staff or volunteers personal information about you. 
-  * When you visit this site, our computer system automatically receives information from your computer that may sometimes identify you or transmit information about you. 
-  * When you use one of the links on the National Eating Disorders Association site to visit another site that we do not operate, information about you or about your computer may be given automatically to the new site. 
-  * If you order learning or teaching materials from one of these other sites, you may furnish the operator of that other site with your contact and credit card or checking account information. 
-  * There may be other ways that your use of this site may give us your personal information. For example, you give us your personal information when you use this site to register for one of our meetings or conferences, or when you give us feedback. 
+Your personal information will only be accessible to authorized NEDA staff, consultants, agents, subcontractors and professional advisors, all of whom are contractually bound to honor the terms of this Privacy Policy. **You acknowledge, consent, and agree that to the extent legally permissible in each applicable jurisdiction we may access, preserve, and/or disclose the information we collect (including personal information) to a law enforcement agency or another third party if required to do so by law or if we determine access, preservation or disclosure is reasonably necessary to: (a) comply with legal process; (b) respond to claims that any content that you submit violates the rights of third parties; or (c) protect the safety, rights, or property of our visitors (including you) or others.**
 
+## Accessing & Correcting Information
 
+You have the right to access, update, request removal of, and correct factual inaccuracies in personally identifiable information that we collect at the Website, subject to the provisions in the preceding Section. To do so, you may e-mail us at info@nationaleatingdisorders.org. To protect your privacy and the security of your personally identifiable information, we will take reasonable steps to verify your identity before updating, correcting or removing your personally identifiable information.
 
-**Our Use of Your Personal Information**
+## Children’s Privacy
 
-We use reasonable means to protect your personal information. We have internal procedures that regulate how our staff and volunteers may access and use your personal information. We also take reasonable precautions to protect our computer systems from hackers or others who may seek unauthorized access. However, no computer system can be completely secure, so there is some risk that someone could gain unauthorized access, or make unauthorized use, of the personal information on our computer system. 
+NEDA complies with the Children’s Online Privacy Protection Act (COPPA) and does not knowingly collect personal information from anyone under the age of 13. If we learn that we have any information or content from anyone under the age of 13, we will delete that information immediately.
+
+## Security
+
+We take security seriously and we will take reasonable technical and organizational precautions to prevent the loss, misuse or alteration of your personal information. NEDA will store all the personal information you provide on its secure servers. Information relating to electronic transactions entered into via this Website will be protected by encryption technology. However, there is no such thing as a Website that is 100% secure. The National Eating Disorders Association cannot, and does not, guarantee that unauthorized access, hacking, data loss, disclosure, misuse, modification or any other breaches will not occur.
+
+## Links to Outside Sites
+
+The Website contains links to other Websites and services that are not maintained by NEDA. These sites have their own privacy policies and/or data collection practices concerning personal or donor information which may be substantially different from ours. We encourage all donors and/or users to learn about the privacy policies and practices of all websites and charities. We take no responsibility for linked sites.
+
+## Changes to this Privacy Policy
+
+From time to time we may decide, or be required by law, to make changes to this Privacy Policy. If we make any material changes to this policy that may impact how we use personal information we have already obtained, we will update this Privacy Policy by posting a revised Privacy Policy, and, as necessary, notify you as required by law. You are encouraged to return to this page periodically to check for updates.
+
+## Contacting Us
+
+If at any time you would like to correct your information or discontinue receiving emails or mail from NEDA, or if you have any questions, comments or concerns about the Website or our Privacy Policy, please send an email to [info@nationaleatingdisorders.org](mailto:info@nationaleatingdisorders.org) or contact us at:
+
+**National Eating Disorders Association  
+165 West 46th Street, #402  
+New York, NY 10036
+
+(212) 575-6200
+
+**
+
+## U.S. Governing Law
+
+The Website is designed and targeted to users who reside in the United States and is governed by and operated in accordance with the laws of the United States. We make no representation that the Website is operated in accordance with the laws or regulations of, or governed by, other nations. By accessing and/or providing personal information through the Website, you certify that you meet the age and other requirements for disclosure of personal information in your jurisdiction. If you do not meet the age and other requirements, please contact us and request that we delete your personal information, and discontinue disclosing personal information through the Website. Continued use of the Website and/or disclosure of personally identifiable information indicate that you are agreeing to the collection, use, disclosure, management and storage of your personal and non-personal information as described in this Privacy Policy.
+
+_This Privacy Policy was last updated on December 30, 2011._
 
 | 
-
-We hire people who are not on our staff, and outside firms, to help us with our web site. Those people and firms are obligated to treat all personal information on our web site in confidence. 
-
-The National Eating Disorders Association offers you the opportunity to participate in various programs on this site. You may also chose to be on a list to receive information from us, or to be contacted by us. For example, you may want to receive newsletters or surveys from us. In each case, you must make the choice to participate. This choice is called "opting in." 
-
-At any time, you may decide to stop participating in an activity. You may also at any time decide you no longer want to be on a particular list, or on all the lists, on this site. If you notify us in writing of this choice by clicking [here](mailto:info@nationaleatingdisorders.org) or by U.S. mail, we will make reasonable efforts to remove you promptly. Usually we can remove you within 10 business days. 
-
-Even if we remove your personal information from all our computer systems, your personal information may still be somewhere on our computer system. For example, it may be on a backup system. It may also be in our old computer or paper records, called "archives." However, your personal information will not be on the parts of the computer system that we use actively, day by day, to run the National Eating Disorders Association. 
-
-The National Eating Disorders Association does not use any "cookies." Cookies are computer codes that some sites use to get back information from the user's computer. A Cookie on the user's computer sends information back to the site about how the users acts or uses the site. The National Eating Disorders Association does not do this. 
-
-We may change our privacy policy from time to time. We suggest that you look at our privacy policy from time to time to keep yourself informed about how we use your personal information. 
-
-**Use of Your Personal Information by Others**
-
-You may use links on our web site to leave the National Eating Disorders Association's site and go to other web sites. The National Eating Disorders Association does not control or monitor any of these other sites. 
-
-By using a link, you will make a computer connection to the new site. Some personal information from your computer will go automatically to the new site when the connection is made. You also may decide to give the new site additional personal information. The National Eating Disorders Association does not know what the new site will do with any of the personal information that you give to the new site. We cannot control what they do. It is important for you to learn about the privacy policy of each new site before you give the site any personal information. 
-
-**Parents and Children**
-
-The National Eating Disorders Association web site is directed to adults and to children 13 and older. We suggest that children under 13 use this site only with the active supervision of a parent or another adult who is responsible for the child. 
-
-**Questions or Complaints**
-
-If you have questions about how we handle your personal information, or complaints, please contact us at 1-206-382-3587 and ask to speak to our Administrative Assistant. 
