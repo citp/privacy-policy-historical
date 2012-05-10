@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomla51.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211341id_/http%3A//www.joomla51.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomla51.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510213900id_/http%3A//www.joomla51.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Joomla Templates - New breed of Professional Template Design
 
