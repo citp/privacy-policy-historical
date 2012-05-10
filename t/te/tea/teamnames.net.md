@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the teamnames.net privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108041846id_/http%3A//www.teamnames.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamnames.net privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510102652id_/http%3A//www.teamnames.net/privacy-policy) for the most accurate reproduction.*
 
 # TeamNames.net Privacy Policy
 
-Your access and usage of TeamNames.net ("we", "us", or "the website") is subject to the following privacy policy, [Terms & Conditions of Use](https://web.archive.org/terms-and-conditions "Read the website Terms & Conditions") and all other applicable laws.
+Your access and usage of TeamNames.net ("we", "us", or "the website") is subject to the following privacy policy, [Terms & Conditions of Use](http://www.teamnames.net/terms-and-conditions "Read the website Terms & Conditions") and all other applicable laws.
 
 ## Data Collection & the Use of Cookies
 
@@ -12,12 +12,12 @@ By registering and creating an account with the website, you permit the storage 
 
 ## Third Parties
 
-On occasion, we may collaborate with third parties in order to complete tasks such as, but not limited to, updating the website, executing campaigns, and improving the website service. We will never share any personal information about yourself with any third party unless required by legal or regulatory obligation. The website adheres to the Data Protection Act accordingly, and if at any point you wish to gain access to any information that we store about yourself, then you may do so by completing the form on our [contact](https://web.archive.org/contact) page.
+On occasion, we may collaborate with third parties in order to complete tasks such as, but not limited to, updating the website, executing campaigns, and improving the website service. We will never share any personal information about yourself with any third party unless required by legal or regulatory obligation. The website adheres to the Data Protection Act accordingly, and if at any point you wish to gain access to any information that we store about yourself, then you may do so by completing the form on our [contact](http://www.teamnames.net/contact) page.
 
 ## Opt-Out From Further Messages or Communications
 
-If you have previously opted-in to receive further communications from us, then you can opt-out of such messages by logging into your account and un-subscribing from the service. Should you experience any issues with un-subscribing then you can [contact us](https://web.archive.org/contact).
+If you have previously opted-in to receive further communications from us, then you can opt-out of such messages by logging into your account and un-subscribing from the service. Should you experience any issues with un-subscribing then you can [contact us](http://www.teamnames.net/contact).
 
-## Website Advertisments
+## Website Advertisements
 
 We use Google as a third party vendor for serving advertisements, which may rely upon cookies to function. Google use the DART cookie to enable itself, and its partners to serve adverts based upon users' visits to this and/or other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
