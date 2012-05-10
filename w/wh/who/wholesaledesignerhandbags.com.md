@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholesaledesignerhandbags.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123234804id_/http%3A//www.wholesaledesignerhandbags.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesaledesignerhandbags.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510032702id_/http%3A//www.wholesaledesignerhandbags.com/privacy.htm) for the most accurate reproduction.*
 
 # WholesaleDesignerHandbags.com's Privacy Policy
 
@@ -14,7 +14,7 @@
 ---|---  
 | 2. | 
 
-**Terms of use** : Your use of this website is governed by our [terms of use](https://web.archive.org/web/20111123234804id_/http%3A//www.wholesaledesignerhandbags.com/terms.htm "terms of use"). Accordingly, this privacy policy must be read in conjunction with our [terms of use](https://web.archive.org/web/20111123234804id_/http%3A//www.wholesaledesignerhandbags.com/terms.htm "terms of use").  
+**Terms of use** : Your use of this website is governed by our [terms of use](https://web.archive.org/web/20120510032702id_/http%3A//www.wholesaledesignerhandbags.com/terms.htm "terms of use"). Accordingly, this privacy policy must be read in conjunction with our [terms of use](https://web.archive.org/web/20120510032702id_/http%3A//www.wholesaledesignerhandbags.com/terms.htm "terms of use").  
   
 ---|---  
 | 3. | 
@@ -162,7 +162,7 @@ as otherwise required or permitted by law.
 ---|---  
 | 11. | 
 
-**Right to access and request correction** : It is important to us that the personal information we hold about you is accurate, complete and up to date. If you are aware that this is not case and would like your personal information corrected, or simply desire access to your personal information, please [contact us](https://web.archive.org/web/20111123234804id_/http%3A//www.wholesaledesignerhandbags.com/contact.php "contact us"). You may request access to your personal information that we (or our contractors) hold. Where you make any such request:  
+**Right to access and request correction** : It is important to us that the personal information we hold about you is accurate, complete and up to date. If you are aware that this is not case and would like your personal information corrected, or simply desire access to your personal information, please [contact us](https://web.archive.org/web/20120510032702id_/http%3A//www.wholesaledesignerhandbags.com/contact.php "contact us"). You may request access to your personal information that we (or our contractors) hold. Where you make any such request:  
   
 ---|---  
   |  | a. |   | 
@@ -195,11 +195,10 @@ where we provide the requested information or carry out the requested correction
   
 WholesaleDesignerHandbags.com is not an authorized dealer or agent of Prada®, Fendi®, Dior®, Gucci®, Chanel®, Marc Jacobs®, Coach®, Tod's®, Balenciaga®, or Louis Vuitton®. Also, WholesaleDesignerHandbags.com is in no way affiliated with Prada®, Fendi®, Dior®, Gucci®, Chanel®, Marc Jacobs®, Coach®, Tod's®, Balenciaga®, or Louis Vuitton® and these brands are the registered trademarks of their respective companies. All references to Prada®, Fendi®, Dior®, Gucci®, Chanel®, Marc Jacobs®, Coach®, Tod's®, Balenciaga®, or Louis Vuitton® are for identification purposes only.  
   
-## Wholesale Handbags Online | Designer Handbag Wholesalers | Authentic Designer Handbags | Wholesale Handbags Distributors & Suppliers | Buy Wholesale Bags | Designer Purses | Designer Handbags Gucci, Fendi  
-  
+   
 | WholesaleDesignerHandbags.com  
 2602 Portland Ave   
-Minneapolis, MN 55407 |   | Directory Contents & Website Contents Copyright 2001-2010 WholesaleDesignerHandbags.com.  
+Minneapolis, MN 55407 |   | Directory Contents & Website Contents Copyright 2003-2012 WholesaleDesignerHandbags.com.  
 All rights reserved. No part of this Website may be distributed or reproduced  
 without express written consent of the Author. |   |   
 ---|---|---|---|---  
