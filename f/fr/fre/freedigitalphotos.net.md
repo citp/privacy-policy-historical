@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedigitalphotos.net privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205103541id_/http%3A//www.freedigitalphotos.net/images/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedigitalphotos.net privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510171240id_/http%3A//www.freedigitalphotos.net/images/privacy-policy.php) for the most accurate reproduction.*
 
 # FreeDigitalPhotos.net Privacy Policy
 
@@ -32,24 +32,29 @@ If you choose to register with FreeDigitalPhotos.net, we collect the following p
 
 This information is used solely to enable you to sign in to FreeDigitalPhotos.net and access member-only features.
 
-### Photographer applications
+### Contributor applications
 
-If you apply to become a FreeDigitalPhotos.net contributing photographer we collect the following information:
+If you apply to become a FreeDigitalPhotos.net Contributor we collect the following information:
 
   * name
   * email address
   * telephone number
   * address
+  * PayPal ID
 
 
 
-This information is required for us to do business with you. If your application is successful this information is only used should we need to contact you in relation to your photographs on the site. If your application is rejected your personal information is permanently deleted.
+This information is required for us to do business with you. If your application is successful this information is only used should we need to contact you in relation to your images on the site. If your application is rejected your personal information is permanently deleted.
 
-We send our photographers a regular email newsletter. As this includes important information about site operation, we do not include an unsubscribe option for this newsletter.
+We may send our Contributors an email newsletter. As this includes important information about site operation, we do not include an unsubscribe option for this newsletter.
 
 ## Security
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+### Customer details
+
+If you purchase images from us, we use trusted secure payment processors to take payment on our behalf. We do not store credit card details nor do we share customer details with any 3rd parties.
 
 ### How we use cookies
 
