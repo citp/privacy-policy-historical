@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cme.com privacy policy that was archived on 2011-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102065449id_/http%3A//www.cmegroup.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cme.com privacy policy that was archived on 2012-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120510161756id_/http%3A//www.cmegroup.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
@@ -26,7 +26,7 @@
 
 
 <!-- scripts -->
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/javascript/jquery.js"></script>
+	<script id="elicit-js" async="" src="https://cmegroup.elicitapp.com/js.ashx?f=elicit.tag.web.learning.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/javascript/jquery.js"></script>
 	<script type="text/javascript" src="/javascript/jquery-ui.js"></script>
 	<script type="text/javascript" src="/javascript/topnav.js"></script>
 	<script type="text/javascript" src="/javascript/cmeUtil.js"></script>
@@ -71,6 +71,141 @@
 <div id="Container">
 <!--BEGIN CONTAINER-->
 
+<script type="text/javascript">
+
+function restyleformobile(){
+		$j('body').append('<meta name="viewport" content="width=device-width,minimum-scale=1.0, maximum-scale=1.0" />');
+ 		$j('body').append('<style type="text/css">#article_keywords_right,#content_margin,#plusone{display:none;} 			#TopHeader,#footer{display:none;width:100%;padding:0px;margin:0px;} 			.centeredBodyFullWidth{background:#ffffff;font-size:14px;} 			#content_main,#content_main div,#CenterColumn1,.centeredBody2,.centeredBody1{width:100%;font-size:14px;} 			#CenterColumn1 div,.centeredBody2 div,.centeredBody1 div,#tab-container_sm,#tab-container_sm div{width:100%;font-size:14px;} 			#RightColumn1,.news_button_on,.news_button_off,#contractCDs{display:none !important;} 			*body{font-size:14px;} 			body{padding:0px;width:100%;} 			#Container{margin:0px;} 			.header_main{display:table;background:-webkit-gradient(linear,left bottom ,left top,from(#C5E5F2),to(#ffffff));background:-moz-linear-gradient(top, #ffffff, #C5E5F2);width:100%;padding:8px 0px 8px 0px;} 			 			/*FOOTER*/ 			.footerText{font-size:10px;} 			.footer_main{display:table;background:-webkit-gradient(linear,left top ,left bottom,from(#C5E5F2),to(#ffffff));background:-moz-linear-gradient(bottom, #ffffff, #C5E5F2);width:100%;padding:10px 0px 10px 0px;} 			.TwitterIcon{background:url("/images/sprites.gif") no-repeat 0px -330px;width:14px;height:14px;border:0px;} 			.FacebookIcon{background:url("/images/sprites.gif") no-repeat 0px -360px;width:14px;height:14px;border:0px;} 			.LinkedInIcon{background:url("/images/sprites.gif") no-repeat 0px -390px;width:14px;height:14px;border:0px;} 			 			.boldt{font-weight:bold;} 			.p0{border-bottom:1px solid #ccc;} 			.p1{border-bottom:1px solid #ccc;} 			.tr_full{display:block;width:480px;} 			.td_2third{display:block;width:66%;} 			.td_half{display:block;width:49%;} 			.td_third{display:block;width:33%;} 			.td_3quart{display:block;width:74%;} 			.td_quart{display:block;width:24%;} 			.floatleft{float:left;} 			.floatright{float:right;} 			.paddingtop10{padding-top:10px;} 			.nowrapping{} 		  #table_{overflow-x:scroll !important;width:100% !important;display:block !important;} .ProductTable{width:720px !important;} .ProductTable td{padding:0px !important;} #fancy_overlay,#fancy_loading,#fancy_outer,#fancy_title,#shim,#cme_print_logo{display:none !important;}	#oo_tab,.oo_tab_right,.breadcrumb,#user_center{display:none !important;} 			p,#UpdateSection table,#content_sidebar,#tabTables table{clear:both !important;width:99% !important;} #content div{width:100% !important;} </style>');
+		
+		
+		var EWR12 = new ExecuteWhenReady({
+			Execute : function(){
+				$j('#oo_tab').hide();
+			},
+			When : function(){
+				return ( $j('#oo_tab').length > 0 );
+			},
+			onfailure: function(){
+				//alert('failed-1');
+			},
+			CheckEvery : 10,	
+			NumofAttempts : 10000	
+		});
+
+		$j.ajax({
+			type: "GET",
+			url: "/m/header.html",
+			dataType: 'xhtml',
+			success: function(msg){
+				var EWR12 = new ExecuteWhenReady({
+					Execute : function(){
+						$j('#TopHeader').html(msg);
+						$j('#TopHeader').show();
+						$j('#TopHeader').css({'margin':'0','height':'50px'});
+						setTimeout(function(){
+							var locpath = location.pathname;
+							if(locpath.match(/exchange-volume.html$/gmi)){ 
+								$j('#headerpageselect').val('/market-data/volume-open-interest/exchange-volume.html?viewas=mobile');
+							}
+						},100);
+					},
+					When : function(){
+						return ( $j('#TopHeader').length > 0 );
+					},
+					onfailure: function(){
+						//alert('failed-2');
+					},
+					CheckEvery : 10,	
+					NumofAttempts : 10000	
+				});			
+			}
+		});
+		
+		$j.ajax({
+			type: "GET",
+			url: "/m/footer.html",
+			dataType: 'xhtml',
+			success: function(msg){//alert(msg);
+				var EWR12 = new ExecuteWhenReady({
+					Execute : function(){//alert(msg);
+						$j('#footer').html(msg);
+						$j('#footer').show();
+					},
+					When : function(){
+						return ( $j('#footer').length > 0 );
+					},
+					onfailure: function(){
+						//alert('failed-3');
+					},
+					CheckEvery : 10,	
+					NumofAttempts : 10000	
+				});				
+			}
+		});
+
+}
+
+(function(){
+
+	var uagent = navigator.userAgent;
+	var locpath = window.location.pathname.toString();
+//alert("location = "+locpath);
+//window.location.toString().match(/\/m\//g) === null		-> url has /m/
+//alert("is this a non-mobile url? ");alert(locpath.match(/\/m\//g) === null);
+//locpath === ("")						-> url is index.html
+//alert("is this the homepage? loc = space ");alert(locpath === (""));
+//locpath.match(/\//) !== null					-> url is index.html
+//alert("is this the homepage? loc = \/");alert(locpath.match(/\/$/) !== null);
+//locpath.match(/\/index.html/)					-> url is index.html
+//alert("is this the homepage? loc = \/index.html");alert(locpath.match(/\/index.html/) !== null);
+//gup("view")							-> view is not mobile
+//alert("is disablemobile off? ");alert(gup("view") !== 'disablemobile');
+ 
+	if( (gup('viewas') === 'mobile') || (uagent.match(/applewebkit/gmi) && !uagent.match(/chrome/gmi) && uagent.match(/mobile/gmi) )){
+		if( (locpath.match(/\/m\//g) === null ) && (locpath === ("") || locpath.match(/^\/$/) !== null || locpath.match(/^\/index.html/) !== null) && (gup("view") !== 'disablemobile')) {
+		     window.location = '/m';
+		}
+		if(gup('viewas') === 'mobile'){
+			restyleformobile();
+		}
+	}
+
+/*
+
+		var name = 'view';
+		name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+		var regexS = "[\\?&]"+name+"=([^&#]*)";
+		var regex = new RegExp( regexS );
+		var results = regex.exec( window.location.href );
+		var res = "";
+		if( results == null )
+			res = "";
+		else
+			res = results[1];	
+		if(res !== 'disablemobile'){
+			
+			if($j('#article_content').length > 0){
+				restyleformobile();
+			}
+			
+		}	
+
+
+
+	if(gup('viewas') === 'mobile'){
+		restyleformobile();
+	}
+*/
+
+        
+}
+)()
+
+var isMobileView = function(){
+	var uagent = navigator.userAgent;
+	return ( (gup('viewas') === 'mobile') || (uagent.match(/applewebkit/gmi) && !uagent.match(/chrome/gmi) && uagent.match(/mobile/gmi)) )? true : false ;
+}
+</script>
 <!--BEGIN HEADER-->
 	<div id="TopHeader">
 		<!-- Begin Conditional Tags Here -->
@@ -935,53 +1070,811 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 	  <li>
 	  	<a class="investor-relations" href="/investor-relations/index.html">Investor Relations</a>
 			<div class="daughterWindow">
-			<table class="DWTable">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table class="DWTable">
 <tbody><tr>
 	<td colspan="100" class="daughterWindow_topcol">
+ 
 	    <a href="/investor-relations/index.html">Investor Relations</a>
+
 	</td>
+
 </tr>
 <tr>
+
+
+
+
+
+
+
+	
+	
+
+        
 	<td class="daughterWindow_col">
+	
+            
+	    
+
+
+
+	    
 	    <div class="MainGroup">
-	    <div class="GroupProduct"></div>
+	    <div class="GroupProduct">Financial Reports</div>
+            
+            
+                
+            
+                
+            
+                
+            
+                
+            
+            
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
 			    	<div class="GroupProductSubLink">
-		    <div class="ho_productName"><a href="http://investor.cmegroup.com/investor-relations/releases.cfm">Investor News &amp; Highlights </a></div>
+			     
+			 
+		    <div class="ho_productName"><a href="http://investor.cmegroup.com/investor-relations/secfiling.cfm?filingID=1193125-11-50252&amp;CIK=1156375">Annual Report 10-K </a></div>
+		    
 		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
 			    	<div class="GroupProductSubLink">
-		    <div class="ho_productName"><a href="http://investor.cmegroup.com/investor-relations/events.cfm">Events &amp; Presentations </a></div>
+			     
+			 
+		    <div class="ho_productName"><a href="http://investor.cmegroup.com/investor-relations/secfiling.cfm?filingID=1193125-11-304112&amp;CIK=1156375">Quarterly Report 10-Q </a></div>
+		    
 		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
 			    	<div class="GroupProductSubLink">
-		    <div class="ho_productName"><a href="http://investor.cmegroup.com/investor-relations/financials.cfm">Financial Reports &amp; SEC Filings </a></div>
-		    </div>
-			    	<div class="GroupProductSubLink">
-		    <div class="ho_productName"><a href="http://investor.cmegroup.com/investor-relations/stockquote.cfm">Stock Information </a></div>
-		    </div>
-			    	<div class="GroupProductSubLink">
-		    <div class="ho_productName"><a href="http://investor.cmegroup.com/investor-relations/analysts.cfm">Analyst Coverage </a></div>
-		    </div>
-			    	<div class="GroupProductSubLink">
+			     
+			 
 		    <div class="ho_productName"><a href="http://investor.cmegroup.com/investor-relations/volume.cfm">Volume Reports </a></div>
+		    
 		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
 			    	<div class="GroupProductSubLink">
-		    <div class="ho_productName"><a href="http://investor.cmegroup.com/investor-relations/governance.cfm">Corporate Governance </a></div>
+			     
+			 
+		    <div class="ho_productName"><a href="http://investor.cmegroup.com/investor-relations/financials.cfm">All Financial Reports &amp; SEC Filings </a></div>
+		    
 		    </div>
-			    	<div class="GroupProductSubLink">
-		    <div class="ho_productName"><a href="http://investor.cmegroup.com/investor-relations/tools.cfm">Alerts and Materials </a></div>
-		    </div>
-			    	<div class="GroupProductSubLink">
-		    <div class="ho_productName"><a href="http://investor.cmegroup.com/investor-relations/alerts.cfm">Email Alerts </a></div>
-		    </div>
-			    	<div class="GroupProductSubLink">
-		    <div class="ho_productName"><a href="http://investor.cmegroup.com/investor-relations/overview.cfm">Shareholder Information </a></div>
-		    </div>
+		
+                
+
+
+
+
+
+
+
+		
 	</div>
+	
+	     
+	 
+	
+	
+            
+	    
+
+
+
+	    
+	    <div class="MainGroup">
+	    <div class="GroupProduct">Investor Materials</div>
+            
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+            
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="http://investor.cmegroup.com/investor-relations/alerts.cfm">Email Alerts </a></div>
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="http://investor.cmegroup.com/investor-relations/investorkit.cfm">Printed Materials </a></div>
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="http://investor.cmegroup.com/investor-relations/confirm.cfm?destination=/investor-relations/briefcase.cfm">Shareholder Briefcase and RSS Feeds </a></div>
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="http://investor.cmegroup.com/investor-relations/downloads.cfm">Download Library </a></div>
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="http://investor.cmegroup.com/investor-relations/releases.cfm">Investor News and Highlights </a></div>
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="http://investor.cmegroup.com/investor-relations/events.cfm">Events and Presentations </a></div>
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+	</div>
+	
+	     
+	 
+	
+	
+            
+	    
+
+
+	
+	
+	
+	</td>
+        
+        
+	<td class="daughterWindow_colM">
+
+
+	    
+	    <div class="MainGroup">
+	    <div class="GroupProduct">Corporate Governance</div>
+            
+            
+                
+            
+                
+            
+                
+            
+                
+            
+            
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="http://investor.cmegroup.com/investor-relations/principles.cfm">Principles </a></div>
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="http://investor.cmegroup.com/investor-relations/corporate-policies.cfm">Corporate Policies </a></div>
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="http://investor.cmegroup.com/investor-relations/committees.cfm">Board Committees </a></div>
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="http://investor.cmegroup.com/investor-relations/leadership.cfm">Leadership </a></div>
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+	</div>
+	
+	     
+	 
+	
+	
+            
+	    
+
+
+
+	    
+	    <div class="MainGroup">
+	    <div class="GroupProduct">Shareholder Information</div>
+            
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+            
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="http://investor.cmegroup.com/investor-relations/transfer.cfm">Transfer Agent </a></div>
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="http://investor.cmegroup.com/investor-relations/dividends.cfm">Dividend Payment </a></div>
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="http://investor.cmegroup.com/investor-relations/stockquote.cfm">Stock Quote </a></div>
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="http://investor.cmegroup.com/investor-relations/annual-meeting.cfm">Annual Meeting </a></div>
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="http://investor.cmegroup.com/investor-relations/shareholder-relations.cfm">Shareholder Relations </a></div>
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+	</div>
+	
+	     
+	 
+	
+	
+
+
+	
         </td>
 </tr>
 <tr>
 	<td colspan="100" class="daughterWindow_bottomcol"></td>		
 </tr>
 </tbody></table>
+
+
 
 			</div>
 		<span class="sep">|</span>
@@ -1007,35 +1900,290 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
  	<li>
 	  	<a class="globex" href="/globex/index.html">Electronic Trading</a>
 			<div class="daughterWindow">
-			<table class="DWTable">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table class="DWTable">
 <tbody><tr>
 	<td colspan="100" class="daughterWindow_topcol">
+ 
 	    <a href="/globex/index.html">Electronic Trading</a>
+
 	</td>
+
 </tr>
 <tr>
+
+
+
+
+
+
+
+	
+	
+
+        
 	<td class="daughterWindow_col">
+	
+            
+	    
+
+
+
+	    
 	    <div class="MainGroup">
 	    <div class="GroupProduct"></div>
+            
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+            
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
 			    	<div class="GroupProductSubLink">
+			     
+			 
 		    <div class="ho_productName"><a href="/globex/introduction/">Introduction to CME Globex </a></div>
+		    
+			    
+				  
+				  
+				  
+				  
+			    
+		    
 		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
 			    	<div class="GroupProductSubLink">
+			     
+			 
 		    <div class="ho_productName"><a href="/globex/trading-cme-group-products/">Accessing CME Globex </a></div>
+		    
+			    
+				  
+				  
+				  
+				  
+			    
+		    
 		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
 			    	<div class="GroupProductSubLink">
+			     
+			 
 		    <div class="ho_productName"><a href="/globex/developing-to-cme-globex/">Developing to CME Globex </a></div>
+		    
+			    
+				  
+				  
+				  
+				  
+			    
+		    
 		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
 			    	<div class="GroupProductSubLink">
+			     
+			 
 		    <div class="ho_productName"><a href="/globex/resources/">Resources </a></div>
+		    
+			    
+				  
+				  
+				  
+				  
+			    
+		    
 		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="/globex/trading-cme-group-products/co-location-services.html">CME Co-Location Services </a></div>
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
 	</div>
+	
+	     
+	 
+	
+	
+
+
+	
         </td>
 </tr>
 <tr>
 	<td colspan="100" class="daughterWindow_bottomcol"></td>		
 </tr>
 </tbody></table>
+
+
 
 			</div>
 		<span class="sep">|</span>
@@ -1077,7 +2225,7 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 <tbody><tr>
 	<td colspan="100" class="daughterWindow_topcol">
  
-	    <a href="/clearing/index.html">Clearing</a>
+	    <a href="/clearing/index.html">CME Derivatives Clearing</a>
 
 	</td>
 
@@ -1469,7 +2617,7 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			    	<div class="GroupProductSubLink">
 			     
 			 
-		    <div class="ho_productName"><a href="/trading/energy/nymex-daily-reports.html">NYMEX Daily Deliveries </a></div>
+		    <div class="ho_productName"><a href="/trading/energy/nymex-daily-reports.html">NYMEX Daily Reports </a></div>
 		    
 		    </div>
 		
@@ -1766,7 +2914,7 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			    	<div class="GroupProductSubLink">
 			     
 			 
-		    <div class="ho_productName"><a href="/clearing/financial-and-collateral-management/pass-through.html">Forms and Instructions </a></div>
+		    <div class="ho_productName"><a href="/clearing/financial-and-collateral-management/forms-and-instructions.html">Forms and Instructions </a></div>
 		    
 		    </div>
 		
@@ -1822,7 +2970,7 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			    	<div class="GroupProductSubLink">
 			     
 			 
-		    <div class="ho_productName"><a href="/clearing/risk-management/performance-bonds.html">Performance Bonds/Margins </a></div>
+		    <div class="ho_productName"><a href="/clearing/cme-clearing-overview/performance-bonds.html">Performance Bonds/Margins </a></div>
 		    
 		    </div>
 		
@@ -2361,16 +3509,6 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 		
 
 		
-			
-			     
-			     
-			    	<div class="GroupProductSubLink">
-			     
-			 
-		    <div class="ho_productName"><a href="/globex/introduction/features-and-functionality/disaster-recovery-faq.html">Frequently Asked Questions (FAQ) </a></div>
-		    
-		    </div>
-		
                 
 
 
@@ -2560,7 +3698,7 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 <tbody><tr>
 	<td colspan="100" class="daughterWindow_topcol">
  
-	    <a href="/clearport/index.html">CME ClearPort</a>
+	    <a href="/clearport/index.html">CME ClearPort - OTC Derivatives Clearing</a>
 
 	</td>
 
@@ -2736,6 +3874,10 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
             
                 
             
+                
+            
+                
+            
             
 
 
@@ -2823,7 +3965,40 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			    	<div class="GroupProductSubLink">
 			     
 			 
-		    <div class="ho_productName"><a href="/clearing/ClearedTradesAPI.html">Straight-Through-Processing </a></div>
+		    <div class="ho_productName"><a href="http://www.confirmhub.com/">CME ConfirmHub </a></div>
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="/clearing/ClearedTradesAPI.html">CME Cleared Trades API </a></div>
 		    
 		    </div>
 		
@@ -2857,6 +4032,39 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			     
 			 
 		    <div class="ho_productName"><a href="/clearing/clearport/clearport-api.html">CME ClearPort API Information </a></div>
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="/clearing/files/clearingdisasterrecovery.pdf" target="_blank">CME Clearing Disaster Recovery Process </a></div>
 		    
 		    </div>
 		
@@ -2953,18 +4161,8 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 
 	    
 	    <div class="MainGroup">
-	    <div class="GroupProduct"></div>
+	    <div class="GroupProduct">New and Existing Distributors</div>
             
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
             
                 
             
@@ -2999,7 +4197,7 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			    	<div class="GroupProductSubLink">
 			     
 			 
-		    <div class="ho_productName"><a href="/market-data/delayed-quotes/commodities.html">Delayed Quotes </a></div>
+		    <div class="ho_productName"><a href="/market-data/distributor/index.html">Becoming a Distributor </a></div>
 		    
 		    </div>
 		
@@ -3032,7 +4230,7 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			    	<div class="GroupProductSubLink">
 			     
 			 
-		    <div class="ho_productName"><a href="/market-data/real-time-quotes/index.html">Real-Time Quotes &amp; Charts </a></div>
+		    <div class="ho_productName"><a href="/market-data/distributor/tools-and-resources.html">Tools and Resources: Existing Distributors </a></div>
 		    
 		    </div>
 		
@@ -3065,7 +4263,63 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			    	<div class="GroupProductSubLink">
 			     
 			 
-		    <div class="ho_productName"><a href="/market-data/datamine-historical-data/datamine.html">Historical Data Services </a></div>
+		    <div class="ho_productName"><a href="/market-data/distributor/cme-datapoint.html">CME DataPoint </a></div>
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="/market-data/distributor/global-partnerships.html">Global Partnerships </a></div>
 		    
 		    </div>
 		
@@ -3098,7 +4352,7 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			    	<div class="GroupProductSubLink">
 			     
 			 
-		    <div class="ho_productName"><a href="/market-data/spreads/">Delayed Spread Quotes </a></div>
+		    <div class="ho_productName"><a href="/market-data/distributor/market-data-platform.html">Direct Connectivity (MDP) </a></div>
 		    
 		    </div>
 		
@@ -3111,6 +4365,29 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 
 
 		
+	</div>
+	
+	     
+	 
+	
+	
+            
+	    
+
+
+
+	    
+	    <div class="MainGroup">
+	    <div class="GroupProduct">Market Data Platform Products</div>
+            
+            
+                
+            
+                
+            
+                
+            
+            
 
 
 		
@@ -3131,172 +4408,7 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			    	<div class="GroupProductSubLink">
 			     
 			 
-		    <div class="ho_productName"><a href="/tools-information/build-a-report.html">Daily Bulletin </a></div>
-		    
-		    </div>
-		
-                
-
-
-
-
-
-
-
-		
-
-
-		
-		
-		
-		
-		
-		
-		
-			
-		
-		
-
-		
-			
-			     
-			     
-			    	<div class="GroupProductSubLink">
-			     
-			 
-		    <div class="ho_productName"><a href="/market-data/volume-open-interest/">Volume &amp; Open Interest </a></div>
-		    
-		    </div>
-		
-                
-
-
-
-
-
-
-
-		
-
-
-		
-		
-		
-		
-		
-		
-		
-			
-		
-		
-
-		
-			
-			     
-			     
-			    	<div class="GroupProductSubLink">
-			     
-			 
-		    <div class="ho_productName"><a href="/market-data/settlements/">Daily Settlements </a></div>
-		    
-		    </div>
-		
-                
-
-
-
-
-
-
-
-		
-
-
-		
-		
-		
-		
-		
-		
-		
-			
-		
-		
-
-		
-			
-			     
-			     
-			    	<div class="GroupProductSubLink">
-			     
-			 
-		    <div class="ho_productName"><a href="/market-data/reports/">Reports </a></div>
-		    
-		    </div>
-		
-                
-
-
-
-
-
-
-
-		
-
-
-		
-		
-		
-		
-		
-		
-		
-			
-		
-		
-
-		
-			
-			     
-			     
-			    	<div class="GroupProductSubLink">
-			     
-			 
-		    <div class="ho_productName"><a href="/market-data/distributor/">Becoming a Distributor </a></div>
-		    
-		    </div>
-		
-                
-
-
-
-
-
-
-
-		
-
-
-		
-		
-		
-		
-		
-		
-		
-			
-		
-		
-
-		
-			
-			     
-			     
-			    	<div class="GroupProductSubLink">
-			     
-			 
-		    <div class="ho_productName"><a href="/market-data/licensed-quote-vendors/index.html">Licensed Distributors </a></div>
+		    <div class="ho_productName"><a href="/market-data/datamine-historical-data/index.html">Historical Data Services </a></div>
 		    
 		    </div>
 		
@@ -3330,6 +4442,326 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			     
 			 
 		    <div class="ho_productName"><a href="/market-data/datacloud.html">On-Demand Cloud Services </a></div>
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="/market-data/real-time-quotes/">E-quotes </a></div>
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+	</div>
+	
+	     
+	 
+	
+	
+            
+	    
+
+
+	
+	
+	
+	</td>
+        
+        
+	<td class="daughterWindow_colM">
+
+
+	    
+	    <div class="MainGroup">
+	    <div class="GroupProduct">Licensed Distributors</div>
+            
+            
+                
+            
+            
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="/market-data/licensed-quote-vendors/index.html">Authorized Licensed Distributors </a></div>
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+	</div>
+	
+	     
+	 
+	
+	
+            
+	    
+
+
+
+	    
+	    <div class="MainGroup">
+	    <div class="GroupProduct">Free Reports</div>
+            
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+            
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="/market-data/volume-open-interest/index.html">Volume Reports </a></div>
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="/market-data/settlements/index.html">Settlements </a></div>
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="/market-data/reports/registrar-reports.html">Registrar Reports </a></div>
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="http://www.cmegroup.com/tools-information/build-a-report.html?report=dailybulletin">Daily Bulletin </a></div>
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="/market-data/data-suite.html">Free Real-time Quotes </a></div>
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="/market-data/delayed-quotes/commodities.html">Delayed Quotes </a></div>
 		    
 		    </div>
 		
@@ -3441,6 +4873,8 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
             
                 
             
+                
+            
             
 
 
@@ -3462,7 +4896,40 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			    	<div class="GroupProductSubLink">
 			     
 			 
-		    <div class="ho_productName"><a href="/market-regulation/dispute-resolution/">Dispute Resolution/Arbitration </a></div>
+		    <div class="ho_productName"><a href="/market-regulation/rulebook/">Rulebooks </a></div>
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="/rulebook/rulebook-harmonization.html">Market Regulation Advisory Notices (MRANs) </a></div>
 		    
 		    </div>
 		
@@ -3528,73 +4995,73 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			    	<div class="GroupProductSubLink">
 			     
 			 
+		    <div class="ho_productName"><a href="/market-regulation/outreach.html">Regulatory Outreach </a></div>
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="/market-regulation/dispute-resolution/">Dispute Resolution/Arbitration </a></div>
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
 		    <div class="ho_productName"><a href="/market-regulation/other-regulatory-agenices/">Other Regulatory Agencies </a></div>
-		    
-		    </div>
-		
-                
-
-
-
-
-
-
-
-		
-
-
-		
-		
-		
-		
-		
-		
-		
-			
-		
-		
-
-		
-			
-			     
-			     
-			    	<div class="GroupProductSubLink">
-			     
-			 
-		    <div class="ho_productName"><a href="/market-regulation/rulebook/">Rulebooks </a></div>
-		    
-		    </div>
-		
-                
-
-
-
-
-
-
-
-		
-
-
-		
-		
-		
-		
-		
-		
-		
-			
-		
-		
-
-		
-			
-			     
-			     
-			    	<div class="GroupProductSubLink">
-			     
-			 
-		    <div class="ho_productName"><a href="/rulebook/rulebook-harmonization.html">Advisory Notices </a></div>
 		    
 		    </div>
 		
@@ -3698,7 +5165,7 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 <tbody><tr>
 	<td colspan="100" class="daughterWindow_topcol">
  
-	    <a href="/education/index.html">Futures &amp; Options Education for Trading Strategies</a>
+	    <a href="/education/index.html">Futures &amp; Options Education for Effective Trading Strategies and Risk Management</a>
 
 	</td>
 
@@ -3863,6 +5330,8 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
             
                 
             
+                
+            
             
 
 
@@ -3884,7 +5353,40 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			    	<div class="GroupProductSubLink">
 			     
 			 
-		    <div class="ho_productName"><a href="/education/market-commentary/index.html">Market Commentary </a></div>
+		    <div class="ho_productName"><a href="/education/market-insights.html">Market Insights </a></div>
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="/education/market-commentary/index.html">Market Commentary and Analysis </a></div>
 		    
 		    </div>
 		
@@ -4765,6 +6267,8 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
             
                 
             
+                
+            
             
 
 
@@ -4787,6 +6291,39 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			     
 			 
 		    <div class="ho_productName"><a href="/company/clearing-fees/">Clearing and Trading Fees </a></div>
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="/tools-information/calc_general.html">Conversion Calculator </a></div>
 		    
 		    </div>
 		
@@ -5142,6 +6679,8 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 	    <div class="MainGroup">
 	    <div class="GroupProduct">General Resources</div>
             
+            
+                
             
                 
             
@@ -5589,6 +7128,39 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 
 
 		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="/tools-information/communications/">Communications </a></div>
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
 	</div>
 	
 	     
@@ -5873,7 +7445,7 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			    	<div class="GroupProductSubLink">
 			     
 			 
-		    <div class="ho_productName"><a href="/trading/otc/index.html#FilterOn=3">CME ClearPort Product Slate </a></div>
+		    <div class="ho_productName"><a href="/trading/otc/product-slate.html#FilterOn=3">CME ClearPort Product Slate </a></div>
 		    
 		    </div>
 		
@@ -5936,6 +7508,8 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 	    <div class="MainGroup">
 	    <div class="GroupProduct">Grains and Oilseeds (CBOT)</div>
             
+            
+                
             
                 
             
@@ -6161,6 +7735,46 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			    
 				  <div class="ho_productfoi">FUT | OPT</div>
 				  
+				  
+				  
+			    
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="/trading/agricultural/grain-and-oilseed/mgex-cbot-wheat-spread.html">MGEX-CBOT Wheat Spread Options </a></div>
+		    
+			    
+				  
+				  <div class="ho_productfoi_opt">OPT</div>
 				  
 				  
 			    
@@ -7544,8 +9158,6 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
             
                 
             
-                
-            
             
 
 
@@ -7608,46 +9220,6 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			     
 			 
 		    <div class="ho_productName"><a href="/trading/agricultural/lumber-and-pulp/wood-pulp.html">Softwood Pulp </a></div>
-		    
-			    
-				  <div class="ho_productfoi">FUT | OPT</div>
-				  
-				  
-				  
-			    
-		    
-		    </div>
-		
-                
-
-
-
-
-
-
-
-		
-
-
-		
-		
-		
-		
-		
-		
-		
-			
-		
-		
-
-		
-			
-			     
-			     
-			    	<div class="GroupProductSubLink">
-			     
-			 
-		    <div class="ho_productName"><a href="/trading/agricultural/lumber-and-pulp/hardwoodpulp.html">Hardwood Pulp </a></div>
 		    
 			    
 				  <div class="ho_productfoi">FUT | OPT</div>
@@ -8016,313 +9588,7 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			</div>
 			<span class="sep">|</span>
 	</li>
-	<li>
-		<a class="cds" href="/trading/cds/">Credit</a>
-			<div class="daughterWindow">
-			
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<table class="DWTable">
-<tbody><tr>
-	<td colspan="100" class="daughterWindow_topcol">
- 
-	    <a href="/trading/cds/index.html">Credit Products</a>
-
-	</td>
-
-</tr>
-<tr>
-
-
-
-
-
-
-
 	
-	
-
-        
-	<td class="daughterWindow_col">
-	
-            
-	    
-
-
-
-	    
-	    <div class="MainGroup">
-	    <div class="GroupProduct"></div>
-            
-            
-                
-            
-            
-
-
-		
-		
-		
-		
-		
-		
-		
-			
-		
-		
-
-		
-			
-			     
-			     
-			    	<div class="GroupProductSubLink">
-			     
-			 
-		    <div class="ho_productName"><a href="/trading/cds/index.html">Credit Default Swaps (CME) </a></div>
-		    
-		    </div>
-		
-                
-
-
-
-
-
-
-
-		
-	</div>
-	
-	     
-	 
-	
-	
-
-
-	
-        </td>
-</tr>
-<tr>
-	<td colspan="100" class="daughterWindow_bottomcol"></td>		
-</tr>
-</tbody></table>
-
-
-
-			</div>
-		<span class="sep">|</span>
-	</li>
-	<li>
-		<a class="economic-events" href="/trading/economic-events/">Economic Events</a>
-			<div class="daughterWindow">
-			
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<table class="DWTable">
-<tbody><tr>
-	<td colspan="100" class="daughterWindow_topcol">
- 
-	    <a href="/trading/economic-events/index.html">Economic Events Homepage</a>
-
-	</td>
-
-</tr>
-<tr>
-
-
-
-
-
-
-
-	
-	
-
-        
-	<td class="daughterWindow_col">
-	
-            
-	    
-
-
-
-	    
-	    <div class="MainGroup">
-	    <div class="GroupProduct"></div>
-            
-            
-                
-            
-            
-
-
-		
-		
-		
-		
-		
-		
-		
-			
-		
-		
-
-		
-			
-			     
-			        <div class="GroupProductSubLink">
-			     
-			     
-			 
-		    <div class="ho_productName"><a href="/clearing/trading-practices/block-data.html?id=2#contractTypes=FUT,OPT,SPD&amp;exchanges=XCBT,XCME,XCEC,XNYM&amp;assetclass=9">Block Trades </a></div>
-		    
-		    </div>
-		
-                
-
-
-
-
-
-
-
-		
-	</div>
-	
-	     
-		<div class="clear padBottom5 border_Bottom"></div>
-	     
-	 
-	
-	
-            
-	    
-
-
-
-	    
-	    <div class="MainGroup">
-	    <div class="GroupProduct"></div>
-            
-            
-                
-            
-            
-
-
-		
-		
-		
-		
-		
-		
-		
-			
-		
-		
-
-		
-			
-			     
-			     
-			    	<div class="GroupProductSubLink">
-			     
-			 
-		    <div class="ho_productName"><a href="/trading/economic-events/economic-events/nonfarm-payroll.html">Nonfarm Payroll (CME) </a></div>
-		    
-			    
-				  <div class="ho_productfoi">FUT | OPT</div>
-				  
-				  
-				  
-			    
-		    
-		    </div>
-		
-                
-
-
-
-
-
-
-
-		
-	</div>
-	
-	     
-	 
-	
-	
-
-
-	
-        </td>
-</tr>
-<tr>
-	<td colspan="100" class="daughterWindow_bottomcol"></td>		
-</tr>
-</tbody></table>
-
-
-
-			</div>
-		<span class="sep">|</span>
-	</li>
 	<li>
 		<a class="energy" href="/trading/energy/">Energy</a>
 			<div class="daughterWindow">
@@ -8416,7 +9682,7 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			    	<div class="GroupProductSubLink">
 			     
 			 
-		    <div class="ho_productName"><a href="/trading/otc/index.html#FilterOn=4">CME ClearPort Product Slate </a></div>
+		    <div class="ho_productName"><a href="/trading/otc/product-slate.html#FilterOn=4">CME ClearPort Product Slate </a></div>
 		    
 		    </div>
 		
@@ -8531,6 +9797,12 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
             
                 
             
+                
+            
+                
+            
+                
+            
             
 
 
@@ -8558,6 +9830,126 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 				  <div class="ho_productfoi">FUT | OPT</div>
 				  
 				  
+				  
+			    
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="/trading/energy/crude-oil/light-sweet-crude-cash-settled.html">WS Crude Oil - Financial </a></div>
+		    
+			    
+				  
+				  
+				  <div class="ho_productfoi">FUT</div>
+				  
+			    
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="/trading/energy/crude-oil/brent-25-day-platts-futures.html">NBZ Brent 25-Day (Platts) </a></div>
+		    
+			    
+				  <div class="ho_productfoi">FUT | OPT</div>
+				  
+				  
+				  
+			    
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="/trading/energy/crude-oil/canadian-heavy-wcs-physical-crude-oil-futures.html">WCE Western Canadian Select (WCS) Crude Oil </a></div>
+		    
+			    
+				  
+				  
+				  <div class="ho_productfoi">FUT</div>
 				  
 			    
 		    
@@ -9054,6 +10446,8 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
             
                 
             
+                
+            
             
 
 
@@ -9081,6 +10475,46 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 				  <div class="ho_productfoi">FUT | OPT</div>
 				  
 				  
+				  
+			    
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="/trading/energy/natural-gas/henry-hub-natural-gas-last-day-physically-delivered.html">MNG Henry Hub Natural Gas Last Day Physically-Delivered </a></div>
+		    
+			    
+				  
+				  
+				  <div class="ho_productfoi">FUT</div>
 				  
 			    
 		    
@@ -9852,6 +11286,8 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
             
                 
             
+                
+            
             
 
 
@@ -9914,6 +11350,46 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			     
 			 
 		    <div class="ho_productName"><a href="/trading/energy/refined-products/heating-oil-cash-settled.html">BH Heating Oil - Financial </a></div>
+		    
+			    
+				  
+				  
+				  <div class="ho_productfoi">FUT</div>
+				  
+			    
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="/trading/energy/refined-products/ny-ulsd-financial-futures.html">ULS NY ULSD - Financial </a></div>
 		    
 			    
 				  
@@ -11953,7 +13429,7 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			    	<div class="GroupProductSubLink">
 			     
 			 
-		    <div class="ho_productName"><a href="/trading/otc/index.html#FilterOn=5">CME ClearPort Product Slate </a></div>
+		    <div class="ho_productName"><a href="/trading/otc/product-slate.html#FilterOn=5">CME ClearPort Product Slate </a></div>
 		    
 		    </div>
 		
@@ -15966,9 +17442,9 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 		    <div class="ho_productName"><a href="/trading/interest-rates/us-treasury/13-week-t-bill.html">13-week T-bill </a></div>
 		    
 			    
-				  <div class="ho_productfoi">FUT | OPT</div>
 				  
 				  
+				  <div class="ho_productfoi">FUT</div>
 				  
 			    
 		    
@@ -16276,7 +17752,7 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			    	<div class="GroupProductSubLink">
 			     
 			 
-		    <div class="ho_productName"><a href="/trading/interest-rates/interest-rate-index/cme-lehman-brothers-us-aggregate-index.html">Barclays Capital U.S. Aggregate Bond Index Futures </a></div>
+		    <div class="ho_productName"><a href="/trading/interest-rates/interest-rate-index/cme-lehman-brothers-us-aggregate-index.html">Barclays U.S. Aggregate Bond Index Futures </a></div>
 		    
 			    
 				  
@@ -16499,7 +17975,7 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			    	<div class="GroupProductSubLink">
 			     
 			 
-		    <div class="ho_productName"><a href="/trading/otc/index.html#FilterOn=7">CME ClearPort Product Slate </a></div>
+		    <div class="ho_productName"><a href="/trading/otc/product-slate.html#FilterOn=7">CME ClearPort Product Slate </a></div>
 		    
 		    </div>
 		
@@ -17251,7 +18727,7 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 <tbody><tr>
 	<td colspan="100" class="daughterWindow_topcol">
  
-	    <a href="/trading/otc/index.html">CME ClearPort Product Slate</a>
+	    <a href="/trading/otc/index.html">Cleared OTC Homepage</a>
 
 	</td>
 
@@ -17277,50 +18753,8 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 
 	    
 	    <div class="MainGroup">
-	    <div class="GroupProduct">Products Available</div>
+	    <div class="GroupProduct">Cleared OTC Products and Services</div>
             
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
             
                 
             
@@ -17355,7 +18789,7 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			    	<div class="GroupProductSubLink">
 			     
 			 
-		    <div class="ho_productName"><a href="/trading/otc/index.html">All </a></div>
+		    <div class="ho_productName"><a href="/trading/agricultural/grain-calendar-basis-swaps.html">Cleared OTC Ag Swaps </a></div>
 		    
 		    </div>
 		
@@ -17388,7 +18822,7 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			    	<div class="GroupProductSubLink">
 			     
 			 
-		    <div class="ho_productName"><a href="/trading/otc/index.html?FilterOn=2&amp;#FilterOn=2">New </a></div>
+		    <div class="ho_productName"><a href="/trading/cds/">Cleared OTC CDS </a></div>
 		    
 		    </div>
 		
@@ -17421,7 +18855,7 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			    	<div class="GroupProductSubLink">
 			     
 			 
-		    <div class="ho_productName"><a href="/trading/otc/index.html?FilterOn=3&amp;#FilterOn=3">Agriculture </a></div>
+		    <div class="ho_productName"><a href="/trading/fx/fx-otc.html">Cleared OTC FX </a></div>
 		    
 		    </div>
 		
@@ -17454,7 +18888,7 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			    	<div class="GroupProductSubLink">
 			     
 			 
-		    <div class="ho_productName"><a href="/trading/otc/index.html?FilterOn=31&amp;#FilterOn=31">&nbsp;&nbsp;&nbsp;Grain and Oilseed </a></div>
+		    <div class="ho_productName"><a href="/trading/interest-rates/cleared-otc/">Cleared OTC IRS </a></div>
 		    
 		    </div>
 		
@@ -17487,7 +18921,7 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			    	<div class="GroupProductSubLink">
 			     
 			 
-		    <div class="ho_productName"><a href="/trading/otc/index.html?FilterOn=35&amp;#FilterOn=35">&nbsp;&nbsp;&nbsp;Commodity Index </a></div>
+		    <div class="ho_productName"><a href="http://www2.confirmhub.com/home.aspx">CME ConfirmHub </a></div>
 		    
 		    </div>
 		
@@ -17520,7 +18954,111 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			    	<div class="GroupProductSubLink">
 			     
 			 
-		    <div class="ho_productName"><a href="/trading/otc/index.html?FilterOn=36&amp;#FilterOn=36">&nbsp;&nbsp;&nbsp;Softs </a></div>
+		    <div class="ho_productName"><a href="/clearport/">CME ClearPort </a></div>
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+	</div>
+	
+	     
+	 
+	
+	
+            
+	    
+
+
+
+	    
+	    <div class="MainGroup">
+	    <div class="GroupProduct">CME Clearport Product Slate</div>
+            
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+            
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="/trading/otc/product-slate.html">All </a></div>
 		    
 		    </div>
 		
@@ -17553,7 +19091,172 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			    	<div class="GroupProductSubLink">
 			     
 			 
-		    <div class="ho_productName"><a href="/trading/otc/index.html?FilterOn=37&amp;#FilterOn=37">&nbsp;&nbsp;&nbsp;Fertilizer </a></div>
+		    <div class="ho_productName"><a href="/trading/otc/product-slate.html?FilterOn=2&amp;#FilterOn=2">New </a></div>
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="/trading/otc/product-slate.html?FilterOn=3&amp;#FilterOn=3">Agriculture </a></div>
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="/trading/otc/product-slate.html?FilterOn=31&amp;#FilterOn=31">&nbsp;&nbsp;&nbsp;Grain and Oilseed </a></div>
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="/trading/otc/product-slate.html?FilterOn=35&amp;#FilterOn=35">&nbsp;&nbsp;&nbsp;Commodity Index </a></div>
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="/trading/otc/product-slate.html?FilterOn=36&amp;#FilterOn=36">&nbsp;&nbsp;&nbsp;Softs </a></div>
+		    
+		    </div>
+		
+                
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+
+		
+			
+			     
+			     
+			    	<div class="GroupProductSubLink">
+			     
+			 
+		    <div class="ho_productName"><a href="/trading/otc/product-slate.html?FilterOn=37&amp;#FilterOn=37">&nbsp;&nbsp;&nbsp;Fertilizer </a></div>
 		    
 		    </div>
 		
@@ -17619,7 +19322,7 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			    	<div class="GroupProductSubLink">
 			     
 			 
-		    <div class="ho_productName"><a href="/trading/otc/index.html?FilterOn=4&amp;#FilterOn=4">Energy </a></div>
+		    <div class="ho_productName"><a href="/trading/otc/product-slate.html?FilterOn=4&amp;#FilterOn=4">Energy </a></div>
 		    
 		    </div>
 		
@@ -17652,7 +19355,7 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			    	<div class="GroupProductSubLink">
 			     
 			 
-		    <div class="ho_productName"><a href="/trading/otc/index.html?FilterOn=41&amp;#FilterOn=41">&nbsp;&nbsp;&nbsp;Crude Oil </a></div>
+		    <div class="ho_productName"><a href="/trading/otc/product-slate.html?FilterOn=41&amp;#FilterOn=41">&nbsp;&nbsp;&nbsp;Crude Oil </a></div>
 		    
 		    </div>
 		
@@ -17685,7 +19388,7 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			    	<div class="GroupProductSubLink">
 			     
 			 
-		    <div class="ho_productName"><a href="/trading/otc/index.html?FilterOn=42&amp;#FilterOn=42">&nbsp;&nbsp;&nbsp;Ethanol </a></div>
+		    <div class="ho_productName"><a href="/trading/otc/product-slate.html?FilterOn=42&amp;#FilterOn=42">&nbsp;&nbsp;&nbsp;Ethanol </a></div>
 		    
 		    </div>
 		
@@ -17718,7 +19421,7 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			    	<div class="GroupProductSubLink">
 			     
 			 
-		    <div class="ho_productName"><a href="/trading/otc/index.html?FilterOn=43&amp;#FilterOn=43">&nbsp;&nbsp;&nbsp;Natural Gas </a></div>
+		    <div class="ho_productName"><a href="/trading/otc/product-slate.html?FilterOn=43&amp;#FilterOn=43">&nbsp;&nbsp;&nbsp;Natural Gas </a></div>
 		    
 		    </div>
 		
@@ -17751,7 +19454,7 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			    	<div class="GroupProductSubLink">
 			     
 			 
-		    <div class="ho_productName"><a href="/trading/otc/index.html?FilterOn=44&amp;#FilterOn=44">&nbsp;&nbsp;&nbsp;Electricity </a></div>
+		    <div class="ho_productName"><a href="/trading/otc/product-slate.html?FilterOn=44&amp;#FilterOn=44">&nbsp;&nbsp;&nbsp;Electricity </a></div>
 		    
 		    </div>
 		
@@ -17784,7 +19487,7 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			    	<div class="GroupProductSubLink">
 			     
 			 
-		    <div class="ho_productName"><a href="/trading/otc/index.html?FilterOn=45&amp;#FilterOn=45">&nbsp;&nbsp;&nbsp;Refined Products </a></div>
+		    <div class="ho_productName"><a href="/trading/otc/product-slate.html?FilterOn=45&amp;#FilterOn=45">&nbsp;&nbsp;&nbsp;Refined Products </a></div>
 		    
 		    </div>
 		
@@ -17817,7 +19520,7 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			    	<div class="GroupProductSubLink">
 			     
 			 
-		    <div class="ho_productName"><a href="/trading/otc/index.html?FilterOn=46&amp;#FilterOn=46">&nbsp;&nbsp;&nbsp;Coal </a></div>
+		    <div class="ho_productName"><a href="/trading/otc/product-slate.html?FilterOn=46&amp;#FilterOn=46">&nbsp;&nbsp;&nbsp;Coal </a></div>
 		    
 		    </div>
 		
@@ -17850,7 +19553,7 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			    	<div class="GroupProductSubLink">
 			     
 			 
-		    <div class="ho_productName"><a href="/trading/otc/index.html?FilterOn=47&amp;#FilterOn=47">&nbsp;&nbsp;&nbsp;Freight </a></div>
+		    <div class="ho_productName"><a href="/trading/otc/product-slate.html?FilterOn=47&amp;#FilterOn=47">&nbsp;&nbsp;&nbsp;Freight </a></div>
 		    
 		    </div>
 		
@@ -17883,7 +19586,7 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			    	<div class="GroupProductSubLink">
 			     
 			 
-		    <div class="ho_productName"><a href="/trading/otc/index.html?FilterOn=48&amp;#FilterOn=48">&nbsp;&nbsp;&nbsp;Petrochemicals </a></div>
+		    <div class="ho_productName"><a href="/trading/otc/product-slate.html?FilterOn=48&amp;#FilterOn=48">&nbsp;&nbsp;&nbsp;Petrochemicals </a></div>
 		    
 		    </div>
 		
@@ -17916,7 +19619,7 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			    	<div class="GroupProductSubLink">
 			     
 			 
-		    <div class="ho_productName"><a href="/trading/otc/index.html?FilterOn=5#FilterOn=5">FX </a></div>
+		    <div class="ho_productName"><a href="/trading/otc/product-slate.html?FilterOn=5#FilterOn=5">FX </a></div>
 		    
 		    </div>
 		
@@ -17949,7 +19652,7 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			    	<div class="GroupProductSubLink">
 			     
 			 
-		    <div class="ho_productName"><a href="/trading/otc/index.html?FilterOn=51#FilterOn=51&amp;sortKey=7&amp;sortOrder=descending&amp;SortType=number&amp;PageStart=1&amp;vertindex=0">&nbsp;&nbsp;&nbsp;E-micros </a></div>
+		    <div class="ho_productName"><a href="/trading/otc/product-slate.html?FilterOn=51#FilterOn=51&amp;sortKey=7&amp;sortOrder=descending&amp;SortType=number&amp;PageStart=1&amp;vertindex=0">&nbsp;&nbsp;&nbsp;E-micros </a></div>
 		    
 		    </div>
 		
@@ -17982,7 +19685,7 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			    	<div class="GroupProductSubLink">
 			     
 			 
-		    <div class="ho_productName"><a href="/trading/otc/index.html?FilterOn=53#FilterOn=53&amp;sortKey=7&amp;sortOrder=descending&amp;SortType=number&amp;PageStart=1&amp;vertindex=0">&nbsp;&nbsp;&nbsp;Emerging Market </a></div>
+		    <div class="ho_productName"><a href="/trading/otc/product-slate.html?FilterOn=53#FilterOn=53&amp;sortKey=7&amp;sortOrder=descending&amp;SortType=number&amp;PageStart=1&amp;vertindex=0">&nbsp;&nbsp;&nbsp;Emerging Market </a></div>
 		    
 		    </div>
 		
@@ -18015,7 +19718,7 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			    	<div class="GroupProductSubLink">
 			     
 			 
-		    <div class="ho_productName"><a href="/trading/otc/index.html?FilterOn=52#FilterOn=52&amp;sortKey=7&amp;sortOrder=descending&amp;SortType=number&amp;PageStart=1&amp;vertindex=0">&nbsp;&nbsp;&nbsp;G10 </a></div>
+		    <div class="ho_productName"><a href="/trading/otc/product-slate.html?FilterOn=52#FilterOn=52&amp;sortKey=7&amp;sortOrder=descending&amp;SortType=number&amp;PageStart=1&amp;vertindex=0">&nbsp;&nbsp;&nbsp;G10 </a></div>
 		    
 		    </div>
 		
@@ -18048,7 +19751,7 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			    	<div class="GroupProductSubLink">
 			     
 			 
-		    <div class="ho_productName"><a href="/trading/otc/index.html?FilterOn=54#FilterOn=54">&nbsp;&nbsp;&nbsp;Other </a></div>
+		    <div class="ho_productName"><a href="/trading/otc/product-slate.html?FilterOn=54#FilterOn=54">&nbsp;&nbsp;&nbsp;Other </a></div>
 		    
 		    </div>
 		
@@ -18114,7 +19817,7 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			    	<div class="GroupProductSubLink">
 			     
 			 
-		    <div class="ho_productName"><a href="/trading/otc/index.html?FilterOn=7&amp;#FilterOn=7">Metals </a></div>
+		    <div class="ho_productName"><a href="/trading/otc/product-slate.html?FilterOn=7&amp;#FilterOn=7">Metals </a></div>
 		    
 		    </div>
 		
@@ -18147,7 +19850,7 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			    	<div class="GroupProductSubLink">
 			     
 			 
-		    <div class="ho_productName"><a href="/trading/otc/index.html?FilterOn=71&amp;#FilterOn=71">&nbsp;&nbsp;&nbsp;Base </a></div>
+		    <div class="ho_productName"><a href="/trading/otc/product-slate.html?FilterOn=71&amp;#FilterOn=71">&nbsp;&nbsp;&nbsp;Base </a></div>
 		    
 		    </div>
 		
@@ -18180,7 +19883,7 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			    	<div class="GroupProductSubLink">
 			     
 			 
-		    <div class="ho_productName"><a href="/trading/otc/index.html?FilterOn=72&amp;#FilterOn=72">&nbsp;&nbsp;&nbsp;Ferrous </a></div>
+		    <div class="ho_productName"><a href="/trading/otc/product-slate.html?FilterOn=72&amp;#FilterOn=72">&nbsp;&nbsp;&nbsp;Ferrous </a></div>
 		    
 		    </div>
 		
@@ -18213,7 +19916,7 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 			    	<div class="GroupProductSubLink">
 			     
 			 
-		    <div class="ho_productName"><a href="/trading/otc/index.html?FilterOn=73&amp;#FilterOn=73">&nbsp;&nbsp;&nbsp;Precious </a></div>
+		    <div class="ho_productName"><a href="/trading/otc/product-slate.html?FilterOn=73&amp;#FilterOn=73">&nbsp;&nbsp;&nbsp;Precious </a></div>
 		    
 		    </div>
 		
@@ -18392,9 +20095,9 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 		    <div class="ho_productName"><a href="/trading/real-estate/residential/SandP-case-shiller-home-price-index.html">S&amp;P/Case-Shiller Home Price Index (CME) </a></div>
 		    
 			    
+				  <div class="ho_productfoi">FUT | OPT</div>
 				  
 				  
-				  <div class="ho_productfoi">FUT</div>
 				  
 			    
 		    
@@ -19959,6 +21662,20 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
   </script>
 </div>
 </div>
+ <!--  ELICIT BEGIN - PLACE CODE BELOW FORM INPUT -->
+<script type="text/javascript">
+
+	// Load JS asynchronously
+	(function(d){
+		var js, id = 'elicit-js', ref = d.getElementsByTagName('script')[0];
+		if (d.getElementById(id)) {return;}
+		js = d.createElement('script'); js.id = id; js.async = true;
+		js.src = document.location.protocol + "//cmegroup.elicitapp.com/js.ashx?f=elicit.tag.web.learning.js";
+		ref.parentNode.insertBefore(js, ref);
+	}(document));
+
+</script>
+<!-- ELICIT END -->
 
 		<div></div>
 	</div>	
@@ -19999,8 +21716,10 @@ document.getElementById("onStateSelector").setAttribute("id",getClass());
 
 
 
+
 »
 Exchange Privacy Policy
+
 
 </div>
 <!--END BREADCRUMB-->
@@ -20331,709 +22050,6 @@ If you have any questions or comments regarding this Privacy Policy, or wish to 
 		
 		
 	
-		
-		
-			
-			
-		
-		
-	
-		
-		
-			
-			
-		
-		
-	
-		
-		
-			
-			
-		
-		
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-
--->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<script type="text/javascript">
-window.addEvent('domready', function(){
-var title = "Exchange Privacy Policy";
-var viewAllLink = "/market-data/delayed-quotes/commodities.html";
-var viewAllText = "More Delayed Quotes";
-var freeQuotesLink = "/market-data/datamine-historical-data/datamine.html";
-var freeQuotesDesc = "??? freeQuotesLink[1]/Description ???";
-
-$('widget_title').innerHTML = title;
-$('widget_href_link1').href = viewAllLink;
-$('widget_href_value_link1').innerHTML = viewAllText;
-$('widget_href_link2').href = freeQuotesLink;
-
-});
-</script>
-<div style="width:200px;">
-
-
-
-
-
-
-
-
-
-
-<script type="text/javascript">
-	addDOMLoadEvent(prodGroupOnDomReady);
-    var domain = "/CmeWS/md";
-     //Global Variables
- var dash = "-";
- var deepCopy = "false";
- var floorContractCd = "";
-
- Global.quotes.expiredMonths = new Array();
- Global.quotes.expiredMonthsNdx = new Array();
- Global.quotes.StreamCallBack = null;
- Global.quotes.Streaming = 1;	//1 = ON and 0 = OFF
- Global.quotes.StreamHTML = ['btnOFF','btnON'];
- Global.quotes.numOfAjaxCalls = 0;
- Global.quotes.refrshInterval = 60000;
- Global.quotes.RefreshFor = 10;
- Global.quotes.timer = null;
- Global.quotes.timer2 = null;
- Global.quotes.contractCDs = null;
- Global.quotes.underlyingContract = "";
- Global.quotes.selectedExpMonth = "";
- Global.quotes.hideHiLoLimit = "N";
- Global.quotes.hideOpen  = "N";
- Global.quotes.hideClose = "N";
- Global.quotes.selectedStrikeRange = "";
- Global.quotes.hideVolume= "N";
- Global.PageName = 'QuotesPage'; 
-
- function ToggleStream(status){
-	Global.quotes.Streaming = status;
-	if(status == 1){
-		var PrevStreaming = '0';
-		$j('#'+Global.quotes.StreamHTML[status]).show();
-		$j('#'+Global.quotes.StreamHTML[PrevStreaming]).hide();
-		Global.quotes.RefreshFor = 10;
-		Global.quotes.timer = self.setInterval(Global.quotes.StreamCallBack,Global.quotes.refrshInterval);
-		return;
-	}
-	if(status == 0){
-		var PrevStreaming = '1';
-		$j('#'+Global.quotes.StreamHTML[status]).show()
-		$j('#'+Global.quotes.StreamHTML[PrevStreaming]).hide();
-		Global.quotes.RefreshFor = 0;//11/09/2009 Changed from -1 to 0 in order to correct problem where update button does not work when auto update is turned off ('Turn auto-update' button displays 'On' when auto-update is off).
-		Global.quotes.timer = window.clearInterval(Global.quotes.timer);
-	}
- }
-
- //AJAX Call
- function sendRequest(onsuccess, onTimer){
-return;
-	if( Global.quotes.RefreshFor < 0 ){//2009/11/10 James Owens: modified from <= 0 to allow update of quotes table  when auto refresh is in off state
-		clearInterval(Global.quotes.timer);
-		ToggleStream(0);
-		return;		
-	}
-       Global.quotes.RefreshFor--;
- 
-	if ( document.getElementById('contractCDs') != null && 
- 	     document.getElementById('contractCDs').innerHTML != null )
-	     Global.quotes.contractCDs = document.getElementById('contractCDs').innerHTML + Global.quotes.underlyingContract;
-
-
- 	if ( Global.cme.productCd !== null && Global.cme.productCd.length > 0 && 
- 	     Global.cme.f !== null && Global.cme.f.length > 0 &&
- 	     Global.cme.venue !== null && Global.cme.venue.length > 0 &&
- 	     Global.quotes.contractCDs !== null && Global.quotes.contractCDs.length > 0 ){
-	    var currentTime = new Date();
-		
-	    var restful     = "/CmeWS/md/MDServer/V1/Venue/" + Global.cme.venue + "/Exchange/" + 
-	    				  Global.cme.exchangeCd + "/FOI/" + Global.cme.f + "/Product/" + Global.cme.productCd + 
-	    				  "?currentTime=" + currentTime.getTime()  + "&contractCDs=" + Global.quotes.contractCDs;
-	    Global.quotes.numOfAjaxCalls++;
-		
-	   	if (onsuccess == undefined){
-			if (Global.quotes.contractCDs.length>=1000){
-				cmeExecJSONPost(restful,processResponse);
-			}
-			else{
-				cmeExecJSON(restful,processResponse);
-			}
-		}
-	   	else{
-		   if (Global.quotes.contractCDs.length>=1000){
-	   		cmeExecJSONPost(restful,onsuccess);
-		   }
-		   else{
-	   		cmeExecJSON(restful,onsuccess);
-     	   }
-	   }
-	    //For Debug purposes
-	    changeIfNeeded2("RESTful",restful);
-	    changeIfNeeded2("Global.quotes.numOfAjaxCalls","Number of Ajax calls this client executed so far: <font color=#FF0000>" + Global.quotes.numOfAjaxCalls + "</font>");
-	    changeIfNeeded2("RESTfulPreText","<b>RESTful URL which has been Executed in the background:</b><br>");
-	   	onTimer();
- 	}
- } 
- 
- function sendRequestforProds(onsuccess, onTimer){
-	if( Global.quotes.RefreshFor <= 0 ){
-		clearInterval(Global.quotes.timer);
-		ToggleStream(0);
-		return;		
-	}
-       Global.quotes.RefreshFor--;
-
- 	if ( Global.cme.productCd != null && Global.cme.productCd.length > 0 && 
- 	     Global.quotes.contractCDs != null && Global.quotes.contractCDs.length > 0 ){
-
-	    var currentTime = new Date();
-	    var restful     = domain + "/MDServer/V1/Venue/" + Global.cme.venue + "/Exchange/" + 
-	    				  Global.cme.exchangeCd + "/FOI/" + Global.cme.f + "/Product/" + Global.cme.productCd + 
-	    				  "?currentTime=" + currentTime.getTime()  + "&contractCDs=" + Global.quotes.contractCDs;
-	    Global.quotes.numOfAjaxCalls++;
-		
-	   	if ( typeof onsuccess === 'undefined'){//used for Quotes data
-	   		cmeExecJSON(restful,processResponse);
-		}
-	   	else{//used to populate widget
-	   		cmeExecJSON(restful,onsuccess);
-		}
-	    //For Debug purposes
-	    changeIfNeeded2("RESTful",restful);
-	    changeIfNeeded2("Global.quotes.numOfAjaxCalls","Number of Ajax calls this client executed so far: <font color=#FF0000>" + Global.quotes.numOfAjaxCalls + "</font>");
-	    changeIfNeeded2("RESTfulPreText","<b>RESTful URL which has been Executed in the background:</b><br>");
-	   	onTimer();
- 	}
- }
- 
-
- function datafeedMDTime(){
-	if ( Global.quotes.timer == null ){
-		Global.quotes.StreamCallBack = "sendRequest(processResponse,datafeedMDTime)";
-		Global.quotes.timer = self.setInterval("sendRequest(processResponse,datafeedMDTime)",Global.quotes.refrshInterval);
-	}
-
- }
- 
- function productMDTime(){
-	if ( Global.quotes.timer == null ){
-		Global.quotes.StreamCallBack = "sendRequestforProds(processProdGroupResponse,productMDTime)";
-		Global.quotes.timer = self.setInterval("sendRequestforProds(processProdGroupResponse,productMDTime)",Global.quotes.refrshInterval);
-	}
- } 
- 
- //AJAX Call
- function filterOptionsContracts(){
-    currentTime 			= new Date();
-    filteroutCallPut 		= "";
-    Global.quotes.selectedExpMonth 		= getSelectedValueNdx("ExpMonths");
-    Global.quotes.selectedStrikeRange 	= getSelectedValueNdx("StrikeRange");
-    if ( document.getElementById("CallCheckBox").checked == false)
-    	filteroutCallPut ="C";
-    if ( document.getElementById("PutCheckBox").checked == false)
-    	filteroutCallPut += "P";
-    //build RESTful URI
-    var restful     = "/CmeWS/mvc/xsltTransformer.do?xlstDoc=/XSLT/md/MDFuturesContractTable_quoteoption.xsl&"+
-                     "url=/da/Products/V1/ProductInfo/Venue/" + Global.cme.venue + "/Exchange/" + Global.cme.exchangeCd + 
-                     "/FOI/OPT/Product/" + gup('productCd') +"/OptionType/"+ $j('#productTypeSelect').val() + "&currentTime=" + currentTime.getTime() +
-                     "&filteroutCallPut=" + filteroutCallPut +"&expMonth=" + Global.quotes.selectedExpMonth +
-                     "&strikeRange=" 	+ Global.quotes.selectedStrikeRange 	+ 
-                     "&hideHiLoLimit=" 	+ Global.quotes.hideHiLoLimit 		+   "&hideClose=" 	+ Global.quotes.hideClose     +
-                     "&hideOpen=" 		+ Global.quotes.hideOpen				+   "&hideVolume=" 	+ Global.quotes.hideVolume;
-
-      cmeAJAX(restful,"mdTable",cmeLoading,optOnDomReady);
-
- } 
- 
-  //clear refreshing the screen
- function checkout(){
-	clearInterval(Global.quotes.timer);
-	Global.quotes.timer=null;	
-	Global.quotes.timer2=null;	
- }
- function processResponse(tmp){
-  	processMDResponse(tmp);
- } 
-
- var optRegExp1 = new RegExp('(;)|(\s)*','gi');
-
- function optOnDomReady(){
-	var EWR1 = new ExecuteWhenReady({
-		Execute : function(){//alert(Global.quotes.contractCDs);
-			//Global.quotes.contractCDs = document.getElementById('contractCDs').innerHTML + Global.quotes.underlyingContract;
-			if(location.pathname.match(/_options.html/gi) && location.pathname.match(/_quotes_/gi)){
-				getGlobalVariables();
-			}
-			if ( Global.quotes.contractCDs.length > 0 ){
-				if(  typeof hideColumns === 'function'){
-					hideColumns();
-				}
-				sendRequest(processResponse,datafeedMDTime);
-			}
-			//alert("ExpMonths"+Global.quotes.expiredMonthsNdx.length+"|"+Global.quotes.expiredMonths.length+"|"+Global.quotes.selectedExpMonth.length);
-			if(Global.cme.exchangeCd !== 'XALL'){
-				if( Global.quotes.expiredMonthsNdx.length === 0 || Global.quotes.expiredMonths.length === 0 ){
-					populateExpirationMonth();
-				}
-				else{
-					populateDropTownListWithIndex("ExpMonths",Global.quotes.expiredMonthsNdx,Global.quotes.expiredMonths,Global.quotes.selectedExpMonth);
-				}
-			}
-		},
-		When : function(){
-			//populateDropTownListWithIndex("ExpMonths",Global.quotes.expiredMonthsNdx,Global.quotes.expiredMonths,Global.quotes.selectedExpMonth);
-			return Global.quotes.contractCDs !== null || Global.quotes.underlyingContract !== null;
-		},
-		onfailure: function(){
-			//alert('Failed in Datafeed-JS-SSI.js - contractCDs = '+Global.quotes.contractCDs);
-		},
-		CheckEvery : 1000,	//Time interval to check for condition
-		NumofAttempts : 3	//Number of times to do the checking
-	});
-
-}
-
- function futOnDomReady(){
-var EWR1 = new ExecuteWhenReady({
-	Execute : function(){
-		//Global.quotes.contractCDs = Global.quotes.underlyingContract;
-		if ( Global.quotes.contractCDs.length > 0 ){
-	  		sendRequest(processResponse,datafeedMDTime);
-		}
-	},
-	When : function(){
-			return Global.quotes.underlyingContract !== null;
-		},
-	onfailure: function(){
-		//alert(Global.quotes.underlyingContract);
-	},
-	CheckEvery : 1000,	//Time interval to check for condition
-	NumofAttempts : 3	//Number of times to do the checking
-});
- }
- 
- function prodGroupOnDomReady(){
- /*
- var EWR1 = new ExecuteWhenReady({
-	Execute : function(){
-		sendRequestforProds(processProdGroupResponse,productMDTime);
-	},
-	When : function(){
-			return ($j('#mdProductsTable').length > 0 && $j('#mdProductsTable').html() !== '');
-		},
-	onfailure: function(){
-		//alert(Global.cme.f);
-	},
-	CheckEvery : 1000,	//Time interval to check for condition
-	NumofAttempts : 3	//Number of times to do the checking
- });
-*/ 
- }
-
- function whichfotORopt(){
-var EWR1 = new ExecuteWhenReady({
-	Execute : function(){
-		if(Global.cme.foi === 'FO'){
-			sendRequestforProds(processProdGroupResponse,productMDTime);
-		}
-		if(Global.cme.f === 'FUT'){
-			futOnDomReady();
-			return;
-		}
-		if(Global.cme.f !== 'FUT'){
-			optOnDomReady();
-			return;
-		}
-	},
-	When : function(){
-			return Global.cme.f !== null;
-		},
-	onfailure: function(){
-		//alert(Global.cme.f);
-	},
-	CheckEvery : 1000,	//Time interval to check for condition
-	NumofAttempts : 3	//Number of times to do the checking
-});
- }
-
-//Mike And Srikant
-function populateContractMonthDropDown(){
-	if (Global.cme.productCd !== null && Global.cme.productCd !== '' && $j('#MonthDropDown').length > 0){
-		var my_Ajax = $j.ajax({
-			type: "GET",
-			url: '/CmeWS/mvc/xsltTransformer.do?xlstDoc=/XSLT/md/MDFuturesContractsDropDown.xsl&url=/da/Products/V1/ProductInfo/Venue/'+Global.cme.venue+'/Exchange/'+Global.cme.exchangeCd+'/FOI/FUT/Product/'+gup('underlyingContract'),
-			dataType: "html",
-			success: function(html){
-				var r = new RegExp('class="expMonth'+gup('expMonth')+'"',"gi");
-				html = html.replace(r,'class="expMonth'+gup('expMonth')+'" selected');
-				$j('#MonthDropDown').html(html);
-				OptionMonthDD();
-			}
-		});
-	}
-}
-
-function OptionMonthDD(){
-	var localtimer;
-	var urlSL = location.search;
-	if($j('#MonthDropDown').html() !== ''){		
-		//clearTimeout(localtimer);
-		HrefFactory('&expMonth='+gup('expMonth'));
-		//SetDropDownSelectedValue('MonthDropDown',"expMonth"+gup("expMonth"));
-	}
-	else{
-		localtimer = setTimeout("OptionMonthDD()",1000);
-	}
-};
-
-function reloadPagewithSelectedContract(elm){
-	location.href = location.pathname  +"?"+ $j(elm).val();
-} 
-
-function SetDropDownSelectedValue(dropdown,optclassvalue){
-	var x = document.getElementById(dropdown);
-
-	for(var i=0; i < x.options.length; i++){
-		var c = x.options[i];
-		var cn = c.className;
-		if(c == optclassvalue){
-			x.options[i].selected = true;
-			break;
-		}
-	}
-}
-
-function HrefFactory(ToAdd){
-	var HrefToChange = ['optionsLink'];
-
-	for(var ij=0; ij < HrefToChange.length; ij++){
-		if(document.getElementById(HrefToChange[ij])){
-			var NewHref = document.getElementById(HrefToChange[ij]).href;
-			document.getElementById(HrefToChange[ij]).href = NewHref + ToAdd;
-		}
-	}
-}
-
-function populateunderlierTable(){
-	var v = Global.cme.venue;
-	var e = Global.cme.exchangeCd;
-	var c = Global.cme.productCd;
-	//var con = gup('productCd');
-	var con = gup('floorContractCd');
-	var hideHiLow = Global.cme.hideHiLow;
-	var hideOpenClose = Global.cme.hideOpenClose;
-	var uri = "/CmeWS/mvc/xsltTransformer.do?xlstDoc=/XSLT/md/MDFuturesContractsTable_Underlier.xsl&url=/da/Products/V1/Contract/"+con+"/Venue/"+v+"/Exchange/"+e+"/FOI/FUT/Product/"+c + "&"+ Global.cme.hideHiLow+""+Global.cme.hideOpenClose+"&"+Global.cme.querystring;
-
-	Ajaxslt({"url":uri,"elementId":"futureunderlier"});
-}
-
-function populateqouteTable(optype){
-	var v = Global.cme.venue;
-	var e = Global.cme.exchangeCd;
-	var c = Global.cme.productCd;
-	var con = gup('productCd');
-	var hideHiLow = Global.cme.hideHiLow;
-	var hideOpenClose = Global.cme.hideOpenClose;
-	var pt = optype || Global.cme.defaultType;
-	var currentTime = new Date();
-	//var uri = "/CmeWS/mvc/xsltTransformer.do?xlstDoc=/XSLT/md/MDFuturesContractTable_quoteoption.xsl&url=/da/Products/V1/ProductInfo/Venue/"+v+"/Exchange/"+e+"/FOI/OPT/Product/" + con + "/OptionType/" + pt + "&"+ Global.cme.hideHiLow+""+Global.cme.hideOpenClose+"&"+Global.cme.querystring;
-	var uri = "/CmeWS/mvc/xsltTransformer.do?xlstDoc=/XSLT/md/MDFuturesContractTable_quoteoption.xsl&url=/da/Products/V1/ProductInfo/Venue/"+v+"/Exchange/"+e+"/FOI/OPT/Product/" + con + "/OptionType/" + pt + "&currentTime=" + currentTime.getTime() +"&expMonth=" + gup("expMonth") + "&strikeRange=ATM&" 	+ Global.cme.hideHiLow+""+Global.cme.hideOpenClose+"&"+Global.cme.querystring;
-
-	Ajaxslt({"url":uri,"elementId":"mdTable"});
-}
-
-function populateExpirationMonth(){
-	var EWR1 = new ExecuteWhenReady({
-		Execute : function(){//alert(Global.quotes.contractCDs);
-			var xsltpath = '/XSLT/md/ExpirationMonthQuotePage.xsl';
-			xmlpath = '/CmeWS/da/Contracts/V1/ContractMonths/Venue/'+Global.cme.venue+'/Exchange/'+Global.cme.exchangeCd+'/FOI/OPT/Contract/'+gup('productCd');
-		 	var uri = '/CmeWS/mvc/xsltTransformer.do?xlstDoc='+xsltpath+'&url='+xmlpath;		
-			$j.ajax({
-				url: uri,
-				type:'get',
-				date: 'html',
-				success: function(html){
-					$j('#ExpMonths').parent().html(html);
-					var ergexpgi = new RegExp('<option','gi');
-					if(!html.match(ergexpgi)){
-						//$j('div.error').remove();
-						//$j('#mdTable').before('<div style="padding-top:20px;" class="error">This page is currently experiencing technical difficulties. To report this problem, please contact us via the feedback link.<div style="display:none;">1 Failed:populateExpirationMonth in quotes.js</div></div>');						
-						var params = {
-							"id":"mdTable",
-							"functionName":"populateExpirationMonth() - success",
-							"fileName":"quotes.js"
-						}
-						GlobalErrorMsg(params);
-						$j('#mdTable').hide();
-					}
-				},
-				error: function(){
-					//$j('div.error').remove();
-					//$j('#mdTable').before('<div style="padding-top:20px;" class="error">This page is currently experiencing technical difficulties. To report this problem, please contact us via the feedback link.<div style="display:none;">2 Failed:populateExpirationMonth in quotes.js</div></div>');
-					var params = {
-						"id":"mdTable",
-						"functionName":"populateExpirationMonth() - error",
-						"fileName":"quotes.js"
-					}
-					GlobalErrorMsg(params);
-					$j('#mdTable').hide();
-				}		
-			});
-		},
-		When : function(){
-			return $j('#mdTable').html() !== '' && $j('#ExpMonths option').length === 0;
-		},
-		onfailure: function(){
-			//$j('div.error').remove();
-			//$j('#mdTable').before('<div style="padding-top:20px;" class="error">This page is currently experiencing technical difficulties. To report this problem, please contact us via the feedback link.<div style="display:none;">3 Failed:populateExpirationMonth in quotes.js</div></div>');
-			var params = {
-				"id":"mdTable",
-				"functionName":"populateExpirationMonth() - onfailure",
-				"fileName":"quotes.js"
-			}
-			GlobalErrorMsg(params);
-			$j('#mdTable').hide();
-		},
-		CheckEvery : 500,	//Time interval to check for condition
-		NumofAttempts : 12	//Number of times to do the checking
-	});
-}
-
-function getGlobalVariables(){
-	Global.quotes.underlyingContract 	= $j("#GlobalquotesunderlyingContract").html();
-	Global.quotes.contractCDs		= $j("#GlobalquotescontractCDs").html() + Global.quotes.underlyingContract;
-	Global.quotes.expiredMonths		= eval($j("#GlobalquotesexpiredMonths").html());
-	Global.quotes.expiredMonthsNdx	= eval($j("#GlobalquotesexpiredMonthsNdx").html());
-	Global.quotes.selectedExpMonth  	= $j("#GlobalquotesselectedExpMonth").html();
-	Global.quotes.hideHiLoLimit     	= $j("#GlobalquoteshideHiLoLimit").html();
-	Global.quotes.hideOpen     		= $j("#GlobalquoteshideOpen").html();
-	Global.quotes.hideClose     	= $j("#GlobalquoteshideClose").html();
-}
-
-$j(document).ready( function(){
-	if(location.pathname.match(/_options.html/gi)){
-	populateunderlierTable();
-	populateqouteTable();
-
-	var EWR2 = new ExecuteWhenReady({
-		Execute : function(){
-			getGlobalVariables();
-			populateContractMonthDropDown();
-			whichfotORopt();
-		},
-		When : function(){
-				return $j("#GlobalquotesunderlyingContract").length > 0 && $j("#GlobalquotescontractCDs").length > 0;
-			},
-		onfailure: function(){
-			//alert($j("#GlobalquotesunderlyingContract").length);
-		},
-		CheckEvery : 500,	//Time interval to check for condition
-		NumofAttempts : 12	//Number of times to do the checking
-	});
-	}
-	else{
-		whichfotORopt();	
-	}
-}); 
-</script>
-
-
-
- 
-
-<table xmlns:xs="http://www.w3.org/2001/XMLSchema" id="mdProductsTable" class="WidgetProductTable">
-   <tbody><tr>
-      <td colspan="100" class="RightTitleBar">Delayed Quotes: <span id="widget_title"></span></td>
-   </tr>
-   <tr>
-      <th class="border_Bottom widgetTH text_align_left">Product</th>
-      <th class="border_Bottom widgetTH">Month</th>
-      <th class="border_Bottom widgetTH">Last</th>
-      <th class="border_Bottom widgetTH">Change</th>
-   </tr>
-   <tr id="ESZ1">
-      <td class="border_Top widgetTD"><a traget="_blank" href="/trading/equity-index/us-index/e-mini-sandp500.html">E-mini S&amp;P 500 (Dollar)</a></td>
-      <td class="border_Top widgetTD">Dec 11</td>
-      <td class="border_Top widgetTD text_align_right">-</td>
-      <td class="border_Top widgetTD text_align_right colorFlicker">-</td>
-   </tr>
-   <tr id="6EZ1">
-      <td class="border_Top widgetTD"><a traget="_blank" href="/trading/fx/g10/euro-fx.html">EUR/USD</a></td>
-      <td class="border_Top widgetTD">Dec 11</td>
-      <td class="border_Top widgetTD text_align_right">-</td>
-      <td class="border_Top widgetTD text_align_right colorFlicker">-</td>
-   </tr>
-   <tr id="ZQX1">
-      <td class="border_Top widgetTD"><a traget="_blank" href="/trading/interest-rates/stir/30-day-federal-fund.html">30-Day Federal Funds</a></td>
-      <td class="border_Top widgetTD">Nov 11</td>
-      <td class="border_Top widgetTD text_align_right">-</td>
-      <td class="border_Top widgetTD text_align_right colorFlicker">-</td>
-   </tr>
-   <tr>
-      <td colspan="100" class="border_Top widgetTD">
-         <div class="widgetArroaLink"><a id="widget_href_link1" href=""><span id="widget_href_value_link1">VIEW ALL DELAYED QUOTES</span></a></div>
-      </td>
-   </tr>
-   <tr>
-      <td colspan="100" class="border_Top">
-         <div style="text-align:right;font:10px arial;">Delayed at least 20 minutes<br><div id="prgptimestamp"></div>
-         </div>
-      </td>
-   </tr>
-   <tr>
-      <td colspan="100"><a id="widget_href_link2" href="">
-            <div class="widgetButton"></div></a></td>
-   </tr>
-   <tr>
-      <td colspan="100"><a id="widget_href_link3" href="/market-data/real-time-quotes/overview.html">
-            <div id="delayedQuotesButtonDiv" style=" background:url(/images/btn_org-GetRealTimeQuotes.gif) no-repeat scroll top left; width:200px; height:26px; "></div></a></td>
-      <!-- Modified 20100209 by James Owens. The first quotes link content and href are partially created by JS hardcoded in the JSP and unable to handle more than 1 link. To add the new link, I avoided that complex hardcoding process and instead went with a simpler hardcoding process of setting the values here in the XSL file.-->
-   </tr>
-</tbody></table><script xmlns:xs="http://www.w3.org/2001/XMLSchema" type="text/javascript">
-		    Global.cme.productCd 			= "NA";
-		    Global.cme.foi					="FO";
-			Global.cme.f					="FO";
-			Global.cme.venue				="G";
-		    Global.cme.exchangeCd			="XALL";
-          	Global.quotes.contractCDs		= "ESZ1,6EZ1,ZQX1,";
-          	</script>
-
-
-
-
-
-<!--
-<table class="WidgetProductTable">
-<tr>
-<td colspan="100"><a href=""><div class="widgetButton"></div></a></td>
-</tr>
-</table>
--->
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
 
 
 
@@ -21192,112 +22208,6 @@ $j(document).ready( function(){
 </div>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-				
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-		
-		
-		
-	
-
-	
-	
-		
-		
-		
-		
-		
-	
-	
- 		<div class=" padTop5">
-			<a href="/company/history/magazine/index.html"><img src="/images/Banner_CME_Magazine_201x201_alt.jpg" width="201" height="201" border="0" alt=""></a>
-			<br><br>
-		</div>
-	
-	
-
-
-
-
-
-				
-
-
-
-
 <div>&nbsp;</div>
 </div>
 <!--END RIGHT NAVIGATION-->
@@ -21368,17 +22278,17 @@ $j(document).ready( function(){
       <p class="footer_header">Contact Us</p>
       <p class="footer_text"><span>CME Group/Chicago HQ<br>
         Main Switchboard</span><br>
-        Local: 312-930-1000 <br>
-        Toll Free: 866-716-7274<br>
+        Local: +1 312 930 1000 <br>
+        Toll Free: +1 866 716 7274<br>
         <br>
         <a href="/tools-information/contacts-list.html#global" rel="nofollow">Global Customer Contacts</a><br>
         <br>
         <span>Customer Service:</span><br>
         Product inquiries, website issues,<br>
         and specific questions</p>
-      <p class="footer_text">Phone: 312-930-2316<br>
+      <p class="footer_text">Phone: +1 312 930 2316<br>
 
-        Toll Free: 800-331-3332 <br>
+        Toll Free: +1 800 331 3332 <br>
         E-mail: <a href="mailto:info@cmegroup.com" rel="nofollow">info@cmegroup.com</a><br>
       </p>
       <p class="footer_text">
@@ -21395,16 +22305,11 @@ $j(document).ready( function(){
       <p class="footer_text"><a onclick="_gaq.push(['_trackPageview', '/outgoing/footer/twitter.com']);" href="http://twitter.com/CMEGroup" target="_blank" title="Twitter" class="TwitterIcon">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>&nbsp;&nbsp;<a onclick="_gaq.push(['_trackPageview', '/outgoing/footer/twitter.com']);" href="http://twitter.com/CMEGroup" target="_blank">Follow CME Group on Twitter</a></p>
 
       <p class="footer_text"><a onclick="_gaq.push(['_trackPageview', '/outgoing/footer/facebook.com']);" href="http://www.facebook.com/CMEGroup" target="_blank" title="Facebook" class="FacebookIcon">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>&nbsp;&nbsp;<a onclick="_gaq.push(['_trackPageview', '/outgoing/footer/facebook.com']);" href="http://www.facebook.com/CMEGroup" target="_blank">Become a fan of CME Group on Facebook</a></p>
+      <p class="footer_text"><span title="LinkedIn" class="LinkedInIcon">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>&nbsp;&nbsp;<a onclick="_gaq.push(['_trackPageview', '/outgoing/footer/CME_page_linkedin.com']);" href="http://www.linkedin.com/company/cme-group" target="_blank" rel="nofollow">Get LinkedIn</a></p>
+      <p class="footer_text"><span title="Google+" class="GooglePlusIcon"><img src="/images/1x1trans.gif" height="14" width="14"></span>&nbsp;&nbsp;<a onclick="_gaq.push(['_trackPageview', '/outgoing/footer/plus.google.com']);" href="https://plus.google.com/u/0/?hl=en&amp;tab=wX#103746993828734713990/posts" target="_blank" rel="nofollow">Google Plus</a></p>
       <p class="footer_text"><a href="/rss/index.html"><img src="/images/footer_icon_rss.png" width="15" height="15" align="top" alt="RSS"></a>&nbsp;&nbsp;<a href="/rss/index.html" rel="nofollow">View all RSS Feeds</a></p>
-      <p class="footer_text"><span title="LinkedIn" class="LinkedInIcon">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>&nbsp;&nbsp;<strong style="font-size:11px;">LinkedIn® Groups:</strong></p>
-      <ul class="footer_linkedIn">
-        <li style="padding-bottom: 3px;">- <a onclick="_gaq.push(['_trackPageview', '/outgoing/footer/Careers_linkedin.com']);" href="http://www.linkedin.com/groups?gid=1191157&amp;trk=anetsrch_name&amp;goback=.gdr_1254501228347_1" target="_blank" rel="nofollow">Careers in the Futures Industry</a></li>
-        <li style="padding-bottom: 3px;">- <a onclick="_gaq.push(['_trackPageview', '/outgoing/footer/Journalist_bloggers_linkedin.com']);" href="http://www.linkedin.com/groups?gid=1920409&amp;trk=anetsrch_name&amp;goback=.gdr_1254501228347_1" target="_blank" rel="nofollow">Journalist and Bloggers</a></li>
-	<li style="padding-bottom: 3px;">- <a onclick="_gaq.push(['_trackPageview', '/outgoing/footer/Ags_linkedin.com']);" href="http://www.linkedin.com/groups?mostPopular=&amp;gid=3300386&amp;trk=anetsrch_name&amp;goback=.gdr_1254501228347_1" target="_blank" rel="nofollow">Agricultural Commodity Products</a></li>
-	<li style="padding-bottom: 3px;">- <a onclick="_gaq.push(['_trackPageview', '/outgoing/footer/Equity_Index_linkedin.com']);" href="http://www.linkedin.com/groups?gid=2780646&amp;trk=hb_side_g" target="_blank" rel="nofollow">Equity Index Products</a></li>
-	<li style="padding-bottom: 3px;">- <a onclick="_gaq.push(['_trackPageview', '/outgoing/footer/Forex_linkedin.com']);" href="http://www.linkedin.com/groups?gid=1813512&amp;trk=anetsrch_name&amp;goback=.gdr_1254501228347_1" target="_blank" rel="nofollow">Forex Products</a></li>
-        <li style="padding-bottom: 3px;">- <a onclick="_gaq.push(['_trackPageview', '/outgoing/footer/Interest_Rates_linkedin.com']);" href="http://www.linkedin.com/groups?gid=2043461&amp;trk=anetsrch_name&amp;goback=.gdr_1254501228347_1" target="_blank" rel="nofollow">Interest Rates Products</a></li>
-      </ul>
+      <p class="footer_text"><a href="/newsletter/web2lead/web2sf-old.html"><img src="/images/subscription-icon.jpg" width="15" height="15" align="top" alt="subscribe"></a>&nbsp;&nbsp;<a href="/newsletter/web2lead/web2sf-old.html" rel="nofollow">Subscription Center</a></p>
+      	  <div style="padding-top: 5px;"><a href="http://www.cmegroup.com/mobile/?utm_source=cme-footer&amp;utm_medium=banner&amp;utm_content=20120220&amp;utm_campaign=mobile-app"><img src="/images/mobile.jpg" alt="Mobile App" width="161" height="52"></a></div>
 	  <div style="padding-top: 5px;"><a href="/company/idea-exchange.html"><img src="/images/ideaExchangeFooter.jpg" alt="Idea Exchange" width="161" height="53"></a></div>
     </div>
     <!--//end #footer_col2//-->
@@ -21414,6 +22319,7 @@ $j(document).ready( function(){
       <p class="footer-int"><a href="/international/german/about/global-leadership.html" rel="nofollow">Deutsch</a></p>
       <p class="footer-int"><a href="/international/italian/about/global-leadership.html" rel="nofollow">Italiano</a></p>
       <p class="footer-int"><a href="/international/spanish/about/global-leadership.html" rel="nofollow">Español</a></p>
+      <p class="footer-int"><a href="/pt/" rel="nofollow">Portugûes</a></p>
       <p class="footer-int"><a href="/cn-s/"><img src="/international/images/langlink-simpchinese.jpg" alt="CME Group simplified Chinese" width="58" height="14" align="top" class="padTop2" title="Chinese Simplified"></a>&nbsp;<a href="http://www.cmegroup.com/cn-s/">(Chinese Simplified)</a></p>
       <p class="footer-int"><a href="/cn-t/"><img src="/international/images/langlink-tradchinese.jpg" alt="CME Group traditional Chinese" width="59" height="14" align="top" class="padTop2" title="Chinese Traditional"></a>&nbsp;<a href="http://www.cmegroup.com/cn-t/">(Chinese Traditional)</a></p>
       <p class="footer-int"><a href="/international/japanese/about/global-leadership.html" rel="nofollow"><img src="/images/intl_japan.gif" align="top" class="padTop2" alt="Japanese" title="Japanese"></a>&nbsp;<a href="/international/japanese/about/global-leadership.html" rel="nofollow">(Japanese)</a></p>
@@ -21432,108 +22338,14 @@ $j(document).ready( function(){
       <p class="footer-partner"><a href="/international/index.html?tabs=3#partnerships">Subsidiaries &amp; Other Ventures </a></p>
     </div>
   </div>
-  <div class="disclaimer"><a href="/company/careers/index.html" rel="nofollow">Careers@cmegroup</a> | <a href="/site-map.html">Site Map</a> | <a href="/disclaimer.html" rel="nofollow">Disclaimer</a> | <a href="/privacy-policy.html" rel="nofollow">Privacy Policy</a> <span style="float:right;">© 2011 CME Group Inc.</span></div>
+  <div class="disclaimer"><a href="/company/careers/index.html" rel="nofollow">Careers@cmegroup</a> | <a href="/site-map.html">Site Map</a> | <a href="/disclaimer.html" rel="nofollow">Disclaimer</a> | <a href="/privacy-policy.html" rel="nofollow">Privacy Policy</a> <span style="float:right;">© 2012 CME Group Inc.</span></div>
 </div>
 </div>
 <!-- These files throw the 'Operation Aborted' error in IE7. They also appear to NOT be used anywhere.
 <script type="text/javascript" src="/javascript/daughter-window.js"></script>
 <script type="text/javascript" src="/javascript/dhtml-reports.js"></script>
 -->
-<script type="text/javascript">
 
-function restyleformobile(){
-		$j('body').append('<meta name="viewport" content="width=device-width,minimum-scale=1.0, maximum-scale=1.0" />');
- 		document.write('<style type="text/css">#content_margin{display:none;} 			#TopHeader,#footer{display:none;width:100%;padding:0px;margin:0px;} 			.centeredBodyFullWidth{background:#ffffff;font-size:14px;} 			#content_main,#content_main div,#CenterColumn1,.centeredBody2,.centeredBody1{width:100%;font-size:14px;} 			#CenterColumn1 div,.centeredBody2 div,.centeredBody1 div,#tab-container_sm,#tab-container_sm div{width:100%;font-size:14px;} 			#RightColumn1,.news_button_on,.news_button_off,#contractCDs{display:none !important;} 			*body{font-size:14px;} 			body{padding:0px;width:100%;} 			#Container{margin:0px;width:100%;} 			.header_main{display:table;background:-webkit-gradient(linear,left bottom ,left top,from(#C5E5F2),to(#ffffff));background:-moz-linear-gradient(top, #ffffff, #C5E5F2);width:100%;padding:8px 0px 8px 0px;} 			 			/*FOOTER*/ 			.footerText{font-size:10px;} 			.footer_main{display:table;background:-webkit-gradient(linear,left top ,left bottom,from(#C5E5F2),to(#ffffff));background:-moz-linear-gradient(bottom, #ffffff, #C5E5F2);width:100%;padding:10px 0px 10px 0px;} 			.TwitterIcon{background:url("/images/sprites.gif") no-repeat 0px -330px;width:14px;height:14px;border:0px;} 			.FacebookIcon{background:url("/images/sprites.gif") no-repeat 0px -360px;width:14px;height:14px;border:0px;} 			.LinkedInIcon{background:url("/images/sprites.gif") no-repeat 0px -390px;width:14px;height:14px;border:0px;} 			 			.boldt{font-weight:bold;} 			.p0{border-bottom:1px solid #ccc;} 			.p1{border-bottom:1px solid #ccc;} 			.tr_full{display:block;width:480px;} 			.td_2third{display:block;width:66%;} 			.td_half{display:block;width:49%;} 			.td_third{display:block;width:33%;} 			.td_3quart{display:block;width:74%;} 			.td_quart{display:block;width:24%;} 			.floatleft{float:left;} 			.floatright{float:right;} 			.paddingtop10{padding-top:10px;} 			.nowrapping{} 		  #table_{overflow-x:scroll !important;width:100% !important;display:block !important;} .ProductTable{width:720px !important;} .ProductTable td{padding:0px !important;} #fancy_overlay,#fancy_loading,#fancy_outer,#fancy_title,#shim,#cme_print_logo{display:none !important;}	#oo_tab,.oo_tab_right,.breadcrumb,#user_center{display:none !important;} 			p,#UpdateSection table,#content_sidebar,#tabTables table{clear:both !important;width:100% !important;} #content div{width:100% !important;} </style>');
-		
-		
-		var EWR12 = new ExecuteWhenReady({
-			Execute : function(){
-				$j('#oo_tab').hide();
-			},
-			When : function(){
-				return ( $j('#oo_tab').length > 0 );
-			},
-			onfailure: function(){
-				//alert('failed-1');
-			},
-			CheckEvery : 10,	
-			NumofAttempts : 10000	
-		});
-
-		$j.ajax({
-			type: "GET",
-			url: "/m/header.html",
-			dataType: 'xhtml',
-			success: function(msg){
-				var EWR12 = new ExecuteWhenReady({
-					Execute : function(){
-						$j('#TopHeader').html(msg);
-						$j('#TopHeader').show();
-						$j('#TopHeader').css({'margin':'0','height':'50px'});
-					},
-					When : function(){
-						return ( $j('#TopHeader').length > 0 );
-					},
-					onfailure: function(){
-						//alert('failed-2');
-					},
-					CheckEvery : 10,	
-					NumofAttempts : 10000	
-				});			
-			}
-		});
-		
-		$j.ajax({
-			type: "GET",
-			url: "/m/footer.html",
-			dataType: 'xhtml',
-			success: function(msg){//alert(msg);
-				var EWR12 = new ExecuteWhenReady({
-					Execute : function(){//alert(msg);
-						$j('#footer').html(msg);
-						$j('#footer').show();
-					},
-					When : function(){
-						return ( $j('#footer').length > 0 );
-					},
-					onfailure: function(){
-						//alert('failed-3');
-					},
-					CheckEvery : 10,	
-					NumofAttempts : 10000	
-				});				
-			}
-		});
-
-}
-
-(function(){
-	var uagent = navigator.userAgent;
-	if(uagent.match(/applewebkit/gmi) && !uagent.match(/chrome/gmi) && uagent.match(/mobile/gmi)){
-		var name = 'view';
-		name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
-		var regexS = "[\\?&]"+name+"=([^&#]*)";
-		var regex = new RegExp( regexS );
-		var results = regex.exec( window.location.href );
-		var res = "";
-		if( results == null )
-			res = "";
-		else
-			res = results[1];	
-		if(res !== 'disablemobile'){
-			
-			if($j('#article_content').length > 0){
-				restyleformobile();
-			}
-			
-		}	
-	}
-	if(gup('viewas') === 'mobile'){
-		restyleformobile();
-	}
-})()
-
-</script>
 <!-- This code adds the OO files to just before the end of the BODY tag 
 BEGIN: OnlineOpinion v5.1.7
 * The following code is Copyright 1998-2011 Opinionlab, Inc.
@@ -21542,7 +22354,7 @@ BEGIN: OnlineOpinion v5.1.7
 * http://www.opinionlab.com
 -->
 <!-- MAIN OL STYLESHEET -->
-<!-- link rel="stylesheet" type="text/css" href="/onlineopinionV5/oo_style.css" / -->
+<link rel="stylesheet" type="text/css" href="/onlineopinionV5/oo_style.css">
 
 <script type="text/javascript">
 $j(document).ready(function() {
@@ -21555,7 +22367,7 @@ $j(document).ready(function() {
 		var a = document.createElement('script');
 		a.src = v;
 		a.id = 'tag'+ i;
-		if (a.src === '/onlineopinionV5/oo_conf.js') {
+		if (a.src.match(/\/oo\_conf\.js$/i) !== null) {
 			var EWR_loadOOFileAfterOOoObject = new ExecuteWhenReady({
 				Execute : function(){
 					document.body.appendChild(a);
