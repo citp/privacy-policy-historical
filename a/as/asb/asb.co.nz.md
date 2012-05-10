@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asb.co.nz privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011214546id_/https%3A//www.asb.co.nz/story335.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asb.co.nz privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510195925id_/https%3A//www.asb.co.nz/story335.aspx) for the most accurate reproduction.*
 
 # Privacy - ASB Bank New Zealand
 
@@ -19,15 +19,15 @@ We only use your personal information to:
 
 ASB will not sell your information to third parties. We may in the future contact you to inform you of services and products available from ASB or the ASB Group of companies. If you do not wish to receive these offers please email us or call us on 0800 803 804.
 
-To ensure full security you will need to take appropriate steps to ensure that your Internet browser is capable of supporting our website's encryption requirements. Most versions of Netscape Navigator or Microsoft Internet Explorer versions 5 and above will support our server authentication and data encryption technology. Our website does not collect personal identifying information about you except where specifically requested by you or us. 
+To ensure full security you will need to take appropriate steps to ensure that your Internet browser is capable of supporting our website's encryption requirements. More information on the Internet browsers we recommend can be found [here](https://www.asb.co.nz/Personal/Banking-with-ASB/Internet-banking/Question-and-Answers#registration). Our website does not collect personal identifying information about you except where specifically requested by you or us. 
 
 ASB does use technology in order to offer you the most convenient, secure and relevant services. An example of the technology that ASB uses is a "cookie". Some cookies can be used to provide you with tailored information from a website. A cookie is an element of data that the website can send to your browser, which may then store it on your system. ASB presently uses cookies to maintain our security requirements during your use of our website.
 
 It is also important that you know that to transact with ASB you do not necessarily need to enable your browser to accept the cookies. Please note some information and/or services may not be available if you disable your browser not to accept cookies. 
 
-You may be able to get your browser to notify you when you receive a cookie giving you the chance to decide whether or not to accept it. For more detailed information we suggest you visit <http://www.microsoft.com/> and/or <http://www.netscape.com/>. There is also a lot of information on the Internet in respect of cookies. 
+You may be able to get your browser to notify you when you receive a cookie giving you the chance to decide whether or not to accept it. There is also a lot of information on the Internet in respect of cookies. 
 
-Throughout the ASB website the Netratings auditing system is used to measure traffic flows. Further information regarding the Netratings system can be found at <http://www.netratings.com/>.
+Throughout asb.co.nz the Google Analytics measurement system is used to monitor traffic flows as part of our drive to improve our online services. Further information regarding the Google Analytics system can be found at <http://www.google.com/analytics/>.
 
 Please also note that while the ASB website hyperlinks to various other websites, ASB is not responsible for the privacy practice of those websites and/or the reliability of the information published on those websites. 
 
