@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxcm.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229080800id_/http%3A//www.fxcm.com/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxcm.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510175006id_/http%3A//www.fxcm.com/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy, We protect our clients' privacy. | FXCM
 
@@ -44,13 +44,12 @@ or send your request to:
 
 **Forex Capital Markets LLC**  
 Attention: Privacy Officer  
-Financial Square  
-32 Old Slip, 10th Floor  
-New York, NY 10005
+55 Water St., 50th Floor  
+New York, NY 10041
 
 Please be advised, that if we receive such instruction we will not be able to service your account and must close any open and funded accounts you have.
 
-**High Risk Investment Warning:** Trading foreign exchange on margin carries a high level of risk, and may not be suitable for all investors. The high degree of leverage can work against you as well as for you. Before deciding to trade foreign exchange you should carefully consider your investment objectives, level of experience, and risk appetite. The possibility exists that you could sustain a loss of some or all of your initial investment and therefore you should not invest money that you cannot afford to lose. You should be aware of all the risks associated with foreign exchange trading, and seek advice from an independent financial advisor if you have any doubts. Please click here to read full [risk warning](https://web.archive.org/risk-warning.jsp).
+High Risk Investment Warning: Trading foreign exchange on margin carries a high level of risk, and may not be suitable for all investors. The high degree of leverage can work against you as well as for you. Before deciding to trade foreign exchange you should carefully consider your investment objectives, level of experience, and risk appetite. The possibility exists that you could sustain a loss of some or all of your initial investment and therefore you should not invest money that you cannot afford to lose. You should be aware of all the risks associated with foreign exchange trading, and seek advice from an independent financial advisor if you have any doubts. Please click here to read full [risk warning](https://web.archive.org/risk-warning.jsp).
 
 FXCM is a registered Futures Commission Merchant and Retail Foreign Exchange Dealer with the Commodity Futures Trading Commission and is a member of the National Futures Association. NFA # 0308179 
 
@@ -59,3 +58,5 @@ FXCM Inc., a publicly traded company listed on the New York Stock Exchange (NYSE
 Please note the information on this website is intended for retail customers only, and certain representations herein may not be applicable to Eligible Contract Participants (i.e., institutional clients) as defined in the Commodity Exchange Act §1(a)(12).
 
 §FXCM’s liquidity providers include global banks, financial institutions, prime brokers and other market makers. 
+
+If you ever experience performance difficulties with your trading account, [click here](http://support.fxcm.com/status/). 
