@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the xs-software.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213233251id_/http%3A//www.xs-software.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xs-software.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510071247id_/http%3A//www.xs-software.com/privacypolicy.php) for the most accurate reproduction.*
 
-# XS Software
+# XS Software | Welcome
 
 Partnership
 
-Our team
+What we do
 
-    100+ employees
-    International team
-    Young and creative professionals
-    Located in Sofia Bulgaria
+    Development, publishing, and distribution of browser based online games
+    Operate in 80+ countries
 
 Featured game
 
