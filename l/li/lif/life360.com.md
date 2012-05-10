@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the life360.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110073305id_/http%3A//www.life360.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the life360.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510111424id_/http%3A//www.life360.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Life360°
 
@@ -117,5 +117,5 @@ You can contact us by writing or email us at the address below.
 Life360   
 78 1st Street   
 San Francisco, CA 94105   
-[support@life360.com ](mailto:support@life360.com)   
+[support@life360.com](mailto:support@life360.com)   
 415-462-0002 
