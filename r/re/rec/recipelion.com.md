@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recipelion.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213644id_/http%3A//www.recipelion.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipelion.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510081636id_/http%3A//www.recipelion.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | RecipeLion.com
 
@@ -152,22 +152,12 @@ YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS A
 
 | 
 
-### Newsletter Signup
-
-Please Wait 
-
-#### Thanks for signing up
-
-#### Sorry, we could not sign you up.
-
 ##### Something worth saving?
 
-[Register now](https://web.archive.org/section/account/action/login) to:
+[Register now for FREE](https://web.archive.org/section/account/action/login) to:
 
-  * save all your favorite recipes
-  * add personal notes
-  * quickly reference your recipes
+  * SAVE your favorite recipes
+  * ADD personal notes
+  * GET fast cooking tips
 
-  
-  
----|---|---
+
