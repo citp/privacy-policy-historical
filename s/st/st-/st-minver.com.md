@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the st-minver.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224053924id_/http%3A//www.gtechg2.com/about/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the st-minver.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510210849id_/http%3A//www.gtechg2.com/about/privacy-policy.aspx) for the most accurate reproduction.*
 
 # GTECH G2 - Privacy Policy
 
@@ -62,39 +62,10 @@ You may choose to restrict the collection or use of your personal information in
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to:
 
 GTECH G2  
-4th floor, Middlesex House   
-W1T 4JE London   
-UK  
-HP5 3EA  
+70 Chancery Lane  
+London  
+WC2A 1AF  
 United Kingdom
 
+  
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
-
-## WANT TO KNOW MORE?
-
-  * [About Us](https://web.archive.org/about/about-us.aspx "Company Overview \(1\)")
-  * [Company Overview](https://web.archive.org/about/company-overview.aspx "Company Overview")
-  * [Our Philosophy](https://web.archive.org/about/our-philosophy.aspx "Our Philosophy")
-  * [Contact Us](https://web.archive.org/about/contact-us.aspx "Contact Us")
-
-
-
-## Get in touch
-
-Complete the form below and one of our sales team will get in touch to discuss your needs.
-
-Name: *
-
-Email:
-
-Phone: *
-
-Type
-
-BingoCasino  
-GMSSports Betting  
-PokerLottery  
-Games  
-
-
-Message*:
