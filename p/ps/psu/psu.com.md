@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the psu.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011063733id_/http%3A//www.psu.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psu.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510053008id_/http%3A//www.psu.com/privacy.php) for the most accurate reproduction.*
 
 # PlayStation Universe
 
+. 
+
 ## Privacy policy
 
-This is the web site of GameBurst Media Ltd
+This is the web site of Abstract Holdings International, Ltd.
 
-**Our postal address is:**  
-50-51 Berwick Street  
-Soho  
-London  
-W1F 8SJ  
+Our postal address is:  
+The Business Center  
+Upton, St. Michael  
+Barbados, 11103  
 
 
-We can be reached via e-mail at [gameburstmedia@gmail.com](mailto:gameburstmedia@gmail.com)  
-or you can reach us by telephone at +44 (0) 7919 535523 
+We can be reached via e-mail at [admin@psu.com](mailto:admin@psu.com)
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
