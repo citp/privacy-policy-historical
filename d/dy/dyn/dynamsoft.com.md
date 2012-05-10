@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dynamsoft.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225201059id_/http%3A//www.dynamsoft.com/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynamsoft.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510025930id_/http%3A//www.dynamsoft.com/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -26,15 +26,3 @@ Customers may change their personally identifiable information or draw back thei
 **Policy Updates**
 
 We reserve the right to alter or add to this privacy statement at any time, especially as we add new services to our site. Accordingly, please review this part of our site frequently. 
-
-[ ](http://www.dynamsoft.com/Company/Contact.aspx)
-
-## Customers
-
-Apple, EMC, 3M, Fujitsu, GE, HP, HR Block, IBM, InfoSys Intel, Olympus, PricewaterhouseCoopers, Samsung, Siemens, Symantec, Philips, Verizon, Unisys   
-[And many more](http://www.dynamsoft.com/Company/Customers.aspx) >
-
-## About Us
-
-We are the leading developer of Version Control software, Bug Tracking software, Issue tracking software, Visual SourceSafe replacement, Source Code Control software   
-[More](http://www.dynamsoft.com/Company/AboutDynamsoft.aspx) >
