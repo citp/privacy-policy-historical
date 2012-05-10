@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sport360.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111094534id_/http%3A//www.sport360.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sport360.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511000252id_/http%3A//www.sport360.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy| Sport360
-
-Privacy Policy
+# Privacy Policy
 
 **Collection of Information**
 
@@ -37,8 +35,7 @@ In order to provide complete functionality and ensure, to the extent possible, s
 
 **Sharing your Information**
 
-The Owner has the right to access a user’s personal information and may share it in the following circumstances:  
- 
+The Owner has the right to access a user’s personal information and may share it in the following circumstances:
 
   * To comply with legal requirements;
   * To share with selected third parties acting on the Owner as agents, suppliers or service providers;
@@ -57,7 +54,10 @@ The privacy policy outlined refers only to the Sport360.com site. However, the s
 
 While the Owner makes every effort to ensure your visits to the site are safe, there is no way to 100% guarantee the security of any personal information online and therefore the Owner is unable to guarantee the security of transactions made on the Site.
 
+**Consumer data privacy policy**
+
+Credit Card details are not stored in the company database or server, and will be processed through SSL environment.
+
 **Feedback**
 
-Any feedback and comments on the website are welcomed. Please use the Contact Us page to send comments to the appropriate person.  
- 
+Any feedback and comments on the website are welcomed. Please use the Contact Us page to send comments to the appropriate person.
