@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easy-immune-health.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102064002id_/http%3A//www.easy-immune-health.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easy-immune-health.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510045526id_/http%3A//www.easy-immune-health.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Easy Immune Health.com
 
