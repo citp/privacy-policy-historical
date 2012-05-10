@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the somee.com privacy policy that was archived on 2011-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111030022927id_/http%3A//www.somee.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the somee.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510053415id_/https%3A//somee.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Somee.cop Privacy policy
+# Somee.com Privacy policy
 
 ## Customer Information
 
