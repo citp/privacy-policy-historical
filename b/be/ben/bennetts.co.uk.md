@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bennetts.co.uk privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229021439id_/http%3A//www.bennetts.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bennetts.co.uk privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510055049id_/http%3A//www.bennetts.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Bennetts Insurance
+# Privacy Policy I Bennetts
 
 * ### Who is the Data Controller?
 
