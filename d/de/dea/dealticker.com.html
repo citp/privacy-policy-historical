@@ -1,49 +1,46 @@
-<!--The following is the downloaded HTML source of the dealticker.com privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101113426id_/http%3A//www.dealticker.com/privacy_policy_en_263cms.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dealticker.com privacy policy that was archived on 2012-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120510054913id_/http%3A//www.dealticker.com/privacy_policy_en_263cms.htm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#"><head>
 <title>Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="robots" content="all">
 
 
 <meta name="description" content="">
-<meta name="keywords" content="">
-<meta property="og:title" content="Privacy Policy">
-<meta property="og:type" content="product">
-<meta property="og:url" content="http://www.dealticker.com/">
-<meta property="og:image" content="http://www.dealticker.com/images/fb_dealticker.gif">
-<meta property="og:site_name" content="DealTicker.com">
-<meta property="fb:app_id" content="164427920279325">
-<link rel="image_src" href="http://www.dealticker.com/images/fb_dealticker.gif"> 
-<base href="http://www.dealticker.com/">
-<link rel="stylesheet" href="http://www.dealticker.com/template/style.css" type="text/css" media="all">
-<link rel="stylesheet" href="http://www.dealticker.com/template/menu/lavaLamp.css" type="text/css" media="all">
+<meta name="keywords" content=""><base href="http://www.dealticker.com/">
 <link rel="stylesheet" href="http://www.dealticker.com/js/jquery/themes/base/jquery.ui.all.css" type="text/css" media="all">
 <link rel="stylesheet" href="http://www.dealticker.com/js/jquery/themes/jquery.alerts.css" type="text/css" media="all">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.dealticker.com/js/jquery/jquery-1.4.4.min.js"></script>
 <script type="text/javascript" src="http://www.dealticker.com/js/jquery/jquery-ui-1.8.7.custom.min.js"></script>
 <script type="text/javascript" src="http://www.dealticker.com/js/jquery/jquery.alerts.js"></script>
+<script type="text/javascript" src="http://www.dealticker.com/js/jquery/jquery.tooltip.js"></script>
 <script type="text/javascript" src="http://www.dealticker.com/js/main.js"></script>
+<link rel="stylesheet" href="http://www.dealticker.com/template/style.css" type="text/css" media="all">
+<link rel="stylesheet" href="http://www.dealticker.com/template/menu/lavaLamp.css" type="text/css" media="all">
 <script type="text/javascript" src="http://www.dealticker.com/js/lavalamp-menu/jquery.lavalamp.js"></script>
 <script type="text/javascript" src="http://www.dealticker.com/js/lavalamp-menu/jquery.easing.min.js"></script>
 <script type="text/javascript" src="http://www.dealticker.com/js/resolution.js"></script>
 <script type="text/javascript"> 
     $(function() {
-        $("body").click(function() { 
-            f_setCity(0);
-       //     f_showLike(0)            
-        });    
-        $("span.error").removeClass("error").addClass("error_new");
-        
+//        $("body").click(function() { 
+//            f_setCity(0);
+//            f_showLike(0)            
+//        });    
     });
 
-
+    
     function f_setCity(vl){
-       if (vl==1)
-            $("#city_list").show("slow");
-       else
+       if ($("#city_list").is(':visible')) {vl=0;}
+       if (vl=='1'){
+            var w =  $(document).width();
+            var h =  $(document).height();
+            $('<div id="body_block" style="width:'+w+'px; height:'+h+'px; background:url(/images/citytile.png); z-index:900; left:0px; top:0px;  position:absolute; "></div>').appendTo("body");
+            $("#city_list").css("zIndex","901").show("blind",{},300);
+       }else{
+            $("#body_block").each(function() { $(this).remove(); });
             $("#city_list").hide();
+       }
     }
 
     function f_showLike(vl){
@@ -54,10 +51,7 @@
     }
 
     function f_setClick(tp){
-        $.get("/lib/ajax/set_action.php"
-            ,{"tp":tp}
-            ,function(data){return true;}
-            );
+        $.get("/lib/ajax/set_action.php",tp ,function(data){return true;});
         return true;
     }    
 
@@ -79,6 +73,7 @@
 
 
  <!-- External source end --> 
+
 <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" style="margin-bottom: -15px;">
 	<tbody><tr>
 		<td valign="top">
@@ -93,7 +88,7 @@
 									<table border="0" cellpadding="0" cellspacing="0" width="100%">
 										<tbody><tr>
 											<td valign="top" align="center" style="padding-bottom: 5px;">
-                                        <div class="newsletter_top" style="z-index:999 ;position:absolute">
+                                        <div class="newsletter_top" style="z-index:100 ;position:absolute">
     <div id="dailyAlert" style="display:none">
     <table border="0" cellpadding="0" cellspacing="0" align="center" style="background: url(http://www.dealticker.com/images/dailytop_tile.png) repeat-y; width: 319px; font-size: 11px;">
 	    <tbody><tr>
@@ -143,179 +138,22 @@
 											<td align="right" valign="top" style="padding-top: 10px; height: 70px;">
 												 												<table border="0" cellpadding="2" cellspacing="0">
 													 <tbody><tr>
-														<td><b style="color: #1a1a1a;">Total Dollars Saved:</b></td><td style="padding-left:10px;">$23,847,372 </td>
+														<td><b style="color: #1a1a1a;">Total Dollars Saved:</b></td><td style="padding-left:10px;">$33,043,488 </td>
 													 </tr>
 													 <tr>
-														<td><b style="color: #1a1a1a;">Total Vouchers Bought:</b></td><td style="padding-left:10px;">110,249</td>
+														<td><b style="color: #1a1a1a;">Total Vouchers Bought:</b></td><td style="padding-left:10px;">194,078</td>
 													 </tr>
 														 
 												</tbody></table>
-																								<div style="margin: 5px 70px 0 0;float: right;">
-													<div id="fb-root"><script type="text/javascript" src="https://connect.facebook.net/en_GB/all.js" async=""></script></div>															
-                                          <script> 
-                                          window.fbAsyncInit = function() {
-                                            FB.init({appId: "164427920279325", status: true, cookie: true, xfbml: true});
-                                          };
-                                          (function() {
-                                            var e = document.createElement('script');
-                                            e.type = 'text/javascript';
-                                            e.src = document.location.protocol +
-                                              '//connect.facebook.net/en_GB/all.js';
-                                            e.async = true;
-                                            document.getElementById('fb-root').appendChild(e);
-                                          }());
-                                        </script>
-
-
-													<fb:like href="http://www.dealticker.com/" show_faces="false" width="100" layout="button_count" action="like" colorscheme="light"></fb:like>
-												</div>
-												  											</td>
+												
+											</td>
 										</tr>
 									</tbody></table>
 
-									<table border="0" cellpadding="4" cellspacing="0" style="margin-top: -5px;">
+									<table border="0" cellpadding="4" cellspacing="0">
 										<tbody><tr>
-											<td style="padding-bottom: 7px;">Daily Deals on the best in
-												<span style="font-size: 28px; color:#288dd3; z-index: 1;">Barrie</span><style type="text/css">
-
-/* Sity list */
-#city_list{
-	top: 80px;
-    position: absolute;
-    width: 600px;
-    z-index: 9500;
-    display:none;
-    font-family: Arial, Verdana, Sans-Serif;
-    font-size: 12px;
-    font-weight: normal;
-    color: #ffffff;
-    background: #545454; 
-	opacity: 0.98;
-	-moz-opacity: 0.98;
-	filter:alpha(opacity=80);
-	padding: 3px 10px;
-	border: 2px solid #b1acac;
-	margin-left: 0;
-}
-
-*:first-child+html #city_list{margin-left: -250px;}
-
-table.city_list td {
-	border-bottom: 1px dotted #86888a;
-}
-
-table.city_list td a{
-	display: block;
-	height: 100%;
-    font-family: Arial, Verdana, Sans-Serif;
-    font-size: 12px;
-    font-weight: normal;
-    color: #ffffff;
-	padding: 7px 7px 7px 22px;
-}
-table.city_list td a:hover {
-	display: block;
-	height: 100%;
-    font-family: Arial, Verdana, Sans-Serif;
-    font-size: 12px;
-    font-weight: normal;
-    color: #ffffff;
-	background: url(/images/bullet_citylist_orange.gif) left no-repeat;
-	padding: 7px 7px 7px 22px;
-}
-
-table.city_list td a.current {
-	background: url(/images/bullet_citylist_orange.gif) left no-repeat;
-}
-
-.city_list .current a{
-	background: none;
-}
-
-.city_list .current a:hover{
-	color: #ffffff;
-}
-
-#other_city td a {
-    font-family: Arial, Verdana, Sans-Serif;
-    font-size: 12px;
-    font-weight: bold;
-    color: #88d2fa;
-	background: url(/images/bullet_othercity.gif) 3px no-repeat;
-	padding-left: 15px;
-}
-#other_city td a:hover {
-    font-family: Arial, Verdana, Sans-Serif;
-    font-size: 12px;
-    font-weight: bold;
-    color: #ffffff;
-	background: url(/images/bullet_othercity.gif) 3px no-repeat;
-	padding-left: 15px;
-}
-</style>
-
-
-<div id="city_list">
-<table border="0" cellpadding="0" cellspacing="1" width="100%" class="city_list">
-<tbody><tr><td colspan="4"><b>Cities in Canada</b></td></tr><tr><td width="150" style="background:url(/images/bullet_citylist_grey.gif) left no-repeat;">
-<a href="http://www.dealticker.com/barrie_en_124categ.html" class="current">Barrie&nbsp;(4)</a></td><td width="150" style="background:url(/images/bullet_citylist_grey.gif) left no-repeat;">
-<a href="http://www.dealticker.com/brampton_en_123categ.html">Brampton&nbsp;(18)</a></td><td width="150" style="background:url(/images/bullet_citylist_grey.gif) left no-repeat;">
-<a href="http://www.dealticker.com/calgary_en_84categ.html">Calgary&nbsp;(7)</a></td><td width="150" style="background:url(/images/bullet_citylist_grey.gif) left no-repeat;">
-<a href="http://www.dealticker.com/durham_en_85categ.html">Durham&nbsp;(18)</a></td></tr><tr><td width="150" style="background:url(/images/bullet_citylist_grey.gif) left no-repeat;">
-<a href="http://www.dealticker.com/edmonton_en_86categ.html">Edmonton&nbsp;(5)</a></td><td width="150" style="background:url(/images/bullet_citylist_grey.gif) left no-repeat;">
-<a href="http://www.dealticker.com/guelph_-_kitchener_-_waterloo_en_87categ.html">Guelph - Kitchener - Waterloo&nbsp;(4)</a></td><td width="150" style="background:url(/images/bullet_citylist_grey.gif) left no-repeat;">
-<a href="http://www.dealticker.com/halifax_en_100categ.html">Halifax&nbsp;(4)</a></td><td width="150" style="background:url(/images/bullet_citylist_grey.gif) left no-repeat;">
-<a href="http://www.dealticker.com/halton_region_en_120categ.html">Halton Region&nbsp;(17)</a></td></tr><tr><td width="150" style="background:url(/images/bullet_citylist_grey.gif) left no-repeat;">
-<a href="http://www.dealticker.com/hamilton_en_88categ.html">Hamilton&nbsp;(16)</a></td><td width="150" style="background:url(/images/bullet_citylist_grey.gif) left no-repeat;">
-<a href="http://www.dealticker.com/london_en_89categ.html">London&nbsp;(4)</a></td><td width="150" style="background:url(/images/bullet_citylist_grey.gif) left no-repeat;">
-<a href="http://www.dealticker.com/mississauga_en_90categ.html">Mississauga&nbsp;(20)</a></td><td width="150" style="background:url(/images/bullet_citylist_grey.gif) left no-repeat;">
-<a href="http://www.dealticker.com/montreal_en_2categ.html">Montreal&nbsp;(7)</a></td></tr><tr><td width="150" style="background:url(/images/bullet_citylist_grey.gif) left no-repeat;">
-<a href="http://www.dealticker.com/st_catharines_-_niagara_en_91categ.html">St Catharines - Niagara&nbsp;(4)</a></td><td width="150" style="background:url(/images/bullet_citylist_grey.gif) left no-repeat;">
-<a href="http://www.dealticker.com/oakville_-_burlington_en_136categ.html">Oakville - Burlington&nbsp;(17)</a></td><td width="150" style="background:url(/images/bullet_citylist_grey.gif) left no-repeat;">
-<a href="http://www.dealticker.com/ottawa_en_92categ.html">Ottawa&nbsp;(5)</a></td><td width="150" style="background:url(/images/bullet_citylist_grey.gif) left no-repeat;">
-<a href="http://www.dealticker.com/quebec_city_en_93categ.html">Quebec City&nbsp;(4)</a></td></tr><tr><td width="150" style="background:url(/images/bullet_citylist_grey.gif) left no-repeat;">
-<a href="http://www.dealticker.com/regina_en_128categ.html">Regina&nbsp;(4)</a></td><td width="150" style="background:url(/images/bullet_citylist_grey.gif) left no-repeat;">
-<a href="http://www.dealticker.com/saskatoon_en_129categ.html">Saskatoon&nbsp;(4)</a></td><td width="150" style="background:url(/images/bullet_citylist_grey.gif) left no-repeat;">
-<a href="http://www.dealticker.com/surrey_en_127categ.html">Surrey&nbsp;(9)</a></td><td width="150" style="background:url(/images/bullet_citylist_grey.gif) left no-repeat;">
-<a href="http://www.dealticker.com/toronto_en_1categ.html">Toronto&nbsp;(22)</a></td></tr><tr><td width="150" style="background:url(/images/bullet_citylist_grey.gif) left no-repeat;">
-<a href="http://www.dealticker.com/vancouver_en_94categ.html">Vancouver&nbsp;(9)</a></td><td width="150" style="background:url(/images/bullet_citylist_grey.gif) left no-repeat;">
-<a href="http://www.dealticker.com/victoria_en_126categ.html">Victoria&nbsp;(8)</a></td><td width="150" style="background:url(/images/bullet_citylist_grey.gif) left no-repeat;">
-<a href="http://www.dealticker.com/windsor_en_125categ.html">Windsor&nbsp;(4)</a></td><td width="150" style="background:url(/images/bullet_citylist_grey.gif) left no-repeat;">
-<a href="http://www.dealticker.com/winnipeg_en_95categ.html">Winnipeg&nbsp;(4)</a></td></tr><tr><td width="150" style="background:url(/images/bullet_citylist_grey.gif) left no-repeat;">
-<a href="http://www.dealticker.com/york_region_en_96categ.html">York Region&nbsp;(21)</a></td><td colspan="4"></td></tr><tr><td colspan="4"><b>Cities in USA</b></td></tr><tr><td width="150" style="background:url(/images/bullet_citylist.gif) 3px no-repeat;">
-<a href="http://www.dealticker.com/atlanta_en_16categ.html">Atlanta</a></td><td width="150" style="background:url(/images/bullet_citylist.gif) 3px no-repeat;">
-<a href="http://www.dealticker.com/boston_en_67categ.html">Boston</a></td><td width="150" style="background:url(/images/bullet_citylist.gif) 3px no-repeat;">
-<a href="http://www.dealticker.com/chicago_en_68categ.html">Chicago</a></td><td width="150" style="background:url(/images/bullet_citylist.gif) 3px no-repeat;">
-<a href="http://www.dealticker.com/dallas_en_69categ.html">Dallas</a></td></tr><tr><td width="150" style="background:url(/images/bullet_citylist.gif) 3px no-repeat;">
-<a href="http://www.dealticker.com/denver_en_70categ.html">Denver</a></td><td width="150" style="background:url(/images/bullet_citylist.gif) 3px no-repeat;">
-<a href="http://www.dealticker.com/houston_en_71categ.html">Houston</a></td><td width="150" style="background:url(/images/bullet_citylist.gif) 3px no-repeat;">
-<a href="http://www.dealticker.com/las_vegas_en_72categ.html">Las Vegas</a></td><td width="150" style="background:url(/images/bullet_citylist.gif) 3px no-repeat;">
-<a href="http://www.dealticker.com/los_angeles_en_73categ.html">Los Angeles</a></td></tr><tr><td width="150" style="background:url(/images/bullet_citylist.gif) 3px no-repeat;">
-<a href="http://www.dealticker.com/miami_en_74categ.html">Miami</a></td><td width="150" style="background:url(/images/bullet_citylist.gif) 3px no-repeat;">
-<a href="http://www.dealticker.com/milwaukee_en_75categ.html">Milwaukee</a></td><td width="150" style="background:url(/images/bullet_citylist.gif) 3px no-repeat;">
-<a href="http://www.dealticker.com/new_york_en_76categ.html">New York</a></td><td width="150" style="background:url(/images/bullet_citylist.gif) 3px no-repeat;">
-<a href="http://www.dealticker.com/philadelphia_en_77categ.html">Philadelphia</a></td></tr><tr><td width="150" style="background:url(/images/bullet_citylist.gif) 3px no-repeat;">
-<a href="http://www.dealticker.com/pittsburgh_en_78categ.html">Pittsburgh</a></td><td width="150" style="background:url(/images/bullet_citylist.gif) 3px no-repeat;">
-<a href="http://www.dealticker.com/san_diego_en_79categ.html">San Diego</a></td><td width="150" style="background:url(/images/bullet_citylist.gif) 3px no-repeat;">
-<a href="http://www.dealticker.com/san_francisco_en_80categ.html">San Francisco</a></td><td width="150" style="background:url(/images/bullet_citylist.gif) 3px no-repeat;">
-<a href="http://www.dealticker.com/seattle_en_81categ.html">Seattle</a></td></tr><tr><td width="150" style="background:url(/images/bullet_citylist.gif) 3px no-repeat;">
-<a href="http://www.dealticker.com/st__louis_en_82categ.html">St. Louis</a></td><td width="150" style="background:url(/images/bullet_citylist.gif) 3px no-repeat;">
-<a href="http://www.dealticker.com/washington_en_83categ.html">Washington</a></td><td colspan="3"></td></tr></tbody></table>
-<div align="left" style="margin: 5px 0 0 5px; color: #f59023;">more cities coming soon...</div>
-
-<table width="100%" border="0" cellpadding="4" cellspacing="0">
-
-<tbody><tr><td width="20%"><span style="background: url(/images/bullet_citylist.gif) 3px no-repeat; padding-left: 15px;">Charlottetown   </span></td><td width="20%"><span style="background: url(/images/bullet_citylist.gif) 3px no-repeat; padding-left: 15px;">Fredericton  </span></td><td width="20%"><span style="background: url(/images/bullet_citylist.gif) 3px no-repeat; padding-left: 15px;">Saint John's</span></td><td width="20%"><span style="background: url(/images/bullet_citylist.gif) 3px no-repeat; padding-left: 15px;">Iqaluit</span></td></tr><tr><td width="20%"><span style="background: url(/images/bullet_citylist.gif) 3px no-repeat; padding-left: 15px;">Yellowknife</span></td><td width="20%"><span style="background: url(/images/bullet_citylist.gif) 3px no-repeat; padding-left: 15px;">Whitehorse</span></td><td colspan="3"></td></tr></tbody></table>
-
-
-<table border="0" cellpadding="5" cellspacing="0" id="other_city" align="right" style="margin-top: 5px;">
-	<tbody><tr>
-		<td><a href="javascript:void(0)" onclick="showIboxContent(&quot;http://www.dealticker.com/other_city.php?popup=1&quot;, &quot;Other City&quot;, {&quot;type&quot;:&quot;3&quot;, &quot;height&quot;:&quot;500px&quot;, &quot;width&quot;:&quot;600px&quot;});">Other City</a></td>
-	</tr>
-</tbody></table>
-
-
-</div>												</td>
+											<td style="padding-bottom: 7px;"><nobr>Daily Deals on the best in
+												<span style="font-size: 28px; color:#288dd3; z-index: 1;">Halton Region</span>												</nobr></td>
 												<td>
 													<div style="background: url(/images/more_citys_l.png) left no-repeat; padding-left: 5px;"><a href="javascript:void(f_setCity(1))" style="display: block; background: url(/images/more_citys_r.png) right no-repeat; padding: 5px 31px 5px 5px; font-size: 12px; color: #343434; text-decoration: none;white-space: nowrap;">Change City</a></div>
 											</td>
@@ -324,6 +162,20 @@ table.city_list td a.current {
 								</td>
 							</tr>
 						</tbody></table>
+<div id="script_error" style="padding:3px 7px ; font-size: 10px;color:#FF0000;">
+    Your browser's javascript functionality is turned off. Please click here for the appropriate fix <a href="/user/help-javascript.php" target="_blank"><img align="absbottom" src="/images/admin/help3.gif"></a>
+</div>   
+<div id="cookies_error" style="display:none; padding:3px 7px ; font-size: 10px;color:#FF0000;">
+    Your browser's cookie functionality is turned off. Please click here for the appropriate fix <a href="/user/help-cookies.php" target="_blank"><img align="absbottom" src="/images/admin/help3.gif"></a>
+</div>   
+
+<script type="text/javascript">
+    $("#script_error").hide();
+    if (!navigator.cookieEnabled){
+            $("#cookies_error").show();
+    }
+</script>
+                        
 					</td>
 				</tr>
 			</tbody></table>
@@ -335,7 +187,25 @@ table.city_list td a.current {
 						<table border="0" cellpadding="0" cellspacing="0" width="970">
 							<tbody><tr>
 								<td align="left" width="703">	
-									<script type="text/javascript">
+									<script>
+	$(function() {
+		$( "#tabs" ).tabs();
+	});
+</script>
+<div id="city_list" style="display:none; z-index:901;">
+	<div id="tabs">
+	<div class="select_cities_left"><div class="select_cities_right">Select Your City <img onclick="f_setCity(0)" src="http://www.dealticker.com/images/ui-icon-close.png" width="11" height="11" border="0" alt="Close" title="Close" style="float: right; margin: 5px 10px 0 0;cursor: pointer;"></div></div>
+
+	<ul><li><a href="#country38" id="countrytab38"><span>Canada</span></a></li><li><a href="#country226" id="countrytab226"><span>USA</span></a></li></ul><div id="country38">
+			<div class="citylist_tl"><div class="citylist_tr"><img src="/images/spacer.gif" height="1" width="1"></div></div>
+			<table cellpadding="0" cellspacing="0" width="100%" class="city_table"><tbody><tr><td valign="top" width="25%"><div>Alberta</div><a href="http://www.dealticker.com/product.php?city=Calgary">Calgary&nbsp;(29)</a><a href="http://www.dealticker.com/product.php?city=Edmonton">Edmonton&nbsp;(24)</a><div>British Columbia</div><a href="http://www.dealticker.com/product.php?city=Abbotsford">Abbotsford&nbsp;(29)</a><a href="http://www.dealticker.com/product.php?city=Burnaby">Burnaby&nbsp;(29)</a><a href="http://www.dealticker.com/product.php?city=Kelowna">Kelowna&nbsp;(29)</a><a href="http://www.dealticker.com/product.php?city=Richmond">Richmond&nbsp;(29)</a><a href="http://www.dealticker.com/product.php?city=Surrey">Surrey&nbsp;(29)</a><a href="http://www.dealticker.com/product.php?city=Vancouver">Vancouver&nbsp;(30)</a></td><td valign="top" width="25%"><a href="http://www.dealticker.com/product.php?city=Victoria">Victoria&nbsp;(29)</a><div>Manitoba</div><a href="http://www.dealticker.com/product.php?city=Winnipeg">Winnipeg&nbsp;(24)</a><div>Nova Scotia</div><a href="http://www.dealticker.com/product.php?city=Halifax">Halifax&nbsp;(24)</a><div>Ontario</div><a href="http://www.dealticker.com/product.php?city=Barrie">Barrie&nbsp;(27)</a><a href="http://www.dealticker.com/product.php?city=Brampton">Brampton&nbsp;(37)</a><a href="http://www.dealticker.com/product.php?city=Durham">Durham&nbsp;(37)</a><a href="http://www.dealticker.com/product.php?city=Guelph - Kitchener - Waterloo">Guelph - Kitchener - Waterloo&nbsp;(27)</a></td><td valign="top" width="25%"><a href="http://www.dealticker.com/product.php?city=Halton Region" class="current">Halton Region&nbsp;(37)</a><a href="http://www.dealticker.com/product.php?city=Hamilton">Hamilton&nbsp;(37)</a><a href="http://www.dealticker.com/product.php?city=London">London&nbsp;(26)</a><a href="http://www.dealticker.com/product.php?city=Mississauga">Mississauga&nbsp;(37)</a><a href="http://www.dealticker.com/product.php?city=Oakville - Burlington">Oakville - Burlington&nbsp;(37)</a><a href="http://www.dealticker.com/product.php?city=Ottawa">Ottawa&nbsp;(26)</a><a href="http://www.dealticker.com/product.php?city=St Catharines - Niagara">St Catharines - Niagara&nbsp;(27)</a><a href="http://www.dealticker.com/product.php?city=Sudbury">Sudbury&nbsp;(25)</a><a href="http://www.dealticker.com/product.php?city=Toronto">Toronto&nbsp;(38)</a><a href="http://www.dealticker.com/product.php?city=Windsor">Windsor&nbsp;(26)</a></td><td valign="top" width="25%"><a href="http://www.dealticker.com/product.php?city=York Region">York Region&nbsp;(38)</a><div>Quebec</div><a href="http://www.dealticker.com/product.php?city=Montreal">Montreal&nbsp;(24)</a><a href="http://www.dealticker.com/product.php?city=Quebec City">Quebec City&nbsp;(24)</a><div>Saskatchewan</div><a href="http://www.dealticker.com/product.php?city=Regina">Regina&nbsp;(24)</a><a href="http://www.dealticker.com/product.php?city=Saskatoon">Saskatoon&nbsp;(24)</a></td></tr></tbody></table>
+			<div class="citylist_bl"><div class="citylist_br"><img src="/images/spacer.gif" height="1" width="1"></div></div>
+			</div><div id="country226">
+			<div class="citylist_tl"><div class="citylist_tr"><img src="/images/spacer.gif" height="1" width="1"></div></div>
+			<table cellpadding="0" cellspacing="0" width="100%" class="city_table"><tbody><tr><td valign="top" width="25%"><div>California</div><a href="http://www.dealticker.com/product.php?city=Los Angeles">Los Angeles</a><a href="http://www.dealticker.com/product.php?city=San Diego">San Diego</a><a href="http://www.dealticker.com/product.php?city=San Francisco">San Francisco</a><div>Colorado</div><a href="http://www.dealticker.com/product.php?city=Denver">Denver</a><div>Florida</div><a href="http://www.dealticker.com/product.php?city=Miami">Miami</a></td><td valign="top" width="25%"><div>Georgia</div><a href="http://www.dealticker.com/product.php?city=Atlanta">Atlanta</a><div>Illinois</div><a href="http://www.dealticker.com/product.php?city=Chicago">Chicago</a><div>Massachusetts</div><a href="http://www.dealticker.com/product.php?city=Boston">Boston</a><div>Missouri</div><a href="http://www.dealticker.com/product.php?city=St. Louis">St. Louis</a></td><td valign="top" width="25%"><div>Nevada</div><a href="http://www.dealticker.com/product.php?city=Las Vegas">Las Vegas</a><div>New York</div><a href="http://www.dealticker.com/product.php?city=New York">New York</a><div>Pennsylvania</div><a href="http://www.dealticker.com/product.php?city=Philadelphia">Philadelphia</a><a href="http://www.dealticker.com/product.php?city=Pittsburgh">Pittsburgh</a></td><td valign="top" width="25%"><div>Texas</div><a href="http://www.dealticker.com/product.php?city=Dallas">Dallas</a><a href="http://www.dealticker.com/product.php?city=Houston">Houston</a><div>Washington</div><a href="http://www.dealticker.com/product.php?city=Seattle">Seattle</a><a href="http://www.dealticker.com/product.php?city=Washington">Washington</a><div>Wisconsin</div><a href="http://www.dealticker.com/product.php?city=Milwaukee">Milwaukee</a></td></tr></tbody></table>
+			<div class="citylist_bl"><div class="citylist_br"><img src="/images/spacer.gif" height="1" width="1"></div></div>
+			</div>	</div>
+</div>									<script type="text/javascript">
     $(function() {
         $("#1, #2, #3").lavaLamp({
             fx: "backout", 
@@ -353,11 +223,7 @@ table.city_list td a.current {
 </tbody></table>								</td>
 								<td width="2"><img src="http://www.dealticker.com/images/separator-top.gif" width="2" height="50" border="0" alt=""></td>
 								<td width="15">&nbsp;</td>
-                        								<td align="center">
-									<div style="background: url(http://www.dealticker.com/images/sign_in_l.png) left no-repeat; padding-left: 14px; width: 80px;">
-										<div style="background: url(http://www.dealticker.com/images/sign_in_r.png) right no-repeat; padding: 8px 14px 9px 0;"><a href="javascript:void(f_login(''))" style="font-weight: bold; color: #ffffff; text-decoration: none;">Sign in</a></div>
-									</div>
-								</td>
+                        								<td align="center"><a href="javascript:void(f_login(''))" style="font-weight: bold; color: #ffffff; text-decoration: none;">Sign in</a></td>
 								<td align="center">
 									<div style="background: url(http://www.dealticker.com/images/register_l.png) left no-repeat; padding-left: 14px; width: 90px;">
 										<div style="background: url(http://www.dealticker.com/images/register_r.png) right no-repeat; padding: 8px 14px 9px 0;"><a href="http://www.dealticker.com/user/register.php" style="font-weight: bold; color: #ffffff; text-decoration: none;">Register</a></div>
@@ -367,7 +233,7 @@ table.city_list td a.current {
                              <script type="text/javascript"> 
                                  function f_login(vl){
                                     if (vl=='') vl = 'http://www.dealticker.com/privacy_policy_en_263cms.htm';
-                                    showIboxContent("http://www.dealticker.com/user/login.php?popup=1&ref="+encodeURIComponent(vl), "Sign in", {"type":"3", "height":"500px", "width":"600px","modal":"true"}); 
+                                    showIboxContent("http://www.dealticker.com/user/login.php?popup=1&ref="+encodeURIComponent(vl), "Sign in", {"type":"3", "height":"600px", "width":"700px","modal":"true"}); 
                                  }
                                  function f_forgot(vl){
                                     if (vl=='')
@@ -421,7 +287,7 @@ table.city_list td a.current {
 		</div>
 		<div style="clear: both;"></div>
 	
-		<div style="overflow: hidden;"><div style="height: 5px;border-top: 1px solid #c5e7fe;"></div>
+		<div style="overflow: hidden;"><div style="height: 5px;"></div>
 <div style="background: #ffffff;border: 1px solid #c5e7fe;border-bottom: none;padding: 10px;">
 <table class="box_bottom" cellpadding="0" cellspacing="0">
 	<tbody><tr>
@@ -438,17 +304,22 @@ table.city_list td a.current {
 		<td class="content" align="center" style="background: #dbedfe;padding: 10px;">
 			<table cellpadding="5" cellspacing="0" border="0" style="width:100%;">
 								<tbody><tr>
-					<td align="center" style="color: #288dd3; padding: 5px 0;"><a href="http://www.dealticker.com/donation.php/top/"><img src="http://www.dealticker.com/UserFiles/donation/logo-180x63.gif" style="max-height: 100px;"></a></td>
+					<td align="center" style="color: #288dd3; padding: 5px 0;"><a href="http://www.dealticker.com/donation.php/top/"><img src="http://www.dealticker.com/UserFiles/donation/css1-200x5211-200x52.jpg" style="max-height: 100px;"></a></td>
 					<td width="15"><br></td>
-					<td rowspan="2" valign="top" style="text-align: justify;font-family:Verdana;font-size: 12px;"><a href="http://www.dealticker.com/donation.php/top/" style="font-size: 14px;">Muscular Dystrophy Canada - <nobr>November 2011</nobr></a><br><br><p class="bodytext">Muscular Dystrophy Canada’s mission is to enhance the lives of those affected with neuromuscular disorders by continually working to provide ongoing support and resources while relentlessly searching for a cure through well funded research.</p></td>
+					<td rowspan="2" valign="top" style="text-align: justify;font-family:Verdana;font-size: 12px;"><a href="http://www.dealticker.com/donation.php/top/" style="font-size: 14px;">Canadian Cancer Society - <nobr>May 2012</nobr></a><br><br>The Canadian Cancer Society places a high value on our relationship with you, our donors. Without your support we would not be able to achieve our mission of the eradication of cancer and the enhancement of the quality of life of people living with cancer. We thank you for your commitment to us.</td>
 				</tr>
-								<tr>
+				<tr>
 					<td align="center" style="padding: 8px 0;">
-						<a href="http://www.dealticker.com/donation_now.php/donation_id/16"><img src="http://www.dealticker.com/images/donate_now.png" width="155" height="33" border="0" alt=""></a>
-						<div style="height: 5px;clear: both;"></div>
-						<a href="http://www.dealticker.com/past_charities.php"><img src="http://www.dealticker.com/images/past_charities.png" width="155" height="33" border="0" alt=""></a>
+						<a href="http://www.dealticker.com/donation_now.php/donation_id/22"><img src="http://www.dealticker.com/images/donate_now.png" width="155" height="33" border="0" alt=""></a>
 					</td>
 					<td width="15"><br></td>
+				</tr>
+								<tr>
+					<td colspan="3" align="center" style="padding: 8px 0;">
+						<div style="background: url(/images/sign_in_l.png) left no-repeat; padding-left: 14px;width: 120px;">
+							<div style="background: url(/images/sign_in_r.png) right no-repeat; padding: 8px 14px 9px 0;"><a href="http://www.dealticker.com/past_charities.php" style="color: #ffffff;font: bold 13px Arial;text-decoration: none;">Past Charities</a></div>
+						</div>
+					</td>
 				</tr>
 			</tbody></table>
 		</td>
@@ -481,63 +352,47 @@ table.city_list td a.current {
 		</td>
 				<td valign="top">
 	<table border="0" cellpadding="0" cellspacing="0" width="250">
-		<tbody><tr>
-			<td height="41" style="background: url(/images/prod_side_l.png) top left no-repeat"><img src="/images/spacer.gif" width="13" height="41" border="0" alt=""></td>
-			<td align="center" style="background: #cce99a;color: #000000;font-size: 15px;width: 224px;padding: 3px 0;"><b>More Great DealTickers</b>&nbsp;&nbsp;<a href="http://www.dealticker.com/product.php/tab/2" style="font-size: 12px;white-space: nowrap;">See All</a></td>
-			<td style="background: url(/images/prod_side_r.png) top right no-repeat"><img src="/images/spacer.gif" width="13" height="41" border="0" alt=""></td>
+		<tbody><tr>			
+			<td style="background: url(/images/prod_side_l.png) left top no-repeat;width: 10px;"><img src="/images/spacer.gif" width="7" height="1" border="0" alt=""></td>			
+			<td align="center" style="background: #cce99a;color: #000000;font-size: 15px;padding: 13px 0;width: 230px;"><b>More Great DealTickers</b>&nbsp;&nbsp;<a href="http://www.dealticker.com/product.php/tab/2" style="font-size: 12px;white-space: nowrap;">See All</a></td>
+			<td style="background: url(/images/prod_side_r.png) right top no-repeat;width: 10px;"><img src="/images/spacer.gif" width="7" height="1" border="0" alt=""></td>	
 		</tr>
 	<!-- Today's Side Deal -->
 	<tr>
-		<td colspan="3" valign="top">
-       <div style="background: #ffffff; padding: 10px 7px;  ">
-		<!-- content -->
-			
-			<a href="http://www.dealticker.com/product.php/product_id/12968">$9 for a 1 Week Supply of Instant Green Tea Supplements (Taxes &amp; Shipping Included) Courtesy of GreenTeaDaily ($18 Value)</a>			
+		<td colspan="3" valign="top" style="background: #ffffff; padding: 10px 7px;  ">
+        <!-- content -->
+<div id="ps_18474">
+    <div style="font-size: 12px; color:#000000;text-align:center;padding-bottom: 6px;text-transform: uppercase;">ONLINE DEAL - TAXES &amp; DELIVERY INCLUDED</div>			<a href="http://www.dealticker.com/product.php/product_id/18474">$19 for $50 Worth of Fresh Flowers, Gift Baskets, Chocolates &amp; More! - Taxes &amp; Delivery Across Canada Included</a>			
 			<div style="clear: both;height: 10px;"></div>
 			
-			<a href="http://www.dealticker.com/product.php/product_id/12968"><img src="http://www.dealticker.com/UserFiles/product/4eae22ea23cfa.jpg" style="border: solid 2px #bab0b0; width: 95px;float: left; margin-right: 10px;margin-top: 4px;"></a>			
+			<a href="http://www.dealticker.com/product.php/product_id/18474"><img src="http://www.dealticker.com/UserFiles/product/13360714274fa2d503f157a-92x94.gif" style="border: solid 2px #bab0b0; width: 95px;float: left; margin-right: 10px;margin-top: 4px;"></a>			
 			<table border="0" cellpadding="0" cellspacing="0" style="float: right;width:115px;">
 				<tbody><tr>
 					<td style="font-size: 13px;">Price:</td>
-					<td style="font-size: 15px;"><b>$9.00 </b></td>
+					<td style="font-size: 15px;"><b>$19.00 </b></td>
 				</tr>
 				<tr>
 					<td style="font-size: 13px;">Value:</td>
-					<td style="font-size: 15px;"><b>$18.00 </b></td>
+					<td style="font-size: 15px;"><b>$50.00 </b></td>
 				</tr>
 				<tr>
 					<td style="font-size: 13px;">Discount:</td>
-					<td style="font-size: 15px;"><b>50%</b></td>
+					<td style="font-size: 15px;"><b>62%</b></td>
 				</tr>
 				<tr>
 					<td colspan="2" style="color: #000000;padding-top:5px;text-align:center;">
 					<div style="font-size: 12px;margin-bottom: -2px;"><b>Time Remaining:</b></div>
 					<div style="background: url(http://www.dealticker.com/images/sign_in_l.png) left no-repeat; padding-left: 14px;">
 						<div style="background: url(http://www.dealticker.com/images/sign_in_r.png) right no-repeat; padding: 8px 14px 9px 0;color: #ffffff;">
-						<a href="http://www.dealticker.com/product.php/product_id/12968" class="timer_link"><span id="dd_12968">5</span> d <span id="hh_12968">23</span>:<span id="mm_12968">24</span>:<span id="ss_12968">34</span></a>						</div>
+						<a href="http://www.dealticker.com/product.php/product_id/18474" class="timer_link"><span id="dd_18474">1</span> d <span id="hh_18474">4</span>:<span id="mm_18474">9</span>:<span id="ss_18474">47</span></a>						</div>
 					</div>
-					
-					<!--<div style="background: url(http://www.dealticker.com/images/sign_in_l.png) left no-repeat; padding-left: 14px;">
-						<div style="background: url(http://www.dealticker.com/images/sign_in_r.png) right no-repeat; padding: 8px 14px 9px 0;color: #ffffff;font-size: 13px;">
-						<span id="dd_12968">5</span> d <span id="hh_12968">23</span>:<span id="mm_12968">24</span>:<span id="ss_12968">34</span>
-						</div>
-					</div>
-
-					<table border="0" cellpadding="3" cellspacing="0" style="background: #e6f9b9;border: 1px solid #5faade;font-size: 13px;">
-						<tr>
-							<td style="border-bottom: 1px solid #5faade;color: #fc0000;padding: 5px 10px;"><b>0 bought</b></td>
-						</tr>
-						<tr>
-							<td style="padding: 4px;"><span style="font-size: 11px;">Time remaining</span><br /><span id="dd_12968">5</span> d <span id="hh_12968">23</span>:<span id="mm_12968">24</span>:<span id="ss_12968">34</span></td>
-						</tr>
-					</table>-->
 					
 					</td>
 				</tr>
 			</tbody></table>
-			<div style="clear: both;"></div>    
+</div>			    
+			   
           <!-- content -->
-		  </div>		  
 		</td>
 	</tr>
 	<tr>
@@ -548,56 +403,40 @@ table.city_list td a.current {
 
  <!-- Today's Side Deal -->
 	<tr>
-		<td colspan="3" valign="top">
-       <div style="background: #ffffff; padding: 10px 7px;  ">
-		<!-- content -->
-			
-			<a href="http://www.dealticker.com/product.php/product_id/12994">$5.37 for a Personalized "Nice List" Certificate (Free Shipping; Taxes Included) Courtesy of Letters &amp; Gifts from Santa ($10.75 Value)</a>			
+		<td colspan="3" valign="top" style="background: #ffffff; padding: 10px 7px;  ">
+        <!-- content -->
+<div id="ps_18507">
+    <div style="font-size: 12px; color:#000000;text-align:center;padding-bottom: 6px;text-transform: uppercase;">ONLINE DEAL - TAXES &amp; SHIPPING INCLUDED</div>			<a href="http://www.dealticker.com/product.php/product_id/18507">$389 for The Super Angel 5500 Stainless Steel Living Juice Extractor - Super Heavy Duty Juicer for Fruit, Veggies, Leafy Greens, Wheatgrass &amp; More! - Taxes &amp; Shipping Included ($990 Value)</a>			
 			<div style="clear: both;height: 10px;"></div>
 			
-			<a href="http://www.dealticker.com/product.php/product_id/12994"><img src="http://www.dealticker.com/UserFiles/product/4eae235d8a249-92x95.jpg" style="border: solid 2px #bab0b0; width: 95px;float: left; margin-right: 10px;margin-top: 4px;"></a>			
+			<a href="http://www.dealticker.com/product.php/product_id/18507"><img src="http://www.dealticker.com/UserFiles/product/13358238274f9f0dd345079-92x95.jpg" style="border: solid 2px #bab0b0; width: 95px;float: left; margin-right: 10px;margin-top: 4px;"></a>			
 			<table border="0" cellpadding="0" cellspacing="0" style="float: right;width:115px;">
 				<tbody><tr>
 					<td style="font-size: 13px;">Price:</td>
-					<td style="font-size: 15px;"><b>$5.37 </b></td>
+					<td style="font-size: 15px;"><b>$389.00 </b></td>
 				</tr>
 				<tr>
 					<td style="font-size: 13px;">Value:</td>
-					<td style="font-size: 15px;"><b>$10.75 </b></td>
+					<td style="font-size: 15px;"><b>$990.00 </b></td>
 				</tr>
 				<tr>
 					<td style="font-size: 13px;">Discount:</td>
-					<td style="font-size: 15px;"><b>50%</b></td>
+					<td style="font-size: 15px;"><b>61%</b></td>
 				</tr>
 				<tr>
 					<td colspan="2" style="color: #000000;padding-top:5px;text-align:center;">
 					<div style="font-size: 12px;margin-bottom: -2px;"><b>Time Remaining:</b></div>
 					<div style="background: url(http://www.dealticker.com/images/sign_in_l.png) left no-repeat; padding-left: 14px;">
 						<div style="background: url(http://www.dealticker.com/images/sign_in_r.png) right no-repeat; padding: 8px 14px 9px 0;color: #ffffff;">
-						<a href="http://www.dealticker.com/product.php/product_id/12994" class="timer_link"><span id="dd_12994">5</span> d <span id="hh_12994">23</span>:<span id="mm_12994">24</span>:<span id="ss_12994">34</span></a>						</div>
+						<a href="http://www.dealticker.com/product.php/product_id/18507" class="timer_link"><span id="dd_18507">0</span> d <span id="hh_18507">4</span>:<span id="mm_18507">9</span>:<span id="ss_18507">47</span></a>						</div>
 					</div>
-					
-					<!--<div style="background: url(http://www.dealticker.com/images/sign_in_l.png) left no-repeat; padding-left: 14px;">
-						<div style="background: url(http://www.dealticker.com/images/sign_in_r.png) right no-repeat; padding: 8px 14px 9px 0;color: #ffffff;font-size: 13px;">
-						<span id="dd_12994">5</span> d <span id="hh_12994">23</span>:<span id="mm_12994">24</span>:<span id="ss_12994">34</span>
-						</div>
-					</div>
-
-					<table border="0" cellpadding="3" cellspacing="0" style="background: #e6f9b9;border: 1px solid #5faade;font-size: 13px;">
-						<tr>
-							<td style="border-bottom: 1px solid #5faade;color: #fc0000;padding: 5px 10px;"><b>0 bought</b></td>
-						</tr>
-						<tr>
-							<td style="padding: 4px;"><span style="font-size: 11px;">Time remaining</span><br /><span id="dd_12994">5</span> d <span id="hh_12994">23</span>:<span id="mm_12994">24</span>:<span id="ss_12994">34</span></td>
-						</tr>
-					</table>-->
 					
 					</td>
 				</tr>
 			</tbody></table>
-			<div style="clear: both;"></div>    
+</div>			    
+			   
           <!-- content -->
-		  </div>		  
 		</td>
 	</tr>
 	<tr>
@@ -608,56 +447,40 @@ table.city_list td a.current {
 
  <!-- Today's Side Deal -->
 	<tr>
-		<td colspan="3" valign="top">
-       <div style="background: #ffffff; padding: 10px 7px;  ">
-		<!-- content -->
-			
-			<a href="http://www.dealticker.com/product.php/product_id/12785">$29 for Mane Colors Hair Extension Clip Ons (Taxes &amp; Shipping Included) Courtesy of Whitening Lightning ($125 Value)</a>			
+		<td colspan="3" valign="top" style="background: #ffffff; padding: 10px 7px;  ">
+        <!-- content -->
+<div id="ps_18484">
+    <div style="font-size: 12px; color:#000000;text-align:center;padding-bottom: 6px;text-transform: uppercase;">TORONTO</div>			<a href="http://www.dealticker.com/product.php/product_id/18484">$5 for 5 Drop-In ZUMBA® Classes at 2 Convenient Dance Class Toronto Locations ($75 Value) </a>			
 			<div style="clear: both;height: 10px;"></div>
 			
-			<a href="http://www.dealticker.com/product.php/product_id/12785"><img src="http://www.dealticker.com/UserFiles/product/4eaa20fba5cf4.jpg" style="border: solid 2px #bab0b0; width: 95px;float: left; margin-right: 10px;margin-top: 4px;"></a>			
+			<a href="http://www.dealticker.com/product.php/product_id/18484"><img src="http://www.dealticker.com/UserFiles/product/13358973774fa02d21adf75-92x95.jpg" style="border: solid 2px #bab0b0; width: 95px;float: left; margin-right: 10px;margin-top: 4px;"></a>			
 			<table border="0" cellpadding="0" cellspacing="0" style="float: right;width:115px;">
 				<tbody><tr>
 					<td style="font-size: 13px;">Price:</td>
-					<td style="font-size: 15px;"><b>$29.00 </b></td>
+					<td style="font-size: 15px;"><b>$5.00 </b></td>
 				</tr>
 				<tr>
 					<td style="font-size: 13px;">Value:</td>
-					<td style="font-size: 15px;"><b>$125.00 </b></td>
+					<td style="font-size: 15px;"><b>$75.00 </b></td>
 				</tr>
 				<tr>
 					<td style="font-size: 13px;">Discount:</td>
-					<td style="font-size: 15px;"><b>77%</b></td>
+					<td style="font-size: 15px;"><b>93%</b></td>
 				</tr>
 				<tr>
 					<td colspan="2" style="color: #000000;padding-top:5px;text-align:center;">
 					<div style="font-size: 12px;margin-bottom: -2px;"><b>Time Remaining:</b></div>
 					<div style="background: url(http://www.dealticker.com/images/sign_in_l.png) left no-repeat; padding-left: 14px;">
 						<div style="background: url(http://www.dealticker.com/images/sign_in_r.png) right no-repeat; padding: 8px 14px 9px 0;color: #ffffff;">
-						<a href="http://www.dealticker.com/product.php/product_id/12785" class="timer_link"><span id="dd_12785">2</span> d <span id="hh_12785">22</span>:<span id="mm_12785">24</span>:<span id="ss_12785">34</span></a>						</div>
+						<a href="http://www.dealticker.com/product.php/product_id/18484" class="timer_link"><span id="dd_18484">1</span> d <span id="hh_18484">4</span>:<span id="mm_18484">9</span>:<span id="ss_18484">47</span></a>						</div>
 					</div>
-					
-					<!--<div style="background: url(http://www.dealticker.com/images/sign_in_l.png) left no-repeat; padding-left: 14px;">
-						<div style="background: url(http://www.dealticker.com/images/sign_in_r.png) right no-repeat; padding: 8px 14px 9px 0;color: #ffffff;font-size: 13px;">
-						<span id="dd_12785">2</span> d <span id="hh_12785">22</span>:<span id="mm_12785">24</span>:<span id="ss_12785">34</span>
-						</div>
-					</div>
-
-					<table border="0" cellpadding="3" cellspacing="0" style="background: #e6f9b9;border: 1px solid #5faade;font-size: 13px;">
-						<tr>
-							<td style="border-bottom: 1px solid #5faade;color: #fc0000;padding: 5px 10px;"><b>1 bought</b></td>
-						</tr>
-						<tr>
-							<td style="padding: 4px;"><span style="font-size: 11px;">Time remaining</span><br /><span id="dd_12785">2</span> d <span id="hh_12785">22</span>:<span id="mm_12785">24</span>:<span id="ss_12785">34</span></td>
-						</tr>
-					</table>-->
 					
 					</td>
 				</tr>
 			</tbody></table>
-			<div style="clear: both;"></div>    
+</div>			    
+			   
           <!-- content -->
-		  </div>		  
 		</td>
 	</tr>
 	<tr>
@@ -668,22 +491,637 @@ table.city_list td a.current {
 
  <!-- Today's Side Deal -->
 	<tr>
-		<td colspan="3" valign="top">
-       <div style="background: #ffffff; padding: 10px 7px;  ">
-		<!-- content -->
-			
-			<a href="http://www.dealticker.com/product.php/product_id/12546">$24 for A Whitening Kit: Including One Teeth Whitening Pen, One Mineralizing Pen, Vitamin E Swabs, a Shade Guide &amp; Instructions From Smile White ($180 Value)</a>			
+		<td colspan="3" valign="top" style="background: #ffffff; padding: 10px 7px;  ">
+        <!-- content -->
+<div id="ps_18498">
+    <div style="font-size: 12px; color:#000000;text-align:center;padding-bottom: 6px;text-transform: uppercase;">ONLINE DEAL - TAXES &amp; SHIPPING INCLUDED</div>			<a href="http://www.dealticker.com/product.php/product_id/18498">$13 for an Apple Compatible Accessory Pack: Including - Headphones, USB Charger, Wall &amp; Car Adapter for Your Apple Devices – Taxes &amp; Shipping Included ($62 Value)</a>			
 			<div style="clear: both;height: 10px;"></div>
 			
-			<a href="http://www.dealticker.com/product.php/product_id/12546"><img src="http://www.dealticker.com/UserFiles/product/4ea8ca7646dcc.jpg" style="border: solid 2px #bab0b0; width: 95px;float: left; margin-right: 10px;margin-top: 4px;"></a>			
+			<a href="http://www.dealticker.com/product.php/product_id/18498"><img src="http://www.dealticker.com/UserFiles/product/13364200464fa826ce4ba58-92x95.jpg" style="border: solid 2px #bab0b0; width: 95px;float: left; margin-right: 10px;margin-top: 4px;"></a>			
 			<table border="0" cellpadding="0" cellspacing="0" style="float: right;width:115px;">
 				<tbody><tr>
 					<td style="font-size: 13px;">Price:</td>
-					<td style="font-size: 15px;"><b>$24.00 </b></td>
+					<td style="font-size: 15px;"><b>$13.00 </b></td>
 				</tr>
 				<tr>
 					<td style="font-size: 13px;">Value:</td>
-					<td style="font-size: 15px;"><b>$180.00 </b></td>
+					<td style="font-size: 15px;"><b>$62.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Discount:</td>
+					<td style="font-size: 15px;"><b>79%</b></td>
+				</tr>
+				<tr>
+					<td colspan="2" style="color: #000000;padding-top:5px;text-align:center;">
+					<div style="font-size: 12px;margin-bottom: -2px;"><b>Time Remaining:</b></div>
+					<div style="background: url(http://www.dealticker.com/images/sign_in_l.png) left no-repeat; padding-left: 14px;">
+						<div style="background: url(http://www.dealticker.com/images/sign_in_r.png) right no-repeat; padding: 8px 14px 9px 0;color: #ffffff;">
+						<a href="http://www.dealticker.com/product.php/product_id/18498" class="timer_link"><span id="dd_18498">5</span> d <span id="hh_18498">4</span>:<span id="mm_18498">9</span>:<span id="ss_18498">47</span></a>						</div>
+					</div>
+					
+					</td>
+				</tr>
+			</tbody></table>
+</div>			    
+			   
+          <!-- content -->
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3"><div style="height: 5px;"></div></td>
+	</tr>
+
+<!-- Today's Side Deal -->
+
+ <!-- Today's Side Deal -->
+	<tr>
+		<td colspan="3" valign="top" style="background: #ffffff; padding: 10px 7px;  ">
+        <!-- content -->
+<div id="ps_18528">
+    <div style="font-size: 12px; color:#000000;text-align:center;padding-bottom: 6px;text-transform: uppercase;">ONLINE DEAL - TAXES INCLUDED</div>			<a href="http://www.dealticker.com/product.php/product_id/18528">$15 for a Saress Casual Dress (Available in 3 Colours) - Taxes Included ($50 Value)</a>			
+			<div style="clear: both;height: 10px;"></div>
+			
+			<a href="http://www.dealticker.com/product.php/product_id/18528"><img src="http://www.dealticker.com/UserFiles/product/13360766484fa2e968e1392-92x94.gif" style="border: solid 2px #bab0b0; width: 95px;float: left; margin-right: 10px;margin-top: 4px;"></a>			
+			<table border="0" cellpadding="0" cellspacing="0" style="float: right;width:115px;">
+				<tbody><tr>
+					<td style="font-size: 13px;">Price:</td>
+					<td style="font-size: 15px;"><b>$15.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Value:</td>
+					<td style="font-size: 15px;"><b>$50.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Discount:</td>
+					<td style="font-size: 15px;"><b>70%</b></td>
+				</tr>
+				<tr>
+					<td colspan="2" style="color: #000000;padding-top:5px;text-align:center;">
+					<div style="font-size: 12px;margin-bottom: -2px;"><b>Time Remaining:</b></div>
+					<div style="background: url(http://www.dealticker.com/images/sign_in_l.png) left no-repeat; padding-left: 14px;">
+						<div style="background: url(http://www.dealticker.com/images/sign_in_r.png) right no-repeat; padding: 8px 14px 9px 0;color: #ffffff;">
+						<a href="http://www.dealticker.com/product.php/product_id/18528" class="timer_link"><span id="dd_18528">1</span> d <span id="hh_18528">4</span>:<span id="mm_18528">9</span>:<span id="ss_18528">47</span></a>						</div>
+					</div>
+					
+					</td>
+				</tr>
+			</tbody></table>
+</div>			    
+			   
+          <!-- content -->
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3"><div style="height: 5px;"></div></td>
+	</tr>
+
+<!-- Today's Side Deal -->
+
+ <!-- Today's Side Deal -->
+	<tr>
+		<td colspan="3" valign="top" style="background: #ffffff; padding: 10px 7px;  ">
+        <!-- content -->
+<div id="ps_18496">
+    <div style="font-size: 12px; color:#000000;text-align:center;padding-bottom: 6px;text-transform: uppercase;">ONLINE DEAL - TAXES &amp; SHIPPING INCLUDED</div>			<a href="http://www.dealticker.com/product.php/product_id/18496">$15 for a 3-Piece Elizabeth Arden Makeup Brush Set - Taxes and Shipping Included ($70 Value)</a>			
+			<div style="clear: both;height: 10px;"></div>
+			
+			<a href="http://www.dealticker.com/product.php/product_id/18496"><img src="http://www.dealticker.com/UserFiles/product/13359836444fa17e1caa6d9-92x95.jpg" style="border: solid 2px #bab0b0; width: 95px;float: left; margin-right: 10px;margin-top: 4px;"></a>			
+			<table border="0" cellpadding="0" cellspacing="0" style="float: right;width:115px;">
+				<tbody><tr>
+					<td style="font-size: 13px;">Price:</td>
+					<td style="font-size: 15px;"><b>$15.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Value:</td>
+					<td style="font-size: 15px;"><b>$70.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Discount:</td>
+					<td style="font-size: 15px;"><b>79%</b></td>
+				</tr>
+				<tr>
+					<td colspan="2" style="color: #000000;padding-top:5px;text-align:center;">
+					<div style="font-size: 12px;margin-bottom: -2px;"><b>Time Remaining:</b></div>
+					<div style="background: url(http://www.dealticker.com/images/sign_in_l.png) left no-repeat; padding-left: 14px;">
+						<div style="background: url(http://www.dealticker.com/images/sign_in_r.png) right no-repeat; padding: 8px 14px 9px 0;color: #ffffff;">
+						<a href="http://www.dealticker.com/product.php/product_id/18496" class="timer_link"><span id="dd_18496">0</span> d <span id="hh_18496">4</span>:<span id="mm_18496">9</span>:<span id="ss_18496">47</span></a>						</div>
+					</div>
+					
+					</td>
+				</tr>
+			</tbody></table>
+</div>			    
+			   
+          <!-- content -->
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3"><div style="height: 5px;"></div></td>
+	</tr>
+
+<!-- Today's Side Deal -->
+
+ <!-- Today's Side Deal -->
+	<tr>
+		<td colspan="3" valign="top" style="background: #ffffff; padding: 10px 7px;  ">
+        <!-- content -->
+<div id="ps_18505">
+    <div style="font-size: 12px; color:#000000;text-align:center;padding-bottom: 6px;text-transform: uppercase;">ONLINE DEAL - TAXES &amp; SHIPPING INCLUDED</div>			<a href="http://www.dealticker.com/product.php/product_id/18505">$15 for a Seal &amp; Save Bag Sealer &amp; Resealer - Taxes and Shipping Included ($49 Value)</a>			
+			<div style="clear: both;height: 10px;"></div>
+			
+			<a href="http://www.dealticker.com/product.php/product_id/18505"><img src="http://www.dealticker.com/UserFiles/product/13358187074f9ef9d373326-92x95.jpg" style="border: solid 2px #bab0b0; width: 95px;float: left; margin-right: 10px;margin-top: 4px;"></a>			
+			<table border="0" cellpadding="0" cellspacing="0" style="float: right;width:115px;">
+				<tbody><tr>
+					<td style="font-size: 13px;">Price:</td>
+					<td style="font-size: 15px;"><b>$15.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Value:</td>
+					<td style="font-size: 15px;"><b>$49.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Discount:</td>
+					<td style="font-size: 15px;"><b>69%</b></td>
+				</tr>
+				<tr>
+					<td colspan="2" style="color: #000000;padding-top:5px;text-align:center;">
+					<div style="font-size: 12px;margin-bottom: -2px;"><b>Time Remaining:</b></div>
+					<div style="background: url(http://www.dealticker.com/images/sign_in_l.png) left no-repeat; padding-left: 14px;">
+						<div style="background: url(http://www.dealticker.com/images/sign_in_r.png) right no-repeat; padding: 8px 14px 9px 0;color: #ffffff;">
+						<a href="http://www.dealticker.com/product.php/product_id/18505" class="timer_link"><span id="dd_18505">0</span> d <span id="hh_18505">4</span>:<span id="mm_18505">9</span>:<span id="ss_18505">47</span></a>						</div>
+					</div>
+					
+					</td>
+				</tr>
+			</tbody></table>
+</div>			    
+			   
+          <!-- content -->
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3"><div style="height: 5px;"></div></td>
+	</tr>
+
+<!-- Today's Side Deal -->
+
+ <!-- Today's Side Deal -->
+	<tr>
+		<td colspan="3" valign="top" style="background: #ffffff; padding: 10px 7px;  ">
+        <!-- content -->
+<div id="ps_18522">
+    <div style="font-size: 12px; color:#000000;text-align:center;padding-bottom: 6px;text-transform: uppercase;">CAR RENTAL - 200 KM MILEAGE/DAY + INSURANCE</div>			<a href="http://www.dealticker.com/product.php/product_id/18522">2 Car Rental Options: A) $25/day Monday-Thursday ($69.95 Value) OR B) $30/day Friday-Sunday ($89.95 Value) - Includes Insurance &amp; 200 KM Mileage per Day!</a>			
+			<div style="clear: both;height: 10px;"></div>
+			
+			<a href="http://www.dealticker.com/product.php/product_id/18522"><img src="http://www.dealticker.com/UserFiles/product/13359896874fa195b70e943-92x95.jpg" style="border: solid 2px #bab0b0; width: 95px;float: left; margin-right: 10px;margin-top: 4px;"></a>			
+			<table border="0" cellpadding="0" cellspacing="0" style="float: right;width:115px;">
+				<tbody><tr>
+					<td style="font-size: 13px;">Price:</td>
+					<td style="font-size: 15px;"><b>$25.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Value:</td>
+					<td style="font-size: 15px;"><b>$69.95 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Discount:</td>
+					<td style="font-size: 15px;"><b>64%</b></td>
+				</tr>
+				<tr>
+					<td colspan="2" style="color: #000000;padding-top:5px;text-align:center;">
+					<div style="font-size: 12px;margin-bottom: -2px;"><b>Time Remaining:</b></div>
+					<div style="background: url(http://www.dealticker.com/images/sign_in_l.png) left no-repeat; padding-left: 14px;">
+						<div style="background: url(http://www.dealticker.com/images/sign_in_r.png) right no-repeat; padding: 8px 14px 9px 0;color: #ffffff;">
+						<a href="http://www.dealticker.com/product.php/product_id/18522" class="timer_link"><span id="dd_18522">0</span> d <span id="hh_18522">4</span>:<span id="mm_18522">9</span>:<span id="ss_18522">47</span></a>						</div>
+					</div>
+					
+					</td>
+				</tr>
+			</tbody></table>
+</div>			    
+			   
+          <!-- content -->
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3"><div style="height: 5px;"></div></td>
+	</tr>
+
+<!-- Today's Side Deal -->
+
+ <!-- Today's Side Deal -->
+	<tr>
+		<td colspan="3" valign="top" style="background: #ffffff; padding: 10px 7px;  ">
+        <!-- content -->
+<div id="ps_18549">
+    <div style="font-size: 12px; color:#000000;text-align:center;padding-bottom: 6px;text-transform: uppercase;">ONLINE DEAL - TAXES &amp; SHIPPING INCLUDED</div>			<a href="http://www.dealticker.com/product.php/product_id/18549">3 Raspberry Ketone Weight Loss Supplement Options: A) $39 for a 3-Month Supply ($199 Value) OR B) $69 for a 6-Month Supply ($379 Value) OR C) $119 for a 12-Month Supply ($758 Value) - Taxes &amp; Shipping Included</a>			
+			<div style="clear: both;height: 10px;"></div>
+			
+			<a href="http://www.dealticker.com/product.php/product_id/18549"><img src="http://www.dealticker.com/UserFiles/product/13364304274fa84f5b2dd84-92x95.jpg" style="border: solid 2px #bab0b0; width: 95px;float: left; margin-right: 10px;margin-top: 4px;"></a>			
+			<table border="0" cellpadding="0" cellspacing="0" style="float: right;width:115px;">
+				<tbody><tr>
+					<td style="font-size: 13px;">Price:</td>
+					<td style="font-size: 15px;"><b>$39.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Value:</td>
+					<td style="font-size: 15px;"><b>$199.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Discount:</td>
+					<td style="font-size: 15px;"><b>80%</b></td>
+				</tr>
+				<tr>
+					<td colspan="2" style="color: #000000;padding-top:5px;text-align:center;">
+					<div style="font-size: 12px;margin-bottom: -2px;"><b>Time Remaining:</b></div>
+					<div style="background: url(http://www.dealticker.com/images/sign_in_l.png) left no-repeat; padding-left: 14px;">
+						<div style="background: url(http://www.dealticker.com/images/sign_in_r.png) right no-repeat; padding: 8px 14px 9px 0;color: #ffffff;">
+						<a href="http://www.dealticker.com/product.php/product_id/18549" class="timer_link"><span id="dd_18549">5</span> d <span id="hh_18549">4</span>:<span id="mm_18549">9</span>:<span id="ss_18549">47</span></a>						</div>
+					</div>
+					
+					</td>
+				</tr>
+			</tbody></table>
+</div>			    
+			   
+          <!-- content -->
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3"><div style="height: 5px;"></div></td>
+	</tr>
+
+<!-- Today's Side Deal -->
+
+ <!-- Today's Side Deal -->
+	<tr>
+		<td colspan="3" valign="top" style="background: #ffffff; padding: 10px 7px;  ">
+        <!-- content -->
+<div id="ps_18509">
+    <div style="font-size: 12px; color:#000000;text-align:center;padding-bottom: 6px;text-transform: uppercase;">ONLINE DEAL - TAXES &amp; SHIPPING INCLUDED</div>			<a href="http://www.dealticker.com/product.php/product_id/18509">$16 for a 2-Year Subscription (12 Issues) to Our Canada Magazine - Taxes and Postage, Processing and Handling Included ($59.88 Value)</a>			
+			<div style="clear: both;height: 10px;"></div>
+			
+			<a href="http://www.dealticker.com/product.php/product_id/18509"><img src="http://www.dealticker.com/UserFiles/product/13358763894f9fdb25191a4-92x95.jpg" style="border: solid 2px #bab0b0; width: 95px;float: left; margin-right: 10px;margin-top: 4px;"></a>			
+			<table border="0" cellpadding="0" cellspacing="0" style="float: right;width:115px;">
+				<tbody><tr>
+					<td style="font-size: 13px;">Price:</td>
+					<td style="font-size: 15px;"><b>$16.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Value:</td>
+					<td style="font-size: 15px;"><b>$59.88 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Discount:</td>
+					<td style="font-size: 15px;"><b>73%</b></td>
+				</tr>
+				<tr>
+					<td colspan="2" style="color: #000000;padding-top:5px;text-align:center;">
+					<div style="font-size: 12px;margin-bottom: -2px;"><b>Time Remaining:</b></div>
+					<div style="background: url(http://www.dealticker.com/images/sign_in_l.png) left no-repeat; padding-left: 14px;">
+						<div style="background: url(http://www.dealticker.com/images/sign_in_r.png) right no-repeat; padding: 8px 14px 9px 0;color: #ffffff;">
+						<a href="http://www.dealticker.com/product.php/product_id/18509" class="timer_link"><span id="dd_18509">0</span> d <span id="hh_18509">4</span>:<span id="mm_18509">9</span>:<span id="ss_18509">47</span></a>						</div>
+					</div>
+					
+					</td>
+				</tr>
+			</tbody></table>
+</div>			    
+			   
+          <!-- content -->
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3"><div style="height: 5px;"></div></td>
+	</tr>
+
+<!-- Today's Side Deal -->
+
+ <!-- Today's Side Deal -->
+	<tr>
+		<td colspan="3" valign="top" style="background: #ffffff; padding: 10px 7px;  ">
+        <!-- content -->
+<div id="ps_18506">
+    <div style="font-size: 12px; color:#000000;text-align:center;padding-bottom: 6px;text-transform: uppercase;">ONLINE DEAL - TAXES &amp; SHIPPING INCLUDED</div>			<a href="http://www.dealticker.com/product.php/product_id/18506">$139 for the CuisinArt FP-14DCC (14 Cup Die Cast) Elite Food Processor - Taxes &amp; Shipping Included ($305 Value)</a>			
+			<div style="clear: both;height: 10px;"></div>
+			
+			<a href="http://www.dealticker.com/product.php/product_id/18506"><img src="http://www.dealticker.com/UserFiles/product/13358235214f9f0ca156103-92x95.jpg" style="border: solid 2px #bab0b0; width: 95px;float: left; margin-right: 10px;margin-top: 4px;"></a>			
+			<table border="0" cellpadding="0" cellspacing="0" style="float: right;width:115px;">
+				<tbody><tr>
+					<td style="font-size: 13px;">Price:</td>
+					<td style="font-size: 15px;"><b>$139.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Value:</td>
+					<td style="font-size: 15px;"><b>$305.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Discount:</td>
+					<td style="font-size: 15px;"><b>54%</b></td>
+				</tr>
+				<tr>
+					<td colspan="2" style="color: #000000;padding-top:5px;text-align:center;">
+					<div style="font-size: 12px;margin-bottom: -2px;"><b>Time Remaining:</b></div>
+					<div style="background: url(http://www.dealticker.com/images/sign_in_l.png) left no-repeat; padding-left: 14px;">
+						<div style="background: url(http://www.dealticker.com/images/sign_in_r.png) right no-repeat; padding: 8px 14px 9px 0;color: #ffffff;">
+						<a href="http://www.dealticker.com/product.php/product_id/18506" class="timer_link"><span id="dd_18506">0</span> d <span id="hh_18506">4</span>:<span id="mm_18506">9</span>:<span id="ss_18506">47</span></a>						</div>
+					</div>
+					
+					</td>
+				</tr>
+			</tbody></table>
+</div>			    
+			   
+          <!-- content -->
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3"><div style="height: 5px;"></div></td>
+	</tr>
+
+<!-- Today's Side Deal -->
+
+ <!-- Today's Side Deal -->
+	<tr>
+		<td colspan="3" valign="top" style="background: #ffffff; padding: 10px 7px;  ">
+        <!-- content -->
+<div id="ps_18516">
+    <div style="font-size: 12px; color:#000000;text-align:center;padding-bottom: 6px;text-transform: uppercase;">ONLINE DEAL - TAXES &amp; SHIPPING INCLUDED</div>			<a href="http://www.dealticker.com/product.php/product_id/18516">$359 for the Samsung HT C6930W 3D Blu-Ray Surround Sound Home Theatre System - Taxes &amp; Shipping Included ($899 Value)</a>			
+			<div style="clear: both;height: 10px;"></div>
+			
+			<a href="http://www.dealticker.com/product.php/product_id/18516"><img src="http://www.dealticker.com/UserFiles/product/13359080214fa056b5e5c4c-92x95.jpg" style="border: solid 2px #bab0b0; width: 95px;float: left; margin-right: 10px;margin-top: 4px;"></a>			
+			<table border="0" cellpadding="0" cellspacing="0" style="float: right;width:115px;">
+				<tbody><tr>
+					<td style="font-size: 13px;">Price:</td>
+					<td style="font-size: 15px;"><b>$359.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Value:</td>
+					<td style="font-size: 15px;"><b>$899.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Discount:</td>
+					<td style="font-size: 15px;"><b>60%</b></td>
+				</tr>
+				<tr>
+					<td colspan="2" style="color: #000000;padding-top:5px;text-align:center;">
+					<div style="font-size: 12px;margin-bottom: -2px;"><b>Time Remaining:</b></div>
+					<div style="background: url(http://www.dealticker.com/images/sign_in_l.png) left no-repeat; padding-left: 14px;">
+						<div style="background: url(http://www.dealticker.com/images/sign_in_r.png) right no-repeat; padding: 8px 14px 9px 0;color: #ffffff;">
+						<a href="http://www.dealticker.com/product.php/product_id/18516" class="timer_link"><span id="dd_18516">4</span> d <span id="hh_18516">5</span>:<span id="mm_18516">39</span>:<span id="ss_18516">47</span></a>						</div>
+					</div>
+					
+					</td>
+				</tr>
+			</tbody></table>
+</div>			    
+			   
+          <!-- content -->
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3"><div style="height: 5px;"></div></td>
+	</tr>
+
+<!-- Today's Side Deal -->
+
+ <!-- Today's Side Deal -->
+	<tr>
+		<td colspan="3" valign="top" style="background: #ffffff; padding: 10px 7px;  ">
+        <!-- content -->
+<div id="ps_18521">
+    <div style="font-size: 12px; color:#000000;text-align:center;padding-bottom: 6px;text-transform: uppercase;">ONLINE DEAL - TAXES INCLUDED</div>			<a href="http://www.dealticker.com/product.php/product_id/18521">$19 for Six Collagen Facial Masks - Taxes Included ($80 Value)</a>			
+			<div style="clear: both;height: 10px;"></div>
+			
+			<a href="http://www.dealticker.com/product.php/product_id/18521"><img src="http://www.dealticker.com/UserFiles/product/13359880294fa18f3db4eb2-92x95.jpg" style="border: solid 2px #bab0b0; width: 95px;float: left; margin-right: 10px;margin-top: 4px;"></a>			
+			<table border="0" cellpadding="0" cellspacing="0" style="float: right;width:115px;">
+				<tbody><tr>
+					<td style="font-size: 13px;">Price:</td>
+					<td style="font-size: 15px;"><b>$19.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Value:</td>
+					<td style="font-size: 15px;"><b>$80.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Discount:</td>
+					<td style="font-size: 15px;"><b>76%</b></td>
+				</tr>
+				<tr>
+					<td colspan="2" style="color: #000000;padding-top:5px;text-align:center;">
+					<div style="font-size: 12px;margin-bottom: -2px;"><b>Time Remaining:</b></div>
+					<div style="background: url(http://www.dealticker.com/images/sign_in_l.png) left no-repeat; padding-left: 14px;">
+						<div style="background: url(http://www.dealticker.com/images/sign_in_r.png) right no-repeat; padding: 8px 14px 9px 0;color: #ffffff;">
+						<a href="http://www.dealticker.com/product.php/product_id/18521" class="timer_link"><span id="dd_18521">0</span> d <span id="hh_18521">4</span>:<span id="mm_18521">9</span>:<span id="ss_18521">47</span></a>						</div>
+					</div>
+					
+					</td>
+				</tr>
+			</tbody></table>
+</div>			    
+			   
+          <!-- content -->
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3"><div style="height: 5px;"></div></td>
+	</tr>
+
+<!-- Today's Side Deal -->
+
+ <!-- Today's Side Deal -->
+	<tr>
+		<td colspan="3" valign="top" style="background: #ffffff; padding: 10px 7px;  ">
+        <!-- content -->
+<div id="ps_18431">
+    <div style="font-size: 12px; color:#000000;text-align:center;padding-bottom: 6px;text-transform: uppercase;">ONLINE DEAL - TAXES &amp; SHIPPING INCLUDED</div>			<a href="http://www.dealticker.com/product.php/product_id/18431">$17 for an iPhone 4/4S Leather Two-in-One Wallet &amp; Case - Taxes and Shipping Included (52.99 Value)</a>			
+			<div style="clear: both;height: 10px;"></div>
+			
+			<a href="http://www.dealticker.com/product.php/product_id/18431"><img src="http://www.dealticker.com/UserFiles/product/13358086304f9ed276a56dd-92x95.jpg" style="border: solid 2px #bab0b0; width: 95px;float: left; margin-right: 10px;margin-top: 4px;"></a>			
+			<table border="0" cellpadding="0" cellspacing="0" style="float: right;width:115px;">
+				<tbody><tr>
+					<td style="font-size: 13px;">Price:</td>
+					<td style="font-size: 15px;"><b>$17.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Value:</td>
+					<td style="font-size: 15px;"><b>$52.99 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Discount:</td>
+					<td style="font-size: 15px;"><b>68%</b></td>
+				</tr>
+				<tr>
+					<td colspan="2" style="color: #000000;padding-top:5px;text-align:center;">
+					<div style="font-size: 12px;margin-bottom: -2px;"><b>Time Remaining:</b></div>
+					<div style="background: url(http://www.dealticker.com/images/sign_in_l.png) left no-repeat; padding-left: 14px;">
+						<div style="background: url(http://www.dealticker.com/images/sign_in_r.png) right no-repeat; padding: 8px 14px 9px 0;color: #ffffff;">
+						<a href="http://www.dealticker.com/product.php/product_id/18431" class="timer_link"><span id="dd_18431">0</span> d <span id="hh_18431">4</span>:<span id="mm_18431">9</span>:<span id="ss_18431">47</span></a>						</div>
+					</div>
+					
+					</td>
+				</tr>
+			</tbody></table>
+</div>			    
+			   
+          <!-- content -->
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3"><div style="height: 5px;"></div></td>
+	</tr>
+
+<!-- Today's Side Deal -->
+
+ <!-- Today's Side Deal -->
+	<tr>
+		<td colspan="3" valign="top" style="background: #ffffff; padding: 10px 7px;  ">
+        <!-- content -->
+<div id="ps_18518">
+    <div style="font-size: 12px; color:#000000;text-align:center;padding-bottom: 6px;text-transform: uppercase;">YORK REGION</div>			<a href="http://www.dealticker.com/product.php/product_id/18518">$39 for 3 Skin Tightening Sessions at Markham Natural Health Centre ($600 Value)</a>			
+			<div style="clear: both;height: 10px;"></div>
+			
+			<a href="http://www.dealticker.com/product.php/product_id/18518"><img src="http://www.dealticker.com/UserFiles/product/13359122564fa06740980ad-92x95.jpg" style="border: solid 2px #bab0b0; width: 95px;float: left; margin-right: 10px;margin-top: 4px;"></a>			
+			<table border="0" cellpadding="0" cellspacing="0" style="float: right;width:115px;">
+				<tbody><tr>
+					<td style="font-size: 13px;">Price:</td>
+					<td style="font-size: 15px;"><b>$39.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Value:</td>
+					<td style="font-size: 15px;"><b>$600.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Discount:</td>
+					<td style="font-size: 15px;"><b>94%</b></td>
+				</tr>
+				<tr>
+					<td colspan="2" style="color: #000000;padding-top:5px;text-align:center;">
+					<div style="font-size: 12px;margin-bottom: -2px;"><b>Time Remaining:</b></div>
+					<div style="background: url(http://www.dealticker.com/images/sign_in_l.png) left no-repeat; padding-left: 14px;">
+						<div style="background: url(http://www.dealticker.com/images/sign_in_r.png) right no-repeat; padding: 8px 14px 9px 0;color: #ffffff;">
+						<a href="http://www.dealticker.com/product.php/product_id/18518" class="timer_link"><span id="dd_18518">1</span> d <span id="hh_18518">4</span>:<span id="mm_18518">9</span>:<span id="ss_18518">47</span></a>						</div>
+					</div>
+					
+					</td>
+				</tr>
+			</tbody></table>
+</div>			    
+			   
+          <!-- content -->
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3"><div style="height: 5px;"></div></td>
+	</tr>
+
+<!-- Today's Side Deal -->
+
+ <!-- Today's Side Deal -->
+	<tr>
+		<td colspan="3" valign="top" style="background: #ffffff; padding: 10px 7px;  ">
+        <!-- content -->
+<div id="ps_18552">
+    <div style="font-size: 12px; color:#000000;text-align:center;padding-bottom: 6px;text-transform: uppercase;">ONLINE DEAL - TAXES &amp; SHIPPING INCLUDED</div>			<a href="http://www.dealticker.com/product.php/product_id/18552">$10 for Apple-Compatible Stereo Earphones with Mic &amp; 1-Button Control - Taxes &amp; Shipping Included ($50 Value)</a>			
+			<div style="clear: both;height: 10px;"></div>
+			
+			<a href="http://www.dealticker.com/product.php/product_id/18552"><img src="http://www.dealticker.com/UserFiles/product/13364891954fa934eb3e776-92x95.jpg" style="border: solid 2px #bab0b0; width: 95px;float: left; margin-right: 10px;margin-top: 4px;"></a>			
+			<table border="0" cellpadding="0" cellspacing="0" style="float: right;width:115px;">
+				<tbody><tr>
+					<td style="font-size: 13px;">Price:</td>
+					<td style="font-size: 15px;"><b>$10.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Value:</td>
+					<td style="font-size: 15px;"><b>$50.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Discount:</td>
+					<td style="font-size: 15px;"><b>80%</b></td>
+				</tr>
+				<tr>
+					<td colspan="2" style="color: #000000;padding-top:5px;text-align:center;">
+					<div style="font-size: 12px;margin-bottom: -2px;"><b>Time Remaining:</b></div>
+					<div style="background: url(http://www.dealticker.com/images/sign_in_l.png) left no-repeat; padding-left: 14px;">
+						<div style="background: url(http://www.dealticker.com/images/sign_in_r.png) right no-repeat; padding: 8px 14px 9px 0;color: #ffffff;">
+						<a href="http://www.dealticker.com/product.php/product_id/18552" class="timer_link"><span id="dd_18552">5</span> d <span id="hh_18552">9</span>:<span id="mm_18552">9</span>:<span id="ss_18552">47</span></a>						</div>
+					</div>
+					
+					</td>
+				</tr>
+			</tbody></table>
+</div>			    
+			   
+          <!-- content -->
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3"><div style="height: 5px;"></div></td>
+	</tr>
+
+<!-- Today's Side Deal -->
+
+ <!-- Today's Side Deal -->
+	<tr>
+		<td colspan="3" valign="top" style="background: #ffffff; padding: 10px 7px;  ">
+        <!-- content -->
+<div id="ps_18551">
+    <div style="font-size: 12px; color:#000000;text-align:center;padding-bottom: 6px;text-transform: uppercase;">ONLINE DEAL - TAXES &amp; SHIPPING INCLUDED</div>			<a href="http://www.dealticker.com/product.php/product_id/18551">$25 for a Super V9 Electronic e-Cigarette Kit with a Car Charger, Wall Charger, USB Compatible Charger, and 10 Tobacco Flavored Cartridges ($120 Value)</a>			
+			<div style="clear: both;height: 10px;"></div>
+			
+			<a href="http://www.dealticker.com/product.php/product_id/18551"><img src="http://www.dealticker.com/UserFiles/product/13364883194fa9317fcc2a5-92x94.gif" style="border: solid 2px #bab0b0; width: 95px;float: left; margin-right: 10px;margin-top: 4px;"></a>			
+			<table border="0" cellpadding="0" cellspacing="0" style="float: right;width:115px;">
+				<tbody><tr>
+					<td style="font-size: 13px;">Price:</td>
+					<td style="font-size: 15px;"><b>$25.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Value:</td>
+					<td style="font-size: 15px;"><b>$120.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Discount:</td>
+					<td style="font-size: 15px;"><b>79%</b></td>
+				</tr>
+				<tr>
+					<td colspan="2" style="color: #000000;padding-top:5px;text-align:center;">
+					<div style="font-size: 12px;margin-bottom: -2px;"><b>Time Remaining:</b></div>
+					<div style="background: url(http://www.dealticker.com/images/sign_in_l.png) left no-repeat; padding-left: 14px;">
+						<div style="background: url(http://www.dealticker.com/images/sign_in_r.png) right no-repeat; padding: 8px 14px 9px 0;color: #ffffff;">
+						<a href="http://www.dealticker.com/product.php/product_id/18551" class="timer_link"><span id="dd_18551">5</span> d <span id="hh_18551">9</span>:<span id="mm_18551">9</span>:<span id="ss_18551">47</span></a>						</div>
+					</div>
+					
+					</td>
+				</tr>
+			</tbody></table>
+</div>			    
+			   
+          <!-- content -->
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3"><div style="height: 5px;"></div></td>
+	</tr>
+
+<!-- Today's Side Deal -->
+
+ <!-- Today's Side Deal -->
+	<tr>
+		<td colspan="3" valign="top" style="background: #ffffff; padding: 10px 7px;  ">
+        <!-- content -->
+<div id="ps_18434">
+    <div style="font-size: 12px; color:#000000;text-align:center;padding-bottom: 6px;text-transform: uppercase;">ONLINE DEAL</div>			<a href="http://www.dealticker.com/product.php/product_id/18434">$79 for a 150-Hour Specialist TEFL/TESOL Course from Global Leadership College ($599 Value) - Certificated Awarded upon Completion of Course</a>			
+			<div style="clear: both;height: 10px;"></div>
+			
+			<a href="http://www.dealticker.com/product.php/product_id/18434"><img src="http://www.dealticker.com/UserFiles/product/13359744054fa15a0585be1-92x95.jpg" style="border: solid 2px #bab0b0; width: 95px;float: left; margin-right: 10px;margin-top: 4px;"></a>			
+			<table border="0" cellpadding="0" cellspacing="0" style="float: right;width:115px;">
+				<tbody><tr>
+					<td style="font-size: 13px;">Price:</td>
+					<td style="font-size: 15px;"><b>$79.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Value:</td>
+					<td style="font-size: 15px;"><b>$599.00 </b></td>
 				</tr>
 				<tr>
 					<td style="font-size: 13px;">Discount:</td>
@@ -694,30 +1132,851 @@ table.city_list td a.current {
 					<div style="font-size: 12px;margin-bottom: -2px;"><b>Time Remaining:</b></div>
 					<div style="background: url(http://www.dealticker.com/images/sign_in_l.png) left no-repeat; padding-left: 14px;">
 						<div style="background: url(http://www.dealticker.com/images/sign_in_r.png) right no-repeat; padding: 8px 14px 9px 0;color: #ffffff;">
-						<a href="http://www.dealticker.com/product.php/product_id/12546" class="timer_link"><span id="dd_12546">1</span> d <span id="hh_12546">22</span>:<span id="mm_12546">24</span>:<span id="ss_12546">34</span></a>						</div>
+						<a href="http://www.dealticker.com/product.php/product_id/18434" class="timer_link"><span id="dd_18434">0</span> d <span id="hh_18434">4</span>:<span id="mm_18434">9</span>:<span id="ss_18434">47</span></a>						</div>
 					</div>
-					
-					<!--<div style="background: url(http://www.dealticker.com/images/sign_in_l.png) left no-repeat; padding-left: 14px;">
-						<div style="background: url(http://www.dealticker.com/images/sign_in_r.png) right no-repeat; padding: 8px 14px 9px 0;color: #ffffff;font-size: 13px;">
-						<span id="dd_12546">1</span> d <span id="hh_12546">22</span>:<span id="mm_12546">24</span>:<span id="ss_12546">34</span>
-						</div>
-					</div>
-
-					<table border="0" cellpadding="3" cellspacing="0" style="background: #e6f9b9;border: 1px solid #5faade;font-size: 13px;">
-						<tr>
-							<td style="border-bottom: 1px solid #5faade;color: #fc0000;padding: 5px 10px;"><b>0 bought</b></td>
-						</tr>
-						<tr>
-							<td style="padding: 4px;"><span style="font-size: 11px;">Time remaining</span><br /><span id="dd_12546">1</span> d <span id="hh_12546">22</span>:<span id="mm_12546">24</span>:<span id="ss_12546">34</span></td>
-						</tr>
-					</table>-->
 					
 					</td>
 				</tr>
 			</tbody></table>
-			<div style="clear: both;"></div>    
+</div>			    
+			   
           <!-- content -->
-		  </div>		  
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3"><div style="height: 5px;"></div></td>
+	</tr>
+
+<!-- Today's Side Deal -->
+
+ <!-- Today's Side Deal -->
+	<tr>
+		<td colspan="3" valign="top" style="background: #ffffff; padding: 10px 7px;  ">
+        <!-- content -->
+<div id="ps_18555">
+    <div style="font-size: 12px; color:#000000;text-align:center;padding-bottom: 6px;text-transform: uppercase;">ONLINE DEAL - TAXES &amp; SHIPPING INCLUDED</div>			<a href="http://www.dealticker.com/product.php/product_id/18555">$5 for an Anti-Dust Plug Stylus for iPhone or iPad - Taxes &amp; Shipping Included ($21.99 Value)</a>			
+			<div style="clear: both;height: 10px;"></div>
+			
+			<a href="http://www.dealticker.com/product.php/product_id/18555"><img src="http://www.dealticker.com/UserFiles/product/13364992944fa95c5ed09d0-92x95.jpg" style="border: solid 2px #bab0b0; width: 95px;float: left; margin-right: 10px;margin-top: 4px;"></a>			
+			<table border="0" cellpadding="0" cellspacing="0" style="float: right;width:115px;">
+				<tbody><tr>
+					<td style="font-size: 13px;">Price:</td>
+					<td style="font-size: 15px;"><b>$5.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Value:</td>
+					<td style="font-size: 15px;"><b>$21.99 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Discount:</td>
+					<td style="font-size: 15px;"><b>77%</b></td>
+				</tr>
+				<tr>
+					<td colspan="2" style="color: #000000;padding-top:5px;text-align:center;">
+					<div style="font-size: 12px;margin-bottom: -2px;"><b>Time Remaining:</b></div>
+					<div style="background: url(http://www.dealticker.com/images/sign_in_l.png) left no-repeat; padding-left: 14px;">
+						<div style="background: url(http://www.dealticker.com/images/sign_in_r.png) right no-repeat; padding: 8px 14px 9px 0;color: #ffffff;">
+						<a href="http://www.dealticker.com/product.php/product_id/18555" class="timer_link"><span id="dd_18555">6</span> d <span id="hh_18555">4</span>:<span id="mm_18555">9</span>:<span id="ss_18555">47</span></a>						</div>
+					</div>
+					
+					</td>
+				</tr>
+			</tbody></table>
+</div>			    
+			   
+          <!-- content -->
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3"><div style="height: 5px;"></div></td>
+	</tr>
+
+<!-- Today's Side Deal -->
+
+ <!-- Today's Side Deal -->
+	<tr>
+		<td colspan="3" valign="top" style="background: #ffffff; padding: 10px 7px;  ">
+        <!-- content -->
+<div id="ps_18458">
+    <div style="font-size: 12px; color:#000000;text-align:center;padding-bottom: 6px;text-transform: uppercase;">HOTEL &amp; TRAVEL</div>			<a href="http://www.dealticker.com/product.php/product_id/18458">$39 for a 1-Night Stay for 2 at the Glengate Hotel &amp; Suites in Niagara Falls - Includes: Continental Breakfast, North American Long Distance Calling, Parking and WiFi ($89 Value)</a>			
+			<div style="clear: both;height: 10px;"></div>
+			
+			<a href="http://www.dealticker.com/product.php/product_id/18458"><img src="http://www.dealticker.com/UserFiles/product/13360602654fa2a969ae972-92x95.jpg" style="border: solid 2px #bab0b0; width: 95px;float: left; margin-right: 10px;margin-top: 4px;"></a>			
+			<table border="0" cellpadding="0" cellspacing="0" style="float: right;width:115px;">
+				<tbody><tr>
+					<td style="font-size: 13px;">Price:</td>
+					<td style="font-size: 15px;"><b>$39.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Value:</td>
+					<td style="font-size: 15px;"><b>$89.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Discount:</td>
+					<td style="font-size: 15px;"><b>56%</b></td>
+				</tr>
+				<tr>
+					<td colspan="2" style="color: #000000;padding-top:5px;text-align:center;">
+					<div style="font-size: 12px;margin-bottom: -2px;"><b>Time Remaining:</b></div>
+					<div style="background: url(http://www.dealticker.com/images/sign_in_l.png) left no-repeat; padding-left: 14px;">
+						<div style="background: url(http://www.dealticker.com/images/sign_in_r.png) right no-repeat; padding: 8px 14px 9px 0;color: #ffffff;">
+						<a href="http://www.dealticker.com/product.php/product_id/18458" class="timer_link"><span id="dd_18458">1</span> d <span id="hh_18458">4</span>:<span id="mm_18458">9</span>:<span id="ss_18458">47</span></a>						</div>
+					</div>
+					
+					</td>
+				</tr>
+			</tbody></table>
+</div>			    
+			   
+          <!-- content -->
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3"><div style="height: 5px;"></div></td>
+	</tr>
+
+<!-- Today's Side Deal -->
+
+ <!-- Today's Side Deal -->
+	<tr>
+		<td colspan="3" valign="top" style="background: #ffffff; padding: 10px 7px;  ">
+        <!-- content -->
+<div id="ps_18531">
+    <div style="font-size: 12px; color:#000000;text-align:center;padding-bottom: 6px;text-transform: uppercase;">TORONTO</div>			<a href="http://www.dealticker.com/product.php/product_id/18531">$5 for 5 Bootcamp Classes at Suzy Mari Health &amp; Fitness Studio ($125 Value)</a>			
+			<div style="clear: both;height: 10px;"></div>
+			
+			<a href="http://www.dealticker.com/product.php/product_id/18531"><img src="http://www.dealticker.com/UserFiles/product/13360809314fa2fa236f7c2-92x95.jpg" style="border: solid 2px #bab0b0; width: 95px;float: left; margin-right: 10px;margin-top: 4px;"></a>			
+			<table border="0" cellpadding="0" cellspacing="0" style="float: right;width:115px;">
+				<tbody><tr>
+					<td style="font-size: 13px;">Price:</td>
+					<td style="font-size: 15px;"><b>$5.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Value:</td>
+					<td style="font-size: 15px;"><b>$125.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Discount:</td>
+					<td style="font-size: 15px;"><b>96%</b></td>
+				</tr>
+				<tr>
+					<td colspan="2" style="color: #000000;padding-top:5px;text-align:center;">
+					<div style="font-size: 12px;margin-bottom: -2px;"><b>Time Remaining:</b></div>
+					<div style="background: url(http://www.dealticker.com/images/sign_in_l.png) left no-repeat; padding-left: 14px;">
+						<div style="background: url(http://www.dealticker.com/images/sign_in_r.png) right no-repeat; padding: 8px 14px 9px 0;color: #ffffff;">
+						<a href="http://www.dealticker.com/product.php/product_id/18531" class="timer_link"><span id="dd_18531">1</span> d <span id="hh_18531">4</span>:<span id="mm_18531">9</span>:<span id="ss_18531">47</span></a>						</div>
+					</div>
+					
+					</td>
+				</tr>
+			</tbody></table>
+</div>			    
+			   
+          <!-- content -->
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3"><div style="height: 5px;"></div></td>
+	</tr>
+
+<!-- Today's Side Deal -->
+
+ <!-- Today's Side Deal -->
+	<tr>
+		<td colspan="3" valign="top" style="background: #ffffff; padding: 10px 7px;  ">
+        <!-- content -->
+<div id="ps_18537">
+    <div style="font-size: 12px; color:#000000;text-align:center;padding-bottom: 6px;text-transform: uppercase;">GREATER TORONTO AREA</div>			<a href="http://www.dealticker.com/product.php/product_id/18537">$9 for $20 worth of Fireworks (Taxes Included) from Ultimate Fireworks - PERFECT FOR VICTORIA DAY &amp; CANADA DAY!</a>			
+			<div style="clear: both;height: 10px;"></div>
+			
+			<a href="http://www.dealticker.com/product.php/product_id/18537"><img src="http://www.dealticker.com/UserFiles/product/13362514754fa59453ae19b-92x95.jpg" style="border: solid 2px #bab0b0; width: 95px;float: left; margin-right: 10px;margin-top: 4px;"></a>			
+			<table border="0" cellpadding="0" cellspacing="0" style="float: right;width:115px;">
+				<tbody><tr>
+					<td style="font-size: 13px;">Price:</td>
+					<td style="font-size: 15px;"><b>$9.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Value:</td>
+					<td style="font-size: 15px;"><b>$20.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Discount:</td>
+					<td style="font-size: 15px;"><b>55%</b></td>
+				</tr>
+				<tr>
+					<td colspan="2" style="color: #000000;padding-top:5px;text-align:center;">
+					<div style="font-size: 12px;margin-bottom: -2px;"><b>Time Remaining:</b></div>
+					<div style="background: url(http://www.dealticker.com/images/sign_in_l.png) left no-repeat; padding-left: 14px;">
+						<div style="background: url(http://www.dealticker.com/images/sign_in_r.png) right no-repeat; padding: 8px 14px 9px 0;color: #ffffff;">
+						<a href="http://www.dealticker.com/product.php/product_id/18537" class="timer_link"><span id="dd_18537">4</span> d <span id="hh_18537">4</span>:<span id="mm_18537">9</span>:<span id="ss_18537">47</span></a>						</div>
+					</div>
+					
+					</td>
+				</tr>
+			</tbody></table>
+</div>			    
+			   
+          <!-- content -->
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3"><div style="height: 5px;"></div></td>
+	</tr>
+
+<!-- Today's Side Deal -->
+
+ <!-- Today's Side Deal -->
+	<tr>
+		<td colspan="3" valign="top" style="background: #ffffff; padding: 10px 7px;  ">
+        <!-- content -->
+<div id="ps_18538">
+    <div style="font-size: 12px; color:#000000;text-align:center;padding-bottom: 6px;text-transform: uppercase;">ONLINE DEAL - TAXES INCLUDED</div>			<a href="http://www.dealticker.com/product.php/product_id/18538">$49 for a Proliss Infusion Flat Iron - Taxes Included ($290 Value)</a>			
+			<div style="clear: both;height: 10px;"></div>
+			
+			<a href="http://www.dealticker.com/product.php/product_id/18538"><img src="http://www.dealticker.com/UserFiles/product/13363205284fa6a21078175-92x95.jpg" style="border: solid 2px #bab0b0; width: 95px;float: left; margin-right: 10px;margin-top: 4px;"></a>			
+			<table border="0" cellpadding="0" cellspacing="0" style="float: right;width:115px;">
+				<tbody><tr>
+					<td style="font-size: 13px;">Price:</td>
+					<td style="font-size: 15px;"><b>$49.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Value:</td>
+					<td style="font-size: 15px;"><b>$290.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Discount:</td>
+					<td style="font-size: 15px;"><b>83%</b></td>
+				</tr>
+				<tr>
+					<td colspan="2" style="color: #000000;padding-top:5px;text-align:center;">
+					<div style="font-size: 12px;margin-bottom: -2px;"><b>Time Remaining:</b></div>
+					<div style="background: url(http://www.dealticker.com/images/sign_in_l.png) left no-repeat; padding-left: 14px;">
+						<div style="background: url(http://www.dealticker.com/images/sign_in_r.png) right no-repeat; padding: 8px 14px 9px 0;color: #ffffff;">
+						<a href="http://www.dealticker.com/product.php/product_id/18538" class="timer_link"><span id="dd_18538">4</span> d <span id="hh_18538">4</span>:<span id="mm_18538">9</span>:<span id="ss_18538">47</span></a>						</div>
+					</div>
+					
+					</td>
+				</tr>
+			</tbody></table>
+</div>			    
+			   
+          <!-- content -->
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3"><div style="height: 5px;"></div></td>
+	</tr>
+
+<!-- Today's Side Deal -->
+
+ <!-- Today's Side Deal -->
+	<tr>
+		<td colspan="3" valign="top" style="background: #ffffff; padding: 10px 7px;  ">
+        <!-- content -->
+<div id="ps_18523">
+    <div style="font-size: 12px; color:#000000;text-align:center;padding-bottom: 6px;text-transform: uppercase;">MISSISSAUGA MOBILE</div>			<a href="http://www.dealticker.com/product.php/product_id/18523">$29 for a Professional Carpet Cleaning for 3 Rooms + 1 Hallway from C-Tech Carpet Cleaning ($215 Value)</a>			
+			<div style="clear: both;height: 10px;"></div>
+			
+			<a href="http://www.dealticker.com/product.php/product_id/18523"><img src="http://www.dealticker.com/UserFiles/product/13360831784fa302ea363b5-92x95.jpg" style="border: solid 2px #bab0b0; width: 95px;float: left; margin-right: 10px;margin-top: 4px;"></a>			
+			<table border="0" cellpadding="0" cellspacing="0" style="float: right;width:115px;">
+				<tbody><tr>
+					<td style="font-size: 13px;">Price:</td>
+					<td style="font-size: 15px;"><b>$29.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Value:</td>
+					<td style="font-size: 15px;"><b>$215.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Discount:</td>
+					<td style="font-size: 15px;"><b>87%</b></td>
+				</tr>
+				<tr>
+					<td colspan="2" style="color: #000000;padding-top:5px;text-align:center;">
+					<div style="font-size: 12px;margin-bottom: -2px;"><b>Time Remaining:</b></div>
+					<div style="background: url(http://www.dealticker.com/images/sign_in_l.png) left no-repeat; padding-left: 14px;">
+						<div style="background: url(http://www.dealticker.com/images/sign_in_r.png) right no-repeat; padding: 8px 14px 9px 0;color: #ffffff;">
+						<a href="http://www.dealticker.com/product.php/product_id/18523" class="timer_link"><span id="dd_18523">1</span> d <span id="hh_18523">4</span>:<span id="mm_18523">9</span>:<span id="ss_18523">47</span></a>						</div>
+					</div>
+					
+					</td>
+				</tr>
+			</tbody></table>
+</div>			    
+			   
+          <!-- content -->
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3"><div style="height: 5px;"></div></td>
+	</tr>
+
+<!-- Today's Side Deal -->
+
+ <!-- Today's Side Deal -->
+	<tr>
+		<td colspan="3" valign="top" style="background: #ffffff; padding: 10px 7px;  ">
+        <!-- content -->
+<div id="ps_18561">
+    <div style="font-size: 12px; color:#000000;text-align:center;padding-bottom: 6px;text-transform: uppercase;">ONLINE DEAL - TAXES &amp; SHIPPING INCLUDED</div>			<a href="http://www.dealticker.com/product.php/product_id/18561">$22 for a Pair of Crystal Hoop Earrings made with Swarovski Elements (Available in Silver and Gold) - Taxes &amp; Shipping Included ($79.99 Value)</a>			
+			<div style="clear: both;height: 10px;"></div>
+			
+			<a href="http://www.dealticker.com/product.php/product_id/18561"><img src="http://www.dealticker.com/UserFiles/product/13365164864fa99f869231d-92x94.gif" style="border: solid 2px #bab0b0; width: 95px;float: left; margin-right: 10px;margin-top: 4px;"></a>			
+			<table border="0" cellpadding="0" cellspacing="0" style="float: right;width:115px;">
+				<tbody><tr>
+					<td style="font-size: 13px;">Price:</td>
+					<td style="font-size: 15px;"><b>$22.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Value:</td>
+					<td style="font-size: 15px;"><b>$79.99 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Discount:</td>
+					<td style="font-size: 15px;"><b>72%</b></td>
+				</tr>
+				<tr>
+					<td colspan="2" style="color: #000000;padding-top:5px;text-align:center;">
+					<div style="font-size: 12px;margin-bottom: -2px;"><b>Time Remaining:</b></div>
+					<div style="background: url(http://www.dealticker.com/images/sign_in_l.png) left no-repeat; padding-left: 14px;">
+						<div style="background: url(http://www.dealticker.com/images/sign_in_r.png) right no-repeat; padding: 8px 14px 9px 0;color: #ffffff;">
+						<a href="http://www.dealticker.com/product.php/product_id/18561" class="timer_link"><span id="dd_18561">6</span> d <span id="hh_18561">4</span>:<span id="mm_18561">9</span>:<span id="ss_18561">47</span></a>						</div>
+					</div>
+					
+					</td>
+				</tr>
+			</tbody></table>
+</div>			    
+			   
+          <!-- content -->
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3"><div style="height: 5px;"></div></td>
+	</tr>
+
+<!-- Today's Side Deal -->
+
+ <!-- Today's Side Deal -->
+	<tr>
+		<td colspan="3" valign="top" style="background: #ffffff; padding: 10px 7px;  ">
+        <!-- content -->
+<div id="ps_18541">
+    <div style="font-size: 12px; color:#000000;text-align:center;padding-bottom: 6px;text-transform: uppercase;">YORK REGION</div>			<a href="http://www.dealticker.com/product.php/product_id/18541">$20 for a Wash, Cut, Scalp Massage, Deep Conditioning Treatment, Blowdry &amp; Style + 50% off Colour and Highlights at Hairpin Salon ($70 Value)</a>			
+			<div style="clear: both;height: 10px;"></div>
+			
+			<a href="http://www.dealticker.com/product.php/product_id/18541"><img src="http://www.dealticker.com/UserFiles/product/13363249284fa6b3402ef17-92x95.jpg" style="border: solid 2px #bab0b0; width: 95px;float: left; margin-right: 10px;margin-top: 4px;"></a>			
+			<table border="0" cellpadding="0" cellspacing="0" style="float: right;width:115px;">
+				<tbody><tr>
+					<td style="font-size: 13px;">Price:</td>
+					<td style="font-size: 15px;"><b>$20.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Value:</td>
+					<td style="font-size: 15px;"><b>$70.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Discount:</td>
+					<td style="font-size: 15px;"><b>71%</b></td>
+				</tr>
+				<tr>
+					<td colspan="2" style="color: #000000;padding-top:5px;text-align:center;">
+					<div style="font-size: 12px;margin-bottom: -2px;"><b>Time Remaining:</b></div>
+					<div style="background: url(http://www.dealticker.com/images/sign_in_l.png) left no-repeat; padding-left: 14px;">
+						<div style="background: url(http://www.dealticker.com/images/sign_in_r.png) right no-repeat; padding: 8px 14px 9px 0;color: #ffffff;">
+						<a href="http://www.dealticker.com/product.php/product_id/18541" class="timer_link"><span id="dd_18541">4</span> d <span id="hh_18541">4</span>:<span id="mm_18541">9</span>:<span id="ss_18541">47</span></a>						</div>
+					</div>
+					
+					</td>
+				</tr>
+			</tbody></table>
+</div>			    
+			   
+          <!-- content -->
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3"><div style="height: 5px;"></div></td>
+	</tr>
+
+<!-- Today's Side Deal -->
+
+ <!-- Today's Side Deal -->
+	<tr>
+		<td colspan="3" valign="top" style="background: #ffffff; padding: 10px 7px;  ">
+        <!-- content -->
+<div id="ps_18513">
+    <div style="font-size: 12px; color:#000000;text-align:center;padding-bottom: 6px;text-transform: uppercase;">YORK REGION</div>			<a href="http://www.dealticker.com/product.php/product_id/18513">2 Teeth Whitening Options: A) $39 for 2 Back-to-Back Professional Cool Blue Light Sessions OR B) $49 for 2 Back-to-Back Professional Cool Blue Laser LED Sessions + PowerSwabs Stain Remover Pre-Treatment at Pure Image Teeth Whitening</a>			
+			<div style="clear: both;height: 10px;"></div>
+			
+			<a href="http://www.dealticker.com/product.php/product_id/18513"><img src="http://www.dealticker.com/UserFiles/product/13360910254fa32191b2e50-92x95.jpg" style="border: solid 2px #bab0b0; width: 95px;float: left; margin-right: 10px;margin-top: 4px;"></a>			
+			<table border="0" cellpadding="0" cellspacing="0" style="float: right;width:115px;">
+				<tbody><tr>
+					<td style="font-size: 13px;">Price:</td>
+					<td style="font-size: 15px;"><b>$39.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Value:</td>
+					<td style="font-size: 15px;"><b>$299.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Discount:</td>
+					<td style="font-size: 15px;"><b>87%</b></td>
+				</tr>
+				<tr>
+					<td colspan="2" style="color: #000000;padding-top:5px;text-align:center;">
+					<div style="font-size: 12px;margin-bottom: -2px;"><b>Time Remaining:</b></div>
+					<div style="background: url(http://www.dealticker.com/images/sign_in_l.png) left no-repeat; padding-left: 14px;">
+						<div style="background: url(http://www.dealticker.com/images/sign_in_r.png) right no-repeat; padding: 8px 14px 9px 0;color: #ffffff;">
+						<a href="http://www.dealticker.com/product.php/product_id/18513" class="timer_link"><span id="dd_18513">1</span> d <span id="hh_18513">4</span>:<span id="mm_18513">9</span>:<span id="ss_18513">47</span></a>						</div>
+					</div>
+					
+					</td>
+				</tr>
+			</tbody></table>
+</div>			    
+			   
+          <!-- content -->
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3"><div style="height: 5px;"></div></td>
+	</tr>
+
+<!-- Today's Side Deal -->
+
+ <!-- Today's Side Deal -->
+	<tr>
+		<td colspan="3" valign="top" style="background: #ffffff; padding: 10px 7px;  ">
+        <!-- content -->
+<div id="ps_18532">
+    <div style="font-size: 12px; color:#000000;text-align:center;padding-bottom: 6px;text-transform: uppercase;">ONLINE DEAL - TAXES INCLUDED</div>			<a href="http://www.dealticker.com/product.php/product_id/18532">$29 for an Optical Telescopic Lens for iPhone 4/4S and BlackBerry - Taxes Included ($89.99 Value)</a>			
+			<div style="clear: both;height: 10px;"></div>
+			
+			<a href="http://www.dealticker.com/product.php/product_id/18532"><img src="http://www.dealticker.com/UserFiles/product/13360894234fa31b4f3ee04-92x95.jpg" style="border: solid 2px #bab0b0; width: 95px;float: left; margin-right: 10px;margin-top: 4px;"></a>			
+			<table border="0" cellpadding="0" cellspacing="0" style="float: right;width:115px;">
+				<tbody><tr>
+					<td style="font-size: 13px;">Price:</td>
+					<td style="font-size: 15px;"><b>$29.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Value:</td>
+					<td style="font-size: 15px;"><b>$89.99 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Discount:</td>
+					<td style="font-size: 15px;"><b>68%</b></td>
+				</tr>
+				<tr>
+					<td colspan="2" style="color: #000000;padding-top:5px;text-align:center;">
+					<div style="font-size: 12px;margin-bottom: -2px;"><b>Time Remaining:</b></div>
+					<div style="background: url(http://www.dealticker.com/images/sign_in_l.png) left no-repeat; padding-left: 14px;">
+						<div style="background: url(http://www.dealticker.com/images/sign_in_r.png) right no-repeat; padding: 8px 14px 9px 0;color: #ffffff;">
+						<a href="http://www.dealticker.com/product.php/product_id/18532" class="timer_link"><span id="dd_18532">1</span> d <span id="hh_18532">4</span>:<span id="mm_18532">9</span>:<span id="ss_18532">47</span></a>						</div>
+					</div>
+					
+					</td>
+				</tr>
+			</tbody></table>
+</div>			    
+			   
+          <!-- content -->
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3"><div style="height: 5px;"></div></td>
+	</tr>
+
+<!-- Today's Side Deal -->
+
+ <!-- Today's Side Deal -->
+	<tr>
+		<td colspan="3" valign="top" style="background: #ffffff; padding: 10px 7px;  ">
+        <!-- content -->
+<div id="ps_18545">
+    <div style="font-size: 12px; color:#000000;text-align:center;padding-bottom: 6px;text-transform: uppercase;">ONLINE DEAL - TAXES &amp; SHIPPING INCLUDED</div>			<a href="http://www.dealticker.com/product.php/product_id/18545">$15 for 2 Square-Shaped Sterling Silver &amp; Crystal Alloy Stud Earrings - Taxes &amp; Shipping Included ($39.99 Value)</a>			
+			<div style="clear: both;height: 10px;"></div>
+			
+			<a href="http://www.dealticker.com/product.php/product_id/18545"><img src="http://www.dealticker.com/UserFiles/product/13364262154fa83ee703b34-92x95.jpg" style="border: solid 2px #bab0b0; width: 95px;float: left; margin-right: 10px;margin-top: 4px;"></a>			
+			<table border="0" cellpadding="0" cellspacing="0" style="float: right;width:115px;">
+				<tbody><tr>
+					<td style="font-size: 13px;">Price:</td>
+					<td style="font-size: 15px;"><b>$15.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Value:</td>
+					<td style="font-size: 15px;"><b>$39.99 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Discount:</td>
+					<td style="font-size: 15px;"><b>62%</b></td>
+				</tr>
+				<tr>
+					<td colspan="2" style="color: #000000;padding-top:5px;text-align:center;">
+					<div style="font-size: 12px;margin-bottom: -2px;"><b>Time Remaining:</b></div>
+					<div style="background: url(http://www.dealticker.com/images/sign_in_l.png) left no-repeat; padding-left: 14px;">
+						<div style="background: url(http://www.dealticker.com/images/sign_in_r.png) right no-repeat; padding: 8px 14px 9px 0;color: #ffffff;">
+						<a href="http://www.dealticker.com/product.php/product_id/18545" class="timer_link"><span id="dd_18545">5</span> d <span id="hh_18545">4</span>:<span id="mm_18545">9</span>:<span id="ss_18545">47</span></a>						</div>
+					</div>
+					
+					</td>
+				</tr>
+			</tbody></table>
+</div>			    
+			   
+          <!-- content -->
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3"><div style="height: 5px;"></div></td>
+	</tr>
+
+<!-- Today's Side Deal -->
+
+ <!-- Today's Side Deal -->
+	<tr>
+		<td colspan="3" valign="top" style="background: #ffffff; padding: 10px 7px;  ">
+        <!-- content -->
+<div id="ps_18548">
+    <div style="font-size: 12px; color:#000000;text-align:center;padding-bottom: 6px;text-transform: uppercase;">TORONTO</div>			<a href="http://www.dealticker.com/product.php/product_id/18548">2 Options: A) $15 for a Brazilian Wax ($45 Value) OR B) $29 for a Full Arm, Full Leg &amp; Bikini Wax + a FREE Underarm Waxing ($69 Value) at Rubyna Salon &amp; Spa</a>			
+			<div style="clear: both;height: 10px;"></div>
+			
+			<a href="http://www.dealticker.com/product.php/product_id/18548"><img src="http://www.dealticker.com/UserFiles/product/13364286124fa84844ea8ed-92x95.jpg" style="border: solid 2px #bab0b0; width: 95px;float: left; margin-right: 10px;margin-top: 4px;"></a>			
+			<table border="0" cellpadding="0" cellspacing="0" style="float: right;width:115px;">
+				<tbody><tr>
+					<td style="font-size: 13px;">Price:</td>
+					<td style="font-size: 15px;"><b>$15.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Value:</td>
+					<td style="font-size: 15px;"><b>$45.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Discount:</td>
+					<td style="font-size: 15px;"><b>67%</b></td>
+				</tr>
+				<tr>
+					<td colspan="2" style="color: #000000;padding-top:5px;text-align:center;">
+					<div style="font-size: 12px;margin-bottom: -2px;"><b>Time Remaining:</b></div>
+					<div style="background: url(http://www.dealticker.com/images/sign_in_l.png) left no-repeat; padding-left: 14px;">
+						<div style="background: url(http://www.dealticker.com/images/sign_in_r.png) right no-repeat; padding: 8px 14px 9px 0;color: #ffffff;">
+						<a href="http://www.dealticker.com/product.php/product_id/18548" class="timer_link"><span id="dd_18548">5</span> d <span id="hh_18548">4</span>:<span id="mm_18548">9</span>:<span id="ss_18548">47</span></a>						</div>
+					</div>
+					
+					</td>
+				</tr>
+			</tbody></table>
+</div>			    
+			   
+          <!-- content -->
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3"><div style="height: 5px;"></div></td>
+	</tr>
+
+<!-- Today's Side Deal -->
+
+ <!-- Today's Side Deal -->
+	<tr>
+		<td colspan="3" valign="top" style="background: #ffffff; padding: 10px 7px;  ">
+        <!-- content -->
+<div id="ps_18517">
+    <div style="font-size: 12px; color:#000000;text-align:center;padding-bottom: 6px;text-transform: uppercase;">ONLINE DEAL - TAXES &amp; SHIPPING INCLUDED</div>			<a href="http://www.dealticker.com/product.php/product_id/18517">$31 for 6 Revlon Lipsticks - Taxes &amp; Shipping Included ($72 Value)</a>			
+			<div style="clear: both;height: 10px;"></div>
+			
+			<a href="http://www.dealticker.com/product.php/product_id/18517"><img src="http://www.dealticker.com/UserFiles/product/13359105874fa060bb7d76a-92x95.jpg" style="border: solid 2px #bab0b0; width: 95px;float: left; margin-right: 10px;margin-top: 4px;"></a>			
+			<table border="0" cellpadding="0" cellspacing="0" style="float: right;width:115px;">
+				<tbody><tr>
+					<td style="font-size: 13px;">Price:</td>
+					<td style="font-size: 15px;"><b>$31.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Value:</td>
+					<td style="font-size: 15px;"><b>$72.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Discount:</td>
+					<td style="font-size: 15px;"><b>57%</b></td>
+				</tr>
+				<tr>
+					<td colspan="2" style="color: #000000;padding-top:5px;text-align:center;">
+					<div style="font-size: 12px;margin-bottom: -2px;"><b>Time Remaining:</b></div>
+					<div style="background: url(http://www.dealticker.com/images/sign_in_l.png) left no-repeat; padding-left: 14px;">
+						<div style="background: url(http://www.dealticker.com/images/sign_in_r.png) right no-repeat; padding: 8px 14px 9px 0;color: #ffffff;">
+						<a href="http://www.dealticker.com/product.php/product_id/18517" class="timer_link"><span id="dd_18517">0</span> d <span id="hh_18517">4</span>:<span id="mm_18517">9</span>:<span id="ss_18517">47</span></a>						</div>
+					</div>
+					
+					</td>
+				</tr>
+			</tbody></table>
+</div>			    
+			   
+          <!-- content -->
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3"><div style="height: 5px;"></div></td>
+	</tr>
+
+<!-- Today's Side Deal -->
+
+ <!-- Today's Side Deal -->
+	<tr>
+		<td colspan="3" valign="top" style="background: #ffffff; padding: 10px 7px;  ">
+        <!-- content -->
+<div id="ps_18539">
+    <div style="font-size: 12px; color:#000000;text-align:center;padding-bottom: 6px;text-transform: uppercase;">ONLINE DEAL - TAXES &amp; SHIPPING INCLUDED</div>			<a href="http://www.dealticker.com/product.php/product_id/18539">$16 for the Koala Universal Phone Claw for your iPhone, Android, or GPS device - Taxes &amp; Shipping Included ($39.99 Value)</a>			
+			<div style="clear: both;height: 10px;"></div>
+			
+			<a href="http://www.dealticker.com/product.php/product_id/18539"><img src="http://www.dealticker.com/UserFiles/product/13363233054fa6ace9a9e60-92x95.jpg" style="border: solid 2px #bab0b0; width: 95px;float: left; margin-right: 10px;margin-top: 4px;"></a>			
+			<table border="0" cellpadding="0" cellspacing="0" style="float: right;width:115px;">
+				<tbody><tr>
+					<td style="font-size: 13px;">Price:</td>
+					<td style="font-size: 15px;"><b>$16.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Value:</td>
+					<td style="font-size: 15px;"><b>$39.99 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Discount:</td>
+					<td style="font-size: 15px;"><b>60%</b></td>
+				</tr>
+				<tr>
+					<td colspan="2" style="color: #000000;padding-top:5px;text-align:center;">
+					<div style="font-size: 12px;margin-bottom: -2px;"><b>Time Remaining:</b></div>
+					<div style="background: url(http://www.dealticker.com/images/sign_in_l.png) left no-repeat; padding-left: 14px;">
+						<div style="background: url(http://www.dealticker.com/images/sign_in_r.png) right no-repeat; padding: 8px 14px 9px 0;color: #ffffff;">
+						<a href="http://www.dealticker.com/product.php/product_id/18539" class="timer_link"><span id="dd_18539">4</span> d <span id="hh_18539">4</span>:<span id="mm_18539">9</span>:<span id="ss_18539">47</span></a>						</div>
+					</div>
+					
+					</td>
+				</tr>
+			</tbody></table>
+</div>			    
+			   
+          <!-- content -->
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3"><div style="height: 5px;"></div></td>
+	</tr>
+
+<!-- Today's Side Deal -->
+
+ <!-- Today's Side Deal -->
+	<tr>
+		<td colspan="3" valign="top" style="background: #ffffff; padding: 10px 7px;  ">
+        <!-- content -->
+<div id="ps_18530">
+    <div style="font-size: 12px; color:#000000;text-align:center;padding-bottom: 6px;text-transform: uppercase;">ONTARIO &amp; VANCOUVER</div>			<a href="http://www.dealticker.com/product.php/product_id/18530">Spring Fertilizer &amp; Weed Control Application: A) $39 for up to 4, 500 Sq. Ft. of Lawn ($134 Value), B) $49 for up to 7,000 Sq. Ft. of Lawn ($176.48 Value) OR C) $59 for up to 10,000 Sq. Ft. of Lawn ($209.28 Value) from Weed Man</a>			
+			<div style="clear: both;height: 10px;"></div>
+			
+			<a href="http://www.dealticker.com/product.php/product_id/18530"><img src="http://www.dealticker.com/UserFiles/product/13365911074faac30358efb-92x95.jpg" style="border: solid 2px #bab0b0; width: 95px;float: left; margin-right: 10px;margin-top: 4px;"></a>			
+			<table border="0" cellpadding="0" cellspacing="0" style="float: right;width:115px;">
+				<tbody><tr>
+					<td style="font-size: 13px;">Price:</td>
+					<td style="font-size: 15px;"><b>$39.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Value:</td>
+					<td style="font-size: 15px;"><b>$134.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Discount:</td>
+					<td style="font-size: 15px;"><b>71%</b></td>
+				</tr>
+				<tr>
+					<td colspan="2" style="color: #000000;padding-top:5px;text-align:center;">
+					<div style="font-size: 12px;margin-bottom: -2px;"><b>Time Remaining:</b></div>
+					<div style="background: url(http://www.dealticker.com/images/sign_in_l.png) left no-repeat; padding-left: 14px;">
+						<div style="background: url(http://www.dealticker.com/images/sign_in_r.png) right no-repeat; padding: 8px 14px 9px 0;color: #ffffff;">
+						<a href="http://www.dealticker.com/product.php/product_id/18530" class="timer_link"><span id="dd_18530">6</span> d <span id="hh_18530">4</span>:<span id="mm_18530">9</span>:<span id="ss_18530">47</span></a>						</div>
+					</div>
+					
+					</td>
+				</tr>
+			</tbody></table>
+</div>			    
+			   
+          <!-- content -->
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3"><div style="height: 5px;"></div></td>
+	</tr>
+
+<!-- Today's Side Deal -->
+
+ <!-- Today's Side Deal -->
+	<tr>
+		<td colspan="3" valign="top" style="background: #ffffff; padding: 10px 7px;  ">
+        <!-- content -->
+<div id="ps_18536">
+    <div style="font-size: 12px; color:#000000;text-align:center;padding-bottom: 6px;text-transform: uppercase;">MISSISSAUGA</div>			<a href="http://www.dealticker.com/product.php/product_id/18536">$24 for an Oil, Lube and Filter Change + a Tire Rotation and a Detailed Exterior Hand Wash at Mississauga Car Care Centre ($70 Value)</a>			
+			<div style="clear: both;height: 10px;"></div>
+			
+			<a href="http://www.dealticker.com/product.php/product_id/18536"><img src="http://www.dealticker.com/UserFiles/product/13363259134fa6b719c747f-92x95.jpg" style="border: solid 2px #bab0b0; width: 95px;float: left; margin-right: 10px;margin-top: 4px;"></a>			
+			<table border="0" cellpadding="0" cellspacing="0" style="float: right;width:115px;">
+				<tbody><tr>
+					<td style="font-size: 13px;">Price:</td>
+					<td style="font-size: 15px;"><b>$24.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Value:</td>
+					<td style="font-size: 15px;"><b>$70.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Discount:</td>
+					<td style="font-size: 15px;"><b>66%</b></td>
+				</tr>
+				<tr>
+					<td colspan="2" style="color: #000000;padding-top:5px;text-align:center;">
+					<div style="font-size: 12px;margin-bottom: -2px;"><b>Time Remaining:</b></div>
+					<div style="background: url(http://www.dealticker.com/images/sign_in_l.png) left no-repeat; padding-left: 14px;">
+						<div style="background: url(http://www.dealticker.com/images/sign_in_r.png) right no-repeat; padding: 8px 14px 9px 0;color: #ffffff;">
+						<a href="http://www.dealticker.com/product.php/product_id/18536" class="timer_link"><span id="dd_18536">4</span> d <span id="hh_18536">4</span>:<span id="mm_18536">9</span>:<span id="ss_18536">47</span></a>						</div>
+					</div>
+					
+					</td>
+				</tr>
+			</tbody></table>
+</div>			    
+			   
+          <!-- content -->
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3"><div style="height: 5px;"></div></td>
+	</tr>
+
+<!-- Today's Side Deal -->
+
+ <!-- Today's Side Deal -->
+	<tr>
+		<td colspan="3" valign="top" style="background: #ffffff; padding: 10px 7px;  ">
+        <!-- content -->
+<div id="ps_18544">
+    <div style="font-size: 12px; color:#000000;text-align:center;padding-bottom: 6px;text-transform: uppercase;">ONLINE DEAL - TAXES INCLUDED</div>			<a href="http://www.dealticker.com/product.php/product_id/18544">$29 for the Pure Collagen Instant Face Lift - Taxes Included ($100 Value)</a>			
+			<div style="clear: both;height: 10px;"></div>
+			
+			<a href="http://www.dealticker.com/product.php/product_id/18544"><img src="http://www.dealticker.com/UserFiles/product/13364128724fa80ac89f81f-92x95.jpg" style="border: solid 2px #bab0b0; width: 95px;float: left; margin-right: 10px;margin-top: 4px;"></a>			
+			<table border="0" cellpadding="0" cellspacing="0" style="float: right;width:115px;">
+				<tbody><tr>
+					<td style="font-size: 13px;">Price:</td>
+					<td style="font-size: 15px;"><b>$29.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Value:</td>
+					<td style="font-size: 15px;"><b>$100.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Discount:</td>
+					<td style="font-size: 15px;"><b>71%</b></td>
+				</tr>
+				<tr>
+					<td colspan="2" style="color: #000000;padding-top:5px;text-align:center;">
+					<div style="font-size: 12px;margin-bottom: -2px;"><b>Time Remaining:</b></div>
+					<div style="background: url(http://www.dealticker.com/images/sign_in_l.png) left no-repeat; padding-left: 14px;">
+						<div style="background: url(http://www.dealticker.com/images/sign_in_r.png) right no-repeat; padding: 8px 14px 9px 0;color: #ffffff;">
+						<a href="http://www.dealticker.com/product.php/product_id/18544" class="timer_link"><span id="dd_18544">5</span> d <span id="hh_18544">4</span>:<span id="mm_18544">9</span>:<span id="ss_18544">47</span></a>						</div>
+					</div>
+					
+					</td>
+				</tr>
+			</tbody></table>
+</div>			    
+			   
+          <!-- content -->
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3"><div style="height: 5px;"></div></td>
+	</tr>
+
+<!-- Today's Side Deal -->
+
+ <!-- Today's Side Deal -->
+	<tr>
+		<td colspan="3" valign="top" style="background: #ffffff; padding: 10px 7px;  ">
+        <!-- content -->
+<div id="ps_18540">
+    <div style="font-size: 12px; color:#000000;text-align:center;padding-bottom: 6px;text-transform: uppercase;">COLLINGWOOD GETAWAY</div>			<a href="http://www.dealticker.com/product.php/product_id/18540">2 Options: A) $45 for a 3-Day &amp; 2-Night Family Getaway + a $50 Dinner Voucher, $10 Breakfast Voucher &amp; 2-for-1 Golf OR B) $59 for a 3-Day &amp; 2-Night Family Getaway + a $50 Dinner Voucher, $10 Breakfast Voucher &amp; 18 Holes of Golf for 2 in Collingwood</a>			
+			<div style="clear: both;height: 10px;"></div>
+			
+			<a href="http://www.dealticker.com/product.php/product_id/18540"><img src="http://www.dealticker.com/UserFiles/product/13363217024fa6a6a60b3ce-92x95.jpg" style="border: solid 2px #bab0b0; width: 95px;float: left; margin-right: 10px;margin-top: 4px;"></a>			
+			<table border="0" cellpadding="0" cellspacing="0" style="float: right;width:115px;">
+				<tbody><tr>
+					<td style="font-size: 13px;">Price:</td>
+					<td style="font-size: 15px;"><b>$45.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Value:</td>
+					<td style="font-size: 15px;"><b>$448.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Discount:</td>
+					<td style="font-size: 15px;"><b>90%</b></td>
+				</tr>
+				<tr>
+					<td colspan="2" style="color: #000000;padding-top:5px;text-align:center;">
+					<div style="font-size: 12px;margin-bottom: -2px;"><b>Time Remaining:</b></div>
+					<div style="background: url(http://www.dealticker.com/images/sign_in_l.png) left no-repeat; padding-left: 14px;">
+						<div style="background: url(http://www.dealticker.com/images/sign_in_r.png) right no-repeat; padding: 8px 14px 9px 0;color: #ffffff;">
+						<a href="http://www.dealticker.com/product.php/product_id/18540" class="timer_link"><span id="dd_18540">4</span> d <span id="hh_18540">4</span>:<span id="mm_18540">9</span>:<span id="ss_18540">47</span></a>						</div>
+					</div>
+					
+					</td>
+				</tr>
+			</tbody></table>
+</div>			    
+			   
+          <!-- content -->
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3"><div style="height: 5px;"></div></td>
+	</tr>
+
+<!-- Today's Side Deal -->
+
+ <!-- Today's Side Deal -->
+	<tr>
+		<td colspan="3" valign="top" style="background: #ffffff; padding: 10px 7px;  ">
+        <!-- content -->
+<div id="ps_18550">
+    <div style="font-size: 12px; color:#000000;text-align:center;padding-bottom: 6px;text-transform: uppercase;">MISSISSAUGA</div>			<a href="http://www.dealticker.com/product.php/product_id/18550">12 Alma Soprano XL Laser Hair Removal Sessions: A) $99 for 1 body part ($1,500 Value), B) $199 for 2 body parts ($2,000 Value), C) $279 for 3 body parts ($3,000 Value) OR D) $299 for 4 body parts ($5,000 Value) at 221 Degrees Salon &amp; Spa</a>			
+			<div style="clear: both;height: 10px;"></div>
+			
+			<a href="http://www.dealticker.com/product.php/product_id/18550"><img src="http://www.dealticker.com/UserFiles/product/13365175374fa9a3a14bf11-92x95.jpg" style="border: solid 2px #bab0b0; width: 95px;float: left; margin-right: 10px;margin-top: 4px;"></a>			
+			<table border="0" cellpadding="0" cellspacing="0" style="float: right;width:115px;">
+				<tbody><tr>
+					<td style="font-size: 13px;">Price:</td>
+					<td style="font-size: 15px;"><b>$99.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Value:</td>
+					<td style="font-size: 15px;"><b>$1,500.00 </b></td>
+				</tr>
+				<tr>
+					<td style="font-size: 13px;">Discount:</td>
+					<td style="font-size: 15px;"><b>93%</b></td>
+				</tr>
+				<tr>
+					<td colspan="2" style="color: #000000;padding-top:5px;text-align:center;">
+					<div style="font-size: 12px;margin-bottom: -2px;"><b>Time Remaining:</b></div>
+					<div style="background: url(http://www.dealticker.com/images/sign_in_l.png) left no-repeat; padding-left: 14px;">
+						<div style="background: url(http://www.dealticker.com/images/sign_in_r.png) right no-repeat; padding: 8px 14px 9px 0;color: #ffffff;">
+						<a href="http://www.dealticker.com/product.php/product_id/18550" class="timer_link"><span id="dd_18550">6</span> d <span id="hh_18550">4</span>:<span id="mm_18550">9</span>:<span id="ss_18550">47</span></a>						</div>
+					</div>
+					
+					</td>
+				</tr>
+			</tbody></table>
+</div>			    
+			   
+          <!-- content -->
 		</td>
 	</tr>
 	<tr>
@@ -728,7 +1987,7 @@ table.city_list td a.current {
 
  </tbody></table>
  <script type="text/javascript"> 
-    var t_arr = { '12968':'516274','12994':'516274','12785':'253474','12546':'167074'};
+    var t_arr = { '18474':'101387','18507':'14987','18484':'101387','18498':'446987','18528':'101387','18496':'14987','18505':'14987','18522':'14987','18549':'446987','18509':'14987','18506':'14987','18516':'365987','18521':'14987','18431':'14987','18518':'101387','18552':'464987','18551':'464987','18434':'14987','18555':'533387','18458':'101387','18531':'101387','18537':'360587','18538':'360587','18523':'101387','18561':'533387','18541':'360587','18513':'101387','18532':'101387','18545':'446987','18548':'446987','18517':'14987','18539':'360587','18530':'533387','18536':'360587','18544':'446987','18540':'360587','18550':'533387'};
     var timer_side = window.setInterval(function()
         {
             for (var id in t_arr) {
@@ -750,7 +2009,7 @@ table.city_list td a.current {
 
         }, 1000);
  </script>  
-</td>
+<div style="clear: both;"><img src="http://www.dealticker.com/images/spacer.gif" width="1" height="1" border="0" alt=""></div></td>
 			</tr>
 </tbody></table>
 
@@ -769,11 +2028,11 @@ table.city_list td a.current {
 						<tbody><tr>
 							<td valign="top" class="bottomlinks"><ul class="navlist">
 </ul><div class="bottom_menu"><ul><li class="top_level"><nobr>Our Company</nobr>
-                 </li><li class="sub_level"> <a href="http://www.dealticker.com/faq_en_269cms.htm"><nobr>FAQ</nobr></a>
                  </li><li class="sub_level"> <a href="http://www.dealticker.com/about_us_en_270cms.htm"><nobr>About Us</nobr></a>
+                 </li><li class="sub_level"> <a href="http://www.dealticker.com/faq_en_269cms.htm"><nobr>FAQ</nobr></a>
                  </li><li class="sub_level"> <a href="http://www.dealticker.com/employment_en_292cms.htm"><nobr>Employment</nobr></a>
                  </li><li class="sub_level"> <a href="http://www.dealticker.com/contact_us_en_235cms.htm"><nobr>Contact Us</nobr></a>
-                 </li></ul></div><div class="bottom_menu"><ul><li class="top_level"><nobr>Legal Committment</nobr>
+                 </li></ul></div><div class="bottom_menu"><ul><li class="top_level"><nobr>Legal Commitment</nobr>
                  </li><li class="sub_level current"> <a href="http://www.dealticker.com/privacy_policy_en_263cms.htm"><nobr>Privacy Policy</nobr></a>
                  </li><li class="sub_level"> <a href="http://www.dealticker.com/terms_and_conditions_en_264cms.htm"><nobr>Terms and Conditions</nobr></a>
                  </li><li class="sub_level"> <a href="http://www.dealticker.com/refund_policy_en_265cms.htm"><nobr>Refund Policy</nobr></a>
@@ -794,9 +2053,9 @@ table.city_list td a.current {
 
 							<div id="follow_us">
 								<span class="top_level">Follow Us On</span><br>
-                            <a target="_blank" href="http://twitter.com/DealTickerBarr"><img src="/images/follow_twitter.gif" width="22" height="21" border="0" alt=""></a>
-                            <a target="_blank" href="http://www.facebook.com/pages/DealTicker-Barrie/236426796397725"><img src="/images/follow_facebook.gif" width="22" height="21" border="0" alt=""></a>
-								    <a href="http://www.dealticker.com/rss.php?category_id=124"><img src="/images/follow_rss.gif" width="22" height="21" border="0" alt=""></a>
+                            <a target="_blank" href="http://twitter.com/DealTickerHalt"><img src="/images/follow_twitter.gif" width="22" height="21" border="0" alt=""></a>
+                            <a target="_blank" href="http://www.facebook.com/pages/DealTicker-Halton-Region/156675071074568"><img src="/images/follow_facebook.gif" width="22" height="21" border="0" alt=""></a>
+								    <a href="http://www.dealticker.com/rss.php?city=Halton Region"><img src="/images/follow_rss.gif" width="22" height="21" border="0" alt=""></a>
 							</div>
 
 							<div id="we_accept">
@@ -814,7 +2073,7 @@ table.city_list td a.current {
 							</div>
 													
 							<div id="gift_card">
-								<span class="top_level">Gift Card</span><br><a href="/GIFT"><img src="/images/gift_card_button.gif" alt="Gift Cart" title="Gift Cart" height="21" width="41"></a>
+								<span class="top_level">Gift Card</span><br><a href="/GIFT"><img src="/images/gift_card_button.gif" alt="Gift Cart" title="Gift Cart" height="39" width="60"></a>
 							</div>
 	
 							<!--  SSL Certificate Sticker  -->
@@ -835,7 +2094,7 @@ table.city_list td a.current {
 		</td>
 	</tr>
 	<tr>
-		<td class="bottomlinks" style="background: #e7e5e5;height: 15px;"><div style="margin: 0 auto; width: 950px;">© 2010 DealTicker Inc. All Rights Reserved.</div></td>
+		<td class="bottomlinks" style="background: #e7e5e5;"><div style="margin: 0 auto; width: 950px;">© 2010 DealTicker Inc. All Rights Reserved.</div></td>
 	</tr>
 </tbody></table>
  <!-- External source --> 
@@ -900,6 +2159,5 @@ window.onload = function(){
 
 
  <!-- External source end --> 
-
 
 </body></html>
