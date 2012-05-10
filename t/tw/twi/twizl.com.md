@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twizl.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105184446id_/http%3A//www.twizl.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twizl.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510104151id_/http%3A//www.twizl.com/privacy.php) for the most accurate reproduction.*
 
 # Your Privacy at Twizl.com
 
