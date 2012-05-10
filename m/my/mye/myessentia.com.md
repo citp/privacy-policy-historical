@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the myessentia.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106040934id_/http%3A//www.myessentia.com/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myessentia.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510041529id_/http%3A//www.myessentia.com/customer-service/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for MyEssentia.com Website.
 
-[Home](http://www.myessentia.com/) » [Customer Service](http://www.myessentia.com/customer-service) » **Privacy Policy**
+[Home](http://www.myessentia.com/) » [Customer Service](http://www.myessentia.com/customer-service/) » **Privacy Policy**
 
 **Our Privacy Commitment**  
 We at Essentia understand the importance of protecting personal information. This privacy policy outlines our guidelines for the collection and use of personal information by Essentia.
