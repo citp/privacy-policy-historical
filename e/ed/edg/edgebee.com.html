@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the edgebee.com privacy policy that was archived on 2011-11-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111107022945id_/http%3A//www.edgebee.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the edgebee.com privacy policy that was archived on 2012-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120510170611id_/http%3A//www.edgebee.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <title>
@@ -44,14 +44,32 @@
         password = 0;
         locale = "en_us";
     </script>
+    
+    <script>
+        window.fbAsyncInit = function() {
+          FB.init({
+            appId      : "412303388789602",
+            status     : true, 
+            cookie     : true,
+            xfbml      : true,
+            oauth      : true,
+          });
+        };
+        (function(d){
+           var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+           js = d.createElement('script'); js.id = id; js.async = true;
+           js.src = "//connect.facebook.net/en_US/all.js";
+           d.getElementsByTagName('head')[0].appendChild(js);
+         }(document));
+    </script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script>
 
 </head>
 
 <body>
-
+	<div id="fb-root"></div>
     <div id="header">
         <div class="left">
-            <a href="/"><img id="logo" src="https://dluw3bk7cxwyu.cloudfront.net/static/portal/title2.gif"></a><br>
+            <a href="/"><img id="logo" src="http://dluw3bk7cxwyu.cloudfront.net/static/portal/title2.gif"></a><br>
             <div id="headerLinks">
                 <ul class="links">
                     <li><a href="/">Home</a><span class="menuSep"> | </span></li>
@@ -74,31 +92,34 @@
                     <input id="remember" name="remember" type="checkbox" class="checkbox">
                     <label id="rememberMeInputLbl" for="remember" class="checkboxLabel">Remember password</label><br>
                 </form>
-                <div id="userInfoOptions">
-                    <a class="signIn linkButton" onclick="javascript:$('#signInForm').submit()">Sign in</a>
+                <div id="userInfoOptions">                	
+                	<div class="signIn">
+                		<a href="https://www.facebook.com/dialog/oauth?client_id=412303388789602&amp;redirect_uri=http://www.edgebee.com/register_confirmation&amp;scope=email,publish_actions"><img src="http://dluw3bk7cxwyu.cloudfront.net/static/portal/facebook_16.png"></a>
+                		<a class="linkButton" onclick="javascript:$('#signInForm').submit()">Sign in</a>
+                	</div>
                     <ul id="localeHotSwap">
-                        <li><a><img id="currentLocale" src="https://dluw3bk7cxwyu.cloudfront.net/static/portal/us.gif"></a>
+                        <li><a><img id="currentLocale" src="http://dluw3bk7cxwyu.cloudfront.net/static/portal/us.gif"></a>
                             <ul id="localeHotSwapChoices" style="display:none">
                                     <li class="localeHotSwapLink"><a onclick="javascript:hotSwapLocale('en_us')" title="English">
-                                        <img src="https://dluw3bk7cxwyu.cloudfront.net/static/portal/us.gif">
+                                        <img src="http://dluw3bk7cxwyu.cloudfront.net/static/portal/us.gif">
                                     </a></li>
                                     <li class="localeHotSwapLink"><a onclick="javascript:hotSwapLocale('fr_fr')" title="Français">
-                                        <img src="https://dluw3bk7cxwyu.cloudfront.net/static/portal/fr.gif">
+                                        <img src="http://dluw3bk7cxwyu.cloudfront.net/static/portal/fr.gif">
                                     </a></li>
                                     <li class="localeHotSwapLink"><a onclick="javascript:hotSwapLocale('de_de')" title="Deutsch">
-                                        <img src="https://dluw3bk7cxwyu.cloudfront.net/static/portal/de.gif">
+                                        <img src="http://dluw3bk7cxwyu.cloudfront.net/static/portal/de.gif">
                                     </a></li>
                                     <li class="localeHotSwapLink"><a onclick="javascript:hotSwapLocale('es_es')" title="Español">
-                                        <img src="https://dluw3bk7cxwyu.cloudfront.net/static/portal/es.gif">
+                                        <img src="http://dluw3bk7cxwyu.cloudfront.net/static/portal/es.gif">
                                     </a></li>
                                     <li class="localeHotSwapLink"><a onclick="javascript:hotSwapLocale('it_it')" title="Italiano">
-                                        <img src="https://dluw3bk7cxwyu.cloudfront.net/static/portal/it.gif">
+                                        <img src="http://dluw3bk7cxwyu.cloudfront.net/static/portal/it.gif">
                                     </a></li>
                                     <li class="localeHotSwapLink"><a onclick="javascript:hotSwapLocale('jp_jp')" title="日本の">
-                                        <img src="https://dluw3bk7cxwyu.cloudfront.net/static/portal/jp.gif">
+                                        <img src="http://dluw3bk7cxwyu.cloudfront.net/static/portal/jp.gif">
                                     </a></li>
                                     <li class="localeHotSwapLink"><a onclick="javascript:hotSwapLocale('zh_cn')" title="中文">
-                                        <img src="https://dluw3bk7cxwyu.cloudfront.net/static/portal/cn.gif">
+                                        <img src="http://dluw3bk7cxwyu.cloudfront.net/static/portal/cn.gif">
                                     </a></li>
                             </ul>
                         </li>
@@ -175,9 +196,9 @@
      <div class="attract">Play <b>free multiplayer games</b> from any browser, anywhere, with <b>no required downloads</b>!</div>
 <br>
 <div class="statistics">
-Users: 634645<br>
-Online: 1220<br>
-Newest member: eliterenegado22<br>
+Users: 890839<br>
+Online: 887<br>
+Newest member: wombattus04<br>
 </div>
 <br>
 
@@ -276,7 +297,7 @@ Policy</b></font></font></p>
   <b id="o4_-13">How Can You Access and Correct Your Information?</b>
 </p>
 <p id="cbjf91">
-  You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing <img alt="support,at,edgebee,dot,com" src="https://dluw3bk7cxwyu.cloudfront.net/static/portal/support_email2.gif" align="absmiddle">.
+  You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing <img alt="support,at,edgebee,dot,com" src="http://dluw3bk7cxwyu.cloudfront.net/static/portal/support_email2.gif" align="absmiddle">.
 </p>
 <p id="cbjf95" style="MARGIN-TOP:0pt; MARGIN-BOTTOM:0.17in; TEXT-ALIGN:center">
   <font face="Verdana, sans-serif" id="cbjf96"><font id="cbjf97"><b id="o4_-14">Certain Disclosures</b></font></font>
@@ -328,7 +349,7 @@ Policy</b></font></font></p>
 
 <div id="footer">
     <div class="ebslogo">
-        <a href="http://www.edgebeestudios.com/"><img src="https://dluw3bk7cxwyu.cloudfront.net/static/portal/ebslogo.gif"></a>
+        <a href="http://www.edgebeestudios.com/"><img src="http://dluw3bk7cxwyu.cloudfront.net/static/portal/ebslogo.gif"></a>
     </div>
     <ul class="links">
     <li><a href="http://www.edgebeestudios.com/">Edgebee Studios inc.</a><span class="menuSep"> | </span></li>
