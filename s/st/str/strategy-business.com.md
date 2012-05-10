@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strategy-business.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101122106id_/http%3A//www.strategy-business.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strategy-business.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510233516id_/http%3A//www.strategy-business.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -12,7 +12,7 @@ We may obtain personally identifiable information about you through our Web Site
 
 We may share the personally identifiable information and aggregated information we collect from the Web Site with third parties in connection with administration of the Web Site or to make transmissions or mailings to you or in response to any legal process, such as a request by law enforcement, a court order or subpoena, or to protect the integrity of the Web Site if we believe that a user has committed unlawful or otherwise harmful acts. If strategy+business is sold, merged or is otherwise transferred to another entity, the information you have provided through the Web Site may be transferred to such entity as part of that transaction.
 
-strategy+business may use third-party advertising companies, advertising servers and advertising networks to serve ads to you when you visit this Web Site. These companies may use information about your visits to this Web Site and other web sites in order to provide advertisements about goods and services of interest to you.
+strategy+business may use third-party advertising companies, advertising servers and advertising networks to serve ads to you when you visit this Web Site. These companies may use information about your visits to this Web Site, personally identifiable information you provide for purposes of receiving the ad, and aggregated information we collect from this Web Site and other web sites in order to provide advertisements about goods and services of interest to you.
 
 This Web Site may be accessed and viewed and personally identifiable information we collect from the Web Site may be transferred to our affiliates and third parties located throughout the world, including in countries that do not have laws regulating the use and transfer of such information. By using this Web Site you agree to transfer and hosting of your information anywhere in the world.
 
@@ -24,4 +24,4 @@ We reserve the right to change or otherwise update this Privacy Policy at any ti
 
 If you wish to change your strategy+business account settings, please [click here](http://www.strategy-business.com/registration/settings).
 
-Last updated March 15, 2011.
+Last updated December 15, 2011.
