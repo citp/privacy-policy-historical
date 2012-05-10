@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tirip.com privacy policy that was archived on 2011-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111020012711id_/http%3A//www.tirip.com/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tirip.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510070133id_/http%3A//www.tirip.com/Privacy_Policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy Statement - IranSong Persian Music
+# Privacy Policy Statement
 
 This Privacy Policy governs your use of this web site and any content made available from or through this web site located at [www.iransong.com](http://www.tirip.com/), including any subdomains thereof (the “Web Site”). By visiting this Web Site or using the services offered on or through this Web Site, you agree to the terms of this Privacy Policy, as they may be amended from time to time. As we update and expand our Web Site and services, this Privacy Policy may change, so check back to this page from time to time. This Privacy Policy is incorporated into, and part of, Tirip.Com Terms and Conditions of Use located here (the “Terms of Use”), which governs your use of this Web Site in general.
 
