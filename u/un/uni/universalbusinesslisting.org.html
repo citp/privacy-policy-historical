@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the universalbusinesslisting.org privacy policy that was archived on 2011-10-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111007073428id_/https%3A//www.ubl.org/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the universalbusinesslisting.org privacy policy that was archived on 2012-05-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120511011016id_/https%3A//www.ubl.org/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_head"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="google-site-verification" content="UiA54MzmSEObu7d2qKnXhmn-L02mL432QD85n2BNlzs"><meta property="og:title" content="UBL – List once. Be found."><meta property="og:site_name" content="ubl.org">
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -34,6 +34,35 @@
         }
 
     </script>
+    <script type="text/javascript">
+        function validateForm() {
+            var error = '';
+
+            var zip = $('#businessZip').val();
+            if (zip == '') {
+                error = 'Please enter a zip code';
+            }
+            var addr = $('#businessStreet').val();
+            if (addr == '') {
+                error = 'Please enter an address';
+            }
+            var phone = $('#businessPhone').val();
+            if (phone == '') {
+                error = 'Please enter a phone number';
+            }
+            var name = $('#businessName').val();
+            if (name == '') {
+                error = 'Please enter a business name';
+            }
+            if (error == '') {
+                doSearch();
+            } else {
+                //    $('#errorDiv').css('display','inline');
+                $('#errorDiv').html("<center>" + error + "</center>");
+                return false;
+            }
+        }
+</script>
     
     <script src="/js/jquery.js" type="text/javascript"></script>
     
@@ -51,7 +80,7 @@
     })();
 </script>
 <script src="https://connect.facebook.net/en_US/all.js#appId=235127216504380&amp;xfbml=1"></script>
-    <link href="partners/www/style-pages.css"><title>
+    <link href="partners/www/style-pages.css"><link href="https://plus.google.com/b/103162992003154179740/103162992003154179740" rel="publisher"><link rel="shortcut icon" href="partners/www/images/favicon.ico" type="image/x-icon"><title>
 
 </title></head>
 <body id="ctl00_mpBody">
@@ -76,12 +105,12 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                     <div id="signuploginbuttons" style="width: 200px;">
                         <div class="nav_livehelp">
                             <!-- BEGIN HelpOnClick CODE -->
-                            <a href="javascript:void(0)" onclick="window.open(&quot;http://app.helponclick.com/help?lang=en&amp;a=4dc84c6c4284429d8c800a43b86aab83&quot;,&quot;hoc_chat_login&quot;,&quot;width=720,height=550,scrollbars=no,status=0,toolbar=no,location=no,resizable=no&quot;)">Live help</a>
+                            <a href="javascript:void(0)" onclick="window.open(&quot;http://app.helponclick.com/help?lang=en&amp;w=4dc84c6c-7a3c-4b85-a1e5-0a43b86aab83&quot;,&quot;hoc_chat_login&quot;,&quot;width=720,height=550,scrollbars=no,status=0,toolbar=no,location=no,resizable=no&quot;)">Live Help</a>
                             <!-- END HelpOnClick CODE -->
                         </div>
                         
                         <div class="nav_login" id="nav_login" style="display: block; float: left; width: 50px;">
-                            <a id="ctl00_hypLogin" href="Login.aspx">Login</a></div>
+                            <a id="ctl00_hypLogin" href="Login.aspx">Log In</a></div>
                         <div class="uc_login" id="uc_login" style="display: none; float:left; width:300px">
                         
 
@@ -119,10 +148,19 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                                 <a id="ctl00_HyperLink5" href="questions.aspx">FAQ</a></li>
                         </ul>
                     </div>
-                    <div style="float:right">
+					
+					
+                     <div style="float:right; vertical-align: top;">
+					 
+					<a href="https://plus.google.com/b/103162992003154179740/103162992003154179740?prsrc=3" style="text-decoration: none;vertical-align:top"><img src="https://ssl.gstatic.com/images/icons/gplus-32.png" width="24" height="24" style="border: 0;vertical-align: top;"></a>
+					
+					
                         <!-- Place this tag where you want the +1 button to render -->
-                        <div class="g-plusone" data-annotation="none"></div>
-                        <iframe src="https://www.facebook.com/plugins/like.php?app_id=235127216504380&amp;href=http%3A%2F%2Fwww.facebook.com%2FUniversalBusinessListing&amp;send=false&amp;layout=button_count&amp;width=90&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:50px; height:21px;" allowtransparency="true"></iframe>
+                     <div class="g-plusone" data-annotation="none"></div> 
+					
+						
+						
+                        		
                         <a href="javascript: void(0)" title="Share UBL on LinkedIn" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&amp;url=http://www.ubl.org&amp;title=%20Check%20out%20the%20UBL%20service%20for%20local%20business%20listing%20visibility%20%E2%80%93%20UBL.org%20-%20http://www.ubl.org&amp;summary=UBL.org%20-%20List%20Once.%20Be%20Found.&amp;source=UBL.org', 
                           'LinkedIn', 
                           'width=600, \
@@ -134,7 +172,8 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                            scrollbars=no, \
                            status=no, \
                            toolbar=no'); 
-                          return false;"><img src="/partners/www/images/linkedin.png"></a>
+                          return false;" style="vertical-align:top"><img src="/partners/www/images/linkedin-button.png" style="vertical-align: top;"></a>
+					 
 
                          <a href="javascript: void(0)" title="Share UBL on Twitter" onclick="window.open('http://twitter.com/intent/tweet?source=webclient&amp;text=Check+out+the+UBL+service+for+local+business+listing+visibility+%E2%80%93+UBL.org+-+http%3A%2F%2Fwww.ubl.org', 
                           'Twitter', 
@@ -147,8 +186,12 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                            scrollbars=no, \
                            status=no, \
                            toolbar=no'); 
-                          return false;"><img src="/partners/www/images/twitter.gif"></a>
+                          return false;" style="vertical-align:top"><img src="/partners/www/images/twitter-button.png" style="vertical-align: top;"></a>
              
+						<iframe src="https://www.facebook.com/plugins/like.php?href=www.ubl.org&amp;send=false&amp;layout=standard&amp;width=52&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=verdana&amp;height=24&amp;appId=235127216504380" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:52px; height:24px;" allowtransparency="true"></iframe>			 
+                    
+								 
+			 
                     </div>
                 </div>
                 <!--end navbar-->
@@ -336,41 +379,60 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                     </div>
                     <br clear="all">
                     <div id="middleOwner" style="padding: 5px; width: 314px; height: 150px;">
-                        <div style="">
-                            <center>
-                                <b>Place your profile on every search engine,<br>
-                                    Yellow Pages site, business directory, social<br>
-                                    site, mobile device and 411 service.</b></center>
-                            <br>
-                        </div>
-                        <div style="width: 280px; height: 115px; border: 1px solid #000000; -moz-border-radius: 15px;
-                            border-radius: 15px; background-color: #dedede; margin-left: 10px;">
-                            <div style="padding-top: 15px;">
+                        <div style="width: 280px; height: 175px; margin-left: 10px;">
+                            <div style="padding-top: 10px;">
                                 <center>
                                     <span><b>Is your business visible?</b> Search for FREE</span></center>
                             </div>
-                            <br>
-                            <table border="0" cellpadding="0" cellspacing="0">
+                            <div id="errorDiv" class="timer" style="color: #ff0000; font-weight: bold;"><br></div>
+                            <table border="0" cellpadding="1" cellspacing="0" width="100%">
                                 <tbody><tr>
-                                    <td width="50">
-                                        &nbsp;&nbsp;Business
+                                    <td width="120">
+                                        &nbsp;&nbsp;Business name
                                     </td>
-                                    <td width="20">
+                                    <td width="10">
                                         &nbsp;
                                     </td>
                                     <td width="150">
-                                        <input type="text" id="businessName" name="businessName" size="25" maxlength="250" style="width: 180px;">
+                                        <input type="text" id="businessName" name="businessName" maxlength="250" style="width: 150px;">
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td width="50">
-                                        &nbsp;&nbsp;Zip Code
+                                    <td width="120">
+                                        &nbsp;&nbsp;Phone number
                                     </td>
-                                    <td width="20">
+                                    <td width="10">
                                         &nbsp;
                                     </td>
                                     <td width="150">
-                                        <input type="text" id="businessLocation" name="businessLocation" size="8" maxlength="20" style="width: 70px;"><input type="button" onclick="doSearch();" name="visSearch" value="Check Now" style="width: 80px; height: 30px;">
+                                        <input type="text" id="businessPhone" name="businessPhone" maxlength="250" style="width: 150px;">
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width="120">
+                                        &nbsp;&nbsp;Street address
+                                    </td>
+                                    <td width="10">
+                                        &nbsp;
+                                    </td>
+                                    <td width="150">
+                                        <input type="text" id="businessStreet" name="businessStreet" maxlength="250" style="width: 150px;">
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width="120">
+                                        &nbsp;&nbsp;Zip Code
+                                    </td>
+                                    <td width="10">
+                                        &nbsp;
+                                    </td>
+                                    <td width="150">
+                                        <input type="text" id="businessZip" name="businessZip" maxlength="250" style="width: 150px;">
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td colspan="3" align="center" style="text-align:center;">
+                                        <input type="button" onclick="return validateForm()" name="visSearch" value="Check Now" style="width: 80px; height: 30px;">
                                     </td>
                                 </tr>
                             </tbody></table>
@@ -500,28 +562,26 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
             </div>
         </div>
         <br clear="all">
-        <div id="footer" style="padding-top: 15px;">
-            <div style="float: left; width: 325px;">
-                <div style="float: left;">
-                    <center>
-                        <a id="ctl00_HyperLink10" href="http://www.bbb.org/charlotte/business-reviews/marketing-programs-and-services/universal-business-listings-in-charlotte-nc-234672" target="_blank"><img id="ctl00_Image15" src="icons/Better_Business_Bureau.png" align="bottom" height="100" border="0"></a>
-                        <a id="ctl00_HyperLink11" href="http://www.franchise.org/Universal_Business_Listing_supplier.aspx" target="_blank"><img id="ctl00_Image16" src="icons/SupplierMember_IFA_logoP301.gif" align="bottom" height="100" border="0"></a>
-                    </center>
-                </div>
-                <div style="float: left;">
-                    <center>
-                        <a id="ctl00_HyperLink12" href="http://www.sempo.org/directories/search_form/detail_company?ik=b7be2978d6490af3cc02d6e25f55760eb867a559" target="_blank"><img id="ctl00_Image17" src="icons/SEMPO_member-general.gif" align="bottom" width="115" border="0"></a>
-                        <br>
-                        <br>
-                        <a id="ctl00_HyperLink13" href="http://www.ypassociation.org/" target="_blank"><img id="ctl00_Image18" src="icons/ypima_logo.gif" align="bottom" width="115" border="0"></a>
+        <div id="footer" style="padding-top: 15px; width: 1000px; ">
+            <div style="float: left; width: 325px; padding-top: 8px; ">
+			
+                <div style="float: left; padding-left: 20px; ">
+                <a id="ctl00_HyperLink13" href="http://www.ypassociation.org/" target="_blank"><img id="ctl00_Image18" src="icons/LocalSearchAssociation.jpg" align="bottom" width="140" border="0"></a>
+				</div>
+				
+				<div style="float: left; padding: 5px; ">
+                        <a id="ctl00_HyperLink12" href="http://www.sempo.org" target="_blank"><img id="ctl00_Image17" src="icons/SEMPO_member-general.gif" align="bottom" width="115" border="0"></a>
+				</div>				
+				<div style="float: left; padding-left: 50px; padding-top: 10px; ">
+				<a id="ctl00_HyperLink10" href="http://www.bbb.org/charlotte/business-reviews/marketing-programs-and-services/universal-business-listings-in-charlotte-nc-234672" target="_blank"><img id="ctl00_Image15" src="icons/bbb-logo.jpg" align="bottom" width="120" border="0"></a>
+				</div>
+				<div style="float: left;">
+                        <a id="ctl00_HyperLink11" href="http://www.franchise.org" target="_blank"><img id="ctl00_Image16" src="icons/logo_ifa2.gif" align="bottom" width="80" border="0"></a>
+				</div>					
 
-	
-
-                    </center>
-                </div>
-
+						
             </div>
-            <div style="float: left; width: 320px; padding: 10px;">
+            <div style="float: left; width: 315px; padding-left: 10px; padding-right: 10px;">
                 <center>
                     <ul>
                         <li>
@@ -539,16 +599,23 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                             <a id="ctl00_hlTerms" href="Terms.aspx">Terms &amp; Conditions</a></li>
                     </ul>
                     <br>
-                    <a href="http://webcard.ubl.org/webcard/business/alabama/A" title="Browse examples of enriched business webcard, places pages, enhanced business listings, enhanced business profiles by state" target="_blank">Browse examples of enhanced business webcards</a>
+                    <a href="http://webcard.ubl.org/webcard/business/alabama/A" title="Browse examples of enriched business webcard, places pages, enhanced business listings, enhanced business profiles by state" target="_blank">Browse Enhanced Business Webcards</a>
                     <br>
                     <br>
                     © 2011 All Rights Reserved.
+                
+				    <br>
+                    <br>
+					 				
+				    <img id="ctl00_ccLogo" src="images/newlayout/paymenticons.PNG" align="bottom" border="0">
                 </center>
-                <br>
+				
+				<!--
+				
                 <center>
                     
                         <table>
-                            <tbody><tr>
+                            <tr>
                                 <td valign="middle">
                                     <script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=8kyYwjKkVKuyGPUkGYee2e7QA7YSFcovHGvRllk0kH1E5tKRu5Yj"></script>
                                     
@@ -561,29 +628,58 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                                 </td>
                             </tr>
 
-                        </tbody></table>
+                        </table>
                         
                     
                 </center>
-                
+                -->
+				
             </div>
-            <div style="float: left; width: 305px; padding-left: 10px;">
-                <center>
-                    <img id="ctl00_ccLogo" src="images/newlayout/payment_visa.gif" align="bottom" border="0">
-                    <img id="ctl00_ccLogo2" src="images/newlayout/payment_mastercard.gif" align="bottom" border="0">
-                    <img id="ctl00_ccLogo3" src="images/newlayout/payment_discover.gif" align="bottom" border="0">
-                    <img id="ctl00_ccLogo4" src="images/newlayout/payment_amex.gif" align="bottom" border="0">
-                    &nbsp;<img id="ctl00_ppLogo" src="images/newlayout/payment_paypal.gif" align="bottom" border="0">
-                </center>
-                <center>
-                    <a id="ctl00_HyperLink14" href="http://www.facebook.com/#!/pages/Universal-Business-Listing-UBL/317803721215?ref=ts" target="_blank"><img id="ctl00_Image19" src="images/newlayout/facebook.gif" align="bottom" border="0"></a>
-                    <a id="ctl00_HyperLink15" href="http://twitter.com/UBLorg" target="_blank"><img id="ctl00_Image20" src="images/newlayout/twitter.gif" align="bottom" border="0"></a>
-                    <a id="ctl00_HyperLink16" href="http://www.linkedin.com/companies/universalbusinesslisting.org-and-name-dynamics-inc" target="_blank"><img id="ctl00_Image21" src="images/newlayout/linkedin.gif" align="bottom" border="0"></a>
-                </center>
+            <div style="float: left; width: 290px; padding-left: 45px; ">
 
-<center>
-<a href="http://searchexchange.org" target="_blank"><img src="/images/speaking125.png" border="0" title="seo conference"></a>
-</center>
+			<div style="float: left; padding: 10px; ">
+		    <script type="text/javascript" src="https://sealserver.trustwave.com/seal.js?code=843f97700ca511e0b34b005056b201e5"></script>
+			</div>
+			<div style="float: left; ">
+		    <script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.ubl.org&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script>
+			</div>	
+			<div style="float: left; padding-left: 50px; ">
+            <script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=8kyYwjKkVKuyGPUkGYee2e7QA7YSFcovHGvRllk0kH1E5tKRu5Yj">     </script>
+			</div>
+				
+		        <!--
+				<center>
+                    
+                        <table>
+                            <tr>
+                                <td valign="middle">
+                                    <script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=8kyYwjKkVKuyGPUkGYee2e7QA7YSFcovHGvRllk0kH1E5tKRu5Yj"></script>
+                                    
+                                </td>
+							
+                                <td>
+                                <script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.ubl.org&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script>
+                                </td>
+								</tr><tr>
+                                <td>
+                                    <script type="text/javascript" src="https://sealserver.trustwave.com/seal.js?code=843f97700ca511e0b34b005056b201e5"></script>
+                                </td>
+                            </tr>
+
+                        </table>
+                        
+                    
+                </center>
+				-->
+				
+				<!--
+                <center>
+                    <a id="ctl00_HyperLink14" href="http://www.facebook.com/#!/pages/Universal-Business-Listing-UBL/317803721215?ref=ts" target="_blank"><img id="ctl00_Image19" src="images/newlayout/facebook.gif" align="bottom" border="0" /></a>
+                    <a id="ctl00_HyperLink15" href="http://twitter.com/UBLorg" target="_blank"><img id="ctl00_Image20" src="images/newlayout/twitter.gif" align="bottom" border="0" /></a>
+                    <a id="ctl00_HyperLink16" href="http://www.linkedin.com/companies/universalbusinesslisting.org-and-name-dynamics-inc" target="_blank"><img id="ctl00_Image21" src="images/newlayout/linkedin.gif" align="bottom" border="0" /></a>
+                </center>
+				-->
+
             </div>
         </div>
         <br clear="all">
@@ -597,20 +693,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 UpdateLoginDisplay('false');//]]>
 </script>
 </form>
-    <!-- BEGIN HelpOnClick CODE -->
-    <script language="JavaScript">
-        var hoc_traffic_u = 10550;
-        var hoc_traffic_usrnme = 'ublorg';
-        var hoc_invite_bgcolor = 'e26803';
-        var hoc_invite_position = 'center';
-        var hoc_secured = 'yes';
-    </script>
-    <script language="JavaScript" src="https://www.helponclick.com/import_traffic.hoc"></script>
-    <div style="z-index: 99; position: absolute; visibility: hidden; display: none; left: 0;
-        top: 0">
-        <a href="http://www.helponclick.com"><font size="1">Live Chat</font></a>
-    </div>
-    <!-- END HelpOnClick CODE -->
+    
     <script type="text/javascript">
         var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
         document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -624,9 +707,16 @@ UpdateLoginDisplay('false');//]]>
     <script type="text/javascript">
         function doSearch() {
             var busName = document.getElementById('businessName');
-            var busLocation = document.getElementById('businessLocation');
-            var url = '?business_name=' + busName.value + '&business_zip=' + busLocation.value;
-            window.open('http://search.ubl.org/index.php' + url, 'UBLSearch', '');
+            var busStreet = document.getElementById('businessStreet');
+            var busPhone = document.getElementById('businessPhone');
+            var busZip = document.getElementById('businessZip');
+
+            var url = '?bname=' + busName.value + 
+            '&bphone=' + busPhone.value +
+            '&baddr=' + busStreet.value +
+            '&bzip=' + busZip.value;
+
+            window.open('http://search.ubl.org/results.php' + url, 'UBLSearch', '');
         }
 
     </script>
