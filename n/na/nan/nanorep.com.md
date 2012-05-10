@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nanorep.com privacy policy that was archived on 2011-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111027134735id_/http%3A//nanorep.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nanorep.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510140301id_/http%3A//www.nanorep.com/Privacy) for the most accurate reproduction.*
 
 # Help Desk Software | Self-Learning Customer Support Solution with ticketing system | nanorep.com
 
@@ -43,11 +43,11 @@ Our website may contain links to enable you to easily visit other websites of in
 
 ##  Controlling your personal information
 
-You agree for us using your personal information for direct marketing purposes (if we think you may find it interesting), however, you may change your mind at any time by writing to or emailing us at [support@nanoRep.com](https://web.archive.org/web/20111027134735id_/http%3A//nanorep.com/support@nanoRep.com). We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may also disclose and otherwise process your personal information in accordance with applicable law to defend nanoRep's legitimate interests, for example, in civil or criminal legal proceedings.
+You agree for us using your personal information for direct marketing purposes (if we think you may find it interesting), however, you may change your mind at any time by writing to or emailing us at [support@nanoRep.com](mailto:support@nanoRep.com). We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may also disclose and otherwise process your personal information in accordance with applicable law to defend nanoRep's legitimate interests, for example, in civil or criminal legal proceedings.
 
 We may share your personal information with nanoRep affiliates, subsidiaries or authorized third parties who process personal information for nanoRep for the purposes described in this policy. If we decide to sell, buy, merge or otherwise reorganize our businesses in certain countries, we may be required to disclosing personal information to prospective or actual purchasers and their advisors. In such an event, nanoRep will provide a copy of this policy to such prospective or actual purchasers and their advisers and enter into an agreement with them, obligating them to comply with the provisions thereof, mutatis mutandis.
 
-You may request details of personal information which we hold about you. If you would like a copy of the information held on you please write to [support@nanoRep.com](https://web.archive.org/web/20111027134735id_/http%3A//nanorep.com/support@nanorep.com). If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any misinformation.
+You may request details of personal information which we hold about you. If you would like a copy of the information held on you please write to [support@nanoRep.com](mailto:support@nanorep.com). If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any misinformation.
 
 ##  Under-age users
 
