@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boostcruising.com privacy policy that was archived on 2011-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110723084553id_/http%3A//www.boostcruising.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boostcruising.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510202547id_/http%3A//www.boostcruising.com.au/privacy.php) for the most accurate reproduction.*
 
 # Boostcruising - Boostcruising.com - Terms and Conditions
 
@@ -99,6 +99,3 @@ This website may contain links to other websites which are not operated by Boost
 **Changes to this Privacy Policy:**
 
 We may alter this Privacy Policy from time to time in accordance with legal requirements or to meet our business requirements. Any alterations to our Privacy Policy will be reflected on this website.
-
-©2011 Boostcruising.  
-All rights reserved.
