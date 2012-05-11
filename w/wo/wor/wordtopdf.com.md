@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the wordtopdf.com privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010161516id_/http%3A//wordtopdf.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordtopdf.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511042639id_/http%3A//www.wordtopdf.com/privacy.aspx) for the most accurate reproduction.*
 
-# PDF to Word - 100% Free! - The all-new Word-to-PDF Converter
+# PDF to Word Converter — 100% Free
 
 At Nitro PDF Software we are committed to ensuring the privacy of your personal information. We understand that privacy of your personal information is important. Our Privacy Policy tells you how we collect, use, distribute and protect personal information. 
+
+[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.pdftoword.com/seal_m "Validate TRUSTe privacy certification")
 
 Nitro PDF Pty. Ltd. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [ TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please [contact us](mailto:privacy@nitropdf.com). If you are not satisfied with our response you can contact[ TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). This Privacy Policy governs all sites that link to this policy. 
 
