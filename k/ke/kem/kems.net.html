@@ -1,0 +1,491 @@
+<!--The following is the downloaded HTML source of the kems.net privacy policy that was archived on 2012-05-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120511151439id_/http%3A//www.kems.net/page.aspx%3Fid%3D10) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+	KEMS : Faster Internet
+</title><meta http-equiv="X-UA-Compatible" content="IE=edge"><link rel="stylesheet" href="pie/kems_pie.css" type="text/css"><link rel="stylesheet" href="colorbox/colorbox.css" type="text/css">
+    <script src="js/global.js" type="text/javascript"></script>
+    <script src="js/jquery.min.js" type="text/javascript"></script>
+    <script src="js/jquery-ui.min.js" type="text/javascript"></script>
+	<script src="js/jquery.colorbox.js" type="text/javascript"></script>
+    <script src="js/jquery.bxSlider.min.js" type="text/javascript"></script>
+    <script src="js/jquery.cycle.all.latest.js" type="text/javascript"></script>
+<link href="App_Themes/default/default.css" type="text/css" rel="stylesheet"><link href="App_Themes/default/fonts.css" type="text/css" rel="stylesheet"></head>
+<body>
+    
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            if (document.getElementById("slider")) {
+                $('#slider').bxSlider({
+                    auto: true,
+                    autoHover: false,
+                    controls: false,
+                    pause: 5000,
+                    speed: 1000,
+                    mode: 'vertical',
+                });
+            }
+            //
+            if (document.getElementById("slideshow")) {
+                var bc = $('#buttonContainer');
+
+                var $slideshow1 = $('#slideshow').cycle({
+                    fx: 'fade',
+                    after: onAfter
+                });
+
+                $slideshow1.children().each(function (i) {
+                    var obj = document.createElement("a");
+                    obj.id = 'link' + i;
+                    obj.href = '#';
+                    obj.innerHTML = i + 1;
+                    if (i == 0) {
+                        obj.className = 'activeSlide';
+                    }
+                    $(obj).appendTo(bc).click(function () {
+                        $slideshow1.cycle(i);
+                        return false;
+                    });
+                });
+            }
+        });
+
+        function onAfter(curr, next, opts) {
+            var index = opts.currSlide;
+            var n = $('#buttonContainer').children().size();
+            //
+            if (n > 0) {
+                for (var i = 0; i < n; i++) {
+                    $('#link' + i).attr('className', '');
+                }
+                //
+                $('#link' + index).attr('className', 'activeSlide');
+            }
+        }
+
+        function mnSubHover(mnSubId, mnId) {
+            $('#' + mnSubId).show();
+            $('#' + mnId).css('background-color', '#f36f21');
+            $('#' + mnId).css('color', '#fff');
+        }
+
+        function mnSubHout(mnSubId, mnId) {
+            $('#' + mnSubId).stop(true, true);
+            $('#' + mnSubId).hide();
+            $('#' + mnId).css('background-color', '');
+            $('#' + mnId).css('color', '');
+        }
+    </script>
+    <form method="post" action="page.aspx?id=10" id="form1">
+<input type="hidden" name="ToolkitScriptManager1_HiddenField" id="ToolkitScriptManager1_HiddenField" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTczMTk4NDQ2Ng9kFgJmD2QWAgIFD2QWCAIBDxYCHgtfIUl0ZW1Db3VudAIEFghmD2QWAmYPFQM8PGltZyBzcmM9J0FwcF9UaGVtZXMvZGVmYXVsdC9pbWFnZXMvaWNvbl9ob21lLmdpZicgYWx0PSIiIC8+IGh0dHA6Ly93d3cua2Vtcy5uZXQvZGVmYXVsdC5hc3B4BEhvbWVkAgEPZBYCZg8VAz88aW1nIHNyYz0nQXBwX1RoZW1lcy9kZWZhdWx0L2ltYWdlcy9pY29uX2Fib3V0dXMuZ2lmJyBhbHQ9IiIgLz4raHR0cDovL3d3dy5rZW1zLm5ldC9wYWdlLmFzcHg/Y2F0PW1lbnUmaWQ9NwhBYm91dCBVc2QCAg9kFgJmDxUDPzxpbWcgc3JjPSdBcHBfVGhlbWVzL2RlZmF1bHQvaW1hZ2VzL2ljb25fY2FyZWVycy5naWYnIGFsdD0iIiAvPitodHRwOi8vd3d3LmtlbXMubmV0L3BhZ2UuYXNweD9jYXQ9bWVudSZpZD00B0NhcmVlcnNkAgMPZBYCZg8VA0E8aW1nIHNyYz0nQXBwX1RoZW1lcy9kZWZhdWx0L2ltYWdlcy9pY29uX2NvbnRhY3R1cy5naWYnIGFsdD0iIiAvPiNodHRwOi8vd3d3LmtlbXMubmV0L2NvbnRhY3RfdXMuYXNweApDb250YWN0IFVzZAICDxYCHwACBhYMZg9kFgJmDxUFA21uMSdodHRwOi8vd3d3LmtlbXMubmV0L3BhZ2VfbWFpbi5hc3B4P2lkPTFUIG9ubW91c2VvdmVyPSIkKCcjbW4xc3ViJykuc2xpZGVEb3duKDI1MCk7IiBvbm1vdXNlb3V0PSJtblN1YkhvdXQoJ21uMXN1YicsICdtbjEnKTsiABNQcm9kdWN0cyAmIFNlcnZpY2VzZAIBD2QWAmYPFQUDbW4yK2h0dHA6Ly93d3cua2Vtcy5uZXQvcGFnZS5hc3B4P2NhdD1tZW51JmlkPTJUIG9ubW91c2VvdmVyPSIkKCcjbW4yc3ViJykuc2xpZGVEb3duKDI1MCk7IiBvbm1vdXNlb3V0PSJtblN1YkhvdXQoJ21uMnN1YicsICdtbjInKTsiDSBjbGFzcz0nc3RhcicLS0VNUyBPZmZlcnNkAgIPZBYCZg8VBQNtbjkVaHR0cDovL3d3dy5rZW1zLm5ldC8jVCBvbm1vdXNlb3Zlcj0iJCgnI21uOXN1YicpLnNsaWRlRG93bigyNTApOyIgb25tb3VzZW91dD0ibW5TdWJIb3V0KCdtbjlzdWInLCAnbW45Jyk7IgAKS0VNUyBTdG9yZWQCAw9kFgJmDxUFBG1uMTEiaHR0cDovL3d3dy5rZW1zLm5ldC9zaG93cm9vbXMuYXNweAAACVNob3dyb29tc2QCBA9kFgJmDxUFA21uMxVodHRwOi8vd3d3LmtlbXMubmV0LyNUIG9ubW91c2VvdmVyPSIkKCcjbW4zc3ViJykuc2xpZGVEb3duKDI1MCk7IiBvbm1vdXNlb3V0PSJtblN1YkhvdXQoJ21uM3N1YicsICdtbjMnKTsiAApNZWRpYSBSb29tZAIFD2QWAmYPFQUDbW41L2h0dHA6Ly93d3cua2Vtcy5uZXQvY29udGFjdF91cy5hc3B4P2NhdD1zdXBwb3J0AAAHU3VwcG9ydGQCAw8WAh8AAgQWCGYPZBYGZg8PFgIeBFRleHQFATFkZAIBDxUFBm1uMXN1YgZtbjFzdWIDbW4xBm1uMXN1YgNtbjFkAgIPFgIfAAIGFgxmD2QWAmYPFQIuaHR0cDovL3d3dy5rZW1zLm5ldC9wYWdlLmFzcHg/Y2F0PXN1Ym1lbnUmaWQ9MQRBRFNMZAIBD2QWAmYPFQIuaHR0cDovL3d3dy5rZW1zLm5ldC9wYWdlLmFzcHg/Y2F0PXN1Ym1lbnUmaWQ9MgRHUE9OZAICD2QWAmYPFQIuaHR0cDovL3d3dy5rZW1zLm5ldC9wYWdlLmFzcHg/Y2F0PXN1Ym1lbnUmaWQ9MwlLRU1TIFdpRmlkAgMPZBYCZg8VAi5odHRwOi8vd3d3LmtlbXMubmV0L3BhZ2UuYXNweD9jYXQ9c3VibWVudSZpZD00BkRpYWx1cGQCBA9kFgJmDxUCLmh0dHA6Ly93d3cua2Vtcy5uZXQvcGFnZS5hc3B4P2NhdD1zdWJtZW51JmlkPTUFaVBhc3NkAgUPZBYCZg8VAi5odHRwOi8vd3d3LmtlbXMubmV0L3BhZ2UuYXNweD9jYXQ9c3VibWVudSZpZD02C0tFTVMgU3BvcnRzZAIBD2QWBmYPDxYCHwEFATJkZAIBDxUFBm1uMnN1YgZtbjJzdWIDbW4yBm1uMnN1YgNtbjJkAgIPFgIfAAIEFghmD2QWAmYPFQIfaHR0cDovL3d3dy5rZW1zLm5ldC9vZmZlcnMuYXNweAZPZmZlcnNkAgEPZBYCZg8VAixodHRwOi8vd3d3LmtlbXMubmV0L3ByaWNlcy5hc3B4P2NhdD1zaG93cm9vbQZQcmljZXNkAgIPZBYCZg8VAipodHRwOi8vd3d3LmtlbXMubmV0L3ByaWNlcy5hc3B4P2NhdD1vbmxpbmUNT25saW5lIFByaWNlc2QCAw9kFgJmDxUCL2h0dHA6Ly93d3cua2Vtcy5uZXQvcGFnZS5hc3B4P2NhdD1zdWJtZW51JmlkPTE4D0xveWFsdHkgUHJvZ3JhbWQCAg9kFgZmDw8WAh8BBQE5ZGQCAQ8VBQZtbjlzdWIGbW45c3ViA21uOQZtbjlzdWIDbW45ZAICDxYCHwACBRYKZg9kFgJmDxUCJ2h0dHBzOi8vc3RvcmUua2Vtcy5uZXQvc3RvcmVfcmVuZXcuYXNweAVSZW5ld2QCAQ9kFgJmDxUCKWh0dHBzOi8vc3RvcmUua2Vtcy5uZXQvc3RvcmVfdXBncmFkZS5hc3B4B1VwZ3JhZGVkAgIPZBYCZg8VAiZodHRwczovL3N0b3JlLmtlbXMubmV0L3N0b3JlX3dpZmkuYXNweA1CdXkgV2lGaSBDYXJkZAIDD2QWAmYPFQIoaHR0cHM6Ly9zdG9yZS5rZW1zLm5ldC9zdG9yZV9kaWFsdXAuYXNweA9CdXkgRGlhbHVwIENhcmRkAgQPZBYCZg8VAi9odHRwOi8vd3d3LmtlbXMubmV0L3BhZ2UuYXNweD9jYXQ9c3VibWVudSZpZD0xNxBTdWJzY3JpYmUgT25saW5lZAIDD2QWBmYPDxYCHwEFATNkZAIBDxUFBm1uM3N1YgZtbjNzdWIDbW4zBm1uM3N1YgNtbjNkAgIPFgIfAAIEFghmD2QWAmYPFQIkaHR0cDovL3d3dy5rZW1zLm5ldC9uZXdzX2V2ZW50cy5hc3B4BE5ld3NkAgEPZBYCZg8VAipodHRwOi8vd3d3LmtlbXMubmV0L25ld3NfZXZlbnRzLmFzcHg/Y2F0PWUGRXZlbnRzZAICD2QWAmYPFQIvaHR0cDovL3d3dy5rZW1zLm5ldC9wYWdlLmFzcHg/Y2F0PXN1Ym1lbnUmaWQ9MTUNUHJlc3MgUmVsZWFzZWQCAw9kFgJmDxUCL2h0dHA6Ly93d3cua2Vtcy5uZXQvcGFnZS5hc3B4P2NhdD1zdWJtZW51JmlkPTE5BkF3YXJkc2QCBQ9kFgZmDw8WAh8BBRc8aDE+UHJpdmFjeSBQb2xpY3k8L2gxPmRkAgIPDxYCHwEF7mgNCg0KDQoNCg0KDQoNCg0KPHN0eWxlPg0KPCEtLQ0KIC8qIEZvbnQgRGVmaW5pdGlvbnMgKi8NCkBmb250LWZhY2UNCgl7Zm9udC1mYW1pbHk6Iu+8re+8syDmmI7mnJ0iOw0KCW1zby1mb250LWNoYXJzZXQ6Nzg7DQoJbXNvLWdlbmVyaWMtZm9udC1mYW1pbHk6YXV0bzsNCgltc28tZm9udC1waXRjaDp2YXJpYWJsZTsNCgltc28tZm9udC1zaWduYXR1cmU6MSAxMzQ2NzY0ODAgMTYgMCAxMzEwNzIgMDt9DQpAZm9udC1mYWNlDQoJe2ZvbnQtZmFtaWx5OlZlcmRhbmE7DQoJcGFub3NlLTE6MiAxMSA2IDQgMyA1IDQgNCAyIDQ7DQoJbXNvLWZvbnQtY2hhcnNldDowOw0KCW1zby1nZW5lcmljLWZvbnQtZmFtaWx5OmF1dG87DQoJbXNvLWZvbnQtcGl0Y2g6dmFyaWFibGU7DQoJbXNvLWZvbnQtc2lnbmF0dXJlOi0xNTkzODMzNzI5IDEwNzM3NTAxMDcgMTYgMCA0MTUgMDt9DQpAZm9udC1mYWNlDQoJe2ZvbnQtZmFtaWx5OiJDYW1icmlhIE1hdGgiOw0KCXBhbm9zZS0xOjIgNCA1IDMgNSA0IDYgMyAyIDQ7DQoJbXNvLWZvbnQtY2hhcnNldDowOw0KCW1zby1nZW5lcmljLWZvbnQtZmFtaWx5OmF1dG87DQoJbXNvLWZvbnQtcGl0Y2g6dmFyaWFibGU7DQoJbXNvLWZvbnQtc2lnbmF0dXJlOjMgMCAwIDAgMSAwO30NCkBmb250LWZhY2UNCgl7Zm9udC1mYW1pbHk6Q2FtYnJpYTsNCglwYW5vc2UtMToyIDQgNSAzIDUgNCA2IDMgMiA0Ow0KCW1zby1mb250LWNoYXJzZXQ6MDsNCgltc28tZ2VuZXJpYy1mb250LWZhbWlseTphdXRvOw0KCW1zby1mb250LXBpdGNoOnZhcmlhYmxlOw0KCW1zby1mb250LXNpZ25hdHVyZTotNTM2ODcwMTQ1IDEwNzM3NDMxMDMgMCAwIDQxNSAwO30NCiAvKiBTdHlsZSBEZWZpbml0aW9ucyAqLw0KcC5Nc29Ob3JtYWwsIGxpLk1zb05vcm1hbCwgZGl2Lk1zb05vcm1hbA0KCXttc28tc3R5bGUtdW5oaWRlOm5vOw0KCW1zby1zdHlsZS1xZm9ybWF0OnllczsNCgltc28tc3R5bGUtcGFyZW50OiIiOw0KCW1hcmdpbjowY207DQoJbWFyZ2luLWJvdHRvbTouMDAwMXB0Ow0KCW1zby1wYWdpbmF0aW9uOndpZG93LW9ycGhhbjsNCglmb250LXNpemU6MTIuMHB0Ow0KCWZvbnQtZmFtaWx5OkNhbWJyaWE7DQoJbXNvLWFzY2lpLWZvbnQtZmFtaWx5OkNhbWJyaWE7DQoJbXNvLWFzY2lpLXRoZW1lLWZvbnQ6bWlub3ItbGF0aW47DQoJbXNvLWZhcmVhc3QtZm9udC1mYW1pbHk6Iu+8re+8syDmmI7mnJ0iOw0KCW1zby1mYXJlYXN0LXRoZW1lLWZvbnQ6bWlub3ItZmFyZWFzdDsNCgltc28taGFuc2ktZm9udC1mYW1pbHk6Q2FtYnJpYTsNCgltc28taGFuc2ktdGhlbWUtZm9udDptaW5vci1sYXRpbjsNCgltc28tYmlkaS1mb250LWZhbWlseToiVGltZXMgTmV3IFJvbWFuIjsNCgltc28tYmlkaS10aGVtZS1mb250Om1pbm9yLWJpZGk7fQ0KLk1zb0NocERlZmF1bHQNCgl7bXNvLXN0eWxlLXR5cGU6ZXhwb3J0LW9ubHk7DQoJbXNvLWRlZmF1bHQtcHJvcHM6eWVzOw0KCWZvbnQtZmFtaWx5OkNhbWJyaWE7DQoJbXNvLWFzY2lpLWZvbnQtZmFtaWx5OkNhbWJyaWE7DQoJbXNvLWFzY2lpLXRoZW1lLWZvbnQ6bWlub3ItbGF0aW47DQoJbXNvLWZhcmVhc3QtZm9udC1mYW1pbHk6Iu+8re+8syDmmI7mnJ0iOw0KCW1zby1mYXJlYXN0LXRoZW1lLWZvbnQ6bWlub3ItZmFyZWFzdDsNCgltc28taGFuc2ktZm9udC1mYW1pbHk6Q2FtYnJpYTsNCgltc28taGFuc2ktdGhlbWUtZm9udDptaW5vci1sYXRpbjsNCgltc28tYmlkaS1mb250LWZhbWlseToiVGltZXMgTmV3IFJvbWFuIjsNCgltc28tYmlkaS10aGVtZS1mb250Om1pbm9yLWJpZGk7fQ0KQHBhZ2UgV29yZFNlY3Rpb24xDQoJe3NpemU6NTk1LjBwdCA4NDIuMHB0Ow0KCW1hcmdpbjo3Mi4wcHQgOTAuMHB0IDcyLjBwdCA5MC4wcHQ7DQoJbXNvLWhlYWRlci1tYXJnaW46MzUuNHB0Ow0KCW1zby1mb290ZXItbWFyZ2luOjM1LjRwdDsNCgltc28tcGFwZXItc291cmNlOjA7fQ0KZGl2LldvcmRTZWN0aW9uMQ0KCXtwYWdlOldvcmRTZWN0aW9uMTt9DQotLT4NCjwvc3R5bGU+DQoNCg0KDQoNCg0KDQo8cCBjbGFzcz0iTXNvTm9ybWFsIiBzdHlsZT0ibWFyZ2luLWxlZnQ6IDcuMXB0OyBsaW5lLWhlaWdodDogMTUwJTsiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDlwdDsgbGluZS1oZWlnaHQ6IDE1MCU7IGZvbnQtZmFtaWx5OiBWZXJkYW5hOyI+PHNwYW4gc3R5bGU9IiI+Jm5ic3A7PC9zcGFuPkF0IEtFTVMsIHdlIGFyZSBjb21taXR0ZWQgdG8gcHJvdGVjdCB0aGUNCnByaXZhY3kgJmFtcDsgc2VjdXJpdHkgb2YgeW91ciBpbmZvcm1hdGlvbiB1cG9uIHZpc2l0aW5nIG91ciB3ZWJzaXRlIG9yDQpyZWdpc3RlcmluZyB5b3VyIGluZm9ybWF0aW9uIHdoaWNoIHdlIGNvbGxlY3QgJmFtcDsgdXNlIHRvIGltcHJvdmUgb3VyIHNlcnZpY2VzDQphbmQgZnVydGhlciBkZXZlbG9wIGluIHVuZGVyc3RhbmRpbmcgaG93IHdlIGNhbiBzZXJ2ZSB5b3VyIG5lZWRzLiBUaGlzIHBvbGljeQ0KYXBwbGllcyBmb3IgZnV0dXJlIHBhZ2VzIGFkZGVkIG9uIHRoZSB3ZWJzaXRlIGFzIHdlbGwuPC9zcGFuPjwvcD48cCBjbGFzcz0iTXNvTm9ybWFsIiBzdHlsZT0ibWFyZ2luLWxlZnQ6IDcuMXB0OyBsaW5lLWhlaWdodDogMTUwJTsiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDlwdDsgbGluZS1oZWlnaHQ6IDE1MCU7IGZvbnQtZmFtaWx5OiBWZXJkYW5hOyI+PGJyPjwvc3Bhbj48L3A+DQoNCjxwIGNsYXNzPSJNc29Ob3JtYWwiIHN0eWxlPSJtYXJnaW4tbGVmdDogNy4xcHQ7IGxpbmUtaGVpZ2h0OiAxNTAlOyI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogOXB0OyBsaW5lLWhlaWdodDogMTUwJTsgZm9udC1mYW1pbHk6IFZlcmRhbmE7Ij48c3BhbiBzdHlsZT0iIj4mbmJzcDsmbmJzcDsgPC9zcGFuPktpbmRseSBnbyB0aHJvdWdoIEtFTVPigJlzIFByaXZhY3kgUG9saWN5IGZvcg0KZnVydGhlciBpbmZvcm1hdGlvbi4gS0VNUyBoYXMgdGhlIHJpZ2h0IHRvIHJlbmV3LSBhZGQgb24gdG8gdGhlIGNvbnRlbnQgb2YgdGhpcw0KcG9saWN5IGFzIG5lY2Vzc2FyeSwgc28gbWFrZSBzdXJlIHlvdSByZXZpc2l0IGl0IGZyb20gdGltZSB0byB0aW1lIGZvciBmdXR1cmUNCnVwZGF0ZXMuPC9zcGFuPjwvcD4NCg0KPHAgY2xhc3M9Ik1zb05vcm1hbCIgc3R5bGU9Im1hcmdpbi1sZWZ0OiA3LjFwdDsgbGluZS1oZWlnaHQ6IDE1MCU7Ij48c3BhbiBzdHlsZT0iZm9udC1zaXplOiA5cHQ7IGxpbmUtaGVpZ2h0OiAxNTAlOyBmb250LWZhbWlseTogVmVyZGFuYTsiPiZuYnNwOzwvc3Bhbj48L3A+DQoNCjxwIGNsYXNzPSJNc29Ob3JtYWwiIHN0eWxlPSJtYXJnaW4tbGVmdDogNy4xcHQ7IGxpbmUtaGVpZ2h0OiAxNTAlOyI+PGZvbnQgY29sb3I9IiNmZmE1MDAiPjxiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDlwdDsgbGluZS1oZWlnaHQ6IDE1MCU7IGZvbnQtZmFtaWx5OiBWZXJkYW5hOyI+T3VyDQpQcml2YWN5IFBvbGljeSByZXF1aXJlbWVudHMgaW5jbHVkZSA8Zm9udCBjb2xvcj0iIzAwMDAwMCI+OjwvZm9udD48L3NwYW4+PC9iPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDlwdDsgbGluZS1oZWlnaHQ6IDE1MCU7IGZvbnQtZmFtaWx5OiBWZXJkYW5hOyI+PC9zcGFuPjwvZm9udD48L3A+DQoNCjxwIGNsYXNzPSJNc29Ob3JtYWwiIHN0eWxlPSJtYXJnaW4tbGVmdDogNy4xcHQ7IGxpbmUtaGVpZ2h0OiAxNTAlOyI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogOXB0OyBsaW5lLWhlaWdodDogMTUwJTsgZm9udC1mYW1pbHk6IFZlcmRhbmE7Ij4mbmJzcDs8L3NwYW4+PC9wPg0KDQo8cCBjbGFzcz0iTXNvTm9ybWFsIiBzdHlsZT0ibWFyZ2luLWxlZnQ6IDcuMXB0OyBsaW5lLWhlaWdodDogMTUwJTsiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDlwdDsgbGluZS1oZWlnaHQ6IDE1MCU7IGZvbnQtZmFtaWx5OiBWZXJkYW5hOyI+wrcmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsNClBlcnNvbmFsIGRhdGEsIHdoaWNoIHdpbGwgaGVscCB1cyBpZGVudGlmeSB1c2Vycy48L3NwYW4+PC9wPg0KDQo8cCBjbGFzcz0iTXNvTm9ybWFsIiBzdHlsZT0ibWFyZ2luLWxlZnQ6IDcuMXB0OyBsaW5lLWhlaWdodDogMTUwJTsiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDlwdDsgbGluZS1oZWlnaHQ6IDE1MCU7IGZvbnQtZmFtaWx5OiBWZXJkYW5hOyI+wrcmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsNCkhvdyBnYXRoZXJlZCBkYXRhIGFuZCBpbmZvcm1hdGlvbiB3aWxsIGJlIHByb2Nlc3NlZC48L3NwYW4+PC9wPg0KDQo8cCBjbGFzcz0iTXNvTm9ybWFsIiBzdHlsZT0ibWFyZ2luLWxlZnQ6IDcuMXB0OyBsaW5lLWhlaWdodDogMTUwJTsiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDlwdDsgbGluZS1oZWlnaHQ6IDE1MCU7IGZvbnQtZmFtaWx5OiBWZXJkYW5hOyI+wrcmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsNClBhcnRpZXMgYWxsb3dlZCDigJMgcmVzcG9uc2libGUgdG8gcHJvY2VzcyBnYXRoZXJlZCBkYXRhIGluIGNvbXBsZXRlIGNvbmZpZGVudGlhbGl0eS48L3NwYW4+PC9wPg0KDQo8cCBjbGFzcz0iTXNvTm9ybWFsIiBzdHlsZT0ibWFyZ2luLWxlZnQ6IDcuMXB0OyBsaW5lLWhlaWdodDogMTUwJTsiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDlwdDsgbGluZS1oZWlnaHQ6IDE1MCU7IGZvbnQtZmFtaWx5OiBWZXJkYW5hOyI+wrcmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsNCkF1dGhvcml6ZWQgcGVyc29ubmVsIHRvIGFjY2VzcyB0aGUgZ2F0aGVyZWQgZGF0YS48L3NwYW4+PC9wPg0KDQo8cCBjbGFzcz0iTXNvTm9ybWFsIiBzdHlsZT0ibWFyZ2luLWxlZnQ6IDcuMXB0OyBsaW5lLWhlaWdodDogMTUwJTsiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDlwdDsgbGluZS1oZWlnaHQ6IDE1MCU7IGZvbnQtZmFtaWx5OiBWZXJkYW5hOyI+wrcmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsNCkV4cGxhbmF0aW9uIG9mIGF2YWlsYWJsZSBtZXRob2RvbG9neSBmb3IgdXNlcnMgYW5kIHZpc2l0b3JzIG9mIGRhdGEgY29sbGVjdGlvbiwNCmRhdGEgdXNlIGFzIHdlbGwgYXMgZGF0YSBkaXN0cmlidXRpb24uPC9zcGFuPjwvcD4NCg0KPHAgY2xhc3M9Ik1zb05vcm1hbCIgc3R5bGU9Im1hcmdpbi1sZWZ0OiA3LjFwdDsgbGluZS1oZWlnaHQ6IDE1MCU7Ij48c3BhbiBzdHlsZT0iZm9udC1zaXplOiA5cHQ7IGxpbmUtaGVpZ2h0OiAxNTAlOyBmb250LWZhbWlseTogVmVyZGFuYTsiPsK3Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7DQpIb3cgS0VNU+KAmXMgd2Vic2l0ZSBoYW5kbGVzIHJlZ2lzdGVyZWQgdXNlcnMgYW5kIHZpc2l0b3JzIGRhdGEuPC9zcGFuPjwvcD4NCg0KPHAgY2xhc3M9Ik1zb05vcm1hbCIgc3R5bGU9Im1hcmdpbi1sZWZ0OiA3LjFwdDsgbGluZS1oZWlnaHQ6IDE1MCU7Ij48c3BhbiBzdHlsZT0iZm9udC1zaXplOiA5cHQ7IGxpbmUtaGVpZ2h0OiAxNTAlOyBmb250LWZhbWlseTogVmVyZGFuYTsiPsK3Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7DQpXYXZpbmcgbGlhYmlsaXR5IG9mIGRhdGEgcmVnaXN0ZXJlZCBhdCBvdGhlciBpbmNsdWRlZCB3ZWJzaXRlcy48L3NwYW4+PC9wPg0KDQo8cCBjbGFzcz0iTXNvTm9ybWFsIiBzdHlsZT0ibWFyZ2luLWxlZnQ6IDcuMXB0OyBsaW5lLWhlaWdodDogMTUwJTsiPjxiIHN0eWxlPSIiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDlwdDsgbGluZS1oZWlnaHQ6IDE1MCU7IGZvbnQtZmFtaWx5OiBWZXJkYW5hOyI+Jm5ic3A7PC9zcGFuPjwvYj48c3BhbiBzdHlsZT0iZm9udC1zaXplOiA5cHQ7IGxpbmUtaGVpZ2h0OiAxNTAlOyBmb250LWZhbWlseTogVmVyZGFuYTsiPjwvc3Bhbj48L3A+DQoNCjxwIGNsYXNzPSJNc29Ob3JtYWwiIHN0eWxlPSJtYXJnaW4tbGVmdDogNy4xcHQ7IGxpbmUtaGVpZ2h0OiAxNTAlOyI+PGZvbnQgY29sb3I9IiNmZmE1MDAiPjxiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDlwdDsgbGluZS1oZWlnaHQ6IDE1MCU7IGZvbnQtZmFtaWx5OiBWZXJkYW5hOyI+UGVyc29uYWwNCmRhdGEsIHdoaWNoIHdpbGwgaGVscCB1cyBpZGVudGlmeSB1c2Vyczxmb250IGNvbG9yPSIjMDAwMDAwIj4gOjwvZm9udD48L3NwYW4+PC9iPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDlwdDsgbGluZS1oZWlnaHQ6IDE1MCU7IGZvbnQtZmFtaWx5OiBWZXJkYW5hOyI+PC9zcGFuPjwvZm9udD48L3A+DQoNCjxwIGNsYXNzPSJNc29Ob3JtYWwiIHN0eWxlPSJtYXJnaW4tbGVmdDogNy4xcHQ7IGxpbmUtaGVpZ2h0OiAxNTAlOyI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogOXB0OyBsaW5lLWhlaWdodDogMTUwJTsgZm9udC1mYW1pbHk6IFZlcmRhbmE7Ij4mbmJzcDs8L3NwYW4+PC9wPg0KDQo8cCBjbGFzcz0iTXNvTm9ybWFsIiBzdHlsZT0ibWFyZ2luLWxlZnQ6IDcuMXB0OyBsaW5lLWhlaWdodDogMTUwJTsiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDlwdDsgbGluZS1oZWlnaHQ6IDE1MCU7IGZvbnQtZmFtaWx5OiBWZXJkYW5hOyI+V2UNCmFyZSBvbmx5IGludGVyZXN0ZWQgb2YgZ2F0aGVyaW5nIHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb24gd2hpY2ggd2lsbCBoZWxwIHVzDQppZGVudGlmeSBpbmRpdmlkdWFsIGNsaWVudHMgYW5kIG91ciB3ZWJzaXRlIGlzIG1vc3RseSBhY2Nlc3NlZCBhbmQgYnJvd3NlZA0Kd2l0aG91dCB0aGUgbmVlZCBvZiBmaWxsaW5nIHBlcnNvbmFsIGluZm9ybWF0aW9uLiBTdWNoIHR5cGUgb2YgaW5mb3JtYXRpb24gaXMNCm9ubHkgcmVxdWlyZWQgd2hpbGUgcGxhY2luZyBhbiBvcmRlciBmb3Igb3VyIHNlcnZpY2VzIHZpYSBvdXIgd2Vic2l0ZSBzdWNoIGFzDQpuYW1lLCBhZGRyZXNzLCBjb250YWN0IGRldGFpbHMgb3IgZW1haWwgYWRkcmVzcywgc28gY2xpZW50cyBjYW4gcmVzdCBhc3N1cmUNCnRoYXQgdGhvc2UgZGV0YWlscyB3aWxsIG5vdCBiZSBzaGFyZWQgd2l0aCBhIHRoaXJkIHBhcnR5IG9ubHkgZm9yIGNlcnRhaW4NCmV4Y2VwdGlvbnMuIDwvc3Bhbj48L3A+DQoNCjxwIGNsYXNzPSJNc29Ob3JtYWwiIHN0eWxlPSJtYXJnaW4tbGVmdDogNy4xcHQ7IGxpbmUtaGVpZ2h0OiAxNTAlOyI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogOXB0OyBsaW5lLWhlaWdodDogMTUwJTsgZm9udC1mYW1pbHk6IFZlcmRhbmE7Ij4mbmJzcDs8L3NwYW4+PC9wPg0KDQo8cCBjbGFzcz0iTXNvTm9ybWFsIiBzdHlsZT0ibWFyZ2luLWxlZnQ6IDcuMXB0OyBsaW5lLWhlaWdodDogMTUwJTsiPjxmb250IGNvbG9yPSIjZmZhNTAwIj48Yj48c3BhbiBzdHlsZT0iZm9udC1zaXplOiA5cHQ7IGxpbmUtaGVpZ2h0OiAxNTAlOyBmb250LWZhbWlseTogVmVyZGFuYTsiPkhvdw0KZ2F0aGVyZWQgZGF0YSBhbmQgaW5mb3JtYXRpb24gd2lsbCBiZSBwcm9jZXNzZWQ8Zm9udCBjb2xvcj0iIzAwMDAwMCI+IDo8L2ZvbnQ+PC9zcGFuPjwvYj48c3BhbiBzdHlsZT0iZm9udC1zaXplOiA5cHQ7IGxpbmUtaGVpZ2h0OiAxNTAlOyBmb250LWZhbWlseTogVmVyZGFuYTsiPjwvc3Bhbj48L2ZvbnQ+PC9wPg0KDQo8cCBjbGFzcz0iTXNvTm9ybWFsIiBzdHlsZT0ibWFyZ2luLWxlZnQ6IDcuMXB0OyBsaW5lLWhlaWdodDogMTUwJTsiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDlwdDsgbGluZS1oZWlnaHQ6IDE1MCU7IGZvbnQtZmFtaWx5OiBWZXJkYW5hOyI+Jm5ic3A7PC9zcGFuPjwvcD4NCg0KPHAgY2xhc3M9Ik1zb05vcm1hbCIgc3R5bGU9Im1hcmdpbi1sZWZ0OiA3LjFwdDsgbGluZS1oZWlnaHQ6IDE1MCU7Ij48c3BhbiBzdHlsZT0iZm9udC1zaXplOiA5cHQ7IGxpbmUtaGVpZ2h0OiAxNTAlOyBmb250LWZhbWlseTogVmVyZGFuYTsiPktFTVMNCmRvZXMgbm90IHNlbGwsIHNoYXJlIG9yIGRpc3RyaWJ1dGUgaW5mb3JtYXRpb24gdG8gYW55IHBhcnR5IHVubGVzcyBzb21lDQp0ZWNobmljYWwgb3IgYWRtaW5pc3RyYXRpdmUgcHJvY2Vzc2luZyBpcyByZXF1aXJlZCBhbmQgdGhvc2UgYXMgd2VsbCBhcmUgbm90DQphbGxvd2VkIHRvIHNoYXJlIG9yIHNlbGwgdGhlbS4gPGJyPjwvc3Bhbj48L3A+PHAgY2xhc3M9Ik1zb05vcm1hbCIgc3R5bGU9Im1hcmdpbi1sZWZ0OiA3LjFwdDsgbGluZS1oZWlnaHQ6IDE1MCU7Ij48c3BhbiBzdHlsZT0iZm9udC1zaXplOiA5cHQ7IGxpbmUtaGVpZ2h0OiAxNTAlOyBmb250LWZhbWlseTogVmVyZGFuYTsiPjxicj48L3NwYW4+PC9wPg0KDQo8cCBjbGFzcz0iTXNvTm9ybWFsIiBzdHlsZT0ibWFyZ2luLWxlZnQ6IDcuMXB0OyBsaW5lLWhlaWdodDogMTUwJTsiPjxmb250IGNvbG9yPSIjZmZhNTAwIj48YiBzdHlsZT0iIj48c3BhbiBzdHlsZT0iZm9udC1zaXplOiA5cHQ7IGxpbmUtaGVpZ2h0OiAxNTAlOyBmb250LWZhbWlseTogVmVyZGFuYTsiPlBhcnRpZXMgYWxsb3dlZCDigJMgcmVzcG9uc2libGUNCnRvIHByb2Nlc3MgZ2F0aGVyZWQgZGF0YSBpbiBjb21wbGV0ZSBjb25maWRlbnRpYWxpdHkgPGZvbnQgY29sb3I9IiMwMDAwMDAiPjogPC9mb250Pjwvc3Bhbj48L2I+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogOXB0OyBsaW5lLWhlaWdodDogMTUwJTsgZm9udC1mYW1pbHk6IFZlcmRhbmE7Ij48L3NwYW4+PC9mb250PjwvcD4NCg0KPHAgY2xhc3M9Ik1zb05vcm1hbCIgc3R5bGU9Im1hcmdpbi1sZWZ0OiA3LjFwdDsgbGluZS1oZWlnaHQ6IDE1MCU7Ij48c3BhbiBzdHlsZT0iZm9udC1zaXplOiA5cHQ7IGxpbmUtaGVpZ2h0OiAxNTAlOyBmb250LWZhbWlseTogVmVyZGFuYTsiPkRhdGENCnJlZ2lzdGVyZWQgb24gS0VNU+KAmXMgd2Vic2l0ZSBpcyBzZWN1cmUgYW5kIGNvbmZpZGVudGlhbDsgTm8gb25lIGJlc2lkZXMgdGhlDQpjb21wYW55IGlzIGFsbG93ZWQgdG8gYWNjZXNzIHRoZW0uIDwvc3Bhbj48L3A+DQoNCjxwIGNsYXNzPSJNc29Ob3JtYWwiIHN0eWxlPSJtYXJnaW4tbGVmdDogNy4xcHQ7IGxpbmUtaGVpZ2h0OiAxNTAlOyI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogOXB0OyBsaW5lLWhlaWdodDogMTUwJTsgZm9udC1mYW1pbHk6IFZlcmRhbmE7Ij4mbmJzcDs8L3NwYW4+PC9wPg0KDQo8cCBjbGFzcz0iTXNvTm9ybWFsIiBzdHlsZT0ibWFyZ2luLWxlZnQ6IDcuMXB0OyBsaW5lLWhlaWdodDogMTUwJTsiPjxmb250IGNvbG9yPSIjZmZhNTAwIj48Yj48c3BhbiBzdHlsZT0iZm9udC1zaXplOiA5cHQ7IGxpbmUtaGVpZ2h0OiAxNTAlOyBmb250LWZhbWlseTogVmVyZGFuYTsiPkF1dGhvcml6ZWQNCnBlcnNvbm5lbCB0byBhY2Nlc3MgdGhlIGdhdGhlcmVkIGRhdGEgPGZvbnQgY29sb3I9IiMwMDAwMDAiPjo8L2ZvbnQ+PC9zcGFuPjwvYj48c3BhbiBzdHlsZT0iZm9udC1zaXplOiA5cHQ7IGxpbmUtaGVpZ2h0OiAxNTAlOyBmb250LWZhbWlseTogVmVyZGFuYTsiPjwvc3Bhbj48L2ZvbnQ+PC9wPg0KDQo8cCBjbGFzcz0iTXNvTm9ybWFsIiBzdHlsZT0ibWFyZ2luLWxlZnQ6IDcuMXB0OyBsaW5lLWhlaWdodDogMTUwJTsiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDlwdDsgbGluZS1oZWlnaHQ6IDE1MCU7IGZvbnQtZmFtaWx5OiBWZXJkYW5hOyI+Jm5ic3A7PC9zcGFuPjwvcD4NCg0KPHAgY2xhc3M9Ik1zb05vcm1hbCIgc3R5bGU9Im1hcmdpbi1sZWZ0OiA3LjFwdDsgbGluZS1oZWlnaHQ6IDE1MCU7Ij48c3BhbiBzdHlsZT0iZm9udC1zaXplOiA5cHQ7IGxpbmUtaGVpZ2h0OiAxNTAlOyBmb250LWZhbWlseTogVmVyZGFuYTsiPktFTVPigJlzDQpkYXRhYmFzZSBpZiBoaWdobHkgY29uZmlkZW50aWFsLCBubyBvbmUgaXMgZ3JhbnRlZCBhY2Nlc3MgdG8gdGhlbSBhbmQgdGhleQ0KY2Fu4oCZdCBiZSZuYnNwOyBkaXNjbG9zZWQmbmJzcDsgdG8gb3V0c2lkZSBwYXJ0aWVzIGV4Y2VwdCBhZnRlciBvYnRhaW5pbmcgYQ0KbGVnYWwgY29uc2VudC48L3NwYW4+PC9wPg0KDQo8cCBjbGFzcz0iTXNvTm9ybWFsIiBzdHlsZT0ibWFyZ2luLWxlZnQ6IDcuMXB0OyBsaW5lLWhlaWdodDogMTUwJTsiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDlwdDsgbGluZS1oZWlnaHQ6IDE1MCU7IGZvbnQtZmFtaWx5OiBWZXJkYW5hOyI+Jm5ic3A7PC9zcGFuPjwvcD4NCg0KPHAgY2xhc3M9Ik1zb05vcm1hbCIgc3R5bGU9Im1hcmdpbi1sZWZ0OiA3LjFwdDsgbGluZS1oZWlnaHQ6IDE1MCU7Ij48Zm9udCBjb2xvcj0iI2ZmYTUwMCI+PGI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogOXB0OyBsaW5lLWhlaWdodDogMTUwJTsgZm9udC1mYW1pbHk6IFZlcmRhbmE7Ij5FeHBsYW5hdGlvbg0Kb2YgYXZhaWxhYmxlIG1ldGhvZG9sb2d5IGZvciB1c2VycyBhbmQgdmlzaXRvcnMgb2YgZGF0YSBjb2xsZWN0aW9uLCBkYXRhIHVzZSBhcw0Kd2VsbCBhcyBkYXRhIGRpc3RyaWJ1dGlvbiA8Zm9udCBjb2xvcj0iIzAwMDAwMCI+OjwvZm9udD48L3NwYW4+PC9iPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDlwdDsgbGluZS1oZWlnaHQ6IDE1MCU7IGZvbnQtZmFtaWx5OiBWZXJkYW5hOyI+PC9zcGFuPjwvZm9udD48L3A+DQoNCjxwIGNsYXNzPSJNc29Ob3JtYWwiIHN0eWxlPSJtYXJnaW4tbGVmdDogNy4xcHQ7IGxpbmUtaGVpZ2h0OiAxNTAlOyI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogOXB0OyBsaW5lLWhlaWdodDogMTUwJTsgZm9udC1mYW1pbHk6IFZlcmRhbmE7Ij4mbmJzcDs8L3NwYW4+PC9wPg0KDQo8cCBjbGFzcz0iTXNvTm9ybWFsIiBzdHlsZT0ibWFyZ2luLWxlZnQ6IDcuMXB0OyBsaW5lLWhlaWdodDogMTUwJTsiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDlwdDsgbGluZS1oZWlnaHQ6IDE1MCU7IGZvbnQtZmFtaWx5OiBWZXJkYW5hOyI+Q2VydGFpbg0KZGV0YWlscyBzb21lIG9mIHdoaWNoIGFyZSBlc3NlbnRpYWwgd2hpbGUgb3RoZXJzIGxhY2sgaW1wb3J0YW5jZSB3aWxsIGJlIHNlbnQNCnRvIHRoZSBjb21wYW55IGJ5IGFuIGVtYWlsIG1lc3NhZ2UgYnkgdGhlIGNsaWVudCBvciBhbnkgb3RoZXJzIG1lYW5zIGFwcGxpZWQuDQpVcG9uIHN1Y2Nlc3NmdWxseSByZWdpc3RlcmluZyBvbiB0aGUgd2Vic2l0ZSBmb3IgYSBkb21haW4gbmFtZSBvciBob3N0aW5nDQpzZXJ2aWNlLCB0aGUgdXNlciBpcyBhc2tlZCB0byBzcGVjaWZ5IGhpcyBuZWVkcyBvciBhY3F1aXJpbmcgbW9yZSBpbmZvcm1hdGlvbg0Kb24gdGhlIGNvbXBhbnkgYnkgZW1haWwuIEdhdGhlcmVkIGRhdGEgd2lsbCBub3QgYmUgYWRkZWQgdG8gYW55IG1haWxpbmcgbGlzdA0KdW5sZXNzIGNsaWVudCBjaGVja3MgdGhpcyBvcHRpb24uIDwvc3Bhbj48L3A+DQoNCjxwIGNsYXNzPSJNc29Ob3JtYWwiIHN0eWxlPSJtYXJnaW4tbGVmdDogNy4xcHQ7IGxpbmUtaGVpZ2h0OiAxNTAlOyI+PGIgc3R5bGU9IiI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogOXB0OyBsaW5lLWhlaWdodDogMTUwJTsgZm9udC1mYW1pbHk6IFZlcmRhbmE7Ij4mbmJzcDs8L3NwYW4+PC9iPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDlwdDsgbGluZS1oZWlnaHQ6IDE1MCU7IGZvbnQtZmFtaWx5OiBWZXJkYW5hOyI+PC9zcGFuPjwvcD4NCg0KPHAgY2xhc3M9Ik1zb05vcm1hbCIgc3R5bGU9Im1hcmdpbi1sZWZ0OiA3LjFwdDsgbGluZS1oZWlnaHQ6IDE1MCU7Ij48Zm9udCBjb2xvcj0iI2ZmYTUwMCI+PGI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogOXB0OyBsaW5lLWhlaWdodDogMTUwJTsgZm9udC1mYW1pbHk6IFZlcmRhbmE7Ij5Ib3cNCktFTVPigJlzIHdlYnNpdGUgaGFuZGxlcyByZWdpc3RlcmVkIHVzZXJzIGFuZCB2aXNpdG9ycyBkYXRhIDxmb250IGNvbG9yPSIjMDAwMDAwIj46PC9mb250Pjwvc3Bhbj48L2I+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogOXB0OyBsaW5lLWhlaWdodDogMTUwJTsgZm9udC1mYW1pbHk6IFZlcmRhbmE7Ij48L3NwYW4+PC9mb250PjwvcD4NCg0KPHAgY2xhc3M9Ik1zb05vcm1hbCIgc3R5bGU9Im1hcmdpbi1sZWZ0OiA3LjFwdDsgbGluZS1oZWlnaHQ6IDE1MCU7Ij48c3BhbiBzdHlsZT0iZm9udC1zaXplOiA5cHQ7IGxpbmUtaGVpZ2h0OiAxNTAlOyBmb250LWZhbWlseTogVmVyZGFuYTsiPiZuYnNwOzwvc3Bhbj48L3A+DQoNCjxwIGNsYXNzPSJNc29Ob3JtYWwiIHN0eWxlPSJtYXJnaW4tbGVmdDogNy4xcHQ7IGxpbmUtaGVpZ2h0OiAxNTAlOyI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogOXB0OyBsaW5lLWhlaWdodDogMTUwJTsgZm9udC1mYW1pbHk6IFZlcmRhbmE7Ij5LRU1TDQpzZWN1cmVzIHRoZSBjb25maWRlbnRpYWxpdHkgb2YgaW5mb3JtYXRpb24gcHJvdmlkZWQgYnkgdXNlcnMgb24gaXRzIHdlYnNpdGUgYnkNCnByb2Nlc3NpbmcgaXQgaW50ZXJuYWxseSBhcyBuZWVkIHJlcXVpcmVzIGJ1dCB3ZSBzaGFsbCBub3QgYmUgaGVsZCByZXNwb25zaWJsZQ0KZm9yIHRyYW5zYWN0aW9ucyB0aGUgdXNlciBjaG9vc2VzIHRvIHBlcmZvcm0gb25saW5lIGZ1bGx5IGJ5IHRha2luZyByaXNrIG9mDQpvZmZlcmluZyBjb21wbGV0ZSBwZXJzb25hbCBkYXRhIG9uIHRoZSB3ZWIuIDwvc3Bhbj48L3A+DQoNCjxwIGNsYXNzPSJNc29Ob3JtYWwiIHN0eWxlPSJtYXJnaW4tbGVmdDogNy4xcHQ7IGxpbmUtaGVpZ2h0OiAxNTAlOyI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogOXB0OyBsaW5lLWhlaWdodDogMTUwJTsgZm9udC1mYW1pbHk6IFZlcmRhbmE7Ij4mbmJzcDs8L3NwYW4+PC9wPg0KDQo8cCBjbGFzcz0iTXNvTm9ybWFsIiBzdHlsZT0ibWFyZ2luLWxlZnQ6IDcuMXB0OyBsaW5lLWhlaWdodDogMTUwJTsiPjxmb250IGNvbG9yPSIjZmZhNTAwIj48Yj48c3BhbiBzdHlsZT0iZm9udC1zaXplOiA5cHQ7IGxpbmUtaGVpZ2h0OiAxNTAlOyBmb250LWZhbWlseTogVmVyZGFuYTsiPldhdmluZw0KbGlhYmlsaXR5IG9mIGRhdGEgcmVnaXN0ZXJlZCBhdCBvdGhlciBpbmNsdWRlZCB3ZWJzaXRlczxmb250IGNvbG9yPSIjMDAwMDAwIj4gOjwvZm9udD48L3NwYW4+PC9iPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDlwdDsgbGluZS1oZWlnaHQ6IDE1MCU7IGZvbnQtZmFtaWx5OiBWZXJkYW5hOyI+PC9zcGFuPjwvZm9udD48L3A+DQoNCjxwIGNsYXNzPSJNc29Ob3JtYWwiIHN0eWxlPSJtYXJnaW4tbGVmdDogNy4xcHQ7IGxpbmUtaGVpZ2h0OiAxNTAlOyI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogOXB0OyBsaW5lLWhlaWdodDogMTUwJTsgZm9udC1mYW1pbHk6IFZlcmRhbmE7Ij4mbmJzcDs8L3NwYW4+PC9wPg0KDQo8cCBjbGFzcz0iTXNvTm9ybWFsIiBzdHlsZT0ibWFyZ2luLWxlZnQ6IDcuMXB0OyBsaW5lLWhlaWdodDogMTUwJTsiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IDlwdDsgbGluZS1oZWlnaHQ6IDE1MCU7IGZvbnQtZmFtaWx5OiBWZXJkYW5hOyI+S0VNU+KAmXMNCndlYnNpdGUgaW5jbHVkZXMgbGlua3MgdG8gb3V0c2lkZSB3ZWJzaXRlIHdoaWNoIHRoZSBjb21wYW55IHdpbGwgbm90IGJlDQpyZXNwb25zaWJsZSBmb3IgaXRzIGNvbnRlbnQgb3IgcHJpdmFjeSDigJMgc2VjdXJpdHkgcG9saWN5IG9mIHRoZW0uIDxicj48L3NwYW4+PC9wPjxwIGNsYXNzPSJNc29Ob3JtYWwiIHN0eWxlPSJtYXJnaW4tbGVmdDogNy4xcHQ7IGxpbmUtaGVpZ2h0OiAxNTAlOyI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogOXB0OyBsaW5lLWhlaWdodDogMTUwJTsgZm9udC1mYW1pbHk6IFZlcmRhbmE7Ij48YnI+PC9zcGFuPjwvcD4NCg0KDQoNCg0KDQpkZAIDD2QWAmYPDxYCHgdWaXNpYmxlaGQWAmYPFgIfAGZkZHt7v5Hy2rfN5rTEtGGzTLrbTqmEqEZWjQWU6jSugY8b">
+
+
+<script src="/ScriptResource.axd?d=fSl80ae6RotZI10B9Uo9TYUyutVSFgWqywOb5M4LImNjFCeh3BBhfJ6gZRnGzUrq4UwDf4ABgTcj4JccGtOWAwJocsMM7BsRdRGb45NIvvOd20R4FHIhBIIFaX94UkCZ0&amp;t=ffffffffbd2983fc" type="text/javascript"></script>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQLHi6iKBQLOhpG5CQLW8bTGAgLlybujCwL4+qXvCAh+sObXFdvAOAsQsWymNb2kig/yOFdMg+oBnyKAyidw">
+    
+        <div id="main">
+            <div id="links_top">
+                <ul>
+                    <li><img src="App_Themes/default/images/icon_home.gif" alt=""><a href="http://www.kems.net/default.aspx">Home</a></li><li><img src="App_Themes/default/images/icon_aboutus.gif" alt=""><a href="http://www.kems.net/page.aspx?cat=menu&amp;id=7">About Us</a></li><li><img src="App_Themes/default/images/icon_careers.gif" alt=""><a href="http://www.kems.net/page.aspx?cat=menu&amp;id=4">Careers</a></li><li><img src="App_Themes/default/images/icon_contactus.gif" alt=""><a href="http://www.kems.net/contact_us.aspx">Contact Us</a></li>
+                </ul>
+            </div>
+            <div class="clear"></div>
+            <div id="menu_top">
+                <div id="menu_top_1"></div>
+                <div id="menu_top_2">
+                    <a href="http://www.kems.net/default.aspx"><img src="App_Themes/default/images/logo.gif" alt=""></a>
+                    <div class="menu_items_left">&nbsp;</div>
+                    <ul id="menu_items">
+                        <li><a id="mn1" href="http://www.kems.net/page_main.aspx?id=1" onmouseover="$('#mn1sub').slideDown(250);" onmouseout="mnSubHout('mn1sub', 'mn1');">Products &amp; Services</a></li><li><a id="mn2" href="http://www.kems.net/page.aspx?cat=menu&amp;id=2" onmouseover="$('#mn2sub').slideDown(250);" onmouseout="mnSubHout('mn2sub', 'mn2');" class="star">KEMS Offers</a></li><li><a id="mn9" href="http://www.kems.net/#" onmouseover="$('#mn9sub').slideDown(250);" onmouseout="mnSubHout('mn9sub', 'mn9');">KEMS Store</a></li><li><a id="mn11" href="http://www.kems.net/showrooms.aspx">Showrooms</a></li><li><a id="mn3" href="http://www.kems.net/#" onmouseover="$('#mn3sub').slideDown(250);" onmouseout="mnSubHout('mn3sub', 'mn3');">Media Room</a></li><li><a id="mn5" href="http://www.kems.net/contact_us.aspx?cat=support">Support</a></li>
+                    </ul>
+                    <div class="clear"></div>
+                    
+                            <div id="mn1sub" class="menu_sub" onmouseover="mnSubHover('mn1sub', 'mn1');" onmouseout="mnSubHout('mn1sub', 'mn1');" style="display: none;">
+                                <div class="menu_sub_1"></div>
+                                <div class="menu_sub_2">
+                                    <ul class="menu_sub_items">
+                                        
+                                                <li><a href="http://www.kems.net/page.aspx?cat=submenu&amp;id=1">ADSL</a></li>
+                                            
+                                                <li><a href="http://www.kems.net/page.aspx?cat=submenu&amp;id=2">GPON</a></li>
+                                            
+                                                <li><a href="http://www.kems.net/page.aspx?cat=submenu&amp;id=3">KEMS WiFi</a></li>
+                                            
+                                                <li><a href="http://www.kems.net/page.aspx?cat=submenu&amp;id=4">Dialup</a></li>
+                                            
+                                                <li><a href="http://www.kems.net/page.aspx?cat=submenu&amp;id=5">iPass</a></li>
+                                            
+                                                <li><a href="http://www.kems.net/page.aspx?cat=submenu&amp;id=6">KEMS Sports</a></li>
+                                            
+                                    </ul>
+                                </div>
+                                <div class="menu_sub_3"></div>
+                            </div>
+                        
+                            <div id="mn2sub" class="menu_sub" onmouseover="mnSubHover('mn2sub', 'mn2');" onmouseout="mnSubHout('mn2sub', 'mn2');" style="display: none;">
+                                <div class="menu_sub_1"></div>
+                                <div class="menu_sub_2">
+                                    <ul class="menu_sub_items">
+                                        
+                                                <li><a href="http://www.kems.net/offers.aspx">Offers</a></li>
+                                            
+                                                <li><a href="http://www.kems.net/prices.aspx?cat=showroom">Prices</a></li>
+                                            
+                                                <li><a href="http://www.kems.net/prices.aspx?cat=online">Online Prices</a></li>
+                                            
+                                                <li><a href="http://www.kems.net/page.aspx?cat=submenu&amp;id=18">Loyalty Program</a></li>
+                                            
+                                    </ul>
+                                </div>
+                                <div class="menu_sub_3"></div>
+                            </div>
+                        
+                            <div id="mn9sub" class="menu_sub" onmouseover="mnSubHover('mn9sub', 'mn9');" onmouseout="mnSubHout('mn9sub', 'mn9');" style="display: none;">
+                                <div class="menu_sub_1"></div>
+                                <div class="menu_sub_2">
+                                    <ul class="menu_sub_items">
+                                        
+                                                <li><a href="https://store.kems.net/store_renew.aspx">Renew</a></li>
+                                            
+                                                <li><a href="https://store.kems.net/store_upgrade.aspx">Upgrade</a></li>
+                                            
+                                                <li><a href="https://store.kems.net/store_wifi.aspx">Buy WiFi Card</a></li>
+                                            
+                                                <li><a href="https://store.kems.net/store_dialup.aspx">Buy Dialup Card</a></li>
+                                            
+                                                <li><a href="http://www.kems.net/page.aspx?cat=submenu&amp;id=17">Subscribe Online</a></li>
+                                            
+                                    </ul>
+                                </div>
+                                <div class="menu_sub_3"></div>
+                            </div>
+                        
+                            <div id="mn3sub" class="menu_sub" onmouseover="mnSubHover('mn3sub', 'mn3');" onmouseout="mnSubHout('mn3sub', 'mn3');" style="display: none;">
+                                <div class="menu_sub_1"></div>
+                                <div class="menu_sub_2">
+                                    <ul class="menu_sub_items">
+                                        
+                                                <li><a href="http://www.kems.net/news_events.aspx">News</a></li>
+                                            
+                                                <li><a href="http://www.kems.net/news_events.aspx?cat=e">Events</a></li>
+                                            
+                                                <li><a href="http://www.kems.net/page.aspx?cat=submenu&amp;id=15">Press Release</a></li>
+                                            
+                                                <li><a href="http://www.kems.net/page.aspx?cat=submenu&amp;id=19">Awards</a></li>
+                                            
+                                    </ul>
+                                </div>
+                                <div class="menu_sub_3"></div>
+                            </div>
+                        
+                </div>
+                <div id="menu_top_3"></div>
+            </div>
+            <br><br><br>
+            <div id="dvBanner" style="position: relative;">
+                <div id="slideshow"><a href="http://www.kems.net/offer_details.aspx?id=15" style="position: absolute; top: 0px; left: 0px; display: block; z-index: 4; opacity: 1;"><img src="http://www.kems.net/files/banners/38820_kems.net-E.png" alt="" width="743" height="203"></a><a href="http://www.kems.net/showrooms.aspx" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 2; opacity: 0;"><img src="http://www.kems.net/files/banners/46531_salmiya-now-open-E.jpg" alt="" width="743" height="203"></a><img src="http://www.kems.net/files/banners/04273_beta.kems-E.png" alt="" width="743" height="203" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 1; opacity: 0;"></div><div id="buttonContainer"><a id="link0" href="#" class="activeSlide">1</a><a id="link1" href="#">2</a><a id="link2" href="#">3</a></div>
+                <div class="box1">
+                    <div class="box1_top"></div>
+                    <div class="box1_middle">
+                        
+<script type="text/javascript">
+    function validateLoginBox() {
+        if (!validateControl("uc_login1_txtUsername", "", "Please provide Username !")) {
+            return false;
+        }
+        if (!validateControl("uc_login1_txtPassword", "", "Please provide Password !")) {
+            return false;
+        }
+        //
+        return true;
+    }
+</script>
+
+<div id="uc_login1_pnlLogin" class="login_box">
+	
+<div class="login_box_header"><span>Customer</span><br>Login</div>
+<h4>Username :</h4>
+<input name="ctl00$uc_login1$txtUsername" type="text" id="uc_login1_txtUsername" class="txt_login" style="width: 170px;">
+<h4>Password :</h4>
+<input name="ctl00$uc_login1$txtPassword" type="password" id="uc_login1_txtPassword" class="txt_login" style="width: 170px;">
+<br>
+<input type="submit" name="ctl00$uc_login1$btnLogin" value="Login" onclick="return validateLoginBox();" id="uc_login1_btnLogin" class="btn_login"><br>
+<span id="uc_login1_lbl" class="login_msg"></span>
+
+</div>
+
+                    </div>
+                    <div class="box1_bottom"></div>
+                </div>
+            </div>
+            <div class="spacer"></div>
+            
+<div id="content">
+    <div>
+        <div style="float: left;"><span id="content_lblMenuText"><h1>Privacy Policy</h1></span></div>
+        <div style="float: right;"></div>
+    </div>
+    <div class="clear"></div>
+    <br>
+    <span id="content_lblPageText">
+
+
+
+
+
+
+
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:"ＭＳ 明朝";
+	mso-font-charset:78;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:1 134676480 16 0 131072 0;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:-1593833729 1073750107 16 0 415 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+@font-face
+	{font-family:Cambria;
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:-536870145 1073743103 0 0 415 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:Cambria;
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"ＭＳ 明朝";
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-family:Cambria;
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"ＭＳ 明朝";
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+@page WordSection1
+	{size:595.0pt 842.0pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+
+
+
+
+
+
+<p class="MsoNormal" style="margin-left: 7.1pt; line-height: 150%;"><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;"><span style="">&nbsp;</span>At KEMS, we are committed to protect the
+privacy &amp; security of your information upon visiting our website or
+registering your information which we collect &amp; use to improve our services
+and further develop in understanding how we can serve your needs. This policy
+applies for future pages added on the website as well.</span></p><p class="MsoNormal" style="margin-left: 7.1pt; line-height: 150%;"><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;"><br></span></p>
+
+<p class="MsoNormal" style="margin-left: 7.1pt; line-height: 150%;"><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;"><span style="">&nbsp;&nbsp; </span>Kindly go through KEMS’s Privacy Policy for
+further information. KEMS has the right to renew- add on to the content of this
+policy as necessary, so make sure you revisit it from time to time for future
+updates.</span></p>
+
+<p class="MsoNormal" style="margin-left: 7.1pt; line-height: 150%;"><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;">&nbsp;</span></p>
+
+<p class="MsoNormal" style="margin-left: 7.1pt; line-height: 150%;"><font color="#ffa500"><b><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;">Our
+Privacy Policy requirements include <font color="#000000">:</font></span></b><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;"></span></font></p>
+
+<p class="MsoNormal" style="margin-left: 7.1pt; line-height: 150%;"><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;">&nbsp;</span></p>
+
+<p class="MsoNormal" style="margin-left: 7.1pt; line-height: 150%;"><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;">·&nbsp;&nbsp;&nbsp;&nbsp;
+Personal data, which will help us identify users.</span></p>
+
+<p class="MsoNormal" style="margin-left: 7.1pt; line-height: 150%;"><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;">·&nbsp;&nbsp;&nbsp;&nbsp;
+How gathered data and information will be processed.</span></p>
+
+<p class="MsoNormal" style="margin-left: 7.1pt; line-height: 150%;"><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;">·&nbsp;&nbsp;&nbsp;&nbsp;
+Parties allowed – responsible to process gathered data in complete confidentiality.</span></p>
+
+<p class="MsoNormal" style="margin-left: 7.1pt; line-height: 150%;"><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;">·&nbsp;&nbsp;&nbsp;&nbsp;
+Authorized personnel to access the gathered data.</span></p>
+
+<p class="MsoNormal" style="margin-left: 7.1pt; line-height: 150%;"><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;">·&nbsp;&nbsp;&nbsp;&nbsp;
+Explanation of available methodology for users and visitors of data collection,
+data use as well as data distribution.</span></p>
+
+<p class="MsoNormal" style="margin-left: 7.1pt; line-height: 150%;"><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;">·&nbsp;&nbsp;&nbsp;&nbsp;
+How KEMS’s website handles registered users and visitors data.</span></p>
+
+<p class="MsoNormal" style="margin-left: 7.1pt; line-height: 150%;"><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;">·&nbsp;&nbsp;&nbsp;&nbsp;
+Waving liability of data registered at other included websites.</span></p>
+
+<p class="MsoNormal" style="margin-left: 7.1pt; line-height: 150%;"><b style=""><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;">&nbsp;</span></b><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;"></span></p>
+
+<p class="MsoNormal" style="margin-left: 7.1pt; line-height: 150%;"><font color="#ffa500"><b><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;">Personal
+data, which will help us identify users<font color="#000000"> :</font></span></b><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;"></span></font></p>
+
+<p class="MsoNormal" style="margin-left: 7.1pt; line-height: 150%;"><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;">&nbsp;</span></p>
+
+<p class="MsoNormal" style="margin-left: 7.1pt; line-height: 150%;"><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;">We
+are only interested of gathering your personal information which will help us
+identify individual clients and our website is mostly accessed and browsed
+without the need of filling personal information. Such type of information is
+only required while placing an order for our services via our website such as
+name, address, contact details or email address, so clients can rest assure
+that those details will not be shared with a third party only for certain
+exceptions. </span></p>
+
+<p class="MsoNormal" style="margin-left: 7.1pt; line-height: 150%;"><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;">&nbsp;</span></p>
+
+<p class="MsoNormal" style="margin-left: 7.1pt; line-height: 150%;"><font color="#ffa500"><b><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;">How
+gathered data and information will be processed<font color="#000000"> :</font></span></b><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;"></span></font></p>
+
+<p class="MsoNormal" style="margin-left: 7.1pt; line-height: 150%;"><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;">&nbsp;</span></p>
+
+<p class="MsoNormal" style="margin-left: 7.1pt; line-height: 150%;"><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;">KEMS
+does not sell, share or distribute information to any party unless some
+technical or administrative processing is required and those as well are not
+allowed to share or sell them. <br></span></p><p class="MsoNormal" style="margin-left: 7.1pt; line-height: 150%;"><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;"><br></span></p>
+
+<p class="MsoNormal" style="margin-left: 7.1pt; line-height: 150%;"><font color="#ffa500"><b style=""><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;">Parties allowed – responsible
+to process gathered data in complete confidentiality <font color="#000000">: </font></span></b><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;"></span></font></p>
+
+<p class="MsoNormal" style="margin-left: 7.1pt; line-height: 150%;"><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;">Data
+registered on KEMS’s website is secure and confidential; No one besides the
+company is allowed to access them. </span></p>
+
+<p class="MsoNormal" style="margin-left: 7.1pt; line-height: 150%;"><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;">&nbsp;</span></p>
+
+<p class="MsoNormal" style="margin-left: 7.1pt; line-height: 150%;"><font color="#ffa500"><b><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;">Authorized
+personnel to access the gathered data <font color="#000000">:</font></span></b><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;"></span></font></p>
+
+<p class="MsoNormal" style="margin-left: 7.1pt; line-height: 150%;"><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;">&nbsp;</span></p>
+
+<p class="MsoNormal" style="margin-left: 7.1pt; line-height: 150%;"><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;">KEMS’s
+database if highly confidential, no one is granted access to them and they
+can’t be&nbsp; disclosed&nbsp; to outside parties except after obtaining a
+legal consent.</span></p>
+
+<p class="MsoNormal" style="margin-left: 7.1pt; line-height: 150%;"><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;">&nbsp;</span></p>
+
+<p class="MsoNormal" style="margin-left: 7.1pt; line-height: 150%;"><font color="#ffa500"><b><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;">Explanation
+of available methodology for users and visitors of data collection, data use as
+well as data distribution <font color="#000000">:</font></span></b><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;"></span></font></p>
+
+<p class="MsoNormal" style="margin-left: 7.1pt; line-height: 150%;"><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;">&nbsp;</span></p>
+
+<p class="MsoNormal" style="margin-left: 7.1pt; line-height: 150%;"><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;">Certain
+details some of which are essential while others lack importance will be sent
+to the company by an email message by the client or any others means applied.
+Upon successfully registering on the website for a domain name or hosting
+service, the user is asked to specify his needs or acquiring more information
+on the company by email. Gathered data will not be added to any mailing list
+unless client checks this option. </span></p>
+
+<p class="MsoNormal" style="margin-left: 7.1pt; line-height: 150%;"><b style=""><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;">&nbsp;</span></b><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;"></span></p>
+
+<p class="MsoNormal" style="margin-left: 7.1pt; line-height: 150%;"><font color="#ffa500"><b><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;">How
+KEMS’s website handles registered users and visitors data <font color="#000000">:</font></span></b><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;"></span></font></p>
+
+<p class="MsoNormal" style="margin-left: 7.1pt; line-height: 150%;"><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;">&nbsp;</span></p>
+
+<p class="MsoNormal" style="margin-left: 7.1pt; line-height: 150%;"><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;">KEMS
+secures the confidentiality of information provided by users on its website by
+processing it internally as need requires but we shall not be held responsible
+for transactions the user chooses to perform online fully by taking risk of
+offering complete personal data on the web. </span></p>
+
+<p class="MsoNormal" style="margin-left: 7.1pt; line-height: 150%;"><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;">&nbsp;</span></p>
+
+<p class="MsoNormal" style="margin-left: 7.1pt; line-height: 150%;"><font color="#ffa500"><b><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;">Waving
+liability of data registered at other included websites<font color="#000000"> :</font></span></b><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;"></span></font></p>
+
+<p class="MsoNormal" style="margin-left: 7.1pt; line-height: 150%;"><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;">&nbsp;</span></p>
+
+<p class="MsoNormal" style="margin-left: 7.1pt; line-height: 150%;"><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;">KEMS’s
+website includes links to outside website which the company will not be
+responsible for its content or privacy – security policy of them. <br></span></p><p class="MsoNormal" style="margin-left: 7.1pt; line-height: 150%;"><span style="font-size: 9pt; line-height: 150%; font-family: Verdana;"><br></span></p>
+
+
+
+
+
+</span>
+</div>
+<div id="content_right">
+    
+    <div id="ad"><a href="http://www.kems.net/showrooms.aspx"><img src="http://www.kems.net/files/banners/45765_now-open-small-box-E.png" alt="" width="214" height="179"></a></div>
+</div>
+
+            <div class="clear"></div>
+            <br>
+            <div id="footer">
+                <ul>
+                    <li>Copyright © 2012 KEMS. All Rights Reserved.</li>
+                    <li>|</li>
+                    <li><a href="http://www.kems.net/page.aspx?id=10">Privacy Policy</a></li>
+                    <li>|</li>
+                    <li><a id="lbLang" href="javascript:__doPostBack('ctl00$lbLang','')">عربي</a></li>
+                    <li>|</li>
+                    <li>
+                        <a href="http://www.facebook.com/pages/KEMS/115795371776507" target="_blank"><img src="App_Themes/default/images/icon_facebook.gif" alt=""></a>
+                        <a href="http://twitter.com/KEMSInternet" target="_blank"><img src="App_Themes/default/images/icon_twitter.gif" alt=""></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {$get("ToolkitScriptManager1_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();//]]>
+</script>
+</form>
+
+
+    <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-12895634-1");
+        pageTracker._trackPageview();
+        } catch(err) {}
+    </script>
+
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class=""><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden; float: left;"></div><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><div id="cboxNext" style="float: left;"></div><div id="cboxPrevious" style="float: left;"></div><div id="cboxSlideshow" style="float: left;"></div><div id="cboxClose" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div></body></html>
