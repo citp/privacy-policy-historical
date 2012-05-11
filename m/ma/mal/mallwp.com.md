@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mallwp.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007173137id_/http%3A//mallwp.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mallwp.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511180156id_/http%3A//www.wpsale.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MALLWP
+# Privacy Policy - WPSALE
 
 #### THE END USER PRIVACY POLICY
 
