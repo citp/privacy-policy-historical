@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the singer22.com privacy policy that was archived on 2011-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111201184251id_/http%3A//www.singer22.com/policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the singer22.com privacy policy that was archived on 2012-05-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120512012228id_/http%3A//www.singer22.com/policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us" dir="ltr"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
 <title>Singer22 Privacy Policy</title><meta name="keywords" content="celebrity fashion, designer clothing, Alice + Olivia, J Brand, Current Elliott, Australian Luxe, House of Harlow, Kain, Wildfox, Siwy, Dylan George, Jet by John Eshaya,Lauren Moshi, LNA, Gypsy 05, Blue Life, Joie wildfox, current elliott, rockstar, siwy denim, lna tees, cc skye, house of harlow 1960,  j brand, SINGER22, flip flops, SINGER22, vintage1, vintage1 denim">
 <meta name="description" content="free shipping - 1-877-ISHOP22 - Celebrity style designer dresses, handbags, shoes, boots, jeans, denim, jackets, tops, accessories and more...">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -13,7 +13,6 @@
 <meta name="resource-type" content="document">
 <meta name="rating" content="General">
 <meta name="distribution" content="Global">
-<meta name="revisit-after" content="3 days">
 <meta name="Classification" content="fashion products">
 <meta name="language" content="en">
 <meta name="country" content="US">
@@ -32,13 +31,20 @@ $(document).ready(function() {
 });
 //]]>
 
-</script><link href="http://images.singer22.com/static/menu/css/menu.css.v/1.16.2.css" media="screen" rel="stylesheet" type="text/css">
-<link href="http://images.singer22.com/static/singer22/css/main.css.v/1.22.0.css" media="screen" rel="stylesheet" type="text/css">
+</script><link href="http://images.singer22.com/static/singer22/css/gallery.css" media="screen" rel="stylesheet" type="text/css">
+<link href="http://images.singer22.com/static/menu/css/menu.css.v/1.32.0.css" media="screen" rel="stylesheet" type="text/css">
+<link href="http://images.singer22.com/static/singer22/css/main.css.v/2.12.8.css" media="screen" rel="stylesheet" type="text/css">
 <link href="http://images.singer22.com/static/page/css/store-info-page.css" media="screen" rel="stylesheet" type="text/css">
-<link href="http://images.singer22.com/static/favicon.ico" rel="icon" type="image/x-icon"><script type="text/javascript" src="http://images.singer22.com/static/json/js/json2.js"></script>
-<script type="text/javascript" src="http://images.singer22.com/static/singer22/js/singer22.js"></script><script type="text/javascript">
-var defaultStep = 280
-var step=defaultStep
+<link href="http://images.singer22.com/static/favicon.ico" rel="icon" type="image/x-icon">
+<link href="http://www.singer22.com/policy.html" rel="canonical"><script type="text/javascript" src="http://images.singer22.com/static/singer22/js/gallery.js"></script>
+<script type="text/javascript" src="http://images.singer22.com/static/json/js/json2.js"></script>
+<script type="text/javascript" src="http://images.singer22.com/static/singer22/js/singer22.js?4547"></script><script type="text/javascript" src="/static/singer22/js/easyXDM.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var defaultStep = 280;
+
+var step=defaultStep;
+var strURLgetNotCached = 'http://store.singer22.com/singer22/index/get-not-cached/language/en/tld/com' + '/rand/' + Math.random();
 
 function scrollDivDown(id){
     for(i=0; i < 150; i++)
@@ -69,72 +75,88 @@ $(document).ready(function() {
 
 function Notification()
 {
-    this.objJQueryDiv = $( '#notification-wrap' );    
-    
+    this.objJQueryDiv = $( '#notification-wrap' );
+
     this.objBrowser = $.browser;
     this.strPrepend = '';
-    
+
     if ( this.objBrowser.mozilla && parseFloat( this.objBrowser.version.slice(0,3) ) < 1.9 ) {
-        this.show();        
+        this.show();
     }
-    
+
     if ( this.objBrowser.msie && parseInt( this.objBrowser.version, 10 ) < 7 ) {
         this.show();
         this.strPrepend = ' Your browser: <a href="http://windows.microsoft.com/en-US/windows-vista/Update-Internet-Explorer">Internet Explorer</a>';
     }
-    
+
     if ( this.objBrowser.opera && parseInt( this.objBrowser.version, 10 ) < 11 ) {
         this.show();
         this.strPrepend = ' Your browser: <a href="http://www.opera.com/download/">Opera</a>';
     }
-    
-    $( '#notification-area' ).html( $( '#notification-area' ).html() + this.strPrepend );    
+
+    $( '#notification-area' ).html( $( '#notification-area' ).html() + this.strPrepend );
 }
 
 Notification.prototype.show = function()
-{    
-    this.objJQueryDiv.slideToggle( 'slow', function(){} );    
+{
+    this.objJQueryDiv.slideToggle( 'slow', function(){} );
 }
+//easyXDM.DomHelper.requiresJSON("/static/singer22/js/json2.js");
+var objCrossDomainAjax = new easyXDM.Rpc({
+    local: '/singer22/xdm/name',
+    swf: 'http://store.singer22.com/static/singer22/easyxdm.swf',
+    remote: 'http://store.singer22.com/singer22/xdm/cors',
+    remoteHelper: 'http://store.singer22.com/singer22/xdm/name'
+}, {
+    remote: {
+        request: {}
+    }
+});
+/* ]]> */
 </script>
 <!--[if lte IE 6]><style>img { behavior: url( /static/singer22/js/iepngfix/iepngfix.htc ) }</style><![endif]-->
 <style type="text/css">
+#ys_progress
+{ width:260px; }
+#notification-wrap
+{display: none; width: 90%; height: auto; border-top: 0; border: 1px solid black; -moz-border-radius: 0px 0px 5px 5px;
+ background-color: yellow; font: bold 14px/25px Arial; color: black; text-align: center; margin: -5px auto 0;
+ padding: 5px; opacity: 0.7; filter: alpha(opacity=70) }
+#notification-area
+{float: left; width: 95%; }
+#notification-wrap div a.x
+{text-decoration:none;}
 
-    #notification-wrap {
-        display: none;
-        width: 90%;
-        height: auto;
-        border-top: 0;
-        border: 1px solid black;
-        -moz-border-radius: 0px 0px 5px 5px;
-        background-color: yellow;
-        font: bold 14px/25px Arial;
-        color: black;
-        text-align: center;    
-        margin: -5px auto 0;
-        padding: 5px;
-        opacity: 0.7;
-        filter: alpha(opacity=70)
-    }
-    #notification-area {
-        float: left;
-        width: 95%;
-    }
-    #notification-wrap div a.x {
-        text-decoration:none;
-    }
+#slctLang
+{position: absolute; right: 220px; top: 30px; width: 100px; z-index: 9999; background-color:#FFFFFF; border:1px solid #CCC; display:none;}
+#slctLang.show
+{display:block}
+#currLang
+{cursor:pointer;height: 20px; margin: 0; position: absolute; right: 260px; top: 9px; width: 48px;background:url('/static/singer22/images/select.gif') center right no-repeat;}
+a.lng
+{height: 20px; padding:4px 4px 4px 34px; background-repeat:no-repeat; background-position:3px 3px; display:block; text-decoration: none;}
+a.lng:hover
+{background-color:#626262; color:#FFFFFF;}
+.co_uk #logo span
+{background-image:url("/static/singer22/images/woman/frontend_uk_logo.png"); width: 400px;}
+body.man.co_uk #logo span
+{background-image:url("/static/singer22/images/man/frontend_uk_logo.png"); width: 400px;}
+.ca #logo span
+{background-image:url("/static/singer22/images/woman/frontend_ca_logo.png");}
+body.man.ca #logo span
+{background-image:url("/static/singer22/images/man/frontend_ca_logo.png");}
+.co_uk #vc
+{margin-left:400px; width: 610px;}
 
 </style>
 </head>
-<body class="woman">
-<style type="text/css">
-#ys_progress { width:390px; }
-</style>
-<div id="notification-wrap">    
+<body class="woman en com">
+<div id="notification-wrap">
     <div id="notification-area">
-        <img src="/static/singer22/images/warning.png" width="48" height="48" border="0" style="float:left; margin: 10px 40px;">
+        <img src="/static/singer22/images/warning.png" width="48" height="48" alt="Warning" style="float:left; margin: 10px 40px;">
         You are not using the most updated version of your browser.  To experience all the functionality of this website you should update your browser and come back.<br>
         For your convenience we have provided links to retrieve updates to your browser software:<br>
-        We recommend: <a href="http://www.mozilla.org/en-US/firefox/new/">Mozilla Firefox</a> 
+        We recommend: <a href="http://www.mozilla.org/en-US/firefox/new/">Mozilla Firefox</a>
     </div>
     <div style="text-align:right; display:block; float:right; width: 5%;">
         [<a href="javascript:void(0);" onclick="objNotification.show();" class="x">x</a>]
@@ -144,38 +166,13 @@ Notification.prototype.show = function()
 <div id="wrap">
 <div id="wrapIn">
 <div id="topDiv">
-<div id="vc">
-    <table width="100%" style="">
-        <tbody>
-        <tr>
-            <td class="c3" id="loginLinks">
-                <div id="ll-wrapper">            
-                        <a href="/favorites" id="ll-favorites"></a><a href="/customer/wish-list/show" id="ll-wish-list"></a>    <a href="/customer/account/login" id="ll-login"></a>                            
-                        <a href="/customer/account/registration" id="ll-register"></a><a href="/shopping-cart/cart/show" id="ll-shopping-cart"></a>
-                    </div>
-                </td>
-            
-        <td class="c4">
-            <div id="scLayoutHeader">
-                <img src="http://images.singer22.com/static/singer22/images/ajax-loader-2.gif">               
-            </div>
-        </td>
-            <td>
-                <div id="search">
-                    <form action="/search" method="get" onsubmit="if (document.getElementById('SiteSearch').value == '' || document.getElementById('SiteSearch').value == 'Site Search') {alert('Enter search keywords!');return false;} return true;">
-
-                        <div class="c5">
-                            <input id="SiteSearch" type="text" value="Site Search" class="tex" onblur="if (!this.value) {this.changed=false; this.value='Site Search'} else this.changed=true;" onfocus="if (!this.changed) this.value = '';" name="q" style="height:10px">
-                        </div>
-                        <div class="c6">
-                            <input type="submit" class="go1_btn" value="">
-                        </div>
-                    </form>
-                </div>
-            </td>
-        </tr>
-        </tbody>
-    </table>
+<div id="vc" style="text-align:center;">
+</div>
+<!--
+<div id="currLang" onmouseover="$('#slctLang').attr('class', 'show');" onmouseout="$('#slctLang').attr('class', '');">
+<img src="/static/singer22/images/flags/en.png" width="26" height="20" style="border:none;" alt="English" />
+</div> -->
+<div id="slctLang" onmouseover="$('#slctLang').attr('class', 'show');" onmouseout="$('#slctLang').attr('class', '');">
 </div>
 <div id="tnText"></div>
 <div id="loginText"></div>
@@ -183,15 +180,15 @@ Notification.prototype.show = function()
 <div style="width:1000px; height: 21px; margin: auto; position: relative; padding: 0; z-index: 2000;">
 
 <ul id="mnu_3" class="s22">
- <li class="mnutop ext"><a id="mnui1" class="mnui1" href="http://www.singer22.com/"></a>
+ <li class="mnutop ext"><a id="mnui1" class="mnui1" href="/"></a>
  <ul class="l2">
 <li style="height:1px;display:none;">&nbsp;</li> </ul>
  </li>
- <li class="mnutop ext"><a id="mnui3" class="mnui3" href="http://www.singer22.com/man/index.html"></a>
+ <li class="mnutop ext"><a id="mnui3" class="mnui3" href="/man/index.html"></a>
  <ul class="l2">
 <li style="height:1px;display:none;">&nbsp;</li> </ul>
  </li>
- <li class="mnutop ext"><a id="mnui5" class="mnui5" href="http://www.singer22.com/designer.html"></a>
+ <li class="mnutop ext"><a id="mnui5" class="mnui5" href="/designer.html"></a>
  <ul class="l2">
 <li style="height:1px;display:none;">&nbsp;</li>  <li class="mnupopup"><span id="mnui65" class="mnui65">popup Designers</span>
   <ul class="l3">
@@ -199,12 +196,12 @@ Notification.prototype.show = function()
    <ul class="l4">
 <li style="height:1px;display:none;">&nbsp;</li>    <li class="mnusect"><span id="mnui293" class="mnui293"></span>
     <ul class="l5">
-<li style="height:1px;display:none;">&nbsp;</li>     <li class="mnuitem black"><a id="mnui285" class="mnui285" href="http://www.singer22.com/designer.html">Designers A-Z</a></li>
+<li style="height:1px;display:none;">&nbsp;</li>     <li class="mnuitem black"><a id="mnui285" class="mnui285" href="/designer.html">Designers A-Z</a></li>
      <li class="mnuitem"><span id="mnui247" class="mnui247"> </span>
 <ul>
 <li class="mnuitem"><a title="Alexis" href="/alexis.html">Alexis</a></li><li class="mnuitem"><a title="Alice + Olivia" href="/alice-olivia.html">Alice + Olivia</a></li><li class="mnuitem"><a title="Belstaff" href="/belstaff.html">Belstaff</a></li><li class="mnuitem"><a title="Blu Moon" href="/blu-moon.html">Blu Moon</a></li><li class="mnuitem"><a title="BOULEE" href="/boulee.html">BOULEE</a></li><li class="mnuitem"><a title="Burkman Bros" href="/burkman-bros.html">Burkman Bros</a></li><li class="mnuitem"><a title="Chaser " href="/chaser.html">Chaser </a></li><li class="mnuitem"><a title="Current/Elliott" href="/current-elliott.html">Current/Elliott</a></li><li class="mnuitem"><a title="Emerson Thorpe" href="/emerson-thorpe.html">Emerson Thorpe</a></li><li class="mnuitem"><a title="Haute Hippie" href="/haute-hippie.html">Haute Hippie</a></li><li class="mnuitem"><a title="J Brand" href="/j-brand.html">J Brand</a></li><li class="mnuitem"><a title="Jeffrey Campbell" href="/jeffrey-campbell.html">Jeffrey Campbell</a></li><li class="mnuitem"><a title="Jen's Pirate Booty" href="/jen-s-pirate-booty.html">Jen's Pirate Booty</a></li><li class="mnuitem"><a title="Naven" href="/naven.html">Naven</a></li><li class="mnuitem"><a title="Parker" href="/parker.html">Parker</a></li><li class="mnuitem"><a title="Paula Bianco" href="/paula-bianco.html">Paula Bianco</a></li><li class="mnuitem"><a title="Sam Edelman" href="/sam-edelman.html">Sam Edelman</a></li><li class="mnuitem"><a title="Siwy" href="/siwy-denim.html">Siwy</a></li><li class="mnuitem"><a title="Style Stalker" href="/style-stalker.html">Style Stalker</a></li><li class="mnuitem"><a title="Tkees" href="/tkees.html">Tkees</a></li><li class="mnuitem"><a title="Wildfox" href="/wildfox.html">Wildfox</a></li></ul>
      </li>
-     <li class="mnuitem black"><a id="mnui415" class="mnui415" href="http://www.singer22.com/designer.html">View all</a></li>
+     <li class="mnuitem black"><a id="mnui415" class="mnui415" href="/designer.html">View all</a></li>
     </ul>
     </li>
     </ul>
@@ -213,7 +210,7 @@ Notification.prototype.show = function()
     </li>
     </ul>
     </li>
- <li class="mnutop ext"><a id="mnui7" class="mnui7" href="http://www.singer22.com/whatsnew.html"></a>
+ <li class="mnutop ext"><a id="mnui7" class="mnui7" href="/whatsnew.html"></a>
  <ul class="l2">
 <li style="height:1px;display:none;">&nbsp;</li>  <li class="mnupopup"><span id="mnui313" class="mnui313">popup Women</span>
   <ul class="l3">
@@ -221,10 +218,12 @@ Notification.prototype.show = function()
    <ul class="l4">
 <li style="height:1px;display:none;">&nbsp;</li>    <li class="mnusect"><span id="mnui315" class="mnui315"></span>
     <ul class="l5">
-<li style="height:1px;display:none;">&nbsp;</li>     <li class="mnuitem"><a id="mnui317" class="mnui317" href="http://www.singer22.com/whatsnew.html">What's new</a></li>
-     <li class="mnuitem"><a id="mnui649" class="mnui649" href="http://www.singer22.com/backinstock.html">Back in stock</a></li>
-     <li class="mnuitem"><a id="mnui659" class="mnui659" href="http://www.singer22.com/top100.html">Best Sellers</a></li>
-     <li class="mnuitem"><a id="mnui749" class="mnui749" href="http://www.singer22.com/500-dollars-shopping-spree.html">$500 SHOPPING SPREE</a></li>
+<li style="height:1px;display:none;">&nbsp;</li>     <li class="mnuitem"><a id="mnui317" class="mnui317" href="/whatsnew.html">What's new</a></li>
+     <li class="mnuitem"><a id="mnui649" class="mnui649" href="/backinstock.html">Back in stock</a></li>
+     <li class="mnuitem"><a id="mnui659" class="mnui659" href="/top100.html">Best Sellers</a></li>
+     <li class="mnuitem"><a id="mnui749" class="mnui749" href="/500-dollars-shopping-spree.html">$500 SHOPPING SPREE</a></li>
+     <li class="mnuitem"><a id="mnui922" class="mnui922" href="/who-wore-it-best/">Who wore it best?</a></li>
+     <li class="mnuitem"><a id="mnui942" class="mnui942" href="/pinterest/">S22 PINTEREST</a></li>
     </ul>
     </li>
     </ul>
@@ -233,7 +232,7 @@ Notification.prototype.show = function()
     </li>
     </ul>
     </li>
- <li class="mnutop ext"><a id="mnui9" class="mnui9" href="http://www.singer22.com/celebritypicks.html"></a>
+ <li class="mnutop ext"><a id="mnui9" class="mnui9" href="/celebritypicks.html"></a>
  <ul class="l2">
 <li style="height:1px;display:none;">&nbsp;</li>  <li class="mnupopup"><span id="mnui403" class="mnui403">popup Celebrety pics</span>
   <ul class="l3">
@@ -241,12 +240,13 @@ Notification.prototype.show = function()
    <ul class="l4">
 <li style="height:1px;display:none;">&nbsp;</li>    <li class="mnusect"><span id="mnui699" class="mnui699"></span>
     <ul class="l5">
-<li style="height:1px;display:none;">&nbsp;</li>     <li class="mnuitem"><a id="mnui701" class="mnui701" href="http://www.singer22.com/celebritypicks.html">See All</a></li>
+<li style="height:1px;display:none;">&nbsp;</li>     <li class="mnuitem"><a id="mnui701" class="mnui701" href="/celebritypicks.html">See All</a></li>
+     <li class="mnuitem"><a id="mnui918" class="mnui918" href="/who-wore-it-best/">Who wore it best?</a></li>
     </ul>
     </li>
     <li class="mnusect"><span id="mnui365" class="mnui365"></span>
 <ul>
-<li class="mnuitem"><a title="Alessandra Ambrosio" href="/alessandraamb.html">Alessandra Ambrosio</a></li><li class="mnuitem"><a title="Annalynne McCord" href="/annalynne-mccord.html">Annalynne McCord</a></li><li class="mnuitem"><a title="Ashlee Simpson" href="/ashleesimpson.html">Ashlee Simpson</a></li><li class="mnuitem"><a title="Ashley Greene" href="/ashley-greene.html">Ashley Greene</a></li><li class="mnuitem"><a title="Ashley Tisdale" href="/ashley-tisdale.html">Ashley Tisdale</a></li><li class="mnuitem"><a title="Audrina Patridge" href="/audrina-patridge.html">Audrina Patridge</a></li><li class="mnuitem"><a title="Beyonce" href="/beyonce.html">Beyonce</a></li><li class="mnuitem"><a title="Blake Lively" href="/blake-lively.html">Blake Lively</a></li><li class="mnuitem"><a title="Cameron Diaz " href="/cameron-diaz.html">Cameron Diaz </a></li><li class="mnuitem"><a title="Catt Sadler" href="/cattsadler.html">Catt Sadler</a></li><li class="mnuitem"><a title="Charlize Theron" href="/charlize-theron.html">Charlize Theron</a></li><li class="mnuitem"><a title="Cheryl Cole" href="/cherylcole.html">Cheryl Cole</a></li><li class="mnuitem"><a title="Drew Barrymore" href="/drewbarrymore.html">Drew Barrymore</a></li><li class="mnuitem"><a title="Emmanuelle Chriqui" href="/emanuellechriqui.html">Emmanuelle Chriqui</a></li><li class="mnuitem"><a title="Gwyneth Paltrow" href="/gwyneth-paltrow.html">Gwyneth Paltrow</a></li><li class="mnuitem"><a title="Halle Berry " href="/halle-berry.html">Halle Berry </a></li><li class="mnuitem"><a title="Hayden Panettiere" href="/haydenpanettiere.html">Hayden Panettiere</a></li><li class="mnuitem"><a title="Hilary Duff" href="/hillaryduff.html">Hilary Duff</a></li><li class="mnuitem"><a title="Jenna Dewan-Tatum" href="/jennadewantatum.html">Jenna Dewan-Tatum</a></li><li class="mnuitem"><a title="Jennifer Aniston" href="/jennifer-aniston.html">Jennifer Aniston</a></li><li class="mnuitem"><a title="Jessica Simpson" href="/jessicasimpson.html">Jessica Simpson</a></li><li class="mnuitem"><a title="Kardashian Style" href="/kimkardashian.html">Kardashian Style</a></li><li class="mnuitem"><a title="Kate Beckinsale" href="/kate-beckinsale.html">Kate Beckinsale</a></li><li class="mnuitem"><a title="Kate Bosworth" href="/kate-bosworth.html">Kate Bosworth</a></li><li class="mnuitem"><a title="Kate Hudson" href="/kate-hudson.html">Kate Hudson</a></li><li class="mnuitem"><a title="Kate Moss" href="/katemoss.html">Kate Moss</a></li><li class="mnuitem"><a title="Katie Holmes" href="/katie-holmes.html">Katie Holmes</a></li><li class="mnuitem"><a title="Kristen Stewart" href="/kristen-stewart.html">Kristen Stewart</a></li><li class="mnuitem"><a title="Kristin Cavallari" href="/kristincavallari.html">Kristin Cavallari</a></li><li class="mnuitem"><a title="Lauren Conrad" href="/laurenconrad.html">Lauren Conrad</a></li><li class="mnuitem"><a title="Leann Rimes" href="/leannrimes.html">Leann Rimes</a></li><li class="mnuitem"><a title="Leighton Meester" href="/leighton-meister.html">Leighton Meester</a></li><li class="mnuitem"><a title="Lindsay Lohan" href="/lindsaylohan.html">Lindsay Lohan</a></li><li class="mnuitem"><a title="Lo Bosworth " href="/lo-bosworth.html">Lo Bosworth </a></li><li class="mnuitem"><a title="MaryKate &amp; Ashley Olsen" href="/olsen.html">MaryKate &amp; Ashley Olsen</a></li><li class="mnuitem"><a title="Megan Fox" href="/meganfox.html">Megan Fox</a></li><li class="mnuitem"><a title="Miley Cyrus" href="/miley-cyrus.html">Miley Cyrus</a></li><li class="mnuitem"><a title="Minka Kelly" href="/minkakelly.html">Minka Kelly</a></li><li class="mnuitem"><a title="Nicky Hilton" href="/nickyhilton.html">Nicky Hilton</a></li><li class="mnuitem"><a title="Nicole Richie" href="/nicolerichie.html">Nicole Richie</a></li><li class="mnuitem"><a title="Olivia Palermo" href="/oliviapalermo.html">Olivia Palermo</a></li><li class="mnuitem"><a title="Paris Hilton" href="/parishilton.html">Paris Hilton</a></li><li class="mnuitem"><a title="Rachel Bilson" href="/rachelbilson.html">Rachel Bilson</a></li><li class="mnuitem"><a title="Rachel Zoe" href="/rachel-zoe.html">Rachel Zoe</a></li><li class="mnuitem"><a title="Rihanna" href="/rihanna.html">Rihanna</a></li><li class="mnuitem"><a title="Rosie Huntington-Whiteley" href="/rosiehuntingtonwhiteley.html">Rosie Huntington-Whiteley</a></li><li class="mnuitem"><a title="Sarah Jessica Parker " href="/sarah-jessica-parker.html">Sarah Jessica Parker </a></li><li class="mnuitem"><a title="Selena Gomez" href="/selena-gomez.html">Selena Gomez</a></li><li class="mnuitem"><a title="Shenae Grimes" href="/shenaegrimes.html">Shenae Grimes</a></li><li class="mnuitem"><a title="Sienna Miller" href="/siennamiller.html">Sienna Miller</a></li><li class="mnuitem"><a title="Stephanie Pratt" href="/stephanie-pratt.html">Stephanie Pratt</a></li><li class="mnuitem"><a title="Taylor Swift" href="/taylor-swift.html">Taylor Swift</a></li><li class="mnuitem"><a title="Vanessa Hudgens" href="/vanessahudgens.html">Vanessa Hudgens</a></li><li class="mnuitem"><a title="Vanessa Minnillo" href="/vanessaminillo.html">Vanessa Minnillo</a></li><li class="mnuitem"><a title="Victoria Beckham" href="/victoriabekham.html">Victoria Beckham</a></li><li class="mnuitem"><a title="Whitney Port" href="/whitneyport.html">Whitney Port</a></li></ul>
+<li class="mnuitem"><a title="Alessandra Ambrosio" href="/alessandraamb.html">Alessandra Ambrosio</a></li><li class="mnuitem"><a title="Annalynne McCord" href="/annalynne-mccord.html">Annalynne McCord</a></li><li class="mnuitem"><a title="Ashlee Simpson" href="/ashleesimpson.html">Ashlee Simpson</a></li><li class="mnuitem"><a title="Ashley Greene" href="/ashley-greene.html">Ashley Greene</a></li><li class="mnuitem"><a title="Ashley Tisdale" href="/ashley-tisdale.html">Ashley Tisdale</a></li><li class="mnuitem"><a title="Audrina Patridge" href="/audrina-patridge.html">Audrina Patridge</a></li><li class="mnuitem"><a title="Beyonce" href="/beyonce.html">Beyonce</a></li><li class="mnuitem"><a title="Blake Lively" href="/blake-lively.html">Blake Lively</a></li><li class="mnuitem"><a title="Cameron Diaz " href="/cameron-diaz.html">Cameron Diaz </a></li><li class="mnuitem"><a title="Catt Sadler" href="/cattsadler.html">Catt Sadler</a></li><li class="mnuitem"><a title="Charlize Theron" href="/charlize-theron.html">Charlize Theron</a></li><li class="mnuitem"><a title="Cheryl Cole" href="/cherylcole.html">Cheryl Cole</a></li><li class="mnuitem"><a title="Drew Barrymore" href="/drewbarrymore.html">Drew Barrymore</a></li><li class="mnuitem"><a title="Emmanuelle Chriqui" href="/emanuellechriqui.html">Emmanuelle Chriqui</a></li><li class="mnuitem"><a title="Gwyneth Paltrow" href="/gwyneth-paltrow.html">Gwyneth Paltrow</a></li><li class="mnuitem"><a title="Halle Berry " href="/halle-berry.html">Halle Berry </a></li><li class="mnuitem"><a title="Hayden Panettiere" href="/haydenpanettiere.html">Hayden Panettiere</a></li><li class="mnuitem"><a title="Hilary Duff" href="/hillaryduff.html">Hilary Duff</a></li><li class="mnuitem"><a title="Jenna Dewan-Tatum" href="/jennadewantatum.html">Jenna Dewan-Tatum</a></li><li class="mnuitem"><a title="Jennifer Aniston" href="/jennifer-aniston.html">Jennifer Aniston</a></li><li class="mnuitem"><a title="Jessica Simpson" href="/jessicasimpson.html">Jessica Simpson</a></li><li class="mnuitem"><a title="Kardashian Style" href="/kimkardashian.html">Kardashian Style</a></li><li class="mnuitem"><a title="Kate Beckinsale" href="/kate-beckinsale.html">Kate Beckinsale</a></li><li class="mnuitem"><a title="Kate Bosworth" href="/kate-bosworth.html">Kate Bosworth</a></li><li class="mnuitem"><a title="Kate Hudson" href="/kate-hudson.html">Kate Hudson</a></li><li class="mnuitem"><a title="Kate Moss" href="/katemoss.html">Kate Moss</a></li><li class="mnuitem"><a title="Katie Holmes" href="/katie-holmes.html">Katie Holmes</a></li><li class="mnuitem"><a title="Kristen Stewart" href="/kristen-stewart.html">Kristen Stewart</a></li><li class="mnuitem"><a title="Kristin Cavallari" href="/kristincavallari.html">Kristin Cavallari</a></li><li class="mnuitem"><a title="Lauren Conrad" href="/laurenconrad.html">Lauren Conrad</a></li><li class="mnuitem"><a title="Leann Rimes" href="/leannrimes.html">Leann Rimes</a></li><li class="mnuitem"><a title="Leighton Meester" href="/leighton-meister.html">Leighton Meester</a></li><li class="mnuitem"><a title="Lindsay Lohan" href="/lindsaylohan.html">Lindsay Lohan</a></li><li class="mnuitem"><a title="MaryKate &amp; Ashley Olsen" href="/olsen.html">MaryKate &amp; Ashley Olsen</a></li><li class="mnuitem"><a title="Megan Fox" href="/meganfox.html">Megan Fox</a></li><li class="mnuitem"><a title="Miley Cyrus" href="/miley-cyrus.html">Miley Cyrus</a></li><li class="mnuitem"><a title="Minka Kelly" href="/minkakelly.html">Minka Kelly</a></li><li class="mnuitem"><a title="Nicky Hilton" href="/nickyhilton.html">Nicky Hilton</a></li><li class="mnuitem"><a title="Nicole Richie" href="/nicolerichie.html">Nicole Richie</a></li><li class="mnuitem"><a title="Olivia Palermo" href="/oliviapalermo.html">Olivia Palermo</a></li><li class="mnuitem"><a title="Paris Hilton" href="/parishilton.html">Paris Hilton</a></li><li class="mnuitem"><a title="Rachel Bilson" href="/rachelbilson.html">Rachel Bilson</a></li><li class="mnuitem"><a title="Rachel Zoe" href="/rachel-zoe.html">Rachel Zoe</a></li><li class="mnuitem"><a title="Rihanna" href="/rihanna.html">Rihanna</a></li><li class="mnuitem"><a title="Rosie Huntington-Whiteley" href="/rosiehuntingtonwhiteley.html">Rosie Huntington-Whiteley</a></li><li class="mnuitem"><a title="Sarah Jessica Parker " href="/sarah-jessica-parker.html">Sarah Jessica Parker </a></li><li class="mnuitem"><a title="Shenae Grimes" href="/shenaegrimes.html">Shenae Grimes</a></li><li class="mnuitem"><a title="Sienna Miller" href="/siennamiller.html">Sienna Miller</a></li><li class="mnuitem"><a title="Stephanie Pratt" href="/stephanie-pratt.html">Stephanie Pratt</a></li><li class="mnuitem"><a title="Taylor Swift" href="/taylor-swift.html">Taylor Swift</a></li><li class="mnuitem"><a title="Vanessa Hudgens" href="/vanessahudgens.html">Vanessa Hudgens</a></li><li class="mnuitem"><a title="Vanessa Minnillo" href="/vanessaminillo.html">Vanessa Minnillo</a></li><li class="mnuitem"><a title="Victoria Beckham" href="/victoriabekham.html">Victoria Beckham</a></li><li class="mnuitem"><a title="Whitney Port" href="/whitneyport.html">Whitney Port</a></li></ul>
     </li>
    </ul>
    </li>
@@ -254,8 +254,8 @@ Notification.prototype.show = function()
    </li>
    </ul>
    </li>
- <li class="mnutop ext"><a id="mnui25" class="mnui25" href="http://www.singer22.com/lookbook.html"></a></li>
- <li class="mnutop ext"><a id="mnui27" class="mnui27" href="http://www.singer22.com/jeans.html"></a>
+ <li class="mnutop ext"><a id="mnui25" class="mnui25" href="/lookbook.html"></a></li>
+ <li class="mnutop ext"><a id="mnui27" class="mnui27" href="/jeans.html"></a>
  <ul class="l2">
 <li style="height:1px;display:none;">&nbsp;</li>  <li class="mnupopup"><span id="mnui377" class="mnui377">popup Denim</span>
   <ul class="l3">
@@ -263,12 +263,12 @@ Notification.prototype.show = function()
    <ul class="l4">
 <li style="height:1px;display:none;">&nbsp;</li>    <li class="mnusect"><span id="mnui711" class="mnui711"></span>
     <ul class="l5">
-<li style="height:1px;display:none;">&nbsp;</li>     <li class="mnuitem"><a id="mnui713" class="mnui713" href="http://www.singer22.com/jeans.html">See All</a></li>
+<li style="height:1px;display:none;">&nbsp;</li>     <li class="mnuitem"><a id="mnui713" class="mnui713" href="/jeans.html">See All</a></li>
     </ul>
     </li>
     <li class="mnusect"><span id="mnui381" class="mnui381"></span>
 <ul>
-<li class="mnuitem"><a title="7 For All Mankind" href="/7-for-all-mankind.html">7 For All Mankind</a></li><li class="mnuitem"><a title="AG Adriano Goldschmied" href="/ag-adriano-goldschmied.html">AG Adriano Goldschmied</a></li><li class="mnuitem"><a title="Alice + Olivia" href="/alice-olivia.html">Alice + Olivia</a></li><li class="mnuitem"><a title="Bec &amp; Bridge" href="/becandbridge.html">Bec &amp; Bridge</a></li><li class="mnuitem"><a title="Black Orchid" href="/black-orchid.html">Black Orchid</a></li><li class="mnuitem"><a title="Blank NYC" href="/blank-nyc.html">Blank NYC</a></li><li class="mnuitem"><a title="Bleulab" href="/bleulab.html">Bleulab</a></li><li class="mnuitem"><a title="c.r.a.f.t" href="/c-r-a-f-t.html">c.r.a.f.t</a></li><li class="mnuitem"><a title="Charley 5.0" href="/charley-5-0.html">Charley 5.0</a></li><li class="mnuitem"><a title="Chick With Guns" href="/chick-with-guns.html">Chick With Guns</a></li><li class="mnuitem"><a title="Citizens of Humanity" href="/citizens-of-humanity.html">Citizens of Humanity</a></li><li class="mnuitem"><a title="Current/Elliott" href="/current-elliott.html">Current/Elliott</a></li><li class="mnuitem"><a title="Decades Denim " href="/decades-denim.html">Decades Denim </a></li><li class="mnuitem"><a title="Free People" href="/free-people.html">Free People</a></li><li class="mnuitem"><a title="Genetic Denim" href="/genetic-denim.html">Genetic Denim</a></li><li class="mnuitem"><a title="Goldsign" href="/goldsign.html">Goldsign</a></li><li class="mnuitem"><a title="Halston Heritage" href="/halston-heritage.html">Halston Heritage</a></li><li class="mnuitem"><a title="HeartLoom" href="/heartloom.html">HeartLoom</a></li><li class="mnuitem"><a title="Insight" href="/insight.html">Insight</a></li><li class="mnuitem"><a title="Iro" href="/iro.html">Iro</a></li><li class="mnuitem"><a title="J Brand" href="/j-brand.html">J Brand</a></li><li class="mnuitem"><a title="James Jeans" href="/james-jeans.html">James Jeans</a></li><li class="mnuitem"><a title="Jet by John Eshaya" href="/jet-by-john-eshaya.html">Jet by John Eshaya</a></li><li class="mnuitem"><a title="Joe's Jeans" href="/joes-jeans.html.html">Joe's Jeans</a></li><li class="mnuitem"><a title="MiH " href="/mih.html">MiH </a></li><li class="mnuitem"><a title="Nudie Jeans" href="/nudie-jeans.html">Nudie Jeans</a></li><li class="mnuitem"><a title="One Teaspoon " href="/one-teaspoon.html">One Teaspoon </a></li><li class="mnuitem"><a title="Paige Premium Denim" href="/paige-premium-denim.html">Paige Premium Denim</a></li><li class="mnuitem"><a title="Plush" href="/plush.html">Plush</a></li><li class="mnuitem"><a title="Pray For Mother Nature" href="/pray-for-mother-nature.html">Pray For Mother Nature</a></li><li class="mnuitem"><a title="Rich and Skinny  " href="/rich-and-skinny.html">Rich and Skinny  </a></li><li class="mnuitem"><a title="RockStar Denim" href="/rockstar-denim.html">RockStar Denim</a></li><li class="mnuitem"><a title="RUNWAYDREAMZ" href="/runwaydreamz.html">RUNWAYDREAMZ</a></li><li class="mnuitem"><a title="Siwy" href="/siwy-denim.html">Siwy</a></li><li class="mnuitem"><a title="SOLD Design Lab" href="/sold-design-lab.html">SOLD Design Lab</a></li><li class="mnuitem"><a title="TEXTILE Elizabeth and James" href="/textileelizabethandjames.html">TEXTILE Elizabeth and James</a></li><li class="mnuitem"><a title="Vince" href="/vince.html">Vince</a></li><li class="mnuitem"><a title="Vintage1" href="/vintage1.html">Vintage1</a></li><li class="mnuitem"><a title="Wildfox" href="/wildfox.html">Wildfox</a></li><li class="mnuitem"><a title="Work Custom Jeans" href="/work-custom-jeans.html">Work Custom Jeans</a></li></ul>
+<li class="mnuitem"><a title="7 For All Mankind" href="/7-for-all-mankind.html">7 For All Mankind</a></li><li class="mnuitem"><a title="AG Adriano Goldschmied" href="/ag-adriano-goldschmied.html">AG Adriano Goldschmied</a></li><li class="mnuitem"><a title="Alice + Olivia" href="/alice-olivia.html">Alice + Olivia</a></li><li class="mnuitem"><a title="Bec &amp; Bridge" href="/becandbridge.html">Bec &amp; Bridge</a></li><li class="mnuitem"><a title="Black Orchid" href="/black-orchid.html">Black Orchid</a></li><li class="mnuitem"><a title="Blank NYC" href="/blank-nyc.html">Blank NYC</a></li><li class="mnuitem"><a title="Bleulab" href="/bleulab.html">Bleulab</a></li><li class="mnuitem"><a title="c.r.a.f.t" href="/c-r-a-f-t.html">c.r.a.f.t</a></li><li class="mnuitem"><a title="Charley 5.0" href="/charley-5-0.html">Charley 5.0</a></li><li class="mnuitem"><a title="Chick With Guns" href="/chick-with-guns.html">Chick With Guns</a></li><li class="mnuitem"><a title="Citizens of Humanity" href="/citizens-of-humanity.html">Citizens of Humanity</a></li><li class="mnuitem"><a title="Current/Elliott" href="/current-elliott.html">Current/Elliott</a></li><li class="mnuitem"><a title="Decades Denim " href="/decades-denim.html">Decades Denim </a></li><li class="mnuitem"><a title="Free People" href="/free-people.html">Free People</a></li><li class="mnuitem"><a title="Genetic Denim" href="/genetic-denim.html">Genetic Denim</a></li><li class="mnuitem"><a title="Goldsign" href="/goldsign.html">Goldsign</a></li><li class="mnuitem"><a title="Halston Heritage" href="/halston-heritage.html">Halston Heritage</a></li><li class="mnuitem"><a title="Insight" href="/insight.html">Insight</a></li><li class="mnuitem"><a title="Iro" href="/iro.html">Iro</a></li><li class="mnuitem"><a title="J Brand" href="/j-brand.html">J Brand</a></li><li class="mnuitem"><a title="James Jeans" href="/james-jeans.html">James Jeans</a></li><li class="mnuitem"><a title="Jet by John Eshaya" href="/jet-by-john-eshaya.html">Jet by John Eshaya</a></li><li class="mnuitem"><a title="Joe's Jeans" href="/joes-jeans.html.html">Joe's Jeans</a></li><li class="mnuitem"><a title="Ladakh" href="/ladakh.html">Ladakh</a></li><li class="mnuitem"><a title="m2f" href="/m2f.html">m2f</a></li><li class="mnuitem"><a title="MiH " href="/mih.html">MiH </a></li><li class="mnuitem"><a title="MINKPINK" href="/minkpink.html">MINKPINK</a></li><li class="mnuitem"><a title="Motel Rocks" href="/motel-rocks.html">Motel Rocks</a></li><li class="mnuitem"><a title="Nightcap Clothing" href="/nightcap-clothing.html">Nightcap Clothing</a></li><li class="mnuitem"><a title="One Teaspoon " href="/one-teaspoon.html">One Teaspoon </a></li><li class="mnuitem"><a title="Paige Premium Denim" href="/paige-premium-denim.html">Paige Premium Denim</a></li><li class="mnuitem"><a title="Plush" href="/plush.html">Plush</a></li><li class="mnuitem"><a title="Pray For Mother Nature" href="/pray-for-mother-nature.html">Pray For Mother Nature</a></li><li class="mnuitem"><a title="Rag &amp; Bone/JEAN" href="/rag-%26-bone-jean.html">Rag &amp; Bone/JEAN</a></li><li class="mnuitem"><a title="Rich and Skinny  " href="/rich-and-skinny.html">Rich and Skinny  </a></li><li class="mnuitem"><a title="RockStar Denim" href="/rockstar-denim.html">RockStar Denim</a></li><li class="mnuitem"><a title="RUNWAYDREAMZ" href="/runwaydreamz.html">RUNWAYDREAMZ</a></li><li class="mnuitem"><a title="Siwy" href="/siwy-denim.html">Siwy</a></li><li class="mnuitem"><a title="SOLD Design Lab" href="/sold-design-lab.html">SOLD Design Lab</a></li><li class="mnuitem"><a title="TEXTILE Elizabeth and James" href="/textileelizabethandjames.html">TEXTILE Elizabeth and James</a></li><li class="mnuitem"><a title="UNIF" href="/unif.html">UNIF</a></li><li class="mnuitem"><a title="Vince" href="/vince.html">Vince</a></li><li class="mnuitem"><a title="Vintage1" href="/vintage1.html">Vintage1</a></li><li class="mnuitem"><a title="Wildfox" href="/wildfox.html">Wildfox</a></li><li class="mnuitem"><a title="Work Custom Jeans" href="/work-custom-jeans.html">Work Custom Jeans</a></li></ul>
     </li>
    </ul>
    </li>
@@ -276,7 +276,7 @@ Notification.prototype.show = function()
    </li>
    </ul>
    </li>
- <li class="mnutop ext"><a id="mnui29" class="mnui29" href="http://www.singer22.com/shoes.html"></a>
+ <li class="mnutop ext"><a id="mnui29" class="mnui29" href="/shoes.html"></a>
  <ul class="l2">
 <li style="height:1px;display:none;">&nbsp;</li>  <li class="mnupopup"><span id="mnui385" class="mnui385">popup Shoes</span>
   <ul class="l3">
@@ -284,12 +284,12 @@ Notification.prototype.show = function()
    <ul class="l4">
 <li style="height:1px;display:none;">&nbsp;</li>    <li class="mnusect"><span id="mnui703" class="mnui703"></span>
     <ul class="l5">
-<li style="height:1px;display:none;">&nbsp;</li>     <li class="mnuitem"><a id="mnui705" class="mnui705" href="http://www.singer22.com/shoes.html">See All</a></li>
+<li style="height:1px;display:none;">&nbsp;</li>     <li class="mnuitem"><a id="mnui705" class="mnui705" href="/shoes.html">See All</a></li>
     </ul>
     </li>
     <li class="mnusect"><span id="mnui389" class="mnui389"></span>
 <ul>
-<li class="mnuitem"><a title="Alice + Olivia Shoes" href="/alice-olivia-shoes.html">Alice + Olivia Shoes</a></li><li class="mnuitem"><a title="Ash " href="/ash.html">Ash </a></li><li class="mnuitem"><a title="Australia Luxe Collective" href="/australia-luxe-collective.html">Australia Luxe Collective</a></li><li class="mnuitem"><a title="Camilla Skovgaard" href="/camilla-skovgaard.html">Camilla Skovgaard</a></li><li class="mnuitem"><a title="Dolce Vita" href="/dolce-vita.html">Dolce Vita</a></li><li class="mnuitem"><a title="Elizabeth and James Shoes" href="/elizabeth-and-james-shoes.html">Elizabeth and James Shoes</a></li><li class="mnuitem"><a title="FRYE" href="/frye.html">FRYE</a></li><li class="mnuitem"><a title="House of Harlow 1960 Shoes" href="/house-of-harlow-1960-shoes.html">House of Harlow 1960 Shoes</a></li><li class="mnuitem"><a title="Jeffrey Campbell" href="/jeffrey-campbell.html">Jeffrey Campbell</a></li><li class="mnuitem"><a title="Joe's Jeans" href="/joes-jeans.html.html">Joe's Jeans</a></li><li class="mnuitem"><a title="Joie" href="/joie.html">Joie</a></li><li class="mnuitem"><a title="Kettle Black" href="/kettle-black.html">Kettle Black</a></li><li class="mnuitem"><a title="koolaburra" href="/koolaburra.html">koolaburra</a></li><li class="mnuitem"><a title="lovers + friends" href="/lovers-friends.html">lovers + friends</a></li><li class="mnuitem"><a title="melissa shoes" href="/melissa-shoes.html">melissa shoes</a></li><li class="mnuitem"><a title="Modern Vintage" href="/modern-vintage.html">Modern Vintage</a></li><li class="mnuitem"><a title="Rachel Zoe Footwear" href="/rachel-zoe-footwear.html">Rachel Zoe Footwear</a></li><li class="mnuitem"><a title="Report Signature" href="/report-signature.html">Report Signature</a></li><li class="mnuitem"><a title="ROSEGOLD" href="/rosegold.html">ROSEGOLD</a></li><li class="mnuitem"><a title="Sam Edelman" href="/sam-edelman.html">Sam Edelman</a></li><li class="mnuitem"><a title="Schutz" href="/schutz.html">Schutz</a></li><li class="mnuitem"><a title="Senso Diffusion" href="/senso-diffusion.html">Senso Diffusion</a></li><li class="mnuitem"><a title="Steve Madden" href="/steve-madden.html">Steve Madden</a></li><li class="mnuitem"><a title="Superga" href="/superga.html">Superga</a></li><li class="mnuitem"><a title="Supra" href="/supra.html">Supra</a></li><li class="mnuitem"><a title="Tkees" href="/tkees.html">Tkees</a></li><li class="mnuitem"><a title="Twelfth St. by Cynthia Vincent" href="/twelfth-st-by-cynthia-vincent.html">Twelfth St. by Cynthia Vincent</a></li><li class="mnuitem"><a title="UNIF" href="/unif.html">UNIF</a></li><li class="mnuitem"><a title="Vix Swimwear" href="/vix-swimwear.html">Vix Swimwear</a></li><li class="mnuitem"><a title="What Goes Around Comes Around" href="/what-goes-around-comes-around.html">What Goes Around Comes Around</a></li></ul>
+<li class="mnuitem"><a title="Alice + Olivia Shoes" href="/alice-olivia-shoes.html">Alice + Olivia Shoes</a></li><li class="mnuitem"><a title="Ash " href="/ash.html">Ash </a></li><li class="mnuitem"><a title="Australia Luxe Collective" href="/australia-luxe-collective.html">Australia Luxe Collective</a></li><li class="mnuitem"><a title="Dav" href="/dav.html">Dav</a></li><li class="mnuitem"><a title="Dolce Vita" href="/dolce-vita.html">Dolce Vita</a></li><li class="mnuitem"><a title="Dr. Martens" href="/dr-martens.html">Dr. Martens</a></li><li class="mnuitem"><a title="Elizabeth and James Shoes" href="/elizabeth-and-james-shoes.html">Elizabeth and James Shoes</a></li><li class="mnuitem"><a title="FRYE" href="/frye.html">FRYE</a></li><li class="mnuitem"><a title="Jeffrey Campbell" href="/jeffrey-campbell.html">Jeffrey Campbell</a></li><li class="mnuitem"><a title="Joe's Jeans" href="/joes-jeans.html.html">Joe's Jeans</a></li><li class="mnuitem"><a title="Joie" href="/joie.html">Joie</a></li><li class="mnuitem"><a title="Kettle Black" href="/kettle-black.html">Kettle Black</a></li><li class="mnuitem"><a title="koolaburra" href="/koolaburra.html">koolaburra</a></li><li class="mnuitem"><a title="lovers + friends" href="/lovers-friends.html">lovers + friends</a></li><li class="mnuitem"><a title="Modern Vintage" href="/modern-vintage.html">Modern Vintage</a></li><li class="mnuitem"><a title="Penelope and Coco" href="/penelope-and-coco.html">Penelope and Coco</a></li><li class="mnuitem"><a title="Rachel Zoe Footwear" href="/rachel-zoe-footwear.html">Rachel Zoe Footwear</a></li><li class="mnuitem"><a title="Sam Edelman" href="/sam-edelman.html">Sam Edelman</a></li><li class="mnuitem"><a title="Schutz" href="/schutz.html">Schutz</a></li><li class="mnuitem"><a title="Senso Diffusion" href="/senso-diffusion.html">Senso Diffusion</a></li><li class="mnuitem"><a title="Steve Madden" href="/steve-madden.html">Steve Madden</a></li><li class="mnuitem"><a title="Superga" href="/superga.html">Superga</a></li><li class="mnuitem"><a title="Supra" href="/supra.html">Supra</a></li><li class="mnuitem"><a title="Tibi" href="/tibi.html">Tibi</a></li><li class="mnuitem"><a title="Tkees" href="/tkees.html">Tkees</a></li><li class="mnuitem"><a title="Twelfth St. by Cynthia Vincent" href="/twelfth-st-by-cynthia-vincent.html">Twelfth St. by Cynthia Vincent</a></li><li class="mnuitem"><a title="Twelfth St. by Cynthia Vincent Shoes" href="/twelfthstbycynthiavincentshoes.html">Twelfth St. by Cynthia Vincent Shoes</a></li><li class="mnuitem"><a title="UNIF" href="/unif.html">UNIF</a></li><li class="mnuitem"><a title="Vix Swimwear" href="/vix-swimwear.html">Vix Swimwear</a></li><li class="mnuitem"><a title="What Goes Around Comes Around" href="/what-goes-around-comes-around.html">What Goes Around Comes Around</a></li><li class="mnuitem"><a title="Yosi Samra" href="/yosi-samra.html">Yosi Samra</a></li></ul>
     </li>
    </ul>
    </li>
@@ -297,7 +297,7 @@ Notification.prototype.show = function()
    </li>
    </ul>
    </li>
- <li class="mnutop ext"><a id="mnui35" class="mnui35" href="http://www.singer22.com/gift-guide-womens.html"></a>
+ <li class="mnutop ext"><a id="mnui35" class="mnui35" href="/swimwear.html"></a>
  <ul class="l2">
 <li style="height:1px;display:none;">&nbsp;</li>  <li class="mnupopup wide"><span id="mnui221" class="mnui221">popup Swimwear</span>
   <ul class="l3">
@@ -305,26 +305,21 @@ Notification.prototype.show = function()
    <ul class="l4">
 <li style="height:1px;display:none;">&nbsp;</li>    <li class="mnusect"><span id="mnui707" class="mnui707"></span>
     <ul class="l5">
-<li style="height:1px;display:none;">&nbsp;</li>     <li class="mnuitem"><a id="mnui709" class="mnui709" href="http://www.singer22.com/gift-guide-womens.html">See All</a></li>
+<li style="height:1px;display:none;">&nbsp;</li>     <li class="mnuitem"><a id="mnui709" class="mnui709" href="/swimwear.html">See All</a></li>
     </ul>
     </li>
-    <li class="mnusect"><span id="mnui793" class="mnui793"></span>
-    <ul class="l5">
-<li style="height:1px;display:none;">&nbsp;</li>     <li class="mnuitem"><a id="mnui795" class="mnui795" href="http://www.singer22.com/gift-guide-womens.html">Gift guide</a></li>
-     <li class="mnuitem"><a id="mnui797" class="mnui797" href="http://www.singer22.com/gift-25-women.html">Gifts Under $25</a></li>
-     <li class="mnuitem"><a id="mnui799" class="mnui799" href="http://www.singer22.com/gift-50-women.html">Gifts Under $50</a></li>
-     <li class="mnuitem"><a id="mnui801" class="mnui801" href="http://www.singer22.com/gift-100-women.html">Gifts Under $100</a></li>
-     <li class="mnuitem"><a id="mnui803" class="mnui803" href="http://www.singer22.com/gift-250-women.html">Gifts Under $250</a></li>
-     <li class="mnuitem"><a id="mnui805" class="mnui805" href="http://www.singer22.com/gift-luxe-women.html">Luxe Gifts</a></li>
-    </ul>
+    <li class="mnusect"><span id="mnui793" class="mnui793"></span></li>
+    <li class="mnusect"><span id="mnui816" class="mnui816"></span>
+<ul>
+<li class="mnuitem"><a title="Alexis" href="/alexis.html">Alexis</a></li><li class="mnuitem"><a title="Anna Kosturova" href="/anna-kosturova.html">Anna Kosturova</a></li><li class="mnuitem"><a title="Boys + Arrows" href="/boys-and-arrows.html">Boys + Arrows</a></li><li class="mnuitem"><a title="Charlie by Matthew Zink" href="/charlie-by-matthew-zink.html">Charlie by Matthew Zink</a></li><li class="mnuitem"><a title="Cia.Maritima" href="/ciamaritima.html">Cia.Maritima</a></li><li class="mnuitem"><a title="Free People" href="/free-people.html">Free People</a></li><li class="mnuitem"><a title="Insight" href="/insight.html">Insight</a></li><li class="mnuitem"><a title="L*Space" href="/l-space.html">L*Space</a></li><li class="mnuitem"><a title="Mara Hoffman" href="/mara-hoffman.html">Mara Hoffman</a></li><li class="mnuitem"><a title="Mara Hoffman Swimwear" href="/mara-hoffman-swimwear.html">Mara Hoffman Swimwear</a></li><li class="mnuitem"><a title="Maya Swimwear" href="/maya-swimwear.html">Maya Swimwear</a></li><li class="mnuitem"><a title="Mikoh" href="/mikoh.html">Mikoh</a></li><li class="mnuitem"><a title="Nightcap Clothing" href="/nightcap-clothing.html">Nightcap Clothing</a></li><li class="mnuitem"><a title="One Teaspoon " href="/one-teaspoon.html">One Teaspoon </a></li><li class="mnuitem"><a title="Parker" href="/parker.html">Parker</a></li><li class="mnuitem"><a title="Parker Beach " href="/parker-beach.html">Parker Beach </a></li><li class="mnuitem"><a title="Tavik Swimwear" href="/tavik-swimwear.html">Tavik Swimwear</a></li><li class="mnuitem"><a title="Thayer Beach " href="/thayer-beach.html">Thayer Beach </a></li><li class="mnuitem"><a title="Vitamin A" href="/vitamin-a.html">Vitamin A</a></li><li class="mnuitem"><a title="Vix Swimwear" href="/vix-swimwear.html">Vix Swimwear</a></li><li class="mnuitem"><a title="We Are Handsome" href="/we-are-handsome.html">We Are Handsome</a></li><li class="mnuitem"><a title="Zimmerman" href="/zimmerman.html">Zimmerman</a></li></ul>
     </li>
-    </ul>
-    </li>
-    </ul>
-    </li>
-    </ul>
-    </li>
- <li class="mnutop ext"><a id="mnui45" class="mnui45" href="http://www.singer22.com/acrobat.html"></a>
+   </ul>
+   </li>
+   </ul>
+   </li>
+   </ul>
+   </li>
+ <li class="mnutop ext"><a id="mnui45" class="mnui45" href="/acrobat.html"></a>
  <ul class="l2">
 <li style="height:1px;display:none;">&nbsp;</li>  <li class="mnupopup left100"><span id="mnui101" class="mnui101">popup Sale</span>
   <ul class="l3">
@@ -332,15 +327,15 @@ Notification.prototype.show = function()
    <ul class="l4">
 <li style="height:1px;display:none;">&nbsp;</li>    <li class="mnusect"><span id="mnui125" class="mnui125"></span>
     <ul class="l5">
-<li style="height:1px;display:none;">&nbsp;</li>     <li class="mnuitem red"><a id="mnui213" class="mnui213" href="http://www.singer22.com/acrobat.html">View All Sale Items</a></li>
-     <li class="mnuitem"><a id="mnui107" class="mnui107" href="http://www.singer22.com/sale10-20.html">Sale 10-20% off</a></li>
-     <li class="mnuitem"><a id="mnui163" class="mnui163" href="http://www.singer22.com/sale20-30.html">Sale 20-30% off</a></li>
-     <li class="mnuitem"><a id="mnui185" class="mnui185" href="http://www.singer22.com/sale30-40.html">Sale 30-40% off</a></li>
-     <li class="mnuitem"><a id="mnui189" class="mnui189" href="http://www.singer22.com/sale40-50.html">Sale 40-50% off</a></li>
-     <li class="mnuitem"><a id="mnui191" class="mnui191" href="http://www.singer22.com/sale50-60.html">Sale 50-60% off</a></li>
-     <li class="mnuitem"><a id="mnui197" class="mnui197" href="http://www.singer22.com/sale60-70.html">Sale 60-70% off</a></li>
-     <li class="mnuitem"><a id="mnui205" class="mnui205" href="http://www.singer22.com/sale70-80.html">Sale 70-80% off</a></li>
-     <li class="mnuitem"><a id="mnui209" class="mnui209" href="http://www.singer22.com/sale80-90.html">Sale 80-90% off</a></li>
+<li style="height:1px;display:none;">&nbsp;</li>     <li class="mnuitem red"><a id="mnui213" class="mnui213" href="/acrobat.html">View All Sale Items</a></li>
+     <li class="mnuitem"><a id="mnui107" class="mnui107" href="/sale10-20.html">Sale 10-20% off</a></li>
+     <li class="mnuitem"><a id="mnui163" class="mnui163" href="/sale20-30.html">Sale 20-30% off</a></li>
+     <li class="mnuitem"><a id="mnui185" class="mnui185" href="/sale30-40.html">Sale 30-40% off</a></li>
+     <li class="mnuitem"><a id="mnui189" class="mnui189" href="/sale40-50.html">Sale 40-50% off</a></li>
+     <li class="mnuitem"><a id="mnui191" class="mnui191" href="/sale50-60.html">Sale 50-60% off</a></li>
+     <li class="mnuitem"><a id="mnui197" class="mnui197" href="/sale60-70.html">Sale 60-70% off</a></li>
+     <li class="mnuitem"><a id="mnui205" class="mnui205" href="/sale70-80.html">Sale 70-80% off</a></li>
+     <li class="mnuitem"><a id="mnui209" class="mnui209" href="/sale80-90.html">Sale 80-90% off</a></li>
     </ul>
     </li>
     </ul>
@@ -349,33 +344,53 @@ Notification.prototype.show = function()
     </li>
     </ul>
     </li>
- <li class="mnutop ext"><a id="mnui53" class="mnui53" href="http://www.singer22.com/blog/"></a></li>
+ <li class="mnutop ext"><a id="mnui53" class="mnui53" href="/blog/"></a></li>
 </ul>
 <script type="text/javascript">
 //<!--
+var iDevice = false;
+var strAgent = navigator.userAgent;
+if ((strAgent.indexOf("iPad") > -1) || (strAgent.indexOf("iPhone") > -1)) {
+    iDevice = true;
+}
+
 var arrStyles = {"mnui1":{"background":"url(\"\/static\/menu\/images\/1.gif\") no-repeat 0 -1px","width":"80px","height":"21px","margin":0,"padding":0,"display":"block"},"mnui3":{"background":"url(\"\/static\/menu\/images\/3.gif\") no-repeat 0 -1px","width":"64px","height":"21px","margin":0,"padding":0,"display":"block"},"mnui5":{"background":"url(\"\/static\/menu\/images\/5.gif\") no-repeat 0 -1px","width":"106px","height":"21px","margin":0,"padding":0,"display":"block"},"mnui7":{"background":"url(\"\/static\/menu\/images\/7.gif\") no-repeat 0 -1px","width":"122px","height":"21px","margin":0,"padding":0,"display":"block"},"mnui9":{"background":"url(\"\/static\/menu\/images\/9.gif\") no-repeat 0 -1px","width":"132px","height":"21px","margin":0,"padding":0,"display":"block"},"mnui25":{"background":"url(\"\/static\/menu\/images\/25.gif\") no-repeat 0 -1px","width":"112px","height":"21px","margin":0,"padding":0,"display":"block"},"mnui27":{"background":"url(\"\/static\/menu\/images\/27.gif\") no-repeat 0 -1px","width":"70px","height":"21px","margin":0,"padding":0,"display":"block"},"mnui29":{"background":"url(\"\/static\/menu\/images\/29.gif\") no-repeat 0 -1px","width":"81px","height":"21px","margin":0,"padding":0,"display":"block"},"mnui35":{"background":"url(\"\/static\/menu\/images\/35.png\") no-repeat 0 -1px","width":"44px","height":"19px","margin":0,"padding":0,"display":"block"},"mnui45":{"background":"url(\"\/static\/menu\/images\/45.gif\") no-repeat 0 -1px","width":"60px","height":"21px","margin":0,"padding":0,"display":"block"},"mnui53":{"background":"url(\"\/static\/menu\/images\/53.gif\") no-repeat 0 -1px","width":"53px","height":"21px","margin":0,"padding":0,"display":"block"}};
 for ( var elemId in arrStyles ) {
     for ( var strPropKey in arrStyles[ elemId ] ) {
         $('#'+elemId).css( strPropKey, arrStyles[ elemId ][strPropKey] );
     }
 }
-jsHover=function() {
-    var he=document.getElementById("mnu_3").getElementsByTagName("li");
-    for (var i=0,len=he.length;i < len;i++) {
-        he[i].onmouseover=function(){ if ( this.className.search( " ext") != -1 ) this.className+=" jshover"; }
-        he[i].onmouseout=function(){ if ( this.className.search( " ext") != -1 ) this.className=this.className.replace(" jshover", ""); }
-                he[i].onclick=function(){this.className=this.className.replace(" jshover", "");}
-    }
+
+if ( ! iDevice) {
+    $('.mnutop').hover(
+        function(){
+            $(this).addClass('jshover');
+        },
+        function(){
+            $(this).removeClass('jshover');
+        }
+    )
 }
-    if ( window.attachEvent && navigator.userAgent.indexOf("Opera")==-1 ) {
-        window.attachEvent("onload", jsHover);
-    } else {
-         // window.onload = jsHover;
-         setTimeout( "jsHover()", 10 );
-    }
+else {
+    $('.mnutop').click(function(){
+        var hasClass = $(this).hasClass('jshover');
+        $('.mnutop').removeClass('jshover');
+        if(hasClass){
+            $(this).removeClass('jshover');
+        } else {
+            $(this).addClass('jshover');
+        }
+        if( $('ul', this).length > 0 ) {
+            return false;
+        }
+    })
+}
+
 //-->
 </script></div>
 <div style="clear:both;"><div id="mainArea" style="margin-top:3px;">
+        <div id="s22rush">
+    </div>
     <div id="mainAreaIn">
     <div id="leftColumn"><div id="leftColumnIn">
 
@@ -410,62 +425,507 @@ jsHover=function() {
                 <div id="lnavcont1" class="l27a3 l27h1 categoryitems">
                     <div class="ciIn">
                         <div class="ciIn1">
-                            <a href="/whatsnew.html" title="What's New">What's New</a><a href="/celebritypicks.html" title="Celebrity Picks">Celebrity Picks</a><a href="/acrobat.html" title="Sale Up to 90% Off">Sale Up to 90% Off</a><a href="/500-dollars-shopping-spree.html" title="$500 SHOPPING SPREE">$500 SHOPPING SPREE</a><a href="/top10.html" title="Top 10 List">Top 10 List</a><a href="/gift-guide-womens.html" title="Gift Guide">Gift Guide</a><a href="/top100.html" title="Best Sellers">Best Sellers</a><a href="/backinstock.html" title="Back In Stock">Back In Stock</a>                            <div style="border:none;height:12px">
+                            <a href="/whatsnew.html" title="What's New">What's New</a><a href="/celebritypicks.html" title="Celebrity Picks">Celebrity Picks</a><a href="/acrobat.html" title="Sale Up to 90% Off">Sale Up to 90% Off</a><a href="/top10.html" title="Top 10 List">Top 10 List</a><a href="/gift-guide-womens.html" title="Gift Guide">Gift Guide</a><a href="/giftguidemen.html" title="Gift Guide for Guys">Gift Guide for Guys</a><a href="/top100.html" title="Best Sellers">Best Sellers</a><a href="/backinstock.html" title="Back In Stock">Back In Stock</a><div style="border:none;height:12px">
+                                <img src="http://images.singer22.com/static/singer22/images/cel-line1.gif" width="135" height="12" alt="" style="border:0">
+                     </div>
+                     <a style="white-space:nowrap;" href="/pinterest/" title="S22 pinterest">S22 pinterest</a>
+                     <a style="white-space:nowrap;" href="/who-wore-it-best/" title="Who wore it best ?">Who wore it best?</a>                         
+                             <a style="white-space:nowrap;" href="/pick-the-best-look/" title="Pick the best look">Pick the best look</a>
+                                 <a style="white-space:nowrap;" href="/500-dollars-shopping-spree.html" title="$500 shopping spree">$500 shopping spree</a>                            <div style="border:none;height:12px">
                                 <img src="http://images.singer22.com/static/singer22/images/cel-line1.gif" width="135" height="12" alt="" style="border:0">
                             </div>
-                                <a title="6 Shore Road " href="/6-shore-road.html">6 Shore Road </a><a title="6126 by Lindsay Lohan" href="/6126-by-lindsay-lohan.html">6126 by Lindsay Lohan</a><a title="7 For All Mankind" href="/7-for-all-mankind.html">7 For All Mankind</a><a title="Adrienne Landau" href="/adrienne-landau.html">Adrienne Landau</a><a title="AG Adriano Goldschmied" href="/ag-adriano-goldschmied.html">AG Adriano Goldschmied</a><a title="AKA New York" href="/aka-new-york.html">AKA New York</a><a title="Alexis" href="/alexis.html">Alexis</a><a title="Alice &amp; Trixie" href="/alice-and-trixie.html">Alice &amp; Trixie</a><a title="Alice + Olivia" href="/alice-olivia.html">Alice + Olivia</a><a title="Alice + Olivia Shoes" href="/alice-olivia-shoes.html">Alice + Olivia Shoes</a><a title="Alisa Michelle" href="/alisamichelle.html">Alisa Michelle</a><a title="Alternative Apparel" href="/alternative-apparel.html">Alternative Apparel</a><a title="Amanda Uprichard" href="/amanda-uprichard.html">Amanda Uprichard</a><a title="American Colors" href="/american-colors.html">American Colors</a><a title="American Gold" href="/american-gold.html">American Gold</a><a title="Anda &amp; Masha " href="/anda-and-masha.html">Anda &amp; Masha </a><a title="Ani Lee" href="/ani-lee.html">Ani Lee</a><a title="Anna Kosturova" href="/anna-kosturova.html">Anna Kosturova</a><a title="Anu By Natural" href="/anu-by-natural.html">Anu By Natural</a><a title="aro" href="/aro.html">aro</a><a title="As Is" href="/as-is.html">As Is</a><a title="Ash " href="/ash.html">Ash </a><a title="Australia Luxe Collective" href="/australia-luxe-collective.html">Australia Luxe Collective</a><a title="B-Low the Belt" href="/b-low-the-belt.html">B-Low the Belt</a><a title="Backstage" href="/backstage.html">Backstage</a><a title="Beach Bunny Kardashian Collection" href="/beach-bunny-kardashian-collection.html">Beach Bunny Kardashian Collection</a><a title="Bec &amp; Bridge" href="/becandbridge.html">Bec &amp; Bridge</a><a title="Belle Noel by Kim Kardashian" href="/belle-noel-by-kim-kardashian.html">Belle Noel by Kim Kardashian</a><a title="Belstaff" href="/belstaff.html">Belstaff</a><a title="Black Halo" href="/black-halo.html">Black Halo</a><a title="Black Orchid" href="/black-orchid.html">Black Orchid</a><a title="Blank NYC" href="/blank-nyc.html">Blank NYC</a><a title="Blaque Label" href="/blaquelabel.html">Blaque Label</a><a title="Bleulab" href="/bleulab.html">Bleulab</a><a title="BLOW" href="/blow.html">BLOW</a><a title="Blu Moon" href="/blu-moon.html">Blu Moon</a><a title="Blue Life" href="/blue-life.html">Blue Life</a><a title="Bordeaux" href="/bordeauxtanks.html">Bordeaux</a><a title="BOULEE" href="/boulee.html">BOULEE</a><a title="Boyfriend/Girlfriend" href="/boyfriend-girlfriend.html">Boyfriend/Girlfriend</a><a title="Brian Lichtenberg" href="/brian-lichtenberg.html">Brian Lichtenberg</a><a title="Brokedown" href="/brokedown.html">Brokedown</a><a title="BSABLE" href="/bsable.html">BSABLE</a><a title="Burkman Bros" href="/burkman-bros.html">Burkman Bros</a><a title="Butik" href="/butik.html">Butik</a><a title="C Solnicki / Sisters Solnicki" href="/c-solnicki-sisters-solnicki.html">C Solnicki / Sisters Solnicki</a><a title="c.r.a.f.t" href="/c-r-a-f-t.html">c.r.a.f.t</a><a title="Cali Dreaming" href="/calidreaming.html">Cali Dreaming</a><a title="Cameo" href="/cameoau.html">Cameo</a><a title="camilla and marc" href="/camilla-and-marc.html">camilla and marc</a><a title="Camilla Skovgaard" href="/camilla-skovgaard.html">Camilla Skovgaard</a><a title="Carol Marie " href="/carol-marie.html">Carol Marie </a><a title="CC Skye" href="/cc-skye.html">CC Skye</a><a title="Chan Luu" href="/chanluu.html">Chan Luu</a><a title="Charley 5.0" href="/charley-5-0.html">Charley 5.0</a><a title="Charlie by Matthew Zink" href="/charlie-by-matthew-zink.html">Charlie by Matthew Zink</a><a title="Charlie Jade" href="/charliejade.html">Charlie Jade</a><a title="Chaser " href="/chaser.html">Chaser </a><a title="Chelsea Flower" href="/chelsea-flower.html">Chelsea Flower</a><a title="Chick With Guns" href="/chick-with-guns.html">Chick With Guns</a><a title="Christy's Hats" href="/christys-hats.html">Christy's Hats</a><a title="Cia.Maritima" href="/ciamaritima.html">Cia.Maritima</a><a title="Citizens of Humanity" href="/citizens-of-humanity.html">Citizens of Humanity</a><a title="Cleobella" href="/cleobella.html">Cleobella</a><a title="Clover Canyon" href="/clover-canyon.html">Clover Canyon</a><a title="Coal" href="/coal.html">Coal</a><a title="Commando Underwear" href="/commandounderwear.html">Commando Underwear</a><a title="Contrarian" href="/contrarian.html">Contrarian</a><a title="Corey Lynn Calter" href="/corey-lynn-calter.html">Corey Lynn Calter</a><a title="Count Me Healthy by Chelsea Charles" href="/chelseacharles.html">Count Me Healthy by Chelsea Charles</a><a title="Current/Elliott" href="/current-elliott.html">Current/Elliott</a><a title="Cut 25" href="/cut-25.html">Cut 25</a><a title="Cut n' Paste" href="/cut-n-paste.html">Cut n' Paste</a><a title="Cynthia Dugan" href="/cynthia-dugan.html">Cynthia Dugan</a><a title="Daftbird" href="/daftbird.html">Daftbird</a><a title="Dannijo" href="/dannijo.html">Dannijo</a><a title="Daughters of the Revolution" href="/daughters-of-the-revolution.html">Daughters of the Revolution</a><a title="David Lerner" href="/david-lerner.html">David Lerner</a><a title="Decades Denim " href="/decades-denim.html">Decades Denim </a><a title="Despi" href="/despi.html">Despi</a><a title="diNeila Brazil Swimwear" href="/dineila-brazil-swimwear.html">diNeila Brazil Swimwear</a><a title="Dolce Vita" href="/dolce-vita.html">Dolce Vita</a><a title="Doma" href="/doma.html">Doma</a><a title="Donna Mizani" href="/donna-mizani.html">Donna Mizani</a><a title="Elizabeth and James Shoes" href="/elizabeth-and-james-shoes.html">Elizabeth and James Shoes</a><a title="Elizabeth and James Sunglasses" href="/elizabethandjamessunglasses.html">Elizabeth and James Sunglasses</a><a title="ELS" href="/els.html">ELS</a><a title="Ember Skye" href="/ember-skye.html">Ember Skye</a><a title="Emerson Thorpe" href="/emerson-thorpe.html">Emerson Thorpe</a><a title="Emily Cho" href="/emily-cho.html">Emily Cho</a><a title="Emotionally Unavailable" href="/emotionally-unavailable.html">Emotionally Unavailable</a><a title="Equipment" href="/equipment.html">Equipment</a><a title="Erin Kleinberg" href="/erin-kleinberg.html">Erin Kleinberg</a><a title="Eternal Sunshine Creations" href="/eternal-sunshine-creations.html">Eternal Sunshine Creations</a><a title="Eugenia Kim" href="/eugenia-kim.html">Eugenia Kim</a><a title="ever" href="/ever.html">ever</a><a title="EVIL TWIN" href="/evil-twin.html">EVIL TWIN</a><a title="Feel The Piece" href="/feel-the-piece.html">Feel The Piece</a><a title="Finders Keepers" href="/finders-keepers.html">Finders Keepers</a><a title="Fluxus" href="/fluxus.html">Fluxus</a><a title="Foley + Corinna" href="/foley-corinna.html">Foley + Corinna</a><a title="For Love &amp; Lemons" href="/for-love-and-lemons.html">For Love &amp; Lemons</a><a title="Free People" href="/free-people.html">Free People</a><a title="FRYE" href="/frye.html">FRYE</a><a title="Funktional" href="/funktional.html">Funktional</a><a title="Gemma" href="/gemma.html">Gemma</a><a title="Generation Love" href="/generation-love.html">Generation Love</a><a title="Genetic Denim" href="/genetic-denim.html">Genetic Denim</a><a title="GEORGIE" href="/georgie.html">GEORGIE</a><a title="Girls We Hated In High School Handbags by Jeffrey Campbell" href="/girlswehatedinhighschool.html">Girls We Hated In High School Handbags by Jeffrey Campbell</a><a title="Goddis" href="/goddis.html">Goddis</a><a title="Gold Hawk" href="/gold-hawk.html">Gold Hawk</a><a title="Gold Saturn" href="/gold-saturn.html">Gold Saturn</a><a title="Goldsign" href="/goldsign.html">Goldsign</a><a title="Gryphon" href="/gryphon.html">Gryphon</a><a title="Gypsy 05" href="/gypsy-05.html">Gypsy 05</a><a title="Gypsy Junkies" href="/gypsyjunkies.html">Gypsy Junkies</a><a title="Halston Heritage" href="/halston-heritage.html">Halston Heritage</a><a title="Haute Hippie" href="/haute-hippie.html">Haute Hippie</a><a title="HeartLoom" href="/heartloom.html">HeartLoom</a><a title="Hero Crane" href="/hero-crane.html">Hero Crane</a><a title="House of Harlow 1960" href="/house-of-harlow-1960.html">House of Harlow 1960</a><a title="House of Harlow 1960 Handbags" href="/houseofharlow1960handbags.html">House of Harlow 1960 Handbags</a><a title="House of Harlow 1960 Shoes" href="/house-of-harlow-1960-shoes.html">House of Harlow 1960 Shoes</a><a title="House of Harlow 1960 Sunglasses" href="/house-of-harlow-1960-sunglasses.html">House of Harlow 1960 Sunglasses</a><a title="Icarus &amp; Co. " href="/icarusandco.html">Icarus &amp; Co. </a><a title="incase" href="/incase.html">incase</a><a title="Inhabit" href="/inhabit.html">Inhabit</a><a title="Insight" href="/insight.html">Insight</a><a title="Iro" href="/iro.html">Iro</a><a title="J Brand" href="/j-brand.html">J Brand</a><a title="Jacks &amp; Jokers" href="/jacks-and-jokers.html">Jacks &amp; Jokers</a><a title="Jagger Edge" href="/jagger-edge.html">Jagger Edge</a><a title="James Jeans" href="/james-jeans.html">James Jeans</a><a title="Jay Godfrey" href="/jay-godfrey.html">Jay Godfrey</a><a title="Jeffrey Campbell" href="/jeffrey-campbell.html">Jeffrey Campbell</a><a title="Jen's Pirate Booty" href="/jen-s-pirate-booty.html">Jen's Pirate Booty</a><a title="Jennifer Haley" href="/jenniferhaley.html">Jennifer Haley</a><a title="Jennifer Zeuner" href="/jennifer-zeuner.html">Jennifer Zeuner</a><a title="Jet by John Eshaya" href="/jet-by-john-eshaya.html">Jet by John Eshaya</a><a title="JJ Winters" href="/jj-winters.html">JJ Winters</a><a title="Joe's Jeans" href="/joes-jeans.html.html">Joe's Jeans</a><a title="Joie" href="/joie.html">Joie</a><a title="Joie A La Plage" href="/joie-a-la-plage.html">Joie A La Plage</a><a title="Joie Soft" href="/joie-soft.html">Joie Soft</a><a title="Jonathan Cheban JETSET for RichRocks" href="/jonathanchebanjetsetforrichrocks.html">Jonathan Cheban JETSET for RichRocks</a><a title="Jonathan Simkhai" href="/jonathan-simkhai.html">Jonathan Simkhai</a><a title="Juliette Jake" href="/juliette-jake.html">Juliette Jake</a><a title="K Walker" href="/k-walker.html">K Walker</a><a title="KAiN Label" href="/kain-label.html">KAiN Label</a><a title="Karen Zambos Vintage Couture" href="/kazavico.html">Karen Zambos Vintage Couture</a><a title="Keepsake" href="/keepsake.html">Keepsake</a><a title="Kenny" href="/kenny.html">Kenny</a><a title="Kettle Black" href="/kettle-black.html">Kettle Black</a><a title="Kimberly Taylor" href="/kimberly-taylor.html">Kimberly Taylor</a><a title="Kings Of Cole" href="/kings-of-cole.html">Kings Of Cole</a><a title="koolaburra" href="/koolaburra.html">koolaburra</a><a title="Kova &amp; T" href="/kova-and-t.html">Kova &amp; T</a><a title="Krisa" href="/krisa.html">Krisa</a><a title="L*Space" href="/l-space.html">L*Space</a><a title="La Fee Verte" href="/lafeeverte.html">La Fee Verte</a><a title="Lauren Moshi" href="/lauren-moshi.html">Lauren Moshi</a><a title="Leigh &amp; Luca" href="/leigh-and-luca.html">Leigh &amp; Luca</a><a title="Les Halles" href="/les-halles.html">Les Halles</a><a title="Leyendecker" href="/leyendecker.html">Leyendecker</a><a title="Line" href="/line.html">Line</a><a title="Linea Pelle" href="/linea-pelle.html">Linea Pelle</a><a title="LnA" href="/lna.html">LnA</a><a title="Local Celebrity" href="/local-celebrity.html">Local Celebrity</a><a title="Love Child" href="/lovechild.html">Love Child</a><a title="Love Quotes" href="/love-quotes.html">Love Quotes</a><a title="Love Sam" href="/love-sam.html">Love Sam</a><a title="lovers + friends" href="/lovers-friends.html">lovers + friends</a><a title="Low Luv x Erin Wasson" href="/low-luv-x-erin-wasson.html">Low Luv x Erin Wasson</a><a title="Lucca Couture" href="/luccacouture.html">Lucca Couture</a><a title="Luv Aj" href="/luv-aj.html">Luv Aj</a><a title="Madison Marcus" href="/madison-marcus.html">Madison Marcus</a><a title="Maggie Ward" href="/maggie-ward.html">Maggie Ward</a><a title="Maiya" href="/maiya.html">Maiya</a><a title="Mara Hoffman" href="/mara-hoffman.html">Mara Hoffman</a><a title="Mara Hoffman Swimwear" href="/mara-hoffman-swimwear.html">Mara Hoffman Swimwear</a><a title="Mark &amp; James by Badgley Mischka" href="/mark-and-james-by-badgley-mischka.html">Mark &amp; James by Badgley Mischka</a><a title="Mark and Estel" href="/mark-and-estel.html">Mark and Estel</a><a title="Mason By Michelle Mason" href="/mason-by-michelle-mason.html">Mason By Michelle Mason</a><a title="Matta Scarves" href="/matta-scarves.html">Matta Scarves</a><a title="Maya Swimwear" href="/maya-swimwear.html">Maya Swimwear</a><a title="Melinda Maria" href="/melinda-maria.html">Melinda Maria</a><a title="melissa shoes" href="/melissa-shoes.html">melissa shoes</a><a title="Michael Lauren " href="/Michael-Lauren+.html">Michael Lauren </a><a title="Mighty Fine" href="/mightyfine.html">Mighty Fine</a><a title="Miguelina" href="/miguelina.html">Miguelina</a><a title="MiH " href="/mih.html">MiH </a><a title="Mikoh" href="/mikoh.html">Mikoh</a><a title="MINKPINK" href="/minkpink.html">MINKPINK</a><a title="Minnetonka" href="/minnetonka.html">Minnetonka</a><a title="Minnie Rose" href="/minnie-rose.html">Minnie Rose</a><a title="Miss Ferriday" href="/miss-ferriday.html">Miss Ferriday</a><a title="Modern Vintage" href="/modern-vintage.html">Modern Vintage</a><a title="Mono &amp; Me" href="/mono-and-me.html">Mono &amp; Me</a><a title="Monrow" href="/monrow.html">Monrow</a><a title="muubaa" href="/muubaa.html">muubaa</a><a title="My Biotiful Bag" href="/my-biotiful-bag.html">My Biotiful Bag</a><a title="Myne" href="/myne.html">Myne</a><a title="Nash " href="/nash.html">Nash </a><a title="Natalie B. Jewelry" href="/natalie-b-jewelry.html">Natalie B. Jewelry</a><a title="Nation LTD" href="/nation-ltd.html">Nation LTD</a><a title="Naven" href="/naven.html">Naven</a><a title="Nepali" href="/nepali.html">Nepali</a><a title="Nightcap Clothing" href="/nightcap-clothing.html">Nightcap Clothing</a><a title="Nonoo" href="/nonoo.html">Nonoo</a><a title="Nudie Jeans" href="/nudie-jeans.html">Nudie Jeans</a><a title="Of Two Minds " href="/of-two-minds.html">Of Two Minds </a><a title="One Five" href="/one-five.html">One Five</a><a title="One Teaspoon " href="/one-teaspoon.html">One Teaspoon </a><a title="Paige Premium Denim" href="/paige-premium-denim.html">Paige Premium Denim</a><a title="Paper Crown" href="/papercrown.html">Paper Crown</a><a title="Parker" href="/parker.html">Parker</a><a title="Parker Beach " href="/parker-beach.html">Parker Beach </a><a title="Paula Bianco" href="/paula-bianco.html">Paula Bianco</a><a title="Pencey" href="/pencey.html">Pencey</a><a title="Pencey Standard" href="/pencey-standard.html">Pencey Standard</a><a title="Plastic Island" href="/plastic-island.html">Plastic Island</a><a title="Pleasure Doing Business" href="/pleasure-doing-business.html">Pleasure Doing Business</a><a title="Plush" href="/plush.html">Plush</a><a title="Pray For Mother Nature" href="/pray-for-mother-nature.html">Pray For Mother Nature</a><a title="Rachel Zoe Footwear" href="/rachel-zoe-footwear.html">Rachel Zoe Footwear</a><a title="Rails" href="/rails1.html">Rails</a><a title="Ramy Brook" href="/ramy-brook.html">Ramy Brook</a><a title="Ray-Ban" href="/ray-ban.html">Ray-Ban</a><a title="Rebecca Minkoff" href="/rebecca-minkoff.html">Rebecca Minkoff</a><a title="Rebecca Taylor" href="/rebecca-taylor.html">Rebecca Taylor</a><a title="Rebel Yell" href="/rebel-yell.html">Rebel Yell</a><a title="Report Signature" href="/report-signature.html">Report Signature</a><a title="Rich and Skinny  " href="/rich-and-skinny.html">Rich and Skinny  </a><a title="RichRocks" href="/richrocks.html">RichRocks</a><a title="Robbi &amp; Nikki" href="/robbiandnikki.html">Robbi &amp; Nikki</a><a title="Robert Rodriguez" href="/robertrodriguez.html">Robert Rodriguez</a><a title="RockStar Denim" href="/rockstar-denim.html">RockStar Denim</a><a title="Rory Beca" href="/rory-beca.html">Rory Beca</a><a title="ROSEGOLD" href="/rosegold.html">ROSEGOLD</a><a title="RumbaTime" href="/rumbatime.html">RumbaTime</a><a title="RUNWAYDREAMZ" href="/runwaydreamz.html">RUNWAYDREAMZ</a><a title="Saivana" href="/saivana.html">Saivana</a><a title="Sam &amp; Lavi " href="/sam-and-lavi.html">Sam &amp; Lavi </a><a title="Sam Edelman" href="/sam-edelman.html">Sam Edelman</a><a title="Sauce" href="/sauce.html">Sauce</a><a title="Schutz" href="/schutz.html">Schutz</a><a title="Selima" href="/selima.html">Selima</a><a title="SENA" href="/sena.html">SENA</a><a title="Seneca Rising" href="/seneca-rising.html">Seneca Rising</a><a title="Senso Diffusion" href="/senso-diffusion.html">Senso Diffusion</a><a title="Shashi" href="/shashi.html">Shashi</a><a title="show me your Mumu" href="/show-me-your-mumu.html">show me your Mumu</a><a title="Simone" href="/simone1.html">Simone</a><a title="SINGER22" href="/singer22.html">SINGER22</a><a title="Siwy" href="/siwy-denim.html">Siwy</a><a title="SMYTHE" href="/smythe.html">SMYTHE</a><a title="Society of LES" href="/society-of-les.html">Society of LES</a><a title="Soixante Neuf" href="/soixante-neuf.html">Soixante Neuf</a><a title="Sol Angeles" href="/sol-angeles.html">Sol Angeles</a><a title="SOLD Design Lab" href="/sold-design-lab.html">SOLD Design Lab</a><a title="Spirit Hoods" href="/spirit-hoods.html">Spirit Hoods</a><a title="Splendid" href="/splendid.html">Splendid</a><a title="Steve Madden" href="/steve-madden.html">Steve Madden</a><a title="STONE_COLD_FOX" href="/stone-cold-fox.html">STONE_COLD_FOX</a><a title="Streets Ahead" href="/streets-ahead.html">Streets Ahead</a><a title="Stretta" href="/stretta.html">Stretta</a><a title="Style Stalker" href="/style-stalker.html">Style Stalker</a><a title="Sugar Bean Jewelry" href="/sugar-bean-jewelry.html">Sugar Bean Jewelry</a><a title="Superga" href="/superga.html">Superga</a><a title="Supra" href="/supra.html">Supra</a><a title="T Bags" href="/t-bags.html">T Bags</a><a title="Tavik Swimwear" href="/tavik-swimwear.html">Tavik Swimwear</a><a title="Testament" href="/testament.html">Testament</a><a title="TEXTILE Elizabeth and James" href="/textileelizabethandjames.html">TEXTILE Elizabeth and James</a><a title="Textile Junkie" href="/textile-junkie.html">Textile Junkie</a><a title="Thayer " href="/thayer.html">Thayer </a><a title="Thayer Beach " href="/thayer-beach.html">Thayer Beach </a><a title="The Battalion" href="/the-battalion.html">The Battalion</a><a title="Theodora &amp; Callum" href="/theodoraandcallum.html">Theodora &amp; Callum</a><a title="Thursday Friday" href="/thursdayfriday.html">Thursday Friday</a><a title="Tibi" href="/tibi.html">Tibi</a><a title="Tiger Lily Jewelry" href="/tiger-lily-jewelry.html">Tiger Lily Jewelry</a><a title="Tkees" href="/tkees.html">Tkees</a><a title="Tolani" href="/tolani.html">Tolani</a><a title="Top Secret" href="/top-secret.html">Top Secret</a><a title="Torn by Ronny Kobo" href="/torn-by-ronny-kobo.html">Torn by Ronny Kobo</a><a title="Totem" href="/totem.html">Totem</a><a title="Treesje" href="/treesje.html">Treesje</a><a title="Twelfth St. by Cynthia Vincent" href="/twelfth-st-by-cynthia-vincent.html">Twelfth St. by Cynthia Vincent</a><a title="Twenty8Twelve by s. miller" href="/twenty8twelve-by-s-miller.html">Twenty8Twelve by s. miller</a><a title="Tylie Malibu" href="/tylie-malibu.html">Tylie Malibu</a><a title="UNIF" href="/unif.html">UNIF</a><a title="Vanessa Mooney" href="/vanessa-mooney.html">Vanessa Mooney</a><a title="VEDA" href="/veda.html">VEDA</a><a title="Vince" href="/vince.html">Vince</a><a title="Vintage1" href="/vintage1.html">Vintage1</a><a title="Vitamin A" href="/vitamin-a.html">Vitamin A</a><a title="Vix Swimwear" href="/vix-swimwear.html">Vix Swimwear</a><a title="Vkoo" href="/vkoo.html">Vkoo</a><a title="We Are Handsome" href="/we-are-handsome.html">We Are Handsome</a><a title="WGACA Vintage" href="/wgaca-vintage.html">WGACA Vintage</a><a title="What Goes Around Comes Around" href="/what-goes-around-comes-around.html">What Goes Around Comes Around</a><a title="Wildfox" href="/wildfox.html">Wildfox</a><a title="WILL Leather Goods" href="/willleathergoods.html">WILL Leather Goods</a><a title="Wilt" href="/wilt.html">Wilt</a><a title="WiNK" href="/wink.html">WiNK</a><a title="Winter Kate" href="/winter-kate.html">Winter Kate</a><a title="WkShp" href="/wkshp.html">WkShp</a><a title="Wm. J. Mills &amp; Co." href="/wmjmills.html">Wm. J. Mills &amp; Co.</a><a title="Woodleigh" href="/woodleigh.html">Woodleigh</a><a title="Work Custom Jeans" href="/work-custom-jeans.html">Work Custom Jeans</a><a title="Wren" href="/wren.html">Wren</a><a title="YARNZ" href="/yarnz.html">YARNZ</a><a title="Yoana Baraschi" href="/yoana-baraschi.html">Yoana Baraschi</a><a title="Yumi Kim" href="/yumi-kim.html">Yumi Kim</a><a title="Zoe Karssen" href="/zoekarssen.html">Zoe Karssen</a>                        </div>
+                                <a title="194t" href="/194t.html">194t</a>
+<a title="6 Shore Road " href="/6-shore-road.html">6 Shore Road </a>
+<a title="6126 by Lindsay Lohan" href="/6126-by-lindsay-lohan.html">6126 by Lindsay Lohan</a>
+<a title="7 For All Mankind" href="/7-for-all-mankind.html">7 For All Mankind</a>
+<a title="Aaron Ashe" href="/aaron-ashe.html">Aaron Ashe</a>
+<a title="Adrienne Landau" href="/adrienne-landau.html">Adrienne Landau</a>
+<a title="AG Adriano Goldschmied" href="/ag-adriano-goldschmied.html">AG Adriano Goldschmied</a>
+<a title="Alexia Admor" href="/alexia-admor.html">Alexia Admor</a>
+<a title="Alexis" href="/alexis.html">Alexis</a>
+<a title="Alice &amp; Trixie" href="/alice-and-trixie.html">Alice &amp; Trixie</a>
+<a title="Alice + Olivia" href="/alice-olivia.html">Alice + Olivia</a>
+<a title="Alice + Olivia Shoes" href="/alice-olivia-shoes.html">Alice + Olivia Shoes</a>
+<a title="Alternative Apparel" href="/alternative-apparel.html">Alternative Apparel</a>
+<a title="Amanda Uprichard" href="/amanda-uprichard.html">Amanda Uprichard</a>
+<a title="American Gold" href="/american-gold.html">American Gold</a>
+<a title="Anda &amp; Masha " href="/anda-and-masha.html">Anda &amp; Masha </a>
+<a title="Ani Lee" href="/ani-lee.html">Ani Lee</a>
+<a title="Anna Kosturova" href="/anna-kosturova.html">Anna Kosturova</a>
+<a title="Arianne Jeannot" href="/arianne-jeannot.html">Arianne Jeannot</a>
+<a title="aro" href="/aro.html">aro</a>
+<a title="As Is" href="/as-is.html">As Is</a>
+<a title="Ash " href="/ash.html">Ash </a>
+<a title="Australia Luxe Collective" href="/australia-luxe-collective.html">Australia Luxe Collective</a>
+<a title="Backstage" href="/backstage.html">Backstage</a>
+<a title="Bec &amp; Bridge" href="/becandbridge.html">Bec &amp; Bridge</a>
+<a title="Belle Noel by Kim Kardashian" href="/belle-noel-by-kim-kardashian.html">Belle Noel by Kim Kardashian</a>
+<a title="Belstaff" href="/belstaff.html">Belstaff</a>
+<a title="Black Halo" href="/black-halo.html">Black Halo</a>
+<a title="Black Orchid" href="/black-orchid.html">Black Orchid</a>
+<a title="Blank NYC" href="/blank-nyc.html">Blank NYC</a>
+<a title="Blaque Label" href="/blaquelabel.html">Blaque Label</a>
+<a title="Bleulab" href="/bleulab.html">Bleulab</a>
+<a title="Blu Moon" href="/blu-moon.html">Blu Moon</a>
+<a title="Blue Life" href="/blue-life.html">Blue Life</a>
+<a title="Bordeaux" href="/bordeauxtanks.html">Bordeaux</a>
+<a title="BOULEE" href="/boulee.html">BOULEE</a>
+<a title="Boyfriend/Girlfriend" href="/boyfriend-girlfriend.html">Boyfriend/Girlfriend</a>
+<a title="Boys + Arrows" href="/boys-and-arrows.html">Boys + Arrows</a>
+<a title="Brian Lichtenberg" href="/brian-lichtenberg.html">Brian Lichtenberg</a>
+<a title="Brokedown" href="/brokedown.html">Brokedown</a>
+<a title="BSABLE" href="/bsable.html">BSABLE</a>
+<a title="Burkman Bros" href="/burkman-bros.html">Burkman Bros</a>
+<a title="Butik" href="/butik.html">Butik</a>
+<a title="By Chance" href="/by-chance.html">By Chance</a>
+<a title="C Solnicki / Sisters Solnicki" href="/c-solnicki-sisters-solnicki.html">C Solnicki / Sisters Solnicki</a>
+<a title="c.r.a.f.t" href="/c-r-a-f-t.html">c.r.a.f.t</a>
+<a title="Cameo" href="/cameoau.html">Cameo</a>
+<a title="Camilla" href="/camilla-.html">Camilla</a>
+<a title="camilla and marc" href="/camilla-and-marc.html">camilla and marc</a>
+<a title="Carol Marie " href="/carol-marie.html">Carol Marie </a>
+<a title="CC Skye" href="/cc-skye.html">CC Skye</a>
+<a title="Chan Luu" href="/chanluu.html">Chan Luu</a>
+<a title="Charley 5.0" href="/charley-5-0.html">Charley 5.0</a>
+<a title="Charlie by Matthew Zink" href="/charlie-by-matthew-zink.html">Charlie by Matthew Zink</a>
+<a title="Charlie Jade" href="/charliejade.html">Charlie Jade</a>
+<a title="Chaser " href="/chaser.html">Chaser </a>
+<a title="Chelsea Flower" href="/chelsea-flower.html">Chelsea Flower</a>
+<a title="Chick With Guns" href="/chick-with-guns.html">Chick With Guns</a>
+<a title="Christy's Hats" href="/christys-hats.html">Christy's Hats</a>
+<a title="Cia.Maritima" href="/ciamaritima.html">Cia.Maritima</a>
+<a title="Citizens of Humanity" href="/citizens-of-humanity.html">Citizens of Humanity</a>
+<a title="Cleobella" href="/cleobella.html">Cleobella</a>
+<a title="Clover Canyon" href="/clover-canyon.html">Clover Canyon</a>
+<a title="Coal" href="/coal.html">Coal</a>
+<a title="Commando Underwear" href="/commandounderwear.html">Commando Underwear</a>
+<a title="Contrarian" href="/contrarian.html">Contrarian</a>
+<a title="Current/Elliott" href="/current-elliott.html">Current/Elliott</a>
+<a title="Cut 25" href="/cut-25.html">Cut 25</a>
+<a title="Cut n' Paste" href="/cut-n-paste.html">Cut n' Paste</a>
+<a title="Cynthia Dugan" href="/cynthia-dugan.html">Cynthia Dugan</a>
+<a title="Daftbird" href="/daftbird.html">Daftbird</a>
+<a title="Dannijo" href="/dannijo.html">Dannijo</a>
+<a title="Daughters of the Revolution" href="/daughters-of-the-revolution.html">Daughters of the Revolution</a>
+<a title="Dav" href="/dav.html">Dav</a>
+<a title="David Lerner" href="/david-lerner.html">David Lerner</a>
+<a title="Decades Denim " href="/decades-denim.html">Decades Denim </a>
+<a title="Devora Libin Jewels" href="/devora-libin-jewels.html">Devora Libin Jewels</a>
+<a title="Dolce Vita" href="/dolce-vita.html">Dolce Vita</a>
+<a title="Doma" href="/doma.html">Doma</a>
+<a title="Donna Mizani" href="/donna-mizani.html">Donna Mizani</a>
+<a title="Dr. Martens" href="/dr-martens.html">Dr. Martens</a>
+<a title="Elizabeth and James" href="/elizabeth-and-james.html">Elizabeth and James</a>
+<a title="Elizabeth and James Shoes" href="/elizabeth-and-james-shoes.html">Elizabeth and James Shoes</a>
+<a title="Elizabeth and James Sunglasses" href="/elizabethandjamessunglasses.html">Elizabeth and James Sunglasses</a>
+<a title="ELS" href="/els.html">ELS</a>
+<a title="Ember Skye" href="/ember-skye.html">Ember Skye</a>
+<a title="Emerson Thorpe" href="/emerson-thorpe.html">Emerson Thorpe</a>
+<a title="Emily Cho" href="/emily-cho.html">Emily Cho</a>
+<a title="Enza Costa" href="/enza-costa.html">Enza Costa</a>
+<a title="Equipment" href="/equipment.html">Equipment</a>
+<a title="Eternal Sunshine Creations" href="/eternal-sunshine-creations.html">Eternal Sunshine Creations</a>
+<a title="Etre" href="/etre.html">Etre</a>
+<a title="Eugenia Kim" href="/eugenia-kim.html">Eugenia Kim</a>
+<a title="ever" href="/ever.html">ever</a>
+<a title="EVIL TWIN" href="/evil-twin.html">EVIL TWIN</a>
+<a title="Factory by Erik Hart" href="/factory-by-erik-hart.html">Factory by Erik Hart</a>
+<a title="Feel The Piece" href="/feel-the-piece.html">Feel The Piece</a>
+<a title="Finders Keepers" href="/finders-keepers.html">Finders Keepers</a>
+<a title="For Love &amp; Lemons" href="/for-love-and-lemons.html">For Love &amp; Lemons</a>
+<a title="Free People" href="/free-people.html">Free People</a>
+<a title="FRYE" href="/frye.html">FRYE</a>
+<a title="Gemma" href="/gemma.html">Gemma</a>
+<a title="Generation Love" href="/generation-love.html">Generation Love</a>
+<a title="Genetic Denim" href="/genetic-denim.html">Genetic Denim</a>
+<a title="GEORGIE" href="/georgie.html">GEORGIE</a>
+<a title="Girls We Hated In High School Handbags by Jeffrey Campbell" href="/girlswehatedinhighschool.html">Girls We Hated In High School Handbags by Jeffrey Campbell</a>
+<a title="glamROK" href="/glam-rok.html">glamROK</a>
+<a title="Goddis" href="/goddis.html">Goddis</a>
+<a title="Gold Hawk" href="/gold-hawk.html">Gold Hawk</a>
+<a title="Gold Saturn" href="/gold-saturn.html">Gold Saturn</a>
+<a title="Goldsign" href="/goldsign.html">Goldsign</a>
+<a title="Gryphon" href="/gryphon.html">Gryphon</a>
+<a title="Gypsy 05" href="/gypsy-05.html">Gypsy 05</a>
+<a title="Gypsy Junkies" href="/gypsyjunkies.html">Gypsy Junkies</a>
+<a title="Halston Heritage" href="/halston-heritage.html">Halston Heritage</a>
+<a title="Haute Hippie" href="/haute-hippie.html">Haute Hippie</a>
+<a title="House of Harlow 1960" href="/house-of-harlow-1960.html">House of Harlow 1960</a>
+<a title="House of Harlow 1960 Handbags" href="/houseofharlow1960handbags.html">House of Harlow 1960 Handbags</a>
+<a title="House of Harlow 1960 Sunglasses" href="/house-of-harlow-1960-sunglasses.html">House of Harlow 1960 Sunglasses</a>
+<a title="incase" href="/incase.html">incase</a>
+<a title="Insight" href="/insight.html">Insight</a>
+<a title="Iro" href="/iro.html">Iro</a>
+<a title="J Brand" href="/j-brand.html">J Brand</a>
+<a title="Jagger Edge" href="/jagger-edge.html">Jagger Edge</a>
+<a title="James Jeans" href="/james-jeans.html">James Jeans</a>
+<a title="Jay Godfrey" href="/jay-godfrey.html">Jay Godfrey</a>
+<a title="Jeffrey Campbell" href="/jeffrey-campbell.html">Jeffrey Campbell</a>
+<a title="Jen's Pirate Booty" href="/jen-s-pirate-booty.html">Jen's Pirate Booty</a>
+<a title="Jennifer Haley" href="/jenniferhaley.html">Jennifer Haley</a>
+<a title="Jennifer Zeuner" href="/jennifer-zeuner.html">Jennifer Zeuner</a>
+<a title="Jet by John Eshaya" href="/jet-by-john-eshaya.html">Jet by John Eshaya</a>
+<a title="JEUNESSE" href="/jeunesse.html">JEUNESSE</a>
+<a title="JJ Winters" href="/jj-winters.html">JJ Winters</a>
+<a title="Joe's Jeans" href="/joes-jeans.html.html">Joe's Jeans</a>
+<a title="Joie" href="/joie.html">Joie</a>
+<a title="Joie A La Plage" href="/joie-a-la-plage.html">Joie A La Plage</a>
+<a title="Jonathan Cheban JETSET for RichRocks" href="/jonathanchebanjetsetforrichrocks.html">Jonathan Cheban JETSET for RichRocks</a>
+<a title="Jonathan Simkhai" href="/jonathan-simkhai.html">Jonathan Simkhai</a>
+<a title="Juliette Jake" href="/juliette-jake.html">Juliette Jake</a>
+<a title="K Walker" href="/k-walker.html">K Walker</a>
+<a title="KAiN Label" href="/kain-label.html">KAiN Label</a>
+<a title="Keepsake" href="/keepsake.html">Keepsake</a>
+<a title="Kenny" href="/kenny.html">Kenny</a>
+<a title="Kettle Black" href="/kettle-black.html">Kettle Black</a>
+<a title="Kimberly Taylor" href="/kimberly-taylor.html">Kimberly Taylor</a>
+<a title="Kings Of Cole" href="/kings-of-cole.html">Kings Of Cole</a>
+<a title="koolaburra" href="/koolaburra.html">koolaburra</a>
+<a title="Krisa" href="/krisa.html">Krisa</a>
+<a title="L*Space" href="/l-space.html">L*Space</a>
+<a title="La Fee Verte" href="/lafeeverte.html">La Fee Verte</a>
+<a title="La La Land" href="/lala-land.html">La La Land</a>
+<a title="Ladakh" href="/ladakh.html">Ladakh</a>
+<a title="Lauren Moshi" href="/lauren-moshi.html">Lauren Moshi</a>
+<a title="Leyendecker" href="/leyendecker.html">Leyendecker</a>
+<a title="Line" href="/line.html">Line</a>
+<a title="Linea Pelle" href="/linea-pelle.html">Linea Pelle</a>
+<a title="LnA" href="/lna.html">LnA</a>
+<a title="Local Celebrity" href="/local-celebrity.html">Local Celebrity</a>
+<a title="Love Child" href="/lovechild.html">Love Child</a>
+<a title="Love Heals Jewelry" href="/love-heals-jewelry.html">Love Heals Jewelry</a>
+<a title="Love Quotes" href="/love-quotes.html">Love Quotes</a>
+<a title="Love Sam" href="/love-sam.html">Love Sam</a>
+<a title="Lovely Bird" href="/lovely-bird.html">Lovely Bird</a>
+<a title="lovers + friends" href="/lovers-friends.html">lovers + friends</a>
+<a title="Low Luv x Erin Wasson" href="/low-luv-x-erin-wasson.html">Low Luv x Erin Wasson</a>
+<a title="Lucca Couture" href="/luccacouture.html">Lucca Couture</a>
+<a title="Luv Aj" href="/luv-aj.html">Luv Aj</a>
+<a title="m2f" href="/m2f.html">m2f</a>
+<a title="Madison Marcus" href="/madison-marcus.html">Madison Marcus</a>
+<a title="Maggie Ward" href="/maggie-ward.html">Maggie Ward</a>
+<a title="Mara Hoffman" href="/mara-hoffman.html">Mara Hoffman</a>
+<a title="Mara Hoffman Swimwear" href="/mara-hoffman-swimwear.html">Mara Hoffman Swimwear</a>
+<a title="Mark &amp; James by Badgley Mischka" href="/mark-and-james-by-badgley-mischka.html">Mark &amp; James by Badgley Mischka</a>
+<a title="Mark and Estel" href="/mark-and-estel.html">Mark and Estel</a>
+<a title="Mason By Michelle Mason" href="/mason-by-michelle-mason.html">Mason By Michelle Mason</a>
+<a title="Matta Scarves" href="/matta-scarves.html">Matta Scarves</a>
+<a title="Maya Swimwear" href="/maya-swimwear.html">Maya Swimwear</a>
+<a title="Melinda Maria" href="/melinda-maria.html">Melinda Maria</a>
+<a title="Michael Lauren " href="/Michael-Lauren+.html">Michael Lauren </a>
+<a title="Mighty Fine" href="/mightyfine.html">Mighty Fine</a>
+<a title="MiH " href="/mih.html">MiH </a>
+<a title="Mikoh" href="/mikoh.html">Mikoh</a>
+<a title="MINKPINK" href="/minkpink.html">MINKPINK</a>
+<a title="Minnetonka" href="/minnetonka.html">Minnetonka</a>
+<a title="Minnie Rose" href="/minnie-rose.html">Minnie Rose</a>
+<a title="Miss Ferriday" href="/miss-ferriday.html">Miss Ferriday</a>
+<a title="Modern Vintage" href="/modern-vintage.html">Modern Vintage</a>
+<a title="Mono &amp; Me" href="/mono-and-me.html">Mono &amp; Me</a>
+<a title="Monrow" href="/monrow.html">Monrow</a>
+<a title="Motel Rocks" href="/motel-rocks.html">Motel Rocks</a>
+<a title="muubaa" href="/muubaa.html">muubaa</a>
+<a title="My Biotiful Bag" href="/my-biotiful-bag.html">My Biotiful Bag</a>
+<a title="Myne" href="/myne.html">Myne</a>
+<a title="Nash " href="/nash.html">Nash </a>
+<a title="Natalie B. Jewelry" href="/natalie-b-jewelry.html">Natalie B. Jewelry</a>
+<a title="Nation LTD" href="/nation-ltd.html">Nation LTD</a>
+<a title="Naven" href="/naven.html">Naven</a>
+<a title="Nepali" href="/nepali.html">Nepali</a>
+<a title="Nightcap Clothing" href="/nightcap-clothing.html">Nightcap Clothing</a>
+<a title="Nonoo" href="/nonoo.html">Nonoo</a>
+<a title="Of Two Minds " href="/of-two-minds.html">Of Two Minds </a>
+<a title="One Teaspoon " href="/one-teaspoon.html">One Teaspoon </a>
+<a title="Paige Premium Denim" href="/paige-premium-denim.html">Paige Premium Denim</a>
+<a title="Paper Crown" href="/papercrown.html">Paper Crown</a>
+<a title="Parker" href="/parker.html">Parker</a>
+<a title="Parker Beach " href="/parker-beach.html">Parker Beach </a>
+<a title="Paula Bianco" href="/paula-bianco.html">Paula Bianco</a>
+<a title="Pencey" href="/pencey.html">Pencey</a>
+<a title="Pencey Standard" href="/pencey-standard.html">Pencey Standard</a>
+<a title="Penelope and Coco" href="/penelope-and-coco.html">Penelope and Coco</a>
+<a title="Persol" href="/persol.html">Persol</a>
+<a title="Plastic Island" href="/plastic-island.html">Plastic Island</a>
+<a title="Pleasure Doing Business" href="/pleasure-doing-business.html">Pleasure Doing Business</a>
+<a title="Plush" href="/plush.html">Plush</a>
+<a title="Pray For Mother Nature" href="/pray-for-mother-nature.html">Pray For Mother Nature</a>
+<a title="Rachel Zoe Footwear" href="/rachel-zoe-footwear.html">Rachel Zoe Footwear</a>
+<a title="Rag &amp; Bone/JEAN" href="/rag-%26-bone-jean.html">Rag &amp; Bone/JEAN</a>
+<a title="Rails" href="/rails1.html">Rails</a>
+<a title="Ramy Brook" href="/ramy-brook.html">Ramy Brook</a>
+<a title="Ray-Ban" href="/ray-ban.html">Ray-Ban</a>
+<a title="Rebecca Minkoff" href="/rebecca-minkoff.html">Rebecca Minkoff</a>
+<a title="Rebecca Taylor" href="/rebecca-taylor.html">Rebecca Taylor</a>
+<a title="Rebel Yell" href="/rebel-yell.html">Rebel Yell</a>
+<a title="REVERSE" href="/reverse.html">REVERSE</a>
+<a title="Rich and Skinny  " href="/rich-and-skinny.html">Rich and Skinny  </a>
+<a title="RichRocks" href="/richrocks.html">RichRocks</a>
+<a title="Robbi &amp; Nikki" href="/robbiandnikki.html">Robbi &amp; Nikki</a>
+<a title="Robert Rodriguez" href="/robertrodriguez.html">Robert Rodriguez</a>
+<a title="RockStar Denim" href="/rockstar-denim.html">RockStar Denim</a>
+<a title="Rory Beca" href="/rory-beca.html">Rory Beca</a>
+<a title="RumbaTime" href="/rumbatime.html">RumbaTime</a>
+<a title="RUNWAYDREAMZ" href="/runwaydreamz.html">RUNWAYDREAMZ</a>
+<a title="Saivana" href="/saivana.html">Saivana</a>
+<a title="Sam &amp; Lavi " href="/sam-and-lavi.html">Sam &amp; Lavi </a>
+<a title="Sam Edelman" href="/sam-edelman.html">Sam Edelman</a>
+<a title="Samanca Jewelry" href="/samanca-jewelry.html">Samanca Jewelry</a>
+<a title="Sandra Weil" href="/sandra-weil.html">Sandra Weil</a>
+<a title="Sauce" href="/sauce.html">Sauce</a>
+<a title="Schutz" href="/schutz.html">Schutz</a>
+<a title="Selima" href="/selima.html">Selima</a>
+<a title="SENA" href="/sena.html">SENA</a>
+<a title="Seneca Rising" href="/seneca-rising.html">Seneca Rising</a>
+<a title="Senso Diffusion" href="/senso-diffusion.html">Senso Diffusion</a>
+<a title="Shashi" href="/shashi.html">Shashi</a>
+<a title="show me your Mumu" href="/show-me-your-mumu.html">show me your Mumu</a>
+<a title="Simone" href="/simone1.html">Simone</a>
+<a title="SINGER22" href="/singer22.html">SINGER22</a>
+<a title="Siwy" href="/siwy-denim.html">Siwy</a>
+<a title="SMYTHE" href="/smythe.html">SMYTHE</a>
+<a title="Soixante Neuf" href="/soixante-neuf.html">Soixante Neuf</a>
+<a title="SOLD Design Lab" href="/sold-design-lab.html">SOLD Design Lab</a>
+<a title="Someday's Lovin" href="/somedays-lovin.html">Someday's Lovin</a>
+<a title="Spirit Hoods" href="/spirit-hoods.html">Spirit Hoods</a>
+<a title="Splendid" href="/splendid.html">Splendid</a>
+<a title="Steve Madden" href="/steve-madden.html">Steve Madden</a>
+<a title="STONE_COLD_FOX" href="/stone-cold-fox.html">STONE_COLD_FOX</a>
+<a title="Streets Ahead" href="/streets-ahead.html">Streets Ahead</a>
+<a title="Stretta" href="/stretta.html">Stretta</a>
+<a title="Style Stalker" href="/style-stalker.html">Style Stalker</a>
+<a title="Sugar Bean Jewelry" href="/sugar-bean-jewelry.html">Sugar Bean Jewelry</a>
+<a title="Sunner" href="/sunner.html">Sunner</a>
+<a title="Superga" href="/superga.html">Superga</a>
+<a title="Supra" href="/supra.html">Supra</a>
+<a title="T Bags" href="/t-bags.html">T Bags</a>
+<a title="Tavik Swimwear" href="/tavik-swimwear.html">Tavik Swimwear</a>
+<a title="TEXTILE Elizabeth and James" href="/textileelizabethandjames.html">TEXTILE Elizabeth and James</a>
+<a title="Textile Junkie" href="/textile-junkie.html">Textile Junkie</a>
+<a title="Thayer " href="/thayer.html">Thayer </a>
+<a title="Thayer Beach " href="/thayer-beach.html">Thayer Beach </a>
+<a title="The Battalion" href="/the-battalion.html">The Battalion</a>
+<a title="Theodora &amp; Callum" href="/theodoraandcallum.html">Theodora &amp; Callum</a>
+<a title="Thursday Friday" href="/thursdayfriday.html">Thursday Friday</a>
+<a title="Tibi" href="/tibi.html">Tibi</a>
+<a title="Tiger Lily Jewelry" href="/tiger-lily-jewelry.html">Tiger Lily Jewelry</a>
+<a title="Tkees" href="/tkees.html">Tkees</a>
+<a title="Tolani" href="/tolani.html">Tolani</a>
+<a title="Top Secret" href="/top-secret.html">Top Secret</a>
+<a title="Torn by Ronny Kobo" href="/torn-by-ronny-kobo.html">Torn by Ronny Kobo</a>
+<a title="Totem" href="/totem.html">Totem</a>
+<a title="Treesje" href="/treesje.html">Treesje</a>
+<a title="Twelfth St. by Cynthia Vincent" href="/twelfth-st-by-cynthia-vincent.html">Twelfth St. by Cynthia Vincent</a>
+<a title="Twelfth St. by Cynthia Vincent Shoes" href="/twelfthstbycynthiavincentshoes.html">Twelfth St. by Cynthia Vincent Shoes</a>
+<a title="Twenty8Twelve by s. miller" href="/twenty8twelve-by-s-miller.html">Twenty8Twelve by s. miller</a>
+<a title="Tylie Malibu" href="/tylie-malibu.html">Tylie Malibu</a>
+<a title="UNIF" href="/unif.html">UNIF</a>
+<a title="Vanessa Mooney" href="/vanessa-mooney.html">Vanessa Mooney</a>
+<a title="VEDA" href="/veda.html">VEDA</a>
+<a title="Vince" href="/vince.html">Vince</a>
+<a title="Vintage1" href="/vintage1.html">Vintage1</a>
+<a title="Vitamin A" href="/vitamin-a.html">Vitamin A</a>
+<a title="Vix Swimwear" href="/vix-swimwear.html">Vix Swimwear</a>
+<a title="Vkoo" href="/vkoo.html">Vkoo</a>
+<a title="Washborn" href="/washborn.html">Washborn</a>
+<a title="We Are Handsome" href="/we-are-handsome.html">We Are Handsome</a>
+<a title="WGACA Vintage" href="/wgaca-vintage.html">WGACA Vintage</a>
+<a title="What Goes Around Comes Around" href="/what-goes-around-comes-around.html">What Goes Around Comes Around</a>
+<a title="Whetherly" href="/whetherly.html">Whetherly</a>
+<a title="Wildfox" href="/wildfox.html">Wildfox</a>
+<a title="WILL Leather Goods" href="/willleathergoods.html">WILL Leather Goods</a>
+<a title="Wilt" href="/wilt.html">Wilt</a>
+<a title="WiNK" href="/wink.html">WiNK</a>
+<a title="Winter Kate" href="/winter-kate.html">Winter Kate</a>
+<a title="WkShp" href="/wkshp.html">WkShp</a>
+<a title="Wm. J. Mills &amp; Co." href="/wmjmills.html">Wm. J. Mills &amp; Co.</a>
+<a title="Woodleigh" href="/woodleigh.html">Woodleigh</a>
+<a title="Work Custom Jeans" href="/work-custom-jeans.html">Work Custom Jeans</a>
+<a title="Wren" href="/wren.html">Wren</a>
+<a title="YARNZ" href="/yarnz.html">YARNZ</a>
+<a title="Yoana Baraschi" href="/yoana-baraschi.html">Yoana Baraschi</a>
+<a title="Yosi Samra" href="/yosi-samra.html">Yosi Samra</a>
+<a title="Yumi Kim" href="/yumi-kim.html">Yumi Kim</a>
+<a title="Zimmerman" href="/zimmerman.html">Zimmerman</a>
+<a title="Zoe Karssen" href="/zoekarssen.html">Zoe Karssen</a>
+                        </div>
                     </div>
                 </div>
 
                 <div id="lnavcont2" class="l27a4 l27h1 categoryitems">
                     <div class="ciIn">
                         <div class="ciIn1">
-                        <a href="/whatsnew.html" title="What's New">What's New</a><a href="/celebritypicks.html" title="Celebrity Picks">Celebrity Picks</a><a href="/acrobat.html" title="Sale Up to 90% Off">Sale Up to 90% Off</a><a href="/500-dollars-shopping-spree.html" title="$500 SHOPPING SPREE">$500 SHOPPING SPREE</a><a href="/top10.html" title="Top 10 List">Top 10 List</a><a href="/gift-guide-womens.html" title="Gift Guide">Gift Guide</a><a href="/top100.html" title="Best Sellers">Best Sellers</a><a href="/backinstock.html" title="Back In Stock">Back In Stock</a>                            <img src="http://images.singer22.com/static/singer22/images/cel-line1.gif" width="135" height="12" alt="">
-                            <a title="Alessandra Ambrosio" href="/alessandraamb.html">Alessandra Ambrosio</a><a title="Annalynne McCord" href="/annalynne-mccord.html">Annalynne McCord</a><a title="Ashlee Simpson" href="/ashleesimpson.html">Ashlee Simpson</a><a title="Ashley Greene" href="/ashley-greene.html">Ashley Greene</a><a title="Ashley Tisdale" href="/ashley-tisdale.html">Ashley Tisdale</a><a title="Audrina Patridge" href="/audrina-patridge.html">Audrina Patridge</a><a title="Beyonce" href="/beyonce.html">Beyonce</a><a title="Blake Lively" href="/blake-lively.html">Blake Lively</a><a title="Cameron Diaz " href="/cameron-diaz.html">Cameron Diaz </a><a title="Catt Sadler" href="/cattsadler.html">Catt Sadler</a><a title="Charlize Theron" href="/charlize-theron.html">Charlize Theron</a><a title="Cheryl Cole" href="/cherylcole.html">Cheryl Cole</a><a title="Drew Barrymore" href="/drewbarrymore.html">Drew Barrymore</a><a title="Emmanuelle Chriqui" href="/emanuellechriqui.html">Emmanuelle Chriqui</a><a title="Gwyneth Paltrow" href="/gwyneth-paltrow.html">Gwyneth Paltrow</a><a title="Halle Berry " href="/halle-berry.html">Halle Berry </a><a title="Hayden Panettiere" href="/haydenpanettiere.html">Hayden Panettiere</a><a title="Hilary Duff" href="/hillaryduff.html">Hilary Duff</a><a title="Jenna Dewan-Tatum" href="/jennadewantatum.html">Jenna Dewan-Tatum</a><a title="Jennifer Aniston" href="/jennifer-aniston.html">Jennifer Aniston</a><a title="Jessica Simpson" href="/jessicasimpson.html">Jessica Simpson</a><a title="Kardashian Style" href="/kimkardashian.html">Kardashian Style</a><a title="Kate Beckinsale" href="/kate-beckinsale.html">Kate Beckinsale</a><a title="Kate Bosworth" href="/kate-bosworth.html">Kate Bosworth</a><a title="Kate Hudson" href="/kate-hudson.html">Kate Hudson</a><a title="Kate Moss" href="/katemoss.html">Kate Moss</a><a title="Katie Holmes" href="/katie-holmes.html">Katie Holmes</a><a title="Kristen Stewart" href="/kristen-stewart.html">Kristen Stewart</a><a title="Kristin Cavallari" href="/kristincavallari.html">Kristin Cavallari</a><a title="Lauren Conrad" href="/laurenconrad.html">Lauren Conrad</a><a title="Leann Rimes" href="/leannrimes.html">Leann Rimes</a><a title="Leighton Meester" href="/leighton-meister.html">Leighton Meester</a><a title="Lindsay Lohan" href="/lindsaylohan.html">Lindsay Lohan</a><a title="Lo Bosworth " href="/lo-bosworth.html">Lo Bosworth </a><a title="MaryKate &amp; Ashley Olsen" href="/olsen.html">MaryKate &amp; Ashley Olsen</a><a title="Megan Fox" href="/meganfox.html">Megan Fox</a><a title="Miley Cyrus" href="/miley-cyrus.html">Miley Cyrus</a><a title="Minka Kelly" href="/minkakelly.html">Minka Kelly</a><a title="Nicky Hilton" href="/nickyhilton.html">Nicky Hilton</a><a title="Nicole Richie" href="/nicolerichie.html">Nicole Richie</a><a title="Olivia Palermo" href="/oliviapalermo.html">Olivia Palermo</a><a title="Paris Hilton" href="/parishilton.html">Paris Hilton</a><a title="Rachel Bilson" href="/rachelbilson.html">Rachel Bilson</a><a title="Rachel Zoe" href="/rachel-zoe.html">Rachel Zoe</a><a title="Rihanna" href="/rihanna.html">Rihanna</a><a title="Rosie Huntington-Whiteley" href="/rosiehuntingtonwhiteley.html">Rosie Huntington-Whiteley</a><a title="Sarah Jessica Parker " href="/sarah-jessica-parker.html">Sarah Jessica Parker </a><a title="Selena Gomez" href="/selena-gomez.html">Selena Gomez</a><a title="Shenae Grimes" href="/shenaegrimes.html">Shenae Grimes</a><a title="Sienna Miller" href="/siennamiller.html">Sienna Miller</a><a title="Stephanie Pratt" href="/stephanie-pratt.html">Stephanie Pratt</a><a title="Taylor Swift" href="/taylor-swift.html">Taylor Swift</a><a title="Vanessa Hudgens" href="/vanessahudgens.html">Vanessa Hudgens</a><a title="Vanessa Minnillo" href="/vanessaminillo.html">Vanessa Minnillo</a><a title="Victoria Beckham" href="/victoriabekham.html">Victoria Beckham</a><a title="Whitney Port" href="/whitneyport.html">Whitney Port</a>                        </div>
+                        <a href="/whatsnew.html" title="What's New">What's New</a><a href="/celebritypicks.html" title="Celebrity Picks">Celebrity Picks</a><a href="/acrobat.html" title="Sale Up to 90% Off">Sale Up to 90% Off</a><a href="/top10.html" title="Top 10 List">Top 10 List</a><a href="/gift-guide-womens.html" title="Gift Guide">Gift Guide</a><a href="/giftguidemen.html" title="Gift Guide for Guys">Gift Guide for Guys</a><a href="/top100.html" title="Best Sellers">Best Sellers</a><a href="/backinstock.html" title="Back In Stock">Back In Stock</a><div style="border:none;height:12px">
+                                <img src="http://images.singer22.com/static/singer22/images/cel-line1.gif" width="135" height="12" alt="" style="border:0">
+                     </div>
+                     <a style="white-space:nowrap;" href="/pinterest/" title="S22 pinterest">S22 pinterest</a>
+                     <a style="white-space:nowrap;" href="/who-wore-it-best/" title="Who wore it best ?">Who wore it best?</a>                         
+                             <a style="white-space:nowrap;" href="/pick-the-best-look/" title="Pick the best look">Pick the best look</a>
+                                 <a style="white-space:nowrap;" href="/500-dollars-shopping-spree.html" title="$500 shopping spree">$500 shopping spree</a>                            
+                            <img src="http://images.singer22.com/static/singer22/images/cel-line1.gif" width="135" height="12" alt="">
+                            <a title="Alessandra Ambrosio" href="/alessandraamb.html">Alessandra Ambrosio</a>
+<a title="Annalynne McCord" href="/annalynne-mccord.html">Annalynne McCord</a>
+<a title="Ashlee Simpson" href="/ashleesimpson.html">Ashlee Simpson</a>
+<a title="Ashley Greene" href="/ashley-greene.html">Ashley Greene</a>
+<a title="Ashley Tisdale" href="/ashley-tisdale.html">Ashley Tisdale</a>
+<a title="Audrina Patridge" href="/audrina-patridge.html">Audrina Patridge</a>
+<a title="Beyonce" href="/beyonce.html">Beyonce</a>
+<a title="Blake Lively" href="/blake-lively.html">Blake Lively</a>
+<a title="Cameron Diaz " href="/cameron-diaz.html">Cameron Diaz </a>
+<a title="Catt Sadler" href="/cattsadler.html">Catt Sadler</a>
+<a title="Charlize Theron" href="/charlize-theron.html">Charlize Theron</a>
+<a title="Cheryl Cole" href="/cherylcole.html">Cheryl Cole</a>
+<a title="Drew Barrymore" href="/drewbarrymore.html">Drew Barrymore</a>
+<a title="Emmanuelle Chriqui" href="/emanuellechriqui.html">Emmanuelle Chriqui</a>
+<a title="Gwyneth Paltrow" href="/gwyneth-paltrow.html">Gwyneth Paltrow</a>
+<a title="Halle Berry " href="/halle-berry.html">Halle Berry </a>
+<a title="Hayden Panettiere" href="/haydenpanettiere.html">Hayden Panettiere</a>
+<a title="Hilary Duff" href="/hillaryduff.html">Hilary Duff</a>
+<a title="Jenna Dewan-Tatum" href="/jennadewantatum.html">Jenna Dewan-Tatum</a>
+<a title="Jennifer Aniston" href="/jennifer-aniston.html">Jennifer Aniston</a>
+<a title="Jessica Simpson" href="/jessicasimpson.html">Jessica Simpson</a>
+<a title="Kardashian Style" href="/kimkardashian.html">Kardashian Style</a>
+<a title="Kate Beckinsale" href="/kate-beckinsale.html">Kate Beckinsale</a>
+<a title="Kate Bosworth" href="/kate-bosworth.html">Kate Bosworth</a>
+<a title="Kate Hudson" href="/kate-hudson.html">Kate Hudson</a>
+<a title="Kate Moss" href="/katemoss.html">Kate Moss</a>
+<a title="Katie Holmes" href="/katie-holmes.html">Katie Holmes</a>
+<a title="Kristen Stewart" href="/kristen-stewart.html">Kristen Stewart</a>
+<a title="Kristin Cavallari" href="/kristincavallari.html">Kristin Cavallari</a>
+<a title="Lauren Conrad" href="/laurenconrad.html">Lauren Conrad</a>
+<a title="Leann Rimes" href="/leannrimes.html">Leann Rimes</a>
+<a title="Leighton Meester" href="/leighton-meister.html">Leighton Meester</a>
+<a title="Lindsay Lohan" href="/lindsaylohan.html">Lindsay Lohan</a>
+<a title="MaryKate &amp; Ashley Olsen" href="/olsen.html">MaryKate &amp; Ashley Olsen</a>
+<a title="Megan Fox" href="/meganfox.html">Megan Fox</a>
+<a title="Miley Cyrus" href="/miley-cyrus.html">Miley Cyrus</a>
+<a title="Minka Kelly" href="/minkakelly.html">Minka Kelly</a>
+<a title="Nicky Hilton" href="/nickyhilton.html">Nicky Hilton</a>
+<a title="Nicole Richie" href="/nicolerichie.html">Nicole Richie</a>
+<a title="Olivia Palermo" href="/oliviapalermo.html">Olivia Palermo</a>
+<a title="Paris Hilton" href="/parishilton.html">Paris Hilton</a>
+<a title="Rachel Bilson" href="/rachelbilson.html">Rachel Bilson</a>
+<a title="Rachel Zoe" href="/rachel-zoe.html">Rachel Zoe</a>
+<a title="Rihanna" href="/rihanna.html">Rihanna</a>
+<a title="Rosie Huntington-Whiteley" href="/rosiehuntingtonwhiteley.html">Rosie Huntington-Whiteley</a>
+<a title="Sarah Jessica Parker " href="/sarah-jessica-parker.html">Sarah Jessica Parker </a>
+<a title="Shenae Grimes" href="/shenaegrimes.html">Shenae Grimes</a>
+<a title="Sienna Miller" href="/siennamiller.html">Sienna Miller</a>
+<a title="Stephanie Pratt" href="/stephanie-pratt.html">Stephanie Pratt</a>
+<a title="Taylor Swift" href="/taylor-swift.html">Taylor Swift</a>
+<a title="Vanessa Hudgens" href="/vanessahudgens.html">Vanessa Hudgens</a>
+<a title="Vanessa Minnillo" href="/vanessaminillo.html">Vanessa Minnillo</a>
+<a title="Victoria Beckham" href="/victoriabekham.html">Victoria Beckham</a>
+<a title="Whitney Port" href="/whitneyport.html">Whitney Port</a>
+                        </div>
                     </div>
                 </div>
 
                 <div id="lnavcont3" class="l27a4 l27h1 categoryitems">
                     <div class="ciIn">
                         <div class="ciIn1">
-                        <a href="/whatsnew.html" title="What's New">What's New</a><a href="/celebritypicks.html" title="Celebrity Picks">Celebrity Picks</a><a href="/acrobat.html" title="Sale Up to 90% Off">Sale Up to 90% Off</a><a href="/500-dollars-shopping-spree.html" title="$500 SHOPPING SPREE">$500 SHOPPING SPREE</a><a href="/top10.html" title="Top 10 List">Top 10 List</a><a href="/gift-guide-womens.html" title="Gift Guide">Gift Guide</a><a href="/top100.html" title="Best Sellers">Best Sellers</a><a href="/backinstock.html" title="Back In Stock">Back In Stock</a>                            <img src="http://images.singer22.com/static/singer22/images/cel-line1.gif" width="135" height="12" alt="">
-                            <a id="_accessories" title="Accessories" href="/accessories.html">Accessories</a><div class="subCategories" id="sub_accessories_block"><div id="sub_belts" class="subCategories_"><a href="/belts.html">Belts</a></div><div id="sub_techaccessories" class="subCategories_"><a href="/techaccessories.html">Tech Accessories</a></div><div id="sub_sunglasses" class="subCategories_"><a href="/sunglasses.html">Sunglasses</a></div><div id="sub_watches" class="subCategories_"><a href="/watches.html">Watches</a></div><div id="sub_gloves" class="subCategories_"><a href="/gloves.html">Gloves</a></div><div id="sub_shoes" class="subCategories_"><a href="/shoes.html">Shoes</a></div><div id="sub_scarves" class="subCategories_"><a href="/scarves.html">Scarves</a></div><div id="sub_jewelry" class="subCategories_"><a href="/jewelry.html">Jewelry</a></div><div id="sub_hats" class="subCategories_"><a href="/hats.html">Hats</a></div></div><a id="_backpacks-bags" title="Backpacks &amp; Bags" href="/backpacks-bags.html">Backpacks &amp; Bags</a><a id="_belts" title="Belts" href="/belts.html">Belts</a><a id="_jackets" title="Blazers/Jackets" href="/jackets.html">Blazers/Jackets</a><a id="_boots" title="Boots" href="/boots.html">Boots</a><a id="_bottoms" title="Bottoms" href="/bottoms.html">Bottoms</a><a id="_bracelets" title="Bracelets" href="/bracelets.html">Bracelets</a><a id="_jeans" title="Denim" href="/jeans.html">Denim</a><a id="_dresses" title="Dresses" href="/dresses.html">Dresses</a><a id="_earrings" title="Earrings" href="/earrings.html">Earrings</a><a id="_handbags" title="Handbags" href="/handbags.html">Handbags</a><a id="_hats" title="Hats" href="/hats.html">Hats</a><a id="_jewelry" title="Jewelry" href="/jewelry.html">Jewelry</a><div class="subCategories" id="sub_jewelry_block"><div id="sub_bracelets" class="subCategories_"><a href="/bracelets.html">Bracelets</a></div><div id="sub_earrings" class="subCategories_"><a href="/earrings.html">Earrings</a></div><div id="sub_rings" class="subCategories_"><a href="/rings.html">Rings</a></div><div id="sub_watches" class="subCategories_"><a href="/watches.html">Watches</a></div><div id="sub_necklaces" class="subCategories_"><a href="/necklaces.html">Necklaces</a></div></div><a id="_jumpsuitromper" title="Jumpsuits/Rompers" href="/jumpsuitromper.html">Jumpsuits/Rompers</a><a id="_leather" title="Leather" href="/leather.html">Leather</a><a id="_leggings" title="Leggings" href="/leggings.html">Leggings</a><a id="_lingerie" title="Lingerie" href="/lingerie.html">Lingerie</a><a id="_necklaces" title="Necklaces" href="/necklaces.html">Necklaces</a><a id="_outerwear" title="Outerwear" href="/outerwear.html">Outerwear</a><a id="_rings" title="Rings" href="/rings.html">Rings</a><a id="_scarves" title="Scarves" href="/scarves.html">Scarves</a><a id="_shoes" title="Shoes" href="/shoes.html">Shoes</a><a id="_denimshorts" title="Shorts" href="/denimshorts.html">Shorts</a><a id="_skirts" title="Skirts" href="/skirts.html">Skirts</a><a id="_sneakers" title="Sneakers" href="/sneakers.html">Sneakers</a><a id="_sunglasses" title="Sunglasses" href="/sunglasses.html">Sunglasses</a><a id="_sweaters" title="Sweaters" href="/sweaters.html">Sweaters</a><a id="_swimwear" title="Swimwear" href="/swimwear.html">Swimwear</a><a id="_tank" title="Tanks" href="/tank.html">Tanks</a><a id="_techaccessories" title="Tech Accessories" href="/techaccessories.html">Tech Accessories</a><a id="_tees" title="Tees" href="/tees.html">Tees</a><a id="_tops" title="Tops" href="/tops.html">Tops</a><a id="_watches" title="Watches" href="/watches.html">Watches</a>                        </div>
+                        <a href="/whatsnew.html" title="What's New">What's New</a><a href="/celebritypicks.html" title="Celebrity Picks">Celebrity Picks</a><a href="/acrobat.html" title="Sale Up to 90% Off">Sale Up to 90% Off</a><a href="/top10.html" title="Top 10 List">Top 10 List</a><a href="/gift-guide-womens.html" title="Gift Guide">Gift Guide</a><a href="/giftguidemen.html" title="Gift Guide for Guys">Gift Guide for Guys</a><a href="/top100.html" title="Best Sellers">Best Sellers</a><a href="/backinstock.html" title="Back In Stock">Back In Stock</a><div style="border:none;height:12px">
+                                <img src="http://images.singer22.com/static/singer22/images/cel-line1.gif" width="135" height="12" alt="" style="border:0">
+                     </div>
+                     <a style="white-space:nowrap;" href="/pinterest/" title="S22 pinterest">S22 pinterest</a>
+                     <a style="white-space:nowrap;" href="/who-wore-it-best/" title="Who wore it best ?">Who wore it best?</a>                         
+                             <a style="white-space:nowrap;" href="/pick-the-best-look/" title="Pick the best look">Pick the best look</a>
+                                 <a style="white-space:nowrap;" href="/500-dollars-shopping-spree.html" title="$500 shopping spree">$500 shopping spree</a>                            <img src="http://images.singer22.com/static/singer22/images/cel-line1.gif" width="135" height="12" alt="">
+                            	<a id="_accessories" title="Accessories" href="/accessories.html">Accessories</a>
+	<div class="subCategories" id="sub_accessories_block">
+<div id="sub_belts" class="subCategories_"><a href="/belts.html">Belts</a></div><div id="sub_techaccessories" class="subCategories_"><a href="/techaccessories.html">Tech Accessories</a></div><div id="sub_sunglasses" class="subCategories_"><a href="/sunglasses.html">Sunglasses</a></div><div id="sub_watches" class="subCategories_"><a href="/watches.html">Watches</a></div><div id="sub_gloves" class="subCategories_"><a href="/gloves.html">Gloves</a></div><div id="sub_shoes" class="subCategories_"><a href="/shoes.html">Shoes</a></div><div id="sub_scarves" class="subCategories_"><a href="/scarves.html">Scarves</a></div><div id="sub_jewelry" class="subCategories_"><a href="/jewelry.html">Jewelry</a></div><div id="sub_hats" class="subCategories_"><a href="/hats.html">Hats</a></div>	</div>
+	<a id="_backpacks-bags" title="Backpacks &amp; Bags" href="/backpacks-bags.html">Backpacks &amp; Bags</a>
+	<a id="_belts" title="Belts" href="/belts.html">Belts</a>
+	<a id="_jackets" title="Blazers/Jackets" href="/jackets.html">Blazers/Jackets</a>
+	<a id="_boots" title="Boots" href="/boots.html">Boots</a>
+	<a id="_bottoms" title="Bottoms" href="/bottoms.html">Bottoms</a>
+	<a id="_bracelets" title="Bracelets" href="/bracelets.html">Bracelets</a>
+	<a id="_jeans" title="Denim" href="/jeans.html">Denim</a>
+	<a id="_dresses" title="Dresses" href="/dresses.html">Dresses</a>
+	<a id="_earrings" title="Earrings" href="/earrings.html">Earrings</a>
+	<a id="_flip-flops" title="Flip Flops" href="/flip-flops.html">Flip Flops</a>
+	<a id="_gloves" title="Gloves" href="/gloves.html">Gloves</a>
+	<a id="_handbags" title="Handbags" href="/handbags.html">Handbags</a>
+	<a id="_hats" title="Hats" href="/hats.html">Hats</a>
+	<a id="_jewelry" title="Jewelry" href="/jewelry.html">Jewelry</a>
+	<div class="subCategories" id="sub_jewelry_block">
+<div id="sub_bracelets" class="subCategories_"><a href="/bracelets.html">Bracelets</a></div><div id="sub_earrings" class="subCategories_"><a href="/earrings.html">Earrings</a></div><div id="sub_rings" class="subCategories_"><a href="/rings.html">Rings</a></div><div id="sub_watches" class="subCategories_"><a href="/watches.html">Watches</a></div><div id="sub_necklaces" class="subCategories_"><a href="/necklaces.html">Necklaces</a></div>	</div>
+	<a id="_jumpsuitromper" title="Jumpsuits/Rompers" href="/jumpsuitromper.html">Jumpsuits/Rompers</a>
+	<a id="_leather" title="Leather" href="/leather.html">Leather</a>
+	<a id="_leggings" title="Leggings" href="/leggings.html">Leggings</a>
+	<a id="_lingerie" title="Lingerie" href="/lingerie.html">Lingerie</a>
+	<a id="_necklaces" title="Necklaces" href="/necklaces.html">Necklaces</a>
+	<a id="_outerwear" title="Outerwear" href="/outerwear.html">Outerwear</a>
+	<a id="_resort" title="Resort" href="/resort.html">Resort</a>
+	<a id="_rings" title="Rings" href="/rings.html">Rings</a>
+	<a id="_scarves" title="Scarves" href="/scarves.html">Scarves</a>
+	<a id="_shoes" title="Shoes" href="/shoes.html">Shoes</a>
+	<div class="subCategories" id="sub_shoes_block">
+<div id="sub_boots" class="subCategories_"><a href="/boots.html">Boots</a></div><div id="sub_flip-flops" class="subCategories_"><a href="/flip-flops.html">Flip Flops</a></div><div id="sub_sneakers" class="subCategories_"><a href="/sneakers.html">Sneakers</a></div>	</div>
+	<a id="_denimshorts" title="Shorts" href="/denimshorts.html">Shorts</a>
+	<a id="_skirts" title="Skirts" href="/skirts.html">Skirts</a>
+	<a id="_sunglasses" title="Sunglasses" href="/sunglasses.html">Sunglasses</a>
+	<a id="_sweaters" title="Sweaters" href="/sweaters.html">Sweaters</a>
+	<a id="_swimwear" title="Swimwear" href="/swimwear.html">Swimwear</a>
+	<a id="_tank" title="Tanks" href="/tank.html">Tanks</a>
+	<a id="_techaccessories" title="Tech Accessories" href="/techaccessories.html">Tech Accessories</a>
+	<a id="_tees" title="Tees" href="/tees.html">Tees</a>
+	<a id="_tops" title="Tops" href="/tops.html">Tops</a>
+	<a id="_watches" title="Watches" href="/watches.html">Watches</a>
+                        </div>
                     </div>
                 </div>
 
                 <div id="lnavcont4" class="l27a4 l27h1 categoryitems">
                     <div class="ciIn">
                         <div class="ciIn1">
-                        <a href="/whatsnew.html" title="What's New">What's New</a><a href="/celebritypicks.html" title="Celebrity Picks">Celebrity Picks</a><a href="/acrobat.html" title="Sale Up to 90% Off">Sale Up to 90% Off</a><a href="/500-dollars-shopping-spree.html" title="$500 SHOPPING SPREE">$500 SHOPPING SPREE</a><a href="/top10.html" title="Top 10 List">Top 10 List</a><a href="/gift-guide-womens.html" title="Gift Guide">Gift Guide</a><a href="/top100.html" title="Best Sellers">Best Sellers</a><a href="/backinstock.html" title="Back In Stock">Back In Stock</a>                            <img src="http://images.singer22.com/static/singer22/images/cel-line1.gif" width="135" height="12" alt="">
-                            <a title="Graphic Tee Shop" href="/graphicteeshop.html">Graphic Tee Shop</a><a title="Things We Love" href="/thingswelove2.html">Things We Love</a><a title="Coachella Looks" href="/coachella.html">Coachella Looks</a><a title="Black + White World " href="/blackwhiteworld3.html">Black + White World </a><a title="70's Style Jeans " href="/70sstylejeans.html">70's Style Jeans </a><a title="Little Black Dresses" href="/lbd.html">Little Black Dresses</a><a title="Military Style Cargos" href="/military-cargos.html">Military Style Cargos</a><a title="Great Valentine's Gifts" href="/greatvalentines.html">Great Valentine's Gifts</a>                        </div>
+                        <a href="/whatsnew.html" title="What's New">What's New</a><a href="/celebritypicks.html" title="Celebrity Picks">Celebrity Picks</a><a href="/acrobat.html" title="Sale Up to 90% Off">Sale Up to 90% Off</a><a href="/top10.html" title="Top 10 List">Top 10 List</a><a href="/gift-guide-womens.html" title="Gift Guide">Gift Guide</a><a href="/giftguidemen.html" title="Gift Guide for Guys">Gift Guide for Guys</a><a href="/top100.html" title="Best Sellers">Best Sellers</a><a href="/backinstock.html" title="Back In Stock">Back In Stock</a><div style="border:none;height:12px">
+                                <img src="http://images.singer22.com/static/singer22/images/cel-line1.gif" width="135" height="12" alt="" style="border:0">
+                     </div>
+                     <a style="white-space:nowrap;" href="/pinterest/" title="S22 pinterest">S22 pinterest</a>
+                     <a style="white-space:nowrap;" href="/who-wore-it-best/" title="Who wore it best ?">Who wore it best?</a>                         
+                             <a style="white-space:nowrap;" href="/pick-the-best-look/" title="Pick the best look">Pick the best look</a>
+                                 <a style="white-space:nowrap;" href="/500-dollars-shopping-spree.html" title="$500 shopping spree">$500 shopping spree</a>                            <img src="http://images.singer22.com/static/singer22/images/cel-line1.gif" width="135" height="12" alt="">
+                            <a title="Valentine's Day Picks" href="/valentines-day-picks.html">Valentine's Day Picks</a><a title="Resort" href="/resort.html">Resort</a><a title="Graphic Tee Shop" href="/graphicteeshop.html">Graphic Tee Shop</a><a title="Things We Love" href="/thingswelove2.html">Things We Love</a><a title="Coachella Looks" href="/coachella.html">Coachella Looks</a>                        </div>
                     </div>
                 </div>
 
                 <div id="lnavcont5" class="l27a4 l27h1 categoryitems">
                     <div class="ciIn">
                         <div class="ciIn1">
-                        <a href="/whatsnew.html" title="What's New">What's New</a><a href="/celebritypicks.html" title="Celebrity Picks">Celebrity Picks</a><a href="/acrobat.html" title="Sale Up to 90% Off">Sale Up to 90% Off</a><a href="/500-dollars-shopping-spree.html" title="$500 SHOPPING SPREE">$500 SHOPPING SPREE</a><a href="/top10.html" title="Top 10 List">Top 10 List</a><a href="/gift-guide-womens.html" title="Gift Guide">Gift Guide</a><a href="/top100.html" title="Best Sellers">Best Sellers</a><a href="/backinstock.html" title="Back In Stock">Back In Stock</a>                            <img src="http://images.singer22.com/static/singer22/images/cel-line1.gif" width="135" height="12" alt="">
-                            <a title="Gift Guide" href="/gift-guide-womens.html">Gift Guide</a><a title="Gifts Under $100" href="/gift-100-women.html">Gifts Under $100</a><a title="Gifts Under $25" href="/gift-25-women.html">Gifts Under $25</a><a title="Gifts Under $250" href="/gift-250-women.html">Gifts Under $250</a><a title="Gifts Under $50" href="/gift-50-women.html">Gifts Under $50</a><a title="Luxe Gifts" href="/gift-luxe-women.html">Luxe Gifts</a>                        </div>
+                        <a href="/whatsnew.html" title="What's New">What's New</a><a href="/celebritypicks.html" title="Celebrity Picks">Celebrity Picks</a><a href="/acrobat.html" title="Sale Up to 90% Off">Sale Up to 90% Off</a><a href="/top10.html" title="Top 10 List">Top 10 List</a><a href="/gift-guide-womens.html" title="Gift Guide">Gift Guide</a><a href="/giftguidemen.html" title="Gift Guide for Guys">Gift Guide for Guys</a><a href="/top100.html" title="Best Sellers">Best Sellers</a><a href="/backinstock.html" title="Back In Stock">Back In Stock</a><div style="border:none;height:12px">
+                                <img src="http://images.singer22.com/static/singer22/images/cel-line1.gif" width="135" height="12" alt="" style="border:0">
+                     </div>
+                     <a style="white-space:nowrap;" href="/pinterest/" title="S22 pinterest">S22 pinterest</a>
+                     <a style="white-space:nowrap;" href="/who-wore-it-best/" title="Who wore it best ?">Who wore it best?</a>                         
+                             <a style="white-space:nowrap;" href="/pick-the-best-look/" title="Pick the best look">Pick the best look</a>
+                                 <a style="white-space:nowrap;" href="/500-dollars-shopping-spree.html" title="$500 shopping spree">$500 shopping spree</a>                            <img src="http://images.singer22.com/static/singer22/images/cel-line1.gif" width="135" height="12" alt="">
+                            <a title="Gift Guide" href="/gift-guide-womens.html">Gift Guide</a><a title="Gifts Under $25" href="/gift-25-women.html">Gifts Under $25</a><a title="Gifts Under $50" href="/gift-50-women.html">Gifts Under $50</a><a title="Gifts Under $100" href="/gift-100-women.html">Gifts Under $100</a><a title="Gifts Under $250" href="/gift-250-women.html">Gifts Under $250</a><a title="Luxe Gifts" href="/gift-luxe-women.html">Luxe Gifts</a>                        </div>
                     </div>
                 </div>
 
                 <div id="lnavcont6" class="l27a4 l27h1 categoryitems">
                     <div class="ciIn">
                         <div class="ciIn1">
-                            <a href="/whatsnew.html" title="What's New">What's New</a><a href="/celebritypicks.html" title="Celebrity Picks">Celebrity Picks</a><a href="/acrobat.html" title="Sale Up to 90% Off">Sale Up to 90% Off</a><a href="/500-dollars-shopping-spree.html" title="$500 SHOPPING SPREE">$500 SHOPPING SPREE</a><a href="/top10.html" title="Top 10 List">Top 10 List</a><a href="/gift-guide-womens.html" title="Gift Guide">Gift Guide</a><a href="/top100.html" title="Best Sellers">Best Sellers</a><a href="/backinstock.html" title="Back In Stock">Back In Stock</a>                            <img src="http://images.singer22.com/static/singer22/images/cel-line1.gif" width="135" height="12" alt="">
+                            <a href="/whatsnew.html" title="What's New">What's New</a><a href="/celebritypicks.html" title="Celebrity Picks">Celebrity Picks</a><a href="/acrobat.html" title="Sale Up to 90% Off">Sale Up to 90% Off</a><a href="/top10.html" title="Top 10 List">Top 10 List</a><a href="/gift-guide-womens.html" title="Gift Guide">Gift Guide</a><a href="/giftguidemen.html" title="Gift Guide for Guys">Gift Guide for Guys</a><a href="/top100.html" title="Best Sellers">Best Sellers</a><a href="/backinstock.html" title="Back In Stock">Back In Stock</a><div style="border:none;height:12px">
+                                <img src="http://images.singer22.com/static/singer22/images/cel-line1.gif" width="135" height="12" alt="" style="border:0">
+                     </div>
+                     <a style="white-space:nowrap;" href="/pinterest/" title="S22 pinterest">S22 pinterest</a>
+                     <a style="white-space:nowrap;" href="/who-wore-it-best/" title="Who wore it best ?">Who wore it best?</a>                         
+                             <a style="white-space:nowrap;" href="/pick-the-best-look/" title="Pick the best look">Pick the best look</a>
+                                 <a style="white-space:nowrap;" href="/500-dollars-shopping-spree.html" title="$500 shopping spree">$500 shopping spree</a>                            <img src="http://images.singer22.com/static/singer22/images/cel-line1.gif" width="135" height="12" alt="">
                             <a href="/sale10-20.html" title="20 Percent off">20 Percent off</a>
                             <a href="/sale20-30.html" title="30 Percent off">30 Percent off</a>
                             <a href="/sale30-40.html" title="40 Percent off">40 Percent off</a>
-                                                        <a href="/sale40-50.html" title="50 Percent off">50 Percent off</a>
+                            <a href="/sale40-50.html" title="50 Percent off">50 Percent off</a>
                             <a href="/sale50-60.html" title="60 Percent off">60 Percent off</a>
-                            <a href="/sale60-70.html" title="70 Percent off">70 Percent off</a>
+                                                        <a href="/sale60-70.html" title="70 Percent off">70 Percent off</a>
                             <a href="/sale70-80.html" title="80 Percent off">80 Percent off</a>
                             <a href="/sale80-90.html" title="90 Percent off">90 Percent off</a>
                                                         <a href="/acrobat.html" title="View all">View all</a>
                             <img src="http://images.singer22.com/static/singer22/images/cel-line1.gif" width="135" height="12" alt="">
                             <a href="/designers-sale.html" title="Sale by designers">Sale by designers</a>
                             <img src="http://images.singer22.com/static/singer22/images/cel-line1.gif" width="135" height="12" alt="">
-                            <a title="Accessories" href="/accessories-sale.html">Accessories</a><a title="Belts" href="/belts-sale.html">Belts</a><a title="Blazers/Jackets" href="/jackets-sale.html">Blazers/Jackets</a><a title="Boots" href="/boots-sale.html">Boots</a><a title="Bottoms" href="/bottoms-sale.html">Bottoms</a><a title="Denim" href="/jeans-sale.html">Denim</a><a title="Dresses" href="/dresses-sale.html">Dresses</a><a title="Handbags" href="/handbags-sale.html">Handbags</a><a title="Hats" href="/hats-sale.html">Hats</a><a title="Jewelry" href="/jewelry-sale.html">Jewelry</a><a title="Jumpsuits/Rompers" href="/jumpsuitromper-sale.html">Jumpsuits/Rompers</a><a title="Leather" href="/leather-sale.html">Leather</a><a title="Leggings" href="/leggings-sale.html">Leggings</a><a title="Outerwear" href="/outerwear-sale.html">Outerwear</a><a title="Scarves" href="/scarves-sale.html">Scarves</a><a title="Shoes" href="/shoes-sale.html">Shoes</a><a title="Shorts" href="/denimshorts-sale.html">Shorts</a><a title="Skirts" href="/skirts-sale.html">Skirts</a><a title="Sweaters" href="/sweaters-sale.html">Sweaters</a><a title="Swimwear" href="/swimwear-sale.html">Swimwear</a><a title="Tees" href="/tees-sale.html">Tees</a><a title="Tops" href="/tops-sale.html">Tops</a>
+                            <a title="Accessories" href="/accessories-sale.html">Accessories</a><a title="Belts" href="/belts-sale.html">Belts</a><a title="Blazers/Jackets" href="/jackets-sale.html">Blazers/Jackets</a><a title="Boots" href="/boots-sale.html">Boots</a><a title="Bottoms" href="/bottoms-sale.html">Bottoms</a><a title="Denim" href="/jeans-sale.html">Denim</a><a title="Dresses" href="/dresses-sale.html">Dresses</a><a title="Handbags" href="/handbags-sale.html">Handbags</a><a title="Hats" href="/hats-sale.html">Hats</a><a title="Jewelry" href="/jewelry-sale.html">Jewelry</a><a title="Jumpsuits/Rompers" href="/jumpsuitromper-sale.html">Jumpsuits/Rompers</a><a title="Leather" href="/leather-sale.html">Leather</a><a title="Leggings" href="/leggings-sale.html">Leggings</a><a title="Outerwear" href="/outerwear-sale.html">Outerwear</a><a title="Resort" href="/resort-sale.html">Resort</a><a title="Scarves" href="/scarves-sale.html">Scarves</a><a title="Shoes" href="/shoes-sale.html">Shoes</a><a title="Shorts" href="/denimshorts-sale.html">Shorts</a><a title="Skirts" href="/skirts-sale.html">Skirts</a><a title="Sunglasses" href="/sunglasses-sale.html">Sunglasses</a><a title="Sweaters" href="/sweaters-sale.html">Sweaters</a><a title="Swimwear" href="/swimwear-sale.html">Swimwear</a><a title="Tees" href="/tees-sale.html">Tees</a><a title="Tops" href="/tops-sale.html">Tops</a>
                         </div>
                     </div>
                 </div>
@@ -544,8 +1004,6 @@ jsHover=function() {
 																</div><!--/cColin1--></div>        </div>
     </div>
 </div>
-
-
     </div>
     <div style="clear:both;"></div>
 </div>
@@ -554,7 +1012,7 @@ jsHover=function() {
 <div id="vipLine">
     <div id="signDiv">
         <div class="c1">
-            <input style="vertical-align: top;" type="text" name="email" value="enter your e-mail address" class="tex" onfocus="(this.value=='enter your e-mail address')?this.value='':'';" onblur="(this.value=='')?this.value='enter your e-mail address':'';" id="email"><input type="submit" style="margin-left:4px;" class="sign_up_btn" value="" onclick="if(document.getElementById('email').value!=''){
+                        <input style="vertical-align: top;" type="text" name="email" value="enter your e-mail address" class="tex" onfocus="(this.value=='enter your e-mail address')?this.value='':'';" onblur="(this.value=='')?this.value='enter your e-mail address':'';" id="email"><input type="submit" style="margin-left:4px; cursor: pointer;" class="sign_up_btn" value="" onclick="if(document.getElementById('email').value!=''){
                              //maillist(document.getElementById('email').value);document.getElementById('email').value='';
                              Subscriber.show(document.getElementById('email').value);
                          };return false;">
@@ -577,55 +1035,19 @@ jsHover=function() {
               })();
             </script>
         </div>
-    </div>    
+    </div>
     <div id="vipText"></div>
 </div>
-
-<!--<div style="font-size:8px; text-align:center;margin-top:10px;margin-bottom:10px;">
-    Sold out products archive:     <a href="/soldout-.html"></a> &nbsp;
-</div>-->
-
-
-<div id="bottom-banner" style="text-align: center;">
-<table class="hBrTbl bottomBanner">
-	<tbody>
-<tr>	<td>
-		<a href="http://www.singer22.com/celebritypicks.html">
-			<img width="246" height="115" alt="Celebrity Picks" src="http://0.images.singer22.com/static/banners/images/555.jpg">
-		</a>
-	</td>
-		<td>
-		<a href="http://www.singer22.com/gift-guide-womens.html">
-			<img width="245" height="115" alt="WOMENS GIFT GUIDE HOME PAGE" src="http://1.images.singer22.com/static/banners/images/719.jpg">
-		</a>
-	</td>
-		<td>
-		<a href="">
-			<img width="246" height="115" alt="WOMENS SHIP DEADLINE HOMEPAGE" src="http://2.images.singer22.com/static/banners/images/695.jpg">
-		</a>
-	</td>
-		<td>
-		<a href="https://www.facebook.com/singer22?sk=app_102753026479946">
-			<img width="246" height="115" alt="facebook contest" src="http://3.images.singer22.com/static/banners/images/647.jpg">
-		</a>
-	</td>
-	</tr>	</tbody>
-</table></div>
-
-<div id="footer">
-    <div id="footer1">
-        <div id="footer2">
-
-        
-            <div id="botNav1">
-            
-
-
-    <a style="display: inline-block; height: 11px; padding-left: 4px; padding-right: 1px; " href="/gice.html">GIFTCARDS</a>
+    <div id="bottom-banner" style="text-align: center;"> </div>
+    <div id="footer">
+        <div id="footer1">
+            <div id="footer2">
+                            <div id="botNav1">
+                    <a style="display: inline-block; height: 11px; padding-left: 4px; padding-right: 1px; " href="/gice.html">GIFTCARDS</a>
     <a style="display: inline-block; height: 11px; padding-left: 4px; padding-right: 1px; border-left: 1px solid #505050;" href="/eventspage.html">EVENTS</a>
     <a style="display: inline-block; height: 11px; padding-left: 4px; padding-right: 1px; border-left: 1px solid #505050;" href="/orderstatus.html">ABOUT US</a>
     <a style="display: inline-block; height: 11px; padding-left: 4px; padding-right: 1px; border-left: 1px solid #505050;" href="/relo.html">LOCATIONS</a>
-    <a style="display: inline-block; height: 11px; padding-left: 4px; padding-right: 1px; border-left: 1px solid #505050;" href="/contact.html">CONTACT US</a>
+    <a style="display: inline-block; height: 11px; padding-left: 4px; padding-right: 1px; border-left: 1px solid #505050;" href="http://store.singer22.com/contact.html">CONTACT US</a>
     <a style="display: inline-block; height: 11px; padding-left: 4px; padding-right: 1px; border-left: 1px solid #505050;" href="/privacy-policy.html">STORE POLICY</a>
     <a style="display: inline-block; height: 11px; padding-left: 4px; padding-right: 1px; border-left: 1px solid #505050;" href="/s22weekly.html">S22 WEEKLY</a>
     <a style="display: inline-block; height: 11px; padding-left: 4px; padding-right: 1px; border-left: 1px solid #505050;" href="/press-page.html">PRESS</a>
@@ -634,68 +1056,69 @@ jsHover=function() {
     <a style="display: inline-block; height: 11px; padding-left: 4px; padding-right: 1px; border-left: 1px solid #505050;" href="/help.html">TERMS OF USE</a>
     <a style="display: inline-block; height: 11px; padding-left: 4px; padding-right: 1px; border-left: 1px solid #505050;" href="/policy.html">PRIVACY</a>
     <a style="display: inline-block; height: 11px; padding-left: 4px; padding-right: 1px; border-left: 1px solid #505050;" href="/celebrity-policy.html">CELEB POLICY</a>
+    <a style="display: inline-block; height: 11px; padding-left: 4px; padding-right: 1px; border-left: 1px solid #505050;" href="/sweepterms.html">CONTEST TERMS</a>
+                </div>
+                <div id="botNav1">
+                    SINGER22 Websites:
+                    <a href="http://www.singer22.com">USA/International</a> | <a href="http://www.singer22.co.uk">United Kingdom</a>
+                </div>
+            </div>
+                <br>
+                <br>
+                            <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <div style="text-align:justify;">
+                    <p style="text-align: justify;">SINGER22 was launched as both a retail store and website simultaneously in 2003 by husband and wife team Alicia and Jon Singer. The site has quickly evolved into one of the Internet's most popular fashion destinations and is looked to by many seeking out new and up-and-coming brands. SINGER22 has been known to launch many new brands and carries the latest in men’s and women's contemporary, vintage, fashion, discount, urban, junior and trendy clothing; as well as a wide selection of clothes, shoes and accessories. &nbsp;&nbsp;Accessories include belts, jewelry, rings, bracelets, sunglasses, tech accessories, phone and ipad cases and more.&nbsp; The store carries an extensive assortment of the best in today’s denim brands like:&nbsp; 7 For All Mankind; Seven; Citizens of Humanity; Current/Elliott; J Brand; Nudie; Paige Premium Denim; Rag &amp; Bone/JEAN; Siwy; Runwaydreamz; Work Custom Jeans and more.&nbsp;&nbsp; Some of our favorite brands are: <a href="/emerson-thorpe.html" title="Emerson Thorpe">Emerson Thorpe</a>, <a href="/rag-&amp;-bone-jean.html" title="Rag &amp; Bone/JEAN">Rag &amp; Bone/JEAN</a>, <a href="/current-elliott.html" title="Current/Elliott">Current/Elliott</a>, <a href="/boulee.html" title="BOULEE">BOULEE</a>, <a href="/siwy-denim.html" title="Siwy Denim">Siwy Denim</a>, <a href="/naven.html" title="Naven">Naven</a>, <a href="/parker.html" title="Parker">Parker</a>, <a href="/jeffrey-campbell.html" title="Jeffrey Campbell">Jeffrey Campbell</a>, <a href="/j-brand.html" title="J Brand">J Brand</a>, <a href="/mason-by-michelle-mason.html" title="Mason By Michelle Mason">Mason By Michelle Mason</a>.&nbsp; We love suggestions so feel free to <a href="http://www.singer22.com/contact.html">contact us</a>! We love to hear the ideas our shoppers have or the brands they would love to see on SINGER22.com.&nbsp; SINGER22.com is a genuine site, located in East Hills, New York.&nbsp; SINGER22.com is authorized to sell all the brands featured on its website and ensures that all the merchandise is authentic from the manufacturer as represented.</p>                </div>
             </div>
         </div>
-
-            <br>
-            <br>
-                    <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <div style="text-align:justify;">
-                <p>Singer22 - Fashion men's &amp; women's online clothing store carries the                 largest selection of                 womens clothes, maternity clothing, vintage clothes, mens clothing, online clothing, vintage clothing,                 mens fashion, designer clothes,                 fashion clothing, discount clothing, urban clothing, junior clothes, fashion clothes, clothing sale,                 <a title="current/elliott jeans">Current Elliott Jeans</a> on the web especially the Current Elliott Boyfriend Jeans. Singer22's                 top denim brands are <a title="J Brand" href="http://www.singer22.com/jbrandjeans.html">J Brand</a>, <a title="Siwy Denim" href="http://www.singer22.com/siwydenim.html">Siwy Denim</a>, <a title="7 For All Mankind" href="http://www.singer22.com/7.html">7 For All Mankind</a>, <a title="Jet by John Eshaya" href="http://www.singer22.com/jet.html">Jet by John Eshaya</a>, <a title="Current Elliott" href="http://www.singer22.com/currentelliott.html">Current Elliott</a>, <a title="Rockstar Denim" href="http://www.singer22.com/rockstar.html">Rockstar Denim</a>, <a title="Black Orchid" href="http://www.singer22.com/blackorchid.html">Black Orchid</a>, <a title="Vintage 1" href="http://www.singer22.com/vintage1.html">Vintage 1</a> and <a title="Denim" href="http://www.singer22.com/jeans.html">more</a>.                 If you haven't tried <a title="LnA" href="http://www.singer22.com/lnatees.html">LnA</a> Tees they are a must have. The LnA                 deep V neck is a timeless classic. Our best selling Tee Shirt brands are<a title="Kain Label" href="http://www.singer22.com/kain.html"> Kain</a>, LnA, <a title="Fluxus" href="http://www.singer22.com/fluxus.html">Fluxus</a>, <a title="Seneca Rising" href="http://www.singer22.com/senecarising.html">Seneca Rising</a>, <a title="Blue Life" href="http://www.singer22.com/bluelife.html">Blue Life</a>, and the <a title="David Lerner" href="http://www.singer22.com/davidlerner.html">David Lerner</a> collection.                 Must have cargos jeans <a title="J Brand Houlihan Jeans" href="http://www.singer22.com/1229bk120star.html">J Brand Houlihan</a>.                 We love suggestions so feel free to email us suggestions@singer22.com.                 We love to hear the ideas our shoppers have or the brands they would                 love to see on Singer22.com.</p>            </div>
-            
         </div>
     </div>
-</div>
-</div>
-</div>
-<!--/mainAreaIn--></div>
-<div id="SubscriberPopup" style="display:none;">
-    <div class="wrong_mail">
-       Sorry, email you entered is not well formed
     </div>
-
-    <div class="subscribe_form" style="margin:15px;">        
-            <div>
+    <!--/mainAreaIn--></div>
+    <div id="SubscriberPopup" style="display:none;">
+        <div class="wrong_mail">
+           Sorry, email you entered is not well formed.
+        </div>
+        <div class="subscribe_form" style="margin:15px;">
+                <div>
+                    <div style="float:left">
+                        <div>First Name:</div>
+                        <input type="text" name="UserFirstName" value="">
+                    </div>
+                    <div style="float:left">
+                        <div>Last Name:</div>
+                        <input type="text" name="UserLastName" value="">
+                    </div>
+                    <div style="clear:both"></div>
+                    <div style="text-align:left;">
+                        <input type="radio" name="subscribeType" value="1"> Women's VIP List<br>
+                        <input type="radio" name="subscribeType" value="2"> Men's VIP List<br>
+                        <input type="radio" name="subscribeType" value="3"> Both Women's &amp; Men's VIP List                    </div>
+                </div>
+                <div style="clear:both"></div><br>
                 <div style="float:left">
-                    <div> First Name:</div>
-                    <input type="text" name="UserFirstName" value="">
+                    <input class="subscribe_btn" type="button" value="">
                 </div>
-                <div style="float:left">
-                    <div>Last Name:</div>
-                    <input type="text" name="UserLastName" value="">
-                </div>
-                <div style="clear:both"></div>
-                <div style="text-align:left;">                    
-                    <input type="radio" name="subscribeType" value="1"> Women's VIP List<br>
-                    <input type="radio" name="subscribeType" value="2"> Men's VIP List<br>
-                    <input type="radio" name="subscribeType" value="3"> Both Women's &amp; Men's VIP List
-                </div>
-            </div>
-<div style="clear:both"></div><br>
-            <div style="float:left">
-                <input class="subscribe_btn" type="button" value="">
-            </div>
+        </div>
     </div>
-</div>
 <script type="text/javascript">
 //<!--
 /* <![CDATA[ */
 <!--
 
-document.write('<img src="http://singer22-static.com/stat/hit/track'
+document.write('<img src="http://singer22-static.com/stat/hit/track/language/en/tld/com'
            + '/screen_param/' + ((typeof(screen) == 'undefined') ? '' : (screen.width + '*' + screen.height + '*'
                                                                        + (screen.colorDepth ? screen.colorDepth : screen.pixelDepth)))
          + '/?p=;/uparam/;referrer;/uparam/;' + escape(document.referrer)
@@ -706,13 +1129,15 @@ document.write('<img src="http://singer22-static.com/stat/hit/track'
 //-->
 /* ]]> */
 //-->
-</script><img src="http://singer22-static.com/stat/hit/track/screen_param/800*600*24/?p=;/uparam/;referrer;/uparam/;;/uparam/;url;/uparam/;https%3A//web.archive.org/web/20111201184251id_/http%253A//www.singer22.com/policy.html;/uparam/;/rand/0.5599205291693499" alt="" title="" border="0" width="1" height="1">
+</script><img src="http://singer22-static.com/stat/hit/track/language/en/tld/com/screen_param/800*600*24/?p=;/uparam/;referrer;/uparam/;;/uparam/;url;/uparam/;https%3A//web.archive.org/web/20120512012228id_/http%253A//www.singer22.com/policy.html;/uparam/;/rand/0.8469973603169185" alt="" title="" border="0" width="1" height="1">
 <!--Google analytics-->
 <script type="text/javascript">
 /* <![CDATA[ */
 <!--
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-228255-1']);
+    _gaq.push(['_setDomainName', 'singer22.com']);
+    _gaq.push(['_setAllowLinker', true]);
     _gaq.push(['_trackPageview']);
 
   (function() {
@@ -732,10 +1157,29 @@ document.write('<img src="http://singer22-static.com/stat/hit/track'
 
     /* ]]> */
 </script>
-<div id="jCommonPopup">&nbsp;</div>
-<script type="text/javascript">
-var objNotification = new Notification();    
+<div id="jCommonPopup">&nbsp;</div><script type="text/javascript">
+ arrNotCachables.bottomBanner = {"sp_alias":"indexpage-women-banner","table-class":"hBrTbl bottomBanner","disable-layout":1,"sex":"woman","div_id":"bottom-banner"};
+ if ( $( '#' + 'vc' ) ) {
+    arrNotCachables.vc = {"nolayout":1,"layout":"layout-iframe","sex":"woman","div_id":"vc"};
+ }
+
 </script>
 
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var objTranslate = {"Please fill in your First Name and Last Name":"Please fill in your First Name and Last Name","Please choose type of subscribe":"Please choose type of subscribe","Select Size":"Select Size","Select Color":"Select Color","Require your Name":"Require your Name","Require your Email":"Require your Email","Some error, please try again later":"Some error, please try again later","Select Quantity":"Select Quantity","Select Color\/Size":"Select Color\/Size","Add the Product to Your Wish List":"Add the Product to Your Wish List","Error occured":"Error occured","Please wait":"Please wait","First name is required field!":"First name is required field!","Last name is required field!":"Last name is required field!","Address is required field!":"Address is required field!","City is required field!":"City is required field!","Zip\/Postal Code is required field!":"Zip\/Postal Code is required field!","Country is required field!":"Country is required field!","State is required field!":"State is required field!","Phone is required field!":"Phone is required field!","Please log in":"Please log in","Product is not specified!":"Product is not specified!","Please select product rank":"Please select product rank","Please enter your name":"Please enter your name","Please enter review message":"Please enter review message","Please enter verification code":"Please enter verification code","Review has been successfully added":"Review has been successfully added","Are you sure to remove the review?":"Are you sure to remove the review?","Show more":"Show more","Voting failed by unknow reason":"Voting failed by unknow reason","view all colors":"view all colors","view all sizes":"view all sizes","view all prices":"view all prices","Plese select subscribe checkbox":"Plese select subscribe checkbox","Are you sure to leave SINGER22.com? You have items in your shopping cart.":"Are you sure to leave SINGER22.com? You have items in your shopping cart.","Stop":"Stop","Start":"Start","Please type your message. Your message is empty or too short.":"Please type your message. Your message is empty or too short.","Please specify where are you from.":"Please specify where are you from.","Please type a valid email-address":"Please type a valid email-address","Please accept store policies below":"Please accept store policies below","System will create an account for you automatically and send login and password to your email after you place your order.":"System will create an account for you automatically and send login and password to your email after you place your order.","Already a customer?":"Already a customer?","Log In":"Log In","Require PUBID and LID fields":"Require PUBID and LID fields","Require search query":"Require search query","prices":"prices","size selected":"size selected","sizes selected":"sizes selected","color selected":"color selected","colors selected":"colors selected","<u>CLICK HERE<\/u> TO READ OUR PREORDER POLICY":"<u>CLICK HERE<\/u> TO READ OUR PREORDER POLICY","Are you sure you want to remove this style from your favorites?":"Are you sure you want to remove this style from your favorites?","No":"No","Yes":"Yes","or":"or","Confirm":"Confirm","Thank you for your vote!":"Thank you for your vote!","Sorry, but you can not vote more than once in this review":"Sorry, but you can not vote more than once in this review","\/jquery-lightbox-theme\/images\/btn-close.gif":"\/jquery-lightbox-theme\/images\/btn-close.gif"};
+    // @use alert( translate('Select Size') );
+    var translate = function(string){
+        if(typeof(objTranslate[string])!='undefined') {
+            string = objTranslate[string];
+        } else {
+            if(console && console.warn) {
+                console.warn('No translate for key: '+string);
+            }
+        }
+        return string;
+    }
+    /* ]]> */
+</script>
 
 </div></body></html>
