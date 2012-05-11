@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the opensesame.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118021901id_/https%3A//www.opensesame.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opensesame.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511204211id_/https%3A//www.opensesame.com/privacy) for the most accurate reproduction.*
 
-# OpenSesame describes our commitment to protecting your privacy. | OpenSesame
+# OpenSesame describes our commitment to protecting your privacy. Online | OpenSesame
 
 This Privacy Policy (this “Policy”) describes how OpenSesame Inc. (“OpenSesame”), treats information collected from you at the OpenSesame web site (http://www.opensesame.com) (the “Site”) and how it uses and discloses such information. By accessing the Site, you consent to the collection, use and disclosure of your information in accordance with the terms of this Policy.  If you do not wish your information to be collected, used or disclosed in the manners described in this Policy, please do not access the Site or make use of OpenSesame’s training services and related goods. 
 
@@ -46,11 +46,11 @@ You may use the contact information provided below to request a change in your P
 
 ## U.S. - EU Safe Harbor Privacy Statement
 
-For personal information of employees, consumers, healthcare professionals, medical research subjects and investigators, customers, investors, and government officials that OpenSesame receives from the European Economic Area, OpenSesame has committed to handling such personal information in accordance with the Safe Harbor Principles. For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce’s Website at http://export.gov/safeharbor/ 
+OpenSesame complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. OpenSesame has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view OpenSesame’s certification, please visit <http://www.export.gov/safeharbor/>
 
 ## Complaint Resolution
 
-In compliance with the Safe Harbor Principles, OpenSesame commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Opensesame at: 2828 SW Corbett Ave Portland OR 97201 (503) 808-1268 OpenSesame has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by OpenSesame, you may contact the BBB EU SAFE HARBOR program at the address below: Council of Better Business Bureaus, Inc. BBB EU SAFE HARBOR 4200 Wilson Boulevard, Suite 800 Arlington, VA 22203 Phone: 703-276-0100 Web: www.bbb.org/us/safe-harbor-complaints 
+In compliance with the Safe Harbor Principles, OpenSesame commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens and Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Opensesame at: 2828 SW Corbett Ave Portland OR 97201 (503) 808-1268 OpenSesame has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by OpenSesame, you may contact the BBB EU SAFE HARBOR program at the address below: Council of Better Business Bureaus, Inc. BBB EU SAFE HARBOR 4200 Wilson Boulevard, Suite 800 Arlington, VA 22203 Phone: 703-276-0100 Web: www.bbb.org/us/safe-harbor-complaints 
 
 ## Policy Changes
 
