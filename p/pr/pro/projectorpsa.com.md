@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projectorpsa.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101223758id_/http%3A//www.projectorpsa.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectorpsa.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511130948id_/http%3A//www.projectorpsa.com/policy.html) for the most accurate reproduction.*
 
 # Professional Services Automation from Projector PSA - Privacy Policy
 
@@ -7,7 +7,7 @@
 
 ## Introduction
 
-We at [Projector PSA, Inc.](https://web.archive.org/) are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information that you share with us. This document (the “Privacy Policy”) describes the online privacy practices for this web site (the “Site”) and discloses the types of information that we gather, how we use it, and how to correct or change it. For information on Projector PSA's commitment to handling personal information in accordance with the Safe Harbor Privacy Principles published by the U.S. Department of Commerce please [click here](https://web.archive.org/web/20111101223758id_/http%3A//www.projectorpsa.com/safeharbor.html).
+We at [Projector PSA, Inc.](https://web.archive.org/) are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information that you share with us. This document (the “Privacy Policy”) describes the online privacy practices for this web site (the “Site”) and discloses the types of information that we gather, how we use it, and how to correct or change it. For information on Projector PSA's commitment to handling personal information in accordance with the Safe Harbor Privacy Principles published by the U.S. Department of Commerce please [click here](https://web.archive.org/web/20120511130948id_/http%3A//www.projectorpsa.com/safeharbor.html).
 
 ## Changes to the Privacy Policy
 
@@ -19,9 +19,15 @@ You may access the majority of the information on the Site without providing any
 
 ## How Personal Information is Used
 
-Personal Information is collected to record and support your use or potential use of the products and services provided by Projector PSA. We will not communicate any information to you regarding products, services, and special offers available from Projector PSA without your consent. Projector PSA will not provide your Personal Information to other companies or organizations unless legally required to do so, or if we believe that your actions violate applicable laws or the Site's Terms of Use.
+Projector PSA may collect Personal Information through email, chat or online forms to support your use or potential use of the products and services provided by Projector PSA. Information collected by Projector PSA will not be shared with any other companies or organizations unless legally required to do so, or if we believe that your actions violate applicable laws or the Site’s Terms of Use.
 
-Projector PSA may collect information about the use of the Site, such as the types of services used and how many users we receive daily. This information is collected in aggregate form, without identifying any user individually. Projector PSA may use this aggregate, non-identifying statistical data for statistical analysis, marketing or similar promotional purposes.
+Projector PSA may share Personal Information with our affiliates and contractors to allow them to perform functions on our behalf. In such event that Personal Information is shared with affiliates and contractors, it will only be shared to the extent reasonably necessary for them to perform their functions and they will not be authorized to use it for any other function.
+
+Projector PSA will not communicate any information to you regarding products, services, and special offers available from Projector PSA without your consent.
+
+## How Non-Personal Information is Used
+
+Projector PSA may automatically collect information about the use of the Site, such as the types of services used and how many users we receive daily. This information is collected in aggregate form, without identifying any user individually. Projector PSA may use this aggregate, non-identifying statistical data for statistical analysis, marketing or similar promotional purposes.
 
 ## Use of Cookies and Other Tracking Technologies
 
