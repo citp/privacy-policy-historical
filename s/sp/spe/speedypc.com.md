@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the speedypc.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227040506id_/http%3A//www.speedypc.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedypc.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511082657id_/http%3A//www.speedypc.com/legal/privacy.aspx) for the most accurate reproduction.*
 
 # SpeedyPC – Legal - Privacy Policy
 
-SpeedyPC is dedicated to maintaining the confidentiality of your personal information, and ensuring that it remains secure and protected at all times. This document explains our Privacy Policy, and how the information you transfer to SpeedyPC is utilized.
+SpeedyPC SOFTWARE is dedicated to maintaining the confidentiality of your personal information, and ensuring that it remains secure and protected at all times. This document explains our Privacy Policy, and how the information you transfer to SpeedyPC SOFTWARE is utilized.
 
 ## How we collect information
 
-We collect information from you including name, address, email address, etc. when you purchase or register SpeedyPC and when you download a free trial/evaluation version. This information is used to verify transactions during use of SpeedyPC or the SpeedyPC website. Payment processing merchants utilized by SpeedyPC and SpeedyPC customers use the same careful privacy criteria as SpeedyPC. The SpeedyPC website is not intended for users under the age of 18, and SpeedyPC does not intentionally gather information on users under the age of 18.
+We collect information from you including name, address, email address, etc. when you purchase or register SpeedyPC Software programs and when you download a free trial/evaluation version. This information is used to verify transactions during use of SpeedyPC Software programs or the SpeedyPC Software website. Payment processing merchants utilized by SpeedyPC Software and SpeedyPC Software customers use the same careful privacy criteria as SpeedyPC Software. The SpeedyPC Software website is not intended for users under the age of 18, and SpeedyPC Software does not intentionally gather information on users under the age of 18.
 
-To unsubscribe from future communications, [click here](https://web.archive.org/web/20111227040506id_/http%3A//www.speedypc.com/legal/privacy_unsubscribe.php). 
+To unsubscribe from future communications, [click here](https://web.archive.org/web/20120511082657id_/http%3A//www.speedypc.com/legal/privacy_unsubscribe.php). 
 
-SpeedyPC is not responsible for the information posted by users on public message boards, blogs, forums, etc., nor does SpeedyPC supervise the potential use of this information by third-parties. SpeedyPC makes no claims of privacy or confidentiality for items which users post in public spaces.
+SpeedyPC Software is not responsible for the information posted by users on public message boards, blogs, forums, etc., nor does SpeedyPC Software supervise the potential use of this information by third-parties. SpeedyPC Software makes no claims of privacy or confidentiality for items which users post in public spaces.
 
 ## What do we use your information for?
 
@@ -27,7 +27,7 @@ Your information, whether public or private, will not be sold, exchanged, transf
 
 
 
-SpeedyPC may release personal information at times when it is necessary to enforce our End User Licensing Agreement, Terms of Use, or other agreements (i.e.: to defend our intellectual property rights). These agreements can be found on the SpeedyPC website and the End User Licensing Agreement can also be found within the software. SpeedyPC may release or utilize your personal information when required by law, or when SpeedyPC ascertains that relevant statutes and laws would require this release.
+SpeedyPC Software may release personal information at times when it is necessary to enforce our End User Licensing Agreement, Terms of Use, or other agreements (i.e.: to defend our intellectual property rights). These agreements can be found on the SpeedyPC Software website and the End User Licensing Agreement can also be found within the software. SpeedyPC Software may release or utilize your personal information when required by law, or when SpeedyPC Software ascertains that relevant statutes and laws would require this release.”
 
 ## How do we protect your information?
 
@@ -39,15 +39,15 @@ After a transaction, your private information (credit cards, social security num
 
 ## Are external links provided?
 
-Yes, SpeedyPC may choose to include links to third-party websites. These websites may be related to SpeedyPC and its partners, or may be unassociated websites but considered relevant. Any websites which SpeedyPC links to are not covered by this Privacy Statement, and SpeedyPC makes no claims or guarantees to the Privacy Statement, Terms, Conditions, etc. of external sites. Review each site's Privacy Policy for details on their own policies.
+Yes, SpeedyPC Software may choose to include links to third-party websites. These websites may be related to SpeedyPC Software and its partners, or may be unassociated websites but considered relevant. Any websites which SpeedyPC Software links to are not covered by this Privacy Statement, and SpeedyPC Software makes no claims or guarantees to the Privacy Statement, Terms, Conditions, etc. of external sites. Review each site's Privacy Policy for details on their own policies.
 
 ## Do we use cookies?
 
 Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
-SpeedyPC cookies are primarily used to trace SpeedyPC sales made by our affiliates and sales partners, to be certain that payments are made correctly, and accurate tracking information is provided with regard to SpeedyPC sales.
+SpeedyPC Software cookies are primarily used to trace SpeedyPC Software sales made by our affiliates and sales partners, to be certain that payments are made correctly, and accurate tracking information is provided with regard to SpeedyPC Software sales.
 
-SpeedyPC cookies are for a time-restricted period, are under 5KB, are only visible to SpeedyPC and contain no personal details. SpeedyPC cookies contain time-limited ID numbers that are assigned to each computer that visits SpeedyPC servers.
+SpeedyPC Software cookies are for a time-restricted period, are under 5KB, are only visible to SpeedyPC Software and contain no personal details. SpeedyPC Software cookies contain time-limited ID numbers that are assigned to each computer that visits SpeedyPC Software servers. 
 
 ## Do we disclose any information to outside parties?
 
@@ -63,11 +63,11 @@ We are in compliance with the requirements of COPPA (Children's Online Privacy P
 
 ## Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20111227040506id_/http%3A//www.speedypc.com/legal/terms.aspx "Terms of Use Documentation") documentation establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20120511082657id_/http%3A//www.speedypc.com/legal/terms.aspx "Terms of Use Documentation") documentation establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 ## Your Consent
 
-By using the SpeedyPC site or the SpeedyPC program you consent to our online privacy policy.
+By using the SpeedyPC Software site or the SpeedyPC Software program you consent to our online privacy policy.
 
 ## Changes to our Privacy Policy
 
