@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domyownpestcontrol.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214091707id_/http%3A//www.domyownpestcontrol.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domyownpestcontrol.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511062133id_/http%3A//www.domyownpestcontrol.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - DoMyOwnPestControl.com
 
@@ -7,12 +7,12 @@
 
 ### Testimonial
 
-06/27/2008
+07/14/2011
 
-"Customer care resolved my issue quickly and they were polite as well as friendly! Great service!"
+"Their website was awesome to find out what I had(carpenter ants,little black ants and earwigs).They were super helpful,the prices and shipping outstanding. And in just over 4 days all my pests are gone."
 
-Nicole  
-SC
+Doug  
+Upstate NY
 
 [More Testimonials...](http://www.domyownpestcontrol.com/testimonials.php)
 
@@ -24,10 +24,10 @@ SC
 Privacy and Security  
 DoMyOwnPestControl.com is committed to your privacy  
 [  
-](http://www.domyownpestcontrol.com/shipping.php?osCsid=143b280466aeeafbd844b2a17efd809a#ordering)
+](http://www.domyownpestcontrol.com/shipping.php?osCsid=352e70a8b6e2547aabe4d31d430759cf#ordering)
 
   
-Because your privacy is important to us, we have created the following Privacy and Security Policy to let you know what information we collect when you visit our web site, [DoMyOwnPestControl.com](http://www.domyownpestcontrol.com/?osCsid=143b280466aeeafbd844b2a17efd809a), why we collect it, and how it is used. This Privacy and Security Policy also addresses our data security practices, the options you have to access and control any personally identifiable information you provide to us, and other matters. We may periodically make changes to this Privacy and Security Policy which will be included on this page. It is your responsibility to review this Privacy and Security Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. 
+Because your privacy is important to us, we have created the following Privacy and Security Policy to let you know what information we collect when you visit our web site, [DoMyOwnPestControl.com](http://www.domyownpestcontrol.com/?osCsid=352e70a8b6e2547aabe4d31d430759cf), why we collect it, and how it is used. This Privacy and Security Policy also addresses our data security practices, the options you have to access and control any personally identifiable information you provide to us, and other matters. We may periodically make changes to this Privacy and Security Policy which will be included on this page. It is your responsibility to review this Privacy and Security Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. 
 
 **SPECIAL NOTE ABOUT CHILDREN**   
 This site is not intended for or directed to persons under the age of 18. DoMyOwnPestControl.com does not sell products for purchase by children. By registering with this web site, purchasing products from DoMyOwnPestControl.com or providing DoMyOwnPestControl.com with any information, you represent to DoMyOwnPestControl.com that you are 18 or older and that any information you provide to DoMyOwnPestControl.com about a third party is for a third party that is 18 or older.
