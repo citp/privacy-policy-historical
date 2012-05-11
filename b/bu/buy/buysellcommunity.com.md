@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buysellcommunity.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104090359id_/http%3A//www.buysellcommunity.com/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buysellcommunity.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511202241id_/http%3A//www.buysellcommunity.com/privacy_policy.jsp) for the most accurate reproduction.*
 
-# Houston Classifieds - Privacy Policy
+# Boston Classifieds - Privacy Policy
 
 **Our Commitment to Privacy**
 
