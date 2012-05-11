@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thegnomonworkshop.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204952id_/http%3A//www.thegnomonworkshop.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegnomonworkshop.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511121059id_/http%3A//www.thegnomonworkshop.com/privacy.php) for the most accurate reproduction.*
 
 # The Gnomon Workshop | Privacy Policy
 
-### PRIVACY POLICY
+## PRIVACY POLICY
 
 Gnomon’s privacy policy covers the collection and use of personal information that may be collected by Gnomon anytime you interact with Gnomon, such as when you visit our website, when you purchase Gnomon products, or when you call our sales or support associates. Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information. Your privacy is a priority at Gnomon, and we go to great lengths to protect it.
 
