@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezinearticles.mk privacy policy that was archived on 2011-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110702023713id_/http%3A//www.ezinearticles.mk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezinearticles.mk privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511060121id_/http%3A//www.ezinearticles.mk/privacy.php) for the most accurate reproduction.*
 
 # EzineArticles Directory - Free Article Directory
 
@@ -64,5 +64,4 @@ EzineArticles Directory reserves the right to change this policy at any time. Pl
 This policy and the use of this Site are governed by Macedonian law.  
 This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
 
-|    
-
+| 
