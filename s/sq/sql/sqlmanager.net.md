@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sqlmanager.net privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012020110id_/http%3A//www.sqlmanager.net/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlmanager.net privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511120156id_/http%3A//www.sqlmanager.net/en/privacy) for the most accurate reproduction.*
 
 # EMS SQL Manager - Privacy Policy
 
@@ -16,25 +16,17 @@ EMS has established relationships with various service providers whose services 
 In order to reduce errors in our database, authenticate our users and prevent abuse of our system we may on occasion supplement the personal information you submit to us with information from third party sources. For example, we may supplement your registration information with address information provided by the U.S. Postal Service to qualify your information and prevent errors in our database.
 
 **How Your Personal Information is Used**  
-EMS uses your personal information for several purposes including: 
+EMS uses your personal information for several purposes including:
 
-  * To ensure our Site is relevant to your needs. 
-  * To deliver services, such as newsletters, events, training or software, which you request or purchase. 
-  * To help us create and publish content most relevant to you. 
-  * To alert you to product upgrades, special offers, updated information and other new services from EMS. 
-  * To allow you access to limited-entry areas of our Site as appropriate. 
-
-
-
-**When We Disclose Personal Information**  
+ **When We Disclose Personal Information**  
 Because EMS is a global company, your personal information may be shared with other EMS business affiliates around the world. They will protect your personal information in accordance with the EMS Customer Privacy Policy. If you do not want to receive promotional information from EMS or other companies and wish to opt-out, you can disable this subscribe option in your Member account.
 
-EMS works with other companies that help us provide EMS products and services to you, and we may provide your personal information to these companies. For example, we give shipping companies this information so they can deliver your products efficiently. The information they receive is for shipping and delivery purposes only, and we require that the companies safeguard your personal information in accordance with EMS's policies. 
+EMS works with other companies that help us provide EMS products and services to you, and we may provide your personal information to these companies. For example, we give shipping companies this information so they can deliver your products efficiently. The information they receive is for shipping and delivery purposes only, and we require that the companies safeguard your personal information in accordance with EMS policies. 
 
 EMS may disclose your personal information if required to do so by law or legal process. We may also disclose information about you if we believe that disclosure is necessary to protect the personal safety of EMS employees, users of EMS products or services, or members of the public. 
 
 **How We Protect your Personal Information**  
-EMS is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use or disclosure. For example, the EMS Shop uses industry-standard Secure Socket Layer (SSL) encryption on all web pages where personal information is required. To make purchases from the EMS Shop, you must use an SSL-enabled browser such as Netscape Navigator 7.x, Safari 1.0 or Internet Explorer 5 – 6.x. This protects the confidentiality of your personal and credit card information while it is transmitted over the Internet.
+EMS is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use or disclosure. For example, the EMS Shop uses industry-standard Secure Socket Layer (SSL) encryption on all web pages where personal information is required. To make purchases from the EMS Shop, you must use an SSL-enabled browser. This protects the confidentiality of your personal and credit card information while it is transmitted over the Internet.
 
 We urge you to take every precaution to protect your personal data when you are on the Internet. Change your passwords often, use a combination of letters and numbers, and make sure you use a secure browser. 
 
@@ -42,7 +34,7 @@ We urge you to take every precaution to protect your personal data when you are 
 You have access to the information we have about you. To review and update your personal information logon to your Member account and choose [Change My Profile](https://secure.sqlmanager.net/member/profile).
 
 **Collecting Other Personal Information**  
-When you browse EMS’s website, you are able to do so anonymously. Generally, we don’t collect personal information when you browse – not even your email address. Your browser, however, does automatically tell us the type of computer and operating system you are using. 
+When you browse EMS website, you are able to do so anonymously. Generally, we don’t collect personal information when you browse – not even your email address. Your browser, however, does automatically tell us the type of computer and operating system you are using. 
 
 Like many websites, the EMS website uses “cookie” technology. When you first connect to our site, the cookie identifies your browser with a unique, random number. The cookies we use do not reveal any personal information about you. Cookies help us understand which parts of our websites are the most popular, where our visitors are going, and how long they spend there. We use cookies to study traffic patterns on our site so we can make the site even better. 
 
@@ -62,7 +54,7 @@ To make sure your personal information remains confidential, we communicate thes
 
 EMS does not knowingly solicit personal information from children or send them requests for personal information.
 
-EMS's website contains links to other sites. EMS does not share your personal information with those websites and is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies. 
+EMS website contains links to other sites. EMS does not share your personal information with those websites and is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies. 
 
 If we are going to use your personal information differently from that stated at the time of collection, we will try to contact you via email using the most recent information we have. If you have not given us permission to communicate with you, you will not be contacted, nor will we use your personal information in a new manner. 
 
@@ -71,5 +63,5 @@ The EMS Customer Privacy Policy is subject to change at any time. We encourage y
 **Contact Information**  
 EMS welcomes your comments regarding this privacy policy, please contact us at [privacy@SQLManager.net](mailto:privacy@sqlmanager.net)
 
-Last updated November 2005  
-© 1999-2005 EMS Database Management Solutions, Inc. All rights reserved.
+Last updated - 2012  
+© 1999-2012 EMS Database Management Solutions, Inc. All rights reserved.
