@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldprofit.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607193913id_/http%3A//site.worldprofit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldprofit.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511111057id_/http%3A//worldprofit.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Worldprofit.com
+# Privacy Policy
 
 **Our Commitment to Protect Your Personal Information** Worldprofit has been helping  
 businesses online since 1994, longer than any other online business support company. The reason we’re still here is clear: people like what we do for their business and bottom line!
