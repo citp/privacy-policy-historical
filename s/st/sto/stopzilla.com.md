@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stopzilla.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222164307id_/http%3A//www2.stopzilla.com/w3c/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stopzilla.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511163904id_/http%3A//www2.stopzilla.com/w3c/privacy.html) for the most accurate reproduction.*
 
-# STOPzilla - Privacy Policy
+# Privacy Policy - Security Software by STOPzilla
 
 ## IS3, INC. (STOPzilla)
 
