@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vw.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101064742id_/http%3A//www.vw.com/en/privacy/nav/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vw.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511091646id_/http%3A//www.vw.com/en/privacy/nav/privacy_policy.html) for the most accurate reproduction.*
 
 # Volkswagen of America
 
@@ -76,6 +76,6 @@ For your information on the e-commerce site (http://www.cmgestore.com/vw08/), yo
 
 ###### HOW TO CONTACT US
 
-Should you have other questions or concerns about this privacy policy, please [contact  
-us](http://www.vw.com/en/contact_us/nav/contact_us.html).  
+Should you have other questions or concerns about this privacy policy, please contact
 
+us.
