@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iyogi.co.uk privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102025754id_/http%3A//www.iyogi.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iyogi.co.uk privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511155412id_/http%3A//www.iyogi.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
-# iYogi: Privacy Policy :iYogi
+# iYogi Privacy Policy | Computer Support, Computer Repair, Remote PC Support : iYogi
 
 This privacy policy explains how iYogi Inc (“iYogi”) collects, uses and discloses personal and other information iYogi receives in connection with the user support services we provide to user (the “Services”) in accordance with the Terms of Use (http://www.iyogi.net/terms.html). When you submit information through our website, email, chat session, , provide it to our technicians or, use the Services, you(the “user”) agree to our use of this information consistent with this privacy policy. 
 
@@ -14,7 +14,7 @@ TYPES OF INFORMATION IYOGI COLLECTS
 
 _Information You Provide_
 
-**Personal Information:** We will ask you when we need information that personally identifies you ("personal information") or allows us to contact you. In order to use the Services, the user must first typically register or provide certain identifying information. For online registration, we ask you to provide contact details (such as First and Last name, E-mail address, Postal address, Personal identifier etc.). iYogi uses this information to contact you regarding the product and/or services you have requested. This includes re-registration/renewal notifications, special offers, and surveys on improving our Services.
+**Personal Information:** We will ask you when we need information that personally identifies you (“personal information”) or allows us to contact you. In order to use the Services, the user must first typically register or provide certain identifying information. For online registration, we ask you to provide contact details (such as First and Last name, E-mail address, Postal address, Personal identifier etc.). iYogi uses this information to contact you regarding the product and/or services you have requested. This includes re-registration/renewal notifications, special offers, and surveys on improving our Services.
 
 **Payment Information:** If you register for the Services, iYogi may collect credit card information, and other payment information. Like many companies, iYogi may use third party payment processing, payment gateways transactions to process and verify credit cards on our behalf. iYogi uses payment information to complete your transactions.
 
@@ -47,7 +47,7 @@ Use of the Remote Access and Diagnostic applications may be subject to the terms
 
 **Live Help Session Records:** iYogi reserves the right to monitor and record on-line and off-line sessions between users and iYogi technicians for quality control and service-related purposes. Some uses of this type of information include improving the Service, building a support knowledge base and conducting internal market research. We do not correlate session record data used for these purposes with personal information.
 
-**Cookies:** We may use cookies and similar technologies to provide you with more personal service on our website and as you interact with iYogi. Cookies are small pieces of information stored by your browser on your computer's hard drive or on your device. Cookies help us keep track of the preferences you specify. Most web browsers automatically accept cookies, but you can usually change your browser to prevent that if you prefer not to store the information for future use. Each browser is different, so please check the help menu of your browser.
+**Cookies:** We may use cookies and similar technologies to provide you with more personal service on our website and as you interact with iYogi. Cookies are small pieces of information stored by your browser on your computer”s hard drive or on your device. Cookies help us keep track of the preferences you specify. Most web browsers automatically accept cookies, but you can usually change your browser to prevent that if you prefer not to store the information for future use. Each browser is different, so please check the help menu of your browser.
 
 **Log Files:** We use IP addresses to analyze trends, administer the website, track user movement, and gather broad demographic information for aggregate use.
 
@@ -91,11 +91,11 @@ iYogi may offer contests, sweepstakes or other promotions. These promotions will
 
 CHILDREN
 
-Our Services are not intended for use by anyone under the age of 13. Consistent with the Children's Online Privacy Protection Act, we do not collect or maintain information at our website from or sell products to those we actually know are under the age of 13. 
+Our Services are not intended for use by anyone under the age of 13. Consistent with the Children”s Online Privacy Protection Act, we do not collect or maintain information at our website from or sell products to those we actually know are under the age of 13. 
 
 CORRECTION/UPDATING PERSONAL INFORMATION
 
-If a user's personal information changes (such as user zip code), or if a user no longer desires to use the Service. User may correct, update or remove user personal information provided to us through our website. 
+If a user”s personal information changes (such as user zip code), or if a user no longer desires to use the Service. User may correct, update or remove user personal information provided to us through our website. 
 
 NOTIFICATION OF CHANGES
 
