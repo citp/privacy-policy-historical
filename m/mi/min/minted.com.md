@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minted.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113095455id_/http%3A//www.minted.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minted.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511044632id_/http%3A//www.minted.com/privacy) for the most accurate reproduction.*
 
 # Minted.com: Wedding Invitations, Party Invitations, Baby Shower, Birthday & Save The Date Cards
 
