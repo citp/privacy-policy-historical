@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the bepress.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102002922id_/http%3A//www.bepress.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bepress.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511141653id_/http%3A//www.bepress.com/privacy.html) for the most accurate reproduction.*
 
-# Berkeley Electronic Press
+# bepress | Privacy Policy
 
-### Privacy Policy
+The Berkeley Electronic Press ("bepress") is intent on protecting your privacy. The following explains how we treat personal information that we collect and receive, including information related to your past use of bepress products and services. 
 
-The Berkeley Electronic Press (“bepress”) is intent on protecting your privacy. The following explains how we treat personal information that we collect and receive, including information related to your past use of bepress products and services. 
-
-By “personal information” we mean information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
+By "personal information" we mean information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
 
 This policy only applies to bepress and its employees.
 
@@ -59,7 +57,9 @@ The Berkeley Electronic Press may update this policy. We will notify you about s
 
 If you have questions or suggestions, please contact us at: 
 
-The Berkeley Electronic Press Inc.  
-Customer Care - Privacy Policy Issues  
-2809 Telegraph Ave, Suite 202  
-Berkeley, CA 94705
+### bepress  
+Customer Care - Privacy Policy Issues
+
+2100 Milvia Street,   
+Suite 300  
+Berkeley, CA, 94704 USA
