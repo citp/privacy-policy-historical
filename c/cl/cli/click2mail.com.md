@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the click2mail.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121032156id_/http%3A//click2mail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the click2mail.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511082237id_/https%3A//click2mail.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | click2mail.com
 
-Your privacy is very important to us. Click2Mail maintains strict customer information privacy policies and uses state of the art technologies to safeguard customer information and communications from unauthorized intrusions. Click2Mail has put in place the following Privacy Policy to protect customer information. Except as specifically modified in a Customer Agreement, this policy covers Click2Mail and its corporate affiliates, and applies to all customer information that Click2Mail obtains when a customer registers for or uses a Click2Mail online service, including visiting a Click2Mail owned and controlled web site ("Click2Mail Web Site"). 
+Your privacy is very important to us. Click2Mail maintains strict customer information privacy policies and uses state of the art technologies to safeguard customer information and communications from unauthorized intrusions. Click2Mail has put in place the following Privacy Policy to protect customer information. Except as specifically modified in a Customer Agreement, this policy covers Click2Mail and its corporate affiliates, and applies to all customer information that Click2Mail obtains when a customer registers for or uses a Click2Mail online service, including visiting a Click2Mail owned and controlled web site ("Click2Mail Web Site"). From time to time Click2Mail may offer special promotions, contests or other unique marketing efforts which would be governed by their own specific terms and conditions. Anyone choosing to participate in any such marketing effort consents to the terms and conditions specific to such marketing effort taking precedence over any conflicting terms of service and privacy policies set forth on and applicable to the general use of the Click2Mail Web Site, including the use of customer information by Click2Mail. 
 
 Customer Information 
 
@@ -54,8 +54,7 @@ Like most Web sites, Click2Mail sometimes makes use of session "cookies." Cookie
 
 Changes to Click2Mail's Privacy Policy 
 
-We may make changes to this policy from time to time. You can review the most current version of our Privacy Policy at any time at   
-<http://click2mail.com/privacy-policy>. 
+We may make changes to this policy from time to time. 
 
 Comments or Concerns 
 
