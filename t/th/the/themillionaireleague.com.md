@@ -1,74 +1,75 @@
-> *The following text is extracted and transformed from the themillionaireleague.com privacy policy that was archived on 2010-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100816150757id_/http%3A//www.themillionaireleague.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themillionaireleague.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511033209id_/http%3A//www.cashcowclass.com/privacy.html) for the most accurate reproduction.*
 
-# The Millionaire League 2.0
+# Cash Cow Class :: "Milk" Money Online
 
-Privacy Policy
-
-Last modified: August 1st, 2010
-
-We recognize that privacy is important. This Privacy Policy applies to all of the products, services and websites offered by TheMillionaireLeague.com & this website as well as its subsidiaries or affiliated companies.
-
-**Information we collect and how we use it**  
+**PRIVACY POLICY**  
 
 
-All our services require you to register for an account or provide personal information to us. In order to provide our full range of services, we may collect the following types of information:
+Welcome to cashcowclass.com (the "Site").
 
-_Information you provide_ \- When you sign up for an Account that requires registration, we ask you for personal information (such as your name, email address and an account password). For some services, we also request credit card or other payment account information which we maintain in encrypted form on secure servers. We may combine the information you submit under your account with information from our other services or third parties in order to provide you with a better experience and to improve the quality of our services.  
+We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by social paradigm, Inc. (collectively, "Services") ("Authorized Customers").
 
+"Personally Identifiable Information" 
 
-_Cookies_ \- When you visit our websites, we send one or more cookies – a small file containing a string of characters – to your computer or other device that uniquely identifies your browser. We use cookies to improve the quality of our service, including for storing user preferences, improving search results and ad selection, and tracking user trends, such as how people use our website. We may set one or more cookies in your browser when you visit our websites.  
+refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual.
 
+What Personally Identifiable Information is collected?
 
-_Log information_ \- When you access your account, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.  
+We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell.
 
+What organizations are collecting the information? 
 
-_User communications_ \- When you send email or other communications to us or your customers, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.  
+In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
 
+How does the Site use Personally Identifiable Information?
 
-_Affiliated Services and partner sites_ \- We offer some of our services on or through other web sites. Personal information that you provide to those sites may be sent to us in order to deliver the service. We process such information under this Privacy Policy. The affiliated sites mention above may have different privacy practices and we encourage you to read their privacy policies.  
+We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information.
 
+With whom may the information may be shared?
 
-_Gadgets_ \- We may make available third party applications through its services. The information collected by us when you enable a gadget or other application is processed under this Privacy Policy. Information collected by the application or gadget provider is governed by their privacy policies.  
+Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to "opt out" of receiving information or being contacted by us or by any agency acting on our behalf.
 
+How is Personally Identifiable Information stored?
 
-_Links_ \- We may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our search technology, customized content and advertising.  
+Personally Identifiable Information collected by Uwant Media Limited is securely stored and is not accessible to third parties or employees of Uwant Media Limited except for use as indicated above. 
 
+What choices are available to Visitors regarding collection, use and distribution of the information?
 
-_Other sites_ \- This Privacy Policy applies to our services only. We do not exercise control over websites and applications, products or services, or links from within our various services & websites. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you.  
+Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at 
 
+Are Cookies Used on the Site?
 
-TheMillionaireLeague.com processes personal information on our servers in the United States of America and in other countries. In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our affiliated partners.  
+Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
 
+How does Uwant Media Limited use login information? 
 
-**Information sharing**  
+Uwant Media Limited uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information.
 
+What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?
 
-There is no guarantee that we won’t share your basic contact details such as, but not limited to full name, email address and telephone number.  
+Uwant Media Limited has entered into and will continue to enter into partnerships and other affiliations with a number of vendors. Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility. 
 
+Our privacy policy does not cover their collection or use of this information.   
+Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers.
 
-**Information security**  
+How does the Site keep Personally Identifiable Information secure?
 
+All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences.
 
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.  
+How can Visitors correct any inaccuracies in Personally Identifiable Information?
 
+Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at
 
-We restrict access to personal information our employees, contractors and agents who need to know that information in order to operate, develop or improve our services.  
+Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?
 
+We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting . However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.
 
-**Data integrity**  
+What happens if the Privacy Policy Changes?
 
+We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure.
 
-TheMillionaireLeague.com processes personal information only for the purposes for which it was collected and in accordance with this Privacy Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services or as otherwise permitted under this Policy. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.  
+Links:
 
+This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
 
-**Accessing and updating personal information**
-
-When you use our services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing this type of request, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users’ personal information  
-
-
-**Changes to this Privacy Policy**  
-
-
-Please note that this Privacy Policy may change from time to time. We will post any Privacy Policy changes on this page and it is your responsibility to view this page and update yourself with any changes we might make. Each version of this Privacy Policy will be identified at the top of the page by its effective date.
-
-[Home](http://www.themillionaireleague.com/) | [FAQ](http://www.themillionaireleague.com/faq) | [Contact](http://www.themillionaireleague.com/contact) | [Member Login](http://www.themillionaireleague.com/login.php) | [Affiliates](http://www.themillionaireleague.com/affiliates) [|](http://www.themillionaireleague.com/affiliates) [Terms Of Use](http://www.themillionaireleague.com/terms) | [Earnings Disclaimer](http://www.themillionaireleague.com/disclaimer) | [Privacy Policy](http://www.themillionaireleague.com/privacy)
+© 2011 CashCowClass.com. All Rights Reserved.
