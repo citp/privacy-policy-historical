@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collarme.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513065806id_/http%3A//www.collarme.com/personals/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collarme.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511170604id_/http%3A//www.collarme.com/personals/privacy.htm) for the most accurate reproduction.*
 
 # 
 
