@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the notonthehighstreet.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213123706id_/http%3A//www.notonthehighstreet.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notonthehighstreet.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511230156id_/http%3A//www.notonthehighstreet.com/about/privacy) for the most accurate reproduction.*
 
 # Gift Ideas, Unique Gifts and Personalised Gifts | notonthehighstreet.com
 
@@ -22,7 +22,7 @@ We keep a record of any e-mail correspondence you send us, so we can track any p
 
 We'll also ask you questions at registration, and from time to time by email, that will give us information that will be used to improve your experience of shopping at notonthehighstreet.com. You do not have to answer these questions, but if you do we can communicate with you in a more relevant way.
 
-If you would like to revise the information you have provided to us, or feel that what we currently have on record is incorrect, you may update the information by emailing: [info@notonthehighstreet.com](mailto:info@notonthehighstreet.com).
+If you would like to revise the information you have provided to us, or feel that what we currently have on record is incorrect, you may update the information by contacting us: <https://www.notonthehighstreet.com/contact>.
 
 ### how we use your personal data
 
@@ -76,13 +76,13 @@ Please keep in mind that whenever you voluntarily disclose personal information 
 
 ### further information
 
-If you have questions about your personal data or our privacy policy, please contact us at [info@notonthehighstreet.com](mailto:info@notonthehighstreet.com).
+If you have questions about your personal data or our privacy policy, please contact us at <https://www.notonthehighstreet.com/contact>.
 
 To see all the information we have about you, and to correct any inaccuracies, please write to us at: notonthehighstreet.com, First Floor, Lion House, Red Lion Street, Richmond, Surrey, TW9 1RE.
 
 ### how to unsubscribe
 
-If you no longer wish to receive any further email messages, post or other communications from us or you no longer wish to be contacted by other companies who you permitted us to provide your details to then please email [info@notonthehighstreet.com](mailto:info@notonthehighstreet.com) or change your account settings accordingly.
+If you no longer wish to receive any further email messages, post or other communications from us or you no longer wish to be contacted by other companies who you permitted us to provide your details to then please contact us at <https://www.notonthehighstreet.com/contact> or change your account settings accordingly.
 
 ### changes to privacy policy
 
