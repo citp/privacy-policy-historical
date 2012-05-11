@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the foxycart.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101163753id_/http%3A//www.foxycart.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxycart.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511231001id_/http%3A//www3.foxycart.com/privacy-policy) for the most accurate reproduction.*
 
-# FoxyCart's Privacy Policy :: FoxyCart.com
-
-## Overview
+# Privacy Policy - FoxyCart
 
 This privacy statement covers the Web pages belonging to FoxyCart.com LLC in the United States. It does not cover the privacy policies of FoxyCart users (stores using FoxyCart’s services). For the purposes of this privacy policy, “you” shall refer to the FoxyCart.com LLC customer (“user”), and not user’s customers. For information on the “user’s customers” please see the “Stores Using FoxyCart” section.
 
@@ -97,4 +95,4 @@ If at any time you believe that we have not followed the above policy, or would 
 
 We reserve the right to change the terms of this privacy policy at any time, but will not do so without posting the revised policy on this website. We encourage you to review this privacy policy whenever you visit our website to make sure you understand how we use the information we collect.
 
-This policy was last updated: 2007.07.21
+This policy was last updated: 2011.12.01
