@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newcastlepermanent.com.au privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105131236id_/http%3A//www.newcastlepermanent.com.au/Footer/Privacypolicy/tabid/208/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newcastlepermanent.com.au privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511094259id_/http%3A//www.newcastlepermanent.com.au/Footer/Privacypolicy/tabid/208/Default.aspx) for the most accurate reproduction.*
 
 # Newcastle Permanent - Privacy Policy
 
@@ -94,4 +94,4 @@ Phone: 13 19 87
 Fax: (02) 4929 4637
 
 ###### Here's some more information for you:  
-Newcastle Permanent Building Society Limited uses [Netratings Australia](http://www.netratings.com.au/) auditing systems to provide website reporting.
+Newcastle Permanent Building Society Limited uses [Netratings Australia](http://www.nielsen-online.com/intl.jsp?country=au) auditing systems to provide website reporting.
