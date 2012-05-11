@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the web-blinds.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102073207id_/http%3A//www.web-blinds.com/about-web-blinds/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web-blinds.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511063723id_/http%3A//www.web-blinds.com/about-web-blinds/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,7 @@ At Web-Blinds we take protecting your privacy very seriously. Here’s how we ma
 
 We collect information when you place an order, request free samples and save a quote – but **we only keep it with your permission**.
 
-  * We ask for your email address to process your order and to give you a more personal shopping experience.
+  * We ask for your email address and phone number to process and deliver your order and to give you a more personal shopping experience.
   * You don’t have to give us your name, address, telephone and payment details unless you place an order.
   * We may use your details to tell you about goods and services we think you’ll be interested in from us and the Hillarys group of companies we’re part of – but **we always give you the option to tell us if you don’t want your information to be used in this way**. 
   * If you want us to **stop sending you information** , just email us at [enquiries@web-blinds.com](mailto:enquiries@web-blinds.com)
