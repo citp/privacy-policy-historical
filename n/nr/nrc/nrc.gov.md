@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nrc.gov privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009030947id_/http%3A//www.nrc.gov/site-help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrc.gov privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511091856id_/http%3A//www.nrc.gov/site-help/privacy.html) for the most accurate reproduction.*
 
 # NRC: Privacy Policy and Security Notice
 
@@ -32,6 +32,8 @@ When you visit our site, we automatically collect and store the following inform
 
 
 For site management, NRC maintains an operational log of site user addresses. This log is used to generate site usage statistics, track operational problems, and investigate suspected unauthorized activities. Information in this log about individual users is shared only with appropriate law enforcement entities, if necessary, to investigate or prosecute unlawful activities conducted on or against this site.
+
+NRC is connected to the internet through one of the General Services Administration’s vendor managed services which is fully compliant with the Trusted Internet Connection Initiative (Office of Management and Budget’s November 20, 2007, Memorandum M-08-05, “Implementation of Trusted Internet Connection.”)
 
 ## Use and Privacy of Information Submitted
 
@@ -87,7 +89,12 @@ Purpose | Micro-blogging Tool
 Used to publish snippets of content for the purpose of generating conversation/dialog with the public or providing information to the public.  
 Site Privacy Policy | <http://twitter.com/privacy/>  
    
-Privacy Impact Assessment | [Official Presence Use of Social Media Platforms](http://pbadupws.nrc.gov/docs/ML1115/ML11159A004.pdf) (ADAMS ML11159A004)  
+Site | Flickr.com (via GSA)  
+Purpose | Photo Gallery  
+Used to publish photos in order to raise awareness of the agency's current activities, enhance information about existing collections of visual content such as historic photos, and allow the public to easily browse, view, and download content.  
+Site Privacy Policy | <http://info.yahoo.com/privacy/us/yahoo/flickr/details.html>  
+   
+Privacy Impact Assessment | [Official Presence Use of Social Media Platforms](http://pbadupws.nrc.gov/docs/ML1130/ML11307A211.pdf) (ADAMS ML11307A211)  
   
 ## Linking to Other Web Sites
 
@@ -109,7 +116,7 @@ Except for authorized law enforcement investigations and the gathering of site u
 
 ## Privacy Impact Assessments Performed
 
-Access our [Privacy Impact Assessment](https://web.archive.org/about-nrc/plans/privacy-impcat-asess.html) page for assessments made by NRC before developing or procuring information technology (IT) that collects, maintains, or disseminates personal information in identifiable form about members of the public.
+Access our [Privacy Impact Assessment](https://web.archive.org/site-help/plans/privacy-impcat-asess.html) page for assessments made by NRC before developing or procuring information technology (IT) that collects, maintains, or disseminates personal information in identifiable form about members of the public.
 
 ## Use of Web Measurement and Customization Technologies
 
@@ -123,4 +130,4 @@ In response to the Office of Management and Budget (OMB) May 22, 2007, memorandu
 
 In accordance with established policy, the U.S. Nuclear Regulatory Commission (NRC) actively protects personally identifiable information from access by, or disclosure to, unauthorized individuals. The purpose of this document is to reiterate policy and establish standardized response and notification procedures for breaches of that policy. In the event of a breach in PII security requirements, agency personnel are to comply with the following procedures for response and notice to affected individuals, other Federal agencies, and the media, as appropriate. These policies and procedures govern breaches by agency personnel that may result in unauthorized access, either internal or external to the NRC, whether involving electronic systems or paper documents. For more details, please see [ML083650337](http://pbadupws.nrc.gov/docs/ML0836/ML083650337.pdf). 
 
-_Page Last Reviewed/Updated Tuesday, August 02, 2011_
+_Page Last Reviewed/Updated Thursday, March 29, 2012_
