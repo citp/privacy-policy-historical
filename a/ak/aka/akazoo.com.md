@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the akazoo.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206011839id_/http%3A//akazoo.com/various/documents/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akazoo.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511110706id_/http%3A//www.akazoo.com/site/documents/privacy-policy) for the most accurate reproduction.*
 
-# Akazoo
+# Meet new people, Download Music and Get Rewards on Akazoo!
 
-This is the official privacy policy and statement of California privacy rights ("Privacy Policy) for the Akazoo proprietary branded mobile digital content and messaging services defined and described in our [**Terms of Use**](file:///Various/TermsOfUse.aspx). 
+This is the official privacy policy and statement of California privacy rights ("Privacy Policy) for the Akazoo proprietary branded mobile digital content and messaging services defined and described in our [**Terms of Use**](https://web.archive.org/site/documents/terms-of-use). 
 
 The The Terms of Use, together with this Privacy Policy, Community Guidelines, any Additional Terms and, if applicable to you, our Subscription Agreement, forms your agreement with us and any terms not defined in this Privacy Policy have the meaning set forth in those documents. 
 
@@ -81,7 +81,7 @@ Although we may track the numbers of users to inform us on how best to update an
 
 Our Services may contain advertisements, references and links to other services, web sites and organizations. We may also use third parties to display or serve advertising and to communicate to you. Often these third parties employ cookie and web bug technologies to measure advertising effectiveness. You should be aware that different rules apply to the collection, storage, maintenance, use and disclosure of your information by third parties in connection with their advertisements, promotions, and other web sites you encounter on the Internet. The use of such technology by these third parties is within their control and not ours and even if we have a relationship with a third party, we do not control their web sites, their technology or policies and practices regarding your information. This Privacy Policy does not cover any use of Personal Information that a third party, an advertiser or ad server may collect from you. We encourage you to investigate and ask questions directly of them in this regard. 
 
-Postings. We respect the privacy of the contents of certain non-public Postings you provide or make, however, even with respect to private Postings (including, without limitation, User Generated Content), we do reserve the right to monitor, edit and disclose your use of our Services and/or any information pertaining to a Posting and any of the contents to a third party if we believe such action is required by law or is necessary to protect and defend our rights, to enforce our [**Terms of Use**](file:///Various/TermsOfUse.aspx)or to protect our interests or the interests of our users, Registered Users, Subscribers, advertisers, suppliers, operational service providers or others. 
+Postings. We respect the privacy of the contents of certain non-public Postings you provide or make, however, even with respect to private Postings (including, without limitation, User Generated Content), we do reserve the right to monitor, edit and disclose your use of our Services and/or any information pertaining to a Posting and any of the contents to a third party if we believe such action is required by law or is necessary to protect and defend our rights, to enforce our [**Terms of Use**](https://web.archive.org/site/documents/terms-of-use)or to protect our interests or the interests of our users, Registered Users, Subscribers, advertisers, suppliers, operational service providers or others. 
 
 Disclosure to Third Parties. We do not sell, rent, lease or disclose your Personal Information to non-affiliated entities (i.e., entities that are not our parent or subsidiary or affiliated companies) or entities that are not our advertisers or operational service providers, except in the limited circumstances disclosed in this Privacy Policy. If we plan to disclose your Personal Information to any non-affiliated entities, we will ask you to Opt-in and allow it, in which case their use of your information is subject to their privacy policies. We may also offer co-branded services, features and functions, which are activities, events and promotions (for example, a contest) that we put together with another third party ("Co-Branded Partner"). We may share your Personal Information with our Co-Branded Partner and your voluntary use or participation in a co-branded promotion, activity, service, feature or function means you have given your affirmative consent to us and our Co-Branded Partner to collect, maintain, store and use your Personal Information. If you wish to Opt-out of a Co-Branded Partnerâ€™s future use of your Personal Information, you will need to contact the Co-Branded Partner directly. 
 
@@ -110,10 +110,10 @@ Questions. If you have any questions about our Privacy Policy, you may email us 
 
 Sole Statement. The foregoing statements, terms and conditions contained in this Privacy Policy is the sole statement of our privacy policy, and no summary, restatement or other version, or other statement or policy, in any form, including, without limitation, machine-generated, is valid. 
 
-For ease of reference our Terms of Use can be reviewed at any time at [ http://www.akazoo.com/Various/TermsOfUse.aspx](file:///Various/TermsOfUse.aspx), 
+For ease of reference our Terms of Use can be reviewed at any time at [ http://www.akazoo.com/site/documents/terms-of-use](https://web.archive.org/site/documents/terms-of-use), 
 
-our Community Guidelines can be reviewed at any time at [ http://www.akazoo.com/Various/CommunityGuidelines.aspx](file:///Various/CommunityGuidelines.aspx)
+our Community Guidelines can be reviewed at any time at [ http://www.akazoo.com/site/documents/community-guidelines](https://web.archive.org/site/documents/community-guidelines)
 
-and Subscription Agreement can be reviewed at any time at [ http://www.akazoo.com/Various/SubscriptionInfo.aspx](file:///Various/SubscriptionInfo.aspx)
+and Subscription Agreement can be reviewed at any time at [ http://www.akazoo.com/site/documents/subscription-agreement](https://web.archive.org/site/documents/subscription-agreement)
 
 Â© Copyright 2009Internetq, Inc. All Rights Reserved
