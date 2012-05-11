@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cottages4you.co.uk privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103025541id_/http%3A//www.cottages4you.co.uk/sites/cottages4you/pages/securityandprivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cottages4you.co.uk privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512011855id_/http%3A//www.cottages4you.co.uk/sites/cottages4you/pages/securityandprivacy.aspx) for the most accurate reproduction.*
 
 # Security and Privacy Policy | Holiday cottages in the UK, France, Ireland, Spain and Portugal | cottages4you
 
@@ -6,9 +6,7 @@
 
 **1\. Who is responsible for managing my information?**
 
-cottages4you and all websites and brochures operated and/or produced in relation to it are owned and maintained by The Hoseasons Group Ltd ("we" or "us"), a group company of Wyndham Worldwide Corporation ("Wyndham Group"). This is our Privacy Policy.]
-
-[This is the Privacy Policy of The Hoseasons Group Ltd ("we" or "us"), a group company of Wyndham Wordwide Corporation ("Wyndham Group"). This website, the brand to which it relates and all brochures produced in relation to it are owned and/or produced by us.]
+This is the Privacy Policy of The Hoseasons Group Ltd ("we" or "us"), a group company of Wyndham Worldwide Corporation ("Wyndham Group"). This website, the brand to which it relates and all brochures produced in relation to it are owned and/or produced by us.
 
 We are responsible for the collection and proper management of any personal information you submit. We will keep your personal details secure and use the information you provide consistently with applicable privacy and data protection laws and the terms of this Privacy Policy.
 
