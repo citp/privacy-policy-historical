@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topb2c.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113194215id_/http%3A//www.topb2c.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topb2c.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511070204id_/http%3A//www.topb2c.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice - topb2c.com
 
@@ -36,4 +36,4 @@ containing the latest order information, identifiable personal information (incl
 
  :
 
-Copyright © 2008-2010 [BTOC (HK) CO.,](http://www.topbt2c.com/) Ltd. All Rights Reserved. 
+Copyright © 2008-2012 BTOC (HK) CO., Ltd. Topb2c.com All Rights Reserved. 
