@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the valsparpaint.com privacy policy that was archived on 2011-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111203114943id_/http%3A//www.valsparpaint.com/en/privacy-policy/index.html%3Fref%3Dprivacypolicy_homepage_menu) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the valsparpaint.com privacy policy that was archived on 2012-05-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120511180918id_/http%3A//www.valsparpaint.com/en/privacy-policy/index.html%3Fref%3Dprivacypolicy_homepage_menu) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -110,7 +110,7 @@ function trackInternalPromoImpression(str) {
         var keycode = (e.keyCode) ? e.keyCode : e.which;
 
         if (keycode == 10 || (keycode == 13 && e.ctrlKey))
-        alert("padre");
+        alert("padre3");
     }
 
     document.onkeypress = keyhandler;
@@ -142,13 +142,30 @@ function trackInternalPromoImpression(str) {
           window.location = "/en/explore-colours/sample-store/index.html";
       }
 
+      function loadIp() {
+    	  var valid = topNav.findARetailer('Enter ZIP Code');
+    	  if (valid != false) {
+	          $.getJSON('http://wservice.valsparpaint.com/wservices/json/clientip?ts=1336759714382&callback=?', function(data){
+	              clientAddress = data.xforwardedfor;
+	
+	              if (clientAddress && clientAddress != null) {
+	                  window.location = '/en/search/find-a-retailer.html?zip=' + $('input[name=zip]').val() + '&cIp=' + clientAddress + '&ref=retailer_homepage_menu';
+		              //$('input[name=cIp]').val(clientAddress);
+		              //$('input[name=zip]').val();
+	              }
+	              else alert("Error, please try again");
+	          })
+    	  }
+    	  return false;
+      }
+      
 </script>
 
     <!-- top navigation about us | find retailer ..........   -->
 
     <div class="topNavBtnRow">
          
-        <div class="welcomeMSG" id="welcomeMessage">Welcome back, Valspar Generic (<a href="javascript: topNav.signOutNotMe(); void(0);">Not Valspar Generic?</a>)</div>
+        <div class="welcomeMSG" id="welcomeMessage"> <!--CR508567-startslash--></div>
         
         
         <div id="topNavBtnRetailer" class="topNavBtnRetailer">
@@ -278,53 +295,10 @@ function trackInternalPromoImpression(str) {
     <!-- content  -->
 
         <div>
-            <a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html' ); void(0);">My Recently Saved Items </a><a id="topNavRootProjectAmount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html' ); void(0);">[859]</a>
+            <a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html' ); void(0);">My Recently Saved Items </a><a id="topNavRootProjectAmount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html' ); void(0);">[0]</a>
         </div>
 
 
-        
-        <div id="myProjectsBlock">
-	        <div>My Projects</div>
-	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5851542' ); void(0);">Barn </a><a id="topNavProject5851542amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5851542' ); void(0);">[0]</a></div>
-	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5743642' ); void(0);">EXTERIOR PAINT </a><a id="topNavProject5743642amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5743642' ); void(0);">[0]</a></div>
-	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5546645' ); void(0);">House paint </a><a id="topNavProject5546645amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5546645' ); void(0);">[0]</a></div>
-	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5718090' ); void(0);">Living Room </a><a id="topNavProject5718090amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5718090' ); void(0);">[2]</a></div>
-	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5919282' ); void(0);">Southland </a><a id="topNavProject5919282amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5919282' ); void(0);">[1]</a></div>
-	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5191580' ); void(0);">Test </a><a id="topNavProject5191580amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5191580' ); void(0);">[0]</a></div>
-	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5485447' ); void(0);">barnette </a><a id="topNavProject5485447amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5485447' ); void(0);">[0]</a></div>
-	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5202710' ); void(0);">bathroom </a><a id="topNavProject5202710amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5202710' ); void(0);">[0]</a></div>
-	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5746004' ); void(0);">ceiling </a><a id="topNavProject5746004amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5746004' ); void(0);">[0]</a></div>
-	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5177347' ); void(0);">collins living room </a><a id="topNavProject5177347amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5177347' ); void(0);">[0]</a></div>
-	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5896206' ); void(0);">den </a><a id="topNavProject5896206amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5896206' ); void(0);">[1]</a></div>
-	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5527300' ); void(0);">exterior 50 East </a><a id="topNavProject5527300amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5527300' ); void(0);">[0]</a></div>
-	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5179674' ); void(0);">hallway </a><a id="topNavProject5179674amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5179674' ); void(0);">[4]</a></div>
-	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5178823' ); void(0);">hargis bathroom </a><a id="topNavProject5178823amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5178823' ); void(0);">[0]</a></div>
-	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5714203' ); void(0);">house </a><a id="topNavProject5714203amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5714203' ); void(0);">[1]</a></div>
-	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5756244' ); void(0);">house painting </a><a id="topNavProject5756244amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5756244' ); void(0);">[0]</a></div>
-	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5714555' ); void(0);">interior home </a><a id="topNavProject5714555amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5714555' ); void(0);">[1]</a></div>
-	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5835090' ); void(0);">kassidys room </a><a id="topNavProject5835090amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5835090' ); void(0);">[0]</a></div>
-	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5783253' ); void(0);">kitchen </a><a id="topNavProject5783253amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5783253' ); void(0);">[0]</a></div>
-	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5819060' ); void(0);">kitchen </a><a id="topNavProject5819060amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5819060' ); void(0);">[0]</a></div>
-	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5183957' ); void(0);">laundry room </a><a id="topNavProject5183957amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5183957' ); void(0);">[0]</a></div>
-	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5190925' ); void(0);">liv </a><a id="topNavProject5190925amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5190925' ); void(0);">[0]</a></div>
-	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5188165' ); void(0);">living room </a><a id="topNavProject5188165amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5188165' ); void(0);">[0]</a></div>
-	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=6188121' ); void(0);">living room </a><a id="topNavProject6188121amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=6188121' ); void(0);">[0]</a></div>
-	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5938254' ); void(0);">michele </a><a id="topNavProject5938254amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5938254' ); void(0);">[1]</a></div>
-	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5725891' ); void(0);">my home </a><a id="topNavProject5725891amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5725891' ); void(0);">[0]</a></div>
-	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5653834' ); void(0);">paint </a><a id="topNavProject5653834amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5653834' ); void(0);">[0]</a></div>
-	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5798799' ); void(0);">paint </a><a id="topNavProject5798799amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5798799' ); void(0);">[0]</a></div>
-	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5936091' ); void(0);">paint </a><a id="topNavProject5936091amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5936091' ); void(0);">[0]</a></div>
-	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5663737' ); void(0);">paint mckinney </a><a id="topNavProject5663737amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5663737' ); void(0);">[5]</a></div>
-	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5502005' ); void(0);">rOS </a><a id="topNavProject5502005amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5502005' ); void(0);">[0]</a></div>
-	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5829946' ); void(0);">rental </a><a id="topNavProject5829946amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5829946' ); void(0);">[0]</a></div>
-	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5888902' ); void(0);">room </a><a id="topNavProject5888902amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5888902' ); void(0);">[0]</a></div>
-	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5610682' ); void(0);">shed </a><a id="topNavProject5610682amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5610682' ); void(0);">[0]</a></div>
-	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5205017' ); void(0);">shekia's </a><a id="topNavProject5205017amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5205017' ); void(0);">[0]</a></div>
-	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5196751' ); void(0);">wall </a><a id="topNavProject5196751amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5196751' ); void(0);">[0]</a></div>
-	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5895664' ); void(0);">walls </a><a id="topNavProject5895664amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5895664' ); void(0);">[0]</a></div>
-	        
-	        <div class="topDropHline">&nbsp;<!--CR508567-/2 --></div>
-        </div>
         
 
 
@@ -706,13 +680,14 @@ function trackInternalPromoImpression(str) {
     <td class="topDropTDL">&nbsp;<!--CR508567-/2 --></td>
     <td class="topDropTDMB">
     <!-- content  -->
-      <form name="topNavDealer" method="get" action="/en/search/find-a-retailer.html" onsubmit="return topNav.findARetailer('Enter ZIP Code');">
+      <form id="topNavDealerForm" name="topNavDealer" method="get" action="/en/search/find-a-retailer.html" onsubmit="return loadIp();">
 
          <input type="text" name="zip" id="findARetailerZipCode" class="searchThis" value="Enter ZIP Code" onfocus="javascript: inputFields.onFocus(this, {label:'Enter ZIP Code', value:this.value})" onblur="javascript: inputFields.onBlur(this, {label:'Enter ZIP Code', value:this.value})" tabindex="1">
 
-          <button class="buttonsFN" type="submit">
+          <button type="button" onclick="loadIp();" class="buttonsFN">
           	go
           </button>
+          <input type="hidden" name="cIp">
 
       </form>
 
@@ -984,6 +959,13 @@ function trackInternalPromoImpression(str) {
 <!-- bottom navigation  -->
 <div class="footer">
 	<ul class="topFooterRow">
+		
+			<li class="youtube">
+				<a onclick="trackYouTubeClicks(this.href);" href=" http://www.youtube.com/valsparpaint" target="_blank">
+					<img src="/resources/valspar/img/logo_youtube.png" width="20" height="20" border="0">
+				</a>
+			</li>
+		
 		<li class="socmed">
 			<!-- AddThis Button BEGIN -->
 			<div class="addthis_toolbox addthis_default_style " addthis:url="http://www.valsparpaint.com">
@@ -1029,11 +1011,12 @@ function trackInternalPromoImpression(str) {
 	<div class="bottomNavHline"></div>
 	<p class="copyrightLine">©
 		<script language="JavaScript">var now=new Date();document.write(now.getFullYear());</script>2020
-		Valspar Corporation. All Rights Reserved.
+		The Valspar Corporation. All Rights Reserved.
 	</p>
 	
 		<ul class="bttmFooterRow">
 			<li><a href="/en/site-map/index.html">Sitemap</a></li>
+			<li><a href="/en/retailer-resources/index.html">For Retailers</a></li>
 			<li><a href="/en/terms-of-use/index.html">Terms of Use</a></li>
 			<li><a href="/en/privacy-policy/index.html">Privacy</a></li>
 			<li id="bottomNavCorp" class="bottomNavHrefCorp"><a href="http://valsparglobal.com">Valspar Corporate</a></li>
@@ -1092,7 +1075,10 @@ function trackInternalPromoImpression(str) {
 
 
 <script language="javascript">
-	$('#emailButton').click(function(){VServiceOptIn('1001', $('input[name=emailsignup]').val())});
+	$('#emailButton').click(function(){
+		VServiceOptIn('1001', $('input[name=emailsignup]').val());
+		trackNewsletterSignup();
+	});
 
 
     topNav.attach("btnCreateProfile", "menuCreateProfile", "hover", "y", "hand");
@@ -1110,12 +1096,12 @@ function trackInternalPromoImpression(str) {
 <script language="javascript">
     // sets the top nav welcome message
     
-        var newUser = new VServiceUser( 18769166,
-                                       "registered",
-                                       "valsparpartner@valspar.com",
-                                       "Valspar Generic",
-                                       "User",
-                                       "false",
+        var newUser = new VServiceUser( 129148010,
+                                       "anonymous",
+                                       "null",
+                                       "null",
+                                       "null",
+                                       "true",
                                        "false");
 
         vReqBean = new VServiceRequestBean( newUser,
@@ -1127,7 +1113,7 @@ function trackInternalPromoImpression(str) {
         topNav.setUserWelcome();
 
         if (vReqBean.isUserLoggedIn()) {
-        	    (function(){  valOmniture.evar11 = "18769166"; })(); //JT: set user id
+        	    (function(){  valOmniture.evar11 = "129148010"; })(); //JT: set user id
            topNav.myProfileShowHide('signInConf','signIn');  //display signout if logged in
         }
     
