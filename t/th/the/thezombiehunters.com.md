@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thezombiehunters.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103193818id_/http%3A//www.thezombiehunters.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thezombiehunters.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511033225id_/http%3A//www.thezombiehunters.com/privacy.php) for the most accurate reproduction.*
 
 # The Zombie Hunters
 
@@ -31,7 +31,7 @@ Usernames are used to publicly identify the user to the rest of the forum. Email
 
  _Information that is gathered:_
 
-Survey responses are collected for the use of The Zombie Hunters, USA. Only the survey responses are collected- no identifying information is gathered during the surveys. All responses are collected anonymously, and are numbered with a simple anonymous key-generating algorythim to weed out duplicates.
+Survey responses are collected for the use of The Zombie Hunters, USA. Only the survey responses are collected- no identifying information is gathered during the surveys. All responses are collected anonymously, and are numbered with a simple anonymous key-generating algorythm to weed out duplicates.
 
  _How this information is used:_
 
@@ -44,7 +44,11 @@ Survey responses are used to allow better customization of product offerings. Th
 Customer information is not retained on this site. PayPal may collect customer information in accordance with their own privacy policy. The PayPal Privacy Policy can be found here: <https://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside>
 
 **ADVERTISING:**  
-The Zombie Hunters, USA provides advertising space to CONTEXTWEB, Six Apart, and Project Wonderful. Their respective privacy policies can be found below.  
+The Zombie Hunters, USA provides advertising space to the following advertisers: PulsePoint, ValueClick, Lijit, Project Wonderful. Their privacy policies can be found below.  
 Project Wonderful: <http://www.projectwonderful.com/tos.php>  
-CONTEXTWEB: <http://www.contextweb.com/ppolicy.html>  
-Six Apart: <http://www.adify.com/privacy-policy/>
+PulsePoint: <http://www.contextweb.com/ppolicy.html>  
+ValueClick: <http://www.valueclickmedia.com/about/privacy>  
+Lijit: <http://www.lijit.com/company/privacy-policy>
+
+**OTHER COOKIES:**  
+From time to time, testing cookies may be generated so that Greg can use them for site maintenance. These cookies will be labeled as such and will have a one-hour expiration time. Testing cookies are used to allow Greg to track the progress of various pages, load times, or other such performance information. Testing cookies are not monitored or collected and can be blocked or deleted with no adverse effects. 
