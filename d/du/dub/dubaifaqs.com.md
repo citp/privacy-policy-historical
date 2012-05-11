@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dubaifaqs.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225190900id_/http%3A//www.dubaifaqs.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubaifaqs.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511205524id_/http%3A//www.dubaifaqs.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Dubai FAQs Privacy Policy
 
@@ -26,7 +26,7 @@ Most pages on DubaiFAQs.com display advertisements from the Google Adsense progr
   
 ##### Related pages
 
-  * [About Dubai FAQs](https://web.archive.org/web/20101225190900id_/http%3A//www.dubaifaqs.com/about-us.php)
+  * [About Dubai FAQs](https://web.archive.org/web/20120511205524id_/http%3A//www.dubaifaqs.com/about-us.php)
 
 
 
@@ -42,4 +42,4 @@ Most pages on DubaiFAQs.com display advertisements from the Google Adsense progr
 
 Abu Dhabi AUH ABD ADB, Ajman AJM, Al Ain AAN, Dubai DXB, Fujairah FUJ, Ras Al Khaimah RAK, Sharjah SHJ, Umm Al Quwain UAQ information guide
 
-Copyright © www.dubaifaqs.com 2010, Dubai, UAE - United Arab Emirates 
+Copyright © www.dubaifaqs.com 2012, Dubai, UAE - United Arab Emirates 
