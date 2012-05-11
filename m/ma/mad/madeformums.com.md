@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madeformums.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006212449id_/http%3A//www.madeformums.com/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madeformums.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511064310id_/http%3A//www.madeformums.com/members/privacy.asp%3Fv%3D1) for the most accurate reproduction.*
 
 # MadeForMums - Privacy Policy
 
