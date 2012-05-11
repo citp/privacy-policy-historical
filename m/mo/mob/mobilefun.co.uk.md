@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilefun.co.uk privacy policy that was archived on 2011-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111018052651id_/http%3A//www.mobilefun.co.uk/blog/information/security-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilefun.co.uk privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511190851id_/http%3A//www.mobilefun.co.uk/blog/information/security-and-privacy) for the most accurate reproduction.*
 
 # Security and Privacy | Mobile Fun Blog
 
@@ -8,7 +8,7 @@
 
 Mobile Fun is aware that you care how information about you is used and shared. We assure **the highest level of safety and security** for our customers and have established state-of-the-art technological protection measures to ensure that all of our transaction processes, both online and offline, are extremely safe
 
-You can shop with confidence at Mobile Fun, knowing that your personal information, including name, address and credit card information, is protected by **VeriSign Secure Site Technology**. Our industry standard encryption ensures no one can access or use your personal information. But our security procedures don?t stop there: your order details are then encrypted with 1024-bit PGP technology before it is communicated to the Mobile Fun sales and despatch team.
+You can shop with confidence at Mobile Fun, knowing that your personal information, including name, address and credit card information, is protected by **VeriSign Secure Site Technology**. Our industry standard encryption ensures no one can access or use your personal information. But our security procedures don’t stop there: your order details are then encrypted with 1024-bit PGP technology before it is communicated to the Mobile Fun sales and despatch team.
 
 All Internet host IP addresses are also recorded for security reasons when placing an order online, which may identify your computer and Internet connections, for fraud-prevention purposes.
 
