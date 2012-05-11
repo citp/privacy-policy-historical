@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agl.com.au privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107111640id_/http%3A//www.agl.com.au/SiteTools/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agl.com.au privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511063140id_/http%3A//www.agl.com.au/SiteTools/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy | AGL Energy
 
@@ -118,12 +118,16 @@ You can contact the AGL Energy Group about a privacy-related issue by phone, pos
 Phone: 131 245 
 
 Address: AGL Energy Limited  
-              Privacy Officer  
-              Locked Bag 1837  
-              St Leonards NSW 2065 
+              Customer Advocacy  
+              Locked Bag 14120  
+              MCMC VIC 8001 
 
 ## Updates to this Policy
 
 Our Privacy Policy will be reviewed from time to time to take account of new laws and technology, changes to our operations and practices and the changing business environment.
 
-The current version is accessible on this website or can be obtained by contacting us.
+The current version can be downloaded below or can be obtained by contacting us.
+
+  * [AGL Privacy Policy (PDF)](https://web.archive.org/Downloads/AGL%20Privacy%20Policy.pdf)
+
+
