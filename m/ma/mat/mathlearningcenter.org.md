@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathlearningcenter.org privacy policy that was archived on 2011-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111018083151id_/http%3A//mathlearningcenter.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathlearningcenter.org privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511233845id_/http%3A//www.mathlearningcenter.org/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Math Learning Center
 
@@ -29,5 +29,5 @@ This site contains links to other sites. MLC is not responsible for the privacy 
 **Public Forum  
 **This site may make public forums available to its users. Please remember to exercise caution when disclosing personal information.
 
-****Changes to this Privacy Policy**  
-****MLC may revise this policy from time to time so we recommend that you check back periodically. If you have questions or suggestions please contact Rick Ludeman at 1-800-575-8130 or [rickl@mathlearingcenter.org](mailto:rickl@mathlearningcenter.org)**
+**Changes to this Privacy Policy**  
+MLC may revise this policy from time to time so we recommend that you check back periodically. If you have questions or suggestions please contact Rick Ludeman at 1-800-575-8130 or [rickl@mathlearingcenter.org](mailto:rickl@mathlearningcenter.org)
