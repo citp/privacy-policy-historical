@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revenuestreet.com privacy policy that was archived on 2010-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100804051351id_/http%3A//www.revenuestreet.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revenuestreet.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511215555id_/http%3A//www.revenuestreet.com/privacy-policy.html) for the most accurate reproduction.*
 
 # RevenueStreet, Affiliate Marketing, Performance Based Online Advertising Company
 
