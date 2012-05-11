@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the domainsatcost.ca privacy policy that was archived on 2011-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111208212506id_/http%3A//www.domainsatcost.ca/PrivacyStatement.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the domainsatcost.ca privacy policy that was archived on 2012-05-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120511184028id_/http%3A//www.domainsatcost.ca/PrivacyStatement.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-ca" class="dac"><head><title>
 	Domainsatcost.ca - Privacy Statement
@@ -10,12 +10,12 @@
 		<![endif]-->
 
 		<!-- CSS - Common to all sites -->
-		<link rel="stylesheet" type="text/css" href="/css/combined_0F0197816C794379A20F6F711BF703DD.css">
+		<link rel="stylesheet" type="text/css" href="/css/combined_9C794DA853C55D655E16F46FCA93DE79.css">
 <meta name="Description" content="Affordable Domain Name Registration and Website Hosting at Domainsatcost.ca. Canadian registrar offering personal website building tools and services that are easy to use. Register your .ca, .com, .net, .org, .info, .biz, .us and .name domains."><meta name="Keywords" content="Canadian domain names, Canadian, Canada, domain name, domain names, domain registrar, domain name registrar, domain name registrars, registrar, domain, domains, domain name registration, domain name registrations, domain registration, domain registrations, domain name register, register domain , register domains, internet domain registrations, internet domain names, internet domain name, transfer domain name, transferring domain names, renew domain, domain forwarding, .ca, .com, .net, .org, .info, .biz, .us, .name, web site, website, blog, blogs, photo album, photo albums, website building, hosting, website hosting, web hosting, affordable domain, affordable domains, cheap domain, cheap domains, transfer domain, transfer domains, buy domain name, buy domain names, domain name search, web address, buy domain, buy domains, domain search, domain renewal, domain transfers, bulk tools, search domains, CIRA, ICANN accredited registrar, URL, DNS"><script type="text/javascript" src="/Scripts/jquery.js"></script></head>
     
     <body id="ctl00_bodyEl">
 	<span id="top"></span>
-        <script language="javascript" type="text/javascript">
+        <script>
             var AllowEnterKey = false;
             function SearchEnterKeyHandler(e, targetID)
             {
@@ -57,11 +57,62 @@
             function pageLoad(sender, args){
                 $addHandler(document, "keydown", HideModalPopup);
             }
+
+            $(function () {
+                var maxLines = 100000;
+                var limitPerLine = 255;
+                var prevLength = 0;
+
+                $('textarea[id$=txtSelectMulti]').keyup(function (e) {
+                    var lineData = $(this).val().split("\n");
+
+                    // total number of lines
+                    var totalCurrentLines = lineData.length;
+
+                    // current line number
+                    var lineNum = getCurrentLineNumber($(this).get(0));
+
+                    // length of current line
+                    var len = lineData[lineNum - 1].length;
+
+                    if (e.keyCode == 13 && totalCurrentLines > maxLines)
+                        this.value = this.value.substring(0, prevLength);
+                    else if (len > limitPerLine) {
+                        var val = '';
+                        for (i = 0; i < lineData.length; i++) {
+                            if (i == lineNum - 1)
+                                val += lineData[i].substring(0, limitPerLine);
+                            else
+                                val += lineData[i];
+                            if(i != lineData.length - 1)
+                                val += '\n';
+                        }
+                        this.value = val;
+                    }
+
+                    prevLength = $(this).val().length;
+                });
+            });
+
+            // get current line number of "multi line" text box
+            function getCurrentLineNumber(element) {
+                var pos = element.selectionStart;
+                var splitInfo = $('textarea[id$=txtSelectMulti]').val().substring(0, pos).split("\n");
+                return splitInfo.length;
+            }
+
+            // get index of first character in current line of "multi line" text box
+            function getIndexofFirstCharAtLine(data, lineNumber) {
+                var index = 0;
+                for (i = 0; i < lineNumber - 1; i++)
+                    index += data[i].length;
+                return index;
+            }
               
         </script>
 
         <form name="aspnetForm" method="post" action="/PrivacyStatement.aspx" id="aspnetForm" onkeypress="if(AllowEnterKey==false){return event.keyCode!=13}" enctype="multipart/form-data">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTE5OTMxNzk4MQ9kFgJmD2QWBGYPZBYCAgEPFgIeBGhyZWYFHH4vQXBwX1RoZW1lcy9EQUMvZmF2aWNvbi5pY29kAgEPZBYCZg8WAh4HZW5jdHlwZQUTbXVsdGlwYXJ0L2Zvcm0tZGF0YRYCAgUPFgIeBWNsYXNzBR9jb250YWluZXIgcHJpdmFjeXN0YXRlbWVudC1wYWdlFgwCAQ9kFgJmD2QWAgIBD2QWBAIBD2QWCGYPZBYIZg9kFgJmDw8WBB4ISW1hZ2VVcmwFJ34vQXBwX1RoZW1lcy9EQUMvaW1hZ2VzL3NwYWNlci5naWYuYXNweB4NQWx0ZXJuYXRlVGV4dAUQRG9tYWluc2F0Y29zdC5jYWRkAg4PZBYCZg8PFgQfAwUnfi9BcHBfVGhlbWVzL0RBQy9pbWFnZXMvc3BhY2VyLmdpZi5hc3B4HwQFEERvbWFpbnNhdGNvc3QuY2FkZAIUDw8WAh4HVmlzaWJsZWhkFgQCCw9kFgICAQ9kFgJmDxBkZBYKZgIBAgICAwIEAgUCBgIHAggCCWQCDQ8WAh4Fc3R5bGUFDWRpc3BsYXk6bm9uZTtkAhUPFgIfBWcWAgIBDw8WAh4EVGV4dAURUHJpdmFjeSBTdGF0ZW1lbnRkZAIBD2QWCAIFD2QWAgIBD2QWAmYPZBYIAgEPFgIfBwUJVXNlciBOYW1lZAIDDw9kFgIeCm9ua2V5cHJlc3MFgAFMb2dpbkVudGVyS2V5SGFuZGxlcihldmVudCwgJ2N0bDAwX2N0bEhlYWRlcl9kaXZMb2dnaW5nSW4nLCAnY3RsMDBfY3RsSGVhZGVyX2RpdkxvZ2dpbmdCb3gnLCAnY3RsMDBfY3RsSGVhZGVyX2xjVG9wTG9naW5fTG9naW4nKWQCBQ8PZBYCHwgFgAFMb2dpbkVudGVyS2V5SGFuZGxlcihldmVudCwgJ2N0bDAwX2N0bEhlYWRlcl9kaXZMb2dnaW5nSW4nLCAnY3RsMDBfY3RsSGVhZGVyX2RpdkxvZ2dpbmdCb3gnLCAnY3RsMDBfY3RsSGVhZGVyX2xjVG9wTG9naW5fTG9naW4nKWQCBw8PZBYCHgdvbmNsaWNrBU1TaG93TG9hZGluZygnY3RsMDBfY3RsSGVhZGVyX2RpdkxvZ2dpbmdJbicsICdjdGwwMF9jdGxIZWFk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dFRMRHMkMQUmY3RsMDAkc2JNYWluQ29udGVudFNlYXJjaEJveCRsc3RUTERzJDIFJmN0bDAwJHNiTWFpbkNvbnRlbnRTZWFyY2hCb3gkbHN0VExEcyQzBSZjdGwwMCRzYk1haW5Db250ZW50U2VhcmNoQm94JGxzdFRMRHMkNAUmY3RsMDAkc2JNYWluQ29udGVudFNlYXJjaEJveCRsc3RUTERzJDUFJmN0bDAwJHNiTWFpbkNvbnRlbnRTZWFyY2hCb3gkbHN0VExEcyQ2BSZjdGwwMCRzYk1haW5Db250ZW50U2VhcmNoQm94JGxzdFRMRHMkNwUmY3RsMDAkc2JNYWluQ29udGVudFNlYXJjaEJveCRsc3RUTERzJDgFJmN0bDAwJHNiTWFpbkNvbnRlbnRTZWFyY2hCb3gkbHN0VExEcyQ5BSZjdGwwMCRzYk1haW5Db250ZW50U2VhcmNoQm94JGxzdFRMRHMkOQUMY3RsMDAkY2hrVGFnBRhjdGwwMCRjdGxGb290ZXIkbXZGb290ZXIPD2QCAWQFGGN0bDAwJGN0bEhlYWRlciRtdkhlYWRlcg8PZAIBZEeY1QO2OD5sz0e67E+6ZOqwSI7v">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTE5OTMxNzk4MQ9kFgJmD2QWBGYPZBYCAgEPFgIeBGhyZWYFHH4vQXBwX1RoZW1lcy9EQUMvZmF2aWNvbi5pY29kAgEPZBYCZg8WAh4HZW5jdHlwZQUTbXVsdGlwYXJ0L2Zvcm0tZGF0YRYCAgUPFgIeBWNsYXNzBR9jb250YWluZXIgcHJpdmFjeXN0YXRlbWVudC1wYWdlFgoCAQ9kFgJmD2QWAgIBD2QWBAIBD2QWCGYPZBYIZg9kFgJmDw8WBB4ISW1hZ2VVcmwFJ34vQXBwX1RoZW1lcy9EQUMvaW1hZ2VzL3NwYWNlci5naWYuYXNweB4NQWx0ZXJuYXRlVGV4dAUQRG9tYWluc2F0Y29zdC5jYWRkAg0PZBYCZg8PFgQfAwUnfi9BcHBfVGhlbWVzL0RBQy9pbWFnZXMvc3BhY2VyLmdpZi5hc3B4HwQFEERvbWFpbnNhdGNvc3QuY2FkZAITDw8WAh4HVmlzaWJsZWhkFgQCCw9kFgICAQ9kFgJmDxBkZBYKZgIBAgICAwIEAgUCBgIHAggCCWQCDQ8WAh4Fc3R5bGUFDWRpc3BsYXk6bm9uZTtkAhQPFgIfBWcWAgIBDw8WAh4EVGV4dAURUHJpdmFjeSBTdGF0ZW1lbnRkZAIBD2QWCAIFD2QWAgIBD2QWAmYPZBYIAgEPFgIfBwUJVXNlciBOYW1lZAIDDw9kFgIeCm9ua2V5cHJlc3MFgAFMb2dpbkVudGVyS2V5SGFuZGxlcihldmVudCwgJ2N0bDAwX2N0bEhlYWRlcl9kaXZMb2dnaW5nSW4nLCAnY3RsMDBfY3RsSGVhZGVyX2RpdkxvZ2dpbmdCb3gnLCAnY3RsMDBfY3RsSGVhZGVyX2xjVG9wTG9naW5fTG9naW4nKWQCBQ8PZBYCHwgFgAFMb2dpbkVudGVyS2V5SGFuZGxlcihldmVudCwgJ2N0bDAwX2N0bEhlYWRlcl9kaXZMb2dnaW5nSW4nLCAnY3RsMDBfY3RsSGVhZGVyX2RpdkxvZ2dpbmdCb3gnLCAnY3RsMDBfY3RsSGVhZGVyX2xjVG9wTG9naW5fTG9naW4nKWQCBw8PZBYCHgdvbmNsaWNrBU1TaG93TG9hZGluZygnY3RsMDBfY3RsSGVhZGVyX2RpdkxvZ2dpbmdJbicsICdjdGwwMF9jdGxIZWFkZXJfZGl2TG9nZ2luZ0JveCcpO2QCBw8PFgIfBWhkZAINDw8WBB4IQ3NzQ2xhc3MFD25hdmlnYXRpb24tMmNvbB4EXyFTQgICZGQCDw8WAh8FZ2QCAg9kFgICDQ9kFgQCCw9kFgICAQ9kFgJmDxBkZBYKZgIBAgICAwIEAgUCBgIHAggCCWQCDQ8WAh8GBQ1kaXNwbGF5Om5vbmU7ZAIDD2QWAgIJD2QWBAILD2QWAgIBD2QWAmYPEGRkFgpmAgECAgIDAgQCBQIGAgcCCAIJZAINDxYCHwYFDWRpc3BsYXk6bm9uZTtkAgMPDxYCHwVoZGQCCQ9kFgYCAQ9kFggCAQ8PFgQeC05hdmlnYXRlVXJsBRFBc2tBUXVlc3Rpb24uYXNweB8HBRhzZXJ2aWNlQGRvbWFpbnNhdGNvc3QuY2FkZAIDDxYCHwcFDjEtNjEzLTc2OC01MTI1ZAIFDw8WAh8MBR9odHRwOi8vc2VydmljZS5kb21haW5zYXRjb3N0LmNhZGQCCw9kFgICAQ9kFgJmD2QWBgIDDw9kFgIfCAVScmV0dXJuIFNlYXJjaEVudGVyS2V5SGFuZGxlcihldmVudCwgJ2N0bDAwX05JQ1NpZGViYXIxX3NiU2lkZWJhclNlYXJjaF9sbmtTZWFyY2gnKWQCBw8QZA8WCmYCAQICAgMCBAIFAgYCBwIIAgkWChAFAy5DQQUBNWcQBQMuQ08FAjE2ZxAFBC5DT00FATFnEAUELk5FVAUBMmcQBQQuT1JHBQEzZxAFBC5CSVoFAjEwZxAFBS5JTkZPBQE0ZxAFAy5VUwUBN2cQBQUuTkFNRQUBOGcQBQQuWFhYBQIxN2cWCmYCAQICAgMCBAIFAgYCBwIIAglkAgkPZBYCAgEPEGRkFgFmZAIDDw8WAh8FZ2QWAmYPZBYCZg9kFgQCAQ8PFgIfBWdkFgQCAw8WAh8ABR9odHRwOi8vc2VydmljZS5kb21haW5zYXRjb3N0LmNhZAIFDxYCHwcFgAE8cD48YSBocmVmPSJodHRwOi8vc2VydmljZS5kb21haW5zYXRjb3N0LmNhIj5Ccm93c2UgS25vd2xlZGdlIEJhc2U8L2E+PC9wPjxwPjxhIGhyZWY9Ii9Bc2tBUXVlc3Rpb24uYXNweCI+QXNrIGEgcXVlc3Rpb248L2E+PC9wPmQCAw9kFgYCGQ8WAh8HBQROb25lZAIdDxYCHwcFDTI1NS4yNTUuMjU1LjBkAiEPFgIfBwUETm9uZWQCBQ8WAh8FaGQCCw8WAh8GBQ5kaXNwbGF5OiBub25lOxYCAgEPZBYCAgEPDxYCHwVnZBYCAgEPZBYCAgEPZBYCZg9kFgICAw9kFgICAQ8WAh4LXyFJdGVtQ291bnQCBRYKZg9kFgICAQ8WBB8CBQZjYWxvZ28eBVN0eWxlZRYCAgEPDxYCHwxlZGQCAQ9kFgICAQ8WBB8CBQdjb21sb2dvHw5lFgICAQ8PFgIfDGVkZAICD2QWAgIBDxYEHwIFCGluZm9sb2dvHw5lFgICAQ8PFgIfDGVkZAIDD2QWAgIBDxYEHwIFB25ldGxvZ28fDmUWAgIBDw8WAh8MZWRkAgQPZBYCAgEPFgQfAgUHb3JnbG9nbx8OZRYCAgEPDxYCHwxlZGQCDQ9kFgICAw8PFgIfBWdkFgICAQ9kFgJmD2QWBgIDDw9kFgIfCAVNcmV0dXJuIFNlYXJjaEVudGVyS2V5SGFuZGxlcihldmVudCwgJ2N0bDAwX3NiTWFpbkNvbnRlbnRTZWFyY2hCb3hfbG5rU2VhcmNoJylkAgcPEGQPFgpmAgECAgIDAgQCBQIGAgcCCAIJFgoQBQMuQ0EFATVnEAUDLkNPBQIxNmcQBQQuQ09NBQExZxAFBC5ORVQFATJnEAUELk9SRwUBM2cQBQQuQklaBQIxMGcQBQUuSU5GTwUBNGcQBQMuVVMFATdnEAUFLk5BTUUFAThnEAUELlhYWAUCMTdnZGQCCQ9kFgICAQ8QZGQWAWZkAhEPZBYCAhEPDxYCHg1PbkNsaWVudENsaWNrBSBVcGxvYWRDbGljaygnY3RsMDAkYnRuQXBwbHknLCcnKWRkGAMFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYMBSZjdGwwMCRzYk1haW5Db250ZW50U2VhcmNoQm94JGxzdFRMRHMkMAUmY3RsMDAkc2JNYWluQ29udGVudFNlYXJjaEJveCRsc3RUTERzJDEFJmN0bDAwJHNiTWFpbkNvbnRlbnRTZWFyY2hCb3gkbHN0VExEcyQyBSZjdGwwMCRzYk1haW5Db250ZW50U2VhcmNoQm94JGxzdFRMRHMkMwUmY3RsMDAkc2JNYWluQ29udGVudFNlYXJjaEJveCRsc3RUTERzJDQFJmN0bDAwJHNiTWFpbkNvbnRlbnRTZWFyY2hCb3gkbHN0VExEcyQ1BSZjdGwwMCRzYk1haW5Db250ZW50U2VhcmNoQm94JGxzdFRMRHMkNgUmY3RsMDAkc2JNYWluQ29udGVudFNlYXJjaEJveCRsc3RUTERzJDcFJmN0bDAwJHNiTWFpbkNvbnRlbnRTZWFyY2hCb3gkbHN0VExEcyQ4BSZjdGwwMCRzYk1haW5Db250ZW50U2VhcmNoQm94JGxzdFRMRHMkOQUmY3RsMDAkc2JNYWluQ29udGVudFNlYXJjaEJveCRsc3RUTERzJDkFDGN0bDAwJGNoa1RhZwUYY3RsMDAkY3RsRm9vdGVyJG12Rm9vdGVyDw9kAgFkBRhjdGwwMCRjdGxIZWFkZXIkbXZIZWFkZXIPD2QCAWT+3vqlmYYK1xDHJCVtTpAbVoA+gg==">
 
 
 <script src="/Scripts/jquery_cycle.js" type="text/javascript"></script><script type="text/javascript">
@@ -98,7 +149,7 @@ var __cultureInfo = '{"name":"en-CA","numberFormat":{"CurrencyDecimalDigits":2,"
 <script src="/Scripts/jquery-ui.js" type="text/javascript"></script>
 <script src="/Scripts/release/validators.js" type="text/javascript"></script>
 <script src="/Scripts/jquery.buttonmask.js" type="text/javascript"></script>
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWKALgmYJDAoTG2LAIAuqX08cGAp3Ds/UKAuWC+dMHAoOKvrQFAsm635kBArvQ2QgCqY+q0w0Cv7+V9gUCh43HjQwC/K/2yQMCp9zR1wwC4JW2kQUCj4mr0QYCz6qx3g0C6ebE3AMCsMGPqw0Cs/K8rw8CmPLAkQoC4cGO9goCwo+yKwK8hurFDwKI7tCcDwKI7sycDwKI7sicDwKI7sScDwKI7sCcDwKI7rycDwKI7ricDwKI7rScDwKI7vCcDwKI7uycDwLw17/yDAKZtODaCwK7strnCwL5uYD0CgLXuMDYBgKp6ufxCALsurX6CE5HtDhO0gvLYygEv1FJjpu93KPh">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWJwKq+ZXPAgKExtiwCALql9PHBgKdw7P1CgLlgvnTBwKDir60BQLJut+ZAQK70NkIAqmPqtMNAr+/lfYFAoeNx40MAvyv9skDAqfc0dcMAo+Jq9EGAs+qsd4NAunmxNwDArDBj6sNArPyvK8PApjywJEKAuHBjvYKAsKPsisCvIbqxQ8CiO7QnA8CiO7MnA8CiO7InA8CiO7EnA8CiO7AnA8CiO68nA8CiO64nA8CiO60nA8CiO7wnA8CiO7snA8C8Ne/8gwCmbTg2gsCu7La5wsC+bmA9AoC17jA2AYCqern8QgC7Lq1+gjFDoPEdb4KidKEtzsJiENW4Yv3rw==">
             
             
 			
@@ -291,7 +342,7 @@ var __ALC_BADGE_SUFFIX = (Math.round(Math.random()*10000000000));
 document.write('<a href="javascript://chat" style="display: none;" onclick="_alc.startChat(15656); return false;" id="__ALC_BADGE_ONLINE'+__ALC_BADGE_SUFFIX+'"><img id="__ALC_BADGE_ONLINE_IMAGE" src="'+unescape(document.location.protocol+'//content.liveagentforsalesforce.com/app/custom/buttons/15656/live-chat.jpg')+'" style="border: 0px none" /></a><span id="__ALC_BADGE_OFFLINE'+__ALC_BADGE_SUFFIX+'" style="display: none;"><img id="__ALC_BADGE_OFFLINE_IMAGE" src="'+unescape(document.location.protocol+'//content.liveagentforsalesforce.com/app/custom/buttons/15656/live-chatoffline.jpg')+'" style="border: 0px none" /></span>');
 if ( typeof(__ALC_Badges) == 'undefined' ) __ALC_Badges = new Array();
 var __ALC_BUTTON = new Object(); __ALC_BUTTON.id = '15656'; __ALC_BUTTON.available = '__ALC_BADGE_ONLINE'+__ALC_BADGE_SUFFIX; __ALC_BUTTON.unavailable = '__ALC_BADGE_OFFLINE'+__ALC_BADGE_SUFFIX; __ALC_BUTTON.department = 11684; __ALC_Badges.push(__ALC_BUTTON);
-</script><a href="javascript://chat" style="display: none;" onclick="_alc.startChat(15656); return false;" id="__ALC_BADGE_ONLINE8453585077"><img id="__ALC_BADGE_ONLINE_IMAGE" src="https://content.liveagentforsalesforce.com/app/custom/buttons/15656/live-chat.jpg" style="border: 0px none"></a><span id="__ALC_BADGE_OFFLINE8453585077" style="display: none;"><img id="__ALC_BADGE_OFFLINE_IMAGE" src="https://content.liveagentforsalesforce.com/app/custom/buttons/15656/live-chatoffline.jpg" style="border: 0px none"></span>
+</script><a href="javascript://chat" style="display: none;" onclick="_alc.startChat(15656); return false;" id="__ALC_BADGE_ONLINE2067675295"><img id="__ALC_BADGE_ONLINE_IMAGE" src="https://content.liveagentforsalesforce.com/app/custom/buttons/15656/live-chat.jpg" style="border: 0px none"></a><span id="__ALC_BADGE_OFFLINE2067675295" style="display: none;"><img id="__ALC_BADGE_OFFLINE_IMAGE" src="https://content.liveagentforsalesforce.com/app/custom/buttons/15656/live-chatoffline.jpg" style="border: 0px none"></span>
             </div>
         </div>
 	    <!-- END HEADER -->
@@ -312,8 +363,7 @@ var __ALC_BUTTON = new Object(); __ALC_BUTTON.id = '15656'; __ALC_BUTTON.availab
                             <li class="naviItem"><a id="ctl00_ctlHeader_lnkDACPortfolio" href="javascript:__doPostBack('ctl00$ctlHeader$lnkDACPortfolio','')">Domain Manager</a></li> 
 	                        <li class="naviItem"><a id="ctl00_ctlHeader_lnkDACDomainMerge" href="javascript:__doPostBack('ctl00$ctlHeader$lnkDACDomainMerge','')">Domain Watch</a></li> 
 	                        <li class="naviItem"><a id="ctl00_ctlHeader_lnkDACWhois" href="javascript:__doPostBack('ctl00$ctlHeader$lnkDACWhois','')">Whois</a></li>
-                            <li class="naviItem"><a id="ctl00_ctlHeader_lnkDACXXX" href="javascript:__doPostBack('ctl00$ctlHeader$lnkDACXXX','')">.XXX</a></li>
-	                        <li class="naviItem"><a id="ctl00_ctlHeader_hypDACHelp" href="Help.aspx" target="_blank">Help</a></li>	        
+                            <li class="naviItem"><a id="ctl00_ctlHeader_hypDACHelp" href="Help.aspx" target="_blank">Help</a></li>	        
 		                    
 		                </ul>
 	                </div>
@@ -337,10 +387,12 @@ var __ALC_BUTTON = new Object(); __ALC_BUTTON.id = '15656'; __ALC_BUTTON.availab
                     
 </div>
                 
-                
+
                 <div class="main-wrapper">
 			        <div id="divMainWrapper2" class="main-wrapper2">
                         
+
+						
 
                         <div id="ctl00_divSidebar" class="sidebar leftbar">
                             
@@ -362,7 +414,7 @@ var __ALC_BADGE_SUFFIX = (Math.round(Math.random()*10000000000));
 document.write('<a href="javascript://chat" onclick="_alc.startChat(15654); return false;" id="__ALC_BADGE_ONLINE'+__ALC_BADGE_SUFFIX+'" style="display: none">'+decodeURIComponent("Request%20Live%20Chat")+'</a><span id="__ALC_BADGE_OFFLINE'+__ALC_BADGE_SUFFIX+'" style="display: none;">'+decodeURIComponent("Live%20Chat%20%28Offline%29")+'</span>');
 if ( typeof(__ALC_Badges) == 'undefined' ) __ALC_Badges = new Array();
 var __ALC_BUTTON = new Object(); __ALC_BUTTON.id = '15654'; __ALC_BUTTON.available = '__ALC_BADGE_ONLINE'+__ALC_BADGE_SUFFIX; __ALC_BUTTON.unavailable = '__ALC_BADGE_OFFLINE'+__ALC_BADGE_SUFFIX; __ALC_BUTTON.department = 11684; __ALC_Badges.push(__ALC_BUTTON);
-</script><a href="javascript://chat" onclick="_alc.startChat(15654); return false;" id="__ALC_BADGE_ONLINE6833171207" style="display: none">Request Live Chat</a><span id="__ALC_BADGE_OFFLINE6833171207" style="display: none;">Live Chat (Offline)</span></p>
+</script><a href="javascript://chat" onclick="_alc.startChat(15654); return false;" id="__ALC_BADGE_ONLINE9607316145" style="display: none">Request Live Chat</a><span id="__ALC_BADGE_OFFLINE9607316145" style="display: none;">Live Chat (Offline)</span></p>
                 <br>
                 <div class="headerimage hoursofoperationheader">&nbsp;</div>
                 <p>24 hours, 7 days a week</p>
@@ -376,7 +428,6 @@ var __ALC_BUTTON = new Object(); __ALC_BUTTON.id = '15654'; __ALC_BUTTON.availab
                             
 
 							
-					        
 					        
                         </div>
 
@@ -408,23 +459,23 @@ var __ALC_BUTTON = new Object(); __ALC_BUTTON.id = '15654'; __ALC_BUTTON.availab
     
     <div id="ctl00_RightBarContent_dircMainDACContent_ctlAdRotator_divAds" style="position: relative;">
         
-            <div id="ctl00_RightBarContent_dircMainDACContent_ctlAdRotator_rptAds_ctl00_divAd" class="calogo" style="position: absolute; top: 0px; left: 0px; display: block; z-index: 6; opacity: 1;">
+            <div id="ctl00_RightBarContent_dircMainDACContent_ctlAdRotator_rptAds_ctl00_divAd" class="calogo" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 4; opacity: 0;">
                 <a id="ctl00_RightBarContent_dircMainDACContent_ctlAdRotator_rptAds_ctl00_hypAd"></a>
             </div>
             
-            <div id="ctl00_RightBarContent_dircMainDACContent_ctlAdRotator_rptAds_ctl01_divAd" class="comlogo" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 4; opacity: 0;">
+            <div id="ctl00_RightBarContent_dircMainDACContent_ctlAdRotator_rptAds_ctl01_divAd" class="comlogo" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 3; opacity: 0;">
                 <a id="ctl00_RightBarContent_dircMainDACContent_ctlAdRotator_rptAds_ctl01_hypAd"></a>
             </div>
             
-            <div id="ctl00_RightBarContent_dircMainDACContent_ctlAdRotator_rptAds_ctl02_divAd" class="infologo" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 3; opacity: 0;">
+            <div id="ctl00_RightBarContent_dircMainDACContent_ctlAdRotator_rptAds_ctl02_divAd" class="infologo" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 2; opacity: 0;">
                 <a id="ctl00_RightBarContent_dircMainDACContent_ctlAdRotator_rptAds_ctl02_hypAd"></a>
             </div>
             
-            <div id="ctl00_RightBarContent_dircMainDACContent_ctlAdRotator_rptAds_ctl03_divAd" class="netlogo" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 2; opacity: 0;">
+            <div id="ctl00_RightBarContent_dircMainDACContent_ctlAdRotator_rptAds_ctl03_divAd" class="netlogo" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 1; opacity: 0;">
                 <a id="ctl00_RightBarContent_dircMainDACContent_ctlAdRotator_rptAds_ctl03_hypAd"></a>
             </div>
             
-            <div id="ctl00_RightBarContent_dircMainDACContent_ctlAdRotator_rptAds_ctl04_divAd" class="orglogo" style="position: absolute; top: 0px; left: 0px; display: none; z-index: 1; opacity: 0;">
+            <div id="ctl00_RightBarContent_dircMainDACContent_ctlAdRotator_rptAds_ctl04_divAd" class="orglogo" style="position: absolute; top: 0px; left: 0px; display: block; z-index: 6; opacity: 1;">
                 <a id="ctl00_RightBarContent_dircMainDACContent_ctlAdRotator_rptAds_ctl04_hypAd"></a>
             </div>
             
@@ -661,27 +712,23 @@ var __ALC_BUTTON = new Object(); __ALC_BUTTON.id = '15654'; __ALC_BUTTON.availab
 
 				
 
-				<div id="ctl00_pnlSelectPopup" class="modalPopup" style="display:none">
+        <div id="ctl00_pnlSelectPopup" class="modalPopup" style="display:none">
 	
-			        <div>
-			            <h2> Select Domain List </h2>
-			            <br>
-			            <h3>Upload &amp; Select:&nbsp;</h3><p><input type="file" name="ctl00$fuUploadSelectList" id="ctl00_fuUploadSelectList"></p>
-                            
-                        <h3>Or Enter Selection</h3><p>Ensure that there is one domain per line in the entry box.</p><p>
-                            <textarea name="ctl00$txtSelectMulti" rows="8" cols="20" id="ctl00_txtSelectMulti" class="searchtext"></textarea><br>
-                        </p>
-                        <p>
-                            <span class="checkbox"><input id="ctl00_chkTag" type="checkbox" name="ctl00$chkTag"><label for="ctl00_chkTag">Create a Tag from my Selection</label></span>
-                            <input name="ctl00$txtTag" type="text" id="ctl00_txtTag" onkeyup="CheckCheckbox('ctl00_chkTag','ctl00_txtTag');">
-                        </p>
-                        <div style="text-align:center">
-                            <input type="submit" name="ctl00$btnHiddenGo" value="" id="ctl00_btnHiddenGo" class="hidden">
-			                <input type="submit" name="ctl00$btnHiddenApply" value="" id="ctl00_btnHiddenApply" class="hidden">
-                            <a onclick="onClickButton('ctl00_btnHiddenApply');" id="ctl00_btnApply" class="button" href="javascript:__doPostBack('ctl00$btnApply','')">Select</a>&nbsp;&nbsp; <a id="ctl00_btnCancel" class="button" href="javascript:__doPostBack('ctl00$btnCancel','')">Cancel</a>
-                        </div>
-                    </div>
-			    
+          <div class="modalPopDiv">
+			      <h2> Select Domain List </h2>
+			      <h3>Upload &amp; Select:</h3><p>
+              <input type="file" name="ctl00$fuUploadSelectList" id="ctl00_fuUploadSelectList"> (max. size: 25MB) </p><h3>Or Enter Selection</h3><p>Ensure that there is one domain per line in the entry box.</p><textarea name="ctl00$txtSelectMulti" rows="8" cols="20" id="ctl00_txtSelectMulti" class="text-input" onkeypress="if(event.keyCode==13){AllowEnterKey=true}"></textarea>
+            <p>
+              <span class="checkbox"><input id="ctl00_chkTag" type="checkbox" name="ctl00$chkTag"><label for="ctl00_chkTag">Create a Tag from my Selection</label></span>
+              <input name="ctl00$txtTag" type="text" id="ctl00_txtTag">
+            </p>
+            <div class="modalPopDiv" style="text-align:center">
+              <input type="submit" name="ctl00$btnHiddenGo" value="" id="ctl00_btnHiddenGo" class="hidden">
+			        <input type="submit" name="ctl00$btnHiddenApply" value="" id="ctl00_btnHiddenApply" class="hidden">
+              <a onclick="UploadClick('ctl00$btnApply','');" id="ctl00_btnApply" class="button" href="javascript:__doPostBack('ctl00$btnApply','')">Select</a>&nbsp;&nbsp;<a id="ctl00_btnCancel" class="button" href="javascript:__doPostBack('ctl00$btnCancel','')">Cancel</a>
+            </div>
+          </div>
+        
 </div>
 
                 
@@ -697,7 +744,6 @@ var __ALC_BUTTON = new Object(); __ALC_BUTTON.id = '15654'; __ALC_BUTTON.availab
                             <li><a href="Privacy.aspx" id="ctl00_ctlFooter_A16">Privacy Protection</a></li>
                             <li><a href="HighSecuritySplash.aspx" id="ctl00_ctlFooter_A17">High Security Features</a></li>
                             <li><a href="Recovery.aspx" id="ctl00_ctlFooter_A18">Domain Recovery</a></li>
-                            <li><a href="xxx.aspx" id="ctl00_ctlFooter_A19">.XXX Launch</a></li>
                         </ul>
                     </div>             
                 </div>
@@ -717,7 +763,7 @@ var __ALC_BUTTON = new Object(); __ALC_BUTTON.id = '15654'; __ALC_BUTTON.availab
                 <div class="footer-column">
                     <div class="footer-column-content">
                         <div class="rightfooter">
-                            <div class="footer-copy">© Copyright 2011. Domainsatcost.ca.<br><span class="mom-comp">All rights reserved.<br>a Momentous Company</span></div>
+                            <div class="footer-copy">© Copyright 2012. Domainsatcost.ca.<br><span class="mom-comp">All rights reserved.<br>a Momentous Company</span></div>
                             <a class="ciracertified" target="_blank" href="http://ro.cira.ca/certpublic"></a>
                             <a class="facebook" target="_blank" href="http://www.facebook.com/pages/Domainsatcostca/70694557241"></a>
                             <a class="twitter" target="_blank" href="http://twitter.com/domainsatcost"></a>
@@ -740,20 +786,25 @@ var __ALC_BUTTON = new Object(); __ALC_BUTTON.id = '15654'; __ALC_BUTTON.availab
 				
             </div>
         
-<script type="text/javascript"><!--
-$(document).ready( function page_load(){
-    if ($.browser.msie && $.browser.version.substring(0,1) === '6') { $(':disabled').addClass('disabled'); }
-    Sys.Application.add_load(page_load);
-});
-//--></script>
+
 <script type="text/javascript">
 //<![CDATA[
+$(document).ready( function() {
+    page_load();
+    Sys.Application.add_load(page_load);
+});
+function page_load(){if ($.browser.msie && $.browser.version.substring(0,1) === '6') { $(':disabled').addClass('disabled'); }}
 Sys.Application.initialize();
 //]]>
 </script>
 </form>
-        
-        <script>
+      
+      
+      <script>
+        function UploadClick(sender, e) {
+          __doPostBack(sender, e);
+        } 
+
             var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
             document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
         </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
