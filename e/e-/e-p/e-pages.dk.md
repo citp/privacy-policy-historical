@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the e-pages.dk privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227001939id_/http%3A//www.visiolink.com/COMPANY/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-pages.dk privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511021218id_/http%3A//www.visiolink.com/COMPANY/privacy_policy.htm) for the most accurate reproduction.*
 
 # Visiolink - defining Digital Media
 
 | 
 
-[COMPANY](https://web.archive.org/web/20111227001939id_/http%3A//www.visiolink.com/company)-[Privacy policy](https://web.archive.org/web/20111227001939id_/http%3A//www.visiolink.com/COMPANY/privacy_policy.htm)
-
-Effective September 1st 2009
+[COMPANY](https://web.archive.org/web/20120511021218id_/http%3A//www.visiolink.com/company)-[Privacy policy](https://web.archive.org/web/20120511021218id_/http%3A//www.visiolink.com/COMPANY/privacy_policy.htm)
 
 Privacy Notice Table Of Contents:  
 # Our Commitment To Privacy  
@@ -54,31 +52,31 @@ Finally, we never use or share the personally identifiable information provided 
 Contact us
 
 If you are interested in getting an E-publishing or an E-pages solution, please don’t hesitate to contact us.  
-[Contact us](https://web.archive.org/web/20111227001939id_/http%3A//www.visiolink.com/PARTNER/suppliers.htm) **  
+[Contact us](https://web.archive.org/web/20120511021218id_/http%3A//www.visiolink.com/PARTNER/suppliers.htm) **  
 **
 
-[](https://web.archive.org/web/20111227001939id_/http%3A//www.visiolink.com/NEWS/newsletter_signup.htm)  
+[](https://web.archive.org/web/20120511021218id_/http%3A//www.visiolink.com/NEWS/newsletter_signup.htm)  
 [](http://tryout.visiolink.dk/demo.html)
 
 Latest news
 
-**Visiolink establish office in Germany**  
-22/12-2011  
-1st of January 2012 Visiolink ...
+**Wirtschaftsblatt - 13 regional business news editions in one App**  
+08/05-2012  
+The new app from the German pu...
 
-[ _Read more_](https://web.archive.org/web/20111227001939id_/http%3A//www.visiolink.com/news/result.htm?nid=194)
+[ _Read more_](https://web.archive.org/web/20120511021218id_/http%3A//www.visiolink.com/news/result.htm?nid=219)
 
-**Buy an iPad and get the newspaper subscription for free**  
-22/12-2011  
-We have previously described h...
+**Meet us at Nordic Media Festival 2012 in Bergen**  
+04/05-2012  
+Visiolink take part in one of ...
 
-[ _Read more_](https://web.archive.org/web/20111227001939id_/http%3A//www.visiolink.com/news/result.htm?nid=192)
+[ _Read more_](https://web.archive.org/web/20120511021218id_/http%3A//www.visiolink.com/news/result.htm?nid=218)
 
 References
 
 Below are some of the customers who use Visiolink
 
-[See more](https://web.archive.org/web/20111227001939id_/http%3A//www.visiolink.com/COMPANY/references.htm)
+[See more](https://web.archive.org/web/20120511021218id_/http%3A//www.visiolink.com/COMPANY/references.htm)
 
   
 
