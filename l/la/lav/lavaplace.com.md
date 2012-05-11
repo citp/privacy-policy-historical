@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lavaplace.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120180919id_/http%3A//www.lavaplace.com/%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lavaplace.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511210727id_/http%3A//www.lavaplace.com/%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Privacy & Use Policy
 
