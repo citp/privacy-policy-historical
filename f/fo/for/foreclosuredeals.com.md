@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foreclosuredeals.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125423id_/http%3A//www.foreclosuredeals.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreclosuredeals.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511053557id_/http%3A//www.foreclosuredeals.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy and Policies Provided by ForeclosureDeals.com
 
