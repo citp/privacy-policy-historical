@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicnotes.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214014055id_/http%3A//www.musicnotes.com/secure.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicnotes.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511113300id_/http%3A//www.musicnotes.com/secure.asp) for the most accurate reproduction.*
 
 # Sheet Music Downloads & Books | Musicnotes.com
 
@@ -8,7 +8,7 @@
 
 Your credit card information is immediately sent through a secure connection to our credit card processor and is only retained on our server for a maximum of 24 hours after your transaction has processed, unless you choose otherwise. 
 
-Musicnotes offers customers the opportunity to save their credit card numbers for streamlining future purchases. This must be specifically chosen by you, the customer, and is not a default option. Saved credit card numbers can be deleted from your account at any time. All credit card numbers, even the ones scheduled for deletion are kept in an encrypted form. 
+During checkout, Musicnotes offers customers the opportunity to save their credit card numbers for streamlining future purchases. Saved credit card numbers can be deleted from your account at any time. All credit card numbers, even the ones scheduled for deletion are kept in an encrypted form with full PCI compliance. 
 
 Musicnotes will only transmit credit card numbers to trading partners with your explicit consent. 
 
@@ -24,7 +24,7 @@ We log all our web site's traffic, including pages visited, web browser used and
 
 We also save what searches our shoppers perform, but we do not save which customer did each search. We use this information in aggregate for internal marketing research. 
 
-**Musicnotes.com** does not rent, trade, sell, or share the personal information you give us without your consent. We may provide aggregate statistics about our sales, website traffic patterns, browser capabilities and site visitors to reputable third parties, but this data cannot be identified with any specific individual.
+**Musicnotes.com** does not rent, trade, or sell the personal information you give us without your consent. We may share your email address with our service partners (such as our email provider or security partners) for non-advertising based reasons. We may provide aggregate statistics about our sales, website traffic patterns, browser capabilities and site visitors to reputable third parties, but this data cannot be identified with any specific individual.
 
 In special circumstances, **Musicnotes.com** may release personal information to law enforcement agencies if necessary to comply with the law or protect the rights, property, and safety of **musicnotes.com** , our users, or others.
 
