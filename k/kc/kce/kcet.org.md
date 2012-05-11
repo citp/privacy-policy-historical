@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kcet.org privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112145925id_/http%3A//www.kcet.org/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcet.org privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511230719id_/http%3A//www.kcet.org/about/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | KCET
 
@@ -71,12 +71,12 @@ legal@kcet.org
 Post:  
 KCET  
 Attention: Privacy Division  
-4401 Sunset Boulevard  
-Los Angeles, California 90027
+2900 West Alameda Ave  
+Burbank, California 91505
 
 Please note that "opting out" may adversely impact your ability to participate in Subscription Activities, Promotional Events, and the Online Forums, as well as prevent us from responding or processing your request for information, products or services. 
 
-We welcome all other questions, comments and concerns you may have about KCET and the Website by email viewerservices@kcet.org, or by U.S. mail to KCET at 4401 Sunset Boulevard, Los Angeles, California 90027, Attn.: Member Services, or call KCET at (323) 953-KCET(5238).
+We welcome all other questions, comments and concerns you may have about KCET and the Website by email viewerservices@kcet.org, or by U.S. mail to KCET at 2900 West Alameda Ave., Burbank, CA 91505, Attn.: Member Services, or call KCET at (747) 201-KCET(5238).
 
 **VIII. Certain California Privacy Rights**  
 California law provides California residents the right to request from KCET: (1) a list of the categories of personally identifiable information that KCET has disclosed to third parties for direct marketing purposes; and (2) the names and addresses of all such third parties. If you would like to request this information, please email your request to [legal@kcet.org](mailto:legal@kcet.org). 
