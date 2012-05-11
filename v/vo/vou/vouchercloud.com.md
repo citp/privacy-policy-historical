@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the vouchercloud.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217031356id_/http%3A//www.vouchercloud.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vouchercloud.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511085838id_/http%3A//www.vouchercloud.com/privacy) for the most accurate reproduction.*
 
-# Vouchercloud
+# vouchercloud
 
-?>
+  
+
 
 Vouchercloud values your privacy and is dedicated to safeguarding and preserving your privacy when using our application, visiting our website or communicating electronically with us.
 
@@ -16,7 +17,7 @@ In order to deliver you the best possible service when using **Vouchercloud** , 
 
 ##### Information you provide us
 
-When you download **Vouchercloud** and use a voucher on for the first time, we ask you to register and provide us with personal information as follows : Your name, email address. year of birth and gender.
+When you download **Vouchercloud** and use a voucher on for the first time, we ask you to register and provide us with personal information as follows : Your name, email address, date of birth, postcode and gender.
 
 There are also opportunities within **Vouchercloud** to provide the email addresses or contact details of your friends or family members and your social networking site login details to allow you to tell people about **Vouchercloud**. We may use the information you provide us along with your voucher usage details, to provide you with a better experience when using **Vouchercloud**. We will always provide you the opportunity to opt out of receiving any communication via email.
 
@@ -52,6 +53,10 @@ Unless we are legally required to do so, your data will not be disclosed to thir
 
 Where applicable, we may disclose your personal information to any member of our group. This includes, where applicable, our affiliates, our subsidiaries, our holding company and / or other companies within our group.
 
+##### Unsubscribe
+
+Users who wish to no longer receive one of our promotional emails may click on the "Update your preferences" link which is embedded with every email sent by vouchercloud to opt out of individual types of promotional email. 
+
 ### Use of Cookies
 
 We may on occasion gather information regarding your computer whilst you are on our website. This enables us to improve our services and to provide statistical information regarding the use of our website to our advertisers where appropriate.
@@ -79,3 +84,13 @@ The Data Protection Act 1998 gives you the right to access the information that 
 ### Contacting Us
 
 If you have questions about this Privacy Policy, you can contact us at:
+
+vouchercloud  
+First Floor  
+77 West Street  
+Bedminster  
+Bristol  
+BS3 3NU
+
+Email : [hello@vouchercloud.com](mailto:hello@vouchercloud.com)   
+Telephone: 08456 018 018 
