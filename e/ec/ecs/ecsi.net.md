@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ecsi.net privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102143214id_/http%3A//www.ecsi.net/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecsi.net privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511131546id_/http%3A//www.ecsi.net/privacy_statement.html) for the most accurate reproduction.*
 
-# ECSI - General Privacy Statement
+# ECSI General Privacy Statement
 
 **Introduction**  
 Educational Computer Systems, Inc. has a firm commitment to the privacy of individuals utilizing our Internet services. The following discloses our information gathering and dissemination practices for this site; www.ecsi.net.
@@ -20,9 +20,9 @@ ECSI may authorize users to access certain web pages or other Internet services 
 Clients are assigned unique IDs and passwords. These accounts are assigned for the use of your organization only. You must not provide this information to anyone outside your organization.
 
 **Cookies and Web Bugs**  
-ECSI does not use [cookies](http://www.cookiecentral.com/faq/) for any purpose at this time. If, at a future time, we decide to utilize [cookies](http://www.cookiecentral.com/faq/), ECSI will change this privacy statement and place a notice directly on our home page.
+ECSI uses [cookies](http://www.cookiecentral.com/faq/) to secure the browser session and improve the overall user experience. Any cookies, or similar files that we place on your computer, do not contain any personally identifiable information and are also encrypted. 
 
-ECSI does not use [Web Bugs](http://www.eff.org/Privacy/Marketing/web_bug.html) as a means of tracking visitors or providing information to third parties. We believe this practice is at best deceitful and have a firm policy prohibiting the use of [Web Bugs](http://www.eff.org/Privacy/Marketing/web_bug.html) on our site.
+ECSI does not use [Web Bugs](http://w2.eff.org/Privacy/Marketing/web_bug.html) as a means of tracking visitors or providing information to third parties. We believe this practice is at best deceitful and have a firm policy prohibiting the use of [Web Bugs](http://w2.eff.org/Privacy/Marketing/web_bug.html) on our site.
 
 **Client Information**  
 ECSI maintains a database of client information including email addresses. This information is used only by ECSI staff for communicating with our clients. None of the information in our client database is ever provided to any third-party without prior authorization by the client.
@@ -42,6 +42,5 @@ If you have any questions or comments about this privacy statement, the practice
 _Webmaster_   
 Educational Computer Systems, Inc.   
 181 Montour Run Road   
-Coraopolis, PA 15108 
-
+Coraopolis, PA 15108   
 E-mail: [webmaster@ecsi.net](mailto:webmaster@ecsi.net)
