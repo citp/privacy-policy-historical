@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the universalhub.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224343id_/http%3A//www.universalhub.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universalhub.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511081526id_/http%3A//www.universalhub.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy for Universal Hub, Boston Online and the Wicked Good Conference | Universal Hub
 
@@ -31,7 +31,7 @@ Similarly, Universal Hub, Boston Online and the Wicked Good Conference employ tr
 
 If you do not wish to receive a cookie, you can disable them via your browser (each browser has a different way to do this) or with add-on security software. Caveat: Without cookies enabled, you will not be able to have the sites remember your preferences or new-message settings from session to session, i.e., you will have to log in each time.
 
-Some of our advertising partners may also use a similar technology known as "Web beacons" to track users and to tailor advertising messages to specific audiences, for example, people who live in particular geographic areas. They may also attempt to provide "behavioral advertising," through which they serve up ads based on your past actions on this or other sites. The Network Advertising Initiative has [an online form](http://www.networkadvertising.org/managing/opt_out.asp) through which you can opt out of many behavioral-ad programs.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 ### **Other information**
 
@@ -39,4 +39,4 @@ In addition to the above, our servers collect certain standard "log" information
 
 If you have any questions about our privacy and cookie polices, please contact Adam Gaffin at [adamg@gaffin.com](mailto:adamg@gaffin.com).
 
-_Last modified: 12/12/09._
+_Last modified: 2/17/12._
