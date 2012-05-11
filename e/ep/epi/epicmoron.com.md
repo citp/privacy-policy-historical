@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epicmoron.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108224431id_/http%3A//www.epicmoron.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epicmoron.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512005552id_/http%3A//www.epicmoron.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Epicmoron
 
