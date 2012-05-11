@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yuvutu.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016183520id_/http%3A//www.yuvutu.com/modules.php%3Fname%3DYuSubscribe%26action%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yuvutu.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511230848id_/http%3A//www.yuvutu.com/modules.php%3Fname%3DYuSubscribe%26action%3Dprivacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - Free Porn, Adult Videos, Amateur Videos, Amateur Porn, TV Sex Porno XXX- yuvutu
+# Privacy Policy - Free Porn Videos, Free Amateur Porn, TV Sex Porno XXX- yuvutu
 
 YUVUTU Privacy Policy    
 Updated 14th August 2007 
