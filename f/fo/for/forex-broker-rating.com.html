@@ -1,12 +1,13 @@
-<!--The following is the downloaded HTML source of the forex-broker-rating.com privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101154558id_/http%3A//www.forex-broker-rating.com/policy_of_confidentiality) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the forex-broker-rating.com privacy policy that was archived on 2012-05-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120512015613id_/http%3A//www.forex-broker-rating.com/policy_of_confidentiality) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="EN" lang="EN"><head>
 <meta http-equiv="content-type" content="text/html; charset=windows-1251">
 <meta name="description" content="">
+<meta property="fb:app_id" content="332958943427573">
 <title>Forex broker rating | privacy policy</title>
 <link rel="shortcut icon" href="http://www.forex-broker-rating.com/data/favicon.gif">
-<link rel="stylesheet" type="text/css" href="http://www.forex-broker-rating.com/css_tmp/css59.css"><script type="text/javascript" src="http://www.forex-broker-rating.com/js_tmp/js44.js"></script>
+<link rel="stylesheet" type="text/css" href="http://www.forex-broker-rating.com/css_tmp/css67.css"><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=332958943427573"></script><script type="text/javascript" src="http://www.forex-broker-rating.com/js_tmp/js52.js"></script>
 <script language="Javascript" type="text/javascript" src="http://www.forex-broker-rating.com/data/jquery.msgbox.min.js"></script>
 <!--[if IE]>
 <![if lt IE 7]>
@@ -21,16 +22,110 @@
 <![endif]-->
 </head>
 <body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=332958943427573";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 <div id="wrap">
 <div id="header"><!-- Head -->
 <div class="logo"><!-- Logo -->
 <a href="http://www.forex-broker-rating.com/"><img src="http://www.forex-broker-rating.com/data/logo.png" width="339" height="40" alt="Forex Broker Rating" title="Forex Broker Rating"></a>
 <div class="slogan">Leave your vote at Forex-Rating!</div>
 </div><!-- /Logo -->
+<!-- Search -->
+<script>
+var availableTagsTest = new Array;
+var availableTags = ["FOREX MMCIS group","FxPro","InstaForex","TeleTRADE D.J.","Forex Club ","Alpari","FXCM ","Dukascopy","Forex4you","Corsa Capital","MRC Markets","eToro","Oanda","FXOpen","Saxo Bank  ","NordFx","Forex WebTrader","MasterForex","FXDD","GFT","EXNESS","Fibo Group LTD","Askobid","CMS Forex ","Advanced Currency Markets ","FxCompany ","MIG Investments SA","CitiFX Pro","Sucden","Admiral Markets","AForex ","Interactive Brokers","GCI Financial","iFOREX","FXD24","xForex","IG Markets  ","Hotspot FX LLC","Exto Capital","FXcast.com","Bforex","FBS","Broco","HY Markets ","i-TradeFX, LLC","ICM Brokers","BFX","Ava Financial Ltd ","GFC Markets","Finexo Global Investments Ltd","Dealing City","Prime 4X","HMS Markets","Easy Forex ","ECN Forex  ","Forex-Market","Manors Group Broker"];
+var availableTags1 = ["Wall Street Forex Robot","EA Gold Shark ver. 5","Scalper Day","Million Dollar Pips","The Pardus expert advisor","Forex Morning Trade","FapTurbo","Megadroid Advisor ","Euro Smarter","Forex Growth Bot"];
+var ua = $.browser;
+$(document).ready(function(){
+$('#select_search').click(function(){
+$('#search_option').slideToggle(200);
+$('#select_image').css('background','url(/i/img/select_search_up.png)');
+$('#select_search').hover(function(){},function(){$('#search_option').slideUp(200); $('#select_image').css('background','url(/i/img/select_search_down.png)');});
+});
+$(function(){
+setTimeout(function(){
+if (ua.mozila || ua.msie)
+{
+$('.ui-autocomplete').css('height', '208px');
+}
+else
+{
+$('.ui-autocomplete').css('height', '199px');
+}
+},10);
+});
+});
+function select_search(type)
+{
+$types = type.charAt(0).toUpperCase() + type.substr(1);
+$('#search_hover').html($types);
+if(type == "broker")
+{
+$( "#tags" ).autocomplete({
+source: availableTags,
+select: function(event, ui)
+{
+ui.item.value = ui.item.value.replace(/\s/g,'_');
+location.href = "http://www.forex-broker-rating.com/comments/"+ui.item.value+"?type="+type;
+}
+});
+}
+else
+{
+$( "#tags" ).autocomplete({
+source: availableTags1,
+select: function(event, ui)
+{
+ui.item.value = ui.item.value.replace(/\s/g,'_');
+location.href = "http://www.forex-broker-rating.com/comments/"+ui.item.value+"?type="+type;
+}
+});
+}
+}
+$(function() {
+$( "#tags" ).autocomplete({
+source: availableTags,
+select: function(event, ui)
+{
+ui.item.value = ui.item.value.replace(/\s/g,'_');
+location.href = "http://www.forex-broker-rating.com/comments/"+ui.item.value+"?type=broker";
+}
+});
+});
+</script>
+<div class="search_main">
+<div>
+<div class="search_glass"></div>
+<div class="slash">|</div>
+<div class="ui-widget" style="float: left">
+<input type="text" value="Broker name" class="input_search" id="tags" onblur="if (this.value==''){this.value='Broker name'; this.style.color='#949597';}" onfocus="if (this.value=='Broker name') {this.value=''; this.style.color='#000000';}">
+</div>
+<div style="float: right;" id="select_search">
+<div id="select_image" class="select_image"></div>
+<div id="search_hover" class="search_hover">Broker</div>
+<div id="search_option" class="search_option">
+<div onclick="select_search('broker')" class="select_option">Broker</div>
+<div onclick="select_search('adviser')" class="select_option">Adviser</div>
+</div>
+</div>
+</div>
+</div>
+<!-- /Search -->
 <ul class="mini"><!-- Languages -->
 <li><a href="http://www.forex-broker-rating.com/ru/policy_of_confidentiality">rus</a></li>
 <li><span class="act"><b>eng</b></span></li>
 </ul>
+
+<div class="demo-description" style="display: none; ">
+<p>The Autocomplete widgets provides suggestions while you type into the field. Here the suggestions are tags for programming languages, give "ja" (for Java or JavaScript) a try.</p>
+<p>The datasource is a simple JavaScript array, provided to the widget using the source-option.</p>
+</div><!-- End demo-description -->
 <!-- /Languages -->
 </div><!-- /Head -->
 <div class="top-nav"><!-- Menu -->
@@ -58,7 +153,7 @@
 <div class="menu" title="Swap-Free brokers"><a href="http://www.forex-broker-rating.com/swap-free_brokers"><span class="w">Swap-Free brokers<span class="c"></span></span></a></div>
 </td>
 <td>
-<div class="menu" title="All brokers"><a href="http://www.forex-broker-rating.com/all_brokers"><span class="w">All brokers<span class="c"></span></span></a></div>
+<div class="menu" title="Forex Adviser"><a href="http://www.forex-broker-rating.com/adviser_brokers"><span class="w">Forex Adviser<span class="c"></span></span></a></div>
 </td>
 <td>
 <div class="menu_sub" title="Fx Analytics"><a href="http://www.forex-broker-rating.com/#"><span class="w">Fx Analytics<span class="c"></span></span></a><div class="sub_menu" title="Fx Analytics">
@@ -129,7 +224,7 @@ Fx Calendar
 <div class="menu" title="Swap-Free brokers"><a href="http://www.forex-broker-rating.com/swap-free_brokers"><span class="w">Swap-Free brokers<span class="c"></span></span></a></div>
 
 
-<div class="menu" title="All brokers"><a href="http://www.forex-broker-rating.com/all_brokers"><span class="w">All brokers<span class="c"></span></span></a></div>
+<div class="menu" title="Forex Adviser"><a href="http://www.forex-broker-rating.com/adviser_brokers"><span class="w">Forex Adviser<span class="c"></span></span></a></div>
 
 
 <div class="menu_sub" title="Fx Analytics"><a href="http://www.forex-broker-rating.com/#"><span class="w">Fx Analytics<span class="c"></span></span></a><div class="sub_menu" title="Fx Analytics">
@@ -185,22 +280,26 @@ window.addEventListener("message", receiveSize, false);
 <iframe style="border:0px solid #000; background-color: #eee" id="mt5iframe" src="http://www.mt5.com/forex_news/informer/sz=170_350&amp;cn=6&amp;r=1&amp;hc=1&amp;s=forex news online&amp;sf=v&amp;ss=10&amp;sw=0&amp;sd=0&amp;si=0&amp;sht=1&amp;shp=1&amp;tf=v&amp;ts=11&amp;tw=0&amp;td=0&amp;ti=1&amp;c1=ccffcc&amp;c2=339966&amp;c3=000000&amp;c4=339966&amp;to_main=1" frameborder="0" width="170" height="350" scrolling="no" title="MT5 - reliable broker at Forex market (Forex)"></iframe><noframes><a href="http://www.mt5.com/">Forex portal</a></noframes>
 </div>
 <div style="text-align:center;">
-<a href="http://insta-change.com/en/" target="blank"><img width="120" src="/i/img/insta_change_banner120_600_en.gif"></a>
+<a href="http://miss-instaforex-asia.com/en/" target="_blank">
+<img width="120" height="600" src="/data/banners/120x600_miss_en.gif" alt="MissInstaforex" border="0">
+</a>
 </div>
 <div style="text-align:center;margin-top: 40px;">
-<a href="http://miss-instaforex-asia.com/" target="blanck"><img width="120" src="/i/img/beuty_contest_120x600-en.gif"></a>
+<a href="http://showfxworld.com/en/" target="_blank">
+<img width="120" height="600" src="http://banners.showfxworld.com/showfxworld_120x600_en.gif" alt="ShowFX World" border="0">
+</a>
 </div>
 </div><!-- /Sidebar -->
 <div class="clear"></div>
 </div><!-- /Main content -->
-<h1 class="rate">
+<h2 class="rate">
 <span>Special offers</span>
-</h1>
+</h2>
 <div id="partners">
 <table class="partners">
 <tbody><tr>
 <td width="33%">
-<a href="/redirect.php?url=http://www.forexyard.com/"><img title="FXDD" alt="FXDD" src="http://www.forex-broker-rating.com/upload/brokers/forexyard_small.png"></a>
+<a href="/redirect.php?url=http://www.forexyard.com/"><img title="ForexYard" alt="ForexYard" src="http://www.forex-broker-rating.com/upload/brokers/forexyard_small.png"></a>
 <br>
 No Debits
 <br>
@@ -209,7 +308,7 @@ Auto Forex Trading
 10% cashback for Deposit funds worth $1,000
 </td>
 <td width="34%">
-<a href="/redirect.php?url=http://instaforex.com/en"><img title="FXDD" alt="FXDD" src="http://www.forex-broker-rating.com/upload/brokers/instaforex_footer.png"></a>
+<a href="/redirect.php?url=http://instaforex.com/en"><img title="InstaForex" alt="InstaForex" src="http://www.forex-broker-rating.com/upload/brokers/instaforex_footer.png"></a>
 <br>
 Bonus 30% for every deposit
 <br>
@@ -218,7 +317,7 @@ Leverage 1:1000
 Prize fund 500 000 USD
 </td>
 <td width="33%">
-<a href="/redirect.php?url=http://www.avafx.com/?tag=19621"><img title="FXDD" alt="FXDD" src="http://www.forex-broker-rating.com/upload/brokers/81aee8bc0c_small.png"></a>
+<a href="/redirect.php?url=http://www.avafx.com/?tag=19621"><img title="AvaFX" alt="AvaFX" src="http://www.forex-broker-rating.com/upload/brokers/81aee8bc0c_small.png"></a>
 <br>
 Fixed spreads
 <br>
@@ -234,7 +333,7 @@ Withdraw instantly
 </div><!-- /Footer -->
 <div id="footer"><!-- Footer -->
 <div class="footline"><!-- Polosa -->
-<div class="copy">© 2009-2011 Forex Broker Rating.com. All right reserved.</div><!-- Copyright -->
+<div class="copy">© 2009-2012 Forex Broker Rating.com. All right reserved.</div><!-- Copyright -->
 <div class="footlinks"><!-- Links -->
 <a href="http://www.forex-broker-rating.com/contacts">Contact us</a><a class="act_bottom_link" href="http://www.forex-broker-rating.com/policy_of_confidentiality">Privacy Policy</a><a href="http://www.forex-broker-rating.com/refusal_of_responsibility">Disclaimer</a>
 <!-- <a href="# ">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ</a>
