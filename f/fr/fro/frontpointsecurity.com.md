@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontpointsecurity.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229182444id_/http%3A//www.frontpointsecurity.com/common/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontpointsecurity.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511184253id_/http%3A//www.frontpointsecurity.com/common/privacy-policy) for the most accurate reproduction.*
 
 # Wireless Home Security Systems | FrontPointSecurity : Common : Privacy Policy
 
@@ -10,19 +10,19 @@ This privacy statement describes how FrontPoint Security collects and uses the p
 
 FrontPoint Security is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site: [www.frontpointsecurity.com](http://www.frontpointsecurity.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact FrontPoint Security by sending an email to [privacy@frontpointsecurity.com](mailto:privacy@frontpointsecurity.com), or by calling 877-602-5276. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [](http://watchdog.truste.com/pvr.php?page=complaint&url= "opens in new window")[](http://watchdog.truste.com/pvr.php?page=complaint&url "opens in new window")[](http://watchdog.truste.com/pvr.php?page=complaint&amp;url "opens in new window")[http://watchdog.truste.com/pvr.php?page=complaint&amp;amp;amp;url](http://watchdog.truste.com/pvr.php?page=complaint&amp;amp;url)= 
+If you have questions or concerns regarding this statement, you should first contact FrontPoint Security by sending an email to [privacy@frontpointsecurity.com](mailto:privacy@frontpointsecurity.com), or by calling 877-602-5276. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [](http://watchdog.truste.com/pvr.php?page=complaint&url= "opens in new window")[](http://watchdog.truste.com/pvr.php?page=complaint&url "opens in new window")[](http://watchdog.truste.com/pvr.php?page=complaint&amp;url "opens in new window")[](http://watchdog.truste.com/pvr.php?page=complaint&amp;amp;url "opens in new window")[http://watchdog.truste.com/pvr.php?page=complaint&amp;amp;amp;amp;url](http://watchdog.truste.com/pvr.php?page=complaint&amp;amp;amp;url)= 
 
 TRUSTe will then serve as a liaison with us to resolve your concerns.
 
  _Collection and use_
 
-_Information Sharing_
+ _Information Sharing_
 
-_Tracking Technologies_
+ _Tracking Technologies_
 
-_Security-Additional Info_
+ _Security-Additional Info_
 
-_Contact Info_
+ _Contact Info_
 
  
 
@@ -52,7 +52,7 @@ We may use this information to
 
 ## Choice/Opt-Out
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can go to [](http://go.frontpointsecurity.com/forms/SubscriptionManagement "opens in new window")[](http://go.frontpointsecurity.com/forms/SubscriptionManagement "opens in new window")[](http://go.frontpointsecurity.com/forms/SubscriptionManagement "opens in new window")<http://go.frontpointsecurity.com/forms/SubscriptionManagement>
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can go to [](http://go.frontpointsecurity.com/forms/SubscriptionManagement "opens in new window")[](http://go.frontpointsecurity.com/forms/SubscriptionManagement "opens in new window")[](http://go.frontpointsecurity.com/forms/SubscriptionManagement "opens in new window")[](http://go.frontpointsecurity.com/forms/SubscriptionManagement "opens in new window")<http://go.frontpointsecurity.com/forms/SubscriptionManagement>
 
 ### Information Obtained from Third Parties 
 
@@ -84,8 +84,8 @@ We may use cookies, for example, to keep track of your preferences and profile i
 
 Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) that are set by third parties and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
 
-This site may periodically use an alalytics service such as ClickTale. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the ClickTale Web Analytics Service. We are using the information collected by ClickTale service to improve the website experience. You can choose to disable the Service  
-at [](http://www.clicktale.net/disable.html "opens in new window")<http://www.clicktale.net/disable.html>. 
+This site may periodically use an analytics service such as ClickTale. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the ClickTale Web Analytics Service. We are using the information collected by ClickTale service to improve the website experience. You can choose to disable the Service  
+at [](http://www.clicktale.net/disable.html "opens in new window")[](http://www.clicktale.net/disable.html "opens in new window")<http://www.clicktale.net/disable.html>. 
 
 ### Links to Other Web Sites 
 
