@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sainsburysenergy.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121021419id_/http%3A//www.sainsburysenergy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sainsburysenergy.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512013337id_/http%3A//www.sainsburysenergy.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy - Info About Our Privacy Policy - Sainsbury's Energy
 
 ## Protecting your privacy
 
@@ -51,7 +51,7 @@ When we contact you, we may use any information we hold about you to do so. So w
 
 
 
-3.2 From time to time these other people or organisations maybe outside the European Economic Area (EEA), and as a result we may pass your information to countries that don’t have the same standards or protection for personal information as the UK
+3.2 From time to time these other people or organisations maybe outside the European Economic Area (EEA), and as a result we may pass your information to countries that don’t have the same standards or protection for personal information as the UK.
 
 3.3 If we suspect someone has committed fraud or stolen energy by tampering or with the meter or diverting the energy supply, we’ll record these details on your account record and may share this information with Ofgem and other people who are interested (such as other energy suppliers, landlords and housing associations). We may use this information to make decisions about you, your character, how likely we think you are to pay for your gas or electricity (or both) and future energy services. This may include recording sensitive personal information such as criminal offences you have been accused of. Also if the gas or electricity supply to your property has previously been tampered with or if gas or electricity has been stolen, or we suspect it has been stolen, we may take this into account when we decide what products or services we can offer you and the terms and conditions we give you.
 
@@ -61,13 +61,13 @@ When we contact you, we may use any information we hold about you to do so. So w
 
   * social services, charities, healthcare and other support organisations, if we believe at any time that they may be able to help you, or the other members of your household, by making sure there is a gas or electricity supply to your home; 
   * other energy suppliers if we believe you are considering changing supplier (we assess which customers need extra care and record and share this information in line with the Energy Retail Association 'safety net procedures'); and 
-  * the relevant gas transporter, metering agents or network operator. 
+  * the relevant gas transporter, metering agents or network operator.
 
 
 
 3.6 We may pass your address, property and postcode, and details of your gas appliances, flue, hot-water cylinder, system controls and electrical installations (including details of any repairs or removals) to organisations that supervise these activities including Gas Safe (previously CORGI) and the ECA (Electrical Contractors Association). These organisations may pass this information to local authorities to meet building regulations. They may also use this information to contact you to inspect appliances or systems, recall faulty products and carry out audits, and for health and safety purposes. Where appropriate, we’ll give you or the property owner (or both) a certificate to show that your appliances and so on meet building regulations.
 
-3.7 We’ll check your details with one or more credit-reference and fraud-prevention agencies to help us make decisions about your ability to make payments and the goods and services we can offer you. Below, we have given a brief guide to how we, the credit-reference and fraud-prevention agencies will use your information. If you’d like more information about this, you can find the full version on our [Terms & conditions](https://web.archive.org/terms-and-conditions.html) page. Or, phone us on 0800 316 0 316 and we’ll send you a leaflet.
+3.7 We’ll check your details with one or more credit-reference and fraud-prevention agencies to help us make decisions about your ability to make payments and the goods and services we can offer you. Below, we have given a brief guide to how we, the credit-reference and fraud-prevention agencies will use your information. If you’d like more information about this, you can [**read the full version here**](https://web.archive.org/content/dam/Sainsbury/Documents/PDFs/credit-referencing-guide-1.pdf). Or, phone us on 0800 316 0 316 and we’ll send you a leaflet.
 
 a.We’ll search at credit-reference and fraud-prevention agencies for information about you and all the people you are applying with. If you are providing information about other people on a joint application, you must make sure they agree that we can use their information to do this. If you give us false or inaccurate information and we suspect fraud, we’ll pass your details to credit-reference and fraud-prevention agencies. Law-enforcement agencies (such as the police and HM Revenue & Customs) may receive and use this information.
 
@@ -99,17 +99,16 @@ PO Box 491
 Leeds  
 LS3 1WZ  
 Phone: 0870 060 1414  
-Website: [www.callcredit.co.uk](http://www.callcredit.co.uk/)  
+Website: [**www.callcredit.co.uk**](http://www.callcredit.co.uk/)  
 
 
-  
 Experian  
 Consumer Help Service  
 PO Box 8000  
 Nottingham  
 NG80 7WF  
 Phone: 0870 241 6212  
-Website: [www.experian.co.uk](http://www.experian.co.uk/)  
+Website: [**www.experian.co.uk**](http://www.experian.co.uk/)  
 
 
 Equifax Plc  
@@ -118,15 +117,17 @@ PO Box 1140
 Bradford  
 BD1 5US  
 Phone: 0844 335 0550  
-Website: [www.myequifax.co.uk](http://www.equifax.co.uk/).
+Website: [**www.myequifax.co.uk**](http://www.equifax.co.uk/).  
+
 
 4 If you give us information on behalf of someone else, you confirm that you’ve given them the information set out in this document, and that they have given permission for us to use their personal information in the way we’ve described in clause 10. If you give us sensitive information about yourself or other people (such as health details or details of any criminal convictions of members of your household), you agree (and confirm that the person the information is about has agreed) that we can use this information in the way set out in this document.
 
-5 You’re entitled to have a copy of the information we hold on you and to have any inaccurate information corrected. We may charge a small fee for providing a copy of any information we hold about you. For more information about this please contact our Privacy Unit at Lakeside West, 30 The Causeway, Staines, TW18 3BY. Or you can email [CentricaDataProtection@Centrica.com](mailto:CentricaDataProtection@Centrica.com).
+5 You’re entitled to have a copy of the information we hold on you and to have any inaccurate information corrected. We may charge a small fee for providing a copy of any information we hold about you. For more information about this please contact our Privacy Unit at Lakeside West, 30 The Causeway, Staines, TW18 3BY. Or you can email [**CentricaDataProtection@Centrica.com**](mailto:CentricaDataProtection@Centrica.com).  
+
 
 ## 4\. Protecting information
 
-We have strict security measures to protect personal information. This includes following certain procedures (for example, checking your identity when you phone us) and encrypting (encoding) data on our websites
+We have strict security measures to protect personal information. This includes following certain procedures (for example, checking your identity when you phone us) and encrypting (encoding) data on our websites.
 
 ## 5\. The Internet
 
@@ -138,7 +139,7 @@ We may use 'cookies' to monitor how people use our site. This helps us to unders
 
 If you don’t want us to use cookies in your browser, you can set your browser to reject cookies or to tell you when a website tries to put a cookie on your computer. However, you may not be able to use some of the products or services on our website without cookies.
 
-[Click here to read our policy on cookies.](https://web.archive.org/privacy/cookies-policy.html)  
+[**Click here to read our policy on cookies**.](https://web.archive.org/privacy/cookies-policy.html)  
 
 
 ## 6\. Turning off cookies in different browsers
@@ -151,6 +152,6 @@ This website may contain links to other sites or recommended suppliers. Please r
 
 ## 8\. Further Information
 
-If you’d like any more information or you have any comments about our privacy policy, please either write to us at Data Protection Manager, Privacy Unit - Legal, Centrica plc, Lakeside West, 30 The Causeway, Staines, Middlesex, TW18 3BY, United Kingdom or email us at [CentricaDataProtection@centrica.com](mailto:CentricaDataProtection@centrica.com).
+If you’d like any more information or you have any comments about our privacy policy, please either write to us at Data Protection Manager, Privacy Unit - Legal, Centrica plc, Lakeside West, 30 The Causeway, Staines, Middlesex, TW18 3BY, United Kingdom or email us at [**CentricaDataProtection@centrica.com**](mailto:CentricaDataProtection@centrica.com).
 
-We may amend this policy from time to time, in which case we’ll publish the amended version on our website, and you can ask us for a copy by writing to the above address or by emailing us at [CentricaDataProtection@centrica.com](mailto:CentricaDataProtection@centrica.com).
+We may amend this policy from time to time, in which case we’ll publish the amended version on our website, and you can ask us for a copy by writing to the above address or by emailing us at [**CentricaDataProtection@centrica.com**](mailto:CentricaDataProtection@centrica.com).
