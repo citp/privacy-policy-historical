@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tutornext.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101161853id_/http%3A//www.tutornext.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutornext.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511022834id_/http%3A//www.tutornext.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | TutorNext.com
 
 tutorNEXT.com has created this privacy statement ("Statement") in order to demonstrate our commitment to customer privacy. Privacy on the tutorNEXT.com web site (the "Site") is of great importance to us. Because we gather important information from our visitors and customers, we have established this Statement as a means to communicate our information gathering and dissemination practices. We reserve the right to change this Statement at any time, so please visit tutorNEXT.com regularly to review our privacy statement. 
 
