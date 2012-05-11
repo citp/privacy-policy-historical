@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trashbilling.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107145119id_/https%3A//www.trashbilling.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trashbilling.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511074510id_/https%3A//www.trashbilling.com/privacy.php) for the most accurate reproduction.*
 
 # TrashBilling.com - Privacy Policy
 
@@ -75,4 +75,4 @@ You can review your personal information at any time by logging in to your accou
 
 #### How you can contact us about privacy questions
 
-If you have questions or concerns regarding this policy, you should contact us by writing to us at Ivy Computer, Inc., Attn: Privacy Department, 2933 Waterbury-Stowe Rd., Waterbury Center, Vermont 05677.
+If you have questions or concerns regarding this policy, you should contact us by writing to us at Ivy Computer, Inc., Attn: Privacy Department, PO Box 239, Waterbury Center, Vermont 05677.
