@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the myfreeimplants.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107011906id_/http%3A//myfreeimplants.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfreeimplants.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511105730id_/http%3A//myfreeimplants.com/privacy-policy) for the most accurate reproduction.*
 
 # Free Breast Implants, Free Boob Job, Free Plastic Surgery Financing. MyFreeImplants.com
+
+Privacy Policy 
 
 Thank you for visiting MyFreeImplants.com. This Privacy Policy sets forth the online information practices of MyFreeImplants including:
 
@@ -44,3 +46,7 @@ If we decide to change our privacy policy, we will post those changes on our web
 
 **SECURITY**  
 We make every effort to have reasonable security procedures in place to protect against the loss, misuse or alteration of information under our control. If you have any questions about the security of our web site or about this privacy policy, please contact us.
+
+**Tabitha**
+
+In today's economy it is almost impossible to get a loan for cosmetic surgery. MyFreeImplants provided me with a no debt solution where I made amazing connections with generous men. Once shy, I am now proud to display my new body for the world to see!
