@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deepsilver.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210053850id_/http%3A//www.deepsilver.com/en/footer/terms-of-use-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deepsilver.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511163302id_/http%3A//www.deepsilver.com/en/footer/terms-of-use-privacy-statement) for the most accurate reproduction.*
 
 # Terms of use - Footer - Deep Silver
 
