@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bcassessment.ca privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011162807id_/http%3A//bcassessment.ca/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcassessment.ca privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511220400id_/http%3A//bcassessment.ca/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -54,9 +54,9 @@ The BC Assessment web site does not use Persistent Cookies (which may store pers
 
 Any questions regarding this privacy policy can be directed to:
 
-Information and Privacy Officer  
-BC Assessment  
-Head Office  
+Sarah Bonner, Senior Information and Privacy Analyst  
+Legal Services and Government Relations, BC Assessment  
 400 – 3450 Uptown Blvd.   
 Victoria BC V8Z 0B9  
-V8T 4Y2
+Phone:  250.595.6211 x. 282  
+Email: [sarah.bonner@bcassessment.ca](mailto:sarah.bonner@bcassessment.ca)
