@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gets.cn privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223151136id_/http%3A//www.gets.cn/Privacy_Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gets.cn privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511233150id_/http%3A//www.gets.cn/Privacy_Policy.php) for the most accurate reproduction.*
 
 # Privacy Policy and Guarantee
-
-### Privacy Policy and Guarantee
 
 Milky Way Jewelry ( [Gets.cn](http://www.gets.cn/) ) is serious about privacy. How do we do this? Milky Way Jewelry uses a secure server (128-bit SSL encryption) to encrypt all of your personal information. We use strong security measures to prevent the loss, misuse and alteration of your information once it is in our records.
 
