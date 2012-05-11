@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statravel.com.au privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231013945id_/http%3A//www.statravel.com.au/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statravel.com.au privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511222501id_/http%3A//www.statravel.com.au/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy policy of STA Travel Australia and New Zealand | STA Travel | Privacy policy
 
