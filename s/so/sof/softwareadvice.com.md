@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softwareadvice.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109095914id_/http%3A//www.softwareadvice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwareadvice.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511090615id_/http%3A//www.softwareadvice.com/privacy) for the most accurate reproduction.*
 
 # Software Advice Privacy Policy
 
@@ -111,7 +111,7 @@ If we decide to change our privacy policy, we will post those changes to this pr
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you by e-mail or by means of a prominent notice on our home page.
 
 **CONTACTING Software Advice**  
-If you have any specific questions regarding any issues about privacy on the Website, please contact Software Advice at 714 Congress Avenue Suite 200, Austin, TX 78701 or via e-mail [privacy@softwareadvice.com](mailto:privacy@softwareadvice.com), and we will attend to your request and make any necessary revisions.
+If you have any specific questions regarding any issues about privacy on the Website, please contact Software Advice at 200 Academy Drive, Suite 120, Austin, TX 78704 or via e-mail [privacy@softwareadvice.com](mailto:privacy@softwareadvice.com), and we will attend to your request and make any necessary revisions.
 
 **APPLICABLE LAW**  
 Our collection and use of information shall be governed by laws of the United States.
