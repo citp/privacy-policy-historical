@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reptileforums.co.uk privacy policy that was archived on 2010-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100110075745id_/http%3A//www.reptileforums.co.uk/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reptileforums.co.uk privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511101020id_/http%3A//www.reptileforums.co.uk/forums/pp.php) for the most accurate reproduction.*
 
-# Reptile Forums UK
+# Reptile Forums
 
 **Privacy Policy for RFUK**
 
