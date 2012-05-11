@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apartments.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205071153id_/http%3A//www.apartments.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartments.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511162409id_/http%3A//www.apartments.com/privacy.htm) for the most accurate reproduction.*
 
 # Apartments.com Private Policy
 
@@ -34,7 +34,7 @@ The Site automatically collects information and may also customize your visit th
 
 **IP Address Logs:** CV also logs Internet Protocol (IP) addresses— the location of your computer on the Internet.
 
-Cookies allow CV to recognize you when you visit the Site, to personalize your experience and generally to serve you better. For example, if you enter your name, address or ZIP code on one of the Site's forms, it may be stored in a cookie so you do not have to enter it again on other forms on the Site. Cookies and Web beacons can tell us what advertising you have seen on the Site, which allows CV to offer you a more diverse selection of advertising information and may also be used together to measure the effectiveness of our advertising campaigns. Cookies, Web beacons and IP addresses are also used to compile data regarding Site usage (what Web site you came from, what pages of the Site you visit, how long you were on the Site, what type of browser you are using, what Web site did you go to, etc.). This type of tracking does not identify you personally.  Web beacons may also be included in emails sent by the Site to determine when and if such emails are opened or forwarded. You can disable cookies or otherwise manage them through tools provided with your browser software and with third-party software packages. If you turn off cookies, many of the Site's features will not work as well or at all. Anonymous information regarding usage of our Site and services that is collected and/or aggregated by or on behalf of Apartments.com through the use of such technical means or otherwise is referred to in this Statement as " **Usage Data**."
+Cookies allow CV to recognize you when you visit the Site, to personalize your experience and generally to serve you better. For example, if you enter your name, address or ZIP code on one of the Site's forms, it may be stored in a cookie so you do not have to enter it again on other forms on the Site. Cookies and Web beacons (which may be placed by us or a third party tracking utility partner) can tell us what advertising you have seen on the Site, which allows CV to offer you a more diverse selection of advertising information and may also be used together to measure the effectiveness of our advertising campaigns. Cookies, Web beacons and IP addresses are also used to compile data regarding Site usage (what Web site you came from, what pages of the Site you visit, how long you were on the Site, what type of browser you are using, what Web site did you go to, etc.). This type of tracking does not identify you personally.  Web beacons may also be included in emails sent by the Site to determine when and if such emails are opened or forwarded. You can disable cookies or otherwise manage them through tools provided with your browser software and with third-party software packages. If you turn off cookies, many of the Site's features will not work as well or at all. Anonymous information regarding usage of our Site and services that is collected and/or aggregated by or on behalf of Apartments.com through the use of such technical means or otherwise is referred to in this Statement as " **Usage Data**."  The use of third party cookies is not covered by our privacy policy. We do not have access or control over these cookies. 
 
 **Flash LSOs:** We use local shared objects, also known as Flash cookies, to store your preferences such as volume control or high game score, or display content based upon what you view on our site to personalize your visit.  Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information.
 
@@ -84,9 +84,17 @@ Your location is obtained from the mobile device or the network, or directly fro
 
    **Other information about your device:** We collect non-personally identifiable information from your mobile device in order to provide our services to you. Information may include device type and mobile service carrier. No information, including location information, is shared with any third parties for marketing purposes. Our apps do not interact or share information with any other applications installed on your mobile device.
 
-### **?For Rent By Owner? Ads**
+### **"For Rent By Owner" Ads**
 
 When purchasing a “For Rent By Owner” online classified listing (a “ **FRBO Ad** ”), it is important to note that any information you choose to include in a FRBO Ad may be made publicly available via the Site and other media in which the Site  listings are published, including third party Web sites and print publications. For example, you may include a phone number and/or an email address to allow users to contact you regarding your FRBO Ad. As such, you may receive unsolicited phone calls and emails from third parties, even after your FRBO Ad is no longer on the Site. Except for required information, you should not include any contact or other information in a FRBO Ad that you do not want other parties to see or use.  If you wish to access, verify the accuracy of, or change the personally identifiable information in your FRBO Ad account, you can use the interface available at [**https://secure.apartments.com/common/emaillogin.aspx**](https://secure.apartments.com/common/emaillogin.aspx).
+
+### Access to Personally Identifiable Information
+
+If your personal information changes, or if you no longer desire our service, you may correct, delete inaccuracies, or update it by emailing us at [feedback@apartments.com](mailto:feedback@apartments.com). We will respond to your access request within 30 days.
+
+We will retain your information as needed to provide you services. If you wish to request that we no longer use your information to provide you services contact us at [feedback@apartments.com](mailto:feedback@apartments.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+To request removal of your personal information from our blog, community forums or testimonials, contact us at feedback@apartments.com. In some cases we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
 
 ### **Message Boards**
 
@@ -124,4 +132,4 @@ If you have any questions about this Privacy Statement, please email us at [lega
 
 © 2007 - 2010 Classified Ventures, LLC, 175 West Jackson, Suite 800, Chicago, IL 60604
 
-Last updated on 11/01/10
+Last updated on 10/06/11
