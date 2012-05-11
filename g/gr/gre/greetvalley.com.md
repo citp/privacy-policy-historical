@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greetvalley.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107131511id_/http%3A//www.greetvalley.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greetvalley.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511173328id_/http%3A//www.greetvalley.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Animated free greeting cards, animated free greetings and ecards
 
@@ -129,9 +129,10 @@ However, we can't control those sites content, therefore we are not responsible 
 
 If you have any questions about this privacy policy, or about anything that related to our site, contact us through this 
 
-[contact form](https://web.archive.org/web/20111107131511id_/http%3A//www.greetvalley.com/contact.php)  
+[contact form](https://web.archive.org/web/20120511173328id_/http%3A//www.greetvalley.com/contact.php)  
   
 |   
+  
   
   
   
