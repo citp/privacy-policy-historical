@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the quicktransportsolutions.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101192223id_/http%3A//quicktransportsolutions.com/policy/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quicktransportsolutions.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511033301id_/http%3A//www.quicktransportsolutions.com/policy/privacy.php) for the most accurate reproduction.*
 
 # Quick Transport Solutions Inc. Privacy Policy
 
 ## Welcome to Quick Transport Solutions Inc.
-
-QuickTransportSolutions.com and QuickTSI.com Privacy Policy
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@QuickTSI.com . 
 
