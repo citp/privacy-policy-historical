@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthduty.com privacy policy that was archived on 2011-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111013202030id_/http%3A//www.healthduty.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthduty.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511163742id_/http%3A//www.healthduty.com/Privacy.html) for the most accurate reproduction.*
 
 # Heathduty.com - Fitness Tips, Health Care Debate, Alzheimers, Medicare Issues & Healthy Living
 
