@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pollen.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101154949id_/http%3A//www.pollen.com/privacy_policy_general.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pollen.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511033549id_/http%3A//pollen.com/privacy_policy_general.asp) for the most accurate reproduction.*
 
 # Pollen.com - Free 4-day Allergy Forecasts and Allergy Alerts
 
@@ -42,11 +42,11 @@ If you would like your information to be deleted or deactivated from our site, p
 Questions regarding this statement should be directed to:
 
 Pollen.com  
-c/o SDI  
-1 SDI Drive   
+c/o IMS Health Incorporated  
+1 IMS Drive   
 Plymouth Meeting, PA 19462
 
 Phone: (610) 834-0800  
 e-mail:[support@pollen.com](mailto:support@pollen.com)
 
-[Important Information About Accepting/Declining Cookies](https://web.archive.org/web/20111101154949id_/http%3A//www.pollen.com/cookies.asp)
+[Important Information About Accepting/Declining Cookies](https://web.archive.org/web/20120511033549id_/http%3A//pollen.com/cookies.asp)
