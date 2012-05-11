@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hamleys.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206054111id_/http%3A//www.hamleys.com/Privacy_Policy_%257C_Hamleys_Toys/M116_EDITORIAL_CONTENT_PRIVACY_POLICY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hamleys.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511032542id_/http%3A//www.hamleys.com/Privacy_Policy_%257C_Hamleys_Toys/M116_EDITORIAL_CONTENT_PRIVACY_POLICY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -45,7 +45,7 @@ We use information held about you in the following ways:
 
 
 
-We may also use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by post or telephone, if you allow us to do so. If you are an existing customer, we will only contact you with information about goods and services similar to those which were the subject of a previous sale to you.
+We may also use your data, to provide you with information about goods and services which may be of interest to you and we may contact you about these by post or telephone, if you allow us to do so. If you are an existing customer, we will only contact you with information about goods and services similar to those which were the subject of a previous sale to you.
 
 Disclosure of your information  
 We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006. We may disclose your personal information to third parties:
