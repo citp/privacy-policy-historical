@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paytoo.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124113854id_/http%3A//paytoo.com/content/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paytoo.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511071109id_/http%3A//www.paytoo.com/content/privacy_policy) for the most accurate reproduction.*
 
 # Paytoo - Privacy Policy
 
