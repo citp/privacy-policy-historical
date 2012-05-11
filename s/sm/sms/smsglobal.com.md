@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smsglobal.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228025316id_/http%3A//www.smsglobal.com/global/en/information/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smsglobal.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511191432id_/http%3A//www.smsglobal.com/global/en/information/privacy_policy.php) for the most accurate reproduction.*
 
-# SMSGlobal - International SMS & MMS Gateway with APIs - Global
+# Privacy Policy - SMSGlobal
 
 **Privacy Policy**
 
@@ -8,7 +8,7 @@
 
 SMSGlobal is the sole owner of the information collected on this site www.smsglobal.com. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. We do not sell your personal information to third parties. SMSGlobal collects information from our users at several different points on our website. 
 
-SMSGlobal has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through our mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trust mark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us on +61 3 9095 6245 or visit us at 1 / 75 Lorimer Street, Docklands, Victoria. Australia. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
+SMSGlobal has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through our mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trust mark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us on +61 3 9095 6245 or visit us at 96-98 Market Street, South Melbourne, Victoria 3205, Australia. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
 **Registration**
 
