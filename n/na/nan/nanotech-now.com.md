@@ -1,22 +1,12 @@
-> *The following text is extracted and transformed from the nanotech-now.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101144109id_/http%3A//www.nanotech-now.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nanotech-now.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511165316id_/http%3A//www.nanotech-now.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Our NanoNews Digest Sponsors **[](http://www.nanotech-now.com/banners/track.pl?banner_id=undefined) [](http://www.nanotech-now.com/banners/track.pl?banner_id=undefined)
-
-[](http://www.nanotech-now.com/banners/track.pl?banner_id=undefined)
-
-[](http://www.nanotech-now.com/banners/track.pl?banner_id=undefined) [](https://web.archive.org/banners/track.pl?banner_id=81)
-
-[](http://wikimediafoundation.org/wiki/Donate/en)
-
-****
-
 ******** | 
 
-[Home](https://web.archive.org/web/20111101144109id_/http%3A//www.nanotech-now.com/) > Privacy
+[Home](https://web.archive.org/web/20120511165316id_/http%3A//www.nanotech-now.com/) > Privacy
 
-**Privacy Notice:**
+## Privacy Notice:
 
 We collect **no personal information** about you when you visit our website, unless otherwise stated, or unless you choose to provide this information to us. 
 
@@ -32,7 +22,7 @@ whether yours individually or provided as a proxy by your ISP
 
 We use these summary statistics to help us make our site more useful to visitors, such as assessing what information is of most and least interest to them, and for other purposes such as determining the site's technical design specifications and identifying system performance or problem areas. This information is NOT shared with anyone beyond our support staff, except when required by law enforcement agencies, and is used only as a source of anonymous statistical data. 
 
-**Personal Statement:**
+## Personal Statement:
 
 **Our site does not now - nor will it ever - knowingly link to or associate with hate, descriminatory, or adult [pornographic] sites.  We individually and collectively subscribe to a system of universal ethical treatment for all people, and strive to reflect that within this website.  While our views, beliefs, and understandings may differ from your's, we commit to always allowing room for being incorrect, and acknowledging everyone's right to free expression.**
 
@@ -46,7 +36,7 @@ We use these summary statistics to help us make our site more useful to visitors
   
 [](http://www.nanotech-now.com/banners/track.pl?banner_id=undefined)
 
-[](http://www.researchandmarkets.com/affcontent/?tt=3721_135171_69066_&r=)  
+[](http://www.nanotech-now.com/banners/track.pl?banner_id=undefined)  
   
 ---  
 **   Premium Products**  
@@ -65,7 +55,3 @@ We use these summary statistics to help us make our site more useful to visitors
 [](http://www.nanotech-now.com/banners/track.pl?banner_id=undefined)
 
 [](http://www.nanotech-now.com/banners/track.pl?banner_id=undefined)
-
-[](http://www.nanotech-now.com/banners/track.pl?banner_id=undefined)
-
-[](http://click.linksynergy.com/fs-bin/click?id=6Xa4cqzKbi4&offerid=7097.2298&type=4&subid=0)
