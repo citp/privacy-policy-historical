@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2brightsparks.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205144001id_/http%3A//www.2brightsparks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2brightsparks.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512012900id_/http%3A//www.2brightsparks.com/privacy.html) for the most accurate reproduction.*
 
 # 2BrightSparks | Privacy
 
@@ -8,7 +8,7 @@
 2BrightSparks Pte Ltd:   
 Privacy Statement
 
-You may also download our Privacy Statement as a [PDF Document](https://web.archive.org/web/20111205144001id_/http%3A//www.2brightsparks.com/assets/pdf/2BrightSparksPrivacy.pdf) [opens new window].  
+You may also download our Privacy Statement as a [PDF Document](https://web.archive.org/web/20120512012900id_/http%3A//www.2brightsparks.com/assets/pdf/2BrightSparksPrivacy.pdf) [opens new window].  
 
 
 |   | 
@@ -81,4 +81,4 @@ We only disclose data when required to do so by Singapore and/or International l
 http://www.2brightsparks.com  
 Power with Ease - Indispensable Utility Software
 
-2BrightSparks Pte Ltd © 2010
+2BrightSparks Pte Ltd © 2012
