@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the timetrade.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605231535id_/http%3A//www.timetrade.com/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timetrade.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511194709id_/http%3A//www.timetrade.com/privacy_statement.aspx) for the most accurate reproduction.*
 
 # TimeTrade - Privacy Statement
 
-TimeTrade Systems, Inc. ("TimeTrade") respects your privacy and values your trust. The following Privacy Statement outlines how TimeTrade will treat information as you use our products and services. Please direct any questions that you may have regarding our Privacy Statement at any time to our privacy coordinator at privacy@timetrade.com.
+TimeTrade Systems, Inc. ("TimeTrade") respects your privacy and values your trust. The following Privacy Statement outlines how TimeTrade will treat information as you use our products and services. Please direct any questions that you may have regarding our Privacy Statement at any time to our privacy coordinator at [privacy@timetrade.com](mailto:privacy@timetrade.com).
 
   
 **Personally-identifiable Information**
@@ -19,7 +19,7 @@ At times, we may collect information about you that is not personally-identifiab
   
 **Cookies**
 
-When you log onto our Web sites or advertisements, we use cookies to provide customizable and personalized services, such as changing your personal profile. By modifying your browser preferences, you may accept all cookies, be notified when a cookie is set, or reject all cookies. Even if you reject the use of cookies, you will still be able to use our products and services. This policy does not cover the use of cookies by any advertisers. TimeTrade does not have control or access to information contained in the advertisers' cookies.
+When you log onto our Web sites or advertisements, we use cookies to provide customizable and personalized services, such as changing your personal profile, and to record user-specific information on what pages users access or visit. By modifying your browser preferences, you may accept all cookies, be notified when a cookie is set, or reject all cookies. Even if you reject the use of cookies, you will still be able to use our products and services. This policy does not cover the use of cookies by any advertisers. TimeTrade does not have control or access to information contained in the advertisers' cookies.
 
   
 **Scheduling & Appointment Confidentiality**
@@ -44,7 +44,7 @@ Our Web site has security measures in place to protect against the loss, misuse,
   
 **Credit Card Transactions**
 
-Online credit card payments are processed by[Aria Systems](http://www.ariasystems.com/). All other credit card transactions are processed by PayPal/[Cybercash](http://www.cybercash.com/). These professional payment authorization services were chosen to ensure secure and private handling of payment transactions. Both Aria and Cybercash offer secure encrypted credit card transactions for thousands of companies and have stringent security measures in place.
+Online credit card payments are processed by [Aria Systems](http://www.ariasystems.com/). All other credit card transactions are processed by PayPal/[Cybercash](http://www.cybercash.com/). These professional payment authorization services were chosen to ensure secure and private handling of payment transactions. Both Aria and Cybercash offer secure encrypted credit card transactions for thousands of companies and have stringent security measures in place.
 
   
 **Safe Harbor**
