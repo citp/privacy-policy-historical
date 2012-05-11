@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tallahassee.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110213853id_/http%3A//www.tallahassee.com/section/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tallahassee.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511041428id_/http%3A//www.tallahassee.com/section/privacy) for the most accurate reproduction.*
 
-# privacy | Tallahassee Democrat | tallahassee.com
+# PRIVACY | Tallahassee Democrat | tallahassee.com
 
 Last Updated: November 9, 2011
 
@@ -96,3 +96,19 @@ Online Privacy Coordinator
 Gannett Law Department  
 7950 Jones Branch Drive  
 McLean, VA 22107
+
+Enter your email and we will send you a link to reset your password.
+
+[](https://web.archive.org/ "Return to Homepage")
+
+Become a subscriber today to enjoy these benefits:
+
+  * 24/7 access to our Web site
+  * iPad-optimized edition
+  * Mobile site & iPhone app
+
+
+
+[View subscription options](https://web.archive.org/section/subscription-options)
+
+[](https://web.archive.org/ "Return to Homepage")
