@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the standard-freeholder.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203175323id_/http%3A//www.standard-freeholder.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standard-freeholder.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511100815id_/http%3A//www.standard-freeholder.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -100,9 +100,9 @@ M5A 3X5
 E-Mail: [privacy@sunmedia.ca](mailto:privacy@sunmedia.ca)
 
 Any rights not expressly granted herein are reserved.  
-© 2011 www.standard-freeholder.com, All rights reserved. Unauthorized duplication or publication of any materials from this Site is expressly prohibited. Commercial use of The Cornwall Standard Freeholder RSS feeds is strictly forbidden. 
+© 2012 www.standard-freeholder.com, All rights reserved. Unauthorized duplication or publication of any materials from this Site is expressly prohibited. Commercial use of The Cornwall Standard Freeholder RSS feeds is strictly forbidden. 
 
 * * *
 
-COPYRIGHT NOTICE.© 1999-2011 [PriorityDigital.com](http://209.204.219.152/) Prepared for: www.standard-freeholder.com ,All rights reserved.   
+COPYRIGHT NOTICE.© 1999-2012 [PriorityDigital.com](http://209.204.219.152/) Prepared for: www.standard-freeholder.com ,All rights reserved.   
 
