@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the testmasters.net privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006230003id_/http%3A//www.testmasters.net/Home/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testmasters.net privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511190721id_/http%3A//www.testmasters.net/Home/Privacy-Policy) for the most accurate reproduction.*
 
 # TestMasters Privacy Policy
 
@@ -86,4 +86,4 @@ The TestMasters Administrative Office is located at:
 [Complete List of TestMasters Courses](https://web.archive.org/schedule/all)  
 [LSAT Prep Locations](https://web.archive.org/lsat-prep)
 
-© 1991-2011 TestMasters. All rights reserved. 
+© 1991-2012 TestMasters. All rights reserved. 
