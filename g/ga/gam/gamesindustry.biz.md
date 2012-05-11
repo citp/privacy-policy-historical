@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamesindustry.biz privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006032026id_/http%3A//www.gamesindustry.biz/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesindustry.biz privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511235355id_/http%3A//www.gamesindustry.biz/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | GamesIndustry International
 
 ## GamesIndustry.biz will use information collected about you in accordance with the Data Protection Act 1998.
 
