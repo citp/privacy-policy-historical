@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escapetravel.com.au privacy policy that was archived on 2011-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110401234251id_/http%3A//www.escapetravel.com.au/company/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escapetravel.com.au privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511041318id_/http%3A//www.escapetravel.com.au/company/policies/privacy-policy) for the most accurate reproduction.*
 
 # Escape Travel - Privacy Policy
 
