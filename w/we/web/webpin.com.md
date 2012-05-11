@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the webpin.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215163339id_/http%3A//webpin.com/en/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webpin.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511074438id_/http%3A//www.webpin.com/en/privacy.php) for the most accurate reproduction.*
 
 # - Webpin.com
 
-At Webpin.com we care about your privacy. In the following we describe what information is collected and how we deal with it. This policy applies to all of the Webpin.com Products. Webpin.com is a service of the InfoSpace S. de R.L. de C.V. If you have any questions about this Policy, please feel free to contact us at [support@mex.tl](mailto:support@mex.tl)
+At Webpin.com we care about your privacy. In the following we describe what information is collected and how we deal with it. This policy applies to all of the Webpin.com Products. Webpin.com is a service of the InfoSpace S. de R.L. de C.V. If you have any questions about this Policy, please feel free to contact us at [support@webpin.com](mailto:support@webpin.com)
 
 ### Information we collect and how we use it:
 
