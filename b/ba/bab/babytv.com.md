@@ -1,155 +1,70 @@
-> *The following text is extracted and transformed from the babytv.com privacy policy that was archived on 2011-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111015015446id_/http%3A//www.babytv.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babytv.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511023557id_/http%3A//www.babytv.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # BabyTV - Privacy Policy
 
-   
-This Privacy Policy explains how We use any personal information which We may collect about You ( **Your Information** ) via this website and or via any of Our mobile web applications ( **Site** ). Personal information includes information about You that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. This Privacy Policy is designed to help You feel more confident about the privacy and security of Your Information. You are not anonymous to Us.
+****10th December 2007
 
-This Privacy Policy also gives information about Cookies, Our and third parties' use of Cookies and how you may disable such Cookies. 
+**Introduction**  
+Any reference to "we", "us" and "our" is to Baby TV. Please see below for our contact details. Any reference to "you" or "your", means you as user of the Baby TV Channel (the "Channel") or Channel (the "Channel").
 
-This Privacy Policy does not apply to the practices of companies that We do not own or control, or to people that We do not employ or manage.
+Baby Network Ltd is committed to protecting your privacy. This page sets out our privacy policy and explains how your personal information (meaning any information about you which is personally identifiable like your name, address, telephone number or e-mail address, generally referred to throughout this policy as "personal information") will be used. 
 
-**You/Your** means you, the user of the Site. **We/Us/Our** means Baby Network Limited.  You can find Our full company details at <http://www.babytv.com/ContactUs.aspx>.
+This privacy policy only applies to the collection of your personal information by us and the use of that personal information by us and those whom we authorise. It does not cover third party websites to which we provide links, nor does it cover advertisers. They may have their own privacy policies and/or terms and conditions of use. 
 
-Changes to this Privacy Policy  
-Children  
-Contact  
-Cookies  
-Data Collection  
-Data Storage  
-How We may use Your Information  
-Information Collection and Use Practices  
-Security  
-Security Steps We Have Taken:  
-Sharing Your Information  
-Targeted Advertisements  
-Transfer of Your Information  
-Updates  
-Your Ability to Edit and or Delete Your Information.
+By accessing and continuing to use the Channel, you accept the terms of this privacy policy. Please note that we may update and amend the privacy policy from time to time and any changes will be posted on the Channel. If you do not agree with any of our privacy policy then you should not use the Channel. 
 
-**Data Collection:**
+**What information do we hold about you and how is it collected?**   
+When you register for various services on the Channel or when you otherwise update your registration details, personal information is collected by us. You may also be asked to provide personal information when buying or subscribing for content from us via the Channel.   
+In addition, in common with many other online services, we may use "cookies" or other devices to store and sometimes track information about you (see section entitled "Cookies" below).   
+We may also collect personal information: when you make a complaint or enquiry or provide other feedback to us; when you submit an entry to a competition or prize draw; when you request to be sent communications such as updates or newsletters; in monitoring your communications sent via and use of the Channel to ensure and check compliance with the Terms of Use; and/or otherwise as required by law; and when you disclose your personal information to us or otherwise through the Channel at any other point. 
 
-Mailouts, competitions and other information from Us and third parties  
-When using the Site and its services You may be asked if You would like to receive our newsletters, other information about Us or our other publications. You will be asked to provide Us with some of Your personal information. You will have to tick the ‘opt in’ box if you wish to receive this information.  We may also ask you if you wish to receive information from third parties.  If you wish to receive information from third parties and are happy for Us to share Your Information with other service providers, we will ask You to tick the ‘opt in’ box.  We may also offer competitions on the Site or allow you to register for special events from time to time.  
+**How do we use information about you?**   
+We use information about you help us provide you with a more personalised service which is tailored to suit your needs. 
 
-We will only collect Your Information that is essential to enable Us to comply with Your requests.  For example, if You wish to receive Our newsletter, You will need to provide Us with Your email address and a password for security purposes or if You wish to enter into one of Our competitions or make a booking for one of Our functions, We will need to collect Your name and perhaps Your address to ensure that We comply with legal requirements for competitions.  Your Information that is essential for Us to comply with Your request will be highlighted as a mandatory field and these may vary depending on what information You wish to receive from Us.
+Your personal information may be used by us to:   
+\- to monitor, develop and improve the Channel, services and your experience;   
+\- to assist in and administer the provision of services to you;   
+\- process and deal with any complaints or enquiries made by or about you;   
+\- investigate any suspected breach of the Terms of Use or the breach of other terms and conditions otherwise relating to you and to monitor compliance including by way of checking postings or submissions to the Channel, retaining forum or chat room exchanges and using keyword triggers to investigate usage that may be inappropriate; and/or  
+\- where you are a prize winner, to administer the competition prize and to publish or otherwise make available a list of prize winners.   
+Where and only where requested by you we will:   
+\- send you and keep you updated with information by email, telephone or mail about existing and new services and special offers from us; and/or  
+\- send you information by e-mail, telephone or mail about related products or services of selected third parties that may be of interest to you; and   
+To opt-out of receiving any such communications, you can use the facility contained in any such communication or you can email us at the email address below or write to us by mail to the address below stating that you do not wish to receive further communications from us. [info@babytvchannel.com](mailto:info@babytvchannel.com)
 
-How long do We keep Your information  
-We will only retain Your Information for the period necessary to comply with Your requests and we will delete Your Information as soon as practicable after You request that we stop providing You with Our information.  However, if You tick the box that permits Us to provide Your Information to third parties and You wish those third parties to stop providing You with their information You will need to unsubscribe to their services directly through their websites.  We will not be able to do that for You.    
-We will only collect and use Your Information in a way that You have expressly authorised Us to do so by ticking the ‘opt in’ boxes and for no other purpose. 
+**Amending your information**  
+Where you register your details for certain services and open a user account that you can then use to access and log on to use those services. You may change or update your user name and password or other details at any time via your account. You must make sure that you update details as soon as possible with any and all relevant changes. 
 
-We may combine Your Information with information we obtain from business partners or other companies.
+**Cookies and other such devices**  
+A cookie is a small amount of data sent from our server and stored on your computer's hard drive. 
 
-Additional information We may collect from You  
-We automatically receive and record information on our server logs from Your browser including Your IP address, some Cookie information, software and hardware attributes and the page You requested.
+We use cookies and other such devices to compile anonymous, aggregated statistics that allow us to understand how users use our Channel and to help us improve the structure of our Channel (we cannot identify you personally in this way). We use cookies and other such devices to allow us to understand who has seen which pages and advertisements on the Channel, to determine how frequently particular such pages and advertisements are visited, to determine the most popular areas of the Channel and generally in order to monitor usage of the Channel. 
 
-We may use this information for the following general purposes: to personalise the advertising and content You see based on the details given by You at registration and your activity on the Site, to fulfil your requests for services and/or information, improve Our services, contact You, conduct research, and provide anonymous reporting for internal and external purposes. You agree that We may transfer your personal information for the general purposes set out above to any group company worldwide.
+We may also use cookies and other such devices to:   
+\- to allow you to carry information across pages of our Channel and avoid having to re-enter information;   
+\- within registration to allow you to access stored information;   
+\- to help us recognise you as a unique visitor when you return to our Channel and to allow us to tailor content or advertisements to match your preferred interests or to avoid showing you the same adverts repeatedly; and/or  
+\- within research surveys to ensure you are not invited to complete a questionnaire too often or after you have already done so. 
 
-Back to top
+Most internet browsers are automatically set up to accept cookies, but you can set your browser to refuse a cookie or ask your browser to show you where a cookie has been set up. Certain services are only activated by the presence of a cookie and, if you choose to refuse cookies, particular features of this Channel may not be available to you. 
 
-**Cookies**  
-You should be aware that by using the Site, certain information and data as to how You use Our Site may be automatically collected through the use of Cookies. "Cookies" are small text files that store basic information that a website can use to recognise repeat site visits and, as an example, recall Your name if this has been previously supplied. We may use this information to observe Your internet use and to compile data in order to monitor and improve Our Site and target Our third parties advertising and assess the general effectiveness of such advertising.
+Find out how to disable/enable cookies by clicking on the "Manage Cookies" section of the Interactive Advertising Bureau UK Channel on the following link [http://www.allaboutcookies.org](http://www.allaboutcookies.org/)
 
-Cookies do not attach to Your system or damage Your files. If You do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows You to deny or accept the Cookies feature. Note, however, that there may be some deterioration in the service You receive and "personalised" services may be affected if the Cookies option is disabled.
+**Will we share your information with third parties?**   
+We may pass your information to other parties as follows:   
+\- where relevant, your user name and information you voluntarily provide in your profile that you register with us will be published on areas of the Channel such as forums, chat rooms or pages where user submissions are displayed and this will be the identity by which you are known on those areas. Where other users wish to chat or otherwise contact you, they will be able to identify you by your user name and any other information you may yourself disclose via the Channel;   
+\- we may pass your personal information to our employees and agents to administer the services provided to you by us now or in the future;   
+\- some general statistical information about the Channel user base, sales patterns, traffic volumes and related matters may be passed on to reputable third parties but these details will not include information personally identifying you; and  
+\- we may disclose your personal information to the police, regulatory bodies or legal advisers in connection with any alleged criminal offence or suspected breach of the Terms of Use and or the breach of other terms and conditions otherwise relating to you or otherwise where required by law and we will co-operate with any law enforcement authorities or court order requesting or directing us to disclose the identity of or locate anyone breaching these Terms of Use or otherwise for the prevention or detection of crime or the apprehension or prosecution of offenders. 
 
-If You wish to disable the setting of Cookies in Your browser, please [click here](http://www.babytv.com/privacycookies.aspx) for instructions. If You do not disable the setting of Cookies, You consent to Your information being collected and used as set out above.
+**We do not pass or sell your personal information to third persons for any other purpose than those set out above.**   
+Always think carefully before disclosing your personal information or other information to other users of the Channel or otherwise posting your personal information on the Channel. It is important that you are aware that any of your personal information or other information which you disclose to another user may then be disclosed on the Channel by that user. We have no responsibility or control over the contents of communications made between users of the Channel. 
 
-Who can place cookies on Your computer  
-We may set and access Cookies on Your computer. We may also allow other companies that are presenting advertisements on some of Our pages to set and access their cookies on Your computer. Other companies' use of their Cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Our Cookies. We use web beacons to access Our Cookies inside and outside Our Sites.
+**Security/how do we protect your information?**   
+We endeavour to take all reasonable steps to protect your personal information. Where possible we use industry-standard technology to allow for the encryption of sensitive information like your credit card number. 
 
-Back to top
+**Changes to our privacy policy**  
+This privacy policy was last updated on 10th December 2007  
+**Contact Details:**
 
-**How We may use Your Information**  
-By entering Your Information via this Site, You acknowledge and agree that We may retain Your Information and that it may be held by Us or any third party company which processes it on Our behalf.
-
-Your Information will be used in accordance with this Privacy Policy and for the purposes specified at the time of collection. We may also use Your Information for the following purposes:  
-1.    to monitor and improve the Site and Our services;  
-2.    market research, including statistical analysis of user behaviour which We may disclose to third parties in depersonalised, aggregated form;  
-3.    in order to enable Us to comply with any requirements imposed on Us by law or court order; and  
-4.    if, via the Site You consent to Us and/or selected third parties sending You information, Your Information will be added to a database owned by Us for use in marketing, sales and promotions communications (i) of Our own services and/or (ii) by selected third parties of their goods and services. If at a later stage You wish to withdraw Your consent to receive such materials please select the “unsubscribe” link in any marketing emails received from Us.
-
-Back to top
-
-**Security**  
-Security is very important to Us. Security procedures are in place to protect the confidentiality of Your Information whilst it is retained on Our servers and encrypted if such information is sensitive and is to be passed to different locations around the world. We limit access to personal information about You to those who We believe reasonably need to come into contact with that information in order to do their jobs.  We have physical, electronic, and procedural safeguards that comply with Our legal obligations to protect personal information about You. 
-
-IP addresses  
-When Your web browser or email application requests a web page or email from another computer on the Internet, it automatically gives that computer the address where it should send the information. This is called Your computer's "IP address." (IP stands for "Internet protocol.") For most users accessing the Internet from a dial-up Internet service provider (ISP), the IP address will be different every time You log on.
-
-Back to top
-
-**Information collection and use practices**  
-We receive IP addresses from all users because this information is automatically reported by Your browser each time You view a web page. Your IP address is also stored in Our user registration databases when You register with the Site. ¬IP addresses may be used for various purposes, including to: (i) diagnose service or technology problems reported by Our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP; (ii) send the most appropriate advertising based on geographic area or information derived from Your IP address (iii) aggregate information derived from IP addresses may also be reported to advertisers (iv) estimate the total number of users visiting the Site (v) help determine which You have access privileges to certain content that We host. When a web page is requested and viewed, that request is logged on Our servers with information including the IP address of the computer that requested the page. 
-
-Whilst We take the security of Your personal information seriously no data transmission over the Internet or information storage technology can be guaranteed to be 100% secure. The following is a summary of the measures We take to protect Your information and descriptions of ways We implement these measures for different types of information You may provide to Us. We continue to evaluate and implement enhancements in security technology and practices, however We can only take steps to help reduce the risks of unauthorised access. Each individual using the Internet can take steps to help protect their information and further minimise the likelihood that a security incident may occur. We describe some of those measures and provide links to information that may be helpful below
-
-Back to top
-
-**Security steps We have taken:**  
-  
-Secure storage  
-We maintains reasonable physical, electronic, and procedural safeguards that comply with all laws and regulations to protect personal information about You. 
-
-Vendors and partners  
-We work with vendors and partners to protect the security and privacy of user information. 
-
-Employee and contractor access to Your Information  
-We limit access to Your Information to those employees and contractors who we reasonably believe need to come into contact with that information to provide products or services to You or in order to do their jobs. 
-
-Education and training for employees  
-We train Our staff about security that is required of every employee. 
-
-Security steps You can take  
-We recommend that You also be cautious about conducting personal or private business online while using an unsecured network.  Please ensure that You do not share Your password and choose a password that is not easily identified with You.  Be aware of viruses, spyware, sharing Your computer and interacting with strangers.
-
-Reporting incidents  
-If you believe Your account or information has been compromised, please report the incident to us http://www.babytv.com/ContactUs.aspx.
-
-In the event that You believe that Your personal safety is at risk or if You believe that You may be the victim of identity theft or other illegal conduct, please contact the appropriate law enforcement agencies directly. 
-
-Back to top
-
-**Transfer of Your Information**  
-We may store, process and/or transfer Your personal data to countries outside of the EEA. Data is transferred outside the EEA, either to members of Our group of companies or to Our carefully selected business partners for Our data management and business purposes, in particular, for certain outsourced data processing undertaken by organisations on Our behalf. By using Our Site and services You consent to Our transferring Your information to countries outside the EEA, if necessary, for Our legitimate business purposes. We will take reasonable steps to ensure Your information is adequately protected.
-
-Back to top
-
-**Sharing Your Information**  
-We do not rent, sell, or share Your personal information about You with other people or non-affiliated companies except to provide products or services You have requested when We have Your permission, or under the following circumstances:  
-1.    We provide the information to trusted partners who work on behalf of or with Us under confidentiality agreements. These companies may use Your personal information to help Us communicate with You about news from Us and Our marketing partners. However, these companies do not have any independent right to share this information.   
-2.    We respond to subpoenas, court orders, legal process, or to any legitimate request by authorities with which We must comply.   
-3.    We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Our [Terms of Use](http://www.babytv.com/terms-of-use.aspx) , or as otherwise required by law. 
-
-**Targeted advertisements**  
-We may display targeted advertisements based on Your personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria, for example, women ages 18-24 from a particular geographic area. We do not provide any personal information to the advertiser when You interact with or view a targeted ad. However, by interacting with or viewing an ad You are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. To find out more about Ours ads [click here](http://www.babytv.com/privacyads.aspx). 
-
-**Updates**  
-You may notify Us of any updates, amendments and corrections to previously collected Your Information by going to [My Account](http://www.babytv.com/MyAccount.aspx) on the Site. We may change this Privacy Policy from time to time and You should check it regularly. Your use of the Site will be subject to the Privacy Policy on the Site at the time of each use.
-
-**Your ability to edit and or delete Your Information.**  
-You can edit Your Information, including Your marketing preferences at any time. New categories of marketing communications might be added to the Marketing Preferences page from time to time. You can visit this page to opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages You receive. We reserve the right to send You certain communications, such as service announcements and administrative messages and other communications relating to Our service, without offering you the opportunity to opt out of receiving them. You may amend Your Information by visiting <http://www.babytv.com/MyAccount.aspx>.
-
-Back to top
-
-**Changes to this Privacy Policy**  
-We may amend this policy from time to time. If We make any substantial changes in the way We use Your Information We will notify You by sending a notice to the primary email You have provided to Us or by posting a prominent notice on Our pages. 
-
-**Children**  
-We do not contact children under the age of 16 about special offers or for marketing purposes without a parent's permission. We do not ask a child under age 16 for more personal information, as a condition of participation, than is reasonably necessary to participate in a given activity or promotion.
-
-**Contact**  
-Any queries or comments about this Privacy Policy should be emailed to [info@babytvchannel.com](mailto:info@babytvchannel.com). You may also request a copy of the information We hold about You by emailing this address or by writing to Us at Legal Team, Unit 3.5 Shepherds Building East, Richmond Way, London W14 0DQ.
-
-Any website that You may connect to from this Site is not covered by this Privacy Policy.
-
-Back to top
-
-** Data storage**  
-  
-Account Information  
-When You register or submit Your Information on the Site, a temporary copy of that information is routinely made to prevent accidental loss of Your Information through a computer malfunction or human error. We keep Your account information active in Our user registration databases in order to provide immediate access to your personalisation preferences each time You visit the Site. If You ask Us to delete Your account, in most cases Your account will be deactivated and then deleted from Our user registration database in approximately [90] days. This delay is necessary to discourage users from engaging in fraudulent activity. Please note that any information that We have copied may remain in back-up storage for some period of time after Your deletion request. This may be the case even though no information about Your account remains in Our active user databases.
-
-Servers  
-Our computers (called "servers") that send Your web pages and advertising banners process and store an enormous amount of information every day. These computer records are called "log files." Log files are used for analysis, research, auditing, and other purposes, as described above. After this information has been used, it is stored and is inaccessible. Until the information is stored, Your Personal ID may remain in our active server log files.
-
-Back to top
+Baby Network Limited ( **Company No.** 5378355), a company registered in the UK with registered office at: 5 Elstree Gate, Elstree Way, Borehamwood, Herts WD6 1JD 
