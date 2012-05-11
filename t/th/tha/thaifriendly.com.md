@@ -1,13 +1,20 @@
-> *The following text is extracted and transformed from the thaifriendly.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209104814id_/http%3A//www.thaifriendly.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thaifriendly.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511183029id_/http%3A//www.thaifriendly.com/privacy.php) for the most accurate reproduction.*
 
-# Thai dating - หาแฟนต่างชาติ หาเพื่อนฝรั่ง ฟรีเลย
+# Thai dating | Biggest free site in Thailand หาแฟนต่างชาติ หาแฟนฝรั่ง
 
 Please read this privacy statement to ensure that we are committed to keeping secure the privacy of our members details.
 
 **What information do we collect?**  
 To be able to use this website, we may require from you some information that may be considered as personally identifiable.
 
-Your passwords are stored encrypted on our server. However other details such as your email, name, age, and any other submitted information such as your image, messages, interest relationships, chat data, and a profile of your browser is stored on our servers along with your IP address and access times. This information is stored to help improve the quality of our site and limit any damage caused by misuse as well as to improve the quality of our site and help with profile moderation. We also track site activity information such as access times, and browser profiles. This information is also used to determine shared profiles, or fraudulent activity on the site. 
+Your passwords are stored encrypted on our server. However other details such as your email, name, age, and any other submitted information such as your image, messages, interest relationships, chat data, and a profile of your browser is stored on our servers along with your IP address and access times. This information is stored to help improve the quality of our site and limit any damage caused by misuse as well as to improve the quality of our site and help with profile moderation. We also track site activity information such as access times, and browser profiles. This information is also used to determine shared profiles, or fraudulent activity on the site. In the event of a chargeback or forced refund of transactions details of activity at this site may be shared with the payment processor/credit card company to substantiate usage of this site. 
+
+**How to modify/delete information at Thaifriendly.com**  
+At any time after logging in you can go to <http://www.thaifriendly.com/editaccount.php> to edit details of your account such as email address. From this page you can also delete your profile removing all information from the site. Your information will be held only in backups for 7 days after which it will rotate out and we will no longer have your information.  
+If you have forgotton your password you can reset it at <http://www.thaifriendly.com/forgotpassword.php>, alternatively you can email us (email in footer of page) and we will manually remove your profile.
+
+**How can I opt out of future communications**  
+At any time after logging in you can go to <http://www.thaifriendly.com/editaccount.php> to change your email settings. You can choose to disable email notifications and mailers. If you delete your account we do not store your email address so there will not be any further contact from us.
 
 **How can we contact thaifriendly.com**  
 All emails should be directed to [support@thaifriendly.com](mailto:support@thaifriendly.com)
