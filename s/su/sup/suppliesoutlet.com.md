@@ -1,57 +1,9 @@
-> *The following text is extracted and transformed from the suppliesoutlet.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511160448id_/http%3A//www.suppliesoutlet.com/articles.asp%3Fid%3D129) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suppliesoutlet.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511174310id_/http%3A//www.suppliesoutlet.com/article-privacy-policy-a/129.htm) for the most accurate reproduction.*
 
-# Printer Supplies | Laser Toner Cartridges, Buy Compatible HP, Dell, Oki, Samsung and Xerox Printer Supplies for Less!
+# Laser toner, inkjet cartridges at outlet prices. Brother, Canon, Epson, Lexmark, Dell, Xerox, HP & more printer supplies - SuppliesOutlet.com
 
-  
-[](http://www.suppliesoutlet.com/Brother_Laser_Toner_s/1.htm)  
-[Brother Laser Toner](http://www.suppliesoutlet.com/Brother_Laser_Toner_s/1.htm)  
-[Brother Inkjet](http://www.suppliesoutlet.com/Brother_Inkjet_Cartridges_s/14620.htm)
-
-[](http://www.suppliesoutlet.com/Canon_Laser_Toner_s/2.htm)  
-[Canon Laser Toner](http://www.suppliesoutlet.com/Canon_Laser_Toner_s/2.htm)  
-[Canon Inkjet](http://www.suppliesoutlet.com/category_s/14621.htm)
-
-[](http://www.suppliesoutlet.com/Dell_Laser_Toner_s/3.htm)  
-[Dell Laser Toner](http://www.suppliesoutlet.com/Dell_Laser_Toner_s/3.htm)  
-[Dell Inkjet ](http://www.suppliesoutlet.com/category_s/14622.htm)
-
-[](http://www.suppliesoutlet.com/Epson_Inkjet_s/14623.htm)  
-[Epson Laser Toner](http://www.suppliesoutlet.com/category_s/4.htm)  
-[Epson Inkjet](http://www.suppliesoutlet.com/Epson_Inkjet_s/14623.htm)
-
-[](http://www.suppliesoutlet.com/HP_Toner_Cartridges_s/5.htm)  
-[HP Laser Toner](http://www.suppliesoutlet.com/HP_Toner_Cartridges_s/5.htm)  
-[HP Inkjets](http://www.suppliesoutlet.com/HP_Inkjet_s/14624.htm)
-
-[](http://www.suppliesoutlet.com/Lexmark_Laser_Toner_s/7.htm)  
-[Lexmark Laser Toner](http://www.suppliesoutlet.com/Lexmark_Laser_Toner_s/7.htm)  
-[Lexmark Inkjets](http://www.suppliesoutlet.com/Lexmark_Inkjet_s/14625.htm)
-
-[](http://www.suppliesoutlet.com/Konica_Minolta_Laser_Toner_s/8.htm)  
-[Konica Minolta Laser Toner](http://www.suppliesoutlet.com/Konica_Minolta_Laser_Toner_s/8.htm)
-
-[](http://www.suppliesoutlet.com/Okidata_Laser_toner_s/9.htm)  
-[Okidata Laser Toner](http://www.suppliesoutlet.com/Okidata_Laser_toner_s/9.htm)
-
-[](http://www.suppliesoutlet.com/Samsung_Laser_Toner_s/12.htm)  
-[Samsung Laser Toner](http://www.suppliesoutlet.com/Samsung_Laser_Toner_s/12.htm)
-
-[](http://www.suppliesoutlet.com/Xerox_Laser_Toner_s/14.htm)  
-[Xerox Laser Toner](http://www.suppliesoutlet.com/Xerox_Laser_Toner_s/14.htm)  
-[Xerox Solid Ink](http://www.suppliesoutlet.com/Xerox_Phaser_Ink_Sticks_s/14502.htm)
-
-[](http://www.suppliesoutlet.com/Other_Laser_Toner_s/11.htm)   
-[Other Laser Toner](http://www.suppliesoutlet.com/Other_Laser_Toner_s/11.htm)  
-[Other Inkjet](http://www.suppliesoutlet.com/Other_Inkjet_s/14626.htm)  
-[Other Supplies ](http://www.suppliesoutlet.com/category_s/14938.htm)
-
-  
-|   |  |   
 ---  
-| 
-
-* * *  
-  
+|   
 ---  
   
 | 
@@ -78,7 +30,4 @@ How To Contact Us
 Should you have any questions or concerns about these privacy policies please call us toll-free at 1-877-822-8659 or send us an e-mail,  [customerservice@SuppliesOutlet.com](mailto:customerservice@SuppliesOutlet.com)  
   
   
-  
-  |    
-  |    
-|  
+
