@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cashu.com privacy policy that was archived on 2010-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101228011340id_/https%3A//www.cashu.com/site/privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cashu.com privacy policy that was archived on 2012-05-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120511144646id_/https%3A//www.cashu.com/site/en/privacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -29,26 +29,37 @@
 <script src="https://www.cashu.com/images/js/jquery.js" type="text/javascript" charset="utf-8"></script>
 <script type="text/javascript">
 
-document.body.id='mainBody';
 
-$('#mainBody').click(
 
-	function(e) 
-	{	
-		if(document.getElementById('loginDiv').style.display == 'block' &&  ( e.target.id != 'loginDiv' && e.target.id != 'login_btn' && e.target.id != 'UsrIDTxt' && e.target.id != 'UsrIDVal' && e.target.id != 'PassTxt' && e.target.id != 'PassVal' && e.target.id != 'LognSelct' && e.target.id != 'SbmtBtn' && e.target.id != 'forgetPassLink' && e.target.id != 'FirstOpt' && e.target.id != 'SecondOpt' && e.target.id !='btnTD' && e.target.id != 'ForgtTD'))
-		{
-		 $('#loginDiv').fadeOut('slow');
-		}
+	document.body.id='mainBody';
+	
+	$('#mainBody').click(function(e){
 		
-		if(document.getElementById('langDiv').style.display == 'block')
-		{
-		 $('#langDiv').fadeOut('slow');
-		}
+		var loginDiv = $('#loginDiv') ;
+		var target = $(e.target) ;
+		var targetId = e.target.id ;
 		
+		if( loginDiv.is(':visible') && targetId != 'login_btn' && targetId != 'loginDiv' && ! target.isChildOf(loginDiv) ){
+			
+			loginDiv.fadeOut('slow');
+			
+			if ( $('#langDiv').is(':visible') )
+				$('#langDiv').fadeOut('slow');
+		}
+	}) ;
+
+jQuery.fn.isChildOf = function(parent){
+
+	var parents = $(this).parents().get();
+
+	for ( j = 0; j < parents.length; j++ ) {
+		
+		if ( $(parents[j]).attr('id') == parent.attr('id') )
+			return true;
 	}
 
-); 
-	
+	return false;
+};
 	
 	function toggle(theDiv) {
 		var elem = document.getElementById(theDiv);
@@ -86,7 +97,7 @@ $('#mainBody').click(
 <div class="cls">
 <div class="fr mart30" style="float:left">
 	<h1>
-		<a href="https://www.cashu.com/"><img title="cashU logo" src="https://images.cashu.com/images/en/logo_cashu_live.gif?733"></a>
+		<a href="https://www.cashu.com/?lang=en"><img title="cashU logo" src="https://images.cashu.com/images/en/logo_cashu_live.gif?733"></a>
 	</h1>
 </div>
 <div class="fl wid800">
@@ -106,10 +117,18 @@ $('#mainBody').click(
 			document.getElementById('forgetPassLink').href="https://www.cashu.com/CLogin/forgetPassword";
 		}
 		else{
-			document.loginDivForm.action = 'https://www.cashu.com/Merchants/loginNext';
-			document.loginDivForm.merchant_id.value = document.loginDivForm.username.value;
-			document.getElementById('forgetPassLink').href="https://www.cashu.com/Merchants/forgetPassword";
-		}	
+			if(actionURLP == 'reseller'){
+				document.loginDivForm.action = 'https://www.cashu.com/resellers/en/login/login';
+				document.loginDivForm.userNickName.value = document.loginDivForm.username.value;
+				document.loginDivForm.userPassword.value = document.loginDivForm.password.value;
+				document.getElementById('forgetPassLink').href="https://www.cashu.com/resellers/en/forgetPassword";
+			}
+			else{
+				document.loginDivForm.action = 'https://www.cashu.com/Merchants/en/login/login';
+				document.loginDivForm.merchant_id.value = document.loginDivForm.username.value;
+				document.getElementById('forgetPassLink').href="https://www.cashu.com/Merchants/en/forgetPassword";
+			}
+		}
 	}
 	
 	function actionURLSubmit(){
@@ -146,7 +165,7 @@ $('#mainBody').click(
 				  <tr>
 				    <td align="right" style="padding: 5px 0px;"><select id="LognSelct" name="accountType" onchange="setLinks2(this.value)" style="border: 1px solid rgb(127, 157, 185); height: 20px; width: 140px;">
 							    <option value="payment" id="FirstOpt">Payment Account</option>
-							    <option value="merchant" id="SecondOpt">Merchant Account</option>
+								<option value="merchant" id="SecondOpt">Merchant Account</option>
 							    </select></td>
 				  </tr>
 				  <tr>
@@ -166,39 +185,36 @@ $('#mainBody').click(
 </form>
 
 <div class="tools cls">
-	<div class="fr"><input type="button" onclick="toggle('loginDiv');return false;" value="Login" title="Login" name="login" class="grytol" style="border: 0pt none;" id="login_btn"></div>
+	<div class="fr">
+		<input type="button" onclick="toggle('loginDiv');return false;" value="Login" title="Login" name="login" class="grytol" style="border: 0pt none;" id="login_btn">
+		<input type="button" onclick="linkLang('https://www.cashu.com/business/')" value="Business" title="Business" name="Business" class="grytol" style="border: 0pt none;" id="business_btn">
+	</div>
 	<div class="fr lang_op" style="position: relative;">
-	
-	<div id="langDiv" style="position: absolute; width: 124px; right: 12px; top: 26px; z-index: 99999; display:none;">
-		<div style="background: none repeat scroll 0% 0% rgb(38, 38, 38); padding: 5px;">
-			<table style="color: rgb(204, 204, 204); font-size: 13px; direction: ltr;" class="flags" width="105" border="0" cellpadding="0" cellspacing="0">
-			<tbody>
-				<tr>
+		<div id="langDiv" style="position: absolute; width: 124px; right: 12px; top: 26px; z-index: 99999; display:none;">
+			<div style="background: none repeat scroll 0% 0% rgb(38, 38, 38); padding: 5px;">
+				<table style="color: rgb(204, 204, 204); font-size: 13px; direction: ltr;" class="flags" width="105" border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
 	<td style="padding: 0px 8px 5px;" valign="top" align="left"><a style="color: rgb(153, 153, 153);" href="?lang=fr">French</a></td>
 	</tr><tr>
 	<td style="padding: 0px 8px 5px;" valign="top" align="left"><a style="color: rgb(153, 153, 153);" href="?lang=tu">Turkish</a></td>
 	</tr><tr>
 	<td style="padding: 0px 8px 5px;" valign="top" align="left"><a style="color: rgb(153, 153, 153);" href="?lang=ar">عربي</a></td>
 	</tr>
-			</tbody>
-			</table>
+				</tbody>
+				</table>
+			</div>
+			<div style="background: url(https://images.cashu.com/images/en/lan_btm.png) no-repeat scroll 0% 0% transparent; height: 25px; width: 124px;"></div>
 		</div>
-		<div style="background: url(https://images.cashu.com/images/en/lan_btm.png) no-repeat scroll 0% 0% transparent; height: 25px; width: 124px;"></div>
-	</div>
-	
-		<a title="Choose Language" href="javascript:toggle('langDiv')" style="color: rgb(246, 176, 25); font-family: tahoma;">Choose Language</a>
+			<a title="Choose Language" href="javascript:toggle('langDiv')" style="color: rgb(246, 176, 25); font-family: tahoma;">Choose Language</a>
 	</div>
 </div>
 <div class="tabs">
                 <ul>
-                
-                   <li class="off"><a title="Accept cashU" href="https://www.cashu.com/Merchants/index?lang=en">Accept cashU</a></li>
-                   <li class="off"><a title="Sell cashU" href="https://www.cashu.com/site/reseller">Sell cashU</a></li>
-                   <li class="off"><a title="Find cashU" href="https://www.cashu.com/site/fundcashU">Find cashU</a></li>
+                   <li class="off"><a title="Find cashU" href="https://www.cashu.com/site/en/fundcashU">Find cashU</a></li>
                    <li class="off"><a title="cashU Mall" href="http://www.cashu.com/mall/en/home">cashU Mall</a></li>
-                   <li class="off"><a title="Support" href="https://www.cashu.com/site/support?lang=en">Support</a></li>
-                   <li class="last off" title="Support"><a href="https://www.cashu.com/site/fees">Fees</a></li>
-
+                   <li class="off"><a title="Support" href="https://www.cashu.com/site/en/support">Support</a></li>
+                   <li class="last off" title="cashU Store"><a href="https://www.cashu.com/cashUStore/en/home">cashU Store</a></li>
                 </ul>
 
       </div>
@@ -209,9 +225,9 @@ $('#mainBody').click(
 
 <!--haeder-->
 
- <div class="txt_sml"><a title="Home Page" href="https://www.cashu.com/en/">Home</a> <span class="orange"> » </span> Privacy Policy<br class="all"></div><br class="all"><br class="all">
-		
-		<div class="title">Privacy Policy</div><br><br><p>
+ <div class="txt_sml"><a title="Home Page" href="https://www.cashu.com/?lang=en">Home</a> <span class="orange"> » </span> Privacy Policy<br class="all"></div><br class="all"><br class="all">
+
+<div class="title">Privacy Policy</div><br><br><p>
 	<b>Introduction</b><br>
 	<br style="line-height: 3px;">
 	Our privacy policy describes the ways in which we collect, store, use and protect your personal information and it is important for you to review this privacy policy. By "personal information" we mean information that can be associated with a specific person and can be used to identify that person. We do not consider anonymised information to constitute personal information as it cannot be used to identify a specific person.<br>
@@ -301,45 +317,45 @@ $('#mainBody').click(
 	<br style="line-height: 3px;">
 	If you have questions or concerns about our collection and use of your personal information, please contact our customer support team at http://support.cashu.com/</p>
 <br><br>
-<br><br style="line-hight:12px">
-<div class="bg_sapret"></div>
+	<br><br style="line-hight:12px">
+	<div class="bg_sapret"></div>
 
-<!--footer-->
+	<!--footer-->
 
-<div class="footer">
-          <div class="cls">
-          <div class="fl wid80"> 
-			<div id="thawteseal" style="text-align:center;" title="Click to Verify - This site chose Thawte SSL for secure e-commerce and confidential communications.">
-			<div><script type="text/javascript" src="https://seal.thawte.com/getthawteseal?host_name=www.cashu.com&amp;size=M&amp;lang=en"></script></div>
-			</div>		  
-		  </div>
-          <div class="fl wid500">
-       		<div class="fl pad5"><a href="https://www.cashu.com/site/en/aboutUs" title="About cashU">About cashU</a> . <a href="https://www.cashu.com/site/en/pressCenter" title="Press Centre">Press Centre</a> . <a href="https://www.cashu.com/site/en/chooseTermOfUse" title="Terms of Use">Terms of Use</a> . <a href="https://www.cashu.com/site/en/privacyPolicy" title="Privacy Policy">Privacy Policy</a> . <a href="https://www.cashu.com/site/en/tellAFreind" title="Tell a Friend">Tell a Friend</a> . <a href="https://www.cashu.com/site/en/siteMap" title="Sitemap">Sitemap</a></div>
-                <div class="fl pad5"><img alt="" src="https://images.cashu.com/images/en/footer_cashu_live4.gif?209" title="Ukash , globalcollect , UAE Exchange"></div>
-                <br clear="all">
-                <div class="fl pad5"><p>
+	<div class="footer">
+	<div class="cls">
+	<div class="fl wid80"> 
+	<div id="thawteseal" style="text-align:center;" title="Click to Verify - This site chose Thawte SSL for secure e-commerce and confidential communications.">
+	<div><script type="text/javascript" src="https://seal.thawte.com/getthawteseal?host_name=www.cashu.com&amp;size=M&amp;lang=en"></script></div>
+	</div>		  
+	</div>
+	<div class="fl wid500">
+	<div class="fl pad5"><a href="https://www.cashu.com/site/en/aboutUs" title="About cashU">About cashU</a> . <a href="https://www.cashu.com/site/en/pressCenter" title="Press Centre">Press Centre</a> . <a href="https://www.cashu.com/site/en/chooseTermOfUse" title="Terms of Use">Terms of Use</a> . <a href="https://www.cashu.com/site/en/privacyPolicy" title="Privacy Policy">Privacy Policy</a> . <a href="https://www.cashu.com/site/en/fees" title="Fees">Fees</a> . <a href="https://www.cashu.com/site/en/siteMap" title="Sitemap">Sitemap</a></div>
+	<div class="fl pad5"><img alt="" src="https://images.cashu.com/images/en/footer_cashu_live4.jpg?301" title="Ukash , globalcollect , UAE Exchange, Bee, Fawry, CashUnited"></div>
+	<br clear="all">
+	<div class="fl pad5"><p>
 	Version 5.3.1, Copyright 2002-2010 | cashU is a member of&nbsp;<a href="http://www.jabbar.com/" target="_blank" title="Jabbar Internet Group">Jabbar Internet Group</a></p>
 </div>
-          
-          
-          </div>
-          <div class="fl bg_follow">
-          <table cellspacing="0" cellpadding="0" width="300">
-  <tbody>
-  <tr>
-    <td valign="middle" class="pad10_8">Follow cashU Updates</td>
-    <td valign="middle" class="padt5"><a href="http://www.facebook.com/cashU.page" title="facebook" target="_blank"><img height="37" width="36" title="facebook" src="https://images.cashu.com/images/en/footer_cashu_live1.gif?412"></a></td>
-    <td valign="middle" class="padt5"><a href="http://www.twitter.com/cashU" title="twitter" target="_blank"><img height="37" width="36" title="twitter" src="https://images.cashu.com/images/en/footer_cashu_live2.gif?968"></a></td>
-    <td valign="middle" class="padt5"><a href="http://www.youtube.com/CashUMarketing" title="Youtube" target="_blank"><img height="37" width="36" title="Youtube" src="https://images.cashu.com/images/en/footer_cashu_live3.gif?487"></a></td>
- </tr>
-</tbody>
-</table>
-          </div>
-          </div>
-  </div>
- 
- 
-      <script type="text/javascript">
+
+
+	</div>
+	<div class="fl bg_follow">
+	<table cellspacing="0" cellpadding="0" width="300">
+	<tbody>
+	<tr>
+	<td valign="middle" class="pad10_8">Follow cashU Updates</td>
+	<td valign="middle" class="padt5"><a href="http://www.facebook.com/cashU.page" title="facebook" target="_blank"><img height="37" width="36" title="facebook" src="https://images.cashu.com/images/en/footer_cashu_live1.gif?412"></a></td>
+	<td valign="middle" class="padt5"><a href="http://www.twitter.com/cashU" title="twitter" target="_blank"><img height="37" width="36" title="twitter" src="https://images.cashu.com/images/en/footer_cashu_live2.gif?968"></a></td>
+	<td valign="middle" class="padt5"><a href="http://www.youtube.com/CashUMarketing" title="Youtube" target="_blank"><img height="37" width="36" title="Youtube" src="https://images.cashu.com/images/en/footer_cashu_live3.gif?487"></a></td>
+	</tr>
+	</tbody>
+	</table>
+	</div>
+	</div>
+	</div>
+
+
+	<script type="text/javascript">
 	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
@@ -350,12 +366,12 @@ $('#mainBody').click(
 	pageTracker._trackPageview();
 	} catch(err) {}
 	</script>
-     
-     </div>
-     
-     <!--footer--> 
-     
-     
+
+	</div>
+
+	<!--footer--> 
+
+	
 
 
 
