@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tekkenzaibatsu.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101162752id_/http%3A//www.tekkenzaibatsu.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tekkenzaibatsu.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511191918id_/http%3A//www.tekkenzaibatsu.com/info/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Tekken Zaibatsu
 
-[](http://store.namcobandaigames.com/store/namcous/pd/productID.236817100/OfferID.10000896809/ThemeID.24355600?resid=TgPEzgoBAlkAAF3qaqsAAAAS&rests=1317921500973)
+[](http://tekken.namco.com/)
 
 This site is not directed to children under the age of 13. We prohibit forum registration by and will not knowingly collect personally identifiable information from anyone under 13. No information should be submitted to or posted by guests under 13 years of age, this includes submissions of publically viewed content such as public forum posts or game FAQs.
 
