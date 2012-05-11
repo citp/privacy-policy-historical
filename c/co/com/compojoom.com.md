@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the compojoom.com privacy policy that was archived on 2011-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111013235803id_/http%3A//compojoom.com/privacy-policy-impressum/siteinfo/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compojoom.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511233419id_/https%3A//compojoom.com/privacy-policy-imprint) for the most accurate reproduction.*
 
-# Privacy Policy / Impressum - Siteinfo - Compojoom - components for Joomla
+# Privacy Policy/Imprint
 
 Our postal address is:
 
@@ -15,7 +15,7 @@ Our legal address is:
 >  Sophienstr. 46, 76133 Karlsruhe  
 >  Germany**
 
-We can be reached via e-mail [here](http://compojoom.com/contact-us/daniel-dimitrov "e-mail form").[](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'mailto:';%20var%20suffix%20=%20'';%20var%20attribs%20=%20'';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy67558%20=%20'privacy'%20+%20'@';%20addy67558%20=%20addy67558%20+%20'opensourcematters'%20+%20'.'%20+%20'org';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20addy67558%20+%20suffix%20+%20'\\''%20+%20attribs%20+%20'%3E'%20\);%20document.write\(%20addy67558%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E%20%3C/script%3E%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)
+There are  several ways to contact us electronically. For more information please go [here](https://compojoom.com/about/contact-us "e-mail form"). 
 
 We are committed to maintaining your privacy as you use these sites. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage.
 
@@ -44,6 +44,29 @@ We may use user e-mail addresses to find statistical data about them, but we nev
 
 Your information may be disclosed when we are legally required to by a EU court order, to verify or enforce compliance with the policies governing our website and applicable laws, or to protect against misuse or unauthorized use of our website
 
+## Notice of privacy protection for the use of Facebook plugins (Like-Button)
+
+We have embedded plugins of the social network Facebook, 1601 South California Avenue, Palo Alto, CA 94304, USA, into our website. You can recognize these plugins by the Facebook logo or the “Like-Button” on our website. Here you will find a list of the Facebook plugins: <http://developers.facebook.com/docs/plugins/>.   
+When visiting a page of our website that contains a Facebook plugin, a direct connection between your browser and a Facebook server is established. By this connection, the plugin provides Facebook with the information that you have accessed a certain page of our website with your IP address. When clicking the Facebook Like-Button while you are logged in to your Facebook account, you can link content of our site to your Facebook profile. Facebook can then assign your Facebook account with the visit to our website. We point out that we as a provider of this website do not know details about the data submitted to Facebook or the use of that data at Facebook. Here you can find further information about Facebook‘s policy of privacy protection: <http://de-de.facebook.com/policy.php>. If you don‘t want Facebook to be able to assign your visit of our website to your Facebook account, please log out of your Facebook account.
+
+## Notice of privacy protection for the use of Google Analytics
+
+This website uses Google Analytics, an Internet analysis service of Google Inc. (“Google”). Google Analytics applies so-called cookies, i.e., text files that are stored on your computer and are used to analyse your usage behaviour on the corresponding website. The usage information (including your IP address) stored in the cookie will be sent and transmitted to a Google server in the United States of America. Google will use this information to analyse your behaviour and create a report of your web activity for the website provider. With this report the website provider can offer other services which seem to be interesting for the user. Google may share such information with third parties, as far as this is statutory required or in order to process the information by affiliafted companies on behalf of Google. By no means Google will link your IP address with other data of Google Inc. It is up to you to avoid the installation of cookies through your browser settings. In that case we must point out that you may not be able to properly use the provided features and services of the website. By using services of this website you agree with the aforementioned way and purpose of processing your collected personal data.
+
+## Notice of privacy protection for the use of Google +1
+
+Registration and transmission of information:  
+With the Google +1 button you can publish information worldwide. Via the Google +1 button you and other users receive personalized information from Google and our partners. Google saves information that you provided a recommendation (i.e., +1) for the content, as well as information about the website you were visiting when clicking the +1 button. Your +1 recommendations may appear to others as a hint together with your profile name and photo in Google services like, e.g., Google search or your Google Profile. Furthermore, your +1 recommendations may appear elsewhere in the Internet on other websites or as advertisements. Google records your +1 activity to improve the Google services for you and other users. To be able to use of the Google +1 button you will need a worldwide visible, public Google Profile which at least contains the name you chose for the profile. This name will be used across all Google services. Sometimes this name may replace the name you generally use when sharing information under your Google account. Your Google Profile identity might be visible for users who know your email address or have other identifying information about you. Use of collected information:  
+In addition to the above explained uses of your provided information we act in accordance with the Google privacy protection policy. Google may share aggregated statistics about +1 activity with other users and partners, like publishers, advertisers or connected websites.
+
+## **Privacy Policy for the use of Twitter**
+
+On our site Twitter are functions of the service involved. These functions are available through the Twitter, Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA. Through the use of Twitter and function of "re-tweet" the web pages you visit are linked to your Twitter account and, where other known users. This data is also transmitted to Twitter.
+
+We point out that we as providers of the sites have no knowledge of the contents of the transmitted data and use them through Twitter. For more information, please see the privacy statement of Twitter at <http://twitter.com/privacy>.
+
+Your privacy preferences at Twitter, you can change the account settings under <http://twitter.com/account/settings> ändern.
+
 ## Children's Privacy
 
 Protecting the privacy of the very young is especially important. None of of our websites are structured specifically to attract anyone under 13. However, we recognize that there are Joomla! users and developers under age 13 who may register at one or more of our sites. The privacy policies that apply to all site users also apply to those users under 13.
@@ -54,7 +77,7 @@ From time to time, we may use user information for new, unanticipated uses not p
 
 ## Questions or comments
 
-If you have questions or comments about this policy or if you feel that this site is not following its stated information policy please [contact us](http://compojoom.com/index.php/contact-us.html) .
+If you have questions or comments about this policy or if you feel that this site is not following its stated information policy please [contact us](https://compojoom.com/about/contact-us) .
 
 **  
 Sophienstr. 46**
