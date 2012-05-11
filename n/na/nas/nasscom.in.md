@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nasscom.in privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112021935id_/http%3A//www.nasscom.in/Privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nasscom.in privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511151903id_/http%3A//www.nasscom.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | NASSCOM
 
