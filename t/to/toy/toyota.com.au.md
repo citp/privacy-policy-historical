@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toyota.com.au privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227195122id_/http%3A//www.toyota.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toyota.com.au privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511024146id_/http%3A//www.toyota.com.au/privacy%3FWT.ac%3DToyota_GlobalFooter_PrivacyPolicy) for the most accurate reproduction.*
 
 # Toyota Australia: Privacy Policy
 
