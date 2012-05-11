@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the videogamecentral.com privacy policy that was archived on 2011-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110706090639id_/http%3A//www.videogamecentral.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videogamecentral.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511203900id_/http%3A//www.videogamecentral.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+**If you have questions about an order you have placed with us,[Click Here and Sign In](https://store-3b521.mybigcommerce.com/login.php) to your account then go to "view messages" to send an email and we will be able to assist you quickly.**
 
 VideoGameCentral.com is committed to respecting the privacy and security of your personal information. We will never compromise either one. We truly value and appreciate each and every customer.
 
