@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dottech.org privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101130415id_/http%3A//dottech.org/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dottech.org privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511211501id_/http%3A//dottech.org/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | dotTech
 
