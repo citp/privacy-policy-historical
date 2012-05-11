@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zebra.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219154859id_/http%3A//www.zebra.com/id/zebra/na/en/index/about_zebra/our_company/compliance/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zebra.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511091416id_/http%3A//www.zebra.com/id/zebra/na/en/index/about_zebra/our_company/compliance/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -78,13 +78,10 @@ If you have any questions about this Privacy Statement or our privacy practices,
 **Zebra Technologies Corporation  
 International Headquarters **  
 Attn: Legal Department  
-475 Half Day Road, Ste 5000  
+475 Half Day Road, Ste 500  
 Lincolnshire, IL 60069 USA  
 Phone: **+1 847 634 6700**  
 Toll-Free: **+1 800 423 0422**  
-Fax: **+1 847 913 8766**  
+Fax: **+1 847 913 8766**
 
-
-Date Last Modified: 2 June 2011
-
-| 
+Date Last Modified: 20 December 2011 | 
