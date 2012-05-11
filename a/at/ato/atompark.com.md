@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the atompark.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207210448id_/http%3A//www.atompark.com/pp.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atompark.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511083837id_/http%3A//www.atompark.com/customerprivacy) for the most accurate reproduction.*
 
 # AtomPark Software Inc. Privacy policy
 
-## PRIVACY-RELATED INQUIRIES AND COMPLAINTS
+PRIVACY-RELATED INQUIRIES AND COMPLAINTS
 
 AtomPark Software Inc. has created this Privacy Policy statement in order to disclose our information gathering and dissemination practices for this Website: [http://www.atompark.com](http://www.atompark.com/)
 
@@ -12,24 +12,26 @@ Upon reading this Privacy Policy statement, you will know:
 
   1. What personally identifiable information of yours or third party personally identifiable information is collected from you through the Website, as such term is defined below.
 
-  2. The organisation collecting the information. 
+  2. The organisation collecting the information.
 
-  3. How the information is used. 
+  3. How the information is used.
 
-  4. With whom the information may be shared. 
+  4. With whom the information may be shared.
 
-  5. What choices are available to you regarding collection, use and distribution of the information. 
+  5. What choices are available to you regarding collection, use and distribution of the information.
 
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under AtomPark Software Inc.'s control. 
+  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under AtomPark Software Inc.'s control.
 
-  7. How you can access and correct any inaccuracies in the information collected about you. 
+  7. How you can access and correct any inaccuracies in the information collected about you.
 
 
 
 
 Questions regarding this statement should be directed to the AtomPark Software Inc. Website coordinator by emailing: medik@atompark.com or writing to us at the following address: 901 N. Pitt str, Suite 325, Alexandria, VA 22314, USA.
 
-If you feel that AtomPark Software Inc. has not complied with the policies outlined in this privacy statement please submit a report at: medik@atompark.com 
+If you feel that AtomPark Software Inc. has not complied with the policies outlined in this privacy statement please submit a report at: medik@atompark.com
+
+PART A. INTRODUCTION
 
 ### The Company Policy
 
@@ -41,7 +43,7 @@ Personal information on this Website is collected by AtomPark Software Inc. and 
 
 ### Changes in Privacy Policy
 
-AtomPark Software Inc. wants you to be always aware of what personal information we collect, how we use it and under what circumstances we disclose it. All personal information, as further described in Part B, that we collect and maintain will be subject to the version of the Privacy Policy in effect at the time of such collection. AtomPark Software Inc. reserves the right to change the Privacy Policy from time to time at its sole discretion, and will prominently post any material changes on the home page of the Website. You will be given the opportunity to opt-out. If as the result of such changes, you want to alter the ways in which AtomPark Software Inc. is allowed to use your personal information, you can do so by following the procedure described in Section Creating and Updating Your Personal Account and Preferences. You will be deemed to have been made aware of, and will be subject to, the changes to the Privacy Policy by your continued use of the Website after such notice has been posted for thirty (30) days with the following exception: if at the time you provide personal information to AtomPark Software Inc. you limit how such information will be used to communicate with you by AtomPark Software Inc. or by third parties, AtomPark Software Inc. will not change your preference in this regard without your express consent. 
+AtomPark Software Inc. wants you to be always aware of what personal information we collect, how we use it and under what circumstances we disclose it. All personal information, as further described in Part B, that we collect and maintain will be subject to the version of the Privacy Policy in effect at the time of such collection. AtomPark Software Inc. reserves the right to change the Privacy Policy from time to time at its sole discretion, and will prominently post any material changes on the home page of the Website. You will be given the opportunity to opt-out. If as the result of such changes, you want to alter the ways in which AtomPark Software Inc. is allowed to use your personal information, you can do so by following the procedure described in Section Creating and Updating Your Personal Account and Preferences. You will be deemed to have been made aware of, and will be subject to, the changes to the Privacy Policy by your continued use of the Website after such notice has been posted for thirty (30) days with the following exception: if at the time you provide personal information to AtomPark Software Inc. you limit how such information will be used to communicate with you by AtomPark Software Inc. or by third parties, AtomPark Software Inc. will not change your preference in this regard without your express consent.
 
 ### Third Party Websites
 
@@ -54,13 +56,13 @@ This is a United States website and is subject to United States law. AtomPark So
 Personally identifiable information collected in the European Union is subject to the EU Directives concerning personal data, privacy and electronic communications, including but not limited to Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector and Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data and the future legislation to occur.  
 AtomPark Software Inc. may be required by law enforcement or judicial authorities to provide personally identifiable information to appropriate governmental authorities. If requested by law enforcement or judicial authorities, we will provide this information upon receipt of the appropriate documentation. AtomPark Software Inc. may also provide information to law enforcement to protect its property and the health and safety of individuals as permitted by statute.
 
-## **PART B.** COLLECTED INFORMATION
+PART B. COLLECTED INFORMATION
 
 ### Browsing
 
-This Website does not collect personally identifiable information from your computer when you browse the Website and request pages from our servers. This means that, unless you voluntarily and knowingly provide us with personally identifiable information, we will not know your name, your e-mail address, or any other personally identifiable information. When you request a page from our Website, our servers log the information provided in the HTTP request header, JavaScript or similar technical tools, including the IP number, the time of the request, the URL of your request and other information. We collect such information in order to make our Website function correctly and provide you the functionality that you see on this Website, as our servers use this information to deliver to you the pages on this Website. We also use this information to better understand how visitors use our Website and how we can better tune our Website, its contents and functionality to meet your needs. 
+This Website does not collect personally identifiable information from your computer when you browse the Website and request pages from our servers. This means that, unless you voluntarily and knowingly provide us with personally identifiable information, we will not know your name, your e-mail address, or any other personally identifiable information. When you request a page from our Website, our servers log the information provided in the HTTP request header, JavaScript or similar technical tools, including the IP number, the time of the request, the URL of your request and other information. We collect such information in order to make our Website function correctly and provide you the functionality that you see on this Website, as our servers use this information to deliver to you the pages on this Website. We also use this information to better understand how visitors use our Website and how we can better tune our Website, its contents and functionality to meet your needs.
 
-The Website does not process any personally identifiable data and does not combine the processing data with any personal information. If you do not wish the information collected as stated above, by the Website, to be processed by us, you should notify your request by sending an e-mail to: medik@atompark.com 
+The Website does not process any personally identifiable data and does not combine the processing data with any personal information. If you do not wish the information collected as stated above, by the Website, to be processed by us, you should notify your request by sending an e-mail to: medik@atompark.com
 
 ### Information Collection
 
@@ -74,7 +76,7 @@ When you use the Website, AtomPark Software Inc. or third parties authorised by 
 We use such data to facilitate and track your use of the Website and its services. AtomPark Software Inc. also uses such environmental variables to measure traffic patterns on the Website.   
 When you submit personal information to AtomPark Software Inc. through this Website, you understand and agree that this information may be transferred across national boundaries and may be stored and processed in any of the countries in which AtomPark Software Inc. and its affiliates and subsidiaries maintain offices. You also acknowledge that in certain countries or with respect to certain activities, the collection, transferring, storage, and processing of your information may be undertaken by trusted vendors of AtomPark Software Inc.
 
-Such vendors are bound by contract not to use your personal information for their own purposes or provide it to any third parties. 
+Such vendors are bound by contract not to use your personal information for their own purposes or provide it to any third parties.
 
 AtomPark Software Inc. has established relationships with various service providers whose services are available to you from this Website or from web sites that are linked to this Website. Typically, these providers offer services that AtomPark Software Inc. customers might find useful, such as those that can be used in conjunction with AtomPark Software Inc. services and products. In order to use those services, you may be required to provide personal information to the providers. Unless expressly provided to the contrary, personal information that you provide while you are visiting a provider's web site will be subject to the privacy policy posted on such site, and personal information that you provide while on this Website in conjunction with a provider's service will be subject to this Privacy Policy. You should be aware that our agreements with these service providers often provide that they will share with AtomPark Software Inc. personal information collected from you. In such instances, AtomPark Software Inc. may use this information in a manner consistent with this Privacy Policy.  
 
@@ -89,17 +91,17 @@ You may access and correct your personal information and privacy preferences (su
 
 AtomPark Software Inc. operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary, and only authorised individuals have access to the information provided by our users.
 
-AtomPark Software Inc. takes steps to ensure that your information is treated securely and in accordance with our terms of service, end User License Agreement and this Privacy Policy. 
+AtomPark Software Inc. takes steps to ensure that your information is treated securely and in accordance with our terms of service, end User License Agreement and this Privacy Policy.
 
 No data transmission over the Internet can be guaranteed secure. As a result, while we strive to protect your personal information, we cannot guarantee the security of any information you transmit to us or from our online products or services, and you use these services at your own risk. We recommend that you do not divulge your password to anyone. AtomPark Software Inc. will never ask you for your password in an unsolicited phone call or in an unsolicited email. You the consumer are ultimately responsible for the security of your login name and password.
 
-We treat the information you provide to us as confidential information. It is, accordingly, subject to our company's security procedures and corporate policies regarding protection and use of confidential information. After personally identifiable information reaches AtomPark Software Inc. it is stored on a server with physical and electronic security features as customary in the industry, including utilisation of login/password procedures and electronic firewalls designed to block unauthorised access from outside of AtomPark Software Inc. 
+We treat the information you provide to us as confidential information. It is, accordingly, subject to our company's security procedures and corporate policies regarding protection and use of confidential information. After personally identifiable information reaches AtomPark Software Inc. it is stored on a server with physical and electronic security features as customary in the industry, including utilisation of login/password procedures and electronic firewalls designed to block unauthorised access from outside of AtomPark Software Inc.
 
 All AtomPark Software Inc. employees are aware of our privacy and security policies. Your information is only accessible to those employees who need it in order to perform their jobs.
 
 Because laws applicable to personal information vary by country, our offices or other business operations may put in place additional measures that vary depending on the applicable legal requirements. Information collected on the sites covered by this Privacy Policy is processed and stored in the United States and the European Union and also in other countries where AtomPark Software Inc. and its service providers conduct business.
 
-## PART C. USE AND DISCLOSURE OF INFORMATION
+PART C. USE AND DISCLOSURE OF INFORMATION
 
 ### How Your Personal Information Is Used
 
@@ -113,7 +115,7 @@ Except in the particular circumstances described in this Privacy Policy, AtomPar
 
 ### Public Announcements
 
-With you prior consent, AtomPark Software Inc. may identify you to the public as its customer and describe in a customer case study the services and solutions delivered by AtomPark Software Inc. to you. AtomPark Software Inc. may also issue one or more press releases, containing an announcement relating to of the execution and delivery of the agreements between you and AtomPark Software Inc. and/or the implementation of the product by you. Nothing contained in this section shall be construed as an obligation by you to disclose any of your proprietary or confidential information to any third party. In addition, you may opt-out from this Section by writing an opt-out request to AtomPark Software Inc. at: medik@atompark.com 
+With you prior consent, AtomPark Software Inc. may identify you to the public as its customer and describe in a customer case study the services and solutions delivered by AtomPark Software Inc. to you. AtomPark Software Inc. may also issue one or more press releases, containing an announcement relating to of the execution and delivery of the agreements between you and AtomPark Software Inc. and/or the implementation of the product by you. Nothing contained in this section shall be construed as an obligation by you to disclose any of your proprietary or confidential information to any third party. In addition, you may opt-out from this Section by writing an opt-out request to AtomPark Software Inc. at: medik@atompark.com
 
 ### Disclosure of Information to Third Parties
 
@@ -123,24 +125,24 @@ AtomPark Software Inc. may disclose your personally identifiable information if 
 
 In the event that all or substantially all of AtomPark Software Inc.'s stock and/or assets are transferred or sold to another entity, AtomPark Software Inc. may transfer personally identifiable information to the acquiring entity. If, as a result of such a business transition, your personally identifiable information will be used in a materially different manner, you will be given choice consistent with our policy regarding notification of changes.
 
-### Choices Available to You 
+### Choices Available to You
 
 You can always choose whether or not to disclose personally identifiable information and that choice will not prevent you from using the AtomPark Software Inc. Website. Please note, however, if you should choose to withhold requested information, we may not be able to provide you with some of the services dependent upon the collection of this information.  
 You can choose at anytime to opt out of receiving emails from AtomPark Software Inc. or from having your personally identifiable information shared with selected companies. If you want to opt out, you can do so by editing your preferences with respect to email or the sharing of information. If you elect to "opt out" we will not, as applicable, share your personal information with third parties or send you emails. However, we may continue to use your personal information for internal purposes, to enhance your user experience or as necessary to administer the Website or comply with applicable law.
 
-We reserve the right to send a one-time registration confirmation email, and infrequent service alert messages to users to inform them of specific changes that may impact their ability to use a service they have previously signed up for, regardless of email contact opt-in status. We also reserve the right to contact you if compelled to do so as part of a legal proceeding or if there has been a violation of our End User License Agreement. 
+We reserve the right to send a one-time registration confirmation email, and infrequent service alert messages to users to inform them of specific changes that may impact their ability to use a service they have previously signed up for, regardless of email contact opt-in status. We also reserve the right to contact you if compelled to do so as part of a legal proceeding or if there has been a violation of our End User License Agreement.
 
-AtomPark Software Inc. is retaining these rights because in limited cases we feel that we may need the right to contact you as a matter of law or regarding matters which will be important to you. These rights do not allow us to contact you to market a new or existing service if you have asked us not to do so, and issuance of these types of communications are rare. 
+AtomPark Software Inc. is retaining these rights because in limited cases we feel that we may need the right to contact you as a matter of law or regarding matters which will be important to you. These rights do not allow us to contact you to market a new or existing service if you have asked us not to do so, and issuance of these types of communications are rare.
 
 ### Cookies
 
 Our Website uses "cookie" technology. "Cookies" are short pieces of data generated by a web server that a website stores on a user's computer. Certain pages on our Website may require the use of a cookie for purposes of keeping information you enter on multiple pages together. Cookies also enable us to customize our Website and offerings to your needs and provide you with a better online experience with us. In addition, cookies are used to:
 
-  * allow registered users to sign in without typing their sign in name each time; 
+  * allow registered users to sign in without typing their sign in name each time;
 
-  * measure usage of various pages on our Website to help us make our information; more pertinent to your needs and easy for you to access; 
+  * measure usage of various pages on our Website to help us make our information; more pertinent to your needs and easy for you to access;
 
-  * and provide functionality such as online orders, AtomPark Software Inc.'s services and other functionality that we believe would be of interest and value to you. 
+  * and provide functionality such as online orders, AtomPark Software Inc.'s services and other functionality that we believe would be of interest and value to you.
 
 
 
@@ -151,8 +153,8 @@ In addition, the service providers we use to serve and host our advertisements, 
 
 You may set your browser to block cookies (consult the instructions for your particular browser on how to do this), although doing so will adversely affect your ability to perform certain transactions, use certain functionality and access certain content on our Website.
 
-## PART D. PRIVACY-RELATED INQUIRIES AND COMPLAINTS
+PART D. PRIVACY-RELATED INQUIRIES AND COMPLAINTS
 
 AtomPark Software Inc. takes and addresses its users' privacy concerns with utmost respect and attention. If you believe that there was an instance of non-compliance with this Online Privacy Policy with regard to your personal information or you have other related inquiries or concerns, you may write or contact AtomPark Software Inc. at: medik@atompark.com
 
-In your message, please describe in as much detail as possible the nature of your inquiry or the ways in which you believe that the AtomPark Software Inc. Online Privacy Policy has not been complied with. We will investigate your inquiry or complaint promptly. 
+In your message, please describe in as much detail as possible the nature of your inquiry or the ways in which you believe that the AtomPark Software Inc. Online Privacy Policy has not been complied with. We will investigate your inquiry or complaint promptly.
