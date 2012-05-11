@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cnycentral.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108015657id_/http%3A//www.cnycentral.com/about/about.aspx%3Fid%3D640) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnycentral.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512010126id_/http%3A//www.cnycentral.com/about/about.aspx%3Fid%3D640) for the most accurate reproduction.*
 
 # About : CNYcentral.com
 
@@ -95,8 +95,9 @@ If you have any questions or comments about this policy or our use of personal i
 
 Barrington Interactive  
 Barrington Broadcasting Corporation  
-2500 W. Higgins Road, Suite 155  
-Hoffman Estates, IL 60169  
+650 East Algonquin Road, Suite 300  
+Schaumburg, IL 60173
+
 [Send an Email Message](mailto:contact@barringtontv.com)
 
 We will use reasonable efforts to promptly investigate any complaint you may have regarding our use of personal information.
