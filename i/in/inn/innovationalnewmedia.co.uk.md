@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the innovationalnewmedia.co.uk privacy policy that was archived on 2011-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110918162125id_/http%3A//www.innovationalnewmedia.co.uk/%3Fpage_id%3D91) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innovationalnewmedia.co.uk privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511101002id_/http%3A//www.innovationalnewmedia.co.uk/inmedia/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Innovational New Media - INMedia
 
 Innovational New Media Limited and its group of websites are committed to user’s privacy. We are registered under the Data Protection Act 1998 (number) and adhere to all rules and regulations in order to safeguard your information under these terms. If you would like to know more about the Data Protection Act please follow this link: [http://www.informationcommissioner.gov.uk](http://www.informationcommissioner.gov.uk/)
 
-If you feel we are not abiding by our privacy policy, or have any questions regarding the use of your data, then please email us at [data@innovationalnewmedia.co.uk](mailto:data@innovationalnewmedia.co.uk)
+If you feel we are not abiding by our [privacy policy](http://www.innovationalnewmedia.co.uk/inmedia/privacy-policy/ "privacy policy"), or have any questions regarding the use of your data, then please email us at [data@innovationalnewmedia.co.uk](mailto:data@innovationalnewmedia.co.uk)
 
 **Personal Information**   
 Innovational New Media collects basic demographic data (Name, Region, Age, Gender, Email Address) from you as part of the registration process; we may also collect lifestyle information (including interests & purchasing habits) that are derived from your on site activity. This information is collected to help us improve the service we provide, and to help improve client relationships through targeting third party messages about products and/or services.
