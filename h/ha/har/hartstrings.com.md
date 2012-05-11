@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the hartstrings.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229164906id_/http%3A//www.hartstrings.com/index.cfm/fuseaction/content.page/nodeID/cc8df3e9-fcdc-4796-84eb-ad9278b2e32c) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hartstrings.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511101606id_/http%3A//www.hartstrings.com/privacy.aspx) for the most accurate reproduction.*
 
-# Hartstrings.com > Privacy Policy
-
-**Privacy Policy**
+# Privacy Policy | Hartstrings
 
 Your privacy on the internet is important to us at Hartstrings.com. Our online privacy policy describes the types of information we gather online and how we use it. Please read this information carefully. If the online information practices at Hartstrings.com change we will let you know by posting the Privacy Policy adjustments on our Website.
 
@@ -22,12 +20,14 @@ Children and Privacy:
 
 Hartstrings.com is concerned about the safety of children when they use the internet and understands that children may not understand all the provisions of our Privacy Policy or make informed decisions about the choices that are made available to adult users of the Hartstrings.com website. In accordance with the Children’s Online Privacy Protection Act of 1998, we will never knowingly request personally identifiable information from anyone under the age of 13 without prior verifiable parental consent.
 
-Hartstrings customer service department is here to help you with any of your questions or concerns.  We are available Monday – Friday 8:30 am – 5 pm EST 
+How to Contact Us:
+
+Hartstrings customer service department is here to help you with any of your questions or concerns.  We are available Monday – Friday 8:30 am – 5 pm EST
 
 Feel free to contact us via any of the information listed below:
 
-©       PHONE:  Toll Free Number: 888-535-0030
+  * **PHONE** :  Toll Free Number: 888-535-0030
+  * **EMAIL** :  [csserv@hartstrings.com](mailto:csserv@hartstrings.com "Email csserv@hartstrings.com")
+  * **MAIL:**   Hartstrings Customer Service  270 East Conestoga Road   Strafford, PA  19087
 
-©       EMAIL:  [csserv@hartstrings.com](mailto:csserv@hartstrings.com "Email csserv@hartstrings.com")
 
-©       MAIL:  Hartstrings Customer Service  270 East Conestoga Road   Strafford, PA  19087
