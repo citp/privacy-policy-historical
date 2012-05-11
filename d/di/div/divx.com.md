@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the divx.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107163958id_/http%3A//www.divx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divx.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511174714id_/http%3A//www.divx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DivX.com
 
-DivX, LLC (“ **Company** ”) is committed to protecting your privacy.  We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our websites, located at [www.divx.com](http://www.divx.com/) and [www.divxtv.com](http://www.divxtv.com/), (collectively, “ **Site** ”) and Services (as defined in the Terms of Use).  Capitalized terms not defined in this Privacy Policy have the meaning given in our Terms of Use located at <http://www.divx.com/en/terms-of-use>.
+DivX, LLC (“ **Company** ”) is committed to protecting your privacy.  We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our websites, located at [www.divx.com](https://web.archive.org/) and [www.divxtv.com](http://www.divxtv.com/), (collectively, “ **Site** ”) and Services (as defined in the Terms of Use).  Capitalized terms not defined in this Privacy Policy have the meaning given in our Terms of Use located at [http://www.divx.com/en/terms-of-use](https://web.archive.org/en/terms-of-use).
 
 **1\. User Consent.** By submitting Personal Data through our Site or Services, you agree to the terms of this Privacy Policy and you expressly consent to the processing of your Personal Data in accordance with this Privacy Policy.
 
