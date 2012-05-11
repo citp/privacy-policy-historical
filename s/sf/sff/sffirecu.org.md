@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sffirecu.org privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231203853id_/http%3A//www.sffirecu.org/about-us/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sffirecu.org privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511021909id_/http%3A//www.sffirecu.org/about-us/privacy-and-security) for the most accurate reproduction.*
 
 # SF Fire Credit Union : Your Privacy Rights
 
