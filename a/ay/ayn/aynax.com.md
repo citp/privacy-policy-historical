@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aynax.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228154621id_/http%3A//www.aynax.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aynax.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511103823id_/http%3A//www.aynax.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy :: Aynax.com
 
