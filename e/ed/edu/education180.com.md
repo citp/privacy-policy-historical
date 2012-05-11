@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the education180.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114150707id_/http%3A//education180.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education180.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511115812id_/http%3A//www.education180.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Education180 : Colleges, Universities & Degrees
 
@@ -8,7 +8,7 @@ By visiting Education180.com you are accepting the terms described in our privac
 
 ### What personal information about customers does Education180.com gather?
 
-Information we gather on our site helps us enhance the experience that future visitors may have on our site. Here are the types of information we gather:
+Information we gather on our site helps us enhance the experience that future visitors may have on our site. Here are the types of information we gather: 
 
   * #### Information You Give Us
 
@@ -22,14 +22,14 @@ We receive and store certain types of information when you interact with our sit
 
   * #### Information from Other Sources
 
-We do receive information from other sources and append this to the information that is sent to each school. Examples of this information are the following: Source of where you initially clicked on an advertisement, what ad you clicked on, what you may have typed into a search engine, etc. This information helps us better optimize your user experience based on your information needs.
+We do receive information from other sources and append this to the information that is sent to each school. Examples of this information are the following: Source of where you initially clicked on an advertisement, what ad you clicked on, what you may have typed into a search engine, etc. This information helps us better optimize your user experience based on your information needs. 
 
 
 
 
 ### Does Education180.com share the information we receive?
 
-Information about our customers is very important to us. We do reserve the right to sell the information to other parties. If you wish to be removed from being contacted by our partners, simply email us at contactus [at] Education180 [dot] com. 
+Information about our customers is very important to us. We do reserve the right to sell the information to other parties. If you wish to be removed from being contacted by our partners, simply email us at contactus@education180.com. 
 
 Our relationships and contracts with the schools prohibit us from contacting you directly without your expressed consent. 
 
@@ -41,13 +41,13 @@ If you wish to opt out of our newsletter, you can unsubscribe at any time by goi
 
 ### What information can I access?
 
-Education180.com fully believes in transparency and accessibility. If you wish to delete your information from our database, please send a written request to contactus [at] education180 [dot] com and your request will be processed within 10 business days. 
+Education180.com fully believes in transparency and accessibility. If you wish to delete your information from our database,please send a written request to contactus@education180.com and your request will be processed within 10 business days. 
 
 If you wish to remove your contact information from a particular school, you must contact that school directly. You can also email us, and we will forward on your request to the appropriate representatives at each school. It usually takes about 10 days for all parties to comply with your request. 
 
 ### Are Children allowed to use Education180.com?
 
-All people are allowed to access and use our site. However, since we market education for adult learners, we require the person to be at least 18 years old to submit a request for information.
+All people are allowed to access and use our site. However, since we market education for adult learners, we require the person to be at least 18 years old to submit a request for information. 
 
 ### How safe is my information?
 
@@ -55,12 +55,12 @@ At Education180.com we currently do not collect information such as social secur
 
 ### If I have a problem with my data, how can I resolve it?
 
-We are committed to helping you resolve your dilemma as quickly as possible. Please contact us through email at contactus [at] education180 [dot] com. This email box is checked during business working days only. We are committed to resolving any issues in a timely manner. 
+We are committed to helping you resolve your dilemma as quickly as possible. Please contact us through email at contactus@education180.com. This email box is checked during business working days only. We are committed to resolving any issues in a timely manner. 
 
 ### Conditions of Use
 
-By using and accessing Education180.com you are agreeing to the Online Privacy Policy set forth. As our business changes and grows, we may change the privacy policy. Any changes will be posted on our site. Please check back often for any updates.
+By using and accessing Education180.com you are agreeing to the Online Privacy Policy set forth. As our business changes and grows, we may change the privacy policy. Any changes will be posted on our site. Please check back often for any updates. 
 
-Sincerely,
+Sincerely, 
 
 ### The Education180.com Team
