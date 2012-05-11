@@ -1,41 +1,66 @@
-> *The following text is extracted and transformed from the partnerweekly.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231154238id_/http%3A//partnerweekly.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partnerweekly.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511084915id_/http%3A//www.partnerweekly.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - PartnerWeekly
+# Privacy Policy | PartnerWeekly
 
-### Commitment to privacy.
+## Privacy Policy
 
-PartnerWeekly.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.partnerweekly.com](http://www.partnerweekly.com/ "www.partnerweekly.com")
+PRIVACY COMMITMENT  
+We are committed to protecting your privacy. This Privacy Policy (the “Privacy Policy”) is provided by Selling Source (the “Website to help you understand our online information practices enabling you to make an informed decision about the way we collect and use your information. In order to make this Privacy Policy accessible, it is available on our homepage and wherever personally identifiable information (“PII”) may be requested. If you do not agree with the terms and conditions of our Privacy Policy in its entirety, you are not authorized to use or access the Website or apply for any product/service available on the Website.
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. 
+INFORMATION COLLECTED  
+This policy is applicable to any and all information submitted or collected on the Website. From the information you provide on our websites, we collect such PII as your: (a) name; (b) street address; (c) telephone number(s) (including home, mobile and work); (d) date of birth; (e) financial account information; (f) Social Security Number information; (g) employment information; (h) income information; and (i) any other personal or demographic information necessary to provide the products and/or services that you have applied for on the Website. For purposes of this Privacy Policy, items (e) and (f) in the preceding sentence shall be referred to, collectively, as “Sensitive Information.”
 
-Our site uses cookies to make sure you don’t see the same ad repeatedly, and to track leads. 
+USE OF INFORMATION  
+Subject to applicable state and federal law, we may use your personal, demographic and profile information for marketing and promotional purposes, for editorial or feedback purposes, for statistical analysis and/or to assist us in improving our Website. Collected information may be added to our databases to use in e-mails or postal mailings concerning upcoming events, new services and products, site updates and/or the status of online orders.
 
-Our site’s registration form requires users to give us contact information and unique identifiers. The customer’s contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used for other purposes. Unique identifiers (such as social security numbers) are collected for use as account numbers in our record system.
+Should you decide to provide PII (including Sensitive Information), your information will be used in considering you for a Selling Source account; will be shared with trusted third parties such as Affiliated Loan Providers, credit bureaus, and/or other financial service providers in accordance with applicable law; and PII (excluding Sensitive Information) will be used to market products and services that may be of interest to you. We reserve the right to share, rent, sell or otherwise disclose your PII (other than your Sensitive Information) with/to third parties in accordance with applicable laws. These third parties may include, but are in no way limited to, providers of direct marketing services and applications (including lookup and reference, data enhancement, suppression and validation), e-mail marketers and telemarketers. Information we collect may be added to our databases and used for future SMS text-messaging, telemarketing, e-mails and/or postal mailings concerning services, new products, updates, upcoming events, and/or the status of online orders and/or online loans.
 
-This site contains links to other sites. [www.partnerweekly.com](http://www.partnerweekly.com/ "www.partnerweekly.com") is not responsible for the privacy practices or the content of such Web sites. 
+Selling Source reserves the right to release current or past customer information: (i) in the event that we believe the Website is being used or has been used in violation of the Terms of Website Use and/or to commit unlawful acts; (ii) if we are sold, acquired or where we deem it necessary or appropriate; and (iii) when requested by governmental or quasi-governmental authorities conducting an investigation, hearing or the like and/or if the information is subpoenaed. By agreeing to this Privacy Policy, you hereby consent to the disclosure of any record or communication to any third party when Selling Source in its sole discretion, determines the disclosure to be appropriate including, without limitation, sharing your e-mail address with other third parties for suppression purposes in compliance with the requirements of the CAN-SPAM Act of 2003, as amended.
 
-#### Security
+By using this Website, you agree to be contacted in any manner contemplated in this section even if your number is found on a do-not-call registry or similar registry. We may also employ other companies and/or individuals to carry out certain functions on our behalf, such as analyzing data, sending electronic and direct mail, providing marketing analysis and removing duplicate information from customer lists. In order to perform their various functions for Selling Source, these agents have access to our users’ personal information as needed.
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Your account is protected by a unique user name, and password.
+Through your use of this Website and agreement with this Privacy Policy, you authorize us to use your Sensitive Information, such as your Social Security Number, to obtain other information about you from third-parties where such information was incompletely or improperly filled out on our registration form. Such third-parties include, but are not limited to, consumer credit bureaus, consumer reporting agencies and other outside parties as permitted or required by applicable laws. In order to determine you eligibility for a loan, any and all information that we collect from you as part of your loan application, and from such third-parties, may be used.
 
-#### Choice/Opt-Out
+Should you choose to provide Sensitive Information, such as your Social Security Number, your information may be used to determine your financial status. If such information is not provided, other information you provided for the purpose of verifying your eligibility for a loan or for any other programs, offers or services, may be used. Once you qualify for a loan, any specific financial information relating to the loan will be stored and utilized by your applicable lender pursuant to the terms of that lender’s Privacy Policy.
 
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
+By submitting your information on the Website, you agree to receive mobile marketing from us and our third party advertisers and marketers. This includes, but is not limited to text-message based marketing. In the event that your mobile telephone number is listed on state and/or federal do-not-call registries, we retain the right and you consent to allow us to contact you via text-message based marketing. Furthermore, registration and/or using the Website, constitutes your acknowledgement that such registration constitutes an inquiry and/or application for purposes of the Amended Telemarketing Sales Rule (16 CFR Â§310 et seq.), as amended from time to time. Even in the event that your telephone number is listed on the Federal Trade Commission’s Do-Not-Call List, we retain the right and you consent to allow us to contact you via telemarketing in accordance with the Rule.
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
+HOW INFORMATION IS COLLECTED  
+Selling Source may collect non-personally identifiable information through the use of some or all of the following processes:
 
-  * You can edit your account details
+Cookies: Selling Source may utilize cookies to properly route Website users, customize users’ experience and to track user behavior in order to determine appropriate marketing offers to target toward users. Cookies, by themselves, do not collect PI. Selling Source provides links to advertiser and partner websites. These sites may choose to use cookies to better promote their products and services. To learn more about cookies, including how to disable them, please visit www.cookiecentral.com. Please be advised that certain areas of our Website can be accessed only in conjunction with cookies or similar devices and if you choose to disable cookies or similar devices, this might prevent you from accessing some of our content.
 
+Usage Tracking: Selling Source may track information related to the e-mail and web pages viewed by users, as well as the hyperlinks clicked by users while viewing our e-mails and the pages on our Website.
 
+Log Files: Log files may be used to track and monitor user activity on the Website.
 
-#### Correct/Update
+Beacons: Selling Source’s mailings may contain web beacons, or a piece of computer programming code that is used to associate a user’s interaction with our mailings, in order to tailor future campaigns to the user’s preferences. A web beacon is a small image that, when loaded, updates our database records. For example, if you receive an e-mail about car loans and open that message, the database will be updated via the web beacon to indicate your interest in future car loan promotions.
 
-This site gives users the following options for changing and modifying information previously provided. 
+Selling Source may also create reports on user demographics and usage patterns for our partners. This information allows our advertisers to market more effectively, and allows our users to receive advertisements that are more pertinent to their interests.
 
-  * You can Log into the Advertisers or Publishers area to edit your information
+Selling Source reserves the right to provide aggregate or group data about our users for lawful purposes. Aggregate or group data is data that describes the demographics, usage or characteristics of our participants as a group.
 
+DATA SECURTIY  
+All collected information, not just Sensitive Information, is stored in a technically and physically secure environment. When our registration/application process asks users to enter Sensitive Information, and when we store and transmit such Sensitive Information, that information is encrypted and is protected with SSL encryption software. While we use SSL encryption to protect Sensitive Information online, we also do everything in our power to protect PII (including Sensitive Information) off-line. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect our customers’ PII, we cannot ensure or warrant the security of any information that you transmit to us, and you do so at your own risk.
 
+Once we receive the transmission of your PII, we make reasonable efforts to ensure its security on our systems. Access to this information is strictly limited, and not accessible to the public. All of our customers’ PII is restricted in our offices. Only employees who need the information to perform a specific job (for example a customer service representative) are granted access to PII. Employees not adhering to our policies are subject to disciplinary action. In compliance with applicable federal and state law, we shall notify you and any applicable regulatory agencies in the event that we learn of an information security breach with respect to your PII. You will be notified via e-mail in the event of such a breach. Please be advised that notice may be delayed in order to address the needs of law enforcement, determine the scope of network damage, and to engage in remedial measures.
 
-#### Contacting the Web Site
+RIGHT TO OPT OUT
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: PartnerWeekly: [info@partnerweekly.com](mailto:info@partnerweekly.com "info@partnerweekly.com")
+To stop receiving future communications from the Website, please [Click Here](mailto:privacy@sellingsource.com) To opt-out of having your information shared with third parties, please [Click Here](mailto:privacy@sellingsource.com).  We use personal information to provide promotional offers sent via e-mail to individuals.  We may maintain separate e-mail lists for different purposes. If you wish to end your e-mail subscription from a particular list, follow the instructions which are given at the end of each e-mail message to unsubscribe from the particular list. If you choose to Selling Source, please send your request in writing via e-mail to [privacy@SellingSource.com](mailto:privacy@sellingsource.com)
+
+It is important to note that if you subsequently sign up at one of our other websites for other product or service offerings, you will need to again address any information sharing preferences that you had previously established through this Website.
+
+It is important to note that if you subsequently sign up at one of our other websites for other product or service offerings, you will need to again address any information sharing preferences that you had previously established through this Website.
+
+CHILDREN’S PRIVACY  
+Protecting children’s privacy is very important to us. We do not collect or maintain information on our Website from individuals that we actually know are under eighteen (18) years of age. No part of our Website is structured to attract anyone under eighteen (18) years of age. If we determine that we have inadvertently collected PII from someone under eighteen (18) years of age, we will take reasonable steps to purge this information from our database. We encourage parents and guardians to spend time online with their children and to participate and monitor the Internet activities of their children.
+
+CONTACT US  
+Should you have other questions or concerns about this Privacy Policy or our information collection, storage or use practices, please send us an e-mail at [privacy@SellingSource.com](mailto:privacy@SellingSource.com)
+
+CHANGES TO THE PRIVACY POLICY  
+We reserve the right to change or update this Privacy Policy at any time by posting a clear and conspicuous notice on the Website explaining that we have updated our Privacy Policy. If the manner in which we use PII changes, we will notify you by posting the changes on the Website and sending you an e-mail notification advising you of the changes, and providing you with the opportunity to opt-out of the provisions relating to the transfer of your PII. Other than where you opt-out, continued use of the Website and/or acceptance of the e-mail communications following notification of changes to this Privacy Policy will constitute your acceptance of any and all changes.
+
+NOTICES  
+In the event that we need to contact you or send you a notification for any reason, we may notify you of by means of a general notice on this Site, electronic mail to your e-mail address on our records, or by written communication sent by first class mail to your address on our records.
