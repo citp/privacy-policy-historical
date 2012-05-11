@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backcountry.com privacy policy that was archived on 2011-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111017104150id_/http%3A//www.backcountry.com/store/footer.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backcountry.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511111213id_/http%3A//www.backcountry.com/store/footer.html%23privacy) for the most accurate reproduction.*
 
 # Backcountry.com | Footer Links from Backcountry.com
 
@@ -8,7 +8,7 @@ Your privacy is important to us. To better protect your privacy, we provide this
 
 ## The Information We Collect
 
-This policy applies to all information collected or submitted on the Backcountry website, including all affiliated websites, including but not limited to: Backcountry.com, DepartmentOfGoods.com, Dogfunk.com, HucknRoll.com, RealCyclist.com, SteepandCheap.com, WhiskeyMilitia.com, Chainlove.com, and Bonktown.com. On some pages, you can order products, make requests, submit product reviews, and register to receive materials or communications from us. The types of Personal Information collected at these pages are:
+This policy applies to all information collected or submitted on the Backcountry website, including all affiliated websites, including but not limited to: Backcountry.com, DepartmentOfGoods.com, Dogfunk.com, HucknRoll.com, RealCyclist.com, SteepandCheap.com, WhiskeyMilitia.com, Chainlove.com, Bonktown.com, and CompetitiveCyclist.com. On some pages, you can order products, make requests, submit product reviews, and register to receive materials or communications from us. The types of Personal Information collected at these pages are:
 
   * Name
   * Address
