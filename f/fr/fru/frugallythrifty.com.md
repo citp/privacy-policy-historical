@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frugallythrifty.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216204814id_/http%3A//frugallythrifty.com/2010/04/14/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frugallythrifty.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512010707id_/http%3A//frugallythrifty.com/2010/04/14/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -50,5 +50,3 @@ If you have any questions or concerns regarding this privacy policy, or you wish
 kristi (at) frugallythrifty.com
 
 This privacy policy was last updated on 10-11-2011.
-
-Tagged as: [Privacy Policy](http://www.frugallythrifty.com/tag/privacy-policy/)
