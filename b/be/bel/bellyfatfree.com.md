@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bellyfatfree.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007192429id_/http%3A//privacy-policy.truste.com/verified-policy/www.bellyfatfree.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellyfatfree.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511134222id_/http%3A//privacy-policy.truste.com/verified-policy/www.bellyfatfree.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.bellyfatfree.com
 
