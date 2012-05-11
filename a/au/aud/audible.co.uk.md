@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the audible.co.uk privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114192138id_/http%3A//www.audible.co.uk/privacy-policy%3Fclass%3Dlink) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audible.co.uk privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511122950id_/http%3A//www.audible.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Audible.co.uk Privacy Notice | Audible.co.uk
+# Privacy & Security | Audible Privacy Statement | Audible Audiobooks | Audible.co.uk
 
 Last updated: 4thMay 2011
 
