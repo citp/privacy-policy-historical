@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the budk.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222151433id_/http%3A//budk.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budk.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511060431id_/http%3A//budk.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Swords, Collectible Knives and Swords, Bowie Knives, Fantasy Swords and More from BUDK.com
 
