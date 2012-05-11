@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobleo.net privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125074905id_/http%3A//www.mobleo.net/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobleo.net privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511085754id_/http%3A//www.mobleo.net/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Mobleo.net
 
