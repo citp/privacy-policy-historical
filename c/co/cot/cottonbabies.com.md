@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cottonbabies.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016231949id_/http%3A//www.cottonbabies.com/info.php%23security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cottonbabies.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511033957id_/http%3A//www.cottonbabies.com/info.php%23security) for the most accurate reproduction.*
 
 # Cotton Babies
 
 Frequently Asked Questions
 
-**What are your shipping policies and procedures?** Please see our [shipping](https://www.cottonbabies.com/shipping.php) information for details on shipping. 
+**What are your shipping policies and procedures?** Please see our [shipping](http://www.cottonbabies.com/shipping.php) information for details on shipping. 
 
 **What is your return and exchange policy?**  
 
@@ -12,13 +12,13 @@ Frequently Asked Questions
 This information is important. Please read this entire page before sending your return/exchange.
 
 __Return Policy__  
-Cotton Babies will gladly refund your money less a 10% restocking fee for products that are returned in the original, undamaged package and in resaleable-as-new condition within 30 days of purchase. Washed, used & clearance items are non-returnable. Packages must be returned complete, _including_ free items. Exchanges may be made without incurring a restocking fee as long as no refund is necessary. Unless we made a mistake with your order, you are responsible for return or exchange shipping charges. An [RMA number](https://www.cottonbabies.com/returns.php) is required for all returns.
+Cotton Babies will gladly refund your money less a 10% restocking fee for products that are returned in the original, undamaged package and in resaleable-as-new condition within 30 days of purchase. Washed, used & clearance items are non-returnable. Packages must be returned complete, _including_ free items. Exchanges may be made without incurring a restocking fee as long as no refund is necessary. Unless we made a mistake with your order, you are responsible for return or exchange shipping charges. An [RMA number](http://www.cottonbabies.com/returns.php) is required for all returns.
 
 **All return/exchange requests must include the following information:**
 
-  1. A return merchandise authorization number written on the outside of the package ([click here to get your number](https://www.cottonbabies.com/returns.php)). After this form is completed, you will be emailed an authorization number that should be written on the outside of your package. You can check the status of the return online by going to the same url (<http://www.cottonbabies.com/returns.php>) and entering the authorization number and your zip code. We will update the status of your return in the system when we receive the package and again when it is processed. 
+  1. A return merchandise authorization number written on the outside of the package ([click here to get your number](http://www.cottonbabies.com/returns.php)). After this form is completed, you will be emailed an authorization number that should be written on the outside of your package. You can check the status of the return online by going to the same url (<http://www.cottonbabies.com/returns.php>) and entering the authorization number and your zip code. We will update the status of your return in the system when we receive the package and again when it is processed. 
   2. A separate note in the package with the following information: name, current mailing address, products included in your package, the reason for the request and what you would like us to do. 
-  3. The address to use when shipping your returns is available after you have completed the [request for an RMA number](https://www.cottonbabies.com/returns.php). 
+  3. The address to use when shipping your returns is available after you have completed the [request for an RMA number](http://www.cottonbabies.com/returns.php). 
 
 
 
