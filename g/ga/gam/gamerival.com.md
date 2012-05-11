@@ -1,93 +1,109 @@
-> *The following text is extracted and transformed from the gamerival.com privacy policy that was archived on 2008-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080413031300id_/http%3A//classics.gamerival.com/site_privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamerival.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511151033id_/http%3A//www.iplay.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | GameRival.com
+# Privacy Policy - I-play
 
-**Effective as of June 3, 2005**
+﻿
 
-**THIS PRIVACY POLICY MAY CHANGE FROM TIME TO TIME.**
+**NOTICE TO UNITED STATES AND OTHER NON-EUROPEAN UNION RESIDENTS:** This Privacy Policy is provided by Oberon Media, Inc. OBERON MEDIA, INC. IS A UNITED STATES COMPANY, and is the party responsible for the collection and maintenance of your information. 
 
-Demand Media, INC owns and/or operates a network of Web sites (referred to hereafter as the "Network") providing diversionary entertainment and topical news, information and editorial content to millions of users and subscribers daily. The information collection, use, maintenance and disposal practices of the Network are discussed in this privacy policy.
+**NOTICE TO EUROPEAN UNION RESIDENTS:** This Privacy Policy is provided by Oberon Media Enterprises Limited. Oberon Media Enterprises Limited is a Cyprus entity and is the party responsible for the collection and maintenance of your information. 
 
-**1\. Collection of Information.**
+Your privacy is important to Oberon Media, Inc. and Oberon Media Enterprises Limited (together with their subsidiaries and affiliates, "Oberon") and our partners. We respect your privacy rights and recognize the importance of protecting the information we collect about you.
 
-**1.1 Survey Information.**  
-The Network collects information from individuals when such individuals voluntarily complete Network surveys, order forms, send an email through the Network's referral engine technology or submit information via an online forms which may or may not be accompanied by a pre-checked or non-pre-checked checkbox indicating that such individuals consent to receiving marketing communications from the Network (a "Co-registration"), or a registration pages either online or offline, or by means of online or offline surveys, order forms, or registration pages operated by third parties (each, a "Survey"). (As used herein, "online" means using the Internet, including the websites and related technologies, and "offline" means by methods other than online, including in person, via postal mail, telephones, and other similar means.) In the Surveys, the Network or a third party may ask individuals to provide various information to the Network, which may include their name, email address, street address, zip code, telephone numbers, birth date, gender, salary range, education level, marital status, occupation, employment information, personal and online interests, and such other information as may be requested from time to time (collectively, "Survey Information"). Completing the Surveys is completely voluntary, and individuals are under no obligation to provide Survey Information to the Network or any third party, but individuals may receive incentives from the Network or a third party in exchange for providing Survey Information to the Network.
+Oberon operates various web sites with game-related products and services (our "Sites") and provides applications for the provision of various online and mobile services, such as search and gaming (collectively, "Applications") through which personal information may be collected. This privacy policy (the "Privacy Policy") applies to all personal information collected by Oberon through our Sites and Applications. 
 
-**1.2 Other Information.**  
-Other occasions when the Network obtains information from individuals include when such individuals (1) make a claim for a prize or seek to redeem an incentive offered by the Network or a third party, (2) request assistance through the Network's customer service department, and (3) voluntarily subscribe to a Network service or newsletter (collectively, "Other Information").
+If Oberon is operating the Sites or Applications under an agreement with a specific partner, the branding of the Site or the Application will indicate the specific partner with which Oberon operates the Site or Application ("Identified Partners"). In such event, Oberon may share the data collected with that particular Identified Partner. Accordingly, Oberon´s use of your data is subject to our Privacy Policy - and our Identified Partner´s use of your data is subject to its privacy policy. You should familiarize yourself with such Identified Partner´s privacy policy. Some of Oberon´s Identified Partners serve their own ads or use other ad-serving networks. To opt out of data collection by an Identified Partner´s ad-serving network, please see that Identified Partner´s privacy policy. 
 
-**1.3 Cookies, Web beacons, and Other Information Collected Using Technology.**  
-The Network may use cookie technology to associate certain Internet-related information about individuals with information about such individuals in our database. Additionally, the Network may use other new and evolving sources of information in the future (together, "Technology Information").
+This Privacy Policy describes our practices regarding the information collected online through Sites and Applications maintained by Oberon, and not to web sites or services offered and operated by other companies or organizations to which we link. Additionally, this Privacy Policy does not cover information that we collect through other methods, such as mail-in sweepstakes.
 
-**(a) Cookies.** A cookie is a small amount of data stored on the hard drive of the individual's computer that allows Network to identify the individual with his or her corresponding data that resides in Network's database. You may read more about cookies at [www.cookiecentral.com](http://www.cookiecentral.com/).
+Oberon is headquartered in the United States and the collected data is stored in the United States. Although we operate Sites and maintain some operations outside the United States, when you become a member of one of our online communities or programs, make a purchase from Oberon or register for one of the Applications, your account is with a United States company or European company, as applicable, and your data will be stored in the United States. 
 
-**(b) Third Party Cookies.** We send to your web browser many of the advertisements you see when you use our network of Web sites. However, we also allow other companies, called third-party ad servers or ad networks, to serve advertisements within our web pages. Because your web browser must request these advertising banners from the ad network Web site, these companies can send their own cookies to your cookie file, just as if you had requested a web page from the site. Please note that if an advertiser asks us to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 13-24 who have viewed sports content) and you respond to that ad, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. As always remember, we only authorize our third-party ad servers to employ anonymous cookies for ad delivery and anonymous targeting. Our third-party ad servers do not collect, nor do we give them access, to any personally identifying information about you.
+BY USING THIS SITE, APPLICATION, OR USING ANY OF THE RELATED SERVICES, YOU SIGNIFY YOUR ASSENT TO OBERON´S PRIVACY POLICY AND YOUR UNDERSTANDING THAT OBERON MAY PROCESS YOUR DATA IN ACCORDANCE WITH THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THE FOREGOING, PLEASE DO NOT USE THE SITE OR APPLICATION. 
 
-**Opting Out of Third-Party Ad Servers** If you want to prevent a third-party ad server from sending and reading cookies on your computer, currently you must visit each ad network's Web site individually and opt out (if they offer this capability). Currently, we have relationships with the following third-party ad networks (click to visit their Web site): 24/7 Real Media, Inc. <http://www.247realmedia.com/privacy.html>
+## THE INFORMATION WE COLLECT
 
-**(c) Web beacons.** Web beacons are graphic images, often transparent and no larger than 1 pixel x 1 pixel, that are placed on a Web site or in an e-mail. Web beacons are used to monitor the behavior of the user visiting the Web site or opening the e-mail. When the HTML code for the Web beacon points to a site to retrieve the image, it simultaneously can pass along information such as the IP address of the computer that retrieved the image, the time the Web beacon was viewed and for how long, the type of browser that retrieved the image and previously set cookie values. The Network, or third parties acting on the Network's behalf, may utilize Web beacons on Web pages or in email for any legally permissible purpose.
+If you are a visitor to a Site or a user of an Application, you may provide us with two types of information: personal information you knowingly provide us on an individual basis ("Personal Information") and statistical and usage information collected using cookies and other technologies as you browse the Site or use an Application ("Usage Information").
 
-**(d) General Behavior Tracking.** The Network may track online behaviors ("Behaviors") through its own technologies, including its desktop software products, in order to increase the effectiveness of the advertisements it delivers. Examples of such behaviors may include advertisement responses, websites that individuals visit, and products that individuals purchase. Individuals can prevent the tracking of Behaviors by globally unsubscribing from the Network's marketing materials. As described in Section 2.1, the Network reserves the right to use such technologies for any purpose permitted by law.
+## 1\. Personal Information
 
-**(e) Information Automatically Collected.** For site maintenance, optimization, security and other legally permissible purposes, the Network's servers (or third party servers) may collect certain information about website visitors automatically. Such information may include such visitors' IP address, browser type, date, time and duration of visit and particular pages viewed, and such other information as is permitted by law.
+**Registration Information**  
+You will need to provide us information about yourself, your firm or company, and your preferences when you register on one of the Sites or for one of the Applications. The specific information collected will vary depending on the Site or Application, and may include your name, email address, mailing address, birth date and gender. Registration is not required to browse any of our Sites, but you will not be able to view certain content or use aspects of certain Sites or Applications that require registration if you do not provide the requested information.
 
-**(f) New Technology.** The use of technology on the Internet is rapidly evolving, as is the Network's use of new technology. As previously stated, Network reserves the right to change this policy at any time without any additional notice to the user. As a result, the Network strongly encourages individuals to revisit this privacy policy from time to time for any updates regarding its use of technology. Use of any Network website constitutes acknowledgement and acceptance of the Network's Privacy Policy and the Network's right to modify such Privacy Policy without additional notice.
+**Credit Card Information**  
+If you choose to purchase products or services from us or our partners, you may need to provide a valid credit card number and expiration date, in addition to your name, mailing address, email address and phone number. Oberon does not store credit card information, but securely transmits it to our payment processors for verification and processing. 
 
-**1.4 Outside Information.** The Network may receive information about individuals from a third party or from other sources of information outside of the Network including information located in public databases ("Outside Information").
+**Email Information**  
+In addition to providing us with your email address as part of registration, if you choose to correspond with us through email or by using a web interface to reach customer support, we may retain the content of your messages together with your email address and our responses.
 
-**1.5 Individual Information.** As used herein, "Individual Information" means Survey Information, Other Information, Technology Information, and Outside Information, and any other information the Network gathers or receives about individuals.
+## 2\. Usage Information
 
-**1.6 No Information Collected from Children.** The Network will never knowingly or intentionally collect any personal information about children under the age of 13. If the Network obtains actual knowledge that it has collected personal information about a child under the age of 13, that information will be immediately deleted from its database. Because it does not knowingly or intentionally collect such information, to the best of the Network's knowledge and belief, the Network has no such information to use or to disclose to a third party. The Network has designed this policy in order to comply with the Children's Online Privacy Protection Act.
+Similar to other commercial web sites, we utilize standard technologies such as "cookies," clear GIFs (also known as "web beacons" or "action tags") and web server logs to collect information about how the Sites and Applications are used. Additionally, when you connect to or download an Application, we may retrieve information from the computer used to log onto the Application. The information we collect may include technical information about your computer, system and application software, and peripherals, and any data related to the use and operation of the software applications used in connection with the Application. 
 
-**1.7 Credit Card Information.** The Network may in certain cases collect credit card numbers and related information, such as the expiration date of the card ("Credit Card Information") when an individual places an order from Network. When the Credit Card Information is submitted to the Network, such information is encrypted and is protected with SSL encryption software. The Network will use the Credit Card Information for purposes of processing and completing the purchase transaction, and the Credit Card Information will be disclosed to third parties only as necessary to complete the purchase transaction.
+**Cookies**  
+A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a web site, that site´s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. We use the cookie to recognize your computer when you visit our Sites or use our Applications. Cookies can link to information regarding your account with us, pages you have viewed, or games you have played. This information is used to deliver content specific to your interests and to monitor web site or game usage. 
 
-**2\. Use of Individual Information.**
+Information gathered through cookies and web server logs may include the date and time of visits, the pages viewed, time spent at the Site, and the web sites visited just before and just after the Site.
 
-**2.1 Discretion to Use Information.**  
-THE NETWORK MAY USE INDIVIDUAL INFORMATION FOR ANY LEGALLY PERMISSIBLE PURPOSE IN THE NETWORK'S SOLE DISCRETION. The following paragraphs in Section 2 describe how the Network currently uses Individual Information, but the Network may change or broaden its use at any time as permitted by law. As noted below, the Network may update this policy from time to time. The Network may use Individual Information to provide promotional offers to individuals by means of email advertising, telephone marketing, direct mail marketing, and online banner advertising, among other uses. 
+You can control your browser´s settings regarding cookies by selecting "Internet Options" (IE), "Options" (Firefox and Chrome) or "Preferences" (Safari) or in the "Tools" menu of your browser. This will allow you to prevent your browser from accepting new cookies, have your browser notify you when you receive a new cookie, or disable cookies altogether. However, some Applications and aspects of our Sites will not function properly if you do not accept cookies. 
 
-**2.2 Email.**  
-The Network uses Individual Information to provide promotional offers by email to individuals who have permitted use of their email address for this purpose. The Network may maintain separate email lists for different purposes. If email recipients wish to end their email subscription, they need to follow the instructions at the end of each email message to unsubscribe. 
+**Clear GIFs**  
+Clear GIFs are small, invisible graphic images (usually only one pixel) placed on a web page or email message to capture statistical usage information. They are not used to collect personal information about you.
 
-**2.3 Targeted Advertising.**  
-The Network uses Individual Information to target advertising to individuals. When individuals use the Internet, the Network uses such persons' Individual Information to show advertising for products and services in which those users have expressed an interest, whether directly or indirectly. 
+**IP Addresses**  
+An IP addresses is a number assigned to your computer every time you are connected to the Internet. IP addresses are automatically collected by our web server as part of demographic and profile data known as "traffic data" so that appropriate data (such as the web pages you request) and geographically relevant content can be sent to you.
 
-**2.4 Direct Mail and Telemarketing.**  
-The Network may use Individual Information to advertise or provide promotional offers, directly or indirectly, to individuals using direct mail marketing or telemarketing using telephones, as permitted by law. 
+**Referrers**  
+A Referrer is the information passed along by a web browser that references the web URL you linked from, and is automatically collected by our web server as "traffic data." We use traffic data to credit your referral to a partner or affiliate who referred you to our Site or Application. This information may also be used by Oberon to identify broad demographic trends that may be used to provide information tailored to your interests. You are not personally identified from such use of this information.
 
-**2.6 Storage of Individual Information.**  
-The Network stores Individual Information in a database on Network computers. Network computers have security measures (such as firewalls) in place to reasonably protect against the loss, misuse or alteration of the information under the Network's control. Notwithstanding such measures, the Network cannot guarantee that its security measures will prevent Network computers from being illegally accessed, and the Individual Information on them stolen or altered. 
+**Omniture**  
+In addition to our own internal tracking, we utilize the services of Omniture, Inc., a provider of online business optimization software, to assist us in the capture and analysis of customer usage and tracking information. Omniture acts as a limited agent of Oberon only for the purpose of providing such services. Any information obtained by Omniture from Oberon will be treated by Omniture as proprietary and confidential information. To view Omniture´s privacy policy, click here. If you do not wish to allow your session visitation information to be aggregated and analyzed by Omniture, you may utilize the opt-out mechanism found under the heading "Opt-out and update policies" here.
 
-**2.7 Rights of Third Party Affiliates.**  
-Network may extend any of its rights under this Agreement to third parties performing services on its behalf. 
+## ADVERTISING
 
-**3\. Dissemination of Individual Information.**
+**Our Advertisers**  
+Oberon´s advertisers and advertising vendors display targeted advertisements. Although we do not provide any personal information to the advertiser or advertising vendor, by interacting with or clicking on an ad you acknowledge the possibility that the advertiser may assume you meet the targeting criteria used.
 
-**3.1 Sale to Third Parties.**  
-The Network may sell or transfer Individual Information to third parties in connection with any merger, acquisition, reorganization, change in capital structure, sale of all or substantially all of the assets of any Network division or website, or any activity specified in Section 3.2, 3.3, or 3.4 below. 
+In addition to cookies placed by Oberon or its agents, as described above, advertisers and advertising vendors that serve ads onto our Sites may use their own cookies or other tracking technologies. We cannot be responsible for the privacy policies or practices of any such advertisers and vendors.
 
-**3.2 Order Fulfillment.**  
-The Network will transfer Individual Information to third parties as necessary to provide a product or service that an individual orders from such third party while using one of the Network's websites or when responding to offers provided by the Network. 
+**AdTech**  
+Oberon works with Adtech US, Inc. for the delivery of advertisements to certain Sites and Applications. The non-personally-identifiable information collected about your visits to the Sites may be used in order to provide advertisements about goods and services of interest to you. You have the option to opt out of the collection of such information by clicking here and following the ad cookie opt-out instructions.
 
-**3.3 Legal Process.**  
-The Network may disclose Individual Information to respond to subpoenas, search warrants, court orders, or other legal process. 
+## HOW WE USE THE INFORMATION
 
-**3.4 Summary Data.**  
-The Network may sell or transfer non-individualized information, such as summary or aggregated anonymous information about all persons or sub-groups of persons. 
+**Uses of your Personal Information**  
+Oberon will use your information primarily to provide you with our products and services and to receive payment from you. In order to do this, we may determine whether you meet the minimum system requirements to use our products. We may also ask you to participate in surveys about products, services, news and events; we may offer you product upgrades and games for you to purchase. You may opt out of some of these uses.
 
-**4\. Privacy Practices of Third Parties.**
+Oberon may also provide Personal Information to companies we engage as contractors or agents to perform services for us, such as maintaining software, providing email marketing or administering a sweepstakes or contest. Information will be shared with such contractors only to the extent reasonably necessary for them to perform these services on our behalf, and pursuant to confidentiality obligations.
 
-**4.1 Advertiser cookies and web beacons.**  
-Advertising agencies, advertising networks, and other companies (collectively, "Advertisers") who place advertisements on the Network's websites and on the Internet generally may use their own cookies, web beacons, and other technology to collect information about individuals. The Network does not control Advertisers' use of such technology and the Network has no responsibility for the use of such technology to gather information about individuals. 
+**Uses of Usage Information**  
+Usage Information may be used by Oberon to analyze Site and Application use in order to optimize the Site and the Applications and improve the user experience.
 
-**4.2 Links.**  
-The Network's websites and email messages may contain hypertext links to the websites of one or more third parties. The Network is not responsible for the privacy practices or the content of such other websites. 
+Oberon may use the information collected from your computer related to technical aspects of your connecting to a Site or Application in order to facilitate the provision of software updates, product support and other services to you (if any) related to the Sites and Applications, to verify compliance with the terms of the applicable Site or Application, to improve our products or services or to provide services or technologies to you.
 
-**4.3 Affiliated Companies.**  
-The Network may disclose, transfer and sell Individual Information to an entity which becomes affiliated with Network through formation, merger or acquisition, in the Network's discretion. 
+## GENERALLY
 
-**5\. Unsubscribe from Demand Media lists.**  
-The Network maintains multiple newsletter and email marketing lists. To unsubscribe from one or more of such lists, click the link included in the footer of any message delivered by the Network and follow the instructions provided. 
+**Where is the information held?**  
+We are a global organization and the computer systems on which we collect, store, and use the information collected or received are based in the United States and elsewhere. Your personal information may be transferred to, used, processed or held by Oberon in the United States and in other countries, including both member and non-member countries of the European Union, and used for the purposes set out in this Privacy Policy.
 
-**6\. More Information.**  
-For more information about protecting your privacy, you may wish to visit [www.privacylaw.net](http://www.privacylaw.net/) or [www.privacyalliance.org](http://www.privacyalliance.org/). THE NETWORK RESERVES THE RIGHT TO UPDATE THIS POLICY FROM TIME TO TIME, SO YOU SHOULD REVIEW THIS WEB PAGE PERIODICALLY.
+**Third-Party Disclosure of Personal Information**  
+Oberon does not use your Personal Information for purposes incompatible with those listed above. Other than as provided in this Privacy Policy, Oberon does not provide your Personal Information to third parties unless you specifically consent to provide such information to a third party. Sometimes, certain indirectly identifiable information needs to be communicated with third-party vendors, for example, to process an order that you have made. We may also disclose Personal Information when legally compelled to do so. In other words, when the law requires it or when we have reason to believe that a disclosure is necessary or appropriate to address potential or actual injury or interference with the rights, property or operations of Oberon, our users or others. Finally, if we undergo a merger or acquisition, or sell or otherwise transfer substantially all the assets of Oberon, or relating to any web site that we own or operate or any product or service that we offer, Personal Information may be transferred to our successor or assign.
+
+**Selected Notifications**  
+Occasionally, we may also use the information we collect to notify you about new services and special offers we think you will find valuable. We will send you this type of communication only if we have received your permission to do so.
+
+**How Does Oberon Protect Your Information and Secure Information Transmissions?**  
+We use industry standard technology and services to protect and secure your information. We will never initiate any email communication with you that requests your private information. In general, we request that you do not send private information to us by email. Please contact Oberon support if you have any questions or concerns.
+
+**Employee Access, Training and Expectations**  
+Our corporate values, ethical standards, and practices are committed to the appropriate protection of customer and visitor information. In general, our business practices limit employee access to confidential information, and limit the use and disclosure of such information to authorized persons, processes and transactions.
+
+**What About Other Web Sites Linked to Our Web Site?**  
+We are not responsible for the practices employed by web sites linked to or from our Sites or accessed through our Applications, nor the information or content contained in any search results or third-party web sites. Often links to other web sites are provided solely as pointers to information on topics that may be of interest to the users of our Sites or Applications. Please remember that when you use a link to go from a Site to another web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other web site, including web sites which have a link on one of our Sites, is subject to that web site´s own rules and policies. Please read over those rules and policies before proceeding.
+
+**Your Consent**  
+By using any of our Sites or Applications, you consent to our collection and use of your personal information as described in this Privacy Policy.
+
+**Modification of Privacy Policy by Oberon-Media**  
+Oberon reserves the right to change or update this Privacy Policy at any time by posting a notice that we are changing this Privacy Policy. If there is a change to this Privacy Policy, we will post the change on the Site or with the Application to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. You will be deemed to have accepted such change if you continue to use the Site or Application after the new policy has been posted.
+
+Effective: April 25, 2012
