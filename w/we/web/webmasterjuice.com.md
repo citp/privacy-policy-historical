@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the webmasterjuice.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210063114id_/http%3A//www.freeprivacypolicy.org/generic.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmasterjuice.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511063113id_/http%3A//www.freeprivacypolicy.org/generic.php) for the most accurate reproduction.*
 
 # Generic Privacy Policy
 
 **Generic Privacy Policy**
 
-(last updated March 2011)
+(last updated March 2012)
 
 Websites linking to this page have chosen to adopt this generic privacy policy as their own. This means that they agree to abide by the principles laid out below.
 
