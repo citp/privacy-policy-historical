@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qataronlinedirectory.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124003001id_/http%3A//www.qataronlinedirectory.com/pages/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qataronlinedirectory.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511200416id_/http%3A//www.qataronlinedirectory.com/qatar-privacy-policy) for the most accurate reproduction.*
 
-# Qatar Online Directory - privacy-policy
+# privacy-policy | Qatar Online Directory
 
 eg: Trans Media International WLL
 
@@ -8,7 +8,7 @@ eg: Restaurant
 
 eg: LG 
 
-**Wednesday, 11.23.11**
+**Friday, 05.11.12**
 
   | 
 
