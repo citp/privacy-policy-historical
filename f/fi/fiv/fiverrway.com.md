@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fiverrway.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111003115id_/http%3A//fiverrway.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiverrway.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512000136id_/http%3A//fiverrway.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | FIVERR WAY
 
