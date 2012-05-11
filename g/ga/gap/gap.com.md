@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gap.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201225152id_/http%3A//www.gap.com/customerService/info.do%3Fcid%3D2331) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gap.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511072520id_/http%3A//www.gap.com/customerService/info.do%3Fcid%3D2331) for the most accurate reproduction.*
 
 # | Gap
 
-_Last revised May 8, 2009_
+_Last revised February 24, 2011_
 
 Gap Inc. and our brands, which include but are not limited to Gap, Banana Republic, Old Navy, Gap Outlet, Banana Republic Factory Store, Piperlime, and Athleta (collectively, "Gap Inc."), value our customers and respect your privacy. We collect information about you in our stores and through our websites in an effort to improve your shopping experience and to communicate with you about our products, services, contests and promotions. As described in this policy, we may share your information among our brands and, under certain circumstances, with third parties that provide services on our behalf or with whom we have partnered to offer a particular product or service. For Athleta customers only, we may share your postal address and shopping history with like-minded third parties for their direct mail marketing purposes as described below.
 
@@ -21,6 +21,8 @@ If you have any questions about our privacy policy, please contact us as describ
   * How does Gap Inc. use pixel tags?
   * How do I know my personal information is secure?
   * What is "phishing"?
+  * I received a suspicious email from a Gap Inc. brand regarding an order I did not place. What should I do?
+  * I responded to an online job posting for a Gap Inc. job that requires me to upload personal financial information. Is this part of your hiring process?
   * What about links to other websites?
   * How do I contact you?
   * Your California Privacy Rights
@@ -120,6 +122,14 @@ If for any reason you cannot access the secure server, or if you're not quite co
 back to top
 
 "Phishing" is a scam designed to steal your personal information. If you receive an email that looks like it is from us asking you for your personal information, do not respond. We will never request your password, user name, credit card information or other personal information through email.
+
+back to top
+
+We are aware of phony emails sent out under our brand names. These emails did not originate from Gap Inc., and individuals who received fraudulent order status emails have not been charged. For your protection, do not click links or open any files attached to suspicious, unsolicited emails. If you believe your personal computer has been compromised as a result of the scam, please consult an IT professional. For more information, contact the FBI's Internet Crimes Complaint Center: <http://www.ic3.gov/default.aspx>. We work with law enforcement on their investigations of these kinds of fraudulent emails.
+
+back to top
+
+No. Gap Inc. does not ask prospective job applicants for information about their bank accounts, credit history or passwords to financial accounts. If you are asked for personal financial or security information in response to a job application, this is likely a fraudulent job listing hosted by spammers posing as Gap Inc. to mislead job applicants. You can validate all Gap Inc. job postings on [gapinc.com/careers](http://www.gapinc.com/careers). Spammers also create phony aliases such as thegap-usa.com to mimic our company and/or brand names in an effort to commit identity theft or other forms of fraud. If you receive this type of suspicious email activity, please alert the FBI's Internet Crimes Complaint Center: <http://www.ic3.gov/default.aspx>
 
 back to top
 
