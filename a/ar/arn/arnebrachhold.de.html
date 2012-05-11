@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the arnebrachhold.de privacy policy that was archived on 2011-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111226120310id_/http%3A//www.arnebrachhold.de/imprint/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the arnebrachhold.de privacy policy that was archived on 2012-05-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120511105323id_/http%3A//www.arnebrachhold.de/imprint/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head profile="http://gmpg.org/xfn/11">
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -34,8 +34,8 @@
   
   <style type="text/css" media="screen"> @import url( http://www.arnebrachhold.de/wp-content/themes/one/style.css ); </style>
   
-  <script type="text/javascript" src="http://www.arnebrachhold.de/wp-content/js/prototype.js"></script>
-  <script type="text/javascript" src="http://www.arnebrachhold.de/wp-content/js/default.js"></script>
+ 
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.arnebrachhold.de/wp-content/js/default.js"></script>
 
   <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.arnebrachhold.de/feed/">
   <link rel="alternate" type="text/xml" title="RSS .92" href="http://www.arnebrachhold.de/feed/rss/">
@@ -57,32 +57,41 @@
 	<link rel="archives" title="May 2005" href="http://www.arnebrachhold.de/2005/05/">
   <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.arnebrachhold.de/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.arnebrachhold.de/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 2.5.1">
+<link rel="prev" title="Tags" href="http://www.arnebrachhold.de/tags/">
+<link rel="next" title="Projects" href="http://www.arnebrachhold.de/projects/">
+<meta name="generator" content="WordPress 3.3.1">
+<link rel="canonical" href="http://www.arnebrachhold.de/imprint/privacy-policy/">
 
-
-			<!-- Added by "del.icio.us - Bookmark this!", a WordPress Plugin of Arne Brachhold, v1.0 -->
+			<!-- Added by "del.icio.us - Bookmark this!", a WordPress Plugin of Arne Brachhold, v1.2 -->
 			<script type="text/javascript" language="JavaScript">
 				//<![CDATA[
 				//Bookmark on del.icio.us
-				function dbt_bookmark() {
+				function dbt_bookmark(targetURL,service) {
 					//URL of this document
-					var loc=location.href;
+					if(!service) service='delicious';
+					var loc=(targetURL && targetURL.length>0?targetURL:location.href);
 					//Strip out any anchors
 					var apos=loc.indexOf('#');
-					loc=(apos>0?loc.substring(0,apos):loc);
-					//Redirect to del.icio.us
-					location.href='http://del.icio.us/post?v=2&url='
-					+ encodeURIComponent(loc)
-					+'&title='
-					+encodeURIComponent(document.title);
-					//Return false so the link won't be activated. 
+					loc=encodeURIComponent((apos>0?loc.substring(0,apos):loc));
+					
+					//Get Title and encode
+					var title = encodeURIComponent(document.title); 
+					
+					var url='';
+					
+					//Redirect to service
+					if(service=='digg') url='http://www.digg.com/submit?phase=2&url=' + loc + '&title=' + title;
+					else if(service=='newsvine') url='http://www.newsvine.com/_tools/seed&save?u=' + loc + '&h=' + title;
+					else if(service=='furl') url='http://www.furl.net/storeIt.jsp?p=1&u='+ loc +'&t=' + title;
+					else if(service=='blinklist') url='http://www.blinklist.com/index.php?Action=Blink/addblink.php&Description=&Url=' + loc + '&Title=' + title;
+					else url='http://del.icio.us/post?v=2&url=' + loc + '&amp;title=' + title;
+					
+					location.href = url;
 					return false;
 				}
 				//]]>
 			</script>
 			<link rel="stylesheet" href="http://www.arnebrachhold.de/wp-content/plugins/ig_syntax_hilite/css/syntax_hilite_css.css" type="text/css" media="all">
-
-		<!-- Powered by ProSEO -->
 <!--
 <rdf:RDF xmlns="http://web.resource.org/cc/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -102,8 +111,20 @@
 </License>
 </rdf:RDF>
 -->
+
 <script type="text/javascript">
-digg_skin = 'compact';
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-65990-1']);
+  _gaq.push(['_setSiteSpeedSampleRate', 10]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
 </script>
 
 </head>
@@ -121,9 +142,9 @@ digg_skin = 'compact';
 
 <ul id="navlist">
 <li><a href="http://www.arnebrachhold.de">Home</a></li>
-<li class="page_item page-item-6"><a href="http://www.arnebrachhold.de/archive/" title="Archive">Archive</a></li>
-<li class="page_item page-item-33"><a href="http://www.arnebrachhold.de/tags/" title="Tags">Tags</a></li>
-<li class="page_item page-item-10 current_page_ancestor current_page_parent"><a href="http://www.arnebrachhold.de/imprint/" title="Impressum">Impressum</a></li>
+<li class="page_item page-item-6"><a href="http://www.arnebrachhold.de/archive/">Archive</a></li>
+<li class="page_item page-item-33"><a href="http://www.arnebrachhold.de/tags/">Tags</a></li>
+<li class="page_item page-item-10 current_page_ancestor current_page_parent"><a href="http://www.arnebrachhold.de/imprint/">Impressum</a></li>
 </ul>
 
 
@@ -213,6 +234,7 @@ Welcome to the personal Website of Arne Brachhold, Stuttgart, Germany.
 	</ul>
  </li>
 
+
   <li><h4>Links:</h4>
    <ul>
     <li><a href="http://www.bosse-media.de/">bosse | media</a></li>
@@ -234,9 +256,9 @@ Welcome to the personal Website of Arne Brachhold, Stuttgart, Germany.
 <div id="clearer">&nbsp;</div>
 	<div id="footer">
 		<p class="credit">
-			© 2005 - 2011 Arne Brachhold |
+			© 2005 - 2012 Arne Brachhold |
 			<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.0/de/">License</a> |
-			<a rel="privacy" href="http://www.arnebrachhold.de/imprint/privacy-policy/">Privacy</a><br>
+			<a rel="privacy" href="http://www.arnebrachhold.de/imprint/privacy-policy/">Privacy</a> | SN2<br>
 			<span lang="de">Dies ist die persönliche Website von Arne Brachhold. Weitere Details finden Sie im <a href="http://www.arnebrachhold.de/imprint/">Impressum</a></span>
 		</p>  
 					</div>
@@ -244,18 +266,30 @@ Welcome to the personal Website of Arne Brachhold, Stuttgart, Germany.
 </div>
 </div>
 
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-if(_gat) {
-var pageTracker = _gat._getTracker("UA-65990-1");
-pageTracker._initData();
-pageTracker._trackPageview();
-}
 
 
-</script>
 
-</body></html>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Served from: www.arnebrachhold.de @ 2012-05-11 06:18:42 -->
+
+<!-- W3 Total Cache: Page cache debug info:
+Engine:             apc
+Cache key:          w3tc_www.arnebrachhold.de_1_page_22f9f21f02d8ad9ca29cc7ff1d966675
+Caching:            enabled
+Status:             cached
+Creation Time:      0.003s
+Header info:
+Pics-Label:         '(pics-1.1 "http://www.icra.org/ratingsv02.html" l gen true for "http://www.arnebrachhold.de" r (nz 1 vz 1 lz 1 oz 1 cz 1) gen true for "http://logs.soul-network.de" r (nz 1 vz 1 lz 1 oz 1 cz 1))'
+Last-Modified:      Fri, 11 May 2012 05:18:42 GMT
+Vary:               Accept-Encoding, Cookie
+Expires:            Fri, 11 May 2012 13:18:42 GMT
+Pragma:             public
+Cache-Control:      max-age=8719, public, must-revalidate, proxy-revalidate
+Etag:               f372d5b3153e3fe78f220df828b3a7dc
+Content-Encoding:   gzip
+P3P:                policyref="http://www.arnebrachhold.de/w3c/p3p.xml", CP="ADMa OUR NAV DSP NOI COR STP"
+X-Pingback:         http://www.arnebrachhold.de/xmlrpc.php
+Content-Type:       text/html; charset=UTF-8
+--></body></html>
