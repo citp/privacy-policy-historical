@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wirecardbank.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225131618id_/http%3A//www.wirecardbank.com/footermenu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wirecardbank.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511194807id_/http%3A//www.wirecardbank.com/footermenu/privacy) for the most accurate reproduction.*
 
 # Privacy - Wirecard Bank AG
 
