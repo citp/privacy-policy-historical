@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the undercovercondoms.com privacy policy that was archived on 2011-10-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111016130016id_/http%3A//www.undercovercondoms.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the undercovercondoms.com privacy policy that was archived on 2012-05-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120511191501id_/http%3A//www.undercovercondoms.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <title>Undercover Condoms - Privacy Policy</title>
@@ -74,7 +74,7 @@ function quickViewLaunch(prod, ref) {
 	}
 }
 
-unction quickView(prod, cartItem) {
+function quickView(prod, cartItem) {
 	if (document.getElementById('qView')) {//remove any remaining quick views
 		document.body.removeChild(document.getElementById('qView'));
 	}
@@ -114,17 +114,19 @@ unction quickView(prod, cartItem) {
 
 <script type="text/javascript" language="javaScript">
 
-window.onload = function() {
-	if (document.KeywordSearch != null) {
-		var totalInputs = document.getElementsByTagName('input'); 
-		for (n=1;n<totalInputs.length;n++) {
-			if (totalInputs[n].type == "text") {
-				return;
-			}
-		}
-		document.KeywordSearch.SearchText.focus();
-	}
-}
+window.onload = function () {
+    if (document.getElementById("KeywordSearch") !== null) {
+        var totalInputs = document.getElementsByTagName('input');
+        for (n = 1; n < totalInputs.length; n++) {
+            if (totalInputs[n].type == "text" && totalInputs[n].name != "searchText" && totalInputs[n].name != "ea") {
+                return;
+            }
+        }
+
+        if (document.getElementById("searchText") !== null) document.getElementById("searchText").focus();
+        
+    }
+};
 
 function goproductmenu(selectvalue) {
 if (isNaN(selectvalue)) {
@@ -147,44 +149,6 @@ function enlargecondom(photoname) {
 function rewardsDetail(CustomerID) {
 	tmp = window.open('/rewards-detail.asp','','width=500,height=800,toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,copyhistory=no,resizable=yes');
 };
-</script>
-
-<script type="text/javascript">
-    
-function ShowFlashHeadline() {
-
-    var flashvars = {
-	  hoverColor: "ff9900",
-	  delay: 8,
-	  navType: 0,
-	  xmlFile: "/headline_slideshow.asp"
-	};
-	var params = {
-	  wmode: "transparent",
-	  menu: "false"
-	};
-	var headlinedivname = "altHeadline";
-	swfobject.embedSWF("/slideshow.swf", "altHeadline", "500", "27", "9.0.0", "/global/expressInstall.swf", flashvars, params);
-					
-	/*var flashvars = {
-		hoverColor: "ff9900",
-		delay: 5,
-		navType: 3,
-		xmlFile: "headline_slideshow.asp"
-	};
-    var params = {
-        wmode: "transparent"
-    };
-    var attributes = {
-		id: "headlineSlideshow"
-	};
-    var headlinedivname = "altHeadline";
-    //alert( document.getElementById(headlinedivname) );
-    if (document.getElementById(headlinedivname)) {
-	    swfobject.embedSWF("/slideshow.swf", "altHeadline", "500", "27", "8.0.0", "/global/expressInstall.swf", flashvars, params, attributes);
-	};*/
-
-}; //showFlashHeadline
 </script>
 
 <script type="text/javascript" language="javaScript">
@@ -226,48 +190,54 @@ function showOrderReason() {
 -->
 </script>
 
+<!--Start Header Tracking Pixels-->
+
+<!--End Header Tracking Pixels-->
+
 
 
 
 </head>
 
-<body link="#000066" vlink="#1C77FF" topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0" onload="getTargetPos('logoTarget', 0, 20, 'logoDiv'); ShowFlashHeadline(); document.SearchForm.SearchText.focus();">
+<body link="#000066" vlink="#1C77FF" topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0">
 
 
 
 <!--Start Top Header-->
-<div id="logoDiv" style="display: block; position: absolute; left: 174px; top: -2px;">
-    <a href="http://www.undercovercondoms.com/" title="Undercover Condoms -- Buy Condoms Online">
-    <img src="http://m.undercovercondoms.com/p/undercovercondoms/images/top_logo_trans.gif" width="275" height="104" border="0" alt="Undercover Condoms - Cheap Condoms and Discount Personal Lubricants Online"></a>
-</div>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+
+<table style="width: 100%; border: 0px; background: #ffffff url('http://m.undercovercondoms.com/p/undercovercondoms/images/topHeaderBg.gif') repeat-x center top" cellpadding="0" cellspacing="0">
     <tbody><tr>    
-        <td bgcolor="#EEEEEE">
-            <table border="0" align="center" width="1024" cellpadding="3" cellspacing="0">
+        <td align="center">
+            <table style="border: 0px; width: 1016px" cellpadding="0" cellspacing="0">
                 <tbody><tr>
-                    <td><img id="logoTarget" src="http://m.undercovercondoms.com/p/undercovercondoms/images/1x1.gif" width="1" height="1" vspace="15" border="0" alt=""></td>
-                    
-                    <td align="right">
-                    
+                    <td rowspan="2" valign="top"><a href="http://www.undercovercondoms.com/" title="Undercover Condoms -- Buy Condoms Online"><img src="http://m.undercovercondoms.com/p/undercovercondoms/images/logo.gif" width="277" height="103" style="float: left; border: 0px; margin-bottom: 8px" alt="Undercover Condoms - Cheap Condoms and Discount Personal Lubricants Online"></a>
+					
+					</td>
+                    <td align="right" height="37">
+                    <script type="text/javascript">
+					var flashvars = {
+					  hoverColor: "ff9900",
+					  delay: 8,
+					  navType: 0,
+					  xmlFile: "/headline_slideshow.asp"
+					};
+					var params = {
+					  wmode: "transparent",
+					  menu: "false"
+					};
+					var headlinedivname = "altHeadline";
+					swfobject.embedSWF("/slideshow.swf", "altHeadline", "500", "37", "9.0.0", "/global/expressInstall.swf", flashvars, params);
+					</script>
+					
                             <div id="altHeadline">
                                 <a href="javascript:void(0);" onclick="window.open('/free_shipping_details.asp','','WIDTH=300,HEIGHT=300');">
                                 <img src="http://m.undercovercondoms.com/p/undercovercondoms/images/fs_header.gif" width="500" height="22" border="0" alt="Free Shipping on order over $29!"></a>
                             </div>
                         
                     </td>
-                
                 </tr>
-            </tbody></table>
-        </td>
-    </tr>
-    <tr>    
-        <td bgcolor="#FFFFFF">
-            <table border="0" align="center" width="1024" cellpadding="2" cellspacing="0">
-                <tbody><tr>
-                    <td><img src="http://m.undercovercondoms.com/p/undercovercondoms/images/1x1.gif" width="1" height="2" vspace="30" border="0" alt="">
-                    <img src="http://m.undercovercondoms.com/p/undercovercondoms/images/1x1.gif" width="2" height="1" hspace="150" border="0" alt=""></td>
-                    <td><img src="http://m.undercovercondoms.com/p/undercovercondoms/images/1x1.gif" width="2" height="1" hspace="100" border="0" alt=""></td>
-                    <td align="right" width="100%">
+				<tr>
+                    <td align="right">
                         <table border="0" align="right" cellpadding="2" cellspacing="0">
                             <tbody><tr>
                                 <td align="right">
@@ -370,25 +340,23 @@ function showOrderReason() {
 						                    <!--Start Condom Brands Menu-->
 						                    <td width="100%" valign="top">
 							                    
-							                    
-												<!-- BEGIN: Constant Contact Bubble Opt-in Email List Form -->
+												<!-- BEGIN: Email List Form -->
 												<div align="center">
-												<form name="ccoptin" action="http://visitor.r20.constantcontact.com/d.jsp" target="_blank" method="post" style="margin-bottom:2;">
-												<input type="hidden" name="llr" value="x8k8e5cab">
-												<input type="hidden" name="m" value="1102670834551">
-												<input type="hidden" name="p" value="oi">
+												<form method="post" action="https://app.icontact.com/icp/signup.php" name="icpsignup" id="icpsignup3811" accept-charset="UTF-8" onsubmit="return verifyRequired3811();">
+												<input type="hidden" name="redirect" value="http://www.icontact.com/www/signup/thanks.html">
+												<input type="hidden" name="errorredirect" value="http://www.icontact.com/www/signup/error.html">
 												<div style="font-weight: bold; font-family:Arial,Helvetica,sans-serif; font-size:11px; color:#000066; background-color: #dce8fd; margin-bottom: 2px; border-left: 1px solid #89b7ff; border-right: 1px solid #89b7ff">Join Our Email List</div>
-												<font style="font-weight: normal; font-family:Arial,Helvetica,sans-serif; font-size:10px; color:#000000;">Email:</font> <input type="text" name="ea" size="20" value="" style="font-family: Arial; font-size:10px; border:1px solid #999999;">&nbsp;<input type="submit" name="go" value="Join" class="submit" style="font-family:Arial,Helvetica,sans-serif; font-size:9px">
-												<input type="hidden" name="m" value="1102670834551">
-												<input type="hidden" name="p" value="oi">
-												</form>
-												</div>
-												<!-- END: Constant Contact Bubble Opt-in Email List Form -->
-												<!-- BEGIN: SafeSubscribe -->
-												<div align="center">
-												<a href="http://www.constantcontact.com/safesubscribe.jsp" target="_blank"><img src="http://img.constantcontact.com/ui/images1/safe_subscribe_logo.gif" border="0" width="168" height="14" alt=""></a>
-												</div>
-												<!-- END: SafeSubscribe -->
+												<font style="font-weight: normal; font-family:Arial,Helvetica,sans-serif; font-size:10px; color:#000000;">Email:</font> <input type="text" name="fields_email" size="14" value="" style="font-family: Arial; font-size:10px; border:1px solid #999999;">&nbsp;<input type="submit" name="Submit" value="Join" class="submit" style="font-family:Arial,Helvetica,sans-serif; font-size:9px">
+												<input type="hidden" name="listid" value="40631">
+												<input type="hidden" name="specialid:40631" value="RUGE">
+												<input type="hidden" name="clientid" value="1084786">
+												<input type="hidden" name="formid" value="3811">
+												<input type="hidden" name="reallistid" value="1">
+												<input type="hidden" name="doubleopt" value="0">
+												</form></div>
+												
+												
+												<!-- END: Email List Form -->
 												<hr>
 												
 												<div class="connect H5">Connect:<a href="http://www.facebook.com/undercovercondoms"><img src="http://m.undercovercondoms.com/p/undercovercondoms/images/facebook_button_sm.gif" border="0" height="24" width="24" alt="Pink Apple on Facebook"></a><a href="http://twitter.com/undercovercond"><img src="http://m.undercovercondoms.com/p/undercovercondoms/images/twitter_button_sm.gif" border="0" height="24" width="24" alt="Pink Apple on Twitter"></a><a href="http://blog.undercovercondoms.com"><img src="http://m.undercovercondoms.com/p/undercovercondoms/images/blog_button_sm.jpg" border="0" height="24" width="24" alt="Pink Apple Blog"></a></div>
@@ -529,7 +497,12 @@ function showOrderReason() {
 									                    <td><img src="http://m.undercovercondoms.com/p/undercovercondoms/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="reality female condom">
 									                    <font class="BlackMenu2"><a href="/Condoms/Types/Female/8/womens-condoms.html?DivID=CondomStyles">Female Condom</a></font>
 								                    </td></tr>
-								                    <tr>
+													<tr>
+									                    <td><img src="http://m.undercovercondoms.com/p/undercovercondoms/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="japanese condoms">
+									                    <font class="BlackMenu2"><a href="/Condoms/Types/Japanese/119/japanese-condoms.html?DivID=CondomStyles">Japanese Condoms</a></font>
+									                    </td>
+								                    </tr>
+													<tr>
 									                    <td><img src="http://m.undercovercondoms.com/p/undercovercondoms/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="large condoms">
 									                    <font class="BlackMenu2"><a href="/Condoms/Types/Larger/3/large-condoms.html?DivID=CondomStyles">Large Condoms</a></font>
 									                    </td>
@@ -659,8 +632,8 @@ function showOrderReason() {
 				                                        </td>
 			                                        </tr>
 			                                        <tr>
-				                                        <td><img src="http://m.undercovercondoms.com/p/undercovercondoms/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Blossum Organics">
-				                                        <font class="BlackMenu2"><a href="/Condoms/Brands/Blossom-Organics/200/Blossom-Organics.html">Blossum Organics</a></font>
+				                                        <td><img src="http://m.undercovercondoms.com/p/undercovercondoms/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Blossom Organics">
+				                                        <font class="BlackMenu2"><a href="/Condoms/Brands/Blossom-Organics/200/Blossom-Organics.html">Blossom Organics</a></font>
 				                                        </td>
 			                                        </tr>
 			                                        <tr>
@@ -694,6 +667,11 @@ function showOrderReason() {
 				                                        </td>
 			                                        </tr>
 			                                        <tr>
+				                                        <td><img src="http://m.undercovercondoms.com/p/undercovercondoms/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Swiss Navy Lubes">
+				                                        <font class="BlackMenu2"><a href="/Condoms/Brands/Swiss-Navy/209/Swiss-Navy.html">Swiss Navy Lubes</a></font>
+				                                        </td>
+			                                        </tr>
+			                                        <tr>
 				                                        <td><img src="http://m.undercovercondoms.com/p/undercovercondoms/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="System JO Lubricants">
 				                                        <font class="BlackMenu2"><a href="/Product/Types/System-JO/86/System-JO-Lubes.html?DivID=Lubricants">System JO Lubricants</a></font>
 				                                        </td>
@@ -718,8 +696,8 @@ function showOrderReason() {
 				                                        </td>
 			                                        </tr>
 			                                        <tr>
-				                                        <td><img src="http://m.undercovercondoms.com/p/undercovercondoms/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Organic Lubes">
-				                                        <font class="BlackMenu2"><a href="/Product/Types/Natural/432/Natural-Lubes.html?DivID=Lubricants">Organic Lubricants</a></font>
+				                                        <td><img src="http://m.undercovercondoms.com/p/undercovercondoms/images/1x1.gif" width="1" height="1" border="0" hspace="1" alt="Natural Lubes">
+				                                        <font class="BlackMenu2"><a href="/Product/Types/Natural/431/Natural-Lubes.html?DivID=Lubricants">Natural Lubricants</a></font>
 				                                        </td>
 			                                        </tr>
 			                                        <tr>
@@ -1058,7 +1036,7 @@ or by means of a notice on our homepage.<br></font>
 		        <td width="40%">
 		            <table border="0" width="100%">
 				        <tbody><tr>
-					        <td><font class="WhiteMenu2">All images and text Copyright 2002-2011 Undercover Condoms. 
+					        <td><font class="WhiteMenu2">All images and text Copyright 2002-2012 Undercover Condoms. 
 					        <br>Product Trademarks are the property of their respective owners.</font></td>
 				        </tr>
 				    </tbody></table>
@@ -1184,13 +1162,23 @@ try {
 var pageTracker = _gat._createTracker("UA-206197-1");
 
 
-
-pageTracker._trackPageview();
-_trackPageLoadTime();
-
-
 	pageTracker._setVar("B-Group");
 
+
+$(document).ready(function () {
+    console.log($(document).width() + "x" + $(document).height());
+    pageTracker._setCustomVar(
+            1,                            // This custom var is set to slot #1.  Required parameter.
+            "Browser Size",          // The top-level name for your online content categories.  Required parameter.
+            $(document).width() + "x" + $(document).height(),                     // Sets the value of "Section".  Required parameter.
+            1                             // Sets the scope to visitor-level.  Optional parameter.
+    );
+});
+
+
+
+pageTracker._trackPageview();
+pageTracker._trackPageLoadTime();
 
 } catch(err) {}
 </script>
