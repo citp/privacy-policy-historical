@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beautyencounter.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217143533id_/http%3A//www.beautyencounter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautyencounter.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511103211id_/http%3A//www.beautyencounter.com/privacy-policy) for the most accurate reproduction.*
 
-# Beauty Encounter – Designer Fragrance & Top Brand Name Beauty Bargains
+# Beauty Encounter - Privacy Policy
 
 |  |   
 ---  
