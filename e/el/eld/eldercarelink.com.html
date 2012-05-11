@@ -1,21 +1,25 @@
-<!--The following is the downloaded HTML source of the eldercarelink.com privacy policy that was archived on 2011-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111214020221id_/http%3A//www.eldercarelink.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eldercarelink.com privacy policy that was archived on 2012-05-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120511064449id_/http%3A//www.eldercarelink.com/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 
-	<meta name="WT.qs_dlk" content="whioaQrIZy4AAEHniV8AAAAa">
+	<meta name="WT.qs_dlk" content="EqLIeArIZ1cAAAhxb3UAAAA4">
 
-	<meta name="WT.qs_shmv" content="lv20100812-willie.sf.quinstreet.net">
-	<meta http-equiv="Set-Cookie" content="WMUUID=whioaQrIZy4AAEHniV8AAAAa; path=/;   domain=eldercarelink.com;">
+	<meta name="WT.qs_shmv" content="hv20100812-shaver.sf.quinstreet.net">
 
-	<meta name="inject_params" content="WT.qs_dlk=whioaQrIZy4AAEHniV8AAAAa&amp;">
+	<meta name="inject_params" content="WT.qs_dlk=EqLIeArIZ1cAAAhxb3UAAAA4&amp;">
 
-	<meta http-equiv="Set-Cookie" content="inject_params=WT.qs_dlk=whioaQrIZy4AAEHniV8AAAAa&amp;; path=/;   domain=eldercarelink.com;">
+	<meta http-equiv="Set-Cookie" content="inject_params=WT.qs_dlk=EqLIeArIZ1cAAAhxb3UAAAA4&amp;; path=/;  domain=eldercarelink.com;">
+	<meta http-equiv="Set-Cookie" content="WMUUID=EqLIeArIZ1cAAAhxb3UAAAA4; path=/;  domain=eldercarelink.com;">
 
-<link type="text/css" rel="stylesheet" href="/_combine.php?common.css,default.css,anythingslider.css,validationEngine.jquery.css,simpleModal.css,article.css,OrganicStyle.css,articleCategory.css,resources.css">
+<link type="text/css" rel="stylesheet" href="/_combine.php?common.css,default.css,anythingslider.css,validationEngine.jquery.css,article.css,OrganicStyle.css,articleCategory.css,resources.css">
 
+<link href="https://plus.google.com/117478296899416800246" rel="publisher">
+<meta property="fb:page_id" content="158995680795326">
+<meta name="cache-creation-time" content="Thu May 10 20:47:43 PDT 2012">
 </head>
-<body>            <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+<body>            <script type="text/javascript" src="/js/jquery-1.4.2.js">
+</script>
 <script type="text/javascript">
 			$(document).ready(function() {	
 				
@@ -37,12 +41,6 @@
 			});
 
 
-			/*$(function() {
-				$('.textGuidance').focus(function() {     
-			$(this).val('');
-				});
-			});*/
-			
 			function checkInput() {
 				var value = $('#cse-search-box [name="q"]').val();
 				value = value.replace(/^\s+|\s+$/g,'')
@@ -52,7 +50,8 @@
 				}
 			}
 
-			</script>
+			
+</script>
 
 			
 	<script type="text/javascript">
@@ -154,17 +153,52 @@
     	    }
     	    });
     	    }         
-	</script>
-         	    
-	<script type="text/javascript">    
-	        
-		/*function SmallG()
-		{
-		    var data = "{'emailAddress':'" + $(".textGuidance").val() + "'}";
-		    RegisterAjaxECLModal(".guidance", data, "#basic-modal-content", "#lnkSmallGuidance", "lnkSmallGuidance", "lnkSmallGuidanceDisabled");
-		}*/
-	                
-	</script>
+	
+</script>
+	<script type="text/javascript">
+			$(document).ready(function() {
+				$('#send').click(function(){
+					sendValue($(this).val());  
+					return false;
+		   
+				});
+
+			});
+
+			//function for signing up for newsletter
+		  function sendValue(str){
+
+			
+			//$(".error").hide();
+			var hasError = false;
+			$("div.error").remove();
+			var emailReg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
+
+			var emailVal = $("#email").val();
+			
+			if(emailVal == '') {
+			$("#email").before('<div class="error"><strong>Please enter your email address</strong></div>');
+			hasError = true;
+			} else if(!emailReg.test(emailVal)) {
+			$("#email").before('<div class="error"><strong>Please enter a valid email address</strong></div>');
+			hasError = true;
+			}
+			if (hasError)
+				return false;
+				
+			var path = $("#path").val();
+			//alert('hi ' + path+"newsletter-su/");
+
+			$.post(path+"newsletter-su/",{ email:emailVal },
+			function(data){ 
+				$("#newslettersignup").hide();
+				$("#signup_msg").show();
+			
+			});
+
+		}
+
+</script>
 
 
 
@@ -205,10 +239,6 @@
                     <ul class="horizontalList">
                         <li class="first"><a href="http://www.cnn.com/2008/HEALTH/family/03/20/ep.family.care/index.html#cnnSTCVideo">
                             <div id="cnnLogo"></div></a></li>
-                        <li style="display: none;">
-                            <input id="searchText" type="text" value=""></li>
-                        <li class="last" style="display: none;">
-                            <input type="image" src="images/index_Header_search.jpg"></li>
                     </ul>
                 </div>
                 <div id="bookmarkToolbar">
@@ -218,7 +248,7 @@
                             <li><a href="#">Subscribe</a></li> -->
                         <li><a href="#" class="jqbookmark">Add to Favorites</a></li>
                         <li class="last"><a href="http://www.addthis.com/bookmark.php" target="_blank" onclick="addthis_url = 'http://www.eldercarelink.com'; addthis_title = 'Caring for an elderly loved one?'; return addthis_click(this);">
-                            <img src="http://s9.addthis.com/button1-bm.gif" alt="Add This Social Bookmark Button"></a></li>
+                            <img src="../images/button1-bm.gif" alt="Add This Social Bookmark Button"></a></li>
                     </ul>
                 </div>
                 <div id="googleSearch">
@@ -229,7 +259,8 @@
 						<input size="19" name="q" style="border: 1px solid rgb(126, 157, 185); padding: 2px; background: url(&quot;http://www.google.com/cse/intl/en/images/google_custom_search_watermark.gif&quot;) no-repeat scroll left center rgb(255, 255, 255);">
 						<input type="submit" value="Search" name="sa" onclick="return checkInput()">
 						<script src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
-						</script>
+						
+</script>
 						<input type="hidden" name="siteurl" value="www.eldercarelink.com/">
 					</form>
 			  </div>
@@ -391,8 +422,7 @@
 </div>
 
 							</div>
-                          <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
-<style>
+                          <style>
 #answertxt {
     clear: both;
     color: #000000;
@@ -450,25 +480,22 @@ margin-top: 5px;
 							<div id="Iflowerborder">
 							</div>
 						</div>
-						<a href="/011011_Minding_Our_Elders_BookExcerpt.pdf" class="conversationGuide">
-						<img class="bookPromo" style="width: 310px;" src="/images/ECL_BookPromoBanner_image.png"></a>
-
 						<a href="/downloads/Senior_living_conversation_guide.pdf" class="conversationGuide">
 						<img src="/images/Senior_Living_conversation_guide.jpg" alt="Senior Living conversation guide"></a>
 						
 											<!-- modal content -->
-					<div id="basic-modal-content">
-						<div id="imageHeader"><img src="images/ModalLogo.jpg" alt""=""></div>
+					<!-- <div id="basic-modal-content">
+						<div id="imageHeader"><img src="images/ModalLogo.jpg" alt""></div>
 						<div id="modalContent">
 							<p>Thank you for signing up for our newletter. Your email has been added to our mailing list. To ensure that you receive our email, please add the following address to your address book.</p>									
 							<p>customersupport@eldercarelink.com</p>
 							<p>Note: if you do not receive our emails in your inbox, check your junk mail folder in case it was sent there by your spam filters.</p>								
 						</div>
 
-					</div>
+					</div> -->
 					
 					<!-- modal content -->            
-					<div id="bookPromoModalWindow">	            
+					<!--<div id="bookPromoModalWindow">	            
 						   <div id="bookPromoModalContent">
 	                            <h2>Download a Free Chapter Now</h2>
 		                        <p class="bookPromoModalContentTitle"> To download your free chapter of <i>Minding Our Elders</i>, please subscribe to our newsletter:</p>		                       
@@ -476,14 +503,14 @@ margin-top: 5px;
                                     <div>		             
 		                                <span>First Name:</span>
 
-		                                <input name="txtFirstName" type="text" id="txtFirstName" class="txtFirstName"> 
+		                                <input name="txtFirstName" type="text" id="txtFirstName" class="txtFirstName" /> 
 		                            </div>
                                     <p class="errorMessage">
                                        <label class="FirstNameNotSet">First Name is required.</label>
                                     </p>
 		                            <div>		                
 		                                <span>Last Name:</span>
-		                                <input name="txtLastName" type="text" id="txtLastName" class="txtLastName">
+		                                <input name="txtLastName" type="text" id="txtLastName" class="txtLastName" />
 		                            </div>
 
                                     <p class="errorMessage">
@@ -491,7 +518,7 @@ margin-top: 5px;
                                     </p>
 		                            <div>		            
 		                                <span>E-Mail:</span>
-		                                <input name="txtChapterEmail" type="text" id="txtChapterEmail" class="txtChapterEmail">
+		                                <input name="txtChapterEmail" type="text" id="txtChapterEmail" class="txtChapterEmail" />
 		                            </div>	
                                     <p class="errorMessage">
                                         <label class="addressInvalid">E-Mail address is not valid.</label>
@@ -499,64 +526,51 @@ margin-top: 5px;
                                     </p>
                                 </div>
                                 <div id="bookPromoModalContentBottom">
-		                            <img alt="download" class="downloadImage" src="images/orange_download.png">
+		                            <img alt="download" class="downloadImage" src="images/orange_download.png" />
 		                            <div class="divFooter"><a href="/tos.htm">Terms and Conditions</a></div>
                                 </div>		            	            
 	                        </div>
 					</div>
 
 					<!-- modal close button-->
-					<div id="clodeDiv">
-						<img src="images/x.png" alt="">
-					</div>					
+					<!--<div id="clodeDiv">
+						<img src='images/x.png' alt='' />
+					</div>	--> 				
 						
 						
 											<div class="guide" id="ctl00_guidance">
-                            <h1>Get Free Guidance</h1>
-                            <h2>Sign up for our newsletter to get caregiving tips, advice, and more.</h2>
-                            <input type="text" class="validate[required,custom[email]] cleanText textGuide" id="ctl00_txtEmail" value="Your email address" name="ctl00$txtEmail">                            
+                            <h1 style="padding-top: 3px;">Get Free Guidance</h1>
+                            <h2 style="padding-top: 1px;">Sign up for our newsletter to get caregiving tips, advice, and more.</h2>
+                            <!--<input type="text" class="validate[required,custom[email]] cleanText textGuide" id="ctl00_txtEmail" value="Your email address" name="ctl00$txtEmail">                            
                             <p class="lnkGuidance" id="lnkGuidance">                            
-                    		</p>
+                    		</p>-->
+							<div id="newslettersignup" class="signup" style="position: relative;float:left;top: -10px;*top: -18px;">
+						<form>
+							<input type="text" style="float: left; margin-left: 17px;" class="input" id="email" value="Your email address" onfocus="this.value = (this.value=='Your email address')? '' : this.value;" name="email">
+							<input type="hidden" id="path" value="http://www.eldercarelink.com/">
+							<input type="image" src="http://www.eldercarelink.com//images/index_body_goButton.jpg" class="img" id="send" style="position: relative; left: 10px; top: 5px;">
+						</form>
+					</div>
+					<!--<div class="lnkSmallGuidance" id="lnkSmallGuidance"></div>-->
+					<div id="signup_msg" class="signup" style="display:none">
+					  <div class="header">Thank You for Subscribing</div>
+					  <div class="text" style="padding-left: 10px; padding-top: 1px;">
+						You will receive your first newsletter soon.
+					  </div>
+					  
+			    </div>
                     	</div>
                     	
                     	
                     	<div class="quinStreetBox" id="ctl00_quinStreetBox">
-                        <a href="http://o1.qnsr.com/cgi/r?WT.qs_dlk=whioaQrIZy4AAEHniV8AAAAa;;;n=203;c=704540/507878/14;s=7835;x=2304;f=20697849;u=j;z=TIMESTAMP" target="_blank"><img border="0" width="300" height="250" src="http://o1.qnsr.com/cgi/x?;n=203;c=704540/507878/14;s=7835;x=2304;u=j;z=TIMESTAMP" alt="Click here"></a>
+                        <a href="http://o1.qnsr.com/cgi/r?WT.qs_dlk=EqLIeArIZ1cAAAhxb3UAAAA4;;n=203;c=704540/507878/14;s=7835;x=2304;f=20697849;u=j;z=TIMESTAMP" target="_blank"><img border="0" width="300" height="250" src="http://o1.qnsr.com/cgi/x?;n=203;c=704540/507878/14;s=7835;x=2304;u=j;z=TIMESTAMP" alt="Click here"></a>
                     	</div>
-											<div id="expertsAdvice">
-							<h2 class="related">Ask an expert</h2>
-							<div id="expertAdvice">
-								<p>
-									<img alt="expert" src="/images/rightimage.jpg"> <strong>Carol Bradley Bursack<br>
-										Editor-in-Chief
-										<br>
-									</strong>
-									<br>
-									<a href="http://www.npr.org/templates/story/story.php?storyId=126167767">LISTEN 
-										NOW: Hear Carol's recent interview on NPR's Talk of the Nation</a>
-								</p>
-								<p id="expertAdviceImages">
-									<img alt="NPR" src="/images/NPRLogo.jpg" class="npr"> <a class="more" href="/contributors.htm">
-										Read more&gt;</a>
-								</p>
-							</div>
-						</div>
-						
-			</div>
+								</div>
 </div>
 
 
 <script language="JavaScript" type="text/javascript">
 function validate_form(thisform) {
-/*
-	 if(($("#home").is(':checked')) || ($("#elder").is(':checked')) || ($("#adult").is(':checked'))){
-		 return true;
-	 }else{
-		 document.getElementById("CurrentRequirements").style.display = 'inline';
-		 document.getElementById("CurrentRequirements").focus();
-		 return false;
-	 }
-*/
 	 var pc = $("#step2_PC").val();
 
 	// var regEx = /[a-zA-Z][0-9][a-zA-Z](-| |)[0-9][a-zA-Z][0-9]/;
@@ -571,6 +585,7 @@ function validate_form(thisform) {
 	 		document.getElementById("PCe").className = 'required';
 	 	}
 }
+
 </script>
                 
            </div>
@@ -579,78 +594,27 @@ function validate_form(thisform) {
 
                 <script language="JavaScript">
                     var zflag_nid="203"; var zflag_cid="566316/509307/507878/14"; var zflag_sid="7835"; var zflag_width="728"; var zflag_height="90"; var
-                    zflag_sz="14"; var zflag_param="f=201001201522180";
-                </script>
+                    zflag_sz="14"; var zflag_param="WT.qs_dlk=EqLIeArIZ1cAAAhxb3UAAAA4;&f=201001201522180";
+                
+</script>
 
-                <script language="JavaScript" src="http://e1.cdn.qnsr.com/jsc/e1/fl.js"></script>
+                <script language="JavaScript" src="http://e1.cdn.qnsr.com/jsc/e1/fl.js">
+</script>
 
                 <noscript>
-                    <a href="http://o1.qnsr.com/cgi/r?WT.qs_dlk=whioaQrIZy4AAEHniV8AAAAa;;;n=203;c=566316/509307/507878/14;s=7835;x=3584;f=201001201522180;u=j;z=TIMESTAMP"
+                    <a href="http://o1.qnsr.com/cgi/r?WT.qs_dlk=EqLIeArIZ1cAAAhxb3UAAAA4;;n=203;c=566316/509307/507878/14;s=7835;x=3584;f=201001201522180;u=j;z=TIMESTAMP"
                         target="_blank">
                         <img border="0" width="728" height="90" src="http://o1.qnsr.com/cgi/x?;n=203;c=566316/509307/507878/14;s=7835;x=3584;u=j;z=TIMESTAMP"
                             alt="Click here"></a>
                 </noscript>
             </div>
-            <!-- modal content -->
-					<div id="basic-modal-content">
-						<div id="imageHeader"><img src="images/ModalLogo.jpg" alt""=""></div>
-						<div id="modalContent">
-							<p>Thank you for signing up for our newletter. Your email has been added to our mailing list. To ensure that you receive our email, please add the following address to your address book.</p>									
-							<p>customersupport@eldercarelink.com</p>
-							<p>Note: if you do not receive our emails in your inbox, check your junk mail folder in case it was sent there by your spam filters.</p>								
-						</div>
-
-					</div>
-					
-					<!-- modal content -->            
-					<div id="bookPromoModalWindow">	            
-						   <div id="bookPromoModalContent">
-	                            <h2>Download a Free Chapter Now</h2>
-		                        <p class="bookPromoModalContentTitle"> To download your free chapter of <i>Minding Our Elders</i>, please subscribe to our newsletter:</p>		                       
-                               <div id="bookPromoModalContentInput">
-                                    <div>		             
-		                                <span>First Name:</span>
-
-		                                <input name="txtFirstName" type="text" id="txtFirstName" class="txtFirstName"> 
-		                            </div>
-                                    <p class="errorMessage">
-                                       <label class="FirstNameNotSet">First Name is required.</label>
-                                    </p>
-		                            <div>		                
-		                                <span>Last Name:</span>
-		                                <input name="txtLastName" type="text" id="txtLastName" class="txtLastName">
-		                            </div>
-
-                                    <p class="errorMessage">
-                                        <label class="LastNameNotSet">Last Name is required.</label>
-                                    </p>
-		                            <div>		            
-		                                <span>E-Mail:</span>
-		                                <input name="txtChapterEmail" type="text" id="txtChapterEmail" class="txtChapterEmail">
-		                            </div>	
-                                    <p class="errorMessage">
-                                        <label class="addressInvalid">E-Mail address is not valid.</label>
-
-                                    </p>
-                                </div>
-                                <div id="bookPromoModalContentBottom">
-		                            <img alt="download" class="downloadImage" src="images/orange_download.png">
-		                            <div class="divFooter"><a href="/tos.htm">Terms and Conditions</a></div>
-                                </div>		            	            
-	                        </div>
-					</div>
-
-					<!-- modal close button-->
-					<div id="clodeDiv">
-						<img src="images/x.png" alt="">
-					</div>			
             <div id="footer">
                 <div id="footerImg">
                 </div>
                 <div id="footerContent">
                     <ul id="footerNav">
                         <li><a href="/about.htm">About Us</a></li>
-                        <li><a href="http://www.eldercarelinkdirectory.com" target="_blank">Caregiver Directory</a></li>
+                        <li><a href="provider-directory/" target="_blank">Caregiver Directory</a></li>
                         <li><a runat="server" id="TermsOfUseLink" href="/tos.htm">Terms of Use</a></li>
                         <li><a runat="server" id="PrivacyPolicyLink" href="/privacy.htm">Privacy Policy</a></li>
                         <li><a id="JoinOurNetworkLink" href="/network.htm" class="strong yellowText">
@@ -673,7 +637,9 @@ function validate_form(thisform) {
                 </div>
             </div>
       
-</div><script type="text/javascript" src="/_combine.php?jquery-1.4.2.js,bookmark.js,jquery.simplemodal.js,jquery.validationEngine.js,jquery.validationEngine-en.js,jquery.maskedinput.js,json2.js,dataCaptureService.js,jquery.easing.1.2.js,jquery.anythingslider.js,jquery.anythingslider.fx.js,behaviour.js,popunder.js,common.js"></script>
+</div>
+<script type="text/javascript" src="/_combine.php?jquery-1.4.2.js,jquery.validationEngine.js,jquery.validationEngine-en.js,jquery.easing.1.2.js,jquery.anythingslider.js,jquery.anythingslider.fx.js,common.js">
+</script>
 
     <script language="JavaScript" type="text/javascript">
 	var gDomain="www.qsstats.com";
