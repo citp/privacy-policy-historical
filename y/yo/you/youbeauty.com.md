@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youbeauty.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210094818id_/http%3A//www.youbeauty.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youbeauty.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511220357id_/http%3A//www.youbeauty.com/privacy) for the most accurate reproduction.*
 
 # YouBeauty - The Science of a Beautiful You
 
@@ -10,11 +10,7 @@ In order to use certain services of YouBeauty, such as creating a profile, addin
 
 ### Advertising
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice, and to know your choices about not having this information used by these companies, click here.
-
-We use a third-party advertising company to serve ads when you visit our Web site. This company may use information (not including your name, address, email address or telephone number) about your visit to this Web site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. If you would like more information about this practice and to know your choices about not having this information used by this company, please click here.
-
-<http://www.doubleclick.net/us/corporate/privacy>
+We use a third-party advertising company to serve ads when you visit our Web site. This company may use information (not including your name, address, email address or telephone number) about your visit to this Web site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. If you would like more information about this practice and to know your choices about not having this information used by this company, please [click here](http://www.google.com/intl/en/policies/privacy/).
 
 ### The Information We Collect
 
@@ -31,7 +27,7 @@ We use a third-party advertising company to serve ads when you visit our Web sit
 
 We neither rent nor sell your personal information to anyone. We share your information only with the entities as described below:
 
-  * Affiliates – YouBeauty is affiliated with a variety of businesses. We will only share information that is necessary for the affiliate to compete a process (a transaction, for example). We require our affiliates to provide the same leel of privacy protection that we do.
+  * Affiliates – YouBeauty is affiliated with a variety of businesses. We will only share information that is necessary for the affiliate to compete a process (a transaction, for example). We require our affiliates to provide the same level of privacy protection that we do.
   * Agents – YouBeauty may employ other companies to perform tasks on our behalf (such as Customer Service), and as such, may need to share some of your information with them.
   * Promotions – We may send promotional offers to registered users on behalf of other businesses. However, we will never provide these businesses with your address or phone number, and you can cancel the receipt of these offers by emailing us at legal@youbeauty.com.
   * Business Transfers – In the case of YouBeauty acquiring or selling assets, personal customer information will be considered a core business asset and as such, we retain the right to transfer this information as part of any such transaction.
