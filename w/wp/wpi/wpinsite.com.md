@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpinsite.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110100930id_/http%3A//www.wpinsite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpinsite.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511150403id_/http%3A//www.wpinsite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WPInsite
 
@@ -19,7 +19,7 @@ If requested information is not provided, WPInsite may be unable to complete a t
 **New Email Broadcasting Laws**  
 The Spam Act 2003 came into effect on the 10 th of April 2004 , throughout Australia . The Act refers to spam as “unsolicited commercial electronic messaging”.
 
-The act requires that we get your explicit permission to send you our email specials and promotions. If you no longer wish to receive communication from us, please unsubscribe from our mailing list, [contact us](http://www.wpinsite.com/contact-us/ "\[gravityform id=1 name=Contact ajax=true\]") by email, phone, fax or mail.
+The act requires that we get your explicit permission to send you our email specials and promotions. If you no longer wish to receive communication from us, please unsubscribe from our mailing list, [contact us](http://www.wpinsite.com/contact-us "contact us") by email, phone, fax or mail.
 
 Important Note: The WPInsite email database is managed in accordance with Privacy Act 1988 (Privacy Amendment (Private Sector) Act 2000 and it’s email marketing practices comply with the provisions of the Spam Act 2003.
 
