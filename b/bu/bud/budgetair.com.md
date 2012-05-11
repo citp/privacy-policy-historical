@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the budgetair.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104132020id_/http%3A//www.budgetair.com/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgetair.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511174237id_/http%3A//www.budgetair.com/aboutus/privacy) for the most accurate reproduction.*
 
 # BudgetAir.com | privacy
 
@@ -24,6 +24,8 @@ One of our goals in collecting this information is to help customize your user e
 ### Web Beacons
 
 We and our third-party tracking service partners employ a software technology called Web Beacons that help us better manage content on our site by informing us what content is effective. Web Beacons are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, Web Beacons are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information.
+
+If you would like more information about this practice or to opt out of having this information used by companies that are part of the Network Advertising Initiative to provide targeted ads, please [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 We may also use Web Beacons in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see "Choice and Opt-out." 
 
