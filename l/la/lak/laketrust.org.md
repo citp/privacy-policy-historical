@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the laketrust.org privacy policy that was archived on 2011-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110904135513id_/http%3A//www.laketrust.org/Privacy_24.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laketrust.org privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511145052id_/http%3A//www.laketrust.org/Privacy-24.html) for the most accurate reproduction.*
 
-# Lake Trust Credit Union: Privacy
-
-[](https://www.addthis.com/bookmark.php?v=250&username=xa-4cd8451d769b33ef)
+# Privacy - Lake Trust Credit Union
 
 At Lake Trust Credit Union, we believe that respecting and protecting the privacy of our members is an essential part of the services we provide. We invite you to read through this privacy notice, which explains Lake Trust's privacy policy and practices related to the personal information we collect and disclose about our members. You'll also find information about the parties who receive personal and sometimes nonpublic information from us as we conduct the business of the Credit Union.
 
