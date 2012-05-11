@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the galawallpapers.net privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102011429id_/http%3A//www.galawallpapers.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galawallpapers.net privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511234348id_/http%3A//www.galawallpapers.net/privacy.php) for the most accurate reproduction.*
 
 # Wallpapers
 
