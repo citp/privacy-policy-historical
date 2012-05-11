@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popshops.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123095939id_/http%3A//popshops.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popshops.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511030347id_/http%3A//www.popshops.com/support/privacy-policy) for the most accurate reproduction.*
 
 # PopShops.com :: Privacy policy
 
@@ -70,13 +70,11 @@ If there are updates to the terms of PopShops's Online Privacy Statement, we wil
 We value your opinions. If you have comments or questions about our privacy policy, please send them to privacy@popshops.com or write to us at the following address:
 
 PopShops  
-PO Box 14122  
-Seattle, WA 98114  
-Attention: Privacy  
-
+2107 Elliott AVenue - Suite 208  
+Seattle WA 98121 
 
 Email: privacy@popshops.com
 
 Web site URL: popshops.com
 
-Rev. Oct 2006
+Rev. Apr 2012
