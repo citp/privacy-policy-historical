@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the naturalwellbeing.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229104819id_/http%3A//www.naturalwellbeing.com/nwb/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalwellbeing.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511193306id_/http%3A//www.naturalwellbeing.com/nwb/privacy_policy) for the most accurate reproduction.*
 
 # NaturalWellbeing.com Privacy Policy
 
 **Your privacy is very important to us.**
 
-Pet Wellbeing is committed to protecting the privacy of our customers' information. Whether we gather your personal information on the Internet or by other means, we pledge: 
+NaturalWellbeing is committed to protecting the privacy of our customers' information. Whether we gather your personal information on the Internet or by other means, we pledge:
 
   * To ship your order in plain packaging.
   * Not to sell, give away, or otherwise communicate your personal information to any other persons or companies.
@@ -21,12 +21,12 @@ We will contact you via email:
 
 
 
-Pet Wellbeing DOES NOT and WILL NOT engage in the following activities:
+NaturalWellbeing DOES NOT and WILL NOT engage in the following activities:
 
   * Unsolicited postal mail (junk mail)
   * Unsolicited phone calls (telemarketing)
-  * Unsolicited faxes (junk fax) 
+  * Unsolicited faxes (junk fax)
 
 
 
-If you have any questions or concerns about Pet Wellbeing's privacy policy, please contact us and we will be pleased to discuss our policy with you. 
+If you have any questions or concerns about NaturalWellbeing's privacy policy, please contact us and we will be pleased to discuss our policy with you.
