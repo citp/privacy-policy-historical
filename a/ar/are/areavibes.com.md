@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the areavibes.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206043534id_/http%3A//www.areavibes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the areavibes.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511090334id_/http%3A//www.areavibes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AreaVibes
 
@@ -20,3 +20,5 @@ AreaVibes Inc. may also collect information about your computer and your browsin
 AreaVibes Inc. may display information and links from advertisers, affiliates and other partners. We expect this information to be displayed in a manor alike to our terms of use and privacy policy. However, third parties, may abide by their own terms of use and privacy policy. AreaVibes Inc. is not affiliated with these third parties and is not responsible for the content or actions of these third parties.
 
 AreaVibes Inc. reserves the right to change or update this privacy policy at any time, without notice. Please revisit this privacy policy periodically to ensure you are aware of any such changes. AreaVibes Inc. may, at any time, restrict your access to this website. If you continue use of this website, then by default you agree to the privacy policy.
+
+AreaVibes Inc. may use Google site stats to track conversions and clicks from Google Adwords. This is a small piece of code that is attached to our pages to determine when a page has been visited.
