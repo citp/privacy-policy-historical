@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torrentprivacy.com privacy policy that was archived on 2011-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111019112909id_/https%3A//torrentprivacy.com/index.php%3Fmod%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torrentprivacy.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511053700id_/https%3A//torrentprivacy.com/index.php%3Fmod%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@
 
 This Privacy Policy is effective as of: 08/01/2011.
 
-Your privacy is important, so Torrentprivacy, Inc. has created the following Privacy Policy to let you know what information we collect when you visit our website, www.torrentprivacy.com ("Site"), why we collect it and how it is used. This Privacy Policy explains the data collection and use practices of the Site; it does not apply to other online sites, products or services. The terms "you," "your," "yours," and "user" refer to the user or visitor using, accessing, or viewing our Site. The terms " Torrentprivacy," "we," "us," and "our" refer to Torrentprivacy, Inc.
+Your privacy is important, so Bonton Limited has created the following Privacy Policy to let you know what information we collect when you visit our website, www.torrentprivacy.com ("Site"), why we collect it and how it is used. This Privacy Policy explains the data collection and use practices of the Site; it does not apply to other online sites, products or services. The terms "you," "your," "yours," and "user" refer to the user or visitor using, accessing, or viewing our Site. The terms " Torrentprivacy," "we," "us," and "our" refer to Bonton Limited
 
 By using the Site, you consent to the data collection and use practices prescribed in this Privacy Policy. We may periodically make changes to this Privacy Policy that we will include on this page. It is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often.
 
@@ -82,4 +82,4 @@ We may occasionally update this Privacy Policy. When we do, we will indicate the
 
 If you have any questions regarding this Privacy Policy, please contact [ ceo@torrentprivacy.com](mailto:ceo@torrentprivacy.com).
 
-**© 2011 Torrentprivacy, Inc. All Rights Reserved.**
+**© 2011 Bonton Limited All Rights Reserved.**
