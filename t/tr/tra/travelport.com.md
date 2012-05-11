@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the travelport.com privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014203728id_/http%3A//www.travelport.com/legal/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelport.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511105235id_/http%3A//www.travelport.com/Privacy-Policy) for the most accurate reproduction.*
 
-# Travelport.com - Privacy Policy
+# Travelport | Privacy Policy
 
 Welcome to this **Travelport** Web site (this **"Web Site"** ). We at **Travelport** (referred to as **"Travelport," "We," "Us," or "Our"** ) recognize the importance of protecting the privacy of personally identifiable information (“ **Personal Information”** ) about the individual travelers that we process in and store in Our global distribution systems and about the **users and visitors** of Our Web Site (referred to as **"User," "You" or "Your"** ). The following privacy policy (this **“Privacy Policy”** ) discloses what information We gather, how We use it, and how to correct or change it (please note, however, that We may update and amend this Privacy Policy from time to time). At Travelport, it is Our intention to give You an understanding about how We collect Your information and the use We make of it in the course of Our business.
 
