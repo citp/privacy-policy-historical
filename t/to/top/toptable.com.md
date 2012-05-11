@@ -1,34 +1,9 @@
-> *The following text is extracted and transformed from the toptable.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227043720id_/http%3A//www.toptable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toptable.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511023509id_/http%3A//www.toptable.com/privacy) for the most accurate reproduction.*
 
 # Privacy statement
 
   * [Home](https://web.archive.org/ "Home")
-    * [Austria](https://web.archive.org/location/content/?l=3499 "Austria")
-    * [Belgium](https://web.archive.org/location/content/?l=3315 "Belgium")
-    * [Channel Islands](https://web.archive.org/location/content/?l=4741 "Channel Islands")
-    * [France](https://web.archive.org/location/content/?l=3301 "France")
-    * [Germany](https://web.archive.org/location/content/?l=3309 "Germany")
-    * [Ireland](https://web.archive.org/location/content/?l=3317 "Ireland")
-    * [Italy](https://web.archive.org/location/content/?l=3303 "Italy")
-    * [Malta](https://web.archive.org/location/content/?l=4846 "Malta")
-    * [Netherlands](https://web.archive.org/location/content/?l=3313 "Netherlands")
-    * [Portugal](https://web.archive.org/location/content/?l=3419 "Portugal")
-    * [Spain](https://web.archive.org/location/content/?l=3302 "Spain")
-    * [Sweden](https://web.archive.org/location/content/?l=3595 "Sweden")
-    * [Switzerland](https://web.archive.org/location/content/?l=3500 "Switzerland")
-    * [UK](https://web.archive.org/location/content/?l=1 "UK")
-  * [UK](https://web.archive.org/location/content/?l=1 "UK")
-    * [East Anglia](https://web.archive.org/location/content/?l=5 "East Anglia")
-    * [East Midlands](https://web.archive.org/location/content/?l=10 "East Midlands")
-    * [London](https://web.archive.org/location/content/?l=7 "London")
-    * [North East England](https://web.archive.org/location/content/?l=4 "North East England")
-    * [North West England](https://web.archive.org/location/content/?l=12 "North West England")
-    * [Northern Ireland](https://web.archive.org/location/content/?l=11 "Northern Ireland")
-    * [Scotland](https://web.archive.org/location/content/?l=2 "Scotland")
-    * [South East England](https://web.archive.org/location/content/?l=3 "South East England")
-    * [South West England](https://web.archive.org/location/content/?l=13 "South West England")
-    * [Wales](https://web.archive.org/location/content/?l=6 "Wales")
-    * [West Midlands](https://web.archive.org/location/content/?l=9 "West Midlands")
+    * [New York](https://web.archive.org/location/content/?l=3307 "New York")
 
 
 
