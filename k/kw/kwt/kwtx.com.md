@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kwtx.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102011947id_/http%3A//www.kwtx.com/unclassified/34218884.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kwtx.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511193647id_/http%3A//www.kwtx.com/unclassified/34218884.html) for the most accurate reproduction.*
 
 # GRAY TELEVISION, INC. PRIVACY POLICY AND YOUR PRIVACY RIGHTS
 
