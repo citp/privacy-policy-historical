@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slopswap.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110020755id_/http%3A//slopswap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slopswap.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511105529id_/http%3A//slopswap.com/privacy-policy) for the most accurate reproduction.*
 
 # Disclaimer, Disclosure, Privacy Policy — Slop Swap
 
