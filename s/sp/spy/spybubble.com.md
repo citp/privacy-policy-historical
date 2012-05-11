@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the spybubble.com privacy policy that was archived on 2010-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100202163108id_/http%3A//www.spybubble.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spybubble.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511035923id_/http%3A//www.spybubble.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Spy Bubble - Truth Exposed
+# Privacy Policy | SpyBubble
 
 Privacy Policy
 
 This privacy policy applies to the use of http://www.spybubble.com
 
-We highly value your privacy and make this policy easily available throughout our site to assist you in understanding the handling of information in the course of using this site. 
+We highly value your privacy and make this policy easily available throughout our site to assist you in understanding the handling of information in the course of using this site.
+
+**Disclaimer**
+
+It is the responsibility of the user of SpyBubble to ascertain, and obey, all applicable laws in their country in regard to the use of SpyBubble for "sneaky purposes". If you are in doubt, consult your local attorney before using SpyBubble. By downloading and installing SpyBubble, you represent that SpyBubble will be used in only a lawful manner. Logging other people's SMS messages & other phone activity or installing SpyBubble on another person's phone without their knowledge can be considered as an illegal activity in your country. SpyBubble assumes no liability and is not responsible for any misuse or damage caused by us. It's final user's responsibility to obey all laws in their country. By purchasing & downloading SpyBubble, you hereby agree to the above.
 
 **Log Files and Cookies**
 
@@ -26,11 +30,11 @@ This website may contain links to other sites that are not controlled in any way
 
 Registration is required in order to use or access this website.
 
-If you do register, and in the process provide us with personally identifiable information, rest assured that any such information you provide will not be shared with any third-party organization except with your express consent. 
+If you do register, and in the process provide us with personally identifiable information, rest assured that any such information you provide will not be shared with any third-party organization except with your express consent.
 
-We also provide visitors to our website the opportunity to opt-in to receive communications from us. In this case, we ask the visitor for his or her email address and name. These communications will include our regular newsletter, product promotions and any other information that we feel may be pertinent to the visitor. You may opt out of receiving any, or all, of these communications by emailing us at [admin@spybubble.com](mailto:admin@spybubble.com), by clicking on the unsubscribe link in any email we send to you, by replying to any email we send you and entering the word UNSUBSCRIBE in the subject line.
+We also provide visitors to our website the opportunity to opt-in to receive communications from us. In this case, we ask the visitor for his or her email address and name. These communications will include our regular newsletter, product promotions and any other information that we feel may be pertinent to the visitor. You may opt out of receiving any, or all, of these communications by emailing us at [admin@spybubble.com](mailto:admin@spybubble.com), by clicking on the unsubscribe link in any email we send to you, by replying to any email we send you and entering the word UNSUBSCRIBE in the subject line. 
 
-Again, if you provide us with your email address and/or name for the purposes of receiving communications from us, this information will not be shared with any third-party organization except with your express consent. 
+Again, if you provide us with your email address and/or name for the purposes of receiving communications from us, this information will not be shared with any third-party organization except with your express consent.
 
 **Access to Personally Identifiable Information**
 
@@ -38,7 +42,7 @@ If your personally identifiable information changes, or if you no longer wish us
 
 **Security**
 
-We follow accepted industry standards to protect any personal information you have provided to us. However, please be aware that no method of electronic storage can ever be 100% secure. Therefore as is the case with any organization - we are not in a position to guarantee the absolute security of your information. 
+We follow accepted industry standards to protect any personal information you have provided to us. However, please be aware that no method of electronic storage can ever be 100% secure. Therefore as is the case with any organization - we are not in a position to guarantee the absolute security of your information.
 
 You may submit any questions you may have about our security procedures by emailing us at [admin@spybubble.com](mailto:admin@spybubble.com)
 
