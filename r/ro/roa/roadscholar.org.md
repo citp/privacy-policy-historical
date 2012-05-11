@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the roadscholar.org privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102063441id_/http%3A//www.roadscholar.org/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadscholar.org privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511065758id_/http%3A//www.roadscholar.org/about/privacy.asp) for the most accurate reproduction.*
 
 # Road Scholar : Privacy Policy
 
 | 
 
-This is the website of Road Scholar It is our goal to provide the best online experience possible for our visitors. At the same time, we are very sensitive to the privacy concerns of our visitors and participants alike. 
+This is the website of Road Scholar. It is our goal to provide the best online experience possible for our visitors. At the same time, we are very sensitive to the privacy concerns of our visitors and participants alike. 
 
 **How we protect your name, address, and email address:**
 
@@ -12,8 +12,8 @@ We will not sell or rent your name, address, email address or purchase history t
 
 We use your name and address to send you catalogs, brochures and, once you enroll in a program, program information.
 
-We save the email addresses of those who send them to us but will only contact individuals directly with their permission, which can be changed in the [My Account](http://www.roadscholar.org/account/myaccount.asp) section of our website. We use your email address to send you order confirmations, newsletters (if you choose to receive these), and to collect feedback on programs you have attended as well as information regarding your interests and other details which might help us alert you to programs that you might find interesting, or help us develop new programs.
-
+We save the email addresses of those who send them to us but will only contact individuals directly with their permission, which can be changed in the [My Account](http://www.roadscholar.org/account/myaccount.asp) section of our website. We use your email address to send you order confirmations, newsletters (if you choose to receive these), and to collect feedback on programs you have attended as well as information regarding your interests and other details which might help us alert you to programs that you might find interesting, or help us develop new programs.   
+  
 **How we protect your billing information:**
 
 When you are conducting an account transaction or registering to receive the Road Scholar Enews Bulletin or paper catalogs, we always use industry-standard encryption technologies to protect your personal information. We are secured by VeriSign, the leading provider of Secure Sockets Layer (SSL) protocol encryption keys. SSL encryption electronically masks any information you send us. 
@@ -53,6 +53,8 @@ You can also fax us toll-free at
 |  |    
 
 
+[](http://www.roadscholar.org/lps/speakerseries.asp?cm_sp=Plug-_-Boomer-_-Speaker0512)
+
 **I WANT TO LEARN ABOUT ...**   
   
 **in**   
@@ -62,10 +64,15 @@ You can also fax us toll-free at
 
 Add price, activity level and more. 
 
-[ ](http://www.roadscholar.org/lps/blog_participants.asp?cm_sp=Plug-_-Boomer-_-PaxBlog)
+[ ](http://www.roadscholar.org/lps/blog_participants.asp?cm_sp=Plug-_-Boomer-_-Blog811Boom)
 
-[ ](http://www.roadscholar.org/programs/search_res.asp?src=1-5T8HWP&cm_sp=Plug-_-Boomer-_-TopRatedB611)
+[ ](http://www.roadscholar.org/programs/enewslanding.asp?ecode=AWP&layout=PL&cm_sp=Plug-_-Boomer-_-TopRatedB611)
 
-* * *
+[ ](http://www.roadscholar.org/programs/special_offers.asp?cm_sp=Plug-_-Boomer-_-SpecialOffers)
+
+[ ](http://www.roadscholar.org/about/gift_certificate.asp?cm_sp=Plug-_-Boomer-_-GiftCert0512)
+
+  
+
 
 * * *
