@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beaumont.edu privacy policy that was archived on 2011-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110917171348id_/http%3A//www.beaumont.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beaumont.edu privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511212502id_/http%3A//www.beaumont.edu/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policies | Beaumont Health System
+# Privacy Policies
 
 ## HIPAA Notice of Privacy Policy
 
