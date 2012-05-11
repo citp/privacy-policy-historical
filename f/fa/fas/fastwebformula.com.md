@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fastwebformula.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011203818id_/http%3A//www.fastwebformula.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastwebformula.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511124418id_/http%3A//www.fastwebformula.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy :: Fast Web Formula :: Internet Business Marketing :: James Schramko
 
 SuperFastBusiness Privacy Notice
 
