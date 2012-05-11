@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nyandcompany.com privacy policy that was archived on 2010-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100123142112id_/http%3A//www.nyandcompany.com/nyco/company/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyandcompany.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511033435id_/http%3A//www.nyandcompany.com/nyco/company/privacy.jsp) for the most accurate reproduction.*
 
 # New York & Company
 
@@ -22,7 +22,7 @@ New York & Company believes it is important to let visitors to nyandcompany.com 
 
 Shopping:
 
-When you shop at nyandcompany.com, we will collect the information necessary to complete your order, such as your name, e-mail address, shipping address, payment information (including credit card number and/or debit card number) and billing address. You may also choose to provide us with your gender and birth date. If you create an [Account](https://web.archive.org/nyco/myaccount/profile.jsp?selected=profile), we will collect information about your purchases and payment methods, as well as the shipping addresses that you add to your Address Book, in order to make future shopping experiences faster and more convenient. You may change or delete the saved information anytime. Simply go to [My Account](https://web.archive.org/nyco/myaccount/profile.jsp?selected=profile), and log in with your email address and password. You may edit or delete whatever personal information you wish. 
+When you shop at nyandcompany.com, we will collect the information necessary to complete your order, such as your name, e-mail address, shipping address, payment information (including credit card number and/or debit card number) and billing address. You may also choose to provide us with your gender and birth date. If you create an Account, we will collect information about your purchases and payment methods, as well as the shipping addresses that you add to your Address Book, in order to make future shopping experiences faster and more convenient. You may change or delete the saved information anytime. Simply go to My Account, and log in with your email address and password. You may edit or delete whatever personal information you wish. 
 
 Contests:
 
@@ -30,7 +30,7 @@ We will collect personal information from you at this Website whenever you enter
 
 New York & Company Credit Card:
 
-If you apply online for a [New York & Company credit card](https://web.archive.org/nyco/article/articleTemplate.jsp?pageUrl=/html/catalog/benefits-creditCard.html&heading=Benefits), you will be providing your personal information directly to the issuing bank for the New York & Company credit card. However, your name, address, phone number, birth date and credit card account number, as well as any additional information necessary for us to provide you with the bonuses and benefits of a New York & Company credit card, may be provided to us by the card issuer.
+If you apply online for a New York & Company credit card, you will be providing your personal information directly to the issuing bank for the New York & Company credit card. However, your name, address, phone number, birth date and credit card account number, as well as any additional information necessary for us to provide you with the bonuses and benefits of a New York & Company credit card, may be provided to us by the card issuer.
 
 General Browsing:
 
@@ -68,7 +68,7 @@ If you would prefer that we not share your name and mailing address with third p
 
 If you do not wish to receive e-mails about special offers, new fashion trends, contests and other promotions from nyandcompany.com click here to opt out, or if you do not wish to receive other marketing materials by regular mail from nyandcompany.com, please call us at (800) 723-5333 (ext. 42015). 
 
-New York & Company recognizes the importance of children's safety and privacy. The Website is not designed to attract children, and is not intended for use by any children under the age of 13. We do not request, or knowingly collect, any personally identifiable information from children under the age of 13. Children under the age of 18 may use the Website only under the supervision of a parent or legal guardian who agrees to be bound by the [Terms of Use](https://web.archive.org/nyco/company/terms.jsp). 
+New York & Company recognizes the importance of children's safety and privacy. The Website is not designed to attract children, and is not intended for use by any children under the age of 13. We do not request, or knowingly collect, any personally identifiable information from children under the age of 13. Children under the age of 18 may use the Website only under the supervision of a parent or legal guardian who agrees to be bound by the Terms of Use. 
 
 New York & Company collects various types of personal information about you during the course of your relationship with New York & Company as a customer. Under California law, if you are a resident of California, you may make a written request to New York & Company about how we have shared your information with third parties for their direct marketing purposes. In response to your written request, New York & Company is allowed to provide you with a notice describing the cost-free means to opt-out of our sharing your information with third parties with whom we do not share the same brand name, if the third party will use such information for its direct marketing purposes. 
 
@@ -85,7 +85,7 @@ Att: Customer Service
 
 If you are visiting the Website from a location outside of the U.S., your connection will be through and to servers located in the U.S. All information you receive from the Website will be created on servers located in the U.S., and all information you provide will be securely maintained on Web servers and systems located within the U.S. 
 
-We prefer to keep your personal information accurate and up-to-date. If you would like to change your contact information, please go to [My Account](https://web.archive.org/nyco/myaccount/profile.jsp?selected=profile), and log in with your email address and password, or call us at (800) 723-5333 (ext. 42015). 
+We prefer to keep your personal information accurate and up-to-date. If you would like to change your contact information, please go to My Account, and log in with your email address and password, or call us at (800) 723-5333 (ext. 42015). 
 
 For your convenience, the Website may contain links to other websites. New York & Company is not responsible for the privacy practices, advertising, products, or the content of such other websites. None of the links should be deemed to imply that New York & Company endorses or has any affiliation with the links. 
 
