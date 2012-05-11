@@ -1,97 +1,346 @@
-<!--The following is the downloaded HTML source of the thegnomonworkshop.com privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231204952id_/http%3A//www.thegnomonworkshop.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thegnomonworkshop.com privacy policy that was archived on 2012-05-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120511121059id_/http%3A//www.thegnomonworkshop.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>The Gnomon Workshop | Privacy Policy</title>
-<meta name="keywords" content="The Gnomon Workshop | Privacy Policy">
+<!--Meta content start-->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="Author" content="The Gnomon Workshop">
+<meta name="copyright" content="© 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012">
+<meta http-equiv="Content-Language" content="en-US">
+<meta name="keywords" lang="en-US" content="Privacy Policy,">
+<meta name="robots" content="all">
+<meta name="description" content="Gnomon's privacy policy covers the collection and use of personal information that may be collected by Gnomon anytime you interact with Gnomon, such as when you visit our website, when you purchase Gnomon products, or when you call our sales or support associates.">
+<!-- Global Includes -->
 
-<!-- Plugin styles -->
-		<link rel="stylesheet" type="text/css" href="http://www.thegnomonworkshop.com/css/sliderkit-core.css" media="screen, projection">
-		<link rel="stylesheet" type="text/css" href="http://www.thegnomonworkshop.com/css/sliderkit.css" media="screen, projection">
- 
-        
- 
- 
- <script language="javascript" type="text/javascript" src="http://www.thegnomonworkshop.com/scripts/jquery-1.4.2.min.js"></script>
- 
-	<!-- Plugin scripts -->
-		<script type="text/javascript" src="http://www.thegnomonworkshop.com/scripts/jquery-1.3.min.js"></script>
-		<script type="text/javascript" src="http://www.thegnomonworkshop.com/scripts/jquery.sliderkit.1.5.1.js"></script> 
-		<script type="text/javascript" src="http://www.thegnomonworkshop.com/scripts/jquery.easing.1.3.min.js"></script>
-		<script type="text/javascript" src="http://www.thegnomonworkshop.com/scripts/jquery.mousewheel.min.js"></script>
+<!-- Global Includes -->
+<link rel="shortcut icon" href="/img/Favicon.ico">
+<link rel="icon" href="/img/Favicon.png" type="image/png">
+<link href="/css/globalStyles.css" rel="stylesheet" type="text/css">
 
-<!-- Launch Slider Kit -->
-		<script type="text/javascript">
-			jQuery(window).load(function(){ //jQuery(window).load() must be used instead of jQuery(document).ready() because of Webkit compatibility				
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.js"></script>
+<script type="text/javascript" src="http://www.thegnomonworkshop.com/scripts/jquery.easing.1.3.min.js"></script>
+<script type="text/javascript" src="http://www.thegnomonworkshop.com/scripts/jquery.mousewheel.min.js"></script>
 
-				 
+<!-- Custom GW menu script -->
+<script type="text/javascript" src="http://thegnomonworkshop.com/menu/assets/js/jquery-GW-menu.js"></script>
+<script type="text/javascript" src="http://thegnomonworkshop.com/menu/assets/js/jquery.easyListSplitter.js"></script>
 
-				// Slideshow > Header
-				jQuery(".slideshow-standard").sliderkit({
-					auto:true,
-					autospeed:10000,
-					circular:true 
-				});
- 
-	
-			});	
-		</script>
+<!-- Menu backend Styles -->
+<link type="text/css" href="http://thegnomonworkshop.com/menu/assets/css/jquery-ui-1.8.16.custom.css" rel="stylesheet">
+<!--<link type="text/css" href="menu/assets/css/amms.css"  rel="stylesheet" />-->
 
-<!--Include code start-->
-<script src="http://www.thegnomonworkshop.com/js/jquery.include-2.js" type="text/javascript"></script>
 <script type="text/javascript">
-	// <![CDATA[
+function theRotator() {
+	//Set the opacity of all images to 0
+	$('div.rotator ul li').css({opacity: 0.0});
+	
+	//Get the first image and display it (gets set to full opacity)
+	$('div.rotator ul li:first').css({opacity: 1.0});
 		
-	// post-process the includes:
-	$(document).includeReady(function () {
-		//$('body').append('<p><b>Successfully loaded ' + $('li').length + ' list items</b></p>');
-	});
+	//Call the rotator function to run the slideshow, 6000 = change to next image after 6 seconds
 	
-	// ]]>
-</script>
-<!--Include code end-->
-<!--Tabs code start-->
-<script src="http://www.thegnomonworkshop.com/js/jquery.tabs.pack.js" type="text/javascript"></script>
-<script type="text/javascript">
-	$(function() {
+	setInterval('rotate()',6000);
+	
+}
 
-		$('#container-1').tabs();
-	});
-</script>
-<!--Tabs code end-->
-<!--colorbox start-->
-		<link type="text/css" media="screen" rel="stylesheet" href="http://www.thegnomonworkshop.com/js/colorbox/colorbox.css">
-		<link type="text/css" media="screen" rel="stylesheet" href="http://www.thegnomonworkshop.com/js/colorbox/colorbox-custom.css">
-		<script type="text/javascript" src="http://www.google.com/jsapi"></script>
-		<script type="text/javascript" src="http://www.thegnomonworkshop.com/js/colorbox/jquery.colorbox.js"></script>
-		 
-<!--colorbox end-->
+function rotate() {	
+	//Get the first image
+	var current = ($('div.rotator ul li.show')?  $('div.rotator ul li.show') : $('div.rotator ul li:first'));
+
+    if ( current.length == 0 ) current = $('div.rotator ul li:first');
+
+	//Get next image, when it reaches the end, rotate it back to the first image
+	var next = ((current.next().length) ? ((current.next().hasClass('show')) ? $('div.rotator ul li:first') :current.next()) : $('div.rotator ul li:first'));
+	
+	//Un-comment the 3 lines below to get the images in random order
+	
+	//var sibs = current.siblings();
+        //var rndNum = Math.floor(Math.random() * sibs.length );
+        //var next = $( sibs[ rndNum ] );
+			
+
+	//Set the fade in effect for the next image, the show class has higher z-index
+	next.css({opacity: 0.0})
+	.addClass('show')
+	.animate({opacity: 1.0}, 1000);
+
+	//Hide the current image
+	current.animate({opacity: 0.0}, 1000)
+	.removeClass('show');
+	
+};
+
+
+
+$(document).ready(function() {		
+	//Load the slideshow
+	theRotator();
+	$('div.rotator').fadeIn(1000);
+    $('div.rotator ul li').fadeIn(1000); // tweek for IE
+});
+
+</script><!-- END Global Includes -->
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link href="http://www.thegnomonworkshop.com/css/header_footer.css" rel="stylesheet" type="text/css">
-<link href="/css/infoPages_style.css" rel="stylesheet" type="text/css">
+<link href="/css/infoPagesStyle.css" rel="stylesheet" type="text/css">
 </head>
-<body>
-<div id="container">
-<!--header start-->
-<span src="/includes/GW_header_v3.html"></span>
-<!--header end-->
+<body id="privacyPage">
+<!--header Start-->
+<div class="headerBackground">
+	<div class="center">
+		<div id="header">
+			<div id="headerTopNav">
+				<h1><a href="http://www.thegnomonworkshop.com" title="The Gnomon Workshop">The Gnomon Workshop</a></h1>
+				<div class="right">
+					<div class="social">
+						<ul>
+							<li><a class="rss" href="http://feeds.feedburner.com/TheGnomonWorkshop"></a></li>
+							<li><a class="twitter" href="http://twitter.com/gnomon_workshop"></a></li>
+							<li><a class="facebook" href="http://www.facebook.com/thegnomonworkshop"></a></li>
+						</ul>
+					</div>
+					<div id="searchBox">
+						<form id="search_form" name="search_form" method="post" action="http://www.thegnomonworkshop.com/store/search_results.php">
+							<input id="search_submit" type="hidden" value="search_submit" name="search_submit">
+							<input id="search_string" class="searchField" type="text" value="" size="25" name="search_string">
+							<input id="search_submit" class="searchButton" type="image" src="/menu/assets/img/searchBtn.gif" value="Search" name="search_submit">
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- Start  Header slideshow -->
+<div class="rotatorBackground">
+<div class="rotator">
+	<ul>
+		<li> <a href="http://www.thegnomonworkshop.com/store/products/masterclass/3dcreaturedev" target="_self"><img src="http://thegnomonworkshop.com/img/header.2.0/gnomon-workshop-3d-creature-master-development.jpg" height="113" width="1400"></a> </li>
+		<li> <a href="http://www.thegnomonworkshop.com/subscription/" target="_self"><img src="http://thegnomonworkshop.com/img/header.2.0/gnomon-workshop-subscription.jpg" height="113" width="1400"></a> </li>
+	</ul>
+</div>
+</div>
+<!-- // end of slideshow --><!--header End-->
+<!--navigation Start-->
+<div class="navigationBackground">
+	<div class="center">
+		<div id="headerBotNav">
+			<ul class="mainNav">
+				<li class="browseLibrary left"><a onclick="return false" class="mainNavLink" href="#">Browse Library</a>
+					<div class="dropDownBlock browseLibraryContent"> 
+						<div class="tab-content tabs1 categoryInfo1 introBlock">
+							<div class="left menuCategoryImage"></div>
+							<div class="left menuCategoryDescription">
+								<p class="categoryTitle">Digital Production </p>
+								<p>The Gnomon Workshop offers the most comprehensive set of Digital Production tutorials anywhere. The broad scope of the tutorials contained in this section range from foundational understanding of the software tools all the way to the professional application of these tools and concepts used by artists working in the film and game industries.</p>
+							</div>
+						</div>
+						<div class="tab-content tabs2 categoryInfo2 introBlock"> 
+							<div class="left menuCategoryImage"></div>
+							<div class="left menuCategoryDescription">
+								<p class="categoryTitle">Entertainment Design</p>
+								<p>The Gnomon Workshop is widely regarded as the global leader in training tutorials for the designer working in the entertainment industry. With tutorials ranging from foundational drawing and design concepts to process tutorials from some of the top concept and character designers in the world, there is surely something here to inspire.</p>
+							</div>
+						</div>
+						<div class="tab-content tabs3 categoryInfo3 introBlock">
+							<div class="left menuCategoryImage"></div>
+							<div class="left menuCategoryDescription">
+								<p class="categoryTitle">Industrial Design</p>
+								<p>The Gnomon Workshop offers tutorials focused on Industrial Design software and techniques. These tutorials range from product design to vehicle and automotive concept.</p>
+							</div>
+						</div>
+						<div class="tab-content tabs4 categoryInfo4 introBlock">
+							<div class="left menuCategoryImage"></div>
+							<div class="left menuCategoryDescription">
+								<p class="categoryTitle">Fine Art and Illustration</p>
+								<p>The Gnomon Workshop also offers a number of tutorials focused on the fine art and illustration fields. Traditional drawing and painting skills are tremendous assets to artists working in the entertainment industry as well as other industries that rely on visual communication skills. Tutorials listed in this section focus on everything from foundational drawing skills, comic book illustration and fantasy painting.</p>
+							</div>
+						</div>
+						<div class="tab-content tabs5 categoryInfo5 introBlock">
+							<div class="left menuCategoryImage"></div>
+							<div class="left menuCategoryDescription">
+								<p class="categoryTitle">Tattooing</p>
+								<p>As the tattoo industry has seen an explosion in popularity over the last few years, the need training in this field has also grown. In these video tutorials, some of the top tattoo artists in the world share their techniques and their take on the art of tattoo. The tutorials range from absolute beginner level to advanced color and blending techniques used by some of the world's best.</p>
+							</div>
+						</div>
+						<div class="tab-content tabs6 categoryInfo6 introBlock">
+							<div class="left menuCategoryImage"></div>
+							<div class="left menuCategoryDescription">
+								<p class="categoryTitle">Software</p>
+								<p>The Gnomon Workshop offers professional training on most of the software applications used in today's digital pipelines. There are foundational titles to introduce users to the software and tools, as well as advanced production titles that discuss application tools and processes vital to the production of digital assets and media.</p>
+							</div>
+						</div>
+						<div class="tabsBackground">
+							<ul class="tabs">
+								<li><a href="#" class="defaulttab categoryTab" rel="tabs1">Digital Production</a></li>
+								<li><a class="categoryTab" href="#" rel="tabs2">Entertainment Design</a></li>
+								<li><a class="categoryTab" href="#" rel="tabs3">Industrial Design</a></li>
+								<li><a class="categoryTab" href="#" rel="tabs4">Fine Art and Illustration</a></li>
+								<li><a class="categoryTab" href="#" rel="tabs5">Tattooing</a></li>
+								<li><a class="categoryTab" href="#" rel="tabs6">Software</a></li>
+							</ul>
+						</div>
+						<div class="tab-content tabs1">
+							<div class="digitalProduction left">
+								<ol id="menu1" class="simple_menu simple_menu_css horizontal "><li class=""><a href="http://www.thegnomonworkshop.com/store/category/161/">Foundation</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/96/">Character Animation</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/25/">Character Rigging</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/261/">Cinematography</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/61/">Compositing</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/6/">3D Modeling and Sculpting</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/23/">Digital Sets</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/35/">Effects Animation</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/24/">Lighting and Rendering</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/104/">Matchmoving</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/29/">Matte Painting</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/286/">Scripting</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/8/">Texturing - UVs</a></li></ol>							</div>							
+							<div class="projectBased left">
+							<p class="categoryTitle">Team / Project Based</p>
+																<ol id="menu13" class="simple_menu simple_menu_css horizontal ">
+									<li class=""><a href="http://www.thegnomonworkshop.com/store/category/126/">Behind the Scenes</a></li>
+									<li class=""><a href="http://www.thegnomonworkshop.com/store/products/masterclass/sva/sva.php">The Making of Worms</a></li>
+									<li class=""><a href="http://www.thegnomonworkshop.com/store/products/masterclass/sva/sva02.php">The Making of White Swan</a></li></ol>
+							</div>														
+							<div class="masterClass left categoryTitle">
+								<ol id="menu14" class="simple_menu simple_menu_css horizontal "><li class=""><a href="http://www.thegnomonworkshop.com/store/products/masterclass/3dcreaturedev/">Special Edition Boxed Set Master Class</a></li></ol>
+							</div>
+						</div>
+						<div class="tab-content tabs2">
+							<ol id="menu2" class="simple_menu simple_menu_css horizontal "><li class=""><a href="http://www.thegnomonworkshop.com/store/category/57/">Foundation</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/287/">Color Theory</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/20/">Character - Creature Design</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/44/">Environment Design</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/99/">Sculptural Design</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/138/">Storyboarding</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/18/">Vehicle Design</a></li></ol>						</div>
+						<div class="tab-content tabs3">
+							<ol id="menu3" class="simple_menu simple_menu_css horizontal "><li class=""><a href="http://www.thegnomonworkshop.com/store/category/166">View All</a></li></ol>						</div>
+						<div class="tab-content tabs4">
+							<ol id="menu4" class="simple_menu simple_menu_css horizontal "><li class=""><a href="http://www.thegnomonworkshop.com/store/category/160/">Foundation</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/10/">Comic Book Illustration</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/131/">Fantasy Illustration</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/163/">Painting</a></li></ol>						</div>
+						<div class="tab-content tabs5">
+							<ol id="menu5" class="simple_menu simple_menu_css horizontal "><li class=""><a href="http://www.thegnomonworkshop.com/store/category/39/">View All </a></li></ol>						</div>
+						<div class="tab-content tabs6">
+							<ol id="menu6" class="simple_menu simple_menu_css horizontal "><li class=""><a href="http://www.thegnomonworkshop.com/store/category/21/">3ds Max</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/217/">After Effects</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/82/">BodyPaint</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/106/">Boujou</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/155/">ImageModeler</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/113/">Lightwave</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/157/">MatchMover</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/5/">Maya</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/256/">Modo</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/122/">Mudbox</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/98/">Nuke</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/75/">Painter</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/11/">Photoshop</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/118/">Real Flow</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/30/">Shake</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/156/">Stitcher</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/211/">Unreal Engine 3</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/14/">XSI</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/12/">ZBrush</a></li></ol>						</div>
+					</div>
+				</li>
+				<li class="browseInstructor left"> <a onclick="return false" class="mainNavLink" href="#">Instructors</a>
+					<div class="dropDownBlock">
+						<div class="introBlock"> 
+							<div class="left menuCategoryImage menuInstructorImage"></div>
+							<div class="left menuCategoryDescription">
+								<p class="categoryTitle">Profession Training for Artists</p>
+								<p>The Gnomon Workshop seeks out the most highly-regarded traditional and digital artists and technicians currently working in the entertainment and design industries. Our instructors have shared their practices working at such top studios as Pixar, ILM, Blizzard, and many more.</p>
+								<a class="button left" href="http://www.thegnomonworkshop.com/news/galleries/">Instructor Galleries</a>
+								<a class="button left" href="http://www.thegnomonworkshop.com/news/interviews/">Instructor Interviews</a>
+							</div>
+						</div>
+						<div class="tabsBackground">
+							<ul class="tabs1">
+								<li><a href="#" class="defaulttab1 letters" rel="AC">A - C</a></li>
+								<li><a class="letters" href="#" rel="DH">D - H</a></li>
+								<li><a class="letters" href="#" rel="IL">I - L</a></li>
+								<li><a class="letters" href="#" rel="MP">M - P</a></li>
+								<li><a class="letters" href="#" rel="QT">Q - T</a></li>
+								<li><a class="letters" href="#" rel="UX">U - X</a></li>
+								<li><a class="letters" href="#" rel="YZ">Y - Z</a></li>
+							</ul>
+						</div>
+						<div class="tab-content1 AC">
+							<ol id="menu7" class="simple_menu simple_menu_css horizontal "><li class=""><a href="http://www.thegnomonworkshop.com/store/category/7/">Alex Alvarez</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/212/">Christian Alzmann</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/239/">Rick Baker</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/273/">Alessandro Baldasseroni</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/218/">Wayne Barlowe</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/148/">Tom Baxa</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/62/">Herald Belker</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/266/">Joe Benitez</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/201/">Neil Blevins</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/276/">Link Bossman</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/210/">Waylon Brinck</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/100/">John Brown</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/200/">Vitaly Bulgarov</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/93/">Paul Campion</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/248/">Alessandro Cangelosi</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/209/">Joe Capobianco</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/94/">Ryan Church</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/231/">Sean Choi</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/70/">John Clark</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/66/">James Clyne</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/95/">Robert Coddington</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/38/">Dylan Cole</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/219/">Jeremy Cook</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/143/">Ted Davis</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/284/">Jack Bosson</a></li></ol>						</div>
+						<div class="tab-content1 DH">
+							<ol id="menu8" class="simple_menu simple_menu_css horizontal "><li class=""><a href="http://www.thegnomonworkshop.com/store/category/220/">Cesar Dacol</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/255/">Cameron Davis</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/40/">Dean Deakyne</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/254/">Mark Dedecker</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/274/">Maxime Deleris</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/225/">Christophe Desse</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/114/">Tim Dobbert</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/115/">Thierry Doizon</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/130/">Dave Dorman</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/58/">Greg Downing</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/120/">Yannick Dusseault</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/101/">Scott Easley</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/117/">Wayne England</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/67/">Jeremy Engleman</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/85/">Mayan Escalante</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/139/">Meghan Farrell</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/270/">Jonathan Feldman</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/45/">David Finch</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/102/">Steve Firchow</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/102/">Steve-Firchow</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/119/">Wendy Froud</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/86/">Mark Goerner</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/258/">Marc Gabbana</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/246/">Jason Godbey</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/127/">Peter Han</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/240/">Ramy Hanna</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/53/">Eric Hanson</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/87/">Matt Hartle</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/198/">James Hawkins</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/59/">Garman Herigstad</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/283/">Rick Hilgner</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/46/">Darin Hilton </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/264/">Wayne Hollingsworth </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/253/">Justin Holt</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/19/">Carlos Huante </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/74/">Kevin Hudson </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/147/">Nikko Hurtado </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/128/">Cajun Hylton </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/288/">Axel Stanley-Grossman</a></li></ol>						</div>
+						<div class="tab-content1 IL">
+							<ol id="menu9" class="simple_menu simple_menu_css horizontal "><li class=""><a href="http://www.thegnomonworkshop.com/store/category/247/">Alex Jaeger </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/116/">Tim Jones</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/64/">Ian Joyner</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/230/">Kolby Jukes </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/15/">Bob Kato </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/275/">Andras Kavalecz </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/153/">Richard Keyes </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/277/">Cecil Kim </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/279/">Ryan Kingslien </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/150/">Chris Kirshbaum </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/47/">David Krentz </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/132/">Robert Kuczera </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/216/">Ergin Kuke </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/265/">Raphael Lacoste </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/103/">Sebastien Larroude </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/223/">Brandon Lawless </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/9/">Alvin Lee</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/278/">Sang Jun Lee </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/259/">Ron Lemen </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/48/">David Levy </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/290/">Aaron Limonick</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/89/">Herbert Lowis </a></li></ol>						</div>
+						<div class="tab-content1 MP">
+							<ol id="menu10" class="simple_menu simple_menu_css horizontal "><li class=""><a href="http://www.thegnomonworkshop.com/store/category/79/">Kevin Mannens </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/235/">Jeff McAteer </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/17/">Brendan McCaffrey </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/65/">Iain McCaig </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/105/">Stephen McClure </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/107/">Syd Mead</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/280/">David Meng </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/272/">Eric Miller </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/108/">Sean Mills</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/241/">Vibol Moeung </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/260/">Josh Murray </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/142/">Ben Neall </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/97/">Robert Nederhorst </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/22/">Christopher Nichols </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/199/">Josh Nizzi</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/257/">Phil Noto </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/52/">Andrew Orloff </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/91/">Neville Page </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/49/">Dave Pasciuto </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/205/">Jeff Patton </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/215/">Scott Patton </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/121/">Zack Petroc </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/221/">Anand P G </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/81/">Laurent Pierlot </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/109/">Stephen Platt </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/76/">Puddnhead</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/92/">Nick Pugh </a></li></ol>						</div>
+						<div class="tab-content1 QT">
+							<ol id="menu11" class="simple_menu simple_menu_css horizontal "><li class=""><a href="http://www.thegnomonworkshop.com/store/category/154/">Gil Rimmer </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/213/">Burke Roane </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/110/">Scott Robertson </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/233/">Alex Sandri </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/26/">Carlo Sansonetti </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/27/">Christian Lorenz Scheurer</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/129/">Paul Schoeni </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/271/">The Shiflett Brothers </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/228/">Joe Simanello </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/243/">Leonardo Silva </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/214/">Jared Simeth </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/13/">Aaron Sims </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/195/">Richard Smith </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/232/">Scott Spencer </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/281/">Nate Stephens </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/28/">Chris Stoski</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/244/">Ralf Stumpf </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/55/">Ethan Summers </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/237/">Justin Sweet </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/69/">J P  Targete</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/137/">Derek Thompson </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/80/">Keith Thompson </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/229/">Jonas Thornqvist </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/152/">Erik Tiemens </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/252/">Aristomenis Tsirbas </a></li></ol>						</div>
+						<div class="tab-content1 UX">
+							<ol id="menu13" class="simple_menu simple_menu_css horizontal "><li class=""><a href="http://www.thegnomonworkshop.com/store/category/249/">Marshall Vandruff </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/222/">Alex Velasquez </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/72/">Jeremy Vickery </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/73/">Joe Weems </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/141/">Terryl Whitlatch </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/146/">Sil van der Woerd </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/224/">Bryan Wynia </a></li></ol>						</div>
+						<div class="tab-content1 YZ">
+							<ol id="menu14" class="simple_menu simple_menu_css horizontal "><li class=""><a href="http://www.thegnomonworkshop.com/store/category/269/">Brandon Young </a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/32/">Chet Zar</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/43/">Feng Zhu</a></li><li class=""><a href="http://www.thegnomonworkshop.com/store/category/238/">Nick Zuccarello </a></li></ol>						</div>
+					</div>
+				</li>
+				<li class="misc left"> <a onclick="return false" class="mainNavLink" href="http://www.thegnomonworkshop.com/store/products/assets/asset_series/">Misc</a>
+					<div class="dropDownBlock">	
+					<div class="left assets">
+						<p class="categoryTitle">Assets</p>
+							<ul>
+								<li><a href="http://www.thegnomonworkshop.com/store/products/assets/asset_series/#fragment-1">3D Models</a></li>
+								<li><a href="http://www.thegnomonworkshop.com/store/products/assets/asset_series/#fragment-2">Textures</a></li>
+								<li><a href="http://www.thegnomonworkshop.com/store/products/assets/asset_series/#fragment-3">Scenes</a></li>
+								<li><a href="http://www.thegnomonworkshop.com/store/products/assets/asset_series/#fragment-4">Lighting</a></li>
+							</ul>
+						</div>		
+						<div class="left books">
+							<p class="categoryTitle">Books</p>						
+							<a href="http://www.thegnomonworkshop.com/store/category/125/Books"></a>
+						</div>			
+						<div class="left apparel">
+							<p class="categoryTitle">Apparel</p>						
+							<a href="http://www.thegnomonworkshop.com/apparel"></a>
+						</div>
+						<div class="left reference">
+							<p class="categoryTitle">Reference</p>						
+							<a href="http://www.thegnomonworkshop.com/store/product/461/Male-Anatomy-Figure-V.3-with-Medical-and-Wallchart-Posters"></a>
+						</div>
+						
+						
+					</div>
+				</li>
+				<li class="freebies left"> <a onclick="return false" class="mainNavLink" href="#">Freebies</a>
+					<div class="dropDownBlock">
+						<div class="left freeTutorials">
+						<p class="categoryTitle">Free Tutorials</p>
+							<ul>
+								<li><a class="max" href="http://www.thegnomonworkshop.com/store/category/204/">3DS Max</a></li>
+								<li><a class="bodypaint" href="http://www.thegnomonworkshop.com/store/category/203/">Maxon BodyPaint 3D</a></li>
+								<li><a class="maya" href="http://www.thegnomonworkshop.com/store/category/167/Free-Maya-Tutorials">Autodesk Maya</a></li>
+								<li><a class="photoshop" href="http://www.thegnomonworkshop.com/store/category/169/Free-Photoshop-Tutorials">Adobe Photoshop</a></li>
+								<li><a class="zbrush" href="http://www.thegnomonworkshop.com/store/category/168/Free-ZBrush-Tutorials">Zbrush</a></li>
+							</ul>
+							
+												</div>
+						
+						<div class="right freeStuff">
+							<p class="categoryTitle">Free Stuff</p>						
+							<ul>
+									<li><a href="http://www.thegnomonworkshop.com/store/category/202/">Assets</a></li>
+									<li><a href="http://www.thegnomonworkshop.com/freebies/screensaver/">Screensavers</a></li>
+									<li><a href="http://www.thegnomonworkshop.com/freebies/wallpaper/">Wallpaper</a></li>
+								</ul>
+								
+														</div>
+					</div>
+				</li>
+				<li class="viewCart right last"><a class="mainNavLink" href="http://www.thegnomonworkshop.com/store/basket.php">View Cart</a></li>
+				<li class="right myAccountBackground"><a class="mainNavLink myAccountLink" onclick="return false" href="#">My Account</a>
+					<div class="dropDownBlock">	
+					<p class="categoryTitle">Manage My Account</p>					
+							<ul>
+								<li><a href="https://www.thegnomonworkshop.com/store/cmr_account1.php">Order History</a></li>
+								<li><a href="https://www.thegnomonworkshop.com/store/cmr_account2.php">Billing &amp; Shipping Information</a></li>
+								<li><a href="https://www.thegnomonworkshop.com/store/cmr_account3.php">Manage Credit Cards</a></li>							
+							</ul>
+						<div class="signInOut"><a class="logoutLink" href="http://www.thegnomonworkshop.com/store/checkout/index.php?logout=Y">Logout</a>
+						<a class="loginLink" href="http://www.thegnomonworkshop.com/store/cmr_login.php">Login</a>		</div>				
+					</div>			
+				</li>
+				<li class="right subscription"><a class="subscriptionLink mainNavLink" href="http://www.thegnomonworkshop.com/subscription/">Subscription</a></li>
+				<li class="right community"><a onclick="return false" class="mainNavLink" href="#">Community</a>
+					<div class="dropDownBlock">						
+							<ul>
+								<li><a href="http://www.thegnomonworkshop.com/news/">News</a></li>
+								<li><a href="http://forums.thegnomonworkshop.com">Forum</a></li>						
+							</ul>					
+					</div>				
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+<!--navigation End-->
+<div class="greyBackground" id="container">
 <!--Content Start-->
-<div id="content" class="privacyContent">
+<div id="content" class="center privacyContent">
 <div class="privacyHeadImage"></div>
 <div id="pageBody">
-<h3>PRIVACY POLICY</h3>
+<h2 class="sectionTitle">PRIVACY POLICY</h2>
 
 <p>Gnomon’s privacy policy covers the collection and use of personal information that may be collected by Gnomon anytime you interact with Gnomon, such as when you visit our website, when you purchase Gnomon products, or when you call our sales or support associates. Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information. Your privacy is a priority at Gnomon, and we go to great lengths to protect it.</p>
 
-<h3>Why we collect personal information</h3>
+<h3 class="subTitle">Why we collect personal information</h3>
 <p>Because it helps us deliver a superior level of customer service.</p>
 
-<h3>What information do we collect</h3>
+<h3 class="subTitle">What information do we collect</h3>
 
 <p>There are a number of situations in which your personal information may help us give you better service. At such times, we may collect personal information relevant to the situation, such as your name, mailing address, phone number, email address, and contact preferences; your credit card information and information
 about the Gnomon products you own, such as their serial numbers, and date of purchase. We may collect information for market research purposes — such as your occupation and where you use your computer — to gain a better understanding of our customers and thus provide more valuable service. We may also collect information regarding customer activities on our website. This helps us to determine how best to provide useful information to customers and to understand which parts of our websites and Internet services are of most interest to them.</p>
 
-<h3>When we disclose your information</h3>
+<h3 class="subTitle">When we disclose your information</h3>
 
 <p>Gnomon takes your privacy very seriously. Be assured that Gnomon does not sell or rent your contact information to other marketers. There are times when it may be advantageous for Gnomon to make certain personal information about you available to companies that Gnomon has a strategic relationship with or that
 perform work for Gnomon to provide products and services to you on our behalf. These companies may help us process information, extend credit, fulfill customer orders, deliver products to you, manage and enhance customer data, provide customer service, assess your interest in our products, or conduct customer research or
@@ -99,11 +348,11 @@ satisfaction surveys. Without such information being made available, it would be
 
 <p>At times we may be required by law or litigation to disclose your personal information. We may also disclose information about you if we determine that for national security, law enforcement, or other issues of public importance, disclosure is necessary.</p>
 
-<h3>Protecting your personal information</h3>
+<h3 class="subTitle">Protecting your personal information</h3>
 
 <p>You can help us by also taking precautions to protect your personal data when you are on the Internet. Change your passwords often using a combination of letters and numbers, and make sure you use a secure web browser like Safari.</p>
 
-<h3>Integrity of your personal information</h3>
+<h3 class="subTitle">Integrity of your personal information</h3>
 
 <p>Gnomon has safeguards in place to keep your personal information accurate, complete, and up to date for the purposes for which it is used. Naturally, you always have the right to access and correct the personal information you have provided.</p>
 
@@ -117,10 +366,72 @@ The Gnomon Workshop, Inc., 1015 North Cahuenga Boulevard, Hollywood, CA 90038.</
 </div>
 <div class="clear"></div>
 <!--content end-->
-<!--footer start-->
-<span src="http://www.thegnomonworkshop.com/includes/GW_footer_v2.html"></span>
-<!--footer end-->
 </div>
-<script type="text/javascript"> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script> <script type="text/javascript"> try { var pageTracker = _gat._getTracker("UA-1759567-1"); pageTracker._trackPageview(); } catch(err) {}</script>
+<!--footer Start-->
+<div class="footer">
+	<div class="center">
+		<div class="linkList left">
+			<ul>
+				<li><a href="http://www.thegnomonworkshop.com/testimonials/">Testimonials</a></li>
+				<li><a href="http://www.thegnomonworkshop.com/faq.php">FAQ</a></li>
+				<li><a href="http://www.thegnomonworkshop.com/terms.php">Terms of Use</a></li>
+				<li><a href="http://www.thegnomonworkshop.com/privacy.php">Privacy Policies</a></li>
+				<li><a href="http://www.thegnomonworkshop.com/resellers.php">Resellers</a></li>
+				<li><a href="http://www.thegnomonworkshop.com/about.php">About Us</a></li>
+				<li><a href="http://www.thegnomonworkshop.com/contact.php">Contact Us</a></li>
+			</ul>
+		</div>
+		<div class="mailingList left">
+			<p class="footerTitle">Join our Mailing List</p>
+			<form method="post" action="http://ymlp.com/subscribe.php?id=gumjjuugmgs" target="signup_popup" onsubmit="window.open( 'http://ymlp.com/subscribe.php?id=gumjjuugmgs','signup_popup','scrollbars=yes,width=600,height=450'); return true;">
+				<label>Name</label>
+				<input name="YMP0" size="20" type="text">
+				<label>Email</label>
+				<input name="YMP1" size="20" type="text">
+				<br>
+				<input class="button" type="submit" value="Submit">
+			</form>
+		</div>
+		<div class="moreGnomon left">
+			<h1>More From Gnomon</h1>
+			
+			
+			<a href="http://sketchtheatre.com"><div class="gnomonCompany sketchtheatre">
+				<p class="footerTitle">Art, Music, Inspiration</p>
+				<p>Artists sketch to their hearts desire</p>
+			</div></a>
+			
+			<a href="http://gnomongallery.com"><div class="gnomonCompany gnomonGallery">
+				<p class="footerTitle">Bored? Check out a show</p>
+				<p>Artists from the game and movie world show off their work</p>
+			</div></a>
+			<a href="http://cgchannel.com"><div class="gnomonCompany cgchannel">
+				<p class="footerTitle">Latest News in &amp; Around the CG World</p>
+				<p>Community for entertainment artists</p>
+			</div></a>
+			<a href="http://gnomonschool.com"><div class="gnomonCompany gnomonSchool">
+				<p class="footerTitle">Try a Class at Gnomon School</p>
+				<p>Specializing in computer graphics training for careers in the entertainment industry</p>
+			</div></a>
+			
+		</div>
+	</div>
+</div>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1759567-1']);
+  _gaq.push(['_setDomainName', 'thegnomonworkshop.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!--footer End-->
 
 </body></html>
