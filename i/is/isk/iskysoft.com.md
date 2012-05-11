@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iskysoft.com privacy policy that was archived on 2010-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100110055610id_/http%3A//www.iskysoft.com/other/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iskysoft.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511071817id_/http%3A//www.iskysoft.com/other/privacy.html) for the most accurate reproduction.*
 
 # iSkysoft Privacy Policy
 
@@ -42,11 +42,11 @@ From time to time we may conduct surveys in respect of our products and services
 
 iSkysoft software uses secure server hosted by SWREG and other 3rd party credit card processors that encrypt all the customer's personal information including name, address, credit card number credit card expiration date etc. before it is sent to us. Encryption works to prevent any malicious use of your personal information. Your credit card information is only used for online transition. 
 
-Credit card information in encrypted during the ordering process and is deleted as soon as your order is completed. All other personal information (name, address and product ordered) is held to assist delivery of goods (if applicable), and product registration. 
+Credit card information in encrypted during the ordering process and is deleted as soon as your order is completed. All other personal information (name, address and product ordered) is held to assist product registration. 
 
 #### 4\. SWREG?
 
-SWREG is an advanced secure online payment service for software registration that has been in operation since 1987. iSkysoft Studio uses SWREG to provide you with very secure and fast online purchase. . 
+SWREG is an advanced secure online payment service for software registration that has been in operation since 1987. iSkysoft Studio uses SWREG to provide you with very secure and fast online purchase. 
 
 #### 5\. What are the purposes for iSkysoft uses the information?
 
