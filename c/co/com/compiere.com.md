@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compiere.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101132623id_/http%3A//www.compiere.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compiere.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512000721id_/http%3A//www.compiere.com/company/privacy.php) for the most accurate reproduction.*
 
 # Compiere Privacy Statement
 
@@ -58,7 +58,7 @@ Consona may use demographic or user profile data that we collect to tailor your 
 
 ## Links to Other Sites 
 
-This site may contain links to other sites. Consona is not responsible for the privacy practices or the content of other Web sites. Please refer to the policies of the respective site. Please note that we use and link to SourceForge services governed by the [SorceForge Privacy Statement](http://sourceforge.net/docman/display_doc.php?docid=6049&group_id=1).
+This site may contain links to other sites. Consona is not responsible for the privacy practices or the content of other Web sites. Please refer to the policies of the respective site. Please note that we use and link to SourceForge services governed by the [SorceForge Privacy Statement](http://geek.net/privacy-statement).
 
 ## Opt Out Options 
 
