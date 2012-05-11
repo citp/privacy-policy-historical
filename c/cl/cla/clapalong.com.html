@@ -1,206 +1,227 @@
-<!--The following is the downloaded HTML source of the clapalong.com privacy policy that was archived on 2011-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102002216id_/http%3A//www.clapalong.com%3Faction%3Ddefault%21privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the clapalong.com privacy policy that was archived on 2012-05-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120511024049id_/http%3A//www.clapalong.com/%3Faction%3Ddefault%21privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://m.clapalong.com/tag/getmoney/?callback=jsonp1582345625808"></script>
-<title>Privacy Policy</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="keywords" content="clapalong,nline game, free game, fun game, social game, office game, free online game, web game, strategy game, free gaming, chinese game, great game, facebook game, myspace game">
-<meta name="description" content="ClapAlong is a simple way to share well-made online games with global gamers who will play, discover and share together.">
-<meta http-equiv="content-language" content="en-US">
-<link rel="shortcut icon" href="/lang/en/images/ico.png"><!--new.css-->
-<link href="/lang/en/css/halloween.css" rel="stylesheet" type="text/css">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Privacy Policy</title>
+<link href="/lang/en/css/reset.css" rel="stylesheet" type="text/css">
+<link href="/lang/en/css/new.css" rel="stylesheet" type="text/css">
 
-<style type="text/css">
-.index_game{ border:1px solid #ddd;padding-bottom:20px; background:#fff;margin:5px 0; clear:both;overflow:hidden; zoom:1; }
-.index_game ul{ padding:20px 0 28px 28px ;}
-.index_game li{ float:left; width:440px; margin-right:20px; }
-.index_game img{ float:left; border:3px solid #cdcdcd; margin-right:15px; }
-.index_game h3{ float:left; width:225px; margin:0;padding:0}
-.index_game h3{ font-size:16px; font-weight: bold; padding-bottom:8px;}
-.index_game h3 a{ color:#3a81ce}
-a.g_btn1,a.g_btn2,a.g_btn3{ background:url(/lang/en/images/index/g_btn.jpg) no-repeat; height:24px; line-height:24px; color:#FFF; font-weight: bold; display:inline-block; text-indent:14px;}
-a.g_btn1{ width:128px; margin-right:10px; }
-a.g_btn2{ background-position:0px -33px; width:74px;}
-a.g_btn3{ background-position:0px -65px; width:81px; height:19px; line-height:18px;}
-a.g_btn1:hover,a.g_btn2:hover{ color: #CF6}
-</style>
-<script language="javascript" type="text/javascript" src="/lang/en/js/jquery-1.4.2.min.js"></script>
+<link href="/lang/en/css/index.css" rel="stylesheet" type="text/css">
+<link href="/lang/en/css/ad.css" rel="stylesheet" type="text/css">
+
+
+<link href="http://fonts.googleapis.com/css?family=Segoe UI" rel="stylesheet" type="text/css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/lang/en/js/jquery-1.4.2.min.js"></script>
 <script type="text/javascript" src="/lang/en/js/jquery.jmpopups-0.5.1.js"></script>
+<script type="text/javascript" src="/lang/en/js/jquery.easing.1.3.js"></script>
 <script type="text/javascript" src="/lang/en/js/app/header.js"></script>
 <script type="text/javascript" src="/lang/en/js/app/game.js"></script>
 <script type="text/javascript" src="/lang/en/js/nav02.js"></script>
 <script language="javascript" type="text/javascript" src="/lang/en/js/app/facebook.js"></script>
-<script type="text/javascript" src="/lang/en/js/app/game.js"></script>
-<script type="text/javascript" src="/lang/en/js/suspension.js"></script>
-<script type="text/javascript">
-  var rpxJsHost = (("https:" == document.location.protocol) ? "https://" : "http://static.");
-  document.write(unescape("%3Cscript src='" + rpxJsHost +
-"rpxnow.com/js/lib/rpx.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://rpxnow.com/js/lib/rpx.js" type="text/javascript"></script>
-<script type="text/javascript">
-  RPXNOW.overlay = true;
-  RPXNOW.language_preference = 'en';
-  
-function showCats(){
-    var www_url = 'http://m.clapalong.com/';
-    var post_url = www_url+'varios/getcats';
-	
-	$.ajax({
-	  type : 'get',
-	  url: post_url,
-	  dataType: 'jsonp',
-	  timeout: 5000,
-	  cache: false,
-	  data: {},
-	  success: function(list){
-		  len = list.length; 
-		  
-		  html = '';
-		  if(typeof(list)=="object"){
-			  if(len>0){
-				   $.each(list, function(k, val){
-				       html += '<li><a href="'+www_url+'authorupload/taglist/tag/'+val['name']+'">'+val['name']+'</a>('+val['num']+')</li>';
-				   });
-				   $('#categories').html(html);
-			  }		   
-		  }
-	  }	
-	}); 
+<script type="text/javascript" src="/lang/en/js/login.js"></script>
 
+<script type="text/javascript" src="/lang/en/js/jquery.nivo.slider.pack.js"></script>
+
+<script type="text/javascript">
+$(window).load(function() {
+	$('#slider').nivoSlider();
+	showCats();
+});
+
+if (document.addEventListener) {//如果是Firefox
+    document.addEventListener("keypress", onKeyCode, true);
+}else {
+    document.attachEvent("onkeypress", onKeyCode);
 }
 
-$(document).ready(function (){showCats();});
-</script>
-<script type="text/javascript">
-var avatar = 1;
-function showAvater(){
-	if(avatar == 1){
-		$('#user_avatar').fadeIn('slow');
-		$('#updown').addClass('t');
-		avatar = 0;
-	}else{
-	    $('#user_avatar').fadeOut('slow');
-		$('#updown').removeClass('t');
-		avatar = 1;	
+function onKeyCode(evt){
+	if (evt.keyCode == 13) {
+		var a=document.activeElement.id;
+		if(a!='' && a!=null){
+			if(a == 'login_email' || a == 'login_password'){
+				login();
+			}else if(a == 'regemail' || a == 'pwd' || a == 'repwd'){
+				reg();
+			}else{
+	    		headerLogin();
+			}
+		}else{
+			headerLogin();
+		}
 	}
 }
-function logout() {
-				$('#lg2').css('display', 'none');
-				$('#updown').removeClass('t');
-				$('#user_avatar').css('display', 'none');
-				$('#lg1').fadeIn(1000);
-				avatar = 1;
-}
+
 </script>
-<!--[if IE 6]>
-<script src="/lang/en/js/DD_belatedPNG.js"></script>
-<script>
-  DD_belatedPNG.fix('h1.logo,.n1,.n2,.n3,.n4,.n5,.ns,.rscb img,.cfo_2 p,.cfo_2 ul,.fimg,.more,.calendar_top,.calendar_bot,.day,.tc_1,.tc_2,.tc_3,.tlt,.cfo_1,.cfo_2,.cfo_3,.flink,.tyt1,.tyt2,.tyt3,.tyt4,.tyt5,.tyt7,.tyt8,.tyt9,a img');
-</script>
+
+<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/lang/en/css/ie.css"/>
 <![endif]-->
+
+<script type="text/javascript">
+//var ishp = '';
+var rpxJsHost = (("https:" == document.location.protocol) ? "https://" : "http://static.");
+document.write(unescape("%3Cscript src='" + rpxJsHost + "rpxnow.com/js/lib/rpx.js' type='text/javascript'%3E%3C/script%3E"));
+
+function open_msg(){
+    alert("Coming Soon!");
+}
+</script><script src="https://rpxnow.com/js/lib/rpx.js" type="text/javascript"></script>
+<script type="text/javascript">
+RPXNOW.overlay = true;
+RPXNOW.language_preference = 'en';
+</script>
+
 </head>
+
 <body>
-<div id="fb-root"></div>
-<script src="http://connect.facebook.net/en_US/all.js"></script>
 
-<div id="pagesize">
-<div class="convScrollAD left" style="position:absolute;top:100px;z-index:2;width:355px;height:356px;background:url(http://www.clapalong.com/lang/en/images/halloween/leftpic.png) no-repeat 0 90px"></div>
-<div class="convScrollAD right" style="position:absolute;top:100px;z-index:2;height:347px;width:356px;background:url(http://www.clapalong.com/lang/en/images/halloween/rightpic.png) no-repeat"></div>
-
-<!--header start-->
-	  
-	 <!--左右节日图片开始-->
-     <!---->
-    <div class="head">
-    	<div class="w990">
-        <p style="line-height:34px;" class="fl fd f14 commission"><span style="color:#C50000;font-weight:normal;margin-right:5px" id="aa"><script>
-
- $.getJSON("http://m.clapalong.com/tag/getmoney/?callback=?", function(json){
-	 //alert("JSON Data: " + json.m);
-	 $("#aa").text('$'+json.m);
- });
-</script></span>GAME UPLOADERS'COMMISSION PAID</p>
-       <a href="#"><h1 class="logo fl">clapalong</h1></a>     
-       <div class="top fr tr">      
-           <div class="login">				
-               <!-- 因特效需要添加DIV开始 -->               
-              
-                        <!--BOF 未登录 -->
-						                        <dl class="fr tl" style="">
-                       		<p style="padding:0px 5px 0 0;" class="fr app">
-                  <a class="fb" onclick=" loginFB() " href="javascript:;">facebook</a>
-                  <a class="tw rpxnow" href="https://clapalong.rpxnow.com/openid/v2/signin?token_url=http%3A%2F%2Fwww.clapalong.com%2F%3Faction%3Dthirdparty!rpx" onclick="return false;">twitter</a>
-                  <a class="gg rpxnow" href="https://clapalong.rpxnow.com/openid/v2/signin?token_url=http%3A%2F%2Fwww.clapalong.com%2F%3Faction%3Dthirdparty!rpx" onclick="return false;">google</a>
-                  <a class="ya rpxnow" href="https://clapalong.rpxnow.com/openid/v2/signin?token_url=http%3A%2F%2Fwww.clapalong.com%2F%3Faction%3Dthirdparty!rpx" onclick="return false;">yahoo</a>
-               </p>
-                           <dt><strong>Sign In</strong> or <a href="javascript:void(0);" onclick="signup();" class="cd3">Register</a><a href="http://www.clapalong.com/?action=user!callPwdBack" class="cd3">Forgot password?</a></dt>
-                           <dd><input name="email" id="email" type="text" class="sinput" value="">
-   				<input name="password" id="password" type="password" class="sinput" value=""> 
-               <a href="javascript:void(0);" onclick="headerLogin();" class="btn_7 c00"></a></dd>
-                       </dl>
-                         <!--EOF 未登录 -->
-	                                  <!--EOF 已登录 -->              		 
-               
-           <!-- 因特效需要添加DIV结束 -->
-           </div>
-           <div class="nav" id="topnav">
-               <ul>              
-               <li class="nav1">
-               		<div class="menu_list">
-                        <a class="nav1" href="#" onmousemove="menuList(1,1);" id="cds1" onmouseout="menuList(0,1);">FORUM</a>
-                        <div class="content" id="menu_list1" onmouseover="menuList(1,1);" onmouseout="menuList(0,1);">
-                        		<b class="top"></b>
-                       			<ul class="nav1">
-                                                    <li>
-                                                    <a href="http://batheo.clapalong.com"><img border="0" align="middle" title="Batheo" alt="Batheo" src="/lang/en/images/index/logo1.jpg">
-                                                    </a><h3><a href="http://batheo.clapalong.com">Batheo</a></h3><span></span><a class="g_btn3 s_list" href="javascript:openServer(1);">Server List›</a>
-                                                    </li>
-                                                    <li>
-                                                    <a href="http://elfender.clapalong.com"><img border="0" align="middle" title="Elfender" alt="Elfender" src="/lang/en/images/index/logo2.jpg"></a><h3><a href="http://elfender.clapalong.com">Elfender</a></h3><span></span><a class="g_btn3 s_list" href="javascript:openServer(2);">Server List›</a>
-                                                    </li>
-                                                   <li>
-                                                    <a href="http://edragon.clapalong.com"><img border="0" align="middle" title="Edragon" alt="Edragon" src="/lang/en/images/index/logo3.jpg"></a><h3><a href="http://edragon.clapalong.com">Edragon</a></h3><span></span><a class="g_btn3 s_list" href="javascript:openServer(3);">Server List›</a>
-                                                    </li>
-                                                    <li>
-                                                    <a href="http://majesty.clapalong.com"><img border="0" align="middle" title="Medieval Might" alt="Medieval Might" src="/lang/en/images/index/logo4.jpg"></a><h3><a href="http://majesty.clapalong.com">Medieval Might</a></h3><span></span><a class="g_btn3 s_list" href="javascript:openServer(4);">Server List›</a>
-                                                    </li>
-                                                    <li>
-                                                    <a href="http://eu.batheo.clapalong.com"><img border="0" align="middle" title="Batheo EU" alt="Batheo EU" src="/lang/en/images/index/logo5.jpg"></a><h3><a href="http://eu.batheo.clapalong.com">Batheo EU</a></h3><span></span><a class="g_btn3 s_list" href="javascript:openServer(5);">Server List›</a>
-                                                    </li>
-                                                    <li>
-                                                    <a href="http://m.clapalong.com" target="_blank"><img border="0" align="middle" title="Single Player Flash Games" alt="Single Player Flash Games" src="http://www.clapalong.com//lang/en/images/index/logo6.jpg"></a><h3><a href="http://m.clapalong.com" target="_blank">Single Player Flash Games </a></h3><span></span><a class="g_btn3 s_list" href="http://m.clapalong.com" target="_blank">Play Now›</a>
-                                                    </li>
-                                                     <li>
-                                                    <a href="http://castlot.clapalong.com" target="_blank"><img border="0" align="middle" title="castlot" alt="Scastlot" src="http://www.clapalong.com//lang/en/images/index/logo7.jpg"></a><h3><a href="http://castlot.clapalong.com" target="_blank">Castlot</a></h3><span></span><a class="g_btn3 s_list" href="http://castlot.clapalong.com" target="_blank">Join OBT›</a>
-                                                    </li>
-                                                    <li class="b">
-                                                    <a href="http://warrior.clapalong.com" target="_blank"><img border="0" align="middle" title="Warriors saga" alt="Warriors saga" src="/lang/en/images/index/logo8.jpg"></a><h3><a href="http://warrior.clapalong.com" target="_blank">Warriors saga</a></h3><span></span><a class="g_btn3 s_list" href="javascript:openServer(9);">Server List›</a>
-                                                    </li>
-                                               </ul>
-                                               <b class="bot"></b>
+          <div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+          <script>
+            window.fbAsyncInit = function()
+            {
+                FB.init
+                ({
+                    appId   : '172810796077720',
+                    status  : true, // check login status
+                    cookie  : true, // enable cookies to allow the server to access the session
+                    oauth   : true, // enable OAuth 2.0
+                    xfbml   : true // parse XFBML
+                });
+                FB.Event.subscribe('auth.login', function()
+                {
+                    //window.location.reload();
+                });
+            };
+          
+          (function()
+          {
+            var e = document.createElement('script');
+            e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+            e.async = true;
+            document.getElementById('fb-root').appendChild(e);
+            }());
+            </script>
+          <div class="head tl">
+	<div class="w980">
+        <a href="http://www.clapalong.com/" class="logo fl"><h1>Clapalong</h1></a>
+        <ul class="fl menu" id="menu2">
+            <li class="l_42"><a href="http://www.clapalong.com/" class="nav1"><span class="out">MMO</span><span class="over">MMO</span></a>
+                <ul class="g_list">
+					<li class="g1">
+                        <i class="new fr"></i>
+                        <a class="glink" href="http://castlot.clapalong.com"></a>
+                        <div class="play clearfix"><a href="http://castlot.clapalong.com" class="fl">Castlot</a> <a href="javascript:openServer(7);" class="fr">Play Now</a></div>
+                        <div class="play2"></div>
+                    </li>
+                    <li class="g2">
+                    	<i class="hot fr"></i>
+                        <a class="glink" href="http://batheo.clapalong.com"></a>
+                        <div class="play clearfix"><a href="http://batheo.clapalong.com" class="fl">Batheo</a> <a href="javascript:openServer(1);" class="fr">Play Now</a></div>
+                        <div class="play2"></div>
+                    </li>
+                    <li class="g3">
+                    	<i class="fr"></i>
+                        <a class="glink" href="http://elfender.clapalong.com"></a>
+                        <div class="play clearfix"><a href="http://elfender.clapalong.com" class="fl">Elfender</a> <a href="javascript:openServer(2);" class="fr">Play Now</a></div>
+                        <div class="play2"></div>
+                    </li>
+                    <li class="g4">
+                    	<i class="fr"></i>
+                        <a class="glink" href="http://edragon.clapalong.com"></a>
+                        <div class="play clearfix"><a href="http://edragon.clapalong.com" class="fl">eDragon</a> <a href="javascript:openServer(3);" class="fr">Play Now</a></div>
+                        <div class="play2"></div>
+                    </li>
+                    <li class="g7">
+                    	<i class="hot fr"></i>
+                        <a class="glink" href="http://warrior.clapalong.com"></a>
+                        <div class="play clearfix"><a href="http://warrior.clapalong.com" class="fl">Warriors Saga</a> <a href="javascript:openServer(9);" class="fr">Play Now</a></div>
+                        <div class="play2"></div>
+                    </li>
+                    <li class="g6">
+                    	<i class="new fr"></i>
+                        <a class="glink" href="http://loark.clapalong.com"></a>
+                        <div class="play clearfix"><a href="http://loark.clapalong.com" class="fl">Loark</a> <a href="javascript:openServer(10);" class="fr">Play Now</a></div>
+                        <div class="play2"></div>
+                    </li>
+                    <li class="g5">
+                    	<i class="new fr"></i>
+                        <a class="glink" href="http://redfire.clapalong.com"></a>
+                        <div class="play clearfix"><a href="http://redfire.clapalong.com" class="fl">RedFire</a> <a href="javascript:openServer(12);" class="fr">Play Now</a></div>
+                        <div class="play2"></div>
+                    </li>
+                    <li class="g8">
+                    	<i class="fr"></i>
+                        <a class="glink" href="http://eu.batheo.clapalong.com"></a>
+                        <div class="play clearfix"><a href="http://eu.batheo.clapalong.com" class="fl">Batheo EU</a> <a href="javascript:openServer(5);" class="fr">Play Now</a></div>
+                        <div class="play2"></div>
+                    </li>
+                    <li class="g10">
+                    	<i class="fr"></i>
+                        <a class="glink" href="http://demarcia.clapalong.com/"></a>
+                        <div class="play clearfix"><a href="http://demarcia.clapalong.com/" class="fl">Demarcia</a> <a href="javascript:openServer(11);" class="fr">Play Now</a></div>
+                        <div class="play2"></div>
+                    </li>
+                    <li class="g11">
+                    	<i class="fr"></i>
+                        <a class="glink" href="http://medievalmight.clapalong.com"></a>
+                        <div class="play clearfix"><a href="http://medievalmight.clapalong.com" class="fl">Medieval Might</a> <a href="http://medievalmight.clapalong.com" class="fr">Play Now</a></div>
+                        <div class="play2"></div>
+                    </li>
+                </ul>
+            </li>
+            <li class="l_42"><a href="http://m.clapalong.com" class="nav1"><span class="out">Mini Game</span><span class="over">Mini Game</span></a>
+            	<ul class="mini_list" id="mini_list">
+                </ul>
+            </li>
+            <li class="of l_42"><a href="http://forum.clapalong.com/forum.php" class="nav1"><span class="out">Forum</span><span class="over">Forum</span></a></li>
+            <li class="of l_42"><a href="http://pay.clapalong.com/?action=payment!orderclaps" class="nav1"><span class="out">Buy Claps</span><span class="over">Buy Claps</span></a></li>
+            <li class="of l_42"><a href="http://m.clapalong.com/uploadgame" class="nav1"><span class="out">Upload</span><span class="over">Upload</span></a></li>
+        </ul>
+        
+	    <div id="login" class="fr"> 
+        	<div class="log_in">
+            <a href="#" id="link" class="signin">Sign In</a> 
+            <form class="drop">
+                <label for="name">Username or email:</label>
+                <input type="text" name="email" id="email" class="required">
+                <label for="password">Password:</label>
+                 <input type="password" name="password" id="password">
+                <p class="remember"><a href="http://www.clapalong.com/?action=user!reg&amp;tpl=reg">Sign Up</a></p>
+                <input type="button" class="submit" value="Sign In" href="javascript:void(0);" onclick="headerLogin();">
+                <p><a href="/?action=user!callPwdBack" class="tooltip">Forgot Password?<span>Click To Reset Your Password</span></a></p>
+               <p class="tc">
+                <a href="#" onclick="javascript:FB.login(function(response){ if(response.authResponse){		
+		window.parent.location='http://www.clapalong.com/?action=user!social&amp;next=http%3A%2F%2Fwww.clapalong.com&amp;regway=1&amp;gid='+'&amp;fb_access_token='+response.authResponse.accessToken+'&amp;PHPSA_SESSION=pkqrfq6bjdta61gtdihdbn1jl2&amp;bb_forum_view=cfd5dd32301e8263fc301dada68b7845f8e3421da-9-%7Bi-19_i-1336703908_i-99_i-1336703913_i-4_i-1336668511_i-58_i-1336668532_i-49_i-1336703996_i-85_i-1336668592_i-77_i-1336668596_i-27_i-1336668848_i-92_i-1336668861_%7D&amp;bb_lastactivity=0&amp;bb_lastvisit=1336668300&amp;bb_sessionhash=8b16f62ef93190fb30e5d5d79d989c8e&amp;thirdparty_login_callback=http%3A%2F%2Felfender.clapalong.com%2F'};}, {scope:'email,publish_stream,read_stream'});" class="btn_fb"></a>
+                <a class="btn_tw rpxnow" href="https://clapalong.rpxnow.com/openid/v2/signin?token_url=http%3A%2F%2Fwww.clapalong.com%2F%3Faction%3Dthirdparty!rpx" onclick="return false;"></a>
+                <a class="btn_ya rpxnow" href="https://clapalong.rpxnow.com/openid/v2/signin?token_url=http%3A%2F%2Fwww.clapalong.com%2F%3Faction%3Dthirdparty!rpx" onclick="return false;"></a>
+                <a class="btn_go rpxnow" href="https://clapalong.rpxnow.com/openid/v2/signin?token_url=http%3A%2F%2Fwww.clapalong.com%2F%3Faction%3Dthirdparty!rpx" onclick="return false;"></a>
+                <a class="btn_in rpxnow" href="https://clapalong.rpxnow.com/openid/v2/signin?token_url=http%3A%2F%2Fwww.clapalong.com%2F%3Faction%3Dthirdparty!rpx" onclick="return false;"></a>
+                </p>
+            </form>
+            </div>
+            <div class="log_out tr" style="display:none;">
+        		<div class="user_wel">Welcome <b class="user_mane"> !</b>
+                	<div class="user_info">
+                        <div class="fl"><img src="/?action=user!avatar" width="48" height="48"></div>
+                        <div class="fr tl">
+                            <b></b>
+                            <p>CLAP </p>
+                            <p><a href="http://www.clapalong.com/?action=user!usercenter" target="_blank">Member Center</a></p>
                         </div>
+                        <div class="clr"></div>
+                        <p><a href="http://pay.clapalong.com/?action=payment!orderclaps" class="topup">TOP-UP</a></p>
                     </div>
-               </li>
-               <li class="nav2">
-               		<div class="menu_list">
-                        <a class="nav2" href="http://m.clapalong.com" onmousemove="menuList(1,2);" id="cds2" onmouseout="menuList(0,2);">FORUM</a>
-                        <div class="content" id="menu_list2" onmouseover="menuList(1,2);" onmouseout="menuList(0,2);">
-                        	<b class="top"></b>
-                       			<ul class="nav1 list_text" id="categories">
-								
-                               </ul>
-                           <b class="bot"></b>
-                        </div>
-                    </div>
-               </li>
-               <li class="nav3"><a class="nav3" href="http://forum.clapalong.com/forum.php">FORUM</a></li>
-               <li class="nav4"><a class="nav4" href="http://pay.clapalong.com/?action=payment!orderclaps">BUY CLAPS</a></li>
-               </ul>
-               <a href="http://minigame.clapalong.com/uploadgame" class="btn_1"></a>
-           </div>
-       </div>
-       </div>
-    </div>
-<!--header end-->
+                </div>
+                 <a href="javascript:void(0);" onclick="headerLogout();" class="signout">SIGN OUT</a>
+       		</div>
+            
+            
+            
+	    </div>
+                
+  </div>
+</div>
 
   <div class="main">
     <div class="main_t">
@@ -279,82 +300,86 @@ function logout() {
   
   <!---end main-->
 
-  <div class="footer">  
-	<div class="w96">
-		<div class="foot_sitemap">
-			<dl>
-				<dt>Hello</dt>
-				<dd><a href="/?action=default!whatclapalong">What is ClapAlong?</a></dd>
-				<dd><a href="/?action=default!whyclapalong">Why ClapAlong?</a></dd>
-				<dd><a href="/?action=news!catnews&amp;nid=all">Press &amp; Events</a></dd>
-			</dl>
-			<dl>
-				<dt>Help</dt>
-				<dd><a href="/?action=ticket!concerns">Customer Service</a> </dd>
-				<dd><a href="/?action=default!support">FAQ</a></dd>
-				<dd><a href="http://forum.clapalong.com/forum.php" target="_blank">Forums</a></dd>
-			</dl>
-			<dl>
-				<dt>Join Us</dt>
-				<dd><a href="http://www.facebook.com/clapalong" target="_blank">Facebook</a></dd>
-				<dd><a href="http://twitter.com/clapalong" target="_blank">Twitter</a></dd>
-				<dd><a href="http://www.youtube.com/user/ClapalongGaming?feature=mhum" target="_blank">Youtube</a></dd>
-			</dl>
-			<dl>
-				<dt>ClapAlong games</dt>
-				<dd><a href="http://batheo.clapalong.com" target="_blank">Batheo</a></dd>
-                <dd><a href="http://edragon.clapalong.com" target="_blank">Edragon</a></dd>
-                <dd><a href="http://elfender.clapalong.com" target="_blank">Elfender</a></dd>
-                <dd><a href="http://medievalmight.clapalong.com" target="_blank">Medieval Might</a></dd>
-			</dl>
-		</div>
-		
-		
-		<div class="flink">
-			<p>
-				<!--<a href="#"><img src="images/ic11.jpg" alt="rss" width="16" height="16" border="0" /></a>-->
-				<!--<a href="#"><img src="images/ic12.jpg" width="16" height="16" border="0" /></a>-->
-				<a href="http://www.facebook.com/clapalong" target="_blank"><img src="/lang/en/images/ic13.jpg" alt="facebood" width="16" height="16" border="0"></a>
-				<a href="http://twitter.com/clapalong"><img src="/lang/en/images/ic14.jpg" alt="rss" width="16" height="16" border="0"></a><a href="/?action=default!aboutus">About us</a> | 
-				<a href="http://twitter.com/clapalong" target="_blank">Follow us on Twitter</a> | 
-				<a href="/?action=ticket!concerns">Contact us</a> | 
-                <a href="/?action=default!joinus">Join us</a> | 
-				<a href="/?action=default!terms">Terms</a> | 
-				<a href="/?action=default!privacy">Privacy</a>
-			</p>
-            Copyright © 2010-2011 ClapAlong. All rights reserved.
-		</div>
-	</div>
-</div><!--end footer-->
-</div><!--end page-->
+  <div class="footer">
+	<div class="w980 tl">
+    	<a class="gotop" href="#">TOP</a>
+    	<ul class="link">
+			<li class="nobg">
+            <p class="t">Hot Games</p>
+				<a href="http://Castlot.clapalong.com" target="_blank">Castlot</a>
+				<a href="http://batheo.clapalong.com" target="_blank">Batheo</a>
+				<a href="http://loark.clapalong.com" target="_blank">Loark</a>
+				<a href="http://elfender.clapalong.com" target="_blank">Elfender</a>
+				<a href="http://demarcia.clapalong.com" target="_blank">Demarcia</a>
+			</li>
+			<li>
+            <p class="t">Recommended Games</p>
+				<a href="http://edragon.clapalong.com" target="_blank">eDragon</a>
+				<a href="http://eu.batheo.clapalong.com" target="_blank">Batheo EU</a>
+				<a href="http://redfire.clapalong.com" target="_blank">RedFire</a>
+				<a href="http://warrior.clapalong.com" target="_blank">Warriors Saga</a>
+				<a href="http://medievalmight.clapalong.com" target="_blank">Medieval Might</a>
+			</li>
+			<li>
+            <p class="t">Member Center</p>
+				<a href="http://www.clapalong.com/?action=user!usercenter" target="_blank">Account</a>
+				<a href="http://www.clapalong.com/?action=user!usercenter&amp;tab=2" target="_blank">Security</a>
+				<a href="http://www.clapalong.com/?action=user!usercenter&amp;tab=3" target="_blank">Ticket</a>
+				<a href="http://www.clapalong.com/?action=user!usercenter&amp;tab=4" target="_blank">Transfer Claps</a>
+				<a href="http://www.clapalong.com/?action=user!usercenter&amp;tab=5" target="_blank">Purchase History</a>
+			</li>
+			<li>
+            <p class="t">FAQ</p>
+				<a href="http://faq.clapalong.com/index.php?action=add" target="_blank">Add FAQ</a>
+				<a href="http://faq.clapalong.com/index.php?action=ask&amp;category_id=0" target="_blank">Ask Question</a>
+				<a href="http://faq.clapalong.com/index.php?action=open" target="_blank">Open Asked</a>
+				<a href="http://www.clapalong.com/?action=user!usercenter&amp;tab=3" target="_blank">Support Ticket</a>
+			</li>
+			<li>
+            <p class="t">Join Us</p>
+                <a href="http://www.facebook.com/clapalong" target="_blank">Facebook</a>
+                <a href="http://twitter.com/clapalong" target="_blank">Twitter</a>
+                <a href="http://www.youtube.com/user/ClapalongGaming?feature=mhum" target="_blank">YouTube</a>
+				<a href="http://forum.clapalong.com/forum.php" target="_blank">Forums</a>
+            </li>
+			<li>
+            <p class="t">About Us</p>
+                <a href="/?action=default!whatclapalong">Who is ClapAlong?</a>
+                <a href="/?action=default!whyclapalong">Why ClapAlong?</a>
+                <a href="/?action=news!catnews&amp;nid=all">What's hot?</a>
+                <a href="/?action=user!usercenter">How to contact us?</a>
+            </li>
+        </ul>
+        <div class="copyright">
+         <p><a href="http://www.clapalong.com/?action=default!aboutus">About Us</a> | 
+<a href="http://www.clapalong.com/?action=default!terms">Terms of Use</a> |
+<a href="http://www.clapalong.com/?action=default!privacy">Privacy Policy</a> |
+<a href="http://www.clapalong.com/?action=ticket!concerns">Contact Us</a> |
+<a href="http://www.clapalong.com/?action=default!joinus">Join Us</a> |
+<a href="http://www.clapalong.com/?action=default!support">Support</a></p>  
+        <p>Copyright ©  2010-2012 ClapAlong. All rights reserved.</p>
+		<p>For ClapAlong game titles' operation and distribution partnership opportunity, send an email to <a href="mailto:ODP@ClapAlong.com" style="text-decoration:underline;">ODP@ClapAlong.com</a> for more information.</p>
+        </div>
+    </div>
+</div>
 
 <script type="text/javascript">
-
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-19443311-1']);
   _gaq.push(['_setDomainName', '.clapalong.com']);
   _gaq.push(['_trackPageview']);
-
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-
 </script>
-
-
 <a title="Web Analytics" href="http://getclicky.com/227202"></a>
 <script src="http://static.getclicky.com/js" type="text/javascript"></script>
 <script type="text/javascript">try{ clicky.init(66365323); }catch(err){}</script>
 <noscript><p></p></noscript>
-
 <script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
-<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=clapalong"></script>
-    <!--
-      We use the JS SDK to provide a richer user experience. For more info,
-      look here: http://github.com/facebook/connect-js
-    -->
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=clapalong"></script> 
 
 
 </body></html>
