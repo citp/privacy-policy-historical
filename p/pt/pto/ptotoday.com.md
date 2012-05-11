@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ptotoday.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205012303id_/http%3A//www.ptotoday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptotoday.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511050635id_/http%3A//www.ptotoday.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,7 @@ We run contests on our site in which we ask visitors for contact information (li
 
 #### Links to Outside Websites
 
-This site contains links to other sites, including many not owned or controlled by PTO Today, Inc. PTO Today, Inc. is not responsible for the privacy practices or the content of such websites. 
+This site contains links to other sites, including many not owned or controlled by PTO Today, Inc. PTO Today, Inc. is not responsible for the privacy practices or the content of such websites.
 
 #### Public Message Boards
 
@@ -46,6 +46,8 @@ This site gives users the following options for removing their information from 
 
   1. You can send email to [info@ptotoday.com](mailto:info@ptotoday.com)
   2. You can call the following telephone number: 1-800-644-3561 X208 
+
+
 
   
 
