@@ -1,16 +1,23 @@
-> *The following text is extracted and transformed from the tsdating.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205201609id_/http%3A//www.tsdating.com/%3Fs%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsdating.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511062407id_/http%3A//www.tsdating.com/privacyPolicy) for the most accurate reproduction.*
 
-# .: TS Dating Singles,TS Dating Personals, Dating @ TSDating.com!
+# .: Privacy Policy
 
-**Privacy Policy**   
+#### Join for free!
 
+Join for free and search through thousands of profiles 
 
-tsdating (the "Site") is licensed to **Hundies LTD.**
+Joining only takes a minute. Joining our community will allow us to better match you with other members. 
+
+#### Find a member
+
+Search by nickname
+
+tsdating.com (the "Site") is licensed to **Hundies LTD.**
 
 Our international postal address is   
 Hundies LTD  
 Amory Building, Suite #4757, Victoria Road  
-Basseterre, SAINT KITTS AND NEVIS
+Basseterre, SAINT KITTS AND NEVIS 
 
 Our USA postal address is   
 Hundies Entertainment Inc.  
@@ -30,7 +37,7 @@ Notice - Use of Website by the Subscriber Constitutes the Subscriber's Express A
 
 **IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATEMENT YOU SHOULD NOT SUBSCRIBE TO OR USE THIS SITE**
 
-**_What Information About Subscribers is Collected?_**
+**What Information About Subscribers is Collected?**
 
 > When any consumer signs-on as a member or subscriber of this Site that consumer will be required to provide certain personal as well as demographic information which may include, but is not necessarily limited to, the subscriber's name, address, birthday, e-mail address, gender, marital status, occupation, education, credit card number and expiration date of the credit card, username and password, and special interests or affiliations. This Site collects any and all such information and includes it in its customer database. 
 > 
@@ -44,7 +51,7 @@ Notice - Use of Website by the Subscriber Constitutes the Subscriber's Express A
 > 
 > You may obtain further information about "cookies" and how they function at: <http://www.cookiecentral.com/>.
 
-**_Use of Personal Subscriber Information._**
+**Use of Personal Subscriber Information.**
 
 > The subscriber expressly agrees that the Site may use any personal information that has been provided by the subscriber or that has been collected by the Site about the subscriber for any purpose, including without limitation, technical, administration, research and development, customer administration, marketing, age verification, promotional and advertising use by the Site or third parties authorized to use the information by the Site. We do not rent, sell, or share your email address with outside parties. 
 > 
@@ -62,7 +69,7 @@ Notice - Use of Website by the Subscriber Constitutes the Subscriber's Express A
 > 
 > All subscribers should consider any information provided to or collected by the Site as non-confidential, and consequently the Site assumes no liability or responsibility if any information relating to any subscriber is intercepted and/or used by an unintended recipient.
 
-**_"OPT-IN" and "OPT-OUT" Provisions._**
+**"OPT-IN" and "OPT-OUT" Provisions.**
 
 > There may be occasions when a subscriber will be presented with special offers either from the operators of the Site or from third-party service or content providers, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials (collectively referred to as "Offers"). 
 > 
@@ -70,13 +77,13 @@ Notice - Use of Website by the Subscriber Constitutes the Subscriber's Express A
 > 
 > **" OPT-OUT"** \-- Other Offers may be presented with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the Offer) then the Site may transfer the subscriber's personal profile information to the third-party service or content provider making the Offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider.
 
-_**"OPT-OUT" Revocation Procedure.**_
+**"OPT-OUT" Revocation Procedure.**
 
-> The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by [clicking here](http://www.tsdating.com/?s=settings&p=2) and deselecting "I want to be informed of promotional offers".
+> The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by [clicking here](https://web.archive.org/web/20120511062407id_/http%3A//www.tsdating.com/settings/2) and deselecting "I want to be informed of promotional offers".
 
-_**Terms and Conditions of Membership.**_
+**Terms and Conditions of Membership.**
 
 > Each subscriber should carefully read each of the terms and conditions of Membership of this Site. By accepting membership to this Site you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this Site to use information that it has gathered from subscribers.
 > 
-> In the event of any conflicts between the [Membership Terms the Conditions](http://www.tsdating.com/?s=termsofservice) and this Privacy Policy Statement, the provisions of this Privacy Policy shall control.  
+> In the event of any conflicts between the [Membership Terms the Conditions](https://web.archive.org/termsOfService) and this Privacy Policy Statement, the provisions of this Privacy Policy shall control.  
 > 
