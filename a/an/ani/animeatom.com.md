@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animeatom.com privacy policy that was archived on 2011-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111019123607id_/http%3A//www.animeatom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animeatom.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511104655id_/http%3A//www.animeatom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Watch English Dubbed Subbed Anime Episodes Online For Free - ~..::J.G.J.M.K::..~
 
