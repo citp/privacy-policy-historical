@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superlawyers.com privacy policy that was archived on 2011-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110723184939id_/https%3A//my.superlawyers.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superlawyers.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511132824id_/https%3A//my.superlawyers.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Terms of Use, Conditions and Privacy Policy for My.Superlawyers.com - My Super Lawyers
 
@@ -12,7 +12,7 @@ At times we may contract with unaffiliated third parties to assist us in managin
 
 Provider will follow commercially acceptable practices to protect the confidentiality of Content in non-public, password protected portions of the Web Site.
 
-California Civil Code Section 1798.83 permits California residents to request certain information regarding certain disclosure of personal information to third parties in certain circumstances for a business's direct marketing purposes. To make such a request if this section of the California Civil Code applies to you, please send an e-mail to: [Webmaster](https://web.archive.org/contact.html?address=Support).
+California Civil Code Section 1798.83 permits California residents to request certain information regarding certain disclosure of personal information to third parties in certain circumstances for a business's direct marketing purposes. To make such a request if this section of the California Civil Code applies to you, please send an e-mail to: [Webmaster](https://web.archive.org/contact.html?subject=Support).
 
 **Submission of Information.** The Web Site includes areas in which users may post content and information, including without limitation personal and business profile data, messages, comments, data, text, photos, blogs, graphics or other materials (the "User Content"). You are solely responsible for your use of such areas and use them at your own risk. By using the Web Site, you agree not to post, upload to, transmit, distribute, store, create or otherwise publish through the Web Site any of the following:
 
