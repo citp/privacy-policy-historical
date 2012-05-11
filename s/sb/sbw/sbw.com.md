@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sbw.com privacy policy that was archived on 2011-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110822162359id_/https%3A//www.sbw.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbw.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511044700id_/https%3A//www.sbw.com/privacy.html) for the most accurate reproduction.*
 
 # Secure Billing Worldwide
 
-If you need assistance with any questions you may have regarding your account, contact us at support@sbw.com or call 1-877-282-9057.
+If you need assistance with any questions you may have regarding your account, contact us at [support@sbw.com](mailto:support@sbw.com "Click here to send us an email.") or call 1-877-282-9057.
 
 ## SBW Privacy Information
 
