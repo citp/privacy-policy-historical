@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 3par.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229222440id_/http%3A//welcome.hp.com/country/us/eng/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3par.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511044813id_/http%3A//welcome.hp.com/country/us/eng/privacy.html) for the most accurate reproduction.*
 
-# Online privacy statement | HP - United States
+# Online privacy statement | HP
 
 ## HP respects your privacy
 
@@ -12,7 +12,7 @@ HP was a founding sponsor of the Council of Better Business Bureau’s Online Pr
 
 In the development of HP’s privacy policies and standards, we respect and take into account the major principles and frameworks around the world, including the OECD Guidelines on the Protection of Privacy and Transborder Flows, EU Directive 95/46/EC, APEC Privacy Framework, and the Madrid Resolution on International Privacy Standards.
 
-HP has self-certified its privacy practices as consistent with U.S.-E.U. Safe Harbor principles: Notice, Choice, Onward Transfer, Access and Accuracy, Security, and Oversight/Enforcement. More information about the U.S. Department of Commerce Safe Harbor Program can be found at <http://www.export.gov/safeharbor/>. [](http://www.export.gov/safeharbor/). HP has also established a set of binding corporate rules (“BCR”), which have been approved by all Data Protection Regulators in the EEA and Switzerland effective June 2011. The BCRs ensure that personal data of covered individuals in the EEA is adequately protected while being processed by any of HP’s global entities.
+HP has self-certified its privacy practices as consistent with U.S.-E.U. and U.S.-Swiss Safe Harbor principles: Notice, Choice, Onward Transfer, Access and Accuracy, Security, and Oversight/Enforcement. More information about the U.S. Department of Commerce Safe Harbor Program can be found at <http://www.export.gov/safeharbor/>. [](http://www.export.gov/safeharbor/). HP has also established a set of binding corporate rules (“BCR”), which have been approved by all Data Protection Regulators in the EEA and Switzerland effective June 2011. The BCRs ensure that personal data of covered individuals in the EEA is adequately protected while being processed by any of HP’s global entities.
 
 In compliance with the Safe Harbor Principles and BCR requirements, HP commits to resolve complaints about your privacy and our collection or use of your personal information. HP has further committed to refer unresolved privacy complaints from EU citizens or residents regarding transfers of their personal data under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if HP does not satisfactorily address your complaint, you may contact BBB EU Safe Harbor at: <http://www.bbb.org/us/safe-harbor-complaints>. [](http://www.bbb.org/us/safe-harbor-complaints)
 
