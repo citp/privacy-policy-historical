@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the turtlebeach.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625233159id_/http%3A//www.turtlebeach.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turtlebeach.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511154619id_/http%3A//www.turtlebeach.com/privacy.aspx) for the most accurate reproduction.*
 
 # Video Gaming Headsets, Sound Cards, Audio Processors | Turtle Beach
 
-Voyetra Turtle Beach, Inc. is the owner and operator of this web site (heretofore "Turtle Beach" and the "Turtle Beach Web Site") and is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Turtle Beach Web Site and governs data collection and usage. By using this website, you consent to the data practices described in this statement.
+Voyetra Turtle Beach, Inc. ("Turtle Beach") is the owner of this website (the "Turtle Beach Web Site") and is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Turtle Beach Web Site and governs data collection and usage. By using the Turtle Beach Web Site, you consent to the data practices described in this statement.
 
 Collection of your Personal Information
 
@@ -12,7 +12,7 @@ There is also information about your computer hardware and software that is auto
 
 Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Turtle Beach public message boards, this information may be collected and used by others. Note: Turtle Beach does not read any of your private online communications.
 
-Turtle Beach encourages you to review the privacy statements of Web sites you choose to link to from the Turtle Beach Web Site so that you can understand how those Web sites collect, use and share your information. Turtle Beach is not responsible for the privacy statements or other content on Web sites outside of the Turtle Beach and Voyetra Turtle Beach, Inc. family of Web sites.
+Turtle Beach encourages you to review the privacy statements of Web sites you choose to link to from Turtle Beach so that you can understand how those Web sites collect, use and share your information. Turtle Beach is not responsible for the privacy statements or other content on Web sites outside of the Turtle Beach and Turtle Beach family of Web sites.
 
 Use of your Personal Information
 
@@ -22,17 +22,17 @@ Turtle Beach does not sell, rent or lease its customer lists to third parties. T
 
 Turtle Beach does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
 
-Turtle Beach keeps track of the Web sites and pages our customers visit within Turtle Beach, in order to determine what Turtle Beach services are the most popular. This data is used to deliver customized content and advertising within Turtle Beach to customers whose behavior indicates that they are interested in a particular subject area.
+Turtle Beach keeps track of the Web sites and pages our customers visit within the Turtle Beach Web Site, in order to determine what Turtle Beach services are the most popular. This data is used to deliver customized content and advertising within the Turtle Beach Web Site to customers whose behavior indicates that they are interested in a particular subject area.
 
-Turtle Beach web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Turtle Beach or the Voyetra Turtle Beach, Inc. web site; (b) protect and defend the rights or property of Turtle Beach; and, (c) act under exigent circumstances to protect the personal safety of users of Turtle Beach, or the public.
+Turtle Beach web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Turtle Beach or the site; (b) protect and defend the rights or property of Turtle Beach; and, (c) act under exigent circumstances to protect the personal safety of users of Turtle Beach web sites, or the public.
 
 Use of Cookies
 
-The Turtle Beach Web Site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+The Turtle Beach Web Site uses "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Turtle Beach Web Site pages, or register with Turtle Beach Web Site or services, a cookie helps Turtle Beach to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Turtle Beach Web Site, the information you previously provided can be retrieved, so you can easily use the Turtle Beach Web Site features that you customized.
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Turtle Beach Web Site pages, or register with the Turtle Beach site or services, a cookie helps Turtle Beach to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Turtle Beach web site, the information you previously provided can be retrieved, so you can easily use the Turtle Beach features that you customized.
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Turtle Beach services or Web sites you visit.
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Turtle Beach services or web sites you visit.
 
 Security of your Personal Information
 
