@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softcns.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101162315id_/http%3A//www.softcns.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softcns.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511080012id_/http%3A//www.softcns.com/info/privacy.html) for the most accurate reproduction.*
 
 # SoftCns.com Privacy policy
 
