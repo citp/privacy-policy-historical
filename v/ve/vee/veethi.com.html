@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the veethi.com privacy policy that was archived on 2011-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111210193704id_/http%3A//www.veethi.com/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the veethi.com privacy policy that was archived on 2012-05-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120512011502id_/http%3A//www.veethi.com/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <title>Privacy Policy : India Local City Business Directory Search : Indian Yellow Pages : Veethi.com</title>
@@ -24,16 +24,6 @@ STYLE SHEETS INCLUDES
 <![endif]-->
 </head>
 <body>
-<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-16722118-1']);
-  _gaq.push(['_trackPageview']);
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
 <div class="wrapper">
 	<div class="mainPan">
 	  <!--JAVA SCRIPT INCLUDES-->
@@ -43,7 +33,7 @@ STYLE SHEETS INCLUDES
 <div id="header">
 
 <div class="contenth">
-<script type="text/javascript" src="http://www.veethi.com/js/script.js"></script>
+<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.veethi.com/js/script.js"></script>
 
 <!-- city directory ajax script -->
 <script type="text/javascript" src="http://www.veethi.com/js/ajax_city_directory.js"></script>
@@ -61,7 +51,17 @@ STYLE SHEETS INCLUDES
 JAVA SCRIPTS
 
 -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+ _gaq.push(['_setAccount', 'UA-16722118-1']);
 
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+ })();
+</script>
 <!-- auto complete script -->
 
 
@@ -234,6 +234,33 @@ jQuery().ready(function() {
 		//jQuery(this).val()=data[3];
 			//jQuery(this).parent().next().find("input").val(data[3]);
 	});
+	jQuery("#txtschool").autocomplete("autocomplete_school.php", {
+		width: 400,
+		selectFirst: false
+	});
+
+	jQuery("#txtschool").result(function(event, data, formatted) {
+		
+		if (data)
+		var url=data[2]+'-school-'+data[1]+'.htm';
+		window.open(url,'_self');
+		//jQuery(this).val()=data[3];
+			//jQuery(this).parent().next().find("input").val(data[3]);
+	});
+	//txtcollege
+	jQuery("#txtcollege").autocomplete("autocomplete_college.php", {
+		width: 400,
+		selectFirst: false
+	});
+
+	jQuery("#txtcollege").result(function(event, data, formatted) {
+		
+		if (data)
+		var url=data[2]+'-college-'+data[1]+'.htm';
+		window.open(url,'_self');
+		//jQuery(this).val()=data[3];
+			//jQuery(this).parent().next().find("input").val(data[3]);
+	});
 	jQuery("#txtplacephoto").autocomplete("autocomplete_placephoto.php", {
 		width: 450,
 		selectFirst: false
@@ -308,8 +335,74 @@ jQuery("#txtpeople").autocomplete("autocomplete_people.php", {
 		//window.open(url,'_self');
 			//jQuery(this).parent().next().find("input").val(data[1]);
 	});
+	jQuery("#txtprocity").autocomplete("autocomplete_procity.php", {
+		width: 330,
+		scrollHeight: 400, 
+		selectFirst: false
+	});
+	jQuery("#txtprocity").result(function(event, data, formatted) {
+		if (data)
+		{if(data[1] != 0)
+			{
+			var url=data[3]+'-property-'+data[1]+'.htm';
+			window.open(url,'_self');
+			}
+			else
+			{
+			var url="city_result.html?txt="+data[2];
+			window.open(url,'_self');
+			}
+		}
+			//jQuery(this).val(data[2]);
+	});
+	jQuery("#txtprocity1").autocomplete("autocomplete_procity.php", {
+		width: 335,
+		scrollHeight: 400, 
+		selectFirst: false
+	});
+	jQuery("#txtprocity1").result(function(event, data, formatted) {
+		if (data)
+		{if(data[1] != 0)
+			{
+			var url=data[3]+'-property-'+data[1]+'.htm';
+			window.open(url,'_self');
+			}
+			else
+			{
+			var url="city_result.html?txt="+data[2];
+			window.open(url,'_self');
+			}
+		}
+			//jQuery(this).val(data[2]);
+	});
+	//for job city search txtjobcity
+	jQuery("#txtjobcity").autocomplete("autocomplete_jobcity.php", {
+		width: 330,
+		scrollHeight: 400, 
+		selectFirst: false
+	});
+	jQuery("#txtjobcity").result(function(event, data, formatted) {
+		if (data)
+			var url=data[2]+'-jobs-All-'+data[1]+'.htm';
+			window.open(url,'_self');
+			
+			//jQuery(this).val(data[0]);
+			//jQuery("#city_id").val(data[1]);
+	});
+	jQuery("#txtjobcity1").autocomplete("autocomplete_jobcity.php", {
+		width: 260,
+		scrollHeight: 400, 
+		selectFirst: false
+	});
+	jQuery("#txtjobcity1").result(function(event, data, formatted) {
+		if (data)
+			var url=data[2]+'-jobs-All-'+data[1]+'.htm';
+			window.open(url,'_self');
+			
+			//jQuery(this).val(data[0]);
+			//jQuery("#city_id").val(data[1]);
+	});
 	jQuery("#clear").click(function() {
-
 		jQuery(":input").unautocomplete();
 	});
 
@@ -336,6 +429,7 @@ event.preventDefault();
 	}
 
 jQuery("#changeCityPopup").slideToggle();
+jQuery("#selectCityPopup").slideToggle();
 
 });
 
@@ -473,9 +567,9 @@ jQuery(document).ready(function() {
 });
 </script>
  <!--LOGO (BEGIN)-->
-        <a href="http://www.veethi.com" title="Discover the People, Places and Businesses of India"><img src="http://www.veethi.com/images/logo.jpg" alt="Veethi Logo" id="vtLogo_screen" width="205" height="75"><!--<img src="#" id="vtLogo_print" alt="Virtual Tourist Print Logo" />--></a>
-        <!--LOGO (END)-->
-<div style="float:right; padding-top:3px;">	Already have an account? <a href="http://www.veethi.com/user_login.html" title="Log in India Local City Business Directory">Login</a> or <a href="http://www.veethi.com/user_register.html" title="Register With India Local City Business Directory">Register</a></div><div style="margin-bottom:2px;float:right; height:90px; width:728px;  "><p><script type="text/javascript"><!--
+        <a href="http://www.veethi.com" title="Discover the People, Places and Businesses of India"><img src="http://www.veethi.com/images/logo.jpg" alt="Veethi Logo" id="vtLogo_screen" width="205" height="75">
+ <!--LOGO (END)-->
+</a><div style="float:right; padding-top:3px;"><a href="http://www.veethi.com" title="Discover the People, Places and Businesses of India">	Already have an account? </a><a href="http://www.veethi.com/user_login.html" title="Log in India Local City Business Directory">Login</a> or <a href="http://www.veethi.com/user_register.html" title="Register With India Local City Business Directory">Register</a></div><div style="margin-bottom:2px;float:right; height:90px; width:728px;  "><p><script type="text/javascript"><!--
 
 google_ad_client = "pub-7264437082901485";
 
@@ -505,7 +599,19 @@ google_ad_height = 60;
 
            <ul class="mainNav clearfix">
 
-			 <li><a href="http://www.veethi.com" class="" title="Discover the People, Places and Businesses of India">Home</a></li><li><a href="http://www.veethi.com/india-people/" class="" title="Indian People Latest News, Photos and Videos">People</a></li><li><a href="http://www.veethi.com/places/" class="" title="Places in India, Indian Places | Find Indian Cities, Town, Villages - Veethi.com">Places</a></li><li><a href="http://www.veethi.com/yellowpages_home.html" class="" title="Indian Yellow Pages">Yellow Pages</a></li><li><a href="http://www.veethi.com/cityimages_home.html" class="" title="India Photos">City Images</a></li><li><a href="http://www.veethi.com/india_travel_guide.html" class="" title="India Travel Guide">Travel Guide</a></li><li><a href="http://www.veethi.com/forum_home.html" class="" title="India Forums">Forums</a></li><li><a href="http://www.veethi.com/news.html" class="" title="India News,Indian News Papers,India Latest News,News from India,India News Online,India Daily News">News</a></li><li><a href="http://www.veethi.com/articles/" class="" title="Indian articles,submit articles">Articles</a></li><li class="lst"><a href="http://www.veethi.com/members.html" class="" title="Veethi Members">Members</a></li>            </ul>
+			 <li><a href="http://www.veethi.com" class="" title="Discover the People, Places and Businesses of India">Home</a></li><li><a href="http://www.veethi.com/india-people/" class="" title="Indian People Latest News, Photos and Videos">People</a></li><li><a href="http://www.veethi.com/places/" class="" title="Places in India, Indian Places | Find Indian Cities, Town, Villages - Veethi.com">Places</a></li><li><a href="http://www.veethi.com/yellowpages_home.html" class="" title="Indian Yellow Pages">Yellow Pages</a></li><li><a href="http://www.veethi.com/cityimages_home.html" class="" title="India Photos">Photos</a></li><li><a href="http://www.veethi.com/places/india_videos.html" class="" title="India Videos">Videos</a></li><li><a href="http://www.veethi.com/travel/india_travel_guide.html" class="" title="India Travel Guide">Travel Guide</a></li><li><a href="http://www.veethi.com/forum_home.html" class="" title="India Forums">Forums</a></li><li><a href="http://www.veethi.com/articles/" class="" title="Indian articles,submit articles">Articles</a></li><li class="lst"><a href="http://www.veethi.com/members.html" class="" title="Veethi Members">Members</a></li>			<li class="lst"><a href="#" title="More">More</a>
+						<ul>
+							<li><a href="http://www.veethi.com/news.html" title="India News,Indian News Papers,India Latest News,News from India,India News Online,India Daily News">News</a></li>
+							<li><a href="http://www.veethi.com/realestate/" title="Properties in India">Real Estate</a></li>
+							<li><a href="http://www.veethi.com/places/facts_about_india.html" title="Facts about India">Facts About India</a></li>
+							<li><a href="http://www.veethi.com/places/india-pin-codes.html" title="PIN Codes">PIN Codes</a></li>
+							<li><a href="http://www.veethi.com/places/india_banks-ifsc-micr-codes.html" title="Bank IFSC &amp; MICR Codes">Bank IFSC Codes</a></li>
+							<li><a href="http://www.veethi.com/places/india-std-codes.html" title="STD Codes">STD Codes</a></li>
+							<li><a href="http://www.veethi.com/places/india_complaints.html" title="Complaints">Complaints</a></li>
+							<li><a href="http://www.veethi.com/places/india_events.html" title="Events">Events</a></li>
+						</ul>
+			</li>
+            </ul>
         </div>
     </div>
     <!--MAIN SITE NAVIGATION (END)-->
@@ -641,8 +747,8 @@ FB.init("6dd6b4c9db81d490a1a70562ec71538e");
 		</div>
 	  </div>
 	  <div class="clear">&nbsp;</div>
-	   <h2 class="keywords">Recently Searched Business Tags</h2> <div class="main_keywords"><a class="list_1" href="hardware-yellowpages_results-txtSearch-hardware.htm">Hardware</a>&nbsp;&nbsp;&nbsp;<a class="list_6" href="electrical-yellowpages_results-txtSearch-electrical.htm">Electrical</a>&nbsp;&nbsp;&nbsp;<a class="list_4" href="courier_service-yellowpages_results-txtSearch-courier+service.htm">Courier Service</a>&nbsp;&nbsp;&nbsp;<a class="list_3" href="marriage_hall-yellowpages_results-txtSearch-marriage+hall.htm">Marriage Hall</a>&nbsp;&nbsp;&nbsp;<a class="list_1" href="school-yellowpages_results-txtSearch-school.htm">School</a>&nbsp;&nbsp;&nbsp;<a class="list_6" href="beauty_parlour-yellowpages_results-txtSearch-beauty+parlour.htm">Beauty Parlour</a>&nbsp;&nbsp;&nbsp;<a class="list_2" href="hospital-yellowpages_results-txtSearch-hospital.htm">Hospital</a>&nbsp;&nbsp;&nbsp;<a class="list_5" href="automobile_sales-yellowpages_results-txtSearch-automobile+sales.htm">Automobile Sales</a>&nbsp;&nbsp;&nbsp;<a class="list_6" href="builders-yellowpages_results-txtSearch-builders.htm">Builders</a>&nbsp;&nbsp;&nbsp;<a class="list_1" href="gifts-yellowpages_results-txtSearch-gifts.htm">Gifts</a>&nbsp;&nbsp;&nbsp;<a class="list_4" href="hotel-yellowpages_results-txtSearch-hotel.htm">Hotel</a>&nbsp;&nbsp;&nbsp;<a class="list_3" href="restaurant-yellowpages_results-txtSearch-restaurant.htm">Restaurant</a>&nbsp;&nbsp;&nbsp;<a class="list_4" href="jeweller-yellowpages_results-txtSearch-jeweller.htm">Jeweller</a>&nbsp;&nbsp;&nbsp;<a class="list_6" href="super_market-yellowpages_results-txtSearch-super+market.htm">Super Market</a>&nbsp;&nbsp;&nbsp;<a class="list_4" href="travel_agent-yellowpages_results-txtSearch-travel+agent.htm">Travel Agent</a>&nbsp;&nbsp;&nbsp;<a class="list_1" href="computer_sales-yellowpages_results-txtSearch-computer+sales.htm">Computer Sales</a>&nbsp;&nbsp;&nbsp;<a class="list_4" href="hostels-yellowpages_results-txtSearch-hostels.htm">Hostels</a>&nbsp;&nbsp;&nbsp;<a class="list_6" href="blood_bank-yellowpages_results-txtSearch-blood+bank.htm">Blood Bank</a>&nbsp;&nbsp;&nbsp;<a class="list_3" href="financial_service-yellowpages_results-txtSearch-financial+service.htm">Financial Service</a>&nbsp;&nbsp;&nbsp;<a class="list_6" href="college-yellowpages_results-txtSearch-college.htm">College</a>&nbsp;&nbsp;&nbsp;<a class="list_5" href="cinema_theatre-yellowpages_results-txtSearch-cinema+theatre.htm">Cinema Theatre</a>&nbsp;&nbsp;&nbsp;<a class="list_3" href="train-yellowpages_results-txtSearch-train.htm">Train</a>&nbsp;&nbsp;&nbsp;<a class="list_2" href="textile-yellowpages_results-txtSearch-textile.htm">Textile</a>&nbsp;&nbsp;&nbsp;<a class="list_2" href="furniture-yellowpages_results-txtSearch-furniture.htm">Furniture</a>&nbsp;&nbsp;&nbsp;<a class="list_4" href="music-yellowpages_results-txtSearch-music.htm">Music</a>&nbsp;&nbsp;&nbsp;<a class="list_4" href="home_appliance-yellowpages_results-txtSearch-home+appliance.htm">Home Appliance</a>&nbsp;&nbsp;&nbsp;<a class="list_6" href="catering_service-yellowpages_results-txtSearch-catering+service.htm">Catering Service</a>&nbsp;&nbsp;&nbsp;<a class="list_1" href="tuition_centre-yellowpages_results-txtSearch-tuition+centre.htm">Tuition Centre</a>&nbsp;&nbsp;&nbsp;<a class="list_3" href="agricultural_service-yellowpages_results-txtSearch-agricultural+service.htm">Agricultural Service</a>&nbsp;&nbsp;&nbsp;<a class="list_2" href="bank-yellowpages_results-txtSearch-bank.htm">Bank</a>&nbsp;&nbsp;&nbsp;<a class="list_5" href="clinic-yellowpages_results-txtSearch-clinic.htm">Clinic</a>&nbsp;&nbsp;&nbsp;<a class="list_3" href="pesticide-yellowpages_results-txtSearch-pesticide.htm">Pesticide</a>&nbsp;&nbsp;&nbsp;<a class="list_6" href="matrimonial_service-yellowpages_results-txtSearch-matrimonial+service.htm">Matrimonial Service</a>&nbsp;&nbsp;&nbsp;<a class="list_6" href="yoga_class-yellowpages_results-txtSearch-yoga+class.htm">Yoga Class</a>&nbsp;&nbsp;&nbsp;<a class="list_2" href="real_estate_agent-yellowpages_results-txtSearch-real+estate+agent.htm">Real Estate Agent</a>&nbsp;&nbsp;&nbsp;<a class="list_1" href="police_station-yellowpages_results-txtSearch-police+station.htm">Police Station</a>&nbsp;&nbsp;&nbsp;<a class="list_6" href="post_office-yellowpages_results-txtSearch-post+office.htm">Post Office</a>&nbsp;&nbsp;&nbsp;<a class="list_5" href="handicraft-yellowpages_results-txtSearch-handicraft.htm">Handicraft</a>&nbsp;&nbsp;&nbsp;<a class="list_1" href="readymade-yellowpages_results-txtSearch-readymade.htm">Readymade</a>&nbsp;&nbsp;&nbsp;<a class="list_3" href="astrologist-yellowpages_results-txtSearch-astrologist.htm">Astrologist</a>&nbsp;&nbsp;&nbsp;<a class="list_5" href="book_shop-yellowpages_results-txtSearch-book+shop.htm">Book Shop</a>&nbsp;&nbsp;&nbsp;<a class="list_5" href="ambulance-yellowpages_results-txtSearch-ambulance.htm">Ambulance</a>&nbsp;&nbsp;&nbsp;<a class="list_6" href="pizza-yellowpages_results-txtSearch-pizza.htm">Pizza</a>&nbsp;&nbsp;&nbsp;<a class="list_2" href="sport-yellowpages_results-txtSearch-sport.htm">Sport</a>&nbsp;&nbsp;&nbsp;<a class="list_1" href="training_centre-yellowpages_results-txtSearch-training+centre.htm">Training Centre</a>&nbsp;&nbsp;&nbsp;<a class="list_1" href="electronic-yellowpages_results-txtSearch-electronic.htm">Electronic</a>&nbsp;&nbsp;&nbsp;<a class="list_3" href="gym-yellowpages_results-txtSearch-gym.htm">Gym</a>&nbsp;&nbsp;&nbsp;<a class="list_5" href="musical_instrument-yellowpages_results-txtSearch-musical+instrument.htm">Musical Instrument</a>&nbsp;&nbsp;&nbsp;<a class="list_5" href="lodges-yellowpages_results-txtSearch-lodges.htm">Lodges</a>&nbsp;&nbsp;&nbsp;</div>	  <br>
-	   <h2 class="keywords">Recently Searched Image Tags</h2> <div class="main_keywords"><a class="list_5" href="cityimages_results.html?txtSearch=taj+mahal">Taj Mahal</a>&nbsp;&nbsp;&nbsp;<a class="list_2" href="cityimages_results.html?txtSearch=school">School</a>&nbsp;&nbsp;&nbsp;<a class="list_2" href="cityimages_results.html?txtSearch=institution">Institution</a>&nbsp;&nbsp;&nbsp;<a class="list_5" href="cityimages_results.html?txtSearch=college">College</a>&nbsp;&nbsp;&nbsp;<a class="list_1" href="cityimages_results.html?txtSearch=tirunelveli">Tirunelveli</a>&nbsp;&nbsp;&nbsp;<a class="list_1" href="cityimages_results.html?txtSearch=transport">Transport</a>&nbsp;&nbsp;&nbsp;<a class="list_6" href="cityimages_results.html?txtSearch=road">Road</a>&nbsp;&nbsp;&nbsp;<a class="list_5" href="cityimages_results.html?txtSearch=kolkata">Kolkata</a>&nbsp;&nbsp;&nbsp;<a class="list_1" href="cityimages_results.html?txtSearch=bridge">Bridge</a>&nbsp;&nbsp;&nbsp;<a class="list_3" href="cityimages_results.html?txtSearch=hospital">Hospital</a>&nbsp;&nbsp;&nbsp;<a class="list_4" href="cityimages_results.html?txtSearch=medical+colleges">Medical Colleges</a>&nbsp;&nbsp;&nbsp;<a class="list_4" href="cityimages_results.html?txtSearch=beach">Beach</a>&nbsp;&nbsp;&nbsp;<a class="list_6" href="cityimages_results.html?txtSearch=fort">Fort</a>&nbsp;&nbsp;&nbsp;<a class="list_1" href="cityimages_results.html?txtSearch=thoothukudi">Thoothukudi</a>&nbsp;&nbsp;&nbsp;<a class="list_6" href="cityimages_results.html?txtSearch=temple">Temple</a>&nbsp;&nbsp;&nbsp;<a class="list_4" href="cityimages_results.html?txtSearch=+monuments"> Monuments</a>&nbsp;&nbsp;&nbsp;<a class="list_6" href="cityimages_results.html?txtSearch=government">Government</a>&nbsp;&nbsp;&nbsp;<a class="list_1" href="cityimages_results.html?txtSearch=temple">Temple</a>&nbsp;&nbsp;&nbsp;<a class="list_5" href="cityimages_results.html?txtSearch=streets">Streets</a>&nbsp;&nbsp;&nbsp;<a class="list_1" href="cityimages_results.html?txtSearch=+mumbai"> Mumbai</a>&nbsp;&nbsp;&nbsp;<a class="list_5" href="cityimages_results.html?txtSearch=fishing">Fishing</a>&nbsp;&nbsp;&nbsp;<a class="list_1" href="cityimages_results.html?txtSearch=flower">Flower</a>&nbsp;&nbsp;&nbsp;<a class="list_2" href="cityimages_results.html?txtSearch=park">Park</a>&nbsp;&nbsp;&nbsp;<a class="list_1" href="cityimages_results.html?txtSearch=agra">Agra</a>&nbsp;&nbsp;&nbsp;<a class="list_5" href="cityimages_results.html?txtSearch=mahabalipuram">Mahabalipuram</a>&nbsp;&nbsp;&nbsp;<a class="list_4" href="cityimages_results.html?txtSearch=church">Church</a>&nbsp;&nbsp;&nbsp;<a class="list_5" href="cityimages_results.html?txtSearch=kanyakumari">Kanyakumari</a>&nbsp;&nbsp;&nbsp;<a class="list_4" href="cityimages_results.html?txtSearch=ahmedabad">Ahmedabad</a>&nbsp;&nbsp;&nbsp;<a class="list_1" href="cityimages_results.html?txtSearch=chennai">Chennai</a>&nbsp;&nbsp;&nbsp;</div>	</div>
+	   <h2 class="keywords">Recently Searched Business Tags</h2> <div class="main_keywords"><a class="list_1" href="hardware-yellowpages_results-txtSearch-hardware.htm">Hardware</a>&nbsp;&nbsp;&nbsp;<a class="list_4" href="electrical-yellowpages_results-txtSearch-electrical.htm">Electrical</a>&nbsp;&nbsp;&nbsp;<a class="list_3" href="courier_service-yellowpages_results-txtSearch-courier+service.htm">Courier Service</a>&nbsp;&nbsp;&nbsp;<a class="list_3" href="marriage_hall-yellowpages_results-txtSearch-marriage+hall.htm">Marriage Hall</a>&nbsp;&nbsp;&nbsp;<a class="list_2" href="schools-yellowpages_results-txtSearch-schools.htm">Schools</a>&nbsp;&nbsp;&nbsp;<a class="list_3" href="beauty_parlour-yellowpages_results-txtSearch-beauty+parlour.htm">Beauty Parlour</a>&nbsp;&nbsp;&nbsp;<a class="list_4" href="hospitals-yellowpages_results-txtSearch-hospitals.htm">Hospitals</a>&nbsp;&nbsp;&nbsp;<a class="list_5" href="automobile_sales-yellowpages_results-txtSearch-automobile+sales.htm">Automobile Sales</a>&nbsp;&nbsp;&nbsp;<a class="list_1" href="builders-yellowpages_results-txtSearch-builders.htm">Builders</a>&nbsp;&nbsp;&nbsp;<a class="list_6" href="gifts-yellowpages_results-txtSearch-gifts.htm">Gifts</a>&nbsp;&nbsp;&nbsp;<a class="list_1" href="hotel-yellowpages_results-txtSearch-hotel.htm">Hotel</a>&nbsp;&nbsp;&nbsp;<a class="list_2" href="restaurant-yellowpages_results-txtSearch-restaurant.htm">Restaurant</a>&nbsp;&nbsp;&nbsp;<a class="list_5" href="jeweller-yellowpages_results-txtSearch-jeweller.htm">Jeweller</a>&nbsp;&nbsp;&nbsp;<a class="list_5" href="super_market-yellowpages_results-txtSearch-super+market.htm">Super Market</a>&nbsp;&nbsp;&nbsp;<a class="list_4" href="travel_agent-yellowpages_results-txtSearch-travel+agent.htm">Travel Agent</a>&nbsp;&nbsp;&nbsp;<a class="list_1" href="computer_sales-yellowpages_results-txtSearch-computer+sales.htm">Computer Sales</a>&nbsp;&nbsp;&nbsp;<a class="list_2" href="hostels-yellowpages_results-txtSearch-hostels.htm">Hostels</a>&nbsp;&nbsp;&nbsp;<a class="list_6" href="blood_bank-yellowpages_results-txtSearch-blood+bank.htm">Blood Bank</a>&nbsp;&nbsp;&nbsp;<a class="list_5" href="financial_service-yellowpages_results-txtSearch-financial+service.htm">Financial Service</a>&nbsp;&nbsp;&nbsp;<a class="list_6" href="colleges-yellowpages_results-txtSearch-colleges.htm">Colleges</a>&nbsp;&nbsp;&nbsp;<a class="list_1" href="cinema_theatre-yellowpages_results-txtSearch-cinema+theatre.htm">Cinema Theatre</a>&nbsp;&nbsp;&nbsp;<a class="list_6" href="train-yellowpages_results-txtSearch-train.htm">Train</a>&nbsp;&nbsp;&nbsp;<a class="list_3" href="textile-yellowpages_results-txtSearch-textile.htm">Textile</a>&nbsp;&nbsp;&nbsp;<a class="list_3" href="furniture-yellowpages_results-txtSearch-furniture.htm">Furniture</a>&nbsp;&nbsp;&nbsp;<a class="list_6" href="music-yellowpages_results-txtSearch-music.htm">Music</a>&nbsp;&nbsp;&nbsp;<a class="list_6" href="home_appliance-yellowpages_results-txtSearch-home+appliance.htm">Home Appliance</a>&nbsp;&nbsp;&nbsp;<a class="list_4" href="catering_service-yellowpages_results-txtSearch-catering+service.htm">Catering Service</a>&nbsp;&nbsp;&nbsp;<a class="list_2" href="tuition_centre-yellowpages_results-txtSearch-tuition+centre.htm">Tuition Centre</a>&nbsp;&nbsp;&nbsp;<a class="list_2" href="agricultural_service-yellowpages_results-txtSearch-agricultural+service.htm">Agricultural Service</a>&nbsp;&nbsp;&nbsp;<a class="list_1" href="bank-yellowpages_results-txtSearch-bank.htm">Bank</a>&nbsp;&nbsp;&nbsp;<a class="list_3" href="clinic-yellowpages_results-txtSearch-clinic.htm">Clinic</a>&nbsp;&nbsp;&nbsp;<a class="list_4" href="pesticide-yellowpages_results-txtSearch-pesticide.htm">Pesticide</a>&nbsp;&nbsp;&nbsp;<a class="list_3" href="matrimonial_service-yellowpages_results-txtSearch-matrimonial+service.htm">Matrimonial Service</a>&nbsp;&nbsp;&nbsp;<a class="list_5" href="yoga_class-yellowpages_results-txtSearch-yoga+class.htm">Yoga Class</a>&nbsp;&nbsp;&nbsp;<a class="list_4" href="real_estate_agent-yellowpages_results-txtSearch-real+estate+agent.htm">Real Estate Agent</a>&nbsp;&nbsp;&nbsp;<a class="list_3" href="police_station-yellowpages_results-txtSearch-police+station.htm">Police Station</a>&nbsp;&nbsp;&nbsp;<a class="list_6" href="post_office-yellowpages_results-txtSearch-post+office.htm">Post Office</a>&nbsp;&nbsp;&nbsp;<a class="list_6" href="handicraft-yellowpages_results-txtSearch-handicraft.htm">Handicraft</a>&nbsp;&nbsp;&nbsp;<a class="list_6" href="readymade-yellowpages_results-txtSearch-readymade.htm">Readymade</a>&nbsp;&nbsp;&nbsp;<a class="list_5" href="astrologist-yellowpages_results-txtSearch-astrologist.htm">Astrologist</a>&nbsp;&nbsp;&nbsp;<a class="list_2" href="book_shop-yellowpages_results-txtSearch-book+shop.htm">Book Shop</a>&nbsp;&nbsp;&nbsp;<a class="list_4" href="ambulance-yellowpages_results-txtSearch-ambulance.htm">Ambulance</a>&nbsp;&nbsp;&nbsp;<a class="list_6" href="pizza-yellowpages_results-txtSearch-pizza.htm">Pizza</a>&nbsp;&nbsp;&nbsp;<a class="list_2" href="sport-yellowpages_results-txtSearch-sport.htm">Sport</a>&nbsp;&nbsp;&nbsp;<a class="list_1" href="training_centre-yellowpages_results-txtSearch-training+centre.htm">Training Centre</a>&nbsp;&nbsp;&nbsp;<a class="list_1" href="electronic-yellowpages_results-txtSearch-electronic.htm">Electronic</a>&nbsp;&nbsp;&nbsp;<a class="list_3" href="gym-yellowpages_results-txtSearch-gym.htm">Gym</a>&nbsp;&nbsp;&nbsp;<a class="list_6" href="musical_instrument-yellowpages_results-txtSearch-musical+instrument.htm">Musical Instrument</a>&nbsp;&nbsp;&nbsp;<a class="list_3" href="lodges-yellowpages_results-txtSearch-lodges.htm">Lodges</a>&nbsp;&nbsp;&nbsp;</div>	  <br>
+	   <h2 class="keywords">Recently Searched Image Tags</h2> <div class="main_keywords"><a class="list_2" href="cityimages_results.html?txtSearch=taj+mahal">Taj Mahal</a>&nbsp;&nbsp;&nbsp;<a class="list_5" href="cityimages_results.html?txtSearch=school">School</a>&nbsp;&nbsp;&nbsp;<a class="list_1" href="cityimages_results.html?txtSearch=institution">Institution</a>&nbsp;&nbsp;&nbsp;<a class="list_2" href="cityimages_results.html?txtSearch=college">College</a>&nbsp;&nbsp;&nbsp;<a class="list_6" href="cityimages_results.html?txtSearch=tirunelveli">Tirunelveli</a>&nbsp;&nbsp;&nbsp;<a class="list_6" href="cityimages_results.html?txtSearch=transport">Transport</a>&nbsp;&nbsp;&nbsp;<a class="list_2" href="cityimages_results.html?txtSearch=road">Road</a>&nbsp;&nbsp;&nbsp;<a class="list_3" href="cityimages_results.html?txtSearch=kolkata">Kolkata</a>&nbsp;&nbsp;&nbsp;<a class="list_5" href="cityimages_results.html?txtSearch=bridge">Bridge</a>&nbsp;&nbsp;&nbsp;<a class="list_3" href="cityimages_results.html?txtSearch=hospital">Hospital</a>&nbsp;&nbsp;&nbsp;<a class="list_5" href="cityimages_results.html?txtSearch=medical+colleges">Medical Colleges</a>&nbsp;&nbsp;&nbsp;<a class="list_4" href="cityimages_results.html?txtSearch=beach">Beach</a>&nbsp;&nbsp;&nbsp;<a class="list_4" href="cityimages_results.html?txtSearch=fort">Fort</a>&nbsp;&nbsp;&nbsp;<a class="list_2" href="cityimages_results.html?txtSearch=thoothukudi">Thoothukudi</a>&nbsp;&nbsp;&nbsp;<a class="list_4" href="cityimages_results.html?txtSearch=temple">Temple</a>&nbsp;&nbsp;&nbsp;<a class="list_5" href="cityimages_results.html?txtSearch=+monuments"> Monuments</a>&nbsp;&nbsp;&nbsp;<a class="list_4" href="cityimages_results.html?txtSearch=government">Government</a>&nbsp;&nbsp;&nbsp;<a class="list_3" href="cityimages_results.html?txtSearch=temple">Temple</a>&nbsp;&nbsp;&nbsp;<a class="list_2" href="cityimages_results.html?txtSearch=streets">Streets</a>&nbsp;&nbsp;&nbsp;<a class="list_3" href="cityimages_results.html?txtSearch=+mumbai"> Mumbai</a>&nbsp;&nbsp;&nbsp;<a class="list_1" href="cityimages_results.html?txtSearch=fishing">Fishing</a>&nbsp;&nbsp;&nbsp;<a class="list_3" href="cityimages_results.html?txtSearch=flower">Flower</a>&nbsp;&nbsp;&nbsp;<a class="list_1" href="cityimages_results.html?txtSearch=park">Park</a>&nbsp;&nbsp;&nbsp;<a class="list_4" href="cityimages_results.html?txtSearch=agra">Agra</a>&nbsp;&nbsp;&nbsp;<a class="list_3" href="cityimages_results.html?txtSearch=mahabalipuram">Mahabalipuram</a>&nbsp;&nbsp;&nbsp;<a class="list_4" href="cityimages_results.html?txtSearch=church">Church</a>&nbsp;&nbsp;&nbsp;<a class="list_4" href="cityimages_results.html?txtSearch=kanyakumari">Kanyakumari</a>&nbsp;&nbsp;&nbsp;<a class="list_1" href="cityimages_results.html?txtSearch=ahmedabad">Ahmedabad</a>&nbsp;&nbsp;&nbsp;<a class="list_5" href="cityimages_results.html?txtSearch=chennai">Chennai</a>&nbsp;&nbsp;&nbsp;</div>	</div>
 	<div class="btmPan">
 		<div class="btmPanLeft"></div>
 		<div class="btmPanMid"></div>
@@ -657,14 +763,15 @@ FB.init("6dd6b4c9db81d490a1a70562ec71538e");
 <meta name="google-site-verification" content="qxouxd61xcC3Tduk7nzv6EnDDAUyu2Nh-qgOtLCnkts">
 <div id="footer">
 <div>
-<a href="http://www.veethi.com" title="Home">Home</a>  |  <a href="http://www.veethi.com/aboutus.html" title="About Us">About Us</a> | <a href="http://www.veethi.com/advertise.html" title="Advertise">Advertise</a>| <a href="http://www.veethi.com/india-people/" title="India People">People</a> | <a href="http://www.veethi.com/places/" title="India Places">Places</a> | <a href="http://www.veethi.com/yellowpages_home.html" title="India Yellow Pages">Yellow Pages</a> |  <a href="http://www.veethi.com/cityimages_home.html" title="India Photos">City Images</a> |  <!-- <a href="city_videos.php">City Videos</a>  |  <a href="city_guide.php">City Guide</a>  |  --> <a href="http://www.veethi.com/india_travel_guide.html" title="India Travel Guide">Travel Guide</a>  |  <a href="http://www.veethi.com/forum_home.html" title="India Forums">Forums</a> |  <a href="http://www.veethitrade.com/" title="B2B Site">B2B</a> | <a href="http://www.veethi.com/news.html" title="India News">News</a> | <a href="http://www.veethi.com/articles/" title="Indian Articles">Articles</a>  | <a href="http://www.veethi.com/places/india-pin-codes.html" title="India PIN Codes">PIN Codes</a> | <a href="http://www.veethi.com/places/india-std-codes.html" title="India STD Codes">STD Codes</a> | <a href="http://www.veethi.com/places/india_banks-ifsc-micr-codes.html" title="India Banks IFSC &amp; MICR Codes">IFSC &amp; MICR Codes</a> | <a href="http://www.veethi.com/faq.html" title="India Local City Business Directory FAQs">FAQ's</a> | <a href="http://www.veethi.com/reward_points.php" title="Veethi Reward Points">Veethi Reward Points</a> | <a href="http://www.veethi.com/terms_of_use.html" title="Terms of Use">Terms of Use</a>  |  <a href="http://www.veethi.com/privacy_policy.html" title="Privacy Policy">Privacy Policy</a>  |  <a href="http://www.veethi.com/sitemap.html" title="Sitemap">Sitemap</a> | <a href="http://www.veethi.com/contactus.html" title="Contact Veethi">Contact Us</a>
-
-<br>
-<br>
-Disclaimer:  We have tried our best to keep the information updated as available from all sources, users are requested to confirm information with the respective businesses before using the information provided. We reserve the right not to be responsible for the topicality, correctness, completeness or quality of the information provided. Liability claims regarding damage caused by the use of any information provided, including any kind of information which is incomplete or incorrect, will therefore be rejected.
-
-        </div>
-    <p id="copyright">©2011 veethi.com. Discover the People, Places and Businesses of India. A Portal from Galaxy Infomedia LLC. All Rights Reserved.</p>
+  <p><a href="http://www.veethi.com" title="Home">Home</a>  |  <a href="http://www.veethi.com/aboutus.html" title="About Us">About Us</a> | <a href="http://www.veethi.com/advertise.html" title="Advertise">Advertise</a>| <a href="http://www.veethi.com/india-people/" title="India People">People</a> | <a href="http://www.veethi.com/places/" title="India Places">Places</a> | <a href="http://www.veethi.com/yellowpages_home.html" title="India Yellow Pages">Yellow Pages</a> |  <a href="http://www.veethi.com/cityimages_home.html" title="India Photos">City Images</a> |  
+    <!-- <a href="city_videos.php">City Videos</a>  |  <a href="city_guide.php">City Guide</a>  |  --> 
+    <a href="http://www.veethi.com/travel/india_travel_guide.html" title="India Travel Guide">Travel Guide</a>  |  <a href="http://www.veethi.com/forum_home.html" title="India Forums">Forums</a> |  <a href="http://www.veethitrade.com/" title="B2B Site">B2B</a> | <a href="http://www.veethi.com/news.html" title="India News">News</a> | <a href="http://www.veethi.com/articles/" title="Indian Articles">Articles</a>  | <a href="http://www.veethi.com/places/india-pin-codes.html" title="India PIN Codes">PIN Codes</a> | <a href="http://www.veethi.com/places/india-std-codes.html" title="India STD Codes">STD Codes</a> | <a href="http://www.veethi.com/places/india_banks-ifsc-micr-codes.html" title="India Banks IFSC &amp; MICR Codes">IFSC &amp; MICR Codes</a> | <a href="http://www.veethi.com/realestate/" title="India Property">Real Estate</a> | <a href="http://www.veethi.com/faq.html" title="India Local City Business Directory FAQs">FAQ's</a> | <a href="http://www.veethi.com/reward_points.php" title="Veethi Reward Points">Veethi Reward Points</a> | <a href="http://www.veethi.com/terms_of_use.html" title="Terms of Use">Terms of Use</a>  |  <a href="http://www.veethi.com/privacy_policy.html" title="Privacy Policy">Privacy Policy</a>  |  <a href="http://www.veethi.com/sitemap.html" title="Sitemap">Sitemap</a> | <a href="http://www.veethi.com/contactus.html" title="Contact Veethi">Contact Us</a>
+    
+      <br>
+      <br>
+    Disclaimer:  Veethi does not guarantee the accuracy of any information on this site.  Use at your own risk.</p>
+  </div>
+    <p id="copyright">©2012 veethi.com. Discover the People, Places and Businesses of India. A Portal from Galaxy Infomedia LLC. All Rights Reserved.</p>
 <!-- Start of StatCounter Code for Default Guide -->
 
 <script type="text/javascript">
@@ -741,15 +848,10 @@ qacct:"p-d17VW8cN9nCMU"
 
 <!-- End Quantcast tag -->
 
-
-
+<!-- OPENTRACKER HTML START -->
+<script src="http://script.opentracker.net/?site=www.veethi.com"></script> <noscript><a href="http://www.opentracker.net" target="_blank"> <img src="http://img.opentracker.net/?cmd=nojs&site=www.veethi.com" alt="web analytics" border="0"> </a></noscript>
+<!-- OPENTRACKER HTML END -->
 </div>
-
-
-
-
-
-
 
 </div>
 
