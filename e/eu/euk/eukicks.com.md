@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the eukicks.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011194743id_/http%3A//www.eukicks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eukicks.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511120344id_/http%3A//www.eukicks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - EU Kicks: Sneaker Magazine
 
 **Privacy Policy for EUKicks.com**
 
 The privacy of our visitors to is important to us at EUKicks.com.
 
 At EUKicks.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit EUKicks.com, and how we safeguard your information. We never sell your personal information to third parties.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, http://www.networkadvertising.org/managing/opt_out.asp.
 
 Log Files  
 As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
@@ -23,4 +25,4 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-Thanks to [JenSense](https://web.archive.org/web/20111011194743id_/http://www.eukicks.com/privacy-policy/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
+Thanks to [JenSense](https://web.archive.org/web/20120511120344id_/http://www.eukicks.com/privacy-policy/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
