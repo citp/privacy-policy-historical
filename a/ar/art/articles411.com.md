@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articles411.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214153441id_/http%3A//www.articles411.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articles411.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511042221id_/http%3A//www.articles411.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy Submit Your Niche Articles
 
