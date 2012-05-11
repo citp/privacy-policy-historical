@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jo-games.com privacy policy that was archived on 2011-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102124231id_/http%3A//www.jo-games.com/front/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jo-games.com privacy policy that was archived on 2012-05-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120512000815id_/http%3A//www.jo-games.com/front/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
     <meta charset="utf-8">   
@@ -13,9 +13,10 @@
     
     <link rel="stylesheet" href="http://www.jo-games.com/css/main.php?cache_control=5" type="text/css" media="screen, projection">
 	
-    <script type="text/javascript" src="http://www.jo-games.com/js/main_home.php?cache_control=5"></script>
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.jo-games.com/js/main_home.php?cache_control=5"></script>
     <script type="text/javascript">
-    // Menu header Over
+	
+	// Menu header Over      
 	$(document).ready(function() 
 	{   
 		$('.menu-home, .menu-game, .menu-shop, .menu-community, .menu-signup').append('<span class="hover"></span>').each(function () 
@@ -31,48 +32,80 @@
 		});
 		
 	});
-	</script>   
+	
+	function preloader()
+	{
+		ajax_loader_img=new Image();
+		ajax_loader_img.src="http://www.jo-games.com/images/loading51.gif";
+	}
+	
+	</script> 
+    
+<!--Google tools and Analytics
+==============================================-->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-30581920-4']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>  
 </head>
 
 <!--[if lt IE 7 ]> <body class="ie6"> <![endif]-->
 <!--[if IE 7 ]>    <body class="ie7"> <![endif]-->
 <!--[if IE 8 ]>    <body class="ie8"> <![endif]-->
 <!--[if IE 9 ]>    <body class="ie9"> <![endif]-->
-<!--[if (gt IE 9)|!(IE)]><!--> <body> <!--<![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <body onload="preloader();"> <!--<![endif]-->
 <div id="wrap">
 	<div id="main-content">
 		<div id="bk-gradient"></div>
-		<div id="header">
+		<style type="text/css">
+	.fullscreen {background:#000 none repeat scroll 0 0;display:none;height:100%;left:0;filter:alpha(opacity=30);opacity: 0.3;top:0;width:100%;z-index:3000;display:none;position:fixed;}
+	#data-id{ z-index:2000; text-align:center;}#pls-wait-text{ font-size:18px; color:#000; font-weight:bolder;}
+	#pls-wait-text{ color:#666;}
+	.login-error-msg{display:none;}
+	#ok-close{font-size:10px; font-weight:bold; text-decoration:none; color:#F00; float:right; position:relative; margin-right:3px; margin-top:-15px; }	
+</style>
+<div id="header">
     <div id="header-content">
         <a href="http://www.jo-games.com/" class="header-logo"><img src="http://www.jo-games.com/images_site/logo-premium.png"></a>
         <ul id="header-menu">
             <li><a href="http://www.jo-games.com/" class="menu-home"></a></li>
             <li><a href="http://www.jo-games.com/browse/index" class="menu-game"></a></li>
             <li><a href="http://www.jo-games.com/signup?sf=home_flow&amp;start=1" class="menu-shop"></a></li>
-            <li><a href="http://billing.jo-games.com/" class="menu-community"></a></li>           
-            <li><a href="http://www.jo-games.com/signup?sf=home_flow&amp;start=1" class="menu-signup"></a></li>
+            <li><a href="http://billing.jo-games.com/support/en" class="menu-community"></a></li>           
+            <li><a href="http://www.jo-games.com/signup?sf=home_flow&amp;start=1" class="menu-signup" onclick="loadPage();"></a></li>
         </ul>
         <div id="header-login">
-            <form name="login" action="http://members.jo-games.com/login" method="post" onkeydown="if(event.keyCode == 13){return document.login.submit();}">
+            <form name="login" action="http://members.jo-games.com/login" method="post" onkeydown="if(event.keyCode == 13){loadPage();document.login.submit();}">
                 <div id="header-fill">
                     <input type="text" name="username" value="Your Email" class="fill-form" onclick="clickclear(this, 'Your Email', 'text')" onblur="clickrecall(this,'Your Email')"><br>
-                    <input type="text" name="password" value="Password" class="fill-form" onclick="clickclear(this, 'Password', 'password');" onblur="clickrecall(this,'Password');"><br>
+                    <input type="text" name="fakepassword" id="fakepassword" class="fill-form" value="Password" onfocus="pwdFocus();">    
+                    <input style="display: none" type="password" name="password" id="password" class="fill-form" onblur="pwdBlur()"><br>
                     <input type="hidden" name="login_form" value="1">
                 </div>
                 <div id="header-all-btn">
-                	<a href="" onclick="javascript:document.login.submit(); return false;"><img src="http://www.jo-games.com/images/img-overlay.gif" alt="Login" class="header-button-login"></a>
-                    <a href="http://www.jo-games.com/signup?sf=home_flow&amp;start=1" target="_self"><img src="http://www.jo-games.com/images/img-overlay.gif" alt="Login" class="header-button-signup"></a>
+                	<a href="" onclick="loadPage();	document.login.submit();return false;"><img src="http://www.jo-games.com/images/img-overlay.gif" alt="Login" class="header-button-login"></a>
+                    <a href="http://www.jo-games.com/signup?sf=home_flow&amp;start=1" onclick="loadPage();" target="_self"><img src="http://www.jo-games.com/images/img-overlay.gif" alt="Login" class="header-button-signup"></a>
 					<!--<div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#appId=APP_ID&amp;xfbml=1"></script><fb:login-button show-faces="false">Connect</fb:login-button>-->
                 </div>
-            </form>
+            </form>                
+            <span class="login-error-msg shadow radius">Please enter your Email/Password! <br><a href="#" onclick="$('.login-error-msg').fadeOut();" id="ok-close"><img src="images/remove_icon.png"></a></span>
         </div><!-- end #header-login -->
         
         <div id="dropmenu-myAccount">
             <ul>
                 <li><a href="http://www.jo-games.com/member/change_pass?tab=pass">Change Password</a></li>
-                <li><a href="http://www.jo-games.com/member/preferences?tab=pref">Preferences</a></li>
+                <!-- <li><a href="http://www.jo-games.com/member/preferences?tab=pref">Preferences</a></li> -->
                 <li><a href="http://www.jo-games.com/member/my_account?tab=details">Account Details</a></li>
-                <li><a href="http://billing.jo-games.com/">Support</a></li>
+                <li><a href="http://billing.jo-games.com/support/en">Support</a></li>
                 <li><form><a href="http://www.jo-games.com/logout">Logout</a></form></li>
             </ul>
         </div>
@@ -89,7 +122,7 @@
             </div>
             <ul id="dropmenu-list">
                 <li style="border-top:none;"><a href="http://www.jo-games.com/browse/index" style="border-top:none 0px; color:#9ae9f1;">All Games</a></li>
-                <li><a href="http://www.jo-games.com/browse/index?g=1">Action</a></li><li><a href="http://www.jo-games.com/browse/index?g=6">Adventure</a></li><li><a href="http://www.jo-games.com/browse/index?g=16">Arcade</a></li><li><a href="http://www.jo-games.com/browse/index?g=18">Card and Board</a></li><li><a href="http://www.jo-games.com/browse/index?g=17">Classics</a></li><li><a href="http://www.jo-games.com/browse/index?g=20">Family and Children</a></li><li><a href="http://www.jo-games.com/browse/index?g=2">Fantasy</a></li><li><a href="http://www.jo-games.com/browse/index?g=5">Fighting</a></li><li><a href="http://www.jo-games.com/browse/index?g=15">GamesFree.ca Games</a></li><li><a href="http://www.jo-games.com/browse/index?g=22">Hidden Object</a></li><li><a href="http://www.jo-games.com/browse/index?g=14">iPhone</a></li><li><a href="http://www.jo-games.com/browse/index?g=21">Learning</a></li><li><a href="http://www.jo-games.com/browse/index?g=10">Puzzle</a></li><li><a href="http://www.jo-games.com/browse/index?g=7">Racing</a></li><li><a href="http://www.jo-games.com/browse/index?g=12">RPG and MMO</a></li><li><a href="http://www.jo-games.com/browse/index?g=3">Sci-Fi</a></li><li><a href="http://www.jo-games.com/browse/index?g=8">Shooter</a></li><li><a href="http://www.jo-games.com/browse/index?g=19">Simulation</a></li><li><a href="http://www.jo-games.com/browse/index?g=11">Sports</a></li><li><a href="http://www.jo-games.com/browse/index?g=9">Strategy</a></li><li><a href="http://www.jo-games.com/browse/index?g=23">Time Management</a></li>            </ul>
+                <li><a href="http://www.jo-games.com/browse/index?g=1">Action</a></li><li><a href="http://www.jo-games.com/browse/index?g=6">Adventure</a></li><li><a href="http://www.jo-games.com/browse/index?g=16">Arcade</a></li><li><a href="http://www.jo-games.com/browse/index?g=18">Board</a></li><li><a href="http://www.jo-games.com/browse/index?g=32">Brain</a></li><li><a href="http://www.jo-games.com/browse/index?g=33">Car</a></li><li><a href="http://www.jo-games.com/browse/index?g=30">Card</a></li><li><a href="http://www.jo-games.com/browse/index?g=34">Casino</a></li><li><a href="http://www.jo-games.com/browse/index?g=17">Classics</a></li><li><a href="http://www.jo-games.com/browse/index?g=35">Cooking</a></li><li><a href="http://www.jo-games.com/browse/index?g=36">Dog</a></li><li><a href="http://www.jo-games.com/browse/index?g=21">Educational</a></li><li><a href="http://www.jo-games.com/browse/index?g=31">Family</a></li><li><a href="http://www.jo-games.com/browse/index?g=2">Fantasy</a></li><li><a href="http://www.jo-games.com/browse/index?g=5">Fighting</a></li><li><a href="http://www.jo-games.com/browse/index?g=15">GamesFree.ca Games</a></li><li><a href="http://www.jo-games.com/browse/index?g=37">Girl</a></li><li><a href="http://www.jo-games.com/browse/index?g=22">Hidden Object</a></li><li><a href="http://www.jo-games.com/browse/index?g=51">Jigsaw Puzzles</a></li><li><a href="http://www.jo-games.com/browse/index?g=20">Kids</a></li><li><a href="http://www.jo-games.com/browse/index?g=61">Mahjong</a></li><li><a href="http://www.jo-games.com/browse/index?g=71">Match 3</a></li><li><a href="http://www.jo-games.com/browse/index?g=81">Parking</a></li><li><a href="http://www.jo-games.com/browse/index?g=91">Pool</a></li><li><a href="http://www.jo-games.com/browse/index?g=10">Puzzle</a></li><li><a href="http://www.jo-games.com/browse/index?g=7">Racing</a></li><li><a href="http://www.jo-games.com/browse/index?g=12">RPG and MMO</a></li><li><a href="http://www.jo-games.com/browse/index?g=3">Sci-Fi</a></li><li><a href="http://www.jo-games.com/browse/index?g=8">Shooter</a></li><li><a href="http://www.jo-games.com/browse/index?g=19">Simulation</a></li><li><a href="http://www.jo-games.com/browse/index?g=11">Sports</a></li><li><a href="http://www.jo-games.com/browse/index?g=9">Strategy</a></li><li><a href="http://www.jo-games.com/browse/index?g=23">Time Management</a></li><li><a href="http://www.jo-games.com/browse/index?g=101">Word</a></li><li><a href="http://www.jo-games.com/browse/index?g=111">Zombie</a></li>            </ul>
         </div><!-- end #dropmenu -->
         
         <div id="error-header">
@@ -99,8 +132,52 @@
     </div><!-- end #header-content -->
     
 </div><!-- end #header -->
-?&gt;
-<div id="content_">
+
+<script type="text/javascript">
+jQuery.fn.center = function () {
+    this.css("position","absolute");
+	this.css("top", "350px");
+	this.css("left", "950px");
+    //this.css("top", (($(window).height() - this.outerHeight()) / 2) + $(window).scrollTop() + "px");
+    //this.css("left", (($(window).width() - this.outerWidth()) / 2) + $(window).scrollLeft() +30 + "px");
+    return this;
+}
+
+function loadPage(){
+	var divShow=false;
+	$('<div />').addClass('fullscreen').appendTo('body').show().click(function(){
+			 $('.fullscreen').fadeOut('slow').remove();
+			 $('#data-id').fadeOut('slow').remove();
+			 divShow = false;
+		  });	
+		  
+    if(divShow==false)
+		  {	
+		  	var text = "Please wait...";			
+		   	$('body').append("<div id='data-id'><span id='pls-wait-text'>"+text+"</span><br/><br /><br /><img src='http://www.jo-games.com/images/loading51.gif' style='margin-top:-17px;' alt='loading'></div>");			 	
+			$('#data-id').center();
+			divShow=true;
+		  }	
+}
+
+function frmLogin()
+{
+	var usernameVal = document.login.username.value;
+	var passwordVal = document.login.password.value; 	
+	if (usernameVal== "Your Email" || usernameVal == "" || passwordVal == "Password" || passwordVal == "")
+	{
+	$('.login-error-msg').css({'display': 'block', 'position': 'absolute', 'top': '10px', 'left':'-100px', 'width': '230px','padding':'5px 5px 5px 20px','margin':'10px','z-index':'100','color':'#AAA', 'background':'#fff','font': '12px', 'text-align':'left'});
+	}		
+	else
+	{				
+		loadPage();
+		document.login.submit(); 
+	}
+	
+}
+
+</script>
+        <div id="content_">
     <div id="main">
 		
         <div class="default-div-full radius shadow">
@@ -222,11 +299,12 @@
             
     </div>
     </div>
-			</div><!-- end of #main -->
-		</div><!-- end of #content -->
 	</div><!-- end of #main-content -->
 </div><!-- end of #wrap -->
-
+</div></div>
+<noscript>
+	<!--<div id="noscript-warning">Please enable javascript for your browser in order to enjoy all the functionalities of our website.</div>-->
+</noscript>
 <div id="footer">
 	<ul id="menu-footer">
 		<li><a href="http://www.jo-games.com/front/about_us" target="_self">About Us</a></li>
@@ -239,7 +317,7 @@
 		<li><div class="sepa-menu-footer"></div></li>
 		<li><a href="http://billing.jo-games.com/front/contact" target="_self">Contact Us</a></li>
 		<li><div class="sepa-menu-footer"></div></li>
-		<li><a href="http://billing.jo-games.com/" target="_self">Support</a></li>
+		<li><a href="http://billing.jo-games.com/support/en" target="_self">Support</a></li>
 	</ul><br>
 	<img src="http://www.jo-games.com/images/sepa-footer.jpg" class="sepa-footer"><br>
 	<img src="http://www.jo-games.com/images_site/logo-footer.png" alt="Logo Jo-Games" style="margin-bottom:3px; margin-top:-3px;"><br>
@@ -263,5 +341,7 @@
 	
 	</script>
     
+    <!-- Fetchback Pixel -->
+    <iframe src="https://pixel.fetchback.com/serve/fb/pdj?cat=&amp;name=landing&amp;sid=4159" scrolling="no" width="1" height="1" marginheight="0" marginwidth="0" frame-border="0"></iframe>    
 
 </div></body></html>
