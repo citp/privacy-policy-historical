@@ -1,116 +1,103 @@
-> *The following text is extracted and transformed from the dropcam.com privacy policy that was archived on 2011-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111013070535id_/https%3A//www.dropcam.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropcam.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512054024id_/https%3A//www.dropcam.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Dropcam
 
 * * *
 
-Last modified on 3 April 2011 Recent updates to this Privacy Policy may be found here.
+Last modified on 12 December 2011  
+Recent updates to this Privacy Policy may be found here.
 
 * * *
 
-Welcome to Dropcam, the application, website, and online services of Dropcam, Inc. ("Dropcam," "we," or "us"). Dropcam values the privacy of its users who have Member accounts ("you" or "Users"). Dropcam knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Dropcam when you use the Dropcam Service, how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy are defined in our [Terms of Use Agreement](https://web.archive.org/tos).
+We at Dropcam, Inc. (“Dropcam," "we," "us," "our") know that our users ("you,” "your") care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting or using the www.dropcam.com website and domain name, and any other linked pages, features, content, or any other services we offer from time to time by in connection therewith (collectively, the "Service"), you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways. 
 
-By using the Service, you expressly consent to the information-handling practices described in this Privacy Policy. Your use of the Service and any personal information you provide through the Service are subject at all times to this Privacy Policy and the Terms of Use Agreement.
+## I. WHAT DOES THIS PRIVACY POLICY COVER?
 
-## Information We Collect
+This Privacy Policy covers our treatment of personally identifiable information ("Personal Information") that we gather when you are accessing or using our Service. This policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage. 
 
-User-Provided Information: You provide us information about yourself (such as your name and e-mail address) if you register for a Member account with the Service, or as you use the features and functionality of the Service, including by uploading User Content. If you correspond with us by email, we may retain the content of your email messages, your email address and our responses. We may also retain any messages you send through the Service.
+Company does not knowingly collect or solicit Personal Information from anyone under the age of 18 or knowingly allow such persons to register. If you are under 18, please do not attempt to register for the Service or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 18 may provide any personal information to Company or on the Service. In the event that we learn that we have collected personal information from a child under age 18 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 18, please contact us at [privacy@dropcam.com](mailto:privacy@dropcam.com).
 
-Cookies Information: When you visit the Service, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser and allows Dropcam to help you log in faster and enhance your navigation through the site. A cookie may also convey anonymous information about how you browse the Service to us. A cookie does not collect personal information about you. Dropcam uses both session cookies and persistent cookies. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser's directions; please check your web browser's Help Settings to learn how you can modify your cookie settings. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
+## II. WHAT INFORMATION DOES DROPCAM COLLECT?
 
-Log File Information: Log file information is automatically reported by your browser each time you access a web page. When you register with or view our site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, referring/exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.
+We gather various types of Personal Information from our users, as explained more fully below. We may use this Personal Information to personalize and improve our services, to allow our users to set up a user account and profile, to contact users, to fulfill your requests for certain products and services, to analyze how users utilize the Service, and as otherwise set forth in this Privacy Policy. We may share certain types of Personal Information with third parties (as set forth in this Section and in Section III below). We collect the following types of information: 
 
-Clear Gifs Information: When you use the Service, we may employ clear gifs (also known as web beacons) which are used to track the online usage patterns of our Users anonymously. No personally identifiable information from your Member account is collected using these clear gifs. In addition, we may also use clear gifs in HTML-based emails sent to our Users to track which emails are opened by recipients. The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make Dropcam better for our Users.
+  1. **Information You Provide to Us:**
 
-## How We Use Your Information
+We receive and store any information you knowingly provide to us. For example, during the registration process, we collect Personal Information such as your name, user name, email address, camera title and description, time zone, IP address, and browser information. We may collect other Personal Information you provide us through your use of our services, such as the posts you submit on the Service. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.
 
-We use the personal information you submit to operate, maintain, and provide to you the features and functionality of the Service.
+  2. **Information Collected Automatically:**
 
-By providing Dropcam your email address you consent to our using the email address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail. You also agree that we may send you notifications of activity on the Service to the email address you give us. We may also use your email address to send you other messages, such as newsletters, changes to features of the Service, or special offers. If you do not want to receive such email messages, you may opt out or change your preferences in your "My Account" page. Opting out may prevent you from receiving email messages regarding updates, improvements, or offers. You may not opt out of Service-related e-mails.
+Whenever you interact with our Service, we automatically receive and record information on our server logs from your browser including your IP address, "cookie" information, and the page you requested. Some of this automatically collected information may or may not be Personal Information, depending on whether it is personally identifiable in nature or not.
 
-Any personal information or content that you voluntarily disclose for posting to the Service (including your User Content) becomes available to Dropcam and any other Members authorized by you to share the information or content. If you remove information that you posted to the Service, copies may remain viewable in cached and archived pages of the Service, or if other Users have copied or saved that information.
+"Cookies" are identifiers we transfer to your computer through your browser that allow us to recognize your browser and tell us how and when pages in our site are visited and by how many people. You may be able to change the preferences on your browser to prevent or limit your computer’s acceptance of cookies, but this may prevent you from taking advantage of our Service’s best features.
 
-Following termination or deactivation of your Member account, Dropcam may retain your profile information and User Content for a commercially reasonable time for backup, archival, or audit purposes. Furthermore, Dropcam may retain and continue to use indefinitely all information (including User Content) contained in your communications to other Users or in your postings to public areas of the Service after termination or deactivation of your Member account.
+When we collect usage information (such as the numbers and frequency of visitors to our site), we only use this data in aggregate form, and not in a manner that would identify you personally. For example, this aggregate data tells us how often customers use parts of the Service, so that we can make the Service appealing to as many customers as possible. We may also provide this aggregate information to our partners, so that they can understand how often people use their services and our Service, so that they, too, can provide you with an optimal online experience. We never disclose aggregate information to a partner in a manner that would identify you personally.
+
+  3. **E-mail and Other Communications:**
+
+We may contact you, by email or other means; for example, we may send you promotional offers on behalf of other businesses, or communicate with you about your use of the Service. If you do not want to receive email or other mail from us, please indicate your preference in your account settings or emailing us at [privacy@dropcam.com](mailto:privacy@dropcam.com). Also, we may receive a confirmation when you open an email from us. This confirmation helps us make emails more interesting and improve our service.
 
 If you choose to use our invitation service to invite a friend to the Service, we will ask you for that person's email address and automatically send an email invitation. Dropcam stores this information to send this email, to register your friend if your invitation is accepted, and to track the success of our invitation service. Your friend may contact us to request that we remove this information from our database at [privacy@dropcam.com](mailto:privacy@dropcam.com).
 
-Dropcam may use certain information about you and/or your User Content without identifying you as an individual to third parties. We do this for purposes such as analyzing how the Service is used, diagnosing service or technical problems, maintaining security, and personalizing content.
-
-Dropcam reserves the right, but has no obligation, to monitor the User Content you post on the Service. We reserve the right to remove any such information or material for any reason or no reason, including without limitation if in our sole opinion such information or material violates, or may violate, any applicable law or our Terms of Use Agreement, or to protect or defend our rights or property or those of any third party. Dropcam also reserves the right to remove information upon the request of any third party.
-
-We use cookies, clear gifs, and log file information to:
-
-  1. remember information so that you will not have to re-enter it during your visit or the next time you visit the site;
-  2. provide custom, personalized content and information;
-  3. monitor the effectiveness of our Service;
-  4. monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns;
-  5. diagnose or fix technology problems reported by our Users or engineers that are associated with certain IP addresses;
-  6. help you efficiently access your information after you sign in;
-  7. operate, maintain, enhance, and provide all of the features and services found on the Service;
-  8. track User Content and Users to the extent necessary to comply as a service provider with the Digital Millennium Copyright Act; and
-  9. automatically update the Dropcam application on your system, cameras, and related devices.
 
 
 
-## How We Share Your Information
+## III. WILL DROPCAM SHARE ANY OF THE INFORMATION IT RECEIVES?
 
-Personally Identifiable Information: Dropcam will not rent or sell your personally identifiable information to others. Dropcam may share your personally identifiable information with third parties solely for the purpose of providing the Service to you. If we do this, such third parties' use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of Dropcam (for instance, on servers or databases co-located with hosting providers).
+We neither rent nor sell your Personal Information to anyone. We share your Personal Information (in personally identifiable form) with third parties only as described below. 
 
-We will Share your Video Content with other Members as directed by you via the functionality of the Service.
-
-As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer or assign such information in the course of corporate divestitures, mergers, or dissolution.
-
-From time to time, we may run contests, special offers, or other events or activities ("Events") on the Service together with a third-party partner. If you provide information to such third parties, you give them permission to use it for the purpose of that Event and any other use that you approve. We cannot control third parties' use of your information. If you do not want your information to be collected by or shared with a third party, you can choose not to participate in these Events.
-
-Except as otherwise described in this Privacy Policy, Dropcam will not disclose personal information to any third party unless required to do so by law or subpoena, or if we believe that such action is necessary to:
-
-  1. conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities;
-  2. to enforce our [Terms of Use Agreement](https://web.archive.org/tos), take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and
-  3. to exercise or protect the rights, property, or personal safety of Dropcam, our Users or others.
+  1. **Advertisers:** We may allow advertisers to choose the demographic information of users who will see their advertisements and we may provide information we have collected from you to an advertiser in non-personally-identifiable form, in order for that advertiser to select the appropriate audience for its advertisements. 
+  2. **Affiliated Businesses We Do Not Control:** In certain situations, businesses we’re affiliated with may sell items or provide services to you through the Service (either alone or jointly with us). We may, for example, sell products or provide services jointly with affiliated businesses. You can recognize when an affiliated business is associated with such a transaction or service, and we will share your Personal Information with that affiliated business only to the extent that it is related to such transaction or service. We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain Dropcam services.
+  3. **Agents:** We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, our agents do not have any right to use the Personal Information we share with them beyond what is necessary to assist us. For example, if you were to engage in a credit card transaction via the Service, we would need to allow a credit card processing company to verify the transaction; however, that company would only be authorized to use your credit card information to the extent we needed their assistance in completing your transaction.
+  4. **User Profiles and Submissions:** You understand that we cannot control what other users do with any content (including without limitation video, images, captions, and comments) you voluntarily disclose for such users to view on the Service (“User Submissions”). For example, we will share your video content with other users as directed by you via the functionality of the Service. We cannot control if other users you have allowed access to your User Submissions make such User Submissions publicly available and to be collected and used by others, or to be redistributed through the internet and other media channels.
+  5. **Business Transfers:** We may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that is transferred. Also, if we (or substantially all of our assets) are acquired, or if we go out of business or enter bankruptcy, Personal Information would be one of the assets transferred to or acquired by a third party.
+  6. **Protection of Dropcam and Others:** We may release Personal Information when we believe in good faith that release is necessary to comply with that law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Dropcam, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+  7. **With Your Consent:** Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.
 
 
 
-Non-Personally Identifiable Information: We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain Dropcam services.
+## IV. IS PERSONAL INFORMATION ABOUT ME SECURE?
 
-Dropcam may allow third-party ad servers or ad networks to serve advertisements on the Service. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on Dropcam. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. Dropcam does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks Dropcam to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. Dropcam's Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers. Please consult the respective privacy policies of such advertisers for more information.
+Your account is protected by a password for your privacy and security. You need to prevent unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.
 
-## How We Protect Your Information
+We endeavor to protect the privacy of your account and other Personal Information we hold in our records, but we cannot guarantee complete security. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.
 
-Dropcam uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information and User Content. We cannot, however, ensure or warrant the security of any information you transmit to Dropcam, and you do so at your own risk. Once we receive your transmission of information, Dropcam makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information or User Content may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+The Service may contain links to other sites. We are not responsible for the privacy policies and/or practices on other sites. When following a link to another site you should read that site’s privacy policy.
 
-To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from Dropcam, at all times.
+## V. WHAT PERSONAL INFORMATION CAN I ACCESS?
 
-## Compromise of Personal Information
+You may access and, in some cases, change or delete certain information you’ve provided to us may update or correct your account information and email preferences at any time by logging in to your account.
 
-In the event that personal information is compromised as a result of a breach of security, Dropcam will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
+The information you can view and update through your account may change as the Service changes. If you have any questions about viewing or updating information we have on file about you, please contact us at [privacy@dropcam.com](mailto:privacy@dropcam.com).
 
-## Your Choices About Your Information
+## VI. WHAT CHOICES DO I HAVE?
 
-You may, of course, decline to submit personally identifiable information through the Service, in which case Dropcam may not be able to provide certain services to you. You may update or correct your account information and email preferences at any time by logging in to your account. You can review and correct the information about you that Dropcam keeps on file by contacting us directly at [privacy@dropcam.com](mailto:privacy@dropcam.com).
+You can always opt not to disclose information to us, but keep in mind some information may be needed to take advantage of some of our special features.
 
-## Children's Privacy
+You may be able to add or update certain information as explained in Section V above. When you update information, however, we may maintain a copy of the unrevised information in our records.
 
-Protecting the privacy of young children is especially important. For that reason, Dropcam does not knowingly collect or solicit personal information from anyone under the age of thirteen (13) or knowingly allow such persons to register as Members. If you are under thirteen (13) years of age, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age thirteen (13) is allowed to provide any personal information to or on Dropcam. In the event that we learn that we have collected personal information from a child under age thirteen (13) without verification of parental consent, we will delete that information as promptly as reasonably possible. If you believe that we might have any information from or about a child under thirteen (13) years of age, please contact us at [privacy@dropcam.com](mailto:privacy@dropcam.com).
+You may request deletion of your account by sending an e-mail to [privacy@dropcam.com](mailto:privacy@dropcam.com). Please note that some information may remain in our private records after deletion of your account. We may use any aggregated data derived from or incorporating your personal information after you delete your account, but not in a manner that would identify you personally. We may also retain and use your User Submissions after the termination or deactivation of your account.
 
-## Links to Other Web Sites
+If you do not wish to receive email or other mail from us, contact us at [privacy@dropcam.com](mailto:privacy@dropcam.com). Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Service, and you are responsible for reviewing such legal notices for changes.
 
-We are not responsible for the practices employed by websites linked to or from our website, nor the information or content contained therein. Please remember that when you use a link to go from our website to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including those that have a link on our website, is subject to that website's own rules and policies. Please read over those rules and policies before proceeding.
+## VII. CHANGES TO THIS PRIVACY POLICY
 
-## Notification Procedures
+We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our Service or sending you an email. You are bound by any changes to the Privacy Policy when you use the Service after such changes have been first posted.
 
-It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on our website, as determined by Dropcam in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy.
+## VIII. QUESTIONS OR CONCERNS
 
-## Changes to Our Privacy Policy
+If you have any questions or concerns regarding our privacy policies, please send us a detailed message to [privacy@dropcam.com](mailto:privacy@dropcam.com), or send mail to:
 
-If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page. Please revisit this page to stay aware of any changes.
+> Dropcam, Inc.  
+>  160 Spear Street  
+>  Suite 1700  
+>  San Francisco, CA 94105  
+> 
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at [privacy@dropcam.com](mailto:privacy@dropcam.com), or send mail to:  
-Dropcam, Inc.  
-160 Spear Street  
-Suite 1700  
-San Francisco, CA 94105
-
-* * *
+We will make every effort to resolve your concerns.  
+Effective Date: December 12, 2011 
 
 **Updates**  
-April 3, 2011: changing 88Volts, Inc. references to Dropcam, Inc.
+April 3, 2011: changing 88Volts, Inc. references to Dropcam, Inc.  
+December 12, 2011: changing format to improve readability  
+
