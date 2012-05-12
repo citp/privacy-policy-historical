@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yetanotherforum.net privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101232840id_/http%3A//yetanotherforum.net/yaf-privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yetanotherforum.net privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512134514id_/http%3A//yetanotherforum.net/yaf-privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | YetAnotherForum.NET
 
