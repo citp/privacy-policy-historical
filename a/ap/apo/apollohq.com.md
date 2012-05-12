@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apollohq.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217054311id_/http%3A//www.apollohq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apollohq.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512084753id_/http%3A//www.apollohq.com/privacy) for the most accurate reproduction.*
 
 # Privacy — Apollo
 
@@ -39,4 +39,4 @@ We may periodically update this policy. We will notify you about significant cha
 
 ## Questions
 
-Any questions about this Privacy Policy should be addressed to [contact@applicomhq.com](https://web.archive.org/web/20111217054311id_/http://www.apollohq.com/privacy/contact@applicomhq.com).
+Any questions about this Privacy Policy should be addressed to [contact@applicomhq.com](https://web.archive.org/web/20120512084753id_/http://www.apollohq.com/privacy/contact@applicomhq.com).
