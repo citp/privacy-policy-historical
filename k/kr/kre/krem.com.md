@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the krem.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103011740id_/http%3A//www.krem.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krem.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513003445id_/http%3A//www.krem.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # KREM 2 News | KREM.com | When it Matters Most | Privacy Policy
 
