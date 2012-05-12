@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marineinsight.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105001344id_/http%3A//www.marineinsight.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marineinsight.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512103623id_/http%3A//www.marineinsight.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Marine Insight
 
