@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eleadcrm.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126102045id_/http%3A//www.eleadcrm.com/crm/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eleadcrm.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512125357id_/http%3A//www.eleadcrm.com/crm/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy - eLEAD CRM
+# Privacy - ELEAD CRM
 
 Data Software Services is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Data Software Services Web site and governs data collection and usage. By using the Data Software Services website, you consent to the data practices described in this statement.
 
