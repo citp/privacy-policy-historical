@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imax.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106042519id_/http%3A//www.imax.com/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imax.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512033849id_/http%3A//www.imax.com/corporate/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -76,6 +76,6 @@ This Privacy Policy extends only to data collected on pages hosted on the Websit
 
 ## How do I contact you?
 
-If you have any questions about this Privacy Policy, the practices of the Website, or your dealings with the Website, you can contact our Privacy Officer, Sarah Armstrong, via the e-mail address [‘info@imax.com’](mailto:info@imax.com) or by writing to IMAX Privacy Officer, 2525 Speakman Drive, Mississauga, Ontario, Canada L5K1B1.
+If you have any questions about this Privacy Policy, the practices of the Website, or your dealings with the Website, you can contact us via the e-mail address [‘info@imax.com’](mailto:info@imax.com) or by writing to IMAX Privacy Officer, 2525 Speakman Drive, Mississauga, Ontario, Canada L5K1B1.
 
 Loading
