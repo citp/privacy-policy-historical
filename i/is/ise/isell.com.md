@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isell.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130230134id_/http%3A//www.isell.com/modules.php%3Fmod%3DExtra_Pages%26pg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isell.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512233046id_/http%3A//www.isell.com/modules.php%3Fmod%3DExtra_Pages%26pg%3Dprivacy) for the most accurate reproduction.*
 
 # iSell.com Privacy Policy
 
@@ -39,11 +39,9 @@ Nothing in this policy shall limit, prohibit, or otherwise deny the ability of i
 If needed, you can contact iSell.com or our Security Officer at:
 
 via email: support -at- isell -dot- com  
-phone: 1-850-445-4222
+phone: 1-800-211-7608
 
-iSell.com, LLC  
-attn: Security Officer   
-3295 Crawfodville Highway  
-Suite 12  
-Crawfordville, FL 32327  
-
+iSell.com Worldwide, Inc.  
+3120 W. Carefree Hwy  
+Suite 1-128  
+Phoenix, Arizona 85086 
