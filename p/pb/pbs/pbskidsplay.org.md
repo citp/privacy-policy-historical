@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pbskidsplay.org privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101151543id_/http%3A//www.pbskidsplay.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbskidsplay.org privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512211506id_/http%3A//www.pbskidsplay.org/privacy) for the most accurate reproduction.*
 
 # PBS KIDS PLAY! Home Edition - Learning games for school readiness with PBS KIDS characters.
 
