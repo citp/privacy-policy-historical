@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the highcountrygardens.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216032753id_/http%3A//www.highcountrygardens.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highcountrygardens.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512080829id_/http%3A//www.highcountrygardens.com/index/page/static/subpage/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy: Low Water Plants, Eco Friendly Landscapes: High Country Gardens
+# Low Water Plants, Eco Friendly Landscapes: High Country Gardens
+
+## Privacy Policy
 
 ### At High Country Gardens, we respect your privacy.
 
