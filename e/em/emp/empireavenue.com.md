@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the empireavenue.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204174044id_/http%3A//www.empireavenue.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empireavenue.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512180402id_/http%3A//www.empireavenue.com/legal/privacy) for the most accurate reproduction.*
 
-# Empire Avenue | Build Your Empire
-
-  * [About](https://web.archive.org/about)
-  * [Help & Support](https://web.archive.org/support)
-  * [Privacy Policy](https://web.archive.org/legal/privacy)
-  * [Blog](http://blog.empireavenue.com/)
-  * [API](http://apidocs.empireavenue.com/)
-  * [Contact Us](https://web.archive.org/contacts)
-
-
+# Empire Avenue | Expand, Engage, Evaluate
 
 _This document updated: 19/04/2011_
 
