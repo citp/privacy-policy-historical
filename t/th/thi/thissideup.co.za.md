@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thissideup.co.za privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225110414id_/http%3A//www.thissideup.co.za/store/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thissideup.co.za privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512190906id_/http%3A//www.thissideup.co.za/store/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Policy :
+# Privacy Notice :
 
 At This Side Up.co.za , your privacy is our priority.   
 We are committed to protecting your privacy at all times, in all situations.  
@@ -8,9 +8,9 @@ The information we collect about you when you become a customer is used to proce
 
 Securing your Personal Information
 
-Your interation with our site where any personal information such as your contact details, addresses, name etc including alterations you make to them and also any other information that is sensitive in nature, such as any orders you have placed is protected by the use of the latest SSL Technology. (Secure Socket Layers). We have secured our pages with this technology to ensure that your interactions through the use of our site are protected.
+Your interation with our site where any personal information such as your contact details, addresses, name etc including alterations you make to them�and also any other�information that is sensitive in nature, such as�any orders you have placed�is protected by the use of the latest�SSL Technology. (Secure Socket Layers). We have secured our pages with this technology to ensure that your interactions through the use of our site are protected.
 
-[Thawte](http://www.thawte.com/) is a leading global Certification Authority. Their SSL and code signing digital certificates are used globally to secure servers, provide data encryption, authenticate users, protect privacy and assure online identifies through stringent authentication and verification processes
+[Geo Trust](http://www.geotrust.com/) is a leading global Certification Authority. Their SSL and code signing digital certificates are used globally to secure servers, provide data encryption, authenticate users, protect privacy and assure online identifies through stringent authentication and verification processes
 
 How do we use the information we collect?
 
