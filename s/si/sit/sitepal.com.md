@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sitepal.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108101746id_/http%3A//www.oddcast.com/user/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitepal.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512121517id_/http%3A//www.oddcast.com/user/privacy_policy.php) for the most accurate reproduction.*
 
-# 
+# Oddcast - Privacy Policy
 
 **_PRIVACY POLICY_**
 
@@ -93,6 +93,8 @@ Order information received by the SitePalTM Store, including credit card informa
 We may make use of "cookies" on our website. A cookie is a small text file that can be placed and stored on your computer's hard disc when you visit a website for record keeping purposes. A cookie itself is not designed or intended to read any information from a user's computer (other than the contents of the cookie); rather, it is an identifier used by the Web site that originally placed it on your hard drive. The actual contents of the cookie information can be retrieved by the same server to identify the computer and subsequently to customize, monitor, or regulate the use of a site based on information stored on the host server. Therefore, cookies only identify the user's computer to the Web site which may correlate other information, including personally identifying information, with the cookie.
 
 We use cookies to allow us to automate access and the data entry functions of our website such as to correlate online ordering information for purchases you may make while at the website (if any), tailor our website to your preferences or interests, or customize promotions or marketing. In addition, cookies allow us to track use of our website to determine those areas which are useful or popular and those that are not thereby enabling us to improve and update our website effectively.
+
+Banners served from the Oddcast site do not drop cookies for re-targeting or tracking purposes.
 
 Most web browsers can either alert you to the use of cookies or refuse to accept cookies entirely. If you are not sure how to do this or whether you have this option you should consult the documentation that accompanied your web browser. You should be aware that if you elect not to accept cookies, some parts of the website may not function properly or permit access.
 
