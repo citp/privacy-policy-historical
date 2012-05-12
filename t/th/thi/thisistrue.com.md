@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the thisistrue.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204045302id_/http%3A//www.thisistrue.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisistrue.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513001643id_/http%3A//www.thisistrue.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy and Security Statement: Randy Cassingham's Weird News
+
+"My policy is simply to treat my customers the way I wish to be treated."   
+\-- _This is True_ Founder Randy Cassingham
+
+### First Things First: Your Privacy
 
 We not only **_will not_** provide your e-mail address to _any_ advertiser, we actually work rather hard to keep it secret. Your address will _not_ be provided to anyone who is not an employee of _This is True._
 
@@ -22,5 +27,15 @@ Google is one of these third-party vendors, and they use cookies to serve ads he
 
 If you don't want to have this DART cookie on your computer, you can [opt out](http://www.google.com/privacy_ads.html). We feel you'll be making a mistake by doing that, as you'll then see ads for random goods or services that won't be of much use to you.
 
-**Note Regarding Online Credit Card Security:** We use industry-standard SSL security on all our online order forms. Any credit card data entered by customers, including account numbers, are processed immediately _and are not kept_ on file by us for _any_ length of time. We are _quite_ serious about the security of your data, and use the best methods available to us. We simply use what _we_ expect from the online merchants we buy things from.  
+### eCommerce Policies
+
+**Order Entry Security:** ThisIsTrue.inc uses industry-standard SSL security on all our online order forms. Orders will show on your credit card statement or Paypal history as "This is True" (or "THISISTRUE.COM").
+
+**Refund Policy:** All actual products (such as printed materials) have a 30-day return policy if defective. If you find a problem with a product, explain the problem via our [Contact Form](http://www.thisistrue.com/contact.html) on this site. We do not offer refunds if you simply change your mind, or get mad when we tell the truth about an event.
+
+**Note Regarding Online Credit Card Security:** All credit card data entered by customers, including account numbers, are processed immediately _and are not kept_ on file by us for _any_ length of time. We _cannot_ "look up your number" even if you ask us to. We are _quite_ serious about the security of your data, and use the best methods available to us. We simply use what _we_ expect from the online merchants we buy things from.
+
+### Affiliate Relationships
+
+You should assume that any links on this site, or in our e-mails, is to a site that has an affiliate relationship and/or another material connection to the providers of goods and services mentioned, and the owners of this site may be compensated when you purchase from such a provider. You should always perform due diligence before buying goods or services from anyone -- via the Internet or offline.  
 
