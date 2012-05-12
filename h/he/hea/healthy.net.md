@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthy.net privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219213918id_/http%3A//www.healthy.net/members/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthy.net privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512145908id_/http%3A//www.healthy.net/members/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Natural and alternative health and wellness mega-site
 
@@ -26,6 +26,6 @@ HealthWorld Online uses a secure server for any ordering and credit card informa
 
 |   
 ---  
-**"You must be the change you wish to see in the world."**  
+**"The greatest discovery of any generation is that human beings can alter their lives by altering the attitudes of their minds. "**  
   
 | 
