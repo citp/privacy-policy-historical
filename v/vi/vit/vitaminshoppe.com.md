@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitaminshoppe.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105181703id_/http%3A//www.vitaminshoppe.com/content/en/support/help/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitaminshoppe.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512020945id_/http%3A//www.vitaminshoppe.com/content/en/support/help/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy & Security Policy The Vitamin Shoppe
 
@@ -129,8 +129,8 @@ Back to Top
 
 ### XI. Contact Us 
 
-If this Privacy Policy does not answer your questions about our data practices, please [contact us](https://web.archive.org/content/en/support/contact/contact.jsp).
+If this Privacy Policy does not answer your questions about our data practices, please contact us.
 
 Back to Top
 
-©2011 VS Direct Inc. All rights reserved.
+©2012 VS Direct Inc. All rights reserved.
