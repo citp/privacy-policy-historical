@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thedoctorstv.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414155510id_/http%3A//www.thedoctorstv.com/main/content/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedoctorstv.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512212859id_/http%3A//www.thedoctorstv.com/main/content/Privacy_Policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# The Doctors TV Show - Privacy Policy
 
 Effective Date: September 7, 2009
 
@@ -87,6 +87,8 @@ If you send a friend a communication from the Web Site, the information you prov
  **THIRD-PARTY AD SERVING AND AUDIENCE AND TRAFFIC MEASUREMENT SERVICES**
 
 The Web Site may use third party network advertisers to serve advertisements on the Web Site and may use a traffic measurement service to analyze traffic on the Web Site. Network advertisers are third parties that display advertisements based on your visits to the Web Site and other web sites you have visited. Third-party ad serving enables us to target advertisements to you for products and services in which you might be interested. Although advertisers and other companies do not have access to cookies set by the Web Site, the Web Site's third party ad network providers, the advertisers, the sponsors, and/or traffic measurement services may themselves set and access their own cookies on your Device if you choose to have cookies enabled in your browser or they may otherwise have access to non-personal information. These third party cookies are set to, among other things, help deliver advertisements to you that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to you. Note that any images (or any other parts of a web page) served by third parties in association with third party cookies may serve as web beacons, which enable third parties to carry out the previously described activities. Third party cookies and web beacons are governed by each third party''s specific privacy policy, not this one.
+
+The third party network advertisers may be members of the Network Advertising Initiative ("NAI"), which offers a single location to opt out of receiving tailored ads from member companies. To opt out of information collection by NAI member companies, or to obtain information about the technologies they use or their own privacy policies, please visit the NAI consumer opt out page at [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
 
  **WITH WHOM INFORMATION MAY BE SHARED**
 
