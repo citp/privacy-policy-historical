@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the fangoria.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219200139id_/http%3A//www.fangoria.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D128) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fangoria.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512022531id_/http%3A//www.fangoria.com/index.php/component/content/article/128) for the most accurate reproduction.*
 
 # Privacy Policy
+
+**PRIVACY POLICY**
+
+Introduction
+
+**The Brooklyn Company**
 
 All references to 'our', 'us', 'we' or 'company' within this policy and within the opt-in notice are deemed to refer to The Brooklyn Company, its subsidiaries, affiliates, parent companies and any of their related businesses.
 
@@ -27,6 +33,14 @@ We do not connect the information collected through cookies with other informati
 In common with many websites, we use "cookies" to help us gather the following information from visitors to our site
 
 E.g.
+
+  * the IP address from which you access the site
+  * the type of browser and operating system used to access the site
+  * the date and time of your access to the site
+  * the pages you visit
+  * the internet address of the website from which you accessed the site
+
+
 
   
 A cookie is a small data file that our server sends to your browser when you visit the site. The use of cookies helps us to assist your use of certain aspects of the site. You can delete cookies at any time or you can set yo
@@ -65,4 +79,12 @@ At your request, where the law requires us to do so, we will confirm what person
 
  **Links.** This site may contain links or references to other Web sites outside of our control. Please be aware that we have no control over these sites and our privacy statement does not apply to these sites. We encourage you to read the privacy statements and terms and conditions of linked or referenced sites you enter.
 
+ **Behavioral Advertising**
+
+**Opt-Out.  **Users may choose to opt out of behavioral targeting through the opt-out link located at http://www.networkadvertising.org/managing/opt_out.asp
+
+**Digital Advertising Alliance's (DAA) Self-Regulatory Program for Online Behavioral Advertising.  **The Brooklyn Company, Fangoria and its affiliated brand sites participate in the Digital Advertising Alliance's (DAA) Self-Regulatory Program for Online Behavioral Advertising within advertising units that link to http://www.aboutads.info/choices/. 
+
 © 2010 The Brooklyn Company, 250 W. 49th St., Suite 304, New York, NY 10019. All rights reserved.
+
+[ Fangoria ](http://www.fangoria.com/index.php/component/content/section/10) \-  [ General Information ](http://www.fangoria.com/index.php/component/content/category/49-general-information)
