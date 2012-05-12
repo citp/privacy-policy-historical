@@ -1,115 +1,28 @@
-> *The following text is extracted and transformed from the healthprofs.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219050828id_/http%3A//healthprofs.com/cam/content/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthprofs.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512090303id_/http%3A//healthprofs.com/cam/content/privacy.html) for the most accurate reproduction.*
 
 # HealthProfs.com - Privacy Policy -
 
-  
+We take your privacy seriously. We only ask you to provide information that we need in order to deliver the service or information you have requested.
+
+  1. **Information We Collect.**
+    1. At this website, your personally identifiable information is collected from you when you use the website to perform certain tasks, such as:
+      1. When you post or comment on an article or blogpost or send email to us (such as your name and email address). 
+      2. When you send email to a professional listed in one of the professional directories (such as your name and email address) or when you email a friend about a professional (such as your name and email address and your friend's name and email address). Please note that we do not read or retain the message in your e-mail.
+      3. When you call a professional using their number listed in one of the professional directories (such as information about where the call was placed).
+      4. When you fill out a self-assessment or take a self-test. The assessments and tests are administered by third-parties which have its own Privacy Policies concerning information they may collect from users. Please refer to their policies via the Privacy Policy links on the assessment and test pages.
+      5. When you subscribe to a publication (such as your name and address).
+      6. When you purchase something from us. Your payment information is submitted directly to the credit card processor, who is responsible for its use and security.
+      7. When you register to be listed in our directories. We collect information that will be used to create your profile in the directory, such as name, address, email address, as well as well as such professional information as your qualifications, certifications, the demographic region in which you practice, and your fields of specialty. We collect additional information for our records that may not be displayed as part of your directory profile, but is necessary to check the information you provide or accept payment from you.
+      8. When you open an email communication from us in your email program, we may use a software technology called "web beacons" that to let us know which emails have been opened by the recipients. This allows us to know how well customers respond to certain communications and the effectiveness of our marketing campaigns.
+    2. In addition, like most sites, we maintain logs of site usage for purposes such as to evaluate our users' interest level in areas of the website, which and how many pages they look at, how long they stay on the website, and what Web browsers are used. This data is tracked in aggregate form, not at an individual user level, and is not uniquely identifying. The aggregate level data may be shared with third parties and the public.
+  2. **Our Use of Your Information.** We only use information we collect to provide you the services on our website that you request.
+    1. We share information with third parties only when needed to deliver to you products or services that you request. For example, we share information from publication subscribers with the company that mails the magazines and information from those who purchase something from us with the credit card payment processing company. Some professionals wishing to list their services may have the information provided used to check with state licensing boards. Otherwise, we do not share or sell any personally identifiable information about website visitors.
+    2. We may use a software technology called "cookies" to create a personalized Web experience for our users. Cookies cannot be used to find your name, email address, or anything that is uniquely identifying about you, unless you provide that information. We use cookies for those applications that require us to keep track of information to customize results. If you don't have your browser set to accept cookies, certain areas of the website may not function properly.
+    3. We may use third-party advertising companies to serve ads when you visit our website. These companies may use information about you and your visits to this and other Web sites in order to provide advertisements on this website and other sites about goods and services of interest to you
+    4. When you click on links and/or ad banners that take you to third-party websites, the third party may collect information about you at their Web site. The third party may have its own privacy policies that differ from ours. We encourage you to read the posted privacy statement whenever interacting with any website you visit.
+  3. **Your Posted Materials.** The materials you post on the website, such as articles, blogposts, directory information and comments, are made available to be seen and read by other users of the website. No such materials are treated confidentially. We will remove your materials from the website at your request, but we cannot give any assurances that such materials are not still available from servers maintained by others (such as search engines or proxy servers) or that others have not already downloaded and stored such materials.
+  4. **Marketing Lists.** From time to time, we obtain lists of people who may be interested in our products and services from third-party marketing list suppliers. We use these lists to send direct marketing promotions by mail or by email. We do our best to obtain these lists only from suppliers who collect their lists in compliance with applicable law, but we are not responsible for the conduct and policies of these suppliers. Please note that even if you are a registered customer of ours and have asked us not to use the information you provided to us to send you promotional material, a third-party marketing list supplier may still provide us with your name and address. As a result, you may receive the promotional material sent by us to others on the supplier's list. If you have received a promotion from us and do not wish to receive future promotions, please contact us at newsletters@sussexdirectories.com.
+  5. **Limitations.** Though we make every effort to preserve your privacy, we cannot guarantee your privacy. Further, we may disclose personal information when required by law or where we have a good-faith belief that such action is necessary to comply with a judicial proceeding, a court order or legal process served on us. We may also disclose personal information in cooperation with a law enforcement request.
+  6. **Amendment.** We reserve the right to change this policy in accordance with the amendment policy in the website's Terms of Use.
 
 
-## Contents
-
-This Privacy Policy explains the policy of Sussex Directories ("SUSSEX") regarding the privacy of information supplied by users of Healthprofs.com (the "SITE") or collected by Sussex from site users. It explains: 
-
-  1. What personally identifiable information Sussex collects.
-  2. How Sussex collects the information.
-  3. How Sussex uses the information.
-  4. With whom Sussex may share user information.
-  5. What choices are available to users regarding collection, use and distribution of the information. 
-  6. What types of security procedures are in place to protect the loss, misuse or alteration of information under Sussex's control. 
-  7. How users can correct any inaccuracies in the information.
-
-
-
-If users have questions or concerns regarding this statement, they should contact us at Sussex by telephone, mail or email at the contact details listed on the web page marked "contact".
-
-## Information Collection and Use
-
-### Information Collection
-
-Sussex is the sole owner of the information collected on site. Sussex collects information from our users at several different points on our Web site.
-
-### Professional Registration
-
-Those Professionals who wish their services to be displayed on this Web site must complete the registration form. During professional registration, a user is asked to give out personal information, such as name, address, and email address, as well as such professional information as their qualifications, certifications, the demographic region in which they practice, and what fields they specialize in. Background checks will be performed on registrants to assure our users of the validity of license information.
-
-### Information Use
-
-Sussex does not sell or otherwise provide the information given to them to third party sources. All information is confidential unless:
-
-a. The user wishes to create a public profile. The information contained within a public profile may be viewed by third parties.
-
-b. The information is subpoenaed by officials of the United States government, or if Sussex deems that retaining said information may cause a direct physical threat to one or more individuals.
-
-### Profile
-
-Sussex stores information collected through cookies and log files to create a profile of our users. A profile is general information that we keep on users that details their viewing preferences, and allows us to improve our site. We do not share your profile with other third parties.
-
-### Cookies
-
-A cookie is a piece of data stored on the user's computer tied to information about the user. Sussex uses both session ID cookies and persistent cookies. When a user closes their browser, a session ID cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions.
-
-By setting a cookie on our site, users have their usernames and passwords automatically remembered. If users reject the cookie, they may still use our site. The only drawback to this is that they will have to log in for each consecutive visit. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site.
-
-###  Log Files
-
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information contained in user profiles.
-
-### Customer Service
-
-Users who sign up for particular services may receive email directly relating to this service. This will be stated in the sign-in portion of that module of the Website. The user will only receive email that pertains to the status of their account or to retrieve a forgotten password.
-
-### Service Announcements
-
-On rare occasions it is necessary to send out announcements which are strictly service-based. We send our users notices upon activation of their account, and also upon any password-look-up requests made by the user. Also, if our service is temporarily suspended for maintenance, or if our company were to undergo a large-scale transition thereby changing the nature of this privacy statement, we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature.
-
-## Sharing
-
-### Legal Disclaimer
-
-Though Sussex makes every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
-
-### Third Party Intermediaries
-
-We use a credit card processing company to bill users for services. This company does not retain, share, store or use personally identifiable information for any secondary purposes.
-
-### Business Transitions
-
-In the event Sussex goes through a business transition, such as being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. If as a result of the business transition, the users' personally identifiable information will be used in a manner different from that stated at the time of collection, they will be given choice consistent with our notification of changes section.
-
-### Change User Information
-
-Our users may change their profile at any time in the user section of this Web page. 
-
-### Links
-
-This Web site contains links to other sites. Please be aware that we, Sussex, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personal information. This privacy statement applies solely to information collected and dispersed by this Web site.
-
-### Security
-
-This Web site takes every precaution to protect our users' information. When users submit sensitive information via the Web site, their information is protected both online and off-line.
-
-When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with SSL, the best encryption software in the industry. While on a secure page, such as our order form, a padlock icon will be displayed in Web browsers such as Internet Explorer, Firefox and Safari. While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our company's server. Only employees and/or contractors who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to user's personal information. Our employees and/or contractors must use password-protected logins to access this server. Each time they return, they must re-enter their password to regain access to user information. All employees and/or contractors are kept up-to-date on our security and privacy practices. Any time new policies are added, our employees and/or contractors are notified about what they can do to ensure our users' information is protected. Finally, the servers that store personally identifiable information are in a secure environment in a locked building.
-
-### Supplementation of Information
-
-In order for this Web site to properly fulfill its obligation to users it is necessary for us to supplement the information we receive with information from 3rd party sources.
-
-### Background Check
-
-Some professionals wishing to list their services on Sussex undergo a thorough background check to assure the validity of their claimed credentials. Some of these background checks are performed by telephone by employees and/or contractors of Sussex.
-
-### ID Verification
-
-In many cases, for instance when a user enters a credit card number, or when a professional registers a business, it is necessary to perform an ID verification.
-
-We sometimes use third parties to verify a user's information to assure the security and legality of this site.
-
-### Notification of Changes
-
-If we decide to amend our privacy policy, we will post changes to this privacy statement on the homepage and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances we disclose it. We will use information in conformity with the privacy policy under which the information was collected.
-
-If we are going to use user information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner.
-
-If we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change(s).
-
-**Contact Information**  
-If users have any questions or suggestions regarding our privacy policy, subscription status, or our web site please see our contact page.
