@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxaudit.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112104635id_/http%3A//www.taxaudit.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxaudit.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513004810id_/http%3A//www.taxaudit.com/privacy-statement) for the most accurate reproduction.*
 
 # TaxResources, Inc. Online Security and Privacy
 
@@ -11,24 +11,21 @@ TaxResources has met the high security standards required for C–Level Security
 ### TaxResources, Inc. and Canada TaxResources, Inc. Privacy  
 Protection Policy
 
-[](http://www.truste.org/ivalidate.php?url=www.taxaudit.com&sealid=101 "Truste Org")
+[](https://privacy.truste.com/privacy-seal/TaxResources,-Inc/validation?rid=f051f82d-e489-48cf-85b9-48921042c34a "TRUSTe online privacy certification")
 
-We understand the importance of protecting the personal information of our customers and our employees. To earn and maintain your trust we have designed our policy to meet or exceed the requirements of the Personal Information Protection and Electronic Documents Act (PIPEDA) and the ten principles set forth in the Canadian National Standard for the Protection of Personal Information, legislation enacted by the United States government, the Circular 230 regulations issued by the United States Treasury Department, and substantially similar state and provincial legislation (collectively, privacy legislation). In addition, we are constantly looking for new and better ways to secure your personal information and to ensure that it is used in a responsible and respectful manner. 
+We understand the importance of protecting the personal information of our customers and our employees. To earn and maintain your trust we have designed our policy to meet or exceed the requirements of the Personal Information Protection and Electronic Documents Act (PIPEDA) and the ten principles set forth in the Canadian National Standard for the Protection of Personal Information, legislation enacted by the United States government, the Circular 230 regulations issued by the United States Treasury Department, and substantially similar state and provincial legislation (collectively, privacy legislation). In addition, we are constantly looking for new and better ways to secure your personal information and to ensure that it is used in a responsible and respectful manner.
 
-TaxResources, Inc. and its subsidiaries are licensees of the TRUSTe Privacy Program. TRUSTe is an independent, non–profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers all websites under the domain names of taxaudit.com and canadataxaudit.ca. Because TaxResources wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
-
-If you have questions or concerns regarding this statement, you should first contact TaxResources, Inc. or Canada TaxResources, Inc. as follows:   
+TaxResources, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html "Truste.com") including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at:  
 
 
-> **TaxResources, Inc**.  
+> TaxResources, Inc.  
 >  Information Security Officer  
 >  7803 Madison Avenue, Suite A–100  
->  Citrus Heights, CA 95610 USA  
->  Telephone: (866) 640–9695 or (916) 904–8176  
+>  Citrus Heights, CA 95610 USA Telephone: (866) 640–9695 or (916) 904–8176  
 >  Fax: (866) 650–9695 or (916) 904–8478  
 >  Email: [privacy@taxaudit.com](mailto:privacy@taxaudit.com)
-
-> **Canada TaxResources, Inc**.  
+> 
+>   Canada TaxResources, Inc.  
 >  Information Security Officer Suite 708  
 >  1155 West Pender  
 >  Vancouver, BC V6E 2P4  
@@ -36,7 +33,7 @@ If you have questions or concerns regarding this statement, you should first con
 >  Facsimile: (866) 650–9695  
 >  Email: [privacy@taxaudit.com](mailto:privacy@taxaudit.com)
 
-If you do not receive acknowledgement of your inquiry, or if your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Dispute Resolution Process at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will serve as a liaison with the Web site to resolve your concerns. 
+If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint "watchdog.truste.com"). 
 
 ##  OVERVIEW AND APPLICABILITY 
 
@@ -212,6 +209,8 @@ TaxResources, Inc. may disclose the personal information of its customers:
 
 **5.5**  TaxResources, Inc. has adopted guidelines and procedures with respect to the retention of personal information. Personal information that is no longer necessary or relevant for the identified purposes or required by law to be retained, shall be destroyed, erased or made anonymous in accordance with the TaxResources, Inc. Document Retention and Destruction Policy.
 
+**5.6**  Our Site includes links to other Web sites whose privacy practices may differ from those of TaxResources Inc. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
+
 ## 6 — ACCURACY
 
 _Personal information shall be as accurate, complete and up–to–date as is necessary for the purposes for which it is to be used_.
@@ -220,7 +219,7 @@ _Personal information shall be as accurate, complete and up–to–date as is ne
 
 **6.2**  TaxResources, Inc. will not, however, routinely update personal information, unless this is necessary to fulfill the purposes for which the information was collected. Personal information about customers shall be updated only as and when necessary to fulfill the identified purposes or upon notification by the individual.
 
-**6.3**  TaxResources Members will be assigned a unique User ID Number and password and may use that unique information to register on the Member Center of the TaxResources website. Once registered, members have access to their personal information and may make changes or update their own information.
+**6.3**  TaxResources Members will be assigned a unique User ID Number and password and may use that unique information to register on the Member Center of the TaxResources website. Once registered, members have access to their personal information and may make changes, delete or update their own information.
 
 **6.4**  TaxResources, Inc. shall ensure that personal information that is used on an ongoing basis, including information that is disclosed to third parties, is generally accurate and up–to–date, unless limits to the requirement for accuracy are clearly set out.
 
@@ -299,6 +298,6 @@ _An individual customer shall be able to address a challenge concerning complian
 
 ### CHANGES TO THE PRIVACY POLICY
 
-This policy is effective as of January 21, 2009. TaxResources, Inc. reserves the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy we will notify you on our homepage and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+This policy is effective as of November, 2011. TaxResources, Inc. reserves the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy we will notify you on our homepage and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
 Back to the TOP
