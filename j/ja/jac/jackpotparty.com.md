@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jackpotparty.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101145715id_/http%3A//www.jackpotparty.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackpotparty.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512113154id_/http%3A//www.jackpotparty.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Jackpot Party - Exclusive Slots & Casino Games Online - JackpotParty.com
 
@@ -8,7 +8,7 @@
 
 To play at JackpotParty.com (“Site”), you need to provide us with various items of personal data (“Personal Information” as defined below), which is a responsibility we take very seriously. This Privacy Policy sets out what information WMS will collect at or though the Site and how we may use your Personal Information.  For the purpose of this Privacy Policy, WMS includes WMS Alderney 2 Limited as well as its ultimate holding company and all of their parents, affiliates and subsidiaries, as defined in section 736 of the UK Companies Act 1985. 
 
-Please read this Privacy Policy carefully. The Privacy Policy is incorporated into the Site's [Terms and Conditions of Use](https://web.archive.org/web/20111101145715id_/http%3A//www.jackpotparty.com/Terms.aspx), which govern your use of this Site.
+Please read this Privacy Policy carefully. The Privacy Policy is incorporated into the Site's [Terms and Conditions of Use](https://web.archive.org/web/20120512113154id_/http%3A//www.jackpotparty.com/Terms.aspx), which govern your use of this Site.
 
 For the purposes of Data Protection Regulations and Legislation WMS Alderney 2 Limited is the Data Controller We are registered in the States of Alderney at York House, Victoria Street, Alderney GY9 3TA, British Channel Islands. We are also registered with the Data Protection Commissioner in Bailliwick of Guernsey - <http://www.dpr.gov.gg/>.  We comply with Alderney Data Protection Law (Bailiwick of Guernsey) 2001 and United Kingdom Data Protection Act 1998.  In addition, we consult EU Privacy Law, applicable to the European Economic Area (“EEA”) and Organization for Economic Cooperation and Development (“OECD”) guidelines, particularly in regard to the transfer of data across borders and the protection of that data. 
 
@@ -149,6 +149,6 @@ We provide a secure log in system for users with funds in their account, and urg
 
 By using the Site and/or by accepting the Terms and Conditions on this Site, you accept our privacy practices, as outlined in this Privacy Policy.  WMS reserves the right to modify, alter or otherwise update this Privacy Policy at any time. We will post any new or revised policies on the Site. However, WMS will use your Personal Information in a manner consistent with the Privacy Policy in effect at the time you submitted the information, unless you consent to the new or revised policy, including by continued use of the Site, in which case you also consent to the revised Privacy Policy applying to all previously collected Personal Information. We recommend that you revisit this Privacy Policy regularly. Your continued use of the Website will constitute acceptance of those changes.
 
-© 2011 WMS Alderney 2 Limited. All rights reserved.
+© 2012 WMS Alderney 2 Limited. All rights reserved.
 
 Last revised: 27 August 2010
