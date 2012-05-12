@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acapela-box.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607031703id_/http%3A//acapela-box.com/AcaBox/acabox-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acapela-box.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512111239id_/http%3A//www.acapela-box.com/AcaBox/acabox-privacy.php) for the most accurate reproduction.*
 
 # Acapela Box : privacy prolicy
 
