@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safelite.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203110013id_/http%3A//www.safelite.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safelite.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513011329id_/http%3A//www.safelite.com/privacy.jsp) for the most accurate reproduction.*
 
 # Safelite AutoGlass - Privacy Policy
 
@@ -39,7 +39,7 @@ We contract with Dotomi to serve ads on our behalf across the Internet and somet
 
 ### Who is providing this notice?
 
-Safelite® Group which consists of Safelite Fulfillment, Inc., Safelite Class Corp. and Safelite Solutions LLC. 
+Safelite® Group which consists of Safelite Fulfillment, Inc., Safelite Glass Corp. and Safelite Solutions LLC. 
 
 ### When is Safelite® providing this notice?
 
