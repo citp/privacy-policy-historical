@@ -1,68 +1,114 @@
-> *The following text is extracted and transformed from the swoopo.com privacy policy that was archived on 2010-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100215174036id_/http%3A//www.swoopo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swoopo.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512104509id_/http%3A//www.dealdash.com/page.php%3Fid%3D11) for the most accurate reproduction.*
 
-# Auction | Cheap TV laptop ipod auctions - bid & win on Swoopo
+# DealDash™ - Privacy policy
 
-**PRIVACY POLICY**
+**1\. General**
 
-**Scope**  
-Swoopo.com (hereinafter referred to as “Swoopo”) is a service provided by Entertainment Shopping, Inc. (hereinafter referred to as “Entertainment Shopping” or “We”). We recognize and respect your personal privacy. This Privacy Policy describes all aspects relating to gathering information while you are visiting the Swoopo website, how We handle your personal information for our services and all further permissible uses of such information.
+Your data is collected and processed by us exclusively according to federal and statutory regulations.
 
-By accepting the Privacy Policy and the Terms and Conditions in registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. This Privacy Policy is effective upon acceptance for new users and is otherwise effective 10 days after being posted on the website.
+You may use DealDash.com at any time without registering. When you visit our website, data is saved on our servers in an anonymous format, as is the website that you visit us from, the websites that you proceed to from our site, and your IP address.
 
-**Data Collection**  
-You may visit Swoopo at any time without providing your identity or revealing any personal information about yourself. However, when you visit our website, we may collect and store your computer and connection information, statistics on page views, traffic to and from Swoopo, ad data, IP address and standard web log information and information from other companies, such as demographic and navigation data.  
-For you to actively participate in Swoopo we do need some of your personal information, however. Once you provide us with your required personal information, you are no longer anonymous. In providing us with your personal information, you consent to the transfer and storage of such information on our servers.  
-In connection with your registration and use of Swoopo We may collect and store the following personal information:
+As this is being done, no personal data is associated with you. However, we do need some personal information from you so that you can actively participate in DealDash.com.
 
-  * email address and physical contact information including but not limited to your name, address, date of birth and telephone number;
-  * all transactional information based on your activities on Swoopo;
-  * shipping, billing and other information relating to any purchase or shipping;
-  * any correspondence sent to us;
-  * financial information, such as your credit card information; and 
-  * other supplemental information from third parties.
+We would therefore like to request that you agree to the collection and storage of some of your data.
 
+You can revoke your consent any time by closing your account with us.
 
+Once you have registered with DealDash.com, you are asked to choose a DealDash.com user name together with a password, which then allows you to take advantage of all of the DealDash.com services.
 
-**Use of Data**   
-Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, and customized experience. You agree that we may use your personal information to:
+ **2\. Data Collection**
 
-  * provide the services and customer support you request;
-  * resolve disputes, collect fees, and troubleshoot problems;
-  * prevent potentially prohibited or illegal activities, and enforce our Terms and Conditions;
-  * customize, measure and improve our services, content and advertising;
-  * inform you about our services, targeted marketing, service updates, and promotional offers; and
-  * compare information for accuracy, and verify it with third parties.
+"Personal data" is the information needed to identify you, for example your name, address, e-mail address andmobile phone number With your consent,  personal data is  recorded and processed by DealDash.com, in particular:
 
+-    when you register with DealDash.com;
 
+-    when you make a purchase;
 
-**Disclosure of Personal Data**  
-We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a listing or other content violates the rights of others, or protect anyone's rights, property, or safety. Such information will be disclosed in accordance with applicable laws and regulations.  
-We may also share your personal information with third parties assisting our business operations under contract, including but not limited to fraud investigations and debt collection, with law enforcement or other governmental officials if required by law, and with other business entities, should we plan to merge with or be acquired by that business entity.  
-Without limiting the above, in an effort to respect your privacy and our ability to keep the community free from bad actors, we will not otherwise disclose your personal information to law enforcement, other government officials, or other third parties without a subpoena, court order or substantially similar legal procedure, except when we believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss or to report suspected illegal activity.
+-    when you win an auction;
 
-**Providing Data within the Corporate Group**  
-We are a member of the Entertainment Shopping, Inc. . You are consenting to allow your data to be provided within this corporate group. We assure you that should data be provided this way, security and confidentiality will be guaranteed with no change, and that the data will continue to be subject to the Data Protection Statement above. 
+-    when you securely login.
 
-**Your Information on Swoopo**  
-Once you have been approved as registered user with Swoopo, you will be required to choose a user name. This user name will be displayed throughout Swoopo and therefore provided to the public. Unless you associate your user name with your personal information, users will not be able to personally identify your activities on Swoopo.  
-When visiting Swoopo from a public or shared computer, certain information about you, such as your user name, may also be visible to others who may use such the computer after your use.
+"Usage data" is personal data that identify the user, as well as information on the DealDash.com services the user utilizes, for example your DealDash.com user name together with the associated password and your IP address when you purchase bids, login to the site or win an auction.
 
-**Access, Review and Change of Personal Data**  
-You can access, review and change most of your personal information by logging on to Swoopo at any time. However, some of your personal information can only be changed by contacting our Customer Service. You are required to promptly update your personal information if changes occur or information is inaccurate. 
+Dealdash.com also collects information from you when you search, participate in a contest or questionnaire or communicate with our customer support.
 
-**Revoking Consent/Deleting Your Account**  
-Upon your request, we will close your account and remove your personal information from view as soon as reasonably possible, based on your account activity and in accordance with applicable law. We do retain personal information from closed accounts to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our General Terms and Conditions, and take other actions otherwise permitted by law.  
-You can delete or deactivate your Swoopo account at any time. When you delete your membership, your personal data is removed from our database unless we are required to save the data. As a rule it takes two to three business days until your information is completely removed from all records. 
+We collect this data  to make it possible for you to use DealDash.com and to help us personalize and continually improve your Dealdash.com experience.
 
-**The Use of Cookies at our Website**  
-Swoopo uses so-called “cookies”, which are files that are stored on your computer that can be retrieved to assist in customizing your experience with the online service. The information saved supports the functionality of the site, for example by keeping track of your visual preferences or controlling the frequency of “pop-up” windows. You are free to prevent cookies from being saved on your hard drive by adjusting the corresponding settings in your browser. However, we would like to point out that turning off these settings may result in limited functionality. 
+**3\. Use of the Data**
 
-**Security Measures**  
-Your Swoopo account and profile and the information contained therein are password protected. Please note that you are not permitted to provide your password to anyone else. Swoopo will never ask for your password in e-mails that you receive unexpectedly or that you did not request. Please remember to log out of your account and to close your internet browser window when you leave the Swoopo site; this is especially important if you use a PC in public locations. At present, this is the safest way to ensure that no one has access to your personal information. We assume no liability for the abuse of login data and passwords used.   
-Further, We treat data as an asset that must be protected. We use lots of security measures to protect your personal information against unauthorized access and disclosure. However, although we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
+ Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, and customized Dealdash.com experience. You agree that we may use your personal information to:
 
-**Protection from Web Crawlers or Spam**  
-Swoopo assures you that we will use your e-mail address with your express consent only for the purposes stated in the Terms of Use. We will not rent or sell your e-mail address to third parties, and we will prevent your e-mail address from being recorded by “web crawlers” or “web spiders” to the best of our ability. If you believe that your e-mail address has been recorded in this way, please let us know immediately. 
+-   provide the services and customer support you request;
 
-**General**  
-We may amend this Privacy Policy at any time by posting the amended terms on this site. All amended terms automatically take effect 10 days after they are initially posted on the site.
+-   resolve disputes and troubleshoot problems;
+
+-   prevent potentially prohibited or illegal activities, and enforce our Terms and Conditions;
+
+-   customize, measure and improve our services, content and advertising;
+
+-   tell you about our services, targeted marketing, site updates, and promotional offers based on your communication preferences.
+
+**4\. Newsletter**
+
+When you register with DealDash.com, you agree to be signed up with our newsletter. You may unsubscribe at anytime from the newsletter through this page or clicking the unsubscribe link at the bottom of the newsletter emails.
+
+ **5\. Forwarding Personal Data to Third Parties**
+
+Your personal information may be passed on to third parties only if this is necessary to process a payment transaction or a business transaction with our partners.
+
+Essentially these are respectable businesses that strictly comply with applicable data protection regulations.
+
+DealDash.com will not release any personal information on you or forward this to third parties insofar as you have not given your express consent to do so, or unless we are required to do so by law. Your personal data will be passed on only to the extent that we are required to do so by law. For example, personal data is passed on to prosecutorial authorities.
+
+ **6\. Viewing/Changing Personal Data**
+
+You can view the information in your DealDash.com account at any time and update it as necessary using your DealDash.com user name and your DealDash.com password.
+
+Your mobile phone number for activating your account can only be changed by contacting our Customer Service.  
+Once we are informed, we will adjust incorrect data accordingly.
+
+We will notify you upon request at any time as to whether and what personal data in respect to your identity or your pseudonym has been stored.  
+ **  
+7\. Revoking Consent/Deleting Your Account**
+
+You can revoke your consent to the storage and processing of your personal data here at any time, effective immediately.
+
+You can delete or deactivate your DealDash.com account at any time. When you delete your membership, your personal data is removed from our database unless we are required to save the data.
+
+As a rule it takes two to three weeks until your information is completely removed from all records. If you choose to close your account, all remaining bids will be destroyed.
+
+ **8\. The Use of Cookies on our Website**
+
+DealDash.com uses so-called "cookies", which are files that are stored on your computer that can be retrieved to assist in customizing your experience with the online service.
+
+The information saved supports the functionality of the site, for example by keeping track of your bids placed, auctions, etc.
+
+It is necessary to accept cookies in order to use our service properly.
+
+We would like to point out that turning off these settings may result in limited functionality.
+
+ **9\. Security Measures**
+
+The information in your DealDash.com account and in your DealDash.com profile is password protected, so that only you have access to this personal information.
+
+Please note that you are not permitted to provide your password to anyone else.
+
+DealDash.com will never ask for your password in e-mails that you receive unexpectedly or that you did not request.
+
+Please remember to log out of your account and to close your internet browser window when you leave the DealDash.com site; this is especially important if you use a PC in public locations.
+
+At present, this is the safest way to ensure that no one has access to your personal information.
+
+We assume no liability for the abuse of login data and passwords used.
+
+ **10\. Protection from Web Crawlers or Spam**
+
+DealDash.com assures you that we will use your e-mail address with your express consent only for the purposes stated in the Terms and Conditions.
+
+We will not sell your e-mail address to third parties, and we will prevent your e-mail address from being recorded by "web crawlers" or "web spiders" to the best of our ability.
+
+If you believe that your e-mail address has been recorded in this way, please let us know immediately.  
+ **  
+11\. Data Protection Guidelines Changes**
+
+We reserve the right to change this document at any time, without prior notification.
