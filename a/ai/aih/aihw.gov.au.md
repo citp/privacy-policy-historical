@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aihw.gov.au privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109160912id_/http%3A//www.aihw.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aihw.gov.au privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512214601id_/http%3A//aihw.gov.au/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy (AIHW)
 
 The Australian Institute of Health and Welfare is committed to protecting your privacy. We follow the guidelines of the Australian Government Office of the Privacy Commissioner (OPC) in the collection, handling, use and disclosure of personal information. Our website complies with OPC's guidelines.
 
