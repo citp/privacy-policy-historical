@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newmediamedicine.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220115807id_/http%3A//www.newmediamedicine.com/forum/content/124-privacy-policy-2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newmediamedicine.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512053453id_/http%3A//www.newmediamedicine.com/forum/content/124-privacy-policy-2.html) for the most accurate reproduction.*
 
 # New Media Medicine - Privacy Policy
 
