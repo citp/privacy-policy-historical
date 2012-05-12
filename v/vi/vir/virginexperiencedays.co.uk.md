@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the virginexperiencedays.co.uk privacy policy that was archived on 2011-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111020231147id_/http%3A//www.virginexperiencedays.co.uk/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginexperiencedays.co.uk privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512224145id_/http%3A//www.virginexperiencedays.co.uk/privacy-security) for the most accurate reproduction.*
 
-# Privacy & Security
+# Privacy & Security of the Virgin Experience Days Website
 
 We are committed to ensuring that all your personal information that we collect is kept private and protected. We'll make sure that our website is absolutely secure in the collection and use of your personal information. We follow the Data Protection Act 1998 and are registered on the public register of data controllers maintained by the Information Commissioner.
 
