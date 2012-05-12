@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aryanict.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222052443id_/http%3A//www.aryanict.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aryanict.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512195527id_/http%3A//www.aryanict.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - ARYAN ICT Solutions
 
@@ -8,7 +8,7 @@ Our privacy policy is displayed below. This Privacy Policy governs the manner in
 
 ### Effective January 1, 2011
 
-The use of services from AryanIct [hereafter referred to as "Aryanict.com"] constitutes agreement to these terms. You may view our [Terms of Service here](https://web.archive.org/web/20111222052443id_/http%3A//www.aryanict.com/terms.shtml).
+The use of services from AryanIct [hereafter referred to as "Aryanict.com"] constitutes agreement to these terms. You may view our [Terms of Service here](https://web.archive.org/web/20120512195527id_/http%3A//www.aryanict.com/terms.shtml).
 
 ### Introduction
 
