@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adifferentleague.co.uk privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109094839id_/http%3A//www.adifferentleague.co.uk/default.aspx%3Ftab%3D14%26Page%3D36) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adifferentleague.co.uk privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512073831id_/http%3A//www.adifferentleague.co.uk/default.aspx%3Ftab%3D14%26Page%3D36) for the most accurate reproduction.*
 
 # Privacy and Terms
 
@@ -18,7 +18,6 @@ Cookies and other Technology
 
 This website does use cookies as a method of collecting website statistics. This information cannot be used to identify any individual and only last as long as your visit.
 
-  
 Security 
 
 The Department takes precautions to protect the information about you. Only employees who need the information to perform a specific job are granted access to personally identifiable information. The computers and servers which store personally identifiable information are kept in a secure environment.
