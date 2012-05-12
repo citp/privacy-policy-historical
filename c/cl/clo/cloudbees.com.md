@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloudbees.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123190846id_/http%3A//www.cloudbees.com/company-privacy.cb) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudbees.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512031433id_/http%3A//www.cloudbees.com/company-privacy.cb) for the most accurate reproduction.*
 
 # CloudBees: Cloud Platform as a Service for Java Web Apps, Supported Jenkins/Hudson and Jenkins/Hudson in the Cloud
 
