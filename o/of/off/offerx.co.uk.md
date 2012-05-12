@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the offerx.co.uk privacy policy that was archived on 2011-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111025074538id_/http%3A//www.offerx.co.uk/documents/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerx.co.uk privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512075156id_/http%3A//www.offerx.co.uk/documents/privacy) for the most accurate reproduction.*
 
 # Win free prizes and competitions online | OfferX
-
-﻿
 
 Last updated: 28 February 2011
 
@@ -14,7 +12,7 @@ This statement discloses how OfferX helps to protect your personal information w
 
 ##  Collected Data
 
-OfferX collects, store and uses data about you and answers to specific questions asked by sponsors. OfferX and its clients or sponsors may contact you with offers and information which they feel will be of interest to you through mail, telephone or email. We may also use the personal information you provide for the purposes of: identity verification, credit and risk management, revenue collection, database verification and enhancement. If you would prefer your information not to be used in these ways, please [click here](https://web.archive.org/web/20111025074538id_/http%3A//www.offerx.co.uk/email-preferences?l=2).
+OfferX collects, store and uses data about you and answers to specific questions asked by sponsors. OfferX and its clients or sponsors may contact you with offers and information which they feel will be of interest to you through mail, telephone or email. We may also use the personal information you provide for the purposes of: identity verification, credit and risk management, revenue collection, database verification and enhancement. If you would prefer your information not to be used in these ways, please [click here](https://web.archive.org/web/20120512075156id_/http%3A//www.offerx.co.uk/email-preferences?l=2).
 
 Sponsors of OfferX have their own privacy policies and some have their own opt-in statements, it is strongly recommended that you read and understand this information.
 
@@ -42,7 +40,7 @@ We use personal information collected via offerx.co.uk to:
 
 ##  General disclosure of personal information
 
-###  Personally identifiable information
+##  Personally identifiable information
 
 We share personally identifiable information with selected third-parties. We also share the information that you have answered in the questionnaires with the relevant client. The clients and third parties use this to profile you, this enables them to send you targeted communications.
 
