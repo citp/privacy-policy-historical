@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the deepetch.com privacy policy that was archived on 2011-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102040619id_/http%3A//www.deepetch.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the deepetch.com privacy policy that was archived on 2012-05-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120512062720id_/http%3A//www.deepetch.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Deepetch.com| Privacy Policy</title>
+<title>Privacy Policy, We value your photographs | Deepetch.com</title>
 <meta name="description" content=" Deepetch obtains only specific and individualized data on our website visitors when such information is supplied voluntarily">
 <meta name="keywords" content="deepetch privacy policy, do’s, don’ts, online">
 <meta name="robots" content="index,follow">
@@ -32,7 +32,51 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 	color:#FFFFFF;
 }
 </style>
+<script language="javascript" type="text/javascript">
 
+
+
+
+fadeTime = 1000.0;
+
+fadeMin = 0.3;
+fadeMax = 1.1;
+
+function fade(id, lastTick) {
+        var tick = new Date().getTime();
+        var element = document.getElementById(id);
+        if (element.fadeState) {
+                if (lastTick)
+                        element.fadeTime += tick-lastTick;
+                else {
+                        element.fadeState = element.fadeState == 1 ? -1 : 1;
+                        element.fadeTime = fadeTime-element.fadeTime;
+                        return;
+                }
+        }
+        else {
+                element.fadeState = element.style.opacity == fadeMax ? -1 : 1;
+                element.fadeTime = 0.0;
+        }
+        var opacity = element.fadeTime/fadeTime;
+        if (element.fadeTime >= fadeTime)
+                opacity = 1.0;
+        if (element.fadeState == -1)
+                opacity = 1.0-opacity;
+        opacity = (fadeMax-fadeMin)*opacity+fadeMin;
+        element.style.opacity = opacity;
+        element.style.filter = 'alpha(opacity='+opacity*100+')';// IE
+        if (element.fadeTime >= fadeTime)
+            {    
+			 element.fadeState = null; 
+			  setTimeout("fade('"+id+"')", 33);
+			// fade('disp');
+			}
+        else{
+                setTimeout("fade('"+id+"',"+tick+")", 33);
+				}
+}
+</script>
  <script language="javascript">
 function LTrim( value ) {
 	var re = /\s*((\S+\s*)*)/;
@@ -48,6 +92,9 @@ function trim1( value ) {
 }
 function ValidateContact2()
       {	
+	  
+	 var d = new Date();
+	 document.HLogin.gmt.value=-d.getTimezoneOffset()/60;
 	 
 	 if(trim1(document.HLogin.CustomerID.value)!="")	{
 			var MailID=trim1(document.HLogin.CustomerID.value);    
@@ -80,21 +127,22 @@ function ValidateContact2()
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td width="22%" valign="top" style=" cursor:pointer" onclick="window.location='index.php'">
-    <img src="images/deepetch_logo.png" onclick="window.location='index.php'" title="Deepetch.com | USA, UK, AUS and more | 70+ countries and 10,0000 clients" alt="Deepetch.com logo-USA, UK and AUS">
+    <td width="183" valign="top" style=" cursor:pointer">
+    <a href="index.php">
+    <img src="images/deepetch_logo.png" onclick="window.location='index.php'" title="Deepetch.com | USA, UK, AUS and more | 70+ countries and 10,0000 clients" alt="Deepetch.com logo-USA, UK and AUS" width="183" height="89" border="0"></a>
    </td>
-    <td width="32%" valign="bottom">
-    <div class="handdrawn">Clipping path, Masking, Retouch, Color correction &amp; more</div>    </td>
-    <td width="44%" valign="top">
-    <div>
+    <td width="529" valign="bottom">
+   <a href="index.php" style="color:#000000; text-decoration:none;"> <div class="handdrawn">Clipping path, Masking, Retouch, Color correction &amp; more</div> </a>   </td>
+    <td width="579" valign="top">
+   <div>
          <table width="100%" border="0" cellspacing="0" cellpadding="0">
        <tbody><tr> <td colspan="4" height="30" align="right" valign="middle" style="font-size:11px; color:#000000; line-height:30px;">
        <ul style="display:inline; margin:0; padding:0">
        <li style="display:inline;"></li>
        <li style="display:inline;">+61 (7) 3188 6667</li>
        <li style="display:inline;">&nbsp;&nbsp;&nbsp;|&nbsp;</li>
-       <li style="display:inline;"><a href="javascript: var e = window.open('https://sightmax75.sightmaxondemand.com/Deepetch/SightMaxAgentInterface/PreChatSurvey.aspx?accountID=10&amp;siteID=10&amp;queueID=21&amp;skipSurvey=yes',
-    'chatWindow','width=490,height=404,resizable=0,scrollbars=no,menubar=no,status=no');" onmouseout="top.status=''; return true;" onmousedown="top.status='Chat with a company representative';return true;" onmouseover="top.status='Chat with a company representative';return true;" style="text-decoration:none;"><span style="font-size:11px; color:#000000; line-height:30px;"><img src="images/chat_bubble.png" height="17" width="20" border="0" align="top" style="margin-top:6px;">&nbsp;Chat now</span> </a></li>
+       <li style="display: inline; opacity: 1.1;" id="livesm1"><a href="javascript: var e = window.open('https://sightmax75.sightmaxondemand.com/Deepetch/SightMaxAgentInterface/PreChatSurvey.aspx?accountID=10&amp;siteID=10&amp;queueID=21&amp;skipSurvey=yes',
+    'chatWindow','width=490,height=404,resizable=0,scrollbars=no,menubar=no,status=no');" onmouseout="top.status=''; return true;" onmousedown="top.status='Chat with a company representative';return true;" onmouseover="top.status='Chat with a company representative';return true;" style="text-decoration:none;"><span style="font-size:11px; color:#000000; line-height:30px;"><img src="images/chat_bubble.png" height="17" width="20" border="0" align="top" style="margin-top:6px;">&nbsp;<b style="color:#000000">Chat now</b></span> </a></li>
     <li style="display:inline;">&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</li>
        <li style="display:inline;"><a href="contact_us.php" style="text-decoration:none;"><span style="font-size:11px;  color:#000000; line-height:30px;"> Contact us</span></a></li>
     </ul>
@@ -168,7 +216,7 @@ function ValidateContact2()
          </div>
          <div style="height:240px; width:204px; margin-top:30px; background:url(images/login-show.png) no-repeat;">
          <form action="CheckLogin.php" method="get" name="HLogin" onsubmit="return ValidateContact2();" style="margin:0 0 0 0; padding: 0 0 0 0;">
-         
+         <input type="hidden" name="gmt" value="">
         <div style="color:#FFFFFF; text-align:left; padding-top:8px; padding-left:15px; height:20px;">Email address</div>
         <div style="color:#FFFFFF; text-align:left; padding:3px 0px 5px 15px;">
         <input name="CustomerID" type="text" class="inputbox" style="width:165px; height:20px; border:#777777 1px solid; -moz-border-radius:7px;border-radius:7px; -webkit-border-radius:7px; outline:none; background-color:#777777; color:#FFFFFF; text-decoration:none;"></div>
@@ -178,12 +226,14 @@ function ValidateContact2()
         <div style="color:#FFFFFF; text-align:left; padding:3px 0px 5px 15px;">
         <input name="CustomerPassword" type="password" class="inputbox" style="width:165px; height:20px; border:#777777 1px solid; -moz-border-radius:7px;border-radius:7px; -webkit-border-radius:7px;outline:none;  background-color:#777777; color:#FFFFFF">
         </div>
-         
+          <div style="color:#FFFFFF; text-align:center; padding:2px 0px 5px 2px;">
+         <input type="checkbox" name="keepme" value="yes">  Keep me logged in
+         </div>
          <div style="color:#FFFFFF; text-align:center; padding:12px 0px 5px 15px;">
         <input name="Login" type="submit" value="Login" style="height:22px; width:90px; border:none; background-color:#CCCCCC; cursor:pointer;">
         </div>
         <div style="color:#FFFFFF; text-align:left; padding:3px 0px 0px 15px;">
-        <a href="forgetpassword.php" style="color:#FFFFFF; text-decoration:underline;">Forget your Password?</a>
+        <a href="forgetpassword.php" style="color:#FFFFFF; text-decoration:underline;">Forgot your Password?</a>
         </div>
          <div style="color:#FFFFFF; text-align:left; padding:3px 0px 5px 15px;">
         <a href="RegisterNew.php" style="color:#FFFFFF; text-decoration:underline;">Create an account</a>
@@ -210,8 +260,14 @@ function ValidateContact2()
         </tbody></table>
         
         
-	  </div>    </td>
-    <td width="2%" align="center">&nbsp;</td>
+	  </div>  
+      
+      <script>
+ fade('livesm1');
+// fade('livesm2');
+ </script>
+   </td>
+    <td width="26" align="center">&nbsp;</td>
   </tr>
   <tr><td colspan="4" align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
     <tbody><tr>
