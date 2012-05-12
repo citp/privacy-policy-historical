@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the responsemagic.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207192146id_/http%3A//www.responsemagic.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the responsemagic.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512090453id_/http%3A//www.responsemagic.com/privacyPolicy.php) for the most accurate reproduction.*
 
 # Email Marketing System | Email Marketing Software | Email Responder | Auto Responder | Email Deliverabiliy
 
 Platinum Synergy realizes that you care how your information is processed and shared, and we appreciate your trust in us to do that carefully and sensibly. This notice describes our Privacy Policy. By visiting our website ([www.platinumsynergy.com](http://www.platinumsynergy.com/)), as well as our associated websites [www.responsemagic.com](http://www.responsemagic.com/) , [www.synergyroom.com](http://www.synergyroom.com/) you are accepting and consenting to the practices described in this Privacy Policy. 
 
-Any personal information provided or acquired by Platinum Synergy is controlled primarily by Platinum Synergy Group Inc., 10 Washburn Drive, Unit #4, Kitchener, Ontario N2R 1S2 hereinafter referred to as Platinum Synergy. 
+Any personal information provided or acquired by Platinum Synergy is controlled primarily by Platinum Synergy Group Inc., 245 Strasburgh Road PO Box 27060 Kitchener, ON N2E 3K2 hereinafter referred to as Platinum Synergy. 
 
 Platinum Synergy recognizes the importance of respecting the privacy of those who visit our website and choose to take advantage of the services we offer. 
 
