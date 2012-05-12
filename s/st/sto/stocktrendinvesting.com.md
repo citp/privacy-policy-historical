@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stocktrendinvesting.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229172618id_/http%3A//www.stocktrendinvesting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stocktrendinvesting.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512075438id_/http%3A//www.stocktrendinvesting.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Stock Trend Investing Guide – Grow Your Savings Sure and Simple
+# Privacy Policy | Stock Trend Investing Guide
 
 Your privacy is very important to us. At StockTrendInvesting.com we want to make your experience with us satisfying and save. On this site you can share your comments on our content, buy products and sign-up for our e-newsletter. To help you make decisions about the information you provide anywhere on this site, this notice has been provided to outline our practices.
 
