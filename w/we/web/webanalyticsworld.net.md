@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the webanalyticsworld.net privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102073404id_/http%3A//www.webanalyticsworld.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webanalyticsworld.net privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512174846id_/http%3A//www.webanalyticsworld.net/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-|  [Share](http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.webanalyticsworld.net%2Fprivacy&t=Privacy) | | |   
----|---|---|---|---  
-  
 Privacy: Safeguarding your information
 
 This website, is operated by Jump Digital Ltd (“we, “”us”) ,  a company registered in the United Kingdom and registered under the UK Data Protection Act.
@@ -48,5 +45,3 @@ You can ask for a copy of the information we hold about you at any time (for whi
 
 **Contact**  
 If you have any queries concerning your personal information or any questions on our use of the information, please contact us on [info@jump-digital.com](mailto:info@jump-digital.com) ,or, via the [Talk To Us](http://www.webanalyticsworld.net/talk-to-us) page.
-
-[Subscribe by Email](http://feedburner.google.com/fb/a/mailverify?uri=WebAnalyticsWorld&loc=en_US)
