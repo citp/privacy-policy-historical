@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cutoutandkeep.net privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218222219id_/http%3A//www.cutoutandkeep.net/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cutoutandkeep.net privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512051730id_/http%3A//www.cutoutandkeep.net/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | About | Cut Out + Keep
 
@@ -18,7 +18,11 @@ Cut Out + Keep is not responsible for the content of external internet sites. Yo
 
 **Cookies:**
 
-A "cookie" is a small data text file that is placed in your browser and allows Cut Out + Keep to recognize you each time you visit this site(customisation etc). Cookies themselves do not contain any personal information, and Cut Out + Keep does not use cookies to collect personal information.
+A "cookie" is a small data text file that is placed in your browser and allows Cut Out + Keep to recognize you each time you visit this site(customisation etc). Cookies themselves do not contain any personal information, and Cut Out + Keep does not use cookies to collect personal information. Our advertisers may engage in the collection of non-personally identifiable information about end users by third parties through the use of cookies and pixel tags.
+
+You can opt out of this here: behavioral targeting here: [networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
+
+We are participating in the Digital Advertising Alliance's (DAA) Self-Regulatory Program for Online Behavioral Advertising, with the provision an “Ad Choices” link within advertising units.
 
 **Remember The Risks Whenever You Use The Internet:**
 
