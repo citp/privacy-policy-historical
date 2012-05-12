@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qango.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110103751id_/http%3A//info.qango.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qango.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512032004id_/http%3A//info.qango.com/company/privacy) for the most accurate reproduction.*
 
 # Qango Info - Privacy Policy
 
