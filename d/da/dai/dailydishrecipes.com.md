@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the dailydishrecipes.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203092928id_/http%3A//dailydishrecipes.com/disclosuresprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailydishrecipes.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512073515id_/http%3A//dailydishrecipes.com/disclosuresprivacy-policy) for the most accurate reproduction.*
 
-# Disclosures/Privacy Policy — Daily Dish Recipes
+# Disclosures/Privacy Policy » The Daily Dish Recipes
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fdailydishrecipes.com%2Fdisclosuresprivacy-policy%2F&media=&description=Disclosures%2FPrivacy+Policy)
 
 **Affiliate Disclosure**
 
@@ -32,3 +34,5 @@ We also use third party advertisements on FrugalChanges.com to support our site.
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings or by managing your preferences in programs such as McAfee or Norton. However, this can affect how you are able to interact with our site as well as other websites.
 
 _Thank you for visiting DailyDishRecipes.com_
+
+[](http://www.printfriendly.com/print/v2?url=http://dailydishrecipes.com/disclosuresprivacy-policy/)
