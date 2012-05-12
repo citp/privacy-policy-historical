@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sms44.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016100405id_/http%3A//www.sms44.com/press-release/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sms44.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512033018id_/http%3A//www.sms44.com/press-release/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | sMs44.Com
 
@@ -43,12 +43,12 @@ never be given/sold to third party, otherwise asked by the the Law of the Land.
 
 ### » Third Party Advertising Partners
 
-All users of sMs44 must keep this in mind that third parties may be  
+All users of sMs44 [Telecom News](http://www.sms44.com/press-release/) must keep this in mind that third parties may be  
 placing and reading cookies on your browsers, or using web beacons to collect  
 information as a result of ad serving on sMs44.com.
 
 For, instance one of our partners, Google uses the DoubleClick DART cookie on  
-sms4smile.com displaying AdSense for content ads. Similarly, other advertising  
+sms44.com displaying AdSense for content ads. Similarly, other advertising  
 partners may use their respective cookies to track advertising stats.
 
 ### » External Links
