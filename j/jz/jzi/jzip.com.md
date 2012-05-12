@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jzip.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228082730id_/http%3A//www.jzip.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jzip.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512203325id_/http%3A//www.jzip.com/privacy_policy.php) for the most accurate reproduction.*
 
 # jZip | Free zip software download - Privacy Policy
 
@@ -41,22 +41,12 @@ jZip takes reasonable precaution to protect Personal Information from misuse, lo
 
 In the event that jZip goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, Personal Information will likely be among the assets transferred. jZip will post a notice on this website of any such change in ownership or control of the Personal Information jZip may have prior to such transfer.
 
-## Changes to Policy
-
-From time to time, jZip may revise this Policy. jZip will post the revised Policy on the Site, so that users can always be aware of what information jZip collects, how the information is used and under what circumstances such information may be disclosed.
-
-## Change or Removal of Information
-
-You can edit your Personal Information at any time by logging in to your account and editing your profile.
-
-When user registers on the Site, the user may have the opportunity to opt-in to receive communications from jZip, including offers, updates and newsletters. If a user chooses not to opt-in, the user will not receive any communication from jZip. If a user's e-mail address changes, a user may correct such information by sending an e-mail to [support@jZip.com](mailto:support@jZip.com)  with the request or by contacting us by postal mail at the contact information listed below. If a user no longer wishes to receive e-mail communication from jZip, a user may opt-out of receiving such communications by following the instructions included in each newsletter or communication. In addition, a user can remove their e-mail address at any time by sending an e-mail with the subject line of OPT-OUT to [support@jZip.com](mailto:support@jZip.com)
-
 ## Contact Information
 
-Please direct all questions in connection with this Policy via e-mail to [privacy@jZip.com](mailto:privacy@jZip.com)  or by writing to Bandoo Media Inc., Attention: Privacy Policy Administrator, 40 Kimonos St.3095 Limassol, Cyprus. 
+If you have any questions or comments, please contact us via our support site [here](http://jzip.kayako.com/). You can also send us postal mail to Bandoo Media Inc., Attention: Privacy Policy Administrator, 40 Kimonos St.3095 Limassol, Cyprus. 
 
 |    
-[Join Our Affiliate Program](http://www.matomymarket.com/BrandedPublisherRegistration/jzip/) | [About Us](https://web.archive.org/web/20111228082730id_/http%3A//www.jzip.com/about_us.php) | [Privacy Policy](https://web.archive.org/web/20111228082730id_/http%3A//www.jzip.com/privacy_policy.php) | [Terms of Use](https://web.archive.org/web/20111228082730id_/http%3A//www.jzip.com/terms_of_use.php) | [DMCA Policy](https://web.archive.org/web/20111228082730id_/http%3A//www.jzip.com/dmca_policy.php)
+[Join Our Affiliate Program](http://www.matomymarket.com/BrandedPublisherRegistration/jzip/) | [About Us](https://web.archive.org/web/20120512203325id_/http%3A//www.jzip.com/about_us.php) | [Privacy Policy](https://web.archive.org/web/20120512203325id_/http%3A//www.jzip.com/privacy_policy.php) | [Terms of Use](https://web.archive.org/web/20120512203325id_/http%3A//www.jzip.com/terms_of_use.php) | [DMCA Policy](https://web.archive.org/web/20120512203325id_/http%3A//www.jzip.com/dmca_policy.php) | [Uninstall Instructions](http://jzip.kayako.com/Troubleshooter/Step/View/1)
 
 Copyright © 2011 All Rights Reserved to Bandoo Media Inc. | First jZip by Greg Kowal
 
