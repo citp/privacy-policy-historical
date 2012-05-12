@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the trihealth.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223010635id_/http%3A//www.trihealth.com/aus/aus_privPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trihealth.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512101643id_/http%3A//trihealth.com/discover-trihealth/your-trihealth/about-us/privacy-policy.aspx) for the most accurate reproduction.*
 
-# TriHealth - Privacy Policy
+# Privacy Policy - Your TriHealth | TriHealth
 
-Privacy Policy
-
-TriHealth respects the privacy of its visitors. We do not gather private information from a user without specifically requesting such information through a secure connection. This can be verified by double-clicking on the lock icon in the lower left-hand corner of your browser screen. The use of encryption software on a secure connection assures any information sent between you, the user, and our web site servers is secure during transmission.
+TriHealth respects the privacy of its visitors. We do not gather private information from a user without specifically requesting such information through a secure connection. This can be verified by double-clicking on the lock icon in the lower left-hand corner of your browser screen. The use of encryption software on a secure connection assures any information sent between you, the user, and our website servers is secure during transmission.
 
 Any information requested from a user is collected solely for the purposes expressed on the pages where the information is entered by the user. Information is never shared by TriHealth with an unaffiliated third party.
