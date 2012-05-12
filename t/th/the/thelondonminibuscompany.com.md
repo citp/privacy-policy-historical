@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelondonminibuscompany.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108114859id_/http%3A//www.thelondonminibuscompany.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelondonminibuscompany.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512225022id_/http%3A//www.thelondonminibuscompany.com/Privacy-Policy) for the most accurate reproduction.*
 
 # 
 
