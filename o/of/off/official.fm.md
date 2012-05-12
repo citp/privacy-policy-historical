@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the official.fm privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231203740id_/http%3A//official.fm/start/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the official.fm privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513001005id_/http%3A//official.fm/start/privacy_policy) for the most accurate reproduction.*
 
 # Start - Privacy_policy, on Official.fm
 
