@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egreetings.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204000211id_/http%3A//www.egreetings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egreetings.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513011936id_/http%3A//www.egreetings.com/privacy-policy) for the most accurate reproduction.*
 
 # www.egreetings.com
 
@@ -200,4 +200,4 @@ Beware of scams in which persons unknown to you request your screen name, passwo
 
 Always monitor your children's on-line activities and educate them as to the rules for safe Internet use. For more information, [click here](http://www.getnetwise.org/) for the Internet Education Foundation's Online Safety Guide for Kids. 
 
-If you have any questions, please feel free to review our [help center](http://www.egreetings.com/customer/index.pd). 
+If you have any questions, please feel free to review our [help center](http://www.egreetings.com/eg-help). 
