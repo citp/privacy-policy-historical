@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the mobilewhack.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229034809id_/http%3A//www.mobilewhack.com/about-us/about-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilewhack.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512203217id_/http%3A//www.mobilewhack.com/about-us/about-2) for the most accurate reproduction.*
 
-# Privacy Policy : MobileWhack.com
-
-## Privacy Policy
-
-By Paul B - 05/10/2008 2:39:05 PM
+# Privacy Policy - MobileWhack.com
 
 We take our reader’s privacy very seriously.
 
@@ -15,3 +11,5 @@ If an advertiser is interested in advertising on MobileWhack.com, we provide the
 Copyright Info:
 
 The content on Mobilewhack is written by professional writers and is copyrighted to Mobilewhack.com and it may not be used or reproduced in any way without the express premission of MobileWhack.com owners.
+
+This entry was posted By Paul B at 05/10/2008 2:39:05 PM and is filed under Categories: / .
