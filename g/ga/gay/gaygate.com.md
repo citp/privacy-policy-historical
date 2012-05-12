@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaygate.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208121524id_/http%3A//www.gaygate.com/text/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaygate.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512055633id_/http%3A//www.gaygate.com/text/privacy) for the most accurate reproduction.*
 
 # GayGate
 
