@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the emagister.in privacy policy that was archived on 2011-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111206070510id_/http%3A//www.emagister.in/web/pagina/privacidad) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the emagister.in privacy policy that was archived on 2012-05-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120512040511id_/http%3A//www.emagister.in/web/pagina/privacidad) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <title>Emagister</title>
@@ -14,7 +14,7 @@
 <tr class="cabcontacto">
 <td class="cabcontacto">
 <a href="http://www.emagister.in/">
-<img border="0" src="http://content.emagistercdn.com/19399/img/centro/in/logotipos/logofgris.gif">
+<img border="0" src="http://c0.emgcdn.net/26164/img/web/in/logo.png">
 </a>
 </td>
 </tr>
@@ -104,12 +104,13 @@ EMAGISTER reserves the right to modify this policy, adapt it to future legislati
 </tr>
 </tbody></table>
 <!-- Google Analytics -->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<script type="text/javascript">
 try {
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-12549415-1']);
 var baseurl = location.pathname + location.search;
-var readableVal = "mxr=/SEG/courses/PRIVACIDAD/";
+var readableVal = "mxr=/SEG/courses/PRIVACIDAD/mxr=/SEG/courses/PRESULTADO/TEMATICA/Mass Communication/Event management/1";
+var GATrackingCode = "UA-12549415-1";
 if (location.search.match(/\?/)) {
 readableVal = "&" + readableVal;
 } else {
@@ -117,59 +118,9 @@ readableVal = "?" + readableVal;
 }
 var trackerVal = baseurl+readableVal;
 _gaq.push(['_trackPageview', trackerVal]);
-_gaq.push(['_trackPageLoadTime']);
-var testAb = $.parseJSON(getCookie('testab'));
-var testsActivos = '';
-var sep = '';
-if (testAb!=null) {
-$.each(testAb, function(key, value) {
-if (value != '') {
-testsActivos = testsActivos+sep+'testAB_'+key+'_'+value;
-sep = '/';
-}
-});
-testsActivos = testsActivos + sep + sep;
-}
-var getVar = getCookie('__utmv');
-var hasValue = -1;
-if (getVar) {
-hasValue = getVar.indexOf(testsActivos);
-}
-if ( hasValue == -1 && testsActivos != '') {
-_gaq.push(['_setVar',testsActivos]);
-} else if (testsActivos == '') {
-var expires= new Date();
-document.cookie = "__utmv" + "=" + escape (' ') +
-"; expires=" + expires.toGMTString() +
-"; path=/" + ";domain=emagister.in";
-}
-} catch(error) {};
-// Seteo de libreria de analytics en modo asíncrono
-// Nota: se hace el append justo despues de inicializar el array push para que se setee en ie6/ie7.
-try {
-(function() {
-var ga = document.createElement('script');
-ga.type = 'text/javascript';
-ga.async = true;
-ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-var s = document.getElementsByTagName('script')[0];
-s.parentNode.insertBefore(ga, s);
-})();
+//_gaq.push(['_trackPageLoadTime']);
 } catch(error) {};
 </script>
-<!-- Nielsen -->
-<script type="text/javascript">
-<!-- //
-var _rsCI="es-intercom";
-var _rsCG="0";
-var _rsDN="//secure-uk.imrworldwide.com/";
-var _rsCC=0;
-// -->
-</script>
-<script type="text/javascript" src="//secure-uk.imrworldwide.com/v53.js"></script>
-<noscript>
-<div><img src="//secure-uk.imrworldwide.com/cgi-bin/m?ci=es-intercom&amp;cg=0" alt="" /></div>
-</noscript>
 
 
 </body></html>
