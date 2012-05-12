@@ -1,8 +1,19 @@
-<!--The following is the downloaded HTML source of the guerra-creativa.com privacy policy that was archived on 2011-03-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110313070639id_/http%3A//www.choosa.net/en/help/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the guerra-creativa.com privacy policy that was archived on 2012-05-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120512041458id_/http%3A//www.choosa.net/en/help/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="content-language" content="en">
-<title>Privacy Policy - Help &amp; Support &gt; Choosa.net</title><link href="/favicon.ico" type="image/x-icon" rel="icon" width="20" height="20"><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" width="20" height="20"><link href="/css/cache-1299863965-7ae75014cf2021d95aa80907d0a41949.css" rel="stylesheet" type="text/css">	<script src="https://c.compete.com/bootstrap/9dd5ec151009b1a6bf90992a6c24d6d5/bootstrap.js" type="text/javascript" async=""></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var WEB_ROOT='/';var LANG='en';var USER_LANG='en';</script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="content-language" content="en">
+<title>Privacy Policy - Help &amp; Support &gt; Choosa.net</title><meta name="description" content=" Launch a logo or design contest and get a large number of high quality designs for the best possible price!"><link href="/favicon.ico" type="image/x-icon" rel="icon" width="20" height="20"><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" width="20" height="20"><link href="/css/cache-1336762399-7ae75014cf2021d95aa80907d0a41949.css" rel="stylesheet" type="text/css">        <link href="/en/community/news.rss" type="application/rss+xml" rel="alternate" title="Choosa.net - News">  
+        <link href="/en/community/expert_posts.rss" type="application/rss+xml" rel="alternate" title="Choosa.net - Tutorials">
+	
+		
+	<script src="https://c.compete.com/bootstrap/9dd5ec151009b1a6bf90992a6c24d6d5/bootstrap.js" type="text/javascript" async=""></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+		globalURL = "http://www.choosa.net/";
+	</script>
+	
+	<script type="text/javascript">
+		var WEB_ROOT='/';var LANG='en';var USER_LANG='en';	
+		var ACTUAL_COUNTRY = 'us';
+	</script>
 	<script type="text/javascript">
 		function setLanguage(obj) {
 			var setting = obj.value;
@@ -25,19 +36,50 @@
 				}
 			}
 		}
+
+		function setCountry(obj) {
+			if(ACTUAL_COUNTRY != obj.value) {
+				var url = '/language/help/privacy';
+				var articleName	= "";
+				var community = url.split("/");
+				if(community[2] == "community" && community[3] == "article") {
+					$.get('http://www.choosa.net/en/community/change_country' + '/' + obj.value, function(pais){
+						pais = JSON.parse(pais);
+						
+						var articleName	= "";
+						$.getJSON("/community/change_lang/"+community[4]+"/"+pais.code,{}, function(res){
+							if(res.flashMessage.message != "") {
+								url		= url.replace(community[4], res.flashMessage.message)
+							}
+							url = url.replace('language', pais.code);
+							window.location = url;
+						});
+						
+					});
+				}else{
+					$.get('http://www.choosa.net/en/community/change_country' + '/' + obj.value, function(pais){
+						pais = JSON.parse(pais);
+						url = url.replace('language', pais.code);
+						window.location = url;
+					});
+				}
+			}
+		}		
 	</script>
-	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script><script type="text/javascript" src="/js/cjcb02cbe7.js"></script><link rel="stylesheet" type="text/css" href="/ccss/help.css">
-	<script type="text/javascript" src="/js/help.js"></script>
-	<link rel="stylesheet" type="text/css" href="/ccss/chat.css">
-	<script type="text/javascript" src="/js/chat.js"></script><!--[if lt IE 7]><script type="text/javascript" src="/js/ie6.js"></script><![endif]-->
-<link href="http://fonts.googleapis.com/css?family=Cantarell:regular,italic,bold&amp;subset=latin" rel="stylesheet" type="text/css">
+	
+	
+
+	
+	
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script><script type="text/javascript" src="/js/cj97454420.js"></script><link rel="stylesheet" type="text/css" href="/ccss/help.css">
+	<script type="text/javascript" src="/js/help.js"></script><!--[if lt IE 7]><script type="text/javascript" src="/js/ie6.js"></script><![endif]-->
 </head>
-<body>
+<body><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
 	<!-- ClickTale Top part -->
 	<script type="text/javascript">
-	var WRInitTime=(new Date()).getTime();
-	</script>
-	<!-- ClickTale end of Top part -->
+    var WRInitTime=(new Date()).getTime();
+    </script>
+    <!-- ClickTale end of Top part -->
 	<div id="bg_top"></div>
 	<div id="menu_top">
 		<div id="menu_container">
@@ -45,54 +87,16 @@
 				<li><a href="/en/">Home</a></li>
 				<li class="separator">&nbsp;</li>
 				<li><a href="/en/pages/about" rel="nofollow">About</a></li>
+				<li class="separator">&nbsp;</li>
 			</ul>
-			<div id="design_options"></div>
+			<div id="design_options">
+				<ul>
+					<li>
+						<img src="/img/flags/us.gif" alt="">						<span class="country_name">United States</span>
+					</li>
+				</ul>							
+			</div>
 			<ul>
-				<li>Language:</li>
-				<li>
-					<div id="language_select">
-						<div class="dropdown">
-							<input name="" id="" type="hidden" value="en" onchange="javascript:setLanguage(this);">
-							<div class="dropdown_content">
-								<span>
-								ENGLISH								</span>
-							</div>
-							<div class="dropdown_button"></div>
-							<div class="options-wrapper popup black">
-								<div class="tl"></div>
-								<div class="tr"></div>
-								<div class="clear"></div>
-								<div class="lft">
-									<div class="rgt">
-										<div class="container">
-											<div class="tp"></div>
-											<div class="btm"></div>
-											<div class="content">
-												<div class="options_container">
-													<div class="option">
-														<div class="option_text">ENGLISH</div>
-														<div class="option_value">en</div>
-													</div>
-													<div class="option">
-														<div class="option_text">ESPAÑOL</div>
-														<div class="option_value">es</div>
-													</div>
-													<div class="option">
-														<div class="option_text">PORTUGUÊS</div>
-														<div class="option_value">pt</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="clear"></div>
-								<div class="bl"></div>
-								<div class="br"></div>
-							</div>
-						</div>
-					</div>
-				</li>
 				<li class="separator">&nbsp;</li>
 				<li><a href="/en/help" rel="nofollow">Help &amp; Support</a></li>
 				<li class="separator">&nbsp;</li>
@@ -117,10 +121,10 @@ return true;
 						value=='Search...')this.value='';$(this).autocomplete(WEB_ROOT+LANG+'/search/autocomplete', {extraParams: {category:$('#search_category').val()}})" onblur="if(this.value=='')this.value='Search...'" autocomplete="on">
 						<div id="search_options">
 							<select id="search_category" name="data[Search][category]">
-								<option value="all">All</option>
+								<option value="all" selected="">All</option>
 								<option value="contests">Contests</option>
 								<option value="designs">Designs</option>
-								<option value="users" selected="">Users</option>
+								<option value="users">Users</option>
 								<option value="articles">Articles</option>
 								<option value="tutorials">Tutorials</option>
 							</select>
@@ -189,10 +193,10 @@ return true;
 	<div id="wra">
 		<div id="hdr">
 			<h1><a href="/en/">Choosa.net</a></h1>
-			<h2 class="subtitle">PROFESSIONAL DESIGN FOR EVERYONE</h2>
+			<h2 class="subtitle">WINNING DESIGN</h2>
 			<div id="sale_points">
 				<div id="start_design_hover">
-					<a href="/en/contests/add" onclick="_gaq.push(['_trackEvent', 'EN | TCTA', 'Click', 'EN | All Category Landing - Header > v1 > START DESIGN PROJECT // 100% GUARANTEED!']);">START DESIGN PROJECT<br><span>100% GUARANTEED</span></a>				</div>
+					<a href="/en/products" onclick="_gaq.push(['_trackEvent', 'EN | TCTA', 'Click', 'EN | All Category Landing - Header > v1 > START DESIGN PROJECT // 100% GUARANTEED!']);">START DESIGN PROJECT<br><span>100% GUARANTEED</span></a>				</div>
 				<div id="support_hover">
 					<a href="/en/pages/help">Customer Support</a>				</div>
 				<div id="payment_hover"><span>Secure Payment</span></div>
@@ -265,9 +269,30 @@ return true;
 			</div>
 			<div class="clear"></div>
 			<ul class="mainmenu">
-				<li><div><a href="/en/how-it-works"><span>How It Works</span></a></div></li><li><div><a href="/en/features"><span>Features</span></a></div></li><li><div><a href="/en/pricing"><span>Pricing</span></a></div></li><li><div><a href="/en/community"><span>Community</span></a></div></li><li><div><a href="/en/contests"><span>Browse Projects</span></a></div></li><li><div id="menu_see_gallery"><a href="/en/best-designs"><span>Design Gallery</span></a>						<div id="gallery_drp"></div>
-					</div></li><li><div id="menu_see_categories"><a href="/en/contests/winners"><span>See Categories</span></a>						<div id="categories_drp"></div>
-					</div></li><li><div id="menu_top_designers"><a href="/en/users"><span>Top Designers</span></a>						<div id="top_designers_drp"></div>
+				<li><div><a href="/en/how-it-works"><span>How It Works</span></a>						<div id="how_it_works_drp"></div>
+						<div class="popup black">
+							<div class="tl"></div>
+							<div class="tr"></div>
+							<div class="clear"></div>
+							<div class="lft">
+								<div class="rgt">
+									<div class="container">
+										<div class="tp"></div>
+										<div class="btm"></div>
+										<div class="content">
+											<ul>
+												<li><a href="/en/features">Features</a></li>
+											</ul>
+											<div class="clear"></div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="clear"></div>
+							<div class="bl"></div>
+							<div class="br"></div>
+						</div>						
+					</div></li><li><div><a href="/en/contests"><span>Browse Contests</span></a></div></li><li><div><a href="/en/users"><span>Top Designers</span></a>						<div id="top_designers_drp"></div>
 						<div class="popup black">
 							<div class="tl"></div>
 							<div class="tr"></div>
@@ -308,13 +333,9 @@ return true;
 									<div class="popup_categories">
 										<div class="popup_featured">
 											<ul>
-											<li><a href="/en/contests/landing/logo" class="category-lnk" rel="nofollow">Logo</a></li><li><a href="/en/contests/landing/stationery" class="category-lnk" rel="nofollow">Stationery</a></li><li><a href="/en/contests/landing/logo_and_stationary" class="category-lnk" rel="nofollow">Logo and Stationary</a></li><li><a href="/en/contests/landing/landing_page" class="category-lnk" rel="nofollow">Landing Page</a></li><li><a href="/en/contests/landing/small_website" class="category-lnk" rel="nofollow">Small Website</a></li><li><a href="/en/contests/landing/buttons_and_icons" class="category-lnk" rel="nofollow">Buttons / Icons</a></li><li><a href="/en/contests/landing/print_ads" class="category-lnk" rel="nofollow">Print Advertisement</a></li><li><a href="/en/contests/landing/wordpress" class="category-lnk" rel="nofollow">Wordpress</a></li>											</ul>
+											<li><a href="/en/contests/landing/logo" class="category-lnk" rel="nofollow">Logo</a></li><li><a href="/en/contests/landing/stationery" class="category-lnk" rel="nofollow">Stationery</a></li><li><a href="/en/contests/landing/logo_and_stationery" class="category-lnk" rel="nofollow">Logo and Stationery</a></li><li><a href="/en/contests/landing/small_website" class="category-lnk" rel="nofollow">Small Website</a></li>											</ul>
 											<div class="clear"></div>
 											<div class="button"><a href="/en/contests/winners">SEE ALL OF OUR DESIGN CATEGORIES</a></div>											<div class="clear"></div>
-										</div>
-										<div class="popup_all">
-											<div class="categoryGroup">	<div>Graphic Design</div><ul><li><a href="/en/contests/landing/logo" class="category-lnk" rel="nofollow">Logo</a></li><li><a href="/en/contests/landing/logo_and_stationary" class="category-lnk" rel="nofollow">Logo and Stationary</a></li><li><a href="/en/contests/landing/buttons_and_icons" class="category-lnk" rel="nofollow">Buttons / Icons</a></li></ul></div><div class="categoryGroup">	<div>Print Design</div><ul><li><a href="/en/contests/landing/stationery" class="category-lnk" rel="nofollow">Stationery</a></li><li><a href="/en/contests/landing/print_ads" class="category-lnk" rel="nofollow">Print Advertisement</a></li></ul></div><div class="categoryGroup">	<div>Web Design</div><ul><li><a href="/en/contests/landing/small_website" class="category-lnk" rel="nofollow">Small Website</a></li><li><a href="/en/contests/landing/large_website" class="category-lnk" rel="nofollow">Large Website</a></li><li><a href="/en/contests/landing/banner_ads" class="category-lnk" rel="nofollow">Banner Ad</a></li><li><a href="/en/contests/landing/landing_page" class="category-lnk" rel="nofollow">Landing Page</a></li><li><a href="/en/contests/landing/flash_animation" class="category-lnk" rel="nofollow">Flash Animation</a></li><li><a href="/en/contests/landing/wordpress" class="category-lnk" rel="nofollow">Wordpress</a></li><li><a href="/en/contests/landing/social_media_customization" class="category-lnk" rel="nofollow">Social Media Customization</a></li></ul></div><div class="categoryGroup">	<div>Other Design</div><ul><li><a href="/en/contests/landing/packaging" class="category-lnk" rel="nofollow">Packaging</a></li><li><a href="/en/contests/landing/3d_design" class="category-lnk" rel="nofollow">3D Design</a></li></ul></div>											<div class="clear"></div>
-											<div class="button">SEE MOST POPULAR DESIGN CATEGORIES</div>											<div class="clear"></div>
 										</div>
 									</div>
 								</div>
@@ -339,13 +360,9 @@ return true;
 									<div class="popup_categories">
 										<div class="popup_featured">
 											<ul>
-											<li><a href="/en/best-designs/logo" class="category-lnk" rel="nofollow">Logo</a></li><li><a href="/en/best-designs/stationery" class="category-lnk" rel="nofollow">Stationery</a></li><li><a href="/en/best-designs/logo_and_stationary" class="category-lnk" rel="nofollow">Logo and Stationary</a></li><li><a href="/en/best-designs/landing_page" class="category-lnk" rel="nofollow">Landing Page</a></li><li><a href="/en/best-designs/small_website" class="category-lnk" rel="nofollow">Small Website</a></li><li><a href="/en/best-designs/buttons_and_icons" class="category-lnk" rel="nofollow">Buttons / Icons</a></li><li><a href="/en/best-designs/print_ads" class="category-lnk" rel="nofollow">Print Advertisement</a></li><li><a href="/en/best-designs/wordpress" class="category-lnk" rel="nofollow">Wordpress</a></li>											</ul>
+											<li><a href="/en/designs/gallery/logo" class="category-lnk" rel="nofollow">Logo</a></li><li><a href="/en/designs/gallery/stationery" class="category-lnk" rel="nofollow">Stationery</a></li><li><a href="/en/designs/gallery/logo_and_stationery" class="category-lnk" rel="nofollow">Logo and Stationery</a></li><li><a href="/en/designs/gallery/small_website" class="category-lnk" rel="nofollow">Small Website</a></li>											</ul>
 											<div class="clear"></div>
-											<div class="button"><a href="/en/best-designs">SEE ALL OF OUR DESIGN CATEGORIES</a></div>											<div class="clear"></div>
-										</div>
-										<div class="popup_all">
-											<div class="categoryGroup">	<div>Graphic Design</div><ul><li><a href="/en/best-designs/logo" class="category-lnk" rel="nofollow">Logo</a></li><li><a href="/en/best-designs/logo_and_stationary" class="category-lnk" rel="nofollow">Logo and Stationary</a></li><li><a href="/en/best-designs/buttons_and_icons" class="category-lnk" rel="nofollow">Buttons / Icons</a></li></ul></div><div class="categoryGroup">	<div>Print Design</div><ul><li><a href="/en/best-designs/stationery" class="category-lnk" rel="nofollow">Stationery</a></li><li><a href="/en/best-designs/print_ads" class="category-lnk" rel="nofollow">Print Advertisement</a></li></ul></div><div class="categoryGroup">	<div>Web Design</div><ul><li><a href="/en/best-designs/small_website" class="category-lnk" rel="nofollow">Small Website</a></li><li><a href="/en/best-designs/large_website" class="category-lnk" rel="nofollow">Large Website</a></li><li><a href="/en/best-designs/banner_ads" class="category-lnk" rel="nofollow">Banner Ad</a></li><li><a href="/en/best-designs/landing_page" class="category-lnk" rel="nofollow">Landing Page</a></li><li><a href="/en/best-designs/flash_animation" class="category-lnk" rel="nofollow">Flash Animation</a></li><li><a href="/en/best-designs/wordpress" class="category-lnk" rel="nofollow">Wordpress</a></li><li><a href="/en/best-designs/social_media_customization" class="category-lnk" rel="nofollow">Social Media Customization</a></li></ul></div><div class="categoryGroup">	<div>Other Design</div><ul><li><a href="/en/best-designs/packaging" class="category-lnk" rel="nofollow">Packaging</a></li><li><a href="/en/best-designs/3d_design" class="category-lnk" rel="nofollow">3D Design</a></li></ul></div>											<div class="clear"></div>
-											<div class="button">SEE MOST POPULAR DESIGN CATEGORIES</div>											<div class="clear"></div>
+																						<div class="clear"></div>
 										</div>
 									</div>
 								</div>
@@ -464,8 +481,7 @@ protects user information with the highest security measures....<o:p></o:p></p>	
 <div id="sidebar">
 	<div class="sidebarHeader">Project Consultations</div>
 	<div>
-		Need specific help regarding choosing what's right for your design project? 
-				 Have no fear! We'll get in touch with you to help you understand how to:		<br><br>
+		Need specific help regarding choosing what's right for your design project? Have no fear! We'll get in touch with you to help you understand how to:		<br><br>
 		<ul> 
 			<li>Choose your price and design category</li>
 			<li>Add value through project options</li>
@@ -473,7 +489,7 @@ protects user information with the highest security measures....<o:p></o:p></p>	
 			<li>Communicate with designers</li>
 		</ul>
 		
-		<a href="/en/call_back_requests/add" id="callback" title="call me back">CALL ME BACK</a>		No commitment required!		<br><br>
+		<a href="/en/call_back_requests/add" id="callback" class="en" title="CALL ME BACK">CALL ME BACK</a>		No commitment required!		<br><br>
 		<div class="clear"></div>
 	</div>
 	<div class="sidebarHeader">Support</div>
@@ -489,20 +505,6 @@ protects user information with the highest security measures....<o:p></o:p></p>	
 			<strong>Email:</strong><br>
 			<a href="/en/">support@choosa.net</a><br><br>
 		</div>
-		<div class="hsep2"></div>
-		<div id="chatInfo">
-			<strong>Live Chat:</strong>
-		</div>
-		<style>
-</style>
-<div class="block chat">
-	<form onsubmit="return Chat.submit(this)" method="post" action="/en/chat_messages/send"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST"></fieldset>		<div class="transcript">
-		<p class="online-msg">Chat is online. Start chatting with our support team by typing below.</p><p class="offline-msg">Sorry, chat is currently offline.</p>		</div>
-				<div class="input">
-			<input name="data[ChatMessage][message]" type="text" value="Message" id="ChatMessageMessage">			<button class="chat_send">SEND</button>
-		</div>
-	</form></div>
-<script type="text/javascript">Chat.init({Message:'Message'});</script>
 	</div>
 	<div id="sidebarBottom"></div>
 </div>
@@ -510,89 +512,224 @@ protects user information with the highest security measures....<o:p></o:p></p>	
 								<div class="clear"></div>
 			</div>
 			</div>
-			<div id="cbo"></div>
+			<div id="cbo">&nbsp;</div>
 		</div>
 	</div>
+	<div class="clear"></div>
 	<div id="ftr">
 		<div id="bg_bottom"></div>
 		<div id="ftr_container">
+        
+        
 			<ul>
-				<li class="header"><a href="/en/">Home</a></li>
-				<li><a href="/en/how-it-works">How Crowdsourcing Works</a></li>
-				<li><a href="/en/features" rel="nofollow">Features</a></li>
-				<li><a href="/en/pricing" rel="nofollow">Pricing</a></li>
-				<li><a href="/en/users">Top Designers</a></li>
+				<li class="header"><a href="#">Print Design</a></li>
+	            <li><a href="/en/landing/business_card" title="Business Card Design">Business Card Design</a></li>
+	            <li><a href="/en/landing/flyer_brochure" rel="nofollow" title="Brochure / Flyer Design">Brochure / Flyer Design</a></li>
+	            <li><a href="/en/landing/packaging" rel="nofollow" title="Packaging Design">Packaging Design</a></li>
+	            <li><a href="/en/landing/poster" title="Poster Design">Poster Design</a></li>
+	            <li><a href="/en/landing/print_ads" title="Print Ad Design">Print Ad Design</a></li>
+	            <li><a href="/en/landing/invitations" title="Invitations Design">Invitations Design</a></li>
+	            <li><a href="/en/landing/envelope" title="Envelope Design">Envelope Design</a></li>
 			</ul>
 			<ul>
-				<li class="header"><a href="/en/contests/winners">Design Categories</a></li>
-				<li><a href="/en/contests/landing/logo">Logo</a></li>
-				<li><a href="/en/contests/landing/logo_and_stationary">Logo and Stationary</a></li>
-				<li><a href="/en/contests/landing/banner_ads">Banner Ads</a></li>
-				<li><a href="/en/contests/landing/landing_page">Landing Page</a></li>
-				<li><a href="/en/contests/landing/small_website">Small Website</a></li>
-				<li><a href="/en/contests/landing/email_newsletter">Email / Newsletter</a></li>
-				<li><a href="/en/contests/landing/buttons_and_icons">Buttons and Icons</a></li>
-				<li><a href="/en/contests/landing/naming">Naming</a></li>
+				<li class="header"><a href="#">Graphic Design</a></li>
+	            <li><a href="/en/landing/t-shirt" title="T-Shirt / Clothing Design">T-Shirt / Clothing Design</a></li>
+	            <li><a href="/en/landing/illustration" rel="nofollow" title="Illustrations">Illustrations</a></li>
+                <br>
+                <li class="header"><a href="#">Identity Design</a></li>
+	            <li><a href="/en/landing/logo" title="Logo Design">Logo Design</a></li>
+	            <li><a href="/en/landing/stationery" rel="nofollow" title="Stationery Design">Stationery Design</a></li>
+	            <li><a href="/en/landing/logo_and_stationery" rel="nofollow" title="Logo &amp; Stationery Design">Logo &amp; Stationery Design</a></li>
 			</ul>
 			<ul>
-				<li class="header"><a href="/en/contests">Design Contests</a></li>
-				<li><a href="/en/contests">Current</a></li>
-				<li><a href="/en/contests/finished">Finished</a></li>
-				<li><a href="/en/contests/archived">Archived</a></li>
-				<li><a href="/en/pages/help">Help with a Logo Contest</a></li>
-				<li><a href="/en/feedbacks/add" onclick="showFeedbackForm(); return false">Feedback</a></li>
-				<li><a href="/en/help/terms">Terms &amp; Conditions</a></li>
-				<li><a href="/en/help/privacy">Privacy Policy</a></li>
+				<li class="header"><a href="#">Web Design</a></li>
+	            <li><a href="/en/landing/small_website" title="Small Website Design">Small Website Design</a></li>
+	            <li><a href="/en/landing/email_newsletter" rel="nofollow" title="Email / Newsletter Design">Email / Newsletter Design</a></li>
+	            <li><a href="/en/landing/wordpress" title="WordPress Design">WordPress Design</a></li>
+	            <li><a href="/en/landing/facebook_twitter" rel="nofollow" title="Social Media Design">Facebook and Twitter Design</a></li>
+	            <li><a href="/en/landing/banner_ads" rel="nofollow" title="Banner Ads Design">Banner Ads Design</a></li>
+	            <li><a href="/en/landing/landing_page" rel="nofollow" title="Landing Page Design">Landing Page Design</a></li>
 			</ul>
 			<ul>
-				<li class="header"><a href="/en/community">Community</a></li>
-				<li><a href="/en/community/news" rel="nofollow">News</a></li>
-				<li><a href="/en/community/tutorials">Design Tutorials</a></li>
-				<li><a href="/en/community/recent_activities" rel="nofollow">Recent Activity</a></li>
+				<li class="header"><a href="#">Choosa Quicklinks</a></li>
+	            <li><a href="/en/about" title="About">About</a></li>
+	            <li><a href="/en/help/faq" rel="nofollow" title="FAQs">FAQs</a></li>
+	            <li><a href="/en/help" title="Help">Help</a></li>
+	            <li><a href="#" rel="nofollow" title="Feedback">Feedback</a></li>
+	            <li><a href="/en/help/videos" rel="nofollow" title="Video Tutorials">Video Tutorials</a></li>
+	            <li><a href="/en/help/terms" rel="nofollow" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
+	            <li><a href="/en/help/privacy" rel="nofollow" title="Privacy Policy">Privacy Policy</a></li>
 			</ul>
 			<ul>
-				<li class="header"><a href="/en/best-designs">Design Gallery</a></li>
-				<li><a href="/en/best-designs/logo">Logo</a></li>
-				<li><a href="/en/best-designs/logo_and_stationary">Logo and Stationary</a></li>
-				<li><a href="/en/best-designs/banner_ads">Banner Ads</a></li>
-				<li><a href="/en/best-designs/landing_page">Landing Page</a></li>
-				<li><a href="/en/best-designs/small_website">Small Website</a></li>
-				<li><a href="/en/best-designs/email_newsletter">Email / Newsletter</a></li>
-				<li><a href="/en/best-designs/buttons_and_icons">Buttons and Icons</a></li>
-				<li><a href="/en/best-designs/naming">Naming</a></li>
-			</ul>
-			<ul>
-				<li class="header"><a href="/en/help">Help &amp; Support</a></li>
-				<li><a href="/en/help/faq" rel="nofollow">FAQs</a></li>
-				<li><a href="/en/help/videos">Video Tutorials</a></li>
-				<li><a href="/en/help/terms" rel="nofollow">Terms &amp; Conditions</a></li>
-				<li><a href="/en/help/privacy" rel="nofollow">Privacy Policy</a></li>
-				<li><a href="/en/about" rel="nofollow">About</a></li>
-				<li><a href="/en/help/contact" rel="nofollow">Contact</a></li>
+				<li class="header"><a href="#">Designers</a></li>
+	            <li><a href="/en/help/faq" title="Earn Money on Choosa">Earn Money on Choosa</a></li>
+	            <li><a href="/en/users" rel="nofollow" title="Top Designers">Top Designers</a></li>
+	            <li><a href="/en/community" rel="nofollow" title="Community">Community</a></li>
 			</ul>
 			<!--ul>
 				<li><a href="http://www.creative-outsourcing.com/">Creative Outsourcing</a></li>
 				<li><a href="http://www.connaxis.com/">Connaxis</a></li>
 			</ul-->
 			<ul class="footerConnp">
-				<li class="header">
-					Follow Choosa					<div id="follow_us">
-						<a href="http://www.facebook.com/pages/choosanet/120089554726089" target="_blank"><img src="/img/facebook.png" width="42" height="42" alt=""></a>						<a href="http://twitter.com/choosanet_en" target="_blank"><img src="/img/twitter.png" width="42" height="42" alt=""></a>						<a href="/en/community/gc_updates" target="_blank"><img src="/img/rss.png" width="42" height="42" alt=""></a>					</div>
+				
+                
+                <li class="header">
+					Choose Country					<div class="dropdown" id="dropdown_countries">
+						<input name="" id="" type="hidden" value="en" onchange="javascript:setCountry(this);">
+						<div class="dropdown_content">
+							<span class="country_name"><img src="/img/flags/us.gif" alt=""> &nbsp; United States</span>
+						</div>
+						<div class="dropdown_button dropdown_up"></div>
+						<div class="options-wrapper popup black">	
+							<div class="tl"></div>	
+							<div class="tr"></div>	
+							<div class="clear"></div>	
+							<div class="lft">		
+								<div class="rgt">			
+									<div class="container">				
+										<div class="tp"></div>				
+										<div class="btm"></div>				
+										<div class="content">				
+											<div class="options_container">
+																									<div class="option">
+														<div class="option_text">
+															<img src="/img/flags/ar.gif" alt=""> &nbsp; Argentina														</div>
+														<div class="option_value">ar</div>
+													</div>
+																									<div class="option">
+														<div class="option_text">
+															<img src="/img/flags/au.gif" alt=""> &nbsp; Australia														</div>
+														<div class="option_value">au</div>
+													</div>
+																									<div class="option">
+														<div class="option_text">
+															<img src="/img/flags/at.gif" alt=""> &nbsp; Austria														</div>
+														<div class="option_value">at</div>
+													</div>
+																									<div class="option">
+														<div class="option_text">
+															<img src="/img/flags/bo.gif" alt=""> &nbsp; Bolivia														</div>
+														<div class="option_value">bo</div>
+													</div>
+																									<div class="option">
+														<div class="option_text">
+															<img src="/img/flags/br.gif" alt=""> &nbsp; Brasil														</div>
+														<div class="option_value">br</div>
+													</div>
+																									<div class="option">
+														<div class="option_text">
+															<img src="/img/flags/ca.gif" alt=""> &nbsp; Canada														</div>
+														<div class="option_value">ca</div>
+													</div>
+																									<div class="option">
+														<div class="option_text">
+															<img src="/img/flags/cl.gif" alt=""> &nbsp; Chile														</div>
+														<div class="option_value">cl</div>
+													</div>
+																									<div class="option">
+														<div class="option_text">
+															<img src="/img/flags/co.gif" alt=""> &nbsp; Colombia														</div>
+														<div class="option_value">co</div>
+													</div>
+																									<div class="option">
+														<div class="option_text">
+															<img src="/img/flags/es.gif" alt=""> &nbsp; España														</div>
+														<div class="option_value">es</div>
+													</div>
+																									<div class="option">
+														<div class="option_text">
+															<img src="/img/flags/fr.gif" alt=""> &nbsp; France														</div>
+														<div class="option_value">fr</div>
+													</div>
+																									<div class="option">
+														<div class="option_text">
+															<img src="/img/flags/de.gif" alt=""> &nbsp; Germany														</div>
+														<div class="option_value">de</div>
+													</div>
+																									<div class="option">
+														<div class="option_text">
+															<img src="/img/flags/it.gif" alt=""> &nbsp; Italy														</div>
+														<div class="option_value">it</div>
+													</div>
+																									<div class="option">
+														<div class="option_text">
+															<img src="/img/flags/mx.gif" alt=""> &nbsp; Mexico														</div>
+														<div class="option_value">mx</div>
+													</div>
+																									<div class="option">
+														<div class="option_text">
+															<img src="/img/flags/nz.gif" alt=""> &nbsp; New Zealand														</div>
+														<div class="option_value">nz</div>
+													</div>
+																									<div class="option">
+														<div class="option_text">
+															<img src="/img/flags/pe.gif" alt=""> &nbsp; Peru														</div>
+														<div class="option_value">pe</div>
+													</div>
+																									<div class="option">
+														<div class="option_text">
+															<img src="/img/flags/pt.gif" alt=""> &nbsp; Portugal														</div>
+														<div class="option_value">pt</div>
+													</div>
+																									<div class="option">
+														<div class="option_text">
+															<img src="/img/flags/nl.gif" alt=""> &nbsp; The Netherlands														</div>
+														<div class="option_value">nl</div>
+													</div>
+																									<div class="option">
+														<div class="option_text">
+															<img src="/img/flags/gb.gif" alt=""> &nbsp; United Kingdom														</div>
+														<div class="option_value">gb</div>
+													</div>
+																									<div class="option">
+														<div class="option_text">
+															<img src="/img/flags/us.gif" alt=""> &nbsp; United States														</div>
+														<div class="option_value">us</div>
+													</div>
+																									<div class="option">
+														<div class="option_text">
+															<img src="/img/flags/uy.gif" alt=""> &nbsp; Uruguay														</div>
+														<div class="option_value">uy</div>
+													</div>
+																									<div class="option">
+														<div class="option_text">
+															<img src="/img/flags/ve.gif" alt=""> &nbsp; Venezuela														</div>
+														<div class="option_value">ve</div>
+													</div>
+																							</div>				
+										</div>			
+									</div>		
+								</div>	
+							</div>	
+							<div class="clear"></div>	
+							<div class="bl"></div>	
+							<div class="br"></div>
+						</div>
+					</div>
 				</li>
 				<li class="header">
 					Subscribe to Our Newsletter					<div id="subscribe">
-						<input id="subscrInp" name="q" value="Enter email address" onfocus="if(this.value=='Enter email address')this.value='';$(this).autocomplete(WEB_ROOT+'users/autocomplete')" onblur="if(this.value=='')this.value='Enter email address'" autocomplete="off">
-						<button>Subscribe!</button>
+						<form method="post" action="/en/newsletter_subscribers/add_subscriptions"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST"></fieldset>							<input name="data[NewsletterSubscriber][email]" value="Enter your e-mail" onfocus="if(this.value=='Enter your e-mail')this.value='';" onblur="if(this.value=='')this.value='Enter your e-mail'">
+							<button>Suscribe!</button>
+						</form>					</div>					
+				</li>
+				<li class="header">
+					Follow Choosa					<div id="follow_us">
+						<a href="http://www.facebook.com/choosa.net" target="_blank" class="facebook"></a>						                        <a href="http://twitter.com/choosanet" target="_blank" class="twitter"></a>                        						<div class="clear"></div>
 					</div>
 				</li>
+                
+                
 			</ul>
+        
 		</div>
 	</div>
 	<div id="footer_powered">
 		<div id="logolinkfooter">
 			<a href="http://www.connaxis.com"></a>
 		</div>
-		<span>Created &amp; managed by Connaxis,<br>
+		<div class="clear"></div>
+		<span>Created and managed by Connaxis S.A. and/or Connaxis Limited,<br>
 		<!--2009 © All rights reserved.-->an <a href="http://www.connaxis.com"><strong>integrated web solutions company.</strong></a></span>
 	</div>
 
@@ -611,7 +748,6 @@ protects user information with the highest security measures....<o:p></o:p></p>	
   })();
 
 </script>
-<script type="text/javascript">try{var pageTracker=_gat._getTracker("UA-20359459-1");pageTracker._trackPageview();}catch(err){}</script>
 <!-- Start Quantcast tag -->
 <script type="text/javascript">
 _qoptions={
@@ -640,13 +776,49 @@ qacct:"p-d8DN2sT3ViRnI"
 <!-- ClickTale Bottom part -->
 <div id="ClickTaleDiv" style="display: none;"></div>
 <script type="text/javascript">
-if(document.location.protocol!='https:')
-  document.write(unescape("%3Cscript%20src='http://s.clicktale.net/WRb6.js'%20type='text/javascript'%3E%3C/script%3E"));
-</script>
+document.write(unescape("%3Cscript%20src='"+
+ (document.location.protocol=='https:'?
+  'https://clicktale.pantherssl.com/':
+  'http://s.clicktale.net/')+
+ "WRc9.js'%20type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://clicktale.pantherssl.com/WRc9.js" type="text/javascript"></script>
 <script type="text/javascript">
-if(typeof ClickTale=='function') ClickTale(5316,0.5,"www07");
+var ClickTaleSSL=1;
+if(typeof ClickTale=='function') ClickTale(4127,0.25,"www09");
 </script>
 <!-- ClickTale end of Bottom part -->
 
-
+<!-- begin olark code --><script type="text/javascript">/*{literal}<![CDATA[*/window.olark||(function(i){var e=window,h=document,a=e.location.protocol=="https:"?"https:":"http:",g=i.name,b="load";(function(){e[g]=function(){(c.s=c.s||[]).push(arguments)};var c=e[g]._={},f=i.methods.length; while(f--){(function(j){e[g][j]=function(){e[g]("call",j,arguments)}})(i.methods[f])} c.l=i.loader;c.i=arguments.callee;c.f=setTimeout(function(){if(c.f){(new Image).src=a+"//"+c.l.replace(".js",".png")+"&"+escape(e.location.href)}c.f=null},20000);c.p={0:+new Date};c.P=function(j){c.p[j]=new Date-c.p[0]};function d(){c.P(b);e[g](b)}e.addEventListener?e.addEventListener(b,d,false):e.attachEvent("on"+b,d); (function(){function l(j){j="head";return["<",j,"></",j,"><",z,' onl'+'oad="var d=',B,";d.getElementsByTagName('head')[0].",y,"(d.",A,"('script')).",u,"='",a,"//",c.l,"'",'"',"></",z,">"].join("")}var z="body",s=h[z];if(!s){return setTimeout(arguments.callee,100)}c.P(1);var y="appendChild",A="createElement",u="src",r=h[A]("div"),G=r[y](h[A](g)),D=h[A]("iframe"),B="document",C="domain",q;r.style.display="none";s.insertBefore(r,s.firstChild).id=g;D.frameBorder="0";D.id=g+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){D.src="javascript:false"} D.allowTransparency="true";G[y](D);try{D.contentWindow[B].open()}catch(F){i[C]=h[C];q="javascript:var d="+B+".open();d.domain='"+h.domain+"';";D[u]=q+"void(0);"}try{var H=D.contentWindow[B];H.write(l());H.close()}catch(E){D[u]=q+'d.write("'+l().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}c.P(2)})()})()})({loader:(function(a){return "static.olark.com/jsclient/loader0.js?ts="+(a?a[1]:(+new Date))})(document.cookie.match(/olarkld=([0-9]+)/)),name:"olark",methods:["configure","extend","declare","identify"]});
+/* custom configuration goes here (www.olark.com/documentation) */
+olark.identify('8406-846-10-2446');/*]]>{/literal}*/</script>
+<!-- end olark code -->
+<script type="text/javascript">
+   olark.configure('locale.welcome_title', "Click to Chat");
+   olark.configure('locale.chatting_title', "Choosa Support Chat");
+   olark.configure('locale.unavailable_title', "Choosa Support Chat: Offline");
+   olark.configure('locale.busy_title', "Choosa Support Chat: Busy");
+   olark.configure('locale.away_message', "Our live support is currently offline, Please try again later.");
+   olark.configure('locale.loading_title', "Loading Choosa Support Chat...");
+   olark.configure('locale.welcome_message', "Welcome to Choosa... Do you have any questions that we can help you with?");
+   olark.configure('locale.busy_message', "All of our representatives are with other customers at this time. We will be with you shortly.");
+   olark.configure('locale.chat_input_text', "Type here and hit <enter> to chat");
+   olark.configure('locale.name_input_text', "<click here> and type your Name");
+   olark.configure('locale.email_input_text', "<click here> and type your Email");
+   olark.configure('locale.offline_note_message', "We are offline, send us a message");
+   olark.configure('locale.send_button_text', "Send");
+   olark.configure('locale.offline_note_thankyou_text', "Thank you for your message.  We will get back to you as soon as we can.");
+   olark.configure('locale.offline_note_error_text', "You must complete all fields and specify a valid email address");
+   olark.configure('locale.offline_note_sending_text', "Sending...");
+   olark.configure('locale.operator_is_typing_text', "is typing...");
+   olark.configure('locale.operator_has_stopped_typing_text', "has stopped typing");
+   olark.configure('locale.introduction_error_text', "Please leave a name and email address so we can contact you in case we get disconnected");
+   olark.configure('locale.introduction_messages', "Welcome, just fill out some brief information and click <strong>Start Choosa Support Chat</strong> to talk to us");
+   olark.configure('locale.introduction_submit_button_text', "Start Choosa Support Chat");
+   olark.configure('WelcomeAssist.welcome_messages', ["Welcome to Choosa... Do you have any questions that we can help you with?"]);
+</script>
+<script type="text/javascript">
+olark('api.chat.updateVisitorNickname', {
+	    snippet: "Anonimo"
+});
+</script>
 </body></html>
