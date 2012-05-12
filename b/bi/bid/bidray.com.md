@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bidray.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208141342id_/http%3A//www.dealdash.com/page.php%3Fid%3D11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidray.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512104509id_/http%3A//www.dealdash.com/page.php%3Fid%3D11) for the most accurate reproduction.*
 
 # DealDash™ - Privacy policy
 
