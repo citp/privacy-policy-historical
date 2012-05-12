@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xp-vista.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121235639id_/http%3A//www.xp-vista.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xp-vista.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512213306id_/http%3A//www.xp-vista.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy For XP/Vista
+# Privacy Policy | Spyware Removal Guides
 
 Windows-XP-Vista.com and XP-Vista.com Privacy Policy
 
