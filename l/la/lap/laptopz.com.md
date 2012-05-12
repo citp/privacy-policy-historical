@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laptopz.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101131253id_/http%3A//www.laptopz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laptopz.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512115455id_/http%3A//www.laptopz.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice : LaptopZ.com, Laptop Parts and Laptop Accessories
 
@@ -7,6 +7,10 @@ Thank you for accessing our website of Laptopz.com. We respect your privacy and 
 **Dispute Resolution**
 
 If visitors or customers have any issues regarding the privacy practice of our website, please email service@laptopz.com . 
+
+**Choice and Opt-Out**
+
+If you no longer wish to receive the our promotional communications, you may "opt-out" of receiving them by following the instructions included in each communication or by e-mailing us at service@laptopz.com. 
 
 **Information We Collect**
 
