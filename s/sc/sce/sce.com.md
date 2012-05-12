@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sce.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008023739id_/http%3A//www.sce.com/PrivacyPolicy/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sce.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512044608id_/https%3A//www.sce.com/PrivacyPolicy/privacypolicy.htm) for the most accurate reproduction.*
 
-# SCE - Privacy Policy
+# SCE - Privacy Notice
 
-_Last updated: February, 2011_
+_Last updated: November 2011_
 
 Southern California Edison (SCE) respects the privacy of all visitors to our website. We realize concerns about privacy and the secure transfer, storage, and use of personal information have increased with the growth of online services. That is why SCE maintains strict privacy policies and uses state-of-the-art technologies to safeguard personal information.
 
@@ -42,4 +42,4 @@ The Southern California Edison website contains links to other websites. Please 
 
 ### Updates
 
-In order to improve our service or to keep up with future industry changes, the information in this privacy policy may be periodically updated. We will post a new date in the event that the current policy is altered. 
+In order to improve our service or to keep up with future industry changes, the information in this privacy notice may be periodically updated. We will post a new date in the event that the current notice is altered. 
