@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dateinasia.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217073311id_/http%3A//www.dateinasia.com/w3c/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dateinasia.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512151820id_/http%3A//www.dateinasia.com/w3c/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy for http://www.dateinasia.com
 
@@ -8,7 +8,7 @@ This policy is effective from 12th of February 2011
 
 **Contact Information**   
 Our homepage on the Internet is located at [http://www.dateinasia.com](http://www.dateinasia.com/)   
-You may contact us by e-mail at [team@dateinasia.com](mailto:team@dateinasia.com)
+You may contact us by email at [team@dateinasia.com](mailto:team@dateinasia.com)
 
 **Dispute Resolution**   
 Disputes will be handled by our team.   
