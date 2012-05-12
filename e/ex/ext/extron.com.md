@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extron.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229230927id_/http%3A//www.extron.com/company/article.aspx%3Fid%3Dprivacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extron.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512125507id_/http%3A//www.extron.com/company/article.aspx%3Fid%3Dprivacystatement) for the most accurate reproduction.*
 
 # Extron Electronics - Extron Electronics Privacy Policy
 
@@ -33,7 +33,7 @@ We also collect certain anonymous information that cannot be associated with you
 You may opt in or out of receiving information at any time. When you register with Extron, you have the option of selecting or deselecting the information you wish to receive (or not receive) from us. You may also change your mind and subscribe or unsubscribe at any time. For example, e-mail messages will contain instructions on how to unsubscribe so that you will not receive the e-mail in question in the future: 
 
   * If you'd like to be removed from this E-News, please send an e-mail message to [e-news@extron.com](mailto:e-news@extron.com). Type the words UNSUBSCRIBE E-NEWS followed by your e-mail address in the subject line.
-  * To unsubscribe from A/V Wire, please send an e-mail message to [avwire@extron.com](mailto:avwire@extron.com) with the words UNSUBSCRIBE A/V WIRE followed by your e-mail address in the subject line.
+  * To unsubscribe from AV Wire, please send an e-mail message to [avwire@extron.com](mailto:avwire@extron.com) with the words UNSUBSCRIBE AV WIRE followed by your e-mail address in the subject line.
   * If you are not involved in the sales or support of Extron products, or you prefer to receive NewsFlash via fax, please contact your Extron Customer Service Representative.
 
 If you have a dealer login, you can go to Preferences to change your subscriptions.
