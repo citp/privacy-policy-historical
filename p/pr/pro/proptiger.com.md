@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proptiger.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206035340id_/http%3A//www.proptiger.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proptiger.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512200158id_/http%3A//www.proptiger.com/privacy_policy.php) for the most accurate reproduction.*
 
 # proptiger.com - Residential Propeties in
 
