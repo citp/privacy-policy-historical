@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ph-creative.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209053428id_/http%3A//www.ph-creative.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ph-creative.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512210351id_/http%3A//www.ph-creative.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Ph.Creative
+
+#### Privacy Policy
 
 Ph-Creative Ltd takes your privacy seriously. Your personal information will not be sold or otherwise distributed to third parties without your consent. Ph-Creative Ltd is not a source of unsolicited email.
 
@@ -38,7 +40,3 @@ If you have any questions about this privacy statement, the practices of this we
 ### How to Unsubscribe
 
 If no longer wish to receive updates on the products and services that we offer then please send an email from that address with the word "unsubscribe" in the subject.
-
-**Get in touch today** and find out how higher conversion rates can = **more profits**
-
-0151 227 5549
