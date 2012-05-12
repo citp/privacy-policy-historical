@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the uscutter.com privacy policy that was archived on 2011-11-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111117211140id_/http%3A//www.uscutter.com/index/page/static/subpage/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uscutter.com privacy policy that was archived on 2012-05-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120512020554id_/http%3A//www.uscutter.com/index/page/static/subpage/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 		<base href="http://www.uscutter.com/">
@@ -8,8 +8,8 @@
 <link href="http://www.uscutter.com/styles/stylesheet.css" rel="stylesheet" type="text/css">
 <link href="http://www.uscutter.com/javascript/assets/menu-core.css" rel="stylesheet" type="text/css">
 <link href="http://www.uscutter.com/javascript/assets/menu.css" rel="stylesheet" type="text/css">
-  
-	  <style type="text/css">
+
+		<style type="text/css">
 		 <!--
 		 
 		 .style1 {	
@@ -31,8 +31,9 @@
 <script type="text/javascript" src="http://www.uscutter.com/javascript/jquery.autocomplete.min.js"></script>
 <script type="text/javascript" src="http://www.uscutter.com/javascript/thickbox.js"></script>
 
-	  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	  
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+							<link rel="canonical" href="http://www.uscutter.com/index/page/static/subpage/privacy_policy">
+		
 <!-- CUSTOM META TAGS - START -->
 
 
@@ -55,6 +56,7 @@
         <!-- link to magiczoomplus.js file -->
 <script src="http://www.uscutter.com/static/js/magiczoomplus.js" type="text/javascript"></script>
 <script src="http://www.uscutter.com/static/js/vtip.js" type="text/javascript"></script>
+<script src="http://www.uscutter.com/static/js/jquery.jshowoff.min.js" type="text/javascript"></script>
 
 <script type="text/javascript">var qmad = new Object();qmad.bvis="";qmad.bhide="";qmad.bhover="";</script>
 
@@ -261,8 +263,6 @@ function show_mini_cart_all_items(){
 	function(){
 		$("#minicart_popup").hide();
 	});
-
-	ic_minicart();
 }
 
 function show_minicart(){
@@ -271,102 +271,8 @@ function show_minicart(){
 	}else{
 		show_mini_cart_all_items();
 	}
-	ic_minicart();
 }
-function ic_minicart() {
-		$('#InternationalCheckout_minicart').remove(); 
-		$('.icForm_2').remove(); 
-		html ='<tr style="text-align:center;" id="InternationalCheckout_minicart"><td colspan="2"><a style="cursor:pointer; position: relative;" onclick="document.getElementById(\'icForm\').submit();"><img src="https://www.internationalcheckout.com/images/international_checkout_tr.gif"/></a></td></tr>'; 
 
-		$('.minicart_hdr_ftr').append(html);
-	
-		form ='<form class="icForm_2" id="icForm" name="icFrom" action="http://www.internationalcheckout.com/cart.php" method="post"></form>'; 
-		$('#freetext_search_form').after(form); 
-		
-		count=0;
-	
-		$('.minicart_ctr').find('>tbody >tr').each(function(){
-
-					count=count+1;
-					attributes = '';
-					$(this).find('>td').each(function(){
-						if($(this).hasClass('left')){
-							if($(this).find('img')){ 
-								$('#icForm').append('<input id="ItemImage'+count+'" name="ItemImage'+count+'" type="hidden" value="http://uscutter.com/'+$(this).find('img').attr("src").replace(" ","")+'" />'); 
-								$('#icForm').append('<input type="hidden" name="ImgHeight'+count+'" value="120"/>'); 
-								$('#icForm').append('<input type="hidden" name="ImgWidth'+count+'" value="120"/>'); 
-							} 
-						}
-						if($(this).hasClass('right')){
-							$(this).find('div').each(function(){
-									
-									if($(this).hasClass('prodname')){
-										descspilt = $(this).find('>a').html().split('<br>');
-										
-										for(i=0;i<descspilt.length;i=i+1){
-											if(descspilt.length == 1){
-												desc = descspilt[0].replace(/'/gi, "&acute;"); 
-												desc = desc.replace(/"/gi, "&rdquo;");
-											}else{
-												if(i==0){
-													desc = descspilt[0].replace(/'/gi, "&acute;"); 
-													desc = desc.replace(/"/gi, "&rdquo;");
-												}else{
-													
-													temp = descspilt[i].split(":");
-													if(temp[0] == 'Color'){
-														attr_value = temp[1].replace(/"/gi, "&rdquo;");
-														attr_value = attr_value.replace(/'/gi, "&acute;");
-														$('#icForm').append('<input id="ItemColor'+count+'" name="ItemColor'+count+'" type="hidden" value="'+attr_value+'" />');
-													}
-													if(temp[0] == 'Size'){
-														attr_value = temp[1].replace(/"/gi, "&rdquo;");
-														attr_value = attr_value.replace(/'/gi, "&acute;");
-														$('#icForm').append('<input id="ItemSize'+count+'" name="ItemSize'+count+'" type="hidden" value="'+attr_value+'" />');
-													}
-													if(temp[0] != 'Color' && temp[0] != 'Size'){
-														attr_value = temp[1].replace(/"/gi, "&rdquo;");
-														attr_value = attr_value.replace(/'/gi, "&acute;");
-														attributes = attributes + '&nbsp;['+temp[0]+':'+attr_value+']';
-														
-													}
-												
-												}
-											}
-										}
-										
-									
-										desc = desc+attributes;
-										$('#icForm').append('<input id="ItemDescription'+count+'" name="ItemDescription'+count+'" type="hidden" value="'+desc+'" />'); 												   									}
-										
-									if($(this).hasClass('proditem')){
-											sku = $(this).html().split(":");
-											$('#icForm').append('<input id="ItemSKU'+count+'" name="ItemSKU'+count+'" type="hidden" value="'+sku[1]+'" />'); 
-									} 
-									
-									if($(this).hasClass('prodqty')){
-										qty =  $(this).html().split(":");
-										  $('#icForm').append('<input id="ItemQuantity'+count+'" name="ItemQuantity'+count+'" type="hidden" value="'+qty[1]+'" />'); 												   						
-									}
-						
-								 
-									if($(this).hasClass('prodprice')){
-										price = $(this).html().replace("$",""); 
-										price =price.replace(/,/gi, ""); 
-										$('#icForm').append('<input id="ItemPrice'+count+'" name="ItemPrice'+count+'" type="hidden" value="'+price+'" />');
-									} 
-																				   
-								}); 
-							
-						}
-					});
-		
-		}); 
-		$('#icForm').append('<input id="p" name="p" type="hidden" value="uscutter" />');
-		$('#icForm').append('<input id="shipping_method" name="shipping_method" type="hidden" value="Flat Rate" />');
-		$('#icForm').append('<input id="external_domesticshipping" name="external_domesticshipping" type="hidden" value="9.99" />');
-		
-}
 function minicart_fix_height(){
 	extra_height=12;
 	height1 = $(".minicart_max_listing_height .minicart_products:eq(0)").height()+extra_height;
@@ -401,8 +307,6 @@ function add_to_cart_success_callback(){
 	}
 	$("#minicart_popup .minicart").center();
 	
-	
-
 	$(document).ready(function(){
 		$("#minicart_subtotal").html($("#new_minicart_subtotal").html());
 		$("#minicart_qty").html($("#new_minicart_qty").html());
@@ -417,9 +321,6 @@ function add_to_cart_success_callback(){
 	function(){
 		$("#minicart_popup").hide();
 	});
-
-	ic_minicart();
-	
 }
 
 $(document).ready(function(){
@@ -443,6 +344,8 @@ $(document).ready(function(){
 	
 		<a href="Vinyl-Cutter-3" class="subcat_title">	Vinyl Cutters
 </a><br>
+		
+<a href="http://www.uscutter.com/index/page/static/subpage/buying_guides" class="buyguide">[Buying Guide]</a><br>
 	
 
 	<span class="nav_part"> Choose from our wide variety of vinyl cutters designed to fit virtually every budget and application...
@@ -582,6 +485,19 @@ $(document).ready(function(){
 
 <li class="nav_sub1_element f_left">
 
+	<a href="Color-Sample-Guides-159"><img src="static/images/category-images/COLORCHARTS.jpg" title="	Color &amp; Sample Guides
+"></a>
+	
+		<a href="Color-Sample-Guides-159" class="subcat_title">	Color &amp; Sample Guides
+</a><br>
+	
+
+	<span class="nav_part"> Very useful for ordering vinyl. Show your customers their color options.
+</span>
+</li>
+
+<li class="nav_sub1_element f_left">
+
 	<a href="Translucent-Vinyl-107"><img src="static/images/category-images/TRANSLUCENT.jpg" title="	Translucent Vinyl
 "></a>
 	
@@ -712,19 +628,6 @@ $(document).ready(function(){
 
 </ul></li><li class="hoverable"><a href="Digital-17"><span>	Digital
 </span></a><ul class="subcategories"><li class="nav_sub1_element f_left">
-
-	<a href="Banner-Material-109"><img src="static/images/category-images/DIGITAL_BANNER.jpg" title="	Banner Material
-"></a>
-	
-		<a href="Banner-Material-109" class="subcat_title">	Banner Material
-</a><br>
-	
-
-	<span class="nav_part"> Printable banner material for large format eco-solvent and solvent printers from GreenStar &amp; LG. Available in a variety of roll sizes.
-</span>
-</li>
-
-<li class="nav_sub1_element f_left">
 
 	<a href="Intermediate-Vinyl-18"><img src="static/images/category-images/18_INTERMEDIATE_DIGITAL.jpg" title="	Intermediate Vinyl
 "></a>
@@ -1047,7 +950,7 @@ $(document).ready(function(){
 </a><br>
 	
 
-	<span class="nav_part"> Sublimation ink for Artainium UV, SubliJet IQ, SubliJet-R, ChromaBlast and ChromaBlast-R. Available in CMYK sets and single cartridges.
+	<span class="nav_part"> Sublimation ink for SubliJet IQ, SubliJet-R, ChromaBlast and ChromaBlast-R. Available in CMYK sets and single cartridges.
 </span>
 </li>
 
@@ -1099,7 +1002,7 @@ $(document).ready(function(){
 </a><br>
 	
 
-	<span class="nav_part"> Sublimation ink sets for Artainium UV, SubliJet IQ, SubliJet-R, ChromaBlast and ChromaBlast-R. 
+	<span class="nav_part"> Sublimation ink sets for SubliJet IQ, SubliJet-R, ChromaBlast and ChromaBlast-R. 
 </span>
 </li>
 
@@ -1551,14 +1454,79 @@ $(document).ready(function(){
 </ul></li><li class="hoverable"><a href="index/page/category/category_id/63/category_chain/63/name/Specials/"><span>	Specials
 </span></a><ul class="subcategories"><li class="nav_sub1_element f_left">
 
-	<a href="Sale-Items-128"><img src="static/images/category-images/sale.jpg" title="	Sale Items
+	<a href="index/page/category/category_id/157/category_chain/63,157/name/Sale+Equipment/"><img src="static/images/category-images/3_VINYL_CUTTER.jpg" title="	Sale Equipment
 "></a>
 	
-		<a href="Sale-Items-128" class="subcat_title">	Sale Items
+		<a href="index/page/category/category_id/157/category_chain/63,157/name/Sale+Equipment/" class="subcat_title">	Sale Equipment
 </a><br>
 	
 
-	<span class="nav_part"> These items have been discounted from USCutter's already low prices.
+	<span class="nav_part"> Vinyl cutters, heat presses, printers and MORE at closeout prices!
+</span>
+</li>
+
+<li class="nav_sub1_element f_left">
+
+	<a href="index/page/category/category_id/156/category_chain/63,156/name/Sale+Tools/"><img src="static/images/category-images/62_TOOL_BUNDLES.jpg" title="	Sale Tools
+"></a>
+	
+		<a href="index/page/category/category_id/156/category_chain/63,156/name/Sale+Tools/" class="subcat_title">	Sale Tools
+</a><br>
+	
+
+	<span class="nav_part"> Here you will find tools and supplies discounted from USCutter's already low prices.
+</span>
+</li>
+
+<li class="nav_sub1_element f_left">
+
+	<a href="index/page/category/category_id/153/category_chain/63,153/name/Sale+Vinyl/"><img src="static/images/category-images/11_INTERMEDIATE_VINYL.jpg" title="	Sale Vinyl
+"></a>
+	
+		<a href="index/page/category/category_id/153/category_chain/63,153/name/Sale+Vinyl/" class="subcat_title">	Sale Vinyl
+</a><br>
+	
+
+	<span class="nav_part"> Specials on vinyl at discount prices!
+</span>
+</li>
+
+<li class="nav_sub1_element f_left">
+
+	<a href="index/page/category/category_id/154/category_chain/63,154/name/Sale+Banners/"><img src="static/images/category-images/26_BANNER_BLANKS.jpg" title="	Sale Banners
+"></a>
+	
+		<a href="index/page/category/category_id/154/category_chain/63,154/name/Sale+Banners/" class="subcat_title">	Sale Banners
+</a><br>
+	
+
+	<span class="nav_part"> Great closeout deals on banner materials.
+</span>
+</li>
+
+<li class="nav_sub1_element f_left">
+
+	<a href="index/page/category/category_id/150/category_chain/63,150/name/Sale+Inks/"><img src="static/images/category-images/37_SUBLIMATION_INK.jpg" title="	Sale Inks
+"></a>
+	
+		<a href="index/page/category/category_id/150/category_chain/63,150/name/Sale+Inks/" class="subcat_title">	Sale Inks
+</a><br>
+	
+
+	<span class="nav_part"> Discounts on ChromaBlast and SubliJet inks for a variety of printing systems. Buy at cost and SAVE!
+</span>
+</li>
+
+<li class="nav_sub1_element f_left">
+
+	<a href="index/page/category/category_id/166/category_chain/63,166/name/Sale+Digital+Media/"><img src="static/images/category-images/NEW_DIGIT_SPECIAL.jpg" title="	Sale Digital Media
+"></a>
+	
+		<a href="index/page/category/category_id/166/category_chain/63,166/name/Sale+Digital+Media/" class="subcat_title">	Sale Digital Media
+</a><br>
+	
+
+	<span class="nav_part"> Media for your digital printer at closeout prices!
 </span>
 </li>
 
@@ -1675,8 +1643,8 @@ $("#navigation .hoverable:last a:first").css('backgroundImage','none');
 				</div><!--logo right part middle close-->
 
 				<div class="logo_right_part_bottom">
-				<div class="logo_right_part_btm_text_01">Sales: <span>425-481-3555</span> M-F 6:00 AM-4:00 PM PST, Sat 10:00 AM - 3:00 PM PST</div>
-				<div class="logo_right_part_btm_text_02">Support: <span>425-902-1302</span> M-F 6:00 AM-4:00 PM PST, Sat 10:00 AM - 3:00 PM PST</div>
+				<div class="logo_right_part_btm_text_01">For Sales: <span>425-481-3555</span> M-F 6am - 4pm PST</div>
+				<div class="logo_right_part_btm_text_02">For Support: <span>425-902-1302</span> M-F 6am - 4pm PST</div>
 			</div>
 
 
@@ -1773,8 +1741,9 @@ $('.stripe_middle_text_secondary').append(innertxt);
 	<div class="search_terms">
 		<select name="Product_DELIMITER_manufacturer_id">
 	<option value="">Choose...</option>
-	<option label="Best Sellers" value="108">Best Sellers</option>
-<option label="CP Films" value="35">CP Films</option>
+	<option label="CP Films" value="35">CP Films</option>
+<option label="China America Connection" value="100">China America Connection</option>
+<option label="Chungkong Ad-Mart Co., Ltd." value="20">Chungkong Ad-Mart Co., Ltd.</option>
 <option label="Clean Cut Blades" value="59">Clean Cut Blades</option>
 <option label="Clearstar LP" value="13">Clearstar LP</option>
 <option label="ClipArt deSIGN USA" value="39">ClipArt deSIGN USA</option>
@@ -1783,7 +1752,6 @@ $('.stripe_middle_text_secondary').append(innertxt);
 <option label="Corel Corporation" value="47">Corel Corporation</option>
 <option label="Creation" value="111">Creation</option>
 <option label="Creative Film Corporation" value="23">Creative Film Corporation</option>
-<option label="Digital Designware" value="98">Digital Designware</option>
 <option label="EcoCut" value="112">EcoCut</option>
 <option label="Elmer's Products, Inc." value="14">Elmer's Products, Inc.</option>
 <option label="Epson Seiko" value="66">Epson Seiko</option>
@@ -1791,15 +1759,18 @@ $('.stripe_middle_text_secondary').append(innertxt);
 <option label="Foster Keencut" value="94">Foster Keencut</option>
 <option label="Generic" value="91">Generic</option>
 <option label="Geo Knight &amp; Co Inc" value="60">Geo Knight &amp; Co Inc</option>
-<option label="GoldCut" value="113">GoldCut</option>
 <option label="Graphic Accessory Products" value="32">Graphic Accessory Products</option>
 <option label="Graphtec America, Inc." value="9">Graphtec America, Inc.</option>
 <option label="GreenStar" value="95">GreenStar</option>
+<option label="Harbor Freight USA" value="57">Harbor Freight USA</option>
 <option label="Hexis" value="63">Hexis</option>
 <option label="Hotronix" value="21">Hotronix</option>
 <option label="Image1Impact" value="64">Image1Impact</option>
+<option label="Innovative Plastics" value="81">Innovative Plastics</option>
+<option label="Inteplast Group" value="107">Inteplast Group</option>
 <option label="Intertape Polymer Group" value="36">Intertape Polymer Group</option>
 <option label="LG Hausys America, Inc." value="75">LG Hausys America, Inc.</option>
+<option label="Laird Plastics" value="41">Laird Plastics</option>
 <option label="Lassco-Wizer" value="49">Lassco-Wizer</option>
 <option label="Lidco Products" value="15">Lidco Products</option>
 <option label="MH Series" value="110">MH Series</option>
@@ -1808,22 +1779,28 @@ $('.stripe_middle_text_secondary').append(innertxt);
 <option label="My Vinyl Designer" value="25">My Vinyl Designer</option>
 <option label="Nunn Products" value="102">Nunn Products</option>
 <option label="Oracal USA" value="7">Oracal USA</option>
-<option label="PANTONE" value="106">PANTONE</option>
+<option label="Paper Accents" value="141">Paper Accents</option>
 <option label="Parker Davis Co." value="42">Parker Davis Co.</option>
 <option label="Photo USA" value="121">Photo USA</option>
 <option label="Plasticade" value="34">Plasticade</option>
+<option label="Qingdao Gold Deer Metal Products Co, LTD" value="6">Qingdao Gold Deer Metal Products Co, LTD</option>
 <option label="R Tape Corporation" value="10">R Tape Corporation</option>
 <option label="Refurbished" value="31">Refurbished</option>
 <option label="Ricoh" value="93">Ricoh</option>
 <option label="Roland " value="28">Roland </option>
 <option label="Roland Blades" value="116">Roland Blades</option>
-<option label="Royal Sovereign" value="51">Royal Sovereign</option>
+<option label="Royal Sovereign Cold Laminators" value="135">Royal Sovereign Cold Laminators</option>
+<option label="Royal Sovereign Cold Laminators (Heat Assist)" value="134">Royal Sovereign Cold Laminators (Heat Assist)</option>
+<option label="Royal Sovereign Hot Laminators" value="133">Royal Sovereign Hot Laminators</option>
+<option label="Royal Sovereign Installation" value="138">Royal Sovereign Installation</option>
 <option label="SAi" value="104">SAi</option>
+<option label="SC Series" value="124">SC Series</option>
 <option label="San Mar" value="55">San Mar</option>
 <option label="Sawgrass Technologies, Inc" value="76">Sawgrass Technologies, Inc</option>
 <option label="Seal-it Pen" value="30">Seal-it Pen</option>
-<option label="SignBlazer" value="4">SignBlazer</option>
+<option label="Sign-Mart" value="106">Sign-Mart</option>
 <option label="SignReady" value="118">SignReady</option>
+<option label="Signs By Dale, Inc" value="50">Signs By Dale, Inc</option>
 <option label="Siser NA" value="12">Siser NA</option>
 <option label="Spectra Corp." value="82">Spectra Corp.</option>
 <option label="Steinel" value="43">Steinel</option>
@@ -1833,12 +1810,13 @@ $('.stripe_middle_text_secondary').append(innertxt);
 <option label="UNISUB" value="122">UNISUB</option>
 <option label="US Banner" value="16">US Banner</option>
 <option label="USA Sign Frame and Stake" value="83">USA Sign Frame and Stake</option>
-<option label="USCutter" value="123" selected="selected">USCutter</option>
+<option label="USCutter" value="123">USCutter</option>
+<option label="UltraFLEX" value="131">UltraFLEX</option>
 <option label="United States Plastic Corporation" value="46">United States Plastic Corporation</option>
 <option label="Vector Art" value="18">Vector Art</option>
 <option label="Whisqu Graphic AB" value="5">Whisqu Graphic AB</option>
+<option label="YH Series" value="139">YH Series</option>
 <option label="ZenCut" value="99">ZenCut</option>
-<option label="iDisplay" value="107">iDisplay</option>
 
 </select>
 	</div>
@@ -1906,6 +1884,8 @@ $('.stripe_middle_text_secondary').append(innertxt);
 </a></li>	
 									<li>» <a href="Performance-Vinyl-12">	Performance Vinyl
 </a></li>	
+									<li>» <a href="Color-Sample-Guides-159">	Color &amp; Sample Guides
+</a></li>	
 									<li>» <a href="Translucent-Vinyl-107">	Translucent Vinyl
 </a></li>	
 									<li>» <a href="Reflective-Vinyl-105">	Reflective Vinyl
@@ -1930,9 +1910,7 @@ $('.stripe_middle_text_secondary').append(innertxt);
 								</div><p></p>
 <p class="menu_head" style="background-image: url('../static/new-images/left_usc.png');"><a href="#">	Digital
 </a></p><div class="menu_body">
-<ul class="leftnav"><li>» <a href="Banner-Material-109">	Banner Material
-</a></li>	
-									<li>» <a href="Intermediate-Vinyl-18">	Intermediate Vinyl
+<ul class="leftnav"><li>» <a href="Intermediate-Vinyl-18">	Intermediate Vinyl
 </a></li>	
 									<li>» <a href="Performance-Vinyl-19">	Performance Vinyl
 </a></li>	
@@ -1995,7 +1973,11 @@ $('.stripe_middle_text_secondary').append(innertxt);
 									<li>» <a href="Sublimation-Paper-39">	Sublimation Paper
 </a></li>	
 									<li>» <a href="Apparel-Blanks-40">	Apparel Blanks
+</a></li>	<div class="menu_body">
+<ul class="leftnav"><li>» <a href="Equipment-1">	Equipment
 </a></li>	
+										</ul>
+								</div>
 									<li>» <a href="Sublimation-Ink-Sets-133">	Sublimation Ink Sets
 </a></li>	
 									<li>» <a href="Sublimation-Blanks-41">	Sublimation Blanks
@@ -2086,7 +2068,17 @@ $('.stripe_middle_text_secondary').append(innertxt);
 								</div><p></p>
 <p class="menu_head" style="background-image: url('../static/new-images/left_usc.png');"><a href="#">	Specials
 </a></p><div class="menu_body">
-<ul class="leftnav"><li>» <a href="Sale-Items-128">	Sale Items
+<ul class="leftnav"><li>» <a href="index/page/category/category_id/157/category_chain/63,157/name/Sale+Equipment/">	Sale Equipment
+</a></li>	
+									<li>» <a href="index/page/category/category_id/156/category_chain/63,156/name/Sale+Tools/">	Sale Tools
+</a></li>	
+									<li>» <a href="index/page/category/category_id/153/category_chain/63,153/name/Sale+Vinyl/">	Sale Vinyl
+</a></li>	
+									<li>» <a href="index/page/category/category_id/154/category_chain/63,154/name/Sale+Banners/">	Sale Banners
+</a></li>	
+									<li>» <a href="index/page/category/category_id/150/category_chain/63,150/name/Sale+Inks/">	Sale Inks
+</a></li>	
+									<li>» <a href="index/page/category/category_id/166/category_chain/63,166/name/Sale+Digital+Media/">	Sale Digital Media
 </a></li>	
 									<li>» <a href="index/page/category/category_id/149/category_chain/63,149/name/LG+Closeout+Sale+-+50%25+off+retail%21/">	LG Closeout Sale - 50% off retail!
 </a></li>	
@@ -2327,7 +2319,8 @@ $('.stripe_middle_text_secondary').append(innertxt);
 </div><!--Footer box Close-->
 	
 <div class="copyright">
-		<img src="static/images/pay-opts_img.gif" alt="Payment Type logos">
+		<img src="static/images/payment_graphic.gif" alt="Payment Type logos">
+		<!-- <img src="static/images/pay-opts_img.gif" alt="Payment Type logos" /> -->
 		<br><br>
 		Copyright © 2010 USCutter. All Rights Reserved.
 		<br><br>
@@ -2365,6 +2358,7 @@ $('.stripe_middle_text_secondary').append(innertxt);
 
 				</script>
 				
+
 
 
 
