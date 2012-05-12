@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the killerguides.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114075841id_/http%3A//www.killerguides.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the killerguides.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512163616id_/http%3A//www.killerguides.com/privacy-policy) for the most accurate reproduction.*
 
 # Killer Guides - Privacy Policy
 
