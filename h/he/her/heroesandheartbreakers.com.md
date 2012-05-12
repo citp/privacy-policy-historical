@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heroesandheartbreakers.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621065139id_/http%3A//www.heroesandheartbreakers.com/page/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heroesandheartbreakers.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512103819id_/http%3A//www.heroesandheartbreakers.com/page/privacy-notice) for the most accurate reproduction.*
 
 # Original romance stories, exclusive excerpts of new releases, blog posts, giveaways | Heroes and Heartbreakers
 
@@ -37,7 +37,7 @@ Blogs, forums and discussion boards are free services to enable you to share com
 
 Please treat the other members of the Macmillan community with respect. Do not post profane, obscene, inflammatory or spiteful comments, or messages that abuse, denigrate or threaten others. We remind you that if you post your phone number, email address, or other personal contact information, it will become and remain publicly available.
 
-Please keep in mind: A discussion board post is not an effective way to tell us you need help with an order or site feature. If you'd like to tell us about a specific problem, please email us at info(AT)heroesandheartbreakers.com
+Please keep in mind: A discussion board post is not an effective way to tell us you need help with an order or site feature. If you’d like to tell us about a specific problem, please email us at info(AT)heroesandheartbreakers.com
 
 **Tell-a-Friend**  
 We may offer “Tell a Friend” functionality on this Site to send your friends information from this site or other Macmillan Community Network sites. In order to fulfill this request, we will ask you for your and your friends’ names and email addresses. We do not retain your friend’s information after the email is sent.
@@ -50,7 +50,7 @@ When you visit our website, your browser automatically sends us certain Internet
 
 This Site’s HTML-formatted web pages may include electronic image requests (called a “single-pixel gif”, “clear-gifs” or “web beacon” request) which are sent to our service providers’ servers. These web beacons are the technique by which our service providers compile anonymous information about your browsing activity on the Site.
 
-We use cookies on this website. A cookie is a small piece of information sent by a website that is saved on your hard disk by your computer's browser. It holds information a site may need to interact with you and personalize your experience. On this site, we use two kinds of cookies: session cookies and persistent cookies.
+We use cookies on this website. A cookie is a small piece of information sent by a website that is saved on your hard disk by your computer’s browser. It holds information a site may need to interact with you and personalize your experience. On this site, we use two kinds of cookies: session cookies and persistent cookies.
 
 Session cookies exist only for as long as your browser remains open. Once you exit your browser, they go away. Persistent cookies, in contrast, last from visit to visit; they do not go away when you exit your browser.
 
@@ -92,7 +92,7 @@ To try and bring you offers that are of interest to you, we have relationships w
 **_Children’s Privacy_**  
 We do not knowingly collect information from children under 13. We use technical measures to prevent collection of information from children under 13.
 
-If our policy concerning collection of information from children under 13 changes, we will revise this portion of our privacy notice and will comply with the requirements of the Children's Online Privacy Protection Act.
+If our policy concerning collection of information from children under 13 changes, we will revise this portion of our privacy notice and will comply with the requirements of the Children’s Online Privacy Protection Act.
 
 **_Security_**  
 Macmillan is committed to protecting the security of information collected on our site. We use technical, physical and administrative methods to safeguard and secure the information we collect on line.
@@ -119,7 +119,7 @@ You may review and modify your user profile information (such as user name, e-ma
 By using the Site and any related interactive services you signify your agreement to this Privacy Notice. This Privacy Notice may change from time to time. Changes to this Privacy Notice will become effective when those changes are posted to the Site. Your continued use of the services and the Site subsequent to any changes to this Privacy Notice constitutes your acceptance of the changes. Please review this Notice periodically to ensure continuing familiarity with its most current provisions. We indicate the effective date of the Notice at the top of the first page.
 
 **_How to Contact Us and Update Information_**  
-If you would like to update or correct your personal information, please send an email to [info(at)heroesandheaartbreakers.com](mailto:info@heroesandheaartbreakers.com). This e-mail address is being protected from spambots. You need JavaScript enabled to view it .
+If you would like to update or correct your personal information, please send an email to [info(at)heroesandheartbreakers.com](mailto:info@heroesandheartbreakers.com). This e-mail address is being protected from spambots. You need JavaScript enabled to view it .
 
 If you have any questions about our information practices or our products, services or promotions, please contact us by:
 
