@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegreatindoors.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102080718id_/http%3A//www.thegreatindoors.com/shc/s/nb_10156_23151_NB_CSprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegreatindoors.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512190744id_/http%3A//www.thegreatindoors.com/shc/s/nb_10156_23151_NB_CSprivacy) for the most accurate reproduction.*
 
 # Appliances, Lighting, Bath & Kitchen Fixtures - TheGreatIndoors.com
 
