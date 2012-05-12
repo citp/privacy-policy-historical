@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cars.gov privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206100217id_/http%3A//www.dot.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cars.gov privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512091617id_/http%3A//www.dot.gov/privacy.html) for the most accurate reproduction.*
 
 # Home | U.S. Department of Transportation
 
