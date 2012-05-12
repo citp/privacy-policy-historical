@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the musthavemenus.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124021446id_/http%3A//www.musthavemenus.com/menu/privacyPolicy/view.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musthavemenus.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512061836id_/http%3A//www.musthavemenus.com/menu/privacyPolicy/view.do) for the most accurate reproduction.*
 
-# Privacy Policy
+# MustHaveMenus Privacy Policy
 
 MustHaveMenus.com values your privacy. You may contact us any time to learn more about this privacy policy by sending email to [Contact@MustHaveMenus.com](mailto:Contact@MustHaveMenus.com). This Privacy Statement describes how MustHaveMenus.com collects and uses information about you when you use the MustHaveMenus.com web site ("Site"). 
 
@@ -50,4 +50,4 @@ Questions, Comments, Concerns
 
 If you have any questions or comments about our use of Personal Information, please contact us at [Contact@MustHaveMenus.com](mailto:Contact@MustHaveMenus.com). We will use reasonable efforts to promptly investigate any complaint you may have regarding our use of Personal Information. 
 
-[](https://www.musthavemenus.com/menu/register.do)
+[Sign up](https://www.musthavemenus.com/menu/affiliate.do?id=60)
