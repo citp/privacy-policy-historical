@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the mirillis.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218024916id_/http%3A//mirillis.com/en/company/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirillis.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512121609id_/http%3A//mirillis.com/en/company/privacypolicy.html) for the most accurate reproduction.*
 
 # Mirillis - Privacy Policy
 
-Last updated: **14/12/2011**
+Last updated: **08/05/2012**
 
 _Please read this information carefully before using this website. When using this website, you acknowledge and agree to the terms of Mirillis Privacy Policy._
 
 ## What personal information is collected and when
 
-Mirillis Ltd. does not collect any personal information, this means no information such as name, address or telephone number is collected and stored online by Mirillis Ltd. E-mail contact information is collected during product purchase and forum registration process. 
+Mirillis Ltd. does not collect any personal information, this means no information such as name, address or telephone number is collected and stored online by Mirillis Ltd. E-mail contact information is collected: during product purchase, forum registration process, during download of selected products. By providing e-mail address during Splash Lite download you agree to receive Mirillis newsletter. You can unsubscribe from newsletter by visiting [ this ](https://web.archive.org/web/20120512121609id_/http%3A//mirillis.com/en/company/newsletter.html) page. 
 
 We use Google Analytics, Google AdWords Conversion tracker, other Google services and Mirillis services that place cookies on a browser across the website. Mirillis services and other 3rd party services help us increase the website's usability for our visitors and customers. Cookies are set and read by Google services and Mirillis website. You can opt out of Google tracking by visiting [ this ](http://www.google.com/privacy/ads/) page. 
 
