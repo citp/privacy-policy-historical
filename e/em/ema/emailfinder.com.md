@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the emailfinder.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118233517id_/http%3A//www.emailfinder.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailfinder.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512151341id_/http%3A//www.emailfinder.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - EmailFinder.com
 
 [](http://www.truste.org/ivalidate.php?url=www.emailfinder.com&sealid=101)
 
-[Click here](https://web.archive.org/web/20111118233517id_/http%3A//www.emailfinder.com/privacy_statement.shtml) to read our Privacy Statement and overview.
+[Click here](https://web.archive.org/web/20120512151341id_/http%3A//www.emailfinder.com/privacy_statement.shtml) to read our Privacy Statement and overview.
 
 Effective Date: September 29, 2009
 
@@ -103,4 +103,9 @@ We may update this policy. We will notify you about significant changes in the w
 
 **How You Can Contact Us about Privacy Questions**
 
-If you have questions or concerns regarding this policy, you should contact us by writing to us at EmailFinder.com, Attn: Privacy Department, P.O. Box 391146, Omaha, NE 68139. EmailFinder.com maintains offices at 101 University Avenue # 320, Palo Alto, CA.
+If you have questions or concerns regarding this policy, you can contact us by emailing [privacy@emailfinder.com](mailto:privacy@emailfinder.com),  
+calling 888-883-7770 or writing to us at emailfinder.com, Attn: Privacy Department, P.O. Box 391146, Omaha, NE 68139. EmailFinder.com maintains offices at 555 Twin Dolphin Drive #200, Redwood City, CA 94065. 
+
+**To Unsubscribe from Email Communications**
+
+If you would like to stop receiving newsletters and marketing message emails from EmailFinder.com, please provide us with the email address you would like to unsubscribe by emailing [privacy@emailfinder.com](mailto:privacy@emailfinder.com) or calling 888-883-7770. Please note that you may still receive account and billing notices from us, if applicable. 
