@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickpaypro.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205008id_/http%3A//quickpaypro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickpaypro.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512132550id_/http%3A//quickpaypro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | QuickPayPro
 
@@ -10,12 +10,12 @@ This is a privacy policy for http://QuickPayPro.com
 
 Our homepage on the Internet is located at http://QuickPayPro.com
 
-Cydec Software, LLC  
+QuickPayPro.com  
 1037 NE 65th Street #201  
 Seattle, WA 98103  
 USA
 
-You may contact us by e-mail at support@http://QuickPayPro.com  
+You may contact us by e-mail at support@QuickPayPro.com  
 You may contact us by phone on 888.692.9332
 
 ### Dispute Resolution
@@ -25,7 +25,7 @@ Our customer service will promptly correct any errors.
 
 ### Data Collection
 
-When visiting Web sites certain information about you and your computer can sometimes be collected. This section explains what information Cydec Software, LLC collect, and how it is used
+When visiting Web sites certain information about you and your computer can sometimes be collected. This section explains what information QuickPayPro.com collects, and how it is used
 
 We collect the following information about our visitors:
 
