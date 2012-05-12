@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iphonelife.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231222322id_/http%3A//www.iphonelife.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iphonelife.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512094556id_/http%3A//www.iphonelife.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | iPhone Life
 
@@ -23,7 +23,7 @@ Below is our current policy regarding usage of information collected by _iPhone 
 
 
 
-On occasion we may send you relevant email concerning our products or services. There is an opt-out notice on any such email we send you. We will do our best to honor your intentions if you didn't opt-in when signing up for our forum or email newsletters, or if you explicitly opted out. However, we may have received your email address in several ways, or you may have multiple email addresses, so please excuse any unintentional additional email. Please opt-out again, or you may contact us at newslettersiphonelife [dot] com or call 800-373-6114, with concerns or problems.
+On occasion we may send you relevant email concerning our products or services. There is an opt-out notice on any such email we send you. We will do our best to honor your intentions if you didn't opt-in when signing up for our forum or email newsletters, or if you explicitly opted out. However, we may have received your email address in several ways, or you may have multiple email addresses, so please excuse any unintentional additional email. Please opt-out again, or you may contact us at newsletters[](https://web.archive.org/sites/all/modules/spamspan/image.gif)iphonelife [dot] com or call 800-373-6114, with concerns or problems.
 
   1. With your permission, when you opt-in, we will on occasion send you email about iPhone-related products. We will not abuse this privilege. You will always have the opportunity to opt-out. You will always know that we are the source with any such email.
 
@@ -35,9 +35,13 @@ On occasion we may send you relevant email concerning our products or services. 
 
   5. We use traffic pattern information from our Web sites, collected demographics, and Web survey information to provide better, more appropriate editorial products, and to encourage vendors to advertise. We may share collective information internally and among potential advertisers, but we never share data about specific individuals.
 
-  6. If you have complaints or concerns, you may e-mail company president, Hal Goldstein.
+  6. If you have complaints or concerns, you may e-mail the Publisher, david[](https://web.archive.org/sites/all/modules/spamspan/image.gif)iphonelife [dot] com (David Averbach).
 
-  7. If you wish to unsubscribe from any of our newsletters, use the Unsubscribe link that you'll find at the bottom of each newsletter we send you. Otherwise, send an e-mail to newslettersiphonelife [dot] com with the word "Unsubscribe" in the subject line and let us know which newsletter you wish to be unsubscribed from.
+  7. If you wish to unsubscribe from any of our newsletters, use the Unsubscribe link that you'll find at the bottom of each newsletter we send you. Otherwise, send an e-mail to newsletters[](https://web.archive.org/sites/all/modules/spamspan/image.gif)iphonelife [dot] com with the word "Unsubscribe" in the subject line and let us know which newsletter you wish to be unsubscribed from.
 
 
 
+
+**Blog Disclaimer**
+
+_iPhone Life_ takes care to see that the information posted by bloggers on its website is accurate and truthful. However, _iPhone Life_ does not expressly or impliedly warrant or guarantee the accuracy of its contents and the information others post through blogs and blog comments. The views and opinions expressed on this blog are purely those of the individual bloggers, and do not represent the views and opinions of _iPhone Life_ magazine.
