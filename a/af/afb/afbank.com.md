@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the afbank.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008054725id_/https%3A//www.afbank.com/security/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afbank.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512071652id_/https%3A//www.afbank.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy Statement || Armed Forces Bank, N.A.
+# Privacy » Armed Forces Bank - Your Hometown Bank Around The World
 
-| 
-
-Privacy Policy Statement
-
-Protecting your financial and personal privacy is important to us!
-
-| FACTS | What Does Armed Forces Bank Do With Your Personal Information?  
+FACTS | What Does Armed Forces Bank Do With Your Personal Information?  
 ---|---  
 Why? | Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.  
 What? | The types of personal information we collect and share depend on the product or service you have with us. This information can include: 
@@ -55,8 +49,7 @@ We also collect your personal information from others, such as credit bureaus, a
   
 Why can't I limit all sharing? | Federal law gives you the right to limit only 
 
-  * Sharing for affiliates' everyday business purposes – information
-  * about your creditworthiness
+  * Sharing for affiliates' everyday business purposes â€“ information about your creditworthiness
   * Affiliates from using your information to market to you
   * Sharing for nonaffiliates to market to you
 
