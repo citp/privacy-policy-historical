@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the typistjobs.net privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123212757id_/http%3A//www.typistjobs.net/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typistjobs.net privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512023859id_/http%3A//www.typistjobs.net/PrivacyPolicy.html) for the most accurate reproduction.*
 
-# Privacy
+# 
 
 Welcome to TypistJobs.net (the "Site").
 
@@ -18,20 +18,18 @@ other parties. You information is safe with us.
 
 What organizations are collecting the information?
 
-The only other organizations that will collect information from you are  
+The only other organizations that will collect information from you are
+
 1.) Pay Pal to process your payment. Pay Pal is a secure well known pay  
-service.
-
-2.) The IRS will be the only organization that will ever ask for your  
+service.2.) The IRS will be the only organization that will ever ask for your  
 Social Security Number. We link you directly through to them as so no  
-other parties will get this information.
-
-3.) Clickbank will need basic information such as name and address and is  
+other parties will get this information.3.) Clickbank will need basic information such as name and address and is  
 also a secure service.
 
 TypistJobs.net has done everything to assure you that your privacy and  
 information is completely safe.
 
+  
 How is Personally Identifiable Information stored?
 
 Personally Identifiable Information collected is securely stored and is  
