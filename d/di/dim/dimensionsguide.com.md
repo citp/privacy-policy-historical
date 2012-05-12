@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dimensionsguide.com privacy policy that was archived on 2011-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111021105104id_/http%3A//www.dimensionsguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dimensionsguide.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512045327id_/http%3A//www.dimensionsguide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dimensions Guide
 
