@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yourdesignerwear.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119085349id_/http%3A//www.yourdesignerwear.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourdesignerwear.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512072712id_/http%3A//www.yourdesignerwear.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Notice : Designer Sarees,Indian Bridal Sarees,Salwar Kameez,Indian Kurtis,Online Saree Shopping,Buy Saris Online
+# Privacy Notice :
 
 **YourDesignerWear.com** \- We respect your privacy and we are very much committed to the same.
 
