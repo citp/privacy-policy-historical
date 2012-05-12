@@ -1,6 +1,35 @@
-> *The following text is extracted and transformed from the theinfostrides.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201022047id_/http%3A//www.theinfostrides.com/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinfostrides.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512185508id_/http%3A//www.theinfostrides.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Our Privacy Policy & Terms of Service (TOS) | The InfoStrides
+
+###  Recent Discussions 
+
+[Operating Theatres – Sales Executive Job Vacancy in Nigeria at The First Foundation](http://www.theinfostrides.com/sales-marketing-jobs/operating-theatres-sales-executive-job-vacancy-in-nigeria-at-the-first-foundatio/msg97524/?topicseen#new) by [jobnavy](http://www.theinfostrides.com/profile/jobnavy/)  
+[May 12, 2012, 06:59 PM]
+
+* * *
+
+[Suswam, deputy at loggerhead over dissolution of councils](http://www.theinfostrides.com/nigeria-news/suswam-deputy-at-loggerhead-over-dissolution-of-councils/msg97523/?topicseen#new) by [MrVanguard](http://www.theinfostrides.com/profile/VanguardNews/)  
+[May 12, 2012, 06:59 PM]
+
+* * *
+
+[Orlando Pirates fight back to beat Bloemfontein Celtic](http://www.theinfostrides.com/sports-games/orlando-pirates-fight-back-to-beat-bloemfontein-celtic/msg97522/?topicseen#new) by [kickoff](http://www.theinfostrides.com/profile/kickoff/)  
+[May 12, 2012, 06:59 PM]
+
+* * *
+
+[Training & Program Coordinator Job Vacancy in Nigeria at The First Foundation](http://www.theinfostrides.com/unclassified-jobs/training-program-coordinator-job-vacancy-in-nigeria-at-the-first-foundation/msg97521/?topicseen#new) by [jobnavy](http://www.theinfostrides.com/profile/jobnavy/)  
+[May 12, 2012, 06:58 PM]
+
+* * *
+
+[Mini John Cooper Works GP Unveiled](http://www.theinfostrides.com/automotive/mini-john-cooper-works-gp-unveiled/msg97520/?topicseen#new) by [IL](http://www.theinfostrides.com/profile/InsideLine/)  
+[May 12, 2012, 06:58 PM]  
+
+
+|    
+
 
 > ### Privacy Policy & Terms of Service (TOS)
 > 
@@ -68,7 +97,7 @@
 > 
 > Employers or agencies that ask for money, are fake and do not exist. They are scammers and fraudsters: none of these forms of requests originate from either our site or that of any of our affiliates. These sorts of scams may be a part of the notorious Advance Fee Fraud, popularly known as 419. Please beware and be careful!!! 
 > 
-> **NB:** If you were asked to pay through any of the information provided on our website, please [Contact Us](http://www.theinfostrides.com/index.php?action=contact) or post it on the forum. 
+> **NB:** If you were asked to pay through any of the information provided on our website, please [Contact Us](http://www.theinfostrides.com/contact/) or post it on the forum. 
 > 
 > ### Links To Other Websites
 > 
@@ -79,12 +108,12 @@
 > You may choose to restrict the collection or use of your personal information in the following ways:
 > 
 >   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
->   * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by [writing](http://www.theinfostrides.com/index.php?action=contact) to or [emailing us](http://www.theinfostrides.com/index.php?action=contact).
+>   * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by [writing](http://www.theinfostrides.com/contact/) to or [emailing us](http://www.theinfostrides.com/contact/).
 > 
 
 > 
 > We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 > 
-> You may request details of personal information which we hold about you. If you would like a copy of the information held on you please [Contact Us](http://www.theinfostrides.com/index.php?action=contact).
+> You may request details of personal information which we hold about you. If you would like a copy of the information held on you please [Contact Us](http://www.theinfostrides.com/contact/).
 > 
 > If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
