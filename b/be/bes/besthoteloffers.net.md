@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the besthoteloffers.net privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113091716id_/http%3A//besthoteloffers.net/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the besthoteloffers.net privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512034935id_/http%3A//besthoteloffers.net/Privacy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -40,4 +40,4 @@ If you wish to disable cookies, you may do so through your individual browser op
    
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@besthoteloffers.net.
 
-  The BestHotelOffers team 
+  The BestHotelOffers team
