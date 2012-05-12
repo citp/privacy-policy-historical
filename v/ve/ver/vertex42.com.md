@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vertex42.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124165944id_/http%3A//www.vertex42.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vertex42.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512082919id_/http%3A//www.vertex42.com/privacy.html) for the most accurate reproduction.*
 
 # Vertex42 Privacy Policy
 
@@ -52,7 +52,7 @@ This site uses ClickTale web analytics service. ClickTale may record mouse click
 
 Our server keeps a log of site usage statistics which involves keeping track of numbers of hits on various pages, IP addresses, browser types, access times, and the sites from which a visitor is referred. For example, if you find our site through a search engine, our logs will show that a visitor clicked through to our site from that search engine. Such information is used to verify the effectiveness of marketing efforts. It may also be used to help interested parties determine the number of visitors who find our site through their sites. In other cases, site statistics are provided to potential advertisers and link partners. **These statistics cannot be used to identify an individual, since they do not include any personal information**.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/).
 
   * Google, as a third party vendor, uses cookies to serve ads on our website.
   * Google's use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads on this site based on your visit to our site and other sites on the Internet.
