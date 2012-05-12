@@ -1,89 +1,379 @@
-> *The following text is extracted and transformed from the housetrip.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008005800id_/http%3A//www.housetrip.com/en/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the housetrip.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512080953id_/http%3A//www.housetrip.com/en/about/privacy_policy) for the most accurate reproduction.*
 
-# HouseTrip.com – Privacy Policy
+# HouseTrip.com: Privacy policy
 
-We at HouseTrip understand that making purchases online involves a great deal of trust on your part. We take this trust very seriously, and make it our highest priority to ensure the security and confidentiality of the personal information you provide to us. Please read the following policy to learn about our privacy practices. By visiting our website, www.housetrip.com, you are accepting the practices described herein.
+We at HouseTrip Limited ("We") understand that making purchases online involves a great deal of trust on your part. We take this trust very seriously, and make it our highest priority to ensure the security and confidentiality of the personal information you provide to us. 
 
-HouseTrip provides this Privacy Policy to describe our procedures regarding the collection, use and disclosure of personal information we receive from users of www.housetrip.com ("This Site"). HouseTrip may update this Privacy Policy in the future. We will notify you about material changes to this Privacy Policy by sending a notice to the e-mail address you provided to us or by placing a notice on our website or blog.
+This policy (together with our [Terms of Use](https://web.archive.org/en/about/terms_and_conditions "Opens internal link in current window") and [Booking Terms](https://web.archive.org/en/about/booking_terms "Opens internal link in current window") and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
 
-###### INTERNATIONAL TRANSFER
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is HouseTrip Limited of 17-18 Haywards Place, London EC1R 0EQ, United Kingdom. 
 
-YOUR INFORMATION MAY BE TRANSFERRED TO - AND MAINTAINED ON - COMPUTERS LOCATED OUTSIDE OF YOUR STATE, PROVINCE, COUNTRY OR OTHER GOVERNMENTAL JURISDICTION WHERE THE PRIVACY LAWS MAY NOT BE AS PROTECTIVE AS THOSE IN YOUR JURISDICTION. IF YOU ARE LOCATED OUTSIDE OF SWITZERLAND AND CHOOSE TO PROVIDE INFORMATION TO US, HOUSETRIP TRANSFERS PERSONAL INFORMATION TO SWITZERLAND AND PROCESSES IT THERE. YOUR CONSENT TO THIS PRIVACY POLICY FOLLOWED BY YOUR SUBMISSION OF SUCH INFORMATION REPRESENTS YOUR AGREEMENT TO THAT TRANSFER.
+###### Information we may collect from you
 
-###### The collection of information and how we use it
+We may collect and process the following data about you: 
 
-The main reason why we collect information is to provide and improve our Site, services, features and content, to administer your Membership (together, the "Service") and to enable users to enjoy and easily navigate the Site.
+·       Information that you provide by filling in forms on our site www.housetrip.com (our site). This includes information provided at the time of registering to use our site, opening a host account, posting material, editing your profile, booking a stay or requesting further services, and includes but is not limited to your name, address, email address, phone number and if you are a user with accommodation to rent out (a **host** ), bank account or PayPal details, or if you are a user who wishes to rent out accommodation (a **Guest** ) and make a booking via our site, billing information. We may also ask you for information when you enter a competition or promotion sponsored by us, and when you report a problem with our site or a booking. 
 
-###### What Information We Collect from You
+·       If you contact us, we may keep a record of that correspondence. 
 
-When you register through HouseTrip.com to become a member, when you create or edit your profile pages and book a stay, we will ask you for information. This refers to information about you that can be used to contact or identify you (Personal Information). Personal Information includes, but is not limited to, your name, phone number, email address and home postal address, but does not include your credit card number or billing information. In order to finalize your booking and to process some of your transactions through HouseTrip, we may also ask for your credit card number and billing information. We also collect the other information that you provide as part of registration and the administration and personalization of your profile pages (for your accommodation or yourself).
+·       We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them. 
+
+·       Details of transactions you carry out through our site and of the fulfilment of your bookings. 
+
+·       Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access. 
+
+###### IP Addresses
+
+We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
 
 ###### Cookies
 
-When you visit HouseTrip.com we will, like many other websites, use "cookies" to collect information. Cookies are small data files, which are transferred to a computer's hard disk in order to memorise information like registration IDs and passwords. We further utilize session ID cookies to enable certain features of the Site, to better understand how you interact with the Site and to monitor aggregate usage by HouseTrip Users and web traffic routing on the Site. Session ID cookies are, unlike persistent cookies, deleted from your computer when you log off from the Site and then close your browser. Third party advertisers on our website may also place or read cookies on your browser. Please note that you can always choose not to receive a cookie file by enabling your Web browser to refuse cookies or to prompt you before accepting a cookie. However, if you refuse cookies you may not be able to use all portions of the Site or all functionality of the service.
+For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on your browser or the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. Some of the cookies we use are essential for the site to operate. 
 
-###### Automatic Information
+If you register with us or if you continue to use our site, you agree to our use of cookies. 
 
-We automatically collect some information about your computer when you visit HouseTrip.com, regardless of whether you are a HouseTrip member or a non-registered user just browsing our servers. For example, we will collect your IP address, Web browser software (such as Netscape Navigator, Internet Explorer or Safari), and referring Web site. We also may collect information about your online activity, such as the properties you look at. Collecting this automatic information helps us customize your user experience. It allows us to monitor and analyze use of the Site and the Service and for the Site's technical administration, to increase our Site's functionality and user-friendliness. We do not treat Log Data as Personal Information or use it in association with other Personal Information, though we may aggregate, analyze and evaluate such information.
+Cookies are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. 
 
-###### How we use Your Information
+**Cookie**
 
-HouseTrip uses sensitive billing information (such as cardholder name, credit card number, and expiration date) for the purpose of completing the booking of a stay you conduct on our site. We use other information about you for the following general purposes: to provide you with the products and services you request; to provide you with travel confirmation and updates; to manage your account, including processing bills and providing travel notifications; to communicate with you in general; to respond to your questions and comments; to notify you about special offers and products or services that may be of interest to you; to prevent potentially prohibited or illegal activities; to enforce our Terms of Use; and as otherwise described to you at the point of collection.
+  | 
 
-###### Phishing
+**Name**
 
-Identity theft and the practice currently known as "phishing" are of great concern to HouseTrip. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your credit card information, your account ID, login password, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication.
+  | 
 
-## Information Sharing and Disclosure
+**Purpose**
 
-###### Overview
+  | 
 
-HouseTrip is designed to allow Members who have accommodation to rent out ("Hosts") and Members who wish to find lodging ("Guests") to share information with one another in order to facilitate arranging stays. Listings posted by Hosts, ratings and reviews of Hosts and Guests, and the Profile Information (as defined below) of Hosts and Guests are, as far as you allow it, visible to any visitor to the site.
+**More information**
 
-###### Information related to your Profile Page
+   
+---|---|---|---  
+  
+Google Analytics
 
-When you register through the Site and submit your Personal Information to create a profile page, HouseTrip Users will see the information you provided. We do not allow our users to browse user profiles but they may arrive on your profile through various way (if you made a booking request, a Host may for instance look at your personal profile). Our network architecture and your privacy settings allow you to make informed choices about who has access to your information. You can review and revise your profile information at any time.  
-If you post a listing, we may also display the geographical location of your listing in the form of a map so that potential guests can see the general area and neighbourhood of your listing, but you can choose whether to display your actual street address or not. Note that members will never have access to your Billing Information.
+  | 
 
-###### Aggregate Information
+_utma
 
-We may share aggregated information that does not include Personal Information and we may otherwise disclose Non-Identifying Information and Log Data with third parties for industry analysis, demographic profiling and other purposes. Any aggregated information shared in these contexts will not contain your Personal Information.
+ 
 
-How to delete your profile 
+_utmb
 
-All Members may review, update, correct or delete the Personal Information within their personal property related profile page. If you would like us to delete your record in our system, please contact us and we will attempt to accommodate your request if we do not have any legal obligation to retain the record. See below for privacy contact information.
+ 
 
-###### Links to Other Sites
+_utmc
 
-If any part of the HouseTrip.com Web site links you to other Web sites, those Web sites do not operate under this Privacy Policy. If you choose to visit an advertiser or click on another third party link, you will be directed to that third party's website. We do not exercise control over third party websites and therefore recommend you examine the privacy statements posted on these other Web sites to understand their procedures for collecting, using, and disclosing personal information.
+ 
 
-###### Security
+_utmz
 
-We want you to feel confident about using HouseTrip.com to plan and purchase your stay, so we are committed to protecting the information we collect. For that reason, we have implemented appropriate administrative, technical, and physical security procedures to help protect the personal information you provide to us. We use encryption when transmitting your sensitive personal information between your system and ours, and we employ firewalls and intrusion detection systems to help prevent unauthorized persons from gaining access to your information.
+  | 
 
-###### How long will we keep your personal data?
+These cookies are used to collect information about how visitors use our site. We use the information to compile reports on general user traffic, conversion statistics and to help us improve the site. The cookies collect information anonymously. ** **
 
-We will retain your personal data only as long as is necessary for the purposes to which you consent under the Terms of Use and this Privacy Policy, or as is required by applicable law, and then we will delete it.
+  | 
 
-###### Compliance with Laws and Law Enforcement
+ [Click here](http://www.google.co.uk/intl/en/analytics/privacyoverview.html "Opens external link in new window") for an overview of privacy at Google Analytics
 
-HouseTrip cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of HouseTrip or a third party, to protect the safety of the public or any person, or to prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical or legally actionable.
+   
+  
+Adwords
 
-###### Business Transfers
+  | 
 
-HouseTrip may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
+Google_mkwid
 
-###### Our Policy Toward Children
+  | 
 
-This Site is forbidden to users less than 18 years old. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at info@housetrip.com. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
+These cookies are used to collect Google Adwords-specific user traffic and conversion statistics.
 
-###### Court of jurisdiction and applicable law
+  | 
 
-This policy and all matters arising out of or relating to this policy shall be governed by the substantive laws and principles of Switzerland, without regards to conflicts of laws and principles thereof.  
-Any controversy, claim or dispute between a User and HouseTrip arising out of or relating to this policy shall be subject to the exclusive jurisdiction of the Cour Civile du Tribunal Cantonal Vaudois in Lausanne, and each party hereby irrevocably consents to the jurisdiction and venue of such Court.
+[Click here](http://www.google.com/intl/en/privacy/ads/ "Opens external link in new window") for an overview of privacy at Google advertising
 
-Date of issue of these Terms of Use: August 2009 
+   
+  
+KISSmetrics
 
-###### Contacting Us
+  | 
 
-If you have any questions about this Privacy Policy, please contact us at [info@housetrip.com](mailto:info@housetrip.com "contact us").
+km_ai
+
+ 
+
+km_lv
+
+ 
+
+km_ni
+
+ 
+
+km_uq
+
+ 
+
+km_vs
+
+ 
+
+kvcd
+
+   | 
+
+These cookies are used to collect information about how visitors use our site. We use the information to compile internal user conversion and site features usage statistics.
+
+  |     
+  
+Marin
+
+  | 
+
+_msuuid
+
+  | 
+
+This cookie is used to collect information about how visitors use our site. We use the information for advertising management across third party websites and to produce internal  conversion statistics.
+
+  |     
+  
+Amazon AWS
+
+  | 
+
+AWSELB
+
+  | 
+
+This cookie is used to manage the session and balance the server load in storing and retrieving data from our provider Amazon Web Services.
+
+  | 
+
+[Click here](http://aws.amazon.com/privacy/ "Opens external link in new window") for an overview of privacy at Amazon WS
+
+   
+  
+HouseTrip Session
+
+  | 
+
+_housetrip_session
+
+  | 
+
+This cookie stores information about your settings  preferences (such as language, currency, favourite properties, etc.), and so allow us to customise our site. It is also used for tracking in internal A/B tests, conversion statistics and affiliate programs.
+
+  |     
+  
+HouseTrip Authentication
+
+  | 
+
+Remember_token
+
+  | 
+
+This cookie remembers users' login details after a session has ended for any future visits provided the cookie was not deleted in the interim.
+
+  |     
+  
+HouseTrip Translation
+
+  | 
+
+Do_not_autotranslate
+
+  | 
+
+This cookie allows the site to remember if a user prefers to see original or translated reviews.
+
+  |     
+  
+Criteo
+
+  | 
+
+dis
+
+ 
+
+evt
+
+ 
+
+udc
+
+ 
+
+udi
+
+ 
+
+uic
+
+ 
+
+uid
+
+  | 
+
+These cookies are not necessarily specific to our site. They allow third party advertising network to retarget advertising to users when they browse the internet.
+
+  | 
+
+[Click here](http://www.criteo.com/en/privacy-policy "Opens external link in new window") for an overview of privacy at Criteo
+
+   
+  
+Addthis
+
+  | 
+
+di
+
+ 
+
+dt
+
+ 
+
+loc
+
+ 
+
+psc
+
+ 
+
+uid
+
+ 
+
+uit
+
+ 
+
+uvc
+
+  | 
+
+These cookies are needed for the social media dropdowns at the top of the property profile pages of our site.
+
+  | 
+
+[Click here](http://www.addthis.com/privacy#.TxQz5_k1SVo "Opens external link in new window") for an overview of privacy at Addthis
+
+   
+  
+Facebook
+
+  | 
+
+datr
+
+  | 
+
+This cookie is needed for the ‘like’ buttons to function on the site.
+
+  | 
+
+[Click here](http://www.facebook.com/about/privacy/ "Opens external link in new window") for an overview of privacy at Facebook
+
+   
+  |    |    |     
+  
+Adyen
+
+  | 
+
+JSESSIONID
+
+ 
+
+hppsession
+
+  | 
+
+This cookie is essential for our payment services provider to track  payments made via our site
+
+  |     
+  
+You block cookies by activating the setting on your browser which allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be to access all or parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies as soon you visit our site.
+
+###### Where We Store Your Personal Data
+
+The data that We collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. 
+
+All information you provide to us is stored on secure servers. Any payment transactions will be encrypted using SSL technology. Where We have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. 
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+###### Uses Made of the Information
+
+We use information held about you in the following ways: 
+
+·       To ensure that content from our site is presented in the most effective manner for you and for your computer. 
+
+·       To contact you in relation to a listing, booking or proposed booking, including providing you with booking confirmation and updates. 
+
+·       To provide you with the products and services you request. 
+
+·       To carry out our obligations arising from any contracts entered into between you and us. 
+
+·       To manage your account, including processing payments and refunds and providing notifications. 
+
+·       To allow you to participate in interactive features of our service, when you choose to do so. 
+
+·       To enforce our Terms of Use, Booking Terms and this Privacy Policy. 
+
+·       To notify you about changes to our service. 
+
+·       To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes. 
+
+We may also use your data to provide you with information about goods and services which may be of interest to you. 
+
+If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you. 
+
+If you are a new customer we (or they) will contact you by electronic means only if you have consented to this. 
+
+If you do not want us to use your data in this way, please tick the relevant box situated on the form on which we collect your data (the registration form or the booking page).
+
+###### Disclosure of your Information
+
+HouseTrip is designed to allow hosts and guests to share information with one another in order to facilitate arranging stays. Listings posted by hosts, ratings and reviews of hosts and guests, and the profile information (as described below) of hosts and guests are, as far as you allow it, visible to any visitor to the site. 
+
+When you register on our site and submit your personal information to create a profile page, other users will see some of the information you provided as indicated on such page. We do not allow our users to browse user profiles but they may access your profile through various ways (if you made a booking request, a host may for instance look at your personal profile). Our network architecture and your privacy settings allow you to make informed choices about who has access to your information. You can review and revise your profile information at any time. 
+
+If you post a listing, we may also display the geographical location of your property in the form of a map so that potential guests can see the general area and neighbourhood of your property, but you can choose whether to display the actual street address or not. Note that users will never have access to your billing information. 
+
+We may disclose and/or transfer your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006. 
+
+We may disclose your personal information to third parties: 
+
+·       In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets. 
+
+·       If HouseTrip Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its users will be one of the transferred assets. 
+
+·       If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms of Use](https://web.archive.org/en/about/terms_and_conditions "Opens internal link in current window") and [Booking Terms](https://web.archive.org/en/about/booking_terms "Opens internal link in current window") and other agreements; or to protect the rights, property, or safety of HouseTrip, our users, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+###### Your Rights
+
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at [info@housetrip.com](mailto:info@housetrip.com "Opens window for sending email"). 
+
+Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.
+
+###### Access to Information
+
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+
+###### Changes to our Privacy Policy
+
+Last update: 31 March 2012 
+
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by email.
+
+###### Contact
+
+Questions, comments and requests regarding this privacy policy are welcome and should be addressed to [info@housetrip.com](mailto:info@housetrip.com "Opens window for sending email").
