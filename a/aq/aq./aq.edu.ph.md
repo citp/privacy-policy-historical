@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aq.edu.ph privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215193012id_/http%3A//www.aq.edu.ph/index.php%3Fp%3Dmain%26s%3Dlegalities%26taskId%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aq.edu.ph privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512213327id_/http%3A//www.aq.edu.ph/index.php%3Fp%3Dmain%26s%3Dlegalities%26taskId%3Dpolicy) for the most accurate reproduction.*
 
-# AQuinas University of Legazpi - Legalities
+# Legalities - AQuinas University of Legazpi
 
 Privacy Policy
 
