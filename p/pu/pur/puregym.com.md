@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puregym.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107013453id_/http%3A//www.puregym.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puregym.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512105835id_/http%3A//www.puregym.com/privacy) for the most accurate reproduction.*
 
 # Pure Gym : 24 Hour Gym : Join Online Now
 
