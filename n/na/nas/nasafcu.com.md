@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nasafcu.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218131813id_/https%3A//www.nasafcu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nasafcu.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512054428id_/https%3A//www.nasafcu.com/privacy) for the most accurate reproduction.*
 
 # NASA Federal Credit Union | Maryland, Virginia, DC | Privacy Policy
 
