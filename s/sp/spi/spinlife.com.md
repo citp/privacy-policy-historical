@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spinlife.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102145543id_/http%3A//www.spinlife.com/en/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spinlife.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512152552id_/http%3A//www.spinlife.com/en/Privacy.cfm) for the most accurate reproduction.*
 
 # SpinLife Privacy Policy
 
