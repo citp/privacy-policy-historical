@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extraspace.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101130349id_/http%3A//www.extraspace.com/Help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extraspace.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512103905id_/http%3A//www.extraspace.com/Help/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement and Legal Disclaimer for Extra Space Storage
 
@@ -23,4 +23,4 @@ We recognize industry standards and employ security safeguards to protect person
   
 
 
-© 2006-2011 Extra Space Storage Inc.
+© 2006-2012 Extra Space Storage Inc.
