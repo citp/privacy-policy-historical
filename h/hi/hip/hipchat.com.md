@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hipchat.com privacy policy that was archived on 2011-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111020155246id_/https%3A//www.hipchat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hipchat.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512025508id_/https%3A//www.hipchat.com/privacy) for the most accurate reproduction.*
 
 # HipChat - Privacy Policy
 
@@ -23,7 +23,7 @@ The information we collect is used to improve the content of our Web pages and t
 
 ## 2\. Security
 
-HipChat takes appropriate precations to protect our users' information. Your information is located on secure servers and encrypted using secure socket layer technology (SSL). We use TLS when you sign into the HipChat application.
+HipChat takes appropriate precautions to protect our users' information. Your information is located on secure servers and encrypted using secure socket layer technology (SSL). We use TLS when you sign into the HipChat application.
 
 ## 3\. Storage, Disclosure and Use of Your Communications
 
@@ -47,4 +47,4 @@ HipChat may periodically update this policy. We will notify you about significan
 
 ## QUESTIONS
 
-Any questions about this Privacy Policy should be addressed to support@hipChat.com or by mail at: 153 Townsend St, Suite 5031, San Francisco, CA 94107
+Any questions about this Privacy Policy should be addressed to support@hipChat.com or by mail at: 1098 Harrison St, San Francisco, CA 94103
