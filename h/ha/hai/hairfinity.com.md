@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hairfinity.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008034600id_/http%3A//www.hairfinity.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairfinity.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512091418id_/http%3A//www.hairfinity.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -41,3 +41,9 @@ By e-mail: support@hairfinity.com
 By Phone: 1-888-387-4151
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
+
+DISCLAIMER: The statements enclosed herein have not been evaluated by the Food and Drug Administration. The products and information mentioned on this site are not intended to diagnose, treat, cure, or prevent any disease. Information and statements made are for education purposes and are not intended to replace the advice of your treating doctor. Hairfinity does not dispense medical advice, prescribe, or diagnose illness. The views and nutritional advice expressed by Hairfinity are not intended to be a substitute for conventional medical service. If you have a severe medical condition, see your physician of choice.
+
+*Free Shipping offer applies to orders shipped to United States addresses only. Order total before shipping charges must be $100 or more. 
+
+[Brock Beauty Inc](http://www.brockbeauty.com/) © 2012   [Privacy policy ](http://www.hairfinity.com/privacy-policy.htm) |  [Store policies](http://www.hairfinity.com/store-policies.htm)
