@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbcworldwide.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101201058id_/http%3A//www.bbcworldwide.com/bbcworldwidewebsites-privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbcworldwide.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512203647id_/http%3A//www.bbcworldwide.com/bbcworldwidewebsites-privacypolicy.html) for the most accurate reproduction.*
 
 # bbcworldwidewebsites-privacypolicy
 
