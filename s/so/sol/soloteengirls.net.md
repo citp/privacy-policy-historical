@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soloteengirls.net privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211170353id_/http%3A//soloteengirls.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soloteengirls.net privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512113920id_/http%3A//soloteengirls.net/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY
 
