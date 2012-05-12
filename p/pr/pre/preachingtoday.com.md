@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the preachingtoday.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127130801id_/http%3A//www.preachingtoday.com/help/permissionsprivacy/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preachingtoday.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512220905id_/http%3A//www.christianitytoday.org/help/permissionsandprivacy/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Preaching Today
-
-### Privacy Policy
+# Privacy Policy | Help | Christianity Today
 
   
 
@@ -78,7 +76,7 @@ Many CTI online stores are hosted by Yahoo! Store. Yahoo! hosts the store pages,
 
 In the event of a sale, merger, assignment, joint venture or other transfer or disposition of a portion or all of the assets of Christianity Today International (including, without limitation, in connection with any bankruptcy or similar proceedings), information you have provided may be transferred as part of the business assets but will remain subject to the promises made in any pre-existing Privacy Notice (unless, of course, you consent otherwise).
 
-CTI reserves the right to cooperate with law enforcement officials in the investigation of alleged unlawful activities of our customers related to electronic communication transmitted on our site. CTI will have no legal liability for such disclosures.
+CTI may use personally identifiable information to provide Internet security and to meet legal requirements. As a result, CTI reserves the right to cooperate with law enforcement officials in the investigation of alleged unlawful activities committed on or through our site. CTI may disclose personally identifiable information in the course of officially authorized law enforcement investigations or as required to comply with a current judicial proceeding, court order, warrant, subpoena or other legal process served on CTI. Further, in the event of a suspected attempt to deliberately circumvent our site's security with the intent to gain unauthorized access or to do physical damage, CTI may share personally identifiable information about a suspected intruder with law enforcement officials. CTI shall have no legal liability for such disclosures. Notwithstanding any of the above, CTI reserves the right to challenge the validity of any subpoena, court order, warrant or other legal process, in its sole discretion.
 
 **Cookies**  
 Cookies are a technology that helps us serve you better. Our cookies collect no personally identifiable information. We use cookies to help us know when and how many people visit our site; to store your personal preferences for paid online subscription services you may subscribe to, in order to provide you with the best experience possible; to ensure that visitors are not repeatedly sent the same pop-up ads; and to record session information, such as items that consumers add to their shopping cart.
@@ -94,12 +92,12 @@ CTI's Internet sites are general audience sites, and CTI does not knowingly coll
 #### How to Update Your Information
 
 **E-mail Newsletters**  
-You may subscribe and unsubscribe to our newsletters by going to [http://myaccount.christianitytoday.com/](http://www.christianitytoday.com/myaccount/?page=newsletters). In addition, each CTI newsletter you receive will have instructions on how to unsubscribe prominently mentioned in it.
+You may subscribe and unsubscribe to our newsletters by going to [http://myaccount.christianitytoday.com/](http://www.christianitytoday.org/myaccount/?page=newsletters). In addition, each CTI newsletter you receive will have instructions on how to unsubscribe prominently mentioned in it.
 
 **Magazines, Products or Services**  
 Upon request, we provide site visitors with access to contact information (e.g., name, address, phone number) that we maintain about them. Choose an option below:
 
-  * Magazines: go to [this page](http://www.christianitytoday.com/help/features/contact.html#mag) and click on the appropriate magazine
+  * Magazines: go to [this page](http://www.christianitytoday.org/magazines/) and click on the appropriate magazine
   * Products & Services: send your request to [Store@ChristianityToday.com](mailto:Store@ChristianityToday.com)
   * PreachingToday.com: [click here](http://www.preachingtoday.com/help/contactus.html) to send your request
   * ChristianityTodayLibrary.com: [click here](http://ctlibrary.com/help/contact.html) to send your request
@@ -116,6 +114,4 @@ From time to time, we may update this privacy notice. Please check this page per
 
 The Privacy Policy posted on this site was updated on or about March 10, 2011.
 
-CTI welcomes your comments regarding this Privacy Policy. If you have any questions or comments, please feel free to [contact us](http://christianitytoday.com/help/features/webmaster.html).
-
-[More FAQs](https://web.archive.org/help/faq.html) | [Back to Help & Info](https://web.archive.org/help/)
+CTI welcomes your comments regarding this Privacy Policy. If you have any questions or comments, please feel free to [contact us](http://www.christianitytoday.org/myaccount/?page=contact).
