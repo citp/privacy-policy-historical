@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the livebinders.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101122917id_/http%3A//livebinders.com/welcome/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livebinders.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512124116id_/http%3A//www.livebinders.com/welcome/privacy) for the most accurate reproduction.*
 
 # LiveBinders - the Knowledge Sharing Place
 
-### Privacy Policy
-
-January 01, 2010
+December 23, 2011
 
 ## LiveBinders Privacy Policy Highlights
 
-This privacy policy describes LiveBinders information gathering and dissemination practices with respect to information we collect through our website. This privacy policy does not govern our use of any information you provide to us when you call us, write to us, or communicate with us in any manner other than through our website. Because the Internet is global, information about you that we collect or that you submit may be transferred to, processed in, and held in countries (including the United States) other than the one in which you reside. By using our website, you explicitly consent to such use of your information and agree to the terms of this privacy policy.
+The following Privacy Policy governs your use of the LiveBinders.com Web sites, applications, LiveBinders Tools, and LiveBinders Platform (collectively, the "Services.").
+
+This privacy policy describes LiveBinders information gathering and dissemination practices with respect to information we collect through our Services. This privacy policy does not govern our use of any information you provide to us when you call us, write to us, or communicate with us in any manner other than through our Services. Because the Internet is global, information about you that we collect or that you submit may be transferred to, processed in, and held in countries (including the United States) other than the one in which you reside. By using our Services, you explicitly consent to such use of your information and agree to the terms of this privacy policy.
 
 ## Information You Choose to Submit
 
-You can visit our website without telling us who you are or revealing any personal information (which we will refer to in this privacy policy as "Personal Data") about yourself. To obtain access to certain areas of our website, however, or to receive certain services we provide (e.g., creating a livebinder), you may be required to register with us and, in connection with such registration, to provide certain Personal Data (e.g., your email address). We use such information to provide the service you requested, to monitor internally usage of our website, and to contact you from time to time about us, our website, and our products and services. In addition, if you wish to make a purchase from our website, you are required to register with us and, in connection with such registration, to provide certain Personal Data (e.g., your full name, email address, and billing information). We use such information to fulfill your order and to contact you from time to time about us, our website, and our products and services.
+You can use our Services without telling us who you are or revealing any personal information (which we will refer to in this privacy policy as "Personal Data") about yourself. To obtain access to certain areas of our Services, however, or to receive certain services we provide (e.g., creating a livebinder, installing an application), you may be required to register with us and, in connection with such registration, to provide certain Personal Data (e.g., your email address). We use such information to provide the service you requested, to monitor internally the usage of our Services, and to contact you from time to time about us, our website, and our products and services. In addition, if you wish to make a purchase from our website, you are required to register with us and, in connection with such registration, to provide certain Personal Data (e.g., your full name, email address, and billing information). We use such information to fulfill your order and to contact you from time to time about us, our website, and our products and services.
 
 ## Your Intellectual Property Rights
 
@@ -20,7 +20,7 @@ LiveBinders does not claim any ownership in any of the content, including any te
 
 ## Information We Automatically Collect
 
-We automatically collect certain information to help us understand how visitors use our website (which we will refer to in this privacy policy as "Usage Data"). For example, each time you visit our website we automatically collect your IP address, browser and computer type, access time, the webpage from which you came, and webpage(s) that you access during your visit. We also use cookies (which are small amounts of data sent from a web server to your browser that are stored on your computer's hard drive) to keep track of your use of our website, to validate your identity, to remember your password and preferences, to tailor our website to meet your personal interests, and to improve the quality of our website. In addition, third parties who place advertisements on our website may also collect information through cookies to ensure that their advertising systems and technologies work properly and to allow them to track responses to their advertisements. Cookies set by these third parties are governed by the privacy policies of those third parties. Generally, you can set your browser not to accept cookies or to notify you if you are sent a cookie, giving you the opportunity to choose whether or not to accept the cookie. Please note that if you do set your browser not to accept cookies, certain areas of our website may not function properly.
+We automatically collect certain information to help us understand how visitors use our website and product (which we will refer to in this privacy policy as "Usage Data"). For example, each time you visit our website we automatically collect your IP address, browser and computer type, access time, the webpage from which you came, and webpage(s) that you access during your visit. We also use cookies (which are small amounts of data sent from a web server to your browser that are stored on your computer's hard drive) to keep track of your use of our Services, to validate your identity, to remember your password and preferences, to tailor our Services to meet your personal interests, and to improve the quality of our Services. In addition, third parties who place advertisements on our website may also collect information through cookies to ensure that their advertising systems and technologies work properly and to allow them to track responses to their advertisements. Cookies set by these third parties are governed by the privacy policies of those third parties. Generally, you can set your browser not to accept cookies or to notify you if you are sent a cookie, giving you the opportunity to choose whether or not to accept the cookie. Please note that if you do set your browser not to accept cookies, certain areas of our website may not function properly.
 
 ## Our Information Sharing Practices
 
@@ -38,7 +38,7 @@ Your use of areas of our website that are intended for interaction with other us
 
 ## Choice/Opt-Out
 
-We offer you the opportunity to choose not to receive communications from us. If you would like to take advantage of this opportunity, please let us know by by accessing and updating your profile on our site or sending us an email to privacy (at) LiveBinders (D0T) com (please send your request from the email address associated with your account). Please note that sometimes these requests may take up to ten business days to process and that we are not responsible for removing information about you from the database of any third party with which we shared your Personal Data prior to processing your request. Even if you do take advantage of this opportunity, we reserve the right to send you administrative messages relating to our website (e.g., about changes to this privacy policy), to contact you regarding orders you have placed (e.g., order confirmations), and to share your information with our service providers as necessary to provide service.
+We offer you the opportunity to choose not to receive communications from us. If you would like to take advantage of this opportunity, please let us know by by accessing and updating your profile on our site or sending us an email to privacy (at) LiveBinders (D0T) com (please send your request from the email address associated with your account). Please note that sometimes these requests may take up to ten business days to process and that we are not responsible for removing information about you from the database of any third party with which we shared your Personal Data prior to processing your request. Even if you do take advantage of this opportunity, we reserve the right to send you administrative messages relating to our Services (e.g., about changes to this privacy policy), to contact you regarding orders you have placed (e.g., order confirmations), and to share your information with our service providers as necessary to provide service.
 
 ## Accessing, Correcting, and Deleting Your Personal Data
 
@@ -50,15 +50,15 @@ We have implemented reasonable measures to help protect your Personal Data from 
 
 ## Links
 
-Our website may contain links to other websites. We are not responsible for the privacy practices of any such other website (whether accessed through an advertisement, service, or content link) and urge you to review such practices prior to submitting any personal information to such websites.
+Our Services may contain links to other websites. We are not responsible for the privacy practices of any such other website (whether accessed through an advertisement, service, or content link) and urge you to review such practices prior to submitting any personal information to such websites.
 
 ## Changes
 
-We may update this privacy policy from time to time. If under any such update we make any material change to the way in which we treat your Personal Data or Usage Data, we will inform you of such change via email or by posting a notice on relevant areas of our website. Any updated version of this privacy policy will be effective as of the date set forth therein.
+We may update this privacy policy from time to time. If under any such update we make any material change to the way in which we treat your Personal Data or Usage Data, we will inform you of such change via email or by posting a notice on relevant areas of our Services. Any updated version of this privacy policy will be effective as of the date set forth therein.
 
 ## Uploaded Content
 
-To learn more about Document Security for your uploaded content click [here](https://web.archive.org/web/20111101122917id_/http%3A//livebinders.com/welcome/document_security).
+To learn more about Document Security for your uploaded content click [here](https://web.archive.org/web/20120512124116id_/http%3A//www.livebinders.com/welcome/document_security).
 
 More information 
 
@@ -66,5 +66,6 @@ If you have additional questions, please [contact us](mailto:privacy@LiveBinders
 
 Privacy Matters  
 c/o LiveBinders Inc.  
-58 West Portal Avenue #260   
-San Francisco, CA 94127(USA) 
+101 First Street #180  
+Los Altos, CA 94022  
+
