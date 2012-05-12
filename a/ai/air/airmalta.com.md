@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airmalta.com privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010113851id_/http%3A//www.airmalta.com/privacy-policy%3Fl%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airmalta.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512163002id_/http%3A//www.airmalta.com/privacy-policy%3Fl%3D1) for the most accurate reproduction.*
 
 # Air Malta - Flights From Malta, Cheap Flights To Malta, Holiday In Malta
 
