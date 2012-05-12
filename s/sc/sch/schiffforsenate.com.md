@@ -1,31 +1,17 @@
-> *The following text is extracted and transformed from the schiffforsenate.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123053914id_/http%3A//schiffforsenate.com/%3Fq%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schiffforsenate.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513012349id_/http%3A//www.makeschiffhappen.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy | Peter Schiff for Senate 2010
+# MAKE SCHIFF HAPPEN-Privacy Policy
 
-This is the web site of Peter Schiff for Senate.
+Privacy Policy:
 
-Our postal address is:  
-130 Old Gate Lane Unit A  
-Milford, CT 06460
+Security
 
-We can be reached via e-mail at [info@schiffforsenate.com](mailto:Romanojr1@gmail.com) or by telephone at (203) 451-4560.
+Any information provided through our website is maintained internally, all donations will be processed on a secure server that protects your financial records. Additionally, we do not store any credit card information, only the information we are required to report to the Federal Elections Commission.
 
-For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
+Personal Information
 
-We collect the e-mail addresses of those who communicate with us via e-mail and aggregate information on what pages consumers access or visit. We also retain information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number, payment information (e.g., credit card number and billing address when provided for donations).
+Personal information is only used if you choose to provide it to us, however no personal information will be released to any outside entity without your prior consent which may be obtained electronically.
 
-The information we collect is used to improve the content of our Web page and to notify consumers about updates to our Web site.  This information may be disclosed when we are legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website.
+Use of Information
 
-We use cookies to prevent users from submitting duplicate contact information on the provided forms.
-
-If you do not want to receive e-mail from us in the future, please let us know by writing to us at the above address.
-
-If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
-
-Persons who supply us with their telephone numbers on-line may receive telephone contact from us only related to the purposes for which the users supplied their numbers. If you do not wish to receive such telephone calls, please let us know by contacting us at the address above.  Please provide us with your name and phone number.
-
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information, communications that the consumer/visitor has directed to the site.  Consumers can have this information corrected by sending us e-mail at the above address.
-
-When we transfer and receive certain types of sensitive information such as financial or information provided in connection with donations, we redirect visitors to a secure server.
-
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+If you choose to provide any personal information, such as your mailing address or phone number, we may use that information to contact you.
