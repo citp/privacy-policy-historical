@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the longrangehunting.com privacy policy that was archived on 2011-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102012609id_/http%3A//www.longrangehunting.com/articles/lrh-privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the longrangehunting.com privacy policy that was archived on 2012-05-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120512122107id_/http%3A//www.longrangehunting.com/articles/lrh-privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html dir="ltr" lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
 <!-- Favicon -->
@@ -22,7 +22,7 @@
 * vBulletin 3.8.6 CSS
 * Style: 'LongRangeHunting Default'; Style ID: 3
 */
-@import url("http://www.longrangehunting.com/forums/clientscript/vbulletin_css/style-3fb2599d-00003.css");
+@import url("http://www.longrangehunting.com/forums/clientscript/vbulletin_css/style-9803a947-00003.css");
 </style>
 <link rel="stylesheet" type="text/css" href="http://www.longrangehunting.com/forums/clientscript/vbulletin_important.css?v=386">
 
@@ -33,7 +33,7 @@
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/connection/connection-min.js?v=386"></script>
 <script type="text/javascript">
 <!--
-var SESSIONURL = "s=fceaf76c04aa81d7a230fea1d1967bf8&";
+var SESSIONURL = "s=9638a6f6065b1136a50e994da92c9003&";
 var SECURITYTOKEN = "guest";
 var IMGDIR_MISC = "http://www.longrangehunting.com/forums/images/styles/longrangehunting/misc";
 var vb_disable_ajax = parseInt("0", 10);
@@ -49,7 +49,7 @@ var vb_disable_ajax = parseInt("0", 10);
 <!--
 function vba_attach_win(threadid)
 {
-	openWindow('http://www.longrangehunting.com/forums/misc.php?s=fceaf76c04aa81d7a230fea1d1967bf8&amp;do=showattachments&t=' + threadid, 480, 300);
+	openWindow('http://www.longrangehunting.com/forums/misc.php?s=9638a6f6065b1136a50e994da92c9003&amp;do=showattachments&t=' + threadid, 480, 300);
 }
 -->
 </script>
@@ -61,6 +61,19 @@ window.google_analytics_uacct = 'UA-1762684-2'; var _gaq = _gaq || []; _gaq.push
 </head>
 <body>
 
+<div class="alignright">
+<form action="http://www.google.com/cse" id="cse-search-box" target="_blank">
+  <div>
+<img class="alignleft" src="http://www.longrangehunting.com/images/search-lrh.gif" alt="Search LRH here!">
+    <input type="hidden" name="cx" value="partner-pub-0716287567211556:8273440495">
+    <input type="hidden" name="ie" value="ISO-8859-1">
+    <input type="text" name="q" size="21">
+    <input type="submit" name="sa" value="Search">
+  </div>
+</form>
+
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</div><br>
 <!-- Begin comScore Tag -->
 <script type="text/javascript">
   var _comscore = _comscore || [];
@@ -83,6 +96,104 @@ window.google_analytics_uacct = 'UA-1762684-2'; var _gaq = _gaq || []; _gaq.push
 <!-- END TR header code -->
 
 <!-- logo -->
+
+<script type="text/javascript">
+var persistclose = 1
+var startX = 10
+var startY = 330
+var verticalpos = "fromtop"
+
+function iecompattest()
+{
+	return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+function get_cookie(Name)
+{
+	var search = Name + "="
+	var returnvalue = "";
+	if (document.cookie.length > 0)
+	{
+		offset = document.cookie.indexOf(search)
+		if (offset != -1)
+		{
+			offset += search.length
+			end = document.cookie.indexOf(";", offset);
+			if (end == -1) end = document.cookie.length;
+			returnvalue=unescape(document.cookie.substring(offset, end))
+		}
+	}
+	return returnvalue;
+}
+
+function closebar()
+{
+	if (persistclose)
+	document.cookie="remainclosed=1"
+	document.getElementById("topbar").style.visibility="hidden"
+}
+
+function staticbar()
+{
+	barheight=document.getElementById("topbar").offsetHeight
+	var ns = (navigator.appName.indexOf("Netscape") != -1) || window.opera;
+	var d = document;
+	function ml(id)
+	{
+		var el=d.getElementById(id);
+		if (!persistclose || persistclose && get_cookie("remainclosed")=="")
+		el.style.visibility="visible"
+		if(d.layers)el.style=el;
+		el.sP=function(x,y){this.style.right=x+"px";this.style.top=y+"px";};
+		el.x = startX;
+		if (verticalpos=="fromtop")
+			el.y = startY;
+		else
+		{
+			el.y = ns ? pageYOffset + innerHeight : iecompattest().scrollTop + iecompattest().clientHeight;
+			el.y -= startY;
+		}
+		return el;
+	}
+	
+	window.stayTopLeft=function()
+	{
+		if (verticalpos=="fromtop")
+		{
+			var pY = ns ? pageYOffset : iecompattest().scrollTop;
+			ftlObj.y += (pY + startY - ftlObj.y)/8;
+		}
+		else
+		{
+			var pY = ns ? pageYOffset + innerHeight - barheight: iecompattest().scrollTop + iecompattest().clientHeight - barheight;
+			ftlObj.y += (pY - startY - ftlObj.y)/8;
+		}
+		ftlObj.sP(ftlObj.x, ftlObj.y);
+		setTimeout("stayTopLeft()", 10);
+	}
+	ftlObj = ml("topbar");
+	stayTopLeft();
+}
+
+if (window.addEventListener)
+	window.addEventListener("load", staticbar, false)
+else if (window.attachEvent)
+	window.attachEvent("onload", staticbar)
+else if (document.getElementById)
+	window.onload=staticbar
+</script>
+
+<div id="topbar" style="visibility: visible; right: 10px; top: 330px;">
+	<table width="100%">
+		<tbody><tr>
+			<td width="99%">
+					You are new to the <strong><em>Long Range Hunting</em></strong> website.<br>Please <big><strong><a title="Click here to register your free account" href="http://www.longrangehunting.com/forums/register.php">register for FREE</a></strong></big> to get full access.&nbsp;&nbsp;&nbsp;&nbsp; </td><td width="1%"><a onclick="closebar(); return false" href="http://www.longrangehunting.com/forums"><img style="float: left" src="http://www.longrangehunting.com/forums/images/styles/longrangehunting/misc/close.gif" alt=""></a>
+			</td>
+		</tr>
+	</tbody></table>
+</div>
+
+
 <a name="top"></a>
 <table border="0" width="100%" cellpadding="0" cellspacing="0" align="center">
 <tbody><tr>
@@ -113,6 +224,7 @@ window.google_analytics_uacct = 'UA-1762684-2'; var _gaq = _gaq || []; _gaq.push
 
 
 <br>
+
 <div align="center">
 <!-- START 728x90 AdPeeps.com Code -->
 <script type="text/javascript" src="http://www.longrangehunting.com/adpeeps/adpeeps.php?bfunction=showad&amp;uid=100000&amp;bmode=off&amp;gpos=center&amp;bzone=top_not_home_728x90&amp;bsize=728x90&amp;btype=3&amp;bpos=default&amp;ver=2.0&amp;btotal=1&amp;btarget=_blank&amp;bborder=0&amp;gspacing=1">
@@ -122,6 +234,7 @@ window.google_analytics_uacct = 'UA-1762684-2'; var _gaq = _gaq || []; _gaq.push
 <img src="http://www.longrangehunting.com/adpeeps/adpeeps.php?bfunction=showad&amp;uid=100000&amp;bmode=off&amp;bzone=top_not_home_728x90&amp;bsize=728x90&amp;btype=1&amp;bpos=default&amp;ver=2.0" width="728" height="90" alt="Click Here!" title="Click Here!" border="0" /></a>
 </noscript>
 <!-- END AdPeeps.com Code --></div>
+
 
 
 
@@ -168,7 +281,7 @@ window.google_analytics_uacct = 'UA-1762684-2'; var _gaq = _gaq || []; _gaq.push
       <td width="160" class="alt2" align="left"><a href="http://www.longrangehunting.com/coyote-hunting/coyote-hunting-articles.php"><strong>Coyote Articles</strong></a></td>
    </tr>
    <tr>
-      <td width="160" style="background:#66FFFF;" align="left"><a href="http://www.longrangehunting.com/gearshop/index.php"><strong>LRH Gear Shop</strong></a></td>
+      <td width="160" style="background:#66FFFF;" align="left"><a href="http://www.longrangehunting.com/store/"><strong>LRH Store</strong></a></td>
    </tr>
 
 <tr>
@@ -375,15 +488,12 @@ LRH may make material changes to this Privacy Policy from time to time. Therefor
 			
 			
 			
-			<a href="http://www.longrangehunting.com/forums/f105/flatline-ops-give-away-contest-77948/" title="THE PRIZE: 
+			<a href="http://www.longrangehunting.com/forums/f105/give-away-contest-hornady-lock-n-load-91629/" title="Entry is extremely quick and easy - CLICK HERE TO ENTER - then just enter your first name and email address. 
  
-Flatline Ops Package - Including: 
+THE PRIZE 
  
-Flatline Ops ACCU/LEVEL™  
  
-Flatline Ops STRONG ARM™ 
- 
-ADI or ACI">Flatline Ops Give Away Contest</a>
+The Hornady...">Give Away Contest - Hornady Lock-N-Load...</a>
 			
 			
 			
@@ -402,15 +512,11 @@ ADI or ACI">Flatline Ops Give Away Contest</a>
 			
 			
 			
-			<a href="http://www.longrangehunting.com/forums/f105/give-away-contest-2-nikon-prostaff-79196/" title="THE PRIZE: 
+			<a href="http://www.longrangehunting.com/forums/f105/give-away-contest-500-gunsmith-91252/" title="Entry is extremely quick and easy - CLICK HERE TO ENTER - then just enter your first name and email address. 
  
+THE PRIZE 
  
- 
-Nikon Prostaff 4-12x40 Matte BDC Rifle Scope 
- 
-2 WINNERS 
- 
-Street Value: $230 each">Give Away Contest - 2 Nikon Prostaff...</a>
+$500 of precision...">Give Away Contest - $500 of Gunsmith...</a>
 			
 			
 			
@@ -429,61 +535,59 @@ Street Value: $230 each">Give Away Contest - 2 Nikon Prostaff...</a>
 			
 			
 			
-			<a href="http://www.longrangehunting.com/forums/f105/winners-chosen-next-drawing-80124/" title="Winners Chosen - Next Drawing is December 6th for Zeiss Optics  
+			<a href="http://www.longrangehunting.com/forums/f105/winners-chosen-next-drawing-may-89831/" title="Winners Chosen - Next Drawing is May 1st for Olympus Cameras  
+ 
+http://www.cameralandny.com/images/olympuslogo.jpg  
+ 
+This next drawing will be for...">Winners Chosen - Next Drawing is May...</a>
+			
+			
+			
+			
+
+			
+			
+			
+		</div>
+	</td>
+</tr><tr>
+	<td class="alt1" align="left">
+		<div class="smallfont">
+			
+
+			
+			
+			
+			<a href="http://www.longrangehunting.com/forums/f105/give-away-contest-ced-m2-chronograph-88586/" title="Entry is extremely quick and easy - CLICK HERE TO ENTER - then just enter your first name and email address. 
+ 
+THE PRIZE 
+ 
+ 
+ 
+CED M2 Chronograph...">Give Away Contest - CED M2 Chronograph</a>
+			
+			
+			
+			
+
+			
+			
+			
+		</div>
+	</td>
+</tr><tr>
+	<td class="alt2" align="left">
+		<div class="smallfont">
+			
+
+			
+			
+			
+			<a href="http://www.longrangehunting.com/forums/f105/winners-chosen-next-drawing-june-91395/" title="Winners Chosen - Next Drawing is June 6th for Zeiss Sports Optics  
  
 http://www.cameralandny.com/images/zeisslogo.gif  
  
-This next drawing is for...">Winners Chosen - Next Drawing is...</a>
-			
-			
-			
-			
-
-			
-			
-			
-		</div>
-	</td>
-</tr><tr>
-	<td class="alt1" align="left">
-		<div class="smallfont">
-			
-
-			
-			
-			
-			<a href="http://www.longrangehunting.com/forums/f105/winners-chosen-next-drawing-78785/" title="Winners Chosen - Next Drawing is November 2nd for Minox Optics  
- 
-http://www.cameralandny.com/images/minoxlogo.gif  
- 
-This next drawing is for...">Winners Chosen - Next Drawing is...</a>
-			
-			
-			
-			
-
-			
-			
-			
-		</div>
-	</td>
-</tr><tr>
-	<td class="alt2" align="left">
-		<div class="smallfont">
-			
-
-			
-			
-			
-			<a href="http://www.longrangehunting.com/forums/f105/berger-bullets-giveaway-contest-76798/" title="THE PRIZE: 
- 
-Gift Certificate Redeemable Directly With Berger Bullets 
- 
-5 WINNERS 
- 
-Street Value: $100 each 
- 
-PRIZE DONOR:">Berger Bullets Giveaway Contest</a>
+This next drawing will be...">Winners Chosen - Next Drawing is June...</a>
 			
 			
 			
@@ -513,59 +617,34 @@ PRIZE DONOR:">Berger Bullets Giveaway Contest</a>
 		<tbody id="collapseobj_module_7" style="">
 			
 				<tr>
-	<td class="thead">What Is Your Age?</td>
+	<td class="thead">Do You Shoot Rifle Competition?</td>
 </tr>
 
 <tr>
 	<td class="alt1">
-		<div class="smallfont">0-17  - 2.73%</div>
-		<img title="94 Votes" alt="" height="10" src="http://www.longrangehunting.com/forums/images/styles/longrangehunting/polls/bar2-l.gif" width="3"><img title="94 Votes" alt="94 Votes" height="10" src="http://www.longrangehunting.com/forums/images/styles/longrangehunting/polls/bar2.gif" width="3"><img title="94 Votes" alt="" height="10" src="http://www.longrangehunting.com/forums/images/styles/longrangehunting/polls/bar2-r.gif" width="3">
+		<div class="smallfont">YES - 35.90%</div>
+		<img title="587 Votes" alt="" height="10" src="http://www.longrangehunting.com/forums/images/styles/longrangehunting/polls/bar2-l.gif" width="3"><img title="587 Votes" alt="587 Votes" height="10" src="http://www.longrangehunting.com/forums/images/styles/longrangehunting/polls/bar2.gif" width="50"><img title="587 Votes" alt="" height="10" src="http://www.longrangehunting.com/forums/images/styles/longrangehunting/polls/bar2-r.gif" width="3">
 	</td>
 </tr><tr>
 	<td class="alt1">
-		<div class="smallfont">18-24  - 8.25%</div>
-		<img title="284 Votes" alt="" height="10" src="http://www.longrangehunting.com/forums/images/styles/longrangehunting/polls/bar3-l.gif" width="3"><img title="284 Votes" alt="284 Votes" height="10" src="http://www.longrangehunting.com/forums/images/styles/longrangehunting/polls/bar3.gif" width="11"><img title="284 Votes" alt="" height="10" src="http://www.longrangehunting.com/forums/images/styles/longrangehunting/polls/bar3-r.gif" width="3">
-	</td>
-</tr><tr>
-	<td class="alt1">
-		<div class="smallfont">25-34  - 20.09%</div>
-		<img title="692 Votes" alt="" height="10" src="http://www.longrangehunting.com/forums/images/styles/longrangehunting/polls/bar4-l.gif" width="3"><img title="692 Votes" alt="692 Votes" height="10" src="http://www.longrangehunting.com/forums/images/styles/longrangehunting/polls/bar4.gif" width="28"><img title="692 Votes" alt="" height="10" src="http://www.longrangehunting.com/forums/images/styles/longrangehunting/polls/bar4-r.gif" width="3">
-	</td>
-</tr><tr>
-	<td class="alt1">
-		<div class="smallfont">35-44  - 21.31%</div>
-		<img title="734 Votes" alt="" height="10" src="http://www.longrangehunting.com/forums/images/styles/longrangehunting/polls/bar5-l.gif" width="3"><img title="734 Votes" alt="734 Votes" height="10" src="http://www.longrangehunting.com/forums/images/styles/longrangehunting/polls/bar5.gif" width="29"><img title="734 Votes" alt="" height="10" src="http://www.longrangehunting.com/forums/images/styles/longrangehunting/polls/bar5-r.gif" width="3">
-	</td>
-</tr><tr>
-	<td class="alt1">
-		<div class="smallfont">45-54  - 21.84%</div>
-		<img title="752 Votes" alt="" height="10" src="http://www.longrangehunting.com/forums/images/styles/longrangehunting/polls/bar6-l.gif" width="3"><img title="752 Votes" alt="752 Votes" height="10" src="http://www.longrangehunting.com/forums/images/styles/longrangehunting/polls/bar6.gif" width="30"><img title="752 Votes" alt="" height="10" src="http://www.longrangehunting.com/forums/images/styles/longrangehunting/polls/bar6-r.gif" width="3">
-	</td>
-</tr><tr>
-	<td class="alt1">
-		<div class="smallfont">55-64  - 19.19%</div>
-		<img title="661 Votes" alt="" height="10" src="http://www.longrangehunting.com/forums/images/styles/longrangehunting/polls/bar1-l.gif" width="3"><img title="661 Votes" alt="661 Votes" height="10" src="http://www.longrangehunting.com/forums/images/styles/longrangehunting/polls/bar1.gif" width="26"><img title="661 Votes" alt="" height="10" src="http://www.longrangehunting.com/forums/images/styles/longrangehunting/polls/bar1-r.gif" width="3">
-	</td>
-</tr><tr>
-	<td class="alt1">
-		<div class="smallfont">65+ - 6.59%</div>
-		<img title="227 Votes" alt="" height="10" src="http://www.longrangehunting.com/forums/images/styles/longrangehunting/polls/bar2-l.gif" width="3"><img title="227 Votes" alt="227 Votes" height="10" src="http://www.longrangehunting.com/forums/images/styles/longrangehunting/polls/bar2.gif" width="9"><img title="227 Votes" alt="" height="10" src="http://www.longrangehunting.com/forums/images/styles/longrangehunting/polls/bar2-r.gif" width="3">
+		<div class="smallfont">NO - 64.10%</div>
+		<img title="1,048 Vote" alt="" height="10" src="http://www.longrangehunting.com/forums/images/styles/longrangehunting/polls/bar3-l.gif" width="3"><img title="1,048 Vote" alt="1,048 Vote" height="10" src="http://www.longrangehunting.com/forums/images/styles/longrangehunting/polls/bar3.gif" width="89"><img title="1,048 Vote" alt="" height="10" src="http://www.longrangehunting.com/forums/images/styles/longrangehunting/polls/bar3-r.gif" width="3">
 	</td>
 </tr>
 
 <tr>
 	<td align="left" class="alt2">
 		
-			<span class="smallfont"><strong>Total Votes: 3,444</strong><br>You may not vote on this poll.</span>
+			<span class="smallfont"><strong>Total Votes: 1,635</strong><br>You may not vote on this poll.</span>
 		
 	</td>
 </tr>
 <tr>
 	<td class="alt1">
-		<div class="smallfont">» <a href="http://www.longrangehunting.com/forums/f44/poll-120-what-your-age.html">View Poll Results</a>
+		<div class="smallfont">» <a href="http://www.longrangehunting.com/forums/f44/poll-59-do-you-shoot-rifle-competition.html">View Poll Results</a>
 		
-			<br>» <a rel="nofollow" href="http://www.longrangehunting.com/forums/newreply.php?t=58805">Comment On This Poll</a>
-			<br>» <a href="http://www.longrangehunting.com/forums/f44/what-your-age-58805/">This Poll Has 93 Replies</a>
+			<br>» <a rel="nofollow" href="http://www.longrangehunting.com/forums/newreply.php?t=30527">Comment On This Poll</a>
+			<br>» <a href="http://www.longrangehunting.com/forums/f44/do-you-shoot-rifle-competition-30527/">This Poll Has 103 Replies</a>
 		
 		
 		</div>
@@ -612,7 +691,7 @@ PRIZE DONOR:">Berger Bullets Giveaway Contest</a>
 			
 			
 			
-			<a href="http://www.longrangehunting.com/forums/f73/86-year-old-veteran-sniper-1-000-yard-69516/" title="Veteran Sniper">86-year-old veteran sniper - 1,000 yard...</a>
+			<a href="http://www.longrangehunting.com/forums/f73/stalking-techniques-89413/" title="Shooting Tip - Stalking Techniques (Game Hunting) - YouTube">Stalking Techniques</a>
 			
 			
 			
@@ -631,7 +710,7 @@ PRIZE DONOR:">Berger Bullets Giveaway Contest</a>
 			
 			
 			
-			<a href="http://www.longrangehunting.com/forums/f73/g7-br2-ballistic-rangefinder-2000-a-64364/" title="YouTube - G7 BR2 Ballistic Rangefinder - First Look">G7 BR2 (Ballistic Rangefinder 2000)...</a>
+			<a href="http://www.longrangehunting.com/forums/f73/shooter-spotter-technique-89415/" title="2012Q1 Shooting Tip Shooter Spotter YouTube.mp4 - YouTube">Shooter - Spotter Technique</a>
 			
 			
 			
@@ -650,9 +729,7 @@ PRIZE DONOR:">Berger Bullets Giveaway Contest</a>
 			
 			
 			
-			<a href="http://www.longrangehunting.com/forums/f73/exploding-goat-video-29925/" title="trying this out to see if it works: 
- 
-MtGoat.flv - Video - Photobucket - Video and Image Hosting">exploding goat video</a>
+			<a href="http://www.longrangehunting.com/forums/f73/reading-mirage-89414/" title="Shooting Tip - Reading Mirage - YouTube">Reading Mirage</a>
 			
 			
 			
@@ -671,7 +748,7 @@ MtGoat.flv - Video - Photobucket - Video and Image Hosting">exploding goat video
 			
 			
 			
-			<a href="http://www.longrangehunting.com/forums/f73/gunwerks-shooting-tip-shooting-73332/" title="This one is really timely for me. I have been working on improving my seated position technique for use in a couple of specific locational conditions...">Gunwerks Shooting Tip -- Shooting from...</a>
+			<a href="http://www.longrangehunting.com/forums/f73/target-acquisition-89412/" title="Shooting Tip - Target Acquisition - YouTube">Target Acquisition</a>
 			
 			
 			
@@ -690,13 +767,7 @@ MtGoat.flv - Video - Photobucket - Video and Image Hosting">exploding goat video
 			
 			
 			
-			<a href="http://www.longrangehunting.com/forums/f73/long-range-crossbow-pse-tac-15-video-53140/" title="Buy your PSE TAC 15/15i crossbow here (IN STOCK).  I am now a dealer in the PSE TAC 15/15i crossbow.  
- 
-Read my TAC 15/15i Review. 
- 
- 
- 
-YouTube -...">Long Range Crossbow - PSE TAC 15  Video</a>
+			<a href="http://www.longrangehunting.com/forums/f73/angles-shooting-sticks-89411/" title="Shooting Tip - Angles and Shooting Sticks - YouTube">Angles And Shooting Sticks</a>
 			
 			
 			
@@ -715,7 +786,7 @@ YouTube -...">Long Range Crossbow - PSE TAC 15  Video</a>
 			
 			
 			
-			<a href="http://www.longrangehunting.com/forums/f73/why-does-your-scopes-zero-shift-61725/" title="YouTube - What Happened to My Zero? Riflescope Zero Troubleshooting Tips from Horus Vision">Why does your scope's zero shift? -...</a>
+			<a href="http://www.longrangehunting.com/forums/f73/techniques-spotting-animals-89410/" title="Shooting Tip - Spotting (with The Best of the West Field Host Brandon Davis) - YouTube">Techniques For Spotting Animals</a>
 			
 			
 			
@@ -739,7 +810,7 @@ YouTube -...">Long Range Crossbow - PSE TAC 15  Video</a>
 			<tr>
 				<td class="tcat" colspan="0">
 				
-				<span class="smallfont"><strong> Classified Ads - Recent Forum Threads</strong></span></td>
+				<span class="smallfont"><strong> Classified Ads</strong></span></td>
 			</tr>
 		</thead>
 		<tbody id="collapseobj_module_42" style="">
@@ -752,7 +823,7 @@ YouTube -...">Long Range Crossbow - PSE TAC 15  Video</a>
 			
 			
 			
-			<a href="http://www.longrangehunting.com/forums/f25/cz-527-varmint-kevlar-ky-80155/" title="I have a CZ 527 varmint kevlar 223, Its in nice shape, single set trigger, Would like to trade to a Remington or Savage 308, may be even a 223,...">CZ 527 varmint Kevlar   //KY//</a>
+			<a href="http://www.longrangehunting.com/forums/f25/fn-spr-a1-300wsm-upgrades-extra-s-91882/" title="Selling my factory FN SPR A1 300wsm, it has a 24” barrel with a JP enterprise brake, bolt knob (assumed to be a badger) and Kristin (spelling???)...">FN SPR A1 300wsm with upgrades and extra’s</a>
 			
 			
 			
@@ -771,7 +842,10 @@ YouTube -...">Long Range Crossbow - PSE TAC 15  Video</a>
 			
 			
 			
-			<a href="http://www.longrangehunting.com/forums/f25/wts-tooley-6-5-06ai-80150/" title="Well, I just have a problem with buying guns, loving them for a year then selling them for some reason... in other words I'm broke.  After taking...">WTS:Tooley 6.5-06AI</a>
+			<a href="http://www.longrangehunting.com/forums/f25/fs-custom-280-ai-91968/" title="FS is a Custom 280 AI. Here are the specs. 
+  
+Rem. 700 7 digit serial fully blueprinted 
+PTG onepiece bolt with mini16 extractor and complete with...">Fs custom 280 ai</a>
 			
 			
 			
@@ -790,10 +864,7 @@ YouTube -...">Long Range Crossbow - PSE TAC 15  Video</a>
 			
 			
 			
-			<a href="http://www.longrangehunting.com/forums/f25/rem-700-lvsf-223-pic-added-79308/" title="Used 700 Light Varmint Stainless Fluted  
-223 Rem 
-Stainless Fluted 22&quot; bbl 
-ADL style (B&amp;C) lightweight fiberglass stock w/ black web finish...">Rem 700 LVSF .223 pic added</a>
+			<a href="http://www.longrangehunting.com/forums/f25/fs-ft-7mm-tejas-91531/" title="For sale and possible trade 7mm Tejas buildt by Brad Stair of Cross Canyon Arms. It's brand new never fired. It would be like their death valley...">FS or FT 7MM Tejas</a>
 			
 			
 			
@@ -812,8 +883,7 @@ ADL style (B&amp;C) lightweight fiberglass stock w/ black web finish...">Rem 700
 			
 			
 			
-			<a href="http://www.longrangehunting.com/forums/f25/lsr-300-winmag-w-nxs-78146/" title="Longshot .300 WinMag W/ NightForce NXS 5.5-22x56mm. 
-This Rifle has had 120 rounds down the tube! Shoots awesome, just don't have the time to shoot...">LSR .300 WinMag W/ NXS</a>
+			<a href="http://www.longrangehunting.com/forums/f25/fs-howa-1500-308-a-92000/" title="Howa 1500 in .308 Win.  To my knowledge I am the second owner and only roughly 300 rounds down the barrel.  Easily sub MOA shooter with Varget and...">FS: Howa 1500 .308</a>
 			
 			
 			
@@ -832,9 +902,7 @@ This Rifle has had 120 rounds down the tube! Shoots awesome, just don't have the
 			
 			
 			
-			<a href="http://www.longrangehunting.com/forums/f25/fs-ft-2000-ford-f250-crew-cab-long-bed-4x4-80092/" title="For sale or trade. Guys she is too big for me and I just don't need a truck this big anymore. 
-2000 Ford F250 Super Duty Crew Cab Long Bed 4X4 
-Has a...">FS/FT 2000 Ford F250 Crew Cab Long bed 4X4</a>
+			<a href="http://www.longrangehunting.com/forums/f25/want-buy-savage-110ba-lapua-91960/" title="Want to buy a Savage 110BA .338 Lapua. I am in NH.">Want To Buy Savage 110BA Lapua</a>
 			
 			
 			
@@ -871,108 +939,110 @@ Has a...">FS/FT 2000 Ford F250 Crew Cab Long bed 4X4</a>
 			
 			
 			
-			<a href="http://www.longrangehunting.com/forums/f84/first-mule-deer-hunt-region-g-79281/" title="Depending on how you look at it, my first Wyoming mule deer hunt could have “started” at a number of different times during my life. It could have...">First Mule Deer Hunt - Region G</a>
-			
-			
-			
-			
-
-			
-			
-			
-		</div>
-	</td>
-</tr><tr>
-	<td class="alt1" align="left">
-		<div class="smallfont">
-			
-
-			
-			
-			
-			<a href="http://www.longrangehunting.com/forums/f22/wth-save-wolves-ad-80088/" title="Got online this morning and pulled up this website. 
-BAM!!! Right there was a ad to help save the wolves for the defenders of wildlife!!!  
-I am not...">WTH !!! / Save The Wolves ad</a>
-			
-			
-			
-			
-
-			
-			
-			
-		</div>
-	</td>
-</tr><tr>
-	<td class="alt2" align="left">
-		<div class="smallfont">
-			
-
-			
-			
-			
-			<a href="http://www.longrangehunting.com/forums/f18/can-zeiss-has-better-glass-than-80152/" title="I just returned home from hunting where I use Swarovski Bino's and I was looking at deer at Grey light with my Swaro's and I could see them but not...">Can it be? Zeiss has better glass than...</a>
-			
-			
-			
-			
-
-			
-			
-			
-		</div>
-	</td>
-</tr><tr>
-	<td class="alt1" align="left">
-		<div class="smallfont">
-			
-
-			
-			
-			
-			<a href="http://www.longrangehunting.com/forums/f44/reloading-die-brand-55325/" title="Which Reloading Die Brand Do You Use? 
- 
-You may choose more than one.">Reloading Die Brand?</a>
-			
-			
-			
-			
-
-			
-			
-			
-		</div>
-	</td>
-</tr><tr>
-	<td class="alt2" align="left">
-		<div class="smallfont">
-			
-
-			
-			
-			
-			<a href="http://www.longrangehunting.com/forums/f18/scope-remington-700-5r-308-win-79998/" title="My wife gave me this gun for my birthday in July.  I took the Leupold 4.5-14 x 50 scope off my 30-06 and mounted it on the gun because it was the...">Scope for Remington 700 5R .308 Win</a>
-			
-			
-			
-			
-
-			
-			
-			
-		</div>
-	</td>
-</tr><tr>
-	<td class="alt1" align="left">
-		<div class="smallfont">
-			
-
-			
-			
-			
-			<a href="http://www.longrangehunting.com/forums/f17/270-win-not-270-win-80149/" title="Hi all, 
+			<a href="http://www.longrangehunting.com/forums/f17/shooting-600-first-time-91899/" title="I've been trying to begin shooting at longer ranges lately and finally hit the 600 yard mark. 
   
-I have an an old Remington 700 in .270 win that my Dad gave me that I want to make into a long range rig, shooting out to 800 to 1000...">The .270 win , or not the .270 win ?</a>
+I'm using a .308 with 168 SMKs at 2740 fps. 
+  
+I'm...">Shooting @ 600 for the First Time?</a>
+			
+			
+			
+			
+
+			
+			
+			
+		</div>
+	</td>
+</tr><tr>
+	<td class="alt1" align="left">
+		<div class="smallfont">
+			
+
+			
+			
+			
+			<a href="http://www.longrangehunting.com/forums/f42/savage-barrels-parts-wts-wtt-91975/" title="For sale or trade  
+  
+Stainless 7mm rem mag 116fhsak take off, factory brake, 24&quot; small shank, 250 rounds, shoots sub moa with 162 amax, 150 SMK,...">Savage barrels and parts WTS/WTT</a>
+			
+			
+			
+			
+
+			
+			
+			
+		</div>
+	</td>
+</tr><tr>
+	<td class="alt2" align="left">
+		<div class="smallfont">
+			
+
+			
+			
+			
+			<a href="http://www.longrangehunting.com/forums/f65/one-more-montana-92014/" title="greetings LRH! 
+  
+i've been lurking for the last 9 months or so, joined up a month or two ago, and i'm getting tired of the pop up when i log in...">one more from Montana</a>
+			
+			
+			
+			
+
+			
+			
+			
+		</div>
+	</td>
+</tr><tr>
+	<td class="alt1" align="left">
+		<div class="smallfont">
+			
+
+			
+			
+			
+			<a href="http://www.longrangehunting.com/forums/f23/composite-laminate-stock-wood-91708/" title="Hoping someone can help me out. I have a 300 win mag, 26 inch, browning abolt. Looking to make the rifle a little lighter, will a composite or...">composite, laminate, stock wood</a>
+			
+			
+			
+			
+
+			
+			
+			
+		</div>
+	</td>
+</tr><tr>
+	<td class="alt2" align="left">
+		<div class="smallfont">
+			
+
+			
+			
+			
+			<a href="http://www.longrangehunting.com/forums/f19/jewell-triggers-what-do-i-really-get-29192/" title="Can you guys help me understand why Jewell triggers are worth paying $200+ for?  What can I expect out of them that make them &quot;better&quot; than, say, a...">Jewell triggers... what do I really get...</a>
+			
+			
+			
+			
+
+			
+			
+			
+		</div>
+	</td>
+</tr><tr>
+	<td class="alt1" align="left">
+		<div class="smallfont">
+			
+
+			
+			
+			
+			<a href="http://www.longrangehunting.com/forums/f17/6-5-creedmor-91781/" title="im looking for another hunting/ range gun. been reading really good things on both the 260 and 6.5 creedmor. i have read where some people think the...">6.5 creedmor</a>
 			
 			
 			
@@ -1041,18 +1111,19 @@ I have an an old Remington 700 in .270 win that my Dad gave me that I want to ma
 </tbody></table>
 <!-- Do NOT remove this copyright notice. Doing so is a violation of your user agreement! -->
 
-<!-- 468x60 adpeeps.com code -->
-<div class="aligncenter">
-<script type="text/javascript" src="http://www.longrangehunting.com/adpeeps/adpeeps.php?bfunction=showad&amp;uid=100000&amp;bmode=off&amp;gpos=center&amp;bzone=header-right&amp;bsize=468x60&amp;btype=3&amp;bpos=default&amp;ver=2.0&amp;btotal=1&amp;btarget=_blank&amp;bborder=0">
+<!-- START 468x60 Ad Peeps Ad Code -->
+<div align="center">
+<script type="text/javascript" src="http://www.longrangehunting.com/adpeeps/adpeeps.php?bf=showad&amp;uid=100000&amp;bmode=off&amp;gpos=center&amp;bzone=footer-center&amp;bsize=468x60&amp;btype=3&amp;bpos=default&amp;btotal=1&amp;btarget=_blank&amp;bborder=0">
 </script>
-<noscript><a rel="nofollow" href="http://www.longrangehunting.com/adpeeps/adpeeps.php?bfunction=clickad&amp;uid=100000&amp;bmode=off&amp;bzone=header-right&amp;bsize=468x60&amp;btype=1&amp;bpos=default&amp;ver=2.0" target="_blank">
-<img src="http://www.longrangehunting.com/adpeeps/adpeeps.php?bfunction=showad&amp;uid=100000&amp;bmode=off&amp;bzone=header-right&amp;bsize=468x60&amp;btype=1&amp;bpos=default&amp;ver=2.0" width="468" height="60" alt="Click Here!" title="Click Here!" /></a>
+<noscript>
+<a rel="nofollow" href="http://www.longrangehunting.com/adpeeps/adpeeps.php?bf=go&amp;uid=100000&amp;bmode=off&amp;bzone=footer-center&amp;bsize=468x60&amp;btype=1&amp;bpos=default" target="_blank">
+<img src="http://www.longrangehunting.com/adpeeps/adpeeps.php?bf=showad&amp;uid=100000&amp;bmode=off&amp;bzone=footer-center&amp;bsize=468x60&amp;btype=1&amp;bpos=default" width="468" height="60" alt="Click Here!" title="Click Here!" border="0" /></a>
 </noscript>
 </div>
-<!-- /468x60 adpeeps.com code -->
+<!-- END Ad Peeps Ad Code -->
 
 <br>
-<div class="smallfont" align="center">All times are GMT -5. The time now is <span class="time">08:26 PM</span>.</div>
+<div class="smallfont" align="center">All times are GMT -5. The time now is <span class="time">07:21 AM</span>.</div>
 <br>
 
 
@@ -1080,7 +1151,7 @@ I have an an old Remington 700 in .270 win that my Dad gave me that I want to ma
 				
 				
                 
-				
+				<a href="http://www.longrangehunting.com/articles/lrh-privacy-policy.php">Privacy Statement</a> -
                 <a href="http://www.longrangehunting.com/forums/faq/">Terms of Service</a> -
 				<a href="#top" onclick="self.scrollTo(0, 0); return false;">Top</a>
 			</strong>
@@ -1092,16 +1163,11 @@ I have an an old Remington 700 in .270 win that my Dad gave me that I want to ma
 <br>
 
 <div align="center">
-<div class="smallfont" align="center">
-	
-	<a href="http://www.longrangehunting.com/articles/lrh-privacy-policy.php">
-Long Range Hunting, LLC Privacy Policy
-</a>
-	</div>	
+
 
 <div class="smallfont" align="center">
 	<!-- Do not remove this copyright notice -->
-	Powered by vBulletin ©2000 - 2011, Jelsoft Enterprises Ltd.
+	Powered by vBulletin ©2000 - 2012, Jelsoft Enterprises Ltd.
 	
 <br>Content Relevant URLs by <a onclick="_gaq.push(['_trackEvent', 'Outgoing', 'www.crawlability.com', '/vbseo/']);" rel="nofollow" href="http://www.crawlability.com/vbseo/">vBSEO</a> 3.6.0<!-- Do not remove this copyright notice -->
 	</div>
