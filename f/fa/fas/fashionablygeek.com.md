@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionablygeek.com privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014084435id_/http%3A//fashionablygeek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionablygeek.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512022219id_/http%3A//fashionablygeek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
