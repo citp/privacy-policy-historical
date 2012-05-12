@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sheeel.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222123503id_/http%3A//www.sheeel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheeel.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512033014id_/http%3A//www.sheeel.com/privacy) for the most accurate reproduction.*
 
 # Sheeel ... A Deal Everyday Privacy Policy
 
