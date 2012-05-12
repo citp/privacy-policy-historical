@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expedia.ie privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211132215id_/http%3A//www.expedia.ie/en-IE/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expedia.ie privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512153651id_/http%3A//www.expedia.ie/en-IE/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy policy – Expedia.ie
 
