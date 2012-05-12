@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bulknutrition.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115100914id_/http%3A//www.bulknutrition.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulknutrition.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512103230id_/http%3A//www.bulknutrition.com/privacy.html) for the most accurate reproduction.*
 
 # Bulk Nutrition - Privacy Policy
 
