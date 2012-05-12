@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the lawcrossing.com privacy policy that was archived on 2011-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111025081222id_/http%3A//www.lawcrossing.com/lcprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawcrossing.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513012215id_/http%3A//www.lawcrossing.com/lcprivacy.php) for the most accurate reproduction.*
 
 # LawCrossing.com - Privacy Policy, Your Privacy is So Important To Us | LawCrossing.com
-
-  
-
 
 **PRIVACY**
 
@@ -12,30 +9,6 @@
 **SECURITY**
 
 **The LawCrossing servers use Secure Socket Layer (SSL), an advanced encryption technology that works with Internet Explorer, Netscape Navigator (versions 2.0 and higher), Mozilla, Microsoft Internet Explorer (versions 3.0 and higher), and AOL (AOL 3.0 and higher). This encryption provides the best possible protection from unauthorized parties accessing any information you send to us.**
-
-  
-**Effective on: (5/25/2007)**
-
-LawCrossing, Inc., is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information through the promotion of the use of fair information practices. This privacy statement covers the site http://www.lawcrossing.com. Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, LawCrossing has agreed to notify users of: 
-
-[](http://www.truste.org/ivalidate.php?url=www.lawcrossing.com&sealid=101) | 
-
-  1. What personally identifiable information LawCrossing collects.
-  2. What personally identifiable information third parties collect through the Web site.
-  3. What organization collects the information.
-  4. How LawCrossing uses the information.
-  5. With whom LawCrossing may share user information.
-  6. What choices are available to users regarding collection, use and distribution of the information.
-  7. What measures LawCrossing takes to protect the information under its control.
-  8. How users can correct any inaccuracies in the information.
-
-  
----|---  
-LawCrossing complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. 
-
-If you have questions or concerns regarding this statement, you should first contact our Consumer Privacy Department by email at [privacy@lawcrossing.com](mailto:privacy@lawcrossing.com), you may also contact us by phone at 626-243-1801, or by regular mail at 202 S Lake Ave, Unit 250, Pasadena, CA 91101. 
-
-If you do not receive acknowledgment of your inquiry, or if your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (<http://www.truste.org/consumers/watchdog_complaint.php>). TRUSTe will serve as a liaison with the Web site to resolve your concerns. 
 
 **Why is your privacy so important to us?**  
 LawCrossing is committed to protecting the privacy of our users, and we are firmly devoted to maintaining your trust in us. We work extremely hard at safeguarding our customers' important information and keeping it secure. Our privacy policy is designed to help you understand our genuine dedication to preserving your privacy. 
@@ -77,6 +50,8 @@ LawCrossing
 202 S Lake Ave  
 Unit 250  
 Pasadena, CA 91101 
+
+
 
 
 Furthermore, you may opt-out of receiving emails from other Juriscape companies at any time by clicking on the appropriate "unsubscribe" link at the bottom of any such email. 
