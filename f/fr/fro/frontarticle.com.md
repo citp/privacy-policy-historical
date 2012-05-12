@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the frontarticle.com privacy policy that was archived on 2011-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110818001325id_/http%3A//frontarticle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontarticle.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513001733id_/http%3A//www.frontarticle.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy » Front Article – Article Directory
+# Privacy Policy » Front Article
 
 **Our Commitment To Your Privacy**
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-**DoubleClick DART Cookie**  
+**DoubleClick DART Cookie**
+
 .:: Google, as a third party vendor, uses cookies to serve ads on your site.  
 .:: Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
