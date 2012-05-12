@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spanx.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225013337id_/http%3A//www.spanx.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spanx.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512052716id_/http%3A//www.spanx.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.*
 
 # SPANX : Customer Service
 
@@ -42,7 +42,7 @@ We use the information we collect for various purposes, including:
 
 We may disclose information to outside companies that help us bring you the products and services we offer. For example, we may work with an outside company to: (a) manage a database of customer information; (b) assist us in distributing e-mails; (c) assist us with direct marketing and data collection; (d) provide us storage and analysis; (d) provide fraud prevention services; and (e) other services designed to assist us in maximizing our business potential. 
 
-Other companies: We may provide information to carefully selected outside companies when we believe their products or services may be of interest to you.
+Other companies: We may provide information to carefully selected outside companies when we believe their products or services may be of interest to you. We will not, however, sell, rent, or share your email address with third parties for marketing purposes without your consent.
 
 Business Transitions: We may transfer or share personal information about you if Spanx, Inc. goes through a business transition such as a merger, acquisition, or sale of all or part of its assets in these situations. You will be notified via email or prominent notice on our website prior to a transfer or control of your personal information, if your personal information will be used contrary to this policy. However, nothing in this Privacy Policy is intended to interfere with the ability of Spanx to transfer all or part of its business and/or assets to an affiliate or independent third party at any time, for any purpose, without any limitation whatsoever. Spanx specifically reserves the right to transfer or share a copy of personally identifiable information collected from its websites to the buyer of that portion of its business relating to that information. 
 
