@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kyschools.us privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007171316id_/http%3A//www.education.ky.gov/KDE/HomePageRepository/Footer/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kyschools.us privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512212939id_/http%3A//kyschools.us/KDE/HomePageRepository/Footer/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
