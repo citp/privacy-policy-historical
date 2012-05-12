@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the joomlage.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109202018id_/http%3A//www.joomlage.com/general-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlage.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512041228id_/http%3A//www.joomlage.com/general-information/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Joomlage - Joomla 1.7 Templates - Joomla 1.6 Templates - Joomla 1.5 Templates
-
-[](http://www.addthis.com/bookmark.php)
+# Privacy Policy - Joomlage
 
 **What information do we collect?**  
 We collect information from you when you place an order or subscribe to our newsletter.  
