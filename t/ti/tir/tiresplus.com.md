@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tiresplus.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104183223id_/http%3A//www.tiresplus.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiresplus.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513000253id_/http%3A//www.tiresplus.com/privacy_statement) for the most accurate reproduction.*
 
 # Privacy statement | Tires Plus Total Car Care
 
@@ -15,7 +15,7 @@ This Privacy Policy explains how Tires Plus Total Car Care collects, uses and di
  **Information Collection and Use.**  
  **1\. Information Collection.** Tires Plus Total Car Care may collect information from you at several different points and in different ways on this Site Tires Plus Total Car Care will ask you for your permission before Tires Plus Total Car Care collects any information that personally identifies you or allows Tires Plus Total Car Care to contact you. Tires Plus Total Car Care's primary goal in collecting personal information from you is to provide you with an efficient, meaningful and customized experience. For example, Tires Plus Total Car Care can use your personal information to:
 
- **(a) Registration.** To use this Site, or certain portions or features of the Site, you may be required to first complete an online registration form. During registration you will be prompted to provide to Tires Plus Total Car Care certain personal information, including but not limited to your name, address, phone number and e-mail address.
+ **(a) Registration.** To use this Site, or certain portions or features of the Site, you may be required to first complete an online registration form. During registration you will be prompted to provide to Tires Plus Total Car Care certain personal information, including but not limited to your name, address, phone number and email address.
 
  **(b) Cookies.** "Cookies" are small pieces of information that are stored by a user's Internet browser on a user's hard drive. The Site may store some information on your computer in the form of a cookie or similar file, however This Site does not use permanent cookies that contain any personally identifying information, such as your name or address. The cookies allow us to recognize you when you return to our site and to provide you with a customized experience that we feel will be of value to you. Most web browsers allow you to exercise control over cookie files on your computer by erasing them, blocking them, or notifying you when such a file is stored. Please take a look at your particular browser for instructions on this function. If you do elect to disable the Site's cookies, please note that you may not be able to take full advantage of the Site.
 
@@ -42,4 +42,4 @@ Upon your request, Tires Plus Total Car Care will (a) remove your personal infor
  **Updates to This Policy**  
 If Tires Plus Total Car Care decides to change or update this Privacy Policy, Tires Plus Total Car Care will post changes and updates on this Site so that you will always be aware of what information Tires Plus Total Car Care collects, uses and distributes. Tires Plus Total Car Care encourages you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about Tires Plus Total Car Care's Privacy Policy, please use the "Contact Us" section of this Site.
 
- **© 2011 Tires Plus Total Car Care. All rights reserved.**
+ **© 2012 Tires Plus Total Car Care. All rights reserved.**
