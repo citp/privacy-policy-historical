@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outdoorpros.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228033701id_/http%3A//www.outdoorpros.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorpros.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512033244id_/http%3A//www.outdoorpros.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy at OutdoorPros.com
 
@@ -104,7 +104,7 @@ Compliance with Service of Process or Law Enforcement: Occasionally OutdoorPros.
 
 Sweepstakes and Drawings: Where you enter a sweepstakes, drawing or other promotion, we may provide entry information, including name, address, email address and age to the company providing the prize or sponsoring the promotion. They may use your Personally Identifiable Information to send you marketing or promotional materials or other communications. 
 
-#### How can you update or correct your Personally Identifieable Information?
+#### How can you update or correct your Personally Identifiable Information?
 
 We believe you should have the ability to access and edit the personal information that you have provided to us. During the online ordering process you can review, change, or delete the information that you have submitted. You may change any of your personal information in your account online at any time. We encourage you to promptly update your information if it changes. You may ask to have the information on your account deleted or removed; however, because we keep track of past purchases, you cannot delete information associated with past purchases. Also, as a security measure we "back up" the data stored on our systems, and such prior information cannot be completely removed from our databases. As a result, you should not expect that all of your Personally Identifiable Information will be completely removed from our backed-up databases. 
 
@@ -120,7 +120,7 @@ In order to most efficiently serve you, credit card transactions and order fulfi
 
 When you access your account information, the information is kept on a secure server. All of the customer data we collect is protected against unauthorized access by physical security means.
 
-#### A special note about childrens privacy
+#### A special note about children's privacy
 
 You must be at least 18 years old to have our permission to use this site. Our policy is that we do not knowingly collect, use or disclose Personally Identifiable Information about visitors under 13 years of age. If you are the parent or guardian of a child under 13 years of age and believe that they have disclosed personally identifiable information to us, please contact us at [info@OutdoorPros.com](mailto:info@OutdoorPros.com) so that we may delete the child's information. 
 
