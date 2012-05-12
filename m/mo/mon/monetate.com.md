@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the monetate.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205014336id_/http%3A//monetate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monetate.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512131943id_/http%3A//monetate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Monetate
 
 **Monetate.com Website Privacy Policy**
 
-At Monetate we respect the privacy of visitors to our web site. Because we sometimes gather personally identifiable information from visitors to our website (the “Website”), we have established this privacy policy (“Website Privacy Policy” or “WPP”) as a means to communicate our personal information gathering and dissemination practices. 
+At Monetate we respect the privacy of visitors to our website. Because we sometimes gather personally identifiable information from visitors to our website (the “Website”), we have established this privacy policy (“Website Privacy Policy” or “WPP”) as a means to communicate our personal information gathering and dissemination practices.
 
-Monetate will treat your personal information in accordance with the privacy statement in place at the time of collection of such information, or as you otherwise consent. By using this Website, you are agreeing to the terms of the Website Privacy Policy. 
+Monetate will treat your personal information in accordance with the privacy statement in place at the time of collection of such information, or as you otherwise consent. By using this Website, you are agreeing to the terms of the Website Privacy Policy.
 
 We reserve the right to change the Website Privacy Policy. If we decide to make a material change to the Website Privacy Policy, we will post a notice at least 30 days prior to making any material changes. Your continued use of this Website, including use after the posting of any changes to these terms, will be deemed acceptance by you of the Website Privacy Policy.
 
@@ -22,15 +22,15 @@ If you choose to request information about our products and services we may ask 
 
 **Information Use and Disclosure**
 
-Monetate uses the information voluntarily provided by visitors to the Website to contact them to further discuss interest in our company and our services. This information may also be used to improve the services we provide. The information is collected and stored in a manner that is appropriate for the nature of the data that we collect, and the need to fulfill your request. This information is not provided to third parties for their own use unless specifically authorized by you. Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law, or in order to comply with a current judicial proceeding, a court order, or legal process served on the Website. 
+Monetate uses the information voluntarily provided by visitors to the Website to contact them to further discuss interest in our company and our services. This information may also be used to improve the services we provide. The information is collected and stored in a manner that is appropriate for the nature of the data that we collect, and the need to fulfill your request. This information is not provided to third parties for their own use unless specifically authorized by you. Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law, or in order to comply with a current judicial proceeding, a court order, or legal process served on the Website.
 
 Certain personal information that we collect on the Website may be transferred among our Subsidiaries or other third parties solely for the purposes of processing your request or arranging delivery of your subscription, product, or service that you have requested. We may store and process personal information in the United States or any other country in which we (or any of our Subsidiaries or agents) maintain facilities.
 
 **About Cookies**
 
-A ‘cookie’ is a small file containing a string of characters that is sent to your computer when you visit a website. Most major websites such as Google and Amazon.com use cookies to improve the quality of their service and to better understand how people interact with them. The use of cookies on this Website allows visitors to enjoy more seamless visits and enables us to more accurately measure visitor behavior on the Website. 
+A ‘cookie’ is a small file containing a string of characters that is sent to your computer when you visit a website. Most major websites such as Google and Amazon.com use cookies to improve the quality of their service and to better understand how people interact with them. The use of cookies on this Website allows visitors to enjoy more seamless visits and enables us to more accurately measure visitor behavior on the Website.
 
-There are several types of cookies: session cookies, persistent cookies, and Flash cookies. Session cookies exist only during an Internet user’s online session. They disappear from the user’s computer when he/she closes the browser software. Persistent cookies remain on the user’s computer after the browser has been closed. Flash cookies are a type of persistent cookie discussed later in this document. 
+There are several types of cookies: session cookies, persistent cookies, and Flash cookies. Session cookies exist only during an Internet user’s online session. They disappear from the user’s computer when he/she closes the browser software. Persistent cookies remain on the user’s computer after the browser has been closed. Flash cookies are a type of persistent cookie discussed later in this document.
 
 The cookies used on the Website do not identify you personally. They merely recognize your browser, unless you choose to identify yourself voluntarily. You may choose to identify yourself for any one of the following reasons: by asking the browser to remember your username and password, by responding to a promotional offer, or by requesting more information on our product. Otherwise you remain anonymous.
 
@@ -40,9 +40,9 @@ When you come to our Website, our web server uses cookies to improve your intera
 
 **Controlling Our Use of Cookies**
 
-You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to sign in or use other interactive features of Monetate websites and services that depend on cookies. We use cookies to collect non-personal information; for example to learn about the behavior of visitors to our web site and how they respond to our marketing communications. The more we learn, the better we are able to provide relevant and interesting content and services. 
+You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to sign in or use other interactive features of Monetate websites and services that depend on cookies. We use cookies to collect non-personal information; for example to learn about the behavior of visitors to our web site and how they respond to our marketing communications. The more we learn, the better we are able to provide relevant and interesting content and services.
 
-We may set cookies through your browser, such as Microsoft Internet Explorer or Firefox, or by using Flash Cookies, also known as Flash Shared Objects or local shared objects. A local shared object is exactly like a browser cookie, except that it can also store data more complex than simple text. Shared objects, by themselves, cannot do anything to or with the data on your computer. More importantly, shared objects cannot access or remember your email address or other personal information unless you willingly provide such information. Responsible websites use this feature to provide a better user experience; however, you can use Adobe Flash Player security settings to control the degree to which local shared objects work. 
+We may set cookies through your browser, such as Microsoft Internet Explorer or Firefox, or by using Flash Cookies, also known as Flash Shared Objects or local shared objects. A local shared object is exactly like a browser cookie, except that it can also store data more complex than simple text. Shared objects, by themselves, cannot do anything to or with the data on your computer. More importantly, shared objects cannot access or remember your email address or other personal information unless you willingly provide such information. Responsible websites use this feature to provide a better user experience; however, you can use Adobe Flash Player security settings to control the degree to which local shared objects work.
 
 **Security**
 
@@ -54,7 +54,7 @@ The Website contains links to other websites. Monetate is not responsible for th
 
 **Opt-out and update policies**
 
-Monetate offers its Website visitors a means for controlling the use of session information. If, at any time after registering for information or ordering Monetate’s services (“Services”), you change your mind about receiving information from us or about the use of information volunteered by you, please send us a request specifying your new choice. 
+Monetate offers its Website visitors a means for controlling the use of session information. If, at any time after registering for information or ordering Monetate’s services (“Services”), you change your mind about receiving information from us or about the use of information volunteered by you, please send us a request specifying your new choice.
 
 We provide all visitors to the Website options for reviewing, changing, and modifying personally identifiable information previously provided. To update your organization’s profile, user profiles, billing information or to discontinue the Service, email privacy@monetate.com. Users can expect to receive a response to any such update request within fourteen (14) days of Monetate’s receipt of the same.
 
@@ -62,4 +62,4 @@ We and our Subsidiaries will provide you with a copy of any personal information
 
 **Contact Us:**
 
-If you have questions, concerns, or suggestions regarding our Privacy Policy, you should first contact our Privacy Department by email at [privacy@monetate.com](mailto:privacy@monetate.com). We may also be reached at the contact information on our [Contact Us](http://monetate.com/company/contact-us/) page.
+If you have questions, concerns, or suggestions regarding our Privacy Policy, you should first contact our Privacy Department by email at [privacy@monetate.com](mailto:privacy@monetate.com). We can also be reached at the contact information on our [Contact Us](http://monetate.com/company/contact-us/) page.
