@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tutzone.net privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016144440id_/http%3A//tutzone.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutzone.net privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512205603id_/http%3A//tutzone.net/privacy-policy) for the most accurate reproduction.*
 
-# TutZone | Privacy Policy
+# Privacy Policy
 
 **Privacy Policy for[TutZone](http://tutzone.net/)**
 
