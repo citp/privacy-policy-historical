@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wheatbellyblog.com privacy policy that was archived on 2011-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110912050146id_/http%3A//typ.trackyourplaque.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wheatbellyblog.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512021458id_/http%3A//typ.trackyourplaque.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Track Your Plaque Heart Disease Prevention and Reversal Online
 
