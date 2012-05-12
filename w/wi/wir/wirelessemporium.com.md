@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the wirelessemporium.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230234108id_/http%3A//www.wirelessemporium.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wirelessemporium.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512021623id_/http%3A//www.wirelessemporium.com/privacy.asp) for the most accurate reproduction.*
 
 # Buy Cell Phone Accessories from WirelessEmporium ?Cell phone Covers, Faceplates, Charms, Chargers, Batteries - Deep Discounts and Free Shipping
 
 ---  
   
-[](https://web.archive.org/)
+[](https://www.mcafeesecure.com/RatingVerify?ref=www.wirelessemporium.com)
 
 Free Same Day Shipping!
 
 90-DAY NO-HASSLE RETURNS  
   
-|  [](http://www.bbbonline.org/cks.asp?id=10310111381735436)   
+|  [](http://www.la.bbb.org/BusinessReport.aspx?CompanyID=13198065)   
 |  |  [Cell Phone Accessories](https://web.archive.org/index.asp) > WirelessEmporium.com Privacy Policy   
 ---  
 | 
@@ -54,8 +54,8 @@ CUSTOMER SERVICE
 
 CUSTOMER TESTIMONIALS
 
-"I just wanted to say that my new earbud is working GREAT! You have provided me with real human customer service in an efficient and effective manner. Great work! Thank you!"  
-\- Mary (Grand Rapids, MI) 
+"Wireless Emporium saved me over 50% from what the Verizon store was selling these accessories for. My daughter told me not to buy the cover or extracharger at the phone store and gave me your website. I will definitely let everyone I know at work, family, and friends what great customer service you have."  
+\- Pam (Naples, FL) 
 
 "The easiest web site I have ever used. Nice products and even better service. I have already recommended to friend."  
 \- Denise (Columbus, OH) 
@@ -65,4 +65,5 @@ SIGN UP TO RECEIEVE EXCLUSIVE OFFERS AND PROMOTIONS FROM WIRELESSEMPORIUM
   
 
 
-®™ Registered Trade Marks/Trade Marks shown here are owned by or licensed to Wireless Emporium Inc. All contents ©2002-2011 Wireless Emporium Inc. All right reserved. 
+®™ Registered Trade Marks/Trade Marks shown here are owned by or licensed to Wireless Emporium Inc. All contents ©2002-2012 Wireless Emporium Inc. All right reserved.  
+
