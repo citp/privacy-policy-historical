@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dotcloud.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011095044id_/https%3A//www.dotcloud.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotcloud.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512160322id_/https%3A//www.dotcloud.com/privacy) for the most accurate reproduction.*
 
-# DotCloud - Privacy Policy
+# dotCloud - Privacy Policy
 
 **DotCloud Privacy Policy**
 
