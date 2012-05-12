@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rocketlanguages.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210150543id_/http%3A//www.rocketlanguages.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketlanguages.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512174502id_/http%3A//www.rocketlanguages.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Rocket Languages Privacy Policy
 
 #### **General**
 
-Your use of this website is governed by our [Terms of Use](http://www.rocketlanguages.com/terms.php). Accordingly, this Privacy Policy must be read in conjunction with our [Terms of Use](http://www.rocketlanguages.com/terms.php).
+Your use of this website is governed by our [Terms of Use](https://web.archive.org/web/20120512174502id_/http%3A//www.rocketlanguages.com/terms.php). Accordingly, this Privacy Policy must be read in conjunction with our [Terms of Use](https://web.archive.org/web/20120512174502id_/http%3A//www.rocketlanguages.com/terms.php).
 
 ####  **Information Collection and Use**
 
@@ -47,6 +47,6 @@ If we change our privacy policy, we will post those changes via the Privacy Poli
 Thank you for visiting this Libros Media Ltd. website.  
 
 
-Libros Media Ltd - Copyright 2004-2011 | [support@rocketlanguages.com](mailto:%20support@rocketlanguages.com)  
+Libros Media Ltd - Copyright 2004-2012 | [support@rocketlanguages.com](https://web.archive.org/web/20120512174502id_/http%3A//www.rocketlanguages.com/contact.php)  
 USA: 8721 Santa Monica Blvd #1229, Los Angeles, CA 90069-4057, USA | Phone: +1-310-862-1460  
 Asia/Pacific: 2-1008 Ferry Road, Woolston, Christchurch 8023, New Zealand | Phone: +64-3-384-6350 
