@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articlespedia.org privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129054007id_/http%3A//www.articlespedia.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlespedia.org privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512123039id_/http%3A//www.articlespedia.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ArticlesPedia - Unique Articles Source
+# Privacy Policy - ArticlesPedia - Unique Articles Source | ArticlesPedia - Unique Articles Source
 
 **What information do we collect?**
 
@@ -65,5 +65,3 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 http://www.ArticlesPedia.org
-
-Popularity: -10% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
