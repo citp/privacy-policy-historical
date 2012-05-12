@@ -1,17 +1,17 @@
-<!--The following is the downloaded HTML source of the calendars.com privacy policy that was archived on 2010-02-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100219045303id_/http%3A//www.fuzeqna.com/calendars/consumer/kbdetail.asp%3Fkbid%3D41) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the calendars.com privacy policy that was archived on 2012-05-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120512153238id_/http%3A//www.fuzeqna.com/calendars/consumer/kbdetail.asp%3Fkbid%3D41) for the most accurate reproduction.-->
 
-<html><head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="keywords" content="Fuze Q&amp;A, Fuze Suite, Fuze QnA, FAQ, Frequently Asked Questions, eService, CRM, eCRM, Help Desk, helpdesk, Self Service, self-service, customer service, customer care, customer support, technical support, Call Center, Knowledge Management, knowledge base, knowledgebase,  RightNow, Right Now, Kana, Servicesoft, Service Soft, Primus, Remedy, Software911, Touchscape, e.piphany">
-<title>What is your Privacy Policy?</title>
-
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="keywords" content="Fuze Q&amp;A, Fuze Suite, Fuze QnA, FAQ, Frequently Asked Questions, eService, CRM, eCRM, Help Desk, helpdesk, Self Service, self-service, customer service, customer care, customer support, technical support, Call Center, Knowledge Management, knowledge base, knowledgebase,  RightNow, Right Now, Kana, Servicesoft, Service Soft, Primus, Remedy, Software911, Touchscape, e.piphany">
+	<title>
+		Privacy Policy</title>
+	
  <link rel="stylesheet" href="/calendars/css/styles.asp?m=x" type="text/css">
-<script language="JavaScript" type="text/javascript" src="../includes/jspellSettings.js" charset="ISO-8859-1"></script>
-<script language="JavaScript" type="text/javascript" src="../includes/jspellEvolution.js" charset="ISO-8859-1"></script>
-
-<script language="JavaScript">
+     
+	<script language="JavaScript" type="text/javascript" src="../includes/jspellSettings.js" charset="ISO-8859-1"></script>
+	<script language="JavaScript" type="text/javascript" src="../includes/jspellEvolution.js" charset="ISO-8859-1"></script>
+	<script language="JavaScript">
 //Description	: Shared javascript validation
 //Last Modified	: S.Wijaya [02/21/2001]
 //Main Changes	: Comments
@@ -397,23 +397,12 @@ function rightTrim(stringToTrim) {
 }
 
 function ShowPopup(popupname) {
-	var obj = document.all[popupname];
-    /* get the mouse left position */
-    /* x = event.clientX + document.body.scrollLeft; */
-    /* get the mouse top position  */
-    /* y = event.clientY + document.body.scrollTop + 35; */
-    /* display the pop-up */
+	var obj = document.getElementById(popupname);
     obj.style.display="block";
-    /* set the pop-up's left */
-    /* obj.style.left = 285; */
-    /* set the pop-up's top */
-    /* obj.style.top = y; */
 }
 
-/* this function hides the pop-up when user moves the mouse out of the link */
 function HidePopup(popupname) {
-	var obj = document.all[popupname];
-    /* hide the pop-up */
+	var obj = document.getElementById(popupname);
     obj.style.display="none";
 }
 
@@ -579,21 +568,91 @@ function textAreaCharacterCount(description, maxlength, counterID) {
     }
 }
 
-String.prototype.trim = function() {
-    return this.replace(/^\s+|\s+$/g,"");
+/*
+if (typeof String.prototype.trim !== 'function') {
+    String.prototype.trim = function () {
+        return this.replace(/^\s+|\s+$/g, "");
+    }
 }
-String.prototype.ltrim = function() {
-    return this.replace(/^\s+/,"");
+
+if (typeof String.prototype.ltrim !== 'function') {
+    String.prototype.ltrim = function () {
+        return this.replace(/^\s+/, "");
+    }
 }
-String.prototype.rtrim = function() {
-    return this.replace(/\s+$/,"");
+if (typeof String.prototype.rtrim !== 'function') {
+    String.prototype.rtrim = function () {
+        return this.replace(/\s+$/, "");
+    }
 }
+*/
+function passwordStrength(password)
+{ 
+    var desc = new Array();
+    desc[0] = "Very Weak";
+    desc[1] = "Weak";
+    desc[2] = "Better";
+    desc[3] = "Medium";
+    desc[4] = "Strong";
+    desc[5] = "Strongest";
+    var score = 0; 
+    
+    //if password bigger than 6 give 1 point 
+    if (password.length > 6) score++; 
+    //if password has both lower and uppercase characters give 1 point 
+    if ( ( password.match(/[a-z]/) ) && ( password.match(/[A-Z]/) ) ) score++; 
+    //if password has at least one number give 1 point 
+    if (password.match(/\d+/)) score++;
+    //if password has at least one special caracther give 1 point 
+    if ( password.match(/.[!,@,#,$,%,^,&,*,?,_,~,-,(,)]/) ) score++;
+    //if password bigger than 12 give another 1 point 
+    if (password.length > 12) 
+        score++;
+        
+    document.getElementById("passwordStrength").innerHTML = desc[score];
+    document.getElementById("passwordStrength").className = "pwdstrength" + score;
+}
+
+function stripHTML(strHTML){
+    var retStr;
+
+    var regex = new RegExp("<[^>]*>", ["g"]);
+    retStr = strHTML.replace(/<[^>]*>/g, " ");
+    
+    retStr = retStr.replace("&nbsp;", " ");
+    retStr = retStr.replace("&nbsp", " ");
+    retStr = retStr.replace("&quot;", " ");
+    retStr = retStr.replace("&quot", " ");
+    retStr = retStr.replace("&amp;", " ");
+    retStr = retStr.replace("&amp", " ");
+    
+    return retStr;
+}
+
+function replaceQueryString(url, param, value) {
+    if (url.lastIndexOf('?') <= 0) url = url + "?";
+
+    var re = new RegExp("([?|&])" + param + "=.*?(&|$)", "i");
+    if (url.match(re))
+        return url.replace(re, '$1' + param + "=" + value + '$2');
+    else
+        return url.substring(url.length - 1) == '?'
+            ? url + param + "=" + value
+            : url + '&' + param + "=" + value;
+}
+
 
 jspellServerPath="//calendars/includes/jspell_proxy.aspx";
 jspellTextLanguage="enUS";
 
 var fieldsToCheck=new Array(0);
 fieldsToCheck[0]=[document,"communitycomment"];
+
+var AnnouncementCategoryID = "";
+var AnnouncementCatIncludeChildren = "true";
+var SingleSignOnOnlyConsumer = "false";
+var PageVersion = "1";
+var CSRsPrivateAnnouncementsOnly = "";
 
 var commentdefault = true;
 
@@ -611,12 +670,11 @@ function getSpellCheckArray() {
 }
 
 function popupFile() {
-	//newwin = window.open('FILE://\\\\10.1.2.3\\c$\\Inetpub\\fuzeds\\test2.doc','myWindow','scrollbars=yes,toolbar=yes,status=no,resizable=yes,width=600,height=400')
-	newwin = window.open("",'myWindow','scrollbars=yes,toolbar=yes,status=no,resizable=yes,width=600,height=400')
+	newwin = window.open("",'myWindow','scrollbars=yes,toolbar=yes,status=no,resizable=yes,width=1000,height=800')
 }
 
 function popup(fileName) {
-	newwin = window.open(fileName,'myWindow','scrollbars=yes,status=no,toolbar=yes,resizable=yes,width=600,height=400')
+	newwin = window.open(fileName,'myWindow','scrollbars=yes,status=no,toolbar=yes,resizable=yes,width=1000,height=800')
 }
 
 function targetOpener(url) {
@@ -697,82 +755,102 @@ function EraseComment() {
 	}
 }
 
+function ThisAnsweredMyQuestion(){
+    var QueryString;
+    //if (request.ServerVariables("QUERY_STRING").IndexOf("AnsweredMyQuestion") > 0)
+	var hdnFormaction = document.createElement("input"); 
+	hdnFormaction.type = "hidden";
+	hdnFormaction.name = "formaction";
+	hdnFormaction.value = "amq";
+	document.mainform.appendChild(hdnFormaction);
+    return true;
+	//window.location.href="/calendars/consumer/kbdetail.asp?kbid=41&formaction=amq&viewguid=6172E1F4-FF76-42D6-8F31-99C347EB2D4E";
+}
+
+function ThisDidNotAnswerMyQuestion() {
+	
+	//alert("search.asp?");
+    window.location.href="search.asp?";
+	return false;		
+}
+
 //-->
-</script>
+	</script>
+	
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/dojo/1.6.1/dojo/dojo.xd.js" djconfig="modulePaths:{	
+				'dojo': 'https://ajax.googleapis.com/ajax/libs/dojo/1.6.1/dojo', 
+				'dijit': 'https://ajax.googleapis.com/ajax/libs/dojo/1.6.1/dijit'
+				}, 			
+		  parseOnLoad: true"></script>
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/dojo/1.6.1/dijit/dijit.js" djconfig="modeulPatparseOnLoad: true"></script>
+    <link rel="stylesheet" type="text/css" href="//ajax.googleapis.com/ajax/libs/dojo/1.6.1/dijit/themes/tundra/tundra.css">
 
-    
-        <script type="text/javascript" src="/calendars/fuzedojo/dojo/dojo.xd.js" djconfig="parseOnLoad: true,isDebug: false"></script>
-        <script type="text/javascript" src="/calendars/fuzedojo/dojo/fuzedojo.xd.js" djconfig="parseOnLoad: true"></script>
-
-    
-    <link rel="stylesheet" type="text/css" href="/calendars/fuzedojo/dijit/themes/tundra/tundra.css">
-
-<link rel="stylesheet" type="text/css" href="/calendars/fuzedojo/dijit/themes/tundra/tundra.css">
-<script type="text/javascript">
-	dojo.require("dojo.parser"); // scan page for widgets
-    dojo.require("dijit.Dialog");
-    dojo.require("dijit.form.Slider");
-    dojo.require("dijit.Tooltip");
-</script>
+	<script type="text/javascript">
+		dojo.require("dojo.parser"); // scan page for widgets
+		dojo.require("dijit.Dialog");
+		dojo.require("dijit.form.Slider");
+		dojo.require("dijit.Tooltip");
+	</script>
 	<!-- end javascripts for fancy visuals (dojo) -->
-
 </head>
 
-
-<body topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" class="tundra">
-
-<!--div used for link "alt tags"-->
-<div id="MyDivPopUp" style="display: none; left: 621px; visibility: visible; top: 698px; position: absolute; z-index: 200"></div>
-<script language="javascript">
+	<body topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" class="tundra">
+		
+		<!--div used for link "alt tags"-->
+		<div id="MyDivPopUp" style="display: none; left: 621px; visibility: visible; top: 698px;
+			position: absolute; z-index: 200">
+		</div>
+		<script language="javascript">
 <!--
-	Xoffset= 10;    // modify these values to ...
-	Yoffset= 20;    // change the popup position.
-	var old,skn,iex=(document.all),yyy=-1000;
-	var ns4=document.layers
-	var ns6=document.getElementById&&!document.all
-	var ie4=document.all
-	if (ns4){
-		skn=document.MyDivPopUp
-	}else if (ns6){
-		skn=document.getElementById("MyDivPopUp").style
-	}else if (ie4){
-		skn=document.all.MyDivPopUp.style
-	}
-	if(ns4){
-		document.captureEvents(Event.MOUSEMOVE);
-	}else{
-		skn.visibility="visible"
-		skn.display="none"
-	}
-	document.onmousemove=get_mouse;
-								
-	function popIt(msg){
-		var content="<TABLE BORDER=0 BORDERCOLOR=black CELLPADDING=1 CELLSPACING=0 BGCOLOR='#000000'><TD><TABLE CELLSPACING=0 CELLPADDING=5 BORDER=0 WIDTH='100%' BGCOLOR='#FFFFE2'><TR><TD><SPAN CLASS=smalltxt>"+msg+"</TD></TR></TABLE></TD></TABLE>";
-		yyy=Yoffset;
-		if(ns4){skn.document.write(content);skn.document.close();skn.visibility="visible"}
-		if(ns6){document.getElementById("MyDivPopUp").innerHTML=content;skn.display=''}
-		if(ie4){document.all("MyDivPopUp").innerHTML=content;skn.display=''}
-	}
+			Xoffset = 10;    // modify these values to ...
+			Yoffset = 20;    // change the popup position.
+			var old, skn, iex = (document.all), yyy = -1000;
+			var ns4 = document.layers
+			var ns6 = document.getElementById && !document.all
+			var ie4 = document.all
+			if (ns4) {
+				skn = document.MyDivPopUp
+			} else if (ns6) {
+				skn = document.getElementById("MyDivPopUp").style
+			} else if (ie4) {
+				skn = document.all.MyDivPopUp.style
+			}
+			if (ns4) {
+				document.captureEvents(Event.MOUSEMOVE);
+			} else {
+				skn.visibility = "visible"
+				skn.display = "none"
+			}
+			document.onmousemove = get_mouse;
 
-	function get_mouse(e){
-		var x=(ns4||ns6)?e.pageX:event.x+document.body.scrollLeft;
-		skn.left=x+Xoffset;
-		var y=(ns4||ns6)?e.pageY:event.y+document.body.scrollTop;
-		skn.top=y+yyy;
-	}
+			function popIt(msg) {
+				var content = "<TABLE BORDER=0 BORDERCOLOR=black CELLPADDING=1 CELLSPACING=0 BGCOLOR='#000000'><TD><TABLE CELLSPACING=0 CELLPADDING=5 BORDER=0 WIDTH='100%' BGCOLOR='#FFFFE2'><TR><TD><SPAN CLASS=smalltxt>" + msg + "</TD></TR></TABLE></TD></TABLE>";
+				yyy = Yoffset;
+				if (ns4) { skn.document.write(content); skn.document.close(); skn.visibility = "visible" }
+				if (ns6) { document.getElementById("MyDivPopUp").innerHTML = content; skn.display = '' }
+				if (ie4) { document.all("MyDivPopUp").innerHTML = content; skn.display = '' }
+			}
 
-	function killIt(){
-		yyy=-1000;
-		if(ns4){skn.visibility="hidden";}
-		else if (ns6||ie4)
-		skn.display="none"
-	}
+			function get_mouse(e) {
+				var x = (ns4 || ns6) ? e.pageX : event.x + document.body.scrollLeft;
+				skn.left = x + Xoffset;
+				var y = (ns4 || ns6) ? e.pageY : event.y + document.body.scrollTop;
+				skn.top = y + yyy;
+			}
+
+			function killIt() {
+				yyy = -1000;
+				if (ns4) { skn.visibility = "hidden"; }
+				else if (ns6 || ie4)
+					skn.display = "none"
+			}
 
 //-->
-</script>
-	
+		</script>
+			
+<script src="https://www.fuzeqna.com/calendars/js/widget_js.aspx?tkey=d2816b3f-790e-4b71-a1f7-338b79c3f717" type="text/javascript"></script>
 
-<center>
+
 
 
 <script language="javascript">
@@ -786,27 +864,21 @@ function EraseComment() {
 	function OpenLogin(referer, messagekey)
 	{
 	    var url = '/calendars/membership/consumer/login.asp?inline_login=true';
-	    //alert(referer);
-	    //alert(escape(referer));
 		
         var dialog = dijit.byId('logindialog');
-        //dialog.reset();
         if (referer) {
             url = url + "&msgkey=" + messagekey + "&referer=" + escape(referer);
         }
-        //alert(url);
         dialog.preventCache = true;
         var loginframe = document.getElementById('logininfo');
         loginframe.src = url;
         var c = dojo.connect(dialog, 'onCancel', dojo.hitch(dialog, setInitialSize));
-        //alert(c);
 	    dialog.show();
 	    //setTimeout("loginFocus();", 500);
 	    
 	}
 	
 	function loginFocus() {
-	    //some hack because dojo was resetting the focus after it loaded the page
 	    if (window.frames['logininfo'].document.forms['loginform'].elements['username'])
 	        window.frames['logininfo'].document.forms['loginform'].elements['username'].focus();
   	}
@@ -838,20 +910,21 @@ function help() {
 
 
 <div id="logindialog" dojotype="dijit.Dialog" title="Login" duration="1" class="tundra" style="display:none;padding:0px;" border="1" height="300" width="500">
-    <iframe height="300" width="500" src="/calendars/static/empty.html" frameborder="0" name="logininfo" id="logininfo" scrolling="no"></iframe>
+    <iframe height="300" width="500" src="/calendars/membership/consumer/login.asp?inline_login=true&amp;msgkey=login_messaging_personal_info&amp;referer=https://www.fuzeqna.com/calendars/consumer/mypastquestion.asp" frameborder="0" name="logininfo" id="logininfo" scrolling="auto"></iframe>
 </div>	
 <map name="Map">
-	<area shape="rect" coords="4,63,283,109" href="javascript:setParent('http://www.calendars.com');">
-	<area shape="rect" coords="284,64,504,113" href="javascript:setParent('http://www.dogbreedstore.com');">
-	<area shape="rect" coords="505,64,755,113" href="javascript:setParent('http://www.calendarclub.com');">
+	<area shape="rect" coords="14,60,330,109" href="javascript:setParent('http://www.calendars.com');">
+	<area shape="rect" coords="350,45,525,113" href="javascript:setParent('http://www.dogbreedstore.com');">
+	<area shape="rect" coords="550,55,720,113" href="javascript:setParent('http://www.calendarholdings.com');">
 </map>
 <script language="JavaScript">
 <!--
 function setParent(url) {
 	if (window.opener) {
 		if (!window.opener.closed) {
-			window.opener.location = url;
-			window.close();
+		    window.open(url);
+            //window.opener.location = url;
+			//window.close();
 		} else window.location = url;
 	} else {
 		window.location = url;
@@ -866,7 +939,7 @@ function setParent(url) {
 	<td colspan="3">
 		<table cellpadding="0" cellspacing="0" border="0">
 		<tbody><tr>
-			<td colspan="7"><img src="https://www.fuzeqna.com/calendars/includes/customer/calendars/images/logos.jpg" border="0" usemap="#Map"></td>
+			<td colspan="7"><img src="https://www.fuzeqna.com/calendars/includes/customer/calendars/images/Calendars_logo.jpg" border="0" usemap="#Map"></td>
 		</tr>
 		<tr>
 			<td colspan="7"><img src="https://www.fuzeqna.com/calendars/includes/customer/calendars/images/spacer.gif" width="730" height="1"></td>
@@ -908,8 +981,8 @@ function setParent(url) {
 		</tr>
 	</tbody></table>
 </td>
-			<td valign="top" width="1">
-				<table width="100%" cellpadding="0" cellspacing="0" border="0">
+			<td valign="top" width="1" id="fuzeNavMinHeightContainer">
+				<table width="100%" cellpadding="0" cellspacing="0" border="0" id="fuzeNavSpacerTable1">
 					<tbody><tr>
 						<td><img src="/calendars/images/spacer.gif" height="360" width="1" border="0" alt=""></td>
 					</tr>
@@ -918,85 +991,115 @@ function setParent(url) {
 			<td valign="top">
 			
 			
-	<!--this table is here to pad out the page & force a scroll bar-->
-	<table width="100%" cellpadding="0" cellspacing="0" border="0" class="BigTable">
-		
-			<tbody><tr><td valign="top">
-		
-		<style>
+			<!--this table is here to pad out the page & force a scroll bar-->
+			<table width="100%" cellpadding="0" cellspacing="0" border="0" class="BigTable">
+				
+				<tbody><tr><td valign="top">
+					<style>
 			.FuzeKBDTopRow{height:15px;}
-		</style>	
-		<table width="100%" cellpadding="0" cellspacing="0" border="0">
-			<tbody><tr><td class="FuzeKBDTopRow"></td></tr>
-			<tr><td>
-				
-			</td></tr>
-			<tr><td>
-			
-	<table cellspacing="0" cellpadding="0" border="0">
+		</style>
+					<table width="100%" cellpadding="0" cellspacing="0" border="0">
+						<tbody><tr>
+							<td class="FuzeKBDTopRow">
+							</td>
+						</tr>
+						<tr>
+							<td>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								
+<table cellspacing="0" cellpadding="0" border="0" class="fuzeKBDTopLinks">
 	
-		<tbody><tr>
-			<td align="left" class="kbdetailnewnav" nowrap="" valign="bottom">														
-<a href="kbdetail.asp?kbid=41&amp;p=t" target="_new"><img src="../images/printicon2.gif" border="0" title="Print This Item" alt="Print This Item" class="KBDNavIcon" id="fuze_KBNav_print"></a>
-<a href="kbdetail.asp?kbid=41&amp;p=t" target="_new" class="normallink" id="KBD_PrintLink">Print</a>
-</td>
+	<tbody><tr>
+		<td align="left" class="kbdetailnewnav" nowrap="" valign="bottom">
 			
-			<td align="left" class="kbdetailnewnav" nowrap="" valign="bottom">	
-	<a href="emailfaq.asp?kbid=41">
-	<img src="../images/emailicon2.gif" border="0" title="Email This Item" alt="Email This Item" class="KBDNavIcon"></a>
-	<a href="emailfaq.asp?kbid=41" class="normallink" id="KBD_EmailFaqLink">
-	E-mail</a>
-</td>
-			
-			<td align="left" class="kbdetailnewnav" nowrap="" valign="bottom">
-	<a href="question.asp"><img title="Contact Us" alt="Contact Us" src="../images/questionmark8.gif" border="0" class="KBDNavIcon"></a>
-	<a href="question.asp" class="normallink" id="KBD_ContactUsLink">Contact</a>
-	</td>
-				
-			<td align="left" class="kbdetailnewnav" nowrap="" valign="bottom">
-<a href="#related"><img title="View Related Info" alt="View Related Info" src="../images/link1.gif" border="0" class="KBDNavIcon"></a>
-<a href="#related" class="normallink" id="KBD_RelatedItemLink">Related</a>
-</td>
-			
-			<td align="left" class="kbdetailnewnav" nowrap="" valign="bottom">
-<a href="javascript:void(0);" onclick="javascript:AddBookMark(window.location.href, 'Calendars.com Item#41');"><img title="Bookmark This Item" alt="Bookmark This Item" src="../images/bookmarkicon2.gif" border="0" class="KBDNavIcon"></a>
-<a href="javascript:void(0);" onclick="javascript:AddBookMark(window.location.href, 'Calendars.com Item#41');" class="normallink" id="KBD_BookmarkLink">Bookmark</a>
-</td>
-			
-			<td align="right" width="100%" valign="bottom">			
-	<a class="normallink" id="KBD_Search_Link" href="search.asp?">Search</a>
-</td>
-			
-		</tr>
+					<a href="kbdetail.asp?kbid=41&amp;p=t" target="_new">
+						<img src="../images/printicon2.gif" border="0" title="Print This Item" alt="Print This Item" class="KBDNavIcon" id="fuze_KBNav_print"></a>
+					<a href="kbdetail.asp?kbid=41&amp;p=t" target="_new" class="normallink" id="KBD_PrintLink">
+						Print</a>
+					
+		</td>
 		
-		<tr>
-			<td colspan="5" class="kbdetailnewnav" style="padding-top:10px;" nowrap="">
-				<table cellspacing="0" cellpadding="2" valign="top" border="0">
-					<tbody><tr>
-						
-							<td valign="top" class="kbdetailnewnav" id="KBD_BreadCrumbLabel&quot;" nowrap=""><b>View all items in:</b></td>
-							<td valign="top" class="kbdetailnewnav" id="KBD_BreadCrumbs&quot;" style="white-space:nowrap;width:100%;" nowrap=""> <a class="normallink" href="search.asp?catID1=6">Privacy Policy</a><br></td>
-						
-                      <!--                                            -->  
-					</tr>
+		<td align="left" class="kbdetailnewnav" nowrap="" valign="bottom">
+			
+					<a id="KBD_EmailFaqLink_icon" href="emailfaq.asp?kbid=41">
+						<img src="../images/emailicon2.gif" border="0" title="Email This Item" alt="Email This Item" class="KBDNavIcon"></a>
+					<a href="emailfaq.asp?kbid=41" class="normallink" id="KBD_EmailFaqLink">
+						E-mail</a>
+					
+		</td>
 		
+		<td align="left" class="kbdetailnewnav" nowrap="" valign="bottom">
+			
+					<a href="question.asp">
+						<img title="Contact Us" alt="Contact Us" src="../images/questionmark8.gif" border="0" class="KBDNavIcon"></a> <a href="question.asp" class="normallink" id="KBD_ContactUsLink">
+								Contact</a>
+					
+		</td>
+		
+		<td align="left" class="kbdetailnewnav" nowrap="" valign="bottom">
+			
+					<a href="#related">
+						<img title="View Related Info" alt="View Related Info" src="../images/link1.gif" border="0" class="KBDNavIcon"></a> <a href="#related" class="normallink" id="KBD_RelatedItemLink">
+								Related</a>
+					
+		</td>
+		
+		<td align="left" class="kbdetailnewnav" nowrap="" valign="bottom">
+			
+					<a href="javascript:void(0);" onclick="javascript:AddBookMark(window.location.href, 'Calendars.com Item#41');">
+						<img title="Bookmark This Item" alt="Bookmark This Item" src="../images/bookmarkicon2.gif" border="0" class="KBDNavIcon" id="KBD_BookmarkLink_Icon"></a>
+					<a href="javascript:void(0);" onclick="javascript:AddBookMark(window.location.href, 'Calendars.com Item#41');" class="normallink" id="KBD_BookmarkLink">
+						Bookmark</a>
+					
+		</td>
+		
+		<td align="right" width="100%" valign="bottom" id="KBD_Search_Link_cell">
+			
+					<a class="normallink" id="KBD_Search_Link" href="search.asp?">
+						Search</a>
+					
+		</td>
+		
+	</tr>
+	<tr>
+		<td colspan="5" class="kbdetailnewnav" style="padding-top: 10px;" nowrap="">
+			<table cellspacing="0" cellpadding="2" valign="top" border="0">
+				<tbody><tr>
+					
+					<td valign="top" class="kbdetailnewnav" id="KBD_BreadCrumbLabel" nowrap="">
+						<b>
+							View all items in:
+					</b></td>
+					<td valign="top" class="kbdetailnewnav" id="KBD_BreadCrumbs" style="white-space: nowrap;
+						width: 100%;" nowrap="">
+						 <a class="normallink" href="search.asp?catID1=6">Privacy Policy</a><br>
+					</td>
+					
+					<!--                                            -->
+		
+	</tr>
+	
 					</tbody></table>
 				</td>
 				
-				<td width="100%"></td>
+				<td width="100%">
+					
+				</td>
 				
-			</tr>
-		</tbody></table>
-		
-	</td>
-</tr>
-
-<tr>
-	<td border="0" class="CommunityFeaturesContainer">
-		<table border="0" cellpadding="0" cellspacing="0">
-			<tbody><tr>
-				<td>
-				
+				</tr>
+			</tbody></table>
+			
+			</td> </tr>
+			
+			<tr>
+				<td border="0" class="CommunityFeaturesContainer">
+					<table border="0" cellpadding="0" cellspacing="0">
+						<tbody><tr>
+							<td>
+								
 
 <style type="text/css" id="ratingdialogstyles">
 #KBRatingSlider .dijitSliderImageHandleH {
@@ -1009,7 +1112,7 @@ function setParent(url) {
 #KBRatingDialog .dijitDialogPaneContent { 	background:#dae7f7; 	padding: 0;}
 .fuze_windowDiv {	width:428px;	background:#d3d3d3;}
 .Fuze_closeWindowBTN {	text-align:right; 	padding:3px; margin:5px;}
-.fuze_windowDivInner { padding:10px; background:#d3d3d3; 	border:0px #4169e1 solid; margin:0px; }
+.fuze_windowDivInner { padding:10px; background:#d3d3d3; 	border:0px #3f6db8 solid; margin:0px; }
 .fuze_windowDivInner h2 { 	font-size:13pt; }
 .fuze_windowDivInner p { font-size:10pt; 	line-height:10px; margin:5px 0; padding:5px 0; }        
 .fuze_textbox_red { color: #FF0000; }
@@ -1122,7 +1225,8 @@ function setParent(url) {
 
 <div id="new_fuze_community_features_box">
 	<span><strong>Rating:</strong>
-		&nbsp;<span style="font-weight:normal;">Unrated</span>
+		&nbsp;<span style="font-weight:normal;">9.00 out of 10 (4 Ratings)</span>
+		
 		<input type="button" id="btnRate" value="Rate" onclick="showRateDialog();">
 		
 	<div id="divParticipate" style="display:none;">
@@ -1160,7 +1264,7 @@ function ParticipateClick(){
 #KBRatingDialog {padding: 0;}
 </style>
 <!--<div id="LoginDialog" dojoType="dijit.Dialog" style="width:625px; height: 525px; margin: 0; padding: 0;visibility: hidden" duration="1" href="../membership/consumer/login.asp?referer=/calendars/consumer/kbdetail.asp%3Fkbid%3D41%26show%3Dt&amp;inline_login=true"></div>-->
-<div id="KBRatingDialog" dojotype="dijit.Dialog" title="<span style='font-size:11pt;'>How would you rate this information?</span>" duration="1" style="display:none;">
+<div id="KBRatingDialog" dojotype="dijit.Dialog" title="<span style='font-size:11pt;'>How would you rate this information?</span>" duration="1" style="display:none;" draggable="false">
 <div class="fuze_windowDiv">
 	<div class="fuze_windowDivInner"><br>
     <div>    
@@ -1198,15 +1302,16 @@ function ParticipateClick(){
 	</div>
 	    
 	<div align="left" style="padding-top:10px;">
-	    <img src="../consumer/lanapbotdetecthandler.asp?Command=CreateImage&amp;TextStyle=14&amp;ImageWidth=150&amp;imageHeight=35&amp;CodeLength=3&amp;CodeType=0&amp;passKey=3719141" alt="">	
+	    <img src="../consumer/lanapbotdetecthandler.asp?Command=CreateImage&amp;TextStyle=14&amp;ImageWidth=150&amp;imageHeight=35&amp;CodeLength=3&amp;CodeType=0&amp;passKey=5030786" alt="">	
 	    &nbsp;
-	    <a href="javascript:popup('../consumer/lanapbotdetecthandler.asp?Command=CreateSound&amp;passKey=3719141');"><img src="../images/speaker.gif" alt="Play Sound" style="border:0;" width="22" height="22"></a>
+	    <a href="javascript:popup('../consumer/lanapbotdetecthandler.asp?Command=CreateSound&amp;passKey=5030786');"><img src="../images/speaker.gif" alt="Play Sound" style="border:0;" width="22" height="22"></a>
 	</div>
 	    <table width="100%">
 			<tbody><tr>
 				<td align="left" class="fuze_small_font">
 					Text found in image:&nbsp;
-					<input name="TextBoxUserCode" type="text" id="TextBoxUserCode" size="5"></td>
+					<input name="TextBoxUserCodeDojo" type="text" id="TextBoxUserCodeDojo" size="5">
+				</td>
 				<td align="right">
 					<input type="button" onclick="javascript:SubmitRating();" value="Submit" name="submit1" id="submit1"></td>
 		    </tr>
@@ -1229,7 +1334,7 @@ function SubmitRating(){
 		frm.comments.value = dojo.byId('surveycomments').value;
 	}
 	  
-	frm.TextBoxUserCode.value = dojo.byId('TextBoxUserCode').value;
+	frm.TextBoxUserCode.value = dojo.byId('TextBoxUserCodeDojo').value;
 	
 	
 	if (SurveyValidation()){
@@ -1261,9 +1366,9 @@ function SurveyValidation(){
 		}
 		  
 		//image text is required
-		if(dojo.byId('TextBoxUserCode').value==''){
+		if(dojo.byId('TextBoxUserCodeDojo').value==''){
 		  alert("Please enter the text found in the image");
-		  dojo.byId('TextBoxUserCode').focus();
+		  dojo.byId('TextBoxUserCodeDojo').focus();
 		  return false;
 		}
 		
@@ -1291,7 +1396,7 @@ function LogInForContests(){
 <input type="hidden" name="comments">
 <input type="hidden" name="ap" value="">
 <input type="hidden" name="ao" value="">
-<input type="hidden" name="passKey" value="3719141">
+<input type="hidden" name="passKey" value="5030786">
 <input type="hidden" name="formaction" value="survey">
 <input type="hidden" name="NickName">
 <input type="hidden" name="keyword" value="">
@@ -1302,180 +1407,228 @@ function LogInForContests(){
 <input type="hidden" name="TextBoxUserCode" value="">
 <input type="hidden" name="excludecomment" value="">
 </form>
-		
-				</td>
-			</tr>
-		</tbody></table>
-	</td>
-</tr>
 
-<tr>
-	<td>
-		<table width="100%" cellpadding="0" cellspacing="0" border="0">
-			
-			<tbody><tr>
-				<td><img src="../images/spacer.gif" width="1" height="1" alt=""></td>
-			</tr>
-			<tr>
-			
-				<td class="QuestionText">
-				What is your Privacy Policy?
-				</td>
-			
-			</tr>
-			
-		</tbody></table>
-		
-		<table width="100%" cellpadding="0" cellspacing="0" border="0">
-			
-			<tbody><tr>
-				<td>
-				<a id="answertext">
-				
-					<table width="100%" class="FuzeKBDetailAnswerTable" cellpadding="0" cellspacing="0" border="0">
-						
-						<tbody><tr>
-							<td>
-								<div>
-<div>
-<div>
-<div>
-<div>
-<p class="MsoNormal" style="margin: 0in 0in 0pt"><span style="font-size: 9pt; color: black; font-family: Verdana">We respect your privacy and are committed to protecting your personal information. This notice describes our privacy policy. By visiting Calendars.com or DogBreedStore.com, you are accepting the practices described in this privacy notice. </span></p>
-<p class="MsoNormal" style="margin: 0in 0in 0pt">&nbsp;</p>
-<p class="MsoNormal" style="margin: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><strong><span style="font-size: 9pt; color: black; font-family: Verdana">Information Collection</span></strong></p>
-<span style="font-size: 9pt; color: black; font-family: Verdana">
-<p class="MsoNormal" style="margin: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><br>
-When you visit the site, we collect some basic information that does not identify individual users. This includes the pages visited and the types of products purchased. We then aggregate this information with thousands of other pieces of information to improve our site and make your shopping time on the site as valuable and efficient as possible.</p>
-<p class="MsoNormal" style="margin: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">&nbsp;</p>
-</span>&nbsp;
-<p class="MsoNormal" style="margin: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="font-size: 9pt; color: black; font-family: Verdana">We will not rent or sell your name, address, email address, credit card information or personal information to any third party without your permission. However, we must cooperate fully should a situation arise where we are required by law or legal process to provide information about a customer. </span></p>
-<p class="MsoNormal" style="margin: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">&nbsp;</p>
-<p class="MsoNormal" style="margin: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><strong><span style="font-size: 9pt; color: black; font-family: Verdana">Information We Need</span></strong></p>
-<span style="font-size: 9pt; color: black; font-family: Verdana">
-<p class="MsoNormal" style="margin: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><br>
-When you order, we need to know your name, email address, shipping address, billing address, phone number, and credit card number with expiration date. This allows us to process and fulfill your order and to notify you of your order status. We ask for your phone number in the event that our customer service representatives or delivery services need to contact you about your order. To simply create an account, we will only need your name, email address, and a password.</p>
-<p class="MsoNormal" style="margin: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">&nbsp;</p>
-</span>&nbsp;
-<p class="MsoNormal" style="margin: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><strong><span style="font-size: 9pt; color: black; font-family: Verdana">Saved Information</span></strong></p>
-<p class="MsoNormal" style="margin: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="font-size: 9pt; color: black; font-family: Verdana"><br>
-We save the information about products you purchased to provide you with the best possible customer service and the most up-to-date information about your order. You can view your past and current orders online by logging into the My Account section with your private password. </span></p>
-<p class="MsoNormal" style="margin: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">&nbsp;</p>
-<p class="MsoNormal" style="margin: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="font-size: 9pt; color: black; font-family: Verdana">If you forget your password, we will first verify your identity and then email your password to the email address you have listed in your account. </span></p>
-<p class="MsoNormal" style="margin: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">&nbsp;</p>
-<p class="MsoNormal" style="margin: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><strong><span style="font-size: 9pt; color: black; font-family: Verdana">Changing Your Information</span></strong></p>
-<span style="font-size: 9pt; color: black; font-family: Verdana">
-<p class="MsoNormal" style="margin: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><br>
-If at any time you would like to change any information in your account, just go to the My Account link in the upper right-hand corner of each page. Here you can change or update your email address and password, billing address, payment options, shipping options, address book, and email preferences. Be sure to click Save My Changes when you have updated your account.</p>
-<p class="MsoNormal" style="margin: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">&nbsp;</p>
-</span>&nbsp;
-<p class="MsoNormal" style="margin: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="font-size: 9pt; color: black; font-family: Verdana"><strong>To remove your name</strong> from our special email bulletins, please click on the link located at the bottom of each promotional email or edit your email option in <a href="http://www.calendars.com/user/login.jsp">your account</a>.</span></p>
-<p class="MsoNormal" style="margin: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto">&nbsp;</p>
-<p class="MsoNormal" style="margin: 0in 0in 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto"><span style="font-size: 9pt; color: black; font-family: Verdana"><span style="font-size: 9pt; color: black; font-family: Verdana; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Our policy is intended to provide you with the safest and most secure shopping experience possible. Since the law, offerings and technologies change, we reserve the right to change, modify, add or remove portions of our privacy policy at any time without prior notice. If you have further questions, please feel free to contact our <a href="http://www.fuzeqna.com/calendars/consumer/question.asp?catid=36">Customer Service</a> team.</span></span></p>
-</div>
-</div>
-</div>
-</div>
-</div>
 							</td>
 						</tr>
 					</tbody></table>
-				
-				</a></td>
-			</tr>
-		</tbody></table>
-		
-		<form name="mainform" id="mainform" method="post" action="kbdetail.asp?kbid=41" onsubmit="return Validation();">
-				<input type="hidden" name="kbid" value="41">
-				<input type="hidden" name="ap" value="">
-				<input type="hidden" name="ao" value="">
-				<input type="hidden" name="keyword" value="">
-				<input type="hidden" name="match" value="">
-				<input type="hidden" name="passKey" value="3719141">
-				<input type="hidden" name="gpn" value="">
-				<input type="hidden" name="gpv" value="">
-		
-		<table width="100%" cellpadding="0" cellspacing="0" border="0">
-			<tbody><tr>
-			  
-				<td class="blacklabel" colspan="2" nowrap="">
-			  
-					<a id="related"></a><br>
-					Related Items
 				</td>
 			</tr>
+			
 			<tr>
-				<td colspan="2">
-					<table width="100%" cellpadding="5" cellspacing="0" border="0">
-						<tbody><tr>
-							<td class="fuzeRelatedItems">
-		<a href="kbdetail.asp?kbid=40" class="Relatedlink">How do I purchase a calendar?</a><br>
-			
-		<a href="kbdetail.asp?kbid=42" class="Relatedlink">What are my payment options?</a><br>
-			
-		<a href="kbdetail.asp?kbid=57" class="Relatedlink">Is my information secure?</a><br>
-			
-		<a href="kbdetail.asp?kbid=174" class="Relatedlink">What is your Security Policy?</a><br>
-			</td>
-						</tr>
-					</tbody></table>
-				</td>
-			</tr>
-		</tbody></table>
-		
-		
-		<table width="100%" cellpadding="10" cellspacing="0" border="0">
-			<tbody><tr>
 				<td>
-					<table width="100%" class="GrayLabelTable" cellpadding="0" cellspacing="0">
+					<table width="100%" cellpadding="0" cellspacing="0" border="0">
 						<tbody><tr>
-							<td class="GrayLabel" nowrap="">KBID</td>
-							<td colspan="3'" class="GrayLabelData" width="100%">41</td>
+							<td>
+								<img src="../images/spacer.gif" width="1" height="3" alt="">
+							</td>
 						</tr>
+						
 						<tr>
-							<td class="GrayLabel" nowrap="">Date Modified</td>
-							<td colspan="3" class="GrayLabelData">8/12/2009</td>
-						</tr>
-						<tr>
-							<td class="GrayLabelBottom" nowrap="">Date Created</td>
-							<td colspan="3" class="GrayLabelDataBottom">4/6/2004</td>
+							
+							<td class="QuestionText">
+								
+								<div class="fuzeKBDQuestionContainer">
+									Privacy Policy
+								</div>
+							</td>
+							
 						</tr>
 					</tbody></table>
+					
+					<table width="100%" cellpadding="0" cellspacing="0" border="0">
+						
+						<tbody><tr>
+							<td>
+								<a id="answertext"></a>
+								
+								<table width="100%" class="FuzeKBDetailAnswerTable" cellpadding="0" cellspacing="0" border="0">
+									
+									<tbody><tr>
+										<td>
+											<div>
+<div>
+<div>
+<div>
+<div>
+<p class="MsoNormal" style="margin: 0in 0in 0pt;"><span style="font-family: Verdana; color: black; font-size: 9pt;">We respect your privacy and are committed to protecting your personal information. This notice describes our privacy policy. By visiting Calendars.com or DogBreedStore.com, you are accepting the practices described in this privacy notice. </span></p>
+<p class="MsoNormal" style="margin: 0in 0in 0pt;">&nbsp;</p>
+<p class="MsoNormal" style="margin: 0in 0in 0pt;"><strong><span style="font-family: Verdana; color: black; font-size: 9pt;">Information Collection</span></strong></p>
+<span style="font-family: Verdana; color: black; font-size: 9pt;">
+<p class="MsoNormal" style="margin: 0in 0in 0pt;"><br>
+When you visit the site, we collect some basic information that does not identify individual users. This includes the pages visited and the types of products purchased. We then aggregate this information with thousands of other pieces of information to improve our site and make your shopping time on the site as valuable and efficient as possible.</p>
+<p class="MsoNormal" style="margin: 0in 0in 0pt;">&nbsp;</p>
+</span>&nbsp;
+<p class="MsoNormal" style="margin: 0in 0in 0pt;"><span style="font-family: Verdana; color: black; font-size: 9pt;">We will not rent or sell your name, address, email address, credit card information or personal information to any third party without your permission. However, we must cooperate fully should a situation arise where we are required by law or legal process to provide information about a customer. </span></p>
+<p class="MsoNormal" style="margin: 0in 0in 0pt;">&nbsp;</p>
+<p class="MsoNormal" style="margin: 0in 0in 0pt;"><strong><span style="font-family: Verdana; color: black; font-size: 9pt;">Information We Need</span></strong></p>
+<span style="font-family: Verdana; color: black; font-size: 9pt;">
+<p class="MsoNormal" style="margin: 0in 0in 0pt;"><br>
+When you order, we need to know your name, email address, shipping address, billing address, phone number, and credit card number with expiration date. This allows us to process and fulfill your order and to notify you of your order status. We ask for your phone number in the event that our customer service representatives or delivery services need to contact you about your order. To simply create an account, we will only need your name, email address, and a password.</p>
+<p class="MsoNormal" style="margin: 0in 0in 0pt;">&nbsp;</p>
+</span>&nbsp;
+<p class="MsoNormal" style="margin: 0in 0in 0pt;"><strong><span style="font-family: Verdana; color: black; font-size: 9pt;">Saved Information</span></strong></p>
+<p class="MsoNormal" style="margin: 0in 0in 0pt;"><span style="font-family: Verdana; color: black; font-size: 9pt;"><br>
+We save the information about products you purchased to provide you with the best possible customer service and the most up-to-date information about your order. You can view your past and current orders online by logging into the My Account section with your private password. </span></p>
+<p class="MsoNormal" style="margin: 0in 0in 0pt;">&nbsp;</p>
+<p class="MsoNormal" style="margin: 0in 0in 0pt;"><span style="font-family: Verdana; color: black; font-size: 9pt;">If you forget your password, we will first verify your identity and then email your password to the email address you have listed in your account. </span></p>
+<p class="MsoNormal" style="margin: 0in 0in 0pt;">&nbsp;</p>
+<p class="MsoNormal" style="margin: 0in 0in 0pt;"><strong><span style="font-family: Verdana; color: black; font-size: 9pt;">Changing Your Information</span></strong></p>
+<span style="font-family: Verdana; color: black; font-size: 9pt;">
+<p class="MsoNormal" style="margin: 0in 0in 0pt;"><br>
+If at any time you would like to change any information in your account, just go to the My Account link in the upper right-hand corner of each page. Here you can change or update your email address and password, billing address, payment options, shipping options, address book, and email preferences. Be sure to click Save My Changes when you have updated your account.</p>
+<p class="MsoNormal" style="margin: 0in 0in 0pt;">&nbsp;</p>
+</span>&nbsp;
+<p class="MsoNormal" style="margin: 0in 0in 0pt;"><span style="font-family: Verdana; color: black; font-size: 9pt;"><strong>To remove your name</strong> from our special email bulletins, please click on the link located at the bottom of each promotional email or edit your email option in <a href="http://www.calendars.com/user/login.jsp">your account</a>.</span></p>
+<p class="MsoNormal" style="margin: 0in 0in 0pt;">&nbsp;</p>
+<p class="MsoNormal" style="margin: 0in 0in 0pt;"><span style="font-family: Verdana; color: black; font-size: 9pt;"><span style="font-family: Verdana; color: black; font-size: 9pt;">Our policy is intended to provide you with the safest and most secure shopping experience possible. Since the law, offerings and technologies change, we reserve the right to change, modify, add or remove portions of our privacy policy at any time without prior notice. If you have further questions, please feel free to contact our <a href="http://www.fuzeqna.com/calendars/consumer/question.asp?catid=36">Customer Service</a> team.</span></span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+										</td>
+									</tr>
+								</tbody></table>
+								
+							</td>
+						</tr>
+					</tbody></table>
+					
+					<input type="hidden" name="viewguid" value="6172E1F4-FF76-42D6-8F31-99C347EB2D4E">
+					
+					<input type="hidden" name="kbid" value="41">
+					<input type="hidden" name="ap" value="">
+					<input type="hidden" name="ao" value="">
+					<input type="hidden" name="keyword" value="">
+					<input type="hidden" name="match" value="">
+					<input type="hidden" name="passKey" value="5030786">
+					<input type="hidden" name="gpn" value="">
+					<input type="hidden" name="gpv" value="">
+					
+					<br>
+					<table width="100%" cellpadding="0" cellspacing="0" border="0">
+						<tbody><tr>
+							<td width="90%">
+								<a id="related"></a>
+								<table width="100%" cellpadding="0" cellspacing="0" border="0">
+									<tbody><tr>
+										
+										<td class="blacklabel" nowrap="" style="padding-left: 5px;">
+											Related Items
+											</td>
+											<td>
+												<img src="../images/spacer.gif" width="1">
+											</td>
+											
+											<td class="blacklabel" nowrap="" style="padding-left: 5px;">
+												Related Links
+												</td>
+									</tr>
+									<tr>
+										<td width="50%" valign="top">
+											<table width="100%" cellpadding="5" cellspacing="0" border="0">
+												<tbody><tr>
+													<td valign="top" class="fuzeRelatedItems">
+														
+					<a href="kbdetail.asp?kbid=42" class="Relatedlink">
+						Payment Options</a><br>
+					
+					<a href="kbdetail.asp?kbid=57" class="Relatedlink">
+						Using a Credit Card</a><br>
+					
+					<a href="kbdetail.asp?kbid=174" class="Relatedlink">
+						What is your Security Policy?</a><br>
+					
+													</td>
+												</tr>
+											</tbody></table>
+										</td>
+										<td>
+											<img src="../images/spacer.gif" width="1">
+										</td>
+										<td width="50%" valign="top">
+											<table width="100%" cellpadding="5" cellspacing="0" border="0">
+												<tbody><tr>
+													<td valign="top" class="fuzeRelatedLinks">
+														
+				<a href="javascript:popup('http://calendars.p.delivery.net/m/p/cal/eml/signup.asp')" class="Relatedlink">Sign Up to Receive Email</a><br>
+				
+													</td>
+												</tr>
+											</tbody></table>
+										</td>
+									</tr>
+								</tbody></table>
+							</td>
+							<td width="10%" valign="top">
+								<table width="100%" cellpadding="0" cellspacing="0" border="0">
+									<tbody><tr>
+										
+										<td class="blacklabel" width="100%">
+											
+												&nbsp;
+											</td>
+									</tr>
+								</tbody></table>
+							</td>
+						</tr>
+					</tbody></table>
+					
+					<table width="100%" cellpadding="10" cellspacing="0" border="0">
+						<tbody><tr>
+							<td>
+								<table width="100%" class="GrayLabelTable" cellpadding="0" cellspacing="0">
+									<tbody><tr>
+										<td class="GrayLabel" nowrap="">
+											KBID
+										</td>
+										<td colspan="3'" class="GrayLabelData" width="100%">
+											41
+										</td>
+									</tr>
+									<tr>
+										<td class="GrayLabel" nowrap="">
+											Date Modified
+										</td>
+										<td colspan="3" class="GrayLabelData">
+											5/11/2011
+										</td>
+									</tr>
+									<tr>
+										<td class="GrayLabelBottom" nowrap="">
+											Date Created
+										</td>
+										<td colspan="3" class="GrayLabelDataBottom">
+											4/6/2004
+										</td>
+									</tr>
+								</tbody></table>
+							</td>
+						</tr>
+					</tbody></table>
+					
+					
 				</td>
 			</tr>
-		</tbody></table>		
-		</form>
-			
-	</td></tr>
-	</tbody></table>
-	
-		</td>
-	</tr>
-</tbody></table>
-
-
-
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
+			</tbody></table> </td> </tr> </tbody></table>
+			<table width="100%" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
 	<td colspan="3">
 
 
 
 
-
-
-<script language="javascript">
+		<script language="javascript">
 <!--
-	function PopThePage(){
-		document.getElementById('fuze_page_popper').style.display='block';
-	}
+			function PopThePage() {
+				document.getElementById('fuze_page_popper').style.display = 'block';
+			}
 //-->
-</script>
-
-<div id="fuze_page_popper" style="height:1600px;display:none;">
-	&nbsp;
-</div>
-
+		</script>
+		<div id="fuze_page_popper" style="height: 1600px; display: none;">
+			&nbsp;
+		</div>
+		
 
 <div id="KBAlertsDialog" dojotype="dijit.Dialog" title="<span style='font-size:11pt;'>Alerts</span>" duration="1" style="width:40%;">
 	<table cellpadding="5" cellspacing="0" border="0">
@@ -1483,12 +1636,12 @@ If at any time you would like to change any information in your account, just go
 			<td colspan="2" style="padding:5px;"><b>Use Alerts to be notified when</b> new information is added or changed in an individual answer or category of information you care about. All Alert notifications sent in a <b>single</b> email <b>once</b> each day.</td>
 		</tr>
 		<tr>
-			<td><a href="kbdetail.asp?kbid=41&amp;formaction=faqalert" onclick="return submitalert('faqalert');" class="normallink">Notify me if this answer is updated</a></td>
+			<td><a href="kbdetail.asp?kbid=41&amp;formaction=faqalert" onclick="return submitalert('faqalert');" class="normallink">Notify me if this item has activity</a></td>
 		</tr>
 		<tr>
 			<td>
 				
-				<a href="kbdetail.asp?kbid=41&amp;formaction=catalert" onclick="return submitalert('catalert');" class="normallink">Notify me if this category is updated</a>
+				<a href="kbdetail.asp?kbid=41&amp;formaction=catalert" onclick="return submitalert('catalert');" class="normallink">Notify me if content in this category has activity in these areas:</a>
 				
 			</td>
 		</tr>
@@ -1502,7 +1655,6 @@ function submitalert(alertType) {
 
 	dijit.byId('KBAlertsDialog').hide();
 	if (confirm('You must log in to add an Alert. Click OK to log in or Cancel to return to the detail page.')) {
-		//window.location = "../membership/consumer/login.asp?referer=" + escape('consumer/kbdetail.asp?kbid=41&formaction=' + alertType);
 		OpenLogin('/consumer/kbdetail.asp?kbid=41&formaction=' + alertType, 'login_messaging_alerts');
 		return false;
 	} else {
@@ -1512,7 +1664,7 @@ function submitalert(alertType) {
 }
 </script>
 
-    
 
+	
 
-</td></tr></tbody></table></td></tr></tbody></table></center></body></html>
+</td></tr></tbody></table></td></tr></tbody></table></body></html>
