@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstfindengine.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125102129id_/http%3A//firstfindengine.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstfindengine.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512022940id_/http%3A//www.firstfindengine.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # privacy
 
