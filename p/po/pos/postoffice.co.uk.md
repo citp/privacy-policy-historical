@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postoffice.co.uk privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103110550id_/http%3A//www2.postoffice.co.uk/find-out-more/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postoffice.co.uk privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512150104id_/http%3A//www.postoffice.co.uk/find-out-more/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Post Office® | Home | Find out more | About us
 
@@ -30,7 +30,7 @@ Back to the top
 
   * to provide you with products and services. Each product and service has different information requirements. Therefore the personal information we need, and what it is needed for, can differ. For full details please refer to the terms and conditions for each product or service.
   * to enhance or improve your user experience with us. When you indicate your marketing preferences, we may use this information to personalise the website or our communications with you to better meet your needs.  
-  * to provide you with information about products and services that we, Royal Mail Group Limited (including Parcelforce Worldwide) or our partner companies believe will be of interest to you.  We will only do this with your consent. If you have registered online to use the website or applied online for a product or service, you can change your mind and remove or add your consent at any time through “Your Profile” page. You will need to [sign in](https://www.postoffice.co.uk/portal/po/auth?pageId=auth_login_po&catId=20700397) to your account in order to do this.
+  * to provide you with information about products and services that we, Royal Mail Group Limited (including Parcelforce Worldwide) or our partner companies believe will be of interest to you.  We will only do this with your consent. If you have registered online to use the website or applied online for a product or service, you can change your mind and remove or add your consent at any time through “Your Profile” page. You will need to [sign in](https://web.archive.org/user/login) to your account in order to do this.
   * to keep your personal information secure. To minimise the risk of unauthorised access to your personal information, we use some of your personal information to authenticate your identity when using the website and our customer service helpdesk. 
 
 
@@ -81,7 +81,7 @@ Back to the top
 
 ##   Who sees your personal information?
 
-  * the personal information we collect about you will be used within the Royal Mail group of companies and, where appropriate, by and on behalf of our partner companies (see below). Exactly who sees your personal information depends on the context in which you provided it and whether or not you have given any marketing preferences. You can change your mind about your marketing preferences at any time through “Your Profile” page. You will need to [sign in](https://www.postoffice.co.uk/portal/po/auth?pageId=auth_login_po&catId=20700397) to your account in order to do this on our website or by contacting us in the manner set out in any relevant product or service literature.
+  * the personal information we collect about you will be used within the Royal Mail group of companies and, where appropriate, by and on behalf of our partner companies (see below). Exactly who sees your personal information depends on the context in which you provided it and whether or not you have given any marketing preferences. You can change your mind about your marketing preferences at any time through “Your Profile” page. You will need to [sign in](https://web.archive.org/user/login) to your account in order to do this on our website or by contacting us in the manner set out in any relevant product or service literature.
 
 
 
@@ -122,9 +122,9 @@ Back to the top
 
 ##   Maintaining the personal information we hold for you
 
-We aim to give you control over the personal information we hold about you. If you have registered on our website or applied online for certain products or services, you can see certain personal information you have provided to us through the website by accessing the “Your Profile” page. You will need to [sign in](http://www.postoffice.co.uk/portal/po/auth?pageId=auth_login_po&catId=20700397) to your account in order to do this.  You can also use this page to update this personal information, correct any inaccurate information and change the marketing preferences you have given us. Alternatively, you can contact us and we will make the necessary changes.
+We aim to give you control over the personal information we hold about you. If you have registered on our website or applied online for certain products or services, you can see certain personal information you have provided to us through the website by accessing the “Your Profile” page. You will need to [sign in](https://web.archive.org/user/login) to your account in order to do this.  You can also use this page to update this personal information, correct any inaccurate information and change the marketing preferences you have given us. Alternatively, you can contact us and we will make the necessary changes.
 
-You can request details of all the personal information we hold about you by contacting our Data Protection Act Services Team. They will send you an application form which you should complete and return. The charge for this service is £10 for each request. You can contact the team by writing to Royal Mail Group Limited, PO Box 341, ALDERSHOT, GU11 1WW,  telephone: 01252 806513.
+You can request details of all the personal information we hold about you by contacting our Data Protection Act Services Team. They will send you an application form which you should complete and return. The charge for this service is £10 for each request. You can contact the team by writing to Royal Mail Group, Information Rights Team, 4th Floor, Royal Mail Sheffield, Pond Street, Sheffield, S98 6HR. Telephone: 0114 241 4217.
 
 Back to the top
 
@@ -133,7 +133,7 @@ Back to the top
 
 ##   Marketing preferences
 
-If you have given your consent, we, Royal Mail Group Limited (including Parcelforce Worldwide) or our partner companies may provide you with information about products, services and promotions that we, Royal Mail Group Limited or our partner companies believe will be of interest to you. You can change your mind and remove or add your consent at any time through the “Your Profile” page on our website. You will need to sign in to you account in order to do this or by contacting us in the manner set out in any relevant product or service literature. 
+If you have given your consent, we, Royal Mail Group Limited (including Parcelforce Worldwide) or our partner companies may provide you with information about products, services and promotions that we, Royal Mail Group Limited or our partner companies believe will be of interest to you. You can change your mind and remove or add your consent at any time through the “Your Profile” page on our website. You will need to sign in to your account in order to do this or by contacting us in the manner set out in any relevant product or service literature. 
 
 Please note:
 
@@ -171,7 +171,7 @@ Back to the top
 
 As you would expect of us, we will take all reasonable measures to ensure that the personal information you provide through our website is held and managed securely. However, there is a lot that you can do to help keep your personal information safe - not just on our website, but whenever you provide personal information online.
 
-Take a look at some simple ways you can improve the security of your [personal information](http://www.postoffice.co.uk/link/po/content1?catId=20000208&mediaId=60400695).
+Take a look at some simple ways you can improve the security of your [personal information](https://web.archive.org/find-out-more/post-office-website/navigating-our-website/personal-information).
 
 Back to the top
 
@@ -240,8 +240,8 @@ Post Office Limited is a company registered in England and Wales, company number
 
 For further information about our privacy practices please contact our Data Protection Act Services Team. You can contact the team by:
 
-  * writing to Royal Mail Group Limited, PO Box 341, ALDERSHOT, GU11 1WW; or
-  * calling 01252 806513.
+  * writing to Royal Mail Group, Information Rights Team, 4th Floor, Royal Mail Sheffield, Pond Street, SHEFFIELD, S98 6HR; or
+  * calling 0114 241 4217.
 
 
 
