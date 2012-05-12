@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hull.ac.uk privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122053826id_/http%3A//www2.hull.ac.uk/page_elements/footer/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hull.ac.uk privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512051628id_/http%3A//www2.hull.ac.uk/pageelements/footer/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - University of Hull
 
@@ -28,16 +28,27 @@ The information you provide will be kept confidential and will be used only to s
 
 ### 3\. Cookies
 
-We do not use **cookies** (defined below) for collecting user information from the site and we will not collect any information about you except that required for system administration of the Web server and otherwise as described above.
+**What are cookies?**
 
-**Cookies** \- Message given to a web browser by a web server. The message is then stored by the browser in a text file called _cookie.txt._ Each time the browser requests a page from the server, this message is sent back. A cookie's main objective is to identify users and personalise their visit by customising web pages for them, for example by welcoming them by name next time they visit the same site. A site using cookies will usually invite you to provide personal information such as your name, email address and interests.
+Cookies are small pieces of information that are stored on your hard drive to allow the University of Hull to recognise you when you visit. They can remember your preferences by gathering and storing information. They do not identify you as an individual user, just the computer used. Cookies cannot be used to run programs or create viruses on your computer. It does not give the University access to your computer.
 
-If cookies are used, how and what for?
+**Why do we use them?**
 
-  
+We may use cookies to improve or personalise your online experience of our websites. For example we use Google Analytics to enable us to identify which pages you find useful and which you do not. This allows us to improve our navigation so you can find things easier in future.
 
+**If you don’t want to receive cookies**
 
-### 4\. Further information on data protection and personal privacy
+If you would prefer not to receive cookies while browsing our site, you can set your browser so that it will not download cookies onto your computer. Doing so will still allow you to navigate through the majority of our site but possibly not all of it. If you wish to register on a password protected area of our website you will need to allow “per-session” cookies. These are temporarily used while you are visiting the site but deleted when you close your browser or log out.
+
+To find out more information about cookies, visit:
+
+[www.allaboutcookies.org](http://www.allaboutcookies.org/)
+
+### 4\. Google Analytics
+
+This website uses Google Analytics, a web analytics service provided by Google, Inc.. Google Analytics uses ‘cookies’, which are text files placed on your computer. Google Analytics allows the university to look at how visitors are using the site with the aim of improving visitor’s experience.
+
+### 5\. Further information on data protection and personal privacy
 
 For further information from us on data protection and privacy contact:
 
@@ -59,4 +70,4 @@ Our Site provides links to other sites. We are not responsible for their data pr
 
 * * *
 
-_Page last updated by Rob Pullen on 9/13/2010_
+_Page last updated by Marketing Dept on 5/2/2012_
