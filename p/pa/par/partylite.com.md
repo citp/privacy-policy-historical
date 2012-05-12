@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the partylite.com privacy policy that was archived on 2011-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110207050832id_/http%3A//partylite.com/en-us/Pages/Company/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partylite.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512154359id_/http%3A//www.partylite.com/en-us/Pages/Company/Privacy.aspx) for the most accurate reproduction.*
 
-# PartyLite | Privacy Policy
+# Privacy Policy | PartyLite
 
 Information is collected on this website by PartyLite. PartyLite is committed to protecting your privacy and will use your personal information responsibly. Please read below for detailed information about our privacy policy.
 
