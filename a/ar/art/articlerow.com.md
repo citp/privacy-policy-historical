@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlerow.com privacy policy that was archived on 2011-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110417154956id_/http%3A//www.articlerow.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlerow.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512163816id_/http%3A//www.articlerow.com/privacy.php) for the most accurate reproduction.*
 
 # Article Directory to Submit Free Articles Content
 
