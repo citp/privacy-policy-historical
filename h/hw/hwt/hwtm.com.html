@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hwtm.com privacy policy that was archived on 2011-11-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111103101651id_/http%3A//www.hwtm.com/index.cfm%3Fpage%3Dabout/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hwtm.com privacy policy that was archived on 2012-05-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120512021107id_/http%3A//www.hwtm.com/index.cfm%3Fpage%3Dabout/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class=" chrome"><head>
 	
@@ -11,8 +11,7 @@
 	<link media="all" rel="stylesheet" href="/css/hwtm_1.css">
 	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="css/ie.css" /><![endif]-->
 	<!--[if IE]><link rel="stylesheet" type="text/css" href="css/lt7.css" media="screen"/><![endif]--> 
-	
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery-1.4.3.min.js"></script>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="/js/jquery-1.4.3.min.js"></script>
 	
 	
 	
@@ -28,8 +27,30 @@
 	
 		<script type="text/javascript" src="/js/jquery.main.js"></script>
 		<script type="text/javascript" src="/js/jquery.ui.core.min.js"></script>
-	
-    	
+	 
+		<script type="text/javascript">
+			var googletag = googletag || {};
+			googletag.cmd = googletag.cmd || [];
+			(function() {
+			var gads = document.createElement('script');
+			gads.async = true;
+			gads.type = 'text/javascript';
+			var useSSL = 'https:' == document.location.protocol;
+			gads.src = (useSSL ? 'https:' : 'http:') + 
+			'//www.googletagservices.com/tag/js/gpt.js';
+			var node = document.getElementsByTagName('script')[0];
+			node.parentNode.insertBefore(gads, node);
+			})();
+		</script>
+		<script type="text/javascript">
+			googletag.cmd.push(function() {
+			
+			googletag.defineSlot('/31387016/HWTM_Leaderboard', [728, 90], 'top-banner-div').addService(googletag.pubads());
+			googletag.pubads().enableSingleRequest();
+			googletag.enableServices();
+			});
+		</script>
+		
 	<link rel="shortcut icon" href="/images/favicon.ico">
 
 <title>Hostess with the Mostess® - Inspiration for Life's Celebrations</title>
@@ -47,8 +68,8 @@
 		
 			<div class="register-panel">
 				<ul class="signin">
-					<li><a href="#signIn_wrapper" onclick="popUpSignInDiv();return false;">Sign In</a></li><a href="#signIn_wrapper" onclick="popUpSignInDiv();return false;">
-					</a><li><a href="#signIn_wrapper" onclick="popUpSignInDiv();return false;"></a><a href="/index.cfm?page=accounts/register_step1">Register</a></li>
+					<li><a href="#signIn_wrapper" class="with-popup">Sign In</a></li><a href="#signIn_wrapper" class="with-popup">
+					</a><li><a href="#signIn_wrapper" class="with-popup"></a><a href="/index.cfm?page=accounts/register_step1">Register</a></li>
 				</ul>
 			</div>
 		
@@ -56,10 +77,10 @@
 			<ul class="nav">
 				<li><a class="home" href="/">home</a></li>
 				<li><a class="party" href="/partypros">party pros</a></li>
-				<li><a class="blog-link" href="http://www.hostessblog.com">the blog</a></li>
+				<li><a class="blog-link" href="http://blog.hwtm.com">the blog</a></li>
 				<li><a class="themes" href="/themes">hostess themes</a></li>
 				<li><a class="recipe" href="/recipe_box">the recipe box</a></li>
-				<li><a class="shop" href="http://www.hostessblog.com/shop-hwtm">shop hwtm</a></li>
+				<li><a class="shop" href="http://blog.hwtm.com/shop-hwtm">shop hwtm</a></li>
 				<li class="active"><a class="community" href="/index.cfm?page=accounts/accounts_login">dashboard</a></li>
 			</ul>
 			<p class="slogan">inspiration for lifes celebrations</p>
@@ -81,17 +102,16 @@
 
 
 
-
-
 	
 	<div id="signIn_wrapper">
 		
 		<form name="login_form" id="login_form" action="/index.cfm?page=accounts_manager" method="post">
 			<input type="hidden" name="action" value="4">
 			<input type="hidden" name="redir" value="about/privacypolicy">
+			
 				
 			<div id="close_btn">
-				<a onclick="closeSignInDiv();" style="cursor:pointer;"><img src="/images/close.gif" border="0" width="46" height="8"></a>
+				<a href="#" class="close"><img src="/images/close.gif" border="0" width="46" height="8"></a>
 			</div>
 			<div id="signIn_title" valign="top">
 				<img src="/images/signIn-title.gif" border="0" width="118" height="39">
@@ -100,14 +120,14 @@
 			<div id="signIn_content1">
 				<strong>Email Address</strong>
 				<div class="text">
-					<input class="required" type="text" value="" name="email" size="35" style="width:205px">
+					<input class="required" type="text" id="email" name="email" size="35" style="width:205px" value="">
 				</div><br>
 				<strong>Password</strong>
 				<div class="text">
 					<input class="required" type="password" value="" name="password" size="35" style="width:205px">
 				</div><br>
 				<div class="check-row-1">
-					<input type="checkbox" class="check" id="check-1">
+					<input type="checkbox" class="check" name="remember_me" id="remember_me">
 					<label for="check-1">
 						<strong>Remember Me</strong>
 					</label>
@@ -218,11 +238,11 @@
 </div> 	<div id="footer">
 		<p>© Copyright HWTM, LLC. / Hostess with the Mostess®</p>
 		<ul>
-			<li><a href="http://www.hostessblog.com/our-story/">about</a></li>
-			<li><a href="http://www.hostessblog.com/contact-us/">contact</a></li>
-			<li><a href="http://www.hostessblog.com/careers/">careers</a></li>
-			<li><a href="http://www.hostessblog.com/contact-us/">advertising</a></li>
-			<li><a href="http://www.hostessblog.com/hwtm-press/">press</a></li>
+			<li><a href="http://blog.hwtm.com/our-story/">about</a></li>
+			<li><a href="http://blog.hwtm.com/contact-us/">contact</a></li>
+			<li><a href="http://blog.hwtm.com/careers/">careers</a></li>
+			<li><a href="http://blog.hwtm.com/contact-us/">advertising</a></li>
+			<li><a href="http://blog.hwtm.com/hwtm-press/">press</a></li>
 			
 			<li><a href="/index.cfm?page=about/termsandconditions">terms</a></li>
 			<li><a href="/index.cfm?page=about/communityguidelines">community guidelines</a></li>
