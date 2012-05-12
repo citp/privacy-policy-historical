@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the proptiger.com privacy policy that was archived on 2011-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111206035340id_/http%3A//www.proptiger.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the proptiger.com privacy policy that was archived on 2012-05-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120512200158id_/http%3A//www.proptiger.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -8,7 +8,7 @@
 	<link type="text/css" href="css/headerStyle.css" rel="stylesheet">	
 
 
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="scripts/dojo/dojo-release-1.5.0/dojo/dojo.js" type="text/javascript" djconfig="parseOnLoad:true"></script>
+	<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/9928.js?439482" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="scripts/dojo/dojo-release-1.5.0/dojo/dojo.js" type="text/javascript" djconfig="parseOnLoad:true"></script>
 	<link type="text/css" href="css/jquery-ui-1.8.9.custom.css" rel="stylesheet">	
 	<script type="text/javascript" src="scripts/jquery/jquery-1.4.4.min.js"></script>
 	<script type="text/javascript" src="scripts/jquery/jquery-ui-1.8.9.custom.min.js"></script>
@@ -24,10 +24,44 @@
 
 <script type="text/javascript" src="lib/jquery.autocomplete.js"></script>
 
+<!-- added by siddharth for login / register -->
+<script type="text/javascript">
+$(document).ready(function(){
+	$('#signin').click(function(){
+		$.fancybox({
+			//'autoScale'         : false,
+			//'autoDimensions'  : true,
+			'width'                :410,
+			'height'               :424,
+			//'hideOnContentClick': true,
+			//'transitionIn'       : 'fade',
+			//'transitionOut'     : 'none',
+			'scrolling'            : 'no',
+			'href'                 : 'forum/User_Login_Form.php',
+			'type'                : 'iframe'
+		})
+	});
 
+	$('#signup').click(function(){
+		$.fancybox({
+			//'autoScale'         : false,
+			//'autoDimensions'  : true,
+			'width'                :410,
+			'height'               :404,
+			//'hideOnContentClick': true,
+			//'transitionIn'       : 'fade',
+			//'transitionOut'     : 'none',
+			'scrolling'            : 'no',
+			'href'                 : 'forum/User_Register_Form.php',
+			'type'                : 'iframe'
+		})
+	});
+});
+</script>
+<!-- added by siddharth for login / register-->
 
 <script type="text/javascript">
-	$().ready(function() {
+	$(document).ready(function() {
     $("#searchId").autocomplete("ajaxSearch.php", {
 	        width: 460,
 	        matchContains: true,
@@ -46,15 +80,16 @@ function validationSearch(e,buttonEle)
 	if((document.getElementById("searchId").value).replace(/^\s+|\s+$/g,"") == '')
 	{
 		e.preventDefault();
-		
+
 		document.getElementById("NoDataErr").style.display = '';
+		if(document.getElementById("noerror")) $('#noerror').css('display','none');
 		document.getElementById("searchId").focus();
 		return false;
 	}
 	//alert(buttonEle);
 		if(buttonEle == 1)
 		{
-		
+
 			var id = document.getElementById("cid").value;
 			document.getElementById("cityId").value = id.replace(/^\s+|\s+$/g,"");
 			if(document.getElementById("CName").value == '')
@@ -67,13 +102,13 @@ function validationSearch(e,buttonEle)
 				document.getElementById("LocalityList").value = document.getElementById("searchId").value;
 				document.getElementById("LocId").value  = document.getElementById("LocId").value+","+document.getElementById("LocId").value;
 			}
-			
-			
-			
-			
+
+
+
+
 			var frm = document.forms["homePageSearchForm"];
 			//alert(buttonEle+"here"+document.getElementById("cityId").value);
-	
+
 		 // frm.subIndex.value=frm.suburbId[frm.suburbId.selectedIndex].value;
 			     frm.viewType.value = buttonEle;
 
@@ -81,7 +116,7 @@ function validationSearch(e,buttonEle)
 		//alert("herererere");
 			 frm.action="mappage.php";
 
-			
+
 
 			frm.viewType.value = buttonEle;
 
@@ -97,14 +132,14 @@ function validationSearch(e,buttonEle)
 /*******End Header search code start here******/
 
 	function handleHeaderSearch(viewTypeVal) {
-	
+
 		document.getElementById("citySrchErr").innerHTML = "";
 		document.getElementById("budgetSrchErr").innerHTML = "";
-		
+
 		document.getElementById("citySrchErrCon").style.display = "none";
 		document.getElementById("budgetSrchErrCon").style.display = "none";
-		
-	
+
+
 		var frm = document.forms["hdrSearchForm"];
 		var budgetmsg = "";
 		var isError = false;
@@ -113,12 +148,12 @@ function validationSearch(e,buttonEle)
 			//msg += "City is required.";
 			document.getElementById("citySrchErrCon").style.display = "";
 			document.getElementById("citySrchErr").innerHTML = "Please enter City";
-		} 
-		
+		}
+
 		if (frm.minBudget.value == "0") {
 			isError = true;
 			budgetmsg += "Min ";
-		} 
+		}
 		if (frm.maxBudget.value == "0") {
 			isError = true;
 			if (budgetmsg != "") budgetmsg += " - ";
@@ -130,7 +165,7 @@ function validationSearch(e,buttonEle)
 			flag=true;
 			budgetmsg += "Max Price Should Be Greater";
 		}
-		
+
 
 		if (budgetmsg != "") {
 					if(budgetmsg != "Max Price less than Min Price")
@@ -142,25 +177,25 @@ function validationSearch(e,buttonEle)
 					document.getElementById("budgetSrchErr").innerHTML = budgetmsg;
 		}
 
-            	
-			
-		
+
+
+
 		if (isError)
 		{
 			//document.getElementById("message").innerHTML = msg;
 			//showDialog();
-		} 
-		else 
+		}
+		else
 		{
 		    if(viewTypeVal=="2")
-	
+
 			 {
-			 
+
 
 	             frm.action="mappage.php";
 
 			     frm.viewType.value = viewTypeVal;
-   
+
 				 frm.submit();
 			  }
 			  else
@@ -174,9 +209,9 @@ function validationSearch(e,buttonEle)
 				   inner=inner.toLowerCase();
 				   theurl += inner;
 				   theurl +="-real-estate.php";
-                   
-	                 frm.action=theurl;		         	   
-					
+
+	                 frm.action=theurl;
+
 
 				     frm.viewType.value = viewTypeVal;
 				     frm.submit();
@@ -196,7 +231,7 @@ function validationSearch(e,buttonEle)
 		});
 	}
 
-	
+
 var v = 0;
 function mover()
 {
@@ -226,13 +261,24 @@ function mout()
 <div id="bg_container">
 <div class="topline">
 	<h1 class="flt toptext">Property in Mumbai, Real Estate Mumbai</h1>
-<div class="flr">Contact Us: +91 78380 92855 / 78380 92856 (<strong>IND</strong>)&nbsp;&nbsp; | &nbsp;&nbsp;+1-347-468-9428 (<strong>USA</strong>)&nbsp;&nbsp;  | &nbsp;&nbsp;+44-208-099-1659 (<strong>UK</strong>)</div>
+<div class="flr" id="user_status">
+			Welcome Guest, <a href="javascript:void(0)" id="signin">Sign In</a>&nbsp;|&nbsp;<a href="javascript:void(0)" id="signup">Register</a>
+	</div>
+
 </div>
 <div class="spacer5">&nbsp;</div>
 <div>
 <div class="flt"><a id="logo" target="_self" href="http://www.proptiger.com" title="Welcome to proptiger.com - Buy/Sell Best Residential Property in India" style="cursor:pointer;">&nbsp;</a> </div>
 
-<div class="flr rtbanner"><a href="http://www.proptiger.com/p-lodha-casa-rio-gold-mumbai-dombivali.php?utm_source=banner_ad&amp;utm_medium=banner&amp;utm_term=mumbai&amp;utm_campaign=website"><img src="images/banners/casario-gold-top-banner.gif" width="470" height="81" border="0" alt="Lodha Casa Rio Gold"></a></div>
+<div class="flr getphonebgbanner">
+<div style="margin-left:60px; margin-top:20px; line-height:21px;">+91 78380 92855 / 56 <span class="font11">(IND)</span> <br>
+  +1-347468-9428 <span class="font11">(USA)</span><br>
++44-208-099-1659 <span class="font11">(UK)</span>
+</div>
+</div>
+<span id="current_page" style="display:none;">PRIVACY POLICY</span>
+<div class="flr rtbanner"><a href="http://www.proptiger.com/p-sai-proviso-county-panvel-mumbai.php?utm_source=banner_ad&amp;utm_medium=banner&amp;utm_term=mumbai&amp;utm_campaign=website"><img src="images/banners/Top-–-generic-ad-for-Sai-Proviso-County-251x81.gif" width="251" height="81" border="0" alt="Sai Proviso County"></a></div>
+
 </div>
 <div class="spacer5">&nbsp;</div>
 <div id="menu" onmouseout="mout();">
@@ -259,30 +305,35 @@ function mout()
 <li id="mylink" onmouseover="mover();"><a class="dropD" id="clickfortoggle">More Cities</a></li>
 </ul>
 </div>
-<div class="flr" style="padding-right:141px;" onmouseover="mover();">
+<div class="flr" style="padding-right:150px;padding-right:144px\9;" onmouseover="mover();">
 <div class="mN_Box" id="searchJ" style="display:none">
         <ul class="pt_mainnav">
 	 <li>		<a href="property-in-delhi-real-estate.php">Delhi</a></li>
 	 <li>		<a href="property-in-ghaziabad-real-estate.php">Ghaziabad</a></li>
 	 <li>		<a href="property-in-indore-real-estate.php">Indore</a></li>
+	 <li>		<a href="property-in-lucknow-real-estate.php">Lucknow</a></li>
+	 <li>		<a href="property-in-chandigarh-real-estate.php">Chandigarh</a></li>
+	 <li>		<a href="property-in-jalandhar-real-estate.php">Jalandhar</a></li>
 	</ul>
 </div>
 </div>
 </div>
-<div class="spacer">&nbsp;</div>
+<!-- <div class="spacer">&nbsp;</div> -->
 <div class="flr" style="display:none;"></div>
-<div class="spacer5">&nbsp;</div>
+<!-- <div class="spacer5">&nbsp;</div>  -->
 <!--************************************************************-->
-<div class="searchbgInner">
+<table cellpadding="0" cellspacing="0" width="990px" border="0">
+<tbody><tr>
+<td class="searchnew26mar" id="searchnewid">
 
+<div class="flt" style="width:960px; "><!-- color:#333333; -->
+<div class="searcghead" style="margin-top:25px; width:150px; "><!-- margin-right:10px; -->Find New Homes</div>
+<form autocomplete="off" action="cities.php" method="post" name="homePageSearchForm">
+<input type="hidden" name="hiddenExData" id="hiddenExData" value="e.g lodha new cuffe parade, thane mumbai">
+<div class="flt" style="padding-top:5px; line-height:20px; width:280px;">
+<div class="flt"><strong>Locality, City, Builder or Project name</strong><span style="color:#FF3300;">*</span><br>
+<div class="flt"><input type="text" class="headerinput ac_input" title="Search" id="searchId" name="SearchValue" value="e.g lodha new cuffe parade, thane mumbai" onfocus="if(this.value=='e.g lodha new cuffe parade, thane mumbai') this.value='';" onblur="if(this.value=='') this.value='e.g lodha new cuffe parade, thane mumbai';" autocomplete="off">
 
-	<div class="flt" style="width:960px; color:#333333;">
-	<div class="searcghead" style="margin-top:25px; width:140px; margin-right:10px;">Find New Homes</div>
-	<form autocomplete="off" action="cities.php" method="post" name="homePageSearchForm">
-<div class="flt" style="padding-top:5px; line-height:20px;">
-<div><strong>Locality, City, Builder or Project name</strong><span style="color:#FF3300;">*</span><br>
-<div class="flt"><input type="text" class="headerinput ac_input" title="Search" id="searchId" name="SearchValue" value="e.g panvel mumbai" onfocus="if(this.value=='e.g panvel mumbai') this.value='';" onblur="if(this.value=='') this.value='e.g panvel mumbai';" autocomplete="off">
-	
 	<input type="hidden" name="cityId" id="cityHeadSelect" value="18">
 	<input type="hidden" name="cityIddup" id="cityId" value="18">
 	<input type="hidden" name="LocalityList" id="LocalityList">
@@ -292,7 +343,7 @@ function mout()
 
 
 			<input type="hidden" name="localityId" id="localityId">
-		
+	
 	<!--
 	<input type = "hidden" name = "cid" id = "cid">
 	<input type = "hidden" name = "fromCity" value = "true">
@@ -301,20 +352,20 @@ function mout()
 	<input type = "hidden" name = "SuburbList" value = "">
 	<input type = "hidden" name = "allSub" value = "false">
 	<input type = "hidden" name = "allLoc" value = "false">
-	-->	
+	-->
 	</div>
-	
-	
-<div class="flt" style="margin-left:-25px; padding-top:4px; display:none;" id="searchLoader"><img src="images/search-loader.gif" width="24" height="24"></div>
+
+
+<div class="flt" style="margin-left:-15px; padding-top:4px; display:none;" id="searchLoader"><img src="images/search-loader.gif" width="24" height="24"></div>
 </div>
 <div class="spacer">&nbsp;</div>
- <div id="NoDataErr" style="display:none"> <div class="spacer5">&nbsp;</div>
-<div class="err_msg_newhome"><img src="images/error_home.png" width="19" height="22" align="absmiddle">Please enter Location, City, Builder or project name</div></div>
+ <div id="NoDataErr" style="display:none"> <div class="spacer3">&nbsp;</div>
+<div class="err_msg_newhome">Please enter Location, City, Builder or project name</div></div>
 </div>
-	
+
 	<div class="flt" style="padding-top:5px; line-height:20px; margin-left:10px;"><strong>Min Price</strong><br>
-	
-		<select name="minBudget" id="minBudget" class="homeselect">
+
+		<select name="minBudget" id="minBudget" class="cityselect">
 		  <option value="0">Min</option>
 		<option value="5">5 Lacs</option>
 	   <option value="25">25 Lacs</option>
@@ -327,7 +378,7 @@ function mout()
 		</select>
 	</div>
 	<div class="flt" style="padding-top:5px; line-height:20px; margin-left:10px;"><strong>Max Price</strong><br>
-		<select name="maxBudget" id="maxBudget" class="homeselect">
+		<select name="maxBudget" id="maxBudget" class="cityselect">
 		  <option value="0">Max</option>
 			<option value="25">
 			25 Lacs</option>
@@ -346,14 +397,13 @@ function mout()
 	<input type="hidden" name="CName" id="CName">
 
 	<div class="flt" style="padding-top:5px; line-height:20px; margin-left:10px;"><strong>Bedrooms</strong><br>
-	
-		<select name="bedId" id="bedHeadSelect" class="homeselect">
-		   <option value="0">Select</option>
-    <option value="1">1</option>
-    <option value="2">2</option>
-	<option value="3">3</option>
-	<option value="4">4</option>
-	<option value="5">5</option>
+		<select name="bedId" id="bedHeadSelect" class="cityselect">
+		<option value="0">Select</option>
+		<option value="1">1</option>
+		<option value="2">2</option>
+		<option value="3">3</option>
+		<option value="4">4</option>
+		<option value="5">5</option>
 		</select>
 	</div>
 	<input type="hidden" name="viewType" id="viewType">
@@ -368,17 +418,17 @@ function mout()
 
 	</div>
 	<div class="spacer">&nbsp;</div>
-</div>
+</td></tr></tbody></table>
 <!--**************************************************************************-->
 
 <!-- Where you are -->
-<div class="spacer3">&nbsp;</div>
-<!--
+<!-- <div class="spacer3">&nbsp;</div> -->
+ <!--
 <div id="mid_conatiner"><a href="#">Home</a>&nbsp;>&nbsp;<a href="property-in-mumbai-real-estate.php">Mumbai</a>
 
 </div>
 -->
-<div class="spacer3">&nbsp;</div>
+<!-- <div class="spacer3">&nbsp;</div> -->
 <!-- Ending -->
 
 <div id="validationDialog" style="display:none">
@@ -407,14 +457,14 @@ function mout()
 <a href="nri.php">NRI Services </a>
 </div>
 <div class="spacer10">&nbsp;</div>
-<div><a href="http://www.proptiger.com/p-lodha-new-cuffe-parade-wadala-mumbai.php?utm_source=banner_ad&amp;utm_medium=banner&amp;utm_term=mumbai&amp;utm_campaign=website"><img src="images/banners/new-cuffe-parade-165x310.jpg" width="165" height="310" border="0" alt="Lodha New Cuffe Parade"></a></div>
+<div><a href="http://www.proptiger.com/p-sai-proviso-county-panvel-mumbai.php?utm_source=banner_ad&amp;utm_medium=banner&amp;utm_term=mumbai&amp;utm_campaign=website"><img src="images/banners/Top-–-generic-ad-for-Sai-Proviso-County-251x81.gif" width="165" height="310" border="0" alt="Sai Proviso County"></a></div>
 <div class="spacer10">&nbsp;</div>
 <div class="project_lefthead">Clients Testimonials</div>
 <div class="spacer3">&nbsp;</div>
-<div>PropTiger staff delivered on their promise right from the beginning. They efficiently processed my paperwork and got me the exact location and floor of my preference.<br>
+<div>I would personally like to thank your PropTiger team for being very professional in handling my deal with Ramprastha Rise project. I would like to have a word of praise for your Gurgaon team for their preseverense and showing utmost care in dealing with me.<br>
   <br>
-  Anita Kriplani<br>
-  <strong>USA </strong></div>
+  Paras Sharma<br>
+  <strong>Jindal Steel &amp; Power Limited </strong></div>
   <div class="flr"><a href="testimonials.php">More</a></div>
   <div class="spacer10">&nbsp;</div>
  </div>
@@ -451,9 +501,22 @@ function mout()
 </div>
 
 <div class="flr">
-  <div><a href="homeloan.php"><img border="0" src="images/home_loan.gif" width="248" height="209"></a></div>
+  <div>
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-4260323617672154";
+/* Other Pages */
+google_ad_slot = "8344833871";
+google_ad_width = 250;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+<!--a href="homeloan.php" ><img border = "0" src="images/home_loan.gif" width="248" height="209" /></a -->
+</div>
 <div class="spacer15">&nbsp;</div>
-<div><a href="#" onclick="showSubsReqForm('Post Your Requirement'); return false;"><img border="0" src="images/post.gif" width="248" height="114"></a></div>
+<div><a href="javascript:void(0);" onclick="showSubsReqForm('Post Your Requirement','postnowbyrightimage','PRIVACY POLICY'); return false;"><img border="0" src="images/post.gif" width="248" height="114"></a></div>
 <div class="spacer10">&nbsp;</div>
 </div>
 </div>
@@ -472,7 +535,7 @@ function mout()
  find your dream property</span><br>
 <div style="margin-top:4px;">
 <span class="flt"><input class="fieldbot" name="emailproperty" id="emailproperty" type="text"></span>
-<span class="flt" style="margin-left:5px;"><input type="button" class="gobtn" value="GO" onclick="showSubsReqForm('Post Your Requirement','gobtn'); return false;"></span>
+<span class="flt" style="margin-left:5px;"><input type="button" class="gobtn" value="GO" onclick="showSubsReqForm('Post Your Requirement','gobtn','PRIVACY POLICY'); return false;"></span>
 </div></div>
 
 <div class="flr" style="width:335px;">
@@ -863,6 +926,7 @@ function mout()
 <input type="hidden" name="cityName" value="">
 <input type="hidden" name="projectName" value="">
 <input type="hidden" name="frmflagpopup" id="frmflagpopup" value="detailfloorpopup">
+<input type="hidden" name="hidpagename" id="hidpagename" value="">
 
 <div class="formright"><input name="Submit" type="button" value="Submit" class="submitbtn" onclick="submitSubReqForm()">
 	<a href="javascript:void(0)" onclick="$('#subsReqForm').dialog('destroy');" style="font-size:12px;">Close</a>
@@ -891,6 +955,20 @@ function mout()
   })();
 
 </script>
+
+<script type="text/javascript">
+setTimeout(function() {
+                var a1=document.createElement("script");
+                var b1=document.getElementsByTagName('script')[0];
+                a1.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/9928.js?"+Math.floor(new Date().getTime()/3600000);
+                a1.async=true;
+                a1.type="text/javascript";
+                b1.parentNode.insertBefore(a1,b1);
+        },1);
+</script>
+
+
+
 
 
 
