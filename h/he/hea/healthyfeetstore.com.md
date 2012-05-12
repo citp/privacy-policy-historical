@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthyfeetstore.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104080430id_/http%3A//www.healthyfeetstore.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthyfeetstore.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512025725id_/http%3A//www.healthyfeetstore.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -46,7 +46,7 @@ Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help anal
 ---|---  
   
 *FREE USA domestic ground  
-shipping on all orders over $75
+shipping on all orders over $50
 
 Free Exchanges - Easy Returns  
   
