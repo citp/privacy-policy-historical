@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveycompare.net privacy policy that was archived on 2010-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100826061945id_/http%3A//www.surveycompare.net/node/11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveycompare.net privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512030152id_/https%3A//www.surveycompare.net/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -27,11 +27,11 @@ We use personal information collected via SC to:
 
 We use "cookies" to identify you when you visit the SC site and to build up a profile of our regular users.  
 A cookie is a small piece of information sent by a web server to a web browser, which enables the server to collect information back from the browser. Our use of cookies also allows members to be presented with a personalised version of the site.  
-We will only read cookies from your cookie file placed there through your web browser's interaction with the win4now site. aboutcookies.org 
+We will only read cookies from your cookie file placed there through your web browser's interaction with this website. Please see [www.Please](http://www.please/ "www.Please") see [www.aboutcookies.org](http://www.aboutcookies.org/ "www.aboutcookies.org") for more information about cookies. for more information about cookies. 
 
 ### Use of session files
 
-We use session files, along with cookies, to log your browsing patterns and so identify the areas of the site which have been of interest to you, allowing us to personalise the PSM site for you.
+We use session files, along with cookies, to log your browsing patterns and so identify the areas of the site which have been of interest to you, allowing us to personalise the website for you.
 
 We also use information in aggregate form (in other words, no individual user is identified) to:
 
@@ -42,7 +42,7 @@ We also use information in aggregate form (in other words, no individual user is
 
 
 
-All personal, cookie and session ID information are made available to win4now call centre employees to enable us and any related third parties to deal more effectively with any enquiry you make.
+All personal, cookie and session ID information are made available to Marketing VF's call centre employees to enable us and any related third parties to deal more effectively with any enquiry you make.
 
 ### Your control over the use of your personal data
 
