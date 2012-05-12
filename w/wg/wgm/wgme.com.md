@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the wgme.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625032216id_/http%3A//www.wgme.com/sections/station/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wgme.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512201956id_/http%3A//www.wgme.com/station/legal/privacy.shtml) for the most accurate reproduction.*
 
-# WGME 13 News Privacy Policy
+# WGME 13 :: Station Info - Privacy Policy
 
-[](https://web.archive.org/sections/station/advertise/)  
----  
-  
+## Privacy Policy
+
 **General**  
 The following privacy policy describes what information is collected by wgme.com (the "Website") and how that information is used. This privacy policy is effective as of February 8, 2007 and will remain in effect until such date as the policy may be modified by the Station in its sole and absolute discretion. Any such changes will be posted on the Website. Your use of the Website constitutes your agreement to the privacy policy as in effect at that time. 
 
@@ -27,15 +26,46 @@ All personal information collected by this Website may be disclosed as required 
 **Linked Sites**  
 The Website allows certain advertisements/postings which include links to other sites. The Station has no control over such other sites and is not responsible for any content on such linked sites or for the use by such other sites of any information collected by those sites. 
 
-**Saturday:**   Mainly cloudy with showers and drizzle.  Chance for a thunderstorm.  Highs 56 to 65. E winds 5-10 mph.
+### Business News
 
- **Saturday Night:**   Mainly cloudy with the chance for drizzle. ...
+**Banks stocks sink after JPMorgan announces loss**
 
-[](http://www.wgme.com/newsroom/wx/)
+NEW YORK (AP) -- Weakness in banking stocks has not been enough to depress the entire stock market today. The key averages turned higher after some initial weakness.
 
-* * *
+### Consumer Info
 
-[](https://web.archive.org/sections/station/advertise/)  
----  
+**NJ gov vetoes Obama-related health exchange bill**  
+TRENTON, N.J. (AP) -- New Jersey Gov. Chris Christie on Thursday became the second governor in the nation to veto legislation that is a key part of President Barack Obama's health care overhaul law. ...
+
+### Entertainment News
+
+**"AMERICAN IDOL"**
+
+LOS ANGELES (AP) -- Joshua Ledet (leh-DET') isn't just good -- he's the best ever. 
+
+### Get This
+
+**MOTHER'S DAY**
+
+NEW YORK (AP) -- Thinking about what to get mom for Mother's Day? 
+
+### Science/Tech News
+
+**IN THE NEWS: US PHONE SUBSCRIBERS HANG UP ON CONTRACTS**
+
+NEW ORLEANS (AP) -- Thinking of giving up your expensive cell phone contract? 
+
+[](https://web.archive.org/station/advertise/)
+
+## Forecast
+
+******Saturday:** Chilly start. Sunny and warmer.  Highs 70 to 75.  W winds 10 mph. 
+
+**Saturday Night:**   Partly cloudy. Slight risk for a shower (esp in the mountains).  Lows 44 to 51. 
+
+**Sunday:** A mix of clouds and sun. Brightest early. Chance for an afternoon shower or t-storm.  Highs 68 to 73.
+
+[](https://web.archive.org/sections/station/advertise/)
+
   
-IE6 Float Fix
+
