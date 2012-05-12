@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kovideo.net privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008040906id_/http%3A//www.kovideo.net/text-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kovideo.net privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513014346id_/http%3A//www.kovideo.net/text-privacy-policy.html) for the most accurate reproduction.*
 
 # 
 
@@ -43,7 +43,7 @@ KOvideo fully cooperates with law enforcement agencies in identifying those who 
 
 **Changes to our Privacy Policy** Use of information we collect is subject to the Privacy Policy in effect at the time such information is used or collected. From time to time, we may change our Privacy Policy and will notify you of those changes by email or post a notice on the kovideo.net website. Users are bound by any changes to the Privacy Policy when they use kovideo.net after such changes have been first posted. Please note that if you opt out of receiving legal notices from us, those legal notices will still govern your use of kovideo.net, and you are responsible for reviewing such legal notices for changes. 
 
-**Some of our Partners Privacy Policies** We strongly ecourage you to review also our partners advertising policies since those also impact you privacy on our site.  
+**Some of our Partners Privacy Policies** We strongly ecourage you to review also our partners advertising policies since those also impact your privacy on our site.  
 
 
   * [EyeWonder](http://www.eyewonder.com/privacy.php)
@@ -51,6 +51,7 @@ KOvideo fully cooperates with law enforcement agencies in identifying those who 
   * [DoubleClick / Google Ads](http://www.google.com/intl/en/privacy/ads/)
   * [Advertising.com / AOL](http://advertising.aol.com/privacy/advertisingcom/company-statement)
   * [SourceKnowledge](http://sourceknowledge.com/privacy.php) / [ProvenPixel](http://provenpixel.com/privacy.html)
+  * [LiveRail](http://liverail.com/privacy_policy.pdf)
 
 
 
