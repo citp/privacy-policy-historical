@@ -1,109 +1,116 @@
-> *The following text is extracted and transformed from the ancestry.com.au privacy policy that was archived on 2011-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111004033137id_/http%3A//www.ancestry.com.au/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ancestry.com.au privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512092752id_/http%3A//www.ancestry.com.au/legal/privacy.aspx) for the most accurate reproduction.*
 
-# - Ancestry.com.au
+# Privacy Statement - Ancestry.com.au
 
-Ancestry.com.au - Privacy Statement
+Last Updated December 1, 2011
 
-Privacy Information for Ancestry.com.au ("Website")
+**In this Statement, we** , Ancestry.com Europe S.à r.l., 31, rue Philippe II, L-2340 Luxembourg, Grand-Duchy of Luxembourg (“Ancestry” or “we”) provide information on (a) how we process personal data that we collect through websites that we operate and that directly link to this Statement (collectively “Website”) and (b) how you can process personal data on our platform and Website.
 
-By accessing the Website you agree to be bound by this Privacy Statement in addition to the Terms and Conditions which define your rights, responsibilities and obligations with respect to your use of the Website. You consent to our use, collection, storage and disclosure of your personal information in accordance with this Privacy Statement. We may amend, edit or update this Privacy Statement from time to time. If we make any material changes we will notify you by way of a prominent notice on the Website announcing such changes. 
+Most of the personal data on our Website is actually uploaded and processed by users for their own personal and private purposes. We recognise the confidentiality of information that may be disclosed by users in registering or making purchases from our Website and we are firmly committed to protecting your privacy choices. Ancestry’s mission is to help everyone discover, preserve and share their family history through using the resources available on its Website and also through collaborating with its extensive number of users around the world. This may involve the collecting, processing, storing and sharing of personal data and we want to ensure that this is done in a responsible, transparent and secure environment that fosters user trust and confidence.
 
-Ancestry.com Operations Inc., operator of the Website (and referred to as 'Ancestry.com' 'Ancestry' 'we' 'us' 'our'), recognises the confidentiality of information that may be disclosed by members in registering or making purchases from our Website and we are committed to respecting and upholding your rights to privacy protection. The following discloses our information gathering and dissemination practices for this Website. 
+As a reminder, the Ancestry.com Community is the collaborative resource in which our users participate and it comprises the users of the Website and other websites and platforms owned by Ancestry (including ancestry.com, ancestry,com.au, ancestry.ca, rootsweb.com, genealogy.com, mundia.com). By registering with the Website you are becoming part of the Ancestry.com Community.
 
-**Overview**  
-The personal, private information that is provided to us by individual members is not provided to unrelated third parties save where necessary to perform the functions of this Website; where the terms have been breached; where required by law; or as otherwise set out below. 
+**Does Ancestry ask for personal information?**
 
-The Website is owned and operated by Ancestry.com Operations Inc., a Delaware corporation located in the United States of America. You understand and acknowledge that by accessing this Website, your personal information may be transferred, processed and stored outside of Australia. Ancestry may use related entities or other third parties (whether within or outside of Australia) to process the data. 
+Yes. Ancestry asks for your name and e-mail address when you sign up as a member and use features such as e-mail. In addition we will need to know your postal address and payment details when you choose to take out a subscription with us or make purchases at the Ancestry online shop. We may ask for similar information at other times, such as when you enter sweepstakes or other promotions sponsored by Ancestry and/or our many partners. Most of this information may be entered at your discretion. As a member of Ancestry, you can also choose to share further information about yourself, your background and interests with other members. The amount and type of profile information you share in this way is entirely your choice. Information about some of your activity on the Website, such as historical records you save, may also be shared with other members in order to help you connect with others researching similar ancestors. See 'Member Profiles' below for more information on how you can edit or control what you allow other members to see about you and your Website activity in your Public Profile or other places on the Website. You may also provide us with additional personal information about yourself and others in the course of doing your, or others’, family research on our Website, e.g., adding a photo or birth record to a tree or sharing it with someone through our Service.
 
-The specifics of our use of personal information are best described in the answers to the following Frequently Asked Questions: 
+**How Does Ancestry use my personal information?**
 
-**Do you ask for personal information from your members?**  
-Yes. We ask for your name, e-mail address when you sign up as a member and when you use features such as e-mail. In addition we will need to know your postal address when you choose to take out a subscription with us or when you make purchases from us. Much of this information may be entered at your discretion. We may ask for similar information at other times, such as when you enter sweepstakes or other promotions sponsored by us and/or one of our partners. 
+Our goal is to provide you with the most personalised, relevant, user-friendly experience possible. The primary use of all your personal information is to efficiently provide you with relevant information. Ancestry will also use registration information to let you know about new features or other offers of interest from Ancestry, or to address customer service needs and requests.
 
-To facilitate payment and fulfillment in connection with membership and other purchases from us, we will request personal credit card, debit card or other payment information. 
+In distributing advertiser or sponsor messages, we do not provide the advertisers with access to individual account information. Ancestry does not sell, rent or otherwise distribute the personal information you provide us to these advertisers unless you have given us your consent to do so at any stage. Advertisers simply provide an insertion order for the advertising message and Ancestry then displays the ad to appropriate users based on the criteria specified in the order. In this context, we may work with third party service providers and advertisers who will arrange for targeted ad displays to you (which involves cookie placement – as discussed in more detail below). 
 
-As an Ancestry member you can also choose to share further information about yourself, your background and interests with other members. The amount and type of profile information you share in this way is entirely your choice. Information about some of your activity on the site, such as historical records you save, may also be shared with other members in order to help you connect with others researching similar ancestors. See 'Member Profiles' below for more information on how you can edit or control what you allow other members to see about you and your site activity in your public profile or other places on the site.
+So that you get the most out of the Service and great functionality we will also use your personal information to serve you hints about possible matches in your tree, to enable you and other members of the Ancestry.com Community to contact each other on an anonymous basis, as well as to provide product and Website updates and newsletters, for your Public Profile, using Member Connect etc. See section below ‘Managing your privacy settings’ to learn how you can opt out or change your settings.
 
-**How do you collect and use my personal information?**
+**Does Ancestry request or require any personal financial information?**
 
-We usually collect personal information about you when you submit content through the Website or where you contact us by email or otherwise
+To facilitate payment and fulfillment for membership and purchases at the Ancestry Online Shop, Ancestry will request personal credit card or debit card information. In order to take advantage of other value-added family services that may be offered by Ancestry in the future, users may be required to supply financial information.
 
-Where practical we will collect your personal information from you directly. However, as well as collecting personal information directly from you, we may also collect your personal information from a third party. For example, other members may upload personal information about you (e.g. date of birth, etc) to the Website through their family tree or through other content submissions. While we advise our members to be sensitive to privacy issues and obtain consents and permissions where necessary, we have no control over the content of these posts. If personal information appears on the Website without your permission please contact us at the contact address below and we will work toward resolving the issue.
+**Will Ancestry disclose any of my personal information to third parties?**
 
-The primary use of your personal information, other than directly in connection with a purchase, is to efficiently provide you with personalized, relevant information. 
+Ancestry will not disclose any of your personal information, except (a) with your knowledge and any relevant consents, (b) as described in this policy, (c) where personal information is collected through this Website and (d) as may be required by law, regulatory authorities, legal process or to protect the rights or property of Ancestry or other users.
 
-We will also use registration information to let you know about new features or other offers of interest from us and to address customer service needs and requests. 
+Demographic information collected through on-site user surveys may be used in aggregate statistical form to attract potential sponsors, partners and advertisers but these statistics will include no personally identifying information. We do reserve the right to disclose aggregated user statistics, such as "45 percent of our users are female" or "10,000 members indicate an interest in gardening" in order to describe our services to prospective partners, advertisers, and other third parties.
 
-In distributing advertiser or sponsor messages, the advertiser is not given access to individual account information. We do not sell, rent or otherwise distribute the personal information you provide us to these advertisers. Advertisers simply provide the advertising message and we then display the ad to appropriate users. 
+Under the protection of appropriate agreements, we use third party processors in some cases to help us provide services, and manage our Website and relationships with you. These may include purchase and order fulfillment, credit card processing, removing duplicate information from lists, providing marketing assistance and providing other customer services. Third-party processors and providers will be given access only to that information needed to perform their support functions, and are prohibited from using it for other purposes. Processors include affiliated and unaffiliated service providers in Europe, in the United States and in other jurisdictions. With respect to processors outside Europe, we ensure adequate safeguards for your personal data, as required by applicable law.
 
-**Will you disclose any of my personal information to third parties?**  
-We will not disclose your personal information provided in connection with membership registration or purchases, except with your knowledge and consent as described in (a) this Privacy Statement or (b) where personal information is collected through the Website or (c) as may be required by law, or to protect our rights or property. 
+If you click away from our Website to visit the site of any third party advertiser or sponsor, you may be asked for your payment card or other personal information in order to purchase or use products and services offered. These companies have their own privacy and data collection practices. We have no responsibility or liability for these independent policies. You should therefore review their privacy policies carefully if you have concerns about how your information may be used.
 
-Information submitted by you online (such as information about products you purchase from us, your name, address, e-mail address) may be shared with companies with which we have a commercial relationship and through which you reached the Website, for marketing purposes. For example, if you make a purchase with us because of a special offer made through another site acting as a distributor of our products, in that circumstance you will be considered their customer as well. If you object to such use, you may opt-out by e-mail request. We will not, except as may be required by law, share with any other party your password or payment information. 
+As our business continues to grow, we might restructure, buy, or sell subsidiaries or business units. In these transactions, customer information is often one of the transferred assets, remaining subject to promises made in existing privacy statements. Also, in the event that Ancestry, or substantially all of its assets are acquired, customer information will as a matter of course be one of the transferred assets.
 
-Other circumstances where limited personal information may be disclosed are specifically described when the data is collected, or in the rules of sweepstakes or other promotions. 
+**How else may my personal information be used?**
 
-Demographic information collected through on-site user surveys may be used in aggregate statistical form to attract potential sponsors, partners and advertisers but these statistics will include no personally identifying information. We reserve the right to disclose aggregated user statistics, such as "45% of our users are female" or "47% of our users have attended college" in order to describe our services to prospective partners, advertisers, and other third parties. Under protection of confidentiality agreements, Ancestry may match common user information, such as name, address and phone number with third party data to avoid duplication and prevent errors. 
+Ancestry may send electronic mail to you for the purpose of informing you of changes or additions to Ancestry or of any Ancestry-related products and services. You can also choose to receive promotional offers from trusted Ancestry partners. If you do not want to continue to receive such mailings, you may opt out at any time by using the unsubscribe link listed in the e-mail or by amending your 'e-mail preferences' in the '[My Account](http://www.ancestry.com.au/myancestry/myaccount/default.aspx)' section of our Website.
 
-**What about purchases from advertisers or other linked sites?**  
-If you click away from the Website to visit the site of any third party advertiser or sponsor, you may be asked for your credit card or other personal information in order to purchase or use products and services offered. These companies have their own privacy and data collection practices. We have no responsibility or liability for these independent policies. You should therefore review their privacy policies carefully if you have concerns about how your information may be used. 
+**May I refuse to provide personal information to Ancestry or to accept advertising?**
 
-**Will Ancestry use my information for direct mailings?**  
-We will send electronic mail or other mail to you, for the purpose of informing you of changes or additions to the Website, or of any Ancestry.com or Ancestry related products and services. If you do not want to receive such mailings, you may opt out at any time by using the unsubscribe link listed in the e-mail or at your preferences page. 
+Visitors may access Ancestry's free services by registering with a first name, last name, and e-mail address. To gain full access to the paid members-only areas, a username, e-mail address and appropriate billing information are required. Because occasionally the Ancestry Website may be partially advertiser supported, you may not "turn off" the advertising that appears on Ancestry pages, but you may opt to be excluded from any marketing or promotional e-mails.
 
-**May I refuse to provide personal information to you or to accept advertising?**  
-Visitors may access the Website free services by providing a first name, last name, and e-mail address or other information that we may deem appropriate to that purpose. To gain full access to the members-only areas, a username, e-mail address and appropriate billing information are required. Because the Website is partially advertiser supported, you may not "turn off" the advertising that appears on the Website pages, but you may opt to be excluded from any e-mail advertising. 
+**Family information**
 
-**Family information**  
-Where you choose to invite other family members to view and edit your family tree, we will ask you for the family member's e-mail address. You must first make certain that you have obtained the consent of the family member to the passing of their details by you to Ancestry. Ancestry will only use this information for the purpose of contacting the relative with their access details and will not use the information for marketing purposes. In addition you should also make sure that information or material you wish to place on the site about your living relatives is only posted with their prior knowledge and consent.
+Where you choose to invite other family or other members of the Ancestry Community to view and edit your family tree, we will ask you for the individual's e-mail address. You must first make certain that you have obtained their consent to the passing of their details by you to Ancestry. Ancestry will only use this information for the purpose of contacting the individual with their access details and will not use the information we collect as a result of this process for marketing purposes. In addition you should also make sure that information or material you wish to place on the Website about your living relatives is only posted with their prior knowledge and consent.
 
-**Do you use "IP Addresses" and cookies?**  
- **IP Addresses:**  
-We do use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is also used to gather broad demographic information such as geographic distribution of our members and may be used to “geolocate” our members to allow us to provide services appropriate to your place of residence. 
+**Does Ancestry use "IP Addresses" and “cookies”?**
 
-**Cookies:**  
-Contrary to popular myth, cookies do not extract private or personal information from your computer’s memory, but rather, record only information you volunteer to us upon registering or visiting the site. Cookies are tiny files placed onto the hard drive of your computer when you register at our Web site that enable our server to recognize or "remember" who you are each time you return. We may make limited use of cookies to deliver content specific to your interests. For instance, we may use cookies to retain your personal preferences, hold session information for a "shopping basket," or save your password so it doesn’t have to be re-entered each time you login. 
+We have to use your IP address to deliver the Website and our service to you and to help diagnose problems with our server. Your IP address is also used to gather broad demographic information such as geographic distribution of our members.
 
-**Advertiser Cookies:**  
-We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [click here](http://www.networkadvertising.org/optout_nonppii.asp). 
+We place cookies, small files, on your computer, to optimize and customize the Website and your experience. Our cookies do not extract any contact information or other private or personal information from your computer's memory, but rather record only information your computer sends us when you visit our Website. Cookies enable our server to recognize or "remember" who you are each time you return. Ancestry may make limited use of cookies to deliver content specific to your interests. For instance, they may be used to retain your personal preferences, hold session information for a "shopping basket," or save your password so it doesn't have to be re-entered each time you login.
 
-**When do you distribute or publish information on the living on your Sites?**  
-Posts contributed by our members to message boards and other community areas may include information on the living. While we advise our members to be sensitive to privacy issues, we have no control over the content of these posts. If such a post violates our Terms and Conditions, you may notify us at [“report abuse”](mailto:abuse@ancestry.com) and we will help work toward resolving the issue. 
+You can erase or block cookies from your computer if you want to (your help screen or manual should tell you how to do this), but certain Ancestry services may not work correctly or at all if you set your browser not to accept cookies.
 
-We do republish databases that contain published information on the living, such as white pages, people finder directories and some birth, death and marriage records. The information in these databases has been gathered from public records released by governmental and other agencies, and is available elsewhere, often on the Internet. 
+We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. If you would like more information about this practice and your choices, [click here](http://www.networkadvertising.org/optout_nonppii.asp).
 
-**What else should I know about privacy?**  
-The following details a few key issues mentioned in context above: 
+**Managing your privacy settings**
 
-**Member Profiles**  
-You may provide information about yourself to the community and other areas of our sites, but only at your option. If provided in a public community area, the data is, of course, public. Participation in public areas and community services is at your discretion. 
+You may share personal information through the Website in a number of ways. Please be aware that any personal information you elect to post on our Website may be made available on our affiliates’ websites, may be visible to both registered and non-registered users of the Website, and in some instances may be publicly available through, for example public record sources such as census records or birth, marriage and death records.  You can control how you share some personal information by changing your privacy settings in the following areas (this is found in the **My Account** and **Trees** sections of the Website):
 
-**Your Public Profile**  
-When you sign-up as a member you are provided with a public member profile pre-populated with your chosen username. Your user name and location will be displayed on the site when you post, comment or interact with other Ancestry members. If you want additional privacy you can edit your username within your public profile to one that does not include any personally identifiable information. You can also enhance your public profile to provide additional information about yourself. Any information including any sensitive personal information that is disclosed in this area becomes public and you should therefore exercise caution when deciding what personal information you choose to disclose. You can customize your settings about how other members can contact you as well as what displays on your Public Profile. If you do not do this then the default setting is that the information within your Public Profile and also certain elements of your recent activity on the site will be publicly accessible by other members. To edit your preferences [click here](http://www.ancestry.com.au/myancestry/myaccount/communityprefs.aspx)
+  * **Site Preferences** : this allows you to control the information that others in the Ancestry.com Community see about you.
+  * **Email Settings:** this allows you to control what marketing emails we send to you.
+  * **Tree Settings:** this allows you to control your tree settings;
+  * **Public, Private or Hidden**. [What does this mean?](http://ancestryau.custhelp.com/cgi-bin/ancestryau.cfg/php/enduser/std_adp.php?p_faqid=3082)
+  * **Alerts** : this allows you to control the email alerts that are sent to you.
 
-Through the [Community Preferences](http://www.ancestry.com.au/myancestry/myaccount/communityprefs.aspx) link in the Ancestry '[My Account](http://www.ancestry.com.au/myancestry/myaccount/default.aspx)' section of the site, you can choose either to display your e-mail address with other members or ensure that your e-mail is withheld so that you are only contacted anonymously through the Ancestry Connection Service. You can also control when you are contacted or block certain people from contacting you.
 
-You can also customize what other members can learn about your Ancestry site activity. To help you connect with other members researching similar ancestors, by default new accounts are set up to allow other members to learn about things you publicly add or post to the site, as well as some personal research activities (such as saving historical records to your Shoebox or private member tree). To customize these settings, simply go to the “Activity Preferences” link on the Community Preferences page
 
-**Contests & Promotions**  
-We may occasionally run contests or other special promotions on our site in which we ask members or visitors for contact information (like an e-mail address) or demographic information (like a zip code, age, or income level). We use this data to send users promotional material about our company or our partners. The participant’s contact information is also used to contact him or her when necessary and may be shared with other companies for promotional purposes, but only with your prior permission and under the terms and conditions specified when you take part in the promotion. At any time, you may opt-out of receiving future mailings of this kind, or simply decline to take part in the promotions. 
+In addition, if we determine that you are living though our clever site algorithm then we will not show your information in your tree and so it will not be available to others unless you chose to share it.
 
-**Public forums - Ancestry Community**  
-This site makes forums, message boards and/or newsgroups available to its members. Any information that is disclosed in these areas becomes public information and you should take care when deciding what personal information to disclose to others.
+**What else should I know about privacy?  
+**
 
-**Protection of my personal information**  
-We have taken reasonable steps to ensure the security, integrity and privacy of your personal information. We use a variety of physical and electronic measures to keep personal information secure from misuse, loss, unauthorised use or disclosure.
+The following sets out a few key issues mentioned above.
 
-**Can I access and request correction of my personal information?**  
-Yes, you can gain access to your personal information held by us by contacting us at [support@ancestry.com](mailto:support@ancestry.com), or write to us at the address below. If we refuse to provide you with access to the information, we will provide you with valid reasons for the refusal. 
+**Member Profiles**
 
-If you believe that personal information that we hold about you is incorrect, incomplete or inaccurate, then you may contact us and request amendment of it. 
+**Your Public Profile  
+**
 
-**Contacting Us**  
-If you have any questions about this Privacy Statement, the practices of or your dealings with this Website, you can contact:
+When you sign-up as a member you are provided with a public member profile pre-populated with your chosen username. Your username and location will be displayed on the Website when you post, comment or interact with other Ancestry members. If you want additional privacy you can edit your username within your Public Profile to one that does not include any personally identifiable information.  You can also enhance your Public Profile to provide additional information about yourself. Any information including any sensitive personal information that is disclosed in this area becomes public and you should therefore exercise caution when deciding what personal information you choose to disclose. You can customize your settings on how other members can contact you as well as what displays on your Public Profile. If you do not do this then the default setting is that the information within your Public Profile and also certain elements of your recent activity on the Website will be publicly accessible by other members. To edit your preferences [click here](http://www.ancestry.com.au/myancestry/myaccount/communityprefs.aspx).
 
-Ancestry.com  
-360 W 4800 N Provo, UT 84604  
-United States of America
+Through the "[Community Preferences"](http://www.ancestry.com.au/myancestry/myaccount/communityprefs.aspx) link in the Ancestry '[My Account'](http://www.ancestry.com.au/myancestry/myaccount/default.aspx) section of the Website, you can choose either to display your e-mail address with other members of the Ancestry Community or ensure that your e-mail is withheld so that you are only contacted anonymously through the Ancestry Connection Service. You can also control when you are contacted or block certain people from contacting you.
 
-This Privacy Statement was last updated on July 15, 2009.
+You can also customize what other members can learn about your Ancestry Website activity. To help you connect with other members of the Ancestry.com Community researching similar ancestors, by default new accounts are set up to allow other members to learn about things you publicly add or post to the Website, as well as some personal research activities (such as saving historical records to your Shoebox or private member tree). To customize these settings, simply go to the **“Activity Preferences** ” link on the Community Preferences page.
+
+**Anonymous demographic profiles  
+**
+
+Demographic data is collected at our Website at the users' option. This information may include age and gender and other personal preferences that can be viewed and tabulated for use in marketing Ancestry to advertisers and others. In no case is personal information given or sold to third parties. Ancestry controls the distribution of ALL information at the Website.
+
+**Contests& Promotions   
+**
+
+Ancestry may occasionally run contests or other special promotions on our Website in which we ask members or visitors for contact information (like an e-mail address) or demographic information (like a zip code, age, or income level). We use this data to send users promotional material about our company or our partners. The contact information is also used to contact the member or visitor when necessary and may be shared with other companies for promotional purposes, but only with your prior permission and under the terms and conditions specified when you take part in the promotion. At any time, users may opt-out of receiving future mailings of this kind, or simply decline to take part in the promotions.
+
+**Public forums – Ancestry.com Community  
+**This section of the Website makes forums, message boards and/or newsgroups available to the members of the Ancestry.com Community. Any information that is disclosed in these areas becomes public information and you should take care when deciding what personal information to disclose to others.
+
+**Security**
+
+Ancestry places great importance on the security of all personally identifiable information associated with our members. We have security measures in place to attempt to protect against the loss, misuse or alteration of member data under our control. For example our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized personnel have access to member information. We use secure server software to encrypt financial information you input before it is sent to us. While we cannot guarantee that loss, misuse or alteration of data will not occur however we will use our best efforts to prevent this.
+
+**Changes, Updates**
+
+By using our Website and the Services you consent to the collection and use of your personal information by Ancestry. If we decide to change our privacy statement, we will issue an updated version of this Statement with an updated date legend (and/or notify you via e-mail or postal mail or by other appropriate means) so that you will be aware of what information we collect, how we use it and under what circumstances we disclose it in accordance with applicable law. If you do not consent to any changes to our privacy statement and as a result you would like us not to use or hold your information in accordance with the revised terms, you may notify us [here](mailto:customersolutions@ancestry.com.au) so we can decide whether to continue to apply the previous policy or delete your information and/or account.
+
+**Contacting the Website**
+
+If you have any questions about this privacy statement, the practices of this Website, or your dealings with this Website, or wish to request access to and receive information about the personal data we maintain about you, update and correct inaccuracies in your personal data, have the information blocked or deleted, as appropriate, or oppose (in case of legitimate reasons) the processing carried out with respect to your personal data (note please that the right to access personal information may be limited in some circumstances), you can contact us by clicking [here](http://ancestryau.custhelp.com/cgi-bin/ancestryau.cfg/php/enduser/ask.php).
