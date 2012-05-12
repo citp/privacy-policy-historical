@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doubleyourdating.com privacy policy that was archived on 2011-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110929062449id_/http%3A//www.doubleyourdating.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doubleyourdating.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512060157id_/http%3A//www.doubleyourdating.com/privacy/index.html) for the most accurate reproduction.*
 
 # Double Your Dating | Your Privacy
 
@@ -34,7 +34,7 @@ There is no central “opt out” place that we are aware of. There are efforts 
 
 Regardless of the state of privacy as a whole, you can avoid us finding out extra demographic information about you by doing the following:
 
-1\. email us using our [ contact page](https://web.archive.org/web/20110929062449id_/http%3A//www.doubleyourdating.com/contact.html?s=17477)
+1\. email us using our [ contact page](https://web.archive.org/web/20120512060157id_/http%3A//www.doubleyourdating.com/contact.html)
 
 2\. in the subject line write: “Privacy - opt out of demographic information”
 
@@ -74,13 +74,13 @@ Clear GIFs can "work with" existing cookies on a computer if they are both from 
 
 Your email information (email address, first name) is stored at the list server that delivers DDMI newsletters. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive DDMI's newsletters.
 
-All of the newsletters that are sent to you by DDMI include an unsubscribe link in them. You can remove yourself at any time from our newsletters by clicking on the unsubscribe link. You can also unsubscribe yourself at any time by [clicking here](https://web.archive.org/u/?s=17477). 
+All of the newsletters that are sent to you by DDMI include an unsubscribe link in them. You can remove yourself at any time from our newsletters by clicking on the unsubscribe link. You can also unsubscribe yourself at any time by [clicking here](https://web.archive.org/web/20120512060157id_/http%3A//www.doubleyourdating.com/help/unsubscribe.html). 
 
 ## Disclaimer
 
 This policy may be changed at any time at DDMI's discretion. If we should update this policy, we will post the updates to this page on our Website. This policy was revised September 19, 2011.
 
-If you have any questions or concerns regarding our privacy policy please send us your question by [going here](https://web.archive.org/web/20110929062449id_/http%3A//www.doubleyourdating.com/contact.html?s=17477). You may also send a letter to:
+If you have any questions or concerns regarding our privacy policy please send us your question by [going here](https://web.archive.org/web/20120512060157id_/http%3A//www.doubleyourdating.com/contact.html). You may also send a letter to:
 
 David DeAngelo Marketing Inc  
 3960 Howard Hughes Pkwy.  
