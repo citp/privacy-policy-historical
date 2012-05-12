@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tanga.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124020153id_/http%3A//www.tanga.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tanga.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512054710id_/http%3A//www.tanga.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Tanga
 
@@ -26,10 +26,10 @@ If you have comments or questions about our privacy policy, please send them to 
 
 Tanga.com, LLC
 
-2218 East Williams Field Road
+2350 E Germann Road
 
-Suite 250
+Suite 22
 
-Gilbert, AZ 85295
+Chandler, AZ 85286
 
 phone: 435-688-9595
