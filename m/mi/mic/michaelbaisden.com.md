@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the michaelbaisden.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630030402id_/http%3A//michaelbaisden.com/%3FitemCategory%3D39393%26siteid%3D409%26priorId%3D39390) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaelbaisden.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512031022id_/http%3A//www.michaelbaisden.com/%3FitemCategory%3D39393%26siteid%3D409%26priorId%3D39390) for the most accurate reproduction.*
 
-# Privacy Policy/Your California Privacy Rights - Official Website for The Michael Baisden Show, Baisden After Dark, Live
+# Privacy Policy/Your California Privacy Rights - Michael Baisden, Michael Baisden Show, Baisden After Dark, Baisden Live
 
 This site is owned by Citadel Broadcasting Corporation (“Citadel”) and/or its subsidiaries.  Citadel’s privacy policy covers the collection, use and dissemination of personal information that may be collected by Citadel anytime you interact with Citadel on one of its websites, such as when you listen to audio streams, view video streams, visit our websites, when you purchase products, or when you contact Citadel.  Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information.
 
