@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 199.21.148.39 privacy policy that was archived on 2011-10-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111011030300id_/http%3A//www.infinityads.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 199.21.148.39 privacy policy that was archived on 2012-05-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120512084041id_/http%3A//www.infinityads.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -57,7 +57,7 @@ document.write('<style type="text/css">.tabber{display:none;}<\/style>');
 <link rel="next" title="Terms of Service" href="http://www.infinityads.com/terms-of-service/">
 <meta name="generator" content="WordPress 2.8.6">
 
-<!-- All in One SEO Pack 1.6.10.2 by Michael Torbert of Semper Fi Web Design[422,552] -->
+<!-- All in One SEO Pack 1.6.13.4 by Michael Torbert of Semper Fi Web Design[422,552] -->
 <meta name="description" content="This Privacy Policy describes what information we gather from you, how we use that information, and what we do to protect it. By using the Site, you expressly">
 <link rel="canonical" href="http://www.infinityads.com/privacy-policy/">
 <!-- /all in one seo pack -->
@@ -88,19 +88,73 @@ function submit_form(value) {
                         return true;
                 }
         }
+		
+			
 </script>
+
+
+
 
 <div class="c_pannel" style="z-index:999999;">
 
                     <strong class="btn-slide cp_btn_home"> USER LOGIN HERE <img src="http://www.infinityads.com/wp-content/themes/Shade Pro/images/drop_down.png" border="0"></strong>
 
                     <div style="display: none;" id="panel">
-<form name="login" method="post" action="http://member.infinityads.com/publisher/login" onsubmit="return submit_form(this)">
+                    
+<script type="text/javascript">
+function submitform()
+{
+	//1 get account
+		
+	//2 get p / a
+	
+	var account_type = $("#user_id").val();
+	
+	if((account_type.indexOf("a")>0) || (account_type.indexOf("A")>0)  ) account_type = "a";
+	if((account_type.indexOf("p")>0) || (account_type.indexOf("P")>0)  ) account_type = "p";
+	// alert(account_type);
+	
+	
+
+	
+	//3 submit
+	if(account_type == "a"){
+		$("#signin_form").attr("action","http://advertiser.infinityads.com/checklogin.php");
+	 	$("#user_id").attr("name","username");
+	//	 alert($("#user_id").attr("name"));
+		
+		var username = $("#user_id").val();
+			
+			
+		 username = parseInt(username.substring(4));
+		 $("#user_id").val(username) ; 
+			
+	//	 alert(username);
+	
+	
+
+	}else if(account_type == "p"){
+		$("#signin_form").attr("action","http://member.infinityads.com/publisher/login");
+	}else{
+		alert("Error!");
+		$("#signin_form").attr("action","http://www.infinityads.com/");
+	}
+	document.login.submit();
+}
+</script>
+                    
+                    
+<form id="signin_form" name="login" method="post" action="http://member.infinityads.com/publisher/loginp" onsubmit="return submit_form(this)">
                                   <label>Account ID</label>
-                                  <input type="text" name="user_id" class="input_text" id="user_id">
+                                  <input type="text" name="user_id" class="input_text" id="user_id" onfocus="this.value=''" value="5-X-XXXX">
                                   <label>Password</label>
                                   <input type="password" name="password" class="input_text" id="password">
-                                  <p class="btn_row"><input class="input_btn2" type="submit" name="sign in" value="sign in"></p>
+                                  <p class="btn_row">
+                                  		<input class="input_btn2" type="hidden" name="sign in" value="sign in">
+                                  
+                                 		<a class="checkuser" href="javascript:submitform();">Sign In</a>
+                                        	
+                                  </p>
 </form>
 </div>
 
@@ -272,11 +326,11 @@ InfinityAds is not responsible for the content or practices of third party websi
 <div class="footer-bg" style="text-align:left; height:60px; width:100%; ">
 
 <div class="wrap">
-
-  <a href="http://www.infinityads.com/"><img class="foot-logo" src="http://www.infinityads.com/wp-content/themes/Shade Pro/images/logo2.jpg" alt="Pop Under – Pop Up Ads – Targeted Internet Advertising Services" border="0"></a>
-
+<!--
+  <a href="http://www.infinityads.com/"><img class="foot-logo"  src="http://www.infinityads.com/wp-content/themes/Shade Pro/images/logo2.jpg" alt="Pop Under &#8211; Pop Up Ads &#8211; Targeted Internet Advertising Services"  border="0" /></a>
+-->
   <div class="foot-link">
-<p><small>Copyright © 2008-2009 InfinityAds.com, Yesup Ecommerce Solutions Inc. All rights reserved.</small></p>
+<p><small>Copyright © 2008-2011 InfinityAds.com, Yesup Ecommerce Solutions Inc. All rights reserved.</small></p>
     
   </div>
 
@@ -290,7 +344,7 @@ var yuSite = 15;var yuType = 'view';var yuEscape = window.encodeURIComponent || 
 var yuUrl = yuEscape(document.location.href);
 document.write(unescape("%3Cscript src='" + yuBaseURL + "js/track.js' type='text/javascript'%3E%3C/script%3E"));
 document.write(unescape("%3Cscript src='" + yuBaseURL + "track.php?idsite="+yuSite+"&type="+yuType+"&url="+yuUrl+"&rand="+Math.random()+"' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://track.visitorpath.com/js/track.js" type="text/javascript"></script><script src="https://track.visitorpath.com/track.php?idsite=15&amp;type=view&amp;url=https://web.archive.org/web/20111011030300id_/http://www.infinityads.com/privacy-policy/&amp;rand=0.5355526653484046" type="text/javascript"></script>
+</script><script src="https://track.visitorpath.com/js/track.js" type="text/javascript"></script><script src="https://track.visitorpath.com/track.php?idsite=15&amp;type=view&amp;url=https://web.archive.org/web/20120512084041id_/http://www.infinityads.com/privacy-policy/&amp;rand=0.2904917562617728" type="text/javascript"></script>
 <!-- End View Tracking -->
 
 
