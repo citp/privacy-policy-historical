@@ -1,26 +1,38 @@
-> *The following text is extracted and transformed from the pinoyrecipe.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611213951id_/http%3A//www.pinoyrecipe.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinoyrecipe.net privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512132118id_/http%3A//www.pinoyrecipe.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy by PinoyRecipe.Net
+# Privacy Policy | PinoyRecipe.Net Filipino Recipes Portal
 
-### PinoyRecipe.net Privacy Policy
+## Privacy Policy for PinoyRecipe.net
 
-PinoyRecipe.net is concerned about your privacy. We do our very best not to infringe upon your freedom to surf the internet. The only information we collect from your surfing is to monitor traffic flow on our sites (which pages are viewed and how often), to maintain security (in case of hacking), and to keep our sites up to date (when broken links are found). IP address is used solely for traffic flow patterns (if there was another way we’d use it – sorry!), browser type/platform is used so we can design our sites so the majority of our visitors can use all of our features – we hate to leave anyone out.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at aspiresearch @ gmail.com.
 
-We do use third-party advertising to serve ads on our sites. We do share visitor traffic information to our sites with these companies for the sole purpose of managing and targeting advertisements and for market research analysis on our sites. The third-party advertising companies may use pixel tags (also called clear gifs) to note which pages are more popular than others for advertising purposes. In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique “cookie” on your computer.
+ 
 
-Any information given voluntarily, such as an email address used to sign up for our mailing lists, is used for internal purposes only and is **NEVER, EVER** sold or given to anyone outside of PinoyRecipe.net. Voluntarily submitted addresses may be used for correspondence from PinoyRecipe.net, important changes to the website, or other messages. You may easily opt out of this correspondence by cancelling the service you requested. (mailing list, etc).
+At **PinoyRecipe.net** , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by PinoyRecipe.net and how it is used.
 
-Email addresses entered by visitors to send recipes from the website are NOT stored or recorded.
+**Log Files**  
+Like many other Web sites, PinoyRecipe.net makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-PinoyRecipe.net does maintain relationships with outside companies and websites but your only contact with them is if you click on a banner or link and are redirected to their site ( _which we hope you’ll do to keep_ PinoyRecipe.net _free and minimize our need for advertising_!). We can not control their use of information and urge you to be aware that you will be subject to their privacy policy once leaving our site. While we try to partner with the most reputable companies, we are not responsible for actions. Please feel free to report any misuse of information from outside companies so we can evaluate our partnerships with them.
+**Cookies and Web Beacons**  
+PinoyRecipe.net does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.  
+**  
+DoubleClick DART Cookie**  
+.:: Google, as a third party vendor, uses cookies to serve ads on PinoyRecipe.net.  
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to PinoyRecipe.net and other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>[  
+](http://www.google.com/privacy_ads.html)  
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
+Google Adsense  
+Amazon
 
-If you feel that your privacy has been violated in any way by this website, please contact us and let us know.
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on PinoyRecipe.net send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.  
+**  
+PinoyRecipe.net** has no access to or control over these cookies that are used by third-party advertisers.
 
-No tag for this post. 
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. PinoyRecipe.net’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-#### Related Recipes
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.  
+[  
+Contact us](http://www.pinoyrecipe.net/contact-us/) if you have feedback.
 
-**No. of Views for this Post:** 5,108 views
-
-  
-
+_**Note:** Policy updated ( June 4, 2010 ) _
