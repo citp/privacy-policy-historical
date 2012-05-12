@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ooyala.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223091049id_/http%3A//www.ooyala.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ooyala.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512120146id_/http%3A//www.ooyala.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Ooyala
 
