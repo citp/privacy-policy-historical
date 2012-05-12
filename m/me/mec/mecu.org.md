@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mecu.org privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111005642id_/http%3A//www.mecu.org/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mecu.org privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512144850id_/http%3A//www.mecu.org/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -92,6 +92,8 @@ Definitions
   * Other financial service providers
 
   
+© 2011 Farleigh Wada Witt. All rights reserved. |  May 2011  
+---|---  
   
   
 
