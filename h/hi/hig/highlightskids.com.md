@@ -1,49 +1,46 @@
-> *The following text is extracted and transformed from the highlightskids.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509141947id_/http%3A//www.highlightskids.com/admin/ps_f_privacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highlightskids.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512041506id_/http%3A//www.highlights.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-_Highlights_ wants to protect your child’s online safety and privacy.
+Effective October 8, 2010
 
-**The purpose of this privacy policy is to tell you**
+Thank you for your interest in our privacy policies. We value your privacy and your children's safety. At Highlights for Children, we care about:
 
-  1. what kind of information is gathered,
-
-  2. how this site will use any such information,
-
-  3. whether the information is forwarded to advertisers or third parties, and
-
-  4. how parents can contact us regarding our policies.
+  * Protecting the privacy of children
+  * Being open and honest with our customers, and
+  * Treating personal information with care and respect
 
 
 
+We welcome the chance to share Highlights' wholesome **Fun with a Purpose** ® content with families, and we approach each contact with our customers with care and respect. The policy below explains our practices regarding the safeguarding of personal information and the choices you can make about the way your information is used. We encourage you to read the policy, to manage your communication preferences, and to discuss with your children what information is and is not appropriate to share, both online and off. 
 
-**Information We Collect About Visitors to Our Web Site**  
-When visitors enter our Web site, our Web server recognizes the domain name of their ISP (Internet Service Provider) and the type of computer and browser they have. We cannot recognize individual users, but we do know if visitors are connecting to our Web site from popular ISPs like AOL, Earthlink, and MSN, or if they are connecting from a private company network. 
+## Regarding children’s privacy and the special privacy policy for our websites for children HighlightsKids.com and PuzzlemaniaKids.com:
 
-On an aggregated basis, we track various tallies of Web site traffic. For example, we track referring pages. This is where visitors come from before they reach the HighlightsKids Web site, for instance, many select our Web site from a listing in a search engine. We also track the number of visitors to our site every month. We keep a record of which pages visitors see most often. We cannot, however, trace this information to individual visitors. We use the aggregate information we collect to improve the content, navigation, and performance of our Web site. We use information about individual computers and browsers to provide an optimal experience for our users. We do not share this information with third parties.
+  * HighlightsKids.com was the first website to be accepted by the Children's Advertising Review Unit (operated by the Council of Better Business Bureaus) as a "Safe Harbor" site. As such, we fully comply with the [Children's Online Privacy Protection Rule (the COPPA Rule)](http://www.ftc.gov/os/1999/10/64fr59888.htm) as well as with CARU's Self-Regulatory Guidelines for Children's Advertising, including the Guidelines for Interactive Electronic Media. [More information about CARU and the Safe Harbor program can be found here](http://www.caru.org/program/safeHarbor.aspx).
+  * HighlightsKids.com offers an e-card tool that enables visitors to create, customize, and send e-cards. A visitor provides only a first name and the recipient's e-mail address. We use the e-mail address for no other purpose.
+  * Features such as E-mail the Editors on HighlightsKids.com do require that a child submit an e-mail address in order for our editors to provide an individual response. We use the e-mail address for no other purpose. Other features such as The Arizona Zone on HighlightsKids.com allow children to submit content along with their first name, age, and state, province, or country. Non-personally identifiable information from these features may be posted on our websites or printed in our publications.
+  * It's important to note that websites for children under 13 are not permitted to condition a child's participation in an activity on the disclosure of more information than is reasonably necessary.
+  * We do collect aggregate information from our websites in order to improve the experiences for our young visitors. Aggregate information is non-personally identifiable. Like many sites, we also use "cookies" and other tracking technologies during a visit to help us understand how people use our websites. Your browser allows you to disable "cookies".
+  * As a company dedicated to the needs of children, we also provide [tools to help parents encourage children to safeguard their privacy online](http://highlightskids.com/admin/ps_f_safeSurfing.asp).
 
-Like many Web sites, we use “cookies” to maintain information during your visit. "Cookies" are alphanumeric identifiers that we transfer to your hard drive through your Web browser. Your browser allows you to reject cookies, and software is available from third parties that will allow you to visit our Web site anonymously, although certain site functionalities may be impacted. 
 
-**The Children’s Online Privacy Protection Act**  
-The Children’s Online Privacy Protection Act (COPPA), effective as of April 2000, was established by Congress to protect children’s online privacy. COPPA requires that children’s Web site operators adhere to specific guidelines regarding the collection and handling of personally identifiable information about children. For more information about COPPA and your child’s rights to online privacy, visit the FTC’s Kids Privacy Web site for parents at http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/adults.htm.
 
-**[](http://www.caru.org/)**As a commitment to the letter and spirit of COPPA, HighlightsKids.com was the first site to be accepted by the Children’s Advertising Review Unit (operated by the Council of Better Business Bureaus) as a “Safe Harbor” site. Such a designation ensures full compliance with CARU’s Safe Harbor compliance policies and Self-Regulatory Guidelines for Children’s Advertising, including the Guidelines for Interactive Electronic Media. For more information about CARU and the Safe Harbor program [click here](http://www.caru.org/).
+## Regarding customer privacy, preferences and shopping on our websites and our general website privacy policy:
 
-**COPPA Compliance by _Highlights for Children_**  
-_Highlights for Children_ has always protected the privacy of children. We do not advertise to children or solicit children for any marketing information. We never knowingly release the names of children to third parties. This policy applies to our off-line and online business practices.
+  * For all of our other websites that are not focused on children's use, we collect information from our website in order to improve the customer experience and to serve you better. All of our sites collect aggregate information that is non-personally identifiable. We also use "cookies" and other tracking technologies during your visit to help us understand how people use our websites. Your browser allows you to disable "cookies". 
+  * When you make a purchase or sign up for a newsletter, you provide us information that we use to deliver the services you request, to inform you of new products, services or offers, and to provide you with updates about Highlights for Children. We take our role in holding and using this information seriously. When we select credit card processors, fulfillment and delivery companies, web services and others to help us we select those whom we believe take security seriously. We are committed to using this information within the bounds of the law and using our best judgment. Our [Terms of Use](https://web.archive.org/terms-of-use) policy is incorporated by reference. 
+  * We encourage you to make decisions about the offers you receive from us and the way your personal information is used. [Manage your communication preferences here](https://web.archive.org/communication-preferences). 
+  * If you give us your child's name in connection with an order you place on one of our websites, we keep it on file, but only for the purpose of addressing, never for marketing. We ask for your child's name because many people want their children to experience the thrill of receiving mail personally addressed to them. If you are uncomfortable using your child's name in this context, here are some suggestions.
+  * We sometimes make our list of customers' names and addresses available to other carefully selected companies whose products and services we believe might be of interest to you. Be assured this program does not involve children's names (please see the information above regarding children's privacy). If you do not want to receive offers from these other companies, [you can opt out of these third party offers at any time](https://web.archive.org/communication-preferences). 
 
-Certain activities such as Dear Highlights ask children to submit an e-mail address. This is done for the sole purpose of responding to a child's request. When a child submits a request to Highlights, he or she receives an automated e-mail response letting them know that we received their request. Within a week, the child receives a personal response from one of our editors. Once the e-mail has been replied to, the child's e-mail address is deleted from our system. We do not keep on file any e-mail addresses of children under the age of 13.
 
-All information posted by users of HighlightsKids.com is moderated. This means that we read all messages before public posting. Any personally identifiable information will be deleted before posting. We may decide not to post a message we deem inappropriate for any reason. 
 
-**Contact Us**  
-At _Highlights for Children,_ we respect the privacy of children. If you have questions or comments about our Privacy Policy, please contact  
-**Elsa M. Pagliery, Internet Content Manager, Teacher Websites, Highlights for Children,** [empagliery@highlights-corp.com](mailto:empagliery@highlights-corp.com).
+Thank you for taking an interest in this important topic. If you have additional questions about our approach to privacy, please feel free to contact me:
 
-**Our postal address is**  
-_Highlights for Children_  
-803 Church Street  
-Honesdale, PA 18431
-
-Our telephone number is  
-(570) 253-1080 
+**Garry Brown**  
+VP, INFORMATION SECURITY & PRIVACY  
+Highlights for Children, Inc.  
+1800 Watermark Drive  
+Columbus, Ohio 43215  
+[garry.brown@highlights-corp.com](mailto:garry.brown@highlights-corp.com)  
+[ (614) 486-0631](callto://+18883726433)
