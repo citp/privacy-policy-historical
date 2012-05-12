@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sqlmaestro.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111155447id_/http%3A//www.sqlmaestro.com/contacts/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlmaestro.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512080610id_/http%3A//www.sqlmaestro.com/contacts/privacy) for the most accurate reproduction.*
 
 # Database management tools for MySQL, Oracle, SQL Server, DB2, SQL Anywhere, PostgreSQL, SQLite, Firebird and MaxDB by SQL Maestro Group
 
@@ -6,9 +6,9 @@ Partners
 
 Testimonials
 
-**Torstein Krogh:** "Some time ago, I tested all available tools on the market for maintaining MySQL and MySQL Maestro came up on top. My opinion is that MySQL should offer it as a free tool for all paying customers! They have nothing today, and doing MySQL DOS commands is not getting any new customers".
+**Terry Prank:** "At first, I was skeptical as is anyone encountering a new product on the web. I even tried out a couple of the competitors because I figured SQL Maestro Group sounded too good to be true. I soon learned the hard way, nothing I have seen on the market right now compares. Let the results speak. Within the first several hours of operation, I understood that the products are beyond comparison".
 
-**Michael Dunn:** "We're good to go though, thank you again, this is by far the best MySQL interface I've had the opportunity to work with".
+**Michael Pavitsky:** "SQL Maestro Group provided the kind of services and support for managing PostgreSQL data expected in a true business partnership. Their devotion to customer satisfaction and cost curtailment is a pleasure for PostgreSQL users. I wouldn?t hesitate to recommend PostgreSQL Data Wizard to any of my peers and I know and trust they will surpass all expectations".
 
 [More](http://www.sqlmaestro.com/products/testimonials/)
 
@@ -71,24 +71,24 @@ If we decide to change our privacy policy, we will post those changes on our hom
 
 Company news[](http://www.sqlmaestro.com/rss.xml)
 
-Nov 10, 2011
+May 8, 2012
 
-New version introduces Unicode support in SQL editors and viewers, updated code folding appearance, refactoring of database schema with Split Table wizard, viewing BLOB data as PDF and a lot of other useful things.
+New version features a powerful and easy to use data reporting tool, recognizing of auto increment columns, improved SQL editors and viewers and a lot of other useful things.
 
-Oct 12, 2011
+Mar 28, 2012
 
-We're pleased to start a new product family and release as many as 9 new tools for the database contents comparison and synchronization!
+New version comes with a powerful Database Backup tool, lots of new features in SQL editors and viewers, improved data grids as well as with many other useful enhancements.
 
-Sep 28, 2011
+Mar 5, 2012
 
-New version features Restore Database wizard, Split Table tool, code snippets in SQL Editor, data import from ODBC data sources, and a lot of other new features.
+New version introduces Unicode support in editors, updated code folding appearance, viewing BLOB data as PDF, data import from ODBC data source, Spanish translation and a lot of other new features.
 
 Feature of the day
 
-[](http://www.sqlmaestro.com/products/maxdb/codefactory/screenshots/getting_started/sql_editor/)
+[](http://www.sqlmaestro.com/products/mysql/phpgenerator/screenshots/common/security_options/)
 
-MaxDB Code Factory allows you to execute each query in a separate thread in order to continue your work with the software while the query is executing. 
+PHP Generator allows you to protect the result script with a lot of security settings. 
 
-[](http://www.sqlmaestro.com/products/firebird/maestro/help/10_01_00_query_management/)
+[](http://www.sqlmaestro.com/products/db2/codefactory/screenshots/getting_started/data_export/)
 
-Firebird Maestro: You can save frequently used queries to the database profile and use them as usual database objects.
+With DB2 Code Factory you can also export result sets to as many as 14 file formats including Excel, RTF and HTML.
