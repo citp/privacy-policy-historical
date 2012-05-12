@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rcplanet.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107201614id_/http%3A//www.rcplanet.com/articles.asp%3Fid%3D263) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcplanet.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512065416id_/http%3A//www.rcplanet.com/articles.asp%3Fid%3D263) for the most accurate reproduction.*
 
 # RC Planet Radio Control Cars, Trucks, Helicopters, Airplanes, Boats, Traxxas, HPI
 
