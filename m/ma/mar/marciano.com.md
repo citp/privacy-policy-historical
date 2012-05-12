@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marciano.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520234238id_/http%3A//guessbymarciano.guess.com/CustomerCare/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marciano.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512025218id_/http%3A//guessbymarciano.guess.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,4 +30,4 @@ Customer Service
 GUESSfactory.com  
 1444 Alameda St.  
 Los Angeles, CA 90021  
-[_Customer Service Contact Form_](https://web.archive.org/CustomerCare/ContactUs)
+[Customer Service Contact Form](https://web.archive.org/web/20120512025218id_/http://guessbymarciano.guess.com/CustomerCare/ContactUs/)
