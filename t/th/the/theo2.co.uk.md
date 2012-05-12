@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the theo2.co.uk privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101132349id_/http%3A//www.theo2.co.uk/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theo2.co.uk privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512074652id_/http%3A//www.theo2.co.uk/footer/privacy.html) for the most accurate reproduction.*
 
 # The O2 - Privacy
 
 ### Who We are
 
-This website (http://www.theo2.co.uk) (the "Site") is provided by Anschutz Entertainment Group (the trading name of Anschutz Sports Holdings Ltd) ("AEG"), a company registered in England and Wales ("We" / "Us" / "Our"). Our registered office is at: The Studio, The O2, London SE10 0DX. Our Data Protection Registration Number is Z8689382.
+This website (http://www.theo2.co.uk) (the "Site") is provided by (i) Anschutz Entertainment Group (the trading name of Anschutz Sports Holdings Ltd), a company registered in England and Wales with a registered office at: The Studio, The O2, London SE10 0DX (Data Protection Registration Number Z8689382) and (ii) IndigO2 (the trading name of Ansco Music Club Limited), a company registered in England and Wales with a registered office at: 29 Great Guildford Street, London SE1 0ES (Data Protection Registration Number Z9942543) (together "AEG" / "We" / "Us" / "Our").
 
 AEG is committed to protecting your privacy. The purpose of this Privacy Policy is to explain how We may use any data We collect about You ("You" / "Your"), how You can instruct Us if You prefer to limit the use of that data and for Us to tell You about the policies and procedures that We have in place to safeguard Your privacy. 
 
