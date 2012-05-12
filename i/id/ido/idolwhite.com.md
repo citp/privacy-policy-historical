@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idolwhite.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229085955id_/http%3A//www.idolwhite.com/tos.php%23pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idolwhite.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512113558id_/http%3A//www.idolwhite.com/tos.php%23pp) for the most accurate reproduction.*
 
 # Idol White
 
