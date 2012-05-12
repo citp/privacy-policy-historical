@@ -1,29 +1,55 @@
-> *The following text is extracted and transformed from the gogameguru.com privacy policy that was archived on 2010-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100902060043id_/http%3A//gogameguru.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gogameguru.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513003012id_/http%3A//gogameguru.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Go Game Guru » Go Game Guru
+# Privacy Policy
 
-### Privacy Policy for GoGameGuru.com
+Your privacy is critically important to us. At Go Game Guru we have a few fundamental principles:
 
-The privacy of our visitors is important to us.
+  * We don’t ask you for personal information unless we truly need it. (We can’t stand services that ask you for things like your gender or income level for no apparent reason.)
+  * We don’t share your personal information with anyone except to comply with the law, or protect our rights.
+  * We don’t store personal information on our servers unless required for the on-going operation of one of our services.
 
-At GoGameGuru.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit GoGameGuru.com, and how we safeguard your information.  We never sell your personal information to third parties.
 
-### Log Files
 
-As with most other websites, we collect and use the data contained in log files.  The information in the log files includes your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+Below is our privacy policy which incorporates these goals.
 
-### Cookies and Web Beacons
+If you have questions about deleting or correcting your personal data please [contact us](http://gogameguru.com/contact/ "Contact").
 
-We do use cookies to store information, such as your personal preferences when you visit our site.  This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+Go Game Guru operates the website GoGameGuru.com. It is Go Game Guru’s policy to respect your privacy regarding any information we may collect while operating our website.
 
-We also use third party advertisements on GoGameGuru.com to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+## Website Visitors
 
-### DoubleClick DART cookies
+Like most website operators, Go Game Guru collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Go Game Guru’s purpose in collecting non-personally identifying information is to better understand how Go Game Guru’s visitors use its website.
 
-We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements).  This cookie is used to serve ads specific to you and your interests (”interest based targeting”).  The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey).  DART uses “non personally identifiable information”.  It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers.  You can opt-out of this ad serving on all sites using this advertising by visiting <http://www.doubleclick.com/privacy/dart_adserving.aspx>
+Go Game Guru also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on an article published on its website. Go Game Guru only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses are visible and disclosed to the administrators of GoGameGuru.com.
 
-You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
+## Gathering of Personally-Identifying Information
 
-Deleting cookies does not mean you are permanently opted out of any advertising program.  Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+Certain visitors to Go Game Guru’s website choose to interact with Go Game Guru in ways that require Go Game Guru to gather personally-identifying information. The amount and type of information that Go Game Guru gathers depends on the nature of the interaction. For example, we ask visitors who create an account at GoGameGuru.com to provide a username and email address. Those who engage in transactions with Go Game Guru – by purchasing products from its online store, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Go Game Guru collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Go Game Guru. Go Game Guru does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-This AdSense Privacy Policy is based on a policy drafted by [JenSense](http://www.jensense.com/).
+## Aggregated Statistics
+
+Go Game Guru may collect statistics about the behavior of visitors to its website. For instance, Go Game Guru may monitor the most popular articles on GoGameGuru.com. Go Game Guru may display this information publicly or provide it to others. However, Go Game Guru does not disclose personally-identifying information other than as described below.
+
+## Protection of Certain Personally-Identifying Information
+
+Go Game Guru discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Go Game Guru’s behalf or to provide services available at Go Game Guru’s website, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Go Game Guru’s website, you consent to the transfer of such information to them. Go Game Guru will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Go Game Guru discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Go Game Guru believes in good faith that disclosure is reasonably necessary to protect the property or rights of Go Game Guru, third parties or the public at large. If you are a registered user of Go Game Guru, or an email subscriber, and have supplied your email address, Go Game Guru may occasionally send you an email because you have requested updates, or to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Go Game Guru and our products. We primarily use our website to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Go Game Guru takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+
+## Cookies
+
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Go Game Guru uses cookies to help Go Game Guru identify and track visitors, their usage of Go Game Guru’s website, and their website access preferences. Go Game Guru visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Go Game Guru’s website, with the drawback that certain features of Go Game Guru’s website may not function properly without the aid of cookies.
+
+## Business Transfers
+
+If Go Game Guru, or substantially all of its assets were acquired, or in the unlikely event that Go Game Guru goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Go Game Guru may continue to use your personal information as set forth in this policy.
+
+## Ads
+
+Ads appearing on or for our website may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Go Game Guru and does not cover the use of cookies by any advertisers.
+
+## Privacy Policy Changes
+
+Although most changes are likely to be minor, Go Game Guru may change its Privacy Policy from time to time, and in Go Game Guru’s sole discretion. Go Game Guru encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a GoGameGuru.com account, you will be notified by email of any changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+
+## Creative Commons
+
+Like most content on Go Game Guru, this Privacy Policy is available under a Creative Commons Sharealike license, which means you’re welcome to repurpose this text for your own use, just make sure to replace references to us with ones to you and abide by the terms of the license. We have modified this information in accordance with our own needs, but for this page only, please give attribution to the original source of this policy, [Automattic](http://automattic.com/privacy/ "Automattic Privacy Policy"). For all other content on GoGameGuru.com, please refer to the license which appears in the footer of each page and read the specific terms of the license. This information in no way alters or diminishes the Privacy Policy laid out above.
