@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the peachpit.com privacy policy that was archived on 2008-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080422235256id_/http%3A//www.peachpit.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peachpit.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512061913id_/http%3A//www.peachpit.com/about/privacy.aspx) for the most accurate reproduction.*
 
-# Peachpit: Privacy Policy
+# Privacy Policy | Peachpit
 
 We make every effort to preserve user privacy, however we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with an appropriate law enforcement investigation, current judicial proceeding, a court order or legal process served on our Web site.
 
