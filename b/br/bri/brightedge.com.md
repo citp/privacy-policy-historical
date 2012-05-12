@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the brightedge.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102004340id_/http%3A//www.brightedge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightedge.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512150315id_/http%3A//www.brightedge.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BrightEdge
 
 This Privacy Policy (the "Policy") applies to data collected by BrightEdge from visitors (including customers) to the BrightEdge web site (the "Site") located at www.brightedge.com, as well as to offline activities. 
+
+BrightEdge complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. BrightEdge has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view BrightEdge's certification, please visit http://www.export.gov/safeharbor/. 
 
 By using the Site you consent to the privacy practices described in this Policy. 
 
@@ -54,4 +56,4 @@ San Mateo, California 94404
 **Last Revised:** February 9, 2010 
 
 For the latest web site terms of service, click [here](https://web.archive.org/legal).   
-For the latest BrightEdge Master Subscription Agreement, click [here](https://web.archive.org/web/20111102004340id_/http%3A//www.brightedge.com/msa) (PDF format). 
+For the latest BrightEdge Master Subscription Agreement, click [here](https://web.archive.org/web/20120512150315id_/http%3A//www.brightedge.com/msa) (PDF format). 
