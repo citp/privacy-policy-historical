@@ -1,12 +1,7 @@
-> *The following text is extracted and transformed from the cigar.com privacy policy that was archived on 2007-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071022051430id_/http%3A//www.cigar.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cigar.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512142109id_/http%3A//www.cigar.com/privacy.asp) for the most accurate reproduction.*
 
 # Cigar.com - Privacy Statement
 
-  
-**Privacy Statement**  
-  
-  
-  
 At Cigar.com, we are committed to protecting your privacy and we acknowledge that you may have concerns regarding the use of personal information. With our statement, we intend to explain how we use the information we have gathered from our visitors or members. 
 
   
@@ -15,6 +10,8 @@ Personally identifiable information is information that identifies you as an ind
 Non-personally identifiable information is information that does not identify you as an individual. Non-Personally Identifiable Information includes information such as your browser type, the URL of the previous Web site you visited, the Web pages and advertisements you view or select, and the types of services you use. 
 
   
+We engage third parties to perform services in connection with the operation of our business. Examples of these services include payment processing and authorization, fraud protection and credit risk reduction, product customization, order fulfillment and shipping, marketing and promotional material distribution, Web site evaluation, data analysis and, where applicable, data cleansing. We provide Personal Information to these third parties, but we authorize them to use this information only in connection with the services they perform.
+
 At Cigar.com, we gather and store certain types of information you provide to us through our website, surveys, or other data gathering methods. This information includes contact, demographic and financial information. We use the contact and demographic information to communicate effectively with you and to create a more personalized shopping experience. We may also use the Personally Identifiable Information you provide to administer and manage your account, pay commissions to you, include you on mailing lists and advertise and promote our services. In addition, we may disclose your Personally Identifiable Information when we believe in good faith that it is required by any applicable law or legal process, or if we believe we need to disclose it to protect or enforce our rights or the rights of our members, users, or other third parties. Without limitation of the foregoing, we may disclose your information pursuant to our Intellectual Property Rights Policy to a third party that alleges you have infringed their intellectual property rights. 
 
 We may disclose Non-Personally Identifiable Information in connection with improving the services we offer and facilitating our marketing efforts. In addition, we may combine your Non-Personally Identifiable Information that relates to your use of the Site with that of other users to determine which areas of the Site are most popular, and how our services are used. By collecting this Aggregate Information and analyzing it, we can use it to improve the Site. We may disclose Aggregate Information in connection with improving the services we offer and facilitating our marketing efforts. 
@@ -26,7 +23,7 @@ Cookies are information files that are placed on the hard drive of your computer
 Cigar.com is committed to ensuring the security of your information. To help prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. We use encryption when collecting or transferring sensitive data such as credit card information. Preventing credit card fraud is important to protect your personal financial data security. 
 
   
-Cigar.com does not sell products for purchase by anyone under the age of eighteen. All products purchased at Cigar.com must use a credit card where the purchaser or authorized signer is over the age of eighteen. We will not knowingly collect or use any personal information from children we know to be under the age of eighteen. 
+Cigar.com does not sell products for purchase by anyone under the age of twenty-one. All products purchased at Cigar.com must use a credit card where the purchaser or authorized signer is over the age of twenty-one. We will not knowingly collect or use any personal information from children we know to be under the age of twenty-one. 
 
   
 Although we will use reasonable efforts to safeguard the privacy of your information, transmissions on the Internet cannot be made absolutely secure. Accordingly, we assume no responsibility or liability for disclosure of any of your information due to errors in transmission, unauthorized third-party access or other causes beyond our reasonable control. 
