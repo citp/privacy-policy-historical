@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitalads.net privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221074605id_/http%3A//www.vitalads.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitalads.net privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512210532id_/http%3A//www.vitalads.com/privacy) for the most accurate reproduction.*
 
 # VitalAds - Privacy Policy
 
