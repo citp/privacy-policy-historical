@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyonlinenow.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011130959id_/http%3A//www.buyonlinenow.com/privacy-security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyonlinenow.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512181831id_/http%3A//www.buyonlinenow.com/privacy-security.asp) for the most accurate reproduction.*
 
 # Privacy & Security | BuyOnlineNow
 
@@ -30,7 +30,7 @@ BuyOnlineNow.com uses a secure server that encrypts your personal information be
 
 ## 6\. Correction or deletion of customer information
 
-You may change your customer record on our website by visiting our [My Account](https://web.archive.org/customercenter.asp "customer center"). To request removal of your customer information from our database, please email us at [customercare@BuyOnlineNow.com](mailto:customercare@BuyOnlineNow.com). We will email confirmation once your customer record has been removed from our database. Details of orders completed for you cannot be removed and will be retained in our database. 
+You may change your customer record on our website by visiting our [My Account](https://web.archive.org/customercenter.asp "customer center"). To request removal of your customer information from our database, please email us at . We will email confirmation once your customer record has been removed from our database. Details of orders completed for you cannot be removed and will be retained in our database. 
 
 ## 7\. Promotional Emails
 
