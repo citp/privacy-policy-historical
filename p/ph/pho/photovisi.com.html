@@ -1,20 +1,15 @@
-<!--The following is the downloaded HTML source of the photovisi.com privacy policy that was archived on 2011-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111226215859id_/http%3A//www.photovisi.com/index/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the photovisi.com privacy policy that was archived on 2012-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120513010015id_/http%3A//www.photovisi.com/index/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<title>Photovisi - Collage photo effects</title>
 		<meta name="description" content="Your own collage photo effect! Many templates to choose from, very easy to use. Completely online so no downloads required!">
-		
+		<link href="http://c3425118.r18.cf0.rackcdn.com/assets/index-929fd9c90ce2c18d11ad6a7d45cb9713.css" media="screen" rel="stylesheet" type="text/css">
+<script src="http://c3425118.r18.cf0.rackcdn.com/assets/index-0f10b038480cdefc6d665a025069c41f.js" type="text/javascript"></script>
 
-	<script src="http://c1359442.cdn.cloudfiles.rackspacecloud.com/javascripts/photovisi-pack-12.js?1324226968" type="text/javascript"></script>
-	<link href="http://c1359442.cdn.cloudfiles.rackspacecloud.com/stylesheets/photovisi-pack-12.css?1324226968" media="screen" rel="stylesheet" type="text/css">
-
-
-<meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="2jFT+ImqJXum6KDoQCxUCZb/ZCxY7G6PlC3LokGtis4=">
-
-		<!--[if lt IE 7]> <script src="http://c1359442.cdn.cloudfiles.rackspacecloud.com/javascripts/ds-sleight.js?1324226968" type="text/javascript"></script> <![endif]-->
+<meta content="authenticity_token" name="csrf-param">
+<meta content="zil1VF8BFykuxNxWAZp78ib1O07L5hXaHIRlLjnyfuc=" name="csrf-token">
 		
 	</head>
 	<body id="body">
@@ -27,14 +22,14 @@
 <div id="header">
   <div id="menu">
     <ul>
-		<li><a href="/" class="active"><span>HOME</span></a></li>
+  		<li><a href="/" class="active"><span>HOME</span></a></li>
   		<li><a href="/gallery"><span>GALLERY</span></a></li>
 			<li><a href="/newsletters/new"><span>NEWSLETTER</span></a></li>
 	  		<li><a href="/register"><span>REGISTER</span></a></li>
 		  	<li><a href="/login"><span>LOG-IN</span></a></li>
 	  	
 			<!-- <li><a href="/contact/new"><span>FEEDBACK</span></a></li> -->
-		<li style="position:relative;padding-right:60px"><span><select id="language" name="language" onchange="window.location='/change_locale/'+$F('language')+'/?source='+encodeURIComponent(window.location.href)" style="height:22px;position:absolute;top:-3px"><option value="en" selected="selected">English</option>
+		<li style="position:relative;padding-right:60px"><span><select id="language" name="language" onchange="window.location='/change_locale/'+$('#language').val()+'/?source='+encodeURIComponent(window.location.href)" style="height:22px;position:absolute;top:-3px"><option value="en" selected="selected">English</option>
 <option value="es">Español</option>
 <option value="it">Italiano</option>
 <option value="ru">Россию</option>
@@ -43,7 +38,8 @@
     </ul>
 	<span class="clear"></span>
   </div>
-  <div id="logo"> <a href="/"><img alt="Photo Collage Maker" src="http://c1359442.cdn.cloudfiles.rackspacecloud.com/images/logo.png?1324226895"></a> </div>
+
+  <div id="logo"><a href="/"><img alt="Photo Collage Maker" src="http://c3425118.r18.cf0.rackcdn.com/assets/logo-d7ad9147bb6e298cd62f7ceb6aa36fd5.png"></a></div>
 </div>
 
 
@@ -155,11 +151,11 @@ The email address you provide for order processing, may be used to send you info
 					
 <div id="footer_bottom">
   <ul>
-    <li>Copyright Photovisi.com 2011</li>
+    <li>Copyright Photovisi.com 2012</li>
     <li class="link"><a href="/contact/new">Contact Us</a></li>
     <li class="link"><a href="/index/terms">Terms of use</a></li>
     <li><a href="/index/privacy">Privacy Policy</a></li>
-    <li class="last">Designed by <a href="http://www.allcreatives.net">allcreatives.net</a></li>
+    <li class="last">Designed by <a href="http://www.allcreatives.net">allcreatives.net</a> - </li>
   </ul>
 </div>
 
@@ -180,21 +176,22 @@ pageTracker._trackPageview();
 } catch(err) {}</script>
 
 		
-		<script type="text/javascript">
-			var addthis_config = {
-				username: 'photovisi',
-				data_track_clickback: true
-				, data_ga_tracker: pageTracker
-			}
+			
+	<script type="text/javascript">
+		var addthis_config = {
+			username: 'photovisi',
+			data_track_clickback: true
+			, data_ga_tracker: pageTracker
+		}
 
-			var addthis_share = {
-				title: 'Easy Photo Collages!',
-				url: 'http://www.photovisi.com/?vt=no'
-			}
+		var addthis_share = {
+			title: 'Photo Collage Maker',
+			url: 'http://www.photovisi.com/?vt=no'
+		}
 
-			Event.observe(window, 'load', function() { addthis.init(); });
-		</script>
-		<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#async=1"></script>
-		<div id="attach"></div>
+		$(function () { addthis.init(); });
+	</script>
+	<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#async=1"></script>
+	<div id="attach"></div>
 	
 </body></html>
