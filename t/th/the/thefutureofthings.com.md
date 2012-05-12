@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the thefutureofthings.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213128id_/http%3A//thefutureofthings.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefutureofthings.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512033917id_/http%3A//thefutureofthings.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
 This site is owned and operated by The Future of Things (TFOT). Your privacy on the Internet is of the utmost importance to us. At TFOT, we want to make your experience online satisfying and safe.
 
 Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the nature and use of that information. This privacy statement discloses what information we gather and how we use it.
-
-## **Information TFOT Gathers and Tracks**
-
- ****
 
 TFOT gathers two types of information about users:
 
@@ -95,4 +91,4 @@ TFOT operates secure data networks protected by industry standard firewall and p
 
 **
 
-By using this site, you consent to the collection and use of this information by TFOT. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+By using this site, you consent to the collection and use of this information by TFOT. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
