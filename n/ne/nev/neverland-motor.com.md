@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the neverland-motor.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222214846id_/http%3A//www.neverland-motor.com/security-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neverland-motor.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512215934id_/http%3A//www.neverland-motor.com/security-privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Privacy Policy
 
-Neverland-motor.com (hereinafter referred to as "we" or “Site” )  is committed to protecting the privacy of our customers. We surely bear it in mind that the customers are everything for us. We do not disclose your personal information to unaffiliated third parties at any time. Your data is only used to process orders and for marketing. By using Clothing.net or by purchasing products or services from us, you agree to be bound by this policy, so please take your time to read this policy.
+Neverland-motor.com (hereinafter referred to as "we" or “Site” )  is committed to protecting the privacy of our customers. We surely bear it in mind that the customers are everything for us. We do not disclose your personal information to unaffiliated third parties at any time. Your data is only used to process orders and for marketing. By using Neverland-motor.com or by purchasing products or services from us, you agree to be bound by this policy, so please take your time to read this policy.
 
 What kind of information does Neverland-motor.com collect from the customers?
 
@@ -22,7 +22,7 @@ We may share your information with our business partners who join us in online p
 **Third-party service providers:**  We employ other companies and individuals to perform certain functions on our behalf. For example: to deliver parcels, to send mails or emails, to analyze data, to assist with marketing, to provide search results and links (including paid search results and links), to deal with the payment and to provide service to the customers. They can access the data they need to fulfill their obligations, but abuse of the data for other purposes is prohibited.
 
 **Third-party advertisers and links to other Sites:**  Our Site includes third-party advertisements and links to other Sites to whom we seldom provide identifiable customer data. However we have no way of controlling the cookies they might use or other particular functions. Moreover this Privacy Policy is not applicable to their usual practice.  
-Promotion opportunities: Sometimes we offer promotion opportunities to the selected user groups of Clothing.net Sites on behalf of other companies without their knowledge of your name and address.
+Promotion opportunities: Sometimes we offer promotion opportunities to the selected user groups of Neverland-motor.com Sites on behalf of other companies without their knowledge of your name and address.
 
 **For the protection of Neverland-motor.com and other people:**  We may disclose personal information about our customers as permitted or required by law, such as in connection with a subpoena or similar legal process. We may disclose information about you to protect against fraud and other crimes and to enforce our contracts with you. Obviously this does not violate this Privacy Policy in which we promise not to sell, rent out or share identifiable customer information for commercial benefits.
 
