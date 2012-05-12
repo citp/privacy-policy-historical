@@ -1,206 +1,316 @@
-<!--The following is the downloaded HTML source of the iemployee.com privacy policy that was archived on 2011-11-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111117230108id_/http%3A//www.iemployee.com/company/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iemployee.com privacy policy that was archived on 2012-05-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120512040455id_/http%3A//www.asuresoftware.com/asure-support/contact-info%3Fid%3D116) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-		
-		
-		<title>About Us | iEmployee</title>
-		<meta name="keywords" content="iEmployee Corporate Information">
-		<meta name="description" content="iEmployee delivers web-based, human resource management software that enables customers to easily manage employee data online">
-		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-		
-		<meta name="ROBOTS" content="ALL, INDEX, FOLLOW">
-		
-		<link href="/css/reset.css" rel="stylesheet" type="text/css">
-		<link href="/css/screen.css" rel="stylesheet" type="text/css">
-		
-	</head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr"><head>
+  <base href="http://www.asuresoftware.com/asure-support/contact-info">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="robots" content="index, follow">
+  <meta name="author" content="Super User">
+  <meta name="generator" content="Joomla! 1.7 - Open Source Content Management">
+  <title>Privacy</title>
+  <link href="/templates/jt002_j16/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+
+<link rel="stylesheet" href="/templates/jt002_j16/css/styles.css" type="text/css">
+<link rel="stylesheet" href="/templates/jt002_j16/css/netsim.css" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans+Narrow" rel="stylesheet" type="text/css">
+
+<link href="/css/slider.css" rel="stylesheet" type="text/css">
+
+<script type="text/javascript" src="/js/jquery-1.2.6.min.js"></script>
+<script type="text/javascript" src="/js/jquery-easing-1.3.pack.js"></script>
+<script type="text/javascript" src="/js/jquery-easing-compatibility.1.2.pack.js"></script>
+<script type="text/javascript" src="/js/coda-slider.1.1.1.pack.js"></script>
 	
-	<body id="company">
-		<!--Start Container-->
-		<div id="container">
+	<script type="text/javascript">
+var theInt = null;
+		var $crosslink, $navthumb;
+		var curclicked = 0;
+		
+		theInterval = function(cur){
+			clearInterval(theInt);
 			
-			<!--Start Header-->
-			<div id="header">
+			if( typeof cur != 'undefined' )
+				curclicked = cur;
+			
+			$crosslink.removeClass("active-thumb");
+			$navthumb.eq(curclicked).parent().addClass("active-thumb");
+				$(".stripNav ul li a").eq(curclicked).trigger('click');
+			
+			theInt = setInterval(function(){
+				$crosslink.removeClass("active-thumb");
+				$navthumb.eq(curclicked).parent().addClass("active-thumb");
+				$(".stripNav ul li a").eq(curclicked).trigger('click');
+				curclicked++;
+				if( 6 == curclicked )
+					curclicked = 0;
+				
+			}, 5000);
+		};
+		
+		$(function(){
+			
+			$("#main-photo-slider").codaSlider();
+			
+			$navthumb = $(".nav-thumb");
+			$crosslink = $(".cross-link");
+			
+			$navthumb
+			.click(function() {
+				var $this = $(this);
+				theInterval($this.parent().attr('href').slice(1) - 1);
+				return false;
+			});
+			
+			theInterval();
+		});
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+<script language="JavaScript" src="https://stats.manticoretechnology.com/mtcFormAPI.js"></script>
+
+
+<script src="/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+</head>
+<body class="background">
+<div id="main">
+<div id="header-w">
+    	<div id="header">
+        	        
+            	<a href="/"><img src="/templates/jt002_j16/images/logo_asure.jpg" border="0" class="logo"></a>
+                <div id="navr"><div id="navl"><div id="nav">
+		    	
+<ul class="menu">
+<li class="item-108"><a href="/">Home</a></li><li class="item-102 deeper parent"><a href="/why-asure">Why Asure?</a><ul><li class="item-103"><a href="/why-asure/the-asure-advantage">The Asure Advantage</a></li><li class="item-104"><a href="/why-asure/empowering-the-workplace">Empowering the Workplace</a></li></ul></li><li class="item-105 deeper parent"><a href="#">Products</a><ul><li class="item-111"><a href="/products/netsimplicity">NetSimplicity</a></li><li class="item-106"><a href="/products/asureforce">AsureForce</a></li><li class="item-107"><a href="/products/customers-and-markets">Customers &amp; Markets</a></li></ul></li><li class="item-109 deeper parent"><a href="/company">Company</a><ul><li class="item-112"><a href="/company/management-team">Leadership Team</a></li><li class="item-113"><a href="/company/board-of-directors">Board of Directors</a></li><li class="item-114"><a href="/company/corporate-governance">Corporate Governance</a></li><li class="item-129"><a href="/company/news">News</a></li><li class="item-131"><a href="/company/careers">Careers</a></li><li class="item-132 deeper parent"><a href="/partners">Partners</a><ul><li class="item-133"><a href="/company/partners/partners-netsimplicity">NetSimplicty Partners</a></li><li class="item-134"><a href="/company/partners/iemployee-partners">iEmployee Partners</a></li></ul></li><li class="item-158"><a href="/company/contactus">Contact Us</a></li></ul></li><li class="item-115 deeper parent"><a href="http://investor.asuresoftware.com/">Investor Relations</a><ul><li class="item-116"><a href="http://investor.asuresoftware.com/">Overview</a></li><li class="item-141"><a href="http://investor.asuresoftware.com/releases.cfm">Press Release</a></li><li class="item-142"><a href="http://investor.asuresoftware.com/events.cfm">Events &amp; Presentations</a></li><li class="item-143"><a href="http://investor.asuresoftware.com/management.cfm">Management</a></li><li class="item-144"><a href="http://investor.asuresoftware.com/financials.cfm">Financial Information</a></li><li class="item-152"><a href="http://investor.asuresoftware.com/stockquote.cfm">Stock Information</a></li><li class="item-145"><a href="http://investor.asuresoftware.com/faq.cfm">Investor FAQs</a></li></ul></li><li class="item-117 active deeper parent"><a href="/asure-support">Support</a><ul><li class="item-187 current active"><a href="/asure-support/contact-info">Contact Info</a></li><li class="item-188"><a href="/asure-support/netsimplicity-services">NetSimplicity Services</a></li><li class="item-189"><a href="/asure-support/asureforce-support-options">AsureForce Support Options</a></li></ul></li></ul>
+
+			</div></div></div>
+                                                 
+		</div>        
+</div>
+	<div id="wrapper">
+        	        	        	    
             
-            <div id="follow-wrap">
-				<div id="header-follow">
-					<div class="social-text">Follow Us</div>
-					<a href="http://www.linkedin.com/groups?mostPopular=&amp;gid=2229094" target="_blank">
-					<img src="/images/layout/icon-header-linkedin.png" height="16" width="16" border="0"></a>
-					<a href="http://www.facebook.com/pages/iEmployee-Time-and-Attendance-Software/132017260153441" target="_blank">
-					<img src="/images/layout/icon-header-facebook.png" height="16" width="16" border="0"></a>
-					<a href="http://twitter.com/iEmployee" target="_blank">
-					<img src="/images/layout/icon-header-twitter.png" height="16" width="16" border="0"></a>
-					<a href="http://feeds2.feedburner.com/PunchToPaycheck" target="_blank">
-					<img src="/images/layout/icon-header-rss.png" height="16" width="16" border="0"></a>
-				</div>
-				
-				<div id="user-login"><a href="/login_counter/?utm_medium=login"><span class="replace">User Login</span></a></div>
-            </div>
-				
-				<div id="logo"><a href="/"><img src="/images/layout/logo-iemployee.gif" alt="iEmployee" width="195" height="51"></a>
-				</div>
-	<div id="navigation">
-					<ul id="nav">
-						<li><a class="btn-products" href="/time-and-attendance/"><span class="replace">Products</span></a>
-							<ul id="nav-products">
-<!--							<li><a href="/human-resources/online-benefits/">Online Benefits</a></li>
-								<li><a href="/human-resources/hr-software/">Online HR</a></li>
-								<li><a href="/human-resources/online-w2s/">Online W2s</a></li>
--->								<li><a href="/time-and-attendance/">Overview</a></li>
-								<li><a href="/time-and-attendance/online-paystubs/">Online Paystubs</a></li>
-								<li><a href="/time-and-attendance/time-tracking/">Online PTO</a></li>
-								<li><a href="/time-and-attendance/online-timesheets/">Online Timesheets</a></li>
-								<li><a href="/time-and-attendance/time-clocks/">Time Clocks</a></li>
-							</ul>
-						</li>
-						<li><a class="btn-resources" href="/resources/webcasts-and-demos/"><span class="replace">Resources</span></a>
-							<ul id="nav-resources">
-								<li><a href="/resources/articles-and-white-papers/">Articles &amp; White Papers</a></li>
-								<li><a href="/resources/case-studies/">Case Studies</a></li>
-								<li><a href="/resources/data-sheets/">Data Sheets</a></li>
-								<li><a href="/resources/webcasts-and-demos/">Webcasts &amp; Demos</a></li>
-								<li><a href="http://blog.iemployee.com/">iEmployee Blog</a></li>
-							</ul>
-						</li>
-						<li><a class="btn-partners" href="/partners/"><span class="replace">Partners</span></a></li>
-						<li><a class="btn-company" href="/company/about-us/"><span class="replace">Company</span></a>
-							<ul id="nav-company">
-								<li><a href="/company/about-us/">About Us</a></li>
-								<li><a href="/company/careers/">Careers</a></li>
-								<li><a href="/company/contact-us/">Contact Us</a></li>
-								<li><a href="/company/events/">Events</a></li>
-								<li><a href="/company/press-center/">Press Center</a></li>
-							</ul>
-						</li>
-						<li><a class="btn-support" href="/support/support-options/"><span class="replace">Support</span></a>
-							<ul id="nav-support">
-								<li><a href="/support/support-options/">Support Options</a></li>
-								<li><a href="/support/contact-support/">Contact Support</a></li>
-							</ul>
-						</li>
-					</ul>
-					<div style="clear:both"></div>
-				</div>
-				<div style="clear:both"></div>
-			</div>
-			<!--End Header-->
-			
-			<!--Start Column-->
-			<div id="column">
-			
-				<!--Start Sub Nav-->
-				<div class="sub-nav-wrp">
-					<div class="sub-nav-bdy">
-						<ul>
-							<li><a href="/company/about-us/">About Us</a></li>
-							<li><a href="/company/careers/">Careers</a></li>
-							<li><a href="/company/contact-us/">Contact Us</a></li>
-							<li><a href="/company/events/">Events</a></li>
-							<li><a href="/company/press-center/">Press Center</a></li>
-						</ul>
+ 		<div id="main-content">
+                	
+<div class="breadcrumbs">
+<a href="/" class="pathway">Home</a> <img src="/media/system/images/arrow.png" alt=""> <a href="/asure-support" class="pathway">Support</a> <img src="/media/system/images/arrow.png" alt=""> <a href="/asure-support/contact-info" class="pathway">Contact Info</a> <img src="/media/system/images/arrow.png" alt=""> <a href="/asure-support/contact-info/7-top-menu" class="pathway">Top Menu</a> <img src="/media/system/images/arrow.png" alt=""> <span>Privacy</span></div>
+
+        									<div id="message">
+						
+<div id="system-message-container">
+</div>
 					</div>
-					<div class="sub-nav-ftr"><!--IE Sucks!--></div>
-				</div>
-				
-				<!--End Sub Nav-->
-				
-			</div>
-			<!--End Column-->
-			
-			<!--Start Content-->
-			<div id="content">
-				
-				<div id="crumbs"><a href="/">Home</a><span>&gt;</span><a href="/company/about-us/">Company</a><span>&gt;</span><a href="/company/privacy-policy/">Privacy Policy</a></div>
-				
-				<h1>Privacy Policy</h1>
+									        
+        <div class="full">
+                    <div id="comp">                           
+                    <div id="comp_80">
+                    <div id="comp-i">
+                        <div class="item-page">
 
-				<p>We have great respect for your privacy. In order to keep you informed of our privacy practices concerning this website, we have provided the following privacy policy. If you have questions, please direct them to our webmaster.</p>
-				
-				<p class="bold">Personal Information and Your Privacy</p>
-				
-				<p>Our website is dynamically personalized just for you. We collect demographic data based on your browsing choices, and also when you fill out your user profile on our site in order to help you find the information you are looking for. The choice is yours, but we can serve you better the more you tell us about your needs.</p>
-				
-				<p>Aggregate usage information for our website is collected and analyzed in order to help us improve the web site. This information is collected in aggregate form and is generally not associated with any personal information.</p>
-				
-				<p>Personal information provided to us directly (for example, registering for a Webcast, or providing contact information so we can contact you) will not be sold or rented to any third party. We will use the information for our normal business operations, which may require that we provide it to administrators, consultants, vendors or others operating on our behalf. Aggregate or demographic data may be shared with clients or consultants in aggregate form only. We may also use the information to contact customers to further discuss customer interest in our company, the products and services that we provide, and to send information regarding our company or partners, such as promotions and events. Customer email addresses and any personal customer information will not be distributed or shared with third parties. Customers can opt out of being contacted by us, or receiving such information from us, at any time by sending an email to our <a href="mailto:webmaster@asuresoftware.com">webmaster</a>.</p>
-				
-				<p>iEmployee may collect financial and billing information for customers who purchase iEmployee products or services. All financial and billing information that we collect through the website is used solely to check the qualifications of prospective customers and to bill for the Service. This billing information is not used by iEmployee for marketing or promotional purposes. iEmployee uses a third-party intermediary to manage the credit card processing. This intermediary is solely a link in the distribution chain, and is not permitted to store, retain, or use the information provided, except for the sole purpose of credit card processing.</p>
-				
-				<p>Customers of iEmployee's "On Demand" Services will be using iEmployee's hosted service to store data and information ("Data"). iEmployee will not review, share, distribute, print, or reference any such Data except as provided in the iEmployee Limited Use License Agreement, or as may be required by law. Individual records may at times be viewed or accessed only for the purpose of resolving a problem, support issue, or suspected violation of the Limited Use License Agreement, or as may be required by law. Of course, customers are responsible for maintaining the confidentiality and security of their user registration and password.</p>
-				
-				<p class="bold">Cookies</p>
-				
-				<p>Our website makes use of cookies to enable the personalized functionality of the site. These cookies do not contain any personally identifiable information. If you wish, you may configure your browser to reject cookies, though this may cause some website functions to be disabled.</p>
-				
-				<p class="bold">Security</p>
-				
-				<p>We are committed to keeping your personal information safe. We do not collect any personally sensitive information, aside from contact information. We do not knowingly collect information from children.</p>
-				
-				<p class="bold">Email</p>
-				
-				<p>We may occasionally send targeted mailings to specific market segments. Lists for electronic mailings are acquired only from legitimate opt-in vendors or existing customer lists. Lists for physical mailings are acquired from traditional sources. If you believe you were sent something in error, or are having trouble unsubscribing, please contact our <a href="mailto:webmaster@asuresoftware.com">mail abuse handler</a> to ensure that appropriate action can be taken. We use only opt-in lists, so if you didn't opt-in, we want to know!</p>
-				
-				<p class="bold">Business Relationships</p>
-				
-				<p>Our website may contain links to other websites. We are not responsible for the privacy practices or the content of those sites.</p>
-				
-				<p class="bold">Notification of Changes</p>
-				
-				<p>This privacy statement was last updated on April 2, 2008. We reserve the right to make changes without notice.</p>
-				
-				<p class="bold">Questions</p>
-				
-				<p>If you have questions about your privacy on our site, <a href="mailto:webmaster@asuresoftware.com">please contact our webmaster</a>.</p>
-				
-			</div>
-			<!--End Content-->
+
+	
+	
+
+
+	
+
+	    
+	<p> <strong>European Union Safe Harbor Privacy Policy</strong><strong><br>
+      <br>
+  </strong>Our Commitment to Your Privacy<strong><br>
+  <br>
+  </strong>Asure Software respects individual privacy and values the   confidence of its customers, employees, business partners and others. We   at Asure Software feel that our users should understand completely our   policy that governs data capture and use. Further, this document   outlines the processes and procedures that surround safeguarding the   personal data provided to us by our customers.<strong><br>
+  <br>
+  </strong>For Asure Software’s Time and Labor Management products (ADI   Time, iEmployee, Legiant, AsureForce and AsureSpace), this personal   information includes customers’ employee names, addresses, social   security numbers, date of birth, telephone number(s), gender, marital   status, email addresses, dependent information, sensitive personal   information and payroll data, as well as any information that can be   linked to an individual employee. For Asure Software’s Meeting Room   Management product (Netsimplicity), this personal information includes   employee names, email addresses, work locations, any information entered   in meeting request descriptions – as any information can be entered in   this free text area – as well as any information that can be linked to   an individual employee. Asure Software endeavors to abide by the laws of   the countries in which it does business when it comes to collection,   use and disclosure of personal information as well as upholding the   highest ethical standards in its business practices.<strong><br>
+  <br>
+  </strong><strong>Certification of Compliance<br>
+</strong>Asure Software complies   with the U.S.‐EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor   Framework as set forth by the U.S. Department of Commerce regarding the   collection, use, and retention of personal information from European   Union member countries and Switzerland<strong>.</strong> </p>
+<p>  Asure Software has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Asure Software’s certification, please visit <a href="http://www.export.gov/safeharbor/" target="_blank">http://www.export.gov/safeharbor/</a>. 
+More   importantly, how we plan to protect the security and privacy of any   personal information that customers provide to us. For Asure Software’s   Time and Labor Management products (ADI Time, iEmployee, Legiant,   AsureForce and AsureSpace), this personal information includes   customers’ employee names, addresses, social security numbers, date of   birth, telephone number(s), gender, marital status, email addresses,   dependent information, sensitive personal information and payroll data,   as well as any information that can be linked to an individual employee.   For Asure Software’s Meeting Room Management product (Netsimplicity),   this personal information includes employee names, email addresses, work   locations, any information entered in meeting request descriptions – as   any information can be entered in this free text area – as well as any   information that can be linked to an individual employee. Asure Software   endeavors to abide by the laws of the countries in which it does   business when it comes to collection, use and disclosure of personal   information as well as upholding the highest ethical standards in its   business practices.<strong><br>
+      <br>
+      <strong>Safe Harbor</strong><br>
+  </strong>The United States Department of   Commerce and the European Commission and the Swiss Federal Data   Protection and Information Commisioner have agreed on a set of data   protection principles and frequently asked questions (the "Safe Harbor   Principles") to enable U.S. companies to satisfy the EU law and Swiss   Federal requirement that personal information transferred from the EU to   the United States be adequately protected. Consistent with its pledge   to protect personal privacy, Asure Software adheres to the Safe Harbor   Principles.<strong><br>
+  <br>
+  <strong>Scope</strong><br>
+  </strong>This Safe Harbor Privacy Policy (the   "Policy") sets forth the privacy principles that Asure Software follows   with respect to transfers of personal information from the European   Union (EU) to the United States and from Switzerland to the United   States according to the US.‐EU Safe Harbor Framework and the U.S-Swiss   Safe Harbor Framework, in any format including electronic, paper or   verbal.<strong><br>
+  <br>
+  <strong>Definitions</strong><br>
+</strong>The following definitions shall apply throughout this Policy:  </p>
+<p> “Asure Software” Shall mean Asure Software and its product lines: ADI   Time, iEmployee, Legiant, collectively referred to as “Time and Labor   Management” and  NetSimplicity, as well as its successors, subsidiaries,   divisions and groups in the United States.  </p>
+<p> "Agent" means any third party that uses personal information provided   to Asure Software to perform tasks on behalf of and under the   instructions of Asure Software.  </p>
+<p> "Personal information" means any information or set of information   that identifies or could be used by or on behalf of Asure Software to   identify an individual. Personal information does not include   information that is encoded, anonymized, aggregated or publicly   available information that has not been combined with non‐public   personal information. </p>
+<p> "Sensitive personal information" means personal information that   reveals race, ethnic origin, political opinions, religious or   philosophical beliefs, or trade union membership, or that concerns   health or sexual orientation. In addition, Asure Software will treat as   sensitive personal information any information received from a third   party where that third party treats and identifies the information as   sensitive. </p>
+<p> “Payroll Data” means information relating to compensation, deduction-   voluntary or otherwise, tax information – to include information found   on W-2’s, banking information and any other data that may be found on   paystubs or payroll checks.<strong><br>
+      <br>
+      <strong>Privacy Principles</strong><br>
+</strong>The privacy principles in this Policy are based on the Safe Harbor Principles.   </p>
+<p> <strong>Notice</strong><strong><br>
+  </strong>When Asure Software collects personal information directly from individuals in the EU and Switzerland ortheir   respective employers, it will inform them about the purposes for which   it collects and uses their personal information, the types of non‐agent   third parties, if any, to which Asure Software discloses that   information and the choices and means, if any, that Asure Software   offers individuals for limiting the use and disclosure of their personal   information. Notice will be provided in clear and conspicuous language   when individuals are first asked to provide personal information to   Asure Software, or as soon as practicable thereafter, and in any event   before Asure Software uses the information for a purpose other than that   for which it was originally collected. If Asure Software receives   personal information from its subsidiaries, affiliates or other entities   in the EU and Switzerland, it will use such information in accordance   with the notices such entities provided and the choices made by the   individuals to whom such personal information relates.<strong><br>
+  <br>
+  <strong>Choice</strong><br>
+  </strong>Asure Software will offer individuals   the opportunity to choose (opt‐out) whether their personal information   is (a) to be disclosed to a non‐agent third party, or (b) to be used for   a purpose other than the purpose for which it was originally collected   or subsequently authorized by the individual.For   sensitive personal information, Asure Software will give individuals the   opportunity to affirmatively and explicitly (opt‐in) consent to the   disclosure of the information to a non‐agent third party or the use of   the information for a purpose other than the purpose for which it was   originally collected or subsequently authorized by the individual. Asure   Software will provide individuals with reasonable methods to exercise   their choices.<strong><br>
+  <br>
+  <strong>Data Integrity</strong><br>
+  </strong>Asure Software will use   personal information only in ways that are compatible with the purposes   for which it was collected or subsequently authorized by the individual.   Asure Software will take reasonable steps to ensure that personal   information is relevant to its intended use, accurate, complete, and   current.<strong><br>
+  <br>
+  <strong>Transfer to Agents</strong><br>
+  </strong>Asure Software will obtain   assurances from its agents that they will safeguard personal information   consistently with this Policy. If Asure Software has knowledge that an   agent is using or disclosing personal information in a manner contrary   to this Policy, Asure Software will take reasonable steps to prevent or   stop the use or disclosure.<strong><br>
+  <br>
+  <strong>Access and Correction</strong><br>
+  </strong>Upon request, Asure   Software will grant individuals reasonable access to personal   information that it holds about them, and Asure Software will take   reasonable steps to permit individuals to correct, amend, or delete   information that is demonstrated to be inaccurate or incomplete. Updates   and access is often from individuals’ employers’ upstream human   resources management system/record keeping system from which Asure   Software receives all personal information from.<strong><br>
+  <br>
+  <strong>Security</strong><br>
+  </strong>Asure Software will take reasonable   precautions to protect personal information in its possession from loss,   misuse and unauthorized access, disclosure, alteration and destruction.<strong><br>
+  <br>
+  <strong>Enforcement</strong><br>
+  </strong>Asure Software will conduct   compliance audits of its relevant privacy practices to verify adherence   to this Policy. Any employee that Asure Software determines is in   violation of this policy will be subject to disciplinary action up to   and including termination of employment.<strong><br>
+  <br>
+  <strong>Dispute Resolution</strong><br>
+  </strong>Any questions or concerns   regarding the use or disclosure of personal information should be   directed to the Asure Software Privacy Officer at the address given   below. Asure Software will investigate and attempt to resolve complaints   and disputes regarding use and disclosure of personal information in   accordance with the principles contained in this Policy. For complaints   that cannot be resolved between Asure Software and the complainant,   Asure Software has agreed to participate in the dispute resolution   procedures of the panel established by the European data protection   authorities as well as the Swiss Federal Data Protection and Information   Commissioner to resolve disputes pursuant to the Safe Harbor   Principles.<strong><br>
+  <br>
+  <strong>Changes to the Safe Harbor Privacy Policy</strong><br>
+  </strong>This   Policy may be amended from time to time, consistent with the   requirements of the Safe Harbor Principles. Asure Software will provide   appropriate public notice about such amendments. The most recent version   of this Policy will be available at <a href="http://www.asuresoftware.com/">www.asuresoftware.com</a>.<strong><br>
+  <br>
+  <strong>Learn More</strong><br>
+  </strong>To learn more about the Safe Harbor program or to view Asure Software’s certification, please visit <a href="http://www.export.gov/safeharbor/">http://www.export.gov/safeharbor/</a>.<strong><br>
+  <br>
+  <strong>Contact Us</strong><br>
+  </strong>Office of the Chief Operating Officer<strong><br>
+  </strong>Asure Software, Inc<strong><br>
+  </strong>110 Wild Basin Road, Suite 100<strong><br>
+  </strong>Austin, TX 78746<strong><br>
+  </strong>United States of America<strong><br>
+  <br>
+  </strong>Call: 512-437-2700<strong><br>
+  </strong>Fax: 512-437-2365<strong><br>
+  </strong>Email: 
+ <script type="text/javascript">
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy85453 = 'sr&#111;dr&#105;g&#117;&#101;z' + '&#64;';
+ addy85453 = addy85453 + '&#97;s&#117;r&#101;s&#111;ftw&#97;r&#101;' + '&#46;' + 'c&#111;m';
+ var addy_text85453 = 'sr&#111;dr&#105;g&#117;&#101;z' + '&#64;' + '&#97;s&#117;r&#101;s&#111;ftw&#97;r&#101;' + '&#46;' + 'c&#111;m';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy85453 + '\'>');
+ document.write(addy_text85453);
+ document.write('<\/a>');
+ //-->\n </script><a href="mailto:srodriguez@asuresoftware.com">srodriguez@asuresoftware.com</a><script type="text/javascript">
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script><span style="display: none;">This e-mail address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type="text/javascript">
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></span><strong><br>
+</strong>EFFECTIVE DATE: January 20, 2012 </p>
+
+	</div>
+                        <div style="text-indent:-9999em">Buy cheap web hosting service where <a href="http://webhostingtop.org/fatcow-review" title="fatcow review">fatcow web hosting review</a> will give you advices and please read <a href="http://bluehostingreview.org" title="blue host">bluehost review</a> for more hosting information.</div>                    </div>
+                    </div>
+                                        <div id="leftbar-w">
+                    <div id="sidebar">
+                        	<div class="module">
+        <div class="inner">
+				<div class="h3c"><div class="h3r"><div class="h3l"><h3 class="module-title">Support</h3></div></div></div>
+			    <div class="module-body">
+	        
+<ul class="menu">
+<li class="item-190"><a href="/contact-info">Contact Info</a></li><li class="item-191"><a href="/netsimplicity-services">NetSimplicity Services</a></li><li class="item-192"><a href="/asureforce-support-options">AsureForce Support Options</a></li></ul>
+        </div>
+        </div>
+	</div>
+		<div class="module">
+        <div class="inner">
+			    <div class="module-body">
+	        
+
+<div class="custom">
+	<p>&nbsp;</p>
+<p><a href="http://export.gov/safeharbor/" target="_blank"><img src="/images/Safe-Harbor.jpg" border="0"></a></p>
+</div>        </div>
+        </div>
+	</div>
+	
+                    </div>
+                    </div>
+                                          
+                    </div>
+                    		<div class="clr"></div>
+        </div>     
+        </div>     
+        <div class="bot1"><div class="bot2"><div class="bot3"></div></div></div>
+        <div class="shadow2"></div>
+  </div>
+</div>
+		   
+<div id="footer">
+	<div class="footer-pad">
+    	<div class="top1"><div class="top2"><div class="top3"></div></div></div>
+		<div id="mods3" class="spacer w99">
 			
-			<div style="clear:both"></div>
 			
-			<!--Start Footer-->
-			<div id="footer">
-				<ul id="footer-nav">
-					<li><a href="/time-and-attendance/">Time &amp; Attendance</a><span>/</span></li>
-<!--				<li><a href="/human-resources/">Human Resources Software</a><span>/</span></li>
--->					<li><a href="/resources/">Resources</a><span>/</span></li>
-					<li><a href="/partners/">Partners</a><span>/</span></li>
-					<li><a href="/company/">Company</a><span>/</span></li>
-					<li><a href="/support/">Support</a></li>
-				</ul>
-				<ul id="footer-copy">
-					<li>Copyright © iEmployee<span>/</span></li>
-					<li><a href="/company/privacy-policy/">Privacy</a><span>/</span></li>
-					<li><a href="/sitemap.asp">Sitemap</a></li>
-				</ul>
-			</div>
-			
-			<!--End Footer-->
-				
+				<div class="module">
+        <div class="inner">
+			    <div class="module-body">
+	        
+
+<div class="custom">
+	<table width="960" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td>
+<table style="color: #ffffff;" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#292927">
+<tbody>
+<tr>
+<td valign="top" width="28%"><strong>WHY ASURE?</strong><br> <a href="/why-asure/the-asure-advantage">The Asure Advantage</a><br> <a href="/why-asure/empowering-the-workplace">Empowering the Workplace</a><br> <strong>PRODUCTS</strong><br> <a href="/products/netsimplicity">NetSimplicity: Meeting Room Manager</a><br> <a href="/products/asureforce">AsureForce Time &amp; Labor Management Software</a></td>
+<td valign="top" width="13%"><strong>COMPANY</strong><br> <a href="/company/management-team">Leadership Team</a><br> <a href="/board-of-directors">Board of Directors</a><br> <a href="/corporate-governance">Governance</a><br> <a href="/news">News</a><br> <a href="/careers">Careers</a><br> <a href="/partners">Partners</a><br> <a href="/company/contactus">Contact Us</a></td>
+<td valign="top" width="18%"><a href="http://investor.asuresoftware.com/">INVESTOR RELATIONS</a><br> <a href="/asure-support">SUPPORT</a></td>
+<td align="right" valign="top" width="41%"><a href="/asure-support/contact-info">Contact Asure Software</a> | <a href="/asure-support/contact-info?id=117">Site Map</a> | <a href="/asure-support/contact-info?id=116">Privacy</a> <br> <br> © Asure Software<br> <br> 110 Wild Basin Road. Suite 100 Austin, Texas 78746</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table></div>        </div>
+        </div>
+	</div>
+	
+            
 		</div>
-		<!--End Container-->
-				
-		<!--Start Tracking-->
+        <div class="bot1"><div class="bot2"><div class="bot3"></div></div></div> 
+  </div>    
+</div>        
+<div id="bottom">
+               <!-- <div class="design1">Asure Software | 888.323.8835 | Copyright &copy; 2011 Asure Software</div>
+<div class="design"><a href="http://joomlathemes.co" target="_blank" title="free joomla themes">Free Joomla Templates</a> designed by <a href="http://webhostingtop.org" target="_blank" title="hosting reviews">Web Hosting</a> Top</div>-->
+</div>
 
-	<!-- Begin Google Analytics tracking code for all pages in site -->
-	<script type="text/javascript">
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-	<script type="text/javascript">
-	var pageTracker = _gat._getTracker("UA-2780044-1");
-	pageTracker._initData();
-	pageTracker._trackPageview();
-	</script>
-	<!-- End Google Analytics tracking code -->
-
-	<!-- Begin Eloqua tracking code for all pages in site -->
-	<script type="text/javascript" language="JavaScript" src="/elqNow/elqCfg.js"></script>
-	<script type="text/javascript" language="JavaScript" src="/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.asp?pps=3&amp;siteid=298&amp;ref2=elqNone&amp;tzo=0&amp;ms=450" border="0" width="1" height="1"></layer>
-	<!-- End Eloqua tracking code -->
-
-	<!--Begin Manticore Technology Code-->
+		<!--Begin Manticore Technology Code-->
 	<!--Copyright 2000-2011, Manticore Technology Corporation.  All rights reserved.  Patent pending.--> 
 	<!--Consumer Privacy Statement available at www.ManticoreTechnology.com/ConsumerPrivacy.asp-->
 	
@@ -228,9 +338,25 @@
 		mtcGO();
 	</script>
 	<!--End Manticore Technology Code-->
-
-	   	<!--End Tracking-->
-		
+    
+<!--Google Analytic code starts here-->
+<script type="text/javascript">
 	
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-21199588-1']);
+	  _gaq.push(['_setDomainName', 'none']);
+          _gaq.push(['_setAllowLinker', true]);
+          _gaq.push(['_trackPageview']);
+	
+	  (function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	
+	</script>
+
+<!--Google Analytic code ends here-->
+
 
 </body></html>
