@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costcentral.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102013850id_/http%3A//www.costcentral.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costcentral.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512111226id_/http%3A//www.costcentral.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,7 +23,7 @@ We request information from the user on our order form. A user must provide cont
 
 ## Information Use
 
-Costcentral.com is a new computer, and computer peripheral dealer. We operate this website, costcentral.com, which collects personal information and credit card information for the sole purpose of processing orders, and providing accurate shipping. We do NOT reveal any of your information with third parties. We do NOT reveal your email addresses. Our customer database is stored in an SQL database on a UNIX server, the security of which is taken very seriously. Our administrators are constantly monitoring the servers for new weaknesses to maintain the highest levels of security. Rest assured that your identity and banking information are safe at Costcentral.com
+Costcentral.com is a computer and computer peripheral dealer. We operate this website, costcentral.com, which collects personal information and credit card information for the sole purpose of processing orders, and providing accurate shipping. Your information would only be shared with companies that help us process your order, deliver your order or provide the services that we offer customers. Our customer database is stored in an SQL database on a UNIX server, the security of which is taken very seriously. Our administrators are constantly monitoring the servers for new weaknesses to maintain the highest levels of security. Rest assured that your identity and banking information are safe at Costcentral.com
 
 ### Profile
 
@@ -65,7 +65,7 @@ Though we make every effort to preserve user privacy, we may need to disclose pe
 
 #### Third Party Advertisers
 
-Costcentral.com does NOT share Web site usage information, or personal information about users with any third parties.
+Your information would only be shared with companies that help us process your order, deliver your order or provide the services that we offer customers. We do not share your information to third parties for advertising.
 
 #### Third Party Intermediaries
 
@@ -121,4 +121,4 @@ If, however, we are going to use users' personally identifiable information in a
 
 ## Contact Information
 
-If users have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/web/20111102013850id_/http%3A//www.costcentral.com/contact.php).
+If users have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/web/20120512111226id_/http%3A//www.costcentral.com/contact.php).
