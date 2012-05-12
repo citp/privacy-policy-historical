@@ -1,21 +1,18 @@
-> *The following text is extracted and transformed from the hplusmagazine.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101231821id_/http%3A//hplusmagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hplusmagazine.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512214230id_/http%3A//hplusmagazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  
-**Warning** : Invalid argument supplied for foreach() in **/var/www/vhosts/hplusmagazine.com/web_users/hplus/wp-content/themes/hplusmag_theme/single.php** on line **36**  
-
-
 Published:  February 25, 2009
 
-**_h+ Magazine_**   
-http://www.hplusmagazine.com 
+**_h+ Magazine_**
+
+http://www.hplusmagazine.com
 
 Effective from 4th of February 2009 to 1st of February 2010.
 
 * * *
 
-**General Information**   
+**General Information**  
 _h+ Magazine_ takes your privacy seriously. Please read the following information to learn more about our privacy practices.
 
   * This policy covers what personally identifiable information _h+ Magazine_ collects and how it is treated. Personally identifiable information is information that can be used to identify visitors to the http://www.hplusmagazine.com Web Site. This information may be limited to an IP address or extend to personally identifiable information such as your name, address, email address, or phone number.
@@ -27,26 +24,26 @@ _h+ Magazine_ takes your privacy seriously. Please read the following informatio
 
 * * *
 
-**Contact Information**   
-We invite you to [contact us](http://www.hplusmagazine.com/contact-us) if you have questions about this privacy policy. 
+**Contact Information**  
+We invite you to [contact us](http://www.hplusmagazine.com/contact-us) if you have questions about this privacy policy.
 
-You may contact us by e-mail at [info@hplusmagazine.com](mailto:info@hplusmagazine.com)   
-You may contact us by phone at 407-222-8349 
+You may contact us by e-mail at [info@hplusmagazine.com](mailto:info@hplusmagazine.com)  
+You may contact us by phone at 407-222-8349
 
 
 * * *
 
-**Dispute Resolution**   
-_h+ Magazine_ is committed to resolving any dispute you may have regarding our privacy policy quickly and efficiently. 
+**Dispute Resolution**  
+_h+ Magazine_ is committed to resolving any dispute you may have regarding our privacy policy quickly and efficiently.
 
 Disputes will be handled by our customer service representative. Our customer service will promptly correct any errors.
 
 * * *
 
-**Information Collection**   
-When visiting Web Sites certain information about you and your computer can sometimes be collected. This section explains what information _h+ Magazine_ collects, and how it is used. 
+**Information Collection**  
+When visiting Web Sites certain information about you and your computer can sometimes be collected. This section explains what information _h+ Magazine_ collects, and how it is used.
 
-**Information Collected** – What information do we collect and why? 
+**Information Collected** – What information do we collect and why?
 
 We collect the following identifiable information about our visitors:
 
@@ -82,6 +79,7 @@ Our Web Site generates server log files automatically. These log files are used 
 
 **Information Recipients** – Who has access to the information collected?
 
+ 
   * Ourselves and/or our entities acting as our agents or entities for which we are acting as an agent.
 
 
@@ -90,6 +88,7 @@ Our Web Site generates server log files automatically. These log files are used 
 
 **Information Retention** – How long is this information retained?
 
+ 
   * We do not have a retention policy for this area of the Web Site.
 
 
