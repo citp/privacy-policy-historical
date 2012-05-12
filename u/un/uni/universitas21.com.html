@@ -1,19 +1,19 @@
-<!--The following is the downloaded HTML source of the universitas21.com privacy policy that was archived on 2011-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102113116id_/http%3A//www.universitas21.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the universitas21.com privacy policy that was archived on 2012-05-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120512223042id_/http%3A//www.universitas21.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="SI-FILES-STYLIZED"><head>
     <title>Privacy Policy</title>
     <meta charset="utf-8">
 
-    
+    <meta name="google-site-verification" content="GzSz25DgmisMX1TgAH1q-nePIHFG4kv5ZgS0Qcgi4Vc">
+
     <link href="/Content/css/base.css" rel="stylesheet" type="text/css">
-    <link href="/Content/css/layout.css" rel="stylesheet" type="text/css">
-    <link href="/Content/css/boxes.css" rel="stylesheet" type="text/css">
-    <link href="/Content/css/lists.css" rel="stylesheet" type="text/css">
+    <link href="/Content/css/layout.css?v=20125122330" rel="stylesheet" type="text/css">
+    <link href="/Content/css/lists.css?v=20125122330" rel="stylesheet" type="text/css">
     <link href="/Content/css/colorbox.css" rel="stylesheet" type="text/css">
     <link href="/Content/css/jquery.lightbox-0.5.css" rel="stylesheet" type="text/css">
     <link href="/Content/css/slider.css" rel="stylesheet" type="text/css">
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/Scripts/jquery-1.4.4.min.js" type="text/javascript"></script>
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/Scripts/jquery-1.5.1.min.js" type="text/javascript"></script>
 
     <script src="/Scripts/nav.js" type="text/javascript"></script>
     <script src="/Scripts/jquery.colorbox-min.js" type="text/javascript"></script>
@@ -28,18 +28,21 @@
                     siteSearch();
                 }
             });
+            $("ol li").each(function (i, item) {
+                $(item).html("<span>" + $(item).html() + "</span>");
+            });
         });
 
-    function siteSearch() {
-        var url = '/SiteSearch/';
-        if ($("#search_keywords")) {
-            if ($("#search_keywords").val().length != 0) {
-                location.href=url+"?keywords="+$("#search_keywords").val();
-            } else {
-                alert("Please enter a keyword.");
+        function siteSearch() {
+            var url = '/SiteSearch/';
+            if ($("#search_keywords")) {
+                if ($("#search_keywords").val().length != 0) {
+                    location.href=url+"?keywords="+$("#search_keywords").val();
+                } else {
+                    alert("Please enter a keyword.");
+                }
             }
         }
-    }
     </script>
     <script type="text/javascript">
 
@@ -55,7 +58,6 @@
 
     </script>
 </head>
-
 <body><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 50px; padding-right: 50px; display: none;"><div id="cboxWrapper" style=""><div id="false" style=""><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div id="false" style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" class="" style="width: 0px; height: 0px; overflow: hidden;"></div><div id="cboxLoadingOverlay" class="" style=""></div><div id="cboxLoadingGraphic" class="" style=""></div><div id="cboxTitle" class="" style=""></div><div id="cboxCurrent" class="" style=""></div><div id="cboxNext" class="" style=""></div><div id="cboxPrevious" class="" style=""></div><div id="cboxSlideshow" class="" style=""></div><div id="cboxClose" class="" style=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div id="false" style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div id="false" style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div>
     <div class="offLeft anchor">
         <ul>
@@ -66,7 +68,7 @@
     <div class="siteBack">
         <div class="siteRet">
             <div id="header">
-                <div class="floatL"><a href="/"><img src="/Content/images/elements/layout/logo.jpg" alt=""></a></div>
+                <div class="floatL"><a href="/"><img src="/Content/images/elements/layout/logo15years.jpg" alt=""></a></div>
                 <div class="floatL"><img src="/Content/images/elements/layout/strapline_new.jpg" alt=""></div>
                 <div class="floatR">
                     <div class="sub">
@@ -192,8 +194,7 @@ above address. We will promptly correct any information found to be incorrect.</
                 
                 
 
-   <form id="frmNewsletter" method="post" action="/">
-<div class="newsletter">
+   <div class="newsletter">
     <div><img alt="" src="/content/images/elements/layout/newsletter_title6.png"></div>       
     <p class="text">Click below to enter your details and receive ebulletins and newsletters</p>
     <div class="floatL">
@@ -209,80 +210,60 @@ above address. We will promptly correct any information found to be incorrect.</
     <div class="clear"></div>
     <div class="spacer005"></div>
 </div>
-</form>
 <script type="text/javascript">
     function newslettersignup() {
         location.href="/Newsletter/Signup";
-
-        /*if ($("#emailAddress").val().length == 0) {
-            alert("Please enter your email address.");
-            $("#emailAddress").focus();
-        } else {
-            var urlSave = '/Newsletter/Create';
-            var user = {
-                emailAddress: $("#emailAddress").val()
-            };
-            $.ajax({
-                type: "POST",
-                url: urlSave,
-                data: JSON.stringify(user),
-                datatype: "JSON",
-                contentType: "application/json; charset=utf-8",
-                success: function (returndata) {
-                    alert(returndata.message);
-                    if (returndata.ok) $("#frmNewsletter").fadeOut();
-                }
-            });
-        }*/
     }
 </script>
 
                 
 
 <div class="eventBar">
-    <div class="item feat">
-        <div class="title"><img alt="" src="/content/images/elements/layout/event_featured.jpg"></div>
-        <div class="img">
-            <a href="/event/details/12/teaching-and-learning-network-conference">
-        
-            
-            <img alt="" src="/upload/event/list/12TL.JPG">
-            
-            </a>
-</div>
-        <div class="summary floatL">
-            <div class="date">03 November 2011</div>
-            <div class="title">                <a href="/event/details/12/teaching-and-learning-network-conference">Teaching &amp; Learning Network Conference</a>
-</div>
-            </div>
-            <div class="floatR">
-            <a href="/event/details/12/teaching-and-learning-network-conference"><img alt="Read More" src="/Content/images/elements/arrows/more.png"></a>
-            </div>
-        <div class="clear"></div>
-    </div>
     <div class="item ">
         <div class="img">
-            <a href="/event/details/91/water-reuse-workshop">
+            <a href="/event/details/96/lifelong-learning-and-research-workshop">
         
             
-            <img alt="" src="/upload/event/list/91j0410082.jpg">
+            <img alt="" src="/upload/event/list/96MP910220940.JPG">
             
             </a>
 </div>
         <div class="summary floatL">
-            <div class="date">29 November 2011</div>
-            <div class="title">                <a href="/event/details/91/water-reuse-workshop">Water Reuse Workshop</a>
+            <div class="date">14 May 2012</div>
+            <div class="title">                <a href="/event/details/96/lifelong-learning-and-research-workshop">Lifelong Learning &amp; Research Workshop</a>
 </div>
             </div>
         <div class="clear"></div>
     </div>
     <div class="item ">
         <div class="img">
-            <img alt="" src="/upload/event/list/95MP900422590(1).JPG">
+            <a href="/event/details/92/student-mobility-network-meeting">
+        
+            
+            <img alt="" src="/upload/event/list/9204.-EGADE-Santa-Fe-500x420.jpg">
+            
+            </a>
 </div>
         <div class="summary floatL">
-            <div class="date">11 December 2011</div>
-            <div class="title">Deans and Directors of Graduate Studies Meeting</div>
+            <div class="date">23 May 2012</div>
+            <div class="title">                <a href="/event/details/92/student-mobility-network-meeting">Student Mobility Network Meeting</a>
+</div>
+            </div>
+        <div class="clear"></div>
+    </div>
+    <div class="item ">
+        <div class="img">
+            <a href="/event/details/117/un-millennium-development-goals-workshop">
+        
+            
+            <img alt="" src="/upload/event/list/117UNlogo.jpg">
+            
+            </a>
+</div>
+        <div class="summary floatL">
+            <div class="date">08 June 2012</div>
+            <div class="title">                <a href="/event/details/117/un-millennium-development-goals-workshop">UN Millennium Development Goals workshop</a>
+</div>
             </div>
         <div class="clear"></div>
     </div>
