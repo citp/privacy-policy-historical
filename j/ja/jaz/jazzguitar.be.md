@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jazzguitar.be privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227135748id_/http%3A//www.jazzguitar.be/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jazzguitar.be privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512154106id_/http%3A//www.jazzguitar.be/privacy-policy.html) for the most accurate reproduction.*
 
 # Jazzguitar.be Privacy Policy
 
