@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unexplainable.net privacy policy that was archived on 2011-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111024235816id_/http%3A//www.unexplainable.net/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unexplainable.net privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512153108id_/http%3A//www.unexplainable.net/privacy.shtml) for the most accurate reproduction.*
 
 # Unexplainable.Net Privacy Policy
 
