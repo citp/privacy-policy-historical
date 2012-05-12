@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angel.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119222602id_/http%3A//www.angel.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angel.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512120447id_/http%3A//www.angel.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Angel.com
 
@@ -32,7 +32,7 @@ We may combine the personally identifiable information we collect from you when 
 
 We may also share such information with our affiliates and other third parties to provide you with goods or services requested by you. However, any party that receives your information for this purpose will be prohibited from using it for any means other than those necessary to facilitate your transaction with Angel unless you agree that the party may make other uses of your information.
 
-Finally, we may also use personally identifiable information to enforce our Terms and Conditions of Use or share such information with i) the issuer of a criminal or civil subpoena; ii) governmental authorities when legally required to do so; or iii) governmental authorities investigating a crime. We reserve the right to contact you at any time regarding Service- related problems or questions as well as changes to our [Terms and Conditions](https://web.archive.org/web/20111119222602id_/http%3A//www.angel.com/terms-conditions.php) of Use, our Privacy Policy, or other policies that affect you and your use of our Service.
+Finally, we may also use personally identifiable information to enforce our Terms and Conditions of Use or share such information with i) the issuer of a criminal or civil subpoena; ii) governmental authorities when legally required to do so; or iii) governmental authorities investigating a crime. We reserve the right to contact you at any time regarding Service- related problems or questions as well as changes to our [Terms and Conditions](https://web.archive.org/web/20120512120447id_/http%3A//www.angel.com/terms-conditions.php) of Use, our Privacy Policy, or other policies that affect you and your use of our Service.
 
 **Your Ability to Opt Out or Opt In**  
 Opt Out. You can notify us that you do not wish to receive information about new products and services and special offers by opting out at the time you enter your personally identifiable information on the Angel website or by emailing us at [info@angel.com](mailto:info@angel.com).
