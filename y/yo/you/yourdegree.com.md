@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yourdegree.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228082417id_/http%3A//www.yourdegree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourdegree.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513103133id_/http%3A//www.yourdegree.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | YourDegree.com
+# Privacy Policy
 
 This Privacy Policy covers this YourDegree.com Web site(s), which are owned and operated by YourDegree.com ("YD," "We," "Us," or "Our").
 
