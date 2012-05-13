@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chromeriver.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128233858id_/http%3A//www.chromeriver.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chromeriver.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513124055id_/http%3A//www.chromeriver.com/privacy_policy) for the most accurate reproduction.*
 
-# Our Privacy Policy - Travel Expense Management - Chrome River
+# Our Privacy Policy | Travel Expense Management | Chrome River
 
 Thank you for visiting the Chrome River website and reviewing our privacy policy.  Our privacy policy is clear: We will collect no personal information about you when you visit our website unless you choose to provide that information to us.  Here is how we handle information about your visit to our website:
 
