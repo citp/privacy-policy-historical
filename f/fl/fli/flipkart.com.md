@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flipkart.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225222920id_/http%3A//www.flipkart.com/s/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flipkart.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513031325id_/http%3A//www.flipkart.com/s/privacypolicy) for the most accurate reproduction.*
 
 # Flipkart.com: Privacy Policy
 
