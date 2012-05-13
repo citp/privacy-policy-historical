@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaspersky.co.in privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101145709id_/http%3A//www.kaspersky.co.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaspersky.co.in privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513203547id_/http%3A//www.kaspersky.co.in/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -76,4 +76,4 @@ Please remember that information you submit in a news discussion or forum is pub
 
 ### Contact information
 
-This information can be found on our Contact Information page.
+This information can be found on our [Contact Information](https://web.archive.org/about/contactinfo/ "Contact Information") page.
