@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the naturalizer.com privacy policy that was archived on 2011-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111229012104id_/http%3A//www.naturalizer.com/en-US/Content/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the naturalizer.com privacy policy that was archived on 2012-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120513082718id_/http%3A//www.naturalizer.com/en-US/Content/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
 	Naturalizer.com Privacy Statement - Use of Collected Information
-</title><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><script> var seoRoutesNativeUrl = "http://www.naturalizer.com/Content.aspx?lang=en-US&contentid=privacy"; </script><script language="javascript" type="text/javascript" src="/scripts/MobileRedirect.js"></script>
+</title><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><script> var seoRoutesNativeUrl = "http://www.naturalizer.com/Content.aspx?lang=en-US&contentid=privacy"; </script><script language="javascript" type="text/javascript" src="/scripts/MobileRedirect.js"></script>    
     <script type="text/javascript" src="/scripts/jquery-1.4.2.min.js"></script>
     <script type="text/javascript" src="/Scripts/JavascriptErrorLogger.js"></script>
     <script type="text/javascript" src="/scripts/Scripts.js"></script>
@@ -15,9 +15,20 @@
 "><meta name="Description" content="Naturalizer.com, a Brown Shoe website, is committed to the privacy of our customers. Brown Shoe Company is the sole owner of information collected on Naturalizer.com.
 "><link title="naturalizer.com Search Provider" type="application/opensearchdescription+xml" rel="search" href="/Shopping/SearchProviders/SearchProvider_Naturalizer.xml"><link rel="canonical" href="http://www.naturalizer.com/en-US/Content/privacy.aspx"></head>
 <body id="ctl00_bodyElement" class="privacy contentPage">
-        
+        <script type="text/javascript">
+	var CartQuantityScript = function () {
+		var cookies = new CookieManager();
+		var qty = cookies.getValue("CART_TOTAL_QUANTITY_90051", null);
+		var link = document.getElementById("myCartActive");
+		if(link && qty && (qty > 0)){
+		 $('#topnav-service ul li#topnav-cart a').addClass('notEmpty');
+		link.innerHTML = " (" + qty + ")";
+	}
+	}
+	$(document).ready(CartQuantityScript);
+</script>
 		
-		<script language="Javascript" type="text/javascript">var serverDate= new Date("12/28/2011 7:21:05 PM")</script>
+		<script language="Javascript" type="text/javascript">var serverDate= new Date("5/13/2012 3:27:18 AM")</script>
 					<!-- SiteCatalyst code version: H.15.1.
 					Copyright 1997-2008 Omniture, Inc. More info available at http://www.omniture.com -->
 					<script language="Javascript" type="text/javascript">
@@ -165,16 +176,16 @@ function SearchSubmit() {
 			</ul>
 		<span class="dropArrow visuallyhidden"></span></li>
 		<li id="topnav-sandals"><a href="/sandals" class="n">Sandals</a></li>
-		<li id="topnav-boots"><a href="/en-US/Womens/_/_/Boots/_/Products.aspx" class="n">Boots</a></li>
 		<li id="topnav-handbags"><a href="/en-US/Bags/_/Naturalizer/Handbags/_/Products.aspx" class="n">Bags + Accessories</a>
 			<ul class="subnav visuallyhidden">
 				<li><a href="/en-US/Bags/_/Naturalizer/Handbags/_/Products.aspx">Handbags</a></li>
-				<li><a href="/en-US/Bags/_/Naturalizer/Wallets/_/Products.aspx">Wallets</a></li>
+				<!-- <li><a href="/en-US/Bags/_/Naturalizer/Wallets/_/Products.aspx">Wallets</a></li> -->
                 <li><a href="/en-US/Accessories/_/Naturalizer/_/_/Products.aspx">Accessories</a></li>
 			</ul>
 		<span class="dropArrow visuallyhidden"></span></li>
 		<li id="topnav-new"><a href="/en-US/_/_/_/_/New+Arrivals/Products.aspx" class="n">New Arrivals</a></li>
 		<li id="topnav-naya"><a href="/en-US/Womens/_/Naya/_/_/Products.aspx" class="n">Naya</a></li>
+                <li id="topnav-juil"><a href="/en-US/Womens/_/JUIL/_/_/Products.aspx" class="n">Juil</a></li>
 		<li id="topnav-sale"><a href="/en-US/_/_/_/_/On+Sale/Products.aspx" class="n">Sale</a></li>
 	
 	</ul>
@@ -184,12 +195,12 @@ function SearchSubmit() {
 <script type="text/javascript">
 $(function(){
 	$(".showDetails").live("click",function(){
-		var openThis = $(this).attr('href');
-		$(openThis).slideDown(400);
-		return false;
+			var openThis = $(this).attr('href');
+			$(openThis).slideToggle();
+			return false;
 	});
 	$(".close").live("click",function(){
-		$(this).parent().slideUp(400);
+		$('#swBannerPopup, #tarBannerPopup').slideToggle();
 		return false;
 	});
 	function getSearchResults(query){
@@ -238,7 +249,7 @@ $(function(){
 			<div id="ctl00_pnlE4x">
 	
 			<div id="E4x" class="E4x"></div>
-			<span class="e4xrates" aed="3.9505500000" ars="4.6226400000" aud="1.0306300000" brl="1.9998000000" cad="1.0650900000" chf="1.0040900000" clp="562.4900000000" cop="2070.3500000000" czk="21.2004000000" dkk="6.1196400000" eur="0.8111940000" gbp="0.6761860000" hkd="8.3630300000" huf="252.9270000000" idr="9765.6000000000" ils="4.0885400000" inr="56.9910000000" jpy="82.3183000000" krw="1243.9800000000" kwd="0.2994960000" ltl="2.8410600000" lvl="0.5744280000" mxn="15.0334000000" nok="6.4254000000" nzd="1.3836400000" omr="0.4141130000" pen="2.8995600000" php="47.2900000000" pln="3.6189700000" qar="3.9168800000" sar="4.0335800000" sek="7.3844300000" sgd="1.3918100000" thb="33.9322000000" try="2.0438900000" twd="32.5986000000" uah="8.6416900000" usd="1.0000000000" zar="8.7383800000"></span>
+			<span class="e4xrates" aed="3.9504400000" ars="4.7747100000" aud="1.0556400000" brl="2.1008900000" cad="1.0529300000" chf="0.9988220000" clp="523.2870000000" cop="1896.3300000000" czk="21.0057000000" dkk="6.1791100000" eur="0.8197230000" gbp="0.6582620000" hkd="8.3514200000" huf="241.1930000000" idr="9894.6600000000" ils="4.1105900000" inr="57.6687000000" jpy="84.7891000000" krw="1235.7600000000" kwd="0.2999690000" ltl="2.8703100000" lvl="0.5806660000" mxn="14.5522000000" nok="6.3026800000" nzd="1.3702500000" omr="0.4140920000" pen="2.8565400000" php="45.8219000000" pln="3.5292700000" qar="3.9167700000" sar="4.0335800000" sek="7.4754100000" sgd="1.3464300000" thb="33.5666000000" try="1.9230100000" twd="31.6274000000" uah="8.6406200000" usd="1.0000000000" zar="8.7351500000"></span><span class="e4xLcpRates"></span>
 			<script src="/Scripts/e4x.js"></script>
 			<script>
 				E4x.e4xPopup();
@@ -256,20 +267,21 @@ $(function(){
 #swBannerPopup h3 {background:#e1e2dd; color: #d50036; line-height: 1.25em; padding: 10px 10px 10px 20px;}
 #swBannerPopup p {padding:5px 20px; margin-bottom:10px;}
 .sw .mLink {display:block; width:920px; height:40px;}
-.exclusions a {color: #545556; left:758px; top:26px;font-weight: lighter;}
+.exclusions a {color: #858586; right:16px; top:22px;font-weight: lighter;}
 </style>
 
 <!--CODE FOR SITEWIDE BANNER-->
 
 <div id="swBanner" class="banner">
-<a href="/en-US/_/_/_/_/On+Sale/Products.aspx"><img src="/Content/2011/banners/wk47-20off/sw.gif" alt="Take an Extra 20% Off All Sale Items*" border="0" width="920" height="42"></a>
+<a href="/en-US/Bags/_/Naturalizer/Handbags/_/Products.aspx"><img src="/Content/2012/banners/wk11-handbag-sale/sw.gif" alt="All Handbags on SALE" border="0" width="920" height="42"></a>
 
 <p class="exclusions"><a href="#swBannerPopup" class="showDetails">*Exclusions apply</a></p>
 		<div class="bannerPopup" id="swBannerPopup">
 				
 	        	<div class="english">
-	        		<h3>Take an Extra 20% Off All Sale Items*</h3>
-	        		<p>*Extra 20% Off reflected at checkout. Product priced as marked. Not valid on previous purchases or gift cards or in conjunction with any other coupon. Offer is valid through January 4, 2012.</p>
+	        		<h3>All Handbags Now On Sale!*</h3>
+	        		<p>*Handbag Sale ends 11:59 p.m. CST May 16, 2012. Effective in-store 
+or online. Not valid on previous purchases.</p>
 
 	        		<a href="#" class="close">X</a>
 	        	</div>
@@ -286,8 +298,8 @@ $(function(){
 <!-- Shop:90051_Template_Header [Main] END -->
 			</div>
 			
-			<form name="aspnetForm" method="post" action="Content.aspx?lang=en-US&amp;contentid=privacy" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="AON5jBSupfdFfalNoWhHhU1XOUIB2OBoKONHA9qXWXkOu/Z5dy0R+SdWX3xOsTtqAYs3P0Ha0/kHRJE6O29hTHBJMnc=">
+			<form name="aspnetForm" method="post" action="/Content.aspx?lang=en-US&amp;contentid=privacy" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="aIeAMo0Wb1FalRuSDAGhzNOnPdsMWkve9kgLKsb3uwQykRXcq/M5hMmC3LBVJ6ATolAqx+1trxh/knN/86nDx/gyJSI=">
 
 
 <script type="text/javascript">
@@ -440,7 +452,9 @@ $(function(){
 if($j('div.loginRegTxt div.loginBtnWrap ul li').length == 3) {
    $j($j('div.loginRegTxt div.loginBtnWrap ul li')[1]).hide();
 }
-</script><!-- Shop:90051_Template_Footer [Main] END -->
+</script>
+
+<script type="text/javascript" src="/scripts/bvreporting.js"></script><!-- Shop:90051_Template_Footer [Main] END -->
 			</div>
 			
 			</form>
@@ -472,9 +486,9 @@ if($j('div.loginRegTxt div.loginBtnWrap ul li').length == 3) {
 		<li>
 			<a class="subnavLink" href="#">Shop By</a>
 			<ul class="subnav visuallyhidden">
-				<!-- <li><a href="/en-US/Content/promo.aspx" rel="nofollow">Promotions</a></li>-->
-                                <li><a href="/en-US/Content/trends.aspx">Trends</a></li> 
-				<li><a href="/shopping/catalogrequest.aspx" rel="nofollow">Request Catalog</a></li>
+                <li><a href="/en-US/Content/trends.aspx">Trends</a></li> 
+				<li><a href="/shopping/catalogrequest.aspx" rel="nofollow">Request Catalog</a></li>				
+				<!-- <li><a href="/en-US/Content/catalogoutofstock.aspx" rel="nofollow">Request Catalog</a></li> -->
 				<li><a href="/en-US/Content/shop_by_phone.aspx" rel="nofollow">Phone</a></li>
 				<li><a href="#" id="footer-e4x">International Shipping</a></li>
 <li><a href="http://www.naturalizer.tv" target="_blank" rel="nofollow">Naturalizer.TV</a></li>
@@ -491,13 +505,13 @@ if($j('div.loginRegTxt div.loginBtnWrap ul li').length == 3) {
 		        <li><a href="/referafriend.aspx" rel="nofollow">Refer a Friend</a></li>
 		        <li><a href="/en-US/Content/LEGALNOTICE.aspx" rel="nofollow">Legal Notices</a></li>
 		        <li><a href="/en-US/Content/recall.aspx" rel="nofollow">Recall Info</a></li>
-		        <!--<li><a href="/en-US/Content/press-room.aspx">Press Room</a></li>-->
 			</ul>
 		<span class="dropArrow visuallyhidden"></span></li>
-		<li id="highlightedLinks">
-			<span id="hlbTitle" href="#">go social</span>
+		<li id="highlightedLinks" style="margin-right: 0;">
+			<span id="hlbTitle" href="#">GO SOCIAL</span>
 			<a id="hlbTwitter" href="http://twitter.com/NaturalizerShoe" class="twitterIcon ir" target="_blank">twitter</a>
         	<a id="hlbFB" href="http://www.facebook.com/naturalizer" class="facebookIcon ir" target="_blank">facebook</a>
+       		<a id="hlbFB" href="http://pinterest.com/naturalizershoe" class="pintIcon ir" target="_blank">pinterest</a>  
 			<a id="hlbESS" href="http://www.essentialaccessibility.com/" class="essentialAccessibilityIcon ir" target="_blank">eSSential Accessibility</a>
 		</li>
 	</ul>
@@ -539,12 +553,13 @@ if (typeof(window['E4x'])!="undefined") {
 	$('#topnav-e4x').click(E4x.showPopupOnLinkClick);
 
 }
-</script> <!-- Shop:90051_Template_SubFooter [Main] END -->
+</script> 
+<!-- Shop:90051_Template_SubFooter [Main] END -->
 			
 		
 		
 		
-	<script src="/Scripts/AkamaiTrackingPixel.js"></script><img src="/Akamai/Track.ashx?sciurl=https%3A//web.archive.org/web/20111229012104id_/http%253A//www.naturalizer.com/en-US/Content/privacy.aspx&amp;sciref=" style="visibility:hidden;border:none;height:1px;width:1px;">
+	<script src="/Scripts/AkamaiTrackingPixel.js"></script><img src="/Akamai/Track.ashx?sciurl=https%3A//web.archive.org/web/20120513082718id_/http%253A//www.naturalizer.com/en-US/Content/privacy.aspx&amp;sciref=" style="visibility:hidden;border:none;height:1px;width:1px;">
 
 
 		
@@ -580,9 +595,12 @@ if (typeof(window['E4x'])!="undefined") {
 
 
 
+
         
         
 		
+
+    
     
  
 
