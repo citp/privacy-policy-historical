@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filmcrave.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220220550id_/http%3A//www.filmcrave.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmcrave.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513021420id_/http%3A//www.filmcrave.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy by Filmcrave
+# Privacy Policy and Information by Filmcrave
 
 Introduction   
 FilmCrave.com takes your privacy seriously. FilmCrave is designed for users and members to share photos, information, movie reviews and other information. This information will not be used outside of the FilmCrave.com community in a way that would identify a single user. Some of this information is necessary to display in order to facilitate adequate communication amongst members and users of this online community. Please do not post any information or photos that you are not comfortable displaying to other members and users of this website. 
