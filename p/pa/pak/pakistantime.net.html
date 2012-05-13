@@ -1,0 +1,656 @@
+<!--The following is the downloaded HTML source of the pakistantime.net privacy policy that was archived on 2012-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120513041344id_/http%3A//pakistantime.net/view_page.php%3Fpid%3D2) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- ClipBucket v2 -->
+<meta name="copyright" content="ClipBucket - PHPBucket ClipBucket 2007 - 2012">
+<meta name="author" content="Arslan Hassan - http://clip-bucket.com/arslan-hassan">
+<link rel="shortcut icon" href="http://pakistantime.net/favicon.ico">
+<link rel="icon" type="image/ico" href="http://pakistantime.net/favicon.ico">
+
+<!-- RSS FEEDS -->
+<link rel="alternate" type="application/rss+xml" title="Recently added videos" href="http://pakistantime.net/rss.php?mode=recent">
+<link rel="alternate" type="application/rss+xml" title="Most Viewed Videos" href="http://pakistantime.net/rss.php?mode=views">
+<link rel="alternate" type="application/rss+xml" title="Top Rated Videos" href="http://pakistantime.net/rss.php?mode=rating">
+<link rel="alternate" type="application/rss+xml" title="Videos Being Watched" href="http://pakistantime.net/rss.php?mode=watching">
+
+
+<meta name="keywords" content="pakistan,time,geo,news,talk,shows,media,pti,daily,recorded,program,tv,programs,ary,capital talk,khabarnaak,hasb-e-haal,aapas ki baat,dunya news,">
+<meta name="description" content="Pakistan Political Talk Shows, Live Video News, TV Channels, Current Affairs, Recorded Talk Shows">
+<meta name="distribution" content="global">
+
+
+<title>Pakistan Time - Privacy Policy</title>
+
+<link href="http://pakistantime.net/styles/cbv2new/theme/main.css" rel="stylesheet" type="text/css">
+
+<!-- Setting Template Variables -->
+<!-- Setting Template Variables -->
+
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+
+</script>
+
+
+<script>
+var baseurl = 'http://pakistantime.net';
+var imageurl = 'http://pakistantime.net/styles/cbv2new/images';
+</script>
+<link rel="stylesheet" href="http://pakistantime.net/styles/global/jquery_ui.css" type="text/css" media="all">
+<script type="text/javascript" src="http://pakistantime.net/js/jquery.js"></script>
+<script type="text/javascript" src="http://pakistantime.net/js/ui/jquery-ui.js"></script>
+ 
+<script type="text/javascript">
+var embedPlayerWidth = '640';
+var embedPlayerHeight = '390';
+var autoPlayEmbed = 'no';
+
+
+
+function updateEmbed(width,height,autoplay)
+{
+	$('#embed_code').val( $('#embed_code').val().replace(/width=\"([0-9]+)\"/g,'width="'+width+'"') );
+	$('#embed_code').val( $('#embed_code').val().replace(/width\:([0-9]+)px/g,'width:'+width+'px') );
+	$('#embed_code').val( $('#embed_code').val().replace(/height=\"([0-9]+)\"/g,'height="'+height+'"') );
+	$('#embed_code').val( $('#embed_code').val().replace(/height\:([0-9]+)px/g,'height:'+height+'px') );
+}
+
+function switchEmbedCode(type)
+{
+	if(embed_type==type)
+		return false;
+	else
+	{
+		embed_type = type;
+		
+		var alt_embed =$('#alternate_embed_code').val();
+		$('#alternate_embed_code').val($('#embed_code').val());
+		$('#embed_code').val(alt_embed);
+		
+	}
+}
+
+
+
+</script>
+
+
+<!-- Including JS Files-->
+   <script src="http://pakistantime.net/js/jquery_plugs/cookie.js" type="text/javascript"></script>
+    <script src="http://pakistantime.net/js/functions.js" type="text/javascript"></script>
+    <script src="http://pakistantime.net/js/jquery_plugs/counter.min.js" type="text/javascript"></script>
+ <!-- Including JS Files-->
+<script type="text/javascript">
+	callURLParser();
+</script>
+<!-- Including Plugin Headers -->
+	<script type="text/javascript">
+
+function check_file_url(objid)
+{
+	var video_link = $('#remote_play_url').val();
+	var duration = $('#linkUploadForm'+objid+' #duration').val();
+	
+	var reg = /^([0-9\:]+)$/i;
+	
+	if(!video_link)
+	{
+		alert("Please enter valid video link");
+		$('#remote_play_url').focus();
+		return false;
+	}
+	if(!duration || !reg.test(duration))
+	{
+		alert("Please enter valid video duration");
+		$('#linkUploadForm'+objid+' #duration').focus();
+		return false;
+	}
+	
+	$.post(baseurl+"/actions/embed_form_verifier.php", 
+	{ 	
+		'mode' : 'remote_play',
+		'remote_play_url' :  $('#remote_play_url').val(),
+		duration : $("#linkUploadForm"+objid+" #duration").val(),
+		file_name : file_name,
+		thumb_file :  $("#linkUploadForm"+objid+" #thumb_file").val()
+	},				
+	
+	function (data) {
+		if(data.err)
+		{
+			alert(data.err);
+		}else{
+			$("#linkUploadForm"+objid).submit();
+		}
+	}, "json");}
+	
+
+</script>
+	
+<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'c983104a-3a5d-4a90-bcf5-79ce2e424251'});</script>
+
+	
+	<script src="http://pakistantime.net/js/embed_video_mod/functions.js"></script>
+	<script>
+ 
+ var RecaptchaOptions = {
+    theme : 'white'
+	
+ };
+ 
+</script>
+
+	<!-- tips -->
+<link rel="stylesheet" href="http://pakistantime.net/plugins/cb_toltip/css/tips.css" media="screen">
+<script type="text/javascript" src="http://pakistantime.net/plugins/cb_toltip/js/functions_tips.js"></script>
+<script type="text/javascript" src="http://pakistantime.net/plugins/cb_toltip/js/tip.js"></script>
+<!--tips end-->
+	<!-- Autocomplete Formatting -->
+<script type="text/javascript" src="http://pakistantime.net/plugins/packusugesion/Js/jquery.autocomplete.js"></script>
+<link rel="stylesheet" type="text/css" href="http://pakistantime.net/plugins/packusugesion/css/jquery.autocomplete.css">
+
+
+
+
+<script type="text/javascript">
+function findValue(li) {
+if( li == null ) return alert("No match!");
+
+// if coming from an AJAX call, let's use the CityId as the value
+if( !!li.extra ) var sValue = li.extra[0];
+
+// otherwise, let's just display the value in the text box
+else var sValue = li.selectValue;
+
+//alert("The value you selected was: " + sValue);
+}
+
+function selectItem(li) {
+findValue(li);
+}
+
+function formatItem(row) {
+return row[0] + " (id: " + row[1] + ")";
+}
+
+  $(document).ready(function(){
+   
+$("#query").autocomplete(baseurl+"/plugins/packusugesion/data//mysql.php",
+{
+delay:1,
+minChars:1,
+matchSubset:1,
+matchContains:1,
+cacheLength:1,
+onItemSelect:selectItem,
+onFindValue:findValue,
+autoFill:false,
+selectFirst:false
+}
+);
+  });
+  </script>
+  
+
+<!-- Autocomplete Formatting and -->
+	<script type="text/javascript" src="http://pakistantime.net/player/cbplayer/cbplayer.js"></script>
+<!-- Ending Plugin Headers -->
+
+
+
+<script type="text/javascript">
+
+window.onload = function() {
+		ini_cookies();
+}
+
+</script>
+
+
+
+
+
+
+
+<script>
+$(function() {
+
+	$( ".date_field" ).datepicker({ 
+		dateFormat: 'yy-mm-dd',
+		changeMonth: true,
+		changeYear: true,
+		yearRange : "1901 : c"
+		});
+});
+</script>
+
+
+<!-- ClipBucket version 2.6 -->
+
+
+
+<!-- Including Common Js -->
+
+<!-- End Including Common Js -->
+
+
+<script type="text/javascript">
+	
+	$(document).ready(function() {
+	
+		
+		$("#searchSelectWrapper ul li a").filter('#videos').parent().addClass('selected');	
+		$('#selectedText').text($("#searchSelectWrapper ul li a").filter('#videos').text());
+		$('#searchType').val($("#searchSelectWrapper ul li a").filter('#videos').attr('id'));
+	
+								   
+	$('.user_login').hide();					   
+	
+	$('#user_login').toggle(
+		function() {
+			$('.user_login').slideDown('normal');
+		},
+		function() {
+			$('.user_login').slideUp('normal');
+		}
+								
+	);
+	$("#searchSelectWrapper ul li a").bind({
+		click : function(event) {
+			event.preventDefault();
+			$("#searchType").val($(this).attr('id'));
+			$('#selectedText').text($(this).text());
+			$(this).parent().parent().children().removeClass('selected');
+			$(this).parent().addClass('selected')
+			$('#searchSelectWrapper').hide();
+		}
+	});
+	/*$('.tabs li').click(
+		function() {
+			$('.tabs li').removeClass('selected')
+			$(this).addClass('selected');
+		}
+	);*/
+	
+	$('.tabs li').each(function(index, value){
+		$(value).click(function(){
+			{	
+				$(this).parent().children().filter('.selected').removeClass('selected');
+				$(this).addClass('selected');
+			}
+		})
+	});
+	$('#lang_selector').click(function(){
+  	//do redirection
+	});
+	
+		$('#lang_selector').change(function(){
+		  var optionSelectedValue = $('#lang_selector option:selected').val();
+		  if(optionSelectedValue)
+		  {
+		  		var $currentLocation = window.location.href,
+						matchedElement = $currentLocation.match(/\?/);
+						
+				if(matchedElement == null)
+				{
+					window.location = "?set_site_lang="+optionSelectedValue;	
+				} else {
+					window.location = window.location+"&set_site_lang="+optionSelectedValue;	
+				}
+				
+		  }
+		});
+		
+					
+	
+			
+	});
+	
+	function ToggleView(obj) {
+		var obj = $(obj),
+			obj_id = obj.attr('id'),
+			parent = obj.parent().attr('id'),
+			target = $("#"+parent).next().attr('id');
+			//alert('#'+parent+' #'+target+' .grid_view');
+			if(obj_id == "grid") {
+				$('#'+parent+' + #'+target+' .grid_view').removeClass('list_view');
+				$.cookie("current_style","grid_view")
+				$('.vid_sp').hide();		
+				$('.truncatedtitle').hide();	
+				$('.fulltitle').show();	
+			} else {
+				$('#'+parent+' + #'+target+' .grid_view').addClass('list_view');
+				$.cookie("current_style","list_view")
+				$('.vid_sp').show();
+				$('.truncatedtitle').show();	
+				$('.fulltitle').hide();			
+			}
+	}
+
+</script>
+
+
+<!--[if lte IE 6]>
+<style type="text/css">
+.clearfix { height: 1%; }
+</style>
+<![endif]-->
+
+<!--[if IE 7]>
+<link href="http://pakistantime.net/styles/cbv2new/theme/ie7.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<script type="text/javascript">
+function bookmarkSite(title, url) {
+	if (window.sidebar) { // firefox
+		window.sidebar.addPanel(title, url,"");
+		return false;
+	} else if( document.all ) { //MSIE
+		window.external.AddFavorite( url, title);
+		return false;
+	} else if(window.opera && window.print) {
+		alert("Your using Opera. Press Shift+Ctrl+D to add '"+title+"' in bookmarks");
+		return false;
+	} else if(navigator.userAgent.toLowerCase().indexOf('webkit') > -1) {
+		alert("Your using either Chrome or Safari. Press Ctrl+D to add '"+title+"' in bookmarks.")	
+	} else {
+		alert("Sorry, your browser doesn't support this");	
+	}
+}
+</script>
+
+
+</head>
+
+<!-- Global Header Ends Here --><body>
+
+
+<!-- Including Commong header -->
+<div class="container_container">
+	<div class="topHead">
+<div id="container" class="container clearfix">
+<!-- Loading Quicklist Box -->
+<div id="quicklist_box"></div>
+
+<div id="header">
+	<div>
+    <a href="http://pakistantime.net"><img src="http://pakistantime.net/styles/cbv2new/images/dot.gif" alt="Pakistan Time - Privacy Policy" name="logo_icon" width="296" height="82" border="0" id="logo_icon" title="Pakistan Time - Privacy Policy" class="logo"></a>
+</div> <!--LOGO END-->
+<span class="st_fblike_vcount" displaytext="Facebook Like"></span>
+<span class="st_facebook_vcount" displaytext="Facebook"></span>
+<span class="st_plusone_vcount" displaytext="Google +1"></span>
+<span class="st_twitter_vcount" displaytext="Tweet"></span>
+<span class="st_email_vcount" displaytext="Email"></span>
+<span class="st_sharethis_vcount" displaytext="ShareThis"></span><div style="height:10px"></div>
+
+	
+
+
+	
+
+    <div class="login_con clearfix">
+        <div class="user_login clearfix">
+                	<a href="http://pakistantime.net/forgot.php" class="forget" title="Forget Username/Password, Click Here"></a>
+            <form action="http://pakistantime.net/signup.php" method="post" name="login" style="margin:0px; padding:0px;">
+                <input type="text" value="Username" id="cb_head_username" name="username" onfocus="if(this.defaultValue == this.value) this.value = ''" onblur="if(this.value == '') this.value = this.defaultValue">
+                <input type="password" value="Password" id="cb_head_password" name="password" onfocus="if(this.defaultValue == this.value) this.value = ''" onblur="if(this.value == '') this.value = this.defaultValue">                
+                <input type="submit" value="Login" id="login_head_bttn" name="login">
+                <input type="checkbox" name="rememberme" id="rememberme"> <span class="remember">Remember Me</span>
+                
+			</form> 
+         
+        </div> <!--USER_LOGIN CLASS END-->
+      
+         <div id="user_login">
+            <a href="javascript:void(0)">
+                        	Login
+                
+            </a>
+        </div> <!--USER_LOGIN ID END--><div class="updatedUpload">
+   	 <a href="http://pakistantime.net/upload.php">Upload video</a> | <a href="http://pakistantime.net/photo_upload.php">Upload Photo</a>       
+    </div>
+    </div> <!--LOGIN_CON END-->
+    
+        
+</div> <!--HEADER ID END-->
+</div>
+<div class="top_tabs clearfix">
+    <ul>
+    	<li id="cbHomeTab" class=" selected"><a href="http://pakistantime.net">Home</a></li><li id="cbTalk ShowsTab" class=""><a href="http://pakistantime.net/videos.php">Talk Shows</a></li><li id="cbChannelsTab" class=""><a href="http://pakistantime.net/channels.php">Channels</a></li><li id="cbCollectionsTab" class=""><a href="http://pakistantime.net/collections.php">Collections</a></li><li id="cbSignupTab" class=""><a href="http://pakistantime.net/signup.php">Signup</a></li><li id="cbPhotosTab" class=""><a href="http://pakistantime.net/photos.php">Photos</a></li>
+    </ul>
+	
+</div> <!--TOP_TABS END-->
+
+<div class="navi">
+        <ul>
+                
+        
+        	<li>Welcome Guest ! Please <a href="http://pakistantime.net/signup.php">Login</a> or <a href="http://pakistantime.net/signup.php">Register</a></li>
+             
+         </ul>
+<div class="search_con">
+    <div class="s_bg">	
+        <form action="http://pakistantime.net/search_result.php" method="get" name="search" id="search" style="margin:0px; padding:0px;">               
+            <input name="query" id="query" type="text" class="searchbar" value="">
+            <input type="hidden" name="type" id="searchType" value="">                      
+            <div class="moveL">
+            	<div id="selectedSearch" class="clearfix" onclick="$('#searchSelectWrapper').toggle();">
+                	<span id="selectedText"></span>
+                </div>
+                <div id="searchSelectWrapper">
+                <ul>
+                                            <li>
+                        <a id="collections" href="#">Collections</a>
+                        </li>
+                                            <li>
+                        <a id="users" href="#">Users</a>
+                        </li>
+                                            <li>
+                        <a id="videos" href="#">Videos</a>
+                        </li>
+                                            <li>
+                        <a id="photos" href="#">Photos</a>
+                        </li>
+                                    </ul>    
+                </div>
+            </div>                                
+            <input name="submit" type="submit" class="searchbutton" value="Search">
+        </form>
+    </div> <!--S_BG END-->    
+</div> <!--SEARCH_CON END-->
+    </div></div>
+    
+    
+        <div id="container" class="container clearfix">
+        
+        <div class="nav_shadow"></div>
+        <div id="content" style="">
+        
+        <div><script type="text/javascript"><!--
+google_ad_client = "ca-pub-2136328530839367";
+/* 468x15, created 1/12/11 */
+google_ad_slot = "1097642957";
+google_ad_width = 468;
+google_ad_height = 15;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><script type="text/javascript"><!--
+google_ad_client = "ca-pub-2136328530839367";
+/* 468x15, created 1/12/11 */
+google_ad_slot = "1097642957";
+google_ad_width = 468;
+google_ad_height = 15;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><script type="text/javascript">
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement(’script’);
+gads.async = true;
+gads.type = ’text/javascript’;
+var useSSL = ’https:’ == document.location.protocol;
+gads.src = (useSSL ? ’https:’ : ’http:’) + 
+’//www.googletagservices.com/tag/js/gpt.js’;
+var node = document.getElementsByTagName(’script’)[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.defineSlot(’/7316779/Video_page_300*250’, [300, 250], ’div-gpt-ad-1334878769451-0’).addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script></div>
+        
+        <!-- Message -->
+        
+
+
+
+
+            				<div style="width:98%; margin:auto"><h1>PakistanTime Privacy Notice -&nbsp;</h1>
+<h2>Personal Information</h2>
+<ul>
+  <li><strong>Browsing Pakistantime.Net</strong>&nbsp;You can watch videos on Pakistantime without having a&nbsp;
+Pakistantime&nbsp;&nbsp;Account. You also can contact us through the&nbsp;
+&nbsp;Pakistantime&nbsp;Help Center  or by emailing us directly without having to register for an account.</li>
+  <li><strong>Your&nbsp;
+<strong>Pakistantime.Net</strong>&nbsp;&nbsp;Account.</strong> For some activities on&nbsp;
+&nbsp;Pakistantime, like uploading videos, posting  comments, flagging videos, or watching restricted videos, you need a&nbsp;Pakistantime&nbsp;&nbsp;Account. We ask for some personal information when  you create an account, including your email address and a password,  which is used to protect your account from unauthorized access. A&nbsp;
+&nbsp;Pakistantime&nbsp;&nbsp;Account, additionally, allows you to access other&nbsp;
+&nbsp;Pakistantime&nbsp;services that require registration.</li>
+  <li><strong>Usage Information.</strong> When you use&nbsp;Pakistantime&nbsp;, we may record information about your usage of the  site, such as the channels, groups and favorites you subscribe to,  which other users you communicate with, the videos you watch, the  frequency and size of data transfers, and information you display about  yourself as well as information you click on in&nbsp;
+Pakistantime&nbsp;&nbsp;(including UI  elements, settings). If you are logged in, we may associate that  information with your&nbsp;
+Pakistantime&nbsp;&nbsp;Account. In order to ensure the quality  of our service to you, we may place a tag (also called a "web beacon")  in HTML-based customer support emails or other communications with you  in order to confirm delivery.</li>
+  <li><strong>Content Uploaded to Site.</strong> Any personal information or video content that you voluntarily disclose  online (e.g., video comments, your profile page) may be collected and  used by others. If you download the&nbsp;
+Pakistantime&nbsp;Uploader, your copy  includes a unique application number. This number, and information  about your installation of the Uploader (version number, language) will  be sent to&nbsp;
+Pakistantime&nbsp;when the Uploader automatically checks for updates  and will be used to update your version of the Uploader.</li>
+</ul>
+<h2>Uses</h2>
+<ul>
+  <li>If  you submit personal information to&nbsp;
+Pakistantime, we may use that information  to operate, maintain, and improve the features and functionality of&nbsp;
+Pakistantime, and to process any flagging activity or other communication  you send to us.</li>
+  <li>We do not use your  email address or other personal information to send commercial or  marketing messages without your consent. We may use your email address  without further consent for non-marketing or administrative purposes  (such as notifying you of major&nbsp;
+Pakistantime&nbsp;changes or for customer service  purposes). You also can choose how often&nbsp;
+Pakistantime&nbsp;sends you email  updates in your&nbsp;
+Pakistantime&nbsp;Account settings page.</li>
+  <li>We  use cookies, web beacons, and log file information to: (a) store  information so that you will not have to re-enter it during your visit  or the next time you visit&nbsp;
+Pakistantime; (b) provide custom, personalized  content and information; (c) monitor the effectiveness of our marketing  campaigns; (d) monitor aggregate metrics such as total number of  visitors and pages viewed; and (e) track your entries, submissions, and  status in promotions, sweepstakes, and contests.</li>
+</ul>
+<h2>Information That is Publicly Available</h2>
+<ul>
+  <li>When  you create a&nbsp;
+Pakistantime&nbsp;&nbsp;Account, some information about your&nbsp;
+Pakistantime&nbsp;&nbsp;Account and your account activity will be provided to other users of&nbsp;
+Pakistantime&nbsp;. This may include the date you opened your&nbsp;
+Pakistantime&nbsp;&nbsp;Account, the  date you last logged into your&nbsp;
+Pakistantime&nbsp;&nbsp;Account, your age (if you choose  to make it public), the country and the number of videos you have  watched.</li>
+  <li>Your&nbsp;
+Pakistantime&nbsp;&nbsp;Account name,  not your email address, is displayed to other users when you engage in  certain activities on&nbsp;
+Pakistantime&nbsp;, such as when you upload videos or send  messages through&nbsp;
+Pakistantime&nbsp;. Other users can contact you by leaving a  message or comment on the site.</li>
+  <li>Any  videos that you submit to&nbsp;
+Pakistantime&nbsp;&nbsp;may be redistributed through the  internet and other media channels, and may be viewed by other&nbsp;
+Pakistantime&nbsp;&nbsp;users or the general public. </li>
+  <li>You  may also choose to add personal information which may include your  name, gender, profile picture or other details, that will be visible to  other users on your&nbsp;
+Pakistantime&nbsp;&nbsp;Account channel page. If you choose to add  certain features to your&nbsp;
+Pakistantime&nbsp;&nbsp;Account channel page, then these  features and your activity associated with these features will be  displayed to other users and may be aggregated and shared with your  friends or other users. Such shared activity may include your favorite  videos, videos you rated and videos that you have uploaded.</li>
+</ul>
+<h2>Your Choices</h2>
+<ul>
+  <li>If  you have a&nbsp;
+Pakistantime&nbsp;Account, you may update or correct your personal  profile information, email preferences and privacy settings at any time  by visiting your account profile page. </li>
+  <li>You  may control the information that is available to other users and your  confirmed friends at any time by editing your&nbsp;
+Pakistantime&nbsp;&nbsp;Account and the  features that are included on your channel page. If you have enabled  Active Sharing, other users may see that you, as identified by your  account name, not your email address, are watching the same video.</li>
+  <li>You  may, of course, decline to submit personal information through&nbsp;
+Pakistantime&nbsp;,  in which case you can still view videos and explore&nbsp;
+Pakistantime&nbsp;, but&nbsp;
+Pakistantime&nbsp;&nbsp;may not be able to provide certain services to you. Some  advanced&nbsp;
+Pakistantime&nbsp;&nbsp;features may use other&nbsp;
+Pakistantime&nbsp;&nbsp;services like Paypal Checkout or AdSense. The privacy notices of those services govern the  use of your personal information associated with them.</li>
+</ul>
+</div>				 		
+                    </div> <!--CONTENT END-->
+        <div class="clear" style="margin-top:10px"></div>
+
+        <div id="footer">
+            <div class="changer">
+           
+			                    <form action="" method="post" name="change_lang">
+                    <select id="lang_selector" class="lang_selector">
+<option value="">- Change Language -</option>
+<option value="en" selected="selected">English</option>
+<option value="ar">arabic</option>
+<option value="ru">Русский by KaDaBRa v</option>
+<option value="bg">Bulgarian</option>
+<option value="de">Deutsch</option>
+<option value="FR">Francais</option>
+<option value="ur">English</option>
+</select>
+              
+                </form>
+                       
+                <div class="ch_left"></div>        	
+                <div class="ch_right"></div>
+            </div> <!--CHANGER END-->
+            <div class="ch_shadow" style="height:10px"></div>
+            <!--FOOTER CLASS END-->
+            <div class="footer">
+	<div class="footer_copyr">
+    	© Pakistan Time 2012
+   	</div>
+    <ul class="clearfix">
+    
+    	
+        
+                	            	<li><a href="http://pakistantime.net">Home</a></li>
+                            	            	<li><a href="http://pakistantime.net/contact.php">Contact Us</a></li>
+                            	            	<li><a href="http://pakistantime.net/view_page.php?pid=21">Live Cricket</a></li>
+                            	            	<li><a href="http://pakistantime.net/view_page.php?pid=26">Geo News Live</a></li>
+                            	            	<li><a href="http://pakistantime.net/view_page.php?pid=27">Live PTI Jalsa</a></li>
+                            	            	<li><a href="http://pakistantime.net/view_page.php?pid=2">Privacy Policy</a></li>
+                        </ul>
+    <div class="clearfix"></div>
+    
+    <div class="footer_sp"></div>
+    
+    <div align="center">
+
+     	<!-- Our Partner -->
+    	<!-- Please do not remove this unless you have license -->
+    		Power By <a href="http://www.cricloverz.com/" target="_blank"> Live Steaming</a>
+        <!-- Forged by ClipBucket ends -->
+        
+        
+        
+        </div>
+  
+</div>        </div> <!--FOOTER ID END-->
+    </div>
+</div>
+
+
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', ' UA-20693715-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body></html>
