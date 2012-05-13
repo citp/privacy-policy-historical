@@ -1,57 +1,77 @@
-> *The following text is extracted and transformed from the sfxperformance.com privacy policy that was archived on 2006-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060317200438id_/http%3A//www.sfxperformance.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfxperformance.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513060235id_/http%3A//www.sfxperformance.com/privacypolicy.asp) for the most accurate reproduction.*
 
-# SFX Performance auto parts, accessories and wheels
+# SFX Performance website privacy policy
 
-**Privacy Policy**
+  
+[](http://www.facebook.com/sfxperformance) | 
 
-SFX Performance respects the privacy and safety of our customers. 
+What information do we collect?
 
-Security  
-SFX Performance utilizes several encryption methods in conjunction with Bank of America to ensure the data you submit is secure. Through this secure session your credit card information will be transmitted privately and unaltered. This security prohibits access to your information by other companies and users. 
-
-Your credit card information is never stored on our servers. We utilize Bank of America and PayPal to provide you with the safest and most secure methods of online credit card transactions. This means your information is **hacker safe**. 
-
-Information We Collect  
-There are three types of information that may be exchanged between SFX Performance and any user during a visit to this website. They are:
-
-  1. General technical data transmitted between your computer and SFX Performance that does not identify you personally. This information is typically your ISP's domain, the search engine you may have used to locate our website, the time you accessed our website, and the pages from within our website that you visit.
-  2. Personally identifiable information that you voluntarily share. When you purchase products from SFX Performance, you provide us with your contact information. Contact information typically includes your name, address, and phone number. The only information SFX Performance retains concerning your payment information is type of payment and whether your credit card was validated through Bank of America. No credit card information is collected or retained by SFX Performance. 
-  3. We may store customers' electronic mail and other communications as a necessary incident to the transmission and delivery of communications. Please provide a valid email address when communicating with SFX Performance for technical support. We cannot respond to invalid email addresses.
+  * We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature.
+  * When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.
+  * We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes.
+  * Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.
 
 
 
-Anonymous Information  
-The anonymous information collected is not associated with you personally, or with your business. SFX Performance uses this anonymous information in the aggregate to improve our website and the services we provide as a company. 
+How do we use your information?
 
-Use of Cookies  
-We may at times also use cookies, which are small pieces of information that a website can store in a designated file on your computer. Cookies allow a web application to respond to you as an individual and to display specialized information to you regarding your search for auto parts. By gathering and remembering information about your preferences, the web application can tailor its operation to your needs, likes, and dislikes. SFX Performance also uses information obtained from cookies to improve our website, and make decisions concerning advertising, product offerings and services. If they prefer, most users have the ability to disable cookies from their Internet browsers, or to receive notification that a cookie is being placed within their computer. At no time do we share this information with other companies.
+We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+* To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+* To allow us to better service you in responding to your customer service requests.
+* To quickly process your transactions.
+* To administer a contest, promotion, survey or other site feature.
+* If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.
+  
+How do we protect visitor information? We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above. Do we use "cookies"? Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-Advertisements on SFX Performance   
-At times, we may permit advertising companies to deliver ads on our website. When you click on these ads, the advertising company may receive anonymous, aggregate information about the volume of ad viewing, but this information is not associated with you personally. SFX Performance does not provide personally identifiable information about its customers or visitors to these or any other advertising company. 
+We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-Disclosure to Third Parties   
-SFX Performance will not sell or give away to outside parties any personally identifiable information without your consent, except under the following circumstances: 
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.
 
-  1. When required by law.
-  2. When disclosure is necessary to protect the safety of a customer, SFX Performance or its third parties. SFX Performance may share customer information with selected partners/third parties, for example, to provide you with information about products and services, or to enable you to take advantage of special partner programs. SFX Performance may also use customer information to periodically provide customers with system information or information about new or upgraded products or product recalls. 
+Do we disclose the information we collect to outside parties?
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include www.sfxperformance.com. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
+
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+How can you opt-out, remove or modify information you have provided to us?
+
+To modify your e-mail subscriptions, please let us know by modifying your preferences in the "My Account" section. Please note that due to email production schedules you may receive any emails already in production.
+
+To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
+
+Third party links
+
+In an attempt to provide you with increased value and better information, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
+
+Changes to our policy
+
+If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on February 1, 2008.
+
+Questions and feedback
+
+We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
+
+Online Policy Only
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+Terms and Conditions
+
+Please also visit our [Terms and Conditions](https://web.archive.org/faq.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+
+Your consent
+
+By using our site, you consent to our privacy policy.
+
+|   
+[](https://web.archive.org/deal_of_the_day.asp)  
+  
+  
 
 
-
-SFX Performance also will not, except for reasons stated below, disclose to third parties the contents of any electronic mail or other electronic communications that SFX Performance stores or transmits for its customers. The circumstances under which SFX Performance will disclose such electronic customer communications are when: 
-
-  1. It is necessary in order to provide service to the customer;
-  2. It is necessary to protect the legitimate interests of SFX Performance and its customers;
-  3. It is required to cooperate with interception orders, warrants, or other legal process that SFX Performance determines in its sole discretion to be valid and enforceable; and
-  4. It is necessary to provide to a law enforcement agency when the contents are inadvertently obtained by SFX Performance and appear to pertain to the commission of a crime. This includes fraud. SFX Performance disclaims any intention to censor, edit, or engage in ongoing review or surveillance of communications stored on or transmitted through its facilities by customers or others. SFX Performance will, however, review, delete, or block access to communications that may harm SFX Performance, its customers or third parties. The grounds on which SFX Performance may take such action include, but are not limited to, actual or potential violations of SFX Performance Terms of Use.
+  
 
 
-
-Email Communications  
-SFX Performance may use email to communicate with you, respond to your email, and to tell you about new products and services. If you do not wish to receive email promotion announcements from SFX Performance, please follow the instructions that appear at the end of the email communication that you received in order to have your name removed from the email list or respond to the email with REMOVE in the subject line. 
-
-Links  
-SFX Performance may contain links to other website that are owned and operated by parties other than SFX Performance. Please be aware that this Privacy Policy does not extend to any websites other than those owned and controlled by SFX Performance. 
-
-Updates  
-SFX Performance may periodically amend this Privacy Policy. All changes will be posted within this Privacy Policy section of the SFX Performance website. SFX Performance is not responsible for any typographical errors found on this site.  
-
+ 
