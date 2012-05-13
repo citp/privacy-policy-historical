@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yalwa.in privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008174621id_/http%3A//www.yalwa.in/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yalwa.in privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513182238id_/http%3A//www.yalwa.in/info/privacy) for the most accurate reproduction.*
 
 # Yalwa Info pages
 
@@ -14,7 +14,7 @@ Your privacy is important to us, so Yalwa has created this Privacy Policy to exp
 
 
 
-**Use.** We use users' personal information to:
+**Use.** We use users' personal information to: 
 
   * provide our services
   * resolve disputes, collect fees, and troubleshoot problems;
@@ -25,7 +25,7 @@ Your privacy is important to us, so Yalwa has created this Privacy Policy to exp
 
 
 
-**Disclosure.** We don't sell or rent users' personal information to third parties for their marketing purposes without users explicit consent. We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a posting or other content violates other's rights, or protect anyone's rights, property, or safety. We may also share personal information with:
+**Disclosure.** We don't sell or rent users' personal information to third parties for their marketing purposes without users explicit consent. We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a posting or other content violates other's rights, or protect anyone's rights, property, or safety. We may also share personal information with: 
 
   * corporate affiliates who help detect and prevent potentially illegal acts and provide joint services. (Our corporate affiliates will market only to users who ask them to). 
   * service providers who help with our business operations. 
@@ -34,8 +34,18 @@ Your privacy is important to us, so Yalwa has created this Privacy Policy to exp
 
 **Using Information from Yalwa.** You may use personal information gathered from Yalwa only to follow up with another user about a specific posting, not to send spam or collect personal information from someone who hasn't agreed to that. 
 
-**Access, Modification, and Deletion.** You can see, modify or erase your personal information by reviewing your posting or account status page. Contact customer support (Sorry, you need Javascript ON to see the email address (spam protection). ) to review any personal information we store that is not available on Yalwa. There may a charge associated with such requests but these will not exceed the amounts permitted by law. We delete personal information when we no longer need it for the purposes we described earlier. We retain personal information as permitted by law to resolve disputes, enforce our policies; and prevent bad guys from coming back.
+**Access, Modification, and Deletion.** You can see, modify or erase your personal information by reviewing your posting or account status page. Contact customer support (Sorry, you need Javascript ON to see the email address (spam protection). ) to review any personal information we store that is not available on Yalwa. There may a charge associated with such requests but these will not exceed the amounts permitted by law. We delete personal information when we no longer need it for the purposes we described earlier. We retain personal information as permitted by law to resolve disputes, enforce our policies; and prevent bad guys from coming back. 
 
-**Security.** We use lots of tools (encryption, passwords, physical security) to protect your personal information against unauthorized access and disclosure, but as you probably know, nothing's perfect, so we make no guarantees.
+**Security.** We use lots of tools (encryption, passwords, physical security) to protect your personal information against unauthorized access and disclosure, but as you probably know, nothing's perfect, so we make no guarantees. 
 
-**General.** We may update this policy at any time, with updates taking effect when you next post or after 30 days, whichever is sooner. If we or our corporate affiliates are involved in a merger or acquisition, we may share personal information with another company, but this policy will continue to apply. Send questions about this policy to Sorry, you need Javascript ON to see the email address (spam protection). .
+**General.** We may update this policy at any time, with updates taking effect when you next post or after 30 days, whichever is sooner. If we or our corporate affiliates are involved in a merger or acquisition, we may share personal information with another company, but this policy will continue to apply. Send questions about this policy to Sorry, you need Javascript ON to see the email address (spam protection). . 
+
+  
+
+
+## Yalwa Connect (Facebook App) Privacy Policy
+
+We collect information when you register to join Yalwa by logging into an account that you already have with Facebook. Yalwa allows you to create an account and login to Yalwa using your Facebook account credentials through Facebook Connect. If you are not currently registered for an account on Yalwa and you click on “Sign in Using Facebook,” you will first be asked to enter your Facebook credentials and then be given the option to register for an account on Yalwa. We do not access your personal information shared publicly on Facebook other than your email address and your birth date for age verification. 
+
+  
+
