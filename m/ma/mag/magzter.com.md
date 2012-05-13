@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magzter.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227184216id_/http%3A//www.magzter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magzter.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513152458id_/http%3A//www.magzter.com/privacy-policy) for the most accurate reproduction.*
 
 # Magzter - Privacy Policy
 
