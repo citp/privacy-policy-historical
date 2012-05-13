@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articles-database.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112120141id_/http%3A//www.articles-database.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articles-database.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513125505id_/http%3A//www.articles-database.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Articles Database » Privacy Policy
 
