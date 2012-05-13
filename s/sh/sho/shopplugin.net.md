@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopplugin.net privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219193813id_/http%3A//shopplugin.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopplugin.net privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513020834id_/https%3A//shopplugin.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Shopp — plugin ecommerce for wordpress
 
@@ -69,3 +69,6 @@ Phone: (888) 977-4662
 Ingenesis Limited  
 P.O. Box 2846  
 Springfield, Ohio 45503
+
+  
+
