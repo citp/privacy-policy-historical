@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tombola.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008235215id_/http%3A//www.tombola.co.uk/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tombola.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513051321id_/http%3A//www.tombola.co.uk/privacy_policy.asp) for the most accurate reproduction.*
 
 # tombola – Privacy Policy
 
@@ -9,7 +9,7 @@ We guarantee that access to your personal account information is restricted to y
 
 **Security** We have implemented suitable security policies and rules and fully understand the importance of information security and the need to store it securely. We store all personal information within a secure network meaning data, passed back and forth between your computer and our systems is secured using public key cryptography. Your computer exchanges key information with our servers to create a private conversation that only your computer and our servers can understand. Our links with our payment gateway (a leading UK e-commerce payment company) uses the same technology to transmit any payment information securely. They in turn have secure encrypted links between themselves and all of the major banks to allow the payment to be processed. tombola employees do NOT have access to your full credit/debit card details.
 
-**Information Collected** The personal information that we collect may include information such as contact information, name, address, age, gender, telephone number, email address, billing information, transaction history, web site usage and feedback about our services and site. We hold this information on servers in Alderney. You will be asked to provide this information when you register with the site or services.
+**Information Collected** The personal information that we collect may include information such as contact information, name, address, age, gender, telephone number, email address, billing information, transaction history, web site usage and feedback about our services and site. We hold this information on servers in Gibraltar. You will be asked to provide this information when you register with the site or services.
 
 **Use of Information** We use the personal information that we collect from you to deliver the service, provide customer support and to undertake necessary security and identity verification checks to process any online transaction as well as meeting certain requirements of the business such as publishing the information on the site of winners and also for marketing purposes. We may from time to time request information from you via surveys etc, these are on a voluntary basis and may also request other information from you such as demographic information. We may also provide you with services relating to the site, process any requests relating to Customer Services, market our services or products, or provide you with updates to our products and site.
 
@@ -25,7 +25,7 @@ We guarantee that access to your personal account information is restricted to y
 
 **Consent to the Privacy Policy** When registering with the site you are agreeing to the Privacy Policy. The Privacy Policy should read in conjunction with the Terms and Conditions and any additional applicable terms posted on the site. We may make changes to this policy and we will notify you by way of posting the modified Privacy Policy on the site and we advise you to revisit the Privacy Policy on a regular basis
 
-**DATA PROTECTION ACT REGISTRATION** tombola (Gibraltar) Ltd is registered in Gibraltar. We comply with the Gibraltar Data Protection Act 2004 we also comply with the UK data protection act 1998 registration number: PZ9208661. For a copy of our registrations under the Acts, please contact us via email at [support@tombola.co.uk](mailto:support@tombola.co.uk) Further information can also be found here: [Gibraltar](http://www.gra.gi/index.php?site=dataprotection) / [UK](http://www.dpr.gov.uk/)
+**DATA PROTECTION ACT REGISTRATION** tombola (International) plc is registered in Gibraltar. We comply with the Gibraltar Data Protection Act 2004 we also comply with the UK data protection act 1998 registration number: PZ9208661. For a copy of our registrations under the Acts, please contact us via email at [support@tombola.co.uk](mailto:support@tombola.co.uk). Further information can also be found here: [Gibraltar](http://www.gra.gi/index.php?site=dataprotection) / [UK](http://www.dpr.gov.uk/)
 
   
 
