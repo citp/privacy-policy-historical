@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the focusrite.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213220436id_/http%3A//focusrite.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the focusrite.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514015748id_/http%3A//www.focusrite.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
