@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the welive.tv privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630102335id_/http%3A//www.kremsa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the welive.tv privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513021326id_/http%3A//www.kremsa.com/privacy-policy) for the most accurate reproduction.*
 
 # KREMSA - An Interactive Agency -Privacy Policy
 
@@ -6,7 +6,7 @@ Please read closely the conditions of the personal data protection specified bel
 
 **Automatically collected impersonal data**
 
-You do not make your identity public by a pure viewing of the Taxi-Ads.sk web pages. All data, which Kremsa Design automatically receives by a pure viewing of the Taxi-Ads.sk web pages, serves to general information and summary statistics that can be provided to third parties. This information, in any case, does not contain any information that could identify concrete persons.
+You do not make your identity public by a pure viewing of the kremsa.com web pages. All data, which Kremsa Design automatically receives by a pure viewing of the kremsa.com web pages, serves to general information and summary statistics that can be provided to third parties. This information, in any case, does not contain any information that could identify concrete persons.
 
 **Personal data**
 
