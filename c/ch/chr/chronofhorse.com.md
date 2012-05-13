@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chronofhorse.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113032340id_/http%3A//www.chronofhorse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chronofhorse.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513104853id_/http%3A//chronofhorse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Chronicle of the Horse
 
@@ -61,7 +61,7 @@ The site you are visiting is a general audience site. Our content is acceptable 
 This Notice may be changed by The Chronicle at any time. The revised Notice will be posted to this page so that you are aware of the information we collect, how we use it, and under what circumstances we may disclose it.
 
 **How to Contact Us**  
-If you have any questions or concerns about this Privacy Notice or its implementation please contact us via email ([issues@chronofhorse.com](mailto:issues@chronofhorse.com)) or at the following address:
+If you have any questions or concerns about this Privacy Notice or its implementation please contact us via email ([webmaster@chronofhorse.com](mailto:webmaster@chronofhorse.com)) or at the following address:
 
 The Chronicle of the Horse  
 Attn: Websites  
