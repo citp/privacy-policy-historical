@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourordinarylife.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113231138id_/http%3A//www.ourordinarylife.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourordinarylife.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514000453id_/http%3A//www.ourordinarylife.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Our Ordinary Life
 
@@ -12,5 +12,4 @@ This privacy policy tells you how we use personal information collected at this 
 
 **Commitment to Data Security** Your personally identifiable information is kept secure. . All emails and newsletters from this site allow you to opt out of further mailings.
 
-If you have any questions or concerns please contact me.   
-
+If you have any questions or concerns please contact me.
