@@ -1,29 +1,39 @@
-> *The following text is extracted and transformed from the digiday.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013211045id_/http%3A//www.screenthemes.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digiday.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513200234id_/http%3A//www.digiday.com/privacy-policy) for the most accurate reproduction.*
 
-# SCREENTHEMES: pc wallpaper, screen savers, backgrounds, and themes for Windows 95, 98, 2000, NT
+# Privacy Policy | Digiday
 
-  
-**Vision X Privacy Statement**
+**Our Commitment To Privacy**
 
-  
-Vision X has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for these Web sites: 
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our website.
 
-> [http://www.allaboutjazz.com](http://www.allaboutjazz.com/)   
-> [http://www.digiday.com](http://www.digiday.com/)   
-> [http://www.screenthemes.com](http://www.screenthemes.com/)   
-> [http://www.visionx.com](http://www.visionx.com/)
+**The Information We Collect**
 
-**_Information Automatically Logged_**   
-We use your IP address to help diagnose problems with our server and to administer our Web site. 
+This notice applies to all information collected or submitted on the Digiday website. On some pages, you can order event passes, submit speaker information, and register to receive materials. The types of personal information collected at these pages are:
 
-**_Advertisers_**   
-We use several outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+Name
 
-**_Personal Information_**   
-Though we do collect email addresses for both the ScreenThemes and All About Jazz newsletters and giveaway contests, we do not share any personal information with any third parties nor do we use any personal information for any purposes other than to better serve you. 
+Title
 
-**_External Links_**   
-This site contains links to other sites. Vision X is not responsible for the privacy practices or the content of such Web sites. 
+Company
 
-**_Contacting Vision X_**   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with these Web sites, you can contact: [privacy@visionx.com](mailto:privacy@visionx.com). 
+Address
+
+Email address
+
+Phone number
+
+*Credit/Debit Card Information – we do not save or store this information
+
+**The Way We Use Information**
+
+We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.
+
+We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
+
+You can register and subscribe to our website if you would like to receive our e-newsletters as well as updates on our conferences and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form.
+
+We never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
+
+**Our Commitment To Data Security**
+
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
