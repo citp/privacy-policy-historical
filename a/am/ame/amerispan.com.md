@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amerispan.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228205421id_/http%3A//www.amerispan.com/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amerispan.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513043945id_/http%3A//www.amerispan.com/privacy_statement.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -102,7 +102,7 @@ _**
 This privacy policy was last modified on February 28, 2007. AmeriSpan may revise this policy from time to time. If we make any substantial changes, we will post those amendments on our Web site so that you are always aware of the information we collect, how we use it and how you can access or update your personal information.  
  
 
-|  |  [](http://www.addthis.com/bookmark.php?v=250&username=amerispan)  
+|  |   
 ---  
 [](http://server.iad.liveperson.net/hc/2543855/?cmd=file&file=visitorWantsToChat&offlineURL=http://www.amerispan.com/send_email/default.asp&site=2543855&byhref=1&imageUrl=http://www.amerispan.com/images/d2liveperson)
 
@@ -119,6 +119,5 @@ Email:
   
 [](http://www.amerispan.com/triple_guarantee.asp)  
 [ ](http://www.amerispan.com/catalog_request/)  
-[](http://www.amerispan.com/travel/article/AmeriSpan_Study_Abroad_Named_LTM_s_2011_Best_Agency_in_North_America/367/)  
 [](http://www.amerispan.com/scholarships/)  
 [](https://www.amerispan.com/application/make_payment.asp)
