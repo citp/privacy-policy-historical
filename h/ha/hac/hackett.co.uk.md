@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hackett.co.uk privacy policy that was archived on 2011-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110813211038id_/http%3A//www.hackett.com/index.cfm%3Fpage%3D1046) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackett.co.uk privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513050759id_/http%3A//www.hackett.com/index.cfm%3Fpage%3D1046) for the most accurate reproduction.*
 
 # Company Privacy Policy | Hackett
 
@@ -25,7 +25,7 @@ The host server for this Website is located in the United Kingdom and difference
 
 We trust our privacy policy demonstrates our commitment to protecting your privacy.
 
-For more information about our online shop, please read the [_Online Shop Privacy Policy_](https://web.archive.org/web/20110813211038id_/http%3A//www.hackett.com/index.cfm?page=1280).  
+For more information about our online shop, please read the [_Online Shop Privacy Policy_](https://web.archive.org/web/20120513050759id_/http%3A//www.hackett.com/index.cfm?page=1280).  
 
 
   
