@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learningtree.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211020056id_/http%3A//www.learningtree.com/info/privacy.htm%3FWT.svl%3Dprivacy_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learningtree.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513024721id_/http%3A//www.learningtree.com/info/privacy.htm) for the most accurate reproduction.*
 
 # Learning Tree - Privacy Info
 
@@ -8,23 +8,23 @@ We Protect Your Privacy
 
 Learning Tree International Web Privacy Statement.
 
-Learning Tree International is committed to preserving the privacy of those who inquire, purchase or enroll in our programs or visit this Web site. This document, as our official Privacy Policy, will outline how we gather and utilize various sources of information obtained by Learning Tree.
+Learning Tree International is committed to preserving the privacy of those who inquire, purchase or enroll in our programs or visit this website. This document, as our official Privacy Policy, will outline how we gather and utilize various sources of information obtained by Learning Tree.
 
 General:
 
 Learning Tree collects identifiable information (Personal Information) that you may provide to us when you enroll in one of our courses, send us registration over the Internet, or mail or contact us by phone or through the Internet. This information may include your name, job title, organization information, contact information, date of birth, payment information (such as credit card), previous educational history and work experience. 
 
-Web Site “Log-File” Information:
+Website “Log-File” Information:
 
-For each visitor to our Web page, our Web server automatically recognizes only the Internet (IP) address. It does not recognize your domain or your e-mail address.
+For each visitor to our web page, our web server automatically recognizes only the Internet (IP) address. It does not recognize your domain or your e-mail address.
 
 Cookies:
 
-Our site may pass a “cookie” (a string of information that is sent by a Web site to be resident on your system’s hard drive, and/or temporarily in your computer’s memory blocks). The purpose of a cookie is to tell the Web server that you have returned to a particular page. You may set your browser to decline cookies. If you do so, however, you may not be able to fully experience some interactive features of the site. 
+Our site may pass a “cookie” (a string of information that is sent by a website to be resident on your system’s hard drive, and/or temporarily in your computer’s memory blocks). The purpose of a cookie is to tell the web server that you have returned to a particular page. You may set your browser to decline cookies. If you do so, however, you may not be able to fully experience some interactive features of the site. 
 
 Utilization of Information:
 
-Learning Tree will only use your Information for the specific purpose for which you submitted the Information, except that Learning Tree may use Information obtained from this site in a non-identifiable aggregate form to provide advertisers and/or other third parties our general Web site usage statistics. Learning Tree will use your Information for the following purposes: 
+Learning Tree will only use your Information for the specific purpose for which you submitted the Information, except that Learning Tree may use Information obtained from this site in a non-identifiable aggregate form to provide advertisers and/or other third parties our general website usage statistics. Learning Tree will use your Information for the following purposes: 
 
   * Provide you with information about Learning Tree courses and services;
   * Enroll you in one of Learning Tree’s courses or programs and manage your participation in the course;
@@ -33,13 +33,13 @@ Learning Tree will only use your Information for the specific purpose for which 
   * Respond to your inquiries, post your comments or statements on any blog or other online forum maintained on the Site, or take other actions in response to your inquiries or other online activities; 
   * Communicate with you about other courses or programs that may be of interest to you;
   * Communicate with you about specific jobs, job opportunities or general information about employment opportunities with Learning Tree, in the event you submitted your resume online. Please note additional terms and policies will apply for employment applicants;
-  * Communicate with you about our brands, products, events for other promotional purposes, including co-branded offers, if you have opted to receive such communications either by providing us with your contact information (including email address). You can opt-out of receiving marketing information at any time either by selecting preferences at the time you provide us with your information, following the unsubscribe links on any marketing sent to you or by calling 1-888-843-8733. Except as provided below, we do not make the e-mail addresses of those who visit our Web site available to other organizations. 
+  * Communicate with you about our brands, products, events for other promotional purposes, including co-branded offers, if you have opted to receive such communications either by providing us with your contact information (including email address). You can opt-out of receiving marketing information at any time either by selecting preferences at the time you provide us with your information, following the unsubscribe links on any marketing sent to you or by calling 1-888-843-8733. Except as provided below, we do not make the e-mail addresses of those who visit our website available to other organizations. 
 
 
 
 Telephone Numbers and Telephone Calls from Learning Tree:
 
-Visitors who provide us with their telephone numbers may receive telephone contact from us with information regarding orders (or requests for information) they have placed online. They also may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending an e-mail to us, by calling us, or by writing to us. Except as provided below, we DO NOT make the telephone numbers of those who visit our Web site available to other organizations. 
+Visitors who provide us with their telephone numbers may receive telephone contact from us with information regarding orders (or requests for information) they have placed online. They also may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending an e-mail to us, by calling us, or by writing to us. Except as provided below, we DO NOT make the telephone numbers of those who visit our website available to other organizations. 
 
 Your Workplace Mailing Address:
 
@@ -74,7 +74,7 @@ Upon request, and unless prohibited by law, Learning Tree shall inform customers
 
 Links to Third Party Sites:
 
-We may make content or services from other Web sites including our affiliated Web sites available to you from links located on this Web site. These "other" domains (Web sites) are not controlled by Learning Tree International. We encourage our users to be aware when they leave our site and to read the privacy policies of each and every Web site that collects personally identifiable information. Visiting sites linked from www.LearningTree.com is at your own risk. 
+We may make content or services from other websites including our affiliated websites available to you from links located on this website. These "other" domains (websites) are not controlled by Learning Tree International. We encourage our users to be aware when they leave our site and to read the privacy policies of each and every website that collects personally identifiable information. Visiting sites linked from www.LearningTree.com is at your own risk. 
 
 Opt-Out:
 
@@ -82,7 +82,7 @@ If you wish to opt-out of email communications, please let us know your preferen
 
 Policy Modifications:
 
-Please check this page periodically for changes to this Privacy Policy. We reserve the right to modify this policy as we deem appropriate by posting a new privacy policy at this location. If we decide make material changes to our Privacy Policy, we will send you advance notification and where necessary obtain you consent. Thank you for visiting our Web Site and your interest in Learning Tree’s programs. 
+Please check this page periodically for changes to this Privacy Policy. We reserve the right to modify this policy as we deem appropriate by posting a new privacy policy at this location. If we decide make material changes to our Privacy Policy, we will send you advance notification and where necessary obtain you consent. Thank you for visiting our website and your interest in Learning Tree’s programs. 
 
 Comments and Questions:
 
@@ -105,6 +105,6 @@ USA
   
 ---|---  
   
-**Thank you for visiting our Web site.**
+**Thank you for visiting our website.**
 
 US 0907 
