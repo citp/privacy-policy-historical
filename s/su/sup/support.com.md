@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the support.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101154854id_/http%3A//www.support.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the support.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513221946id_/http%3A//www.support.com/privacy_policy) for the most accurate reproduction.*
 
 # Services Privacy Policy
 
@@ -125,7 +125,7 @@ Your privacy is important to us. As a Better Business Bureau Accredited Business
 
 ##  Privacy Complaints By European Union Citizens
 
-In compliance with the Safe Harbor Principles, Support.com commits to resolve complaints about your privacy and our collection or use of your Personal Information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Support.com at:
+In compliance with the Safe Harbor Principles, Support.com commits to resolve complaints about your privacy and our collection or use of your Personal Information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Support.com at:
 
 Support.com, Inc.  
 1900 Seaport Boulevard  
@@ -133,15 +133,7 @@ Redwood City, CA 94063
 Attn: Privacy  
 E-mail: privacy@support.com
 
-Support.com has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Support.com, you may contact:
-
-Council of Better Business Bureaus, Inc.  
-BBB EU Safe Harbor  
-4200 Wilson Boulevard, Suite 800  
-Arlington, VA 22203  
-Phone: 703-276-0100  
-Web: www.us.bbb.org  
-E-mail: eusafeharbor@council.bbb.org
+Support.com has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Support.com,  please visit the BBB EU Safe Harbor website at [**_www.bbb.org/us/safe-harbor-complaints_**](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
 ##  Contact Support.com
 
