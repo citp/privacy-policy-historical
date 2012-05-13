@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the applicanttree.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115091243id_/http%3A//applicanttree.com/1/sys/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applicanttree.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513181424id_/http%3A//www.applicanttree.com/1/sys/privacy) for the most accurate reproduction.*
 
 # Applicant Tree
 
