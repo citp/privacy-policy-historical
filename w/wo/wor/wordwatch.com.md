@@ -1,29 +1,26 @@
-> *The following text is extracted and transformed from the wordwatch.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216172518id_/http%3A//www.wordwatch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordwatch.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514015440id_/http%3A//www.wordwatch.com/resources/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WordWatch.com - PPC bid management software for AdWords
+# Privacy Policy | WordWatch Resources
 
-**Updated:** March 1, 2011
+## WordWatch Inc. (‘WordWatch’) takes the privacy of its visitors and customers to the wordwatch.com website (‘Website’) and hosted application (‘Application’) very seriously. On this page, WordWatch addresses what information is collected from you (whether online or offline) and how that information is used.
 
-WordWatch Inc. ('WordWatch') takes the privacy of its visitors and customers to the wordwatch.com website ('Website') very seriously. On this page, WordWatch addresses what information is collected from you (whether online or offline) and how that information is used. If you have additional questions not answered here, click here. By accessing or using the Website, you acknowledge that you have read, understood and accept this privacy policy and its terms.
+If you have additional questions not answered here, contact our [Support ](http://www.wordwatch.com/help/contact-support/ "Contact Support")desk to request more information. By accessing or using the Website or Application, you acknowledge that you have read, understood and accept this privacy policy and its terms.
+
+Updated: March 1, 2011
 
 ## Information Collected
 
-To better serve Website visitors and customers, and to enable the operation of the services offered on the Website, WordWatch collects two basic types of information from users:
+To better serve Website visitors and Application customers, and to enable the operation of the services offered, WordWatch collects two basic types of information from users:
 
-  1. **Personally Identifiable Information**
+**i. Personally Identifiable Information**  
+This information personally identifies one individual from another, and except as stated in this Privacy Policy, is voluntarily provided to us by visitors and customers.
 
-This information personally identifies one individual from another, and except as stated in this Privacy Policy, is voluntarily provided to us by customers or visitors of the Website.
-
-  2. **Aggregate User and Tracking Information**
-
-This information provides insights on how customers and visitors use the Website and other WordWatch products. This data is anonymous in nature and does not contain any personally identifiable information. This information is used to ensure that the Website, email messages and marketing efforts continue to appeal to users.
-
-
-
+**ii. Aggregate User and Tracking Information**  
+This information provides insights on how customers and visitors use the Website, Application and other WordWatch products. This data is anonymous in nature and does not contain any personally identifiable information. This information is used to ensure that the Website, email messages and marketing efforts continue to appeal to users.
 
 ## Voluntary Information
 
-Except as stated in this Privacy Policy, WordWatch only collects personally identifiable information that you voluntarily provide to us. Examples include, amongst other information, your name, email address, Website user name and password.
+Except as stated in this Privacy Policy, WordWatch only collects personally identifiable information that you voluntarily provide to us. Examples include, amongst other information, your name, email address, Application user name and password.
 
 WordWatch only requires personally identifiable information from you when it is needed for registration or placing orders on the Website.
 
@@ -31,29 +28,26 @@ WordWatch only requires personally identifiable information from you when it is 
 
 When you visit the Website, some information about your visit may be automatically collected using cookies, log analysis software and other aggregate tracking technologies.
 
-  1. **Cookies**
-
-Cookies are files that contain small amounts of data. If your browser is configured to accept these files, they are stored on your computer's hard drive. These data files are used whenever you visit the Website. Cookies capture and remember certain information about you. However, WordWatch's cookies do not collect personally identifiable information, and we do not combine the information collected through cookies with other information to tell us who you are.
+**i. Cookies**  
+Cookies are files that contain small amounts of data. If your browser is configured to accept these files, they are stored on your computer’s hard drive. These data files are used whenever you visit the Website. Cookies capture and remember certain information about you. However, WordWatch’s cookies do not collect personally identifiable information, and we do not combine the information collected through cookies with other information to tell us who you are.
 
 By using cookies, WordWatch is able to:
 
-    * Personalize and enhance your visit to the Website.
-    * Expedite account log-in.
-    * Better measure how many users view and/or access the Website.
-    * Better measure the effectiveness of online marketing campaigns.
+  * Personalize and enhance your visit to the Website.
+  * Expedite account log-in.
+  * Better measure how many users view and/or access the Website.
+  * Better measure the effectiveness of online marketing campaigns.
 
-You may set your browser to refuse cookies. However, by refusing to accept cookies, you may not be able to access some pages or use some of the Website functions. Some of WordWatch cookie file(s) remain on your computer's hard drive unless and until you manually delete the file(s).
 
-  2. **Log File Analysis**
 
+You may set your browser to refuse cookies. However, by refusing to accept cookies, you may not be able to access some pages or use some of the Website functions. Some of WordWatch cookie file(s) remain on your computer’s hard drive unless and until you manually delete the file(s).
+
+**ii. Log File Analysis**  
 WordWatch also collects information from your computer each time you visit the Website using log file analysis software.
 
 Information measured, analyzed and collected in this manner may include but is not limited to: your IP address, operating system, platform information, date and time of your clickstream behavior, cookie information, session information (includes: page interaction information, browser interaction information, page response times, length of visits to individual pages, and download errors) and web browser software.
 
-Information collected on how you use the Website does not include personally identifiable information. Though some personally identifiable information may be collected in this process, the information collected is not used to track an individual's use through the Website.
-
-
-
+Information collected on how you use the Website does not include personally identifiable information. Though some personally identifiable information may be collected in this process, the information collected is not used to track an individual’s use through the Website.
 
 ## Use of Collected Information
 
@@ -79,41 +73,35 @@ WordWatch may use your information, including personally identifiable informatio
   10. WordWatch may also disclose information as WordWatch deems necessary to satisfy any applicable law, regulation, legal process or governmental request.
   11. WordWatch may share any information you submit when WordWatch has your consent to do so, or when WordWatch needs to share it in order to provide the information or service you requested.
   12. Non-personally Identifiable Information
-  13. WordWatch may use your non-personally identifiable information it collects during your visit to the Website, during your interaction with WordWatch's emails or during your interaction with WordWatch's third-party marketing efforts for other purposes including, without limitation, the following:
-  14. To better monitor in aggregate the effectiveness of WordWatch's online and offline advertising and marketing campaigns.
+  13. WordWatch may use your non-personally identifiable information it collects during your visit to the Website, during your interaction with WordWatch’s emails or during your interaction with WordWatch’s third-party marketing efforts for other purposes including, without limitation, the following:
+  14. To better monitor in aggregate the effectiveness of WordWatch’s online and offline advertising and marketing campaigns.
   15. To better monitor in aggregate how visitors and customers are using the Website.
   16. To ensure that the Website and emails continue to provide relevant content that is interesting and useful to users.
-  17. To uncover and diagnose problems with the Website and WordWatch's servers.
+  17. To uncover and diagnose problems with the Website and WordWatch’s servers.
   18. For day-to-day system administration needs.
 
 
 
 ## What You Get From WordWatch
 
-WordWatch believes that honest and clear communications with customers and users is a key part of a great experience. All of WordWatch's email communications contain information on how to unsubscribe, and WordWatch honors all requests as quickly as possible. Below are examples (without limitation) of communications you may receive from WordWatch:
+WordWatch believes that honest and clear communications with customers and users is a key part of a great experience. All of WordWatch’s email communications contain information on how to unsubscribe, and WordWatch honors all requests as quickly as possible. Below are examples (without limitation) of communications you may receive from WordWatch:
 
-  1. **Registration Email Messages**
-
+**i. Registration Email Messages**  
 When you join for an account, you will receive an email confirming your registration (as applicable). The email message will contain your name, the email address you provided and your WordWatch sign-in information.
 
-  2. **Marketing or Promotional Emails**
-
+**ii. Marketing or Promotional Emails**  
 WordWatch may send you marketing materials. These mailings will contain information on how to unsubscribe, and WordWatch honors all requests as quickly as possible.
 
-If you are receiving communications from WordWatch and wish to unsubscribe, either follow the unsubscribe instructions in the communication or follow the opt-out instructions below to indicate that you no longer want to receive email from WordWatch.
+If you are receiving communications from WordWatch and wish to unsubscribe, simply click on the unsubscribe link in any of the marketing communications.
 
-  3. **Postal Mail**
-
+**iii. Postal Mail**  
 WordWatch may also send you notifications of new products, surveys and other communications via postal mail. If you do not wish to receive postal mail from WordWatch, follow the opt-out instructions below.
-
-
-
 
 ## Answering Inquiries
 
 If you send WordWatch a question or suggestion, WordWatch may use your email address, telephone number or postal address to respond to you.
 
-## WordWatch Products - Other Websites
+## WordWatch Products – Other Websites
 
 WordWatch does not share personally identifiable information with business partners who display or offer WordWatch products or services on their Websites.
 
@@ -125,23 +113,23 @@ While we use current industry standard procedures to protect your privacy, unfor
 
 ## About This Policy
 
-The WordWatch privacy policy was posted on the date set forth above. WordWatch reserves the right to change, alter or modify this policy for any reason at any time. When WordWatch does so, changes in WordWatch's privacy policy will be posted on the Website and will be effective immediately. If you are a regular visitor or subscriber to this Website, WordWatch recommends that you check this privacy policy on a regular basis.
+The WordWatch privacy policy was posted on the date set forth above. WordWatch reserves the right to change, alter or modify this policy for any reason at any time. When WordWatch does so, changes in WordWatch’s privacy policy will be posted on the Website and will be effective immediately. If you are a regular visitor or subscriber to this Website, WordWatch recommends that you check this privacy policy on a regular basis.
 
 ## Policies for Users of the Website Under Age 13
 
-WordWatch recognizes the importance of children's safety and privacy on the Internet. For this reason, and in compliance with certain laws, WordWatch does not intentionally collect or maintain personal information from children under the age of 13, nor do we offer any content targeted to children. We ask that children under the age of thirteen not use the Website.
+WordWatch recognizes the importance of children’s safety and privacy on the Internet. For this reason, and in compliance with certain laws, WordWatch does not intentionally collect or maintain personal information from children under the age of 13, nor do we offer any content targeted to children. We ask that children under the age of thirteen not use the Website.
 
 ## External Links
 
-WordWatch Website may include links to other Websites whose privacy policies WordWatch does not control. Once you leave the Website, use of any information you provide is governed by the privacy policy of the operator of the Website you are visiting. That policy may differ from WordWatch's policy and is not covered within this privacy policy.
+WordWatch Website may include links to other Websites whose privacy policies WordWatch does not control. Once you leave the Website, use of any information you provide is governed by the privacy policy of the operator of the Website you are visiting. That policy may differ from WordWatch’s policy and is not covered within this privacy policy.
 
 ## Choosing Not to Provide, Accessing and Updating your Information
 
 The Website allows you to choose not to provide personally identifiable information. However, if you opt not to disclose information to us, you may not be able to make a purchase or take advantage of certain features of the Website.
 
-Customers may view and change their personally identifiable information. The information is located in their password-protected profile in the 'My Profile' section of the Website.
+Customers may view and change their personally identifiable information by logging into their password-protected account. Once logged in, click the ‘Account Settings’ link. From here a customer may update their personal information, password, billing, and subscription information, including the ability to close their account.
 
-It may take a reasonable period of time to respond to any request to cancel or modify an account. If you request the deletion or modification of your personal information maintained by WordWatch, such information may be retained for a period of time in WordWatch's backup systems as a precaution against system failures. Some information may be retained for longer periods as required by law, contract or auditing requirements.
+It may take a reasonable period of time to respond to any request to cancel or modify an account. If you request the deletion or modification of your personal information maintained by WordWatch, such information may be retained for a period of time in WordWatch’s backup systems as a precaution against system failures. Some information may be retained for longer periods as required by law, contract or auditing requirements.
 
 ## Questions
 
@@ -152,4 +140,4 @@ If you have any questions about this Privacy Policy, please feel free to contact
 WordWatch, Inc  
 1185 Chess Drive, Ste 201  
 Foster City, CA 94404  
-USA 
+USA
