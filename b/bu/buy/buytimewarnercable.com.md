@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buytimewarnercable.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126133035id_/http%3A//www.buytimewarnercable.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buytimewarnercable.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513134602id_/http%3A//www.buytimewarnercable.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Buy Time Warner Cable
 
@@ -64,7 +64,7 @@ From time to time, we may offer Site users the opportunity to participate in con
   5. **Collection and Use of Information by Third Parties Not Covered By This Agreement**  
 Third parties are under no obligation to comply with this Privacy Policy with respect to Personally-Identifying Information and Non-Personally-Identifying Information that you provide directly to those third parties or that those third parties collect for themselves. We do not control third-party sites that may be accessible through this Site. Thus, this Privacy Policy does not apply to information provided to third party sites or gathered by the third parties that operate them. Before visiting a third party site, whether by means of a link on this Site or otherwise, you should review its privacy policies and terms of use. 
   6. **For Additional Information.**   
-Saveology.com, LLC maintains this Site from its headquarters in Ft. Lauderdale, Florida. If you have questions regarding our Privacy Policy or believe that our Privacy Policy has not been complied with respect to your Personal Information, please contact us as at [privacy@saveology.com](mailto:privacy@saveology.com). 
+Saveology.com, LLC maintains this Site from its headquarters in Margate, Florida. If you have questions regarding our Privacy Policy or believe that our Privacy Policy has not been complied with respect to your Personal Information, please contact us as at [privacy@saveology.com](mailto:privacy@saveology.com). 
   7. **To Inspect, Change or Modify Your Personal Information:**  
 Upon request, Saveology.com, LLC will provide you with a readable copy of your personal information, although we may require proof of your identity before doing so. We will also modify the information that you have provided to us. To make such a request, contact us at [privacy@saveology.com](mailto:privacy@saveology.com). 
 
