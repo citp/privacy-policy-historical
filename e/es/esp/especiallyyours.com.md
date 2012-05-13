@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the especiallyyours.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110130738id_/http%3A//www.especiallyyours.com/display.do%3FruleID%3D100188%26itemID%3D5%26itemType%3DLANDING%26Privacy%3DPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the especiallyyours.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513170301id_/http%3A//www.especiallyyours.com/display.do%3FruleID%3D100188%26itemID%3D5%26itemType%3DLANDING%26Privacy%3DPolicy) for the most accurate reproduction.*
 
 # Wigs and Hairpieces - www.EspeciallyYours.com
 
 ### PRIVACY POLICY 
+
+PRIVACY POLICY 
 
 Last Updated 1/15/09 
 
@@ -10,13 +12,11 @@ When you place an order or request a catalog through our on-line web site, we as
 
 Especially Yours does collect aggregate information about the pages which visitors review, including the sequence in which they are visited. We may also collect data volunteered by our visitors and customers, such as survey, demographic or product preference information. This information is used to improve our web site and the overall experience we provide to our customers, and is treated as confidential unless otherwise clearly indicated.
 
-Customers who request printed catalogs or place orders through our web site should read our policy regarding our catalog mailing list. **
+Customers who request printed catalogs or place orders through our web site should read our policy regarding our catalog mailing list.
 
-Notification of Change
-
-**  
+Notification of Change   
 We reserve the right to change this policy at any time. This privacy policy will be kept up-to-date and clearly posted on our Web site. .
 
-**From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future:  **
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future: 
 
-We will post the policy changes to our website to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our website periodically. 
+We will post the policy changes to our website to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our website periodically.
