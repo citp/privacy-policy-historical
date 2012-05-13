@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the timbuk2.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217053744id_/http%3A//timbuk2.com/wordpress_cms/customer-service/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timbuk2.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513211113id_/http%3A//www.timbuk2.com/privacy) for the most accurate reproduction.*
 
-# Timbuk2 Bags - Timbuk2
+# Timbuk2 Bags - Our Privacy Policy
 
-_This page was last updated on February 25, 2005._
+_This page was last updated on April 28, 2010._
 
 Timbuk2.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting Timbuk2.com, you are accepting the practices described in this Privacy Policy.
 
@@ -31,6 +31,10 @@ We might receive information about you from other sources and add it to our acco
 Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as storage of items in your Shopping Cart between visits.
 
 The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of Timbuk2.com’s coolest features, and we recommend that you leave them turned on.
+
+#### Remarketing Advertisements
+
+Third party vendors, including Google, show Timbuk2′s ads on sites on the internet and use cookies to serve our ads based on a user’s prior visits to timbuk2.com. Users may opt out of Google’s use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html). Additionally, users can opt out of a third party vendor’s use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
 #### Does Timbuk2.com share the information it receives?
 
