@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ggmvpclub.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223090212id_/http%3A//ggmvpclub.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ggmvpclub.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513061622id_/http%3A//ggmvpclub.com/pages/privacy.php) for the most accurate reproduction.*
 
 # ggmvpclub.com
 
@@ -35,23 +35,23 @@ Total Affiliates
   
 ---  
   
-2,838   
+1,136   
   
 Last Payouts made on:  
   
-Aug,9  
+Mar,30,2012  
   
 Daily Ads for Free Member   
   
-7  
+10  
   
 Daily Ads for Upgrade Member  
   
-30  
+35  
   
    
    
-[](https://web.archive.org/web/20111223090212id_/http%3A//ggmvpclub.com/pages/lastpayouts.php)  
-[](https://web.archive.org/web/20111223090212id_/http%3A//ggmvpclub.com/pages/confirm.php)  
+[](https://web.archive.org/web/20120513061622id_/http%3A//ggmvpclub.com/pages/lastpayouts.php)  
+[](https://web.archive.org/web/20120513061622id_/http%3A//ggmvpclub.com/pages/confirm.php)  
    
 [](https://centregold.ca/)
