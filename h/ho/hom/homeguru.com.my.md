@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeguru.com.my privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101063329id_/http%3A//www.homeguru.com.my/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeguru.com.my privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513134654id_/http%3A//www.homeguru.com.my/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -101,13 +101,14 @@ Attn: HOMEGURU.COM.MY Privacy
  **Mailing Address :**
 
 HomeGuru Sdn Bhd  
-Unit 7-1, Tower 9, Avenue 5,  
+Level 3, Tower 3A, Avenue 3,  
 The Horizon, Bangsar South,  
-8, Jalan Kerinchi, 59200 Kuala Lumpur,  
-Malaysia.
+No. 8, Jalan Kerinchi,  
+59200 Kuala Lumpur  
+Malaysia 
 
- **Tel:** (+603) 2279 7555
+**Tel:** (+603) 2279 7555
 
  **Email:** enquiries@homeguru.com.my
 
- _This document was updated on Jan 19, 2011._
+ _This document was updated on April 19, 2012._
