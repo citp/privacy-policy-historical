@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the all-about-juicing.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211025620id_/http%3A//www.all-about-juicing.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all-about-juicing.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513230506id_/http%3A//www.all-about-juicing.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -66,12 +66,9 @@ Your use of this site indicates acceptance of this privacy policy.
 
 #### Thanks for visiting :)
 
-  
+Have your say about what you just read! Leave a comment in the box below.
 
-
-### New! Comments
-
-Have your say about what you just read! Leave me a comment in the box below. **Share this page:  **  
+**Share this page:  **  
 
 
 What's This?
@@ -80,19 +77,4 @@ What's This?
 ---|---|---|---|---  
 | | |   
   
-Enjoy this page? Please tell others about it. Here's how...  
-  
-### Search this site
-
-If you are looking for something specific, enter it here to find it in a flash... 
-
-### Do you love fresh juice?   
-Subscribe to....
-
-**The Juicing for Lover's newsletter**
-
-Delivering good-to-know extras about juicing! 
-
-  
-  
-
+Enjoy this page? Please tell others about it. Here's how...
