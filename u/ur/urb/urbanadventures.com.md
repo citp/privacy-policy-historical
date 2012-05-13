@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbanadventures.com privacy policy that was archived on 2011-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111001233914id_/http%3A//www.urbanadventures.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanadventures.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513085756id_/http%3A//www.urbanadventures.com/privacy_statement) for the most accurate reproduction.*
 
 # Urban Adventures - Day tours, with a local. - Privacy Statement
 
@@ -68,5 +68,42 @@ At Urban Adventures we recognize that privacy is important. This document outlin
 
 
 
-  
+Country:   
+Destination:   
+Trip list:   
+Price range: USD   
 
+
+  
+Check out our top destinations this month 
+
+  * [Ho Chi Minh City](https://web.archive.org/destination/ho_chi_minh_city_tours)
+  * [Hanoi](https://web.archive.org/destination/hanoi_tours)
+  * [Bangkok](https://web.archive.org/destination/bangkok_tours)
+  * [Houston](https://web.archive.org/destination/Houston_tours)
+  * [Philadelphia](https://web.archive.org/destination/Philadelphia_tours)
+  * [Toronto](https://web.archive.org/destination/Toronto_tours)
+  * [Siem Reap](https://web.archive.org/destination/siem_reap_tours)
+  * [Melbourne](https://web.archive.org/destination/Melbourne_tours)
+  * [Beijing](https://web.archive.org/destination/Beijing_tours)
+  * [Delhi](https://web.archive.org/destination/delhi_tours)
+  * [New York](https://web.archive.org/destination/new_york_tours)
+  * [Los Angeles](https://web.archive.org/destination/los_angeles_tours)
+
+
+
+[more ...](https://web.archive.org/destination)
+
+  
+Sign up now for our great deals and news
+
+  
+[ ](https://web.archive.org/giftcert)
+
+Responsible Travel with Urban Adventures
+
+Wherever we go in the world, we take a responsible attitude with us. That means travelling in a way which both respects and benefits local people, their culture, their economy, and their environment. Please read on for more information on our Responsible Travel policy and how you can be a responsible traveller for your entire journey. ** ** ** **
+
+**  
+[more ...](https://web.archive.org/responsible_travel)   
+**
