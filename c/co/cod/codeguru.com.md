@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the codeguru.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231071444id_/http%3A//www.internet.com/Internetcom/Door/41186) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeguru.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513034939id_/http%3A//www.codeguru.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy
 
 **LAST UPDATED** : October 22, 2010
 
