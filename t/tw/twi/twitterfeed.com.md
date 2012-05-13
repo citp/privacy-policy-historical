@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the twitterfeed.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226203825id_/http%3A//twitterfeed.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twitterfeed.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513083743id_/http%3A//twitterfeed.com/privacy) for the most accurate reproduction.*
 
 # twitterfeed.com : feed your blog to twitter
 
 Privacy Policy  
 Effective June 17, 2009
 
-This privacy policy describes how we collect and use your data. Betaworks, LLC. owns and operates TWITTERFEED.COM. If you have any questions or comments regarding TWITTERFEED.COM's privacy policy or its enforcement, please contact us at legal [AT SIGN] betaworks.com.
+This privacy policy describes how we collect and use your data. Bitly, Inc. owns and operates TWITTERFEED.COM. If you have any questions or comments regarding TWITTERFEED.COM's privacy policy or its enforcement, please contact us at support [AT SIGN] bitly.com.
 
 1\. INFORMATION WE COLLECT. TWITTERFEED.COM collects information our users submit to us such as their name and e-mail address to allow us to identify users and notify them of changes or updates to our service. TWITTERFEED.COM also collects information from users that is unique, but cannot be linked to a specific individual, such as IP address and browser type. A user's session will be tracked, but each user will remain anonymous. We gather this information for systems administration purposes and to track user trends. We do not link IP addresses to any personally identifiable information.
 
