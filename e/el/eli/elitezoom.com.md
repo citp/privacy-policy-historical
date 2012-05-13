@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the elitezoom.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107034121id_/http%3A//www.elitezoom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitezoom.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513212105id_/http%3A//www.elitezoom.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Daily review of computer and notebooks
+# Privacy Policy | Computer Notebook Review
+
+## Privacy Policy
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
@@ -22,3 +24,7 @@ We have included links on this site for your use and reference. We are not respo
 The contents of this statement may be altered at any time, at our discretion. 
 
 If you have any questions regarding the privacy policy of ELITEZOOM.COM then you may contact us at webmaster[at]elitezoom.com 
+
+* * *
+
+* * *
