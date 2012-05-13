@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the all-famous-quotes.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101132204id_/http%3A//www.all-famous-quotes.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all-famous-quotes.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513072527id_/http%3A//www.all-famous-quotes.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# All Famous Quotes | Privacy Policy
 
-Any personal details collected by Global Secrets International will be kept private and confidential and will not be allowed to be used in any other way other than for correspondence between Global Secrets International and those who have submitted their personal information. 
+Any personal details collected by All Famous Quotes will be kept private and confidential and will not be allowed to be used in any other way other than for correspondence between All Famous Quotes and those who have submitted their personal information.
+
+Read enough?  Use the search box to go back to the fun!
 
 ## Cookies
 
@@ -12,19 +14,14 @@ We use third-party advertising companies to serve ads when you visit our website
 
 You may choose to provide us with personal information, as in e-mail with a comment or question. We use the information to improve our service to you or to respond to your request. We do not share our e-mail with any other outside organizations. 
 
-If you have any questions or concerns please [contact us.](http://www.all-famous-quotes.com/contact_us.html "Click here to contact us")
+If you have any questions or concerns please [contact us.](https://web.archive.org/contact_us.html "Click here to contact us")   
 
-  
-Global Secrets International  
-PO Box 33  
-Anglesea, Vic.  
-Australia, 3230
 
 ## Take me to
 
-[Inspirational Quotes](http://www.all-famous-quotes.com/inspirational_quote.html "Click here for inspirational quotes")  
-[Motivational Quotes](http://www.all-famous-quotes.com/motivational_quotes.html "Click here for motivational quotes")  
-[Love Quotes](http://www.all-famous-quotes.com/famous_love_quotes.html "Click here for love quotes")  
-[Funny Quotes](http://www.all-famous-quotes.com/funny_quotes.html "Click here for Funny quotes")  
-[All-Famous-Quotes.com Home Page](http://www.all-famous-quotes.com/ "Click here for all famous quotes.com home page")  
+[Inspirational Quotes](https://web.archive.org/inspirational_quote.html "Click here for inspirational quotes")  
+[Motivational Quotes](https://web.archive.org/motivational_quotes.html "Click here for motivational quotes")  
+[Love Quotes](https://web.archive.org/famous_love_quotes.html "Click here for love quotes")  
+[Funny Quotes](https://web.archive.org/funny_quotes.html "Click here for Funny quotes")  
+[All-Famous-Quotes.com Home Page](https://web.archive.org/ "Click here for all famous quotes.com home page")  
 
