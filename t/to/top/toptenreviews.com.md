@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toptenreviews.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229043518id_/http%3A//www.techmedianetwork.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toptenreviews.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514014404id_/http%3A//www.techmedianetwork.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | TechMediaNetwork
 
@@ -50,6 +50,10 @@ Children should always ask parents before providing any personal information onl
 
 TechMediaNetwork abides by the Children's Online Privacy Protection Act. In the event that we learn that we have collected information from any child under the age of 13 without verification of parental consent, we will delete this information from our database as quickly as reasonably possible. If you believe that any Site has collected any information about anyone under 13, please contact TechMediaNetwork's Site Administrator via postal mail or email at one of the addresses listed below.
 
+## Financial Relationships
+
+Please note that TechMediaNetwork may have financial relationships with some of the merchants/vendors mentioned on this website. In some instances, TechMediaNetwork may be compensated if consumers choose to utilize the links located throughout the content on this site and generate sales for said merchant/vendor.
+
 ## Limitation of Liability
 
 TECHMEDIANETWORK PROVIDES THE INFORMATION, SERVICES AND PRODUCTS ON THIS WEB SITES “AS IS” WITHOUT WARRANTIES OF ANY KIND. YOU AGREE THAT TECHMEDIANETWORK SHALL NOT BE RESPONSIBLE FOR ANY CONTENT FOUND ON OUR FORUMS, THAT ANY DOWNLOADING OF MATERIALS FOUND ON OR THROUGH TECHMEDIANETWORK FORUMS IS DONE AT YOUR OWN RISK, AND THAT TECHMEDIANETWORK IS NOT RESPONSIBLE FOR UNSOLICITED COMMUNICATIONS THAT ARISE FROM YOUR POSTINGS. TECHMEDIANETWORK SHALL NOT BE RESPONSIBLE IN ANY MANNER FOR THE ACTS OF ANY THIRD PARTY, INCLUDING WITOUT LIMITATION, ANY THIRD PARTY AD NETWORK.
@@ -64,13 +68,12 @@ If you have any questions about this Privacy Statement you may contact us at:
 
 Site Administrator  
 TechMediaNetwork  
-470 Park Avenue South, 9th Floor  
-New York, NY 10016  
-Fax: (212) 703-5801  
-[**Contact Us**](https://web.archive.org/web/20111229043518id_/http%3A//www.techmedianetwork.com/contact/advertising.html) ****
+2425 Lincoln Ave.  
+Ogden, UT 84401  
+[**Contact Us**](https://web.archive.org/web/20120514014404id_/http%3A//www.techmedianetwork.com/contact/advertising.html) ****
 
 **
 
-This Privacy Policy is effective as of October 23, 2009 and supersedes all earlier versions of our Privacy Policy
+This Privacy Policy is effective as of January 2012 and supersedes all earlier versions of our Privacy Policy
 
 **
