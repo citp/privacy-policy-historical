@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the infobright.org privacy policy that was archived on 2011-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110215111924id_/http%3A//www.infobright.org/Legal/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infobright.org privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513071028id_/http%3A//www.infobright.org/Legal/Privacy-Policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY - infobright.org
+# infobright.org
 
 Infobright Inc. ("Infobright") respects your privacy and is committed to protecting your personal information that you provide to us. This statement explains our policies and practices regarding the use and disclosure of your personal information by Infobright. Please note that, Infobright reviews and updates this Privacy Policy from time to time as needed without notice. Therefore, you should review the terms of this policy periodically to make sure that you are aware of how Infobright collects and uses personal information. By using our web site, you consent to the collection and use of your personal information by Infobright as explained below.  
 
