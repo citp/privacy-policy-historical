@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caspio.com privacy policy that was archived on 2011-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111015155110id_/http%3A//www.caspio.com/company/legal/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caspio.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513123437id_/http%3A//www.caspio.com/company/legal/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Caspio Privacy Statement
 
@@ -6,7 +6,7 @@
 
 ## For Website Users and Clients
 
-Last modified April 26, 2010.
+Last modified March 7, 2012.
 
 ### OVERVIEW
 
@@ -16,9 +16,9 @@ We want you to know that we are not in the business of selling or renting indivi
 
 This Privacy Statement contains Caspio's handling of personally identifiable information that is gathered when you are on Caspio's site, and when you use Caspio's services. This Privacy Statement applies exclusively to the sites [www.caspio.com](https://web.archive.org/) and [caspio.net](https://web.archive.org/). This policy does not cover or apply to the practices of organizations that use our services on their websites, that Caspio does not own or control, information collected offline, or to non-Caspio employees.
 
-Caspio, Inc is a Licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users' trust in the internet by promoting the use of fair information practices. We have elected to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe as a testament of our commitment to your privacy. Please direct all your inquiries pertaining to the Site, Service, or this Statement to us by [contacting Caspio](https://web.archive.org/company/contact.aspx). In the event your inquiry isn't acknowledged within a reasonable time expectation, or hasn't been addressed to your satisfaction, please [contact TRUSTe](http://www.truste.com/consumers/watchdog_complaint.php). TRUSTe shall then serve as a liaison with us to resolve your concerns.
+Caspio, Inc. is a Licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users' trust in the internet by promoting the use of fair information practices. We have elected to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe as a testament of our commitment to your privacy. Please direct all your inquiries pertaining to the Site, Service, or this Statement to us by [contacting Caspio](https://web.archive.org/company/contact.aspx). In the event your inquiry isn't acknowledged within a reasonable time expectation, or hasn't been addressed to your satisfaction, please [contact TRUSTe](http://www.truste.com/consumers/watchdog_complaint.php). TRUSTe shall then serve as a liaison with us to resolve your concerns.
 
-Caspio, Inc has certified its participation and compliance with the Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the transfer of personal information from European Union member countries to the United States. The principles of Safe Harbor compliance are notice, choice, onward transfer, security, data integrity, access, and enforcement. Additional information about the Safe Harbor principles and certification process can be found at <http://www.export.gov/safeharbor/>.
+Caspio complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Caspio has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Caspio's certification, please visit <http://www.export.gov/safeharbor/>.
 
 ### COLLECTION AND USE OF YOUR INFORMATION
 
@@ -112,9 +112,6 @@ We provide real time live chat capabilities on the Site through a third party ag
 ### MATERIAL CHANGES
 
 We reserve the right to make changes to this statement at our discretion. Should we make material changes to the manner in which your collected personal information is utilized, we shall post a prominent notice on the Site, or notify you by email of the change and your choices.
-
-  
-
 
 ### OUR PRIVACY PRINCIPLES
 
