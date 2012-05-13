@@ -1,62 +1,122 @@
-> *The following text is extracted and transformed from the adscendmedia.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119074501id_/http%3A//adscendmedia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adscendmedia.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513102643id_/http%3A//adscendmedia.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|  | 
+ADSCEND MEDIA LLC Privacy Policy 
 
-Last updated: January 21st, 2009 
+The Adscend Media website at www.adscendmedia.com (the "Website") is provided to You by Adscend Media, LLC and/or any of its related, affiliated and/or subsidiary companies (individually and collectively, "Adscend Media", "We" or "Us"), and the following Privacy Policy applies to all of the services offered by Adscend Media in connection with the Website. For convenience, the words "User," "You" and "Your" as used in this Privacy Policy refer to users of the Website. 
 
-This privacy policy applies to the relationship between Adscend Media and any advertiser or publisher in the publisher or advertiser programs. By using Adscend Media's services, you agree to Adscend Media's connection, use, storage, and disclosure of information by Adscend Media. 
+Adscend Media recognizes that Your privacy and the protection of Your Personal Information is important to you, and therefore, has adopted this Privacy Policy. This Privacy Policy describes Adscend Media's privacy practices and how Adscend Media treats the Personal Information that it collects from You when You use the use the Website, including any Personal Information You provide when You conduct business with Adscend Media on or through the Website or use Adscend Media's services that are provided on or through the Website. 
 
-By visiting this website, you agree to be bound to the terms and conditions of this privacy policy. If you do not agree with the terms and conditions of this privacy policy, do not use any services or products offered by Adscend Media. 
+For the purposes of this Privacy Policy, "Personal Information" is information that (i) You provide to Adscend Media and (ii) personally identifies You. Personal Information includes Your name, email and postal address, billing, banking and payment information, telephone number and other data that can be used to personally identify or contact You. 
 
-This privacy policy may change at any time and continued use of this website is considered your acceptance of the current privacy policy. If you do not agree to any changes in the privacy policy, please discontinue use of the site immediately. 
+HOW WE OBTAIN THE PERSONAL INFORMATION 
 
-**Use & Collection of Information**
+Adscend Media may obtain, collect, retain, store or otherwise maintain Your Personal Information from the following sources: 
 
-Adscend Media attempts to collects information from persons (1) when they are over 18 years of age, (2) when an individual or business entity requests support or services from Adscend Media, (3) when an individual or business entity owns and operates websites which conduct business with Adscend Media. Aside from a log of any visits to Adscend Media, we do not collection any personally identifiable information about visitors who don't supply personal information. 
+  * _Your Adscend Media Application_ : In order for You to use any of the services provided by Adscend Media, including becoming an Adscend Media publisher (collectively, the "Adscend Media Services"), you will be required to submit an application to Adscend Media ("Your Application"). Your Application will require You to provide Personal Information to Adscend Media. If Your Application is rejected, Adscend Media may retain Your Personal Information at its discretion.
+  * _Your Creation and Maintenance of Your Adscend Media Account_ : If Your Application is accepted, You will be required to provide Personal Information to Adscend Media in order to create and maintain as current an account with Adscend Media ("Your Account"). 
+  * _Your Responses to Communications form Adscend Media_ : From time to time, Adscend Media, may communicate with You through email, postal mail or other forms of electronic communications regarding the Your Account, the Adscend Media Services, the and Website. If You respond to these communications, Your responses may contain Personal Information.
 
-**Publisher or Advertiser Program Applicants**
 
-Adscend Media collects personal information from all applicants for the purposes of, including but not limited to, evaluating and verifying an applicant's information for considered acceptance to the Adscend Media programs. If the applicant is accepted as a member, all personal information will be kept on file for purposes of the program. By submitting information to Adscend Media, you agree that we may contact you via various methods, such as phone, email, or physical mail, at our own discretion. If your application is rejected, we may retain the personal information provided at own discretion. 
 
-**Publisher or Advertiser Program Members**
+You can decline to provide Your Personal Information to Adscend Media by not engaging in the activities described above. If You decline to submit Personal Information, Adscend Media may not be able to or may choose not to provide to You some or all of the Adscend Media Services. 
 
-If your application is accepted to any Adscend Media program, we may use and share your personal information with third parties as outlined in this policy. Information that may be shared includes, but is not limited to, website URL, email addresses, volume of traffic and leads generated, and any other information required to ensure the quality of our programs. Personal information is retained even when a member decides to terminate their account for any reason. Adscend Media cannot be held liable or responsible for any use or disclosure by any third party of any personal information that we provide to that third party. If it is believed that a member is violating any of the Terms and Conditions which were agreed to, Adscend Media reserves the right to share all information pertaining to that member's account. If ordered by a court of law, Adscend Media will provide any and all information requested. 
+Adscend Media also collects non-personally identifiable server-log information relating to users of the Website. This information, may include information such as, but not limited to: (i) Your account activity, including storage usage, number of log-ins, data displayed or selected, including user interface elements, links, etc.; and (ii) Your web request, Internet Protocol address, browser type, browser language, the date and time of Your request, date and time of access, one or more cookies that may uniquely identify Your browser and referrer Uniform Resource Locator. None of this information enables Adscend Media to personally identify or contact You. 
 
-**Third Party Information**
+HOW WE USE PERSONAL INFORMATION 
 
-Adscend Media may collect information from individuals when an individual provides information to a third party and Adscend Media purchases this information from a third party. Information provided by the third party may include, but not limited to, individual names, email addresses, street addresses, zip codes, telephone numbers, birth dates, genders, salaries, education statuses, marital statuses, occupations, industry of occupations, and any other information provided by the Third Party. Adscend Media will do it's best to seek assurance from the third party that the third party has rights to transfer the Third Party Information to Adscend Media and that the third party has a right to provide offers from advertisers to the individuals whose personal information is included on the Third Party's Information list. 
+Adscend Media only uses Personal Information for the purposes and in the manner described in this Privacy Policy. Specifically, Adscend Media only uses Your Personal Information for: 
 
-**Cookies, Web Beacons, and Related Technology**
+  * Evaluating and verifying Your Application and communicating with You regarding Your Application;
+  * Doing business with You, including processing payments and communicating with you regarding Your business activities relating to the Adscend Media Services;
+  * Processing, formatting and displaying customized content on the Website for You; 
+  * Communicating with You regarding changes to: Adscend Media's Terms of Service, this Privacy Policy or any other policies or terms relating to the Adscend Media Services or Your relationship with Adscend Media.
+  * Auditing, research and analysis in order to maintain, protect and improve the Adscend Media Services and the Website;
+  * Communicating with You, with Your consent, regarding new and additional Adscend Media Services and changes to the Website; and/or
+  * Ensuring the technical functioning of the Website, including creating and maintaining back-ups or other archival copies of Personal Information and other related data.
 
-Adscend Media uses cookies for various reasons in regards to traffic and members of its programs. A cookie is a small piece of textual data stored on an individual's computer which is sent from a server to an internet browser. 
 
-Cookies are used for tracking user clicks on an ad, and subsequent successful completion and crediting of leads to the correct destination, whether that is an advertiser or publisher account at Adscend Media. Cookies may also be used for statistical analysis purposes by Adscend Media. If you would like to reject a cookie file, you may do so within your internet browser options. 
+
+Adscend Media restricts access to Personal Information to those employees, contractors and agents of Adscend Media who need to access Personal Information for the purposes specified above. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination, if they fail to meet these obligations. 
+
+HOW ADSCEND MEDIA USES PERSONAL INFORMATION 
+
+Except as otherwise set forth herein, Adscend Media does not share Your Personal Information with third parties without Your consent, except when We believe that it is reasonably necessary to do so in order to comply with a subpoena or other judicial order or process, as otherwise required by law or in order to enforce or remedy a violation(s) of Adscend Media's Terms of Service. In such circumstances, Your Personal Information may also be disclosed to Adscend Media's attorneys. 
+
+If Adscend Media desires to use Your Personal Information for any purpose other than those described in this Privacy Policy, Adscend Media will request Your consent prior to such use and offer You an effective way to opt out of the use of Personal Information for those other purposes. If You opt out or otherwise decline to submit Personal Information in response to such a request, Adscend Media may not be able to provide to You some or all of the Adscend Media Services or some or all of the features available on the Website. 
+
+THIRD PARTY INFORMATION 
+
+Adscend Media may collect or purchase information from third parties regarding persons who provided such information to those third parties. Information provided by the third party may include, but not limited to, individual names, email and postal addresses, telephone numbers, birth dates, genders, and any other information provided by the Third Party. Adscend Media uses its reasonable best efforts to ensure that (i) the third party possesses the right to transfer the information to Adscend Media and (ii) Adscend Media has received the right to communicate with the persons who provided the information. 
+
+COOKIES AND WEB BEACONS PLACED BY ADSCEND MEDIA 
+
+When You visit the Website, We send to Your computer one or more "cookies" (i.e., a small file containing a string of characters) that, among other things, uniquely identifies Your browser and allows the Website to "remember" Your computer and Your activities on the Website. Adscend Media uses cookies to uniquely and anonymously identify its users. No Personal Information is collected or stored in these cookies. These cookies cannot damage a user's files and cannot read information from a user's hard drive. Most web browsers are initially set up to accept cookies, but You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Please note that some of the Website's features may not function properly and You may not be able to use the Adscend Media Services if Your cookies are disabled. 
+
+Adscend Media uses cookies for tracking user clicks on an ad, and subsequent successful completion and crediting of leads to the correct destination, whether that is an advertiser or publisher account at Adscend Media. Adscend Media may also use cookies for statistical analysis purposes. 
 
 A web beacon is generally a transparent graphic image (usually a very small pixel) that is placed on a website or in an email which is used to monitor behavior of a user visiting a website or email. When HTML code for a web beacon points to a site to retrieve the image, it can pass along information such as IP address of the computer that retrieved the image, time the page was viewed and length, the type of internet browser that retrieved the image, and any previously set cookie values in regards to the web beacon. 
 
-**Third Party Advertising**
+LINKS 
 
-Adscend Media will share certain information with our partners and advertisers. The information, though, will generally not be linked to any personal identifiable information. When you sign up for any third party service, information may be shared with the third party and your privacy will be in accordance with the third party privacy policy. 
+This Privacy Policy only pertains to the Website and the Adscend Media Services. Other websites, such as those to which the Website links to or link to the Website, may have their own privacy policies. We encourage You to read the privacy policies and terms of use of the websites that You visit through links placed on the Website as well as those for websites that provide links to the Website. You should contact these websites directly if You have any questions about their use of Your Personal Information. Adscend Media is not responsible for any use of Your Personal Information or any other type of Your information when You use such third party sites and services. 
 
-Third-party advertising companies are used to provide offers and campaigns to members of any of our programs. These companies may use any information about your visits to this and other websites to provide advertisements and/or services that may interest you. 
+INFORMATION SHARING AND ONWARD TRANSFER 
 
-**Minors**
+Adscend Media reserves the right to sell, rent or otherwise share some or all of Your Personal Information with other companies or individuals outside of Adscend Media if: 
 
-Adscend Media is not interested in accepting information from individuals under the age of 18. We will never knowingly solicit nor accept personally identifiable information from users who are confirmed/known to be under the age of thirteen (13). 
+  * You have consented to such sale, rental or sharing; and/or
+  * Adscend Media becomes involved in a merger, acquisition, or any form of sale of all of its assets. In such circumstances, Adscend Media will provide notice before Personal Information is transferred and becomes subject to a different privacy policy.
 
-**Affiliated Companies**
 
-Adscend Media reserves the right to disclose, transfer, and/or sell individual information to business entities affiliated with Adscend Media at our own discretion. 
 
-**International Persons**
+In addition, Adscend Media reserves the right to share non-personally identifiable information relating to users of the Website or the Adscend Media services with our partners and advertisers. The information will not be linked to any personal identifiable information. When you sign up for any third party service, information may be shared with the third party and your privacy will be maintained in accordance with the third party privacy policy. 
 
-Anyone using Adscend Media and its related services outside of the United States of America acknowledges that personal information will be collected, stored, and used by Adscend Media in the United States. As such, you agree to the transfer and storage of information in the United States. 
+INFORMATION SECURITY 
 
-**Contact Us**
+Adscend Media takes reasonable and appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of its data, including Personal Information stored or maintained on its servers and other systems. These measures include internal reviews of Adscend Media's data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to servers and systems where Adscend Media stores personal data. 
 
-If you have questions about this privacy policy, please follow the Contact link at the top of this page.
+DATA INTEGRITY 
 
-|   
----|---|---
+Adscend Media processes Personal Information only for the purposes for which it was collected and in accordance with this Privacy Policy. Adscend Media also takes reasonable steps to ensure that the Personal Information We process is accurate, complete, and current, but We depend on You and our other users to update or correct their Personal Information whenever necessary. 
+
+ACCESSING AND UPDATING PERSONAL INFORMATION 
+
+Except as required by the Terms of Service, You may change the settings of Your Adscend Media account via the "settings" section of such account. You may organize or delete certain information through such settings or, alternately, terminate Your Adscend Media account. Adscend Media reserves the right to retain archival copies of information that You delete. Adscend will only use Your deleted information for the purposes of detecting and avoiding fraud and will share such information with third parties only when We believe that it is reasonably necessary to do so in order to comply with a subpoena or other judicial order or process, as otherwise required by law or in order to enforce Adscend Media's Terms of Service. 
+
+When you use the Website, Adscend Media makes good faith efforts to provide you with access to your Personal Information. Where applicable, Adscend Media asks individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and Adscend Media may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case, where Adscend Media provides information access and correction, Adscend Media provides this service free of charge, except if doing so would require a disproportionate effort. 
+
+ENFORCEMENT 
+
+Adscend Media regularly reviews its compliance with this Privacy Policy. Please direct any questions or concerns regarding this Privacy Policy or Adscend Media's treatment of Personal Information by contacting Adscend Media at the address below. When Adscend Media receives formal written complaints at this address, its policy is to contact the complaining user regarding his or her concerns. Adscend Media will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of Personal Information that cannot be resolved between an individual and Adscend Media. 
+
+MINORS 
+
+Adscend Media is not interested in accepting and does not knowingly collect information from individuals under the age of 18. 
+
+INTERNATIONAL PERSONS 
+
+If you are located outside of the United States, You acknowledge and agree that by using the Adscend Media Services and by accessing the Website, Your Personal Information will be collected, stored, and used by Adscend Media in the United States. As such, you agree to the collection, transfer, storage and use of Your information in the United States and that the collection, storage, transfer and use of any of Your information will be governed by the laws of the United States. 
+
+GENERALLY 
+
+Please note that this Privacy Policy may change from time to time. Adscend Media will post any changes on this page of the Website. Adscend Media encourages You to check back and review this policy periodically so that You will always know what information We collect, how We use it, and to whom We disclose it. 
+
+If You have any additional questions or concerns about this Policy, please contact us by clicking on the link below. 
+
+CALIFORNIA PRIVACY RIGHTS 
+
+California Civil Code Section 1798.83 allows users who are California residents to request information about the disclosure of their personal information to third parties for direct marketing purposes. To make such a request, please contact us by clicking on the link below. 
+
+MORE INFORMATION 
+
+Adscend Media adheres to the US safe harbor privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement. For more information about the Safe Harbor framework, see the Department of Commerce's web site. 
+
+SEVERABILITY 
+
+If any provision of this Privacy Policy is found to be illegal, void, or unenforceable, that provision will be deemed severed from the balance of the agreement and will not affect the validity and enforceability of the remaining provisions, which will continue in full force and effect. 
+
+This page was lasted updated on April 17, 2012. 
+
+[Contact Us](https://web.archive.org/web/20120513102643id_/http%3A//adscendmedia.com/contact.php)
