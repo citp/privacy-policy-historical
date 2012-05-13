@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trademarkcommerce.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229082225id_/http%3A//www.trademarkcommerce.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trademarkcommerce.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513131129id_/http%3A//www.trademarkcommerce.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Drop Ship Wholesale Experts As Seen On TV Hardware Housewares and more! Huge Warehouse!
 
