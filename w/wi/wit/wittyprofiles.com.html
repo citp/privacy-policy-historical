@@ -1,13 +1,14 @@
-<!--The following is the downloaded HTML source of the wittyprofiles.com privacy policy that was archived on 2011-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111230134340id_/http%3A//www.wittyprofiles.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wittyprofiles.com privacy policy that was archived on 2012-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120513065439id_/http%3A//www.wittyprofiles.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta content="WittyProfiles.com Privacy Policy" name="title"> 
+	<meta content="width=640" name="viewport">
       <meta name="description" content="Privacy Policy"> 
       <meta property="og:site_name" content="Witty Profiles">
-    <meta property="og:image" content="http://www.wittyprofiles.com/img/fb-holiday-4.png">
+    <meta property="og:image" content="http://www.wittyprofiles.com/img/fb-spring-10.png">
     <meta property="og:url" content="http://www.wittyprofiles.com/privacy">
     <title>Privacy Policy | Witty Profiles</title>
     <link rel="SHORTCUT ICON" href="/favicon.ico">
@@ -19,16 +20,291 @@
     <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-ipad.png">
     <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-iphone4.png">
     <link href="http://s3.amazonaws.com/witty-static/css/grid-16-40-20-20110629.css" type="text/css" rel="stylesheet">
-    <link href="http://s3.amazonaws.com/witty-static/css/witty20110825.css" type="text/css" rel="stylesheet"> 
+    <link href="http://s3.amazonaws.com/witty-static/css/witty20120205.css" type="text/css" rel="stylesheet">
+
 <!--[if lt IE 9]>
 <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
   <script type="text/javascript" src="http://s3.amazonaws.com/witty-static/js/jquery.js"></script>
+  <script type="text/javascript" src="http://s3.amazonaws.com/witty-static/js/jquery.livequery.js"></script>
   <script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>
   <script type="text/javascript" src="http://s3.amazonaws.com/witty-static/fckeditor/fckeditor.js"></script>
   <script type="text/javascript">
-  $(document).ready(function(){
+$(document).ready(function() {
+	setTimeout(function(){
+	// Hide the address bar!
+		window.scrollTo(0, 1);
+	}, 0);
+
+	// if the user is using an iphone or ipod, show link to mobile site at top of page
+	if(((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i))) && document.URL.substring(0,8) != 'http://m') {
+		$(".meatcol").prepend('<div class="mesg" style="text-align:center;"><a href="' + document.URL.replace(/\:\/\/www/, '://m') + '">Try the new mobile site: <strong>m.wittyprofiles.com</strong></a></div>');
+	}
+
+	// delete a user comment (xhr)
+	$("button.delete_user_comment_btn").livequery("click", function(e) {
+		e.preventDefault();
+		var user_comment_id = this.id.split("_")[1];
+		$.ajax({
+			type:"POST",
+			url:"/api.php",
+			data: {a:"delete_user_comment", user_comment_id:user_comment_id},
+			success: function(html) {
+				//$("#user_comment_status").html(html);
+				$("#comment_"+user_comment_id).fadeTo('slow', 0, function() {
+					$("#comment_"+user_comment_id).slideUp('slow', function() {
+						$("#comment_"+user_comment_id).remove();		
+					});		
+				});
+			},
+			error: function(html) {
+				alert('Something bad happened.  Please try again.');
+			}
+		});
+	});
+
+
+	// add a user comment (xhr)
+	$(".add_user_comment_btn").click(function(e) {
+		e.preventDefault();
+		var user_comment_meat = $("#user_comment_meat").val();
+		var recipient_user_id = $("#recipient_user_id").val();
+		$.ajax({
+			type:"POST",
+			url:"/api.php",
+			data: {a:"add_user_comment", recipient_user_id:recipient_user_id, user_comment_meat:user_comment_meat},
+			success: function(html) {
+				// check for flooding message / error
+				if (html.length > 200) {
+					// insert the comment into the DOM
+					// clear the comment form	
+					// $("#comments").prepend(html);
+					$(html).hide().prependTo("#comments").fadeIn("slow");
+					$("#user_comment_meat").val('');
+				} else {
+					// display error
+					$(html).hide().prependTo("#comments").fadeIn("slow");
+				}
+			},
+			error: function(html) {
+				alert('Something bad happened.  Please try again.');
+			}
+		});
+	});
+
+
+	// load more user comments
+	$("#more_user_comments_btn").click(function(e) {
+		e.preventDefault();
+		var user_id = $("#comments_user_id").val();
+		var page = parseInt($("#comments_page").val());
+		$.ajax({
+			type:"GET",
+			url:"/api.php",
+			data: {a:"get_user_comments", user_id:user_id, page:page+1},
+			success: function(html) {
+				$(html).appendTo("#comments");
+				$("#comments_page").val(page + 1);
+			},
+			error: function (html) {
+				alert('please try again.');
+			}
+		});
+	});
+
+
+
+
+	// delete a quote comment (xhr)
+	$("button.delete_quote_comment_btn").livequery("click", function(e) {
+		e.preventDefault();
+		var quote_comment_id = this.id.split("_")[1];
+		$.ajax({
+			type:"POST",
+			url:"/api.php",
+			data: {a:"delete_quote_comment", quote_comment_id:quote_comment_id},
+			success: function(html) {
+				$("#comment_"+quote_comment_id).fadeTo('slow', 0, function() {
+					$("#comment_"+quote_comment_id).slideUp('slow', function() {
+						$("#comment_"+quote_comment_id).remove();		
+					});		
+				});
+			},
+			error: function(html) {
+				alert('Something bad happened.  Please try again.');
+			}
+		});
+	});
+
+
+
+	// add a quote comment (xhr)
+	$(".add_quote_comment_btn").click(function(e) {
+		e.preventDefault();
+		var quote_comment_meat = $("#quote_comment_meat").val();
+		var quote_id = $("#quote_id").val();
+		$.ajax({
+			type:"POST",
+			url:"/api.php",
+			data: {a:"add_quote_comment", quote_id:quote_id, quote_comment_meat:quote_comment_meat},
+			success: function(html) {
+				// check for flooding message / error
+				if (html.length > 200) {
+					// insert the comment into the DOM
+					// clear the comment form	
+					// $("#comments").prepend(html);
+					$(html).hide().prependTo("#comments").fadeIn("slow");
+					$("#quote_comment_meat").val('');
+				} else {
+					// display error
+					$(html).hide().prependTo("#comments").fadeIn("slow");
+				}
+			},
+			error: function(html) {
+				alert('Something bad happened.  Please try again.');
+			}
+		});
+	});
+
+	// load more quote comments
+	$("#more_quote_comments_btn").click(function(e) {
+		e.preventDefault();
+		var quote_id = $("#comments_quote_id").val();
+		var page = parseInt($("#comments_page").val());
+		$.ajax({
+			type:"GET",
+			url:"/api.php",
+			data: {a:"get_quote_comments", quote_id:quote_id, page:page+1},
+			success: function(html) {
+				$(html).appendTo("#comments");
+				$("#comments_page").val(page + 1);
+			},
+			error: function (html) {
+				alert('please try again.');
+			}
+		});
+	});
+
+	// load more comments on quotes by a user
+	$("#more_user_quote_comments_btn").click(function(e) {
+		e.preventDefault();
+		var page = parseInt($("#comments_page").val());
+		var user_id = $("#comments_user_id").val();
+		$.ajax({
+			type:"GET",
+			url:"/api.php",
+			data: {a:"get_user_quote_comments", user_id:user_id, page:page+1},
+			success: function(html) {
+				$(html).appendTo("#comments");
+				$("#comments_page").val(page + 1);
+			},
+			error: function (html) {
+				alert('please try again.');
+			}
+		});
+	});
+
+
+	// make sure all the divs used in quotes are not fixed position
+	$(".grid_11 div").each(function (i) {
+		if (this.style.position == "fixed") {
+			this.style.position = "inherit";
+		}
+	});
+
+	// load more user comments by a user
+	$("#more_user_comments_by_user_btn").click(function(e) {
+		e.preventDefault();
+		var page = parseInt($("#comments_page").val());
+		var user_id = $("#comments_by_user_id").val();
+		$.ajax({
+			type:"GET",
+			url:"/api.php",
+			data: {a:"get_user_comments_by_user", user_id:user_id, page:page+1},
+			success: function(html) {
+				$(html).appendTo("#comments");
+				$("#comments_page").val(page + 1);
+			},
+			error: function (html) {
+				alert('please try again.');
+			}
+		});
+
+	});
+
+	// load more quote comments by a user
+	$("#more_quote_comments_by_user_btn").click(function(e) {
+		e.preventDefault();
+		var page = parseInt($("#comments_page").val());
+		var user_id = $("#quote_comments_by_user_id").val();
+		$.ajax({
+			type:"GET",
+			url:"/api.php",
+			data: {a:"get_quote_comments_by_user", user_id:user_id, page:page+1},
+			success: function(html) {
+				$(html).appendTo("#comments");
+				$("#comments_page").val(page + 1);
+			},
+			error: function (html) {
+				alert('please try again.');
+			}
+		});
+
+	});
+
+
+	// save feedback
+	$("#send_feedback_btn").click(function(e) {
+		e.preventDefault();
+		var feedback_meat = $("#feedback_meat").val();
+		var site_version = $("#site_version").val();
+		$.ajax({
+			type:"POST",
+			url:"/api.php",
+			data: {a:"send_feedback", feedback_meat:feedback_meat, site_version:site_version},
+			success: function(html) {
+				$("#feedbackform").html(html);
+			},
+			error: function (html) {
+				alert('Uhoh, please try again.');
+			}
+		});
+	});
+
+
+
+
+
+	// show the sign in form in mobile
+	$("a.feedbacklink").live("click", function() {
+		$("#feedbackform").show();
+		$("#feedback_meat").focus();
+	});
+
+
+	// show the feedback form in mobile
+	$("a.signinlink").live("click", function() {
+		$("#signinform").show();
+		$("#login_form_username").focus();
+	});
+
+
+	// make sure all the divs used in quotes are not fixed position
+	$(".grid_11 div").each(function (i) {
+		if (this.style.position == "fixed") {
+			this.style.position = "inherit";
+		}
+	});
+
+
+
+
+});
+$(document).ready(function(){
     
+    // insert an alert int othe top of the meat col
+    //$(".meatcol").prepend('<p class="mesg fineprint" style="color:#000; text-align:left;"><strong>Detox Weekend:</strong>  This weekend, all quotes will temporarily have their formatting removed.  Why do this?  Some Witty members thought it would be fun to have the top quotes be based on the content of the quote, not the formatting.  If you submit a quote with formatting during Detox Weekend, the quote will appear without formatting until Monday.  Have fun!</p>');
+
     // clear the search box when someone goes to type in it
     $("#searchbox").focus(function() {
       if ($("#searchbox").val() == 'search') {
@@ -84,7 +360,7 @@
       var quote_id = $(this).attr('id').split("_");
       quote_id = quote_id[quote_id.length - 1];
       if ($(this).hasClass("favheartOff")) {
-        favs.addToFavs(quote_id);
+        favs.addToFavs(quote_id);                                                                                       
       }
       if ($(this).hasClass("favheartOn")) {
         favs.removeFromFavs(quote_id);
@@ -108,16 +384,16 @@
 
 
     // report quote
-	$("span.report_quote_btn").live("click", function() {
+    $(".report_quote_btn").livequery("click", function() {
       $("#report_quote_section_" + this.id.split("_")[1]).toggle();
-	  var quote_id = this.id.split("_")[1];
+      var quote_id = this.id.split("_")[1];
       $("#report_quote_section_" + this.id.split("_")[1]).load('/api.php', {a:'get_report_quote_form', quote_id:quote_id});
-	});
-	$("button.report_quote_confirm_btn").live("click", function() {
+    });
+    $(".report_quote_confirm_btn").livequery("click", function() {
       var btn_id = this.id;
       $(this).attr('disabled', 'disabled')
-	  var quote_id = this.id.split("_")[1];
-	  var flag = $("input:radio[name=flagquote_" + quote_id + "]:checked").val();
+      var quote_id = this.id.split("_")[1];
+      var flag = $("input:radio[name=flagquote_" + quote_id + "]:checked").val();
       $.ajax({
         type: "POST",
         url: '/api.php',
@@ -126,32 +402,31 @@
           if (msg == 'ok') {
             $('#report_quote_section_' + quote_id).html('<p class="mesg fineprint">Thank you for bringing this quote to our attention.  You are helping to make Witty a better place.</p>');
           } else {
-			  if (msg == 'noselection') {
+              if (msg == 'noselection') {
                 $('#report_quote_section_' + quote_id).append('<p class="error fineprint">please select a reason.</p>');
                 $("#"+btn_id).removeAttr('disabled');
-			  } else {
+              } else {
                 alert('Please sign in to report this quote.');
-			  }
+              }
           }
         },
         error: function() {
           alert('uh oh, something went wrong.  Please try reporting that quote again.');
         }
       });
-	});
-
+    });
 
     // report user
-	$("span.report_user_btn").live("click", function() {
+    $(".report_user_btn").livequery("click", function() {
       $("#report_user_section_" + this.id.split("_")[1]).toggle();
-	  var user_id = this.id.split("_")[1];
+      var user_id = this.id.split("_")[1];
       $("#report_user_section_" + this.id.split("_")[1]).load('/api.php', {a:'get_report_user_form', user_id:user_id});
-	});
-	$("button.report_user_confirm_btn").live("click", function() {
+    });
+    $("button.report_user_confirm_btn").livequery("click", function() {
       var btn_id = this.id;
       $(this).attr('disabled', 'disabled')
-	  var user_id = this.id.split("_")[1];
-	  var flag = $("input:radio[name=flaguser_" + user_id + "]:checked").val();
+      var user_id = this.id.split("_")[1];
+      var flag = $("input:radio[name=flaguser_" + user_id + "]:checked").val();
       $.ajax({
         type: "POST",
         url: '/api.php',
@@ -160,32 +435,32 @@
           if (msg == 'ok') {
             $('#report_user_section_' + user_id).html('<p class="mesg fineprint">Thank you for bringing this user to our attention.  You are helping to make Witty a better place.</p>');
           } else {
-			  if (msg == 'noselection') {
+              if (msg == 'noselection') {
                 $('#report_user_section_' + user_id).append('<p class="error fineprint">please select a reason.</p>');
                 $("#"+btn_id).removeAttr('disabled');
-			  } else {
+              } else {
                 alert('Please sign in to report this user.');
-			  }
+              }
           }
         },
         error: function() {
           alert('uh oh, something went wrong.  Please try reporting that user again.');
         }
       });
-	});
+    });
 
 
     // report user comment
-	$("span.report_user_comment_btn").live("click", function() {
+    $(".report_user_comment_btn").livequery("click", function() {
       $("#report_user_comment_section_" + this.id.split("_")[1]).toggle();
-	  var user_comment_id = this.id.split("_")[1];
+      var user_comment_id = this.id.split("_")[1];
       $("#report_user_comment_section_" + this.id.split("_")[1]).load('/api.php', {a:'get_report_user_comment_form', user_comment_id:user_comment_id});
-	});
-	$("button.report_user_comment_confirm_btn").live("click", function() {
+    });
+    $("button.report_user_comment_confirm_btn").livequery("click", function() {
       var btn_id = this.id;
       $(this).attr('disabled', 'disabled')
-	  var user_comment_id = this.id.split("_")[1];
-	  var flag = $("input:radio[name=flagusercomment_" + user_comment_id + "]:checked").val();
+      var user_comment_id = this.id.split("_")[1];
+      var flag = $("input:radio[name=flagusercomment_" + user_comment_id + "]:checked").val();
       $.ajax({
         type: "POST",
         url: '/api.php',
@@ -194,33 +469,33 @@
           if (msg == 'ok') {
             $('#report_user_comment_section_' + user_comment_id).html('<p class="mesg fineprint">Thank you for bringing this comment to our attention.  You are helping to make Witty a better place.</p>');
           } else {
-			  if (msg == 'noselection') {
+              if (msg == 'noselection') {
                 $('#report_user_comment_section_' + user_comment_id).append('<p class="error fineprint">please select a reason.</p>');
                 $("#"+btn_id).removeAttr('disabled');
-			  } else {
+              } else {
                 alert('Please sign in to report this comment.');
-			  }
+              }
           }
         },
         error: function() {
           alert('uh oh, something went wrong.  Please try reporting that comment again.');
         }
       });
-	});
+    });
 
 
 
     // report quote comment
-	$("span.report_quote_comment_btn").live("click", function() {
+    $(".report_quote_comment_btn").livequery("click", function() {
       $("#report_quote_comment_section_" + this.id.split("_")[1]).toggle();
-	  var quote_comment_id = this.id.split("_")[1];
+      var quote_comment_id = this.id.split("_")[1];
       $("#report_quote_comment_section_" + this.id.split("_")[1]).load('/api.php', {a:'get_report_quote_comment_form', quote_comment_id:quote_comment_id});
-	});
-	$("button.report_quote_comment_confirm_btn").live("click", function() {
+    });
+    $("button.report_quote_comment_confirm_btn").livequery("click", function() {
       var btn_id = this.id;
       $(this).attr('disabled', 'disabled')
-	  var quote_comment_id = this.id.split("_")[1];
-	  var flag = $("input:radio[name=flagquotecomment_" + quote_comment_id + "]:checked").val();
+      var quote_comment_id = this.id.split("_")[1];
+      var flag = $("input:radio[name=flagquotecomment_" + quote_comment_id + "]:checked").val();
       $.ajax({
         type: "POST",
         url: '/api.php',
@@ -229,27 +504,27 @@
           if (msg == 'ok') {
             $('#report_quote_comment_section_' + quote_comment_id).html('<p class="mesg fineprint">Thank you for bringing this comment to our attention.  You are helping to make Witty a better place.</p>');
           } else {
-			  if (msg == 'noselection') {
+              if (msg == 'noselection') {
                 $('#report_quote_comment_section_' + quote_comment_id).append('<p class="error fineprint">please select a reason.</p>');
                 $("#"+btn_id).removeAttr('disabled');
-			  } else {
+              } else {
                 alert('Please sign in to report this comment.');
-			  }
+              }
           }
         },
         error: function() {
           alert('uh oh, something went wrong.  Please try reporting that comment again.');
         }
       });
-	});
+    });
 
 
-	// toggle quote source
-	$("span.get_quote_code").live("click", function() {
+    // toggle quote source
+    $("span.get_quote_code").live("click", function() {
       $("#code_" + this.id.split("_")[1]).toggle();
-	  var quote_id = this.id.split("_")[1];
+      var quote_id = this.id.split("_")[1];
       $("#code_" + this.id.split("_")[1]).load('/api.php', {a:'get_quote_code', quote_id:quote_id});
-	});
+    });
 
 
   });
@@ -270,9 +545,9 @@
               if (msg == 'ok') {
                 $('#fav_btn_' + quote_id).addClass('favheartOn');
                 $('#fav_btn_' + quote_id).removeClass('favheartOff');
-                $('#fav_btn_' + quote_id).attr({alt:'remove from faves', title:'remove from faves'});
+                $('#fav_btn_' + quote_id).attr({alt:'Unfave', title:'Unfave'});
                 var new_score = parseInt($('#score_' + quote_id).html()) + 1;
-                var new_label = 'Remove from Faves';
+                var new_label = 'Unfave';
                 $('#score_' + quote_id).text(new_score);
                 $('#scorelabel_' + quote_id).text(new_label);
               } else {
@@ -299,7 +574,7 @@
               if (msg == 'ok') {
                 $('#fav_btn_' + quote_id).addClass('favheartOff');
                 $('#fav_btn_' + quote_id).removeClass('favheartOn');
-                $('#fav_btn_' + quote_id).attr({alt:'add to favs', title:'add to favs'});
+                $('#fav_btn_' + quote_id).attr({alt:'Add to Faves', title:'Add to Faves'});
                 var new_score = parseInt($('#score_' + quote_id).html()) - 1;
                 var new_label = 'Add to Faves';
                 $('#score_' + quote_id).text(new_score);
@@ -316,6 +591,7 @@
 
 
       }
+
 
       var quote = {
         reportQuote : function ( quote_id ) {
@@ -395,6 +671,8 @@
 
 
       }
+
+
 
 
       var block = {
@@ -585,8 +863,6 @@
         }
 
       }
-
-
   </script> 
 
 <script type="text/javascript">
@@ -602,6 +878,12 @@
   })();
 
 </script>
+
+<style type="text/css">
+.padded_top{margin-top:10px !important;}
+.padded_bottom{margin-bottom:10px !important; }
+.padded{margin-top:10px !important; margin-bottom:10px !important;}
+</style>
 
 
 </head>
@@ -638,24 +920,24 @@
 <div style="display:none; z-index:2147483647; position:absolute; background:#313131; padding:2px 0 12px 0;" id="categories_links">
        <ul>
           <li><a href="/funny/1">Funny</a></li>
-          <li><a href="/love/1">Love</a></li>
           <li><a href="/vent/1">Vent</a></li>
+          <li><a href="/love/1">Love</a></li>
           <li><a href="/inspirational/1">Inspirational</a></li>
           <li><a href="/lyrics/1">Lyrics</a></li>
           <li><a href="/advice/1">Advice</a></li>
-          <li><a href="/break-up/1">Break Up</a></li>
           <li><a href="/story/1">Story</a></li>
           <li><a href="/friendship/1">Friendship</a></li>
+          <li><a href="/break-up/1">Break Up</a></li>
           <li><a href="/surveys/1">Surveys</a></li>
           <li><a href="/requests/1">Requests</a></li>
-          <li><a href="/away-mesgs/1">Away Mesgs</a></li>
-          <li><a href="/holiday/1">Holiday</a></li>
-          <li><a href="/flirty/1">Flirty</a></li>
-          <li><a href="/poems/1">Poems</a></li>
           <li><a href="/celeb/1">Celeb</a></li>
           <li><a href="/famous/1">Famous</a></li>
           <li><a href="/school/1">School</a></li>
+          <li><a href="/flirty/1">Flirty</a></li>
+          <li><a href="/away-mesgs/1">Away Mesgs</a></li>
+          <li><a href="/poems/1">Poems</a></li>
           <li><a href="/sports/1">Sports</a></li>
+          <li><a href="/holiday/1">Holiday</a></li>
           <li><a href="/pictures/1">Pictures</a></li>
         </ul>
 
@@ -682,6 +964,10 @@
 -->
     <div class="column grid_16" style="background:#fff;">  
       <div class="meatcol">
+
+<span style="float:right; padding:10px 0;">
+<a href="http://www.cafepress.com/wittyprofiles" alt="Witty Profiles T-Shirts" title="Witty Profiles T-Shirts"><img src="/img/witty-profiles-tshirts.png" width="90" height="90" border="0" alt="Witty Profiles T-Shirts" title="Witty Profiles T-Shirts"></a>
+</span>
 <div style="padding:10px 0; z-index:2147483646; position:relative; height:90px; width:728px; display:block;" class="please_do_not_hide_the_ads_they_make_witty_possible">
 <script type="text/javascript"><!--
 google_ad_client = "ca-pub-1231725161806454";
@@ -694,6 +980,7 @@ google_ad_height = 90;
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
 </div>
+
 
 <h2 class="">Privacy Policy</h2>
      
@@ -870,11 +1157,10 @@ google_ad_height = 90;
 <div class="row">
   <div class="column grid_16">
     <div style="background:#222; color:#ccc; padding:10px; margin:0;">
-      <p style="font-size:9pt;">© 2003-2011 Witty Profiles is the internet's largest collection of famous quotes, poetry and funny status messages to put in your online profiles.</p>
+      <p style="font-size:9pt;">© 2003-2012 Witty Profiles is the internet's largest collection of famous quotes, poetry and funny status messages to put in your online profiles.</p>
     </div>
   </div>
 </div> 
-
 </div>
 </div>
 
@@ -896,5 +1182,6 @@ class="statcounter">
 src="http://c.statcounter.com/1156915/0/e53b642e/1/"
 ></div></noscript>
 <!-- End of StatCounter Code -->
+<script type="text/javascript" src="http://platform.tumblr.com/v1/share.js"></script>
 
 </body></html>
