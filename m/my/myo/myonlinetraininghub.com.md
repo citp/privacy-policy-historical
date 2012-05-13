@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myonlinetraininghub.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101142641id_/http%3A//www.myonlinetraininghub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myonlinetraininghub.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513053204id_/http%3A//www.myonlinetraininghub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -101,8 +101,6 @@ If you wish to query a purchase please contact us at [sales@myonlinetraininghub.
 **30 Day Money Back Guarantee/Refund Policy**
 
 At MyOnlineTrainingHub.com we want you to know that your purchase is 100% risk free.  If for any reason you decide you want a refund, simply email us at [refunds@myonlinetraininghub.com](mailto:refunds@myonlinetraininghub.com) within 30 days of signing up and we will promptly refund 100% of your money, guaranteed.
-
-There’s absolutely no risk in purchasing a subscription from MyOnlineTrainingHub.com
 
 **Cancellation Policy**
 
