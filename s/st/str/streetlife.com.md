@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the streetlife.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009041523id_/http%3A//www.streetlife.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetlife.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513164907id_/http%3A//www.streetlife.com/privacy) for the most accurate reproduction.*
 
-# Streetlife – Privacy Policy
+# Privacy Policy
 
 ###  The following sets out Streetlife's Privacy policy and procedures on the collection, use and disclosure of your information. 
 
@@ -38,10 +38,8 @@ Streetlife may present links in a format that enables us to keep track of whethe
 
 ### Other sites
 
-This Privacy Policy applies to Streetlife's services only. We do not exercise control over the sites displayed as search results, sites that include Streetlife applications, products or services or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. 
+This Privacy Policy applies to Streetlife's services only. We do not exercise control over the sites displayed as search results, sites that include Streetlife applications, products or services or links from within our various services. These other sites may page their own cookies or other files on your computer, collect data or solicit personal information from you. 
 
 Streetlife processes personal information on our servers in the United Kingdom and in other countries. In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners. 
-
-Streetlife uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see ClickTale's Privacy Policy for Information Collected by the ClickTale Web Analytics Service. We are using the information collected by ClickTale service to improve the quality and usability of our site and the services it provides. You can choose to disable the Service at <http://www.clicktale.net/disable.html>. 
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent and we expect that the majority of such changes will be minor. Regardless, we will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). Each version of this Privacy Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review. 
