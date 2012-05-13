@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the magzter.com privacy policy that was archived on 2011-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111227184216id_/http%3A//www.magzter.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the magzter.com privacy policy that was archived on 2012-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120513152458id_/http%3A//www.magzter.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <link rel="icon" href="http://www.magzter.com/favicon.ico" type="image/x-icon">
@@ -7,14 +7,10 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="keywords" content="magzter, magazine, magazines, magazines in magzter, book, ebook, newsstand, news, Magazines for iPhone, Magazines for tablet">
 <meta name="description" content="Magzter takes your privacy seriously. We ensure that your details are kept confidential, secure and up to date. Read on to know about our privacy policy.">
-
-<meta property="fb:app_id" content="179098192144677">
-<meta property="og:title" content="Magzter">
-<meta property="og:type" content="website">
-<meta property="og:url" content="<%dyn_url%>">
-<meta property="og:description" content="<%dyn_description%>">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Magzter - Privacy Policy</title>
 <link href="/css/new_style.css" rel="stylesheet" type="text/css">
+<link href="/css/flag.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 /* Tooltip */
 #tooltip {
@@ -39,8 +35,11 @@
 #tooltip .tipFooter {
 	height:2px;
 }
-.popup { position: absolute; left: 280px; top: 350px; border: solid black 1px; padding: 10px; background-color: #FFFFFF; text-align: justify; font-size: 12px; width: 400px;height: 300px; overflow: auto;}
+
+.popup { position: absolute; left: 110px; top: 350px; border: solid black 1px; padding: 10px; background-color: #FFFFFF; /*text-align: justify;*/ font-size: 12px; width: 400px;height: 300px; overflow: auto;}
 </style>
+
+
 <link rel="stylesheet" type="text/css" media="screen" href="/css/datePicker.css">
 <link rel="stylesheet" type="text/css" media="screen" href="/css/demo.css">
 <link rel="stylesheet" type="text/css" media="screen" href="/css/autocomplete.css">
@@ -49,6 +48,11 @@
 <!--[if IE]>
 	<link href="/css/ie_only.css" rel="stylesheet" type="text/css">
 <![endif]-->
+
+<!--[if IE 7]>
+	<link href="/css/ie7.css" rel="stylesheet" type="text/css">
+<![endif]-->
+
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -61,56 +65,117 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
+//International store
+    function setOrgins(id){
+
+ //alert(id);
+
+        var orgin=document.getElementById(id).innerHTML;
+
+        //alert(orgin);
+
+        $.ajax({
+	   type: "POST",
+	   url: "http://www.magzter.com/ajax_set_orgin.php",
+	   data: "orgin="+orgin,
+	   success: function(msg){
+
+               location.href='http://www.magzter.com/';
+
+	   }
+	  });
+
+ }
+
+
+
+ ////End of international store
+
 </script>
 </head>
 
 <body class="innerPageBg">
 <!--overview Starts-->
 
-    <div class="overview">
+    <div class="overview" style="border: 0 solid red;
+    margin: 0 auto;
+    position: relative;
+    width: 980px;
+    overflow: visible;">
     <!--Top Section Starts-->
-    	<div class="">
-        	<div class="">
-            	<div class="">
+    	 	<div class="top_header">
                   <!--Top Left Starts-->
-                	<div class="">
-                    <h1>Magzter</h1>
                     	<span class="logo">
                     <a href="http://www.magzter.com/"><img src="/images/magzterLogo.png" title="Magzter - Digital Magazine Store" alt="Magzter - Digital Magazine Store" width="260" height="50"></a>
                     	</span>
                     	<ul class="nav">
-						   <li><a href="http://www.magzter.com/magazines" id="new_magazines">Magazines</a></li>
+		<li><a href="http://www.magzter.com/magazines" id="new_magazines">Magazines</a></li>
 
-      <li><a href="http://www.magzter.com/signup.php" id="new_publisher">Publisher</a></li>
+		<li><a href="http://www.magzter.com/signup.php" id="new_publisher">Publisher</a></li>
+		
+		<li><a href="http://itunes.apple.com/us/app/magzter-the-global-mobile/id412163953?mt=8&amp;ls=1" id="new_appstore" target="_blank">App Store</a></li>
+		
+		<li><a href="https://market.android.com/details?id=com.dci.magzter" id="new_android" target="_blank">Andoid Market</a></li>
+		
+		<li><a href="http://www.amazon.com/Magzter-Inc-The-Magzine-Store/dp/B006J9AZQ0/" id="new_amazon" target="_blank">Amazon</a></li>
+			</ul><!--<div id="sharing" style="margin: 10px 15px; float: left;"></div>-->
 
-      <li><a href="http://itunes.apple.com/us/app/magzter-the-global-mobile/id412163953?mt=8&amp;ls=1" id="new_appstore" target="_blank">App Store</a></li>
-
-       <li><a href="https://market.android.com/details?id=com.dci.magzter" id="new_android" target="_blank">Andoid Market</a></li>
-
-       <li><a href="http://www.amazon.com/Magzter-Inc-The-Magzine-Store/dp/B006J9AZQ0/" id="new_amazon" target="_blank">Amazon</a></li>
-
-                        </ul><!--<div id="sharing" style="margin: 10px 15px; float: left;"></div>-->
-                    </div>
                    <!--Top Left Ends-->
 
                    <!--Top Right Starts-->
                     <div class="navRight">
-                    	<form name="search_magazines" action="http://www.magzter.com/search_magazine.php">
-	<span class="searchbox" style="float:right;border: medium none; margin: 10px 0 0; width: 240px; height: 25px; background: url(/images/searchBg.png) no-repeat scroll 0 0;">
+                    	<form name="search_magazines" action="http://www.magzter.com/search_magazine.php" onsubmit="return restrictSearch();">
+	<span class="searchbox" style="float:left;border: medium none; margin: 10px 0 0; width: 240px; height: 25px; background: url(/images/searchBg.png) no-repeat scroll 0 0;">
 	<input name="search_magazine" class="textarea1" id="search_magazine" onfocus="this.value='';" onblur="this.value = this.value || this.defaultValue;" value="search for magazines here..." type="text" style="color: grey;height:25px;padding-left:5px;margin-top:0px;margin-right:50px;width:195px;background: url(/images/searchBg.png) no-repeat scroll 0 0 transparent;">
 	<input class="searchBtn" id="search_magazines" value="Submit" src="/images/spacer.png" style="height:30px;width:50px;" type="image">
-	</span></form>
+	</span></form><form name="search_magazines" action="http://www.magzter.com/search_magazine_quick.php" method="post">
+<div id="quickbutton">
+<img src="http://www.magzter.com/images/QSBtn.png" class="menu_class" border="0" height="30" width="114">
+
+<ul style="display: none; z-index: 10;" class="the_menu">
+<li>
+   <div class="dropdownhead">
+   <h3> <span>Quick Search</span></h3>
+  	<p style="float:left; background:#eee; color:#000; padding:5px;">
+    We make it quick &amp; easy to find your favorite magazines, books, and more!
+    </p><select name="category_glb" id="category_glb" class="dropSelect"><option value="">Any Category</option><option value="9">Art</option><option value="27">Automotive</option><option value="21">Business</option><option value="31">Celebrity</option><option value="36">Children</option><option value="28">Comics</option><option value="22">Education</option><option value="8">Entertainment</option><option value="35">Fiction</option><option value="11">Home</option><option value="12">Lifestyle</option><option value="13">Men's Interest</option><option value="32">Music</option><option value="14">News</option><option value="26">Regional - Dutch</option><option value="24">Regional - India</option><option value="25">Regional - Thai</option><option value="37">Science</option><option value="23">Sports</option><option value="15">Technology</option><option value="17">Travel</option><option value="18">Women's Interest</option></select><select name="price_glb" id="price_glb" class="dropSelect"><option value="">Any Price</option><option value="1">Free</option><option value="2-12">$0.99-$10.99</option><option value="13-21">$11.99-$20.99</option><option value="22-30">$21.99-$30.99</option><option value="31-39">$31.99-$40.99</option><option value="40-47">$41.99-$48.99</option><option value="48">Above $50</option></select><select name="language_glb" id="language_glb" class="dropSelect"><option value="">Any Language</option><option value="24">Afrikaans</option><option value="25">Akan</option><option value="26">Albanian</option><option value="27">Amharic</option><option value="28">Arabic</option><option value="20">Arabic</option><option value="29">Armenian</option><option value="152">Assamese</option><option value="30">Azerbaijani</option><option value="31">Basque</option><option value="32">Belarusian</option><option value="33">Bemba</option><option value="34">Bengali</option><option value="151">Bhojpuri</option><option value="35">Bihari</option><option value="36">Bork</option><option value="37">Bosnian</option><option value="38">Breton</option><option value="39">Bulgarian</option><option value="40">Cambodian</option><option value="41">Catalan</option><option value="42">Cherokee</option><option value="43">Chichewa</option><option value="2">Chinese</option><option value="44">Corsican</option><option value="45">Croatian</option><option value="46">Czech</option><option value="7">Danish</option><option value="13">Dutch</option><option value="47">Elmer Fudd</option><option value="1">English</option><option value="48">Esperanto</option><option value="49">Estonian</option><option value="50">Ewe</option><option value="51">Faroese</option><option value="52">Filipino</option><option value="53">Finnish</option><option value="54">French</option><option value="55">Frisian</option><option value="56">Ga</option><option value="57">Galician</option><option value="58">Georgian</option><option value="59">German</option><option value="60">Greek</option><option value="61">Guarani</option><option value="9">Gujarati</option><option value="62">Hacker</option><option value="63">Haitian Creole</option><option value="64">Hausa</option><option value="65">Hawaiian</option><option value="66">Hebrew</option><option value="14">Hindi</option><option value="12">Hungarian</option><option value="67">Icelandic</option><option value="68">Igbo</option><option value="69">Indonesian</option><option value="70">Interlingua</option><option value="71">Irish</option><option value="17">Italian</option><option value="72">Japanese</option><option value="73">Javanese</option><option value="153">Kannada</option><option value="23">Kannada</option><option value="74">Kazakh</option><option value="75">Kinyarwanda</option><option value="76">Kirundi</option><option value="77">Klingon</option><option value="78">Kongo</option><option value="79">Korean</option><option value="80">Krio</option><option value="81">Kurdish</option><option value="82">Kyrgyz</option><option value="83">Laothian</option><option value="84">Latin</option><option value="85">Latvian</option><option value="86">Lingala</option><option value="87">Lithuanian</option><option value="88">Lozi</option><option value="89">Luganda</option><option value="90">Luo</option><option value="91">Macedonian</option><option value="92">Malagasy</option><option value="93">Malay</option><option value="15">Malayalam</option><option value="94">Maltese</option><option value="95">Maori</option><option value="11">Marathi</option><option value="96">Mauritian Creole</option><option value="97">Moldavian</option><option value="98">Mongolian</option><option value="99">Montenegrin</option><option value="100">Nepali</option><option value="101">Nigerian Pidgin</option><option value="102">Norwegian</option><option value="103">Occitan</option><option value="149">Oriya</option><option value="104">Oriya</option><option value="105">Oromo</option><option value="106">Pashto</option><option value="107">Persian</option><option value="108">Pirate</option><option value="109">Polish</option><option value="22">Portuguese</option><option value="150">Punjabi</option><option value="19">Punjabi</option><option value="110">Quechua</option><option value="111">Romanian</option><option value="112">Romansh</option><option value="113">Runyakitara</option><option value="6">Russian</option><option value="114">Scots Gaelic</option><option value="115">Serbian</option><option value="116">Serbo-Croatian</option><option value="117">Sesotho</option><option value="118">Setswana</option><option value="119">Seychellois Creole</option><option value="120">Shona</option><option value="121">Sindhi</option><option value="122">Sinhalese</option><option value="123">Slovak</option><option value="124">Slovenian</option><option value="125">Somali</option><option value="5">Spanish</option><option value="126">Sundanese</option><option value="127">Swahili</option><option value="128">Swedish</option><option value="129">Tajik</option><option value="10">Tamil</option><option value="130">Tatar</option><option value="16">Telugu</option><option value="8">Thai</option><option value="131">Tigrinya</option><option value="132">Tonga</option><option value="133">Tshiluba</option><option value="134">Tumbuka</option><option value="21">Turkey</option><option value="135">Turkish</option><option value="136">Turkmen</option><option value="137">Twi</option><option value="138">Uighur</option><option value="139">Ukrainian</option><option value="148">Urdu</option><option value="140">Urdu</option><option value="141">Uzbek</option><option value="18">Vietnamese</option><option value="142">Welsh</option><option value="143">Wolof</option><option value="144">Xhosa</option><option value="145">Yiddish</option><option value="146">Yoruba</option><option value="147">Zulu</option></select><input id="searchkeyword" name="searchkeyword" class="dropSelect" style="border:1px solid #CCCCCC; width: 276px; padding: 5px 1px;" value="">
+  <input type="submit" name="Search" value="Search" formnovalidate="" class="loginbutton">
+  
+   </div>    
+    </li>
+</ul>
+</div>
+	</form> 
 <div class="clr"></div>
-<ul style="margin-top:20px;float: right;" id="link_header">
-            <li><img src="/images/sign-in.png" alt="sign in" title="sign in"><a href="http://www.magzter.com/pub_user_login.php" id="popup">Log In</a></li>
-		<li><img src="/images/sign-up.png" alt="sign up" title="sign up"><a href="http://www.magzter.com/user_signup.php">Register</a></li>
-		<li><img src="/images/contact.png" alt="contact" title="contact"><a href="http://www.magzter.com/contact">Contact</a></li>
-	  </ul>
+
+<ul class="dropdown dropdown-horizontal">
+<li> <a href="#"><img id="flag" alt="" src="http://www.magzter.com/flag/United States_flag_USA.png"></a>
+    
+<ul>
+          <li>
+            <div style="z-index:300;" id="countryList">
+              <div class="country-chooser"></div>
+              <div id="location">
+                <div class="tell">Country / Regions</div><h2 style="padding-left:0;">Asia/APac</h2><a href="#" id="2" onclick="setOrgins(this.id);">CHINA/Hong Kong</a> &nbsp;/&nbsp;<a href="#" id="1" onclick="setOrgins(this.id);">India</a> &nbsp;/&nbsp;<a href="#" id="8" onclick="setOrgins(this.id);">Malaysia</a> &nbsp;/&nbsp;<a href="#" id="16" onclick="setOrgins(this.id);">Singapore</a> &nbsp;/&nbsp;<a href="#" id="6" onclick="setOrgins(this.id);">Thailand</a> &nbsp;/&nbsp;<a href="#" id="9" onclick="setOrgins(this.id);">The Philippines</a> &nbsp;/&nbsp;<a href="#" id="10" onclick="setOrgins(this.id);">United Arab Emirates</a> &nbsp;/&nbsp;<a href="#" id="7" onclick="setOrgins(this.id);">Vietnam</a><h2 style="padding-left:0;">Europe</h2><a href="#" id="11" onclick="setOrgins(this.id);">Netherlands</a> &nbsp;/&nbsp;<a href="#" id="5" onclick="setOrgins(this.id);">United Kingdom</a><h2 style="padding-left:0;">North America</h2><a href="#" id="4" onclick="setOrgins(this.id);">United States</a><h2></h2>
+
+ <!-- top nav and messaging -->
+                <a href="#" id="international" style="font-size:15px;font-weight:normal;color:#3399FF;" onclick="setOrgins(this.id);">International store</a>
+            </div>
+          </div></li>
+        </ul>
+
+       
+</li>
+     
+</ul>
+		<ul style="margin-top:20px;float: right;display:none;" id="link_header">
+		<li><img src="/images/sign-in.png" alt="sign in" title="sign in"><a href="http://www.magzter.com/pub_user_login.php" id="popup">Log In</a></li>
+			<li><img src="/images/sign-up.png" alt="sign up" title="sign up"><a href="http://www.magzter.com/user_signup.php">Register</a></li>
+			<li><img src="/images/contact.png" alt="contact" title="contact"><a href="http://www.magzter.com/contact">Contact</a></li>
+		</ul>
                     </div>
                      <!--Top Right Ends-->
-              </div>
-            </div>
-        </div>
+          </div>
     <!--Top Section Ends-->
 
 
@@ -172,7 +237,7 @@ This Privacy Policy is effective as of June 1st 2011.</p>
        <li><a href="http://twitter.com/MobileMagzter" target="_blank"><img width="38" height="38" title="twitter" alt="twitter" align="absmiddle" src="/images/twitIcon.png"></a></li>
        <li><a href="http://www.facebook.com/mobilemagzter" target="_blank"><img width="38" height="38" title="facebook" alt="facebook" align="absmiddle" src="/images/FBIcon.png"></a></li>
      </ul>
-      <div class="copyRight">Copyright © 2011 <a href="http://www.magzter.com/">Magzter Inc</a>. All rights reserved.</div>
+      <div class="copyRight">Copyright © 2011-12 <a href="http://www.magzter.com/">Magzter Inc</a>. All rights reserved.</div>
     </div>
  </div>
    <!-- Footer Ends -->
@@ -194,6 +259,11 @@ This Privacy Policy is effective as of June 1st 2011.</p>
 	$("a#popup3").live("click",function(){
 	 $(this).fancybox();
 	});
+
+	$('img.menu_class').click(function () {
+		$('ul.the_menu').slideToggle('medium');
+	});
+
  });
 
  $(document).ready(function(){
@@ -201,7 +271,17 @@ This Privacy Policy is effective as of June 1st 2011.</p>
 
    $('#search_magazines').click(function(){
      var keyword=$('#search_magazine').val()
-     document.location.href="search/"+keyword;
+     //document.location.href="search/"+keyword;
+
+     if((keyword=="search for magazines here...") || (keyword=="") ){
+
+        return false;
+
+    }else{
+
+        return true;
+    }
+
    });
 
   $('.magazine_recent_issues').live('click',function(){
@@ -347,7 +427,9 @@ $(".morelink").click(function(){
 <script src="http://connect.facebook.net/en_US/all.js"></script>
 
 <script type="text/javascript">
-    function loginFacebook() {
+     function loginFacebook() {
+
+
 	 if (typeof(FB) != 'undefined' && FB != null ) {
         FB.init({
             appId: '179098192144677',
@@ -379,35 +461,41 @@ window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+
 
 <script type="text/javascript">
 	$(document).ready(function(){
-				var id=1;
-				var permalink="<%permalink%>";
+		var id=1;
+		var permalink="<%permalink%>";
+		var pin_permalink="<%pin_permalink%>";
+		var dyn_thumb_img = "<%pin_dyn_thumb_image%>";
+		var dyn_desc = "<%pin_dyn_description%>";
                 var mag_name ="<%magazine_name%>";
                 var mag_edition ="<%msg_edition%>";
                 var tweet_title = "Read "+mag_name+" magazine, "+mag_edition+" issue through Magzter";
-         		if(permalink==''){
-				 permalink='http://www.magzter.com';
-         		}
+		if(permalink==''){
+			permalink='http://www.magzter.com';
+		}
 
-				var title='magzter.com';
-				// gplusone button code
+		var title='magzter.com';
+		// gplusone button code
 
-				// tweet button code
-				var twitter_str = '<span style="float:left;width:100px;margin-right:5px;"><a href="http://twitter.com/share" class="twitter-share-button" data-text="'+tweet_title+'" data-count="horizontal" data-via="mobilemagzter">Tweet</a></span>';
+		// Pinit button code
+		var pinit_str = '<div style="float: left; width: 47px;padding-left:0px;margin-left:0px;position:relative;z-index:9;"><a href="http://pinterest.com/pin/create/button/?url='+pin_permalink+'&media='+dyn_thumb_img+'&description='+dyn_desc+'" class="pin-it-button" count-layout="horizontal"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" /></a></div>';
 
-				// fb like+send button code
-				var fb_str = '<span class="snap_nopreview" id="fb:like" style="float:left;width:65px;height:50px;margin-right:5px;"><fb:like href="'+permalink+'"  layout="button_count" show_faces="true"></fb:like></span>';
+		// tweet button code
+		var twitter_str = '<span style="float:left;width:75px;margin-right:5px;"><a href="http://twitter.com/share" class="twitter-share-button" data-text="'+tweet_title+'" data-count="horizontal" data-via="mobilemagzter">Tweet</a></span>';
 
- var shr_str='<span style="float:left;width:85px;margin-left:12px;margin-right: 25px;"><a class="addthis_button_facebook_like" fb:like:layout="button_count" fb:like:action="recommend"></a></span><span style="float:left;width:100px;margin-right:5px;margin-left:10px;"><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pubid=anishjohnson"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" width="83" height="16" alt="Bookmark and Share" style="border:0" /></a></span>';
+		// fb like+send button code
+		var fb_str = '<span class="snap_nopreview" id="fb:like" style="float:left;width:65px;height:50px;margin-right:15px;"><fb:like href="'+permalink+'"  layout="button_count" show_faces="true"></fb:like></span>';
 
-				// combine all
-			 	var sharing_code = twitter_str+fb_str+shr_str;
-				// replace div content with live button code
-				jQuery('div[id="sharing"]').html(sharing_code);
+		var shr_str='<span style="float:left;width:85px;margin-left:5px;margin-right:33px;"><a class="addthis_button_facebook_like" fb:like:layout="button_count" fb:like:action="recommend"></a></span><span style="float:right;width:100px;margin-right:5px;margin-left:10px;margin-top:2px;"><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pubid=anishjohnson"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" width="83" height="16" alt="Bookmark and Share" style="border:0" /></a></span>';
 
-				// show facebook button
-	          if (typeof(FB) != 'undefined' && FB != null ) {
-				FB.XFBML.parse(document.getElementById('sharing-'+id));
-              }
+		// combine all
+		var sharing_code = twitter_str+fb_str+shr_str;
+		// replace div content with live button code
+		jQuery('div[id="sharing"]').html(sharing_code);
+
+		// show facebook button
+		if (typeof(FB) != 'undefined' && FB != null ) {
+			FB.XFBML.parse(document.getElementById('sharing-'+id));
+              	}
 
 	});
 </script>
