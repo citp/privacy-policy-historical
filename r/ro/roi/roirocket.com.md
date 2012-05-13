@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roirocket.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117203144id_/http%3A//www.roirocket.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roirocket.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513075609id_/http%3A//www.roirocket.com/privacy.htm) for the most accurate reproduction.*
 
 # ROIRocket - Privacy Policy
 
