@@ -1,16 +1,20 @@
-> *The following text is extracted and transformed from the viewpoint.ca privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126152318id_/http%3A//www.viewpoint.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewpoint.ca privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513074647id_/http%3A//www.viewpoint.ca/privacy) for the most accurate reproduction.*
 
 # Your Privacy — ViewPoint.ca
 
-On most sites, this is where you would normally find incomprehensible legalese written by expensive lawyers — but not at ViewPoint.ca.
+  * Please login to access that page
 
-Our practices related to the handling of your personal information are prudent, intelligible and logical. In fact, if you were running ViewPoint.ca we would expect that you would handle personal information in the same manner that we do.
 
-## Our Privacy Policy
 
-  * We will never collect and store your personal information unless you give us permission;
+On most sites, this is where you would normally find incomprehensible legalese — but not at ViewPoint.ca.
+
+Our practices related to the handling of your personal information are prudent, intelligible and logical. In fact, if you were running ViewPoint.ca we would expect that you would handle personal information in the same manner that we do. As you have seen (or will see if you choose to register), we ask our users to provide only the personal information which is necessary to support our service.
+
+## The ViewPoint Privacy Policy
+
   * We will never sell, trade, or give away your personal information;
-  * We will only use your personal information for the purpose in which you intended;
+  * We will only request your personal information as required to operate our services;
+  * We do retain and analyze usage records;
   * We will protect and secure your personal information as though it were our own.
 
 
