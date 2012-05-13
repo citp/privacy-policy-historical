@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fandor.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201064847id_/http%3A//www.fandor.com/company/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fandor.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513212654id_/http%3A//www.fandor.com/company/privacy_policy) for the most accurate reproduction.*
 
-# Fandor - Privacy Policy
+# Privacy Policy | Fandor
 
-Revised September 30, 2011
+Revised February 22, 2011
 
 This Privacy Policy (“Policy”) explains how Our Film Festival, Inc. (“Fandor”) collects, uses, and discloses personal information in connection with Fandor’s social movie streaming service, including our software and streaming applications, our social discovery and sharing tools, and our collection of content, accessed via the Fandor site located at www.fandor.com, via Fandor applications on devices such as iPad, Roku, or Boxee, or via third-party sites such as Facebook (collectively, the “Service”). We provide this information so you can make an informed decision about using the Service and the audiovisual materials made available via the Service.
 
@@ -14,7 +14,7 @@ We reserve the right to change this Policy at any time. We will alert you that c
 
 ## What Personal Information Do We Collect?
 
-Active Collection. We collect certain information you voluntarily provide to us, such as when you create an account or profile, send us an email, order Services, pay for Services, provide or request information, or post reviews, comments, or other content on the Service. The information we collect may include personal information, such as your name, user name, social network information, credit or debit card information, and demographic information. From time-to-time, we may collect personal information that you provide by participating in surveys, promotional offers, or other similar activities.
+Active Collection. We collect certain information you voluntarily provide to us, such as when you create an account or profile, send us an email, order services, pay for services, provide or request information, or post reviews, comments, or other content on the Service. The information we collect may include personal information, such as your name, user name, social network information, credit or debit card information, and demographic information. From time-to-time, we may collect personal information that you provide by participating in surveys, promotional offers, or other similar activities.
 
 Passive Collection. When you use the Service, some information may also be automatically collected, such as your Internet Protocol (IP) address, your operating system, browser type, the address of a referring Web site, and your activity on the Service. We treat this information as personal information if we combine it with or link it to any of the identifying information mentioned above. Otherwise, it is used in the aggregate only.
 
@@ -42,18 +42,11 @@ We may store and process personal information in the United States and other cou
 
 ## What Personal Information Do We Share With Third Parties?
 
-We will not share personal information we collect from you through the Service with third parties except as described in this Policy or within the Service. For example, we may share personal information as follows:
+We will not share your personal information with others except as described in this Policy or within the Service and in limited circumstances where we believe such sharing is reasonably necessary to offer the Service, legally required, or permitted by you. For example, we may use third parties to facilitate our business to host the Service at a co-location or cloud-based server facility, to authenticate and secure your account, to send out email updates about the Service, to process payments for the Service, or to provide links to related content. In connection with these business operations we may provide certain personal information to such service providers for limited time and purpose.
 
-  * with vendors, consultants, and other service providers (“Service Providers”) engaged by or working with us in connection with operating the Service and who need access to such information to carry out their work for us
-  * when you give us your consent to do so, including if we notify you within the Service, that certain information you provide will be shared in a particular manner and you provide such information
-  * when we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or legal processes or respond to lawful requests of legal authorities, such as subpoenas, warrants, or court orders
-  * when we believe in good faith that doing so is reasonably necessary or appropriate to protect the rights, property, or safety of Fandor, our members, our employees, copyright owners, third parties, or the public, including without limitation to protect Fandor or our members from fraudulent, abusive, inappropriate or unlawful use of the Service
-  * to enforce or apply this Policy, Fandor’s [Terms of Use](https://web.archive.org/company/terms_of_use), or our other policies or agreements
-  * in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition, or in any other situation where personal information may be disclosed or transferred as part of Fandor’s assets
+Where we use third parties for the processing of any personal information, we implement reasonable contractual and technological protections that limit the use and access of that information to official Fandor-specified purposes. We do reserve the right to transfer your personal information to a successor in interest in the event of a corporate transaction that changes the ownership of Fandor or substantially all of its assets.
 
-
-
-You understand that when you use the Service, information you post in your profile, blogs, and other interactive areas of the Service, as well as any information you share or permit us to share through the Service or via third-party services like Facebook or Twitter, will be available to other users and in some cases may be publicly available. We recommend you be cautious about giving out sensitive personal information to others or sharing personal information in public online forums.
+You understand that when you use the Service, information you post in your profile, film reviews, and other interactive areas of the Service, as well as any information you share or permit us to share through the Service or via third-party services like Facebook or Twitter, will be available to other users and in some cases may be publicly available. We recommend you be cautious about giving out sensitive personal information to others or sharing personal information in public online forums.
 
 We are not responsible for the actions of third parties, nor are we responsible for any additional information you provide directly or indirectly to any third parties. We encourage you to become familiar with their privacy practices before disclosing personal information to any such parties. 
 
