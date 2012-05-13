@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theplatform.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120135224id_/http%3A//www.theplatform.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theplatform.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513154628id_/http%3A//www.theplatform.com/privacy_policy) for the most accurate reproduction.*
 
 # thePlatform Privacy Policy - thePlatform
 
