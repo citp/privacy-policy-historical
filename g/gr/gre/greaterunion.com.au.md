@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greaterunion.com.au privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101122601id_/http%3A//www.eventcinemas.com.au/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greaterunion.com.au privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513092949id_/http%3A//www.eventcinemas.com.au/Privacy) for the most accurate reproduction.*
 
 # Event Cinemas - Privacy Policy
 
@@ -38,7 +38,7 @@ Cookies are pieces of information that a website can transfer to an individual's
 
 ### Contact Information
 
-We take the privacy of your information seriously and it is important that you understand how we manage your personal information. If you have any questions or comments in relation to this Privacy Policy Statement or if you wish to access your personal information or update it please contact us at privacy@greaterunion.com.au or by mail addressed to:
+We take the privacy of your information seriously and it is important that you understand how we manage your personal information. If you have any questions or comments in relation to this Privacy Policy Statement or if you wish to access your personal information or update it please contact us at privacy@eventcinemas.com.au or by mail addressed to:
 
 Privacy  
 Greater Union Organisation  
