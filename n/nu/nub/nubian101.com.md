@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nubian101.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228153024id_/http%3A//www.juicestream.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nubian101.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513223210id_/http%3A//www.juicestream.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - JuiceStream.com
 
