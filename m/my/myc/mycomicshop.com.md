@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycomicshop.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102183138id_/http%3A//www.mycomicshop.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycomicshop.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513101610id_/http%3A//www.mycomicshop.com/help/privacy) for the most accurate reproduction.*
 
 # Comic Books - Privacy and Security
 
@@ -36,7 +36,7 @@ When you're ordering, we give you the option of saving your credit card informat
 
 If you choose not to save your information, we retain your payment information for only as long as it is necessary to charge your card. Your information is automatically cleared as soon as it is no longer needed.
 
-If you choose to allow us to reuse your credit card information, your information will be held for up to six months, after which it will be automatically cleared. You must re-enter all your credit card information any time you're shipping to an address that you have not used before. This insures that even if somebody guessed your password, they could not use your credit card to place an order for themselves. Furthermore, we require that the 3 or 4 digit card verification code be entered with **every** credit card order, even for those customers who have chosen to store their payment information for reuse. This provides an extra layer of security while still allowing you the convenience of not having to type a 16 digit number every time you order.
+If you choose to allow us to reuse your credit card information, your information will be held for up to six months, after which it will be automatically cleared. You must re-enter all your credit card information any time you're shipping to an address that you have not used before. This ensures that even if somebody guessed your password, they could not use your credit card to place an order for themselves. Furthermore, we require that the 3 or 4 digit card verification code be entered with **every** credit card order, even for those customers who have chosen to store their payment information for reuse. This provides an extra layer of security while still allowing you the convenience of not having to type a 16 digit number every time you order.
 
   
   
