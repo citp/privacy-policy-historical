@@ -1,36 +1,8 @@
-> *The following text is extracted and transformed from the parkseed.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114111125id_/http%3A//parkseed.com/privacy-statement/a/5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkseed.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513215217id_/http%3A//parkseed.com/privacy-statement/a/5) for the most accurate reproduction.*
 
 # Privacy Statement | Park Seed Co.
 
-Recently Viewed 
-
-  * [](http://parkseed.com/japanese-plum-yew/p/49287/)
-
-Japanese Plum Yew
-
-$9.95 $2.99
-
-  * [](http://parkseed.com/sugar-plant/p/5942/)
-  * [](http://parkseed.com/tomato-orange-paruche-hybrid/p/5439/)
-
-Tomato Orange Paruche Hybrid
-
-$2.95
-
-  * [](http://parkseed.com/blueberry-pink-lemonade/p/48449/)
-
-Blueberry 'Pink Lemonade'
-
-$14.95 $10.47
-
-  * [](http://parkseed.com/zinnia-zahara-double-cherry/p/51992/)
-
-Zinnia Zahara Double Cherry
-
-$2.75
-
-
-
+[](http://parkseed.com/impatiens-sunpatiens-compact-magenta/p/87628-PK-6/)
 
 Park Seed asks you to provide certain personally identifiable information in order to use certain "Password Required" features and functions of the website. By providing such information, you consent to our collection and use of it, as described in this Privacy Statement. 
 
