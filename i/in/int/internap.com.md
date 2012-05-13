@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internap.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223114300id_/http%3A//www.internap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internap.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513153018id_/http%3A//www.internap.com/privacy-policy) for the most accurate reproduction.*
 
 # Internap Privacy Policy
 
@@ -57,8 +57,8 @@ Internap complies with the U.S. – EU Safe Harbor Framework and the U.S. – Sw
 John Maggard  
 VP Audit and Compliance  
 Internap Network Services Corp.  
-250 Williams Street, Suite E-100  
-Atlanta, GA 30303  
+One Ravinia Drive, Suite 1300  
+Atlanta, GA 30346  
 [jmaggard@internap.com](mailto:%6A%6D%61%67%67%61%72%64%40%69%6E%74%65%72%6E%61%70%2E%63%6F%6D)
 
 Internap has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Internap, you may contact:
