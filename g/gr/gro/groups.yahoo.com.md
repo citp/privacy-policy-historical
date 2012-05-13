@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groups.yahoo.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202082855id_/http%3A//privacy.yahoo.com/privacy/us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groups.yahoo.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513040209id_/http%3A//privacy.yahoo.com/privacy/us) for the most accurate reproduction.*
 
 # Yahoo! Privacy Policy
 
