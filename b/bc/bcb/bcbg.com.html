@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bcbg.com privacy policy that was archived on 2011-10-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111021051034id_/http%3A//www.bcbg.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooterlink_trackorder_txt) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bcbg.com privacy policy that was archived on 2012-05-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120514004913id_/http%3A//www.bcbg.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooterlink_trackorder_txt) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; CHICset=iso-8859-1">
@@ -112,10 +112,32 @@
 			goodToGo = false;
 			return false;
 		}
-		if (document.catalogRequestForm.emailAddress.value.toLowerCase() != document.catalogRequestForm.confirmEmail.value.toLowerCase()){
-			alert("Your email address and confirmed address do not match.");
-			goodToGo = false;
-			return false;
+		
+		
+		if (document.catalogRequestForm.emailAddress.value != ""){
+			if (document.catalogRequestForm.emailAddress.value.toLowerCase() != document.catalogRequestForm.confirmEmail.value.toLowerCase()){
+				alert("Your email address and confirmed address do not match.");
+				goodToGo = false;
+				return false;
+			}
+		
+			if (!emailCheck(document.catalogRequestForm.emailAddress)){
+				goodToGo = false;
+				return false;
+			}
+		
+			if (document.catalogRequestForm.dob_month.value == "mm" || document.catalogRequestForm.dob_date.value == "dd"){
+				alert("You must enter your birthday month and date.");
+				goodToGo = false;
+				return false;
+			}
+		}
+		if (document.catalogRequestForm.dob_month.value != "mm" || document.catalogRequestForm.dob_date.value != "dd"){
+			if (document.catalogRequestForm.emailAddress.value == ""){
+				alert("If you provide a birthdate, please also provide your email.");
+				goodToGo = false;
+				return false;
+			}
 		}
 		return true;
 	}
@@ -198,7 +220,7 @@
 			<input type="hidden" name="source" value="bcbg.com">
 			<input type="hidden" name="emailPref" value="Y">
 			<input type="hidden" id="targetPage" name="targetPage" value="display=safety&amp;subdisplay=privacy&amp;clickid=footerlink_trackorder_txt">
-			<input type="hidden" name="datetime" value="October 21, 2011 1:10:34 AM EDT">
+			<input type="hidden" name="datetime" value="May 13, 2012 8:49:13 PM EDT">
 			
 			<div id="title">Catalog Request</div>
 			<div id="btnClose"><a href="javascript:hideCatalogRequest();">&nbsp;</a></div>
@@ -481,6 +503,37 @@
 					<div id="txtCountry">Country*</div>
 				</div>
 				<div class="section">
+					<div id="frmBirthDate">
+						<select id="dobDate" name="dob_date">
+							<option value="dd">dd</option>
+								<script language="Javascript">
+									for(var i=1; i<=31; i++){
+										if(i < 10){
+											document.write("<option value=\"" + 0  + i + "\">" + 0 + i + "</option>");
+										} else {
+											document.write("<option value=\"" + i + "\">" + i + "</option>");
+										}
+									}
+					            </script><option value="01">01</option><option value="02">02</option><option value="03">03</option><option value="04">04</option><option value="05">05</option><option value="06">06</option><option value="07">07</option><option value="08">08</option><option value="09">09</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option>
+						</select>
+						<select id="dobMonth" name="dob_month">
+							<option value="mm">mm</option>
+							<script language="Javascript">		
+							for(var i=1; i<=12; i++) {
+								if(i < 10){
+									document.write("<option value=\"" + 0 + i + "\">" + 0  + (i) + "</option>");
+								} else {
+									document.write("<option value=\"" + i + "\">" + (i) + "</option>");
+								}
+							}
+							</script><option value="01">01</option><option value="02">02</option><option value="03">03</option><option value="04">04</option><option value="05">05</option><option value="06">06</option><option value="07">07</option><option value="08">08</option><option value="09">09</option><option value="10">10</option><option value="11">11</option><option value="12">12</option>
+						</select>
+					
+						<br id="dobYear">
+					</div>
+					<div id="txtBirthDate">Date of Birth</div>
+				</div>
+				<div class="section">
 					<div id="frmEmail"><input class="inputText" id="email" name="emailAddress"></div>
 					<div id="txtEmail">Email</div>
 				</div>
@@ -501,24 +554,23 @@
 	<div id="header">
 		<div id="headTop">
 			<div id="lChamber">
-			  <div id="logo"><a href="/home/index.jsp" title="HOME"><img src="http://bcbg.imageg.net/images/header/bcbg_logo.gif" border="0" alt="BCBGMAXAZRIA"></a></div>
+			  <div id="logo"><a href="/home/index.jsp" title="BCBGMAXAZRIA"><img src="http://bcbg.imageg.net/images/header/bcbg_logo.gif" border="0" alt="BCBGMAXAZRIA"></a></div>
 			</div>
 			<div id="rChamber">
-				<div id="topNav">
+				<div id="topNavigation">
 					<ul id="topNav">
-	<li><a title="SHOPPING BAG (0)" href="/cart/index.jsp">SHOPPING BAG (<span id="cartItemCount">0</span>)</a></li>
-	<li><a title="MY ACCOUNT" href="https://www.bcbg.com/coreg/index.jsp?step=register">MY ACCOUNT</a></li>
-	<li><a title="EMAIL SIGN UP" href="javascript:showEmailSignup(); void(0);">EMAIL SIGN UP</a></li>
-	<li><a title="TWITTER" href="http://twitter.com/BCBGMAXAZRIA" target="_blank"><img src="http://bcbg.imageg.net/images/header/twitter.gif" alt="Twitter" width="17" height="17" border="0" title="TWITTER"></a></li>
-	<li><a title="FACEBOOK" href="http://www.facebook.com/BCBGMAXAZRIA" target="_blank"><img src="http://bcbg.imageg.net/images/header/facebook.gif" alt="FaceBook" width="17" height="17" border="0" title="FACEBOOK"></a></li>
+	<li class="nav"><a title="SHOPPING BAG (0)" href="/cart/index.jsp">SHOPPING BAG (<span id="cartItemCount">0</span>)</a></li>
+	<li class="nav"><a title="MY ACCOUNT" href="https://www.bcbg.com/coreg/index.jsp?step=register">MY ACCOUNT</a></li>
+	<li class="nav"><a class="emailSign" title="EMAIL SIGN UP" href="javascript:showEmailSignup(); void(0);">EMAIL SIGN UP</a></li>
+	<li class="social"><a title="PINTEREST" href="http://pinterest.com/bcbgmaxazria/" target="_blank"><img src="http://bcbg.imageg.net/images/header/pinterest.gif" alt="Pinterest" width="17" height="17" border="0" title="PINTEREST"></a></li>
+	<li class="social"><a class="twitter" title="TWITTER" href="http://twitter.com/BCBGMAXAZRIA" target="_blank"><img src="http://bcbg.imageg.net/images/header/twitter.gif" alt="Twitter" width="17" height="17" border="0" title="TWITTER"></a></li>
+	<li class="social"><a title="FACEBOOK" href="http://www.facebook.com/BCBGMAXAZRIA" target="_blank"><img src="http://bcbg.imageg.net/images/header/facebook.gif" alt="FaceBook" width="17" height="17" border="0" title="FACEBOOK"></a></li>
 </ul>
-				</div>
-				<div id="searchBar">
-					<div id="searchForm">
+	<div id="searchForm">
 					<form action="/searchHandler/index.jsp" name="search" style="display:inline;margin:0;">
 						<input type="hidden" name="filter" value="yes">
 						
-						<input type="hidden" name="searchId" value="10845754">				
+						<input type="hidden" name="searchId" value="12615103">				
 						
 						<div id="searchField">
 							<input type="text" id="topNavSearchText" value="SEARCH" onfocus="this.value = '';" name="keywords">
@@ -535,11 +587,15 @@
 						</div>
 					</form>
 					</div>
+				</div>
+				<div id="searchBar">
 					
-					<div id="oasSpotTop1" style="display:none;">
-							<a href="http://oas.imageg.net/O/a/s/bcbg.com/helpdesk/index.jsp/2009281382/Top1/default/empty.gif/61633134303730393465613130313730" target="_top"><img src="http://oas.imageg.net/O/a/Creatives/default/empty.gif" width="2" height="2" alt="" border="0"></a>
+					<div id="oasSpotTop1">
+							<a href="http://oas.imageg.net/O/a/s/bcbg.com/helpdesk/index.jsp/895188709/Top1/BCBG_TEST/1417_BCBG_AAG_PROMO_TICKER_TAPE.GIF/61633134303730393466623035613730" target="_top"><img src="http://oas.imageg.net/O/a/Creatives/BCBG_TEST/1417_BCBG_AAG_PROMO_TICKER_TAPE.GIF" alt="" border="0"></a>
 					</div>
 					
+				
+				
 				</div>
 			</div>
 		</div>
@@ -557,35 +613,39 @@
 <!-- Cid = -->
 
 <ul id="mainNav">
-	<li class="topCat"><a id="whats-new" href="/category/index.jsp?categoryId=4213674&amp;clickid=top_nav_na" title="WHAT'S NEW"></a>
-		<ul id="navMenu0" class="df_element_hide"><li><a title="NEW ARRIVALS" href="/family/index.jsp?categoryId=4375050&amp;cp=4213674&amp;clickid=cat_leftnav_txt" class="leftNavCategory">NEW ARRIVALS</a></li><li><a title="TOP SELLERS" href="/family/index.jsp?categoryId=3757838&amp;cp=4213674&amp;clickid=cat_leftnav_txt" class="leftNavCategory">TOP SELLERS</a></li><li><a title="SHOP TRENDS" href="/category/index.jsp?categoryId=11859629&amp;cp=4213674&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SHOP TRENDS</a></li><li><a title="FASHION EXTREMES" href="/family/index.jsp?categoryId=3915683&amp;cp=4213674&amp;clickid=cat_leftnav_txt" class="leftNavCategory">FASHION EXTREMES</a></li><li><a title="MAGAZINE ISSUE NO.3" href="/category/index.jsp?categoryId=11859635&amp;cp=4213674&amp;clickid=cat_leftnav_txt" class="leftNavCategory">MAGAZINE ISSUE NO.3</a></li></ul>
+	<li class="topCat"><a id="whats-new" href="/category/index.jsp?categoryId=4213674&amp;clickid=top_nav_new" title="WHAT'S NEW"></a>
+		<ul id="navMenu0" class="df_element_hide"><li><a title="NEW ARRIVALS" href="/family/index.jsp?categoryId=4375050&amp;cp=4213674&amp;clickid=cat_leftnav_txt" class="leftNavCategory">NEW ARRIVALS</a></li><li><a title="TOP SELLERS" href="/family/index.jsp?categoryId=3757838&amp;cp=4213674&amp;clickid=cat_leftnav_txt" class="leftNavCategory">TOP SELLERS</a></li><li><a title="SHOP TRENDS" href="/category/index.jsp?categoryId=11859629&amp;cp=4213674&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SHOP TRENDS</a></li><li><a title="MOTHER'S DAY GIFTS" href="/family/index.jsp?categoryId=12941902&amp;cp=4213674&amp;clickid=cat_leftnav_txt" class="leftNavCategory">MOTHER'S DAY GIFTS</a></li></ul>
 	</li>
-	<li class="topCat"><a id="shop-category" href="/category/index.jsp?categoryId=4213681&amp;clickid=top_nav_dresses" title="SHOP BY CATEGORY"></a>
-		<ul id="navMenu1" class="df_element_hide"><li><a title="DRESSES" href="/category/index.jsp?categoryId=2769162&amp;cp=4213681&amp;clickid=cat_leftnav_txt" class="leftNavCategory">DRESSES</a></li><li><a title="TOPS" href="/category/index.jsp?categoryId=4364320&amp;cp=4213681&amp;clickid=cat_leftnav_txt" class="leftNavCategory">TOPS</a></li><li><a title="SWEATERS" href="/family/index.jsp?categoryId=3917269&amp;cp=4213681&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SWEATERS</a></li><li><a title="JACKETS" href="/category/index.jsp?categoryId=4366384&amp;cp=4213681&amp;clickid=cat_leftnav_txt" class="leftNavCategory">JACKETS</a></li><li><a title="COATS" href="/family/index.jsp?categoryId=3896796&amp;cp=4213681&amp;clickid=cat_leftnav_txt" class="leftNavCategory">COATS</a></li><li><a title="BOTTOMS" href="/category/index.jsp?categoryId=4366394&amp;cp=4213681&amp;clickid=cat_leftnav_txt" class="leftNavCategory">BOTTOMS</a></li><li><a title="HANDBAGS" href="/category/index.jsp?categoryId=4372699&amp;cp=4213681&amp;clickid=cat_leftnav_txt" class="leftNavCategory">HANDBAGS</a></li><li><a title="FOOTWEAR" href="/category/index.jsp?categoryId=4372846&amp;cp=4213681&amp;clickid=cat_leftnav_txt" class="leftNavCategory">FOOTWEAR</a></li><li><a title="FRAGRANCE" href="/family/index.jsp?categoryId=12090059&amp;cp=4213681&amp;clickid=cat_leftnav_txt" class="leftNavCategory">FRAGRANCE</a></li><li><a title="ACCESSORIES" href="/category/index.jsp?categoryId=2769196&amp;cp=4213681&amp;clickid=cat_leftnav_txt" class="leftNavCategory">ACCESSORIES</a></li><li><a title="SHAPEWEAR" href="/family/index.jsp?categoryId=4278591&amp;cp=4213681&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SHAPEWEAR</a></li><li><a title="GIFTS" href="/category/index.jsp?categoryId=3508817&amp;cp=4213681&amp;clickid=cat_leftnav_txt" class="leftNavCategory">GIFTS</a></li><li><a title="SALE" href="/category/index.jsp?categoryId=2939729&amp;cp=4213681&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SALE</a></li></ul>
+	<!--BCBG OBM wanted me to hardcode the values not a good practice-->
+<li class="topCat"><a id="dresses" href="/family/index.jsp?categoryId=2769162&amp;clickid=top_nav_dresses" title="DRESSES">
+</a>
+	       <ul id="navMenu1" class="df_element_hide"><li><a title="VIEW ALL" href="/family/index.jsp?categoryId=2768993&amp;cp=2769162&amp;clickid=cat_leftnav_txt" class="leftNavCategory">VIEW ALL</a></li><li><a title="COCKTAIL" href="/family/index.jsp?categoryId=4370075&amp;cp=2769162&amp;clickid=cat_leftnav_txt" class="leftNavCategory">COCKTAIL</a></li><li><a title="EVENING" href="/family/index.jsp?categoryId=4370073&amp;cp=2769162&amp;clickid=cat_leftnav_txt" class="leftNavCategory">EVENING</a></li><li><a title="MAXI" href="/family/index.jsp?categoryId=12430365&amp;cp=2769162&amp;clickid=cat_leftnav_txt" class="leftNavCategory">MAXI</a></li><li><a title="CASUAL" href="/family/index.jsp?categoryId=4370076&amp;cp=2769162&amp;clickid=cat_leftnav_txt" class="leftNavCategory">CASUAL</a></li><li><a title="WEAR TO WORK" href="/family/index.jsp?categoryId=4370077&amp;cp=2769162&amp;clickid=cat_leftnav_txt" class="leftNavCategory">WEAR TO WORK</a></li><li><a title="BODY CON" href="/family/index.jsp?categoryId=12266671&amp;cp=2769162&amp;clickid=cat_leftnav_txt" class="leftNavCategory">BODY CON</a></li><li><a title="WHITE DRESSES" href="/family/index.jsp?categoryId=13016024&amp;cp=2769162&amp;clickid=cat_leftnav_txt" class="leftNavCategory">WHITE DRESSES</a></li><li><a title="SHOP BY COLOR" href="/family/index.jsp?categoryId=11461110&amp;cp=2769162&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SHOP BY COLOR</a></li><li><a title="RUNWAY" href="/family/index.jsp?categoryId=12437003&amp;cp=2769162&amp;clickid=cat_leftnav_txt" class="leftNavCategory">RUNWAY</a></li></ul>
+        </li>
+	<li class="topCat"><a id="clothing" href="/family/index.jsp?cp=4213681.2769162&amp;categoryId=12213864&amp;clickid=top_nav_clothing" title="CLOTHING"></a>
+		<ul id="navMenu2" class="df_element_hide"><li><a title="VIEW ALL" href="/family/index.jsp?categoryId=12615103&amp;cp=12213864&amp;clickid=cat_leftnav_txt" class="leftNavCategory">VIEW ALL</a></li><li><a title="TOPS" href="/category/index.jsp?categoryId=4364320&amp;cp=12213864&amp;clickid=cat_leftnav_txt" class="leftNavCategory">TOPS</a></li><li><a title="SWEATERS" href="/category/index.jsp?categoryId=3917269&amp;cp=12213864&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SWEATERS</a></li><li><a title="JACKETS" href="/family/index.jsp?categoryId=2769029&amp;cp=12213864&amp;clickid=cat_leftnav_txt" class="leftNavCategory">JACKETS</a></li><li><a title="SKIRTS" href="/category/index.jsp?categoryId=4366396&amp;cp=12213864&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SKIRTS</a></li><li><a title="PANTS" href="/category/index.jsp?categoryId=4366398&amp;cp=12213864&amp;clickid=cat_leftnav_txt" class="leftNavCategory">PANTS</a></li><li><a title="SWIM" href="/family/index.jsp?categoryId=3043420&amp;cp=12213864&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SWIM</a></li></ul>
 	</li>
-	<li class="topCat"><a id="shop-occasion" href="/category/index.jsp?categoryId=4213690&amp;clickid=top_nav_clothing" title="SHOP BOUTIQUES"></a>
-		<ul id="navMenu2" class="df_element_hide"><li><a title="COOL COQUETTES" href="/family/index.jsp?categoryId=11859650&amp;cp=4213690&amp;clickid=cat_leftnav_txt" class="leftNavCategory">COOL COQUETTES</a></li><li><a title="READY FETE GO" href="/family/index.jsp?categoryId=11859651&amp;cp=4213690&amp;clickid=cat_leftnav_txt" class="leftNavCategory">READY FETE GO</a></li><li><a title="NIGHT REIGN" href="/family/index.jsp?categoryId=11859649&amp;cp=4213690&amp;clickid=cat_leftnav_txt" class="leftNavCategory">NIGHT REIGN</a></li></ul>
+		<li class="topCat"><a id="accessories" href="/category/index.jsp?categoryId=2769196&amp;clickid=top_nav_accesories" title="ACCESSORIES"></a>
+           <ul id="navMenu3" class="df_element_hide"><li><a title="VIEW ALL" href="/family/index.jsp?categoryId=12551170&amp;cp=2769196&amp;clickid=cat_leftnav_txt" class="leftNavCategory">VIEW ALL</a></li><li><a title="HANDBAGS" href="/category/index.jsp?categoryId=4372699&amp;cp=2769196&amp;clickid=cat_leftnav_txt" class="leftNavCategory">HANDBAGS</a></li><li><a title="FOOTWEAR" href="/category/index.jsp?categoryId=4372846&amp;cp=2769196&amp;clickid=cat_leftnav_txt" class="leftNavCategory">FOOTWEAR</a></li><li><a title="JEWELRY" href="/category/index.jsp?categoryId=4374553&amp;cp=2769196&amp;clickid=cat_leftnav_txt" class="leftNavCategory">JEWELRY</a></li><li><a title="WATCHES" href="/category/index.jsp?categoryId=12502308&amp;cp=2769196&amp;clickid=cat_leftnav_txt" class="leftNavCategory">WATCHES</a></li><li><a title="BELTS" href="/family/index.jsp?categoryId=2770117&amp;cp=2769196&amp;clickid=cat_leftnav_txt" class="leftNavCategory">BELTS</a></li><li><a title="HATS &amp; SCARVES" href="/family/index.jsp?categoryId=2770122&amp;cp=2769196&amp;clickid=cat_leftnav_txt" class="leftNavCategory">HATS &amp; SCARVES</a></li><li><a title="SUNGLASSES" href="/family/index.jsp?categoryId=2770120&amp;cp=2769196&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SUNGLASSES</a></li><li><a title="HAIR ACCESSORIES" href="/family/index.jsp?categoryId=3240662&amp;cp=2769196&amp;clickid=cat_leftnav_txt" class="leftNavCategory">HAIR ACCESSORIES</a></li><li><a title="TECHNOLOGY" href="/family/index.jsp?categoryId=2770118&amp;cp=2769196&amp;clickid=cat_leftnav_txt" class="leftNavCategory">TECHNOLOGY</a></li><li><a title="FRAGRANCE" href="/family/index.jsp?categoryId=3818407&amp;cp=2769196&amp;clickid=cat_leftnav_txt" class="leftNavCategory">FRAGRANCE</a></li><li><a title="GIFTS" href="/family/index.jsp?categoryId=12090059&amp;cp=2769196&amp;clickid=cat_leftnav_txt" class="leftNavCategory">GIFTS</a></li></ul>
+	        </li>
+		<li class="topCat"><a id="magazine" href="/category/index.jsp?categoryId=11859635&amp;clickid=top_nav_magazine" title="THIS MONTH'S ISSUE"></a>
+		<ul id="navMenu4" class="df_element_hide"><li><a title="APRIL 2012" href="/category/index.jsp?categoryId=11973618&amp;cp=11859635&amp;clickid=cat_leftnav_txt" class="leftNavCategory">APRIL 2012</a></li><li><a title="MARCH 2012" href="/category/index.jsp?categoryId=12756839&amp;cp=11859635&amp;clickid=cat_leftnav_txt" class="leftNavCategory">MARCH 2012</a></li><li><a title="FEBRUARY 2012" href="/category/index.jsp?categoryId=12629817&amp;cp=11859635&amp;clickid=cat_leftnav_txt" class="leftNavCategory">FEBRUARY 2012</a></li><li><a title="JANUARY 2012" href="/category/index.jsp?categoryId=12438801&amp;cp=11859635&amp;clickid=cat_leftnav_txt" class="leftNavCategory">JANUARY 2012</a></li><li><a title="DECEMBER 2011" href="/category/index.jsp?categoryId=12324599&amp;cp=11859635&amp;clickid=cat_leftnav_txt" class="leftNavCategory">DECEMBER 2011</a></li><li><a title="NOVEMBER 2011" href="/category/index.jsp?categoryId=12281472&amp;cp=11859635&amp;clickid=cat_leftnav_txt" class="leftNavCategory">NOVEMBER 2011</a></li><li><a title="OCTOBER 2011" href="/category/index.jsp?categoryId=11973625&amp;cp=11859635&amp;clickid=cat_leftnav_txt" class="leftNavCategory">OCTOBER 2011</a></li><li><a title="SEPTEMBER 2011" href="/category/index.jsp?categoryId=11973624&amp;cp=11859635&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SEPTEMBER 2011</a></li><li><a title="AUGUST 2011" href="/category/index.jsp?categoryId=11973623&amp;cp=11859635&amp;clickid=cat_leftnav_txt" class="leftNavCategory">AUGUST 2011</a></li></ul>
 	</li>
 	<li class="topCat"><a id="sale" href="/category/index.jsp?categoryId=3591711&amp;clickid=top_nav_sale" title="Sale"></a>
-		<ul id="navMenu4" class="df_element_hide"><li><a title="NEW MARKDOWNS" href="/family/index.jsp?categoryId=3394846&amp;cp=2939729&amp;clickid=cat_leftnav_txt" class="leftNavCategory">NEW MARKDOWNS</a></li><li><a title="60% OFF" href="/family/index.jsp?categoryId=4364312&amp;cp=2939729&amp;clickid=cat_leftnav_txt" class="leftNavCategory">60% OFF</a></li><li><a title="DRESSES" href="/family/index.jsp?categoryId=3126135&amp;cp=2939729&amp;clickid=cat_leftnav_txt" class="leftNavCategory">DRESSES</a></li><li><a title="TOPS" href="/family/index.jsp?categoryId=3127125&amp;cp=2939729&amp;clickid=cat_leftnav_txt" class="leftNavCategory">TOPS</a></li><li><a title="SWEATERS" href="/family/index.jsp?categoryId=3127128&amp;cp=2939729&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SWEATERS</a></li><li><a title="JACKETS &amp; VESTS" href="/family/index.jsp?categoryId=3127129&amp;cp=2939729&amp;clickid=cat_leftnav_txt" class="leftNavCategory">JACKETS &amp; VESTS</a></li><li><a title="BOTTOMS" href="/family/index.jsp?categoryId=3127126&amp;cp=2939729&amp;clickid=cat_leftnav_txt" class="leftNavCategory">BOTTOMS</a></li><li><a title="HANDBAGS" href="/family/index.jsp?categoryId=4289069&amp;cp=2939729&amp;clickid=cat_leftnav_txt" class="leftNavCategory">HANDBAGS</a></li><li><a title="FOOTWEAR" href="/family/index.jsp?categoryId=3425673&amp;cp=2939729&amp;clickid=cat_leftnav_txt" class="leftNavCategory">FOOTWEAR</a></li><li><a title="JEWELRY" href="/family/index.jsp?categoryId=4289070&amp;cp=2939729&amp;clickid=cat_leftnav_txt" class="leftNavCategory">JEWELRY</a></li><li><a title="ACCESSORIES" href="/family/index.jsp?categoryId=3127127&amp;cp=2939729&amp;clickid=cat_leftnav_txt" class="leftNavCategory">ACCESSORIES</a></li><li><a title="VIEW ALL SALE" href="/family/index.jsp?categoryId=4015528&amp;cp=2939729&amp;clickid=cat_leftnav_txt" class="leftNavCategory">VIEW ALL SALE</a></li></ul>
+		<ul id="navMenu5" class="df_element_hide"><li><a title="VIEW ALL SALE" href="/family/index.jsp?categoryId=4015528&amp;cp=2939729&amp;clickid=cat_leftnav_txt" class="leftNavCategory">VIEW ALL SALE</a></li><li><a title="NEW MARKDOWNS" href="/family/index.jsp?categoryId=3394846&amp;cp=2939729&amp;clickid=cat_leftnav_txt" class="leftNavCategory">NEW MARKDOWNS</a></li><li><a title="UP TO 30% OFF" href="/family/index.jsp?categoryId=3465723&amp;cp=2939729&amp;clickid=cat_leftnav_txt" class="leftNavCategory">UP TO 30% OFF</a></li><li><a title="UP TO 50% OFF" href="/family/index.jsp?categoryId=4364312&amp;cp=2939729&amp;clickid=cat_leftnav_txt" class="leftNavCategory">UP TO 50% OFF</a></li><li><a title="DRESSES" href="/family/index.jsp?categoryId=3126135&amp;cp=2939729&amp;clickid=cat_leftnav_txt" class="leftNavCategory">DRESSES</a></li><li><a title="TOPS" href="/family/index.jsp?categoryId=3127125&amp;cp=2939729&amp;clickid=cat_leftnav_txt" class="leftNavCategory">TOPS</a></li><li><a title="SWEATERS" href="/family/index.jsp?categoryId=3127128&amp;cp=2939729&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SWEATERS</a></li><li><a title="JACKETS &amp; COATS" href="/family/index.jsp?categoryId=3127129&amp;cp=2939729&amp;clickid=cat_leftnav_txt" class="leftNavCategory">JACKETS &amp; COATS</a></li><li><a title="BOTTOMS" href="/family/index.jsp?categoryId=3127126&amp;cp=2939729&amp;clickid=cat_leftnav_txt" class="leftNavCategory">BOTTOMS</a></li><li><a title="JUMPSUITS" href="/family/index.jsp?categoryId=3617649&amp;cp=2939729&amp;clickid=cat_leftnav_txt" class="leftNavCategory">JUMPSUITS</a></li><li><a title="HANDBAGS" href="/family/index.jsp?categoryId=4289069&amp;cp=2939729&amp;clickid=cat_leftnav_txt" class="leftNavCategory">HANDBAGS</a></li><li><a title="FOOTWEAR" href="/family/index.jsp?categoryId=3425673&amp;cp=2939729&amp;clickid=cat_leftnav_txt" class="leftNavCategory">FOOTWEAR</a></li><li><a title="JEWELRY" href="/family/index.jsp?categoryId=4289070&amp;cp=2939729&amp;clickid=cat_leftnav_txt" class="leftNavCategory">JEWELRY</a></li><li><a title="RUNWAY" href="/family/index.jsp?categoryId=3126131&amp;cp=2939729&amp;clickid=cat_leftnav_txt" class="leftNavCategory">RUNWAY</a></li></ul>
 	</li>
-	<li class="topCat" id="Navspacer"><a id="Navspacer"></a></li>
+	<li class="topCat"><a id="Navspacer1"></a></li>
     	<li class="topCat"><a id="runway" href="/category/index.jsp?categoryId=2901570&amp;cp=2584262&amp;clickid=top_nav_runway" title="RUNWAY COLLECTION"></a>
-		<ul id="navMenu5" class="df_element_hide"><li><a title="FALL 2011" href="/family/index.jsp?categoryId=11443777&amp;cp=2901570&amp;clickid=cat_leftnav_txt" class="leftNavCategory">FALL 2011</a></li><li><a title="PRE-FALL 2011" href="/family/index.jsp?categoryId=11589151&amp;cp=2901570&amp;clickid=cat_leftnav_txt" class="leftNavCategory">PRE-FALL 2011</a></li><li><a title="SHOP RUNWAY VIDEO" href="/category/index.jsp?categoryId=3598464&amp;cp=2901570&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SHOP RUNWAY VIDEO</a></li><li><a title="DRESSES" href="/family/index.jsp?categoryId=3936812&amp;cp=2901570&amp;clickid=cat_leftnav_txt" class="leftNavCategory">DRESSES</a></li><li><a title="TOPS" href="/family/index.jsp?categoryId=3936814&amp;cp=2901570&amp;clickid=cat_leftnav_txt" class="leftNavCategory">TOPS</a></li><li><a title="BOTTOMS" href="/family/index.jsp?categoryId=3936815&amp;cp=2901570&amp;clickid=cat_leftnav_txt" class="leftNavCategory">BOTTOMS</a></li><li><a title="ACCESSORIES" href="/family/index.jsp?categoryId=3818412&amp;cp=2901570&amp;clickid=cat_leftnav_txt" class="leftNavCategory">ACCESSORIES</a></li><li><a title="VIEW ALL" href="/family/index.jsp?categoryId=3726979&amp;cp=2901570&amp;clickid=cat_leftnav_txt" class="leftNavCategory">VIEW ALL</a></li><li><a title="FALL CATALOG" href="/category/index.jsp?categoryId=4374554&amp;cp=2901570&amp;clickid=cat_leftnav_txt" class="leftNavCategory">FALL CATALOG</a></li><li><a title="PRE-FALL CATALOG" href="/category/index.jsp?categoryId=11818019&amp;cp=2901570&amp;clickid=cat_leftnav_txt" class="leftNavCategory">PRE-FALL CATALOG</a></li></ul>
+		<ul id="navMenu6" class="df_element_hide"><li><a title="SPRING 2012" href="/family/index.jsp?categoryId=12112411&amp;cp=2901570&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SPRING 2012</a></li><li><a title="PRE-SPRING 2012" href="/family/index.jsp?categoryId=12281478&amp;cp=2901570&amp;clickid=cat_leftnav_txt" class="leftNavCategory">PRE-SPRING 2012</a></li><li><a title="VIEW ALL" href="/family/index.jsp?categoryId=3726979&amp;cp=2901570&amp;clickid=cat_leftnav_txt" class="leftNavCategory">VIEW ALL</a></li><li><a title="DRESSES" href="/family/index.jsp?categoryId=3936812&amp;cp=2901570&amp;clickid=cat_leftnav_txt" class="leftNavCategory">DRESSES</a></li><li><a title="TOPS" href="/family/index.jsp?categoryId=3936814&amp;cp=2901570&amp;clickid=cat_leftnav_txt" class="leftNavCategory">TOPS</a></li><li><a title="BOTTOMS" href="/family/index.jsp?categoryId=3936815&amp;cp=2901570&amp;clickid=cat_leftnav_txt" class="leftNavCategory">BOTTOMS</a></li><li><a title="ACCESSORIES" href="/family/index.jsp?categoryId=3818412&amp;cp=2901570&amp;clickid=cat_leftnav_txt" class="leftNavCategory">ACCESSORIES</a></li><li><a title="SHOP THE RUNWAY" href="/category/index.jsp?categoryId=12637535&amp;cp=2901570&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SHOP THE RUNWAY</a></li></ul>
 	</li>
+	<li class="topCat"><a id="Navspacer2"></a></li>
 	<li class="topCat"><a id="herve" href="/category/index.jsp?categoryId=3370524&amp;cp=2584262&amp;clickid=top_nav_herve" title="HERVE LEGER"></a>
-		<ul id="navMenu7" class="df_element_hide"><li><a title="FALL 2011" href="/family/index.jsp?categoryId=3915673&amp;cp=3370524&amp;clickid=cat_leftnav_txt" class="leftNavCategory">FALL 2011</a></li><li><a title="PRE-FALL 2011" href="/family/index.jsp?categoryId=4430947&amp;cp=3370524&amp;clickid=cat_leftnav_txt" class="leftNavCategory">PRE-FALL 2011</a></li><li><a title="SPRING 2011" href="/family/index.jsp?categoryId=3947008&amp;cp=3370524&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SPRING 2011</a></li><li><a title="SIGNATURE 2011" href="/family/index.jsp?categoryId=4280890&amp;cp=3370524&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SIGNATURE 2011</a></li><li><a title="SHOP RUNWAY VIDEO" href="/category/index.jsp?categoryId=3598463&amp;cp=3370524&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SHOP RUNWAY VIDEO</a></li><li><a title="DRESSES" href="/family/index.jsp?categoryId=3376885&amp;cp=3370524&amp;clickid=cat_leftnav_txt" class="leftNavCategory">DRESSES</a></li><li><a title="TOPS" href="/family/index.jsp?categoryId=3445949&amp;cp=3370524&amp;clickid=cat_leftnav_txt" class="leftNavCategory">TOPS</a></li><li><a title="BOTTOMS" href="/family/index.jsp?categoryId=3805083&amp;cp=3370524&amp;clickid=cat_leftnav_txt" class="leftNavCategory">BOTTOMS</a></li><li><a title="ACCESSORIES" href="/family/index.jsp?categoryId=3793708&amp;cp=3370524&amp;clickid=cat_leftnav_txt" class="leftNavCategory">ACCESSORIES</a></li><li><a title="VIEW ALL" href="/family/index.jsp?categoryId=3370525&amp;cp=3370524&amp;clickid=cat_leftnav_txt" class="leftNavCategory">VIEW ALL</a></li><li><a title="FALL CATALOG" href="/category/index.jsp?categoryId=11973618&amp;cp=3370524&amp;clickid=cat_leftnav_txt" class="leftNavCategory">FALL CATALOG</a></li><li><a title="PRE-FALL CATALOG" href="/category/index.jsp?categoryId=11818020&amp;cp=3370524&amp;clickid=cat_leftnav_txt" class="leftNavCategory">PRE-FALL CATALOG</a></li><li><a title="SIGNATURE LOOKBOOK" href="/category/index.jsp?categoryId=4370072&amp;cp=3370524&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SIGNATURE LOOKBOOK</a></li><li><a title="SPRING AD CAMPAIGN" href="/category/index.jsp?categoryId=3757857&amp;cp=3370524&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SPRING AD CAMPAIGN</a></li></ul>
+		<ul id="navMenu7" class="df_element_hide"><li><a title="SPRING 2012" href="/family/index.jsp?categoryId=12112426&amp;cp=3370524&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SPRING 2012</a></li><li><a title="PRE-SPRING 2012" href="/family/index.jsp?categoryId=12281479&amp;cp=3370524&amp;clickid=cat_leftnav_txt" class="leftNavCategory">PRE-SPRING 2012</a></li><li><a title="SIGNATURE 2012" href="/family/index.jsp?categoryId=12686035&amp;cp=3370524&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SIGNATURE 2012</a></li><li><a title="VIEW ALL" href="/family/index.jsp?categoryId=3370525&amp;cp=3370524&amp;clickid=cat_leftnav_txt" class="leftNavCategory">VIEW ALL</a></li><li><a title="DRESSES" href="/family/index.jsp?categoryId=3376885&amp;cp=3370524&amp;clickid=cat_leftnav_txt" class="leftNavCategory">DRESSES</a></li><li><a title="BOTTOMS" href="/family/index.jsp?categoryId=3805083&amp;cp=3370524&amp;clickid=cat_leftnav_txt" class="leftNavCategory">BOTTOMS</a></li><li><a title="SWIM" href="/family/index.jsp?categoryId=4278753&amp;cp=3370524&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SWIM</a></li><li><a title="ACCESSORIES" href="/family/index.jsp?categoryId=3793708&amp;cp=3370524&amp;clickid=cat_leftnav_txt" class="leftNavCategory">ACCESSORIES</a></li><li><a title="SALE" href="/family/index.jsp?categoryId=3615756&amp;cp=3370524&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SALE</a></li><li><a title="SHOP THE RUNWAY" href="/category/index.jsp?categoryId=12637549&amp;cp=3370524&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SHOP THE RUNWAY</a></li><li><a title="PRE-SPRING CATALOG" href="/category/index.jsp?categoryId=11882549&amp;cp=3370524&amp;clickid=cat_leftnav_txt" class="leftNavCategory">PRE-SPRING CATALOG</a></li></ul>
 	</li>
-	<li class="topCat"><a id="max" href="/category/index.jsp?categoryId=3444435&amp;cp=2584262&amp;clickid=top_nav_max" title="MAX AZRIA "></a>
-		<ul id="navMenu6" class="df_element_hide"><li><a title="FALL 2011" href="/family/index.jsp?categoryId=11032621&amp;cp=3444435&amp;clickid=cat_leftnav_txt" class="leftNavCategory">FALL 2011</a></li><li><a title="PRE-FALL 2011" href="/family/index.jsp?categoryId=11487615&amp;cp=3444435&amp;clickid=cat_leftnav_txt" class="leftNavCategory">PRE-FALL 2011</a></li><li><a title="SPRING 2011" href="/family/index.jsp?categoryId=11032625&amp;cp=3444435&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SPRING 2011</a></li><li><a title="SHOP RUNWAY VIDEO" href="/category/index.jsp?categoryId=3603032&amp;cp=3444435&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SHOP RUNWAY VIDEO</a></li><li><a title="DRESSES" href="/family/index.jsp?categoryId=3725499&amp;cp=3444435&amp;clickid=cat_leftnav_txt" class="leftNavCategory">DRESSES</a></li><li><a title="TOPS" href="/family/index.jsp?categoryId=3805076&amp;cp=3444435&amp;clickid=cat_leftnav_txt" class="leftNavCategory">TOPS</a></li><li><a title="BOTTOMS" href="/family/index.jsp?categoryId=3805077&amp;cp=3444435&amp;clickid=cat_leftnav_txt" class="leftNavCategory">BOTTOMS</a></li><li><a title="ACCESSORIES" href="/family/index.jsp?categoryId=3793725&amp;cp=3444435&amp;clickid=cat_leftnav_txt" class="leftNavCategory">ACCESSORIES</a></li><li><a title="VIEW ALL" href="/family/index.jsp?categoryId=3444451&amp;cp=3444435&amp;clickid=cat_leftnav_txt" class="leftNavCategory">VIEW ALL</a></li><li><a title="FALL CATALOG" href="/category/index.jsp?categoryId=10845754&amp;cp=3444435&amp;clickid=cat_leftnav_txt" class="leftNavCategory">FALL CATALOG</a></li><li><a title="PRE-FALL CATALOG" href="/category/index.jsp?categoryId=11690772&amp;cp=3444435&amp;clickid=cat_leftnav_txt" class="leftNavCategory">PRE-FALL CATALOG</a></li><li><a title="SPRING AD CAMPAIGN" href="/category/index.jsp?categoryId=3577956&amp;cp=3444435&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SPRING AD CAMPAIGN</a></li><li><a title="PRE-SPRING CATALOG" href="/category/index.jsp?categoryId=2769198&amp;cp=3444435&amp;clickid=cat_leftnav_txt" class="leftNavCategory">PRE-SPRING CATALOG</a></li></ul>
+ <li class="topCat"><a id="Navspacer3"></a></li>
+	<li class="topCat"><a id="BCBGeneration" href="/category/index.jsp?categoryId=3571753&amp;clickid=top_nav_generation" title="BCBGENERATION"></a>
+		<ul id="navMenu8" class="df_element_hide"><li><a title="NEW ARRIVALS" href="/family/index.jsp?categoryId=4379494&amp;cp=3571753&amp;clickid=cat_leftnav_txt" class="leftNavCategory">NEW ARRIVALS</a></li><li><a title="JOYCE'S PICKS" href="/family/index.jsp?categoryId=3912208&amp;cp=3571753&amp;clickid=cat_leftnav_txt" class="leftNavCategory">JOYCE'S PICKS</a></li><li><a title="JOYCE'S FESTIVAL PICKS" href="/family/index.jsp?categoryId=12843679&amp;cp=3571753&amp;clickid=cat_leftnav_txt" class="leftNavCategory">JOYCE'S FESTIVAL PICKS</a></li><li><a title="ACTIVEWEAR SHOP" href="/family/index.jsp?categoryId=12646285&amp;cp=3571753&amp;clickid=cat_leftnav_txt" class="leftNavCategory">ACTIVEWEAR SHOP</a></li><li><a title="DENIM SHOP" href="/family/index.jsp?categoryId=12172386&amp;cp=3571753&amp;clickid=cat_leftnav_txt" class="leftNavCategory">DENIM SHOP</a></li><li><a title="DRESSES" href="/category/index.jsp?categoryId=4414406&amp;cp=3571753&amp;clickid=cat_leftnav_txt" class="leftNavCategory">DRESSES</a></li><li><a title="TOPS" href="/category/index.jsp?categoryId=4414404&amp;cp=3571753&amp;clickid=cat_leftnav_txt" class="leftNavCategory">TOPS</a></li><li><a title="BOTTOMS" href="/category/index.jsp?categoryId=4414405&amp;cp=3571753&amp;clickid=cat_leftnav_txt" class="leftNavCategory">BOTTOMS</a></li><li><a title="FOOTWEAR" href="/family/index.jsp?categoryId=3982536&amp;cp=3571753&amp;clickid=cat_leftnav_txt" class="leftNavCategory">FOOTWEAR</a></li><li><a title="HANDBAGS" href="/family/index.jsp?categoryId=3905243&amp;cp=3571753&amp;clickid=cat_leftnav_txt" class="leftNavCategory">HANDBAGS</a></li><li><a title="JEWELRY" href="/family/index.jsp?categoryId=4129776&amp;cp=3571753&amp;clickid=cat_leftnav_txt" class="leftNavCategory">JEWELRY</a></li><li><a title="ACCESSORIES" href="/category/index.jsp?categoryId=4414407&amp;cp=3571753&amp;clickid=cat_leftnav_txt" class="leftNavCategory">ACCESSORIES</a></li><li><a title="SALE" href="/category/index.jsp?categoryId=4299918&amp;cp=3571753&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SALE</a></li><li><a title="SPRING CATALOG" href="/category/index.jsp?categoryId=12786569&amp;cp=3571753&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SPRING CATALOG</a></li></ul>
 	</li>	
 
-	<li class="topCat"><a id="BCBGeneration" href="/category/index.jsp?categoryId=3571753&amp;clickid=top_nav_generation" title="BCBGENERATION"></a>
-		<ul id="navMenu8" class="df_element_hide"><li><a title="NEW ARRIVALS" href="/family/index.jsp?categoryId=4379494&amp;cp=3571753&amp;clickid=cat_leftnav_txt" class="leftNavCategory">NEW ARRIVALS</a></li><li><a title="JOYCE'S PICKS" href="/family/index.jsp?categoryId=3912208&amp;cp=3571753&amp;clickid=cat_leftnav_txt" class="leftNavCategory">JOYCE'S PICKS</a></li><li><a title="FALL COLOR" href="/family/index.jsp?categoryId=12145639&amp;cp=3571753&amp;clickid=cat_leftnav_txt" class="leftNavCategory">FALL COLOR</a></li><li><a title="DENIM SHOP" href="/family/index.jsp?categoryId=12172386&amp;cp=3571753&amp;clickid=cat_leftnav_txt" class="leftNavCategory">DENIM SHOP</a></li><li><a title="DRESSES" href="/category/index.jsp?categoryId=4414406&amp;cp=3571753&amp;clickid=cat_leftnav_txt" class="leftNavCategory">DRESSES</a></li><li><a title="TOPS" href="/category/index.jsp?categoryId=4414404&amp;cp=3571753&amp;clickid=cat_leftnav_txt" class="leftNavCategory">TOPS</a></li><li><a title="BOTTOMS" href="/category/index.jsp?categoryId=4414405&amp;cp=3571753&amp;clickid=cat_leftnav_txt" class="leftNavCategory">BOTTOMS</a></li><li><a title="FOOTWEAR" href="/family/index.jsp?categoryId=3982536&amp;cp=3571753&amp;clickid=cat_leftnav_txt" class="leftNavCategory">FOOTWEAR</a></li><li><a title="HANDBAGS" href="/family/index.jsp?categoryId=3905243&amp;cp=3571753&amp;clickid=cat_leftnav_txt" class="leftNavCategory">HANDBAGS</a></li><li><a title="JEWELRY" href="/family/index.jsp?categoryId=4129776&amp;cp=3571753&amp;clickid=cat_leftnav_txt" class="leftNavCategory">JEWELRY</a></li><li><a title="ACCESSORIES" href="/category/index.jsp?categoryId=4414407&amp;cp=3571753&amp;clickid=cat_leftnav_txt" class="leftNavCategory">ACCESSORIES</a></li><li><a title="SALE" href="/category/index.jsp?categoryId=4299918&amp;cp=3571753&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SALE</a></li><li><a title="FALL CATALOG" href="/category/index.jsp?categoryId=12181298&amp;cp=3571753&amp;clickid=cat_leftnav_txt" class="leftNavCategory">FALL CATALOG</a></li><li><a title="SPRING CATALOG" href="/category/index.jsp?categoryId=3757820&amp;cp=3571753&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SPRING CATALOG</a></li></ul>
-	</li>	
-	<li class="topCat"><a id="finalCut" href="/category/index.jsp?categoryId=3542295&amp;clickid=top_nav_final" title="FINAL CUT OUTLET"></a>
-		<ul id="navMenu9" class="df_element_hide"></ul>
-	</li>
 </ul>
 		</div>
 	</div>		
@@ -699,7 +759,7 @@ if (isMozillaProduct){
 	| <a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy&amp;clickid=footerlink_trackorder_txt" class="footLink">PRIVACY POLICY</a> 
 	| <a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=terms" class="footLink">TERMS OF USE</a>
 	<div class="copyright">
-		© 2011 BCBG MAX AZRIA GROUP, INC. ALL RIGHTS RESERVED.
+		© 2012 BCBG MAX AZRIA GROUP, INC. ALL RIGHTS RESERVED.
 	</div>
 
 <div align="right">
@@ -718,7 +778,7 @@ if (isMozillaProduct){
 
 
 
-<!--You are running on ashprd1_ws_11_1-->
+<!--You are running on ashprd1_ws_14_4-->
 
 
 
@@ -771,7 +831,8 @@ if(rewardsflagPage==1){
 
 
 
-<!--You are running on ashprd1_ws_11_1-->
+<!--You are running on ashprd1_ws_14_4-->
+
 
 
 
@@ -791,7 +852,7 @@ if(rewardsflagPage==1){
 
 
 
-<!--You are running on ashprd1_ws_11_1-->
+<!--You are running on ashprd1_ws_14_4-->
 
 
 
@@ -815,7 +876,7 @@ if(rewardsflagPage==1){
 
 
 
-<!--You are running on ashprd1_ws_11_1-->
+<!--You are running on ashprd1_ws_14_4-->
 
 
 
@@ -886,7 +947,7 @@ function getSREDID(){
 
 
 
-<!--You are running on ashprd1_ws_11_1-->
+<!--You are running on ashprd1_ws_14_4-->
 
 
 
@@ -900,10 +961,10 @@ function getSREDID(){
          <script language="JavaScript">
 var s_account='gsicbcbg';
 var s_server='www.bcbg.com';
-var s_hier1='MAX AZRIA ,FALL CATALOG';
-var s_eVar19='134191346814';
-var s_channel='MAX AZRIA ';
-var s_pageName='Category: FALL CATALOG';
+var s_hier1='CLOTHING,VIEW ALL';
+var s_eVar19='154440403384';
+var s_channel='CLOTHING';
+var s_pageName='CLOTHING:VIEW ALL Landing Page';
 </script>
 <script language="JavaScript" src="http://bcbg.imageg.net/include/omniture.js"></script>
 <!-- End SiteCatalyst code version: G.9. -->
@@ -930,7 +991,7 @@ var s_pageName='Category: FALL CATALOG';
 
 
 
-<!--You are running on ashprd1_ws_11_1-->
+<!--You are running on ashprd1_ws_14_4-->
 
 
 
@@ -941,6 +1002,29 @@ var s_pageName='Category: FALL CATALOG';
 
 
 
+
+
+	
+	
+	 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 
 
 
@@ -1039,6 +1123,34 @@ var s_pageName='Category: FALL CATALOG';
 		} catch(err) {}
 	</script>
 </div>
+<!-- Resonance code resxclsa.js v2.x Copyright 2004-2006 Certona Corporation www.certona.com -->
+
+
+
+
+<script type="text/javascript">
+	//variables for all pages
+ 	var resx = new Object();
+	resx.appid = "bcbg01";
+	resx.top1 = 100000;
+	resx.top2 = 100000;
+
+ 
+
+
+
+
+
+
+
+
+	
+	
+
+
+</script>
+<script type="text/javascript" src="http://bcbg.imageg.net/js/resxclsa.js"></script>
+<!-- Resonance -->
 
 
 
