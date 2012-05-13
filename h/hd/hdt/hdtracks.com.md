@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdtracks.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224001604id_/https%3A//www.hdtracks.com/index.php%3Ffile%3Dstaticpage%26pagename%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdtracks.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513113042id_/https%3A//www.hdtracks.com/index.php%3Ffile%3Dstaticpage%26pagename%3Dprivacy_policy) for the most accurate reproduction.*
 
 # HDtracks high resolution audiophile music downloads
 
