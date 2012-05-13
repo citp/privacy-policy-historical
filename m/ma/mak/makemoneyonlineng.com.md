@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makemoneyonlineng.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109095227id_/http%3A//makemoneyonlineng.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makemoneyonlineng.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513034024id_/http%3A//makemoneyonlineng.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,7 +26,7 @@ We reserve the right to disclose your personally identifiable information as req
 
 **Collection of Information**
 
-As is true of most websites, we gather certain information automatically and store it in log files. This information Includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp and click Stream data. This Information collected will be used to research, analyze and evaluate trends and content featured on the website, to order to improve the services to our consumers. Website [traffic](http://www.makemoneyonlineng.com/category/traffic/ "traffic"), that is non-identifiable by person, is used in our data collection. We may use your IP address to assist in the diagnosis and administration of our website operations. It may also be utilized in the gathering of demographic data. Occasionally, we and other websites referred to many uses cookies.
+As is true of most websites, we gather certain information automatically and store it in log files. This information Includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp and click Stream data. This Information collected will be used to research, analyze and evaluate trends and content [featured](http://makemoneyonlineng.com/category/featured/ "featured") on the website, to order to improve the services to our consumers. Website [traffic](http://www.makemoneyonlineng.com/category/traffic/ "traffic"), that is non-identifiable by person, is used in our data collection. We may use your IP address to assist in the diagnosis and administration of our website operations. It may also be utilized in the gathering of demographic data. Occasionally, we and other websites referred to many uses cookies.
 
 **Cookies**
 
@@ -62,13 +62,12 @@ Yours Truly
 Adesoji Adegbulu  
 for [MakeMoneyOnlineNg.com](http://makemoneyonlineng.com/ "http://MakeMoneyOnlineNg.com")
 
-[](http://www.alexa.com/write/review/makemoneyonlineng.com)
-
-**Want to Make Real[ Money Online](http://www.makemoneyonlineng.com/ " Money Online")?** Join my Inner Circle and Learn the secrets of how I went from working online at a loss to making real money every month, consistently on a part-time basis! Enter your full name and email address below now to get started!
-
+  
   
 
 
-#### What People Are Looking For:
+No related posts.
 
-job7 reporter net e submit biz opp main (1)jobnews7 net e submit biz opp main (1)
+Tags: [Privacy Policy](http://makemoneyonlineng.com/tag/privacy-policy/)
+
+[](http://makemoneyonlineng.com/wp-content/plugins/adrotate/adrotate-out.php?track=NjYsNCwwLGh0dHA6Ly93d3cubmFpcmFjb3cuY29tL3NlY3JldA=)
