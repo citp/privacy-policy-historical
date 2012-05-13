@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealtaker.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206173204id_/http%3A//www.dealtaker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealtaker.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513024642id_/http%3A//www.dealtaker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for DealTaker.com | Coupon Codes, Promo Codes and Discounts from DealTaker.com
 
