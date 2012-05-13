@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cakehealth.com privacy policy that was archived on 2011-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111021185346id_/https%3A//cakehealth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cakehealth.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513142426id_/https%3A//cakehealth.com/privacy) for the most accurate reproduction.*
 
 # Cake Health | Privacy
 
@@ -84,4 +84,4 @@ If you choose to send us your questions and comments via email at support@cakehe
 
 Please note that, unless we expressly advise you otherwise, the email facilities on the CakeHealth Services do not provide a means for completely secure and private communications. Although every attempt will be made to keep your information confidential, from a technical standpoint, there is still a risk. For that reason, please do not use email to communicate information to us that you consider to be confidential. 
 
-The CakeHealth Services are maintained by CakeHealth, Inc., 360 Green Street, #4, San Francisco, CA, 94133. 
+The CakeHealth Services are maintained by CakeHealth, Inc., 350 Brannan Street #330, San Francisco, CA, 94107. 
