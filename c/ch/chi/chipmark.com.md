@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chipmark.com privacy policy that was archived on 2011-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111025135911id_/https%3A//chipmark.com/Link/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chipmark.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513063404id_/https%3A//chipmark.com/Link/Privacy) for the most accurate reproduction.*
 
-# Chipmark - Privacy Policy
+# Chipmark - Privacy
 
 Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. Chipmark agrees to notify you of: 
 
