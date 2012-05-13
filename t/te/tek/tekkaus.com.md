@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tekkaus.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102031053id_/http%3A//www.tekkaus.com/2010/10/tekkauscom-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tekkaus.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513103058id_/http%3A//www.tekkaus.com/2010/10/tekkauscom-privacy-policy.html) for the most accurate reproduction.*
 
 # Tekkaus.com Privacy Policy | Tekkaus
 
@@ -31,3 +31,7 @@ This blog may contains links to other blogs, websites, forums etc. Please be awa
 If you need any clarification regarding Tekkaus.com privacy policy please feel free to contact me immediately. I can be reached at [tekkaus@gmail.com](mailto:tekkaus@gmail.com). Thanks for visiting this blog.
 
 [](http://s71.photobucket.com/albums/i159/tekkaus/Blogging/?action=view&current=TekkauscomPrivacyPolicy2.jpg)
+
+**About Tekkaus**  
+Tekkaus is the founder and editor of [Tekkaus](http://www.tekkaus.com/) and [World Lense](http://worldlense.blogspot.com/). I am a lifestyle blogger who write just about anything, emphasizing on blogging tips, social media, gadgets, music, my family and more. Learn more about me [here](http://www.tekkaus.com/2010/03/about-me-author.html). Subscribe to my [feed](http://feeds.feedburner.com/tekkaus/feed) and my facebook [page](http://www.facebook.com/Tekkausdotcom). Do connect with me on [Twitter](http://twitter.com/tekkaus)   
+
