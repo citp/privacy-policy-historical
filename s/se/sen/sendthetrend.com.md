@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendthetrend.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216164643id_/http%3A//www.sendthetrend.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendthetrend.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513190356id_/http%3A//www.sendthetrend.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -12,7 +12,7 @@ Your privacy is very important to us. Our Privacy Policy spells out Send the Tre
 
 ###### We will not disclose your personally identifiable information to third parties for their marketing purposes without your consent.
 
-This Privacy Policy explains how we collect, use and (under certain conditions) disclose your personal information. It also explains the steps we have taken to secure your personal information. Finally, it explains your options regarding the collection, use and disclosure of your personal information. By visiting our Site, you accept the practices described in this Privacy Policy and in our [Terms and](http://www.shoedazzle.com/tos) Conditions.
+This Privacy Policy explains how we collect, use and (under certain conditions) disclose your personal information. It also explains the steps we have taken to secure your personal information. Finally, it explains your options regarding the collection, use and disclosure of your personal information. By visiting our Site, you accept the practices described in this Privacy Policy and in our [Terms and](http://www.sendthetrend.com/terms-and-conditions) Conditions.
 
 ###### 
 
