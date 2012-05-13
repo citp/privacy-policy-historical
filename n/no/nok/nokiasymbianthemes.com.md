@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the nokiasymbianthemes.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101144119id_/http%3A//www.nokiasymbianthemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nokiasymbianthemes.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513073045id_/http%3A//www.nokiasymbianthemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Nokia Symbian Themes Blog | Nokia Symbian Themes
 
-Browse >
-
-[Home](http://www.nokiasymbianthemes.com/ "Browse to: Home") / Privacy Policy 
+Browse >[Home](http://www.nokiasymbianthemes.com/ "Browse to: Home") / Privacy Policy
 
 COMMITMENT TO YOUR PRIVACY
 
@@ -28,11 +26,11 @@ Nokia Symbian Themes gathers two types of information about users:
 
 
 
-**Nokia Symbian Themes Gathers User Information In The Following Processes:**
+ **Nokia Symbian Themes Gathers User Information In The Following Processes:**
 
-**_Optional Voluntary Information:_** We offer the following free services, which require some type of voluntary submission of personal information by users:
+ ** _Optional Voluntary Information:_** We offer the following free services, which require some type of voluntary submission of personal information by users:
 
-**What information do we collect?**
+ **What information do we collect?**
 
 We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey, fill out a form or submit a comment.
 
@@ -40,7 +38,7 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
 Like most websites, we use cookies and/or web beacons to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the ‘do we use cookies?’ section below for information about cookies and how we use them.
 
-**What do we use your information for?**
+ **What do we use your information for?**
 
 Any of the information we collect from you may be used in one of the following ways:
 
@@ -70,7 +68,7 @@ If you decide to opt-in to our mailing list, you will receive emails that may in
 
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-**How do we protect your information?**
+ **How do we protect your information?**
 
 We and our content partner MobiHand implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. Please take a look at the store policy further down the page for all that details.
 
@@ -78,7 +76,7 @@ We offer the use of a secure server. All supplied sensitive/credit information i
 
 After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers as that part of the transaction is not committed to our servers.
 
-**Do we use cookies?**
+ **Do we use cookies?**
 
 Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
@@ -102,29 +100,29 @@ Users may opt out of the use of the DART cookie by [visiting the Google ad and c
 
 If you wish to disable cookies (all cookies), you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-**Do we disclose any information to outside parties?**
+ **Do we disclose any information to outside parties?**
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others legal rights, property, or safety. However, random, non-personally identifiable visitor information (e.g. out of 100 people how many liked this post or that post and so on) may be provided to other parties for development, marketing, advertising etc. purposes. Don’t worry though, rest assured we still never share information of our valued users to anyone.
 
-**Third party links**
+ **Third party links**
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**California Online Privacy Protection Act Compliance**
+ **California Online Privacy Protection Act Compliance**
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
 As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘Log In’ page located at http://www.nokiasymbianthemes.com/wp-login.php
 
-**Childrens Online Privacy Protection Act Compliance**
+ **Childrens Online Privacy Protection Act Compliance**
 
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-**E-Mail to a Friend Policy**
+ **E-Mail to a Friend Policy**
 
 Our site users can choose to electronically forward a link, page, or documents to someone else by clicking “Share This”. The user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose and you are really thanked by me if you do it.
 
-**Store Policy**
+ **Store Policy**
 
 This policy covers how we treat personal information that we collect and receive, including information related to your past use of our products and services.
 
@@ -184,7 +182,7 @@ This policy covers how we treat personal information that we collect and receive
 > 
 > If you have any questions and comments about our Privacy Policy please contact our customer support.
 
-**Nokia Symbian Themes Content Policy** (Chaos Inc. the developed exclusive Themes, Games and Applications and the Posts, Images, Multimedia & Other Miscellaneous Files)
+ **Nokia Symbian Themes Content Policy** (Chaos Inc. the developed exclusive Themes, Games and Applications and the Posts, Images, Multimedia & Other Miscellaneous Files)
 
 Many downloadable software applications that we sell or provide free require the software developers to provide the customer with a registration code to convert trial versions into full versions. In these cases, we must provide the software developers with relevant customer information in order for them to generate a registration code and email it to the customer. Although we strongly encourage software developers to follow strict privacy policies, we cannot be responsible for the privacy practices that each of the software companies follow. If you are concerned about the privacy policy of a certain developer or software company, you may contact them directly or visit their individual web sites.
 
@@ -198,11 +196,11 @@ We transfer information about you if we are acquired by or merged with another c
 
 We do not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
 
-**Log Files**
+ **Log Files**
 
 Like many other Web sites, Nokia Symbian Themes makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-**Blog Comments Policy:**
+ **Blog Comments Policy:**
 
 > Definitely we enjoy hearing from you about our designs and inspirations. However, to ensure that your valued comments rather enhance and not detract from the blog, we’ve created a formal comment policy which we hope you will follow..
 > 
@@ -228,7 +226,7 @@ Like many other Web sites, Nokia Symbian Themes makes use of log files. The info
 > 
 > All links going out of the comments box is of rel=nofollow. And because of excessive spams we have implemented auto moderation for comments that provide a link to any url with the comment itself and not in the url box. Of course, if it is not spam, be sure that we will approve it right away.
 > 
-> **Please double check your links** , because any link which returns an error or leads to a site under construction or cannot load might be removed.
+>  **Please double check your links** , because any link which returns an error or leads to a site under construction or cannot load might be removed.
 > 
 > Signatures within Comments
 > 
@@ -257,7 +255,7 @@ Like many other Web sites, Nokia Symbian Themes makes use of log files. The info
 > 
 
 > 
-> **Also, if you leave an anchor text in the name box, then please include a signature name (your real name) when finishing up the comment. Otherwise, addressing to you is really difficult.**
+>  **Also, if you leave an anchor text in the name box, then please include a signature name (your real name) when finishing up the comment. Otherwise, addressing to you is really difficult.**
 > 
 > Subscribing To Comments Via E-mail
 > 
@@ -281,7 +279,7 @@ Like many other Web sites, Nokia Symbian Themes makes use of log files. The info
 > 
 > Once your comment is submitted, we reserve the rights to it.
 
-**Licenses & Terms and Conditions**
+ **Licenses & Terms and Conditions**
 
 Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website and the content found here within at <http://www.nokiasymbianthemes.com/disclaimer>
 
@@ -295,17 +293,17 @@ and
 
 Please refer to [our page](http://www.nokiasymbianthemes.com/dmca) regarding the DMCA Act for more information about any intellectual rights the developers have.
 
-**Your Consent**
+ **Your Consent**
 
 By using our site, you consent to our [privacy policy](http://www.nokiasymbianthemes.com/).
 
-**Changes to our Privacy Policy**
+ **Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
 This policy was last modified on March 14, 2009
 
-**Owner’s Words:**
+ **Owner’s Words:**
 
 Here is an honest truth from the owner and blogger of Chaos Inc.:
 
@@ -325,7 +323,7 @@ But, still you should check out their policies in case you want to know more abo
 
 [Feedburner Privacy Policy](http://www.feedburner.com/fb/a/privacy)
 
-**Contacting Us**
+ **Contacting Us**
 
 If there are any questions or you have any feedback regarding this privacy policy then you may contact us using the information below.
 
@@ -347,24 +345,11 @@ If you have any questions and comments about our Privacy Policy please contact u
 
 Be Sociable, Share!
 
-  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.nokiasymbianthemes.com%2Fprivacy-policy%20\(via%20@sociablesite\) "Twitter")
+  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.nokiasymbianthemes.com%2Fprivacy-policy%20 "Twitter")
   * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.nokiasymbianthemes.com%2Fprivacy-policy&t=Privacy%20Policy "Facebook")
   * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.nokiasymbianthemes.com%2Fprivacy-policy&ui=2&tf=1&shva=1 "email")
-  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.nokiasymbianthemes.com%2Fprivacy-policy&title=Privacy%20Policy&notes=COMMITMENT%20TO%20YOUR%20%20PRIVACY%0D%0A%0D%0AThis%20site%20is%20owned%20and%20operated%20by%20Ishtiaq%20Saddam%20who%20is%20the%20CEO%20of%20Chaos%20Inc.%20or%20Nokia%20Symbian%20Themes%20located%20under%20the%20domain%20http%3A%2F%2Fwww.nokiasymbianthemes.com%20and%20if%20you%20have%20any%20questions%20or%20queries%20regarding%20our%20pr "Delicious")
-  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.nokiasymbianthemes.com%2Fprivacy-policy&title=Privacy%20Policy&srcURL=http%3A%2F%2Fwww.nokiasymbianthemes.com%2Fprivacy-policy&srcTitle=Nokia+Symbian+Themes+Nokia+Symbian+Mobile+Themes%2C+Games+%26amp%3B+Applications+by+Chaos+Inc. "Google Reader")
-  * [](http://digg.com/submit?phase=2&url=http%3A%2F%2Fwww.nokiasymbianthemes.com%2Fprivacy-policy&title=Privacy%20Policy&bodytext=COMMITMENT%20TO%20YOUR%20%20PRIVACY%0D%0A%0D%0AThis%20site%20is%20owned%20and%20operated%20by%20Ishtiaq%20Saddam%20who%20is%20the%20CEO%20of%20Chaos%20Inc.%20or%20Nokia%20Symbian%20Themes%20located%20under%20the%20domain%20http%3A%2F%2Fwww.nokiasymbianthemes.com%20and%20if%20you%20have%20any%20questions%20or%20queries%20regarding%20our%20pr "Digg")
-  * [](http://www.google.com/bookmarks/mark?op=edit&bkmk=http%3A%2F%2Fwww.nokiasymbianthemes.com%2Fprivacy-policy&title=Privacy%20Policy&annotation=COMMITMENT%20TO%20YOUR%20%20PRIVACY%0D%0A%0D%0AThis%20site%20is%20owned%20and%20operated%20by%20Ishtiaq%20Saddam%20who%20is%20the%20CEO%20of%20Chaos%20Inc.%20or%20Nokia%20Symbian%20Themes%20located%20under%20the%20domain%20http%3A%2F%2Fwww.nokiasymbianthemes.com%20and%20if%20you%20have%20any%20questions%20or%20queries%20regarding%20our%20pr "Google Bookmarks")
-  * 
-
-
-Be Sociable, Share!
-
-  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.nokiasymbianthemes.com%2Fprivacy-policy%20\(via%20@sociablesite\) "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.nokiasymbianthemes.com%2Fprivacy-policy&t=Privacy%20Policy "Facebook")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.nokiasymbianthemes.com%2Fprivacy-policy&ui=2&tf=1&shva=1 "email")
-  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.nokiasymbianthemes.com%2Fprivacy-policy&title=Privacy%20Policy&notes=COMMITMENT%20TO%20YOUR%20%20PRIVACY%0D%0A%0D%0AThis%20site%20is%20owned%20and%20operated%20by%20Ishtiaq%20Saddam%20who%20is%20the%20CEO%20of%20Chaos%20Inc.%20or%20Nokia%20Symbian%20Themes%20located%20under%20the%20domain%20http%3A%2F%2Fwww.nokiasymbianthemes.com%20and%20if%20you%20have%20any%20questions%20or%20queries%20regarding%20our%20pr "Delicious")
-  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.nokiasymbianthemes.com%2Fprivacy-policy&title=Privacy%20Policy&srcURL=http%3A%2F%2Fwww.nokiasymbianthemes.com%2Fprivacy-policy&srcTitle=Nokia+Symbian+Themes+Nokia+Symbian+Mobile+Themes%2C+Games+%26amp%3B+Applications+by+Chaos+Inc. "Google Reader")
-  * [](http://digg.com/submit?phase=2&url=http%3A%2F%2Fwww.nokiasymbianthemes.com%2Fprivacy-policy&title=Privacy%20Policy&bodytext=COMMITMENT%20TO%20YOUR%20%20PRIVACY%0D%0A%0D%0AThis%20site%20is%20owned%20and%20operated%20by%20Ishtiaq%20Saddam%20who%20is%20the%20CEO%20of%20Chaos%20Inc.%20or%20Nokia%20Symbian%20Themes%20located%20under%20the%20domain%20http%3A%2F%2Fwww.nokiasymbianthemes.com%20and%20if%20you%20have%20any%20questions%20or%20queries%20regarding%20our%20pr "Digg")
+  *   * [](http://digg.com/submit?phase=2&url=http%3A%2F%2Fwww.nokiasymbianthemes.com%2Fprivacy-policy&title=Privacy%20Policy&bodytext=COMMITMENT%20TO%20YOUR%20%20PRIVACY%0D%0A%0D%0AThis%20site%20is%20owned%20and%20operated%20by%20Ishtiaq%20Saddam%20who%20is%20the%20CEO%20of%20Chaos%20Inc.%20or%20Nokia%20Symbian%20Themes%20located%20under%20the%20domain%20http%3A%2F%2Fwww.nokiasymbianthemes.com%20and%20if%20you%20have%20any%20questions%20or%20queries%20regarding%20our%20pr "Digg")
+  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.nokiasymbianthemes.com%2Fprivacy-policy&title=Privacy%20Policy%C2%ACes=COMMITMENT%20TO%20YOUR%20%20PRIVACY%0D%0A%0D%0AThis%20site%20is%20owned%20and%20operated%20by%20Ishtiaq%20Saddam%20who%20is%20the%20CEO%20of%20Chaos%20Inc.%20or%20Nokia%20Symbian%20Themes%20located%20under%20the%20domain%20http%3A%2F%2Fwww.nokiasymbianthemes.com%20and%20if%20you%20have%20any%20questions%20or%20queries%20regarding%20our%20pr "Delicious")
   * [](http://www.google.com/bookmarks/mark?op=edit&bkmk=http%3A%2F%2Fwww.nokiasymbianthemes.com%2Fprivacy-policy&title=Privacy%20Policy&annotation=COMMITMENT%20TO%20YOUR%20%20PRIVACY%0D%0A%0D%0AThis%20site%20is%20owned%20and%20operated%20by%20Ishtiaq%20Saddam%20who%20is%20the%20CEO%20of%20Chaos%20Inc.%20or%20Nokia%20Symbian%20Themes%20located%20under%20the%20domain%20http%3A%2F%2Fwww.nokiasymbianthemes.com%20and%20if%20you%20have%20any%20questions%20or%20queries%20regarding%20our%20pr "Google Bookmarks")
   * 
 
