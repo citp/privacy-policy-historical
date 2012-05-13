@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicdomaintreasurehunter.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016020814id_/http%3A//www.publicdomaintreasurehunter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicdomaintreasurehunter.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513110206id_/http%3A//www.publicdomaintreasurehunter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,13 +34,13 @@ You should also be aware that if you voluntarily disclose Personally Identifiabl
 
 We can be reached by contacting:
 
-EMAIL: [support@PublicDomainTreasureHunter.com](mailto:support@PublicDomainTreasureHunter.com)
+EMAIL:  debra (at) debraconrad.com
 
 Alternatively, we can be reached by snail mail at…
 
-Thought Rocket Publishing, LLC  
-1415 Hwy 85N Suite 310-216  
-Fayetteville, Georgia 30214
+Chameleon Computer Services  
+340 W 32nd Street, Suite 153  
+Yuma AZ 85364
 
 **Changes To This Policy**
 
