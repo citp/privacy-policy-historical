@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softwareprojects.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104043204id_/http%3A//www.softwareprojects.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwareprojects.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513084957id_/http%3A//www.softwareprojects.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - SoftwareProjects : Internet Marketing Services
 
