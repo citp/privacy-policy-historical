@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebooksdownloadfree.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229015324id_/http%3A//www.ebooksdownloadfree.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebooksdownloadfree.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513032804id_/http%3A//www.ebooksdownloadfree.com/privacy.php) for the most accurate reproduction.*
 
 # title
 
