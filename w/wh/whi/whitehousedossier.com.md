@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitehousedossier.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201005844id_/http%3A//www.whitehousedossier.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitehousedossier.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513175603id_/http%3A//www.whitehousedossier.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Blog on Obama: White House Dossier
 
@@ -58,6 +58,6 @@ White House Dossier may employ cookies (a small data file which your browser sto
 Security  
 To prevent unauthorized access, White House Dossier has put in place appropriate and reasonable physical, electronic, and administrative procedures to safeguard and secure Personal Information under our control.    
 Opting Out/Access  
-You may opt-out of receiving email from us at any time. Additionally, you may access, modify or delete your Personal Information you have submitted through this website. To do so, please contact us via the form on the contact page, which can be found at [http://www.whitehousedossier.com/contact/](https://web.archive.org/web/20111201005844id_/http://www.whitehousedossier.com/contact/).   
+You may opt-out of receiving email from us at any time. Additionally, you may access, modify or delete your Personal Information you have submitted through this website. To do so, please contact us via the form on the contact page, which can be found at [http://www.whitehousedossier.com/contact/](https://web.archive.org/web/20120513175603id_/http://www.whitehousedossier.com/contact/).   
   
-If you have any questions about this Policy or White House Dossier’s privacy practices, please contact us via the form on the contact page, which can be found at [http://www.whitehousedossier.com/contact/](https://web.archive.org/web/20111201005844id_/http://www.whitehousedossier.com/contact/). ****
+If you have any questions about this Policy or White House Dossier’s privacy practices, please contact us via the form on the contact page, which can be found at [http://www.whitehousedossier.com/contact/](https://web.archive.org/web/20120513175603id_/http://www.whitehousedossier.com/contact/). ****
