@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dealradar.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216175436id_/http%3A//dealradar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealradar.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513104400id_/http%3A//www.dealradar.com/privacy) for the most accurate reproduction.*
 
-# Terms and Conditions - Dealradar.com :: Local Offers | Restaurant Deals | Spa Deals | Local Deals | Deal-a-Day Sites
+# Privacy Policy - Dealradar.com :: Local Offers | Restaurant Deals | Spa Deals | Local Deals | Deal-a-Day Sites
 
 ### Effective as of September 21, 2011
 
-Dealradar.com is a reference guide that connects you with offers from local businesses in various cities. Local Offer Network, Inc. and Dealradar.com (collectively “we”) maintain Dealradar.com and all of its subdomains, syndication feeds and mobile versions referred to as &ldquot;The Site&rdquot; as a service to you our &ldquot;users&rdquot; for informational purposes only. Your access to or use of The Site means that you accept these [Terms of Use](https://web.archive.org/terms-and-conditions) and the terms and conditions of our Privacy Policy. 
+Dealradar.com is a reference guide that connects you with offers from local businesses in various cities. Local Offer Network, Inc. and Dealradar.com (collectively “we”) maintain Dealradar.com and all of its subdomains, syndication feeds and mobile versions referred to as “The Site” as a service to you our “users” for informational purposes only. Your access to or use of The Site means that you accept these [Terms of Use](https://web.archive.org/terms-and-conditions) and the terms and conditions of our Privacy Policy. 
 
 Dealradar.com is committed to maintaining the privacy of your personal information. This Privacy Policy describes how we treat personal information received about you when you visit Dealradar.com. 
 
