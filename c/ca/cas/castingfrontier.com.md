@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the castingfrontier.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120012240id_/http%3A//www.castingfrontier.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the castingfrontier.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514002244id_/http%3A//www.castingfrontier.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | Casting Frontier™
+# Casting Frontier | Privacy Policy
 
 The Casting Frontier Privacy Notice
 
