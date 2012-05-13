@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mediapiston.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210945id_/http%3A//www.mediapiston.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediapiston.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513082021id_/http%3A//www.mediapiston.com/privacy) for the most accurate reproduction.*
 
 # MediaPiston | Privacy Policy
 
-#### Last updated: 12-27-2009
+#### Last updated: 1-12-2012
 
-Protecting your privacy is important to MediaPiston and Setter Papa, LLC ("MediaPiston" or "Website"). 
+Protecting your privacy is important to us. This document describes the privacy policy of MediaPiston, a service and subsidiary of oDesk Corporation, a California corporation with its principal place of business at 901 Marshall Street, Redwood City, California U.S.A. 
 
 This Privacy Policy discusses how MediaPiston gathers, uses, and transmits the personal information you might provide while using MediaPiston and its related services ("MediaPiston"). This policy only applies to information that you provide while using the MediaPiston service and not information collected outside of our services. 
 
@@ -46,10 +46,8 @@ Compliance - We may share your information in order to comply with applicable la
 
 6\. Your comments - if you have any questions or concerns about this policy, please contact by email at info@mediapiston.com or write us at: 
 
-MediaPiston 
+MediaPiston c/o oDesk Corporation 
 
-210 3rd Ave South 
+901 Marshall Street 
 
-Suite 4A 
-
-Seattle, WA 98104 
+Redwood City, CA 94063 
