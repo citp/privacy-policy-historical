@@ -1,391 +1,714 @@
-<!--The following is the downloaded HTML source of the liquidspace.com privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231154253id_/http%3A//liquidspace.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the liquidspace.com privacy policy that was archived on 2012-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120513065241id_/https%3A//liquidspace.com/Home/Privacy-Policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html dir="ltr" lang="en-US"><head>
-<meta charset="UTF-8">
-<title>Privacy Policy| LiquidSpace - Find a Great Space to Work Now.</title>
+<!DOCTYPE html><html class="no-js"><head>
+    <title></title>
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://maps-api-ssl.google.com/maps/api/js?v=3&amp;sensor=false"></script>
+    <script type="text/javascript" src="/Content/Scripts/google.maps.ls.js"></script>
+    <script type="text/javascript" src="/combres.axd/liquidspace.common.js/1563934416/"></script>
+    <link rel="stylesheet" type="text/css" href="/combres.axd/liquidspace.common.css/692195588/">
     
-<link rel="profile" href="http://gmpg.org/xfn/11">
-<!-- CSS -->
-<link rel="stylesheet" type="text/css" media="all" href="http://107.21.120.60/wp-content/themes/liquidspace-child-theme/style.css">
-<link rel="stylesheet" type="text/css" media="all" href="http://107.21.120.60/wp-content/themes/liquidspace/skin.css">
-<!--[if IE 7]><link rel="stylesheet" type="text/css" media="all" href="http://107.21.120.60/wp-content/themes/liquidspace/ie7.css" /><![endif]-->  
+    <script type="text/javascript">
+       document.function_SSO_accountLinking_Completed = function (ns) {
+          $(document).trigger("SSO_accountLinking_Completed." + ns);
+       };
+       function authNetEventProxy(name, params) {
+          switch (name) {
+             case "successfulSave":
+                $(document).trigger("successAuthorizeNetPopup");
+                break;
+             case "cancel":
+                $(document).trigger("cancelAuthorizeNetPopup");
+                break;
+             case "resizeWindow":
+                $(document).trigger("resizeAuthorizeNetPopup", params);
+                break;
+          }
+       }
 
-<style type="text/css" media="all">
-img, div, a, h1, li, span, p, input, form{
-	behavior:url('http://107.21.120.60/wp-content/themes/liquidspace/images/iepngfix.htc');
-}
-</style>
-<!-- JS -->
-<!--<script type="text/javascript" src="http://107.21.120.60/wp-content/themes/liquidspace/script/column.js"></script>-->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://107.21.120.60/wp-content/themes/liquidspace/script/scroller/jquery-1.4.2.min.js"></script>
-<script type="text/javascript" src="http://107.21.120.60/wp-content/themes/liquidspace/script/scroller/jquery.jcarousel.js"></script>
-<script type="text/javascript">
-$(document).ready(function() {	
-	$('#mycarousel').jcarousel({
-		wrap: 'circular',
-		visible:5,
-		scroll:3,
-		start:0
-	});
-});
-</script>
-<link rel="pingback" href="http://107.21.120.60/xmlrpc.php">
+       function initUI() {
+         var linkSequence = new Devign.Sequence();
+         $("button, input:submit, input:button, .dhx_btn_set").button();
+         $(".date_time").datepicker({
+            option: $.datepicker.regional["en-US"],
+            dateFormat: "m/d/yy",
+            showOn: "button",
+            buttonImage: '/Content/images/icons/calendar-icon.png',
+            buttonImageOnly: true,
+            onSelect: function (dateText, inst) { $('form').each(function (id, data) { $(data).valid(); }); }
+         });
+         $('.textarea-resizeable').autoResize();         
+         LSHelper.HelperLib.autoEllipseText('.ui-dialog-title', $('.ui-dialog-title').parent().last().width() - 30, null, [0, 0]);
 
-	<!-- This site is optimized with the Yoast WordPress SEO plugin v0.3.5 - http://yoast.com/wordpress/seo/ -->
-	<meta name="description" content="Use LiquidSpace to find the space you need, when you need it, wherever you are. You can book space in high-end business centers, hip startup co-working spaces, or hotel conference rooms. You can even unlock private spaces for meetings at offices that have space to share">
-	<link rel="canonical" href="http://107.21.120.60/privacy/">
-	<!-- / Yoast WordPress SEO plugin. -->
+//         $('a:not(.link-processed)').each(function (ind, item) {
+//             linkSequence.add(function (currSequence, item) {
+//                 LSHelper.HelperLib.processLink(item);
+//                 setTimeout(function () { currSequence.next() }, 100);
+//             }, item);
+//         });
+//         linkSequence.start();
+        }
+        $(document).ready(function () {
 
-<link rel="alternate" type="application/rss+xml" title="liquidspace » Feed" href="http://107.21.120.60/feed/">
-<link rel="alternate" type="application/rss+xml" title="liquidspace » Comments Feed" href="http://107.21.120.60/comments/feed/">
-<link rel="alternate" type="application/rss+xml" title="liquidspace » Privacy Policy Comments Feed" href="http://107.21.120.60/privacy/feed/">
-<link rel="stylesheet" id="amr-ical-events-list-css" href="http://107.21.120.60/wp-content/plugins/amr-ical-events-list/css/icallist.css?ver=1" type="text/css" media="all">
-<link rel="stylesheet" id="amr-ical-events-list_print-css" href="http://107.21.120.60/wp-content/plugins/amr-ical-events-list/css/icalprint.css?ver=1" type="text/css" media="print">
-<link rel="stylesheet" id="contact-form-7-css" href="http://107.21.120.60/wp-content/plugins/contact-form-7/styles.css?ver=2.4.6" type="text/css" media="all">
-<script type="text/javascript" src="http://107.21.120.60/wp-includes/js/comment-reply.js?ver=20090102"></script>
-<script type="text/javascript" src="http://107.21.120.60/wp-includes/js/jquery/jquery.js?ver=1.4.2"></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://107.21.120.60/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://107.21.120.60/wp-includes/wlwmanifest.xml"> 
-<link rel="index" title="liquidspace" href="http://107.21.120.60/">
-<link rel="prev" title="Terms and Conditions" href="http://107.21.120.60/terms/">
-<link rel="next" title="Learn More" href="http://107.21.120.60/learnmore/">
-<meta name="generator" content="WordPress 3.0.1">
+           // detect IE and add class to html element
+           if ($.browser.msie) {
+              $("html").addClass("IE");
+           }
+
+           initUI();
+           window.onBeforeunload = function () {
+              LSHelper.HelperLib.blockUI();
+           };
+           $(window).unload(function () {
+              $.unblockUI();
+           });
+           $(document).ajaxError(function (e, xhr, settings, exception) {
+              if (xhr != undefined && xhr.status == 530) {
+                 if (typeof document.notLoggedInCallBack != 'undefined' && document.notLoggedInCallBack != null && $.isFunction(document.notLoggedInCallBack))
+                    document.notLoggedInCallBack();
+                 else
+                    window.location = xhr.responseText;
+              }
+              else {
+                 $.unblockUI();
+                 if (xhr.status != 404 && xhr.status != 0) {
+                    var title = $.parseJSON(xhr.responseText).title;
+                    var content = $.parseJSON(xhr.responseText).content;
+                    dialogOpt = { modal: true, minWidth: 500, title: title };
+                    LSHelper.HelperLib.showDialog({ html: content, predraw: true, dialogOptions: dialogOpt, divId: "errorDialog" });
+                 }
+              }
+           });
+           $(document).ajaxStop(function () {
+              initUI();
+              $.unblockUI();
+           });
+           $.ajaxSetup({
+              cache: false,
+              async: true
+           });
+        });
+        function GetUrl(action, controller) {
+            return '/' + controller + '/' + action;
+        }
+
+        function GetApplicationUrl() {
+            return '/';
+        }
+
+        function stopRKey(evt) {
+           var evt = (evt) ? evt : ((event) ? event : null);
+           var node = (evt.target) ? evt.target : ((evt.srcElement) ? evt.srcElement : null);
+           if ((evt.keyCode == 13) && (node.type == "text")) { return false; }
+        }
+        document.onkeypress = stopRKey; 
+    </script>
 </head>
-
-<body class="page page-id-47 page-template page-template-privacy-php">
-<!--Logo Container -->
-<div class="logo_bg">
-<div class="cmn">
-<ul>
-	<li><a href="https://app.liquidspace.com/Account/LogOn" target="_blank"><img src="http://107.21.120.60/wp-content/themes/liquidspace/images/bttn_signin.png" width="103" height="31" border="0"></a></li>
-	<li id="share_space"><a href="https://app.liquidspace.com/venuelisting/create"><img src="http://107.21.120.60/wp-content/themes/liquidspace/images/bttn_share.png" width="166" height="31" border="0"></a></li>
-</ul>
-<a href="http://107.21.120.60"><img src="http://107.21.120.60/wp-content/themes/liquidspace/images/logo.png" width="161" height="34" border="0"></a>
+<body>
+   <div class="super-header">
+   <div class="super-header-inner">
+      <div><img src="/Content/Images/super-headed-people.png" alt=""></div>
+      <div class="super-header-text">Invite people you'd like to work with to LiquidSpace</div>
+      <div class="super-header-button">
+         <div>
+            <button class="grey-button" onclick="redirectToInvite();return false;">Invite now</button>
+         </div>
+      </div>
+   </div>
 </div>
-
-<div class="spacer"></div>
-</div>
-<!--Top Container -->
-<div class="topNav">
-<div class="cmn">
-  <div class="menu-header-container"><ul id="menu-header" class="menu"><li id="menu-item-1085" class="menu-item menu-item-type-custom menu-item-1085"><a target="_blank" href="http://www.mobileworkweek.com">Mobile Work Week</a></li>
-<li id="menu-item-454" class="menu-item menu-item-type-post_type menu-item-454"><a href="http://107.21.120.60/blog/">Blog</a></li>
-<li id="menu-item-479" class="menu-item menu-item-type-custom menu-item-479"><a target="_blank" href="https://app.liquidspace.com/Account/Register">Join</a></li>
-<li id="menu-item-477" class="menu-item menu-item-type-post_type menu-item-477"><a href="http://107.21.120.60/aboutus/">About Us</a></li>
-</ul></div></div>
-<div class="spacer"></div>
-</div>
-
-
-
-		       
-		<div class="container">
-		<div id="container">
-			<div id="content" role="main">
-            
-
-				<div id="post-47" class="post-47 page type-page hentry">
-										                    	<h1 class="page-entry-title">Privacy Policy</h1>
-										<div class="page-entry-content">
-						<p>By using, accessing or participating in the Service, you agree to the terms of this Privacy<br>
-Policy. Capitalized terms not defined in this Privacy Policy have the meanings set forth<br>
-in the Terms of Use (located at <a title="Terms of Use" href="http://liquidspace.com/terms/">http://liquidspace.com/terms/</a>). We reserve the right<br>
-to change our Privacy Policy at any time. If we do this, we will post a notice that we<br>
-have made changes to this Privacy Policy on the Site for at least 7 days after the changes<br>
-are posted and will indicate at the bottom of the Privacy Policy the date these terms were<br>
-last revised. Any revisions to this Privacy Policy will become effective the earlier of (i)<br>
-the end of the foregoing 7-day period or (ii) the first time you access or use the Service<br>
-after any such changes. If you do not agree to abide by this or any future Privacy Policy,<br>
-do not use, access or participate in (or continue to use, access or participate in) the<br>
-Service.</p>
-<div class="privacy_headings">
-<h2>The Information We Collect</h2>
-</div>
-<p>When you use the Service you provide us with two types of information: (i) information<br>
-you submit via the Service and (ii) information regarding your use of the Service<br>
-collected by us as you interact with the Service.</p>
-<p>When you enter the Site, we collect your browser type and IP address. This information<br>
-is gathered for all LiquidSpace visitors. In addition, we store certain information from<br>
-your browser using “cookies.” A cookie is a piece of data stored on the user’s computer<br>
-tied to information about the user. We use session ID cookies to confirm that users are<br>
-logged in. If you do not want information collected through the use of cookies, there is a<br>
-simple procedure in most browsers that allows you to deny or accept the cookie feature;<br>
-however, you should note that cookies may be necessary to provide you certain features<br>
-(e.g., customized delivery of information) available on the Site.</p>
-<p>Through the registration process you may provide us with your name, company<br>
-affiliation, email address, telephone number, physical address, and other information that<br>
-may be requested during the registration process on the Site. If you wish to create an<br>
-account that requires payment of a fee, or use services offered via the Site that require<br>
-payment of a fee, a valid credit card number or other payment information may be<br>
-required. By submitting your payment information, you authorize LiquidSpace to access<br>
-and use this information in order to provide you with and accept payment for the Service.</p>
-<p>When you use the Service you may submit information and content to your Profile, send<br>
-messages, perform searches, submit reviews, and otherwise transmit information to other<br>
-Users. We store this information so that we can provide you the service and offer<br>
-personalized features.</p>
-<p>We are not responsible for circumvention of any privacy settings or security measures<br>
-contained on the Site. You understand and acknowledge that, even after removal, copies<br>
-of User Content may remain viewable in cached and archived pages or if other Users<br>
-have copied or stored your User Content.</p>
-<p>If you use the Mobile Software, your location may be tracked on the mobile device on<br>
-which the Mobile Software is installed. LiquidSpace will not collect, transmit or<br>
-otherwise use this information without your permission. As a Member, you can control<br>
-when Venue Owners or other Members can see your location through your privacy<br>
-settings.</p>
-<div class="privacy_headings">
-<h2>Minors</h2>
-</div>
-<p>LiquidSpace does not knowingly collect or solicit information from anyone under the age<br>
-of 18 or knowingly allow such persons to register. If you are under 18, please do not<br>
-attempt to register for LiquidSpace or send any information about you to us, including<br>
-your name, address, telephone number, or email address. No one under age 18 may<br>
-provide any information to or on LiquidSpace. If you believe that we might have any<br>
-information from or about a minor under 18, please contact us at<br>
-<span id="privcy_links"><a href="mailto:privacy@liquidspace.com">privacy@liquidspace.com</a></span>.</p>
-<div class="privacy_headings">
-<h2>Use of Information Obtained by LiquidSpace</h2>
-</div>
-<p>Once you register with LiquidSpace, you may create your Profile. Your Profile<br>
-information, as well as your contact information, are displayed to other Users. We may<br>
-occasionally use your contact information to send you notifications regarding new<br>
-services offered by LiquidSpace and its partners that we think you may find valuable.<br>
-LiquidSpace may also send you service-related announcements from time to time through<br>
-the general operation of the Service. Generally, you may opt out of such emails, although<br>
-LiquidSpace reserves the right to send you notices about your account even if you opt out<br>
-of all voluntary email notifications.</p>
-<p>Profile information is used by LiquidSpace primarily to be presented back to and edited<br>
-by you when you access the Service and to be presented to others. In some cases, other<br>
-Users may be able to supplement your Profile, including by submitting comments and<br>
-reviews. Information from your Profile may be available to third party search engines.<br>
-This is primarily so that potential users may be able to find you.</p>
-<p>LiquidSpace may use aggregate data (based partly on IP addresses) collected through the<br>
-Service to analyze Service usage and system performance. This data may be used by<br>
-LiquidSpace and shared with third parties in any manner.</p>
-<div class="privacy_headings">
-<h2>Sharing Your Information with Third Parties</h2>
-</div>
-<p>You may choose to provide information about you, your company or organization or, if<br>
-you are a Venue Owner, your Venue to other Users and to the public by providing such<br>
-information on public areas of the Site (“Public Information”). Public Information<br>
-consists of information that is posted by you on areas of the Site accessible by other<br>
-Users and/or the public, such as Venue descriptions. Public information does not include<br>
-information you submit to Us but do not post on areas of the Site accessible by other Users and/or the public, such as billing and payment information (“Non-Public<br>
-Information”).</p>
-<p>We share your Non-Public Information with third parties only in limited circumstances<br>
-where we believe such sharing is reasonably necessary to offer the Service, legally<br>
-required or, permitted by you. For example:</p>
-<ul>
-<li>We may provide Non-Public Information to service providers who help us bring<br>
-you the services we offer, such as hosting the service at a co-location facility,<br>
-sending email updates about LiquidSpace, removing repetitive information from<br>
-our User lists, processing payments, or to provide search results or links. In<br>
-connection with these offerings and business operations, our service providers<br>
-may have access to your Non-Public Information for use for a limited time in<br>
-connection with these business activities. Where we utilize third parties for the<br>
-processing of any of your Non-Public Information, we implement reasonable<br>
-contractual protections limiting the use of that Non-Public Information to the<br>
-provision of services to LiquidSpace.</li>
-<li>We may be required to disclose Non-Public Information pursuant to lawful<br>
-requests, such as subpoenas or court orders, or in compliance with applicable<br>
-laws. Additionally, we may share account or other Non-Public Information when<br>
-we believe it is necessary to comply with law, to protect our interests or property,<br>
-to prevent fraud or other illegal activity perpetrated through the Service or using<br>
-the LiquidSpace name, or to prevent imminent harm. This may include sharing<br>
-Non-Public Information with other companies, lawyers, agents or government<br>
-agencies.</li>
-<li>We may offer to provide services jointly with other companies on the Service, and<br>
-we may share Non-Public Information with that company in connection with such<br>
-offer or your use of that service.</li>
-<li>If the ownership of all or substantially all of the LiquidSpace business, or<br>
-individual business units or assets owned by LiquidSpace that are related to the<br>
-Site, were to change, your Non-Public Information may be transferred to the new<br>
-owner. In any such transfer of information, your Non-Public Information would<br>
-remain subject to this Privacy Policy.</li>
-</ul>
-<p>When you use the Service, certain information you post or share with third parties<br>
-(including other Users), such as comments, reviews or other information, may be shared<br>
-with other Users in accordance with the privacy settings you select. All such sharing of<br>
-information is done at your own risk. Please keep in mind that if you disclose confidential<br>
-information in your Profile or when posting comments, reviews or other submissions, this<br>
-information may become publicly available.</p>
-<p>Your posting of Public Information to public areas of the Site constitutes your consent to<br>
-share such Public Information publicly. Please be aware that Public Information will be<br>
-accessible by both Users and the general public. Nothing in this Privacy Policy shall<br>
-restrict LiquidSpace’s right to use Public Information.</p>
-<div class="privacy_headings">
-<h2>Links</h2>
-</div>
-<p>LiquidSpace may contain links to other websites. We are of not responsible for the<br>
-privacy practices of other web sites. We encourage Users to be aware when they leave the<br>
-Site to read the privacy statements of other web sites that collect personally identifiable<br>
-information. This Privacy Policy applies solely to information collected by LiquidSpace<br>
-via the Site.</p>
-<div class="privacy_headings">
-<h2>Third Party Advertising</h2>
-</div>
-<p>Advertisements that appear on LiquidSpace are sometimes delivered (or “served”)<br>
-directly to Users by third party advertisers. They automatically receive your IP address<br>
-when this happens. These third party advertisers may also download cookies to your<br>
-computer, or use other technologies such as JavaScript and “web beacons” (also known<br>
-as “1×1 gifs”) to measure the effectiveness of their ads and to personalize advertising<br>
-content. Doing this allows the advertising network to recognize your computer each time<br>
-they send you an advertisement in order to measure the effectiveness of their ads and to<br>
-personalize advertising content. In this way, they may compile information about where<br>
-individuals using your computer or browser saw their advertisements and determine<br>
-which advertisements are clicked. LiquidSpace does not have access to or control of the<br>
-cookies or other technologies that may be used by the third party advertisers. Third party<br>
-advertisers have no access to your contact information stored on LiquidSpace unless you<br>
-choose to share it with them.</p>
-<p>This privacy policy covers the use of cookies by LiquidSpace and does not cover the use<br>
-of cookies or other tracking technologies by any of its advertisers.</p>
-<div class="privacy_headings">
-<h2>Changing or Removing Information</h2>
-</div>
-<p>Users may modify or delete their Profile information by logging into their account.<br>
-Removed information may persist in backup copies but will not be generally available to<br>
-other Users. Where you make use of the communication features of the service to share<br>
-information with other Users (e.g., sending a message to another User) you generally<br>
-cannot remove such communications from the Site.</p>
-<div class="privacy_headings">
-<h2>Security</h2>
-</div>
-<p>LiquidSpace takes reasonable precautions to protect Users’ Non-Public Information.<br>
-Your account information is located on a secured server behind a firewall. Because email<br>
-and instant messaging are not secure communications, we cannot guarantee the security<br>
-of any private information sent to us by email or instant messaging services.</p>
-<div class="privacy_headings">
-<h2>Data Transfer</h2>
-</div>
-<p>By using the Service, you are consenting to have the data you submit to or through the<br>
-Service transferred to and processed in the United States.</p>
-<div class="privacy_headings">
-<h2>Contacting LiquidSpace</h2>
-</div>
-<p>If you have any questions about this Privacy Policy or LiquidSpace’s privacy practices in<br>
-general, please contact us at:</p>
-<p>Doug Marinaro</p>
-<p>Phone : &nbsp;855-254-7843</p>
-<p>Email &nbsp;:&nbsp;&nbsp;<span id="privcy_links"><a href="mailto:privacy@liquidspace.com">privacy@liquidspace.com</a></span></p>
-<p>Last revised on April 15, 2011</p>
-																	</div><!-- .entry-content -->
-				</div><!-- #post-## -->
-
-				
-			</div><!-- #content -->
-		</div><!-- #container -->
-		<style type="text/css">
-li
-{
-list-style-type: none;
-font-family:"Helvetica";
-}
-
-</style>
-<div class="center_right_content">
-
-		<li id="daikos-text-1" class="widget widget_daikos_text"><div class="DaikosText"><h2 class="sidebartitle">Get the App</h2><a href="http://itunes.apple.com/us/app/liquidspace/id420584007?mt=8&amp;ls=1" target="_blank"><img src="http://107.21.120.60/wp-content/themes/liquidspace/images/small_phone.png" border="0"></a></div></li>
-					<li id="execphp-5" class="widget widget_execphp">			
-			<div class="execphpwidget"><div class="right_bottom_box1">
-<script src="http://widgets.twimg.com/j/2/widget.js"></script>
-<script>
-new TWTR.Widget({
-version: 2,
-type: 'profile',
-rpp: 4,
-interval: 6000,
-width: 279,
-height: 300,
-theme: {
-shell: {
-background: '#dadada',
-color: '#ffffff'
-},
-tweets: {
-background: '#ededed',
-color: '#818181',
-links: '#0eade7'
-}
-},
-features: {
-scrollbar: false,
-loop: false,
-live: false,
-hashtags: true,
-timestamp: true,
-avatars: false,
-behavior: 'all'
-}
-}).render().setUser('liquidspace').start();
+<script type="text/javascript">
+   function redirectToInvite(){
+         
+         LSHelper.Account.popUpSignIn('', '', null, null, null, '/Profile/InvitePeoplePage');
+          
+   }
 </script>
 
-</div>
-</div>
-		</li>
+   <div class="clear"></div>
+   <header>
+      <div class="container_16 outer">
+      <div style="height: 55px;position:relative;z-index:2">
+         <div class="logo"><a href="/">LiquidSpace</a></div>
+         <div style="float:right;width:670px;z-index:2 padding-top:10px;">
+            <div style="height:20px;position:relative;z-index:2" id="userMenu">
+               
+    <ul id="nav" class="sf-menu">
+        <li class="active primary"><a id="how-it-works" href="/find-rent-office-meeting-space">HOW IT WORKS </a></li>
+        <li><a href="/VenueListing/Create">SHARE YOUR SPACE </a></li>
+        <li><a id="popUpSignIn" href="#" onclick="LSHelper.Account.popUpSignIn(); return false;">
+        SIGN IN</a></li>
+        <li><a href="/Account/Register">JOIN</a></li>
+    </ul>
 
-  	<!--<div class="twitter_box">
+   <script type="text/javascript">
+      $(function () {
+         $("ul.sf-menu").superfish({
+            onInit: function () {
+               LSHelper.HelperLib.autoEllipseText('.personalInformationFullName', 300, null, null, null, false);
+               $('.personalInformationFullName').parent().width($('.personalInformationFullName').width());
+               sf_width = $('.sf-with-ul').parent().width();
+               if (sf_width > 140)
+                  $('.sf-with-ul').next().width(sf_width);
+            }
+         });
+      });
+   </script>                  
+            </div>
+            <div id="searchBarContainerSmall" class="ui-corner-all">
 
-<script src="http://widgets.twimg.com/j/2/widget.js"></script>
-<script>
-new TWTR.Widget({
-  version: 2,
-  type: 'profile',
-  rpp: 4,
-  interval: 6000,
-  width: 279,
-  height: 300,
-  theme: {
-    shell: {
-      background: '#dadada',
-      color: '#ffffff'
-    },
-    tweets: {
-      background: '#ededed',
-      color: '#818181',
-      links: '#0eade7'
-    }
-  },
-  features: {
-    scrollbar: false,
-    loop: false,
-    live: false,
-    hashtags: true,
-    timestamp: true,
-    avatars: false,
-    behavior: 'all'
-  }
-}).render().setUser('liquidspaceapp').start();
+   <div id="searchbar_map_canvas" style="width:100px;height:50px;visibility:hidden;position:absolute;top:-100px;left:-100px;"></div>   
+<form action="/Search" class="find-form" id="searchWorkspacesForm" method="post"><input data-bind="value: latitude" id="latitude" name="latitude" type="hidden" value="0"><input data-bind="value: longitude" id="longitude" name="longitude" type="hidden" value="0"><input data-bind="value: venueId" id="VenueId" name="VenueId" type="hidden" value=""><input data-val="true" data-val-number="The field TimeZoneOffsetMinutes must be a number." data-val-required="The TimeZoneOffsetMinutes field is required." id="TimeZoneOffsetMinutes" name="TimeZoneOffsetMinutes" type="hidden" value="0"><div id="searchBarWrapper" class="search-bar-horizontal" style="z-index:1;">
+   <div class="search-bar-horizontal-inwrapper">
+      <input class="ui-corner-all gradientsearch inputsearch" id="searchbar_address" name="Address" style="height:18px;width:100%;z-index:0;" type="text" value="">
+      <button style="width: 85px;height:35px;position:absolute;right:0px;top:0px;" class="orange-button" id="search" onclick="LiquidSpace.View.SearchBar.submitWorkspacesFilterSearch();return false;">Search</button>
+   </div>
+   <div id="searchBarFilterDisplay" style="display:none;color: #FC6601;"></div>
+   <div id="searchBarFilterWrapper" style="padding-top:10px;display:none;">
+      <div style="width:310px;float:left;margin-left:5px;">
+         <div style="font-weight: bold">When?</div>
+         <input data-val="true" data-val-number="The field ReservationLengthMinutes must be a number." id="ReservationLengthMinutes" name="ReservationLengthMinutes" type="hidden" value="60">
+<input id="ReservationStart" name="ReservationStart" type="hidden" value="">
+<div class="editor-line">
+   <div style="display: inline; position: relative;float:left;"><input value="Any date" autocomplete="off" id="StartTime" name="StartTime" style="width:90px;height:21px;" type="text"></div>
+      <div> 
+         at <input id="reservationStartTime" type="text" style="width: 70px" value="Any time">
+         for <input id="reservationLength" type="text" style="width: 90px" value="1 hour">
+      </div>
+</div>
+<script type="text/javascript">
+   var dateText = "Any date";
+   var timeText = "Any time";
+
+   function anyDateChecked(item){
+      if (item.checked){
+         $("#StartTime").val(dateText);
+         LSHelper.HelperLib.optionalField("#StartTime", dateText, "optionalEmpty");
+         $("#StartTime").datepicker("hide");
+         clearDateErrors();
+      } 
+   }
+
+   function clearDateErrors(){
+      $("#StartTime").removeClass('input-validation-error');
+      $('#search').button({disabled: false});
+   }   
+   function addAnyDateCheckbox(inst)
+   {
+      setTimeout(function(){            
+            var buttonPane = $('#'+inst.id)
+            .datepicker("widget")
+            .find(".ui-datepicker-calendar");
+            var checked = $("#StartTime").val() == dateText ? "checked" : "";
+            buttonPane.after("<div class='hr' style='margin-bottom: 0px;'></div><div style='position:relative;padding-left:10px;'><input type='checkbox' " + checked + " onclick='anyDateChecked(this)'/><span style='padding-left:5px;position:absolute;top:1px;'>Any date</span></div>");
+            }, 1);
+   }
+   $(document).ready(function(){
+      $("#StartTime").datepicker({
+         option: $.datepicker.regional["en-US"],
+         dateFormat: "m/d/yy",
+         showOn: "button",
+         buttonImage: '/Content/images/icons/calendar-icon.png',
+         buttonImageOnly: true,
+         minDate: 0,
+         beforeShow: function(input, inst) {
+            addAnyDateCheckbox(inst);
+         },
+         onSelect: function(dateText, inst) {  
+            LSHelper.HelperLib.optionalField("#StartTime", dateText, "");
+            clearDateErrors();
+         },
+         onChangeMonthYear: function(year, month, inst) { 
+            addAnyDateCheckbox(inst);
+         }
+      });
+      $("#StartTime").removeClass('input-validation-error');
+      $("#StartTime").blur(function(){
+         try{
+            var val = $('#StartTime').val();
+            if (val != 'Any date' && val != ''){
+               var date = $.datepicker.parseDate($("#StartTime").datepicker("option", "dateFormat"), val);
+               if (date > new Date()){
+                  $("#StartTime").removeClass('input-validation-error');
+                  $('#search').button({disabled: false});
+                  LSHelper.HelperLib.optionalField("#StartTime", val, "");
+               } else {
+                  throw 'error';
+               }
+            } else {
+               $("#StartTime").removeClass('input-validation-error');
+               $('#search').button({disabled: false});
+            }
+         }
+         catch(e){
+            $("#StartTime").addClass('input-validation-error');
+            $('#search').button({disabled: true});
+         } 
+      });
+      LSHelper.HelperLib.optionalField("#StartTime", dateText, "optionalEmpty");
+      var availableTags = [{"Key":"0 hours","Value":0},{"Key":"1/4 hours","Value":15},{"Key":"1/2 hours","Value":30},{"Key":"3/4 hours","Value":45},{"Key":"1 hour","Value":60},{"Key":"1-1/4 hours","Value":75},{"Key":"1-1/2 hours","Value":90},{"Key":"1-3/4 hours","Value":105},{"Key":"2 hours","Value":120},{"Key":"2-1/4 hours","Value":135},{"Key":"2-1/2 hours","Value":150},{"Key":"2-3/4 hours","Value":165},{"Key":"3 hours","Value":180},{"Key":"3-1/4 hours","Value":195},{"Key":"3-1/2 hours","Value":210},{"Key":"3-3/4 hours","Value":225},{"Key":"4 hours","Value":240},{"Key":"4-1/4 hours","Value":255},{"Key":"4-1/2 hours","Value":270},{"Key":"4-3/4 hours","Value":285},{"Key":"5 hours","Value":300},{"Key":"5-1/4 hours","Value":315},{"Key":"5-1/2 hours","Value":330},{"Key":"5-3/4 hours","Value":345},{"Key":"6 hours","Value":360},{"Key":"6-1/4 hours","Value":375},{"Key":"6-1/2 hours","Value":390},{"Key":"6-3/4 hours","Value":405},{"Key":"7 hours","Value":420},{"Key":"7-1/4 hours","Value":435},{"Key":"7-1/2 hours","Value":450},{"Key":"7-3/4 hours","Value":465},{"Key":"8 hours","Value":480},{"Key":"8-1/4 hours","Value":495},{"Key":"8-1/2 hours","Value":510},{"Key":"8-3/4 hours","Value":525},{"Key":"9 hours","Value":540},{"Key":"9-1/4 hours","Value":555},{"Key":"9-1/2 hours","Value":570},{"Key":"9-3/4 hours","Value":585},{"Key":"10 hours","Value":600},{"Key":"10-1/4 hours","Value":615},{"Key":"10-1/2 hours","Value":630},{"Key":"10-3/4 hours","Value":645},{"Key":"11 hours","Value":660},{"Key":"11-1/4 hours","Value":675},{"Key":"11-1/2 hours","Value":690},{"Key":"11-3/4 hours","Value":705},{"Key":"12 hours","Value":720},{"Key":"12-1/4 hours","Value":735},{"Key":"12-1/2 hours","Value":750},{"Key":"12-3/4 hours","Value":765},{"Key":"13 hours","Value":780},{"Key":"13-1/4 hours","Value":795},{"Key":"13-1/2 hours","Value":810},{"Key":"13-3/4 hours","Value":825},{"Key":"14 hours","Value":840},{"Key":"14-1/4 hours","Value":855},{"Key":"14-1/2 hours","Value":870},{"Key":"14-3/4 hours","Value":885},{"Key":"15 hours","Value":900},{"Key":"15-1/4 hours","Value":915},{"Key":"15-1/2 hours","Value":930},{"Key":"15-3/4 hours","Value":945},{"Key":"16 hours","Value":960},{"Key":"16-1/4 hours","Value":975},{"Key":"16-1/2 hours","Value":990},{"Key":"16-3/4 hours","Value":1005},{"Key":"17 hours","Value":1020},{"Key":"17-1/4 hours","Value":1035},{"Key":"17-1/2 hours","Value":1050},{"Key":"17-3/4 hours","Value":1065},{"Key":"18 hours","Value":1080},{"Key":"18-1/4 hours","Value":1095},{"Key":"18-1/2 hours","Value":1110},{"Key":"18-3/4 hours","Value":1125},{"Key":"19 hours","Value":1140},{"Key":"19-1/4 hours","Value":1155},{"Key":"19-1/2 hours","Value":1170},{"Key":"19-3/4 hours","Value":1185},{"Key":"20 hours","Value":1200},{"Key":"20-1/4 hours","Value":1215},{"Key":"20-1/2 hours","Value":1230},{"Key":"20-3/4 hours","Value":1245},{"Key":"21 hours","Value":1260},{"Key":"21-1/4 hours","Value":1275},{"Key":"21-1/2 hours","Value":1290},{"Key":"21-3/4 hours","Value":1305},{"Key":"22 hours","Value":1320},{"Key":"22-1/4 hours","Value":1335},{"Key":"22-1/2 hours","Value":1350},{"Key":"22-3/4 hours","Value":1365},{"Key":"23 hours","Value":1380},{"Key":"23-1/4 hours","Value":1395},{"Key":"23-1/2 hours","Value":1410}];
+      LiquidSpace.View.SearchBar.initAutocomplete("reservationLength", "1 hour", "ReservationLengthMinutes", availableTags, undefined, undefined, function(elemId, dataFieldId){
+         var isCorrectChoice = false;
+         var elemVal = $(elemId).val();
+         var dataElemVal = $(dataFieldId).val();
+         $.each(availableTags, function(i, prop){
+            if (prop.Key == elemVal && prop.Value == dataElemVal){
+               isCorrectChoice = true;
+               return false;
+            }
+         });
+         if (isCorrectChoice == false){
+         var val = parseInt(elemVal);
+            if (!isNaN(val)) {
+               if (val > 24) {
+                  $(elemId).val("");
+                  $(dataFieldId).val(60);
+               } else {
+                  $(dataFieldId).val(val * 60);
+                  if (val == 1) {
+                     val = val + " hour";
+                  } else {
+                     val = val + " hours";
+                  }
+                  $(elemId).val(val);
+                  LSHelper.HelperLib.optionalField(elemId, val, "");
+               }
+            } else {
+               $(elemId).val("");
+               $(elemId).change();
+            }
+         }
+      },
+      timeText);
+      var reservationStartTimeList =  [{"Key":"12:00 AM","Value":"00:00:00","extended_line":false},{"Key":"12:15 AM","Value":"00:15:00","extended_line":false},{"Key":"12:30 AM","Value":"00:30:00","extended_line":false},{"Key":"12:45 AM","Value":"00:45:00","extended_line":false},{"Key":"1:00 AM","Value":"01:00:00","extended_line":false},{"Key":"1:15 AM","Value":"01:15:00","extended_line":false},{"Key":"1:30 AM","Value":"01:30:00","extended_line":false},{"Key":"1:45 AM","Value":"01:45:00","extended_line":false},{"Key":"2:00 AM","Value":"02:00:00","extended_line":false},{"Key":"2:15 AM","Value":"02:15:00","extended_line":false},{"Key":"2:30 AM","Value":"02:30:00","extended_line":false},{"Key":"2:45 AM","Value":"02:45:00","extended_line":false},{"Key":"3:00 AM","Value":"03:00:00","extended_line":false},{"Key":"3:15 AM","Value":"03:15:00","extended_line":false},{"Key":"3:30 AM","Value":"03:30:00","extended_line":false},{"Key":"3:45 AM","Value":"03:45:00","extended_line":false},{"Key":"4:00 AM","Value":"04:00:00","extended_line":false},{"Key":"4:15 AM","Value":"04:15:00","extended_line":false},{"Key":"4:30 AM","Value":"04:30:00","extended_line":false},{"Key":"4:45 AM","Value":"04:45:00","extended_line":false},{"Key":"5:00 AM","Value":"05:00:00","extended_line":false},{"Key":"5:15 AM","Value":"05:15:00","extended_line":false},{"Key":"5:30 AM","Value":"05:30:00","extended_line":false},{"Key":"5:45 AM","Value":"05:45:00","extended_line":false},{"Key":"6:00 AM","Value":"06:00:00","extended_line":false},{"Key":"6:15 AM","Value":"06:15:00","extended_line":false},{"Key":"6:30 AM","Value":"06:30:00","extended_line":false},{"Key":"6:45 AM","Value":"06:45:00","extended_line":false},{"Key":"7:00 AM","Value":"07:00:00","extended_line":false},{"Key":"7:15 AM","Value":"07:15:00","extended_line":false},{"Key":"7:30 AM","Value":"07:30:00","extended_line":false},{"Key":"7:45 AM","Value":"07:45:00","extended_line":false},{"Key":"8:00 AM","Value":"08:00:00","extended_line":false},{"Key":"8:15 AM","Value":"08:15:00","extended_line":false},{"Key":"8:30 AM","Value":"08:30:00","extended_line":false},{"Key":"8:45 AM","Value":"08:45:00","extended_line":false},{"Key":"9:00 AM","Value":"09:00:00","extended_line":false},{"Key":"9:15 AM","Value":"09:15:00","extended_line":false},{"Key":"9:30 AM","Value":"09:30:00","extended_line":false},{"Key":"9:45 AM","Value":"09:45:00","extended_line":false},{"Key":"10:00 AM","Value":"10:00:00","extended_line":false},{"Key":"10:15 AM","Value":"10:15:00","extended_line":false},{"Key":"10:30 AM","Value":"10:30:00","extended_line":false},{"Key":"10:45 AM","Value":"10:45:00","extended_line":false},{"Key":"11:00 AM","Value":"11:00:00","extended_line":false},{"Key":"11:15 AM","Value":"11:15:00","extended_line":false},{"Key":"11:30 AM","Value":"11:30:00","extended_line":false},{"Key":"11:45 AM","Value":"11:45:00","extended_line":false},{"Key":"12:00 PM","Value":"12:00:00","extended_line":false},{"Key":"12:15 PM","Value":"12:15:00","extended_line":false},{"Key":"12:30 PM","Value":"12:30:00","extended_line":false},{"Key":"12:45 PM","Value":"12:45:00","extended_line":false},{"Key":"1:00 PM","Value":"13:00:00","extended_line":false},{"Key":"1:15 PM","Value":"13:15:00","extended_line":false},{"Key":"1:30 PM","Value":"13:30:00","extended_line":false},{"Key":"1:45 PM","Value":"13:45:00","extended_line":false},{"Key":"2:00 PM","Value":"14:00:00","extended_line":false},{"Key":"2:15 PM","Value":"14:15:00","extended_line":false},{"Key":"2:30 PM","Value":"14:30:00","extended_line":false},{"Key":"2:45 PM","Value":"14:45:00","extended_line":false},{"Key":"3:00 PM","Value":"15:00:00","extended_line":false},{"Key":"3:15 PM","Value":"15:15:00","extended_line":false},{"Key":"3:30 PM","Value":"15:30:00","extended_line":false},{"Key":"3:45 PM","Value":"15:45:00","extended_line":false},{"Key":"4:00 PM","Value":"16:00:00","extended_line":false},{"Key":"4:15 PM","Value":"16:15:00","extended_line":false},{"Key":"4:30 PM","Value":"16:30:00","extended_line":false},{"Key":"4:45 PM","Value":"16:45:00","extended_line":false},{"Key":"5:00 PM","Value":"17:00:00","extended_line":false},{"Key":"5:15 PM","Value":"17:15:00","extended_line":false},{"Key":"5:30 PM","Value":"17:30:00","extended_line":false},{"Key":"5:45 PM","Value":"17:45:00","extended_line":false},{"Key":"6:00 PM","Value":"18:00:00","extended_line":false},{"Key":"6:15 PM","Value":"18:15:00","extended_line":false},{"Key":"6:30 PM","Value":"18:30:00","extended_line":false},{"Key":"6:45 PM","Value":"18:45:00","extended_line":false},{"Key":"7:00 PM","Value":"19:00:00","extended_line":false},{"Key":"7:15 PM","Value":"19:15:00","extended_line":false},{"Key":"7:30 PM","Value":"19:30:00","extended_line":false},{"Key":"7:45 PM","Value":"19:45:00","extended_line":false},{"Key":"8:00 PM","Value":"20:00:00","extended_line":false},{"Key":"8:15 PM","Value":"20:15:00","extended_line":false},{"Key":"8:30 PM","Value":"20:30:00","extended_line":false},{"Key":"8:45 PM","Value":"20:45:00","extended_line":false},{"Key":"9:00 PM","Value":"21:00:00","extended_line":false},{"Key":"9:15 PM","Value":"21:15:00","extended_line":false},{"Key":"9:30 PM","Value":"21:30:00","extended_line":false},{"Key":"9:45 PM","Value":"21:45:00","extended_line":false},{"Key":"10:00 PM","Value":"22:00:00","extended_line":false},{"Key":"10:15 PM","Value":"22:15:00","extended_line":false},{"Key":"10:30 PM","Value":"22:30:00","extended_line":false},{"Key":"10:45 PM","Value":"22:45:00","extended_line":false},{"Key":"11:00 PM","Value":"23:00:00","extended_line":false},{"Key":"11:15 PM","Value":"23:15:00","extended_line":false},{"Key":"11:30 PM","Value":"23:30:00","extended_line":false},{"Key":"11:45 PM","Value":"23:45:00","extended_line":false},{"Key":"11:59 PM","Value":"1.00:00:00","extended_line":false}];
+      LiquidSpace.View.SearchBar.initAutocomplete("reservationStartTime", 
+         "Any time", 
+         "ReservationStart", 
+         reservationStartTimeList,
+         function (item) {
+            var rendered = "";
+            if (item.extended_line) {
+               rendered = $("<div style='height:3px;clear:left;'></div><div class='hr' style='clear:left;position:relative;'></div>");
+            } else {
+               rendered = $("<a>" + item.label + "</a>");
+            }
+            return rendered;
+         },
+         function(){
+            return [{Key: "", Value: "", extended_line: true}, {Key: timeText, Value: timeText, value: timeText, data: "", label: timeText, extended_line: false}];
+         }, 
+         function(elemId, dataFieldId){                     
+            var isCorrectChoice = false;
+            var elemVal = $(elemId).val();
+            var dataElemVal = $(dataFieldId).val();            
+            $.each(reservationStartTimeList, function(i, prop){               
+               if (prop.Key == elemVal && prop.Value == dataElemVal){               
+                  isCorrectChoice = true;
+                  return false;                  
+               }
+            });
+            if(!isCorrectChoice)  
+            {
+               $(elemId).val("");
+               $(elemId).change();
+            }
+         },
+         timeText);
+   });
 </script>
-</div>-->
 
-</div></div><!--Footer Container -->
-<div class="footer">
-<div class="cmn">
-<div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-115" class="menu-item menu-item-type-post_type menu-item-115"><a href="http://107.21.120.60/contact/">Contact</a></li>
-<li id="menu-item-227" class="menu-item menu-item-type-post_type menu-item-227"><a href="http://107.21.120.60/aboutus/">About</a></li>
-<li id="menu-item-181" class="menu-item menu-item-type-post_type menu-item-181"><a href="http://107.21.120.60/jobs/">Jobs</a></li>
-<li id="menu-item-113" class="menu-item menu-item-type-post_type current-menu-item page_item page-item-47 current_page_item menu-item-113"><a href="http://107.21.120.60/privacy/">Privacy Policy</a></li>
-<li id="menu-item-1074" class="menu-item menu-item-type-post_type menu-item-1074"><a href="http://107.21.120.60/pricing/">Pricing</a></li>
-<li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-114"><a href="http://107.21.120.60/terms/">Terms of Use</a></li>
-<li id="menu-item-414" class="menu-item menu-item-type-post_type menu-item-414"><a href="http://107.21.120.60/cancelpolicy/flexible/">Cancellation Policy</a></li>
-</ul></div>2011 All Rights Reserved.  Liquidspace.</div>
+      </div>
+      <div style="float:left;padding-left: 5px;border-left: 1px solid #CDCDCD">
+         <div style="font-weight: bold;">What type of workspace?</div>
+         <div style="position: relative;">
+            <div style="float: left; width: 220px;margin-top:5px">
+   <div>
+      <input autocomplete="off" checked="checked" data-val="true" data-val-required="The ShowAllWorkspaceScenarious field is required." id="ShowAllWorkspaceScenarious" name="ShowAllWorkspaceScenarious" onclick="this.checked ? $('.scenario').attr('checked', true) : $('.scenario').attr('checked', false)" type="checkbox" value="true"><input name="ShowAllWorkspaceScenarious" type="hidden" value="false">
+      Any
+   </div>
+   <div style="padding-left: 10px;">
+         <div style="overflow: hidden;padding-top:5px;">
+            <input autocomplete="off" checked="checked" class="scenario" data-val="true" data-val-required="The Boolean field is required." id="WorkspaceScenarioIds_f0b0d6ab-8651-4be2-8bb7-01a00b28945d_" name="WorkspaceScenarioIds[f0b0d6ab-8651-4be2-8bb7-01a00b28945d]" onclick="this.checked ? '' : $('#ShowAllWorkspaceScenarious').attr('checked', false)" type="checkbox" value="true"><input name="WorkspaceScenarioIds[f0b0d6ab-8651-4be2-8bb7-01a00b28945d]" type="hidden" value="false">
+            <span>Coworking</span>
+         </div>
+         <div style="overflow: hidden;padding-top:5px;">
+            <input autocomplete="off" checked="checked" class="scenario" data-val="true" data-val-required="The Boolean field is required." id="WorkspaceScenarioIds_fd78bfce-ce28-4a45-8f46-5b757dcbbc8e_" name="WorkspaceScenarioIds[fd78bfce-ce28-4a45-8f46-5b757dcbbc8e]" onclick="this.checked ? '' : $('#ShowAllWorkspaceScenarious').attr('checked', false)" type="checkbox" value="true"><input name="WorkspaceScenarioIds[fd78bfce-ce28-4a45-8f46-5b757dcbbc8e]" type="hidden" value="false">
+            <span>Private</span>
+         </div>
+         <div style="overflow: hidden;padding-top:5px;">
+            <input autocomplete="off" checked="checked" class="scenario" data-val="true" data-val-required="The Boolean field is required." id="WorkspaceScenarioIds_ab272df0-f9bc-45a8-a736-4a53d349bfaf_" name="WorkspaceScenarioIds[ab272df0-f9bc-45a8-a736-4a53d349bfaf]" onclick="this.checked ? '' : $('#ShowAllWorkspaceScenarious').attr('checked', false)" type="checkbox" value="true"><input name="WorkspaceScenarioIds[ab272df0-f9bc-45a8-a736-4a53d349bfaf]" type="hidden" value="false">
+            <span>Public</span>
+         </div>
+   </div>
 </div>
-<script type="text/javascript" src="http://107.21.120.60/wp-content/plugins/contact-form-7/jquery.form.js?ver=2.52"></script>
-<script type="text/javascript" src="http://107.21.120.60/wp-content/plugins/contact-form-7/scripts.js?ver=2.4.6"></script>
+<div class="capacity-list">
+   For at least <select data-val="true" data-val-number="The field WorkspaceCapacity must be a number." id="WorkspaceCapacity" name="WorkspaceCapacity"><option value="1">1 person</option>
+<option value="2">2 people</option>
+<option value="3">3 people</option>
+<option value="4">4 people</option>
+<option value="5">5 people</option>
+<option value="6">6 people</option>
+<option value="7">7 people</option>
+<option value="8">8 people</option>
+<option value="9">9 people</option>
+<option value="10">10 people</option>
+<option value="11">11 - 20 people</option>
+<option value="21">21 + people</option>
+</select>
+</div>
+
+         </div>
+      </div>
+      <img style="display:none; cursor:pointer;float:right;padding-left: 5px;position:absolute; bottom:2px; right:2px;" src="/Content/Images/Icons/close.gif" onclick="LiquidSpace.View.SearchBar.showSearchBarFilterWrapper(false);">
+   </div>
+</div>
+<script id="searchBarFilterDisplayTemplate" type="text/html">
+   <div style="float:left;">
+   on <a href="#" onclick="LiquidSpace.View.SearchBar.showSearchBarFilterWrapper(true, '#StartTime');return false;">${val.Date.toLowerCase()}</a> 
+   at <a href="#" onclick="LiquidSpace.View.SearchBar.showSearchBarFilterWrapper(true, '#reservationStartTime');return false;">${val.Time.toLowerCase()}</a> 
+   for <a href="#" onclick="LiquidSpace.View.SearchBar.showSearchBarFilterWrapper(true, '#reservationLength');return false;">${val.Length}</a> 
+   in <a href="#" onclick="LiquidSpace.View.SearchBar.showSearchBarFilterWrapper(true);return false;"><div class="autoEllipseText120" style="display:inline">${LiquidSpace.View.SearchBar.getWorkspaceCombinedStringFromArray(val.Workspace, "innerHTML")}</div></a> 
+   for at least <a href="#" onclick="LiquidSpace.View.SearchBar.showSearchBarFilterWrapper(true, '#WorkspaceCapacity');return false;">${val.Capacity} {{if val.Capacity == 1}}person{{else}}people{{/if}}</a>
+   </div>
+</script>
+<script id="venueSearchTemplate" type="text/html">
+   <a style="height:38px;padding-bottom: 3px;cursor:pointer;">
+      <div style="float:left;"><img src='/Content/Images/Icons/apartment.png'/></div> 
+      <div style="overflow:hidden;">{{html val.FullName}}</div>
+      <div style="font-size:8px; overflow:hidden;">{{html val.Address}}</div>
+   </a>
+</script></form><script type="text/javascript">
+   $('#TimeZoneOffsetMinutes').val(new Date().getTimezoneOffset());
+</script>
+
+   
+<script type="text/javascript">
+      
+            var model = new LiquidSpace.View.Search(null, null, null, null, function () { LiquidSpace.View.SearchBar.showSearchBarFilterWrapper(true); });
+            var viewModel = model.viewModel;
+            LiquidSpace.View.SearchBar.init(model);
+      
+</script>
+            </div>
+         </div>
+      </div>
+      <div style="z-index:1">
+      </div>
+      
+      </div>
+   </header>
+    <div id="wrapper" class="container_16">
+        <div class="clear"></div>
+        <div class="page">
+            <div class="header">
+                   <div style="display:none;">
+                     
+                   </div>
+            </div>
+            <div id="main">  
+                         
+<div class="curated-content">
+<h1>
+	<span style="background-color: transparent; font-size: 29px; ">Privacy Policy</span></h1>
+<div class="page-entry-content" style="background-color: transparent; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 16px; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; text-decoration: none; float: left; color: rgb(115, 115, 115); font-family: Helvetica; line-height: 20px; ">
+	<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 30px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; line-height: 1.5em; ">
+		By using, accessing or participating in the Service, you agree to the terms of this Privacy&nbsp;Policy. Capitalized terms not defined in this Privacy Policy have the meanings set forth&nbsp;in the Terms of Use (located at&nbsp;<a href="/Home/Terms-Of-Use" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; color: rgb(0, 148, 231); " title="Terms of Use">liquidspace.com/Home/Terms-Of-Use</a>). We reserve the right&nbsp;to change our Privacy Policy at any time. If we do this, we will post a notice that we&nbsp;have made changes to this Privacy Policy on the Site for at least 7 days after the changes&nbsp;are posted and will indicate at the bottom of the Privacy Policy the date these terms were&nbsp;last revised. Any revisions to this Privacy Policy will become effective the earlier of (i)&nbsp;the end of the foregoing 7-day period or (ii) the first time you access or use the Service&nbsp;after any such changes. If you do not agree to abide by this or any future Privacy Policy,&nbsp;do not use, access or participate in (or continue to use, access or participate in) the&nbsp;Service.</p>
+	<div class="privacy_headings" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; ">
+		<h2 style="margin-top: 0px; margin-right: 0px; margin-bottom: 18px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 24px; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; color: rgb(44, 48, 49); font: normal normal bold 29px/32px Helvetica, Arial, sans-serif; ">
+			The Information We Collect</h2>
+	</div>
+	<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 30px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; line-height: 1.5em; ">
+		When you use the Service you provide us with two types of information: (i) information&nbsp;you submit via the Service and (ii) information regarding your use of the Service&nbsp;collected by us as you interact with the Service.</p>
+	<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 30px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; line-height: 1.5em; ">
+		When you enter the Site, we collect your browser type and IP address. This information&nbsp;is gathered for all LiquidSpace visitors. In addition, we store certain information from&nbsp;your browser using “cookies.” A cookie is a piece of data stored on the user’s computer&nbsp;tied to information about the user. We use session ID cookies to confirm that users are&nbsp;logged in. If you do not want information collected through the use of cookies, there is a&nbsp;simple procedure in most browsers that allows you to deny or accept the cookie feature;&nbsp;however, you should note that cookies may be necessary to provide you certain features&nbsp;(e.g., customized delivery of information) available on the Site.</p>
+	<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 30px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; line-height: 1.5em; ">
+		Through the registration process you may provide us with your name, company&nbsp;affiliation, email address, telephone number, physical address, and other information that&nbsp;may be requested during the registration process on the Site. If you wish to create an&nbsp;account that requires payment of a fee, or use services offered via the Site that require&nbsp;payment of a fee, a valid credit card number or other payment information may be&nbsp;required. By submitting your payment information, you authorize LiquidSpace to access&nbsp;and use this information in order to provide you with and accept payment for the Service.</p>
+	<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 30px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; line-height: 1.5em; ">
+		When you use the Service you may submit information and content to your Profile, send&nbsp;messages, perform searches, submit reviews, and otherwise transmit information to other&nbsp;Users. We store this information so that we can provide you the service and offer&nbsp;personalized features.</p>
+	<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 30px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; line-height: 1.5em; ">
+		We are not responsible for circumvention of any privacy settings or security measures&nbsp;contained on the Site. You understand and acknowledge that, even after removal, copies&nbsp;of User Content may remain viewable in cached and archived pages or if other Users&nbsp;have copied or stored your User Content.</p>
+	<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 30px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; line-height: 1.5em; ">
+		If you use the Mobile Software, your location may be tracked on the mobile device on&nbsp;which the Mobile Software is installed. LiquidSpace will not collect, transmit or&nbsp;otherwise use this information without your permission. As a Member, you can control&nbsp;when Venue Owners or other Members can see your location through your privacy&nbsp;settings.</p>
+	<div class="privacy_headings" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; ">
+		<h2 style="margin-top: 0px; margin-right: 0px; margin-bottom: 18px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 24px; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; color: rgb(44, 48, 49); font: normal normal bold 29px/32px Helvetica, Arial, sans-serif; ">
+			Minors</h2>
+	</div>
+	<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 30px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; line-height: 1.5em; ">
+		LiquidSpace does not knowingly collect or solicit information from anyone under the age&nbsp;of 18 or knowingly allow such persons to register. If you are under 18, please do not&nbsp;attempt to register for LiquidSpace or send any information about you to us, including&nbsp;your name, address, telephone number, or email address. No one under age 18 may&nbsp;provide any information to or on LiquidSpace. If you believe that we might have any&nbsp;information from or about a minor under 18, please contact us at&nbsp;<span id="privcy_links" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; "><a href="mailto:privacy@liquidspace.com" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; color: rgb(0, 148, 231); ">privacy@liquidspace.com</a></span>.</p>
+	<div class="privacy_headings" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; ">
+		<h2 style="margin-top: 0px; margin-right: 0px; margin-bottom: 18px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 24px; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; color: rgb(44, 48, 49); font: normal normal bold 29px/32px Helvetica, Arial, sans-serif; ">
+			Use of Information Obtained by LiquidSpace</h2>
+	</div>
+	<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 30px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; line-height: 1.5em; ">
+		Once you register with LiquidSpace, you may create your Profile. Your Profile&nbsp;information, as well as your contact information, are displayed to other Users. We may&nbsp;occasionally use your contact information to send you notifications regarding new&nbsp;services offered by LiquidSpace and its partners that we think you may find valuable.&nbsp;LiquidSpace may also send you service-related announcements from time to time through&nbsp;the general operation of the Service. Generally, you may opt out of such emails, although&nbsp;LiquidSpace reserves the right to send you notices about your account even if you opt out&nbsp;of all voluntary email notifications.</p>
+	<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 30px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; line-height: 1.5em; ">
+		Profile information is used by LiquidSpace primarily to be presented back to and edited&nbsp;by you when you access the Service and to be presented to others. In some cases, other&nbsp;Users may be able to supplement your Profile, including by submitting comments and&nbsp;reviews. Information from your Profile may be available to third party search engines.&nbsp;This is primarily so that potential users may be able to find you.</p>
+	<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 30px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; line-height: 1.5em; ">
+		LiquidSpace may use aggregate data (based partly on IP addresses) collected through the&nbsp;Service to analyze Service usage and system performance. This data may be used by&nbsp;LiquidSpace and shared with third parties in any manner.</p>
+	<div class="privacy_headings" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; ">
+		<h2 style="margin-top: 0px; margin-right: 0px; margin-bottom: 18px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 24px; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; color: rgb(44, 48, 49); font: normal normal bold 29px/32px Helvetica, Arial, sans-serif; ">
+			Sharing Your Information with Third Parties</h2>
+	</div>
+	<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 30px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; line-height: 1.5em; ">
+		You may choose to provide information about you, your company or organization or, if&nbsp;you are a Venue Owner, your Venue to other Users and to the public by providing such&nbsp;information on public areas of the Site (“Public Information”). Public Information&nbsp;consists of information that is posted by you on areas of the Site accessible by other&nbsp;Users and/or the public, such as Venue descriptions. Public information does not include&nbsp;information you submit to Us but do not post on areas of the Site accessible by other Users and/or the public, such as billing and payment information (“Non-Public&nbsp;Information”).</p>
+	<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 30px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; line-height: 1.5em; ">
+		We share your Non-Public Information with third parties only in limited circumstances&nbsp;where we believe such sharing is reasonably necessary to offer the Service, legally&nbsp;required or, permitted by you. For example:</p>
+	<ul>
+		<li style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; list-style-type: none; color: rgb(123, 123, 123); line-height: 1.5em; list-style-image: url(/content/images/bullet-04.gif); ">
+			We may provide Non-Public Information to service providers who help us bring&nbsp;<span style="background-color: transparent; line-height: 1.5em; ">you the services we offer, such as hosting the service at a co-location facility,&nbsp;</span><span style="background-color: transparent; line-height: 1.5em; ">sending email updates about LiquidSpace, removing repetitive information from&nbsp;</span><span style="background-color: transparent; line-height: 1.5em; ">our User lists, processing payments, or to provide search results or links. In&nbsp;</span><span style="background-color: transparent; line-height: 1.5em; ">connection with these offerings and business operations, our service providers&nbsp;</span><span style="background-color: transparent; line-height: 1.5em; ">may have access to your Non-Public Information for use for a limited time in&nbsp;</span><span style="background-color: transparent; line-height: 1.5em; ">connection with these business activities. Where we utilize third parties for the&nbsp;</span><span style="background-color: transparent; line-height: 1.5em; ">processing of any of your Non-Public Information, we implement reasonable&nbsp;</span><span style="background-color: transparent; line-height: 1.5em; ">contractual protections limiting the use of that Non-Public Information to the&nbsp;</span><span style="background-color: transparent; line-height: 1.5em; ">provision of services to LiquidSpace.</span></li>
+		<li style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; list-style-type: none; color: rgb(123, 123, 123); line-height: 1.5em; list-style-image: url(/content/images/bullet-04.gif); ">
+			We may be required to disclose Non-Public Information pursuant to lawful&nbsp;<span style="background-color: transparent; line-height: 1.5em; ">requests, such as subpoenas or court orders, or in compliance with applicable&nbsp;</span><span style="background-color: transparent; line-height: 1.5em; ">laws. Additionally, we may share account or other Non-Public Information when&nbsp;</span><span style="background-color: transparent; line-height: 1.5em; ">we believe it is necessary to comply with law, to protect our interests or property,&nbsp;</span><span style="background-color: transparent; line-height: 1.5em; ">to prevent fraud or other illegal activity perpetrated through the Service or using&nbsp;</span><span style="background-color: transparent; line-height: 1.5em; ">the LiquidSpace name, or to prevent imminent harm. This may include sharing&nbsp;</span><span style="background-color: transparent; line-height: 1.5em; ">Non-Public Information with other companies, lawyers, agents or government&nbsp;</span><span style="background-color: transparent; line-height: 1.5em; ">agencies.</span></li>
+		<li style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; list-style-type: none; color: rgb(123, 123, 123); line-height: 1.5em; list-style-image: url(/content/images/bullet-04.gif); ">
+			We may offer to provide services jointly with other companies on the Service, and&nbsp;<span style="background-color: transparent; line-height: 1.5em; ">we may share Non-Public Information with that company in connection with such&nbsp;</span><span style="background-color: transparent; line-height: 1.5em; ">offer or your use of that service. &nbsp;</span><span style="background-color: transparent; line-height: 1.5em; ">If the ownership of all or substantially all of the LiquidSpace business, or&nbsp;</span><span style="background-color: transparent; line-height: 1.5em; ">individual business units or assets owned by LiquidSpace that are related to the&nbsp;</span><span style="background-color: transparent; line-height: 1.5em; ">Site, were to change, your Non-Public Information may be transferred to the new&nbsp;</span><span style="background-color: transparent; line-height: 1.5em; ">owner. In any such transfer of information, your Non-Public Information would&nbsp;</span><span style="background-color: transparent; line-height: 1.5em; ">remain subject to this Privacy Policy.</span></li>
+	</ul>
+	<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 30px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; line-height: 1.5em; ">
+		When you use the Service, certain information you post or share with third parties&nbsp;(including other Users), such as comments, reviews or other information, may be shared&nbsp;with other Users in accordance with the privacy settings you select. All such sharing of&nbsp;information is done at your own risk. Please keep in mind that if you disclose confidential&nbsp;information in your Profile or when posting comments, reviews or other submissions, this&nbsp;information may become publicly available.</p>
+	<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 30px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; line-height: 1.5em; ">
+		Your posting of Public Information to public areas of the Site constitutes your consent to&nbsp;share such Public Information publicly. Please be aware that Public Information will be&nbsp;accessible by both Users and the general public. Nothing in this Privacy Policy shall&nbsp;restrict LiquidSpace’s right to use Public Information.</p>
+	<div class="privacy_headings" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; ">
+		<h2 style="margin-top: 0px; margin-right: 0px; margin-bottom: 18px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 24px; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; color: rgb(44, 48, 49); font: normal normal bold 29px/32px Helvetica, Arial, sans-serif; ">
+			Links</h2>
+	</div>
+	<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 30px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; line-height: 1.5em; ">
+		LiquidSpace may contain links to other websites. We are of not responsible for the&nbsp;privacy practices of other web sites. We encourage Users to be aware when they leave the&nbsp;Site to read the privacy statements of other web sites that collect personally identifiable&nbsp;information. This Privacy Policy applies solely to information collected by LiquidSpace&nbsp;via the Site.</p>
+	<div class="privacy_headings" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; ">
+		<h2 style="margin-top: 0px; margin-right: 0px; margin-bottom: 18px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 24px; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; color: rgb(44, 48, 49); font: normal normal bold 29px/32px Helvetica, Arial, sans-serif; ">
+			Third Party Advertising</h2>
+	</div>
+	<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 30px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; line-height: 1.5em; ">
+		Advertisements that appear on LiquidSpace are sometimes delivered (or “served”)&nbsp;directly to Users by third party advertisers. They automatically receive your IP address&nbsp;when this happens. These third party advertisers may also download cookies to your&nbsp;computer, or use other technologies such as JavaScript and “web beacons” (also known&nbsp;as “1×1 gifs”) to measure the effectiveness of their ads and to personalize advertising&nbsp;content. Doing this allows the advertising network to recognize your computer each time&nbsp;they send you an advertisement in order to measure the effectiveness of their ads and to&nbsp;personalize advertising content. In this way, they may compile information about where<br>
+		individuals using your computer or browser saw their advertisements and determine&nbsp;which advertisements are clicked. LiquidSpace does not have access to or control of the&nbsp;cookies or other technologies that may be used by the third party advertisers. Third party&nbsp;advertisers have no access to your contact information stored on LiquidSpace unless you&nbsp;choose to share it with them.</p>
+	<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 30px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; line-height: 1.5em; ">
+		This privacy policy covers the use of cookies by LiquidSpace and does not cover the use&nbsp;of cookies or other tracking technologies by any of its advertisers.</p>
+	<div class="privacy_headings" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; ">
+		<h2 style="margin-top: 0px; margin-right: 0px; margin-bottom: 18px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 24px; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; color: rgb(44, 48, 49); font: normal normal bold 29px/32px Helvetica, Arial, sans-serif; ">
+			Changing or Removing Information</h2>
+	</div>
+	<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 30px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; line-height: 1.5em; ">
+		Users may modify or delete their Profile information by logging into their account. &nbsp;Removed information may persist in backup copies but will not be generally available to&nbsp;other Users. Where you make use of the communication features of the service to share&nbsp;information with other Users (e.g., sending a message to another User) you generally&nbsp;cannot remove such communications from the Site.</p>
+	<div class="privacy_headings" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; ">
+		<h2 style="margin-top: 0px; margin-right: 0px; margin-bottom: 18px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 24px; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; color: rgb(44, 48, 49); font: normal normal bold 29px/32px Helvetica, Arial, sans-serif; ">
+			Security</h2>
+	</div>
+	<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 30px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; line-height: 1.5em; ">
+		LiquidSpace takes reasonable precautions to protect Users’ Non-Public Information. Your account information is located on a secured server behind a firewall. Because email&nbsp;and instant messaging are not secure communications, we cannot guarantee the security&nbsp;of any private information sent to us by email or instant messaging services.</p>
+	<div class="privacy_headings" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; ">
+		<h2 style="margin-top: 0px; margin-right: 0px; margin-bottom: 18px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 24px; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; color: rgb(44, 48, 49); font: normal normal bold 29px/32px Helvetica, Arial, sans-serif; ">
+			Data Transfer</h2>
+	</div>
+	<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 30px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; line-height: 1.5em; ">
+		By using the Service, you are consenting to have the data you submit to or through the&nbsp;Service transferred to and processed in the United States.</p>
+	<div class="privacy_headings" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; ">
+		<h2 style="margin-top: 0px; margin-right: 0px; margin-bottom: 18px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; font-size: 24px; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; color: rgb(44, 48, 49); font: normal normal bold 29px/32px Helvetica, Arial, sans-serif; ">
+			Contacting LiquidSpace</h2>
+	</div>
+	<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 30px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; line-height: 1.5em; ">
+		If you have any questions about this Privacy Policy or LiquidSpace’s privacy practices in&nbsp;general, please contact us at:</p>
+	<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 30px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; line-height: 1.5em; ">
+		Doug Marinaro</p>
+	<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 30px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; line-height: 1.5em; ">
+		<span style="background-color: transparent; line-height: 1.5em; ">Phone : &nbsp;855-254-7843</span></p>
+	<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 30px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; line-height: 1.5em; ">
+		Email &nbsp;:&nbsp;&nbsp;<span id="privcy_links" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; "><a href="mailto:privacy@liquidspace.com" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; color: rgb(0, 148, 231); ">privacy@liquidspace.com</a></span></p>
+	<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 30px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; line-height: 1.5em; ">
+		Last revised on April 15, 2011</p>
+	<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 30px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; text-decoration: none; line-height: 1.5em; ">
+		&nbsp;</p>
+</div>
+<p>
+	&nbsp;</p>
+</div>
 
 <script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-20598269-4']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
+   $(document).ready(function () {
+      $("body").addClass("small-search-bar");
+   });
 </script>
+ 
+            </div>
+        </div>
+
+        <footer class="grid_16">
+           <ul class="footer-nav">
+                 <li><a href="http://blog.liquidspace.com">Blog</a></li>                 
+              <li><a href="/find-rent-office-meeting-space">How It Works</a></li>
+              <li><a href="/aboutus">About</a></li>
+              <li><a href="/Venues">Locations</a></li>
+              <li><a href="/Home/Terms-Of-Use">Terms of Use</a></li>
+              <li><a href="/Home/Privacy-Policy">Privacy Policy</a></li>
+              <li><a href="/cancelpolicy/flexible">Cancellation Policy</a></li>
+                 <!-- ver: 2.1.0.0 -->
+           </ul>
+         <ul class="copy-list">
+            <li>© 2011-2012 LiquidSpace, Inc. All Rights Reserved</li>
+         </ul>
+      </footer>
+
+    </div>
+    <div id="SignInDialog" style="display: none;"><div class="popup-wrapper" id="popup-wrapper">   
+    <img id="CloseBtn" onclick="closeDialog();return false;" src="/Content/Images/Icons/close-icon.png">
+    <h1>SIGN IN TO CONTINUE</h1>
+<form id="SignInForm" action="/Account/Fakemethod" method="post" onsubmit="LogIn();" target="loginframe"><input data-val="true" data-val-required="The TermsOfUseAccepted field is required." id="TermsOfUseAccepted" name="TermsOfUseAccepted" type="hidden" value="False">        <div class="popup-small-container" id="login">
+            <div id="formErrors" class="formErrors">
+            </div>
+            <div class="custom-spacer">
+               <div class="editor-label">
+                   <label for="Email_Address">Email Address</label>
+               </div>
+               <div class="editor-field">
+                   <input class="ui-corner-all gradient_input" data-val="true" data-val-required="The Email address field is required." id="UserName" name="UserName" type="text" value="">
+                   <span class="field-validation-valid" data-valmsg-for="UserName" data-valmsg-replace="true"></span>
+               </div>
+            </div>
+            <div class="custom-forgot-spacer">
+               <div class="editor-label">
+                   <label for="Password">Password</label>
+               </div>
+               <div class="editor-field">
+                   <input class="ui-corner-all gradient_input" data-val="true" data-val-required="The Password field is required." id="Password" name="Password" type="password">                   
+                   <div><span class="forgot"><a href="/Account/ForgotPasswordEnterEmail" target="_self">Forgot your password?</a></span></div>
+                   <span class="field-validation-valid" data-valmsg-for="Password" data-valmsg-replace="true"></span>                
+               </div>                          
+            </div>
+            <div class="custom-spacer">
+               <div class="editor-label">                  
+               </div>
+               <div class="editor-field">
+                  <button class="orange-button ui-widget ui-state-default ui-corner-all" type="submit" id="popupsubmit" value="Sign In">Sign In</button>
+                  <div style="display: block; float: left; margin: 10px 0 0 10px; vertical-align:middle;"><input data-val="true" data-val-required="The Remember me? field is required." id="RememberMe" name="RememberMe" type="checkbox" value="true"><input name="RememberMe" type="hidden" value="false"><label for="RememberMe" style="margin-left:3px;">Stay signed in</label></div>
+               </div>
+            </div>
+            <div class="custom-join-spacer">
+               <div class="editor-label">                   
+               </div>
+               <div class="editor-field">
+                  <div><span class="details">Don't have an account? <a href="/Account/Register?venueId=00000000-0000-0000-0000-000000000000&amp;lsOrig=False" target="_self">Join LiquidSpace</a></span></div>
+               </div>
+            </div>
+			
+        </div>        
+       <iframe id="loginframe" name="loginframe" style="display: none"></iframe>
+</form></div>
+<script type="text/javascript">
+    LSHelper.HelperLib.autoEllipseText('.oneLineEllipse', 290, 100, ["170", "0"]);
+    document.SSO_logon_Completed = function (data) {       
+       loginSuccess(data);
+    };
+
+    function loginSuccess(data) {
+       if (LSHelper.Account.onLogInSuccessCallback != undefined && LSHelper.Account.onLogInSuccessCallback != null && $.isFunction(LSHelper.Account.onLogInSuccessCallback))
+          LSHelper.Account.onLogInSuccessCallback(data.userId);
+       if (LSHelper.Account.onlyHeaderReload == undefined || LSHelper.Account.onlyHeaderReload == null || LSHelper.Account.onlyHeaderReload != true) {
+          if (LSHelper.Account.popUpRedirectUrl != undefined && LSHelper.Account.popUpRedirectUrl != null && LSHelper.Account.popUpRedirectUrl != "")
+             window.location = LSHelper.Account.popUpRedirectUrl;
+          else {
+             reloadPage();
+          }
+       }
+       else {
+          $.get('/Account/UserMenu', function (data) {
+             $('#userMenu').html(data);
+          });
+          $("#SignInDialog").dialog("close");
+       }
+    }
+
+    function LogIn() {        
+        $('#formErrors').hide();
+        if ($('#SignInForm').validate().form()) {
+            ajaxData = $('#SignInForm').formToArray(true);
+            LSHelper.HelperLib.blockUI($('#SignInDialog'));
+            $.ajax({
+               type: 'POST',
+               url: '/Account/LogOnPopUp',
+               data: ajaxData,
+               success: function (data) {
+                  if (data.success == true) {
+                     if (data.showTermsOfUse) {
+                        showTermsOfUse(data);
+                     }
+                     else
+                        loginSuccess(data);
+                  }
+                  else if (data.success == false) {
+                     $('#formErrors').text(data.error)
+                     $('#formErrors').show()
+                     LSHelper.HelperLib.unblockUI($('#SignInDialog'));
+                  }
+               },
+               error: function () {
+                  $('#formErrors').text('Internal Server Error... Try again.')
+                  $('#formErrors').show()
+                  LSHelper.HelperLib.unblockUI($('#SignInDialog'));
+               }
+
+            });
+        }
+      }
+
+      function showTermsOfUse(data) {
+         $.ajax({
+            type: 'GET',
+            url: '/Account/ShowTermsOfUse',
+            success: function (touPage) {
+               jQuery('#popup-wrapper').hide().after(touPage);
+               jQuery('#acceptTermsOfUse').click(function () {
+                  jQuery('#TermsOfUseAccepted').val('True');
+                  removeTermsOfUse();
+                  LogIn();
+               });
+            },
+            error: function () {
+               $('#formErrors').text('Internal Server Error... Try again.')
+               $('#formErrors').show()
+               LSHelper.HelperLib.unblockUI($('#SignInDialog'));
+            }
+
+         });
+      }
+
+    function reloadPage(querystringTackon) {
+        var currentUrl = window.location.href;
+        if (currentUrl.indexOf("#") > 0) {
+            currentUrl = currentUrl.substr(0, currentUrl.indexOf("#"));
+        }
+        if (querystringTackon != null && querystringTackon.length > 0 && currentUrl.indexOf(querystringTackon) < 0) {            
+            if (currentUrl.indexOf("?") < 0)
+                currentUrl += "?" + querystringTackon;
+            else
+                currentUrl += "&" + querystringTackon;            
+        }
+
+        window.location.href = currentUrl;
+    }
+    $(document).ready(function () {
+       $.validator.unobtrusive.parseDynamicContent("#SignInForm");       
+    });
+    function closeDialog() {
+       removeTermsOfUse();
+       $("#SignInDialog").dialog("close");
+    }
+    function removeTermsOfUse() {
+       jQuery('#tou-popup-wrapper').remove();
+       jQuery('#popup-wrapper').show();
+       LSHelper.HelperLib.unblockUI($('#SignInDialog'));
+    }
+</script>
+</div>
+    
+    <!--google-analytics-->
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-20598269-4']);
+    _gaq.push(['_setDomainName', 'liquidspace.com']);
+    _gaq.push(['_trackPageview']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+
 
 
 
