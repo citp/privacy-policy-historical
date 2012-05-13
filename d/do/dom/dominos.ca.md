@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dominos.ca privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220224635id_/http%3A//www.dominos.ca/pages/legal-privacy-ca.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dominos.ca privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513124206id_/http%3A//www.dominos.ca/pages/legal-privacy-ca.jsp) for the most accurate reproduction.*
 
 # Domino's Pizza Privacy Policy
 
