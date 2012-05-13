@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alcula.com privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012080536id_/http%3A//www.alcula.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alcula.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513192938id_/http%3A//www.alcula.com/privacy) for the most accurate reproduction.*
 
 # www.alcula.com Privacy Policy
 
