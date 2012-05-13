@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the post-sentinel.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112191811id_/http%3A//www.post-sentinel.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the post-sentinel.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513165117id_/http%3A//www.post-sentinel.com/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Post-Sentinel Health - Health News - National News - African Mango Irvingia Gabonensis - Weight Loss Medical Miracle? - Privacy Policy
+# Post-Sentinel - Health and Wellness News that Matters to You - Privacy Policy
+
+Privacy Policy
 
 We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
 
