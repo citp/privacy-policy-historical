@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skipton.co.uk privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228005714id_/http%3A//www.skipton.co.uk/securityAndPrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skipton.co.uk privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513021544id_/http%3A//www.skipton.co.uk/securityAndPrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Important Security Cookie & Privacy Policy- Skipton Building Society - mutual matters
+# Important Security Cookie & Privacy Policy- Skipton My Building Society
 
 Skipton Building Society is committed to protecting your privacy and keeping your personal information secure. This policy does not extend to external websites accessed from this site - including those of other members of the Skipton Building Society Group. Please read the terms and conditions of any other sites separately.
 
