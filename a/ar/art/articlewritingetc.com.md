@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlewritingetc.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112191805id_/http%3A//articlewritingetc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlewritingetc.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513115830id_/http%3A//articlewritingetc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Article Writing Etc
 
@@ -29,7 +29,8 @@ Your information helps us to more effectively respond to your customer service r
 \- To process transactions  
 We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.  
 \- To send periodic emails  
-The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+The email address Users provide for order processing, will be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. Users will receive emails that may include company news, updates, related product or service information, affiliate offers etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.  
+By placing an order or registering to articlewritingetc.com you give us a permission to send you these emails.
 
 How we protect your information
 
