@@ -1,814 +1,407 @@
-<!--The following is the downloaded HTML source of the hbosouthasia.com privacy policy that was archived on 2011-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111124024656id_/http%3A//www.hbosouthasia.com/terms/Privacy-Policy-18) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hbosouthasia.com privacy policy that was archived on 2012-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120513040237id_/http%3A//www.hbosouthasia.com/privacy-policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Welcome to HBO Asia</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Welcome to HBO South Asia</title>
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<link href="css/main.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1"></script><script language="javascript" src="js/jquery-1.js"></script>
+<script language="javascript" src="js/jquery_002.js"></script>
+<script language="javascript" src="js/main.js"></script>
+<script language="javascript" src="js/main1.js"></script>
+<script language="javascript" src="js/date.js"></script>
+<script type="text/javascript">
+	var loading_spinner_rectangle = '<div align="center"><img src="images/ajax-loader.gif"/></div>';
+</script>
+<script language="javascript" type="text/javascript">
+
+$(document).ready(function(){
+	//load data
+	getPlanerlist('2012-05-12');
+});
+
+/**
+ * Get Movie list data
+ *
+ */
+
+function getPlanerlist(TheDate){
+	
+	var url = "ajax/getplannerlist.php";
+
+var d = formatDate(parseDate(TheDate),'dd NNN yyyy');
 
 
-<base href="http://www.hbosouthasia.com/system/application/views/"><link rel="stylesheet" type="text/css" href="website/inc/english/layout.css"><link rel="stylesheet" type="text/css" href="website/inc/english/main.css"><link rel="stylesheet" type="text/css" href="website/inc/english/thickbox.css"><link rel="stylesheet" type="text/css" href="website/inc/english/select2css.css"><link rel="stylesheet" type="text/css" href="website/inc/english/jquery.ui.all.css"><link rel="stylesheet" type="text/css" href="website/inc/english/hbo.css"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" src="website/inc/jquery-1.3.2.js"></script><script language="javascript" src="website/inc/jquery.corner.js"></script><script language="javascript" src="website/inc/thickbox.js"></script><script language="javascript" src="website/inc/english/main.js"></script><script language="javascript" src="website/inc/jquery.ui.core.min.js"></script><script language="javascript" src="website/inc/jquery.ui.datepicker.min.js"></script><script language="javascript" src="includes/playerlitepro/js/swfobject.js"></script>
+
+	$("#hboplanner").html(loading_spinner_rectangle);
+	$("#boxcontainer").hide();
+	$("#datediv").html(d);
+	$("a.country_click1").removeClass("back_img_btm");
+
+	$.post(
+		url,
+		{
+			movie_date : TheDate
+		},
+		function(data) {
+			$("#hboplanner").html(data);
+		}
+	);
+}
+</script>
+</head>
+<body class="body_bg">
+<div id="wrapper">
+  <div id="main">
+    <div id="container">
+      <div class="top_panel">
+        <div class="top_banner"><img src="banners/action_blockbuster.gif" alt="HBO Highlights"></div>
+        <div class="search_panel">
+          <div class="search_left"><img src="images/box_left.gif"></div>
+          <div class="search_center">
+            <form action="search.php" method="get">
+              <span class="search_bg">
+              <input type="text" class="search_txt" onblur="fnCheckSearch(this.id)" value="SEARCH" id="top_search" name="search_name">
+              <input type="submit" value="" class="search_btn">
+              </span>
+            </form>
+            <div class="country"> <a class="country_click" href="javascript:void(0)"></a> Country: Pakistan </div>
+          </div>
+          <div style=" display:none; border-radius: 10px 10px 10px 10px;" class="drop_side">
+            <div id="dropdown" style="border-radius: 10px 10px 10px 10px;">
+              <div class="tri_angle"></div>
+              <table cellspacing="0" cellpadding="0" border="0" width="100%">
+                <tbody>
+                  <tr>
+                    <td valign="top"><div class="drop_menu">
+                        <div>English</div>
+                        <div class="top_line">
+                          <table cellspacing="0" cellpadding="0" border="0" width="100%">
+                            <tbody>
+                              <tr>
+                                <td valign="top"><ul>
+                                    <li><a href="selectcountry.php?id=3">Bangladesh</a></li>
+                                    <li><a href="selectcountry.php?id=1">India</a></li>
+                                    <li><a href="selectcountry.php?id=4">Maldives</a></li>
+                                    <li><a href="selectcountry.php?id=2">Pakistan</a></li>
+                                    <li><a href="http://www.hboasia.com/family" target="_blank">HBO Asia</a></li>
+                                  </ul></td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </div>
+                      </div></td>
+                    <td valign="top"></td>
+                  </tr>
+                </tbody>
+              </table>
+              <div class="clear_b"></div>
+            </div>
+          </div>
+          <div class="search_right"><img src="images/box_right.gif"></div>
+        </div>
+      </div>      <div class="clear_b" id="channel_naiv_new">
+        <!-- start left current logo -->
+        <div id="logo_show_new">
+          <div class="logo_top_new"></div>
+          <div style="height:100px;" class="lolo_position"> <a href="http://hbosouthasia.com/home" style="display:block;">
+            <div class="hbo_logo_india"></div>
+            </a>
+              <!-- show current logo -->
+          </div>
+        </div>
+        <!-- end left current logo -->
+        <!-- start top navigation and channel -->
+        <div id="top_navigation_new">
+          <div class="float_r four_small"></div>
+        </div>
+        <!-- end top navigation and channel -->
+      </div>
+      <script src="jquery.popupWindow.js"></script>
+<div id="header">
+      	<div id="header-left"><img src="images/left.gif"></div>
+     		 <div id="header-center"><div id="logo"><h1><a href="http://www.hbosouthasia.com/"><img border="0" src="images/hbo_logo.jpg" title="HBO South Asia, Its Not TV, Its HBO - English Movie Channel India, Pakistan, Bangladesh, Maldives"></a></h1></div>
+      <div class="menu">
+      <ul>
+      <li><a href="aboutus.php">ABOUT US</a></li>
+      <li><a href="movies.php">MOVIES</a></li>
+      <li><a href="alloriginals.php">HBO ORIGINALS</a></li>
+      <li><a href="schedule.php">SCHEDULE</a></li>
+      <li><a href="talktous.php">TALK TO US</a></li>
+      </ul></div>
+      <div class="new-connect">
+<div class="top-connect"><a href="https://www.facebook.com/dialog/oauth?client_id=290373271008258&amp;redirect_uri=http://apps.facebook.com/hbosouthasiaconnect/process.php&amp;scope=email,read_stream,publish_stream" title="FBConnect" class="login"><img src="images/connect.png"></a></div></div>
+	  <script>
+  $('.login').popupWindow({ 
+height:430, 
+width:800, 
+top:50, 
+left:50 
+}); 
+</script>
+
+	</div>
+      <div id="header-right"><img src="images/right.gif"></div>
+      </div>      <div class="center">
+        <div class="center-left">
+          <div class="center-left-main">
+    
+    <div class="center-left-main-first">
+     
+<!-- center part star-->      
+       
+      
+      
+      
+      <div class="privacytext">
+      
+<h2>HBOAsia.com Privacy Policy</h2><br>
+<p>Thank you for visiting the HBO Asia site. Your privacy is important  to us. To better protect your privacy, we provide this notice  explaining our online information practices and the choices you can make  about the way your information is collected and used at this site.</p><br><br><br>
+
+<h3>The Information We Collect</h3>
+<p>At our site, you can enter contests, vote in polls or otherwise  express an opinion, or subscribe to one of our services such as our  e-newsletters. The types of personally identifiable information that may  be collected at these pages include: name, address, e-mail address,  telephone number, age, and information about your interests in and use  of various programs, and services.</p><br><br><br>
+
+<h3>How We Use the Information</h3>
+<p>We may use the information you provide about yourself to fulfill  your requests for our programs and services, to respond to your  inquiries about our offerings, and to offer you other programs or  services that we believe may be of interest to you.</p><br><br><br>
+
+<p>We sometimes use this information to communicate with you, such as  to notify you when you have won one of our contests or when we make  changes to our subscriber agreements, to conduct a survey, poll or  research, to fulfill a request by you for our e-newsletter, or to  contact you about your account with us.</p><br><br><br>
+
+<p>The information we collect in connection with our online community  is used to provide an interactive experience. We use this information to  facilitate participation in this online community and, from time to  time, to offer you programs or services.</p><br><br><br>
+
+<p>We sometimes use the information that we collect to improve the  design and content of our site and to enable us to personalize your  HBOAsia.com experience. We also may use this information in the  aggregate to analyze site usage and traffic, as well as to offer you  products, programs, or services.</p><br><br><br>
+
+<p>We may disclose personally identifiable information in response to  legal process, for example, in response to a court order. We also may  disclose such information in response to a law enforcement agency's  request.</p><br><br><br>
+
+<p>Agents and contractors of HBO Asia who have access to personally  identifiable information are required to protect this information in a  manner that is consistent with this Privacy Policy Statement by, for  example, not using the information for any purpose other than to carry  out the services they are performing for HBO Asia.</p><br><br><br>
+
+<p>Although we take appropriate measures to safeguard against  unauthorized disclosures of information, we cannot assure you that  personally identifiable information that we collect will never be  disclosed in a manner that is inconsistent with this Privacy Policy  Statement.</p><br><br><br>
+
+<p>Finally, we will not use or transfer personally identifiable  information provided to us in ways unrelated to the ones described above  without also providing you with an opportunity to opt out of these  unrelated uses.</p><br><br><br>
+
+<h3>Collection of Information by Third-Party Sites and Sponsors</h3>
+<p>Our site may contain links to other sites whose information  practices may be different than ours. Visitors should consult the other  sites' privacy notices as we have no control over information that is  submitted to, or collected by, these third parties.</p><br><br>
+<br>
+
+<p>Our site sometimes may offer content (e.g. contests or promotions)  that is sponsored by or co-branded with identified third parties. By  virtue of these relationships, the third parties may obtain personally  identifiable information that visitors voluntarily submit to participate  in the site activity. HBO Asia has no control over these parties' use  of this information.</p><br><br><br>
+
+<h3>Cookies</h3>
+<p>To enhance your experience with our sites, many of our web pages  use "cookies." Cookies are text files we place in your computer's  browser to store your preferences. Cookies, by themselves, do not tell  us your e-mail address or other personally identifiable information  unless you choose to provide this information to us by, for example,  registering at one of our sites. However, once you choose to furnish the  site with personally identifiable information, this information may be  linked to the data stored in the cookie.</p><br><br><br>
+<p>We use cookies to understand site usage and to improve the content and offerings on our sites.</p><br><br><br>
+
+<h3>Our Commitment to Security</h3>
+<p>We have put in place appropriate procedures to safeguard and help  prevent unauthorized access, maintain data security, and correctly use  the information we collect online.</p><br><br><br>
+
+<h3>How to Contact Us</h3>
+<p>If you have any questions or concerns about our Privacy Policy Statement you may <a href="contact-us.php" style="text-decoration:underline;">Contact Us</a>.</p><br><br>
+
+<p>HBO Asia reserves the right, at its discretion, to change, modify,  add, or remove portions of this Privacy Policy Statement at any time.  You should check this page periodically for changes. Your continued use  of our site following the posting of changes to this Privacy Policy  Statement will mean that you accept those changes.</p>
+
+      </div>
+      
+  		</div>
+   </div>
+        </div>
+        <!-- Right part start-->
+        <div class="center-right">
+          <div class="center-right-main">
+            <div class="center-right-first">
+			<div class="text"><h1 class="cl-text">Tonight On HBO</h1>
+     <div class="today-button"><div id="datediv" style="float:left;">12 May 2012</div><a class="country_click1" href="javascript:void(0)"></a></div>
+     <div id="boxcontainer" style=" display:none; border-radius: 10px 10px 10px 10px;" class="drop_side1">
+            <div id="dropdown1" style="border-radius: 10px 10px 10px 10px;">
+              <div class="tri_angle1"></div>
+              <table cellspacing="0" cellpadding="0" border="0" width="100%">
+                <tbody>
+                  <tr>
+                    <td valign="top"><div class="drop_menu1">
+                        <div>Upcoming Dates</div>
+                        <div class="top_line1">
+                          <table cellspacing="0" cellpadding="0" border="0" width="100%">
+                            <tbody>
+                              <tr>
+                                <td valign="top"><ul>
+                                    <li><a onclick="getPlanerlist('2012-05-13');return false;" href="#">13 May 2012</a></li>
+								    <li><a onclick="getPlanerlist('2012-05-14');return false;" href="#">14 May 2012</a></li>
+                                    <li><a onclick="getPlanerlist('2012-05-15');return false;" href="#">15 May 2012</a></li>
+                                  </ul></td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </div>
+                      </div></td>
+                    <td valign="top"></td>
+                  </tr>
+                </tbody>
+              </table>
+              <div class="clear_b"></div>
+            </div>
+          </div>
+     </div>
+	  <div id="hboplanner" class="center-right-first-text"><div class="center-right-first-text"></div></div>
+			</div>
+            
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Untitled Document</title>
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<script>
+function selectsocial(media)
+{
+if(media=='fb')
+{
+$("#twitter").hide();
+$("#fblike").show();
+}
+else
+{
+$("#fblike").hide();
+$("#twitter").show();
+}
+}
+</script>
+<div class="center-right-second">
+              <div class="link"><img src="images/facebook.png" onclick="selectsocial('fb')">&nbsp;&nbsp;<img src="images/twitter.png" onclick="selectsocial('tw')"></div>
+              <div id="fblike" class="tab"><fb:like-box href="http://www.facebook.com/HBOINdia" width="248" height="376" colorscheme="dark" show_faces="true" stream="true" header="false"></fb:like-box>
+</div>
+<div id="twitter" class="tab" style="display:none;">
+<script src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'profile',
+  rpp: 4,
+  interval: 30000,
+  width: 248,
+  height: 288,
+  theme: {
+    shell: {
+      background: '#333333',
+      color: '#ffffff'
+    },
+    tweets: {
+      background: '#000000',
+      color: '#ffffff',
+      links: '#ce0eeb'
+    }
+  },
+  features: {
+    scrollbar: false,
+    loop: false,
+    live: true,
+    behavior: 'all'
+  }
+}).render().setUser('hboindia').start();
+</script>
+</div>
+            </div>
+            <div class="center-right-third1">
+  <div class="text"><h1 class="cl-text">Watch Out For These Movies</h1></div>
+  <div class="heart"><img src="images/heart.png"></div>
+  <div class="main-tune-in">
+<div class="tune-in"><p><span>Sunday, 13 May at 9.30 PM</span><br>
+                   <a href="moviepreview.php?id=1738">Around The World In 80 Days</a></p>
+                </div><div class="tune-in"><p><span>Sunday, 13 May at 7.25 PM</span><br>
+                   <a href="moviepreview.php?id=1737">Next</a></p>
+                </div>
+  
+  </div>
+ 
+  </div> 
+          </div>
+        </div>
+      </div>
+<div class="footer">
+            	<div class="footer-main">
+                	<div class="footer-main-left">
+                    <div class="first">
+                    <div class="footer-menu-head">ABOUT</div>
+                    <ul>
+                    <li><a href="aboutus.php">Studios</a></li>
+                    <li><a href="hbo.php">HBO</a></li>
+                    <li><a href="milestones.php">Milestones</a></li>
+                    <li><a href="territories.php">Territories</a></li>
+                    </ul>
+                    </div>
+                    <div class="first">
+                    <div class="footer-menu-head">CONTACT</div>
+                    <ul>
+                    <li><a href="contact-us.php">Contact Us</a></li>
+                    <li><a href="http://www.hboasia.com/contact/career" target="_blank">Jobs at HBO Asia</a></li>
+                    <li><a href="faq.php">FAQs</a></li>
+                    </ul>
+                    </div>
+                    <div class="first">
+                    <div class="footer-menu-head">TERMS/POLICY</div>
+                    <ul>
+                    <li><a href="privacy-policy.php">Privacy Policy</a></li>
+                    <li><a href="term-of-use.php">Terms Of Use</a></li>
+                    </ul>
+                    </div>
+                    </div>
+                    
+                    <div class="footer-main-right">
+                    
+                    <div class="myform">
+                   <form action="search.php" method="get">
+              <span class="search_bg">
+              <input type="text" class="search_txt" onblur="fnCheckSearch(this.id)" value="SEARCH" id="top_search1" name="search_name">
+              <input type="submit" value="" class="search_btn">
+              </span>
+            </form>
+            
+            <div class="media-link" style="float:left">
+      <a href="http://www.facebook.com/HBOIndia" target="_blank"><img src="images/fb-logo.png"></a>
+      <a href="http://twitter.com/#!/hboindia" target="_blank"><img src="images/twitter-logo.png"></a>
+      <a href="http://www.youtube.com/indiahbo" target="_blank"><img src="images/youtube-logo.png"></a>
+      <div class="connect">&nbsp;
+</div>
+	 
+      </div>
+            
+            </div></div>
+                </div>
+                
+         <div class="fotter-end">
+         
+         <div class="hbo-logo"><img src="images/hbo.png" alt="HBO South Asia - Hollywood and English movies channel in India, Pakistan, Maldives and Bangladesh." border="0"></div>
+         <p class="bottom">This website is intended for viewing solely in the following territories. © 2011 HBO Asia. All Rights Reserved.<br>
+							Home Box Office®, HBO® and Cinemas® are registered trademarks of Home Box Office, Inc.<br>
+							HBO Signature, HBO Family and HBO Hits are service marks of Home Box Office, Inc.</p>
+         </div>
+               
+            
+            
+            </div>      
+    </div>
+  </div>
+</div>
+<!-- Google Analytics Starts -->
 <script type="text/javascript">
 
-
   var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-26929501-1']);
-  _gaq.push(['_setDomainName', 'hbosouthasia.com']);
-    _gaq.push(['_trackPageview']);
+  _gaq.push(['_setAccount', 'UA-2215784-16']);
+  _gaq.push(['_trackPageview']);
 
   (function() {
-
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-</script> 
-
-<base href="http://www.hbosouthasia.com/system/application/views/"><script language="javascript" src="admin/validate_form.js"></script><style>
-.error_field{
-	background-color: #FFCCCC;
-}
-
-.error_msg{
-	color:#FF0000;
-}
-
-.error_message_div{
-	color:#FF0000;
-	font-size:12px;
-	text-align:left;
-	padding:20px;
-}
-</style>
-<script type="text/javascript">
-	//var loading_spinner_rectangle = '<div align="center"><img src="im/loading_spinner_rectangle.gif"/></div>';
-	//var loading_spinner_rectangle = '<div align="center"><img src="im/ajax_loader.gif"/></div>';
-	var loading_spinner_rectangle = '<div align="center"><img src="im/ajax_loader_2.gif"/></div>';
-	var site_url = "http://www.hbosouthasia.com/";
-</script>
-
-<script>
-$(function() {
-	//$( ".datepicker" ).datepicker({ dateFormat: 'D, d M' });
-
-	//var datep = $(".datepicker").datepicker({ dateFormat: 'D, d M' });
-	var today = new Date();
-	 var min_time = new Date(today.getFullYear(), today.getMonth(), 1);
-	 var max_time = new Date(today.getFullYear(), today.getMonth()+2, 0);
-
-	// added by peigang
-			<!-- shaorui | 2011-01-06 | #401 -->
-					var datep = $(".datepicker").datepicker({ dateFormat: 'D, d/m/yy', minDate:min_time, maxDate: max_time} );
-		
-
-
-	
-
-	var cur = true;
-	$(".datepicker").click(function() {
-		if(cur)
-		{
-			cur = false;
-		}
-		else
-		{
-			datep.datepicker( "hide" );
-		}
-	});
-
-	$('.datepicker').focus(function() {
-		$('.datepicker').blur();
-	});
-});
-</script>
-
-<script language="javascript" type="text/javascript">
-function change_country(id,name,language_id){
-
-
-	if(id != '') {
-		$.ajax({
-			type: "POST",
-			url: "http://www.hbosouthasia.com/homepage/set_default_country",
-			data: "id="+escape(id)+"&name="+name+"&language_id="+escape(language_id),
-			beforeSend: function() {
-
-			},
-			complete: function(data) {
-				var is_south = data.responseText;
-				if(is_south == 'no_south'){
-					var current_url = top.location.href;
-					var arr = new Array();
-					arr = current_url.split("/");
-					var index = 0;
-					if(arr.Count == 12){
-						index = current_url.indexOf(arr[11]);
-					}
-					var url = ''
-					if(index >0){
-						url = current_url.substring(0,index);
-					}
-					top.location.href = "http://www.hbosouthasia.com/index.php/home";
-				}else if(is_south == 'is_south'){
-					var base = "http://www.hbosouthasia.com/";
-					var current_url = window.location.href;
-					var tail = current_url.substring(base.length,current_url.length);
-					//top.location.href = 'http://www.hbosouthasia.com/'+tail;
-					top.location.href = 'http://www.hbosouthasia.com/index.php/home';
-				}
-			}
-
-		});
-	}
-}
-
-function change_channel(C_ID,C_name){
-
-	if(C_name == 'HBO'){
-		C_name = 'hbo';
-	}else if(C_name == 'HBO Family'){
-		C_name = 'family';
-	}else if(C_name == 'HBO Signature'){
-		C_name = 'signature';
-	}else if(C_name == 'HBO Hits'){
-		C_name = 'hits';
-	}else if(C_name == 'HBO Ondemand'){
-				C_name = 'ondemandhk';
-			}
-
-	if(C_ID != '') {
-		$.ajax({
-			type: "POST",
-			url: "http://www.hbosouthasia.com/homepage/set_default_channel",
-			data: "channel_id="+escape(C_ID),
-			beforeSend: function() {
-
-			},
-			complete: function(data) {
-				var url_change = data.responseText;
-
-				if(url_change == 'changetomax'){
-					var now_url = document.getElementById('max_url').value;
-					top.location = now_url;
-				}else if(url_change == 'changetoasia'){
-					var now_url = document.getElementById('asia_url').value+C_name;
-
-					top.location = now_url;
-				}else {
-					var now_url = document.getElementById('now_url').value;
-					top.location.href = now_url;
-				}
-			}
-
-		});
-	}
-}
-</script>
-
-<script language="javascript" type="text/javascript">
-$(document).ready(function(){
-	//load data
-	getTopBannerData();
-	var strCookie=document.cookie;
-	//alert(strCookie);
-	//getRightBannerData();
-});
-
-/**
- * Get Top banner data
- *
- */
-function getTopBannerData(){
-
-	var url = "http://www.hbosouthasia.com/webbanner/ajaxGetTopBanner";
-
-	$.post(
-		url,
-		{},
-		function(data) {
-			$("#top_banners").html(data);
-		}
-	);
-}
-
-/**
- * Get Top banner data
- *
- */
-function getRightBannerData(position){
-
-	var url = "http://www.hbosouthasia.com/webbanner/ajaxGetRightBanner";
-
-	$.post(
-		url,
-		{position : position},
-		function(data) {
-			$("#slideshow_div").html(data);
-		}
-	);
-}
-
-/**
- * Add banner Click data
- */
-function bannerClickthrusAdd(Banner_ID){
-	var User_IP = "174.129.237.157";
-	var url = "http://www.hbosouthasia.com/webbanner/ajaxBannerClickthtus";
-	$.post(
-		url,
-		{
-			banner_id : Banner_ID,
-			user_ip : User_IP
-		},
-		function(data) {
-			//shaorui | 2010-12-29
-			bannerClickURLRedirect(Banner_ID);
-		}
-	);
-	return false;
-}
-
-/**
- * Redirect URL
- * shaorui | 2010-12-29
- */
-function bannerClickURLRedirect(Banner_ID){
-	if( document.getElementById('banner_url_' + Banner_ID) ){
-		var Banner_URL = document.getElementById('banner_url_' + Banner_ID).value;
-		if( Banner_URL!='' ){
-			window.open(Banner_URL, '_blank');
-		}
-	}
-}
-</script>
-
-<!-- overlay -->
-<script type="text/javascript">
-//cookie operation functions
-function getCookie(c_name){
-	if (document.cookie.length>0){
-		c_start=document.cookie.indexOf(c_name + "=")
-		if (c_start!=-1){
-			c_start=c_start + c_name.length+1
-			c_end=document.cookie.indexOf(";",c_start)
-			if (c_end==-1) c_end=document.cookie.length
-			return unescape(document.cookie.substring(c_start,c_end))
-		}
-	}
-
-	return ""
-}
-
-//cookie operation functions
-function setCookie(c_name,value,expiredays){
-	var exdate=new Date();
-	exdate.setDate(exdate.getDate()+expiredays);
-	document.cookie=c_name+ "=" +escape(value)+((expiredays==null) ? "" : ";expires="+exdate.toGMTString())
-}
-
-//cookie operation functions
-function pop_banner(){
-	var c_name = getCookie('user_id');
-}
-</script>
-<script type="text/javascript">
-function banner_overlay(URL){
-
-//$(function() {
-	var screen_l = $('#banner_content').offset().left + 10;
-	var h = $(window).height();
-
-	//alert(screen_l + " | "+ screen_t);
-
-	var iframe = document.createElement('iframe');
-	iframe.id = 'pop_iframe';
-	iframe.style.overflow = 'auto';
-	if(h - 100 >= 700)
-	{
-		iframe.style.height = '700px';
-		var screen_t = (h - 700)/2;
-	}
-	else
-	{
-		iframe.style.height = (h-100)+'px';
-		var screen_t = (h - h + 100)/2;
-	}
-	iframe.style.width = '980px';
-	iframe.style.border = 'none';
-	iframe.style.position = 'absolute';
-	iframe.style.display = 'none';
-	iframe.style.zIndex = '900';
-	iframe.style.top = screen_t + 'px';
-	iframe.style.left = screen_l + 'px';
-	iframe.allowTransparency = 'true';
-	iframe.setAttribute('frameborder', '0', 0);
-
-	iframe.src = URL;
-
-
-	var c_name = getCookie('user_id');
-	if(c_name){
-		return;
-	}else{
-		$('body').append('<div id="banner_over" style="background:url(im/thickbox_overlay_bg.png) repeat; position:fixed; width:100%; height:100%; z-index:500; top:0; left:0;"></div>');
-		$("#banner_over").append(iframe);
-
-		setCookie('user_id', 'banner_pop', 1);
-
-		$("#pop_iframe").css({width: '980'});
-
-		if (iframe.attachEvent){
-	   		iframe.attachEvent("onload", function(){
-				$("#pop_iframe").css({display: 'block'});
-
-				$("#banner_over").append('<div style="position:absolute; left: '+ (screen_l+900) +'px; top: '+ (screen_t -20) +'px;"><a href="javascript:void(0)" id="close_button" style="font-size:14px;">Close</a></div>');
-				//$("#pop_iframe").animate({width: '980'}, 1500);
-			});
-		} else {
-			iframe.onload = function(){
-				$("#pop_iframe").css({display: 'block'});
-
-				$("#banner_over").append('<div style="position:absolute; left: '+ (screen_l+900) +'px; top: '+ (screen_t -20) +'px;"><a href="javascript:void(0)" id="close_button" style="font-size:14px;">Close</a></div>');
-				//$("#pop_iframe").animate({width: '980'}, 1500);
-			};
-		}
-	}
-
-	$("#close_button").bind("click", function() {
-		$("#banner_over").remove();
-		return false;
-	});
-	$("#banner_over").click(function() {
-		$(this).remove();
-	});
-}
-</script>
-
-</head>
-
-
-<body class="body_bg" style="background-image:url(&quot;http://www.hbosouthasia.com/uploads/channels/background/2010-12-31-21-46-56_hbo_bg.jpg&quot;)">
-	<!-- start shadow div -->
-	<div id="main">
-    	<!-- start main content -->
-        <div id="content">
-            <!-- start top top banner, search and coutry -->
-            <div id="top_banner">
-
-
-				<!-- Top banner -->
-                <div class="top_banner" id="top_banners"></div>
-
-                <!-- start  -->
-                <div class="float_l box_left">
-                	<img src="im/box_left.gif">
-                </div>
-
-                												<input type="hidden" id="now_url" value="http://www.hbosouthasia.com/index.php/home">
-				<input type="hidden" id="max_url" value="http://www.cinemaxasia.com/home">
-				<input type="hidden" id="asia_url" value="http://www.hboasia.com/">
-
-                <div class="box_middle float_l">
-					<!-- shaorui | 2011-03-14 | #438 -->
-					<form name="movie_search_form" id="movie_search_form" action="http://www.hbosouthasia.com/webmovie/searchMovie" method="post">
-                	<span class="search_bg">
-                        <input type="text" name="search_name" id="top_search" value="SEARCH" onblur="fnCheckSearch(this.id)" class="search_txt">
-						<input type="hidden" name="Search_Submit" value="Search_Submit">
-                        <input type="submit" class="search_btn" value="">
-                    </span>
-					</form>
-
-                    <!-- start country -->
-                    <div class="country">
-                    	<a href="javascript:void(0)" class="country_click"></a>
-                    	Country: Singapore                    </div>
-                    <!-- end country -->
-
-                    <!-- start dropdown box -->
-                    <div class="drop_side" style="display:none;">
-                    <div id="dropdown">
-                    	<div class="tri_angle"></div>
-						<table border="0" cellpadding="0" cellspacing="0" width="100%">
-                        <tbody><tr><td valign="top"><div class="drop_menu">
-                        	<div>English</div>
-
-                            <div class="top_line">
-								<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr>
-                        		                        		                            				                            																                            				                            	                                                        				                            																                            				                            	                                                        				                            																                            				                            	                                                        				                            																                            				                            	                            
-	                            								<td valign="top">
-	                            <ul>
-                            			                            				                            					                            						                            		<li><a href="#" onclick="change_country(6,'',3);return false;">Bangladesh</a></li>
-				                            				                            			                            				                            					                            						                            		<li><a href="#" onclick="change_country(13,'',3);return false;">India</a></li>
-				                            				                            			                            				                            					                            						                            		<li><a href="#" onclick="change_country(17,'',3);return false;">Maldives</a></li>
-				                            				                            			                            				                            					                            						                            		<li><a href="#" onclick="change_country(24,'',3);return false;">Pakistan</a></li>
-				                            				                            			                            		                            		
-									<!-- shaorui | 2011-02-18 | hbaasia in hbosouthasia -->
-
-																			<!-- shaorui | 2011-03-22 | #459 -->
-										
-										<li><a href="http://www.hboasia.com/homepage/index/4">HBO Asia</a></li>
-									                            	</ul></td>
-                            	                                	<!--<li><a href="#">Bangladesh</a></li>
-                                    <li><a href="#">Brunei</a></li>
-                                    <li><a href="#">Cambodia</a></li>
-                                    <li><a href="#">China</a></li>
-                                    <li><a href="#">Hong Kong</a></li>
-                                    <li><a href="#">India</a></li>
-                                    <li><a href="#">Indonesia</a></li>
-                                    <li><a href="#">Macau</a></li>
-                                    <li><a href="#">Malaysia</a></li>
-                                    <li><a href="#">Maldives</a></li>-->
-
-															   </tr></tbody></table>
-                            </div>
-                        </div></td>
-						<td valign="top">
-                        						 </td></tr>
-						</tbody></table>
-                        <div class="clear_b"></div>
-
-                    </div>
-                    </div>
-                    <!-- end dropdown box -->
-                </div>
-                <div class="float_l">
-                	<img src="im/box_right.gif">
-                </div>
-
-                <div class="clear_b"></div>
-            </div>
-            <!-- start top top banner, search and coutry -->
-
-            <!--change by liuyuan | 2011-1-13 | #411-->
-            
-          	<!-- start channel navigation -->
-            <div id="channel_naiv_new" class="clear_b">
-                <!-- start left current logo -->
-                <div id="logo_show_new">
-                	<div class="logo_top_new"></div>
-                	<div class="lolo_position" style="height:auto;">
-                    	                		                    	<a style="display:block;" href="http://www.hbosouthasia.com/home"><div class="current_logo"></div></a><!-- show current logo -->
-                    	                    </div>
-                </div>
-                <!-- end left current logo -->
-
-                <!-- start top navigation and channel -->
-                <div id="top_navigation_new">
-
-                    <div class="float_r four_small"></div>
-                    <!-- start navigation -->
-                    <div class="navigation_new">
-
-                    	<ul>
-                        	<li><a href="http://www.hbosouthasia.com/home" class="top_home "></a></li>
-                        	                        	
-                                                        <li><a href="http://www.hbosouthasia.com/home_hd" class="top_inhd "></a></li>
-                            
-
-							                            <li><a href="http://www.hbosouthasia.com/about" class="top_about "></a>
-                            </li>
-
-							<!-- ondemand | shaorui | 2010-12-21 -->
-							                            <li><a href="http://www.hbosouthasia.com/weboriginal" class="top_original "></a></li>
-							
-                            <li><a href="http://www.hbosouthasia.com/webmovies" class=" top_movie  "></a></li>
-
-							<!-- ondemand | shaorui | 2010-12-21 -->
-							                            <li><a href="http://www.hbosouthasia.com/webschedule" class="top_schedule "></a></li>
-							
-                            <li><a href="http://www.hbosouthasia.com/webnewsletter" class="top_newsletter "></a></li>
-                            <li><a href="http://www.hbosouthasia.com/subscribe" class="top_subscribe "></a></li>
-                        </ul>
-                    </div>
-                    <!-- end navigation -->
-                </div>
-                <!-- end top navigation and channel -->
-            </div>
-            <!-- end channel navigation -->
-
-          	<!-- start main content -->
-<div id="main_content">
-
-	<!-- start banner navigation -->
-	<!-- end banner navigation -->
-
-	<!-- start banner content -->
-	<!-- end banner content -->
-
-	<!-- start movies and right column -->
-
-		<!-- start Highlights, Originals and Popular -->
-
-			<div id="banner_navi"><!-- start banner navigation -->
-                	<span class="hbo_main_title hbo_team_policy "></span>
-
-            </div><!-- end banner navigation -->
-
-            <!-- start movies and right column -->
-            <div id="movies_column">
-            	<div class="home_left float_l">
-					 <div class="about_cont_left top_zero">
-                        	<!-- start about contain left bar -->
-                            <div class="float_l">
-								<div>
-														 										 					<div class="h3_p">
-
-											<div id="content_main">
-<div class="standard">
-<h2>HBOAsia.com Privacy Policy</h2>
-<p>Thank you for visiting the HBO Asia site. Your privacy is important  to us. To better protect your privacy, we provide this notice  explaining our online information practices and the choices you can make  about the way your information is collected and used at this site.</p>
-<h3>The Information We Collect</h3>
-<p>At our site, you can enter contests, vote in polls or otherwise  express an opinion, or subscribe to one of our services such as our  e-newsletters. The types of personally identifiable information that may  be collected at these pages include: name, address, e-mail address,  telephone number, age, and information about your interests in and use  of various programs, and services.</p>
-<h3>How We Use the Information</h3>
-<p>We may use the information you provide about yourself to fulfill  your requests for our programs and services, to respond to your  inquiries about our offerings, and to offer you other programs or  services that we believe may be of interest to you.</p>
-<p>We sometimes use this information to communicate with you, such as  to notify you when you have won one of our contests or when we make  changes to our subscriber agreements, to conduct a survey, poll or  research, to fulfill a request by you for our e-newsletter, or to  contact you about your account with us.</p>
-<p>The information we collect in connection with our online community  is used to provide an interactive experience. We use this information to  facilitate participation in this online community and, from time to  time, to offer you programs or services.</p>
-<p>We sometimes use the information that we collect to improve the  design and content of our site and to enable us to personalize your  HBOAsia.com experience. We also may use this information in the  aggregate to analyze site usage and traffic, as well as to offer you  products, programs, or services.</p>
-<p>We may disclose personally identifiable information in response to  legal process, for example, in response to a court order. We also may  disclose such information in response to a law enforcement agency's  request.</p>
-<p>Agents and contractors of HBO Asia who have access to personally  identifiable information are required to protect this information in a  manner that is consistent with this Privacy Policy Statement by, for  example, not using the information for any purpose other than to carry  out the services they are performing for HBO Asia.</p>
-<p>Although we take appropriate measures to safeguard against  unauthorized disclosures of information, we cannot assure you that  personally identifiable information that we collect will never be  disclosed in a manner that is inconsistent with this Privacy Policy  Statement.</p>
-<p>Finally, we will not use or transfer personally identifiable  information provided to us in ways unrelated to the ones described above  without also providing you with an opportunity to opt out of these  unrelated uses.</p>
-<h3>Collection of Information by Third-Party Sites and Sponsors</h3>
-<p>Our site may contain links to other sites whose information  practices may be different than ours. Visitors should consult the other  sites' privacy notices as we have no control over information that is  submitted to, or collected by, these third parties.</p>
-<p>Our site sometimes may offer content (e.g. contests or promotions)  that is sponsored by or co-branded with identified third parties. By  virtue of these relationships, the third parties may obtain personally  identifiable information that visitors voluntarily submit to participate  in the site activity. HBO Asia has no control over these parties' use  of this information.</p>
-<h3>Cookies</h3>
-<p>To enhance your experience with our sites, many of our web pages  use "cookies." Cookies are text files we place in your computer's  browser to store your preferences. Cookies, by themselves, do not tell  us your e-mail address or other personally identifiable information  unless you choose to provide this information to us by, for example,  registering at one of our sites. However, once you choose to furnish the  site with personally identifiable information, this information may be  linked to the data stored in the cookie.</p>
-<p>We use cookies to understand site usage and to improve the content and offerings on our sites.</p>
-<h3>Our Commitment to Security</h3>
-<p>We have put in place appropriate procedures to safeguard and help  prevent unauthorized access, maintain data security, and correctly use  the information we collect online.</p>
-<h3>How to Contact Us</h3>
-<p>If you have any questions or concerns about our Privacy Policy Statement you may <a href="http://www.hboasia.com/hbo/contact_us">Contact Us</a>.</p>
-<h3>&nbsp;</h3>
-<p>HBO Asia reserves the right, at its discretion, to change, modify,  add, or remove portions of this Privacy Policy Statement at any time.  You should check this page periodically for changes. Your continued use  of our site following the posting of changes to this Privacy Policy  Statement will mean that you accept those changes.</p>
-</div>
-</div>
-										</div>
-					 										 									 										 									 										 									 										 									 										 												</div>
-
-						</div>
-					</div>
-				</div>
-
-
-
-		<!-- start right column -->
-		<script language="javascript" type="text/javascript">
-$(document).ready(function(){
-	//load data
-	getScheduleTonightData('right');
-});
-</script>
-
-<script language="javascript" type="text/javascript">
-$(document).ready(function(){
-	//load data
-	//getScheduleTonightData('right');
-	//getPopularMovieListingRightData();
-	getRightBannerData('right');
-});
-
-/**
- * Get Movie list data
- *
- */
-function getScheduleTonightData(position){
-	var url = "http://www.hbosouthasia.com/webschedule/ajaxScheduleTonightPublic";
-
-	$("#scheduleTonightPublicDiv").html(loading_spinner_rectangle);
-
-	$.post(
-		url,
-		{position : position},
-		function(data) {
-			$("#scheduleTonightPublicDiv").html(data);
-		}
-	);
-}
-</script>
-
- <script type="text/javascript" language="javascript">
-
-function post_choice(id) {
-	var value = $("#pollresult div.poll_radio input:checked").attr('value');
-
-	$.ajax({
-		type: 'post',
-		url: 'http://www.hbosouthasia.com/misc_page/add_count_choice',
-		dataType: 'html',
-		data: 'value='+value+'&&polling_id='+id,
-		success: function(data) {
-
-			$("#pollresult div.poll_radio").remove();
-			$("#pollresult div.margin_top").remove();
-
-			$("#pollresult").append(data);
-		}
-	});
-};
-
-/**
- * Get Movie list data
- *
- */
-function getPopularMovieListingRightData(){
-	//2011-3-11 | by liu yuan | new module watch out for southasia
-			var url = "http://www.hbosouthasia.com/webmovie/ajaxGetWatchout_right";
-	
-	$("#popular_movie_right_div").html(loading_spinner_rectangle);
-
-	$.post(
-		url,
-		{},
-		function(data) {
-			$("#popular_movie_right_div").html(data);
-		}
-	);
-}
-</script>
-
-
-<div class="max_tottile_1"></div>
-<!-- start right column -->
-<div class="home_right float_l">
-
-	<!-- start Tonight on HBO -->
-	<div id="scheduleTonightPublicDiv"></div>
-	<!-- end Tonight on HBO -->
-
-
-
-	<!-- start rotating banners -->
-	<div id="slideshow_div" style="margin:0;"></div>
-	<!-- end rotating banners -->
-
-
-		    <!-- start voted most popular -->
-    <div>
-
-
-    	<div class="alter_header_3 float_l tonight_title  alter_header_3_new  old_title_hidden"></div>
-        <div class="float_l popular_icon voted_heart" style="position:relative;">
-        	<div class="max_voted_title_1"></div>
-        </div>
-        <div class="clear_b height_20"></div>
-
-		<script language="javascript" type="text/javascript">
-		$(document).ready(function(){
-			//load data
-			getPopularMovieListingRightData();
-		});
-		</script>
-		<!-- start vote movie list -->
-		<div id="popular_movie_right_div"></div>
-		<!-- end vote movie list -->
-    </div>
-    <!-- end did you know -->
-	
-
-
-</div>
-<!-- end right column -->
-		<!-- end right column -->
-
-		<div class="clear_b"></div>
-	</div>
-	<!-- end movies and right column -->
-</div>
-<!-- end main content -->
-
-			<!-- start bottom sites and footer -->
-            <div id="site_footer">
-            	<!-- start bottom sites -->
-                <div>
-                	<div class="site_one">
-                    	<ul>
-                        	<li class="top_li">
-	                        							   		ABOUT
-						   		                        	</li>
-
-                        	                         	 	                        	 	                        	 	<li><a href="http://www.hbosouthasia.com/about/hbo-asia-10">
-																																	HBO Asia																																																																																																																		</a>
-								</li>
-                        		<li><a href="http://www.hbosouthasia.com/about/channel">
-									   											   		Channels
-									   				                           		</a>
-								</li>
-                        	 																                        	 	                        	 										<li><a href="http://www.hbosouthasia.com/about/studios-21">
-																																	Studios																																																																																																																		</a>
-									</li>
-																							                        	 	                        	 										<li><a href="http://www.hbosouthasia.com/about/milestones-12">
-																																	Milestones																																																																																																																		</a>
-									</li>
-																							                        	 	                        	 										<li><a href="http://www.hbosouthasia.com/about/territories-14">
-																																	Territories																																																																																																																		</a>
-									</li>
-																							
-
-                        </ul>
-                    </div>
-
-                    <div class="site_one">
-                    	<ul>
-                        	<li class="top_li">
-                        							   		CONTACT
-						   		                        	</li>
-
-							                        	                        													<li><a href="http://www.hbosouthasia.com/contact/Contact-Us-15">
-																															Contact Us																																																																																																														</a></li>
-																							                        												<li><a href="http://www.hbosouthasia.com/contact/career">
-									                           			                           				Jobs at HBO Asia                           			                           		                           			                           		                           			                           		                           			                           		                           			                           		                           			</a>
-							</li>
-									<li><a href="http://www.hbosouthasia.com/contact/FAQs-16">
-																												FAQs																																																																																																			</a></li>
-																							                        </ul>
-                    </div>
-
-                    <div class="site_one last_site">
-                    	<ul>
-                        	<li class="top_li">
-                        							   		TERMS/POLICY
-						   		                        	</li>
-                        										<li><a href="http://www.hbosouthasia.com/terms/Privacy-Policy-18">
-																												Privacy Policy																																																																																																			</a></li>
-																<li><a href="http://www.hbosouthasia.com/terms/Terms-of-Use-17">
-																												Terms of Use																																																																																																			</a></li>
-							                        </ul>
-                    </div>
-
-                    <!-- start search -->
-                    <div class="float_l">
-                    	<form name="movie_search_form" id="movie_search_form" action="http://www.hbosouthasia.com/webmovie/search" method="post">
-							<span class="search_bg">
-								<input type="text" name="search_name" id="bottom_search" value="SEARCH" onblur="fnCheckSearch(this.id)" class="search_txt">
-								<input type="hidden" name="Search_Submit" value="Search_Submit">
-								<input type="submit" class="search_btn" value="">
-							</span>
-						</form>
-
-                        <!--start outside site links-->
-                        <div id="outside_site">
-                        	                        	<!--english language-->
-                        	<img src="website/im/english/link_f.png"><a href="http://www.facebook.com/HBOIndia?ref=ts" target="_blank">Visit us on Facebook</a>
-                            <br>
-                            <img src="website/im/english/link_t.png"><a href="http://twitter.com/hboindia" target="_blank">Tweet with us on Twitter</a>
-
-                                                    </div>
-                        <!--end outside site links-->
-
-                    </div>
-                    <!-- end search -->
-
-                    <div class="clear_b"></div>
-                </div>
-                <!-- end bottom sites -->
-
-                <!-- start footer -->
-                <div id="footer">
-                	<div class="float_l">
-                    	<img src="im/bottom_logo.gif">
-                    </div>
-                    <div class="footer_copy float_l" style="margin-top:0;">
-                                        	This website is intended for viewing solely in the following
-                    																																												                    	<a href="http://www.hbosouthasia.com/about/territories-14">territories</a>
-                    						                    	. © 2011 HBO Asia. All Rights Reserved.<br>
-                        Home Box Office®, HBO® and Cinemax® are registered trademarks of Home Box Office, Inc.<br>
-                        HBO Signature, HBO Family and HBO Hits are service marks of Home Box Office, Inc.
-                                        </div>
-                    <div class="clear_b"></div>
-                </div>
-                <!-- end footer -->
-
-                <!-- max logo -->
-                <div class="hbo_max_below_logo"></div>
-            </div>
-            <!-- end bottom sites and footer -->
-        </div>
-        <!-- end main content -->
-    </div>
-    <!-- end shadow div -->
-
-	<!-- shaorui | 2011-01-25 -->
-			<script type="text/javascript">
-			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-			</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-			<script type="text/javascript">
-			var pageTracker = _gat._getTracker("UA-1681172-3");
-			pageTracker._initData();
-			pageTracker._trackPageview();
-		</script>
-	
-<script type="text/javascript" language="javascript">
-
-var alen = $("a.add_base").length;
-var basepath = "http://www.hbosouthasia.com/index.php/";
-for (var i = 0; i<alen; i++ ){
-	var path = $("a.add_base").eq(i).attr("href");
-	path = path.substr(7,path.length-1);
-	path = basepath + path;
-	$("a.add_base").eq(i).attr("href",path);
-}
 
 </script>
+<!-- Google Analytics Ends -->
 
 
-</body></html>
+<div id="jqGarbageCollector" style="display: none;"></div></body></html>
