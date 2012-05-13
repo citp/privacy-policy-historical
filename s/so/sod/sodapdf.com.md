@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the sodapdf.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102005707id_/http%3A//sodapdf.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sodapdf.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513202344id_/http%3A//sodapdf.com/privacy.aspx) for the most accurate reproduction.*
 
-# Soda PDF - Smart & Simple
+# 
 
 ## Privacy Policy  
 Last updated January 2011
 
-**LULU software** has been awarded **TRUSTe** 's Privacy Seal signifying that this privacy policy and practices have been reviewed by   
+**LULU software™** has been awarded **TRUSTe** 's Privacy Seal signifying that this privacy policy and practices have been reviewed by   
 **TRUSTe** for compliance with [**TRUSTe** 's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the   
 collection and use of your personal information. **TRUSTe** 's mission, as an independent third party, is to accelerate online trust among   
 consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. 
 
 If you have questions or complaints regarding our privacy policy or practices, please contact us at: 
 
-**LULU software**  
+**LULU software™**  
 4700 de la Savane, Suite 210  
 Montreal, QC, H4P 1T7  
 Canada  
@@ -28,7 +28,7 @@ collected through any software downloaded from this Web site.
 
 ### Privacy Policy
 
-We, at **LULU software** , respect your right to privacy and we are committed to protecting it. This statement discloses the information   
+We, at **LULU software™** , respect your right to privacy and we are committed to protecting it. This statement discloses the information   
 that we gather and track, how we use the information, and with whom we share this same information.  
 This privacy policy covers [www.sodapdf.com](http://www.sodapdf.com/). 
 
@@ -61,7 +61,7 @@ If you provide us with personal information or credit information about somebody
 
 If you would like access to your personal information to correct, update or delete it, please contact us as described below:
 
-**LULU software**  
+**LULU software™**  
 4700 de la Savane, Suite 210  
 Montreal, QC, H4P 1T7  
 Canada  
@@ -131,4 +131,4 @@ We analyze visitors’ use of our sites by tracking information such as page vie
 
 ### Contact Information
 
-**LULU software** welcomes your comments regarding this Privacy Policy. If you have any questions regarding our Privacy Policy, or this Web site, please visit [www.sodapdf.com](http://www.sodapdf.com/) and choose your preferred method of contact (e-mail or phone).
+**LULU software™** welcomes your comments regarding this Privacy Policy. If you have any questions regarding our Privacy Policy, or this Web site, please visit [www.sodapdf.com](http://www.sodapdf.com/) and choose your preferred method of contact (e-mail or phone).
