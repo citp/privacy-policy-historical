@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chw.org privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102013712id_/http%3A//www.chw.org/display/PPF/DocID/34931/router.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chw.org privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513154629id_/http%3A//www.chw.org/display/PPF/DocID/34931/router.asp) for the most accurate reproduction.*
 
 # Terms of Use
 
@@ -20,7 +20,7 @@ Children's Hospital and Health System does not collect your e-mail address unles
 
 | 
 
-Copyright 1999-2011, Children's Hospital and Health System, Inc. ALL RIGHTS RESERVED. Text, graphics, logos and HTML code are protected by U.S. and international copyright laws. The marks Fight Asthma Milwaukee (FAM) Allies, Injury Free Coalition for Kids of Milwaukee, NEW Kids, NEW Kids at the Y, Project ADAM, Project Ujima, Comfort Zone, Smart Beginnings I and II, Safe Kids Southeast Wisconsin Coalition and Safe Kids Wisconsin Coalition and their logos are marks of Children's Hospital and Health System.
+Copyright 1999-2012, Children's Hospital and Health System, Inc. ALL RIGHTS RESERVED. Text, graphics, logos and HTML code are protected by U.S. and international copyright laws. The marks Fight Asthma Milwaukee (FAM) Allies, Injury Free Coalition for Kids of Milwaukee, NEW Kids, NEW Kids at the Y, Project ADAM, Project Ujima, Comfort Zone, Smart Beginnings I and II, Safe Kids Southeast Wisconsin Coalition and Safe Kids Wisconsin Coalition and their logos are marks of Children's Hospital and Health System.
 
 The materials on this Web site are copyrighted by us and/or by other applicable rights holders. You may download and reprint a single copy of the materials from this Web site for your own personal, non-commercial use only, provided you include all applicable notices and disclaimers. Any other use of the materials is strictly prohibited without our prior written permission and the permission of the applicable rights holder(s).
 
