@@ -1,11 +1,30 @@
-<!--The following is the downloaded HTML source of the marketday.com privacy policy that was archived on 2011-11-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111112064313id_/http%3A//www.marketday.com/mdnet/util/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the marketday.com privacy policy that was archived on 2012-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120513104946id_/http%3A//www.marketday.com/mdnet/util/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Market Day | Privacy
 </title><meta http-equiv="content-type" content="text/html;charset=utf-8"><link href="../styles/layout.css" rel="stylesheet" type="text/css"><link href="../styles/appearance.css" rel="stylesheet" type="text/css"><link href="../styles/menus.css" rel="stylesheet" type="text/css"><link href="../styles/imenus0.css" rel="stylesheet" type="text/css"><link href="../styles/QuickRegistrationStyle.css" rel="stylesheet" type="text/css">
 
+
+<!-- BEGIN: OnlineOpinion v5+
+* The following code is Copyright 1998-2010 Opinionlab, Inc.
+* All rights reserved. Unauthorized use is prohibited.
+* This product and other products of OpinionLab, Inc. are protected by U.S. Patent No. US
+6606581, 6421724, 6785717 B1 and other patents pending.
+* http://www.opinionlab.com
+-->
+<link id="ctl00_oo_css" rel="stylesheet" type="text/css" href="/mdnet/onlineopinionV5/oo_style.css">
+
+    <script language="javascript" type="text/javascript" src="/mdnet/onlineopinionV5/oo_engine.min.js"></script>
+
+    <script language="javascript" type="text/javascript" src="/mdnet/onlineopinionV5/oo_conf_floating.js"></script>
+
+    <script language="javascript" type="text/javascript" src="/mdnet/onlineopinionV5/oo_conf_invite.js"></script>
+<!--END: OnlineOpinion v5+ -->
+
+
     <script language="JavaScript" type="text/javascript" src="/mdnet/js/common.js"></script>
+   
 
     <script type="text/javascript" language="javascript">
 <!--
@@ -31,21 +50,80 @@ function ratingsDisplayed(totalReviewsCount, avgRating, ratingsOnlyReviewCount, 
 
     <style type="text/css">#BVSecondaryCustomerRatings .BVRRSecondaryRatingSummary .BVRRRatingSummaryNoReviews {display: block;}</style>
     <style type="text/css">#BVSecondaryCustomerRatings .BVRRSecondaryRatingSummary .BVRRRatingSummaryNoReviewsWriteImageLink {display: none;}</style>
+    <!-- for testing purposes on local host we are losing connection to the js folder-->
+<!-- <script src="/MDNETPsplitt/js/jquery-1.7.js" type="text/javascript" language="javascript"></script> -->
+ <script src="/mdnet/js/jquery-1.7.js" type="text/javascript" language="javascript"></script>
+ <script language="javascript" type="text/javascript">
+ <!--
+    
+    $(document).ready(function() {
+         $("a").click(RemoveUnload);
+         $(":input").click(RemoveUnload);          
+         $("img").click(RemoveUnload); 
+          $("button").click(RemoveUnload);         
+          
+   });
+   
+   
+    function RemoveUnload(){ window.onbeforeunload=null;     }
+   
+    function readCookie(name) {
+	        var nameEQ = name + "=";
+	        var ca = document.cookie.split(';');
+	        for(var i=0;i < ca.length;i++) {
+	        	var c = ca[i];
+	        	while (c.charAt(0)==' ') c = c.substring(1,c.length);
+	    	if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	        }
+	return null;
+    }
+   
+  
+    function confirmExit()
+    {  
+     
+      var cartItems = false; 
+    Cart = readCookie('cart');
+       
+      if (Cart) {
+      cartItems = true;
+         }
+         
+         if ((window.location.toString().indexOf("checkout.aspx") != -1) || (window.location.toString().indexOf("ShoppingBasket.aspx") != -1) )
+          {
+               if (cartItems == true)  {
+              return "If you have new items in your cart they will be deleted once you leave the page.";
+            // return "You have items in your cart.";
+            //return confirm('You have items in your cart.  Are you sure you want to leave the current page?');
+               
+              } 
+          }
+    } 
+//-->
+</script>
 </head>
 <body>
 
-    <script language="javascript1.2" src="/mdnet/coremetrics/v40/eluminate.js" type="text/javascript">
-    </script>
-
-    <script language="javascript1.2" src="/mdnet/coremetrics/cmdatatagutils.js" type="text/javascript">
-    </script>
+   <script type="text/javascript" src="//libs.coremetrics.com/eluminate.js"></script>
+  <!-- below for live -->
+    <script language="JavaScript" type="text/javascript" src="/mdnet/js/cmcustom.js"></script>
+    <!--below for test-->
+   <!-- <script language="JavaScript" type="text/javascript" src="/MDNETPSPLITT/js/cmcustom.js"></script>-->
+   
+   <!--  <script language="javascript1.2" src="/mdnet/coremetrics/cmdatatagutils.js" type="text/javascript">
+    </script>-->
 
     <script language="javascript1.2" type="text/javascript">
 <!--
 if( "" != "3450160" )
 {
-    if( !false == true )
-        cmSetProduction();        // points to the production environment, w/out this points to test
+    if( !false == true ) {
+        cmSetClientID("90221701",true,"data.coremetrics.com","marketday.com");
+            } else {
+        cmSetClientID("60221701",false,"testdata.coremetrics.com","marketday.com");
+        }
+   // if( !false == true )
+    //    cmSetProduction();        // points to the production environment, w/out this points to test
 
     if( "" == "ProductView" )
     {
@@ -151,154 +229,157 @@ if( "" != "3450160" )
     </noscript>
     <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
 <input type="hidden" name="ctl00_RC_R1_UcQuickRegistration_TabStrip1_ClientState" id="ctl00_RC_R1_UcQuickRegistration_TabStrip1_ClientState" value="{&quot;ActiveTabIndex&quot;:0,&quot;TabState&quot;:[true,true,true]}">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNzU1ODQ2NjA1D2QWAmYPZBYCAgEPZBYGZg8WAh4EaHJlZgUwaHR0cHM6Ly93d3cubWFya2V0ZGF5LmNvbS9jaGVja291dC9jaGVja291dC5hc3B4ZAIBD2QWAgIBD2QWBgIEDw8WAh4HVmlzaWJsZWdkFgQCAw8PFgIfAWdkFgICBQ8PFgIfAWhkZAIHD2QWBAIBD2QWAgIFD2QWAgIDDxBkZBYBZmQCAw9kFgICBQ9kFgICAw8QZGQWAWZkAg4PZBYCAgEPZBYCAgUPEGRkFgFmZAIPD2QWAgIBDxBkZBYBZmQCCQ9kFgICAQ9kFgICMg8PFgIfAWdkZBgCBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WDAUaY3RsMDAkUkMkUjEkaWJ0blNlYXJjaEZvb2QFF2N0bDAwJFJDJFIxJGlidG5SZWNpcGVzBRhjdGwwMCRSQyRSMSRidG5LZXl3b3JkR28FGWN0bDAwJFJDJFIxJGJ0bkNhdGVnb3J5R28FFGN0bDAwJFJDJFIxJGJ0bkxvZ2luBSljdGwwMCRSQyRSMSRVY1F1aWNrUmVnaXN0cmF0aW9uJFRhYlN0cmlwMQVDY3RsMDAkUkMkUjEkVWNRdWlja1JlZ2lzdHJhdGlvbiRUYWJTdHJpcDEkVGFiUGFuZWwxJGltZ0J0blppcENvZGVHbwVMY3RsMDAkUkMkUjEkVWNRdWlja1JlZ2lzdHJhdGlvbiRUYWJTdHJpcDEkVGFiUGFuZWwyJGltZ0J0bk9yZ2FuaXphdGlvbk5hbWVHbwVEY3RsMDAkUkMkUjEkVWNRdWlja1JlZ2lzdHJhdGlvbiRUYWJTdHJpcDEkVGFiMSRpbWdCdG5BY2NvdW50TnVtYmVyR28FLmN0bDAwJFJDJFIxJFVjUXVpY2tSZWdpc3RyYXRpb24kY2hrRW1haWxBbGVydHMFMGN0bDAwJFJDJFIxJFVjUXVpY2tSZWdpc3RyYXRpb24kYnRuU3RhcnRTaG9wcGluZwUVY3RsMDAkUkMkUjEkYnRuQ2FuY2VsBSljdGwwMCRSQyRSMSRVY1F1aWNrUmVnaXN0cmF0aW9uJFRhYlN0cmlwMQ8PZGZkWhI3p0O6QU0mIiai21ePemANa5U=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNzU1ODQ2NjA1D2QWAmYPZBYEZg9kFgICCA8WAh4IZGlzYWJsZWRkZAIBD2QWCgIBDxYCHgRocmVmBTBodHRwczovL3d3dy5tYXJrZXRkYXkuY29tL2NoZWNrb3V0L2NoZWNrb3V0LmFzcHhkAgIPFgIfAQVAaHR0cHM6Ly93d3cubWFya2V0ZGF5LmNvbS9jdXN0c2VydmljZS9uZXd0b21hcmtldGRheV9zZWFyY2guYXNweGQCAw8WAh4HVmlzaWJsZWhkAgQPZBYCAgEPZBYIAgQPZBYCAgIPFgIfAQUwaHR0cHM6Ly93d3cubWFya2V0ZGF5LmNvbS9jaGVja291dC9jaGVja291dC5hc3B4ZAIFDw8WAh8CZ2QWBAIDDw8WAh8CZ2QWAgIFDw8WAh8CaGRkAgcPZBYEAgEPZBYCAgUPZBYCAgMPEGRkFgFmZAIDD2QWAgIFD2QWAgIDDxBkZBYBZmQCDw9kFgICAQ9kFgICBQ8QZGQWAWZkAhAPZBYCAgEPEGRkFgFmZAIKD2QWAgIBD2QWAgI0Dw8WAh8CZ2RkGAIFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYLBRpjdGwwMCRSQyRSMSRpYnRuU2VhcmNoRm9vZAUXY3RsMDAkUkMkUjEkaWJ0blJlY2lwZXMFGGN0bDAwJFJDJFIxJGJ0bktleXdvcmRHbwUZY3RsMDAkUkMkUjEkYnRuQ2F0ZWdvcnlHbwUUY3RsMDAkUkMkUjEkYnRuTG9naW4FKWN0bDAwJFJDJFIxJFVjUXVpY2tSZWdpc3RyYXRpb24kVGFiU3RyaXAxBUNjdGwwMCRSQyRSMSRVY1F1aWNrUmVnaXN0cmF0aW9uJFRhYlN0cmlwMSRUYWJQYW5lbDEkaW1nQnRuWmlwQ29kZUdvBUxjdGwwMCRSQyRSMSRVY1F1aWNrUmVnaXN0cmF0aW9uJFRhYlN0cmlwMSRUYWJQYW5lbDIkaW1nQnRuT3JnYW5pemF0aW9uTmFtZUdvBURjdGwwMCRSQyRSMSRVY1F1aWNrUmVnaXN0cmF0aW9uJFRhYlN0cmlwMSRUYWIxJGltZ0J0bkFjY291bnROdW1iZXJHbwUwY3RsMDAkUkMkUjEkVWNRdWlja1JlZ2lzdHJhdGlvbiRidG5TdGFydFNob3BwaW5nBRVjdGwwMCRSQyRSMSRidG5DYW5jZWwFKWN0bDAwJFJDJFIxJFVjUXVpY2tSZWdpc3RyYXRpb24kVGFiU3RyaXAxDw9kZmR5g8fwHPAnm97X4shfn56/uhuhLQ==">
 
-<link rel="stylesheet" type="text/css" href="/MDNet/WebResource.axd?d=SQlEyXPxHlu5imaa3b91WIgeZZe6apMCWEJnyql4tiIV4zq2J3aMPMVGMxafUkbonf1iTLv1HnjCmKgjZUDDAA2&amp;t=634551583894778150">
+<link rel="stylesheet" type="text/css" href="/MDNet/WebResource.axd?d=SQlEyXPxHlu5imaa3b91WIgeZZe6apMCWEJnyql4tiIV4zq2J3aMPMVGMxafUkbonf1iTLv1HnjCmKgjZUDDAA2&amp;t=634650917432278074">
 <script src="/MDNet/ScriptResource.axd?d=gLgcHkuY-6ZNpf8fNgjXdK8DnsaIPJkLrbfeiL43ZlnRJnFCAa3WFGEwnTlHXhLXFKYlLhHi67-BcKc9nmz6TTZRy42P6Mvg_E0h4n3Ibcg1&amp;t=633619899988290712" type="text/javascript"></script>
-<script src="/MDNet/ScriptResource.axd?d=Lo6SaujTsPKX-n1JIwO-532V6tzP-0rtn8QYKfO9xSIeQ7VTyHh60k4_jj3KTbrR5XmJKNUs_kFAZoGD8VYJyA2&amp;t=634551583894778150" type="text/javascript"></script>
-<script src="/MDNet/ScriptResource.axd?d=Lo6SaujTsPKX-n1JIwO-532V6tzP-0rtn8QYKfO9xSLbo_s8Eo0-yL335lXH9e9g0REb2qfOdaInl0gblwiUIA2&amp;t=634551583894778150" type="text/javascript"></script>
-<script src="/MDNet/ScriptResource.axd?d=Lo6SaujTsPKX-n1JIwO-532V6tzP-0rtn8QYKfO9xSK2NbYjP6cF6TwRv9sg24AxqNYis7hxLXFM-Ayd6PvxAKchrSsG36yYdfUysCeuuQc1&amp;t=634551583894778150" type="text/javascript"></script>
-<script src="/MDNet/ScriptResource.axd?d=Lo6SaujTsPKX-n1JIwO-532V6tzP-0rtn8QYKfO9xSIlaFdaZZt2191GIg1HEQsA5p2sMfjdGM3P2QqiB-sNDw2&amp;t=634551583894778150" type="text/javascript"></script>
-<script src="/MDNet/ScriptResource.axd?d=Lo6SaujTsPKX-n1JIwO-532V6tzP-0rtn8QYKfO9xSJQ-vfYekapmpx68rDy2wETjBtkz9gBZm_sHukhOG60lEPuhaW64l2A6TdwBDSDgaPv2j-52CMYeundI79aP19U0&amp;t=634551583894778150" type="text/javascript"></script>
-<script src="/MDNet/ScriptResource.axd?d=Lo6SaujTsPKX-n1JIwO-532V6tzP-0rtn8QYKfO9xSK8Ogb4N8pI4LlVckye3d5PdOy9oSyZ4IDO1bFdJxsn_Q2&amp;t=634551583894778150" type="text/javascript"></script>
-<script src="/MDNet/ScriptResource.axd?d=Lo6SaujTsPKX-n1JIwO-532V6tzP-0rtn8QYKfO9xSKHGinESTAsV8LDCb7x5w64T_GqQEJfzGyMhIB6MWgNe95pKpEOE8PFCzlJ8BPDIBk1&amp;t=634551583894778150" type="text/javascript"></script>
-<script src="/MDNet/ScriptResource.axd?d=Lo6SaujTsPKX-n1JIwO-532V6tzP-0rtn8QYKfO9xSJKHuGeScIWSzA9Mg-Qrf8h49n441luz3tWO_YBnXyi5hB_4KJapQQb9jLRGvO15ok1&amp;t=634551583894778150" type="text/javascript"></script>
-<script src="/MDNet/ScriptResource.axd?d=Lo6SaujTsPKX-n1JIwO-532V6tzP-0rtn8QYKfO9xSLnZIiwrnE53C9FlvNj9lAq2YomMeKyfuSDPY_igyXQ4BSr_iUCxyZqAPmr2krZQWEbM9J3pMl2eXbCLngx_UaZ0&amp;t=634551583894778150" type="text/javascript"></script>
-<script src="/MDNet/ScriptResource.axd?d=Lo6SaujTsPKX-n1JIwO-532V6tzP-0rtn8QYKfO9xSKT-9ZDIhoOTfZFGAUTt3Jul6TVr7BbVDXc5QJGdmceOxzgJ_6oy9mfxOJrGOcBWxY1&amp;t=634551583894778150" type="text/javascript"></script>
-<script src="/MDNet/ScriptResource.axd?d=Lo6SaujTsPKX-n1JIwO-532V6tzP-0rtn8QYKfO9xSKIvXPAD9_5IACxxXOMx8IWxzp2GQyf3Y8_rkadU6r53EpeV1PxA_fdz-5_Xfvygx41&amp;t=634551583894778150" type="text/javascript"></script>
+<script src="/MDNet/ScriptResource.axd?d=Lo6SaujTsPKX-n1JIwO-532V6tzP-0rtn8QYKfO9xSIeQ7VTyHh60k4_jj3KTbrR5XmJKNUs_kFAZoGD8VYJyA2&amp;t=634650917432278074" type="text/javascript"></script>
+<script src="/MDNet/ScriptResource.axd?d=Lo6SaujTsPKX-n1JIwO-532V6tzP-0rtn8QYKfO9xSLbo_s8Eo0-yL335lXH9e9g0REb2qfOdaInl0gblwiUIA2&amp;t=634650917432278074" type="text/javascript"></script>
+<script src="/MDNet/ScriptResource.axd?d=Lo6SaujTsPKX-n1JIwO-532V6tzP-0rtn8QYKfO9xSK2NbYjP6cF6TwRv9sg24AxqNYis7hxLXFM-Ayd6PvxAKchrSsG36yYdfUysCeuuQc1&amp;t=634650917432278074" type="text/javascript"></script>
+<script src="/MDNet/ScriptResource.axd?d=Lo6SaujTsPKX-n1JIwO-532V6tzP-0rtn8QYKfO9xSIlaFdaZZt2191GIg1HEQsA5p2sMfjdGM3P2QqiB-sNDw2&amp;t=634650917432278074" type="text/javascript"></script>
+<script src="/MDNet/ScriptResource.axd?d=Lo6SaujTsPKX-n1JIwO-532V6tzP-0rtn8QYKfO9xSJQ-vfYekapmpx68rDy2wETjBtkz9gBZm_sHukhOG60lEPuhaW64l2A6TdwBDSDgaPv2j-52CMYeundI79aP19U0&amp;t=634650917432278074" type="text/javascript"></script>
+<script src="/MDNet/ScriptResource.axd?d=Lo6SaujTsPKX-n1JIwO-532V6tzP-0rtn8QYKfO9xSK8Ogb4N8pI4LlVckye3d5PdOy9oSyZ4IDO1bFdJxsn_Q2&amp;t=634650917432278074" type="text/javascript"></script>
+<script src="/MDNet/ScriptResource.axd?d=Lo6SaujTsPKX-n1JIwO-532V6tzP-0rtn8QYKfO9xSKHGinESTAsV8LDCb7x5w64T_GqQEJfzGyMhIB6MWgNe95pKpEOE8PFCzlJ8BPDIBk1&amp;t=634650917432278074" type="text/javascript"></script>
+<script src="/MDNet/ScriptResource.axd?d=Lo6SaujTsPKX-n1JIwO-532V6tzP-0rtn8QYKfO9xSJKHuGeScIWSzA9Mg-Qrf8h49n441luz3tWO_YBnXyi5hB_4KJapQQb9jLRGvO15ok1&amp;t=634650917432278074" type="text/javascript"></script>
+<script src="/MDNet/ScriptResource.axd?d=Lo6SaujTsPKX-n1JIwO-532V6tzP-0rtn8QYKfO9xSLnZIiwrnE53C9FlvNj9lAq2YomMeKyfuSDPY_igyXQ4BSr_iUCxyZqAPmr2krZQWEbM9J3pMl2eXbCLngx_UaZ0&amp;t=634650917432278074" type="text/javascript"></script>
+<script src="/MDNet/ScriptResource.axd?d=Lo6SaujTsPKX-n1JIwO-532V6tzP-0rtn8QYKfO9xSKT-9ZDIhoOTfZFGAUTt3Jul6TVr7BbVDXc5QJGdmceOxzgJ_6oy9mfxOJrGOcBWxY1&amp;t=634650917432278074" type="text/javascript"></script>
+<script src="/MDNet/ScriptResource.axd?d=Lo6SaujTsPKX-n1JIwO-532V6tzP-0rtn8QYKfO9xSKIvXPAD9_5IACxxXOMx8IWxzp2GQyf3Y8_rkadU6r53EpeV1PxA_fdz-5_Xfvygx41&amp;t=634650917432278074" type="text/javascript"></script>
         <div id="PageLayoutDiv">
             <div id="topNav">
-                <table id="tblTopNav" align="right" cellpadding="0" cellspacing="0">
-                    <tbody><tr>
-                        <td align="left">
-                            <!--|**START IMENUS**|imenus0,inline-->
-                            <!--[if IE]>
+                
+<table id="tblTopNav" align="right" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+        <td align="left">
+            <!--|**START IMENUS**|imenus0,inline-->
+            <!--[if IE]>
 <style type="text/css">.imcm .imea span{position:absolute;}.imcm .imclear,.imclear{display:none;}.imcm{zoom:1;} .imcm li{curosr:hand;} .imcm ul{zoom:1}.imcm a{zoom:1;}</style>
 <![endif]-->
-                            <!--[if gte IE 7]><style type="text/css">.imcm .imsubc{background-image:url(ie_css_fix);}</style>
+            <!--[if gte IE 7]><style type="text/css">.imcm .imsubc{background-image:url(ie_css_fix);}</style>
 <![endif]-->
-                            <!-- ****** Infinite Menus Rounded Corners Add-On ****** -->
+            <!-- ****** Infinite Menus Rounded Corners Add-On ****** -->
 
-                            <script language="JavaScript" type="text/javascript">
-ulm_round_corner_size_main = 1;
-ulm_round_corner_size_sub =  3;
-                            </script>
+            <script language="JavaScript" type="text/javascript">
+                                ulm_round_corner_size_main = 1;
+                                ulm_round_corner_size_sub =  3;
+            </script>
 
-                            <!--[if lte IE 6]>
+            <!--[if lte IE 6]>
 <style type="text/css">.imgl .imrc{overflow:hidden;}.imgl .imroundcorner{height:1px;}</style>
 <![endif]-->
-                            <!--[if gte IE 7]><style type="text/css">.imgl .imroundcorner{zoom:1;}</style>
+            <!--[if gte IE 7]><style type="text/css">.imgl .imroundcorner{zoom:1;}</style>
 <![endif]-->
 
-                            <script language="JavaScript" type="text/javascript">;function im_round_corners(tb,ms,isget,inner){var size=window["ulm_round_corner_size_"+ms];var pos=0;var wv="";if(!inner)wv+='<div class="imroundcorner" imrctype="'+tb+'" imrcgroup="'+ms+'">';if(tb=="top"){wv+=im_rcs(size,1," imtopspace");for(var i=size-1;i>=0;i--)wv+=im_rcs(i);}else {for(var i=0;i<size;i++)wv+=im_rcs(i);wv+=im_rcs(size,1,"");}if(!inner)wv+='</div>';if(isget)return wv;else document.write(wv);};function im_rcs(pos,is_cap,topclass){if(is_cap)return '<div class="imrbcolor imrc imbrc'+topclass+'" style="margin-left:'+pos+'px;margin-right:'+pos+'px;"></div>';else return '<div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:'+pos+'px;margin-right:'+pos+'px;"></div>';}</script>
+            <script language="JavaScript" type="text/javascript">;function im_round_corners(tb,ms,isget,inner){var size=window["ulm_round_corner_size_"+ms];var pos=0;var wv="";if(!inner)wv+='<div class="imroundcorner" imrctype="'+tb+'" imrcgroup="'+ms+'">';if(tb=="top"){wv+=im_rcs(size,1," imtopspace");for(var i=size-1;i>=0;i--)wv+=im_rcs(i);}else {for(var i=0;i<size;i++)wv+=im_rcs(i);wv+=im_rcs(size,1,"");}if(!inner)wv+='</div>';if(isget)return wv;else document.write(wv);};function im_rcs(pos,is_cap,topclass){if(is_cap)return '<div class="imrbcolor imrc imbrc'+topclass+'" style="margin-left:'+pos+'px;margin-right:'+pos+'px;"></div>';else return '<div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:'+pos+'px;margin-right:'+pos+'px;"></div>';}</script>
 
-                            <!--  ****** Infinite Menus Structure & Links ***** -->
-                            <div class="imrcmain0 imgl" style="width: 365px; z-index: 000009; position: relative;">
-                                <div class="imcm" id="imouter0">
-                                    <ul id="imenus0">
-                                        <li class="imatm" style="width: 55px;" id="ulitem0z0"><a href="http://www.marketday.com/index.aspx" id="ulaitem0z0">
-                                            HOME&nbsp;&nbsp;<span class="topNavDivider">:</span>&nbsp;&nbsp;&nbsp;</a></li>
-                                        <li class="imatm" style="width: 90px;" id="ulitem0z1"><a href="http://www.marketday.com/about/about.aspx" id="ulaitem0z1">
-                                            <span class="imea imeam"><span></span></span>ABOUT US&nbsp;&nbsp;&nbsp;<span class="topNavDivider">:</span>&nbsp;&nbsp;</a>
-                                            <div class="imsc">
-                                                <div class="imsubc" style="width: 146px; top: 0px; left: -1px;">
+            <!--  ****** Infinite Menus Structure & Links ***** -->
+            <div class="imrcmain0 imgl" style="width: 365px; z-index: 000009; position: relative;">
+                <div class="imcm" id="imouter0">
+                    <ul id="imenus0">
+                        <li class="imatm" style="width: 55px;" id="ulitem0z0"><a href="http://www.marketday.com/" id="ulaitem0z0">
+                            HOME&nbsp;&nbsp;<span class="topNavDivider">:</span>&nbsp;&nbsp;&nbsp;</a></li>
+                        <li class="imatm" style="width: 90px;" id="ulitem0z1"><a href="http://www.marketday.com/about/about.aspx" id="ulaitem0z1">
+                            <span class="imea imeam"><span></span></span>ABOUT US&nbsp;&nbsp;&nbsp;<span class="topNavDivider">:</span>&nbsp;&nbsp;</a>
+                            <div class="imsc">
+                                <div class="imsubc" style="width: 146px; top: 0px; left: -1px;">
 
-                                                    <script language="JavaScript" type="text/javascript">im_round_corners("top","sub");</script><div class="imroundcorner" imrctype="top" imrcgroup="sub"><div class="imrbcolor imrc imbrc imtopspace" style="margin-left:3px;margin-right:3px;"></div><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:2px;margin-right:2px;"></div><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:1px;margin-right:1px;"></div><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:0px;margin-right:0px;"></div></div>
+                                    <script language="JavaScript" type="text/javascript">im_round_corners("top","sub");</script><div class="imroundcorner" imrctype="top" imrcgroup="sub"><div class="imrbcolor imrc imbrc imtopspace" style="margin-left:3px;margin-right:3px;"></div><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:2px;margin-right:2px;"></div><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:1px;margin-right:1px;"></div><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:0px;margin-right:0px;"></div></div>
 
-                                                    <ul style="" id="x1ub0z1">
-                                                        <li class="dvs" id="ulitem0z1z0"><a href="http://www.marketday.com/about/marketdaystory.aspx" id="ulaitem0z1z0">The
-                                                            Market Day Story</a></li>
-                                                        <li class="dvs" id="ulitem0z1z1"><a href="http://www.marketday.com/about/ourlocations.aspx" id="ulaitem0z1z1">Our Locations</a></li>
-                                                        <li class="dvs" id="ulitem0z1z2"><a href="http://www.marketday.com/about/becomeaMDschool.aspx" id="ulaitem0z1z2">Become
-                                                            A Market Day Organization</a></li>
-                                                        <li class="dvs" id="ulitem0z1z3"><a href="http://www.marketday.com/about/careers.aspx" id="ulaitem0z1z3">Careers</a></li>
-                                                        <li class="dvs" id="ulitem0z1z4"><a href="http://www.marketday.com/about/press_news.aspx" id="ulaitem0z1z4">Press /
-                                                            News</a></li>
-                                                        <li class="dvs" id="ulitem0z1z5"><a href="http://www.marketday.com/about/volunteeropps.aspx" id="ulaitem0z1z5">Volunteer
-                                                            Opportunities</a></li>
-                                                        <li class="dvs" id="ulitem0z1z6"><a href="http://www.marketday.com/about/promotions.aspx" id="ulaitem0z1z6">Promotions</a></li>
-                                                        <li class="dvs" id="ulitem0z1z7"><a href="http://www.marketday.com/about/applebytes.aspx" id="ulaitem0z1z7">Apple Bytes</a></li>
-                                                        <li class="dvs" id="ulitem0z1z8"><a href="http://www.marketdayfundraising.com" target="_blank" id="ulaitem0z1z8">Market
-                                                            Day Fundraising</a></li>
-                                                        <li class="dvs" id="ulitem0z1z9"><a href="http://www.marketday.com/about/ourpartners.aspx" id="ulaitem0z1z9">Our Partners</a></li>
-                                                        <li class="dvs" id="ulitem0z1z10"><a href="https://www.marketday.com/about/giftcertificates.aspx" id="ulaitem0z1z10">
-                                                            Gift Certificates</a></li>
-                                                        <li class="dvs" id="ulitem0z1z11"><a href="http://www.marketdaydirect.com" target="_blank" id="ulaitem0z1z11">Market Day
-                                                            Direct</a></li>
-                                                        <li id="ulitem0z1z12"><a href="http://www.marketday.com/about/marketdaystore.aspx" id="ulaitem0z1z12">Market Day Store</a></li>
-                                                    </ul>
-
-                                                    <script language="JavaScript" type="text/javascript">im_round_corners("bottom","sub");</script><div class="imroundcorner" imrctype="bottom" imrcgroup="sub"><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:0px;margin-right:0px;"></div><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:1px;margin-right:1px;"></div><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:2px;margin-right:2px;"></div><div class="imrbcolor imrc imbrc" style="margin-left:3px;margin-right:3px;"></div></div>
-
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li class="imatm" style="width: 120px;" id="ulitem0z2"><a href="http://www.marketday.com/mealplanning/mealplanning.aspx" id="ulaitem0z2">
-                                            <span class="imea imeam"><span></span></span>MEAL PLANNING&nbsp;&nbsp;&nbsp;<span class="topNavDivider">:</span></a>
-                                            <div class="imsc">
-                                                <div class="imsubc" style="width: 146px; top: 0px; left: 0px;">
-
-                                                    <script language="JavaScript" type="text/javascript">im_round_corners("top","sub");</script><div class="imroundcorner" imrctype="top" imrcgroup="sub"><div class="imrbcolor imrc imbrc imtopspace" style="margin-left:3px;margin-right:3px;"></div><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:2px;margin-right:2px;"></div><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:1px;margin-right:1px;"></div><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:0px;margin-right:0px;"></div></div>
-
-                                                    <ul style="" id="x1ub0z2">
-                                                        <li class="dvs" id="ulitem0z2z0"><a href="http://www.marketday.com/mealplanning/recipes.aspx" id="ulaitem0z2z0">Recipes</a></li>
-                                                        <li class="dvs" id="ulitem0z2z1"><a href="http://www.marketday.com/mealplanning/recipefavorites.aspx" id="ulaitem0z2z1">
-                                                            My Favorite Recipes</a></li>
-                                                        <li class="dvs" id="ulitem0z2z2"><a href="http://www.marketday.com/mealplanning/prepinstructions.aspx" id="ulaitem0z2z2">
-                                                            Cooking Directions</a></li>
-                                                        <li class="dvs" id="ulitem0z2z3"><a href="http://www.marketday.com/mealplanning/healthyeating.aspx" id="ulaitem0z2z3">
-                                                            Tips for Healthy Eating</a></li>
-                                                        <li id="ulitem0z2z4"><a href="http://www.marketday.com/mealplanning/healthdiet.aspx" id="ulaitem0z2z4">Health and Diet</a></li>
-                                                    </ul>
-
-                                                    <script language="JavaScript" type="text/javascript">im_round_corners("bottom","sub");</script><div class="imroundcorner" imrctype="bottom" imrcgroup="sub"><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:0px;margin-right:0px;"></div><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:1px;margin-right:1px;"></div><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:2px;margin-right:2px;"></div><div class="imrbcolor imrc imbrc" style="margin-left:3px;margin-right:3px;"></div></div>
-
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li class="imatm" style="width: 40px;" id="ulitem0z3"><a href="http://www.marketday.com/custservice/custservice.aspx" id="ulaitem0z3">
-                                            <span class="imea imeam"><span></span></span>HELP&nbsp;&nbsp;&nbsp;<span class="topNavDivider">:</span></a>
-                                            <div class="imsc">
-                                                <div class="imsubc" style="width: 146px; top: 0px; left: -1px;">
-
-                                                    <script language="JavaScript" type="text/javascript">im_round_corners("top","sub");</script><div class="imroundcorner" imrctype="top" imrcgroup="sub"><div class="imrbcolor imrc imbrc imtopspace" style="margin-left:3px;margin-right:3px;"></div><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:2px;margin-right:2px;"></div><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:1px;margin-right:1px;"></div><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:0px;margin-right:0px;"></div></div>
-
-                                                    <ul style="" id="x1ub0z3">
-                                                        <li class="dvs" id="ulitem0z3z0"><a href="http://www.marketday.com/custservice/talktoexpert.aspx" id="ulaitem0z3z0">
-                                                            E-Mail Customer Service</a></li>
-                                                        <li class="dvs" id="ulitem0z3z1"><a href="http://www.marketday.com/custservice/findasale.aspx" id="ulaitem0z3z1">Find
-                                                            a Sale</a></li>
-                                                        <li class="dvs" id="ulitem0z3z2"><a href="http://www.marketday.com/custservice/newtomarketday.aspx" id="ulaitem0z3z2">
-                                                            New to Market Day?</a></li>
-                                                        <li class="dvs" id="ulitem0z3z3"><a href="http://www.marketday.com/custservice/faq.aspx" id="ulaitem0z3z3">FAQ</a></li>
-                                                        <li id="ulitem0z3z4"><a href="http://www.marketday.com/custservice/prodguarantee.aspx" id="ulaitem0z3z4">Product Guarantee</a></li>
-                                                    </ul>
-
-                                                    <script language="JavaScript" type="text/javascript">im_round_corners("bottom","sub");</script><div class="imroundcorner" imrctype="bottom" imrcgroup="sub"><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:0px;margin-right:0px;"></div><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:1px;margin-right:1px;"></div><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:2px;margin-right:2px;"></div><div class="imrbcolor imrc imbrc" style="margin-left:3px;margin-right:3px;"></div></div>
-
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li class="imatm" style="width: 48px;" id="ulitem0z4"><a href="http://www.facebook.com/marketday" target="_blank" id="ulaitem0z4">&nbsp;&nbsp;&nbsp;<img id="facebookLogo" src="/mdnet/images/facebook.jpg" alt="Market Day on Facebook"></a></li>
+                                    <ul style="" id="x1ub0z1">
+                                        <li class="dvs" id="ulitem0z1z0"><a href="http://www.marketday.com/about/marketdaystory.aspx" id="ulaitem0z1z0">The
+                                            Market Day Story</a></li>
+                                        <li class="dvs" id="ulitem0z1z1"><a href="http://www.marketday.com/about/ourlocations.aspx" id="ulaitem0z1z1">Our Locations</a></li>
+                                        <li class="dvs" id="ulitem0z1z2"><a href="http://www.marketday.com/about/becomeaMDschool.aspx" id="ulaitem0z1z2">Become
+                                            A Market Day Organization</a></li>
+                                        <li class="dvs" id="ulitem0z1z3"><a href="http://www.marketday.com/about/careers.aspx" id="ulaitem0z1z3">Careers</a></li>
+                                        <li class="dvs" id="ulitem0z1z4"><a href="http://www.marketday.com/about/press_news.aspx" id="ulaitem0z1z4">Press /
+                                            News</a></li>
+                                        <li class="dvs" id="ulitem0z1z5"><a href="http://www.marketday.com/about/volunteeropps.aspx" id="ulaitem0z1z5">Volunteer
+                                            Opportunities</a></li>
+                                        <li class="dvs" id="ulitem0z1z6"><a href="http://www.marketday.com/about/promotions.aspx" id="ulaitem0z1z6">Promotions</a></li>
+                                        <li class="dvs" id="ulitem0z1z7"><a href="http://www.marketday.com/about/applebytes.aspx" id="ulaitem0z1z7">Apple Bytes</a></li>
+                                        <li class="dvs" id="ulitem0z1z8"><a href="http://www.marketdayfundraising.com" target="_blank" id="ulaitem0z1z8">Market
+                                            Day Fundraising</a></li>
+                                        <li class="dvs" id="ulitem0z1z9"><a href="http://www.marketday.com/about/ourpartners.aspx" id="ulaitem0z1z9">Our Partners</a></li>
+                                        <li class="dvs" id="ulitem0z1z10"><a href="https://www.marketday.com/about/giftcertificates.aspx" id="ulaitem0z1z10">
+                                            Gift Certificates</a></li>
+                                        <li class="dvs" id="ulitem0z1z11"><a href="http://www.marketdaydirect.com" target="_blank" id="ulaitem0z1z11">Market Day
+                                            Direct</a></li>
+                                        <li id="ulitem0z1z12"><a href="http://www.marketday.com/about/marketdaystore.aspx" id="ulaitem0z1z12">Market Day Store</a></li>
                                     </ul>
-                                    <div class="imclear">
-                                        &nbsp;</div>
+
+                                    <script language="JavaScript" type="text/javascript">im_round_corners("bottom","sub");</script><div class="imroundcorner" imrctype="bottom" imrcgroup="sub"><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:0px;margin-right:0px;"></div><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:1px;margin-right:1px;"></div><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:2px;margin-right:2px;"></div><div class="imrbcolor imrc imbrc" style="margin-left:3px;margin-right:3px;"></div></div>
+
                                 </div>
                             </div>
-                            <!--[imcode]*** Infinite Menus Settings / Code - This script reference must appear last. ***
+                        </li>
+                        <li class="imatm" style="width: 120px;" id="ulitem0z2"><a href="http://www.marketday.com/recipe/eatwelllandinitial.aspx" id="ulaitem0z2">
+                            <span class="imea imeam"><span></span></span>MEAL PLANNING&nbsp;&nbsp;&nbsp;<span class="topNavDivider">:</span></a>
+                            <div class="imsc">
+                                <div class="imsubc" style="width: 146px; top: 0px; left: 0px;">
+
+                                    <script language="JavaScript" type="text/javascript">im_round_corners("top","sub");</script><div class="imroundcorner" imrctype="top" imrcgroup="sub"><div class="imrbcolor imrc imbrc imtopspace" style="margin-left:3px;margin-right:3px;"></div><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:2px;margin-right:2px;"></div><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:1px;margin-right:1px;"></div><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:0px;margin-right:0px;"></div></div>
+
+                                    <ul style="" id="x1ub0z2">
+                                        <li class="dvs" id="ulitem0z2z0"><a href="http://www.marketday.com/mealplanning/recipes.aspx" id="ulaitem0z2z0">Recipes</a></li>
+                                        <li class="dvs" id="ulitem0z2z1"><a href="http://www.marketday.com/mealplanning/recipefavorites.aspx" id="ulaitem0z2z1">
+                                            My Favorite Recipes</a></li>
+                                        <li class="dvs" id="ulitem0z2z2"><a href="http://www.marketday.com/mealplanning/prepinstructions.aspx" id="ulaitem0z2z2">
+                                            Cooking Directions</a></li>
+                                        <li class="dvs" id="ulitem0z2z3"><a href="http://www.marketday.com/mealplanning/healthyeating.aspx" id="ulaitem0z2z3">
+                                            Tips for Healthy Eating</a></li>
+                                        <li class="dvs" id="ulitem0z2z4"><a href="http://www.marketday.com/mealplanning/healthdiet.aspx" id="ulaitem0z2z4">Health and Diet</a></li>
+                                        <li id="ulitem0z2z5"><a href="http://www.marketday.com/recipe/eatwelllandinitial.aspx" id="ulaitem0z2z5">Eat Well with Market Day</a></li>
+                                    </ul>
+
+                                    <script language="JavaScript" type="text/javascript">im_round_corners("bottom","sub");</script><div class="imroundcorner" imrctype="bottom" imrcgroup="sub"><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:0px;margin-right:0px;"></div><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:1px;margin-right:1px;"></div><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:2px;margin-right:2px;"></div><div class="imrbcolor imrc imbrc" style="margin-left:3px;margin-right:3px;"></div></div>
+
+                                </div>
+                            </div>
+                        </li>
+                        <li class="imatm" style="width: 40px;" id="ulitem0z3"><a href="http://www.marketday.com/custservice/custservice.aspx" id="ulaitem0z3">
+                            <span class="imea imeam"><span></span></span>HELP&nbsp;&nbsp;&nbsp;<span class="topNavDivider">:</span></a>
+                            <div class="imsc">
+                                <div class="imsubc" style="width: 146px; top: 0px; left: -1px;">
+
+                                    <script language="JavaScript" type="text/javascript">im_round_corners("top","sub");</script><div class="imroundcorner" imrctype="top" imrcgroup="sub"><div class="imrbcolor imrc imbrc imtopspace" style="margin-left:3px;margin-right:3px;"></div><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:2px;margin-right:2px;"></div><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:1px;margin-right:1px;"></div><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:0px;margin-right:0px;"></div></div>
+
+                                    <ul style="" id="x1ub0z3">
+                                        <li class="dvs" id="ulitem0z3z0"><a href="http://www.marketday.com/custservice/talktoexpert.aspx" id="ulaitem0z3z0">
+                                            E-Mail Customer Service</a></li>
+                                        <li class="dvs" id="ulitem0z3z1"><a href="http://www.marketday.com/custservice/findasale.aspx" id="ulaitem0z3z1">Find
+                                            a Sale</a></li>
+                                        <li class="dvs" id="ulitem0z3z2"><a href="http://www.marketday.com/custservice/newtomarketday.aspx" id="ulaitem0z3z2">
+                                            New to Market Day?</a></li>
+                                        <li class="dvs" id="ulitem0z3z3"><a href="http://www.marketday.com/custservice/faq.aspx" id="ulaitem0z3z3">FAQ</a></li>
+                                        <li id="ulitem0z3z4"><a href="http://www.marketday.com/custservice/prodguarantee.aspx" id="ulaitem0z3z4">Product Guarantee</a></li>
+                                    </ul>
+
+                                    <script language="JavaScript" type="text/javascript">im_round_corners("bottom","sub");</script><div class="imroundcorner" imrctype="bottom" imrcgroup="sub"><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:0px;margin-right:0px;"></div><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:1px;margin-right:1px;"></div><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:2px;margin-right:2px;"></div><div class="imrbcolor imrc imbrc" style="margin-left:3px;margin-right:3px;"></div></div>
+
+                                </div>
+                            </div>
+                        </li>
+                        <li class="imatm" style="width: 48px;" id="ulitem0z4"><a href="http://www.facebook.com/marketday" target="_blank" id="ulaitem0z4">&nbsp;&nbsp;&nbsp;<img id="facebookLogo" src="/mdnet/images/facebook.jpg" alt="Market Day on Facebook"></a></li>
+                    </ul>
+                    <div class="imclear">
+                        &nbsp;</div>
+                </div>
+            </div>
+            <!--[imcode]*** Infinite Menus Settings / Code - This script reference must appear last. ***
   *Note: This script is required for scripted add on support and IE 6 sub menu functionality.
   *Note: This menu will fully function in all CSS2 browsers with the script removed.-->
-                            
-                            <!--|**END IMENUS**|-->
-                        </td>
-                    </tr>
-                </tbody></table>
+            
+            <!--|**END IMENUS**|-->
+        </td>
+    </tr>
+</tbody></table>
+
             </div>
             <div id="ShopToolNav">
                 <table id="tblShopToolNav" cellpadding="0" cellspacing="0">
                     <tbody><tr>
                         <td id="MDLogoCell">
-                            <a href="http://www.marketday.com/Index.aspx">
+                            <a href="http://www.marketday.com/">
                                 <img id="LogoImg" src="/mdnet/images/logo.gif" alt="www.marketday.com" style="margin-top: 5px;"></a>
                         </td>
                         <td id="ShopToolsCell">
@@ -315,16 +396,14 @@ ulm_round_corner_size_sub =  3;
                                             <img id="Img6" src="/mdnet/images/shoppingcart.gif" width="16" height="14" alt="Shopping Cart" title="Shopping Cart" class="NoBorders">
                                             Shopping Cart&nbsp;&nbsp;: </span></a>
                                     </td>
-                                    <td>
-                                    
-                                        <a href="https://www.marketday.com/checkout/checkout.aspx" id="ctl00_ancCheckoutHeader"><span class="pageHeaderGraySm">
+                                    <td>    
+                                            <a href="https://www.marketday.com/checkout/checkout.aspx" id="ctl00_ancCheckoutHeader"><span class="pageHeaderGraySm">
                                             <img id="Img1" src="/mdnet/images/spacer.gif" width="5" height="1" alt="">
-                                            <img id="Img8" src="/mdnet/images/checkout.gif" width="16" height="14" alt="Check Out" title="Checkout" class="NoBorders">
-                                            Check Out&nbsp;&nbsp;: </span></a>
+                                            <img id="Img8" src="/mdnet/images/secure_checkout_cart.gif" width="16" height="14" alt="Secure Checkout" title="Secure Checkout" class="NoBorders">
+                                            Secure Checkout&nbsp;&nbsp;: </span></a>
                                     </td>
                                     <td>
-                                   
-                                        <a href="http://www.marketday.com/myaccount/myaccount.aspx"><span class="pageHeaderGraySm">
+                                        <a href="https://www.marketday.com/custservice/newtomarketday_search.aspx" id="ctl00_ancMyAccountHeader"><span class="pageHeaderGraySm">
                                             <img src="/mdnet/images/spacer.gif" width="5" height="1" alt="">
                                             <img id="Img10" src="/mdnet/images/myaccount.gif" width="16" height="14" alt="My Account" title="My Account" class="NoBorders">
                                             My Account </span></a>
@@ -335,10 +414,13 @@ ulm_round_corner_size_sub =  3;
                     </tr>
                 </tbody></table>
             </div>
+            
+            <br>
             <div id="PageContent">
                 <div id="RightColumn">
                     
     
+
 
 
 <script language="javascript" type="text/javascript">
@@ -412,8 +494,12 @@ R.userNameInputID='ctl00_RC_R1_txtUN';
     
 
 </div>
-<div>
-    <img src="/mdnet/images/myMD.top.gif" width="202" height="15" alt=""></div>
+<div id="ctl00_RC_R1_pnlTopImg">
+	
+    <div>
+        <img src="/mdnet/images/myMD.top.gif" width="202" height="15" alt=""></div>
+
+</div>
 
 
 <div id="ctl00_RC_R1_pnlMyMD" class="myMarketDayDiv">
@@ -444,17 +530,16 @@ R.userNameInputID='ctl00_RC_R1_txtUN';
                 <br>
                 <br>
                 <span class="red"><a href="http://www.marketday.com/supportmsg.htm" style="color: #EF3E42;" target="_blank">having trouble logging in?</a></span>
-                </div>
-                
-                <div class="myMDHeader" style="margin-top: -1px;">
-                    <h3>new to market day?</h3>
-                </div>
-                <div class="myMarketContent">
-                <a href="http://www.marketday.com/custservice/newtomarketday_search.aspx" style="color:#EF3E42;">create new log in</a>
-
+            </div>
+            <div class="myMDHeader" style="margin-top: -1px;">
+                <h3>
+                    new to market day?</h3>
+            </div>
+            <div class="myMarketContent">
+                <a href="http://www.marketday.com/custservice/newtomarketday_search.aspx" style="color: #EF3E42;">
+                    create new log in</a>
                 <br>
                 <br>
-                
                 <!--quick registration related-->
                 <a href="javascript:LoadQuickRegistrationPopup();" id="ctl00_RC_R1_ancCreateNewlogin" style="color: #EF3E42;">shop as guest</a>
                 
@@ -467,38 +552,47 @@ R.userNameInputID='ctl00_RC_R1_txtUN';
                         <h1>
                             Welcome to Market Day</h1>
                     </div>
-                    <div id="ctl00_RC_R1_Div2" class="modalBody">
+                    <div id="ctl00_RC_R1_Div2" class="qr_modalBody">
                         
 
 <script language="javascript" type="text/javascript">
 
-                function ShowAlreadyRegisteredAlert(){
-                    alert('A registration for the email address provided already exists. Please log in using your username and password.');                
-                    $find('mpQuickRegistration').hide(); 
-                    document.getElementById(R.userNameInputID).focus();
-                }
+function ShowAlreadyRegisteredAlert(){
+        alert('A registration for the email address provided already exists. Please log in using your username and password.');                
+        $find('mpQuickRegistration').hide(); 
+        document.getElementById(R.userNameInputID).focus();
+}
 function LoadQuickRegistrationPopup(){
-                    InitializePopup();
-                     //alert("tst");
-
-                    $find('mpQuickRegistration').show(); 
-                    
-                     var modpop = $find("mpQuickRegistration");
-                     //modpop.style.position = "absolute";
-
+        InitializePopup();                   
+        $find('mpQuickRegistration').show();                     
   }
+
+
+  
+function WatermarkFocus(txtElem, strWatermark) {
+    if (txtElem.value == strWatermark) txtElem.value = '';
+}
+
+function WatermarkBlur(txtElem, strWatermark) {
+    if (trim(txtElem.value) == '') txtElem.value = strWatermark;
+}
+
 function InitializePopup(){
-        document.getElementById("ctl00_RC_R1_UcQuickRegistration_txtEmail").value="";
-        document.getElementById("ctl00_RC_R1_UcQuickRegistration_txtConfirmEmail").value="";
+        document.getElementById("ctl00_RC_R1_UcQuickRegistration_txtEmail").value="Enter your email address";
+        document.getElementById("ctl00_RC_R1_UcQuickRegistration_txtConfirmEmail").value="Confirm email address";
+                       
+
         document.getElementById("ctl00_RC_R1_UcQuickRegistration_hdnOrgId").value="";
         document.getElementById("ctl00_RC_R1_UcQuickRegistration_CurOrg").innerHTML=""
+        document.getElementById("ctl00_RC_R1_UcQuickRegistration_CurOrg").style.display = "none";
         //txtZipCode,distancezip,txtOrganizationName,state,txtAccountNumber,
         document.getElementById("ctl00_RC_R1_UcQuickRegistration_TabStrip1_TabPanel1_txtZipCode").value="";
         document.getElementById("ctl00_RC_R1_UcQuickRegistration_TabStrip1_TabPanel1_distancezip").selectedIndex=0;
         document.getElementById("ctl00_RC_R1_UcQuickRegistration_TabStrip1_TabPanel2_txtOrganizationName").value="";
         document.getElementById("ctl00_RC_R1_UcQuickRegistration_TabStrip1_TabPanel2_state").selectedIndex=0;
         document.getElementById("ctl00_RC_R1_UcQuickRegistration_TabStrip1_Tab1_txtAccountNumber").value="";
-        //rptSearchResultByAccountNumber,rptSearchResultByOrganizationName,rtSearchResultByZipCode
+        
+ //rptSearchResultByAccountNumber,rptSearchResultByOrganizationName,rtSearchResultByZipCode
         if(document.getElementById("tblSearchResultByAccountNumber"))
         document.getElementById("tblSearchResultByAccountNumber").style.display="none";
         if(document.getElementById("tblSearchResultByOrganizationName"))
@@ -506,67 +600,87 @@ function InitializePopup(){
         if(document.getElementById("tblSearchResultByZipCode"))
         document.getElementById("tblSearchResultByZipCode").style.display="none";
         
+        
          var ctrl = $find("ctl00_RC_R1_UcQuickRegistration_TabStrip1");
         ctrl.set_activeTab(ctrl.get_tabs()[0]);
         
-         document.getElementById("ctl00_RC_R1_UcQuickRegistration_chkEmailAlerts").checked=true;
+        document.getElementById("ctl00_RC_R1_UcQuickRegistration_btnStartShopping").src = '/mdnet/images/btn.startshopping-disabled.gif';        
+        document.getElementById("ctl00_RC_R1_UcQuickRegistration_btnStartShopping").disabled = true;
         
 }
-    function SetSelectedSchool(orgId, orgName) {
+
+function SetSelectedSchool(orgId, orgName) {
         document.getElementById("ctl00_RC_R1_UcQuickRegistration_CurOrg").innerHTML = "Your selected organization is: <b><u>" + orgName + "</u></b>";
         document.getElementById("ctl00_RC_R1_UcQuickRegistration_CurOrg").style.display = "block";
         document.getElementById("ctl00_RC_R1_UcQuickRegistration_hdnOrgId").value = ""+orgId;
         //alert(document.getElementById("ctl00_RC_R1_UcQuickRegistration_hdnOrgId").value);
         //alert("Selected: " + orgName);
+        
+        document.getElementById("ctl00_RC_R1_UcQuickRegistration_btnStartShopping").src = '/mdnet/images/btn.startshopping.gif'; 
+        document.getElementById("ctl00_RC_R1_UcQuickRegistration_btnStartShopping").disabled = false;
         return false;
-    }
-    function trim(str) {
-        return str.replace(/^\s+|\s+$/g,"");
-    }
-    function IsValidQuickRegistrationPopup() {
-        var isValid=true;
-        var email = trim(document.getElementById("ctl00_RC_R1_UcQuickRegistration_txtEmail").value);
-        var confirmEmail = trim(document.getElementById("ctl00_RC_R1_UcQuickRegistration_txtConfirmEmail").value);
+}
+
+function trim(str) {
+           return str.replace(/^\s+|\s+$/g,"");
+}
+
+function IsValidQuickRegistrationPopup() {
+        var isValid=true;       
+        var email = "";
+        var confirmEmail ="";
         var orgId = trim(document.getElementById("ctl00_RC_R1_UcQuickRegistration_hdnOrgId").value);
-        var emptyFields=""
-        if(email==""){
-            if(emptyFields != "") emptyFields +=", ";
-            emptyFields += "email";
-            isValid=false;
+         
+        if(document.getElementById("ctl00_RC_R1_UcQuickRegistration_txtEmail").value!="Enter your email address"){
+            email=trim(document.getElementById("ctl00_RC_R1_UcQuickRegistration_txtEmail").value);
         }
-        if(confirmEmail==""){
-            if(emptyFields != "") emptyFields +=", ";
-            emptyFields += "confirm email";
-            isValid=false;
+        if(document.getElementById("ctl00_RC_R1_UcQuickRegistration_txtConfirmEmail").value!="Confirm email address"){
+            confirmEmail = trim(document.getElementById("ctl00_RC_R1_UcQuickRegistration_txtConfirmEmail").value);
         }
+        
+               
+        var emptyFields="";       
+       
         if(orgId==""){
             if(emptyFields != "") emptyFields +=", ";
             emptyFields += "organization";
             isValid=false;
         }
-
-        if(isValid){
         
-            var emailRegEx = /^[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z0-9]{2,3}$/i;
-            
-             if (email.search(emailRegEx) == -1) {
-                alert("Please enter a valid email address.");
-                 isValid=false;
-            }
-            else if(email != confirmEmail){
-                alert("Email and Confirm Email doesn't match");
+       if(email!="" || confirmEmail!=""  ){       
+            if(email=="" ){
+                if(emptyFields != "") emptyFields +=", ";
+                emptyFields += "email";
                 isValid=false;
-            } 
+            }
+            if(confirmEmail=="" ){
+                if(emptyFields != "") emptyFields +=", ";
+                emptyFields += "confirmEmail";
+                isValid=false;
+            }
+        }
+        if(isValid){
+            if(email!="" && confirmEmail!="" ){
+                var emailRegEx = /^[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z0-9]{2,3}$/i;
+                
+                 if (email.search(emailRegEx) == -1) {
+                    alert("Please enter a valid email address.");
+                     isValid=false;
+                }
+                else if(email != confirmEmail){
+                    alert("Email and Confirm Email doesn't match.");
+                    isValid=false;
+                } 
+            }
             
         }
         else{
-            alert("Please provide information for the following fields \n "+ emptyFields);
+            alert("Provide Information for the following fields \n "+ emptyFields);
         }
         return isValid;
-    }
+}
     
-    function IsValidSearchByZipCode()
-    {
+function IsValidSearchByZipCode(){
      var isValid=true;
      var emptyFields=""
       var zipcode = trim(document.getElementById("ctl00_RC_R1_UcQuickRegistration_TabStrip1_TabPanel1_txtZipCode").value);
@@ -579,10 +693,10 @@ function InitializePopup(){
             alert("Please provide information for the following fields \n "+ emptyFields);
         }
      return isValid;
-    }
-    function IsValidSearchByOrganization()
-    {
-     var isValid=true;
+}
+
+function IsValidSearchByOrganization(){
+    var isValid=true;
      var emptyFields=""
       var organizationName = trim(document.getElementById("ctl00_RC_R1_UcQuickRegistration_TabStrip1_TabPanel2_txtOrganizationName").value);
       var state = trim(document.getElementById("ctl00_RC_R1_UcQuickRegistration_TabStrip1_TabPanel2_state").value);
@@ -600,9 +714,9 @@ function InitializePopup(){
             alert("Please provide information for the following fields \n "+ emptyFields);
         }
      return isValid;
-    }
-    function IsValidSearchByAccNumber()
-    {
+}
+
+function IsValidSearchByAccNumber(){
      var isValid=true;
     var emptyFields=""
       var accountNumber = trim(document.getElementById("ctl00_RC_R1_UcQuickRegistration_TabStrip1_Tab1_txtAccountNumber").value);
@@ -614,7 +728,7 @@ function InitializePopup(){
         
         if(isValid){// no empty fields 
             if(accountNumber>2147483646){
-            alert("Please provide a valid account number.");   
+                alert("Please provide a valid account number.");   
                 isValid=false; 
             }
           else if(String(accountNumber).search ( /^\s*\d+\s*$/) == -1){   
@@ -626,56 +740,50 @@ function InitializePopup(){
             alert("Provide Information for the following fields \n "+ emptyFields);
         }
      return isValid;
-    }
-  
-
-
+}
 </script>
 
-    <img src="/mdnet/images/myMD.qr_by_zip-on.gif" alt="By Zip Code" style="display:none">
-    <img src="/mdnet/images/myMD.qr_by_zip-o.gif" alt="By Zip Code" style="display:none">
-    <img src="/mdnet/images/myMD.qr_by_zip.gif" alt="By Zip Code" style="display:none">
-    <img src="/mdnet/images/myMD.qr_by_school-on.gif" alt="By Organization" style="display:none">
-    <img src="/mdnet/images/myMD.qr_by_school-o.gif" alt="By Organization" style="display:none">    
-    <img src="/mdnet/images/myMD.qr_by_school.gif" alt="By Organization" style="display:none">
-    <img src="/mdnet/images/myMD.qr_by_accountnumber-on.gif" alt="By Account Number" style="display:none">
-    <img src="/mdnet/images/myMD.qr_by_accountnumber-o.gif" alt="By Account Number" style="display:none">
-    <img src="/mdnet/images/myMD.qr_by_accountnumber.gif" alt="By Account Number" style="display:none">
-    
+
+<img src="/mdnet/images/myMD.qr_by_zip-on.gif" alt="By Zip Code" style="display: none">
+<img src="/mdnet/images/myMD.qr_by_zip-o.gif" alt="By Zip Code" style="display: none">
+<img src="/mdnet/images/myMD.qr_by_zip.gif" alt="By Zip Code" style="display: none">
+<img src="/mdnet/images/myMD.qr_by_school-on.gif" alt="By Organization" style="display: none">
+<img src="/mdnet/images/myMD.qr_by_school-o.gif" alt="By Organization" style="display: none">
+<img src="/mdnet/images/myMD.qr_by_school.gif" alt="By Organization" style="display: none">
+<img src="/mdnet/images/myMD.qr_by_accountnumber-on.gif" alt="By Account Number" style="display: none">
+<img src="/mdnet/images/myMD.qr_by_accountnumber-o.gif" alt="By Account Number" style="display: none">
+<img src="/mdnet/images/myMD.qr_by_accountnumber.gif" alt="By Account Number" style="display: none">
+<img src="/mdnet/images/btn.search-o.gif" alt="By Account Number" style="display: none">
+<img src="/mdnet/images/btn.startshopping.gif" alt="By Account Number" style="display: none">
+<img src="/mdnet/images/btn.startshopping-o.gif" alt="By Account Number" style="display: none">
+<img src="/mdnet/images/btn.select-o.gif" alt="By Account Number" style="display: none">
+
+
 <p>
     
-    Our product selection may vary by location. Please complete these two simple steps
-    to begin browsing. You can change your location at any time.
+    Our product selection may vary by location. Please select an organization to begin
+    browsing. You can change your location at any time.
 </p>
-<div style="display: inline-block; width: 100%;">
-    <div style="float: left;">
-        <h3>
-            1. Enter your e-mail</h3>
-        <input name="ctl00$RC$R1$UcQuickRegistration$txtEmail" type="text" maxlength="100" id="ctl00_RC_R1_UcQuickRegistration_txtEmail" style="width: 220px;">
-        
-    </div>
-    <div style="float: left; margin-left: 15px;">
-        <h3>
-            Confirm e-mail address</h3>
-        <input name="ctl00$RC$R1$UcQuickRegistration$txtConfirmEmail" type="text" maxlength="100" id="ctl00_RC_R1_UcQuickRegistration_txtConfirmEmail" style="width: 220px;">
-        
-    </div>
-</div>
+
 <h3>
-    2. Choose an organization</h3>
+    Choose an organization</h3>
 <input type="hidden" name="ctl00$RC$R1$UcQuickRegistration$hdnOrgId" id="ctl00_RC_R1_UcQuickRegistration_hdnOrgId">
-<div id="ctl00_RC_R1_UcQuickRegistration_CurOrg" style="display: none;padding:5px; background-color:Yellow;font-weight:bold;color:red">
+<div id="ctl00_RC_R1_UcQuickRegistration_CurOrg" style="display: none; padding: 5px; background-color: Yellow; font-weight: bold;
+    color: red">
 </div>
 <br>
 <div id="ctl00_RC_R1_UcQuickRegistration_TabStrip1" class="ajax__tab_xp" savestate="True" style="margin-left: 5px; text-align: left;">
 			<div id="ctl00_RC_R1_UcQuickRegistration_TabStrip1_header">
-				<span id="__tab_ctl00_RC_R1_UcQuickRegistration_TabStrip1_TabPanel1">   
-        <div class="ByZipCode"></div>                
-            </span><span id="__tab_ctl00_RC_R1_UcQuickRegistration_TabStrip1_TabPanel2">                
-        <div class="ByOrganization"></div>           
-            </span><span id="__tab_ctl00_RC_R1_UcQuickRegistration_TabStrip1_Tab1">
-             <div class="ByAccountNumber"></div>            
-            </span>
+				<span id="__tab_ctl00_RC_R1_UcQuickRegistration_TabStrip1_TabPanel1">
+            <div class="ByZipCode">
+            </div>
+        </span><span id="__tab_ctl00_RC_R1_UcQuickRegistration_TabStrip1_TabPanel2">
+            <div class="ByOrganization">
+            </div>
+        </span><span id="__tab_ctl00_RC_R1_UcQuickRegistration_TabStrip1_Tab1">
+            <div class="ByAccountNumber">
+            </div>
+        </span>
 			</div><div id="ctl00_RC_R1_UcQuickRegistration_TabStrip1_body">
 				<div id="ctl00_RC_R1_UcQuickRegistration_TabStrip1_TabPanel1" style="display:none;">
 					
@@ -685,7 +793,8 @@ function InitializePopup(){
                         <div id="ctl00_RC_R1_UcQuickRegistration_TabStrip1_TabPanel1_Div3">
 							
                             Enter your zip code then select from available organization(s)
-                            <br><br>
+                            <br>
+                            <br>
                             <input name="ctl00$RC$R1$UcQuickRegistration$TabStrip1$TabPanel1$txtZipCode" type="text" maxlength="5" id="ctl00_RC_R1_UcQuickRegistration_TabStrip1_TabPanel1_txtZipCode" class="NoEnterReturn">
                             <select name="ctl00$RC$R1$UcQuickRegistration$TabStrip1$TabPanel1$distancezip" id="ctl00_RC_R1_UcQuickRegistration_TabStrip1_TabPanel1_distancezip">
 								<option value="5">within 5 miles</option>
@@ -694,7 +803,7 @@ function InitializePopup(){
 								<option value="20">within 20 miles</option>
 								<option value="30">within 25 miles</option>
 							</select>
-                            <input type="image" name="ctl00$RC$R1$UcQuickRegistration$TabStrip1$TabPanel1$imgBtnZipCodeGo" id="ctl00_RC_R1_UcQuickRegistration_TabStrip1_TabPanel1_imgBtnZipCodeGo" src="http://www.marketday.com/mdnet/images/btn.go-o.gif" alt="Go" align="absmiddle" onclick="return IsValidSearchByZipCode();" border="0">
+                            <input type="image" name="ctl00$RC$R1$UcQuickRegistration$TabStrip1$TabPanel1$imgBtnZipCodeGo" id="ctl00_RC_R1_UcQuickRegistration_TabStrip1_TabPanel1_imgBtnZipCodeGo" onmouseover="this.src='/mdnet/images/btn.search-o.gif'" onmouseout="this.src='/mdnet/images/btn.search.gif'" src="/mdnet/images/btn.search.gif" alt="Search" align="top" onclick="return IsValidSearchByZipCode();" border="0">
                         
 						</div>
                         <div class="orgSearchBox">
@@ -712,7 +821,8 @@ function InitializePopup(){
                         <div>
 							
                             Enter your organization name and then select from the list below:
-                            <br><br>
+                            <br>
+                            <br>
                             <input name="ctl00$RC$R1$UcQuickRegistration$TabStrip1$TabPanel2$txtOrganizationName" type="text" id="ctl00_RC_R1_UcQuickRegistration_TabStrip1_TabPanel2_txtOrganizationName" class="NoEnterReturn">
                             -*<select name="ctl00$RC$R1$UcQuickRegistration$TabStrip1$TabPanel2$state" id="ctl00_RC_R1_UcQuickRegistration_TabStrip1_TabPanel2_state">
 								<option value="0">Select State</option>
@@ -738,7 +848,7 @@ function InitializePopup(){
 								<option value="WI">Wisconsin</option>
 							</select>
                             
-                            <input type="image" name="ctl00$RC$R1$UcQuickRegistration$TabStrip1$TabPanel2$imgBtnOrganizationNameGo" id="ctl00_RC_R1_UcQuickRegistration_TabStrip1_TabPanel2_imgBtnOrganizationNameGo" src="http://www.marketday.com/mdnet/images/btn.go-o.gif" alt="Go" align="absmiddle" onclick="return IsValidSearchByOrganization();" border="0">
+                            <input type="image" name="ctl00$RC$R1$UcQuickRegistration$TabStrip1$TabPanel2$imgBtnOrganizationNameGo" id="ctl00_RC_R1_UcQuickRegistration_TabStrip1_TabPanel2_imgBtnOrganizationNameGo" onmouseover="this.src='/mdnet/images/btn.search-o.gif'" onmouseout="this.src='/mdnet/images/btn.search.gif'" src="/mdnet/images/btn.search.gif" alt="Search" align="top" onclick="return IsValidSearchByOrganization();" border="0">
                         
 						</div>
                         <div class="orgSearchBox">
@@ -753,12 +863,12 @@ function InitializePopup(){
             <div id="ctl00_RC_R1_UcQuickRegistration_TabStrip1_Tab1_updatepanelAccountNumber">
 						
                     <div id="Div1" class="chooseOrgTabs myMarketContent">
-                          <div id="ctl00_RC_R1_UcQuickRegistration_TabStrip1_Tab1_Panel1">
+                        <div id="ctl00_RC_R1_UcQuickRegistration_TabStrip1_Tab1_Panel1">
 							
                             your account number
                             <br>
                             <input name="ctl00$RC$R1$UcQuickRegistration$TabStrip1$Tab1$txtAccountNumber" type="text" maxlength="5" id="ctl00_RC_R1_UcQuickRegistration_TabStrip1_Tab1_txtAccountNumber" class="NoEnterReturn">
-                            <input type="image" name="ctl00$RC$R1$UcQuickRegistration$TabStrip1$Tab1$imgBtnAccountNumberGo" id="ctl00_RC_R1_UcQuickRegistration_TabStrip1_Tab1_imgBtnAccountNumberGo" src="http://www.marketday.com/mdnet/images/btn.go-o.gif" alt="Go" align="absmiddle" onclick="return IsValidSearchByAccNumber();" border="0">
+                            <input type="image" name="ctl00$RC$R1$UcQuickRegistration$TabStrip1$Tab1$imgBtnAccountNumberGo" id="ctl00_RC_R1_UcQuickRegistration_TabStrip1_Tab1_imgBtnAccountNumberGo" onmouseover="this.src='/mdnet/images/btn.search-o.gif'" onmouseout="this.src='/mdnet/images/btn.search.gif'" src="/mdnet/images/btn.search.gif" alt="Search" align="top" onclick="return IsValidSearchByAccNumber();" border="0">
                         
 						</div>
                         <div class="orgSearchBox">
@@ -771,19 +881,30 @@ function InitializePopup(){
 				</div>
 			</div>
 		</div>
+<br>
 <div style="width: 100%; display: inline-block;" class="emailBox">
-    <div style="float: left;">
-        <input id="ctl00_RC_R1_UcQuickRegistration_chkEmailAlerts" type="checkbox" name="ctl00$RC$R1$UcQuickRegistration$chkEmailAlerts" checked="checked">
-    </div>
-    <div style="float: left; margin-left: 5px;">
-        I would like to receive e-mails, special discounts and order reminders from Market
-        Day.<br>
-        Market Day does not sell, rent or trade consumer mailing lists.
+    
+    <div style="float: left; margin-left: 5px; margin-top: 2px; margin-bottom: 2px;">
+        Sign up for email reminders, deals and discounts (Optional)
+        <br>
+        Market Day does not sell, rent or trade consumer mailing lists
     </div>
 </div>
-<br>
+<div id="ctl00_RC_R1_UcQuickRegistration_dvEmailContainer" style="width: 100%;">
+    <div style="float: left; margin-left: 4px;">
+        <input name="ctl00$RC$R1$UcQuickRegistration$txtEmail" type="text" maxlength="100" id="ctl00_RC_R1_UcQuickRegistration_txtEmail" onfocus="WatermarkFocus(this, 'Enter your email address');" onblur="WatermarkBlur(this, 'Enter your email address');" style="width: 220px;">
+        
+    </div>
+    <div style="float: left; margin-left: 15px;">
+        <input name="ctl00$RC$R1$UcQuickRegistration$txtConfirmEmail" type="text" maxlength="100" id="ctl00_RC_R1_UcQuickRegistration_txtConfirmEmail" onfocus="WatermarkFocus(this, 'Confirm email address');" onblur="WatermarkBlur(this, 'Confirm email address');" style="width: 220px;">
+        
+    </div>
+</div>
+<div style="clear: both;">
+    <br>
+</div>
 <span id="ctl00_RC_R1_UcQuickRegistration_updatepanel1">
-        <input type="image" name="ctl00$RC$R1$UcQuickRegistration$btnStartShopping" id="ctl00_RC_R1_UcQuickRegistration_btnStartShopping" title="start shopping" onmouseover="this.src='/mdnet/images/btn.submit-o.gif'" onmouseout="this.src='/mdnet/images/btn.submit.gif'" src="/mdnet/images/btn.submit.gif" alt="start shopping" onclick="return IsValidQuickRegistrationPopup();" border="0">
+        <input type="image" name="ctl00$RC$R1$UcQuickRegistration$btnStartShopping" id="ctl00_RC_R1_UcQuickRegistration_btnStartShopping" title="start shopping" onmouseover="this.src='/mdnet/images/btn.startshopping-o.gif'" onmouseout="this.src='/mdnet/images/btn.startshopping.gif'" src="/mdnet/images/btn.startshopping-disabled.gif" alt="start shopping" onclick="return IsValidQuickRegistrationPopup();" border="0">
     </span>
 
                         <input type="image" name="ctl00$RC$R1$btnCancel" id="ctl00_RC_R1_btnCancel" title="cancel" onmouseover="this.src='/mdnet/images/btn.cancel-o.gif'" onmouseout="this.src='/mdnet/images/btn.cancel.gif'" src="/mdnet/images/btn.cancel.gif" alt="by zip" border="0">
@@ -791,7 +912,6 @@ function InitializePopup(){
                     </div>
                 </div>
                 <br>
-                
             </div>
         
 	</div>
@@ -822,6 +942,7 @@ function InitializePopup(){
 
 
 
+
                 </div>
                 <div id="MainMenuNav">
                     <table id="tblMainMenuNav" cellpadding="0" cellspacing="0">
@@ -830,8 +951,11 @@ function InitializePopup(){
                                 <img src="/mdnet/images/nav.tab_headline.gif" alt="start shopping by">
                             </td>
                             <td id="GreenMenusCell" align="left">
-                                <!--|**START IMENUS**|imenus3,inline-->
-                                <!--  ****** Infinite Menus Structure & Links ***** -->
+                                
+<!--|**START IMENUS**|imenus3,inline-->
+<!--  ****** Infinite Menus Structure & Links ***** -->
+
+                                
                                 <div class="imrcmain3 imgl" style="width: 390px; z-index: 000006; position: relative;">
                                     <!--z-index:999996-->
                                     <div class="imcm" id="imouter3">
@@ -1153,6 +1277,8 @@ function InitializePopup(){
 
                                 <script language="JavaScript" src="/mdnet/js/ocscript.js" type="text/javascript"></script><style type="text/css">#imenus0 li.ishow li  .imsubc,#imenus0 li.ishow li li  .imsubc,#imenus0 li.ishow li li li  .imsubc,#imenus0 li.ishow li li li li  .imsubc,#imenus0 li.ishow li li li li li  .imsubc{visibility:hidden;}#imenus0 li.ishow .imsubc,#imenus0 li li.ishow .imsubc,#imenus0 li li li.ishow .imsubc,#imenus0 li li li li.ishow .imsubc,#imenus0 li li li li li.ishow .imsubc{visibility:visible;}#imenus0 li ul{}</style><style id="extimenus0" type="text/css">#imenus0 .ulmba{position:absolute;font-size:1px;border-style:solid;border-color:#000000;border-width:1px;undefined}</style><style type="text/css">#imenus3 li.ishow li  .imsubc,#imenus3 li.ishow li li  .imsubc,#imenus3 li.ishow li li li  .imsubc,#imenus3 li.ishow li li li li  .imsubc,#imenus3 li.ishow li li li li li  .imsubc{visibility:hidden;}#imenus3 li.ishow .imsubc,#imenus3 li li.ishow .imsubc,#imenus3 li li li.ishow .imsubc,#imenus3 li li li li.ishow .imsubc,#imenus3 li li li li li.ishow .imsubc{visibility:visible;}#imenus3 li ul{}</style><style id="extimenus3" type="text/css">#imenus3 .ulmba{position:absolute;font-size:1px;border-style:solid;border-color:#000000;border-width:1px;undefined}</style>
 
+                            
+
                             </td>
                             <td id="BlankCell">
                                 &nbsp;</td>
@@ -1167,6 +1293,7 @@ function InitializePopup(){
                 </div>
                 <div id="SubMenuNav">
                     
+
                 </div>
                 <div id="PageSubContent">
                     <span id="ctl00_UserMessage1_lblMessage"><font color="Red"></font></span>
@@ -1188,42 +1315,20 @@ function InitializePopup(){
 
 
 
-<div id="ctl00_LC_L1_pnlVendorCoupons">
-	
-<p class="sidebarP">
-<a class="prodTitles" href="http://www.marketday.com/shopping/products.aspx?sk=21&amp;pg=0"><img src="/mdnet/images/programs/vc_sidebar2.gif" width="127" alt="Deals of the Week"></a>
-<br> 
-<img src="/mdnet/images/sidebar.div7.gif" width="125px" alt="">
-</p>
-
-</div>
-
-
-
-
-
-
-
 
 
 <div id="ctl00_LC_L1_pnlProductGuide">
 	
-<p class="sidebarP">
-
-
-
-
-
-
-</p>
+    <p class="sidebarP">
+        <a href="http://www.marketday.com/HomeCompanion/index.html" target="_blank">            
+            <img src="/mdnet/images/programs/OnlineProductGuide.jpg" width="127" alt="Catalog Flipbook: Recipes, photos, and more"></a>
+        
+        
+        <br>
+        <img src="/mdnet/images/sidebar.div7.gif" width="125px" alt="">
+    </p>
 
 </div>
-
-
-
-
-
-
 
 
 
@@ -1237,25 +1342,24 @@ function InitializePopup(){
 
 
 
-
 <div id="ctl00_LC_L1_pnlUtilityNav" class="sidemenu">
-	 
-<img src="/mdnet/images/sidebar.blank.gif" alt="">
-<div class="sidebarMenuDiv">
-<ul class="sidebarList">
-<li><a href=" http://www.marketday.com/util/siteinfo.aspx">site information</a></li>
-<li><a href=" http://www.marketday.com/util/termsofuse.aspx">terms of use</a></li>
-<li><a href=" http://www.marketday.com/util/privacy.aspx">privacy</a></li>
-<li><a href=" http://www.marketday.com/util/sitemap.aspx">sitemap</a></li>
-<li><a href=" http://www.marketday.com/custservice/custservice.aspx">customer service</a></li>
-<li><a href="http://chairweb.marketday.com/aspchair/login/SiteLoginConfirm.asp" target="_blank">chairweb</a></li>
-<li><a href="http://www.marketdayfundraising.com/" target="_blank">Market Day Fundraising</a></li>
-</ul>
-</div>
-<img src="/mdnet/images/sidebar.bottom.gif" width="158" height="17" alt="">
+	
+    <img src="/mdnet/images/sidebar.blank.gif" alt="">
+    <div class="sidebarMenuDiv">
+        <ul class="sidebarList">
+            <li><a href=" http://www.marketday.com/util/siteinfo.aspx">site information</a></li>
+            <li><a href=" http://www.marketday.com/util/termsofuse.aspx">terms of use</a></li>
+            <li><a href=" http://www.marketday.com/util/privacy.aspx">privacy</a></li>
+            <li><a href=" http://www.marketday.com/util/sitemap.aspx">sitemap</a></li>
+            <li><a href=" http://www.marketday.com/custservice/custservice.aspx">customer service</a></li>
+            <li><a href="http://chairweb.marketday.com/aspchair/login/SiteLoginConfirm.asp" target="_blank">
+                chairweb</a></li>
+            <li><a href="http://www.marketdayfundraising.com/" target="_blank">Market Day Fundraising</a></li>
+        </ul>
+    </div>
+    <img src="/mdnet/images/sidebar.bottom.gif" width="158" height="17" alt="">
 
 </div>
-
 
 
 
@@ -1353,7 +1457,9 @@ Effective Date: 05/01/2011
                 </div>
             </div>
             <div id="PageFooter">
-                <div>
+                
+
+<div>
                     <img src="/mdnet/images/foot.bottom.gif" width="765" height="14" alt="">
                 </div>
                 <br>
@@ -1376,14 +1482,20 @@ Effective Date: 05/01/2011
                     </tbody></table>
                     <div class="FooterText">
                         For assistance, call Customer Service at 877-632-7753. ©
-                        2011
+                        2012
                         Market Day Corporation. All rights reserved.
                     </div>
                 </div>
+                
             </div>
         </div>
     
 
+<script type="text/javascript">
+//<![CDATA[
+ActivateFloating();ActivateInvite();//]]>
+</script>
+<script type="text/javascript"> window.onbeforeunload = confirmExit; </script>
 <script type="text/javascript">
 //<![CDATA[
 Sys.Application.initialize();
