@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the k9safesearch.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502193949id_/http%3A//www1.k9webprotection.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the k9safesearch.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513024645id_/http%3A//www1.k9webprotection.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | K9 Web Protection - Free Internet Filter and Parental Control Software
 
@@ -33,6 +33,14 @@ For purposes such as improving personalization of our service, we may receive in
 **What About Cookies?**
 
 Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. Blue Coat cookies do not collect Personal Information, and we do not combine the general information collected through cookies with other Personal Information to tell us who you are or what your screen name or email address is. • Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of our Web site’s most attractive features. 
+
+**K9 Web Protection**
+
+Blue Coat collects personal information from you when you request or register a license to use K9 Web Protection Software (“K9 Software”). As part of the registration process, you are required to provide certain personal information which may include, if applicable: name, address, email address, company name, company contact name and title, company telephone and fax number, and payment details. Blue Coat will primarily use this information to provide the licensee access to service and product functionality (such as using licensee’s email address to send passwords required to access and use the product). Blue Coat may also occasionally use this information to send you other communications, important product information and updates. In order to function, the K9 Software sends the following information from licensee’s computer to Blue Coat’s Web rating service: (i) information identifying licensee’s software license, (ii) information that relates licensee’s software license to licensee’s authorized computer, and (iii) the URLs of the web sites licensee needs rated. The Web rating service logs the number of web site rating requests made under licensee’s software license in order to monitor and track fraudulent use of the Blue Coat rating service. However, Blue Coat’s Web rating service does not track which web sites a licensee requests to have rated under his or her software license, and does not develop any history of a licensee’s web browsing activities.
+
+**K9 Safe Search**
+
+No personally identifiable information is ever required by K9 Safe Search, meaning the search engine never seeks any information related to your name, telephone number, address or email address. We do collect limited non-personally identifying information that your browser makes available. This log information includes your Internet Protocol address, browser type, browser language, referral data and the date and time of your query. 
 
 ## WILL BLUE COAT SHARE ANY OF THE PERSONAL INFORMATION IT RECEIVES? 
 
