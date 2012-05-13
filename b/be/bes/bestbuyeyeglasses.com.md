@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestbuyeyeglasses.com privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014155400id_/http%3A//privacy-policy.truste.com/verified-policy/www.bestbuyeyeglasses.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestbuyeyeglasses.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513084320id_/http%3A//privacy-policy.truste.com/verified-policy/www.bestbuyeyeglasses.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.bestbuyeyeglasses.com
 
