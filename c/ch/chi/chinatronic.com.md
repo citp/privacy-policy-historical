@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinatronic.com privacy policy that was archived on 2009-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090404024942id_/http%3A//www.chinatronic.com/info.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinatronic.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514005207id_/http%3A//www.chinatronic.com/info.php/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
