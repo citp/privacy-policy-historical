@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swapadvd.com privacy policy that was archived on 2011-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111015115259id_/http%3A//www.swapadvd.com/help/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swapadvd.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513085504id_/http%3A//www.swapadvd.com/help/privacy_policy.php) for the most accurate reproduction.*
 
 # SwapaDVD :: Privacy Policy
 
@@ -14,7 +14,7 @@ SwapaDVD does not rent, sell, or share personal information about you with other
 
 
 **Affiliated Entities**   
-SwapaDVD may engage in marketing products or services in cooperation with other companies. While engaged in a cooperative relationship with SwapaDVD, such companies are considered affiliated entities and SwapaDVD may share your information with them, including your name, address, email address, and other personal information that you have provided to us. If you purchase postage through the Site, the United States Postal Service and our postage partner, Endicia, require that we collect and share your name, email addresses and phone number with Endicia and the United States Postal Service. Your information can then be used according to their respective privacy policies, which can be found at 
+SwapaDVD may engage in marketing products or services in cooperation with other companies. While engaged in a cooperative relationship with SwapaDVD, such companies are considered affiliated entities and SwapaDVD may share your information with them, including your name, address, email address, and other personal information that you have provided to us. If you purchase postage through the Site, the United States Postal Service and our postage partner, Endicia, require that we collect and share your personal information with Endicia and the United States Postal Service. Information sharing includes, but may not be limited to, your name, address, email address, credit card number, and telephone number and such additional information as may be requested or required to complete or facilitate a postage purchase transaction. Your information can then be used according to their respective privacy policies, which can be found at 
 
 <http://www.endicia.com/PrivacyPolicy/>
 
