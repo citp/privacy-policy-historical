@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meaningfulbeauty.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231121643id_/http%3A//www.meaningfulbeauty.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meaningfulbeauty.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513075114id_/http%3A//www.meaningfulbeauty.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy - Meaningful Beauty®
 
@@ -73,3 +73,7 @@ Attn: California Privacy Rights
 #### Notification of Changes
 
 We may revise this Privacy Policy from time to time. If we decide to change our Privacy Policy, we will post the revised policy here. As we may make changes at any time without notifying you, we suggest that you periodically consult this Privacy Policy. Your continued use of the Website after the changes are posted constitutes your agreement to the changes, both with regard to information we have previously collected from you and with regard to information we collect from you in the future. If you do not agree to the changes, please discontinue your use of our Website.
+
+#### Customer Care
+
+To contact Customer Care, please call 1-800-469-9036.
