@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costco.com.au privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219085904id_/http%3A//costco.com.au/Common/Privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costco.com.au privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513034851id_/http%3A//costco.com.au/Common/Privacy.shtml) for the most accurate reproduction.*
 
 # Costco Wholesale Corporation - Privacy Statement
 
@@ -60,6 +60,8 @@ We give you the opportunity to opt-out of receiving certain information or to re
 If you do not want to receive Promotional Information (see Use of Personal Information by Costco) or information about Member Services, you can: (a) visit us at our Membership desk at any Costco warehouse location; (b) call us at 02-94697999; (c) e-mail us at membership@costco.com.au or (d) write us at Costco Wholesale Australia Pty Ltd, Australian Home Office, 17-21 Parramatta Road, Lidcombe NSW 2141. 
 
 If you do not want to receive promotional e-mails, you can: (a) call us at 02-94697999; (b) e-mail us at membership@costco.com.au or (c) write us at Costco Wholesale Australia Pty Ltd, Australian Home Office, 17-21 Parramatta Road, Lidcombe NSW 2141. You also have the option of utilising the unsubscribe facility. 
+
+Please note, even if you opt-out of communication with Costco, Costco reserves the right to use your contact details, including your e-mail address to alert you about product recalls or safety issues. 
 
 In the case of telemarketing calls, you should familiarise yourself with any rights which you may have under the _Do Not Call Register Act 2006 (Cth)_. 
 
