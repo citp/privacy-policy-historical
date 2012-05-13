@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getspool.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016074231id_/https%3A//getspool.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getspool.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513225305id_/https%3A//getspool.com/privacy) for the most accurate reproduction.*
 
 # Spool - Privacy Policy
 
