@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the phpfog.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107004518id_/https%3A//phpfog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpfog.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513084547id_/https%3A//phpfog.com/privacy) for the most accurate reproduction.*
 
-# None
+# PHP Fog — Privacy Policy
 
-This Privacy Policy was last revised on October 29, 2009.
+This Privacy Policy was last revised on December 8, 2011.
 
-PHP Fog, Inc. ("PHP Fog," "we," or "us") knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by PHP Fog when you use the PHP Fog Service, how the information will be used, and how you can control the collection, correction and/or deletion of information. Our basic principles are:
+PHP Fog, Inc. ("PHP Fog," "we," or "us") knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by PHP Fog when you use the PHP Fog Service (the “Service”), how the information will be used, and how you can control the collection, correction and/or deletion of information. Our basic principles are:
 
   * We won't spam you or sell your personal information to others.
   * You control how we send most messages to you.
@@ -25,6 +25,10 @@ We will only collect, use, and share your information as we describe in this Pri
 
 **Clear Gifs Information:** When you use the Service, we may employ clear gifs (also known as web beacons) which are used to track the online usage patterns of our users anonymously. No personally identifiable information from your PHP Fog account is collected using these clear gifs. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients. The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make PHP Fog better for our users.
 
+## Your Disclosures to Third Parties
+
+To the extent you include personal data in your submissions (such as your email address or phone number), third parties may be able to identify you, associate you with your user account, and contact you. Please do not include information in your submissions that you expect to keep private. 
+
 ## How We Use Your Information
 
 We use the personal information you submit to operate, maintain, and provide to you the features and functionality of the Service.
@@ -43,7 +47,7 @@ We use cookies, clear gifs, and log file information to: (a) remember informatio
 
 ## How We Share Your Information
 
-Personally Identifiable Information: PHP Fog will not rent or sell your personally identifiable information to others. PHP Fog may share your personally identifiable information with third parties solely for the purpose of providing the Service to you (for instance, to process your credit card transactions). If we do this, such third parties’ use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of PHP Fog (for instance, on servers in the cloud).
+Personally Identifiable Information: PHP Fog will not rent or sell your personally identifiable information to others. PHP Fog may share your personally identifiable information with third parties (i) with your consent or (ii) for the purpose of providing the Service to you (for instance, to process your credit card transactions). We may store personal information in locations outside the direct control of PHP Fog (for instance, on servers in the cloud).
 
 As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer or assign such information in the course of corporate divestitures, mergers, or dissolution.
 
@@ -51,13 +55,13 @@ If you invite another user to share your Application, we will share the Applicat
 
 By subscribing to or enabling an Add-on, you grant PHP Fog permission to share your Application, Content, and user information with the Add-on Provider as necessary in order to provide you the Add-on. We cannot control third parties’ use of your information. If you do not want your information to be collected by or shared with an Add-on Provider, you can choose not to subscribe to or enable Add-ons.
 
-Except as otherwise described in this Privacy Policy, PHP Fog will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our [Terms of Service](https://web.archive.org/web/20111107004518id_/https%3A//phpfog.com/tos), take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and (c) to exercise or protect the rights, property, or personal safety of PHP Fog, our users or others.
+Except as otherwise described in this Privacy Policy, PHP Fog will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our Terms of Service, take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and (c) to exercise or protect the rights, property, or personal safety of PHP Fog, our users or others.
 
 Non-Personally Identifiable Information: We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain PHP Fog services.
 
 ## How We Protect Your Information
 
-PHP Fog uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information and implement your Application sharing settings.  We cannot, however, ensure or warrant the security of any information you transmit to PHP Fog or store on the Service, and you do so at your own risk.
+PHP Fog uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information and implement your Application sharing settings. We cannot, however, ensure or warrant the security of any information you transmit to PHP Fog or store on the Service, and you do so at your own risk.
 
 To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information at all times.
 
@@ -81,8 +85,12 @@ We are not responsible for the practices employed by websites linked to or from 
 
 It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on the Service, as determined by PHP Fog in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy.
 
+## Your California Privacy Rights
+
+California Civil Code Section 1798.83 permits customers who are California residents to request that PHP Fog not share their personal data with third parties for such parties’ direct marketing purposes. To make such a request, send an e-mail with “California Privacy” in the subject line to privacy@phpfog.com or write us at the address below.
+
 ## Changes to Our Privacy Policy
 
-If we change our privacy policies and procedures, we will post those changes on the Service to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.
+PHP Fog may edit this policy from time to time. If we change our privacy policies and procedures, we will post those changes on the Service to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at privacy@phpfog.com, or send mail to: PHP Fog, Inc., Privacy, 2732 SE 18th Ave, Portland, OR, 97202.
