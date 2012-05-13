@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncbex.org privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106034407id_/http%3A//www.ncbex.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncbex.org privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513164631id_/http%3A//www.ncbex.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,11 +12,11 @@ NCBE has physical, electronic, and procedural safeguards in conformance to indus
 
 NCBE's web server monitors traffic by automatically recording every visitor's host, domain name, pages visited, length of user sessions, browser type, and/or IP address. The information we collect includes the number of times the site is visited, how many visitors come to the site, which parts of the site visitors frequent, and the length of time of each visit. This information is limited to pages visited within our website, does not contain personally identifying information, and is used to evaluate areas of interest and to improve the NCBE website. NCBE does not share this information with any other organizations.
 
-When you use the Standard NCBE Character and Fitness Electronic Application, the MBE Score Services Online Request Form, the UBE Score Transcript Online Request Form, or the NCBE Online Store, we collect personal information such as name, address, Social Security number, residences, and/or employers. We also collect personal information in an optional survey when you purchase an Online Practice Exam. All information solicited and received in these situations is treated confidentially by NCBE and restricted to official use by NCBE and/or the proper admitting authorities.
+When you use the Standard NCBE Character and Fitness Electronic Application, the MBE Score Services Online Request Form, the UBE Score Transcript Online Request Form, the NCBE Number Request, or the NCBE Online Store, we collect personal information such as name, address, Social Security number, residences, and/or employers. We also collect personal information in an optional survey when you purchase an Online Practice Exam. All information solicited and received in these situations is treated confidentially by NCBE and restricted to official use by NCBE and/or the proper admitting authorities.
 
 #### Credit Card Transactions
 
-All credit card transactions are processed through iTransact via SSL. iTransact’s privacy policy is available [here](http://www.itransact.com/about/privacy-policy/).  NCBE does not disclose credit card information for any other purpose.
+All credit card transactions are processed through iTransact via SSL ([view iTransact’s privacy policy](http://www.itransact.com/about/privacy-policy/ "Leaving NCBE website")).  NCBE does not disclose credit card information for any other purpose.
 
 #### Cookies
 
