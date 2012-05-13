@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scenekids.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113194627id_/http%3A//scenekids.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scenekids.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513091318id_/http%3A//scenekids.com/privacy) for the most accurate reproduction.*
 
-# SceneKids.com
+# SceneKids
 
 ## Privacy Policy
 
@@ -33,11 +33,13 @@ The information we collect is not shared with or sold to other organizations for
 
 A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive. Cookies are required to use the Site. We use cookies to assist in delivering the Service and to provide a positive and personalized user experience. Our persistent and session ID cookies are used to identify unique visitors to our sites and to provide you with easy access to your files. If you have your browser set to reject cookies, your usage of the Site is likely to be interrupted.
 
+Third party vendors, including Google, use cookies to serve ads based on your prior visits to this website. Google's use of the DART cookie enables it and its partners to serve ads to you based on your visits to this site and/or other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html).
+
 ### Security
 
 We have implemented processes intended to protect user information and maintain security of data. Each account holder is assigned a unique user name and password, which is required to access their account. It is each user's responsibility to protect the security of his or her login information. We have attempted to protect our servers by locating them areas with security procedures, using of firewalls and implementing other generally available security technologies.
 
-These safeguards help prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of data, but NO GUARANTY CAN BE MADE THAT YOUR INFORMATION AND DATA WILL BE SECURE FROM INTRUSIONS AND UNAUTHORIZED RELEASE TO THIRD PARTIES.
+These safeguards help prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of data, but NO GUARANTEE CAN BE MADE THAT YOUR INFORMATION AND DATA WILL BE SECURE FROM INTRUSIONS AND UNAUTHORIZED RELEASE TO THIRD PARTIES.
 
 ### Cancellation or Account Termination
 
