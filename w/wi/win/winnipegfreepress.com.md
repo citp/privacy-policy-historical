@@ -1,49 +1,45 @@
-> *The following text is extracted and transformed from the winnipegfreepress.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912173149id_/http%3A//www.winnipegfreepress.com/info/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winnipegfreepress.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513105621id_/http%3A//www.winnipegfreepress.com/privacy.html) for the most accurate reproduction.*
 
-# Winnipeg Free Press
+# Winnipeg Free Press - Breaking News, Sports, Manitoba, Canada
 
-## Privacy Policy
+Privacy Policy
 
-##### What is the _Winnipeg Free Press_ 's privacy policy?
+### What is the Winnipeg Free Press’ (FP Canadian Newspapers Limited Partnership, or FPLP) privacy policy?
 
-The Winnipeg Free Press recognizes the importance of protecting the privacy of personally identifiable information collected about our customers. This includes subscribers to and users of our services, purchasers of our products, advertisers, including those who advertise in classified ads, and visitors to our website. We adhere to fair information practices and limit the collection, use and disclosure of personal information which is provided to us, to only that information which is necessary for our business purposes and to provide services to you.
+FPLP recognizes the importance of protecting the privacy of personally identifiable information collected about our customers. This includes subscribers to and users of our services, purchasers of our products, advertisers (including those who advertise in classified ads), contest entrants, and visitors to our website. We adhere to fair information practices and limit the collection, use, and disclosure of personal information which is provided to us, to only that information which is necessary for our business purposes, and to provide services to you.
 
-The Winnipeg Free Press collects personal information when we provide our services and our products to our customers and to fulfill administrative functions associated with these services, for example to permit billing, delivery of our newspapers and for marketing and other customer relationship purposes. On occasion, we contract with others to provide these services to you and where we engage agents or contract with others to provide those services, we require those agents to demonstrate a similar commitment to maintaining your privacy.
+FPLP collects personal information when we provide our services and our products to our customers and to fulfill administrative functions associated with these services, for example to permit billing, delivery of our newspapers and for marketing and other customer relationship purposes. On occasion, we contract with others to provide these services to you and where we engage agents or contract with others to provide those services, we require those agents to demonstrate a similar commitment to maintaining your privacy.
 
-We do not collect, use or disclose personal information about our customers without the consent of our customers, except where disclosure is permitted or required by law. 
+We do not collect, use or disclose personal information about our customers without the consent of our customers, except where disclosure is permitted or required by law.
 
-Whenever possible, the Free Press will limit the use of information for the purpose for which it was collected and where we have identified a new use for that information, we will advise you and where reasonable and necessary secure your consent. 
+Whenever possible, FPLP will limit the use of information for the purpose for which it was collected and where we have identified a new use for that information, we will advise you and where reasonable and necessary secure your consent.
 
-The Free Press will retain personal information about customers for as long as is necessary for our business purposes and to comply with any applicable laws governing the retention of records.
+FPLP will retain personal information about customers for as long as is necessary for our business purposes and to comply with any applicable laws governing the retention of records.
 
-When the Free Press no longer requires the information for our business purposes or to meet those legal requirements, we will either destroy it or render it anonymous.
+When FPLP no longer requires the information for our business purposes or to meet those legal requirements, we will either destroy it or render it anonymous.
 
-## Winnipeg Free Press Website
+### Links to other websites
 
-The Winnipeg Free Press is not responsible for the content or the privacy policies of web sites to which it may link. 
+Be aware that our websites may contain links to other websites provided and maintained exclusively by third parties not subject to FPLP Privacy Policy. Please review the privacy policies on any external websites to determine their information handling practices.
 
-##### What information do you collect automatically on your site?
+We place advertising on our websites that originate from third party advertisers. Even though these advertisements are embedded in our website, cookies may be assigned by the advertisers and not FPLP. FPLP does not control these cookies.
 
-Within the editorial sections of The Winnipeg Free Press site, our web servers record which pages you visit and also the IP address of all our visitors. This information is only used in aggregate form to determine such things as popular pages, routes to our site, etc. This information is used for internal review only and to improve the content of our web site. Note, as part of this process we do not recognise your email address. We also sometimes monitor your browser type, the size of your screen and whether you use cookies. We use this information to help us determine why some people but not others have problems with web sites.
+### Access to Information Procedure
 
-##### What about cookies and how do you use them?
+FPLP, on receipt of a written request by a customer and once that customer has verified that they are entitled to the personal information, will provide an opportunity to review any personal information that FPLP may have about that customer with the exception of any information gathered by its journalists and subject to exceptions set out in Section 9 of PIPEDA.
 
-Portions of The Winnipeg Free Press site use cookies in order to provide you with better service. One of the main reasons we use them is to ensure that you are not hassled by surveys more than once.
+On receipt of written request and verification of the authority of the person to obtain the personal information, FPLP will make every effort to provide an opportunity for the customer to review the information within 30 days of the written request. If FPLP requires additional time to fulfill that request, the customer will be notified that a further period of time will be required to respond and a follow–up date will be given.
 
-A cookie is a small piece of information which a web site stores via your web browser on your PC and which can later be retrieved. Cookies cannot be read by a web site other than the one that set it. None of our cookies will contain information that will enable anyone to contact you via telephone, e-mail, or any other means.
+Before providing the information to a customer, FPLP will review that information and remove any sensitive commercial information about FPLP’s business practices and any personal information about identifiable third parties whom have not given consent for the information to be disclosed. If appropriate, the customer will be provided with a copy of the information, at the customer’s expense.
 
-You can configure your browser to notify you when cookies are being placed on your computer. You can also turn them off and delete cookies if you do not want them.
+Where a customer believes that the personal information collected by FPLP is inaccurate, the customer may request FPLP make corrections to the personal information. FPLP may make the corrections requested. However, if there is a dispute between FPLP and the customer concerning the accuracy of the personal information collected, FPLP will note on the file that the customer disagrees with that personal information. If any third parties have been provided this information, FPLP will make all reasonable attempts to inform third parties of the correction.
 
-##### What does The Winnipeg Free Press do with the information it gathers/tracks? 
+#### Personal Information Complaints
 
-The Winnipeg Free Press may perform statistical analyses of user behavior in order to measure interest in the various areas of our site (for product development purposes) and to inform advertisers as to how many consumers have seen or "clicked" their advertising banners. In this statistical analyses and banner advertisement targeting, we will disclose information to third parties only in aggregate form. Personal information about you as an individual will not be provided to any third party without your consent. 
+If a customer wants to make a complaint about the manner in which FPLP has used, collected or disclosed personal information the complaint should be directed to the privacy officer. The customer should be assured that the complaint will be investigated and that if necessary the appropriate measures will be taken to correct FPLP’s information handling policies and practices. The complaint should be in writing and sent to 1355 Mountain Avenue, Winnipeg, Manitoba, R2X 3B6.
 
-The "email this story" feature is an easy way for Winnipeg Free Press readers to send articles through email. The email addresses that you supply to use this service will not be used for any other purpose. 
+#### Any other questions?
 
-##### Any other questions?
-
-If you have questions about our privacy practices, please contact us at the Winnipeg Free Press at 1355 Mountain Avenue, Winnipeg, Manitoba, R2X 3B6 or (204) 697-7000 or e-mail us at [privacy@freepress.mb.ca](mailto:privacy@freepress.mb.ca).
-
-To view our Access to Information and Complaint Policy, please [click here](https://web.archive.org/info/privacy/access/index.html).
+If you have questions about our privacy practices, please contact us at FPLP at 1355 Mountain Avenue, Winnipeg, Manitoba, R2X 3B6.
 
 This Policy may be updated and changed periodically. As changes are made to our Privacy Policy, we will post those changes on this page. You are encouraged to review this page regularly for any changes.
