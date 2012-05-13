@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the teavana.com privacy policy that was archived on 2011-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111123174750id_/http%3A//www.teavana.com/customer-service/privacy-policy%3Fcm_sp%3DFooter-_-Security-_-PrivacyPol) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the teavana.com privacy policy that was archived on 2012-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120513133024id_/http%3A//www.teavana.com/customer-service/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class=" js geolocation"><!--<![endif]--><head>
+<!DOCTYPE html><html lang="en" xmlns:fb="http://ogp.me/ns/fb#" class=" js geolocation"><!--<![endif]--><head>
+    <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#appId=169059967679&amp;xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://insight.torbit.com/v1/insight.min.js"></script><script type="text/javascript">        var TBRUM = TBRUM || {}; TBRUM.q = TBRUM.q || []; TBRUM.q.push(['mark', 'firstbyte', (new Date).getTime()]); (function () { var a = document.createElement('script'); a.type = 'text/javascript'; a.async = true; a.src = document.location.protocol + '//insight.torbit.com/v1/insight.min.js'; var b = document.getElementsByTagName('script')[0]; b.parentNode.insertBefore(a, b) })();</script>
     <meta charset="utf-8">
     <title>Teavana's Privacy Policy | Teavana</title>
     <meta content="teavana, buy tea online, oolong tea, black tea, white tea, herbal tea, rooibos tea, mate tea, tea products, tea accessories, tea bags, loose leaf tea" name="keywords">
@@ -9,9 +10,13 @@
     <meta name="verify-v1" content="BZ14ELZ3YPA950faTSENG8kLPEQkCl1ZHxS2K4mt0ok=">
     <meta name="google-site-verification" content="SF0keGYU88SIEUYNkSDU9fXuIuyPL_J3F-d0OfaGwrY">
     <meta name="y_key" content="d9cbefdf0b4649ae">
-    <link rel="canonical" href="http://www.teavana.com/customer-service/privacy-policy?cm_sp=footer-_-security-_-privacypol">
+    <meta property="fb:app_id" content="169059967679">
+    <link rel="canonical" href="http://www.teavana.com/customer-service/privacy-policy">
     
+    <meta property="fb:app_id" content="169059967679">
     
+
+    <link href="/assets/packaged/css_sitecss.css" rel="stylesheet" type="text/css">
 
     
     <link href="/assets/packaged/css_sitecss.css" rel="stylesheet" type="text/css">
@@ -19,7 +24,7 @@
     
 
     <!-- google analytics -->
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+    <script type="text/javascript">
         var _gaq = [['_setAccount', 'UA-2949872-1'], ['_trackPageview']];
     </script>
     
@@ -30,10 +35,13 @@
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
         })();
     </script>
+    <script type="text/javascript" src="http://teavana-ac.celebros-analytics.com/AutoComplete/Scripts/CelebrosAutoCompleteV2.js"></script>  
+    <link type="text/css" rel="stylesheet" href="/Assets/Css/autocomplete.css">
+
     <!-- All JavaScript at the bottom, except for Modernizr which enables HTML5 elements & feature detects -->
     <script src="/assets/packaged/js_modernizr.js" type="text/javascript"></script>
 
-</head>
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body>
     <!-- Coremetrics tracking tags must be after the body tag for correct tracking -->
     <script src="/assets/packaged/js_coremetrics.js" type="text/javascript"></script>
@@ -57,8 +65,8 @@ cmSetProduction();
     
     <div id="alert-banner" class="">
         <div>
-            <span>Black Friday: Free Mari Tin with Purchase + Free Shipping Over $50 </span><a href="/customer-service/help#ShippingRates">
-                &nbsp;</a><a class="close" href="#" rel="#alert-banner">Close </a>
+            <span>Free Sample + Free Shipping on All Orders over $50</span><a href="/tea-info/free-tea">
+                See Details</a><a class="close" href="#" rel="#alert-banner">Close </a>
         </div>
     </div>
     <div class="fade-container top-fade">
@@ -87,11 +95,24 @@ cmSetProduction();
     <div id="mini-bag">
     </div>
     <div id="search-form">
-        <form name="searchForm" action="http://tea.teavana.com/getSearch.jsp" method="get">
-        <input type="submit" value="GO" class="as-seemless" style="margin-top: 0px; margin-bottom: 0px;
-            padding-top: 2px; padding-bottom: 1px;">
-        <input id="search-keyword" name="keyword" size="25" placeholder="Search" style="float: right;">
+        <form name="searchForm" action="http://tea.teavana.com/" method="get">
+            <input type="submit" value="GO" class="as-seemless" style="margin-top: 0px; margin-bottom: 0px;
+                                      padding-top: 2px; padding-bottom: 1px;">
+            <input id="search-keyword" name="keyword" size="25" placeholder="Search" style="float: right;" autocomplete="off">
         </form>
+        <script language="javascript">
+            CelebrosAutoComplete("Teavana", "search-keyword", onSelect, "teavana-ac.celebros-analytics.com", "teavana-ac.celebros-analytics.com");
+            function onSelect(aParameter) {
+                if ((aParameter["SelectedURL"] != "") && (aParameter["IsAutoComplete"])) {
+                    window.location = aParameter["SelectedURL"];
+                }
+
+                else {
+                    window.location = "http://tea.teavana.com/?keyword=" + escape(aParameter["SelectedQuery"]);
+                }
+            }
+         
+        </script>
     </div>
 </div>
 
@@ -214,76 +235,142 @@ cmCreatePageviewTag('CNT: Privacy','50203', null, null);
         </div>
     </div>
     <div id="footer">
-<ul id="footer-socal" class="table-header">
-    <li style="padding-left: 6px;"><a class="modalPopup" href="/popups/join">
-        <img src="/assets/img/buttons/email-us.jpg" alt="Email Teavana"></a></li>
-    <li style="border-left: 2px solid #fff; padding: 10px 0 0 3px; height: 23px; background-color: #999;">
-        Share ...</li>
-    <li><a rel="lgwindow" class="popupwindow" href="http://www.facebook.com/teavana">
-        <img src="/assets/img/buttons/facebook.jpg" alt="Facebook"></a></li>
-    <li><a rel="lgwindow" class="popupwindow" href="http://twitter.com/teavana">
-        <img src="/assets/img/buttons/twitter.jpg" alt="Twitter"></a></li>
-    <li><a href="/iphone">
-        <img src="/assets/img/buttons/iphone.jpg" alt="iPhone"></a></li>
-</ul>
-<ul id="footer-links" class="display-list clearfix">
-    <li>
-        <h3>Shop for teas</h3>
-        <ul>
-            <li><a href="/the-teas/white-teas">White Teas</a></li>
-            <li><a href="/the-teas/green-teas">Green Teas</a></li>
-            <li><a href="/the-teas/oolong-teas">Oolong Teas</a></li>
-            <li><a href="/the-teas/black-teas">Black Teas</a></li>
-            <li><a href="/the-teas/mate-teas">Mate Teas</a></li>
-        </ul>
-    </li>
-	<li>
-        <h3>Learn about tea</h3>
-        <ul>
-            <li><a href="/tea-info/types-of-tea">Types of Tea</a></li>
-            <li><a href="/tea-info/history-of-tea">History of Tea</a></li>
-            <li><a href="/tea-info/how-to-make-tea">How to Steep Tea</a></li>
-            <li><a href="/tea-info/loose-leaf-tea-vs-tea-bags">Loose Leaf vs. Tea Bags</a></li>
-            <li><a href="/tea-info/tea-party-ideas-planning">Tea Party Ideas</a></li>
-        </ul>
-    </li>
-    <li>
-        <h3>
-            Customer Service</h3>
-        <ul>
-            <li>
-                <a href="/account/order">Order Tracking</a>
-            </li>
-            <li> <a href="/retail">Find a Store</a></li>
-            <li><a href="/account/wishlist">My Tea Wish List</a></li>
-            <li><a href="/customer-service/help#ReturnPolicy">Return Policy</a></li>
-            <li><a href="http://www.surveymonkey.com/s.aspx?sm=i4m2beTTTIsC5PHrQZCopQ_3d_3d">Tell us your opinion</a></li>
-        </ul>
-    </li>
-    <li>
-        <h3>
-            Secure Shopping</h3>
-        <ul>
-            <li><a href="/customer-service/website-security">Website Security</a></li>
-            <li><a href="/customer-service/privacy-policy">Privacy Policy</a></li>
-            <li><a href="/customer-service/help#ShippingRates">Fast Shipping</a></li>
-            <li><a href="/about-us/terms-of-use">Terms of Use</a></li>
-        </ul>
-    </li>
-    <li>
-        <h3>
-            About Teavana</h3>
-        <ul>
-            <li><a href="/about-us">Company Info</a></li>
-            <li><a href="/about-us/careers">Careers</a></li>
-            <li><a href="http://ir.teavana.com">Investor Relations</a></li>
-            <li><a href="/customer-service/affiliate-program">Become an Affiliate</a></li>
-            <li><a href="/about-us/give-back">Giving Back</a></li>
-        </ul>
-    </li>
-</ul>
+<table border="0" cellpadding="0" cellspacing="0" width="980">
+  <tbody><tr>
+   <td><img src="/Assets/Img/Footer/spacer.gif" width="980" height="1" border="0" alt=""></td>
+   <td><img src="/Assets/Img/Footer/spacer.gif" width="1" height="1" border="0" alt=""></td>
+  </tr>
+
+  <tr>
+   <td><table width="980" border="0" cellpadding="0">
+     <tbody><tr>
+                <td width="186" bgcolor="e2dedb">
+                    <img name="socialbar_full" src="/Assets/Img/Footer/social-bar_full.jpg" width="980" height="25" border="0" usemap="#m_socialbar_full" alt="">
+                    <map name="m_socialbar_full">
+                        <area shape="rect" coords="868,0,971,25" href="https://plus.google.com/u/0/114735077570192110740/posts" target="_blank" alt="">
+                        <area shape="rect" coords="745,0,855,25" href="http://www.youtube.com/teavanatea" target="_blank" alt="">
+                        <area shape="rect" coords="642,0,727,25" href="http://pinterest.com/teavana/" target="_blank" alt="">
+                        <area shape="rect" coords="492,0,629,25" href="http://twitter.com/#!/TEAVANA" target="_blank" alt="">
+                        <area shape="rect" coords="356,0,483,25" href="http://www.facebook.com/teavana" target="_blank" alt="">
+                        <area shape="rect" coords="0,0,196,25" class="modalPopup" href="/popups/join" alt="">
+                    </map>
+                </td>
+     </tr>
+   </tbody></table></td>
+   <td><img src="/Assets/Img/Footer/spacer.gif" width="1" height="25" border="0" alt=""></td>
+  </tr>
+  <tr>
+   <td><img src="/Assets/Img/Footer/Footer_r2_c1.jpg" width="980" height="25"></td>
+   <td><img src="/Assets/Img/Footer/spacer.gif" width="1" height="25" border="0" alt=""></td>
+  </tr>
+  <tr>
+   <td><table width="980" border="0" align="left" cellpadding="5">
+     <tbody><tr>
+       <td width="196" height="13" align="left" valign="top"><span class="footer-style2">SHOP FOR TEAS</span><br>
+         <a class="footer" href="http://www.teavana.com/the-teas/white-teas?cm_sp=TheTeas-_-TeaType-_-White">White tea</a><br>
+         <a class="footer" href="http://www.teavana.com/the-teas/green-teas?cm_sp=TheTeas-_-TeaType-_-Green">Green tea</a><br>
+         <a class="footer" href="http://www.teavana.com/the-teas/oolong-teas?cm_sp=TheTeas-_-TeaType-_-Oolong">Oolong tea</a><br>
+         <a class="footer" href="http://www.teavana.com/the-teas/black-teas?cm_sp=TheTeas-_-TeaType-_-Black">Black tea</a><br>
+         <a class="footer" href="http://www.teavana.com/the-teas/herbal-teas?cm_sp=TheTeas-_-TeaType-_-Herbal">Herbal tea</a><br>
+         <a class="footer" href="http://www.teavana.com/the-teas/rooibos-teas?cm_sp=TheTeas-_-TeaType-_-Rooibos">Rooibos tea</a><br>
+         <a class="footer" href="http://www.teavana.com/the-teas/mate-teas?cm_sp=TheTeas-_-TeaType-_-Mate">Mate tea</a><br>
+         <a class="footer" href="http://www.teavana.com/the-teas/blooming-teas?cm_sp=TheTeas-_-TeaType-_-Blooming">Blooming tea</a><br>
+         <a class="footer" href="http://www.teavana.com/the-teas/best-tea-blends?cm_sp=TheTeas-_-TeaType-_-Blends">Best Tea Blends</a> <br></td>
+       <td width="196" align="left" valign="top"><span class="footer-style2">SHOP BY TEA FLAVOR</span><br>
+         <a class="footer" href="http://www.teavana.com/the-teas/teas-by-flavor/fruity-teas?cm_sp=Home-_-Taste-_-Fruity">Fruity Teas</a><br>
+         <a class="footer" href="http://www.teavana.com/the-teas/teas-by-flavor/chai-teas?cm_sp=Home-_-Taste-_-Chai">Chai Teas</a><br>
+         <a class="footer" href="http://www.teavana.com/the-teas/teas-by-flavor/straight-teas?cm_sp=Home-_-Taste-_-Straight">Straight Teas</a><br>
+         <a class="footer" href="http://www.teavana.com/the-teas/teas-by-flavor/peach-teas?cm_sp=Home-_-Taste-_-Peach">Peach Teas</a><br>
+         <a class="footer" href="http://www.teavana.com/the-teas/teas-by-flavor/chocolaty-teas?cm_sp=Home-_-Taste-_-Chocolaty">Chocolaty Teas</a><br>
+         <a class="footer" href="http://www.teavana.com/the-teas/teas-by-flavor/minty-teas?cm_sp=Home-_-Taste-_-Mint">Mint Teas</a><br>
+         <a class="footer" href="http://www.teavana.com/the-teas/teas-by-flavor/dessert-teas?cm_sp=Home-_-Taste-_-Dessert">Dessert Teas</a><br>
+         <a class="footer" href="http://www.teavana.com/the-teas/teas-by-flavor/jasmine-teas?cm_sp=Home-_-Taste-_-Jasmine">Jasmine Teas</a><br>
+         <a class="footer" href="http://www.teavana.com/the-teas/teas-by-flavor/citrusy-teas?cm_sp=Home-_-Taste-_-Citrusy">Citrusy Teas</a> </td>
+       <td width="196" align="left" valign="top"><span class="footer-style2">POPULAR TEA SEARCHES</span><br>
+         <a class="footer" href="http://tea.teavana.com/?keyword=blueberry+tea&amp;cm_sp=Home-_-Searches-_-blueberry">Blueberry tea</a><br>
+         <a class="footer" href="http://www.teavana.com/the-teas/teas-by-flavor/chai-teas?cm_sp=Home-_-Searches-_-Chai">Chai teas</a><br>
+         <a class="footer" href="http://tea.teavana.com/?keyword=Strawberry+tea&amp;cm_sp=Home-_-Searches-_-Strawberry">Strawberry teas</a><br>
+         <a class="footer" href="http://www.teavana.com/the-teas/iced-teas?cm_sp=Home-_-Searches-_-iced">Iced Teas</a><br>
+         <a class="footer" href="http://www.teavana.com/tea-products/tea-storage-tins?cm_sp=Home-_-Searches-_-tins">Tea Tins</a><br>
+         <a class="footer" href="http://www.teavana.com/tea-products/tea-cups-mugs/travel-tea-cups?cm_sp=Home-_-Searches-_-TravelCups">Travel Tea Tumblers</a><br>
+         <a class="footer" href="http://tea.teavana.com/?keyword=raspberry+tea&amp;cm_sp=Home-_-Searches-_-raspberry">Raspberry tea</a><br>
+         <a class="footer" href="http://www.teavana.com/the-teas/teas-by-flavor/chocolaty-teas?cm_sp=Home-_-Searches-_-chocolate">Chocolate tea</a><br>
+         <a class="footer" href="http://www.teavana.com/tea-products/teapots-teapot-sets?cm_sp=Home-_-Searches-_-teapots">Teapots</a> </td>
+       <td width="196" align="left" valign="top"><span class="footer-style2">TEA INFO CENTER</span><br>
+Learn about tea, the health<br>
+benefits, history and much more:<br>
+<a class="footer" href="http://www.teavana.com/tea-info/new-to-tea?cm_sp=Home-_-TeaInfoBlock-_-TeaBeginners">For Tea Beginners</a><br>
+<a class="footer" href="http://www.teavana.com/tea-info/how-to-make-tea?cm_sp=Home-_-TeaInfoBlock-_-MakeTea">How to make Loose Tea</a><br>
+<a class="footer" href="http://www.teavana.com/tea-info/how-to-make-iced-tea?cm_sp=Home-_-TeaInfoBlock-_-MakeIcedTea">Making Iced Tea</a><br>
+<a class="footer" href="http://www.teavana.com/tea-info/tea-blends?cm_sp=Home-_-TeaInfoBlock-_-BlendingTea">How to Blend Teas</a><br>
+<a class="footer" href="http://www.teavana.com/tea-info/serving-tea?cm_sp=Home-_-TeaInfoBlock-_-ServingTea">Properly Serving Tea</a><br>
+<a class="footer" href="http://www.teavana.com/tea-info/how-to-make-matcha-tea?cm_sp=Home-_-TeaInfoBlock-_-MakingMatcha">How to Make Matcha</a><br>
+<a class="footer" href="http://www.teavana.com/tea-info/tea-storage-for-loose-leaf-teas?cm_sp=Home-_-TeaInfoBlock-_-StoringTea">Storing Teas</a> </td>
+       <td width="196" align="left" valign="top"><span class="footer-style3"><strong>SHOP IN-STORE SAMPLES</strong><br>           
+           <strong>Featured Teavana store teas:</strong></span><br>
+         <a class="footer" href="http://www.teavana.com/the-teas/best-tea-blends/youthberry-wild-orange-blossom-tea-blend.axd?cm_sp=Home-_-Samples-_-YouthOrange">Youthberry Wild Orange Tea</a><br>
+         <a class="footer" href="http://www.teavana.com/the-teas/best-tea-blends/strawberry-bliss-tea-blend-at-teavana.axd?cm_sp=Home-_-Samples-_-StrawBliss">Strawberry Bliss Tea</a><br>
+         <a class="footer" href="http://www.teavana.com/the-teas/oolong-teas/p/monkey-picked-oolong-tea?cm_sp=Home-_-Samples-_-MonkeyPicked">Monkey Picked Oolong Tea</a><br>
+         <a class="footer" href="http://www.teavana.com/the-teas/white-teas/peach-momotaro-artisan-tea.axd?cm_sp=Home-_-Samples-_-PeachMomo">Peach Momotaro Blooming Tea</a><br>
+         <a class="footer" href="http://www.teavana.com/the-teas/best-tea-blends/chai-chai-tea-blend.axd?cm_sp=Home-_-Samples-_-ChaiChai">Chai-Chai Tea</a><br>
+         <a class="footer" href="http://www.teavana.com/the-teas/best-tea-blends/jasmine-tropica-tea-blend.axd?cm_sp=Home-_-Samples-_-JasTropica">Jasmine Tropica Tea</a><br>
+         <br>
+         <div><a class="footer" href="http://www.teavana.com/the-teas/best-tea-blends?cm_sp=Home-_-Samples-_-TeaBlends">Shop our Best Tea Blends &gt;&gt;</a></div></td>
+     </tr>
+     
+   </tbody></table></td>
+   <td><img src="/Assets/Img/Footer/spacer.gif" width="1" height="142" border="0" alt=""></td>
+  </tr>
+  <tr>
+   <td><img name="Footer_r4_c1" src="/Assets/Img/Footer/Footer_r4_c1.jpg" width="980" height="25" border="0" alt=""></td>
+   <td><img src="/Assets/Img/Footer/spacer.gif" width="1" height="25" border="0" alt=""></td>
+  </tr>
+  <tr>
+   <td><table width="980" border="0" cellpadding="0">
+     <tbody><tr>
+       <td width="196" height="23" align="left" valign="top"><span class="footer-style3"><strong>GIFT CARDS &amp;<br>
+         GIFT CERTIFICATES</strong></span><br>
+Our new gift cards can be used<br>
+online at Teavana.com or at<br>
+any of our Teavana stores.<br>
+<br>
+<a class="footer" href="http://www.teavana.com/giftcards?cm_sp=GiftCntr-_-Cat-_-GiftCards">Shop Tea Gift Cards</a> </td>
+       <td width="196" align="left" valign="top"><span class="footer-style3"><strong>LEARN ABOUT TEA</strong></span><br>
+         <a class="footer" href="http://www.teavana.com/tea-info/types-of-tea">Types of Tea<br>
+         </a><a class="footer" href="http://www.teavana.com/tea-info/history-of-tea">History of Tea<br>
+         </a><a class="footer" href="http://www.teavana.com/tea-info/how-to-make-tea">How to Steep Tea<br>
+         </a><a class="footer" href="http://www.teavana.com/tea-info/loose-leaf-tea-vs-tea-bags">Loose Leaf vs. Tea Bags<br>
+         </a><a class="footer" href="http://www.teavana.com/tea-info/tea-party-ideas-planning">Tea Party Ideas</a></td>
+       <td width="196" align="left" valign="top"><span class="footer-style3"><strong>CUSTOMER SERVICE</strong></span><br>
+         <a class="footer" href="http://www.teavana.com/account/order">Order Tracking<br>
+         </a><a class="footer" href="http://www.teavana.com/retail">Find a Store<br>
+         </a><a class="footer" href="http://www.teavana.com/account/wishlist">My Tea Wish List<br>
+         </a><a class="footer" href="http://www.teavana.com/customer-service/help#ReturnPolicy">Return Policy<br>
+         </a><a class="footer" href="http://www.surveymonkey.com/s.aspx?sm=i4m2beTTTIsC5PHrQZCopQ_3d_3d">Tell us your opinion</a></td>
+       <td width="196" align="left" valign="top"><span class="footer-style3"><strong>SECURE SHOPPING</strong></span><br>
+         <a class="footer" href="http://www.teavana.com/customer-service/website-security">Website Security<br>
+         </a><a class="footer" href="http://www.teavana.com/customer-service/privacy-policy">Privacy Policy<br>
+         </a><a class="footer" href="http://www.teavana.com/customer-service/help#ShippingRates">Fast Shipping<br>
+         </a><a class="footer" href="http://www.teavana.com/about-us/terms-of-use">Terms of Use</a></td>
+       <td align="left" valign="top"><span class="footer-style3"><strong>ABOUT TEAVANA</strong></span><br>         
+         <a class="footer" href="http://www.teavana.com/about-us">Company Info<br>
+         </a><a class="footer" href="http://www.teavana.com/about-us/careers">Careers<br>
+         </a><a class="footer" href="http://ir.teavana.com/">Investor Relations<br>
+         </a><a class="footer" href="http://www.teavana.com/customer-service/affiliate-program">Become an Affiliate<br>
+         </a><a class="footer" href="http://www.teavana.com/about-us/give-back">Giving Back</a></td>
+     </tr>
+     
+   </tbody></table></td>
+   <td><img src="/Assets/Img/Footer/spacer.gif" width="1" height="107" border="0" alt=""></td>
+  </tr>
+  <tr>
+   <td align="center"> All Material in this site is Copyrighted by Teavana Corp. 1996-2012. Teavana is a registered trademark. No image or print in this site may be used without written permission. </td>
+   <td><img src="/Assets/Img/Footer/spacer.gif" width="1" height="25" border="0" alt=""></td>
+  </tr>
+</tbody></table>
+
 <div>
-    All Material in this site is Copyrighted by Teavana Corp. 1996-2011.
+    All Material in this site is Copyrighted by Teavana Corp. 1996-2012.
     Teavana is a registered trademark. No image or print in this site may be used without
     written permission.</div>
     </div>
@@ -300,10 +387,32 @@ cmCreatePageviewTag('CNT: Privacy','50203', null, null);
     </div>
 
     
+    
     <script src="/assets/packaged/js_form-validation_jquery.js" type="text/javascript"></script>
 
     
 
 
+    <script src="https://tva.netmng.com/?aid=1269" type="text/javascript" defer="defer"></script>
+    <script type="text/javascript">
+        adroll_adv_id = "NZABXOT4ONBHTDRTUMVQUN"; adroll_pix_id = "MLILCFSPKBGYXNFROJXS73"; (function () {
+            var oldonload = window.onload; window.onload = function () {
+                __adroll_loaded = true; var scr = document.createElement("script"); var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com"); scr.setAttribute('async', 'true'); scr.type = "text/javascript"; scr.src = host + "/j/roundtrip.js";
+                ((document.getElementsByTagName('head') || [null])[0] || document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+                if (oldonload) { oldonload() } 
+            };
+        } ());
+    </script>
+    <div id="fb-root">
+    </div>
+    <script>
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) { return; }
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_US/all.js#appId=169059967679&xfbml=1";
+            fjs.parentNode.insertBefore(js, fjs);
+        } (document, 'script', 'facebook-jssdk'));</script>
+    
 
 </body></html>
