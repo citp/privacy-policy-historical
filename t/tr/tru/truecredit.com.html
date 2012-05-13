@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the truecredit.com privacy policy that was archived on 2011-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111225003809id_/http%3A//www.truecredit.com/policy/privacy.jsp%3Ffc_se%3DfooterTab) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the truecredit.com privacy policy that was archived on 2012-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120513111032id_/http%3A//www.truecredit.com/policy/privacy.jsp%3Ffc_se%3DfooterTab) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 
-<link rel="shortcut icon" href="http://www.truecredit.com/Shortcut_Icon_TU.ico" type="image/x-icon">
+<link rel="shortcut icon" href="https://www.truecredit.com/Shortcut_Icon_TU.ico" type="image/x-icon">
 
    <title>Credit Scoring, Online Credit Checks &amp; ID Fraud-Watch</title>
    
@@ -18,7 +18,7 @@
    
 
    <!-- credit report:equifax, transunion, credit bureau, credit check, credit score -->
-   <!-- Copyright 2000-2011 -->
+   <!-- Copyright 2000-2012 -->
 
 
 <link rel="stylesheet" type="text/css" href="/stylesheet/default.css">
@@ -27,7 +27,29 @@
 
 
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+
+
+<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-2854562-5']);
+_gaq.push(['_setDomainName', 'none']);
+_gaq.push(['_setAllowLinker', true]);
+_gaq.push(['_trackPageview', '/policy/privacy.jsp']);
+_gaq.push(['_trackPageLoadTime']);
+
+(function() {
+var ga = document.createElement('script');
+ga.type = 'text/javascript';
+ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
+<script type="text/javascript">
+    var formSubmitted = false;
+    var virtualPageview = "";
 
 function addLoadEvent(func) {
      var oldonload = window.onload;
@@ -45,6 +67,10 @@ function addLoadEvent(func) {
 
 
   function onUnloadCheck() {
+      if (!formSubmitted && (virtualPageview.length > 0)) {
+          // Google Analytics form abandonment reporting
+          _gaq.push(['_trackPageview', virtualPageview]);
+      }
     if ( infoWindow != null ) {
       infoWindow.close();
     }
@@ -66,6 +92,15 @@ function addLoadEvent(func) {
 	   }
   }
 
+
+    function handleOnsubmit() {
+        formSubmitted = true;
+    }
+
+    function handleOnblur(field) {
+        formSubmitted = false;
+        virtualPageview = "vpv/int/" + field.form.name + "/" + field.name;
+    }
 </script>
 <script type="text/javascript" src="/shared/cncr/js/common.js"></script>
 
@@ -79,11 +114,6 @@ function addLoadEvent(func) {
 <body onload="onLoadHandler()" onunload="onUnloadCheck()">
 
 <div id="container"><div id="content">
-
-
-   <script language="JavaScript" type="text/javascript" src="http://content.truecredit.com/sites/entry/assets/javascript/campaign.js"></script>
-
-
 
 
 
@@ -125,26 +155,26 @@ var dc_tile=0;
          
             <li>
             
-            <a href="http://www.truecredit.com/?fc_se=headerTab" name="/?fc_se=headerTab" onclick="nextpage=true">home</a></li>
+            <a href="/?fc_se=headerTab" name="/?fc_se=headerTab" onclick="nextpage=true">home</a></li>
          
             <li class="active">
             
-            <a href="http://www.truecredit.com/policy/privacy.jsp?fc_se=headerTab" name="/policy/privacy.jsp?fc_se=headerTab" onclick="nextpage=true">privacy</a></li>
+            <a href="/policy/privacy.jsp?fc_se=headerTab" name="/policy/privacy.jsp?fc_se=headerTab" onclick="nextpage=true">privacy</a></li>
          
             <li>
             <a href="http://www.transunion.com/personal-credit/credit-education.page" name="http://www.transunion.com/personal-credit/credit-education.page" target="_blank" onclick="return updateToGALink(this);">education</a></li>
          
             <li>
             
-            <a href="http://www.truecredit.com/help/top3Questions.jsp?fc_se=headerTab" name="/help/top3Questions.jsp?fc_se=headerTab" onclick="nextpage=true">help</a></li>
+            <a href="/help/top3Questions.jsp?fc_se=headerTab" name="/help/top3Questions.jsp?fc_se=headerTab" onclick="nextpage=true">help</a></li>
          
             <li>
             
-            <a href="https://www.truecredit.com/user/returnUser.jsp?fc_se=headerTab" name="/user/returnUser.jsp?fc_se=headerTab" onclick="nextpage=true">login</a></li>
+            <a href="/user/returnUser.jsp?fc_se=headerTab" name="/user/returnUser.jsp?fc_se=headerTab" onclick="nextpage=true">login</a></li>
          
       </ul>
       
-         <a href="http://www.truecredit.com/index.jsp" name="/index.jsp" onclick="nextpage=true"><img src="/images/tabs/TC_logo_en.gif" height="60" width="250" border="0" alt="TrueCredit, Credit Reports, TransUnion, Equifax, Experian" class="primary"></a>
+         <a href="/index.jsp" name="/index.jsp" onclick="nextpage=true"><img src="/images/tabs/TC_logo_en.gif" height="60" width="250" border="0" alt="TrueCredit, Credit Reports, TransUnion, Equifax, Experian" class="primary"></a>
       
    </div>
 
@@ -154,12 +184,12 @@ var dc_tile=0;
       
          
          <li class="active">
-         <a href="http://www.truecredit.com/policy/privacy.jsp" name="/policy/privacy.jsp" onclick="nextpage=true">Privacy</a></li>
+         <a href="/policy/privacy.jsp" name="/policy/privacy.jsp" onclick="nextpage=true">Privacy</a></li>
          
       
          
          <li>
-         <a href="http://www.truecredit.com/policy/security.jsp" name="/policy/security.jsp" onclick="nextpage=true">Security</a></li>
+         <a href="/policy/security.jsp" name="/policy/security.jsp" onclick="nextpage=true">Security</a></li>
          
       
 
@@ -210,7 +240,7 @@ var dc_tile=0;
    </p>
    <p>
       <strong>What Security Measures We Take </strong><br>
-      TransUnion Interactive takes precautions to secure your personal information. If and when we ask you to provide your personal information, we will do so through a Web page that uses the Secure Sockets Layer (SSL) protocol. This protocol provides security for your information by encrypting it as it travels from your computer to our computer. For security purposes we then move all of the personal information that we collect or obtain about you, including your credit report, to an environment on our proprietary network that has controls in place to limit access to and secure the data maintained therein. For more information about our security practices, please review our Security Policy at <a href="http://www.truecredit.com/policy/security.jsp" name="/policy/security.jsp1" onclick="nextpage=true">http://www.truecredit.com/policy/security.jsp</a>.
+      TransUnion Interactive takes precautions to secure your personal information. If and when we ask you to provide your personal information, we will do so through a Web page that uses the Secure Sockets Layer (SSL) protocol. This protocol provides security for your information by encrypting it as it travels from your computer to our computer. For security purposes we then move all of the personal information that we collect or obtain about you, including your credit report, to an environment on our proprietary network that has controls in place to limit access to and secure the data maintained therein. For more information about our security practices, please review our Security Policy at <a href="/policy/security.jsp" name="/policy/security.jsp1" onclick="nextpage=true">http://tui.transunion.com/policy/security.jsp</a>.
    </p><p>
       <strong>How We Use and Share Your Personal Information</strong><br>
       If you indicate to us that you are interested in receiving information regarding other products
@@ -244,10 +274,10 @@ var dc_tile=0;
    <strong>Information Regarding Your Subscription</strong><br>
    We may use information about your Credit Monitoring subscription, such as your usage patterns, to customize your web site and/or customer service experience. </p><p>
    <strong>Updating Your Personal Information and Email Preferences</strong><br>
-   You can correct or update at any time the personal information that you provided and that we maintain on you by accessing the TransUnion Interactive Web site and selecting "Account Preferences" from the Main Menu. You can also indicate your preference not to receive promotional email from this screen. TransUnion Interactive is not responsible for and cannot amend the information in your credit report, which is produced by one or more credit reporting agencies. If you believe that some of the information in your credit report is inaccurate, you must contact the applicable credit reporting agency directly. Information on how to contact the credit reporting agency will be contained in the credit report that you receive if you purchase. In addition, Information about how to contact the three major credit reporting agencies is available under "Disputing Your Credit Information" on our Web site at <a href="http://www.truecredit.com/help/handlingInaccuracies.jsp" name="/help/handlingInaccuracies.jsp" onclick="nextpage=true">http://www.truecredit.com/help/handlingInaccuracies.jsp</a>.
+   You can correct or update at any time the personal information that you provided and that we maintain on you by accessing the TransUnion Interactive Web site and selecting "Account Preferences" from the Main Menu. You can also indicate your preference not to receive promotional email from this screen. TransUnion Interactive is not responsible for and cannot amend the information in your credit report, which is produced by one or more credit reporting agencies. If you believe that some of the information in your credit report is inaccurate, you must contact the applicable credit reporting agency directly. Information on how to contact the credit reporting agency will be contained in the credit report that you receive if you purchase. In addition, Information about how to contact the three major credit reporting agencies is available under "Disputing Your Credit Information" on our Web site at <a href="/help/handlingInaccuracies.jsp" name="/help/handlingInaccuracies.jsp" onclick="nextpage=true">http://tui.transunion.com/help/handlingInaccuracies.jsp</a>.
    </p><p>
    <strong>TransUnion Newsletter</strong><br>
-   You may sign up for our free newsletter in a variety of ways. You may opt-in during the ordering process by leaving the opt-in box selected that states "YES, I want helpful tips and exclusive discounts from TransUnion right in my inbox. Sign me up for news and special offers from TransUnion and trusted partners. You may unsubscribe at any time. Please allow 48 hours to process. " You may also have opted in at the Account Preferences section of the site or when you visited or exited TransUnion.com, AnnualCreditReport.com or through alert or other operational emails you received as a member and proceeded to the Newsletter sign-up page with the same opt-in language. You can opt-out of receiving the email by responding to the newsletter and asking to be unsubscribed, or calling our customer service department and asking to be taken off the list. If you signed up for our newsletter by selecting the special offers opt-in box during the ordering process, you may unsubscribe through the above two processes, or you may go to truecredit.transunion.com  log-in as a member, click on the "Account Preferences" link, and de-select the special offers opt-in box.
+   You may sign up for our free newsletter in a variety of ways. You may opt-in during the ordering process by leaving the opt-in box selected that states "YES, I want helpful tips and exclusive discounts from TransUnion right in my inbox. Sign me up for news and special offers from TransUnion and trusted partners. You may unsubscribe at any time. Please allow 48 hours to process. " You may also have opted in at the Account Preferences section of the site or when you visited or exited TransUnion.com, AnnualCreditReport.com or through alert or other operational emails you received as a member and proceeded to the Newsletter sign-up page with the same opt-in language. You can opt-out of receiving the email by responding to the newsletter and asking to be unsubscribed, or calling our customer service department and asking to be taken off the list. If you signed up for our newsletter by selecting the special offers opt-in box during the ordering process, you may unsubscribe through the above two processes, or you may go to tui.transunion.com  log-in as a member, click on the "Account Preferences" link, and de-select the special offers opt-in box.
    </p><p>
    <strong>Notification of Changes to this Privacy Statement</strong><br>
      TransUnion Interactive may amend this Privacy Statement at any time, but will notify users in advance of any material change, by posting a notice of the change in a prominent position on the home page of the TransUnion Interactive Web site. If the amendment would permit us to share your personal information with third parties in a manner materially different than described in this Privacy Statement, unless required by law or court order or in order to safeguard the operations of our site or our customers, you will be given an opportunity to inform us that you do not consent to such sharing of your personal information.
@@ -260,7 +290,7 @@ var dc_tile=0;
    </div>
 
    <p>
-   If you would like at any time to review our then-current Privacy Statement, please visit <a href="http://www.truecredit.com/policy/privacy.jsp" name="/policy/privacy.jsp1" onclick="nextpage=true">http://www.truecredit.com/policy/privacy.jsp</a>.
+   If you would like at any time to review our then-current Privacy Statement, please visit <a href="/policy/privacy.jsp" name="/policy/privacy.jsp1" onclick="nextpage=true">http://tui.transunion.com/policy/privacy.jsp</a>.
    </p><p>
    <strong>The Use of Cookies</strong><br>
    TransUnion Interactive uses "cookies," which are pieces of information that a Web site transfers to your computer's hard disk for record keeping purposes, to facilitate your access to our products and services. TransUnion Interactive uses cookies in accordance with industry-standard protocols, and does not use cookies, either directly or in conjunction with other Web sites, to track your movement to Web sites other than TransUnion Interactive. If you would like more information about cookies, you can visit <a href="http://www.cookiecentral.com/n_cookie_faq.htm">http://www.cookiecentral.com/n_cookie_faq.htm</a>.
@@ -325,7 +355,7 @@ var dc_tile=0;
                
                   <tr>
                      <td><img src="/images/clear.gif" height="1" width="11" border="0" alt=""></td>
-                     <td width="111" class="text" style="font-size: 11px"><a href="http://www.transunion.com/personal-credit/credit-education.page" style="color: #006699;">To learn more about healthy credit management, visit the TransUnion Credit Education Center</a><br></td>
+                     <td width="111" class="text" style="font-size: 11px"><a href="http://www.transunion.com/personal-credit/credit-education.page" style="color: #006699;" target="_blank">To learn more about healthy credit management, visit the TransUnion Credit Education Center</a><br></td>
                      <td><img src="/images/clear.gif" height="1" width="5" border="0" alt=""></td>
                   </tr>
                   <tr><td colspan="3" style="font-size:12px">&nbsp;</td></tr>
@@ -359,37 +389,65 @@ var dc_tile=0;
 <ul class="footer">
    
       
-         <li><a href="http://www.truecredit.com/?fc_se=footerTab" name="/?fc_se=footerTab" onclick="nextpage=true">home</a></li>
+       <li>
+           
+                <a href="/?fc_se=footerTab" name="/?fc_se=footerTab" onclick="nextpage=true">home</a>
+           
+       </li>
       
       <li>|</li>
    
       
-         <li><a href="http://www.transunion.com/personal-credit/credit-education.page" name="http://www.transunion.com/personal-credit/credit-education.page1" onclick="return updateToGALink(this);">education</a></li>
+       <li>
+           
+                <a href="http://www.transunion.com/personal-credit/credit-education.page" name="http://www.transunion.com/personal-credit/credit-education.page1" target="_blank" onclick="return updateToGALink(this);">education</a>
+           
+       </li>
       
       <li>|</li>
    
       
-         <li><a href="http://www.truecredit.com/policy/privacy.jsp?fc_se=footerTab" name="/policy/privacy.jsp?fc_se=footerTab" onclick="nextpage=true">privacy</a></li>
+       <li>
+           
+                <a href="/policy/privacy.jsp?fc_se=footerTab" name="/policy/privacy.jsp?fc_se=footerTab" onclick="nextpage=true">privacy</a>
+           
+       </li>
       
       <li>|</li>
    
       
-         <li><a href="http://www.truecredit.com/help/top3Questions.jsp?fc_se=footerTab" name="/help/top3Questions.jsp?fc_se=footerTab" onclick="nextpage=true">help</a></li>
+       <li>
+           
+                <a href="/help/top3Questions.jsp?fc_se=footerTab" name="/help/top3Questions.jsp?fc_se=footerTab" onclick="nextpage=true">help</a>
+           
+       </li>
       
       <li>|</li>
    
       
-         <li><a href="https://www.truecredit.com/user/returnUser.jsp?fc_se=footerTab" name="/user/returnUser.jsp?fc_se=footerTab" onclick="nextpage=true">member login</a></li>
+       <li>
+           
+                <a href="/user/returnUser.jsp?fc_se=footerTab" name="/user/returnUser.jsp?fc_se=footerTab" onclick="nextpage=true">member login</a>
+           
+       </li>
       
       <li>|</li>
    
       
-         <li><a href="http://www.truecredit.com/policy/termsOfUse.jsp?fc_se=footerTab" name="/policy/termsOfUse.jsp?fc_se=footerTab" onclick="nextpage=true">terms of use</a></li>
+       <li>
+           
+                <a href="/policy/termsOfUse.jsp?fc_se=footerTab" name="/policy/termsOfUse.jsp?fc_se=footerTab" onclick="nextpage=true">terms of use</a>
+           
+       </li>
       
       <li>|</li>
    
       
-          <li><a href="https://www.transunion.com/corporate/aboutUs/aboutUs.page" name="https://www.transunion.com/corporate/aboutUs/aboutUs.page" target="_blank" onclick="return updateToGALink(this);">about</a></li>
+       <li>
+           
+                <a href="https://www.transunion.com/corporate/aboutUs/aboutUs.page" name="https://www.transunion.com/corporate/aboutUs/aboutUs.page" target="_blank" onclick="return updateToGALink(this);">about</a>
+           
+       </li>
       
       
    
@@ -397,7 +455,7 @@ var dc_tile=0;
 
 <p class="subFooter">
    This site is hosted and operated by TransUnion Interactive, Inc., a wholly owned subsidiary of TransUnion, LLC. <br>
-   © Copyright&nbsp;2011&nbsp;TransUnion Interactive. All Rights Reserved.
+   © Copyright&nbsp;2012&nbsp;TransUnion Interactive. All Rights Reserved.
    
 
       
@@ -410,20 +468,6 @@ var dc_tile=0;
 
 
    <div id="tracking"></div>
-
-
-<script type="text/javascript">
-   var _gaq = _gaq || [];
-   _gaq.push(['_setAccount', 'UA-2854562-5']);
-   _gaq.push(['_setDomainName', 'none']);
-   _gaq.push(['_setAllowLinker', true]);
-   _gaq.push(['_trackPageview', '/policy/privacy.jsp']);
-   (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-   })();
-</script>
 
 </div></div>
 
