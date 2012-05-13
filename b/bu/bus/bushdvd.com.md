@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bushdvd.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101115852id_/http%3A//www.bushdvd.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bushdvd.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513063840id_/http%3A//www.bushdvd.com/privacy.asp) for the most accurate reproduction.*
 
 # Movie Rental XXX - Rent XXX DVDs Online - Adult Videos for Rent
 
-[](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.bushdvd.com/seal_m "Validate TRUSTe privacy certification")
+[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.bushdvd.com/seal_m "Validate TRUSTe privacy certification")
 
 Effective Date: 09/12/2007 
 
