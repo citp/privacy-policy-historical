@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ugiftideas.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109154355id_/http%3A//www.ugiftideas.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ugiftideas.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513181656id_/http%3A//www.ugiftideas.com/privacy.php) for the most accurate reproduction.*
 
 # uGiftIdeas: Privacy Policy
 
@@ -44,7 +44,7 @@ uGiftIdeas reserves the right to change this privacy policy, and/or any part the
 
 **Conditions of Use**
 
-If you decide to visit uGiftIdeas website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20111109154355id_/http%3A//www.ugiftideas.com/terms.php). 
+If you decide to visit uGiftIdeas website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20120513181656id_/http%3A//www.ugiftideas.com/terms.php). 
 
 **Questions**
 
