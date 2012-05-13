@@ -1,0 +1,63 @@
+> *The following text is extracted and transformed from the webstatshq.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513162917id_/http%3A//www.retirement-living.com/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy
+
+Retirement-Living.com respects the privacy of its users. In this document we explain how we use information you supply us via the Retirement-Living.com Web site. This privacy policy may be modified in the future. If it is, a new policy will be posted on our Web sites and you will have the opportunity to modify your information on file with us as explained below.
+
+This Web site is the product of Guide to Retirement Living, a division of Greater Washington Publishing, Inc.
+
+## What Personal Information Do We Collect?
+
+**Visiting:** You are not required to provide personally identifiable information to visit the Retirement-Living.com site. We do collect usage data, ZIP codes and other information on all users, but it is not personally identifiable except as described below under the section IP addresses.
+
+**Registration, Service Requests and Web Forms:** You may be asked to provide personal information to use certain services on this site, which will be apparent from the forms we ask you to complete. When you request more information, use one of our other interactive services, or enter a contest, we may request specific information about you, including your name, age, address and phone number, as well as demographic and vehicle information. To use one of our other interactive services, or enter a contest, you must be 18 years of age or older and agree to the Terms and Conditions of the Web site.
+
+**Cookies:** Cookies are small text files that are placed on your computer’s hard drive by our computers (or servers) to identify your computer. Cookies are read only by the server that placed them there and are unable to execute any code or virus. We use cookies to recognize you when you visit our site, to personalize your experience and generally to serve you better. For example, if you enter your name, address or ZIP code on one of our forms, it may be stored in a cookie so you do not have to enter it again. Cookies also can tell us what advertising you have seen on our site, which allows us to offer you a more diverse selection of advertising information. Cookies also may compile data about our visitors that may be shared with other companies, such as an outside advertising company. However, no personally identifiable information stored in cookies will be shared with outside companies for any purpose without your permission. You can disable cookies or otherwise manage them through tools provided with your browser software and with third-party software packages. If you turn off cookies, many Retirement-Living.com features will not work as well or at all. IP addresses: Retirement-Living.com compiles IP addresses — the location of your computer on the Internet — for administrative and analytical purposes. Retirement-Living.com does not routinely collect any personally identifiable information through its compilation of your IP address or the location of your computer on the Internet. However, in cases of suspected abuse or service problems, we may use an IP address in conjunction with other personally identifiable information to enforce our terms of service and to protect or troubleshoot the service, the site, its users or others who may be affected. No personally identifiable information associated with IP addresses will be shared with third parties for marketing purposes without your permission.
+
+## How Do We Use the Information We Collect?
+
+**Site Interaction:** The information you provide on our site may be stored on our servers or, in some cases, in a cookie on your computer. This information will be used to compile aggregate data that is not personally identifiable and may be used internally or shared with third parties. This information may also be used to confirm and fulfill a request you are making, to follow up on that request and to communicate with you about the Retirement-Living.com service. The messages that Retirement-Living.com sends for these purposes may incidentally include promotional material or other content from Retirement-Living.com or its partners. In the case of these messages, we are not sharing your personally identifiable information with third parties, nor will we continue to send you promotional messages if you ask us not to, as described below in the Section entitled “Accessing, changing or deactivating information collected by Retirement-Living.com.”
+
+**Direct Promotion:** Using the contact information provided by registrants 18 years of age and older, including e-mail addresses, Retirement-Living.com, its affiliates, or third parties to whom Retirement-Living.com discloses such information in accordance with this privacy policy (including its partners or advertisers) may periodically send you promotional or informational messages. In any case where we might use your contact information for this purpose, you will be able to indicate at registration whether you wish to receive such promotional or informational messages. However, by providing us your personal contact information when you register or request specific services, you agree that Retirement-Living.com may contact you regarding account status, changes to this privacy policy or other terms of service, and to confirm, fulfill and follow up on your registration, service or information request.
+
+**Visitor Behavior:** Retirement-Living.com may perform statistical analyses of user behavior in order to measure interest in the various areas of our site, for development purposes, and to inform advertisers and partners about consumers who click on their advertising or other messages. In these analyses, we will disclose information to third parties only in aggregate form, except as specified below. We also may use personally identifiable information to improve your experience while you are visiting our site. This might include prefilling your personal information into Web forms so that you do not have to retype it or presenting you with editorial and advertising content that may be of interest.
+
+## With Whom Do We Share the Information We Collect?
+
+Retirement-Living.com will share personally identifiable information with third parties in the following cases:
+
+  1. With affiliates for whom we provide Web sites. If you entered the Retirement-Living.com Web site through a site maintained by one of these affiliates, then your personally identifiable information may be shared with that affiliate on the condition that the affiliate’s use of the information is consistent with this privacy policy.
+  2. As is necessary for third parties to provide information or perform services specifically requested by you. If through Retirement-Living.com you request additional information from an apartment community or property manager, we will share your information with those companies. Personally identifiable information that you have supplied may also be included in reports to these third parties. Once information is provided to these third parties, Retirement-Living.com is not responsible for the use of this information.
+  3. For direct marketing purposes, but only if you have authorized Retirement-Living.com to do so and only if you are 18 years of age or older. Although Retirement-Living.com will notify all third party direct marketers that the information provided to them is confidential, Retirement-Living.com does not and cannot control the use or disclosure of information by such marketers after the information is provided to them.
+  4. To perform analytical and other services as an agent of Retirement-Living.com. In some cases we may work with third parties that do analysis and development on our behalf. We may share your personally identifiable information with such a third party on the condition that the third party maintains the information as confidential and only uses the information to perform the services specified by Retirement-Living.com.
+  5. During the processing of transactions involving a credit card, we transmit your credit card number to the appropriate credit card company or bank. In addition, if customers do not pay us for products or services ordered, we may submit thier account information to a third party collection agency.
+
+
+
+## E-mail a Friend
+
+Retirement-Living.com sometimes offers you the ability to send e-mail to a friend or other third party. E-mail a Friend functionality is for informational purposes only and may not be used for any unlawful purpose. This includes all harassment or threats. Retirement-Living.com expressly reserves the right to release information you provide through use of this functionality (including but not limited to e-mail addresses, names and IP addresses) to third parties in any case of suspected abuse or other problems, in order to enforce our terms of service and to protect or troubleshoot the service, the site, its users or others who may be affected. Information collected under the “e-mail a friend” functionality is otherwise subject to the same limitations of use, access, security and disclosure described elsewhere in this privacy policy.
+
+## How do we handle changes to your information or to this policy?
+
+**Notification of changes:** Any changes to this policy will be posted on our Web site in this location. If those changes affect how we use your personally identifiable information, we will contact you at the e-mail address in our records to notify you of the change before it takes effect in regard to your information. You can then either agree to the changes, modify your personally identifiable information or deactivate your user record.
+
+**Accessing, changing or deactivating information collected by Retirement-Living.com:** If you wish to access, verify the accuracy of, change or deactivate your personal information on file with Retirement-Living.com; change your permissions regarding use of personally identifiable information for direct promotion purposes by Retirement-Living.com or its partners (including affiliates and third parties identified in this policy), please contact us by emailing [sgurney@gwpi.net](mailto:sgurney@gwpi.net) or calling us at 703-992-1100.
+
+**Deactivation of user information:** If you deactivate your user information, your account information will no longer be used by Retirement-Living.com or made available to any third parties except in an aggregate form or as required by law.
+
+## Security
+
+We have in place physical, electronic and managerial procedures to protect the information we collect online. However, as effective as these measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that the information you supply will not be intercepted while being transmitted to us over the internet.
+
+## Does this privacy statement extend to links to other sites?
+
+This site contains links to other sites. While we encourage our business partners to adopt privacy policies that build users’ trust and confidence in the Internet, we are not responsible for the privacy practices or the content of Web sites linked to any of our sites. We may allow third parties to sponsor promotions and sweepstakes through our site. Use of any personal information provided to such a third party will be governed by that party’s privacy policy.
+
+## Collection of information by third parties
+
+Retirement-Living.commay use a third-party advertising company to serve ads when you visit our site. This company may use information (not including your name, address, e-mail address or telephone number) about your visits to our and other Web sites in order to provide advertisements about goods and services of interest to you. In addition, we may share Web site usage information about visitors to our sites with this company for the purpose of managing and targeting advertisements on our site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our site through the use of pixel tags (also called clear gifs or single-pixel gifs). In the course of serving advertisements to this site, our third-party advertising company may place or recognize a unique “cookie” on your computer.
+
+If you have any questions about this privacy statement, please e-mail us at [sgurney@gwpi.net](mailto:sgurney@gwpi.net)
+
+Effective Date: March 28, 2005
