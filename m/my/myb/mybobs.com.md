@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybobs.com privacy policy that was archived on 2011-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111025234416id_/http%3A//www.mybobs.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybobs.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513100654id_/http%3A//www.mybobs.com/about/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
