@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vegasinc.com privacy policy that was archived on 2011-10-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111006170151id_/http%3A//www.vegasinc.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vegasinc.com privacy policy that was archived on 2012-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120513064614id_/http%3A//www.vegasinc.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
     
@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="http://asset.vegasinc.com/assets/css/sun-print.css" type="text/css" id="printCss" media="print">
     
     <script type="text/javascript">
-      var vegasIncAdOrd = Math.random()*10000000000000000;      
+        var vegasIncAdOrd = Math.random()*10000000000000000;
     </script>
     
     <script language="JavaScript" type="text/javascript">
@@ -25,9 +25,7 @@
     
     
     
-    
-    <script language="javascript" type="text/javascript" src="http://asset.vegasinc.com/assets/js/mt1311-core.js"></script>
-    <script language="javascript" type="text/javascript" src="http://asset.vegasinc.com/assets/js/mt1311-utils.js"></script>
+    <script language="javascript" type="text/javascript" src="http://asset.vegasinc.com/assets/js/mootools-suite-1.3.2-compressed-20111209.js"></script>
     <script language="javascript" type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAA8L3JFDSZBbRKiOI0oC2hURQ76jIbcG_lJjmaPhfMbLI5tEWvABRborWeQmxtOOd3YJzakYNqhBoeFQ"></script>
     <script language="javascript" type="text/javascript" src="http://asset.vegasinc.com/assets/js/scripts.js"></script>
     
@@ -44,39 +42,39 @@
         window.addEvent('domready', function() {
             LoadAds();
         });
-        
+    
         window.addEvent('domready', function() {
             if($('loginlink')){
             $('loginlink').set('href', 'javascript:void(0);');
             }
         });
-        
+    
     </script>
     <script type="text/javascript">
-      WebFontConfig = {
-        google: { families: [ 'Droid Sans:bold,regular', 'Droid Serif:bold,bolditalic,italic,regular' ] }
-      };
-      (function() {
-        var wf = document.createElement('script');
-        wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
-            '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
-        wf.type = 'text/javascript';
-        wf.async = 'true';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(wf, s);
-      })();
-      (function() {
-          var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-          po.src = 'https://apis.google.com/js/plusone.js';
-          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-        })();  
+        WebFontConfig = {
+            google: { families: [ 'Droid Sans:bold,regular', 'Droid Serif:bold,bolditalic,italic,regular' ] }
+        };
+        (function() {
+            var wf = document.createElement('script');
+            wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+                '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+            wf.type = 'text/javascript';
+            wf.async = 'true';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(wf, s);
+        })();
+        (function() {
+            var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+            po.src = 'https://apis.google.com/js/plusone.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+        })();
     </script>
     <!--[if lt IE 7]>
-             <script language="javascript" type="text/javascript" src="http://asset.vegasinc.com/assets/js/DD_belatedPNG.js"></script>
-             <script> DD_belatedPNG.fix('img, .png_bg'); //fix any <img> or .png_bg background-images </script>
-         <![endif]-->
+        <script language="javascript" type="text/javascript" src="http://asset.vegasinc.com/assets/js/DD_belatedPNG.js"></script>
+        <script> DD_belatedPNG.fix('img, .png_bg'); //fix any <img> or .png_bg background-images </script>
+    <![endif]-->
 
-         
+
 
     
     <!-- Yahoo Key -->
@@ -106,8 +104,8 @@
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
         })();
     }
-</script>
-</head>
+    </script>
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
 
 
 <body>
@@ -118,29 +116,32 @@
         window.fbAsyncInit = function() {
             FB.init({
                 appId: '199953030039639',
+                channelUrl: '//www.vegasinc.com/channel.html',
                 status: true,
                 cookie: true,
-                xfbml: true});
+                xfbml: true,
+                oauth: true});
         };
-        (function() {
-            var e = document.createElement('script');
-            e.async = true;
-            e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
-            $('fb-root').appendChild(e);
-        }());
-    </script>
+        // Load the SDK Asynchronously
+        (function(d){
+            var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+            js = d.createElement('script'); js.id = id; js.async = true;
+            js.src = "//connect.facebook.net/en_US/all.js";
+            d.getElementsByTagName('head')[0].appendChild(js);
+        }(document));
+   </script>
 
     <div id="container">
         
         
-  <div id="header">
-    <div id="masthead" class="container_12">
+    <div id="header">
+        <div id="masthead" class="container_12">
             <div class="profile-utils"> 
             <a href="/accounts/login/" id="loginlink" title="Log in" onclick="$('loginoptions').toggle();$('loginlink').toggleClass('active');">Log in</a>
-               
+            
                 
                 
-               <div id="loginoptions" style="display: none;">
+                <div id="loginoptions" style="display: none;">
                     <div id="normal-wrapper">
                         <h3>VegasInc.com Account</h3>
                         
@@ -168,18 +169,15 @@
                         <li><strong>Trusted Commenting:</strong> Facebook connected users automatically become trusted commenters.</li>
                         
                         </ul>
-                        <p id="fbconnector"><fb:login-button onlogin="facebook_onlogin();" size="large" perms="user_checkins">Connect with Facebook</fb:login-button></p>
+                        <p id="fbconnector"><fb:login-button onlogin="facebook_onlogin();" size="large" scope="user_checkins">Connect with Facebook</fb:login-button></p>
 
                     </div>
                 </div>
                 
-                
+            
             </div>
-           
 
         
-
-
             <h6 id="logo">
                 <a href="/" class="ir png_bg vi_lg_logo">Vegas Inc</a>
                  
@@ -196,18 +194,17 @@
         
         <div id="nav-wrapper" class="grid_12 alpha omega">
             <ul id="nav" class="png_bg">
-              <li class="png_bg"><a class="png_bg" href="/news/business/">Latest News</a></li>
-              <li class="png_bg"><a class="png_bg" href="/news/gaming/">Gaming</a></li>
-              <li class="png_bg"><a class="png_bg" href="/news/tourism/">Tourism</a></li>
-              <li class="png_bg"><a class="png_bg" href="/news/real-estate/">Real Estate</a></li>
-              <li class="png_bg"><a class="png_bg" href="/news/legal/">Legal</a></li>
-              <li class="png_bg"><a class="png_bg" href="/news/opinion/">Opinion</a></li>
-              <li class="png_bg"><a class="png_bg" href="/photos/galleries/">Photos</a></li>
-              <li class="png_bg"><a class="png_bg" href="/news/business/lists/">Lists</a></li>
-              <li class="png_bg"><a class="png_bg" href="/news/magazine/">Latest Issue</a></li>
-              <li class="png_bg"><a class="png_bg" href="http://www.lasvegassun.com">Vegas News</a></li>
+                <li class="png_bg"><a class="png_bg" href="/news/business/">Latest News</a></li>
+                <li class="png_bg"><a class="png_bg" href="/news/gaming/">Gaming</a></li>
+                <li class="png_bg"><a class="png_bg" href="/news/tourism/">Tourism</a></li>
+                <li class="png_bg"><a class="png_bg" href="/news/real-estate/">Real Estate</a></li>
+                <li class="png_bg"><a class="png_bg" href="/news/legal/">Legal</a></li>
+                <li class="png_bg"><a class="png_bg" href="/news/opinion/">Opinion</a></li>
+                <li class="png_bg"><a class="png_bg" href="/photos/galleries/">Photos</a></li>
+                <li class="png_bg"><a class="png_bg" href="/news/business/lists/">Lists</a></li>
+                <li class="png_bg"><a class="png_bg" href="/news/magazine/">Latest Issue</a></li>
+                <li class="png_bg"><a class="png_bg" href="http://www.lasvegassun.com">Vegas News</a></li>
             </ul>
-
         </div> <!--// END #mastermenu -->
     </div><!--// END #masthead .condensed -->
     
@@ -218,12 +215,13 @@
         
         
     <div id="ad-leaderboard">
-        <!-- begin ad tag and why is var ord disappearing? -->
+        <!-- begin ad tag -->
         <script type="text/javascript">
             //<![CDATA[
             displayAd('Leaderboard');
             //]]>
         </script>
+        <noscript><a href="http://ad.doubleclick.net/jump/gmg.vegasinc/latest-news/story;sz=728x90;tile=1;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/gmg.vegasinc/latest-news/story;sz=728x90;tile=1;ord=123456789?" border="0" alt="" /></a></noscript>
         <!-- End ad tag -->
     </div>
 
@@ -391,6 +389,7 @@ If you ever have any questions about our privacy policy, please contact us. We r
             displayAd('BigBlockOne');
             //]]>
             </script>
+            <noscript><a href="http://ad.doubleclick.net/jump/gmg.vegasinc/latest-news/story;sz=300x250;tile=3;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/gmg.vegasinc/latest-news/story;sz=300x250;tile=3;ord=123456789?" border="0" alt="" /></a></noscript>
             <!-- End ad tag -->
         </div>
         
@@ -416,25 +415,15 @@ If you ever have any questions about our privacy policy, please contact us. We r
             
                 <ol class="MostReadList">
                 
-                    <li class="odd"><a href="http://www.lasvegassun.com/news/2011/oct/05/harry-reid-sees-millionaire-tax-way-pay-jobs-bill/">Harry Reid sees millionaire tax as way to pay for jobs&nbsp;bill</a></li>
+                    <li class="odd"><a href="http://www.lasvegassun.com/news/2012/may/12/inventor-pitches-cigarette-butt-collector-las-vega/">Inventor pitches cigarette butt collector to Las&nbsp;Vegas</a></li>
                 
-                    <li class="even"><a href="http://www.lasvegassun.com/news/2011/oct/05/new-las-vegas-firefighter-contract-save-4-million/">Firefighters forgo COLA again, make $4 million in&nbsp;concessions</a></li>
+                    <li class="even"><a href="http://www.lasvegassun.com/news/2012/may/12/mothers-lv-stars-reflect-their-famous-children/">When they were young: Mothers of L.V. stars reflect on their famous&nbsp;children</a></li>
                 
-                    <li class="odd"><a href="/news/2011/oct/05/hooters-casino-wins-victories-legal-battle-against/">Hooters casino wins victories in legal battle against&nbsp;creditor</a></li>
+                    <li class="odd"><a href="http://www.lasvegassun.com/news/2012/may/12/population-surges-first-filipino-american-organiza/">As population surges, first Filipino-American organization launched in&nbsp;Nevada </a></li>
                 
-                    <li class="even"><a href="http://www.lasvegassun.com/news/2011/oct/06/finally-99-percent-has-had-enough/">Coolican: Finally, the 99 percent has had&nbsp;enough</a></li>
+                    <li class="even"><a href="http://www.lasvegassun.com/news/2012/may/12/uncorkd-elevates-las-vegas-taste/">Uncork’d elevates Las Vegas’&nbsp;taste</a></li>
                 
-                    <li class="odd"><a href="/news/2011/oct/06/mgm-resorts-pinning-growth-asia-emerging-technolog/">MGM Resorts pinning growth on Asia, emerging&nbsp;technology</a></li>
-                
-                    <li class="even"><a href="http://www.lasvegassun.com/news/2011/oct/05/apple-says-company-co-founder-steve-jobs-has-died/">Apple says company co-founder Steve Jobs has&nbsp;died</a></li>
-                
-                    <li class="odd"><a href="http://www.lasvegassun.com/news/2011/oct/06/after-snubbing-pawn-stars-charity-gets-bigger-offe/">After snubbing ‘Pawn Stars,’ charity gets bigger offers for ‘Godfather’&nbsp;screenplay</a></li>
-                
-                    <li class="even"><a href="/news/2011/oct/05/g2e-panelists-tackle-65-blackjack/">G2E panelists tackle 6:5 blackjack&nbsp;payout</a></li>
-                
-                    <li class="odd"><a href="http://www.lasvegassun.com/news/2011/oct/06/follow-rules-moped-drivers-or-metro-will-ticket-yo/">Follow the rules, moped drivers, or Metro will ticket&nbsp;you</a></li>
-                
-                    <li class="even"><a href="http://www.lasvegassun.com/news/2011/oct/05/metro-looking-burglars-hitting-southwest-area-home/">Metro looking for burglars hitting southwest area&nbsp;homes</a></li>
+                    <li class="odd"><a href="http://www.lasvegassun.com/news/2012/may/12/breaking-anthony-bennett-chooses-unlv/">Addition of Bennett puts UNLV firmly in national spotlight next&nbsp;season</a></li>
                  
                 </ol>
                 <p class="gotolink floatRight"><a href="/mostpopular/">Complete Listing »</a></p>
@@ -446,35 +435,19 @@ If you ever have any questions about our privacy policy, please contact us. We r
                 
                     
                     
-                    <li class=" odd"><a href="/news/2011/oct/05/sandoval-pressing-florida-style-reforms/">Sandoval pressing on with Florida-style reforms (8&nbsp;comments)</a></li>
+                    <li class=" odd"><a href="/news/2012/may/11/foreclosures-continue-hold-down-las-vegas-home-pri/">Foreclosures continue to hold down Las Vegas home prices (11&nbsp;comments)</a></li>
                 
                     
                     
-                    <li class=" even"><a href="/news/2011/oct/05/g2e-panelists-tackle-65-blackjack/">G2E panelists tackle 6:5 blackjack payout (4&nbsp;comments)</a></li>
+                    <li class=" even"><a href="/news/2012/may/11/what-does-record-low-mortgage-rate-mean-las-vegas-/">What does record-low mortgage rate mean for Las Vegas home buyers? Here's an example (9&nbsp;comments)</a></li>
                 
                     
                     
-                    <li class=" odd"><a href="/news/2011/oct/05/supreme-court-denies-las-vegas-sands-effort-get-do/">Supreme Court denies Las Vegas Sands effort to get documents from former exec (3&nbsp;comments)</a></li>
+                    <li class=" odd"><a href="/news/2012/may/11/riviera-reports-loss-4-million-during-1st-quarter/">Riviera reports loss of $4 million during 1st quarter (3&nbsp;comments)</a></li>
                 
                     
                     
-                    <li class=" even"><a href="/news/2011/oct/06/mgm-resorts-pinning-growth-asia-emerging-technolog/">MGM Resorts pinning growth on Asia, emerging technology (3&nbsp;comments)</a></li>
-                
-                    
-                    
-                    <li class=" odd"><a href="/news/2011/oct/05/mccarran-taps-local-talent-tsa-explainers/">Velotta: Time for McCarran to tap new celebrities for TSA explainers? (4&nbsp;comments)</a></li>
-                
-                    
-                    
-                    <li class=" even"><a href="/news/2011/oct/05/women-casino-execs-say-diversification-key/">Women gaming executives say casino amenities are key (2&nbsp;comments)</a></li>
-                
-                    
-                    
-                    <li class=" odd"><a href="/news/2011/oct/04/job-seeker-its-worst-ive-ever-seen/">Job seeker: ‘It’s the worst I’ve ever seen’ (36&nbsp;comments)</a></li>
-                
-                    
-                    
-                    <li class=" even"><a href="/news/2011/oct/05/capital-markets-casino-projects-starting-rebound/">Capital markets for casino projects starting to rebound (3&nbsp;comments)</a></li>
+                    <li class=" even"><a href="/news/2012/may/09/las-vegas-monorail-poised-emerge-bankruptcy/">Las Vegas Monorail poised to emerge from bankruptcy (9&nbsp;comments)</a></li>
                  
                 </ol>
                 <p class="gotolink floatRight"><a href="/mostpopular/">Complete Listing »</a></p>
@@ -485,25 +458,15 @@ If you ever have any questions about our privacy policy, please contact us. We r
                 
                 <ol class="MostReadList">
                 
-                    <li class=" odd"><a href="/news/2011/sep/14/station-casinos-trying-win-back-gamblers/">Station Casinos trying to win back gamblers, revamps Boarding Pass program</a></li>
+                    <li class=" odd"><a href="/news/2012/may/01/water-park-projects-henderson-summerlin-remain-tra/">Water park projects in Henderson, Summerlin remain on track, developers say</a></li>
                 
-                    <li class=" even"><a href="/news/2011/sep/19/fighting-good-fight/">Nevada AG puts Bank of America on notice over foreclosures</a></li>
+                    <li class=" even"><a href="/news/2012/apr/19/citycenter-called-financial-black-hole-lawsuit-ove/">CityCenter called financial ‘black hole’ in lawsuit over stock losses</a></li>
                 
-                    <li class=" odd"><a href="/news/2011/sep/27/las-vegas-home-prices-dip-new-recessionary-low/">Las Vegas home prices dip to new recessionary low</a></li>
+                    <li class=" odd"><a href="/news/2012/apr/26/woman-wins-15000-sports-car-slot-machine-cosmopoli/">Woman wins $150,000 sports car on slot machine at Cosmopolitan in Las Vegas</a></li>
                 
-                    <li class=" even"><a href="/news/2011/sep/15/sahara-owners-step-redevelopment-planning-after-cl/">Sahara owners step up redevelopment planning after closure</a></li>
+                    <li class=" even"><a href="/news/2012/apr/23/will-15-billion-union-village-health-care-complex-/">Will the $1.5 billion Union Village health care complex become a reality?</a></li>
                 
-                    <li class=" odd"><a href="/news/2011/sep/22/gaming-commission-approves-mobile-gambling-hotel-r/">Gaming Commission OKs mobile gambling in hotel rooms</a></li>
-                
-                    <li class=" even"><a href="/news/2011/sep/23/jimmy-buffetts-margaritaville-casino-open-oct-1-fl/">Jimmy Buffett's Margaritaville casino opens Oct. 1 at the Flamingo</a></li>
-                
-                    <li class=" odd"><a href="/news/2011/sep/19/all-roads-lead-china/">Relationship between Las Vegas, China runs deep</a></li>
-                
-                    <li class=" even"><a href="/news/2011/sep/26/macau-good-and-bad-las-vegas/">Macau: Good and bad for Las Vegas</a></li>
-                
-                    <li class=" odd"><a href="/news/2011/sep/28/new-dice-game-rolls-town/">New dice game rolls into town</a></li>
-                
-                    <li class=" even"><a href="/news/2011/sep/12/frys-electronics-buys-boca-fashion-village-site-la/">Fry’s Electronics buys Boca Fashion Village site in Las Vegas</a></li>
+                    <li class=" odd"><a href="/news/2012/apr/24/bally-technologies-ceo-talks-hot-games-internet-po/">Bally Technologies CEO talks hot games, Internet poker, expansion plans and new jobs</a></li>
                 
                 </ol>
                 <p class="gotolink floatRight"><a href="/mostpopular/">Complete Listing »</a></p>
@@ -513,7 +476,7 @@ If you ever have any questions about our privacy policy, please contact us. We r
               <div id="hp-facebook">
                   <div id="fb-activity"></div>
                   <div class="fbWrap">
-                  <fb:activity width="320" height="300" header="false" colorscheme="light" font="lucida grande" border_color="#ffffff"></fb:activity>
+                  <fb:activity width="320" height="175" header="false" colorscheme="light" font="lucida grande" border_color="#ffffff"></fb:activity>
                       <p class="gotolink floatRight"><a href="/facebook-activity/">More Facebook Activity »</a></p>
                   </div>
               </div>
@@ -559,14 +522,14 @@ If you ever have any questions about our privacy policy, please contact us. We r
 
 <h4 class="sectionHeader"><a href="/news/magazine/">Latest Issue</a></h4>
 
-<p><a href="/news/magazine/" title="This week's magazine"><img src="http://photo.vegasinc.com/media/img/photos/2011/09/30/1003_VI_cover2_r120x154.jpg?b4aaef01241b40dc4d4d5f3cd49cb8d496958595" alt="VEGAS INC Current Issue" class="cover" width="120" height="154"></a></p>
+<p><a href="/news/magazine/" title="This week's magazine"><img src="http://photo.vegasinc.com/media/img/photos/2012/05/06/scaled.vi_cov_r120x154.jpg?b4aaef01241b40dc4d4d5f3cd49cb8d496958595" alt="VEGAS INC Current Issue" class="cover" width="120" height="154"></a></p>
 
 <p class="gotolink"><a href="/magazine/">Digital Edition »</a></p>
 
 
 </div>
 
-<div class="clearfix"></div>     
+<div class="clearfix"></div>
         <div id="twenty_questions">
   <h4 class="sectionHeader"><a href="/20-answers-questionnaire/">20 Answers</a></h4>
   <p>Tell us what you think.</p>
@@ -575,8 +538,8 @@ If you ever have any questions about our privacy policy, please contact us. We r
 
 <div id="survey_new">
     <h4 class="sectionHeader">Answer This!</h4>
-    <p>Has the "What Happens Here, Stays Here" campaign hurt Las Vegas' image?</p>
-    <p class="gotolink"><a href="/surveys/2011/answer-this-27/">Vote now »</a></p>
+    <p>Is Las Vegas' monorail a worthwhile endeavour?</p>
+    <p class="gotolink"><a href="/surveys/2012/answer_this_50/">Vote now »</a></p>
 </div>
 
    </div>
@@ -598,14 +561,10 @@ If you ever have any questions about our privacy policy, please contact us. We r
 
 
 <div class="colB-module">
-<h4 class="sectionHeader"><a href="/healthcare/">HEALTH CARE HEADLINERS: Special Publication</a></h4>
-<p><strong><a href="/healthcare/">Nominations now being accepted »</a></strong></p>
+
 </div>
 <div class="clearfix"></div>
 
-        
-        
-        
         
         
         
@@ -621,87 +580,91 @@ If you ever have any questions about our privacy policy, please contact us. We r
             
             <div id="footer">
                 <div id="footercontainer" class="container_12">
-  <div class="grid_3">
-    <h6 id="footer-logo"><a class="ir png_bg" href="/">Vegas Inc.</a></h6>
-    <p>© <a href="/about/">VEGAS INC</a>, 2011, All Rights Reserved.</p>
-  </div>
-  <div class="grid_2">
-	  <ul>
-  		<li><a href="/about/">About</a></li>
-  		<li><a href="/contact/feedback/">Contact us</a></li>
-  		<li><a href="/advertising/">Advertise</a></li>
-  		<li><a href="/about/useragreement/">Reader agreement</a></li>
-  		<li><a href="/privacy-policy/">Privacy Policy</a></li>
-  		<li><a href="/subscribe/">Subscribe</a></li>
-  	</ul>
-  </div>
-  <div class="grid_2">
-	  <ul>
-  		<li><span class="twitter icon png_bg"></span><a href="http://www.twitter.com/vegasinc">Twitter</a></li>
-  		<li><span class="facebook icon png_bg"></span><a href="http://www.facebook.com/vegasinc">Facebook</a></li>
-  		<li><span class="linkedin icon png_bg"></span><a href="http://www.linkedin.com/company/vegas-inc">LinkedIn</a></li>
-  		<li><span class="email icon png_bg"></span><a href="http://pages.exacttarget.com/page.aspx?QS=773ed3059447707df3ed381f9875c43fb63cd8e3978c804e8f68b297a99b9a50">Email updates</a></li>
-  		
-  	</ul>
-  </div>
-  <div class="grid_3">
-	  <ul>
-	    <li><a href="http://www.gmgvegas.com/">Greenspun Media Group</a></li>
-	    <li><a href="http://www.lasvegassun.com/">Las Vegas Sun</a></li>
-  		<li><a href="http://www.lasvegasweekly.com/">Las Vegas Weekly</a></li>
-  		<li><a href="http://www.lasvegasmagazine.com/">Las Vegas Magazine</a></li>
-  		<li><a href="http://www.vegasdeluxe.com/">Vegas Deluxe</a></li>
-  		<li><a href="http://www.vegasmagazine.com/">Vegas Magazine</a></li>
-  	</ul>
-  </div>
-  <div class="grid_2">
-	  <ul>
-	    <li><a href="http://www.vegas.com">Vegas.com</a></li>
-			<li><a href="http://www.lasvegas.com/">LasVegas.com</a></li>
-			<li><a href="http://www.vegas.com/shows/">Las Vegas shows</a></li>
-			<li><a href="http://www.mexico.com">Mexico</a></li>
-			<li><a href="http://www.mexico.com/mexico-vacations/cancun-travel/">Cancún</a></li>
-			<li><a href="http://www.mexico.com/mexico-vacations/los-cabos-travel/">Los Cabos</a></li>
-  	</ul>
-  </div>
-  <div class="clearfix"></div>
+    <div class="grid_3">
+        <h6 id="footer-logo"><a class="ir png_bg" href="/">Vegas Inc.</a></h6>
+        <p>© <a href="/about/">VEGAS INC</a>, 2012, All Rights Reserved.</p>
+    </div>
+    <div class="grid_2">
+        <ul>
+            <li><a href="/about/">About</a></li>
+            <li><a href="/contact/feedback/">Contact us</a></li>
+            <li><a href="/advertising/">Advertise</a></li>
+            <li><a href="/about/useragreement/">Reader agreement</a></li>
+            <li><a href="/privacy-policy/">Privacy Policy</a></li>
+            <li><a href="/subscribe/">Subscribe</a></li>
+        </ul>
+    </div>
+    <div class="grid_2">
+        <ul>
+            <li><span class="twitter icon png_bg"></span><a href="http://www.twitter.com/vegasinc">Twitter</a></li>
+            <li><span class="facebook icon png_bg"></span><a href="http://www.facebook.com/vegasinc">Facebook</a></li>
+            <li><span class="linkedin icon png_bg"></span><a href="http://www.linkedin.com/company/vegas-inc">LinkedIn</a></li>
+            <li><span class="email icon png_bg"></span><a href="http://pages.exacttarget.com/page.aspx?QS=773ed3059447707df3ed381f9875c43fb63cd8e3978c804e8f68b297a99b9a50">Email updates</a></li>
+            
+        </ul>
+    </div>
+    <div class="grid_3">
+        <ul>
+            <li><a href="http://www.gmgvegas.com/">Greenspun Media Group</a></li>
+            <li><a href="http://www.lasvegassun.com/">Las Vegas Sun</a></li>
+            <li><a href="http://www.lasvegasweekly.com/">Las Vegas Weekly</a></li>
+            <li><a href="http://www.lasvegasmagazine.com/">Las Vegas Magazine</a></li>
+            <li><a href="http://www.vegasdeluxe.com/">Vegas Deluxe</a></li>
+            <li><a href="http://www.vegasmagazine.com/">Vegas Magazine</a></li>
+        </ul>
+    </div>
+    <div class="grid_2">
+        <ul>
+            <li><a href="http://www.vegas.com">Vegas.com</a></li>
+            <li><a href="http://www.lasvegas.com/">LasVegas.com</a></li>
+            <li><a href="http://www.vegas.com/shows/">Las Vegas shows</a></li>
+        </ul>
+    </div>
+    <div class="clearfix"></div>
 </div> <!-- close footercontainer -->
             </div>
             
             
+<div id="bottom-bar-container">
+    <div id="bottom-bar-inner">
+        <script type="text/javascript">
+            //<![CDATA[
+            //displayAd('BottomPencil');
+            //setTimeout('showStoryAd(vegasIncAdTag);', 1000);
+            //]]>
+        </script>
+    </div>
+</div>
+
         </div> <!-- close main-container -->
     </div> <!-- close container -->    
     
-<!--[if lt IE 7]>
-         <script> DD_belatedPNG.fix('img, .png_bg'); //fix any <img> or .png_bg background-images </script>
-     <![endif]-->
+    <!--[if lt IE 7]>
+        <script> DD_belatedPNG.fix('img, .png_bg'); //fix any <img> or .png_bg background-images </script>
+    <![endif]-->
+    
 
-
-
- 
-
-<script type="text/javascript">
-if (! _sf_async_config){
-  var _sf_async_config={uid:17813,domain:"vegasinc.com"};
-}
-_sf_async_config.sections = vegasIncAdTag;
-(function(){
-  function loadChartbeat() {
-    window._sf_endpt=(new Date()).getTime();
-    var e = document.createElement('script');
-    e.setAttribute('language', 'javascript');
-    e.setAttribute('type', 'text/javascript');
-    e.setAttribute('src',
-       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
-       "js/chartbeat.js");
-    document.body.appendChild(e);
-  }
-  var oldonload = window.onload;
-  window.onload = (typeof window.onload != 'function') ?
-     loadChartbeat : function() { oldonload(); loadChartbeat(); };
-})();
-
-</script>
+    <script type="text/javascript">
+        if (! _sf_async_config){
+          var _sf_async_config={uid:17813,domain:"vegasinc.com"};
+        }
+        _sf_async_config.sections = vegasIncAdTag;
+        (function(){
+            function loadChartbeat() {
+                window._sf_endpt=(new Date()).getTime();
+                var e = document.createElement('script');
+                e.setAttribute('language', 'javascript');
+                e.setAttribute('type', 'text/javascript');
+                e.setAttribute('src',
+                   (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+                   "js/chartbeat.js");
+                document.body.appendChild(e);
+            }
+            var oldonload = window.onload;
+            window.onload = (typeof window.onload != 'function') ?
+                loadChartbeat : function() { oldonload(); loadChartbeat(); };
+        })();
+    </script>
 
 
 <script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
