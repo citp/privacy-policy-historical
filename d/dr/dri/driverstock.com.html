@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the driverstock.com privacy policy that was archived on 2011-11-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111125134114id_/http%3A//www.driverstock.com/privacypolicy/index.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the driverstock.com privacy policy that was archived on 2012-05-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120514002034id_/http%3A//www.driverstock.com/privacypolicy/index.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 	<title>Privacy Policy</title>
@@ -72,12 +72,41 @@
 
 		  <table width="946" border="0" cellspacing="0" cellpadding="0">
 		  <tbody><tr valign="top">
+			<!--sleftcol-->
 			<td width="205" class="tdm">
-                <!--LEFT COLUMN-->
-
-                	      <div style="padding: 0px 0px 10px 14px;">
+                <script type="text/javascript">
+function add_favorite(a) {
+  title=document.title;
+  url=document.location;
+  try {
+    // Internet Explorer
+    window.external.AddFavorite(url, title);
+  }
+  catch (e) {
+    try {
+      // Mozilla
+      window.sidebar.addPanel(title, url, "");
+    }
+    catch (e) {
+      // Opera
+      if (typeof(opera)=="object") {
+        a.rel="sidebar";
+        a.title=title;
+        a.url=url;
+        return true;
+      }
+      else {
+        // Unknown
+        alert('Press Ctrl-D to add to bookmarks');
+      }
+    }
+  }
+  return false;
+}
+</script>
+	      <div style="padding: 0px 0px 10px 14px;">
               <img src="/i/fav.gif" width="16" height="16" alt="Bookmark" align="absmiddle" border="0" hspace="3">
-              <a href="javascript:window.external.AddFavorite(parent.location,document.title)"><b>Bookmark this page</b></a>
+              <a href="#" onclick="return add_favorite(this);"><b>Bookmark this page</b></a>
               </div>
 
                 			  <table width="100%" border="0" cellspacing="0" cellpadding="4">
@@ -169,6 +198,7 @@
                 
 
 			</td>
+			<!--fleftcol-->
 		    <td style="padding:0 10px 0 10px">
 
                               <!--CENTER-->
