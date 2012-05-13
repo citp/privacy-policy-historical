@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newport.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113101613id_/http%3A//www.newport.com/content/default.aspx%3Fid%3D848) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newport.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513141510id_/http%3A//www.newport.com/cms/company/privacy-policy) for the most accurate reproduction.*
 
-# Newport Corporation | Privacy Policy
+# Privacy Policy
 
 **Privacy Policy / Information Submitted and Collected / Use of Information**
 
@@ -57,6 +57,10 @@ We do not engage in list selling or "cookie swapping" with other companies.
 
 This Site contains hyperlinks to other sites. Newport is not responsible for the privacy practices or the content of such sites, including any sites that may indicate a special relationship or partnership with Newport. The linked sites may collect personal information from you when you link to the site. This collecting of information is not subject to Newport's control. To ensure protection of your privacy, always review the privacy policy of the sites you visit by linking from our Site.
 
+**ClickTale Analytics Disclosure**
+
+Newport.com and its associated sub-domains use the ClickTale web analytics service. Newport uses information collected by ClickTale services to better understand how users interact with our website in an effort to continually improve our customer service and user experience. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as text you type while visiting the website. Newport does not use ClickTale to collect any personally identifiable information entered while visiting the website. ClickTale does not track your browsing habits across web sites which do not use the ClickTale service. For more information, see [Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx). You can choose to disable the ClickTale service by following [ClickTale's service disabling instructions](http://www.clicktale.net/disable.html).
+
 **Security**
 
 Newport has taken strong measures to protect the security of your personal information and to ensure that your choices for its intended use are honored. We take strong precautions to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. During online ordering, sensitive information, such as your credit card number, is encrypted and protected during transmission using the latest SSL security technology.
@@ -73,5 +77,4 @@ Newport Corporation
 1791 Deere Avenue  
 Irvine, CA 92606  
 Attention: Legal Department  
-(949) 863-3144  
-
+(949) 863-3144
