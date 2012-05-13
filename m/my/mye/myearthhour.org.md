@@ -1,67 +1,44 @@
-> *The following text is extracted and transformed from the myearthhour.org privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618022253id_/http%3A//www.myearthhour.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myearthhour.org privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513112610id_/http%3A//earthhour.org/page/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | My Earth Hour
+# privacy | Earth Hour
 
-_Effective date: June 28, 2006_
+This website is owned by WWF-World Wide Fund for Nature (formerly World Wildlife Fund), hereafter referred to as "WWF".  
+We may change this privacy policy from time to time by updating this posting.
 
-Not only does World Wildlife Fund (WWF) care about our planet, we care about online privacy. This privacy policy serves to inform you of what information we may collect about you, and how we may use that information. Please note that this privacy policy may change from time to time.
+Please check this page periodically for changes. Your continued use of this site following the posting of changes to this policy will mean you accept those changes.
 
-Please read the following description of our privacy practices and, if you have any questions, visit our Help section, where you can view Frequently Asked Questions, submit a question via email and receive assistance from a WWF member services representative. You can also send a letter to:
+1.    WWF does not collect any personal information about users, except that which is knowingly and specifically supplied to us by the user.  
+    
 
-Web Master  
-World Wildlife Fund  
-1250 24th Street  
-Washington, DC 20037
+2.    WWF is committed to ensuring the privacy of your personal information.  
+    
 
-TABLE OF CONTENTS
+3.    We will not sell or pass on your information to any other organization outside of WWF unless you specifically and expressly give us permission to do so.  
+    
 
-I. What information may be collected  
-II. How information may be used  
-III. User control over collection and use of information
+4.    We always give you the option to unsubscribe from our mailing lists.  
+    
 
-I. WHAT INFORMATION MAY BE COLLECTED  
-WWF collects two kinds of information: personal information that you choose to supply us, and non-personal information, such as your IP address.
+5.    If you are under 18 years old, we suggest that you ask your parents or guardian before signing up on this site.
 
-A. Personally Identifiable Information
+**1\. What information do we collect?**  
+a) Personal information such as first name, last name, e-mail address and mobile. We collect this information only in connection with specific activities, such as membership, campaigns, feedback, surveys, email newsletter subscriptions, etc.
 
-**Newsletters, Online Postcards, Donations and Other WWF Information**  
-If you subscribe to a WWF e-newsletter, request additional information about WWF, submit a donation online, or participate in any of the other services on the WWF web site that require personal information, we may request your name, mailing address, telephone number, email address, birth year, and eligibility to vote, in order to respond to your inquiries. If you send a friend an online postcard, we may request your name and email address as well as the name and email address of the friend to whom you wish to send the postcard. WWF may collect and store the information you choose to provide us to send you information about WWF and WWF partners and third parties from time to time. If you make a donation to WWF and elect to pay online, WWF will collect the necessary financial information. WWF collects and stores some information the user chooses to provide, including name, address and email address, to send users information about WWF and WWF partners and third parties from time to time. WWF will not disclose financial information except as necessary to fulfill users' donation requests. WWF collects such financial information in a secure manner and discards such financial information after processing.
+b) Non-personal information  
+WWF collects data such as IP address (the location of the computer on the internet), pages accessed and files downloaded. This helps us to determine how many individuals use our site, how many people visit on a regular basis, which pages are most popular, and which pages are least popular. This information doesn't tell us anything about who you are, it simply allows us to monitor and improve our service.
 
-**Sweepstakes, Contests and Promotions**  
-From time to time, we may request information from you via online polls, surveys, sweepstakes or contests. Participation in these survey, sweepstakes or contests is completely voluntary; you have a choice whether or not to disclose information required to enter. Information requested may include personal contact information such as your name, shipping and email addresses. Contact information will be used to notify winners, award prizes and contact users with further information about WWF products and services, as well as the products and services of WWF partners and third parties. Survey information will be used for the purposes of monitoring or improving use and satisfaction of the WWF web site.
+c) Videos, images and text uploaded to www.earthhour.org, www.beyondthehour.org and www.beyondthehour.com are collected through various websites, widgets, SMS, APIs, services and third parties. When uploading content to this platform you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information in any country. Your email address and mobile number will not be made public and will only be used by WWF if you opt in to receive communications.
 
-**Conservation Action Network**  
-WWF's Conservation Action Network (CAN) collects and uses personally identifiable information in connection with grassroots outreach and advocacy efforts. In order to use CAN's tools to send emails, faxes, or letters to decision makers, we require a user to provide a name, mailing address, and email address. Participation in CAN is entirely voluntary. Information collected is used for the promotion of WWF and CAN legislative goals, grassroots outreach and policy advocacy.
+**2\. Where will the information be held?**  
+Personal information such as email address and mobile number submitted through the sign up forms on this site is held only in a WWF database. We promise that WWF will not share the information you give to us on this website with any other organization outside of WWF unless you have specifically given us permission to do so.
 
-**Cookies**  
-A cookie is a piece of data placed on your hard drive when you visit our site. We may use cookies to help us recognize you when you come back to our site. We may also use cookies to help us monitor traffic on our site. This information may be aggregated in an anonymous manner. You can select to have our web site remember your email address and password on your specific computer when you login. This information will be stored in a cookie on your hard drive that will only be used when you return to the site to login again.
+**3\. Information from under 18s**  
+If you are under 18, be sure to obtain your parent's or guardian's permission before you send any information about yourself (your name, address, e-mail address, etc.) to us or anyone else over the internet. We encourage parents to get involved with their children's use of the Internet and to be aware of the activities in which they are participating.
 
-We may from time to time link cookie information with personally identifiable information collected from the Conservation Action Network. This will help us better tailor our site and provide you with offers that we think may be of interest to you.
+**4\. Your right to access the information**  
+At any time, you can ask us for a copy of the personal information that we hold about you or request a correction or deletion of information.
 
-B. Non-personally identifiable information
+**5\. External links**  
+There are links on this web site that take you to other web sites outside of our service. Any links provided to third party web sites outside of this site are provided solely for your convenience. The operation and content of such third party web sites is beyond our control, and we do not endorse in any manner whatsoever or accept any responsibility for the content or other material that may be contained on such web sites, the use of such web sites, or any products or services advertised on or sold through any such web sites. We will not be liable under any circumstances for any damages whatsoever, direct or indirect, resulting from any use of this web site or any other third party web site linked to this web site, whether or not we are advised of the possibility of such damages.
 
-**Session Cookies**
-
-A cookie is a piece of data placed on your hard drive when you visit our site. We use session cookies to help you navigate through the actions on our site when you log in, but they contain no personally identifiable information about you. We may also use cookies to help us monitor traffic on our site. This information may be aggregated in an anonymous manner. This will help us better tailor our site and provide you with offers that we think may be of interest to you.
-
-**IP Addresses and Environmental Variables**
-
-WWF may also collect information through IP addresses or environmental variables. An "IP address" is a number used by computers on the network to identify your computer so that data can be transmitted to you. "Environmental variables" include, among other things, the domain from which you access the Internet, the time you accessed our web site, type of web browser and operating system or platform used, the Internet address of the web site you left to visit WWF, the names of the pages you visit while at our web site, and the Internet address of the web site you then visit. We collect all of this information to allow us to detect broad demographic trends, to provide information tailored to your interests and to enhance your experience on WWF's web site. This information may be aggregated in an anonymous manner.
-
-II. HOW INFORMATION MAY BE USED  
-We may share personally and non-personally identifiable information with third parties that help manage our web site and databases and with our partners, affiliates, or other third parties.
-
-We will not, however, share personally identifiable information obtained from activists when they subscribe to CAN or to send a message to a decision maker using CAN, with the following two exceptions: (1) when you take action, you will be identified on the action itself as the sender - for example, in the fax or email sent to the decision-maker; (2) we may share personally identifiable information with third parties that help manage our web site and databases, who are subject to a confidentiality agreement.
-
-III. USER CONTROL OVER COLLECTION AND USE OF INFORMATION  
-WWF provides you with the following choices regarding the use of your information:
-
-You may set your browser to: (1) inform you when cookies are being set before a cookie is stored; (2) not accept cookies at all; and (3) erase all cookies from your hard drive. However, if you choose to reject or erase cookies, your ability to navigate our site may be limited.
-
-You may choose not to provide WWF with any contact information. However, if you do so, we will be unable to respond to your request for WWF information, enter you in any sweepstakes or contests, facilitate your action via CAN, or send online postcards. Additionally, your ability to navigate our site may be limited.
-
-If you would like to opt-out of receiving some or all further information from WWF, either (1) take the opportunity to opt out wherever personally identifiable information is collected, (2) take the opportunity to opt out in links on the bottom of email we send to you, or (3) go to the Profile Editor tool [www.worldwildlife.org/login](http://www.worldwildlife.org/login "www.worldwildlife.org/login").
-
-If you would like to change or modify information you have previously provided us, please manage your profile by visiting our web site at [www.worldwildlife.org/login](http://www.worldwildlife.org/login "www.worldwildlife.org/login").
-
-If you have any questions about this privacy policy or the practices of our Web sites, please contact: [membership@wwfus.org](mailto:membership@wwfus.org)
+If you have any questions about our privacy policy, please [CONTACT US](https://web.archive.org/page/contact-us)
