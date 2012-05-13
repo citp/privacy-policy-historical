@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the temando.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125033703id_/http%3A//temando.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the temando.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513173203id_/http%3A//www.temando.com/privacy.html) for the most accurate reproduction.*
 
-# Get Quotes for: Freight, Shipping, Transport, Moving Cars & Couriers @ Temando
+# 
 
 [](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.temando.com/seal_m "Validate TRUSTe privacy certification")
 
