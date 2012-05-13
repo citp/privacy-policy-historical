@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radmin.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207001041id_/http%3A//www.radmin.com/about/legal/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radmin.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513174534id_/http%3A//www.radmin.com/about/legal/pp.php) for the most accurate reproduction.*
 
 # Radmin - PC Remote Control Software - Privacy Policy
 
@@ -46,6 +46,6 @@ Public forum is the part of the site. Please remember that any information that 
 
 |  | 
 
-#### If you have any questions about this privacy statement, please contact us using our Feedback Form.  
+#### If you have any questions about this privacy statement, please contact us using our [Feedback Form](http://www.radmin.com/support/feedback.php).  
   
 ---|---
