@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reeds.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101233139id_/http%3A//about-reeds.reeds.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reeds.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513151012id_/http%3A//about-reeds.reeds.com/Privacy.html) for the most accurate reproduction.*
 
 # REEDS Jewelers Privacy Policy | Shop REEDS Jewelers
 
@@ -70,7 +70,7 @@ See third-party advertising below.
 
 **Third Party Offers** : If REEDS chooses to offer you selected third party products and services that we think would be of benefit to you and you accept the offer, REEDS would supply this third party firm with just the personal information necessary for this partner to deliver the offer, product or service to you. 
 
-**REEDS Credit Card Account** : We may share your information with the bank that issues REEDS credit card accounts, World Financial Network National Bank. (You can read their privacy policy at <https://onlineaccess.mycreditcard.cc/REEDS?Action=Privacy.jsp>.) 
+**REEDS Credit Card Account** : We may share your information with the bank that issues REEDS credit card accounts, World Financial Network Bank. (You can read their privacy policy at <https://onlineaccess.mycreditcard.cc/REEDS?Action=Privacy.jsp>.) 
 
 ### Does REEDS use Third-Party Advertising?
 
@@ -101,9 +101,9 @@ Once you have unsubscribed, you will be removed from receiving future email soli
 
 ### Are REEDS Credit Cards Available?
 
-Yes. You can apply for a REEDS credit card account issued by World Financial Network National Bank to receive special offers and participate in exclusive brand benefits, including the REEDS Rewards program, in which you accumulate points to spend at REEDS for every dollar threshold you meet. Read more on the Apply for a Credit Card page. WFNNB also provides an online portal to update your personal credit card account information, view your statement and pay your credit card bill online, add authorized buyers to your account and request a credit limit increase. For more information on REEDS credit services provided by World Financial Network National Bank visit their site at: <https://onlineaccess.mycreditcard.cc/REEDS?Action=Intro.jsp>. 
+Yes. You can apply for a REEDS credit card account issued by World Financial Network Bank (WFNNB) to receive special offers and participate in exclusive brand benefits, including the REEDS Rewards program, in which you accumulate points to spend at REEDS for every dollar threshold you meet. Read more on the Apply for a Credit Card page. WFNNB also provides an online portal to update your personal credit card account information, view your statement and pay your credit card bill online, add authorized buyers to your account and request a credit limit increase. For more information on REEDS credit services provided by World Financial Network Bank visit their site at: <https://onlineaccess.mycreditcard.cc/REEDS?Action=Intro.jsp>. 
 
-To obtain a privacy policy, opt-out information, or contact information, for the REEDS private-label credit card, you may contact the issuer of your card, the World Financial Network National Bank, by clicking through to the WFNNB privacy policy page at <https://onlineaccess.mycreditcard.cc/REEDS?Action=Privacy.jsp>. 
+To obtain a privacy policy, opt-out information, or contact information, for the REEDS private-label credit card, you may contact the issuer of your card, the World Financial Network Bank, by clicking through to the WFNNB privacy policy page at <https://onlineaccess.mycreditcard.cc/REEDS?Action=Privacy.jsp>. 
 
 ### Does REEDS Send Unsolicited Promotional emails?
 
