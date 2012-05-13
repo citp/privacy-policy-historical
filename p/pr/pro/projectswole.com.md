@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projectswole.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106202733id_/http%3A//www.projectswole.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectswole.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513020952id_/http%3A//www.projectswole.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Project Swole
 
@@ -69,5 +69,3 @@ The Project Swole website is hosted in the United States and is intended for and
 This Privacy Notice may be revised from time to time and this will be reflected by the “effective date” below. Please revisit this page to stay aware of any changes. In general, we use your personal information only in the manner described in the Privacy Notice in effect when we received the personal information you provided. Your continued use of the Project Swole website constitutes your agreement to this Privacy Notice and any future revisions.
 
 Date Last Modified: November 12, 2008.
-
-### Use Facebook to Comment on this Post
