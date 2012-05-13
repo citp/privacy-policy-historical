@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wirednewyork.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112195425id_/http%3A//wirednewyork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wirednewyork.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513155824id_/http%3A//wirednewyork.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wired New York
 
@@ -6,9 +6,7 @@
 
 How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as discussion board, newsletters, news updates and other products.
 
-Like most Web sites, Wired New York also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your internet service provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional  
-technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize  
-the site’s features according to your preferences. 
+Like most Web sites, Wired New York also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your internet service provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site’s features according to your preferences. 
 
 ## What we do with the information we collect
 
@@ -18,8 +16,7 @@ Aggregated information (information that does not personally identify you) may b
 
 We may use personally identifiable information collected on Wired New York to communicate with you about your registration and customization preferences; our terms of service and privacy policy and other topics we think you might find of interest.
 
-Personally identifiable information collected by Wired New York may also be used for other purposes, including but not limited to site administration, troubleshooting, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service provider, for example) may access such information.  
-We will use your information only as permitted by law. 
+Personally identifiable information collected by Wired New York may also be used for other purposes, including but not limited to site administration, troubleshooting, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service provider, for example) may access such information. We will use your information only as permitted by law. 
 
 ## Affiliated sites, linked sites and advertisements
 
@@ -35,22 +32,15 @@ You should also be aware that if you voluntarily disclose personally identifiabl
 
 ## How to add, change, or delete personal information
 
-You may add, change or delete personal information on your profile or registration for activities by contacting us via e-mail. Certain information fields are required and cannot be deleted for security purposes or in accordance with various laws. We encourage you to keep us informed about any changes in your membership information and e-mail address. 
+You may add, change or delete personal information on your profile or registration for activities by contacting us via e-mail. Certain information fields are required and cannot be deleted for security purposes or in accordance with various laws. We encourage you to keep us informed about any changes in your membership information and e-mail address.
 
 ## Children
 
-Wired New York does not knowingly collect or solicit personally identifiable information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe Wired New York has any information from or about anyone under 13, please contact us. 
+Wired New York does not knowingly collect or solicit personally identifiable information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe Wired New York has any information from or about anyone under 13, please contact us.
 
 ## How to reach us
 
-You may contact us if you have any questions regarding the content and material on our website or if you have any questions about our privacy policies. Please contact us at:
-
-Edward Sudentas  
-Wired New York  
-350 West 42nd Street, Apt 49A  
-New York, NY 10036
-
-webmaster[AT]wirednewyork.com
+You may contact us if you have any questions regarding the content and material on our website or if you have any questions about our privacy policies. Please use [the contact form](http://wirednewyork.com/contact/) or email webmaster[AT]wirednewyork.com
 
 ## Changes to this policy
 
