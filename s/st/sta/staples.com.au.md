@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the staples.com.au privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110072142id_/http%3A//www.staples.com.au/wrapper.aspx%3Fparam%3Dhelp_policie_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staples.com.au privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513042728id_/http%3A//www.staples.com.au/wrapper.aspx%3Fparam%3Dhelp_policie_privacy) for the most accurate reproduction.*
 
 # Office Supplies, Ink & Toner, Copy Paper, Technology & Electronics - Welcome to Staples.com.au
 
