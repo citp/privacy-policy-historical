@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tweezerman.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203042744id_/http%3A//www.tweezerman.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweezerman.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513113544id_/http%3A//www.tweezerman.com/privacy) for the most accurate reproduction.*
 
-# Tweezerman - The Beauty Tools Experts
+# Privacy Policy | Tweezerman
 
 **Privacy Policy**  
 Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
