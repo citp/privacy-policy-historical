@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findaphd.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125447id_/http%3A//www.findaphd.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findaphd.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513160817id_/http%3A//www.findaphd.com/privacy.asp) for the most accurate reproduction.*
 
 # PhD | Privacy Statement
 
