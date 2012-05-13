@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airfarewatchdog.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113011917id_/http%3A//www.airfarewatchdog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airfarewatchdog.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513055147id_/http%3A//www.airfarewatchdog.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Airfarewatchdog
 
