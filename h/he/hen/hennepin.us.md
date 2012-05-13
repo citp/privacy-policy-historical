@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hennepin.us privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113025943id_/http%3A//hennepin.us/portal/site/HennepinUS/menuitem.b1ab75471750e40fa01dfb47ccf06498/%3Fvgnextoid%3D9bd62182a0614210VgnVCM10000049114689RCRD) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hennepin.us privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514001149id_/http%3A//hennepin.us/portal/site/HennepinUS/menuitem.b1ab75471750e40fa01dfb47ccf06498/%3Fvgnextoid%3D9bd62182a0614210VgnVCM10000049114689RCRD) for the most accurate reproduction.*
 
 # Privacy/Security — Hennepin County, Minnesota
 
