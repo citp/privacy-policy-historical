@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boxwave.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209013413id_/http%3A//www.boxwave.com/contactus/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxwave.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513105623id_/http%3A//www.boxwave.com/contactus/privacy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - BoxWave
 
 **BoxWave Privacy Policy**  
   
@@ -10,26 +10,21 @@ BoxWave takes your privacy seriously. Because we gather certain types of informa
 
 **1\. What personally identifiable information does BoxWave collect?**  
   
-BoxWave's primary goal in collecting personal information is to provide you with the best and most useful content and services. Because BoxWave derives its revenue mainly from advertising, collecting information is essential to keeping our services affordable to users.  
+BoxWave's primary goal in collecting personal information is to provide you with the best and most useful content and services. Because BoxWave derives its revenue mainly from advertising, collecting information is essential to keeping our services affordable to users.
 
-
-BoxWave collects personally identifiable information when you provide it to us, such as when you register on one of our sites, when you subscribe for a print magazine or an e-mail newsletter, when you use certain products or services, such as our CatchUp software, and when you visit BoxWave pages and read newsletters. Several of the services that we offer on our sites, such as auctions and message boards, may require registration as a condition of use. Once you register with one of our BoxWave sites you are no longer anonymous to us. BoxWave may also receive information about you from other sources and add it to the information you have provided to us.  
-
+BoxWave collects personally identifiable information when you provide it to us, such as when you register on one of our sites, when you subscribe for a print magazine or an e-mail newsletter, when you use certain products or services, such as our CatchUp software, and when you visit BoxWave pages and read newsletters. Several of the services that we offer on our sites, such as auctions and message boards, may require registration as a condition of use. Once you register with one of our BoxWave sites you are no longer anonymous to us. BoxWave may also receive information about you from other sources and add it to the information you have provided to us.
 
 **2\. What anonymous information does BoxWave collect?**  
   
 _Cookies_  
   
-Your Internet browser has a feature called "cookies" which store small amounts of data on your computer about your visit to any of our sites. However, cookies tell us nothing about who you are unless you specifically give us personally identifiable information. You do not need to have cookies turned on to visit the BoxWave site, although active participation in certain areas of our site may require cookies. In addition, you may elect not to allow cookies to be collected by selecting certain options on your browser.  
-
+Your Internet browser has a feature called "cookies" which store small amounts of data on your computer about your visit to any of our sites. However, cookies tell us nothing about who you are unless you specifically give us personally identifiable information. You do not need to have cookies turned on to visit the BoxWave site, although active participation in certain areas of our site may require cookies. In addition, you may elect not to allow cookies to be collected by selecting certain options on your browser.
 
 _Web bugs & servers_  
   
-We use electronic images known as Web bugs--sometimes called single-pixel GIFs, transparent GIFs, or clear gifs--that allow us to track general user traffic patterns. BoxWave also automatically receives and records information from our servers and from your browser, including your IP address, the time, and information about the page you requested.  
+We use electronic images known as Web bugs--sometimes called single-pixel GIFs, transparent GIFs, or clear gifs--that allow us to track general user traffic patterns. BoxWave also automatically receives and records information from our servers and from your browser, including your IP address, the time, and information about the page you requested.
 
-
-We use tracking technologies in a variety of ways, including:  
-
+We use tracking technologies in a variety of ways, including:
 
   * keeping count of return visits to our site or our advertiser' or partners' sites
   * accumulating and reporting anonymous, aggregate (data collected in mass), statistical information on Web site and advertisement usage
@@ -42,8 +37,7 @@ Some of our advertisers use third-party companies to serve their advertisements 
 
 **3\. How does BoxWave use the information?**  
   
-BoxWave uses the information we gather for four general purposes:  
-
+BoxWave uses the information we gather for four general purposes:
 
   * to customize the advertising and content you see
   * to enhance the user experience in our network of sites. We use tracking information to determine how well each page performs overall based on aggregate user demographics and traffic patterns to those pages. This helps us continue to build a better service for you
@@ -56,8 +50,7 @@ BoxWave uses the information we gather for four general purposes:
   
 _Personally identifiable information_  
   
-BoxWave will make your personally identifiable information available to other companies or people when:  
-
+BoxWave will make your personally identifiable information available to other companies or people when:
 
   * we have your consent to share the information
   * we have engaged companies to work with or on behalf of BoxWave to provide a product or service that you have requested, such as opt-in e-mail announcements
@@ -68,21 +61,17 @@ BoxWave will make your personally identifiable information available to other co
 
 _Aggregate information_  
   
-BoxWave aggregates personally identifiable information and discloses such information in a non-personally identifiable manner to advertisers and other third parties for marketing, promotional, and other purposes. We do not disclose to these entities any information that could be used to identify you personally.  
-
+BoxWave aggregates personally identifiable information and discloses such information in a non-personally identifiable manner to advertisers and other third parties for marketing, promotional, and other purposes. We do not disclose to these entities any information that could be used to identify you personally.
 
 _Business transfers_  
   
-We are always seeking to improve our network of Web sites and our business. In accomplishing these objectives, we may buy or sell a company, or one or more of the companies in our corporate family may merge with or be acquired by another company. If we sell a business, we may transfer some or all of your information as a part of the sale in order that the service being provided to you may continue or for other business purposes.  
-
+We are always seeking to improve our network of Web sites and our business. In accomplishing these objectives, we may buy or sell a company, or one or more of the companies in our corporate family may merge with or be acquired by another company. If we sell a business, we may transfer some or all of your information as a part of the sale in order that the service being provided to you may continue or for other business purposes.
 
 **5\. What are my options?**  
   
-Users who would rather not provide any of the user data requested by our registration process do not need to register with us. You can still view much of the content and use many of the services offered by our sites without registering.  
+Users who would rather not provide any of the user data requested by our registration process do not need to register with us. You can still view much of the content and use many of the services offered by our sites without registering.
 
-
-We also give users the following options:  
-
+We also give users the following options:
 
   * opting not to receive our electronic newsletters or those of third parties when registering. Users who opt-in may remove themselves from mailing lists at any time through the subscription management pages or by following the instructions at the end of the e-mail they received from us;
   * opting not to provide certain personal information when registering for a site.
@@ -91,14 +80,12 @@ We also give users the following options:
 
 **6\. How can I update my personally identifiable information?**  
   
-You can correct or change the information collected during registration for any site (see above for a description of the registration process).  
-
+You can correct or change the information collected during registration for any site (see above for a description of the registration process).
 
 **7\. Privacy of children**  
   
-Our network of sites is not directed to children under the age of 13. We operate our network of sites in compliance with the Children's Online Privacy Protection Act and do not permit registration by, and will not knowingly collect or use personally identifiable information from, anyone under 13 years of age. This requirement is clearly posted during the registration process. 
+Our network of sites is not directed to children under the age of 13. We operate our network of sites in compliance with the Children's Online Privacy Protection Act and do not permit registration by, and will not knowingly collect or use personally identifiable information from, anyone under 13 years of age. This requirement is clearly posted during the registration process.
 
 **Questions, comments**  
   
-Questions regarding this privacy statement, or regarding any other aspects of our network of Web sites, should be sent via e-mail to our corporate offices at [help@boxwave.com](mailto:help@boxwave.com). We read every message submitted and try to reply promptly to every one. We may also file your comments to improve the site and program, or review and discard the information.  
-
+Questions regarding this privacy statement, or regarding any other aspects of our network of Web sites, should be sent via e-mail to our corporate offices at [help@boxwave.com](mailto:help@boxwave.com). We read every message submitted and try to reply promptly to every one. We may also file your comments to improve the site and program, or review and discard the information.
