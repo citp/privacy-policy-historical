@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the loyalty360.org privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125055817id_/http%3A//www.loyalty360.org/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loyalty360.org privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513232504id_/http%3A//loyalty360.org/privacy) for the most accurate reproduction.*
 
-# privacy | Loyalty360.org
+# Website Privacy Statement | Loyalty360.org
 
 This is a website of the Loyalty 360 as it applies to business/ visitors.
 
-Consumer information, including how to register for Loyalty 360 Visitor/Member Services, can be found at ,www.loyalty360.org. If you still have questions, or would like to contact us, please send an email to: [[info@loyalty360.org](mailto:info@loyalty360.org)](mailto:info@loyalty360.org)
+Consumer information, including how to register for Loyalty 360 Visitor/Member Services, can be found at ,www.loyalty360.org. If you still have questions, or would like to contact us, please send an email to: [info@loyalty360.org](mailto:info@loyalty360.org)
 
 Our headquarters address is:
 
@@ -12,7 +12,7 @@ Loyalty 360
 4120 Dumont Street  
 Cincinnati, OH 45226
 
-You can reach us by email at [[info@loyalty360.org](mailto:info@loyalty360.org)](mailto:info@loyalty360.org) or call us at 513-545-5612.
+You can reach us by email at [info@loyalty360.org](mailto:info@loyalty360.org) or call us at 513-545-5612.
 
 This policy is valid for one month from the time you visit our site. If our information practices change in the future, we will use only data collected from the time of the policy change forward for these new purposes, or we will contact you before we use your data for these new purposes and offer you the ability to opt out of these new uses.
 
@@ -30,13 +30,13 @@ If you give us your postal address, we will send you periodic mailings with info
 
 If you supply us with your telephone number, you may receive telephone contact from us with information regarding orders you have placed, new products and services or information on upcoming events.
 
-If you do not wish to receive mailings or phone calls from the Loyalty 360 in the future or if you do not wish us to provide other reputable marketers with your mailing information, please let us know by sending an email to [[info@loyalty360.org](mailto:info@loyalty360.org)](mailto:info@loyalty360.org)
+If you do not wish to receive mailings or phone calls from the Loyalty 360 in the future or if you do not wish us to provide other reputable marketers with your mailing information, please let us know by sending an email to [info@loyalty360.org](mailto:info@loyalty360.org)
 
 **Email addresses**
 
 We collect the email addresses of those who communicate with us by email. The email addresses are used to contact existing or potential business customers. We will not share business email addresses you give to us with other third parties for their purposes.  We may send marketing offers to you on behalf of reputable third parties.
 
-If you do not want to receive future email from Loyalty 360, please let us know by sending an email to [[info@loyalty360.org](mailto:info@loyalty360.org)](mailto:info@loyalty360.org)
+If you do not want to receive future email from Loyalty 360, please let us know by sending an email to [info@loyalty360.org](mailto:info@loyalty360.org)
 
 **Cookies**
 
@@ -56,7 +56,7 @@ We collect click-stream data and HTTP protocol elements through access logs. Thi
 
 **Access**
 
-Upon your request, we will provide you with a description of the information that we maintain about you. We will accommodate all reasonable requests. Please contact us by email at [[info@loyalty360.org](mailto:info@loyalty360.org)](mailto:info@loyalty360.org) or in writing at the above address.
+Upon your request, we will provide you with a description of the information that we maintain about you. We will accommodate all reasonable requests. Please contact us by email at [info@loyalty360.org](mailto:info@loyalty360.org) or in writing at the above address.
 
 **Security**
 
@@ -65,5 +65,3 @@ We use industry-standard encryption technologies when transferring and receiving
 **Accountability**
 
 If you have a question about Loyalty 360’s privacy policy, please contact us at 4120 Dumont Street Cincinnati, OH 45226 or ethics@loyalty360.org; or 877-433-0819 (fax).
-
-What do you predict will be the top trend of 2012? 
