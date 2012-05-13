@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifanboy.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207230714id_/http%3A//ifanboy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifanboy.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513071339id_/http%3A//ifanboy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,6 +40,14 @@ Protecting the privacy of children is very important to us. We do not collect or
 
 The content and comments on the site may be unsuitable for minors. Users under the age of 13 are not sanctioned to use iFanboy.com. You agree that the age you provide is accurate and truthful for yourself at the time of registration.
 
+**Advertisers**
+
+We have advertisers. They help us pay our bills.  In order to make the advertisers happy and pay their bills, those advertisers may engage in the collection of non-personally identifiable information about end users by third parties through the use of cookies and pixel tags.
+
+If you would like to opt out of behavioral targeting of ads, [go here](http://www.networkadvertising.org/managing/opt_out.asp).
+
+We are  participating in the Digital Advertising Alliance’s (DAA) Self-Regulatory Program for Online Behavioral Advertising and here is some [Ad Choices](ttp://www.aboutads.info/choices/) for you to see.
+
 **Your Ability to Edit and Delete Your Account Information**
 
 iFanboy.com does not give you the ability to edit your iFanboy.com Account Information at any time. You may request deletion of your iFanboy.com account by sending an email to contact@iFanboy.com. After your account has been deleted, you will have to sign up again in order to access certain areas of the site. None of your information will be stored past account deletion. However,  
@@ -47,7 +55,7 @@ all comments, posts, and other material that you have contributed to the site or
 
 **How do we protect your information?**
 
-The Member data we collect is protected against unauthorized access. To ensure the safety of your personal information, including your email address, access to confidential information on iFanboy is Password protected, unless you have requested a �Remember Me� cookie. We will use our abilities to maintain control over the confidentiality of your information. We permit only authorized employees, marketing partners, other iFanboy services and vendors to have access to the information we collect, and then we limit that access to information that is necessary to fulfill their responsibilities. 3rd parties have limited, controlled access to our data and are not allowed to use your information for secondary purposes, unless you explicitly agree to that use. Employees or vendors who violate this policy will be subject to disciplinary action.
+The Member data we collect is protected against unauthorized access. To ensure the safety of your personal information, including your email address, access to confidential information on iFanboy is Password protected, unless you have requested a “Remember Me” cookie. We will use our abilities to maintain control over the confidentiality of your information. We permit only authorized employees, marketing partners, other iFanboy services and vendors to have access to the information we collect, and then we limit that access to information that is necessary to fulfill their responsibilities. 3rd parties have limited, controlled access to our data and are not allowed to use your information for secondary purposes, unless you explicitly agree to that use. Employees or vendors who violate this policy will be subject to disciplinary action.
 
 **Content Creation and Your Contributions**
 
