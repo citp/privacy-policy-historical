@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountcell.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109070926id_/http%3A//www.discountcell.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountcell.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514182944id_/http%3A//www.discountcell.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for Discountcell.com
 
@@ -158,7 +158,7 @@ We keep your device running with only authentic, top quality **[cell phone acces
 [Discountcell](http://www.discountcell.com/) is a certified woman owned company through the WBENC.
 
 For questions or comments please contact Info@DiscountCell.com.  
-Copyright 1997-2010 Discountcell all Rights Reserved.   Discountcell is a trademark of Discountcell Inc.  
+Copyright 1997-2012 Discountcell all Rights Reserved.   Discountcell is a trademark of Discountcell Inc.  
 350 West 500 South, Provo UT 84601  
  
 
