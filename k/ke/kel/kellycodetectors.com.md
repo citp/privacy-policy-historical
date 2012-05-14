@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the kellycodetectors.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203123435id_/http%3A//www.kellycodetectors.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kellycodetectors.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514112131id_/http%3A//www.kellycodetectors.com/privacy.htm) for the most accurate reproduction.*
 
-# Metal detector superstore All metal detectors and any accessories needed for metal detecting
+# Privacy Policy - Kellyco Metal Detector Superstore
 
-|  | 
-
-Privacy Policy:
+### Privacy Policy:
 
 **What information do we collect?**
 
@@ -51,8 +49,5 @@ We welcome your questions, comments, and concerns about privacy. Please send us 
 **Your consent**  
 By using our site, you consent to our privacy policy.
 
-| 
-
-Metal detector stock is limited, prices are subject to change and any item may be withdrawn without prior notice. We are not responsible for typographical errors, mistakes or a manufacturer's inability to ship a product. All metal detectors are guaranteed to be brand new with a manufacturer's warranty unless otherwise specified. Kellyco holds all copyrights to this website unless otherwise stated. *Published "SAVE" "SAVE UP TO" and "SAVING" Percentages are based on Manufacture's MSRP (Manufacturer's Suggested Retail Price) list price or (compared to price), or/and total combined savings of metal detector and its bundled accessories. Questions or Comments - Please e-mail us [here](mailto:customerservice@kellycodetectors.com). 
-
-All words and photographs are © 1998 - 2011 Kellyco Metal Detector Distributors unless otherwise noted. All rights reserved. Any use or retransmission of text or images on this website without written consent of the copyright owner constitutes copyright infringement and is prohibited. **Enjoy your metal detector and happy hunting!**
+Kellyco Metal Detector SuperStore 1085 Belle Ave. Winter Springs, Florida 32708 - Toll FREE: 1-888-KELLYCO (1-888-535-5926)  \- Questions or Comments - Please e-mail us [here](mailto:customerservice@kellycodetectors.com).   
+All words and photographs are © 1998 - 2012 Kellyco Metal Detector Distributors unless otherwise noted. All rights reserved. Any use or retransmission of text or images on this website without written consent of the copyright owner constitutes copyright infringement and is prohibited. **Enjoy your metal detector and happy hunting! Published SAVE, SAVE UP TO and SAVING Percentages are based on Manufactures MSRP (Manufacturers Suggested Retail Price) list price or (compared to price) or/and total combined savings of metal detector and its bundled accessories. Not responsible for typographical errors, mistakes or manufacturers inability to ship a product.**
