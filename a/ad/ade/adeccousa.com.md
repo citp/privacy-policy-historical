@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adeccousa.com privacy policy that was archived on 2011-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111025151936id_/http%3A//www.adeccousa.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adeccousa.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514165626id_/http%3A//www.adeccousa.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Staffing Employment Agency - Recruiting & Temp Employment Services - Adecco USA
 
@@ -24,17 +24,14 @@ As described in Section 4 of the [Terms of Use](https://web.archive.org/Pages/Te
 
 **Revisions to the Policy**
 
-If we change this privacy policy we will post any updates here for your review. If we change material terms in this Policy, we will provide notice of the revised policy for 30 days on the home page at [www.AdeccoUSA.com](https://web.archive.org/) with a link back to this page. 
+If we change this privacy policy we will post any updates here for your review. If we change material terms in this Policy, we will provide notice of the revised policy for 30 days on the home page at [www.adeccousa.com](https://web.archive.org/) with a link back to this page. 
 
-This Policy is effective as of 01/23/2008. If you have any questions about our website privacy policies, please contact us at: 
+This Policy is effective as of 01/23/2008. If you have any questions about our website privacy policies, please contact us at:
 
-**Adecco**  
-Attn: Sidharth Mehta
+**Adecco Group**  
+Attn: Todd Weise   
+Director of Digital Production  
+10151 Deerwood Park Blvd  
+Building 200, Suite 400  
+Jacksonville, FL 32256  
 
-Director Online Marketing & Product Development
-
-Adecco Group 
-
-175 Broadhollow Rd
-
-Melville, NY 11747 
