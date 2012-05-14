@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the octopustravel.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103031032id_/http%3A//www.octopustravel.com/privacyStmt.form) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the octopustravel.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514133734id_/http%3A//www.octopustravel.com/privacyStmt.form) for the most accurate reproduction.*
 
-# Privacy statement » Octopus Travel - Hotel Deals & Discounts from Luxury to Cheap Hotels
+# Privacy statement » Choose from over 140,000 hotels ranging from cheap to luxury including top chains
 
 This site is operated by Octopustravel.com Limited whose registered office is at Gullivers House, 27 Goswell Road, London, EC1M 7GT, United Kingdom ("Octopus Travel" or "we"). Octopus Travel is the data controller in respect of the personal information obtained from you in the course of your use of the site and/or making a booking.
 
