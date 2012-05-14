@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shop.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011192225id_/http%3A//www.shop.com/about-privacy-a.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shop.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515002326id_/http%3A//www.shop.com/about-privacy-a.xhtml) for the most accurate reproduction.*
 
 # SHOP.COM - Privacy Policy
 
@@ -6,16 +6,14 @@
 ---  
 | 
 
-customer service
+Customer Service
 
 | |  |  |   
 ---  
   
 Privacy Policy
 
-[](http://www.the-dma.org/)
-
-SHOP MA, Inc. and its family of sites, www.shop.com, uk.shop.com, ca.shop.com, www.shop-com.jp, shopespanol.com, theshoppingvine.com, www.shopcompanion.com, www.cataloguecity.co.uk, Everyclick.shop.com, dwellvine.com, gadgettevine.com, glammevine.com, solevine.com and Sears.shop.com (individually and collectively the "Site") is dedicated to protecting the privacy of our valued online customers (and has been since 1997). We created this Privacy Policy to demonstrate its firm commitment to the safety of your personal information. 
+SHOP MA, Inc. and its family of sites, www.shop.com, uk.shop.com, ca.shop.com, www.shop-com.jp, shopespanol.com, theshoppingvine.com, www.shopcompanion.com, www.cataloguecity.co.uk, dwellvine.com, gadgettevine.com, glammevine.com and solevine.com (individually and collectively the "Site") is dedicated to protecting the privacy of our valued online customers (and has been since 1997). We created this Privacy Policy to demonstrate its firm commitment to the safety of your personal information. 
 
 Our mission is to provide the most compelling shopping experience for our customers. We we want you to feel safe while visiting the Site. 
 
@@ -63,10 +61,10 @@ We welcome you to post reviews, comments, articles, stories and other appropriat
     b. Use of Your Email Address Or Email Address You Provide to Us.  
 Your email is considered personally identifiable information. In adsition to other ways we are permitted to use personally identifiable information, we may also use your email address for processing, servicing or enforcing transactions and sending related service communications; providing users with service or product updates, promotional notices and offers; and/or responding to your questions, inquiries or comments. Your email address may be used by us or any subsidiary, parent or other corporation into which we merge or is otherwise acquired or sold, in whole or in part. 
 
-If you choose to use our referral service to tell a friend about our Site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Site. We store this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact  [Customer Service](mailto:customerservice@shop.com) to request that we remove this information from our database.
+If you choose to use our referral service to tell a friend about our Site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Site. We store this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact  [Customer Service](mailto:customerservice@shop.com) to request that we remove this information from our database.
 
     c. Use by Merchant Partners.  
-We share information about you with our Merchant Partners for Fulfillment Uses such as using your email address for shipping and other contact information for purposes of processing, servicing or enforcing transactions and sending order status and other related communications. You can contact each Merchant Partner by clicking on the "Stores" tab, then locating the particular Merchant Partner and finding contact information in the "Store Info" link.
+We share information about you with our Merchant Partners for Fulfillment Uses such as using your email address for shipping and other contact information for purposes of processing, servicing or enforcing transactions and sending order status and other related communications. If you order products from Alice.com they will receive your order information, name, address, telephone number, age and gender, as well as any other information necessary to properly fullfill your order. Their treatment of your Personal Information will be governed by the terms of their Privacy Statement, which we will always provide for your review during checkout, when an Alice.com product is in your cart. You can contact each Merchant Partner by clicking on the "Stores" tab, then locating the particular Merchant Partner and finding contact information in the "Store Info" link.
 
     d. Co-Branding Partners.  
 We have Co-Branding Partners that provide unique benefits to certain loyal customers. In Co-Branded Partnerships, we may acquire, share with our Co-Branding Partners or use personally identifiable information identified in paragraph 1.a., above, to communicate special offers, provide additional benefits or for other related uses.
@@ -132,4 +130,4 @@ SHOP MA, Inc
 Miami, FL 33137  
 email:  [customerservice@shop.com](mailto:customerservice@shop.com)
 
-Updated 01/01/11
+Updated 01/31/12
