@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the officialwire.com privacy policy that was archived on 2011-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111018040732id_/http%3A//www.officialwire.com/static.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officialwire.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514095928id_/http%3A//www.officialwire.com/static.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # OfficialWire: Privacy Policy
 
@@ -29,7 +29,7 @@
 
 ## Privacy Policy
 
-Thank you for visiting OfficialWire. OfficialWire and all [OfficialWire Network](http://www.officialwire.com/static.php?action=terms#network) websites (Note: this link will take you to OfficialWire's main website) are owned by **CPM Partnership**.
+Thank you for visiting OfficialWire. OfficialWire and all [OfficialWire Network](http://www.officialwire.com/static.php?action=terms#network) websites (Note: this link will take you to OfficialWire's main website) are owned by **Key Web Consulting LLC**.
 
 Your privacy is important to us. To better protect your privacy, we provide this statement explaining our online information practices and the choices you can make about the way your information is collected and used at this website. 
 
