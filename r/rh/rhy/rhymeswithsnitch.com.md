@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rhymeswithsnitch.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101121538id_/http%3A//www.rhymeswithsnitch.com/2006/03/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rhymeswithsnitch.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514144330id_/http%3A//www.rhymeswithsnitch.com/2006/03/privacy-policy.html) for the most accurate reproduction.*
 
 # Rhymes with Snitch | Entertainment News | Celebrity Gossip: Privacy Policy
 
