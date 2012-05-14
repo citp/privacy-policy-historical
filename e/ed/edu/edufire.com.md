@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the edufire.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225103608id_/http%3A//edufire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edufire.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514115614id_/http%3A//edufire.com/privacy) for the most accurate reproduction.*
 
 # eduFire :: Content :: Privacy
 
-This web site is owned and operated by Education Revolution (“we”, “our”, or “us” or the “Company”). We understand you value your privacy. We want to make your experience online satisfying and safe. This privacy policy (the “Policy”) governs information you provide to us or we learn from your use of this web site (the “Site”) and tells you how we may collect, use, and in some instances share this information. Our policies may differ from other service offerings and you should carefully review the terms of service and this privacy notice before using these services.
+This web site is owned and operated by eduFire, LLC (“we”, “our”, or “us” or the “Company”). We understand you value your privacy. We want to make your experience online satisfying and safe. This privacy policy (the “Policy”) governs information you provide to us or we learn from your use of this web site (the “Site”) and tells you how we may collect, use, and in some instances share this information. Our policies may differ from other service offerings and you should carefully review the terms of service and this privacy notice before using these services.
 
 ## Collected Information
 
@@ -63,12 +63,13 @@ We may occasionally update this Privacy Policy. When we do, we will also revise 
 
 ## Contact Us
 
-If you have questions or concerns regarding this Policy, you should contact Education Revolution by emailing privacy@edurev.com or by calling 1-877-896-2641.
+If you have questions or concerns regarding this Policy, you should contact eduFire, LLC by emailing privacy@edurev.com.
 
 ### Address
 
-Education Revolution  
-1322 2nd St. Suite #32  
-Santa Monica, CA 90401
+eduFire  
+1490 S. Price Road, Ste 302  
+Chandler, AZ 85286  
+USA
 
 Effective: December 4, 2007
