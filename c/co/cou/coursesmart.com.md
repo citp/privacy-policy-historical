@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coursesmart.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101130723id_/http%3A//www.coursesmart.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coursesmart.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514051547id_/http%3A//www.coursesmart.com/privacypolicy) for the most accurate reproduction.*
 
 # CourseSmart - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 This Privacy Policy discloses the privacy practices of CourseSmart LLC, and its agents (sometimes referred to here as "CourseSmart" or "we") with respect to the CourseSmart™ eTextbook Online Web site [www.coursesmart.com](http://www.coursesmart.com/ "www.coursesmart.com") (the "Site") and the CourseSmart Mobile Application. It explains the information we collect from you when you sign up and use, or purchase any of the products offered on or through the Site and Mobile Application (collectively, the "CourseSmart Service"), and how we use that information.
 
-If you feel that CourseSmart is not abiding by our posted privacy policy, you should contact our customer service department by calling 1-866-588-3197. CourseSmart LLC is located at 901 Mariners Island Blvd., San Mateo, CA 94404.
+If you feel that CourseSmart is not abiding by our posted privacy policy, you should contact our customer service department by calling 1-866-588-3197. CourseSmart LLC is located at 1800 Gateway Dr., Suite 120, San Mateo, CA 94404.
 
 CourseSmart LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html "TRUSTe's program requirements") including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding CourseSmart's privacy policy or practices, please contact us at 1-866-588-3197. If you are not satisfied with our response you can contact [TRUSTe here.](http://watchdog.truste.com/pvr.php?page=complaint "TRUSTe here")
 
@@ -26,7 +26,7 @@ CourseSmart uses this Personally Identifying Information to serve your needs as 
 
 ### Targeted Advertising
 
-Targeted advertising (also known as Behavioral Advertising) uses information collected on an individual's browsing behavior within our mobile application and mobile website such as the pages they have visited or the searches they have made. This information is then used to select which CourseSmart advertisement should be displayed to a particular individual on websites or mobile apps other than CourseSmart. For example, if you have shown a preference for nursing while visiting Coursesmart.com or the CourseSmart app, you may be served an advertisement from CourseSmart.com or the CourseSmart app for nursing related programs when you visit a site or mobile app other than CourseSmart.com. The information collected is only linked to an anonymous cookie ID (alphanumeric number); it does not include any information that could be linked back to a particular person, such as their name, address or credit card number. The information used for targeted advertising either comes from CourseSmart.com, our mobile app, or through third party website or mobile app publishers. If you would like to opt out of targeted advertising from CourseSmart.com that occurs when visiting our third party advertising publishers, please [ click here.](http://preferences.truste.com/truste/ "click here") Please note that this will opt you out of targeted ads from CourseSmart.com and any other participating advertisers. If you opt out, you will continue to receive online advertising from CourseSmart.com; however, these ads may not be as relevant to you.
+Targeted advertising (also known as Behavioral Advertising) uses information collected on an individual's browsing behavior within our desktop website, mobile application and mobile website such as the pages they have visited or the searches they have made. This information is then used to select which CourseSmart advertisement should be displayed to a particular individual on websites or mobile apps other than CourseSmart. For example, if you have shown a preference for nursing while visiting Coursesmart.com or the CourseSmart app, you may be served an advertisement from CourseSmart.com or the CourseSmart app for nursing related programs when you visit a site or mobile app other than CourseSmart.com. The information collected is only linked to an anonymous cookie ID (alphanumeric number); it does not include any information that could be linked back to a particular person, such as their name, address or credit card number. The information used for targeted advertising either comes from CourseSmart.com, CourseSmart emails, our mobile app, or through third party website or mobile app publishers. If you would like to opt out of targeted advertising from CourseSmart.com that occurs when visiting our third party advertising publishers, please [ click here.](http://preferences.truste.com/truste/ "click here") Please note that this will opt you out of targeted ads from CourseSmart.com and any other participating advertisers. If you opt out, you will continue to receive online advertising from CourseSmart.com; however, these ads may not be as relevant to you.
 
 ### Children's Privacy
 
@@ -112,7 +112,7 @@ Due to the Internet's rapidly evolving nature, CourseSmart may need to update th
 
 We reserve the right to modify this Privacy Policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
-This Privacy Policy was last updated: March 11, 2011
+This Privacy Policy was last updated: May 1, 2012
   *[eTextbook]: electronic textbook
   *[eResource]: electronic resource
   *[eTextbooks]: electronic textbooks
