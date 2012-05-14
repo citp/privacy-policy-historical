@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickbase.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209064647id_/http%3A//quickbase.intuit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickbase.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514234607id_/http%3A//quickbase.intuit.com/privacy) for the most accurate reproduction.*
 
 # QuickBase Privacy Statement
 
@@ -99,4 +99,6 @@ We may use sources outside of Intuit to supplement the information you give us. 
 
 QuickBase is a division of Intuit Inc. Intuit and its divisions may exchange customer data to fulfill your requests or to provide you with information about other products or services. We offer you the opportunity to review privacy practices at our divisions' Web sites; please visit Intuit.com for additional information.
 
-Last Updated: 12/08/08
+Intuit QuickBase complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Intuit QuickBase has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the certification, please visit <http://www.export.gov/safeharbor/>.
+
+Last Updated: 5/7/12
