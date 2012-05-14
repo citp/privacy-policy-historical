@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doctorswithoutborders.org privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110192307id_/http%3A//www.doctorswithoutborders.org/privacy.cfm%3Fref%3Dnav-footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doctorswithoutborders.org privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514181356id_/http%3A//www.doctorswithoutborders.org/privacy.cfm%3Fref%3Dnav-footer) for the most accurate reproduction.*
 
 # Doctors Without Borders | Privacy Policy
 
@@ -40,7 +40,7 @@ Additionally, if you have come into the site from one of our newsletters or from
 
 ## Cookies 
 
-Cookies are small text files that a site transfers to a site visitor's hard disk or browser for added functionality, or for tracking site usage. Doctors Without Borders uses cookies in a limited capacity. Doctors Without Borders' cookies "expire" at the end of your user session. Our cookies do not capture or store any personally identifying information about you, or any data about your past usage of our site. We use information captured by cookies only for blind statistical analysis, and to tailor our communications with the public. 
+When you visit our website, we might store some information on your computer in the form of a “cookie” (i.e. a small piece of text that stores information on your browser in your computer’s hard drive) or similar file. We use conversion tracking cookies as part of campaigns in order to analyze trends, gather broad demographic information, and monitor site traffic patterns that can help us further develop and improve the design and functionality of our site. Similarly, we also use cookies for ”retargeting” in our internet advertising campaigns so that third party vendors, including Google, can show you advertising about Doctors Without Borders as you browse the internet. Retargeting is a marketing tool that identifies you as a previous visitor to the Doctors Without Borders website and targets you for specific outreach messages, encouraging you to revisit our website or consider donating. The cookies will only be used to obtain non-personal information (you will be anonymous). If you prefer, you can usually set your browser to refuse cookies, or to notify you when you receive a new cookie. You can also opt out of receiving cookies on the Doctors Without Borders website for Google advertising by visiting the Google advertising opt-out page (http://www.google.com/privacy/ads/#toc-edit). 
 
 ## External Links 
 
@@ -54,7 +54,7 @@ Doctors Without Borders welcomes children to learn more about our organization a
 
 ## Updating Your Information
 
-We work to process and maintain accurately the information that you share with us. If you have donated to us and would like to correct or update your personal data or to adjust your mail preferences, you can do so by using this form, calling us at 888-392-0392, or by sending us the update via postal mail sent to Doctors Without Borders, P.O. Box 5030, Hagerstown, MD 21741-5030.
+We work to process and maintain accurately the information that you share with us. If you have donated to us and would like to correct or update your personal data or to adjust your mail preferences, you can do so by [using this form](https://web.archive.org/contact/), calling us at 888-392-0392, or by sending us the update via postal mail sent to Doctors Without Borders, P.O. Box 5030, Hagerstown, MD 21741-5030.
 
 ## Changes to this Privacy Policy 
 
