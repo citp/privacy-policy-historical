@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the seobythesea.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228151044id_/http%3A//www.seobythesea.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seobythesea.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514110641id_/http%3A//www.seobythesea.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for SEO by the Sea
 
 SEO by the Sea does not sell or share personally identifiable data to any third parties whatsoever.
 
-Information collected by SEO by the Sea about visits to the site in SEO by the Sea’s generic web logs will not be shared with others, except for the use of non-identifying and aggregated information to better the design of SEO by the Sea or attract advertisers. 
+Information collected by SEO by the Sea about visits to the site in SEO by the Sea’s generic web logs will not be shared with others, except for the use of non-identifying and aggregated information to better the design of SEO by the Sea or attract advertisers.
 
 SEO by the Sea uses Google Analytics and Google Webmaster tools to learn about traffic to the site and improve the services offered by the site.
 
