@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytruspot.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116063029id_/http%3A//www.mytruspot.com/%3Ft%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytruspot.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514125311id_/http%3A//www.mytruspot.com/%3Ft%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - TruSpot!
 
