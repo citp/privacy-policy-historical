@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womentowomen.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205184331id_/http%3A//www.womentowomen.com/legal.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womentowomen.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514023421id_/http%3A//www.womentowomen.com/legal.aspx) for the most accurate reproduction.*
 
 # Legal/Privacy
 
@@ -10,7 +10,7 @@ The Healthcare Center and the Personal Program are separate organizations that s
 
 We honor and protect your privacy. If you visit the Website or participate in the Personal Program, we will protect your privacy to the fullest extent of the law. We will not disclose any such information to any third party — not even your name and address — for any purpose other than the fulfillment of orders you have placed for our products and services; this means we never sell, rent, or otherwise disclose your personal information to third-party marketers. We will restrict our employees’ access to such information on a need-to-know basis, and require that each of them sign a firm, written confidentiality agreement.
 
-This document explains in detail our policies governing the information you submit to our Website or provide us by other methods. We also suggest that you review our [Terms of Use](https://web.archive.org/web/20111205184331id_/http%3A//www.womentowomen.com/termsofuse.aspx), which include guidelines and limitations that may affect your use of the Website.
+This document explains in detail our policies governing the information you submit to our Website or provide us by other methods. We also suggest that you review our [Terms of Use](https://web.archive.org/web/20120514023421id_/http%3A//www.womentowomen.com/termsofuse.aspx), which include guidelines and limitations that may affect your use of the Website.
 
 **1\. The type of information we collect**
 
@@ -33,7 +33,7 @@ Further, when you return previously purchased merchandise or request a refund, y
 
 _Contacting our Support Desk:_ When you call our Support Desk about a product, delivery, billing question, or for customer service, you may be asked for Personal Data that identifies you along with additional information we need to help you. Because this information helps us personalize our services to meet your needs, we may retain the information you give us during this call to better assist you in the future.
 
-_Taking Health Assessments, Profiles and Other Surveys:_ We collect information from you when you voluntarily choose to use the various services we provide on our site, such as our Hormonal Health Profile, Bone Health Profile, etc. For instance, we may ask for information about the symptoms you have or the demands you are making on your body. When you voluntarily provide us with this type of information, we may use it to update you on products, services, or benefits or to provide information or newsletters that we think may be of interest to you. We also use this information to personalize our website for you, and we may also contact you for market research. You may opt out of such communications with us by sending an email to [ personalprogram@womentowomen.com](mailto:personalprogram@womentowomen.com) with the subject: Attn. Privacy Officer, and include the email you used to receive your recommendations in the text area. Without an accurate email address, we cannot opt you out. 
+_Taking Health Assessments, Profiles and Other Surveys:_ We collect information from you when you voluntarily choose to use the various services we provide on our site, such as our Hormonal Health Profile, Bone Health Profile, etc. For instance, we may ask for information about the symptoms you have or the demands you are making on your body. When you voluntarily provide us with this type of information, we may use it to update you on products, services, or benefits or to provide information or newsletters that we think may be of interest to you. We also use this information to personalize our website for you, and we may also contact you for market research. You may opt out of such communications with us by sending an email to [ personalprogram@womentowomen.com](mailto:personalprogram@womentowomen.com?r=314781642) with the subject: Attn. Privacy Officer, and include the email you used to receive your recommendations in the text area. Without an accurate email address, we cannot opt you out. 
 
 _Providing Comments, Feedback, or Testimonials:_ If you provide us with feedback, comments or testimonials via e-mail or phone, we will collect your name and email address in order to send you a reply. Further, as required by U.S. federal law, we collect information that you voluntarily provide us concerning any adverse reactions you experienced that may have been caused by or related to the use of our nutritional supplements.
 
@@ -94,5 +94,5 @@ This notice was published and becomes effective on January 14, 2009.
 
 _Original Publication Date:_ 04/14/2003
 
-_Last Modified:_ 09/15/2011   
+_Last Modified:_ 12/05/2011   
 
