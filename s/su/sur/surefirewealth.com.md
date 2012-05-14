@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surefirewealth.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230151416id_/http%3A//www.surefirewealth.com/internetmarketingbusinessproducts/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surefirewealth.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514141524id_/http%3A//www.surefirewealth.com/internetmarketingbusinessproducts/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ The Internet is an amazing tool. It has the power to change the way we live, and
 
 We believe your business is no one else's. Your privacy is important to you and to us. So we'll protect the information you share with us. To protect your privacy, SureFireWealth, Inc. follow different principles in accordance with worldwide practices for customer privacy and data protection.
 
-We won’t sell or give away your name, mail address, phone number, email address or any other information to anyone. We’ll use state-of-the-art security measures to protect your information from unauthorized users. 
+We won't sell or give away your name, mail address, phone number, email address or any other information to anyone. We'll use state-of-the-art security measures to protect your information from unauthorized users. 
 
 NOTICE
 
@@ -48,7 +48,7 @@ You also have a significant role in protecting your information. No one can shar
 
 NOTICE CONCERNING CHILDREN AND TO PARENTS
 
-We adhere to the Children's Privacy Act. You must be 18 years of age to join or use SureFireWealth.com or any of the recommended or linked sites. This site follow the guidelines, policies and laws of the Federal Trade Commission (www.ftc.gov). We retain the right to refuse anyone membership in any of our sites. If we learn or have reason to believe that a User is underage according to the guidelines, policies and laws of the Federal Trade Commission, we will promptly revoke that User’s account and delete any personal information.
+We adhere to the Children's Privacy Act. You must be 18 years of age to join or use SureFireWealth.com or any of the recommended or linked sites. This site follow the guidelines, policies and laws of the Federal Trade Commission (www.ftc.gov). We retain the right to refuse anyone membership in any of our sites. If we learn or have reason to believe that a User is underage according to the guidelines, policies and laws of the Federal Trade Commission, we will promptly revoke that User's account and delete any personal information.
 
 ENFORCEMENT
 
@@ -62,7 +62,7 @@ CUSTOMER PROFILES
 
 As mentioned above, every registered customer has a unique personal profile. Each profile is assigned a unique personal identification username, which helps us ensure that only you can access your profile.
 
-When you register, you create your profile, your username and password. It is your passport to seamless travel across your member area, allowing you to download software and order more plugin modules without having to fill out registration forms with information you've already provided. Even if you switch computers, you won't have to re-register – just use your Registration ID to identify yourself. 
+When you register, you create your profile, your username and password. It is your passport to seamless travel across your member area, allowing you to download software and order more plugin modules without having to fill out registration forms with information you've already provided. Even if you switch computers, you won't have to re-register - just use your Registration ID to identify yourself. 
 
 WHAT WE DO WITH THE INFORMATION YOU SHARE
 
