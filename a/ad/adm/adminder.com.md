@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the adminder.com privacy policy that was archived on 2010-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100410131356id_/http%3A//www.adminder.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adminder.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514130134id_/http%3A//www.adminder.com/privacy.cgi) for the most accurate reproduction.*
 
-# AdMinder V3.3 Website Advertising Manager - Automated. Proven. Guaranteed.
+# Privacy Policy for AdMinder.com AdTracking and Guaranteed Traffic
 
-  
+Adminder.com and Adminder.com, LLC take your privacy seriously, and have created this Privacy Policy in order to demonstrate our firm commitment to online privacy. Please read the following to learn more about our information gathering and dissemination practices, and our use of personally identifiable information.
+
 **IP Addresses**
 
 We use your IP address to help diagnose problems with our web server, and for the general administration of our website. Your IP address, should you decide to become a registered user of AdMinder, is also used to prevent you from registering twice due to temporary technical problems. Finally, your IP address may also be used to help verify that you are who you say you are.
@@ -31,10 +32,14 @@ This web site has security measures in place to protect against loss, misuse and
 
 AdMinder.com provides every user with the opportunity to easily opt-out of receiving future communications from us, change and modify information previously provided, or remove their information from our databases altogether. You may do so in the following ways:
 
-1\. Email: [support@adminder.com](mailto:support@adminder.com)  
-2\. Postal Mail: AdMinder.com  1675 Larimer St, Suite 640, Denver CO 80202 USA  
-3\. Telephone: (303) 534-3333  
-4\. Facsimile: (731) 661-0173
+  * Email: [support@adminder.com](mailto:support@adminder.com)
+  * Postal Mail: Adminder.com  1675 Larimer St, Suite 640, Denver CO 80202 USA
+  * Telephone: (303) 534-3333
 
-**Contacting AdMinder.com**  
-If you have any questions about this privacy statement, the practices of this web site, or your dealings with this web site, please contact us via email, postal mail, telephone, or fax. 
+
+
+**Contacting AdMinder.com**
+
+If you have any questions about this privacy statement, the practices of this web site, or your dealings with this web site, please contact us via email, postal mail or telephone.
+
+[ Close Window ]
