@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dogonews.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211060328id_/http%3A//www.dogonews.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogonews.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514193608id_/http%3A//www.dogonews.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Kids News Article
+# Privacy Policy
 
 Welcome to DOGONEWS' website.  We respect and protect the privacy of our users and intend our site to be a safe place for everyone who visits and corresponds with us.  We are committed to keeping your information confidential.  Our information practises are designed to comply with the United States Federal Commission's Children's Online Privacy Protection Act (COPPA).  No action is required on your part for this benefit. You should recognize, however, that there is no such thing as perfect security on the Internet.  Our information collection practices are described below.
 
