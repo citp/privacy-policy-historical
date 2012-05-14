@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the designtnt.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115044348id_/http%3A//privacy.truste.com/privacy-policy/Design-TNT/certified/7f4a8ea7-7a0d-46f3-9ff6-10c4eb46ee74) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designtnt.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514111940id_/http%3A//privacy.truste.com/privacy-policy/Design-TNT/certified/7f4a8ea7-7a0d-46f3-9ff6-10c4eb46ee74) for the most accurate reproduction.*
 
 # Welcome to designtnt.com
 
-[](http://privacy.truste.com/certified-privacy/Design-TNT/validation?validationId=83b44aef-66a7-41e6-95a5-f2637936ea8f)
+[](https://privacy.truste.com/privacy-seal/Design-TNT/validation?validationId=83b44aef-66a7-41e6-95a5-f2637936ea8f)
 
 **Effective on July 5, 2011**
 
