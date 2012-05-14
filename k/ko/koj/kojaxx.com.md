@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kojaxx.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101141207id_/http%3A//www.kojaxx.com/static/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kojaxx.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514184506id_/http%3A//www.kojaxx.com/static/privacypolicy) for the most accurate reproduction.*
 
 # Kojaxx | Privacy Policy
 
