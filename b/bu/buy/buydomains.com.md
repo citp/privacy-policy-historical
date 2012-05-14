@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buydomains.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102082147id_/http%3A//www.buydomains.com/info/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buydomains.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514060612id_/http%3A//www.buydomains.com/info/privacy.jsp) for the most accurate reproduction.*
 
 # BuyDomains.com: Privacy Policy
 
@@ -91,6 +91,6 @@ If you have any questions about this policy or privacy practices on the site, pl
 Attn: Customer Service  
 738 Main Street, #389  
 Waltham, MA 02451  
-Phone: +1 781-839-7902  
+Phone: +1 781-839-2885  
 Fax:     781-839-2801  
 Email: [privacy@buydomains.com](mailto:privacy@buydomains.com)**
