@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cancerhelp.org.uk privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128103941id_/http%3A//cancerhelp.cancerresearchuk.org/ssNODELINK/chprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cancerhelp.org.uk privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514043555id_/http%3A//cancerhelp.cancerresearchuk.org/ssNODELINK/chprivacy) for the most accurate reproduction.*
 
 # Privacy statement : Cancer Research UK : CancerHelp UK
 
@@ -36,9 +36,9 @@ We may need to share your information with our service providers, associated org
 
 ## Cancer information nurses
 
-If you contact the [cancer information nurses](https://web.archive.org/web/20111127094153id_/http://cancerhelp.cancerresearchuk.org/utilities/privacy/ssNODELINK/contact-cancer-nurses), either through CancerHelp UK or directly, you may choose to provide details of a personal nature. Only the cancer information nurses will use your personal information and only for the purposes of dealing with your enquiry. They will not pass on your details to anyone else without your express permission, except in exceptional circumstances to comply with the nurses’ code of professional conduct or the law. Examples of this might include children contacting the service reporting abuse, anyone reporting serious self harm, anyone expressing the intention of harming someone else, or if a terrorist threat is reported.
+If you contact the [cancer information nurses](https://web.archive.org/web/20120514021714id_/http://cancerhelp.cancerresearchuk.org/utilities/privacy/ssNODELINK/contact-cancer-nurses), either through CancerHelp UK or directly, you may choose to provide details of a personal nature. Only the cancer information nurses will use your personal information and only for the purposes of dealing with your enquiry. They will not pass on your details to anyone else without your express permission, except in exceptional circumstances to comply with the nurses’ code of professional conduct or the law. Examples of this might include children contacting the service reporting abuse, anyone reporting serious self harm, anyone expressing the intention of harming someone else, or if a terrorist threat is reported.
 
-Your personal information and details of the enquiries received are stored on a secure database. If for any reason you wish to have your personal details removed from their records, please [contact the cancer information nurses](https://web.archive.org/web/20111127094153id_/http://cancerhelp.cancerresearchuk.org/utilities/privacy/ssNODELINK/SendAQuestion).
+Your personal information and details of the enquiries received are stored on a secure database. If for any reason you wish to have your personal details removed from their records, please [contact the cancer information nurses](https://web.archive.org/web/20120514021714id_/http://cancerhelp.cancerresearchuk.org/utilities/privacy/ssNODELINK/SendAQuestion).
 
 If you send feedback to the CancerHelp UK team, the feedback will be noted and your contact details kept for a maximum of 3 months. If you have sent a complaint to the site, the correspondence will be kept securely in a complaints file for a maximum of one year, in case we need to refer back to it.
 
