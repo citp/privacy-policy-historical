@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lfhair.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123200842id_/http%3A//www.lfhair.com/xcart/customer/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lfhair.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514030302id_/http%3A//www.lfhair.com/xcart/customer/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
 # - Help section | Laissez Faire Hair
 
