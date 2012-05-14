@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the aspkin.com privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101073325id_/http%3A//www.aspkin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspkin.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514103830id_/http%3A//www.aspkin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ASPKIN'S WORLD
+
+[](http://www.aspkin.com/wp-content/plugins/max-banner-ads/max-banner-ads-lib/include/redirect.php?id=6)  
+  
 
 [](http://www.aspkin.com/wp-content/plugins/max-banner-ads/max-banner-ads-lib/include/redirect.php?id=2)  
   
