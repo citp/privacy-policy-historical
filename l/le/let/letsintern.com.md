@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letsintern.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118013456id_/http%3A//www.letsintern.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsintern.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514120030id_/http%3A//www.letsintern.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Letsintern » Privacy policy
 
