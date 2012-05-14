@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the cd-writer.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621065754id_/http%3A//shop.cd-writer.com/catalog/popup/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cd-writer.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514030116id_/http%3A//www.cd-writer.com/privacy_policy.php) for the most accurate reproduction.*
 
-# CD-WRITER.COM LTD Online Security and Privacy Policy.
+# DVD Duplicator, DVD Copier, Blu-Ray Duplicator, CD Duplicators, CD Printer, Disc Publisher, UK, Flash Drive Duplicator, Blu-Ray, USB Copier
 
-  
-Privacy Statement for CD-writer.com Ltd **_'This does not affect your statutory rights as a consumer'_**
+**_'This does not affect your statutory rights as a consumer'_**
 
-**Cd-writer.com - the custom CD resource** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ CD-writer.com ](http://www.cd-writer.com/)
+**Cd-writer.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ CD-writer.com ](http://www.cd-writer.com/)
 
 **Information Automatically Logged**  
 We use your IP address to help diagnose problems with our server and to administer our Web site. 
