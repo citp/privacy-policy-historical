@@ -1,11 +1,56 @@
-<!--The following is the downloaded HTML source of the swingbyswing.com privacy policy that was archived on 2011-11-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111130015633id_/http%3A//www.swingbyswing.com/home/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the swingbyswing.com privacy policy that was archived on 2012-05-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120514022518id_/http%3A//www.swingbyswing.com/home/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
-	Privacy Policy | Swing by Swing
-</title><link href="/content/site.css" rel="stylesheet" type="text/css"><link href="/content/buildingblocks.css" rel="stylesheet" type="text/css">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#"><head id="Head1">
+    <title>Privacy Policy | Swing by Swing</title>
+    <link href="/content/site.css" rel="stylesheet" type="text/css">
+    <link href="/content/buildingblocks.css" rel="stylesheet" type="text/css">
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/scripts/jquery-1.4.1.js" type="text/javascript"></script>
-   
+    <meta http-equiv="cache-control" content="no-cache"> <!-- tells browser not tocache -->
+    <meta http-equiv="expires" content="0"> <!-- says that the cache expires'now' -->
+    <meta http-equiv="pragma" content="no-cache"> <!-- says not to use cachedstuff, if there is any -->
+    <style type="text/css"> 
+    .watermark 
+    {
+         color:gray; 
+    }
+ 
+    </style>
+    <script type="text/javascript">
+    $(document).ready(function () {
+
+        $(".searchButton a").click(function (e) {
+            e.preventDefault();
+            $("#SearchForm").submit();
+        });
+
+        /*watermark*/
+
+        $(".watermark").each(function () {
+            $tb = $(this);
+            if ($tb.val() != this.title) {
+                $tb.removeClass("water");
+            }
+        });
+
+        $(".watermark").focus(function () {
+            $tb = $(this);
+            if ($tb.val() == this.title) {
+                $tb.val("");
+                $tb.removeClass("water");
+            }
+        });
+
+        $(".watermark").blur(function () {
+            $tb = $(this);
+            if ($.trim($tb.val()) == "") {
+                $tb.val(this.title);
+                $tb.addClass("water");
+            }
+        });
+        /**/
+    });
+    </script>
     
 
 
@@ -25,11 +70,71 @@
     </script>
 </head>
 
-<body class="background-tan font-normal font-onehundred">
+<body class="background-white font-normal font-onehundred">
     <div class="w5plus box-center">
-        <div class="position-absolute w5plus" style="top:134px;">
+        <div class="position-relative w5plus nc-background-topmenu marginauto" style="height: 47px; top:89px;">
+            <table class="box-center" style="height: 100%;" id="topmenu">
+                <tbody><tr valign="bottom">
+                    <td>&nbsp;</td>
+                    <td class="w130px text-center pad-bottom5"><a href="/" class="black-link"><font class="font-onefifty">Home</font></a></td>
+                    <td class="background-menuseparator">&nbsp;</td>
+                    <td class="w130px text-center pad-bottom5"><a href="/product" class="black-link"><font class="font-onehundred">THE</font> <font class="font-onefifty">Product</font></a></td>
+                    <td class="background-menuseparator">&nbsp;</td>
+                    <td class="w130px text-center pad-bottom5"><a href="/courses" class="black-link"><font class="font-onehundred">THE</font> <font class="font-onefifty">Courses</font></a></td>
+                    <td class="background-menuseparator">&nbsp;</td>
+                    <td class="w130px text-center pad-bottom5"><a href="/contact" class="black-link"><font class="font-onefifty">Support</font></a></td>
+                                    <td class="background-menuseparator">&nbsp;</td>
+                    <td class="w130px text-center pad-bottom5"><a href="http://clubhouse.swingbyswing.com" class="black-link"><font class="font-onefifty">Clubhouse</font></a></td>
+                    <td>&nbsp;</td>
+                    <td><div class="margin-bottom5 margin-left75">
+<a class="login nc-darkgreen font-nintey bold underline underlineMenu" href="/myaccount/login">SIGN IN</a>&nbsp;&nbsp;<span class="bold">|</span>&nbsp;
+<a class="login nc-darkgreen font-nintey bold underline underlineMenu" href="/myaccount/login">SIGN UP</a>
+</div></td>
+                </tr>
+            </tbody></table>
+        </div>
+
+        <div class="position-relative w5plus marginauto" style="height:89px; top:-50px;">    
             
-    <div class="headerbanner"><div class="pad10 float-left"><h1 class="white">Privacy Policy</h1></div><div class="float-right"><a href="/contact" target="_blank"><img src="/content/img/button-lookingforhelp.png" class="noborder"></a></div><div class="clear"></div></div>
+            
+             <form action="/Courses" id="SearchForm" method="post">
+
+            <div class="float-left background-logoImage"> 
+                <a href="/">
+                    <img style="border:none" src="/content/img/logo1.png" alt="Swing By Swing">
+                </a>
+            </div>
+            
+            <div class="position-relative background-searchText" style="top:17px">
+                <table class="position-relative width-full top3 left7">
+                    <tbody>
+                        <tr>
+                            <td class="searchBox">
+                                <img class="position-relative top7 left7" src="/Content/Img/search.png" alt="Alternate Text">
+                                <input type="text" name="searchTextBox" id="searchTextBox" class="watermark searchBoxInput" title="Where would you like to golf?" value="Where would you like to golf?">
+                            </td>
+                            <td class="searchButton h38px w79px">
+                                
+                                    <a href="#"></a>
+                                
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>    
+            </form>    
+        </div>
+        <div class="position-relative w5plus">
+            
+    
+    
+<div class="nc-Header-Div" style="height:4px"></div>
+<div class="nc-BreadCrumb-Background width-full h30px ">
+        <div class="nc-BreadCrumb-Initial float-left h30px w3px"></div>
+        <div class="float-left h30px"><div class="float-left font-nintey pad6 bold" style="margin-top: 2px;"><a class="nc-darkgreen normal nounderline" href="/Home">Home</a></div><div class="nc-BreadCrumb-Separator float-left"></div><div class="float-left font-nintey pad6 bold" style="margin-top: 2px;">Privacy</div></div>
+        <div class="nc-BreadCrumb-Final float-right w3px h30px"></div>
+        <div class="float-right h30px"><a href="https://getsatisfaction.com/swingbyswing" target="_blank" class="noborder"><img class="noborder" style="margin-top: 2px;" src="/Content/Img/bc_Help.png" alt="Looking for help?"></a></div>
+    </div>
     <div class="pad5">
         <div class="w4 box-center">
             <br>
@@ -208,7 +313,23 @@
         <br class="clear">
     </div>
 
-            <div class="w5plus background-footer" style="height: 345px;">
+            
+        </div>
+
+        
+    </div>
+    <div class="position-absolute" style="top:0px; left: 0px;">
+        <a href="http://www.chucktheputter.com"><img src="/content/img/button-chuck-corner.png" class="noborder"></a>
+    </div>
+    <div class="position-absolute" style="top:240px; left: 0px;">
+        <a href="http://getsatisfaction.com/swingbyswing"><img src="/content/img/button-feedback-vertical.png" class="noborder"></a>
+    </div>
+    <div id="flag_course" class="position-absolute" style="left: 0px; top: 380px; display:none">
+    <a id="flag_this_course" href="#">
+    <img class="noborder" src="/content/img/nc_Flag.png" alt="Flag This Course">
+    </a>
+    </div>
+    <div id="main_footer" class="w5plus background-footer marginauto" style="height: 345px;">
                 <table class="width-full">
                     <tbody><tr valign="top">
                         <td class="width-half pad20">
@@ -254,10 +375,11 @@
                         </td>
                         <td class="width-half pad20">
                             <div class="darkgreen font-twohundred">Member Testimonials</div>
-                            <br clear="all">
+                           
                             <table class="width-full">
                                 <tbody><tr>
-                                    <td class="pad-left5 white font-nintey" colspan="2">The customer service from you all is top notch! I can't wait to get out on the course an use my new Looper membership. <br>- Jim</td>
+                                    <td class="pad-left5 white font-nintey" colspan="2">I downloaded this app the night before my tournament on a course I had never played, and the course has over 130 sand bunkers. Using this app I probably cut 6 to 8 strokes off and only went in one bunker all day. I won first and took home $560. Not bad for individual tournament. I love this app so much. <br>- Ethan</td>
+                                    
                                 </tr>
                                 <tr>
                                     <td colspan="2">&nbsp;</td>
@@ -280,7 +402,7 @@
                     </tr>
                 </tbody></table>
 
-                <div class="float-left position-absolute pad-left20 white font-nintey" style="bottom:20px;">
+                <div class="float-left position-relative pad-left20 white font-nintey">
                     <a href="/home/privacy" class="white-link">Privacy</a>
                     &nbsp;|&nbsp;
                     <a href="/home/tos" class="white-link">Terms &amp; Conditions</a>
@@ -290,54 +412,16 @@
                     <a href="/company/contactinfo" class="white-link">Customer Service</a>
                 </div>
 
-                <div class="position-absolute pad-right20 white font-nintey" style="bottom:20px; right:10px;">@2011-2012 Swing by Swing, All Rights Reserved</div>
+                <div class="position-relative pad-right20 white font-nintey float-left" style="left:300px;">@2011-2012 Swing by Swing, All Rights Reserved</div>
             </div>
-        </div>
-
-        <div class="position-absolute w5plus background-topmenu" style="height: 47px; top:89px;">
-            <table class="box-center" style="height: 100%;" id="topmenu">
-                <tbody><tr valign="bottom">
-                    <td>&nbsp;</td>
-                    <td class="w130px text-center pad-bottom5"><a href="/" class="black-link"><font class="font-onefifty">Home</font></a></td>
-                    <td class="background-menuseparator">&nbsp;</td>
-                    <td class="w130px text-center pad-bottom5"><a href="/product" class="black-link"><font class="font-onehundred">THE</font> <font class="font-onefifty">Product</font></a></td>
-                    <td class="background-menuseparator">&nbsp;</td>
-                    <td class="w130px text-center pad-bottom5"><a href="/courses" class="black-link"><font class="font-onehundred">THE</font> <font class="font-onefifty">Courses</font></a></td>
-                    <td class="background-menuseparator">&nbsp;</td>
-                    <td class="w130px text-center pad-bottom5"><a href="/contact" class="black-link"><font class="font-onefifty">Support</font></a></td>
-                                    <td class="background-menuseparator">&nbsp;</td>
-                    <td class="w130px text-center pad-bottom5"><a href="http://clubhouse.swingbyswing.com" class="black-link"><font class="font-onefifty">Clubhouse</font></a></td>
-                    <td>&nbsp;</td>
-                </tr>
-            </tbody></table>
-        </div>
-
-        <div class="position-absolute w5plus background-logo1" style="height:89px; top:0px;">            
-            <table id="loginlogoutbar">
-            <tbody><tr><td id="loginleft">&nbsp;</td>
-              <td>  
-
-<a href="/myaccount/login" class="gray-link">SIGN IN</a>&nbsp;&nbsp;|&nbsp;
-<a href="/myaccount/login" class="gray-link">SIGN UP</a>
-</td>
-            <td id="loginright">&nbsp;</td>
-            </tr></tbody></table>
-        </div>
-    </div>
-    <div class="position-absolute" style="top:0px; left: 0px;">
-        <a href="http://www.chucktheputter.com"><img src="/content/img/button-chuck-corner.png" class="noborder"></a>
-    </div>
-    <div class="position-absolute" style="top:240px; left: 0px;">
-        <a href="http://getsatisfaction.com/swingbyswing"><img src="/content/img/button-feedback-vertical.png" class="noborder"></a>
-    </div>
     <script language="javascript" type="text/javascript">
         $(document).ready(function () {
             var thispage = location.pathname.toLowerCase();
             var pieces = thispage.split('/');
-            
+
             if (pieces.length > 1)
                 thispage = "/" + pieces[1];
-            
+
             $('#topmenu td').removeClass('home');
             $('#topmenu a').each(function (c) {
 
@@ -357,6 +441,11 @@
                         $(this).parent().addClass('home2');
                 }
 
+                $('.login').removeClass("black-link");
+                $('.login').removeClass("white-link");
+                $('.login').parent().removeClass('home');
+                $('.login').parent().removeClass('home2');
+                $('.login').addClass('underlineMenu');
             });
 
 
