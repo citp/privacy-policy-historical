@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solium.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116022736id_/http%3A//www.solium.com/us/html/privacy_and_security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solium.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514050730id_/http%3A//www.solium.com/can_en/html/privacy_and_security.html) for the most accurate reproduction.*
 
 # Privacy & Security , Stock Plan Administration Software and Services | Solium Capital
 
