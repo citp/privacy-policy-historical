@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the routesonline.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115043909id_/http%3A//www.routesonline.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the routesonline.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515002826id_/http%3A//www.routesonline.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy :: Routesonline
 
@@ -82,7 +82,7 @@
 
 8 Your rights
 
-8.1 You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the form(s) we use to collect your data.  You can also exercise the right at any time by contacting us at [james.bland@routesonline.com](mailto:james.bland@routesonline.com)
+8.1 You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the form(s) we use to collect your data.  You can also exercise the right at any time by contacting us at [info@routesonline.com](mailto:info@routesonline.com)
 
 8.2 The Website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.
 
