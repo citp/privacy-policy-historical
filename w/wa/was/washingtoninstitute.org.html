@@ -1,432 +1,265 @@
-<!--The following is the downloaded HTML source of the washingtoninstitute.org privacy policy that was archived on 2009-08-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090830193631id_/http%3A//www.washingtoninstitute.org/templateC11b.php%3FCID%3D155) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the washingtoninstitute.org privacy policy that was archived on 2012-05-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120514060106id_/http%3A//www.washingtoninstitute.org/support/donor-privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>About the Bookstore</title>
-	<meta name="Keywords" content="Middle East, Near East Policy, Washington Institute, WINEP">
-	<meta name="Description" content="">
-	<script language="JavaScript" type="text/JavaScript" src="winep.js"></script>
-	<link rel="shortcut icon" type="image/ico" href="favicon.ico">
-<link rel="stylesheet" type="text/css" href="css/style.php">
-		<style type="text/css">
-		body{
-						background-image: url('../siteImages/global/bkg.gif');
-			background-repeat: repeat-y;
-						margin : 0;
-		}
-		</style>
-</head>
-<body>
-<script language="javascript">
-preloadNavImages();
-</script>
-
-
-<table cellpadding="0" cellspacing="0" border="0" width="765">
-<tbody><tr><td><table cellpadding="0" cellspacing="0" border="0" bgcolor="#223543" background="../siteImages/global/top_bg.jpg" width="765"><tbody><tr>
-	<td width="267" align="left"><a href="index.php"><img src="../siteImages/global/logo.jpg" width="267" height="55" alt="" border="0"></a>
-	</td><td align="right" valign="top"><table cellpadding="0" cellspacing="8" border="0" class="topLinks"><tbody><tr><td><a href="javascript:openCartWin('view', 'https://www.WashingtonInstitute.org/')">Shopping Cart</a>&nbsp;|&nbsp;<a href="templateC11b.php?CID=51">Customer Service</a>&nbsp;|&nbsp;<a href="http://arabic.washingtoninstitute.org/">الموقع العربي</a></td></tr></tbody></table></td></tr></tbody></table></td></tr>
-<tr><td>
-<img src="../siteImages/banners/bookstore_masthead.gif" width="765" height="73">
-</td></tr>
-<tr height="13"><td><img src="../siteImages/spacer.gif" width="765" height="13" alt="" border="0"></td></tr>
-</tbody></table>
-<table cellpadding="0" cellspacing="0" border="0" width="765">
-	<tbody><tr valign="top">
-		<td width="145" bgcolor="#D9DCBB">
-			<!-- danger, will robinson... totally NOT here -->
-	<script language="javascript">
-	// FUNCTIONS ===============================================
-	function toggleBookstoreNav(obj) {
-	  var el = document.getElementById(obj);
-	  if ( el.style.display != 'none' ) {
-	  	//collapse
-	    el.style.display = 'none';
-	    setCookie('bookStoreNav', 0);
-	  }
-	  else {
-	  	//expand
-	    el.style.display = '';
-	    setCookie('bookStoreNav', 1);
-	  }
-	}
-	
-	//set cookie with default values for domain, secure, and path
-	function setCookie(name, value) {
-		var curCookie = name + "=" + escape(value);
-		document.cookie = curCookie;
-	}
-	
-	//get cookie
-	function getCookie(name) {
-		var prefix = name + "="
-		var cookieStartIndex = document.cookie.indexOf(prefix)
-		if (cookieStartIndex == -1)
-			return null
-		var cookieEndIndex = document.cookie.indexOf(";", cookieStartIndex + prefix.length)
-		if (cookieEndIndex == -1)
-			cookieEndIndex = document.cookie.length
-		return unescape(document.cookie.substring(cookieStartIndex + prefix.length, cookieEndIndex))
-	}
-	
-	if(document.all && !document.getElementById) {
-    	document.getElementById = function(id) {
-        	return document.all[id];
-    	}
-	}
-	
-	// DEFINE SECTIONS ===========================================
-	
-	// an two-dimensional array of the name of the section, the corresponding
-	// image code, default whether it's expanded (1) or collapsed (0), and whether it's active or not.
-	var lsbSections = new Array (
-				["researchAreas", "rsrch_area", "1", "0"],
-		["researchPrograms", "rsrch_pgrm", "1", "0"],
-		["experts", "experts", "1", "0"],
-		["analysis", "analysis", "1", "0"],
-		["events", "events", "1", "0"],
-		// ["pressroom", "pressroom", "1", "0"],
-		// ["documentLibrary", "docs", "1", "0"],
-		["mapsGraphics", "maps", "1", "0"]
-		
-		/* EGM 09/26/2008 - Took out trustee link per client's request . also see similar cooment  below
-		, ["trusteeArea", "trustee", "1", "0"]		*/
-	);
-	
-	var upperLsbSections = new Array (
-		["aboutUs", "about", "0", "0"]
-	);	
-	
-	// now for each section name above, have an array of subnavs
-	// these are multi-dimension arrays of links, active then inactive
-	// must be the same as the NAME of the section in the lsbSections array
-	var researchAreas = new Array (
-		["templateI03.php?SID=3","Egypt","Egypt"],["templateI02.php?SID=6","Iran","Iran"],["templateI03.php?SID=7","Iraq","Iraq"],["templateI03.php?SID=5","Israel","Israel"],["templateI03.php?SID=8","Jordan","Jordan"],["templateI03.php?SID=22","Lebanon","Lebanon"],["templateI03.php?SID=19","North Africa","North Africa"],["templateI03.php?SID=9","Palestinians","Palestinians"],["templateI03.php?SID=10","Persian Gulf States","Persian Gulf States"],["templateI03.php?SID=21","Syria","Syria"],["templateI02.php?SID=12","Turkey","Turkey"],		["#","<table cellpadding=0 cellspacing=0 border=0 bgcolor='#AAAAAA' width='100%'><tr height=1><td><img src='../siteImages/spacer.gif' border='0'></tr></table>"],
-		["templateI02.php?SID=1","Arab and Islamic Politics","Arab and Islamic Politics"],["templateI02.php?SID=24","Battle of Ideas","Battle of Ideas"],["templateI03.php?SID=4","Energy and Economics","Energy and Economics"],["templateI02.php?SID=23","Gulf and Energy Policy","Gulf and Energy Policy"],["templateI02.php?SID=2","Military and Security","Military and Security"],["templateI02.php?SID=16","Peace Process","Peace Process"],["templateI03.php?SID=20","Proliferation","Proliferation"],["templateI02.php?SID=11","Terrorism","Terrorism"],["templateI03.php?SID=13","U.S. Policy","U.S. Policy"]	);
-	
-	var researchPrograms = new Array (
-	
-		["templateI02.php?SID=1","Program on Arab Politics","Program on Arab Politics"],
-		["templateI02.php?SID=23","Gulf and Energy Policy Program","Gulf and Energy Policy Program"],
-		["templateI02.php?SID=6","Iran Security Initiative","Iran Security Initiative"],
-		["templateI02.php?SID=16","Project on the Middle East Peace Process","Project on the Middle East Peace Process"],
-		["templateI02.php?SID=2","Military and Security Studies Program","Military and Security Studies Program"],
-		["templateI02.php?SID=24","Project Fikra","Project Fikra"],
-		["templateI02.php?SID=11","Stein Program on Counterterrorism and Intelligence","Stein Program on Counterterrorism and Intelligence"],
-		["templateI02.php?SID=12","Turkish Research Program","Turkish Research Program"]
-	);
-	
-	var analysis = new Array (
-		["templateI05.php?","PolicyWatch","PolicyWatch/PeaceWatch"],
-		["templateI04.php?type=Policy%20Focus","Policy Focus","Policy Focus"],
-		//["templateI05.php?","PeaceWatch","PolicyWatch/PeaceWatch"],
-		["templateI04.php?","Books","Bookstore"],
-		["templateI06.php?","Op-Eds & Articles","Op-Eds & Articles"],
-		["templateI14.php?","Congressional Testimony","Congressional Testimony"],
-		["templateI13.php?","Interviews and Presentations","Interviews and Presentations"]
-	);
-	
-	var events = new Array (
-		["templateI07.php?eventType=PolicyForum","Policy Forums","Policy Forums"],
-		//["templateI07.php?contentType=Events&subType1=eveType&subType2=Conference Keynotes","Conference Keynotes","Conference Keynotes"],
-		//["templateI07.php?contentType=Events&subType1=eveType&subType2=Special Events","Special Events","Special Events"]
-		
-		// this is where events used to link; acts like a hub instead of show all
-		 ["templateI07.php?eventType=Conference Keynotes","Conference Keynotes","Conference Keynotes"],
-		 ["templateI07.php?eventType=Special Events","Special Events","Special Events"]
-	);
-	
-	var pressroom = new Array (
-		["templateI15.php?","Press Room","Press Room"]
-	);
-	
-	var documentLibrary = new Array (
-		["templateI08m.php?","Browse Documents","Document Library"]
-	);
-
-	var mapsGraphics = new Array (
-		["templateI09.php?","Browse Maps & Graphics","Maps & Graphics"]
-	);
-	
-	var aboutUs = new Array (
-		["templateC11.php?CID=21","Director's Message","Director's Message"],["templateC11.php?CID=67","Our Mission","Our Mission"],["templateC11.php?CID=20","Our History","Our History"],["templateC11.php?CID=22","Our Programs","Our Programs"],["templateC11.php?CID=89","Our People","Our People"],["templateC11.php?CID=133","Board of Advisors","Board of Advisors"],["templateC11.php?CID=70","Fellowships & Internships","Fellowships & Internships"],["templateC11.php?CID=142","Contact Us ","Contact Us "],["templateC11.php?CID=38","Support Us","Support Us"]	);
-	
-	var experts = new Array (
-		["templateI10.php?order=name","List by Name","Experts by Name"],
-		["templateI10.php?","List by Expertise","Experts by Subject"]
-		,["templateC11.php?CID=66","Experts in the Media","Experts in the Media"]	);
-	
-	/* EGM 09/26/2008 - Took out trustee link per client's request - also see similar above
-	var trusteeArea = new Array (
-		["https://www.WashingtonInstitute.org/templateI12.php?","Trustee Login","Trustee Area"]	);
-	*/
-	
-	// END OF DEFINING THE SECTIONS ===================================
-	
-	function toggleSection(index, cookiename, itemState, sectionVarName, sectionIdName) {
-		//see if current is expanded (1) or collapsed (0)
-		var currentState = getCookie(cookiename);
-		if (currentState == null) {
-			currentState = itemState;
-		}
-		
-		if (currentState == "0") {
-			setCookie(cookiename,"1");
-		} else {
-			setCookie(cookiename,"0");
-		}
-		
-		 document.getElementById(sectionIdName).innerHTML = createLSB(sectionVarName, sectionIdName);
-	}
-	
-	//set to 0, collapsing the entire menu
-	function collapseAll() {
-		for (i=0; i<lsbSections.length; i++) {
-			setCookie(lsbSections[i][0],"0");
-		}
-	}
-	
-	//set to 1, expanding the entire menu
-	function expandAll() {
-		for (i=0; i<lsbSections.length; i++) {
-			setCookie(lsbSections[i][0],"1");
-		}
-	}
-	
-	function createLSB(sectionVarName, sectionIdName) {
-		var LSB = "";
-		var aSection = eval(sectionVarName);
-
-		for (i=0; i<aSection.length; i++) {
-			//get the name of this section (portion of the image name)
-			section = aSection[i][1];
-			// see if it should be expanded
-			var expanded = getCookie(aSection[i][0]);
-			if (expanded == null) {
-				expanded = aSection[i][2];
-				//expanded = ;
-			}
-			//print the section header
-			if (expanded == "0") {
-				LSB = LSB + "<a href=\"javascript:toggleSection('"+i+"','"+aSection[i][0]+"','"+aSection[i][2]+"','"+sectionVarName+"','"+sectionIdName+"')\"><img src='../siteImages/lsb/" + section + "_closed.gif' border=0 alt='Click to Expand'></a>";
-			} else {
-				//if it should be expanded, see if it's active, 
-				if (aSection[i][0] == "bookstore") {
-					//this is if it IS active
-					LSB = LSB + "<img src='../siteImages/lsb/" + section + "_active.gif' border=0>";
-					bgc = "#E7E7D6";
-				} else {
-					//this is if it's NOT active
-					LSB = LSB + "<a href=\"javascript:toggleSection('"+i+"','"+aSection[i][0]+"','"+aSection[i][2]+"','"+sectionVarName+"','"+sectionIdName+"')\"><img src='../siteImages/lsb/" + section + "_open.gif' border=0 alt='Click to Close'></a>";
-					bgc = "#DEDFBD";
-				}
-				// then get the subsection array and print it
-				LSB = LSB + "<table width='145' bgcolor='"+bgc+"' border='0' cellpadding='2' cellspacing='0' width='100%'><tr><td><table cellpadding='0' cellspacing='2' border='0' width='100%'>";
-				thisSubSection = eval(aSection[i][0]);
-				for (j=0; j<thisSubSection.length; j++) {
-					if (thisSubSection[j][2] == "Privacy/Security Policy") {
-						//if this is the current page, set the span to be LSB
-						LSBclass = "lsbOrange";						
-					} else {
-						//if this is NOT the current page, set the span to be LSBorange
-						LSBclass = "lsb";	
-					}
-					if(thisSubSection[j][0]=="trusteeVideo.php") {
-												LSB = LSB + "<tr><td><img src='../siteImages/spacer.gif' width=2 height=7 border=0'><td class='" + LSBclass + "'><a href='" + thisSubSection[j][0] + "&newActiveSubNav="+escape(thisSubSection[j][2])+"&activeSubNavLink="+escape(thisSubSection[j][0])+"&newActiveNav="+escape(aSection[i][0])+"'>" + thisSubSection[j][1] + "</a></tr>";
-						//LSB = LSB + "<tr><td><img src='../siteImages/spacer.gif' width=2 height=7 border=0'><td class='" + LSBclass + "'><a href='" + thisSubSection[j][0] + "'>"+thisSubSection[j][1]+"</a></tr>";
-					} else {
-												//print out the link
-						LSB = LSB + "<tr><td><img src='../siteImages/spacer.gif' width=2 height=7 border=0'><td class='" + LSBclass + "'><a href='" + thisSubSection[j][0] + "&newActiveSubNav="+escape(thisSubSection[j][2])+"&activeSubNavLink="+escape(thisSubSection[j][0])+"&newActiveNav="+escape(aSection[i][0])+"'>" + thisSubSection[j][1] + "</a></tr>";
-					}
-				}
-				LSB = LSB + "<tr height='1'><td><img src='../siteImages/spacer.gif' width=1 height=1 border=0'></tr></table></tr></table>";
-			}
-			
-		}
-		//LSB = LSB + "<a href='templateI01.php'><img src='../siteImages/lsb/home.gif' border=0 alt='Home'></a>";
-
-		return LSB;
-	}
-	
-	</script>
-	
-
-	
-<a href="http://arabic.washingtoninstitute.org/templateI01.php?portal=ar"><img src="../siteImages/lsb/LSBbox-dkblue.jpg" border="0"></a>
-<a href="templateC11.php?CID=479"><img src="../siteImages/lsb/book_closed.gif" border="0"></a>
-<table width="145" bgcolor="#FFFFFF" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td bgcolor="#FFFFFF"><img src="../siteImages/spacer.gif" width="145" height="7" border="0'"></td></tr></tbody></table><div id="upperLeftSideBar" name="upperLeftSideBar"><a href="javascript:toggleSection('0','aboutUs','0','upperLsbSections','upperLeftSideBar')"><img src="../siteImages/lsb/about_closed.gif" border="0" alt="Click to Expand"></a></div><table width="145" bgcolor="#FFFFFF" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td bgcolor="#FFFFFF"><img src="../siteImages/spacer.gif" width="145" height="7" border="0'"></td></tr></tbody></table><a href="#" onclick="toggleBookstoreNav('bookstore_nav');return false;"><img src="../siteImages/lsb/bookstore_open.gif" border="0"></a>
-<div id="bookstore_nav"><img src="../siteImages/lsb/bookstore_subject.gif" border="0">
-<table width="145" bgcolor="D5E5E5" border="0" cellpadding="2" cellspacing="0"><tbody><tr><td><table cellpadding="0" cellspacing="2" border="0" width="100%">
-<tbody><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI04.php?SID=3">Egypt</a></td></tr>
-<tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI04.php?SID=6">Iran</a></td></tr>
-<tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI04.php?SID=7">Iraq</a></td></tr>
-<tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI04.php?SID=5">Israel</a></td></tr>
-<tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI04.php?SID=8">Jordan</a></td></tr>
-<tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI04.php?SID=22">Lebanon</a></td></tr>
-<tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI04.php?SID=19">North Africa</a></td></tr>
-<tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI04.php?SID=9">Palestinians</a></td></tr>
-<tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI04.php?SID=10">Persian Gulf States</a></td></tr>
-<tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI04.php?SID=21">Syria</a></td></tr>
-<tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI04.php?SID=12">Turkey</a></td></tr>
-<tr height="2"><td colspan="2"><img src="../siteImages/spacer.gif" border="0" width="1" height="2"></td></tr>
-<tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI04.php?SID=1">Arab and Islamic Politics</a></td></tr>
-<tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI04.php?SID=24">Battle of Ideas</a></td></tr>
-<tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI04.php?SID=4">Energy and Economics</a></td></tr>
-<tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI04.php?SID=23">Gulf and Energy Policy</a></td></tr>
-<tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI04.php?SID=2">Military and Security</a></td></tr>
-<tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI04.php?SID=16">Peace Process</a></td></tr>
-<tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI04.php?SID=20">Proliferation</a></td></tr>
-<tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI04.php?SID=11">Terrorism</a></td></tr>
-<tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI04.php?SID=13">U.S. Policy</a></td></tr>
-<tr height="1"><td><img src="../siteImages/spacer.gif" width="1" height="1" border="0'"></td></tr></tbody></table></td></tr></tbody></table>
-<img src="../siteImages/lsb/bookstore_series.gif" border="0">
-<table width="145" bgcolor="D5E5E5" border="0" cellpadding="2" cellspacing="0"><tbody><tr><td><table cellpadding="0" cellspacing="2" border="0" width="100%">
-<tbody><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI04.php?type=Conference Proceedings">Conference Proceedings</a></td></tr>
-<tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI04.php?type=Military Research Papers">Military Research Papers</a></td></tr>
-<tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI04.php?type=Monographs and Special Studies">Monographs and Special Studies</a></td></tr>
-<tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI04.php?type=PeaceWatch/PolicyWatch Anthologies">PeaceWatch/PolicyWatch Anthologies</a></td></tr>
-<tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI04.php?type=Policy Focus">Policy Focus</a></td></tr>
-<tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI04.php?type=Policy Papers">Policy Papers</a></td></tr>
-<tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI04.php?type=Presidential Study Group Reports">Presidential Study Group Reports</a></td></tr>
-<tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI04.php?type=Research Notes">Research Notes</a></td></tr>
-<tr height="1"><td><img src="../siteImages/spacer.gif" width="1" height="1" border="0'"></td></tr></tbody></table></td></tr></tbody></table>
-<img src="../siteImages/lsb/bookstore_about.gif" border="0">
-<table width="145" bgcolor="D5E5E5" border="0" cellpadding="2" cellspacing="0"><tbody><tr><td><table cellpadding="0" cellspacing="2" border="0" width="100%">
-<tbody><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateC11b.php?CID=156">Our Publications</a></td></tr>
-<tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateC11b.php?CID=51">Customer Service</a></td></tr>
-<tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateC11b.php?CID=154">Rights and Permissions</a></td></tr>
-<tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateC11b.php?CID=155">Privacy/Security Policy</a></td></tr>
-<tr height="1"><td><img src="../siteImages/spacer.gif" width="1" height="1" border="0'"></td></tr></tbody></table></td></tr></tbody></table>
-</div><div id="leftSideBar" name="leftSideBar"><a href="javascript:toggleSection('0','researchAreas','1','lsbSections','leftSideBar')"><img src="../siteImages/lsb/rsrch_area_open.gif" border="0" alt="Click to Close"></a><table width="145" bgcolor="#DEDFBD" border="0" cellpadding="2" cellspacing="0"><tbody><tr><td><table cellpadding="0" cellspacing="2" border="0" width="100%"><tbody><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI03.php?SID=3&amp;newActiveSubNav=Egypt&amp;activeSubNavLink=templateI03.php%3FSID%3D3&amp;newActiveNav=researchAreas">Egypt</a></td></tr><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI02.php?SID=6&amp;newActiveSubNav=Iran&amp;activeSubNavLink=templateI02.php%3FSID%3D6&amp;newActiveNav=researchAreas">Iran</a></td></tr><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI03.php?SID=7&amp;newActiveSubNav=Iraq&amp;activeSubNavLink=templateI03.php%3FSID%3D7&amp;newActiveNav=researchAreas">Iraq</a></td></tr><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI03.php?SID=5&amp;newActiveSubNav=Israel&amp;activeSubNavLink=templateI03.php%3FSID%3D5&amp;newActiveNav=researchAreas">Israel</a></td></tr><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI03.php?SID=8&amp;newActiveSubNav=Jordan&amp;activeSubNavLink=templateI03.php%3FSID%3D8&amp;newActiveNav=researchAreas">Jordan</a></td></tr><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI03.php?SID=22&amp;newActiveSubNav=Lebanon&amp;activeSubNavLink=templateI03.php%3FSID%3D22&amp;newActiveNav=researchAreas">Lebanon</a></td></tr><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI03.php?SID=19&amp;newActiveSubNav=North%20Africa&amp;activeSubNavLink=templateI03.php%3FSID%3D19&amp;newActiveNav=researchAreas">North Africa</a></td></tr><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI03.php?SID=9&amp;newActiveSubNav=Palestinians&amp;activeSubNavLink=templateI03.php%3FSID%3D9&amp;newActiveNav=researchAreas">Palestinians</a></td></tr><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI03.php?SID=10&amp;newActiveSubNav=Persian%20Gulf%20States&amp;activeSubNavLink=templateI03.php%3FSID%3D10&amp;newActiveNav=researchAreas">Persian Gulf States</a></td></tr><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI03.php?SID=21&amp;newActiveSubNav=Syria&amp;activeSubNavLink=templateI03.php%3FSID%3D21&amp;newActiveNav=researchAreas">Syria</a></td></tr><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI02.php?SID=12&amp;newActiveSubNav=Turkey&amp;activeSubNavLink=templateI02.php%3FSID%3D12&amp;newActiveNav=researchAreas">Turkey</a></td></tr><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="#&amp;newActiveSubNav=undefined&amp;activeSubNavLink=%23&amp;newActiveNav=researchAreas"><table cellpadding="0" cellspacing="0" border="0" bgcolor="#AAAAAA" width="100%"><tbody><tr height="1"><td><img src="../siteImages/spacer.gif" border="0"></td></tr></tbody></table></a></td></tr><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI02.php?SID=1&amp;newActiveSubNav=Arab%20and%20Islamic%20Politics&amp;activeSubNavLink=templateI02.php%3FSID%3D1&amp;newActiveNav=researchAreas">Arab and Islamic Politics</a></td></tr><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI02.php?SID=24&amp;newActiveSubNav=Battle%20of%20Ideas&amp;activeSubNavLink=templateI02.php%3FSID%3D24&amp;newActiveNav=researchAreas">Battle of Ideas</a></td></tr><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI03.php?SID=4&amp;newActiveSubNav=Energy%20and%20Economics&amp;activeSubNavLink=templateI03.php%3FSID%3D4&amp;newActiveNav=researchAreas">Energy and Economics</a></td></tr><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI02.php?SID=23&amp;newActiveSubNav=Gulf%20and%20Energy%20Policy&amp;activeSubNavLink=templateI02.php%3FSID%3D23&amp;newActiveNav=researchAreas">Gulf and Energy Policy</a></td></tr><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI02.php?SID=2&amp;newActiveSubNav=Military%20and%20Security&amp;activeSubNavLink=templateI02.php%3FSID%3D2&amp;newActiveNav=researchAreas">Military and Security</a></td></tr><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI02.php?SID=16&amp;newActiveSubNav=Peace%20Process&amp;activeSubNavLink=templateI02.php%3FSID%3D16&amp;newActiveNav=researchAreas">Peace Process</a></td></tr><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI03.php?SID=20&amp;newActiveSubNav=Proliferation&amp;activeSubNavLink=templateI03.php%3FSID%3D20&amp;newActiveNav=researchAreas">Proliferation</a></td></tr><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI02.php?SID=11&amp;newActiveSubNav=Terrorism&amp;activeSubNavLink=templateI02.php%3FSID%3D11&amp;newActiveNav=researchAreas">Terrorism</a></td></tr><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI03.php?SID=13&amp;newActiveSubNav=U.S.%20Policy&amp;activeSubNavLink=templateI03.php%3FSID%3D13&amp;newActiveNav=researchAreas">U.S. Policy</a></td></tr><tr height="1"><td><img src="../siteImages/spacer.gif" width="1" height="1" border="0'"></td></tr></tbody></table></td></tr></tbody></table><a href="javascript:toggleSection('1','researchPrograms','1','lsbSections','leftSideBar')"><img src="../siteImages/lsb/rsrch_pgrm_open.gif" border="0" alt="Click to Close"></a><table width="145" bgcolor="#DEDFBD" border="0" cellpadding="2" cellspacing="0"><tbody><tr><td><table cellpadding="0" cellspacing="2" border="0" width="100%"><tbody><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI02.php?SID=1&amp;newActiveSubNav=Program%20on%20Arab%20Politics&amp;activeSubNavLink=templateI02.php%3FSID%3D1&amp;newActiveNav=researchPrograms">Program on Arab Politics</a></td></tr><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI02.php?SID=23&amp;newActiveSubNav=Gulf%20and%20Energy%20Policy%20Program&amp;activeSubNavLink=templateI02.php%3FSID%3D23&amp;newActiveNav=researchPrograms">Gulf and Energy Policy Program</a></td></tr><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI02.php?SID=6&amp;newActiveSubNav=Iran%20Security%20Initiative&amp;activeSubNavLink=templateI02.php%3FSID%3D6&amp;newActiveNav=researchPrograms">Iran Security Initiative</a></td></tr><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI02.php?SID=16&amp;newActiveSubNav=Project%20on%20the%20Middle%20East%20Peace%20Process&amp;activeSubNavLink=templateI02.php%3FSID%3D16&amp;newActiveNav=researchPrograms">Project on the Middle East Peace Process</a></td></tr><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI02.php?SID=2&amp;newActiveSubNav=Military%20and%20Security%20Studies%20Program&amp;activeSubNavLink=templateI02.php%3FSID%3D2&amp;newActiveNav=researchPrograms">Military and Security Studies Program</a></td></tr><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI02.php?SID=24&amp;newActiveSubNav=Project%20Fikra&amp;activeSubNavLink=templateI02.php%3FSID%3D24&amp;newActiveNav=researchPrograms">Project Fikra</a></td></tr><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI02.php?SID=11&amp;newActiveSubNav=Stein%20Program%20on%20Counterterrorism%20and%20Intelligence&amp;activeSubNavLink=templateI02.php%3FSID%3D11&amp;newActiveNav=researchPrograms">Stein Program on Counterterrorism and Intelligence</a></td></tr><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI02.php?SID=12&amp;newActiveSubNav=Turkish%20Research%20Program&amp;activeSubNavLink=templateI02.php%3FSID%3D12&amp;newActiveNav=researchPrograms">Turkish Research Program</a></td></tr><tr height="1"><td><img src="../siteImages/spacer.gif" width="1" height="1" border="0'"></td></tr></tbody></table></td></tr></tbody></table><a href="javascript:toggleSection('2','experts','1','lsbSections','leftSideBar')"><img src="../siteImages/lsb/experts_open.gif" border="0" alt="Click to Close"></a><table width="145" bgcolor="#DEDFBD" border="0" cellpadding="2" cellspacing="0"><tbody><tr><td><table cellpadding="0" cellspacing="2" border="0" width="100%"><tbody><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI10.php?order=name&amp;newActiveSubNav=Experts%20by%20Name&amp;activeSubNavLink=templateI10.php%3Forder%3Dname&amp;newActiveNav=experts">List by Name</a></td></tr><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI10.php?&amp;newActiveSubNav=Experts%20by%20Subject&amp;activeSubNavLink=templateI10.php%3F&amp;newActiveNav=experts">List by Expertise</a></td></tr><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateC11.php?CID=66&amp;newActiveSubNav=Experts%20in%20the%20Media&amp;activeSubNavLink=templateC11.php%3FCID%3D66&amp;newActiveNav=experts">Experts in the Media</a></td></tr><tr height="1"><td><img src="../siteImages/spacer.gif" width="1" height="1" border="0'"></td></tr></tbody></table></td></tr></tbody></table><a href="javascript:toggleSection('3','analysis','1','lsbSections','leftSideBar')"><img src="../siteImages/lsb/analysis_open.gif" border="0" alt="Click to Close"></a><table width="145" bgcolor="#DEDFBD" border="0" cellpadding="2" cellspacing="0"><tbody><tr><td><table cellpadding="0" cellspacing="2" border="0" width="100%"><tbody><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI05.php?&amp;newActiveSubNav=PolicyWatch/PeaceWatch&amp;activeSubNavLink=templateI05.php%3F&amp;newActiveNav=analysis">PolicyWatch</a></td></tr><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI04.php?type=Policy%20Focus&amp;newActiveSubNav=Policy%20Focus&amp;activeSubNavLink=templateI04.php%3Ftype%3DPolicy%2520Focus&amp;newActiveNav=analysis">Policy Focus</a></td></tr><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI04.php?&amp;newActiveSubNav=Bookstore&amp;activeSubNavLink=templateI04.php%3F&amp;newActiveNav=analysis">Books</a></td></tr><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI06.php?&amp;newActiveSubNav=Op-Eds%20%26%20Articles&amp;activeSubNavLink=templateI06.php%3F&amp;newActiveNav=analysis">Op-Eds &amp; Articles</a></td></tr><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI14.php?&amp;newActiveSubNav=Congressional%20Testimony&amp;activeSubNavLink=templateI14.php%3F&amp;newActiveNav=analysis">Congressional Testimony</a></td></tr><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI13.php?&amp;newActiveSubNav=Interviews%20and%20Presentations&amp;activeSubNavLink=templateI13.php%3F&amp;newActiveNav=analysis">Interviews and Presentations</a></td></tr><tr height="1"><td><img src="../siteImages/spacer.gif" width="1" height="1" border="0'"></td></tr></tbody></table></td></tr></tbody></table><a href="javascript:toggleSection('4','events','1','lsbSections','leftSideBar')"><img src="../siteImages/lsb/events_open.gif" border="0" alt="Click to Close"></a><table width="145" bgcolor="#DEDFBD" border="0" cellpadding="2" cellspacing="0"><tbody><tr><td><table cellpadding="0" cellspacing="2" border="0" width="100%"><tbody><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI07.php?eventType=PolicyForum&amp;newActiveSubNav=Policy%20Forums&amp;activeSubNavLink=templateI07.php%3FeventType%3DPolicyForum&amp;newActiveNav=events">Policy Forums</a></td></tr><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI07.php?eventType=Conference Keynotes&amp;newActiveSubNav=Conference%20Keynotes&amp;activeSubNavLink=templateI07.php%3FeventType%3DConference%20Keynotes&amp;newActiveNav=events">Conference Keynotes</a></td></tr><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI07.php?eventType=Special Events&amp;newActiveSubNav=Special%20Events&amp;activeSubNavLink=templateI07.php%3FeventType%3DSpecial%20Events&amp;newActiveNav=events">Special Events</a></td></tr><tr height="1"><td><img src="../siteImages/spacer.gif" width="1" height="1" border="0'"></td></tr></tbody></table></td></tr></tbody></table><a href="javascript:toggleSection('5','mapsGraphics','1','lsbSections','leftSideBar')"><img src="../siteImages/lsb/maps_open.gif" border="0" alt="Click to Close"></a><table width="145" bgcolor="#DEDFBD" border="0" cellpadding="2" cellspacing="0"><tbody><tr><td><table cellpadding="0" cellspacing="2" border="0" width="100%"><tbody><tr><td><img src="../siteImages/spacer.gif" width="2" height="7" border="0'"></td><td class="lsb"><a href="templateI09.php?&amp;newActiveSubNav=Maps%20%26%20Graphics&amp;activeSubNavLink=templateI09.php%3F&amp;newActiveNav=mapsGraphics">Browse Maps &amp; Graphics</a></td></tr><tr height="1"><td><img src="../siteImages/spacer.gif" width="1" height="1" border="0'"></td></tr></tbody></table></td></tr></tbody></table>
+<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><!-- ================	 _document-head.haml --><head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+<title>Donor Privacy Policy - The Washington Institute for Near East Policy</title>
+<meta content="" name="description">
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no" name="viewport">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link href="/css/main.css" media="screen" rel="stylesheet">
+<link href="/css/A.print.css.pagespeed.cf.e8o-GeiQjA.css" media="print" rel="stylesheet">
+<!-- The following script detects browser resolution so we can adjust images appropriately. -->
+<script async="" src="//ssl.google-analytics.com/ga.js"></script><script>document.cookie='resolution='+screen.width+'; path=/';</script>
+<!-- Back to your regularly scheduled javascripting. -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+<script type="text/javascript">window.jQuery||document.write("<script src='js/libs/jquery-1.7.2.min.js'>\x3C/script>")</script><script src="js/libs/jquery-1.7.2.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+<script src="/js/libs/jquery.tools.min.js.pagespeed.jm.FOC_39ohIh.js"></script>
+<script src="/js/plugins.js.pagespeed.jm.ZH82McRqr3.js" type="text/javascript"></script>
+<script src="/js/script.js.pagespeed.jm._Ia0Etkgxw.js" type="text/javascript"></script>
+<script type="text/javascript">(function(){var megamenuPrepare,mobilemenuPrepare,openMegamenu;openMegamenu=function(event){var $li,$t,megamenus,target,targetmenu;event.preventDefault();$t=$(this);target=$t.data("target");$li=$("[data-target="+target+"]").parent("li");megamenus=$(".megamenu");targetmenu=$(".megamenu#"+target);if(targetmenu.is(":visible")){targetmenu.slideUp('fast');if(!($("body").is(".home"))){$('.spacer').show();}
+$li.removeClass("active");}else{megamenus.filter(":visible").slideUp('fast');$('.spacer').hide();targetmenu.slideDown('fast');$li.siblings().removeClass("active");$li.addClass("active");}};megamenuPrepare=function(){var lists,megamenu;megamenu=$(".megamenu");lists=megamenu.find(".menu");if(screen.width>=JSBracket){lists.each(function(index,item){var items,midpoint,sublist;items=$(item).find("li");midpoint=Math.ceil(items.size()/2);sublist=items.slice(midpoint);$(item).after('<ul class="'+$(item).attr("class")+'">');return $(item).next("ul").append(sublist);});}
+$("a[data-target]").click(openMegamenu);megamenu.hide();};mobilemenuPrepare=function(){var $menuitems;$menuitems=$(".main-nav li:hidden").clone();$menuitems.find("a").addClass("arrow-onleft");$("#mobile-menu nav ul").append($menuitems);};$(document).ready(function(){mobilemenuPrepare();megamenuPrepare();});}).call(this);</script>
+<script type="text/javascript">(function(){var prepareListToggle;prepareListToggle=function(){$("#listView").hide();$("#photoListControl").addClass("inactive-link");$("#photoListControl").click(function(event){event.preventDefault();$(this).addClass("inactive-link");$("#alphaListControl").removeClass("inactive-link");$("#listView").slideUp();return $("#photoView").slideDown();});$("#alphaListControl").click(function(event){event.preventDefault();$(this).addClass("inactive-link");$("#photoListControl").removeClass("inactive-link");$("#listView").slideDown();return $("#photoView").slideUp();});};$(document).ready(function(){return prepareListToggle();});}).call(this);</script>
+<script src="/js/mediaelement/mediaelement-and-player.min.js.pagespeed.jm.895ac0WUko.js"></script>
+<script>$().ready(function(){if($(".pronunciation").length>0){playingPronunciation=false;$pronunciation=new MediaElementPlayer(".pronunciation",{success:function(mediaElement,domObject){mediaElement.addEventListener('ended',function(){playingPronunciation=false});mediaElement.addEventListener('pause',function(){playingPronunciation=false});mediaElement.addEventListener('play',function(){playingPronunciation=true});}});$('.pronounce-play').click(function(event){event.preventDefault();if(playingPronunciation){$pronunciation.pause();}else{$pronunciation.play();}});}
+$mm=$("video:not(.pronunciation),audio:not(.pronunciation)");screenWidth=screen.width;screenWidth=(screenWidth>480)?-1:screenWidth-36;screenHeight=(screenWidth==-1)?-1:screenWidth*.5625;if($mm.length>0){$mm.mediaelementplayer({audioWidth:200,videoWidth:screenWidth,videoHeight:screenHeight,iPhoneUseNativeControls:true,iPadUseNativeControls:true});}});</script>
+<link href="/js/mediaelement/A.mediaelementplayer.css.pagespeed.cf.bkPGNX32tC.css" rel="stylesheet">
+<!--[if lt IE 9]>
+		<script src="/js/html5shiv.js"></script>
+		<![endif]-->
+<!-- This page is the typical layout style -->
+<!-- It has several variants based on page classes: -->
+<!-- "sidebar", "browsebar", or "sidebar browsebar" -->
+</head><body class="sidebar">
+<!--PICOSEARCH_SKIPTEXTSTART-->
+<!-- ================	 _header.haml -->
+<header>
+<div class="inner">
+<a class="logo-circle" href="/">Ideas. Action. Impact. The Washington Institute for Near East Policy</a>
+<a class="logo-text" href="/">The Washington Institute: Improving the Quality of U.S. Middle East Policy</a>
+<ul class="no-decoration languages">
+<li><a lang="ar" href="/ar/">اللغة العربية</a></li>
+</ul>
+<form method="post" action="/search/results/">
+<!-- Begin PicoSearch Query Box -->
+<input type="hidden" name="index" value="523313">
+<input type="text" name="query" placeholder="Search the website" value="">
+<input type="submit" value="Go" name="search">
+</form>
+<nav class="main-nav">
+<ul>
+<li class="home "><a href="/"><span class="home">Home</span></a></li>
+<li class="policy-analysis "><a data-target="policy-analysis" href="#"><span class="policy-analysis">Policy Analysis</span></a></li>
+<li class="experts "><a href="/experts"><span class="experts">Experts</span></a></li>
+<li class="press-room "><a href="/press-room"><span class="press-room">Press Room</span></a></li>
+<li class="about "><a href="/about"><span class="about">About</span></a></li>
+<li class="support "><a href="/support"><span class="support">Support</span></a></li>
+<li class="menu mobile-only "><a data-target="mobile-menu" href="#"><span class="menu mobile-only">Menu</span></a></li>
+</ul>
+</nav>
 </div>
-<div><a href="templateI01.php"><img src="../siteImages/lsb/home.gif" border="0" alt="Home"></a></div>
-<table cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF"><tbody><tr><td><img src="../siteImages/spacer.gif" width="145" height="7" border="0"></td></tr></tbody></table>
-		</td>
-		<td width="27"><img src="../siteImages/spacer.gif" width="27" height="1">		</td><td class="default" width="418">
-			<span class="breadcrumb"><a href="templateI01.php">Home</a> &gt; Privacy/Security Policy<br><img src="../siteImages/spacer.gif" width="<?=418?>" height="25"><br></span>			<!-- center content -->
-			<span class="pageTitle">Privacy/Security Policy</span><br><br>The information we gather and receive from our customers helps us personalize and continually improve your shopping experience at the Bookstore. We receive and store certain information you enter on our website or provide to us in other ways. We use this information for purposes such as processing and fulfilling your orders, communicating with you and improving the Bookstore. <br>
-<br><br>
-<strong>COOKIES<br>
-</strong><br>
-Like many websites, we use �cookies� to keep 
-track of the items you've added to your cart as you're shopping. Cookies are small text files written into the browser�s memory or hard drive for this specific purpose. Each server can only read the files it left behind in a particular browser. The information stored in the cookies does not reveal any detail about your store access, purchase, or any other customer information.<br>
+</header>
+<!-- ================	 _header.haml -->
+<!--PICOSEARCH_SKIPTEXTEND-->
+<div class="wrapper">
+<div class="wrapper-outer">
+<div class="wrapper-inner">
+<div class="container">
+<div class="container-grid" dir="ltr">
+<!-- ================	 _megamenu.haml -->
+<!--PICOSEARCH_SKIPTEXTSTART-->
+<div class="megamenu" id="policy-analysis">
+<div class="content">
+<div class="group">
+<section>
+<header>
+<h4 class="header-a close">Issues</h4>
+</header>
+<nav>
+<ul class="menu no-decoration linkstyle-subdued">
+<li><a class="arrow-onleft decoration-firstline" href="/policy-analysis/topic/arab-and-islamic-politics">Arab and Islamic Politics</a></li>
+<li><a class="arrow-onleft decoration-firstline" href="/policy-analysis/topic/arab-israeli-relations">Arab-Israeli Relations</a></li>
+<li><a class="arrow-onleft decoration-firstline" href="/policy-analysis/topic/democracy-and-reform">Democracy and Reform</a></li>
+<li><a class="arrow-onleft decoration-firstline" href="/policy-analysis/topic/energy-and-economics">Energy and Economics</a></li>
+<li><a class="arrow-onleft decoration-firstline" href="/policy-analysis/topic/gulf-and-energy-policy">Gulf and Energy Policy</a></li>
+<li><a class="arrow-onleft decoration-firstline" href="/policy-analysis/topic/military-and-security">Military and Security</a></li>
+<li><a class="arrow-onleft decoration-firstline" href="/policy-analysis/topic/peace-process">Peace Process</a></li>
+<li><a class="arrow-onleft decoration-firstline" href="/policy-analysis/topic/proliferation">Proliferation</a></li>
+<li><a class="arrow-onleft decoration-firstline" href="/policy-analysis/topic/terrorism">Terrorism</a></li>
+<li><a class="arrow-onleft decoration-firstline" href="/policy-analysis/topic/u.s.-policy">U.S. Policy</a></li>
+</ul>
+</nav>
+</section>
+<section>
+<header>
+<h4 class="header-a close">Regions</h4>
+</header>
+<nav>
+<ul class="menu no-decoration linkstyle-subdued">
+<li><a class="arrow-onleft decoration-firstline" href="/policy-analysis/topic/egypt">Egypt</a></li>
+<li><a class="arrow-onleft decoration-firstline" href="/policy-analysis/topic/iran">Iran</a></li>
+<li><a class="arrow-onleft decoration-firstline" href="/policy-analysis/topic/iraq">Iraq</a></li>
+<li><a class="arrow-onleft decoration-firstline" href="/policy-analysis/topic/israel">Israel</a></li>
+<li><a class="arrow-onleft decoration-firstline" href="/policy-analysis/topic/jordan">Jordan</a></li>
+<li><a class="arrow-onleft decoration-firstline" href="/policy-analysis/topic/lebanon">Lebanon</a></li>
+<li><a class="arrow-onleft decoration-firstline" href="/policy-analysis/topic/north-africa">North Africa</a></li>
+<li><a class="arrow-onleft decoration-firstline" href="/policy-analysis/topic/palestinians">Palestinians</a></li>
+<li><a class="arrow-onleft decoration-firstline" href="/policy-analysis/topic/persian-gulf-states">Persian Gulf States</a></li>
+<li><a class="arrow-onleft decoration-firstline" href="/policy-analysis/topic/syria">Syria</a></li>
+<li><a class="arrow-onleft decoration-firstline" href="/policy-analysis/topic/turkey">Turkey</a></li>
+</ul>
+</nav>
+</section>
+<div class="buttons small">
+<a class="button" href="/policy-analysis">Browse All Analysis</a>
+<a class="button" href="/about/research-programs">Research Programs</a>
+</div>
+</div>
+<div class="double hr-dark">
+<hr>
+</div>
+<p class="centertext header-b"><a class="collapse" data-target="policy-analysis" href="#"><span>Close</span></a></p>
+</div>
+</div>
+<div class="megamenu" id="mobile-menu">
+<div class="content">
+<div class="group">
+<section>
+<header>
+<h4 class="header-a close">Other Pages</h4>
+</header>
+<nav>
+<ul class="menu no-decoration linkstyle-subdued">
+</ul>
+</nav>
+</section>
+</div>
+</div>
+</div>
+<!-- ================	 _megamenu.haml -->
+<!--PICOSEARCH_SKIPTEXTEND-->
+<div class="spacer"></div>
+<!-- - This page style has its own header, which is not part of the standard template -->
+<header class="standard-header">
+<h1 class="title-bar">Donor Privacy Policy</h1>
+</header>
+<!-- - featured content follows -->
+<div class="content-wrapper ">
+<div class="content-container group">
+<div class="main">
+<article class="default-headers">
+<p>
 <br>
-You can examine and delete the cookie files on your computer at any time. The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. <br>
-<br><br>
-<strong>PERSONAL INFORMATION AND PRIVACY<br>
-</strong><br>
-<span class="highlight">Financial Information.</span>�Your personal financial information and credit card details are never revealed to any third party except our bank and yours to the extent necessary to process and complete your transaction. <br>
-<br>
-<span class="highlight">E-Mail Addresses.</span>�We collect email addresses when a customer purchases a book from us online only to facilitate orders. We don�t sell, trade, or share email addresses with third parties. <br>
-<br>
-<span class="highlight">Other Personal Information.</span>�In connection with processing your order, we may collect other personal information about you, such as your address. For example, when a customer purchases a book from us, his or her name and street address are stored in our order processing system, and the customer may receive follow-up mailings from us with information on their order.<br>
-<br>
-<span class="highlight">Children.</span>�We do not sell products to children. Accordingly, we do not collect information about children. <br>
-<br>
-<span class="highlight">Legal Compliance and Fraud Prevention.</span>�We release account and other personal information when we believe release is appropriate to comply with the law or to enforce our terms of use. We may also exchange information with other organizations for fraud protection and credit risk reduction.<br>
-<br><br>
-<strong>TYPES OF INFORMATION WE COLLECT<br>
-</strong><br>
-You provide personal information to us when you search, buy, or communicate with us through the Bookstore. For example, you provide information when you search for a product, place an order through the Bookstore, or provide information about yourself.<br>
-<br>
-We also collect certain information automatically when you visit the Bookstore. Examples of the information we may automatically collect and analyze include your purchase history, the internet protocol (IP) address used to connect your computer to the internet, and information about your computer and connection such as browser type and version, operating system, and platform.<br>
-<br>
-Finally, we may receive and store information about you that we receive from third parties. Examples of information we may receive from third parties include delivery information from our carriers and financial information from banks. We use this third party information only to maintain our records, process orders, and deliver your purchase.<br>
-<br><br>
-<strong>SECURITY</strong><br><br>
-Orders placed in this online bookstore are secured using the standard Web encryption technology called Secure Sockets Layer (SSL). The personal information you provide and your credit card information are transmitted in encrypted form, never in clear text. This ensures that any information traveling between your browser and the web server is protected from being read by those who might attempt to intercept the transmission. The identity of our Bookstore site is vouched for by digital certificates issued by Pair Networks.<br>
-<br><br>
-<strong>TERMS OF USE, NOTICES, and REVISIONS<br>
-</strong><br>
-If you choose to visit the Bookstore, your visit and any dispute over privacy is subject to this Privacy/Security Policy and our terms of use, including limitations on damages and the resolution of disputes. If you have any concern about privacy at the Bookstore, please�<a href="templateC11.php?CID=24&amp;emailFor=Steve%20Linn">contact us</a>�with a thorough description, and we will try to resolve it.� <insert link="link"><br>
-<br><br>
-<strong>SAFEGUARDING YOUR PRIVACY<br>
-</strong><br>
-In spite of the precautions we take to protect your information, it is equally important for you to protect against unauthorized access to your personal information, financial information, passwords, and computer. Keep all information stored in a safe place, do not provide your personal information to anyone else, and be sure to sign off when finished using a shared computer.<br>
-<br>
-The Federal Trade Commission provides useful information about online privacy on its own website,�<a href="http://www.ftc.gov/bcp/conline/pubs/online/sitesee.htm">Site Seeing on the Internet</a>. <br>
-<br><br>
-<strong>CHANGES AND UPDATES</strong><br>
-<br>
-The Washington Institute for Near East Policy reserves the right to modify or amend this policy at any time by posting the revised policy on our website. If you have any questions regarding our Privacy/Security Policy, please�<a href="templateC11.php?CID=24&amp;emailFor=Steve%20Linn">contact us</a>. <insert link="link">
-<br><br><br><br>			<!-- end center content -->
-		</insert></insert></td>
-		<td width="18"><img src="../siteImages/spacer.gif" width="18" height="1">		</td><td width="155">
-			<!-- right side bar -->
-			<table cellpadding="0" cellspacing="0" border="0" width="155">
-			
-
-<tbody><tr><td><img src="../siteImages/spacer.gif" width="155" height="12"></td></tr>
-
-<tr><td>
-	<table cellpadding="0" cellspacing="0" border="0" width="155" bgcolor="#DEDFBD" class="rsbBigger">
-	<tbody><tr><form action="templateS02.php?searchType=Basic&amp;SortOrder=Score DESC, ppwIssueNumber DESC&amp;R=0&amp;recordsPerPage=30" method="get"></form>
-		<input type="hidden" name="hereviasearch" value="yes"> 
-		<td colspan="2">
-		<img src="../siteImages/rsb/rsb_search.gif" width="155" height="20" alt="" border="0">
-		
-	</td></tr>
-	<tr height="3">
-		<td colspan="2"><img src="../siteImages/spacer.gif" width="155" height="3" alt="" border="0">
-	</td></tr>
-	<tr>
-		<td width="7"><img src="../siteImages/spacer.gif" width="7" height="1">
-		</td><td><input type="text" size="18" class="mono" name="searchText" value=""><input type="hidden" name="searchType" value="Basic"><input type="hidden" name="action" value="Results"><input type="hidden" name="SortOrder" value="Score DESC, SortDate DESC, ppwIssueNumber DESC"><input type="hidden" name="R" value="0"><input type="hidden" name="recordsPerPage" value="30">
-	</td></tr>
-	<tr height="3">
-		<td colspan="2"><img src="../siteImages/spacer.gif" width="155" height="3" alt="" border="0">
-	</td></tr>
-	<tr valign="bottom">
-		<td width="7"><img src="../siteImages/spacer.gif" width="7" height="1">
-		</td><td><input type="image" src="../siteImages/rsb/button_go.gif" width="31" height="17" alt="" border="0" align="left" hspace="0" vspace="0">&nbsp;<a href="templateS01.php">Advanced Search</a>
-		
-	</td></tr>
-	<tr height="5">
-		<td colspan="2"><img src="../siteImages/spacer.gif" width="155" height="7" alt="" border="0">
-	</td></tr>
-	</tbody></table>
-</td></tr>		
-
-<tr height="10"><td><img src="../siteImages/spacer.gif" width="155" height="10" border="0"></td></tr><tr height="10"><td>
-		<a href="https://guest.cvent.com/EVENTS/Register/IdentityConfirmation.aspx?e=5c20f2d1-4c81-4796-a877-7f514b190a9a" target="_blank"><img src="../siteImages/rsb/subscribe-button.jpg" alt="" border="0"></a>
-</td></tr>
-<tr height="10"><td><img src="../siteImages/spacer.gif" width="155" height="10" border="0"></td></tr><tr height="10">
-	<td style="padding-bottom: 10px;"><a href="rss.php?podcast"><img src="../siteImages/rsb/rsbpromo_rssfeeds_podcast.gif" border="0"></a></td>
-
-</tr>
-<tr height="10">
-	<td style="padding-bottom: 10px;"><a href="rss.php"><img src="../siteImages/rsb/rsbpromo_rssfeeds.gif" border="0"></a></td>
-
-</tr>
-
-			</tbody></table>
-			<!-- end right side bar -->
-		</td>
-		<td width="2"><img src="../siteImages/spacer.gif" width="2" height="1">	</td></tr>
-</tbody></table>
-
-
-<table cellpadding="0" cellspacing="0" border="0" width="765">
-	<tbody><tr height="7">
-	<td colspan="4"><img src="../siteImages/spacer.gif" width="765" height="7" alt="" border="0">
-	</td></tr>
-	<tr valign="top">
-		<td width="145">
-			<a href="http://www.ms-ds.com" target="_blank" onmouseover="swapImage('msdslogo', '../siteImages/global/msds_on.gif');" onmouseout="swapImage('msdslogo', '../siteImages/global/msds.gif')"><img src="../siteImages/global/msds.gif" width="144" height="21" alt="Site Design and Development by Matthew Schwartz Design Studio" border="0" name="msdslogo"></a>
-		
-		</td><td width="27"><img src="../siteImages/spacer.gif" width="27" height="1">		</td><td class="footer">
-			<table cellpadding="0" cellspacing="0" border="0" width="588">
-			<tbody><tr height="1"><td background="../siteImages/global/dotted_line.gif"><img src="../siteImages/spacer.gif" width="588" height="1" alt="" border="0"></td></tr>
-			<tr height="2"><td><img src="../siteImages/spacer.gif" width="1" height="2" alt="" border="0"></td></tr>
-			</tbody></table>
-			The Washington Institute for Near East Policy · 1828 L Street NW Suite 1050 Washington DC 20036<br>
-			Tel: 202-452-0650 · Fax: 202-223-5364 · <a href="templateC11.php?CID=24">Contact</a> ·  <a href="templateC11b.php?CID=155">Privacy Policy</a> ·  © 2009 All rights reserved
-		
-		</td><td width="2"><img src="../siteImages/spacer.gif" width="2" height="1">	</td></tr>
-</tbody></table>
-<br><br>
- 
-
+This site is owned and operated by The Washington Institute for Near East Policy. The Institute holds the privacy of its users and donors in the utmost respect. Because we gather certain types of personal information, we feel you should have full access to the terms and conditions surrounding its capture and use, which is disclosed by this privacy statement.</p>
+<p>
+We collect personal data through our email subscription, event registration, and online donation services. We only collect this information when users submit it voluntarily. If a user prefers not to submit such information online, they may contact The Washington Institute to determine an appropriate offline channel to transmit this information.</p>
+<p>
+<strong>Under no circumstances does The Washington Institute divulge—sell, trade, or share—any information about an individual user or donor to a third party or send donor mailings on behalf of other organizations.</strong></p>
+<p>
+From these services, we may collect your first name, last name, and email address, company, position, secondary email address, address, city, state, zip code, and phone numbers (home, work, or mobile). We may collect event-specific information pertaining to your attendance, meal preferences, and guests. We may collect the name and email of a spouse, contributor, or foundation that you provide to receive recognition for a gift. When you contribute online, we ask that you verify your status as a U.S. citizen or representative of a U.S. entity to ensure that the Institute’s fundraising practices support our dedication to promoting American interests.</p>
+<p>
+All the above information is collected to help us tailor our content and personalize your experience. We may use this information to send you Institute emails or mailings, updates on our programs, and scholar activities. You may opt-out of these communications at any time.</p>
+<p>
+If you submit payment for an event through <a href="http://cvent.com">Cvent </a>(our online event registration software) or donate online using the form powered by <a href="http://wufoo.com">Wufoo</a> (online form builder), we also collect payment information, credit card numbers, and billing addresses. This information is collected to process your payment and is not stored by the Institute.</p>
+<p>
+The Washington Institute does not knowingly collect information from children. If we request this information in the future, we will notify you in advance, and you may provide this information only if you so elect to do so.</p>
+<p>
+See our Web Privacy and Use Policy for details on information collected during web browsing and site terms of use.</p>
+<h2>
+Security and Enforcement</h2>
+<p>
+The Washington Institute protects your personal information from loss, misuse, alteration, or unauthorized disclosure by encrypting the data which you provide us with current encryption tools, including HTTPS (Hyper Text Transfer Protocol Secure) and SSL (Secure Socket Layer) protocols and by requiring employees with access to personal data to comply with our privacy policy. We operate secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers.</p>
+</article>
+</div>
+<!-- - This page has a sidebar column -->
+<div class="sub last">
+<div class="sub-inner">
+<div class="navblock">
+<nav class="rounded">
+<h2>Support</h2>
+<div class="navblock-content">
+<ul class="no-bullets large linkstyle-subdued">
+<li class="node_ways-to-give level_2 has_children first_child">
+<a href="ways-to-give">Ways to Give</a>
+<ul>
+<li class="node_donate-online level_3 first_child">
+<a href="ways-to-give/donate-online">Donate to the Institute</a>
+</li>
+<li class="node_become-a-trustee level_3">
+<a href="ways-to-give/become-a-trustee">Become a Trustee</a>
+</li>
+<li class="node_leave-a-legacy level_3 last_child">
+<a href="ways-to-give/leave-a-legacy">Leave a Legacy</a>
+</li>
+</ul>
+</li>
+<li class="node_donor-eligibility level_2">
+<a href="donor-eligibility">Donor Eligibility</a>
+</li>
+<li class="node_donor-privacy-policy level_2 active">
+<a href="donor-privacy-policy">Donor Privacy Policy</a>
+</li>
+<li class="node_contact-us level_2 last_child">
+<a href="contact-us">Connect with the Institute</a>
+</li>
+</ul>
+</div>
+</nav>
+</div>
+<div class="shadow-above"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--PICOSEARCH_SKIPTEXTSTART-->
+<!-- ================	 _footer.haml -->
+<footer>
+<div class="inner">
+<p>The Washington Institute seeks to advance a balanced and realistic understanding of American interests in the Middle East and to promote the policies that secure them. | <a class="more" href="/about">About the Institute</a><br>
+The Institute is a 501(c)3 organization; all donations are tax deductible. | <a class="more" href="/support">Support the Institute</a></p>
+<div class="footer-sub">
+<nav class="group">
+<ul class="left">
+<li><a href="/about/contact-us">Contact</a></li>
+<li><a href="donor-privacy-policy">Privacy Policy</a></li>
+<li><a href="/about/employment">Employment</a></li>
+</ul>
+<ul class="right">
+<li><a href="/policy-analysis/topic/maps-graphics#/page/25|0/categories/54">Maps &amp; Graphics</a></li>
+<li><a href="/policy-analysis/topic/multimedia#/page/25|0/categories/56">Multimedia</a></li>
+</ul>
+</nav>
+<ul class="social no-decoration">
+<li class="facebook"><a href="http://www.facebook.com/WashingtonInstitute">Facebook</a></li>
+<li class="twitter"><a href="http://twitter.com/#!/washinstitute">Twitter</a></li>
+<li class="youtube"><a href="http://www.youtube.com/user/WashingtonInstitute">You Tube</a></li>
+<li class="rss"><a href="/subscribe">RSS</a></li>
+<li class="podcast"><a href="/rss/podcast/feed/10/podcast.xml">Podcast</a></li>
+<li class="sharethis"><a href="#">Share This</a></li>
+<li class="email"><a href="https://guest.cvent.com/e.aspx?1G,P1,6d560ee0-78a4-41a8-a21c-26c4c5973af3">Get Email Alerts</a></li>
+</ul>
+<p class="copy">© 2012 All rights reserved.</p>
+<address>
+<p>The Washington Institute for Near East Policy</p>
+<p>1828 L Street NW Suite 1050, Washington D.C. 20036</p>
+<p class="tel">Tel: 202-452-0650</p>
+<p class="fax">Fax: 202-223-5364</p>
+</address>
+</div>
+</div>
+<script type="text/javascript">var _gaq=[["_setAccount","UA-24421802-2"],["_trackPageview"],["_trackPageLoadTime"]];(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.async=1;g.src=("https:"==location.protocol?"//ssl":"//www")+".google-analytics.com/ga.js";s.parentNode.insertBefore(g,s)}(document,"script"));</script>
+</footer>
+<!-- ================	 _footer.haml -->
+<!--PICOSEARCH_SKIPTEXTEND-->
 
 
 </body></html>
