@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the ismmagic.com privacy policy that was archived on 2011-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110914030056id_/http%3A//www.ismmagic.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ismmagic.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514020526id_/http%3A//www.ismmagic.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Policies
 
-This Privacy Policy is as between you, the User of this Web Site (ismmagic.com) and ISMMAGIC LIMITED (hereinafter known as ISMmagic) the owner and provider of this Web Site. This Policy applies to our use of any and all Data collected by us in relation to your use of the Web Site and any Services or Systems therein.   
-This Privacy Policy only applies to information collected though our Web Site and not to information collected offline.  
+This Privacy Policy is as between you, the User of this Web Site (ismmagic.com) and ISMMAGIC LIMITED (hereinafter known as ISMmagic) the owner and provider of this Web Site. This Policy applies to our use of any and all Data collected by us in relation to your use of the Web Site and any Services or Systems therein.
+
+This Privacy Policy only applies to information collected though our Web Site and not to information collected offline.
+
 1)    Definitions & Interpretation
 
 a)     “Cookie” means a small text file placed on your computer’s hard drive (if your computer’s settings allow) by ISMmagic when you visit applicable parts of the Web Site that enable ISMmagic and its service providers to recognise your browser, capture and remember certain information. 
@@ -74,4 +76,4 @@ Any changes to this Privacy Policy will be posted on this page.
 
 10)    Terms and Conditions
 
-This Privacy Policy must be read in conjunction with our Terms and Conditions; .<a class="modal" href="/terms-and-conditions.html" target="_blank" rel="{size: {x: 755, y:600}}">click here to view</a>.
+This Privacy Policy must be read in conjunction with our Terms and Conditions; .[click here to view](http://www.ismmagic.com/policies/terms-and-conditions.html).
