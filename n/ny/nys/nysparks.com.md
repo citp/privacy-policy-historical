@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nysparks.com privacy policy that was archived on 2011-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111027115630id_/http%3A//www.nysparks.com/about/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nysparks.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514123651id_/http%3A//www.nysparks.com/about/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - NYS Parks, Recreation & Historic Preservation
 
