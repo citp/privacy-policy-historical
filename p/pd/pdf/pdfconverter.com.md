@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pdfconverter.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228174710id_/http%3A//www.pdfconverter.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfconverter.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514081525id_/http%3A//www.pdfconverter.com/about/privacypolicy) for the most accurate reproduction.*
 
-# PDFConverter.com - Privacy Policy
+# Privacy Policy | PDFConverter.com
 
 BC LTD. ("Our Company") is committed to make your visit to pdfconverter.com an experience that is as interesting and enjoyable as possible. Our Privacy Policy below is geared towards understanding that you are a guest at our site and should be treated as such:
 
@@ -22,17 +22,12 @@ The voluntary policies that Our Company intends to follow to maintain the confid
 
 As of February 1st 2009, [www.pdfconverter.com](http://www.pdfconverter.com/) does not use a feature of your browser called a "cookie."
 
-  
 However, Our Company does reserve the right to use cookies in the future. Cookies, by themselves, are not able to extract any personal information from you. The cookie automatically identifies your computer - but not you - to our servers when you visit our site. Cookies allow us to personalize our site for you and to provide you with information that fits your needs and desires.
 
-  
-Unless you specifically tell us, Our Company will never know who you are, even though we may assign your computer a cookie. Also, should we decide to employ cookies in the future, [www.pdfconverter.com](http://www.pdfconverter.com/) would only ever be able to read cookies created by www.pdfconverter.com.
+Unless you specifically tell us, Our Company will never know who you are, even though we may assign your computer a cookie. Also, should we decide to employ cookies in the future, [www.pdfconverter.com](http://www.pdfconverter.com/) would only ever be able to read cookies created by [www.pdfconverter.com](http://www.pdfconverter.com/).
 
 ## Contact us
 
 Our Company knows that your privacy is very important to you. If you have any questions or comments regarding our policy, feel free to contact us at [customer.support@pdfconverter.com](mailto:customer.support@pdfconverter.com).
 
 Our Company reserves the right to modify this Privacy Statement from time to time.
-
-  
-
