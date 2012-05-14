@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the odmp.org privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113104333id_/http%3A//www.odmp.org/info/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odmp.org privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514104312id_/http%3A//www.odmp.org/info/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -24,12 +24,12 @@ The Officer Down Memorial Page, Inc., regularly sends newsletters and special an
 
 Personal information collected by the Officer Down Memorial Page, Inc., is never shared with third-party organizations except as defined in this section. In certain circumstances, memorial information collected by the ODMP may be shared with the National Lew Enforcement Officers Memorial Fund, Inc., or Concerns of Police Survivors, Inc. This sharing of information will only take place in the event that direct action is needed for those organizations to begin their process of honoring fallen law enforcement officers.
 
-In situations in which a threat against law enforcement officers or a perceived threat against law enforcement is received by the ODMP, all information collected about the individual who transmitted the threat will be provided to the appropriate law enforcement agency for investigation.
+In situations involving a perceived threat against law enforcement officers, all information collected about the individual who transmitted the threat will be provided to the appropriate law enforcement agency for investigation.  Any activity which is suspected of being in violation of United States federal or state law may be reported, along with personally identifying information, to appropriate law enforcement agencies.
 
 #### REVISIONS
 
 The Officer Down Memorial Page, Inc., may revise this Privacy Policy at any time. You are encouraged to visit this page periodically to review our current policy.
 
-Rev. 4/2011
+Rev. 2/2012
 
  
