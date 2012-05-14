@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetappingsolution.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106203319id_/http%3A//www.thetappingsolution.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetappingsolution.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514142449id_/http%3A//www.thetappingsolution.com/privacy-policy.php) for the most accurate reproduction.*
 
 # The Tapping Solution: EFT Documentary Film | Privacy Policy
 
