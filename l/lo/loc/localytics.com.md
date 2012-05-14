@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the localytics.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227030812id_/http%3A//www.localytics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localytics.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514063155id_/http%3A//www.localytics.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Localytics
+# Localytics Privacy Policy
 
 ### Introduction
 
@@ -8,9 +8,7 @@ Char Software, Inc. d/b/a Localytics (“us,” “we,” or “Localytics”) i
 
 ### Traffic Data Collected
 
-When you visit the Websites, web servers collect information about your visit (known as “traffic data”), which is stored as anonymous, aggregate data. We use traffic data to learn more about visitors’ use of the Websites and to improve the quality of the content and functionality of the Websites, as well as to target our offerings to the people most interested in them based on their use of the Websites.
-
-In order to provide the Services to our Customers, Localytics collects certain information and data about End Users that is sent to our servers from one of the Localytics “Client Libraries” that may be integrated into our Customers’ mobile application(s) (“End User Information”). Localytics provides analyses of anonymized, aggregate End User Information to its Customers and to other third parties (“Analyzed Data”). Localytics takes commercially reasonable efforts to ensure that Analyzed Data does not include any PII, as defined below.
+When you visit the Websites, web servers collect information about your visit (known as “traffic data”), which is stored as anonymous, aggregate data. We use traffic data to learn more about visitors’ use of the Websites and to improve the quality of the content and functionality of the Websites, as well as to target our offerings to the people most interested in them based on their use of the Websites. In order to provide the Services to our Customers, Localytics collects certain information and data about End Users that is sent to our servers from one of the Localytics “Client Libraries” that may be integrated into our Customers’ mobile application(s) (“End User Information”). Localytics provides analyses of anonymized, aggregate End User Information to its Customers and to other third parties (“Analyzed Data”). Localytics takes commercially reasonable efforts to ensure that Analyzed Data does not include any PII, as defined below.
 
 ### Personally Identifiable Information
 
@@ -38,7 +36,7 @@ We store all Traffic Data, End User Information and all Analyzed Data, and revie
 
 ### Information Sharing
 
-Localytics does not rent, sell or share PII, including your Personal Information, with any third parties except in the following limited circumstances:
+Localytics does not rent, sell or share PII, including your Personal Information, with any third parties except in the following limited circumstances: 
 
   * We have your express consent. We require opt-in consent for the sharing of any Personal Information.
   * To our subsidiaries, affiliated companies or other trusted business partners (“Partners”) for the purpose of processing Personal Information or Analyzed Data on our behalf, but only to provide the requested Services and subject to this Privacy Policy. Such Partners shall be bound to uphold the same standards of security and confidentiality that we have promised to you in this Privacy Policy, and they will only use your Personal Information to carry out their specific business obligations to Localytics and to provide your requested Services.
@@ -52,9 +50,7 @@ Except as otherwise provided in this Privacy Policy, we will keep your Personal 
 
 ### Information Security and Data Integrity
 
-The security of your Personal Information is important to us. We follow generally accepted industry standards to protect the Personal Information submitted to us, both during transmission and once we receive it. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
-
-Although we make good faith efforts to store Personal Information in a secure operating environment that is not open to the public, you should understand that there is no such thing as complete security, and we do not guarantee that there will be no unintended disclosures of your Personal Information. If we become aware that your Personal Information has been disclosed in a manner not in accordance with this Privacy Policy, we will use reasonable efforts to notify you of the nature and extent of the disclosure (to the extent we know that information) as soon as reasonably possible and as permitted by law.
+The security of your Personal Information is important to us. We follow generally accepted industry standards to protect the Personal Information submitted to us, both during transmission and once we receive it. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. Although we make good faith efforts to store Personal Information in a secure operating environment that is not open to the public, you should understand that there is no such thing as complete security, and we do not guarantee that there will be no unintended disclosures of your Personal Information. If we become aware that your Personal Information has been disclosed in a manner not in accordance with this Privacy Policy, we will use reasonable efforts to notify you of the nature and extent of the disclosure (to the extent we know that information) as soon as reasonably possible and as permitted by law.
 
 ### Lost or Stolen Information
 
@@ -70,10 +66,4 @@ As a registered user of the Websites, you can modify some of the Personal Inform
 
 ### Contacts
 
-If you have any comments, concerns or questions about this Privacy Policy, please call us at us at +1 617 418 4422 or send us an email at contact@localytics.com or
-
-Localytics  
-PO Box 425732  
-Cambridge MA 02142 USA
-
-Last Updated on April 27, 2010.
+If you have any comments, concerns or questions about this Privacy Policy, please call us at us at +1 617 418 4422 or send us an email at contact@localytics.com or Localytics PO Box 425732 Cambridge MA 02142 USA Last Updated on April 27, 2010.
