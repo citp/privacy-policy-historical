@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photodoto.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113061242id_/http%3A//photodoto.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photodoto.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514034142id_/http%3A//photodoto.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Photodoto | Privacy Policy
 
@@ -66,3 +66,14 @@ A cookie is a small amount of data, which often includes an anonymous unique ide
 We may update this policy at any time for any reason. If there are any significant changes to how we handle personal information we will place a prominent notice on our site.
 
 Effective Date: April 6, 2009
+
+  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fphotodoto.com%2Fprivacy-policy%2F%20\(via%20@sociablesite\)%20/blogplay.com/%20blogplay.com "Twitter")
+  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fphotodoto.com%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
+  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fphotodoto.com%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
+  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fphotodoto.com%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
+  * [](http://delicious.com/post?url=http%3A%2F%2Fphotodoto.com%2Fprivacy-policy%2F&title=Privacy%20Policy&notes=What%20This%20Privacy%20Policy%20Covers%0D%0A%0D%0A%0D%0AThis%20privacy%20policy%20pertains%20to%20the%20use%20of%20Photodoto%20%28the%20%22Service%22%29%20at%20http%3A%2F%2Fphotodoto.com%2F%0D%0AThis%20privacy%20policy%20covers%20how%20we%20treat%20personal%20information%20that%20the%20Service%20collects%20and%20receives.%20Personal%20informat "Delicious")
+  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fphotodoto.com%2Fprivacy-policy%2F&title=Privacy%20Policy&srcURL=http%3A%2F%2Fphotodoto.com%2Fprivacy-policy%2F&srcTitle=Photodoto+Photography+is+for+everyone. "Google Reader")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fphotodoto.com%2Fprivacy-policy%2F&title=Privacy%20Policy&source=Photodoto+Photography+is+for+everyone.&summary=What%20This%20Privacy%20Policy%20Covers%0D%0A%0D%0A%0D%0AThis%20privacy%20policy%20pertains%20to%20the%20use%20of%20Photodoto%20%28the%20%22Service%22%29%20at%20http%3A%2F%2Fphotodoto.com%2F%0D%0AThis%20privacy%20policy%20covers%20how%20we%20treat%20personal%20information%20that%20the%20Service%20collects%20and%20receives.%20Personal%20informat "LinkedIn")
+  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fphotodoto.com%2Fprivacy-policy%2F&Title=Privacy%20Policy "BlinkList")
+  * 
+
