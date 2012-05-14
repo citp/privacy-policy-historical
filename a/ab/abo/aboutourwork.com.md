@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aboutourwork.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113021314id_/http%3A//www.aboutourwork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboutourwork.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514114123id_/http%3A//www.aboutourwork.com/privacy) for the most accurate reproduction.*
 
 # Business Profile Pages, Connections, Small Business Network | AboutOurWork.com
 
