@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the had2know.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114021839id_/http%3A//www.had2know.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the had2know.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514023537id_/http%3A//www.had2know.com/privacy.html) for the most accurate reproduction.*
 
 # Had2know Privacy Policy and Disclaimer
 
@@ -12,10 +12,10 @@ We do regularly monitor the data recorded in the log files on our server. These 
 
 2b) You can selectively enable or disable any website's cookies by adjusting your browser settings. Bear in mind that because many websites use cookie technology, this may affect your ability to use other websites. This may include the ability to login or save information entered into forms.
 
-3) As directed by the Federal Trade Commission, this policy must disclose any compensatory relationships between us and affiliate networks, such as Amazon.com and Google Affiliate Network, and other vendors with whom we have established, or may in the future establish an affiliate relationship. 
+3) As directed by the Federal Trade Commission, this policy must disclose any compensatory relationships between us and affiliate networks, such as the Google Affiliate Network, and other vendors with whom we have established, or may in the future establish an affiliate relationship. 
 
 3a) We may at times accept forms of cash advertising, sponsorship, or paid insertions. In such instances, the sponsored content will clearly be labeled as such.
 
-3b) We may at times receive compensatation through the Amazon Associates and Google Affiliate Network programs when referring website visitors to products. The views and opinions expressed on this Website about such products are purely our own, and should not be viewed as an endorsement. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer or provider.
+3b) We may at times receive compensatation through the Google Affiliate Network programs when referring website visitors to products. The views and opinions expressed on this Website about such products are purely our own, and should not be viewed as an endorsement. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer or provider.
 
-Updated September 8, 2010 
+Updated March 8, 2012 
