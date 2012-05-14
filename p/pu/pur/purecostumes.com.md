@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purecostumes.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219230715id_/http%3A//www.purecostumes.com/halloween-costumes/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purecostumes.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515000459id_/http%3A//www.purecostumes.com/halloween-costumes/privacy.html) for the most accurate reproduction.*
 
 # Security and Privacy Policy - Toll Free 877-806-7873 at Pure Costumes
 
@@ -13,7 +13,7 @@ The administrators of the store you are visiting have implemented all necessary 
 These measures include:   
 1\. The database with your personal information has been placed out of the reach of intruders   
 2\. Passwords are stored in encrypted form   
-3\. The store uses PayPal Security when requesting your credit card information   
+3\. The store uses Verisign SSL, McAfee Monitoring and Authorized.Net Security when requesting your credit card information   
 4\. The store is protected against common SQL Injection attacks   
 5\. The store is protected against Cross Site Scripting   
 6\. The system's control panel folder has been placed in a private folder   
