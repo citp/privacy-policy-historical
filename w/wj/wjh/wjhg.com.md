@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wjhg.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101163344id_/http%3A//www.wjhg.com/unclassified/34218884.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wjhg.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514072359id_/http%3A//www.wjhg.com/unclassified/34218884.html) for the most accurate reproduction.*
 
 # GRAY TELEVISION, INC. PRIVACY POLICY AND YOUR PRIVACY RIGHTS
 
