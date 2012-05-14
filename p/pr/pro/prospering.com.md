@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prospering.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207065448id_/http%3A//www.prospering.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prospering.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514064316id_/http%3A//www.prospering.com/privacy.php) for the most accurate reproduction.*
 
-# Prosper : Privacy Policy
+# Privacy Policy
 
 Last updated April, 2011
 
@@ -9,6 +9,8 @@ OUR PRIVACY POLICY CHANGES FROM TIME TO TIME. PLEASE CHECK BACK FREQUENTLY.
 We realize the sensitive nature of the information you provide to us. This Privacy Policy describes how Prosper, Inc. ("Company" or "we") collects, uses and disseminates information about users ("you") of this website ("website" or "site") that we collect online. By using this website, you agree to accept the terms and conditions of this Privacy Policy. If you do not agree to this Privacy Policy, immediately cease your access to or your use of this site. THE COMPANY RESERVES THE RIGHT TO UPDATE FROM TIME TO TIME, SO YOU SHOULD REVIEW THIS POLICY FREQUENTLY. Your use of this site following any changes means that you affirmatively accept those changes.
 
 COLLECTION AND USE OF INFORMATION
+
+Your Privacy Rights. California Civil Code Section 1798.83 permits customers of the Company who are California residents to request certain information regarding the Company's disclosure of Individual Information to third parties for those third parties' direct marketing purposes. To make such a request, please send an email to [privacy@prospering.com](mailto:privacy@prospering.com) or write us at: Prosper, Inc. Attn: Privacy Department 5252 N. Edgewood Dr. Ste. 150, Provo, UT 84604. Within thirty (30) days of receiving such a request, we will provide a list of the categories of personal information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified in this paragraph.
 
 1.1 Survey Information. The Company collects information about you when you voluntarily complete a Company survey, order form, registration page or other online request form, (collectively, a "Survey"). In Surveys, the Company or third-party partners may ask you to provide personally identifiable information to the Company, which may include your name, email address, street address, zip code, telephone numbers (including cell phone numbers and carriers), birth date, gender, salary range, education and marital status, occupation, employment information, personal and online interests, and such other information as may be requested from time to time (together, "Survey Information"). You may receive incentives from the Company or third-party partners in exchange for providing Survey Information to the Company. If a login or password is generated, you are responsible for maintaining the confidentiality of your login and password information. You are fully responsible for all activities that occur through your login and we reserve the right to refuse access to anyone at any time without notice for any reason.
 
@@ -62,16 +64,11 @@ UNSUBSCRIBE
 
 (b) Unsubscribe by sending a letter to:
 
-Prosper, Inc.
-
-Attn.: Privacy Department
-
-5072 North 300 West
-
+Prosper, Inc.  
+Attn.: Privacy Department  
+5252 N. Edgewood Drive STE 150  
 Provo, UT 84604
 
 OTHER
 
 6.1 More Information. If you have questions about this policy, please contact us at [privacy@prospering.com.](mailto:privacy@prospering.com)
-
-6.2 Notice to California Residents. California Civil Code Section 1798.83 permits customers of the Company who are California residents to request certain information regarding the Company's disclosure of Individual Information to third parties for those third parties' direct marketing purposes. To make such a request, please send an email to [privacy@prospering.com](mailto:privacy@prospering.com) or write us at: Prosper, Inc. Attn: Privacy Department 5072 North 300 West Provo, UT 84604. Within thirty (30) days of receiving such a request, we will provide a list of the categories of personal information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified in this paragraph.
