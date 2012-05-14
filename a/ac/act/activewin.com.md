@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activewin.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101130424id_/http%3A//www.activewin.com/terms/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activewin.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514162049id_/http%3A//www.activewin.com/terms/privacy.shtml) for the most accurate reproduction.*
 
 # ActiveWin: Privacy Policy
 
@@ -190,8 +190,6 @@ Link To Us
   
 Links  
   
-Member Pages  
-  
 News Archive  
   
 Site Search  
@@ -199,7 +197,7 @@ Site Search
 Awards  
   
 ** Credits**  
-©1997-2011, Active Network, Inc. All Rights Reserved.  
+©1997-2012, Active Network, Inc. All Rights Reserved.  
 Please click [here](http://www.activewin.com/terms/index.shtml) for full terms of use and restrictions or read our [Privacy Statement](http://www.activewin.com/terms/privacy.shtml).  
   
 [ ](http://www.amazon.com/exec/obidos/redirect-home/activedvd-20)
