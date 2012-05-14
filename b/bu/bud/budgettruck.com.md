@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the budgettruck.com privacy policy that was archived on 2011-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111021055654id_/http%3A//www.budgettruck.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgettruck.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514053121id_/http%3A//www.budgettruck.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Budget Truck Rental
 
@@ -36,7 +36,7 @@ We at ABG recognize the importance of protecting your personally identifiable in
 
 By submitting your personally identifiable information to us, you consent to ABG’s use and disclosure of your personally identifiable information as set forth in this Privacy Notice. Your use and/or continued use of ABG websites signifies your consent that your information may be transferred to or stored on servers and processed outside the country of your residence. Provided the data protection laws of these other countries differ from those in the United States, please be assured that we take reasonable steps to ensure that your privacy is protected. If you do not agree with the terms of this Privacy Notice, please do not submit any information to ABG either offline or through our Websites. 
 
-This Privacy Notice is incorporated into, and part of, the [Terms of Use](https://web.archive.org/web/20111021055654id_/http%3A//www.budgettruck.com/Terms_Of_Use.aspx), which governs each ABG Website. ABG has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. TRUSTe’s certification covers only the ABG Websites that link to this TRUSTe approved privacy notice. If you have questions or complaints regarding our privacy notices or practices, please contact us at [privacyofficer@budgettruck.com](mailto:). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+This Privacy Notice is incorporated into, and part of, the [Terms of Use](https://web.archive.org/web/20120514053121id_/http%3A//www.budgettruck.com/Terms_Of_Use.aspx), which governs each ABG Website. ABG has been awarded TRUSTe's Privacy Seal signifying that this privacy notice and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. TRUSTe’s certification covers only the ABG Websites that link to this TRUSTe approved privacy notice. If you have questions or complaints regarding our privacy notices or practices, please contact us at [privacyofficer@budgettruck.com](mailto:). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 **Purpose of this Privacy Notice**
 
@@ -141,7 +141,7 @@ An IP address is a unique number that is automatically assigned to your computer
 
 ABG collects IP addresses for the purposes of: helping us diagnose problems with our main computers, for system administration, to report aggregated information to our business partners, and to audit the use of our Website. When users request Web pages from our Web Site, our Web servers log the User's IP address. We do not normally link IP addresses to anything personally identifiable, which means that a user’s session will be logged, but the user will remain anonymous to us. For example, we collect and/or track the home server domain name, the type of computer, and the type of Web browser used by you to access this Web Site. Such collection and tracking information is gathered by us as you navigate through our Websites, and will be used by us for our business purposes only.
 
-In select instances, we may use IP addresses to help us identify you when we feel it is necessary to enforce compliance with our Website [Terms of Use](https://web.archive.org/web/20111021055654id_/http%3A//www.budgettruck.com/Terms_Of_Use.aspx) or to protect our service, site, users, or others.
+In select instances, we may use IP addresses to help us identify you when we feel it is necessary to enforce compliance with our Website [Terms of Use](https://web.archive.org/web/20120514053121id_/http%3A//www.budgettruck.com/Terms_Of_Use.aspx) or to protect our service, site, users, or others.
 
 _Third Party Use of Technologies_
 
@@ -157,7 +157,7 @@ Web pages may contain an electronic file called a web beacon that allows a websi
 
   * Yahoo! uses web beacons to conduct research on behalf of certain partners on their websites and also for auditing purposes.
   * Information recorded through these web beacons is used to report aggregate information about Yahoo! users to our partners. This aggregate information may include demographic and usage information. No PII about you is shared with partners from this research.
-  * When conducting research, Yahoo!’s practice is to require our partners to disclose the presence of these web beacons on their pages in their privacy policies and state what choices are available to users regarding the collection and use of this information. You may choose to [opt-out](http://info.yahoo.com/privacy/us/yahoo/opt_out/details) of Yahoo! using this information for this research.
+  * When conducting research, Yahoo!’s practice is to require our partners to disclose the presence of these web beacons on their pages in their privacy notices and state what choices are available to users regarding the collection and use of this information. You may choose to [opt-out](http://info.yahoo.com/privacy/us/yahoo/opt_out/details) of Yahoo! using this information for this research.
 
 
 
@@ -165,9 +165,9 @@ Note: This opt-out applies to a specific browser rather than a specific user. Th
 
 **Visiting Third Party Websites**
 
-Our Websites may contain links or references to third party websites. These websites are outside of our control, and the privacy policies of these sites may differ from our own. Please be aware that we have no control over these third party websites and our Privacy Notice does not apply to such websites. We encourage you to check the terms of use and privacy policies of such sites before disclosing any PII via such sites.
+Our Websites may contain links or references to third party websites. These websites are outside of our control, and the privacy notices of these sites may differ from our own. Please be aware that we have no control over these third party websites and our Privacy Notice does not apply to such websites. We encourage you to check the terms of use and privacy notices of such sites before disclosing any PII via such sites.
 
-Occasionally when linking to a third party website from our Websites, you may still see ABG affiliate logo or an ABG affiliate website frame. This is to provide you with a seamless experience when visiting our Websites. In these cases, you are no longer on our Websites but the third party website, and therefore the information collection practices of the third party’s website may differ from ABG’s. The privacy policy of the third party site will govern how information collected from you is used by the owner of the website. You can always know what website you are on by checking the Uniform Resource Locator (URL) in the location bar within your browser.
+Occasionally when linking to a third party website from our Websites, you may still see ABG affiliate logo or an ABG affiliate website frame. This is to provide you with a seamless experience when visiting our Websites. In these cases, you are no longer on our Websites but the third party website, and therefore the information collection practices of the third party’s website may differ from ABG’s. The privacy notice of the third party site will govern how information collected from you is used by the owner of the website. You can always know what website you are on by checking the Uniform Resource Locator (URL) in the location bar within your browser.
 
 **Linking your ABG Accounts to Your Social Profiles**
 
@@ -205,7 +205,7 @@ _Social Sharing_
 
 In an effort to provide our customers with new ways of sharing content, we have enabled some of our online content to be shared on social websites through hosted sharing links and icons. Users who share content and links through their social media profiles should be aware that all activities of this nature are public.
 
-Please note, when you share (with or without adding your own comments) any of our content on your social media profile, that action is governed by the privacy policy of that social media platform, and not ABG’s Privacy Notice. We do not track or store a record of those comments or actions.
+Please note, when you share (with or without adding your own comments) any of our content on your social media profile, that action is governed by the privacy notice of that social media platform, and not ABG’s Privacy Notice. We do not track or store a record of those comments or actions.
 
 If you choose to participate in posting or sharing activities, you are electing to share and display such public activities via our Websites. Due to the public nature of your posting or sharing your posts may be included in RSS feeds, APIs and made available to other websites via other formats. As a result, your public activities may appear on third-party websites, blogs, or feeds.   
 **WE ARE NOT RESPONSIBLE FOR ANY PII YOU CHOOSE MAKE PUBLIC VIA YOUR SHARED POSTS.**
@@ -262,7 +262,7 @@ It is our policy not to knowingly solicit children under the age of 13 for PII o
 
 We encourage parents and guardians to take an active role in monitoring their children’s use of the Internet. It is possible that by fraud or deception, we may receive the PII of children under the age of 13. If we are notified or otherwise become aware of this, we will immediately delete the PII from our servers. If you want to notify us of our receipt of PII by children under the age of 13, please contact our privacy officer at ABGprivacy@avisbudget.com.
 
-Some links on our Websites may possibly lead to the websites of third-parties that are directed to children. ABG does not control these third parties and is not responsible for the actions of our third party business partners. We encourage you to check their terms of use and privacy policies for such information that address children’s privacy.
+Some links on our Websites may possibly lead to the websites of third-parties that are directed to children. ABG does not control these third parties and is not responsible for the actions of our third party business partners. We encourage you to check their terms of use and privacy notices for such information that address children’s privacy.
 
 **Applicable Law and Jurisdiction**
 
