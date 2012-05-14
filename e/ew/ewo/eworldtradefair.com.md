@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eworldtradefair.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228133044id_/http%3A//www.eworldtradefair.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eworldtradefair.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514200123id_/http%3A//www.eworldtradefair.com/privacy.html) for the most accurate reproduction.*
 
 # B2B: B2B Directory, B2B Portal, B2B Marketplace India, B2B Trade Portal and Marketing News Online
 
