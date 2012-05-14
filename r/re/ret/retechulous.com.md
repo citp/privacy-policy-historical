@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the retechulous.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231215333id_/http%3A//retechulous.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retechulous.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514132129id_/http%3A//retechulous.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Real Estate Marketing
+# Privacy
 
 **What information do we collect?**
 
