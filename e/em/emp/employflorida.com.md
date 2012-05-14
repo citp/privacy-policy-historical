@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the employflorida.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006135440id_/https%3A//www.employflorida.com/security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the employflorida.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514105915id_/https%3A//www.employflorida.com/security.asp) for the most accurate reproduction.*
 
 # Employ Florida - Privacy Statement
 
@@ -41,8 +41,11 @@ For security purposes and to ensure that this service remains available to all u
 
 Unauthorized attempts to upload or change information on this site are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act of 1996.
 
-  
-Copyright © 1998-2011 Geographic Solutions. All rights reserved.  
+For more information contact Employ Florida by calling 1-866-FLA-2345. To access Technical Support for this application call 1-800-438-4128.  
+An equal opportunity employer/program.  
+Auxiliary aids and services are available upon request to individuals with disabilities. All voice telephone numbers on this web site may be reached by persons using TTY/TDD equipment via the Florida Relay Service at 711.
+
+Copyright © 1998-2012 Geographic Solutions. All rights reserved.  
 For more information contact [Geographic Solutions](http://www.geosolinc.com/). 
 
 11.1.1004
