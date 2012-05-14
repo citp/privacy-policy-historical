@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sotostore.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113083324id_/http%3A//sotostore.com/page/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sotostore.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514031339id_/http%3A//www.sotostore.com/page/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # Soto Berlin Online Store - Privacy Policy
 
