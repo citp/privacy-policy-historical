@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the edmundoptics.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617030550id_/http%3A//www.edmundoptics.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edmundoptics.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514184020id_/http%3A//www.edmundoptics.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Edmund Optics
+# Privacy Policy | Edmund Optics
 
 Edmund Optics, Inc. (EO) and its global subsidiaries recognize the importance of your privacy. To ensure that your needs with regard to this are being met, please take a few moments to familiarize yourself with our policy.
 
