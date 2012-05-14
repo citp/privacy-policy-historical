@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegeanduniversity.net privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101191536id_/http%3A//www.collegeanduniversity.net/index.cfm%3Fevent%3Dp.pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegeanduniversity.net privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514092816id_/http%3A//www.collegeanduniversity.net/index.cfm%3Fevent%3Dp.pp) for the most accurate reproduction.*
 
 # CollegeAndUniversity.net - Privacy Policy
 
@@ -136,3 +136,7 @@ This privacy policy applies to the following companies as well as subsidiary spe
 
 
 This list may change at any time without notice. Please visit our Web site to review the most current list of affiliated companies covered under this policy.
+
+### ClickTale Disclosure
+
+This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as text you type in this website. This site does not use ClickTale to collect any personally identifiable information entered in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see [Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx). We are using the information collected by ClickTale service to improve the performance of our site. You can choose to disable the Service [here](http://www.clicktale.net/disable.html).
