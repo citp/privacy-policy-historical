@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tesco.com.my privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115093907id_/http%3A//www.tesco.com.my/html/default3.aspx%3FID%3D961%26PID%3D962%26LID%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tesco.com.my privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514234246id_/http%3A//www.tesco.com.my/html/default3.aspx%3FID%3D961%26PID%3D962%26LID%3D1) for the most accurate reproduction.*
 
 # Tesco Stores (Malaysia) Sdn Bhd
 
