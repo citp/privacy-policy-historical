@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gator995.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228032454id_/http%3A//gator995.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gator995.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514110748id_/http%3A//gator995.com/privacy) for the most accurate reproduction.*
 
-# 99.5 KNGT Radio - GATOR 99.5 - Lake Charles Music
+# GATOR 99.5 Radio - GATOR 99.5 - Lake Charles Music
 
 ### About GATOR995.COM
 
@@ -90,7 +90,7 @@ From time to time we may make changes to our Privacy Policy. If we make changes,
 
 ### Contacting Us
 
-If you have any questions about this privacy statement, the practices of the Websites, or your dealings with the Websites, please contact us at: .
+If you have any questions about this privacy statement, the practices of the Websites, or your dealings with the Websites, please .
 
 ### Effective Date
 
