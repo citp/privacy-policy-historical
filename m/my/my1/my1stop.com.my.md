@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the my1stop.com.my privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114021102id_/http%3A//www.my1stop.com.my/v2/mall/%3Fterms%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my1stop.com.my privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514020624id_/http%3A//www.my1stop.com.my/v2/mall/%3Fterms%3Dprivacy) for the most accurate reproduction.*
 
 # My1Stop Virtual Shopping Mall: online shopping, FREE online store, best e-commerce solution
 
