@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gainskeeper.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217153108id_/http%3A//www.gainskeeper.com/us/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gainskeeper.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514023502id_/http%3A//www.gainskeeper.com/us/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # GainsKeeper: Privacy Policy
 
