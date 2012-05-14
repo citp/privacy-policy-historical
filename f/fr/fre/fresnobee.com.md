@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fresnobee.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227083840id_/http%3A//www.fresnobee.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fresnobee.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514212344id_/http%3A//www.fresnobee.com/privacy_policy) for the most accurate reproduction.*
 
 # None
 
@@ -103,6 +103,10 @@ You can delete your fresnobee.com membership account in Member Center by clickin
 You should know that when you voluntarily disclose personal information on the fresnobee.com Web site (for example, in the discussion forums), that information can be collected and used by others and may result in unsolicited messages from other people. While we do our best to protect your personal information, we cannot be responsible for information that you choose to publicly disclose. Further, you are solely responsible for maintaining the secrecy of any passwords or other account information. Although we make good faith efforts to store the information we collect in a secure operating environment that is not available to the public and to work with responsible third parties, we cannot guarantee complete security for your information.
 
 In addition, our advertisers, content providers, partners and other Internet sites or services that may be accessible through fresnobee.com have separate data and privacy practices that are independent of us, and we disclaim any responsibility or liability for their policies or actions. Please contact those sites directly if you have questions about their privacy policies.
+
+### Notice to California Residents - Your California Privacy Rights:
+
+If you are a California resident, you have the right to receive: a) information identifying any third-party company(ies) to whom fresnobee.com may have disclosed, within the past year, personal information pertaining to you and your family for that company's direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information, please e-mail your request to [sdana@fresnobee.com](mailto:sdana@fresnobee.com).
 
 ### International users
 
