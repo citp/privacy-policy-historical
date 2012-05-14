@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the 123together.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121070801id_/http%3A//www.123together.com/ps.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123together.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514035153id_/http%3A//www.123together.com/ps.xhtml) for the most accurate reproduction.*
 
 # 123Together Exchange Hosting Privacy Statement
+
+Notice: The 123Together.com privacy policy will be updated as of June 1, 2012  to better enable customers to understand how their information is collected, used and shared. To see the new policy, [click here](https://web.archive.org/web/20120514035153id_/http%3A//www.123together.com/privacy-policy.xhtml).
 
 **123Together.com Privacy Statement:**  
 123Together.com has created this privacy statement ("Statement") in order to demonstrate our commitment to customer privacy. Privacy on the 123Together.com web site (the "Site") is of great importance to us. Because we gather important information from our visitors and customers, we have established this Statement as a means to communicate our information gathering and dissemination practices. We reserve the right to change this Statement and will provide notification of the change at least thirty (30) business days prior to the change taking effect.
