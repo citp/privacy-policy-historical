@@ -1,31 +1,40 @@
-> *The following text is extracted and transformed from the rocketnews.com privacy policy that was archived on 2008-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080915171705id_/http%3A//www.rocketnews.com/privacy.rhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketnews.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514105512id_/http%3A//www.rocketnews.com/about/privacy-policy) for the most accurate reproduction.*
 
-# RocketNews
+# Privacy Policy | Rocket News
 
-Rocketinfo Inc. respects and protects the privacy of the individuals that use Rocketinfo's search engine services. Individually identifiable information about you is not willfully disclosed to any third party without first receiving your permission, as explained in this privacy policy ("Privacy Policy"). 
+Privacy Policy for www.rocketnews.com
 
-## Rocketinfo and Cookies
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at rocketnews.info@gmail.com.
 
-Upon your first visit to Rocketinfo, Rocketinfo sends a "cookie" to your computer. A cookie is a piece of data that identifies you as a unique user. Rocketinfo uses cookies to improve the quality of our service and to understand our user base more. Rocketinfo does this by storing user preferences in cookies and by tracking user trends and patterns of how people search. Rocketinfo will not disclose its cookies to third parties except as required by a valid legal process such as a search warrant, subpoena, statute, or court order.
+At www.rocketnews.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.rocketnews.com and how it is used.
 
-Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Be aware, however, that some parts of the Rocketinfo Search Service may not function properly if you refuse cookies.
+Log Files  
+Like many other Web sites, www.rocketnews.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-## What Information Do We Collect?
+Cookies and Web Beacons  
+www.rocketnews.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-Rocketinfo does not collect any unique information about you (such as your name, email address, etc.) except when you specifically and knowingly provide such information. Rocketinfo notes and saves information such as time of day, browser type, browser language, and IP address with each query. That information is used to verify our records and to provide more relevant services to users. For example, Rocketinfo may use your IP address or browser language to determine which language to use when showing search results or advertisements.
+DoubleClick DART Cookie
 
-## Links to Other Sites
+  * Google, as a third party vendor, uses cookies to serve ads on www.rocketnews.com.
+  * Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.rocketnews.com and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
-The sites displayed as search results or linked to by Rocketinfo Search Services are developed by people over whom Rocketinfo exercises no control. Other links, such as those for the Rocketinfo-friends mailing list archive, are also on sites not controlled by Rocketinfo. These other sites may send their own cookies to users, collect data, or solicit personal information. Rocketinfo may choose to exhibit its search results in the form of a "URL redirecter." When Rocketinfo uses a URL redirecter, if you click on a URL from a search result, information about the click is sent to Rocketinfo, and Rocketinfo in turn sends you to the site you clicked on. Rocketinfo uses this URL information to understand and improve the quality of Rocketinfo's search technology. For instance, Rocketinfo uses this information to determine how often users are satisfied with the first result of a query and how often they proceed to later results.
 
-## With Whom Does Rocketinfo Share Information?
 
-Rocketinfo may share information about you with advertisers, business partners, sponsors, and other third parties. However, we only divulge aggregate information about our users and will not share personally identifiable information with any third party without your express consent. For example, we may disclose how frequently the average Rocketinfo user visits Rocketinfo, or which other query words are most often used with the query word "Linux." Please be aware, however, that we will release specific personal information about you if required to do so in order to comply with any valid legal process such as a search warrant, subpoena, statute, or court order.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:
 
-## Your consent and changes to the Privacy Policy
+  * Google Adsense
 
-By using the Rocketinfo Search Services and our web site, you consent to the collection and use of your information as we have outlined in this policy and to our Terms of Service Policy. Rocketinfo may decide to change this Privacy Policy from time to time. When we do, we will post those changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it.
 
-## Who can I ask if I have additional questions?
 
-Feel free to contact us any time and we'll answer any additional questions you may have. Our email address is [info@rocketinfo.com](mailto:info@rocketinfo.com).
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.rocketnews.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+
+www.rocketnews.com has no access to or control over these cookies that are used by third-party advertisers.
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.rocketnews.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+  
+
