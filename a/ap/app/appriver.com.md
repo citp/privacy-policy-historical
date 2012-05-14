@@ -1,101 +1,299 @@
-> *The following text is extracted and transformed from the appriver.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105090953id_/http%3A//www.appriver.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appriver.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514102734id_/http%3A//www.appriver.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # AppRiver Privacy Policy
 
-AppRiver places the privacy, security and protection of our customers (and prospective customers) data and information as our number one priority. Because AppRiver wants to demonstrate its commitment to our users' privacy, we have disclosed our information collection and management practices on this page. 
+## I. Introduction
 
-If you should have questions or concerns regarding this statement, please contact customer support at [support@appriver.com](mailto:support@appriver.com) or 850-932-5338, 1101 Gulf Breeze Pkwy, Gulf Breeze, FL 32561.
+In line with two of our primary missions, which are to protect our Users from malware and from spam, we place a high priority on protecting the privacy of our Users and Visitors. We do not, and will not, provide Personal Information or Email Information to third parties (i.e. entities not under common control with us) for their sales or marketing. You always have the right to opt out of receiving sales and marketing materials from us and entities under common control with us. This Privacy Policy applies to Personal Information and Email Information collected through the Website and in connection with our Services. 
 
-## Information Collection
-
-AppRiver is the ABSOLUTE SOLE OWNER of the information collected on www.appriver.com with NO EXCEPTIONS. We do NOT and will NOT share ANY information from our customers (or prospective customers) to any third party.
-
-## Information Dissemination
-
-AppRiver will release personal information about you as is reasonably necessary for the provision of AppRiver services for which you have subscribed. This includes, but is not limited to the provision of financial information to organizations for AppRiver billing purposes. These companies do NOT retain, share, store or use personally identifiable information for any secondary purposes. In addition, AppRiver may release personal information without your consent under the following circumstances: 
-
-  * In response to subpoenas, court orders, or legal process, or to establish or exercise our rights to defend against legal claims;
-  * If we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, safety of person or property, violation of our policies, or as otherwise required by law.
+  
 
 
+## II. Some Definitions:
 
-## One Time Email Address Usage 
+The terms "AppRiver," "Company," "we," or "us" all mean AppRiver, LLC, a Florida limited Liability Company, or any successor. 
 
-AppRiver does **NOT** send out email marketing about any of our products. We will NOT add your email address to ANY sort of monthly newsletters or email promotions. All email communications are one time and are only pertinent to customer service related issues.
+"Customer" means a subscriber to one or more of our Services. A User may also be a Customer or an employee or independent contractor of a Customer. If a Customer is an individual, but not a User, all the provisions of this Privacy Policy that apply to Users will apply to Customer. 
 
-## Demo Request and Additional Information Forms
+"Email Information" means information, such as header information and content, associated with particular emails.
 
-In order to obtain service from AppRiver a user may be required to first complete an information request form. On that request form a user is required to give contact information (such as name and email address). We use this information to contact the user about services on our site for which he has expressed interest. This information will NEVER be shared with any third party.
+"Personal Information" means information about an individual who is a User or Visitor.
 
-## Ordering Forms
+"Sensitive Information" means Personal Information that a reasonable person would consider sensitive, such as information about a person's race, ethnic origin, political opinions, religious or philosophical beliefs, trade union membership or information that concerns an individual's health.
 
-We request information from the user on our order form. A user must provide contact information (such as name, email, and billing address) and financial information (such as credit card number, expiration date). This information is used strictly for billing purposes and to fill customer orders. If we have trouble processing an order, the information is used to contact the user.
+"Services" means the services we offer including hosted email (our "Hosted Exchange Email Service"), email screening for spam and malware (our "SecureTide Email Protection Service") and web filtering for protection from malware and policy management (our "SecureSurf Web Protection Service").
 
-## Information Use
+"User" means an individual who uses one or more of the Services.
 
-### Cookies
+"Visitor" means an individual who visits the Website and is not a User.
 
-A cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site.
+"Website" means the website for which the URL for the home page is http://www.appriver.com.
 
-### Log Files
+"You" means the User or Visitor who is reading this Privacy Policy. ****
 
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
+  
 
-## Communications from the Site
 
-### Service Announcements
+## III. Categories of Information We Collect:
 
-On rare occasions it is necessary to send out a strictly service related announcement. For instance, if we add additional features or discontinue features to our service we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature.
+A. _Information You Provide to Us_.When you register or subscribe to any of the Services, communicate with our support personnel or otherwise communicate with us, you may provide us with information that we collect. Such information may include your IP address, name, physical address, email address, phone number, cellphone number, credit card information and demographic information. By providing us with this information, you consent to your information being collected, used, disclosed and stored by us in accordance with this Privacy Policy. 
 
-### Customer Service
+B. 
 
-We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the user's wishes.
+_Information From Use of Services_
 
-## Third Party Intermediaries
+. We use various types of tracking software, such as "cookies" which collect information about you when you visit our website or when you use any of our Services. Information collected includes, but is not limited to, your browser type and version, your operating system and platform, when you open email that we send you (example: AppRiver Newsletter) and other information. You may turn off part or all of our tracking software which has been placed on your computer by following the instructions on your browser. However, if you prevent the use of tracking software, it will be more difficult, and may be impossible, for you to use some Services.
 
-AppRiver uses an outside company for credit card processing to bill users for services. These companies do NOT retain, share, store or use personally identifiable information for any secondary purposes.
+C. 
 
-## Links
+_Information From Other Sources_
 
-This Web site may contain links to other sites. Please be aware that we, AppRiver LLC, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+. We may obtain additional information about you by running searches (and having searches run) based on your domain or other information.
 
-## Security
+D. 
 
-AppRiver takes every precaution to protect our user's information. When users submit sensitive information via the Web site, their information is protected both online and off-line.
+_Email Information_
 
-When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our payment form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just'surfing'.
+. In connection with providing our email hosting and screening Services, we are able to access unencrypted email content and headers. 
 
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing personnel or a customer service representative) are granted access to personally identifiable information. Our employees must lock their workstations when they leave their desk. When they return, they must re-enter their password to re-gain access to user information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every month as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users' information is protected. Finally, the servers that store personally identifiable information are in an extremely secure and restricted environment. _Only authorized personnel with military-grade pass cards and that are identified by biometric hand scanners have access to these secure areas where the servers are housed._
+E. 
 
-If users have any questions about the security at our Web site, users can send an email to [support@appriver.com](mailto:support@appriver.com).
+_Web Surfing_
 
-## Children Policies
+. Our SecureSurf Service is designed to protect Users from malware, allow employers to restrict employee access to inappropriate sites and give employers the ability to track and collect the web histories of their employees. As a result, we may obtain a limited amount of web surfing history.
 
-This site is not a website directed to children under the age of 13. However, AppRiver hereby advises all visitors to this site under the age of 13 not to disclose or provide any personal information on this website. In the event AppRiver discovers that a child under the age of 13 has provided personal information to us, in accordance with the Children's Online Privacy Protection Act of 1998 AppRiver will delete the child's personal information from our files.
+  
 
-## Supplementation of Information
 
-### Address Verification
+## IV. Use of Personal Information:
 
-We use the local directory information services to verify a user's address and to verify that the company applying for our service is indeed who they claim to be. 
+We may use Personal Information as follows:  
 
-## Correcting/Updating/Deleting/Deactivating Account Information
 
-If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate user's personally identifiable information. This can be done by emailing our Customer Support at [support@appriver.com](mailto:support@appriver.com). Or, contact us by telephone or postal mail at the contact information listed below.
+A. 
 
-## Notification of Changes
+_To Enforce Our Agreements_
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. 
+. We may use the information in a good faith effort to enforce our agreements, such as our subscription agreements. 
 
-If, however, we are going to use user's personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
+B. 
 
-## Privacy Questions Contact Information
+_To Enforce Compliance with Applicable Law_
 
-If users have any questions or suggestions regarding our privacy policy, please contact us at:
+. We may use the information in a good faith effort to enforce compliance with applicable law.
 
-Phone: 850-932-5338   
-Fax: 850-932-5339  
-Email: [support@appriver.com](mailto:support@appriver.com)  
-Postal Address 1101 Gulf Breeze Pkwy, Gulf Breeze, FL 32561
+C. 
 
-Web site URL [http://www.appriver.com/privacy-policy.aspx](https://web.archive.org/privacy-policy.aspx)
+_To Provide Services_
+
+. We may use the information to provide, manage, maintain and improve our Services, including improving our algorithms, and to provide customer support.
+
+D. 
+
+_To Bill and Collect Sums Owed to Us_
+
+. We may use the information to bill and in a good faith effort to collect sums owed to us.
+
+E. 
+
+_To Promote our Services to You_
+
+. We may use the information to promote one or more of our Services to you.
+
+F. 
+
+_To Notify Users of Issues Relating to the Providing of Services_
+
+. We may use the information to notify Users about temporary or permanent changes to, or suspensions of, the Services and changes to any of our agreements or this Privacy Policy.
+
+G. 
+
+_To Protect the Rights and Safety of Us and Others_
+
+: We may use the information in a good faith effort to protect the rights and safety of us, our clients, our employees, our Users and others. 
+
+H. 
+
+_To Meet Legal Requirements_
+
+. We may use the information in a good faith effort to meet legal requirements, such as complying with court orders and subpoenas. 
+
+I. 
+
+_Court, Arbitration or Similar Proceedings_
+
+. We may use the information in a good faith effort to prosecute or defend a court, arbitration or similar proceeding.
+
+J. 
+
+_Consent_
+
+. We may use the information for any other purpose, provided we have consent of each individual who is the subject of the information.
+
+  
+
+
+## V. Disclosure of Personal Information:
+
+We may disclose Personal Information as follows:
+
+A. 
+
+_To Enforce our Agreements_
+
+. We may disclose the information in a good faith effort to enforce our agreements, such as our subscription agreements. 
+
+B. 
+
+_To Enforce Compliance with Applicable Law_
+
+. We may disclose the information in a good faith effort to enforce compliance with applicable law.
+
+C. 
+
+_To Provide Services_
+
+. We may disclose the information to third party service providers to provide, manage, maintain and improve our Services, including improving our algorithms, and to provide customer support.
+
+D. 
+
+_To Bill and Collect Sums Owed to Us_
+
+. We may disclose the information to bill and in a good faith effort to collect sums owed to us.
+
+E. 
+
+_To Provide Information to Our Representatives and Advisors_
+
+. We may disclose the information to our representatives and advisors, such as attorneys and accountants, to help us comply with legal and other requirements.
+
+F. 
+
+_To Protect the Rights and Safety of Us and Others_
+
+: We may use the information in a good faith effort to protect the rights and safety of us, our clients, our employees, our Users and others. 
+
+G. 
+
+_To Meet Legal Requirements_
+
+. We may disclose the information in a good faith effort to meet legal requirements, such as complying with court orders and subpoenas. 
+
+H. 
+
+_Court, Arbitration or Similar Proceedings_
+
+. We may disclose the information in a good faith effort to prosecute or defend a court, arbitration or similar proceeding.
+
+I. 
+
+_Consent_
+
+. We may disclose the information for any other purpose provided we have consent of the individual who is the subject of the information.
+
+## VI. Email Information:
+
+We may use and disclose your Email Information as foll ows:
+
+A. 
+
+_To Provide the Services_
+
+. We may use such information to provide, maintain and improve our Services.
+
+B. 
+
+_To Meet Legal Requirements_
+
+. We may use and disclose the information in a good faith effort to meet legal requirements, such as complying with court orders and subpoenas. Where legally permitted, we will exert commercially reasonable efforts to notify you of any such legal proceeding before complying. 
+
+C. 
+
+_To Provide Access to Your Employer_
+
+. If you are a User of an account paid for by a Customer other than you, such as your employer, such Customer may have a right to have access to such information. 
+
+## VII. Sensitive Information
+
+We do not intentionally collect Sensitive information. However, if Sensitive Information is included in emails you send or receive, we will have access to such information. We will only use and disclose such information for the very limited and restricted purposes provided in “VI” above.
+
+  
+
+
+## VIII. Restrictions on Recipients of Information
+
+When not impractical, such as when we are disclosing information in response to a subpoena in connection with a criminal investigation, or inapplicable, such as when the Customer is your employer and monitors email, before we disclose Personal or Email Information, we will require that the recipients enter into agreements for the restrictions that apply to us to also apply to the recipients of the information.
+
+  
+
+
+## IX. Safeguarding Your Information: 
+
+A. We are committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use or disclosure. For example, we store the personal information we collect on computer systems with limited access which are located in controlled facilities. 
+
+B. If a password is used to help protect your accounts and personal information, it is your responsibility to keep your password confidential. Do not share this information with anyone. If you are sharing a computer you should always log out before leaving a site or service to protect access to your information from subsequent users. 
+
+C. Credit card information is received by us over a secure connection and not used, shared or stored except in connection with processing payments or as required by law. The information is shared only with processors who have entered into a written agreement with us committing to securing and maintaining the confidentiality of the information. 
+
+D. We also take action to protect user information off-line. All personal information is kept restricted in our offices. Only employees and independent contractors who need the information to perform a specific job are granted access. 
+
+## X. Changes to Privacy Policy:
+
+Please note that we may change this Privacy Policy from time-to-time. Any changes to this Privacy Policy will be posted to this Website and/or emailed to the last email address you have given to us and will become effective as of the earlier of the date we post the revised privacy policy on the Website or send the email. You may object to any changes within 20 days after the earlier of when the revised privacy policy is posted on our Website or sent to you. If you timely object, none of the proposed changes will be effective with respect to information that we have already collected from you but will apply only to information we collect or access from you in the future. We do need certain information in order to provide each of our Services. Therefore, if you object to changes in our Privacy Policy which relate to our having access to such information, we may not be able to provide you with such Services. 
+
+  
+
+
+## XI. Accuracy of Data and Right to Review:
+
+A. To the extent that you provide us with current information, we do our best to keep your data accurate and up-to-date . If your data changes (including, but not limited to, a change in your email address) then you are responsible for notifying us of those changes so that we can keep your records up-to-date. 
+
+B. Upon your request, and subject to your paying any sums we require be paid in advance, we will provide you with the Personal Information and, when appropriate, Email Information that we have collected and maintained about you, to which you do not already have access, within 30 days of any request you make for such information. We may charge a reasonable fee and require a reasonable advance deposit for providing this information. 
+
+## XII. Links to Other Websites:
+
+Other websites to which we link and which are not owned or controlled by us are not subject to the terms of this Privacy Policy. Any visit you make to those other websites is at your own risk. ****
+
+  
+
+
+## XIII. Assets Transferred To Successor:
+
+In the event we transfer our assets to a successor, we will enter into an agreement with the successor for the successor to be a party to and be bound by the terms of this Privacy Policy.
+
+## XIV. US-EU and US-Swiss Safe Harbors:
+
+AppRiver complies with the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use and retention of personal information from European Union member countries and Switzerland. AppRiver has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>.
+
+  
+
+
+## XV. Dispute Resolution:
+
+In compliance with the US-EU and the US-Swiss Safe Harbor Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact AppRiver at:
+
+**AppRiver, LLC**  
+Privacy Department  
+1101 Gulf Breeze Pkwy, Suite 200  
+Gulf Breeze, FL. 32561
+
+  
+
+
+## XVI. Effective Date:
+
+This Privacy Policy is effective with respect to all data that we have collected, or in the future collect, from you.
+
+  
+
+
+## XVII. Questions:
+
+If you have any questions, comments or concerns or wish to update, delete or change any Personal Information submitted on this website, or have any questions about our Privacy Policy, please notify us at [privacy@appriver.com](mailto:privacy@appriver.com) or through postal at:
+
+**AppRiver, LLC**  
+Privacy Department  
+1101 Gulf Breeze Pkwy, Suite 200  
+Gulf Breeze, FL. 32561
+
+Privacy Policy v4.0 | 03.29.12
