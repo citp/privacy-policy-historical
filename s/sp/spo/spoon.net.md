@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the spoon.net privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207035859id_/http%3A//www.spoon.net/Terms/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spoon.net privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515161250id_/http%3A//spoon.net/terms/privacy) for the most accurate reproduction.*
 
 # Privacy
 
+## Privacy Policy
+
 _Last updated February 28, 2011_
 
-We are strongly committed to protecting the privacy of your personal information. The policies below are applicable to the Spoon.net web site and online services (“Web Site”) and to various other products and services collectively branded “Spoon” ("Services") produced, operated, and maintained by Code Systems Corporation d/b/a Spoon, Inc. (collectively “Spoon” or “we”, “us”, or “our”). We have established this privacy policy (“Privacy Policy”) to let you know the kinds of personal information we may gather during your visit to the Web Site, why we gather your information, what we use your personal information for, when we might disclose your personal information, and how you can manage your personal information.
+We are strongly committed to protecting the privacy of your personal information. The policies below are applicable to the Spoon.net web site and online services ("Web Site") and to various other products and services collectively branded "Spoon" ("Services") produced, operated, and maintained by Code Systems Corporation d/b/a Spoon, Inc. (collectively "Spoon" or "we", "us", or "our"). We have established this privacy policy ("Privacy Policy") to let you know the kinds of personal information we may gather during your visit to the Web Site, why we gather your information, what we use your personal information for, when we might disclose your personal information, and how you can manage your personal information.
 
 Please be advised that the practices described in this Privacy Policy apply only to information gathered online at our Web Site or through any Spoon products or services. It does not apply to information that you may submit to us offline, or to web sites maintained by other companies or organizations to which we may link.
 
-**By visiting our Web Site or using our Services, you are accepting the practices described in our Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Web Site or Services. We reserve the right to modify or amend the terms of our Privacy Policy from time to time without notice. Your continued use of our Web Site and Services following the posting of changes to these terms will mean you accept those changes. If we intend to apply the modifications or amendments to this Privacy Policy retroactively, we will provide you with notice of the modifications or amendments. If you have any questions about this Privacy Policy or don’t see your concerns addressed here, you should contact us by email at support@spoon.net.**
+**By visiting our Web Site or using our Services, you are accepting the practices described in our Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Web Site or Services. We reserve the right to modify or amend the terms of our Privacy Policy from time to time without notice. Your continued use of our Web Site and Services following the posting of changes to these terms will mean you accept those changes. If we intend to apply the modifications or amendments to this Privacy Policy retroactively, we will provide you with notice of the modifications or amendments. If you have any questions about this Privacy Policy or don't see your concerns addressed here, you should contact us by email at support@spoon.net.**
 
-From time to time, we add or change functions, features or products to our web sites or add or change Services. This, and our commitment to protecting the privacy of your personal information, may result in periodic changes to this Privacy Policy. As a result, please remember to refer back to this Privacy Policy regularly to review any amendments.
+From time to time, we add or change functions, features or products to our web sites or add or change Services. This, and our commitment to protecting the privacy of your personal information, may result in periodic changes to this Privacy Policy. As a result, please remember to refer back to this Privacy Policy regularly to review any amendments
 
 ### Controllers of Personal Information
 
@@ -22,15 +24,15 @@ Spoon adheres to the highest standards of ethical practices in all of our operat
 
 Spoon collects and processes information about you in order to:
 
-Identify you each time you visit a Web Site or wish to have a Service provided;  
-Handle orders, deliver products and services, process payments, communicate with you about orders, products, services, promotional offers, update our records and generally maintain your accounts with us;  
-Process and communicate with you about content you may submit to the Web Site, such as articles, product reviews, comments, photos, images, applications, virtual machine data and templates, and other content you may submit;  
-Improve our Services and Web Site;  
-Prevent fraud or detect abuse of our Web Site;  
-Customize your experience, for example, by providing advertisements that we think are relevant to you and which support any specific requests for information you may make through keyword searches;  
-Carry out research on the demographics, interests and behaviour of all of our customers;  
-Provide registration, usage, and analytical data to publishers of content on our Web Site and Services;  
-Send you information we think you may find useful, including information about new products and services.  
+Identify you each time you visit a Web Site or wish to have a Service provided;   
+Handle orders, deliver products and services, process payments, communicate with you about orders, products, services, promotional offers, update our records and generally maintain your accounts with us;   
+Process and communicate with you about content you may submit to the Web Site, such as articles, product reviews, comments, photos, images, applications, virtual machine data and templates, and other content you may submit;   
+Improve our Services and Web Site;   
+Prevent fraud or detect abuse of our Web Site;   
+Customize your experience, for example, by providing advertisements that we think are relevant to you and which support any specific requests for information you may make through keyword searches;   
+Carry out research on the demographics, interests and behaviour of all of our customers;   
+Provide registration, usage, and analytical data to publishers of content on our Web Site and Services;   
+Send you information we think you may find useful, including information about new products and services.   
 You may be asked, either when you register with us, or at other times, for information about yourself, such as your name, email address, postal address, and telephone number, and demographic information such as your age, gender, and postal code. You may also be asked to share with us your interests, hobbies and preferences. In addition, when you order certain goods or services from our Web Sites, we will need to know your credit/payment card number and expiration date or other information required to process payments.
 
 We also collect and store information that you enter into this Web Site, through registration of a Spoon product or service, or that you provide through our help desk, customer service representatives, or requests for more information. Registration may also be required and Personal Information may also be collected in certain portions of the Web Site in which you specifically and knowingly provide such information, e.g. community postings (i.e., chat or bulletin boards, blog comments, discussion posts, and public reviews, if any). We also may collect and store information about you that we receive from other sources, to enable us to update and correct the information contained in our database.
@@ -49,15 +51,15 @@ We may automatically collect non-personal information about you such as the type
 
 We never use or install spyware on your computer, nor do we use spyware to retrieve information from your computer.
 
-Like many Web Sites, we use “cookies”, which are small pieces of information that a Web Site transfers to your hard drive to store and sometimes track information about you. Most web browsers automatically accept cookies, but if you prefer, you can change your browser to prevent that. However, you may not be able to take full advantage of our Web Sites if you do so. Cookies are specific to the server that created them and cannot be accessed by other servers, which means they cannot be used to track your movements around the web. Credit card information is not stored in cookies.
+Like many Web Sites, we use "cookies", which are small pieces of information that a Web Site transfers to your hard drive to store and sometimes track information about you. Most web browsers automatically accept cookies, but if you prefer, you can change your browser to prevent that. However, you may not be able to take full advantage of our Web Sites if you do so. Cookies are specific to the server that created them and cannot be accessed by other servers, which means they cannot be used to track your movements around the web. Credit card information is not stored in cookies.
 
 We use cookies for the following reasons:
 
-To identify who you are and to access your account information;  
-To estimate our audience size and patterns;  
-To control how often visitors see similar ads;  
-To track preferences and to improve and update our Web Site; and  
-To track the progress and number of entries in some of our promotions and contests.  
+To identify who you are and to access your account information;   
+To estimate our audience size and patterns;   
+To control how often visitors see similar ads;   
+To track preferences and to improve and update our Web Site; and   
+To track the progress and number of entries in some of our promotions and contests.   
 For more information on cookies and how to disable them, you can consult the information provided by the Interactive Advertising Bureau at www.allaboutcookies.org.
 
 ### With whom is the information shared?
@@ -70,7 +72,7 @@ Our Web Site contains links to the sites of third parties. Please be advised tha
 
 ### Is information collected from children?
 
-This is not a Web Site directed to children under the age of 13, and Spoon does not knowingly collect personal identifiable information from children under 13 years of age. If you are under 13 years of age you should not use this Web Site, and under no circumstance should you send information about yourself to Spoon. If Spoon discovers that a child under the age of 13 has provided Spoon with personally identifiable information, Spoon will immediately delete that child’s information from the Web Site.
+This is not a Web Site directed to children under the age of 13, and Spoon does not knowingly collect personal identifiable information from children under 13 years of age. If you are under 13 years of age you should not use this Web Site, and under no circumstance should you send information about yourself to Spoon. If Spoon discovers that a child under the age of 13 has provided Spoon with personally identifiable information, Spoon will immediately delete that child's information from the Web Site.
 
 ### Advertising Networks
 
@@ -96,7 +98,7 @@ You promise to: (a) provide true, accurate, current and complete information abo
 
 ### What About Contests and Sweepstakes?
 
-When we run a contest or sweepstakes relating to this Web Site, it will be accompanied by a set of rules. The rules for each contest/sweepstakes will specify how the information gathered from you for entry will be used and disclosed, if it is different than as described in this Privacy Policy. In conjunction you’re your entry in such contest or sweepstakes, Personal Information will be collected only if you voluntarily submit it to our sponsors or us.
+When we run a contest or sweepstakes relating to this Web Site, it will be accompanied by a set of rules. The rules for each contest/sweepstakes will specify how the information gathered from you for entry will be used and disclosed, if it is different than as described in this Privacy Policy. In conjunction you're your entry in such contest or sweepstakes, Personal Information will be collected only if you voluntarily submit it to our sponsors or us.
 
 ### Public Areas, Chat Rooms and Newsgroups
 
