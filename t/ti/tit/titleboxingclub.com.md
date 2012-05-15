@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the titleboxingclub.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116042522id_/http%3A//www.titleboxingclub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titleboxingclub.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515080335id_/http%3A//www.titleboxingclub.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Title Boxing Club | Boxing + Kickboxing + MMA Workouts | Kansas City/St. Louis/Ohio Boxing Gyms
+# Privacy | Title Boxing Club | Boxing + Kickboxing Fitness Workouts
 
 TITLE Boxing Club and TITLE Boxing are committed to protecting your privacy. We use the information we collect about our site visitors to provide a more personalized and relevant experience. Please read the following details about our privacy policy.
 
