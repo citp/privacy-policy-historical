@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the trademonster.com privacy policy that was archived on 2011-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110701170121id_/https%3A//www.trademonster.com/Privacy-Policy/Privacy-Policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trademonster.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516003212id_/https%3A//www.trademonster.com/Privacy-Policy/Privacy-Policy.jsp) for the most accurate reproduction.*
 
-# Secure Trading and Privacy | Customer Assets Protected | tradeMONSTER
+# Privacy Policy - Secure Trading & Privacy - tradeMONSTER
 
 We want to make sure you are aware of our privacy policy.
 
 [](https://web.archive.org/Contact-Us/Leadership-Team.jsp)[](https://web.archive.org/Contact-Us/trademonster-Press-Coverage.jsp)[](https://web.archive.org/Contact-Us/Press-Releases.jsp)[](https://web.archive.org/Contact-Us/Contact-Us.jsp)[](https://web.archive.org/Contact-Us/Service.jsp)
 
-THIS AGREEMENT WAS LAST UPDATED ON July 21, 2008. 
+THIS AGREEMENT WAS LAST UPDATED ON August 11, 2011.
 
 OM Securities LLC® (www.trademonster.com) shares your concerns about your privacy and the protection of your personal information online. We are committed to treating personal information we obtain through our web site with respect for your privacy concerns, and in accordance with the Privacy Policy set forth below. The following Privacy Policy describes OM Securities LLC's policies concerning the use of personal information of all users collected via this web site. 
 
@@ -46,11 +46,11 @@ Information Sharing and Disclosure
 OM Securities LLC may share or disclose personally identifiable information about you to other companies or individuals when: 
 
   * we have your consent to share the information;
-  * we utilize third party service providers to provide products, services or functions on our behalf and require these service providers to agree to maintain the confidentiality of your personally identifiable information. For example, we provide information to companies that prepare and mail account statements and transaction confirms.
-  * we have entered into a business relationship with a third party company or an individual whom we believe and expect will conform with our Privacy Policy;
+  * we utilize third party service providers to provide products, services or functions on our behalf and require these service providers to agree to maintain the confidentiality of your personally identifiable information. For example, we provide information to companies that prepare and mail account statements and transaction confirms. (Not applicable to Futures accounts)
+  * we have entered into a business relationship with a third party company or an individual whom we believe and expect will conform with our Privacy Policy; (Not applicable to Futures accounts)
   * we need to protect our legal rights (for example, if we are trying to collect money you owe us or we are trying to enforce our agreements with you);
   * we must comply with applicable laws to cooperate with regulators or law enforcement authorities. These parties include government/regulatory organizations, such as the Internal Revenue Service (IRS) and the Securities and Exchange Commission (SEC), as well as any of the securities exchanges, self-regulatory organizations and states we are registered with and to parties under court order or subpoena that request this information; or
-  * in connection with a sale, merger, transfer, exchange, or other disposition (whether of assets, stock, or otherwise) of all or a portion of the OM Securities LLC business. 
+  * in connection with a sale, merger, transfer, exchange, or other disposition (whether of assets, stock, or otherwise) of all or a portion of the OM Securities LLC business. (Not applicable to Futures accounts)
 
 
 
