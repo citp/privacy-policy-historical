@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the accuratebackground.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220045713id_/http%3A//www.accuratebackground.com/privacy-policy.php%3Fsec%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accuratebackground.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515072534id_/http%3A//accuratebackground.com/privacy-policy.php%3Fsec%3D8) for the most accurate reproduction.*
 
-# Privacy Policy | Accurate Background, Inc
+# Privacy Policy / Terms of Use | Accurate Background, Inc
+
+**Privacy Policy**
 
 Welcome to Accurate Background, Inc.'s Web Site ("Web Site"). Please carefully read our privacy policy to understand how we will treat the information you provide while visiting this Web Site. This policy may change from time to time. Please check the policy each time you use our Web Site for the most current information.
 
@@ -32,6 +34,26 @@ Accurate Background, Inc.
 Lake Forest, CA 92630   
 800.784.3911  
 [ customer_service@accuratebackground.com](mailto:customer_service@accuratebackground.com)  
-[www.accuratebackground.com](https://web.archive.org/web/20111220045713id_/http%3A//www.accuratebackground.com/index.php)
+[ www.accuratebackground.com](https://web.archive.org/web/20120515072534id_/http%3A//accuratebackground.com/index.php)
 
 **Effective Date:** January 18, 2008
+
+**Terms of Use**
+
+Welcome to our accuratebackground.com. If you continue to browse and use this website you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy govern Accurate Background's relationship with you in relation to this website.
+
+The term 'Accurate Background' or 'us' or 'we' refers to the owner of the website whose registered office is 6 Orchard, Suite 200, Lake Forest, CA 92630. The term 'you' refers to the user or viewer of our website.
+
+The use of this website is subject to the following terms of use:
+
+  * The content of the pages of this website is for your general information and use only. It is subject to change without notice.
+  * Neither we nor any third parties provide any warranty or guarantee as to the accuracy, timeliness, performance, completeness or suitability of the information and materials found or offered on this website for any particular purpose. You acknowledge that such information and materials may contain inaccuracies or errors and we expressly exclude liability for any such inaccuracies or errors to the fullest extent permitted by law.
+  * Your use of any information or materials on this website is entirely at your own risk, for which we shall not be liable. It shall be your own responsibility to ensure that any products, services or information available through this website meet your specific requirements.
+  * This website contains material which is owned by or licensed to us. This material includes, but is not limited to, the design, layout, look, appearance and graphics. Reproduction is prohibited other than in accordance with the copyright notice, which forms part of these terms and conditions.
+  * All trademarks reproduced in this website, which are not the property of, or licensed to the operator, are acknowledged on the website.
+  * Unauthorized use of this website may give rise to a claim for damages and/or be a criminal offense.
+  * From time to time this website may also include links to other websites. These links are provided for your convenience to provide further information. They do not signify that we endorse the website(s). We have no responsibility for the content of the linked website(s).
+  * You may not create a link to this website from another website or document without Accurate Background's prior written consent. 
+  * Your use of this website and any dispute arising out of such use of the website is subject to the laws of the State of California.
+
+
