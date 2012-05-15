@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the varsity.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209125349id_/http%3A//varsity.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the varsity.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515025458id_/http%3A//www.varsity.com/privacy_policy) for the most accurate reproduction.*
 
 # Cheerleading & Dance Uniforms & Events - Varsity.com
 
@@ -15,11 +15,11 @@ Guidelines for Parents
 Contact Information
 
   
-**Safeguarding Our Members' Privacy **
+**Safeguarding Our Members' Privacy**
 
 Your privacy is very important to Varsity.com ('Varsity'). This Privacy Policy spells out our commitment to respecting the privacy of Varsity.com users. Varsity reserves the right to change this policy, and we will notify you of any changes.
 
-**Collection of Information ** | back to top
+**Collection of Information** | back to top
 
 Collection of information is usually grouped into two categories: personally identifiable information and so-called 'aggregate' information. Personally identifiable information is any information in Varsity's possession that is associated with a specific user of our site (such as a name or address) and information we collect about how individual visitors use our site (such as the fact that a visitor likes entertainment news or has purchased certain merchandise). It does not include aggregate information, which is general demographic information (such as the total number of visitors who are more than 35 years old). 
 
@@ -47,7 +47,7 @@ Your profile information (any demographic information you provide to Varsity.com
 
 We use 'cookies' to deliver content specific to your interests and to save your password so that you do not have to re-enter it each time you visit the site. For more information on cookies and why we use them, please read our Varsity.com Frequently Asked Question (FAQ) page.
 
-**Agreement, Interactive Features Guidelines and policies **| back to top
+**Agreement, Interactive Features Guidelines and policies** | back to top
 
 From time to time, we'll make our visitorship list available to carefully selected outside organizations. We may also send approved commercial communications to visitors on behalf of outside parties. If you do not want your name, address, e-mail address or other personal information to be provided for such purposes, indicate your intent by going to Visitor Preferences and choosing to opt out. 
 
@@ -55,13 +55,13 @@ Varsity.com uses strict procedures and safeguards designed to protect the privac
 
 Varsity.com complies in all respects with the Electronic Communications Privacy Act of 1986, as amended, ('ECPA'). Subject to the subpoena, warrant, consent, and court order provisions of ECPA, we must provide visitor information and/or Internet communications to the proper authorities.
 
-**AggregateInformation **| back to top
+**Aggregate Information** | back to top
 
 Varsity.com tracks the total number of visitors to each of our pages in an aggregate form to allow us to update and improve our sites. Personally identifiable information is not extracted in this process. Varsity.com may use or disclose aggregated (not personally identifiable) information for any purpose. 
 
 On a limited basis, we use 'cookie' technology. Cookies are pieces of information that an Internet site transfers to your hard drive for record-keeping purposes. Our servers then use these cookies to make your sessions easier by saving your preferences while you are on Varsity.com pages. The use of cookies is an industry standard -- you'll find them almost everywhere on the Internet. Our cookie usage is single session-only information, and is not stored across multiple sessions. There are two cookies used throughout our site. The first cookie allows us to know who the Visitor is and that he or she properly authenticated into our network. This cookie information can be used to retrieve personal information needed during the Visitor session, for example, to build your customized pages. Personal user information is stored only temporarily in this cookie. Once this information is retrieved for this purpose, the visitor identity is not stored or used for any other purpose. The second cookie is an 'advertising' cookie which we use to keep track of the ads you have seen. Varsity.com tracks which ads have been viewed, and we tie it to demographic data, but not to personally identifiable information. Remember, this describes cookie usage ONLY on Varsity.com (and its affiliate) sites. We have no control over the use of cookies by other Internet sites and their owners. 
 
-**E-Commerce **| back to top
+**E-Commerce** | back to top
 
 If you make a purchase from a store hosted by Varsity.com (please note that this does NOT include linked e-commerce sites where the 'Return to Varsity.com' phrase appears in the frame), you need to review the merchant's privacy policy prior to providing them with your information. The information obtained during your visit to those stores, and the information you give such as your credit card number and contact information, is provided to the merchants. This is to enable transactions to take place and for the items to be shipped to you. However, these merchants, by contract, cannot use this information for any other purpose without your permission. For example, the merchant may ask if you would like to receive marketing information directly from them. If you choose to receive this information (by checking an 'opt-in' box at the point of purchase), you will receive marketing information directly from the merchant in the future until such time as you ask them directly to be taken off of their distribution list. While we encourage all of our merchant partners to adhere to a privacy policy, it is a good idea to read the merchant's privacy policy yourself before agreeing to give them permission to use your personal information for marketing purposes. For example, their privacy policy may not prevent them from selling or sharing your personal information with other third parties. If you do not grant our merchant partners permission to contact you with marketing information (which will be signified by checking an 'opt-out' box at the point of purchase or by leaving an 'opt-in' box blank), the merchant is prohibited from contacting you directly, except to communicate customer service information regarding a specific purchase and cannot share or sell any of your information to third parties.
 
@@ -71,7 +71,7 @@ Although the Internet offers a wealth of information and exciting opportunities 
 
 Please instruct your children not to give us their name, address or e-mail address, or provide any personal information to anyone without your permission. It may also be wise to carefully note all the people with whom your child frequently corresponds over the Internet or on any online service. 
 
-**Chat, Newsgroups, Bulletin Boards and Kids ** | back to top
+**Chat, Newsgroups, Bulletin Boards and Kids** | back to top
 
 Chat, newsgroups, and bulletin boards offer children and parents alike the unique opportunity to make friends and talk to people all over the world. Please remember, though, that these interactive features are just like other public places where strangers meet. If you allow your children to access interactive features, please remind them of the dangers involved when corresponding or communicating with strangers or new acquaintances on the Internet (especially in Chat and Newsgroups, as well as when using e-mail). 
 
@@ -89,7 +89,7 @@ The best way to ensure that your children are having positive online experiences
 
 If you have cause for concern about your children's online activities, talk to them. Also seek out the advice and counsel of other computer users in your area and become familiar with literature on Cyber Patrol and other filtering devices. Open communication with your children, utilization of such computer resources, and getting online yourself will help you obtain the full benefits of these devices and alert you to any potential problem that may occur with their use. 
 
-**Guidelinesfor Parents ** | back to top
+**Guidelines for Parents** | back to top
 
 By taking responsibility for their children's online computer use, parents can greatly minimize the potential risks. 
 
@@ -117,6 +117,6 @@ Because some of the content on the Internet consists of material that is adult-o
 
 Varsity.com recommends that to avoid any such surprises, you take advantage of the access controls that Varsity.com offers, as we discuss above, and be diligent in your supervision of any children you allow to use Varsity.com Internet. 
 
-**ContactInformation **|  back to top
+**Contact Information** |  back to top
 
 For answers to specific concerns regarding privacy that are not addressed here, see our About Us and Reporting Violations sites. These sites provide information on whom and how to contact us at Varsity.com. 
