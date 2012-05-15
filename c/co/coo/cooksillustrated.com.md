@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cooksillustrated.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114175604id_/http%3A//www.cooksillustrated.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooksillustrated.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515045611id_/http%3A//www.cooksillustrated.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Cook's Illustrated
 
@@ -8,15 +8,15 @@ To protect your privacy, we have adopted the following principles, and assure yo
 
 ## INFORMATION ABOUT YOU
 
-There are times when we may collect personal information from you. For example, when you register with America's Test Kitchen for one of our websites, cooking courses, wine program, electronic newsletters, product giveaways, surveys, or other services, personal information is requested. If you choose not to provide the information we request, you can still visit parts of our websites, but you may be unable to access certain content, offers, and services. 
+There are times when we may collect personal information from you. For example, when you register with America's Test Kitchen for one of our websites, cooking courses, electronic newsletters, product giveaways, surveys, or other services, personal information is requested. Furthermore, you may be asked, when entering personal information into one of our third party hosted applications (our iPad App as an example), whether you agree to have information shared with America’s Test Kitchen. If you choose not to provide the information we request, you can still visit parts of our websites, but you may be unable to access certain content, offers, and services. 
 
 ## USE OF INFORMATION ABOUT YOU
 
-From time to time, we are approached by companies or organizations that have a product or service that we believe might be of interest to you. We may share some your information with these companies so that they can communicate their products or services to you (we never share telephone or credit card numbers with any third party). You may receive a telemarketing sales call although your number is listed on the state or national 'Do Not Call' list. Please note the law allows contact if the two parties already do business or have done business in the recent past. 
+From time to time, we are approached by companies or organizations that have a product or service that we believe might be of interest to you. We may share some of your information with these companies so that they can communicate their products or services to you (we never share telephone or credit card numbers with any third party). You may receive a telemarketing sales call although your number is listed on the state or national 'Do Not Call' list. Please note the law allows contact if the two parties already do business or have done business in the recent past. 
 
 Your e-mail address is added to our electronic mailing list so that, from time to time, we can send you our newsletter or information about additions and special promotions from America's Test Kitchen. 
 
-E-mail addresses registered to our TV show websites are sometimes shared with third party underwriters of our television shows. Registrants have the opportunity to opt-out of these third party communications at the time that they register. E-mail addresses registered to CooksIllustrated.com or CooksCountry.com are not shared with third parties. 
+E-mail addresses registered to our TV show websites are sometimes shared with third party underwriters of our television shows. Registrants have the opportunity to opt-out of these third party communications at the time that they register. E-mail addresses registered to CooksIllustrated.com are not shared with third parties. 
 
 ## ACCURACY
 
@@ -30,7 +30,7 @@ Content posted in these public forums becomes the sole property of America's Tes
 
 ## SECURITY
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. All orders are communicated to us via a secure server. Any version 3.0 or greater of Netscape Navigator or Microsoft Internet Explorer can process secure transactions over our secure server. 
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. All orders are communicated to us via a secure server. 
 
 ## CONTACTING COOKSILLUSTRATED.COM
 
