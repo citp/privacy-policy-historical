@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the music-jobs.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216183335id_/http%3A//uk.music-jobs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the music-jobs.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515142130id_/http%3A//uk.music-jobs.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | UK Music Jobs
 
