@@ -1,29 +1,28 @@
-> *The following text is extracted and transformed from the torrentavi.com privacy policy that was archived on 2011-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110922205050id_/http%3A//www.torrentavi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torrentavi.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515160735id_/http%3A//sharetv.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Torrent Avi, Movie Releases, Torrent Movies
+# Privacy Policy - ShareTV
 
-## Privacy Policy
+**¬ UPDATE:** The networks are announcing what shows are coming in the Fall. Take a look [here](https://web.archive.org/forum/discuss/Q_108355). 
 
-**Torrent AVI values your privacy. We will never disclose your personal information (email address, IP addresses, etc.) and associated activity on this Web site to any third party, without your permission. We also will not retain your personal information for any longer than necessary for administrative purposes. Our google analytics collects cookies and other info while you browse the site. More specifically the DoubleClick DART cookie is used by Google in the adsense ads served on this website.**
+We respect your privacy and are committed to safeguarding it while online at our site **ShareTV.org**. The following discloses the information gathering and dissemination practices for this Web site. 
 
-**IP Addresses**
+**Log Files**  
+Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. 
 
-An IP (Internet Protocol) address is a set of numbers assigned to you by your ISP (Internet Service Provider) during the time that you are online. Every website you visit has access to this information, due to the way the Internet works. This is nothing to worry about, as all websites need your IP in order to discern where they have to send the information to.
+**Cookies**  
+A cookie is a piece of data stored on the user's computer tied to information about the user. Our site uses cookies only for storing ID information while being logged-in. Some of our business partners may also use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. If you wish to disable cookies, you may do so through your individual browser options. 
 
-We (Torrent AVI) only record IP addresses for the usage of statistics and when users enter comments on the website.
+**Links**  
+This Web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
-**Email Addresses**
+**Advertisers**  
+We use outside ad companies to display ads on our site. These ads may contain cookies and/or web beacons to collect data in the ad serving process and are collected by our ad companies, and we do not have access to this information. We work with the ad companies: Google Adsense. Please check their websites for respective privacy policies. 
 
-We require proper and correct email addresses for an leaving a user comment due to security reasons, and once provided, it is kept on file to link your email address to your account name. This information never leaves the boundaries of the site’s database, and you can be assured that only you and the staff have access to that information.
+**Google AdSense**  
+Google uses what's called the DART cookie, which enables it to serve ads to you based on your visits on this site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
-**External Links**
+**Contact Information**  
+If users have any questions or suggestions regarding our privacy policy, please contact us at: admin@sharetv.org 
 
-Within the site, various external links may be present to sites that we do not own, and therefore have no control over. We do not necessarily admonish or support the privacy practices of these sites, and cannot be held responsible for neither the content, nor the privacy practices. We urge you to be careful when clicking on external URLs, and if you do find an uncrupulous link upon the site, feel free to report your findings to us, and we will deem whether it is necessary to remove the link.
+  
 
-**Public Forums**
-
-We may or may not provide message boards and comments systems to our members and the general public. Please remember that any information within these areas is considered public, and you should therefore exercise caution when deciding to disclose any personal information. In fact, we highly frown on such practices that are not within private boundaries. We cannot be held responsible for protecting the privacy of any information that you willingly choose to disclose upon the site. You do so at your own risk.
-
-**Security**
-
-One thing we are proud of is our dedication to site security, and doing as much as physically possible to protect your personal information from loss, misuse, unauthorised access or alteration. Please bear in mind that we cannot guarantee under all circumstances that loss, misuse, unauthorised access or alteration to data will never occur. Therefore, we will not be held responsible should any of the aforementioned occur.
