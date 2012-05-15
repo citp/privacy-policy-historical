@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the youtradefx.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607022930id_/http%3A//www.youtradefx.com/en/forex-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youtradefx.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515054321id_/http%3A//www.youtradefx.com/en/forex-privacy-policy) for the most accurate reproduction.*
 
 # Forex Privacy Policy
 
-Privacy Policy  
+## Privacy Policy  
 
 
 Protecting your personal information and privacy is important to us.  
@@ -32,7 +32,7 @@ To that end, we automatically collect and store the following non-personally ide
 
 This information allows us to improve our Web site design, presentation and system performance. We collect this information from users who read, browse and/or download information from our Web site.
 
-Personal Information  
+## Personal Information  
 
 
 •In order to use certain features of our Web site, you may need to submit personal inormation so we can respond appropriately.  
@@ -45,7 +45,7 @@ Personal Information
 •Except for the foregoing exceptions and for authorized government law enforcement activities, we do not provide personal information to outside organizations without first obtaining your permission.  
 
 
-Using Personal Information
+## Using Personal Information
 
 We collect personal information about you which is reasonably necessary to provide you with the products and services you request as well as other information, products and services offered by or through us.  
 Your personal information will also assist us in considering applications you make to us.  
@@ -71,12 +71,12 @@ We will properly dispose of all files, letters and correspondence (hard copy or 
 •In all circumstances where personal information may become known to our contractors, agents and outsourced service providers, there are confidentiality arrangements in place. Contractors, agents and outsourced service providers are not able to use or disclose personal information for any purposes other than our own.  
 •We make every effort to deal only with parties who share and demonstrate the same values as our own.
 
-Disclosure required by law  
+## Disclosure required by law  
 
 
 We may be required to disclose customer information by law e.g. under court orders or statutory notices pursuant to taxation or social security laws or under laws relating to sanctions, anti-money laundering or counter-terrorism financing. 
 
-Information Collected for Tracking and Customization (Cookies)  
+## Information Collected for Tracking and Customization (Cookies)  
 
 
 •We may use three types of information collecting tools on its various Web sites: session cookies, persistent cookies and other customization tools.  
@@ -98,16 +98,16 @@ Information Collected for Tracking and Customization (Cookies)
 •This information is saved on our servers.  
 
 
-Accessing your personal information
+## Accessing your personal information
 
 You can request to access your information by contacting us (see our contact details below). Generally, we will give you access to your information. However, there may be some legal or administrative reasons to deny access. If access is denied, we will provide you with the reason why. 
 
-Dealing with YouTradeFX Online
+## Dealing with YouTradeFX Online
 
 If you visit YouTradeFX website to browse, read or download information, our system will log these movements. These web site logs are not personally identifiable and YouTradeFX makes no attempt to identify persons who browse the site.  
 Your account information is password protected and we recommend you do not disclose your password to anyone.  
 We cannot guarantee or accept responsibility for the privacy practices or the content of web sites to which we provide links. 
 
-Other important information
+## Other important information
 
 We may amend our Privacy Policy from time to time. We will notify you of any changes to our Privacy Policy that requires your consent before implementation. If you have a complaint or want more information about how YouTradeFX is managing your personal information, please contact us. 
