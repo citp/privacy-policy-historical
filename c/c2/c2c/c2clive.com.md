@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the c2clive.com privacy policy that was archived on 2011-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110225050235id_/http%3A//www.c2clive.com/Piracypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the c2clive.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515070148id_/http%3A//www.c2clive.com/Piracypolicy.php) for the most accurate reproduction.*
 
 # ANNA UNIVERSITY | Education News Portal from Hyderabad
 
