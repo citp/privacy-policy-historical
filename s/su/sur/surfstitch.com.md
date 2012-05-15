@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surfstitch.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219070449id_/http%3A//www.surfstitch.com/info/footer_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfstitch.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515113215id_/http%3A//www.surfstitch.com/info/footer_privacy_policy) for the most accurate reproduction.*
 
 # SURFSTITCH - AUSTRALIA'S #1 FOR SURF & FASHION | Boardshorts, Bikinis, Tees, Dresses & Surfing Gear
 
@@ -99,10 +99,4 @@ WHAT'S IN STORE | SHIPPING & RETURNS | HOW CAN WE HELP? | FURTHER INFORMATION
 [Sale](https://web.archive.org/category/sale) | [Surf Gear](https://web.archive.org/category/surf) | [Australian Returns](https://web.archive.org/info/Australian_Returns) | [Shipping FAQ](https://web.archive.org/info/Shipping_FAQ) | [Site Map](https://web.archive.org/info/footer_site_map) | [Look Book](https://web.archive.org/info/Look_book)  
 [Brands A-Z](https://web.archive.org/brand) | [Snow Gear](https://web.archive.org/category/snow) | [International Returns](https://web.archive.org/info/International_Returns) | [Returns FAQ](https://web.archive.org/info/Returns_FAQ) | [Privacy Policy](https://web.archive.org/info/footer_privacy_policy) | [This and That Fashion Blog](http://blog.surfstitch.com/)  
   
-Copyright SurfStitch 2011 All rights reserved
-
-[](http://www.verisign.com.au/ssl-certificate/)
-
-[](https://www.mcafeesecure.com/RatingVerify?ref=www.surfstitch.com)
-
-[ ](http://m.surfstitch.com/)
+© Copyright SurfStitch 2012 All rights reserved
