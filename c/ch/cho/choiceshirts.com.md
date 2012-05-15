@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the choiceshirts.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222204527id_/http%3A//www.choiceshirts.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the choiceshirts.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515020339id_/http%3A//www.choiceshirts.com/privacy-security) for the most accurate reproduction.*
 
-# Privacy & Security T-Shirt - ChoiceShirts
+# Privacy & Security - ChoiceShirts
 
 You should also review our [Terms of Use](https://web.archive.org/terms-of-use). 
 
