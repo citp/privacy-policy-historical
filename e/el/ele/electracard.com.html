@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the electracard.com privacy policy that was archived on 2011-11-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111110110747id_/http%3A//electracard.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the electracard.com privacy policy that was archived on 2012-05-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120515101013id_/http%3A//www.electracard.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>Privacy Policy of ECS</title>
@@ -38,13 +38,42 @@
     <td colspan="3" bgcolor="#FFFFFF">
 <link rel="StyleSheet" href="script/tedstyle.css" type="text/css">
 <script src="script/searchhi.js" type="text/javascript" language="JavaScript"></script>
+<script src="http://www.electracard.com/script/jquery-1.2.6.min.js" type="text/javascript" language="JavaScript"></script>
 <script language="JavaScript">
-<!--
+
 function submitsearch()
 {
 	document.topsearch.submit();
 }
-//-->
+function slideSwitch() {
+    var $active = $('#slideshow IMG.active');
+	if ( $active.length == 0 ) $active = $('#slideshow IMG:last');
+	var $next =  $active.next().length ? $active.next()
+        : $('#slideshow IMG:first');
+	$active.addClass('last-active');
+	   $next.css({opacity: 0.0})
+        .addClass('active')
+        .animate({opacity: 1.0}, 1000, function() {
+            $active.removeClass('active last-active');
+			
+        });
+}
+function slideSwitch_new() {
+	var $active = $('#slideshow1 IMG.active');
+	if ( $active.length == 0 ) $active = $('#slideshow1 IMG:last');
+    var $next =  $active.next().length ? $active.next()
+        : $('#slideshow1 IMG:first');
+    $active.addClass('last-active');
+    $next.css({opacity: 0.0})
+        .addClass('active')
+        .animate({opacity: 1.0}, 1000, function() {
+            $active.removeClass('active last-active');
+        });
+}
+$(function() {
+    setInterval( "slideSwitch()", 4000 );
+	setInterval( "slideSwitch_new()", 6000 );
+});
 </script>
 <input type="hidden" name="srch" id="srch" value="0">
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -200,10 +229,24 @@ This policy may change from time to time without notice, but you can always cont
 <table width="224" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
         <td class="text" style="padding-left:18px; padding-right:18px;">
-		 <span class="blue-title">Request for Information</span><br><br>
+		 
             <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
   <tbody><tr>
-    <td width="46%" valign="middle"><strong>For Sales Enquiries</strong></td>
+    <td width="46%" valign="middle"><div id="slideshow"><a href="#"><img src="images/index_01.png" alt="Slideshow Image 1" class="active">
+				<img src="images/index_02.png" alt="Slideshow Image 2">	
+			 	<img src="images/index_03.png" alt="Slideshow Image 3">
+				<img src="images/index_04.png" alt="Slideshow Image 4">
+				<img src="images/index_05.png" alt="Slideshow Image 5">
+				<img src="images/index_06.png" alt="Slideshow Image 6">
+				 <img src="images/index_07.png" alt="Slideshow Image 7"> 
+				  <img src="images/index_08.png" alt="Slideshow Image 8"></a></div> 
+	</td>
+   </tr>
+    <tr>
+    <td width="46%" valign="middle"><span class="blue-title"><br>Request for Information</span><br></td>
+   </tr>
+	<tr>
+    <td width="46%" valign="middle"><strong><br>For Sales Enquiries</strong></td>
     </tr>
   <tr>
     <td valign="middle"><a href="requestforinfo.php"><img src="images/click-here-btn.gif" vspace="10" border="0"></a></td>
