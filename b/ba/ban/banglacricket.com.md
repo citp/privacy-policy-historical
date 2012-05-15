@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the banglacricket.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114175526id_/http%3A//www.banglacricket.com/html/footer/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banglacricket.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515142206id_/http%3A//www.banglacricket.com/html/footer/privacy_policy.php) for the most accurate reproduction.*
 
-# BanglaCricket
+# BanglaCricket: Privacy policy
 
 BanglaCricket.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. Please note this policy applies only to information collected by BanglaCricket.com online and does not impact information collected or used by BanglaCricket.com or its affiliates through other means.
 
@@ -22,5 +22,5 @@ BanglaCricket.com reserves the right to change this policy at any time. Please c
 
 ## How to Contact Us
 
-Should you have other questions or concerns about this privacy policy, please [contact us](https://web.archive.org/web/20111114175526id_/http%3A//www.banglacricket.com/html/footer/contact_us.php).  
+Should you have other questions or concerns about this privacy policy, please [contact us](https://web.archive.org/web/20120515142206id_/http%3A//www.banglacricket.com/html/footer/contact_us.php).  
 
