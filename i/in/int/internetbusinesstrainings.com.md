@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetbusinesstrainings.com privacy policy that was archived on 2011-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111004182324id_/http%3A//www.internetbusinesstrainings.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetbusinesstrainings.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515091920id_/http%3A//www.internetbusinesstrainings.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Internet Business Trainings
 
@@ -22,3 +22,5 @@ We have included links on this site for your use and reference. We are not respo
 The contents of this statement may be altered at any time, at our discretion. 
 
 If you have any questions regarding our privacy policy then you may contact us at info@internetbusinesstrainings.com
+
+## Facebook Comments
