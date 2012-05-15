@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sabra.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219183551id_/http%3A//sabra.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sabra.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515062332id_/https%3A//sabra.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
