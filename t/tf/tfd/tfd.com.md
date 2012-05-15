@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tfd.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007204921id_/http%3A//www.thefreedictionary.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tfd.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515210032id_/http%3A//www.thefreedictionary.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -46,7 +46,7 @@ To find more information about cookies:
 * If you are using Microsoft Internet Explorer® as your browser, go to the Microsoft Web site at http://www.microsoft.com/info/cookies.htm?RLD=291 
 * If you are using Netscape Navigator® as your browser, go to the Netscape Web site at http://home.netscape.com/security/basics/privacy.html#cookies 
 
-We use third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit [Network Advertising Initiative](http://www.networkadvertising.org/optout_nonppii.asp).
+We may use third-party advertising companies, such as Google, Yahoo!, Microsoft) to serve ads when you visit our website. These companies may use information about your interests in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the [Digital Advertising Alliance’s](http://www.aboutads.info/choices/) or [Network Advertising Initiative’s website](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 ### Disclosure by Law and Protection of Farlex
 
