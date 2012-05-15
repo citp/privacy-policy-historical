@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the lifewithlisa.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104225617id_/http%3A//www.lifewithlisa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifewithlisa.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515134305id_/http%3A//www.lifewithlisa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Life With Lisa
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
 
-  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.lifewithlisa.com%2Fprivacy-policy%20\(via%20@sociablesite\) "Twitter")
+Be Sociable, Share!
+
+  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.lifewithlisa.com%2Fprivacy-policy%20 "Twitter")
   * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.lifewithlisa.com%2Fprivacy-policy&t=Privacy%20Policy "Facebook")
   * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.lifewithlisa.com%2Fprivacy-policy&ui=2&tf=1&shva=1 "email")
   *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.lifewithlisa.com%2Fprivacy-policy&title=Privacy%20Policy "StumbleUpon")
@@ -14,3 +16,5 @@ We use third-party advertising companies to serve ads when you visit our Web sit
   * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.lifewithlisa.com%2Fprivacy-policy&Title=Privacy%20Policy "BlinkList")
   * 
 
+
+(Visited 11,510 times, 14 visits today) 
