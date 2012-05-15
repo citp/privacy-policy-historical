@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roxypalace.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216200456id_/http%3A//www.roxypalace.com/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roxypalace.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515034950id_/http%3A//www.roxypalace.com/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | Roxy Palace Casino Values Your Privacy
 
@@ -8,7 +8,7 @@ Roxy Palace Online Casino and associated companies highly value and respect the 
 
 Your IP address allows us to verify your identity and alerts us if there is a server error. When you register at our casino, we request specific information from you, including contact information (your name and e-mail address etc), unique identifiers (like your social security number) and financial information (like your account or credit card numbers).
 
-We use customer contact information from the registration form to send you information about our online casino. Financial information that is collected is necessary for registration as a Real Player. Unique identifiers (such as social security numbers) are collected to verify your identity and linked to your unique account number. No information will be sold, given or in any way transmitted to any person, corporation or other entity outside Roxy Palace Online Casino and associated companies.
+We use customer contact information from the registration form to send you information about our online casino. Financial information that is collected is necessary for registration as a Real Player. Unique identifiers (such as social security numbers) are collected to verify your identity and linked to your unique account number. No information will be sold, given or in any way transmitted to any person, corporation or other entity outside Roxy Palace Online Casino and associated companies. No unauthorized activity is conducted on Player computer systems.
 
 ###  Security
 
