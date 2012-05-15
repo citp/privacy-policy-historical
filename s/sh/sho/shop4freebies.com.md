@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the shop4freebies.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115140638id_/http%3A//www.shop4freebies.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shop4freebies.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515072415id_/http%3A//www.shop4freebies.com/privacy) for the most accurate reproduction.*
 
 # Shop4Freebies.com
+
+Please note that Shop4Freebies has financial relationships with some of the merchants mentioned on the site. Shop4Freebies may be compensated if consumers choose to utilize the links located throughout the content on this site and generate sales for the said merchant.
 
 Shop4Freebies.com is committed to respecting the privacy rights of users of the Website (all capitalized terms not defined in this notice have the same meanings as in Shop4Freebies.com' Website Terms of Use, which is incorporated herein by reference). Shop4Freebies.com created this Privacy Policy to give You confidence as You visit and use the Website, and to demonstrate its commitment to fair information practices and to the protection of privacy.  
 This Privacy Policy is only applicable to the Website and not to any Third-Party Websites, which may have data collection, storage and use practices and policies that differ materially from this Privacy Policy. For additional information, see the section concerning Third-Party Websites, below.
