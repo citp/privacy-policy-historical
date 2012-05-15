@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chamberofcommerce.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114234532id_/http%3A//www.chamberofcommerce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chamberofcommerce.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515100957id_/http%3A//www.chamberofcommerce.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Chamber of Commerce
 
@@ -19,6 +19,10 @@ _2.1.2 Personal and Business Information Collected_
 
 In order for you to access certain services such as creating a user profile, uploading videos, posting messages in our forums, reviewing businesses, entering contests, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists that we offer via the Site, we may require you to provide us with certain personally identifiable information ("Personal Information"). Personal Information includes the following categories of information: (1) Contact Data (such as your name, mailing address, and e-mail address) and (2) Demographic Data (such as your zip code, age, and occupation). 
 
+_2.1.3 Rights of Information_
+
+This information is proprietary to Acxiom Corporation and is protected under U.S. copyright law and international treaty provisions. This information is licensed for your personal or professional use and may not be resold or provided to others.  You may not distribute, sell, rent, sublicense, or lease such information, in whole or in part to any third party; and you will not make such Acxiom information available in whole or in part to any other user in any networked or time-sharing environment, or transfer the information in whole or in part to any computer other than the PC used to access this information.
+
 2.2 Uses of Information Collected 
 
 _2.2.1 Company Use of Information_
@@ -38,6 +42,10 @@ We reserve the right to share or transfer your Personal Information to a success
 _2.2.3 User Choice Regarding Collection of Personal Information_
 
 You may choose not to provide us with any Personal Information. In such an event, you can still access and use much of the Site; however you will not be able to access and use those portions of the Site that require your Personal Information.
+
+ _2.2.4 Third party advertising_
+
+We use third-party advertising companies to serve ads and collect data when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site, other sites, and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
   **3\. Confidentiality and Security of Personal Information**   
 Except as otherwise provided in this Privacy Policy, we will keep your Personal Information private and will not share it with third parties, unless such disclosure is necessary to: (a) comply with a court order or other legal process; (b) protect our rights or property; or (c) enforce our Terms of Use. Your Personal Information is stored on secure servers that are not accessible by third parties. We provide you with the capability to transmit your Personal Information via secured and encrypted channels if you use a similarly equipped web browser. 
