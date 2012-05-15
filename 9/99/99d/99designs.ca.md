@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 99designs.ca privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225215346id_/http%3A//99designs.ca/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 99designs.ca privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515122123id_/http%3A//99designs.ca/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | 99designs
 
