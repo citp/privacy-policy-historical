@@ -1,103 +1,68 @@
-> *The following text is extracted and transformed from the computeruser.com privacy policy that was archived on 2007-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070516025310id_/http%3A//www.computeruser.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computeruser.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515080800id_/http%3A//www.computeruser.com/privacy) for the most accurate reproduction.*
 
-# ComputerUser Privacy Statement
+# Privacy Policy - ComputerUser.Com
 
-| | A D V E R T I S E M E N T S  
----|---  
-  |   
-  
-|  |  ComputerUser  
-Privacy Policy Statement
+### ComputerUser Privacy Policy
 
-**Frequently Asked Questions**
+This Privacy Policy governs the manner in which ComputerUser, Inc. collects, uses, maintains and discloses information collected from users (each, a "User") of the [](http://www.computeruser.com/)[http://www.computeruser.com](http://www.computeruser.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by ComputerUser, Inc..
 
-  * Does ComputerUser ask for personal information?
-  * How Does ComputerUser use my personal information?
-  * What if I make a purchase through a store affiliated with ComputerUser?
-  * Will ComputerUser disclose any of my personal information?
-  * Will ComputerUser use my information for direct mailings?
-  * What about kids?
-  * Does ComputerUser use cookies and "IP Addresses"?
-  * What else should I know about my privacy?
-  * For more information...
+ **Personal identification information**
 
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
+ **Non-personal identification information**
 
-  
-**Answers**
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-**Does ComputerUser ask for personal information?**
+ **Web browser cookies**
 
-Yes, we do. ComputerUser asks for your name, e-mail address, and other personal information when you sign up for our services, such as Netquote, ISP Quick Quote, or a magazine subscription. We also ask for such information at other times, such as whenever you enter one of our contests or other promotions sponsored by ComputerUser and/or our many partners. 
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-* * *
+ **How we use collected information**
 
-**How Does ComputerUser use my personal information?**
+ComputerUser, Inc. collects and uses Users personal information for the following purposes:
 
-ComputerUser goal in collecting personal information is to provide you, the user, with the most personalized Web experience possible and our advertisers with an efficient means to reach the right audience. By knowing a little about you, ComputerUser is able to deliver more relevant content and advertisements, and hence a better service, to you. 
+  *  _To personalize user experience_  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  *  _To improve our Site_  
+We continually strive to improve our website offerings based on the information and feedback we receive from you.
+  *  _To improve customer service_  
+Your information helps us to more effectively respond to your customer service requests and support needs.
+  *  _To process transactions_  
+We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
+  *  _To administer a content, promotion, survey or other Site feature_  
+To send Users information they agreed to receive about topics we think will be of interest to them.
+  *  _To send periodic emails_  
+The email address Users provide will only be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
-* * *
+**How we protect your information**
 
-**What if I make a purchase through a store affiliated with ComputerUser?**
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-If you place an order at an online store affiliated with ComputerUser, we will collect information from you, including your credit card and contact information. This information will be used by the merchant. ComputerUser does not own the store and all transactions and use of any customer information are the sole responsibility of the merchant. For further information regarding the merchant's use of customer information, contact that merchant store directly. 
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
 
-[Beyond.com](http://www.beyond.com/support/answers/policies.htm)  
-[Amazon.com](http://www.amazon.com/exec/obidos/subst/misc/policy/privacy.html)  
-  
+ **Sharing your personal information**
 
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-* * *
+ **Third party websites**
 
-**Will ComputerUser disclose any of my personal information?**
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
 
-ComputerUser will not disclose any of your personal information, except as described below, or when we believe in good faith that the law requires it, or to protect the rights or property of ComputerUser. 
+ **Advertising**
 
-Under confidentiality agreements, ComputerUser may match user information with third party data. Also, ComputerUser does disclose aggregated user statistics (for example, 40% of our users are female) in order to describe our services to prospective partners, advertisers, and other third parties, and for other lawful purposes. 
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-Additionally, if you make a purchase through a store affiliated with ComputerUser, be aware that the information that you provide, including but not limited to, your credit card number and contact information, is provided to the owner of that store. These merchants have separate privacy and data collection practices. ComputerUser has no responsiblity or liability for these independent policies.  
+ **Google Adsense**
 
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [](http://www.google.com/privacy_ads.html)<http://www.google.com/privacy_ads.html>
 
-* * *
+**Changes to this privacy policy**
 
-**Will ComputerUser use my information for direct mailings?**
+ComputerUser, Inc. has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-Yes, but only if you give us permission. 
+ **Your acceptance of these terms**
 
-* * *
+By using this Site, you signify your acceptance of this policy and [terms of service](http://www.computeruser.com/privacy-policy.html). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-**What about kids?**
-
-Naturally, the safety of children is very important to us. Kids should always ask parents for permission before sending personal information to ComputerUser, or to anyone online for that matter.
-
-* * *
-
-**Does ComputerUser use cookies and "IP Addresses"?**
-
-Yes, cookies are used on CComputerUser in two ways. 
-
-(1) We use cookies to limit voting on our polling question to one vote per person. 
-
-(2) Our Advertising System uses cookies to try to keep you from being overwhelmed by the same ad as you traverse our site. 
-
-_IP Addresses_
-
-ComputerUser collects IP addresses in our log files for the purposes of system administration and to report aggregate information to our advertisers. 
-
-* * *
-
-**What else should I know about my privacy?**
-
-Please keep in mind that whenever you voluntarily disclose personal information online - for example on message boards, through e-mail, or in chat areas - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. Furthermore, while we strive to protect your personal information, ComputerUser cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. In addition, ComputerUser partners and third party Internet sites and services accessible through ComputerUser or parties whom we inform you are collecting data in connection with sweepstakes, promotions, etc., have separate privacy and data collection practices, independent of us. ComputerUser has no responsibility or liability for these independent policies or actions. The point? You are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online. 
-
-* * *
-
-**For more information... **
-
-  * [Electronic Frontier Foundation](http://www.eff.org/) \- a civil liberties organization working to protect your rights online. 
-  * [Electronic Privacy Information Center](http://epic.org/) \- established to focus public attention on emerging civil liberties issues relating to the National Information Infrastructure. 
-  * [Privacy Issues Page](http://www.cdt.org/privacy/) \- from the Center for Democracy and Technology (CDT). 
-  * [The EPIC Cookies Page](http://www.epic.org/privacy/internet/cookies/) \- definitions, links, and news. 
-  * [How to Protect Your Privacy](http://www.ftc.gov/privacy/index.html) \- information from the Federal Trade Commission. 
-
-| 
+ **Contacting us**
