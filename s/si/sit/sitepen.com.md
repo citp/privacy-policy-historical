@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the sitepen.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101232034id_/http%3A//www.sitepen.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitepen.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515140559id_/http%3A//www.sitepen.com/site/page.html%3Fview%3Dprivacy) for the most accurate reproduction.*
 
-# SitePen - Privacy Policy
+# Privacy Policy | SitePen
 
-## Our legal team makes us do this...
+## Our legal team makes us do this…
 
 SitePen, Inc. (“SitePen”, “we,” “us,” or “our”) is committed to respecting the privacy rights of users of our products, services and web sites, such as http://sitepen.com (including each subdomain, the “Site”) and our software support services (the “Services”). We created this Privacy Policy to give you confidence and describe how we treat personal information as you visit and use our Site and Services. 
 
-See our [Contact page](https://web.archive.org/contact/) to contact us.
+See our [Contact page](https://web.archive.org/site/contact.html) to contact us.
 
 ### Collection of Personal Information
 
@@ -24,7 +24,7 @@ Cookies. From time to time, our Site may use the “cookies” feature of major 
 
 Generally. We use the personally identifiable information and aggregate information we collect to maintain your account and market and provide the Site, the Services and our other products and services to you, to improve our offerings and to create new offerings, as provided below. Content and associated data submitted by users may be redisplayed to the public on public and private areas of the Site, except that Content and associated data submitted in connection with Services will be used only per the relevant Services agreement. 
 
-Registration data. We do not use your personally identifiable information to send commercial or marketing messages to you (such as offers regarding the Services) without your consent or opt-in. We may send you certain service and administrative notices, which are not subject to opt out. 
+Registration data. You may receive marketing communications from time to time. Each communication will provide you with ability to opt out of all future marketing correspondence. We may send you certain service and administrative notices regarding your purchased services, which are not subject to opt out. 
 
 Log file information and cookies. We use cookies and log file information to remember your information so that you do not need to re-enter it when using the Site or the Services, to provide personalized Content; and to administer and monitor usage of the Site and the Services. 
 
