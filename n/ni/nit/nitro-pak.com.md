@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nitro-pak.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101235942id_/http%3A//www.nitro-pak.com/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nitro-pak.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515125836id_/http%3A//www.nitro-pak.com/customer-service/privacy-policy) for the most accurate reproduction.*
 
 # Nitro-Pak: Privacy Policy - Customer Service
 
