@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nukepedia.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115213436id_/http%3A//www.nukepedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nukepedia.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515232506id_/http%3A//www.nukepedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Nukepedia - Privacy Policy - Nukepedia
 
