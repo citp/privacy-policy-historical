@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homebiz-direct.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007101930id_/http%3A//www.homebiz-direct.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homebiz-direct.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515114948id_/http%3A//www.homebiz-direct.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
