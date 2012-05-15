@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mimvi.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227143404id_/http%3A//mimvi.com/corp/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mimvi.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515105731id_/http%3A//www.mimvi.com/corp/privacypolicy.html) for the most accurate reproduction.*
 
 # Mimvi - Privacy Policy
 
@@ -6,14 +6,14 @@ At Mimvi, Inc., we recognize that privacy is important. This Privacy Policy appl
 
 Mimvi adheres to the US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the U.S. Department of Commerce's Safe Harbor Program. 
 
-If you have any questions about this Privacy Policy, please feel free to [contact us](https://web.archive.org/web/20111227143404id_/http%3A//mimvi.com/corp/contact.html) through our website or write to us at: 
+If you have any questions about this Privacy Policy, please feel free to [contact us](https://web.archive.org/web/20120515105731id_/http%3A//www.mimvi.com/corp/contact.html) through our website or write to us at: 
 
 Privacy   
 c/o Mimvi, Inc.  
-100 Spear St. Suite 1410  
-San Francsico CA 94105 
+440 N. Wolfe Road  
+Sunnyvale, CA 94085
 
-### **Information we collect and how we use it**
+###  **Information we collect and how we use it**
 
 We offer a number of services that do not require you to register for an account or provide any personal information to us, such as Mimvi Search. In order to provide our full range of services, we may collect the following types of information: 
 
@@ -91,12 +91,11 @@ When you use Mimvi services, we make good faith efforts to provide you with acce
 
 ### **Enforcement**
 
-Mimvi regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or Mimvi's treatment of personal information by [contacting us](https://web.archive.org/web/20111227143404id_/http%3A//mimvi.com/corp/contact.html) through this website or by writing to us at 
+Mimvi regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or Mimvi's treatment of personal information by [contacting us](https://web.archive.org/web/20120515105731id_/http%3A//www.mimvi.com/corp/contact.html) through this website or by writing to us at 
 
 Privacy   
 c/o Mimvi, Inc.  
-100 Spear St. Suite 1410  
-San Francsico CA 94105 
+440 N. Wolfe Road, Sunnyvale, CA 94085
 
 When we receive formal written complaints at this address, it is Mimvi's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Mimvi and an individual. 
 
@@ -104,9 +103,8 @@ When we receive formal written complaints at this address, it is Mimvi's policy 
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). Each version of this Privacy Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review. 
 
-If you have any additional questions or concerns about this Privacy Policy, please feel free to [contact us](https://web.archive.org/web/20111227143404id_/http%3A//mimvi.com/corp/contact.html) any time through this web site or at 
+If you have any additional questions or concerns about this Privacy Policy, please feel free to [contact us](https://web.archive.org/web/20120515105731id_/http%3A//www.mimvi.com/corp/contact.html) any time through this web site or at 
 
 Privacy   
 c/o Mimvi, Inc.  
-100 Spear St. Suite 1410  
-San Francsico CA 94105 
+440 N. Wolfe Road, Sunnyvale, CA 94085
