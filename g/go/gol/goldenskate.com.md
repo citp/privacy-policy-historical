@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldenskate.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223093646id_/http%3A//www.goldenskate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenskate.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515165112id_/http%3A//www.goldenskate.com/privacy) for the most accurate reproduction.*
 
 # Golden Skate Privacy Policy | Golden Skate
 
@@ -39,6 +39,4 @@ _Golden Skate_ will  **never** share, sell, or rent individual personal informa
 
 Each email sent contains an easy, automated way for you to cease receiving email from _Golden Skate_ , or to change your expressed interests. If you wish to do this, simply follow the instructions contained in any email.
 
-If you have received unwanted, unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to the [webmaster](http://www.goldenskate.com/contact/) for review.  
-  
-
+If you have received unwanted, unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to the [webmaster](http://www.goldenskate.com/contact/) for review.
