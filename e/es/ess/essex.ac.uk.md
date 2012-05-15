@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the essex.ac.uk privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102014158id_/http%3A//www.essex.ac.uk/site/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essex.ac.uk privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516011522id_/http%3A//www.essex.ac.uk/site/privacy_policy.aspx) for the most accurate reproduction.*
 
-# University of Essex
+# University of Essex :: University of Essex Privacy Policy :: Website privacy and cookies policy
 
 ## What is this statement and what does it cover?
 
@@ -8,7 +8,7 @@ This statement explains what information we gather when you visit the University
 
 This privacy policy, and the ways in which personal data may be gathered and processed via this website, are subject to review and development and any such changes will only be notified by this page.
 
-**This policy was last reviewed on 16 September 2011.**
+**This policy was last reviewed on 14 May 2012.**
 
 ## What data is collected?
 
@@ -35,11 +35,19 @@ All personal data is collected and stored in compliance with the Data Protection
 
 Under the Data Protection Act 1998, any individuals about whom the University may be holding personal data have the right to access the data that is being held about them. Full details about how this works, and how to request such information are available on the Records Management web pages under [How to access your personal data](https://web.archive.org/records_management/request/).
 
-## What about cookies?
+##  What about cookies?
 
 Cookies are small text files stored on your computer. They relate to a specific site, and can be used to enhance that site's functionality and your interaction with it; they may also be used for usage tracking, research, targeting, etc.
 
 You can control the use of cookies on your computer by adjusting your web browser preferences, choosing to allow them, block them, only allow them from selected sites or only allow certain types of cookies. Restricting cookies for a site may interfere with some of the functionality of that site, though. 
+
+Details of the cookies we use are available elsewhere: [Cookies on the University website](https://web.archive.org/web/20120516011522id_/http%3A//www.essex.ac.uk/site/our_cookies.aspx).
+
+For more information about cookies please see [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+
+## Google Analytics 
+
+We use a third-party product, 'Google Analytics', to help us understand how our site is used. For this to work, cookies are used and information about your use of our site, including your IP address, may be transmitted to, and stored by, Google. This information is subject to [Google's Privacy Policy](http://www.google.com/privacypolicy.html). As with other cookies, you can control the use of cookies on your computer by adjusting your web browser preferences. Google also provide a browser plug-in which allows you [ to opt out of being tracked by Google Analytics across all websites](http://tools.google.com/dlpage/gaoptout).
 
 ## Additional data for specialist applications
 
