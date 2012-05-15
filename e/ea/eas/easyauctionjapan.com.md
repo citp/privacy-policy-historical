@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyauctionjapan.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122050420id_/http%3A//www.easyauctionjapan.com/Privacy_Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyauctionjapan.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515071627id_/http%3A//www.easyauctionjapan.com/Privacy_Policy.php) for the most accurate reproduction.*
 
 # Japan Auctions and Japanese Shopping - Real time Bidding -
 
