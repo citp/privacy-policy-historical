@@ -1,7 +1,74 @@
-<!--The following is the downloaded HTML source of the onthemedia.org privacy policy that was archived on 2011-11-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111105090233id_/http%3A//www.onthemedia.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onthemedia.org privacy policy that was archived on 2012-05-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120515222352id_/http%3A//www.onthemedia.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+
+  <script type="text/javascript" src="http://media.wnyc.org/media/js/consoleFix.js"></script>
+
+
+<script type="text/javascript">
+function createListening() {
+  var triggered = {};
+  var canRun = function(triggers) {
+    for (var i = 0; triggers.length > i; i++) {
+      if (!triggered[triggers[i]]) {
+        return false;
+      }
+    }
+    return true;
+  };
+  var listeners = [];
+  return {
+    triggered: triggered,
+    canRun: canRun,
+    listeners: listeners,
+    listen: function(triggers, callback) {
+      if (canRun(triggers)) {
+        callback();
+      } else {
+        listeners.push({
+          needsRunning: true,
+          triggers: triggers,
+          callback: callback
+        });
+      }
+    },
+    trigger: function(eventName) {
+      triggered[eventName] = true;
+      for (var i = 0; listeners.length > i; i++) {
+        var listener = listeners[i];
+        if (listener.needsRunning) {
+          /* no amp's in HTML JS */
+          if (canRun(listener.triggers)) {
+            listener.needsRunning = false;
+            listener.callback();
+          }
+        }
+      }
+    }
+  };
+}
+
+window.wnyc = {
+  noop: function() {},
+  debug: false,
+  serverTimezoneOffset: -14400000,
+  google: {},
+  listening: createListening(),
+  loadtime: (new Date()).getTime(),
+  api_url: 'http://api.wnyc.org',
+  STATIC_URL: 'http://media.wnyc.org/media/',
+  MEDIA_URL: 'http://media.wnyc.org/media/',
+  sitekey: 'onthemedia',
+  playerTrack: function(category, action, label, metric) {
+    // Wait until the google tracker is ready, then re-track.
+    wnyc.listening.listen(["playerTrack"], function() {
+      wnyc.playerTrack(category, action, label, metric);
+    });
+  }
+};
+</script>
+
 <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
@@ -9,12 +76,13 @@
 
   
   <meta property="og:title" content="Privacy Policy">
-  <meta property="og:type" content="article">
-  <meta property="og:url" content="/privacy/">
+      <meta property="og:type" content="article">
+  <meta property="og:url" content="/privacy/?utm_source=sharedUrl&amp;utm_media=metatag&amp;utm_campaign=sharedUrl">
   <meta property="og:site_name" content="onthemedia">
   <meta property="fb:app_id" content="162050263832317">
   <meta property="og:description" content="Online Privacy Policy New York Public Radio (&amp;ldquo;NYPR&amp;rdquo;) values your participation in our public radio community, both online and offline, and assures you that your privacy is a priority to us. NYPR&amp;rsquo;s web sites adhere to a strict policy for ensuring the privacy of your personally identifiable information (such as full name, address, e-mail address, telephone number and/or other identifiable information) and preserving the integrity of this online medium. Visiting New York Public Radio&amp;rsquo;s Site When you visit our sites, our web server automatically recognizes only your domain name, where you are coming to us from and what browser you ...">
   <meta name="description" content="Online Privacy Policy New York Public Radio (&amp;ldquo;NYPR&amp;rdquo;) values your participation in our public radio community, both online and offline, ...">
+  <!-- Google custom search stuff -->
 
 
 
@@ -41,8 +109,8 @@ Privacy Policy
 <link rel="stylesheet" type="text/css" media="all" href="http://media.wnyc.org/media/css/jquery.jcarousel.css">
 
 
-  <link rel="stylesheet" type="text/css" media="all" href="http://media.wnyc.org/media/css/screen.css?v=1990">
-  <link rel="stylesheet" type="text/css" media="all" href="http://media.wnyc.org/media/css/screen_onthemedia.css?v=1990">
+  <link rel="stylesheet" type="text/css" media="all" href="http://media.wnyc.org/media/css/screen.css">
+  <link rel="stylesheet" type="text/css" media="all" href="http://media.wnyc.org/media/css/screen_onthemedia.css">
   <!--[if lte IE 8]>
       <link rel="stylesheet" type="text/css" media="all"
       href="http://media.wnyc.org/media/css/screen_ie.css" /><![endif]-->
@@ -52,61 +120,68 @@ Privacy Policy
 
 
 
-  <link rel="stylesheet" type="text/css" media="all" href="http://media.wnyc.org/media/css/player.css?v=1990">
-  <link rel="stylesheet" type="text/css" media="all" href="http://media.wnyc.org/media/css/player_onthemedia.css?v=1990">
+  <link rel="stylesheet" type="text/css" media="all" href="http://media.wnyc.org/media/css/player.css">
+  <link rel="stylesheet" type="text/css" media="all" href="http://media.wnyc.org/media/css/player_onthemedia.css">
   <!--[if lte IE 8]>
-    <link rel="stylesheet" type="text/css" media="all" href="http://media.wnyc.org/media/css/player_ie.css?v=1990" />
+    <link rel="stylesheet" type="text/css" media="all" href="http://media.wnyc.org/media/css/player_ie.css" />
   <![endif]-->
 
 
-  <link rel="stylesheet" type="text/css" media="all" href="http://media.wnyc.org/media/css/schedule.css?v=1990">
-  <link rel="stylesheet" type="text/css" media="all" href="http://media.wnyc.org/media/css/schedule_onthemedia.css?v=1990">
+  <link rel="stylesheet" type="text/css" media="all" href="http://media.wnyc.org/media/css/schedule.css">
+  <link rel="stylesheet" type="text/css" media="all" href="http://media.wnyc.org/media/css/schedule_onthemedia.css">
+
+<link rel="stylesheet" type="text/css" media="all" href="http://media.wnyc.org/media/css/enlarge.css">
 
 
-  <script type="text/javascript" src="http://www.google.com/jsapi"></script>
   
-  <!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline -->
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-  <script>window.jQuery || document.write('<script src="http://media.wnyc.org/media/js/jquery-1.4.2.min.js"><\/script>')</script><script src="http://media.wnyc.org/media/js/jquery-1.4.2.min.js"></script>
+  <script type="text/javascript" src="http://www.google.com/jsapi"></script>
 
+  
+  <script type="text/javascript" src="http://media.wnyc.org/media/js/jquery-1.4.2.min.js"></script>
+
+
+<script type="text/javascript" src="http://media.wnyc.org/media/js/util.js"></script>
+
+  <script type="text/javascript" src="http://media.wnyc.org/media/js/hashNav.js"></script>
+  <script type="text/javascript">
+    wnyc.hashNav = makeHashNav(true);
+  </script>
 
 
   <script type="text/javascript" src="http://use.typekit.com/wom7svi.js"></script>
   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
 
+  
   <link rel="stylesheet" type="text/css" media="all" href="http://media.wnyc.org/media/css/jquery.jcarousel.css">
   <link rel="stylesheet" type="text/css" media="all" href="http://media.wnyc.org/media/css/slideshow.css">
-  <script type="text/javascript" src="http://media.wnyc.org/media/js/jquery.jcarousel.min.js"></script>
+
+  
+  <script type="text/javascript" src="http://media.wnyc.org/media/js/jquery.jcarousel.min.js?v2"></script>
   <script type="text/javascript" src="http://media.wnyc.org/media/js/jquery.cycle.all.min.js"></script>
+
 
 <meta http-equiv="X-XRDS-Location" content="http://www.onthemedia.org/openid/return_to.xrds">
 <script type="text/javascript" src="http://media.wnyc.org/media/js/jquery.jcarousel.min.js"></script>
 <script type="text/javascript" src="http://media.wnyc.org/media/js/calendar.js"></script>
 <script type="text/javascript" src="http://media.wnyc.org/media/js/AC_OETags.js"></script>
-<script type="text/javascript" src="http://media.wnyc.org/media/js/twitter.js?v=1990"></script>
+<script type="text/javascript" src="http://media.wnyc.org/media/js/twitter.js"></script>
 
-  <script type="text/javascript" src="http://media.wnyc.org/media/js/main.js?v=1990"></script>
-  <script type="text/javascript" src="http://media.wnyc.org/media/js/main_onthemedia.js?v=1990"></script>
-  
+  <script type="text/javascript" src="http://media.wnyc.org/media/js/main.js"></script>
+  <script type="text/javascript" src="http://media.wnyc.org/media/js/main_onthemedia.js"></script>
   <script type="text/javascript" src="http://media.wnyc.org/media/js/enlarge.js"></script>
-  <link rel="stylesheet" type="text/css" media="all" href="http://media.wnyc.org/media/css/enlarge.css">
-
   <script type="text/javascript" src="http://media.wnyc.org/media/js/jquery.form.js"></script>
   <script type="text/javascript" src="http://media.wnyc.org/media/js/comment_form.js"></script>
 
 
   <script type="text/javascript" src="http://media.wnyc.org/media/js/jquery.cookie.js"></script>
   <script type="text/javascript" src="http://media.wnyc.org/media/js/swfobject.js"></script>
-  <script type="text/javascript" src="http://media.wnyc.org/media/js/soundmanager2-nodebug-jsmin.js?v=1990"></script>
+  <script type="text/javascript" src="http://media.wnyc.org/media/js/soundmanager2-nodebug-jsmin.js"></script>
   
-  <script type="text/javascript">
-    google.load("jqueryui", "1.8.15");
-  </script>
+  <script type="text/javascript" src="http://media.wnyc.org/media/js/jquery-ui-1.8.15.min.js"></script>
 
-  <script type="text/javascript" src="http://media.wnyc.org/media/js/json2.js?v=1990"></script>
-  <script type="text/javascript" src="http://media.wnyc.org/media/js/player.js?v=1990"></script>
-  <script type="text/javascript" src="http://media.wnyc.org/media/js/util.js?v=1990"></script>
+  <script type="text/javascript" src="http://media.wnyc.org/media/js/json2.js"></script>
+  <script type="text/javascript" src="http://media.wnyc.org/media/js/player.js"></script>
 
 
   
@@ -115,26 +190,48 @@ Privacy Policy
   .chart_div { width: 600px; height: 300px; }
 </style>
   <script type="text/javascript" src="http://media.wnyc.org/media/js/survey.js"></script>
-  <script type="text/javascript" src="/media/js/google_maps.js"></script>
-  <link rel="stylesheet" type="text/css" media="all" href="/media/css/google_maps.css">
+  <script type="text/javascript" src="http://media.wnyc.org/media/js/google_maps.js"></script>
+  <link rel="stylesheet" type="text/css" media="all" href="http://media.wnyc.org/media/css/google_maps.css">
 
 <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
-<script type="text/javascript">
-GS_googleAddAdSenseService("ca-pub-1030295571732009");
-GS_googleEnableAllServices();
+
+<script>
+if (window.GS_googleAddAdSenseService) {
+  GS_googleAddAdSenseService('ca-pub-1030295571732009');
+}
+if (window.GS_googleEnableAllServices) {
+  GS_googleEnableAllServices();
+}
 </script>
-<script type="text/javascript">
-GA_googleAddSlot("ca-pub-1030295571732009", "OTM_bigbox");
-GA_googleAddSlot("ca-pub-1030295571732009", "OTM_pledge");
-</script>
-<script type="text/javascript">
-GA_googleFetchAds();
+
+<script>
+
+if (window.GA_googleAddSlot) {
+  GA_googleAddSlot('ca-pub-1030295571732009', 'OTM_bigbox');
+}
+
+
+if (window.GA_googleAddSlot) {
+  GA_googleAddSlot('ca-pub-1030295571732009', 'OTM_pledge');
+}
+
+
+if (window.GA_googleFetchAds) {
+  GA_googleFetchAds();
+}
+
 </script>
 
 
 
 </head>
 <body>
+
+<!-- ClickTale Top part -->
+<script type="text/javascript">
+  var WRInitTime=(new Date()).getTime();
+</script>
+
   <div id="site">
     <div id="masthead" class="container_12 clearfix">
       <div class="mastbar site_utils clearfix">
@@ -143,10 +240,19 @@ GA_googleFetchAds();
           <li><a href="/emailform/contact-otm/">Contact Us</a></li>
         </ul>
         
-<ul id="util_login">
-<li class="login"><a href="/accounts/login/?next=/privacy/">Login</a></li>
-<li class="register"><a href="/accounts/register/">Register</a></li>
-</ul>
+  <script type="text/javascript">
+    window.wnyc = window.wnyc || {};
+    window.wnyc.user = window.wnyc.user || {};
+    window.wnyc.user.isAuthenticated = false;
+    window.wnyc.user.username = '';
+    window.wnyc.STATIC_URL = 'http://media.wnyc.org/media/';
+    window.wnyc.MEDIA_URL = 'http://media.wnyc.org/media/';
+  </script>
+    <ul id="util_login">
+    
+    <li class="user-login"><a href="/accounts/login/?next=/privacy/">Login</a></li>
+    <li class="user-signup"><a href="/accounts/register/">Sign Up</a></li>
+    </ul>
 
       </div>
       <div class="mastbar logo-nav clearfix">
@@ -154,7 +260,7 @@ GA_googleFetchAds();
           <img src="http://media.wnyc.org/media/img/onthemedia/logo-topnav.png" alt="On The Media" title="On The Media">
         </a>
         <ul id="primary-nav" class="clearfix">
-          <li class="this-week"><a href="&#10;&#10;  http://www.onthemedia.org/2011/nov/04/&#10;">This Week</a></li>
+          <li class="this-week"><a href="&#10;&#10;  http://www.onthemedia.org/2012/may/11/&#10;">This Week</a></li>
           <li class="blog"><a href="/blogs/on-the-media/">Blog</a></li>
           <li class="podcast"><a href="/podcast/">Podcast</a></li>
           <li class="archive"><a href="/archive/">Show Archive</a></li>
@@ -207,15 +313,17 @@ GA_googleFetchAds();
     
   <li class="bookmark"><a class="bookmark_item" href="#">Recommend</a></li>
   <li class="share"><a class="addthis_share" href="http://www.addthis.com/bookmark.php">Share</a></li>
+  
   <li class="twitter_share">
-    
     <a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-url="http://www.onthemedia.org/privacy/">
       Tweet
     </a>
     <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
   </li>
+
   
   <li class="facebook_share">
+    <div id="fb-root"></div>
     <script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
     <fb:like layout="button_count"></fb:like>
   </li>
@@ -283,17 +391,25 @@ GA_googleFetchAds();
 <div class="sideblock bigbox_ad ad_container">
 <p><span class="admessage" style="visibility: visible;">Supported by</span></p>
 <div class="ad">
-<script type="text/javascript">
-  GA_googleFillSlot("OTM_bigbox");
+  
+<script>
+if (window.GA_googleFillSlot) {
+  GA_googleFillSlot('OTM_bigbox');
+}
 </script>
+
 </div>
 </div>
 
 
   
-<script type="text/javascript">
-  GA_googleFillSlot("OTM_pledge");
+  
+<script>
+if (window.GA_googleFillSlot) {
+  GA_googleFillSlot('OTM_pledge');
+}
 </script>
+
 
 
 <div id="subscribe-podcast">
@@ -309,114 +425,122 @@ GA_googleFetchAds();
 <div id="damost">
 
 <ul id="damost-nav" class="clearfix">
-<li class="viewed active"><a href="#damostviewed"><span>Most</span> Viewed</a></li>
-<li class="listened"><a href="#damostlistened"><span>Most</span> Listened</a></li>
-<li class="commented"><a href="#damostcommented"><span>Most</span> Commented</a></li>
+<li class="viewed active"><a href="#" data-contenttabid="damostviewed"><span>Most</span> Viewed</a></li>
+<li class="listened"><a href="#" data-contenttabid="damostlistened"><span>Most</span> Listened</a></li>
+<li class="commented"><a href="#" data-contenttabid="damostcommented"><span>Most</span> Commented</a></li>
 </ul>
 
 
   <div id="damostviewed" class="tab clearfix">
     <ol>
         <li>
-          <a href="http://www.onthemedia.org/2011/oct/28/">
+          <a href="http://www.onthemedia.org/2012/may/11/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostviewed">
                
     
     
 
-    <img src="http://media.wnyc.org/media/photologue/photos/cache/iraqSegment_popup_player.jpg" class="damost-img">
+    <img src="http://media.wnyc.org/media/photologue/photos/cache/obamaShow_popup_player.jpg" class="damost-img">
 
-            <span>NPR Controversy , TV News and More</span>
+              <span>Obama's Historic Statement, the False Statistic on "Boomerang" Kids, and More</span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/2011/nov/04/">
+          <a href="http://www.onthemedia.org/2012/may/11/phony-statistic-about-college-graduates/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostviewed">
                
     
     
 
-    <img src="http://media.wnyc.org/media/photologue/photos/cache/superpacEPISODE_popup_player.jpg" class="damost-img">
+    <img src="http://media.wnyc.org/media/photologue/photos/cache/boomerang_popup_player.jpg" class="damost-img">
 
-            <span>Journalists Holding Signs and More</span>
+              <span>The Phony Statistic About College Graduates</span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/blogs/on-the-media/2011/nov/02/live-chat-brooke-gladstone-on-wnyc-freelancer-dismissal/">
+          <a href="http://www.onthemedia.org/2012/may/11/why-myth-vaccines-cause-autism-survives/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostviewed">
                
+    
+    
 
-            <span>Live Chat: Brooke Gladstone on WNYC Freelancer Dismissal and Public Radio's Political Conundrum</span>
+    <img src="http://media.wnyc.org/media/photologue/photos/cache/vaccine_popup_player.jpg" class="damost-img">
+
+              <span>Why the Myth that Vaccines Cause Autism Survives</span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/2011/oct/28/more-controversy-npr/">
+          <a href="http://www.onthemedia.org/2012/may/11/5-ways-spot-bs-political-headline-under-10-seconds/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostviewed">
                
     
     
 
-    <img src="http://media.wnyc.org/media/photologue/photos/cache/NPR Chip Somodeville getty image news_picnik_popup_player.jpg" class="damost-img" title="credit: Chip Somodeville">
+    <img src="http://media.wnyc.org/media/photologue/photos/cache/gaffe2_popup_player.jpg" class="damost-img">
 
-            <span>(More) Controversy at NPR</span>
+              <span>5 Ways To Spot a B.S. Political Headline in Under 10 Seconds</span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/2011/oct/28/lack-video-american-tv-news/">
+          <a href="http://www.onthemedia.org/2011/dec/02/revenge-porns-latest-frontier/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostviewed">
                
     
     
 
-    <img src="http://media.wnyc.org/media/photologue/photos/cache/Vdieosegment_popup_player.jpg" class="damost-img">
+    <img src="http://media.wnyc.org/media/photologue/photos/cache/Anyoneup_popup_player.jpg" class="damost-img">
 
-            <span>Lack of Video on American TV News</span>
+              <span>Revenge Porn's Latest Frontier</span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/blogs/on-the-media/2011/nov/03/doj-withdraws-freedom-information-act-rule-change/">
+          <a href="http://www.onthemedia.org/blogs/on-the-media/2012/may/10/how-abcs-obama-same-sex-marriage-interview-got-scooped-twitter/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostviewed">
                
     
     
 
-    <img src="http://media.wnyc.org/media/photologue/photos/cache/shane - getty afp staff __long_image_popup_player.jpg" class="damost-img">
+    <img src="http://media.wnyc.org/media/photologue/photos/cache/obama_2_popup_player.JPG" class="damost-img" title="ABC News">
 
-            <span>DOJ Withdraws Freedom of Information Act Rule Change</span>
+              <span>How ABC's Obama Same Sex Marriage Interview Got Scooped on Twitter</span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/2011/oct/21/">
+          <a href="http://www.onthemedia.org/blogs/on-the-media/2012/may/09/i-did-foia-myself-and-all-i-got-were-these-lousy-letters/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostviewed">
                
     
     
 
-    <img src="http://media.wnyc.org/media/photologue/photos/cache/october212011_popup_player.jpg" class="damost-img" title="Occupy Protest in London at St. Paul's Cathedral">
+    <img src="http://media.wnyc.org/media/photologue/photos/cache/foiASEGMENT_medium_image_popup_player.jpg" class="damost-img" alt="go foia yourself">
 
-            <span>Occupy Everything and More</span>
+              <span>I did a FOIA on myself, and all I got were these lousy letters</span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/blogs/on-the-media/2011/nov/02/how-make-viral-video/">
+          <a href="http://www.onthemedia.org/blogs/on-the-media/2012/may/14/otm-staff-picks-volume-8/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostviewed">
                
+    
+    
 
-            <span>How To Make a Viral Video</span>
+    <img src="http://media.wnyc.org/media/photologue/photos/cache/TVParty_article_popup_player.jpg" class="damost-img">
+
+              <span>OTM Staff Picks, Volume 8</span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/2009/mar/27/the-witnesses-that-didnt/">
+          <a href="http://www.onthemedia.org/2012/may/04/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostviewed">
                
     
     
 
-    <img src="http://media.wnyc.org/media/photologue/photos/cache/127358_popup_player.jpg" class="damost-img">
+    <img src="http://media.wnyc.org/media/photologue/photos/cache/karzaiShow_popup_player.jpg" class="damost-img">
 
-            <span>The Witnesses That Didn't</span>
+              <span>Political Misdirection, A Raid on Palestinian TV, and More</span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/blogs/on-the-media/2011/oct/28/julian-assange-answers-questions-bbcs-world-have-your-say/">
+          <a href="http://www.onthemedia.org/2012/may/11/reaction-obamas-support-gay-marriage/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostviewed">
                
     
     
 
-    <img src="http://media.wnyc.org/media/photologue/photos/cache/Assange AFP Getty_popup_player.jpg" class="damost-img" title="Julian Assange">
+    <img src="http://media.wnyc.org/media/photologue/photos/cache/abc_popup_player.JPG" class="damost-img">
 
-            <span>Julian Assange Answers Questions on BBC's World Have Your Say</span>
+              <span>Reaction to Obama's Support of Gay Marriage</span>
           </a>
         </li>
     </ol>
@@ -426,113 +550,113 @@ GA_googleFetchAds();
   <div id="damostlistened" class="tab clearfix hidden">
     <ol>
         <li>
-          <a href="http://www.onthemedia.org/2011/oct/28/">
+          <a href="http://www.onthemedia.org/2012/may/11/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostlistened">
                
     
     
 
-    <img src="http://media.wnyc.org/media/photologue/photos/cache/iraqSegment_popup_player.jpg" class="damost-img">
+    <img src="http://media.wnyc.org/media/photologue/photos/cache/obamaShow_popup_player.jpg" class="damost-img">
 
-            <span>NPR Controversy , TV News and More</span>
+              <span>Obama's Historic Statement, the False Statistic on "Boomerang" Kids, and More</span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/2011/nov/04/">
+          <a href="http://www.onthemedia.org/2012/may/11/reaction-obamas-support-gay-marriage/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostlistened">
                
     
     
 
-    <img src="http://media.wnyc.org/media/photologue/photos/cache/superpacEPISODE_popup_player.jpg" class="damost-img">
+    <img src="http://media.wnyc.org/media/photologue/photos/cache/abc_popup_player.JPG" class="damost-img">
 
-            <span>Journalists Holding Signs and More</span>
+              <span>Reaction to Obama's Support of Gay Marriage</span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/2011/oct/28/more-controversy-npr/">
+          <a href="http://www.onthemedia.org/2012/may/11/phony-statistic-about-college-graduates/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostlistened">
                
     
     
 
-    <img src="http://media.wnyc.org/media/photologue/photos/cache/NPR Chip Somodeville getty image news_picnik_popup_player.jpg" class="damost-img" title="credit: Chip Somodeville">
+    <img src="http://media.wnyc.org/media/photologue/photos/cache/boomerang_popup_player.jpg" class="damost-img">
 
-            <span>(More) Controversy at NPR</span>
+              <span>The Phony Statistic About College Graduates</span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/2011/oct/28/lack-video-american-tv-news/">
+          <a href="http://www.onthemedia.org/2012/may/11/why-myth-vaccines-cause-autism-survives/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostlistened">
                
     
     
 
-    <img src="http://media.wnyc.org/media/photologue/photos/cache/Vdieosegment_popup_player.jpg" class="damost-img">
+    <img src="http://media.wnyc.org/media/photologue/photos/cache/vaccine_popup_player.jpg" class="damost-img">
 
-            <span>Lack of Video on American TV News</span>
+              <span>Why the Myth that Vaccines Cause Autism Survives</span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/2011/nov/04/superpacs-2012-races/">
+          <a href="http://www.onthemedia.org/2012/may/11/5-ways-spot-bs-political-headline-under-10-seconds/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostlistened">
                
     
     
 
-    <img src="http://media.wnyc.org/media/photologue/photos/cache/Chung Sung-Jun Getty Images News 200_popup_player.jpg" class="damost-img" title="credit: Chung Sung-Jun">
+    <img src="http://media.wnyc.org/media/photologue/photos/cache/gaffe2_popup_player.jpg" class="damost-img">
 
-            <span>SuperPacs 2012: Off to the Races</span>
+              <span>5 Ways To Spot a B.S. Political Headline in Under 10 Seconds</span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/2011/oct/28/covering-withdrawal-iraq/">
+          <a href="http://www.onthemedia.org/2012/may/11/killer-stalked-new-york/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostlistened">
                
     
     
 
-    <img src="http://media.wnyc.org/media/photologue/photos/cache/Spencer Platt Getty Images News 200_popup_player.jpg" class="damost-img" title="credit: Spencer Platt / Getty Image News">
+    <img src="http://media.wnyc.org/media/photologue/photos/cache/smallpox2_popup_player.jpg" class="damost-img">
 
-            <span>Covering The Withdrawal From Iraq</span>
+              <span>The Killer That Stalked New York</span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/2011/oct/28/new-variety-network-evening-news/">
+          <a href="http://www.onthemedia.org/2012/may/04/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostlistened">
                
     
     
 
-    <img src="http://media.wnyc.org/media/photologue/photos/cache/network newsSEMGENT_popup_player.jpg" class="damost-img">
+    <img src="http://media.wnyc.org/media/photologue/photos/cache/karzaiShow_popup_player.jpg" class="damost-img">
 
-            <span>New Variety on Network Evening News</span>
+              <span>Political Misdirection, A Raid on Palestinian TV, and More</span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/2011/nov/04/public-radio-journalists-and-political-expression/">
+          <a href="http://www.onthemedia.org/2012/may/11/ap-temporarily-holds-big-story/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostlistened">
                
     
     
 
-    <img src="http://media.wnyc.org/media/photologue/photos/cache/448px-Caitlin_sign_popup_player.jpg" class="damost-img" title="Caitlin Curran" alt="Click to Enlarge">
+    <img src="http://media.wnyc.org/media/photologue/photos/cache/mattapuzzo_popup_player.jpg" class="damost-img">
 
-            <span>Public Radio Journalists and Political Expression</span>
+              <span>The AP (Temporarily) Holds a Big Story </span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/2011/oct/28/vulnerability-information-stored-cloud/">
+          <a href="http://www.onthemedia.org/2012/may/11/remembering-barney-rosset/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostlistened">
                
     
     
 
-    <img src="http://media.wnyc.org/media/photologue/photos/cache/cloud computing_popup_player.jpg" class="damost-img" alt="Cloud Computing Stored Communications Act ">
+    <img src="http://media.wnyc.org/media/photologue/photos/cache/115691_popup_player.jpg" class="damost-img" title="Barney Rosset">
 
-            <span>The Vulnerability of Information Stored in the Cloud</span>
+              <span>Remembering Barney Rosset</span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/2011/oct/28/transparency-always-good-thing/">
+          <a href="http://www.onthemedia.org/2012/may/11/apology-reporter-edward-kennedy/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostlistened">
                
     
     
 
-    <img src="http://media.wnyc.org/media/photologue/photos/cache/super committee_popup_player.jpg" class="damost-img" title="Members of the Joint Deficit Reduction Committee participate in a hearing October 26, 2011">
+    <img src="http://media.wnyc.org/media/photologue/photos/cache/edkennedy1AP_popup_player.jpg" class="damost-img" alt="Ed Kennedy">
 
-            <span>Is Transparency Always A Good Thing?</span>
+              <span>An Apology for Reporter Edward Kennedy</span>
           </a>
         </li>
     </ol>
@@ -542,113 +666,109 @@ GA_googleFetchAds();
   <div id="damostcommented" class="tab clearfix hidden">
     <ol>
         <li>
-          <a href="http://www.onthemedia.org/2011/oct/28/more-controversy-npr/">
+          <a href="http://www.onthemedia.org/2012/may/11/why-myth-vaccines-cause-autism-survives/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostcommented">
                
     
     
 
-    <img src="http://media.wnyc.org/media/photologue/photos/cache/NPR Chip Somodeville getty image news_picnik_popup_player.jpg" class="damost-img" title="credit: Chip Somodeville">
+    <img src="http://media.wnyc.org/media/photologue/photos/cache/vaccine_popup_player.jpg" class="damost-img">
 
-            <span>(More) Controversy at NPR</span>
+              <span>Why the Myth that Vaccines Cause Autism Survives</span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/2011/oct/28/audiences-returning-network-tv-news/">
+          <a href="http://www.onthemedia.org/2012/may/11/reaction-obamas-support-gay-marriage/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostcommented">
                
     
     
 
-    <img src="http://media.wnyc.org/media/photologue/photos/cache/jenningssegment_popup_player.jpg" class="damost-img">
+    <img src="http://media.wnyc.org/media/photologue/photos/cache/abc_popup_player.JPG" class="damost-img">
 
-            <span>Audiences Returning to Network TV News</span>
+              <span>Reaction to Obama's Support of Gay Marriage</span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/2011/oct/28/covering-withdrawal-iraq/">
+          <a href="http://www.onthemedia.org/2005/nov/11/former-new-york-times-staffer-judith-miller/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostcommented">
                
-    
-    
 
-    <img src="http://media.wnyc.org/media/photologue/photos/cache/Spencer Platt Getty Images News 200_popup_player.jpg" class="damost-img" title="credit: Spencer Platt / Getty Image News">
-
-            <span>Covering The Withdrawal From Iraq</span>
+              <span>Former New York Times Staffer Judith Miller </span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/2011/oct/28/transparency-always-good-thing/">
+          <a href="http://www.onthemedia.org/2012/may/11/ap-temporarily-holds-big-story/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostcommented">
                
     
     
 
-    <img src="http://media.wnyc.org/media/photologue/photos/cache/super committee_popup_player.jpg" class="damost-img" title="Members of the Joint Deficit Reduction Committee participate in a hearing October 26, 2011">
+    <img src="http://media.wnyc.org/media/photologue/photos/cache/mattapuzzo_popup_player.jpg" class="damost-img">
 
-            <span>Is Transparency Always A Good Thing?</span>
+              <span>The AP (Temporarily) Holds a Big Story </span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/blogs/on-the-media/2011/oct/25/superbetter-diaries-entry-5-extreme-self-loathing-mode/">
+          <a href="http://www.onthemedia.org/2012/may/11/phony-statistic-about-college-graduates/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostcommented">
                
     
     
 
-    <img src="http://media.wnyc.org/media/photologue/photos/cache/superbetter___popup_player.JPG" class="damost-img">
+    <img src="http://media.wnyc.org/media/photologue/photos/cache/boomerang_popup_player.jpg" class="damost-img">
 
-            <span>The Superbetter Diaries Entry #5: Extreme Self-Loathing Mode</span>
+              <span>The Phony Statistic About College Graduates</span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/blogs/on-the-media/2011/oct/28/julian-assange-answers-questions-bbcs-world-have-your-say/">
+          <a href="http://www.onthemedia.org/blogs/on-the-media/2012/may/14/otm-staff-picks-volume-8/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostcommented">
                
     
     
 
-    <img src="http://media.wnyc.org/media/photologue/photos/cache/Assange AFP Getty_popup_player.jpg" class="damost-img" title="Julian Assange">
+    <img src="http://media.wnyc.org/media/photologue/photos/cache/TVParty_article_popup_player.jpg" class="damost-img">
 
-            <span>Julian Assange Answers Questions on BBC's World Have Your Say</span>
+              <span>OTM Staff Picks, Volume 8</span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/2011/oct/28/lack-video-american-tv-news/">
+          <a href="http://www.onthemedia.org/2012/may/04/israeli-ministry-ordered-raid/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostcommented">
                
     
     
 
-    <img src="http://media.wnyc.org/media/photologue/photos/cache/Vdieosegment_popup_player.jpg" class="damost-img">
+    <img src="http://media.wnyc.org/media/photologue/photos/cache/israel segment_popup_player.jpg" class="damost-img">
 
-            <span>Lack of Video on American TV News</span>
+              <span>The Israeli Ministry that Ordered the Raid</span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/2010/apr/02/slapp-back/">
+          <a href="http://www.onthemedia.org/blogs/on-the-media/2012/apr/20/revenge-porn-redux/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostcommented">
                
     
     
 
-    <img src="http://media.wnyc.org/media/photologue/photos/cache/152886_popup_player.jpg" class="damost-img">
+    <img src="http://media.wnyc.org/media/photologue/photos/cache/Anyoneup_medium_image_popup_player.jpg" class="damost-img">
 
-            <span>SLAPP Back </span>
+              <span>Revenge Porn Redux</span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/2011/oct/21/south-africas-uncertain-political-future/">
+          <a href="http://www.onthemedia.org/2012/jan/06/movie-riffing-internet-age/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostcommented">
                
     
     
 
-    <img src="http://media.wnyc.org/media/photologue/photos/cache/ANC Youth_popup_player.jpg" class="damost-img" alt="124805356">
+    <img src="http://media.wnyc.org/media/photologue/photos/cache/MST3K_popup_player.JPG" class="damost-img">
 
-            <span>South Africa's Uncertain Political Future</span>
+              <span>Movie Riffing in the Internet Age</span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/2011/oct/28/vulnerability-information-stored-cloud/">
+          <a href="http://www.onthemedia.org/2012/may/04/balancing-cybersecurity-and-privacy/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostcommented">
                
     
     
 
-    <img src="http://media.wnyc.org/media/photologue/photos/cache/cloud computing_popup_player.jpg" class="damost-img" alt="Cloud Computing Stored Communications Act ">
+    <img src="http://media.wnyc.org/media/photologue/photos/cache/adam schiff_1_popup_player.jpg" class="damost-img" title="Adam Schiff">
 
-            <span>The Vulnerability of Information Stored in the Cloud</span>
+              <span>Balancing Cybersecurity and Privacy</span>
           </a>
         </li>
     </ol>
@@ -660,12 +780,15 @@ GA_googleFetchAds();
 <script type="text/javascript">
 $(function(){
   /* Most E-mailed Tabs */
-  $('#damost-nav li a').click(function(e){
+  var $wrapper = $('#damost'),
+      $tabWrapper = $wrapper.find('#damost-nav');
+  $tabWrapper.find('li a').click(function(e){
+    var contentTabSelector = '#' + $(this).attr('data-contenttabid');
     e.preventDefault();
-    $(this).parent().siblings().removeClass('active');
+    $tabWrapper.children('.active').removeClass('active');
     $(this).parent().addClass('active');
-    $('#damost .tab').hide();
-    $($(this).attr('href')).show();
+    $wrapper.find('.tab').hide();
+    $(contentTabSelector).show();
   });
 
   $('#damost div.tab ol li:last-child').addClass('last'); // Hide Bottom Border on Last Item
@@ -696,7 +819,7 @@ $(function(){
 <script type="text/javascript">
   addthis_pub  = 'wnycdigital';
   addthis_config = {
-    services_exclude: 'facebook, twitter, print, email'
+    services_exclude: 'print, email'
   }
 </script>
 <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js"></script>
@@ -733,7 +856,7 @@ function suggest_login(){
         <li class="logo">
           <a href="/"><img src="http://media.wnyc.org/media/img/onthemedia/logo-footer.png" alt="On The Media"></a>
         </li>
-        <li>© 2011 <a href="http://www.wnyc.org/">WNYC</a></li>
+        <li>© 2012 <a href="http://www.wnyc.org/">WNYC</a></li>
         <li><a href="/terms/">Terms of Use</a></li>
         <li><a href="/privacy/">Privacy Policy</a></li>
         <li class="corrections"><a href="/corrections/">Corrections</a></li>
@@ -743,43 +866,84 @@ function suggest_login(){
          </li>
       </ul>
       <p>
-        On The Media is funded, in part, by the <a href="http://www.overbrook.org/">Overbrook Foundation</a>
-        and the Jane Marcher Foundation.
+        On The Media is funded, in part, by the <a href="http://www.macfound.org">John D. and Catherine T. MacArthur Foundation</a>,
+        the <a href="http://www.overbrook.org/">Overbrook Foundation</a> and the Jane Marcher Foundation.
       </p>
     </div>
   </div>
   
+  
   <script type="text/javascript">
-    if (!window.wnyc) { window.wnyc = {}; }
-    if (!window.wnyc.google) { window.wnyc.google = {}; }
     wnyc.google.trackcode = "UA-283599-3";
     jQuery.ajax({
-      url:'//www.google-analytics.com/ga.js',
-      dataType:'script',
-      cache:true,
+      url: '//www.google-analytics.com/ga.js',
+      dataType: 'script',
+      cache: true,
       success: function () {
-        var pageTracker = _gat._getTracker("UA-283599-3");
-        pageTracker._trackPageview();
-        pageTracker._trackPageLoadTime();
-        jQuery(function($) {
-          wnyc.google.track_rightrail = _gat._getTracker(wnyc.google.trackcode);
-          $('.grid_4.sidebar a,#home-right a').click(function(evt) {
-            wnyc.google.track_rightrail._trackEvent(
-            document.location.hostname,
-            'rightrail',
-            location.pathname.split('/').slice(0,3).join('/'), //first 2 sections
-            location.pathname.split('/').length //where in nav -- deep or shallow?
-            );
+        var playerTracker = _gat._getTracker("UA-283599-3");
+        wnyc.playerTrack = function(category, action, label, metric, prefix) {
+          category = (prefix === false ? "" : prefix || "player-") + category;
+          if (window.location.search.indexOf("alertTracking") >= 0) {
+            var message =
+                "player track: " + category + ", " + action + ", " + label
+            if (metric) {
+              message += ", " + metric
+            }
+            window.console && console.log(message);
+          }
+          playerTracker._trackEvent(category, action, label, metric);
+        };
+        wnyc.listening.trigger("playerTrack");
+
+          var pageTracker = _gat._getTracker(wnyc.google.trackcode);
+          pageTracker._setCustomVar(
+              1, "Logged In", (wnyc.user && wnyc.user.isAuthenticated));
+          pageTracker._trackPageview();
+          pageTracker._trackPageLoadTime();
+          wnyc.google.tracker = pageTracker;
+
+          jQuery(function($) {
+            $('.grid_4.sidebar a,#home-right a').click(function(evt) {
+              var toTrack = {
+                'rightrail': true,
+                'rightrail-section': $(this).hasClass('section-link')};
+              for (var key in toTrack) {
+                if (toTrack[key]) {
+                  wnyc.google.tracker._trackEvent(
+                    document.location.hostname,
+                    key,
+                    location.pathname.split('/').slice(0,3).join('/'), //first 2 sections
+                    location.pathname.split('/').length //where in nav -- deep or shallow?
+                  );
+                }
+              }
+            });
           });
-        });
       }//end success
     });
   </script>
 
+
 <script type="text/javascript">
-var _sf_async_config={uid:4030,domain:"onthemedia.org"};
+var _sf_sections = [];
+if (window.wnyc) {
+  _sf_sections.push(wnyc.section);
+  if (wnyc.series) {
+    for (var i=0,l=wnyc.series.length;i<l;i++) {
+      _sf_sections.push('series-'+wnyc.series[i].slug, wnyc.series[i].section);
+    }
+  }
+}
+var _sf_async_config={
+  uid:4030,
+  domain:"onthemedia.org",
+  sections:_sf_sections.join(",")
+};
 
 jQuery(window).bind('load', function() {
+  if (wnyc.current_item && !wnyc.current_item.published) {
+    return;
+  }
   window._sf_endpt=(new Date()).getTime();
   jQuery.ajax({
     url:(("https:" == document.location.protocol)
@@ -792,6 +956,28 @@ jQuery(window).bind('load', function() {
 });
 </script>
 
+<script type="text/javascript" src="http://media.wnyc.org/media/js/ga_social_tracking.js"></script>
+
+  
+<!-- ClickTale Bottom part -->
+<div id="ClickTaleDiv" style="display: none;"></div>
+<script type="text/javascript">
+  jQuery.ajax({
+    url: ((document.location.protocol=='https:')
+      ? 'https://clicktale.pantherssl.com/'
+      : 'http://s.clicktale.net/')
+      +'WRc9.js',
+    dataType: 'script',
+    cache: true,
+    success: function () {
+      window.ClickTaleSSL=1;
+      if(typeof ClickTale=='function') ClickTale(5151,0.294,"www09");
+    }
+  });
+</script>
+<!-- ClickTale end of Bottom part -->
+
+  <!-- Application OK - health checks look for this string. -->
 
 
 </body></html>
