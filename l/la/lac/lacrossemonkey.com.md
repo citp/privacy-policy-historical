@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lacrossemonkey.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231203142id_/http%3A//www.lacrossemonkey.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacrossemonkey.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515154401id_/http%3A//www.lacrossemonkey.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
