@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrock.org privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221202036id_/http%3A//www.wrock.org/privacy-dmca-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrock.org privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515081911id_/http%3A//www.wrock.org/privacy-dmca-policy) for the most accurate reproduction.*
 
 # Privacy-DMCA Policy | Sharing Latest Tips Tricks and Tutorials
 
@@ -24,7 +24,7 @@ You must consult the respective privacy policies of these third-have fun ad serv
 
 If you wish to disable cookies, you may do so through your have fun browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-[](https://web.archive.org/web/20111221202036id_/http%3A//wp-content/uploads/2011/06/dmca.gif)
+[](https://web.archive.org/web/20120515081911id_/http%3A//wp-content/uploads/2011/06/dmca.gif)
 
  **This site does not store any files on its server. All contents are provided by non-affiliated third parties.**  
 **If your copyrighted material has been posted on wRock.Org or if hyperlinks to your copyrighted material are returned through our search engine and you want this material removed, you must Contact Us.We will remove that As soon as possible**
