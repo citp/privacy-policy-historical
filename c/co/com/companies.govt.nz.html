@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the companies.govt.nz privacy policy that was archived on 2011-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110504122343id_/http%3A//www.business.govt.nz/resolveUid/8754063355cf7c570aaa4b90cc7fd436) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the companies.govt.nz privacy policy that was archived on 2012-05-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120515222412id_/http%3A//www.business.govt.nz/resolveUid/8754063355cf7c570aaa4b90cc7fd436) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
@@ -13,7 +13,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
 
     
-      <base href="http://www.business.govt.nz/companies/about-this-site/privacy-statement/"><!--[if lt IE 7]></base><![endif]-->
+      <base href="http://www.business.govt.nz/companies/about-this-site/privacy-statement"><!--[if lt IE 7]></base><![endif]-->
     
 
     
@@ -23,6 +23,7 @@
     var cmsConfiguration = 
     {
 
+        subsiteId                           : 'companies',
         subsiteRoot                         : '/companies/',
         subsiteName                         : 'Companies Office',
         ploneSearch                         : '/companies/search',
@@ -42,7 +43,12 @@
         lastAccessed                        : '',
         lastLogonStr                        : '',
         appRoles                            : [],
-        suppressRegisterSearch              : false
+        suppressRegisterSearch              : false,
+        popupUID                            : '',
+        popupCookieName                     : 'entPopup',
+        popupCookieExpiry                   : 3650,
+        popupTitle                          : '',
+        isSubsiteRoot                       : false
     };
 
 //]]>
@@ -50,11 +56,13 @@
 
 
 
-
   
     
     
-      <style type="text/css">
+    
+       
+        
+         <style type="text/css">
          #portal-column-two
             {
               padding-top: 20px !important;
@@ -65,16 +73,19 @@
               margin-top: 25px !important;
             }
          </style>
+        
+    
     
        
   
 
 
-
        
 
 
 
+
+<!-- Facebook sharing image -->
 
 
     <title>Privacy statement | Companies Office The Official Site</title>
@@ -84,7 +95,7 @@
   
     
     
-      <script type="text/javascript" src="http://www.business.govt.nz/portal_javascripts/EnterpriseTheme/jquery-cachekey-cms-4080.051.js">
+      <script type="text/javascript" src="http://www.business.govt.nz/portal_javascripts/EnterpriseTheme/jquery-cachekey-cms-50761.js">
       </script>
     
     
@@ -94,7 +105,7 @@
   
     
     
-      <script type="text/javascript" src="http://www.business.govt.nz/portal_javascripts/EnterpriseTheme/jquery.tablednd_0_5-cachekey-cms-4080.052.js">
+      <script type="text/javascript" src="http://www.business.govt.nz/portal_javascripts/EnterpriseTheme/jquery.tablednd_0_5-cachekey-cms-50762.js">
       </script>
     
     
@@ -104,7 +115,7 @@
   
     
     
-      <script type="text/javascript" src="http://www.business.govt.nz/portal_javascripts/EnterpriseTheme/dragdropreorder-cachekey-cms-4080.053.js">
+      <script type="text/javascript" src="http://www.business.govt.nz/portal_javascripts/EnterpriseTheme/dragdropreorder-cachekey-cms-50763.js">
       </script>
     
     
@@ -114,7 +125,7 @@
   
     
     
-      <script type="text/javascript" src="http://www.business.govt.nz/portal_javascripts/EnterpriseTheme/sarissa-cachekey-cms-4080.055.js">
+      <script type="text/javascript" src="http://www.business.govt.nz/portal_javascripts/EnterpriseTheme/sarissa-cachekey-cms-50765.js">
       </script>
     
     
@@ -124,7 +135,7 @@
   
     
     
-      <script type="text/javascript" src="http://www.business.govt.nz/portal_javascripts/EnterpriseTheme/make-sane-ids-cachekey-cms-4080.058.js">
+      <script type="text/javascript" src="http://www.business.govt.nz/portal_javascripts/EnterpriseTheme/make-sane-ids-cachekey-cms-50768.js">
       </script>
     
     
@@ -134,7 +145,7 @@
   
     
     
-      <script type="text/javascript" src="http://www.business.govt.nz/portal_javascripts/EnterpriseTheme/fckeditor-cachekey-cms-4080.0510.js">
+      <script type="text/javascript" src="http://www.business.govt.nz/portal_javascripts/EnterpriseTheme/fckeditor-cachekey-cms-507610.js">
       </script>
     
     
@@ -144,7 +155,7 @@
   
     
     
-      <script type="text/javascript" src="http://www.business.govt.nz/portal_javascripts/EnterpriseTheme/searchextra-cachekey-cms-4080.0512.js">
+      <script type="text/javascript" src="http://www.business.govt.nz/portal_javascripts/EnterpriseTheme/searchextra-cachekey-cms-507612.js">
       </script>
     
     
@@ -154,7 +165,7 @@
   
     
     
-      <script type="text/javascript" src="http://www.business.govt.nz/portal_javascripts/EnterpriseTheme/resourcefmit.problemselector.javascriptproblemselector-cachekey-cms-4080.0514.js">
+      <script type="text/javascript" src="http://www.business.govt.nz/portal_javascripts/EnterpriseTheme/resourcefmit.problemselector.javascriptproblemselector-cachekey-cms-507614.js">
       </script>
     
     
@@ -167,7 +178,7 @@
     
     
     
-      <style type="text/css">@import url(http://www.business.govt.nz/portal_css/EnterpriseTheme/base-cachekey-cms-4080.051.css);</style>
+      <style type="text/css">@import url(http://www.business.govt.nz/portal_css/EnterpriseTheme/base-cachekey-cms-50761.css);</style>
     
     
     
@@ -177,7 +188,7 @@
     
     
     
-      <style type="text/css">@import url(http://www.business.govt.nz/portal_css/EnterpriseTheme/columns-cachekey-cms-4080.053.css);</style>
+      <style type="text/css">@import url(http://www.business.govt.nz/portal_css/EnterpriseTheme/columns-cachekey-cms-50763.css);</style>
     
     
     
@@ -189,7 +200,31 @@
     
     
     
-      <style type="text/css" media="screen">@import url(http://www.business.govt.nz/portal_css/EnterpriseTheme/ent_ie6-cachekey-cms-4080.054.css);</style>
+      <style type="text/css" media="screen">@import url(http://www.business.govt.nz/portal_css/EnterpriseTheme/fmit.jsutils_ie6-cachekey-cms-50764.css);</style>
+    
+    
+    
+        <![endif]-->
+    
+  
+
+  
+    
+    
+    
+      <style type="text/css" media="screen">@import url(http://www.business.govt.nz/portal_css/EnterpriseTheme/resourcefmit.problemselector.stylesheetsproblemselector-cachekey-cms-50765.css);</style>
+    
+    
+    
+  
+
+  
+    
+        <!--[if IE 6]>    
+    
+    
+    
+      <style type="text/css" media="screen">@import url(http://www.business.govt.nz/portal_css/EnterpriseTheme/ent_ie6-cachekey-cms-50766.css);</style>
     
     
     
@@ -203,7 +238,21 @@
     
     
     
-      <style type="text/css" media="screen">@import url(http://www.business.govt.nz/portal_css/EnterpriseTheme/ent_ie7-cachekey-cms-4080.055.css);</style>
+      <style type="text/css" media="screen">@import url(http://www.business.govt.nz/portal_css/EnterpriseTheme/ent_ie7-cachekey-cms-50767.css);</style>
+    
+    
+    
+        <![endif]-->
+    
+  
+
+  
+    
+        <!--[if IE 8]>    
+    
+    
+    
+      <style type="text/css" media="screen">@import url(http://www.business.govt.nz/portal_css/EnterpriseTheme/ent_ie8-cachekey-cms-50768.css);</style>
     
     
     
@@ -215,7 +264,7 @@
     
     
     
-      <style type="text/css">@import url(http://www.business.govt.nz/portal_css/EnterpriseTheme/companies-cachekey-cms-4080.056.css);</style>
+      <style type="text/css">@import url(http://www.business.govt.nz/portal_css/EnterpriseTheme/companies-cachekey-cms-50769.css);</style>
     
     
     
@@ -223,7 +272,7 @@
 
 
   
-  <link rel="kinetic-stylesheet" type="text/css" href="http://www.business.govt.nz/portal_kss/EnterpriseTheme/at-cachekey-cms-4080.051.kss">
+  <link rel="kinetic-stylesheet" type="text/css" href="http://www.business.govt.nz/portal_kss/EnterpriseTheme/at-cachekey-cms-50761.kss">
 
 
 <!--[if IE 7]>
@@ -245,6 +294,19 @@
 
  <![endif]-->
 
+<script type="text/javascript">
+//<![CDATA[
+
+    fmit.configuration.oldBrowserURL = '';
+
+    jq(document).ready(function(){fmit.oldBrowserNag();});
+
+//]]>
+</script>
+
+
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+
 
     <!-- IE6 workaround CSS/JS  -->
     <!--[if lte IE 7]>
@@ -262,16 +324,16 @@
 
 
 
-    <link rel="home" href="https://www.business.govt.nz" title="Front page">
+    <link rel="home" href="http://www.business.govt.nz" title="Front page">
 
-    <link rel="contents" href="https://www.business.govt.nz/sitemap" title="Site Map">
-
-
+    <link rel="contents" href="http://www.business.govt.nz/sitemap" title="Site Map">
 
 
 
 
-    <link rel="search" href="https://www.business.govt.nz/search_form" title="Search this site">
+
+
+    <link rel="search" href="http://www.business.govt.nz/search_form" title="Search this site">
 
 
 
@@ -290,10 +352,36 @@
     
     
 
+    
+    
+        
+        
+            
+            
+                
+                    <script type="text/javascript">
+                                    var _gaq = _gaq || [];
+                                    _gaq.push(['_setAccount', 'UA-1508218-2']);
+                                    _gaq.push(['_setDomainName', '.business.govt.nz']);
+                                    _gaq.push(['_setCookiePath', '/companies']); 
+                                    _gaq.push(['_setLocalRemoteServerMode']);
+                                    _gaq.push(['_trackPageview']);
+             
+                                    (function() {
+                                       var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                                       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                                       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+                                     })();</script>
+                 
+            
+        
+    
+
+
   </head>
 
   <body class="cms section-companies type-Document template-document_view" dir="ltr">
-    <div id="visual-portal-wrapper" class="companiesArea">
+    <div id="visual-portal-wrapper" class="companiesArea jqStyleMarker">
 
       <div id="portal-top">
         <div id="site-header-marker" class="companiesArea">
@@ -333,16 +421,23 @@
                 
                 
                      |
-                    <a href="http://www.business.govt.nz/./resolveUid/20b28fe7d1e5ff28f559fabeb1c7d071" title="">
+                    <a href="http://www.business.govt.nz/./resolveUid/2419fea06904d49b56a10b77ba0b2e57" title="">
                         
-                        Follow us online
+                        Your account
                     </a>
                 
                 
                      |
-                    <a href="http://www.business.govt.nz/./resolveUid/2419fea06904d49b56a10b77ba0b2e57" title="">
+                    <a href="http://www.facebook.com/CompaniesOffice" title="">
+                        <img src="http://www.business.govt.nz/companies/site-tools/header-links/facebook/image" alt="Join us on facebook" title="Join us on facebook" height="24" width="24">
                         
-                        Your account
+                    </a>
+                
+                
+                     |
+                    <a href="http://twitter.com/CompaniesOffice" title="">
+                        <img src="http://www.business.govt.nz/companies/site-tools/header-links/twitter/image" alt="Follow us on twitter" title="Follow us on twitter" height="24" width="24">
+                        
                     </a>
                 
                 <span class="not_logged_in">
@@ -362,6 +457,7 @@
                     
                 </span>
             
+            
 
         </div>
 
@@ -373,6 +469,7 @@
                 <div class="rightEnd"></div>
             </div>
             
+            
             <div class="tab active cmsSearch">
                 <div class="leftEnd"></div>
                 <div class="body">Search this website</div>
@@ -381,7 +478,7 @@
             <div class="action">
                 <div class="leftEnd"></div>
                 <div class="body cmsSearch">
-                    <form id="searchapoloozaForm" action="/search">
+                    <form id="searchapoloozaForm" action="http://www.business.govt.nz/companies/search">
                         <div class="inputLeftFroo"></div>
                         <input class="inputText searchInput" id="searchGadget" type="text" name="SearchableText" value="">
 
@@ -462,7 +559,7 @@
                                     <div class="tab inactive" style="width: 220px;" id="megatab-help-support">
                                         <div class="inner">
                                             <span>
-                                                <a href="http://www.business.govt.nz/companies/help-support">Help &amp; Support</a>
+                                                <a href="http://www.business.govt.nz/companies/help-support">Help &amp; support</a>
                                             </span>
                                         </div>
                                     </div>
@@ -474,7 +571,7 @@
                                     <div class="tab inactive" style="width: 220px;" id="megatab-news-updates">
                                         <div class="inner">
                                             <span>
-                                                <a href="http://www.business.govt.nz/companies/news-updates">News &amp; Updates</a>
+                                                <a href="http://www.business.govt.nz/companies/news-updates">News &amp; updates</a>
                                             </span>
                                         </div>
                                     </div>
@@ -547,7 +644,7 @@
                                 <li class="depth2">
                                     
                                     
-                                        <a href="http://www.business.govt.nz/companies/learn-about/searching/get-a-certificate-of-incorporation/./resolveUid/92ae11b388eb50b250c5173c817e98ca" title="Many documents filed with the Companies Office can be conveniently...">For documents</a>
+                                        <a href="http://www.business.govt.nz/companies/learn-about/searching/understanding-your-search-results/what-documents-can-you-see" title="Many documents filed with the Companies Office can be conveniently...">What documents can you see?</a>
                                     
                                 </li>
                             
@@ -564,6 +661,14 @@
                                     
                                     
                                         <a href="http://www.business.govt.nz/companies/learn-about/searching/understanding-your-search-results" title="You can sort your search results and you can email,...">Understanding your search results</a>
+                                    
+                                </li>
+                            
+                             
+                                <li class="depth2">
+                                    
+                                    
+                                        <a href="http://www.business.govt.nz/companies/learn-about/searching/facebook" title="Using the search the register option through Facebook you can...">Searching on Facebook</a>
                                     
                                 </li>
                             
@@ -599,8 +704,12 @@
                                     
                                 </li>
                             
+                        </ul>
+                    </div>
+                    <div class="col2">
+                        <ul>
                              
-                                <li class="depth2">
+                                <li class="depth2 first">
                                     
                                     
                                         <a href="http://www.business.govt.nz/companies/learn-about/create-manage-logon/invoices-fees" title="If you have set up a direct debit with the...">Invoices &amp; fees</a>
@@ -615,12 +724,8 @@
                                     
                                 </li>
                             
-                        </ul>
-                    </div>
-                    <div class="col2">
-                        <ul>
                              
-                                <li class="depth2 first">
+                                <li class="depth2">
                                     
                                     
                                         <a href="http://www.business.govt.nz/companies/learn-about/create-manage-logon/terms-and-conditions" title="What you need to know to access our services, and...">Terms of use</a>
@@ -644,6 +749,14 @@
                                 </li>
                             
                              
+                                <li class="depth2">
+                                    
+                                    
+                                        <a href="http://www.business.govt.nz/companies/learn-about/companies/overseas-companies" title="Information and online services for overseas companies who are, or...">Overseas companies</a>
+                                    
+                                </li>
+                            
+                             
                                 <li class="depth1">
                                     
                                     
@@ -655,7 +768,7 @@
                                 <li class="depth2">
                                     
                                     
-                                        <a href="http://www.business.govt.nz/companies/learn-about/starting-a-company/reserving-a-company-name/./resolveUid/5c986332e780ddc34edcca2cc527af1d" title="The Registrar of Companies is responsible for the approval and...">Reserving a company name</a>
+                                        <a href="http://www.business.govt.nz/companies/learn-about/reserving-company-names" title="The Registrar of Companies is responsible for the reservation of...">Reserving a company name</a>
                                     
                                 </li>
                             
@@ -679,7 +792,7 @@
                                 <li class="depth2">
                                     
                                     
-                                        <a href="http://www.business.govt.nz/companies/learn-about/starting-a-company/director-shareholder-consents" title="Signed consent is required from directors and shareholders in order...">Director &amp; shareholder consents</a>
+                                        <a href="http://www.business.govt.nz/companies/learn-about/starting-a-company/director-shareholder-consents" title="Signed consent is required from directors and shareholders in order...">Director and shareholder consents</a>
                                     
                                 </li>
                             
@@ -691,8 +804,12 @@
                                     
                                 </li>
                             
+                        </ul>
+                    </div>
+                    <div class="col3">
+                        <ul>
                              
-                                <li class="depth1">
+                                <li class="depth1 first">
                                     
                                     
                                         <a href="http://www.business.govt.nz/companies/learn-about/company-authority" title="Company Authority is the name given to the authority management...">Company Authority</a>
@@ -723,12 +840,8 @@
                                     
                                 </li>
                             
-                        </ul>
-                    </div>
-                    <div class="col3">
-                        <ul>
                              
-                                <li class="depth2 first">
+                                <li class="depth2">
                                     
                                     
                                         <a href="http://www.business.govt.nz/companies/learn-about/company-authority/revoking-company-authority" title="If access is no longer required Company Authority can be...">How do you grant or revoke authority?</a>
@@ -791,8 +904,12 @@
                                     
                                 </li>
                             
+                        </ul>
+                    </div>
+                    <div class="col4">
+                        <ul>
                              
-                                <li class="depth2">
+                                <li class="depth2 first">
                                     
                                     
                                         <a href="http://www.business.govt.nz/companies/learn-about/updating-company-details/financial-reporting" title="Is your company required to file financial statements in accordance...">Financial reporting</a>
@@ -811,7 +928,7 @@
                                 <li class="depth2">
                                     
                                     
-                                        <a href="http://www.business.govt.nz/companies/learn-about/updating-company-details/more.././resolveUid/1d1f9f1fdcc3c9ab58e295c3b63967dc" title="Read more about all of the updating options available....">More...</a>
+                                        <a href="http://www.business.govt.nz/companies/learn-about/updating-company-details/more.." title="Read more about all of the updating options available....">More...</a>
                                     
                                 </li>
                             
@@ -823,12 +940,8 @@
                                     
                                 </li>
                             
-                        </ul>
-                    </div>
-                    <div class="col4">
-                        <ul>
                              
-                                <li class="depth2 first">
+                                <li class="depth2">
                                     
                                     
                                         <a href="http://www.business.govt.nz/companies/learn-about/annual-returns/annual-return-reminders" title="We will send you an annual return reminder each year....">Annual return reminders</a>
@@ -871,7 +984,7 @@
                                 <li class="depth2">
                                     
                                     
-                                        <a href="http://www.business.govt.nz/companies/learn-about/closing-a-company/objecting-to-a-removal/./resolveUid/89b35ba0acf18ea24fba3eb6c5c89876" title="During the removal process there is an opportunity for creditors...">Objecting to a removal</a>
+                                        <a href="http://www.business.govt.nz/companies/learn-about/closing-a-company/removing-a-company/objecting-to-a-removal" title="During the removal (deregistration) process there is an opportunity for...">Objecting to a removal</a>
                                     
                                 </li>
                             
@@ -887,39 +1000,7 @@
                                 <li class="depth1">
                                     
                                     
-                                        <a href="http://www.business.govt.nz/companies/learn-about/other-entities" title="In addition to operating the Register of Companies, the Companies...">Other entities</a>
-                                    
-                                </li>
-                            
-                             
-                                <li class="depth1">
-                                    
-                                    
-                                        <a href="http://www.business.govt.nz/companies/learn-about/insurance-ratings" title="...">Insurance &amp; Ratings</a>
-                                    
-                                </li>
-                            
-                             
-                                <li class="depth2">
-                                    
-                                    
-                                        <a href="http://www.business.govt.nz/companies/learn-about/insurance-ratings/establishing-insurance-business-in-new-zealand" title="For more information and enquiries on establishing insurance business in...">Establishing Insurance Business in New Zealand</a>
-                                    
-                                </li>
-                            
-                             
-                                <li class="depth2">
-                                    
-                                    
-                                        <a href="http://www.business.govt.nz/companies/learn-about/insurance-ratings/ratings-and-inspections" title="View the list of registered insurance companies and their ratings....">Ratings and Inspections</a>
-                                    
-                                </li>
-                            
-                             
-                                <li class="depth2">
-                                    
-                                    
-                                        <a href="http://www.business.govt.nz/companies/learn-about/insurance-ratings/more.././resolveuid/ea57d328b4e4d5620ee14b9eb86c36b6" title="Read more about Insurance and Ratings....">More...</a>
+                                        <a href="http://www.business.govt.nz/companies/learn-about/other-entities" title="In addition to operating the Register of Companies, the Companies...">Other registers</a>
                                     
                                 </li>
                             
@@ -929,113 +1010,6 @@
                 </div>
                 <div class="megadropWrap" id="megawrap-help-support">
                     <div class="col1">
-                        <ul>
-                             
-                                <li class="depth1 first">
-                                    
-                                    
-                                        <a href="http://www.business.govt.nz/companies/help-support/how-do-i.." title="Whether you are new to the Companies Office or have...">How do I..?</a>
-                                    
-                                </li>
-                            
-                             
-                                <li class="depth2">
-                                    
-                                    
-                                        <a href="http://www.business.govt.nz/companies/help-support/how-do-i../search-for-a-company/./resolveUid/3a38696dedb0dcccf60b475ab579dc3e" title="...">Search for a company</a>
-                                    
-                                </li>
-                            
-                             
-                                <li class="depth2">
-                                    
-                                    
-                                        <a href="http://www.business.govt.nz/companies/help-support/how-do-i../get-an-igovt-logon/./resolveUid/75be198f26ff1b5e0dbe0b57760071fc" title="If you already have an igovt logon you won't need...">Register or get a logon</a>
-                                    
-                                </li>
-                            
-                             
-                                <li class="depth2">
-                                    
-                                    
-                                        <a href="http://www.business.govt.nz/companies/help-support/how-do-i../get-company-authority/./resolveUid/c87b9b8e9bd692fffef6e170613d0087" title="The person who incorporates the company online will be automatically...">Get Company Authority</a>
-                                    
-                                </li>
-                            
-                             
-                                <li class="depth2">
-                                    
-                                    
-                                        <a href="http://www.business.govt.nz/companies/help-support/how-do-i../file-an-annual-return/./resolveUid/0110717958bb5065c9e0c254e1a42b8b" title="You can start to file an annual return you must...">File an annual return</a>
-                                    
-                                </li>
-                            
-                             
-                                <li class="depth2">
-                                    
-                                    
-                                        <a href="http://www.business.govt.nz/companies/help-support/how-do-i../start-a-new-company/./resolveUid/a9f1f8db3cc7ad636394a1f37ccbe585" title="Starting a company online (incorporating) is as simple as reserving...">Start a new company</a>
-                                    
-                                </li>
-                            
-                        </ul>
-                    </div>
-                    <div class="col2">
-                        <ul>
-                             
-                                <li class="depth2 first">
-                                    
-                                    
-                                        <a href="http://www.business.govt.nz/companies/help-support/how-do-i../update-director-details/./resolveUid/9d3c3b222a959a6945a35f2ed92af230" title="The companies register contains details of each company director -...">Update director details</a>
-                                    
-                                </li>
-                            
-                             
-                                <li class="depth2">
-                                    
-                                    
-                                        <a href="http://www.business.govt.nz/companies/help-support/how-do-i../update-other-company-details/./resolveUid/1d1f9f1fdcc3c9ab58e295c3b63967dc" title="Use the online service to keep your company details up...">Update other company details</a>
-                                    
-                                </li>
-                            
-                             
-                                <li class="depth2">
-                                    
-                                    
-                                        <a href="http://www.business.govt.nz/companies/help-support/how-do-i../read-more/./resolveUid/07893c42d6cb6cb3140649b3f720dbb2" title="Whether you are new to the Companies Office or have...">More...</a>
-                                    
-                                </li>
-                            
-                             
-                                <li class="depth2 shim">
-                                    
-                                        
-                                            &nbsp;
-                                        
-                                        
-                                    
-                                    
-                                </li>
-                            
-                             
-                                <li class="depth1">
-                                    
-                                    
-                                        <a href="http://www.business.govt.nz/companies/help-support/how-can-we-help-you" title="...">How can we help you?</a>
-                                    
-                                </li>
-                            
-                             
-                                <li class="depth1">
-                                    
-                                    
-                                        <a href="http://www.business.govt.nz/companies/help-support/ask-a-question" title="View our most frequently asked questions or ask us a...">Ask a question</a>
-                                    
-                                </li>
-                            
-                        </ul>
-                    </div>
-                    <div class="col3">
                         <ul>
                              
                                 <li class="depth1 first">
@@ -1065,6 +1039,14 @@
                                 <li class="depth2">
                                     
                                     
+                                        <a href="http://www.business.govt.nz/companies/help-support/technical-support/tips-for-uploading-documents" title="You can only upload a document with a file size...">Tips for uploading documents</a>
+                                    
+                                </li>
+                            
+                             
+                                <li class="depth2">
+                                    
+                                    
                                         <a href="http://www.business.govt.nz/companies/help-support/technical-support/known-issues" title="...">Known issues</a>
                                     
                                 </li>
@@ -1073,7 +1055,103 @@
                                 <li class="depth2">
                                     
                                     
-                                        <a href="http://www.business.govt.nz/companies/help-support/technical-support/more.././resolveUid/3b6a9c46f56f9c8785236251c7b70f1d" title="If your web page is not displaying correctly or you...">More...</a>
+                                        <a href="http://www.business.govt.nz/companies/help-support/technical-support/more.." title="View the full range of technical support resources....">More...</a>
+                                    
+                                </li>
+                            
+                        </ul>
+                    </div>
+                    <div class="col2">
+                        <ul>
+                             
+                                <li class="depth1 first">
+                                    
+                                    
+                                        <a href="http://www.business.govt.nz/companies/help-support/how-do-i.." title="Whether you are new to the Companies Office or have...">How do I..?</a>
+                                    
+                                </li>
+                            
+                             
+                                <li class="depth2">
+                                    
+                                    
+                                        <a href="http://www.business.govt.nz/companies/help-support/how-do-i../redirect-links/search-for-a-company" title="...">Search for a company</a>
+                                    
+                                </li>
+                            
+                             
+                                <li class="depth2">
+                                    
+                                    
+                                        <a href="http://www.business.govt.nz/companies/help-support/how-do-i../redirect-links/get-an-igovt-logon" title="If you already have an igovt logon you won't need...">Register or get a logon</a>
+                                    
+                                </li>
+                            
+                             
+                                <li class="depth2">
+                                    
+                                    
+                                        <a href="http://www.business.govt.nz/companies/help-support/how-do-i../redirect-links/get-company-authority" title="The person who incorporates the company online will be automatically...">Get Company Authority</a>
+                                    
+                                </li>
+                            
+                             
+                                <li class="depth2">
+                                    
+                                    
+                                        <a href="http://www.business.govt.nz/companies/help-support/how-do-i../redirect-links/file-an-annual-return" title="You can start to file an annual return you must...">File an annual return</a>
+                                    
+                                </li>
+                            
+                             
+                                <li class="depth2">
+                                    
+                                    
+                                        <a href="http://www.business.govt.nz/companies/help-support/how-do-i../redirect-links/start-a-new-company" title="Starting a company online (incorporating) is as simple as reserving...">Start a new company</a>
+                                    
+                                </li>
+                            
+                        </ul>
+                    </div>
+                    <div class="col3">
+                        <ul>
+                             
+                                <li class="depth2 first">
+                                    
+                                    
+                                        <a href="http://www.business.govt.nz/companies/help-support/how-do-i../redirect-links/update-director-details" title="The companies register contains details of each company director -...">Update director details</a>
+                                    
+                                </li>
+                            
+                             
+                                <li class="depth2">
+                                    
+                                    
+                                        <a href="http://www.business.govt.nz/companies/help-support/how-do-i../redirect-links/update-other-company-details" title="Use the online service to keep your company details up...">Update other company details</a>
+                                    
+                                </li>
+                            
+                             
+                                <li class="depth2">
+                                    
+                                    
+                                        <a href="http://www.business.govt.nz/companies/help-support/how-do-i../redirect-links/read-more" title="Check out the full range of resources for how to...">More...</a>
+                                    
+                                </li>
+                            
+                             
+                                <li class="depth1">
+                                    
+                                    
+                                        <a href="http://www.business.govt.nz/companies/help-support/forms" title="Although you can now do most of your company filing...">Forms</a>
+                                    
+                                </li>
+                            
+                             
+                                <li class="depth1">
+                                    
+                                    
+                                        <a href="http://www.business.govt.nz/companies/help-support/fees" title="Here you will find the current schedule of fees for...">Fees</a>
                                     
                                 </li>
                             
@@ -1093,7 +1171,23 @@
                                 <li class="depth1">
                                     
                                     
-                                        <a href="http://www.business.govt.nz/companies/help-support/training" title="Would your organisation benefit from some free in house training...">Training Hub</a>
+                                        <a href="http://www.business.govt.nz/companies/help-support/videos" title="Our videos are designed to help you use our online...">Videos</a>
+                                    
+                                </li>
+                            
+                             
+                                <li class="depth1">
+                                    
+                                    
+                                        <a href="http://www.business.govt.nz/companies/help-support/doing-business-in-nz" title="Business.govt.nz is the New Zealand government business website....">Doing business in New Zealand</a>
+                                    
+                                </li>
+                            
+                             
+                                <li class="depth1">
+                                    
+                                    
+                                        <a href="http://www.business.govt.nz/companies/help-support/ask-a-question" title="View our most frequently asked questions or ask us a...">Ask a question</a>
                                     
                                 </li>
                             
@@ -1102,22 +1196,6 @@
                                     
                                     
                                         <a href="http://www.business.govt.nz/companies/help-support/do-you-have-feedback-for-us" title="We welcome your opinion, if you have a moment, please...">Do you have feedback for us?</a>
-                                    
-                                </li>
-                            
-                             
-                                <li class="depth1">
-                                    
-                                    
-                                        <a href="http://www.business.govt.nz/companies/help-support/forms" title="Although you can now do most of your company filing...">Forms</a>
-                                    
-                                </li>
-                            
-                             
-                                <li class="depth1">
-                                    
-                                    
-                                        <a href="http://www.business.govt.nz/companies/help-support/fees" title="Here you will find the current schedule of fees for...">Fees</a>
                                     
                                 </li>
                             
@@ -1140,7 +1218,7 @@
                                 <li class="depth2">
                                     
                                     
-                                        <a href="http://www.business.govt.nz/companies/news-updates/news/relief-for-financial-advisers-affected-by-earthquake" title="Media Statement - 29 March 2011...">Relief for financial advisers affected by earthquake</a>
+                                        <a href="http://www.business.govt.nz/companies/news-updates/public-notices/latest-notices" title="...">Latest public notices</a>
                                     
                                 </li>
                             
@@ -1148,7 +1226,7 @@
                                 <li class="depth2">
                                     
                                     
-                                        <a href="http://www.business.govt.nz/companies/news-updates/news/new-online-services" title="13 December 2010...">New online services</a>
+                                        <a href="http://www.business.govt.nz/companies/news-updates/news/companies-office-statistics-updated" title="16 December 2011...">Companies Office statistics updated</a>
                                     
                                 </li>
                             
@@ -1156,7 +1234,7 @@
                                 <li class="depth2">
                                     
                                     
-                                        <a href="http://www.business.govt.nz/companies/news-updates/news/government-tightens-rules-around-companies" title="9 September 2010...">Government tightens rules around companies</a>
+                                        <a href="http://www.business.govt.nz/companies/news-updates/news/a-new-website-for-the-ministry-of-economic-development" title="12 December 2011...">A new website for the Ministry of Economic Development</a>
                                     
                                 </li>
                             
@@ -1164,13 +1242,57 @@
                                 <li class="depth2">
                                     
                                     
-                                        <a href="http://www.business.govt.nz/companies/news-updates/news/3.-important-changes" title="28 June 2010...">New features for our new look website</a>
+                                        <a href="http://www.business.govt.nz/companies/news-updates/news/companies-office-technical-support" title="28 February 2012...">Companies Office technical support</a>
                                     
                                 </li>
                             
                         </ul>
                     </div>
                     <div class="col2">
+                        <ul>
+                             
+                                <li class="depth2 first">
+                                    
+                                    
+                                        <a href="http://www.business.govt.nz/companies/news-updates/news/asic-connect" title="5 April 2012...">ASIC Connect</a>
+                                    
+                                </li>
+                            
+                             
+                                <li class="depth2">
+                                    
+                                    
+                                        <a href="http://www.business.govt.nz/companies/news-updates/news/2012-04-16-company-details-screen" title="16 April 2012...">Changes to the 'Company Details' screen</a>
+                                    
+                                </li>
+                            
+                             
+                                <li class="depth2">
+                                    
+                                    
+                                        <a href="http://www.business.govt.nz/companies/news-updates/news/med-news-release-15-march-2012" title="15 March 2012...">New Ministry to be created</a>
+                                    
+                                </li>
+                            
+                             
+                                <li class="depth2">
+                                    
+                                    
+                                        <a href="http://www.business.govt.nz/companies/news-updates/news/auditors-register-live" title="1 May 2012...">Auditors Register is live</a>
+                                    
+                                </li>
+                            
+                             
+                                <li class="depth2">
+                                    
+                                    
+                                        <a href="http://www.business.govt.nz/companies/news-updates/news/get-most-out-of-ppsr" title="1 May 2012...">Three ways to get the most out of the PPSR</a>
+                                    
+                                </li>
+                            
+                        </ul>
+                    </div>
+                    <div class="col3">
                         <ul>
                              
                                 <li class="depth1 first">
@@ -1184,7 +1306,7 @@
                                 <li class="depth2">
                                     
                                     
-                                        <a href="http://www.business.govt.nz/companies/news-updates/public-notices/latest-notices" title="...">Latest notices</a>
+                                        <a href="http://www.business.govt.nz/companies/news-updates/public-notices/latest-notices" title="...">Latest public notices</a>
                                     
                                 </li>
                             
@@ -1192,7 +1314,7 @@
                                 <li class="depth2">
                                     
                                     
-                                        <a href="http://www.business.govt.nz/companies/news-updates/public-notices/public-notices-will-no-longer-be-advertised-in-major-newspapers" title="9 July 2010...">How we advertise public notices</a>
+                                        <a href="http://www.business.govt.nz/companies/news-updates/public-notices/public-notices-will-no-longer-be-advertised-in-major-newspapers" title="Since 30 July 2010 public notices are no longer advertised...">How we advertise public notices</a>
                                     
                                 </li>
                             
@@ -1206,7 +1328,7 @@
                             
                         </ul>
                     </div>
-                    <div class="col3">
+                    <div class="col4">
                         <ul>
                              
                                 <li class="depth2 first">
@@ -1228,42 +1350,6 @@
                                 <li class="depth1">
                                     
                                     
-                                        <a href="http://www.business.govt.nz/companies/news-updates/business-update" title="The Business Update is a free monthly electronic newsletter emailed...">Monthly Business Update </a>
-                                    
-                                </li>
-                            
-                             
-                                <li class="depth1">
-                                    
-                                    
-                                        <a href="http://www.business.govt.nz/companies/news-updates/podcasts" title="A series of podcasts from the Companies Office designed to...">Podcasts</a>
-                                    
-                                </li>
-                            
-                        </ul>
-                    </div>
-                    <div class="col4">
-                        <ul>
-                             
-                                <li class="depth2 first">
-                                    
-                                    
-                                        <a href="http://www.business.govt.nz/companies/news-updates/podcasts/creating-an-igovt-logon" title="28 June 2010...">Creating an igovt logon</a>
-                                    
-                                </li>
-                            
-                             
-                                <li class="depth2">
-                                    
-                                    
-                                        <a href="http://www.business.govt.nz/companies/news-updates/podcasts/igovt-password" title="28 June 2010...">Forgotten your igovt password?</a>
-                                    
-                                </li>
-                            
-                             
-                                <li class="depth1">
-                                    
-                                    
                                         <a href="http://www.business.govt.nz/companies/news-updates/follow-us-online" title="The Companies Office has a range of features and services...">Follow us online</a>
                                     
                                 </li>
@@ -1272,7 +1358,7 @@
                                 <li class="depth1">
                                     
                                     
-                                        <a href="http://www.med.govt.nz/templates/StandardSummary____4367.aspx" target="_blank" title="The latest news, media statements and press releases relating to...">MED Media Centre</a>
+                                        <a href="http://www.med.govt.nz/news-media" target="_blank" title="The latest news, media statements and press releases relating to...">MED Media Centre</a>
                                     
                                 </li>
                             
@@ -1340,6 +1426,17 @@
                                 </li>
                             
                              
+                                <li class="depth2 shim">
+                                    
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                    
+                                    
+                                </li>
+                            
+                             
                                 <li class="depth1">
                                     
                                     
@@ -1391,6 +1488,14 @@
                                     
                                     
                                         <a href="/companies/app/ui/pages/companies/transferNameReservation" title="Transfer a name reservation...">Transfer name reservation</a>
+                                    
+                                </li>
+                            
+                             
+                                <li class="depth2">
+                                    
+                                    
+                                        <a href="/companies/app/ui/pages/companies/withdrawName" title="Withdraw a reserved name...">Withdraw name reservation</a>
                                     
                                 </li>
                             
@@ -1514,6 +1619,22 @@
                                 <li class="depth2">
                                     
                                     
+                                        <a href="/companies/app/ui/pages/companies/fileFinancialStatements" title="File financial statements online....">File financial statements</a>
+                                    
+                                </li>
+                            
+                             
+                                <li class="depth2">
+                                    
+                                    
+                                        <a href="http://www.business.govt.nz/companies/learn-about/updating-company-details/registering-prospectus-documents/register-securities-documents" title="...">Register securities documents online</a>
+                                    
+                                </li>
+                            
+                             
+                                <li class="depth2">
+                                    
+                                    
                                         <a href="http://www.business.govt.nz/companies/do-it-now/update-company/other-maintenance" title="Amalgamations, Takeover documents, Property Law Act Notices, Compromise documents, Lodge...">Other maintenance</a>
                                     
                                 </li>
@@ -1526,20 +1647,20 @@
                                     
                                 </li>
                             
-                             
-                                <li class="depth2">
-                                    
-                                    
-                                        <a href="/companies/app/ui/pages/compliance/voluntaryDeRegistration" title="Lodge your request to remove a company from the register...">Apply for deregistration</a>
-                                    
-                                </li>
-                            
                         </ul>
                     </div>
                     <div class="col4">
                         <ul>
                              
                                 <li class="depth2 first">
+                                    
+                                    
+                                        <a href="/companies/app/ui/pages/compliance/voluntaryDeRegistration" title="Lodge your request to remove a company from the register...">Apply for deregistration</a>
+                                    
+                                </li>
+                            
+                             
+                                <li class="depth2">
                                     
                                     
                                         <a href="/companies/app/ui/pages/compliance/removalObjection" title="Lodge an objection to the advertised removal of a company...">Object to a company removal</a>
@@ -1682,12 +1803,14 @@
 
   
     
+    
+    
     <h5 class="hiddenStructure">Document Actions</h5>
     <div id="documentactionscontainer">
     <div id="documentactionswrapper">
-      <div id="documentactions">
-        <div class="docright"></div>
-        <div class="docleft"></div>
+      <div id="documentactions" style=" height: 45px">
+        <div class="docright" style=" height: 45px"></div>
+        <div class="docleft" style=" height: 45px"></div>
         <ul class="documentactions">
           
           <li>
@@ -1697,45 +1820,25 @@
           <li>
               <a class="feedbackicon" href="feedback_form" title="Feedback form"></a>
           </li>
-
-        
-            
-               
-                
-                
-               
-               <li>
-                       <a href="http://www.business.govt.nz/companies/about-this-site/privacy-statement/sendto_form" title="Email this page" class="sendto">
-                      </a>
-               </li>
-             
-        
-        
-            
-               
-                <li>
-                       <a href="javascript:this.print();" title="Print this page" class="print">
-                       </a>
-                </li>
-                
-               
-               
-             
-        
-        
-            
-               
-                
-                <li>
-                       <a href="http://www.business.govt.nz/companies/about-this-site/privacy-statement/pdf/privacy-statement.pdf" title="PDF version of page" class="view_pdf" rel="noindex, nofollow">
-                      </a>
-               </li>
-               
-               
-             
-        
-
-     </ul>
+          
+          <li class="da_nomargin">
+              <a href="http://www.business.govt.nz/companies/about-this-site/privacy-statement/sendto_form" class="sendto" title="Email this page">
+             </a>
+           </li>
+           
+          
+          <li class="da_nomargin">
+              <a href="javascript:this.print();" class="print" title="Print this page">
+             </a>
+           </li>
+           
+          
+          <li class="da_nomargin">
+              <a href="http://www.business.govt.nz/companies/about-this-site/privacy-statement/pdf/privacy-statement.pdf" class="view_pdf" title="View as PDF">
+             </a>
+           </li>
+           
+        </ul>
 
      
           <div class="socialbuttons">
@@ -1802,6 +1905,9 @@
     </div>
     </div>
     
+    
+
+    
   
 
 
@@ -1818,7 +1924,7 @@
                   <div class="visualPadding">
                     
                       
-<div id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f6e7a2d676f76742d627573696e6573732d7777772d707265766965772f736974652f636f6d70616e6965732f61626f75742d746869732d736974650a656e74657270726973652d7375622d6e617669676174696f6e" class="portletWrapper kssattr-portlethash-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f6e7a2d676f76742d627573696e6573732d7777772d707265766965772f736974652f636f6d70616e6965732f61626f75742d746869732d736974650a656e74657270726973652d7375622d6e617669676174696f6e"><div id="leftSubNav">
+<div id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f6e7a2d676f76742d627573696e6573732d7777772d7075626c69632f736974652f636f6d70616e6965732f61626f75742d746869732d736974650a656e74657270726973652d7375622d6e617669676174696f6e" class="portletWrapper kssattr-portlethash-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f6e7a2d676f76742d627573696e6573732d7777772d7075626c69632f736974652f636f6d70616e6965732f61626f75742d746869732d736974650a656e74657270726973652d7375622d6e617669676174696f6e"><div id="leftSubNav">
     <h2 class="title">
         <a href="http://www.business.govt.nz/companies/about-this-site">About this site</a>
     </h2>
@@ -1847,7 +1953,7 @@
             
                 <div class="navItem">
                   
-                    <a href="http://www.business.govt.nz/companies/about-this-site/terms-of-use/./resolveUid/133902526245d0755277cb8241604575" title="Terms of use">Terms of use</a>
+                    <a href="http://www.business.govt.nz/companies/learn-about/create-manage-logon/terms-and-conditions" title="Terms of use">Terms of use</a>
                   
                   
                 </div>
@@ -1857,7 +1963,7 @@
             
                 <div class="navItem">
                   
-                    <a href="http://www.business.govt.nz/companies/about-this-site/optimum-software-and-site-settings/./resolveUid/a2da3cf8327f3840bdf9a20ae28e0905" title="Optimum software and site settings">Optimum software and site settings</a>
+                    <a href="http://www.business.govt.nz/companies/help-support/technical-support/optimum-software-and-site-settings" title="Optimum software and site settings">Optimum software and site settings</a>
                   
                   
                 </div>
@@ -1867,7 +1973,7 @@
             
                 <div class="navItem">
                   
-                    <a href="http://www.business.govt.nz/companies/about-this-site/technical-support/./resolveUid/3b6a9c46f56f9c8785236251c7b70f1d" title="Technical support">Technical support</a>
+                    <a href="http://www.business.govt.nz/companies/help-support/technical-support" title="Technical support">Technical support</a>
                   
                   
                 </div>
@@ -1877,7 +1983,7 @@
             
                 <div class="navItem">
                   
-                    <a href="http://www.business.govt.nz/companies/about-this-site/feedback/./resolveUid/91ea15da6d7d861ca187343617272d23" title="Feedback">Feedback</a>
+                    <a href="http://www.business.govt.nz/companies/help-support/do-you-have-feedback-for-us" title="Do you have feedback for us?">Do you have feedback for us?</a>
                   
                   
                 </div>
@@ -1923,33 +2029,37 @@
                 </div>
             
         
-        
-            
-                <div class="navItem">
-                  
-                    <a href="http://www.business.govt.nz/companies/about-this-site/news-updates" title="News &amp; updates">News &amp; updates</a>
-                  
-                  
-                </div>
-            
-        
     
 </div>
 
 <script type="text/javascript">
 
 jq('#portal-column-one').css('background', 'url(\'/business-portal_subnav_hbg.png\') repeat-y');
-jq('#portal-column-one .visualPadding').css('background', '#333333 url(\'/business-portal_subnav_bg.jpg\') no-repeat');
+jq('#portal-column-one .visualPadding').css('background', 'url(\'/business-portal_subnav_bg.jpg\') no-repeat');
 jq('#portal-column-one .visualPadding').css('min-height', '311px');
 jq('.companiesArea #portal-column-one').css('background', 'url(\'/companies_subnav_flat_hbg.png\') repeat-y');
-jq('.companiesArea #portal-column-one .visualPadding').css('background', '#233342 url(\'/companies_subnav_bg.jpg\') no-repeat');
+jq('.companiesArea #portal-column-one .visualPadding').css('background', 'url(\'/companies_subnav_bg.jpg\') no-repeat');
 jq('.companiesArea #portal-column-one .visualPadding').css('min-height', '311px');
 jq('.fspArea #portal-column-one').css('background', 'url(\'/companies_subnav_flat_hbg.png\') repeat-y');
-jq('.fspArea #portal-column-one .visualPadding').css('background', '#233342 url(\'/companies_subnav_bg.jpg\') no-repeat');
+jq('.fspArea #portal-column-one .visualPadding').css('background', 'url(\'/companies_subnav_bg.jpg\') no-repeat');
 jq('.fspArea #portal-column-one .visualPadding').css('min-height', '311px');
 jq('.businessdataArea #portal-column-one').css('background', 'url(\'/companies_subnav_flat_hbg.png\') repeat-y');
-jq('.businessdataArea #portal-column-one .visualPadding').css('background', '#233342 url(\'/companies_subnav_bg.jpg\') no-repeat');
+jq('.businessdataArea #portal-column-one .visualPadding').css('background', 'url(\'/companies_subnav_bg.jpg\') no-repeat');
 jq('.businessdataArea #portal-column-one .visualPadding').css('min-height', '311px');
+
+if(jq.browser.msie && jq.browser.version==6.0)
+{
+    // deal with ie6's lack of min-height support
+    vp = jq('#portal-column-one .visualPadding');
+    if(vp.innerHeight()<311) {vp.height(311);}
+}
+cl = jq('#visual-portal-wrapper.jqStyleMarker').attr('class');
+funcName = cl.replace(/^.*(\b.*Area\b).*$/, '$1');
+try {
+  eval(funcName+'StyleSite')('');
+} catch (err) {
+  //do nothing
+}
 
 </script>
 </div>
@@ -1994,6 +2104,15 @@ jq('.businessdataArea #portal-column-one .visualPadding').css('min-height', '311
       
    
  
+
+
+<script type="text/javascript" src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+
+
+
+
+
+
 
 </div>
 
@@ -2081,6 +2200,7 @@ jq('.businessdataArea #portal-column-one .visualPadding').css('min-height', '311
                         
                         
                           
+
     
 
 
@@ -2127,7 +2247,7 @@ jq('.businessdataArea #portal-column-one .visualPadding').css('min-height', '311
                   <div class="visualPadding">
                     
                       
-<div id="portletwrapper-706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f6e7a2d676f76742d627573696e6573732d7777772d707265766965772f736974652f636f6d70616e6965732f61626f75742d746869732d736974650a72656c617465642d636f6e74656e74" class="portletWrapper kssattr-portlethash-706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f6e7a2d676f76742d627573696e6573732d7777772d707265766965772f736974652f636f6d70616e6965732f61626f75742d746869732d736974650a72656c617465642d636f6e74656e74"><div class="enterpriseportlet">
+<div id="portletwrapper-706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f6e7a2d676f76742d627573696e6573732d7777772d7075626c69632f736974652f636f6d70616e6965732f61626f75742d746869732d736974650a72656c617465642d636f6e74656e74" class="portletWrapper kssattr-portlethash-706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f6e7a2d676f76742d627573696e6573732d7777772d7075626c69632f736974652f636f6d70616e6965732f61626f75742d746869732d736974650a72656c617465642d636f6e74656e74"><div class="enterpriseportlet">
    <div class="blue">
       <div class="enterprisetop"></div>
         <div class="relatedlinkscontent">
@@ -2175,7 +2295,7 @@ jq('.businessdataArea #portal-column-one .visualPadding').css('min-height', '311
 </div>
 </div>
 
-<div id="portletwrapper-706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f6e7a2d676f76742d627573696e6573732d7777772d707265766965772f736974650a726576696577" class="portletWrapper kssattr-portlethash-706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f6e7a2d676f76742d627573696e6573732d7777772d707265766965772f736974650a726576696577">
+<div id="portletwrapper-706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f6e7a2d676f76742d627573696e6573732d7777772d7075626c69632f736974650a726576696577" class="portletWrapper kssattr-portlethash-706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f6e7a2d676f76742d627573696e6573732d7777772d7075626c69632f736974650a726576696577">
 
   
   
@@ -2251,19 +2371,19 @@ jq('.businessdataArea #portal-column-one .visualPadding').css('min-height', '311
                 
                     
                     <div class="right">
-                        <a href="http://www.business.govt.nz/./resolveUid/3e26a188aa3fb84ae3890443e183917a" title="">Contact Us</a>
+                        <a href="http://www.business.govt.nz/./resolveUid/3e26a188aa3fb84ae3890443e183917a" title="">Contact us</a>
                     </div>
                 
                 
                     <div class="left">
-                        <a href="http://www.business.govt.nz/./resolveUid/16b73250ccd2af953891151850cabc15" title="">About Us</a>
+                        <a href="http://www.business.govt.nz/./resolveUid/16b73250ccd2af953891151850cabc15" title="">About us</a>
                     </div>
                     
                 
                 
                     
                     <div class="right">
-                        <a href="http://www.business.govt.nz/./resolveUid/856055dc2c28503b3604a61c8f081846" title="">About This Site</a>
+                        <a href="http://www.business.govt.nz/./resolveUid/856055dc2c28503b3604a61c8f081846" title="">About this site</a>
                     </div>
                 
                 
@@ -2275,19 +2395,19 @@ jq('.businessdataArea #portal-column-one .visualPadding').css('min-height', '311
                 
                     
                     <div class="right">
-                        <a href="http://www.business.govt.nz/./resolveUid/8754063355cf7c570aaa4b90cc7fd436" title="">Privacy Statement</a>
+                        <a href="http://www.business.govt.nz/./resolveUid/8754063355cf7c570aaa4b90cc7fd436" title="">Privacy statement</a>
                     </div>
                 
                 
                     <div class="left">
-                        <a href="http://www.business.govt.nz/companies/sitemap" title="">Site Map</a>
+                        <a href="http://www.business.govt.nz/companies/sitemap" title="">Site map</a>
                     </div>
                     
                 
                 
                     
                     <div class="right">
-                        <a href="http://www.legislation.govt.nz/" title="[link to New Zealand Legislation website]">New Zealand Legislation</a>
+                        <a href="http://www.legislation.govt.nz/" title="[link to New Zealand Legislation website]">New Zealand legislation</a>
                     </div>
                 
                 <div class="clear"></div>
@@ -2298,30 +2418,13 @@ jq('.businessdataArea #portal-column-one .visualPadding').css('min-height', '311
 </div>
 
 
+
+
       
 
       <div class="visualClear"><!-- --></div>
     </div>
 <div id="kss-spinner"><img alt="" src="/spinner.gif"></div>
-
-    
-        
-        <script type="text/javascript">
-          var _gaq = _gaq || [];
-          _gaq.push(['_setAccount', 'UA-2181213-2']);
-          _gaq.push(['_setDomainName', '.business.govt.nz/companies']);
-          _gaq.push(['_trackPageview']);
-         
-          (function() {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-          })();</script>
-        
-        
-    
-
-
 
 
 
