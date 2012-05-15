@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the edhardyshop.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007075034id_/http%3A//edhardyshop.com/policy-stat.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edhardyshop.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515093312id_/http%3A//edhardyshop.com/policy-stat.html) for the most accurate reproduction.*
 
 # Official Ed Hardy Store by Christian Audigier - California Lifestyle Fashion Brand. Free Shipping on Womens Hoodies, Long Sleeve T-Shirts and Print Tee Shirts.
 
 **Privacy Policy**  
-Backstage Web, Inc. and its affiliates ("Tattoo" or, collectively, "us," "we" or "our"), operate this website (the "Site"). This Privacy Policy sets forth our information practices and is incorporated therein by reference to the Terms and Conditions of Use of this Site. We encourage you to read this Privacy Policy carefully and to contact us if you have any questions. Your use of the Site indicates your acceptance of this Privacy Policy.
+Backstage Web, Inc. and its affiliates ("Backstage Web" or, collectively, "us," "we" or "our"), operate this website (the "Site"). This Privacy Policy sets forth our information practices and is incorporated therein by reference to the Terms and Conditions of Use of this Site. We encourage you to read this Privacy Policy carefully and to contact us if you have any questions. Your use of the Site indicates your acceptance of this Privacy Policy.
 
 **I. WHAT TYPE OF INFORMATION IS COLLECTED AND WHY**
 
@@ -15,6 +15,9 @@ We also make use of website "cookies" to help you use our services more easily a
 
 
 **II. USE OF MY INFORMATION**
+
+  
+
 
   * User Identification  
 For our sites that offer user registration, we may retain this information on a secure server so that on re-visiting our Site, you will not need to re-enter that information. We may use this information in an aggregated form to measure number of visits, average time spent on the Site, pages viewed, and other relevant statistics. We collect this information to measure the use of our Site and to improve the content of our Site.
@@ -34,7 +37,6 @@ If you do not wish to receive email messages from us, please choose "unsubscribe
 
 
 
-  
 **III. INFORMATION FROM PERSONS UNDER THE AGE OF 13**
 
 NOTICE: Visit [www.OnGuardOnline.gov](http://www.onguardonline.gov/) for tips from the Federal Trade Commission on protecting kids’ privacy online. We do not seek to collect personally identifiable information from persons under the age of 13 without prior verifiable parental consent. If we become aware that we have inadvertently received such information online from a child under the age of 13, we will delete it from our records. If you are under the age of 13, please do not submit any personally identifiable information to us. If you are the parent or guardian of a person under the age of 13 who has provided personally identifiable information to us, please inform us by contacting us at [customerservice@donedhardy.com](mailto:customerservice@donedhardy.com) and we will remove such information from our database. If you are concerned about your children's use of the Site, you may use web filtering technology to supervise or limit access to the Site.
@@ -50,7 +52,8 @@ NOTICE: Visit [www.OnGuardOnline.gov](http://www.onguardonline.gov/) for tips fr
   * Hypertext Links  
 Our Site may contain "links" to other websites, and we cannot and are not responsible for maintaining your privacy once you leave our Site. If you provide any information to parties who operate websites that are linked to or from this Site, different rules may apply to their collection, use or disclosure of your personal information. We encourage you to review other websites' policies before revealing any sensitive or personal information. Under no circumstances shall we have any liability whatsoever for the activities conducted by or at any website accessed from or through the Site.
 
-  
+
+
 **V. YOUR CALIFORNIA PRIVACY RIGHTS**
 
 A California resident who has provided personal information to a business with whom he/she has established a business relationship for personal, family, or household purposes ("California customer") is entitled to request information about whether the business has disclosed personal information to any third parties for the third parties' direct marketing purposes. In general, if the business has made such a disclosure of personal information, upon receipt of a request by a California customer, the business is required to provide a list of all third parties to whom personal information was disclosed in the preceding calendar year, as well as a list of the categories of personal information that were disclosed. However, under the law, a business is not required to provide the above-described lists if the business adopts and discloses to the public (in its privacy Policy) a Privacy Policy of not disclosing customer's personal information to third parties for their direct marketing purposes unless the customer first affirmatively agrees to the disclosure, as long as the business maintains and discloses this Privacy Policy. Rather, the business may comply with the law by notifying the customer of his or her right to prevent disclosure of personal information and providing a cost free means to exercise that right.
@@ -61,8 +64,9 @@ As stated in this Privacy Policy, we do not share information with third parties
   * Miscellaneous  
 The Privacy Policy for the Site established by us constitutes ours and your entire understanding with respect to the use of the Site. We control and/or operate the Site from offices in the United States of America. We do not represent that materials on the Site are appropriate or available for use in other locations. Persons who choose to access this Site from other locations do so on their own initiative and at their own risk, and are responsible for compliance with local laws, if and to the extent local laws are applicable. This Privacy Policy shall be construed in accordance with the laws of the State of California, without regard to its conflict of laws rules. You agree to personal jurisdiction by the federal and state courts located in Los Angeles County, State of California. No waiver by use of any breach or default hereunder shall be deemed to be a waiver of any preceding or subsequent breach or default. You agree that regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to use of the Site must be filed within one (1) year after such claim or cause of action arose or be forever barred. If any provision of the Terms and Conditions and Privacy Policy is found to be unenforceable for any reason, than that provision shall be deemed severable and shall not affect the validity and enforceability of any remaining provisions.
 
-  
+
+
 **VII. CHANGES TO OUR TERMS AND CONDITIONS AND OUR PRIVACY POLICY**
 
-We may revise this Privacy Policy at any time by updating this posting without advance notice to you. Such revisions shall be effective immediately upon posting. It is your obligation to review the Privacy Policy from time to time.   
+We may revise this Privacy Policy at any time by updating this posting without advance notice to you. Such revisions shall be effective immediately upon posting. It is your obligation to review the Privacy Policy from time to time.  
 Last Updated: 06/24/2011
