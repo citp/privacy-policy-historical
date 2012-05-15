@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the killurtime.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231110451id_/http%3A//www.killurtime.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the killurtime.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515074035id_/http%3A//www.killurtime.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Kill Your Time With Style
-
-## [Subscribe to Kill your Time by Email](http://feedburner.google.com/fb/a/mailverify?uri=killurtime&loc=en_US)
-
-Loading...
+# Privacy Policy
 
 **Privacy Policy**
 
@@ -27,7 +23,7 @@ The browser provides this piece of text to the originating Web site when this vi
 A “persistent” cookie may be used to help save your settings and customizations across site visits.  
 Also, if you log in to your account, such a cookie will be used to recognize you as a valid user so you will not need to log in each time you visit the killurtime.com.  
 Most Web browsers are initially configured to accept cookies, but you can change this setting so your browser either refuses all cookies or informs you when a cookie is being sent.  
-Also, you are free to delete any existing cookies at any time. Please note that many features of the Acidcow.com may not function properly when cookies are disabled or removed.
+Also, you are free to delete any existing cookies at any time. Please note that many features of the killurtime.com may not function properly when cookies are disabled or removed.
 
 **Log Files**
 
@@ -43,6 +39,4 @@ We encourage you to check it frequently.
 
 **How to contact us**
 
-For any questions, requests and suggestions, please do not hesitate to contact us at [rapturousrainbow@live.com](mailto:rapturousrainbow@live.com)
-
-Loading...
+For any questions, requests and suggestions, please do not hesitate to contact us at [admin@killurtime.com](mailto:rapturousrainbow@live.com)
