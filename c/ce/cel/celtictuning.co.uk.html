@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the celtictuning.co.uk privacy policy that was archived on 2011-11-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111112114225id_/http%3A//www.celtictuning.co.uk/ct-privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the celtictuning.co.uk privacy policy that was archived on 2012-05-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120515101507id_/http%3A//www.celtictuning.co.uk/ct-privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head id="Head1"><title>
 	Celtic Tuning Privacy Policy
@@ -215,7 +215,7 @@
                 <td width="650" align="left" valign="top" bgcolor="#FFFFFF">
                     <div id="left-col">
                         <form method="post" action="ct-privacy" id="frmMaster">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMjUzNTk5OTE4ZGTYJNzQonoGrsF7jAevxoKw451Bv4HXF8rd8DopR7creg==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMjUzNTk5OTE4ZGSav1Co6uH51uohkZaYr4q6kxBhweZazUuBt01zlUV0Zg==">
 
                         
     <div id="left-col">
@@ -464,16 +464,17 @@
                         <div id="dvMessage" class="ui-state-highlight ui-corner-all" style="margin-top: 2px;
                             padding: 2px;">
                             <span class="ui-icon ui-icon-info" style="float: left; margin-right: .3em;"></span>
-                            <span id="pWarning" style="float: left; margin-right: .3em;">All fields marked with
-                                an asterisk (*) must be completed</span>
+                            <span id="pWarning" style="float: left; margin-right: .3em;">
+                            All fields marked with an asterisk (*) must be completed
                             <br>
-                        </div>
+                        </span></div>
                     </div>
                     <table width="100%">
                         <tbody>
                             <tr>
                                 <td colspan="4" style="border-color: #aaaaaa; background-color: #dddddd; border-width: thin;border-style: solid;">
                                     Please note if Telephone is entered CT will be able to offer last minute discounts.
+                            
                                 </td>
                             </tr>
                             <tr>
@@ -524,7 +525,8 @@
                             <tr>
                                 <td class="tdLeft">
                                     <div align="right" id="dvYear">
-                                        Vehicle&nbsp;Year&nbsp;YYYY&nbsp;*</div>
+                                        Vehicle&nbsp;Year&nbsp;YYYY&nbsp;*
+                                    </div>
                                 </td>
                                 <td class="tdRight">
                                     <input id="txtYear" tabindex="4" class="cttext" type="text">
@@ -533,8 +535,8 @@
                             <tr>
                                 <td class="tdLeft">
                                     <div align="right" id="dvTown">
-                                        Town/City&nbsp;*</div>
-                                </td>
+                                        Town/City*
+                                </div></td>
                                 <td class="tdRight">
                                     <input id="txtTown" tabindex="5" class="cttext" type="text">
                                 </td>
@@ -542,7 +544,8 @@
                             <tr>
                                 <td class="tdLeft">
                                     <div align="right" id="dvCounty">
-                                        County</div>
+                                        County
+                                    </div>
                                 </td>
                                 <td class="tdRight">
                                     <input id="txtCounty" tabindex="6" class="cttext" type="text">
@@ -553,7 +556,7 @@
                                     <table>
                                         <tbody><tr>
                                             <td>
-                                                Subscribe to Newsletter
+                                                Subscribe to Newsletter*
                                             </td>
                                             <td>
                                                 <input name="Subscribe" id="cbSubscribe" style="border: 0px none;" value="yes" checked="checked" type="checkbox">
@@ -604,8 +607,9 @@
                         <div class="ui-widget">
                             <div id="dvMessageBrochure" class="ui-state-highlight ui-corner-all" style="margin-top: 2px;padding: 2px;">
                                 <span class="ui-icon ui-icon-info" style="float: left; margin-right: .3em;"></span>
-                                <span id="dvWarningBrochure" style="float: left; margin-right: .3em;">All fields marked
-                                    with an asterisk (*) must be completed</span>
+                                <span id="dvWarningBrochure" style="float: left; margin-right: .3em;">
+                                    All fields marked with an asterisk (*) must be completed
+                                </span>
                                 <br>
                             </div>
                         </div>
@@ -819,6 +823,9 @@
     <script src="jquery/jquery.uniform.js" type="text/javascript" charset="utf-8"></script>
     <script src="jquery/jquery.colorbox.js" type="text/javascript"></script>
     <script type="text/javascript" charset="utf-8">
+
+        var captions = new Array('Please select a make', 'Please select a model', 'Please select a fuel', 'Please select a variant');
+        var loadCaption = "blah blah"; //"Loading please wait..."
         var $k = jQuery.noConflict();
 
         $k(function () {
