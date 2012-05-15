@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the motelrocks.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225194220id_/http%3A//www.motelrocks.com/shop/pages/Motels-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motelrocks.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515101625id_/http%3A//www.motelrocks.com/shop/pages/Motels-Privacy-Policy) for the most accurate reproduction.*
 
 # Motels Privacy Policy
 
 **General**
 
-This privacy statement sets out how Motel, who operate this website located at [www.motelrocks.com](https://web.archive.org/), use the information you give us. We may change this privacy statement at any time by posting such changes on the site. Your continued use of the site after notice of changes shall mean you have agreed to the new privacy statement. We are committed to respecting your privacy. Once you choose to provide us with any information by which you can be identified with, then you can be assured that it will only be used in accordance with this privacy statement. By using the site you agree to this use.
+This privacy statement sets out how Motel, who operate this website located at [www.motelrocks.com](http://www.motelrocks.com/), use the information you give us. We may change this privacy statement at any time by posting such changes on the site. Your continued use of the site after notice of changes shall mean you have agreed to the new privacy statement. We are committed to respecting your privacy. Once you choose to provide us with any information by which you can be identified with, then you can be assured that it will only be used in accordance with this privacy statement. By using the site you agree to this use.
 
   **What We Collect**
 
