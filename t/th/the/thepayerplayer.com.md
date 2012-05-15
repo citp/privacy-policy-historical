@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepayerplayer.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208221336id_/http%3A//www.lucidmeetings.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepayerplayer.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515022959id_/http%3A//www.lucidmeetings.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Lucid Meetings
 
