@@ -1,16 +1,20 @@
-<!--The following is the downloaded HTML source of the choiceshirts.com privacy policy that was archived on 2010-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101222204527id_/http%3A//www.choiceshirts.com/privacy-security) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the choiceshirts.com privacy policy that was archived on 2012-05-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120515020339id_/http%3A//www.choiceshirts.com/privacy-security) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-                                  
-<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
-<title>Privacy &amp; Security T-Shirt  - ChoiceShirts</title>
+<meta http-equiv="X-UA-Compatible" content="IE=8">
+<meta http-equiv="X-UA-Compatible" content="IE=7">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<title>Privacy &amp; Security  - ChoiceShirts</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="description" content="T-shirts from ChoiceShirts include printed t-shirt designs and a wide selection of pre-printed shirts.">
 <meta name="keywords" content="t-shirts, printed t-shirts, t-shirt designs, printed shirts">
 <meta name="robots" content="INDEX,FOLLOW">
 <link rel="icon" href="http://css.choiceshirts.com/skin/frontend/cls/choiceshirts/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="http://css.choiceshirts.com/skin/frontend/cls/choiceshirts/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" href="/skin/frontend/cls/choiceshirts/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/skin/frontend/cls/choiceshirts/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/skin/frontend/cls/choiceshirts/apple-touch-icon-114x114.png">
 <script type="text/javascript">
 //<![CDATA[
     var BASE_URL = 'http://www.choiceshirts.com/';
@@ -59,25 +63,24 @@
 optionalZipCountries = [];
 //]]>
 </script>
-<script type="text/javascript">var Translator = new Translate({"Credit card number doesn't match credit card type":"Credit card number does not match credit card type","Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in this field, first character must be a letter."});</script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://static.getclicky.com/js"></script></head>
-<body class=" cms-page-view cms-privacy-security">
-
+<script type="text/javascript">var Translator = new Translate({"Credit card number doesn't match credit card type":"Credit card number does not match credit card type","Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in this field, first character must be a letter."});</script>
 <!-- BEGIN GOOGLE ANALYTICS CODE -->
 <script type="text/javascript">
 //<![CDATA[
-    (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
-    })();
-
     var _gaq = _gaq || [];
-    _gaq.push(["_setAccount", "UA-2396554-1"]);
-    _gaq.push(["_trackPageview", "/privacy-security"]);
+    _gaq.push(['_setAccount', 'UA-2396554-1']);
+    _gaq.push(['_trackPageview','/privacy-security/']);
+(function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
 //]]>
 </script>
 <!-- END GOOGLE ANALYTICS CODE -->
-        <div class="wrapper">
+        <script type="text/javascript" async="" src="https://static.getclicky.com/js"></script></head>
+<body class=" cms-page-view cms-privacy-security">
+<div class="wrapper">
 
         <noscript>
         <div class="noscript">
@@ -93,8 +96,33 @@ optionalZipCountries = [];
     <div class="header">
                 <a href="http://www.choiceshirts.com/" title="ChoiceShirts - wear what you think!" class="logo"><strong>ChoiceShirts - wear what you think!</strong><img src="http://css.choiceshirts.com/skin/frontend/cls/choiceshirts/images/cs_logo.png" alt="ChoiceShirts - wear what you think!"></a>
                 <div class="quick-access">
-                                    <a class="top-link-cart" href="http://www.choiceshirts.com/checkout/cart/"><span class="label">Shopping Cart:</span> 0 Item(s) Totaling: <span class="price">$0.00</span></a>
-            
+                        <a class="top-link-cart" href="http://www.choiceshirts.com/checkout/cart/"><span class="label">Shopping Cart:</span> <span id="cart-item-total">0</span> Item(s) Totaling: <span class="price">$0.00</span></a>
+        <script>
+            function isNumber(n) {
+              return !isNaN(parseFloat(n)) && isFinite(n);
+            }
+            jQuery(document).ready(function(){
+                jQuery.getJSON('/cad/',
+                            {},
+                            function(data) {
+                                if(isNumber(data.cart[0]) && isNumber(data.cart[1])) {
+                                    jQuery("#cart-item-total").text(data.cart[0]);
+                                    jQuery(".top-link-cart .price").text('$' + data.cart[1].replace(/(\d)(?=(\d\d\d)+(?!\d))/g, "$1,"));
+                                }
+                                if (data.messages.length > 0) {
+                                    jQuery.each(data.messages, function(k, msg){
+                                        // Make message box if it does not exist
+                                        if (jQuery('#' + msg[0] + ' ul.messages').length == 0) {                                        
+                                            jQuery('#' + msg[0]).append('<ul class="messages"></ul>');
+                                        }
+
+                                        // Display message
+                                        jQuery('#' + msg[0] + ' ul.messages').append('<li class="' + msg[2] + '-msg">' + msg[1] + '</li>');                                    
+                                    });                                
+                                }
+                            });
+            });
+        </script>            
             <div class="header-social"><ul>
 <!--    <li class="blogger-link"><a href="#">Blogger</a></li>-->
     <li class="twitter-link" target="_none"><a href="http://twitter.com/choiceshirts">Twitter</a></li>
@@ -159,84 +187,84 @@ optionalZipCountries = [];
                         <div class="category-links">
                             <ul class="level0">
                                                             <li class="level1 nav-1 first">
-<a href="http://www.choiceshirts.com/funny-stuff.html">
-<span>Funny Stuff</span>
+<a href="http://www.choiceshirts.com/funny-t-shirts.html">
+<span>Funny</span>
 </a>
 </li><li class="level1 nav-2">
-<a href="http://www.choiceshirts.com/tuxedo-shirts-1.html">
-<span>Tuxedo Shirts</span>
+<a href="http://www.choiceshirts.com/tuxedo-t-shirts.html">
+<span>Tuxedo</span>
 </a>
 </li><li class="level1 nav-3">
-<a href="http://www.choiceshirts.com/animal-lovers.html">
-<span>Animal Lovers</span>
+<a href="http://www.choiceshirts.com/animal-lover-t-shirts.html">
+<span>Animal</span>
 </a>
 </li><li class="level1 nav-4">
-<a href="http://www.choiceshirts.com/cats.html">
-<span>Cats</span>
+<a href="http://www.choiceshirts.com/cat-t-shirts.html">
+<span>Cat</span>
 </a>
 </li><li class="level1 nav-5">
-<a href="http://www.choiceshirts.com/dogs.html">
-<span>Dogs</span>
+<a href="http://www.choiceshirts.com/dog-t-shirts.html">
+<span>Dog</span>
 </a>
 </li><li class="level1 nav-6">
-<a href="http://www.choiceshirts.com/for-the-family.html">
-<span>For the Family</span>
+<a href="http://www.choiceshirts.com/family-t-shirts.html">
+<span>Family</span>
 </a>
 </li><li class="level1 nav-7">
-<a href="http://www.choiceshirts.com/occupations.html">
-<span>Occupations</span>
+<a href="http://www.choiceshirts.com/occupation-t-shirts.html">
+<span>Occupation</span>
 </a>
 </li><li class="level1 nav-8">
-<a href="http://www.choiceshirts.com/just-for-kids.html">
-<span>Just for Kids</span>
+<a href="http://www.choiceshirts.com/kids-t-shirts.html">
+<span>Kids</span>
 </a>
 </li><li class="level1 nav-9">
-<a href="http://www.choiceshirts.com/biker.html">
+<a href="http://www.choiceshirts.com/biker-t-shirts.html">
 <span>Biker</span>
 </a>
 </li><li class="level1 nav-10">
-<a href="http://www.choiceshirts.com/automotive.html">
-<span>Automotive</span>
+<a href="http://www.choiceshirts.com/car-t-shirts.html">
+<span>Car</span>
 </a>
 </li><li class="level1 nav-11">
-<a href="http://www.choiceshirts.com/beers-and-liquor.html">
-<span>Beers and Liquor</span>
+<a href="http://www.choiceshirts.com/beer-and-liquor-t-shirts.html">
+<span>Beer</span>
 </a>
 </li><li class="level1 nav-12">
-<a href="http://www.choiceshirts.com/r-rated.html">
+<a href="http://www.choiceshirts.com/r-rated-t-shirts.html">
 <span>R Rated</span>
 </a>
 </li><li class="level1 nav-13">
-<a href="http://www.choiceshirts.com/graphic-trends.html">
-<span>Graphic Trends</span>
+<a href="http://www.choiceshirts.com/graphic-trends-t-shirts.html">
+<span>Cool</span>
 </a>
 </li><li class="level1 nav-14">
-<a href="http://www.choiceshirts.com/holidays.html">
+<a href="http://www.choiceshirts.com/holiday-t-shirts.html">
 <span>Holidays</span>
 </a>
 </li><li class="level1 nav-15">
-<a href="http://www.choiceshirts.com/pop-culture.html">
-<span>Pop Culture</span>
+<a href="http://www.choiceshirts.com/pop-culture-t-shirts.html">
+<span>Hollywood</span>
 </a>
 </li><li class="level1 nav-16">
-<a href="http://www.choiceshirts.com/gift-ideas.html">
-<span>Gift Ideas</span>
+<a href="http://www.choiceshirts.com/gift-ideas-t-shirts.html">
+<span>Gifts</span>
 </a>
 </li><li class="level1 nav-17">
-<a href="http://www.choiceshirts.com/patriotic.html">
+<a href="http://www.choiceshirts.com/patriotic-t-shirt-1.html">
 <span>Patriotic</span>
 </a>
 </li><li class="level1 nav-18">
-<a href="http://www.choiceshirts.com/groups-and-causes.html">
-<span>Groups and Causes </span>
+<a href="http://www.choiceshirts.com/groups-and-causes-t-shirts.html">
+<span>Causes</span>
 </a>
 </li><li class="level1 nav-19">
-<a href="http://www.choiceshirts.com/inspiration-and-religion.html">
-<span>Inspiration and Religion</span>
+<a href="http://www.choiceshirts.com/inspiration-and-religion-t-shirts.html">
+<span>Religious</span>
 </a>
 </li><li class="level1 nav-20 last">
-<a href="http://www.choiceshirts.com/sports-and-games.html">
-<span>Sports and Games</span>
+<a href="http://www.choiceshirts.com/sports-and-games-t-shirts.html">
+<span>Sport</span>
 </a>
 </li>                                                        </ul>
                         </div>
@@ -526,15 +554,7 @@ optionalZipCountries = [];
 <li><a href="http://www.choiceshirts.com/privacy-security/">Privacy &amp; Security</a></li>
 <li class="last"><a href="http://www.choiceshirts.com/catalog/seo_sitemap/category/">Site Map</a></li>
 </ul>        <address>ChoiceShirts and ChoiceStudio are registered trademarks of ChoiceShirts, Inc.</address>     
-    </div>                                                         
-    <div class="customer-service-ratings">
-      <!-- BEGIN: BizRate Medal (125x73 pixels) --> 
-      <a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--31552.html" ;="" target="_blank"> 
-      <img src="https://medals.bizrate.com/medals/dynamic/31552_medal.gif" ;="" alt="Bizrate Ratings for ChoiceShirts" width="125" height="73" align="top" border="0"> 
-      </a>
-      <!-- END: BizRate Medal (125x73 pixels) -->
-      
-    </div>
+    </div>                                                             
 </div>
 <script type="text/javascript" src="/skin/frontend/cls/choiceshirts/js/konami.js"></script>
 <script type="text/javascript">
