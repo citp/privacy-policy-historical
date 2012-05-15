@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the storeya.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115154336id_/http%3A//www.storeya.com/public/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storeya.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515160205id_/http%3A//www.storeya.com/public/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - StoreYa.com
 
 ##  Privacy Statement
 
-StoreYa, LLC ("StoreYa") is serious about protecting your privacy and recognizes that you care how information about you is used and shared. We appreciate your trust that we will do so carefully and sensibly. This notice (this "Privacy Policy") describes how we may collect personal information about you, how we may use it, what choices you have regarding it, and how we protect it. This Privacy Policy is incorporated into and is a part of the Terms of Use of this StoreYa Web site (Facebook App or the "Site") and we encourage you to become familiar with the terms and conditions contained herein. By accessing and using this Site and the StoreYa Service, you agree that you have read and agree to this Privacy Policy, and that you accept and consent to the privacy practices described in this Privacy Policy.
+StoreYa Feed LTD. ("StoreYa") is serious about protecting your privacy and recognizes that you care how information about you is used and shared. We appreciate your trust that we will do so carefully and sensibly. This notice (this "Privacy Policy") describes how we may collect personal information about you, how we may use it, what choices you have regarding it, and how we protect it. This Privacy Policy is incorporated into and is a part of the Terms of Use of this StoreYa Web site (Facebook App or the "Site") and we encourage you to become familiar with the terms and conditions contained herein. By accessing and using this Site and the StoreYa Service, you agree that you have read and agree to this Privacy Policy, and that you accept and consent to the privacy practices described in this Privacy Policy.
 
 #####  What Information Do We Collect?
 
