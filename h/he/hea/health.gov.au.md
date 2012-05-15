@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the health.gov.au privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102004809id_/http%3A//www.health.gov.au/internet/main/publishing.nsf/Content/privacy_security.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the health.gov.au privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515104520id_/http%3A//health.gov.au/internet/main/publishing.nsf/Content/privacy_security.htm) for the most accurate reproduction.*
 
 # Department of Health and Ageing - Privacy and security
 
@@ -19,11 +19,21 @@ Top of page
 
 ## Cookies
 
-The Department of Health and Ageing uses 'cookies' for maintaining contact with a user through a website session. A cookie is a small file supplied by the Department, and stored by the web browser software on your computer when you access our site. (An explanation of cookies can be found at the site of the Privacy Commissioner at: <http://www.privacy.gov.au/internet/internet_privacy/#2.1>). Cookies allow us to recognise you as an individual, as you move from one of our web pages to another. 
+The Department of Health and Ageing uses 'cookies' for maintaining contact with a user through a website session. A cookie is a small file supplied by the Department, and stored by the web browser software on your computer when you access our site. (An explanation of cookies can be found at the site of the Privacy Commissioner at: <http://www.privacy.gov.au/internet/internet_privacy/#2.1>). Cookies allow us to recognise you as an individual web user, as you browse our website. 
 
-All cookies will be immediately lost when you end your internet session or shut down your computer. Our copy of your information will be automatically deleted twenty minutes after you last used the system. This information is only used to help you use our website systems more efficiently, not to track your movements through the internet, or to record private information about you. 
+Two cookie types may be used by this website:
 
-No attempt will be made to identify anonymous users or their browsing activities unless legally compelled to do so, such as in the event of an investigation, where a law enforcement agency may exercise a warrant to inspect the Internet Service Provider's log files. 
+### Session cookies
+
+These exist only for the duration of a web browser session with a particular website/host. All cookies will be immediately lost when you end your internet session or shut down your computer. Our copy of your information will be automatically deleted twenty minutes after you last used the system. This information is only used to help you use our website systems more efficiently, not to track your movements through the internet, or to record private information about you. 
+
+### Persistent cookies
+
+These exist for a defined period of time (usually beyond the termination of the current session) before expiring.
+
+## Privacy
+
+No personally identifiable information is stored within cookies used by this website. No attempt will be made to identify anonymous users or their browsing activities unless legally compelled to do so, such as in the event of an investigation, where a law enforcement agency may exercise a warrant to inspect the Internet Service Provider's log files.
 
 ## Clickstream data
 
