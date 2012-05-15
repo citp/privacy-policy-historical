@@ -1,16 +1,16 @@
-<!--The following is the downloaded HTML source of the lifescript.com privacy policy that was archived on 2011-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110618063918id_/http%3A//www.lifescript.com/AboutLifeScript/Terms_of_use/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lifescript.com privacy policy that was archived on 2012-05-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120515220757id_/http%3A//www.lifescript.com/aboutlifescript/terms_of_use/privacypolicy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head id="LSHead"><link rel="SHORTCUT ICON" href="http://images.lifescript.com/images/url.ico"><title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head id="LSHead"><meta http-equiv="X-UA-Compatible" content="IE=edge"><link rel="SHORTCUT ICON" href="http://images.lifescript.com/images/url.ico"><title>
 	Privacy Policy | Lifescript.com
-</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="author" content="lifescript"><meta name="description" content="LifeScript.com is a women's health information site which addresses important women's health issues and promotes women's health fitness. Upbeat and original articles answer your women's health questions on a variety of topics."><meta name="keywords" content="women's health issues, women's health information, women's health fitness, women’s health questions, women's health, women's health problems"><meta name="channel" content="AboutLifeScript"><meta name="subchannel" content="Terms of use"><meta name="last-modified" content="2009-04-30">
+</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="author" content="lifescript"><meta name="description" content="LifeScript.com is a women's health information site which addresses important women's health issues and promotes women's health fitness. Upbeat and original articles answer your women's health questions on a variety of topics."><meta name="keywords" content=""><meta name="channel" content="AboutLifeScript"><meta name="subchannel" content="Terms of use"><meta name="last-modified" content="2012-04-27">
+	<script type="text/javascript" src="/js/jquery-1.4.4.min.js"></script>
 	<script type="text/javascript" src="/JavaScript/common.js"></script>
-	<script type="text/javascript" src="/js/jquery.min.js"></script>
 	<script type="text/javascript" src="/js/ui.accordion.js"></script>
 	<script type="text/javascript" src="/js/jquery.corner-min.js"></script>
 	<script type="text/javascript" src="/js/jquery.innerfade.js"></script>
 	<script type="text/javascript" src="/js/jquery.querystring.js"></script>
-	
+	<script type="text/javascript" src="/JavaScript/global.js"></script>
 	<script type="text/javascript" src="/JavaScript/Ads/DartIncludeIframes.js"></script>
     <script type="text/javascript" src="/JavaScript/Toolbar/ArticleHelpers2.js"></script>
    	<script type="text/javascript" src="/JavaScript/Ads/InterstitialOriginal.js"></script>
@@ -19,13 +19,14 @@
     <script type="text/javascript" src="/JavaScript/Menu/Menu.js"></script>
     <script type="text/javascript" src="/js/jquery.validate.js"></script>
  	<script type="text/javascript" src="/js/jquery.metadata.js"></script>
+    <script type="text/javascript" src="/JavaScript/cookie.js"></script>
     <script type="text/javascript" src="http://www.google-analytics.com/ga.js"></script>
 <script type="text/javascript" src="http://service.optify.net/opt.js"></script>
 <script type="text/javascript" src="http://publishers.halogennetwork.com/audience/lifescript.js"></script>
 <script type="text/javascript" src="/JavaScript/Tracking/Tracking.js"></script>
 <script type="text/javascript" src="/JavaScript/Tracking/AdWords.js"></script>
 <script type="text/javascript" src="/JavaScript/Tracking/EfficientFrontier.js"></script>
-<script type="text/javascript" src="/JavaScript/Tracking/GoogleAnalytics.js"></script><script src="https://web.archive.org/web/20170930172353/https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript" src="/JavaScript/Tracking/GoogleAnalytics.js"></script>
 <script type="text/javascript" src="/JavaScript/Utility.js"></script>
 <script type="text/javascript">
     TrackPageView();
@@ -35,23 +36,70 @@
 
 
 
-<link type="text/css" rel="stylesheet" href="/css/Global.css"><link type="text/css" rel="stylesheet" href="/css/Articles.css"><link type="text/css" rel="stylesheet" href="/css/aboutlifescript.css">
+<link type="text/css" rel="stylesheet" href="/webtools/CSSJSCombiner.ashx?cssFile=/css/Global.css,/css/Articles.css,/css/aboutlifescript.css">
 <script type="text/javascript" language="javascript">
-    var gDartTag = "Lifescript;;path=AboutLifeScript/Terms_of_use/PrivacyPolicy;subchannel=index";
-    var gKeywords = "";
+    var gDartTag = "aboutlifescript;path=AboutLifeScript/Terms_of_use/PrivacyPolicy;subchannel=index";
+    var gContexts = "";
     var gCampaigns = "";
     var gAdFlag = "lfs2.lifescript";
-</script></head>
+    var gAreAdTagsReady = (location.pathname.indexOf("/doctor-directory/") != 0);
+    var gIsUgc = false;
+    var gUtmSource = getURLParam('utm_source');
+
+    SetUtmSourceCookie();
+
+    function SetUtmSourceCookie() {
+        var utmSourceCookie = GetCookie('utmsource');
+        if (gUtmSource == '') {
+            gUtmSource = getReferrerSource();   // for organic search
+            if (gUtmSource == 'internal' && utmSourceCookie == 'none')
+                return;
+        }
+
+        if (gUtmSource == '') {
+            gUtmSource = getURLParam('gclid');  // for google adwords
+            if (gUtmSource != '')
+                gUtmSource = 'adwords';
+        }
+
+        if (gUtmSource == '' && (utmSourceCookie == '' || utmSourceCookie == null)) 
+            gUtmSource = 'none';
+        else
+            return;
+
+        var exdate = new Date();
+        exdate.setDate(exdate.getDate() + 1);
+        SetCookie('utmsource', gUtmSource, exdate);
+    }
+</script>
+
+
+    <!--[if IE]>
+	    <link rel="stylesheet" type="text/css" href="/css/ie-only.css" />
+	<![endif]-->
+    <!--[if IE 8]>
+	    <link rel="stylesheet" type="text/css" href="/css/ie8-only.css" />
+	<![endif]-->
+	<!--[if IE 9]>
+	    <link rel="stylesheet" type="text/css" href="/css/ie9-only.css" />
+	<![endif]-->
+    <!--[if !IE]-->
+        <link rel="Stylesheet" type="text/css" media="screen, projection" href="/css/firefox-only.css"><link rel="Stylesheet" type="text/css" media="screen, projection" href="/css/firefox4-only.css"><link rel="Stylesheet" type="text/css" href="/css/safari-only.css">
+	<!--[endif]-->
+    <script type="text/javascript">        var switchTo5x = true;</script>
+    <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+    <script type="text/javascript">        stLight.options({ publisher: "ab66c42b-8b33-4f9e-a7e2-1e8c37eac2a2", onhover: false }); </script>
+    <script type="text/javascript">        stLight.options({ publisherGA: "UA-313748-5" });</script>
+  </head>
   <body id="AboutLifeScript">
     
-    <iframe src="#" style="display: none"></iframe>
-	<form name="mainform" method="post" action="/AboutLifeScript/Terms_of_use/PrivacyPolicy.aspx" id="mainform">
+	<form name="mainform" method="post" action="/aboutlifescript/terms_of_use/privacypolicy.aspx" id="mainform">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE4OTc2ODExOThkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBRZjdGwwNCRidG5Hb29HbGVTZWFyY2gyHAQqIubuGVwrOoY75XrXv3d0aAA=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNzk3NDQ5NzI4ZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUZbWFpbk1lbnUkYnRuR29vR2xlU2VhcmNoMlY19tCih1lYJsIgGsNCn8C8xJzs">
 </div>
 
 
-<script src="/ScriptResource.axd?d=JKhd2Kqp3BjCCFVBph1_CAi61QMZiWJY1NR78ryqVmp8Oe2KvPh2LLGd8ChpG8gE4HGPOnoKCLIrc_TofFxLP0YzLthOcn5PBZo65aZh_rA1&amp;t=5a197f7c" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=_kf92CJtyuDuLWeNqMkR5bpTlQX7roWCov2F9SIXDenEicpLaPaSR4wgplulJK5YoZtSbJvEzgjWC7I736vhn76bBmZJ-P3SST90RYNVzu21vYngJ2dB3JPK9Z58EwPF9-_x59NQz9l6wdfGqEjuXXjbtzg1&amp;t=5c2f384e" type="text/javascript"></script>
 <script src="/JavaScript/Poll/handler.js" type="text/javascript"></script>
 <script src="/JavaScript/Quizzes/handler.js" type="text/javascript"></script>
 <script src="/JavaScript/Article/Handler.js" type="text/javascript"></script>
@@ -61,6 +109,8 @@
 <script src="/Services/ArticleServer.asmx/js" type="text/javascript"></script>
 <script src="/Services/IntersticialServer.asmx/js" type="text/javascript"></script>
 <script src="/Services/StatusServer.asmx/js" type="text/javascript"></script>
+<script src="/Services/SearchServer.asmx/js" type="text/javascript"></script>
+<script src="/Services/FoodChannelServer.asmx/js" type="text/javascript"></script>
 	    
         <script type="text/javascript">
     try {
@@ -81,31 +131,20 @@
   </script><noscript><img src="http://b.scorecardresearch.com/b?c1=2&amp;c2=6035385&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15=&amp;cv=1.3&amp;cj=1" style="display:none" width="0" height="0" alt=""></noscript>
         <div id="wrapper">
 	        <div id="divHeader" class="logo_ad_wrapper">
-                <div class="mainlogo"><a href="/"><img alt="LifeScript: Women's health, fashion &amp; entertainment" src="http://images.lifescript.com/Media/Images/homepagelogos/LS_logo.jpg"></a></div>
-                <img src="http://images.lifescript.com/Media/Images/homepagelogos/LS_swoosh.jpg" id="swooshId" alt="swoosh" class="swooshClass">
-                <div id="uxEditorialRightHeaderId_topRightHeaderDivId" class="rightCornerControl">		<br>
+                
 
-		<a href="/Health.aspx">
-				<img style="WIDTH: 281px; HEIGHT: 67px" border="0" hspace="3" alt="Visit our New Women's Health Channel" vspace="3" src="http://images.lifescript.com/Media/Lifescript%20Media/PromoModules/hc%20module.png" longdesc="Check Out Our New Women's Health Channel"></a>
-
-
+<div class="mainlogo">
+    <a href="/">
+        <img id="siteHeader_siteLogo" src="http://images.lifescript.com/Media/Images/homepagelogos/LS_logo.jpg" alt="LifeScript: Women's health, fashion &amp; entertainment" style="border-width:0px;">
+    </a>
 </div>
 
-                 
-
                 <div id="header-nav">   
-                    <a href="/Subscriptions.aspx">Manage My Newsletters</a> <span class="slash">|</span> 
-                    <a href="/AboutLifescript.aspx">About Us</a> <span class="slash">|</span> 
-                    <script type="text/javascript"></script>
-                    <a rel="nofollow" href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()">
-                        Share</a> <span class="slash">|</span>
-                    <script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+                    <a href="/subscriptions.aspx">Manage My Newsletters</a> <span class="slash">|</span> 
+                    <a href="/aboutLifescript.aspx">About Us</a> <span class="slash">|</span>
                     <a href="/sitemap.aspx">Site Map</a> <span class="slash">|</span> 
                     <a href="/rss.aspx">RSS</a> <span class="slash">|</span>
-                    <a href="http://healthbistro.lifescript.com/" style="position:relative; top:2px;"><img src="http://images.lifescript.com/images/icon/blog1.jpg"></a>
-                    <style type="text/css">
-                        iframe#_atssh {width:0px; height:0px; background-color:#005784; display:none; border:0; padding:0;}
-                    </style>
+                    <a href="http://healthbistro.lifescript.com/" style="position:relative; top:2px;"><img src="http://images.lifescript.com/images/icon/blog1.jpg" alt="health bistro image"></a>
                 </div>
             </div>
             <div id="menuwrapper" class="menuwrapper">
@@ -138,63 +177,73 @@
     if (IE6) window.attachEvent("onload", sfHover); 
 
 </script>
-<!--[if IE ]>
-<style type="text/css">
-	body#Health .navUlNoBorder .subnavborder a {margin:0; padding:0; left:-11px;} 
-	.maintopad { position: relative; top: 2px; left: 0px; margin: -10px 8px 15px 10px; width: 950px; }
-</style>
-<![endif]-->
-
-<!--[if IE 8]>
-<style type="text/css">
-	body#Health .navUlNoBorder .subnavborder a {left:5px;} 
-	.maintopad { position: relative; top: 2px; left: 0px; margin: 45px 8px 15px 10px; width: 950px; }
-</style>
-<![endif]-->
+<script type="text/javascript" src="/JavaScript/Search/sitesearch.js"></script>
 <div id="header">
     <div id="main-nav-wrapper">
         <div class="main-nav-container">
-            <ul id="main-nav" class="topnav"><span id="ctl04_MainMenuItm"><li id="nav-health"><a id="nav-health-li-a" onmouseover="HPMMHealthOnMouseOver(this);" onmouseout="HPMMHealthOnMouseOut(this);" href="/health.aspx"></a><ul id="nav-health-ul" onmouseover="HPMMenuHealthOnMouseOver();" onmouseout="HPMMenuHealthOnMouseOut();"><li><a href="/Health/Centers.aspx" alt="Health Centers">Health Centers</a></li><li><a href="/Health/A-Z.aspx" alt="A-Z Reference">A-Z Reference</a></li><li><a href="/Health/Conditions.aspx" alt="Top Conditions">Top Conditions</a></li><li><a href="/Health/Alternative-Therapies.aspx" alt="Natural Health">Natural Health</a></li><li><a href="/Health/Everyday-Care.aspx" alt="Everyday Care">Everyday Care</a></li><li><a href="/Health/Family_Health.aspx" alt="Family Health">Family Health</a></li><li><a href="/Health/Calendar.aspx" alt="Calendar">Calendar</a></li><li><a href="/Health/News.aspx" alt="News">News</a></li></ul></li><li id="nav-body"><a id="nav-body-li-a" onmouseover="HPMMBodyOnMouseOver(this);" onmouseout="HPMMBodyOnMouseOut(this);" href="/body.aspx"></a><ul id="nav-body-ul" onmouseover="HPMMenuBodyOnMouseOver();" onmouseout="HPMMenuBodyOnMouseOut();"><li><a href="/Body/Diet.aspx" alt="Diet">Diet</a></li><li><a href="/Body/Shape.aspx" alt="Shape">Shape</a></li><li><a href="/Body/Food.aspx" alt="Food">Food</a></li><li><a href="/Body/Looks.aspx" alt="Looks">Looks</a></li><li><a href="/Body/Style.aspx" alt="Style">Style</a></li></ul></li><li id="nav-life"><a id="nav-life-li-a" onmouseover="HPMMLifeOnMouseOver(this);" onmouseout="HPMMLifeOnMouseOut(this);" href="/life.aspx"></a><ul id="nav-life-ul" onmouseover="HPMMenuLifeOnMouseOver();" onmouseout="HPMMenuLifeOnMouseOut();"><li><a href="/Life/Relationships.aspx" alt="Relationships">Relationships</a></li><li><a href="/Life/Sex.aspx" alt="Sex">Sex</a></li><li><a href="/Life/Family.aspx" alt="Family">Family</a></li><li><a href="/Life/Money.aspx" alt="Money">Money</a></li><li><a href="/Life/Timeout.aspx" alt="Timeout">Timeout</a></li></ul></li><li id="nav-soul"><a id="nav-soul-li-a" onmouseover="HPMMSoulOnMouseOver(this);" onmouseout="HPMMSoulOnMouseOut(this);" href="/soul.aspx"></a><ul id="nav-soul-ul" onmouseover="HPMMenuSoulOnMouseOver();" onmouseout="HPMMenuSoulOnMouseOut();"><li><a href="/Soul/Horoscope.aspx" alt="Horoscope">Horoscope</a></li><li><a href="/Soul/Self.aspx" alt="Self">Self</a></li><li><a href="/Soul/Spirit.aspx" alt="Spirit">Spirit</a></li></ul></li><li id="nav-connect"><a id="nav-connect-li-a" onmouseover="HPMMConnectOnMouseOver(this);" onmouseout="HPMMConnectOnMouseOut(this);" href="/connect.aspx"></a><ul id="nav-connect-ul" onmouseover="HPMMenuConnectOnMouseOver();" onmouseout="HPMMenuConnectOnMouseOut();"><li><a href="/Connect/Success_Stories.aspx" alt="Success Stories">Success Stories</a></li><li><a href="/Connect/Meet_The_Team.aspx" alt="Meet The Team">Meet The Team</a></li><li><a href="/Connect/Be_Social.aspx" alt="Be Social!">Be Social!</a></li></ul></li></span></ul>
+            <ul id="main-nav" class="topnav"><span id="mainMenu_MainMenuItm"><li id="nav-health"><a id="nav-health-li-a" onmouseover="HPMMHealthOnMouseOver(this);" onmouseout="HPMMHealthOnMouseOut(this);" href="/health.aspx"></a><ul id="nav-health-ul" onmouseover="HPMMenuHealthOnMouseOver();" onmouseout="HPMMenuHealthOnMouseOut();"><li><a href="/health/centers.aspx" alt="Health Centers">Health Centers</a></li><li><a href="/health/a-z.aspx" alt="A-Z Reference">A-Z Reference</a></li><li><a href="/health/conditions.aspx" alt="Top Conditions">Top Conditions</a></li><li><a href="/health/alternative-therapies.aspx" alt="Natural Health">Natural Health</a></li><li><a href="/health/everyday-care.aspx" alt="Everyday Care">Everyday Care</a></li><li><a href="/health/family_health.aspx" alt="Family Health">Family Health</a></li><li><a href="/health/calendar.aspx" alt="Calendar">Calendar</a></li><li><a href="/health/news.aspx" alt="News">News</a></li></ul></li><li id="nav-diet-fitness"><a id="nav-diet-fitness-li-a" onmouseover="HPMMDietFitnessOnMouseOver(this);" onmouseout="HPMMDietFitnessOnMouseOut(this);" href="/diet-fitness.aspx"></a><ul id="nav-diet-fitness-ul" onmouseover="HPMMenuDietFitnessOnMouseOver();" onmouseout="HPMMenuDietFitnessOnMouseOut();"><li><a href="/diet-fitness/find_a_diet_or_exercise.aspx" alt="Find a Diet or Exercise">Find a Diet or Exercise</a></li><li><a href="/diet-fitness/diet-fitness_a-z.aspx" alt="Diet &amp; Fitness A-Z">Diet &amp; Fitness A-Z</a></li><li><a href="/diet-fitness/diet_center.aspx" alt="Diet Center">Diet Center</a></li><li><a href="/diet-fitness/fitness_center.aspx" alt="Fitness Center">Fitness Center</a></li><li><a href="/diet-fitness/diet-fitness_rx.aspx" alt="Diet &amp; Fitness Rx">Diet &amp; Fitness Rx</a></li><li><a href="/diet-fitness/experts.aspx" alt="Experts">Experts</a></li></ul></li><li id="nav-food"><a id="nav-food-li-a" onmouseover="HPMMFoodOnMouseOver(this);" onmouseout="HPMMFoodOnMouseOut(this);" href="/food.aspx"></a><ul id="nav-food-ul" onmouseover="HPMMenuFoodOnMouseOver();" onmouseout="HPMMenuFoodOnMouseOut();"><li><a href="/food/healthy_recipes.aspx" alt="Healthy Recipes">Healthy Recipes</a></li><li><a href="/food/healthy_eating_guides.aspx" alt="Healthy Eating Guides">Healthy Eating Guides</a></li><li><a href="/food/food_411.aspx" alt="Food 411">Food 411</a></li><li><a href="/food/quizzes.aspx" alt="Food Quizzes">Food Quizzes</a></li><li><a href="/food/food_experts.aspx" alt="Food Experts">Food Experts</a></li><li><a href="/food/find_a_nutritionist.aspx" alt="Find a Nutritionist">Find a Nutritionist</a></li></ul></li><li id="nav-life"><a id="nav-life-li-a" onmouseover="HPMMLifeOnMouseOver(this);" onmouseout="HPMMLifeOnMouseOut(this);" href="/life.aspx"></a><ul id="nav-life-ul" onmouseover="HPMMenuLifeOnMouseOver();" onmouseout="HPMMenuLifeOnMouseOut();"><li><a href="/life/relationships.aspx" alt="Relationships">Relationships</a></li><li><a href="/life/sex.aspx" alt="Sex">Sex</a></li><li><a href="/life/family.aspx" alt="Family">Family</a></li><li><a href="/life/money.aspx" alt="Money">Money</a></li><li><a href="/life/timeout.aspx" alt="Timeout">Timeout</a></li><li><a href="/life/looks.aspx" alt="Looks">Looks</a></li><li><a href="/life/style.aspx" alt="Style">Style</a></li></ul></li><li id="nav-soul"><a id="nav-soul-li-a" onmouseover="HPMMSoulOnMouseOver(this);" onmouseout="HPMMSoulOnMouseOut(this);" href="/soul.aspx"></a><ul id="nav-soul-ul" onmouseover="HPMMenuSoulOnMouseOver();" onmouseout="HPMMenuSoulOnMouseOut();"><li><a href="/soul/self.aspx" alt="Self">Self</a></li><li><a href="/soul/spirit.aspx" alt="Spirit">Spirit</a></li><li><a href="/soul/horoscope.aspx" alt="Horoscope">Horoscope</a></li></ul></li></span></ul>
         </div>
         
         <div id="small-main-nav-wrapper">
             <div id="small-main-nav2">          
-                <span id="nav-news2">
-                <span id="ctl04_lblNew" class="hide"> <a href="/Health/News.aspx">news</a> /</span>
-                <a href="/tools.aspx" title="Tools">tools</a> / 
-                <a href="/experts.aspx" title="Experts">experts</a> /
-                <a href="/quizzes.aspx" title="Quizzes">quizzes</a> / 
-                <a href="/Body/Food/Recipes.aspx" title="Recipes">recipes</a>  
-                <span id="ctl04_lblFindADoc" style="display:inline;">
-                / <a href="/doctor-directory/index.aspx" title="Find a Doctor Dr. 411">find a doctor</a>
-                </span></span>
+                <div id="nav-news2">
+                    <span id="mainMenu_lblFindADoc" style="display:inline;"><a href="/doctor-directory/index.aspx" title="Find a Doctor Dr. 411">find a doctor</a> / </span>
+                    <span id="mainMenu_lblNew" class="hide"><a href="/Health/News.aspx">news</a> /</span>
+                    <a href="/quizzes.aspx" title="Quizzes">quizzes</a> / 
+                    <a href="/tools.aspx" title="Tools">tools</a> / 
+                    <a href="/experts.aspx" title="Experts">experts</a>
+                    <a id="mainMenu_specialMMLink" class="specialMMLink hide" href="http://lsa.lifescript.com/advantage/test8831/offer.aspx?offeritemid={a9f8be09-a6ab-4eb6-9eb2-869b8f61c931}&amp;page=2"> / daily deals</a>
+                </div>
             </div>
             <div id="search">
                 <div class="innersearch">
-                    <input name="ctl04$tbxGoogleSearch" type="text" value="What are you searching for?" size="28" id="ctl04_tbxGoogleSearch" onmousedown="SetSearchText(this);" style="border-width:0px;">
+                    <input name="mainMenu$tbxGoogleSearch" type="text" value="What are you searching for?" size="28" id="mainMenu_tbxGoogleSearch" class="searchInputCtlMainMenu" onkeydown="return OnSearchKeyDown(event);" onkeyup="return OnSearchKeyUp(event, this,'searchTypeAheadResults');" style="border-width:0px;">
+                    <div id="searchTypeAheadResults" class="searchTypeAheadResultsDrop"></div>
                 </div>
                 <div class="searchbtn">
-                    <input type="image" name="ctl04$btnGooGleSearch2" id="ctl04_btnGooGleSearch2" class="fR " src="http://images.lifescript.com/images/search/smallsearch.gif" style="border-width:0px;">
+                    <input type="image" name="mainMenu$btnGooGleSearch2" id="mainMenu_btnGooGleSearch2" class="fR " src="http://images.lifescript.com/images/search/smallsearch.gif" style="border-width:0px;">
                 </div>
             </div>
         </div>
         
     </div>
     <div id="sub-nav-wrapper" style="float:left; background-color:#fff;">
-        <div id="ctl04_subnav" class="subnav">
+        <div id="mainMenu_subnav" class="subnav">
             <ul id="nav-one" class="nav">
-                <span id="ctl04_SubMenu"><li class="subnavtitle"><a href="/AboutLifeScript/Team.aspx" alt="Team">Team</a><ul class="navUlNoBorder"><li class="subnavborder"><a href="/AboutLifeScript/Team/Executive_Management.aspx" alt="Executive Management">Executive Management</a></li><li class="subnavborder"><a href="/AboutLifeScript/Team/Board_of_Directors.aspx" alt="Board Of Directors">Board Of Directors</a></li><li class="subnavborder"><a href="/AboutLifeScript/Team/Medical_Advisors.aspx" alt="Medical Advisors">Medical Advisors</a></li><li class="subnavborder"><a href="/AboutLifeScript/Team/Editorial.aspx" alt="Editorial">Editorial</a></li></ul></li><li class="subnavtitle"><a href="/AboutLifeScript/Press.aspx" alt="Press">Press</a><ul class="navUlNoBorder"><li class="subnavborder"><a href="/AboutLifeScript/Press/2-23-09.aspx" alt="2-23-09">2-23-09</a></li><li class="subnavborder"><a href="/AboutLifeScript/Press/2-12-09.aspx" alt="2-12-09">2-12-09</a></li><li class="subnavborder"><a href="/AboutLifeScript/Press/1-27-09.aspx" alt="1-27-09">1-27-09</a></li><li class="subnavborder"><a href="/AboutLifeScript/Press/12-17-08.aspx" alt="12-17-08">12-17-08</a></li><li class="subnavborder"><a href="/AboutLifeScript/Press/12-8-08.aspx" alt="12-8-08">12-8-08</a></li><li class="subnavborder"><a href="/AboutLifeScript/Press/2-14-08.aspx" alt="2-14-08">2-14-08</a></li><li class="subnavborder"><a href="/AboutLifeScript/Press/9-7-07.aspx" alt="9-7-07">9-7-07</a></li><li class="subnavborder"><a href="/AboutLifeScript/Press/4-16-07.aspx" alt="4-16-07">4-16-07</a></li><li class="subnavborder"><a href="/AboutLifeScript/Press/3-5-07.aspx" alt="3-5-07">3-5-07</a></li><li class="subnavborder"><a href="/AboutLifeScript/Press/10-30-06.aspx" alt="10-30-06">10-30-06</a></li><li class="subnavborder"><a href="/AboutLifeScript/Press/8-7-06.aspx" alt="8-7-06">8-7-06</a></li><li class="subnavborder"><a href="/AboutLifeScript/Press/7-7-06.aspx" alt="7-7-06">7-7-06</a></li><li class="subnavborder"><a href="/AboutLifeScript/Press/4-24-06.aspx" alt="4-24-06">4-24-06</a></li><li class="subnavborder"><a href="/AboutLifeScript/Press/1-13-05.aspx" alt="1-13-05">1-13-05</a></li><li class="subnavborder"><a href="/AboutLifeScript/Press/12-15-04.aspx" alt="12-15-04">12-15-04</a></li></ul></li><li class="subnavtitle"><a href="/AboutLifeScript/Advertise.aspx" alt="Advertise">Advertise</a></li><li class="subnavtitle "><a href="/AboutLifeScript/Terms_of_use.aspx" alt="Policies" class="selectedSubChannel">{ Policies }</a><ul class="navUlNoBorder"><li class="subnavborder"><a href="/AboutLifeScript/Terms_of_use/PrivacyPolicy.aspx" alt="Privacy Policy">Privacy Policy</a></li><li class="subnavborder"><a href="/AboutLifeScript/Terms_of_use/SpamPolicy.aspx" alt="Spam Policy">Spam Policy</a></li></ul></li><li class="subnavtitle"><a href="/AboutLifeScript/ContactUs.aspx" alt="Contact Us">Contact Us</a></li><li class="subnavtitle"><a href="/AboutLifeScript/AboutUs.aspx" alt="About Us">About Us</a></li><li class="subnavtitle"><a href="/AboutLifeScript/Awards.aspx" alt="Awards">Awards</a></li></span>
+                <span id="mainMenu_SubMenu"><li class="subnavtitle"><a href="/aboutlifescript/team.aspx" alt="Team">Team</a><ul class="navUlNoBorder"><li class="subnavborder"><a href="/aboutlifescript/team/executive_management.aspx" alt="Executive Management">Executive Management</a></li><li class="subnavborder"><a href="/aboutlifescript/team/board_of_directors.aspx" alt="Board Of Directors">Board Of Directors</a></li><li class="subnavborder"><a href="/aboutlifescript/team/medical_advisors.aspx" alt="Medical Advisors">Medical Advisors</a></li><li class="subnavborder"><a href="/aboutlifescript/team/editorial.aspx" alt="Editorial">Editorial</a></li></ul></li><li class="subnavtitle"><a href="/aboutlifescript/press.aspx" alt="Press">Press</a><ul class="navUlNoBorder"><li class="subnavborder"><a href="/aboutlifescript/press/2-17-12.aspx" alt="2-17-12">2-17-12</a></li><li class="subnavborder"><a href="/aboutlifescript/press/2-23-09.aspx" alt="2-23-09">2-23-09</a></li><li class="subnavborder"><a href="/aboutlifescript/press/2-12-09.aspx" alt="2-12-09">2-12-09</a></li><li class="subnavborder"><a href="/aboutlifescript/press/1-27-09.aspx" alt="1-27-09">1-27-09</a></li><li class="subnavborder"><a href="/aboutlifescript/press/12-17-08.aspx" alt="12-17-08">12-17-08</a></li><li class="subnavborder"><a href="/aboutlifescript/press/12-8-08.aspx" alt="12-8-08">12-8-08</a></li><li class="subnavborder"><a href="/aboutlifescript/press/2-14-08.aspx" alt="2-14-08">2-14-08</a></li><li class="subnavborder"><a href="/aboutlifescript/press/9-7-07.aspx" alt="9-7-07">9-7-07</a></li><li class="subnavborder"><a href="/aboutlifescript/press/4-16-07.aspx" alt="4-16-07">4-16-07</a></li><li class="subnavborder"><a href="/aboutlifescript/press/3-5-07.aspx" alt="3-5-07">3-5-07</a></li><li class="subnavborder"><a href="/aboutlifescript/press/10-30-06.aspx" alt="10-30-06">10-30-06</a></li><li class="subnavborder"><a href="/aboutlifescript/press/8-7-06.aspx" alt="8-7-06">8-7-06</a></li><li class="subnavborder"><a href="/aboutlifescript/press/7-7-06.aspx" alt="7-7-06">7-7-06</a></li><li class="subnavborder"><a href="/aboutlifescript/press/4-24-06.aspx" alt="4-24-06">4-24-06</a></li><li class="subnavborder"><a href="/aboutlifescript/press/1-13-05.aspx" alt="1-13-05">1-13-05</a></li><li class="subnavborder"><a href="/aboutlifescript/press/12-15-04.aspx" alt="12-15-04">12-15-04</a></li></ul></li><li class="subnavtitle"><a href="/aboutlifescript/advertise.aspx" alt="Advertise">Advertise</a></li><li class="subnavtitle "><a href="/aboutlifescript/terms_of_use.aspx" alt="Policies" class="selectedSubChannel">{ Policies }</a><ul class="navUlNoBorder"><li class="subnavborder"><a href="/aboutlifescript/terms_of_use/privacypolicy.aspx" alt="Privacy Policy">Privacy Policy</a></li><li class="subnavborder"><a href="/aboutlifescript/terms_of_use/spampolicy.aspx" alt="Spam Policy">Spam Policy</a></li></ul></li><li class="subnavtitle"><a href="/aboutlifescript/contactus.aspx" alt="Contact Us">Contact Us</a></li><li class="subnavtitle"><a href="/aboutlifescript/aboutus.aspx" alt="About Us">About Us</a></li><li class="subnavtitle"><a href="/aboutlifescript/awards.aspx" alt="Awards">Awards</a></li></span>
             </ul>
         </div>
-        <div id="ctl04_breadcrumbAndDate" class="clear fL" style="width:990px; margin-top:-20px;">
-        <div id="ctl04_breadCrumbId" class="fL mt5" style="width:660px;">
+        
+         <div id="mainMenu_divTopAd" class="maintopad">
+            
+            
+<div> 
+  <div id="topad" class="fL"> 
+    <script type="text/javascript">
+        GetAd('1', '1', gDartTag, gContexts, gCampaigns, gAdFlag, '', '728', '90', 'topad');
+      function RefreshTopAd()
+      {
+          RefreshAd('1', '1', gDartTag, gContexts, gCampaigns, gAdFlag, '', '728', '90', 'topad');
+      }
+    </script>
+  </div>
+  <div class="fL mt10 adText">
+      <img src="http://images.lifescript.com/www/LifeScript/channels/common/footer/vert_ad.gif" alt="">
+  </div>
+</div>
+
+        </div>
+        
+         
+         <div id="mainMenu_breadcrumbAndDate" class="clear fL breadcrumbAndShortDate">
+        <div id="mainMenu_breadCrumbId" class="fL mt5" style="width:660px;">
             <div id="breadcrumb-nav-wrapper" class="fL mt2">
                 <ul id="nav-bread" class="nav" style="z-index:20;">
-                    <span id="ctl04_Breadcrumb"><div class="TopBreadCrumb"><li><a href="/" alt="Home">Home »</a></li><li><a href="/AboutLifeScript.aspx" alt="AboutLifeScript">About LifeScript »</a></li><li><a href="/AboutLifeScript/Terms_of_use.aspx" alt="Terms of use">Policies »</a></li><li class="selectedNav" style="margin-top:-1px;"><a href="/AboutLifeScript/Terms_of_use/PrivacyPolicy.aspx" alt="PrivacyPolicy">Privacy Policy </a></li></div></span>
+                    <span id="mainMenu_Breadcrumb"><div class="TopBreadCrumb"><li><a href="/" alt="Home">Home »</a></li><li><a href="/aboutlifescript.aspx" alt="AboutLifeScript">About LifeScript »</a></li><li><a href="/aboutlifescript/terms_of_use.aspx" alt="Terms of use">Policies »</a></li><li class="selectedNav" style="margin-top:-1px;"><a href="/aboutlifescript/terms_of_use/privacypolicy.aspx" alt="PrivacyPolicy">Privacy Policy </a></li></div></span>
                 </ul>
             </div>
         </div>
-        <div id="ctl04_dateChannelPage" class="date"><script>GetCurrentDate();</script>Monday, February 24, 2020</div>
+        <div id="mainMenu_dateChannelPage" class="date"><script type="text/javascript">GetCurrentDate();</script>Friday, January 31, 2020</div>
                 
         <div class="underAdSpacer">&nbsp;</div>
         
@@ -263,19 +312,19 @@
     }
   
  </script>
-    <div id="pushdownAdContainer" class="fL">
+    <div id="pushdownAdContainer" class="fL" style="padding-bottom: 30px; *padding-bottom: 10px;">
       <script type="text/javascript" language="javascript">
           var page;
-          if ($.query.get('page') != "")
-              page = $.query.get('page');
-          else if ($.query.get('Page') != "")
-              page = $.query.get('Page');
+          if ($LS.query.get('page') != "")
+              page = $LS.query.get('page');
+          else if ($LS.query.get('Page') != "")
+              page = $LS.query.get('Page');
           else
               page = 1;
 
           if (ShowPushDownAd(page)) {
               try {
-                  var javascriptSrc = GetAd('15', 'pushdown', gDartTag, gKeywords, gCampaigns, gAdFlag, '', '0', '0', 'pushdownAdContainer');
+                  var javascriptSrc = GetAd('15', 'pushdown', gDartTag, gContexts, gCampaigns, gAdFlag, '', '0', '0', 'pushdownAdContainer');
                   document.write('<scr' + 'ipt type="text/javascript" language="javascript" src="' + javascriptSrc + '"></scr' + 'ipt>');
               } catch (e) { }
               document.getElementById("pushdownAdWrapper").style.display = "block";
@@ -288,17 +337,7 @@
 </div>
            </div>
         </div>
-         <div id="ctl04_divTopAd" class="maintopad">
-            <div><div id="topad" class="fL"><script type="text/javascript">
-            GetAd('1','1', 'Lifescript;;path=AboutLifeScript/Terms_of_use/PrivacyPolicy;subchannel=index','','','lfs2.lifescript','','728','90','topad');
-            function RefreshTopAd()
-            {
-            RefreshAd('1','1', 'Lifescript;;path=AboutLifeScript/Terms_of_use/PrivacyPolicy;subchannel=index','','','lfs2.lifescript','','728','90');
-            }
-          </script></div><div class="fL mt10 adText"><img src="http://images.lifescript.com/www/LifeScript/channels/common/footer/vert_ad.gif"></div></div>
-            
-        </div>
-        
+         
     </div>
 </div>
 
@@ -308,137 +347,108 @@
 
 <div id="main-content">
 <div id="mid-col-2">
+<div class="fR" id="SideAdBar">
+    
+
+<div id="DivDebugDartOverride"></div>
+<script type="text/javascript" src="/JavaScript/cookie.js"></script>
+<script type="text/javascript">
+    var DART_OVERRIDE_OFF_AD_HEIGHT = 250;
+    var DART_OVERRIDE_ON_AD_HEIGHT = 600; 
+    var DART_OVERRIDE_AD_WIDTH = 300;
+    
+    var DartOverride_alwaysShow = 250 == DART_OVERRIDE_ON_AD_HEIGHT ;
+    var DartOverride_height = 250;
+    var DartOverride_width = DART_OVERRIDE_AD_WIDTH;
 
 
-<div class="fR" id="MainSideBar">
-    <div id="DivDebugDartOverride"></div><script type="text/javascript" src="/JavaScript/cookie.js"></script><script type="text/javascript">
-      var DART_OVERRIDE_SHOW_ALWAYS = 9999;
-      var DART_OVERRIDE_OFF_AD_HEIGHT = 250;
-      var DART_OVERRIDE_ON_AD_HEIGHT = 600;
-      var DART_OVERRIDE_AD_WIDTH = 300;
-
-      var DartOverride_itemId = "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}";
-      var DartOverride_durationOfVisit = -1;
-      var DartOverride_viewsPerVisit = 0;
-
-      
-      var cookie = null;
-      var DartOverride_debug = false;
-      var DartOverride_expirationDate = null;
-      var DartOverride_viewsThisVisit = 0;
-      var DartOverride_isActive = false;
-      var DartOverride_alwaysShow = false;
-      var DartOverride_height = DartOverride_alwaysShow ? DART_OVERRIDE_ON_AD_HEIGHT : DART_OVERRIDE_OFF_AD_HEIGHT;
-      var DartOverride_width = DART_OVERRIDE_AD_WIDTH;
-
-      
-      DartOverride_InitVars();
-      //      SetCookieByNameAndKey(DartOverride_itemId, "Special Dart Section Ad Views This Visit", "0", null);
-
-      function DartOverride_InitVars()
-      {
-        cookie = document.cookie.split("; ");
-        DartOverride_expirationDate = GetCookieByNameAndKey(DartOverride_itemId, "Special Dart Section Expiration Date");
-        DartOverride_viewsThisVisit = GetCookieByNameAndKey(DartOverride_itemId, "Special Dart Section Ad Views This Visit");
-
-        
-        if (DartOverride_viewsThisVisit == null)
-        {
-          DartOverride_viewsThisVisit = 0;
-          DartOverride_expirationDate = new Date();
-          DartOverride_expirationDate.setHours(DartOverride_expirationDate.getHours() + DartOverride_durationOfVisit);
-        }
-        else
-        {
-          DartOverride_expirationDate = new Date(DartOverride_expirationDate);
-        }
-
-        DartOverride_isActive = DartOverride_alwaysShow || (DartOverride_isActive && (DartOverride_viewsThisVisit < DartOverride_viewsPerVisit));
-
-        DartOverride_height = DART_OVERRIDE_OFF_AD_HEIGHT;
-        DartOverride_width = DART_OVERRIDE_AD_WIDTH;
-
-        if (DartOverride_debug)
-        {
-          var debugDiv = document.getElementById("DivDebugDartOverride");
-          debugDiv.innerHTML =
-          'Cookie: ' + document.cookie + '<br>' + 
-          'DartOverride_expirationDate: ' + DartOverride_expirationDate  + '<br>' +
-          'DartOverride_viewsThisVisit: ' + DartOverride_viewsThisVisit  + '<br>' +
-          'DartOverride_isActive: ' + DartOverride_isActive  + '<br>' +
-          'DartOverride_height: ' + DartOverride_height  + '<br>' +
-          'DartOverride_width: ' + DartOverride_width  + '<br>';
-        }
-      }
-
-      function DartOverride_UpdateCookie()
-      {
-        DartOverride_ToggleAdB();
-        if (DartOverride_viewsThisVisit < DartOverride_viewsPerVisit && DartOverride_isActive)
-      {
-      DartOverride_viewsThisVisit++;
-      }
-      SetCookieByNameAndKey(DartOverride_itemId, "Special Dart Section Ad Views This Visit", DartOverride_viewsThisVisit, DartOverride_expirationDate);
-      SetCookieByNameAndKey(DartOverride_itemId, "Special Dart Section Expiration Date", DartOverride_expirationDate, DartOverride_expirationDate);
-      }
-
-      function DartOverride_ToggleAdB()
-      {
+    function DartOverride_ToggleAdB()
+    {
         var div = document.getElementById("DivAdB");
         if (DartOverride_height != DART_OVERRIDE_OFF_AD_HEIGHT)
         {
-          if (div != null)
-          {
-            $('#DivAdB').hide();
-          }
+            if (div != null)
+            {
+                $LS('#DivAdB').hide();
+            }
         }
         else
         {
-          if (div != null)
-          {
-            $('#DivAdB').show();
-          }
+            if (div != null)
+            {
+                $LS('#DivAdB').show();
+            }
         }
-      }
-    </script><div style="float:right; margin-bottom: 10px;"><div id="DivAdA"><div class="clear"><span class="light-gray">advertisement</span></div><div id="ad1"><script type="text/javascript">
-                  setTimeout("GetAd('3','1', 'Lifescript;;path=AboutLifeScript/Terms_of_use/PrivacyPolicy;subchannel=index','','','lfs2.lifescript',';dcopt=ist',DartOverride_width,DartOverride_height, 'ad1', '')",2);
-                  function RefreshAdA()
-                  {
-                    RefreshAd('3','1','Lifescript;;path=AboutLifeScript/Terms_of_use/PrivacyPolicy;subchannel=index','','','lfs2.lifescript',';dcopt=ist',DartOverride_width,DartOverride_height,'ad1','');
-                  }
-                </script></div></div></div><div style="float:right; margin-bottom: 10px;"><div id="DivAdB"><div class="clear"><span class="light-gray">advertisement</span></div><div id="ad2"><script type="text/javascript">
-                  if (!DartOverride_isActive)
-                  {
-                    setTimeout("GetAd('4','2','Lifescript;;path=AboutLifeScript/Terms_of_use/PrivacyPolicy;subchannel=index','','','lfs2.lifescript','',DART_OVERRIDE_AD_WIDTH,DART_OVERRIDE_OFF_AD_HEIGHT,'ad2','')",3);
-                  }
-                  function RefreshAdB()
-                  {
-                    if (!DartOverride_isActive)
-                    {
-                      RefreshAd('4','2','Lifescript;;path=AboutLifeScript/Terms_of_use/PrivacyPolicy;subchannel=index','','','lfs2.lifescript','',DART_OVERRIDE_AD_WIDTH,DART_OVERRIDE_OFF_AD_HEIGHT,'ad2','');
-                    }
-                  }
-                </script></div></div></div><script type="text/javascript">
-      DartOverride_UpdateCookie();
-    </script>
+    }
+</script>
 
-
-<div id="ctl06_ctl03_ctl01_pnlFindDoctor" class="findDoctorBox hide" style="background:url('http://images.lifescript.com/Media/Lifescript Media/FindDoc/find_doctor.jpg') no-repeat;;">
-	
-    <div class="header">
-        <span class="lblTitle">find a</span>
-        <span class="lblTitle2">doctor</span>
+<div style="float:right; margin-bottom: 10px;width:300px;">
+    <div id="DivAdA">
+        <div class="clear" style="width:100px;">
+            <span>advertisement</span>
+        </div>
+        <div id="ad1" style="border:1px solid #fff;">
+            <script type="text/javascript">
+                GetAd('3', '1', gDartTag, gContexts, gCampaigns, gAdFlag, ';dcopt=ist', DartOverride_width, DartOverride_height, 'ad1', '1', '1');
+                function RefreshAdA() {
+                    RefreshAd('3', '1', gDartTag, gContexts, gCampaigns, gAdFlag, ';dcopt=ist', DartOverride_width, DartOverride_height, 'ad1', '1', '1');
+                }
+            </script>
+        </div>
     </div>
-    <span id="ctl06_ctl03_ctl01_lblLinks">		<ul>
-<li><a href="/doctor-directory/specialty.aspx">By specialty</a> </li>
-<li><a href="/doctor-directory/state.aspx">By state</a> </li>
-<li><a href="/doctor-directory/name.aspx">By doctor's name</a></li>
-<li><a href="/doctor-directory/insurance.aspx">By insurance</a></li>
-<li><a href="/doctor-directory/condition.aspx">By symptom/condition</a></li></ul>
-</span>
+</div>
+<div style="float:right; margin-bottom: 10px;width:300px;">
+    <div id="DivAdB">
+        <div class="clear" style="width:100px;">
+            <span>advertisement</span>
+        </div>
+        <div id="ad2">
+            <script type="text/javascript">
+                if (!DartOverride_alwaysShow)
+                {
+                    setTimeout("GetAd('4', '2', gDartTag, gContexts, gCampaigns, gAdFlag, '', 300, 250, 'ad2', '1','1')", 2);
+                }
 
+
+                function RefreshAdB()
+                {
+                    if (!DartOverride_alwaysShow)
+                    {
+                        RefreshAd('4', '2', gDartTag, gContexts, gCampaigns, gAdFlag, '', 300, 250, 'ad2', '1', '1');
+                    }
+                }
+            </script>
+        </div>
+    </div>
 </div>
 
+<script type="text/javascript">
+    // need a function to update on Next / Previous article actions
+    //DartOverride_UpdateCookie();
+    DartOverride_ToggleAdB();
+</script>
+
+
+
+<div id="ConnectWidthLS"> 
+    <h3>connect <span class="ls">with lifescript</span></h3>
+    <span id="content_0_rightcontent_0_sideadcontentcontainer_1_lblDescription" class="desc">FOLLOW US ON FACEBOOK, TWITTER, AND OUR<br>HEALTHBISTRO BLOG</span>
+    <div>
+        <span id="content_0_rightcontent_0_sideadcontentcontainer_1_lblHtml"><a href="http://www.facebook.com/lifescript.health"><img src="http://images.lifescript.com/images/connect/connect_facebook.jpg"></a>&nbsp;
+<a href="http://www.twitter.com/Lifescript"><img src="http://images.lifescript.com/images/connect/connect_twitter.jpg"></a>&nbsp;
+<a href="http://www.pinterest.com/lifescript"><img src="http://images.lifescript.com/images/connect/connect_pinterest.jpg"></a>&nbsp;
+<a href="https://plus.google.com/105012185945365180977/posts"><img src="http://images.lifescript.com/images/connect/connect_googleplus.jpg"></a>&nbsp;
+<a href="http://healthbistro.lifescript.com/"><img src="http://images.lifescript.com/images/connect/connect_blog.jpg"></a>&nbsp; 
+ <a href="http://www.lifescript.com/rss.aspx"><img src="http://images.lifescript.com/images/connect/connect_rss.jpg"></a>  
+</span>    
+    </div>
+</div><div class="textAdBG" style="margin-top:2px;"><div id="textad" class="aC"><script type="text/javascript">
+            setTimeout("GetAd('5','1', gDartTag, gContexts, gCampaigns, gAdFlag,'','300','100', 'textad')", 5);
+            function Refresh203TextAd()
+            {
+            RefreshAd('5','1', gDartTag, gContexts, gCampaigns, gAdFlag,'','300','100', 'textad');
+            }
+          </script></div></div>
 
 <script type="text/javascript">
 function GetContent(type)
@@ -464,145 +474,66 @@ function GetContent(type)
     </div>
     <div id="Content">
         <div id="tab-1">
-            <ul id="ctl06_ctl03_ctl04_lstTopNews" class="red-dots">
-	<li><a href="/Health/News/Reuters/2011/06/15/Most_tumors_not_within_cell_phone_radiation_range.aspx">Most tumors not within cell phone radiation range</a></li><li><a href="/Health/News/Reuters/2011/06/15/Olive_oil_lovers_show_lower_stroke_risk.aspx">Olive oil lovers show lower stroke risk</a></li><li><a href="/Health/News/Reuters/2011/06/15/Can_spinal_manipulation_help_people_with_headaches.aspx">Can spinal manipulation help people with headaches?</a></li><li><a href="/Health/News/Reuters/2011/06/14/TV_time_tied_to_diabetes_death.aspx">TV time tied to diabetes, death</a></li>
+            <ul id="content_0_rightcontent_0_sideadcontentcontainer_3_lstTopNews" class="red-dots">
+	<li><a href="/health/news/reuters/2012/05/08/bipolar_symptoms_may_begin_in_teen_years.aspx">Bipolar symptoms may begin in teen years</a></li><li><a href="/health/news/reuters/2012/05/08/obesity_fight_must_shift_from_personal_blame_us_panel.aspx">Obesity fight must shift from personal blame: U.S. panel</a></li><li><a href="/health/news/reuters/2012/05/08/long_commutes_may_be_bad_for_health_study.aspx">Long commutes may be bad for health: study</a></li><li><a href="/health/news/reuters/2012/05/08/many_drug_labels_missing_dose_safety_info_for_kids.aspx">Many drug labels missing dose, safety info for kids</a></li>
 </ul>
-            <a id="ctl06_ctl03_ctl04_seealllink" class="alllinks" href="/Health/News.aspx">SEE ALL WOMEN'S HEALTH NEWS</a>
+            <a id="content_0_rightcontent_0_sideadcontentcontainer_3_seealllink" class="alllinks" href="/health/news.aspx">SEE ALL WOMEN'S HEALTH NEWS</a>
         </div>
         <div id="tab-2" class="hide">
-            <ul id="ctl06_ctl03_ctl04_lstMostViewed" class="red-dots">
-	<li><a href="/Health/Conditions/Womens-health/Pregnancy/Fertility_Blunders_Trying_To_Get_Pregnant.aspx">10 Fertility Blunders</a></li><li><a href="/Body/Food/Cook/6_Tasty_Tuna_Recipes.aspx">6 Tasty Tuna Recipes </a></li><li><a href="/Life/Timeout/Entertainment/Leeza_Gibbons_Advice_for_Family_Caregivers.aspx">Leeza Gibbons’ Advice for Family Caregivers</a></li><li><a href="/Health/Conditions/Sleep/How_to_Buy_The_Best_Mattress_for_You.aspx">How to Buy the Best Mattress for You</a></li><li><a href="/Life/Sex/Nookie/Sex_after_Kids.aspx">Sex After Kids</a></li>
+            <ul id="content_0_rightcontent_0_sideadcontentcontainer_3_lstMostViewed" class="red-dots">
+	<li><a href="http://www.lifescript.com/health/centers/pms/tips/what_to_eat_to_end_pms_symptoms.aspx">Foods That Relieve Severe PMS Symptoms</a></li><li><a href="http://www.lifescript.com/health/centers/fibromyalgia/articles/questions_for_your_doctor.aspx">Symptoms of Fibromyalgia In Women</a></li><li><a href="/Health/Centers/Diabetes_2/Articles/13_Ways_to_Prevent_Diabetes.aspx">13 Ways to Prevent Diabetes</a></li><li><a href="/Health/Centers/Cancer/Tips/10_Life-Saving_Breast_Cancer_Facts.aspx">10 Life-Saving Breast Cancer Facts</a></li><li><a href="/Health/Centers/Osteoarthritis/Articles/Fight_Arthritis_10_Foods_That_Help_and_Hurt.aspx">Arthritis Diet: 10 Foods That Help and Hurt</a></li>
 </ul>
         </div>
     </div>
 </div>
  
-
-<div id="ConnectWidthLS"> 
-    <h3>connect <span class="ls">with lifescript</span></h3>
-    <span id="ctl06_ctl03_ctl02_lblDescription" class="desc">FOLLOW US ON FACEBOOK, TWITTER, AND OUR<br>HEALTHBISTRO BLOG</span>
-    <div>
-        <span id="ctl06_ctl03_ctl02_lblHtml"><a href="http://www.facebook.com/lifescript.health">
-<img src="http://images.lifescript.com/images/connect/facebook.jpg"></a> &nbsp;&nbsp;
-        <a href="http://twitter.com/Lifescript"><img src="http://images.lifescript.com/images/connect/tweeter.jpg"></a> &nbsp;&nbsp;
-        <a href="http://healthbistro.lifescript.com/"><img src="http://images.lifescript.com/images/connect/healthbistro.jpg"></a> &nbsp;&nbsp;     
- <a href="http://www.lifescript.com/Subscriptions.aspx"><img src="http://images.lifescript.com/images/connect/newsletter.jpg"></a> &nbsp;&nbsp;   
- <a href="http://www.lifescript.com/rss.aspx"><img src="http://images.lifescript.com/images/connect/RSS.jpg"></a>  &nbsp;&nbsp;  
-</span>    
+<div id="content_0_rightcontent_0_sideadcontentcontainer_4_pnlFindDoctor" class="findDoctorBox" style="margin-top:10px;background:url('http://images.lifescript.com/Media/Lifescript Media/FindDoc/find_doctor.jpg') no-repeat;">
+	
+    <div class="header">
+        <span class="lblTitle">find a</span>
+        <span class="lblTitle2">doctor</span>
     </div>
-</div><div id="ctl06_ctl03_ctl05_divHealthpricer">
-     
-</div><div id="ctl06_ctl03_ctl06_divGeneralAds"></div>
+    <span id="content_0_rightcontent_0_sideadcontentcontainer_4_lblLinks">
+		<ul>
+<li><a href="/doctor-directory/specialty.aspx">By specialty</a> </li>
+<li><a href="/doctor-directory/state.aspx">By state</a> </li>
+<li><a href="/doctor-directory/name.aspx">By doctor's name</a></li>
+<li><a href="/doctor-directory/insurance.aspx">By insurance</a></li>
+<li><a href="/doctor-directory/condition.aspx">By symptom/condition</a></li></ul>
+</span>
+
 </div>
-</div>
-<div id="mid-col-1"><div id="ctl06_ctl04_ctl00_HybridBox" class="round-box HybridBox bg-white m1 box HybridBox" style="width:640px;height:3800px;"><div id="ctl06_ctl04_ctl00_WhiteBorderBox" class=" box HybridBox icon-none"><div id="ctl06_ctl04_ctl00_HybridBox_Header" class="boxHeading fL" style="width:100%;"><a id="ctl06_ctl04_ctl00_lnkHeadline" class="text-decoration-none" style="text-decoration:none;"><span id="ctl06_ctl04_ctl00_headlineCtrl" class="boxName" style="background-color:#ffffff;"><span id="ctl06_ctl04_ctl00_lblHeadline"><span style="COLOR: #e95f75">Privacy Policy</span></span></span></a></div><div id="ctl06_ctl04_ctl00_HybridBoxBorder" class="HybridBoxBorder inline bg-white fL" style="width:640px;height:3800px;"><div id="ctl06_ctl04_ctl00_HybridBoxInner" class="bg-white m1" style="padding-top:10px;padding-right:5px;padding-bottom:5px;padding-left:2px;width:631px;height:3784px;"><div id="ctl06_ctl04_ctl00_pnlImageContainer" class="hide"><br></div><div id="ctl06_ctl04_ctl00_pnlContent" class="content"><div class="clear"><a id="ctl06_ctl04_ctl00_lnkFeatureArticle" disabled="disabled" class="cBanner" style="text-decoration:none;color:#EA557A;"><span class="h4Class m0 Pad0" style="margin-bottom:5px;"><span id="ctl06_ctl04_ctl00_lblFeatureArticle" class="featureArticle" style="color:#EA557A;"></span></span></a></div><div id="ctl06_ctl04_ctl00_ArticleMargin"></div><div class="teaser-container mt2"><span id="ctl06_ctl04_ctl00_lblTeaser" class="featureArticleTeaser"><p>PLEASE NOTE THAT OUR PRIVACY POLICY HAS CHANGED.</p>
-<p><strong>Last Revised: February 10, 2010</strong></p>
-<p>This privacy policy ("Policy") explains how personal information is collected, used, and disclosed by Lifescript, Inc. ("Lifescript," "we" or "us") with respect to your use of our Web site located at&nbsp;<a href="http://www.lifescript.com/"><span style="COLOR: #336699">www.Lifescript.com</span></a> (the "Site") so you can make an informed decision about using our Site. By using our Site, you consent to the privacy practices described in this Policy, as may be modified by us from time to time. We reserve the right to change the provisions of this Policy at any time.<strong>We will alert you that changes have been made by indicating on the privacy policy the date it was last updated. Your use of the Site following the posting of such changes or revised statement shall constitute your consent to any changes in our privacy practices.</strong> We encourage you to review this Policy whenever you visit our Site to make sure that you understand how any personal information you provide will be used.</p>
-<p><strong>WHAT PERSONAL INFORMATION DO WE COLLECT?</strong></p>
-<p>Personal information may be collected in a number of ways when you visit our Site. We may collect certain information you voluntarily provide to us which may contain or may be tied to personal information. For example, we may collect information, such as your name, postal address, e-mail address, phone number, and other contact and demographic information such as age, gender, zipcode, health-related information, interests and preferences. We may collect this and other information when you create a profile, register for our newsletter(s), leave comments or post content, respond to surveys, participate in promotions or contact us by e mail or other means for any reason. We may supplement this information with information collected from other companies.</p>
-<p>We may also collect "aggregate" information, which is data we collect about the use of the Site or about a group or category of products, services or users, from which individual identities or other personal information has been removed. In other words, information about how you use a service may be collected and combined with information about how others use the same service. Aggregate data helps us understand trends and our users' needs so that we can better consider new features or otherwise tailor our Site. This policy in no way restricts or limits our collection and use of aggregate information.</p>
-<p>When you visit the Site, some information is also automatically collected, such as your computer's Internet Protocol (IP) address, your computer's operating system, the browser type, the address of a referring website, and your activity on the Site. We treat this information as personal information if we combine it with or link it to any of the identifying information mentioned above.</p>
-<p><strong>Cookies and Clear Gifs (Web Beacons).</strong></p>
-<p>We may also automatically collect certain information through the use of “cookies” or “clear gifs.” Cookies are small data files that are stored on a user's hard drive at the request of a website to enable the site to recognize users who have previously visited them and retain certain information such as customer preferences and history. Clear gifs (also know as web bugs or web beacons) are small, invisible graphic images that may be used on the Site and in e-mails to collect certain information about your use of and activity with our Site and emails. If we combine cookies or clear gifs with or link them to any of the personally identifying information, we would treat this information as personal information.</p>
-<p><strong>Third Party Advertisements.</strong></p>
-<p>We may also use third parties to serve ads on the Site. Certain third parties may automatically collect information about your visits to this and other Web sites, your IP address, your ISP, the browser you use to visit our Site (but not your name, address, email address or telephone number). They do this using cookies, clear gifs or other technologies. Information collected may be used, among other things, to deliver advertising targeted to your interests and to better understand the usage and visitation of our Site and the other sites tracked by these third parties.&nbsp; This policy does not apply to, and we are not responsible for, cookies or clear gifs in third party ads, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here:<a href="http://www.networkadvertising.org/consumer/opt_out.asp">&nbsp;<span style="COLOR: #336699">http://www.networkadvertising.org/consumer/opt_out.asp</span></a>. Certain third party advertisers may collect personal information you provide in fields and forms presented in connection with their ads.&nbsp; This policy does not apply to, and we are not responsible for information you choose to provide in connection with these third party ads.&nbsp; We encourage you to check the privacy policies of the advertisers to learn about their use of your information.</p>
-<p><strong>Third Party Comment System.</strong></p>
-<p>We use a third party online comment system called Disqus. Disqus is not acting as our agent. Disqus is a third party application that allows visitors to post comments on our site and connect those and other comments across multiple sites. When you post a comment on our site, Disqus will collect information about your visit to this and other Web sites, including information you post and your IP address. If you register with and use Disqus, Disqus may collect and use other information from and about you. This policy does not apply to, and we are not responsible for, Disqus' collection or use of your information. We encourage you to review Disqus' privacy policy to learn more about its privacy practices here:&nbsp;<a href="http://help.disqus.com/forums/107439/entries/96979-privacy-policy"><span style="COLOR: #336699">http://help.disqus.com/forums/107439/entries/96979-privacy-policy</span></a>.</p>
-<p><strong>HOW DO WE USE THE PERSONAL INFORMATION WE COLLECT?</strong></p>
-<p>In general, we use personal information we collect to process your requests or transactions, to provide you with information or services you request, to inform you about other information, events, promotions, products or services we think will be of interest to you, to facilitate your use of, and our administration and operation of, the Site and the Lifescript services, and for the purpose for which the information was provided. For example, we may use the information we collect:</p>
-<p>
-</p><ul class="bullet_list">
-<li>to send you a welcoming e-mail and to contact you about your use of the Site and the Lifescript services, such as for administrative purposes or to provide you with customer service;</li>
-<li>to provide you with all of the services, features, and functionality included within the Lifescript services, to provide other services or information you request and to complete any transactions in connection therewith;</li>
-<li>to respond to your e-mails, submissions, comments, requests or complaints;</li>
-<li>to request feedback and to enable us to develop, customize and improve the Site and our publications, products and services;</li>
-<li>to personalize and improve Site content and features and your experience on the Site, such as providing ads, content or features to match your profile and interests;</li>
-<li>to contact you about our or a third party's services, products, activities, special events or offers and for other marketing, informational, product development and promotional purposes (including, without limit, to notify promotion winners); and</li>
-<li>for the specific purpose for which the information was provided or collected.</li></ul>
-<p>
-</p><p>Personal information provided online may be linked together or merged with other personal information so that we may better understand your needs and inform you about our products or services and those of our partners. In addition, if we receive information from third parties with whom we have business relationships, we may combine this information with the other personal information we maintain about you. In either case, this Policy governs this information.</p>
-<p><strong>SHARING OF PERSONAL INFORMATION</strong></p>
-<p>Except as described below, we do not share your personally identifying information with third parties for their own use without your consent. If you choose to let us share your personally identifiable information with third parties, we are not responsible for the actions of such third party companies, nor are we responsible for any additional information you provide directly to these or to any other third parties.</p>
-<p>You understand that when you use the Lifescript services, certain information you post on publicly available portions of the Site may be shared with other users and posted on other portions of the Site, including without limitation your comments to articles, name, profile details, images, and messages to other users on the Site. Your use of the Lifescript services constitutes your consent to share this information in such manner and all such sharing of information is done at your own risk. Please keep in mind that if you directly disclose personal information when posting comments or other information or content to the Site or through the Lifescript service, this information may become publicly available and may be collected and used by others. We recommend that you be cautious in giving out personal information to others in public online forums.</p>
-<p>We may also share personal information with third party vendors, consultants and other service providers who are engaged by or working with us in connection with the operation of the Site and the Lifescript services and who need access to such information to carry out their work for us.</p>
-<p>In addition, we may disclose personal information in the good faith belief that we are lawfully authorized or required to do so, or that doing so is reasonably necessary or appropriate to comply with the law or with legal process or authorities, respond to lawful requests, any claims, or to protect the rights, property or safety of Lifescript, our users, our employees or the public, including without limitation to protect Lifescript or our users from fraudulent, abusive, inappropriate or unlawful use of our Site or the Lifescript services. Information about our users, including personal information, may also be disclosed or transferred as part of, or during negotiations of, any merger, sale of company assets, financing or acquisition, an insolvency, bankruptcy or receivership or in any other situation where personal information may be transferred as one of the business assets of Lifescript.</p>
-<p><strong>WHAT STEPS DO WE TAKE TO PROTECT PERSONAL INFORMATION ONLINE?</strong></p>
-<p>We have worked to put into place reasonable security measures in an effort to protect personal information while it is under our control. Please be aware, however, that despite our efforts, no security measures are perfect or impenetrable. You should also note that e-mail is not secure, and you should not send any confidential or sensitive information to us via an unsecured e-mail. To protect the confidentiality of personal information, you must keep any password used on the Site confidential and not disclose it to any other person. You are responsible for all uses of our Site by any person using your password. Please advise us immediately if you believe your password has been misused.</p>
-<p><strong>WHAT CHOICES DO YOU HAVE REGARDING THE USE OF YOUR INFORMATION?</strong></p>
-<p>We will send you news, updates and information via e-mail. You may choose to not receive promotional communications at any time by notifying Lifescript either through the opt-out link in the footer of every e-mail or by calling customer service at (800) 637-9382. Please note, however, that you may not “opt-out” of receiving service related communications such as account-related e-mails from Lifescript.</p>
-<p><strong>LINKS TO OTHER WEBSITES</strong></p>
-<p>Our Site contains links to other Web sites. Any personal information you provide on the linked pages is provided directly to that third party and is subject to that third party's privacy policy. We are not responsible for the content or privacy and security practices and policies of Web sites to which we link. Links from our Site to third parties or to other Web sites are provided for your convenience. We encourage you to learn about their privacy and security practices and policies before providing them with personal information.</p>
-<p><strong>USER GENERATED CONTENT</strong></p>
-<p>As part of our Site, we may from time to time offer users the opportunity to express their thoughts, opinions and ideas via user generated content forums such as blogs, message boards and/or chat rooms. We make no commitment to monitor these user generated content forums and are not responsible in any way for the content contained therein. Furthermore, any information which may be posted on a user generated content forum or which you may post on a user generated content forum, including your personally identifiable information, by definition will be publicly disclosed and available to all users of that forum, and is therefore no longer private. As a consequence, you cannot and should not have any expectation of privacy relative to that information. By using the user generated content forums, you agree that Lifescript is not responsible for any information that you disclose or communicate online in such user generated content forums, and any disclosures you make are at your own risk. Furthermore, you acknowledge and agree that we are not responsible for any of the user generated content on such forums and that such content does not represent the opinion or views of Lifescript. We reserve the right to republish your postings (in whole or part), taken from the forums, anywhere on our Site, or elsewhere on the Web in any format or any other medium, including print and radio, without prior notice or your express consent.</p>
-<p><strong>HOW CAN YOU CORRECT AND UPDATE YOUR PERSONAL INFORMATION OR OBTAIN ADDITIONAL INFORMATION?</strong></p>
-<p>If you have any questions or comments about this Policy or the practices relating to this Site or the Lifescript services, or you wish to request changes to your preferences relating to any personal information we have collected, please contact us at&nbsp;<a href="mailto:abuse@Lifescript.com"><span style="COLOR: #336699">abuse@Lifescript.com</span></a>, and we will endeavor to respond to your inquiry or to correct, update or remove the personal information you have provided us as you indicate to the extent possible. You may also contact us by mail at the following address:</p>
-<p>Lifescript, Inc.<br>Attn: Privacy Policy<br>26001 Pala<br>Mission Viejo, CA 92691<br></p><p></p><p></p></span><a id="ctl06_ctl04_ctl00_lnkTeaser" class="teaserlnk"></a></div><div id="ctl06_ctl04_ctl00_TeaserMargin"></div><div id="ctl06_ctl04_ctl00_sublinkMarginTop" class="clear mt8"></div></div></div></div></div></div>
+    
+    
+    
+</div></div>
+<div id="mid-col-1"><div id="content_0_leftcontent_0_ctl00_HybridBox" class="round-box HybridBox bg-white m1 box HybridBox" style="width:640px;height:5000px;"><div id="content_0_leftcontent_0_ctl00_WhiteBorderBox" class=" box HybridBox icon-none"><div id="content_0_leftcontent_0_ctl00_HybridBox_Header" class="boxHeading fL" style="width:100%;"><a id="content_0_leftcontent_0_ctl00_lnkHeadline" class="text-decoration-none" style="text-decoration:none;color:#d82954;"><span id="content_0_leftcontent_0_ctl00_headlineCtrl" class="boxName" style="background-color:#ffffff;"><span id="content_0_leftcontent_0_ctl00_lblHeadline" style="color:#d82954;"><span style="COLOR: #e95f75">Privacy Policy</span></span></span></a></div><div id="content_0_leftcontent_0_ctl00_HybridBoxBorder" class="HybridBoxBorder inline bg-white fL" style="width:640px;height:5000px;"><div id="content_0_leftcontent_0_ctl00_HybridBoxInner" class="bg-white m1" style="padding-top:10px;padding-right:5px;padding-bottom:5px;padding-left:2px;width:631px;height:4984px;"><div id="content_0_leftcontent_0_ctl00_pnlImageContainer" class="hide"><br></div><div id="content_0_leftcontent_0_ctl00_pnlContent" class="content"><div class="clear"><a id="content_0_leftcontent_0_ctl00_lnkFeatureArticle" disabled="disabled" class="cBanner" style="text-decoration:none;color:#d82954;"><span class="h4Class m0 Pad0" style="margin-bottom:5px;"><span id="content_0_leftcontent_0_ctl00_lblFeatureArticle" class="featureArticle" style="color:#d82954;"></span></span></a></div><div id="content_0_leftcontent_0_ctl00_ArticleMargin"></div><div class="teaser-container mt2"><span id="content_0_leftcontent_0_ctl00_lblTeaser" class="featureArticleTeaser"><p>PLEASE NOTE THAT OUR PRIVACY POLICY HAS CHANGED.</p><p><strong>Last Revised: March 3, 2012</strong></p><p>This privacy policy ("Policy") explains how personal information is collected, used, and disclosed by Lifescript, Inc. ("Lifescript," "we,” “our” or "us") with respect to your use of our Web site located at<a href="http://www.lifescript.com/">www.Lifescript.com</a> (the "Site") so you can make an informed decision about using our Site. By using our Site, you consent to the privacy practices described in this Policy, as may be modified by us from time to time. We reserve the right to change the provisions of this Policy at any time.<strong> We will alert you that changes have been made by indicating on the privacy policy the date it was last updated. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. Your use of the Site following the posting of such changes or revised statement shall constitute your consent to any changes in our privacy practices.</strong> We encourage you to review this Policy whenever you visit our Site to make sure that you understand how any personal information you provide will be used.</p><p>Lifescript has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with<a href="http://www.truste.com/privacy-program-requirements/">TRUSTe's program requirements</a>including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us through one of the methods listed below. If you are not satisfied with our response you can contact<a href="http://watchdog.truste.com/pvr.php?page=complaint">TRUSTe here</a>. The TRUSTe program only covers information collected through this Web site, located at<a href="http://www.lifescript.com/">www.lifescript.com</a> and does not apply to the lsa.lifescript.com registration form.</p><p><strong>WHAT PERSONAL INFORMATION DO WE COLLECT?<br></strong><br>Personal information may be collected in a number of ways when you visit our Site. We may collect certain information you voluntarily provide to us which may contain or may be tied to personal information. For example, we may collect information, such as your name, postal address, e-mail address, phone number, and other contact and demographic information such as age, gender, zip code, health-related information, interests and preferences. We may collect this and other information when you create a profile, register for our newsletter(s), leave comments or post content, respond to surveys, participate in promotions or contact us by e mail or other means for any reason.</p><p>We may also collect "aggregate" information, which is data we collect about the use of the Site or about a group or category of products, services or users, from which individual identities or other personal information has been removed. In other words, information about how you use a service may be collected and combined with information about how others use the same service. Aggregate data helps us understand trends and our users' needs so that we can better consider new features or otherwise tailor our Site. This policy in no way restricts or limits our collection and use of aggregate information.<br><br>When you visit the Site, some information is also automatically collected, such as your computer's Internet Protocol (IP) address, your computer's operating system, the browser type, the address of a referring website, and your activity on the Site. We treat this information as personal information if we combine it with or link it to any of the identifying information mentioned above.<br><br><strong>COOKIES AND CLEAR GIFS (WEB BEACONS).</strong><br><br>We automatically collect certain forms of anonymous information through the use of “cookies” and “clear gifs.” Cookies are small data files that are stored on a user's hard drive at the request of a website to enable the site to recognize users who have previously visited them and retain certain information such as customer preferences and history.</p><p>We use both session ID cookies and persistent cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. We set a persistent cookie to enable us to track and target the interests of our users to enhance the experience on our site.</p><p>You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited.</p><p>Clear gifs (also known as web bugs or web beacons) are small, invisible graphic images that may be used on the Site and in e-mails to collect certain information about your use of and activity with our Site and emails.</p><p>We do not tie the information gathered by cookies and clear gifs to our customers’ personally identifiable information.</p><p><strong>FLASH LSOS.</strong></p><p>Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information.</p><p>Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here:<br><a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118">http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118</a></p><p><strong>THIRD PARTY ADVERTISEMENTS.</strong><br><br>We may also use third parties to serve ads on the Site. Certain third parties may automatically collect information about your visits to this and other Web sites, your IP address, your ISP, the browser you use to visit our Site (but not your name, address, email address or telephone number). They do this using cookies, clear gifs or other technologies. Information collected may be used, among other things, to deliver advertising targeted to your interests and to better understand the usage and visitation of our Site and the other sites tracked by these third parties. This policy does not apply to, and we are not responsible for, cookies or clear gifs in third party ads, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here:<a href="http://www.networkadvertising.org/consumer/opt_out.asp">http://www.networkadvertising.org/consumer/opt_out.asp</a>. Certain third party advertisers may collect personal information you provide in fields and forms presented in connection with their ads. This policy does not apply to, and we are not responsible for information you choose to provide in connection with these third party ads. We encourage you to check the privacy policies of the advertisers to learn about their use of your information.<br><br><strong>THIRD PARTY COMMENT SYSTEM.</strong><br><br>We use a third party online comment system called Disqus. Disqus is not acting as our agent. Disqus is a third party application that allows visitors to post comments on our site and connect those and other comments across multiple sites. When you post a comment on our site, Disqus will collect information about your visit to this and other Web sites, including information you post and your IP address. If you register with and use Disqus, Disqus may collect and use other information from and about you. This policy does not apply to, and we are not responsible for, Disqus' collection or use of your information. We encourage you to review Disqus' privacy policy to learn more about its privacy practices here:<a href="http://help.disqus.com/forums/107439/entries/96979-privacy-policy">http://help.disqus.com/forums/107439/entries/96979-privacy-policy</a> .<br><br><strong>HOW DO WE USE THE PERSONAL INFORMATION WE COLLECT?</strong><br><br>In general, we use personal information we collect to process your requests or transactions, to provide you with information or services you request, to inform you about other information, events, promotions, products or services we think will be of interest to you, to facilitate your use of, and our administration and operation of, the Site and the Lifescript services, and for the purpose for which the information was provided. For example, we may use the information we collect:<br></p><ul class="bullet_list"><li>to send you a welcoming e-mail and to contact you about your use of the Site and the Lifescript services, such as for administrative purposes or to provide you with customer service;<br></li><li>to provide you with all of the services, features, and functionality included within the Lifescript services, to provide other services or information you request and to complete any transactions in connection therewith;<br></li><li>to respond to your e-mails, submissions, comments, requests or complaints;<br></li><li>to request feedback and to enable us to develop, customize and improve the Site and our publications, products and services;<br></li><li>to personalize and improve Site content and features and your experience on the Site, such as providing ads, content or features to match your profile and interests;<br></li><li>to contact you about our or a third party's services, products, activities, special events or offers and for other marketing, informational, product development and promotional purposes (including, without limit, to notify promotion winners); and<br></li><li>for the specific purpose for which the information was provided or collected.</li></ul><br><br>Personal information provided online may be linked together or merged with other personal information so that we may better understand your needs and inform you about our products or services and those of our partners. In either case, this Policy governs this information.<p></p><p>We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us through one of the methods listed below. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p><p>We offer you the ability to send articles or quizzes you find interesting on our site to others by inputting their email address(es). If you elect to use this feature, we will send a one-time email to the email address(es) you provide, with a link to the requested article or quiz. We will not retain the email address(es) you provide.</p><p>We also offer the ability to share articles or quizzes you find interesting on our site with others via a wide range of social media sites. If you elect to use this feature, a link to the respective article or quiz will be placed on the social media site you request.<br><br><strong>SHARING OF PERSONAL INFORMATION.<br></strong><br>Except as described below, we will not share or sell your personally identifying information with third parties for their own use without your consent. If you choose to let us share your personally identifiable information with third parties, we are not responsible for the actions of such third party companies, nor are we responsible for any additional information you provide directly to these or to any other third parties.<br><br>You understand that when you use the Lifescript services, certain information you post on publicly available portions of the Site may be shared with other users and posted on other portions of the Site, including without limitation your comments to articles, name, profile details, images, and messages to other users on the Site. Your use of the Lifescript services constitutes your consent to share this information in such manner and all such sharing of information is done at your own risk. Please keep in mind that if you directly disclose personal information when posting comments or other information or content to the Site or through the Lifescript service, this information may become publicly available and may be collected and used by others. We recommend that you be cautious in giving out personal information to others in public online forums. To request removal of your personal information from our public online forums, contact us at<a href="mailto:abuse@Lifescript.com">abuse@Lifescript.com</a> . In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.<br><br>We may also share personal information with third party vendors, consultants and other service providers who are engaged by or working with us in connection with the operation of the Site and the Lifescript services and who need access to such information to carry out their work for us. For example, we use the services of a third party verification company to ensure that the names and emails submitted to us are valid. Our vendors, consultants and service providers are authorized to use your personal information only as necessary to provide these services to us.<br><br>In addition, we may disclose personal information in the good faith belief that we are lawfully authorized or required to do so, or that doing so is reasonably necessary or appropriate to comply with the law or with legal process or authorities, respond to lawful requests, any claims, or to protect the rights, property or safety of Lifescript, our users, our employees or the public, including without limitation to protect Lifescript or our users from fraudulent, abusive, inappropriate or unlawful use of our Site or the Lifescript services. Information about our users, including personal information, may also be disclosed or transferred as part of, or during negotiations of, any merger, sale of company assets, financing or acquisition, an insolvency, bankruptcy or receivership or in any other situation where personal information may be transferred as one of the business assets of Lifescript. You will be notified via a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.<br><br><strong>SOCIAL MEDIA (FEATURES) AND WIDGETS:</strong></p><p>Our Web site includes Social Media Features, such as the Facebook “Like” button, and Widgets such as the “Share This” button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing such Social Media Feature or Widget.</p><p><strong>FACEBOOK CONNECT OR OTHER OPENID PROVIDER.<br><br></strong>You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.<br><br><br><strong>WHAT STEPS DO WE TAKE TO PROTECT PERSONAL INFORMATION ONLINE?<br></strong><br>We have worked to put into place reasonable security measures in an effort to protect personal information while it is under our control. Please be aware, however, that despite our efforts, no security measures are perfect or impenetrable. You should also note that e-mail is not secure, and you should not send any confidential or sensitive information to us via an unsecured e-mail. To protect the confidentiality of personal information, you must keep any password used on the Site confidential and not disclose it to any other person. You are responsible for all uses of our Site by any person using your password. Please advise us immediately if you believe your password has been misused.<br><br><strong>WHAT CHOICES DO YOU HAVE REGARDING THE USE OF YOUR INFORMATION?<br></strong><br>We will send you news, updates and information via e-mail. You may choose to not receive promotional communications at any time by notifying Lifescript either through the opt-out link in the footer of every e-mail, by managing your e-mail settings through the web site or by calling customer service at (800) 637-9382. Please note, however, that you may not “opt-out” of receiving service related communications such as account-related e-mails from Lifescript.</p><p>When you register to receive newsletters from LifeScript, you are also registering to receive information or offers from us on behalf of our advertising partners. If you do not desire to receive such offers or information, you may opt out at any time. To do so, simply go to “Manage Your Newsletters”, where you may modify the information or offers you receive.</p><p><strong>LINKS TO OTHER WEBSITES.<br></strong><br>Our Site contains links to other Web sites. Any personal information you provide on the linked pages is provided directly to that third party and is subject to that third party's privacy policy. We are not responsible for the content or privacy and security practices and policies of Web sites to which we link. Links from our Site to third parties or to other Web sites are provided for your convenience. We encourage you to learn about their privacy and security practices and policies before providing them with personal information.<br><br><strong>USER GENERATED CONTENT.</strong><br><br>As part of our Site, we may from time to time offer users the opportunity to express their thoughts, opinions and ideas via user generated content forums such as blogs, message boards and/or chat rooms. We make no commitment to monitor these user generated content forums and are not responsible in any way for the content contained therein. Furthermore, any information which may be posted on a user generated content forum or which you may post on a user generated content forum, including your personally identifiable information, by definition will be publicly disclosed and available to all users of that forum, and is therefore no longer private. As a consequence, you cannot and should not have any expectation of privacy relative to that information. By using the user generated content forums, you agree that Lifescript is not responsible for any information that you disclose or communicate online in such user generated content forums, and any disclosures you make are at your own risk. Furthermore, you acknowledge and agree that we are not responsible for any of the user generated content on such forums and that such content does not represent the opinion or views of Lifescript. We reserve the right to republish your postings (in whole or part), taken from the forums, anywhere on our Site, or elsewhere on the Web in any format or any other medium, including print and radio, without prior notice or your express consent. To request the removal of your personally identifiable information, please review the section below.<br><br><strong>HOW CAN YOU CORRECT AND UPDATE YOUR PERSONAL INFORMATION OR OBTAIN ADDITIONAL INFORMATION?</strong><br><br>If you have any questions or comments about this Policy or the practices relating to this Site or the Lifescript services, or you wish to request changes to your preferences relating to any personal information we have collected, please contact us at<a href="mailto:abuse@Lifescript.com">abuse@Lifescript.com</a>, and we will respond to your inquiry to correct, update or remove the personal information you have provided us as you indicate to the extent possible. You may also contact us by mail at the following address:<br><br>Lifescript, Inc.<br>Attn: Privacy Policy<br>26001 Pala<br>Mission Viejo, CA 92691<br></p></span><a id="content_0_leftcontent_0_ctl00_lnkTeaser" class="teaserlnk"></a></div><div id="content_0_leftcontent_0_ctl00_TeaserMargin"></div><div id="content_0_leftcontent_0_ctl00_sublinkMarginTop" class="clear mt8"></div></div></div></div></div></div>
   </div>
 </div><!-- main-content -->
-                
-<style type="text/css">
-    #newsletter {background: transparent url(http://images.lifescript.com/images/interstitial/box.png) no-repeat; 
-    width:648px; height:529px; float:left;}
-    #content {clear:both; float:left; margin:10px 0px 10px 70px;  width:520px; position:relative; top:190px;}
-    #newslette table {clear:both;text-align:left;}
-    #newslette table tr td { font-family:Trebuchet MS; font-size:9pt; color:#585757; line-height:10px; text-align:left;}
-    #newslette table tr { margin-bottom:10px; padding-bottom:10px;}
-    .HA1 {color:#EA557A; font-size:11.5pt; font-family:Georgia;}
-    .DF {color:#1d7099; font-size:11.5pt; font-family:Georgia;}
-    .DR {color:#e28e09; font-size:11.5pt; font-family:Georgia;}
-    .DH {color:#73468b; font-size:11.5pt; font-family:Georgia;}
-    .LD {color:#25a7ce; font-size:11.5pt; font-family:Georgia;}
-    .HA {color:#66903b; font-size:11.5pt; font-family:Georgia;}	
-    .dots {background: transparent url(http://images.lifescript.com/images/dot_horiz.gif) repeat-x center;
-    height: 1px; clear: both; position: relative; width: 100%; margin: 5px 0px 3px 10px; } 
-    #newsletter p { padding:0; margin:0px;  padding-top:2px;}
-    .eml { font-family:Georgia; font-size:11.5pt; color:#cccccc; font-style:italic; 
-           font-weight:normal; border:1px solid #999; height:24px; width:240px; padding:5px 0 0 2px;}
-    .btn-NSLSignUp { padding:0; margin:0; height:25px; margin-left:1px; width:60px; padding:5px 0px 0px 10px;}
-    .clsClose { float:right; position:relative; top:45px;}
-    
-    
-#newsletter div.error {margin-top:-21px;color:Red; padding:5px 0 0 0;font-family:Trebuchet MS;font-size:11px; border:0px;}
-    
-    
-    
-    
-</style>
-
-<!--[if IE 7]>
-<style type="text/css">
-    #content {top:220px; }
-</style>
-<![endif]-->
-
-
-
-
-
-<div id="ctl07_ctl00_interContainer" class="interContainer">
-    <div id="newsletter">
-        <div class="clsClose"><img onclick="CloseIt();" onmouseover="SwapIt(this, '1');" onmouseout="SwapIt(this, '2');" src="http://images.lifescript.com/images/interstitial/clos-btn-normal.png"> </div>
-        <div id="content">
+                <div id="footer_ctl00_interContainer" class="interContainer">
+    <div id="NLOverlayNewsletter">
+        <div class="NLOverlayclsClose"><img onclick="CloseIt();" onmouseover="SwapIt(this, '1');" onmouseout="SwapIt(this, '2');" src="http://images.lifescript.com/images/interstitial/clos-btn-normal.png"> </div>
+        <div id="NLOverlayContent">
             <div style="width:230px; float:left; text-align:left;">
                 <table id="tblNewsletter" width="230" border="0" cellpadding="2" cellspacing="2">
                 <tbody><tr valign="top">
                     <td valign="top"><input type="checkbox" name="subscriptionID" id="subscriptionID1" value="1" class="mt2"></td>
                     <td><img src="http://images.lifescript.com/images/interstitial/icons/healthy-advantage.png" alt="HEALTHY ADVANTAGE"></td>
-                    <td><span class="HA1">Healthy Advantage</span><br>
+                    <td><span class="NLOverlayHA1">Healthy Advantage</span><br>
                         <p>The #1 daily resource for<br> health and lifestyle news! </p>              
                     </td>
                 </tr>
                 <tr valign="top">
                     <td><input type="checkbox" name="subscriptionID" id="subscriptionID2" value="6" class="mt2"></td>
                     <td><img src="http://images.lifescript.com/images/interstitial/icons/diet-fitness-icon.png" alt="DIET AND FITNESS"></td>
-                    <td><span class="DF">Diet &amp; Fitness</span><br>
+                    <td><span class="NLOverlayDF">Diet &amp; Fitness</span><br>
                         <p>Your daily resource for losing<br> weight and staying fit.</p>
                     </td>
                 </tr>
                 <tr valign="top">
                     <td><input type="checkbox" name="subscriptionID" id="subscriptionID3" value="10" class="mt2"></td>
                     <td><img src="http://images.lifescript.com/images/interstitial/icons/daily-reflections.png" alt="DAILY REFLECTIONS"></td>
-                    <td><span class="DR">Daily Reflections</span><br>
+                    <td><span class="NLOverlayDR">Daily Reflections</span><br>
                         <p>We could all use some encouragement now and then - we're human!</p>
                     </td>
                 </tr>
@@ -613,7 +544,7 @@ function GetContent(type)
                 <tbody><tr valign="top">
                     <td><input type="checkbox" name="subscriptionID" id="subscriptionID4" value="9" class="mt2"></td>
                     <td><img src="http://images.lifescript.com/images/interstitial/icons/horoscope.png" alt="HOROSCOPE"></td>
-                    <td><span class="DH">Daily Horoscope</span><br>
+                    <td><span class="NLOverlayDH">Daily Horoscope</span><br>
                         <p>Explore your destiny as you discover what's written in your stars.</p>
                     </td>
                 </tr>
@@ -621,42 +552,42 @@ function GetContent(type)
                     <td><input type="checkbox" name="subscriptionID" id="subscriptionID5" value="7" class="mt2"></td>
                     <td><img src="http://images.lifescript.com/images/interstitial/icons/diabetes.png" alt="LIVING WITH DIABETES"></td>
                     <td>
-                        <span class="LD">Living with Diabetes</span><br>
+                        <span class="NLOverlayLD">Living with Diabetes</span><br>
                         <p>The latest news, tips and recipes for people with diabetes.</p>
                     </td>
                 </tr>
                 <tr valign="top">
                     <td><input type="checkbox" name="subscriptionID" id="subscriptionID6" value="13" class="mt2"></td>
                     <td><img src="http://images.lifescript.com/images/interstitial/icons/appetite.png" alt="HEALTHY APPETITE"></td>
-                    <td><span class="HA">Healthy Appetite</span><br>
+                    <td><span class="NLOverlayHA">Healthy Appetite</span><br>
                         <p>Healthy food that tastes delicious too?  No kidding.</p>
                     </td>
                 </tr>
             </tbody></table>
             </div> 
-            <div class="dots"></div>
+            <div class="NLOverlayDots"></div>
             <div style="margin:15px 0px 20px 70px; float:left;">
                <!--
-                <div id="ctl07_ctl00_divError" class="error"></div>
+                <div id="footer_ctl00_divError" class="error"></div>
                -->
                 <div style="height:15px; " class="hide error" id="divError2"><label id="error" class="error" style="height:15px;">Invalid Email Address!</label></div>
               
                 <div class="fL">
-                    <input name="ctl07$ctl00$tbxEmailAddress" type="text" value="enter your email address" size="20" id="ctl07_ctl00_tbxEmailAddress" class="eml" onkeypress="return fnSubscription(event, this)" onmousedown="SetSearchText(this);">
+                    <input name="footer$ctl00$tbxEmailAddress" type="text" value="enter your email address" size="20" id="footer_ctl00_tbxEmailAddress" class="NLOverlayeml" onkeypress="return fnSubscription(event, this)" onmousedown="SetSearchText(this);">
                 </div>
                 <div class="fL button">
-                    <input id="btnNLOV" onmouseover="CBGColor(1, this);" onmouseout="CBGColor(2, this);" class="btn-NSLSignUp" value="Submit" onclick="submitNLSignUp();">
+                    <input id="btnNLOV" onmouseover="CBGColor(1, this);" onmouseout="CBGColor(2, this);" class="NLOverlaybtn-NSLSignUp" value="Submit" onclick="submitNLSignUp();">
                 </div>
             </div>
         </div>
     </div>
-    <input type="hidden" id="ctrlPrefix1" name="ctrlPrefix1" value="ctl07_ctl00_">
+    <input type="hidden" id="ctrlPrefix1" name="ctrlPrefix1" value="footer_ctl00_">
 </div> 
-<div id="ctl07_ctl00_interVeil" class="interVeil"></div>
+<div id="footer_ctl00_interVeil" class="interVeil"></div>
 
 <script type="text/javascript">
     function submitNLSignUp() {
-        var email = document.getElementById('ctl07_ctl00_tbxEmailAddress').value;
+        var email = document.getElementById('footer_ctl00_tbxEmailAddress').value;
         if (validate(email)) {
             var ids = '';
             for (var i = 1; i < 7; i++) {
@@ -695,7 +626,7 @@ function GetContent(type)
 
         if (key == 13) {
             var btnId = GetClientId("btnSignUpNewsLetter");
-            $('#' + btnId).click();
+            $LS('#' + btnId).click();
         }
         return (key != 13);
 
@@ -704,80 +635,76 @@ function GetContent(type)
 </script>
 
 <div id="footer-inside-lifescript" class="mt20">
-    <input type="hidden" name="ctl07$hfNClicks" id="ctl07_hfNClicks" value="3">
-    <input type="hidden" name="ctl07$hfPaidSearch" id="ctl07_hfPaidSearch" value="0">
-    <input type="hidden" name="ctl07$hfLSIntersititial" id="ctl07_hfLSIntersititial" value="0">
-    <input type="hidden" name="ctl07$hfLSIntersititialClick" id="ctl07_hfLSIntersititialClick" value="3">
-    <input type="hidden" name="ctl07$hfItemId" id="ctl07_hfItemId" value="{1AB0C77A-3278-44A0-9FED-FD91BCBD81C6}">
-    <input type="hidden" name="ctl07$hfWaitingTime" id="ctl07_hfWaitingTime" value="15">
-    <input type="hidden" id="ctrlPrefix2" name="ctrlPrefix2" value="ctl07_ctl00_">
+    <input type="hidden" name="footer$hfNClicks" id="footer_hfNClicks" value="3">
+    <input type="hidden" name="footer$hfPaidSearch" id="footer_hfPaidSearch" value="0">
+    <input type="hidden" name="footer$hfLSIntersititial" id="footer_hfLSIntersititial" value="0">
+    <input type="hidden" name="footer$hfLSIntersititialClick" id="footer_hfLSIntersititialClick" value="3">
+    <input type="hidden" name="footer$hfItemId" id="footer_hfItemId" value="{1AB0C77A-3278-44A0-9FED-FD91BCBD81C6}">
+    <input type="hidden" name="footer$hfWaitingTime" id="footer_hfWaitingTime" value="15">
+    <input type="hidden" id="ctrlPrefix2" name="ctrlPrefix2" value="footer_ctl00_">
     
     <div class="bg-banner font-georgia mb10">
         <span class="cWhite size20">&nbsp;this week's stories </span>
     </div>
 
     <div id="footer" class="mt20">
-        <div id="ctl07_ctl01_HybridBox" class="round-box HybridBox box HybridBox " style="background-color:;width:128px;height:230px;"><div id="ctl07_ctl01_WhiteBorderBox" class=" box HybridBox  icon-none"><div id="ctl07_ctl01_HybridBox_Header" class="boxHeading fL" style="width:100%;"><a id="ctl07_ctl01_lnkHeadline" class="text-decoration-none" href="/Health.aspx" style="color:#f6923d;"><span id="ctl07_ctl01_headlineCtrl" class="boxName"><span id="ctl07_ctl01_lblHeadline" style="color:#f6923d;"><span style="font-family: Trebuchet MS; font-size: 13px; font-weight: bold;">HEALTH</span>&nbsp;<br></span></span></a></div><div id="ctl07_ctl01_HybridBoxBorder" class="HybridBoxBorder inline bg-white fL" style="width:128px;height:230px;"><div id="ctl07_ctl01_HybridBoxInner" class="fL" style="padding-right:5px;padding-left:4px;width:117px;height:229px;"><div id="ctl07_ctl01_pnlImageContainer" class="aC" style="margin-right:10px;"><img src="http://images.lifescript.com/Media/Taxonomy/health/Treatments/Conventional%20treatments/vaccine/vaccine_02_box.jpg" alt="vaccine_02" style="height:115px;width:100px;border-width:0px;width:100px;height:115px;border:1px solid #ccc;"><br></div><div id="ctl07_ctl01_pnlContent" class="content clear w100percent" style="margin-top:5px;"><div class="clear"><a id="ctl07_ctl01_lnkFeatureArticle" class="cBanner" href="/Health/Everyday-Care/Prevention/Adult_Vaccination_Why_You_Need_Your_Shots.aspx" style="color:#636363;"><span class="h4Class m0 Pad0" style="margin-bottom:5px;"><span id="ctl07_ctl01_lblFeatureArticle" class="featureArticle" style="color:#636363;">Adult Vaccines: What You Need</span></span></a></div><div id="ctl07_ctl01_ArticleMargin" style="margin-top:5px;"></div><div class="teaser-container mt2"></div><div id="ctl07_ctl01_TeaserMargin"></div><div id="ctl07_ctl01_pnlRelatedArticle"></div><div id="ctl07_ctl01_sublinkMarginTop" class="clear mt8"></div></div></div></div></div></div><div id="ctl07_ctl01_boxVertDivider" class="vertical-line mt10" style="height:230px;"></div><div id="ctl07_ctl02_HybridBox" class="round-box HybridBox box HybridBox " style="background-color:;width:128px;height:230px;"><div id="ctl07_ctl02_WhiteBorderBox" class=" box HybridBox  icon-none"><div id="ctl07_ctl02_HybridBox_Header" class="boxHeading fL" style="width:100%;"><a id="ctl07_ctl02_lnkHeadline" class="text-decoration-none" href="/Body.aspx" style="color:#f6923d;"><span id="ctl07_ctl02_headlineCtrl" class="boxName"><span id="ctl07_ctl02_lblHeadline" style="color:#f6923d;"><span style="font-family: Trebuchet MS; font-size: 13px; font-weight: bold;">EAT</span></span></span></a></div><div id="ctl07_ctl02_HybridBoxBorder" class="HybridBoxBorder inline bg-white fL" style="width:128px;height:230px;"><div id="ctl07_ctl02_HybridBoxInner" class="fL" style="padding-right:5px;padding-left:4px;width:117px;height:229px;"><div id="ctl07_ctl02_pnlImageContainer" class="aC" style="margin-right:10px;"><img src="http://images.lifescript.com/Media/Taxonomy/Healthy%20Diet/healthy_eating_04_box.jpg" alt="healthy_eating_04" style="height:115px;width:100px;border-width:0px;width:100px;height:115px;border:1px solid #ccc;"><br></div><div id="ctl07_ctl02_pnlContent" class="content clear w100percent" style="margin-top:5px;"><div class="clear"><a id="ctl07_ctl02_lnkFeatureArticle" class="cBanner" href="/Body/Diet/Eat-well/Wanna_Be_a_Vegetarian.aspx" style="color:#636363;"><span class="h4Class m0 Pad0" style="margin-bottom:5px;"><span id="ctl07_ctl02_lblFeatureArticle" class="featureArticle" style="color:#636363;">How to Go Vegetarian</span></span></a></div><div id="ctl07_ctl02_ArticleMargin" style="margin-top:5px;"></div><div class="teaser-container mt2"></div><div id="ctl07_ctl02_TeaserMargin"></div><div id="ctl07_ctl02_pnlRelatedArticle"></div><div id="ctl07_ctl02_sublinkMarginTop" class="clear mt8"></div></div></div></div></div></div><div id="ctl07_ctl02_boxVertDivider" class="vertical-line mt10" style="height:230px;"></div><div id="ctl07_ctl03_HybridBox" class="round-box HybridBox box HybridBox " style="background-color:;width:128px;height:230px;"><div id="ctl07_ctl03_WhiteBorderBox" class=" box HybridBox  icon-none"><div id="ctl07_ctl03_HybridBox_Header" class="boxHeading fL" style="width:100%;"><a id="ctl07_ctl03_lnkHeadline" class="text-decoration-none" href="/Life.aspx" style="color:#f6923d;"><span id="ctl07_ctl03_headlineCtrl" class="boxName"><span id="ctl07_ctl03_lblHeadline" style="color:#f6923d;"><span style="font-family: Trebuchet MS; font-size: 13px; font-weight: bold;">CELEB</span></span></span></a></div><div id="ctl07_ctl03_HybridBoxBorder" class="HybridBoxBorder inline bg-white fL" style="width:128px;height:230px;"><div id="ctl07_ctl03_HybridBoxInner" class="fL" style="padding-right:5px;padding-left:4px;width:117px;height:229px;"><div id="ctl07_ctl03_pnlImageContainer" class="aC" style="margin-right:10px;"><img src="http://images.lifescript.com/Media/Lifescript%20Media/Article%20Images/Danica_Patrick/Danica_Patrick_Drive4COPD_box.jpg" alt="Danica_Patrick_Drive4COPD" style="height:115px;width:100px;border-width:0px;width:100px;height:115px;border:1px solid #ccc;"><br></div><div id="ctl07_ctl03_pnlContent" class="content clear w100percent" style="margin-top:5px;"><div class="clear"><a id="ctl07_ctl03_lnkFeatureArticle" class="cBanner" href="/Life/Timeout/Entertainment/Danica_Patricks_Latest_Challenge_Drive4COPD.aspx" style="color:#636363;"><span class="h4Class m0 Pad0" style="margin-bottom:5px;"><span id="ctl07_ctl03_lblFeatureArticle" class="featureArticle" style="color:#636363;">Danica Patrick Exclusive!</span></span></a></div><div id="ctl07_ctl03_ArticleMargin" style="margin-top:5px;"></div><div class="teaser-container mt2"></div><div id="ctl07_ctl03_TeaserMargin"></div><div id="ctl07_ctl03_pnlRelatedArticle"></div><div id="ctl07_ctl03_sublinkMarginTop" class="clear mt8"></div></div></div></div></div></div><div id="ctl07_ctl03_boxVertDivider" class="vertical-line mt10" style="height:230px;"></div><div id="ctl07_ctl04_HybridBox" class="round-box HybridBox box HybridBox " style="background-color:;width:128px;height:230px;"><div id="ctl07_ctl04_WhiteBorderBox" class=" box HybridBox  icon-none"><div id="ctl07_ctl04_HybridBox_Header" class="boxHeading fL" style="width:100%;"><a id="ctl07_ctl04_lnkHeadline" class="text-decoration-none" href="/Soul.aspx" style="color:#f6923d;"><span id="ctl07_ctl04_headlineCtrl" class="boxName"><span id="ctl07_ctl04_lblHeadline" style="color:#f6923d;"><span style="font-family: Trebuchet MS; font-size: 13px; font-weight: bold;">SOUL</span></span></span></a></div><div id="ctl07_ctl04_HybridBoxBorder" class="HybridBoxBorder inline bg-white fL" style="width:128px;height:230px;"><div id="ctl07_ctl04_HybridBoxInner" class="fL" style="padding-right:5px;padding-left:4px;width:117px;height:229px;"><div id="ctl07_ctl04_pnlImageContainer" class="aC"><img src="http://images.lifescript.com/Media/Lifescript%20Media/Experts/dr_sklare_box.jpg" alt="dr_sklare" style="height:115px;width:100px;border-width:0px;width:100px;height:115px;border:1px solid #ccc;"><br></div><div id="ctl07_ctl04_pnlContent" class="content clear w100percent" style="margin-top:5px;"><div class="clear"><a id="ctl07_ctl04_lnkFeatureArticle" class="cBanner" href="/Soul/Self/Growth/Coping_with_Change.aspx" style="color:#636363;"><span class="h4Class m0 Pad0" style="margin-bottom:5px;"><span id="ctl07_ctl04_lblFeatureArticle" class="featureArticle" style="color:#636363;">Coping with Change</span></span></a></div><div id="ctl07_ctl04_ArticleMargin" style="margin-top:5px;"></div><div class="teaser-container mt2"></div><div id="ctl07_ctl04_TeaserMargin"></div><div id="ctl07_ctl04_pnlRelatedArticle"></div><div id="ctl07_ctl04_sublinkMarginTop" class="clear mt8"></div></div></div></div></div></div><div id="ctl07_ctl04_boxVertDivider" class="vertical-line mt10" style="height:230px;"></div><div id="ctl07_ctl05_HybridBox" class="round-box HybridBox box HybridBox " style="background-color:;width:100px;height:230px;"><div id="ctl07_ctl05_WhiteBorderBox" class=" box HybridBox  icon-none"><div id="ctl07_ctl05_HybridBox_Header" class="boxHeading fL" style="width:100%;"><a id="ctl07_ctl05_lnkHeadline" class="text-decoration-none" href="/Connect.aspx" style="color:#f6923d;"><span id="ctl07_ctl05_headlineCtrl" class="boxName"><span id="ctl07_ctl05_lblHeadline" style="color:#f6923d;"><span style="font-family: Trebuchet MS; font-size: 13px; font-weight: bold;">INSPIRE</span></span></span></a></div><div id="ctl07_ctl05_HybridBoxBorder" class="HybridBoxBorder inline bg-white fL" style="width:100px;height:230px;"><div id="ctl07_ctl05_HybridBoxInner" class="fL" style="padding-right:33px;padding-left:4px;width:61px;height:229px;"><div id="ctl07_ctl05_pnlImageContainer" class="aC" style="margin-right:10px;"><img src="http://images.lifescript.com/Media/Lifescript%20Media/Success%20Stories/Find_Your_Purpose_2/TanyaPinto2_box.jpg" alt="TanyaPinto2" style="height:115px;width:100px;border-width:0px;width:100px;height:115px;border:1px solid #ccc;"><br></div><div id="ctl07_ctl05_pnlContent" class="content clear w100percent" style="margin-top:5px;"><div class="clear"><a id="ctl07_ctl05_lnkFeatureArticle" class="cBanner" href="/Soul/Self/Well-being/Real-Life_Heroes_2_Tales_of_Hope.aspx" style="color:#636363;"><span class="h4Class m0 Pad0" style="margin-bottom:5px;"><span id="ctl07_ctl05_lblFeatureArticle" class="featureArticle" style="color:#636363;">2 Real-Life Heroes</span></span></a></div><div id="ctl07_ctl05_ArticleMargin" style="margin-top:5px;"></div><div class="teaser-container mt2"></div><div id="ctl07_ctl05_TeaserMargin"></div><div id="ctl07_ctl05_pnlRelatedArticle"></div><div id="ctl07_ctl05_sublinkMarginTop" class="clear mt8"></div></div></div></div></div></div><div id="ctl07_ctl05_boxVertDivider" class="vertical-line mt10" style="height:230px;"></div><div id="ctl07_ctl06_HybridBox" class="round-box HybridBox box HybridBox " style="background-color:;width:128px;height:230px;"><div id="ctl07_ctl06_WhiteBorderBox" class=" box HybridBox  icon-none"><div id="ctl07_ctl06_HybridBox_Header" class="boxHeading fL" style="width:100%;"><a id="ctl07_ctl06_lnkHeadline" class="text-decoration-none" href="/Health/News.aspx" style="color:#f6923d;"><span id="ctl07_ctl06_headlineCtrl" class="boxName"><span id="ctl07_ctl06_lblHeadline" style="color:#f6923d;"><span style="font-family: Trebuchet MS; font-size: 13px; font-weight: bold;">NEWS</span></span></span></a></div><div id="ctl07_ctl06_HybridBoxBorder" class="HybridBoxBorder inline bg-white fL" style="width:128px;height:230px;"><div id="ctl07_ctl06_HybridBoxInner" class="fL" style="padding-right:5px;padding-left:4px;width:117px;height:229px;"><div id="ctl07_ctl06_pnlImageContainer" class="aC"><img src="http://images.lifescript.com/Media/Taxonomy/food/Salads/olive_oil_box.jpg" alt="olive_oil" style="height:115px;width:100px;border-width:0px;width:100px;height:115px;border:1px solid #ccc;"><br></div><div id="ctl07_ctl06_pnlContent" class="content clear w100percent" style="margin-top:5px;"><div class="clear"><a id="ctl07_ctl06_lnkFeatureArticle" class="cBanner" href="/Health/News/Reuters/2011/06/15/Olive_oil_lovers_show_lower_stroke_risk.aspx" style="color:#636363;"><span class="h4Class m0 Pad0" style="margin-bottom:5px;"><span id="ctl07_ctl06_lblFeatureArticle" class="featureArticle" style="color:#636363;">Olive Oil Lowers Stroke Risk</span></span></a></div><div id="ctl07_ctl06_ArticleMargin" style="margin-top:5px;"></div><div class="teaser-container mt2"></div><div id="ctl07_ctl06_TeaserMargin"></div><div id="ctl07_ctl06_pnlRelatedArticle"></div><div id="ctl07_ctl06_sublinkMarginTop" class="clear mt8"></div></div></div></div></div></div><div id="ctl07_ctl06_boxVertDivider" class="vertical-line mt10" style="height:230px;"></div><div id="ctl07_ctl07_HybridBox" class="round-box HybridBox bg-white m1 box HybridBox " style="width:125px;height:230px;"><div id="ctl07_ctl07_WhiteBorderBox" class=" box HybridBox  icon-none"><div id="ctl07_ctl07_HybridBox_Header" class="boxHeading fL" style="width:100%;"><a id="ctl07_ctl07_lnkHeadline" class="text-decoration-none" href="/Quizzes.aspx" style="color:#f6923d;"><span id="ctl07_ctl07_headlineCtrl" class="boxName"><span id="ctl07_ctl07_lblHeadline" style="color:#f6923d;"><span style="font-family: Trebuchet MS; font-size: 13px; font-weight: bold;">QUIZZES</span></span></span></a></div><div id="ctl07_ctl07_HybridBoxBorder" class="HybridBoxBorder inline bg-white fL" style="width:125px;height:230px;"><div id="ctl07_ctl07_HybridBoxInner" class="bg-white m1" style="padding-right:5px;padding-left:4px;width:114px;height:229px;"><div id="ctl07_ctl07_pnlImageContainer" class="aC" style="margin-right:10px;"><img src="http://images.lifescript.com/Media/Taxonomy/beauty/Makeup/cosmetics1_box.jpg" alt="cosmetics1" style="height:115px;width:100px;border-width:0px;width:100px;height:115px;border:1px solid #ccc;"><br></div><div id="ctl07_ctl07_pnlContent" class="content clear w100percent" style="margin-top:5px;"><div class="clear"><a id="ctl07_ctl07_lnkFeatureArticle" class="cBanner" href="/Quizzes/Beauty/What_Is_Your_Makeup_IQ.aspx" style="color:#636363;"><span class="h4Class m0 Pad0" style="margin-bottom:5px;"><span id="ctl07_ctl07_lblFeatureArticle" class="featureArticle" style="color:#636363;">What's Your Makeup IQ?</span></span></a></div><div id="ctl07_ctl07_ArticleMargin" style="margin-top:5px;"></div><div class="teaser-container mt2"></div><div id="ctl07_ctl07_TeaserMargin"></div><div id="ctl07_ctl07_pnlRelatedArticle"></div><div id="ctl07_ctl07_sublinkMarginTop" class="clear mt8"></div></div></div></div></div></div>
+        <div id="footer_ctl02_HybridBox" class="round-box HybridBox box HybridBox" style="background-color:;width:128px;height:230px;"><div id="footer_ctl02_WhiteBorderBox" class=" box HybridBox icon-none"><div id="footer_ctl02_HybridBox_Header" class="boxHeading fL" style="width:100%;"><a id="footer_ctl02_lnkHeadline" class="text-decoration-none" href="/health.aspx" style="color:#f6923d;"><span id="footer_ctl02_headlineCtrl" class="boxName" style="background-color:#ffffff;"><span id="footer_ctl02_lblHeadline" style="color:#f6923d;"><span style="font-family: Trebuchet MS; font-size: 13px; font-weight: bold;">HEALTH</span>&nbsp;<br></span></span></a></div><div id="footer_ctl02_HybridBoxBorder" class="HybridBoxBorder inline bg-white fL" style="width:128px;height:230px;"><div id="footer_ctl02_HybridBoxInner" class="fL" style="padding-right:5px;padding-left:4px;width:117px;height:229px;"><div id="footer_ctl02_pnlImageContainer" class="aC" style="margin-right:10px;"><a title="SkinCancer_1"><img src="http://images.lifescript.com/Media/Taxonomy/Health/Conditions/Cancer/Skin_Cancer/SkinCancer_1_box.jpg" style="border-width:0px;width:100px;height:115px;border:1px solid #ccc;"></a><br></div><div id="footer_ctl02_pnlContent" class="content clear w100percent" style="margin-top:5px;"><div class="clear"><a id="footer_ctl02_lnkFeatureArticle" class="cBanner" href="/health/centers/cancer/tips/13_questions_to_ask_your_doctor_about_melanoma.aspx" style="color:#636363;"><span class="h4Class m0 Pad0" style="margin-bottom:5px;"><span id="footer_ctl02_lblFeatureArticle" class="featureArticle" style="color:#636363;"><p>Melanoma 101</p></span></span></a></div><div id="footer_ctl02_ArticleMargin" style="margin-top:5px;"></div><div class="teaser-container mt2"></div><div id="footer_ctl02_TeaserMargin"></div><div id="footer_ctl02_pnlRelatedArticle"></div><div id="footer_ctl02_sublinkMarginTop" class="clear mt8"></div></div></div></div></div></div><div id="footer_ctl02_boxVertDivider" class="vertical-line mt10" style="height:230px;"></div><div id="footer_ctl03_HybridBox" class="round-box HybridBox box HybridBox" style="background-color:;width:128px;height:230px;"><div id="footer_ctl03_WhiteBorderBox" class=" box HybridBox icon-none"><div id="footer_ctl03_HybridBox_Header" class="boxHeading fL" style="width:100%;"><a id="footer_ctl03_lnkHeadline" class="text-decoration-none" href="/diet-fitness.aspx" style="color:#f6923d;"><span id="footer_ctl03_headlineCtrl" class="boxName" style="background-color:#ffffff;"><span id="footer_ctl03_lblHeadline" style="color:#f6923d;"><span style="font-family: Trebuchet MS; font-size: 13px; font-weight: bold;">FIT</span></span></span></a></div><div id="footer_ctl03_HybridBoxBorder" class="HybridBoxBorder inline bg-white fL" style="width:128px;height:230px;"><div id="footer_ctl03_HybridBoxInner" class="fL" style="padding-right:5px;padding-left:4px;width:117px;height:229px;"><div id="footer_ctl03_pnlImageContainer" class="aC" style="margin-right:10px;"><a title="woman_walking_outdoors"><img src="http://images.lifescript.com/Media/0/5/0/{050DA059-D836-4961-80F6-EB352404F5C4}woman_walking_outdoors_box.jpg" style="border-width:0px;width:100px;height:115px;border:1px solid #ccc;"></a><br></div><div id="footer_ctl03_pnlContent" class="content clear w100percent" style="margin-top:5px;"><div class="clear"><a id="footer_ctl03_lnkFeatureArticle" class="cBanner" href="/diet-fitness/get_fit_guides/walking/articles/walking_for_fitness.aspx" style="color:#636363;"><span class="h4Class m0 Pad0" style="margin-bottom:5px;"><span id="footer_ctl03_lblFeatureArticle" class="featureArticle" style="color:#636363;"><p>The Ultimate Walking Guide</p></span></span></a></div><div id="footer_ctl03_ArticleMargin" style="margin-top:5px;"></div><div class="teaser-container mt2"></div><div id="footer_ctl03_TeaserMargin"></div><div id="footer_ctl03_pnlRelatedArticle"></div><div id="footer_ctl03_sublinkMarginTop" class="clear mt8"></div></div></div></div></div></div><div id="footer_ctl03_boxVertDivider" class="vertical-line mt10" style="height:230px;"></div><div id="footer_ctl04_HybridBox" class="round-box HybridBox box HybridBox" style="background-color:;width:128px;height:230px;"><div id="footer_ctl04_WhiteBorderBox" class=" box HybridBox icon-none"><div id="footer_ctl04_HybridBox_Header" class="boxHeading fL" style="width:100%;"><a id="footer_ctl04_lnkHeadline" class="text-decoration-none" href="/life.aspx" style="color:#f6923d;"><span id="footer_ctl04_headlineCtrl" class="boxName" style="background-color:#ffffff;"><span id="footer_ctl04_lblHeadline" style="color:#f6923d;"><span style="font-family: Trebuchet MS; font-size: 13px; font-weight: bold;">FAMILY</span></span></span></a></div><div id="footer_ctl04_HybridBoxBorder" class="HybridBoxBorder inline bg-white fL" style="width:128px;height:230px;"><div id="footer_ctl04_HybridBoxInner" class="fL" style="padding-right:5px;padding-left:4px;width:117px;height:229px;"><div id="footer_ctl04_pnlImageContainer" class="aC" style="margin-right:10px;"><a title="mom_sick_kid"><img src="http://images.lifescript.com/Media/Taxonomy/family/Kids/Health/mom_sick_kid_box.jpg" style="border-width:0px;width:100px;height:115px;border:1px solid #ccc;"></a><br></div><div id="footer_ctl04_pnlContent" class="content clear w100percent" style="margin-top:5px;"><div class="clear"><a id="footer_ctl04_lnkFeatureArticle" class="cBanner" href="/health/centers/kids_health/articles/parenting_tips_you_need_to_know.aspx" style="color:#636363;"><span class="h4Class m0 Pad0" style="margin-bottom:5px;"><span id="footer_ctl04_lblFeatureArticle" class="featureArticle" style="color:#636363;"><p>10 Mom Mistakes</p></span></span></a></div><div id="footer_ctl04_ArticleMargin" style="margin-top:5px;"></div><div class="teaser-container mt2"></div><div id="footer_ctl04_TeaserMargin"></div><div id="footer_ctl04_pnlRelatedArticle"></div><div id="footer_ctl04_sublinkMarginTop" class="clear mt8"></div></div></div></div></div></div><div id="footer_ctl04_boxVertDivider" class="vertical-line mt10" style="height:230px;"></div><div id="footer_ctl05_HybridBox" class="round-box HybridBox box HybridBox" style="background-color:;width:128px;height:230px;"><div id="footer_ctl05_WhiteBorderBox" class=" box HybridBox icon-none"><div id="footer_ctl05_HybridBox_Header" class="boxHeading fL" style="width:100%;"><a id="footer_ctl05_lnkHeadline" class="text-decoration-none" href="/soul.aspx" style="color:#f6923d;"><span id="footer_ctl05_headlineCtrl" class="boxName" style="background-color:#ffffff;"><span id="footer_ctl05_lblHeadline" style="color:#f6923d;"><span style="font-family: Trebuchet MS; font-size: 13px; font-weight: bold;">SOUL</span></span></span></a></div><div id="footer_ctl05_HybridBoxBorder" class="HybridBoxBorder inline bg-white fL" style="width:128px;height:230px;"><div id="footer_ctl05_HybridBoxInner" class="fL" style="padding-right:5px;padding-left:4px;width:117px;height:229px;"><div id="footer_ctl05_pnlImageContainer" class="aC"><a title="dr_sklare"><img src="http://images.lifescript.com/Media/Lifescript%20Media/Experts/dr_sklare_box.jpg" style="border-width:0px;width:100px;height:115px;border:1px solid #ccc;"></a><br></div><div id="footer_ctl05_pnlContent" class="content clear w100percent" style="margin-top:5px;"><div class="clear"><a id="footer_ctl05_lnkFeatureArticle" class="cBanner" href="/soul/self/well-being/the_top_five_regrets_of_the_dying.aspx" style="color:#636363;"><span class="h4Class m0 Pad0" style="margin-bottom:5px;"><span id="footer_ctl05_lblFeatureArticle" class="featureArticle" style="color:#636363;"><p>Top Regrets of the Dying</p></span></span></a></div><div id="footer_ctl05_ArticleMargin" style="margin-top:5px;"></div><div class="teaser-container mt2"></div><div id="footer_ctl05_TeaserMargin"></div><div id="footer_ctl05_pnlRelatedArticle"></div><div id="footer_ctl05_sublinkMarginTop" class="clear mt8"></div></div></div></div></div></div><div id="footer_ctl05_boxVertDivider" class="vertical-line mt10" style="height:230px;"></div><div id="footer_ctl06_HybridBox" class="round-box HybridBox box HybridBox" style="background-color:;width:100px;height:230px;"><div id="footer_ctl06_WhiteBorderBox" class=" box HybridBox icon-none"><div id="footer_ctl06_HybridBox_Header" class="boxHeading fL" style="width:100%;"><a id="footer_ctl06_lnkHeadline" class="text-decoration-none" href="/connect.aspx" style="color:#f6923d;"><span id="footer_ctl06_headlineCtrl" class="boxName" style="background-color:#ffffff;"><span id="footer_ctl06_lblHeadline" style="color:#f6923d;"><span style="font-family: Trebuchet MS; font-size: 13px; font-weight: bold;">INSPIRE</span></span></span></a></div><div id="footer_ctl06_HybridBoxBorder" class="HybridBoxBorder inline bg-white fL" style="width:100px;height:230px;"><div id="footer_ctl06_HybridBoxInner" class="fL" style="padding-right:33px;padding-left:4px;width:61px;height:229px;"><div id="footer_ctl06_pnlImageContainer" class="aC" style="margin-right:10px;"><a title="TanyaPinto2"><img src="http://images.lifescript.com/Media/Lifescript%20Media/Success%20Stories/Find_Your_Purpose_2/TanyaPinto2_box.jpg" style="border-width:0px;width:100px;height:115px;border:1px solid #ccc;"></a><br></div><div id="footer_ctl06_pnlContent" class="content clear w100percent" style="margin-top:5px;"><div class="clear"><a id="footer_ctl06_lnkFeatureArticle" class="cBanner" href="/soul/self/well-being/real-life_heroes_2_tales_of_hope.aspx" style="color:#636363;"><span class="h4Class m0 Pad0" style="margin-bottom:5px;"><span id="footer_ctl06_lblFeatureArticle" class="featureArticle" style="color:#636363;">2 Real-Life Heroes</span></span></a></div><div id="footer_ctl06_ArticleMargin" style="margin-top:5px;"></div><div class="teaser-container mt2"></div><div id="footer_ctl06_TeaserMargin"></div><div id="footer_ctl06_pnlRelatedArticle"></div><div id="footer_ctl06_sublinkMarginTop" class="clear mt8"></div></div></div></div></div></div><div id="footer_ctl06_boxVertDivider" class="vertical-line mt10" style="height:230px;"></div><div id="footer_ctl07_HybridBox" class="round-box HybridBox box HybridBox" style="background-color:;width:128px;height:230px;"><div id="footer_ctl07_WhiteBorderBox" class=" box HybridBox icon-none"><div id="footer_ctl07_HybridBox_Header" class="boxHeading fL" style="width:100%;"><a id="footer_ctl07_lnkHeadline" class="text-decoration-none" href="/health/news.aspx" style="color:#f6923d;"><span id="footer_ctl07_headlineCtrl" class="boxName" style="background-color:#ffffff;"><span id="footer_ctl07_lblHeadline" style="color:#f6923d;"><span style="font-family: Trebuchet MS; font-size: 13px; font-weight: bold;">NEWS</span></span></span></a></div><div id="footer_ctl07_HybridBoxBorder" class="HybridBoxBorder inline bg-white fL" style="width:128px;height:230px;"><div id="footer_ctl07_HybridBoxInner" class="fL" style="padding-right:5px;padding-left:4px;width:117px;height:229px;"><div id="footer_ctl07_pnlImageContainer" class="aC"><a title="Salmon"><img src="http://images.lifescript.com/Media/Taxonomy/food/fish/Salmon_box.jpg" style="border-width:0px;width:100px;height:115px;border:1px solid #ccc;"></a><br></div><div id="footer_ctl07_pnlContent" class="content clear w100percent" style="margin-top:5px;"><div class="clear"><a id="footer_ctl07_lnkFeatureArticle" class="cBanner" href="/health/news/reuters/2012/05/10/fish_tied_to_lower_colon_cancer_risk_study.aspx" style="color:#636363;"><span class="h4Class m0 Pad0" style="margin-bottom:5px;"><span id="footer_ctl07_lblFeatureArticle" class="featureArticle" style="color:#636363;"><p>Fish Lowers Colon Cancer Risk</p></span></span></a></div><div id="footer_ctl07_ArticleMargin" style="margin-top:5px;"></div><div class="teaser-container mt2"></div><div id="footer_ctl07_TeaserMargin"></div><div id="footer_ctl07_sublinkMarginTop" class="clear mt8"></div></div></div></div></div></div><div id="footer_ctl08_HybridBox" class="round-box HybridBox bg-white m1 box HybridBox" style="width:125px;height:230px;"><div id="footer_ctl08_WhiteBorderBox" class=" box HybridBox icon-none"><div id="footer_ctl08_HybridBox_Header" class="boxHeading fL" style="width:100%;"><a id="footer_ctl08_lnkHeadline" class="text-decoration-none" href="/quizzes.aspx" style="color:#f6923d;"><span id="footer_ctl08_headlineCtrl" class="boxName" style="background-color:#ffffff;"><span id="footer_ctl08_lblHeadline" style="color:#f6923d;"><span style="font-family: Trebuchet MS; font-size: 13px; font-weight: bold;">QUIZZES</span></span></span></a></div><div id="footer_ctl08_HybridBoxBorder" class="HybridBoxBorder inline bg-white fL" style="width:125px;height:230px;"><div id="footer_ctl08_HybridBoxInner" class="bg-white m1" style="padding-right:5px;padding-left:4px;width:114px;height:229px;"><div id="footer_ctl08_pnlImageContainer" class="aC" style="margin-right:10px;"><a title="shopping_bags_01"><img src="http://images.lifescript.com/Media/Taxonomy/fashion/Shopping/shopping_bags_01_box.jpg" style="border-width:0px;width:100px;height:115px;border:1px solid #ccc;"></a><br></div><div id="footer_ctl08_pnlContent" class="content clear w100percent" style="margin-top:5px;"><div class="clear"><a id="footer_ctl08_lnkFeatureArticle" class="cBanner" href="/quizzes/fashion/are_you_a_shopaholic.aspx" style="color:#636363;"><span class="h4Class m0 Pad0" style="margin-bottom:5px;"><span id="footer_ctl08_lblFeatureArticle" class="featureArticle" style="color:#636363;"><p>Are You a Shopaholic?</p></span></span></a></div><div id="footer_ctl08_ArticleMargin" style="margin-top:5px;"></div><div class="teaser-container mt2"></div><div id="footer_ctl08_TeaserMargin"></div><div id="footer_ctl08_pnlRelatedArticle"></div><div id="footer_ctl08_sublinkMarginTop" class="clear mt8"></div></div></div></div></div></div>
     </div>
-    <div id="ctl07_divBottomBannerAd">
+    <div id="footer_divBottomBannerAd">
         <div class="line"></div>
         <div style="float:left; margin: 10px 0 10px 110px"><div id="bottomad" class="fL"><script type="text/javascript">
-          setTimeout("GetAd('6','2', 'Lifescript;;path=AboutLifeScript/Terms_of_use/PrivacyPolicy;subchannel=index','','','lfs2.lifescript','','728','90', 'bottomad')", 10);
-          function RefreshBottomAd()
-          {
-          RefreshAd('6','2', 'Lifescript;;path=AboutLifeScript/Terms_of_use/PrivacyPolicy;subchannel=index','','','lfs2.lifescript','','728','90');
-          }
-        </script></div><img src="http://images.lifescript.com/www/LifeScript/channels/common/footer/vert_ad.gif"></div>
+        setTimeout("GetAd('6','2', gDartTag, gContexts, gCampaigns, gAdFlag,'','728','90', 'bottomad')", 10);
+        function RefreshBottomAd()
+        {
+        RefreshAd('6','2', gDartTag, gContexts, gCampaigns, gAdFlag,'','728','90', 'bottomad');
+        }
+      </script></div><img src="http://images.lifescript.com/www/LifeScript/channels/common/footer/vert_ad.gif"></div>
     </div>
     <div>
-        <img id="ctl07_smHeaderLeftImg" class="smHeaderLeftImg" src="http://images.lifescript.com/images/homepage/Left_sitemapBar.jpg" style="border-width:0px;">
-        <span id="ctl07_smLifescriptHeader" class="smLifescriptTextHeader">lifescript</span>
-        <span id="ctl07_smSitemapHeader" class="smSitemapTextHeader">site map</span>
-        <img id="ctl07_smheaderRightImg" class="smHeaderRightImg" src="http://images.lifescript.com/images/homepage/Right_sitemapBar.jpg" style="border-width:0px;">
+        <img id="footer_smHeaderLeftImg" class="smHeaderLeftImg" src="http://images.lifescript.com/images/homepage/Left_sitemapBar.jpg" style="border-width:0px;">
+        <span id="footer_smLifescriptHeader" class="smLifescriptTextHeader">lifescript</span>
+        <span id="footer_smSitemapHeader" class="smSitemapTextHeader">site map</span>
+        <img id="footer_smheaderRightImg" class="smHeaderRightImg" src="http://images.lifescript.com/images/homepage/Right_sitemapBar.jpg" style="border-width:0px;">
     </div>
     <div id="FooterSiteMapContainer" class="clear mt20 sitemapBkg">
-        <div id="ctl07_sitemapColumn1_pnlColumn" class="sitemapColumn sitemapFirstColumn">
+        <div id="footer_sitemapColumn1_pnlColumn" class="sitemapColumn sitemapFirstColumn">
 	
-    <div id="ctl07_sitemapColumn1_pnlSectionHeader" class="sitemapHeaderDiv">
+    <div id="footer_sitemapColumn1_pnlSectionHeader" class="sitemapHeaderDiv">
 		
-        <a id="ctl07_sitemapColumn1_sectionName" class="sitemapBoxHeaderText sitemapHeaderText" href="/Health.aspx">health</a>
+        <a id="footer_sitemapColumn1_sectionName" class="sitemapBoxHeaderText sitemapHeaderText" href="/health.aspx">health</a>
         <div class="sitemapLinkList">
         <ul>
             
                     <li>
-                        <a id="ctl07_sitemapColumn1_uxSiteMapLinksLoop_ctl00_sitemapLink" class="sitemapLinkListText" title="A-Z Reference" href="/Health/A-Z.aspx">A-Z Reference</a>
+                        <a id="footer_sitemapColumn1_uxSiteMapLinksLoop_ctl00_sitemapLink" class="sitemapLinkListText" title="Women’s Health Centers | Health A to Z: Most Common Health Conditions " href="/health/centers.aspx">Health Centers</a>
                     </li>
                 
                     <li>
-                        <a id="ctl07_sitemapColumn1_uxSiteMapLinksLoop_ctl01_sitemapLink" class="sitemapLinkListText" title="Health Calendar " href="/Health/Calendar.aspx">Calendar</a>
+                        <a id="footer_sitemapColumn1_uxSiteMapLinksLoop_ctl01_sitemapLink" class="sitemapLinkListText" title="A-Z Reference" href="/health/a-z.aspx">A-Z Reference</a>
                     </li>
                 
                     <li>
-                        <a id="ctl07_sitemapColumn1_uxSiteMapLinksLoop_ctl02_sitemapLink" class="sitemapLinkListText" title="Everyday Care" href="/Health/Everyday-Care.aspx">Everyday Care</a>
+                        <a id="footer_sitemapColumn1_uxSiteMapLinksLoop_ctl02_sitemapLink" class="sitemapLinkListText" title="Top Conditions" href="/health/conditions.aspx">Top Conditions</a>
                     </li>
                 
                     <li>
-                        <a id="ctl07_sitemapColumn1_uxSiteMapLinksLoop_ctl03_sitemapLink" class="sitemapLinkListText" title="Family Health" href="/Health/Family_Health.aspx">Family Health</a>
+                        <a id="footer_sitemapColumn1_uxSiteMapLinksLoop_ctl03_sitemapLink" class="sitemapLinkListText" title="Everyday Care" href="/health/everyday-care.aspx">Everyday Care</a>
                     </li>
                 
                     <li>
-                        <a id="ctl07_sitemapColumn1_uxSiteMapLinksLoop_ctl04_sitemapLink" class="sitemapLinkListText" title="Women’s Health Centers | Health A to Z: Most Common Health Conditions " href="/Health/Centers.aspx">Health Centers</a>
+                        <a id="footer_sitemapColumn1_uxSiteMapLinksLoop_ctl04_sitemapLink" class="sitemapLinkListText" title="Natural Health" href="/health/alternative-therapies.aspx">Natural Health</a>
                     </li>
                 
                     <li>
-                        <a id="ctl07_sitemapColumn1_uxSiteMapLinksLoop_ctl05_sitemapLink" class="sitemapLinkListText" title="How Tos" href="/Health/How_Tos.aspx">How Tos</a>
+                        <a id="footer_sitemapColumn1_uxSiteMapLinksLoop_ctl05_sitemapLink" class="sitemapLinkListText" title="Family Health" href="/health/family_health.aspx">Family Health</a>
                     </li>
                 
                     <li>
-                        <a id="ctl07_sitemapColumn1_uxSiteMapLinksLoop_ctl06_sitemapLink" class="sitemapLinkListText" title="Natural Health" href="/Health/Alternative-Therapies.aspx">Natural Health</a>
+                        <a id="footer_sitemapColumn1_uxSiteMapLinksLoop_ctl06_sitemapLink" class="sitemapLinkListText" title="Health Calendar " href="/health/calendar.aspx">Calendar</a>
                     </li>
                 
                     <li>
-                        <a id="ctl07_sitemapColumn1_uxSiteMapLinksLoop_ctl07_sitemapLink" class="sitemapLinkListText" title="News" href="/Health/News.aspx">News</a>
-                    </li>
-                
-                    <li>
-                        <a id="ctl07_sitemapColumn1_uxSiteMapLinksLoop_ctl08_sitemapLink" class="sitemapLinkListText" title="Top Conditions" href="/Health/Conditions.aspx">Top Conditions</a>
+                        <a id="footer_sitemapColumn1_uxSiteMapLinksLoop_ctl07_sitemapLink" class="sitemapLinkListText" title="News" href="/health/news.aspx">News</a>
                     </li>
                 
         </ul>
@@ -787,33 +714,33 @@ function GetContent(type)
 
 </div>
 
-<img id="ctl07_sitemapColumn1_shadowDivider" class="sitemapFooterShadowDivider" src="http://images.lifescript.com/images/homepage/Divider_shadow.png" style="border-width:0px;">
-        <div id="ctl07_sitemapColumn2_pnlColumn" class="sitemapColumn">
+<img id="footer_sitemapColumn1_shadowDivider" class="sitemapFooterShadowDivider" src="http://images.lifescript.com/images/homepage/Divider_shadow.png" style="border-width:0px;">
+        <div id="footer_sitemapColumn2_pnlColumn" class="sitemapColumn">
 	
-    <div id="ctl07_sitemapColumn2_pnlSectionHeader" class="sitemapHeaderDiv">
+    <div id="footer_sitemapColumn2_pnlSectionHeader" class="sitemapHeaderDiv">
 		
-        <a id="ctl07_sitemapColumn2_sectionName" class="sitemapBoxHeaderText sitemapHeaderText" href="/Body.aspx">body</a>
+        <a id="footer_sitemapColumn2_sectionName" class="sitemapBoxHeaderText sitemapHeaderText" href="/diet-fitness.aspx">diet &amp; fitness</a>
         <div class="sitemapLinkList">
         <ul>
             
                     <li>
-                        <a id="ctl07_sitemapColumn2_uxSiteMapLinksLoop_ctl00_sitemapLink" class="sitemapLinkListText" title="Diet Plans | Diet Tips | Lose Weight | Diet Buzz | Eat Well" href="/Body/Diet.aspx">Diet</a>
+                        <a id="footer_sitemapColumn2_uxSiteMapLinksLoop_ctl00_sitemapLink" class="sitemapLinkListText" title="Diet Plans A-Z" href="/diet-fitness/diet-fitness_a-z/diet_plans_a-z.aspx">Diet &amp; Fitness A-Z</a>
                     </li>
                 
                     <li>
-                        <a id="ctl07_sitemapColumn2_uxSiteMapLinksLoop_ctl01_sitemapLink" class="sitemapLinkListText" title="Food Facts | Food Slideshows | Good Foods | Reader Recipes" href="/Body/Food.aspx">Food</a>
+                        <a id="footer_sitemapColumn2_uxSiteMapLinksLoop_ctl01_sitemapLink" class="sitemapLinkListText" title="Diet Center" href="/diet-fitness/diet_center.aspx">Diet Center</a>
                     </li>
                 
                     <li>
-                        <a id="ctl07_sitemapColumn2_uxSiteMapLinksLoop_ctl02_sitemapLink" class="sitemapLinkListText" title="Looks" href="/Body/Looks.aspx">Looks</a>
+                        <a id="footer_sitemapColumn2_uxSiteMapLinksLoop_ctl02_sitemapLink" class="sitemapLinkListText" title="Fitness Center" href="/diet-fitness/fitness_center.aspx">Fitness Center</a>
                     </li>
                 
                     <li>
-                        <a id="ctl07_sitemapColumn2_uxSiteMapLinksLoop_ctl03_sitemapLink" class="sitemapLinkListText" title="Shape | Workout | Workout Plans | Spot Check" href="/Body/Shape.aspx">Diet</a>
+                        <a id="footer_sitemapColumn2_uxSiteMapLinksLoop_ctl03_sitemapLink" class="sitemapLinkListText" title="Diet &amp; Fitness Rx" href="/diet-fitness/diet-fitness_rx.aspx">Diet &amp; Fitness Rx</a>
                     </li>
                 
                     <li>
-                        <a id="ctl07_sitemapColumn2_uxSiteMapLinksLoop_ctl04_sitemapLink" class="sitemapLinkListText" title="Style" href="/Body/Style.aspx">Style</a>
+                        <a id="footer_sitemapColumn2_uxSiteMapLinksLoop_ctl04_sitemapLink" class="sitemapLinkListText" title="Diet &amp; FitnessDiet &amp; Fitness Experts Experts" href="/diet-fitness/experts.aspx">Diet &amp; Fitness Experts</a>
                     </li>
                 
         </ul>
@@ -823,33 +750,29 @@ function GetContent(type)
 
 </div>
 
-<img id="ctl07_sitemapColumn2_shadowDivider" class="sitemapFooterShadowDivider" src="http://images.lifescript.com/images/homepage/Divider_shadow.png" style="border-width:0px;">
-        <div id="ctl07_sitemapColumn3_pnlColumn" class="sitemapColumn">
+<img id="footer_sitemapColumn2_shadowDivider" class="sitemapFooterShadowDivider" src="http://images.lifescript.com/images/homepage/Divider_shadow.png" style="border-width:0px;">
+        <div id="footer_sitemapColumn3_pnlColumn" class="sitemapColumn">
 	
-    <div id="ctl07_sitemapColumn3_pnlSectionHeader" class="sitemapHeaderDiv">
+    <div id="footer_sitemapColumn3_pnlSectionHeader" class="sitemapHeaderDiv">
 		
-        <a id="ctl07_sitemapColumn3_sectionName" class="sitemapBoxHeaderText sitemapHeaderText" href="/Life.aspx">life</a>
+        <a id="footer_sitemapColumn3_sectionName" class="sitemapBoxHeaderText sitemapHeaderText" href="/food.aspx">food</a>
         <div class="sitemapLinkList">
         <ul>
             
                     <li>
-                        <a id="ctl07_sitemapColumn3_uxSiteMapLinksLoop_ctl00_sitemapLink" class="sitemapLinkListText" title="Family" href="/Life/Family.aspx">Family</a>
+                        <a id="footer_sitemapColumn3_uxSiteMapLinksLoop_ctl00_sitemapLink" class="sitemapLinkListText" title="Healthy Eating Guide | Guide to Healthy Eating for Women" href="/food/healthy_eating_guides.aspx">Healthy Eating Guides</a>
                     </li>
                 
                     <li>
-                        <a id="ctl07_sitemapColumn3_uxSiteMapLinksLoop_ctl01_sitemapLink" class="sitemapLinkListText" title="Money" href="/Life/Money.aspx">Money</a>
+                        <a id="footer_sitemapColumn3_uxSiteMapLinksLoop_ctl01_sitemapLink" class="sitemapLinkListText" title="Healthy Food Recipes | Guide to Healthy Eating for Women" href="/food/healthy_recipes.aspx">Healthy Recipes</a>
                     </li>
                 
                     <li>
-                        <a id="ctl07_sitemapColumn3_uxSiteMapLinksLoop_ctl02_sitemapLink" class="sitemapLinkListText" title="Relationships" href="/Life/Relationships.aspx">Relationships</a>
+                        <a id="footer_sitemapColumn3_uxSiteMapLinksLoop_ctl02_sitemapLink" class="sitemapLinkListText" title="Food Quizzes" href="/food/quizzes.aspx">Food Quizzes</a>
                     </li>
                 
                     <li>
-                        <a id="ctl07_sitemapColumn3_uxSiteMapLinksLoop_ctl03_sitemapLink" class="sitemapLinkListText" title="Sex" href="/Life/Sex.aspx">Sex</a>
-                    </li>
-                
-                    <li>
-                        <a id="ctl07_sitemapColumn3_uxSiteMapLinksLoop_ctl04_sitemapLink" class="sitemapLinkListText" title="Timeout" href="/Life/Timeout.aspx">Timeout</a>
+                        <a id="footer_sitemapColumn3_uxSiteMapLinksLoop_ctl03_sitemapLink" class="sitemapLinkListText" title="" href="http://www.lifescript.com/doctor-directory/specialty/nutrition.aspx">Find A Nutritionist</a>
                     </li>
                 
         </ul>
@@ -859,25 +782,33 @@ function GetContent(type)
 
 </div>
 
-<img id="ctl07_sitemapColumn3_shadowDivider" class="sitemapFooterShadowDivider" src="http://images.lifescript.com/images/homepage/Divider_shadow.png" style="border-width:0px;">
-        <div id="ctl07_sitemapColumn4_pnlColumn" class="sitemapColumn">
+<img id="footer_sitemapColumn3_shadowDivider" class="sitemapFooterShadowDivider" src="http://images.lifescript.com/images/homepage/Divider_shadow.png" style="border-width:0px;">
+        <div id="footer_sitemapColumn4_pnlColumn" class="sitemapColumn">
 	
-    <div id="ctl07_sitemapColumn4_pnlSectionHeader" class="sitemapHeaderDiv">
+    <div id="footer_sitemapColumn4_pnlSectionHeader" class="sitemapHeaderDiv">
 		
-        <a id="ctl07_sitemapColumn4_sectionName" class="sitemapBoxHeaderText sitemapHeaderText" href="/Soul.aspx">soul</a>
+        <a id="footer_sitemapColumn4_sectionName" class="sitemapBoxHeaderText sitemapHeaderText" href="/life.aspx">life</a>
         <div class="sitemapLinkList">
         <ul>
             
                     <li>
-                        <a id="ctl07_sitemapColumn4_uxSiteMapLinksLoop_ctl00_sitemapLink" class="sitemapLinkListText" title="Horoscope" href="/Soul/Horoscope.aspx">Horoscope</a>
+                        <a id="footer_sitemapColumn4_uxSiteMapLinksLoop_ctl00_sitemapLink" class="sitemapLinkListText" title="Family" href="/life/family.aspx">Family</a>
                     </li>
                 
                     <li>
-                        <a id="ctl07_sitemapColumn4_uxSiteMapLinksLoop_ctl01_sitemapLink" class="sitemapLinkListText" title="Self" href="/Soul/Self.aspx">Self</a>
+                        <a id="footer_sitemapColumn4_uxSiteMapLinksLoop_ctl01_sitemapLink" class="sitemapLinkListText" title="Money" href="/life/money.aspx">Money</a>
                     </li>
                 
                     <li>
-                        <a id="ctl07_sitemapColumn4_uxSiteMapLinksLoop_ctl02_sitemapLink" class="sitemapLinkListText" title="Spirit" href="/Soul/Spirit.aspx">Spirit</a>
+                        <a id="footer_sitemapColumn4_uxSiteMapLinksLoop_ctl02_sitemapLink" class="sitemapLinkListText" title="Relationships" href="/life/relationships.aspx">Relationships</a>
+                    </li>
+                
+                    <li>
+                        <a id="footer_sitemapColumn4_uxSiteMapLinksLoop_ctl03_sitemapLink" class="sitemapLinkListText" title="Sex" href="/life/sex.aspx">Sex</a>
+                    </li>
+                
+                    <li>
+                        <a id="footer_sitemapColumn4_uxSiteMapLinksLoop_ctl04_sitemapLink" class="sitemapLinkListText" title="Timeout" href="/life/timeout.aspx">Timeout</a>
                     </li>
                 
         </ul>
@@ -887,41 +818,25 @@ function GetContent(type)
 
 </div>
 
-<img id="ctl07_sitemapColumn4_shadowDivider" class="sitemapFooterShadowDivider" src="http://images.lifescript.com/images/homepage/Divider_shadow.png" style="border-width:0px;">
-        <div id="ctl07_sitemapColumn5_pnlColumn" class="sitemapColumn">
+<img id="footer_sitemapColumn4_shadowDivider" class="sitemapFooterShadowDivider" src="http://images.lifescript.com/images/homepage/Divider_shadow.png" style="border-width:0px;">
+        <div id="footer_sitemapColumn5_pnlColumn" class="sitemapColumn">
 	
-    <div id="ctl07_sitemapColumn5_pnlSectionHeader" class="sitemapHeaderDiv">
+    <div id="footer_sitemapColumn5_pnlSectionHeader" class="sitemapHeaderDiv">
 		
-        <a id="ctl07_sitemapColumn5_sectionName" class="sitemapBoxHeaderText sitemapHeaderText" href="/Connect.aspx">connect</a>
+        <a id="footer_sitemapColumn5_sectionName" class="sitemapBoxHeaderText sitemapHeaderText" href="/soul.aspx">soul</a>
         <div class="sitemapLinkList">
         <ul>
             
                     <li>
-                        <a id="ctl07_sitemapColumn5_uxSiteMapLinksLoop_ctl00_sitemapLink" class="sitemapLinkListText" title="Be Social!" href="/Connect/Be_Social.aspx">Be Social!</a>
+                        <a id="footer_sitemapColumn5_uxSiteMapLinksLoop_ctl00_sitemapLink" class="sitemapLinkListText" title="Horoscope" href="/soul/horoscope.aspx">Horoscope</a>
                     </li>
                 
                     <li>
-                        <a id="ctl07_sitemapColumn5_uxSiteMapLinksLoop_ctl01_sitemapLink" class="sitemapLinkListText" title="" href="http://www.facebook.com/lifescript.health">Facebook</a>
+                        <a id="footer_sitemapColumn5_uxSiteMapLinksLoop_ctl01_sitemapLink" class="sitemapLinkListText" title="Self" href="/soul/self.aspx">Self</a>
                     </li>
                 
                     <li>
-                        <a id="ctl07_sitemapColumn5_uxSiteMapLinksLoop_ctl02_sitemapLink" class="sitemapLinkListText" title="" href="http://healthbistro.lifescript.com/">Health Bistro Blog</a>
-                    </li>
-                
-                    <li>
-                        <a id="ctl07_sitemapColumn5_uxSiteMapLinksLoop_ctl03_sitemapLink" class="sitemapLinkListText" title="House Calls by Dr. Ed Geehr" href="/Blogs/Ed_Geehr.aspx">House Calls Blog</a>
-                    </li>
-                
-                    <li>
-                        <a id="ctl07_sitemapColumn5_uxSiteMapLinksLoop_ctl04_sitemapLink" class="sitemapLinkListText" title="Team" href="/AboutLifeScript/Team.aspx">Meet The Team</a>
-                    </li>
-                
-                    <li>
-                        <a id="ctl07_sitemapColumn5_uxSiteMapLinksLoop_ctl05_sitemapLink" class="sitemapLinkListText" title="Success Stories" href="/Connect/Success_Stories.aspx">Success Stories</a>
-                    </li>
-                
-                    <li>
-                        <a id="ctl07_sitemapColumn5_uxSiteMapLinksLoop_ctl06_sitemapLink" class="sitemapLinkListText" title="" href="http://twitter.com/#!/Lifescript">Twitter</a>
+                        <a id="footer_sitemapColumn5_uxSiteMapLinksLoop_ctl02_sitemapLink" class="sitemapLinkListText" title="Spirit" href="/soul/spirit.aspx">Spirit</a>
                     </li>
                 
         </ul>
@@ -931,33 +846,33 @@ function GetContent(type)
 
 </div>
 
-<img id="ctl07_sitemapColumn5_shadowDivider" class="sitemapFooterShadowDivider" src="http://images.lifescript.com/images/homepage/Divider_shadow.png" style="border-width:0px;">
-        <div id="ctl07_sitemapColumn6_pnlColumn" class="sitemapColumn">
+<img id="footer_sitemapColumn5_shadowDivider" class="sitemapFooterShadowDivider" src="http://images.lifescript.com/images/homepage/Divider_shadow.png" style="border-width:0px;">
+        <div id="footer_sitemapColumn6_pnlColumn" class="sitemapColumn">
 	
-    <div id="ctl07_sitemapColumn6_pnlSectionHeader" class="sitemapHeaderDiv">
+    <div id="footer_sitemapColumn6_pnlSectionHeader" class="sitemapHeaderDiv">
 		
-        <a id="ctl07_sitemapColumn6_sectionName" class="sitemapBoxHeaderText sitemapHeaderText" href="/sitecore/content/Global/sitemap/column6.aspx">healthy tools</a>
+        <a id="footer_sitemapColumn6_sectionName" class="sitemapBoxHeaderText sitemapHeaderText">healthy tools</a>
         <div class="sitemapLinkList">
         <ul>
             
                     <li>
-                        <a id="ctl07_sitemapColumn6_uxSiteMapLinksLoop_ctl00_sitemapLink" class="sitemapLinkListText" title="Find a Doctor" href="/Doctor-Directory/index.aspx">Doctor Finder</a>
+                        <a id="footer_sitemapColumn6_uxSiteMapLinksLoop_ctl00_sitemapLink" class="sitemapLinkListText" title="Find a Doctor" href="/doctor-directory/index.aspx">Doctor Finder</a>
                     </li>
                 
                     <li>
-                        <a id="ctl07_sitemapColumn6_uxSiteMapLinksLoop_ctl01_sitemapLink" class="sitemapLinkListText" title="Experts" href="/Experts.aspx">Experts</a>
+                        <a id="footer_sitemapColumn6_uxSiteMapLinksLoop_ctl01_sitemapLink" class="sitemapLinkListText" title="Experts" href="/experts.aspx">Experts</a>
                     </li>
                 
                     <li>
-                        <a id="ctl07_sitemapColumn6_uxSiteMapLinksLoop_ctl02_sitemapLink" class="sitemapLinkListText" title="Women's Health Quizzes, Astrology Quizzes, Celebrity Quizzes, Personality Quizzes, Relationship Quizzes" href="/Quizzes.aspx">Quizzes</a>
+                        <a id="footer_sitemapColumn6_uxSiteMapLinksLoop_ctl02_sitemapLink" class="sitemapLinkListText" title="Women's Health Quizzes, Astrology Quizzes, Celebrity Quizzes, Personality Quizzes, Relationship Quizzes" href="/quizzes.aspx">Quizzes</a>
                     </li>
                 
                     <li>
-                        <a id="ctl07_sitemapColumn6_uxSiteMapLinksLoop_ctl03_sitemapLink" class="sitemapLinkListText" title="Recipes" href="/Body/Food/Recipes.aspx">Recipes</a>
+                        <a id="footer_sitemapColumn6_uxSiteMapLinksLoop_ctl03_sitemapLink" class="sitemapLinkListText" title="Healthy Food Recipes | Guide to Healthy Eating for Women" href="/food/healthy_recipes.aspx">Recipes</a>
                     </li>
                 
                     <li>
-                        <a id="ctl07_sitemapColumn6_uxSiteMapLinksLoop_ctl04_sitemapLink" class="sitemapLinkListText" title="Tools" href="/Tools.aspx">Tools</a>
+                        <a id="footer_sitemapColumn6_uxSiteMapLinksLoop_ctl04_sitemapLink" class="sitemapLinkListText" title="Tools" href="/tools.aspx">Tools</a>
                     </li>
                 
         </ul>
@@ -973,19 +888,19 @@ function GetContent(type)
 
 <div class="sitemapHealthyDiv sitemapHealthyBkg">
     <div class="sitemapHealthyHeading">
-        <span id="ctl07_sitemapHealthy_healthyTitleLeft" class=" sitemapBoxHeaderText sitemapHealthyTitleLeft">lifescript</span>
-        <span id="ctl07_sitemapHealthy_healthyTitleRight" class="sitemapBoxHeaderText sitemapHealthyTitleRight">healthy solutions</span>
-        <span id="ctl07_sitemapHealthy_healthyDescription" class="sitemapHealthyDescription">Content in these special sections is created on behalf of our advisor partners</span>
+        <span id="footer_sitemapHealthy_healthyTitleLeft" class=" sitemapBoxHeaderText sitemapHealthyTitleLeft">lifescript</span>
+        <span id="footer_sitemapHealthy_healthyTitleRight" class="sitemapBoxHeaderText sitemapHealthyTitleRight">healthy solutions</span>
+        <span id="footer_sitemapHealthy_healthyDescription" class="sitemapHealthyDescription">Content in these special sections is created on behalf of our advertising partners</span>
     </div>
     <div class="sitemapHealthyLinks">
         
-                    <a id="ctl07_sitemapHealthy_uxSiteMapHealhtyLinksLoop_ctl00_sitemapHealhtyLink" title="Your Family's Respiratory Health" href="/Special/Your_Familys_Respiratory_Health.aspx">Your Family's Respiratory Health</a>
-                    <img id="ctl07_sitemapHealthy_uxSiteMapHealhtyLinksLoop_ctl00_healthyLinkDivider" src="http://images.lifescript.com/images/homepage/Pink_divider.jpg" style="border-width:0px;">
+                    <a id="footer_sitemapHealthy_uxSiteMapHealhtyLinksLoop_ctl00_sitemapHealhtyLink" title="Living With Hyperlipidemia" href="/special/living_with_hyperlipidemia.aspx">Living With Hyperlipidemia</a>
+                    <img id="footer_sitemapHealthy_uxSiteMapHealhtyLinksLoop_ctl00_healthyLinkDivider" src="http://images.lifescript.com/images/homepage/Pink_divider.jpg" style="border-width:0px;">
             
-                    <a id="ctl07_sitemapHealthy_uxSiteMapHealhtyLinksLoop_ctl01_sitemapHealhtyLink" title="Living With RA" href="/Special/Living_With_RA.aspx">Living With RA</a>
-                    <img id="ctl07_sitemapHealthy_uxSiteMapHealhtyLinksLoop_ctl01_healthyLinkDivider" src="http://images.lifescript.com/images/homepage/Pink_divider.jpg" style="border-width:0px;">
+                    <a id="footer_sitemapHealthy_uxSiteMapHealhtyLinksLoop_ctl01_sitemapHealhtyLink" title="Take a Breath, Take in Life" href="/special/take_a_breath_take_in_life.aspx">Take a Breath Take in Life</a>
+                    <img id="footer_sitemapHealthy_uxSiteMapHealhtyLinksLoop_ctl01_healthyLinkDivider" src="http://images.lifescript.com/images/homepage/Pink_divider.jpg" style="border-width:0px;">
             
-                    <a id="ctl07_sitemapHealthy_uxSiteMapHealhtyLinksLoop_ctl02_sitemapHealhtyLink" title="Your Guide to Feminine Care" href="/Special/Your_Guide_to_Feminine_Care.aspx">Your Guide to Feminine Care</a>
+                    <a id="footer_sitemapHealthy_uxSiteMapHealhtyLinksLoop_ctl02_sitemapHealhtyLink" title="Managing Your High Cholesterol" href="/special/managing_your_high_cholesterol.aspx">Managing Your High Cholesterol</a>
                     
             
     </div>
@@ -994,40 +909,46 @@ function GetContent(type)
 <div class="aboutLifescriptBar">
          <ul class="companyInfoLinks">
             <li>
-                <a id="ctl07_sitemapFooter_aboutLifescript" title="About Lifescript" href="/AboutLifeScript.aspx">About Lifescript</a>
-                <img id="ctl07_sitemapFooter_aboutDivider" src="http://images.lifescript.com/images/homepage/Gray_divider.jpg" style="border-width:0px;">
+                <a id="footer_sitemapFooter_aboutLifescript" title="About Lifescript" href="/aboutlifescript.aspx">About Lifescript</a>
+                <img id="footer_sitemapFooter_aboutDivider" src="http://images.lifescript.com/images/homepage/Gray_divider.jpg" style="border-width:0px;">
             </li>
             <li>
-                <a id="ctl07_sitemapFooter_contactUs" title="Contact Us" href="/ContactUs.aspx">Contact Us</a>
-                <img id="ctl07_sitemapFooter_contactDivider" src="http://images.lifescript.com/images/homepage/Gray_divider.jpg" style="border-width:0px;">
+                <a id="footer_sitemapFooter_contactUs" title="Contact Us" href="/contactus.aspx">Contact Us</a>
+                <img id="footer_sitemapFooter_contactDivider" src="http://images.lifescript.com/images/homepage/Gray_divider.jpg" style="border-width:0px;">
             </li>
             <li>
-                <a id="ctl07_sitemapFooter_privacyPolicy" title="Privacy Policy" href="/AboutLifeScript/Terms_of_use/PrivacyPolicy.aspx">Privacy Policy</a>
-                <img id="ctl07_sitemapFooter_privacyDivider" src="http://images.lifescript.com/images/homepage/Gray_divider.jpg" style="border-width:0px;">
+                <a id="footer_sitemapFooter_privacyPolicy" title="Privacy Policy" href="/aboutlifescript/terms_of_use/privacypolicy.aspx">Privacy Policy</a>
+                <img id="footer_sitemapFooter_privacyDivider" src="http://images.lifescript.com/images/homepage/Gray_divider.jpg" style="border-width:0px;">
             </li>
             <li>
-                <img id="ctl07_sitemapFooter_lifescriptMiniLogo" class="miniLogo" src="http://images.lifescript.com/images/homepage/lifescript-logo.png" style="border-width:0px;">
-                <img id="ctl07_sitemapFooter_lifescriptLogoDivider" src="http://images.lifescript.com/images/homepage/Gray_divider.jpg" style="border-width:0px;">
+                <img id="footer_sitemapFooter_lifescriptMiniLogo" class="miniLogo" src="http://images.lifescript.com/images/homepage/lifescript-logo.png" style="border-width:0px;">
+                <img id="footer_sitemapFooter_lifescriptLogoDivider" src="http://images.lifescript.com/images/homepage/Gray_divider.jpg" style="border-width:0px;">
             </li>
             <li>
-                <a id="ctl07_sitemapFooter_termsOfUse" title="Terms Of Use" href="/AboutLifeScript/Terms_of_use.aspx">Terms Of Use</a>
-                <img id="ctl07_sitemapFooter_termsDivider" src="http://images.lifescript.com/images/homepage/Gray_divider.jpg" style="border-width:0px;">
+                <a id="footer_sitemapFooter_termsOfUse" title="Terms Of Use" href="/aboutlifescript/terms_of_use.aspx">Terms Of Use</a>
+                <img id="footer_sitemapFooter_termsDivider" src="http://images.lifescript.com/images/homepage/Gray_divider.jpg" style="border-width:0px;">
             </li>
             <li>
-                <a id="ctl07_sitemapFooter_spamPolicy" title="Spam Policy" href="/AboutLifeScript/Terms_of_use/SpamPolicy.aspx">Spam Policy</a>
-                <img id="ctl07_sitemapFooter_spamDivider" src="http://images.lifescript.com/images/homepage/Gray_divider.jpg" style="border-width:0px;">
+                <a id="footer_sitemapFooter_spamPolicy" title="Spam Policy" href="/aboutlifescript/terms_of_use/spampolicy.aspx">Spam Policy</a>
+                <img id="footer_sitemapFooter_spamDivider" src="http://images.lifescript.com/images/homepage/Gray_divider.jpg" style="border-width:0px;">
             </li>
             <li>
-                <a id="ctl07_sitemapFooter_products" title="Products" href="/Products.aspx">Products</a>
-                <img id="ctl07_sitemapFooter_productsDivider" src="http://images.lifescript.com/images/homepage/Gray_divider.jpg" style="border-width:0px;">
+                <a id="footer_sitemapFooter_products" title="Products" href="/products.aspx">Products</a>
+                <img id="footer_sitemapFooter_productsDivider" src="http://images.lifescript.com/images/homepage/Gray_divider.jpg" style="border-width:0px;">
             </li>
             <li>
-                <a id="ctl07_sitemapFooter_advertise" title="Advertise" href="/AboutLifeScript/Advertise.aspx">Advertise</a>
+                <a id="footer_sitemapFooter_advertise" title="Advertise" href="/aboutlifescript/advertise.aspx">Advertise</a>
             </li>
           </ul>
     </div>
     <div class="copyright">
-        Copyright © 1999 - 2011<a href="/"> - www.LifeScript.com</a> - All rights reserved
+        Copyright © 1999 - 2012<a href="/"> - www.LifeScript.com</a> - All rights reserved
+    </div>
+    <div id="2d1055b7-df11-4365-8b59-297adfdc0672" class="fR" style="border: 1px solid #ccc; border-radius: 5px;">
+        <script type="text/javascript" src="http://privacy-policy.truste.com/privacy-seal/LifeScript,-Inc-/asc?rid=2d1055b7-df11-4365-8b59-297adfdc0672"></script>
+        <a href="http://privacy.truste.com/privacy-seal/LifeScript,-Inc-/validation?rid=935653be-cb23-4d85-8333-f976125b41f2" title="TRUSTe online privacy certification" target="_blank">
+            <img style="border: none" src="http://privacy-policy.truste.com/privacy-seal/LifeScript,-Inc-/seal?rid=935653be-cb23-4d85-8333-f976125b41f2" alt="TRUSTe online privacy certification">
+        </a>
     </div>
     <div id="footer-nav-others" class="aC">
         <script type="text/javascript">
@@ -1060,6 +981,17 @@ function GetContent(type)
       EF_Tracking_Category = "";
     </script><img width="1" height="1" src="http://pixel1350.everesttech.net/1350/p?ev_transid={1AB0C77A-3278-44A0-9FED-FD91BCBD81C6}&amp;ev_pageview=1" alt="Efficient Frontier">
         </div>
+
+        <!-- 1x1 -->
+        <div id="OneByOneContainer">
+            <div id="ad1x1" style="display:inline;"><script type="text/javascript">
+          try {
+          var javascriptSource = GetAd('17', '1x1', gDartTag + ';dcopt=ist', gContexts, gCampaigns, gAdFlag, '', '1', '1', 'ad1x1');
+          document.write(unescape("%3Cscript src='" + javascriptSource + "' type='text/javascript'%3E%3C/script%3E"));
+          } catch (e) { };
+        </script></div>
+        </div>
+
         <!-- Google Adwords Tracking -->
         <div id="GoogleAdWordTrackingScript">
             <script type="text/javascript">
@@ -1081,9 +1013,25 @@ function GetContent(type)
         
         
     </div>
+
+    <script type="text/javascript">
+        var rfiPub = { ver: 7, publisher: 581, conversionID: 20484381 };
+        var rfiAds = new Array();
+    </script>
+    <script type="text/javascript" src="http://c1.rfihub.net/js/bcP.js"></script>
+    <noscript>
+        <iframe id="footer_rocketfuelIFrame" style="display:none;padding:0;margin:0" width="0" height="0" src="http://p.rfihub.com/ca.html?rb=581&amp;ca=20484381&amp;ra=129815922808666318"></iframe>
+    </noscript>
 </div>
             </div> 
-                
+            
+
+            <!-- mobile ad -->
+            
+
+<!-- javascript for mobile device to dispaly ads -->
+<span id="mobileAd_lblMobileAd"><script type="text/javascript">var mtuagent = navigator.userAgent.toLowerCase(); if ((mtuagent.match(/iphone/i) != null) || (mtuagent.match(/ipod/i) != null) || (mtuagent.match(/ipad/i) != null) || (mtuagent.match(/android/i) != null) || (mtuagent.match(/blackberry/i) != null)) { document.write('<script type="text/javascript" src="http://impel.mobiletheory.com/ad/mobiletheory.php?f=d&pid=MTQ2">'); document.write(""); }</script></span>
+
         </div>
      
 
@@ -1093,7 +1041,21 @@ Sys.Application.initialize();
 //]]>
 </script>
 </form>
+     <script type="text/javascript">
+         $LS(document).ready(function () {
+             var allHeight = $LS("#menuwrapper").innerHeight() + $LS(".contentwrapper").innerHeight() + $LS(".logo_ad_wrapper").innerHeight();
+             $("table.ad_bg td a.leftAdImg").height(allHeight);
+             $("table.ad_bg td a.rightAdImg").height(allHeight);
 
+             if ($LS.browser.msie && $LS.browser.version == "9.0") {
+                 if ($LS("ul.article-list li a span#articleListAnchorText").css("font-size") !== undefined) {
+                    var fontSize = $LS("ul.article-list li a span#articleListAnchorText").css("font-size");
+                    fontSize = fontSize.substring(0, fontSize.length - 2);
+                    $LS("ul.article-list li a span#articleListAnchorText").css("font-size", (parseInt(fontSize, 10) + 2) + "px");
+                }
+             }
+         });
+     </script> 
     <script type="text/javascript">
         //<![CDATA[
         (function() {
@@ -1111,5 +1073,4 @@ Sys.Application.initialize();
         //]]>
     </script><script charset="utf-8" type="text/javascript" src="http://www.disqus.com/forums/lifescript/get_num_replies_from_dsqid.js?"></script>
   
-
 </body></html>
