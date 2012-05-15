@@ -1,27 +1,29 @@
-<!--The following is the downloaded HTML source of the onekingslane.com privacy policy that was archived on 2011-10-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111011121635id_/https%3A//www.onekingslane.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onekingslane.com privacy policy that was archived on 2012-05-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120515235005id_/https%3A//www.onekingslane.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
-        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.14/jquery-ui.min.js"></script>        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="description" content="The world's top home decor brands and designers at up to 70% off retail. Free membership, new sales daily.">
+        <title>One Kings Lane</title>        <!--[if IE]><![endif]-->
+        <script type="text/javascript" src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.5.1.min.js"></script>
+<script type="text/javascript" src="https://ajax.aspnetcdn.com/ajax/jquery.ui/1.8.14/jquery-ui.min.js"></script>
+<script type="text/javascript" src="https://onekingslane.cachefly.net/common/js/lib/jquery.onAvailable-1.0.min.js?1336610265"></script>
+<script type="text/javascript" src="https://onekingslane.cachefly.net/store/js/jquery/cookie.js?1336610265"></script>        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="description" content="Spectacular home decor, gifts, kitchenware, and vintage finds, handpicked from top tastemakers and brands, up to 70% off.  New sales every day.">
+<meta name="keywords" content="Stark, Ralph Lauren, John Robshaw, ABC Carpet, Nathan Turner, Safavieh, Missoni, Kathryn Ireland, Martyn Lawrence Bullard, Frette, Baker, Barclay Butera, Jays, Massimo Vitali, Fabric, Slipcovers, Comforters, Bedding, Shower Curtains, Unique Shower Curtains, French Furniture, Home Décor, Vintage Furniture, Kids Furniture, Draperies">
 <meta name="WT.dcsvid" content="">        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta name="google-site-verification" content="hkAAyB3zpbOuoyLPbmhtCMASm0N6y2NwDwQrSUZmfK4">
-        <link rel="shortcut icon" href="/store/images/favicon.ico?1317419716">
-        <title>One Kings Lane</title>        <link href="/store/css/stylesheet.css?1317419716" media="screen" rel="stylesheet" type="text/css">
-<link href="/store/js/jquery/ui/themes/custom-theme/jquery-ui-1.8.5.custom.css?1317419716" media="screen" rel="stylesheet" type="text/css">
-<link href="/store/css/Footer/legal.css?1317419716" media="screen" rel="stylesheet" type="text/css">        <style type="text/css" media="screen">
+        <link rel="shortcut icon" href="/favicon.ico">
+        <link href="https://onekingslane.cachefly.net/store/css/stylesheet.css?1336610265" media="screen" rel="stylesheet" type="text/css">
+<link href="https://onekingslane.cachefly.net/store/js/jquery/ui/themes/custom-theme/jquery-ui-1.8.5.custom.css?1336610265" media="screen" rel="stylesheet" type="text/css">
+<link href="https://onekingslane.cachefly.net/store/css/Footer/legal.css?1336610265" media="screen" rel="stylesheet" type="text/css">        <style type="text/css" media="screen">
 <!--
        #wrapper { width: 625px; }
 
 -->
-</style>        <!--[if lte IE 7]>
-            <link href="/common/css/ie.css?1317419716" rel="stylesheet" type="text/css"/>
+</style>        <!--[if lt IE 9]>
+            <link href="/common/css/ie.css?1336610265" rel="stylesheet" type="text/css"/>
         <![endif]-->
-
-            </head>
+    </head>
     <body>
-        
         <div id="wrapper">
             <div id="pageContent">
                 
@@ -161,10 +163,29 @@
             </div>
             <div id="fb-root"><!-- --></div>
         </div>
-        <script type="text/javascript" src="/common/js/okl.js?1317419716"></script>        
+        <script type="text/javascript" src="https://onekingslane.cachefly.net/common/js/okl.js?1336610265"></script>        
+<!-- Tealium Implementation -->
 <script type="text/javascript">
+    $(window).load(function() {
+        $.getScript("//tealium.hs.llnwd.net/o43/utag/okl/main/prod/utag.js");
+    });
+</script>
 
-    
+<script type="text/javascript">
+//Header onhover menu for logout, orders, and my account links
+$('#okl-header .account .welcome').hover(function() {
+    $('#okl-header .account .user').show();
+}, function() {
+    $('#okl-header .account .user').hide();
+});
+
+
+
+$(document).ready(function() {
+    // Make a call to see if customer should be displayed a marketing offer
+    // based on segment. Guests see nothing
+    });
+
 <!-- Google Analytics start -->
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-8792844-1']);
@@ -177,9 +198,21 @@
   })();
 <!-- Google Analytics end -->
         var ometric = ometric || {};
-    ometric.track = function(data) { $.getJSON('https://tracker.onekingslane.com/rpt?uid=0&callback=?', data); };
+    ometric.kaminoServer = 'https://tracker.onekingslane.com/rpt';
+    ometric.kaminoPerfServer = 'https://tracker.onekingslane.com/perf';
+    ometric.query_params = [
+        ['uid', ].join('=')
+    ];
+    if (ometric) {
+        ometric.track = function(data) {
+            $.getJSON(ometric.kaminoServer + '?' + ometric.query_params.join("&") + '&callback=?', data);
+        };
+        ometric.perfTrack = function(data) {
+            $.getJSON(ometric.kaminoPerfServer + '?' + ometric.query_params.join("&") + '&callback=?', data);
+        };
+    }
     </script>
-
+        
         <!-- WebTrends -->
             <!-- START OF SmartSource Data Collector TAG -->
     <!-- Copyright (c) 1996-2011 Webtrends Inc.  All rights reserved. -->
@@ -272,7 +305,6 @@
     });
     </script>
 
-    
-            
+        
 
 </body></html>
