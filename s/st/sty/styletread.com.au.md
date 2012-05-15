@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the styletread.com.au privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208014545id_/http%3A//www.styletread.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styletread.com.au privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515131108id_/http%3A//www.styletread.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -62,7 +62,7 @@ If you believe that your privacy has been breached by StyleTread, you can contac
 
 **Collection of** **Computer** **Data**
 
-When you visit StyleTread.com.au, whether as an acount holder or a visitor, our servers and our [google analytics](http://www.google.com/intl/en/analytics/privacyoverview.html "google analytics") setup automatically records information that your browser sends whenever you visit a website.
+When you visit StyleTread.com.au, whether as an account holder or a visitor, our servers and our [google analytics](http://www.google.com/intl/en/analytics/privacyoverview.html "google analytics") setup automatically records information that your browser sends whenever you visit a website.
 
 This data may include information such as your computer’s Internet Protocol address, browser type or the webpage you were visiting before you came to our site, pages of our site that you visit, the time spent on those pages, information you search for on our site, access times and dates, and other statistics.
 
