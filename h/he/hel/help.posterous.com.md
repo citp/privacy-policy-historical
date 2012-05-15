@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the help.posterous.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209090848id_/http%3A//posterous.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the help.posterous.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515041740id_/http%3A//posterous.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Posterous
 
@@ -32,4 +32,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 ## How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please send us e-mail at [help@posterous.com](mailto:help@posterous.com).
+Should you have other questions or concerns about these privacy policies, please send us e-mail at [legal@posterous-inc.com](mailto:legal@posterous-inc.com).
