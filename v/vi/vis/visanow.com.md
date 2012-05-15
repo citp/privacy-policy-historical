@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the visanow.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103195828id_/http%3A//www.visanow.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visanow.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515100935id_/http%3A//www.visanow.com/index.php/privacy-statement) for the most accurate reproduction.*
 
-# VISANOW - Online U.S. Immigration and Visa Processing
+# Privacy StatementVISANOW | VISANOW
 
 VISANOW is committed to protecting the privacy of all users of our services and to maintaining applicable attorney-client privileges. Please review this policy to understand the steps VISANOW has taken to secure your personal information.
 
@@ -20,8 +20,8 @@ VISANOW will not disclose your personal information to any outside party without
 
 While navigating our Web Site, we may collect the following information from you to use in our efforts to provide the highest quality products:
 
-  * IP Address/OS/Software - Your Internet Protocol (IP) address, operating system (e.g., Windows XP), browser software (e.g., Internet Explorer) and other site usage data is used to gather broad demographic information. This data is viewed in aggregate and helps us serve you by allowing us to understand how visitors use our website.
-  * Cookies - We use a technology called "cookies," small files stored by your browser to help keep track of your user profile. Our cookies do not collect personally identifiable information, nor do we share them with anyone.
+  * IP Address/OS/Software – Your Internet Protocol (IP) address, operating system (e.g., Windows XP), browser software (e.g., Internet Explorer) and other site usage data is used to gather broad demographic information. This data is viewed in aggregate and helps us serve you by allowing us to understand how visitors use our website.
+  * Cookies – We use a technology called “cookies,” small files stored by your browser to help keep track of your user profile. Our cookies do not collect personally identifiable information, nor do we share them with anyone.
   * Registration and Subscription Services – VISANOW will collect information, including your name, email address, phone, and company name. The Information is stored in a secure manner and kept as you consented.
   * Case Management – Using VISANOW’s services will include providing an extensive amount of personal information for the preparation of petitions and applications. This information is password protected, and extreme care is taken so it is shared only with the attorneys and legal staff responsible for preparing the case, and with the government agencies that process the petitions and applications filed for immigrant and nonimmigrant benefits.
   * Credit Cards – As needed, credit card information will be transmitted from VISANOW through secure servers to our merchant provider. The data is strongly encrypted during transmission to ensure that personal and payment information is secure.
