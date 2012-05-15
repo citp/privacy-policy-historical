@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masterlock.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115214650id_/http%3A//www.masterlock.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterlock.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516000952id_/http%3A//www.masterlock.com/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement - Master Lock®
 
@@ -63,7 +63,7 @@ When you visit this Site, we leave a “Cookie” in the memory of your Web brow
 
 If you need information or have any questions or concerns about this Privacy Policy or our use of your Personal Information, or wish to review all of your Personal Information, you may contact our Director of E-Commerce Solutions & Data via e-mail at [masterlock@mlock.com](mailto:masterlock@mlock.com), or via mail at Master Lock Company LLC, World Headquarters, 137 W Forest Hill Avenue, PO Box 927, Oak Creek, WI 53154 or via phone at 800-464-2088.
 
-**This policy is effective as of March 15, 2011.**
+**This policy is effective as of March 15, 2012.**
 
 [Terms of Use](https://web.archive.org/legal_statement/)
 
@@ -72,4 +72,4 @@ PO Box 927
 Oak Creek, WI 53154  
 (800) 464-2088
 
-© 2011 Master Lock Company LLC. All rights reserved.
+© 2012 Master Lock Company LLC. All rights reserved.
