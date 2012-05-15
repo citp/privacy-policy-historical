@@ -1,37 +1,46 @@
-> *The following text is extracted and transformed from the mrisoftware.com privacy policy that was archived on 2011-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110914031606id_/http%3A//www.mrisoftware.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrisoftware.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515035001id_/http%3A//mrisoftware.com/privacy.aspx) for the most accurate reproduction.*
 
-# 
+# Privacy
 
-**MRI SOFTWARE, LLC PRIVACY STATEMENT**
+Collection of your Personal Information
 
-At MRI Software, we place the highest importance on respecting and protecting the privacy of our customers. Our most important asset is our relationship with you. We want you to feel comfortable and confident when using our Web site. Therefore, we would like to share with you the following principles that govern our information practices and other privacy aspects of our Web site. Throughout this policy, we refer to information that personally identifies you as “personal information.” 
+MRI collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. MRI also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
 
-**We protect your information**  
-We work to protect your personal information from loss, misuse or unauthorized alteration by using industry-recognized security safeguards. We use both internal and external resources to review our security procedures. Our employees are trained and required to safeguard your information. [Tell me more](http://www.mrisoftware.com/privacy/protectinfo.asp)
+There is also information about your computer hardware and software that is automatically collected by MRI. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used by MRI for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the MRI website.
 
-**We tell you how we use your information**  
-When we ask you for information, we will tell you, --or it will be clear --what we need to know to fulfill your request and how the information you provide to us will be used. For example, if you request a service from us, we may ask you for demographic and firmographic information to facilitate your request. In addition to responding to your request, we may use your information to tell you about products or services we think might interest you or to invite you to participate in a product or service-related survey. We will also tell you how we will use the information we’re asking for. Because of the financial nature of our business, our Web sites are not designed to appeal to children under the age of 13\. We do not knowingly request or receive any information from children. 
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through MRI public message boards, this information may be collected and used by others. MRI encourages you to review the privacy statements of websites you choose to link to from MRI so that you can understand how those websites collect, use and share your information. MRI is not responsible for the privacy statements or other content on websites outside of the MRI and MRI family of websites.
 
-*We do not sell or rent your personal information to anyone.  
-*We do not share your personal information with anyone outside of MRI Software for their promotional, including marketing, use. 
+Use of your Personal Information
 
-**We tell you about our relationships with third parties**  
-We have limited relationships with third parties to assist us in servicing you, for example, by fulfilling customer orders or providing customer service. These service providers are contractually required to maintain the confidentiality of the information we provide them. Additionally, we have business partners that provide services, some of which are co-branded. We clearly identify partner services and sites. When you request any of these products or services, you are permitting us to provide your personal information to the partner to fulfill your request. We may disclose your information if we are required to by a law enforcement action such as a court order, subpoena or search warrant. [Tell me more](http://www.mrisoftware.com/privacy/thirdparty.asp)
+MRI collects and uses your personal information to operate the MRI website and deliver the services you have requested. MRI also uses your personally identifiable information to inform you of other products or services available from MRI and its affiliates. MRI may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-**We tell you how we use Web technology**  
-Like many Web sites, we use technology, such as cookies, that allow us to make your visit to our Web site easier by recognizing you when you return and help to provide you with a customized experience. [Tell me more](http://www.mrisoftware.com/privacy/webtechnology.asp)
+MRI does not sell, rent or lease its customer lists to third parties. MRI may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, MRI may share data with trusted service providers to help us perform statistical analysis, send you email or postal mail, provide customer support, or otherwise assist MRI in providing our services and products to you. All such third parties are prohibited from using your personal information except to provide these services to MRI, and they are required to maintain the confidentiality of your information.
 
-**We give you choice and control**  
-We may use your contact information to tell you about other products we think might interest you. However, if you don't want us to contact you for promotional purposes, you can tell us when you provide the information. You may also specify your contact preferences by visiting our [Contact Change Form](https://web.archive.org/web/20110914031606id_/http%3A//CSLogin/ClientUpdate.asp). If you do not want to receive this type of information about MRI Software products and services, please visit our [Contact Change Form](https://web.archive.org/web/20110914031606id_/http%3A//CSLogin/ClientUpdate.asp). When you decide to decline promotional materials, you will still receive service communications, legally mandated notices, and critical messages that could impact your business and usage of the product. 
+MRI keeps track of the websites and pages our customers visit within MRI, in order to determine what MRI services are the most popular. This data is used to deliver customized content and advertising within MRI to customers whose behavior indicates that they are interested in a particular subject area. 
 
-You can update or correct your contact information anytime by visiting our [Contact Change Form](https://web.archive.org/web/20110914031606id_/http%3A//CSLogin/ClientUpdate.asp)[.](mailto:%20%20IRESprivacy@intuit.com)
+We utilize two third-party software providers, which use cookies, to help us understand how our clients are using our website and email communications. These providers are Google Analytics and Marketo. We use these services in accordance with our privacy policy; however, by using our website you agree to be subject to the terms and conditions of their respective privacy policies, which are linked below:
 
-**You can contact us**  
-If you have questions or concerns about MRI Software's collection, use, or disclosure of your personal information, please contact MRI Software's Privacy Team or write us at: 
+  * [Google Analytics](http://www.google.com/intl/en/analytics/privacyoverview.html)
+  * [Marketo](http://www.marketo.com/privacy.php)
 
-Privacy Team  
-MRI Software, LLC   
-20800 Harvard Road  
-Highland Hills, OH 44122 
 
-If we make material changes to any of our privacy policies or practices regarding personal information we will update our statement and post a notice on our site 30 days before they take effect.
+
+MRI will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on MRI or the site; (b) protect and defend the rights or property of MRI; (c) act under exigent circumstances to protect the personal safety of users of MRI, or the public; or (d) perform obligations pursuant to a merger, acquisition of assets or other change of control. 
+
+Use of Cookies
+
+The MRI website uses "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize MRI pages, or register with the MRI site or any services, a cookie helps MRI to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same MRI website, the information you previously provided can be retrieved, so you can easily use the MRI features that you customized.
+
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the MRI services or websites you visit.
+
+Security of your Personal Information
+
+MRI takes measures to secure your personal information from unauthorized access, use or disclosure. MRI secures the personally identifiable information you provide on computer servers in a controlled, secure environment, with protections against unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+
+Changes to this Statement
+
+MRI will occasionally update this Statement of Privacy to reflect company and customer feedback or changes in its policies, security or protections. MRI encourages you to periodically review this Statement to be informed of how MRI is protecting your information.
+
+Contact Information
+
+MRI welcomes your comments regarding this Statement of Privacy. If you believe that MRI has not adhered to this Statement, or there is an issue with your personal information, please contact MRI at [legal@mrisoftware.com](mailto:legal@mrisoftware.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
