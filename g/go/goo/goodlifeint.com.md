@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodlifeint.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426130914id_/http%3A//www.goodlifeint.com/fru/pg/38608/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodlifeint.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515035051id_/http%3A//www.goodlifeint.com/fru/pg/38608/default.aspx) for the most accurate reproduction.*
 
 # Goodlife Sciences : Privacy Policy : Promoting a healthier life style with organic fruits,vegetables and herbs.
 
@@ -8,14 +8,14 @@
 www.goodlifeint.com using the following information:
 
 Goodlife Sciences LTD  
-International Finance Centre  
-Level 19 ,8 Finance  
+International Finance Tower  
+L 19 ,8 Finance Street  
 Central 1000  
 Hong Kong
 
 Email:  [info@goodlifeint.com  
 ](mailto:info@goodlifeint.com)  
-Telephone: 852-2251-1618  
+Telephone: 852-2251-8502  
 Fax: 852-2251-8502
 
 3\. Please review the Terms & Conditions of Usage.
@@ -58,9 +58,9 @@ Parent's e-mail:| _____________________________________________
   
   
  **Goodlife Sciences LTD  
-** International Finance Centre  
+** International Finance Tower  
 Central 1000  
 Hong Kong 
 
 Email: info@goodlifeint.com  
-Phone: 852-2251-1618
+Phone: 852-2251-8502
