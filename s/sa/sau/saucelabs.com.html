@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the saucelabs.com privacy policy that was archived on 2011-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111127100047id_/http%3A//saucelabs.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the saucelabs.com privacy policy that was archived on 2012-05-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120515031053id_/http%3A//saucelabs.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 
@@ -11,24 +11,39 @@
     <meta name="keywords" content="privacy policy, data privacy">
     <meta name="robots" content="all">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
     <link rel="icon" type="image/png" href="/images/global/favicon.ico">
     <link rel="alternate" title="saucelabs's Tweets" type="application/rss+xml" href="//twitter.com/statuses/user_timeline/16672130.rss">
-    <link href="/css/thickbox.css?1263961915" media="screen" rel="stylesheet" type="text/css">
-<link href="/css/grid.css?1278063588" media="screen" rel="stylesheet" type="text/css">
-<link href="/css/master.css?1318623937" media="screen" rel="stylesheet" type="text/css">
-<link href="/css/custom-theme/jquery-ui-1.8.7.custom.css?1305078665" media="screen" rel="stylesheet" type="text/css">
+    <link href="/css/core.css?1336006024" media="screen" rel="stylesheet" type="text/css">
+<link href="/css/custom-theme/jquery-ui-1.8.18.custom.css?1332372785" media="screen" rel="stylesheet" type="text/css">
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+  if (typeof window.console === 'undefined') {
+    window.console = {
+      log: function(obj) {},
+      warn: function(obj) {},
+      error: function(obj) {}
+    };
+  }
+
+  if (typeof window.console.log === 'undefined') {
+    window.console.log = function(obj) {};
+  }
+  if (typeof window.console.warn === 'undefined') {
+    window.console.warn = function(obj) {};
+  }
+  if (typeof window.console.error === 'undefined') {
+    window.console.error = function(obj) {};
+  }
     _MACBETAUSER = false;
 </script>
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js" type="text/javascript"></script>
-<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.9/jquery-ui.min.js" type="text/javascript"></script>
-<script src="/js/thickbox-compressed.js?1281984135" type="text/javascript"></script>
-<script src="/js/jquery.corner.js?1280189732" type="text/javascript"></script>
-<script src="/js/base.js?1314915781" type="text/javascript"></script>
-<script src="/js/jquery.url.js?1311726618" type="text/javascript"></script>
-<script src="/js/scout/scoutchooser.js?1322005691" type="text/javascript"></script>
+<script src="/js/jquery/jquery.min.js?1328179306" type="text/javascript"></script>
+<script src="/js/jquery/jquery-ui-1.8.18.custom.min.js?1332372785" type="text/javascript"></script>
+<script src="/js/jquery/jquery.corner.js?1328179306" type="text/javascript"></script>
+<script src="/js/base.js?1335833297" type="text/javascript"></script>
+<script src="/js/jquery/jquery.url.js?1328179306" type="text/javascript"></script>
+<script src="/js/json2.js?1299226832" type="text/javascript"></script>
 
 <script type="text/javascript">
 var mp_protocol = (("https:" == document.location.protocol) ? "https://" : "http://");
@@ -38,7 +53,7 @@ document.write(unescape("%3Cscript src='" + mp_protocol + "api.mixpanel.com/site
 try {
     var mpmetrics = new MixpanelLib("78b9ba51131fae081e5fdf5ecc7b07a0");
 } catch(err) {
-    var null_fn = function (item, data, fn) { fn(); };
+    var null_fn = function (item, data, fn) { if (typeof fn !== 'undefined') fn(); };
     var mpmetrics = {
         track: null_fn,
         track_funnel: null_fn,
@@ -48,28 +63,37 @@ try {
         identify: null_fn
     };
 }
-mpmetrics.register({'distinct_id': 'e518bb590bad70d79d7f2245205c3550'})
+mpmetrics.register({"distinct_id": "cff6d8cec946013a5e2153e5f1cddfc4"});
     _USERNAME = null;
     _JS_DEBUG = false;
 
     _ACCESSKEY = null;
 </script>
 
+<script src="/js/scout/scoutchooser.js?1336968121" type="text/javascript"></script>
+
 
 
     <title>Privacy Policy - Sauce Labs</title>
 
+    
+    
+    
+    
     <style type="text/css">
         
+  body {
+    font-size: 90%;
+    color: rgba(0, 0, 0, 0.6);
+  }
 
     </style>
-
-    
-    
 </head>
 
 <body class="vanilla">
 
+    
+    <!--[if lt IE 7]> <div style=' clear: both; height: 59px; padding:0 0 0 15px; position: relative;'> <a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode"><img src="http://storage.ie6countdown.com/assets/100/images/banners/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." /></a></div> <![endif]-->
 
 
 
@@ -84,15 +108,12 @@ mpmetrics.register({'distinct_id': 'e518bb590bad70d79d7f2245205c3550'})
 </script>
 
 <div id="masthead">
-    <div id="mastheadInner">
-        <div id="mainLogo">
-            <a href="/"><img src="/images/logos/sauce_masthead_horizontal.png" width="200" height="80" alt="SauceLabs"></a>
-        </div>
+        <a href="/"><img id="mainLogo" src="/images/mast/logo21.png" alt="SauceLabs"></a>
         <div id="mainNav">
             <ul>
-                <li><a>Products</a>
+                <li><a style="cursor:pointer">Products</a>
                   <ul>
-                    <li><a href="/docs/scout">Scout - <span style="font-weight:normal">Manual</span></a></li>
+                    <li><a href="/scouthome">Scout - <span style="font-weight:normal">Visual</span></a></li>
                     <li><a href="/ondemand">OnDemand - <span style="font-weight:normal">Automated</span></a></li>
                   </ul>
                 </li>
@@ -101,20 +122,23 @@ mpmetrics.register({'distinct_id': 'e518bb590bad70d79d7f2245205c3550'})
                     <ul>
                         <li><a href="/docs" class="">Documentation</a></li>
                         <li><a href="http://support.saucelabs.com/forums">Forum</a></li>
+                        <li><a href="/downloads" class="">Downloads</a></li>
                         <li><a href="/about/webinars" class="">Webinars</a></li>
                         <li><a href="/about/videos" class="">Videos</a></li>
                         <li><a href="/tech-resources" class="">FAQ</a></li>
                         <li><a class="" href="http://saucelabs.com/blog">Blog</a></li>
                     </ul>
                 </li>
-                <li><a href="/about" class="">Company</a>
+                <li><a href="/about/team" class="">Company</a>
                     <ul>
                         <li><a href="/partners" class="">Partners</a></li>
                         <li><a href="/customers" class="">Customers</a></li>
                         <li><a href="/about/team" class="">Team</a></li>
                         <li><a href="/about/values" class="">Values</a></li>
-                        <li><a href="http://twitter.com/saucelabs">Twitter</a></li>
                         <li><a href="/about/news" class="">News</a></li>
+                        <li><a href="http://twitter.com/saucelabs">Twitter</a></li>
+                        <li><a href="/careers" class="">Careers</a></li>
+                        <li><a href="/internships" class="">Internships</a></li>
                         <li><a class="" href="/about/contact-us">Contact Us</a></li>
                     </ul>
 
@@ -123,17 +147,52 @@ mpmetrics.register({'distinct_id': 'e518bb590bad70d79d7f2245205c3550'})
             </ul>
         </div>
 
-        <div id="subNav">
-            <div class="job_counter">
-                    <span class="counter_number">9,416,202</span> Tests Executed
-            </div>
 
-            <div class="account_mast">
-                  <a href="https://saucelabs.com/login" style="float:left">LOGIN</a>
-                  <a style="float: left" href="/signup">SIGNUP</a>
-            </div>
-        </div>
-    </div>
+<div id="menubar" style="float:right;margin-right:30px;">
+  <ul class="right-align">
+      <li><a style="cursor:pointer" href="/signup">Signup</a>
+        <ul>
+        <form name="signupForm" action="https://saucelabs.com/signup" method="post">
+          <input type="hidden" name="minutes" value="200">
+          <h6>email</h6>
+          <input type="text" size="15" value="user@example.com" id="mast_signup_email" name="email" class="mast_email color_email">
+          <h6>username</h6>
+          <input type="text" size="15" value="username" id="mast_signup_username" name="username" class="mast_username color_username">
+          <h6>password</h6>
+          <input type="password" size="15" value="password" name="password" id="mast_signup_password" class="mast_password color_password">
+          <a href="javascript:void(0);" class="button signupButton">Sign me up</a>
+          <p style="padding: 0.5em 1em;color:rgb(96,96,96);font-size:70%;">
+          Signup is Free:<br>
+          200 minutes ondemand<br>
+          45 minutes scouting.
+          </p>
+        </form>
+        <li><a href="/pricing">Pick a different plan...</a></li>
+        <li><a href="/signup">Sign Up with gitHub</a></li>
+        <li><a href="/tos">Terms of Service</a></li>
+        </ul>
+      </li>
+      <li><a style="cursor:pointer" href="/login">Login</a>
+        <ul>
+          <form name="loginForm" action="https://saucelabs.com/login" method="post">
+          <h6>username</h6>
+          <input type="text" size="15" value="username" name="username" id="mast_login_username" class="mast_username color_username">
+          <h6>password</h6>
+          <input type="password" size="15" value="password" name="password" id="mast_login_password" class="mast_password color_password">
+          <h6 style="padding:0px;font-weight:normal"><input type="checkbox" name="remember-me" id="remember-me"> Remember me</h6>
+          <a href="#" class="button loginButton">Login</a>
+        </form>
+        <li><a href="/send-password-reset">Forgot Password</a></li>
+        <li><a href="/login">Login with gitHub</a></li>
+        </ul>
+      </li>
+  </ul>
+</div>
+
+<!--  <div class="job_counter">
+      <span>16,366,300</span> Tests Executed
+  </div> -->
+
 </div>
 
 
@@ -256,8 +315,8 @@ Examples of information you can access easily at saucelabs.com include up-to-dat
 
         </p></div>
     </div>
-    <br class="clear">
 
+    
     
     <div id="footerfloat">
         <div id="sitefooter">
@@ -265,33 +324,26 @@ Examples of information you can access easily at saucelabs.com include up-to-dat
     <div class="container">
     </div>
     <div class="container copyright">
-      <center>
-        <table style="width:60%">
-        <tbody><tr>
-        <td>
-        <div class="span-12">
-          <p>Copyright © 2011 Sauce Labs Inc. All rights reserved.</p>
+        <div style="float:left;padding-left:12%;padding-top:3px;">
+          <p>Copyright © 2012 Sauce Labs Inc. All rights reserved.</p>
         </div>
-        </td>
-        <td>
-        <div class="span-12 last right" style="margin-right:30px">
+        <div style="float:right;padding-right:12%;padding-top:3px;">
           <p><a href="/partners">Partners</a> -
+             <a href="/careers">Careers</a> -
              <a href="/about/contact-us">Contact</a> -
              <a href="http://twitter.com/saucelabs">Twitter</a> -
              <a href="/tos">Terms of Service</a> -
              <a href="/privacy">Privacy Policy</a>
              </p>
         </div>
-        </td>
-        </tr>
-        </tbody></table>
-      </center>
+      
     </div><!-- end copyright -->
   </div><!-- end footerinner -->
 </div><!-- end sitefooter -->
 
     </div>
 
+    <div id="modalSheet" style="display:none">&nbsp;</div>
     
 
 <script type="text/javascript">
@@ -349,6 +401,10 @@ var google_conversion_value = 0;
 
 
     
+
+
+
+
 
 
 
