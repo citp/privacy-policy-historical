@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deskofbrian.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114233902id_/http%3A//deskofbrian.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deskofbrian.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515092218id_/http%3A//deskofbrian.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – The Desk of Brian
 
