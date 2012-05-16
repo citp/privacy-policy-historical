@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indianxtube.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515012737id_/http%3A//www.indianxtube.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianxtube.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516082221id_/http%3A//www.indianxtube.com/privacy) for the most accurate reproduction.*
 
-# Indian Porn TUBE. The worlds biggest Desi Indian Sex Tube
+# Indian Sex Tube - Privacy policy
 
 Indian Sex Tube Limited recognizes that its customers, visitors, users, and others who use Indian Sex Tube Video value their privacy. This privacy notice details important information regarding the use and disclosure of user information collected on the Indian Sex Tube Video site. We provide this privacy notice to help you make an informed decision about whether to use or continue using our site.
 
