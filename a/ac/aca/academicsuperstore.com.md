@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the academicsuperstore.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219132327id_/http%3A//www.academicsuperstore.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academicsuperstore.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516141951id_/http%3A//www.academicsuperstore.com/page/privacy) for the most accurate reproduction.*
 
 # Academic Superstore : Academic Software discounts for students, teachers and schools
 
 | 
 
-At Academic Superstore, we are committed to protecting your privacy. We We promise that your information is secure. We employ state-of-the-art SSL (Secure Sockets Layer) technology with a certificate provided by Thawte, a leader in Internet transaction security and encryption. We collect information about you to process your order and to help provide you with the best possible service. However, we will not e-mail you in the future unless you have given us your consent and, we will not pass your e-mail address to others. 
+At Academic Superstore, we are committed to protecting your privacy. We promise that your information is secure. We employ state-of-the-art SSL (Secure Sockets Layer) technology with a certificate provided by Thawte, a leader in Internet transaction security and encryption. We collect information about you to process your order and to help provide you with the best possible service. If you provide us with your postal address, e-mail address, or telephone number, you may receive our catalog or other promotional mailings, e-mails, or telephone calls. If you receive an e-mail from us that you would rather not receive, simply follow the unsubscribe instructions set forth at the bottom of each e-mail. If you do not wish to receive our catalog, or other promotional materials, please write to us at the address set forth below or e-mail us at unsubscribe@academicsuperstore.com. We will be happy to respect your request not to participate in our direct marketing programs. 
 
 ## Cookies
 
@@ -17,14 +17,6 @@ Authentic Sites use Verisign SSL Web Server Certificates to offer secure communi
 Always check any site's certificate before entering any sensitive information. 
 
 As well, most browsers will show a lock icon, which means they are running security certificates, in the bottom status bar on secure pages. Look for this icon on any web page that asks for your personal information. 
-
-## We Hate SPAM.
-
-Seriously. We don't send unsolicited email, and we know you don't like to receive unsolicited email. Below, we outline our Mailing List Policy, which can be summarized simply as "We Hate Spam." 
-
-## No unsolicited email.
-
-We never buy lists of email addresses from other people, period. We never send email newsletters or promotions to people who haven't subscribed, period. 
 
 ## Your email address is safe with us.
 
