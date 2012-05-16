@@ -1,22 +1,22 @@
-<!--The following is the downloaded HTML source of the wegif.com privacy policy that was archived on 2011-11-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111115195909id_/http%3A//www.wegif.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wegif.com privacy policy that was archived on 2012-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120516075501id_/http%3A//www.wegif.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
-	<title>WeGIF.com - Privacy Policy</title>
-    <meta name="title" content="WeGIF.com - Your photos. Animated!">
-    <meta name="description" content="WeGIF is a new site where you can create, view and share animated photography online. If you like taking photos, making little videos, or would like another ...">
+<title>WeGIF.com - Privacy Policy</title>
+<meta name="title" content="WeGIF.com - Your photos. Animated!">
+<meta name="description" content="WeGIF is a new site where you can create, view and share animated photography online. If you like taking photos, making little videos, or would like another ...">
 
+
+<link rel="stylesheet" href="/static/css/main-min_20111030.css" type="text/css" media="screen, projection">
+
+<!--[if IE]><link rel="stylesheet" href="/static/css/ie.css" type="text/css" media="screen, projection"><![endif]-->
 	
-	<link rel="stylesheet" href="/static/css/main-min_20111030.css" type="text/css" media="screen, projection">
-	
-	<!--[if IE]><link rel="stylesheet" href="/static/css/ie.css" type="text/css" media="screen, projection"><![endif]-->
-	
-	<link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon">
-	<!--[if IE]>
+<link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon">
+<!--[if IE]>
 	<script type="text/javascript" src="/assets/js/excanvas-compressed.js"></script>		
 <![endif]-->
 
-  	<script type="text/javascript" async="" src="https://widget.uservoice.com/BE2en33YwO5kX3m88CucQ.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/static/js/main-min_20111030.js"></script>
+  	<script type="text/javascript" async="" src="https://widget.uservoice.com/BE2en33YwO5kX3m88CucQ.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=52372572864"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/static/js/main-min_20111030.js"></script>
 
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/googleapis/0.0.4/googleapis.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/jsapi"></script>
@@ -25,11 +25,15 @@
 </script> 
 
 	
-    
-	
-    <script type="text/javascript">var username=null;</script>
-    <script>window.google_analytics_uacct = "UA-9227045-1";</script>
-    
+
+<meta property="fb:app_id" content="52372572864">
+<meta property="og:site_name" content="WeGIF">
+<meta property="fb:admins" content="595057387">    
+
+
+
+<script type="text/javascript">var username=null;</script>
+<script>window.google_analytics_uacct = "UA-9227045-1";</script>
 </head>
 
 <body>
@@ -153,7 +157,7 @@ If you have any questions about this Privacy Policy, the practices of this site,
 </div>
 
 <div id="copyright" class="span-24 last">
-Copyright © 2008-2011 WeGIF Limited. All rights reserved.
+Copyright © 2008-2012 WeGIF Limited. All rights reserved.
 </div>
 
 </div>
@@ -184,19 +188,57 @@ Copyright © 2008-2011 WeGIF Limited. All rights reserved.
 
 
 
-<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+
+<div id="fb-root"></div>
 <script>
-  window.fbAsyncInit = function() {
-    FB.init({appId: '8cd64ef8059b033e615333865f5d48a3', status: true, cookie: true,
-             xfbml: true});
-  };
-  (function() {
-    var e = document.createElement('script'); e.async = true;
-    e.src = document.location.protocol +
-      '//connect.facebook.net/en_US/all.js';
-    document.getElementById('fb-root').appendChild(e);
-  }());
+
+
+
+function facebook_do_login(response) {    
+    if (response.authResponse) {
+        $.ajax({
+            url: '/social/oauth/facebook/',
+            dataType: 'json',
+            data:{ next:"/", },
+            success: function(data, response) {
+            	if (data['status'] == 'success') {
+            		window.location.href = data['url'];
+            	}
+            }
+        });
+    }
+}
+
+window.fbAsyncInit = function() {
+   FB.init({
+        apiKey: "52372572864",
+        oauth: true,
+        cookie: true,
+        channelUrl : 'http://www.wegif.com/static/js/channel.html', // Channel File
+        status     : true, // check login status
+        xfbml      : true,  // parse XFBML
+        oauth      : true
+   });
+   FB.Event.subscribe('auth.login', function(response) {
+	   facebook_do_login(response);
+   });
+   
+   
+   
+};
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=52372572864";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+      
 </script>
+
+
 
 
 <div id="dialog_container"></div>
