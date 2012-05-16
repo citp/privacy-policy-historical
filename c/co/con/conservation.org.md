@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the conservation.org privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529021618id_/http%3A//www.conservation.org/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conservation.org privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516052647id_/http%3A//www.conservation.org/pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Conservation International
-
-Privacy Policy 
-
- 
 
 Thank you for visiting Conservation International online at [www.conservation.org](https://web.archive.org/). We respect your privacy, and we will never share your personal information with other organizations. The following privacy policy describes what information is gathered on this website and how it is used. 
 
@@ -61,13 +57,3 @@ Websites directly affiliated with [www.conservation.org](https://web.archive.org
 None of the websites covered by this policy knowingly collect identifiable personal information from children under age 13. If we discover that a person under the age of 13 has provided us with any personally identifiable information, we will delete that information from our systems. We are unable to reply to information requests from children under the age of 13, if so identified. A parent or guardian must initiate any requests for information from children under the age of 13 on their behalf. We encourage parents to supervise children when they browse the internet. 
 
 If you feel that this site is not following its stated privacy policy, please contact us by email or phone or contact The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org). 
-
-| 
-
-[
-
-[](http://getinvolved.conservation.org/donate)
-
-](http://getinvolved.conservation.org/donate)  
-  
----|---
