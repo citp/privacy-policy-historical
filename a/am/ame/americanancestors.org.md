@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the americanancestors.org privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115102347id_/http%3A//www.americanancestors.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanancestors.org privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517003718id_/http%3A//www.americanancestors.org/privacy-policy) for the most accurate reproduction.*
 
-# American Ancestors - Privacy Policy
+# Privacy Policy
 
 The New England Historic Genealogical Society has created this statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our website, AmericanAncestors.org. 
 
