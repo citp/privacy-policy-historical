@@ -1,44 +1,59 @@
-> *The following text is extracted and transformed from the jk-forum.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124013843id_/http%3A//www.jk-forum.com/faq.php%3Ffaq%3Dcopyrightprivacy%23faq_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jk-forum.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517005502id_/http%3A//www.internetbrands.com/ib/privacy/enthusiasts%3Fsite%3Djk-forum.com) for the most accurate reproduction.*
 
-# Project-JK Copyright Information & JK-Forum Privacy Policy
+# Site Privacy Policy
 
-**JK-Forum.com Privacy Policy**  
-Last Updated: March 11, 2011   
-JK-Forum.com understands and appreciates the importance of how visitor and/or user information is collected and used. Please read the following to learn about our Privacy Policy.
+jk-forum.com ("Site")
 
-This Privacy Policy discloses the privacy practices of the JK-Forum.com website (the "Site"). Specifically, it outlines the types of information that we gather about you while you are using the Site, and the ways in which we use and share this information. This Privacy Policy does not apply to any information you may provide to us, or that we may collect, offline and/or through other means (for example, at a live event, via telephone, or through the mail). 
+Privacy Statement
 
-Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over our online privacy practices, is governed by this Privacy Policy and our [ Forum Rules](http://www.jk-forum.com/faq.php?faq=vb_faq). Due to the evolving nature of the Internet, JK-Forum.com may need to change its Privacy Policy at some point in the future, in which case the revised Privacy Policy will be posted on this website and the "Last Updated" date will be changed to reflect the date of the changes. By continuing to use the Site after the posting any such changes, you accept the Privacy Policy as modified. 
+We are committed to safeguarding your privacy online. This privacy policy applies to your information that we collect and receive; it does not apply to practices of businesses that we do not own or control or people we do not employ. At no time will we sell your information or release your personally-identifiable data without your permission. You can visit this Site without revealing who you are or providing any personal information about yourself.
 
-**_Your California Privacy Rights_**  
-California Business and Professions Code Section 22575 requires an operators of a commercial website which collects personally identifiable information through the website or online service to post and maintain its privacy policy on its website, including policies related to the collection and storage of personal information (if any) disclosed by the website to third parties for direct marketing purposes. 
+By using this Site, you agree to the terms of this privacy policy. Please read the following policy to understand how your personal information will be treated as you use our services. The following discloses our information gathering and dissemination practices.
 
-**_What Information is Collected About Visitors?_**  
-The information that we collect about you while you are using the Site falls into two general categories, as described below. The information we collect may be collected directly by us, or it may be collected by a third-party website hosting provider, or another third-party service provider, on our behalf. 
+This Site contains links to other sites. These include links to resources in related topics and third-party sites that offer other related products. If you visit another website through a link on our site, please consult the privacy policy of the website you are visiting. We are not responsible for the privacy practices or the content of other websites that you may visit.
 
-_1\. Information You Provide to Us._  
-We may collect, through a variety of technologies and practices, and store information, including personally-identifiable information (such as your name, postal address or e-mail address), or other information, that you voluntarily supply to us either while on the Site or in responding via e-mail in connection with a feature provided on the Site. Some examples of this type of information include information that you electronically submit when you contact us with questions, information that you publically post in your Profile, in discussion forums or other community posting and social networking areas on our Site, information that you electronically submit when you complete an online registration form to access and use certain features of our Site, and information contained in search requests or questions that you submit to the Site. If you decline to supply or provide us with certain information while using the Site, you may not be able to use or participate in some or all of the features offered through the Site. 
+Browsing the Site
 
-Please keep in mind that whenever you voluntarily make your personal information or other private information available for viewing by third parties online - for example in your Profile, in discussion forums, or other community posting or social networking areas of our Site - that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information.
+If you browse through the Site without entering any personal data, we will gather and store certain information about your visit. This information does not identify you personally and cannot be linked back to you unless you decide at some point to identify yourself. If you are only browsing, we collect the following information: IP address, the type of browser and operating system used to access our site, the date and time you access our site, the pages you visit (click-through), and if you linked to our website from another website, the address of that website as well as additional information related to your visit. We use your IP address to help diagnose problems with our server, and to administer the Site.
 
-_2\. Information that is Automatically Collected._  
-If you browse through this Site without entering any personal data, we will gather and store certain non-personally identifiable information about your visit. This type of information, which includes the following, does not identify you personally and cannot be linked back to you unless you decide to identify yourself: IP address, the type of browser and operating system used for Site access, the time and date of access, the pages visited, whether you linked to the Site from another website, and additional information related to your visit. The use of the IP address is to help diagnose problems with the Site’s server, and to administer the Site. 
+Information Collected
 
-We also may use a standard feature found in browser software called a "cookie" to enhance your experience with the Site. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you have entered preference information before. 
+We collect the email addresses of consumers who communicate with us or through our authorized vendors via email.
 
-If you want to limit the non-personally identifiable information that is automatically collected while you use our Site, most web browsers allow you to disable certain functionality or set certain privacy settings. Please contact the developer of your specific web browser to determine how to disable cookies.
+Any information provided by consumers becomes our property once received by us and may be used and disclosed as permitted in this Policy.
 
-**_How is this Information Used?_**  
-We use the information we collect from you while you are using the Site in a variety of ways, including, for example, to process your registration request, provide you with services and communications that you have requested, customize features and advertising that appear on the Site, deliver our Site content to you, measure Site traffic, measure user interests and traffic patterns, and improve the Site and the services and features offered via the Site. 
+We may share your personal information with our affiliated companies in order to identify products or services in which you may have interest, to improve our user experience and generally to engage in market research and for other internal business purposes. We may also aggregate your personal information with others' information and prepare reports on site usage, purchase history or other factors for sale or distribution to others. Those reports are aggregated and include no personally identifying information. Finally, we may use your personal information to send you email or postal communications regarding products or services offered by us or by third parties with whom we have relationships in which we think you may be interested. We do not share, sell, trade or rent your personal information to third parties for unknown reasons. You may at any time choose not to receive promotional emails from us by contacting us at [information@internetbrands.com](mailto:information@internetbrands.com). Notwithstanding the foregoing, we may continue to contact you for the purpose of communicating information relating to this Site, as well as to facilitate, complete, or confirm any transaction that you may enter into or responding to your inquiry or request.
 
-We will not use the information that we collect while you are using the Site, nor will we authorize third parties to use such information, to mail or e-mail promotional offers directly to you unless you have specifically informed us that you would like to receive such promotional offers. Otherwise, we may share information we collect while you are using the Site with our affiliates and with trusted third-party service providers who assist us in providing services. If you do not wish your personally identifiable information to be used or shared for these purposes, send a letter to the Online Privacy Coordinator whose contact information is listed at the end of this Privacy Policy. 
+If you prefer for us not to provide your name and email or postal address to third parties for direct marketing purposes, please contact us at [information@internetbrands.com](mailto:information@internetbrands.com).
 
-Our Site also includes links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase products or services from a third party Site, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting or the provider of such products or services. 
+Use of Forums
 
-Please be aware that we may occasionally release information about visitors if required to do so by law or if, in our business judgment, such disclosure is reasonably necessary: (a) to comply with legal process; (b) to enforce our [ Forum Rules](http://www.jk-forum.com/faq.php?faq=vb_faq); or (c) to protect the rights, property, or personal safety of our Site, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public.
+If you choose to transmit, submit or post information through the Site's chat rooms, bulletin boards or other forums (the "Forums"), we will collect that information you provide. We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law and pursuant to our Terms of Use.
 
-**_Storage of Information_**  
-All information we gather on our Site is stored within a database to which only we and our hosting services provider are provided access. However, as effective as the reasonable security measures implemented by us may be, no physical or electronic security system is impenetrable. We cannot guarantee the security of our Site’s servers or databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet.
+Cookies
 
-**_Questions Regarding Privacy_**  
-If you have questions or concerns about this Privacy Policy, our privacy practices, or your dealings with us, please contact us in writing to: [webmaster](http://www.jk-forum.com/sendmessage.php)
+We may place "cookies" on your personal computer. "Cookies" are small identifiers sent from a web server and stored on your computer's hard drive, similar to a license plate, that help us to recognize you if you visit our website again. Also, our site uses cookies to track how you found our site. Cookies are not designed to be used to get data from your hard drive, your e-mail or any other personal data about you. To protect your privacy, we do not use cookies to store or transmit any personal information about you on the Internet. You can reject cookies by changing your browser settings. Please note, however, that if you reject our cookies, it is possible that some web pages may not properly load, your access to certain information might be denied or you might have to enter information about yourself more than once.
+
+Security
+
+This site has reasonable security measures in place to protect the loss, misuse and alteration of the information under our control.
+
+Third Party Advertising 
+
+We use third-party advertising companies to serve ads when you visit our website. These companies use non-personally identifiable information regarding your visit to this website and other sites, such as the user IP address, pages viewed, date and time of your visit, and number of times you have viewed an ad (but not your name, address, or other personal information), to serve ads to you on this site and other sites that may be of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+
+Specifically, Google, as a third party vendor, uses cookies to serve ads on this website. Google´s use of the DART cookie enables it to serve ads to you based on your visit to this website and other websites on the Internet. You may opt out of the use of the DART cookies by visiting the Google ad and content network [privacy policy](http://www.google.com/privacy_ads.html).
+
+In addition, we use clear GIFs or pixel tags to help manage our online advertising. These clear GIFs enable our ad serving company to recognize a browser's cookie when a browser visits this site. This allows us to learn which banner ads bring users to our website. The information we collect and share through this technology is not personally identifiable.
+
+To learn more about these practices and your choices about not having this information used by these companies please [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
+
+Contacting the Web Site
+
+Please be aware that we may change our Privacy Policy from time to time. If we do, we will update this Privacy Policy at our website, so be sure to check back here frequently.
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact: [information@internetbrands.com](mailto:information@internetbrands.com).
+
+jk-forum.com
+
+March 24, 2009
