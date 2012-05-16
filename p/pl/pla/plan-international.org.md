@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the plan-international.org privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101194212id_/http%3A//plan-international.org/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plan-international.org privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516134042id_/http%3A//plan-international.org/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy — Site links — Plan International
 
-The Plan Ltd Website, found at plan-international.org, including all information and materials contained on it, is managed by Plan Ltd, Chobham House, Christchurch Way, Woking, GU21 6JG, Surrey, UK ("Plan Ltd").
+The Plan Ltd Website, found at plan-international.org, including all information and materials contained on it, is managed by Plan Ltd, Dukes Court, Block A, Duke Street, Woking, Surrey GU21 5BH, UK ("Plan Ltd").
 
 To contact us, please go to [plan-international.org/contact](http://plan-international.org/about-plan/contact-us "Contact us") or call us at +44 (0) 1483 755155.
 
@@ -74,6 +74,6 @@ The collection and use of personal information on this site is in accordance wit
 
 You may have rights of access to personal information that we hold about you, to correct that information or, in some circumstances, to object to our processing of your information, under data privacy law. If you wish to exercise any of these rights or have any questions about this policy, please contact:
 
-Plan Ltd Chobham House Christchurch Way Woking Surrey GU21 6JG UK
+Plan Ltd, Dukes Court, Block A, Duke Street, Woking, Surrey GU21 5BH, UK
 
 Or please e-mail us at [info@plan-international.org](mailto:info@plan-international.org)
