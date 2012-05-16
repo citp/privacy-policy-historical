@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the replacements.com privacy policy that was archived on 2011-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111028171805id_/http%3A//www.replacements.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the replacements.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516105655id_/http%3A//www.replacements.com/privacy.htm) for the most accurate reproduction.*
 
 # Replacements, Ltd.
 
@@ -21,7 +21,7 @@ When you order, we request the following information: name, address, daytime pho
 
 
 
-The information used to process your order is transferred to Replacements, Ltd. utilizing Secure Socket Layer (SSL) technology. [Click here](https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=WWW.REPLACEMENTS.COM&lang=en) to confirm via VeriSign, Inc. that Replacements, Ltd. uses secure technologies to protect the transfer of your personal information. A “lock” icon near the bottom of your web browser display is a typical indicator that the information you provided is being processed in a secure environment. 
+The information used to process your order is transferred to Replacements, Ltd. utilizing Secure Socket Layer (SSL) technology. [Click here](https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=WWW.REPLACEMENTS.COM&lang=en) to confirm via VeriSign, Inc. that Replacements, Ltd. uses secure technologies to protect the transfer of your personal information. A “lock” icon near the bottom of your web browser display is a typical indicator that the information you provided is being processed in a secure environment.
 
 Registering for product information with Replacements, Ltd.
 
@@ -35,7 +35,7 @@ When you register for product information with us, we request the following info
 
 Newsletter
 
-When you register for product information or order online from us, and provide your e-mail address, in addition to periodic updates related to pieces available in your pattern(s), you will receive our monthly e-mail newsletter. This e-mail includes fun information related to tableware and collectibles, including featured china, crystal, silver and collectible patterns, interesting histories, specials, even a “Featured Replacements Pet and Owner” series! If you decide that you do not wish to receive this newsletter, there are clearly marked opt out instructions at the bottom of each correspondence. 
+When you register for product information or order online from us, and provide your e-mail address, in addition to periodic updates related to pieces available in your pattern(s), you will receive our monthly e-mail newsletter. This e-mail includes fun information related to tableware and collectibles, including featured china, crystal, silver and collectible patterns, interesting histories, specials, even a “Featured Replacements Pet and Owner” series! If you decide that you do not wish to receive this newsletter, there are clearly marked opt out instructions at the bottom of each correspondence.
 
 Online Gift Cards
 
@@ -49,7 +49,7 @@ When purchasing items from a bridal registry, we request the following informati
 
 Disclosure to Third Party Companies
 
-We do not sell or otherwise release any information regarding our customers to any third party. In rare cases, we may be required to provide information to courts of competent jurisdiction, regulatory authorities or agencies, or law enforcement officials in accordance with applicable law. 
+We do not sell or otherwise release any information regarding our customers to any third party. In rare cases, we may be required to provide information to courts of competent jurisdiction, regulatory authorities or agencies, or law enforcement officials in accordance with applicable law.
 
 Cookies
 
@@ -58,14 +58,6 @@ Cookies are small amounts of data that are used to “remember” specific reque
 In addition, we work with other companies to help serve, manage and track our products and advertisements on the Internet. These companies may use a cookie (which does not track personally identifying information) to gather aggregate information to help us provide more relevant information to web visitors.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
-
-DoubleClick DART Cookie
-
-  * Google, as a third party vendor, uses cookies to serve ads on Replacements.com
-  * Google's use of the DART cookie enables it to serve ads to users based on their visit to Replacements.com and other sites on the Internet. 
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
-
-
 
 Advertising Networks
 
