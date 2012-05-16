@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the kffl.com privacy policy that was archived on 2011-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111202050709id_/http%3A//www.kffl.com/pages/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kffl.com privacy policy that was archived on 2012-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120516074742id_/http%3A//www.kffl.com/pages/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <title>KFFL.com :: Privacy Policy and Terms of Use</title>
 <meta name="description" content="KFFL.com privacy policy and terms of use.">
 <meta name="keywords" content="KFFL.com, privacy policy, terms of use, free fantasy sports">
-<link type="text/css" media="all" rel="stylesheet" href="/includes_pd/layout.css">
-<link type="text/css" media="all" rel="stylesheet" href="/includes/mainnav.css">
-<link type="text/css" media="all" rel="stylesheet" href="/includes_pd/homepages.css">
+<link type="text/css" media="all" rel="stylesheet" href="http://s3.amazonaws.com/kffl/css/layout.css">
+<link type="text/css" media="all" rel="stylesheet" href="http://s3.amazonaws.com/kffl/css/mainnav.css">
+<link type="text/css" media="all" rel="stylesheet" href="http://s3.amazonaws.com/kffl/css/homepages.css">
 <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="http://widgets.digg.com/buttons.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" src="/includes/scripts.js"></script>
 <script type="text/javascript">
 var a = Math.floor(Math.random()*9999999999+1)
@@ -62,129 +62,10 @@ var random_number = a;
 </noscript>
 <!-- End comScore Tag -->
 
-<!-- Upload User Pic Start Here !-->
-<script type="text/javascript" src="/includes/jq.js"></script>
-<script type="text/javascript" src="/includes/ajaxfileupload.js"></script>
-<script type="text/javascript" src="/includes/jquery.imgareaselect.min.js"></script>
-<script>
-    function ajaxFileUpload()
-    {
-		$("#loading").show();
-		$("#upl_container").show();
-		$("#cur_upic").hide();
-		$.ajaxFileUpload
-		(
-			{
-				url:'/includes/doajaxfileupload.php',
-				secureuri:false,
-				fileElementId:'fileToUpload',
-				dataType: 'JSON',
-				beforeSend:function()
-				{
-					$("#loading").show();
-				},
-				complete:function()
-				{
-					//$("#loading").hide();
-				},				
-				success: function (data, status)
-				{
+<!-- Start Chart Beat Code -->
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<!-- End Chat Beat Code -->
 
-							$("#pic_form").hide();
-							$("#loading").hide();
-							$("#thumbnail").show();
-							$("#pr_th").show();
-							$("#thumbnail").attr("src","/userpics/"+data+"");
-							$("#pr_th").attr("src","/userpics/"+data+"");
-							$("#fname").val(data);
-				},
-				error: function (data, status, e)
-				{
-					alert(e);
-				}
-			}
-		)
-		
-		return false;
-    }
-
-
-function preview(img, selection) { 
-
-	var scaleX = 100 / selection.width; 
-
-	var scaleY = 100 / selection.height; 	
-
-	$('#thumbnail + div > img').css({ 
-
-		width: Math.round(scaleX * img.width) + 'px', 
-
-		height: Math.round(scaleY * img.height) + 'px',
-
-		marginLeft: '-' + Math.round(scaleX * selection.x1) + 'px', 
-
-		marginTop: '-' + Math.round(scaleY * selection.y1) + 'px' 
-
-	});
-
-	$('#x1').val(selection.x1);
-
-	$('#y1').val(selection.y1);
-
-	$('#x2').val(selection.x2);
-
-	$('#y2').val(selection.y2);
-
-	$('#w').val(selection.width);
-
-	$('#h').val(selection.height);
-
-} 
-
-
-
-$(document).ready(function () { 
-
-	$('#save_thumb').click(function() {
-
-		var x1 = $('#x1').val();
-
-		var y1 = $('#y1').val();
-
-		var x2 = $('#x2').val();
-
-		var y2 = $('#y2').val();
-
-		var w = $('#w').val();
-
-		var h = $('#h').val();
-
-		if(x1=="" || y1=="" || x2=="" || y2=="" || w=="" || h==""){
-
-			alert("You must make a selection first");
-
-			return false;
-
-		}else{
-
-			return true;
-
-		}
-
-	});
-
-}); 
-
-$(window).load(function () { 
-
-	$('#thumbnail').imgAreaSelect({ aspectRatio: '1:1', onSelectChange: preview }); 
-
-});
-
-
-
-</script>
-<!-- Upload User Pic End Here !-->
 
 <link href="https://plus.google.com/104552992393696316995" rel="publisher">
 
@@ -197,7 +78,7 @@ $(window).load(function () {
 
 <table><tbody><tr><td valign="top"><script type="text/javascript"> 
 document.write('<scr' + 'ipt src=http://ad.doubleclick.net/adj/kffl.fsv/ros;sect=ros;fantasy=yes;game=no;tile=7;sz=120x700;ord=' + random_number + '?></scr' + 'ipt>'); 
-</script><script src="http://ad.doubleclick.net/adj/kffl.fsv/ros;sect=ros;fantasy=yes;game=no;tile=7;sz=120x700;ord=3184322236?"></script>
+</script><script src="http://ad.doubleclick.net/adj/kffl.fsv/ros;sect=ros;fantasy=yes;game=no;tile=7;sz=120x700;ord=9622679692?"></script>
 <noscript><a href="http://ad.doubleclick.net/jump/kffl.fsv/ros;sect=ros;fantasy=yes;game=no;tile=7;sz=120x700;ord=' + 
 
 random_number + '?" target="_blank" rel="external"><img 
@@ -206,23 +87,23 @@ src="http://ad.doubleclick.net/ad/kffl.fsv/ros;sect=ros;fantasy=yes;game=no;tile
 
 width="120" height="700" border="0" alt="" /></a></noscript>
 
-</td><td><script> document.write('<scr' + 'ipt src=http://ad.doubleclick.net/adj/kffl.fsv/home;sect=home;fantasy=yes;game=no;tile=1;dcopt=ist;sz=3x3;ord=' + random_number + '?></scr' + 'ipt>'); </script><script src="http://ad.doubleclick.net/adj/kffl.fsv/home;sect=home;fantasy=yes;game=no;tile=1;dcopt=ist;sz=3x3;ord=3184322236?"></script>
+</td><td><script> document.write('<scr' + 'ipt src=http://ad.doubleclick.net/adj/kffl.fsv/home;sect=home;fantasy=yes;game=no;tile=1;dcopt=ist;sz=3x3;ord=' + random_number + '?></scr' + 'ipt>'); </script><script src="http://ad.doubleclick.net/adj/kffl.fsv/home;sect=home;fantasy=yes;game=no;tile=1;dcopt=ist;sz=3x3;ord=9622679692?"></script>
 <noscript><a href=""http://ad.doubleclick.net/jump/kffl.fsv/home;sect=home;fantasy=yes;game=no;tile=1;sz=3x3;ord=' + random_number + '?"" target=""_blank""><img src=""http://ad.doubleclick.net/ad/kffl.fsv/home;sect=home;fantasy=yes;game=no;tile=1;sz=3x3;ord=' + random_number + '?"" width=""975"" height=""418"" border=""0"" alt=""""></a></noscript>
 
 <div class="enclosure" id="mainpage" style="z-index:100; position:relative;">
 
-<script> document.write('<scr' + 'ipt src=http://ad.doubleclick.net/adj/kffl.fsv/home;sect=home;fantasy=yes;game=no;tile=1;dcopt=ist;sz=975x418;ord=' + random_number + '?></scr' + 'ipt>'); </script><script src="http://ad.doubleclick.net/adj/kffl.fsv/home;sect=home;fantasy=yes;game=no;tile=1;dcopt=ist;sz=975x418;ord=3184322236?"></script>
+<script> document.write('<scr' + 'ipt src=http://ad.doubleclick.net/adj/kffl.fsv/home;sect=home;fantasy=yes;game=no;tile=1;dcopt=ist;sz=975x418;ord=' + random_number + '?></scr' + 'ipt>'); </script><script src="http://ad.doubleclick.net/adj/kffl.fsv/home;sect=home;fantasy=yes;game=no;tile=1;dcopt=ist;sz=975x418;ord=9622679692?"></script>
 <noscript><a href=""http://ad.doubleclick.net/jump/kffl.fsv/home;sect=home;fantasy=yes;game=no;tile=1;sz=975x418;ord=' + random_number + '?"" target=""_blank""><img src=""http://ad.doubleclick.net/ad/kffl.fsv/home;sect=home;fantasy=yes;game=no;tile=1;sz=975x418;ord=' + random_number + '?"" width=""975"" height=""418"" border=""0"" alt=""""></a></noscript>
 
 <table id="top" cellpadding="0" cellspacing="0">
 	<tbody><tr class="verticalmid">
-	  <td rowspan="2"><a href="/"><img src="/images/icons/logo_ae2.jpg" style="width: 224px; height: 99px;" alt=""></a></td>
+	  <td rowspan="2"><a href="/"><img src="http://s3.amazonaws.com/kffl/images/site-headers/logo_ae2.jpg" style="width: 224px; height: 99px;" alt=""></a></td>
 	</tr><tr>
 	  <td class="ad" style="padding: 0;"><script type="text/javascript">
 /* <![CDATA[ */ 
 document.write('<scr' + 'ipt src=http://ad.doubleclick.net/adj/kffl.fsv/home;sect=home;fantasy=yes;game=no;tile=1;sz=728x90;ord=' + random_number + '?></scr' + 'ipt>'); 
 /* ]]> */
-</script><script src="http://ad.doubleclick.net/adj/kffl.fsv/home;sect=home;fantasy=yes;game=no;tile=1;sz=728x90;ord=3184322236?"></script> 
+</script><script src="http://ad.doubleclick.net/adj/kffl.fsv/home;sect=home;fantasy=yes;game=no;tile=1;sz=728x90;ord=9622679692?"></script> 
 <noscript><div class="rectad"><a href="http://ad.doubleclick.net/jump/kffl.fsv/home;sect=home;fantasy=yes;game=no;tile=1;sz=728x90;ord=' + random_number + '?" target="_blank" rel="external"><img src="http://ad.doubleclick.net/ad/kffl.fsv/home;sect=home;fantasy=yes;game=no;tile=1;sz=728x90;ord=' + random_number + '?" alt="" /></a></div></noscript></td>
 </tr>
 <tr>
@@ -237,7 +118,7 @@ document.write('<scr' + 'ipt src=http://ad.doubleclick.net/adj/kffl.fsv/home;sec
 <tbody><tr> 
 <td>&nbsp; <input tabindex="1" type="text" value="Username" name="user" class="loginbox" onfocus="this.value=''"></td>
 <td><input tabindex="2" type="password" value="Password" name="pass" class="loginbox" onfocus="this.value=''"></td>
-<td><input type="image" src="/images/icons/kffl-buttons-login.gif" class="btnImg" name="image"></td>
+<td><input type="image" src="http://s3.amazonaws.com/kffl/images/site-headers/kffl-buttons-login.gif" class="btnImg" name="image"></td>
 <td><a href="/shop/buy/682/"><strongwhite>FREE SIGN UP</strongwhite></a> <br> <a href="/pages/lost-kffl-password.php"><strongwhite>LOST PASSWORD</strongwhite></a></td>
 </tr>
 </tbody></table>
@@ -252,7 +133,7 @@ document.write('<scr' + 'ipt src=http://ad.doubleclick.net/adj/kffl.fsv/home;sec
 <tbody><tr class="verticalmid"> 
 <td><input type="text" name="key" value="Search KFFL.com" class="search" onfocus="this.value=''"></td>
 <td>
-<div class="left"><input type="image" src="/images/icons/kffl-buttons-search.gif" class="btnImg" name="image"></div>
+<div class="left"><input type="image" src="http://s3.amazonaws.com/kffl/images/site-headers/kffl-buttons-search.gif" class="btnImg" name="image"></div>
 </td>
 </tr>
 </tbody></table>
@@ -262,7 +143,7 @@ document.write('<scr' + 'ipt src=http://ad.doubleclick.net/adj/kffl.fsv/home;sec
 
 <td class="verticalbot"> 
 <div class="right"> 
-<a href="/rss.php" target="_blank"><img width="22" height="22" src="/images/icons/rss-22x22.jpg" border="0" alt="KFFL.com RSS feeds"></a> <a href="http://www.kffl.com/twitter/" target="_blank"><img width="22" height="22" src="/images/icons/twitter.png" border="0" alt="KFFL.com is now on Twitter!"></a> <a href="http://www.kffl.com/facebook/" target="_blank"><img width="22" height="22" src="/images/icons/facebook.png" border="0" alt="KFFL.com is on Facebook!"></a>  
+<a href="/rss.php" target="_blank"><img width="22" height="22" src="http://s3.amazonaws.com/kffl/images/site-headers/rss-22x22.jpg" border="0" alt="KFFL.com RSS feeds"></a> <a href="http://www.kffl.com/twitter/" target="_blank"><img width="22" height="22" src="http://s3.amazonaws.com/kffl/images/site-headers/twitter.png" border="0" alt="KFFL.com is now on Twitter!"></a> <a href="http://www.kffl.com/facebook/" target="_blank"><img width="22" height="22" src="http://s3.amazonaws.com/kffl/images/site-headers/facebook.png" border="0" alt="KFFL.com is on Facebook!"></a>  
 
 <script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="http://www.kffl.com/" layout="button_count" show_faces="false" width="90" font="tahoma"></fb:like>
 
@@ -276,7 +157,7 @@ document.write('<scr' + 'ipt src=http://ad.doubleclick.net/adj/kffl.fsv/home;sec
 </td></tr>
 </tbody></table>
 <div id="menu-container">
-<div id="mainnav"><!--[if lt ie 7]><img src="/images/spacer.gif" style="width: 1px; height: 1px;" alt="spacer" /><br /><![endif]-->
+<div id="mainnav"><!--[if lt ie 7]><img src="http://s3.amazonaws.com/kffl/images/site-headers/spacer.gif" style="width: 1px; height: 1px;" alt="spacer" /><br /><![endif]-->
 <ul id="nav">
 <li class="menuback"><a href="/fantasy-football/" style="background: none;" onmouseover="menu('sn1001','','show')" onmouseout="timerID6=setTimeout('menu(\'sn1001\',\'\',\'hide\')',100)" target="_top"><span>NFL</span></a>
 <ul id="sn1001" class="subnav" onmouseover="clearTimeout(timerID6);menu('sn1001','','show')" onmouseout="menu('sn1001','','hide')">
@@ -292,6 +173,7 @@ document.write('<scr' + 'ipt src=http://ad.doubleclick.net/adj/kffl.fsv/home;sec
 <li><a href="/stats_analyzer/" title="NFL and fantasy football statistics analyzer">- Statistics Analyzer</a></li>
 <li><a href="/fantasy-football/targets" title="NFL Targets and Utilization">- Targets and Utilization</a></li>
 <li><a href="/static/programs/football/average-draft-position/" title="Fantasy Football ADP">- Average Draft Position (ADP)</a></li>
+<li><a href="/fantasy-football/who-do-i-start/" title="Fantasy football: Who do I start?">- Who do I start?</a></li>
 <li><a href="/fantasy-football/nfl-fantasy-football-features.php" onmouseover="menu('sn1238','','show')" onmouseout="timerID1238=setTimeout('menu(\'sn1238\',\'\',\'hide\')',100)">NFL Features</a></li>
 <li><a href="/nfl-teams.php" title="NFL depth charts, rosters, team information">- Depth Charts</a></li> 
 <li><a href="/static/nfl/features/freeagents/" title="NFL Free Agents">- Free Agents</a></li>
@@ -300,23 +182,26 @@ document.write('<scr' + 'ipt src=http://ad.doubleclick.net/adj/kffl.fsv/home;sec
 <li><a href="/fantasy-baseball/" onmouseover="menu('sn99','','show')" onmouseout="timerID99=setTimeout('menu(\'sn99\',\'\',\'hide\')',100)" target="_top"><span>MLB</span></a>
 <ul id="sn99" class="subnav" onmouseover="clearTimeout(timerID99);menu('sn99','','show')" onmouseout="menu('sn99','','hide')">
 <li><a href="/hotw/mlb" onmouseover="menu('sn2231','','show')" onmouseout="timerID2231=setTimeout('menu(\'sn2231\',\'\',\'hide\')',100)">MLB news and rumors</a></li>
-<li><a href="/fantasy-baseball/" title="Fantasy baseball analysis and tips">Fantasy Baseball Analysis</a></li>
+<li><a href="/fantasy-baseball/2012-baseball-draft-guide.php" title="2012 Baseball Draft Guide">Fantasy Baseball Draft Guide</a></li>
 <li><a href="/fantasy-baseball/rankings-cheat-sheets.php" title="Fantasy Baseball Rankings and Cheat Sheets">- Fantasy Baseball Rankings</a></li>
-<li><a href="/fantasy-baseball/2011-baseball-draft-guide.php" title="2011 Baseball Draft Guide">- Fantasy Baseball Draft Guide</a></li>
+<li><a href="/fantasy-baseball/hot-stove.php" title="Baseball Hot Stove">- Fantasy Baseball Hot Stove</a></li>
 <li><a href="/fantasy-baseball/how-to-play-fantasy-baseball.php" title="How to Play Fantasy Baseball">- Fantasy Baseball University</a></li>
+<li><a href="/fantasy-baseball/adp-average-draft-position.php" title="Fantasy Baseball ADP">- ADP: Average Draft Position</a></li>
+<li><a href="/fantasy-baseball/" title="Fantasy baseball analysis and tips">Fantasy Baseball Analysis</a></li>
 <li><a href="/fantasy-baseball/fantasy-baseball-picks.php" title="Fantasy baseball picks">- Diamond Market</a></li>
 <li><a href="/fantasy-baseball/fantasy-baseball-closers.php" title="Fantasy baseball closers">- Closer Hot Seat</a></li>
+
 			</ul>
 		</li>
-         		<li><a href="/nba/" onmouseover="menu('sn1','','show')" onmouseout="timerID1=setTimeout('menu(\'sn1\',\'\',\'hide\')',100)" target="_top"><span>NBA</span></a>
+         		<li><a href="/fantasy-basketball/" onmouseover="menu('sn1','','show')" onmouseout="timerID1=setTimeout('menu(\'sn1\',\'\',\'hide\')',100)" target="_top"><span>NBA</span></a>
 
 			<ul id="sn1" class="subnav" onmouseover="clearTimeout(timerID1);menu('sn1','','show')" onmouseout="menu('sn1','','hide')">
 
-	        <li><a href="/nba/">Daily News</a></li><li><a href="http://www.hoopsworld.com/">HoopsWorld.com</a></li><li><a href="http://www.hoopshype.com/">HoopsHype.com</a></li></ul></li><li><a href="/nhl/" onmouseover="menu('sn2','','show')" onmouseout="timerID2=setTimeout('menu(\'sn2\',\'\',\'hide\')',100)" target="_top"><span>NHL</span></a>
+	        <li><a href="/nba/">NBA news and rumors</a></li><li><a href="/fantasy-basketball/">Fantasy Basketball Analysis</a></li><li><a href="http://www.kffl.com/fantasy-basketball/waiver-wire.php">- Fantasy Basketball Waiver Wire</a></li><li><a href="http://www.kffl.com/nba/">Basketball Partners</a></li><li><a href="http://www.hoopsworld.com/">- HOOPSWORLD.com</a></li><li><a href="http://www.hoopshype.com/">- HoopsHype.com</a></li></ul></li><li><a href="/fantasy-hockey/" onmouseover="menu('sn2','','show')" onmouseout="timerID2=setTimeout('menu(\'sn2\',\'\',\'hide\')',100)" target="_top"><span>NHL</span></a>
 
 			<ul id="sn2" class="subnav" onmouseover="clearTimeout(timerID2);menu('sn2','','show')" onmouseout="menu('sn2','','hide')">
 
-	        <li><a href="/nhl/">Daily News</a></li></ul></li><li><a href="/nascar/" onmouseover="menu('sn3','','show')" onmouseout="timerID3=setTimeout('menu(\'sn3\',\'\',\'hide\')',100)" target="_top"><span>NASCAR</span></a>
+	        <li><a href="/nhl/">NHL news and rumors</a></li><li><a href="http://www.kffl.com/fantasy-hockey/">Fantasy Hockey Analysis</a></li><li><a href="http://www.kffl.com/fantasy-hockey/waiver-wire.php">- Fantasy Hockey Waiver Wire</a></li></ul></li><li><a href="/nascar/" onmouseover="menu('sn3','','show')" onmouseout="timerID3=setTimeout('menu(\'sn3\',\'\',\'hide\')',100)" target="_top"><span>NASCAR</span></a>
 
 			<ul id="sn3" class="subnav" onmouseover="clearTimeout(timerID3);menu('sn3','','show')" onmouseout="menu('sn3','','hide')">
 
@@ -324,11 +209,11 @@ document.write('<scr' + 'ipt src=http://ad.doubleclick.net/adj/kffl.fsv/home;sec
 
 			<ul id="sn4" class="subnav" onmouseover="clearTimeout(timerID4);menu('sn4','','show')" onmouseout="menu('sn4','','hide')">
 
-	        <li><a href="/static/ewire/">Free Email Newsletter</a></li><li><a href="/hotw/nfl">NFL Hot off the Wire</a></li><li><a href="/hotw/mlb">MLB Hot off the Wire</a></li><li><a href="/nba/">NBA Hot off the Wire Helper</a></li><li><a href="/nhl/">NHL Hot off the Wire Helper</a></li><li><a href="/hotw/nascar">NASCAR Hot off the Wire</a></li></ul></li><li><a href="/fantasy-sports-blog/" onmouseover="menu('sn5','','show')" onmouseout="timerID5=setTimeout('menu(\'sn5\',\'\',\'hide\')',100)" target="_top"><span>BLOGS</span></a>
+	        <li><a href="/static/ewire/">Free Email Newsletter</a></li><li><a href="/hotw/nfl">NFL Hot off the Wire</a></li><li><a href="/hotw/mlb">MLB Hot off the Wire</a></li><li><a href="/nba/">NBA Hot off the Wire Helper</a></li><li><a href="/nhl/">NHL Hot off the Wire Helper</a></li><li><a href="/hotw/nascar">NASCAR Hot off the Wire</a></li></ul></li><li><a href="/blog/" onmouseover="menu('sn5','','show')" onmouseout="timerID5=setTimeout('menu(\'sn5\',\'\',\'hide\')',100)" target="_top"><span>BLOGS</span></a>
 
 			<ul id="sn5" class="subnav" onmouseover="clearTimeout(timerID5);menu('sn5','','show')" onmouseout="menu('sn5','','hide')">
 
-	        <li><a href="/fantasy-sports-blog/">All Blogs</a></li><li><a href="http://www.kffl.com/blogs/cb/">Cory J. Bonini</a></li><li><a href="http://www.kffl.com/blogs/rb/">Ryan R. Bonini</a></li><li><a href="http://www.kffl.com/blogs/th/">Tim Heaney</a></li><li><a href="http://www.kffl.com/blogs/kh/">Keith Hernandez</a></li><li><a href="http://www.kffl.com/blogs/nm/">Nicholas Minnix</a></li></ul></li><li><a href="" onmouseover="menu('sn6','','show')" onmouseout="timerID6=setTimeout('menu(\'sn6\',\'\',\'hide\')',100)" target="_top"><span>GAMES</span></a>
+	        <li><a href="/blog/">All Blogs</a></li></ul></li><li><a href="" onmouseover="menu('sn6','','show')" onmouseout="timerID6=setTimeout('menu(\'sn6\',\'\',\'hide\')',100)" target="_top"><span>GAMES</span></a>
 
 			<ul id="sn6" class="subnav" onmouseover="clearTimeout(timerID6);menu('sn6','','show')" onmouseout="menu('sn6','','hide')">
 
@@ -357,9 +242,10 @@ document.write('<scr' + 'ipt src=http://ad.doubleclick.net/adj/kffl.fsv/home;sec
 
  		        <!-- htdocs -->
 	</ul>
-		<img src="/images/spacer.gif" style="width: 1px; height: 33px;" alt="spacer"><br>
+		<img src="http://s3.amazonaws.com/kffl/images/site-headers/spacer.gif" style="width: 1px; height: 33px;" alt="spacer"><br>
 </div></div>
 <div id="main" style="clear: both;">
+
 <table style="width: 100%;" cellpadding="0" cellspacing="0"><tbody><tr style="vertical-align: top;"><td style="padding: 10px 6px 0 0;">
 <div class="Item">
 	<h1 class="ItemIntro"><span class="bkg">PRIVACY POLICY</span></h1>
@@ -419,12 +305,20 @@ document.write('<scr' + 'ipt src=http://ad.doubleclick.net/adj/kffl.fsv/home;sec
 </div>
 </div>
 </td><td style="padding: 10px 0 0 6px;"><div class="c1">
-
 <script type="text/javascript"> 
-document.write('<scr' + 'ipt src=http://ad.doubleclick.net/adj/kffl.fsv/ros;sect=ros;fantasy=yes;pos=atf;game=no;tile=3;sz=300x250,300x500,300x600;ord=' + random_number + '?></scr' + 'ipt>'); </script><script src="http://ad.doubleclick.net/adj/kffl.fsv/ros;sect=ros;fantasy=yes;pos=atf;game=no;tile=3;sz=300x250,300x500,300x600;ord=3184322236?"></script>
+document.write('<scr' + 'ipt src=http://ad.doubleclick.net/adj/kffl.fsv/ros;sect=ros;fantasy=yes;pos=atf;game=no;tile=3;sz=300x250,300x500,300x600;ord=' + random_number + '?></scr' + 'ipt>'); </script><script src="http://ad.doubleclick.net/adj/kffl.fsv/ros;sect=ros;fantasy=yes;pos=atf;game=no;tile=3;sz=300x250,300x500,300x600;ord=9622679692?"></script>
 <noscript><a href="http://ad.doubleclick.net/jump/kffl.fsv/ros;sect=ros;fantasy=yes;pos=atf;game=no;tile=3;sz=300x250,300x500,300x600;ord=' + random_number + '?" target="_blank"><img src="http://ad.doubleclick.net/ad/kffl.fsv/ros;sect=ros;fantasy=yes;pos=atf;game=no;tile=3;sz=300x250,300x500,300x600;ord=' + random_number + '?" width="300" height="600" border="0" alt=""></a></noscript>
 </div>
 <br>
+<div class="Item">
+        <h1 class="ItemIntro"><span class="bkg">KFFL: Sports Link of the Day</span></h1>
+        <div class="ItemContent NoTab">
+
+		<center>
+<script language="JavaScript" src="http://www.websitetoolbox.com/cgi/view/poll.cgi?username=kffl&amp;id=28829"></script>
+</center>	</div>
+</div>
+
 <div class="Item">
 <h1 class="ItemIntro"><span class="bkg">Featured Links</span></h1>
 <div class="ItemContent NoTab">
@@ -433,10 +327,10 @@ document.write('<scr' + 'ipt src=http://ad.doubleclick.net/adj/kffl.fsv/ros;sect
 
 </div>
 </div>
-<div class="c1"><script type="text/javascript"> document.write('<scr' + 'ipt src=http://ad.doubleclick.net/adj/kffl.fsv/ros;sect=ros;fantasy=yes;game=no;tile=2;sz=160x600,300x600;ord=' + random_number + '?></scr' + 'ipt>'); </script><script src="http://ad.doubleclick.net/adj/kffl.fsv/ros;sect=ros;fantasy=yes;game=no;tile=2;sz=160x600,300x600;ord=3184322236?"></script>
+<div class="c1"><script type="text/javascript"> document.write('<scr' + 'ipt src=http://ad.doubleclick.net/adj/kffl.fsv/ros;sect=ros;fantasy=yes;game=no;tile=2;sz=160x600,300x600;ord=' + random_number + '?></scr' + 'ipt>'); </script><script src="http://ad.doubleclick.net/adj/kffl.fsv/ros;sect=ros;fantasy=yes;game=no;tile=2;sz=160x600,300x600;ord=9622679692?"></script>
 <noscript><a href="http://ad.doubleclick.net/jump/kffl.fsv/ros;sect=ros;fantasy=yes;game=no;tile=2;sz=160x600,300x600;ord=' + random_number + '?" target="_blank"><img src="http://ad.doubleclick.net/ad/kffl.fsv/ros;sect=ros;fantasy=yes;game=no;tile=2;sz=160x600,300x600;ord=' + random_number + '?" width="300" height="600" border="0" alt="" /></a></noscript></div><br>
 </td></tr></tbody></table>
-<!-- <img src="/images/spacer.gif" style="width: 300px; height: 1px;" alt=""/><br />
+<!-- <img src="http://s3.amazonaws.com/kffl/images/site-headers/spacer.gif" style="width: 300px; height: 1px;" alt=""/><br />
 </td></tr></table> -->
 
 <p>&nbsp;</p>
@@ -456,12 +350,12 @@ document.write('<scr' + 'ipt src=http://ad.doubleclick.net/adj/kffl.fsv/ros;sect
 </tbody></table>
 
 <center>
-<script type="text/javascript"> document.write('<scr' + 'ipt src=http://ad.doubleclick.net/adj/kffl.fsv/ros;sect=ros;fantasy=yes;game=no;tile=11;dcopt=ist;sz=728x90;ord=' + random_number + '?></scr' + 'ipt>'); </script><script src="http://ad.doubleclick.net/adj/kffl.fsv/ros;sect=ros;fantasy=yes;game=no;tile=11;dcopt=ist;sz=728x90;ord=3184322236?"></script>
+<script type="text/javascript"> document.write('<scr' + 'ipt src=http://ad.doubleclick.net/adj/kffl.fsv/ros;sect=ros;fantasy=yes;game=no;tile=11;dcopt=ist;sz=728x90;ord=' + random_number + '?></scr' + 'ipt>'); </script><script src="http://ad.doubleclick.net/adj/kffl.fsv/ros;sect=ros;fantasy=yes;game=no;tile=11;dcopt=ist;sz=728x90;ord=9622679692?"></script>
 <noscript><a href="http://ad.doubleclick.net/jump/kffl.fsv/ros;sect=ros;fantasy=yes;game=no;tile=11;sz=728x90;ord=' + random_number + '?" target="_blank"><img src="http://ad.doubleclick.net/ad/kffl.fsv/ros;sect=ros;fantasy=yes;game=no;tile=11;sz=728x90;ord=' + random_number + '?" width="728" height="90" border="0" alt=""></a></noscript>
 </center>
 
 <center><div id="clearer">
-    <a href="/pages/contact-kffl.php">Contact</a> | <a href="/pages/privacy-policy.php">Privacy Policy</a> | © 2011 <a target="_blank" href="http://www.fantasysportsventures.com">Fantasy Sports Ventures, Inc.</a>
+    <a href="/pages/contact-kffl.php">Contact</a> | <a href="/pages/privacy-policy.php">Privacy Policy</a> | © 2012 KFFL.com | Part of the <a target="_blank" title="USA TODAY Sports" href="http://Sports.USATODAY.com/">USA TODAY Sports Media Group</a>.
 </div></center>
 </div>
 
@@ -492,21 +386,21 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 <script type="text/javascript">
 try{
 var pageTracker = _gat._getTracker("UA-1378078-3");
+
 pageTracker._trackPageview();
 } catch(err) {}
 </script>
 
 </td><td valign="top"><script type="text/javascript"> 
 document.write('<scr' + 'ipt src=http://ad.doubleclick.net/adj/kffl.fsv/ros;sect=ros;fantasy=yes;game=no;tile=8;sz=120x701;ord=' + random_number + '?></scr' + 'ipt>'); 
-</script><script src="http://ad.doubleclick.net/adj/kffl.fsv/ros;sect=ros;fantasy=yes;game=no;tile=8;sz=120x701;ord=3184322236?"></script>
+</script><script src="http://ad.doubleclick.net/adj/kffl.fsv/ros;sect=ros;fantasy=yes;game=no;tile=8;sz=120x701;ord=9622679692?"></script>
 <noscript><a href="http://ad.doubleclick.net/jump/kffl.fsv/ros;sect=ros;fantasy=yes;game=no;tile=8;sz=120x701;ord=' + random_number + '?" target="_blank" rel="external"><img src="http://ad.doubleclick.net/ad/kffl.fsv/ros;sect=ros;fantasy=yes;game=no;tile=8;sz=120x701;ord=' + random_number + '?" width="120" height="700" border="0" alt="" /></a></noscript></td></tr></tbody></table>
-
 <!-- Google Analytics Code -->
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-5005348-1']);
-  _gaq.push(['_trackPageview']);
+    _gaq.push(['_trackPageview']);
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -516,26 +410,11 @@ document.write('<scr' + 'ipt src=http://ad.doubleclick.net/adj/kffl.fsv/ros;sect
 
 </script>
 
-<!-- Start Quantcast tag -->
-<script type="text/javascript">
-_qoptions={
-qacct:"p-dfioVFJQkAkw2"
-};
-</script>
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<noscript>
-<img src="http://pixel.quantserve.com/pixel/p-dfioVFJQkAkw2.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
-</noscript>
-<!-- End Quantcast tag -->
-
-
 <!-- Begin Tynt Tag -->
  <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=d_PJzwjWSr36OVadbiUzgI&amp;s=61"></script>
 <!-- End Tynt Tag -->
 
-
-<!-- START Nielsen Online SiteCensus V6.0 -->
-<!-- COPYRIGHT 2010 Nielsen Online -->
+<!-- START Nielsen Online SiteCensus V6.0 --> <!-- COPYRIGHT 2010 Nielsen Online --> 
 <script type="text/javascript">
   (function () {
     var d = new Image(1, 1);
@@ -563,9 +442,40 @@ qacct:"p-dfioVFJQkAkw2"
 </script>
 <!-- Google +1 End -->
 
-<script type="text/javascript" src="http://s3.amazonaws.com/bigleadsports/bls-toolbar/bigleadsports1.js"></script>
+<!-- Start Chart Beat Code -->
+
+<script type="text/javascript">
+    var _sf_async_config={};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 33086;
+    _sf_async_config.domain = 'kffl.com';
+    _sf_async_config.sections = 'Sports';  //CHANGE THIS
+    _sf_async_config.authors = 'KFFL';    //CHANGE THIS
+    /** CONFIGURATION END **/
+    (function(){
+      function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src',
+           (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +
+           'js/chartbeat.js');
+        document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+</script>
+
+<!-- End Chart Beat Code -->
+
+<!-- Start Meebo Code -->
+<!-- <script type="text/javascript" src="http://s3.amazonaws.com/bigleadsports/bls-toolbar/bigleadsports1.js"></script> -->
+<!-- -- End Meebo Code ---->
 
 
 
 
-</center></body></html>
+</center><script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
