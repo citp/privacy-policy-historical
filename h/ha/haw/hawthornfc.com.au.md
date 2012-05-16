@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hawthornfc.com.au privacy policy that was archived on 2011-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111020233552id_/http%3A//www.hawthornfc.com.au/privacy%2520policy/tabid/15542/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hawthornfc.com.au privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516075010id_/http%3A//www.hawthornfc.com.au/privacy%2520policy/tabid/15542/default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Official AFL Website of the Hawthorn Football Club
 
