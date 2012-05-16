@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the snapsurveys.com privacy policy that was archived on 2011-11-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111115000006id_/http%3A//www.snapsurveys.com/legal/privacy-policy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the snapsurveys.com privacy policy that was archived on 2012-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120516103124id_/http%3A//www.snapsurveys.com/legal/privacy-policy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/default-page.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -22,23 +22,24 @@
 <!--[if IE]>
 <link href="/css/css-170709/ie.css" rel="stylesheet" type="text/css" media="screen" />
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="/scripts/fancybox/jquery.fancybox-1.3.4.css">
 <link rel="stylesheet" type="text/css" href="/scripts/ui-lightness/jquery-ui-1.7.2.custom.css">
 <link rel="stylesheet" type="text/css" href="/scripts/ui-lightness/theme-popular/jquery-ui-1.7.2.custom.css">
 <link rel="stylesheet" type="text/css" href="/scripts/validation-engine/validationEngine.css">
 <link rel="stylesheet" type="text/css" href="/scripts/colorbox/colorbox.css">
 <link rel="stylesheet" type="text/css" href="/css/print.css" media="print">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.13/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="/scripts/coda-slider-2.0.css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script src="http://cdn.jquerytools.org/1.2.7/full/jquery.tools.min.js"></script>
+<script type="text/javascript" src="/scripts/jquery-ui-1.8.20.custom.min.js"></script>
 <script type="text/javascript" src="/scripts/validation-engine/jquery.validationEngine.js"></script>
 <script type="text/javascript" src="/scripts/validation-engine/languages/jquery.validationEngine-en.js"></script>
 <script type="text/javascript" src="/scripts/colorbox/jquery.colorbox-min.js"></script>
 <script type="text/javascript" src="/scripts/jquery-cycle/jquery.cycle.lite.js"></script>
-<script type="text/javascript" src="/scripts/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
 <script type="text/javascript" src="/scripts/global.js"></script>
 <script type="text/javascript" src="/scripts/combined.configs.js"></script>
 <script type="text/javascript" src="/scripts/snap.js"></script>
-
+<script type="text/javascript" src="/scripts/jquery.coda-slider-2.0.js"></script>
+<script type="text/javascript" src="/scripts/jquery.easing.1.3.js"></script>
 <link rel="shortcut icon" type="image/ico" href="http://www.snapsurveys.com/favicon.ico">
 <!-- InstanceParam name="bodyID" type="text" value="home" -->
 <!-- InstanceParam name="header" type="text" value="" -->
@@ -66,7 +67,7 @@
 <a name="top" id="top"></a>
 <div id="header" class="">
   <div id="headerInner"> 
-  <a id="logo" href="/"><img src="/images/snap-logo-wo.gif" alt="Snap Surveys" width="114" height="36"></a>
+  <a id="logo" href="/"><img src="/images/snap-logo-wo.gif" alt="Snap Survey Software" width="114" height="36"></a>
 <p class="skip"><a href="#content">Skip to content »</a></p>
 <ul id="topNav">
   <li id="tab-home" class="mega"><a class="tab" href="/"><span>Home</span></a></li>
@@ -212,11 +213,40 @@
   })();
 </script></li>
   </ul>
-  <form id="search" action="http://www.snapsurveys.com/cgi-bin/sitesearch.pl" method="post">
-    <input name="terms" type="text" id="terms" value="" title="Search site for...">
-    <input name="submit" type="image" value="submit" id="submit" src="/images/header/search-btn.gif" alt="Find">
-    <input name="mega" type="hidden" class="hide" value="mercator">
-  </form>
+  <!--<form id="search" action="http://www.snapsurveys.com/cgi-bin/sitesearch.pl" method="post">
+    <input name="terms" type="text" id="terms" value="" title="Search site for..." />
+    <input name="submit" type="image" value="submit" id="submit" src="/images/header/search-btn.gif" alt="Find" />
+    <input name="mega" type="hidden" class="hide" value="mercator" />
+  </form>-->
+<div id="cse-search-form">Loading</div>
+<script src="//www.google.co.uk/jsapi" type="text/javascript"></script>
+<script type="text/javascript"> 
+  google.load('search', '1', {language : 'en', style : google.loader.themes.V2_DEFAULT});
+  google.setOnLoadCallback(function() {
+    var customSearchOptions = {};  var customSearchControl = new google.search.CustomSearchControl(
+      '010322485688955450255:g4-9pxlxy24', customSearchOptions);
+    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+    var options = new google.search.DrawOptions();
+    options.setAutoComplete(true);
+    options.enableSearchboxOnly("http://www.snapsurveys.com/search-results/index.shtml");
+				customSearchControl.setLinkTarget(google.search.Search.LINK_TARGET_SELF);
+    customSearchControl.draw('cse-search-form', options);
+  }, true);
+</script>
+ <style type="text/css">
+  input.gsc-input, .gsc-input-box, .gsc-input-box-hover, .gsc-input-box-focus {
+    border-color: #D9D9D9;
+  }
+  input.gsc-search-button, input.gsc-search-button:hover, input.gsc-search-button:focus {
+    border-color: #2F5BB7;
+    background-color: #357AE8;
+    background-image: none;
+  }
+  .gsc-input input.gsc-input {
+    background: none repeat scroll 0% 0% white !important;
+  }
+</style>
+
 </div>
 
 
@@ -232,62 +262,73 @@
 	<p class="breadcrumbs"><a href="/">Home</a> / <a href="/about/">About Us</a> / Privacy Policy </p>
       
         <h1>Privacy Policy</h1>
-        <p>Our Privacy Policy describes how we capture and use the information we  gather about visitors to this website. The Policy covers the type of  information collected, how it is collected, how it can be amended or deleted,  user registration, web-tracking, online surveys and newsletter subscription.</p>
-        <a href="http://clicktoverify.truste.com/pvr.php?page=validate&amp;url=www.snapsurveys.com&amp;sealid=102" target="_blank"><img src="/truste/seal_ctv_en_60.png" alt="TRUSTe - Click to Verify" width="60" height="82" class="titleIconTwo"></a>
-      <p>Snap Surveys, Ltd has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html" target="_blank">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe program does not cover information that may be collected through downloadable software. This privacy statement covers the Web site www.snapsurveys.com.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@snapsurveys.com.  If you are not satisfied with our response you can contact <a href="http://watchdog.truste.com/pvr.php?page=complaint" target="_blank">TRUSTe here</a>.    </p>
-      <p>Snap  Surveys, Ltd. &nbsp;complies with the EU Safe  Harbor framework as set forth by the Department of Commerce regarding the  collection, use, and retention of data from the European Union. Information regarding the E.U. Safe Harbor Framework can be found at: <a href="http://export.gov/safeharbor" target="_blank">http://export.gov/safeharbor</a>.    </p>
-      <h3>Information Collected During Registration</h3>
-        <p>When&nbsp; you download a free trial copy  we collect information, such as name, email address, organization, address, and  telephone number,. This information is used to create your account, contact the  user about the services on our site for which they have expressed particular  interest. It is optional for the user to provide demographic information, and  unique identifiers, but encouraged so we can provide a more personalized  experience. If you sign up for access to any of the protected areas of this  website, we will use a cookie; this cookie will contain a unique ID that we  will use to identify you when you return to the site.<br>
-          We do not tolerate spam, and we will not sell, rent, lease, trade, swap,  market, exchange, barter, distribute, or disclose the information we collect  about you.</p>
-        <p>If you wish to add a new client to your account we will collect a username,  password, name, phone number and email address. We collect this information for  the sole purpose of allowing you to set up a new client within your  account.&nbsp; We will not use this  information for any other purpose. <br>
-          Newsletter </p>
-        <p>If you  wish to subscribe to our newsletter(s), we will use your name and email address  to send the newsletter to you.&nbsp; Out of  respect for your privacy, we provide you a way to unsubscribe.&nbsp; Please see the “Choice and Opt-out” section.</p>
-        <h3>Service-related Announcements</h3>
-        <p>We will send  you service-related announcements on rare occasions when it is necessary to do  so. For instance, if our service is  temporarily suspended for maintenance, we might send you an email.&nbsp; </p>
-        <p>Generally,  you may not opt-out of these communications, which are not promotional in  nature. If you do not wish to receive  them, you have the option to close your account.</p>
-        <h3>Forum Notifications</h3>
-        <p>You have the option of receiving email notifications each time someone  replies to the threads or boards you add to your notify list. If you no longer wish to receive these types  of notifications simply login to your forum account and modify your  notifications.</p>
-        <h3>Updating/Accessing/Amending/Correcting  Personally Identifiable Information</h3>
-        <p>If your  personally identifiable information changes, or if you no longer desire our  service, you may correct, update, or delete by making the change within your  account once logged in or by emailing our Customer Support at <a href="mailto:info@snapsurveys.com">info@snapsurveys.com</a>. We will respond to your request to access within 30 days.        </p>
-        <h3>Data Retention</h3>
-      <p>We will retain your information for as long as your account is active or as needed to provide you services.  If you wish to cancel your account or request that we no longer use your information to provide you services contact us at <a href="mailto:privacy@snapsurveys.com">privacy@snapsurveys.com</a>.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. <br>
-      </p>
-      <h3>Cookies</h3>
-        <p>A cookie  is a small text file that is stored on a user’s computer for record-keeping  purposes. We use cookies on this site. We do not link the information we store  in cookies to any personally identifiable information you submit while on our  site. </p>
-        <p>We use  both session ID cookies and persistent cookies.&nbsp;  We use session cookies to make it easier for you to navigate our site. A  session ID cookie expires when you close your browser. A persistent cookie  remains on your hard drive for an extended period of time. You can remove  persistent cookies by following directions provided in your Internet browser’s  “help” file. </p>
-        <p>We set a  persistent cookie to store your passwords, so you don’t have to enter it more  than once.&nbsp; Persistent cookies also  enable us to track and target the interests of our users to enhance the  experience on our site.</p>
-        <h3>Third  Party Cookies</h3>
-        <p>The use of cookies by third parties is not  covered by our privacy statement. We do  not have access or control over these cookies.&nbsp;These third parties use session ID cookies to make it easier for you to  navigate our site.</p>
-        <h3>Web-tracking</h3>
-        <p>Snap Surveys employs a web-tracking system to track visitor traffic patterns  throughout the website. We collect the visitor's domain name, referral data,  browser, platform type and duration of the visit. The information gathered is  used to produce overall usage statistics about our site, which we use to  evaluate the site. We do not correlate this information with data about  individuals.</p>
-        <!--<h3>Clear Gifs  (Web Beacons/Web Bugs)</h3>
-        <p>Our third party advertising partner employs a  software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help  us better manage content on our site by informing us what content is  effective. Clear gifs are tiny graphics  with a unique identifier, similar in function to cookies, and are used to track  the online movements of Web users.&nbsp; In  contrast to cookies, which are stored on a user&rsquo;s computer hard drive, clear  gifs are embedded invisibly on Web pages and are about the size of the period  at the end of this sentence. We do not tie the information gathered by clear  gifs to our customers&rsquo; personally identifiable information. </p>
-        <p>Snap Surveys, Ltd does not share, sell, rent or trade personal information  other than as disclosed within this privacy policy. We  reserve the right to disclose your personally identifiable information as  required by law and when we believe that disclosure is necessary to protect our  rights and/or comply with a judicial proceeding, court order, or legal process  served on our Web site.</p>
-        <p><strong>Snap Surveys uses a third party  service providers for the following services: &nbsp;hosting, &nbsp;processing of credit cards and shipments, and  a third party solution for email marketing campaigns.&nbsp; These third parties may not use your personal  information for their own promotional purposes. </strong></p>-->
-      <h3>Online surveys</h3>
-        <p>Occasionally we ask for information via online surveys from our website.  Information is given on a voluntary basis. Non-participation will not inhibit  your use of our web site in any way. If you provided the information to us in  error, you may request its removal at any time. The information gathered will  be used to produce overall statistics. Information will not be correlated with  data about individuals.</p>
-        <h3>Forums/Private Messages</h3>
-        <p>If you use the forum or Private  Messages on this Web site, you should be aware that any personally identifiable  information you submit there can be read, collected, or used by other users of  these forums, and could be used to send you unsolicited messages. We are not responsible for the personally  identifiable information you choose to submit in these forums or private  messages. Please note that you have the  ability to hide your e-mail address within the forum section by clicking on  “Board Settings” and then going to “privacy settings”. To request removal of your personal information from our blog or community forum, contact us at <a href="mailto:privacy@snapsurveys.com">privacy@snapsurveys.com</a>.  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. </p>
-        <h3>Polls</h3>
-        <p>You may sign up for our Free Web  Polls, if you wish to do so we will collect an email address and password so  that you may participate in our Free Web Polls.&nbsp;  We will not use your information for any other purpose. </p>
-        <h3>Choice/Opt-Out</h3>
-        <p>If you would like to unsubscribe to our monthly "eNews"  newsletter, you may opt-out of receiving them by following the instructions  included in each newsletter or by sending an e-mail with  "Unsubscribe" in the subject heading to <a href="mailto:info@snapsurveys.com">info@snapsurveys.com</a>.</p>
-        <h3><strong>Security</strong></h3>
-        <p>The security of your personal information is important to us.&nbsp; When you enter personal information within  the customer login area of the site, we encrypt that information using secure socket  layer technology (SSL). &nbsp;&nbsp;&nbsp;</p>
-        <p>We follow generally accepted industry standards to protect the personally  identifiable information submitted to us, both during transmission and once we  receive it.&nbsp; No method of transmission  over the Internet, or method of electronic storage, is 100% secure,  however.&nbsp; Therefore, while we strive to  use commercially acceptable means to protect your personal information, we  cannot guarantee its absolute security.</p>
-        <p>If you have any questions about security on our Web site, you can email  us at <a href="mailto:info@snapsurveys.com">info@snapsurveys.com</a></p>
-        <h3>In summary</h3>
-        <p>To summarize our Privacy Policy, any information you supply via our website  will be known only to you and to Snap Surveys. We will not release your  personal data to anyone else without your express consent. This privacy policy  only covers the Snap Surveys website at: <a href="http://www.snapsurveys.com/">www.snapsurveys.com</a>.</p>
-        <h3>Links to Other Sites</h3>
-        <p>If  you click on a link to a third party site, including on an advertisement] you  will leave our site go to the site you selected. Because we cannot control the  activities of third parties, we cannot accept responsibility for any use of  your personally identifiable information by such third parties, and we cannot  guarantee that they will adhere to the same privacy practices as  www.snapsurveys.com. We encourage you to review the privacy statements of any  other service provider from whom you request services. If you visit a third  party website that is linked to our site, you should read that site’s privacy statement  before providing any personally identifiable information.</p>
-        <p>If you have any questions about our Privacy Policy, please contact Snap  Surveys Ltd at one of the following addresses:</p>
-        <p>US address: One New Hampshire Ave, Suite 230 Portsmouth, NH 03801 USA</p>
-        <p>UK address: 5 Mead Court, Thornbury, Bristol BS35 3UW, UK.</p>
-        <p><a href="mailto:privacy@snapsurveys.com">privacy@snapsurveys.com</a></p>
-        <h3>Changes  in this Privacy Statement</h3>
-        <p>If we  decide to change our privacy policy, we will post those changes to this privacy  statement, the home page, and other places we deem appropriate so that you are  aware of what information we collect, how we use it, and under what  circumstances, if any, we disclose it.&nbsp; </p>
-        <p>We reserve  the right to modify this privacy statement at any time, so please review it  frequently.&nbsp; If we make material changes  to this policy, we will notify you here, by email, or by means of a notice on  our home page.</p>
-        <p>Last Updated on 03/09/2011</p>
+        <p>Our Privacy  Policy describes how we capture and use the information we gather about  visitors to this website. The Policy covers the type of information collected,  how it is collected, how it can be amended or deleted, user registration, web-tracking,  online surveys and newsletter subscription.</p>
+<p><a href="//privacy.truste.com/privacy-seal/Snap-Surveys,-Ltd/validation?rid=bcb4b8db-4339-4fe8-a10d-c29d3d439ac6" title="TRUSTe European Safe Harbor certification" target="_blank"><img src="//privacy-policy.truste.com/privacy-seal/Snap-Surveys,-Ltd/seal?rid=bcb4b8db-4339-4fe8-a10d-c29d3d439ac6" alt="TRUSTe European Safe Harbor certification" class="frameRight" style="border: none"></a>Snap Surveys,  Ltd has been awarded TRUSTe's Privacy Seal signifying that this privacy policy  and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html" target="_blank">TRUSTe's program requirements</a> including transparency,  accountability and choice regarding the collection and use of your personal  information. The TRUSTe program does not cover information that may be  collected through downloadable software. This privacy statement covers the Web  site www.snapsurveys.com. TRUSTe's mission, as an independent third party, is  to accelerate online trust among consumers and organizations globally through  its leading privacy trustmark and innovative trust solutions. If you have  questions or complaints regarding our privacy policy or practices, please  contact us at privacy@snapsurveys.com. If you are not satisfied with our  response you can contact <a href="http://watchdog.truste.com/pvr.php?page=complaint" target="_blank">TRUSTe  here</a>. </p>
+<p>Snap Surveys,  Ltd complies with the U.S. –  E.U. Safe  Harbor framework and the U.S. - Swiss  Safe Harbor  framework as set forth by the U.S. Department of Commerce regarding the  collection, use, and retention of personal data from European Union member  countries and Switzerland.  Snap Surveys Ltd has certified that it adheres to the Safe Harbor Privacy  Principles of notice, choice, onward transfer, security, data integrity,  access, and enforcement. To learn more about the Safe Harbor  program, and to view Snap Surveys Ltd certification, please visit <a href="http://www.export.gov/safeharbor/" target="_blank">http://www.export.gov/safeharbor/</a></p>
+<h3>Information Collected During Registration</h3>
+        <p>When&nbsp;you  download a free trial copy we collect information, such as name, email address,  organization, address, and telephone number. This information is used to create  your account, contact you about the services on our site for which you have  expressed particular interest. It is optional for you to provide demographic  information, and unique identifiers, but encouraged so we can provide a more  personalized experience. If you sign up for access to any of the protected  areas of this website, we will use a cookie; this cookie will contain a unique  ID that we will use to identify you when you return to the site.<br>
+          <br>
+          We do not tolerate spam, and we will not sell, rent, lease, trade, swap,  market, exchange, barter, distribute, or disclose the information we collect  about you.<br>
+        If you wish to  add a new client to your account we will collect a username, password, name,  phone number and email address. We collect this information for the sole  purpose of allowing you to set up a new client within your account.&nbsp; We  will not use this information for any other purpose. </p>
+<h3>Newsletter </h3>
+<p>If you wish to  subscribe to our newsletter(s), we will use your name and email address to send  the newsletter to you.&nbsp; Out of respect for your privacy, we provide you a  way to unsubscribe.&nbsp; Please see the “Choice and Opt-out” section.</p>
+<h3>Service-related  Announcements</h3>
+<p>We will send you  service-related announcements on rare occasions when it is necessary to do so.  For instance, if our service is temporarily suspended for maintenance, we might  send you an email.&nbsp; </p>
+<p>  Generally, you  may not opt-out of these communications, which are not promotional in nature.  If you do not wish to receive them, you have the option to close your account.</p>
+<h3>Forum  Notifications</h3>
+<p>You have the  option of receiving email notifications each time someone replies to the  threads or boards you add to your notify list. If you no longer wish to receive  these types of notifications simply login to your forum account and modify your  notifications.</p>
+<h3>Updating/Accessing/Amending/Correcting  Personally Identifiable Information</h3>
+<p>If your  personally identifiable information changes, or if you no longer desire our  service, you may correct, update, or delete by making the change within your  account once logged in or by emailing our Customer Support at <a href="mailto:info@snapsurveys.com?subject=Privacy%20Policy%20Question">info@snapsurveys.com</a>. We will respond to  your request to access within 30 days. </p>
+<h3>Data Retention</h3>
+<p>We will retain  your information for as long as your account is active or as needed to provide  you services. If you wish to cancel your account or request that we no longer  use your information to provide you services contact us at <a href="mailto:privacy@snapsurveys.com?subject=Privacy%20Policy%20Question">privacy@snapsurveys.com</a>. We will  retain and use your information as necessary to comply with our legal  obligations, resolve disputes, and enforce our agreements. </p>
+<h3>Cookies</h3>
+<p>A cookie is a  small text file that is stored on a user’s computer for record-keeping  purposes. We use cookies on this site. We do not link the information we store  in cookies to any personally identifiable information you submit while on our  site. </p>
+<p>  We use both  session ID cookies and persistent cookies.&nbsp; We use session cookies to make  it easier for you to navigate our site. A session ID cookie expires when you  close your browser. A persistent cookie remains on your hard drive for an  extended period of time. You can remove persistent cookies by following  directions provided in your Internet browser’s “help” file. </p>
+<p> We set a  persistent cookie to store your passwords, so you don’t have to enter it more  than once.&nbsp; Persistent cookies also enable us to track and target the  interests of our users to enhance the experience on our site.<br>
+  Snap Web:WebHost questionnaires do not use  cookies.</p>
+<p>Snap Web:HTML questionnaires will use cookies  if either:</p>
+
+  <ol type="a">
+    <li>you  check the “Try to drop a cookie” box in the Questionnaire Properties /  Interview section. The purpose of this is to prevent multiple responses from  the same computer.</li>
+    <li>you  use the Save button feature.</li>
+  </ol>
+
+<p>In the case of <strong>[a]</strong> no personally identifiable  information is held. For <strong>[b]</strong>, the responses to the questionnaire to date are  held which <em>may</em> include personably identifiable data. Both uses are  essential to the functioning of the particular options and both are choices  made by the questionnaire designer/publisher.</p>
+<h3>Third Party  Cookies</h3>
+<p>The use of  cookies by third parties is not covered by our privacy statement. We do not  have access or control over these cookies.&nbsp;These third parties use session  ID cookies to make it easier for you to navigate our site.</p>
+<h3>Clear Gifs (Web  Beacons/Web Bugs)</h3>
+<p>We employ or our  third party tracking utility partner employs a software technology called clear  gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our  site by informing us what content is effective. Clear gifs are tiny graphics  with a unique identifier, similar in function to cookies, and are used to track  the online movements of Web users. In contrast to cookies, which are stored on  a user’s computer hard drive, clear gifs are embedded invisibly on Web pages  and are about the size of the period at the end of this sentence. We do not tie  the information gathered by clear gifs to our customers’ personally  identifiable information. </p>
+<h3>Web-tracking</h3>
+<p>Snap Surveys  employs a web-tracking system to track visitor traffic patterns throughout the  website. We collect the visitor's domain name, referral data, browser, platform  type and duration of the visit. The information gathered is used to produce  overall usage statistics about our site, which we use to evaluate the site. We  do not correlate this information with data about individuals.</p>
+<h3>Online surveys</h3>
+<p>Occasionally we  ask for information via online surveys from our website. Information is given  on a voluntary basis. Non-participation will not inhibit your use of our web  site in any way. If you provided the information to us in error, you may  request its removal at any time. The information gathered will be used to  produce overall statistics. Information will not be correlated with data about  individuals.</p>
+<h3>Forums/Private  Messages</h3>
+<p>If you use the  forum or Private Messages on this Web site, you should be aware that any  personally identifiable information you submit there can be read, collected, or  used by other users of these forums, and could be used to send you unsolicited  messages. We are not responsible for the personally identifiable information  you choose to submit in these forums or private messages. Please note that you  have the ability to hide your e-mail address within the forum section by  clicking on “Board Settings” and then going to “privacy settings”. To request  removal of your personal information from our blog or community forum, contact  us at <a href="mailto:privacy@snapsurveys.com">privacy@snapsurveys.com</a>. In  some cases, we may not be able to remove your personal information, in which  case we will let you know if we are unable to do so and why. </p>
+<h3>Polls</h3>
+<p>You may sign up  for our Free Web Polls, if you wish to do so we will collect an email address  and password so that you may participate in our Free Web Polls.&nbsp; We will  not use your information for any other purpose. </p>
+<h3>Social Media  (Features) and Widgets: </h3>
+<p>Our Web site  includes Social Media Features, such as the Facebook Like button and Widgets,  such as the Share this button or interactive mini-programs that run on our  site. These Features may collect your IP address, which page you are visiting  on our site, and may set a cookie to enable the Feature to function properly.  Social Media Features and Widgets are either hosted by a third party or hosted  directly on our Site. Your interactions with these Features are governed by the  privacy policy of the company providing it.</p>
+<h3>Choice/Opt-Out</h3>
+<p>If you would  like to unsubscribe to our monthly "eNews" newsletter, you may  opt-out of receiving them by following the instructions included in each  newsletter or by sending an e-mail with "Unsubscribe" in the subject  heading to <a href="mailto:info@snapsurveys.com?subject=Privacy%20Policy%20Question">info@snapsurveys.com</a>.</p>
+<h3>Security</h3>
+<p>The security of  your personal information is important to us.&nbsp; When you enter personal  information within the customer login area of the site, we encrypt that  information using secure socket layer technology (SSL). &nbsp;&nbsp;&nbsp;<br>
+  We follow  generally accepted industry standards to protect the personally identifiable  information submitted to us, both during transmission and once we receive  it.&nbsp; No method of transmission over the Internet, or method of electronic  storage, is 100% secure, however.&nbsp; Therefore, while we strive to use  commercially acceptable means to protect your personal information, we cannot  guarantee its absolute security.<br>
+  If you have any  questions about security on our Web site, you can email us at <a href="mailto:info@snapsurveys.com?subject=Privacy Policy Question">info@snapsurveys.com</a></p>
+<h3>In summary</h3>
+<p>To summarize our  Privacy Policy, any information you supply via our website will be known only  to you and to Snap Surveys. We will not release your personal data to anyone  else without your express consent. This privacy policy only covers the Snap  Surveys website at: <a href="http://www.snapsurveys.com/">www.snapsurveys.com</a>.</p>
+<h3>Links to Other  Sites</h3>
+<p>If you click on  a link to a third party site, including on an advertisement] you will leave our  site go to the site you selected. Because we cannot control the activities of  third parties, we cannot accept responsibility for any use of your personally  identifiable information by such third parties, and we cannot guarantee that  they will adhere to the same privacy practices as www.snapsurveys.com. We  encourage you to review the privacy statements of any other service provider  from whom you request services. If you visit a third party website that is  linked to our site, you should read that site’s privacy statement before  providing any personally identifiable information.</p>
+<p>  If you have any  questions about our Privacy Policy, please contact Snap Surveys Ltd at one of  the following addresses:</p>
+<ul>
+  <li>  <strong>US address</strong>: One New Hampshire Ave, Suite 230 Portsmouth, NH 03801 USA</li>
+  <li> <strong>UK address</strong>: 5 Mead Court, Thornbury, Bristol BS35    3UW, UK.</li>
+  </ul>
+<p><a href="mailto:privacy@snapsurveys.com?subject=Privacy%20Policy%20Question">privacy@snapsurveys.com</a></p>
+<h3>Changes in this  Privacy Statement</h3>
+<p>If we decide to  change our privacy policy, we will post those changes to this privacy  statement, the home page, and other places we deem appropriate so that you are  aware of what information we collect, how we use it, and under what  circumstances, if any, we disclose it.&nbsp; <br>
+  We reserve the  right to modify this privacy statement at any time, so please review it  frequently.&nbsp; If we make material changes to this policy, we will notify  you here, by email, or by means of a notice on our home page.</p>
+<p><br>
+  Last Updated on  08/03/2012</p>
     <!-- InstanceEndEditable -->
     </div>
     <!--/primary-->
@@ -403,6 +444,7 @@
           <li><a href="http://www.linkedin.com/company/snap-surveys"><img src="/images/social-network/linkedin-16px.png" alt="LinkedIn" width="16" height="16" align="absmiddle"> LinkedIn</a></li>
           <li><a href="https://www.facebook.com/SnapSurveys"><img src="/images/social-network/facebook-16px.png" alt="Facebook" width="16" height="16" align="absmiddle"> Facebook</a></li>
           <li><a href="http://www.youtube.com/SnapSurveys"><img src="/images/social-network/youtube-16px.png" alt="YouTube" width="16" height="16" align="absmiddle"> YouTube</a></li>
+          <li><a href="http://fusion.google.com/add?feedurl=http://feeds.feedburner.com/SnapSurveysBlog" onclick="this.href=subscribeNow(this.href,'Google');return true"><img src="http://buttons.googlesyndication.com/fusion/add.gif" width="104" height="17" alt="Add to Google"></a></li>
          
         </ul>
       </div>
@@ -426,11 +468,20 @@
           London, SW1Y 4RF,<br>
           UK</p>
         <p><a href="mailto:info@snapsurveys.com">info@snapsurveys.com</a></p>
+		<p>
+		<!--------- Begin WebRater Launcher Code 
+
+<script id="WebRater" type="text/javascript" src="http://184.106.118.246/snapfms/Widget/ScriptLoader.js?id=f0ce3567-9968-440f-a11f-e85458c5b3aa" ></script>
+
+<!--------- End WebRater Launcher Code --------->
+</p>
+
       </div>
     </div>
   
-    <p>Copyright © 2011 Snap Surveys Ltd. All rights reserved worldwide. <a href="/legal/privacy-policy.shtml">Privacy policy</a> | <a href="/legal/legal-statement.shtml">Legal statement.</a></p>
+    <p>Copyright © 2012 Snap Surveys Ltd. All rights reserved worldwide. <a href="/legal/privacy-policy.shtml">Privacy policy</a> | <a href="/legal/legal-statement.shtml">Legal statement.</a></p>
     <p><a href="http://www.snapsurveys.es/"><img src="/images/images-rev09/flags/spain.gif" width="16" height="11" alt="Espanole"> Español</a> | <a href="http://www.snap-benelux.be/documents/home.xml?lang=fr"><img src="/images/images-rev09/flags/france.gif" width="16" height="11" alt="Francais"> Français</a> | <a href="http://www.snap-benelux.be/documents/home.xml?lang=nl"><img src="/images/images-rev09/flags/nederlands.gif" width="16" height="11" alt="Nederlands"> Nederlands</a></p>
+	<div id="d8aa8df0-1699-4f5d-891b-6748d48a2000" style="text-align:center"> <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/Snap-Surveys,-Ltd/asc?rid=d8aa8df0-1699-4f5d-891b-6748d48a2000"></script><a href="//privacy.truste.com/privacy-seal/Snap-Surveys,-Ltd/validation?rid=bcb4b8db-4339-4fe8-a10d-c29d3d439ac6" title="TRUSTe European Safe Harbor certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/Snap-Surveys,-Ltd/seal?rid=bcb4b8db-4339-4fe8-a10d-c29d3d439ac6" alt="TRUSTe European Safe Harbor certification"></a></div>
   </div>
 </div>
 <!-- wrapFooter -->
