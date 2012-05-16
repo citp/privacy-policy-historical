@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fnb.co.za privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011034510id_/https%3A//www.fnb.co.za/legal-matters/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fnb.co.za privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516195412id_/https%3A//www.fnb.co.za/legal-matters/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Legal Matters - FNB
 
@@ -68,7 +68,7 @@ When you use the services or facilities provided by us, you may be given an acce
 
 ### Correction of personal information
 
-If you ever want to update or correct any of your personal information held by us, kindly contact us at the Internet banking helpline on **0860 11 22 44**. Alternatively, you can update and correct your information yourself by logging onto Internet Banking.
+If you ever want to update or correct any of your personal information held by us, kindly contact us at the Online Banking on **087 575 0000**. Alternatively, you can update and correct your information yourself by logging onto Internet Banking.
 
 ### Personal information held by or disclosed by you to a third party
 
