@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lonelycheatingwives.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008001849id_/http%3A//www.lonelycheatingwives.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lonelycheatingwives.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516055642id_/http%3A//www.lonelycheatingwives.com/privacypolicy.php) for the most accurate reproduction.*
 
 # lonelycheatingwives.comTerms of Use
 
