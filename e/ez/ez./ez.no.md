@@ -1,22 +1,23 @@
-> *The following text is extracted and transformed from the ez.no privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101074915id_/http%3A//ez.no/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ez.no privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517001551id_/http%3A//ez.no/Privacy-policy) for the most accurate reproduction.*
 
-# Privacy / eZ - ez.no
+# Privacy policy - eZ Systems Enterprise Web Content Management
 
-[eZ](https://web.archive.org/) > Privacy
+At eZ Systems, your privacy is important to us. For that reason, we have adopted this Privacy Policy to explain our information gathering practices. This policy may change over time, so you should check back for updates.
 
-The privacy of our visitors and customers are important to us. This page will fully disclose what information we collect, why we collect it and how we store it (and sometimes why we don't store it).
+#### No Required Information
 
-## **Log in**
+In general, you may visit our Web sites [www.ez.no ](http://www.ez.no/)or [share.ez.no](http://share.ez.no/) without identifying yourself or revealing any personal information. eZ Systems collects domain information from your visit to customize and improve your experience on our Web site.
 
-Log ins are private and contain information which lets a user log in to our site, and occasionally also store settings. Every log in needs a working e-mail address.
+eZ Systems’ Web site(s) may collect certain information from your visit, including the date and time of your access, the pages you have accessed, the name of the Internet Service Provider and the Internet Protocol (IP) address by which you are accessing the Internet, and the Internet address from which you linked to our site, if applicable. We use this information to better understand how our Web site is being used so that we can improve its quality and make it more beneficial to our users.
 
-##  **When do You Need to Log in?**
+#### Personal Information
 
-You need to log in when you want to write comments to articles or entering discussions on [http://share.ez.no](http://share.ez.no/) or when you want to access your eZ Publish Enterprise Service Portal. 
+Certain areas of our Web site may request personal information. If you choose to provide this information, the information will be used to respond to your requests for particular information about us or from our site. We may also use the personal information you provide to us to send you additional information about us by e-mail. You may, at any time, opt-out of receiving future e-mail communications from us by following the instructions in the e-mail you receive. Please note that you might start receiving e-mail communication again if you subsequently submit personal information at this Web site. We do not share any personal information you choose to provide to us with any third party.
 
-##  **What do We do With Your Addresses?**
+#### Linked Sites
 
-We will not sell your private information or in other ways use it for any other purpose than stated.   
-We will not release any information about our customers to third party unless required by law, a court order or in instances where a product or service bought through eZ Systems requires that the information be passed to our executor of that service or product or the transporter/shipper of products.
+Our privacy policy only covers our Web sites at [www.ez.no](http://www.ez.no/) and [share.ez.no](http://share.ez.no/). Some areas of our Web site might contain links to third party sites. We do not control the linked sites and we are not responsible for their privacy practices. We suggest that you check the privacy policies of these sites before providing any personal information to them. 
 
-However, if you have filled any form on this site to download files, documents or in order to contact us, you will receive e-mails or newsletters from us or from a local Business Partner but at any time you will be able to unsubscribe so that you do not get those emails any longer. The content of those emails is meant to be interesting and relevant to you based on the forms you have filled out and on the interests that you have communicated to us.
+#### Community Site
+
+Our community site - located at [share.ez.no](http://share.ez.no/) \- may request personal details from you as part of your community profile. Any information you share is voluntary and might be accessible to other members of the community. Certain areas of the community are accessible to everyone.eZ Systems may terminate your community account if you engage in any practice that is, in eZ Systems' sole discretion, objectionable, unlawful, obscene, threatening or hateful, or that encourages conduct which would constitute a criminal offense, give rise to civil liability, or otherwise violate any local, state, national or international law.  
