@@ -1,22 +1,21 @@
-> *The following text is extracted and transformed from the snapsurveys.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115000006id_/http%3A//www.snapsurveys.com/legal/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapsurveys.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516103124id_/http%3A//www.snapsurveys.com/legal/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Our Privacy Policy describes how we capture and use the information we gather about visitors to this website. The Policy covers the type of information collected, how it is collected, how it can be amended or deleted, user registration, web-tracking, online surveys and newsletter subscription.
 
-[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.snapsurveys.com&sealid=102)
+[](https://privacy.truste.com/privacy-seal/Snap-Surveys,-Ltd/validation?rid=bcb4b8db-4339-4fe8-a10d-c29d3d439ac6 "TRUSTe European Safe Harbor certification")Snap Surveys, Ltd has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. This privacy statement covers the Web site www.snapsurveys.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@snapsurveys.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
-Snap Surveys, Ltd has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. This privacy statement covers the Web site www.snapsurveys.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@snapsurveys.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
-
-Snap Surveys, Ltd.  complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. Information regarding the E.U. Safe Harbor Framework can be found at: <http://export.gov/safeharbor>. 
+Snap Surveys, Ltd complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Snap Surveys Ltd has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Snap Surveys Ltd certification, please visit <http://www.export.gov/safeharbor/>
 
 ### Information Collected During Registration
 
-When  you download a free trial copy we collect information, such as name, email address, organization, address, and telephone number,. This information is used to create your account, contact the user about the services on our site for which they have expressed particular interest. It is optional for the user to provide demographic information, and unique identifiers, but encouraged so we can provide a more personalized experience. If you sign up for access to any of the protected areas of this website, we will use a cookie; this cookie will contain a unique ID that we will use to identify you when you return to the site.  
-We do not tolerate spam, and we will not sell, rent, lease, trade, swap, market, exchange, barter, distribute, or disclose the information we collect about you.
+When you download a free trial copy we collect information, such as name, email address, organization, address, and telephone number. This information is used to create your account, contact you about the services on our site for which you have expressed particular interest. It is optional for you to provide demographic information, and unique identifiers, but encouraged so we can provide a more personalized experience. If you sign up for access to any of the protected areas of this website, we will use a cookie; this cookie will contain a unique ID that we will use to identify you when you return to the site.
 
-If you wish to add a new client to your account we will collect a username, password, name, phone number and email address. We collect this information for the sole purpose of allowing you to set up a new client within your account.  We will not use this information for any other purpose.   
-Newsletter 
+We do not tolerate spam, and we will not sell, rent, lease, trade, swap, market, exchange, barter, distribute, or disclose the information we collect about you.  
+If you wish to add a new client to your account we will collect a username, password, name, phone number and email address. We collect this information for the sole purpose of allowing you to set up a new client within your account.  We will not use this information for any other purpose. 
+
+### Newsletter 
 
 If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you.  Out of respect for your privacy, we provide you a way to unsubscribe.  Please see the “Choice and Opt-out” section.
 
@@ -32,12 +31,11 @@ You have the option of receiving email notifications each time someone replies t
 
 ### Updating/Accessing/Amending/Correcting Personally Identifiable Information
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or delete by making the change within your account once logged in or by emailing our Customer Support at [info@snapsurveys.com](mailto:info@snapsurveys.com). We will respond to your request to access within 30 days. 
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or delete by making the change within your account once logged in or by emailing our Customer Support at [info@snapsurveys.com](mailto:info@snapsurveys.com?subject=Privacy%20Policy%20Question). We will respond to your request to access within 30 days. 
 
 ### Data Retention
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacy@snapsurveys.com](mailto:privacy@snapsurveys.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.   
-
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacy@snapsurveys.com](mailto:privacy@snapsurveys.com?subject=Privacy%20Policy%20Question). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 ### Cookies
 
@@ -45,11 +43,25 @@ A cookie is a small text file that is stored on a user’s computer for record-k
 
 We use both session ID cookies and persistent cookies.  We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. 
 
-We set a persistent cookie to store your passwords, so you don’t have to enter it more than once.  Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
+We set a persistent cookie to store your passwords, so you don’t have to enter it more than once.  Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.  
+Snap Web:WebHost questionnaires do not use cookies.
+
+Snap Web:HTML questionnaires will use cookies if either:
+
+  1. you check the “Try to drop a cookie” box in the Questionnaire Properties / Interview section. The purpose of this is to prevent multiple responses from the same computer.
+  2. you use the Save button feature.
+
+
+
+In the case of **[a]** no personally identifiable information is held. For **[b]** , the responses to the questionnaire to date are held which _may_ include personably identifiable data. Both uses are essential to the functioning of the particular options and both are choices made by the questionnaire designer/publisher.
 
 ### Third Party Cookies
 
 The use of cookies by third parties is not covered by our privacy statement. We do not have access or control over these cookies. These third parties use session ID cookies to make it easier for you to navigate our site.
+
+### Clear Gifs (Web Beacons/Web Bugs)
+
+We employ or our third party tracking utility partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information. 
 
 ### Web-tracking
 
@@ -67,17 +79,19 @@ If you use the forum or Private Messages on this Web site, you should be aware t
 
 You may sign up for our Free Web Polls, if you wish to do so we will collect an email address and password so that you may participate in our Free Web Polls.  We will not use your information for any other purpose. 
 
+### Social Media (Features) and Widgets: 
+
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
 ### Choice/Opt-Out
 
-If you would like to unsubscribe to our monthly "eNews" newsletter, you may opt-out of receiving them by following the instructions included in each newsletter or by sending an e-mail with "Unsubscribe" in the subject heading to [info@snapsurveys.com](mailto:info@snapsurveys.com).
+If you would like to unsubscribe to our monthly "eNews" newsletter, you may opt-out of receiving them by following the instructions included in each newsletter or by sending an e-mail with "Unsubscribe" in the subject heading to [info@snapsurveys.com](mailto:info@snapsurveys.com?subject=Privacy%20Policy%20Question).
 
-### **Security**
+### Security
 
-The security of your personal information is important to us.  When you enter personal information within the customer login area of the site, we encrypt that information using secure socket layer technology (SSL).    
-
-We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
-
-If you have any questions about security on our Web site, you can email us at [info@snapsurveys.com](mailto:info@snapsurveys.com)
+The security of your personal information is important to us.  When you enter personal information within the customer login area of the site, we encrypt that information using secure socket layer technology (SSL).      
+We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.  
+If you have any questions about security on our Web site, you can email us at [info@snapsurveys.com](mailto:info@snapsurveys.com?subject=Privacy%20Policy%20Question)
 
 ### In summary
 
@@ -89,16 +103,17 @@ If you click on a link to a third party site, including on an advertisement] you
 
 If you have any questions about our Privacy Policy, please contact Snap Surveys Ltd at one of the following addresses:
 
-US address: One New Hampshire Ave, Suite 230 Portsmouth, NH 03801 USA
+  * **US address** : One New Hampshire Ave, Suite 230 Portsmouth, NH 03801 USA
+  * **UK address** : 5 Mead Court, Thornbury, Bristol BS35 3UW, UK.
 
-UK address: 5 Mead Court, Thornbury, Bristol BS35 3UW, UK.
 
-[privacy@snapsurveys.com](mailto:privacy@snapsurveys.com)
+
+[privacy@snapsurveys.com](mailto:privacy@snapsurveys.com?subject=Privacy%20Policy%20Question)
 
 ### Changes in this Privacy Statement
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
-
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.    
 We reserve the right to modify this privacy statement at any time, so please review it frequently.  If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
-Last Updated on 03/09/2011
+  
+Last Updated on 08/03/2012
