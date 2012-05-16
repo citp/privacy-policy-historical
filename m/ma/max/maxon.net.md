@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the maxon.net privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007011221id_/http%3A//www.maxon.net/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxon.net privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516084704id_/http%3A//www.maxon.net/about/privacy-policy.html) for the most accurate reproduction.*
 
-# MAXON: Privacy Policy
+# MAXON | 3D FOR THE REAL WORLD: Privacy Policy
 
 **Online Privacy Practices**  
 At MAXON we take great care to safeguard your privacy. The information that we collect from you will only be used lawfully, in accordance with the Data Protection Act of 1998 and, as far as applicable, in accordance with the German data protection law (Bundesdatenschutzgesetz) in its valid version. We strictly adhere to the following guidelines to ensure that your personal information remains confidential. **
