@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the bccresearch.com privacy policy that was archived on 2011-11-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111117032657id_/http%3A//www.bccresearch.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bccresearch.com privacy policy that was archived on 2012-05-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120517012316id_/http%3A//www.bccresearch.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="verify-v1" content="vvVMlX1J9TQwOckemzZ0qRQtKnsBbxzzBiMKbpeASyE=">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="description" content="Privacy Policy">
@@ -36,122 +37,556 @@ doesn't support JavaScript or you have it turned off.
 To see this page as it is meant to appear, please use
 a JavaScript enabled browser.</div></noscript>
 <!-- Added by sunil to print the flash messanger on 02-09-2011  -->
+<!--[if IE 9]>
+		<link rel="stylesheet" type="text/css" href="/public/css/IE9.css" />
+<![endif]-->
+<!--[if IE 8]>
+		<link rel="stylesheet" type="text/css" href="/public/css/IE8.css" />
+<![endif]-->
+
+
+
+
+
+<!-- Javascript to enable launching for the Login Modal Windows -->
+<script src="/public/js/bcc.modal.js" type="text/javascript"></script>
+	<!-- Login Modal windows -->
+	<div id="loginModalContent" class="bcc_modal_content" style="width: 370px;">
+		<a href="" onclick="$('#loginModalMask').click(); return false;">
+			<img src="/public/images/icon_delete-blue.gif" style="position: absolute; top: 4px; right: 6px;"></a>
+
+		<h3>Login</h3>
+
+		<div id="loginPanel1">
+			<form action="" method="POST" id="loginForm">
+
+				<div><input type="radio" name="loginDest" value="Library" onclick="clearLoginErrors();" checked=""> Library</div>
+				<div><input type="radio" name="loginDest" value="Cart" onclick="clearLoginErrors();"> Shopping Cart</div>
+				<div style="clear: right;"><input type="radio" name="loginDest" value="DrugDB" onclick="clearLoginErrors();"> Drug DB</div>
+				<input type="hidden" name="request" value="http://www.bccresearch.com/cart/index/detail">
+
+				<label>User name</label>
+				<input type="text" name="username" value="" maxlength="55">
+				<div id="username_error"> </div>
+
+				<label>Password</label>
+				<input type="password" name="password" value="">
+				<div id="password_error"> </div>
+
+				<input type="checkbox" name="remember" value="on"><span id="rememberMe">Remember Me</span>
+
+				<div style="clear: both; width: 100%; margin-bottom: 0px;">
+				<input type="submit" id="" class="imgbtn_txt" value="Login" title="Login" style="float: left; clear: left; margin: 10px 0px 0px 103px; line-height: 22px;">
+				<input type="reset" id="" class="imgbtn_txt" value="Reset" title="Reset" style="float: left; margin: 10px 0px 0px 10px; line-height: 22px;">
+				</div>
+
+				<a href="#" style="float: left; margin-left: 103px;" onclick="alert('Please call sales or customer service at 866-285-7215');">
+					Forgot password/Login issues?
+				</a>
+			</form>
+		</div>
+
+		<div id="loginModalLoading">
+			<img src="/public/images/ajax-loader.gif" alt="loading animation for AJAX calls" style="margin: 95px 0px 0px 180px;">
+		</div>
+    </div>
+	<div id="loginModalMask" class="bcc_modal_mask"></div>
+
+
+
+
 <script type="text/javascript">
 
-/*
- * added by deepak
- * added ajax for getting dropdown category
-*/
+//clear any previously written errors
+function clearLoginErrors(){
+	$("#username_error").html('');
+	$("#password_error").html('');
+}
 
-	$(document).ready(function() {	
-			
-	/*
-	 * added by deepak
-	 *	check if upcoming checkbox is checked then disable publish date
-	 */
-	 
-	$("input[@name='upcoming']").click(function(){
-		if($('#upcoming').is(':checked')){
-			 $("#fromdate").val('');
-			 $("#todate").val('');
-			 $("#upcoming_div").show();
-			 $("#publish_div").hide();
-			 
-			 
-		}else{
-			  $("#upcoming_div").hide();
-			  $("#publish_div").show();
-			   $("#upcoming_fromdate").val('');
-			 $("#upcoming_todate").val('');
-			 
-		}
+
+var loginDest = null; // record the login destination
+var submit_form = false; // IE9 fix for the Drug DB login
+
+$(document).ready(function() {
+
+	// hide the modal windows if a user clicks on the mask
+	$("#loginModalMask").click(function(){
+	    $("#loginModalContent").fadeOut('slow');
+	    $("#loginModalMask").fadeOut('slow');
 	});
-	
+
+	// rename the various form fields to match the field names, per login destination
+	$('#loginForm').submit(function(){
+
+		// show load window
+		$('#loginModalLoading').show().fadeTo("slow",0.85);
+
+		// clear the previously show errors
+		clearLoginErrors();
+
+		// redirect the FORM action, based on Login Mode
+		var formDest = null;
+		loginDest = $("#loginForm input[name='loginDest']:checked").val();
+		switch(loginDest){
+			case 'Library':	formDest = '/epublish/index/userlogin/'; break;
+			case 'Cart':	formDest = '/cart/index/userlogin'; break;
+			case 'DrugDB':	formDest = 'http://druginfodatabase.bccresearch.com/druglibrary/index/userlogin/'; break;
+		}
+
+		// work-around for IE, for the Drug DB, it will do a traditional POST
+		// afterward, if a successful AJAX JSONP call is made and validated
+		if(true == submit_form){
+			$('#loginForm').attr('action', formDest);
+			return;
+		}
+
+
+		// do the AJAX validation and logins
+		if('DrugDB' == loginDest){
+			$.ajax({
+				url: formDest,
+				dataType: 'jsonp',
+				data: $(this).serializeArray(), // serialize the FORM data
+				success: function(msg){
+
+					// hide loading window
+					$('#loginModalLoading').hide();
+
+					// if we successfully logged the user in, we need to redirect them
+					if(true == msg.login_success){
+
+						// fade out the modal
+						$("#loginModalContent").fadeOut('slow');
+						$("#loginModalMask").hide();
+
+						// recall the parent function, and do a traditional POST
+						submit_form = true;
+						$('#loginForm').submit();
+						return false;
+					}
+
+					// show username errors
+					if(msg.username !== null){
+						$("#username_error").html(msg.username_error);
+					}
+
+					// show password errors
+					if(msg.password !== null){
+						$("#password_error").html(msg.password_error);
+					}
+				},
+				error: function( error ){
+					console.log( "ERROR:", error );
+				}
+			});
+		}
+		else{
+			$.ajax({
+				type: 'POST', // send POST
+				url: formDest,
+				data: $(this).serializeArray(), // serialize the FORM data
+				dataType: 'json', // recieve JSON data
+				success: function(msg){
+
+					// hide loading window
+					$('#loginModalLoading').hide();
+
+					// if we successfully logged the user in, we need to redirect them
+					if(true == msg){
+
+						// fade out the modal
+						$("#loginModalContent").fadeOut('slow');
+						$("#loginModalMask").hide();
+
+						// determine where to forward the user, then do it
+						forwardDest = new String();
+						switch(loginDest){
+							case 'Library':	forwardDest =
+								"http://www.bccresearch.com/epublish/index/libraryhome"; break;
+							case 'Cart':	forwardDest =
+								"http://www.bccresearch.com/cart/index/detail"; break;
+						}
+						window.location.href = forwardDest;
+						return;
+					}
+
+					if(msg.username !== null){
+						$("#username_error").html(msg.username_error);
+					}
+					if(msg.password !== null){
+						$("#password_error").html(msg.password_error);
+					}
+
+
+				},
+				error: function( error ){
+					// Log any error.
+					console.log( "ERROR:", error );
+				}
+			});
+		}
+
+		// prevent the form from actually submitting
+		return false;
+	});
 });
-
-
 </script>
 
 
-<script type="text/javascript" src="/public/js/common.js"></script>
-<div align="center" style="width:100%;">
-<div id="container">
-<!--STARTS: Header Container -->
-     <div id="top_hdr_container">
-   	  	<div class="left">
-        	<a href="/" title="BCC Research"><img src="/public/images/logo.jpg" alt="" class="hdr_logo"></a>
-            <div class="hdr_call_sales_lt"></div>
-			<div class="hdr_call_sales">
-            	<div class="floatlt"><img src="/public/images/callsales_lt.gif" alt="" width="7"></div>
-                <div class="mdl">
-                	<div class="floatlt">Call<br>Sales</div><div class="floatrt">866 - 285 - 7215<br>1-781-489-7301</div>
+
+<!-- Javascript to enable launching for the Advanced Search Modal Windows -->
+<link href="/public/css/date.css" rel="stylesheet" type="text/css">
+<link href="/public/css/blue.calendar.css" rel="stylesheet" type="text/css">
+<script src="/public/js/drupal.js" type="text/javascript"></script>
+<script src="/public/js/calender.js" type="text/javascript"></script>
+<script src="/public/js/pop-cal.js" type="text/javascript"></script>
+<script src="/public/js/common.js" type="text/javascript"></script>
+<script src="/public/js/popdropdown.js" type="text/javascript"></script><script type="text/javascript">
+
+    //Search Modal Code
+    $(document).ready(function() {
+
+        // ajax for getting dropdown category
+        // added by deepak
+        if(!("console" in window) || !("firebug" in console)){
+            var names = [
+                "log", "debug", "info", "warn", "error", "assert", "dir",
+                "dirxml", "group", "groupEnd", "time", "timeEnd", "count", "trace",
+                "profile", "profileEnd"
+            ];
+            window.console = {};
+            for(var i = 0; i <names.length; ++i) window.console[names[i]] = function() {};
+        }
+        $.ajax({
+            url: "/default/index/catdropdown",
+            success: function(msg){
+                $('#categoryList').html(msg);
+            }
+        });
+
+        // check if upcoming checkbox is checked then disable publish date
+        // added by deepak
+        $("input[name='upcoming']").click(function(){
+            if($('#upcoming').is(':checked')){
+                $("#fromdate").val('');
+                $("#todate").val('');
+                $("#upcoming_div").show();
+                $("#publish_div").hide();
+            }else{
+                $("#upcoming_div").hide();
+                $("#publish_div").show();
+                $("#upcoming_fromdate").val('');
+                $("#upcoming_todate").val('');
+            }
+        });
+    });
+
+    /* This function is for Advance Search Popup*/
+    function advsearch_formpopup(){
+        var id = "#adv_dialog1";
+        //$("#mask").show('slow');
+        //Get the screen height and width
+        var maskHeight = $(document).height();
+        var maskWidth = $(window).width();
+
+        //Set heigth and width to mask to fill up the whole screen
+        $('#adv_mask').css({'width':maskWidth,'height':maskHeight});
+
+        //transition effect
+        $('#adv_mask').fadeIn(500);
+        $('#adv_mask').fadeTo("slow",0.8);
+
+        //Get the window height and width
+        var winH = $(window).height();
+        var winW = $(window).width();
+
+        //Set the popup window to center
+        $(id).css('top',  148.5);
+        $(id).css('left', winW/2-$(id).width()/2);
+
+        //transition effect
+        $(id).fadeIn(1000);
+        $("#search_keyword").focus();
+        //  openAdvanceSearch();
+    }
+    $(document).ready(function() {
+        $("#search_keyword").focus(function()
+        {
+            $("#search_keyword").addClass("inputfld_blue");
+            $("#search_keyword").removeClass("inputfld2");
+        });
+        $("#search_keyword").blur(function()
+        {
+            $("#search_keyword").removeClass("inputfld_blue");
+            $("#search_keyword").addClass("inputfld2");
+        });
+
+
+        $("input[name='report']").click(function(){
+            if($('#report').is(':checked')){
+                $('#report_chapter').show();
+                $("#topic_title").attr('checked', true);
+
+            }else{
+                $('#report_chapter').hide();
+                $("#topic_title").removeAttr('checked');
+                $("#topic_content").removeAttr('checked');
+
+            }
+        });
+
+
+        $(".collapsible").hide();
+
+
+        $("#fancyboxclose").click(function() {
+            $("#adv_dialog1").fadeOut('slow');
+            $("#adv_mask").fadeOut('slow');
+            $(".collapsible").hide();
+        });
+
+        // close the modal when the user presses ESC
+        $('body').keypress(function(e){
+
+            if(e.keyCode == 27){
+                $("#adv_dialog1").fadeOut('slow');
+                $("#adv_mask").fadeOut('slow');
+                $(".collapsible").hide();
+            }
+        });
+
+    });
+
+
+    function searchPost(){
+        /****Added by Deepak for tracking error been thrown when none of the checkboxes are selected in Advance Search. Feb 02'12 ****/
+
+        var chk=0;
+        $("input[type=checkbox][checked]").each(
+        function() {
+            chk=chk+1;
+        }
+    );
+        if(chk==0)
+        {
+            $("input[type=checkbox][name=all]").attr('checked', true);
+        }
+
+    }
+</script>
+<!--STARTS: Advance Search Popup -->
+<div id="adv_boxes">
+    <div id="adv_dialog1" class="adv_window">
+        <div id="content">
+            <form id="search_frm" name="search_frm" method="post" action="/index/advancedsearch">
+                                <!--STARTS: Search Container -->
+                <span id="collpase_val_hidden"><input type="hidden" name="collpase_val" id="collpase_val" value="No"></span>
+
+                <div class="roundcrnr_box">
+                    <div id="fancyboxclose">&nbsp;</div>
+                    <div class="roundcrnr_box_top">
+                        <div class="lttopcrnr"></div>
+                        <div class="mdlbg"></div>
+                        <div class="rttopcrnr"></div>
+                    </div>
+                    <!--STARTS: Search Containt Body -->
+                    <div class="roundcrnr_box_body">
+                        <div class="roundcrnr_box_errormsg" style="display: none;"></div>
+                        <div class="roundcrnr_box_row">
+                            <label for="" class="lbl" style="width: 125px;">Search for:</label>
+                            <input type="text" name="search_keyword" class="inputfld2" id="search_keyword" value="" autocomplete="off"><input type="hidden" name="advsearchpopup" id="advsearchpopup" value="yes">
+
+
+                            <div class="floatlt pdleft pdtop2">&nbsp;<!--<a href="#" class="bluelink">
+                                    <img src="/public/images/icon_help.gif" alt="" title="Search Tips" /></a>-->
+                            </div>
+                            <label for="" class="lbl" style="margin-left: 300px;">Result per page:</label><select name="pagerecords" class="floatlt marginlt" onchange="searchPost('','','')">
+                                <option value="20">20</option>
+                                <option value="50">50</option>
+                                <option value="100">100</option>
+                                <option value="200">200</option>
+                            </select>
+
+                        </div>
+                        <!-- STARTS: Collapsible Serach Div -->
+                        <div id="collapsible_search">
+                            <div class="roundcrnr_box_row">
+                                <label for="" class="lbl" style="width: 125px;">Match:</label>
+                                <input type="radio" name="word" value="1" class="radiodiv"><div class="floatlt">&nbsp;any search words</div>
+                                <input type="radio" name="word" checked="checked" value="2" class="radiodiv"><div class="floatlt">&nbsp;all search words</div>
+                                <input type="radio" name="word" value="3" class="radiodiv"><div class="floatlt">&nbsp;exact match</div>
+                            </div>
+                            <!-- end of modification  -->
+                            <div class="">
+                                <div class="roundcrnr_box_row">
+                                    <label for="" class="lbl" style="width: 125px;">Category:&nbsp;&nbsp;</label>                       <span id="categoryList">
+                                        
+                                    </span>
+                                </div>
+                                <div class="roundcrnr_box_row">
+                                    <label for="" class="lbl" style="width: 125px;">Search In:</label>
+                                    <input type="checkbox" class="radiodiv" name="all" id="all" value="yes" onclick="enableall()" checked="checked">
+                                    <div class="floatlt">&nbsp;All</div>
+                                    <input type="checkbox" class="radiodiv" name="title" value="yes" id="title" onclick="enableField()">
+                                    <div class="floatlt" id="titleTxt">&nbsp;Report Title</div>
+                                    <input type="checkbox" class="radiodiv" name="rdescription" value="yes" id="des" onclick="enableField()">
+                                    <div class="floatlt" id="descTxt">&nbsp;Description &amp; keywords</div>
+                                    <input type="checkbox" class="radiodiv" name="highlight" value="yes" id="adv_highlight" onclick="enableField()">
+                                    <div class="floatlt" id="highTxt">&nbsp;Report Hightlights</div>
+                                    <input type="checkbox" class="radiodiv" name="scope" value="yes" id="adv_scope" onclick="enableField()">
+                                    <div class="floatlt" id="scopeTxt">&nbsp;Report Scope</div>
+                                    <input type="checkbox" class="radiodiv" name="related_report" value="yes" id="related_report" onclick="enableField()">
+                                    <div class="floatlt" id="relatedTxt">&nbsp;Related report</div>
+                                </div>
+                                <div class="roundcrnr_box_row" style="margin: 5px 0 0;">
+                                    <label for="" class="lbl" style="width: 166px; *width: 173px;">&nbsp;</label>
+                                    <input type="checkbox" class="radiodiv" name="report" value="yes" id="report" onclick="enableField()">
+                                    <div class="floatlt" id="reportTxt">&nbsp;Report Content</div>
+                                    <input type="checkbox" class="radiodiv" name="upcoming" value="yes" id="upcoming" onclick="enableField()">
+                                    <div class="floatlt" id="upcomingTxt">&nbsp;Upcoming Report&nbsp;&nbsp;</div>
+                                    <span style="float:left; color:#1473B0;"><b>OR</b></span><input type="checkbox" class="radiodiv" name="compprofile" value="yes" id="compprofile" onclick="enableField()">
+                                    <div class="floatlt">&nbsp;Company Profile</div>
+                                </div>
+                                <div class="roundcrnr_box_row" id="report_chapter" style="display:none; margin: 5px 0 0;">
+                                    <label for="" class="lbl" style="width: 166px; *width: 173px;">&nbsp;</label>
+                                    <input type="checkbox" class="radiodiv" name="topic_title" value="yes" id="topic_title">
+                                    <div class="floatlt" id="reportTxt" style="font-size: 11px;">&nbsp;Chapter Title</div>
+                                    <input type="checkbox" class="radiodiv" name="topic_content" value="yes" id="topic_content">
+                                    <div class="floatlt" id="reportTxt" style="font-size: 11px;">&nbsp;Chapter Content</div>&nbsp;
+                                </div>
+                                <div class="roundcrnr_box_row" style="width:556px" id="publish_div">
+                                    <label for="" class="lbl" style="width: 125px;">Published Date:</label>
+                                    <div class="floatlt marginlt" id="fromDiv">From</div>
+                                    <input type="text" name="fromdate" id="fromdate" readonly="readonly" class="floatlt marginlt form-text input_txt1 date_popup jquery-calendar-0" value="">
+                                    <div class="floatlt marginlt" id="toDiv">To</div>
+                                    <input type="text" name="todate" id="todate" readonly="readonly" class="floatlt marginlt form-text input_txt1 date_popup jquery-calendar-0" value=""> <div class="clboth"></div><div class="clboth"></div>
+                                </div>
+                                <div class="roundcrnr_box_row" style="width:556px;display:none;" id="upcoming_div">
+                                    <label for="" class="lbl" style="width: 125px;">Target Date:</label>
+                                    <div class="floatlt marginlt">From</div>
+                                    <input type="text" name="upcoming_fromdate" id="upcoming_fromdate" readonly="readonly" class="floatlt marginlt form-text input_txt1 date_popup jquery-calendar-0" value="">
+                                    <div class="floatlt marginlt">To</div>
+                                    <input type="text" name="upcoming_todate" id="upcoming_todate" readonly="readonly" class="floatlt marginlt form-text input_txt1 date_popup jquery-calendar-0" value=""> <div class="clboth"></div><div class="clboth">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- END: Collapsible Serach Div -->
+
+                        <div class="roundcrnr_box_row">
+                            <input type="submit" name="Submit" value="Search" class="siteimg_btn" title="Search" style="margin-left: 145px; * margin-left: 135px;" onclick="searchPost();">
+                        </div>
+                        <div class="clboth pdtop"></div>
+                    </div>
+                    <!--END: Search Containt Body -->
+                    <div class="roundcrnr_box_top">
+                        <div class="ltbtmcrnr"></div>
+                        <div class="mdlbgbtm"></div>
+                        <div class="rtbtmcrnr"></div><div class="clboth pdtop"></div><div class="clboth pdtop"></div>
+                    </div>
                 </div>
-                <div class="floatlt"><img src="/public/images/callsales_rt.gif" alt="" width="7"></div>
-            </div>
+                <!--END: Search Container -->
+                <div class="clboth" style="padding-top:20px; *padding-top:0px;"></div>
+            </form>
         </div>
-        
-		
-		<div class="right">
-        	<a href="/subs/index" title="Sign Up for email updates">Sign Up for email updates</a>
-			<div class="carticon"><img src="/public/images/icon_cart.gif" alt=""></div>
-			<a href="/cart/index/detail/">View Cart</a>
-						<form name="search" method="post" action="/index/advancedsearch"> 
-			<!--<form name="search" method="post" action="/search/">-->
-            <div class="header_srch">
-            	<div class="floatlt"><img src="/public/images/icon_srch.gif" alt="" width="30" height="26"></div>
-              	<!--<input id="search_keyword_header" name="search_keyword_header" type="text" value="Search...."  onfocus="blank(this)" onblur="unblank(this)" class="txtfld"/> -->
-			<input id="search_keyword_header" name="search_keyword" type="text" value="Search...." onfocus="blank(this)" onblur="unblank(this)" class="txtfld" style="height:26px; *height:26.5px;">
-		 <input type="hidden" name="word" id="word" value="2">
-		  <input type="hidden" name="all" id="all" value="yes">
-                <div class="floatlt">
-					<a href="javascript:searchText();"><img src="/public/images/btn_srch_go.gif" alt="" border="0"></a>
-					
-			
-				</div>
-				</div>
-			 </form>
-			         </div>
-					<!--  <div class="floatrt"><a name="modal" href="#dialog1" title="Advanced Search">Advanced Search</a></div>-->
-					<div class="floatrt"></div>
-			 
-	</div>
-    <!--END: Header Container -->
-
-  <!--STARTS: Main Menu Container -->
-    <div id="menu_bg" class="clboth">
-    	<div style="margin-right:30px;">
-		<a title="About Us" href="/about.php">About Us</a> |
-		<a title="Upcoming Reports" href="/report/upcomingreport/">Upcoming Reports</a> |
-		<a title="BCC in the News" href="/pressroom/bccnews/">BCC in the News</a> |
-		<a title="Press Room" href="/pressroom/">Press Room</a><!-- |
-		<a title="View Analysts Profiles" href="/aboutus/bccanalysts">View Analysts Profiles</a>--> |
-		<a title="Client List" href="/aboutus/ourclients">Client List</a> |
-		<a title="Testimonials" href="/aboutus/testimonials">Testimonials</a>
-		<!-- | <a title="Careers" href="/careers/">Careers</a> --> |
-		<a title="Contact Us" href="/aboutus/contactus/">Contact Us</a> |
-
-					<a title="Library Login" href="/epublish/" class="logout">Login</a>
-					</div>
-	</div>
-    <!--END: Main Menu Container -->
-
-    <!--STARTS: Top Menu Container -->
-	<div align="center" style="width:996px;">
-    <div id="main_menu_bg">
-        <ul>
-            		 <li class=""><a title="BCC Library" href="/epublish/index/libraryhome/">BCC Library</a></li>
-	    			<li class=""><a title="View Existing Reports" href="/index/categorylisting/">View Existing Reports</a> </li>
-            <li class=""><a title="Report Subscription" href="/report/reportsubscription/">Report Subscription</a></li>
-            <li class=""><a title="Custom Research" href="/index/customresearch/">Custom Research</a></li>
-            <li class=""><a title="Newslettters" href="/aboutus/newsletters/">Newsletters</a> </li>
-            <li class=""><a title="Conferences" href="/conference/">Conferences</a></li>
-
-        </ul>
     </div>
-	</div>
+    <div id="adv_mask"></div>
+</div>
+<!--END: Advance Search Popup -->
+
+
+
+<div align="center" style="width:100%;">
+	<div id="container">
+
+
+
+
+		<!--STARTS: Header Container -->
+		<div id="top_hdr_container">
+			<div class="left">
+				<a href="/" title="BCC Research">
+					<img src="/public/images/logo.jpg" alt="" class="hdr_logo"></a>
+				 <img src="/public/images/home_header_call_sales.png" style="margin-top: 14px; *margin-top: 10px;margin-left: 190px;">
+			</div>
+			<div class="right">
+				<a href="/subs/index" title="Sign Up for email updates">Sign Up for email updates</a>
+				<div class="carticon">
+					<img src="/public/images/icon_cart.gif" alt="" style="float: left;">
+					<a href="/cart/index/detail/">View Cart</a>
+				</div>
+
+				<form name="search" method="post" action="/index/advancedsearch">
+					<div class="header_srch">
+						<div class="floatlt"><img src="/public/images/icon_srch.gif" alt="" width="30" height="26"></div>
+						<input id="search_keyword_header" name="search_keyword" type="text" value="Search...." onfocus="blank(this)" onblur="unblank(this)" class="txtfld" style="height:26px; *height:26.5px;">
+						<input type="hidden" name="word" id="word" value="2">
+						<input type="hidden" name="all" id="all" value="yes">
+						<div class="floatlt">
+							<a href="javascript:searchText();"><img src="/public/images/btn_srch_go.gif" alt="" border="0"></a>
+						</div>
+					</div>
+				</form>
+				<div class="advSearch"><a title="Advanced Search" href="javascript:advsearch_formpopup();">Advanced Search</a></div>
+			</div>
+		</div>
+		<!--END: Header Container -->
+		<!--STARTS: Top Menu Container -->
+		<div align="center" style="width:996px;">
+			<div id="main_menu_bg">
+				<ul>
+					<li class="">
+						<a title="View Existing Reports" href="/index/categorylisting/">Reports</a>
+					</li>
+					<li class="">
+						<a title="View Upcoming Reports" href="/report/upcomingreport/">Upcoming Reports</a>
+					</li>
+					<li class="">
+						<a title="Report Subscription" href="/report/reportsubscription/">Subscription</a>
+					</li>
+					<li class="">
+						<a title="Custom Research" href="/index/customresearch/">Custom Research</a>
+					</li>
+					<li class="">
+						<a title="Drug Database" href="/aboutus/drug-database">Drug Database</a>
+					</li>
+					<li class="">
+						<a title="Conferences" href="/conference/">Conferences</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<!--ENDS: Top Menu Container -->
+
+
+
+
+		<!--STARTS: Main Menu Container -->
+		<div id="menu_bg">
+			<a title="Contact Us" href="/aboutus/contactus/">Contact Us</a>
+			<a title="BCC in the News" href="/pressroom/bccnews/">BCC in the News</a>
+			<a title="Press Room" href="/pressroom/">Press Room</a>
+			<a title="Testimonials" href="/aboutus/testimonials">Testimonials</a>
+			<a title="About Us" href="/about.php">About Us</a>
+			<a title="Client List" href="/aboutus/ourclients">Client List</a>
+			<a title="Newsletters" href="/aboutus/newsletters/">Newsletters</a>
+			<a href="" onclick="launchModal('#loginModalContent', '#loginModalMask'); return false;" title="Login">Login</a>
+			<style type="text/css">
+			#menu_bg a{
+				width: 12.48%;
+			}
+			</style>
+		</div>
+		<!--END: Main Menu Container -->
+
+
+
+
+
+
 	<div class="body_container_div">
-    <!--middle container start-->
-   <div id="middle_container"><!--STARTS: Report Heading Container -->
+		<!--middle container start-->
+		<div id="middle_container"><!--STARTS: Report Heading Container -->
 <div class="sub_page_heading">Privacy Policy</div>
 <!--END: Report Heading Container -->
 
@@ -194,29 +629,33 @@ a JavaScript enabled browser.</div></noscript>
 
 <!--footer start New-->
 <div id="footer">
-	<div class="lt"> 
-	All transactions on our website are conducted on a Secure SSL Server.<br>
-	<a href="/about.php" title="About Us">About us</a> | <a href="/pressroom/" title="Press Room">
-	Press Room</a> | <a title="View Analysts Profiles" href="/aboutus/bccanalysts">View Analysts Profiles</a> |
-	<a href="/careers/" title="Careers">Careers</a> | <a href="/aboutus/contactus/" title="Contact Us">
-	Contact Us</a> | <a href="/faq/" title="FAQs">FAQs</a> | <a href="/sitemap.php" title="Sitemap">Sitemap</a>
-	| <a href="/privacypolicy/" title="Privacy Policy">
-	Privacy Policy</a></div>
+				<div class="lt">
+			All transactions on our web site are conducted on a Secure SSL Server.<br>
+			<a href="/about.php" title="About Us">About us</a> | <a href="/pressroom/" title="Press Room">
+			Press Room</a> | <a title="View Analysts Profiles" href="/aboutus/bccanalysts">View Analysts Profiles</a> |
+			<a href="/careers/" title="Careers">Careers</a> | <a href="/aboutus/contactus/" title="Contact Us">
+			Contact Us</a> | <a href="/faq/" title="FAQs">FAQs</a> | <a href="/sitemap.php" title="Sitemap">Sitemap</a>
+			| <a href="/privacypolicy/" title="Privacy Policy">
+			Privacy Policy</a></div>
+	
 	<div class="rt">
 		Connect with BCC Research on<br>
-		<a href="http://www.facebook.com/pages/BCC-Research/335800481703" title="Facebook" target="_blank">
-			<img src="/public/images/icon_facebook.gif" alt="" title="Facebook" class="icon"></a>
+		<a href="http://www.linkedin.com/company/62171?trk=tyah" title="Linkedin" target="_blank">
+			<img src="/public/images/icon_linkedin.gif" alt="" title="Linkedin" class="icon"></a>
 		<a href="http://twitter.com/bccresearch" title="Twitter" target="_blank">
 			<img src="/public/images/icon_twiter.gif" alt="" title="Twiter" class="icon"></a>
 		<a href="http://bccresearch.blogspot.com/" title="Blogger" target="_blank">
 			<img src="/public/images/icon_blog.gif" alt="" title="Blog" class="icon"></a>
 		<a href="http://bccresearch.wordpress.com/" title="Wordpress" target="_blank">
 			<img src="/public/images/icon_wordpress.gif" alt="" title="Wordpress" class="icon"></a>
+		<a href="http://www.facebook.com/pages/BCC-Research/335800481703" title="Facebook" target="_blank">
+			<img src="/public/images/icon_facebook.gif" alt="" title="Facebook" class="icon"></a>	
    </div>
 </div>
 <!--footer new end-->
 </div>
 </div>
+
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -226,6 +665,6 @@ var pageTracker = _gat._getTracker("UA-1570823-1");
 pageTracker._setVar("Bccresearch");
 pageTracker._initData();
 pageTracker._trackPageview();
-</script>
+</script> 
 
 </body></html>
