@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the savethechildren.org.uk privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006233347id_/http%3A//www.savethechildren.org.uk/en/141.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savethechildren.org.uk privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516063040id_/http%3A//www.savethechildren.org.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy: Save the Children UK
+# Privacy policy | Save the Children UK
 
 Save the Children's processing of your personal data is governed by the Data Protection Act 1998.
 
@@ -26,11 +26,7 @@ When you contact Save the Children regarding our activities, register as a suppo
 
 ## What information do we collect?
 
-### Financial information
-
 In order to process financial transactions, we may ask you for your bank or credit card details. All online transactions will be encrypted using SSL (Secure Sockets Layer).
-
-### Personal information
 
 When you supply information such as your name or email address to us, we are legally obliged by the Data Protection Act 1998 to ensure that we only use this information for the purpose for which it was requested, and to ensure that it is kept securely.
 
@@ -40,7 +36,7 @@ When you provide us with personal data, such as your name or email address, you 
 
 ## Recruitment
 
-When recruiting for a post based in another country, Save the Children will sometimes need to transfer your personal information to countries that do not provide the same level of data protection as in the European Union. 
+When recruiting for a post based in another country, Save the Children will sometimes need to transfer your personal information to countries that do not provide the same level of data protection as in the European Union.
 
 ## Will we disclose the information we have collected to outside parties?
 
@@ -64,7 +60,7 @@ Find more detailed information on disabling cookies from [aboutcookies.org](htt
 
 ## Can you gain access to your personal information?
 
-You may request a copy of the personal information relating to you which is kept on file by Save the Children (for which we may charge a small fee) by contacting the Data Protection Officer. 
+You may request a copy of the personal information relating to you which is kept on file by Save the Children (for which we may charge a small fee) by contacting the Data Protection Officer.
 
 ## Updating my information
 
@@ -72,9 +68,9 @@ If any of your personal information changes or you find that our records are out
 
 ## Children’s data
 
-When you register with us, you are stating that you are over 18 years of age or are a minor acting with parental consent. You agree that any information you provide to us about yourself upon registration or at any time is true. See Terms and Conditions for more information. 
+When you register with us, you are stating that you are over 18 years of age or are a minor acting with parental consent. You agree that any information you provide to us about yourself upon registration or at any time is true. See Terms and Conditions for more information.
 
-## Confidentiality 
+## Confidentiality
 
 We cannot be held responsible for the privacy of data collected by websites not owned or managed by Save the Children.
 
