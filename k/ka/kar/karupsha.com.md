@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the karupsha.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221224417id_/http%3A//www.eentinc.com/privacyk.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karupsha.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516182039id_/http%3A//www3.karupsha.com/privacy.html) for the most accurate reproduction.*
 
-# EENT, Inc. Privacy Policy
+# Karup's Hometown Amateurs
+
+PRIVACY POLICY 
 
 This privacy policy is applicable to Karupspc.com, Karupsha.com, Karupsow.com, Karups.com and Karup.com. 
 
