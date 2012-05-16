@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cabelas.ca privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116075954id_/http%3A//www.cabelas.ca/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cabelas.ca privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516123757id_/http%3A//www.cabelas.ca/privacy_policy) for the most accurate reproduction.*
 
 # Cabelas Canada - Privacy Policy
 
@@ -51,7 +51,7 @@ Winnipeg, Manitoba Canada R2C 4S2**
 
 **_What personally identifiable information is being collected and used?_**
 
-In general, you can visit the Cabela’s Canada website without telling us who you are or providing us with any personally identifiable information. However, in order for us to provide you with the products or services that you have requested, you may be asked to provide us with personally identifiable information. For example, when you order a product, we may ask you to become a registered user of our website, during which you will be asked for your name, shipping and billing addresses, your e-mail address, and your telephone number. Similarly, when you purchase products through our catalogue, we collect the name, address, e-mail address and telephone number of the purchaser. We may also collect the name, address and telephone number of the person to whom the items are to be shipped (if different than the purchaser). Third-party shipping information shall only be used for the purpose of processing and fulfilling the order. The information we collect is used to process your order and provide you with the products and services you have requested. You do not have to provide us with any personally identifiable information when you purchase products at our retail store by cash.
+In general, you can visit the Cabela’s Canada website without telling us who you are or providing us with any personally identifiable information. However, in order for us to provide you with the products, services or other information that you have requested, you may be asked to provide us with personally identifiable information. For example, when you order a product, we may ask you to become a registered user of our website, during which you will be asked for your name, shipping and billing addresses, your e-mail address, and your telephone number. Similarly, when you purchase products through our catalogue, we collect the name, address, e-mail address and telephone number of the purchaser. We may also collect the name, address and telephone number of the person to whom the items are to be shipped (if different than the purchaser). Third-party shipping information shall only be used for the purpose of processing and fulfilling the order. The information we collect is used to process your order and provide you with the products and services you have requested. You do not have to provide us with any personally identifiable information when you purchase products at our retail store by cash.
 
 If you use a credit or debit card to purchase a product online, in-store, or through our catalogue, your payment card related information and your signature will be collected for the purposes of processing your payment. If you pay for a purchase by money order, cheque or C.O.D, the name, address, e-mail address and telephone number of the purchaser will be collected in order to identify you and contact you regarding your payment, if necessary.
 
@@ -147,7 +147,7 @@ We reserve the right to modify this Privacy Statement at any time, so please rev
 
 [](https://web.archive.org/signupforemail/)
 
-[](https://web.archive.org/36245/111101/111101.html)
+[](https://web.archive.org/36245/12/120508/120508.html)
 
 Since 1961, it has been our ongoing mission to provide outdoor enthusiasts with the finest quality gear and the highest level of customer service in the industry.   
 
