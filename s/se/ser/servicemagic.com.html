@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the servicemagic.com privacy policy that was archived on 2011-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111228113401id_/http%3A//www.servicemagic.com/rfs/aboutus/privacyStatement.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the servicemagic.com privacy policy that was archived on 2012-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120516140433id_/http%3A//www.servicemagic.com/rfs/aboutus/privacyStatement.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 	<title>ServiceMagic - Privacy Statement</title>
@@ -43,22 +43,58 @@
 
 
 
+
+
    <!-- BEGIN /rfs/stdnav/topNavJSIncludes.jsp -->
    
    
-   <script type="text/javascript" src="/js/sm.js"></script>
-   <script type="text/javascript" src="/js/sm/fb.js"></script>
-   <script type="text/javascript" src="/js/jsErrorLogger.js"></script>
-   <script type="text/javascript" src="/js/appendLink.js"></script>
-   <script type="text/javascript" src="/js/util/AjaxHelper.js"></script>
-   <script type="text/javascript" src="/js/util/SessionDetailEvent.js"></script>
-   <script type="text/javascript" src="/js/jQuery/jQuery.js"></script>
+   <script type="text/javascript" src="/rb/N1399861899/sm-global.js"></script>
+
+   
+   
+   
+   
+   
+   
+   
    <script type="text/javascript">
-      /* <![CDATA[ */
       $topNavIncludeJQ = jQuery.noConflict(true); if(!jQuery){jQuery = $topNavIncludeJQ ;}else{ $topNavIncludeJQ = {}; }
-      /* ]]> */
    </script>
 
+   <div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+   <script type="text/javascript">
+
+	   window.fbAsyncInit = function(){
+	      FB.init({appId: "64440709461", status: true, cookie: true, xfbml: true, oauth: true});
+	      
+	      SM.FB.initComplete = true;
+	      for (var i = 0, len = SM.FB.initCallbacks.length; i < len; i++) {
+	         SM.FB.initCallbacks[i]();
+	      }
+	      SM.FB.initCallbacks = null;
+	   };
+	   
+	   
+		   (function(){
+		      var e = document.createElement('script');
+		      e.async = true;
+		      e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+		      
+		      // Necessary for some cases in IE<8 and FF<4
+		      var fbRoot = document.getElementById('fb-root');
+		      if (fbRoot === null) {
+		         jQuery(document).ready(function(){
+		            document.getElementById("fb-root").appendChild(e);
+		         });
+		      }
+		      else {
+		         fbRoot.appendChild(e);
+		      }
+		   }());
+	   
+   </script>
+
+   
    <!-- END /rfs/stdnav/topNavJSIncludes.jsp -->
    
 
@@ -66,6 +102,7 @@
 
 
       
+
 
 
 
@@ -124,6 +161,10 @@
 
             <li><a href="/c.html" onclick="skipPopUp=true;">Directory</a></li>
             <li style="margin-right:0;padding-right:2px;border: none;"><a href="/m/apps" class="appendLink" data-linkid="14842">Mobile Apps</a></li>
+
+            <li id="fb-like">
+               <fb:like href="http%3A%2F%2Fwww.facebook.com%2FServiceMagic" send="false" layout="button_count" width="95" show_faces="false" font="arial"></fb:like>
+            </li>
 
             <li id="googlePlus" style="background-image: none;">
                <g:plusone size="medium" href="http://www.servicemagic.com/"></g:plusone>
@@ -184,6 +225,8 @@
 </div>
 
 <!-- /sm-consumer-top -->
+
+
 
 
 
@@ -576,13 +619,7 @@
 
 
 
-
 <!-- /rfs/aboutus/privacyStatement.jsp -->
-
-
-
-
-
 
 
 
@@ -603,7 +640,9 @@
 
 
 
- 
+
+
+
 
 
 <style type="text/css">
@@ -617,11 +656,11 @@
          <span>By using ServiceMagic you agree to our <a href="http://www.servicemagic.com/servlet/TermsServlet">Terms &amp; Conditions</a></span>
          <a href="#feedback" id="feedback" class="icon">Feedback</a> about this page
          <div id="sm-nav-feedback-form" style="display:none">
-            <form id="sm-nav-fb-form" action="/servlet/SMSiteFeedback" method="post" onsubmit="this.pageUrl.value=parent.document.location.href;">
+            <form id="sm-nav-fb-form" action="/servlet/SMSiteFeedback;jsessionid=44DB2741EAE4971C38B78AE5C0981063.workerpr026-1" method="post" onsubmit="this.pageUrl.value=parent.document.location.href;">
             <input type="hidden" name="pageName" value="/rfs/aboutus/privacyStatement.jsp">
             <input type="hidden" name="pageUrl" value="">
             <input type="hidden" name="domainUrl" value="www.servicemagic.com">
-            <input type="hidden" name="referringUrl" value="">
+            <input type="hidden" name="referringUrl" value="/article.show.Learn-to-Share-with-a-Jack-and-Jill-Bathroom.14180.html">
             <input type="hidden" name="nextPage" value="/rfs/aboutus/privacyStatement.jsp">
             <div id="sm-nav-feedback-top"></div>
             <div id="sm-nav-feedback-content">
@@ -710,7 +749,7 @@
          <a href="/hs-sitemap/sitemap.html">Site Map</a><br>
          <a href="/resources.tools.html">Project Tools</a><br>
          <a href="http://www.servicemagicconnection.com/">ServiceMagic Blog</a><br>
-         <a href="http://www.servicemagic.com/?isMobile=true">Mobile Site</a>
+         <a href="/?isMobile=true">Mobile Site</a>
       </div>
       <div style="clear:both"></div>
    </div>
@@ -768,7 +807,7 @@
          <img src="/images/footer/france.gif" width="29" height="22" alt="France">
       </span>
       
-      <span id="copy-message">© Copyright 1999-2011, ServiceMagic, Inc. All Rights Reserved</span>
+      <span id="copy-message">© Copyright 1999-2012, ServiceMagic, Inc. All Rights Reserved</span>
       
       <span id="bhg-info">
          <img src="/images/footer/bhg-logo.gif" width="79" height="31" alt="Better Homes and Gardens">
@@ -777,6 +816,19 @@
    </div>
 </div>
 <script type="text/javascript" src="/js/consumerBottomNav.js"></script>
+<script type="text/javascript">
+if (typeof SM !== "undefined" && typeof SM.FB !== "undefined") {
+   SM.FB.onInit(function(){
+      FB.Event.subscribe('xfbml.render', function(response) {
+         jQuery('#fb-like').css('background-image', 'none');
+      });
+   });
+}
+else {
+   throw new Error("SM.FB undefined in /rfs/stdnav/servicemagic/consumerBottomNav.jsp");
+}
+</script>
+
 <script type="text/javascript">
 jQuery('#googlePlus iframe').ready(function(){
    jQuery('#googlePlus').css('background-image', 'none');
@@ -831,7 +883,6 @@ jQuery('#googlePlus iframe').ready(function(){
 
 
 
-<script src="//d1nu2rn22elx8m.cloudfront.net/performable/pax/5KUgAz.js" type="text/javascript"></script>
 
 <!-- Analytics Tracking Code -->
    <!-- DFA Pixel -->
@@ -839,7 +890,7 @@ jQuery('#googlePlus iframe').ready(function(){
 	   var axel = Math.random() + "";
 	   var a = axel * 10000000000000;
 	   document.write('<iframe src="https://fls.doubleclick.net/activityi;src=3196561;type=smpat048;cat=patht281;u3=0;u1=0;ord=1;num=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
-	</script><iframe src="https://fls.doubleclick.net/activityi;src=3196561;type=smpat048;cat=patht281;u3=0;u1=0;ord=1;num=9457509276626.768?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+	</script><iframe src="https://fls.doubleclick.net/activityi;src=3196561;type=smpat048;cat=patht281;u3=0;u1=0;ord=1;num=2282051879512.31?" width="1" height="1" frameborder="0" style="display:none"></iframe>
 	<noscript>
 	   <iframe src="https://fls.doubleclick.net/activityi;src=3196561;type=smpat048;cat=patht281;u3=0;u1=0;ord=1;num=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
 	</noscript>
@@ -849,9 +900,11 @@ jQuery('#googlePlus iframe').ready(function(){
 	<script type="text/javascript">
 		var _gaq = _gaq || [];
 		  _gaq.push(['_setAccount', 'UA-230655-2']);
-		  _gaq.push(['_trackPageview']);
 		  _gaq.push(['_trackPageLoadTime']);
-		
+	     
+	       _gaq.push(['_trackPageview']);
+	     
+		  
 		  (function() {
 		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
@@ -859,14 +912,40 @@ jQuery('#googlePlus iframe').ready(function(){
 		  })();
 	</script>
 	
-
-   <script type="text/javascript">
-   var _paq = _paq || [];
+		<!-- SiteCatalyst code version: H.24.3.
+		Copyright 1996-2012 Adobe, Inc. All Rights Reserved
+		More info available at http://www.omniture.com -->
+		<script language="JavaScript" type="text/javascript" src="/js/s_code.jsp"></script>
+		<script language="JavaScript" type="text/javascript"><!--
+		/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+		var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+		<script language="JavaScript" type="text/javascript"><!--
+		if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+		//--></script><noscript><img src="http://servicemagic.d2.sc.omtrdc.net/b/ss/servicemagicdev/1/H.24.3--NS/0"
+		height="1" width="1" border="0" alt="" /></noscript>
+		<!-- End SiteCatalyst code version: H.24.3. -->
    
-  </script>
-  
-         <!-- Landing page already logged for m=seo_no_referrer -->
+            <script type="text/javascript">
+               var google_conversion_id = 994414506;
+               var google_conversion_language = "en";
+               var google_conversion_format = "3";
+               var google_conversion_color = "666666";
+               var google_conversion_label = "06FQCJaeggIQqp-W2gM";
+               var google_conversion_value = 0;
+            </script>
+            <script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
+            </script>
+            <noscript>
+               <div style="display:inline;">
+                  <img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/994414506/?label=06FQCJaeggIQqp-W2gM&amp;guid=ON&amp;script=0"/>
+               </div>
+            </noscript>
          
+      <!-- SCR-30451 for FixItDirect -->
+      
+
+      
+
 
 
 
@@ -878,9 +957,6 @@ jQuery('#googlePlus iframe').ready(function(){
 
 <!-- /Survey Pixel -->
 <!-- END globalPixels.jsp -->
-<!--[if lte IE 6]>
-      <script type="text/javascript" src="/js/supersleight-min.js"></script>
-<![endif]-->
 <!-- end Bottom Nav --> 
   <!-- Cobrand Bottom Nav -->
 <!-- Blank include file  -->
