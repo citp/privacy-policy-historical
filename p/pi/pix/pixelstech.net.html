@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pixelstech.net privacy policy that was archived on 2011-11-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111115205706id_/http%3A//pixelstech.net/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pixelstech.net privacy policy that was archived on 2012-05-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120517003206id_/http%3A//pixelstech.net/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -7,7 +7,7 @@
 <title>Privacy and policy</title>
 </head>
 <body>
-  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="js/main.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="js/main.js"></script>
 <!--Google Analytics-->
 <script type="text/javascript">
   var _gaq = _gaq || [];
@@ -23,28 +23,50 @@
 </script>
 <div id="header">
     <div style="height:110px;background:url(images/header.gif) no-repeat;">
-        <p style="margin-left:800px;margin-top:0;padding:10px;color:#00F;"><a href="register.php" title="Register">Register</a> | <a href="login.php" title="Log in">Login</a></p>
-        <form id="search_form" action="search.php" method="post" style="width:340px;padding-left:660px;margin-top:25px;">
-        <input type="text" name="key_word" value="" style="width:200px;">
-        <input type="submit" name="search" value="Search">
-    </form>
+        <p class="welcome_p"><a href="register.php" title="Register">Register</a> | <a href="login.php" title="Log in">Login</a></p>
+    	<div id="search_form_div">
+	    <form id="search_form" action="search.php" method="post">
+	        <input type="text" name="key_word" value="">
+	        <input type="submit" name="search" id="header_search_icon" value="" title="Search">
+	    </form>
+    </div>
     </div>
     <table id="header_main_table" cellpadding="0" cellspacing="0">
        <tbody><tr>
-          <td><a href="index.php" title="Home">Home</a></td>
+          <td><a href="index.php" title="Home"><img src="images/icons/Home.gif" align="absmiddle">&nbsp;Home</a></td>
           <td><a href="article.php" title="Technical Article">Technical Article</a></td>
           <td id="download_menu_td" style="width:180px;" onmouseover="this.style.backgroundColor='#666';show_item('header_download_menu');" onmouseout="this.style.backgroundColor='';hide_item('header_download_menu');"><a href="download.php" title="Download">Download</a>
           		<table id="header_download_menu" class="header_sub_table" cellpadding="0" cellspacing="0" onmouseover="$._id('download_menu_td').style.backgroundColor='#666';this.style.visibility='visible';" onmouseout="$._id('download_menu_td').style.backgroundColor='';this.style.visibility='hidden';">
-				                <tbody><tr><td><a href="download/category.php?cat=3" title="Document">Document</a></td></tr>
-                                <tr><td><a href="download/category.php?cat=4" title="eBook">eBook</a></td></tr>
-                                <tr><td><a href="download/category.php?cat=1" title="Software">Software</a></td></tr>
-                                <tr><td><a href="download/category.php?cat=2" title="Source Code">Source Code</a></td></tr>
+				                <tbody><tr>
+                	<td style="width:30px;">
+                	                	<img src="images/icons/download_type/1324814842DocumentMenu.gif" style="vertical-align:middle;" align="bottom">&nbsp;
+                	                	</td>
+                	<td><a href="download/category.php?cat=3" title="Document"> Document</a></td>
+                </tr>
+                                <tr>
+                	<td style="width:30px;">
+                	                	<img src="images/icons/download_type/EbookMenu.gif" style="vertical-align:middle;" align="bottom">&nbsp;
+                	                	</td>
+                	<td><a href="download/category.php?cat=4" title="eBook"> eBook</a></td>
+                </tr>
+                                <tr>
+                	<td style="width:30px;">
+                	                	<img src="images/icons/download_type/SoftwareMenu.gif" style="vertical-align:middle;" align="bottom">&nbsp;
+                	                	</td>
+                	<td><a href="download/category.php?cat=1" title="Software"> Software</a></td>
+                </tr>
+                                <tr>
+                	<td style="width:30px;">
+                	                	<img src="images/icons/download_type/1324815150SourceCodeMenu.gif" style="vertical-align:middle;" align="bottom">&nbsp;
+                	                	</td>
+                	<td><a href="download/category.php?cat=2" title="Source Code"> Source Code</a></td>
+                </tr>
                                </tbody></table></td>
           <td><a href="documentation.php" title="Documentation">Documentation</a></td>
           <td id="application_menu_td" style="width:180px;" onmouseover="this.style.backgroundColor='#666';show_item('header_application_menu');" onmouseout="this.style.backgroundColor='';hide_item('header_application_menu');"><a title="Application">Application</a>
           	   <table id="header_application_menu" class="header_sub_table" cellpadding="0" cellspacing="0" onmouseover="$._id('application_menu_td').style.backgroundColor='#666';this.style.visibility='visible';" onmouseout="$._id('application_menu_td').style.backgroundColor='';this.style.visibility='hidden';">
-               <tbody><tr><td><a href="http://webubuntu.pixelstech.net" title="Web Ubuntu">Web Ubuntu</a></td></tr><tr><td><a href="http://profilestorer.pixelstech.net" title="Profile Storer">Profile Storer</a></td></tr>               <tr><td><a href="peditor/index.html" title="Pixels Editor">Pixels Editor</a></td></tr>
-               <tr><td><a href="chatter/index.php" title="Ajax Talker">Ajax Talker</a></td></tr>
+               <tbody><tr><td class="menu_icon_td"><img src="images/icons/menu/webubuntu.gif" align="absmiddle"></td><td><a href="http://webubuntu.pixelstech.net" title="Web Ubuntu">Web Ubuntu</a></td></tr><tr><td class="menu_icon_td"><img src="images/icons/menu/profilestorer.gif" align="absmiddle"></td><td><a href="http://profilestorer.pixelstech.net" title="Profile Storer">Profile Storer</a></td></tr>               <tr><td class="menu_icon_td"><img src="images/icons/menu/peditor.gif" align="absmiddle"></td><td><a href="peditor/index.html" title="Pixels Editor">Pixels Editor</a></td></tr>
+               <tr><td class="menu_icon_td"><img src="images/icons/menu/ajaxtalker.gif" align="absmiddle"></td><td><a href="chatter/index.php" title="Ajax Talker">Ajax Talker</a></td></tr>
                </tbody></table>
           </td>
           <td><a href="qanda.php" title="FAQ">FAQ</a></td>
@@ -55,8 +77,7 @@
 <script type="text/javascript">
 GetUrl();
 </script>
-<div id="main_body" style="width:700px;margin:auto;text-align:justify;padding-top:20px;">
-<p class="title_p">Privacy policy</p>
+<div id="main_body" style="width:940px;margin:auto;text-align:justify;margin-top:20px;padding:10px;" class="round_corner">
 This Privacy Policy governs the manner in which Pixelstech collects, uses, maintains and discloses information collected from users (each, a "User") of the <a href="http://www.pixelstech.net">http://www.pixelstech.net</a> website ("Site"). This privacy policy applies to the Site and all products and services offered by Pixelstech.<br><br>
 
 <b>Personal identification information</b><br><br>
@@ -105,10 +126,7 @@ By using this Site, you signify your acceptance of this policy and <a href="http
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:<br>
 <a href="http://www.pixelstech.net">Pixelstech</a><br>
 <a href="http://www.pixelstech.net">http://www.pixelstech.net</a><br>
-+65 83070147<br>
-pike@pixelstech.net<br>	
-
-			
+info@pixelstech.net<br>			
 </div>
 <div id="footer">
 <span class="footer_border_6"></span>
@@ -118,8 +136,8 @@ pike@pixelstech.net<br>
 <span class="footer_border_2"></span>
 <span class="footer_border_1"></span>
 <div style="height:60px;background-color:#999;">
-     <a href="aboutus.php" title="About us">About us</a> | <a href="mailto:pike@pixelstech.net" title="Contact us">Contact us</a> | <a href="ad.php" title="Advertisements">Advertisements</a> | <a href="privacy.php" title="Privacy polocy">Privacy policy</a> | <a href="termofservice.php">Terms of service</a> | <a href="bug_report.php">Bug report</a><br>
-     Pixelstech.net © 2011 All rights reserved
+     <a href="aboutus.php" title="About us">About us</a> | <a href="contactus.php" title="Contact us">Contact us</a> | <a href="ad.php" title="Advertisements">Advertisements</a> | <a href="privacy.php" title="Privacy polocy">Privacy policy</a> | <a href="termofservice.php">Terms of service</a> | <a href="bug_report.php">Bug report</a><br>
+     Pixelstech.net © 2011-2012 All rights reserved
 </div>
 <span class="footer_border_1"></span>
 <span class="footer_border_2"></span>
@@ -127,5 +145,6 @@ pike@pixelstech.net<br>
 <span class="footer_border_4"></span>
 <span class="footer_border_5"></span>
 <span class="footer_border_6"></span>
+<div style="position:fixed;z-index:6;bottom:20px;right:20px;"><a href="feedback.php" title="Feedback to us"><img src="/images/suggestion.gif"></a></div>
 </div>
 </body></html>
