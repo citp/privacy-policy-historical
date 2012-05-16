@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lozo.com privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014234537id_/http%3A//lozo.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lozo.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516142926id_/http%3A//lozo.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - LOZO
 
