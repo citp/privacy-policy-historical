@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ukti.gov.uk privacy policy that was archived on 2011-11-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111108134050id_/http%3A//www.ukti.gov.uk/uktihome/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ukti.gov.uk privacy policy that was archived on 2012-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120516024151id_/http%3A//www.ukti.gov.uk/uktihome/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 	<title>Privacy and Cookies</title>
@@ -41,22 +41,70 @@ DD_belatedPNG.fix('.png_bg');
 
 <script src="/js/twtr.js"></script>
 
+<script type="text/javascript">
+    function removeSubmitImageAttr() {
+        $('.corner_go_button').attr('disabled',true);
+    }
+</script>
+
+<script type="text/javascript" language="JavaScript">
+    function trackDownload(downloadTag) {
+
+	//     COI
+	if (typeof(_gat) == 'object' && (window.location.hostname == 'www.ukti.gov.uk')) {
+
+		// Code to make sure that the __utmc cookie is re-instated if the __utmb cookie still exists.
+		// This overrides the "new session on browser close" behaviour of Google Analytics
+		var cookiePath = '/'; // should be set to '/' or whatever the GA cookie path is
+
+
+		var cookieDomain = '.ukti.gov.uk'; // should be set to the domain that the GA cookies would use
+
+		var utmc = 0;
+		var utmb = 0;
+		try {
+			utmc = (/__utmc=/.test(document.cookie) ? document.cookie.match(/__utmc=([^;]*)/)[1] : 0);
+		} catch(err) {
+		}
+		if (!utmc) {
+			try {
+				utmb = (/__utmb=/.test(document.cookie) ? document.cookie.match(/__utmb=([^;]*)/)[1] : 0);
+			} catch(err) {
+			}
+			if (utmb) {
+				var domainHash = utmb.split('.')[0];
+				document.cookie = '__utmc=' + escape(domainHash) + '; path=' + cookiePath + '; domain=' + cookieDomain;
+			}
+		}
+		try {
+			pageTracker = _gat._getTracker("UA-262426-10");
+			pageTracker._setLocalGifPath("//www.ukti.gov.uk/images/__utm.gif");
+			pageTracker._setLocalRemoteServerMode();
+			pageTracker._trackPageview('/download/'+downloadTag);
+		} catch(err) {
+		}
+	}
+
+    }
+
+</script>
+
 
 <script>
-    if ($.browser.safari) {
-        //webkit specific css
-        document.write('<link type="text/css" rel="stylesheet" href="/styles/webkit.css"/>');
-    }
+	if ($.browser.safari) {
+		//webkit specific css
+		document.write('<link type="text/css" rel="stylesheet" href="/styles/webkit.css"/>');
+	}
 </script><link type="text/css" rel="stylesheet" href="/styles/webkit.css">
 
 
 
 
 </head>
-<body>
+<body id="t5_single_localisation">
 <div id="skipnav">
-    <a href="#top_menu">Skip to navigation</a>
-    <a href="#article">Skip to content</a>
+	<a href="#top_menu">Skip to navigation</a>
+	<a href="#article">Skip to content</a>
 </div>
 <div id="page" class="red">
 
@@ -64,85 +112,85 @@ DD_belatedPNG.fix('.png_bg');
 
 <div id="header">
 
-    <h2><a href="/" title="UK Trade &amp; Investment"><span>UK Trade &amp; Investment</span></a></h2>
+	<h2><a href="/" title="UK Trade &amp; Investment"><span>UK Trade &amp; Investment</span></a></h2>
 
-    <p id="top_menu">
-        <img src="/images/top_menu_left.gif" width="2" height="37" alt="UKTI Home">
-        <a href="/home.html&#10;" class="
+	<p id="top_menu">
+				<img src="/images/top_menu_left.gif" width="2" height="37" alt="UKTI Home">
+				<a href="/home.html&#10;" class="
                                                 selected_red selected
                                    " title="UKTI Home">UKTI Home</a>
-        <img src="/images/top_menu_right.gif" width="2" height="37" alt="UKTI Home">
-        <img src="/images/top_menu_left.gif" width="2" height="37" alt="Export">
-        <a href="/export.html&#10;" class="
+				<img src="/images/top_menu_right.gif" width="2" height="37" alt="UKTI Home">
+				<img src="/images/top_menu_left.gif" width="2" height="37" alt="Export">
+				<a href="/export.html&#10;" class="
                                                 blue
                                    " title="Export">Export</a>
-        <img src="/images/top_menu_right.gif" width="2" height="37" alt="Export">
-        <img src="/images/top_menu_left.gif" width="2" height="37" alt="Invest in the UK">
-        <a href="/invest.html&#10;" class="
+				<img src="/images/top_menu_right.gif" width="2" height="37" alt="Export">
+				<img src="/images/top_menu_left.gif" width="2" height="37" alt="Invest in the UK">
+				<a href="/invest.html&#10;" class="
                                                 green
                                    " title="Invest in the UK">Invest in the UK</a>
-        <img src="/images/top_menu_right.gif" width="2" height="37" alt="Invest in the UK">
-        <img src="/images/top_menu_left.gif" width="2" height="37" alt="Defence &amp; Security">
-        <a href="/defencesecurity.html&#10;" class="
+				<img src="/images/top_menu_right.gif" width="2" height="37" alt="Invest in the UK">
+				<img src="/images/top_menu_left.gif" width="2" height="37" alt="Defence &amp; Security">
+				<a href="/defencesecurity.html&#10;" class="
                                                 orange
                                    " title="Defence &amp; Security">Defence &amp; Security</a>
-        <img src="/images/top_menu_right.gif" width="2" height="37" alt="Defence &amp; Security">
-    </p>
+				<img src="/images/top_menu_right.gif" width="2" height="37" alt="Defence &amp; Security">
+	</p>
 
-    <form id="search_form" action="/uktihome/search.html">
-        <label for="search">Search</label>
-        <input type="text" name="search" id="search">
-        <input type="hidden" name="sort" value="ByScore">
-        <input type="image" style="width: 30px; height: 22px;" value="go" src="/images/go_button_red.gif" alt="Go Button" title="Go Button">
-    </form>
+	<form id="search_form" action="/uktihome/search.html" onsubmit="removeSubmitImageAttr();">
+		<label for="search">Search</label>
+		<input type="text" name="search" id="search">
+		<input type="hidden" name="sort" value="ByScore">
+		<input type="image" class="corner_go_button" style="width: 30px; height: 22px;" value="go" src="/images/go_button_red.gif" alt="Go Button" title="Go Button">
+	</form>
 
-    <p id="login">
-        <br>
-        <a href="/uktihome/register.html" title="Login">Login</a>
-        <a href="/uktihome/register.html" title="Register">Register</a>
-        <a href="/uktihome/contactus.html" title="Contact us">Contact us</a>
-    </p>
+	<p id="login">
+				<br>
+				<a href="/uktihome/register.html" title="Login">Login</a>
+				<a href="/uktihome/register.html" title="Register">Register</a>
+				<a href="/uktihome/contactus.html" title="Contact us">Contact us</a>
+	</p>
 
 </div>
 
 <ul id="top_nav">
-    <li class="first ">
-        <a href="/home.html&#10;" title="Home">Home</a>
-    </li>
-    <li class=" ">
-        <a href="/uktihome/aboutukti.html&#10;" title="About UKTI">About UKTI</a>
-    </li>
-    <li class=" ">
-        <a href="/uktihome/media.html&#10;" title="Media">Media</a>
-    </li>
-    <li class=" ">
-        <a href="/uktihome/eventssearch.html&#10;" title="Events Search">Events Search</a>
-    </li>
-    <li class=" ">
-        <a href="/uktihome/contactus.html&#10;" title="Contact Us">Contact Us</a>
-    </li>
+			<li class="first ">
+				<a href="/home.html&#10;" title="Home">Home</a>
+			</li>
+			<li class=" ">
+				<a href="/uktihome/aboutukti.html&#10;" title="About UKTI">About UKTI</a>
+			</li>
+			<li class=" ">
+				<a href="/uktihome/media.html&#10;" title="Media">Media</a>
+			</li>
+			<li class=" ">
+				<a href="/uktihome/eventssearch.html&#10;" title="Events Search">Events Search</a>
+			</li>
+			<li class=" ">
+				<a href="/uktihome/contactus.html&#10;" title="Contact Us">Contact Us</a>
+			</li>
 
 </ul>
 
 <ul id="text_change">
-    <li class="light first">
-        <a href="#" title="Light" onclick="setActiveStyleSheet('main'); return false;"><span> A </span></a></li>
-    <li class="dark"><a href="#" title="Dark" onclick="setActiveStyleSheet('contrast'); return false;"><span> A </span></a>
-    </li>
-    <!--<a href="javascript:decreaseFontSize();">-</a>-->
-    <!--<a href="javascript:increaseFontSize();">+</a>-->
+	<li class="light first">
+		<a href="#" title="Light" onclick="setActiveStyleSheet('main'); return false;"><span> A </span></a></li>
+	<li class="dark"><a href="#" title="Dark" onclick="setActiveStyleSheet('contrast'); return false;"><span> A </span></a>
+	</li>
+	<!--<a href="javascript:decreaseFontSize();">-</a>-->
+	<!--<a href="javascript:increaseFontSize();">+</a>-->
 </ul>
 
 
 
 
 <div class="navigation_trail">
-    You Are Here :
-    
-    <a href="/home.html&#10;" title="UKTI Home">UKTI Home</a>
-    
-    &gt; Privacy Policy
-    <div style="clear:left"></div>
+You Are Here :
+		
+			<a href="/home.html&#10;" title="UKTI Home">UKTI Home</a>
+		
+					&gt; Privacy Policy
+	<div style="clear:left"></div>
 </div>
 
 
@@ -264,15 +312,15 @@ DD_belatedPNG.fix('.png_bg');
 			</div>
 
 <div id="article_links">
-    <p>
+	<p>
         <span><a href="/uktihome/item/share/110347.html" class="share_this" target="share_popup" title="ShareThis">ShareThis</a></span>
-        <span class="seperator"> </span>
+		<span class="seperator"> </span>
         <span><a href="/uktihome/item/email/110347.html" class="email_this" title="Email This">Email
-            this</a></span>
-        <span class="seperator"> </span>
+			this</a></span>
+		<span class="seperator"> </span>
         <span><a href="/uktihome/item/print/110347.html" class="print_this" target="_blank" title="Print This">Print
-            this</a></span>
-    </p>
+			this</a></span>
+	</p>
 </div>
 
 		</div>
@@ -295,81 +343,80 @@ DD_belatedPNG.fix('.png_bg');
 <div id="footer">
 
 <ul id="bottom_nav">
-    <li class="first">Crown Copyright 2011</li>
-    <li>
-        <a href="/uktihome/accessibility.html" title="Accessibility">Accessibility</a>
-    </li>
-    <li>
-        <a href="/uktihome/privacypolicy.html" title="Privacy and Cookies">Privacy and Cookies</a>
-    </li>
-    <li>
-        <a href="/uktihome/freedomofinformation.html" title="Freedom of information">Freedom of information</a>
-    </li>
-    <li>
-        <a href="/uktihome/legal.html" title="Legal">Legal</a>
-    </li>
-    <li>
-        <a href="/uktihome/media.html" title="Media">Media</a>
-    </li>
+	<li class="first">Crown Copyright 2012</li>
+	<li>
+		<a href="/uktihome/accessibility.html" title="Accessibility">Accessibility</a>
+	</li>
+	<li>
+		<a href="/uktihome/privacypolicy.html" title="Privacy and Cookies">Privacy and Cookies</a>
+	</li>
+	<li>
+		<a href="/uktihome/freedomofinformation.html" title="Freedom of information">Freedom of information</a>
+	</li>
+	<li>
+		<a href="/uktihome/legal.html" title="Legal">Legal</a>
+	</li>
+	<li>
+		<a href="/uktihome/media.html" title="Media">Media</a>
+	</li>
 
 </ul>
 
 
-    <p id="icons">
-        <span>Find UKTI</span>
-        <a href="//blog.ukti.gov.uk" class="blog" title="Blog"><span>Blog</span></a>
-        <a href="//www.youtube.com/user/UKTIWeb" class="youtube" title="YouTube"><span>YouTube</span></a>
-        <a href="//www.linkedin.com/groups?about=&amp;gid=1769629&amp;trk=anet_ug_grppro" class="linkedin" title="Linked In"><span>Linked In</span></a>
-        <a href="//twitter.com/UKTI" class="twitter" title="Twitter"><span>Twitter</span></a>
-        <a href="//www.flickr.com/photos/ukti/" class="flickr" title="Flickr"><span>Flickr</span></a>
-    </p>
+	<p id="icons">
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+		<a href="//blog.ukti.gov.uk" class="blog" title="Blog"><span>Blog</span></a>
+		<a href="//www.youtube.com/user/UKTIWeb" class="youtube" title="YouTube"><span>YouTube</span></a>
+		<a href="//www.linkedin.com/groups?about=&amp;gid=1769629&amp;trk=anet_ug_grppro" class="linkedin" title="Linked In"><span>Linked In</span></a>
+		<a href="//twitter.com/UKTI" class="twitter" title="Twitter"><span>Twitter</span></a>
+		<a href="//www.flickr.com/photos/ukti/" class="flickr" title="Flickr"><span>Flickr</span></a>
+	</p>
 
 </div>
 
 
 
 <script type="text/javascript">
-    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 
 <script type="text/javascript" language="JavaScript">
 
-    //     COI
-    if (typeof(_gat) == 'object' && window.location.hostname == 'www.ukti.gov.uk')
-    {
+	//     COI
+	if (typeof(_gat) == 'object' && (window.location.hostname == 'www.ukti.gov.uk')) {
 
-        // Code to make sure that the __utmc cookie is re-instated if the __utmb cookie still exists.
-        // This overrides the "new session on browser close" behaviour of Google Analytics
-        var cookiePath = '/'; // should be set to '/' or whatever the GA cookie path is
+		// Code to make sure that the __utmc cookie is re-instated if the __utmb cookie still exists.
+		// This overrides the "new session on browser close" behaviour of Google Analytics
+		var cookiePath = '/'; // should be set to '/' or whatever the GA cookie path is
 
 
-        var cookieDomain = '.ukti.gov.uk'; // should be set to the domain that the GA cookies would use
+		var cookieDomain = '.ukti.gov.uk'; // should be set to the domain that the GA cookies would use
 
-        var utmc = 0;
-        var utmb = 0;
-        try {
-            utmc = (/__utmc=/.test(document.cookie) ? document.cookie.match(/__utmc=([^;]*)/)[1] : 0);
-        } catch(err) {
-        }
-        if (!utmc) {
-            try {
-                utmb = (/__utmb=/.test(document.cookie) ? document.cookie.match(/__utmb=([^;]*)/)[1] : 0);
-            } catch(err) {
-            }
-            if (utmb) {
-                var domainHash = utmb.split('.')[0];
-                document.cookie = '__utmc=' + escape(domainHash) + '; path=' + cookiePath + '; domain=' + cookieDomain;
-            }
-        }
-        try {
-            pageTracker = _gat._getTracker("UA-262426-10");
-            pageTracker._setLocalGifPath("//www.ukti.gov.uk/images/__utm.gif");
-            pageTracker._setLocalRemoteServerMode();
-            pageTracker._trackPageview();
-        } catch(err) {
-        }
-    }
+		var utmc = 0;
+		var utmb = 0;
+		try {
+			utmc = (/__utmc=/.test(document.cookie) ? document.cookie.match(/__utmc=([^;]*)/)[1] : 0);
+		} catch(err) {
+		}
+		if (!utmc) {
+			try {
+				utmb = (/__utmb=/.test(document.cookie) ? document.cookie.match(/__utmb=([^;]*)/)[1] : 0);
+			} catch(err) {
+			}
+			if (utmb) {
+				var domainHash = utmb.split('.')[0];
+				document.cookie = '__utmc=' + escape(domainHash) + '; path=' + cookiePath + '; domain=' + cookieDomain;
+			}
+		}
+		try {
+			pageTracker = _gat._getTracker("UA-262426-10");
+			pageTracker._setLocalGifPath("//www.ukti.gov.uk/images/__utm.gif");
+			pageTracker._setLocalRemoteServerMode();
+			pageTracker._trackPageview();
+		} catch(err) {
+		}
+	}
 
 </script>
 
@@ -380,25 +427,25 @@ DD_belatedPNG.fix('.png_bg');
 </div>
 
 <div id="share_dialog" title="Share This" class="hidden" lang="en">
-    <div id="header" class="pop">
-        <h1><a href="/" title="UK Trade &amp; Investment"><span>UK Trade &amp; Investment</span></a></h1>
-    </div>
+		<div id="header" class="pop">
+			<h1><a href="/" title="UK Trade &amp; Investment"><span>UK Trade &amp; Investment</span></a></h1>
+		</div>
 
 
-    <p id="article_date">Friday, 27 May 2011</p>
+			<p id="article_date">Friday, 27 May 2011</p>
 
-    <h1 class="first_heading">Privacy and Cookies</h1>
+		<h1 class="first_heading">Privacy and Cookies</h1>
 
-    <br><br>
+		<br><br>
 
-    <p id="shareicons">
-        <a class="delicious" title="Post to Delicious" href="//del.icio.us/post?url=http://www.ukti.gov.uk/uktihome/privacypolicy.html&amp;title=Privacy%20and%20Cookies" target="_blank"><span>Delicious</span></a>
-        <a class="digg" title="Post to Digg" href="//digg.com/submit?url=http://www.ukti.gov.uk/uktihome/privacypolicy.html&amp;title=Privacy%20and%20Cookies" target="_blank"><span>Digg</span></a>
-        <a class="reddit" title="Post to reddit" href="//reddit.com/submit?url=http://www.ukti.gov.uk/uktihome/privacypolicy.html&amp;title=Privacy%20and%20Cookies" target="_blank"><span>reddit</span></a>
-        <a class="facebook" title="Post to Facebook" href="//www.facebook.com/sharer.php?u=http://www.ukti.gov.uk/uktihome/privacypolicy.html&amp;t=Privacy%20and%20Cookies" target="_blank"><span>Facebook</span></a>
-        <a class="stumbleupon" title="Post to StumbleUpon" href="//www.stumbleupon.com/submit?url=http://www.ukti.gov.uk/uktihome/privacypolicy.html&amp;title=Privacy%20and%20Cookies" target="_blank"><span>StumbleUpon</span></a>
-        <a class="twitter" title="Post to Twitter" href="//www.twitter.com/home?status=http://www.ukti.gov.uk/uktihome/privacypolicy.html"><span>Twitter</span></a>
-    </p>
+		<p id="shareicons">
+			<a class="delicious" title="Post to Delicious" href="//del.icio.us/post?url=http://www.ukti.gov.uk/uktihome/privacypolicy.html&amp;title=Privacy%20and%20Cookies" target="_blank"><span>Delicious</span></a>
+			<a class="digg" title="Post to Digg" href="//digg.com/submit?url=http://www.ukti.gov.uk/uktihome/privacypolicy.html&amp;title=Privacy%20and%20Cookies" target="_blank"><span>Digg</span></a>
+			<a class="reddit" title="Post to reddit" href="//reddit.com/submit?url=http://www.ukti.gov.uk/uktihome/privacypolicy.html&amp;title=Privacy%20and%20Cookies" target="_blank"><span>reddit</span></a>
+			<a class="facebook" title="Post to Facebook" href="//www.facebook.com/sharer.php?u=http://www.ukti.gov.uk/uktihome/privacypolicy.html&amp;t=Privacy%20and%20Cookies" target="_blank"><span>Facebook</span></a>
+			<a class="stumbleupon" title="Post to StumbleUpon" href="//www.stumbleupon.com/submit?url=http://www.ukti.gov.uk/uktihome/privacypolicy.html&amp;title=Privacy%20and%20Cookies" target="_blank"><span>StumbleUpon</span></a>
+			<a class="twitter" title="Post to Twitter" href="//www.twitter.com/home?status=http://www.ukti.gov.uk/uktihome/privacypolicy.html"><span>Twitter</span></a>
+		</p>
 </div>
 
 
