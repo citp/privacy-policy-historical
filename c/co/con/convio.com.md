@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the convio.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225192902id_/http%3A//www.convio.com/convio/policies/%23Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convio.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517001127id_/http%3A//www.convio.com/convio/policies/%23Privacy_Policy) for the most accurate reproduction.*
 
 # Policies | Convio
 
