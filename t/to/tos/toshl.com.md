@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the toshl.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103194315id_/http%3A//toshl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toshl.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517000204id_/http%3A//toshl.com/privacy) for the most accurate reproduction.*
 
-# Mobile Expense Tracker - Toshl - Privacy policy
+# Privacy policy | Toshl Finance
 
 ## Privacy policy
 
-At ThirdFrameStudios, the makers of Toshl, we take privacy and data security very seriously. We believe in the right of our customers to know which data is collected, for what purpose and also in the right of our customers to control this data and remove it if they so wish. In accordance with our beliefs, we make great effort to ensure the transparency of the methods with which we process your data and how we ensure it is kept secure and confidential. 
+At Toshl Inc. we take privacy and data security very seriously. We believe in the right of our customers to know which data is collected, for what purpose and also in the right of our customers to control this data and remove it if they so wish. In accordance with our beliefs, we make great effort to ensure the transparency of the methods with which we process your data and how we ensure it is kept secure and confidential. 
 
 ### Frequently asked questions (FAQ) about Privacy
 
@@ -53,7 +53,7 @@ are known only by you
   * you cannot retrieve a lost password, you can only set a new one  
 once you receive the reset e-mail
   * data is kept on secure servers in Germany
-  * only ThirdFrameStudios employees may access the data on the servers
+  * only Toshl Inc. employees may access the data on the servers
 
 
 How long do you keep the data?
