@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the australia.gov.au privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422090950id_/http%3A//australia.gov.au/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australia.gov.au privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516042148id_/http%3A//australia.gov.au/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - australia.gov.au
 
@@ -6,7 +6,7 @@
 
 This statement applies to the _australia.gov.au_ website. The website is managed by the Department of Finance and Deregulation.
 
-## Personal Information
+## Personal information
 
 _australia.gov.au_ collects personal information that you choose to give us, for example your email address, as well as collecting information about our users browsing activities.
 
@@ -19,6 +19,7 @@ We only use your personal information for the purposes for which you gave it to 
 We do not share information about you with other government agencies or other organisations without your permission unless it:
 
   * is necessary to provide you with a service that you have requested;
+  * is necessary to complete an activity that you have chosen to undertake;
   * is required or authorised by law; or
   * will prevent or lessen a serious and imminent threat to somebody's health.
 
@@ -34,15 +35,15 @@ You may opt out of any further contact from us.
 
 To protect your privacy and the privacy of others, we may have to gain evidence of your identity before we can give you access to information about you or change it.
 
-## Important Information
+## Important information
 
-This website is bound by the Information Privacy Principles of the _Privacy Act 1988_.
+This website is bound by the _Information privacy principles of the Privacy Act 1988_.
 
-We also follow the Guidelines for Federal and ACT Government Websites issued by the Office of the Privacy Commissioner.
+We also follow the _Guidelines for federal and ACT government websites_ issued by the Office of the Australian Information Commissioner.
 
 ## How to contact us
 
-[Contact Us](https://web.archive.org/contact-us) about any of your privacy concerns or to suggest further improvements to this website.
+[Contact us](https://web.archive.org/contact-us) about any of your privacy concerns or to suggest further improvements to this website.
 
 Alternatively, write to us at:
 
