@@ -1,0 +1,812 @@
+<!--The following is the downloaded HTML source of the aaaa.org privacy policy that was archived on 2012-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120516113931id_/http%3A//www.aaaa.org/pages/privacy2.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" dir="ltr" xmlns:mso="urn:schemas-microsoft-com:office:office" xmlns:msdt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="content-language" content="en">
+		<title>
+	Privacy Policy
+</title>
+    <link rel="stylesheet" type="text/css" href="/_layouts/1033/styles/HtmlEditorCustomStyles.css?rev=8SKxtNx33FmoDhbbfB27UA%3D%3D">
+<link rel="stylesheet" type="text/css" href="/_layouts/1033/styles/HtmlEditorTableFormats.css?rev=guYGdUBUxQit03E2jhSdvA%3D%3D">
+<link rel="stylesheet" type="text/css" href="/_layouts/1033/styles/core.css?rev=5msmprmeONfN6lJ3wtbAlA%3D%3D">
+
+	<link rel="stylesheet" type="text/css" href="/Style%20Library/CustomStyles/aaaa_PageLayouts.css">
+<link rel="stylesheet" href="/Style Library/reset.css" type="text/css"><link rel="stylesheet" href="/Style Library/main.css" type="text/css"><link rel="stylesheet" href="/Style Library/print.css" type="text/css" media="print">
+
+	<!--[if IE 6]>
+	<link rel="stylesheet" type="text/css" href="/Style Library/ie6.css" />
+	<![endif]-->
+	
+	
+	<script type="text/javascript">
+	var OSName="Unknown OS";
+	if (navigator.appVersion.indexOf("Win")!=-1) OSName="Windows";
+	if (navigator.appVersion.indexOf("Mac")!=-1) OSName="MacOS";
+	if (navigator.appVersion.indexOf("X11")!=-1) OSName="UNIX";
+	if (navigator.appVersion.indexOf("Linux")!=-1) OSName="Linux";
+	
+	if(OSName == "Windows"){
+	    document.write("<link rel=\"stylesheet\" href=\"/Style Library/main_WIN.css\" type=\"text/css\" media=\"screen\" />");
+	}
+	</script>
+
+
+    <script type="text/javascript" src="/scripts/jquery-1.4.2.min.js"></script>
+    <script type="text/javascript" src="/scripts/jquery.easing.js"></script>
+    <script type="text/javascript" src="/scripts/jquery.lavalamp.min.js"></script>
+    <script type="text/javascript" src="/scripts/jquery-ui-1.8.custom.min.js"></script>
+    <!-- <script type="text/javascript" src="/scripts/jquery.accordion.js"></script> -->
+    <script type="text/javascript" src="/scripts/jquery.client.js"></script>
+    <script type="text/javascript" src="/scripts/jcarousellite_1.0.1.pack.js"></script>
+    
+    <script type="text/javascript">
+        $(function() {
+            $("#Slider").lavaLamp({
+                fx: "backout",
+                speed: 700,
+                click: function(event, menuItem) {
+                    //return false;
+                }
+            });
+        });
+
+	    jQuery().ready(function(){
+            $('.SliderCarousel').jCarouselLite({
+                btnNext: '.next',
+                btnPrev: '.prev',
+                visible: 5,
+                easing: 'swing',
+                speed: 1000
+                
+            });
+
+            $("#btnLogin").click(function(){
+                   // $("#ctl00_AAAALogin_topSlidePanel").animate({"height": "-=30px"}, 500);
+                   // $("#ctl00_AAAALogin_LoginContainer_State1").addClass('hide');
+                   // $("#ctl00_AAAALogin_LoginContainer_State2").removeClass('hide');
+                   // $(".btn-login").html('Log Out');
+            });	 
+            $(".btn-login").click(function(){
+                if($(this).html() == "Log Out"){
+                    $("#ctl00_AAAALogin_topSlidePanel").slideToggle("slow");
+					$(this).html('Log In');
+                    ctl00_AAAALogin_RadAjaxPanel1.AjaxRequest();
+                }
+                else if($(this).html() == "Cancel"){
+                    $(this).html('Log In');
+                    $("#ctl00_AAAALogin_topSlidePanel").slideToggle("slow");
+                }
+                else if($(this).html() == "Log In"){
+                 	$("#ctl00_AAAALogin_topSlidePanel").css("height","60px");
+                    $("#ctl00_AAAALogin_LoginContainer_State2").addClass('hide');
+                    $("#ctl00_AAAALogin_LoginContainer_State1").removeClass('hide');
+                    $(this).html('Cancel');
+                    $("#ctl00_AAAALogin_topSlidePanel").slideToggle("slow");
+                    $('#ctl00_AAAALogin_txtUserName').val('Email Address').select()
+                }
+				else if($(this).html() == "Not In"){
+                    $("#ctl00_AAAALogin_topSlidePanel").css("height","60px");
+                    $("#ctl00_AAAALogin_LoginContainer_State2").addClass('hide');
+                    $("#ctl00_AAAALogin_LoginContainer_State1").removeClass('hide');
+                    $(this).html('Cancel');
+                    $("#ctl00_AAAALogin_topSlidePanel").slideToggle("slow");
+
+                }
+            });	    
+            
+            /*$(".btn-login").click(function(){
+                $("#topSlidePanel").slideToggle("slow");
+                $("#ctl00_AAAALogin_txtUserName").val("Email Address").focus().select();
+                if($(this).html() == "Cancel")
+                    $(this).html('Login');
+                else
+                    $(this).html('Cancel');
+            });	  	    */
+                        
+            
+	        $('#AccList a').click( // When a tab is clicked...
+		        function() { 
+					 if($(this).parent().hasClass('currentACC')){
+				        $(this).parent().removeClass('currentACC');
+					 }
+					 else{
+				        $(this).parent().siblings().removeClass('currentACC');
+				        $(this).parent().addClass('currentACC');
+					 }
+		        }
+	        );	
+
+		    $("#AccList").accordion({ 
+		    	header: ".accContainer a.accHeader",
+			    autoheight: false,
+			    collapsible: true
+			 });
+			 
+			 // Global Replacement code
+			 // Remove empty pipes
+			 $('ul.ArticleUtilities > li > span.pipe:only-child').parent().css('display','none');
+			 // Reset images with CSS rather than depricated attributes
+			 $("img[align='left']").css('float','left').css('margin','0 10px 10px 0');
+			 $("img[align='right']").css('float','right').css('margin','0 0 10px 10px');
+			 // Remove empty In This Section elements which use the Table of Contents web part rather than the Custom SiteRollup web part
+			 $('div.InThisSection .ms-WPBody:empty').each(function () {if($(this).parent().parent().html().length < 200) {$('div.InThisSection').css('display','none');}}); 
+             // Remove empty In This Section elements which use the custom SiteRollup web part
+             if ($('.InThisSection').children(1).children(0).children().size() == 0) {
+            	$('.InThisSection').hide();
+            	$('#InThisSectionBreak').hide();
+             }
+
+		    
+				// TODO - Remove unnecessary elements after deployed to production
+				for (var i = 0; i < document.links.length; i++) {
+     		      var url = document.links[i].href;
+				  if (document.links[i].href.toLowerCase().indexOf('www2.aaaa.org') > 0) {
+				   document.links[i].href = document.links[i].href.replace('www2.aaaa.org','www.aaaa.org');
+				  }
+				  if (document.links[i].href.toLowerCase().indexOf('www.aaaa.org/eweb') > 0) {
+				   var pos = url.indexOf('?');
+				   var qry = url.substring(url.indexOf('?') + 1, url.length);
+				   var baseUrl = window.location.href.substring(0,window.location.href.indexOf('aaaa.org')+8);
+				   document.links[i].href = baseUrl + '/pages/eweb.aspx?' + qry;
+				  }
+				  if (document.links[i].href.toLowerCase().indexOf('/eweb/dynamicpage.aspx') > 0 && document.links[i].href.toLowerCase().indexOf('frameurl=') < 0 ) {
+				   var pos = url.indexOf('?');
+				   var qry = url.substring(url.indexOf('?') + 1, url.length);
+   				   var baseUrl = window.location.href.substring(0,window.location.href.indexOf('aaaa.org')+8);
+				   document.links[i].href = baseUrl + '/pages/eweb.aspx?frameurl=' + encodeURIComponent(document.links[i].href.toLowerCase().replace('.org/netforumaaaatest/eweb','.org/netforumaaaadeploy/eweb').replace('admin.aaaa.org/eweb/', 'ams.aaaa.org/eweb/'));
+				   window.urlTest = document.links[i].href;
+				  }
+				 }		    
+		    
+	    });
+		function clearLogin() {
+			if ($('#loginMessage').css('display') != 'none') {
+			    $('#loginMessage').fadeOut('fast');
+			    $("#fakePassword").focus();
+			}
+		}	        
+    </script>
+	<script type="text/javascript" language="javascript" src="/_layouts/1033/init.js?rev=j9fiBtj%2FMWDGCYb7n24NGw%3D%3D"></script>
+<script type="text/javascript" language="javascript" src="/_layouts/1033/non_ie.js?rev=yfNry4hY0Gwa%2FPDNGrqXVg%3D%3D"></script>
+<title>
+
+</title><style type="text/css">
+	.ctl00_PlaceHolderMain_LeftZone_0 { border-color:Black;border-width:1px;border-style:Solid; }
+	.ctl00_PlaceHolderMain_TopZone_0 { border-color:Black;border-width:1px;border-style:Solid; }
+	.ctl00_PlaceHolderMain_MiddleZone_0 { border-color:Black;border-width:1px;border-style:Solid; }
+	.ctl00_PlaceHolderMain_RightZone_0 { border-color:Black;border-width:1px;border-style:Solid; }
+
+</style></head>
+  
+  
+  <body onload="javascript:_spBodyOnLoadWrapper();">
+    
+    <form name="aspnetForm" method="post" action="/web/20120516113931id_/http%3A//www.aaaa.org/pages/privacy2.aspx" id="aspnetForm">
+<input type="hidden" name="__SPSCEditMenu" id="__SPSCEditMenu" value="true">
+<input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="">
+<input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="">
+<input type="hidden" name="MSOTlPn_View" id="MSOTlPn_View" value="0">
+<input type="hidden" name="MSOTlPn_ShowSettings" id="MSOTlPn_ShowSettings" value="False">
+<input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="">
+<input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="">
+<input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none">
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0x0891C75E705BF01D3831CE36C310076FBFD7AF93952A742CD1FA8F32C941C67C110A3575D8589084EC14F9CB396EFF644BAED3E0C4D6D9D0AA0784FEDC30BD47,16 May 2012 11:39:31 -0000">
+<input type="hidden" name="MSOAuthoringConsole_FormContext" id="MSOAuthoringConsole_FormContext" value="">
+<input type="hidden" name="MSOAC_EditDuringWorkflow" id="MSOAC_EditDuringWorkflow" value="">
+<input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse">
+<input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="">
+<input type="hidden" name="MSOLayout_LayoutChanges" id="MSOLayout_LayoutChanges" value="">
+<input type="hidden" name="MSOLayout_InDesignMode" id="MSOLayout_InDesignMode" value="">
+<input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse">
+<input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUBMA9kFgJmD2QWBAIGD2QWAgICD2QWAgIBD2QWAgIBDxYCHhNQcmV2aW91c0NvbnRyb2xNb2RlCymIAU1pY3Jvc29mdC5TaGFyZVBvaW50LldlYkNvbnRyb2xzLlNQQ29udHJvbE1vZGUsIE1pY3Jvc29mdC5TaGFyZVBvaW50LCBWZXJzaW9uPTEyLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTcxZTliY2UxMTFlOTQyOWMBZAIID2QWDgIKD2QWAgIBD2QWAmYPZBYCAgMPZBYCAgEPDxYCHgdWaXNpYmxlZ2QWBAIBDw8WAh8BaGQWHAIBDw8WAh8BaGRkAgMPFgIfAWhkAgUPDxYCHwFoZGQCBw8WAh8BaGQCCQ8PFgIfAWhkZAILDw8WAh8BaGRkAg0PDxYCHwFoZGQCDw8PFgQeB0VuYWJsZWRoHwFoZGQCEQ8PFgIfAWhkZAITDw8WBB8CaB8BaGRkAhUPDxYCHwFoZGQCFw8WAh8BaGQCGQ8WAh8BaGQCGw8PFgIfAWdkZAIDDw8WAh8BZ2QWBgIBDw8WAh8BZ2RkAgMPDxYGHhhwZXJzaXN0ZWRFcnJvckFjdGlvblRyZWVkHhtwZXJzaXN0ZWRFcnJvckFjdGlvblRyZWVJZHNkHwFnZGQCBQ8PFgIfAWdkZAIMD2QWAgIDDxYCHgVjbGFzcwUhU2xpZGVQYW5lbCBTbGlkZVBhbmVsX1N0YXRlMSBoaWRlFgYCAQ9kFgQCAQ8WAh8FBQ5Mb2dpbkNvbnRhaW5lcmQCAw8WAh8FBRNMb2dpbkNvbnRhaW5lciBoaWRlZAIDD2QWAgIDDw8WAh4OUmFkQ29udHJvbHNEaXIFFi9fbGF5b3V0cy9SYWRDb250cm9scy9kZAIFD2QWAgIDDw8WAh8GBRYvX2xheW91dHMvUmFkQ29udHJvbHMvZGQCDg9kFgJmDw9kFgIfBQUYbXMtc2J0YWJsZSBtcy1zYnRhYmxlLWV4ZAISD2QWGgIFD2QWAmYPZBYCZg8WAh4LXyFJdGVtQ291bnQCAxYGZg9kFgJmDxUDDUp1bHkgMjQsIDIwMDmOAi9fbGF5b3V0cy9TdXNRdGVjaC9TdXNRdGVjaEl0ZW1SZWRpcmVjdC5hc3B4P0Rpc3BsYXlNb2RlPURpc3BsYXlJdGVtJkl0ZW1JZD02MSZMaXN0SWQ9MWVjNjYxYmItNjgxNS00Yzg2LWJhNWQtNzYwMWRmMTkyMTViJldlYklkPWJhMDg0MDVhLWU5NjktNDIzNC1hZjYyLWJkZmU4OTFlOThjMCZTaXRlVXJsPWh0dHA6Ly93d3cuYWFhYS5vcmcvcGFnZXMvcHJpdmFjeTIuYXNweCZTb3VyY2U9aHR0cCUzYSUyZiUyZnd3dy5hYWFhLm9yZyUyZnBhZ2VzJTJmcHJpdmFjeTIuYXNweE5GaW5hbCAyMDA5IFNBRy9BRlRSQSBUZWxldmlzaW9uIGFuZCBSYWRpbyBDb21tZXJjaWFscyBNZW1vcmFuZHVtcyBvZiBBZ3JlZW1lbnRkAgEPZBYCZg8VAw5BcHJpbCAxNSwgMjAwOI4CL19sYXlvdXRzL1N1c1F0ZWNoL1N1c1F0ZWNoSXRlbVJlZGlyZWN0LmFzcHg/RGlzcGxheU1vZGU9RGlzcGxheUl0ZW0mSXRlbUlkPTE3Jkxpc3RJZD1kNzFmZjY0OC1kYmFlLTQ1NzgtODM3ZS1lNzFhNmU2MjA2ZGMmV2ViSWQ9YWFlZTBiOTAtZDFmOC00NWE3LTlkNDAtZWIzNDU2MDg2NWU4JlNpdGVVcmw9aHR0cDovL3d3dy5hYWFhLm9yZy9wYWdlcy9wcml2YWN5Mi5hc3B4JlNvdXJjZT1odHRwJTNhJTJmJTJmd3d3LmFhYWEub3JnJTJmcGFnZXMlMmZwcml2YWN5Mi5hc3B4L01lZGlhIENvbmZlcmVuY2UgUmVjYXA6IFRodXJzZGF5LCBNYXJjaCA2LCAyMDA4ZAICD2QWAmYPFQMNSnVuZSAxMiwgMjAwOY8CL19sYXlvdXRzL1N1c1F0ZWNoL1N1c1F0ZWNoSXRlbVJlZGlyZWN0LmFzcHg/RGlzcGxheU1vZGU9RGlzcGxheUl0ZW0mSXRlbUlkPTExMCZMaXN0SWQ9MjQ3MmEyMTEtMDI2Yi00OTdlLWE2YzQtODRlYzYwNmIyYjcwJldlYklkPTRkYzRmODgyLWU1NjEtNGFlYy04YzNhLTAxY2I4ZmYzNmI5YyZTaXRlVXJsPWh0dHA6Ly93d3cuYWFhYS5vcmcvcGFnZXMvcHJpdmFjeTIuYXNweCZTb3VyY2U9aHR0cCUzYSUyZiUyZnd3dy5hYWFhLm9yZyUyZnBhZ2VzJTJmcHJpdmFjeTIuYXNweEREaWdpdGFsIEFnZW5jeSAzNjBpIFB1Ymxpc2hlcyBGaXJzdC1FdmVyICJTb2NpYWwgTWFya2V0aW5nIFBsYXlib29rImQCBw9kFgJmDw8WAh8BaGRkAgsPZBYCZg9kFgJmDw8WAh8BaGRkAg0PFgIfAAsrBAFkAhEPFgIfAAsrBAFkAhMPZBYCZg8PFgIfAWhkZAIVD2QWAmYPDxYCHwFoZGQCFw9kFgJmDxYCHgRUZXh0BTk8cD48c3Ryb25nPkFydGljbGUgU3RhcnQgRGF0ZTwvc3Ryb25nPjxiciAvPjEvMTgvMjAxMjwvcD5kAh0PFgIfAAsrBAFkAh8PFgIfAAsrBAFkAiEPFgIfAAsrBAEWAmYPZBYCAgEPZBYEAgEPZBYCAgMPDxYCHwYFF34vX2xheW91dHMvUmFkQ29udHJvbHMvZGQCAw9kFgICAQ8WAh4FVGl0bGUFJVlvdSBtdXN0IGJlIGxvZ2dlZCBpbiB0byByYXRlIGNvbnRlbnQWDAIBDxYEHwUFDmN1cnJlbnQtcmF0aW5nHwkFJVlvdSBtdXN0IGJlIGxvZ2dlZCBpbiB0byByYXRlIGNvbnRlbnRkAgMPDxYCHwFoZGQCBQ8PFgIfAWhkZAIHDw8WAh8BaGRkAgkPDxYCHwFoZGQCCw8PFgIfAWhkZAIlD2QWAmYPZBYCZg8PFgIfAWhkZAItD2QWAmYPDxYCHwFoZGQCFg9kFgICAg8PFgIfAWcWAh4Fc3R5bGUFDmRpc3BsYXk6YmxvY2s7ZAIYD2QWAgIBDw8WAh8BaGQWBAIBDw8WAh8BaGRkAgMPDxYCHwFoZBYCAgEPDxYCHwFnZBYEAgEPDxYCHwFoZBYcAgEPDxYCHwFoZGQCAw8WAh8BaGQCBQ8PFgIfAWhkZAIHDxYCHwFoZAIJDw8WAh8BaGRkAgsPDxYCHwFoZGQCDQ8PFgIfAWhkZAIPDw8WBB8CaB8BaGRkAhEPDxYCHwFoZGQCEw8PFgQfAmgfAWhkZAIVDw8WAh8BaGRkAhcPFgIfAWhkAhkPFgIfAWhkAhsPDxYCHwFnZGQCAw8PFgIfAWdkFgYCAQ8PFgIfAWdkZAIDDw8WAh8BZ2RkAgUPDxYCHwFnZGQCGg9kFgICAQ9kFgICAQ8WAh8ACysEAWQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgMFHWN0bDAwJEFBQUFMb2dpbiRSYWRBamF4UGFuZWwxBSxjdGwwMCRQbGFjZUhvbGRlck1haW4kY3RsMDckY3RsMDAkcG5sUmF0aW5ncwUdY3RsMDAkQUFBQUxvZ2luJGNoa1JlbWVtYmVyTWXy9bcCyt2mcWsOFQUpl6NVqXmUGQ==">
+
+<script> var MSOWebPartPageFormName = 'aspnetForm';</script>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBgKQ46LPCwLm8NCXDQLQwMPqBwKUyOucBAKiwui9BAKrs67dAh62g1DCjLu0edJPj98CfQ0W1JQj">
+    
+    
+    
+	<div id="authorToolsLayout">
+		
+
+		
+		
+		
+			
+<!-- Console -->
+<span id="ctl00_SPNavigation_ctl01_publishingContext1"></span>
+
+<!-- Console -->
+
+		
+	</div>
+
+  
+		
+
+<script type="text/javascript">
+    function getObject(id) {
+        if (document.getElementById) {
+            obj = document.getElementById(id);
+        }
+        else if (document.all) {
+            obj = document.all.item(id);
+        }
+        else {
+            obj = null;
+        }
+        return obj;
+    }
+    function showFakePassword() {
+        var r = getObject('ctl00_AAAALogin_txtPassword');
+        r.style.display = 'none';
+
+        var f = getObject('fakePassword');
+        f.value = "Password";
+        f.style.display = 'inline';
+
+    }
+    function showRealPassword() {
+        var f = getObject('fakePassword');
+        f.style.display = 'none';
+
+        var r = getObject('ctl00_AAAALogin_txtPassword');
+        r.style.display = 'inline';
+
+        r.focus();
+    }
+</script>
+    
+	<div id="ctl00_AAAALogin_topSlidePanel" class="SlidePanel SlidePanel_State1 hide"><!-- SLIDE PANEL -->
+        <div id="ctl00_AAAALogin_RadAjaxPanel1">
+	<!-- 1.7.2 --><input type="hidden" name="ctl00_AAAALogin_RadAjaxPanel1PostDataValue" id="ctl00_AAAALogin_RadAjaxPanel1PostDataValue" value="">
+<script type="text/javascript" src="/WebResource.axd?d=a2FIiazVxODwrf2YMH5C7olkiurrgqe50HT6kjklItsl1fsAd_abfwRuh_90co5zO9SlfumsNTcb7hDbfREYDOovCUM0ecTEOsnd_nNnD0OHLM360yHn5PQ68L1n5bhfdE1VVDmakp-FmbIB_DXqVA2&amp;t=634102325516738872"></script><script type="text/javascript" src="/WebResource.axd?d=a2FIiazVxODwrf2YMH5C7olkiurrgqe50HT6kjklItsl1fsAd_abfwRuh_90co5zO9SlfumsNTcb7hDbfREYDOovCUM0ecTEOsnd_nNnD0M-0ksdI2n46RemwfcJggBV0&amp;t=634102325516738872"></script><script type="text/javascript">/*<![CDATA[*/window["ctl00_AAAALogin_RadAjaxPanel1"] = new RadAjaxPanelNamespace.RadAjaxPanel({ClientID:"ctl00_AAAALogin_RadAjaxPanel1",EnableOutsideScripts:false,EnablePageHeadUpdate:false,Url:"/pages/privacy2.aspx",LoadingPanelID:"",ActiveElementID:"",ClientEvents:{OnRequestStart:"",OnRequestSent:"",OnResponseReceived:"",OnResponseEnd:"",OnRequestError:""},FormID:"aspnetForm",UniqueID:"ctl00$AAAALogin$RadAjaxPanel1"});/*]]>*/</script>
+
+
+	    <div id="ctl00_AAAALogin_LoginContainer_State1" class="LoginContainer">
+	        <div id="loginTitle">
+	            <h1>Create Your 4A's Account Now</h1>
+	            <h2>To learn about the benefits of creating an account <a href="">click here</a></h2>
+	        </div>
+	        <div id="loginPanel">
+	            <div id="loginForm">
+	                <label for="log">Log in</label>
+	                <input name="ctl00$AAAALogin$txtUserName" type="text" id="ctl00_AAAALogin_txtUserName" class="loginField" value="E-mail address" onblur="if (this.value == '') {this.value='E-mail address';}" onfocus="$('#loginMessage').fadeOut('fast');if (this.value == 'E-mail address') {this.value = '';}">
+	                <input type="text" id="fakePassword" class="loginField" value="Password" onfocus="showRealPassword();$('#loginMessage').fadeOut('fast');" style="width:155px;"><input name="ctl00$AAAALogin$txtPassword" type="password" id="ctl00_AAAALogin_txtPassword" style="width:155px;display:none;" class="loginField" onblur="if (this.value == ''){showFakePassword();}">
+	                <input type="submit" name="ctl00$AAAALogin$btnLogin" value="Log in" onclick="getElementById('imgLogIn').style.display = '';AjaxNS.ARWO(new WebForm_PostBackOptions(&quot;ctl00$AAAALogin$btnLogin&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false),'ctl00_AAAALogin_RadAjaxPanel1',event); return false;" id="ctl00_AAAALogin_btnLogin">
+                    
+	            </div>
+	            
+	            <div id="loginDivider"><img src="/images/LoginControl-Divider.jpg" alt=""></div>            
+	            
+	            <div id="loginCrumbs">
+	                <a href="/Pages/CreateAccount.aspx">Create an Account</a><span class="pipe">|</span><!--http://www.aaaa.org/eweb/DynamicPage.aspx?Site=4A_sp&WebCode=WebRegAAAA&op=newuser-->
+	                <a href="/Pages/ForgotPassword.aspx">Forgot Your Password?</a><span class="pipe">|</span><!--http://www.aaaa.org/eweb/DynamicPage.aspx?Site=4A_sp&WebCode=WebRegAAAA&op=pwreset-->
+	                <input id="ctl00_AAAALogin_chkRememberMe" type="checkbox" name="ctl00$AAAALogin$chkRememberMe" checked="checked"><label for="ctl00_AAAALogin_chkRememberMe">Remember Me</label>
+	            </div>
+	        </div>
+	        <img src="/_layouts/RadControls/Ajax/Skins/Default/ajax-loader.gif" alt="logging in" id="imgLogIn" style="float: right; position: absolute; right: 17px; top: 37px; display:none;">
+	    </div>
+	        
+        <div id="ctl00_AAAALogin_LoginContainer_State2" class="LoginContainer hide">
+            <div id="WelcomeTitle" style="float:left;">Welcome </div><div id="ctl00_AAAALogin_pnlActions" style="margin:8px 0px 0px 5px;position:relative;float:left; z-index:100;">
+
+	</div>
+            <div id="WelcomePanel">
+                <ul id="WelcomeLinks">
+                    <li><a href="/pages/managemyprofile.aspx">Manage My Profile<!--<span class="pipe">|</span>--></a></li>
+                    <!--<li><a href="this.style.behavior='url(#default#homepage)';this.setHomePage(location.href);">Make This My Homepage</a></li>-->
+                    
+                    
+                    
+                </ul>
+            </div>
+        </div>    
+        
+</div>
+        <div id="ctl00_AAAALogin_radLoadingPanel" style="display:none;height:65px;width:950px;">
+	
+                <!--<div style="width:950px;float:right;height:65px;">-->
+                <img id="ctl00_AAAALogin_Image2" src="/_layouts/RadControls/Ajax/Skins/Default/Loading2.gif" alt="Authenticating..." style="border-width:0px;float:right;margin-top:30px;z-index:1000;">
+                <!--</div>-->
+        <script type="text/javascript">RadAjaxNamespace.AddPanel( { ClientID : 'ctl00_AAAALogin_radLoadingPanel', IsSticky : false, InitialDelayTime: 0, MinDisplayTime: 0, Transparency: 10 } );</script>
+</div>
+        <div id="ctl00_AAAALogin_AjaxLoadingPanel1" style="display:none;height:65px;width:950px;position:relative;z-index:900000000;">
+	
+                <img id="ctl00_AAAALogin_Image1" src="/_layouts/RadControls/Ajax/Skins/Default/ajax-loader.gif" alt="Authenticating..." style="border-width:0px;margin-top:30px;float:right;">
+        <script type="text/javascript">RadAjaxNamespace.AddPanel( { ClientID : 'ctl00_AAAALogin_AjaxLoadingPanel1', IsSticky : false, InitialDelayTime: 0, MinDisplayTime: 0, Transparency: 20 } );</script>
+</div>
+        
+	</div>
+	
+	
+	    <div id="divTopRedBorder"></div>  
+        <div id="divPageContainer">
+            <div id="divHeader">
+                <a href="/"><img id="logo" src="/PublishingImages/AAAALogo.gif" alt="4A's"></a>
+                <ul id="TopUtilityMenu1">
+                    <li class="current"><a href="/about/contact/Pages/default.aspx">Contact Us</a></li>
+					<li class="current"><span class="pipe">|</span></li>
+                    <li><a href="/about/contact/west/Pages/default.aspx">Offices</a></li>
+					<li class="current"><span class="pipe">|</span></li>                    
+                    <li><a href="/about/contact/press/Pages/default.aspx">Press</a></li>
+                </ul>
+                <div id="LoginButtonContainer"><a href="#" class="btn-login">Log In</a></div>
+
+                <ul id="TopUtilityMenu2">
+                    <li>4A'S TOOLS<span class="pipe">||</span></li>
+                    <li><a href="/pages/AgencySearch.aspx">Agency Search</a></li>
+					<li class="current"><span class="pipe">|</span></li>
+					<li><a href="/agency/pubs/Pages/default.aspx">Research</a></li>
+					<li class="current"><span class="pipe">|</span></li>
+					<li><a href="/pages/Bookstore.aspx">Bookstore</a></li>
+                </ul>
+                <div id="divHeaderSearch">
+		      		<div id="SRSB"> <div id="ctl00_SearchBox">
+	<table class="ms-sbtable ms-sbtable-ex" border="0">
+		<tbody><tr class="ms-sbrow">
+			<td class="ms-sbcell"><input name="InputKeywords" type="text" maxlength="200" id="ctl00_SearchBox_S83C543AE_InputKeywords" accesskey="S" title="Enter search words" class="ms-sbplain" alt="Enter search words" onkeypress="javascript:return S83C543AE_OSBEK(event);" style="width:145px;"></td><td class="ms-sbgo ms-sbcell"><a id="ctl00_SearchBox_S83C543AE_go" title="Go Search" href="javascript:S83C543AE_Submit()"><img title="Go Search" onmouseover="this.src='/images/btn_search.jpg'" onmouseout="this.src='/images/btn_search.jpg'" alt="Go Search" src="/images/btn_search.jpg" border="0"></a></td><td class="ms-sbLastcell"></td>
+		</tr>
+	</tbody></table>
+</div></div> 					
+					<a class="AdvancedSearch" href="/SearchCenter/Pages/advanced.aspx">Try Advanced Search</a>
+                </div>
+                <div style="width:950px;position:relative;overflow:hidden;">
+                <div style="width:1000px;position:relative;">
+                <ul class="State1_Level1Nav" id="Slider">
+<li class="current leftitem"><a href="/">Home<span class="pipe">|</span></a></li>
+<li class=""><a href="/news/Pages/default.aspx">News &amp; Views<span class="pipe">|</span></a></li>
+<li class=""><a href="/events/Pages/default.aspx">Events<span class="pipe">|</span></a></li>
+<li class=""><a href="/agency/Pages/default.aspx">Business Resources<span class="pipe">|</span></a></li>
+<li class=""><a href="/careers/Pages/default.aspx">Talent Development<span class="pipe">|</span></a></li>
+<li class=""><a href="/members/Pages/default.aspx">Communities<span class="pipe">|</span></a></li>
+<li class=""><a href="/advocacy/Pages/default.aspx">Advocacy &amp; Policy<span class="pipe">|</span></a></li>
+<li class="rightitem"><a href="/about/Pages/default.aspx">Join Us</a></li>
+<li class="back" style="left: 0px; width: 51px;"><div class="left"></div></li></ul>
+                </div>
+                </div>
+
+            </div>
+            
+			
+	
+	<div id="breadcrumb">
+		<span id="ctl00_PlaceHolderMain_siteMapPath"><span class="ms-sitemapdirectional">4A's</span></span>
+	</div>
+	<div id="ContentContainer">
+    <div class="LeftColumn">
+        <div class="LeftContentContainer ">
+            <h1>Most Popular</h1>
+			
+            <h2>July 24, 2009</h2>
+            <a href="/_layouts/SusQtech/SusQtechItemRedirect.aspx?DisplayMode=DisplayItem&amp;ItemId=61&amp;ListId=1ec661bb-6815-4c86-ba5d-7601df19215b&amp;WebId=ba08405a-e969-4234-af62-bdfe891e98c0&amp;SiteUrl=http://www.aaaa.org/pages/privacy2.aspx&amp;Source=http%3a%2f%2fwww.aaaa.org%2fpages%2fprivacy2.aspx">Final 2009 SAG/AFTRA Television and Radio Commercials Memorandums of Agreement</a>
+        
+            <h2>April 15, 2008</h2>
+            <a href="/_layouts/SusQtech/SusQtechItemRedirect.aspx?DisplayMode=DisplayItem&amp;ItemId=17&amp;ListId=d71ff648-dbae-4578-837e-e71a6e6206dc&amp;WebId=aaee0b90-d1f8-45a7-9d40-eb34560865e8&amp;SiteUrl=http://www.aaaa.org/pages/privacy2.aspx&amp;Source=http%3a%2f%2fwww.aaaa.org%2fpages%2fprivacy2.aspx">Media Conference Recap: Thursday, March 6, 2008</a>
+        
+            <h2>June 12, 2009</h2>
+            <a href="/_layouts/SusQtech/SusQtechItemRedirect.aspx?DisplayMode=DisplayItem&amp;ItemId=110&amp;ListId=2472a211-026b-497e-a6c4-84ec606b2b70&amp;WebId=4dc4f882-e561-4aec-8c3a-01cb8ff36b9c&amp;SiteUrl=http://www.aaaa.org/pages/privacy2.aspx&amp;Source=http%3a%2f%2fwww.aaaa.org%2fpages%2fprivacy2.aspx">Digital Agency 360i Publishes First-Ever "Social Marketing Playbook"</a>
+        
+
+
+
+
+        </div>
+        <div class="LeftContentContainer ">
+			
+        </div>                   
+        
+        
+
+    </div>
+	<div class="MiddleColumn">
+        <div id="ArticleContainer">
+            <div class="ArticleUtilitiesContainer">
+                <ul class="ArticleUtilities">
+					<li>
+					
+
+<!--<div id="printLink"></div> -->
+<a href="javascript: print();">Print</a>
+<span class="pipe">
+					|</span></li>
+                    <li><script type="text/javascript">
+                    	document.write("<a href='mailto:?subject=4As Article&body=You may be interested in the following article. " + document.location.href + " '>Email</a><span class='pipe'>|</span>");
+                        </script><a href="mailto:?subject=4As Article&amp;body=You may be interested in the following article. https://web.archive.org/web/20120516113931id_/http%3A//www.aaaa.org/pages/privacy2.aspx ">Email</a><span class="pipe">|</span>
+                    </li>
+					<li style="display: none;">
+					
+<span class="pipe">
+					|</span></li>
+                    <li><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;username=xa-4ba1a56f7e36f9ba">
+					Share</a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4ba1a56f7e36f9ba"></script></li>
+                </ul>
+            </div>
+            
+            <h1><span>
+			Privacy Policy&nbsp;</span></h1>
+            <script type="text/javascript">
+            	var subTitle = '';
+            	if(subTitle != '')
+            		document.write('<h2>' + subTitle  + '</h2>');
+            </script>
+			<div id="ctl00_PlaceHolderMain_ctl04__ControlWrapper_RichHtmlField" style="display:inline"><p>Thank you for visiting the Web site of the 4A'sAmerican (Association of Advertising Agencies ) and reviewing our privacy policy. The&nbsp;4A's will collect no personal information about you when you visit our Web site unless you choose to provide that information to us.</p>
+<p>Here is how we handle information about your visit to our Web site:</p>
+<h2 class="sectionTitle"><br>Information Collected and Stored Automatically</h2>
+<p>If you do nothing during your visit but browse/search through the Web site, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store only the following information about your visit:</p>
+<ul>
+<li>The Internet domain (for example, “xcompany.com” if you use a private Internet access account, or “yourschool.edu” if you connect from a university’s domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our Web site;</li>
+<li>The type of browser and operating system used to access our site;</li>
+<li>The date and time you access our site;</li>
+<li>The pages you visit;</li>
+<li>The search term(s) used in our search engine; and</li>
+<li>If you linked to the 4A's Web site from another Web site, the address of that Web site.</li></ul>
+<p>We use this information to help us make our Web site more useful to visitors, to learn about the number of visitors to our site and the types of technology our visitors use. We do not track or record information about individuals and their visits.</p>
+<h2 class="sectionTitle"><br>If You Send Us Personal Information</h2>
+<p>If you choose to provide us with personal information by sending an e-mail to the 4A's, by making an online purchase/registering online for an&nbsp;4A's event, or by filling out a form with your personal information and submitting it through our Web site, we use that information to respond to your message, to fulfill your order/request, and to help us provide you with information.</p>
+<p>If you register for an online account to access members-only materials, your contact information and selected topics of interest will be used to help us communicate with you and develop content suited to your interests.</p>
+<p>If you choose to make an online purchase or register online for an&nbsp;4A's event, the 4A's reserves the right to use your contact information to communicate special offers and relevant products and services available from the 4A's, affiliate companies and selected sponsors. You can opt-out by e-mailing us at <a href="mailto:webmaster@aaaa.org">webmaster@aaaa.org</a>.</p>
+<p>If you submit a proposed Patent of Interest to the Patent Forum section of the 4A's Web site, we will consider your submission and may choose to post your proposed Patent of Interest on the Web site.&nbsp; We will discard your submission after we consider it and will not keep a record of who submitted patents or patent applications for consideration.</p>
+<p>The 4A's does not disclose, share, release, publish, disseminate, rent, or sell any personally identifiable information to any third parties, but please be aware that if the&nbsp;4A's combines with another organization or otherwise disposes of its assets (such as, for example, in a bankruptcy proceeding) another entity may acquire from the&nbsp;4A's the user information we have previously collected.</p>
+<h2 class="sectionTitle"><br>Your Right to Review and Modify Data and Information</h2>
+<p>You have the right, at any time, to review and/or modify any of your personally identifiable information that you provide during registration, or any other voluntarily provided information. You may also remove yourself from our active databases of e-mail lists. To do so, you should send an e-mail to <a href="mailto:webmaster@aaaa.org">webmaster@aaaa.org</a> requesting that (a) we provide a copy of your profile of personally identifiable information, (b) we update or modify certain personally identifiable information, and/or (c) you be removed from our databases of active e-mail lists.</p>
+<p>We will endeavor to comply with your request as soon as reasonably possible. To protect your confidentiality, we can only send a requested profile to the e-mail address listed in the profile. In any event, our back-up files will maintain copies of your personally identifiable information. We reserve the right to contact former customers or users of the Web site from time to time.</p>
+<h2 class="sectionTitle"><br>Changes to This Privacy Policy</h2>
+<p>Due to changing technological and marketing demands, we must reserve the right to change our policies regarding the privacy of your personally identifiable information in the future. If that happens, we will endeavor to promptly update this Privacy Policy. We may also attempt to provide a message to our customers whose e-mail addresses we have, in conformity with this Privacy Policy, advising of any such change(s). Your continued use of the Web site following changes to this policy will indicate that you accept the changes.</p>
+<p>Our postal address is 1065 Avenue of the Americas, 16th Floor, New York, NY 10018.</p>
+<p>We can be reached via e-mail at <a href="mailto:webmaster@aaaa.org">webmaster@aaaa.org</a> or you can reach us by telephone at (212) 682-2500.</p></div>
+			
+			
+		
+            <div class="Break"></div>
+            
+            <div class="MetaData">
+				<p><strong>Article Start Date</strong><br>1/18/2012</p>
+				
+				
+				<div id="ctl00_PlaceHolderMain_ctl05__ControlWrapper_RichHtmlField" style="display:inline"></div>
+				<strong>Views</strong>&nbsp;21,119&nbsp;
+				
+        <div id="ctl00_PlaceHolderMain_ctl07_ctl00_pnlUserRatings" class="articleRating">
+	    
+            <div id="ctl00_PlaceHolderMain_ctl07_ctl00_AjaxLoadingPanel1" style="display:none;">
+		
+                <img id="ctl00_PlaceHolderMain_ctl07_ctl00_Image1" src="../_layouts/RadControls/Ajax/Skins/Default/Loading1.gif" alt="Loading..." style="border-width:0px;">
+            <script type="text/javascript">RadAjaxNamespace.AddPanel( { ClientID : 'ctl00_PlaceHolderMain_ctl07_ctl00_AjaxLoadingPanel1', IsSticky : false, InitialDelayTime: 0, MinDisplayTime: 0, Transparency: 0 } );</script>
+	</div>
+
+	    <div class="articleRating">
+            <h2>Tools</h2>
+            <p class="ratingQuestion">Would you recommend this bulletin to other members?</p>
+            <p class="ratingInfo">(Click on bullets to rate this 1 to 5)</p>    
+            <div id="ctl00_PlaceHolderMain_ctl07_ctl00_pnlRatings" class="RatingsPanel">
+	<!-- 1.7.2 --><input type="hidden" name="ctl00_PlaceHolderMain_ctl07_ctl00_pnlRatingsPostDataValue" id="ctl00_PlaceHolderMain_ctl07_ctl00_pnlRatingsPostDataValue" value="">
+<script type="text/javascript">/*<![CDATA[*/window["ctl00_PlaceHolderMain_ctl07_ctl00_pnlRatings"] = new RadAjaxPanelNamespace.RadAjaxPanel({ClientID:"ctl00_PlaceHolderMain_ctl07_ctl00_pnlRatings",EnableOutsideScripts:false,EnablePageHeadUpdate:true,Url:"/pages/privacy2.aspx",LoadingPanelID:"ctl00_PlaceHolderMain_ctl07_ctl00_AjaxLoadingPanel1",ActiveElementID:"",ClientEvents:{OnRequestStart:"",OnRequestSent:"",OnResponseReceived:"",OnResponseEnd:"",OnRequestError:""},FormID:"aspnetForm",UniqueID:"ctl00$PlaceHolderMain$ctl07$ctl00$pnlRatings"});/*]]>*/</script>
+
+                <ul id="ctl00_PlaceHolderMain_ctl07_ctl00_ulStarRating" class="star-rating" title="You must be logged in to rate content">
+                    <li id="ctl00_PlaceHolderMain_ctl07_ctl00_liCurrentRating" class="current-rating" title="You must be logged in to rate content"></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                </ul>
+            
+</div>
+            </div>
+        
+        
+</div>
+    
+            </div>
+            
+            <div class="Break"></div>
+            
+            <div class="ArticleUtilitiesContainer">
+                <ul class="ArticleUtilities">
+					<li>
+					
+
+<!--<div id="printLink"></div> -->
+<a href="javascript: print();">Print</a>
+<span class="pipe">
+					|</span></li>
+                    <li><script type="text/javascript">
+                    	document.write("<a href='mailto:?subject=4As Article&body=You may be interested in the following article. " + document.location.href + " '>Email<span class='pipe'>|</span></a>");
+                        </script><a href="mailto:?subject=4As Article&amp;body=You may be interested in the following article. https://web.archive.org/web/20120516113931id_/http%3A//www.aaaa.org/pages/privacy2.aspx ">Email<span class="pipe">|</span></a>
+                    </li>
+					<li style="display: none;">
+					
+<span class="pipe">
+					|</span></li>
+                    <li><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;username=xa-4ba1a56f7e36f9ba">
+					Share</a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4ba1a56f7e36f9ba"></script></li>
+                </ul>
+            </div>
+            
+			
+                        
+            
+        </div>   
+
+
+
+    </div>
+        <div class="RightColumn">
+        
+			
+
+<script type="text/javascript" language="javascript">
+    function ShowHide(divID)
+    {
+        if (document.getElementById('div' + divID).style.display != 'none')
+        {
+            document.getElementById('img' + divID).setAttribute('src','/Images/title_' + divID + '.gif');
+            document.getElementById('img' + divID).setAttribute('alt','Expand');
+            document.getElementById('div' + divID).style.display = 'none';
+        }
+        else
+        {
+            document.getElementById('img' + divID).setAttribute('src','/Images/title_' + divID + '_open.gif');
+            document.getElementById('img' + divID).setAttribute('alt','Collapse');
+            document.getElementById('div' + divID).style.display = '';
+        }
+    }
+</script>
+
+
+
+<div id="myNotebookTitle"><img src="/images/title_MyNotebook.gif" width="175" height="37" alt="My Notebook"></div>
+<div id="myNotebook">
+    <div class="imageLink"><a href="/pages/notebook.aspx"><img src="/images/title_tutorial.gif" border="0"></a></div>
+</div>
+<div id="ctl00_PlaceHolderMain_ctl16_MyNotebookContainer" class="MessageBox MyNotebook hide">
+    <div class="Top">
+        <div class="Tutorial"><a href="/pages/notebook.aspx">Tutorial</a></div>
+        <h1>My Notebook</h1>
+    </div>
+    <div class="Bottom">
+    
+    </div>
+</div>
+
+
+
+        
+			<table toplevel="" border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody><tr>
+		<td valign="top"><div webpartid="00000000-0000-0000-0000-000000000000" haspers="true" id="WebPartWPQ2" width="100%" class="ms-WPBody" onlyformepart="true" allowdelete="false" style="">		<!--
+		<div class="MessageBox Alert First">
+            <div class="Top">
+                <h1>Attention Site Testers!</h1>
+            </div>
+            <div class="Bottom">
+                The site is ready for testing, but there are outstanding issues that we are still addressing.  The 
+				<a href="http://admin.aaaa.org/staff/siteissues/Lists/Tasks/AllItems.aspx">site design task list</a> 
+				is now moved and can be accessed by the link. Please use this task list to enter issues as they are found during testing. 
+				Reminder that the systems will be down Friday 5/28 some time 
+				after 3. Jim R will update the status pages afterwards.</div>
+        </div>
+        -->
+
+		
+				<a href="http://www.jaychiatawards.com/" target="_blank"><img src="/PublishingImages/promos/banner180-2012JayChiat.png" height="150" width="180" class="Ads" alt="2012 Jay Chiat Awards - Call For Entries" style="border:0; margin-bottom: 10px;"></a><br>
+
+				<a href="/Pages/app_home.aspx" target="_parent"><img src="/PublishingImages/promos/banner180-mobile-app.png" height="150" width="180" class="Ads" alt="The 4A's Mobile App" style="border:0; margin-bottom: 10px;"></a><br>
+							
+				<a href="/news/bulletins/Pages/gdlesearch_092911.aspx" target="_self"><img src="/PublishingImages/promos/banner180-ana-4as-guidelines-agency-search.png" height="150" width="180" class="Ads" alt="A best practices report, produced by the ANA and the 4A's" style="border:0;"></a><br>
+
+        
+
+<!--[if gte mso 9]><xml>
+<mso:CustomDocumentProperties>
+<mso:xd_Signature msdt:dt="string"></mso:xd_Signature>
+<mso:TemplateUrl msdt:dt="string"></mso:TemplateUrl>
+<mso:xd_ProgID msdt:dt="string"></mso:xd_ProgID>
+<mso:ContentTypeId msdt:dt="string">0x010100601F350F4DB88E4DA8512622BECF10EE</mso:ContentTypeId>
+<mso:_SourceUrl msdt:dt="string"></mso:_SourceUrl>
+<mso:_SharedFileIndex msdt:dt="string"></mso:_SharedFileIndex>
+</mso:CustomDocumentProperties>
+</xml><![endif]-->
+<title>Untitled 1</title></div></td>
+	</tr>
+</tbody></table>
+    
+        <!--
+        <div class="MessageBox Box2">
+            <div class="Top">
+                <h1>Lorum Ipsum Dolor</h1>
+            </div>
+            <div class="Bottom">
+                GroupM names Rob Norman CEO of North American Operations
+            </div>
+        </div>
+        -->
+
+		
+
+		<table toplevel="" border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody><tr>
+		<td valign="top"><div webpartid="00000000-0000-0000-0000-000000000000" haspers="true" id="WebPartWPQ3" width="100%" class="ms-WPBody" onlyformepart="true" allowdelete="false" style="">
+<!--[if gte mso 9]><xml>
+<mso:CustomDocumentProperties>
+<mso:xd_Signature msdt:dt="string"></mso:xd_Signature>
+<mso:TemplateUrl msdt:dt="string"></mso:TemplateUrl>
+<mso:xd_ProgID msdt:dt="string"></mso:xd_ProgID>
+<mso:ContentTypeId msdt:dt="string">0x010100601F350F4DB88E4DA8512622BECF10EE</mso:ContentTypeId>
+<mso:_SourceUrl msdt:dt="string"></mso:_SourceUrl>
+<mso:_SharedFileIndex msdt:dt="string"></mso:_SharedFileIndex>
+</mso:CustomDocumentProperties>
+</xml><![endif]-->
+<title>Untitled 1</title></div></td>
+	</tr>
+</tbody></table>
+
+
+        </div>
+    </div>
+
+
+
+
+
+            
+            <div style="clear: both"></div>
+            <br>
+            <div class="Footer">
+                <div class="FooterMenuCollectionHeader"></div>
+
+                <div class="FooterMenuCollectionContainer">
+
+					<div class="FirstFooterMenuContainer"><ul class="FooterMenu">
+<li class="first"><a class="Title" href="/">Home</a></li>
+<li class="first"><a href="/pages/login.aspx">Login</a></li>
+<li class="first"><a href="/about/contact/Pages/default.aspx">Contact Us</a></li>
+<li class="first"><a href="/about/contact/west/Pages/default.aspx">Offices</a></li>
+<li class="first"><a href="/about/contact/press/Pages/default.aspx">Press</a></li>
+<li class="first"><a href="/agency/pubs/Pages/default.aspx">Research</a></li>
+<li class="first"><a href="/SearchCenter/Pages/advanced.aspx">Advanced Search</a></li>
+</ul></div><div class="FooterMenuContainer"><ul class="FooterMenu">
+<li class=""><a class="Title" href="/news/Pages/default.aspx">News &amp; Views</a></li>
+<li class=""><a href="/news/agency/Pages/default.aspx">Agency News</a></li>
+<li class=""><a href="/news/bulletins/Pages/default.aspx">Member Bulletins</a></li>
+<li class=""><a href="/news/press/Pages/default.aspx">Press Releases</a></li>
+<li class=""><a href="/news/smartbrief/Pages/default.aspx">SmartBrief</a></li>
+<li class=""><a href="/news/blogs/Pages/default.aspx">Blogs</a></li>
+<li class=""><a href="/news/socialmedia/Pages/default.aspx">Social Media</a></li>
+</ul></div><div class="FooterMenuContainer"><ul class="FooterMenu">
+<li class=""><a class="Title" href="/events/Pages/default.aspx">Events</a></li>
+<li class=""><a href="/Pages/Events.aspx">All Upcoming Events</a></li>
+<li class=""><a href="/events/webinars/Pages/default.aspx">Webinars</a></li>
+<li class=""><a href="/events/highlights/Pages/default.aspx">Highlights From Past Events</a></li>
+<li class=""><a href="/events/transcripts/Pages/default.aspx">Speech Transcripts</a></li>
+<li class=""><a href="/events/video/Pages/default.aspx">Video</a></li>
+</ul></div><div class="FooterMenuContainer"><ul class="FooterMenu">
+<li class=""><a class="Title" href="/agency/Pages/default.aspx">Business Resources</a></li>
+<li class=""><a href="/agency/compensation/Pages/default.aspx">Management Matters</a></li>
+<li class=""><a href="/agency/pubs/Pages/default.aspx">Research Matters</a></li>
+<li class=""><a href="/agency/media/Pages/default.aspx">Media Matters</a></li>
+<li class=""><a href="/agency/production/Pages/default.aspx">Production Matters</a></li>
+<li class=""><a href="/agency/creative/Pages/default.aspx">Creative Matters</a></li>
+<li class=""><a href="/agency/4asbenefits/Pages/default.aspx">4A's Benefits</a></li>
+</ul></div><div class="FooterMenuContainer"><ul class="FooterMenu">
+<li class=""><a class="Title" href="/careers/Pages/default.aspx">Talent Development</a></li>
+<li class=""><a href="/careers/development/Pages/default.aspx">Training &amp; Education</a></li>
+<li class=""><a href="/careers/iaas/Pages/default.aspx">IAAS</a></li>
+<li class=""><a href="/careers/scholarships/Pages/default.aspx">Scholarship Programs</a></li>
+<li class=""><a href="/careers/careers/Pages/default.aspx">Career Center</a></li>
+<li class=""><a href="/careers/howard/Pages/default.aspx">Center for Excellence in Advertising</a></li>
+<li class=""><a href="/CAREERS/MAIP/Pages/default.aspx">MAIP</a></li>
+</ul></div><div class="FooterMenuContainer"><ul class="FooterMenu">
+<li class=""><a class="Title" href="/members/Pages/default.aspx">Communities</a></li>
+<li class=""><a href="http://www.aaaa.org/pages/eweb.aspx?site=4A_SP&amp;webcode=board">Board of Directors</a></li>
+<li class=""><a href="http://www.aaaa.org/pages/eweb.aspx?site=4A_SP&amp;webcode=regions">Regions and Councils</a></li>
+<li class=""><a href="http://www.aaaa.org/pages/eweb.aspx?site=4A_SP&amp;webcode=committees">Committees</a></li>
+<li class=""><a href="http://www.aaaa.org/members/Pages/forums.aspx">Forums</a></li>
+</ul></div><div class="FooterMenuContainer"><ul class="FooterMenu">
+<li class=""><a class="Title" href="/advocacy/Pages/default.aspx">Advocacy &amp; Policy</a></li>
+<li class=""><a href="/ADVOCACY/GOV/Pages/default.aspx">Government Relations</a></li>
+<li class=""><a href="/advocacy/diversity/Pages/default.aspx">Diversity</a></li>
+<li class=""><a href="/advocacy/other/Pages/default.aspx">Other Industry Associations</a></li>
+</ul></div><div class="LastFooterMenuContainer"><ul class="FooterMenu">
+<li class=""><a class="Title" href="/about/Pages/default.aspx">Join Us</a></li>
+<li class=""><a href="/about/association/Pages/default.aspx">About the Association</a></li>
+<li class=""><a href="/about/benefits/Pages/default.aspx">Benefits of Membership</a></li>
+<li class=""><a href="/ABOUT/CONTACT/Pages/default.aspx">Contact Us</a></li>
+<li class=""><a href="/about/join/Pages/default.aspx">How to Apply</a></li>
+<li class=""><a href="https://web.archive.org/web/20120516113931id_/http%3A//www.aaaa.org/pages/eweb.aspx?webcode=findagency">Find an Agency</a></li>
+<li class=""><a href="/about/yir2011/Pages/default.aspx">2011 4A's Year in Review</a></li>
+</ul></div>
+
+                <div style="clear: both"></div>
+
+                </div>
+                <div style="clear: both"></div>
+                <div class="FooterBottomCornerContainer">
+                    <div class="WhiteStrip"></div>
+                </div>
+            </div>
+            <div class="FooterUtilityContainer">
+                <ul class="FooterUtilityMenu">
+                    <li class="first">© 2012 American Association of Advertising Agencies<span class="pipe">|</span></li>
+                    <li><a href="/pages/other4asites.aspx">Other 4A's Sites</a><span class="pipe">|</span></li>
+                    <li><a href="/pages/sitemap.aspx">Site Map</a><span class="pipe">|</span></li>
+                    <li><a href="/pages/privacy2.aspx">Privacy Policy</a></li>
+                </ul>
+                
+            </div>
+
+
+        </div>
+		<div id="loginMessage" class="loginMessage" onclick="clearLogin();"><div class="buffer">&nbsp;</div><div class="message">Login error. Please try again.</div></div>
+	            
+      
+      
+<a id="ctl00_explitLogout_ExplicitLogin" href="http://www.aaaa.org/_layouts/Authenticate.aspx?Source=%2Fpages%2Fprivacy2%2Easpx" style="display:block;">Sign In</a>
+
+      
+
+
+
+
+
+    
+
+<script type="text/javascript">
+//<![CDATA[
+var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';//]]>
+</script>
+<script type="text/javascript">$(".btn-login").html('Log In');</script><script type="text/javascript" language="JavaScript" defer="">
+<!--
+function S83C543AE_Submit() {GoSearch(null,'ctl00_SearchBox_S83C543AE_InputKeywords',null,true,false,null,null,null,null,'\u002fsearchcenter\u002fPages\u002fResults.aspx', 'This Site','This List', 'This Folder', 'Related Sites', '\u002f_layouts\u002fOSSSearchResults.aspx');}
+// -->
+</script><script type="text/javascript" language="JavaScript">
+// append an onload event handler
+var S83C543AE__onload= document.body.onload;
+if(typeof document.body.onload == 'function')
+{
+ document.body.onload = function()
+ {
+S83C543AE__onload();        
+  document.getElementById('ctl00_SearchBox_S83C543AE_InputKeywords').name = 'InputKeywords';
+ }
+}
+else
+{
+ document.body.onload = function()
+ {
+  eval(S83C543AE__onload);        
+  document.getElementById('ctl00_SearchBox_S83C543AE_InputKeywords').name = 'InputKeywords';
+ }
+}
+
+function S83C543AE_OSBEK(event1) { 
+if((event1.which == 10) || (event1.which == 13))
+{   
+S83C543AE_Submit();
+}
+}
+// -->
+</script><script type="text/javascript" language="javascript" src="/_layouts/1033/core.js?rev=mHKsOQ0iU3Q5jdm9OZNDdg%3D%3D"></script>
+<script type="text/javascript" language="javascript" src="/_layouts/1033/search.js?rev=yqBjpvg%2Foi3KG5XVf%2FStmA%3D%3D"></script>
+</form>
+
+	
+				    
+				<!-- OPENTRACKER HTML START -->
+				<script defer="" src="https://server1.opentracker.net/?site=www.aaaa.org"></script><noscript><a href="http://www.opentracker.net" target="_blank"><img src="https://img.opentracker.net/?cmd=nojs&site=www.aaaa.org" alt="web analytics" border="0"></a> </noscript>
+				<!-- OPENTRACKER HTML END -->
+				
+				<script type="text/javascript">
+				var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+				document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+				</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+				<script type="text/javascript">
+				try {
+				var pageTracker = _gat._getTracker("UA-10033594-1");
+				pageTracker._trackPageview();
+				} catch(err) {}</script>
+
+	
+  
+
+</body></html>
