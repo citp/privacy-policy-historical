@@ -1,66 +1,45 @@
-> *The following text is extracted and transformed from the huge.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625090454id_/http%3A//www.huge.com/category/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huge.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516073209id_/http%3A//www.huge.com/privacy%3Fid%3Dnoadvert%26t%3Dhome) for the most accurate reproduction.*
 
-# Huge.com - If it's huge, it's on Huge.com
+# Privacy Policy
 
-Privacy Policy   
+Huge.com (the Huge.com website and service are collectively referred to herein as “Huge”) has adopted this privacy policy to protect your personal information and to let you know how we might use it. This privacy policy only applies to any and all activities you perform on or through Huge and does not apply to any other website (whether or not there’s a link or reference to the website on Huge) or offline point of contact with Huge, any other company, or other users of Huge. This policy may change from time-to-time, please periodically review this page. Each time you use Huge or provide us with information, by doing so you are accepting the practices described in this privacy policy at that time. All defined terms in this Privacy Policy shall have the same meaning as set forth in our Terms of Use.
 
+_Minor Data Collection_
 
-Your privacy is of utmost importance to us. This Privacy Policy governs your use of Huge.com (the âSiteâ, âweâ or âusâ). As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it.   
+Minors under the age of 13 are not permitted to use Huge and we do not intentionally collect or maintain any information from minors who are under the age of 13. Protecting the privacy of children is very important to us. In the event that we learn any member of Huge is not at least 13 years of age, we will immediately take all reasonable steps to remove such users information from our database. As only individuals over the age of 18 may make purchases from Huge, we do not recommend and do not encourage anyone under the age of 18 to create an account with Huge. If you are under 18 and wish to create an account on Huge, you may only do so with your parents’/parent’s permission and may not make any purchase. **Without exception,** _ **all purchases through Huge must be made by an adult using the adult’s own payment information**_ **.**
 
+_California Residents_
 
-Adults Only Service   
+If you are a California resident, you have the right to receive: a) information identifying any third party company(ies) to whom we may have disclosed, within the past calendar year, personal information pertaining to you and your family for the company's direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information you must make a request in writing. Your request must include your name and email address, the URL for the website you visited, and a return address or it will not be processed. We will not honor such requests more than once per calendar year. 
 
+_Information We Collect from You_
 
-**THIS IS AN ADULTS _ONLY_ SERVICE**. We will suspend or terminate any accounts which we believe are being used by anyone under the age of eighteen (18) years old or the age of majority in the jurisdiction in which you view the Site; additionally, we reserve the right to report such person to the proper authorities along with all information provided to us by or with respect to such person.    
+When you create a Huge account, you will be required to provide certain information including an email address and password and information regarding Daily Huges purchaser by your account (the “Account Data”). If you determine to personalize your profile on Huge, we will collect all additional information you provide in connection with personalizing your profile which would include activity by you in the Huge forums (the “Profile Data”). If and when you make a purchase through Huge, you will be required to submit your payment information in the form of either credit or debit card information or checking account information (collectively, “Payment Data”). When you are using Huge we may also track your activity through Huge, including, without limitation Daily Huges viewed, forums viewed and advertisements clicked on (collectively, the “Activity Data”).
 
+_How is the Information Collected from you Used?_
 
-Disclosures Made as Necessitated by Law or Safety   
+Account Data will be used to maintain your account with Huge and track all your purchases in your account history so that you may download and access various Huge Vouchers purchased by you. This information will not be shared with any third parties. As the purpose of creating a profile with Huge is so that other may view your Huge profile, Profile Data will be considered public information accessible by anyone who views Huge. For this reason you should never share any information through the Profile Data which you do not wish for the general internet using public to have access to. With respect to Payment Data, all Payment Data will be submitted by you directly to one of our third party payment processors and we will have only limited access to this information such as the last four digits and type of payment of your Payment Data for display on your account when making a purchase so that you may confirm which payment method is being used. For instance, out of a sixteen digit credit card number, Huge would only have the last four digits and the brand of the card. No other Payment Data will be stored by Huge nor will Huge have access to this information. Activity Data may be used by us to customize your experience on Huge and in Huge’s evaluation of proposed Daily Huges. Aggregate Activity Data and purchase numbers may be used by us and our partners in evaluating and soliciting future Daily Huges and in operating and optimizing Huge.
 
+_You Are Responsible For Information You Provide to Third Parties_
 
-Your name, physical address, phone number and password are considered confidential. However, all information you provide to us may be shared with other third parties as necessary to comply with applicable law, to cooperate with law enforcement and the court system.   
+Payment transactions are processed via industry standard encryption through third party processors, which processors only use the Payment Data for that purpose. Payment Data is considered private information and will not be shared with us by the applicable third party payment processor except as set forth above. Subject to the privacy policy and terms of use of the applicable third party payment processor, Payment Data will only be used as necessary to carry out orders placed through your account. Financial or other Data provided by you to any companies or websites advertising on Huge or in response to emails sent to you by Huge are not governed by this Privacy Policy. Any information provided by you to a third party, and any transaction with such a third party, is subject to that third party’s terms and conditions and privacy policy. 
 
+_Disclosures Made to Law Enforcement_
 
-Information We Collect From You   
+Your name, physical address, phone number and password (to the extent we have such information) are considered confidential. However, all information you provide to us may be shared with other third parties as we deem necessary or advisable to comply and/or cooperate with applicable law, law enforcement and/or the court system. In the event that we believe that you are using Huge in anyway to commit any crime or in violation of any law, we reserve the right to proactively contact law enforcement regarding such belief and fully cooperate in any investigation.
 
+_Emails from Huge and Use of Your Email Address_
 
-During sign up we require that you provide us with certain information which may include Account Data (i.e., your name, physical address, email address, phone number, username, and password), Financial Data (i.e., credit card/billing information) along with âDemographic Informationâ. Demographic Information may include IP address(es), referring website information, Internet browser used, zip code and/or other data regarding search history, browsing history, registration and user history.    
+Huge will send you more or less daily emails with our Daily Huges and/or other special and related offers and/or information, including, without limitation, new services offered by us, information relating to your account and other information related to your membership to Huge. If you would like to stop these emails, you should terminate your account with Huge. You may also receive emails from us related to Huge or, in connection with your profile on Huge. We and our advertising partners fully comply with the federal CAN-SPAM Act and as such all emails from us and our advertising partners will always, among other required disclosures, have a place for you to opt out of receipt of further email correspondence. Please note we will never send you an email directly or through our marketing partners without your consent. Please immediately report any emails you may receive, without your prior authorization, which purport to promote the Site.
 
+_Advertisements_
 
-How is this Information Used?   
+We may utilize the services of outside advertising agencies to advertise Huge and/or services offered by third parties. Either we or our advertising agencies may use cookies and/or “action tags” to measure advertising effectiveness on an “anonymous basis”. Some emails from us may contain advertisements from companies unrelated to Huge. Should you elect to visit any such advertiser’s website, we cannot, and do not, make any representations about applicable terms and conditions or privacy policies for such advertisers’ websites. If you choose to make any purchases on such sites or accept any offers from such companies, we may provide your information, including Payment Data, to the advertiser as necessary to complete/process your request. Finally, we cannot, and do not, make any representations about the privacy policies or terms of use of the third parties’ whose advertisements may appear anywhere on Huge, whether through our Daily Huge or otherwise, this is regardless of whether or not there may be any mentions of or references to any or all of Huge on such advertisers’ website(s).
 
+_Changes to the Privacy Policy_
 
-Financial Data will only be shared with third party processors as necessary to initiate and complete any orders placed by your account.
+We may change this privacy policy at any time. No change in the privacy policy will be effective until thirty (30) days after it is posted, unless the privacy policy has clear language indicating otherwise. For this reason you agree to regularly review this Privacy Policy and it’s “Last Updated” date. If you do not agree to any change to this Privacy Policy you must immediately terminate your Huge account and immediately cease from accessing Huge.
 
-We may use âcookiesâ and Demographic Information to better your experience on the Site by allowing us to tailor your experience on the Site according to your preferences and what we think may appeal to you based on such Demographic Information. Aggregate, non-individual membership Demographic Information may be shared with third parties with whom we have a direct or indirect relationship who may offer products or services we believe you may be interested in. 
+_Changes in the Ownership of the Site_
 
-We may also share the aggregate Demographic Information with third parties for the purposes of analyzing usage data, maintaining servers and other purposes relating to maintaining and improving our service and the Site.   
-
-
-You Are Responsible For Information You Provide to Third Parties   
-
-
-We process credit card transactions via industry standard encryption through third party processors, which processors only use your information for that purpose. Financial Data is considered private information and will not be shared by us with third parties except with your authorization and as necessary to carry out orders placed by you with the understanding by you that such transaction(s) may be subject to the rules and policies of such third party. Financial or other Data provided by you to any companies or websites advertising on the Site or in response to emails sent to you by the Site are not governed by this Privacy Policy. Any information provided by you to a third party, and any transaction with such a third party, is subject to that third partyâs terms and conditions and privacy policy.    
-
-
-Emails From Us and use of Your Email Address   
-
-
-Your email address will be used by us to contact you when we have special offers or other information to provide you. Such information may include, without limitation, new services offered by us, information relating to your account and other information related to your subscription to the Site. We may send you emails prior to and after you have terminated your membership to our service until such time as you advise us, in accordance with the procedures explained below, that you no longer wish to receive email from us and/or from third parties with whom we have a direct or indirect relationship. We may share your email address with other third parties, with whom we have a direct or indirect relationship with, for the purposes of sending you special advertisements or promotions. If at any time you no longer wish to receive emails from us or from such third parties send us an email at info@huge.com. We and our advertising partners fully comply with the federal CAN-SPAM Act and as such all emails from us and our advertising partners will always, among other required disclosures, have a place for you to opt out of receipt of further email correspondence. Please note we will never send you an email directly or through our marketing partners without your consent. Please note that by agreeing to be bound by our terms of use (which incorporate this privacy policy) you are giving us your authorization to send emails to you. This authorization may be revoked at any time through the methods outlined above. Should you revoke such authorization as set forth above and subsequently receive any emails purporting to promote the Site **, please immediately report such activity to: info@huge.com.**   
-
-
-Advertisements   
-
-
-We utilize the services of outside advertising agencies to advertise our services and goods and/or services offered by third parties. Either we or our advertising agencies may use cookies and/or âaction tagsâ to measure advertising effectiveness on an âanonymous basisâ. Some emails from us may contain advertisements from companies unrelated to the Site. Should you elect to visit any such advertiserâs website, we cannot, and do not, make any representations about applicable terms and conditions or privacy policies for such advertisersâ websites. If you choose to make any purchases on such sites or accept any offers from such companies, we may provide your information, including Financial Data, to the advertiser as necessary to your request. Finally, we cannot, and do not, make any representations about the privacy policies or terms and conditions of advertisements appearing anywhere on our service, whether through our website or emails, this is regardless of whether or not there may be any mentions of or references to any or all of the Site on such advertisersâ website(s).    
-
-
-Changes to the Privacy Policy   
-
-
-We may change this privacy policy at any time. You agree that we are under no duty to send you notice of such changes. Instead it is your responsibility to check this Privacy Policy from time to time. No change in the privacy policy will be effective until thirty (30) days after it is posted, unless the privacy policy has clear language indicating otherwise.   
-
-
-Changes in the Ownership of the Site   
-
-
-The Site is a growing online service. As such, we may have the occasion to buy or sell assets, including but not limited to merger, dissolution, and transfer of ownership. Depending upon the nature of the transaction, we may share any and all data provided by you to us (including Financial Data and Account Information) with third parties, as necessary to initiate, investigate or complete any such transaction(s).
+Huge is a growing online service. As such, we may have the occasion to buy or sell assets, including but not limited to merger, dissolution, and transfer of ownership. Depending upon the nature of the transaction, we may share any and all data provided by you to us (including Payment, Account, Profile and Activity Data) with third parties, as necessary to initiate, investigate and/or complete any such transaction(s).
