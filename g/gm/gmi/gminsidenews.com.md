@@ -1,71 +1,75 @@
-> *The following text is extracted and transformed from the gminsidenews.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224054240id_/http%3A//www.gminsidenews.com/forums/faq.php%3Ffaq%3Dnew_faq_item%23faq_new_faq_item_tos) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gminsidenews.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516091526id_/http%3A//www.gminsidenews.com/forums/privacy-policy.php) for the most accurate reproduction.*
 
-# GM Inside News Forum - FAQ: General Board Rules
+# GM Inside News Forum Privacy Policy
 
-New Page 3 ** WWW.GMINSIDENEWS.COM  
- **
+VerticalScope Inc. (hereafter referred to as VerticalScope) has created this privacy statement to demonstrate our firm commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
 
-##  **PRIVACY POLICY**
+**What this Privacy Statement Covers**
 
-Welcome to www.gminsidenews.com (the "Site").
+  * This privacy statement covers VerticalScope's treatment of personally identifiable information collected by VerticalScope through a website owned and operated by VerticalScope.
+  * This privacy statement does not apply to the practices of companies that VerticalScope does not own or control, or of persons that VerticalScope does not employ or manage, including any third-party content contributors bound by contract and any third-party websites to which VerticalScope's websites link.
 
-We understand that privacy online is important to users of our Site, especially when conducting business.   
-This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without   
-transacting business and Visitors who register to transact business on the Site and make use of the various services offered by www.gminsidenews.com (collectively, "Services") ("Authorized Customers").
 
-**"Personally Identifiable Information"**   
-refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user)   
-or demographic information not connected to an identified individual.
 
-**What Personally Identifiable Information is collected?**  
-We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell.
+**Collection and Use of Personal Information**
 
-**What organizations are collecting the information?**  
-In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
+  * You can visit the websites of VerticalScope without revealing any personal information. However, VerticalScope needs certain personal information if you wish to register for a members account, receive a VerticalScope newsletter, or use certain VerticalScope services.
+  * Where required, this information may include your company contact information and your personal contact information. VerticalScope will use this information to reply to your inquiries, to set up your members account, to provide you with requested services, and to contact you regarding new services.
+  * By accessing the services of VerticalScope and voluntarily providing us with the requested personal information, you consent to the collection and use of the information in accordance with this privacy statement.
 
-**How does the Site use Personally Identifiable Information?**  
-We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information. If a user post contains copyrighted or proprietary information, the site will use/provide whatever information (email address, ip addresses) needed to allow the entitie who's rights were violated by the posting to contact the offending user. 
 
-**With whom may the information may be shared?**  
-Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to "opt out" of receiving information or being contacted by us or by any agency acting on our behalf. 
 
-**How is Personally Identifiable Information stored?**  
-Personally Identifiable Information collected by www.gminsidenews.com is securely stored and is not accessible to third parties or employees of www.gminsidenews.com except for use as indicated above.
+**Collection and Use of Non-Personal Information**
 
-**What choices are available to Visitors regarding collection, use and distribution of the information?**  
-Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at [admin@gminsidenews.com](mailto:admin@gminsidenews.com)
+  * VerticalScope automatically receives and records non-personal information on our server logs from your browser including your IP address, cookie information and the page you requested. VerticalScope may use this information to customize the advertising and content you see and to fulfill your requests for certain products and services. However, VerticalScope does not connect this non-personal data to any personal information collected from you.
+  * VerticalScope uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
-**Are Cookies Used on the Site?**  
-Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
 
-**How does www.gminsidenews.com use login information?**  
-www.gminsidenews.com uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information.
 
-**What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?**  
-www.gminsidenews.com has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.  
-Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility.   
-Our privacy policy does not cover their collection or use of this information.   
-Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers. 
+**Information Sharing and Disclosure**
 
-**How does the Site keep Personally Identifiable Information secure?**  
-All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences. 
+  * VerticalScope may disclose your personal information to third parties who work on behalf of VerticalScope to provide services requested by you. We will share personal information for these purposes only with third parties whose privacy policies are consistent with ours or who agree to abide by our policies with respect to personal information.
+  * VerticalScope may otherwise disclose your personal information when: 
+    * We have your express consent to share the information for a specified purpose;
+    * We need to respond to subpoenas, court orders or such other legal process;
+    * We need to protect the personal safety of the users of our websites or defend the rights or property of VerticalScope; or
+    * We find that your actions on our websites violate the VerticalScope Terms of Use document or any of our usage guidelines for specific products or services.
 
-**How old do I have to be to use the site?**
 
-To join GMI's forums, you must be 14 years or older.
 
-**How can Visitors correct any inaccuracies in Personally Identifiable Information?**  
-Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [admin@gminsidenews.com](mailto:admin@gminsidenews.com)
+**Consent**
 
-**Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?**  
-We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting [admin@gminsidenews.com](mailto:admin@gminsidenews.com). However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward. 
+  * If you do not consent to the collection, use or disclosure of your personal information as outlined in this statement, please do not provide any personal information to VerticalScope. If you have provided personal information to VerticalScope and no longer consent to its use or disclosure as outlined herein, please notify VerticalScope at [privacy@verticalscope.com](mailto:privacy@verticalscope.com).
 
-**What happens if the Privacy Policy Changes?**  
-We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure. 
 
-**Links:**  
-This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
 
-© 2005 **www.gminsidenews.com** ,  All rights reserved.  
-Unauthorized duplication or publication of any materials from this Site is expressly prohibited.    
- 
+**How to Access your Personal Information**
+
+  * VerticalScope gives you the ability to edit your VerticalScope Account Information and preferences at any time.
+
+
+
+**Security**
+
+  * Unfortunately, no data transmission over the Internet can be considered 100% secure. However, your VerticalScope Account Information is password-protected for your privacy and security. In certain areas of our websites, as identified on the site, VerticalScope uses industry-standard SSL-encryption to protect data transmissions.
+  * We also safeguard your personal information from unauthorized access, through access control procedures, network firewalls and physical security measures.
+  * Further, VerticalScope retains your personal information only as long as necessary to fulfil the purposes identified above or as required by law.
+
+
+
+**Changes to this Privacy Statement**
+
+  * VerticalScope may at any time, without notice to you and in its sole discretion, amend this statement from time to time. Please review this statement periodically. Your continued use of VerticalScope websites after any such amendments signifies your acceptance thereof.
+
+
+
+**Questions or Suggestions**
+
+If you have questions or suggestions about this privacy statement, or your own personal information, please e-mail us at [privacy@verticalscope.com](mailto:privacy@verticalscope.com).
+
+**Opting Out of Third-Party Ad Servers**
+
+  * If you want to prevent a third-party ad server from sending and reading cookies on your computer, currently you must visit each ad network's Web site individually and opt out (if they offer this capability).
+  * If you want to prevent a third-party ad server from sending and reading cookies on your computer, we recommend you block cookies using your browser privacy setting. 
+
+
