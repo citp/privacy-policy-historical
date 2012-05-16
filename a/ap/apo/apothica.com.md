@@ -1,68 +1,55 @@
-> *The following text is extracted and transformed from the apothica.com privacy policy that was archived on 2010-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101116233956id_/http%3A//apothica.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apothica.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516183815id_/http%3A//apothica.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Apothica.com Privacy Policy
 
   *   * [SEE ALL BRANDS](https://web.archive.org/see-all-brands-ap.html)
-  * [Perricone MD](https://web.archive.org/perricone-md.html)
-  * [Mario Badescu](https://web.archive.org/mario-badescu.html)
-  * [Natura Bisse](https://web.archive.org/natura-bisse.html)
-  * [Ole Henriksen](https://web.archive.org/ole-henriksen.html)
-  * [La Mer](https://web.archive.org/La-Mer.html)
-  * [Clinique](https://web.archive.org/clinique.html)
-  * [Boscia](https://web.archive.org/boscia.html)
-  * [Fresh](https://web.archive.org/fresh.html)
-  * [Elemis](https://web.archive.org/elemis.html)
-  * [SEE ALL BRANDS](https://web.archive.org/apothica-brands.html)
-  * [Combination (300) ](http://skincare.apothica.com/combination.html "Combination")
-  * [Dry-Very Dry (252) ](http://skincare.apothica.com/dry-very-dry.html "Dry-Very Dry")
-  * [Mature (317) ](http://skincare.apothica.com/mature.html "Mature")
-  * [Normal-Dry (293) ](http://skincare.apothica.com/normal-dry.html "Normal-Dry")
-  * [Oily-Acne Prone (265) ](http://skincare.apothica.com/oily-acne-prone.html "Oily-Acne Prone")
-  * [Reactive Skin (30) ](http://skincare.apothica.com/reactive-skin.html "Reactive Skin")
-  * [Sensitive-Breakout Prone (158) ](http://skincare.apothica.com/sensitive-breakout-prone.html "Sensitive-Breakout Prone")
-  * [Sensitive-Dry (220) ](http://skincare.apothica.com/sensitive-dry.html "Sensitive-Dry")
-  * [Acne (Mild to Moderate) (111) ](http://skincare.apothica.com/acne-\(mild-to-moderate\).html "Acne \(Mild to Moderate\)")
-  * [Acne Scarring (31) ](http://skincare.apothica.com/acne-scarring.html "Acne Scarring")
-  * [Adult Acne (38) ](http://skincare.apothica.com/adult-acne.html "Adult Acne")
-  * [Aging (249) ](http://skincare.apothica.com/aging.html "Aging")
-  * [Clogged Pores/Blackheads (36) ](http://skincare.apothica.com/clogged-pores-blackheads.html "Clogged Pores/Blackheads")
-  * [Dehydrated Skin (109) ](http://skincare.apothica.com/dehydrated-skin.html "Dehydrated Skin")
-  * [Dull Skin (70) ](http://skincare.apothica.com/dull-skin.html "Dull Skin")
-  * [Fine Lines & Wrinkles (78) ](http://skincare.apothica.com/fine-lines-&-wrinkles.html "Fine Lines & Wrinkles")
-  * [Hyperpigmentation (70) ](http://skincare.apothica.com/hyperpigmentation.html "Hyperpigmentation")
-  * [Sun Damage (76) ](http://skincare.apothica.com/sun-damage.html "Sun Damage")
-  * [SEE ALL  LINKS](https://web.archive.org/web/20101116233956id_/http%3A//apothica.com/privacy-policy.html?showAll=18443#headerLabel_6)
-  * [Alpha Hydroxy Acid (36) ](http://skincare.apothica.com/alpha-hydroxy-acid.html "Alpha Hydroxy Acid")
-  * [Antioxidant (34) ](http://skincare.apothica.com/antioxidant.html "Antioxidant")
-  * [Botanical (144) ](http://skincare.apothica.com/botanical.html "Botanical")
-  * [Fruit (33) ](http://skincare.apothica.com/fruit.html "Fruit")
-  * [Hyaluronic Acid (12) ](http://skincare.apothica.com/hyaluronic-acid.html "Hyaluronic Acid")
-  * [Hydroquinone Alternatives (16) ](http://skincare.apothica.com/hydroquinone-alternatives.html "Hydroquinone Alternatives")
-  * [Idebenone (43) ](http://skincare.apothica.com/idebenone.html "Idebenone")
-  * [Peptide (44) ](http://skincare.apothica.com/peptide.html "Peptide")
-  * [Salicylic Acid (41) ](http://skincare.apothica.com/salicylic-acid.html "Salicylic Acid")
-  * [Vitamin C (24) ](http://skincare.apothica.com/vitamin-c.html "Vitamin C")
-  * [SEE ALL  LINKS](https://web.archive.org/web/20101116233956id_/http%3A//apothica.com/privacy-policy.html?showAll=18441#headerLabel_12)
-  * [Body Moisturizers (195) ](http://skincare.apothica.com/body-moisturizers.html "Body Moisturizers")
-  * [Body Washes (145) ](http://skincare.apothica.com/body-washes.html "Body Washes")
-  * [Cleansers (358) ](http://skincare.apothica.com/cleansers.html "Cleansers")
-  * [Devices (8) ](http://skincare.apothica.com/devices.html "Devices")
-  * [Eye Cream (30) ](http://skincare.apothica.com/eye-cream.html "Eye Cream")
-  * [Kits (87) ](http://skincare.apothica.com/kits.html "Kits")
-  * [Masks (94) ](http://skincare.apothica.com/masks.html "Masks")
-  * [Moisturizer (148) ](http://skincare.apothica.com/moisturizer.html "Moisturizer")
-  * [Toners (57) ](http://skincare.apothica.com/toners.html "Toners")
-  * [Treatments (602) ](http://skincare.apothica.com/treatments.html "Treatments")
-  * [SEE ALL  LINKS](https://web.archive.org/web/20101116233956id_/http%3A//apothica.com/privacy-policy.html?showAll=18442#headerLabel_4)
+
+
+  * [Estee Lauder (912)](http://apothica.com/b:Estee+Lauder.html)
+  * [Christian Dior (874)](http://apothica.com/b:Christian+Dior.html)
+  * [Shiseido (664)](http://apothica.com/b:Shiseido.html)
+  * [Lancome (662)](http://apothica.com/b:Lancome.html)
+  * [Clinique (653)](http://apothica.com/b:Clinique.html)
+  * [Clarins (572)](http://apothica.com/b:Clarins.html)
+  * [Eau de Toilette (4970)](http://apothica.com/pt:Eau+de+Toilette.html)
+  * [Eau de Parfum (2339)](http://apothica.com/pt:Eau+de+Parfum.html)
+  * [Shampoo (1900)](http://apothica.com/pt:Shampoo.html)
+  * [Travel Size Products (1078)](http://apothica.com/pt:Travel+Size+Products.html)
+  * [Conditioner (1045)](http://apothica.com/pt:Conditioner.html)
+  * [Treatments (889)](http://apothica.com/pt:Treatments.html)
+  * [Spray (3887)](http://apothica.com/d:Spray.html)
+  * [Cream (1283)](http://apothica.com/d:Cream.html)
+  * [Lotion (958)](http://apothica.com/d:Lotion.html)
+  * [Anti-Aging (889)](http://apothica.com/d:Anti-Aging.html)
+  * [Hydrating (883)](http://apothica.com/d:Hydrating.html)
+  * [Gel (640)](http://apothica.com/d:Gel.html)
+  * [Face (3180)](http://apothica.com/sca:Face.html)
+  * [Body (1973)](http://apothica.com/sca:Body.html)
+  * [Hair (1799)](http://apothica.com/sca:Hair.html)
+  * [Eyes (1624)](http://apothica.com/sca:Eyes.html)
+  * [Bath (1219)](http://apothica.com/sca:Bath.html)
+  * [Lips (703)](http://apothica.com/sca:Lips.html)
+  * [Fragrance (12046)](http://apothica.com/pc:Fragrance.html)
+  * [Skin Care (8772)](http://apothica.com/pc:Skin+Care.html)
+  * [Makeup (8429)](http://apothica.com/pc:Makeup.html)
+  * [Men (4868)](http://apothica.com/pc:Men.html)
+  * [Hair Care (3973)](http://apothica.com/pc:Hair+Care.html)
+  * [Bath & Body (3048)](http://apothica.com/pc:Bath+%26+Body.html)
+  * [Vitamin E (614)](http://apothica.com/i:Vitamin+E.html)
+  * [Aloe (483)](http://apothica.com/i:Aloe.html)
+  * [Green Tea (423)](http://apothica.com/i:Green+Tea.html)
+  * [Shea Butter (400)](http://apothica.com/i:Shea+Butter.html)
+  * [Peptides (340)](http://apothica.com/i:Peptides.html)
+  * [Lavender (237)](http://apothica.com/i:Lavender.html)
 
   
 | 
 
 Last updated February 5, 2010
 
-Thank you for visiting Apothica.com ("Apothica"). We want you to know that your privacy is important to us. Our customers are at the heart of everything we do, and we strive to ensure your experience with Apothica is one that you will want to repeat and share with your friends. Part of our commitment to you is to respect and protect the privacy of the personal information you provide to us. The information below is designed to inform you of what information we collect, why we collect such information, and how we secure and use the information we collect. This Privacy Policy should be read in conjunction with our [Terms of Service](https://web.archive.org/web/20101116233956id_/http%3A//apothica.com/disclaimer.html).
+Thank you for visiting Apothica.com ("Apothica"). We want you to know that your privacy is important to us. Our customers are at the heart of everything we do, and we strive to ensure your experience with Apothica is one that you will want to repeat and share with your friends. Part of our commitment to you is to respect and protect the privacy of the personal information you provide to us. The information below is designed to inform you of what information we collect, why we collect such information, and how we secure and use the information we collect. This Privacy Policy should be read in conjunction with our [Terms of Service](https://web.archive.org/web/20120516183815id_/http%3A//apothica.com/disclaimer.html).
 
-When you submit your personal information to us, you are giving us your consent to the collection, use, and disclosure of your information as set forth in this Privacy Policy. We are always available to discuss your questions or concerns regarding this Privacy Policy and our privacy practices. If you would like to speak to a customer service representative, please contact us using one of the methods listed on the [Contact Us](https://web.archive.org/web/20101116233956id_/http%3A//apothica.com/contactus.html) page of our Web site. Please address your questions or concerns to the Customer Service department.
+When you submit your personal information to us, you are giving us your consent to the collection, use, and disclosure of your information as set forth in this Privacy Policy. We are always available to discuss your questions or concerns regarding this Privacy Policy and our privacy practices. If you would like to speak to a customer service representative, please contact us using one of the methods listed on the [Contact Us](https://web.archive.org/web/20120516183815id_/http%3A//apothica.com/contactus.html) page of our Web site. Please address your questions or concerns to the Customer Service department.
 
 Apothica will occasionally update this Privacy Policy. When a revision is made we will revise the "last updated" date on this page. We encourage you to check the date of our Privacy Policy each time you visit our Web site for any updates or changes. Your use of our Web site constitutes your consent to this Privacy Policy, including any changes or updates.
 
@@ -72,7 +59,7 @@ Apothica will occasionally update this Privacy Policy. When a revision is made w
 
 Our Site is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. Because we want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices concerning our Site and have our privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact the Customer Service using on of the methods a listed on the [Contact Us](https://web.archive.org/web/20101116233956id_/http%3A//apothica.com/contactus.html) page of our Site. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact the Customer Service using on of the methods a listed on the [Contact Us](https://web.archive.org/web/20120516183815id_/http%3A//apothica.com/contactus.html) page of our Site. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 [](http://www.truste.org/ivalidate.php?url=apothica.com&sealid=101)
 
@@ -122,7 +109,7 @@ As an example, Facebook collects certain information via cookies and Web beacons
 
     * Age: We respect children's privacy. We do not knowingly or intentionally collect personal information from children under age 13. Elsewhere on our Site, you have represented and warranted that you are either 18 years of age or using the Site with the supervision of a parent or guardian. If you are under the age of 13, please do not submit any personal information to us, and rely on a parent or guardian to assist you.
 
-    * Product Reviews: You may choose to submit a product review. If you post a review, you have the option to enter your name and email address. If you submit a review, your name or alias will be visible to other users but your email address will be kept private. Also, any personally identifiable information that you submit as part of the review can be read or used by other visitors to our Site. We are not responsible for any personally identifiable information that you choose to submit as part of your review. We believe you can post a helpful review without disclosing any personal information. Your review or comment might be altered or deleted if inappropriate words or terms have been used. You may withdraw your review at any time by contacting our Customer Service department. Contact information for Customer Service can be found on the [Contact Us](https://web.archive.org/web/20101116233956id_/http%3A//apothica.com/contactus.html) page of our Site.
+    * Product Reviews: You may choose to submit a product review. If you post a review, you have the option to enter your name and email address. If you submit a review, your name or alias will be visible to other users but your email address will be kept private. Also, any personally identifiable information that you submit as part of the review can be read or used by other visitors to our Site. We are not responsible for any personally identifiable information that you choose to submit as part of your review. We believe you can post a helpful review without disclosing any personal information. Your review or comment might be altered or deleted if inappropriate words or terms have been used. You may withdraw your review at any time by contacting our Customer Service department. Contact information for Customer Service can be found on the [Contact Us](https://web.archive.org/web/20120516183815id_/http%3A//apothica.com/contactus.html) page of our Site.
 
     * External Reviews: We use a series of external review services such as Bizrate.com to permit shoppers to rate their experiences while visiting and shopping at our Sites. After placing an order at our Site, you may receive the opportunity to provide feedback on your experience. This choice is optional and will not affect your order or service from our Site, whether or not you choose to provide feedback. Your feedback is collected by the external service, not us, and is governed by their privacy policies. Contact the respective review service to view their privacy polices (for example, Bizrate's privacy policy is available at <http://shop.bizrate.com/content/privacy.html>)
 
