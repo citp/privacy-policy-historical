@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qnanza.com privacy policy that was archived on 2011-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110916183614id_/http%3A//qnanza.com/c/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qnanza.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516112511id_/http%3A//qnanza.com/c/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Qnanza.com Chicago
+# Privacy Policy | Qnanza.com Washington DC
 
 ## Privacy Policy
 
@@ -60,7 +60,7 @@ If you choose to store credit card information on the site, this is stored on a 
 
 As discussed above, you can always choose not to provide information, although it may be required to engage in a certain activity on the Website.
 
-As a condition of purchase of our products and services, we will send you Administrative and Promotional emails. We will send you information regarding your account activity and purchases as well as updates about our products and promotional offers. You cannot opt-out of Administrative Emails. Administrative Emails relate to a User’s activity on the Website, and include emails regarding a particular User’s account, requests or inquiries, and purchases of products and services. In contrast to Administrative Emails, however, you do have a choice with respect to Promotional Emails. Promotional Emails advertise our products and services, including exclusive sales and other offers, and/or the products and services of our Advertisers and Affiliates. If you do not want to receive Promotional Emails from us, you may elect to opt-out of receiving Promotional Emails at any time after registering by e-mailing us at [support@qnanza.com](mailto:support@qnanza.com?subject=Privacy%20Policy%20Question&body=Hello%20Qnanza%2C%20I%20have%20a%20question%20about%20your%20Privacy%20Policy.) or by hitting the unsubscribe button at the bottom of any of our e-mails. When contacting us, please indicate your name, address, email address, and what Promotional Emails you do not want to receive.
+As a condition of purchase of our products and services, we will send you Administrative and Promotional emails. We will send you information regarding your account activity and purchases as well as updates about our products and promotional offers. You cannot opt-out of Administrative Emails. Administrative Emails relate to a User’s activity on the Website, and include emails regarding a particular User’s account, requests or inquiries, and purchases of products and services. In contrast to Administrative Emails, however, you do have a choice with respect to Promotional Emails. Promotional Emails advertise our products and services, including exclusive sales and other offers, and/or the products and services of our Advertisers and Affiliates. If you do not want to receive Promotional Emails from us, you may elect to opt-out of receiving Promotional Emails at any time after registering by e-mailing us at [support@adzzoo.com](mailto:support@adzzoo.com?subject=Privacy%20Policy%20Question&body=Hello%20Qnanza%2C%20I%20have%20a%20question%20about%20your%20Privacy%20Policy.) or by hitting the unsubscribe button at the bottom of any of our e-mails. When contacting us, please indicate your name, address, email address, and what Promotional Emails you do not want to receive.
 
 **7\. Security of Information**
 
@@ -96,4 +96,4 @@ Qnanza LLC. (d/b/a Qnanza) 1601 Zack Hinton Parkway McDonough GA 30253
 
 **For Customers**
 
-Customer Service Inquiries | [support@qnanza.com](mailto:support@qnanza.com?subject=Customer%20Service%20Inquiry)
+Customer Service Inquiries | [support@adzzoo.com](mailto:support@adzzoo.com?subject=Customer%20Service%20Inquiry)
