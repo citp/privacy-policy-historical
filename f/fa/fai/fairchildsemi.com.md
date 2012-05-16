@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fairchildsemi.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102002031id_/http%3A//www.fairchildsemi.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairchildsemi.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516220603id_/http%3A//www.fairchildsemi.com/company/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Fairchild Semicondcutor
 
@@ -13,7 +13,7 @@ The personal data we request includes your name, company, job title, address, em
 In addition to personal data, Fairchild also collects demographic information on an anonymous basis, such as number of visitors, domain information and browsing patterns. We analyze this data to help us improve our website and answer the online needs of our customers. This information cannot be associated with you personally unless you choose to tell us who you are by creating a My Fairchild account or completing an online form. You are welcome to visit our website as often as you like and remain anonymous by not revealing any personal data.
 
 **Your right to access, correct or delete your personal data**  
-You may access [your MyFairchild profile](http://www.fairchildsemi.com/my_fairchild/) at any time to modify or delete your personal data or to _[unsubscribe](http://www.fairchildsemi.com/my_fairchild/)_ from receiving personalized services and information.
+You may access [your MyFairchild profile](https://web.archive.org/my_fairchild/) at any time to modify or delete your personal data or to [unsubscribe](https://web.archive.org/my_fairchild/) from receiving personalized services and information.
 
 **Disclosure to third parties**  
 In order to offer services such as sample ordering and model download, Fairchild Semiconductor may subcontract with other vendors. In the event that we share your personal information with these vendors, they will only use your personal information for the purpose of providing the specific service they are contracted to provide, and they will not disclose your personal information to any third parties.
@@ -32,7 +32,7 @@ Fairchild Semicondutor is in compliance with the requirements of COPPA (Children
 Fairchild Semiconductor reserves the right to change this policy, however, we will not materially change our policies and practices to make them less protective of customer information without notifying affected customers by email. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
 
 **Conditions of use**  
-By using our website, you consent to the collection and use of your information as set forth in this Privacy Policy and to the [Terms and Conditions](http://www.fairchildsemi.com/legal/index.html) pertaining to our website.
+By using our website, you consent to the collection and use of your information as set forth in this Privacy Policy and to the [Terms and Conditions](https://web.archive.org/legal/) pertaining to our website.
 
 **Contact us**  
 If you have any questions or comments about our Privacy Policy, please email [privacy@fairchildsemi.com](mailto:privacy@fairchildsemi.com). Your privacy is important to us and we will make every effort to resolve your concerns. 
