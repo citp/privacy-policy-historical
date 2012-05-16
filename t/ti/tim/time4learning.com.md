@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the time4learning.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224333id_/http%3A//www.time4learning.com/curriculum/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the time4learning.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516205307id_/http%3A//www.time4learning.com/curriculum/privacy.html) for the most accurate reproduction.*
 
 # Time4Learning Privacy Policy
 
@@ -7,7 +7,7 @@ At Time4Learning, we strongly feel that children's safety, which is related to p
 **If you have questions or comments on our policy, we would like to hear from you. You can contact us by:**
 
   * Email - privacy @ Time4Learning.com
-  * Phone - (954) 771-0914
+  * Phone - (888) 771-0914
   * Mail - Time4Learning, 6300 NE 1st Ave. Suite 203, Fort Lauderdale, FL 33334
 
 
