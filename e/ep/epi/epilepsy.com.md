@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epilepsy.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220133451id_/http%3A//www.epilepsy.com/epilepsy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epilepsy.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516184404id_/http%3A//www.epilepsy.com/epilepsy/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | epilepsy.com
 
