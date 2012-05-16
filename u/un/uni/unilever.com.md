@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unilever.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231111938id_/http%3A//www.unilever.com/resource/privacynotice/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unilever.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516173443id_/http%3A//www.unilever.com/resource/privacynotice/index.aspx) for the most accurate reproduction.*
 
 # Privacy | Unilever Global
 
