@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the goregrish.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125180520id_/http%3A//goregrish.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goregrish.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516085628id_/http%3A//goregrish.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | goregrish.com
 
-Welcome to GoreGrish, our little corner of the internet filled with horror & lulz. View our hosted articles and video or head to [**the forum**](http://forum.goregrish.com/) and register for access to our ever growing community with its 20,000+ forum attachments for your viewing. It's free and fast. We encourage you to [**register**](http://forum.goregrish.com/login/login) and do away with annoying reminder messages like this, if you are under 18 years old though, we suggest you [**fuck off**](http://www.pokemon.com/).
+Goregrish.com is a collection of fucked up video & articles and also a large 100% free [ **community forums**](http://forum.goregrish.com/) with user posted images and video for you to check out, all we ask is that you register and be older then 18 years of age. We hope to see you in there submitting new content! ~ _The gg staff._
 
 We take the privacy of our visitors very seriously. While we do use Analytics to collect aggregate information on unique visits, pageviews, etc; this information is used to analyze overall traffic patterns only.
 
