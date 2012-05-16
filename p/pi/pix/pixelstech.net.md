@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pixelstech.net privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115205706id_/http%3A//pixelstech.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixelstech.net privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517003206id_/http%3A//pixelstech.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy and policy
-
-Privacy policy
 
 This Privacy Policy governs the manner in which Pixelstech collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.pixelstech.net](http://www.pixelstech.net/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Pixelstech.
 
@@ -54,5 +52,4 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [Pixelstech](http://www.pixelstech.net/)  
 [http://www.pixelstech.net](http://www.pixelstech.net/)  
-+65 83070147  
-pike@pixelstech.net
+info@pixelstech.net
