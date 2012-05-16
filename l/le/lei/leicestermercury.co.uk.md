@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leicestermercury.co.uk privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230111255id_/http%3A//www.thisisleicestershire.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leicestermercury.co.uk privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516055229id_/http%3A//www.thisisleicestershire.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
 # This is Leicestershire | Privacy Policy
 
