@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumeraffairs.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201172039id_/http%3A//www.consumeraffairs.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumeraffairs.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516024329id_/http%3A//www.consumeraffairs.com/privacy_policy.html) for the most accurate reproduction.*
 
 # ConsumerAffairs.com Privacy Policy
 
@@ -9,7 +9,7 @@ ConsumerAffairs.com
 Lake Tahoe, NV 89449-4470  
 1-800-351-3140 
 
-We can be reached via e-mail through the [Contact Us](https://web.archive.org/web/20111201172039id_/http%3A//www.consumeraffairs.com/info_request.htm) form on our Web site or at info@consumeraffairs.com. 
+We can be reached via e-mail through the [Contact Us](https://web.archive.org/web/20120516024329id_/http%3A//www.consumeraffairs.com/info_request.htm) form on our Web site or at info@consumeraffairs.com. 
 
 We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
 
@@ -36,14 +36,6 @@ From time to time, we may use consumer information for new, unanticipated uses n
 If you feel that this site is not following its stated information policy, you may contact us at the above address.
 
  **Terms of Use** Your use of this site constitutes acceptance of the [Terms of Use](https://web.archive.org/about/terms_of_use.html)
-
- **Advertisements** on this site are placed and controlled by outside advertising networks. ConsumerAffairs.com does not evaluate or endorse the products and services advertised. See the [FAQ](https://web.archive.org/consumerism/faq.html) for more information. 
-
-**Company Response Welcome**  If complaints about your company appear on our site, we welcome your response. Please see the [Response Form](https://web.archive.org/respond.html) for more information. 
-
-**For more information,** see the [FAQ](https://web.archive.org/consumerism/faq.html) and [privacy policy](https://web.archive.org/privacy_policy.html). The information on this Web site is general in nature and is not intended as a substitute for competent legal advice.  ConsumerAffairs.com Inc. makes no representation as to the accuracy of the information herein provided and assumes no liability for any damages or loss arising from the use thereof. 
-
-**Terms of Use** Your use of this site constitutes acceptance of the [Terms of Use](https://web.archive.org/about/terms_of_use.html)
 
  **Advertisements** on this site are placed and controlled by outside advertising networks. ConsumerAffairs.com does not evaluate or endorse the products and services advertised. See the [FAQ](https://web.archive.org/consumerism/faq.html) for more information. 
 
