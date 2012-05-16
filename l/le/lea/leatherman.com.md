@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leatherman.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118021927id_/http%3A//www.leatherman.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leatherman.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516140631id_/http%3A//www.leatherman.com/about/privacy) for the most accurate reproduction.*
 
 # Leatherman Privacy and Security
 
@@ -12,7 +12,7 @@ Our goal is to serve your needs and interests while upholding high levels of res
 
 ### Contributions to Leatherman
 
-Any information that you submit via our web site or email becomes the exclusive property of Leatherman - however, we will protect all of your personal information in accordance with this Privacy Policy.
+Any information that you submit via our web site or email becomes the exclusive property of Leatherman � however, we will protect all of your personal information in accordance with this Privacy Policy.
 
 ### Leatherman's Privacy Policy Coverage
 
