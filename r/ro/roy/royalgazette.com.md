@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalgazette.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115043628id_/http%3A//www.royalgazette.com/section/%3Ftemplate%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalgazette.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516070216id_/http%3A//www.royalgazette.com/section/%3Ftemplate%3D3) for the most accurate reproduction.*
 
 # The Royal Gazette
 
@@ -27,6 +27,22 @@ This Privacy Policy applies to web sites and services that are owned and operate
 You can find more information about how we process personal information by referring to the privacy notices for particular services.
 
 The Royal Gazette processes personal information on our servers in the United States of America and in Bermuda. In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners. 
+
+Third Party Ad Servers. Some of the advertisements and other services that appear on our web site(s) are delivered to you by Internet advertising companies. These companies utilize certain technologies including cookies to deliver advertisements and marketing messages and to collect anonymous information about your visit to our sites and other web sites. If you would like more information about this practice or to opt out of having this information used by companies that are part of the Network Advertising Initiative to provide targeted ads, please visit [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**What are Ads by Google?**
+
+Ads by Google are keyword-targeted advertisements provided through the Google AdWords program.
+
+Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website. These listings are administered, sorted and maintained by Google. For information about these Google ads, go to [adwords.google.com](http://adwords.google.com/).
+
+Google may place or recognize a unique "cookie" on your Web browser. The DoubleClick DART cookie is used by Google in the ads served on the websites of its partners, such as websites displaying AdSense ads or participating in Google certified ad networks. When users visit a partner's website and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help better serve and manage ads on the publisher's site(s) and across the web. Information from this cookie may be used by Google to help provide advertisers with targeted advertising opportunities. 
+
+Users may opt out of the use of the DART cookie by visiting the advertising opt-out page. (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).) 
+
+For more information about Google's privacy policy, including how to opt out of this tracking, go to [www.google.com/ads/preferences](http://www.google.com/ads/preferences).
+
+By clicking on a link in these advertisements, you will leave royalgazette.com. The Web site you will go to is not endorsed by royalgazette.com or The Royal Gazette Limited. 
 
 When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use. If we propose to use personal information for any purposes other than those described in this Policy and/or in the specific service notices, we will offer you an effective way to opt out of the use of personal information for those other purposes. We will not collect or use sensitive information for purposes other than those described in this Policy and/or in the specific service notices, unless we have obtained your prior consent.
 
