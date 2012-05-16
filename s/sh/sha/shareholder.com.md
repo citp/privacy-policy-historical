@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shareholder.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106082806id_/http%3A//www.shareholder.com/home/Company/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareholder.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517015201id_/http%3A//www.shareholder.com/home/Company/privacy.cfm) for the most accurate reproduction.*
 
 # Shareholder.com |
 
