@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wikinut.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230021110id_/http%3A//guides.wikinut.com/Wikinut-privacy-policy/t11ys0ay) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikinut.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517132040id_/http%3A//guides.wikinut.com/Wikinut-privacy-policy/t11ys0ay) for the most accurate reproduction.*
 
 # Wikinut privacy policy
 
