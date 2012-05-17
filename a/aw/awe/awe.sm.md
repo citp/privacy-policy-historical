@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the awe.sm privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117042103id_/http%3A//totally.awe.sm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awe.sm privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517174548id_/http%3A//totally.awe.sm/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Analytics For Social Media - awe.sm
 
-### A message from awe.sm
+### A message from awe.sm:
 
 At our core, Snowball Factory is a data company. But not in a creepy way. Our overarching goal is to map the relationships between the publishers of cool content, those who find that content interesting enough to share it with their friends, and the friends who enjoy what's been shared. We use the data we collect to help publishers strengthen these virtuous relationships and create more value for all involved.
 
