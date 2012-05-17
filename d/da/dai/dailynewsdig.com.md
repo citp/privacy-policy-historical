@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the dailynewsdig.com privacy policy that was archived on 2011-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111021014624id_/http%3A//dailynewsdig.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailynewsdig.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518002805id_/http%3A//dailynewsdig.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy policy | Daily News Dig
 
-## [Privacy policy](http://dailynewsdig.com/privacy-policy/ "Permanent Link to Privacy policy")
-
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://dailynewsdig.com/contact-us/ "contact us") using the Contact Form.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us using the Contact Form.
 
 At www.dailynewsdig.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.dailynewsdig.com and how it is used.
 
