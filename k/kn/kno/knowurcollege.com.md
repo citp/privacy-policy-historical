@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the knowurcollege.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230055949id_/http%3A//www.knowurcollege.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowurcollege.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518001357id_/http%3A//www.knowurcollege.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for www.knowurcollege.com | KnowurCollege.com
 
 **Privacy Policy for www.knowurcollege.com**
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://www.knowurcollege.com/contact-us/ "contact us") by email at info@knowurcollege.com.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@knowurcollege.com.
 
 At www.knowurcollege.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.knowurcollege.com and how it is used.
 
@@ -47,7 +47,7 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 
 
-**Commenting and[inquiry](http://www.knowurcollege.com/inquiry/ "inquiry") form fill up Policy  
+**Commenting and inquiry form fill up Policy  
 **
 
   * Make your contact details available to Knowurcollege.com partners, you may be contacted by Knowurcollege.com partners for education information through email, telephone and SMS, if you do not wish to be contacted, you may click on unsubscribe link on email.
@@ -61,5 +61,3 @@ If you wish to disable cookies, you may do so through your individual browser op
   * we are not providing any services.
 
 
-
-No tags for this post. 
