@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadrush.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116154001id_/http%3A//www.filesprovider.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadrush.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517123836id_/http%3A//www.filesprovider.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Files Provider
 
@@ -135,4 +135,4 @@ FilesProvider may retain your account information indefinitely, regardless of wh
 
 ### How to contact us
 
-If you have questions or comments about this Privacy Policy, please email us at privacy@filesprovider.com 
+If you have questions or comments about this Privacy Policy, please email us at support@filesprovider.com 
