@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vanguard.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110044256id_/https%3A//personal.vanguard.com/us/content/SiteWide/LglDocs/SWLglPrivacyPolicyContent.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanguard.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517130232id_/https%3A//personal.vanguard.com/us/content/SiteWide/LglDocs/SWLglPrivacyPolicyContent.jsp) for the most accurate reproduction.*
 
 # Vanguard - Privacy Policy
 
@@ -50,7 +50,7 @@ See our [Site Help](https://personal.vanguard.com/us/help) and [Technical Help](
 
 ### How we safeguard your personal information
 
-Within Vanguard, we restrict access to information about you to those Vanguard employees who need to know the information in order to perform their jobs, such as servicing your accounts or notifying you of new products and services. To protect your personal information, we maintain physical, electronic, and procedural safeguards in keeping with industry standards and practices, and we review and adjust.
+Within Vanguard, we restrict access to information about you to those Vanguard employees who need to know the information in order to perform their jobs, such as servicing your accounts or notifying you of new products and services. To protect your personal information, we maintain physical, electronic, and procedural safeguards in keeping with industry standards and practices, and we review and adjust these safeguards regularly in response to advances in technology.
 
 ### What you can do
 
