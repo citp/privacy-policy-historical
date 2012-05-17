@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigpondvideo.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117180427id_/http%3A//www.telstra.com.au/privacy/privacy_statement.html%3Fref%3DNet-Foot-Corp-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigpondvideo.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517124235id_/http%3A//www.telstra.com.au/privacy/privacy_statement.html%3Fref%3DNet-Foot-Corp-Privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Telstra
 
