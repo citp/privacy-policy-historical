@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the elizabethavenuewest.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123152252id_/http%3A//www.elizabethavenuewest.com/Store/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elizabethavenuewest.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517123058id_/http%3A//www.elizabethavenuewest.com/Store/privacy_policy.asp) for the most accurate reproduction.*
 
-# Elizabeth Avenue West ® Online Shopping Official Site
+# Elizabeth Avenue West ® Online Superstore Official Site
 
   
 Privacy Policy
