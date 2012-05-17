@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qoo10.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114005437id_/http%3A//www.qoo10.com/gmkt.inc/Company/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qoo10.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517024237id_/http%3A//www.qoo10.com/gmkt.inc/Company/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Gmarket – shopping Fun and be Colorful
+# Qoo10 (New Gmarket) – Global Fashion & Trend leading Shopping Market
 
 Privacy Policy
 
@@ -27,7 +27,7 @@ We may collect and store the following personal information:
 
 Marketing 
 
-We don't sell or rent your personal information to third parties for their marketing purposes without your explicit consent. We may combine your information with information we collect from other companies and use it to improve and personalise our services, content and advertising. If you don't wish to receive marketing communications from us or participate in our ad-customisation programmes, simply indicate your preferences in My Gmarket or by following the directions provided with the communication or advertisement.
+We don't sell or rent your personal information to third parties for their marketing purposes without your explicit consent. We may combine your information with information we collect from other companies and use it to improve and personalise our services, content and advertising. If you don't wish to receive marketing communications from us or participate in our ad-customisation programmes, simply indicate your preferences in My Qoo10 or by following the directions provided with the communication or advertisement.
 
 Use 
 
@@ -52,7 +52,7 @@ Share of Your Information
 We may share your personal information with:
 
   * \- Third-party service providers under contract who help with our business operations: We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links(including paid listings and links), processing credit card payments, investigating frauds and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
-  * \- Third parties giving promotional offers: Sometimes we send offers to selected groups our users on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please adjust communication preferences in My Gmarket.
+  * \- Third parties giving promotional offers: Sometimes we send offers to selected groups our users on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please adjust communication preferences in My Qoo10.
   * \- Other third parties to whom you explicitly ask us to send your information (or about whom you are otherwise explicitly notified and consent to when using a specific service).
   * \- Law enforcement or other governmental officials, in response to a verified request relating to a criminal investigation or alleged illegal activity. In such events, we will disclose information relevant to the investigation, such as name, city, postal code, telephone number, email address, User ID history, IP address, fraud complaints, and purchasing and listing history;
   * \- Brand Protection Program participants under confidentiality agreement, as we in our sole discretion believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity. In such events, we will disclose name, street address, city, postal code,country, phone number, email address and company name; and
@@ -90,7 +90,7 @@ A few important things you should know about cookies are that:
 
 No Spam, Spyware or Spoofing
 
-We and our users do not tolerate spam. Make sure to set your communication preferences in My Gmarket so we communicate to you as you prefer. You are not licensed to add other users of this Website, even a user who has purchased an item from you, to your mailing list (email or physical mail) without their express consent. To report Gmarket-related spam or spoof emails to Gmarket, please visit the Security & Resolution Center. You may not use our communication tools to send spam or otherwise send content that would violate our User Agreement. We automatically scan and may manually filter messages to check for spam, viruses, phishing attacks and other malicious activity or illegal or prohibited content, but we do not permanently store messages sent through these tools. We do not rent or sell these email addresses. 
+We and our users do not tolerate spam. Make sure to set your communication preferences in My Qoo10 so we communicate to you as you prefer. You are not licensed to add other users of this Website, even a user who has purchased an item from you, to your mailing list (email or physical mail) without their express consent. To report Qoo10-related spam or spoof emails to Qoo10, please visit the Security & Resolution Center. You may not use our communication tools to send spam or otherwise send content that would violate our User Agreement. We automatically scan and may manually filter messages to check for spam, viruses, phishing attacks and other malicious activity or illegal or prohibited content, but we do not permanently store messages sent through these tools. We do not rent or sell these email addresses. 
 
 Account Protection
 
