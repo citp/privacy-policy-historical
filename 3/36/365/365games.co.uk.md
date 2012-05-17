@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the 365games.co.uk privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217160428id_/http%3A//www.365games.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 365games.co.uk privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517055035id_/http%3A//www.365games.co.uk/page/privacy) for the most accurate reproduction.*
 
-# 365games.co.uk Privacy Policy
-
-[](http://www.365games.co.uk/christmas)
+# Privacy Policy
 
 ## Background
 
