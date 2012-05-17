@@ -1,49 +1,29 @@
-> *The following text is extracted and transformed from the naijan.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011133857id_/http%3A//naijan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naijan.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517164233id_/http%3A//naijagists.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Naijan.com
+# Privacy | Nollywood Gossips, News in Nigerian Newspapers Today
 
-**Your Privacy**
+## Privacy
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online [information](http://naijan.com/nigeria-2/information-2/ "information") practices and the choices you can make about the way your [information](http://naijan.com/nigeria-2/information-2/ "information") is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+[Naijagists.com](http://naijagists.com/ "http://Naijagists.com") takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this privacy policy primer to learn more about privacy policies in general.
 
-**Google Adsense and the DoubleClick DART Cookie**  
-Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
+ **Routine Information Collection**
 
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url [http://www.google.com/privacy_ads.html](http://naijan.com/goto/http://www.google.com/privacy_ads.html) Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
+All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
 
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies , naijan.com has no access or control over these cookies that may be used by third party advertisers.
+ **Cookies and Web Beacons**
 
-**Our Commitment To Childrens Privacy**  
-Protecting the privacy of the very young is especially important. For that reason, naijan.com will never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18.  
-Under our Terms of Service, children under 18 are not allowed to access our service.
+Where necessary, [naijagists.com](http://naijagists.com/ "http://naijagists.com") uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
-**Collection of Personal Information**  
-When visiting naijan.com, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
 
-**Links to third party Websites**  
-We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
+ **Controlling Your Privacy**
 
-**Changes to this Privacy Statement**  
-The contents of this statement may be altered at any time, at our discretion.
+Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms. This list of web browser privacy management links may also be useful.
 
-If you have any questions regarding the privacy policy of naijan.com then you may contact us at [info@naijan.com](mailto:info@naijan.com)
+ **Special Note About Google Advertising**
 
-#### NAIJAN.COM NAVIGATION AND LINKS
+Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to opt out of Google’s cookie usage. As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
 
-******
+ **Contact Information**
 
-#### NIGERIAN NEWS BY STATES
-
-******
-
-#### JOBS IN NIGERIA
-
-******
-
-#### JOIN THE DISCUSSION FORUM
-
-**[Register](http://naijapalava.com/register) | [Login](http://naijapalava.com/login) | [General Discussions](http://naijapalava.com/forum/#3)  
-STATE BY STATE DISCUSSIONS  
-[Lagos ](http://naijapalava.com/lagos/), [Abuja](http://naijapalava.com/abuja/), [Anambra](http://naijapalava.com/anambra/), [Enugu](http://naijapalava.com/enugu/), [Akwa Ibom](http://naijapalava.com/akwa-ibom/), [Adamawa](http://naijapalava.com/adamawa/), [Abia](http://naijapalava.com/abia/), [Bauchi](http://naijapalava.com/bauchi/), [Bayelsa](http://naijapalava.com/bayelsa/), [Benue](http://naijapalava.com/benue/), [Borno](http://naijapalava.com/borno/), [Cross River](http://naijapalava.com/cross-river/), [Delta](http://naijapalava.com/delta/), [Ebonyi](http://naijapalava.com/ebonyi/), [Edo](http://naijapalava.com/edo/), [Ekiti](http://naijapalava.com/ekiti/), [Gombe](http://naijapalava.com/gombe/), [Imo](http://naijapalava.com/imo/), [Jigawa](http://naijapalava.com/jigawa/), [Kaduna](http://naijapalava.com/kaduna/), [Kano](http://naijapalava.com/kano/), [Katsina](http://naijapalava.com/katsina/), [Kebbi](http://naijapalava.com/kebbi/), [Kogi](http://naijapalava.com/kogi/), [Kwara](http://naijapalava.com/kwara/), [Nasarawa](http://naijapalava.com/nasarawa/), [Niger](http://naijapalava.com/niger/), [Ogun ](http://naijapalava.com/ogun/), [Ondo](http://naijapalava.com/ondo/), [Osun ](http://naijapalava.com/osun/), [Oyo](http://naijapalava.com/oyo/), [Plateau](http://naijapalava.com/plateau/), [Rivers](http://naijapalava.com/rivers/), [Sokoto](http://naijapalava.com/sokoto/), [Taraba](http://naijapalava.com/taraba/), [Yobe](http://naijapalava.com/yobe/), [Zamfara](http://naijapalava.com/zamfara/)﻿**
-
- **************************
+Concerns or questions about this privacy policy can be directed to [info@naijagists.com](mailto:info@naijagists.com "mailto:info@naijagists.com")   for further clarification.
