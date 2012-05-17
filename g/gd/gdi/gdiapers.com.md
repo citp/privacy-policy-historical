@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gdiapers.com privacy policy that was archived on 2011-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111026192711id_/http%3A//www.gdiapers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gdiapers.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517175930id_/http%3A//www.gdiapers.com/customer-care/privacy-policy) for the most accurate reproduction.*
 
 # gDiapers - privacy policy
-
-## Privacy Policy
 
 gDiapers and its subsidiaries (collectively, "Company") recognize privacy as an important issue and have prepared this Privacy Policy to inform you of our data collection and use practices and confirm our commitment to keep your personal information secure. 
 
@@ -59,12 +57,9 @@ For any questions or concerns you may have regarding this Privacy Policy and our
 
 **Via Mail**  
 gDiapers  
-PO Box 10106  
+2808 NE MLK Jr Blvd Suite g  
 Portland, Oregon   
-97296  
+97212  
 USA 
 
-**Via Email:** [info@gdiapers.com](mailto:info@gdiapers.com)  
-
-
-Last revised: 29th June, 2005 
+**Via Email:** [info@gdiapers.com](mailto:info@gdiapers.com)
