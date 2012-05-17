@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sony.eu privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118125856id_/http%3A//www.sony.co.uk/pages/privacy/Privacy_statement_en_EU.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sony.eu privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517131243id_/http%3A//www.sony.co.uk/pages/privacy/Privacy_statement_en_EU.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -208,6 +208,6 @@ VAT number: GB 636 1100 80
 Top
 
 These Terms and the contents of this site are subject to copyright.  
-© 2011 Sony. All Rights Reserved.  
-Latest Update: October 2011  
+© 2012 Sony. All Rights Reserved.  
+Latest Update: October 2012  
 
