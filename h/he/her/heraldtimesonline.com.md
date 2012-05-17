@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heraldtimesonline.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016151159id_/http%3A//www.heraldtimesonline.com/htoservices/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heraldtimesonline.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517120918id_/http%3A//www.heraldtimesonline.com/htoservices/privacy.php) for the most accurate reproduction.*
 
 # HeraldTimesOnline.com - Bloomington, Indiana
 
