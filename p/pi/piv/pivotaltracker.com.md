@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pivotaltracker.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106183530id_/http%3A//www.pivotaltracker.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pivotaltracker.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517043757id_/http%3A//www.pivotaltracker.com/policy/privacy) for the most accurate reproduction.*
 
 # Pivotal Tracker: Polices
 
@@ -121,4 +121,4 @@ We may revise and update this Policy if our practices change, as technology chan
 
 ### 9\. CONTACTING PIVOTAL
 
-Any questions about this Policy should be addressed to Pivotal Labs, 731 Market St., Third Floor, San Francisco, CA 94103, or by email at: [tracker@pivotallabs.com](mailto:tracker@pivotallabs.com).
+Any questions about this Policy should be addressed to Pivotal Labs, 875 Howard St., 5th Floor, San Francisco, CA 94103, or by email at: [tracker@pivotallabs.com](mailto:tracker@pivotallabs.com).
