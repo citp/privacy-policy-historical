@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the littleliana.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201011144id_/http%3A//littleliana.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littleliana.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518013830id_/http%3A//littleliana.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy_nethole
 
