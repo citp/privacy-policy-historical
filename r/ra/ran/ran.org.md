@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ran.org privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008014646id_/http%3A//ran.org/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ran.org privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517234300id_/http%3A//ran.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rainforest Action Network
 
@@ -6,7 +6,7 @@
 
 _August 17, 2007_
 
-Rainforest Action Network (RAN) is committed to maintaining the privacy of those who visit [www.ran.org](http://www.ran.org/ "www.ran.org").
+Rainforest Action Network (RAN) is committed to maintaining the privacy of those who visit [www.ran.org](http://www.ran.org/).
 
 RAN is the sole owner of the information collected on this site. This information will not be sold or rented to others in ways different from what is disclosed in this statement. RAN collects information from site visitors at several different points on this website.
 
@@ -28,14 +28,10 @@ Action Center
 RAN provides an advocacy service allowing site visitors to contact corporate leaders, key members in the business community and other members of the private sector on issues of concern. Contact information such as name and email address are requested. If cookies are enabled on a visitor's computer, then our site will use cookies to identify previous users of our advocacy service to enhance their experience.  
 Links
 
-RAN provides links to other web sites. RAN is not responsible for the privacy practices of such other sites. Site visitors are encouraged to be aware when they leave [www.RAN.org](http://www.ran.org/ "www.RAN.org") and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by [www.RAN.org](http://www.ran.org/ "www.RAN.org").
+RAN provides links to other web sites. RAN is not responsible for the privacy practices of such other sites. Site visitors are encouraged to be aware when they leave [www.RAN.org](http://www.ran.org/) and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by [www.RAN.org](http://www.ran.org/).
 
 Changes to this policy RAN reserves the right, in its sole discretion and without any obligation, to modify or correct any errors or omissions in any portion of this web site. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
 ## Contact Us
 
 For questions: - regarding this policy statement, - the practices of this site, - if you feel that this site is not following its stated information policy, - or to review or request changes to your contact information, you may contact us at the address below.
-
-  
-  
-
