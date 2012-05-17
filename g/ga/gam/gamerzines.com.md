@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gamerzines.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230002126id_/http%3A//www.gamerzines.com/support/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamerzines.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517142235id_/http%3A//www.gamerzines.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - GamerZines : Free Digital Games Magazines
+# Privacy Policy « GamerZines
+
+Published on February th, 2012 
 
 Background
 
@@ -10,14 +12,14 @@ This Policy applies as between you, the User of this Web Site and Cranberry Publ
 
 In this Policy the following terms shall have the following meanings:
 
-  * 'Account' means collectively the personal information, Payment Information and credentials used by Users to access Material and/or any communications System on the Web Site;
-  * 'Content' means any text, graphics, images, audio, video, software, data compilations and any other form of information capable of being stored in a computer that appears on or forms part of this Web Site;
-  * 'Cookie' means a small text file placed on your computer by Cranberry Publishing Ltd when you visit certain parts of this Web Site. This allows us to identify recurring visitors and to analyse their browsing habits within the Web Site. Further details are contained in Clause 10 and Schedule 1 of this Policy;
-  * 'Data' means collectively all information that you submit to the Web Site. This includes, but is not limited to, Account details and information submitted using any of our Services or Systems;
-  * 'Cranberry Publishing Ltd' means Cranberry Publishing Ltd and any of the websites or electronic magazines it publishes, including but not limited to GamerZines. Cranberry Publishing Ltd, The 401 Centre, 302 Regent Street , London , W1B 3HH , UK ; 'Service' means collectively any online facilities, tools, services or information that Cranberry Publishing Ltd makes available through the Web Site either now or in the future;
-  * 'System' means any online communications infrastructure that Cranberry Publishing Ltd makes available through the Web Site either now or in the future. This includes, but is not limited to, web-based email, message boards, live chat facilities and email links;
-  * 'User'/'Users'/"Members" means any third party that accesses the Web Site and is not employed by Cranberry Publishing Ltd and acting in the course of their employment; and
-  * 'Web Site' means the website that you are currently using (www.gamerzines.com) and any sub-domains of this site (e.g. subdomain.www.gamerzines.com/pesfanzine/) unless expressly excluded by their own terms and conditions.
+  * ‘Account’ means collectively the personal information, Payment Information and credentials used by Users to access Material and/or any communications System on the Web Site;
+  * ‘Content’ means any text, graphics, images, audio, video, software, data compilations and any other form of information capable of being stored in a computer that appears on or forms part of this Web Site;
+  * ‘Cookie’ means a small text file placed on your computer by Cranberry Publishing Ltd when you visit certain parts of this Web Site. This allows us to identify recurring visitors and to analyse their browsing habits within the Web Site. Further details are contained in Clause 10 and Schedule 1 of this Policy;
+  * ‘Data’ means collectively all information that you submit to the Web Site. This includes, but is not limited to, Account details and information submitted using any of our Services or Systems;
+  * ‘Cranberry Publishing Ltd’ means Cranberry Publishing Ltd and any of the websites or electronic magazines it publishes, including but not limited to GamerZines. Cranberry Publishing Ltd, The 401 Centre, 302 Regent Street , London , W1B 3HH , UK ; ‘Service’ means collectively any online facilities, tools, services or information that Cranberry Publishing Ltd makes available through the Web Site either now or in the future;
+  * ‘System’ means any online communications infrastructure that Cranberry Publishing Ltd makes available through the Web Site either now or in the future. This includes, but is not limited to, web-based email, message boards, live chat facilities and email links;
+  * ‘User’/'Users’/"Members" means any third party that accesses the Web Site and is not employed by Cranberry Publishing Ltd and acting in the course of their employment; and
+  * ‘Web Site’ means the website that you are currently using (www.gamerzines.com) and any sub-domains of this site (e.g. subdomain.www.gamerzines.com/pesfanzine/) unless expressly excluded by their own terms and conditions.
 
 
 
@@ -68,7 +70,7 @@ Cranberry Publishing Ltd may, from time to time, employ the services of other pa
 7\. Your Right to Withhold Information
 
   * 7.1 You may access all areas of the Web Site without providing any Data at all. However, to receive notification of new magazines available on the Web Site you may be required to submit Account information or other Data.
-  * 7.2 You may restrict your internet browser's use of Cookies. For more information see clause 10.4 below.
+  * 7.2 You may restrict your internet browser’s use of Cookies. For more information see clause 10.4 below.
 
 
 
@@ -88,7 +90,7 @@ Cranberry Publishing Ltd may, from time to time, employ the services of other pa
 10\. Cookies
 
   * 10.1 Cranberry Publishing Ltd may set and access Cookies on your computer. Cookies that may be placed on your computer are detailed in Schedule 1 to this Policy.
-  * 10.2 A Cookie is a small file that resides on your computer's hard drive and often contains an anonymous unique identifier and is accessible only by the web site that placed it there, not any other sites.
+  * 10.2 A Cookie is a small file that resides on your computer’s hard drive and often contains an anonymous unique identifier and is accessible only by the web site that placed it there, not any other sites.
   * 10.3 You may delete Cookies, however you may loose any information that enables you to access the Web Site more quickly.
   * 10.4 You can choose to enable or disable Cookies in your web browser. By default, your browser will accept Cookies, however this can be altered. For further details please consult the help menu in your browser. Disabling Cookies may prevent you from using the full range of Services available on the Web Site, including the ability to download some of the free magazines. A cookie is required in order to ensure our system only counts your magazine download one time in our logs.
 
@@ -100,31 +102,24 @@ Cranberry Publishing Ltd reserves the right to change this Privacy Policy as we 
 
 Schedule 1:
 
-**Name of Cookie**
-
-| 
-
-**Purpose**  
-  
----|---  
-  
-**Flash cookie: dob ******
-
- **** | 
-
-**Stored when you confirm your date of birth so that the video player can play age gated content.**  
-  
-**Flash cookie: various**
-
-| 
-
-**Magazines may store competition entry status to prevent duplicate entries, which would disqualify you.**  
-  
 **Session cookie**
 
 | 
 
 **Layout control**  
   
+---|---  
 |   
-| 
+|   
+  
+Be Sociable, Share!
+
+  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.gamerzines.com%2Fprivacy-policy%20\(via%20@sociablesite\)%20/sociable/%20blogplay.com "Twitter")
+  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.gamerzines.com%2Fprivacy-policy&t=Privacy%20Policy "Facebook")
+  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.gamerzines.com%2Fprivacy-policy&ui=2&tf=1&shva=1 "email")
+  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.gamerzines.com%2Fprivacy-policy&title=Privacy%20Policy "StumbleUpon")
+  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.gamerzines.com%2Fprivacy-policy&title=Privacy%20Policy&notes=Background%0D%0AThis%20Policy%20applies%20as%20between%20you%2C%20the%20User%20of%20this%20Web%20Site%20and%20Cranberry%20Publishing%20Ltd%20the%20owner%20and%20provider%20of%20this%20Web%20Site.%20This%20Policy%20applies%20to%20our%20use%20of%20any%20and%20all%20Data%20collected%20by%20us%20in%20relation%20to%20your%20use%20of%20the%20Web%20Site "Delicious")
+  * [](http://reddit.com/submit?url=http%3A%2F%2Fwww.gamerzines.com%2Fprivacy-policy&title=Privacy%20Policy "Reddit")
+  * [](http://digg.com/submit?phase=2&url=http%3A%2F%2Fwww.gamerzines.com%2Fprivacy-policy&title=Privacy%20Policy&bodytext=Background%0D%0AThis%20Policy%20applies%20as%20between%20you%2C%20the%20User%20of%20this%20Web%20Site%20and%20Cranberry%20Publishing%20Ltd%20the%20owner%20and%20provider%20of%20this%20Web%20Site.%20This%20Policy%20applies%20to%20our%20use%20of%20any%20and%20all%20Data%20collected%20by%20us%20in%20relation%20to%20your%20use%20of%20the%20Web%20Site "Digg")
+  * 
+
