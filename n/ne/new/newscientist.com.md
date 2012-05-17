@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newscientist.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205112808id_/http%3A//www.newscientist.com/info/in9%3Ffull%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newscientist.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517131050id_/http%3A//www.newscientist.com/info/in9%3Ffull%3Dtrue) for the most accurate reproduction.*
 
 # Privacy policy - 24 November 2004 - New Scientist
 
@@ -38,71 +38,104 @@ Your personal data will be held on a secure server. Our sites are equipped with 
 
 Under the Data Protection Act 1988. You have the right to be told what personal information we hold about you on our databases. You should write to us, attn Company Secretary at the following address: Quadrant House, The Quadrant, Sutton, Surrey SM2 5AS. UK stating your full name, your address and any of our publications or services to which you know you subscribe. A small administrative charge may be made for fulfilling this request.
 
-### 8\. Cookies
+### 8\. Use of cookies
 
-How we use cookies on our site and what information we collect. Click here for information and instructions on how to adjust your settings.
+Cookies are small text files that are placed on your computer by websites that you visit. They are widely used to make websites work, or work more efficiently, as well as to provide information to the owners of the site.
 
-A cookie is a text-only string of information that a website transfers to the cookie folder of the browser on your computer's hard disk so that the website can remember who you are. For more information about cookies, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+Newscientist.com requires cookies in order to operate fully. We also work with advertisers who place cookies on your computer to serve and target adverts more effectively when you visit the site.
 
-The following types of cookie are used on this website:
+Most web browsers allow some control of cookies through browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-**Session Cookies** \- These are temporary cookies that remain in the cookie file of your browser until you leave the site. We use them to maintain your login (so that you stay logged-in until you wish to log out), and to remember your preferences for things like forms. If you disable these cookies, you will not be able to stay logged in and you will not be able to register a login for the first time. You have the ability to accept or decline these cookies by modifying the settings in your browser (see instructions below).
+Further information about the cookies used by newscientist.com is provided below.
 
-Our session cookies contain the following information:
+**Cookies used by newscientist.com:**
 
-  * Name: JSESSIONID
-  * Content: RANDOM STRING
-  * Host: newscientist.com
-  * Path: /
-  * Secure server: no
-  * Expires: at end of session (this is 30 mins or when you close your browser)
+The following cookie categories are based on the classification presented in the International Chambers of Commerce (ICC) Cookie Guide.
 
+**Category 1: Strictly necessary cookies.** These cookies are essential to allow us to provide services that you have requested.
 
+_Category 1 cookies used by newscientist.com:_
 
-No personal or identifying information is held in these cookies. As soon as you leave our sites or close your browser, they are automatically deleted from your computer.
-
-**Persistent Cookies** \- These are cookies which remain in the cookie file of your browser for a much longer period, though how long will depend on the lifetime of the specific cookie. We occasionally set persistent cookies to manage the number of times a day you will see ads. If you disable these cookies, you will be served the ad on every page you visit rather than just once per day. You have the ability to accept or decline these cookies by modifying the settings in your browser (see instructions below). Again, no personal or identifying information is held in these cookies.
-
-**Third Party Cookies** \- In addition, the third party companies who sell and provide advertisements to the site and host our contacts database make use of cookies for the purpose of serving and targeting advertisements more effectively. These are used for the following purposes:
-
-  * To serve advertisements on our site and track whether these advertisements are clicked on by users.
-  * To control how often you are shown a particular advertisement.
-  * To tailor content to your preferences such as geographical location.
+  * **Login status** \- To identify you as being logged in to our website.
+  *  **Load balancing** \- Cookies may be used to distribute traffic across our web servers - to ensure that our websites perform well and give you the best possible experience.
+  *  **Shopping basket** \- Shopping basket cookies remember what is in your shopping basket.
+  *  **User subscription data** \- Subscription cookies allow us to ensure that you can access resources that you have registered for or paid for.
 
 
 
-For more information about these cookies, how you can opt out of receiving them and how this will affect your use of our website, please visit the websites of our third party suppliers:
+**Category 2: Performance cookies.** These cookies collect information about how visitors use our website, for instance which pages visitors go to most often. The information collected by these cookies is aggregated, so these cookies don't collect information that identifies individual visitors. The information collected is anonymous and is only used to improve the way our website works.
 
-Adtech - [www.adtech.info/privacy/](http://www.adtech.info/privacy/)
+_Category 2 cookies used by newscientist.com:_
 
-Hitbox - [www.omniture.com/en/company/acquisitions/visualsciences/privacy/policy](http://www.omniture.com/en/company/acquisitions/visualsciences/privacy/policy)
-
-DREAM mail - [www.epsilon.com/epsilonstatic/privacy.html](http://www.epsilon.com/epsilonstatic/privacy.html##2)
-
-**Disabling/Enabling Cookies**
-
-You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of our site if cookies are disabled. Instructions are given below for the most popular browsers. If you browser is not on this list and you require help with your cookie settings then please [contact us](https://web.archive.org/contact/person?recipient=wmtr).
-
-**AOL browsers**  
-Some versions of the AOL browser do not accept session cookies at all. We strongly recommend using another browser, such as Firefox or Internet Explorer, to access the NewScientist web network
-
-  * **Microsoft Internet Explorer 6.x and above**
-  * Select "Internet Options" from the Tools menu.
-  * On the 'Privacy" tab click the "Sites" button
-  * Type in the "Address of Web Site" box:
-  * ' newscientist.com', 'space.newscientist.com', 'tech.newscientist.com', 'environment.newscientist.com' or 'newscientistjobs.com', as applicable 
-  * 'adtech.de' to regulate popups
-  * Press ALLOW or BLOCK as preferred.
-  * Apply the settings and close all Internet Explorer windows.
+  * **Web analytics** \- Web analytics cookies are used to improve the design and user experience of our website by providing statistics on site usage and pages visited.
+  *  **Embedded videos** \- Most videos on NnewsScientist.com are hosted on [Brightcove](http://www.brightcove.com/en/privacy) and [YouTube](http://www.google.com/policies/privacy/ads/). These sites use cookies to collect video statistics and improve site experience.
 
 
-  * **Firefox 2.x and above**
-  * Select 'Options' from the 'Tools' menu
-  * Click the 'Privacy' tab
-  * To enable cookies check the box next to 'Accept cookies from sites'. To disable them, uncheck the same box
-  * Click 'OK'
+
+**Category 3: Functionality cookies.** These cookies allow us to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more relevant features.
+
+_Category 3 cookies used by newscientist.com:_
+
+  * **User preferences** \- Preference cookies remember settings you've applied to this site such as layout, default views, search filters, number of search results per page and, video bandwidth.
+  *  **Login information** \- Login cookies may be used to communicate your login details across pages of this website. These data are encrypted and not shared with third parties.
+  *  **User profile data** \- Email addresses, address and contact information. These are not shared with third parties.
 
 
+
+**Category 4: Targeting or advertising cookies.** These cookies are used to deliver adverts that are more relevant to you and your interests. They are also used to limit the number of times you see an advert as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator's permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers.
+
+_Category 4 cookies used by newscientist.com:_
+
+**Targeted advertising**
+
+Advertising cookies are used by third parties to gather and send information to other websites so that they can present you with adverts that you might be interested in.
+
+These cookies can be linked to clicks on 'Like' or 'Share' buttons which may be used on this site.  
+
+
+Newscientist.com uses the following third- party advertising networks:
+
+  * DoubleCclick (Google)
+  * Adtech
+  * Tremor Media
+  * Brightcove
+
+
+
+You may choose to decline these cookies by visiting the following sites:
+
+  * [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp)
+  * [Google advertising opt-out page](http://www.google.com/privacy_ads.html)
+  * [Adtech opt-out page](http://www.adtech.info/privacy_en.php)
+  * [Tremor Media opt-out page](http://www.tremorvideo.com/about-us/privacy/)
+  * [Brightcove privacy policy (includes cookie information)](http://www.brightcove.com/en/privacy)
+
+
+
+In addition, third-party advertisers run adverts on newscientist.com and use their own advertising networks.  
+
+
+If you would like to block cookies being set by third-party networks you may do so through the preference settings on your browser.
+
+**Campaign tracking**
+
+Campaign tracking cookies are used to monitor how effective adverts, promotions and e-newsletters are. Newscientist.com runs its own campaigns through:
+
+  * DoubleCclick (Google)
+  * Adtech
+
+
+
+You may choose to decline these cookies by visiting the following sites:
+
+  * Google advertising opt-out page
+  * Adtech opt-out page
+
+
+
+In addition, third-party advertisers run campaigns on newscientist.com.
+
+If you would like to block cookies being set by third-party networks you may do so through the preference settings on your browser.
 
 ### 9\. Changes to Privacy Policy
 
