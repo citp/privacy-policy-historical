@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the butlins.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203173029id_/http%3A//www.butlins.com/privacy-statement/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the butlins.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517194814id_/http%3A//www.butlins.com/privacy-statement/index.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -28,6 +28,298 @@ A cookie is a piece of information that is deposited by our server when you visi
 
 The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. However, cookies allow you to take full advantage of some of Butlins.com's most useful features and we recommend that you leave these turned on. If you do leave cookies turned on, be sure to sign off when you finish using a shared computer.
 
+Below are some examples of how we use cookies to do this:
+
+  * To gather information which allows us to identify your platform and record sales so we may improve customer experience and identify issues on the site.
+  * To ensure you are provided with correct and useful information during your visit to our site.
+  * To allow you to add items to the basket and proceed through our checkout.
+  * To collect data which allows us to improve our services based on purchases and site usage.
+
+
+
+There are three different categories these cookies are split into:
+
+  *  **Essential to Site function cookies** – these cookies allow you to browse the site, search for holidays and book your holiday online.
+  *  **Helpful, non intrusive cookies** – these help improve your experience on the site
+  *  **Third Party Cookies** – to help us record customer experience and to allow us to test new services, to help us improve the customer journey on the website
+
+
+
+We have detailed each of the cookies we use, the reason and their duration in the three tables below – split into the groups detailed above.
+
+ **Essential to Site function cookies**  
+---  
+  
+ **Cookie**
+
+| 
+
+ **Name**
+
+| 
+
+ **Purpose**
+
+| 
+
+ **Duration**  
+  
+Butlins Premier Club
+
+| 
+
+MEMBERSHIPNO   
+PASSWORD   
+REMEMBERME
+
+| 
+
+These cookies are used to store both the user's membership and encrypted password for premier club and whether the user wants to be remembered for next visit to the website.
+
+| 
+
+Browser session & 1 year  
+  
+Landing page promotions
+
+| 
+
+PARTNER   
+PROMOCODE   
+PROMOID
+
+| 
+
+These cookies are essential for special offers through unique landing page promotions.
+
+| 
+
+Browser session  
+  
+Request a brochure
+
+| 
+
+ShowBrochurePopup
+
+| 
+
+This cookie is used to display the request a brochure request popup for first time visitors.
+
+| 
+
+30 days  
+  
+currentgroup
+
+| 
+
+currentgroup
+
+| 
+
+Used to identify whether booking engine has been invoked from family or adult site
+
+| 
+
+Browser session  
+  
+SITESOURCE
+
+| 
+
+SITESOURCE
+
+| 
+
+This cookie is an indicator as to the rating of the currently selected break.
+
+| 
+
+Browser session  
+  
+sessionId
+
+| 
+
+sessionId
+
+| 
+
+Session management cookie used by the booking engine to maintain state.
+
+| 
+
+Session  
+  
+productType
+
+| 
+
+productType
+
+| 
+
+Allows main site to specify a product type to the booking engine for availability searches.
+
+| 
+
+Session  
+  
+searchData
+
+| 
+
+searchData
+
+| 
+
+Allows system to remember previous break search
+
+| 
+
+Session  
+  
+ **Helpful, session and non intrusive cookies**  
+---  
+  
+ **Cookie**
+
+| 
+
+ **Name**
+
+| 
+
+ **Purpose**
+
+| 
+
+ **Duration**  
+  
+Google Analytics
+
+| 
+
+__utma   
+__utmb   
+__utmc   
+__utmz
+
+| 
+
+These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
+
+| 
+
+Either on browser close, or varies between 30 minutes and 1 year  
+  
+Tealeaf
+
+| 
+
+TLTHID   
+TLTSID
+
+| 
+
+To help us record customer experience and to allow us to test new services, to help us improve the customer journey on the website.
+
+| 
+
+Browser session  
+  
+ASP.NET_SessionId
+
+| 
+
+ASP.NET_SessionId
+
+| 
+
+Standard ASP.NET cookie for session management.
+
+| 
+
+Browser session  
+  
+JSESSIONID
+
+| 
+
+JSESSIONID
+
+| 
+
+Standard Java session management cookie used to maintain session state.
+
+| 
+
+Browser session  
+  
+ **Third Party Cookies**  
+---  
+  
+ **Cookie**
+
+| 
+
+ **Name**
+
+| 
+
+ **Purpose**
+
+| 
+
+ **Duration**  
+  
+Performance Horizon Cookie
+
+| 
+
+tPHG-PS
+
+| 
+
+This sole purpose is to allow our system to track a PHG publisher click so we can track any subsequent sales generated when the PHG tracking is triggered for that particular campaign
+
+| 
+
+30 days  
+  
+Affiliate Window & Buy.at Cookies
+
+| 
+
+awin1.com   
+perfiliate.com
+
+| 
+
+To identify when a user has clicked on our of our affiliate links and stores information related to the click e.g. click through time, affiliate ID, IP address
+
+| 
+
+30 days  
+  
+Doubleclick
+
+| 
+
+_drt_   
+id
+
+| 
+
+These cookies facilitate targeting of relevant ads, control the number of times a user sees a given ad and facilitate campaign performance reporting
+
+| 
+
+2 years  
+  
+You can choose not to allow cookies in your browser settings, but to be able to purchase from our site you will need to ensure your cookies are enabled. More information on cookies, their use and how to accept or reject them can be found at www.allaboutcookies.org.
+
  **  
 IP Tracking**  
 When you visit our website, we store web server logs which show your IP address, this gives us information such as which pages you looked at, whether the page request was successful or not and which browser you use to view the page. The use of this data is purely for statistical purposes.
@@ -52,5 +344,7 @@ Butlins Skyline Limited is registered under the Data Protection Act 1998 and has
 
  **  
 Ad Management**  
-Butlins uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to <http://www.doubleclick.net/us/corporate/privacy>.   
+Butlins uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to <http://www.doubleclick.net/us/corporate/privacy>. 
 
+**Email marketing:  
+** Where we have your consent to do so, we may use email to contact you or keep you informed of products or services that may interest you such as special promotions, late deals or news. If you no longer wish to receive these emails, you can unsubscribe at any time by clicking on the unsubscribe link on any of the emails; or by visiting: [http://www.butlins.com/email-signup-unsubscribe.aspx,](http://www.butlins.com/email-signup-unsubscribe.aspx) or call us on 0845 070 4734 or write to us, Data Protection Officer, Butlins, 1 Park Lane, Hemel Hempstead HP2 4YL.
