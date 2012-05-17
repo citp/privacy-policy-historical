@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the smstau.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228172148id_/http%3A//www.smstau.com/privecy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smstau.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517204755id_/http%3A//www.smstau.com/privecy_policy.php) for the most accurate reproduction.*
 
-# sms online
-
-##### Privacy And Anti Spam Policy
+# Contact Us - SMS-TAU.com
 
 At ThinkTank, we respect and take steps to protect the privacy of our Users. We strive to make our site a safe environment for all who visit our website smstau and use ThinkTank services. We are committed to providing you the best possible online experience as well as the best products and services. This policy addresses our practices with respect to our website, but does not address the practices of any website we link to (including the merchants and content providers we link to). This policy is incorporated into, and subject to the terms of, our Terms and Conditions.
 
@@ -22,16 +20,19 @@ It is vital that ThinkTank receives from you the permission and valid rights to 
 
 It is also vital that ThinkTank receives from you the permission and Valid rights to, and that you have no objection to append targeted Ads to your FREE SMS messages. By using our FREE SMS messaging services you are actually confirming that you have gone through our terms and conditions and that you have no objection to in our appending targeted Ads to your SMS messages and to using your personal information.
 
-##### ANTI SPAM POLICY
+**ANTI SPAM POLICY**
 
-Any registered User of ThinkTank can send SMS text messages to his/her friends, family, colleagues, clients, contacts etc using the ThinkTank Interface. These interface conditions of use strictly forbid spamming to cell phone Users. We have several software filters to block spam messages. However, we cannot guarantee that spamming will not ever occur. [Please let us know the details of the message like content of message](mailto:contact@smstau.com), time of delivery, sender name or number etc so that we can immediately check and block the user responsible for the same.
+Any registered User of ThinkTank can send SMS text messages to his/her friends, family, colleagues, clients, contacts etc using the ThinkTank Interface. These interface conditions of use strictly forbid spamming to cell phone Users. We have several software filters to block spam messages. However, we cannot guarantee that spamming will not ever occur. Please let us know the details of the message like content of message, time of delivery, sender name or number etc so that we can immediately check and block the user responsible for the same.
 
-Appending contextual Ads to users SMS is not considered as spam within the meaning of spam. Spam is a totally uninvited message urging the recipient to avail of some services. But here the advertisement is part of a personal message which the recipient receives and is not a totally uninvited message. Also, the user has specifically opted-in to use this FREE service to send SMS to the recipient. Further the communication is between two known persons. 
+Appending contextual Ads to users SMS is not considered as spam within the meaning of spam. Spam is a totally uninvited message urging the recipient to avail of some services. But here the advertisement is part of a personal message which the recipient receives and is not a totally uninvited message. Also, the user has specifically opted-in to use this FREE service to send SMS to the recipient. Further the communication is between two known persons.
 
-##### LIMITS ON OUR ABILITIES
+**LIMITS ON OUR ABILITIES**
 
 Although your privacy is our top priority, due to the existing statutory, legal and technical environment, we are unable to ensure that personally identifiable information of our Users will not be disclosed to third parties in ways that are not described in this policy. Additionally, we may (and here you give us authorization to) disclose any private information about you to private entities, law enforcement or other government officials, which we may believe to be necessary at our sole discretion or appropriate to address or to resolve inquiries or problems. We undertake that this will not be done for commercial purposes or for our personal gain.
 
 If you have any further questions about our privacy and anti-spam policy or about its implementation, please email us at [contact@smstau.com](mailto:contact@smstau.com)
 
 You hereby acknowledge that the acceptance of this privacy policy is a condition to your use of our products and services and that you agree to be bound by all of our Terms and Conditions.
+
+  
+
