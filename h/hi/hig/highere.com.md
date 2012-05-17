@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highere.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215070450id_/http%3A//www.highere.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highere.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517140745id_/http%3A//www.highere.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
