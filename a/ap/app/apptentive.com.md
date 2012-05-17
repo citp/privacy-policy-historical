@@ -1,67 +1,90 @@
-> *The following text is extracted and transformed from the apptentive.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008030055id_/http%3A//www.apptentive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apptentive.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517050818id_/http%3A//www.apptentive.com/privacy) for the most accurate reproduction.*
 
 # Customer communication & feedback is important, as is privacy
 
-**This Privacy Policy governs the manner in which Apptentive collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.apptentive.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Apptentive.**
+Last modified: February 28, 2012
 
-## Personal identification information
+This Privacy Policy applies to all of the products, services and developer modules offered by Apptentive Inc. or its subsidiaries or affiliated companies. It does not apply to information we provide to the developer of your App. Each developer is responsible for establishing its own privacy policy. Sometimes, we may post product specific privacy notices or Help Center materials to explain our products and related privacy policies in more detail.
 
-We may collect personally identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+If you have any questions about this Privacy Policy, please feel free to [contact us](http://www.apptentive.com/contact) through our website or write to us at:
 
-## Non-personal identification information
-
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
-
-## Web browser cookies
-
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
-
-## How we use collected information
-
-Apptentive collects and uses Users personal information for the following purposes:
-
-  * **To personalize user experience.** We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site. 
-  * **To improve our Site.** We continually strive to improve our website offerings based on the information and feedback we receive from you. 
-  * **To improve customer service** Your information helps us to more effectively respond to your customer service requests and support needs. 
-  * **To process transactions** We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service. 
-  * **To send periodic emails** The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
-
-
-
-## How we protect your information
-
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
-
-Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
-
-## Sharing your personal information
-
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
-
-## Third party websites
-
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
-
-## Changes to this privacy policy
-
-Apptentive has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
-
-## Your acceptance of these terms
-
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
-
-## Contacting us
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-
-
-Apptentive  
-[http://apptentive.com](https://web.archive.org/privacy)  
+Privacy Matters  
+c/o Apptentive Inc.  
 1205 Queen Anne Ave N #201  
-Seattle, WA 98109  
-415-939-7143  
-[support@apptentive.com](mailto:support@apptentive.com)
+Seattle, WA, 98109  
+USA
 
-This document was last updated on April 05, 2011
+## Information we collect and how we use it
 
-Privacy policy created by http://www.generateprivacypolicy.com
+We may collect the following types of information:
+
+  * **Information you provide** – When you sign up for an Apptentive Account, we ask you for personal information. We may combine the information you submit under your account with information from other Apptentive services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information.
+
+  * **Cookies** – When you visit Apptentive, we send one or more cookies to your computer or other device. We use cookies to improve the quality of our service, including for storing user preferences and tracking user trends.
+
+  * **Log information** – When you access Apptentive services via a browser, application or other client our servers automatically record certain information. These server logs may include information such as your web request, your interaction with a service, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser or your account.
+
+  * **User communications** – When you send email or other communications to Apptentive or through Apptentive’s services to its customers (usually the developer of your App), we may retain those communications in order to process your inquiries, respond to your requests and improve our services. When you send and receive feedback messages to or from one of our services, we may collect and maintain information associated with those messages, such as the phone number, your email address, details about your device, your operating system, the wireless carrier associated with the phone number, the content of the message, and the date and time of the transaction. We may use your email address to communicate with you about our services and for our customers’ responses.
+
+  * **Affiliated Apptentive Services on other sites** – We offer some of our services on or through other web sites. Personal information that you provide to those sites may be sent to Apptentive in order to deliver the service. We process such information under this Privacy Policy.
+
+  * **Third Party Applications** – Apptentive may make available third party applications, such as gadgets or extensions, through its services. The information collected by Apptentive when you enable a third party application is processed under this Privacy Policy. Information collected by the third party application provider is governed by their privacy policies.
+
+  * **Location data** – Apptentive offers location-enabled services, tied to its developer tools and services. If you use those services, Apptentive may receive information about your actual location (such as GPS signals sent by a mobile device) or information that can be used to approximate a location (such as a cell ID).
+
+  * **Unique application number** – Certain services, such as Apptentive’s developer modules, include a unique application number. This number and information about your installation (e.g., operating system type, version number) may be sent to Apptentive when you give feedback or when that service periodically contacts our servers (for example, to request automatic updates to the software).
+
+  * **Other sites** – This Privacy Policy applies to Apptentive services only. We do not exercise control over sites that include Apptentive applications, products or services, or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you.
+
+
+
+
+In addition to the above, we may use the information we collect to:
+
+  * Provide, maintain, protect, and improve our services (including advertising services) and develop new services; and
+
+  * Protect the rights or property of Apptentive or our users.
+
+
+
+
+If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use.
+
+Apptentive processes personal information on our servers in the United States of America and in other countries. In some cases, we process personal information outside your own country.
+
+## Choices
+
+Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Apptentive features and services may not function properly if your cookies are disabled.
+
+## Information sharing
+
+Apptentive only shares personal information with other companies or individuals outside of Apptentive in the following circumstances:
+
+  * You’ve shared your information as a result of giving feedback within an application using Apptentive’s services. We only share this information with the developer of the application, in order to assist you and the developer in communicating.
+
+  * We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures we have put in place.
+
+  * We have a good faith belief that access, use, preservation or disclosure of your information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against harm to the rights, property or safety of Apptentive, its users or the public as required or permitted by law.
+
+
+
+
+If Apptentive becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will ensure the confidentiality of any personal information involved in such transactions and provide notice before personal information is transferred and becomes subject to a different privacy policy.
+
+## Information security
+
+We take care to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, including encryption and physical security measures to guard against unauthorized access to systems where we store personal data.
+
+## Accessing and updating personal information
+
+When you use Apptentive services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Because of the way we maintain certain services, after you delete your information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems.
+
+## Changes to this Privacy Policy
+
+Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review.
+
+## Get Started
+
+## Ratings done right
+
+Ratings & reviews should share your excellence. Asking for ratings should be about delighting your customers. [Read More >](https://web.archive.org/ios-app-ratings)
