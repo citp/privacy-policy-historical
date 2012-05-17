@@ -1,16 +1,15 @@
-> *The following text is extracted and transformed from the olaladirectory.com.au privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225092703id_/http%3A//www.olaladirectory.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olaladirectory.com.au privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517084808id_/http%3A//www.olaladirectory.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Olala Business Directory - Privacy Policy
+# Privacy Policy | Business Directory Australia
 
-### OUR COMMITMENT TO PROTECT YOUR PRIVACY
-
+OUR COMMITMENT TO PROTECT YOUR PRIVACY  
 OlalaDirectory seeks to provide the best possible service to its customers and the website owners.
 
 We understand how important it is to protect your personal information. This document sets out our privacy policy commitment in respect of personal information that you may provide to us.
 
 Our Privacy Policy ensures your right to privacy as we recognise that any personal information we may collect about you will only be used for the purposes indicated in our policy. It is important to us that you are confident that any personal information we collect from you or is received by us, will be treated with appropriate respect ensuring protection of your personal information.
 
-Our commitment in respect of personal information is to abide by the [National Privacy Principles](http://www.privacy.gov.au/publications/npps01.html) for the protection of personal information, as set out in the [Privacy Act of Australia](http://www.privacy.gov.au/act/privacyact/index.html) and any other relevant law.
+Our commitment in respect of personal information is to abide by the National Privacy Principles for the protection of personal information, as set out in the Privacy Act of Australia and any other relevant law.
 
 PERSONAL INFORMATION
 
@@ -44,7 +43,7 @@ DIRECT MARKETING
 
 From time to time we may use your personal information to provide you with current information about our services, special offers you may find of interest, changes to our organisation, or new products or services being offered by us or any company we are associated with, seminars, and conventions.
 
-If you do not wish to receive marketing information, you may at any time decline to receive such information by contacting our offices by filling out our [contact form](http://www.olaladirectory.com.au/index.php?page=contact) or by writing to us at PO BOX 10475, Southport BC QLD 4215, Australia. We will not charge you for giving effect to your request and will take all reasonable steps to meet your request at the earliest possible opportunity.
+If you do not wish to receive marketing information, you may at any time decline to receive such information by contacting our offices by filling out our contact form or by writing to us at PO BOX 10475, Southport BC QLD 4215, Australia. We will not charge you for giving effect to your request and will take all reasonable steps to meet your request at the earliest possible opportunity.
 
 UPDATING YOUR PERSONAL INFORMATION
 
