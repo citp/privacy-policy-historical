@@ -1,10 +1,17 @@
-> *The following text is extracted and transformed from the articley.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114232726id_/http%3A//www.articley.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articley.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517022148id_/http%3A//www.articley.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Articley.com
+# Privacy Policy
+
+[](http://www.articley.com/)
+
+Welcome to our **Article Directory**!   
+We have **161** published articles and **122** registered authors. [Sign up](http://www.articley.com/default/wp-login.php?action=register) now 
+
+## Privacy Policy
 
 **General**. Articley places great importance in protecting your privacy. This Privacy Policy is designed to explain the manner in which Articley collects, uses, and discloses the personal information provided by you as a result of the use of Articley’s Web Site and the content, information and services provided through the Web Site by Articley.
 
-**Users’ Consent**. BY ACCESSING THIS WEB SITE, THE WEB SITE LOCATED AT THE URL WWW.ARTICLEY.COM AND/OR ANY OTHER SITE PROVIDED BY Articley (COLLECTIVELY, THE “SITE”), YOU ARE SIGNIFYING, EXPRESSING AND PROVIDING YOUR CONSENT TO THE INFORMATION COLLECTION, INFORMATION USAGE, AND OTHER PROCEDURES DESCRIBED IN THE PRIVACY POLICY BELOW. Articley reserves the right to change this policy at any time, without notice, by posting a new privacy policy at this location. The collection, use and disclosure of your personal information by Articley will be governed by the version of this Policy in effect at that time. Please check this page periodically for any changes. Please [contact us](http://www.articley.com/contact/ "Contact Us Form") if you have any questions about our privacy policy.
+**Users’ Consent**. BY ACCESSING THIS WEB SITE, THE WEB SITE LOCATED AT THE URL WWW.ARTICLEY.COM AND/OR ANY OTHER SITE PROVIDED BY Articley (COLLECTIVELY, THE “SITE”), YOU ARE SIGNIFYING, EXPRESSING AND PROVIDING YOUR CONSENT TO THE INFORMATION COLLECTION, INFORMATION USAGE, AND OTHER PROCEDURES DESCRIBED IN THE PRIVACY POLICY BELOW. Articley reserves the right to change this policy at any time, without notice, by posting a new privacy policy at this location. The collection, use and disclosure of your personal information by Articley will be governed by the version of this Policy in effect at that time. Please check this page periodically for any changes. Please [contact us](http://www.articley.com/contact/ "Contact Us Form") if you have any questions about our privacy policy.
 
 **Collection and Use of Information**. In order for you to access certain materials or pages (i.e. author signup, tell a friend, and the like) and to register as a user on this Site, this Site requires that you provide certain personal information, including, but not limited to, your name, phone number and e-mail address. We use this information in order to contact you to provide you with further information about our company and services, as well as for other commercial and/or internal purposes such as market research in order to better understand the demographics of our Site visitors and potential customers and partners. We may share this information with our authorized partners and/or with third parties who act for or on behalf of us, but we do not otherwise provide or sell any information gathered on this Site to outside vendors.
 
@@ -26,6 +33,6 @@ In order to assist in protecting the confidentiality of your personal informatio
 
   * Google, as a third party vendor, uses cookies to serve ads on Articley.com.
   * Google’s use of the DART cookie enables it to serve ads to users based on their visit to our site and other sites on the Internet.
-  * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+  * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 
