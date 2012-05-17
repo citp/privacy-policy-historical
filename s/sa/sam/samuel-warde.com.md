@@ -1,0 +1,42 @@
+> *The following text is extracted and transformed from the samuel-warde.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517111654id_/http%3A//samuel-warde.com/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy | Samuel Warde
+
+**What information do we collect?**  
+We do not collect any information from this website.
+
+**What do we use your information for?**  
+We do not collect any information.
+
+**How do we protect your information?**  
+We do not collect any information.
+
+**Do we use cookies?**  
+No
+
+**Do we disclose any information to outside parties?**  
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Third party links**  
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**California Online Privacy Protection Act Compliance**  
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+**Your Consent**  
+By using our site, you consent to our privacy policy and terms of use.
+
+**Changes to our Privacy Policy**  
+If we decide to change our privacy policy, we will post those changes on this page.
+
+**Contacting Us**  
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+Samuel Wynn Warde  
+2059 THIRD STREET  
+LIVERMORE, CA 94550  
+USA
+
+[samuel@wynnswoods.com](mailto:samuel@wynnswoods.com)
+
+[](http://digg.com/submit?phase=2&url=http://samuel-warde.com/privacy-policy/&title=Privacy%20Policy) [](http://del.icio.us/post?url=http://samuel-warde.com/privacy-policy/&title=Privacy%20Policy) [](http://www.facebook.com/share.php?u=http://samuel-warde.com/privacy-policy/&t=Privacy%20Policy) [](http://www.google.com/bookmarks/mark?op=edit&bkmk=http://samuel-warde.com/privacy-policy/&title=Privacy%20Policy) [](http://sphinn.com/submit.php?url=http://samuel-warde.com/privacy-policy/&title=Privacy%20Policy) [](http://www.stumbleupon.com/submit?url=http://samuel-warde.com/privacy-policy/&title=Privacy%20Policy) [](http://technorati.com/faves?add=http://samuel-warde.com/privacy-policy/)
