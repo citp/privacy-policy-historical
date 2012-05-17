@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the staples.co.uk privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118132552id_/http%3A//www.staples.co.uk/wrapper.aspx%3Fparam%3Dhelp_policie_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staples.co.uk privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517135333id_/http%3A//www.staples.co.uk/wrapper.aspx%3Fparam%3Dhelp_policie_privacy) for the most accurate reproduction.*
 
 # Staples.co.uk Your business partner for Office Supplies, furniture and technology.
 
