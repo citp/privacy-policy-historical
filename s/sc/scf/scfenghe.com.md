@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the scfenghe.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229231331id_/http%3A//www.scfenghe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scfenghe.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517041108id_/http%3A//www.scfenghe.com/privacy-policy) for the most accurate reproduction.*
 
-# Chatroulette hof - Chatroulette hof.com - Www.chatroulette hof.com - Privacy Policy | Broadcasting News
-
-## Privacy Policy
+# Chatroulette hof.com - Chatroulette hof - Chatroulette.hof.com - Privacy Policy | Broadcasting News
 
 > The privacy of our visitors to this domain is important to us.
 > 
