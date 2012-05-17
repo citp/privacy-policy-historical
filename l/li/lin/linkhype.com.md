@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkhype.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214634id_/http%3A//www.linkhype.com/pripol.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkhype.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517163027id_/http%3A//www.linkhype.com/pripol.html) for the most accurate reproduction.*
 
 # Link Hype Web Directory - Privacy Policy
 
