@@ -1,35 +1,20 @@
-> *The following text is extracted and transformed from the tutorcircle.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204231221id_/http%3A//www.tutorcircle.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutorcircle.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517224118id_/http%3A//www.tutorcircle.com/privacy-policy-pg.html) for the most accurate reproduction.*
 
-# TutorCircle.com - Privacy & Purchase Policies
+# Privacy Policy | TutorCircle
 
-  
+TUTORCIRCLE PRIVACY POLICY 
 
+The TutorCircle.com is intended to provide tutoring and academic support to students from K-12 to College over the age of 5. The TutorCircle Privacy Policy details the commitment of TutorCircle to our users' privacy. Please review the following policy to understand how the information you provide TutorCircle, will be treated.
 
-## TUTORCIRCLE PRIVACY POLICY
+I. Who We Are and How to Reach Us 
 
-The TutorCircle.com is intended to provide tutoring and academic support to students from K-12 to College over the age of 5. The TutorCircle Privacy Policy details the commitment of TutorCircle to our users' privacy. Please review the following policy to understand how the information you provide TutorCircle, will be treated. 
+TutorCircle is the sole provider of this website. You may contact us directly if you have any questions regarding the content and material on this website, or the collection, use, correction or deletion of any personal or non-personal information provided over this website. Please contact us at cs@TutorCircle.com
 
-  
+II. Usage Eligibility 
 
+The TutorCircle service is intended for students over the age of 5 Years. For website activities that request personal information, you agree to provide accurate and current information about yourself. Your membership and/or participation in our website services will be canceled without notice if at any time we discover that you provide false information, or violate any term of this Privacy Policy or our Terms of Usage Use Agreement. If necessary, and in accordance with applicable law, TUTORCIRCLE will cooperate with local, state and/or federal authorities to protect its users, parents, partners, affiliates, subsidiaries and operational providers or to prevent unauthorized use of the site.
 
-## I. Who We Are and How to Reach Us
-
-TutorCircle is the sole provider of this website. You may contact us directly if you have any questions regarding the content and material on this website, or the collection, use, correction or deletion of any personal or non-personal information provided over this website. Please contact us at [cs@TutorCircle.com](mailto:cs@tutorcircle.com)
-
-  
-
-
-## II. Usage Eligibility
-
-The TutorCircle service is intended for students over the age of 5 Years. For website activities that request personal information, you agree to provide accurate and current information about yourself. Your membership and/or participation in our website services will be canceled without notice if at any time we discover that you provide false information, or violate any term of this Privacy Policy or our Terms of Usage Use Agreement. If necessary, and in accordance with applicable law, TUTORCIRCLE will cooperate with local, state and/or federal authorities to protect its users, parents, partners, affiliates, subsidiaries and operational providers or to prevent unauthorized use of the site. 
-
-  
-
-
-## III. Personal Information
-
-  
-
+III. Personal Information 
 
 The only personal information this website obtains about you is information voluntarily provided by you.
 
@@ -45,37 +30,25 @@ TutorCircle also reserves the right to replicate written comments about the serv
 
 TutorCircle contains links to other sites and some features of the TutorCircle Service may be offered in conjunction with a partner company. TutorCircle is not responsible for the privacy practices or the content of such websites and companies.
 
-In order to provide partner company features, it may be necessary for either you or TutorCircle to share your voluntarily provided personal information with this company. If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular service. 
+In order to provide partner company features, it may be necessary for either you or TutorCircle to share your voluntarily provided personal information with this company. If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular service.
 
-  
+IV. Non - Personal Information 
 
+Certain non-personal information of visitors is also recorded by the standard operation of TutorCircle's Internet servers. This information is primarily used to provide visitors to TutorCircle with an enhanced online experience. Information tracked includes the type of browser being used by the visitor, the type of operating system, and the domain name of the visitor's Internet service provider. TutorCircle may disclose aggregated user statistics in order to describe the TutorCircle service to prospective partners, advertisers, and other third parties, and for other lawful purposes.
 
-## IV. Non - Personal Information
+V. How to Add, Change, or Delete Personal Information 
 
-Certain non-personal information of visitors is also recorded by the standard operation of TutorCircle's Internet servers. This information is primarily used to provide visitors to TutorCircle with an enhanced online experience. Information tracked includes the type of browser being used by the visitor, the type of operating system, and the domain name of the visitor's Internet service provider. TutorCircle may disclose aggregated user statistics in order to describe the TutorCircle service to prospective partners, advertisers, and other third parties, and for other lawful purposes. 
+You have access to your membership profile collected and maintained by our website. We strive to ensure that the information we obtain and use about our members and visitors is accurate. Therefore, you may add, change or delete personal information on your profile or registration for other activities. Certain information fields are required and cannot be deleted for security purposes or in accordance with various laws. We encourage you to keep us informed about any changes in your membership information and e-mail address. You may change, update or delete certain information in your membership file through the TutorCircle web page: Simply log in to your account, enter the "Profile" page, and change your information as necessary.
 
-  
+VI. Use of Cookies 
 
+This site requires cookies. TutorCircle uses cookies to establish a session. We do not use cookies for tracking purposes. Cookies do not allow the website to access personal information that you haven't already provided.
 
-## V. How to Add, Change, or Delete Personal Information
-
-You have access to your membership profile collected and maintained by our website. We strive to ensure that the information we obtain and use about our members and visitors is accurate. Therefore, you may add, change or delete personal information on your profile or registration for other activities. Certain information fields are required and cannot be deleted for security purposes or in accordance with various laws. We encourage you to keep us informed about any changes in your membership information and e-mail address. You may change, update or delete certain information in your membership file through the TutorCircle web page: Simply log in to your account, enter the "Profile" page, and change your information as necessary. 
-
-  
-
-
-## VI. Use of Cookies
-
-This site requires cookies. TutorCircle uses cookies to establish a session. We do not use cookies for tracking purposes. Cookies do not allow the website to access personal information that you haven't already provided. 
-
-  
-
-
-## VII. Our Security Procedures 
-
-  
-
+VII. Our Security Procedures 
 
 We are committed to safeguarding the privacy of all users. We require our employees to protect the privacy of all information collected over our website. Only employees and supervisors with specific authorization have access to databases containing visitors' personal information. The databases are protected in a secure facility. We have a digital certificate that is signed by a recognized certificate authority.
 
-Please be advised that once you leave our website, your use of the Internet will be governed by the privacy policies, if any, of the particular website that you are accessing. TutorCircle is not responsible for the content, activities or privacy practices on the other sites. 
+Please be advised that once you leave our website, your use of the Internet will be governed by the privacy policies, if any, of the particular website that you are accessing. TutorCircle is not responsible for the content, activities or privacy practices on the other sites.
+
+  
+
