@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catholicherald.co.uk privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121195251id_/http%3A//www.catholicherald.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catholicherald.co.uk privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518083249id_/http%3A//www.catholicherald.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # CatholicHerald.co.uk | Privacy Policy
 
@@ -44,7 +44,7 @@ Cookies are widely used in order to make websites work, or work more efficiently
 
  **Cookie**|  **Name**|  **Purpose**|  **More information**  
 ---|---|---|---  
-Traffic Log Cookie|  ** __**| This cookie enables us to:  
+Traffic Log Cookie|  ** _[insert cookie name]_**|  This cookie enables us to: 
 
 Estimate our audience size and usage pattern.
 
