@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vegetarian-cooking-recipes-tips.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211210906id_/http%3A//www.vegetarian-cooking-recipes-tips.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegetarian-cooking-recipes-tips.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518144900id_/http%3A//www.vegetarian-cooking-recipes-tips.com/privacy-policy.html) for the most accurate reproduction.*
 
 # vegetarian-cooking-recipes-tips' Privacy Policy
 
@@ -44,7 +44,7 @@ If "vegetarian-cooking-recipes-tips.com" is sold, the information we have obtain
 
 ##  How You Can Correct or Remove Information 
 
-We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, [please click on this link and/or use our Contact Us](https://web.archive.org/web/20111211210906id_/http%3A//www.vegetarian-cooking-recipes-tips.com/contact-us.html) page.
+We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, [please click on this link and/or use our Contact Us](https://web.archive.org/web/20120518144900id_/http%3A//www.vegetarian-cooking-recipes-tips.com/contact-us.html) page.
 
 ##  Updates and Effective Date 
 
