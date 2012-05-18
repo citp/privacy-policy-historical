@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flyerzone.co.uk privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125083507id_/http%3A//www.flyerzone.co.uk/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyerzone.co.uk privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518121939id_/http%3A//www.flyerzone.co.uk/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Business Cards and Colour Printing by Flyerzone.co.uk
+# Privacy Policy | by Flyerzone.co.uk
 
 This policy governs the use by PDC SA t/a Flyerzone or one of its subsidiaries or Affiliates (" **we/us/our** ") of your (" **you/your/yourself** ") data which is available to us in connection with your use of the website (the " **Site** ").
 
