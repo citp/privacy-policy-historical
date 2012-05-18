@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roberttreatacademy.org privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005153220id_/http%3A//webschoolpro.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roberttreatacademy.org privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518183836id_/http%3A//webschoolpro.com/privacy.html) for the most accurate reproduction.*
 
 # WebSchoolPro Privacy Policy
 
