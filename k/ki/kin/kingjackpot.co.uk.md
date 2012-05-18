@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the kingjackpot.co.uk privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109073114id_/http%3A//www.kingjackpot.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingjackpot.co.uk privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518084557id_/http%3A//www.kingjackpot.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - King Jackpot UK
 
 ## Privacy
 
-In this Privacy Policy, as in the General terms and conditions, references to the "Company", "we" or "us" shall refer to the kingjackpot.co.uk website and/or Blue Stone Interactive Entertainment Limited. 
+In this Privacy Policy, as in the General terms and conditions, references to the "Company", "we" or "us" shall refer to the kingjackpot.co.uk website and/or Table Top Entertainment Limited. 
 
-The Company has registered with the Data Protection Office of Guernsey (Registration number 011596).
+The Company has registered with the Data Protection Office of Guernsey (Registration number 012483).
 
 The Company respects your privacy and we are committed to protecting your personal information. We have created this Privacy Policy to let you know what information we collect when you use the Website, and any online platform provided by us (the "Service"); why we collect this information and how we use the collected information.
 
