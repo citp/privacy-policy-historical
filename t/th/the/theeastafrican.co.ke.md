@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theeastafrican.co.ke privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119232233id_/http%3A//www.theeastafrican.co.ke/meta/-/2562/2548/-/yuw417z/-/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theeastafrican.co.ke privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519015510id_/http%3A//www.theeastafrican.co.ke/meta/-/2562/2548/-/yuw417z/-/index.html) for the most accurate reproduction.*
 
 # Privacy Policy - Footer |theeastafrican.co.ke
 
