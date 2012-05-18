@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the click2houston.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116180412id_/http%3A//www.click2houston.com/-/1736084/4735798/-/cyaf5w/-/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the click2houston.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518104619id_/http%3A//www.click2houston.com/-/1736084/4735798/-/cyaf5w/-/index.html) for the most accurate reproduction.*
 
 # Home - Privacy policy
 
-  * Click2Houston (the "Site"), on which this Privacy Policy is posted, is operated by KPRC-TV2 ("KPRC"), its parent, affiliated and related companies (collectively referred to herein as "we", "us", "our" or "KPRC"). We have created this privacy statement ("Privacy Policy") in order to demonstrate our commitment to the privacy of our Site's users, and to disclose our information gathering, use and dissemination practices with respect to the data collected online via this Site. It does not apply to information obtained by any other means (including on or through another Web site or source, or via any offline methods). By visiting this Site, you consent to these practices. Please take a moment to review the sections below. This Privacy Policy is incorporated into, and part of, the Site [Terms of Use](http://www.click2houston.com/station/23902987/detail.html), which governs your use of this Site in general.
+Click2Houston (the "Site"), on which this Privacy Policy is posted, is operated by KPRC-TV2 ("KPRC"), its parent, affiliated and related companies (collectively referred to herein as "we", "us", "our" or "KPRC"). We have created this privacy statement ("Privacy Policy") in order to demonstrate our commitment to the privacy of our Site's users, and to disclose our information gathering, use and dissemination practices with respect to the data collected online via this Site. It does not apply to information obtained by any other means (including on or through another Web site or source, or via any offline methods). By visiting this Site, you consent to these practices. Please take a moment to review the sections below. This Privacy Policy is incorporated into, and part of, the Site [Terms of Use](http://www.click2houston.com/station/23902987/detail.html), which governs your use of this Site in general.
 
 **You may opt in or opt out of our sharing of your personally identifiable information with third parties for their marketing use by following the directions in the "[What are my opt-out rights?](https://web.archive.org/privacy/index.html#Q4)" section below.**
 
@@ -128,5 +128,8 @@ If you have other questions or concerns about our privacy policies or data use w
 
 **Effective: June 15, 2010**
 
+Advertisement
 
+Advertisement
 
+Advertisement
