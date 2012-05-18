@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ppaction.org privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007061805id_/http%3A//www.plannedparenthoodaction.org/about-us/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ppaction.org privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518132256id_/http%3A//www.plannedparenthoodaction.org/about-us/privacy-policy.htm) for the most accurate reproduction.*
 
 # Planned Parenthood Action Fund Online Privacy Policy - Planned Parenthood Action Center
 
@@ -70,8 +70,7 @@ You may also contact the Action Fund by mail, e-mail, or telephone, as follows:
 E-mail:  [actionfund@ppfa.org](mailto:actionfund@ppfa.org)
 
 Mail:  Planned Parenthood Action Fund  
-          1780 Massachusetts Ave., NW  
-          Washington, DC 20036
+          1110 Vermont Ave. NW  Washington, DC 20005 
 
 Telephone:  202-973-4800
 
