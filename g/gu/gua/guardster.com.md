@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guardster.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118123744id_/http%3A//www.guardster.com/%3FHome-Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guardster.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518170032id_/http%3A//www.guardster.com/%3FHome-Privacy_Policy) for the most accurate reproduction.*
 
 # Guardster - Privacy Policy
 
