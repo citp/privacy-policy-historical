@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allfreecrochet.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211005610id_/http%3A//www.allfreecrochet.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfreecrochet.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518051817id_/http%3A//www.allfreecrochet.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | AllFreeCrochet.com
 
@@ -188,12 +188,10 @@ YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS A
 
 ##### Something worth saving?
 
-[Register now](https://web.archive.org/section/account/action/login) to:
+[Register now for FREE](https://web.archive.org/section/account/action/login) to:
 
-  * save all your favorite patterns
-  * add personal notes
-  * quickly reference your patterns
+  * SAVE all your favorite patterns
+  * ADD personal notes
+  * QUICKLY reference your patterns
 
-  
-  
----|---|---
+
