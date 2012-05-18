@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the muscatdaily.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202083307id_/http%3A//www.muscatdaily.com/Archive/Stories-Files/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muscatdaily.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518112123id_/http%3A//www.muscatdaily.com/Archive/Stories-Files/Privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Muscat Daily|Oman News
+# Privacy policy - Muscat Daily|Oman Newspaper
 
 We do not collect personally identifiable information about you, except when you provide it to us. For example, if you submit an inquiry or a complaint to us, you may be asked to provide your contact details (name, GSM number, e-mail id and mailing address).
 
