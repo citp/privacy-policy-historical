@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the petitchef.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117072427id_/http%3A//en.petitchef.com/index.php%3Fobj%3Dfront%26action%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petitchef.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518132745id_/http%3A//en.petitchef.com/index.php%3Fobj%3Dfront%26action%3Dprivacy) for the most accurate reproduction.*
 
-# All recipes are on Petitchef
+# All recipes are on Petitchef - Petit Chef
 
   
 
