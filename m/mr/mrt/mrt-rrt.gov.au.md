@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrt-rrt.gov.au privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221233234id_/http%3A//www.mrt-rrt.gov.au/Privacy-Statement/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrt-rrt.gov.au privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518194838id_/http%3A//www.mrt-rrt.gov.au/Privacy-Statement/default.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - MRT-RRT
 
@@ -8,7 +8,7 @@
 |  |   
 ---  
   
-The MRT and the RRT are bound by provisions relating to the collection and use of personal information in the _Migration Act 1958_ and in the _Privacy Act 1988_. Our website is consistent with the Privacy Commissioner's [__Guidelines for Federal and ACT Government Websites__](http://www.privacy.gov.au/internet/web/index.html). 
+The MRT and the RRT are bound by provisions relating to the collection and use of personal information in the _Migration Act 1958_ and in the _Privacy Act 1988_. Our website is consistent with the Privacy Commissioner's [_Guidelines for Federal and ACT Government Websites_](http://www.privacy.gov.au/internet/web/index.html). 
 
 We do not collect personal information about you when you visit this website. When a person looks at our website, we make a record (in server logs) of information such as the network address, the pages accessed and documents downloaded and the type of browser used, for statistical and network management purposes. Some websites store information in 'cookies' on your computer. Our website does not do this. 
 
@@ -23,7 +23,9 @@ The _Migration Act 1958_ has particular provisions relating to the collection an
 
 Any information provided to the Tribunals during a review process by you or by other parties may be provided to other participants in proceedings, to other individuals or organisations when seeking expert opinion or assessment, and may become public during MRT proceedings or when an MRT decision is published. The Migration Act requires that proceedings of the MRT be generally open to the public. The Migration Act requires that all proceedings of the RRT are held in private. Sometimes we collect personal information from a third party if you have consented or would reasonably expect us to collect the information in this way, for example from publicly available sources such as websites or telephone directories. 
 
-The MRT and the RRT are required to publish decisions that are considered to be of 'particular interest'. The requirement to publish decisions is subject to certain restrictions. The identity of the applicant and an applicant's relatives and dependents cannot be disclosed when publishing RRT decisions, and a Member may decide that publication of an MRT decision is to be restricted on public interest grounds. Where a relevant restriction applies, the decision is edited so as not to contain the information which cannot be published. Published decisions can be found on the [_Australasian Legal Information Institute's_](http://www.austlii.edu.au/) (AustLII's) website.    
+The MRT and the RRT are required to publish decisions that are considered to be of 'particular interest'. The requirement to publish decisions is subject to certain restrictions. The identity of the applicant and an applicant's relatives and dependents cannot be disclosed when publishing RRT decisions, and a Member may decide that publication of an MRT decision is to be restricted on public interest grounds. Where a relevant restriction applies, the decision is edited so as not to contain the information which cannot be published. Published decisions can be found on the [Australasian Legal Information Institute's](http://www.austlii.edu.au/) (AustLII's) website.  
+
+The tribunals have developed a Tribunal Guideline that outlines the procedures to be folllowed where a breach of the Privacy Act occurs: [TG 4 of 2012 - Handling privacy breaches](http://www.mrt-rrt.gov.au/ArticleDocuments/118/TG4_2012HandlingPrivacyBreaches.pdf.aspx).  
   
 | 
   *[Tribunals]: Migration Review Tribunal and Refugee Review Tribunal
