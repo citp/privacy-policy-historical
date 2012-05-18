@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebags.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223173104id_/http%3A//www.ebags.com/help/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebags.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518070353id_/http%3A//www.ebags.com/help/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
 
 # Luggage, Handbags, Backpacks, Suitcases, Purses, Briefcases, Wallets & More - eBags
 
