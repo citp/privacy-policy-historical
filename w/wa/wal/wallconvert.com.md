@@ -1,13 +1,16 @@
-> *The following text is extracted and transformed from the wallconvert.com privacy policy that was archived on 2011-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110816174733id_/http%3A//www.wallconvert.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallconvert.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518162025id_/http%3A//www.wallconvert.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## This website
 
-Converter page: wallpaper conversions are logged: the image url, referrer, resolution, format, width, height of the converted image are logged for statistical purposes. Your IP address is stored for conversion limiting purposes.  
-Contact page: upon submission of a contact request, the contact page saves the data you entered into the form as well as your IP address. The information submitted here will not be sold, traded or handed out for commercial purposes.  
-Search pages: your searches are saved anonymously to create search statistics.  
-The website uses session cookies to store your latest search query. Session cookies expire when the browser is closed.  
+**Converter page:** wallpaper conversions are logged: the image url, referrer, resolution, format, width, height of the converted image are logged for statistical purposes. Your IP address is stored for conversion limiting purposes.  
+**Account section:** upon registration the information you provided is saved in the website's database. No emails will be sent to the provided email address except the password recovery email when requested. The information submitted here will not be sold, traded or handed out for commercial or non-commercial purposes. A session cookie will be stored when logging in (closing the browser will clear this cookie), and a regular cookie will be stored if the "keep me logged in" feature is used (logging out will clear this cookie).  
+**Contact page:** upon submission of a contact request, the contact page saves the data you entered into the form as well as your IP address. The information submitted here will not be sold, traded or handed out for commercial or non-commercial purposes.  
+**Search pages:** your searches are saved anonymously to create search statistics.
+
+The website uses session cookies to store your latest search query and to keep you logged in. Session cookies expire when the browser is closed.  
+The website uses regular cookies to log you in automatically if the "keep me logged in" feature is used.  
 No other information is saved by the website itself, however the webservers the website and its images are hosted on save your IP address, the page you came from, the page (object) you are visiting, and the date and time of your visit. This is a standard webserver configuration, logs are kept to debug errors and investigate abuse.
 
 ## Third parties
