@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashesh.com.np privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228001522id_/http%3A//www.ashesh.com.np/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashesh.com.np privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519014936id_/http%3A//www.ashesh.com.np/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
