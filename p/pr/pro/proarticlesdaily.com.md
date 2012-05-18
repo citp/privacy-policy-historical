@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the proarticlesdaily.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007113853id_/http%3A//proarticlesdaily.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proarticlesdaily.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518170012id_/http%3A//proarticlesdaily.com/privacy-policy) for the most accurate reproduction.*
 
-# Free Articles Directory - Privacy Policy
+# Privacy-policy « ProArticlesDaily
 
 **What information do we collect?**
 
@@ -8,7 +8,7 @@ We collect information from you when you register on our site, place an order, s
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network **privacy** **policy**..
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network ****privacy**** ****policy****..
 
 **What do we use your information for?**
 
@@ -55,23 +55,23 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 **Third party links**
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent **privacy** policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent ****privacy**** policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**California Online **Privacy** Protection Act Compliance**
+**California Online ** **Privacy**** Protection Act Compliance**
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+Because we value your **privacy** we have taken the necessary precautions to be in compliance with the California Online **Privacy** Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
+As part of the California Online **Privacy** Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
 
-**Childrens Online **Privacy** Protection Act Compliance**
+**Childrens Online ** **Privacy**** Protection Act Compliance**
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+We are in compliance with the requirements of COPPA (Childrens Online **Privacy** Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-**Online **Privacy** **Policy** Only**
+**Online ** **Privacy**** ****Policy**** Only**
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+This online **privacy** **policy** applies only to information collected through our website and not to information collected offline.
 
-We take your privacy seriously. This policy describes what personal information we collect and how we use it. (This privacy policy is applicable to websites falling under the primary holder fill in your website(s) and urls here.)
+We take your **privacy** seriously. This **policy** describes what personal information we collect and how we use it. (This **privacy** **policy** is applicable to websites falling under the primary holder fill in your website(s) and urls here.)
 
 Routine Information Collection
 
@@ -81,28 +81,28 @@ Cookies and Web Beacons
 
 Where necessary, this site uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
-Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own **privacy** policies.
+Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own ****privacy**** policies.
 
-Controlling Your Privacy
+Controlling Your **Privacy**
 
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.
+Note that you can change your browser settings to disable cookies if you have **privacy** concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.
 
 Special Note About Google Advertising
 
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to opt out of Google's cookie usage. As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies.
+Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to opt out of Google's cookie usage. As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own **privacy** policies.
 
-About Google advertising: What is the DoubleClick DART cookie? The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Users may opt out of the use of the DART cookie by visiting the Google ad and content network **privacy** **policy**. (Link this to: <http://www.google.com/privacy_ads.html>)
+About Google advertising: What is the DoubleClick DART cookie? The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Users may opt out of the use of the DART cookie by visiting the Google ad and content network ****privacy**** ****policy****. (Link this to: <http://www.google.com/privacy_ads.html>) 
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http:// **proarticlesdaily.com** /terms.html](http://proarticlesdaily.com/terms.html)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website 
 
 **Your Consent**
 
-By using our site, you consent to our websites **privacy** **policy**.
+By using our site, you consent to our websites ****privacy**** ****policy****.
 
-**Changes to our **Privacy** **Policy****
+**Changes to our ** **Privacy**** ****Policy******
 
-If we decide to change our **privacy** **policy** , we will post those changes on this page, and/or update the **Privacy** **Policy** modification date below.
+If we decide to change our ****privacy**** ****policy**** , we will post those changes on this page, and/or update the ****Privacy**** ****Policy**** modification date below.
 
-This **policy** was last modified on 08/05/2010
+This ****policy**** was last modified on 08/05/2010
