@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blueheronhealthnews.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216180301id_/http%3A//blueheronhealthnews.com/site/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueheronhealthnews.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518134002id_/http%3A//blueheronhealthnews.com/site/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -58,3 +58,5 @@ Telephone number:
 8284844554
 
 Effective as of April 29, 2011
+
+[Print this article](http://blueheronhealthnews.com/site/about/privacy-policy/print/)
