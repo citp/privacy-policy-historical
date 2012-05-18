@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filmitown.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117131313id_/http%3A//www.filmitown.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmitown.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518133951id_/http%3A//www.filmitown.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | FilmiTown.com
+# Privacy Policy | FilmiTown.com - Bollywood News | Movie Reviews | Indian Television Discussion Portal
 
 **What information do we collect?**
 
@@ -8,7 +8,7 @@ We collect information from you when you subscribe to our newsletter, respond to
 
 When registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the [Internet](http://www.filmitown.com/topics/internet/ "Internet"). Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
 **What do we use your information for?**
 
