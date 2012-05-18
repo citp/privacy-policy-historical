@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snooth.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201191239id_/http%3A//www.snooth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snooth.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518170103id_/http%3A//www.snooth.com/privacy) for the most accurate reproduction.*
 
 # Snooth | Privacy
 
@@ -16,7 +16,7 @@ We use cookies to store visitors preferences, record session information, record
 
 ## Information Sharing with Third Parties
 
-We won't sell your email address or any personally identifiable information to third parties.
+Snooth will not sell, rent or share your personal information, including your e-mail address, with any third parties for marketing purposes without your express permission, except as follows: Snooth will share your email address with its promotional partners for marketing purposes.
 
 Snooth uses cookies to help manage online advertising. These may be served by us, our 3rd party advertisers, or their agent (i.e. Doubleclick or other ad service). These cookies enable the advertiser to recognize your specific Web browser, which in turn enables them to learn how many people have seen a certain specific advertisement, and how many have seen it more than once. We use this information to track which advertisements our users consider relevant.
 
