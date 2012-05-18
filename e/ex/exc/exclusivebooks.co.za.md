@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the exclusivebooks.co.za privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117113309id_/http%3A//www.exclus1ves.co.za/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exclusivebooks.co.za privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518083623id_/http%3A//www.exclus1ves.co.za/help/privacy) for the most accurate reproduction.*
 
 # Privacy
-
-**Introduction**
 
   1. This privacy policy ("this Privacy Policy") must be read together with the Terms and Condition. Unless defined elsewhere, terms in this Privacy Policy shall bear the meaning ascribed to them in the Terms and Conditions.
   2. The Owner is committed to bringing You information tailored to Your individual needs and recognises the importance of protecting the privacy of personally identifiable information collected about our users. 
@@ -13,13 +11,13 @@
 
 
 
-**What personal information is Collected?**
+## **What personal information is Collected?**
 
   1. The Owner may Collect personal information that may include (with limitation), Your name and e-mail address, information relating to Your race, gender, ethnic or social origin, age, well-being, disability, personal opinions, views or preferences. 
 
 
 
-**When is Your personal information Collected?**
+## **When is Your personal information Collected?**
 
   1. Personal information may be Collected in several ways.
   2. Some personal information may be Collected when You register on the Web Site, during the carrying out of demographic research, or when you participate in any promotions, competitions or surveys held on the Web Site.
@@ -28,7 +26,7 @@
 
 
 
-**How Your personal information is used?**
+## **How Your personal information is used?**
 
   1. The primary goal in Collecting Your personal information is to provide You with a better online experience, which may include, interactive communications, online shopping and other services. 
   2. Your personal information may be used to:
@@ -40,7 +38,7 @@
 
 
 
-**With whom is Your information shared?**
+## **With whom is Your information shared?**
 
   1. While the Owner will attempt not to disclose any of Your personal information to third parties, except when we have your permission or in the legitimate business interests of the Owner, the Owner does not guarantee that Your personal information will not be shared with third parties without Your permission.
   2. Your personal information may also be shared under the following circumstances:
@@ -58,7 +56,7 @@
 
 
 
-**What are cookies and how are they used?**
+## **What are cookies and how are they used?**
 
   1. Cookies are pieces of information a Web Site transfers to a user’s hard drive for record-keeping purposes. Cookies make surfing the web easier for You by saving Your preferences and tracking Your online habits, traffic patterns, and making sure You do not see the same advertisement too often. The use of cookies is an industry standard.
   2. The Owner may place a "cookie" on Your browser to store and sometimes track information about You. 
@@ -66,19 +64,19 @@
 
 
 
-**Use of IP Address**
+## **Use of IP Address**
 
   1. An IP address is a number that is automatically assigned to a computer whenever it is connected to the Internet.  The Owner also logs IP addresses, or the location of computers on the Internet.  The Owner collects IP addresses for the purposes of system administration, to report aggregate information to our advertisers, and to audit the use of the Web Site. The Owner does not ordinarily link IP addresses to personal information, which means that Your session may remain anonymous. However, the Owner cannot guarantee that this will always be the case. For example, it may be necessary to identify a particular user when it is necessary to enforce compliance with the Terms and Conditions or to protect our service Web Site, customers or other interests.
 
 
 
-**Security**
+## **Security**
 
   1. The importance of security for all personal information associated with You is of the utmost concern to us. While the Owner exercises great care in providing secure transmission of Your personal information, no data transmission over the Internet can be guaranteed to be 100% secure.  The Owner cannot guarantee the security of any information you transmit to, or from the Owner's Web Site.
 
 
 
-**E-Mail**
+## **E-Mail**
 
   1. The Owner may periodically send e-mails to You about services, products or promotions offered by the Owner and its advertisers to the e-mail address provided by You. 
 
