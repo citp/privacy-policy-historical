@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toyota.ca privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118123700id_/http%3A//www.toyota.ca/cgi-bin/WebObjects/WWW.woa/wa/vp%3Fvp%3DHome.Legal.Privacy%26language%3Denglish) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toyota.ca privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518170024id_/http%3A//www.toyota.ca/cgi-bin/WebObjects/WWW.woa/wa/vp%3Fvp%3DHome.Legal.Privacy%26language%3Denglish) for the most accurate reproduction.*
 
 # TOYOTA CANADA : Privacy Policy
 
@@ -7,13 +7,13 @@ Respecting Customer Information
 
 ### The Toyota (Lexus) (Scion) Commitment to Your Privacy
 
-Toyota Canada Inc. ("TCI"), which includes Toyota. Lexus and Scion brands, respects your right to privacy. This Policy outlines how TCI's privacy principles protect your privacy as a key part of TCI's on-going sales and service relationship with you as a valued Toyota (Lexus) (Scion) customer. The privacy principles apply to all personal information that TCI collects from customers. Personal information refers to any personally identifiable information about you. It does not include aggregate information that does not identify you specifically.
+Toyota Canada Inc. ("TCI"), which includes Toyota, Lexus and Scion brands, respects your right to privacy. This Policy outlines how TCI's privacy principles protect your privacy as a key part of TCI's on-going sales and service relationship with you as a valued Toyota (Lexus) (Scion) customer. The privacy principles apply to all personal information that TCI collects from customers. Personal information refers to any personally identifiable information about you. It does not include aggregate information that does not identify you specifically.
 
 ### What Personal Information Does TCI Collect?
 
 In connection with your vehicle purchase, TCI collects the information provided by you that is necessary for your Toyota (Lexus) (Scion) dealership to complete the transaction, including your name, address, telephone number(s), email address, driver's license and insurance information. TCI also records information respecting the vehicle purchased, the purchase price and other transaction information. TCI will also collect personal information from you through customer surveys, inquiries or requests for information and your visits to TCI web sites. You will only be asked to provide personal information in order to enable TCI to provide you with a service (such as sending you a new vehicle brochure, assisting you in contacting a dealership, or enabling you to complete online credit or job applications).
 
-If you apply for credit with Toyota Credit Canada Inc. ("TCCI"), TCCI will obtain credit approval information from you and third parties. The full TCCI Privacy Policy, which outlines how TCCI's privacy principles protect your privacy as a key part of its ongoing business relationship with you as a valued Toyota (Lexus) (Scion) customer, is available here [TCCI Privacy Policy](https://web.archive.org/cgi-bin/WebObjects/WWW.woa/23/wo/YP75swvmHbVHsmHf6RE4rw/0.7?h200001e%2ehtml).
+If you apply for credit with Toyota Credit Canada Inc. ("TCCI"), TCCI will obtain credit approval information from you and third parties. The full TCCI Privacy Policy, which outlines how TCCI's privacy principles protect your privacy as a key part of its ongoing business relationship with you as a valued Toyota (Lexus) (Scion) customer, is available here [TCCI Privacy Policy](https://web.archive.org/cgi-bin/WebObjects/WWW.woa/29/wo/w9hnFH5774JZtIKhZdwAnM/0.7?h200001e%2ehtml).
 
 TCI will collect information relating to your service transactions with authorized Toyota (Lexus) (Scion) dealerships.
 
@@ -56,7 +56,7 @@ Your consent may be given expressly or implied, depending on the circumstances.
 
 In connection with your vehicle purchase or certain service requests you will be asked to consent expressly to TCI's collection of personal information for the purposes identified herein.
 
-When you visit TCI's web sites (www.toyota.ca, www.lexus.ca, www.scion.ca, www.clubtoyota.ca, and www.clublexus.ca) you consent to TCI's collection, use and disclosure of your personal information that you provide on the web site. In some cases the web site may prompt you to provide your consent to the collection of certain personally identifiable information. By clicking "I have read and I agree" you are giving TCI permission, as applicable, to collect, use and disclose your personal information as described above under the headings "What Personal Information Does TCI Collect", "How is Your Personal Information Used" "With Whom is Your Personal Information Shared?".
+When you visit TCI's web sites (www.toyota.ca, www.lexus.ca, www.scion.ca, www.clubtoyota.ca, and www.clublexus.ca) you consent to TCI's collection, use and disclosure of your personal information that you provide on the web site. In some cases the web site may prompt you to provide your consent to the collection of certain personally identifiable information. By clicking "I have read and agree to the attached Privacy Policy" you are giving TCI permission, as applicable, to collect, use and disclose your personal information as described above under the headings "What Personal Information Does TCI Collect", "How is Your Personal Information Used" "With Whom is Your Personal Information Shared?".
 
 In other cases, your consent is understood, such as when you respond to a customer satisfaction survey, request a product information brochure from the web site, register for updates on the web site or complete an online job application.
 
