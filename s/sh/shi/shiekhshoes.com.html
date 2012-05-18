@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the shiekhshoes.com privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101154820id_/http%3A//www.shiekhshoes.com/t-privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shiekhshoes.com privacy policy that was archived on 2012-05-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120518212355id_/http%3A//www.shiekhshoes.com/t-privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -39,48 +39,76 @@
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
         })();
     </script>
-     <script type="text/javascript">
-         $(document).ready(function () {
-             $("#addNewSub").click(function (event) {
+    <script type="text/javascript">
+        var SUBVALIDATOR = (function () {
+            var maxLength = 150;
+            var methods = {
+                validateLength: function (email) {
+                    email = $.trim(email);
+                    return email.length > maxLength;
+                },
+                bindLengthControl: function ($obj) {
+                    $obj.keypress(function () {
+                        var val = $obj.val();
+                        if (val.length > maxLength) {
+                            return false;
+                        }
+                    });
+                }
+            };
 
-                 var hasError = false;
-                 var emailReg = /^[a-zA-Z0-9]+[a-zA-Z0-9_.-]+[a-zA-Z0-9_-]+@[a-zA-Z0-9]+[a-zA-Z0-9.-]+[a-zA-Z0-9]+.[a-z]{2,4}$/;
+            return {
+                validateLength: methods.validateLength,
+                bindLengthControl: methods.bindLengthControl
+            };
+        }());
 
-                 var emailaddressVal = $("#daEmail").val();
-                 if (emailaddressVal == '') {
-                     alert("Please enter your email address.");
-                     hasError = true;
-                 }
+        $(document).ready(function () {
+            var $emailField = $("#daEmail");
 
-                 else if (!emailReg.test(emailaddressVal)) {
-                     alert("Please enter a valid email address.");
-                     hasError = true;
-                 }
+            SUBVALIDATOR.bindLengthControl($emailField);
 
-                 if (hasError == true) { return false; }
+            $("#addNewSub").click(function (event) {
 
-                 $.ajax({
-                     type: "POST",
-                     url: "ProductDetail.asmx/AddNewEmailSubscriber",
-                     data: "{'Email': '" + $('#daEmail').val() + "'}",
-                     contentType: "application/json; charset=utf-8",
-                     dataType: "json",
-                     success: function (msg) {
-                         AjaxSucceeded(msg);
-                     },
-                     error: AjaxFailed
-                 });
-             });
-         });
-         function AjaxSucceeded(result) {
-             alert(result.d);
-         }
-         function AjaxFailed(result) {
-             alert(result.status + ' ' + result.statusText);
-         } 
 
-</script> 
-    <!-- Utku Feruz  -->
+                var emailReg = /^[a-zA-Z0-9]+[a-zA-Z0-9_.-]+[a-zA-Z0-9_-]+@[a-zA-Z0-9]+[a-zA-Z0-9.-]+[a-zA-Z0-9]+.[a-z]{2,4}$/;
+
+                var emailaddressVal = $.trim($("#daEmail").val());
+                if (!emailaddressVal) {
+                    alert("Please enter your email address.");
+                    return false;
+                }
+                else if (!emailReg.test(emailaddressVal)) {
+                    alert("Please enter a valid email address.");
+                    return false;
+                }
+
+                if (SUBVALIDATOR.validateLength(emailaddressVal)) {
+                    alert("Email address can not exceed 150 characters");
+                    return false;
+                }
+
+                $.ajax({
+                    type: "POST",
+                    url: "ProductDetail.asmx/AddNewEmailSubscriber",
+                    data: "{'Email': '" + $('#daEmail').val() + "'}",
+                    contentType: "application/json; charset=utf-8",
+                    dataType: "json",
+                    success: function (msg) {
+                        AjaxSucceeded(msg);
+                    },
+                    error: AjaxFailed
+                });
+            });
+        });
+        function AjaxSucceeded(result) {
+            alert(result.d);
+        }
+        function AjaxFailed(result) {
+            alert(result.status + ' ' + result.statusText);
+        }
+
+    </script>
 </head>
 <!--**************** STORE-8 ********************-->
 
@@ -97,125 +125,447 @@ CURRENCY SETTING: USD
 CACHE MENUS: True
 -->
 
+    <!-- BEGIN: Bizrate Medal (125x73 pixels) -->
+    <script src="//medals.bizrate.com/medals/js/216943_medal.js" type="text/javascript"></script>
+    <!-- END: Bizrate Medal (125x73 pixels) -->
     
-            <div id="wrapper">
-                <div style="height: 185px; border:0px black solid; "><!--HEADER WRAPPER-->
-                    <div style="position: relative; left: 145px; top: 11px; text-align: left;">
-                        <a style="padding: 0px 10px 0px 5px;
-                                    color: #333333;" href="http://www.shiekhshoes.com/t-international_shipping.aspx">
-                                    INTERNATIONAL SHIPPING</a><a style="padding: 0px 10px 0px 5px;
-                            color: #333333;" href="account.aspx">MY ACCOUNT</a><a style="padding: 0px 10px 0px 5px;
-                                color: #333333;" href="wishlist.aspx">WISH LIST</a><span style="color: #333333;"><a style="color: #333333;" href="signin.aspx">LOGIN or REGISTER</a></span>
-                    </div>
-                    <form name="topsearchform" method="get" action="search.aspx">
-                    <div style="position: relative; left: 145px; top: 40px; width: 400px; border:0px solid black;">
-                        <input type="text" name="SearchTerm" class="searchBox" id="Text1" style="border-radius: 0px;">
-                        <input type="image" style="position: relative; padding: 0px 10px 0px 10px; top: 6px; right:14px;" onclick="document.topsearchform.submit()" title="Click Go to Submit" id="Button1" value="Go" src="skins/Skin_2/images/main_page/search_button.gif">
-                    </div>
-                  
-                    <div style="background-image: url(skins/Skin_2/images/main_page/cart.gif); background-repeat: no-repeat;
-                        cursor: hand; cursor: pointer; position: relative; height: 62px; width:137px; left: 780px;
-                        top: -15px;" onclick="window.location.href='shoppingcart.aspx'">
-                         <div style="position: relative; top: 25px; left: 53px; color: white;border-color: green; width: 50px; font-size: small; text-align: center;" onclick="window.location.href='shoppingcart.aspx'">
-                            (0)</div>
-                       
-                    </div>
-
-
-                    <map id="Map3" name="ShopByLinks">
-                        <area href="newarrive.aspx" shape="rect" alt="New Arrivals" coords="77,0,152,13">
-                        <area href="advsearch.aspx" shape="rect" alt="Advanced Search" coords="171,0,197,13">
-                        <area href="t-AsSeenIn.aspx" shape="rect" alt="As Seen In" coords="213,0,280,13">
-                        <area href="advsearch.aspx" shape="rect" alt="Advanced Search" coords="292,0,401,13">
-                    </map>
-                    <img usemap="#ShopByLinks" src="skins/Skin_2/images/main_page/shopbylinks.jpg" border="0" alt="" style="position:relative; left:515px; border:0spx black solid;">
-                    </form>
-                
-                <div style="position: relative; left: 15px; bottom: 105px;">
-                    <a href="default.aspx">
-                        <img src="skins/Skin_2/images/main_page/logo.gif" border="0" alt="" style="position: absolute;">
-                    </a>
-                </div>
-                <div style="position: relative; left: 530px; bottom: 85px;">
-                    <a href="t-shipping.aspx">
-                        <img src="skins/Skin_2/images/main_page/Free-Shipping-Banner.gif" border="0" alt="" style="position: absolute;">
-                    </a>
+    <div id="wrapper">
+        <div style="height: 185px; border: 0px black solid; ">
+            <!--HEADER WRAPPER-->
+            <div style="position: relative; left: 145px; top: 11px; text-align: left;">
+                <a style="padding: 0px 10px 0px 5px; color: #333333;" href="t-international_shipping.aspx">
+                    INTERNATIONAL SHIPPING</a><a style="padding: 0px 10px 0px 5px; color: #333333;" href="account.aspx">
+                        MY ACCOUNT</a><a style="padding: 0px 10px 0px 5px; color: #333333;" href="wishlist.aspx">
+                            WISH LIST</a><span style="color: #333333;"><a style="color: #333333;" href="signin.aspx">LOGIN or REGISTER</a></span>
+            </div>
+            <form name="topsearchform" method="get" action="search.aspx">
+            <div style="position: relative; left: 145px; top: 40px; width: 400px; border: 0px solid black;">
+                <input type="text" name="SearchTerm" class="searchBox" id="Text1" style="border-radius: 0px;">
+                <input type="image" style="position: relative; padding: 0px 10px 0px 10px; top: 6px;
+                    right: 14px;" onclick="document.topsearchform.submit()" title="Click Go to Submit" id="Button1" value="Go" src="skins/Skin_2/images/main_page/search_button.gif">
+            </div>
+            <div style="background-image: url(skins/Skin_2/images/main_page/cart.gif);
+                background-repeat: no-repeat; cursor: hand; cursor: pointer; position: relative;
+                height: 62px; width: 137px; left: 780px; top: -15px;" onclick="window.location.href='shoppingcart.aspx'">
+                <div style="position: relative; top: 25px; left: 53px; color: white; border-color: green;
+                    width: 50px; font-size: small; text-align: center;" onclick="window.location.href='shoppingcart.aspx'">
+                    (0)
                 </div>
                 
-                <div style="position: relative; left: 2px; top: 10px; border:0px black solid; z-index:10000;">
-                    <!-- TOP MENU -->
-                    <div id="nav">
-                        <ul>
-                            <li><a style="padding:0px 24px;" href="c-2-womens-shoes.aspx">WOMENS</a>
-                                <ul>
-                                    <li><a href="c-9-womens-dress-shoes.aspx">Dress Shoes</a></li>
-                                    <li><a href="c-17-womens-casual-shoes.aspx">Casual Shoes</a></li>
-                                    <li><a href="c-65-womens-sandal.aspx">Sandals</a></li>
-                                    <li><a href="c-40-womens-boot.aspx">Boots</a></li>
-                                    <li><a href="c-43-womens-athletic-shoes.aspx">Athletic Shoes</a></li>
-                                    <li><a href="c-116-womens-slipper.aspx">Slippers</a></li>
-                                </ul>
-                            </li>
-                            <li><a style="padding:0px 24px;" href="c-44-mens-shoes.aspx" id="active">MENS</a>
-                                <ul>
-                                    <li><a href="c-85-mens-dress-shoes.aspx">Dress Shoes</a></li>
-                                    <li><a href="c-45-mens-casual-shoes.aspx">Casual Shoes</a></li>
-                                    <li><a href="c-104-mens-sandal.aspx">Sandals</a></li>
-                                    <li><a href="c-46-mens-boot.aspx">Boots</a></li>
-                                    <li><a href="c-47-mens-athletic-shoes.aspx">Athletic Shoes</a></li>
-                                    <li><a href="c-83-mens-slipper.aspx">Slippers</a></li>
-                                </ul>
-                            </li>
-                            <li><a style="padding:0px 24px;" href="c-48-kids-shoes.aspx">KIDS</a>
-                                <ul>
-                                    <li><a href="c-49-infant-shoes.aspx">Infant</a></li>
-                                    <li><a href="c-103-toddler-shoes.aspx">Toddler</a></li>
-                                    <li><a href="c-50-youth-shoes.aspx">Youth</a></li>
-                                    <li><a href="c-149-kids-boot.aspx">Kids Boots</a></li>
-                                    <li><a href="c-125-kids-sandal.aspx">Kids Sandals</a></li>
-                                    <li><a href="c-126-kids-skate.aspx">Kids Skate</a></li>
-                                </ul>
-                            </li>
-                            <li><a style="padding:0px 24px;" href="c-51-apparel.aspx">APPAREL</a>
-                                <ul>
-                                    <li><a href="c-127-mens-apparel.aspx">Mens Apparel</a></li>
-                                    <li><a href="c-128-womens-apparel.aspx">Womens Apparel</a></li>
-                                </ul>
-                            </li> 
-                            <li><a style="padding:0px 24px;" href="c-78-accessories.aspx">ACCESSORIES</a>
-                                <ul>
-                                    <li><a href="c-79-hand-bag.aspx">Hand Bags</a></li>
-                                    <li><a href="c-165-socks-and-hosiery.aspx">Socks and Hosiery</a></li>
-                                    <li><a href="c-166-insoles.aspx">Insoles</a></li>
-                                    <li><a href="c-56-hats.aspx">Hats</a></li>
-                                </ul>
-                            </li>
-                            <li><a style="padding:0px 24px;" href="brands.aspx">BRANDS</a></li>
-                            <li><a style="padding:0px 30px 0px 29px;" href="salelanding.aspx">SALE</a></li>
-                        </ul>
-                    </div>
-                    <!-- END TOP MENU -->
+            </div>
+            <map id="Map3" name="ShopByLinks">
+                <area href="newarrive.aspx" shape="rect" alt="New Arrivals" coords="77,0,154,13">
+                <area href="advsearch.aspx" shape="rect" alt="Advanced Search" coords="185,0,214,13">
+                <area href="advsearch.aspx" shape="rect" alt="Advanced Search" coords="244,0,349,13">
+            </map>
+            <img usemap="#ShopByLinks" src="skins/Skin_2/images/main_page/shopbylinks.jpg" border="0" alt="" style="position: relative; left: 570px; border: 0px black solid;">
+            </form>
+            <div style="position: relative; left: 15px; bottom: 105px;">
+                <a href="default.aspx">
+                    <img src="skins/Skin_2/images/main_page/logo.gif" border="0" alt="" style="position: absolute;">
+                </a>
+            </div>
+            <div style="position: relative; left: 530px; bottom: 85px;">
+                <a href="t-shipping.aspx">
+                    <img src="skins/Skin_2/images/main_page/Free-Shipping-Banner.gif" border="0" alt="" style="position: absolute;">
+                </a>
+            </div>
+            <div style="position: relative; left: 2px; top: 10px; border: 0px black solid; z-index: 10000;">
+                <div class="wrapper_menu menu_light_theme">
+                    <!-- BEGIN MENU WRAPPER -->
+                    <ul class="menu menu_blue">
+                        <!-- BEGIN MENU -->
+                        <li><a href="c-2-womens-shoes.aspx" class="drop">WOMENS</a>
+                            <div class="dropdown_5columns">
+                                <div class="col_1 firstcolumn">
+                                    <h3><a href="c-9-dress-shoes.aspx">All Dress Shoes</a></h3>
+                                    <ul>
+                                        <li><a href="c-157-animal-print.aspx">Animal Print</a></li>
+                                        <li><a href="c-146-color-block.aspx">Color Block</a></li>
+                                        <li><a href="c-171-evening.aspx">Evening</a></li>
+                                        <li><a href="c-184-exotic.aspx">Exotic</a></li>
+                                        <li><a href="c-168-flat.aspx">Flat</a></li>
+                                        <li><a href="c-177-glitter.aspx">Glitter</a></li>
+                                        <li><a href="c-59-high-heel.aspx">High Heel</a></li>
+                                        <li><a href="c-60-low-heel.aspx">Low Heel</a></li>
+                                        <li><a href="c-58-platform.aspx">Platform</a></li>
+                                        <li><a href="c-10-pump.aspx">Pump</a></li>
+                                        <li><a href="c-134-slingback.aspx">Slingback</a></li>
+                                        <li><a href="c-3-wedge.aspx">Wedge</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col_1">
+                                    <h3><a href="c-17-casual-shoes.aspx">All Casual Shoes</a></h3>
+                                    <ul>
+                                        <li><a href="c-187-animal-print.aspx">Animal Print</a></li><a href="c-187-animal-print.aspx">
+                                        </a><li><a href="c-187-animal-print.aspx"></a><a href="c-144-boat-shoe.aspx">Boat Shoe</a></li>
+                                        <li><a href="c-122-espadrille.aspx">Espadrille</a></li>
+                                        <li><a href="c-34-flat.aspx">Flat</a></li>
+                                        <li><a href="c-185-glitter.aspx">Glitter</a></li>
+                                        <li><a href="c-29-lace-up.aspx">Lace-up</a></li>
+                                        <li><a href="c-147-mary-jane.aspx">Mary Jane</a></li>
+                                        <li><a href="c-119-platform.aspx">Platform</a></li>
+                                        <li><a href="c-135-slingback.aspx">Slingback</a></li>
+                                        <li><a href="c-25-slip-on.aspx">Slip-on</a></li>
+                                        <li><a href="c-116-slippers.aspx">Slippers</a></li>
+                                        <li><a href="c-118-sneaker.aspx">Sneaker</a></li>
+                                        <li><a href="c-19-wedge.aspx">Wedge</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col_1">
+                                    <h3><a href="c-40-boots.aspx">All Boots</a></h3>
+                                    <ul>
+                                        <li><a href="c-136-ankle.aspx">Ankle</a></li><a href="c-136-ankle.aspx">
+                                        </a><li><a href="c-136-ankle.aspx"></a><a href="c-188-color-block.aspx">Color Block</a></li>
+                                        <li><a href="c-67-flat.aspx">Flat</a></li>
+                                        <li><a href="c-148-fur.aspx">Fur</a></li>
+                                        <li><a href="c-42-high-heel.aspx">High Heel</a></li>
+                                        <li><a href="c-138-knee-high.aspx">Knee-High</a></li>
+                                        <li><a href="c-162-knit-boots.aspx">Knit Boots</a></li>
+                                        <li><a href="c-41-low-heel.aspx">Low Heel</a></li>
+                                        <li><a href="c-137-mid-calf.aspx">Mid-Calf</a></li>
+                                        <li><a href="c-176-military-combat.aspx">Military/Combat</a></li>
+                                        <li><a href="c-160-platform.aspx">Platform</a></li>
+                                        <li><a href="c-161-rain-boots.aspx">Rain Boots</a></li>
+                                        <li><a href="c-139-thigh-high.aspx">Thigh-High</a></li>
+                                        <li><a href="c-66-wedge.aspx">Wedge</a></li>
+                                        <li><a href="c-163-western-riding.aspx">Western/Riding</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col_1">
+                                    <h3><a href="c-65-sandals.aspx">All Sandals</a></h3>
+                                    <ul>
+                                        <li><a href="c-121-espadrille.aspx">Espadrille</a></li>
+                                        <li><a href="c-156-exotic.aspx">Exotic</a></li>
+                                        <li><a href="c-87-flat.aspx">Flat</a></li>
+                                        <li><a href="c-92-flip-flop.aspx">Flip Flop</a></li>
+                                        <li><a href="c-191-gladiator.aspx">Gladiator</a></li>
+                                        <li><a href="c-91-high-heel-.aspx">High Heel </a></li>
+                                        <li><a href="c-167-jeweled.aspx">Jeweled</a></li>
+                                        <li><a href="c-88-low-heel.aspx">Low Heel</a></li>
+                                        <li><a href="c-120-platform.aspx">Platform</a></li>
+                                        <li><a href="c-133-slingback.aspx">Slingback</a></li>
+                                        <li><a href="c-93-strappy-.aspx">Strappy </a></li>
+                                        <li><a href="c-123-thong.aspx">Thong</a></li>
+                                        <li><a href="c-158-t-strap.aspx">T-Strap</a></li>
+                                        <li><a href="c-89-wedge.aspx">Wedge</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col_1">
+                                    <h3><a href="c-43-athletic.aspx">All Athletics</a></h3>
+                                    <ul>
+                                        <li><a href="c-105-court.aspx">Court</a></li>
+                                        <li><a href="c-113-fitness.aspx">Fitness</a></li>
+                                        <li><a href="c-106-lifestyle.aspx">Lifestyle</a></li>
+                                        <li><a href="c-107-running.aspx">Running</a></li>
+                                        <li><a href="c-108-skate.aspx">Skate</a></li>
+                                        <li><a href="c-143-walking.aspx">Walking</a></li>
+                                    </ul>
+                                </div>
+                                <p>
+                                    <br clear="all">
+                                </p>
+                                <p>
+                                    <a href="t-lookbook.aspx">
+                                        <img alt="Look Book" src="skins/Skin_2/images/Banner_LookBook.gif" width="765px">
+                                    </a>
+                                </p>
+                            </div>
+                        </li>
+                        <li><a href="c-44-mens-shoes.aspx" class="drop">MENS</a>
+                            <div class="dropdown_4columns">
+                                <div class="col_1 firstcolumn">
+                                    <h3><a href="c-85-dress-shoes.aspx">All Dress Shoes</a></h3>
+                                    <ul>
+                                        <li><a href="c-189-exotic.aspx">Exotic</a></li>
+                                        <li><a href="c-111-lace-up.aspx">Lace-up</a></li>
+                                        <li><a href="c-112-slip-on.aspx">Slip-on</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col_1">
+                                    <h3><a href="c-45-casual-shoes.aspx">All Casual Shoes</a></h3>
+                                    <ul>
+                                        <li><a href="c-142-boat-shoe.aspx">Boat Shoe</a></li>
+                                        <li><a href="c-109-lace-up.aspx">Lace-up</a></li>
+                                        <li><a href="c-104-sandals.aspx">Sandals</a></li>
+                                        <li><a href="c-110-slip-on.aspx">Slip-on</a></li>
+                                        <li><a href="c-83-slippers.aspx">Slippers</a></li>
+                                        <li><a href="c-124-sneaker.aspx">Sneaker</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col_1">
+                                    <h3><a href="c-46-boots.aspx">All Boots</a></h3>
+                                    <ul>
+                                        <li><a href="c-114-casual.aspx">Casual</a></li>
+                                        <li><a href="c-115-dress.aspx">Dress</a></li>
+                                        <li><a href="c-169-work.aspx">Work</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col_1">
+                                    <h3><a href="c-47-athletic.aspx">All Athletics</a></h3>
+                                    <ul>
+                                        <li><a href="c-98-basketball.aspx">Basketball</a></li>
+                                        <li><a href="c-99-lifestyle.aspx">Lifestyle</a></li>
+                                        <li><a href="c-97-running.aspx">Running</a></li>
+                                        <li><a href="c-102-skate.aspx">Skate</a></li>
+                                        <li><a href="c-101-tennis.aspx">Tennis</a></li>
+                                        <li><a href="c-100-training.aspx">Training</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+                        <li><a href="c-48-kids-shoes.aspx" class="drop">KIDS</a>
+                            <div class="dropdown_1column">
+                                <div class="col_1 firstcolumn">
+                                    <ul class="levels">
+                                        <li><a href="c-49-infant.aspx">Infant</a></li>
+                                        <li><a href="c-103-toddler.aspx">Toddler</a></li>
+                                        <li><a href="c-50-youth.aspx">Youth</a></li>
+                                        <li><a href="c-149-kids-boots.aspx">Kids Boots</a></li>
+                                        <li><a href="c-125-kids-sandals.aspx">Kids Sandals</a></li>
+                                        <li><a href="c-126-kids-skate.aspx">Kids Skate</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+                        <li><a href="c-51-apparel.aspx" class="drop">APPAREL</a>
+                            <div class="dropdown_2columns">
+                                <div class="col_1 firstcolumn">
+                                    <h3><a href="c-127-mens-apparel.aspx">All Mens Apparel</a></h3>
+                                    <ul>
+                                        <li><a href="c-132-hoodies.aspx">Hoodies</a></li>
+                                        <li><a href="c-57-jackets.aspx">Jackets</a></li>
+                                        <li><a href="c-55-pants.aspx">Pants</a></li>
+                                        <li><a href="c-129-polos.aspx">Polos</a></li>
+                                        <li><a href="c-52-shirts.aspx">Shirts</a></li>
+                                        <li><a href="c-131-shorts.aspx">Shorts</a></li>
+                                        <li><a href="c-164-sweaters.aspx">Sweaters</a></li>
+                                        <li><a href="c-130-tees.aspx">Tees</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col_1">
+                                    <h3><a href="c-128-womens-apparel.aspx">All Womens Apparel</a></h3>
+                                    <ul>
+                                        <li><a href="c-173-bottoms.aspx">Bottoms</a></li>
+                                        <li><a href="c-174-dresses.aspx">Dresses</a></li>
+                                        <li><a href="c-172-tops.aspx">Tops</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+                        <li><a href="c-78-accessories.aspx" class="drop">ACCESSORIES</a>
+                            <div class="dropdown_3columns">
+                                <div class="col_1 firstcolumn">
+                                    <h3><a href="c-56-hats.aspx">All Hats</a></h3>
+                                    <ul>
+                                        <li><a href="c-192-adjustable.aspx">Adjustable</a></li>
+                                        <li><a href="c-201-college.aspx">College</a></li>
+                                        <li><a href="c-183-fitted.aspx">Fitted</a></li>
+                                        <li><a href="c-199-mlb.aspx">MLB</a></li>
+                                        <li><a href="c-198-nba.aspx">NBA</a></li>
+                                        <li><a href="c-196-nfl.aspx">NFL</a></li>
+                                        <li><a href="c-200-nhl.aspx">NHL</a></li>
+                                        <li><a href="c-182-snap-back.aspx">Snap Back</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col_1">
+                                    <h3><a href="c-79-bags-and-handbags.aspx">Bags and Handbags</a></h3>
+                                    <ul>
+                                        <li><a href="c-194-backpacks.aspx">Backpacks</a></li>
+                                        <li><a href="c-205-clutches.aspx">Clutches</a></li>
+                                        <li><a href="c-206-cross-body-bags.aspx">Cross Body Bags</a></li>
+                                        <li><a href="c-193-duffle-bags.aspx">Duffle Bags</a></li>
+                                        <li><a href="c-209-hobos.aspx">Hobos</a></li>
+                                        <li><a href="c-210-satchels.aspx">Satchels</a></li>
+                                        <li><a href="c-190-shoulder-bags.aspx">Shoulder Bags</a></li>
+                                        <li><a href="c-208-wristlets.aspx">Wristlets</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col_1">
+                                    <h3>Other Accessories</h3>
+                                    <ul>
+                                        <li><a href="c-165-socks-and-hosiery.aspx">Socks and Hosiery</a></li>
+                                        <li><a href="c-166-insoles.aspx">Insoles</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+                        <li><a href="brands.aspx" class="drop">BRANDS</a>
+                            <div class="dropdown_3columns align_right">
+                                <h2>Featured Brands</h2>
+                                <div class="col_1 firstcolumn">
+                                    <ul class="greybox">
+                                        <li><a href="m-133-clarks.aspx">Clarks</a></li>
+                                        <li><a href="b-5-converse.aspx">Converse</a></li>
+                                        <li><a href="b-50-creative-recreation.aspx">Creative Recreation</a></li>
+                                        <li><a href="m-84-levi-s.aspx">Levi's</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col_1">
+                                    <ul class="greybox">
+                                        <li><a href="m-189-madden-girl.aspx">Madden Girl</a></li>
+                                        <li><a href="m-67-michael-antonio.aspx">Michael Antonio</a></li>
+                                        <li><a href="m-163-polo-ralph-lauren.aspx">Polo Ralph Lauren</a></li>
+                                        <li><a href="m-9-puma.aspx">Puma</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col_1">
+                                    <ul class="greybox">
+                                        <li><a href="m-131-qupid.aspx">Qupid</a></li>
+                                        <li><a href="m-291-sebago.aspx">Sebago</a></li>
+                                        <li><a href="b-3-shiekh.aspx">Shiekh</a></li>
+                                        <li><a href="b-8-timberland.aspx">Timberland</a></li>
+                                    </ul>
+                                    <br>
+                                </div>
+                                <p>
+                                    <br clear="all">
+                                </p>
+                                <h3><a href="brands.aspx">All Brands</a></h3>
+                                <p>
+                                    <br clear="all">
+                                </p>
+                                <h2>Brands By Category</h2>
+                                <div class="col_1 firstcolumn">
+                                    <h3>Women's</h3>
+                                    <ul>
+                                        <li><a href="Brands.aspx?CatID=9">Dress</a></li>
+                                        <li><a href="Brands.aspx?CatID=17">Casual</a></li>
+                                        <li><a href="Brands.aspx?CatID=40">Boots</a></li>
+                                        <li><a href="Brands.aspx?CatID=43">Athletic</a></li>
+                                        <li><a href="Brands.aspx?CatID=65">Sandals</a></li>
+                                        <li><a href="Brands.aspx?CatID=116">Slippers</a></li>
+                                        <li><a href="Brands.aspx?CatID=215">Costume</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col_1">
+                                    <h3>Men's</h3>
+                                    <ul>
+                                        <li><a href="Brands.aspx?CatID=45">Casual</a></li>
+                                        <li><a href="Brands.aspx?CatID=46">Boots</a></li>
+                                        <li><a href="Brands.aspx?CatID=47">Athletic</a></li>
+                                        <li><a href="Brands.aspx?CatID=83">Slippers</a></li>
+                                        <li><a href="Brands.aspx?CatID=85">Dress</a></li>
+                                        <li><a href="Brands.aspx?CatID=104">Sandals</a></li>
+                                        <li><a href="Brands.aspx?CatID=214">Costume</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col_1">
+                                    <h3>Kids'</h3>
+                                    <ul>
+                                        <li><a href="Brands.aspx?CatID=49">Infant</a></li>
+                                        <li><a href="Brands.aspx?CatID=50">Youth</a></li>
+                                        <li><a href="Brands.aspx?CatID=103">Toddler</a></li>
+                                        <li><a href="Brands.aspx?CatID=125">Kids Sandals</a></li>
+                                        <li><a href="Brands.aspx?CatID=126">Kids Skate</a></li>
+                                        <li><a href="Brands.aspx?CatID=149">Kids Boots</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+                        <li><a href="salelanding.aspx" class="drop">SALE</a>
+                            <div class="dropdown_5columns align_right">
+                                <div class="col_1 firstcolumn">
+                                    <h3>Women's</h3>
+                                    <ul>
+                                        <li><a href="c-2-womens-shoes-on-sale.aspx?OnSale=1">Women's On Sale</a></li>
+                                        <li><a href="c-43-athletic-on-sale.aspx?OnSale=1">Athletic On Sale</a></li>
+                                        <li><a href="c-40-boots-on-sale.aspx?OnSale=1">Boots On Sale</a></li>
+                                        <li><a href="c-17-casual-on-sale.aspx?OnSale=1">Casual On Sale</a></li>
+                                        <li><a href="c-215-costume-on-sale.aspx?OnSale=1">Costume On Sale</a></li>
+                                        <li><a href="c-9-dress-on-sale.aspx?OnSale=1">Dress On Sale</a></li>
+                                        <li><a href="c-65-sandals-on-sale.aspx?OnSale=1">Sandals On Sale</a></li>
+                                        <li><a href="c-116-slippers-on-sale.aspx?OnSale=1">Slippers On Sale</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col_1">
+                                    <h3>Men's</h3>
+                                    <ul>
+                                        <li><a href="c-44-mens-shoes-on-sale.aspx?OnSale=1">Men's Shoes On Sale</a></li>
+                                        <li><a href="c-47-athletic-on-sale.aspx?OnSale=1">Athletic On Sale</a></li>
+                                        <li><a href="c-46-boots-on-sale.aspx?OnSale=1">Boots On Sale</a></li>
+                                        <li><a href="c-45-casual-on-sale.aspx?OnSale=1">Casual On Sale</a></li>
+                                        <li><a href="c-85-dress-on-sale.aspx?OnSale=1">Dress On Sale</a></li>
+                                        <li><a href="c-104-sandals-on-sale.aspx?OnSale=1">Sandals On Sale</a></li>
+                                        <li><a href="c-83-slippers-on-sale.aspx?OnSale=1">Slippers On Sale</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col_1">
+                                    <h3>Kids'</h3>
+                                    <ul>
+                                        <li><a href="c-48-kids-shoes-on-sale.aspx?OnSale=1">Kid's Shoes On Sale</a></li>
+                                        <li><a href="c-49-infant-on-sale.aspx?OnSale=1">Infant On Sale</a></li>
+                                        <li><a href="c-149-kids-boots-on-sale.aspx?OnSale=1">Kids Boots On Sale</a></li>
+                                        <li><a href="c-125-kids-sandals-on-sale.aspx?OnSale=1">Kids Sandals On Sale</a></li>
+                                        <li><a href="c-126-kids-skate-on-sale.aspx?OnSale=1">Kids Skate On Sale</a></li>
+                                        <li><a href="c-103-toddler-on-sale.aspx?OnSale=1">Toddler On Sale</a></li>
+                                        <li><a href="c-50-youth-on-sale.aspx?OnSale=1">Youth On Sale</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col_1">
+                                    <h3>Apparel</h3>
+                                    <ul>
+                                        <li><a href="c-51-apparel-on-sale.aspx?OnSale=1">Apparel On Sale</a></li>
+                                        <li><a href="c-127-mens-on-sale.aspx?OnSale=1">Mens On Sale</a></li>
+                                        <li><a href="c-128-womens--on-sale.aspx?OnSale=1">Womens On Sale</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col_1">
+                                    <h3>Accessories</h3>
+                                    <ul>
+                                        <li><a href="c-78-accessories-on-sale.aspx?OnSale=1">Accessories On Sale</a></li>
+                                        <li><a href="c-79-bags-and-handbags-on-sale.aspx?OnSale=1">Bags and Handbags On Sale
+                                        </a></li>
+                                        <li><a href="c-56-hats-on-sale.aspx?OnSale=1">Hats On Sale</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+                        <li><a href="newarrive.aspx" class="drop">NEW</a>
+                            <div class="dropdown_3columns align_right">
+                                <h2>Shop our large selection of New Products</h2>
+                                <div class="col_1 firstcolumn">
+                                    <ul class="greybox">
+                                        <li><a href="newArrive.aspx?CatID=2">Women's</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col_1">
+                                    <ul class="greybox">
+                                        <li><a href="newArrive.aspx?CatID=44">Men's</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col_1">
+                                    <ul class="greybox">
+                                        <li><a href="newArrive.aspx?CatID=48">Kids'</a></li>
+                                    </ul>
+                                    <br>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                    <!-- END MENU -->
                 </div>
-
-
-                </div><!-- END HEADER WRAPPER -->
-
-
-                <!--Inside scope right DIV-->
-                
-                
-                <div id="bodyWrapper">
-                    <div id="ML">
-                        <div style="visibility: hidden; display: none;">
-                            Language: </div>
-                        <div style="visibility: hidden; display: none;">
-                            Currency: </div>
-                        <div style="visibility: hidden; display: none;">
-                            VAT Mode: </div>
-                    </div>
-                    <div id="content">
-                        <!-- CONTENTS START -->
-                        <!-- READ FROM DB --><img src="images/Free-shipping-banner.jpg">
+            </div>
+        </div>
+        <!-- END HEADER WRAPPER -->
+        <!--Inside scope right DIV-->
+        
+        
+        <div id="bodyWrapper">
+            <div id="ML">
+                <div style="visibility: hidden; display: none;">
+                    Language: 
+                </div>
+                <div style="visibility: hidden; display: none;">
+                    Currency: 
+                </div>
+                <div style="visibility: hidden; display: none;">
+                    VAT Mode: 
+                </div>
+            </div>
+            <div id="content">
+                <!-- CONTENTS START -->
+                <!-- READ FROM DB --><img src="images/Free-shipping-banner.jpg">
 <table width="745" align="center">
     <tbody>
         <tr>
@@ -261,159 +611,263 @@ CACHE MENUS: True
 <!-- END OF DB -->
 
 
-                        <!-- CONTENTS END -->
-                    </div>
-                </div>
-                <!-- bodywrapper -->
+                <!-- CONTENTS END -->
+            </div>
+        </div>
+        <!-- bodywrapper -->
+        <table style="background-color: #fcfcfc; width: 922px; text-align: left;">
+            <tbody><tr>
+                <td valign="top" style="width: 185px; padding: 20px 20px 20px 20px;"><a style="color: #8a8a8a;
+                    font-size: 12pt; font-weight: bold;">WOMEN'S</a>
+                    <br>
+                    <br>
+                    <a href="c-9-womens_dress_shoes.aspx" style="color: #015897; font-size: 10pt;">Women's
+                        Dress Shoes</a>
+                    <br>
+                    <a href="c-17-womens_casual_shoes.aspx" style="color: #015897; font-size: 10pt;">Women's
+                        Casual Shoes</a>
+                    <br>
+                    <a href="c-65-womens-sandals.aspx" style="color: #015897; font-size: 10pt;">Women's
+                        Sandals</a>
+                    <br>
+                    <a href="c-40-womens_boots.aspx" style="color: #015897; font-size: 10pt;">Women's Boots
+                    </a>
+                    <br>
+                    <a href="c-43-womens_athletic_shoes.aspx" style="color: #015897; font-size: 10pt;">Women's
+                        Athletic Shoes</a>
+                    <br>
+                    <a href="c-2-womens-shoes.aspx" style="color: #015897; font-size: 10pt;">More</a>
+                    <br>
+                </td>
+                <td valign="top" style="width: 184px; padding: 20px 20px 20px 20px;"><a style="color: #8a8a8a;
+                    font-size: 12pt; font-weight: bold;">MEN'S</a>
+                    <br>
+                    <br>
+                    <a href="c-85-mens_dress_shoes.aspx" style="color: #015897; font-size: 10pt;">Men's
+                        Dress Shoes</a>
+                    <br>
+                    <a href="c-45-mens_casual_shoes.aspx" style="color: #015897; font-size: 10pt;">Men's
+                        Casual Shoes</a>
+                    <br>
+                    <a href="c-104-mens_sandal.aspx" style="color: #015897; font-size: 10pt;">Men's Sandals
+                    </a>
+                    <br>
+                    <a href="c-46-mens_boots.aspx" style="color: #015897; font-size: 10pt;">Men's Boots
+                    </a>
+                    <br>
+                    <a href="c-47-mens_athletic_shoes.aspx" style="color: #015897; font-size: 10pt;">Men's
+                        Athletic Shoes</a>
+                    <br>
+                    <a href="c-44-mens-shoes.aspx" style="color: #015897; font-size: 10pt;">More</a>
+                    <br>
+                </td>
+                <td valign="top" style="width: 184px; padding: 20px 0px 20px 35px;"><a style="color: #8a8a8a;
+                    font-size: 12pt; font-weight: bold;">KID'S</a>
+                    <br>
+                    <br>
+                    <a href="c-48-kids-shoes.aspx" style="color: #015897; font-size: 10pt;">Kids Shoes
+                    </a>
+                    <br>
+                    <a href="c-149-kids-boots.aspx" style="color: #015897; font-size: 10pt;">Kids Boots
+                    </a>
+                    <br>
+                    <a href="c-126-kids-skate.aspx" style="color: #015897; font-size: 10pt;">Kids Skate
+                        Shoes</a>
+                    <br>
+                    <a href="c-49-infant.aspx" style="color: #015897; font-size: 10pt;">Infants Shoes
+                    </a>
+                    <br>
+                    <a href="c-103-toddler.aspx" style="color: #015897; font-size: 10pt;">Toddlers Shoes
+                    </a>
+                    <br>
+                    <a href="c-48-kids-shoes.aspx" style="color: #015897; font-size: 10pt;">More</a>
+                    <br>
+                </td>
+                <td valign="top" style="width: 184px; padding: 20px 0px 20px 40px;"><a style="color: #8a8a8a;
+                    font-size: 12pt; font-weight: bold;">APPAREL</a>
+                    <br>
+                    <br>
+                    <a href="c-79-hand-bags.aspx" style="color: #015897; font-size: 10pt;">Bags and Handbags
+                    </a>
+                    <br>
+                    <a href="c-56-hats_caps.aspx" style="color: #015897; font-size: 10pt;">Hats</a>
+                    <br>
+                    <a href="c-78-accessories.aspx" style="color: #015897; font-size: 10pt;">All Accessories
+                    </a>
+                    <br>
+                    <a href="c-127-mens.aspx" style="color: #015897; font-size: 10pt;">Men's Apparel
+                    </a>
+                    <br>
+                    <a href="c-128-womens.aspx" style="color: #015897; font-size: 10pt;">Womens' Apparel
+                    </a>
+                    <br>
+                    <a href="c-51-apparel.aspx" style="color: #015897; font-size: 10pt;">More</a>
+                    <br>
+                </td>
+                <td valign="top" style="width: 185px; padding: 20px 20px 20px 20px;"><a style="color: #8a8a8a;
+                    font-size: 12pt; font-weight: bold;">SALE</a>
+                    <br>
+                    <br>
+                    <a href="gallery.aspx?CatID=44&amp;OnSale=1" style="color: #015897; font-size: 10pt;">Men's
+                        Sale Shoes</a>
+                    <br>
+                    <a href="gallery.aspx?CatID=2&amp;OnSale=1" style="color: #015897; font-size: 10pt;">Women's
+                        Sale Shoes</a>
+                    <br>
+                    <a href="gallery.aspx?CatID=51&amp;OnSale=1" style="color: #015897; font-size: 10pt;">Men's
+                        Apparel Sale</a>
+                    <br>
+                    <a href="gallery.aspx?CatID=48&amp;OnSale=1" style="color: #015897; font-size: 10pt;">Childrens
+                        Sale Shoes</a>
+                    <br>
+                    <a href="salelanding.aspx" style="color: #015897; font-size: 10pt;">Cheap Shoes Online
+                    </a>
+                    <br>
+                    <a href="salelanding.aspx" style="color: #015897; font-size: 10pt;">More</a>
+                    <br>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="5" style="font-family: verdana; color: #7A7979; font-size: 9pt; padding: 10px 25px 10px 25px;">
+                    <p>
+                        If you are looking for a great place to <a href="default.aspx">buy shoes online</a>
+                        buy shoes online, check out Shiekh Shoes. We may not be the biggest <a href="default.aspx">
+                            online shoe store</a>, or have the most extensive selection of <a href="c-79-packs_bags_purses.aspx">
+                                handbags online</a>, but our prices are the best online. So when looking
+                        to buy shoes online at a great price, consider Shiekh Shoes as your <a href="default.aspx">
+                            online shoe source</a>. Shiekh is known for offering <a href="salelanding.aspx">great
+                                value footwear</a> under the Shiekh label on products similar to the brand
+                        names. And if <a href="default.aspx">buying shoes online</a> isn’t your first choice,
+                        check out one of many <a href="stores.aspx">shoes stores</a> through out California,
+                        Nevada, Texas, Arizona, New Mexico, Washington, Oregon, and now in Michigan and
+                        Illinois.
+                    </p>
+                </td>
+            </tr>
+        </tbody></table>
+        <div id="footer_new">
+            <img style="width: 922px; height: 2px;" alt="" src="skins/Skin_2/images/line.gif"><div id="footer_new_HelpInfo">
                 
-                <table style="background-color:#fcfcfc; width:922px; text-align:left;" ;="">
+                <table>
                     <tbody><tr>
-                        <td valign="top" style="width:185px; padding:20px 20px 20px 20px;">
-                            <a style="COLOR: #8a8a8a; FONT-SIZE: 12pt; FONT-WEIGHT: bold;">WOMEN'S</a>
-                            <br><br>                          
-                            <a href="http://www.shiekhshoes.com/c-9-womens_dress_shoes.aspx" style="COLOR: #015897; FONT-SIZE: 10pt;">Women's Dress Shoes</a><br>
-                            <a href="http://www.shiekhshoes.com/c-17-womens_casual_shoes.aspx" style="COLOR: #015897; FONT-SIZE: 10pt;">Women's Casual Shoes</a><br>
-                            <a href="http://www.shiekhshoes.com/c-65-womens-sandals.aspx" style="COLOR: #015897; FONT-SIZE: 10pt;">Women's Sandals</a><br>
-                            <a href="http://www.shiekhshoes.com/c-40-womens_boots.aspx" style="COLOR: #015897; FONT-SIZE: 10pt;">Women's Boots</a><br>
-                            <a href="http://www.shiekhshoes.com/c-43-womens_athletic_shoes.aspx" style="COLOR: #015897; FONT-SIZE: 10pt;">Women's Athletic Shoes</a><br>
-                            <a href="http://www.shiekhshoes.com/c-2-womens-shoes.aspx" style="COLOR: #015897; FONT-SIZE: 10pt;">More</a><br>
-                        </td>
-                        <td valign="top" style="width:184px; padding:20px 20px 20px 20px;">
-                            <a style="COLOR: #8a8a8a; FONT-SIZE: 12pt; FONT-WEIGHT: bold;">MEN'S</a>
-                            <br><br>                          
-                            <a href="http://www.shiekhshoes.com/c-85-mens_dress_shoes.aspx" style="COLOR: #015897; FONT-SIZE: 10pt;">Men's Dress Shoes</a><br>
-                            <a href="http://www.shiekhshoes.com/c-45-mens_casual_shoes.aspx" style="COLOR: #015897; FONT-SIZE: 10pt;">Men's Casual Shoes</a><br>
-                            <a href="http://www.shiekhshoes.com/c-104-mens_sandal.aspx" style="COLOR: #015897; FONT-SIZE: 10pt;">Men's Sandals</a><br>
-                            <a href="http://www.shiekhshoes.com/c-46-mens_boots.aspx" style="COLOR: #015897; FONT-SIZE: 10pt;">Men's Boots</a><br>
-                            <a href="http://www.shiekhshoes.com/c-47-mens_athletic_shoes.aspx" style="COLOR: #015897; FONT-SIZE: 10pt;">Men's Athletic Shoes</a><br>
-                            <a href="http://www.shiekhshoes.com/c-44-mens-shoes.aspx" style="COLOR: #015897; FONT-SIZE: 10pt;">More</a><br>
-                        </td>
-                        <td valign="top" style="width:184px; padding:20px 0px 20px 35px;">
-                            <a style="COLOR: #8a8a8a; FONT-SIZE: 12pt; FONT-WEIGHT: bold;">KID'S</a>
-                            <br><br>                          
-                            <a href="http://www.shiekhshoes.com/c-48-kids-shoes.aspx" style="COLOR: #015897; FONT-SIZE: 10pt;">Kids Shoes</a><br>
-                            <a href="http://www.shiekhshoes.com/c-149-kids-boots.aspx" style="COLOR: #015897; FONT-SIZE: 10pt;">Kids Boots</a><br>
-                            <a href="http://www.shiekhshoes.com/c-126-kids-skate.aspx" style="COLOR: #015897; FONT-SIZE: 10pt;">Kids Skate Shoes</a><br>
-                            <a href="http://www.shiekhshoes.com/c-49-infant.aspx" style="COLOR: #015897; FONT-SIZE: 10pt;">Infants Shoes</a><br>
-                            <a href="http://www.shiekhshoes.com/c-103-toddler.aspx" style="COLOR: #015897; FONT-SIZE: 10pt;">Toddlers Shoes</a><br>
-                            <a href="http://www.shiekhshoes.com/c-48-kids-shoes.aspx" style="COLOR: #015897; FONT-SIZE: 10pt;">More</a><br>
-                        </td>
-                        <td valign="top" style="width:184px; padding:20px 0px 20px 40px;">
-                            <a style="COLOR: #8a8a8a; FONT-SIZE: 12pt; FONT-WEIGHT: bold;">APPAREL</a>
-                            <br><br>                          
-                            <a href="http://www.shiekhshoes.com/c-79-hand-bags.aspx" style="COLOR: #015897; FONT-SIZE: 10pt;">Handbags</a><br>
-                            <a href="http://www.shiekhshoes.com/c-56-hats_caps.aspx" style="COLOR: #015897; FONT-SIZE: 10pt;">Hats</a><br>
-                            <a href="http://www.shiekhshoes.com/c-78-accessories.aspx" style="COLOR: #015897; FONT-SIZE: 10pt;">All Accessories</a><br>
-                            <a href="http://www.shiekhshoes.com/c-127-mens.aspx" style="COLOR: #015897; FONT-SIZE: 10pt;">Men's Apparel</a><br>
-                            <a href="http://www.shiekhshoes.com/c-128-womens.aspx" style="COLOR: #015897; FONT-SIZE: 10pt;">Womens' Apparel</a><br>
-                            <a href="http://www.shiekhshoes.com/c-51-apparel.aspx" style="COLOR: #015897; FONT-SIZE: 10pt;">More</a><br>
-                        </td>
-                        <td valign="top" style="width:185px; padding:20px 20px 20px 20px;">
-                            <a style="COLOR: #8a8a8a; FONT-SIZE: 12pt; FONT-WEIGHT: bold;">SALE</a>
-                            <br><br>                          
-                            <a href="http://www.shiekhshoes.com/gallery.aspx?CatID=44&amp;OnSale=1" style="COLOR: #015897; FONT-SIZE: 10pt;">Men's Sale Shoes</a><br>
-                            <a href="http://www.shiekhshoes.com/gallery.aspx?CatID=2&amp;OnSale=1" style="COLOR: #015897; FONT-SIZE: 10pt;">Women's Sale Shoes</a><br>
-                            <a href="http://www.shiekhshoes.com/gallery.aspx?CatID=51&amp;OnSale=1" style="COLOR: #015897; FONT-SIZE: 10pt;">Men's Apparel Sale</a><br>
-                            <a href="http://www.shiekhshoes.com/gallery.aspx?CatID=48&amp;OnSale=1" style="COLOR: #015897; FONT-SIZE: 10pt;">Childrens Sale Shoes</a><br>
-                            <a href="http://www.shiekhshoes.com/salelanding.aspx" style="COLOR: #015897; FONT-SIZE: 10pt;">Cheap Shoes Online</a><br>
-                            <a href="http://www.shiekhshoes.com/salelanding.aspx" style="COLOR: #015897; FONT-SIZE: 10pt;">More</a><br>
-                        </td>
+                        <td><a href="Tracking.aspx">TRACK ORDER</a></td>
+                        <td><a href="stores.aspx">FIND A STORE</a></td>
+                        <td><a href="t-glossary.aspx">GLOSSARY OF TERMS</a></td>
                     </tr>
+                    
                     <tr>
-                        <td colspan="5" style="font-family:verdana; color: #7A7979; font-size:9pt; padding: 10px 25px 10px 25px;">
-                            <p>If you are looking for a great place to buy shoes online, check out Shiekh Shoes. We may not be the biggest online shoe store, or have the most extensive selection of handbags online, but our prices are the best online. So when looking to buy shoes online at a great price, consider Shiekh Shoes your online shoe source. Shiekh is known for offering great value footwear under the Shiekh label on products similar to the brand names. And if buying shoes online isn’t your first choice, check out one of many shoes stores throughout California, Nevada, Texas, Arizona, New Mexico, Washington and Oregon.</p>
-                        </td>
+                        <td><a href="t-returns.aspx">RETURN POLICY</a></td>
+                        <td><a href="t-shipping.aspx">SHIPPING INFO</a></td>
+                        <td><a href="t-privacy.aspx">PRIVACY POLICY</a></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><a href="t-service.aspx">CUSTOMER SERVICE</a></td>
+                        <td><a href="t-SizeChart.aspx">SIZE CHART</a></td>
+                        <td><a href="t-termsandconditions.aspx">TERMS OF USE</a></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><a href="t-contact.aspx">CONTACT US</a></td>
+                        <td><a href="sitemap2.aspx">SITE MAP</a></td>
+                        <td><a href="t-affiliate.aspx">AFFILIATE PROGRAM</a></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><a href="t-faq.aspx">FAQ</a></td>
+                        <td><a href="t-security.aspx">SECURITY</a></td>
+                        <td><a href="t-100PriceGurantee.aspx">100% PRICE GUARANTEE</a></td>
+                    </tr>
+                    
+                    <tr>
+                        <td><a href="career.aspx">CAREERS</a></td>
+                        <td><a href="t-AsSeenIn.aspx">AS SEEN IN</a></td>
+                        <td> </td>
                     </tr>
                 </tbody></table>
-
-                <div id="footer_new">
-
-
-
-                    <img style="width: 922px; height: 2px;" alt="" src="skins/Skin_2/images/line.gif"><div id="footer_new_HelpInfo">
-                        
-
-            <table>
-            <tbody><tr>
-                <td><a href="http://www.shiekhshoes.com/Tracking.aspx">TRACK ORDER</a></td>
-                <td><a href="http://www.shiekhshoes.com/stores.aspx">FIND A STORE</a></td>
-                <td><a href="http://www.shiekhshoes.com/t-glossary.aspx">GLOSSARY OF TERMS</a></td>
-            </tr>
-           
-            <tr>
-                <td><a href="http://www.shiekhshoes.com/t-returns.aspx">RETURN POLICY</a></td>
-                <td><a href="http://www.shiekhshoes.com/t-shipping.aspx">SHIPPING INFO</a></td>
-                <td><a href="http://www.shiekhshoes.com/t-privacy.aspx">PRIVACY POLICY</a></td>
-            </tr>
-          
-            <tr>
-                <td><a href="http://www.shiekhshoes.com/t-service.aspx">CUSTOMER SERVICE</a></td>
-                <td><a href="http://www.shiekhshoes.com/t-SizeChart.aspx">SIZE CHART</a></td>
-                <td><a href="http://www.shiekhshoes.com/t-termsandconditions.aspx">TERMS OF USE</a></td>
-            </tr>
-           
-            <tr>
-                <td><a href="http://www.shiekhshoes.com/t-contact.aspx">CONTACT US</a></td>
-                <td><a href="sitemap2.aspx">SITE MAP</a></td>
-                <td><a href="http://www.shiekhshoes.com/t-affiliate.aspx">AFFILIATE PROGRAM</a></td>
-            </tr>
-           
-             <tr>
-                <td><a href="http://www.shiekhshoes.com/t-faq.aspx">FAQ</a></td>
-                <td><a href="http://www.shiekhshoes.com/t-security.aspx">SECURITY</a></td>
-                <td><a href="http://www.shiekhshoes.com/t-100PriceGurantee.aspx">100% PRICE GUARANTEE</a></td>
-            </tr>
-            
-            <tr>
-                <td><a href="http://www.shiekhshoes.com/career.aspx">CAREERS</a></td>
-                <td>&nbsp;</td>
-                <td>&nbsp;</td>
-            </tr>
-            </tbody></table>
-
-                    </div>
-                    <div id="footer_new_ShiekhMail">
-                        
-                        <div style="position: relative; right: 100px; top: 80px; float: right; width: 230px;">
-                            
-                           
-                            <font color="#FFFFFF">%CONTENTS%</font>
-                          
-                            
-                            <input type="text" size="15" id="daEmail" style="border: solid 2px #03baff; width: 320px; height:20px;
-                                position: relative; right: 15px; bottom: 34px; background-color: white; border-radius:5px;">
-                            <input type="image" src="skins/Skin_2/images/main_page/submit_button.jpg" value="Join!" id="addNewSub" style="position: relative; left:70px; bottom: 34px;">
-                            
-                        </div>
-                        <div style="border: 0px black solid; position: relative; top: 150px; left: 200px;
-                            float: right; text-align: left;">
-                              
-
-                            <map id="Map2" name="SocialNetwork">
-                                <area href="https://www.facebook.com/pages/Shiekh-Shoes/163762275750" shape="rect" alt="Facebook" coords="71,1,101,28">
-                                <area href="https://www.twitter.com/shiekhshoes" shape="rect" alt="Twitter" coords="113,1,140,28">
-                            </map>
-                            <img src="skins/Skin_2/images/main_page/social-network.gif" border="0" alt="" usemap="#SocialNetwork">
-
-                     
-                        </div>
-                    </div>
-                 
-                    <map id="Map1" name="PaymentsOptions">
-                        <area href="https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.shiekhshoes.com&amp;lang=en" shape="rect" alt="Verisign" coords="75,1,137,28">
-                        <area href="https://verify.authorize.net/anetseal/?pid=40f20c56-3c0e-4743-8e71-f97e27f57664&amp;rurl=www.shiekhshoes.com" shape="rect" alt="Authorize.Net" coords="149,1,192,28">
-                        <area href="https://sealserver.trustwave.com/cert.php?customerId=843b1a380ca511e0b34b005056b201e5&amp;size=105x54&amp;style=" shape="rect" alt="Trustwave" coords="212,1,274,28">
-                        <area href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--216943.html" shape="rect" coords="0,3,70,28">
-                    </map>
-                    
-                    <img usemap="#PaymentsOptions" src="skins/Skin_2/images/main_page/payment-options.gif" border="0" alt="" style="position:relative; top:50px;border: 0px black solid;">
-                
-                </div>
-                <!--END of footer_new-->
             </div>
-            
-            <!-- END of wrapper -->
-        
+            <div id="footer_new_ShiekhMail">
+                
+                <div style="position: relative; right: 100px; top: 80px; float: right; width: 230px;">
+                    
+                    
+                    <font color="#FFFFFF">%CONTENTS%</font>
+                    
+                    <input type="text" size="150" id="daEmail" style="border: solid 2px #03baff; width: 320px;
+                        height: 20px; position: relative; right: 15px; bottom: 34px; background-color: white;
+                        border-radius: 5px;">
+                    <input type="image" src="skins/Skin_2/images/main_page/submit_button.jpg" value="Join!" id="addNewSub" style="position: relative; left: 70px; bottom: 34px;">
+                    
+                </div>
+                <div style="border: 0px black solid; position: relative; top: 150px; left: 200px;
+                    float: right; text-align: left;">
+                    <map id="Map2" name="SocialNetwork">
+                        <area href="https://www.facebook.com/pages/Shiekh-Shoes/163762275750" shape="rect" alt="Facebook" coords="71,1,101,28">
+                        <area href="https://www.twitter.com/shiekhshoes" shape="rect" alt="Twitter" coords="113,1,140,28">
+                    </map>
+                    <img src="skins/Skin_2/images/main_page/social-network.gif" border="0" alt="" usemap="#SocialNetwork">
+                </div>
+            </div>
+        </div>
+        <br>
+        <center>
+            <table cellpadding="2px" cellspacing="2px">
+                <tbody><tr>
+                    <td colspan="4" align="center">
+                        <img src="skins/Skin_2/images/main_page/payment-options.gif" border="0" alt="Payment Methods">
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="4">
+                        <hr>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <!-- BEGIN: Bizrate Medal (125x73 pixels) -->
+                        <a class="br-button">
+                            <img src="//medals.bizrate.com/medals/dynamic/216943_medal.gif" width="125" height="73" border="0" usemap="#216943_medal" alt="See Shiekh Shoes Reviews at Bizrate.com">
+                            <map name="216943_medal">
+                                <area shape="poly" coords="1,0,1,72,67,72,67,49,124,49,124,0" href="//www.bizrate.com/ratings_guide/merchant_detail__mid--216943.html?rf=sur" title="See Shiekh Shoes Reviews at Bizrate.com" target="_blank">
+                                <area shape="rect" coords="68,50,124,72" href="//www.bizrate.com/?rf=sur" title="Bizrate" target="_blank">
+                            </map>
+                        </a>
+                        <!-- END: Bizrate Medal (125x73 pixels) -->
+                    </td>
+                    <td>
+                        <table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications.">
+                            <tbody><tr>
+                                <td width="135" align="center" valign="top">
+                                    <script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.shiekhshoes.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script>
+                                    <br>
+                                    <a href="https://www.symantec.com/ssl-certificates" target="_blank" style="color: #000000;
+                                        text-decoration: none; font: bold 7px verdana,sans-serif; letter-spacing: .5px;
+                                        text-align: center; margin: 0px; padding: 0px;">ABOUT SSL CERTIFICATES</a>
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                    <td>
+                        <!-- (c) 2005, 2012. Authorize.Net is a registered trademark of CyberSource Corporation -->
+                        <div class="AuthorizeNetSeal">
+                            <script type="text/javascript" language="javascript">                                var ANS_customer_id = "00196a72-a2fb-43fe-8d40-a2de04218d49";</script>
+                            <script type="text/javascript" language="javascript" src="https://verify.authorize.net/anetseal/seal.js"></script>
+                            <a href="https://www.authorize.net/" id="AuthorizeNetText" target="_blank">Credit Card
+                                Processing</a>
+                        </div>
+                    </td>
+                    <td>
+                        <script type="text/javascript" src="https://sealserver.trustwave.com/seal.js?code=843b1a380ca511e0b34b005056b201e5"></script>
+                    </td>
+                </tr>
+            </tbody></table>
+        </center>
+        <br>
+        <!--END of footer_new-->
+    </div>
+    
+    <!-- END of wrapper -->
+    
     <script type="text/javascript">
 var pageTracker = _gat._getTracker("");
 pageTracker._initData();
@@ -422,6 +876,7 @@ pageTracker._trackPageview();
 
     <iframe src="https://pixel.fetchback.com/serve/fb/pdc?cat=&amp;name=landing&amp;sid=3233" scrolling="no" width="1" height="1" marginheight="0" marginwidth="0" frameborder="0">
     </iframe>
+    <script type="text/javascript" src="https://Shiekh-Shoes.ojrq.net/container-939.js"></script>
 
 
 </body></html>
