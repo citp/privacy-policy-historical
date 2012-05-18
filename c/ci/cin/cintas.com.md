@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cintas.com privacy policy that was archived on 2011-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111027005452id_/http%3A//www.cintas.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cintas.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518174425id_/http%3A//www.cintas.com/Privacy) for the most accurate reproduction.*
 
 # Commitment to Your Privacy | Cintas
 
-Last Updated: 11/05/2010
+Last Updated: 4/26/2012
 
 Commitment to Your Privacy
 
@@ -49,7 +49,7 @@ We use Secure Sockets Layer (SSL) to encrypt your credit card number and payment
   
 The United States Department of Commerce and the European Commission have agreed on a set of data protection principles (“Safe Harbor Principles”) to enable U.S. companies to satisfy the requirement under European Union law that adequate protection be given to personal data (called “personal information” in this Policy) transferred from the European Union to the U.S. Cintas is a member of the Department of Commerce Safe Harbor and follows the Safe Harbor Principles with respect to personal information transferred from its locations within the European Union to the U.S. Those Principles are briefly described here, and further detail can be found at http://www.export.gov/safeharbor/eg_main_018236.asp: (1) _Notice_ : Cintas will notify data subjects about the purposes for which it collects and uses information about them; (2) _Choice_ : Cintas will give data subjects the opportunity to choose whether their personal information will be disclosed to a third party (other than third-party processors or service providers and as otherwise described herein) or used for a purpose other than the purpose for which the data was originally collected; (3) _Transfer_ : When Cintas transfers personal information to a third-party processor, it will ensure, by contract, by the third party’s Safe Harbor membership, or by some other means that the third party protects the data in accordance with the Safe Harbor Principles; (4) _Access_ : Data subjects are given access to their personal information held by Cintas and are able to correct, amend, or delete that information where it is inaccurate, except where the burden or expenses of providing access would be disproportionate to the risks to the individual’s privacy or where the rights of persons other than the individual would be violated; (5) _Security_ : Cintas takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration, and destruction; (6) _Data integrity_ : The personal information Cintas collects is relevant for the purposes for which it is to be used, and Cintas takes reasonable steps to ensure that data is reliable for its intended use, accurate, complete, and current; (7) _Enforcement_ : Cintas has available mechanisms to investigate and attempt to resolve complaints and disputes regarding processing and disclosure of personal information and has adopted procedures to verify that its Safe Harbor commitments are implemented. 
 
-In compliance with the Safe Harbor Principles, Cintas commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Cintas at:
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, Cintas commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Cintas at:
 
 Chief Privacy Officer  
 Cintas Corporation  
@@ -58,16 +58,7 @@ P.O. Box 625737
 Cincinnati, Ohio 45262-5737  
 [Privacy@Cintas.com](mailto:Privacy@Cintas.com)
 
-Cintas has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Cintas, you may contact:
-
-Council of Better Business Bureaus, Inc.  
-BBB EU Safe Harbor  
-4200 Wilson Boulevard, Suite 800  
-Arlington, VA 22203  
-Phone: 703-276-0100  
-Web: www.bbb.org/us  
-Email: eusafeharbor@council.bbb.org  
-
+Cintas has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Cintas, please visit the BBB EU SAFE HARBOR web site at <http://www.bbb.org/us/safe-harbor-complaints> for more information and to file a complaint.
 
   
 Cintas welcomes your comments regarding this Privacy Policy. If you have questions or comments regarding this Privacy Policy or Cintas’ membership in the Department of Commerce Safe Harbor, please contact our Chief Privacy Officer by [email](mailto:Privacy@Cintas.com) or postal mail at the following address: 
