@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fashion.net privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231215557id_/http%3A//www.fashion.net/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fashion.net privacy policy that was archived on 2012-05-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120518075004id_/http%3A//www.fashion.net/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en-US"><head>
 
@@ -15,7 +15,7 @@
 	<link rel="stylesheet" type="text/css" href="/includes/fashionnet.css">
 <link rel="stylesheet" type="text/css" href="/includes/iscroll.css">
 <!--[if !ie]>-->
-<link media="only screen and (max-device-width: 480px)" rel="stylesheet" type="text/css" href="/includes/ifashion.css">
+<!--<link media="only screen and (max-device-width: 480px)" rel="stylesheet" type="text/css" href="/includes/ifashion.css">-->
 <!--<![endif]-->
 <script type="text/javascript" src="/search/smart/ssx.js"></script> <!--Smart Search-->  
 <script type="text/javascript" src="http://www.fashion.net/includes/flash.js"></script>
@@ -34,7 +34,7 @@
 <!-- BEGIN META DATA -->
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
 <!--<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">-->
-<meta name="viewport" content="width=1024,maximum-scale=1.0"> <!-- Prevent iPad from blowing up site -->
+<meta name="viewport" content="width=1024,maximum-scale=1.0"> <!--<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">--><!-- Prevent iPad from blowing up site -->
 <!--Description: Max Characters: 255-->
 <meta name="description" content="Fashion Net, the leading guide to chic destinations online, attracts millions of fashion-savvy people who come to indulge in a comprehensive collection of individually reviewed and carefully selected sites.">
 <!--Keywords: Max Characters: 1,000-->
@@ -119,17 +119,17 @@ input.button_over {
 
 <!-- BEGIN ISCROLL CODE -->
 	<script type="text/javascript">
-//if ((navigator.userAgent.indexOf('iPhone') != -1) || (navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
-if (navigator.userAgent.indexOf('iPad') != -1) {
+if ((navigator.userAgent.indexOf('iPhone') != -1) || (navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1) || (navigator.userAgent.indexOf('Android') != -1)) {
+//if (navigator.userAgent.indexOf('iPad') != -1) {
 var myScroll;
-window.addEventListener('orientationchange', setHeight);
+//window.addEventListener('orientationchange', setHeight);
 
-function setHeight() {
-document.getElementById('wrapper').style.height = window.orientation == 90 || window.orientation == -90 ? '570px' : '1100px';
-}
+//function setHeight() {
+//document.getElementById('wrapper').style.height = window.orientation == 90 || window.orientation == -90 ? '570px' : '1100px';
+//}
 
 function loaded() {
-setHeight();
+//setHeight();
 document.addEventListener('touchmove', function(e){ e.preventDefault(); });
 myScroll = new iScroll('scroller');
 }
@@ -143,12 +143,12 @@ document.addEventListener('DOMContentLoaded', loaded);
 
 <!-- END HEAD / BEGIN BODY -->
 
-<body onresize="setContentSize();">
+<body onload="sizing();" onresize="sizing();">
 
 <div id="main">
 <div id="leftcol">
 
-	<iframe id="flash_ad" src="http://www.fashion.net/ads/select.modperl?15394118" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" width="100%" height="100%"></iframe>
+	<iframe id="flash_ad" src="http://www.fashion.net/ads/select.modperl?94092399" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" width="100%" height="100%"></iframe>
 
 </div>  <!-- END div id="leftcol"> -->
 
@@ -158,14 +158,15 @@ document.addEventListener('DOMContentLoaded', loaded);
 		
 <div id="top">
 
-	<div style="width: 100%; height: 108px">
+	<div style="width: 100%; min-width: 665px; height: 160px">
 <div style="float: right; padding: 0px; margin: 0px; width: 184px">
-<a href="http://www.diesel.com/" target="_blank"><img src="http://www.fashion.net/a/slate/diesel.png" width="184" height="90" alt="" border="0"></a>
-
-
+<!-- include virtual="/a/slate/main.cgi"-->
+<div style="float: right; margin: 102px 28px 0 0">
+<a href="http://twitter.com/fashiondotnet" target="_blank"><img src="/images/fashionnet_twitter.png" border="0" height="21px" width="31px" title="" alt="Twitter" style="outline-style: none"></a>&nbsp;&nbsp;&nbsp;<a href="http://www.facebook.com/fashionnet" target="_blank"><img src="/images/fashionnet_facebook.png" border="0" height="21px" width="21px" title="" alt="Facebook" style="outline-style: none"></a>
 </div>
-<div style="float: left; margin: 40px 0 0 34px; width: 313px">
-<a href="http://www.fashion.net/" target="_top"><img src="http://www.fashion.net/images/fashionnet_logo_transparent.png" border="0" height="22px" width="313px" title="" alt="Fashion Net" style="outline-style: none"></a>
+</div>
+<div style="float: left; margin: 12px 0 0 43px; width: 420px">
+<a href="http://www.fashion.net/" target="_top"><img src="http://www.fashion.net/images/fashionnet_gigantic_logo_bold.png" border="0" width="495px" title="" alt="Fashion Net" style="outline-style: none"></a>
 </div>
 </div>
 
@@ -174,8 +175,8 @@ document.addEventListener('DOMContentLoaded', loaded);
 			
 			
 <!-- BEGIN SEARCH -->
-<div id="search"><form method="get" action="http://www.fashion.net/search/q.cgi" target="_top" name="f" autocomplete="off">
-<input name="q" type="text" style="outline: none; background-color: #fffff; -moz-border-radius: 0; -webkit-border-radius: 0; border-width: 0; border: 0; font-size: 21px; font-family: 'Times New Roman'; font-style: italic; padding: 0px 0px 0px 20px; padding-top: 4px !ie; height: 32px; width: 100%; background-image: url(http://www.fashion.net/images/searchfield_background.png); background-repeat: x-repeat" onfocus="if(this.value=='lucien pellat-finet'){this.value='';}" onblur="if(this.value==''){this.value='lucien pellat-finet';}" value="lucien pellat-finet">
+<div id="search"><form method="get" action="http://www.fashion.net/search/" target="_top" name="f" autocomplete="off">
+<input name="q" type="text" style="outline: none; background-color: #fffff; -moz-border-radius: 0; -webkit-border-radius: 0; border-width: 0; border: 0; font-size: 18px; font-family: Helvetica, Arial; font-style: normal; color: gray; padding: 0px 0px 0px 10px; padding-top: 4px !ie; height: 32px; width: 100%; background-image: url(http://www.fashion.net/images/searchfield_background.png); background-repeat: x-repeat">
 <img src="http://www.fashion.net/images/search_down.png" alt="fashion" width="111" height="32" class="button_down" border="0" style="margin-top: 1px !ie">
 <input type="image" src="http://www.fashion.net/images/search_over.png" title="" alt="search" width="111" height="32" class="button_over" style="margin-top: 1px !ie; -webkit-border-radius: 0" border="0">
 </form>
@@ -184,6 +185,13 @@ document.addEventListener('DOMContentLoaded', loaded);
         ssfn(document.f,document.f.q);
 // --></script>
 <!-- END SMART SEARCH CODE -->
+
+<script type="text/javascript">
+function start() {
+document.f.q.focus();
+}
+window.onload = start;
+</script>
 
 </div> <!-- END div id="search"> -->
 <!-- END SEARCH -->
@@ -200,8 +208,8 @@ str += '<div class="col">';
 </script>
 		
 <script type="text/javascript">
-//if ((navigator.userAgent.indexOf('iPhone') != -1) || (navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
-if (navigator.userAgent.indexOf('iPad') != -1) {
+if ((navigator.userAgent.indexOf('iPhone') != -1) || (navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1) || (navigator.userAgent.indexOf('Android') != -1)) {
+//if (navigator.userAgent.indexOf('iPad') != -1) {
 document.write(str);
 }
 </script>
@@ -209,37 +217,92 @@ document.write(str);
 <!-- END ISCROLL CODE -->
 
 <!-- BEGINNING OF MENU -->
-	<div class="menu">
-<a href="http://www.fashion.net/fashion/" target="_top"><img src="http://www.fashion.net/content/listings/fashion/menu/driesvannoten.jpg" border="0" width="133" height="133" alt="fashion" class="menu_fashion_photo">
-<img src="/images/menu.fashion_gray.png" title="" alt="fashion" width="133" height="170" class="menu_fashion_gray" border="0">
-<img src="/images/menu.fashion_hover.png" title="" alt="fashion" width="133" height="170" class="menu_fashion_red" border="0">
-</a>
+	<!-- BEGIN MENU -->
+
+<!-- BEGIN IE9 (OR BELOW) CSS -->
+<!-- BEGIN JQUERY, DERIVE PROPORTIONAL HEIGHT -->
+<!--[if lte IE 9]>
+
+<script type="text/javascript">
+function sizing() {
+$('#menuwrap').css('position: relative; width: 100%; min-height: 170px; min-width: 665px; padding: 0; margin: 0');
+$('#menuwrap').css({height:$(menuwrap).width() / 3.9});
+}
+window.onload = sizing;
+window.onresize = sizing;
+</script>
+
+<div id="menuwrap">
+<![endif]-->
+<!-- END JQUERY, DERIVE PROPORTIONAL HEIGHT -->
+<!-- END IE8 (OR BELOW) CSS -->
+
+<!-- BEGIN OTHER THAN IE CSS -->
+<!--[if !IE]> -->
+<div id="menuwrap" style="position: relative; width: 100%; min-height: 170px; min-width: 665px; padding: 0; margin: 0">
+
+<div style="position: relative; padding: 26% 0 0 0; height: 0">
+<!--[endif]---->
+<!-- END OTHER THAN IE CSS -->
+
+<div style="position: absolute; top: 0; left: 0; width: 20.1%; min-width: 133px; z-index: 1">
+<a href="http://www.fashion.net/fashion/" target="_top"><img src="http://www.fashion.net/content/listings/fashion/menu/armaniexchange.jpg" border="0" style="width: 100%; outline-style: none" alt="fashion" class="menu_fashion_photo">
+</a></div><a href="http://www.fashion.net/fashion/" target="_top">
+</a><div style="position: absolute; top: 0; left: 0; width: 20.1%; min-width: 133px; z-index: 2"><a href="http://www.fashion.net/fashion/" target="_top">
+</a><a href="http://www.fashion.net/fashion/" target="_top"><img src="/images/menu.fashion.button.uppercase.png" class="menu_fashion_gray" title="" style="width: 100%; outline-style: none" alt="fashion"></a>
 </div>
-<div class="menu">
-<a href="http://www.fashion.net/luxe/" target="_top"><img src="http://www.fashion.net/content/listings/luxe/menu/christopherobin.jpg" border="0" width="133" height="133" alt="luxe" class="menu_luxe_photo">
-<img src="/images/menu.luxe_gray.png" title="" alt="luxe" width="133" height="170" class="menu_luxe_gray" border="0">
-<img src="/images/menu.luxe_hover.png" title="" alt="luxe" width="133" height="170" class="menu_luxe_red" border="0">
-</a>
-</div>
-<div class="menu">
-<a href="http://www.fashion.net/shopping/" target="_top"><img src="http://www.fashion.net/content/listings/shopping/menu/victoriassecret3.jpg" border="0" width="133" height="133" alt="shopping" class="menu_shopping_photo">
-<img src="/images/menu.shopping_gray.png" title="" alt="shopping" width="133" height="170" class="menu_shopping_gray" border="0">
-<img src="/images/menu.shopping_hover.png" title="" alt="shopping" width="133" height="170" class="menu_shopping_red" border="0">
-</a>
-</div>
-<div class="menu">
-<a href="http://www.fashion.net/art/" target="_top"><img src="http://www.fashion.net/content/listings/art/menu/artnet.jpg" border="0" width="133" height="133" alt="art" class="menu_art_photo">
-<img src="/images/menu.art_gray.png" title="" alt="art" width="133" height="170" class="menu_art_gray" border="0">
-<img src="/images/menu.art_hover.png" title="" alt="art" width="133" height="170" class="menu_art_red" border="0">
-</a>
-</div>
-<div class="menu">
-<a href="http://www.fashion.net/work/" target="_top"><img src="http://www.fashion.net/content/listings/work/menu/wilsonwenzel2.jpg" border="0" style="width: 133px; height: 133px" alt="work" class="menu_work_photo">
-<img src="/images/menu.work_gray.png" title="" alt="work" width="133" height="170" class="menu_work_gray" border="0">
-<img src="/images/menu.work_hover.png" title="" alt="work" width="133" height="170" class="menu_work_red" border="0">
-</a>
+<div style="position: absolute; top: 0; left: 0; width: 20.1%; min-width: 133px; z-index: 3">
+<a href="http://www.fashion.net/fashion/" target="_top"><img src="/images/menu.fashion.hover.uppercase.png" class="menu_fashion_red" title="" style="width: 100%; outline-style: none" alt="fashion"></a>
 </div>
 
+<div style="position: absolute; top: 0; left: 20%; width: 20.1%; min-width: 133px; z-index: 1">
+<a href="http://www.fashion.net/luxury/" target="_top"><img src="http://www.fashion.net/content/listings/luxury/menu/lamborghini4.jpg" border="0" style="width: 100%; outline-style: none" alt="luxe" class="menu_luxe_photo">
+</a></div><a href="http://www.fashion.net/luxury/" target="_top">
+</a><div style="position: absolute; top: 0; left: 20%; width: 20.1%; min-width: 133px; z-index: 2"><a href="http://www.fashion.net/luxury/" target="_top">
+</a><a href="http://www.fashion.net/luxury/" target="_top"><img src="/images/menu.luxury.button.uppercase.png" class="menu_luxe_gray" title="" style="width: 100%; outline-style: none" alt="luxury"></a>
+</div>
+<div style="position: absolute; top: 0; left: 20%; width: 20.1%; min-width: 133px; z-index: 3">
+<a href="http://www.fashion.net/luxury/" target="_top"><img src="/images/menu.luxury.hover.uppercase.png" class="menu_luxe_red" title="" style="width: 100%; outline-style: none" alt="luxury"></a>
+</div>
+
+<div style="position: absolute; top: 0; left: 40%; width: 20.1%; min-width: 133px; z-index: 1">
+<a href="http://www.fashion.net/shopping/" target="_top"><img src="http://www.fashion.net/content/listings/shopping/menu/maccosmetics2.jpg" border="0" style="width: 100%; outline-style: none" alt="shopping" class="menu_shopping_photo">
+</a></div><a href="http://www.fashion.net/shopping/" target="_top">
+</a><div style="position: absolute; top: 0; left: 40%; width: 20.1%; min-width: 133px; z-index: 2"><a href="http://www.fashion.net/shopping/" target="_top">
+</a><a href="http://www.fashion.net/shopping/" target="_top"><img src="/images/menu.shopping.button.uppercase.png" class="menu_shopping_gray" title="" style="width: 100%; outline-style: none" alt="shopping"></a>
+</div>
+<div style="position: absolute; top: 0; left: 40%; width: 20.1%; min-width: 133px; z-index: 3">
+<a href="http://www.fashion.net/shopping/" target="_top"><img src="/images/menu.shopping.hover.uppercase.png" class="menu_shopping_red" title="" style="width: 100%; outline-style: none" alt="shopping"></a>
+</div>
+
+<div style="position: absolute; top: 0; left: 60%; width: 20.1%; min-width: 133px; z-index: 1">
+<a href="http://www.fashion.net/art/" target="_top"><img src="http://www.fashion.net/content/listings/art/menu/johnclang.jpg" border="0" style="width: 100%; outline-style: none" alt="art" class="menu_art_photo">
+</a></div><a href="http://www.fashion.net/art/" target="_top">
+</a><div style="position: absolute; top: 0; left: 60%; width: 20.1%; min-width: 133px; z-index: 2"><a href="http://www.fashion.net/art/" target="_top">
+</a><a href="http://www.fashion.net/art/" target="_top"><img src="/images/menu.art.button.uppercase.png" class="menu_art_gray" title="" style="width: 100%; outline-style: none" alt="art"></a>
+</div>
+<div style="position: absolute; top: 0; left: 60%; width: 20.1%; min-width: 133px; z-index: 3">
+<a href="http://www.fashion.net/art/" target="_top"><img src="/images/menu.art.hover.uppercase.png" class="menu_art_red" title="" style="width: 100%; outline-style: none" alt="art"></a>
+</div>
+
+<div style="position: absolute; top: 0; left: 80%; width: 20.1%; min-width: 133px; z-index: 1">
+<a href="http://www.fashion.net/work/" target="_top"><img src="http://www.fashion.net/content/listings/work/menu/mapltd.jpg" border="0" style="width: 100%; outline-style: none" alt="work" class="menu_work_photo">
+</a></div><a href="http://www.fashion.net/work/" target="_top">
+</a><div style="position: absolute; top: 0; left: 80%; width: 20.1%; min-width: 133px; z-index: 2"><a href="http://www.fashion.net/work/" target="_top">
+</a><a href="http://www.fashion.net/work/" target="_top"><img src="/images/menu.work.button.uppercase.png" class="menu_work_gray" title="" style="width: 100%; outline-style: none" alt="work"></a>
+</div>
+<div style="position: absolute; top: 0; left: 80%; width: 20.1%; min-width: 133px; z-index: 3">
+<a href="http://www.fashion.net/work/" target="_top"><img src="/images/menu.work.hover.uppercase.png" class="menu_work_red" title="" style="width: 100%; outline-style: none" alt="work"></a>
+</div>
+
+<!-- BEGIN OTHER THAN IE8 (OR BELOW) CSS -->
+<!--[if !IE]> -->
+</div>
+<!--[endif]---->
+<!-- END OTHER THAN IE8 (OR BELOW) CSS -->
+
+</div>
+<!-- END MENU, BEGINNING OF PAGE -->
 <!-- END OF MENU / BEGINNING OF PAGE -->
 
 <div id="page">
@@ -248,8 +311,13 @@ document.write(str);
 
 <!-- BEGIN CONTEXTUALS -->
 	<div style="width: 160px; height: 160px; padding-top: 0 padding-left: 0">
-<a href="http://www.fashion.net/a/links/clicks/parsons.cgi" target="_blank"><img src="http://www.fashion.net/a/links/parsons.jpg" title="" alt="Parsons" width="160px" height="160px" border="0"></a>
-<img src="http://altfarm.mediaplex.com/ad/tr/10631-129756-17964-1?mpt=0.265345537875877" border="0">
+<a href="http://www.fashion.net/a/links/clicks/nars.cgi" target="_blank"><img src="http://www.fashion.net/a/links/nars.png" title="" alt="Nars" width="160px" height="160px" border="0"></a>
+<img src="http://www.gopjn.com/b/4-35111-52760-34073" border="0" width="1px" height="1px">
+</div>
+
+
+<div style="width: 160px; height: 160px; padding-top: 20px; padding-left: 0">
+<a href="http://www.fashionjobscentral.com?fashionnet_image" target="_blank"><img src="http://www.fashion.net/a/links/fashionjobscentral.png" title="" alt="Fashion Jobs Central" width="160px" height="160px" border="0"></a>
 </div>
 
 
@@ -275,11 +343,11 @@ google_ad_height = 125;
 
 <div style="width: 160px; height: 130px; text-align: center; background-image: url(http://www.fashion.net/images/separator.160px.png); background-repeat: no-repeat">
 <div style="padding-top: 30px">
-<a href="http://www.fashion.net/a/links/clicks/aau.cgi" style="text-decoration: none" target="_blank"><span style="font-size: 17px; font-family: 'helvetica neue', 'helvetica new', helvetica, arial; font-style: normal; color: #FFFFFF; line-height: 21px">Academy of Art University</span><br>
-<span style="font-size: 12px; font-family: 'helvetica neue', 'helvetica new', helvetica, arial; font-style: normal; color: #50CBFA; font-weight: 400; line-height: 33px">Your career in fashion</span></a>
+<a href="http://www.fashion.net/a/links/clicks/aau.cgi" style="text-decoration: none" target="_blank"><span class="roman" style="font-size: 17px; font-style: normal; color: #FFFFFF; line-height: 21px">Academy of Art University</span><br>
+<span class="roman" style="font-size: 12px; font-style: normal; color: #85b0c1; font-weight: 400; line-height: 33px">Your career in fashion</span></a>
 
 <!-- Tracer -->
-<img src="http://altfarm.mediaplex.com/ad/tr/9810-102040-17964-4?mpt=0.345994634394632" border="0" width="1px" height="1px">
+<img src="http://altfarm.mediaplex.com/ad/tr/9810-144386-17964-1?mpt=0.882700650292588" border="0" width="1px" height="1px">
 
 </div>
 </div>
@@ -287,18 +355,12 @@ google_ad_height = 125;
 
 <div style="width: 160px; height: 80px; text-align: center; background-image: url(http://www.fashion.net/images/separator.160px.png); background-repeat: no-repeat">
 <div style="padding-top: 20px">
-<a href="http://www.fashion.net/a/links/clicks/shiseido.cgi" target="_blank" style="font-size: 17px; font-family: 'helvetica neue', 'helvetica new', helvetica, arial; font-style: normal; color: #FFFFFF; text-decoration:none; line-height: 20px">Shiseido<br>
-<span style="font-size: 12px; font-family: 'helvetica neue', 'helvetica new', helvetica, arial; font-style: normal; color: #50CBFA; line-height: 29px">Beauty from japan</span></a></div></div>
-
-
-<div style="width: 160px; height: 80px; text-align: center; background-image: url(http://www.fashion.net/images/separator.160px.png); background-repeat: no-repeat">
-<div style="padding-top: 20px">
-<a href="http://www.fashion.net/ads/links/clicks/squa.re.cgi" target="_blank" style="font-size: 17px; font-family: 'helvetica neue', 'helvetica new', helvetica, arial; font-style: normal; color: #FFFFFF; text-decoration: none; line-height: 20px">SQUA.RE<br>
-<span style="font-size: 12px; font-family: 'helvetica neue', 'helvetica new', helvetica, arial; font-style: normal; color: #50CBFA; line-height: 29px">Invitation only luxe TV</span></a></div></div>
+<a href="http://www.fashion.net/a/links/clicks/shiseido.cgi" target="_blank" class="roman" style="font-size: 17px; font-style: normal; color: #FFFFFF; text-decoration:none; line-height: 20px">Shiseido<br>
+<span class="roman" style="font-size: 12px; font-style: normal; color: #85b0c1; line-height: 29px">Beauty from japan</span></a></div></div>
 
 
 
-<!-- exec cgi="/a/links/impressions.cgi"-->
+<!-- exec cgi="/a/links/impressions.modperl"-->
 
 <!-- END CONTEXTUALS -->
 	
@@ -307,9 +369,9 @@ google_ad_height = 125;
 <div id="left">
 
 <!-- BEGIN PAGE TITLE -->
-	<div style="width: 505px; height: 54px; background-image: url(http://www.fashion.net/images/title.background.png); background-repeat: no-repeat">
-<div style="float: left; padding-left: 37px; padding-top: 15px; line-height: 54px">
-<img src="http://www.fashion.net/images/title.privacypolicy.png" border="0" alt="">
+	<div style="width: 505px">
+<div style="padding: 20px 0 30px 50px">
+<span class="bold" style="font-size: 29px; line-height: 1.1; letter-spacing: -1px; text-decoration: none; color: #FFFFFF; text-transform: uppercase">privacypolicy</span>
 </div>
 </div>
 
@@ -352,7 +414,7 @@ We recommend that you review this Privacy Statement periodically, as Fashion Net
 </div>
 
 <!-- BEGIN GOOGLE ADS -->
-	<div style="position: relative; padding: 32px 25px 12px 25px; width: 620px; width: 660px!ie; color: #E8E8E8; margin-bottom: 8px">
+<div style="position: relative; padding: 32px 25px 12px 25px; width: 620px; width: 660px!ie; color: #E8E8E8; margin-bottom: 8px">
 
 <div style="float: left; width: 300px">
 <script type="text/javascript"><!--
@@ -382,50 +444,41 @@ google_ad_height = 250;
 
 <div style="clear:both"></div>
 
+<div style="text-align: center; padding: 30px 0 0 0">
+<span class="roman" style="font-size: 14px; color: #FFFFFF">Exclusive</span> <a href="http://www.fashionjobscentral.com" target="_blank" class="bold" style="font-size: 14px; color: #FFFFFF">Fashion Jobs</a> <span class="roman" style="font-size: 14px; color: #FFFFFF">at Fashion Jobs Central</span>
+</div>
+
 </div>
 <!-- END GOOGLE ADS -->
 
+<!-- BEGIN CURATED LINKS -->
+<div style="width: 100%">
+<div id="curated" style="padding: 25px 50px 10px 50px">
+<span class="bold" style="font-size: 28px; line-height: 50px; letter-spacing: -1px; text-decoration: none; color: #FFFFFF; text-transform: uppercase">Curated Links<br></span><span style="line-height: 28px">
+<a href="http://ifa-edu.cn/ifaen/" target="_blank" class="light" style="text-decoration: none; font-size: 24px; letter-spacing: -1px; color: #50CBFA" title="ifa-edu.cn/ifaen">IFA&nbsp;Paris</a>&nbsp;&nbsp;&nbsp; <a href="http://www.houseoflolo.com/" target="_blank" class="light" style="text-decoration: none; font-size: 24px; letter-spacing: -1px; color: #50CBFA" title="houseoflolo.com">House&nbsp;of&nbsp;Lolo</a>&nbsp;&nbsp;&nbsp; <a href="http://www.hintmag.com/" target="_blank" class="light" style="text-decoration: none; font-size: 24px; letter-spacing: -1px; color: #50CBFA" title="www.hintmag.com">Hint&nbsp;Magazine</a>&nbsp;&nbsp;&nbsp; <a href="http://www.squa.re/" target="_blank" class="light" style="text-decoration: none; font-size: 24px; letter-spacing: -1px; color: #50CBFA" title="www.squa.re">SQUA.RE</a>&nbsp;&nbsp;&nbsp; <a href="http://www.parsons.edu/" target="_blank" class="light" style="text-decoration: none; font-size: 24px; letter-spacing: -1px; color: #50CBFA" title="www.parsons.edu">Parsons</a>&nbsp;&nbsp;&nbsp; <a href="http://www.nowness.com/" target="_blank" class="light" style="text-decoration: none; font-size: 24px; letter-spacing: -1px; color: #50CBFA" title="www.nowness.com">Nowness</a>&nbsp;&nbsp;&nbsp; <a href="http://www.academyart.edu/" target="_blank" class="light" style="text-decoration: none; font-size: 24px; letter-spacing: -1px; color: #50CBFA" title="www.academyart.edu">Academy&nbsp;of&nbsp;Art&nbsp;University</a>&nbsp;&nbsp;&nbsp; <a href="http://www.dresslab.com/" target="_blank" class="light" style="text-decoration: none; font-size: 24px; letter-spacing: -1px; color: #50CBFA" title="dresslab.com">DressLab</a></span></div></div>
+<div style="padding: 20px 0 40px 50px">
+<a href="http://www.fashion.net/content/curated/addlink.html" class="bold" style="font-size: 16px; color: #FFFFFF; line-height: 1px; text-decoration: none; text-transform: uppercase">&gt; Add a Link</a>
+</div>
 
-<!-- BEGIN TEXT ADS -->
-	
- 
 
-<!-- END TEXT ADS -->
+<!-- END CURATED LINKS -->
 
-<!-- BEGIN LINKS -->
-	<div style="position:relative; width: 505px; height: 80px">
-<div style="position:absolute; padding: 50px 0 0 50px">
-<!--<div class="g-plusone" data-size="standard" data-count="true" data-href="http://www.fashion.net/"></div><br><br>-->
-<a href="javascript: OpenWin('http://www.fashion.net/advertising/mediakit/01.html')" class="body_link">Advertising Info</a>  &nbsp;&nbsp;&nbsp;<a href="http://www.fashion.net/add.html" class="body_link" target="_top">Add a Listing</a>&nbsp;&nbsp;&nbsp;<a href="http://www.fashion.net/press.html" class="body_link" target="_top">PR</a> &nbsp;&nbsp;&nbsp;<a href="http://www.fashion.net/privacy.html" class="body_link" target="_top">Privacy Policy</a> &nbsp;&nbsp;&nbsp;<a href="http://www.fashion.net/contact.html" class="body_link" target="_top">Contact Us</a>
+<!-- BEGIN LINKS & COPYRIGHT -->
+<div style="width: 100%">
+<div style="padding: 50px 50px 50px 50px; margin-top: 10px">
+<a href="http://www.fashion.net/about.html" class="body_link" target="_top">About</a>&nbsp;&nbsp;&nbsp;
+<a href="javascript: OpenWin('http://www.fashion.net/advertising/mediakit/01.html')" class="body_link">Advertise</a>  &nbsp;&nbsp;&nbsp;<a href="http://www.fashion.net/content/listings/addlisting.html" class="body_link" target="_top">Add Your Site</a>&nbsp;&nbsp;&nbsp;<a href="http://www.fashion.net/press.html" class="body_link" target="_top">PR</a> &nbsp;&nbsp;&nbsp;<a href="http://www.fashion.net/privacy.html" class="body_link" target="_top">Privacy Policy</a> &nbsp;&nbsp;&nbsp;<a href="http://www.fashion.net/contact.html" class="body_link" target="_top">Contact Us</a>
+<br><br>
+<span class="roman" style="font-size: 14px; color: #FFFFFF">Copyright © 1995-2012, Fashion Net Inc. All rights reserved. Fashion Net® is a registered trademark in the U.S. and other countries of Fashion Net Inc.; the Fashion Net logo and 'this is the world of fashion' are trademarks of Fashion Net Inc.<br></span>
 </div>
 </div>
-<p><br>
-<!-- END LINKS -->
 
-</p></div> <!-- END div id="left" -->
+
+
+<!-- END LINKS & COPYRIGHT -->
+
+</div> <!-- END div id="left" -->
 </div> <!-- END div id="page" -->
-
-<div id="footer">
-	 
-	<span style="font-size: 12px; font-family: helvetica, arial; color: #FFFFFF">Copyright © 1995-2011, Fashion Net Inc. All rights reserved. Fashion Net® is a registered trademark in the U.S. and other countries of Fashion Net Inc.; the Fashion Net logo and 'the insider's guide to all things chic' are trademarks of Fashion Net Inc.<br></span>
-
-<!-- BEGIN FACEBOOK -->
-<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
-<script>
-  window.fbAsyncInit = function() {
-    FB.init({appId: '151600441545952', status: true, cookie: true,
-             xfbml: true});
-  };
-  (function() {
-    var e = document.createElement('script'); e.async = true;
-    e.src = document.location.protocol +
-      '//connect.facebook.net/en_US/all.js';
-    document.getElementById('fb-root').appendChild(e);
-  }());
-</script>
-<!-- END FACEBOOK -->
-	
-</div> <!-- END div id="footer" -->
 
 	<!-- if javascript is disabled, add 125 pixels of space here -->
 	<noscript>
@@ -440,8 +493,8 @@ str += '</div>';
 </script>
 		
 <script type="text/javascript">
-//if ((navigator.userAgent.indexOf('iPhone') != -1) || (navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1)) {
-if (navigator.userAgent.indexOf('iPad') != -1) {
+if ((navigator.userAgent.indexOf('iPhone') != -1) || (navigator.userAgent.indexOf('iPod') != -1) || (navigator.userAgent.indexOf('iPad') != -1) || (navigator.userAgent.indexOf('Android') != -1)) {
+//if (navigator.userAgent.indexOf('iPad') != -1) {
 document.write(str);
 }
 </script>
