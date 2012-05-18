@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thegridto.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203161612id_/http%3A//www.thegridto.com/connect/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegridto.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518194538id_/http%3A//www.thegridto.com/connect/privacy-policy) for the most accurate reproduction.*
 
-# The Grid TO | Privacy Policy
+# Privacy Policy | The Grid TO
 
 **Our commitment to privacy** : The Grid, a division of the Toronto Star Newspapers Limited (“The Grid”) knows that protecting the privacy and confidentiality of your personal information is important to you.  This Privacy Code governs the collection, use and disclosure of your personal information in any form, whether written or electronic, by The Grid and its affiliates.  The collection, use and disclosure of your personal information is governed by the _Personal Information Protection and Electronic Documents Act_ (the “Act”), and any applicable provincial legislation. This Privacy Code explains what personal information may be collected from you and how it is used. It also explains how you can ask questions, make suggestions, and express concerns about our privacy practices.
 
