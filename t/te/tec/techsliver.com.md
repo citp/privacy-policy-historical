@@ -1,24 +1,22 @@
-> *The following text is extracted and transformed from the techsliver.com privacy policy that was archived on 2011-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110920100021id_/http%3A//www.techsliver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsliver.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519010919id_/http%3A//www.techsliver.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TechSliver
 
-## [ Privacy Policy ](http://www.techsliver.com/privacy-policy/ "Permanent Link to Privacy Policy")
-
 At our website, the privacy of our visitors is of _extreme_ importance to us. This privacy policy document outlines the types of personal information is received and collected by our website and how it is used.
 
-**Log Files**
+ **Log Files**
 
 Like many  — perhaps most –  other Web sites, our website makes use of log files. That’s partly for security, so we can identify any problems before they occur.  The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses and other such information _are not linked to any information that is personally identifiable._
 
-**Cookies and Web Beacons**
+ **Cookies and Web Beacons**
 
 Our website does _not_ use cookies.
 
-**Advertising**
+ **Advertising**
 
 This website is partially funded through our generous sponsors and advertisers. We use as little advertising as we can, and — when it’s necessary — _only_ to cover our hosting and maintenance expenses. We avoid advertising programs with any privacy risks.  In fact, we avoid advertising, period.
 
-**DoubleClick DART Cookie**
+ **DoubleClick DART Cookie**
 
 .:: Google, as a third party vendor, uses cookies to serve ads on our website.
 
