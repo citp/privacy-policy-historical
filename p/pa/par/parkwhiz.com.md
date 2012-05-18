@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parkwhiz.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217155842id_/http%3A//www.parkwhiz.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkwhiz.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519015918id_/http%3A//www.parkwhiz.com/support/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Reserved Parking - ParkWhiz
 
@@ -76,4 +76,4 @@ Any changes to ParkWhiz's privacy policy will always be posted to this section o
 
 If you have any questions or would like to provide feedback about ParkWhiz's privacy policy, please contact ParkWhiz via email at [info@parkwhiz.com](mailto:info@parkwhiz.com). You may also write directly to ParkWhiz, Attn: Legal Department, 2243 W Belmont Ave, Chicago, IL 60618. 
 
-Last modified on December 14, 2011. 
+Last modified on December 20, 2011. 
