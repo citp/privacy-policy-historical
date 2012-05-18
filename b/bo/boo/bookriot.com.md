@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookriot.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204090921id_/http%3A//bookriot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookriot.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518021236id_/http%3A//bookriot.com/privacy) for the most accurate reproduction.*
 
 # BOOK RIOT | Privacy Policy
 
@@ -57,5 +57,3 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 **Amendment.** This Privacy Policy may be amended at any time in accordance with Section 14 (Amendment) of the [Terms of Use](http://bookriot.com/termsofuse).
 
 **Contact Information.**   If you have any questions about this Privacy Policy, please contact us by e-mail at bookriot (at) bookriot (dot) com or by writing to us at Book Riot, Inc., 135 Nelson Street, Brooklyn, NY 11231, in each case marking the message “Attention: Privacy Policy.”
-
-© 2011, Book Riot, Inc. All Rights Reserved.
