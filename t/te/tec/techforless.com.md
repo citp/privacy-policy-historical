@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techforless.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231062110id_/http%3A//www.techforless.com/cgi-bin/tech4less/privacy_new) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techforless.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518022234id_/http%3A//www.techforless.com/cgi-bin/tech4less/privacy_new) for the most accurate reproduction.*
 
 # Our Policy in Summary - Tech for Less
 
@@ -71,11 +71,11 @@ With Visa's Zero Liability policy*, your liability for unauthorized transactions
 
 ### Confirmation, Pricing and Availability Information:
 
-Tech for Less LLC makes every effort to get your order to you as soon as possible. All advertised products are in stock. If you place your order by 5pm MST and select 3-day or faster shipping we will ship it the same business day. All other orders ship within 2 business days. If there is a problem with your order you will receive an email providing more details about the problem within one business day. Special and Custom orders may take longer to process. 
+Tech for Less LLC makes every effort to get your order to you as soon as possible. All advertised products are in stock. Most orders ship the same business day when you place your order before 5pm MST. If there is a problem with your order you will receive an email providing more details about the problem within one business day. Special and Custom orders may take longer to process. 
 
 ### Payment information:
 
-You may pay for your order with a Visa, MasterCard or American Express card. Orders may be made via our web site or by phone at 1-719-886-8000. If you prefer to make other payment arrangements, please contact our Sales Department at the number shown above. 
+You may pay for your order with a Visa, MasterCard or American Express card. Orders may be made via our web site or by phone at 1-886-880-1230. If you prefer to make other payment arrangements, please contact our Sales Department at the number shown above. 
 
 ### Shipping Rates and Policies:
 
@@ -84,16 +84,16 @@ Tech for Less LLC charges based on the weight and dimensions of the item. Add it
 ### Contact Information:
 
 Tech for Less LLC  
-1610 Garden of the Gods Rd., Suite 100  
-Colorado Springs, CO 80907
+1425 S. Curry Pike  
+Bloomington, IN 47403
 
 M-F 8:00am to 6:00pm MST
 
 | 
 
   
-Local Phone: 1-719-886-8000  
-Fax: 1-719-886-8001
+Toll Free: (866) 880-1230  
+
 
 E-mail: [sales@techforless.com](mailto:sales@techforless.com)  
   
