@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 8dimentions.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210005230id_/http%3A//sugoideas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 8dimentions.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518165807id_/http%3A//sugoideas.com/privacy-policy) for the most accurate reproduction.*
 
-# Sugoideas.com Privacy Policy | taiwanese idol drama online fast streaming with english subtitles and full version high quality download - tw.sugoitw.com
+# Sugoideas.com Privacy Policy | taiwanese idol drama online fast streaming with english subtitles and full version high quality download - sugoideas.com
 
 (last update: Apr 2009)
 
