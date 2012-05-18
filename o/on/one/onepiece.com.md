@@ -1,133 +1,37 @@
-> *The following text is extracted and transformed from the onepiece.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619034710id_/http%3A//www.ddc.com/w3c/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onepiece.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518160849id_/http%3A//onepiece.com/us/shop/info/privacy) for the most accurate reproduction.*
 
-# Privacy Statement for Domain Development Corporation
+# Privacy policy - OnePiece – Jump In
 
-## About Us
+## Privacy policy
 
-This is a privacy policy for Domain Development Corporation. Our homepage on the Web is located at [ http://www.ddc.com](http://www.ddc.com/). The full text of our privacy policy is available on the Web at [ http://ddc.com/w3c/policy.html](http://ddc.com/w3c/policy.html). DDC allows Magnetic to monitor DDC affiliated sites for the purpose of reporting website traffic, statistics, advertisements, "click-throughs" and/or other activities, and such Magnetic may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about DDC users. For further information about Magnetic's search re-targeting product, Magnetic's homepage on the Web is located at [http://www.magnetic.is](http://privacy.magnetic.is/). The full text of Magnetic's privacy policy is available on the Web at [http://privacy.magnetic.is](http://privacy.magnetic.is/). Magnetic may allow third parties to monitor Magnetic associated sites for the purpose of reporting website traffic, statistics, advertisements, "click-throughs" and/or other activities, and such third parties may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about Magnetic users. Users may go to <http://domdex.com/i> for information on what is being tracked. Users may go to <http://privacy.magnetic.is/w3c/optout.html> for information on how to opt-in or opt-out of use of their information by Magnetic and may go to <http://www.networkadvertising.org/managing/opt_out.asp> to opt-out of most third party tracking. 
+### Payment
 
-We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
-    
-    
-    28636 Roadside Drive
-    Suite 150
-    Agoura Hills, CA 91301 
-    USA
-    
+We accept credit card payments with Visa and MasterCard. Your credit card will be charged with the full order amount as soon as the order is registered. Our credit card provider is DIBS, they will securely handle your personal and financial information. DIBS has a PCI (Payment Card Industry) certification, with is an extensive program which aims to increase the security for all parties that store, process and transmit data. Read more about DIBS at dibs.se. 
 
-You may contact us by e-mail at [ support@ddc.com](mailto:support@ddc.com). You may call us at 800-332-8000. 
+We accept invoice payments with Klarna in Sweden, Norway, Denmark and Finland. Read more about Klarna at klarna.com. 
 
-## Dispute Resolution and Privacy Seals
+### Information security
 
-We have no privacy seals or other assurance mechanisms. 
+In order to process your order, we will collect personal information about you (e.g. your name, e-mail address, shipping/billing address and phone number). Credit card information is only handled by our third-party credit card provider (DIBS). 
 
-## Additional Information
+Non-personal information such as you IP address is automatically recorded when you enter our web site. This information is only used to diagnose server problems and site administration. 
 
-This policy is valid until 1 Jan, 2010 at 12:00:00 PST. 
+Cookies are used on this site in order to provide a better user experience, and for collecting site usage statistics. Cookies must be enabled when ordering from this site. 
 
-## Data Collection
+## Customer responsibilities
 
-P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 2 data groups. The data practices of each group will be explained separately. 
+By using onepiece.com, you agree to comply with all applicable law, and such further limitations as may be set forth in any written or on-screen notice from OnePiece Jump in. You are not allowed to use this site in any purpose that is unlawful or prohibited by this agreement. 
 
-* * *
+In all purchases or other transactions performed on this site, you must provide information that is accurate, complete and current. 
 
-### Group "Basic information"
+You cannot in any way attempt to violate the security of the site. 
 
-We collect the following information: 
+## Product information
 
-  * Click-stream data
-  * HTTP protocol elements
-  * Search terms
+We attempt to be as accurate as possible in describing the products on the site. We do not warrant that the product descriptions or other content of this site is accurate, complete, reliable, current or error-free. We have made every effort to display as accurate colors as possible of the products on the site. Displayed product colors may differ slightly from real-life colors depending on your computer monitor. 
 
+## Risk of loss
 
+All product purchased from this site are transported and delivered to you by an independent carrier not affiliated with, or controlled by, OnePiece Jump in. When we deliver the items you have purchased on this site to the carrier, the responsibility of the product passes on to you. 
 
-This data will be used for the following purposes:
-
-  * Completion and support of the current activity.
-  * Web site and system administration.
-  * Research and development.
-
-
-
-This data will be used by ourselves and our agents. 
-
-The following explanation is provided for why this data is collected:
-
-> Data collected from all Web users: access logs, and search strings (if entered).
-
-* * *
-
-### Group "Cookies"
-
-At the user's option, we will collect the following data: 
-
-  * HTTP cookies
-
-
-
-This data will be used for the following purposes:
-
-  * Targetting advertisements
-  * Research and development.
-  * One-time tailoring.
-
-
-
-This data will be used by ourselves and our agents. Domdex may allow third parties to monitor our data for the purpose of reporting website traffic, statistics, advertisements, "click-throughs" and/or other activities, and such third parties may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about Domdex users. 
-
-The following explanation is provided for why this data is collected:
-
-> Cookies are used to track visitors to our site, so we can better understand what portions of our site best serve you and tailor advertisements served on our partner websites.
-
-* * *
-
-## Cookies
-
-Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. 
-
-Our site makes use of cookies. Cookies are used for the following purposes: 
-
-  * User targeting 
-  * Research and development 
-
-
-
-* * *
-
-## Compact Policy Summary
-
-The compact policy which corresponds to this policy is: 
-    
-    
-        CP="ALL CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT"
-    
-
-The following table explains the meaning of each field in the compact policy. 
-
-**Field**|  **Meaning**  
----|---  
-`CP=` | This is the compact policy header; it indicates that what follows is a P3P compact policy.  
-`ALL` |  Access to all collected information is available.   
-`CURa` |  The data is used for completion of the current activity.   
-`ADMa` |  The data is used for site administration.   
-`DEVa` |  The data is used for research and development.   
-`TAIa` |  The data is used for tailoring the site.   
-`OUR` |  The data is given to ourselves and our agents.   
-`BUS` |  Our business practices specify how long the data will be kept.   
-`IND` |  The data will be kept indefinitely.   
-`UNI` |  Unique identifiers are collected.   
-`COM` |  Computer information is collected.   
-`NAV` |  Navigation and clickstream data is collected.   
-`INT` |  Interactive data is collected.   
-  
-The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at <http://www.w3.org/TR/p3pdeployment>. 
-
-* * *
-
-## Policy Evaluation
-
-Microsoft Internet Explorer 6 will evaluate this policy's compact policy whenever it is used with a cookie. The actions IE will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium. In addition, IE will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. This section will attempt to evaluate this policy's compact policy against Microsoft's stated behavior for IE6. 
-
-**Note:** this evaluation is currently experimental and should not be considered a substitute for testing with a real Web browser. 
-
-**Satisfactory policy** : this compact policy is considered _satisfactory_ according to the rules defined by Internet Explorer 6. IE6 will accept cookies accompanied by this policy under the High, Medium High, Medium, Low, and Accept All Cookies settings. 
+OnePiece Jump in may at any time update or close the site. We may discontinue or restrict your use of the site without any notice. 
