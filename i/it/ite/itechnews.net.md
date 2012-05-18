@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the itechnews.net privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206042328id_/http%3A//www.itechnews.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itechnews.net privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518183622id_/http%3A//www.itechnews.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | iTech News Net - Gadget News and Reviews
+# Privacy Policy | iTech News Net
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at itechnewsnet [at] gmail.com.
 
