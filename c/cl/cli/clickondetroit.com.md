@@ -1,55 +1,61 @@
-> *The following text is extracted and transformed from the clickondetroit.com privacy policy that was archived on 2010-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100318053847id_/http%3A//clickondetroit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickondetroit.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518082702id_/http%3A//www.clickondetroit.com/utility/Privacy-Policy/-/4728082/4045932/-/to5ojj/-/index.html) for the most accurate reproduction.*
 
-# Click on Detroit - Privacy
+# Privacy Policy | Utility Pages - Home
 
-**Internet Broadcasting Systems Privacy Policy:**  
-Internet Broadcasting Systems, Inc., WDIV and its affiliates and related companies (collectively "IBS") have created this privacy policy in order to demonstrate our commitment to protecting the personal information of our users. The following discloses our information gathering and dissemination practices for this Web site: [www.ClickOnDetroit.com](http://www.clickondetroit.com/). This privacy policy applies only to information collected by or through this website. It does not apply to information obtained by other means.
+ClickOnDetroit (the "Site"), on which this Privacy Policy is posted, is operated by WDIV-TV4 ("WDIV"), its parent, affiliated and related companies (collectively referred to herein as "we", "us", "our" or "WDIV"). We have created this privacy statement ("Privacy Policy") in order to demonstrate our commitment to the privacy of our Site's users, and to disclose our information gathering, use and dissemination practices with respect to the data collected online via this Site. It does not apply to information obtained by any other means (including on or through another Web site or source, or via any offline methods). By visiting this Site, you consent to these practices. Please take a moment to review the sections below. This Privacy Policy is incorporated into, and part of, the Site [Terms of Use](http://www.clickondetroit.com/utility/Terms-of-Use/-/4728082/4045986/-/cspepbz/-/index.html), which governs your use of this Site in general.
 
-**Information Collection and Use**  
-This Web site makes use of browser "cookies". Cookies are files written to a user's computer and read by the server programs to inform a Web site if the user has previously visited the Web site. We use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes. 
+ **You may opt in or opt out of our sharing of your personally identifiable information with third parties for their marketing use by following the directions in the "[What are my opt-out rights?](http://www.clickondetroit.com/privacy/index.html#Q4)" section below.**
 
-We often have third party content and ads on the Web site. These third party partners might use cookies to gather aggregate information about our users' browsing habits. Cookies can be rejected by you and if so none of the above information will be sent in cookies and some of the functionality of the Web site will not work as expected.
+[What information do we collect?](http://www.clickondetroit.com/privacy/index.html#Q1)
 
-We collect information from Web site visitors who must register for certain services online, from users who agree to participate in online surveys, from users who wish to make certain online information requests from us and from users who wish to participate in online contests and promotions sponsored by us. Because participation in these activities is completely voluntary, the user has a choice whether or not to disclose this information. The type of information so requested or collected by us includes user contact information (like the user's name and e-mail address) and user demographic information (like gender or age). Contact information will be used to notify contest winners and award prizes and, in some instances may be shared with the contest or survey sponsor. Anonymous survey information will be used for purposes of reporting survey results and monitoring or improving the use and satisfaction of this site. Users' personally identifiable information is not shared with third parties unless we give prior notice and choice. Though we may use an intermediary to conduct these surveys or contests, they may not use users' personally identifiable information for any secondary purposes unless explicitly stated to the user during the survey or contest. The visitor's contact information will be used to contact the visitor when the visitor has expressed interest in being contacted (visitors can opt-out of receiving future mailings by complying with the choice/output requirements noted below). The user demographic information collected will be used by us to tailor our visitors' experience at our site, showing them content that we think they might be interested in, and displaying content according to their preferences. If a user elects to use our referral service for informing a friend about our site or to send an e-card through our site, we ask them for the friend's name and e-mail address. IBS will automatically send the friend a one-time e-mail inviting them to visit the site or sending an e-card, as the case may be. IBS stores this information for the sole purpose of sending this one-time e-mail and tracking the success of our referral program. The friend may contact [security@ibsys.com](mailto:security@ibsys.com) to request the removal of this information from our database. 
+[How may your information be used?](http://www.clickondetroit.com/privacy/index.html#Q2)
 
-We use your IP address and request headers (information your browser sends to the server) to help diagnose problems with our server, and to administer our Web site. We track and record IP addresses that access our site for reporting and profiling purposes only. We also gather anonymous browsing habits of our visitors to better identify content preferences. We also may use cookies to allow third parties to better serve advertisements to you outside of this Web site on Web sites operated by Internet Broadcasting Systems, Inc. and other Web sites. User demographic information is shared with advertisers and other third parties on an aggregate basis, which will not personally identify the individual submitting such information.
+[How may your information be disclosed?](http://www.clickondetroit.com/privacy/index.html#Q3)
 
-We may also share personally identifiable user information with governmental authorities when legally required to do so, and to cooperate with such authorities investigating claims of illegal activity such as (but not limited to) illegal transfer of copyrighted material, or user Web site postings or e-mail messages that contain threats of violence. We may also disclose personally identifiable information in other cases where we have reason to believe that disclosure is necessary to enforce compliance with our Terms of Use.
+[What are my opt-out rights?](http://www.clickondetroit.com/privacy/index.html#Q4)
 
-**Third Party Advertisers**  
-In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique cookie on your browser. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here. ](http://networkadvertising.org/consumer/opt_out.asp)
+[What about cookies and tracking pixels?](http://www.clickondetroit.com/privacy/index.html#Q6)
 
-**Linking and Framing**  
-This site contains links to other sites. This site is not responsible for the privacy practices or the content of such Web sites. Occasionally when linking to another site, you may still see our site's logo or frame. This is to provide you with a seamless experience when visiting our Web site. In these cases you are no longer on ClickOnDetroit.com and are now on a different Web site whose information collection practices may differ from ours. The privacy policy of the site you are on will govern how information collected from you is used.
+[What about third-party advertisers?](http://www.clickondetroit.com/privacy/index.html#Q7)
 
-**Public Forums**  
-This site at some or all times makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. IBS cannot accept any responsibility for ensuring the privacy of information that you choose to disclose in these areas.
+[What information is collected from children under the age of 13?](http://www.clickondetroit.com/privacy/index.html#Q8)
 
-**Security**  
-This site has reasonable security measures in place to protect the loss, misuse and alteration of the information under our control. Please remember that no computer system should be considered safe from intrusion. E-mail may pass through many computer systems, and should not be considered as a secure means of communication unless encrypted. Even then, information is only as secure as the encryption method. Employees are made aware of security policies and changes via e-mail reminders monthly. Access is limited to a very small number of employees with a defined need and is password protected. In order to provide the best possible security we review our Web security policies every 180 days.
+[How do we aim to protect personally identifiable information collected on this Site?](http://www.clickondetroit.com/privacy/index.html#Q9)
 
-**Children and Privacy**  
-This site is generally not targeted to children. If we learn that we have received personally identifiable information from a child under the age of 13, we will take steps to delete such information or to obtain verifiable parental consent.
+[How can you access and edit your personally identifiable information?](http://www.clickondetroit.com/privacy/index.html#Q10)
 
-**Supplemental Information**  
-This site may supplement the information that you provide with information that is received from third parties. This information may be received from our partners in sponsored content sections. The type of information that is shared could include user contact information (like name and e-mail address) and user demographic information (like zip code, age or income level). This site will use such information in accordance with this privacy policy. However, when you leave the ClickOnDetroit.com Web site the privacy statement of the other site will apply to use of information by that site. (See "Linking and Framing" above).
+[What Web sites does this Privacy Policy cover?](http://www.clickondetroit.com/privacy/index.html#Q11)
 
-**Choice/Opt-Out**  
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. You will notice in all free e-mail subscriptions generated from this Web site there is an unsubscribe link at the bottom of the message. Simply click on this link to go to a page that allows you to unsubscribe from any or all of the lists you are subscribed to.
+[What if I am a non-U.S. user?](http://www.clickondetroit.com/privacy/index.html#Q12)
 
-In addition to using the unsubscribe page, you can send an e-mail to [security@ibsys.com.](mailto:security@ibsys.com)
+[What happens to your information if there is a corporate change of control?](http://www.clickondetroit.com/privacy/index.html#Q13)
 
-**Correct/Update**  
-If you desire to change or modify information previously provided you may either e-mail [security@ibsys.com](mailto:security@ibsys.com) or send a letter to the Security Administrator at the address below.
+[What about changes to this privacy policy?](http://www.clickondetroit.com/privacy/index.html#Q14)
 
-**Contacting the Web site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
+[How can you ask questions or contact us?](http://www.clickondetroit.com/privacy/index.html#Q15)
 
-Security Administrator  
-Internet Broadcasting Systems  
-355 Randolph St.  
-Saint Paul, MN 55102  
-[security@ibsys.com](mailto:ecurity@ibsys.com)
+ **What information do we collect?**
 
- **Changes to This Policy**  
-We may make changes to this policy from time to time. We will post changes to this policy here, so be sure to check back periodically. We will generally use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify our users via e-mail or by posting a notice on the site for 30 days.
+We may collect both personally identifiable information about you and non-personally identifiable information about you and your visits to this Site.
+
+ _Personally Identifiable Information:_ The personally identifiable information we collect about you includes information you submit to us. For example, if you subscribe to online services we offer or register for certain services with us online that require registration, agree to participate in on-line surveys, participate in on-line contests, sweepstakes and promotions sponsored by us and others, make certain on-line information requests to us, participate in various activities on the Site, or want to establish a profile for submission of user-generated content available to other Site visitors and/or the general public, we may ask you to provide "personally identifiable information," such as your contact information (e.g., name, phone number, address and e-mail address) and user demographic information (e.g., gender, age, hobbies or interests). Because participation in these activities is completely voluntary, you choose whether to disclose this information.
+
+ _Non-Personally Identifiable Information:_ The non-personally identifiable information we collect may include the domain name of the site providing you with Internet access, and the Internet protocol (IP) address used to connect your computer to the Internet. The Site's servers may also collect your browser type and version, screen resolution, the operating system your computer is running, and other Site visit data such as the pages you view, the referring page that linked you to us (e.g., another Web site or a search engine), information you search for, information or ads you click on, the average time spent on the Site, and the Web site you visit after this Site. Much of this information is tracked through log files, which are stored on the Site's servers. Additional information about our use of cookies and tracking pixels to collect non-personally identifiable information is set forth in the "What about cookies and tracking pixels?" section below. Any or all of the above-described activities with respect to non-personally identifiable information may be performed on our behalf by our Services Providers (defined below).
+
+ _Information Obtained from Third Parties:_ We may supplement the information that you provide with information that is received or otherwise obtained from third parties. For example, this information may be received or obtained from our partners in sponsored content sections or from other third parties. The type of information that is shared with us may include user contact information (e.g., name and email address) and user demographic information (e.g., zip code, age or income level), as well as other types of personally identifiable information and non-personally identifiable information.
+
+ **How may your information be used?**
+
+ _How Personally Identifiable Information May Be Used:_ We may use your personally identifiable information for various purposes, such as to send confirmation notices regarding services users have requested, and to notify contest or sweepstakes winners and award prizes. Contact information may also be used to notify you of significant upcoming events and programs. Demographic information may be used to tailor your experience at the Site. Contact information and demographic information may be used to establish a profile for you to use when posting information in public forums (however, as further described below, we are not responsible for protecting the personally identifiable information you may disclose in public forums, comments, or other user-generated content). The Site may show you content we think might be of interest to you and we may display content according to your preferences and interests.
+
+We may also use any personally identifiable information you provide for marketing and promotional purposes (such as sending you promotional emails), and we may combine information we receive online with outside records and/or information from other sources to enhance our ability to market products or provide services that we believe may be of interest to you. **If you want to stop receiving promotional email messages from WDIV, you may do so by following the directions in the "[What are my opt-out rights?](http://www.clickondetroit.com/privacy/index.html#Q4)" section below.**
+
+ _Referral Services:_ In addition to the uses of personally identifiable information described above, if you elect to use our referral service for informing a friend about the Site or to send an e-card through the Site, we ask you for your friend's name and email address. We will automatically send the friend an email inviting him/her to visit the Site or send an e-card, as the case may be. You and any friend you refer may be able to opt-out of receiving future marketing communications by complying with the choice/opt-out requirements described below.
+
+No closings were found at this time.
+
+Advertisement
+
+Advertisement
+
+Advertisement
