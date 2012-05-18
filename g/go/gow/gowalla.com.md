@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gowalla.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224064726id_/http%3A//gowalla.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gowalla.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518060706id_/http%3A//www.gowalla.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy | Gowalla
+# Gowalla
 
 Gowalla, Inc. (“Gowalla,” “we,” or “us”), knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Gowalla when you use the Gowalla Service, how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this policy are defined in our Terms of Use. We expect that Users will use Gowalla for harmless and fun social purposes. Please note, though, that by its nature, your location information is subject to abuse, misuse, and over-monitoring by others including, perhaps, by your friends, family, or acquaintances. Please manage your own mobile and profile privacy preferences on the Service, on an ongoing basis, accordingly. 
 
