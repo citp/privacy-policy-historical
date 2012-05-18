@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the retireonthis.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230084548id_/http%3A//retireonthis.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retireonthis.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518210217id_/http%3A//retireonthis.com/privacy.php) for the most accurate reproduction.*
 
 # RetireOnThis
 
-[](http://retireonthis.com/sponsorclick.php?id=25)
+[](http://retireonthis.com/sponsorclick.php?id=30)
 
 ** RetireOnThis Privacy Policy**
 
@@ -33,6 +33,6 @@ What happens if the Privacy Policy Changes? We will let our Visitors and Authori
 
 Links: This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
 
-© Copyright 2010-2011 [RetireOnThis.com](http://retireonthis.com/) All Rights Reserved 
+© Copyright 2010-2012 [RetireOnThis.com](http://retireonthis.com/) All Rights Reserved 
 
 [Terms and Conditions](http://retireonthis.com/terms.php) |  [Earnings Disclaimer](http://retireonthis.com/earnings.php) |  [ Spam Policy](http://retireonthis.com/spam.php) |  [ Privacy Policy](http://retireonthis.com/privacy.php)
