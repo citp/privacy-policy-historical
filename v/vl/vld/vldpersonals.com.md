@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vldpersonals.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119024609id_/http%3A//www.vldpersonals.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vldpersonals.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518183816id_/http%3A//www.vldpersonals.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy policy | vldPersonals
 
