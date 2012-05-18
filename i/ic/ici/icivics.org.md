@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icivics.org privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229033159id_/http%3A//www.icivics.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icivics.org privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518063121id_/http%3A//www.icivics.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | iCivics
 
@@ -38,11 +38,11 @@ We may change this Privacy Policy from time to time, so it is advisable to revie
 
 ## contact information
 
-If you have questions about our handling of personal information, you may write to us at [jjc232@law.georgetown.edu](mailto:jjc232@law.georgetown.edu) or at the address below.
+If you have questions about our handling of personal information, you may write to us at[ feedback@icivics.org](mailto:feedback@icivics.org) or at the address below.
 
 ## mailing address
 
-iCivics, Inc. is a 501(c)(3) tax-exempt nonprofit located at 600 New Jersey Ave, NW McDonough Hall 336 Washington DC 20001.
+iCivics, Inc. is a 501(c)(3) tax-exempt nonprofit located at 1875 K Street NW, 5th Floor Washington, DC 20006.
 
 This privacy policy is effective as of May 16, 2010.
 
