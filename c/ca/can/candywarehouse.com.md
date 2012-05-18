@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the candywarehouse.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229183652id_/http%3A//www.candywarehouse.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candywarehouse.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518153304id_/http%3A//www.candywarehouse.com/service/privacy) for the most accurate reproduction.*
 
-# Candy Warehouse Privacy Policy
+# Privacy Policy | CandyWarehouse.com Online Candy Store
 
-_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.candywarehouse.com/seal_m "Validate TRUSTe privacy certification")  
 CandyWarehouse.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at customercare@candywarehouse.com. If you are not satisfied with our response you can contact TRUSTe here: [Submit a Privacy Complaint with TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint)
 
- **CandyWarehouse.com Privacy Policy** Effective on: 1/19/2007
+[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.candywarehouse.com&sealid=101)
+
+**CandyWarehouse.com Privacy Policy Effective on: 1/19/2007**
 
 CandyWarehouse.com respects your privacy. CandyWarehouse.com does not share, rent, or loan any personally identifiable information (PII) regarding its customers to any third party for promotional purposes or in ways different than listed in this privacy policy. Any information you give us is held with the utmost care and security, and will not be used in ways to which you have not consented.
 
@@ -13,9 +14,9 @@ CandyWarehouse.com will not collect any personal information about individuals e
 
 CandyWarehouse.com recommends that if you are providing information on behalf of a child, that you use the child's parent or guardian's email address and that you have the permission of that child's parent or guardian.
 
- **1.** We collect contact information from you, such as your name, email address, and phone number on our website when you use the “Contact Us” or “Track” forms on our website. We use this information to directly respond to your inquiries or to track and show you the status of your placed order.
+1\. We collect contact information from you, such as your name, email address, and phone number on our website when you use the "Contact Us" or "Track" forms on our website. We use this information to directly respond to your inquiries or to track and show you the status of your placed order.
 
- **2.** When making a purchase, signing up for our newsletter, or joining our Candy Blog the following information is generally collected from you: contact information, such as name, email address, billing and shipping address and phone numbers; and financial information, such as credit card number. We work with a number of third party service providers to facilitate these functions on behalf of our website. Please be aware that when utilizing these features you will be submitting your information directly to these third party websites. Please see “Information Sharing and Disclosure” sections below for further information. This information is used for billing purposes and to fulfill orders, to subscribe you to our newsletter and our Candy Blog. In providing this personally identified information to the above 3rd parties but these companies do not have any independent right to share this information. Therefore, CandyWarehouse.com governs the collection and use of this type of shared information.
+2\. When making a purchase, signing up for our newsletter, or joining our Candy Blog the following information is generally collected from you: contact information, such as name, email address, billing and shipping address and phone numbers; and financial information, such as credit card number. We work with a number of third party service providers to facilitate these functions on behalf of our website. Please be aware that when utilizing these features you will be submitting your information directly to these third party websites. Please see "Information Sharing and Disclosure" sections below for further information. This information is used for billing purposes and to fulfill orders, to subscribe you to our newsletter and our Candy Blog. In providing this personally identified information to the above 3rd parties but these companies do not have any independent right to share this information. Therefore, CandyWarehouse.com governs the collection and use of this type of shared information.
 
 When making a purchase, additional information may be requested if you are sending an order to someone other than yourself. For example, if you are sending a shipment to a friend, you will be providing that friend’s shipping address and phone number so that we may fulfill this request. The friend’s information is not used for any secondary purposes.
 
@@ -29,28 +30,28 @@ If you have questions or concerns regarding this statement, you should first con
 
 If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe.
 
-If you wish to opt-out of any of our newsletters or promotional emails, please see the “Choice and Opt-Out” section below.
+If you wish to opt-out of any of our newsletters or promotional emails, please see the "Choice and Opt-Out" section below.
 
 **Customer Service**
 
 Based upon the personally identifiable information you provide us, we will send you order confirmation and order shipment status emails. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes. As these communications are service related, and not promotional in nature, generally you may not opt-out of these emails.
 
-The Yahoo Merchant Solutions system has an internal rating system that can be sent to the consumer after a candy purchase on CandyWarehouse.com. This consumer rating template is standardized and consists of 5 quality performance parameters and body text. It is only sent to the consumer if they check the box on the order form that states “would you like Yahoo to send you an email asking you to rate this merchant?” The consumer rating form is a one time email from Yahoo.
+The Yahoo Merchant Solutions system has an internal rating system that can be sent to the consumer after a candy purchase on CandyWarehouse.com. This consumer rating template is standardized and consists of 5 quality performance parameters and body text. It is only sent to the consumer if they check the box on the order form that states "would you like Yahoo to send you an email asking you to rate this merchant?" The consumer rating form is a one time email from Yahoo.
 
 **Information Sharing and Disclosure**
 
-Aggregate Information (non-personally identifiable):  
+**Aggregate Information (non-personally identifiable):**  
 CandyWarehouse.com may share non-personal aggregate, or summary, information regarding its customers with partners or other third parties, but CandyWarehouse.com does not share any information at the individual customer level.
 
 We do not link aggregate user data with personally identifiable information.
 
-Personally identifiable information:  
+**Personally identifiable information:**  
 We DO NOT Share Personally Identifiable Information with Third Parties for their promotional purposes or in ways other than listed below in this privacy statement.
 
-Agents and Service Providers:  
+**Agents and Service Providers:**  
 We use a credit card processing company to bill you for goods and services and a shipping agent to fulfill delivery of goods. Other service providers include our web hosting company that provides the blog on our site, and an email service provider that facilitates our newsletter e-mailings. These companies do not retain, share, store or use personally identifiable information for any other purposes.
 
-Legal Disclaimer:  
+**Legal Disclaimer:**  
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site
 
 **Choice/Opt-out**
@@ -71,21 +72,19 @@ We are hosted by Yahoo! Merchant Solutions that uses cookies and log files to tr
 
 **Third-Party Web Beacons**
 
-We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com).
+We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, 
 
-**Cookies**
+[click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com).
+
+** Cookies**
 
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
 
-We use both session ID cookies and/or persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
+We use both session ID cookies and/or persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s "help" file.
 
 We set a persistent cookie to store your items placed in your shopping cart, so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
 
 If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited.
-
-**Third Party Cookies**
-
-The use of cookies by our partners, affiliates, tracking utility company, and service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, and service providers (Google, Commission Junction, Power Reviews, and Shopzilla) use session ID cookies to make it easier for you to navigate our site, pay commissions to affiliate sites such as eBates, verify that product reviews are written by actual customers of the website, and track visitor traffic and conversion rates, etc.
 
 **Links to Other Sites**
 
@@ -110,10 +109,6 @@ If you have any questions about security on our Web site, you can send email us 
 **Business Transitions**
 
 In the event CandyWarehouse.com goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email of any such change in ownership or control of your personal information.
-
- **Data Retention**
-
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at customercare@candywarehouse.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements and policies.
 
 **Changes in this Privacy Statement**
 
