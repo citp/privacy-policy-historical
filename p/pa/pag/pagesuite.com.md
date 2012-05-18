@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pagesuite.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231010007id_/http%3A//www.pagesuite.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagesuite.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518084824id_/http%3A//www.pagesuite.com/Privacy.aspx) for the most accurate reproduction.*
 
 # PageSuite - Privacy
 
@@ -10,6 +10,13 @@ PageSuite Limited understands the importance of maintaining the confidentiality 
 ## General Information
 
 In general, we gather information about all of our users collectively, such as what areas of this website are visited most frequently and which of our services are accessed the most. We only use such data in an aggregate form. This information helps us determine what is most beneficial for our users, and how we can continually create a better overall experience for you.
+
+  
+
+
+## Unique Device Identification (UDID’s) for Apple applications and how we use them
+
+PageSuite use a UDID collection service for all of our iOS Dynamic apps. The data is completely anonymous and no other information will be collected. The UDID capture is used ONLY for restoration of subscriptions and previous purchases. Unlike many other mobile applications, we do not use this unique identifier to push any other services, whether it be adservers, purchasing history, likes/interests etc… this service is purely for restoration of items and subscriptions you may have purchased.
 
   
 
