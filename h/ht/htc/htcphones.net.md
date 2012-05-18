@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the htcphones.net privacy policy that was archived on 2011-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111020201910id_/http%3A//www.htcphones.net/advertise/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htcphones.net privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518133455id_/http%3A//www.htcphones.net/advertise/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | HTC Phones
 
 HTCPhones.net is a freely available and independent blog, providing information mostly dedicated to devices made by [HTC](http://www.htc.com/), however HTCPhones.net has no official affiliation with High Tech Computers (HTC) and all  logos, trademarks etc belong to their respective owners.
 
@@ -41,5 +41,3 @@ Some of our business partners use cookies on our site for example, advertisers, 
 Other
 
 This site contains links to other sites. HTCPhones.net is not responsible for the privacy practices or the content of such Web sites. We do not collect any other personal or identifiable information through any means on our website.
-
-Popularity: 1% 
