@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the enggwave.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220051826id_/http%3A//www.enggwave.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enggwave.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518045311id_/http%3A//www.enggwave.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Engineering Wave
+
+## **_Privacy Policy:_**
 
 **_Terms of Use:_**  
 While we have made every effort to provide accurate and meaningful information on our website, we cannot guarantee its accuracy. We are not responsible for any actions that you perform based on the content of this site or damages that are a direct or indirect result of its use.
 
- ** _What information do we collect?_**  
+**_What information do we collect?_**  
 We collect information from you when you respond to a survey, fill out a form or comment.   
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
