@@ -1,0 +1,35 @@
+> *The following text is extracted and transformed from the babblestorm.co.uk privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518050453id_/http%3A//www.babblestorm.co.uk/static/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy - Babblestorm
+
+## Privacy Policy Statement
+
+Thank you for visiting www.babblestorm.co.uk (Babblestorm). We appreciate the opportunity to interact with you on the Internet and are committed to protecting and safeguarding your privacy. The purpose of this Privacy Policy is to inform you about the types of information we might collect about you when visiting Babblestorm, how we may use that information and whether we disclose that information to anyone.
+
+**What Information We Collect and How We Use It**
+
+Any information we collect on Babblestorm generally falls into the Personally Identifiable Information category.
+
+Personally Identifiable Information: This refers to information that lets us know specifically who you are. In general, you can visit Babblestorm without telling us who you are or revealing any Personally Identifiable Information.
+
+**Sharing Your Information**
+
+Except as disclosed in this Privacy Statement, we do not sell, trade, rent, or otherwise retransmit any Personally Identifiable Information we collect online unless we have your permission.
+
+From time to time, we may be required to provide Personally Identifiable Information in response to court order, subpoena, or government investigation. We also reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful.
+
+We may release Personally Identifiable Information when we believe that such release is reasonably necessary to enforce or apply our Limited Warranty or to protect the rights, property, and safety of others and ourselves.
+
+**Links To Other Web Sites**
+
+Links to third-party Web sites may be provided solely for your information and convenience, or to provide additional information for various other goods and services. If you use these links, you will leave Babblestorm. This Privacy Statement does not cover the information practices of those Web sites linked to from Babblestorm, nor do we control their content or privacy policies. We suggest that you carefully review the privacy policies of each site you visit.
+
+**Changes To This Statement**
+
+Any updates or changes to the terms of this Privacy Statement will be posted here on Family Health Guide and the date of the newest version posted below. Please check back frequently, especially before you submit any Personally Identifiable Information at Babblestorm, to see if this Privacy Statement has changed.
+
+By using Babblestorm, you acknowledge acceptance of this Privacy Statement in effect at the time of use.
+
+**Contact Us**
+
+If you have any concerns about our use of your information or about this Privacy Policy, please send an e-mail to feedback@babblestorm.co.uk . We will make every reasonable effort to address your concerns and remedy any problems you bring to our attention. 
