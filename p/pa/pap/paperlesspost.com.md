@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the paperlesspost.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101105852id_/http%3A//www.paperlesspost.com/info/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paperlesspost.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518205507id_/http%3A//www.paperlesspost.com/info/terms/privacy) for the most accurate reproduction.*
 
 # Paperless Post - Privacy Policy - Privacy Policy
 
-**This Privacy Policy is effective as of April 19, 2009, and has been updated as of March 16, 2010.**
+**This Privacy Policy is effective as of April 19, 2009, and has been updated as of November 28, 2011**
 
 * * *
 
@@ -47,7 +47,10 @@ Site users and/or event guests invited to the same events as you will be able to
 As we develop our business, we might sell, buy or merge businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets. 
 
 **Related Companies:**   
-We may also share your Personal Data with our Related Companies for purposes consistent with this Privacy Policy. 
+We may also share your Personal Data with our Related Companies for purposes consistent with this Privacy Policy.
+
+**Co-Branded Partners:**   
+Co-Branded Partners are third parties with whom Paperless Post may jointly offer a service or feature. You can tell when you are accessing services offered by a Co-Branded Partner because the Co-Branded Partner’s name will be featured. You may be asked to provide information about yourself to register for a service offered by a Co-Branded Partner. In doing so, you may be providing your information to both us and the Co-Branded Partner or we may share your information with the Co-Branded Partner. Please note that the Co-Branded Partner’s privacy policy may apply to its use of your information. 
 
 **Agents, Consultants and Related Third Parties:**   
 Paperless Post, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information, maintaining databases and processing payments. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function. 
@@ -57,7 +60,7 @@ Paperless Post may disclose your Personal Data if required to do so by law or in
 
 * * *
 
-You can use the Site without providing any Personal Data when you receive Stationery or other correspondence. If you choose not to provide any Personal Data, you will not be able to use certain Paperless Post Services, such as sending Stationery or other correspondence. 
+You can use the Site without providing any Personal Data when you receive Stationery or other correspondence or when you view an event invitation or card publicly distributed on the web. If you choose not to provide any Personal Data, you will not be able to use certain Paperless Post Services, such as sending Stationery or other correspondence or as a guest user registering a response to a host of a public event invitation. 
 
 * * *
 
