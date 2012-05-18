@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bayshoresolutions.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103005402id_/http%3A//www.bayshoresolutions.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bayshoresolutions.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518163317id_/http%3A//www.bayshoresolutions.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ Bayshore Solutions is committed to ensuring that your privacy is protected. Shou
 
 Bayshore Solutions may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from January 1, 2009.
 
-#### **What  data we collect**
+## **What  data we collect**
 
 We may collect the following information:
 
@@ -20,7 +20,7 @@ We may collect the following information:
 
 
 
-#### **What we do with the information we gather**
+### **What we do with the information we gather**
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
@@ -31,11 +31,11 @@ We require this information to understand your needs and provide you with a bett
 
 
 
-#### **Security**
+### **Security**
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place thorough physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-#### **How we use cookies**
+### **How we use cookies**
 
 A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
@@ -45,18 +45,22 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. However, doing this may prevent you from taking full advantage of the website.
 
-#### **Links to other websites**
+### **Links to other websites**
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-#### **Controlling your personal information**
+### **Controlling your personal information**
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so.
 
 At any time you may unsubscribe from any of our e-mail publication distributions through our e-mail management system’s unsubscribe button or by emailing us at: Marketing@BayshoreSolutions.com
 
-#### **Children Under 13**
+### **Children Under 13**
 
 If you are under 13, please do not use this site.
 
-Feel free to contact us at any of our office locations , via e-mail at: Marketing@BayshoreSolutions.com or our toll free number, **866.352.4791** should you have any questions or concerns
+Feel free to contact us at any of our office locations , via e-mail at: Marketing@BayshoreSolutions.com or our toll free number, **866.352.4791** should you have any questions or concerns.
+
+## Follow Us On
+
+[](http://www.facebook.com/BayshoreSolutions) [](http://twitter.com/#!/bayshorewebpros) [](http://www.youtube.com/user/BayshoreSolutions) [](https://web.archive.org/about-bayshore-solutions/blog.aspx)
