@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tera-europe.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217064555id_/http%3A//tera-europe.com/en/data-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tera-europe.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519003157id_/http%3A//tera-europe.com/data-privacy-policy.html) for the most accurate reproduction.*
 
-# Data Privacy Policy
+# Data Privacy Policy - Tera Europe
 
 Version-Nr.: 1.2 from May 27th 2010
 
