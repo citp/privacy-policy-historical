@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swiftway.net privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630131651id_/http%3A//www.swiftway.net/links/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swiftway.net privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518081350id_/http%3A//swiftway.net/links/privacypolicy) for the most accurate reproduction.*
 
 # Swiftway Business Provider offers dedicated servers,CDN, colocation,streaming and hosting solutions
 
