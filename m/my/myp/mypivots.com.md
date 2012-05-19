@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypivots.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127223109id_/http%3A//www.mypivots.com/page.aspx%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypivots.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519075116id_/http%3A//www.mypivots.com/page.aspx%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -19,7 +19,7 @@ MyPivots maintains a database of email addresses of users who have:
 
 The contents of this database (including e-mail and postal addresses) are treated as confidential and are never published or shared with any other party (in part or as whole). 
 
-You can remove yourself from the database at any time by [ e-mailing us](https://web.archive.org/DeltaT/contact.aspx) or clicking the unsubscribe link at the bottom of any email. 
+You can remove yourself from the database at any time by [ e-mailing us](https://web.archive.org/deltat/contact.aspx) or clicking the unsubscribe link at the bottom of any email. 
 
 ### Sending of Email Messages
 
@@ -48,7 +48,7 @@ You may opt out of the use of the DART cookie by visiting the [Google ad and con
 
 ### Contact us
 
-Please [e-mail us](https://web.archive.org/DeltaT/contact.aspx) if you have any concerns, or if you wish to have any information that you have provided removed from our files. 
+Please [e-mail us](https://web.archive.org/deltat/contact.aspx) if you have any concerns, or if you wish to have any information that you have provided removed from our files. 
 
 * * *
 
@@ -79,7 +79,7 @@ We do not collect any identifiable data about our visitors.
 
 * * *
 
-### [Cookies](https://web.archive.org/web/20111127223109id_/http%3A//www.mypivots.com/page.aspx%3Fpage%3Dprivacy?page=cookies)
+### [Cookies](https://web.archive.org/web/20120519075116id_/http%3A//www.mypivots.com/page.aspx%3Fpage%3Dprivacy?page=cookies)
 
 Cookies are used to enhance your browsing experience by remember previously used settings. 
 
