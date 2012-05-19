@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotscripts.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228033446id_/http%3A//www.inetinteractive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotscripts.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519081701id_/http%3A//www.inetinteractive.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy |
 
