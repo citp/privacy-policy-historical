@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shawcable.net privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118174236id_/http%3A//www.shawcable.net/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shawcable.net privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519170504id_/http%3A//www.shawcable.net/Privacy-Policy) for the most accurate reproduction.*
 
 # Shaw Privacy Policy — The principles, definitions and commitment to your privacy - Shaw.ca
 
@@ -164,8 +164,11 @@ Any changes to Shaw’s Privacy Policy shall be acknowledged in this Policy in a
 
 
 
-[Terms and Conditions]()
+Terms and Conditions
 
 * Offer subject to change. Prices shown do not include tax. Shaw Phone and Internet Services are subject to Shaw’s Acceptable Use policies under [Terms of Use](https://web.archive.org/Terms-of-Use). Not all Shaw services are available in all regions. Channels and programming vary by region. Equipment not purchased by you must be returned to Shaw if your Shaw Services are cancelled. You may not resell any Shaw Services. Other conditions may apply.
 
 † † If you sign up for the Shaw Easy Own program, you will obtain title to the hardware immediately with the understanding you are required to pay Shaw for the hardware in 36 pre-authorized monthly installments. You also agree any outstanding balance is due immediately to Shaw if Shaw Services are terminated. Additional terms and conditions will apply. For more information, visit our [Terms of Use](https://web.archive.org/Terms-of-Use).
+
+© 2012 Shaw Communications Inc. All Rights Reserved.  
+ 
