@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the quartertothree.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119142218id_/http%3A//www.quartertothree.com/fp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quartertothree.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519033939id_/http%3A//www.quartertothree.com/fp/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Quarter to Three
-
-## [Privacy policy](http://www.quartertothree.com/fp/privacy-policy/ "Permalink to Privacy policy")
-
-| January 12, 2011, 11:42 pm
 
 ### Privacy Policy for www.quartertothree.com
 
