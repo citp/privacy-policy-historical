@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the worldprofitassociates.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101121048id_/http%3A//www.worldprofit.com/policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldprofitassociates.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519161630id_/http%3A//www.worldprofitassociates.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Worldprofit.com
+# Worldprofit Associates - Worldprofit Privacy Policy
 
-**Our Commitment to Protect Your Personal Information** Worldprofit has been helping  
+**Worldprofit Privacy Policy**
+
+Our Commitment to Protect Your Personal Information Worldprofit has been helping  
 businesses online since 1994, longer than any other online business support company. The reason we’re still here is clear: people like what we do for their business and bottom line!
 
 This page summarizes the privacy policy and practices on the Worldprofit Inc., website at Worldprofit.com. Worldprofit Inc., is committed to providing our visitors with a website that respects their privacy. We do not automatically gather any personal information from you, such as your name, address, phone number or e-mail address. This information is only obtained if you supply it voluntarily, usually through contacting us by e-mail or registering in a secure portion of the site. 
