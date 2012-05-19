@@ -1,72 +1,88 @@
-> *The following text is extracted and transformed from the willis.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117231559id_/http%3A//www.willis.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the willis.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519082051id_/http%3A//www.willis.com/Privacy_Policy) for the most accurate reproduction.*
 
-# Privacy Policy - willis.com
+# Privacy Policy - Willis
 
-### Willis Group Holdings Privacy Statement
+* **WHO WE ARE**
 
-Our Privacy Notice  
-Keeping customer information secure is a priority for Willis Group Holdings, and its subsidiaries (“Willis”). We are providing this privacy notice to individual clients who purchase or receive our services through one of the Willis Family of Companies for personal, family or household purposes. We hope this helps you understand how we handle the personal information about you that we collect and may disclose. This notice also tells you how you can limit our disclosure of personal information about you. The provisions of this notice will apply to former clients as well as our current clients unless we state otherwise.
+This is the website of the Willis Group (“Willis”). Willis Group Holdings PLC, a company incorporated in the Republic of Ireland, is the ultimate holding company for the Group. The Willis Group operates worldwide with subsidiary and affiliate companies in the USA, Canada, Latin America, Asia-Pacific, Eastern and Western Europe, Russia, the Middle East, United Kingdom and Ireland.
 
-When we share personal information within the Willis Family of Companies, it can make it easier to service your placement because it reduces the time it might have taken to obtain needed information. In addition, sharing personal information can help you receive timely notice about new services or other enhancements that may be of interest to you from the Willis Family of Companies or from nonaffiliated third parties.
+Keeping customer information secure is a priority for Willis. This website contains links to other websites. This Privacy Notice is specific to Willis.com. There are links from Willis.com to further Willis websites and to further web pages of Willis.com which may be subject to specific terms and conditions of use including separate privacy notices and terms. **You must not provide personal information if you do not accept those terms and conditions of use**.
 
-We protect personal information we collect about you by maintaining physical, electronic, and procedural safeguards that meet or exceed applicable law. Unrelated third parties who have access to personal information must agree to follow appropriate standards of security and confidentiality. We train our employee on how to properly handle personal information and we restrict access to personal information.
+Where links from Willis.com are provided to non-Willis websites, Willis is not responsible for those websites. These third party websites will be governed by different privacy notices and policies and you are responsible for reviewing the relevant privacy policy for each website that you visit.
 
-Categories of Personal Information We Collect and May Disclose:  
-The personal information we collect about you comes from the following sources:
+  
 
-  1. Information we receive from you on applications or other forms, such as name, address, social security number, telephone number, occupation, marital status, claims histories, risk characteristics and activities, personal health information, assets and income;
-  2. Information about your placements we make on your behalf, on behalf of an insurer, or nonaffiliated third parties;
-  3. Information we receive from a consumer reporting agency, such as your credit bureau reports and other information relating to your credit worthiness; and
-  4. Information we receive about you from other sources, such as your employer and other third parties.
+* **WILLIS WEBSITE**
 
+Willis.com is hosted on servers in the United States. If you are located outside the US, your provision of personal information or other access to our website constitutes your transfer of personal data to the United States, a jurisdiction that may not provide an equivalent level of data protection to the laws in your own jurisdiction. Willis maintains appropriate technical and organisational security measures to protect the security of your data against loss, misuse, unauthorised access, disclosure or alteration. Despite this, the security of the transmission of information via the internet cannot always be guaranteed and you acknowledge this in your access and use of this website.
 
+  
 
-We may disclose any of the information that we collect within the Willis Family of Companies and nonaffiliated third parties as described below.
+* **INFORMATION WE MAY COLLECT FROM YOU**
 
-Categories of Affiliates to Whom We May Disclose Personal Information  
-Our affiliates are the family of companies controlled by Willis. Affiliates with whom we may share personal information about you are all insurance brokers, broker dealers or other insurance industry participants. Our brokers offer different lines of brokerage and placement services which are more fully explained on our website, www.willis.com. Our affiliates generally do business under the Willis brand or the English language equivalent of the Willis brand.
+The type of information we may collect includes:
 
-Categories of Nonaffiliated Third Parties to Whom We May Disclose Personal Information  
-Nonaffiliated third parties are third parties not controlled, directly or indirectly, by Willis. We may disclose personal information about you to the following types of nonaffiliated third parties:
-
-  1. Financial services providers, such as companies engaged in insurance and securities;
-  2. Non-financial organizations, such as companies engaged in direct marketing and the selling of consumer products and services;
-  3. Governmental authorities, regulatory authorities;
-  4. Unrelated third parties who obtain and present to us appropriate judicial orders;
-  5. Our private lawyers, auditors and other appropriate representatives.
+  * your name, address, occupation and other contact information;
+  * information regarding your dealings with us;
+  * any interest you have in relation to our services or our practice areas; and
+  * any information you may voluntarily submit to us by completing any form on this website.
 
 
 
-We may also disclose personal information in connection with a sale or merger.
+We may collect the information in various ways:
 
-If you check Box 1 on the PRIVACY CHOICES FORM, we will not make these disclosures except as follows. First, we may disclose information about you, as described above in “Categories of Personal Information We Collect and May Disclose,” to third parties that perform marketing services on our behalf or to other financial institutions with which we have joint marketing agreements. Second, we may disclose personal information about you to third parties as permitted by law, including disclosures necessary to process and service your placement, to protect against fraud, money laundering, terrorists financing, and other legal requirements and to protect the security or confidentiality of our records.
+  * from forms you may fill in on our website (including in relation to any requests for marketing material or job information);
+  * from feedback and inquiry forms completed, for example information collected from the “Contact Us” page of our website;
+  * from the content of surveys that you may complete on our website;
+  * from details of your visits to and usage of our website including the date and time of your visit, the internet address from which you visited and the resources on our website that you viewed; and
+  * when you provide information as a client in connection with us providing professional services to you. Such information may be collected through Willis.com when clients access Willis client links within this website. Access will be subject to the terms of business we have with clients and any additional terms and conditions of use attached to those sites. 
 
-This section describes your privacy choices. Please remember that we will continue to protect your personal information regardless of your privacy choices.
 
-Disclosing to Nonaffiliated Third Parties (Box 1)  
-As described in this notice, we will limit the personal information we disclose about you to nonaffiliated third parties if you check Box 1 on the PRIVACY CHOICES FORM.
+* **WHAT WE MAY DO WITH YOUR PERSONAL INFORMATION**
 
-Sharing with Our Affiliates (Box 2)  
-The law allows us to share with our affiliates any information about our placements or experiences with you. Unless otherwise permitted by law, we will not share with our affiliates other information that you provide to us or that we obtain from third parties (for example, credit bureaus) if you check Box 2 on the PRIVACY CHOICES FORM.
+We may use information held about you in the following ways and for purposes specified in the relevant parts of the website:
 
-You may be a customer of a number of the members of the Willis Family of Companies. This may mean that you will also receive a notice of their intent to share certain information about you. If you receive such a notice, you will need to separately notify them if you do not want such information shared.
+  * to facilitate your participation in interactive features on our website, that you may choose to use;
+  * to correspond with you, notify you of events or changes to our service, or otherwise to respond to your requests for information, which may include marketing to you; and
+  * for the purposes of providing professional services to you via Willis applications: such services will be subject to additional terms and conditions of use including privacy. 
 
-Mailing and Telemarketing Lists (Boxes 3 and 4)  
-We would like to keep you informed about promotional offers from our affiliates and from nonaffiliated third parties. If you wish to be taken off our mailing and/or telephone lists that we use for such offers, please check Box 3 and/or Box 4 on the PRIVACY CHOICES FORM.
 
-We will continue to mail you information that you may find valuable in managing your placement even if you have checked Box 3. We may also send you promotional offers from third parties in communications that you receive from us concerning your placement.
+* **DISCLOSURE OF YOUR INFORMATION**
 
-Information for Vermont, New Mexico and California Customers  
-In response to a Vermont and New Mexico law, we will automatically treat placements with Vermont and New Mexico mailing addresses as if you checked Box 1 and Box 2 on the PRIVACY CHOICES FORM without requiring you to return the form. And if we disclose information about you to nonaffiliated third parties with whom we have joint marketing agreements, we will only disclose your name, address, other contact information, and information about our placements or experiences with you.
+Willis may disclose your personal data to any company within the Willis Group for the uses and purposes set out above. We may disclose your personal information to independent third parties:
 
-In response to a California law, we will automatically treat placements with California mailing addresses as if you filled in Box 1 on the PRIVACY CHOICES FORM and will not disclose personal information about you to nonaffiliated parties except as permitted by applicable California law. We will also limit the sharing of information about you with our affiliates to comply with California privacy laws that apply to us. To further restrict sharing with affiliates as described in this notice, you can fill in Box 2 of the PRIVACY CHOICES FORM.
+  * if we are obliged to disclose your personal data under applicable law or regulation, or in order to enforce or apply our website terms of use, or to protect the rights of Willis, our clients, or other parties; and
+  * in accordance with the separate terms and conditions of use that may attach to Willis website links. 
 
-Notice of Changes  
-From time to time, we may change our Privacy Statement and post those changes to our website located at [www.willis.com](http://www.willis.com/). The effective date of this Privacy Statement, as indicated below, indicates the last time this Privacy Statement was revised or materially changed. Checking the effective date below allows you to determine whether there have been changes since the last time you reviewed the policy. We will notify you of changes to this Privacy Statement by posting the revised Privacy Statement to our website. Changes to this Privacy Statement are effective 30 days after the date in which the revised Privacy Statement is posted to [www.willis.com](http://www.willis.com/).
 
-If you have a question about this Privacy Statement, you may contact Group Compliance, Privacy Officer at One World Financial Centre, 200 Liberty Street, 7th Floor, New York, New York 10281-1003, United States. You may also contact the Group Compliance, Privacy Officer at (212) 804-0531 or at group.compliance@willis.com.
+* **INFORMATION COLLECTED FROM YOUR COMPUTER**
 
-Dispute Resolution  
-If you have any concerns regarding our privacy policies or this Privacy Statement, we encourage you to promptly contact our Privacy Officer, who is authorized to address privacy issues on behalf of Willis. Should you determine that your concern is not properly addressed by our Privacy Officer, we encourage you to contact the Group Compliance Director at 44 0203 124 6000 or [chitty_mi@willis.com](mailto:chitty_mi@willis.com) or The Willis Building, 51 Lime St, London EC3M 7DQ, United Kingdom.
+When you visit our website, our server may record your IP address for the purposes of systems administration. This IP address is not linked to any of your personal information. Willis may also gather other non-personal information from you (from which Willis cannot identify you), such as the type of your internet browser, which Willis uses to provide you with a more effective service. 
 
-[Download North America Privacy Statement (53.5k) ](https://web.archive.org/Willis_North_America_Inc_Privacy_Statement.doc "Download North America Privacy Statement")
+When you visit our website, Willis may store a cookie file on the hard drive of your computer. Cookies are small text files that a website transfers to your hard drive to store and sometimes track information about you. You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you this may affect the functioning of our website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site. 
+
+Cookies help us to improve our website and deliver a more efficient service more relevant to your needs. During your visit to our website, cookies enable us to speed up your searches, recognise your preferences and remember you during your visit.
+
+  
+
+* **SECURITY**
+
+Willis maintains appropriate technical and organisational security measures to protect the security of your data against loss, misuse, unauthorised access, disclosure or alteration. Despite this, the security of the transmission of information via the internet cannot always be guaranteed and you acknowledge this in your access and use of this website. 
+
+  
+
+* **CHANGES TO OUR PRIVACY POLICY**
+
+From time to time, we may change our Privacy Notice and post those changes to our website located at [www.willis.com](http://www.willis.com/). The effective date of this Privacy Notice, as indicated below, indicates the last time this Privacy Notice was revised or materially changed. Checking the effective date below allows you to determine whether there have been changes since the last time you reviewed the policy. We will notify you of changes to this Privacy Policy by posting the revised Privacy Policy to our website.
+
+  
+
+* **CONTACT**
+
+If you have any queries regarding Willis’ use of personal data through the website, please contact our Group Head of Compliance, at The Willis Building, 51 Lime Street, London, EC3M 7DQ, United Kingdom, or at group.compliance@willis.com.
+
+  
+
+* **DATE**
+
+This Privacy Notice is dated: April 2012
