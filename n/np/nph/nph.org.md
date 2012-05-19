@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nph.org privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112224622id_/http%3A//www.nph.org/ws/contact/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nph.org privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519070300id_/https%3A//www.nph.org/ws/contact/privacy.php) for the most accurate reproduction.*
 
 # NPH International - Privacy Statement
 
@@ -133,14 +133,13 @@ If you have any questions about this Privacy Policy or the NPH Site, you may con
 
 * * *
 
-|  |  |  |   
----|---|---  
-  
   
 « back
 
-| 
+|  | 
 
   
-Renzo waits outside the dining room  
-(NPH Peru - 2010)
+Franklin takes a swim!  
+(NPH Peru - 2010)  
+  
+---|---|---
