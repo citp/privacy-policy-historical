@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kipling-usa.com privacy policy that was archived on 2011-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111019131108id_/http%3A//www.kipling-usa.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kipling-usa.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519170341id_/http%3A//www.kipling-usa.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
 
 # Kipling : Customer Service
 
@@ -35,7 +35,7 @@ In addition, some of our e-mail communications to you may include a "click-throu
 **_How is Information Used and Disclosed?_**
 
 **Personal Information:**  
-Personal Information collected on or through this Web Site is used to provide the products and services that you have ordered or requested, to process and ship orders, to send order and shipping confirmations and to provide customer service. If you sign up to our e-mail list or otherwise opt-in to receive promotional communications in connection with this Web Site, we may also use the Personal Information you provide to contact you about sales, special offers and new site features and to send you other promotional communications. You may manage your preferences as described below under "Can I Indicate Whether or Not I Want To Receive Promotional Communications?"
+Personal Information collected on or through this Web Site is used to provide the products and services that you have ordered or requested, to process and ship orders, to send order and shipping confirmations and to provide customer service. When you provide your email address at checkout, we will use it to confirm your order, provide updates on your order status and to contact you about sales, special offers, new site features and other promotional communications. You may manage your preferences as described below under "Can I Indicate Whether or Not I Want To Receive Promotional Communications?"
 
 If you request us to ship products to a third party and we are able to determine the information you provided pertains to a third party, we will use the Personal Information you provide regarding that third party only to process and ship the product to that third party and to confirm shipment. In addition, we may retain that Personal Information as reasonably necessary to appropriately document our business activities and for archival and record retention purposes. If you request us to send your "wish list" to a third party, we will use that third party's e-mail address only to send the requested e-mail. 
 
