@@ -1,129 +1,91 @@
-> *The following text is extracted and transformed from the rypple.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129101857id_/http%3A//rypple.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rypple.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520005518id_/http%3A//rypple.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Rypple
+# Privacy Policy | Rypple
 
-**Latest Update: February 3rd, 2010**
+Updated March 23, 2012
 
-[TRUSTe: click to verify](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.rypple.com&sealid=101 "TRUSTe Click to Verify")
+This Privacy Statement covers Rypple’s handling of personally-identifiable information collected from visitors to the Rypple Web site and Users of the Rypple Services (“Personal Information”).  All capitalized terms used in this Privacy Statement are either defined herein or in the [Rypple Terms of Service.](https://web.archive.org/legal)
 
-Rypple is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.rypple.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+## 1\. Web Sites Covered
 
-If you have questions or concerns regarding this statement, you should first contact [privacy@rypple.com](mailto:privacy@rypple.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url=http://rypple.com](http://watchdog.truste.com/pvr.php?page=complaint&url=http://rypple.com "Contact TRUSTe"). TRUSTe will then serve as a liaison with us to resolve your concerns.
+This Privacy Statement covers the privacy practices of Rypple’s Web site, [http://www.rypple.com](http://www.rypple.com/). 
 
-## Summary
+The Rypple Web site may contain links to other Web sites.  Rypple is not responsible for the privacy practices or the content of such Web sites.  Rypple encourages you to review the privacy statements of such Web sites to understand their privacy practices. 
 
-Rypple is built on trust. Our users trust us to safeguard their confidential feedback. We constantly work to increase this trust and enhance our privacy processes and policies.
+## 2\. Personal Information Collected
 
-  * No one will ever be told what feedback was sent by you or what feedback was received by you (unless you let people know yourself).
-  * When you give feedback we will never reveal your identity to anyone, including the person who asked for your advice.
-  * We will not sell or rent your personal information to third parties for promotional purposes.
-  * We collect your email and password if you register on Rypple. If you don't register, we don't collect any personal information. We record where our users come from, and what browsers they use. We use cookies to improve our site's functionality. If you wish to purchase one of our products we will collect your name, email and credit card information.
-  * We may provide your personal information to others if: you specifically asked us to; or if we have to by law; or we have to in order to deal with fraud, security or technical problems; or to protect Rypple, its users, or the public from imminent harm.
-  * We never associate your personal information with the aggregated data we gather on how people use Rypple.
-  * We use third party service providers: to conduct site analytics to determine how to improve our site’s usability; to track user requests and bug reports to help us resolve user issues; and to host the Rypple service.
+Rypple collects Personal Information from individuals who visit the Rypple Web site and individuals who register to use the Rypple Services.
 
+When expressing an interest in obtaining additional information about the Rypple Services or registering to use the Rypple Services, Rypple requires you to provide Personal Information, such as first name, last name, email address, and phone number. 
 
+When purchasing the Rypple Services, Rypple requires you to provide financial qualification and billing information, such as billing name, billing address, and credit card number.  
 
-We update this policy from time to time, so check back here occasionally.
+You can log into the Rypple Services or comment on the Rypple blog using sign-in services, such as Google Connect or other providers.  These services will authenticate your identity and provide you the option to pre-populate our registration form with your Personal Information.  Services like Google Connect give you the option to share information about your activities on this Web site and others within your network via the Rypple Services. 
 
-## 1\. "Personal Information"
+As you navigate Rypple’s Web site, Rypple may collect information through the use of commonly-used information-gathering tools, such as cookies and Web beacons (“Web Site Navigational Information”).  Web Site Navigational Information includes standard information from your Web browser (such as browser type and browser language), your Internet Protocol (“IP”) address, and the actions you take on the Rypple Web site (such as Web pages viewed and links clicked).  For additional information about Rypple’s collection and use of Web Site Navigational Information, please click here. 
 
-1.1. For the purposes of this Privacy Policy, personally identifiable information ("Personal Information") means any information collected by or provided to Rypple that could serve to identify an individual, such as: (i) first and last name; (ii) physical address; (iii) e-mail address; (iv) telephone number; (v) credit card information; or (vi) any combination of personal information that could be used to determine identity.
+## 3\. Use of Personal Information Collected
 
-1.2. Any other capitalized terms used in this Privacy Policy are either defined in this policy or within the Rypple Terms of Service.
+Rypple uses Personal Information to perform the services requested.  For example, if you fill out a “Contact Me” Web form, Rypple will use the information provided to contact you about your interest in Rypple.
 
-## 2\. Integrity of Information
+Rypple may also use Personal Information for marketing purposes.  For example, Rypple may use Personal Information to contact you to further discuss your interest in Rypple and to send you information regarding Rypple and our partners, such as information about promotions or events.  Please view the Communications Preferences section of this Privacy Statement to control how your Personal Information is used for marketing purposes.
 
-2.1. Rypple takes protecting its users' privacy very seriously. To help ensure user Personal Information is secure, Rypple communicates this Policy to Rypple employees and strictly enforces privacy safeguards within the company.
+Rypple uses credit card information solely to check the financial qualifications and to collect payment for the Rypple Services.
 
-2.2. Rypple has processes in place to keep Personal Information accurate, complete, and up to date for the purposes for which it is used. Users always have the right to access and correct the Personal Information that has been provided.
+Rypple uses Web Site Navigational Information to operate and improve the Rypple Web site and the Rypple Services.  Rypple may use Web Site Navigational Information alone or in combination with other Personal Information to provide personalized information about Rypple.  For additional information about the use of Web Site Navigational Information, please click here.
 
-2.3. Rypple takes precautions - including administrative, technical, and physical measures - to safeguard Personal Information against loss, theft, and misuse, as well as unauthorized access, disclosure, alteration, and destruction.
+## 4\. Sharing of Personal Information Collected
 
-2.4. Rypple uses Secure Socket Layer (SSL) encryption when transmitting sensitive information that you enter on our registration or order forms. In particular, Rypple encrypts your password and credit card information when provided. To learn more about SSL, please follow this link: <http://en.wikipedia.org/wiki/Transport_Layer_Security>.
+Rypple may share Personal Information with our service providers to perform the activities described above on Rypple’s behalf.  Rypple may also share Personal Information with our service providers to ensure the quality of information provided.  Unless otherwise described in this Privacy Statement, Rypple does not share, sell, rent, or trade Personal Information with third parties for their promotional purposes.
 
-## 3\. What Information Does Rypple Collect?
+Rypple reserves the right to use or disclose Personal Information if required by law or if Rypple reasonably believes that use or disclosure is necessary to protect Rypple’s rights and/or to comply with a judicial proceeding, court order, or legal process.
 
-3.1.Rypple collects data regarding the users of the Service, including:
+## 5\. Web Site Navigational Information
 
-  1. the Internet Protocol (IP) address of the user's computer (which may or may not be associated with a particular Internet Service Provider (ISP)),
-  2. the referring URL, if any, and
-  3. the browser software identification (i.e. the brand and version of your browser software).
+Due to Internet communications standards, when you visit or use the Web site, we automatically receive the URL of the website from which you came and the website to which you go when you leave the Rypple Web site. We also receive your computer’s Internet Protocol (IP) address (or the proxy server you use to access the World Wide Web), your computer operating system, the type of web browser you are using, and your Internet Service Provider (ISP). This information is used to analyze overall trends to help us improve the Rypple Service.
 
+The Web site uses "cookies" to track Web site usage, to enable you to sign in to the Services, and to help personalize your online experience. A cookie is a small text file that is placed on your hard disk through your web browser via a webpage server.  It contains information about you that can later be read by a web server in the domain that issued the cookie to you. Cookies allow Rypple to recognize you as a visitor or user when you return to our Web site or use the Services using the same computer and web browser. Rypple uses cookies to store your preferences so that you do not have to repeatedly enter the same information, and to display your personalized content. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies or configure acceptance of cookies.  If you choose to decline cookies, you may not be able to sign in or use all of the interactive features of the Web site or the Rypple Services that depend on cookies. 
 
+We use both session cookies and persistent cookies. A “persistent" cookie, is set once you’ve logged in to your Rypple user account and remains on your hard drive for an extended period of time. The next time you visit the Web site, the persistent cookie will allow us to recognize you as an existing user so that you do not need to log in to the Service again. If you log out of the Rypple Web site, however, you will need to re-enter your password the next time you wish to access your Account. A “session” cookie is used to enhance or customize a particular visit to the Rypple site. Session cookies expire after a short time or when you close your web browser.
 
-3.2. Rypple may track the domains from which people visit the website, but Rypple cannot see a user's zip code, postal code, city or country unless the user chooses to explicitly provide this information.
+We employ, or our third party advertising partner employs, clear gifs (a.k.a. Web Beacons/Web Bugs). Clear gifs are tiny graphics with a unique identifier that, like cookies, track the online movements of Web users. In contrast to cookies, clear gifs are embedded on Web pages and are about the size of a pixel. We tie the information gathered by clear gifs to certain personally identifiable information of our customers, users and Web site visitors in order to assess the effectiveness of our content.  In particular, we use clear gifs in our HTML-based emails to let us know which email alerts have been opened by recipients. This allows us to gauge the effectiveness of our communications and marketing campaigns.
 
-3.3. In order to use Services or to ask for feedback, a user must register a Rypple account ("Account"). When creating the Account a user will be asked to provide an email address and a password.
+Rypple may collect aggregated data regarding the use of the Services, including, without limitation, number of visitors to the Web site, frequency and patterns of use, tag usage, feedback request trends, etc. ("Aggregated Data"). Rypple uses this data as a statistical measure, and not in a manner that would identify you personally. Aggregated Data enables us to figure out how often users use certain parts of the Web site or the Services so that we can improve them. Rypple may make use of, or make such Aggregated Data available to third parties, in any manner in its sole discretion.
 
-3.4. During use of the Services, a user may solicit anonymous feedback from others and that feedback and associated data will be maintained in order to provide the Services.
+## 6\. Public Forums, Refer a Friend, and Customer Testimonials
 
-3.5. If someone is not a Rypple user, and is responding to a request for feedback from a Rypple user, then the respondent will not be asked to register and does not need to provide any Personal Information to respond.
+Rypple may provide bulletin boards, blogs, or chat rooms on the Rypple Web site.  Any information you choose to submit in such forums may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages.  Rypple is not responsible for the information you choose to submit to these forums. 
 
-3.6. The website through which Rypple provide Services may use "cookies" to enable you to sign in to the Services and to help personalize your online experience. A cookie is a small text file that is placed on your hard disk by a Web page server, which may contain information that can later be read by a web server in the domain that issued the cookie to you. Cookies cannot be used to run programs or deliver viruses to your computer. Rypple uses cookies to store your preferences and other information on your computer in order to save you time by eliminating the need to repeatedly enter the same information and to display your personalized content on your later visits. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to sign in or use other interactive features of Rypple Services that depend on cookies.
+To request removal of your information from such forums, contact us at [privacy@rypple.com](mailto:privacy@rypple.com).  In some cases, we may not be able to remove your information, in which case we will let you know if we are unable to do so and why. We may maintain copies of such information for our records. 
 
-3.7. Rypple may collect aggregated and/or statistical data regarding the use of the Services, including, without limitation, frequency and patterns of use, tag usage, feedback request trends, etc. ("Aggregated Data"). Aggregated Data shall not reveal Personal Information. Rypple may make use of, or make such Aggregated Data available to third parties, in any manner in its sole discretion.
+## 7\. International Transfers of Personal Information
 
-3.8. For European users, please note that in order to provide the information or Services you have requested, your Personal Information may be transferred or stored on computer equipment or in offices that are located outside the European Economic Area, and you are deemed to consent to the same.
+To facilitate Rypple’s global operations, Rypple may transfer and access Personal Information from around the world, including the United States.  This Privacy Statement shall apply even if Personal Information is transferred to other countries.
 
-3.9. If you feel that the Rypple Service could be useful for a third party you know (e.g. your friends or family members, etc.), you may use the Rypple Invite feature to invite them to register a Rypple account. If you choose to use our Rypple Invite feature to tell a friend about our site, we will ask you for your friend’s email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Rypple.com stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
+For European visitors to the Rypple Web site and Users of the Rypple Services, please note that in order to provide the information or services requested, your Personal Information may be transferred outside of the European Economic Area (“EEA”).  By visiting the Rypple Web site or using the Rypple Services, you agree to Rypple transferring your Personal Information outside the EEA. 
 
-3.10. If your Personal Information changes, or if you no longer desire our service, you may correct, update, or deactivate it by making the change on our member information page accessibly by selecting 'My Settings' from within Rypple, or by emailing our Customer Support at [support@rypple.com](mailto:support@rypple.com "Contact Rypple") or by contacting us by telephone or postal mail at the contact information listed below.
+## 8\. Communications Preferences and Access to Personal Information
 
-3.11. If you use the Rypple Support forum, the Rypple Blog or chat room on this Web site, you should be aware that any Personal Information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the Personal Information you choose to submit in these forums.
+Rypple offers Users and Web site visitors who provide contact information a means to choose how Rypple uses the contact information provided.  You may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located at the bottom of Rypple’s marketing emails.  Additionally, you may send a request specifying your communications preferences to privacy@rypple.com.  Users cannot opt out of receiving transactional emails related to their Rypple accounts.
 
-3.12. We utilize an import contacts feature to help you get feedback from your contacts. At your request we will search your email address book to help you import your contacts to our site.
+Users of the Rypple Services may correct, update, or delete their Personal Information by making changes on the “My Settings” page of the Rypple Services or by emailing Customer Support at [support@rypple.com](mailto:support@rypple.com).
 
-## 4\. How is the Information Used?
+## 9\. Security
 
-4.1. Your Personal Information will not be sold or rented to anyone.
+Rypple takes precautions, including administrative, technical, and physical measures – to help safeguard Personal Information against loss, theft, and misuse as well as unauthorized access, disclosure, alteration, and destruction.
 
-4.2. Subject to the terms of this Privacy Policy, Personal Information will be provided to third parties only when and if:
+Rypple uses Secure Socket Layer (“SSL”) encryption when transmitting sensitive Personal Information, such as credit card information and Users’ passwords. 
 
-  1. you have given your express opt-in consent to share the information;
-  2. your information must be shared by necessity to provide the Service or information you have requested (in which case those people or companies are strictly limited to using that information only to the minimal degree necessary to provide the Service or information you have requested);
-  3. Rypple has a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to: 
-    1. satisfy any applicable law, regulation, warrant, subpoena, court order, legal process or enforceable governmental request;
-    2. enforce applicable Terms of Service including investigation of potential violations thereof;
-    3. detect, prevent, or otherwise address fraud, security or technical issues; or
-    4. protect against imminent harm to the rights, property or safety of Rypple, its users or the public as required or permitted by law.
+Users are solely responsible for protecting their passwords, limiting access to their computers, and signing out of the Rypple Services after their sessions. 
 
+## 10\. Feedback Requests via the Rypple Services
 
+User may solicit feedback from others, including non-Users, via the Rypple Services.  Such feedback may be provided anonymously.  If someone is not a User and is responding to a request for feedback from a User, then the respondent will not be asked to register.
 
-4.3. When a corporate client wishes to acquire a Corporate License and informs us that an individual who will have access to an Account under the Corporate License is an employee or contractor, we will confirm whether or not an individual already has an Account. If he or she already has an Account, this will be confirmed to the corporate client.
+## 11\. Changes to this Privacy Statement
 
-4.4. In the event that Rypple is acquired or transfers some or all of its operations or assets to another company, information collected, including Personal Information, may be one of the assets so assigned. You consent to such a transfer of your Personal Information, provided that the transferee shall be bound by the terms of the privacy policy in effect at the time of its collection.
+Rypple reserves the right to change this Privacy Statement. Rypple will provide notification of material changes to this Privacy Statement through the Rypple Web site.  If you continue to access the Rypple Web site or use the Rypple Services after notice of changes have been sent to you or published on the Rypple Web site, you will be deemed to have provided your consent to the changed practices. 
 
-## 5\. Who Can See Feedback?
+## 12\. Contact Us
 
-5.1. The content of the feedback requests or responses solicited by a user through the Service will not be provided or disclosed to that user's Employer in any manner that could enable such Employer to identify such user without the user's express consent. Employers who provide Accounts through a Corproate License may be provided aggregated and/or statistical data regarding the use of the Services by those Accounts used by such Employer's employees or contractors, including, without limitation, frequency and patterns of use, tag usage, feedback request trends, but such data shall not contain Personal Information.
-
-5.2. Employers that provide users with Accounts through a Corporate License may be provided access to data regarding the frequency and nature of the Services accessed or used by such users, but the content of the feedback request or the responses will not be accessible to the Employer.
-
-5.3. Rypple periodically posts customer and user testimonials on our web site which may contain Personal Information such as the customer or user’s name. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial. If you want to remove your personal information that is being displayed on our website under public pages please send your request to [privacy@rypple.com](mailto:privacy@rypple.com "Contact Rypple").
-
-## 6\. Privacy Policy Maintenance and Enforcement
-
-6.1. Rypple may occasionally update this Privacy Policy to reflect changes in Services and customer feedback. When Rypple posts material changes to this Privacy Policy, the “Latest Update” date at the top of policy will be updated and a prominent notice will be placed on the site’s homepage. We encourage you to periodically review this statement to be informed of how Rypple is protecting your information.
-
-6.2. If Rypple wishes to use Personal Information in a manner different from that stated at the time it was collected, Rypple will update this Privacy Policy and notify users of a material change in the privacy policy by way of an email or by providing 30 days notice on the Site. Unless you consent otherwise, such changes shall only apply to information gathered on or after the date of the change.
-
-6.3. The above-noted "Summary" is informational only and in the event of any conflict or perceived conflict between the language of such summary and the terms of this Privacy Policy or of the Terms of Service, the terms of the Privacy Policy or the Terms of Service, as applicable, shall prevail.
-
-## 7\. Contact
-
-7.1. Rypple welcomes comments regarding this Privacy Policy. If you have questions about this policy please contact us:
-
-Rypple Privacy Team
-
-2Catalyze, Inc. (d/b/a/ Rypple)
-
-[privacy@rypple.com](mailto:privacy@rypple.com)
-
-20 Eglinton Avenue West, Suite 1900
-
-Toronto, ON, M4R 1K7 Canada
-
-Tel: 416-487-8881
-
-Fax: 647-438-2488
+Questions regarding this Privacy Statement or the information practices of Rypple should be directed to Rypple Privacy at [privacy@rypple.com](mailto:privacy@rypple.com) or 2Catalyze (d/b/a Rypple), 20 Eglinton Avenue West, Suite 600, Toronto, ON, M4R 1K7.
