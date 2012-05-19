@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the basicinvite.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225074559id_/http%3A//www.basicinvite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basicinvite.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519143346id_/http%3A//www.basicinvite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
