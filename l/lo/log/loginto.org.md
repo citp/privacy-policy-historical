@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loginto.org privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119023057id_/http%3A//loginto.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loginto.org privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519091856id_/http%3A//loginto.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LoginTo.org
 
@@ -29,15 +29,15 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 ## Latest Login Searches
 
-  * [ant.com Login](https://web.archive.org/ant.com-login)
-  * [nnm.ru Login](https://web.archive.org/nnm.ru-login)
-  * [mybloglog.com Login](https://web.archive.org/mybloglog.com-login)
-  * [hawaalive.com Login](https://web.archive.org/hawaalive.com-login)
-  * [j-sen.jp Login](https://web.archive.org/j-sen.jp-login)
-  * [mp3skull.com Login](https://web.archive.org/mp3skull.com-login)
-  * [qunar.com Login](https://web.archive.org/qunar.com-login)
-  * [delees.com Login](https://web.archive.org/delees.com-login)
-  * [quebarato.com.br Login](https://web.archive.org/quebarato.com.br-login)
-  * [copart.com Login](https://web.archive.org/copart.com-login)
+  * [kuaiwan.com Login](https://web.archive.org/kuaiwan.com-login)
+  * [seowhy.com Login](https://web.archive.org/seowhy.com-login)
+  * [gamebabylon.com Login](https://web.archive.org/gamebabylon.com-login)
+  * [tvmovie.de Login](https://web.archive.org/tvmovie.de-login)
+  * [bet.com Login](https://web.archive.org/bet.com-login)
+  * [iibux.com Login](https://web.archive.org/iibux.com-login)
+  * [aljayyash.net Login](https://web.archive.org/aljayyash.net-login)
+  * [pinterest.com Login](https://web.archive.org/pinterest.com-login)
+  * [pinterest Login](https://web.archive.org/pinterest-login)
+  * [instapaper.com Login](https://web.archive.org/instapaper.com-login)
 
 
