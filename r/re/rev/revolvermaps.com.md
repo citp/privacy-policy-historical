@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revolvermaps.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118121824id_/http%3A//www.revolvermaps.com/%3Ftarget%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revolvermaps.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519042137id_/http%3A//www.revolvermaps.com/%3Ftarget%3Dprivacy) for the most accurate reproduction.*
 
 # Revolver Maps - Free 3D Visitor Maps
 
@@ -21,8 +21,8 @@ www.revolvermaps.com uses HTTP-cookies in order to ensure an advanced usability 
 www.revolvermaps.com uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here.](http://www.google.com/privacy_ads.html). 
 
   2. **Widget Service and public statistics:**  
-In order to utilize the widget service no personal user information will be required. In general the usage of the widget is attached to the public statistics presentation at www.revolvermaps.com providing realtime information about the URL (the complete link) of the website including the widget as well as estimated country and region information derived from the IP address of the user opening the widget at this website. The availability of the URL information is restricted to a time window of the last 9 minutes. The service does neither store nor publish any IP addresses. The widget service does not utilize HTTP-cookies.
+In order to utilize the widget service no personal user information will be required. In general the usage of the widget on a website is attached to the public statistics presentation at www.revolvermaps.com providing the following information in realtime: an estimated country and region information derived from the IP address of the user opening the website containing the widget. The service does neither store nor publish any IP addresses. The widget service does not utilize HTTP-cookies.
 
 
 
-last update: March 9, 2011 
+last update: March 5, 2012 
