@@ -1,55 +1,60 @@
-> *The following text is extracted and transformed from the bill4time.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414114906id_/http%3A//www.bill4time.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bill4time.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519134132id_/http%3A//www.bill4time.com/privacy-policy) for the most accurate reproduction.*
 
-# Bill4Time Privacy Policy
+# Privacy Policy | Bill4Time
 
-**Effective:** January 2006
+This policy was last modified on May 12, 2011.
 
-Privacy Statement Reproduced by request of TRUSTe. Broadway Billing Systems, LLC, including [Bill4Time.com](http://www.bill4time.com/) (collectively, "Bill4Time.com"), is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, nonprofit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+### What information do we collect?
 
-If you have questions or concerns regarding this statement, you should first contact Bill4Time.com's security administrator by email at support@Bill4Time.com. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+We collect information from you when you register on our site, place an order or subscribe to our newsletter. When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number, or credit card information. You may, however, visit our site anonymously.
 
-### Bill4Time.com Privacy Statement:
+Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-Bill4Time.com has created this privacy statement ("Statement") in order to demonstrate our commitment to customer privacy. Privacy on the Bill4Time.com web site (the "Site") is of great importance to us. Because we gather important information from our visitors and customers, we have established this Statement as a means to communicate our information gathering and dissemination practices. We reserve the right to change this Statement and will provide notification of the change at least thirty (30) business days prior to the change taking effect. To be effective, the change must first also be approved by TRUSTe, and will include directions on how users may respond to the change. If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+### What do we use your information for?
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+Any of the information we collect from you may be used in one of the following ways: to personalize your experience (your information helps us to better respond to your individual needs), to improve our website (we continually strive to improve our website based on the information and feedback we receive from you), to improve customer service (your information helps us to more effectively respond to your customer service requests and support needs) and to process transactions.
 
-### Collected Information:
+**Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.**
 
-We require customers who register to use the services offered on our Site (collectively, the "Service") to give us contact information, such as their name, company name, address, phone number, and e-mail address, and financial qualification and billing information, such as billing name and address, credit card number, and the number of users within the organization that will be using the Service. At the time you express interest in attaining additional information, or when you register for the Service, we may also ask for additional personal information, such as title, department name, fax number, or additional company information, such as annual revenues, number of employees, or industry. Customers can opt out of providing this additional information by not entering it when asked. Customers can update or remove their personal information at any time by logging into the Website and editing their Personal Information within user management. Customers can view their updated profile to confirm their edits have been made.
+The email address you provide will only be used to send you information and updates pertaining to your order.
 
-Bill4Time.com uses the information that we collect to set up the Service for individuals and their organizations. We may also use the information to contact customers to further discuss customer interest in our company, the Service that we provide, and events which may affect the Service. Customers are invited to receive an email newsletter by providing an email address. Customer email addresses and any personal customer information will not be distributed or shared with third parties. Customers can opt out of being contacted by us, or receiving such information from us, at any time by sending an email to support@Bill4Time.com. Separately, customers are also asked to provide an email address when registering for the Service, in order to receive a username and password. We may also email information regarding updates to the Service or company, and will send a Customer Newsletter. Again, email will not be distributed or shared and customers can opt out of receiving any communication by emailing support@Bill4Time.com at the time it is distributed, or at the time any customer registers for the Service.
+### How do we protect your information?
 
-Except as we explicitly state at the time we request information, or as provided for in the Bill4Time.com Master Subscription Agreement, we do not disclose to third parties the information provided. All financial and billing information that we collect through the Site is used solely to check the qualifications of prospective customers and to bill for the Service. This billing information is not used by Bill4Time.com for marketing or promotional purposes. Bill4Time.com uses a third-party intermediary to manage the credit card processing. This intermediary is solely a link in the distribution chain, and is not permitted to store, retain, or use the information provided, except for the sole purpose of credit card processing. Other third parties, such as content providers, may provide content on the web Site but they are not permitted to collect any information nor does Bill4Time.com share user information with these parties.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
-Customers of the Service will be using the Site to host data and information ("Data"). Bill4Time.com will not review, share, distribute, print, or reference any such Data except as provided in the Bill4Time.com Master Subscription Agreement, or as may be required by law. Individual records may at times be viewed or accessed only for the purpose of resolving a problem, support issue, or suspected violation of the Master Subscription Agreement, or as may be required by law. Of course, customers are responsible for maintaining the confidentiality and security of their user registration and password.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Database to be only accessed by those authorized with special access rights to our systems, and are required to?keep the information confidential. After a transaction, your private information (credit cards, social security numbers, financials, etc.) will be kept on file for more than 60 days in order to fulfill ongoing subscription.
 
-Bill4Time.com may also collect certain information from visitors to and customers of the Site, such as Internet addresses. This information is logged to help diagnose technical problems, and to administer our Site in order to constantly improve the quality of the Service. We may also track and analyze non-identifying and aggregate usage and volume statistical information from our visitors and customers and provide such information to third parties.
+### Do we disclose any information to outside parties?
 
-### Cookies:
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-When you interact with the Bill4Time.com Website we strive to make that experience easy and meaningful. When you come to our Web site, our Web server sends a cookie to your computer. Cookies are files that Web browsers place on a computer's hard drive and are used to tell us whether customers and visitors have visited the Site previously.
+### California Online Privacy Protection Act Compliance
 
-We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their account and going to the 'Settings' page.
 
-Standing alone, cookies do not identify you personally. They merely recognize your browser. Unless you choose to identify yourself to Bill4Time.com, either by responding to a promotional offer, opening an account, or registering for a 30-day Test Drive, you remain anonymous to Bill4Time.com. Cookies come in two flavors: session and persistent-based. Session cookies exist only during an online session. They disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer after you've closed your browser or turned off your computer. They include such information as a unique identifier for your browser.
+### Childrens Online Privacy Protection Act Compliance 
 
-Bill4Time.com uses session cookies containing encrypted information to allow the system to uniquely identify you while you are logged in. This information allows Bill4Time.com to process your online transactions and requests. Session cookies help us make sure you are who you say you are after you've logged in and are required in order to use the Bill4Time.com application. Bill4Time.com uses persistent cookies, that only Bill4Time.com can read and use, to identify the fact that you are a Bill4Time.com customer or prior Bill4Time.com Website visitor (whatever the case may be). We are especially careful about the security and confidentiality of the information stored in persistent cookies. For example, we do not store account numbers or passwords in persistent cookies. Users who disable their Web browsers' ability to accept cookies will be able to browse our Website but will not be able to successfully use our Service.
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-**Third Party Cookies:** We may from time to time engage third parties to track and analyze non-personally identifiable usage and volume statistical information from visitors to our website to help us administer our website and improve its quality. Such third parties may use cookies to help track visitor behavior. Such cookies will not be used to associate individual website visitors to any personally identifiable information. All data collected by such third parties on behalf of Bill4Time.com is used only to provide us with information on site usage and is not shared with any other third parties.
+### Terms and Conditions
 
-### Third-Party Sites:
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [bill4time.com](http://www.bill4time.com/)
 
-The Site contains links to other web sites. Bill4Time.com is not responsible for the privacy practices or the content of these other web sites. Customers and visitors will need to check the policy statement of these others web sites to understand their policies. Customers and visitors who access a linked site may be disclosing their private information. It is the responsibility of the user to keep such information private and confidential.
+### Your Consent
 
-### Security:
+By using our site, you consent to our websites privacy policy.
 
-Our Site has security measures in place to help protect against the loss, misuse, and alteration of the Data under our control. When our Site is accessed using Netscape Navigator, or Microsoft Internet Explorer versions 5.5 or higher, Secure Socket Layer (SSL) technology protects information using both server authentication and data encryption to help ensure that Data is safe, secure, and available only to you. Bill4Time.com also implements an advanced security method based on dynamic data and encoded session identifications, and hosts the Site in a secure server environment that uses a firewall and other advanced technology to prevent interference or access from outside intruders. Finally, Bill4Time.com provides unique user names and passwords that must be entered each time a customer logs on. These safeguards help prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of Data.
+### Changes to our privacy policy
 
-### Correcting & Updating Your Information:
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date above.
 
-If customers need to update or change registration information they may do so by editing the user or organization record. To update a User Profile, log on to Bill4Time.com and select User Management to add or update information. To update your Organization's data, log on to Bill4Time.com and select Firm Preferences. To update billing information log on to Bill4Time.com, select Firm Preferences, and then select the Billing tab; or email [support@Bill4Time.com](mailto:support@bill4time.com) or call (877) 245-5484. To discontinue the Service and to have data returned, email [support@Bill4Time.com](mailto:support@bill4time.com) or call (877) 245-5484. Bill4Time.com will respond to your correction or update request within at most 30 days from the date of your request.
+### Contacting Us
 
-### Additional Information:
+If there are any questions regarding this privacy policy you may contact us using the information below.
 
-Questions regarding this Statement or the practices of this Site should be directed to Bill4Time.com's Security Administrator by e-mailing such questions to support@Bill4Time.com or by regular mail addressed to Broadway Billing Systems, LLC, Attn: Security Administrator, 115 Broadway, 3rd Floor, New York, NY 10006
+[http://www.bill4time.com](http://www.bill4time.com/)  
+16301 NE 8th Street, Suite 231  
+Bellevue, WA 98008  
+USA  
+[support@bill4time.com](mailto:support@bill4time.com)  
+(877) 245-5484
