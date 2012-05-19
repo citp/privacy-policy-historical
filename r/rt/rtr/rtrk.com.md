@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rtrk.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119164701id_/http%3A//www.reachlocal.com/register/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rtrk.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519085701id_/http%3A//www.reachlocal.com/register/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | ReachLocal Corporate
+# Privacy Policy | ReachLocal
 
 ReachLocal, Inc. (“ReachLocal” or “we”) is committed to respecting your online privacy and recognizes your need for appropriate protection and management of any personally identifiable information (“Personal Information”) you share with us. ReachLocal has established this Privacy Policy to let you know what information we may collect from you on the publicly available portion of Reachlocal.com (the “Site”) and how we may use and share that information. Please take a moment to review the terms of our Privacy Policy. By using the Site, you agree to accept the terms of our Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site. This Privacy Policy applies only to information that we collect on the Site and does not apply to information which we may collect by other means or through other websites. Also, if you are interested in seeing a description of our privacy practices with respect to our advertising services, [please click here to see our Notice of Marketing Practices](http://www.reachlocal.com/notice-marketing-practices).
 
@@ -52,4 +52,9 @@ ReachLocal makes no representation that this Privacy Policy and such practices c
 
 ### Contacting Us
 
-If you have any comments or questions regarding our Privacy Policy, please contact us at [privacy@reachlocal.com](mailto:privacy@reachlocal.com), or at our contact information below. ReachLocal, Inc. 21700 Oxnard Street Suite 1600 Woodland Hills, CA 91367 866-500-1692
+If you have any comments or questions regarding our Privacy Policy, please contact us at privacy@reachlocal.com, or at our contact information below.
+
+ReachLocal, Inc. 21700  
+Oxnard Street Suite 1600  
+Woodland Hills, CA 91367  
+888-466-2520 
