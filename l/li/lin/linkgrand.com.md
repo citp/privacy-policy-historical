@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkgrand.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523062918id_/http%3A//www.linkgrand.com/privacypolicy.php%3Fr%3D1%26mid%3D%26s1%3D%26s2%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkgrand.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519083104id_/http%3A//www.linkgrand.com/privacypolicy.php%3Fr%3D%26mid%3D%26s1%3D%26s2%3D) for the most accurate reproduction.*
 
 # LinkGrand
 
@@ -14,4 +14,4 @@
 **Enforcement**  
   | This privacy policy will be strictly followed by all LinkGrand administrators.  
 **Contact**  
-  | If you have any questions, you may [contact us](https://web.archive.org/contactus.php?r=1).
+  | If you have any questions, you may [contact us](https://web.archive.org/contactus.php?r=).
