@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rootsaction.org privacy policy that was archived on 2011-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111120034009id_/http%3A//rootsaction.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rootsaction.org privacy policy that was archived on 2012-05-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120519133423id_/http%3A//rootsaction.org/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr"><head>
   <base href="http://www.rootsaction.org/privacy-policy">
@@ -74,8 +74,8 @@ _gaq.push(
 
 window.addEvent('domready', function() {
 	if (_gaq) {
-		$$('a').each(function(el) {
-			el.addEvent('click', function() {
+	$$('a').each(function(el) {
+		el.addEvent('click', function() {
 				var port = -1 == el.host.lastIndexOf(":") ? el.host.length : el.host.lastIndexOf(":");
 				var host = el.host.slice(0, port)
 				if (el.protocol == 'mailto:') {
@@ -87,7 +87,7 @@ window.addEvent('domready', function() {
 				}
 
 				var ext   = el.pathname.substr(el.pathname.lastIndexOf(".")+1, el.pathname.length);
-				var label = (el.title) ? el.title : el.pathname;
+				var label = (el.title) ? el.title : el.pathname.replace(/^\//,'');
 				if (ext.match(/(bmp|csv|doc|epg|gif|ico|jpg|odg|odp|ods|odt|pdf|png|ppt|swf|txt|xcf|zip|gz|tar|exe)/i)) {
 					_gaq.push(['_trackEvent', 'Download', ext, label]);
 				}
@@ -208,7 +208,7 @@ window.addEvent('domready', function() {
 <p>By providing your name and contact information on an action campaign, you are authorizing us to send your contact information—along with your own correspondence—to the people specifically targeted in that action campaign (e.g. elected officials, decision-makers, journalists, etc.).</p>
 <p>If you support Roots Action—and share your personally identifying information—this information will be used only to provide you with more targeted content, send further information about our organization, or contact you when necessary.</p>
 <p>We will email you with occasional updates and opportunities for action. We will do our best to respect your time and attention. You may always opt out of receiving future emails, and simple instructions on how to remove yourself will be included in any email you receive.</p>
-<p>Our system allows users to send messages to their contacts about the work that RootsAction is doing. However, we do not collect or store personally identifying information—such as email addresses—that users divulge about other people while using tools—such as a tell-a-friend feature—on our site.</p>
+<p>Our system allows users to send messages to their contacts about the work that RootsAction is doing. However, we do not collect or store personally identifying information (such as email addresses) that users divulge about other people while using tools (such as a tell-a-friend feature) on our site.</p>
 <p>We strongly recommend that you do not post confidential information to any unconstrained data fields—such as comment areas—on this site.</p>
 <p><span style="font-family: NobileBold, Helvetica, Arial, sans-serif; font-size: 17px; color: #d16a00;">Resale or disclosure of information to third parties</span></p>
 <p>We do not share or otherwise disclose any personal information, including your name, address or email addresses with other organizations. Only Roots Action staff and our authorized agents have access to personally identifiable information provided by visitors to our site.</p>
@@ -275,7 +275,23 @@ window.addEvent('domready', function() {
 
 </tr></tbody></table></div>
 	</div>
-		<div class="sbxMod sbxModTable-dm mod-right-3" id="Mod59">
+		<div class="sbxMod sbxModTable mod-right-3" id="Mod76">
+				<h3 class="sbxMod-title"><span>Search</span></h3>
+				<div class="sbxMod-content">
+<div class="mod mod-search clearfix">
+
+	<form action="index.php" method="post" id="form-modSearch" name="form-modSearch" class="jForm form-modSearch">
+		
+			<input name="searchword" id="mod_search_searchword" maxlength="20" alt="Search" class="field text" type="text" size="20" value="" onblur="if(this.value=='') this.value='';" onfocus="if(this.value=='') this.value='';"><button type="submit" class="button" onclick="this.form.searchword.focus();"><span>Search</span></button>		
+		<input type="hidden" name="task" value="search">
+		<input type="hidden" name="option" value="com_search">
+		<input type="hidden" name="Itemid" value="11">
+		
+	</form>
+
+</div></div>
+	</div>
+		<div class="sbxMod sbxModTable-dm mod-right-4" id="Mod59">
 				<h3 class="sbxMod-title"><span>News and Views</span></h3>
 				<div class="sbxMod-content">
 <!-- START 'Display News by BK 1.5.7' -->
@@ -283,12 +299,13 @@ window.addEvent('domready', function() {
  
 <div class="mod mod-dn">
 <ul class="mod-list mod-dnList mod-listPlain mod-dnListPlain">
-	<li class="mod-item dn-item mod-itemPlain dn-itemPlain item-1"><a href="/news-a-views/302-truthout-supercommittee-deadlock-heads-they-win-tails-we-lose-" class="item-titleLink dn-titleLink">Truthout: Supercommittee Deadlock: Heads They Win, Tails We Lose </a><p class="sweet-justice">It is no great surprise that with only days to go, the Congressional "supercommittee," given the Herculean task of carving an additional $1.2 trillion out of the federal budget, has failed to reach agreement. Why should six Republicans and six Democrats with diametrically opposed views agree in a few weeks, when Congress couldn't shake hands on it after months of wrangling, despite the guillotine blade of a federal default hanging over their heads?&nbsp;&nbsp;</p>
-<a href="/news-a-views/302-truthout-supercommittee-deadlock-heads-they-win-tails-we-lose-" class="item-readon dn-readon"><span>more</span></a><div class="clear"></div></li>
-	<li class="mod-item dn-item mod-itemPlain dn-itemPlain item-2"><a href="/news-a-views/300-debt-brings-college-students-into-occupy-camp-" class="item-titleLink dn-titleLink">Debt brings college students into Occupy camp </a><p>Two-thirds of new college graduates last year had student loans to repay. The average amount: $25,520. The total amount owed in student loans nationwide is close to $1 trillion. The unemployment rate for young college graduates (ages 20-24) is over 9.1 percent, the highest on record.</p>
-<a href="/news-a-views/300-debt-brings-college-students-into-occupy-camp-" class="item-readon dn-readon"><span>more</span></a><div class="clear"></div></li>
-	<li class="mod-item dn-item mod-itemPlain dn-itemPlain item-3"><a href="/news-a-views/299-ehrenreich-democratic-establishment-abandoned-occupy-wall-street-" class="item-titleLink dn-titleLink">Ehrenreich: Democratic Establishment Abandoned Occupy Wall Street </a><p>Author Barbara Ehrenreich accused Barack Obama and the Democratic establishment of betraying the Occupy movement on Tuesday by failing to stop the evictions from Zuccotti Park.</p>
-<a href="/news-a-views/299-ehrenreich-democratic-establishment-abandoned-occupy-wall-street-" class="item-readon dn-readon"><span>more</span></a><div class="clear"></div></li>
+	<li class="mod-item dn-item mod-itemPlain dn-itemPlain item-1"><div class="item-cntr"><a href="/news-a-views/452-you-have-every-right-to-photograph-that-cop" class="item-titleLink dn-titleLink">You Have Every Right to Photograph That Cop</a><p>Taking photographs and video of things that are plainly visible in public spaces is a constitutional right — and that includes the outside of&nbsp;<a href="http://www.aclu.org/blog/free-speech/you-have-every-right-snap-picture">federal buildings</a>, as well as transportation facilities, and police and other government officials carrying out their duties.</p>
+<a href="/news-a-views/452-you-have-every-right-to-photograph-that-cop" class="item-readon dn-readon"><span>more</span></a><div class="clear"></div></div></li>
+	<li class="mod-item dn-item mod-itemPlain dn-itemPlain item-2"><div class="item-cntr"><a href="/news-a-views/448-jimmy-kimmel-confronts-president-obama-over-marijuana-legalization" class="item-titleLink dn-titleLink">Jimmy Kimmel Confronts President Obama Over Marijuana Legalization</a><p>“Marijuana is something that real people care about.” — Jimmy Kimmel (forward to 21:50 or&nbsp;<a href="http://www.youtube.com/watch?v=DcqYFPRyyp8&amp;t=21m50s" target="_blank">click here</a>)</p>
+<a href="/news-a-views/448-jimmy-kimmel-confronts-president-obama-over-marijuana-legalization" class="item-readon dn-readon"><span>more</span></a><div class="clear"></div></div></li>
+	<li class="mod-item dn-item mod-itemPlain dn-itemPlain item-3"><div class="item-cntr"><a href="/news-a-views/446-wells-fargo-terrified-to-face-victims-of-its-foreclosure-fraud-and-predatory-lending-locks-shareholders-out-of-annual-meeting" class="item-titleLink dn-titleLink">Wells Fargo, Terrified to Face Victims of Its Foreclosure Fraud and Predatory Lending, Locks Shareholders Out of Annual Meeting</a><div class="teaser">
+<p>On March 24, Wells Fargo, assisted by dozens of Bay Area police, took the unprecedented step of locking more than 100 of its shareholders out of its annual meeting – a meeting they had every legal right to attend.</p>
+<a href="/news-a-views/446-wells-fargo-terrified-to-face-victims-of-its-foreclosure-fraud-and-predatory-lending-locks-shareholders-out-of-annual-meeting" class="item-readon dn-readon"><span>more</span></a><div class="clear"></div></div></div></li>
 </ul>
 
 </div>
@@ -297,7 +314,7 @@ window.addEvent('domready', function() {
 <!-- END module 'Display News by BK 1.5.7' -->
 </div>
 	</div>
-		<div class="sbxMod sbxModTable mTesti mod-right-4 mod-right-last" id="Mod56">
+		<div class="sbxMod sbxModTable mTesti mod-right-5" id="Mod56">
 				<h3 class="sbxMod-title"><span>TESTIMONIALS</span></h3>
 				<div class="sbxMod-content">
 <div class="mod mod-newsflash">
@@ -314,6 +331,14 @@ window.addEvent('domready', function() {
 	<div class="clear"></div>
 
 </li>	</ul>
+</div></div>
+	</div>
+		<div class="sbxMod sbxModTable mod-right-7 mod-right-last" id="Mod78">
+				<h3 class="sbxMod-title"><span>Archive</span></h3>
+				<div class="sbxMod-content">
+<div class="mod mod-archive">
+	<ul class="mod-list mod-archiveList">
+			</ul>
 </div></div>
 	</div>
 	</div>
