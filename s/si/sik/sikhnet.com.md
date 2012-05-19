@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sikhnet.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525142422id_/http%3A//www.sikhnet.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sikhnet.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520005418id_/http%3A//www.sikhnet.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SikhNet
 
@@ -49,16 +49,19 @@ SikhNet is not responsible for interactions that happen between users either thr
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-1\. [Contact SikhNet via email](http://www.sikhnet.com/contact)  
-2\. You can call the following telephone number: +1-505-629-4121
+1\. [Contact SikhNet via email](https://web.archive.org/contact)  
+2\. You can call the following telephone number: +1-505-814-1523 or toll free: (855)745-SikhNet 
 
- **Correct/Update**  
+**Correct/Update**  
 This site gives users the following options for changing and modifying information previously provided. 
 
-1\. [Contact SikhNet via email](http://www.sikhnet.com/contact)  
-2\. Registration info: [_http://www.sikhnet.com/registration_](http://www.sikhnet.com/registration)   
-2\. Membership info: [_http://www.sikhnet.com/sikhnet/membership.nsf_](http://www.sikhnet.com/sikhnet/membership.nsf)   
-3\. call the following telephone number: +1-505-629-4121
+1\. [Contact SikhNet via email](https://web.archive.org/contact)  
+2\. Registration info: [_http://www.sikhnet.com/registration_](https://web.archive.org/registration)   
+2\. Membership info: [_http://www.sikhnet.com/sikhnet/membership.nsf_](https://web.archive.org/sikhnet/membership.nsf)   
+3\. call the following telephone number: +1-505-814-1523 or toll free: (855)745-SikhNet    
+
+
+
 
 
 **Contacting the Web Site**  
@@ -68,6 +71,5 @@ _Sikhnet_
 _01-A Ram Das Guru Pl_  
 _Espanola, NM. 87532_  
 _USA_  
-[Contact Form](http://web2.sikhnet.com/contact)  
-+1-505-629-4121  
-
+[Contact Form](https://web.archive.org/contact)  
++1-505-814-1523 or toll free: (855)745-SikhNet 
