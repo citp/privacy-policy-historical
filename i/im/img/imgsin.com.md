@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the imgsin.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118021601id_/http%3A//imgsin.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgsin.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519045132id_/http%3A//imgsin.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Sinfully Good
 
-  
   
   
   
