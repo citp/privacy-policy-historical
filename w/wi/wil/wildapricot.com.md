@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wildapricot.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119110301id_/http%3A//www.wildapricot.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildapricot.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519083357id_/http%3A//www.wildapricot.com/privacypolicy) for the most accurate reproduction.*
 
 # Integrated, Web-based Association Membership Management Solution: Free Trial!
 
@@ -47,3 +47,6 @@ This Site may contain links to other sites. We are not responsible for the priva
 ### QUESTIONS
 
 You can contact us with any questions about this Privacy Policy at [support@wildapricot.com](mailto:support@wildapricot.com)
+
+  
+
