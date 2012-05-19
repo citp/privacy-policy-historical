@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rentokil-initial.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220012458id_/http%3A//www.rentokil-initial.com/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentokil-initial.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519235546id_/http%3A//www.rentokil-initial.com/privacy-policy/index.html) for the most accurate reproduction.*
 
 # Rentokil Initial - Privacy Policy - Rentokil Initial
 
-The Rentokil Initial Group* respects your privacy and is committed to protecting it. We encourage you to read this policy before using this site as your use of the site signifies that you agree with all of its terms.
+**The Rentokil Initial Group* respects your privacy and is committed to protecting it. We encourage you to read this policy before using this site as your use of the site signifies that you agree with all of its terms.**
 
-> *Unless otherwise specified, references in this Privacy Policy to the Rentokil Initial Group, means Rentokil Initial plc and its group of companies.
+* Unless otherwise specified, references in this Privacy Policy to the Rentokil Initial Group, means Rentokil Initial plc and its group of companies.
 
 This policy applies to personal information we hold about individuals. It does not apply to information we hold about companies and other organisations.
 
