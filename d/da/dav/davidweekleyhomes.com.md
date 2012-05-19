@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davidweekleyhomes.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117113339id_/http%3A//www.davidweekleyhomes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidweekleyhomes.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519160424id_/http%3A//www.davidweekleyhomes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - David Weekley Homes
 
@@ -39,7 +39,7 @@ We contract with an outside service called Omniture to help us better understand
 
 Visitors to our site who submit contact requests 'opt-in' to receive email follow-ups from the appropriate Team Member(s). Visitors who subscribe to our Home Club or Realtor News newsletters are also ‘opting-in’ to receive email follow-ups from the appropriate Team Members.
 
-At any time, you may unsubscribe or ‘opt-out’ from receiving further e-mails by clicking the “unsubscribe” link at the bottom of e-mail messages, or by forwarding the e-mail to dwh@dwhomes.com with the word “remove” in the subject line.
+At any time, you may unsubscribe or ‘opt-out’ from receiving further e-mails by clicking the “manage my subscriptions” link at the bottom of e-mail messages, or by forwarding the e-mail to dwh@dwhomes.com with the word “remove” in the subject line.
 
 **Forward-to-a-Friend Functionality**
 
