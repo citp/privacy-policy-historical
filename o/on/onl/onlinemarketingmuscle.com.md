@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinemarketingmuscle.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119184732id_/http%3A//www.onlinemarketingmuscle.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinemarketingmuscle.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519134347id_/http%3A//www.onlinemarketingmuscle.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -67,7 +67,7 @@ This online **privacy policy** applies only to information collected through our
 
 ### Terms and Conditions
 
-Please also visit our [Terms and Conditions](http://www.onlinemarketingmuscle.com/about/terms-and-conditions/ "Terms and Conditions") section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.OnlineMarketingMuscle.com/about/terms-and-conditions](http://www.onlinemarketingmuscle.com/about/terms-and-conditions)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.OnlineMarketingMuscle.com/about/terms-and-conditions](http://www.onlinemarketingmuscle.com/about/terms-and-conditions)
 
 ### Your Consent
 
@@ -81,7 +81,7 @@ This policy was last modified on 06-20-2011
 
 ### Contacting Us
 
-If there are any questions regarding this privacy policy you may [contact us](http://www.onlinemarketingmuscle.com/contact/contact-us/ "contact us") using the information below.
+If there are any questions regarding this privacy policy you may contact us using the information below.
 
 http://www.OnlineMarketingMuscle.com
 
