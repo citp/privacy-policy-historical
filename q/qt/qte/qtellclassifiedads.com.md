@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qtellclassifiedads.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119222832id_/http%3A//www.qtellclassifiedads.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qtellclassifiedads.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519182729id_/http%3A//www.qtellclassifiedads.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
