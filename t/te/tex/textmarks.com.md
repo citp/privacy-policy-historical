@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the textmarks.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120072751id_/http%3A//www.textmarks.com/front/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textmarks.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519134435id_/http%3A//www.textmarks.com/front/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TextMarks | SMS and Text Alerts Made Easy | SMS API
 
