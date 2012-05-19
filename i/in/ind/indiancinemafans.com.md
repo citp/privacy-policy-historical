@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the indiancinemafans.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213184600id_/http%3A//www.indiancinemafans.com/board/upload/rules-2/privacy-policy-18728) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiancinemafans.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519045709id_/http%3A//www.indiancinemafans.com/board/upload/rules-2/privacy-policy-18728) for the most accurate reproduction.*
 
 # Privacy Policy
 
-> **PRIVACY POLICY**  
->    
->  **This web site is sponsored by Indiancinemafans. Indiancinemafans respects the privacy of its users, and this Privacy Policy explains what information we collect on our Web Site and how we use such information. Please read this Privacy Policy carefully. In addition, please review our Terms of Use, which governs your use of this Web Site. Your use of our Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Policy.**
+> **PRIVACY POLICY**
+> 
+> **This web site is sponsored by Indiancinemafans. Indiancinemafans respects the privacy of its users, and this Privacy Policy explains what information we collect on our Web Site and how we use such information. Please read this Privacy Policy carefully. In addition, please review our Terms of Use, which governs your use of this Web Site. Your use of our Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Policy.**
 > 
 > **This Privacy Policy Only Applies to This Web Site**
 > 
@@ -55,3 +55,8 @@
 > **Contact Us**
 > 
 > **If you have any questions, comments or concerns about our Privacy Policy, please contact us at[indiancinemafans@gmail.com](mailto:admin@indiancinemafans.com) This Privacy Policy was last updated on November 20, 2007. © 2006 indiancinemafans llc. All rights reserved.**
+
+> Last edited by admin; 08-28-2009 at 12:51 PM. 
+
+  
+
