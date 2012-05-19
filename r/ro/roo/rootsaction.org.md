@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rootsaction.org privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120034009id_/http%3A//rootsaction.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rootsaction.org privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519133423id_/http%3A//rootsaction.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - RootsAction
 
@@ -16,7 +16,7 @@ If you support Roots Action—and share your personally identifying information�
 
 We will email you with occasional updates and opportunities for action. We will do our best to respect your time and attention. You may always opt out of receiving future emails, and simple instructions on how to remove yourself will be included in any email you receive.
 
-Our system allows users to send messages to their contacts about the work that RootsAction is doing. However, we do not collect or store personally identifying information—such as email addresses—that users divulge about other people while using tools—such as a tell-a-friend feature—on our site.
+Our system allows users to send messages to their contacts about the work that RootsAction is doing. However, we do not collect or store personally identifying information (such as email addresses) that users divulge about other people while using tools (such as a tell-a-friend feature) on our site.
 
 We strongly recommend that you do not post confidential information to any unconstrained data fields—such as comment areas—on this site.
 
