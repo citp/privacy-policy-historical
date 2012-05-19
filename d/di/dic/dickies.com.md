@@ -1,132 +1,55 @@
-> *The following text is extracted and transformed from the dickies.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509133753id_/http%3A//www.dickies.com/web/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dickies.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519155241id_/http%3A//www.dickies.com/general/privacy.jsp) for the most accurate reproduction.*
 
-# Dickies® ~ Privacy Policy
+# Dickies :: Privacy
 
-| 
+Dickies.com Privacy Notice
 
-PRIVACY STATEMENT OF WILLIAMSON-DICKIE MFG. CO.
+Last updated: October 21, 2009.
 
-INFORMATION ABOUT OUR ORGANIZATION AND WEB SITE  
-Modern information and communication technologies play a fundamental role in the activities of an organization like Williamson-Dickie Mfg. Co.
+Dickies.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting Dickies.com, you are accepting the practices described in this Privacy Notice.
 
-Our principal activity is: APPAREL MANUFACTURER
+**What Personal Information About Customers Does Dickies.com Gather?**
 
-Our privacy policy covers Williamson-Dickie Mfg. Co. and its Web site.
+The information we learn from customers helps us personalize and continually improve your shopping experience at Dickies.com. Here are the types of information we gather.
 
-ORGANIZATION NAME  
-WILLIAMSON-DICKIE MFG. CO.  
-| Address: | 509 W. Vickery Blvd.  
----|---  
-City, Zip: | Fort Worth, 76104  
-State: | Texas  
-Country: | USA  
-Controller: | Director e-Business  
-Web Site(s): | www.dickies.com  
-  
-PROVIDING VISITORS WITH ANONYMOUS ACCESS  
-You can access our Web site home page and browse our site without disclosing your personal data. You must provide certain personal data if you choose to place an order through this web site.
+Information You Give Us: We receive and store any information you enter on our Web site or give us in any other way. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you and communicating with you.
 
-THE SERVICES AND LINKS OF OUR WEB SITE  
-Our Web site does not enable our visitors to communicate with other visitors or to post information to be accessed by others but does include links to other web sites.
+Automatic Information: We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses Dickies.com or advertisements and other content served by or on behalf of Dickies.com on other Web sites.
 
-AUTOMATIC COLLECTION OF INFORMATION  
-We automatically log data regarding your site visit through the use of cookies. We do not link personal information to cookies. We utilize cookies for the following purposes:
+E-mail Communications: We compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please click the unsubscribe link available in your marketing emails.
 
-  * Technical administration of the Web site 
-  * Customer administration 
-  * We do not use cookies to store personal data nor do we link non-personal information stored in cookies with personal data about specific individuals.
+**What About Cookies?**
 
+Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and storage of items in your Shopping Cart between visits.
 
+The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. However, because cookies allow you to take advantage of some of Dickies.com's essential features, we recommend that you leave them turned on.
 
-DATA COLLECTION AND PURPOSE SPECIFICATION 
+**Does Dickies.com Share the Information It Receives?**
 
-  * We collect the personal data that you may volunteer while completing a contest or survey form on this web site 
-  * We collect and store personal information that is required to process orders placed on this web site 
-  * We do not collect information about our visitors from other sources, such as public records or bodies, or private organizations. 
-  * The primary purpose of collecting use personal data is for verifying and validating information collected during the shopping process and for awarding contest prizes. If you provide permission for us to contact you via email, you may receive promotional advertising and/or requests for feedback. 
-  * Your personal data will not be used for any new purpose without your explicit consent.
+Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with subsidiaries Williamson-Dickie Mfg. Co. controls that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice.
 
+Third-Party Service Providers: We employ other companies and individuals to perform functions on our behalf. Examples include delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), and processing credit card payments. They have access to personal information needed to perform their functions, but may not use it for other purposes.
 
+Promotional Offers: Sometimes we send offers to selected groups of Dickies.com customers. If you do not want to receive such offers you can opt out of our permission based email service.
 
-CHILDREN'S PRIVACY
+Business Transfers: As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that Dickies.com, Inc., or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
 
-  * We do not knowingly collect personal data from children and take specific steps to protect the privacy of children by making reasonable efforts to ensure that a parent has authorized the collection of the child's personal data
+Protection of Dickies.com and Others: We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Conditions of Use and other agreements; or protect the rights, property, or safety of Dickies.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice.
 
+**How Secure Is Information About Me?**
 
+We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.
 
-CONFIDENTIALLY / SECURITY  
-We provide a secure SSL transmission method to send us the following types of personal data:
+We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
 
-  * primary personal data (such as name and contact details) 
-  * identifiers (such as credit card details, Web site password)
+**What Choices Do I Have?**
 
-We have implemented security policies, rules and technical measures to protect the personal data that we have under our control from: 
-  * unauthorized access 
-  * improper use or disclosure 
-  * unauthorized modification 
-  * unlawful destruction or accidental loss
+If you do not want to receive e-mail or other mail from us, please adjust your Email Updates by going to the site and selecting Email Updates from the footer navigation. (If you do not want to receive [Conditions of Use](https://web.archive.org/web/20120519155241id_/http%3A//www.dickies.com/general/conditions-of-use.jsp) and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of Dickies.com, and it is your responsibility to review them for changes.)
 
-All our employees and data processors, who have access to, and are associated with the processing of personal data, are obliged to respect the confidentiality of our visitor's personal data. 
+**Are Children Allowed to Use Dickies.com?**
 
-We ensure that your personal data will not be disclosed to State institutions and authorities except if required by law or other regulation. 
+Dickies.com does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use Dickies.com only with the involvement of a parent or guardian.
 
-ACCESS TO THE PERSONAL DATA WE MAY HOLD ABOUT YOU  
-Dickies® only maintains personal data required to fulfill orders placed on dickies.com and to award prizes for our contests.
+**Conditions of Use, Notices, and Revisions**
 
-  * Sending an email to [customerservice@dickies.com](mailto:customerservice@dickies.com) and asking whether we are keeping personal data about you. 
-  * If we do maintain personal data about you, we will provide a readable copy of the personal data, within approximately 2 weeks from the date of request. (Although we may require proof of your identity prior to releasing the data). 
-  * We will provide the information without any charge. 
-  * We allow you to modify the data that we hold about you and, where appropriate, you may have the data: 
-    * erased 
-    * rectified or amended 
-    * completed
-  * We reserve the right to refuse to provide our visitors with a copy of their personal data, but will give reasons for our refusal. 
-  * We do, however, allow you to challenge our decision to refuse to provide you with a copy of your personal data.
-
-
-
-**UNSOLICITED IDEA POLICY  
-** Williamson-Dickie appreciates individual interest in submitting ideas, proposals, or suggestions. Williamson-Dickie has many projects under development at any given time and it is possible that unsolicited ideas or proposals could be submitted to Williamson-Dickie which are already under consideration or may already be in the planning stages. Williamson-Dickie associates are not authorized to accept or consider unsolicited ideas, suggestions or proposals including ideas for new advertising campaigns, new promotions, new or improved products or technologies, product enhancements, processes, materials, marketing plans or new product names. Please do not send any original creative artwork, suggestions or other works. The sole purpose of this policy is to avoid potential misunderstandings or disputes when Williamson-Dickies’ products or marketing strategies might seem similar to unsolicited ideas submitted to Williamson-Dickie. Please do not send unsolicited ideas, proposals, or suggestions to Williamson-Dickie or anyone at Williamson-Dickie. In the event Williamson-Dickie does receive unsolicited ideas, proposals, or suggestions, regardless of statements which may be made in the correspondence received, the following terms shall apply to all unsolicited idea, proposal, or suggestion submissions.
-
-**TERMS OF IDEA SUBMISSION  
-All individuals submitting unsolicited ideas agree to the following:**
-
-**(1) Unsolicited ideas will automatically become the property of Williamson-Dickie, without compensation to individuals making the submission;**
-
-**(2) Williamson-Dickie will be allowed to use the ideas for any purpose and in any way, including providing the unsolicited idea or suggestion to other parties as deemed appropriate.**
-
-PRIVACY SUPPORT   
-If you have any further inquires related to this privacy policy, please contact us with your request at [customerservice@dickies.com](mailto:customerservice@dickies.com)
-
-Return  |   What's New in May  
----  
-| 
-
-TOP STORIES
-
-2008 Updated Dickies Mobile Tours...  
-[ [read more](https://web.archive.org/web/news/top_stories.asp#showcar) ]
-
-PRESS RELEASE
-
-Dickies acquires Kodiak Group Holdings Inc. . . .  
-[ [read more](https://web.archive.org/web/news/2008_04_Kodiak.asp) ]
-
-NEWS STAND
-
-Dickies DuraBullfighters in _Sports Illustrated_! . . .  
-[ [read more](https://web.archive.org/web/news/top_stories.asp#si) ]
-
-TOP STORIES
-
-Dickies Durabullfighters Sport New Jerseys . . .  
-[ [read more](https://web.archive.org/web/news/top_stories.asp#durabullfighters) ]
-
-NEWS STAND
-
-Dickies and NASCAR on the pages of _School Uniforms_ magazine! . . .  
-[ [read more](https://web.archive.org/web/news/magazines.asp#school) ]
-
-PauseResume **::** [More News](https://web.archive.org/web/news/default.asp)
-
-| 
+If you choose to visit Dickies.com, your visit and any dispute over privacy is subject to this Notice and our [Conditions of Use](https://web.archive.org/web/20120519155241id_/http%3A//www.dickies.com/general/f), including limitations on damages, resolution of disputes, and application of the law of the state of Texas. If you have any concern about privacy at Dickies.com, please contact us at [customerservice@dickies.com](mailto:customerservice@dickies.com) with a thorough description, and we will try to resolve it. Our business changes constantly, and our Privacy Notice and the [Conditions of Use](https://web.archive.org/web/20120519155241id_/http%3A//www.dickies.com/general/conditions-of-use.jsp) will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
