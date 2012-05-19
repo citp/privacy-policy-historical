@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the raleys.com privacy policy that was archived on 2011-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111120072727id_/http%3A//www.raleys.com/www/feature/legal.jsp%3Ffeatureid%3D1095065) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the raleys.com privacy policy that was archived on 2012-05-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120519134148id_/http%3A//www.raleys.com/www/feature/legal.jsp%3Ffeatureid%3D1095065) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head>
 
@@ -55,12 +55,22 @@
 
 <script type="text/javascript" src="http://www.raleys.com/scripts/jquery/jquery.js"></script>
 <script type="text/javascript" src="http://www.raleys.com/scripts/jquery/jquery-ui.js"></script>
+<script type="text/javascript" src="http://www.raleys.com/scripts/jquery/showLoading.min.js"></script>
+
+
+
 
 
 <link rel="icon" type="image/png" href="/favicon.png">
 <link rel="P3Pv1" href="http://www.raleys.com/w3c/p3p.xml">
 
-<script language="javascript">
+<script type="text/javascript">
+
+function disableGsn(){
+	$(".gsnlink").each(function() { 
+		$(this).showLoading();
+	});	
+}
 
 function openVideo(videoid){
 aWindow=window.open("http://www.raleys.com/www/videos_popup.jsp?videoid="+videoid,"Video","toolbar=no,width=600,height=400,status=no,scrollbars=no,resizable=yes,menubar=no");
@@ -114,6 +124,8 @@ aWindow=window.open("/www/promotions/promotions.jsp?contentid="+popupno,"Popup",
 <td width="910" class="page_center" valign="top" align="center">
 
 <div class="content_area">
+
+
 
 
 
@@ -258,8 +270,8 @@ aWindow=window.open("/www/promotions/promotions.jsp?contentid="+popupno,"Popup",
 
 
 
-  <a href="http://www.raleys.com/cfapps/orders/itemlist.cfm?typeid=102">
-  <img src="http://www.raleys.com/images/imageslayout/2102136.jpg" width="295" height="65" border="0" alt="Order Holiday Dinner"></a>	  			
+  <a href="http://www.raleys.com/grapeescape">
+  <img src="http://www.raleys.com/images/imageslayout/2343501.jpg" width="295" height="65" border="0" alt="Grape Escape Info"></a>	  			
 
 
 
@@ -273,13 +285,13 @@ aWindow=window.open("/www/promotions/promotions.jsp?contentid="+popupno,"Popup",
 		<td width="910" height="42" colspan="3" align="left" valign="middle" class="main-menu">
 			<a href="http://www.raleys.com/www/home.jsp">HOME</a>&nbsp;|&nbsp;
 			<a href="http://www.raleys.com/www/shoponline.jsp">SHOP</a>&nbsp;|&nbsp;
-			<a href="http://www.raleys.com/www/gsn.jsp?linkid=display_ad">SPECIALS</a>&nbsp;|&nbsp;
+			<a href="http://www.raleys.com/www/gsn.jsp?linkid=display_ad" class="gsnlink" onclick="disableGsn()">SPECIALS</a>&nbsp;|&nbsp;
 			<a href="http://www.raleys.com/www/apps/coupons/coupons.jsp">E-COUPONS</a>&nbsp;|&nbsp;
 			<a href="http://www.raleys.com/www/our_food.jsp">OUR FOOD</a>&nbsp;|&nbsp;
-			<a href="http://www.raleys.com/www/gsn.jsp?linkid=recipes">RECIPES</a>&nbsp;|&nbsp;
+			<a href="http://www.raleys.com/www/gsn.jsp?linkid=recipes" class="gsnlink" onclick="disableGsn()">RECIPES</a>&nbsp;|&nbsp;
 			<a href="http://www.raleys.com/cfapps/se_flash/something_extra_digital.cfm">SE MAG</a>&nbsp;|&nbsp;
 			<a href="http://www.raleys.com/www/healthy_living.jsp">PHARMACY &amp; HEALTH</a>&nbsp;|&nbsp;
-			<a href="http://www.raleys.com/www/gsn.jsp?linkid=videos">VIDEO</a>&nbsp;|&nbsp;
+			<a href="http://www.raleys.com/www/gsn.jsp?linkid=videos" class="gsnlink" onclick="disableGsn()">VIDEO</a>&nbsp;|&nbsp;
 			<a href="http://www.raleys.com/www/events.jsp">EVENTS</a>&nbsp;|&nbsp;
 			<a href="http://www.raleys.com/www/about_us.jsp">ABOUT US</a>&nbsp;
 			<input type="text" name="keyword" size="10" value="SEARCH" class="home_srch_field" onfocus="javascript:if(this.value=='SEARCH') {this.value='';}" onblur="javascript:if(this.value=='') {this.value='SEARCH'}"> &nbsp; 
@@ -580,7 +592,7 @@ Sign Up Free!
 
 </td>
 <td align="left" valign="top" width="100">
-<a href="http://www.raleys.com/www/gsn.jsp?linkid=display_ad">Get Your Weekly Specials</a>
+<a href="http://www.raleys.com/www/gsn.jsp?linkid=display_ad" class="gsnlink" onclick="disableGsn()">Get Your Weekly Specials</a>
 </td>
 </tr>
 
@@ -699,8 +711,8 @@ Find a Store Location</a>
 
 		<center>
 			
-		<a href="http://www.raleys.com/cfapps/orders/itemlist.cfm?typeid=102">
-		<img src="http://www.raleys.com/images/imageslayout/2090635.jpg" width="190" alt="Order Holiday Meal" class="promo_box"></a>
+		<a href="http://www.raleys.com/cfapps/orders/itemlist.cfm?typeid=2030629">
+		<img src="http://www.raleys.com/images/imageslayout/2398376.jpg" width="190" alt="Order Today!" class="promo_box"></a>
 		
 		</center>
 		
@@ -736,43 +748,7 @@ Find a Store Location</a>
 		<center>
 			
 		<a href="http://shop.raleys.com/Shop/Coupons.gsn">
-		<img src="http://www.raleys.com/images/imageslayout/2022308.jpg" width="190" alt="Even More Coupon Savings" class="promo_box"></a>
-		
-		</center>
-		
-	</div>	
-		
-<br>
-		
-
-
-	<div class="promo">
-		
-		
-		
-
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-		
-
-		<center>
-			
-		<a href="http://www.raleys.com/www/promotions/promotions.jsp?contentid=2118780">
-		<img src="http://www.raleys.com/images/imageslayout/2118786.jpg" width="190" alt="Butterball" class="promo_box"></a>
+		<img src="http://www.raleys.com/images/imageslayout/2215245.jpg" width="190" alt="Even More Coupon Savings" class="promo_box"></a>
 		
 		</center>
 		
@@ -843,80 +819,8 @@ Find a Store Location</a>
 
 		<center>
 			
-		<a href="http://www.raleys.com/www/our_food_variety.jsp?producttypeid=1580540">
-		<img src="http://www.raleys.com/images/imageslayout/1608707.jpg" width="190" alt="Raleys To Go Fresh Deli Meals" class="promo_box"></a>
-		
-		</center>
-		
-	</div>	
-		
-<br>
-		
-
-
-	<div class="promo">
-		
-		
-		
-
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-		
-
-		<center>
-			
-		<a href="http://www.raleys.com/images/imageslayout/111101-Jack-Daniels-Rebate.htm">
-		<img src="http://www.raleys.com/images/imageslayout/2090596.jpg" width="190" alt="Jack Daniels Rebate Offer" class="promo_box"></a>
-		
-		</center>
-		
-	</div>	
-		
-<br>
-		
-
-
-	<div class="promo">
-		
-		
-		
-
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-		
-
-		<center>
-			
-		<a href="http://www.raleys.com/www/promotions/promotions.jsp?contentid=2120981">
-		<img src="http://www.raleys.com/images/imageslayout/2120994.jpg" width="190" alt="Wounded Warrior Project" class="promo_box"></a>
+		<a href="http://www.raleys.com/www/contests/contests.jsp?contentid=2366917">
+		<img src="http://www.raleys.com/images/imageslayout/2366971.jpg" width="190" alt="Enfamil" class="promo_box"></a>
 		
 		</center>
 		
@@ -959,18 +863,19 @@ Find a Store Location</a>
 			<br>
 			<a href="http://www.raleys.com/www/home.jsp">Home</a>&nbsp;|
 			<a href="http://www.raleys.com/www/shoponline.jsp">Shop</a>&nbsp;|
-			<a href="http://www.raleys.com/www/gsn.jsp?linkid=display_ad">Specials</a>&nbsp;|
+			<a href="http://www.raleys.com/www/gsn.jsp?linkid=display_ad" class="gsnlink" onclick="disableGsn()">Specials</a>&nbsp;|
 			<a href="http://www.raleys.com/www/apps/coupons/coupons.jsp">E-coupons</a>&nbsp;|
 			<a href="http://www.raleys.com/www/our_food.jsp">Our Food</a>&nbsp;|
-			<a href="http://www.raleys.com/www/gsn.jsp?linkid=recipes">Recipes</a>&nbsp;|
+			<a href="http://www.raleys.com/www/gsn.jsp?linkid=recipes" class="gsnlink" onclick="disableGsn()">Recipes</a>&nbsp;|
 	  		<a href="http://www.raleys.com/cfapps/se_flash/something_extra_digital.cfm">SE Mag</a>&nbsp;|
 	  		<a href="http://www.raleys.com/www/healthy_living.jsp">Pharmacy &amp; Health</a>&nbsp;|
-	  		<a href="http://www.raleys.com/www/gsn.jsp?linkid=videos">Video</a>&nbsp;|
+	  		<a href="http://www.raleys.com/www/gsn.jsp?linkid=videos" class="gsnlink" onclick="disableGsn()">Video</a>&nbsp;|
 	  		<a href="http://www.raleys.com/www/events.jsp">Events</a>&nbsp;|
-	  		<a href="http://www.raleys.com/www/about_us.jsp" class="last">About Us</a>
+	  		<a href="http://www.raleys.com/www/about_us.jsp" class="last">About Us</a>&nbsp;|
+	  		<a href="http://www.raleys.com/cfapps/contact/contact.cfm">Contact Us</a>
 	  		<br>
-	  		<a href="http://www.raleys.com/cfapps/contact/contact.cfm">Contact Us</a>&nbsp;|
 	  		<a href="http://www.raleys.com/www/feature/legal.jsp?featureid=1095065">Privacy Policy</a>&nbsp;|
+	  		<a href="http://www.raleys.com/go/ctscact">California Transparency in Supply Chains Act of 2010</a>&nbsp;|
 	  		<a href="http://www.raleys.com/www/feature/legal.jsp?featureid=1113715">Comment Posting Guidelines</a>&nbsp;|
 	  		<a href="http://shop.raleys.com/StoreLocator.gsn">Store Locator</a>&nbsp;|
 			<a href="http://www.raleys.com/www/site_map.jsp">Site Map</a>&nbsp;|
@@ -978,7 +883,7 @@ Find a Store Location</a>
 			<br><br>
 			©
 	  			
-				2011 Raley's Family of Fine Stores
+				2012 Raley's Family of Fine Stores
 				&nbsp;|&nbsp;<a href="http://www.raleys.com/talk">Raleys.com/talk</a>
 			<br><br>		
 		</td>
