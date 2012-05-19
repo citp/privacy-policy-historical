@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tatapower.com privacy policy that was archived on 2011-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111214172942id_/http%3A//www.tatapower.com/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tatapower.com privacy policy that was archived on 2012-05-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120519083244id_/http%3A//www.tatapower.com/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -24,9 +24,261 @@
 <body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 <table width="1003" border="0" cellpadding="0" cellspacing="0">
   <tbody><tr>
-    <td valign="top"> <table width="1003" border="0" cellpadding="0" cellspacing="0">
+    <td valign="top"> <link href="/includes/Spry-UI-1.7/css/Menu/basic/SpryMenuBasic.css" rel="stylesheet" type="text/css">
+<script src="/includes/Spry-UI-1.7/includes/SpryDOMUtils.js" type="text/javascript"></script>
+<script src="/includes/Spry-UI-1.7/includes/SpryDOMEffects.js" type="text/javascript"></script>
+<script src="/includes/Spry-UI-1.7/includes/SpryWidget.js" type="text/javascript"></script>
+<script src="/includes/Spry-UI-1.7/includes/SpryMenu.js" type="text/javascript"></script>
+<script src="/includes/Spry-UI-1.7/includes/plugins/MenuBar2/SpryMenuBarKeyNavigationPlugin.js" type="text/javascript"></script>
+<script src="/includes/Spry-UI-1.7/includes/plugins/MenuBar2/SpryMenuBarIEWorkaroundsPlugin.js" type="text/javascript"></script>
+<style type="text/css">
+/* BeginOAWidget_Instance_2141544: #MenuBar */
+/* Settable values for skinning a Basic menu via presets. If presets are not sufficient, most skinning should be done in
+	these rules, with the exception of the images used for down or right pointing arrows, which are in the file SpryMenuBasic.css
+	
+	 These assume the following widget classes for menu layout (set in a preset)
+	.MenuBar - Applies to all menubars - default is horizontal bar, all submenus are vertical - 2nd level subs and beyond are pull-right.
+	.MenuBarVertical - vertical main bar; all submenus are pull-right.
+	
+	You can also pass in extra classnames to set your desired top level menu bar layout. Normally, these are set by using a preset. 
+	They only apply to horizontal menu bars:
+		MenuBarLeftShrink - The menu bar will be horizontally 'shrinkwrapped' to be just large enough to hold its items, and left aligned
+		MenuBarRightShrink - Just like MenuBarLeftShrink, but right aligned
+		MenuBarFixedLeft - Fixed at a specified width set in the rule '.MenuBarFixedLeft', and left aligned.  
+		MenuBarFixedCentered -  - Fixed at a specified width set in the rule '.MenuBarFixedCentered', 
+						and centered in its parent container.
+		MenuBarFullwidth - Grows to fill its parent container width.
+ 
+	In general, all rules specified in this file are prefixed by #MenuBar so they only apply to instances of the widget inserted along
+	with the rules. This permits use of multiple MenuBarBasic widgets on the same page with different layouts. Because of IE6 limitations,
+	there are a few rules where this was not possible. Those rules are so noted in comments.
+	
+*/
+
+#MenuBar  {
+	background-color:#ffffff;	
+	font-family: Arial, Helvetica, sans-serif; /* Specify fonts on on MenuBar and subMenu MenuItemContainer, so MenuItemContainer,
+												MenuItem, and MenuItemLabel
+												at a given level all use same definition for ems.
+												Note that this means the size is also inherited to child submenus, 
+												so use caution in using relative sizes other than
+												100% on submenu fonts. */
+	font-weight: normal;
+	font-size: 8pt;
+	font-style: normal;
+	padding:0;	
+	border-color: #ffffff #ffffff #ffffff #ffffff; 
+	border-width:0px;
+	border-style: none none none none;
+}
+/* Caution: because ID+class selectors do not work properly in IE6, but we want to restrict these rules to just this
+widget instance, we have used string-concatenated classnames for our selectors for the layout type of the menubar 
+in this section. These have very low specificity, so be careful not to accidentally override them. */
+
+.MenuBar br { /* using just a class so it has same specificity as the ".MenuBarFixedCentered br" rule bleow */
+	display:none;
+}
+.MenuBarLeftShrink {
+	float: left; /* shrink to content, as well as float the MenuBar */
+	width: auto;
+}
+.MenuBarRightShrink {
+	float: right; /* shrink to content, as well as float the MenuBar */
+	width: auto;
+}
+.MenuBarFixedLeft {
+	float: left;
+	width: 80em;
+}
+.MenuBarFixedCentered {
+	float: none;
+	width: 80em;
+	margin-left:auto;
+	margin-right:auto;
+}
+.MenuBarFixedCentered br {
+	clear:both;
+	display:block;
+}
+.MenuBarFixedCentered .SubMenu br {
+	display:none;
+}
+.MenuBarFullwidth {
+	float: left;
+	width: 100%;
+}
+
+/* Top level menubar items - these actually apply to all items, and get overridden for 1st or successive level submenus */
+#MenuBar  .MenuItemContainer {
+	padding: 0px 0px 0px 0px; 
+	margin: 0; 	/* Zero out margin  on the item containers. The MenuItem is the active hover area.
+				For most items, we have to do top or bottom padding or borders only on the MenuItem 
+				or a child so we keep the entire submenu tiled with items.
+				Setting this to 0 avoids "dead spots" for hovering. */
+}
+#MenuBar  .MenuItem {
+	padding: 6px 0px 6px 0px; 
+	background-color:#ffffff;	
+	border-width:0px;
+	border-color: #cccccc #ffffff #cccccc #ffffff; 
+	border-style: none solid none solid;
+}
+#MenuBar  .MenuItemFirst {
+	border-style: none none none none;
+}
+#MenuBar .MenuItemLast {
+	border-style: none solid none none;
+}
+
+#MenuBar  .MenuItem  .MenuItemLabel{
+	text-align:center;
+	line-height:1.4em;
+	color:#26559b;
+	background-color:#ffffff;
+	padding: 6px 0px 8px 0px;
+	width: 4em;
+	width:auto; 
+}
+.SpryIsIE6 #MenuBar  .MenuItem  .MenuItemLabel{
+	width:1em; /* Equivalent to min-width in modern browsers */
+}
+
+/* First level submenu items */
+#MenuBar .SubMenu  .MenuItem {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	font-size: 8pt;
+	font-style: normal;
+	background-color:#f0ffc9;
+	padding:0px 2px 0px 0px;
+	border-width:1px;
+	border-color: #26559b #26559b #26559b #26559b; 
+	/* Border styles are overriden by first and last items */
+	border-style: solid solid none solid;
+}
+#MenuBar  .SubMenu .MenuItemFirst {
+	border-style: solid solid none solid;
+}
+#MenuBar  .SubMenu .MenuItemFirst .MenuItemLabel{
+	padding-top: 6px; 
+}
+#MenuBar .SubMenu .MenuItemLast {
+	border-style: solid solid solid solid;
+}
+#MenuBar .SubMenu .MenuItemLast .MenuItemLabel{
+	padding-bottom: 6px; 
+}
+#MenuBar .SubMenu .MenuItem .MenuItemLabel{
+	text-align:left;
+	line-height:1em;	
+	background-color:#f0ffc9;
+	color:#26559b;
+	padding: 6px 12px 6px 5px; 
+	width: 7em;
+	width:auto; 
+}
+
+/* Hover states for containers, items and labels */
+#MenuBar .MenuItemHover {
+	background-color: transparent;
+	border-color: #cccccc #cccccc #cccccc #cccccc; 
+}
+
+#MenuBar .MenuItemWithSubMenu.MenuItemHover .MenuItemLabel{
+	background-color: transparent; /* consider exposing this prop separately*/
+	color: #26559b;
+}
+#MenuBar .MenuItemHover .MenuItemLabel{
+	background-color: transparent;
+	color: #26559b;
+}
+#MenuBar .SubMenu .MenuItemHover {
+	background-color: #f9fbf3; 
+	border-color: #26559b #26559b #26559b #26559b; 
+}
+
+#MenuBar .SubMenu .MenuItemHover .MenuItemLabel{
+	background-color: #f9fbf3; 
+	color: #a5a5a5;
+}
+/* Submenu properties -- First level of submenus */
+#MenuBar .SubMenuVisible {
+	background-color: #f0ffc9;
+	min-width:100%;  /* This keeps the menu from being skinnier than the parent MenuItemContainer - nice to have but not available on ie6 */
+	border-color: #ffffff #ffffff #ffffff #ffffff; 
+	border-width:0px;
+	border-style: none none none none;
+}
+#MenuBar.MenuBar .SubMenuVisible {/* For Horizontal menubar only */
+	top: 100%;	/* 100% is at the bottom of parent menuItemContainer */
+	left:0px; /* 'left' may need tuning depending upon borders or padding applied to menubar MenuItemContainer or MenuItem, 
+					and your personal taste.
+					0px will left align the dropdown with the content area of the MenuItemContainer. Assuming you keep the margins 0 
+					on MenuItemContainer and MenuItem on the parent
+					menubar, making this equal the sum of the MenuItemContainer & MenuItem padding-left will align 
+					the dropdown with the left of the menu item label.*/
+	z-index:10;
+}
+#MenuBar.MenuBarVertical .SubMenuVisible {
+	top: 0px;	
+	left:100%;
+	min-width:0px; /* Do not neeed to match width to parent MenuItemContainer - items will prevent total collapse */
+}
+/* Submenu properties -- Second level submenu and beyond - these are visible descendents of .MenuLevel1 */
+#MenuBar .MenuLevel1 .SubMenuVisible {
+	background-color: #f0ffc9;
+	min-width:0px; /* Do not neeed to match width to parent MenuItemContainer - items will prevent total collapse*/
+	top: 0px;	/* If desired, you can move this down a smidge to separate top item''s submenu from menubar - 
+				that is really only needed for submenu on first item of MenuLevel1, or you can make it negative to make submenu more
+				vertically 'centered' on its invoking item */
+	left:100%; /* If you want to shift the submenu left to partially cover its invoking item, you can add a margin-left with a 
+				negative value to this rule. Alternatively, if you use fixed-width items, you can change this left value
+				to use px or ems to get the offset you want. */
+}
+/* IE6 rules - you can delete these if you do not want to support IE6 */
+
+/* A note about multiple classes in IE6.
+ * Some of the rules above use multiple class names on an element for selection, such as "hover" (MenuItemHover) and "has a subMenu" (MenuItemWithSubMenu),
+ * giving the selector '.MenuItemWithSubMenu.MenuItemHover'.
+ * Unfortunately IE6 does not support using mutiple classnames in a selector for an element. For a selector such as '.foo.bar.baz', IE6 ignores
+ * all but the final classname (here, '.baz'), and sets the specificity accordingly, counting just one of those classs as significant. To get around this 
+ * problem, we use the plugin in SpryMenuBarIEWorkaroundsPlugin.js to generate compound classnames for IE6, such as 'MenuItemWithSubMenuHover'. 
+ * Since there are a lot of these needed, the plugin does not generate the extra classes for modern browsers, and we use the CSS2 style mutltiple class
+ * syntax for that. Since IE6 both applies rules where 
+ * it should not, and gets the specificity wrong too, we have to order rules carefully, so the rule misapplied in IE6 can be overridden. 
+ * So, we put the multiple class rule first. IE6 will mistakenly apply this rule.  We follow this with the single-class rule that it would 
+ * mistakenly override, making sure the  misinterpreted IE6 specificity is the same as the single-class selector, so the latter wins. 
+ * We then create a copy of the multiple class rule, adding a '.SpryIsIE6' class as context, and making sure the specificity for
+ * the selector is high enough to beat the single-class rule in the "both classes match" case. We place the IE6 rule at the end of the 
+ * css style block to make it easy to delete if you want to drop IE6 support.
+ * If you decide you do not need IE6 support, you can get rid of these, as well as the inclusion of the SpryMenuBarIEWorkaroundsPlugin.js script.
+ * The 'SpryIsIE6' class is placed on the HTML element by  the script in SpryMenuBarIEWorkaroundsPlugin.js if the browser is Internet Explorer 6. This avoids the necessity of IE conditional comments for these rules.
+ */
+.SpryIsIE6 #MenuBar .MenuBarView .MenuItemWithSubMenuHover .MenuItemLabel /* IE6 selector  */{
+	background-color: transparent; /* consider exposing this prop separately*/
+	color: #26559b;
+}
+.SpryIsIE6 #MenuBar .MenuBarView .SubMenu .MenuItemWithSubMenuHover .MenuItemLabel/* IE6 selector  */{
+	background-color: #f9fbf3; /* consider exposing this prop separately*/
+	color: #a5a5a5;
+}
+.SpryIsIE6 #MenuBar .SubMenu .SubMenu  /* IE6 selector  */{
+	margin-left: -0px; /* Compensates for at least part of an IE6 "double padding" version of the "double margin" bug */
+}
+
+	
+/* EndOAWidget_Instance_2141544 */
+</style>
+<script type="text/xml">
+<!--
+<oa:widgets>
+  <oa:widget wid="2141544" binding="#MenuBar" />
+</oa:widgets>
+-->
+</script>
+<table width="1003" border="0" cellpadding="0" cellspacing="0">
   <tbody><tr>
-    <td width="164" valign="top"><a href="http://www.tatapower.com/default.aspx"><img src="/images/tata-power-logo.gif" alt="Tata Power Logo" width="164" height="81" border="0"></a></td>
+    <td width="164" valign="top"><a href="http://www.tatapower.com/default.aspx"><img src="/images/tata-power-logo.gif" alt="Tata Power" width="164" height="81" border="0"></a></td>
     <td valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
       <tbody><tr>
         <td width="344" bgcolor="#26559b">&nbsp;</td>
@@ -45,7 +297,276 @@
 </script></td>
       </tr>
       <tr>
-        <td height="41" colspan="4" align="center"><img src="/images/about-us.gif" alt="About Us" name="menu0" width="44" height="14" id="menu0"><img src="/images/menu-divider.gif" alt="" width="21" height="14"><img src="/images/businesses.gif" alt="Businesses" name="menu1" width="60" height="14" id="menu1"><img src="/images/menu-divider.gif" alt="" width="21" height="14"><a href="http://www.tatapower.com/careers/working-with-us.aspx"><img src="/images/careers.gif" alt="Careers" name="menu2" width="38" height="14" id="menu2" border="0"></a><img src="/images/menu-divider.gif" alt="" width="21" height="14"><img src="/images/sustainability.gif" alt="Sustainability" name="menu4" width="62" height="14" id="menu4"><img src="/images/menu-divider.gif" alt="" width="21" height="14"><img src="/images/invertor-relation.gif" alt="Investor Relations" name="menu5" width="85" height="14" id="menu5"><img src="/images/menu-divider.gif" alt="" width="21" height="14"><img src="/images/regulations.gif" alt="Regulations" name="menu6" width="55" height="14" id="menu6"><img src="/images/menu-divider.gif" alt="" width="21" height="14"><a href="http://www.tatapower.com/customer-information/customer-information.aspx"><img src="/images/customer-initiatives.gif" alt="Customer Initiatives" name="menu7" width="97" height="14" id="menu7" border="0"></a><img src="/images/menu-divider.gif" alt="" width="21" height="14"><img src="/images/media-corner.gif" alt="Media Corner" name="menu8" width="63" height="14" id="menu8"><img src="/images/menu-divider.gif" alt="" width="21" height="14"><a href="http://www.tatapower.com/faq/faq.aspx"><img src="/images/faq.gif" alt="FAQ" name="menu9" width="21" height="14" border="0" id="menu9"></a></td>
+        <td height="41" colspan="4" align="center"><div class="MenuBar  MenuBarLeftShrink" id="MenuBar"><ul id="" class="MenuBarView">
+<li class="MenuItemContainer"> <a href="#" class="MenuItem MenuItemWithSubMenu MenuItemFirst" tabindex="0"><span class="MenuItemLabel">About Us</span></a>
+   <div class="SubMenu MenuLevel1"><ul class="SubMenuView">
+     <li class="MenuItemContainer"> <a href="/aboutus/profile.aspx" class="MenuItem MenuItemFirst" tabindex="-1"><span class="MenuItemLabel">Profile</span></a></li>
+     <li class="MenuItemContainer"> <a href="/aboutus/pioneers-power.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Pioneers in Power</span></a></li>
+     <li class="MenuItemContainer"> <a href="/aboutus/board-of-directors.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Board of Directors </span></a></li>
+     <li class="MenuItemContainer"> <a href="/aboutus/corporate-governance.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Corporate Governance</span></a></li>
+     <li class="MenuItemContainer"> <a href="/aboutus/quarterly-compliance-reports.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Quarterly Compliance Reports</span></a></li>
+     <li class="MenuItemContainer"> <a href="/aboutus/vision-mission-values.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Vision, Mission and Values</span></a></li>
+     <li class="MenuItemContainer"> <a href="/aboutus/associates-jvs.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Associates and JVs</span></a></li>
+     <li class="MenuItemContainer"> <a href="/aboutus/corporate-policies.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Corporate Policies</span></a></li>
+     <li class="MenuItemContainer"> <a href="/aboutus/achievements-awards.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Achievements &amp; Awards</span></a></li>
+     <li class="MenuItemContainer"> <a href="/aboutus/pioneering-initiatives.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Pioneering Initiatives</span></a></li>
+     <li class="MenuItemContainer"> <a href="/aboutus/code-of-conduct.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Tata Code of Conduct</span></a></li>
+     <li class="MenuItemContainer"> <a href="#" class="MenuItem MenuItemWithSubMenu MenuItemLast" tabindex="-1"><span class="MenuItemLabel">Our Presence &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» </span></a>
+     	<div class="SubMenu MenuLevel2"><ul class="SubMenuView">
+     		<li class="MenuItemContainer"> <a href="/aboutus/indian-network.aspx" class="MenuItem MenuItemFirst" tabindex="-1"><span class="MenuItemLabel">Indian Network</span></a></li>
+            <li class="MenuItemContainer"> <a href="/aboutus/global-presence.aspx" class="MenuItem MenuItemLast" tabindex="-1"><span class="MenuItemLabel">Global Presence</span></a></li>
+            </ul></div>
+            </li>
+       </ul></div>
+  </li>
+  <li class="MenuItemContainer"><img src="/images/menu-divider.gif" width="21" height="27"></li>
+<li class="MenuItemContainer"> <a href="#" class="MenuItem MenuItemWithSubMenu" tabindex="-1"><span class="MenuItemLabel">Business</span></a>
+  <div class="SubMenu MenuLevel1"><ul class="SubMenuView">
+    <li class="MenuItemContainer"> <a href="/businesses/generation.aspx" class="MenuItem MenuItemFirst" tabindex="-1"><span class="MenuItemLabel">Generation</span></a></li>
+    <li class="MenuItemContainer"> <a href="/businesses/transmission.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Transmission &amp; Distribution</span></a></li>
+    <li class="MenuItemContainer"> <a href="/businesses/power.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Power Supply - Mumbai</span></a></li>
+    <li class="MenuItemContainer"> <a href="/businesses/customer.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Customer Services</span></a></li>
+    <li class="MenuItemContainer"> <a href="/businesses/trading.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Trading</span></a></li>
+    <li class="MenuItemContainer"> <a href="/businesses/new-projects.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">New Projects</span></a></li>
+    <li class="MenuItemContainer"> <a href="/businesses/other-businesses.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Other Businesses</span></a></li>
+    <li class="MenuItemContainer"> <a href="/businesses/national-footprint.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">National Footprint</span></a></li>
+    <li class="MenuItemContainer"> <a href="/aboutus/global-presence.aspx" class="MenuItem MenuItemLast" tabindex="-1"><span class="MenuItemLabel">International Presence</span></a></li>
+    </ul></div>
+</li>
+          <li class="MenuItemContainer"><img src="/images/menu-divider.gif" width="21" height="27"></li>
+          <li class="MenuItemContainer"> <a href="#" class="MenuItem MenuItemWithSubMenu" tabindex="-1"><span class="MenuItemLabel">Careers</span></a>
+          <div class="SubMenu MenuLevel1"><ul class="SubMenuView">
+              <li class="MenuItemContainer"> <a href="/careers/people_policy.aspx" class="MenuItem MenuItemFirst" tabindex="-1"><span class="MenuItemLabel">People Policy</span></a></li>
+              <li class="MenuItemContainer"> <a href="/careers/campus-lateral-recruitments.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Campus Recruitments</span></a></li>
+              <li class="MenuItemContainer"> <a href="/careers/lateral-recruitments.aspx" class="MenuItem MenuItemLast" tabindex="-1"><span class="MenuItemLabel">Lateral Recruitments and Current Openings</span></a></li>
+              </ul></div>
+              </li>
+          <li class="MenuItemContainer"><img src="/images/menu-divider.gif" width="21" height="27"></li>
+          <li class="MenuItemContainer"> <a href="#" class="MenuItem MenuItemWithSubMenu" tabindex="-1"><span class="MenuItemLabel">Sustainability</span></a>
+            <div class="SubMenu MenuLevel1"><ul class="SubMenuView">
+       <li class="MenuItemContainer"> <a href="/sustainability/legacy.aspx" class="MenuItem MenuItemFirst" tabindex="-1"><span class="MenuItemLabel">History: Our Legacy</span></a></li>
+       <li class="MenuItemContainer"> <a href="#" class="MenuItem MenuItemWithSubMenu" tabindex="-1"><span class="MenuItemLabel">Introduction &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;»</span></a>
+       		<div class="SubMenu MenuLevel2"><ul class="SubMenuView">
+            <li class="MenuItemContainer"> <a href="#" class="MenuItem MenuItemWithSubMenu MenuItemFirst" tabindex="-1"><span class="MenuItemLabel">Environmental Management &nbsp;&nbsp;»</span></a>
+            	<div class="SubMenu MenuLevel3"><ul class="SubMenuView">
+                <li class="MenuItemContainer"> <a href="/sustainability/statutory-clearances.aspx" class="MenuItem MenuItemFirst MenuItemLast" tabindex="-1"><span class="MenuItemLabel">Statutory Clearances</span></a></li>
+                </ul></div>
+                </li>
+            <li class="MenuItemContainer"> <a href="/sustainability/safety.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Safety</span></a></li>
+            <li class="MenuItemContainer"> <a href="/sustainability/focus-areas.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Social Endeavours</span></a></li>
+            <li class="MenuItemContainer"> <a href="#" class="MenuItem MenuItemWithSubMenu MenuItemLast" tabindex="-1"><span class="MenuItemLabel">Energy Conservation &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;»</span></a>
+            	<div class="SubMenu MenuLevel3"><ul class="SubMenuView">
+                <li class="MenuItemContainer"> <a href="/sustainability/powersaving-tips.aspx" class="MenuItem MenuItemFirst" tabindex="-1"><span class="MenuItemLabel">Power Saving Tips</span></a></li>
+                <li class="MenuItemContainer"> <a class="menu MenuItem MenuItemLast" href="http://school.tatapowerenergyclub.com/" target="_blank" tabindex="-1"><span class="MenuItemLabel">School Energy Conservation Club</span></a></li>
+                </ul></div>
+            	</li>
+            </ul></div>
+       		</li>
+       <li class="MenuItemContainer"> <a href="/sustainability/policies.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Policies</span></a></li>
+       <li class="MenuItemContainer"> <a href="/sustainability/sustainability-tata-power.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Sustainability at Tata Power</span></a></li>
+       <li class="MenuItemContainer"> <a href="/sustainability/initiatives.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Sustainability Initiatives</span></a></li>
+       <li class="MenuItemContainer"> <a href="#" class="MenuItem MenuItemWithSubMenu" tabindex="-1"><span class="MenuItemLabel">Affirmative Action Plan &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;»</span></a>
+       		<div class="SubMenu MenuLevel2"><ul class="SubMenuView">
+            <li class="MenuItemContainer"> <a class="menu MenuItem MenuItemFirst" href="/sustainability/pdf/affirmative-action-policy.pdf" target="_blank" tabindex="-1"><span class="MenuItemLabel">Affirmative Action Policy</span></a></li>
+            <li class="MenuItemContainer"> <a href="/sustainability/purpose.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Purpose</span></a></li>
+            <li class="MenuItemContainer"> <a href="/sustainability/affirmative-initiatives.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Initiatives</span></a></li>
+            <li class="MenuItemContainer"> <a href="/sustainability/made-a-difference.aspx" class="MenuItem MenuItemLast" tabindex="-1"><span class="MenuItemLabel">Made a Difference</span></a></li>
+            </ul></div>
+       		</li>
+       <li class="MenuItemContainer"> <a href="/sustainability/sustainability-communications.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Sustainability Communications</span></a></li>
+       <li class="MenuItemContainer"> <a href="/sustainability/new-technologies.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">New Technologies</span></a></li>
+       <li class="MenuItemContainer"> <a href="/sustainability/carbon-footprint.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Calculate your Carbon Footprint</span></a></li>
+       <li class="MenuItemContainer"> <a href="/sustainability/awards.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Awards</span></a></li>
+       <li class="MenuItemContainer"> <a href="#" class="MenuItem MenuItemWithSubMenu MenuItemLast" tabindex="-1"><span class="MenuItemLabel">Community Relations (CR) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;»</span></a>
+            <div class="SubMenu MenuLevel2"><ul class="SubMenuView">
+            <li class="MenuItemContainer"> <a href="/sustainability/about-community-relations.aspx" class="MenuItem MenuItemFirst" tabindex="-1"><span class="MenuItemLabel">About Community Relations</span></a></li>
+            <li class="MenuItemContainer"> <a href="/sustainability/community-development-programmes.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Community Development Programmes</span></a></li>
+            <li class="MenuItemContainer"> <a href="/sustainability/employee-volunteering.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Employee Volunteering</span></a></li>
+            <li class="MenuItemContainer"> <a href="/sustainability/rewards-and-stakeholders-voices.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Rewards &amp; Stakeholders Voices</span></a></li>
+            <li class="MenuItemContainer"> <a href="/sustainability/photo-gallery.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Photo Gallery</span></a></li>
+            <li class="MenuItemContainer"> <a href="/sustainability/contact-us.aspx" class="MenuItem MenuItemLast" tabindex="-1"><span class="MenuItemLabel">Contact Us</span></a></li>
+            </ul></div>
+              </li>
+    </ul></div>
+</li>
+          
+          <li class="MenuItemContainer"><img src="/images/menu-divider.gif" width="21" height="27"></li>
+          <li class="MenuItemContainer"> <a href="#" class="MenuItem MenuItemWithSubMenu" tabindex="-1"><span class="MenuItemLabel">Investor Relations</span></a>
+            <div class="SubMenu MenuLevel1"><ul class="SubMenuView">
+              <li class="MenuItemContainer"> <a href="/investor-relations/fact-sheet.aspx" class="MenuItem MenuItemFirst" tabindex="-1"><span class="MenuItemLabel">Fact Sheet</span></a></li>
+              <li class="MenuItemContainer"> <a href="#" class="MenuItem MenuItemWithSubMenu" tabindex="-1"><span class="MenuItemLabel">Financials &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;»</span></a>
+              	<div class="SubMenu MenuLevel2"><ul class="SubMenuView">
+                	<li class="MenuItemContainer"> <a href="/investor-relations/ataglance.aspx" class="MenuItem MenuItemFirst" tabindex="-1"><span class="MenuItemLabel">At a Glance</span></a></li>
+                    <li class="MenuItemContainer"> <a href="/investor-relations/quarterly-results.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Quarterly Results</span></a></li>
+                    <li class="MenuItemContainer"> <a href="#" class="MenuItem MenuItemWithSubMenu" tabindex="-1"><span class="MenuItemLabel">Annual Reports &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;»</span></a>
+                    		<div class="SubMenu MenuLevel3"><ul class="SubMenuView">
+                        	<li class="MenuItemContainer"> <a class="menu MenuItem MenuItemFirst" href="/investor-relations/pdf/92Annual-report-2010-11.pdf" target="_blank" tabindex="-1"><span class="MenuItemLabel">Annual Report FY11</span></a></li>
+                        	<li class="MenuItemContainer"> <a href="/investor-relations/anlreports-subsidiaries.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Annual Reports of Subsidiaries</span></a></li>
+                        	<li class="MenuItemContainer"> <a href="/investor-relations/anlreport-archive.aspx" class="MenuItem MenuItemLast" tabindex="-1"><span class="MenuItemLabel">Archive</span></a></li>
+                        	</ul></div>                    
+                    </li>
+                    <li class="MenuItemContainer"> <a class="menu MenuItem" href="/investor-relations/pdf/Financial-statistics-FY11.pdf" target="_blank" tabindex="-1"><span class="MenuItemLabel">Financial Statistics</span></a></li>
+                    <li class="MenuItemContainer"> <a href="#" class="MenuItem MenuItemWithSubMenu" tabindex="-1"><span class="MenuItemLabel">Financial Results Summary &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;»</span></a>
+                    		<div class="SubMenu MenuLevel3"><ul class="SubMenuView">
+                            <li class="MenuItemContainer"> <a href="/investor-relations/balance-sheet.aspx" class="MenuItem MenuItemFirst" tabindex="-1"><span class="MenuItemLabel">Balance Sheet</span></a></li>
+                            <li class="MenuItemContainer"> <a href="/investor-relations/profit-loss.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Profit and Loss</span></a></li>
+                            <li class="MenuItemContainer"> <a href="/investor-relations/cashflow.aspx" class="MenuItem MenuItemLast" tabindex="-1"><span class="MenuItemLabel">Cash Flow</span></a></li>
+                    		</ul></div>
+                    </li>
+                    <li class="MenuItemContainer"> <a class="menu MenuItem" href="javascript:popup()" tabindex="-1"><span class="MenuItemLabel">Analyst Meet Presentation</span></a></li>
+                    <li class="MenuItemContainer"> <a href="#" class="MenuItem MenuItemWithSubMenu" tabindex="-1"><span class="MenuItemLabel">Investors' Meet &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;»</span></a>
+                    		<div class="SubMenu MenuLevel3"><ul class="SubMenuView">
+                            <li class="MenuItemContainer"> <a class="menu MenuItem MenuItemFirst" href="/investor-relations/pdf/investor-presentation-april-2012.pdf" target="_blank" tabindex="-1"><span class="MenuItemLabel">Investor Presentation April 2012</span></a></li>
+                            <li class="MenuItemContainer"> <a href="/investor-relations/analyst-meet-archive.aspx" class="MenuItem MenuItemLast" tabindex="-1"><span class="MenuItemLabel">Archive</span></a></li>
+                            </ul></div>
+                    </li>
+                    <li class="MenuItemContainer"> <a class="menu MenuItem" href="/investor-relations/pdf/agm-presentation-2011.pdf" target="_blank" tabindex="-1"><span class="MenuItemLabel">AGM presentation - 2011</span></a></li>
+                    <li class="MenuItemContainer"> <a class="menu MenuItem" href="/investor-relations/pdf/analyst-presentation-feb-12.pdf" target="_blank" tabindex="-1"><span class="MenuItemLabel">Analyst Call Presentation 2012</span></a></li>
+                    <li class="MenuItemContainer"> <a href="#" class="MenuItem MenuItemWithSubMenu MenuItemLast" tabindex="-1"><span class="MenuItemLabel">Call Transcripts &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;»</span></a>
+                    		<div class="SubMenu MenuLevel3"><ul class="SubMenuView">
+                            <li class="MenuItemContainer"> <a class="menu MenuItem MenuItemFirst" href="/investor-relations/pdf/call-transcript-feb-10-2012.pdf" target="_blank" tabindex="-1"><span class="MenuItemLabel">Quarterly Results Conference Call Transcript</span></a></li>
+                            <li class="MenuItemContainer"> <a href="/investor-relations/inv-info-archive.aspx" class="MenuItem MenuItemLast" tabindex="-1"><span class="MenuItemLabel">Archive</span></a></li>
+                            </ul></div>
+                    </li>
+                </ul></div>
+              </li>
+              <li class="MenuItemContainer"> <a href="#" class="MenuItem MenuItemWithSubMenu" tabindex="-1"><span class="MenuItemLabel">Share Information &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;»</span></a>
+              		<div class="SubMenu MenuLevel2"><ul class="SubMenuView">
+                    <li class="MenuItemContainer"> <a href="/investor-relations/registr-trnsfr.aspx" class="MenuItem MenuItemFirst" tabindex="-1"><span class="MenuItemLabel">Registrars &amp; Transfer Agents</span></a></li>
+                    <li class="MenuItemContainer"> <a href="/investor-relations/sharehold-pattern.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Share Holding Pattern</span></a></li>
+                    <li class="MenuItemContainer"> <a href="#" class="MenuItem MenuItemWithSubMenu MenuItemLast" tabindex="-1"><span class="MenuItemLabel">Share Price Performance&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;»</span></a>
+                    		<div class="SubMenu MenuLevel3"><ul class="SubMenuView">
+                            <li class="MenuItemContainer"> <a href="/investor-relations/shareprc-charts.aspx" class="MenuItem MenuItemFirst" tabindex="-1"><span class="MenuItemLabel">Share Price Charts</span></a></li>
+                            <li class="MenuItemContainer"> <a href="/investor-relations/monthly-shareprice.asp" class="MenuItem MenuItemLast" tabindex="-1"><span class="MenuItemLabel">Monthly Share Prices</span></a></li>
+                            </ul></div>
+                    </li>
+                    </ul></div>
+              </li>
+              <li class="MenuItemContainer"> <a href="#" class="MenuItem MenuItemWithSubMenu" tabindex="-1"><span class="MenuItemLabel">Share History &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;»</span></a>
+              		<div class="SubMenu MenuLevel2"><ul class="SubMenuView">
+                    <li class="MenuItemContainer"> <a href="/investor-relations/dividend-history.asp" class="MenuItem MenuItemFirst" tabindex="-1"><span class="MenuItemLabel">Dividend History</span></a></li>
+                    <li class="MenuItemContainer"> <a href="/investor-relations/shareprice-trends.aspx" class="MenuItem MenuItemLast" tabindex="-1"><span class="MenuItemLabel">Share Price Trends</span></a></li>
+                    </ul></div>
+               </li>
+              <li class="MenuItemContainer"> <a href="#" class="MenuItem MenuItemWithSubMenu" tabindex="-1"><span class="MenuItemLabel">Investor Help Desk &nbsp;&nbsp;&nbsp;&nbsp;»</span></a>
+              		<div class="SubMenu MenuLevel2"><ul class="SubMenuView">
+                    <li class="MenuItemContainer"> <a href="/investor-relations/investor-relations.aspx" class="MenuItem MenuItemFirst" tabindex="-1"><span class="MenuItemLabel">Investor Services</span></a></li>
+                    <li class="MenuItemContainer"> <a href="/investor-relations/investor-query.asp" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Investor Query Form</span></a></li>
+                    <li class="MenuItemContainer"> <a class="menu MenuItem MenuItemLast" href="/investor-relations/pdf/Shareholder-Information-Booklet.pdf" target="_blank" tabindex="-1"><span class="MenuItemLabel">Shareholder Information Booklet</span></a></li>
+                    </ul></div>
+                 </li>
+              <li class="MenuItemContainer"> <a href="/investor-relations/share-trading.aspx" class="MenuItem MenuItemLast" tabindex="-1"><span class="MenuItemLabel">Share Trading</span></a>
+             </li></ul></div>
+          </li>
+          
+          <li class="MenuItemContainer"><img src="/images/menu-divider.gif" width="21" height="27"></li>
+          <li class="MenuItemContainer"> <a href="#" class="MenuItem MenuItemWithSubMenu" tabindex="-1"><span class="MenuItemLabel">Regulations</span></a>
+            <div class="SubMenu MenuLevel1"><ul class="SubMenuView">
+              <li class="MenuItemContainer"> <a href="#" class="MenuItem MenuItemWithSubMenu MenuItemFirst" tabindex="-1"><span class="MenuItemLabel">License Area Mumbai &nbsp;&nbsp;&nbsp;&nbsp;»</span></a>
+              		<div class="SubMenu MenuLevel2"><ul class="SubMenuView">
+                    <li class="MenuItemContainer"> <a href="#" class="MenuItem MenuItemWithSubMenu MenuItemFirst" tabindex="-1"><span class="MenuItemLabel">Regulatory Filings &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;»</span></a>
+                    		<div class="SubMenu MenuLevel3"><ul class="SubMenuView">
+                            <li class="MenuItemContainer"> <a href="/regulations/fuel-charge.aspx" class="MenuItem MenuItemFirst" tabindex="-1"><span class="MenuItemLabel">Fuel Adjustment Charge</span></a></li>
+                            <li class="MenuItemContainer"> <a href="/regulations/cgrf-half-yearly-report.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">CGRF Reports</span></a></li>
+                            <li class="MenuItemContainer"> <a href="/regulations/sop-report.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">SOP Report</span></a></li>
+                            <li class="MenuItemContainer"> <a href="/regulations/open-access-status.asp" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Open Access Status</span></a></li>
+                            <li class="MenuItemContainer"> <a href="/regulations/grid-availability-report.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Grid Availability</span></a></li>
+                            <li class="MenuItemContainer"> <a href="/regulations/public-notice.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Public Notices</span></a></li>
+                            <li class="MenuItemContainer"> <a href="#" class="MenuItem MenuItemWithSubMenu MenuItemLast" tabindex="-1"><span class="MenuItemLabel">Occurrence &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;»</span></a>
+                            		<div class="SubMenu MenuLevel4"><ul class="SubMenuView">
+                                    <li class="MenuItemContainer"> <a href="/regulations/occurrence-FY2011.aspx" class="MenuItem MenuItemFirst MenuItemLast" tabindex="-1"><span class="MenuItemLabel">FY 2011</span></a></li>
+                                    </ul></div>
+                            </li>
+                            </ul></div>
+                    </li>
+                    <li class="MenuItemContainer"> <a href="#" class="MenuItem MenuItemWithSubMenu" tabindex="-1"><span class="MenuItemLabel">Regulatory Information &nbsp;&nbsp;&nbsp;&nbsp;»</span></a>
+                    		<div class="SubMenu MenuLevel3"><ul class="SubMenuView">
+                            <li class="MenuItemContainer"> <a href="/regulations/electricity-amendments.aspx" class="MenuItem MenuItemFirst" tabindex="-1"><span class="MenuItemLabel">Electricity Act &amp; Amendments</span></a></li>
+                            <li class="MenuItemContainer"> <a class="menu MenuItem" href="/regulations/pdf/Standards_of_performanance.xls" target="_blank" tabindex="-1"><span class="MenuItemLabel">Standard of Performance</span></a></li>
+                            <li class="MenuItemContainer"> <a class="menu MenuItem" href="http://mercindia.org.in/Regulations.htm" target="_blank" tabindex="-1"><span class="MenuItemLabel">MERC Regulations</span></a></li>
+                            <li class="MenuItemContainer"> <a class="menu MenuItem" href="http://mercindia.org.in/Orders_2008.htm" target="_blank" tabindex="-1"><span class="MenuItemLabel">MERC Orders</span></a></li>
+                            <li class="MenuItemContainer"> <a class="menu MenuItem" href="http://aptel.gov.in/judgements.html" target="_blank" tabindex="-1"><span class="MenuItemLabel">Appellate Tribunal Orders</span></a></li>
+                            <li class="MenuItemContainer"> <a class="menu MenuItem" href="http://courtnic.nic.in/courtnicsc.asp" target="_blank" tabindex="-1"><span class="MenuItemLabel">Supreme Court Orders</span></a></li>
+                            <li class="MenuItemContainer"> <a class="menu MenuItem MenuItemLast" href="/regulations/pdf/TPC_Specific_Condition_Reg_2008_Eng.pdf" target="_blank" tabindex="-1"><span class="MenuItemLabel">Specific Condition Tata Power Distribution Licensee</span></a></li>
+                            </ul></div>
+                    </li>
+                    <li class="MenuItemContainer"> <a href="#" class="MenuItem MenuItemWithSubMenu MenuItemLast" tabindex="-1"><span class="MenuItemLabel">Consumer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;»</span></a>
+                    		<div class="SubMenu MenuLevel3"><ul class="SubMenuView">
+                            <li class="MenuItemContainer"> <a class="menu MenuItem MenuItemFirst" href="https://cp.tatapower.com/customer_care/apply-for-power-supply/pdf/schedule.pdf" target="_blank" tabindex="-1"><span class="MenuItemLabel">Tariff Booklet / Tariff Sheet</span></a></li>
+                            <li class="MenuItemContainer"> <a class="menu MenuItem" href="/regulations/pdf/Schedule_of_Charges.pdf" target="_blank" tabindex="-1"><span class="MenuItemLabel">Schedule of Charges</span></a></li>
+                            <li class="MenuItemContainer"> <a class="menu MenuItem" href="https://cp.tatapower.com/customer_care/grievances/grievane-redressal.aspx" target="_blank" tabindex="-1"><span class="MenuItemLabel">Consumer Grievance Redressal Forum</span></a></li>
+                            <li class="MenuItemContainer"> <a href="/regulations/consumer-rights.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Consumer Rights Statement</span></a></li>
+                            <li class="MenuItemContainer"> <a href="/regulations/consumer-forms.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Forms for Consumer</span></a></li>
+                            <li class="MenuItemContainer"> <a href="/regulations/open-access.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Open Access</span></a></li>
+                            <li class="MenuItemContainer"> <a class="menu MenuItem" href="/regulations/pdf/electricity-duty.pdf" target="_blank" tabindex="-1"><span class="MenuItemLabel">Electricity Duty</span></a></li>
+                            <li class="MenuItemContainer"> <a class="menu MenuItem MenuItemLast" href="/regulations/pdf/tax-on-sale-of-electricity.pdf" target="_blank" tabindex="-1"><span class="MenuItemLabel">Tax on Sale of Electricity</span></a></li>
+                            </ul></div>
+                    </li>
+                    </ul></div>
+              </li>
+              <li class="MenuItemContainer"> <a href="#" class="MenuItem MenuItemWithSubMenu MenuItemLast" tabindex="-1"><span class="MenuItemLabel">Jojobera &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;»</span></a>
+              		<div class="SubMenu MenuLevel2"><ul class="SubMenuView">
+                    <li class="MenuItemContainer"> <a href="#" class="MenuItem MenuItemWithSubMenu MenuItemFirst MenuItemLast" tabindex="-1"><span class="MenuItemLabel">Regulatory Filings &nbsp;&nbsp;&nbsp;&nbsp;»</span></a>
+                    		<div class="SubMenu MenuLevel3"><ul class="SubMenuView">
+                            <li class="MenuItemContainer"> <a href="#" class="MenuItem MenuItemWithSubMenu MenuItemFirst MenuItemLast" tabindex="-1"><span class="MenuItemLabel">ARR Filing &nbsp;&nbsp;&nbsp;&nbsp;»</span></a>
+                            		<div class="SubMenu MenuLevel4"><ul class="SubMenuView">
+                                    <li class="MenuItemContainer"> <a href="/regulations/myt.aspx" class="MenuItem MenuItemFirst MenuItemLast" tabindex="-1"><span class="MenuItemLabel">MYT FY 13 - FY 16</span></a></li>
+                                    </ul></div>
+                            </li>
+                            </ul></div>
+                    </li>
+                    </ul></div>
+              </li>
+              </ul></div>
+          </li>
+          
+          <li class="MenuItemContainer"><img src="/images/menu-divider.gif" width="21" height="27"></li>
+          <li class="MenuItemContainer"> <a href="#" class="MenuItem MenuItemWithSubMenu" tabindex="-1"><span class="MenuItemLabel">Customer Initiatives</span></a>
+            <div class="SubMenu MenuLevel1"><ul class="SubMenuView">
+              <li class="MenuItemContainer"> <a href="/customer-information/safe-monsoon.aspx" class="MenuItem MenuItemFirst" tabindex="-1"><span class="MenuItemLabel">Safe Monsoons</span></a></li>
+              <li class="MenuItemContainer"> <a href="/customer-information/simple-ways.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">5 Simple Ways to Make a Difference</span></a></li>
+              <li class="MenuItemContainer"> <a class="menu MenuItem MenuItemLast" href="https://cp.tatapower.com/customer_care/green-mumbai/default.aspx" target="_blank" tabindex="-1"><span class="MenuItemLabel">My Mumbai, Green Mumbai</span></a></li>
+            </ul></div>
+          </li>
+          
+          <li class="MenuItemContainer"><img src="/images/menu-divider.gif" width="21" height="27"></li>
+          <li class="MenuItemContainer"> <a href="#" class="MenuItem MenuItemWithSubMenu" tabindex="-1"><span class="MenuItemLabel">Media Corner</span></a>
+            <div class="SubMenu MenuLevel1"><ul class="SubMenuView">
+              <li class="MenuItemContainer"> <a href="/media-corner/press_release.aspx" class="MenuItem MenuItemFirst" tabindex="-1"><span class="MenuItemLabel">Press Releases</span></a></li>
+              <li class="MenuItemContainer"> <a href="/media-corner/press_reports.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Press Reports</span></a></li>
+              <li class="MenuItemContainer"> <a href="/advertisements.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Latest Advertising Campaign</span></a></li>
+              <li class="MenuItemContainer"> <a class="menu MenuItem" href="/corporate-profile.pdf" target="_blank" tabindex="-1"><span class="MenuItemLabel">Press Kit</span></a></li>
+              <li class="MenuItemContainer"> <a href="/whatsnew/whatsnew-articles.aspx" class="MenuItem MenuItemLast" tabindex="-1"><span class="MenuItemLabel">Articles &amp; Presentations</span></a></li>
+           </ul></div>
+          </li>
+          
+          <li class="MenuItemContainer"><img src="/images/menu-divider.gif" width="21" height="27"></li>
+          <li class="MenuItemContainer"> <a href="#" class="MenuItem MenuItemWithSubMenu MenuItemLast" tabindex="-1"><span class="MenuItemLabel">FAQ</span></a>
+            <div class="SubMenu MenuLevel1"><ul class="SubMenuView">
+              <li class="MenuItemContainer"> <a href="/faq/consumer.aspx" class="MenuItem MenuItemFirst" tabindex="-1"><span class="MenuItemLabel">Consumer</span></a></li>
+              <li class="MenuItemContainer"> <a href="/faq/billing.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Billing</span></a></li>
+              <li class="MenuItemContainer"> <a href="/faq/power-failure.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Power Failure</span></a></li>
+              <li class="MenuItemContainer"> <a href="/faq/safety.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Safety</span></a></li>
+              <li class="MenuItemContainer"> <a href="/faq/energy-conservation.aspx" class="MenuItem" tabindex="-1"><span class="MenuItemLabel">Energy Conservation</span></a></li>
+              <li class="MenuItemContainer"> <a href="/faq/general.aspx" class="MenuItem MenuItemLast" tabindex="-1"><span class="MenuItemLabel">General</span></a></li>
+              </ul></div>
+          </li>
+          
+          
+        </ul><br class="MenuBarBreak"></div>
+          <script type="text/javascript">
+// BeginOAWidget_Instance_2141544: #MenuBar
+var MenuBar = new Spry.Widget.MenuBar2("#MenuBar", {
+      widgetID: "MenuBar",
+	  widgetClass: "MenuBar  MenuBarLeftShrink",
+	  insertMenuBarBreak: true,
+      mainMenuShowDelay: 100,
+      mainMenuHideDelay: 200,
+      subMenuShowDelay: 200,
+      subMenuHideDelay: 200
+      });
+// EndOAWidget_Instance_2141544
+          </script></td>
       </tr>
     </tbody></table></td>
     <td width="142" valign="top"><img src="/images/tata-logo.gif" alt="" width="142" height="81"></td>
@@ -66,8 +587,7 @@
         <td align="center">&nbsp;</td>
       </tr>
       <tr>
-        <td align="center">
-<table width="150" border="0">
+        <td align="center"><table width="150" border="0">
   <tbody><tr>
     <td align="right" bgcolor="#FFFFFF"><form method="get" name="frmgeturl" id="frmgeturl">
       <select name="go_url" size="1" onchange="javascript:if(this.value!='')window.open(this.value);void(0);">
@@ -75,9 +595,9 @@
         <option value="https://cp.tatapower.com/customer_care/default.aspx">Customer Information Portal</option>
         <option value="http://tatapowertrading.com/">Tata Power Trading</option>
         <option value="http://www.tpcsed.com/">Tata Power SED</option>
-        <option value="http://tata.com/">Tata Power Group</option>
+        <option value="http://tata.com/">Tata Group</option>
         <option value="http://www.ndpl.com/">NDPL</option>
-        <option value="http://www.mercindia.com/">MERC</option>
+        <option value="http://www.mercindia.org.in/">MERC</option>
         <option value="http://www.cercind.gov.in/">CERC</option>
         <option value="http://www.cea.nic.in/">Central Electricity Authority</option>
         <option value="http://jserc.org">JSERC</option>
@@ -101,7 +621,7 @@
     <td align="center" bgcolor="#FFFFFF">&nbsp;</td>
   </tr>
   <tr>
-    <td align="center" bgcolor="#FFFFFF"><a href="https://cp.tatapower.com/CP_REVAMP/save-energy/explore/difining-demand-side.aspx" target="_blank"><img src="/images/tp-energy-centre.jpg" width="130" height="48" border="0"></a><a href="http://www.tatapower.com/newsletter-dec08.pdf" target="_blank"></a></td>
+    <td align="center" bgcolor="#FFFFFF"><a href="https://cp.tatapower.com/customer_care/save-energy/explore/difining-demand-side.aspx" target="_blank"><img src="/images/tp-energy-centre.jpg" width="130" height="48" border="0"></a><a href="http://www.tatapower.com/newsletter-dec08.pdf" target="_blank"></a></td>
   </tr>
   <tr>
     <td align="center" bgcolor="#FFFFFF">&nbsp;</td>
@@ -168,7 +688,7 @@
    so.write("aitl");
 </script></td>
     <td width="164"><a href="http://www.tatapower.com/disclaimer.aspx">Disclaimer</a> |<a href="http://www.tatapower.com/privacy-policy.aspx"> Privacy Policy</a></td>
-    <td width="629" align="right">Website optimised for Internet Explorer 6.0 with 1024 x 768 screen resolution   |   © Tata Power 2011&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td width="629" align="right">Website optimised for Internet Explorer 6.0 with 1024 x 768 screen resolution   |   © Tata Power <script type="text/javascript"> var d = new Date(); document.write(d.getFullYear()); </script>2020&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   </tr>
   
 </tbody></table>
