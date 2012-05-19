@@ -1,22 +1,25 @@
-> *The following text is extracted and transformed from the wiggio.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513111051id_/http%3A//wiggio.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiggio.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519153500id_/http%3A//wiggio.com/policy.html%3Fcid%3D) for the most accurate reproduction.*
 
-# Wiggio Privacy Policy - Makes it easy to work in groups.
-
-  | 
+# Wiggio - Make it easy to work in groups.
 
 Privacy Policy
 
-This policy is effective as of March 25, 2008.
+This policy is effective as of August 28, 2009.
 
-Wiggio groups are private spaces and we are committed to maintaining the privacy of each individual group. There is no public directory of Wiggio groups. The only way for someone to join your group is if a member of your group invites that person to join, or if a member of your group gives another person the password to your group. 
+Wiggio groups are private spaces and we are committed to maintaining the privacy of each individual group. There is no public directory of Wiggio groups. In order to maintain the privacy of each group, there are only several ways for someone to join a group including:  
+
+
+  * Invitation to a group via email or Facebook from a current member of the group who has the ability to invite other people
+  * Log-in to a group through Group Name and Password which only members of the group know and must provide to the other person for them to join the group
+  * Click a link to enter the group can be sent out and all those who receive the link can join the group by clicking it
+
+
 
 Wiggio is committed to providing the utmost in privacy security. We do not sell nor trade any personal information obtained from the site. 
 
 Wiggio does not collect information from anyone without his/her request. All e-mail correspondence is kept in strict privacy and will not be disclosed to parties other than Wiggio. 
 
-These policies are subject to change, so please make sure to check back periodically. 
-
-By using or accessing Wiggio, you are accepting the practices described in this Privacy Policy.
+By using Wiggio, you are accepting the practices described in this policy and are also aware that our policies are subject to change at any time. 
 
 The Information We Collect 
 
@@ -31,6 +34,8 @@ When you use Wiggio, you may set up your groups and start using the Wiggio funct
 Any improper collection or misuse of information provided on Wiggio is a violation of the Wiggio Terms of Services. 
 
 Wiggio may also collect information about you from other sources, such as newspapers, blogs, instant messaging services, and other users of the Wiggio service through the operation of the service in order to provide you with more useful information and a more personalized experience.
+
+Information collected, posted or shared on Wiggio while logging on to the Site through Facebook Connect or using the Wiggio Application called "Wiggio Boards" on Facebook.com is being collected by Wiggio.
 
 By using Wiggio, you are consenting to have your personal data transferred to and processed in the United States.
 
@@ -80,5 +85,3 @@ Wiggio takes appropriate precautions to protect our users' information. Your acc
 Terms of Use, Notices and Revisions 
 
 Your use of Wiggio, and any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Use and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. We reserve the right to change our Privacy Policy and our Terms of Use at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If we make changes, we will post them and will indicate at the top of this page the policy's new effective date. If we make material changes to this policy, we will notify you here, by email, or through notice on our home page. We encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account.
-
-|   
