@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pplelectric.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120000159id_/http%3A//www.pplelectric.com/nav/footer/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pplelectric.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519025942id_/http%3A//www.pplelectric.com/nav/footer/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
