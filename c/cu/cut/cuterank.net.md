@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cuterank.net privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119151449id_/http%3A//cuterank.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuterank.net privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519153250id_/http%3A//cuterank.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CuteRank
 
