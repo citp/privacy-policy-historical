@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 6figurejobs.com privacy policy that was archived on 2011-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111027214607id_/https%3A//www.6figurejobs.com/6FigureJobs_PrivacyStatement.cfm%3F100k%3D1%26jrl%3D1%26l%3D2448) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 6figurejobs.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519121702id_/https%3A//www.6figurejobs.com/6FigureJobs_PrivacyStatement.cfm) for the most accurate reproduction.*
 
-# 6FigureJobs Mission Statement.
+# Privacy Policy | 6FigureJobs
 
   
 What information do we gather on our site?  
