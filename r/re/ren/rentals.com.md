@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rentals.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229141021id_/http%3A//www.rentals.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentals.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519090609id_/http%3A//www.rentals.com/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy « Home Rentals, Homes for Rent, Apartments, Houses For Rent, and Other Rental Homes
+# Rentals.com - Homes for Rent, Apartments, Houses for Rent, Townhomes, Condos & Vacation Rental Properties
 
 ### Privacy Policy
 
@@ -50,7 +50,7 @@ Personal information is available to Consumer Source and its technical and fulfi
 
 **Third Party Venders.** Sometimes we will give you the opportunity to opt in to receive e-mail offers from third parties not affiliated with Consumer Source. If you decide to accept these offers, we will provide, with your consent, your contact information to the third party. At our websites, visitors will also have opportunities to sign up directly with certain advertisers and sponsors to enter contests or sweepstakes, receive e-mail updates, or to receive information directly from them. Third party vendors and advertisers will also use technical and other consultants. We urge visitors to carefully review the privacy policies of these firms. Consumer Source is not responsible for the privacy policies and procedures of any third party. 
 
-Offline and online contact information is handled differently. 
+Offline and online contact information is handled differently.
 
 **Offline.** As is customary in the publications business, offline contact information is shared with third parties who may send you offers or information about their products or services. You must opt-out if you do not wish to receive information from us or third parties by mail. 
 
@@ -58,13 +58,15 @@ Offline and online contact information is handled differently.
 
 #### Important Note
 
-We reserve the right to use or disclose any information without notice or consent as needed to satisfy any law, regulation or legal request; to conduct investigations of consumer complaints or possible breaches of law; to protect the integrity of our site and our property; to protect the safety of our visitors or others; to fulfill your requests; or to cooperate in any legal investigation. 
+We reserve the right to use or disclose any information without notice or consent as needed to satisfy any law, regulation or legal request; to conduct investigations of consumer complaints or possible breaches of law; to protect the integrity of our site and our property; to protect the safety of our visitors or others; to fulfill your requests; or to cooperate in any legal investigation.
 
 #### Cookies and Web Beacons
 
-Your Web browser offers so-called “cookies” which store small amounts of data on your computer when you visit a website. Cookies do not contain any personally identifiable information about you and therefore cannot be used to identify you personally. Cookies assist us in tracking which of our features you prefer and enable us to customize our content according to your preferences. You can prevent cookies by modifying your browser, however some advanced and customized features or offerings will not be available to you. Our third party advertisers also may use cookies. 
+Your Web browser offers so-called “cookies” which store small amounts of data on your computer when you visit a website. Cookies do not contain any personally identifiable information about you and therefore cannot be used to identify you personally. Cookies assist us in tracking which of our features you prefer and enable us to customize our content according to your preferences. You can prevent cookies by modifying your browser, however some advanced and customized features or offerings will not be available to you. Our third party advertisers also may use cookies.
 
-Some of our Web pages may contain electronic images known as Web beacons. These images allow us to count users who have visited those pages and to deliver co-branded services. Web beacons are not used to access your personally identifiable information but they are a technique we use to compile aggregated statistics about our website usage. 
+Some of our Web pages may contain electronic images known as Web beacons. These images allow us to count users who have visited those pages and to deliver co-branded services. Web beacons are not used to access your personally identifiable information but they are a technique we use to compile aggregated statistics about our website usage.
+
+We work with third-party data analytics and online targeting companies. Some of these companies may use anonymous information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide data and targeting recommendations based on which we may provide advertisements about goods and services of interest to you. To learn more about this practice or about your choice to opt-out of this practice please click [here](http://www.networkadvertising.org/)
 
 #### Third Party Advertisers
 
@@ -74,14 +76,14 @@ We use reputable third parties to serve some or all of the advertisements that a
 
 To review, correct or update your contact information or change your preferences, you may:
 
-  * As a registered user or if you have an online account at one of our websites, you may be able to log on and update or change your contact or account information. Check the site for further information. 
+  * As a registered user or if you have an online account at one of our websites, you may be able to log on and update or change your contact or account information. Check the site for further information.
   * Unsubscribe to any of our online e-mail updates by following the unsubscribe instructions in the body of any message.
   * Write to us and update your contact information or ask that we not share your personal contact information with third parties at: 
 
 Consumer Source Inc.,   
-Attn: Privacy Coordinator  
+Attn: Privacy Coordinator   
 3585 Engineering Drive, Suite 100,   
-Norcross, Georgia 30092.
+Norcross, Georgia 30092. 
 
 
 
@@ -92,19 +94,19 @@ We will take commercially reasonable steps to implement your opt-out requests pr
 
 #### Security of Your Personal Information
 
-We use Secure Sockets Layer (SSL) technology to encrypt important information in an effort to prevent unauthorized access during transmission of your orders over the Internet. We incorporate standard industry practices internally and with our service providers suitable to the degree of sensitivity of the information involved. 
+We use Secure Sockets Layer (SSL) technology to encrypt important information in an effort to prevent unauthorized access during transmission of your orders over the Internet. We incorporate standard industry practices internally and with our service providers suitable to the degree of sensitivity of the information involved.
 
-Your personal information may also be protected by the password you created when you registered at one of our websites where this feature is offered. The confidentiality of any password is yours to protect. You may change it anytime by following the instructions at the website where you registered. 
+Your personal information may also be protected by the password you created when you registered at one of our websites where this feature is offered. The confidentiality of any password is yours to protect. You may change it anytime by following the instructions at the website where you registered.
 
-Although we use our best efforts to assure that your data remains secure when maintained by us, security during Internet transmissions cannot be assured. Consumer Source employees are made aware of its privacy practices through periodic communications and training. We strive to limit access to personal data only to those Consumer Source employees or agents with a specific need to access or retrieve this information. We store data on multiple service systems, in controlled, secure environments. In an effort to maintain the highest level of security, we conduct internal reviews of our security measures on a regular basis. 
+Although we use our best efforts to assure that your data remains secure when maintained by us, security during Internet transmissions cannot be assured. Consumer Source employees are made aware of its privacy practices through periodic communications and training. We strive to limit access to personal data only to those Consumer Source employees or agents with a specific need to access or retrieve this information. We store data on multiple service systems, in controlled, secure environments. In an effort to maintain the highest level of security, we conduct internal reviews of our security measures on a regular basis.
 
-#### Visitors Outside The United States 
+#### Visitors Outside The United States
 
-Our websites and the servers that make these sites available worldwide are located in the United States. All matters relating to these sites are governed by the laws of the State of Georgia in the United States. Any information you provide in subscribing to one of our publications, registering, or ordering at one of our websites will be transferred to the United States. By visiting our sites and submitting information, you authorize this transfer, processing and use. 
+Our websites and the servers that make these sites available worldwide are located in the United States. All matters relating to these sites are governed by the laws of the State of Georgia in the United States. Any information you provide in subscribing to one of our publications, registering, or ordering at one of our websites will be transferred to the United States. By visiting our sites and submitting information, you authorize this transfer, processing and use.
 
 #### Changes to Our Privacy Policy
 
-We will amend or update this privacy policy as necessary to protect our users and to comply with a changing environment. We recommend that you check the policy when you visit our site to be sure you are aware of and understand our current policy. Any material changes to this policy will be prominently posted on our website prior to implementing the change. We will not make material changes to the handling of previously collected personal information that have retroactive effect unless legally required, and we will e-mail registered website visitors information on material changes to this policy. 
+We will amend or update this privacy policy as necessary to protect our users and to comply with a changing environment. We recommend that you check the policy when you visit our site to be sure you are aware of and understand our current policy. Any material changes to this policy will be prominently posted on our website prior to implementing the change. We will not make material changes to the handling of previously collected personal information that have retroactive effect unless legally required, and we will e-mail registered website visitors information on material changes to this policy.
 
 #### Contact Information
 
@@ -113,13 +115,13 @@ If you have any questions about this Privacy Policy or our privacy practices, pl
 Or you can contact us by mail at:
 
 Privacy Coordinator   
-Consumer Source, Inc.
+Consumer Source, Inc. 
 
-3585 Engineering Drive, Suite 100  
+3585 Engineering Drive, Suite 100   
 Norcross, Georgia 30092 
 
 #### Copyright
 
-Copyright © 2002-2009 PRIMEDIA Inc. All rights reserved.
+Copyright © 2002-2012 PRIMEDIA Inc. All rights reserved.
 
-Last updated July 2nd, 2007
+Last updated July 12nd, 2011
