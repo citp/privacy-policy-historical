@@ -1,57 +1,29 @@
-> *The following text is extracted and transformed from the kirkusreviews.com privacy policy that was archived on 2008-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080531074422id_/http%3A//www.nielsenbusinessmedia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kirkusreviews.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519045653id_/http%3A//www.kirkusreviews.com/legal/privacy) for the most accurate reproduction.*
 
-# Nielsen Business Media
+# Kirkus Privacy Policy | Kirkus Book Reviews
 
-**Revised December 2007**
+We respect your privacy and are committed to protecting your personal information. This notice describes our privacy policy. By visiting KirkusReviews.com or any Kirkus Media LLC digital properties, you are accepting the practices described in this privacy notice. 
 
-This site is part of the NIELSEN BUSINESS MEDIA ("Nielsen") network of web sites. Please note that NIELSEN does not pass personally identifiable information of our users to DoubleClick.
+## Information Collection
 
-At NIELSEN we take your privacy very seriously. Because of this we want to provide you with explicit information on how we collect, gather, and identify information during your visit to our site. This information may be expanded or updated as we change or develop our site. For this reason, we recommend that you review this policy from time-to-time to see if anything has changed. Your continued use of our site signifies your acceptance of our privacy policy.
+When you visit the site, we collect basic information that does not identify individual users, including the pages visited. We then aggregate this information with thousands of other pieces of information to improve our site and make your time on the site as valuable and efficient as possible.
 
-**Personally Identifiable Information** refers to information that tells us specifically who you are, such as your name, phone number, email or postal address. In many cases we need this information to provide the personalized or enhanced service that you have requested. 
+We will not rent or sell your name, email address or personal information to any third party without your permission. However, we must cooperate fully should a situation arise where we are required by law or legal process to provide information about a customer. We do reserve the right to send emails on behalf of our partners and affiliates.
 
-The amount of Personally Identifiable Information that you choose to disclose to NIELSEN is completely up to you. The only way we know something about you personally is if you provide it to us in conjunction with one of our services.
+The amount and type of information that Kirkus Media LLC gathers and stores depends on the nature of the interaction. To provide an optimal user experience, Kirkus Media LLC may need to securely pass user information to affiliated third-party organizations (example, Facebook). Kirkus Media LLC thoroughly vets each and every affiliated organization's privacy policies to ensure they comply with the same high standards as Kirkus Media LLC.
 
-**What information do we collect and how do we use it?**
+## Information We Need
 
-NIELSEN collects information on our users in three ways: by your voluntary submissions (for instance, if you sign up for one of our email newsletters) and/or surveys; sweepstakes and/or contest entries; and through cookie technology.
+When you order subscriptions, products, or services, we need to know your name, email address, shipping address, billing address, phone number, and credit card number with expiration date. This allows us to process and fulfill your order and to notify you of your order status. We do not store your credit card information in our database and have no access to it after processing your subscription. We ask for your phone number in the event that our customer service representatives or delivery services need to contact you about your order.
 
-In our effort to provide personalization and opportunities for prizes and services, we may at times ask you to submit information such as your name or email address, or to share your interests and hobbies with us. You never have to answer these questions, and you can decline this exchange of information on any site on the Internet - not just ours - at any time. However, if you should choose to withhold requested information, we may not be able to provide you with some of the services dependent upon the collection of this information, such as a personalized stock portfolio, a sweepstakes entry, or the purchase and shipment of products and prizes to people who visit our network.
+We store all files uploaded for author services (example, manuscripts), personal information (example, email addresses), and project information (example, book titles) on a secure server and restrict access to only the professionals contracted to work on your project and key Kirkus personnel. Contracted professionals are required to sign non-disclosure agreements prior to working on any Kirkus projects. 
 
-The information NIELSEN collects is used in a variety of ways: for internal review; to improve the content of the site, thus making your user experience more valuable; to notify you about updates to the service; and to let you know about products and services that you may be interested in.
+## Changing Your Information
 
-**Email:** If you have provided us your email address, NIELSEN periodically sends promotional emails to its subscribers about services offered by NIELSEN and its partners. If you do not wish to receive email information from NIELSEN, please let us know by emailing us at: [removeme@nielsen.com](mailto:removeme@vnuemedia.com) or by writing us at NIELSEN BUSINESS MEDIA, 770 Broadway, New York, NY 10003.   
+If at any time you would like to change any information in your account, just click the My Account link. Here you can update your password, contact information, and email preferences. Be sure to click the Submit button at the bottom when you have updated your account.
 
+To remove your name from our email list, please click on the link located at the bottom of each email or edit your email option in your account.
 
-The "email this article" feature is an easy way for you to send articles through email. The email addresses that you supply to use this service will not be used for any other purpose without your consent. 
+If you would like to delete your personally identifying information from Kirkus Media LLC, you may do so by emailing the request to customers@kirkusreviews.com. Without the request of deletion, you give Kirkus Media LLC explicit consent to retain your personally identifying data indefinitely.
 
-**With whom does NIELSEN share the information it gathers/tracks?**
-
-From time to time we share this information with other reputable organizations for marketing purposes or the information is used by NIELSEN to contact consumers for its own marketing endeavors. As a valued consumer, we offer you the opportunity to "opt out", or request not to accept these marketing opportunities. If at any time you change your mind and do not want NIELSEN to share your email address or home address with other companies and/or organizations, or would simply like to be removed from the list, please let us know by emailing us at: [removeme@nielsen.com](mailto:removeme@vnuemedia.com) or by writing us at NIELSEN BUSINESS MEDIA, 770 Broadway, New York, NY 10003.
-
-**Sweepstakes/Contests**
-
-From time-to-time NIELSEN, along with other reputable companies, provides sweepstakes and other contests for the enjoyment of our users. By participating in the contest or sweepstakes and answering any and all questions, the user understands that NIELSEN and/or the involved company(s) may use the information obtained for marketing purposes. Children under 18 may not participate in any sweepstakes or contest promoted by NIELSEN.
-
-**Cookies**
-
-NIELSEN may automatically collect non-personally identifiable information and data through the use of "cookies." Cookies are small text files a Web site uses to recognize repeat users, facilitate the user's ongoing access to the site and facilitate the use of the site. "Cookies" also allow a site to track usage behavior and compile site usage information that will allow for the improvement of content and target advertising.
-
-Some sites in the NIELSEN eMedia Network use DoubleClick and other third-party advertising companies to serve ads when you visit our Web sites. These companies may use non-personally identifiable information (i.e. not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here [www.doubleclick.net/naiprivacy](http://www.doubleclick.net/naiprivacy).
-
-Some sites in the NIELSEN eMedia Networks also use a third party to collect non-personally identifiable information using web beacons.
-
-**About Children's Privacy**
-
-NIELSEN is committed to the safety of our children. Children under 18 may not participate in any sweepstakes or contests on NIELSEN. Also, we encourage children under the age of 18 to ask a parent for permission before providing or sending any information to anyone online.
-
-**Your Consent**
-
-By using our Web site, you consent to the collection and use of the information described in this Privacy Policy by NIELSEN. Once again, if you do not wish us to share this information with other reputable companies that we think you might be interested in, please let us know by emailing us at [removeme@nielsen.com](mailto:removeme@vnuemedia.com).
-
-**Questions?**
-
-We welcome your questions and/or comments. Please send all queries to [webmaster@nielsen.com](mailto:webmaster@vnuemedia.com).  
-
-
-|  
+Our policy is intended to provide you with the safest and most secure user experience possible. Since the law, offerings and technologies change, we reserve the right to change, modify, add or remove portions of our privacy policy at any time without prior notice. If you have further questions, please feel free to contact our Customer Service team at 877-441-3010. 
