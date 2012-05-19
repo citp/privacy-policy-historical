@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the guildlaunch.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222012303id_/http%3A//www.guildlaunch.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guildlaunch.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520005236id_/http%3A//www.guildlaunch.com/about/privacy_policy) for the most accurate reproduction.*
 
-# Guild Launch Privacy Policies, Game Guild Hosting Site - Guild Launch Guild Hosting & Websites for MMORPG & FPS Guilds, Clan, Kinships & More
+# Privacy Policy - Guild Launch
 
   * Guild Launch **does not** sell or share your info under any conditions.
   * Guild Launch **does not** share your info without your consent.
