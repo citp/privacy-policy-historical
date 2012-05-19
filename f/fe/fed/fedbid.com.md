@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fedbid.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119180425id_/http%3A//www.fedbid.com/tools/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fedbid.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519160105id_/http%3A//www.fedbid.com/tools/privacy) for the most accurate reproduction.*
 
-# Privacy / Policies
+# Privacy Policies
 
-If you have questions or concerns regarding this statement, you should first contact FedBid Client Services by email at [clientservices@fedbid.com](mailto:clientservices@fedbid.com). All capitalized terms are specifically defined terms set forth in FedBid’s Terms of Use.
+If you have questions or concerns regarding this statement, you should first contact FedBid Client Services by email at [ClientServices@FedBid.com](mailto:clientservices@fedbid.com). All capitalized terms are specifically defined terms set forth in FedBid’s Terms of Use.
 
 At FedBid, your privacy as an individual or entity is highly regarded and important to us. We take our commitment to our customers very seriously. Accordingly, we will not sell any personally identifiable Information you supply us. You can review the full policy below for more details.
 
@@ -12,7 +12,7 @@ When you register, we ask for your name, email address, and profile Information,
 
 ## Use of Information
 
-We use Information to provide Services, improve our marketing and promotional efforts, review Web Site usage, generate aggregate usage reports, and improve Web Site content, layout and Services. We may use the Information we collect to occasionally notify you about new offerings from FedBid and special offers we think you might find useful. If you would rather not receive such notices, please let us know by contacting us at clientservices@fedbid.com. We may also use your IP address to help diagnose problems with our server and to administer our Web Site and, as necessary, your email address, mailing address, telephone or facsimile number, to contact you.
+We use Information to provide Services, improve our marketing and promotional efforts, review Web Site usage, generate aggregate usage reports, and improve Web Site content, layout and Services. We may use the Information we collect to occasionally notify you about new offerings from FedBid and special offers we think you might find useful. If you would rather not receive such notices, please let us know by contacting us at [ClientServices@FedBid.com](mailto:clientservices@fedbid.com). We may also use your IP address to help diagnose problems with our server and to administer our Web Site and, as necessary, your email address, mailing address, telephone or facsimile number, to contact you.
 
 We may occasionally have a strategic business relationship with another company and choose to integrate a portion or version of our Web Site, Services, content or branding with those offered by that company. In such case, we may agree to share your Information with that company; however, we will do so only subject to strict confidentiality and use obligations and restrictions. Moreover, we will not disclose Information that is unnecessary to the relationship. We may also distribute to other parties for marketing and promotional purposes aggregate FedBid business Information from which you cannot be personally identified. In the absence of a strategic relationship, and except in the course of providing the Services, we do not pass on your Information to any party without your express permission.
 
@@ -20,7 +20,7 @@ We may disclose user Information in special cases when we have reason to believe
 
 ## Control of Passwords
 
-You are required to control your password as described in the [Terms of Use](http://www.fedbid.com/marketplace/terms/). If you have forgotten your password, please contact us at clientservices@fedbid.com. Your password will be emailed to you shortly thereafter. **_Note that FedBid will never ask for your password in an unsolicited phone call or email._**
+You are required to control your password as described in the Terms of Use. If you have forgotten your password, please contact us at [ClientServices@FedBid.com](mailto:clientservices@fedbid.com). Your password will be emailed to you shortly thereafter.  ** _Note that FedBid will never ask for your password in an unsolicited phone call or email._**
 
 ## Security
 
@@ -32,7 +32,7 @@ By using our Web site, you consent to the collection and use of the above-descri
 
 ## Other
 
-This Web Site may contain links to other web sites. FedBid is not responsible for the privacy practices or the content of such sites. You have the option to change or modify certain previously provided Information by revising your user profile online or by contacting FedBid via email ( [clientservices@fedbid.com](mailto:clientservices@fedbid.com) ).
+This Web Site may contain links to other web sites. FedBid is not responsible for the privacy practices or the content of such sites. You have the option to change or modify certain previously provided Information by revising your user profile online or by contacting FedBid via email at [ClientServices@FedBid.com](mailto:clientservices@fedbid.com).
 
 ## Copyright
 
@@ -46,4 +46,4 @@ The business method and technology implemented on the Web Site is covered by an 
 
 FedBid’s graphics, logos and service names are the exclusive servicemarks of FedBid, Inc. FedBid’s servicemarks shall not be used in any manner that disparages or discredits FedBid or in connection with any product or service that is not FedBid’s and which use is likely to cause confusion among customers as to the source or quality of the product or service. All other trademarks, servicemarks and logos used on the Web Site are the trademarks, servicemarks and logos of their respective owners.
 
-Do you have a question or comment about this privacy statement or the practices of this site? We welcome your feedback at [clientservices@fedbid.com](mailto:clientservices@fedbid.com).
+Do you have a question or comment about this privacy statement or the practices of this site? We welcome your feedback at [ClientServices@FedBid.com](mailto:clientservices@fedbid.com).
