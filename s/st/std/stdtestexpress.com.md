@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the stdtestexpress.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213134428id_/http%3A//www.stdtestexpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stdtestexpress.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519061055id_/http%3A//www.stdtestexpress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | STD Test Express
 
-* * *
+  
 
-[](https://www.truste.org/ivalidate.php?url=www.stdtestexpress.com&sealid=101)[](http://www.ashastd.org/ashaseal.cfm)
+
+[](https://clicktoverify.truste.com/pvr.php?page=validate&url=www.stdtestexpress.com&sealid=101) [](http://www.ashastd.org/ashaseal.cfm)
 
 We take your privacy very seriously. We believe in protecting your information in the same way we want ours protected. We at Analyte Physicians Group, S.C. and its authorized agents ("APG Services," "we" or "us"), encourage you to become familiar with this Privacy Policy and our [Terms of Use](https://web.archive.org/terms-of-service/ "terms of use").
 
