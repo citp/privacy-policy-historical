@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the localedge.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124022708id_/http%3A//internetmarketing.localedge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localedge.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520141837id_/http%3A//www.localedge.com/privacy) for the most accurate reproduction.*
 
-# Privacy | LocalEdge Internet Marketing
+# Privacy | LocalEdge
+
+## Privacy
 
 This Privacy Policy governs your use of this web site and any content made available from or through this web site located at www.LocalEdgeMedia.com, including any subdomains thereof (the “Web Site”). The Web Site is made available by White Directory Publishers, A Division of Hearst Communications, Inc. ( “Publisher” or “we” or “us”).
 
