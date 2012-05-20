@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiscnews.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223001331id_/http%3A//www.wiscnews.com/portagedailyregister/article_daf83af4-c307-5c65-aa4e-048f88fcc324.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiscnews.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520155124id_/http%3A//www.wiscnews.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -34,7 +34,7 @@ The information you supply will help us offer you more personalized features, to
 
 ## Children under the Age of 13
 
-_If you are under the age of 13, do not send us any information about yourself such as your name, address or e-mail address. You may only send us personally identifiable information if your parents have verified to us their consent to the collection of the information._
+ _If you are under the age of 13, do not send us any information about yourself such as your name, address or e-mail address. You may only send us personally identifiable information if your parents have verified to us their consent to the collection of the information._
 
 Because we are a media company, some of our online services and content may be attractive to children. Because we strive to protect the privacy of all users of our site, including children, we endeavor to comply with the Children’s Online Privacy Protection Act. Our site:
 
