@@ -1,55 +1,72 @@
-> *The following text is extracted and transformed from the waitrose.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121053446id_/http%3A//www.waitrose.com/footer/terms_of_service/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waitrose.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520211412id_/http%3A//www.waitrose.com/footer/terms_of_service/privacy_policy.html) for the most accurate reproduction.*
 
-# Security policy
+# Privacy policy
 
-## Privacy Policy
+**In summary**
 
-Your privacy is very important to us, that’s why we will never release your personal details to any company outside the John Lewis Partnership for mailing or marketing purposes. We will treat all your personal information as confidential (although we reserve the right to disclose this information in the circumstances set out below). We will keep your details on a secure server and we will fully comply with all applicable UK Data Protection and consumer legislation in place from time to time.
+Below, we tell you in detail how we use and store all of your personal and web-use data but, in summary, any personal information you give us is safe and confidential: we store all of your information on a secure server and never share any of your personal details with anybody outside of the John Lewis Partnership for mailing or marketing purposes.
 
-However, we would like to keep you up to date with a range of products and services provided by the John Lewis Partnership, which includes John Lewis Department Stores, Waitrose and Greenbee, and also John Lewis Financial Services Ltd (" **JLFS** "). This includes news of special events, promotions, product launches and catalogues. Greenbee offers direct services from the John Lewis Partnership and provides a range of products and services including travel and financial services. We are constantly looking for ways to improve our service, we may therefore occasionally contact you for research purposes. We may contact you by post, telephone, SMS text messaging and/or email.
+**Your personal details**
 
-Please note that you do not have to provide any information to use this website, but if you do choose to withhold essential data you will not be able to access certain sections or facilities within the site. If you do not wish to be sent further information but wish to make full use of this site, please click the relevant box indicating this wish during registration.
+Your privacy is important to us, which is why we will never release your personal details to any company outside of the John Lewis Partnership for mailing or marketing purposes (although we reserve the right to disclose this information in the circumstances set out below). We treat all of your personal information as confidential and keep it on a secure server.
 
-You have the right to request a copy of any information we hold on you at any time, and to have that information corrected if it is inaccurate. If you wish to view any information you have submitted, please contact The Company Secretary, John Lewis Partnership, 171 Victoria Street, London SW1E 5NN. Nothing in these Terms and Conditions affects your rights under the Data Protection Act 1998.
+**When we may use your personal details**
 
-When you shop on this website, we will ask you to input and will collect personal information from you such as your name, email address, billing address, delivery address, telephone number, product selections, credit card, or other payment information, and a password. We may also collect, (and our third-party providers of advertisements and content may collect) information about where you are on the internet (eg the URL you came from, IP address, domain types like .co.uk and .com), your browser type, the country and telephone area code where your computer is located, the pages of our website that were viewed during your visit, the advertisements you clicked on, and any search terms that you entered on our website (" **User Information** "). We may collect this information even if you do not register with us.
+To provide you with the best possible service, we’d like to keep you up-to-date with a range of products and services provided by the John Lewis Partnership including John Lewis, Waitrose and John Lewis Financial Services Ltd. This may include news of special events, promotions, product launches and catalogues. As we are constantly looking to improve our services, we may occasionally contact you for research purposes by post, telephone, SMS text messaging and / or email. You can choose not to receive further information from us by clicking the relevant boxes during registration.
 
-You should be aware that this site is being monitored and may capture information about your visit that will help us improve the quality of our service.
+You have the right to request a copy of any information about you we hold at any time, and also to have that information corrected if it is inaccurate. To view any information you have disclosed, contact The Company Secretary, John Lewis Partnership, 171 Victoria Street, London SW1E 5NN. Nothing in these Terms and Conditions affects your rights under the Data Protection Act 1998.
 
-We confirm that any personal information that you provide to us (or which is available on public registers) and any user information from which we can identify you, is held in accordance with the registration we have with the Data Commissioner's Office. We use your information only for the following purposes:
+**Using this website and your personal details**
 
-To process your order.
+You do not have to provide any information to us to use this website. However, certain sections of the site or facilities within the site may not be accessible if you choose not to share essential information with us.
 
-For statistical purposes to improve this website and the service we offer
+When you shop on Waitrose.com we will ask you to submit – and will collect – personal information from you, including: your name, email address, billing address, delivery address, telephone number, product selections, credit card / other payment information, and a password. We, and our third-party advertisement and content providers, may collect information about your internet connection and website-use, e.g. the URL you came from, IP address, domain type, browser type, the country and telephone code where your computer is located, the web pages viewed during your visit, the advertisements you clicked on, and any search terms you entered on our website (User Information). We may collect this information from registered and unregistered users. We use this information to help us make improvements to our website and online services.
 
-To provide you with website content and advertisements.
+Any personal information you provide to us (or which is available on public registers) and any User Information from which we identify you is held in accordance with the registration we have with the Information Commissioner’s Office. We use your information for the following purposes only:
 
-To administer this website.
+  * To process your order
+  * For statistical purposes to improve this website and the services we offer
+  * To provide you with relevant content and advertisements
+  * To administer this website
 
-If you consent, to notify you of products or special offers that may be of interest to you.
 
-You agree that you do not object to us contacting you for any of the above purposes whether by telephone, email or in writing and you confirm that you do not and will not consider any of the above as being a breach of any of your rights under the Privacy and Electronic Communications (EC Directive) Regulations 2003.
 
-Your personal information may be disclosed to other businesses within the John Lewis Partnership and to reputable third parties who will help process your order. Waitrose and John Lewis require all such third parties to treat your personal information as fully confidential and to fully comply with all applicable UK Data Protection and consumer legislation from time to time in place. 
+If you have chosen during registration to receive notification of products or special offers that may be of interest to you, then we may use your personal information to send you these notifications by telephone, email or in writing.
 
-You should be aware that if we are requested by the police or any other regulatory or government authority investigating suspected illegal activities to provide your personal information and /or user information we are entitled do so.
+Your personal information may be disclosed to other businesses within the John Lewis Partnership and to reputable third-parties who will help process your order. The John Lewis Partnership requires all such third-parties to treat your personal information as confidential and to comply with all applicable UK Data Protection and consumer legislation in place at any given time.
 
-**Cookies**  
-Cookies are small bits of text that your web browser software stores on your computer when you visit some websites. The John Lewis Partnership uses cookies to make it easier to use our site and to allow us to improve the service to you, our customer. A cookie generated by Waitrose.com allows us, for example, to retrieve your current shopping basket, to recognise you when you visit and to help you navigate around our website.
+We may disclose your personal information and / or User Information if we are asked to do so by the police or any other regulatory or Government authority investigating suspected illegal activities.
 
-Our cookies do not collect sensitive information such as your name, address or financial details. The cookie simply holds the "key" that, once you've signed in, is associated with this information.
+**How we collect User Information using cookies**
 
-Because we rely on cookies to make the shopping experience easier and more tailored to your needs, your browser must be set to accept cookies before you can place an order with us. (You can change the cookie setting in your browser's preferences, usually found in the Edit menu.)
+On Waitrose.com, cookies record information about your online preferences and allow us to tailor the website to your needs. Cookies help us to provide a more personalised online service to you and our cookies do not store any sensitive or confidential information. You can set your computer/mobile phone/other device to accept all cookies, notify you when a cookie is issued, or not receive cookies at any time. Please bear in mind that certain personalised features of this website cannot be provided to you without the use of cookies. Each browser is different so check the ‘Help’ menu of your browser to learn how to change your cookie preferences if you wish to do so.
 
-**Online Shopping**
+A list of the main cookies that Waitrose.com sets, along with details of what each one is used for can be found on the [Waitrose Cookies page](https://web.archive.org/content/waitrose/en/corporate_information_home/corporate_information/legal_notices/website_cookies.html).
 
-General Information & Payment Security
+### More information about cookies and how Waitrose.com uses them
 
-Delivery/collection restrictions  
-Delivery for all services will be available in restricted areas.
+**What is a cookie?**
 
-Collection for Waitrose.com is available from selected branches.
+A cookie is a small file of letters and numbers, which often includes a unique identifier that is sent to your device’s browser from a website’s computer and is stored on your device’s hard drive. Cookies allow a website to recognise a user’s device. Websites can send their own cookie to your browser if your browser’s preferences allow it.
 
-Collection for WaitroseEntertaining is available from all branches.
+For more information see [www.allaboutcookies.org/](http://www.allaboutcookies.org/)
 
-We reserve the right to restrict deliveries in certain areas. This includes the right to withdraw our services to individual customers' addresses if you are repeatedly unavailable to take delivery of your shopping at your chosen slot time or in other exceptional circumstances.
+**How does Waitrose.com use cookies?**
+
+During any visit to Waitrose.com, the pages you view – along with a cookie – are downloaded to your device. This allows us to store information to operate the site as you move from page to page.
+
+Waitrose.com uses cookies to help us analyse the profile of our visitors and provide them with a better, more personalised service. Cookies also allow us to provide our service to you - for instance, by retrieving your current shopping basket so that you can make purchases, by recognising you when you access the website and by making it easier for you to navigate our website.
+
+Our cookies do not store financial information, or information which is capable of directly identifying you (such as your name or address). Cookies simply allow our website to retrieve this information from our systems in order to personalise and improve your experience of our website.
+
+Because we rely on cookies in this way to personalise and improve your experience on our website, your browser needs to be set to accept cookies before you can place an order on Waitrose.com. Each browser is different so check the ‘Help’ menu of your browser to learn how to change your cookie preferences if you wish to do so.
+
+**Third-party cookies on Waitrose.com**
+
+When you are on Waitrose.com. you may notice that there is content from other websites - for example a video from YouTube - which we add from time to time to improve the user experience. As a result, you may be sent cookies from these other websites. Waitrose.com does not control these cookies and we suggest you check these third-party websites for more information about the cookies they use and how you can manage them.
+
+**What cookies does Waitrose.com use and can I reject them?**
+
+A list of the main cookies that Waitrose.com sets, along with details of what each one is used for can be found on the [Website Cookies page](https://web.archive.org/content/waitrose/en/corporate_information_home/corporate_information/legal_notices/website_cookies.html).
+
+You can set your browser to reject cookies (see the ‘Help’ menu of your browser to find out how to do this), but please bear in mind that if you do this, certain personalised features of this website cannot be provided to you.
