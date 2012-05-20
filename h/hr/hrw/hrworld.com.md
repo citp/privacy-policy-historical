@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hrworld.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120170527id_/http%3A//www.hrworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrworld.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520040451id_/http%3A//www.hrworld.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -64,7 +64,7 @@ _Ecommerce_ When shopping on certain of our sites or pages, our users will need 
 
 **What Third parties May Collect:**
 
-_Online Ad Serving._ Ziff Davis and some of our advertisers use third-party advertising service companies to serve advertisements when you visit our sites. Often, these third-party advertising companies employ cookie, pixel tag and other technologies to measure the effectiveness of Web and e-mail advertisement and to create a record of interaction with our site content that they use in conjunction with their advertising which appears on other sites, or for reporting web site traffic, statistics, advertisement data and/or other activities on our sites. We will also engage third party providers to assist with the segmentation of this data.  **The specific providers we use are subject to change.   **As of the date of the posting of this policy, some of **** the current providers include **** DoubleClick, Omniture SiteCatalyst and Google Analytics (for information about how to opt out of tracking methods for these entities and others [**click here**](http://www.aboutads.info/)), and Demdex (to opt out [**click here**](http://info.betteradvertising.com/companies/demdex))
+_Online Ad Serving._ Ziff Davis and some of our advertisers use third-party advertising service companies to serve advertisements when you visit our sites. Often, these third-party advertising companies employ cookie, pixel tag and other technologies to measure the effectiveness of Web and e-mail advertisement and to create a record of interaction with our site content that they use in conjunction with their advertising which appears on other sites, or for reporting web site traffic, statistics, advertisement data and/or other activities on our sites. We will also engage third party providers to assist with the segmentation of this data.  **The specific providers we use are subject to change.   **As of the date of the posting of this policy, some of **** the current providers include **** DoubleClick, Omniture SiteCatalyst and Google Analytics (for information about how to opt out of tracking methods for these entities and others [**click here**](http://www.aboutads.info/)), and Demdex (to opt out [**click here**](http://info.evidon.com/companies/ziff-davis))
 
 **What Ziff Davis does with the Information it Collects**
 
