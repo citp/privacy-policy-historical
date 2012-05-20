@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypetchicken.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121012248id_/http%3A//www.mypetchicken.com/about-our-company/policy/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypetchicken.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520145347id_/http%3A//www.mypetchicken.com/about-our-company/policy/privacy-policy.aspx) for the most accurate reproduction.*
 
 # My Pet Chicken: Privacy Policy
 
