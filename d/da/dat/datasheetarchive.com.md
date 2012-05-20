@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datasheetarchive.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107044653id_/http%3A//www.datasheetarchive.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datasheetarchive.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520160038id_/http%3A//www.datasheetarchive.com/privacy.html) for the most accurate reproduction.*
 
 # Advertising Cookie, Datasheet Collection, and Privacy Policies | Datasheet Archive
 
@@ -42,6 +42,6 @@ If you require any more information or have any questions about our privacy poli
 privacydatasheetarchive.com.
 
 [Search Syntax](http://www.datasheetarchive.com/search-syntax.html "Search Syntax - How to find a datasheet.") | [Privacy Policy](http://www.datasheetarchive.com/privacy.html "Privacy Policy") | [Disclaimer](http://www.datasheetarchive.com/disclaimer.html "Disclaimer")  
-© 2011 Datasheet Archive
+© 2012 Datasheet Archive
 
 |  
