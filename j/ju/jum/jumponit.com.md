@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jumponit.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104194519id_/https%3A//www.jumponit.com/mainstatic/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumponit.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520132520id_/http%3A//www.jumponit.com/mainstatic/privacy) for the most accurate reproduction.*
 
 # Jump On It - Privacy Policy
 
