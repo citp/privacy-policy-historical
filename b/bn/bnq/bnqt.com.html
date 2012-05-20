@@ -1,1738 +1,411 @@
-<!--The following is the downloaded HTML source of the bnqt.com privacy policy that was archived on 2009-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090617191050id_/http%3A//www.bnqt.com/legal.php%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bnqt.com privacy policy that was archived on 2012-05-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120520145316id_/http%3A//www.bnqt.com/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="description" content="Banquet social networking website providing action sport videos and news for the action sport community.">
-<meta name="keywords" content="banquet,bnqt,action sport,action,sport,sports,community,bmx,skate,fmx,moto cross,ski,mountain bike,surf,wakeboard,news,latest events,snowboard,video,video sharing,flash movie">
-<link rel="shortcut icon" href="favicon.ico">
-
-<title>Privacy Policy — BNQT.com — Banquet Action Sports Digital Network</title>
-
-
-
-
-
-<!--[if lt IE 7]>
-<script defer type="text/javascript" src="/js/pngfix.js"></script>
-<![endif]-->
-
-<link rel="shortcut icon" href="/favicon.ico">
-<link href="/includes/site.css" rel="stylesheet" type="text/css">
-
-
-
-<script type="text/javascript" src="/js/scriptaculous/lib/prototype.js"></script>		
-<script type="text/javascript" src="/js/scriptaculous/src/scriptaculous.js"></script><script type="text/javascript" src="https://web.archive.org/js/scriptaculous/src/builder.js"></script><script type="text/javascript" src="https://web.archive.org/js/scriptaculous/src/effects.js"></script><script type="text/javascript" src="https://web.archive.org/js/scriptaculous/src/dragdrop.js"></script><script type="text/javascript" src="https://web.archive.org/js/scriptaculous/src/controls.js"></script><script type="text/javascript" src="https://web.archive.org/js/scriptaculous/src/slider.js"></script>
-
-
-<!--// Additional JS functions - Start //-->
-<!--// Additional JS functions - End //-->
-
-<!--// Global JS functions - Start //-->
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>BNQT.com - </title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="description" content="Banquet â€“ a leading source of action sports news, blogs, photos and videos.">
+<meta name="keywords" content="banquet,bnqt,action sport,action,sport,sports,community,bmx,skate,fmx,moto cross,ski,mountain bike,surf,wakeboard,news,latest events,snowboard,video,video sharing,flash movie,photos,blogs">
+<meta name="Revisit-after" content="1 Day">
+<link rel="shortcut icon" href="http://www.bnqt.com/public/frontend/assets/bnqt.com/favicon.ico" type="image/x-icon">
+<link rel="icon" href="http://www.bnqt.com/public/frontend/assets/bnqt.com/favicon.ico" type="image/x-icon">
+<link href="http://www.bnqt.com/public/frontend/assets/bnqt.com/css/all.css" rel="stylesheet" type="text/css">
+<link type="text/css" rel="stylesheet" href="http://img.bnqt.com/lib/css/jquery/ui/smoothness/jquery-ui-1.8.16.custom.css">
+<link rel="shortcut icon" href="/public/shared/images/favicon.ico">
+<link rel="icon" type="image/gif" href="/public/shared/images/animated_favicon.gif">
+<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="http://img.bnqt.com/CMS/assets/toolbar/js/bnqtXToolbar-1.1.js"></script><script src="http://img.bnqt.com/lib/js/jquery/jquery-1.7.1.min.js" type="text/javascript"></script>
+<script src="http://img.bnqt.com/lib/js/jquery/jquery-ui.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="/public/frontend/js/dropdown.js"></script>
+<script type="text/javascript" src="/public/frontend/js/main.js"></script>
+<script type="text/javascript" src="/public/frontend/js/common.js"></script>
+<!------ OAS MJX Config Begins ------>
 <script type="text/javascript">
-
-function doClear(searchBox, default_string) {
-	if (searchBox.value == default_string) { searchBox.value = ''; }       
-	}
-
-function noClear(searchBox, default_string) {
-	if (searchBox.value == '') { searchBox.value = default_string; }       
-	}
-
-function doSearch(form_id) {
-        var searchForm = eval("$('" + form_id +"')");
-        if (searchForm.keyword.value.length < 3) {
-			alert('Keyword must be greater than 2 characters.');
-            return(0);
-        	}
-			
-        queryString = Form.serialize(searchForm);
-        var url = "ajax/ajax.advancedSearch.php";
-        var myAjax = new Ajax.Request(url,
-			{method: 'get', parameters: queryString, onSuccess: function(obj,search_session) {
-
-                		var ojson = eval('('+obj.responseText+')');
-                		if (ojson["status"] != "success") {
-                	        	alert('There was an error processing your request.');
-                		} else {
-                        		if (ojson["total"] == "0") {
-                                		alert('No results found.');
-                        		} else {
-                                		vhref = "/search.php?ss="+ ojson["ss"] +"&keyword=" + ojson["keyword"] +
-                                        		"&sortOrder="+ ojson["sortOrder"] +"&sortBy="+ ojson["sortBy"] + "&type="+ ojson["type"];
-                                		if (ojson["type"] == 4) {
-                                        		vhref = vhref + "&minAge=" + ojson["minAge"] + "&maxAge="+ ojson["maxAge"] + "&searchGender=" + ojson["searchGender"];
-                             		   	}
-                                		window.location.href = vhref;
-                        		}
-                		}
-		                return(0);
-			}, onFailure: function () {
-				alert('There was an error processing your request. Please try again later.');
-				}
-			});
-
-}
-
-//--SLIDE MENU		
-function init_showhide() {
-	var sportxid = new Array;
-	sportxid["SKATE"] = 1;
-	sportxid["SURF"] = 2;
-	sportxid["MOTO"] = 3;
-	sportxid["BMX"] = 4;
-	sportxid["MTB"] = 5;
-	sportxid["WAKE"] = 6;
-	sportxid["SNOWBOARD"] = 7;
-	sportxid["SKI"] = 8;
-	sportxid["LIFESTYLE"] = 9;
-	var currSport = sportxid[''];
-	if (currSport != undefined) { showhide_controlpanel(currSport); }
-	}
-
-function showhide_controlpanel(elementID) {
-        var panel_current_state = $("menuState").innerHTML;
-        if (panel_current_state == elementID) { //--HIDE W/ SAME ID
-                Effect.BlindUp('slider', {queue: 'end', fps: '70', duration: '0.50' });
-				$("menuItemLink"+ panel_current_state).className ='';
-                $("menuState").innerHTML = "H";
-        } else if (panel_current_state != "H" && elementID != "") { //-- SWITCH ID
-				$("menuItemLink"+ elementID).className ='selected';				
-				$("menuItemLink"+ panel_current_state).className ='';
-				$("subLinks").className ='selected' + elementID ;
-				$("menuState").innerHTML = elementID;
-                build_subNav(elementID - 1);
-		} else { //--OPEN ASIGN ID
-				if (elementID != undefined) {
- 	            	Effect.BlindDown('slider', {queue: 'end', fps: '70', duration: '0.5' });
-					$("menuItemLink"+ elementID).className ='selected';
-					$("subLinks").className ='selected' + elementID ;
-					$("menuState").innerHTML = elementID;
-					build_subNav(elementID - 1);
-					}  
-        }
-}
-
-function build_subNav(sem) {
-	var sport = new Array('SKATE', 'SURF', 'MOTO', 'BMX', 'MTB', 'WAKE', 'SNOWBOARD', 'SKI', 'LIFESTYLE');
-	var forumsport = new Array('skate-f16','surf-f20','fmx-f24','bmx-f36','mountain-bike-f37','wakeboard-f38','snowboard-f39','ski-f40','general-f1');
-	var sportNumber = parseInt(0-1);
-	
-	if (sem == sportNumber) { //If sport IS selected
-		if (sem != 9) { //Build Sport Sub Menus for selected page
-			var subMenu = "<a href=\"/news.php?ms="+ sport[sem] +"\"  >"+ sport[sem] + " HOME</a>";
-			subMenu += "<a href=\"/content.php?ms="+ sport[sem] +"\"  >NEWS</a>";
-			subMenu += "<a href=\"/videos.php?ms="+ sport[sem] +"\"  >VIDEOS</a>";
-			subMenu += "";
-			subMenu += "<a href=\"/forums/"+ forumsport[sem] +"/index.html\">"+ sport[sem] +" FORUM</a>";
-		} else {  //Build Home Sub Menus
-			var subMenu = "<a href=\"/news.php\" class=\"\" >BNQT HOME</a>";
-			subMenu += "<a href=\"/content.php\" class=\"\" >ALL NEWS</a>";
-			subMenu += "<a href=\"/videos.php\" class=\"\" >BROWSE VIDEOS</a>";
-			subMenu += "<a href=\"/forums/\" class=\"\" >FORUMS</a>";
-		}
-	} else { //If sport is NOT selected
-		if (sem != 9) { //Build Sport Sub Menus
-			var subMenu = "<a href=\"/news.php?ms="+ sport[sem] +"\">"+ sport[sem] + " HOME</a>";
-			subMenu += "<a href=\"/content.php?ms="+ sport[sem] +"\">NEWS</a>";
-			subMenu += "<a href=\"/videos.php?ms="+ sport[sem] +"\">VIDEOS</a>";
-			subMenu += "";
-			subMenu += "<a href=\"/forums/"+ forumsport[sem] +"/index.html\">"+ sport[sem] +" FORUM</a>";
-		} else {  //Build Home Sub Menus
-			var subMenu = "<a href=\"/news.php\" class=\"\" >BNQT HOME</a>";
-			subMenu += "<a href=\"/content.php\" class=\"\" >ALL NEWS</a>";
-			subMenu += "<a href=\"/videos.php\" class=\"\" >BROWSE VIDEOS</a>";
-			subMenu += "<a href=\"/forums/\" class=\"\" >FORUMS</a>";
-		}
-	}
-	
-	$('subMenu').innerHTML = subMenu;
-}
-
-</script>
-
-
-
-
-
-<style type="text/css">
-
-
-
-/*-----45 DEGREE NAVIGATION MENU-----*/
-
-.slant {
-	font-family: Trebuchet MS, Lucida Sans Unicode, Arial, sans-serif;
-	padding: 0px;
-	margin-top: 0px;
-	margin-left: 2px;
-	list-style: none;
-	}
-	
-.slant li {
-	float: left;
-	text-align: center;
-	margin-right: -20px;
-	}
-	
-.slant a {
-	display: block;
-	text-decoration: none;
-	font-size: 8pt;
-	font-weight: normal;
-	}
-	
-.slant a em {
-	font-style: normal;
-	display: block;
-	padding: 0px;
-	height: 25px;
-	background: #1c1e22;
-	float: left;
-	cursor: pointer;
-	color: #848e97;
-	line-height: 20px;
-	}
-	
-.slant a b,
-a span {
-	cursor: pointer;
-	display: block;
-	width: 0px;
-	overflow: hidden;
-	float: left;
-	background: #1c1e22;
-	}
-	
-.slant a span {
-	height: 0px;
-	border-top: 25px solid #1c1e22; 
-	border-right: 25px solid #2e3135;
-	}
-
-.slant a b.p1,
-.slant a b.p2,
-.slant a b.p3,
-.slant a b.p4,
-.slant a b.p5 {
-	border-top: 5px solid #2e3135;
-	border-right: 5px solid #1c1e22;
-	}
-		
-.slant a b.p1 {
-	height: 0px;
-	margin-top: 20px;
-	}
-	
-.slant a b.p2 {
-	height: 5px;
-	margin-top: 15px;
-	}
-	
-.slant a b.p3 {
-	height: 10px;
-	margin-top: 10px;
-	}
-	
-.slant a b.p4 {
-	height: 15px;
-	margin-top: 5px;
-	}
-	
-.slant a b.p5 {
-	height: 20px;
-	}
-	
-.slant a b.p6,
-.slant a b.p7,
-.slant a b.p8,
-.slant a b.p9,
-.slant a b.p10 {
-	border-bottom: 5px solid #2e3135;
-	border-left: 5px solid #1c1e22;
-	}
-	
-.slant a b.p6 {
-	height: 20px;
-	}
-	
-.slant a b.p7 {
-	height: 15px;
-	}
-	
-.slant a b.p8 {
-	height: 10px;
-	}
-	
-.slant a b.p9 {
-	height: 5px;
-	}
-	
-.slant a b.p10 {
-	height: 0px;
-	}
-
-.slant a.selected:hover b,
-.slant a.selected:hover em,
-.slant a.selected:hover span {
-	cursor:default;
-	}
-
-
-
-/*-------menuItem 1--------*/
-.slant #menuItem1 a:hover {
-	background: #a7a282;
-	}
-	
-.slant #menuItem1 a:hover em,
-.slant #menuItem1 a.selected em {
-	color: #535141;
-	background: #a7a282;
-	}
-	
-.slant #menuItem1 a:hover b.p1,
-.slant #menuItem1 a.selected b.p1,
-.slant #menuItem1 a:hover b.p2,
-.slant #menuItem1 a.selected b.p2,
-.slant #menuItem1 a:hover b.p3,
-.slant #menuItem1 a.selected b.p3,
-.slant #menuItem1 a:hover b.p4,
-.slant #menuItem1 a.selected b.p4,
-.slant #menuItem1 a:hover b.p5,
-.slant #menuItem1 a.selected b.p5 {
-	border-right-color: #a7a282;
-	background: #a7a282;
-	}
-	
-.slant #menuItem1 a:hover b.p6,
-.slant #menuItem1 a.selected b.p6,
-.slant #menuItem1 a:hover b.p7,
-.slant #menuItem1 a.selected b.p7,
-.slant #menuItem1 a:hover b.p8,
-.slant #menuItem1 a.selected b.p8,
-.slant #menuItem1 a:hover b.p9,
-.slant #menuItem1 a.selected b.p9,
-.slant #menuItem1 a:hover b.p10,
-.slant #menuItem1 a.selected b.p10 {
-	border-left-color: #a7a282;
-	background: #a7a282;
-	}
-	
-.slant #menuItem1 a:hover span,
-.slant #menuItem1 a.selected span {
-	border-top-color: #a7a282;
-	}
-
-
-
-/*-------menuItem 2--------*/
-.slant #menuItem2 a:hover {
-	background: #1e648c;
-	}
-	
-.slant #menuItem2 a:hover em,
-.slant #menuItem2 a.selected em {
-	color: #0f3246;
-	background: #1e648c;
-	}
-	
-.slant #menuItem2 a:hover b.p1,
-.slant #menuItem2 a.selected b.p1,
-.slant #menuItem2 a:hover b.p2,
-.slant #menuItem2 a.selected b.p2,
-.slant #menuItem2 a:hover b.p3,
-.slant #menuItem2 a.selected b.p3,
-.slant #menuItem2 a:hover b.p4,
-.slant #menuItem2 a.selected b.p4,
-.slant #menuItem2 a:hover b.p5,
-.slant #menuItem2 a.selected b.p5 {
-	border-right-color: #1e648c;
-	background: #1e648c;
-	}
-	
-.slant #menuItem2 a:hover b.p6,
-.slant #menuItem2 a.selected b.p6,
-.slant #menuItem2 a:hover b.p7,
-.slant #menuItem2 a.selected b.p7,
-.slant #menuItem2 a:hover b.p8,
-.slant #menuItem2 a.selected b.p8,
-.slant #menuItem2 a:hover b.p9,
-.slant #menuItem2 a.selected b.p9,
-.slant #menuItem2 a:hover b.p10,
-.slant #menuItem2 a.selected b.p10 {
-	border-left-color: #1e648c;
-	background: #1e648c;
-	}
-	
-.slant #menuItem2 a:hover span,
-.slant #menuItem2 a.selected span {
-	border-top-color: #1e648c;
-	}
-
-
-/*-------menuItem 3--------*/
-.slant #menuItem3 a:hover {
-	background: #63351c;
-	}
-	
-.slant #menuItem3 a:hover em,
-.slant #menuItem3 a.selected em {
-	color: #311a0e;
-	background: #63351c;
-	}
-	
-.slant #menuItem3 a:hover b.p1,
-.slant #menuItem3 a.selected b.p1,
-.slant #menuItem3 a:hover b.p2,
-.slant #menuItem3 a.selected b.p2,
-.slant #menuItem3 a:hover b.p3,
-.slant #menuItem3 a.selected b.p3,
-.slant #menuItem3 a:hover b.p4,
-.slant #menuItem3 a.selected b.p4,
-.slant #menuItem3 a:hover b.p5,
-.slant #menuItem3 a.selected b.p5 {
-	border-right-color: #63351c;
-	background: #63351c;
-	}
-	
-.slant #menuItem3 a:hover b.p6,
-.slant #menuItem3 a.selected b.p6,
-.slant #menuItem3 a:hover b.p7,
-.slant #menuItem3 a.selected b.p7,
-.slant #menuItem3 a:hover b.p8,
-.slant #menuItem3 a.selected b.p8,
-.slant #menuItem3 a:hover b.p9,
-.slant #menuItem3 a.selected b.p9,
-.slant #menuItem3 a:hover b.p10,
-.slant #menuItem3 a.selected b.p10 {
-	border-left-color: #63351c;
-	background: #63351c;
-	}
-	
-.slant #menuItem3 a:hover span,
-.slant #menuItem3 a.selected span {
-	border-top-color: #63351c;
-	}
-	
-	
-/*-------menuItem 4--------*/
-.slant #menuItem4 a:hover {
-	background: #806736;
-	}
-	
-.slant #menuItem4 a:hover em,
-.slant #menuItem4 a.selected em {
-	color: #40331b;
-	background: #806736;
-	}
-	
-.slant #menuItem4 a:hover b.p1,
-.slant #menuItem4 a.selected b.p1,
-.slant #menuItem4 a:hover b.p2,
-.slant #menuItem4 a.selected b.p2,
-.slant #menuItem4 a:hover b.p3,
-.slant #menuItem4 a.selected b.p3,
-.slant #menuItem4 a:hover b.p4,
-.slant #menuItem4 a.selected b.p4,
-.slant #menuItem4 a:hover b.p5,
-.slant #menuItem4 a.selected b.p5 {
-	border-right-color: #806736;
-	background: #806736;
-	}
-	
-.slant #menuItem4 a:hover b.p6,
-.slant #menuItem4 a.selected b.p6,
-.slant #menuItem4 a:hover b.p7,
-.slant #menuItem4 a.selected b.p7,
-.slant #menuItem4 a:hover b.p8,
-.slant #menuItem4 a.selected b.p8,
-.slant #menuItem4 a:hover b.p9,
-.slant #menuItem4 a.selected b.p9,
-.slant #menuItem4 a:hover b.p10,
-.slant #menuItem4 a.selected b.p10 {
-	border-left-color: #806736;
-	background: #806736;
-	}
-	
-.slant #menuItem4 a:hover span,
-.slant #menuItem4 a.selected span {
-	border-top-color: #806736;
-	}
-
-
-/*-------menuItem 5--------*/
-.slant #menuItem5 a:hover {
-	background: #446620;
-	}
-	
-.slant #menuItem5 a:hover em,
-.slant #menuItem5 a.selected em {
-	color: #223310;
-	background: #446620;
-	}
-	
-.slant #menuItem5 a:hover b.p1,
-.slant #menuItem5 a.selected b.p1,
-.slant #menuItem5 a:hover b.p2,
-.slant #menuItem5 a.selected b.p2,
-.slant #menuItem5 a:hover b.p3,
-.slant #menuItem5 a.selected b.p3,
-.slant #menuItem5 a:hover b.p4,
-.slant #menuItem5 a.selected b.p4,
-.slant #menuItem5 a:hover b.p5,
-.slant #menuItem5 a.selected b.p5 {
-	border-right-color: #446620;
-	background: #446620;
-	}
-	
-.slant #menuItem5 a:hover b.p6,
-.slant #menuItem5 a.selected b.p6,
-.slant #menuItem5 a:hover b.p7,
-.slant #menuItem5 a.selected b.p7,
-.slant #menuItem5 a:hover b.p8,
-.slant #menuItem5 a.selected b.p8,
-.slant #menuItem5 a:hover b.p9,
-.slant #menuItem5 a.selected b.p9,
-.slant #menuItem5 a:hover b.p10,
-.slant #menuItem5 a.selected b.p10 {
-	border-left-color: #446620;
-	background: #446620;
-	}
-	
-.slant #menuItem5 a:hover span,
-.slant #menuItem5 a.selected span {
-	border-top-color: #446620;
-	}
-
-
-/*-------menuItem 6--------*/
-.slant #menuItem6 a:hover {
-	background: #36787e;
-	}
-	
-.slant #menuItem6 a:hover em,
-.slant #menuItem6 a.selected em {
-	color: #1b3c3f;
-	background: #36787e;
-	}
-	
-.slant #menuItem6 a:hover b.p1,
-.slant #menuItem6 a.selected b.p1,
-.slant #menuItem6 a:hover b.p2,
-.slant #menuItem6 a.selected b.p2,
-.slant #menuItem6 a:hover b.p3,
-.slant #menuItem6 a.selected b.p3,
-.slant #menuItem6 a:hover b.p4,
-.slant #menuItem6 a.selected b.p4,
-.slant #menuItem6 a:hover b.p5,
-.slant #menuItem6 a.selected b.p5 {
-	border-right-color: #36787e;
-	background: #36787e;
-	}
-	
-.slant #menuItem6 a:hover b.p6,
-.slant #menuItem6 a.selected b.p6,
-.slant #menuItem6 a:hover b.p7,
-.slant #menuItem6 a.selected b.p7,
-.slant #menuItem6 a:hover b.p8,
-.slant #menuItem6 a.selected b.p8,
-.slant #menuItem6 a:hover b.p9,
-.slant #menuItem6 a.selected b.p9,
-.slant #menuItem6 a:hover b.p10,
-.slant #menuItem6 a.selected b.p10 {
-	border-left-color: #36787e;
-	background: #36787e;
-	}
-	
-.slant #menuItem6 a:hover span,
-.slant #menuItem6 a.selected span {
-	border-top-color: #36787e;
-	}
-
-/*-------menuItem 7--------*/
-.slant #menuItem7 a:hover {
-	background: #75b5d9;
-	}
-	
-.slant #menuItem7 a:hover em,
-.slant #menuItem7 a.selected em {
-	color: #3a5a6c;
-	background: #75b5d9;
-	}
-	
-.slant #menuItem7 a:hover b.p1,
-.slant #menuItem7 a.selected b.p1,
-.slant #menuItem7 a:hover b.p2,
-.slant #menuItem7 a.selected b.p2,
-.slant #menuItem7 a:hover b.p3,
-.slant #menuItem7 a.selected b.p3,
-.slant #menuItem7 a:hover b.p4,
-.slant #menuItem7 a.selected b.p4,
-.slant #menuItem7 a:hover b.p5,
-.slant #menuItem7 a.selected b.p5 {
-	border-right-color: #75b5d9;
-	background: #75b5d9;
-	}
-	
-.slant #menuItem7 a:hover b.p6,
-.slant #menuItem7 a.selected b.p6,
-.slant #menuItem7 a:hover b.p7,
-.slant #menuItem7 a.selected b.p7,
-.slant #menuItem7 a:hover b.p8,
-.slant #menuItem7 a.selected b.p8,
-.slant #menuItem7 a:hover b.p9,
-.slant #menuItem7 a.selected b.p9,
-.slant #menuItem7 a:hover b.p10,
-.slant #menuItem7 a.selected b.p10 {
-	border-left-color: #75b5d9;
-	background: #75b5d9;
-	}
-	
-.slant #menuItem7 a:hover span,
-.slant #menuItem7 a.selected span {
-	border-top-color: #75b5d9;
-	}
-
-
-/*-------menuItem 8--------*/
-.slant #menuItem8 a:hover {
-	background: #a5c0cd;
-	}
-	
-.slant #menuItem8 a:hover em,
-.slant #menuItem8 a.selected em {
-	color: #526066;
-	background: #a5c0cd;
-	}
-	
-.slant #menuItem8 a:hover b.p1,
-.slant #menuItem8 a.selected b.p1,
-.slant #menuItem8 a:hover b.p2,
-.slant #menuItem8 a.selected b.p2,
-.slant #menuItem8 a:hover b.p3,
-.slant #menuItem8 a.selected b.p3,
-.slant #menuItem8 a:hover b.p4,
-.slant #menuItem8 a.selected b.p4,
-.slant #menuItem8 a:hover b.p5,
-.slant #menuItem8 a.selected b.p5 {
-	border-right-color: #a5c0cd;
-	background: #a5c0cd;
-	}
-	
-.slant #menuItem8 a:hover b.p6,
-.slant #menuItem8 a.selected b.p6,
-.slant #menuItem8 a:hover b.p7,
-.slant #menuItem8 a.selected b.p7,
-.slant #menuItem8 a:hover b.p8,
-.slant #menuItem8 a.selected b.p8,
-.slant #menuItem8 a:hover b.p9,
-.slant #menuItem8 a.selected b.p9,
-.slant #menuItem8 a:hover b.p10,
-.slant #menuItem8 a.selected b.p10 {
-	border-left-color: #a5c0cd;
-	background: #a5c0cd;
-	}
-	
-.slant #menuItem8 a:hover span,
-.slant #menuItem8 a.selected span {
-	border-top-color: #a5c0cd;
-	}
-
-
-/*-------menuItem 9--------*/
-.slant #menuItem9 a:hover {
-	background: #435440;
-	}
-	
-.slant #menuItem9 a:hover em,
-.slant #menuItem9 a.selected em {
-	color: #212a20;
-	background: #435440;
-	}
-	
-.slant #menuItem9 a:hover b.p1,
-.slant #menuItem9 a.selected b.p1,
-.slant #menuItem9 a:hover b.p2,
-.slant #menuItem9 a.selected b.p2,
-.slant #menuItem9 a:hover b.p3,
-.slant #menuItem9 a.selected b.p3,
-.slant #menuItem9 a:hover b.p4,
-.slant #menuItem9 a.selected b.p4,
-.slant #menuItem9 a:hover b.p5,
-.slant #menuItem9 a.selected b.p5 {
-	border-right-color: #435440;
-	background: #435440;
-	}
-	
-.slant #menuItem9 a:hover b.p6,
-.slant #menuItem9 a.selected b.p6,
-.slant #menuItem9 a:hover b.p7,
-.slant #menuItem9 a.selected b.p7,
-.slant #menuItem9 a:hover b.p8,
-.slant #menuItem9 a.selected b.p8,
-.slant #menuItem9 a:hover b.p9,
-.slant #menuItem9 a.selected b.p9,
-.slant #menuItem9 a:hover b.p10,
-.slant #menuItem9 a.selected b.p10 {
-	border-left-color: #435440;
-	background: #435440;
-	}
-	
-.slant #menuItem9 a:hover span,
-.slant #menuItem9 a.selected span {
-	border-top-color: #435440;
-	}
-
-
-/*-------menuItem 10--------*/
-.slant #menuItem10 a:hover {
-	background: #de9e52;
-	}
-	
-.slant #menuItem10 a:hover em,
-.slant #menuItem10 a.selected em {
-	color: #1c1e22;
-	background: #de9e52;
-	}
-	
-.slant #menuItem10 a:hover b.p1,
-.slant #menuItem10 a.selected b.p1,
-.slant #menuItem10 a:hover b.p2,
-.slant #menuItem10 a.selected b.p2,
-.slant #menuItem10 a:hover b.p3,
-.slant #menuItem10 a.selected b.p3,
-.slant #menuItem10 a:hover b.p4,
-.slant #menuItem10 a.selected b.p4,
-.slant #menuItem10 a:hover b.p5,
-.slant #menuItem10 a.selected b.p5 {
-	border-right-color: #de9e52;
-	background: #de9e52;
-	}
-	
-.slant #menuItem10 a:hover b.p6,
-.slant #menuItem10 a.selected b.p6,
-.slant #menuItem10 a:hover b.p7,
-.slant #menuItem10 a.selected b.p7,
-.slant #menuItem10 a:hover b.p8,
-.slant #menuItem10 a.selected b.p8,
-.slant #menuItem10 a:hover b.p9,
-.slant #menuItem10 a.selected b.p9,
-.slant #menuItem10 a:hover b.p10,
-.slant #menuItem10 a.selected b.p10 {
-	border-left-color: #de9e52;
-	background: #de9e52;
-	}
-	
-.slant #menuItem10 a:hover span,
-.slant #menuItem10 a.selected span {
-	border-top-color: #de9e52;
-	}
-
-/*--------------------------*/
-
-
-.slant2 {
-	font-family: Trebuchet MS, Lucida Sans Unicode, Arial, sans-serif;
-	padding: 0px;
-	margin-top: 0px;
-	margin-left: 2px;
-	list-style: none;
-	}
-	
-.slant2 li {
-	float: left;
-	text-align: center;
-	margin-right: -20px;
-	}
-	
-.slant2 #subLinks b.p1 {
-	height: 0px;
-	margin-top: 20px;
-	}
-	
-.slant2 #subLinks b.p2 {
-	height: 5px;
-	margin-top: 15px;
-	}
-	
-.slant2 #subLinks b.p3 {
-	height: 10px;
-	margin-top: 10px;
-	}
-	
-.slant2 #subLinks b.p4 {
-	height: 15px;
-	margin-top: 5px;
-	}
-	
-.slant2 #subLinks b.p5 {
-	height: 20px;
-	}	
-	
-
-.slant2 #subLinks b,
-#subLinks #subMenuItems {
-	/*cursor:pointer;*/
-	display: block;
-	width: 0px;
-	overflow: hidden;
-	float: left;
-	background: #1c1e22;
-	}		
-	
-.slant2 #subLinks b.p1,
-.slant2 #subLinks b.p2,
-.slant2 #subLinks b.p3,
-.slant2 #subLinks b.p4,
-.slant2 #subLinks b.p5 {
-	border-top: 5px solid #2e3135;
-	border-right: 5px solid #1c1e22; 
-	}
-	
-.slant2 #subLinks b.p6,
-.slant2 #subLinks b.p7,
-.slant2 #subLinks b.p8,
-.slant2 #subLinks b.p9,
-.slant2 #subLinks b.p10 {
-	border-bottom: 5px solid #2e3135;
-	border-left: 5px solid #1c1e22; 
-	}
-	
-.slant2 #subLinks b.p6 {
-	height: 20px;
-	}
-	
-.slant2 #subLinks b.p7 {
-	height: 15px;
-	}
-	
-.slant2 #subLinks b.p8 {
-	height: 10px;
-	}
-	
-.slant2 #subLinks b.p9 {
-	height: 5px;
-	}
-	
-.slant2 #subLinks b.p10 {
-	height: 0px;
-	}
-	
-#subMenu a {
-	padding-left: 10px;
-	padding-right: 10px;
-	}
-	
-
-/*--------Submenu 1----------*/
-
-.slant2 #subLinks.selected1 b,
-#subLinks.selected1 #subMenuItems {
-	/*cursor:pointer;*/
-	display: block;
-	width: 0px;
-	overflow: hidden;
-	float: left;
-	background: #a7a282;
-	}
-	
-.slant2 #subLinks.selected1 b.p1,
-.slant2 #subLinks.selected1 b.p2,
-.slant2 #subLinks.selected1 b.p3,
-.slant2 #subLinks.selected1 b.p4,
-.slant2 #subLinks.selected1 b.p5 {
-	border-top: 5px solid #2e3135;
-	border-right: 5px solid #a7a282;
-	}
-	
-.slant2 #subLinks.selected1 b.p6,
-.slant2 #subLinks.selected1 b.p7,
-.slant2 #subLinks.selected1 b.p8,
-.slant2 #subLinks.selected1 b.p9,
-.slant2 #subLinks.selected1 b.p10 {
-	border-bottom: 5px solid #2e3135;
-	border-left: 5px solid #a7a282;
-	}
-	
-.slant2 #subLinks.selected1 a {
-	font-style: normal;
-	display: block;
-	padding-left: 10px;
-	padding-right: 10px;
-	margin-top: 3px;
-	height: 20px;
-	float:left;
-	/*cursor:pointer;*/
-	color: #535141;
-	line-height: 20px;
-	}
-	
-.slant2 #subLinks.selected1 a:hover {
-	background: #535141;
-	color: #d3cea2;
-	text-decoration: none;
-	}
-
-	
-/*--------Submenu 2----------*/
-
-.slant2 #subLinks.selected2 b,
-#subLinks.selected2 #subMenuItems {
-	/*cursor:pointer;*/
-	display: block;
-	width: 0px;
-	overflow: hidden;
-	float: left;
-	background: #1e648c;
-	}
-	
-.slant2 #subLinks.selected2 b.p1,
-.slant2 #subLinks.selected2 b.p2,
-.slant2 #subLinks.selected2 b.p3,
-.slant2 #subLinks.selected2 b.p4,
-.slant2 #subLinks.selected2 b.p5 {
-	border-top: 5px solid #2e3135;
-	border-right: 5px solid #1e648c;
-	}
-	
-.slant2 #subLinks.selected2 b.p6,
-.slant2 #subLinks.selected2 b.p7,
-.slant2 #subLinks.selected2 b.p8,
-.slant2 #subLinks.selected2 b.p9,
-.slant2 #subLinks.selected2 b.p10 {
-	border-bottom: 5px solid #2e3135;
-	border-left: 5px solid #1e648c;
-	}
-	
-.slant2 #subLinks.selected2 a {
-	font-style: normal;
-	display: block;
-	padding-left: 10px;
-	padding-right: 10px;
-	margin-top: 3px;
-	height: 20px;
-	float:left;
-	/*cursor:pointer;*/
-	color: #0f3246;
-	line-height: 20px;
-	}
-
-.slant2 #subLinks.selected2 a:hover {
-	background: #0f3246;
-	color: #40afe1;
-	text-decoration: none;
-	}
-	
-/*--------Submenu 3----------*/
-
-.slant2 #subLinks.selected3 b,
-#subLinks.selected3 #subMenuItems {
-	/*cursor:pointer;*/
-	display: block;
-	width: 0px;
-	overflow: hidden;
-	float: left;
-	background: #63351c;
-	}
-	
-.slant2 #subLinks.selected3 b.p1,
-.slant2 #subLinks.selected3 b.p2,
-.slant2 #subLinks.selected3 b.p3,
-.slant2 #subLinks.selected3 b.p4,
-.slant2 #subLinks.selected3 b.p5 {
-	border-top: 5px solid #2e3135;
-	border-right: 5px solid #63351c;
-	}
-	
-.slant2 #subLinks.selected3 b.p6,
-.slant2 #subLinks.selected3 b.p7,
-.slant2 #subLinks.selected3 b.p8,
-.slant2 #subLinks.selected3 b.p9,
-.slant2 #subLinks.selected3 b.p10 {
-	border-bottom: 5px solid #2e3135;
-	border-left: 5px solid #63351c;
-	}
-	
-.slant2 #subLinks.selected3 a {
-	font-style: normal;
-	display: block;
-	padding-left: 10px;
-	padding-right: 10px;
-	margin-top: 3px;
-	height: 20px;
-	float:left;
-	/*cursor:pointer;*/
-	color: #311a0e;
-	line-height: 20px;
-	}
-
-.slant2 #subLinks.selected3 a:hover {
-	background: #311a0e;
-	color: #c68d5a;
-	text-decoration: none;
-	}
-
-/*--------Submenu 4----------*/
-
-.slant2 #subLinks.selected4 b,
-#subLinks.selected4 #subMenuItems {
-	/*cursor:pointer;*/
-	display: block;
-	width: 0px;
-	overflow: hidden;
-	float: left;
-	background: #806736;
-	}
-	
-.slant2 #subLinks.selected4 b.p1,
-.slant2 #subLinks.selected4 b.p2,
-.slant2 #subLinks.selected4 b.p3,
-.slant2 #subLinks.selected4 b.p4,
-.slant2 #subLinks.selected4 b.p5 {
-	border-top: 5px solid #2e3135;
-	border-right: 5px solid #806736;
-	}
-	
-.slant2 #subLinks.selected4 b.p6,
-.slant2 #subLinks.selected4 b.p7,
-.slant2 #subLinks.selected4 b.p8,
-.slant2 #subLinks.selected4 b.p9,
-.slant2 #subLinks.selected4 b.p10 {
-	border-bottom: 5px solid #2e3135;
-	border-left: 5px solid #806736;
-	}
-	
-.slant2 #subLinks.selected4 a {
-	font-style: normal;
-	display: block;
-	padding-left: 10px;
-	padding-right: 10px;
-	margin-top: 3px;
-	height: 20px;
-	float:left;
-	/*cursor:pointer;*/
-	color: #40331b;
-	line-height: 20px;
-	}
-	
-.slant2 #subLinks.selected4 a:hover {
-	background: #40331b;
-	color: #c9ab6c;
-	text-decoration: none;
-	}
-	
-/*--------Submenu 5----------*/
-
-.slant2 #subLinks.selected5 b,
-#subLinks.selected5 #subMenuItems {
-	/*cursor:pointer;*/
-	display: block;
-	width: 0px;
-	overflow: hidden;
-	float: left;
-	background: #446620;
-	}
-	
-.slant2 #subLinks.selected5 b.p1,
-.slant2 #subLinks.selected5 b.p2,
-.slant2 #subLinks.selected5 b.p3,
-.slant2 #subLinks.selected5 b.p4,
-.slant2 #subLinks.selected5 b.p5 {
-	border-top: 5px solid #2e3135;
-	border-right: 5px solid #446620;
-	}
-	
-.slant2 #subLinks.selected5 b.p6,
-.slant2 #subLinks.selected5 b.p7,
-.slant2 #subLinks.selected5 b.p8,
-.slant2 #subLinks.selected5 b.p9,
-.slant2 #subLinks.selected5 b.p10 {
-	border-bottom: 5px solid #2e3135;
-	border-left: 5px solid #446620;
-	}
-	
-.slant2 #subLinks.selected5 a {
-	font-style: normal;
-	display: block;
-	padding-left: 10px;
-	padding-right: 10px;
-	margin-top: 3px;
-	height: 20px;
-	float:left;
-	/*cursor:pointer;*/
-	color: #223310;
-	line-height: 20px;
-	}	
-
-.slant2 #subLinks.selected5 a:hover {
-	background: #223310;
-	color: #9dc667;
-	text-decoration: none;
-	}
-		
-/*--------Submenu 6----------*/
-
-.slant2 #subLinks.selected6 b,
-#subLinks.selected6 #subMenuItems {
-	/*cursor:pointer;*/
-	display: block;
-	width: 0px;
-	overflow: hidden;
-	float: left;
-	background: #36787e;
-	}
-	
-.slant2 #subLinks.selected6 b.p1,
-.slant2 #subLinks.selected6 b.p2,
-.slant2 #subLinks.selected6 b.p3,
-.slant2 #subLinks.selected6 b.p4,
-.slant2 #subLinks.selected6 b.p5 {
-	border-top: 5px solid #2e3135;
-	border-right: 5px solid #36787e;
-	}
-	
-.slant2 #subLinks.selected6 b.p6,
-.slant2 #subLinks.selected6 b.p7,
-.slant2 #subLinks.selected6 b.p8,
-.slant2 #subLinks.selected6 b.p9,
-.slant2 #subLinks.selected6 b.p10 {
-	border-bottom: 5px solid #2e3135;
-	border-left: 5px solid #36787e;
-	}
-	
-.slant2 #subLinks.selected6 a {
-	font-style: normal;
-	display: block;
-	padding-left: 10px;
-	padding-right: 10px;
-	margin-top: 3px;
-	height: 20px;
-	float:left;
-	/*cursor:pointer;*/
-	color: #1b3c3f;
-	line-height: 20px;
-	}
-	
-.slant2 #subLinks.selected6 a:hover {
-	background: #1b3c3f;
-	color: #7cc9cf;
-	text-decoration: none;
-	}
-		
-	
-/*--------Submenu 7----------*/
-
-.slant2 #subLinks.selected7 b,
-#subLinks.selected7 #subMenuItems {
-	/*cursor:pointer;*/
-	display: block;
-	width: 0px;
-	overflow: hidden;
-	float: left;
-	background: #75b5d9;
-	}
-	
-.slant2 #subLinks.selected7 b.p1,
-.slant2 #subLinks.selected7 b.p2,
-.slant2 #subLinks.selected7 b.p3,
-.slant2 #subLinks.selected7 b.p4,
-.slant2 #subLinks.selected7 b.p5 {
-	border-top: 5px solid #2e3135;
-	border-right: 5px solid #75b5d9;
-	}
-	
-.slant2 #subLinks.selected7 b.p6,
-.slant2 #subLinks.selected7 b.p7,
-.slant2 #subLinks.selected7 b.p8,
-.slant2 #subLinks.selected7 b.p9,
-.slant2 #subLinks.selected7 b.p10 {
-	border-bottom: 5px solid #2e3135;
-	border-left: 5px solid #75b5d9;
-	}
-		
-.slant2 #subLinks.selected7 a {
-	font-style: normal;
-	display: block;
-	padding-left: 10px;
-	padding-right: 10px;
-	margin-top: 3px;
-	height: 20px;
-	float:left;
-	/*cursor:pointer;*/
-	color: #3a5a6c;
-	line-height: 20px;
-	}
-	
-.slant2 #subLinks.selected7 a:hover {
-	background: #3a5a6c;
-	color: #a0d6f3;
-	text-decoration: none;
-	}
-
-	
-/*--------Submenu 8----------*/
-
-.slant2 #subLinks.selected8 b,
-#subLinks.selected8 #subMenuItems {
-	/*cursor:pointer;*/
-	display: block;
-	width: 0px;
-	overflow: hidden;
-	float: left;
-	background: #a5c0cd;
-	}
-	
-.slant2 #subLinks.selected8 b.p1,
-.slant2 #subLinks.selected8 b.p2,
-.slant2 #subLinks.selected8 b.p3,
-.slant2 #subLinks.selected8 b.p4,
-.slant2 #subLinks.selected8 b.p5 {
-	border-top: 5px solid #2e3135;
-	border-right: 5px solid #a5c0cd;
-	}
-	
-.slant2 #subLinks.selected8 b.p6,
-.slant2 #subLinks.selected8 b.p7,
-.slant2 #subLinks.selected8 b.p8,
-.slant2 #subLinks.selected8 b.p9,
-.slant2 #subLinks.selected8 b.p10 {
-	border-bottom: 5px solid #2e3135;
-	border-left: 5px solid #a5c0cd;
-	}
-	
-.slant2 #subLinks.selected8 a {
-	font-style: normal;
-	display: block;
-	padding-left: 10px;
-	padding-right: 10px;
-	margin-top: 3px;
-	height: 20px;
-	float:left;
-	/*cursor:pointer;*/
-	color: #526066;
-	line-height: 20px;
-	}
-	
-.slant2 #subLinks.selected8 a:hover {
-	background: #526066;
-	color: #daeaf2;
-	text-decoration: none;
-	}
-	
-
-/*--------Submenu 9----------*/
-
-.slant2 #subLinks.selected9 b,
-#subLinks.selected9 #subMenuItems {
-	/*cursor:pointer;*/
-	display: block;
-	width: 0px;
-	overflow: hidden;
-	float: left;
-	background: #435440;
-	}
-	
-.slant2 #subLinks.selected9 b.p1,
-.slant2 #subLinks.selected9 b.p2,
-.slant2 #subLinks.selected9 b.p3,
-.slant2 #subLinks.selected9 b.p4,
-.slant2 #subLinks.selected9 b.p5 {
-	border-top: 5px solid #2e3135;
-	border-right: 5px solid #435440;
-	}
-	
-.slant2 #subLinks.selected9 b.p6,
-.slant2 #subLinks.selected9 b.p7,
-.slant2 #subLinks.selected9 b.p8,
-.slant2 #subLinks.selected9 b.p9,
-.slant2 #subLinks.selected9 b.p10 {
-	border-bottom: 5px solid #2e3135;
-	border-left: 5px solid #435440;
-	}
-	
-.slant2 #subLinks.selected9 a {
-	font-style: normal;
-	display: block;
-	padding-left: 10px;
-	padding-right: 10px;
-	margin-top: 3px;
-	height: 20px;
-	float:left;
-	/*cursor:pointer;*/
-	color: #212a20;
-	line-height: 20px;
-	}
-
-.slant2 #subLinks.selected9 a:hover {
-	background: #212a20;
-	color: #7b9277;
-	text-decoration: none;
-	}
-	
-/*--------Submenu 10----------*/
-
-.slant2 #subLinks.selected10 b,
-#subLinks.selected10 #subMenuItems {
-	/*cursor:pointer;*/
-	display: block;
-	width: 0px;
-	overflow: hidden;
-	float: left;
-	background: #de9e52;
-	}
-	
-.slant2 #subLinks.selected10 b.p1,
-.slant2 #subLinks.selected10 b.p2,
-.slant2 #subLinks.selected10 b.p3,
-.slant2 #subLinks.selected10 b.p4,
-.slant2 #subLinks.selected10 b.p5 {
-	border-top: 5px solid #2e3135;
-	border-right: 5px solid #de9e52;
-	}
-	
-.slant2 #subLinks.selected10 b.p6,
-.slant2 #subLinks.selected10 b.p7,
-.slant2 #subLinks.selected10 b.p8,
-.slant2 #subLinks.selected10 b.p9,
-.slant2 #subLinks.selected10 b.p10 {
-	border-bottom: 5px solid #2e3135;
-	border-left: 5px solid #de9e52;
-	}
-	
-.slant2 #subLinks.selected10 a {
-	font-style: normal;
-	display: block;
-	padding-left: 10px;
-	padding-right: 10px;
-	margin-top: 3px;
-	height: 20px;
-	float:left;
-	/*cursor:pointer;*/
-	color: #1c1e22;
-	line-height: 20px;
-	}
-
-.slant2 #subLinks.selected10 a:hover {
-	background: #1c1e22;
-	color: #de9e52;
-	text-decoration: none;
-	}
-
-
-/*----------------------------*/
-
-#navMenu {
-	width: 1000px;
-	padding-top: 1px;
-	background-color: #2e3135;
-	border-top-width: thin;
-	border-top-style: solid;
-	border-top-color: #393f44;
-	}
-
-#mainMenu {
-	margin-left: 27px;
-	}
-	
-#mainMenu a {
-	text-decoration: none;
-	}
-
-#simpleSearch {
-	position: relative;
-	right: 0%;
-	top: 0%;
-	}
-
-#slider {
-	font-family: Trebuchet MS, Lucida Sans Unicode, Arial, sans-serif;
-	width: 1000px;
-	display: block;
-	}
-
-#subMenu span {
-	margin-top: 5px;
-	display: inline;
-	}
-
-#subMenu a {
-	margin: 0px 5px;
-	padding: 0px 10px;
-	}
-	
-#subMenu a.selected:link,
-#subMenu a.selected:visited,
-#subMenu a.selected:hover,
-#subMenu a.selected:active {
-	color: #1c1e22;
-	background-color: #de9e52;
-	border-left: 1px solid #1c1e22;
-	border-right: 1px solid #1c1e22;
-	}
-	
-#accountLoginForm {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 8pt;
-	text-align: right;
-	width: 300px;
-	float: right;
-	color: #888e9a;
-	font-weight: normal;
-	padding: 2px;
-	font-weight: normal;
-	}
-	
-#accountLoginForm a {
-	color: #f79a2c;
-	font-weight: normal;
-	}
-	
-#accountLoginForm small {
-	font-size: 7pt;
-	}
-	
-#accountLoginForm input {
-	font-size: 7pt;
-	}
-
-#accountLogin {
-	font-size: 7pt;
-	width: 120px;
-	margin-left: 3px;
-	text-align: left;
-	}
-		
-</style>
-
-
-</head>
-
-
-<body>
-
-
-
-
-
-
-
-
-
-
-
-
-<!--MASTER TABLE-->
-<table cellpadding="0" cellspacing="0" border="0" id="pageBounds" style="z-index: 1;">
-<tbody><tr><td bgcolor="#2e3135" height="155" valign="top" style="background: url(/images/topHead.gif) no-repeat;">
-
-
-<!--Return Home TransTile-->
-<div style="position: absolute; top: 17px; left: 50%; margin-left: -498px;">
-    <a href="/"><img src="/images/transTile.gif" width="150" height="139" border="0"></a>
-</div>
-
-
-<!--LOGIN BOX-->
-
-    <form method="POST" action="/login.php" id="accountLoginForm">
-        <input type="hidden" name="doLogin" value="1">
-		<input type="hidden" name="have_fields" value="1">
-        <small>USER : </small><input class="input_box" type="text" size="9" name="username" id="username">
-        <small>PASSWORD : </small><input class="input_box" type="password" size="9" name="password" id="password">
-        <input type="submit" value="LOGIN">
-		<div style="clear: left; margin-top: 2px;">
-			<input type="checkbox" checked="checked"><small> REMEMBER ME &nbsp; <a href="/forgot_password.php">LOST PASSWORD?</a> &nbsp; <a href="/signup.php">REGISTER</a></small>
-		</div>
-    </form>
-	
-
-<!--AD TECH TOP 728x90-->
-<div style="text-align: center; height: 90px; width: 728px; float: right; margin: 10px 25px 0px 0px; border: 1px solid #111111;" id="companionAd">
-<!--JavaScript Tag // Tag for network 5105: Cold War Collective // Website: bnqt.com // Page: Homepage // Placement: TopB728x90 (69790) // created at: May 4, 2009 5:49:00 PM-->
-<script language="javascript">
 <!--
-if (window.adgroupid == undefined) {
-	window.adgroupid = Math.round(Math.random() * 1000);
-}
-document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn|3.0|5105|69790|0|225|ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+// Define OAS Variables
+OAS_url = 'http://oasc247.bnqt.com/RealMedia/ads/'; // Ad Server URL: 'oascentral.site.com'
+OAS_sitepage = 'bnqt-com/general'; // Virtual URL, format (case sensitive) : 'www.site.com/section/subsection/page'
+OAS_listpos = 'x02'; // List of Positions on Page, format (case Sensitive) : 'Position1,Position2,Frame1,Frame2'
+OAS_query = ''; //Search Terms, format (case sensitive) : ‘KeyName1=KeyValue1&KeyName2=KeyValue2
+OAS_target = '_blank'; // Window parameter for clicks : (_top or _blank)
 //-->
-</script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn|3.0|5105|69790|0|225|ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=261;misc=1580500341901"></script><noscript><a href="http://adserver.adtechus.com/adlink|3.0|5105|69790|0|225|ADTECH;loc=300;key=key1+key2+key3+key4" target="_blank"><img src="http://adserver.adtechus.com/adserv|3.0|5105|69790|0|225|ADTECH;loc=300;key=key1+key2+key3+key4" border="0" width="728" height="90"></a></noscript>
-<!-- End of JavaScript Tag --></div>
-	
-
-</td></tr>
-<tr><td bgcolor="#2e3135">
-
-
-<!--SPORTS NAVIGATION AND SEARCH-->
-<div id="navMenu">
-<span id="menuState" style="display: none;">H</span>
-    <ul class="slant" id="mainMenu">
-    	<li id="menuItem10"><a onclick="showhide_controlpanel(10);" id="menuItemLink10" class=""><b class="p1"></b><b class="p2"></b><b class="p3"></b><b class="p4"></b><b class="p5"></b><em><img src="/images/transB.png" width="18" height="16" style="margin-top:4px; padding-left:1px;"></em><span></span></a></li>
-        <li id="menuItem1"><a href="/news.php?ms=SKATE" id="menuItemLink1" class=""><b class="p1"></b><b class="p2"></b><b class="p3"></b><b class="p4"></b><b class="p5"></b><em>SKATE</em><span></span></a></li>
-        <li id="menuItem2"><a href="/news.php?ms=SURF" id="menuItemLink2" class=""><b class="p1"></b><b class="p2"></b><b class="p3"></b><b class="p4"></b><b class="p5"></b><em>SURF</em><span></span></a></li>
-        <li id="menuItem3"><a href="/news.php?ms=MOTO" id="menuItemLink3" class=""><b class="p1"></b><b class="p2"></b><b class="p3"></b><b class="p4"></b><b class="p5"></b><em>MOTO</em><span></span></a></li>
-        <li id="menuItem4"><a href="/news.php?ms=BMX" id="menuItemLink4" class=""><b class="p1"></b><b class="p2"></b><b class="p3"></b><b class="p4"></b><b class="p5"></b><em>BMX</em><span></span></a></li>
-        <li id="menuItem5"><a href="/news.php?ms=MTB" id="menuItemLink5" class=""><b class="p1"></b><b class="p2"></b><b class="p3"></b><b class="p4"></b><b class="p5"></b><em>MTB</em><span></span></a></li>
-        <li id="menuItem6"><a href="/news.php?ms=WAKE" id="menuItemLink6" class=""><b class="p1"></b><b class="p2"></b><b class="p3"></b><b class="p4"></b><b class="p5"></b><em>WAKE</em><span></span></a></li>
-        <li id="menuItem7"><a href="/news.php?ms=SNOWBOARD" id="menuItemLink7" class=""><b class="p1"></b><b class="p2"></b><b class="p3"></b><b class="p4"></b><b class="p5"></b><em>SNOWBOARD</em><span></span></a></li>
-        <li id="menuItem8"><a href="/news.php?ms=SKI" id="menuItemLink8" class=""><b class="p1"></b><b class="p2"></b><b class="p3"></b><b class="p4"></b><b class="p5"></b><em>SKI</em><span></span></a></li>
-       	<li id="menuItem9"><a href="/news.php?ms=LIFESTYLE" id="menuItemLink9" class=""><b class="p1"></b><b class="p2"></b><b class="p3"></b><b class="p4"></b><b class="p5"></b><em>LIFESTYLE</em><span></span></a></li>
-<!--//
-        <li id="menuItem11"><a href="/concreteMagazine/"><b class="p1"></b><b class="p2"></b><b class="p3"></b><b class="p4"></b><b class="p5"></b><em>MAGAZINE</em><b class="p6"></b><b class="p7"></b><b class="p8"></b><b class="p9"></b><b class="p10"></b></a></li>
-//-->
-    </ul>
-   
-
-    <form id="top_nav_search" method="post" action="javascript:void(0)" name="simpleSearch" onsubmit="doSearch(this.id)" style="float: right; margin-right: 5px;">                			
-        <input type="hidden" name="ss" value="">
-        <input type="hidden" name="searchSports[]" value="">
-        <input type="hidden" name="sortBy" value="keyword_count">
-        <input type="hidden" name="sortOrder" value="DESC">
-        <input type="hidden" name="type" value="1">
-        <input name="keyword" type="text" id="top_search_text" onfocus="doClear(this, ' Search')" onblur="noClear(this, ' Search')" value=" Search" size="10" style="font-size: 9pt;">
-            <div id="suggest_fill" class="autocomplete" style="display:none;"></div>
-        <input type="submit" name="submit" value="GO" style="font-size: 9pt;">
-        
-        <a href="/search.php" style="font-size:7pt; font-weight: normal; color: #888e9a;"> ADVANCED </a>                                                                            
-        
-        <script type="text/javascript">
-            new Ajax.Autocompleter('top_search_text', 'suggest_fill', '/ajax/ajax.autofill.php', {paramName: 'suggest', parameters: 'suggest_type=content_videos'});
-        </script>
-    </form>
-
-
-     <div id="slider" style="float: left; display: none;">
-        <ul class="slant2">
-            
-            <li>
-            	<span id="subLinks" class="">
-            		<b class="p1"></b><b class="p2"></b><b class="p3"></b><b class="p4"></b><b class="p5"></b>
-            		<span id="subMenuItems" style="width: 974px; height: 25px;">
-            			<div id="subMenu"></div>
-            		</span>
-            	</span>
-            </li>
-            
-        </ul>
-    </div>
-</div>   
-
-<script type="text/javascript">
-	init_showhide();
 </script>
+<!------ OAS MJX Config Ends ------>
 
+<!--[if IE]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<link rel="stylesheet" href="optimizr/?include/style-iefix.css" type="text/css" /><![endif]-->
+<!--[if lte IE 7]>
+<script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE8.js" type="text/javascript"></script><![endif]-->
 
-</td></tr>
-<tr><td>
-
-
-<!--BODY CONTAINER DIV-->
-<div class="body_container"> 
-
-<!-- LEFT COLUMN -->
-<div style="float: left; width: 120px;">
-        
-        
-<!-- USER / LOGIN BAR -->
-
-<div id="accountLogin">
-	<a href="/shop.php"><img align="absmiddle" src="/images/icon_shop.gif"> 0 Items in Cart </a>
-</div>
-	  
-        
-<!-- TOWER BANNER BENEATH THE USER BAR -->
-<div class="ad_bottomleft">
-    <!--JavaScript Tag // Tag for network 5105: Cold War Collective // Website: bnqt.com // Page: default // Placement: default-left-120 x 600 (336433) // created at: Nov 12, 2008 1:31:02 PM-->
-<script language="javascript"><!--
-document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5105/336433/0/168/ADTECH;loc=100;target=_blank;misc='+new Date().getTime()+'"></scri'+'pt>');
-//-->
-</script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5105/336433/0/168/ADTECH;loc=100;target=_blank;misc=1580500341928"></script><noscript><a href="http://adserver.adtechus.com/adlink/3.0/5105/336433/0/168/ADTECH;loc=300" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5105/336433/0/168/ADTECH;loc=300" border="0" width="120" height="600"></a></noscript>
-<!-- End of JavaScript Tag --></div>
-<!-- TOWER BANNER BENEATH THE USER BAR #2 -->
-<div class="ad_bottomleft_2" style="margin-top: 10px;">
-	
-    </div>
-
-
-
-
-       
-      
-            
-
-</div><!-- LEFT COLUMN CLOSE -->
-<style type="text/css">
-strong {
-text-decoration: underline; 
-line-height: 30px;
-}
-
-p {
-text-indent: 30px;
-margin: 15px 0px;
-}
-
-ul {
-margin: 0px 60px;	
-}
-</style>
+<!--// Google Analytics Start -->
 <script type="text/javascript">
-function insertemails() {
-$('insertJaskeEmail').innerHTML = '<a href="mailto:jaske' + '@' + 'gannett' + '.' + 'com">jaske'+ '@' + 'gannett'+ '.' + 'com</a>';
-}
 
-Event.observe(window,'load', insertemails);
+window._gaq = window._gaq || [];
+
+
+_gaq.push(
+    ['domainTracker1._setAccount', "UA-3632331-1"],
+    ['domainTracker1._trackPageview'],
+    ['domainTracker1._trackPageLoadTime']
+);
+
+_gaq.push(
+    ['domainTracker2._setAccount', "UA-3632331-21"],
+    ['domainTracker2._trackPageview'],
+    ['domainTracker2._trackPageLoadTime']
+);
+
+_gaq.push(
+    ['domainTracker3._setAccount', "UA-11570011-1"],
+    ['domainTracker3._trackPageview'],
+    ['domainTracker3._trackPageLoadTime']
+);
 </script>
+<!--// Google Analytics End -->
 
-<div style="float: right; width: 875px; clear: right; margin: 0px auto;">
-        <div class="body" style="width:865px">
-                <div class="section_title">Privacy Policy</div>
-                <div style="padding:0px 20px;">
 
-                
-<h3>Bnqt.com Privacy Policy</h3><br>
-<br>
-Effective Date: December 1, 2008.<br><br>
-
-<p>
-The following Privacy Policy governs the online information collection practices of <b>bnqt.com</b> (“we” or “us”). Specifically, it outlines the types of information that we gather about you while you are using the bnqt.com website (the “Siterdquo;), and the ways in which we use this information. This Privacy Policy, including our children’s privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail). 
-</p>
-
-<p>Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over privacy, is governed by this Privacy Policy and our 
-<a href="http://www.bnqt.com/legal.php?page=terms">Terms of Service</a>. Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we will post the changes to this Privacy Policy on this website and update the Effective Date of the policy to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified. </p>
-
-<strong>Your California Privacy Rights</strong>
-<p>
-California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to: 
-</p><blockquote>Online Privacy Coordinator<br>
-7950 Jones Branch Drive<br>
-McLean, VA 22107</blockquote>
-<p></p>
-<strong>How We Collect and Use Information</strong>
-<p>
-We may collect and store personal or other information that you voluntarily supply to us online while using the Site (e.g., while on the Site or in responding via email to a feature provided on the Site).</p>
-<p> 
-We also collect and store information that is generated automatically as you navigate online through the Site. For example, we may collect information about your computer’s connection to the Internet, which allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site. We also may use a standard feature found in browser software called a “cookie” to enhance your experience with the Site. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. The Site also may use web beacons (single-pixel graphic files also known as “transparent GIFs”) to access cookies and to count users who visit the Site or open HTML-formatted email messages.</p>
-
-<p>We use the information we collect from you while you are using the Site in a variety of ways, including using the information to customize features and advertising that appear on the Site. We also may provide your information to third parties, such as service providers, contractors, and advertisers, for a variety of purposes. Unless you inform us in accordance with the process described below, we reserve the right to use, and to disclose to third parties, all of the information collected from and about you while you are using the Site in any way and for any purpose, such as to enable us or a third party to provide you with information about products and services. If you do not wish your information to be used for these purposes, you must send a letter to the Online Privacy Coordinator whose address is listed at the end of this Privacy Policy requesting to be taken off any lists of information that may be used for these purposes or that may be given or sold to third-parties. </p>
-
-<p>Please keep in mind that whenever you voluntarily make your personal information available for viewing by third parties online - for example on message boards, web logs, through email, or in chat areas - that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information. </p>
-
-<p>Some of our third-party advertisers and ad servers that place and present advertising on the Site also may collect information from you via cookies, web beacons or similar technologies. These third-party advertisers and ad servers may use the information they collect to help present their advertisements, to help measure and research the advertisements’ effectiveness, or for other purposes. The use and collection of your information by these third-party advertisers and ad servers is governed by the relevant third party’s privacy policy and is not covered by our Privacy Policy. Indeed, the privacy policies of these third-party advertisers and ad servers may be different from ours. If you have any concerns about a third party’s use of cookies or web beacons or use of your information, you should visit that party’s website and review its privacy policy.</p>
-
-<p>The Site may also include links to other websites and provide access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase third-party products or services through the Site, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting or the provider of such products or services. </p>
-
-<p>We also make some content, products and services available through our Site through cooperative relationships with third-party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly, in which cases the privacy policy of our provider partner may apply to the provider partner’s use of your information. The privacy policy of our provider partners may differ from ours. If you have any questions regarding the privacy policy of one of our provider partners, you should contact the provider partner directly for more information. </p>
-
-<p>Be aware that we may occasionally release information about our visitors when release is appropriate to comply with law, to enforce our Terms of Service  agreement, or to protect the rights, property or safety of users of the Site or the public. </p>
-
-<p>Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or one or more of our websites is acquired by another company, information about our users may be among the transferred assets. </p>
-
-<strong>Children’s Privacy Statement</strong>
-
-<p>This children’s privacy statement explains our practices with respect to the online collection and use of personal information from children under the age of thirteen, and provides important information regarding their rights under federal law with respect to such information.</p>
-
-<p>We adhere to the Children’s Online Privacy Protection Act of 1998 and the guidelines of the Children’s Advertising Review Unit (CARU) of the Council of Better Business Bureaus, Inc with respect to each of our websites directed at children. Parents should monitor their children’s online use and instruct their children never to provide personal information on the Site or on any other site without their parent’s permission.</p>
-
-<p>If you are under 18, please be sure to read this Privacy Policy with your parents or legal guardians and ask questions about things you do not understand. Children under 13 must get their parent’s or legal guardian’s permission before giving out their email address or any personal information to us or to anyone else on the Internet.</p>
-
-<p>We do not collect personal information online from children under 13 without consent of a parent or legal guardian except in special, limited circumstances as permitted by law. If a child is under 13 and wants to use the Site to access special features, like scavenger hunts, personalized pages, games or clubs, we might ask that child to “register.” They can often do so anonymously by just providing a user name and password, but sometimes we need a child’s first name and email address. When we ask for a child’s first name, that child is encouraged to use a “screen name” (not their real name) that only they know. Sometimes we will ask a child to make up a special password so that only they can see their customized areas on the Site. We may collect personal information from a child such as a last name, address or email address when the information is necessary for a particular activity, and only with the verifiable consent of that child’s parent. If we need more than just a child’s first name (or screen name) and email address for that child to participate in a particular online activity, we will ask that child for their parent’s email or mailing address so that we can notify the parent of their child’s request and get the parent’s permission. When we ask for the parent’s permission, we will tell the parent what we will do with the information the parent or the child provides us, and we will tell the parent how they can review their child’s information and ask us to delete the information. We do not keep a child’s email address unless the parent tells us it is okay.</p>
-
-<p>We might collect an email address and first name (or screen name) from a child under 13 without their parent’s consent, but only in the following special cases:
-	</p><ul>
-		<li>If a child under 13 sends a request to us, we keep the child’s email address for long enough to respond to them. We delete this information from our system after we 
-			answer the child’s question.</li>
-		<li>If a child under 13 signs up for an email newsletter, or other activity that requires multiple online contact with the child, we also ask the child for a parent’s or legal guardian’s email address so we can notify the child’s parent and give the parent an opportunity to opt out.</li>
-		<li>Occasionally, we have special site activities or promotions like sweepstakes or contests that are open to children even if they are under 13. If a child under 13 signs up for such an activity or promotion, we also ask the child for a parent’s or legal guardian’s email address so we can notify the child’s parent and give the parent an opportunity to opt out.</li>
-	</ul>
-<p></p>
-
-<p>If we need more than an email address and first name (or screen name) to enter a child under 13 in a promotion or allow the child to participate in an activity on the Site, we will notify that child’s parents, explain what information we need and why, and generally ask that parent (not the child) to provide it. For instance, we might ask a parent for their mailing address so that we can send to that parent, for their child, any prizes their child wins, or for a parent’s telephone number so that we can tell that parent when their child has won. Any information a parent or a child gives us in the above special circumstances will be deleted from our database once the promotion, program or activity is concluded, and after any legally required period for keeping such information is complete.</p>
-
-<p>We do not require a child under 13 to disclose more information than is reasonably necessary to participate in a contest, game or other activity as a condition of participation. If a parent no longer wishes their child who is under 13 to participate in an email newsletter, that parent can simply click on the link that is provided for removal or contact us at <span id="\&quot;insertJaskeEmail\&quot;"></span>. </p>
-Upon proper identification, parents or legal guardians may review the personal information we have collected about their child who is under 13, request deletion, or refuse to allow further collection or use of the information. Click <a href="http://cdn.bnqt.com/legal/BNQT_COM_PERSONAL_INFORMATION_REVIEW_ACCESS_REQUEST.DOC">here</a> to print a copy of our Personal Information Review Access Request, fill it out completely and mail it to:<br>
-
-<blockquote>Online Privacy Coordinator<br>
-7950 Jones Branch Drive<br>
-McLean, VA 22107</blockquote>
-
-<p>However, if a parent asks us to delete the information for their child who is under 13, we may have to ask that child not to participate in our activities.</p>
-
-<strong>How To Make Changes to Your Information</strong>
-<p>If you have provided information about yourself on the Site, you may change, modify, and/or delete your information at any time by visiting <a href="\&quot;http://www.bnqt.com\&quot;">bnqt.com</a>. </p>
-
-<strong>Questions Regarding Privacy</strong>
-<p>If you have any questions about this Privacy Policy, our privacy practices, or your dealings with us, you can contact:<br>
-
-</p><blockquote>Online Privacy Coordinator <br>
-7950 Jones Branch Drive<br>
-McLean, VA 22107
-</blockquote><p></p>
-	
-
-                </div>
+<!--// BNQT Media Group Partner Toolbar Start -->
+<script type="text/javascript">
+            var _bTAccountId = 'www.bnqt.com';
+            (function() {
+                            var _bjs = document.createElement('script');
+                            _bjs.async = true;
+                            _bjs.type = 'text/javascript';
+                            _bjs.src = 'http://img.bnqt.com/CMS/assets/toolbar/js/bnqtXToolbar-1.1.js';
+                            var _bss = document.getElementsByTagName('script')[0];
+                            _bss.parentNode.insertBefore(_bjs,_bss);
+            })();
+</script>
+<!--// BNQT Media Group Partner Toolbar End --> 
+</head><body>
+<div id="wrapper">
+    <header id="masthead">
+        <h2><a href="/" title="Home">BNQT Logo</a></h2>
+        <div class="ad" id="OAS_Top"></div>
+        <div class="clearFloats"></div>
+        <nav id="mainMenu">
+            <ul>
+    <li id="mmHome"><a href="/" title="Home">Home</a></li>
+    <li id="mmVideos"><a href="/videos/index.html" title="Videos">Videos</a></li>
+    <li id="mmPhotos"><a href="/photos/index.html" title="Photos">Photos</a></li>
+    <li id="mmBlogs"><a href="/blogs/index.html" title="Blogs">Blogs</a></li>
+    <li id="search">
+        <form action="/search" method="post" id="theSearchForm">
+        <input type="hidden" name="searchIn[]" value="photo_albums">
+        <input type="hidden" name="searchIn[]" value="blogs">
+        <input type="hidden" name="searchIn[]" value="videos">
+        <table>
+            <tbody><tr>
+                <td>
+					<div id="dummyContainer" style="position: relative">
+						<input name="searchField" id="searchField" type="text" value="Search..." onfocus="changeSearchBar(this); return false;" onblur="changeSearchBar(this); return false;">
+						<div id="search_autoComplete" class="autocomplete"></div>
+						<script type="text/javascript">bnqtUtil.initSearchAutoComplete();</script>
+					</div></td>
+                <td><a href="#" id="searchBtn" onclick="$('form#theSearchForm').submit();">Go</a></td>
+            </tr>
+        </tbody></table>
+        </form>
+    </li>
+</ul>        </nav>
+        <!--/nav#mainMenu-->
+        <nav class="filterNav">
+        <ul>
+    <li>Filter<span>&nbsp;</span></li>
+    <li><a href="javascript: void(0);" title="ALL" class="selected">All</a></li>
+    <li><a href="javascript: void(0);" title="BMX">BMX</a></li>
+    <li><a href="javascript: void(0);" title="SURF">Surf</a></li>
+    <li><a href="javascript: void(0);" title="SNOW">Snow</a></li>
+    <li><a href="javascript: void(0);" title="MTB">MTB</a></li>  
+    <li><a href="javascript: void(0);" title="SKI">Ski</a></li>
+    <li><a href="javascript: void(0);" title="RALLY">RALLY</a></li>  
+    <li><a href="javascript: void(0);" title="MOTO">Moto</a></li>   
+    <li><a href="javascript: void(0);" title="SKATE">Skate</a></li>  
+    <li><a href="javascript: void(0);" title="CULTURE">Culture</a></li>
+    <li><a href="/videos/wall" style="color: #AA0303;" title="ALL">Video Wall</a></li>
+</ul>
+<div class="clearFloats"></div>        </nav>
+        <!--/nav#filter-->
+    </header>
+    <!--/header#masthead-->
+<div id="OAS_x02"><div id="Hidden_OAS_x02" style="display: inline;">
+<script type="text/javascript">
+<!--
+OAS_AD('x02');
+//-->
+</script><a href="http://oasc247.bnqt.com/RealMedia/ads/click_nx.ads/bnqt-com/general/1477152940@x02!x02?" target="_blank"><img src="http://oasc247.bnqt.com/RealMedia/ads/adstream_nx.ads/bnqt-com/general/1477152940@x02!x02?" border="0"></a>
+</div></div>
+	<output id="flashmenu"><!--// FLASH MESSAGE //-->
+<!--// FLASH MESSAGE //--></output><!--START INCLUDED CONTENT-->
+<section id="masterContainer" class="privacyPolicy">       
+<section class="leftPanel"> 
+    <article class="box01">
+        <h1>BNQT Privacy Policy</h1>
+        <div class="content">
+            <p style="font-size:10px;">Updated January 3, 2012</p>
+            <p>We take seriously your interest in how your information is collected and used.  Please read the following to learn about our Privacy Notice.</p>
+            <p>This Privacy Notice discloses the privacy practices of this website (the "Site"). Specifically, it outlines the types of information that we gather about you while you are using the Site, and the ways in which we use and share this information. This Privacy Notice does not apply to any information you may provide to us, or that we may collect, offline and/or through other means (for example, at a live event, via telephone, or through the mail).</p>
+            <p>Please read this Privacy Notice carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over our online privacy practices, is governed by this Privacy Notice and our <a href="http://www.bnqt.com/tos" title="Terms of Service">[Terms of Service]</a>. Because the Web is an evolving medium, we may need to change our Privacy Notice at some point in the future, in which case we'll post the revised Privacy Notice on this website and update the "Last Updated" date to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Notice as modified.</p>
+            
+        	<h3>Your California Privacy Rights</h3>
+            <p>California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to:</p>
+            <blockquote>
+                <p>Mark Faris</p>
+                <p>Online Privacy Coordinator</p>
+                <p>BNQT.com</p>
+                <p>Gannett Law Department</p>
+                <p>7950 Jones Branch Drive</p>
+                <p>McLean, VA 22107</p>
+            </blockquote>
+            
+            <h3>How We Collect and Use Information</h3>
+            <p>We may collect and store information, including personally identifiable information (such as your name, postal address or email address) or other information, that you voluntarily supply to us while on our Site. Some examples of this type of information include information that you electronically submit when you contact us with questions, information that you post on blogs, comment areas, discussion forums or other community posting and social networking areas on our Site, and information that you electronically submit when you complete an online registration form to access and use certain features of our Site. We also may ask for information (including a credit card number and other financial information) from those users who make purchases or have payment transactions on our Site. If you decline to supply or provide us with certain information while using the Site, you may not be able to use or participate in some or all of the features offered through the Site.</p>
+            <p>We also collect, through a variety of technologies and practices, and store non-personally identifiable information that is generated automatically as you navigate through the Site. For example, we may collect information about your computer's connection to the Internet, which allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site. We also may use a standard feature found in browser software called a "cookie" to enhance your experience with the Site. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. This Site also may use web beacons (single-pixel graphic files also known as "transparent GIFs") to access cookies and to count users who visit the Site or open HTML-formatted email messages.</p>
+            <p>If you want to limit the non-personally identifiable information that is automatically collected while you use our Site, most Web browsers allow you to disable certain functionality or set certain privacy settings.  For example, to disable cookies using Internet Explorer, select “Internet Options” under the Tools menu and click on “Privacy.”  Select “High” or “Block All Cookies.”  To disable cookies using Mozilla Firefox, select “Options” under the “Tools” menu.  If you choose to disable cookies or turn off other functionality, you may not be able to use or participate in some or all of the features offered through the Site.</p>
+            <p>The information we collect may be collected directly by us, or it may be collected by a third-party website hosting provider, or another third-party service provider, on our behalf.</p>
+            <p>We use the information we collect from you while you are using the Site in a variety of ways, including, for example, to process your registration request, provide you with services and communications that you have requested, send you email updates and other communications, customize features and advertising that appear on the Site, deliver our Site content to you, measure Site traffic, measure user interests and traffic patterns, and improve the Site and the services and features offered via the Site.</p>
+            <p>In addition, we may use any information submitted by or collected from you via the Site for any purpose related to the Site, including to contact you for customer service purposes, to inform you of important changes or additions to our Site or the services offered over our Site, and to send you administrative notices and any other communications that we believe may be of interest to you.</p>
+            <p>We also may provide your information to our affiliates or to third parties, including our third party service providers and contractors, for purposes related to Site administration and other services. For example, if you use a credit or debit card to complete a transaction on our Site, we may share your personal information and credit card number with a credit card processing and/or a fulfillment company in order to complete your transaction, or such service provider(s) may collect that information from you directly, on our behalf.</p>
+            <p>If you do not wish your personally identifiable information to be used or shared for these purposes, send a letter to the Online Privacy Coordinator whose contact information is listed at the end of this Privacy Notice.</p>
+            <p>For information about use of your information by us and by third-party advertising service providers for advertising, see the section “Data Collected in Connection with Ad Serving and Targeting.”</p>
+            <p>Our Site also includes links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase products or services from a third-party, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting or the provider of such products or services.</p>
+            <p>We also make some content, products and services available through our Site through cooperative relationships with third-party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly, in which cases the privacy policy of our provider partner may apply to the provider partner's use of your information. The privacy policy of our provider partners may differ from ours. If you have any questions regarding the privacy policy of one of our provider partners, you should contact the provider partner directly for more information.</p>
+            <p>Please be aware that we may occasionally release information about our visitors if required to do so by law or if, in our business judgment, such disclosure is reasonably necessary: (a) to comply with legal process; (b) to enforce our <a href="http://www.bnqt.com/tos" title="Terms of Service">[Terms of Service]</a>; or (c) to protect the rights, property, or personal safety of our Site, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public.</p>
+            <p>Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or our Site is acquired by another company, information about our Site users may be among the transferred assets.</p>
+            
+            <h3>Data Collected in Connection with Ad Serving and Targeting</h3>
+            <p>We may use cookies, web beacons and similar technologies, and/or a third-party ad serving software, to collect non-personally identifiable information about site users and site activity, and we may use this information to, among other things, serve targeted advertisements on this site. The information collected allows us to analyze how users use the site and to track user interests, trends and patterns, thus allowing us to deliver more relevant advertisements to users.</p>
+            <p>We also may use third-party service providers to target and serve some of the advertisements you see on the pages of our Site, and these providers may use their own cookies, web beacons and similar technologies to collect non-personally identifiable information from our Site. These service providers may use that information, sometimes in conjunction with similar non-personally identifiable information gathered through other websites, to deliver advertisements on this Site, and on other websites that participate in our service providers’ advertising networks, that are tailored to match the perceived interests of consumers. This information also may be used to help measure and research an advertisement’s effectiveness, or for other purposes.The data collected in connection with the ad serving and ad targeting on our Site does not identify you personally and does not include your name, address, email address or telephone number, but it may include the IP address of your computer.</p>
+            <p>The use and collection of information by third-party advertising service providers is governed by the relevant third party’s privacy policy and is not covered by our Privacy Notice. If you would like more information about the information collection practices of a particular service provider, or if you would like more information on how to opt out of a service provider’s information collection practices, please [click here] [Insert hyperlink to “Additional Information About Third-Party Ad Serving” page].</p>
+            
+            <h3>Information You Post to Blogs, Discussion Forums and Other Community Posting or Social Networking Areas</h3>
+            <p>Please keep in mind that whenever you voluntarily make your personal information or other private information available for viewing by third parties online - for example on blogs, comment areas, discussion forums, or other community posting or social networking areas of our Site - that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information.</p>
+            
+            <h3>Children's Privacy Statement </h3>
+            <p>This children's privacy statement explains our practices with respect to the online collection and use of personal information from children under the age of 13, and provides important information regarding their rights under federal law with respect to such information.</p>
+            <ul>
+                <li>This Site is not directed to children under the age of 13 and we do NOT knowingly collect personally identifiable information from children under the age of 13 as part of the Site. We screen users who wish to provide personal information in order to prevent users under the age of 13 from providing such information. If we become aware that we have inadvertently received personally identifiable information from a user under the age of 13 as part of the Site, we will delete such information from our records.</li>
+                <li>Because we do not collect any personally identifiable information from children under the age of 13 via the Site, we also do NOT knowingly distribute such information to third parties.</li>
+                <li>We do NOT knowingly allow children under the age of 13 to publicly post or otherwise distribute personally identifiable contact information through the Site. </li>
+                <li>Because we do not collect any personally identifiable information from children under the age of 13 via the Site, we do NOT condition the participation of a child under 13 in the Site's online activities on providing personally identifiable information.</li>
+            </ul>
+            
+            <h3>How To Make Changes to Your Information</h3>
+            <p>If you are a registered member of our Site, you can make changes to your account information by logging in to the Site and using the account tools available via the Site. If you have subscribed to one or more of our email newsletters, you also may change your subscriber information, modify your subscriptions, and/or unsubscribe from these newsletters at any time by logging in to your account. If you have any questions about modifying your account or preference information, please contact us.</p>
+            
+            <h3>Storage of Information</h3>
+            <p>All information we gather on our Site is stored within a database to which only we and our hosting services provider are provided access. However, as effective as the reasonable security measures implemented by us may be, no physical or electronic security system is impenetrable. We cannot guarantee the security of our Site’s servers or databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet.</p>
+            
+            <h3>Questions Regarding Privacy</h3>
+            <p>If you have any questions about this Privacy Notice, our privacy practices, or your dealings with us, you can contact:</p>
+            <blockquote>
+                <p>Mark Faris</p>
+                <p>Online Privacy Coordinator</p>
+                <p>BNQT.com</p>
+                <p>Gannett Law Department</p>
+                <p>7950 Jones Branch Drive</p>
+                <p>McLean, VA 22107</p>    
+            </blockquote>
+            
         </div>
-</div>
-	
-</div>
+        <!--/.content-->
+    </article>
+    <!--/article.box01-->
+</section>
+<!--/section.leftPanel-->
 
-</td></tr>
-<tr><td colspan="2" class="footer_container">
+
+<aside class="rightPanel">
+<div class="ad02" id="OAS_middle">
+</div> 
+
+</aside>
+<!--/.rightPanel-->
+<div class="clearFloats"></div><!--END INCLUDED CONTENT--><div class="ad" id="OAS_Bottom"></div>
+        
+
+<div class="clearFloats"></div>
+
+    </section>
+    <!--/section#masterContainer-->
 
 
-    <!-- AD TECH BOTTOM 728x90 --> 
 
-    <div class="ad_bottom">
-	<!--JavaScript Tag // Tag for network 5105: Cold War Collective // Website: bnqt.com // Page: Homepage // Placement: BottomB728x90 (69738) // created at: May 4, 2009 5:50:43 PM-->
-<!--
-<script language="javascript">
-
-if (window.adgroupid == undefined) {
-	window.adgroupid = Math.round(Math.random() * 1000);
-}
-document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn|3.0|5105|69738|0|225|ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
-
-</script><noscript><a href="http://adserver.adtechus.com/adlink|3.0|5105|69738|0|225|ADTECH;loc=300;key=key1+key2+key3+key4" target="_blank"><img src="http://adserver.adtechus.com/adserv|3.0|5105|69738|0|225|ADTECH;loc=300;key=key1+key2+key3+key4" border="0" width="728" height="90"></a></noscript>
-
---></div>  
-    
-    <div id="pageBottom">
-        <p>
-        <a href="/legal.php?page=privacy">Privacy Policy/Your California Privacy Rights</a> |
-        <a href="/legal.php?page=terms">Terms of Use</a> |
-        <a href="http://cdn.bnqt.com/legal/BNQT_MediaKit_FINAL.pdf" target="_BLANK" onclick="javascript: pageTracker1._trackPageview('BNQT_MediaKit_FINAL.pdf'); pageTracker2._trackPageview('BNQT_MediaKit_FINAL.pdf');">Advertising</a> |
-        <a href="/faq.php">FAQ</a> |
-        <a href="/contact.php">Contact Us</a>
-        </p>
+	<footer id="masterFooter">
+        <nav id="footer">
+    <dl class="dataList">
+        <dt><strong>content</strong></dt>
+        <dd><a href="http://www.bnqt.com/" title="Home">Home</a></dd>
+        <dd><a href="http://www.bnqt.com/videos/index.html" title="Videos">Videos</a></dd>
+        <dd><a href="http://www.bnqt.com/photos/index.html" title="Photos">Photos</a></dd>
+        <dd><a href="http://www.bnqt.com/blogs/index.html" title="Blogs">Blogs</a></dd>
+    </dl>
+    <!--/.dataList-->
+     <dl class="dataList">
+        <dt><strong>Learn More</strong></dt>
+        <dd><a href="http://bnqtmediagroup.com" target="_blank" title="About BNQT">About BNQT</a></dd>
+        <dd><a href="http://www.bnqt.com/jobs" target="_blank" title="Jobs">Jobs</a></dd>
+        <dd><a href="http://www.bnqt.com/tos" title="Terms &amp; Contitions">Terms &amp; Conditions</a></dd>
+        <dd><a href="http://www.bnqt.com/privacy_policy" title="Privacy Policy">Privacy Policy</a></dd>
+            </dl>
+    <!--/.dataList-->
+    <div class="clearFloats"></div>
+</nav>  
+<!--/nav#footer-->
+<div id="networkBar">
+	<div id="corpInfo" class="floatLeft">
+    	<a href="http://bnqtmediagroup.com/" title="BNQT Media Group" target="_blank" id="logo_bmg"></a>
+        <a href="http://bnqtmediagroup.com/" target="_blank">For Advertisers</a>
+        <a href="http://bnqtmediagroup.com/publishers/" target="_blank">For Publishers</a>
+        <a href="mailto:jasonford@usatoday.com?subject=BNQT%20Media%20Group%20Media%20Kit" target="_blank">Request a Media Kit</a>
     </div>
-	
+    <!--/corpInfo-->
+    
+        
+        <dl class="floatLeft">
+    	<dt>Lifestyle</dt>
+                <dd><a href="http://n-sb.org" target="_blank" rel="nofollow">N-SB.org</a></dd>
+                <dd><a href="http://flightclub.com" target="_blank" rel="nofollow">Flightclub.com</a></dd>
+                <dd><a href="http://booooooom.com" target="_blank" rel="nofollow">Booooooom.com</a></dd>
+                <dd><a href="http://thecoolist.com" target="_blank" rel="nofollow">TheCoolist.com</a></dd>
+            </dl>
+        <dl class="floatLeft">
+    	<dt>Surf</dt>
+                <dd><a href="http://surfline.com" target="_blank" rel="nofollow">Surfline.com</a></dd>
+                <dd><a href="http://surf.solspot.com" target="_blank" rel="nofollow">Surf.solspot.com</a></dd>
+                <dd><a href="http://swellinfo.com" target="_blank" rel="nofollow">SwellInfo.com</a></dd>
+                <dd><a href="http://surfshot.com" target="_blank" rel="nofollow">SurfShot.com</a></dd>
+            </dl>
+        <dl class="floatLeft">
+    	<dt>Skate/Snow</dt>
+                <dd><a href="http://thrashermagazine.com" target="_blank" rel="nofollow">ThrasherMag.com</a></dd>
+                <dd><a href="http://slapmagazine.com" target="_blank" rel="nofollow">SlapMagazine.com</a></dd>
+                <dd><a href="http://tetongravity.com" target="_blank" rel="nofollow">TetonGravity.com</a></dd>
+                <dd><a href="http://snowboardmag.com" target="_blank" rel="nofollow">Snowboardmag.com</a></dd>
+            </dl>
+        <dl class="floatLeft">
+    	<dt>Moto/BMX</dt>
+                <dd><a href="http://racerxonline.com" target="_blank" rel="nofollow">RacerXonline.com</a></dd>
+                <dd><a href="http://roadracerx.com" target="_blank" rel="nofollow">RoadRacerX.com</a></dd>
+                <dd><a href="http://thecomeupbmx.net" target="_blank" rel="nofollow">TheComeUpBMX.net</a></dd>
+                <dd><a href="http://defgrip.net" target="_blank" rel="nofollow">DefGrip.net</a></dd>
+            </dl>
+        <dl class="floatLeft">
+    	<dt>Multisport</dt>
+                <dd><a href="http://backcountry.com" target="_blank" rel="nofollow">Backcountry.com</a></dd>
+                <dd><a href="http://extreme.com" target="_blank" rel="nofollow">Extreme.com</a></dd>
+                <dd><a href="http://malakye.com" target="_blank" rel="nofollow">Malakye.com</a></dd>
+                <dd><a href="http://bnqt.com" target="_blank">BNQT.com</a></dd>
+            </dl>
+        <dl class="floatLeft">
+    	<dt>MMA</dt>
+                <dd><a href="http://ufc.com" target="_blank" rel="nofollow">UFC.com</a></dd>
+                <dd><a href="http://mmaconvert.com" target="_blank" rel="nofollow">MMAconvert.com</a></dd>
+                <dd><a href="http://mmajunkie.com" target="_blank" rel="nofollow">MMAJunkie.com</a></dd>
+                <dd><a href="http://mmafrenzy.com" target="_blank" rel="nofollow">MMAfrenzy.com</a></dd>
+            </dl>
+        <dl class="floatLeft">
+    	<dt>Adventure</dt>
+                <dd><a href="http://venturethere.com" target="_blank">VentureThere.com</a></dd>
+                <dd><a href="http://alpinist.com" target="_blank" rel="nofollow">Alpinist.com</a></dd>
+                <dd><a href="http://trailspace.com" target="_blank" rel="nofollow">TrailSpace.com</a></dd>
+                <dd><a href="http://nsmb.com" target="_blank" rel="nofollow">NSMB.com</a></dd>
+            </dl>
+        
+    <div class="clearFloats"></div>
+    
+    <p id="copy">© 2011 BNQT Media Group / USA Today Sports</p>
+</div>
+<!--/#networkBar-->    </footer>
+    <!--/footer#masterFooter-->
+</div>
+<!--/wrapper-->
+<div id="OAS_x01"></div>
 
-</td></tr>
-</tbody></table>
-
-
-
-
-<!-- End of JavaScript Tag -->
+<!--// Google Analytics Start -->
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker1 = _gat._getTracker("UA-1395637-1");
-pageTracker1._initData();
-pageTracker1._trackPageview();
 
-var pageTracker2 = _gat._getTracker("UA-3632331-1");
-pageTracker2._initData();
-pageTracker2._trackPageview();
+window._gaq = window._gaq || [];
+
+
+_gaq.push(
+    ['domainTracker1._setAccount', "UA-3632331-1"],
+    ['domainTracker1._trackPageview'],
+    ['domainTracker1._trackPageLoadTime']
+);
+
+_gaq.push(
+    ['domainTracker2._setAccount', "UA-3632331-21"],
+    ['domainTracker2._trackPageview'],
+    ['domainTracker2._trackPageLoadTime']
+);
+
+_gaq.push(
+    ['domainTracker3._setAccount', "UA-11570011-1"],
+    ['domainTracker3._trackPageview'],
+    ['domainTracker3._trackPageLoadTime']
+);
+</script>
+<!--// Google Analytics End -->
+
+<script type="text/javascript" src="/js/oas/default.js"></script><script type="text/javascript" src="http://oasc247.bnqt.com/RealMedia/ads/adstream_mjx.ads/bnqt-com/general/1477152940@x02?"></script>
+<!-- OAS MJX x02 Ad Calls Begin -->
+
+<!-- OAS MJX Footer Ad Calls End -->
+<script type="text/javascript">
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = "http://www.google-analytics.com/ga.js";
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+
 </script>
 
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-1buSqyiYpOdiQ"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-1buSqyiYpOdiQ.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
 
 
+<!-- Begin comScore Tag -->
+<script>
+    document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+</script><script src="https://sb.scorecardresearch.com/beacon.js"></script>
 
-<!--// TL-0.0174479484558 //-->
+<script>
+  COMSCORE.beacon({
+    c1:2,
+    c2:6035223,
+    c3:"",
+    c4:"",
+    c5:"",
+    c6:"",
+    c15:""
+  });
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035223&c3=&c4=&c5=&c6=&c15=&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
 </body></html>
