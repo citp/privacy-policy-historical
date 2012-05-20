@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the iskoot.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118021431id_/http%3A//www.iskoot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iskoot.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520190245id_/http%3A//iskoot.com/privacy) for the most accurate reproduction.*
 
 # » Privacy Statement
 
-We respect your privacy. This policy explains the accepted privacy practices for our services including the iSkoot for Skype, the iSkoot web notification service, and iSkoot’s website at: www.iskoot.com (the “Website” and collectively: the “Services”). It describes the ways we collect and use your personal information and your rights with respect to our privacy practices.
+This policy explains our privacy practices for our services that link to this policy including the iSkoot web notification service, and iSkoot’s website at: www.iskoot.com (the “Website” and collectively: the “Services”). It describes the ways we collect and use your personal information and your rights with respect to our privacy practices. The Services are provided by Qualcomm iSkoot, Inc., a company headquartered in California, U.S.A. (“we”, “us”, and “our”).
 
-THE SERVICES ARE NOT INTENDED FOR USE BY PERSONS UNDER THE AGE OF 13. IF YOU ARE UNDER 13 YEARS OLD, YOU MUST NOT USE THE SERVICES, OR PROVIDE US WITH ANY OF YOUR PERSONALLY IDENTIFIABLE INFORMATION.
+THE SERVICES ARE NOT INTENDED FOR USE BY PERSONS UNDER THE AGE OF 14. IF YOU ARE UNDER 14 YEARS OLD, YOU MUST NOT USE THE SERVICES, OR PROVIDE US WITH ANY OF YOUR PERSONALLY IDENTIFIABLE INFORMATION.
 
-IF YOU ARE A RESIDENT IN ONE OF THE MEMBER STATES OF THE EUROPEAN UNION, YOU AGREE THAT ISKOOT MAY COLLECT AND PROCESS PERSONAL INFORMATION PERTAINING TO YOU UNDER THE TERMS OF THIS PRIVACY POLICY. ISKOOT WILL PROCESS SUCH INFORMATION ON COMPUTER-SERVERS THAT ARE LOCATED OUTSIDE OF THE EUROPEAN UNION FOR THE PURPOSES DESCRIBED IN THIS PRIVACY POLICY. YOU ARE UNDER NO OBLIGATION TO CONSENT TO THE TERMS OF THIS PRIVACY POLICY. HOWEVER, YOU WILL NOT BE ABLE TO USE ISKOOT’S SERVICES, IF YOU DO NOT PROVIDE YOUR CONSENT.
+#### US Safe Harbor Registration:
+
+The United States Department of Commerce has agreed with the European Commission and the government of Switzerland on a set of data protection principles and frequently asked questions to enable U.S. companies to satisfy the requirements under European Union law and Swiss law that adequate protection be given to personal information transferred from the European Economic Area (“EEA”) and/or Switzerland to the United States (collectively the “Safe Harbor”). The EEA and Switzerland also have recognized the Safe Harbor as providing adequate data protection. Consistent with its commitment to protect personal privacy, iSkoot adheres to the principles set forth in the Safe Harbor.
 
 #### Personally identifiable Information that we may collect:
 
@@ -31,7 +33,7 @@ We may use personally identifiable information for the following purposes:
   * to handle inquiries and complaints;
   * to send you updates, notices, upgrades and new releases;
   * to provide you with information relating to the Services;
-  * to provide you with further marketing and advertising material, subject to your prior indication of consent At any time you may opt out of our mailing lists, by contacting us at the ‘Contact us’ page on the Website. In any case, we will not share your personally identifiable information with any advertisers, without your explicit consent;
+  * to provide you with further marketing and advertising material, subject to your prior indication of consent. At any time you may opt out of our mailing lists, by contacting us at the ‘Contact us’ page on the Website. In any case, we will not share your personally identifiable information with any advertisers, without your explicit consent;
   * to facilitate communication between you and us, and between you and others;
   * to enforce our Services’ end user license agreements;
   * to contact you when we believe it to be necessary;
@@ -44,9 +46,7 @@ We may use personally identifiable information for the following purposes:
 
 #### The information we share with others
 
-We do not sell, rent or lease your personally identifiable information to third parties for any of their marketing purposes.
-
-We may share personally identifiable information with others in any of the following instances, or subject to your explicit consent:
+We do not sell, rent or lease your personally identifiable information to third parties for any of their marketing purposes. We may share personally identifiable information with others in any of the following instances, or subject to your explicit consent:
 
   * We will share your information with our business partners to the extent necessary to facilitate your use of the Services and the functionality of the Services;
   * If we reasonably believe that you have breached one of the Services’ end user license agreements, or abused your rights to use any of the Services, or performed any act or omission that we reasonably believe to be violating any applicable law, rules, or regulations. We may share your information in these cases with law enforcement officials, with other competent authorities and with any third party as may be required to handle the results of your wrongdoing;
@@ -68,21 +68,29 @@ We may also use anonymous, statistical or aggregated information to properly ope
 
 #### Accessing your personal account
 
-At any time, you may contact us at: [support@iskoot.com](mailto:support@iskoot.com) and request to edit, or amend your personal information. Please keep in mind that providing false, incorrect, incomplete, or out dated information may prevent you from registering with or using the Services, and/or may impair our ability to provide you with the Services.
+At any time, you may contact us at: [support@iskoot.com](mailto:support@iskoot.com) and request to edit, correct, or amend your personal information. Please keep in mind that providing false, incorrect, incomplete, or out dated information may prevent you from registering with or using the Services, and/or may impair our ability to provide you with the Services.
 
 #### Data retention
 
-At any time, we may review, retain and disclose any information as we deem necessary to satisfy any applicable law, regulation, legal process or governmental request, as well as our internal needs. However, by doing so we do not either expressly or impliedly endorse, affirm or in any manner assume any responsibility for such information.
+We retain your personal information as necessary to provide our Services as well as support our internal needs. However, by doing so we do not either expressly or impliedly endorse, affirm or in any manner assume any responsibility for such information. If you would like us to delete your personal information from your account, see the section “Deletion of information” below.
 
 #### Deletion of information
 
-If you wish to delete your personally identifiable information that is stored in our databases, please use the ‘Contact us’ page on the Website. We will inform you whether your request has been accepted, and may refuse to comply with your request, for example, if we believe that deleting certain information might prevent maintaining necessary contact with you, or jeopardize certain activities of the Services, or harm other users. In any case, we may keep any aggregated or anonymized information for statistical, marketing and other purposes.
+If you wish to delete your personally identifiable information that is stored in our databases, please use the ‘Contact us’ page on the Website. We will remove the personal information we have about you from our publicly viewable database within a reasonable time but we may retain personal information about you in our non-public databases for a reasonable period of time to support our operational requirements (for example only, reconciling your transactions). Notwithstanding the foregoing, there may be circumstances where we are legally required to retain the information we collect about you (for example, in connection with court proceedings) and despite your request for us to delete your personal information, we will retain what we are legally required to keep. Moreover, we reserve the right to make anonymous the personal information so that it is no longer associated with you rather than deleting it. We also reserve the right to use previously obtained personal information to verify your identity or take other actions that we believe are appropriate. If you close your account, we have no obligation to retain your personal information, and may delete any or all of your personal information without liability.
 
 #### Information security
 
 We implement information security systems and procedures to secure the information stored on our servers. Such systems and procedures reduce the risk of security breaches, but they do not provide absolute security. Therefore, we cannot guarantee that our services are immune to unauthorized access to the information stored therein and to other information-security risks.
 
 We do not warrant that your personal information will be stored for the required durations, or that your personal information will not be retrieved after being deleted.
+
+#### Children
+
+Our Services are intended for general audiences and are not directed to children under 14. We do not knowingly collect personal information from children under 14. If you become aware that your child has provided us with personal information without your consent, please contact us as set forth in the section “Contact Us” below. If we become aware that a child under 14 has provided us with personal information without parental consent, we will take steps to remove such information and terminate the child’s account.
+
+#### Safe Harbor Dispute Resolution
+
+We participate in the EU and Swiss Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. As part of our participation in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet here, fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., click for mailing address. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, click here or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with data Protection Authorities.
 
 #### Changes to this Privacy Policy
 
@@ -92,6 +100,6 @@ Continuing to use the Services will indicate your consent to the amended policy.
 
 #### Contact us
 
-You are welcome to contact us with requests, comments and questions at the [Contact us](https://web.archive.org/contact) page on the Website.
+You are welcome to contact us with requests, comments and questions at the Contact us page on the Website write to us at Qualcomm iSkoot, Inc., Attn: Legal Department, 5775 Morehouse Drive, San Diego, CA 92121.
 
-Last update: May, 2010
+Last update: November, 2011
