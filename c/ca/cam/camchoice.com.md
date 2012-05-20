@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camchoice.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120191317id_/http%3A//www.camchoice.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camchoice.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520144939id_/http%3A//www.camchoice.com/privacy.htm) for the most accurate reproduction.*
 
 # Camchoice - Privacy
 
@@ -37,4 +37,4 @@ Security**
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.   
 **  
 Choice/Opt-Out**  
-Our site provides users the opportunity to opt-out of receiving promotional/marketing information from our partners, and us . You can visit the following URL: <http://www.camchoice.com/cgi-bin/pseek/mlist.cgi> You can remove yourself from each service we offer as explained in each of the services. 
+Our site provides users the opportunity to opt-out of receiving promotional/marketing information from our partners, and us. You can remove yourself from each service we offer as explained in each of the services. 
