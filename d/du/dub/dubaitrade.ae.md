@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dubaitrade.ae privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119172423id_/http%3A//pilot.dubaitrade.ae/portal/common/PrivacyMain.jsp%3Flang_code%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubaitrade.ae privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520095929id_/http%3A//pilot.dubaitrade.ae/portal/common/PrivacyMain.jsp%3Flang_code%3Den) for the most accurate reproduction.*
 
 # About Dubai Trade
 
