@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vision-net.ie privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121210312id_/http%3A//www.vision-net.ie/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vision-net.ie privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520145210id_/http%3A//www.vision-net.ie/privacy.jsp) for the most accurate reproduction.*
 
 # Data Protection and Privacy - Vision-Net - Irish Company Information, Irish Business Info And UK Company Info
 
@@ -10,10 +10,18 @@ All information gathered by the use of the website will be stored and used with 
 
 Vision-net.ie and/or it's sister companies may wish to send you information about its services. If you do not wish to receive any such information, you should email us at [privacy@vision-net.ie](mailto:%20privacy@vision-net.ie) advising us you do not wish to receive such information.
 
-## Personal Data Right of Access
+  
+
+
+### Personal Data Right of Access  
+
 
 Under Section 4 of the Data Protection Acts 1988 and 2003 you have a right to get a copy of the personal data, which we have relating to you. An access request should be in writing (e-mail or written letter accepted) addressed to VisionNet Limited, 22 Northumberland Road, Ballsbridge, Dublin 4. Applications must be sent with proof of identity such as a passport copy or driving license. We will also require applications to include any personal data, which relates to our company, such as your Username or password. We will do our best to ensure that your request is dealt with within 28 days of receipt of application. A charge of €6.35 will be payable on all data requests. This is a payable in advance and should accompany your initial data request.
 
-## Company Data Right of Access
+  
+
+
+### Company Data Right of Access  
+
 
 Information supplied to CRO pursuant to the Companies Acts and the Registration of Business Names Act do not come within the Data Protection Acts 1998-2003, being "personal data consisting of information that the person keeping the data is required by law to make available to the public". Such data therefore falls outside the Terms of this Privacy Statement. Examples of information which does not fall under the Right of Access would be, Directors Appointment, or change in particulars of Details, and or the Registration of a Business or Company Name.
