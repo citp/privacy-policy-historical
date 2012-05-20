@@ -1,10 +1,33 @@
-> *The following text is extracted and transformed from the rockwelltrading.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202171243id_/http%3A//www.rockwelltrading.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockwelltrading.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520210442id_/http%3A//www.rockwelltrading.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Rockwell Trading
 
-If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+We respect your privacy and appreciate the confidence you have placed in Rockwell Trading Services LLC as your primary source of day trading education. We are committed to protecting your privacy and preserving your trust.
 
-**How do we protect your information?**
+**What information do we collect?** We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
+
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. **What do we use your information for?**
+
+Any of the information we collect from you may be used in one of the following ways:
+
+• To personalize your experience  
+(your information helps us to better respond to your individual needs)
+
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
+
+• To process transactions
+
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+
+• To send periodic emails
+
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+
+If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. **How do we protect your information?**
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order
 
@@ -40,7 +63,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.rockwelltrading.com](https://web.archive.org/web/20111202171243id_/http%3A/undefined/?phpMyAdmin=hkTBRvk3WYkEW3COynF%2CVmWtNL0)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.rockwelltrading.com](https://web.archive.org/)
 
 **Your Consent**
 
@@ -57,3 +80,10 @@ This policy was last modified on June 1st, 2010
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 Rockwell Trading Services LLC
+
+13033 Pond Springs Road, Suite 201  
+Austin, TX 78729  
+United States of America  
+[Email:    
+](mailto:%73%75%70%70%6f%72%74%40%72%6f%63%6b%77%65%6c%6c%74%72%61%64%69%6e%67%2e%63%6f%6d)[support@rockwelltrading.com](mailto:support@rockwelltrading.com)866-467-0747  
+ 
