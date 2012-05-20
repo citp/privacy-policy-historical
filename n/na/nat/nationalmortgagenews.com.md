@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nationalmortgagenews.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119142003id_/http%3A//www.nationalmortgagenews.com/aboutus/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalmortgagenews.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520155129id_/http%3A//www.nationalmortgagenews.com/aboutus/privacy_policy.html) for the most accurate reproduction.*
 
 # National Mortgage News - Privacy Policy
 
-### Privacy Policy
+#### Privacy Policy
 
 This Privacy Policy covers the websites of the Mortgage Group of SourceMedia Inc.: NationalMortgageNews.com, BrokerUniverse.com, WeirdLoans.com, Mortgage-Technology.com, OriginationNews.com, MortgageServicingNews.com and BrokerMagazine.com, as well as the accompanying e-newsletters.
 
