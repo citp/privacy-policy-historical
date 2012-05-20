@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panasianbiz.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120074217id_/http%3A//www.panasianbiz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panasianbiz.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520041308id_/http%3A//www.panasianbiz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PanAsianBiz
 
@@ -6,9 +6,9 @@ This is the web site of **CosmoFairNetwork**.
 
 Our postal address is
 
- **111 W. Arques Ave**
+**111 W. Arques Ave**
 
- **Sunnyvale, CA 94085**
+**Sunnyvale, CA 94085**
 
 We can be reached via e-mail at [wcbelew@hotmail.com](mailto:wcbelew@hotmail.com)
 
