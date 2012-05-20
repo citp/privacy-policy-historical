@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the teagasc.ie privacy policy that was archived on 2011-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111121125023id_/http%3A//www.teagasc.ie/aboutus/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the teagasc.ie privacy policy that was archived on 2012-05-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120520151712id_/http%3A//www.teagasc.ie/aboutus/privacy.asp) for the most accurate reproduction.-->
 
 <html><!-- #BeginTemplate "../Templates/sub_page_template.dwt" --><head>
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-<meta name="GENERATOR" content="Microsoft FrontPage 6.0">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="GENERATOR" content="Microsoft FrontPage 12.0">
 <meta name="ProgId" content="FrontPage.Editor.Document">
 <meta name="viewport" content="width=device-width; initial-scale=1.0;">
 <!-- #BeginEditable "doctitle" -->
@@ -48,17 +48,33 @@
 <div id="m_logo"><a href="/m.asp"><img border="0" src="/images/m/m_logo.gif" alt="Teagasc logo" width="200" height="70"></a></div>
 
 <div id="contain">
-	<div id="accessMenu"><a href="#content" title="Skip navigation; Skip to content; Access key: s" accesskey="s">Skip navigation</a> <a href="http://www.teagasc.ie/aboutus/accesskeys.asp" title="Access keys documentation page; Access key: 0" accesskey="0">Access keys documentation page</a> <a href="http://www.teagasc.ie/advanced_search.asp" title="Search; Access key: 4" accesskey="4">Search</a> <a href="http://www.agresearch.teagasc.ie" title="Agriculture Research; Access key: f" accesskey="r">Agriculture Research</a> <a href="http://www.teagasc.ie/food/research/" title="Food Research; Access key: o" accesskey="o">Food Research</a></div>
+	<div id="accessMenu"><a href="#content" title="Skip navigation; Skip to content; Access key: s" accesskey="s">
+		Skip navigation</a> <a href="http://www.teagasc.ie/aboutus/accesskeys.asp" title="Access keys documentation page; Access key: 0" accesskey="0">
+		Access keys documentation page</a> <a href="http://www.teagasc.ie/advanced_search.asp" title="Search; Access key: 4" accesskey="4">
+		Search</a> <a href="http://www.agresearch.teagasc.ie" title="Agriculture Research; Access key: f" accesskey="r">
+		Agriculture Research</a> <a href="http://www.teagasc.ie/food/research/" title="Food Research; Access key: o" accesskey="o">
+		Food Research</a></div>
 
 	<div id="main_body">
 	
 		<div id="header">			
-						<script language="javascript">
+						<script language="javascript" type="text/javascript">
 			function browse_topic(f) {
 				if (f.bbt.value != "-1") {
 					window.location = f.bbt.value;
 				}
 			}
+			
+			function submit_search() {
+				var searchWord;
+				if(document.dtSearchForm.request.value=='Enter Keyword(s)' )
+					searchWord='';
+				else
+					searchWord = document.dtSearchForm.request.value;
+				document.dtSearchForm.action = "/search/Default.aspx?searchVal=" + searchWord;
+				document.dtSearchForm.submit();
+			}
+
 			</script>
 
 			<!-- start logo -->
@@ -103,7 +119,7 @@
 						<option value="/pigs/">--- Pigs</option>
 						<option value="/topics/animalgrassland/sheep.asp">--- Sheep</option>
 						<option value="/topics/cropsenvland/">Crops, Environment &amp; Land Use</option>
-						<option value="/topics/cropsenvland/energy.asp">--- Bio-energy</option>
+						<option value="/energy/">--- Energy</option>
 						<option value="/crops/">--- Cereals</option>
 						<option value="/topics/cropsenvland/environment.asp">--- Environment</option>
 						<option value="/forestry/">--- Forestry</option>
@@ -135,7 +151,7 @@
 			<div class="col_310a">
 				<form id="dtSearchForm" name="dtSearchForm" action="/search/Default.aspx" method="POST" class="frmHome" onsubmit="javascript:submit_search()">
 					<span class="searchTxt">SEARCH:</span>
-					<input id="SearchRequest" class="SearchControl" type="edit" name="request" size="40" maxlength="200" align="middle" value="Enter Keyword(s)" onfocus="if(this.value=='Enter Keyword(s)')this.value='';" onblur="if(this.value=='')this.value='Enter Keyword(s)';">
+					<input id="SearchRequest" class="SearchControl" type="text" name="request" size="40" maxlength="200" align="middle" value="Enter Keyword(s)" onfocus="if(this.value=='Enter Keyword(s)')this.value='';" onblur="if(this.value=='')this.value='Enter Keyword(s)';">
 					&nbsp;
 					<input type="submit" value="GO" class="btn" onclick="javascript:submit_search()">
 				</form>
@@ -169,9 +185,12 @@
 		
 		<div id="navigation">
 			<ul>
-				<li id="nav_research"><a href="/research/" title="Research &amp; Innovation" accesskey="8">Research &amp; Innovation</a></li>
-				<li id="nav_knowledge"><a href="/advisory/" title="Knowledge Transfer" accesskey="9">Knowledge Transfer</a></li>
-				<li id="nav_education"><a href="/training/" title="Education &amp; Training" accesskey="t">Education &amp; Training</a></li>
+				<li id="nav_research"><a href="/research/" title="Research &amp; Innovation" accesskey="8">
+				Research &amp; Innovation</a></li>
+				<li id="nav_knowledge"><a href="/advisory/" title="Knowledge Transfer" accesskey="9">
+				Knowledge Transfer</a></li>
+				<li id="nav_education"><a href="/training/" title="Education &amp; Training" accesskey="t">
+				Education &amp; Training</a></li>
 			</ul>
 		</div>
 		
@@ -250,7 +269,8 @@
 				contact us at:</p>
               <p>Teagasc,<br>Oak Park,<br>Carlow<br>Ph: 059 9170200<br>Fax: 059 
 				9182097</p>
-              <p>Email: <a href="mailto:info@teagasc.ie">info@teagasc.ie</a>
+              <p>Email: <a href="mailto:info@teagasc.ie">
+				info@teagasc.ie</a>
               </p>
             </div>
 
@@ -276,6 +296,7 @@
 				<li><a href="/aboutus/accesskeys.asp">Access Keys</a></li>
 				<li><a href="/aboutus/access_officer.asp">Access Officer</a></li>
 				<li><a href="/aboutus/privacy.asp">Privacy Statement</a></li>
+				<li><a href="/aboutus/prompt_payment_data.asp">Prompt Payment Data</a></li>
 				<li><a href="/Foresight/">Teagasc 2030</a></li>
 			</ul>	
 		</li>
