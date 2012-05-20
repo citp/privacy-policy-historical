@@ -1,25 +1,26 @@
-<!--The following is the downloaded HTML source of the rateit.com privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231165150id_/http%3A//rateit.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rateit.com privacy policy that was archived on 2012-05-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120520045802id_/http%3A//www.rateit.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta http-equiv="X-UA-Compatible" content="IE=8">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Local Business Ratings, Reviews, Directory &amp; Yellow Pages | RateIt</title><link href="/wp-content/themes/rateit/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
-<link href="/wp-content/themes/rateit/include/am_products.css" rel="stylesheet" type="text/css">
-<link href="/wp-content/themes/rateit/css/styles.css" rel="stylesheet" type="text/css">
-<link href="/wp-content/themes/rateit/css/wordpress.css" rel="stylesheet" type="text/css">
+<title>Local Business Ratings, Reviews, Directory &amp; Yellow Pages | RateIt</title><link href="/css/backend.css" rel="stylesheet" type="text/css">
+<link href="/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
+<link href="/include/am_products.css" rel="stylesheet" type="text/css">
+<link href="/css/styles.css" rel="stylesheet" type="text/css">
+<link href="/css/wordpress.css" rel="stylesheet" type="text/css">
 
 <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">
-var siteUrl='/wp-content/themes/rateit';
+var siteUrl='';
 </script>
-<script src="/wp-content/themes/rateit/js/jquery-latest.js"></script>
+<script src="/js/jquery-latest.js"></script>
 <script language="javascript">
 function submitForm()
 {
 	reWhiteSpace = new RegExp(/^\s+$/);
 	var keywords = jQuery('#headerSearchTerm').val();
-	if(keywords=='') {
-		keywords = jQuery('#headerSearchTerm').val();
+	if(keywords == "" || keywords == "eg. Business, Brand or Service") {
+		keywords = jQuery('#footerSearchTerm').val();
 	}
 
 	var location = jQuery('#headerSearchLocation').val();
@@ -68,7 +69,7 @@ function submitForm()
 			<form onsubmit="submitForm();return false">
 				<h1 class="logo"><a href="/">RateIt</a></h1>
 				<p class="login">
-										<a class="loginLink" id="modal_login" href="javascript:void();">Login</a>
+										<a class="loginLink" id="modal_login2" href="/login.php">Login</a>
 										</p><div style="width:44px;right:20px;top:34px;position:absolute">
 					<span class="followLabel">Follow</span>
 					<a class="facebook" href="http://www.facebook.com/pages/RateIt/185196514848955">Facebook</a>
@@ -94,76 +95,17 @@ function submitForm()
 				<li class="navColorYellow"><a href="/shopping/">Shopping</a><i></i></li>
 				<li class="navColorOrange"><a href="/hotels/">Hotels</a><i></i></li>
 				<li class="navColorPurple"><a href="/bars-clubs/">Bars &amp; Clubs</a><i></i></li>
-				<li class="navColorGray"><a href="/profile/">Profile</a><i></i></li>
+				<li class="navColorGray"><a href="/login.php">Profile</a><i></i></li>
 				<li class="" id="menu-item-more"><a href="javascript:void();">More</a><i></i></li>
 			</ul>
 		</div>
 
 		<h4 class="registerWrapper">Not a Member? <a href="/sign-up/">Register</a></h4>
-		<p class="locationWrapper"><strong class="currentLocation">Rateit </strong> | <span class="breadcrumbs"><a href="http://www.rateit.com/">Home</a> &gt; <span>Privacy</span></span> | <span class="date">Saturday Dec 31st, 2011</span> | <a id="modal_changeLocation" class="changeLocation" href="javascript:void();">Change Location <em>»</em></a></p>
+		<p class="locationWrapper"><strong class="currentLocation">Rateit </strong> | <span class="breadcrumbs"><a href="../">Home</a> &gt; <span>About Us</span></span> | 
+                <span class="date">Saturday May 19th, 2012</span> | <a id="modal_changeLocation" class="changeLocation" href="javascript:void();">Change Location <em>»</em></a></p>
 	</div>
 	<div id="modal_popup_border" style="display:none;">
-	
-<div class="modal_popup modal_login">
-	<a id="modal_close" href="#">Close</a>
-		<h2 class="heading"> Sign in with your RateIt account</h2>
-	<div id="working" class="working" style="display:none;"></div>
-	<form method="post" action="http://www.rateit.com/index.php" onsubmit="return ajaxLogin()" class="wp-user-form">
-		<label for="modalLoginEmail">Username</label>
-		<span class="inputWrapper"><input type="text" name="user_login" value="" id="modalLoginEmail"></span>
-	
-		<label for="modalLoginPassword">Password</label>
-		<span class="inputWrapper"><input id="modalLoginPassword" name="pwd" type="password"></span>
-		
-		<input id="redirect_url" name="redirect_url" type="hidden" value="">
-		<input id="modal_login_submit" name="modal_login_submit" type="submit" value="Submit">
-	</form>
-	
-	<p class="passwordLost"><a href="password-lost/">Forgot Your Password?</a></p>
-</div>
-<script>
-function ajaxLogin() {
-
-	$("#working").html("Working..");
-	$("#working").show();
-	if($("#modalLoginEmail").val() == '') {
-		$("#working").html("Please enter username");
-		return false;
-	}
-
-	if($("#modalLoginPassword").val() == '') {
-		$("#working").html("Please enter password");
-		return false;
-	}
-
-	$.post(
-	"http://www.rateit.com/wp-content/themes/rateit/modal_login.php",
-	{
-		user_login:$("#modalLoginEmail").val(),
-		pwd:$("#modalLoginPassword").val(),
-		redirect_url:$("#redirect_url").val(),
-		src:'popup',
-	},
-	function(data) {
-		var redirect_url = 'http://www.rateit.com';
-		var json_obj = eval("("+data+")");
-		if(json_obj.result != 1) {
-			$("#working").html(json_obj.msg);
-		}
-		else {
-			$("#working").html("Logging In...");
-			if($("#redirect_url").val() != '') {
-				redirect_url = $("#redirect_url").val();
-			}
-			window.location = redirect_url;
-		}
-	}
-	);
-	return false;
-}
-</script>
-	</div>
-
+		</div>
 	
 <h1 class="heading">Privacy Policy</h1>
 <div class="pageContent">
@@ -234,14 +176,14 @@ function ajaxLogin() {
 								<label class="searchTermLabel" for="footerSearchTerm"><strong>What</strong> are you searching for?</label>
 				<span class="searchTermWrapper"><input id="footerSearchTerm" name="search" value="" type="text"></span>
 				<label class="searchLocationLabel" for="footerSearchLocation"><strong>Where</strong> should we find it?</label>
-				<span class="searchLocationWrapper"><input id="footerSearchLocation" name="place" value="" type="text"></span>
+				<span class="searchLocationWrapper"><input id="footerSearchLocation" name="place" value="Seattle, Wa" type="text"></span>
 				<input id="footerSearchSubmit" name="" value="Find It" type="submit">
 			</form>
 		</div>
 		<div class="navSite">
 			<h3 class="heading">Site</h3>
 			<ul>
-				<li><i></i><a href="">Home</a></li>
+				<li><i></i><a href="http://rateit.com">Home</a></li>
 				<li><i></i><a href="/deals/">Deals</a></li>
 				<li><i></i><a href="/restaurants/">Restaurants</a></li>
 			</ul>
@@ -257,8 +199,8 @@ function ajaxLogin() {
 			</ul>
 			<ul>
 				<li><i></i><a href="/states/">States</a></li>
-				<li><i></i><a href="/site-map/">Site Map</a></li>
-			</ul>
+<!--				<li><i></i><a href="/site-map/">Site Map</a></li>
+-->			</ul>
 		</div>
 		<div class="navCompany">
 			<h3 class="heading">Company</h3>
@@ -333,12 +275,12 @@ function ajaxLogin() {
 				<li><i></i><a href="/NV/Las+Vegas">Las Vegas, NV</a></li>
 			</ul>
 			<ul>
-				<li><i></i><a href="/NV/Charlotte">Charlotte, NC</a></li>
+				<li><i></i><a href="/NC/Charlotte">Charlotte, NC</a></li>
 				<li><i></i><a href="/CA/San+Jose">San Jose, CA</a></li>
 				<li><i></i><a href="/OH/Columbus">Columbus, OH</a></li>
 			</ul>
 		</div>
-		<p class="copyright">Copyright © 2004-2011 RateIt</p>
+		<p class="copyright">Copyright © 2004-2012 RateIt</p>
 	</div>
 	
 	<ul id="menu-item-more-popup" class="menu-item-popup">
@@ -358,9 +300,89 @@ function ajaxLogin() {
 
 <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?v=3.4&amp;sensor=false"></script>
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
-<script type="text/javascript" src="/js/jquery-1.6.1.min.js">)</script>
+<script type="text/javascript" src="/js/jquery-1.6.1.min.js"></script>
 <script type="text/javascript" src="/js/scripts.js"></script>
 <script type="text/javascript" src="/js/jquery.scrollTo-min.js">)</script>
+
+<script type="text/javascript" src="http://www.rateit.com/video/jquery-1.4.2.min.js"></script>
+<script src="http://cdn.jquerytools.org/1.2.5/full/jquery.tools.min.js"></script>
+<script type="text/javascript" src="http://www.rateit.com/video/flowplayer-3.2.6.min.js"></script>
+
+
+
+<script language="JavaScript">
+
+$(function() {
+	
+
+// embed the player
+$("#multiple a").each( function() { $(this).flowplayer("http://colo.cachefly.net/player/flowplayer-3.2.7.swf", {
+plugins:  {
+        youtube: {
+            url:'http://colo.cachefly.net/player/flowplayer.youtube-3.2.6.swf',
+            //enableGdata: true,
+            
+            // listener to youtube API data, used to build up a related videos list
+            onApiData: function(gdata) {
+                console.log(gdata);
+              },
+			controls: {
+                autoHide: true,
+                playlist: false
+            },
+        },
+		adaptv: {
+			url: 'http://redir.adap.tv/redir/integrations/flowplayer/adaptv-flowplayer.swf',
+			key: "admedia",
+			context: { "key1": "value1",
+				   "key2" : "value2" },
+			companionId: "modal_videoAd_wrapper",
+			videoPlayerId: "overlay",
+			pageUrlOv: "http://www.yield.com/results.php?search=",
+			width: 480,
+			height: 385,
+			zIndex: 1
+		}},
+    clip: {
+       provider: 'youtube',
+       urlResolvers: ['youtube'],
+	   useadaptv: true ,
+		autoPlay: false,
+		autoBuffering: true,
+	   onBegin: function (clip) {
+		  //alert($("#multiple a").attr('id'));
+		 /// $("#multiple a").each(function(){ alert(this.attr('id'))
+		}
+
+    }});
+});
+
+
+
+
+// setup button action. it will fire our overlay 
+	$("span[rel]").overlay({
+		
+		// use the Apple effect for overlay
+		// effect: 'apple',
+		
+		// when overlay is opened, load our player
+		onLoad: function(content) {
+			this.getOverlay().find("a").flowplayer(0).load();
+	},
+		
+		// when overlay is closed, unload our player
+		onClose: function() {
+			this.getOverlay().find("a").flowplayer(0).unload();
+		}
+	});
+	
+	
+});
+
+
+
+</script>
 
 <!--[if lt IE 7 ]>
 	<script src="/js/dd_belatedpng.js"></script>
@@ -394,8 +416,8 @@ pageTracker._trackPageview();
 
 
 <!--
-NULL
--->
-<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
-
-Served from: www.rateit.com @ 2011-12-31 16:51:50 --></body></html>
+array(1) {
+  ["Location"]=>
+  float(0.0012209415435791)
+}
+--></body></html>
