@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fatsecret.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117072103id_/http%3A//www.fatsecret.com/Default.aspx%3Fpa%3Dpriv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatsecret.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520070648id_/http%3A//www.fatsecret.com/Default.aspx%3Fpa%3Dpriv) for the most accurate reproduction.*
 
 # Privacy Policy
 
