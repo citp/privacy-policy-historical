@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the givemeneither.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120160533id_/http%3A//givemeneither.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the givemeneither.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520025438id_/http%3A//givemeneither.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,3 +29,5 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
 AdSense Privacy Policy Provided by [JenSense](http://jensense.com/)
+
+###### This Post May Contain Affiliate Links - [Disclosure Policy](http://givemeneither.com/disclosure-policy/ "This Post May Contain Affiliate Links. Please click to see our disclosure policy")
