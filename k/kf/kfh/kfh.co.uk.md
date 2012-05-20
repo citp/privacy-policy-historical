@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the kfh.co.uk privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119172020id_/http%3A//www.kfh.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kfh.co.uk privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520024418id_/http%3A//www.kfh.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
 Our privacy policy covers the collection, use and disclosure of personal information that may be collected by us whenever you visit our website, call one of our offices and contract our services. 
+
+By using our websites, you agree that information about how you navigate through and search the data presented on them can be collected by the Kinleigh Folkard & Hayward group for the purpose of developing and improving the website for future visitors. 
 
 ### To ensure your privacy is protected, we adhere to the following policy
 
@@ -38,11 +40,40 @@ SW19 7QA
 
 #### Cookies
 
-A cookie is a piece of information, automatically generated when you register with or visit this website for the first time. The cookie is held on your PC and enables us to recognise you when you log on again.
+A cookie is a piece of information, automatically generated when you register with or visit this website for the first time. The cookie is held on your computer and enables us to recognise you when you visit or login to our website again.
 
-Because the cookie is held on your PC, we are unable to recognise you if you visit our website from any PC apart from the one you used to register or log on for the first time. This use of cookies does not result in the collection of any personal information about you, the use of your PC or your use of the internet generally.
+Because the cookie is held on your own individual computer, we are unable to recognise you if you visit our website from any computer apart from the one you used to register or login with us for the first time. The cookies we use only collect information about your interaction with our website, and do not collect any personal information about you, how you use your computer or your use of the internet generally.
 
-If you prefer not to have cookies enabled, from your internet browser window, select preferences or internet options, and change your cookie settings accordingly.
+The table below details the cookies we use across our websites: 
+
+Purpose  |  Cookie Lifetime  |  Present on Pages  |  Cookie Name   
+---|---|---|---  
+Remembers settings for users who browse the site without logging in  |  Three months  |  All pages  |  .ASPXANONYMOUS   
+Remembers the user’s session ID  |  Until browser is closed  |  All pages  |  ASP.NET_SessionId   
+Remembers anonymous user information which allows the web pages you are viewing to load faster  |  12 months  |  All pages  |  mmcore.pd   
+  
+.
+
+|  12 months  |  All pages  |  mmcore.srv   
+Remembers a user session ID  |  12 months  |  All pages  |  mmid   
+This cookie is no longer active, and stores no information whatsoever  |  Until browser is closed  |  All pages  |  mmcore.mmact   
+Remembers if you have agreed to accept cookies  |  10 days  |  n/a  |  mmcore.tst   
+Remembers the resolution with which you last viewed the website  |  One month  |  All pages  |  kfh_layout   
+Google Analytics cookies anonymously collect information about how visitors use our site.  |  24 months  |  All pages  |  _utma   
+We use this information to develop and improve the website for future visitors. No personal information is collected or stored.  |  30 minutes  |  All pages  |  _utmb   
+  
+.
+
+|  Until browser is closed  |  All pages  |  _utmc   
+Click here for an overview of privacy at [Google](http://www.google.co.uk/intl/en/analytics/privacyoverview.html) |  Six months  |  All pages  |  _utmz   
+  
+.
+
+|  30 minutes  |  All pages  |  _utmv   
+  
+If you prefer not to have cookies enabled, from your internet browser window, select preferences or internet options and change your cookie settings accordingly. Please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) if you would like more information, including how to see what cookies have been stored in your web browser and how to manage and delete them.
+
+Should you wish to opt out of Google Analytic tracking across all websites please visit <http://tools.google.com/dlpage/gaoptout>.
 
 #### Email
 
