@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boliviabella.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102164807id_/http%3A//www.boliviabella.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boliviabella.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520061539id_/http%3A//www.boliviabella.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy BoliviaBella.com
 
@@ -38,7 +38,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 Although our Bolivia for Kids section is not specifically geared to an under-13 target audience, we realize the Bolivia for Kids section MAY be visited by children under 13 for elementary school projects; therefore, we clearly request children do NOT share personal information of ANY type and always suggest they request parental or adult guidance. Any questions or comments sent in through our [kids forum](http://www.boliviabella.com/bolivia-people.html) are manually approved, edited and/or rejected. No personal information that may identify a child will be published online. 
 
-### How You Can Access Or Correct Your Information:
+### How You Can Access Or Correct Your Info:
 
 You can access all your personally identifiable information that we collect online and maintain by [sending us an email](http://www.boliviabella.com/what-you-want.html "Send a message to BoliviaBella.com") through this form. We use this procedure to better safeguard your information.
 
@@ -58,8 +58,6 @@ We love to share! You can share or link to any page on our site simply by clicki
 
 Words that are double-underlined are text ads through Infolinks.com.
 
-I also have several affiliate advertisers and sponsors that include, but are not limited to: Amazon,com, Linkshare.com, and CJ.com.
+We also have several affiliate advertisers and sponsors that include, but are not limited to: Amazon.com, Linkshare.com and CJ.com. If you click on their ads or text links and and make a purchase, we receive a small commission. 
 
-If you click on their ad or text link and buy something, I get a small commission. 
-
-I always give my honest opinions, findings, beliefs, or experiences on the topics or products I write about. 
+We always give our honest opinions, findings, beliefs, or experiences on the topics or products we write about. 
