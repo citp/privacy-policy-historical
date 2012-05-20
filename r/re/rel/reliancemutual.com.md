@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reliancemutual.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120074220id_/http%3A//www.reliancemutual.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reliancemutual.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520041308id_/http%3A//www.reliancemutual.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# - PrivacyPolicy
+# PrivacyPolicy
 
 Welcome to this Reliance Mutual Fund website. We at Reliance Mutual Fund respect the privacy of everyone who visits this website and are committed to maintaining the privacy and security of the personal information of all visitors to this website. Our policy on the collection and use of personal information and other information is outlined below.
 
