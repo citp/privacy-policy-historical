@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usenext.com privacy policy that was archived on 2011-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110913130700id_/http%3A//www.usenext.com/conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usenext.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521012644id_/http%3A//www.usenext.com/conditions) for the most accurate reproduction.*
 
 # UseNeXT - Privacy policy
 
@@ -9,8 +9,8 @@ To better protect your personally identifiable information we provide this polic
 If you have any questions regarding personal data, please don’t hesitate to contact us:
 
 Aviteo Ltd.  
-Theresienstr. 6-8  
-80333 Munich  
+Josephspitalstraße 15  
+80331 Munich  
 Germany  
 Contact Form: http://usenext.de/index.cfm?DL=sf  
 Director: Christian Robert Schütze  
