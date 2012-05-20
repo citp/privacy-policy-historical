@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eglobaltravelmedia.com.au privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129024619id_/http%3A//www.eglobaltravelmedia.com.au/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eglobaltravelmedia.com.au privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520211855id_/http%3A//www.eglobaltravelmedia.com.au/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | e-Global Travel Media
+# Privacy Statement | Global Travel Media
 
 [](http://www.eglobaltravelmedia.com.au/privacy-statement/printpage/ "Print") [Print](http://www.eglobaltravelmedia.com.au/privacy-statement/printpage/ "Print") [](http://www.eglobaltravelmedia.com.au/privacy-statement/emailpopuppage/ "Email") [Email](http://www.eglobaltravelmedia.com.au/privacy-statement/emailpopuppage/ "Email")
 
