@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the globalccsinstitute.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126154050id_/http%3A//www.globalccsinstitute.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalccsinstitute.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520215642id_/http%3A//www.globalccsinstitute.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Global CCS Institute
+# Privacy Policy | Global Carbon Capture and Storage Institute
 
 The Global Carbon Capture and Storage Institute Ltd ( **Global CCS Institute** ) (ABN 136 614 465) is subject to the _Privacy Act 1988_ (Cth), which requires that we comply with the National Privacy Principles (NPPs) in dealing with your personal information.
 
