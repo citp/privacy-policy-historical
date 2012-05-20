@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asic.gov.au privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120073706id_/http%3A//www.asic.gov.au/asic/asic.nsf/byheadline/Privacy%3FopenDocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asic.gov.au privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520032638id_/http%3A//www.asic.gov.au/asic/asic.nsf/byheadline/Privacy%3FopenDocument) for the most accurate reproduction.*
 
 # Australian Securities and Investments Commission - Privacy
 
@@ -9,7 +9,7 @@ ASIC must comply with the [_Privacy Act 1988_](http://www.austlii.edu.au/au/legi
 
 This statement outlines how ASIC handles your personal information.
 
-## Collection: How do we collect information and purpose of collection
+## How we collect information
 
   
 It is our usual practice to collect personal information directly from the individual.
@@ -26,31 +26,19 @@ When or before we collect personal information, we will take reasonable steps to
 
 
 
-We only collect personal information for purposes which are directly related to our functions or activities under the legislation administered by ASIC and only when it is necessary for or directly related to such purposes. For further information, see [The laws ASIC administers](https://web.archive.org/asic/asic.nsf/byheadline/The+laws+ASIC+administers?openDocument). The way that we collect your personal information may also depend on the type of services you require from ASIC. These include:
-
-  * clickstream data and cookies
-  * online forms
-  * online surveys
-  * subscription services to newsletters
-  * ASIC Infoline.
-
-
-
-### Clickstream data and cookies
-
-  
-When you browse our website, our service provider logs the following information for statistical purposes - your server address, top level domain name (eg .com, .gov, .au, .uk etc.), the date and time of your visit, the pages accessed, documents downloaded, the previous site visited and the type of browser used.
-
-We will not try to identify users or their browsing activities except, in the event of an investigation, where a law enforcement agency may exercise a warrant to inspect the service provider's logs.
-
-Cookies are small pieces of information exchanged between your web browser and a website server. From time to time we may use cookies on our website to help us carry out online surveys. Where we use an external survey provider, that provider could use cookies on their website. If this is the case you will be directed to information on the provider's website explaining the use of cookies.
+We only collect personal information for purposes which are directly related to our functions or activities under the legislation administered by ASIC and only when it is necessary for or directly related to such purposes. For further information, see [The laws ASIC administers](https://web.archive.org/asic/asic.nsf/byheadline/The+laws+ASIC+administers?openDocument). 
 
 ### Online forms
 
   
-One of the ways we would collect personal information from you is if you use our site to lodge forms prescribed or approved under the relevant corporations laws administered by ASIC. We are required or authorised by corporations laws to ask for this information. We require this information for various purposes including assisting us to administer the corporations laws. 
+One of the ways we would collect personal information from you is if you use our site to lodge forms prescribed or approved under the relevant corporations laws administered by ASIC. We are required or authorised by corporations laws to ask for this information. We require this information for various purposes including assisting us to administer the corporations laws.
 
 We also collect personal information through our complaints form. ASIC considers your complaint to have been given to us in confidence and we will not reveal the contents of your complaint without your consent unless we are required or authorised to do so under law.
+
+### Online credit card payments
+
+  
+If you you choose to pay us by credit card online, you will be asked to provide information such as your email address, name and credit card details. These details are required by us to process payments and to provide you with a payment receipt. For more information about what we do with the information you enter, see the security policy information on the credit card payment page you are using. 
 
 ### Online surveys
 
@@ -64,10 +52,19 @@ We will only record your email address if you send us an email message to the su
 
 Lyris Technology Inc, an Amercian software company and email list service, hosts mailing lists for ASIC subscription services.
 
-### ASIC Infoline
+### ASIC Client Contact Centre
 
   
 You may choose not to provide certain personal information however we may not be able to provide you with accurate information or services you require. The purpose of seeking this information is to enable ASIC to tailor our services to your needs and ensure accurate information is provided to you and to improve services we provide to you.
+
+### Clickstream data and cookies
+
+  
+When you browse our website, our service provider logs the following information for statistical purposes - your server address, top level domain name (eg .com, .gov, .au, .uk etc.), the date and time of your visit, the pages accessed, documents downloaded, the previous site visited and the type of browser used.
+
+We will not try to identify users or their browsing activities except, in the event of an investigation, where a law enforcement agency may exercise a warrant to inspect the service provider's logs.
+
+Cookies are small pieces of information exchanged between your web browser and a website server. From time to time we may use cookies on our website to help us carry out online surveys. Where we use an external survey provider, that provider could use cookies on their website. If this is the case you will be directed to information on the provider's website explaining the use of cookies.
 
 ## Use and disclosure
 
@@ -97,12 +94,12 @@ We take steps to protect the personal information we hold against loss, unauthor
   
 The Privacy Act allows individuals to [access and alter records](http://www.privacy.gov.au/publications/ipps.html#f) containing their personal information. The [_Freedom of Information Act 1982_](http://www.austlii.edu.au/au/legis/cth/consol_act/foia1982222/s48.html) (Cth), also sets out the process by which you can access, change or annotate records held by ASIC, which contain your personal information.
 
-Individuals can obtain further information about how to request access or changes to the information we hold about them by making an enquiry at [www.asic.gov.au/question](http://www.asic.gov.au/question).
+You can obtain further information about how to request access or changes to the information we hold about you by making an enquiry at [www.asic.gov.au/question](http://www.asic.gov.au/question).
 
 ## Risks of using the internet
 
   
-You should note that there are security risks in transmitting information via the internet. You should assess these potential risks when deciding whether to use our online services. If you do not wish to transmit information via our website, there are other ways in which you can provide this information to ASIC. You can, for example, contact our Infoline on 1300 300 630 or visit your nearest [Service Centre](https://web.archive.org/asic/asic.nsf/byheadline/ASIC+Service+Centre+Addresses?opendocument).
+You should note that there are security risks in transmitting information via the internet. You should assess these potential risks when deciding whether to use our online services. If you do not wish to transmit information via our website, there are other ways in which you can provide this information to ASIC. You can, for example, contact ASIC on 1300 300 630 or visit your nearest [Service Centre](https://web.archive.org/asic/asic.nsf/byheadline/ASIC+Service+Centre+Addresses?opendocument).
 
 ## Accountability and feedback
 
@@ -116,4 +113,4 @@ To find out more about your rights and the remedies for breaches of privacy, you
 
 We welcome your [feedback](mailto:feedback@asic.gov.au) about this Privacy Statement and about our site's design and practices.
 
-ASIC Website: Printed 11/20/2011 
+ASIC Website: Printed 05/20/2012 
