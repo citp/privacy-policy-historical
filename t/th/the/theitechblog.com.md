@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theitechblog.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220232641id_/http%3A//www.theitechblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theitechblog.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520210126id_/http%3A//www.theitechblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Theitechblog
+# Privacy Policy • Theitechblog
 
 We allow  **third-party advertising companies** (like Google Adsense) to serve ads when you visit our Web site. Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the [DART cookie](http://www.google.com/intl/en/privacy/) enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy/ads/).
 
