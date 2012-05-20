@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compassfx.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201052652id_/http%3A//compassfx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compassfx.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520032737id_/http%3A//compassfx.com/privacy) for the most accurate reproduction.*
 
 # CompassFX | Forex | Forex Trading | Forex Minis | Online Currency Trading
 
@@ -32,6 +32,6 @@ Back to Top
 
 ## Navigate CompassFX
 
-## Live Account Support
+## Trade Desk Support
 
 ## Quick Help
