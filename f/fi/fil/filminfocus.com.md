@@ -1,36 +1,13 @@
-> *The following text is extracted and transformed from the filminfocus.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101213840id_/http%3A//filminfocus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filminfocus.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520195957id_/http%3A//www.filminfocus.com/privacy) for the most accurate reproduction.*
 
 # Focus Features Privacy Policy
 
-This web site which is located at the domain filminfocus.com (the "Site") is operated by Focus Features. ("Focus Features" or "we" or "our" or "us"). Your privacy is important to us. This Privacy Policy describes the types of information collected from you, what we do with it, with whom we share it, and how you can correct or change such information. It is your responsibility to review this Privacy Policy carefully, especially before providing any personal data through the Site. This Site is operated in and controlled from the United States of America. If you have any questions about this Privacy Policy or Site, or if you wish to unsubscribe from Site services for which you have previously registered, please contact us at [privacy@focusfeatures.com](mailto:privacy@focusfeatures.com) or at the address at the end of this policy.
+## Privacy Policy
 
-Please review this privacy policy and the terms of service for the site carefully. Your use of this site signifies your agreement to such privacy policy and terms of service.
-
-  1. Types of Information Collected
-    * Personal Data
-    * Aggregate and Anonymous Data
-  2. Use of Cookies and Other Technologies
-  3. Our Use of Your Information
-  4. Disclosure of Personal Data to Third Parties
-    * Disclosure to Affiliates
-    * Disclosure to Third Parties
-    * Disclosure to Others
-  5. Third Party Advertising and Links to Other Sites
-  6. Your Choice
-  7. Access and Correction
-  8. Children and Privacy
-  9. Message Boards, Chat Rooms, Blogs and Other User Forums
-  10. Data Security
-  11. Exclusions
-  12. Other Terms and Conditions
-  13. Site Location
-  14. Changes to this Privacy Policy
-  15. Contacting Focus Features Regarding Your Privacy
+## 1\. Types of Information Collected:
 
   
 
-
-## 1\. Types of Information Collected:
 
 ### Personal Data:
 
@@ -57,6 +34,9 @@ AA Data: We may also use Personal Data in aggregate form for purposes of researc
 We may use AA Data collected from the Site for site administration, advertising and promotional purposes, and we may share such information with various affiliated and unaffiliated entities for such purposes. For example, IP addresses are used for the purposes of system administration and to provide AA Data to advertisers about the volume of use on the Site, and Clickstream Data and demographic AA Data may be shared with our advertisers and business partners. We may also enter into agreements with outside companies that possess technology that allows the Site to customize the advertising and marketing messages you receive on the Site. This data (including Clickstream Data about your activities on our Site) may be shared with these companies for this purpose.
 
 ## 4\. Disclosure of Personal Data:
+
+  
+
 
 ### Disclosure to Affiliates:
 
