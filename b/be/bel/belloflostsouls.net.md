@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the belloflostsouls.net privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120074240id_/http%3A//www.lounge.belloflostsouls.net/faq.php%3Ffaq%3Dprivparent%23faq_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belloflostsouls.net privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520040503id_/http%3A//www.lounge.belloflostsouls.net/faq.php%3Ffaq%3Dprivparent%23faq_privacy) for the most accurate reproduction.*
 
 # Warhammer 40k, Fantasy, Wargames & Miniatures Forum: Bell of Lost Souls Lounge - FAQ: Privacy Policy
 
