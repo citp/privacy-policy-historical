@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milandirect.com.au privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210210608id_/http%3A//www.milandirect.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milandirect.com.au privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520122907id_/http%3A//www.milandirect.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Milan Direct Privacy Policy
 
