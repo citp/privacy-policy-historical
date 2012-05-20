@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbtnuggets.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211003054id_/http%3A//www.cbtnuggets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbtnuggets.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520160952id_/http%3A//www.cbtnuggets.com/privacy) for the most accurate reproduction.*
 
 # CBT Nuggets Privacy
 
@@ -133,6 +133,14 @@ The following explanation is provided for why this data is collected:
 
 Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it.
 
+In some cases we may collect cookies from 3rd parties, such as Google or DoubleClick.
+
+You can opt out of DoubleClick's use of cookies by visiting: [DoubleClick opt-out page](http://www.doubleclick.com/privacy/dart_adserving.aspx)
+
+You can opt out of Google's use of cookies by visiting: [Google advertising opt-out page](http://www.google.com/privacy_ads.html)
+
+This site uses ClickTale web analytics service, which may record mouse clicks, mouse movements, scrolling activity as well as text you type in this website. ClickTale does not collect any personally identifiable information entered in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see [Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx). The information collected by ClickTale, is used for research and optimization of our website. You can choose to disable the service at <http://www.clicktale.net/disable.html>. 
+
 Our site makes use of cookies. Cookies are used for the following purposes:
 
   * User targeting
@@ -144,10 +152,8 @@ Our site makes use of cookies. Cookies are used for the following purposes:
 ## Compact Policy Summary
 
 The compact policy which corresponds to this policy is:
-    
-    
-    		    CP="CAO CURa ADMa DEVa TAIa CONa OUR DELa BUS IND PHY ONL UNI PUR COM NAV INT DEM STA"
-    			
+
+CP="CAO CURa ADMa DEVa TAIa CONa OUR DELa BUS IND PHY ONL UNI PUR COM NAV INT DEM STA" 
 
 The following table explains the meaning of each field in the compact policy.
 
