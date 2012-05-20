@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the gamerightnow.com privacy policy that was archived on 2011-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111023024127id_/http%3A//gamerightnow.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamerightnow.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520145031id_/http%3A//www.gamerightnow.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
 
-# Play Privacy Policy Ben 10 games - Dress Up Games - Scooby Doo games - Sponge Bob games - Funny games - Naruto Games - Power Rangers Games
+# Privacy Policy | Privacy Policy
 
-GameRightNow is committed to providing an entertaining, fun and educational service. GameRightNow.com is a property of GameRightNow Limited "GameRightNow". GameRightNow respects the privacy concerns of visitors to GameRightNow.com. GameRightNow does not target its website or services to under 13 year olds, but does take measures to help protect those that happen to be under 13. We take measures to help children protect their privacy while online. For example, we do not ask children to disclose more personal information than is necessary for them to participate in a particular activity.
+GameRightNow is committed to providing an entertaining, fun and educational service. GameChics.com is a property of GameRightNow Limited "GameRightNow". GameRightNow respects the privacy concerns of visitors to GameChics.com. GameRightNow does not target its website or services to under 13 year olds, but does take measures to help protect those that happen to be under 13. We take measures to help children protect their privacy while online. For example, we do not ask children to disclose more personal information than is necessary for them to participate in a particular activity.
 
   
-GameRightNow.com is one of  ValueClick Publishers, all ValueClick Publishers were notified via email and pop-up messaging from the user interface login of our recent membership with the Network Advertising Initiative (“NAI”).
+GameChics.com is one of  ValueClick Publishers, all ValueClick Publishers were notified via email and pop-up messaging from the user interface login of our recent membership with the Network Advertising Initiative (“NAI”).
 
 We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
 
@@ -41,7 +41,7 @@ To protect your child's privacy and security, we will take reasonable steps to h
 
 Changes to this Privacy Policy
 
-This Privacy Policy is part of the GameRightNow main Terms and Conditions which you agree to by accessing the GameRightNow.com webstie and/or services. You agree that GameRightNow Limited may change this Privacy Policy and the main GameRightNow Terms and Conditions at any time. Our current Privacy Policy will be posted here: http://www.GameRightNow.com/info-privacy which is part of our Terms and Conditions posted here: http://www.GameRightNow.com/info-tos
+This Privacy Policy is part of the GameRightNow main Terms and Conditions which you agree to by accessing the GameChics.com webstie and/or services. You agree that GameRightNow Limited may change this Privacy Policy and the main GameRightNow Terms and Conditions at any time. Our current Privacy Policy will be posted here: http://www.GameChics.com/info-privacy which is part of our Terms and Conditions posted here: http://www.GameChics.com/info-tos
 
 Internet Safety
 
