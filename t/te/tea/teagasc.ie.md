@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teagasc.ie privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121125023id_/http%3A//www.teagasc.ie/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teagasc.ie privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520151712id_/http%3A//www.teagasc.ie/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # Teagasc - Privacy Statement
 
@@ -42,4 +42,4 @@ Carlow
 Ph: 059 9170200  
 Fax: 059 9182097
 
-Email: [info@teagasc.ie](mailto:info@teagasc.ie)
+Email: [ info@teagasc.ie](mailto:info@teagasc.ie)
