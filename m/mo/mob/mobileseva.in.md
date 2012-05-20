@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobileseva.in privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210012153id_/http%3A//www.mobileseva.in/PrivatePolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobileseva.in privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520090538id_/http%3A//www.mobileseva.in/PrivatePolicy.aspx) for the most accurate reproduction.*
 
 # Private Policy - MovileSeva.in
 
