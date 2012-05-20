@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hockeystreams.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120013313id_/http%3A//www5.hockeystreams.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hockeystreams.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520173343id_/http%3A//www5.hockeystreams.com/privacy_policy) for the most accurate reproduction.*
 
 # Hockey Streams - Privacy Policy
 
