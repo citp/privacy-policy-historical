@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizensinformation.ie privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204193356id_/http%3A//www.citizensinformation.ie/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizensinformation.ie privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520143657id_/http%3A//www.citizensinformation.ie/en/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -37,7 +37,7 @@ Ground Floor
 George's Quay House  
 43 Townsend St  
 Dublin 2  
-Telephone: +353 1 6059000  
+Telephone: +353 761 07 9000  
 Fax: +353 1 6059099
 
 ## Glossary of technical terms used
