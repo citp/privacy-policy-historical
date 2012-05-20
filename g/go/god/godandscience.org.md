@@ -1,27 +1,25 @@
-> *The following text is extracted and transformed from the godandscience.org privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120190433id_/http%3A//godandscience.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godandscience.org privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520153023id_/http%3A//www.godandscience.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for Evidence for God from Science
 
 ## General Privacy Policies
 
-_Evidence for God from Science_ does not release any kind of personal information collected from the website to any entity outside our organization. This information includes, but is not limited to e-mail addresses, correspondence, and site statistics. Writing to the ministry will not add your name, e-mail, or any other personal information to any list (including our own). You must specifically [request to be added to any lists](https://web.archive.org/web/20111120190433id_/http%3A//godandscience.org/newsletter.html). Now here is the legal/technical stuff:
+_Evidence for God from Science_ does not release any kind of personal information collected from the website to any entity outside our organization. This information includes, but is not limited to e-mail addresses, correspondence, and site statistics. Writing to the ministry will not add your name, e-mail, or any other personal information to any list (including our own). You must specifically [request to be added to any lists](https://web.archive.org/web/20120520153023id_/http%3A//www.godandscience.org/newsletter.html). Now here is the legal/technical stuff:
 
 ## About Us
 
 This is a privacy policy for Evidence for God from Science. Our homepage on the Web is located at [ http://www.godandscience.org](http://www.godandscience.org/). The full text of our privacy policy is available on the Web at [ http://www.godandscience.org/privacy.html](http://www.godandscience.org/privacy.html). Users may go to [ http://www.godandscience.org/privacy.html](http://www.godandscience.org/privacy.html) for information on how to opt-in or opt-out of use of their information.
 
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address:
-    
-    
-    Richard Deem
-    c/o Reasons To Believe
-    P.O. Box 5978
-    Pasadena, CA 91117
-    USA
+
+Richard Deem  
+c/o Reasons To Believe  
+P.O. Box 5978  
+Pasadena, CA 91117
 
 You may contact us by e-mail by [clicking here](https://web.archive.org/formmail.html).
 
-You may contact us by telephone at (626) 87-BIBLE.
+You may contact us by telephone at (626) 87-BIBLE [(626) 872-4253].
 
 ## Dispute Resolution and Privacy Seals
 
@@ -160,4 +158,4 @@ INT |  Interactive data is collected.
 PRE |  Preference information is collected.   
   
 http://www.godandscience.org/privacy.html  
-Last Modified July 17, 2009
+Last Modified February 20, 2012
