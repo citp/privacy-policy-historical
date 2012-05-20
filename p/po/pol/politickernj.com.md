@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the politickernj.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120073737id_/http%3A//www.politickernj.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the politickernj.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520030856id_/http%3A//www.politickernj.com/privacy) for the most accurate reproduction.*
 
-# The PoliticsNJ.com Privacy Policy | Politicker NJ
+# PolitickerNJ.com Privacy Policy | Politicker NJ
 
 At PoliticsNJ.com, we understand that privacy is important, and we've created this policy to give you information about how we collect and use personal information from users of the PoliticsNJ.com Web site. We also encourage you to review our Terms of Service for information regarding rights, usage, trademarks, licenses, liability, trademark, and content ownership.Â 
 
 PoliticsNJ.com is a subsidiary of the Observer Media Group, LLC.Â  We reevaluate this policy on an ongoing basis, and we value your feedback. If you have questions or concerns regarding our privacy policy, we ask that you contact us at:
 
 Customer Service  
-_**PoliticsNJ.com  
-Observer Media Group, LLC**_  
-915 Broadway, 9th Floor   
-New York, New York 10010  
+_**PolitickerNJ.com  
+Observer Media Group**_  
+321 W 44th Street, 6th Floor   
+New York, New York 10036  
 (212) 755-2400  
-e-mail: [customerservice@politicsnj.com](mailto:customerservice@politicsnj.com)
+e-mail: wire@politickernj.com
 
 Please note that this privacy policy may change from time to time. We will post the new policy on this page, and, if the changes allow us to use personally identifying information in ways that are different from the ways specified at the time the information was originally collected, our Web site will contain a special notice about the changes. Each version of this privacy policy will be identified by its effective date, which you can find at the bottom of the page.
 
 ### 1\. The PoliticsNJ.com Online Privacy Policy
 
-PoliticsNJ.com collects data, including personally identifying information, from people who use the politicsnj.com Web site. This section of our privacy policy explains how we collect and use this data. 
+PoliticsNJ.com collects data, including personally identifying information, from people who use the politicsnj.com Web site. This section of our privacy policy explains how we collect and use this data.
 
 #### Information we collect and how we use it
 
@@ -81,7 +81,7 @@ PoliticsNJ.com makes available to its users tools which allow them to publish co
 
 Â·Â Â Â Â Â Â Â Â  User published Content remains the intellectual property of the individual user, however by posting Content on our Website, you grant Company a non-exclusive, perpetual, irrevocable, royalty-free, worldwide, fully sub-licensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display such Content throughout the world in any media, whether now known or hereafter discovered.Â  In addition, you warrant that all so-called "moral rights" in those materials have been waived.
 
-Â·Â Â Â Â Â Â Â Â  You should be aware that when you disclose personal information such as your name or e-mail address in a forum, blog comment, or other area that is publicly accessible by others, that information can be collected and used by others. The New York Observer is not responsible for any information that you provide in the above areas. 
+Â·Â Â Â Â Â Â Â Â  You should be aware that when you disclose personal information such as your name or e-mail address in a forum, blog comment, or other area that is publicly accessible by others, that information can be collected and used by others. The New York Observer is not responsible for any information that you provide in the above areas.
 
 #### Use of data for promotions, and choices for personal information
 
