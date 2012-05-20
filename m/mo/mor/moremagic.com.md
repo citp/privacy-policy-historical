@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moremagic.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120031117id_/http%3A//www.moremagic.com/index.php%3FcID%3D252) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moremagic.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520231725id_/http%3A//www.moremagic.com/index.php%3FcID%3D252) for the most accurate reproduction.*
 
 # More Magic :: Privacy Policy
 
