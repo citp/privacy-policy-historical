@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the chubbyparade.com privacy policy that was archived on 2011-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111119002126id_/http%3A//chubbyparade.com/forum/view.php%3Fpg%3Dprivacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chubbyparade.com privacy policy that was archived on 2012-05-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120520054002id_/http%3A//chubbyparade.com/forum/view.php%3Fpg%3Dprivacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html dir="ltr" lang="en"><head>
 <title>Chubby Parade Privacy Policy</title>
@@ -29,7 +29,6 @@
 <meta name="gg.show-url" content="yes">
 
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="/animated_favicon.gif" type="image/gif">
 
 
 <script type="text/javascript"><!--
@@ -355,6 +354,8 @@ legend
 .magic{margin-top:20px;font-size:10px;float:right;}
 .p{cursor: pointer;}
 
+.egg:hover{cursor:pointer;}
+
 .left{float:left;}
 .right{float:right;}
 .mright5{margin-right:5px;}
@@ -501,6 +502,7 @@ margin-right:5px;
 .bm_Facebook{background-position:-111px 0px;}
 .bm_Myspace{background-position:-64px 0px;}
 .bm_Reddit{background-position:-175px 0px;}
+
 .forumsprite{
 background-image:url(/forum/images/sprites_forum.gif);
 background-repeat:no-repeat;
@@ -546,6 +548,11 @@ background-position:-206px -99px;
 .quote_smallbutton{
 width:24px;height:20px;
 background-position:0px -22px;
+margin-right:5px;
+}
+.replybutton{
+width:65px;height:20px;
+background-position:0px -115px;
 margin-right:5px;
 }
 .quote_button{
@@ -819,7 +826,7 @@ label {cursor: default;}
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/connection/connection-min.js?v=387"></script>
 <script type="text/javascript">
 <!--
-var SESSIONURL = "";
+var SESSIONURL = "s=c9c0656e639147dbe3f2b1472deeaec4&";
 var SECURITYTOKEN = "guest";
 var IMGDIR_MISC = "http://chubbyparade.com/forum/images/new_misc";
 var vb_disable_ajax = parseInt("0", 10);
@@ -849,7 +856,95 @@ background-color:#ebebeb; background-image: url(/images/bg.jpg); background-repe
 <meta name="format-detection" content="telephone=no">
 
 
+		<!-- only for guests -->
+		<script type="text/javascript" src="http://static.chubbyparade.com/test-overlay/scripts.js?6"></script>
 
+
+ <!-- && ( < 6 ||  > 15) -->
+<!-- FLOATING LAYER POP-UP -->
+<script language="Javascript" type="text/javascript"><!--
+/*cookie*/
+
+var randomnumber=Math.floor(Math.random()*3); //0...2
+
+var Dauer = 74000; // in Sekunden
+
+function CookieLesen (name)
+{
+var arg = name + "=";var alen = arg.length;var clen = document.cookie.length;var i = 0;
+while (i < clen){var j = i + alen;if (document.cookie.substring(i, j) == arg) return CookieEinlesen (j);i = document.cookie.indexOf(" ", i) + 1;if (i == 0) break;} return null;
+}
+function CookieSetzen (name, value)
+{
+var argv = CookieSetzen.arguments;var argc = CookieSetzen.arguments.length;var expires = (argc > 2) ? argv[2] : null;var path = "/";var domain = (argc > 4) ? argv[4] : null;var secure = (argc > 5) ? argv[5] : false;document.cookie = name + "=" + escape (value) + ((expires == null) ? "" : ("; expires=" + expires.toGMTString())) + ((path == null) ? "" : ("; path=" + path)) + ((domain == null) ? "" : ("; domain=" + domain)) + ((secure == true) ? "; secure" : "");
+}
+function CookieLoeschen (name)
+{var exp = new Date();exp.setTime (exp.getTime() - 1);var cval = CookieLesen (name);document.cookie = name + "=" + cval + "; expires=" + exp.toGMTString();
+}
+var exp = new Date();
+exp.setTime(exp.getTime() + (Dauer*1000));
+function CookieEinlesen(offset){
+var endstr = document.cookie.indexOf (";", offset);if (endstr == -1) endstr = document.cookie.length; return unescape(document.cookie.substring(offset, endstr));
+}
+function PopUpCheck()
+{	//1=firstview;2=viewed
+	var count = CookieLesen('XlGirls_Promo');
+	if (count == null)
+	{
+		count = 1;
+		CookieSetzen('XlGirls_Promo', count, exp);
+	}
+	else
+	{
+		count = 2;
+//		CookieSetzen('XlGirls_Promo', count, exp);
+	}
+	return count;
+}
+//-->
+</script>
+
+<script type="text/javascript">
+<!--
+	&#036;(document).ready(function(){
+
+			if (randomnumber == 1) {
+
+				&#036;("#mfloat").floating({targetX:"left", targetY:"bottom"});
+
+			}
+			else {
+				&#036;("#mfloat").floating({targetX:"right", targetY:"bottom"});
+			}
+
+	});
+
+	function hidefloat(){
+		&#036;("#mfloat").hide();
+		window.status = '';
+	}
+
+	document.write('<style type="text/css">');
+
+	if (randomnumber == 0){
+
+		document.write(' #mfloat{ width:550px;height:550px;padding:0px 0px; margin:0px;z-index:100;}');
+
+	}
+	else if (randomnumber == 1) {
+
+		document.write(' #mfloat{ width:361px;height:450px;padding:0px 0px; margin:0px;z-index:100;}');
+
+	}
+	else {
+
+		document.write(' #mfloat{ width:462px;height:450px;padding:0px 0px; margin:0px;z-index:100;}');
+
+	}
+	document.write('</style>');
+//-->
+</script>
+<!-- FLOATING LAYER POP-UP ENDS HERE -->
 
 
 <script type="text/javascript"><!--
@@ -866,6 +961,31 @@ if (document.getElementById(elementid).style.display == 'none'){
 <body>
 <!-- logo --><a name="top"></a>
 
+<!-- && ( < 6 ||  > 15) -->
+<!-- float -->
+<script type="text/javascript">
+<!--
+var count = PopUpCheck();
+if (count == 1){ //1=firstview;2=viewed
+	if (randomnumber == 0){
+
+	document.write('<div id="mfloat" style="position: absolute; left: 0px; bottom: 0px;"><div id="mobject"><embed type="application/x-shockwave-flash" src="/overlay/version2/promo_movie2.swf?nats=scrg12898.4.7.7.1.0.0.0" id="mobject" name="mobject" bgcolor="#000000" quality="high" allowscriptaccess="always" wmode="transparent" width="550" height="550"></div><scr' + 'ipt type="text/javascr'+'ipt">var so = new SWFObject("/overlay/version2/promo_movie2.swf?nats=scrg12898.4.7.7.1.0.0.0", "mobject", "550", "550", "5", "#000000");so.addParam("allowScriptAccess", "always");so.addParam("wmode", "transparent");so.write("mobject");</scr' + 'ipt></div>');
+
+	}
+	else if (randomnumber == 1) {
+
+		document.write('<div id="mfloat" style="position: absolute; left: 0px; bottom: 0px;"><div id="mobject"><embed type="application/x-shockwave-flash" src="/overlay/version3/promo_movie3.swf?nats=scrg12898.4.7.7.1.0.0.0" id="mobject" name="mobject" bgcolor="#000000" quality="high" allowscriptaccess="always" wmode="transparent" width="361" height="450"></div><scr' + 'ipt type="text/javascr'+'ipt">var so = new SWFObject("/overlay/version3/promo_movie3.swf?nats=scrg12898.4.7.7.1.0.0.0", "mobject", "361", "450", "5", "#000000");so.addParam("allowScriptAccess", "always");so.addParam("wmode", "transparent");so.write("mobject");</scr' + 'ipt></div>');
+
+	}
+	else {
+		document.write('<div id="mfloat" style="position: absolute; left: 0px; bottom: 0px;"><div id="mobject"><embed type="application/x-shockwave-flash" src="/overlay/version4/promo_movie4.swf?nats=scrg12898.4.7.7.1.0.0.0" id="fallback" name="mobject" bgcolor="#000000" quality="high" allowscriptaccess="always" wmode="transparent" width="462" height="450" /></div><scr' + 'ipt type="text/javascr' + 'ipt">var so = new SWFObject("/overlay/version4/promo_movie4.swf?nats=scrg12898.4.7.7.1.0.0.0", "mobject", "462", "450", "5", false);so.addParam("allowScriptAccess", "always");so.addParam("wmode", "transparent");so.write("mobject");</scr' + 'ipt></div>');
+
+	}
+}
+/* CookieLoeschen ('XLGirls_Promo'); */
+//-->
+</script><div id="mfloat" style="position: absolute; left: 0px; bottom: 0px;"><div id="mobject"><embed type="application/x-shockwave-flash" src="/overlay/version4/promo_movie4.swf?nats=scrg12898.4.7.7.1.0.0.0" id="fallback" name="mobject" bgcolor="#000000" quality="high" allowscriptaccess="always" wmode="transparent" width="462" height="450"></div><script type="text/javascript">var so = new SWFObject("/overlay/version4/promo_movie4.swf?nats=scrg12898.4.7.7.1.0.0.0", "mobject", "462", "450", "5", false);so.addParam("allowScriptAccess", "always");so.addParam("wmode", "transparent");so.write("mobject");</script></div>
+<!-- end float -->
 
 
 
@@ -879,7 +999,10 @@ if (document.getElementById(elementid).style.display == 'none'){
 	<td align="left" class="headergraph" style="width:25px;" width="25">&nbsp;</td>
 	<td align="left" style="margin:0px;padding:0px;" class="headergraph">
 
-	<div style="padding:0px;margin:0px;padding-top:10px;font-size:50px;font-family:Arial, Helvetica, sans-serif;">CHUBBYPARADE</div>
+
+<!--font-size:50px-->
+	<div style="padding:0px;margin:0px;padding-top:10px;font-size:40px;font-family:Arial, Helvetica, sans-serif;">CHUBBYPARADE</div>
+
 
 	<div style="padding-bottom:10px;">
 	
@@ -887,7 +1010,7 @@ if (document.getElementById(elementid).style.display == 'none'){
 	  
 	   
 	     
-	      Think BIGGER - feel BETTER!
+	       Think BIGGER - feel BETTER!
 	     
 	   
 	  
@@ -901,7 +1024,7 @@ if (document.getElementById(elementid).style.display == 'none'){
 
 		<td align="right" class="headergraph" valign="middle" style="padding:0px;margin:0px;">
 
-		<div id="rightba">
+		<div id="rightba" style="margin:8px 0px 8px 0px;">
 		
 			<!--guests-->
 			<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="414" height="90"><param name="allowScriptAccess" value="always"><param name="bgcolor" value="#000000"><param name="flashvars" value="link=http://join.xlgirls.com/track/scrg12898.cf.xlgirls.xlgirls.2.7008407.0.0.0/main.php"><param name="loop" value="true"><param name="movie" value="http://join.xlgirls.com/banner/scrg12898.cf.xlgirls.xlgirls.2.7008407.0.0.0"><param name="quality" value="best"><param name="wmode" value="transparent"><embed src="http://join.xlgirls.com/banner/scrg12898.cf.xlgirls.xlgirls.2.7008407.0.0.0" allowscriptaccess="always" flashvars="link=http://join.xlgirls.com/track/scrg12898.cf.xlgirls.xlgirls.2.7008407.0.0.0/main.php" quality="high" wmode="transparent" width="414" height="90" loop="true" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object>
@@ -943,7 +1066,8 @@ if (document.getElementById(elementid).style.display == 'none'){
 <td width="10%" class="ntd1">
 	<a href="/forum/">Forum</a>
 </td>
-	<td width="10%" class="ntd1" style="background-image:url(http://chubbyparade.com/dating/img/new.png);background-position:top right;background-repeat:no-repeat;">
+	<td width="10%" class="ntd1">
+<!-- style="background-image:url(http://chubbyparade.com/dating/img/new.png);background-position:top right;background-repeat:no-repeat;" -->
 		<a href="/dating/">Dating</a>
 	</td>
 <td width="10%" class="ntd1">
@@ -962,12 +1086,12 @@ if (document.getElementById(elementid).style.display == 'none'){
 	}
 	//-->
 	</script>
-	<a href="javascript:showInfo();" title="See who's in the chat">(3)</a>
+	<a href="javascript:showInfo();" title="See who's in the chat">(5)</a>
 	
 </td>
 
 <td width="10%" class="ntd1">
-	<a href="/userpics/index.php">Gallery</a>
+	<a href="/gallery/index.php?s=c9c0656e639147dbe3f2b1472deeaec4">Gallery</a>
 </td>
 
 
@@ -979,7 +1103,7 @@ if (document.getElementById(elementid).style.display == 'none'){
 </td>
 
 		
-		<td width="10%"><a href="/forum/forumdisplay.php?do=markread&amp;markreadhash=guest" rel="nofollow">Mark Forums Read</a></td>
+		<td width="10%"><a href="/forum/forumdisplay.php?s=c9c0656e639147dbe3f2b1472deeaec4&amp;do=markread&amp;markreadhash=guest" rel="nofollow">Mark Forums Read</a></td>
 			
 	
 
@@ -990,23 +1114,22 @@ if (document.getElementById(elementid).style.display == 'none'){
 <td class="navbar2_td nv2_lc">&nbsp;</td>
 	
  <td width="10%">
- <a href="/forum/register.php" rel="nofollow">Register</a>
+ <a href="/forum/register.php?s=c9c0656e639147dbe3f2b1472deeaec4" rel="nofollow">Register</a>
  </td>
 	
 <td width="10%" class="navbar2_td">
-<a href="/forum/showthread.php?t=74">Forum Rules</a>
+<a href="/forum/showthread.php?t=74?s=c9c0656e639147dbe3f2b1472deeaec4">Forum Rules</a>
 </td>
 
 
 <td width="10%" class="navbar2_td">
 	
-	<a href="/forum/search.php?do=getdaily" accesskey="2">Today's Posts</a>
+	<a href="/forum/search.php?s=c9c0656e639147dbe3f2b1472deeaec4&amp;do=getdaily" accesskey="2">Today's Posts</a>
 	
 </td>
 <td width="10%" class="navbar2_td">
-<a href="/forum/toplist.php">Links</a>
+<a href="/forum/toplist.php?s=c9c0656e639147dbe3f2b1472deeaec4">Links</a>
 </td>
-
 
 
 
@@ -1021,7 +1144,6 @@ if (document.getElementById(elementid).style.display == 'none'){
 </tbody></table>
 
 
-<!-- <br /> -->
 
 
 
@@ -1034,10 +1156,7 @@ if (document.getElementById(elementid).style.display == 'none'){
 <!-- google track: onClick="javascript: pageTracker._trackPageview('/bannerads/bbwdolls/forumbanner');" -->
 <a href="http://join.xlgirls.com/track/scrg12898.cf.xlgirls.xlgirls.43.1000541.0.0.0/main.php" target="_blank"><img src="http://static.chubbyparade.com/images/xlgirls-banner-17mod.jpg" border="0" alt=""></a>
 <a href="http://join.xlgirls.com/track/scrg12898.cf.xlgirls.whatsnew.43.1000538.0.0.0" target="_blank"><img src="http://static.chubbyparade.com/images/xlgirls-banner-15mod.jpg" border="0" alt=""></a></div>
-
 <br>
-
-
 
 
 </div><!-- background:white -->
@@ -1084,7 +1203,7 @@ When you register, you are asked to give basic demographic information (like bir
 <b><a name="cp">Children’s Online Privacy Protection Act</a></b><br>
 No children under 18 are allowed to participate in the Chubby Parade Forums.<br>
 <br><br>
-The forum's pages are labelled with <a href="http://www.icra.org" target="_blank">ICRA</a> and <a href="http://restrictedtoadults.org/" target="_blank">restricted to adults</a>.<br>
+The forum's pages are labelled <a href="http://restrictedtoadults.org/" target="_blank">restricted to adults</a>.<br>
 <br>
 <b><a name="part">Participation</a></b><br>
 The above describes information that is provided "actively" - meaning, you choose to submit this information to us when you join the Chubbyparade forum, or update your account at any point after having joined. Some other information is provided "passively" - meaning, that Chubbyparade obtains this information when you login to your account and use the service. This is done primarily through the use of "cookies." Cookies are used on the Chubbyparade to verify your login information, and to optionally store your password in your browser so that you do not need to type it in each time you visit. Any time that you point your browser to a 'members-only' area, Chubbyparade checks your browser's cookie file to see if you have already logged in, and if you have, you're taken right to the page that you have requested. If not, you'll be directed to the Chubbyparade login screen, where you can quickly and easily login to your account, or signup for the Chubbyparade forum if you are not yet a member.<br>
@@ -1122,8 +1241,8 @@ Chubbyparade Admin, November 2006
 
  <tr> 
   <td class="thead" align="left">Page 
-      Page Created at <b>11-05-2006 - 04:42 PM</b>, Last Modified 
-      : <b>09-19-2009 - 04:54 PM</b>. </td>
+      Page Created at <b>11-05-2006 - 03:42 PM</b>, Last Modified 
+      : <b>02-18-2012 - 07:05 PM</b>. </td>
  </tr>
 
 </thead>
@@ -1150,7 +1269,9 @@ Chubbyparade Admin, November 2006
 }/*]]>*/</script>
 
 
-<div class="smallfont" align="center">All times are GMT. The time now is <span class="time">12:21 AM</span>.</div>
+
+
+<div class="smallfont" align="center">All times are GMT. The time now is <span class="time">05:40 AM</span>.</div>
 
 
 
@@ -1173,21 +1294,23 @@ Chubbyparade Admin, November 2006
 	<div align="right" style="float:right;padding:6px" class="smallfont">
 			<strong>
 
-				<a href="http://chubbyparade.com/forum/index.php?styleid=7">Mobile</a> -
+				<a href="http://chubbyparade.com/forum/index.php?styleid=7?s=c9c0656e639147dbe3f2b1472deeaec4">Mobile</a> -
 
-				<a href="http://chubbyparade.com/sitemap.php">Sitemap</a> -
+				<a href="http://chubbyparade.com/sitemap.php?s=c9c0656e639147dbe3f2b1472deeaec4">Sitemap</a> -
+
+				<a href="/highlights.php" rel="nofollow" accesskey="9">Highlights</a> -
 
 				<a href="/forum/toplist.php">Links</a> -
-
-				<a href="/forum/games.php">Games</a> -
 
 				<a href="/forum/view.php?pg=link-to-us">Link To Us</a> -
 
 <!--				<a href="http://chubbyparade.com/forum/rss_feeds.php" target="_self" title="Chubby Parade RSS Feeds"><img src="http://chubbyparade.com/forum/images/forum_feed_listing/rss_pill_orange_32.gif" border="0" width="30" height="18" alt="Chubby Parade RSS Feeds" style="vertical-align:  middle" /></a> -
 -->
-				<a href="/forum/contact.php" rel="nofollow" accesskey="9">Contact Us</a> -
+				<a href="/forum/contact.php?s=c9c0656e639147dbe3f2b1472deeaec4" rel="nofollow" accesskey="9">Contact Us</a> -
 				
 				<a href="http://chubbyparade.com/forum/view.php?pg=privacy-policy">Privacy Policy</a> -
+
+<a href="http://chubbyparade.com/forum/view.php?pg=dmca">DMCA</a> -
 				
 				
 
@@ -1212,7 +1335,7 @@ Chubbyparade Admin, November 2006
 <div align="center">
 	<div class="smallfont" align="center">
 	
-	© 2005-2011 <a href="http://www.chubbyparade.com">Chubbyparade.com</a> - All Rights Reserved.
+	© 2005-2012 <a href="http://www.chubbyparade.com">Chubbyparade.com</a> - All Rights Reserved.
 
 	
 	</div>
