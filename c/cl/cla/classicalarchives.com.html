@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the classicalarchives.com privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101122856id_/http%3A//www.classicalarchives.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the classicalarchives.com privacy policy that was archived on 2012-05-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120520065950id_/http%3A//www.classicalarchives.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -20,7 +20,7 @@
 <link rel="alternate" type="application/rss+xml" href="/news.xml">
 
 
-<link rel="stylesheet" type="text/css" href="/css/ca.css?r=22789">
+<link rel="stylesheet" type="text/css" href="/css/ca.css?r=24176">
 
 
 <!--[if IE 6]>
@@ -56,12 +56,12 @@ var is_subscriber = false;
 </script>
 
 
-<script type="text/javascript" src="/js/ca.js?r=22875"></script>
+<script type="text/javascript" src="/js/ca.js?r=24284"></script>
 
 
 
      </head>
-     <body id="cma">
+     <body id="cma" class="masked"><div class="mask" id="MsgBox_mask" style="z-index: 9999; height: 1910px; width: 1366px; display: block;">&nbsp;</div><iframe id="_yuiResizeMonitor" title="Text Resize Monitor" tabindex="-1" role="presentation" style="position: absolute; visibility: visible; background-color: transparent; border-width: 0px; width: 2em; height: 2em; left: 0px; top: -27px;"></iframe><div class="yui-panel-container yui-dialog yui-simple-dialog shadow" id="MsgBox_c" style="visibility: visible; left: 432px; top: 314px; z-index: 10000;"><div id="MsgBox" class="yui-module yui-overlay yui-panel" style="visibility: inherit; width: 500px;"><div class="hd" style="cursor: auto;">Error!</div><div class="bd"><div class="message error"><div class="rsEnd">&nbsp;</div><h3>Error!</h3><p>An error occurred. Please try again. If the error persists please contact us. [Code: 404]</p></div><form name="frm_MsgBox"><input type="hidden" name="MsgBox" value=""></form></div><div class="ft"><span class="button-group"><span id="yui-gen0" class="yui-button yui-push-button default yui-button-focus yui-push-button-focus"><span class="first-child"><button type="button" id="yui-gen0-button">Ok</button></span></span></span></div></div><div class="underlay"></div></div>
         
 
 
@@ -81,17 +81,23 @@ _udn = ".classicalarchives.com";
 
 
 
+            <div id="popular-tracks-header" style=" white-space: nowrap">
+                <span style="position:absolute; z-index:1; background-color: #800; color: #fff; font-weight: bold; font-size: 12px; padding:1px 2px 1px 2px;">Most popular tracks now ►</span>
+                <span style="position:absolute; z-index:1; background-color: #800; color: #fff; font-weight: bold; font-size: 12px; padding:1px 2px 1px 2px; margin-left: 958px; width:18px; height:18px"><a href="javascript:ticker_toggle()"><span id="ticker_toggle"></span></a></span>
+                <span id="popular_tracks_marquee" style="overflow:hidden; margin-left:178px; width:800px; padding-top:1px" onmouseover="TICKER_PAUSED=true" onmouseout="TICKER_PAUSED=false"></span>
+             </div>
+
             <div id="cma-header">
                 <div id="cma-header-prim">
                     <a href="http://www.classicalarchives.com/index.html" class="logo"><img src="/images/a_logo.gif" alt="Home"></a>
 
-                    <div id="cmasearch" class="search yui-hidden">
+                    <div id="cmasearch" class="search">
                         <form id="cmasearchform" method="get" action="http://www.classicalarchives.com/search" onsubmit="return cmaSearch.submitState;">
                             <div id="cmasearchbx">
                                 <div id="cmasearcherr" class="yui-hidden">Please enter a search term</div>
                                 <div id="cmasearching" class="yui-hidden">Searching...</div>
-                                <div id="cmasearchdesc" class="yui-hidden">Search for Music</div>
-                                <input id="cmasearchtxt" type="text" name="q" class="yui-hidden">
+                                <div id="cmasearchdesc" class="">Search for Music</div>
+                                <input id="cmasearchtxt" type="text" name="q" class="">
                             </div><input id="cmasearchbtn" type="image" src="/images/nv/b_search.gif" title="Search" value="Search">
                             <ul class="cmanv srchnv">
                                 <li class="expand"><a href="http://www.classicalarchives.com/advanced_search.html"><span class="bd">Advanced Search</span><span class="end"></span></a></li>
@@ -104,11 +110,21 @@ cmaSearch.init('cmasearchtxt', 'cmasearchbtn', 'cmasearchform', 'cmasearch');
                     </div>
 
                 </div>
-                <div id="cma-header-sec-nav">
+                
+                <style>
+                    #cma-header-misc-nav .navgiftsbtn {width:153px;height:29px; background-image:url('/images/CTA/120501/navbar_send_gift_cta.png?r=17346') !important;background-repeat:no-repeat;background-position:29px -29px !important;}
+                    #cma-header-misc-nav .navgiftsbtn:hover {width:153px;height:29px; background-image:url('/images/CTA/120501/navbar_send_gift_cta.png?r=17346') !important;background-repeat:no-repeat;background-position:29px 0px !important;}
+                </style>
+                <div id="cma-header-misc-nav">
+                    <a id="navgiftslink" class="yui-hidden" href="https://secure.classicalarchives.com/gift/select.html?bid=nbg"><div class="navgiftsbtn" style="float:right; width:185px"></div></a>
                 </div>
-                <div id="cma-header-prim-nav">
-                </div>
-
+                <script>
+                    if (location.protocol == "http:" && location.href.indexOf("secure") == -1)
+                        YAHOO.util.Dom.removeClass("navgiftslink", "yui-hidden");
+                </script>
+                <div id="cma-header-sec-nav"><ul><li>The Greats<span><img src="/images/nv/a_arrow_dn_wt.gif"></span></li><li><a href="https://web.archive.org/web/20100710050003/http://www.classicalarchives.com/albums/?navID=0">New Releases<span><img src="/images/nv/a_arrow_go_wt.gif"></span></a></li><li><a href="https://web.archive.org/web/20100710050003/http://www.classicalarchives.com/features/?navID=0">Exclusive Presentations<span><img src="/images/nv/a_arrow_go_wt.gif"></span></a></li></ul></div>
+                <div id="cma-header-prim-nav" class="caui-nav-container" style=""><ul class="caui-nav"><li><div id="cma-header-prim-nav-0" class="home on"><a id="caui-nav0-link0" href="https://web.archive.org/web/20100710050003/http://www.classicalarchives.com/?navID=0"><img id="cma-header-prim-nav-img-0" src="/images/nv/primary_navigation.png" alt="Home"></a></div></li><li><div id="cma-header-prim-nav-1" class="playMusic"><a id="caui-nav0-link1" href="https://web.archive.org/web/20100710050003/http://www.classicalarchives.com/play_music.html?navID=1"><img id="cma-header-prim-nav-img-1" src="/images/nv/primary_navigation.png" alt="Play Music"></a></div></li><li><div id="cma-header-prim-nav-2" class="downloadMusic"><a id="caui-nav0-link2" href="https://web.archive.org/web/20100710050003/http://www.classicalarchives.com/download_music.html?navID=2"><img id="cma-header-prim-nav-img-2" src="/images/nv/primary_navigation.png" alt="Download Music"></a></div></li><li><div id="cma-header-prim-nav-3" class="midi"><a id="caui-nav0-link3" href="https://web.archive.org/web/20100710050003/http://www.classicalarchives.com/midi.html?navID=3"><img id="cma-header-prim-nav-img-3" src="/images/nv/primary_navigation.png" alt="Midi"></a></div></li><li><div id="cma-header-prim-nav-4" class="yourAccount"><a id="caui-nav0-link4" href="https://web.archive.org/web/20100710050003/https://secure.classicalarchives.com/youraccount.html?navID=4"><img id="cma-header-prim-nav-img-4" src="/images/nv/primary_navigation.png" alt="Your Account"></a></div></li></ul></div>
+                
                 <div style="float:right; padding:10px 15px 0 0;">
                     <a class="link" style="color:#000; text-decoration:none;" href="https://secure.classicalarchives.com/cart/display.html">
                         <span style="font-size:10px;" id="cma-header-cart-counts"></span>
@@ -123,8 +139,16 @@ cmaSearch.init('cmasearchtxt', 'cmasearchbtn', 'cmasearchform', 'cmasearch');
                     </div>
                     <div id="cma-header-member-login" class="yui-hidden">
 
-                        <ul class="cmanv srchnv" id="nav_login_link" style="margin-top: 14px">
-                            <li class="expand"><a href="javascript:void(0)" style="text-decoration:none; float:right; color:#400000" onclick="$('cma-header-testimonials').style.display='none'; $('frmLogin').style.display='block'; $('nav_login_link').style.display='none'; $('email').focus();"><span class="bd" style="font-size:12px; font-weight:bold; color:#400000">MEMBER LOGIN</span><span class="end"></span></a></li>
+                        <div id="facebook_login_button" style="margin-top:0px; cursor: pointer; width:150px; height:22px; background-image: url(/images/facebook-login.png); text-align: center; float:right;" onclick="logInWithFacebook()">
+                            <span class="text_white text_small text_bold" style="float:right; margin-top:5px; margin-right:10px">Use Facebook login</span>
+                        </div>
+                        <ul class="cmanv srchnv" style="margin-top:-3px;" id="nav_login_link">
+                            <li class="expand">
+                                <a href="javascript:void(0)" style="text-decoration:none; float:right; color:#400000" onclick="$('cma-header-testimonials').style.display='none';$('facebook_login_button').style.display='none'; $('frmLogin').style.display='block'; $('nav_login_link').style.display='none'; $('email').focus();">
+                                    <span class="bd" style="font-size:12px; font-weight:bold; color:#400000; white-space: nowrap"><span style="font-size: 8px; text-transform: none; padding-right: 3px">OR USE</span>MEMBER LOGIN</span>
+                                    <span class="end"></span>
+                                </a>
+                            </li>
                         </ul>
                         <form action="https://secure.classicalarchives.com/login.html" style="display:none" method="post" id="frmLogin" onsubmit="return YAHOO.LOGIN.submitHandler();">
                             <input type="hidden" name="do" value="login">
@@ -144,7 +168,7 @@ cmaSearch.init('cmasearchtxt', 'cmasearchbtn', 'cmasearchform', 'cmasearch');
                     </div>
                     <div id="cma-header-member-welcome" class="yui-hidden">
                         <a href="https://secure.classicalarchives.com/logout.html" class="memberLogout more">LOGOUT&nbsp;<img src="/images/b_black-arrow.gif" alt="" class="arrow lm"></a>
-                        <span href="https://secure.classicalarchives.com/youraccount.html" class="memberWelcomeMsg">Welcome <a href="https://secure.classicalarchives.com/youraccount.html" id="welcome-name"></a></span>
+                        <span class="memberWelcomeMsg">Welcome <a href="https://secure.classicalarchives.com/youraccount.html" id="welcome-name"></a></span>
                     </div>
                 </div>
 
@@ -152,17 +176,17 @@ cmaSearch.init('cmasearchtxt', 'cmasearchbtn', 'cmasearchform', 'cmasearch');
 
                     <div id="cma-stage-music-play" class="cma-stage-overlay">
                         <a href="https://secure.classicalarchives.com/membership/signup.html?show_subs_only=true&amp;bid=hsp">
-                            <img src="/images/CTA/111001/stage_play.jpg?r=17346" alt="Join Classical Archives" style="width:980px;height:225px;">
+                            <img src="/images/CTA/120501/stage_play.jpg?r=17346" alt="Join Classical Archives" style="width:980px;height:120px;">
                         </a>
                     </div>
                     <div id="cma-stage-music-download" class="cma-stage-overlay">
                         <a href="https://secure.classicalarchives.com/membership/signup.html?show_subs_only=true&amp;bid=hsd">
-                            <img src="/images/CTA/111001/stage_download.jpg?r=17346" alt="Join Classical Archives" style="width:980px;height:225px;">
+                            <img src="/images/CTA/120501/stage_download.jpg?r=17346" alt="Join Classical Archives" style="width:980px;height:120px;">
                         </a>
                     </div>
                     <div id="cma-stage-music-midi" class="cma-stage-overlay">
                         <a href="https://secure.classicalarchives.com/membership/signup.html?show_subs_only=true&amp;bid=hsm">
-                            <img src="/images/CTA/111001/stage_midi.jpg?r=17346" alt="Join Classical Archives" style="width:980px;height:225px;">
+                            <img src="/images/CTA/120501/stage_midi.jpg?r=17346" alt="Join Classical Archives" style="width:980px;height:120px;">
                         </a>
                     </div>
 
@@ -222,7 +246,7 @@ YAHOO.util.Event.onContentReady("cma-header-prim-nav", function () {
             <div id="cma-doc">
                 <div id="cma-stage-message" class="yui-hidden"></div>
                 <div class="stage-content">&nbsp;</div>
-                <div id="cma-main" class="content pBottom yui-hidden">
+                <div id="cma-main" class="content pBottom">
 
                     <div id="MMSG"></div>
          <table class="master" cellspacing="0">
@@ -315,8 +339,8 @@ YAHOO.util.Event.onContentReady("cma-header-prim-nav", function () {
 
 
 
-<a href="https://secure.classicalarchives.com/membership/signup.html?show_subs_only=true&amp;bid=irs"><img id="adj1" src="/images/CTA/111001/rc_subscribe_cta.jpg" class="yui-hidden mBottom" style="width:300px;height:400px;border:1px solid #aaa;" alt="Join Classical Archives"></a>
-<a href="https://secure.classicalarchives.com/membership/signup.html?show_subs_only=true&amp;bid=irs"><img id="adj2" src="/images/CTA/111001/rc_subscribe_cta.jpg" class="yui-hidden mBottom" style="width:300px;height:400px;border:1px solid #aaa;" alt="Join Classical Archives"></a>
+<a href="https://secure.classicalarchives.com/membership/signup.html?show_subs_only=true&amp;bid=irs"><img id="adj1" src="/images/CTA/120501/rc_subscribe_cta.jpg" class="yui-hidden mBottom" style="width:300px;height:400px;border:1px solid #aaa;" alt="Join Classical Archives"></a>
+<a href="https://secure.classicalarchives.com/membership/signup.html?show_subs_only=true&amp;bid=irs"><img id="adj2" src="/images/CTA/120501/rc_subscribe_cta.jpg" class="mBottom" style="width:300px;height:400px;border:1px solid #aaa;" alt="Join Classical Archives"></a>
 <script type="text/javascript">
     var Dom = YAHOO.util.Dom;
     if (Math.random() < 0.5) {
@@ -326,7 +350,7 @@ YAHOO.util.Event.onContentReady("cma-header-prim-nav", function () {
     }
 </script>
 
-<a href="https://secure.classicalarchives.com/gift/select.html?bid=irg"><img src="/images/CTA/111001/rc_gift_cert_cta.jpg" class="mBottom" style="width:300px;border:1px solid #aaa;" alt="Give the Gift of Classical Music"></a>
+<a href="https://secure.classicalarchives.com/gift/select.html?bid=irg"><img src="/images/CTA/120501/rc_gift_cert_cta.jpg" class="mBottom" style="width:300px;border:1px solid #aaa;" alt="Give the Gift of Classical Music"></a>
 
 
 
@@ -381,7 +405,7 @@ YAHOO.util.Event.onContentReady("cma-header-prim-nav", function () {
                 <div class="content">
 
                     <div class="yui-g cpline">
-                        <div class="cpinfo">© 1994-2011 Classical Archives LLC —  The Ultimate Classical Music Destination ™</div>
+                        <div class="cpinfo">© 1994-2012 Classical Archives LLC —  The Ultimate Classical Music Destination ™</div>
                     </div>
                 </div>
             </div>
@@ -413,6 +437,7 @@ YAHOO.util.Event.onContentReady("cma-header-prim-nav", function () {
         <ul>
             <li class="first"><a href="http://www.classicalarchives.com/sitemap.html">Sitemap</a></li>
             <li>&nbsp;</li>
+            <li class="first"><a href="https://secure.classicalarchives.com/submit/">Submit Your Music</a></li>
             <li class="first">Tutorials</li>
             <li><a href="javascript:tutOverview();">Overview</a></li>
             <li><a href="javascript:tutComposer();">Composers</a></li>
@@ -422,7 +447,7 @@ YAHOO.util.Event.onContentReady("cma-header-prim-nav", function () {
             <li><a href="javascript:tutPlaylist();">Playlists</a></li>
             
             <li>&nbsp;</li>
-            <li class="first"><a href="http://www.classicalarchives.com/google_button.html">Google Toolbar Button</a></li>
+            <li class="first"><a href="http://www.classicalarchives.com/google_button.html">Google Toolbar Button (IE &amp; FF only)</a></li>
         </ul>
     </div>
     <div class="yui-u">
