@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the receipt-bank.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102150901id_/http%3A//www.receipt-bank.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the receipt-bank.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520233539id_/http%3A//www.receipt-bank.com/privacy) for the most accurate reproduction.*
 
 # Receipt Bank - privacy policy
 
@@ -12,10 +12,10 @@
 
 ## Limiting the collection and use of personal information
 
-  4. Collecting personal information allows Receipt Bank to offer a more customized, secure, and efficient service to our users. To that end, we only collect personal information that is relevant to the purposes of the Company. 
+  4. Collecting personal information allows Receipt Bank to offer a more customized, secure, and efficient service to our users. To that end, we only collect personal information that is relevant to the purposes of the Company. The information that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. 
   5. We collect the following information from our users: 
     1. Registration information (first and last name, mailing address, password, email address) 
-    2. Receipts 
+    2. Receipts, invoices and other submitted items 
     3. All other user-generated content entered in the normal course of using the Services, including but not limited to forum posts, profiles, comments, suggestions, forwarded messages, etc. 
     4. Feedback information 
     5. Passive information 
