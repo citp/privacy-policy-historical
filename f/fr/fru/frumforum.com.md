@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the frumforum.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120184430id_/http%3A//www.frumforum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frumforum.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520165733id_/http%3A//www.frumforum.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | FrumForum
+# Privacy Policy
 
 Welcome to [www.FrumForum.com](http://www.frumforum.com/) operated by Frum Forum LLC (“FrumForum.com”, “We”, “Us” or “Our”). This Privacy Policy is designed to assist you in understanding how we collect, use, and retain personally identifiable information you provide to us through our website, and to assist you in making informed decisions when using the website. At FrumForum.com we appreciate your readership and value your personal privacy. We respect the personal nature of the information you provide us on our website and acknowledge the importance of protecting this information. This policy may be revised or updated at any time and we encourage you to check back often to ensure that you are familiar with the most recent version and the terms of our policy.
 
