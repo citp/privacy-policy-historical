@@ -1,23 +1,6 @@
-> *The following text is extracted and transformed from the snow-forecast.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119135125id_/http%3A//www.snow-forecast.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snow-forecast.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520144736id_/http%3A//www.snow-forecast.com/pages/privacy) for the most accurate reproduction.*
 
 # Snow Forecasts, Snow Reports & Snow Conditions
-
-[](http://www.facebook.com/snowreport)
-
-  
-
-
-[](http://store.snow-forecast.com/collections/gopro-hd-hero2-cameras)  
-**GoPro HD Hero2  
-now in our [ store](http://store.snow-forecast.com/collections/gopro-hd-hero2-cameras)  
-free 8GB SD card**
-
-  
-
-
-[Avalanche Safety Gear](http://store.snow-forecast.com/collections/avalanche-transceivers): great deals on transceivers, poles and shovels in our _Online Snow Store_
-
-**The official Snow-Forecast.com iPhone app is now available![click here](http://itunes.apple.com/gb/app/snow-forecast/id418032026?mt=8) to get it**
 
 ## **Privacy Statement for Snow-Forecast.com**
 
