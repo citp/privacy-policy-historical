@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tupalo.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623072205id_/http%3A//tupalo.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tupalo.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520044326id_/http%3A//tupalo.com/en/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Tupalo.com Blog
 
@@ -16,7 +16,7 @@ By registering with and taking advantage of the Services that Tupalo offers, you
 
 ## What Information We Collect
 
-Tupalo collects information based on content submitted by users, such as full name and email address. Tupalo does not sell or share your email address with any third party companies or lists. Email addresses are only displayed to the owning registered user when they are logged in and viewing their own profile. Never will Tupalo display your email address to another user visiting your profile, even when a mutually agreed friendship is present.
+Tupalo collects information based on content submitted by users, such as full name and email address. Tupalo does not sell or share your email address with any third party companies or lists. By default, when you sign up for an account on Tupalo, we opt you in to receive emails from Tupalo, business owners and other Tupalo users. Email addresses are only displayed to the owning registered user when they are logged in and viewing their own profile. Never will Tupalo display your email address to another user visiting your profile, even when a mutually agreed friendship is present.
 
 Tupalo also collects user-submitted information such as city, state, zip and country. Your default location, entered as City and Country, is shared publicly via your personal profile by default, but can be disabled by editing your profile.
 
