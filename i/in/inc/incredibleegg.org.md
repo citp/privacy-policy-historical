@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incredibleegg.org privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120171614id_/http%3A//www.incredibleegg.org/about-aeb/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incredibleegg.org privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520041057id_/http%3A//www.incredibleegg.org/about-aeb/privacy-policy) for the most accurate reproduction.*
 
 # Incredible Edible Egg | About AEB - Privacy Policy
 
@@ -10,7 +10,7 @@ The American Egg Board (“AEB”) is committed to protecting the privacy of Int
 
 Any personally identifiable information you send us through use of the Sites will be used in connection with the promotion or contest for which you submitted the information. This may include providing your information to an agent or service provider for AEB who uses the information solely on AEB’s behalf.
 
-We may also use the information to contact you about other AEB promotions or contests, or about the Sites. If, at any time, you want AEB to stop contacting you, please let us know by sending an e-mail to [aeb@aeb.org](mailto:aeb@aeb.org) . You can also contact us at the same address to access and/or correct any personal identifying information AEB is maintaining about you. We reserve the right to use or disclose your information as we believe is necessary to comply with applicable laws, to respond to legally appropriate requests and as is reasonably necessary for AEB and/or its service providers to manage and/or improve its business operations.
+We may also use the information to contact you about other AEB promotions or contests, or about the Sites. If, at any time, you want AEB to stop contacting you, please let us know by sending an e-mail to [aeb@aeb.org](mailto:aeb@aeb.org). You can also contact us at the same address to access and/or correct any personal identifying information AEB is maintaining about you. We reserve the right to use or disclose your information as we believe is necessary to comply with applicable laws, to respond to legally appropriate requests and as is reasonably necessary for AEB and/or its service providers to manage and/or improve its business operations.
 
 ### Information Storage/Security
 
