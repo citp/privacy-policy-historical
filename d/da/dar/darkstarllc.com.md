@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the darkstarllc.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124035044id_/http%3A//www.darkstarllc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darkstarllc.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520223902id_/http%3A//www.darkstarllc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Find where your information is going (or isn't) at DarkStar!
 
