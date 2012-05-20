@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kvue.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120021128id_/http%3A//www.kvue.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kvue.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520224233id_/http%3A//www.kvue.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
-# kvue.com | Austin News, Local News, Breaking News, Weather | Privacy Policy
+# kvue.com | Kvue's privacy policy | kvue.com where trust is earned
 
 ## Last Updated January 12, 2010
 
