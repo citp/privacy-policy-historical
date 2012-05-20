@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ed-ucationonline.com privacy policy that was archived on 2011-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110321025651id_/http%3A//www.ed-ucationonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ed-ucationonline.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520210240id_/http%3A//www.ed-ucationonline.com/privacy) for the most accurate reproduction.*
 
-# Ed-ucation online | Privacy
+# Ed-ucation online | Privacy Policy
 
 This is the web site of the Marillion Partnership trading as Ed-ucation Online
 
-We can be reached via e-mail at support@ed-ucationonline.com
+We can be reached via e-mail at support@the845club.com
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
