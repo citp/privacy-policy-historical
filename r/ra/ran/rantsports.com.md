@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rantsports.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228151431id_/http%3A//www.rantsports.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rantsports.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520155636id_/http%3A//www.rantsports.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Rant Sports
+# Privacy Policy - Rant Sports : Rant Sports
 
 Windy City Media Network, LLC (d/b/a Rant Sports) knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
