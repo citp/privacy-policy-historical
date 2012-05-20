@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wapreview.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121023838id_/http%3A//wapreview.com/blog/%3Fpage_id%3D511) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wapreview.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520154732id_/http%3A//wapreview.com/blog/%3Fpage_id%3D511) for the most accurate reproduction.*
 
 # Privacy Policy for WapReview.com | Wap Review
 
@@ -27,5 +27,3 @@ If you prefer not to receive interest-based advertising, you can click the “Op
 
 **Affiliate Links**  
 Links to products and services on this site may be affiliate links. The prices you pay are the same or less than if you went directly to the seller's site but WapReview.com gets a small commission on products purchased. 
-
-[](http://www.inmobi.com/onlinecampaigns/adv/?ref=WapReview_AdvGeneric)
