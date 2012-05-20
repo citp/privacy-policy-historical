@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the lipikaar.com privacy policy that was archived on 2008-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080920092100id_/http%3A//www.lipikaar.com/lipikaar/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lipikaar.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520135202id_/http%3A//www.lipikaar.com/privacy-policy) for the most accurate reproduction.*
 
 # Lipikaar - Privacy Policy
 
-**Databyte Equipment Private Limited, Privacy Policy**
+Manuka Software Solutions and its subsidiaries and affiliates ("Manuka") respects your privacy. This Privacy Policy provides succinctly the manner your data is collected and used by Manuka. You are advised to please read the Privacy Policy carefully. By accessing the services provided by Manuka you agree to the collection and use of your data by Manuka in the manner provided in this Privacy Policy. 
 
-Databyte Equipment Private Limited and its subsidiaries and affiliates ("Databyte") respects your privacy. This Privacy Policy provides succinctly the manner your data is collected and used by Databyte. You are advised to please read the Privacy Policy carefully. By accessing the services provided by Databyte you agree to the collection and use of your data by Databyte in the manner provided in this Privacy Policy. 
-
-**We want you to**
+### We want you to
 
   * feel comfortable using our web sites
   * feel secure submitting information to us
@@ -15,7 +13,7 @@ Databyte Equipment Private Limited and its subsidiaries and affiliates ("Databyt
 
 
 
-**What information may be collected from you?**
+### What information may be collected from you?
 
 We will automatically receive and collect certain anonymous information in standard usage logs through our Web server, including computer-identification information obtained from "cookies," sent to your browser from a:
 
@@ -50,13 +48,13 @@ We may also collect the following information:
 
 You can terminate your account at any time. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account.
 
-**Who collects the information?**
+### Who collects the information?
 
-We will collect anonymous traffic information from you when you visit our site. We will collect personally identifiable information about you only as part of a voluntary registration process, on-line survey, or contest or any combination thereof. Our advertisers may collect anonymous traffic information from their own assigned cookies to your browser. The Site contains links to other Web sites. We are not responsible for the privacy practices of such Web sites which we do not own, manage or control.
+We will collect anonymous traffic information from you when you visit our site. We will collect personally identifiable information about you only as part of a voluntary registration process, on-line survey, or contest or any combination thereof. Our advertisers may collect anonymous traffic information from their own assigned cookies to your browser. The Site contains links to other Web sites. We are not responsible for the privacy practices of such Web sites which we do not own, manage or control. 
 
-We make reviews, forums, and message boards and other services available to you. Please understand that any information that is disclosed in these areas becomes public information. We have no control over its use and you should exercise caution when disclosing your personal information to anyone.
+We make reviews, forums, and message boards and other services available to you. Please understand that any information that is disclosed in these areas becomes public information. We have no control over its use and you should exercise caution when disclosing your personal information to anyone. 
 
-**How is the information used?**
+### How is the information used?
 
 We use your personal information to:
 
@@ -89,54 +87,51 @@ Generally, we use anonymous traffic information to:
 
 
 
-**With whom will your information be shared?**
+### With whom will your information be shared?
 
 We will not use your information for any purpose other than to complete an order with you. We do not rent, sell or share your personal information and we will not disclose any of your personally identifiable information to third parties unless:
 
   * we have your permission
   * to provide products or services you've requested
-  * to help investigate, prevent or take action regarding unlawful and illegal activities, suspected fraud, potential threat to the safety or security of any person, violations of Databyte's terms of use or to defend against legal claims;
+  * to help investigate, prevent or take action regarding unlawful and illegal activities, suspected fraud, potential threat to the safety or security of any person, violations of Manuka's terms of use or to defend against legal claims;
   * special circumstances such as compliance with subpoenas, court orders, requests/order from legal authorities or law enforcement agencies requiring such disclosure.
 
 
 
 We may share your information with advertisers on an aggregate basis only.
 
-**What choices are available to you regarding collection, use and distribution of your information?**
+### What choices are available to you regarding collection, use and distribution of your information?
 
-Supplying personally identifiable information is entirely voluntary. You are not required to register with us in order to use our sites. However, we offer some services only to visitors who do register.
+Supplying personally identifiable information is entirely voluntary. You are not required to register with us in order to use our sites. However, we offer some services only to visitors who do register. 
 
-You may change your interests at any time and may opt-in or opt-out of any marketing / promotional / newsletters mailings. Databyte reserves the right to send you certain service related communication, considered to be a part of your Databyte account without offering you the facility to opt-out. You may update your information and change your account settings at any time.
+You may change your interests at any time and may opt-in or opt-out of any marketing / promotional / newsletters mailings. Manuka reserves the right to send you certain service related communication, considered to be a part of your Manuka account without offering you the facility to opt-out. You may update your information and change your account settings at any time. 
 
-Upon request, we will remove/block your personally identifiable information from our database, thereby canceling your registration. See Contact information below. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account.
+Upon request, we will remove/block your personally identifiable information from our database, thereby canceling your registration. See Contact information below. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account. 
 
 If we plan to use your personally identifiable information for any commercial purposes, we will notify you at the time we collect that information and allow you to opt-out of having your information used for those purposes. You can accept or decline the cookies. All sites that are customizable require that you accept cookies. You also must accept cookies to register as someone for access to some of our services. 
 
-**What security procedures are in place to protect information from loss, misuse or alteration?**
+### What security procedures are in place to protect information from loss, misuse or alteration?
 
-To protect against the loss, misuse and alteration of the information under our control, we have in place appropriate physical, electronic and managerial procedures. For example, our servers are accessible only to authorized personnel and that your information is shared with respective personnel on need to know basis to complete the transaction and to provide the services requested by you.
+To protect against the loss, misuse and alteration of the information under our control, we have in place appropriate physical, electronic and managerial procedures. For example, our servers are accessible only to authorized personnel and that your information is shared with respective personnel on need to know basis to complete the transaction and to provide the services requested by you. 
 
-Although we will endeavor to safeguard the confidentiality of your personally identifiable information, transmissions made by means of the Internet cannot be made absolutely secure. By using this site, you agree that we will have no liability for disclosure of your information due to errors in transmission or unauthorized acts of third parties.
+Although we will endeavor to safeguard the confidentiality of your personally identifiable information, transmissions made by means of the Internet cannot be made absolutely secure. By using this site, you agree that we will have no liability for disclosure of your information due to errors in transmission or unauthorized acts of third parties. 
 
-**How can you correct inaccuracies in the information?**
+### How can you correct inaccuracies in the information?
 
-To correct or update any information you have provided, our sites allow you to do it online. In the event of loss of access details, or to offer your views, suggestions, you can use the following option:
+To correct or update any information you have provided, our sites allow you to do it online. In the event of loss of access details, or to offer your views, suggestions, you can use the following option:   
+Send an e-mail to [info@lipikaar.com](mailto:info@lipikaar.com?subject=Lipikaar)
 
-  
-
-
-  * Send an e-mail to [info@lipikaar.com](mailto:info@lipikaar.com?subject=Lipikaar%3A%20Information)
-
-  
-
-
-**Policy updates**
+### Policy updates
 
 We reserve the right to change or update this policy at any time by placing a prominent notice on our site. Such changes shall be effective immediately upon posting to this site.   
 ` Contact Information  
 You can contact us at:  
-Databye Equipment Private Limited.  
-200, Narayan Peth, Laxmi Road,  
-Pune 411030,  
+Manuka Software Solutions  
+Flat No 3, Uma Heights, Shivaji Nagar  
+B.M.C.C. Road, Pune 411004,  
 INDIA  
-` [info@lipikaar.com](mailto:info@lipikaar.com?subject=Lipikaar%3A%20Information)
+` [info@lipikaar.com](mailto:info@lipikaar.com?subject=Lipikaar)
+
+All logos and trademarks are the property of their respective owners.  
+© 2007-2012 Lipikaar  
+[Terms of Use](https://web.archive.org/terms-of-use)| [Privacy Policy](https://web.archive.org/privacy-policy)
