@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chubbyparade.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119002126id_/http%3A//chubbyparade.com/forum/view.php%3Fpg%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chubbyparade.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520054002id_/http%3A//chubbyparade.com/forum/view.php%3Fpg%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Chubby Parade Privacy Policy
 
@@ -28,7 +28,7 @@ When you register, you are asked to give basic demographic information (like bir
 **Children’s Online Privacy Protection Act**  
 No children under 18 are allowed to participate in the Chubby Parade Forums.
 
-The forum's pages are labelled with [ICRA](http://www.icra.org/) and [restricted to adults](http://restrictedtoadults.org/).
+The forum's pages are labelled [restricted to adults](http://restrictedtoadults.org/).
 
 **Participation**  
 The above describes information that is provided "actively" - meaning, you choose to submit this information to us when you join the Chubbyparade forum, or update your account at any point after having joined. Some other information is provided "passively" - meaning, that Chubbyparade obtains this information when you login to your account and use the service. This is done primarily through the use of "cookies." Cookies are used on the Chubbyparade to verify your login information, and to optionally store your password in your browser so that you do not need to type it in each time you visit. Any time that you point your browser to a 'members-only' area, Chubbyparade checks your browser's cookie file to see if you have already logged in, and if you have, you're taken right to the page that you have requested. If not, you'll be directed to the Chubbyparade login screen, where you can quickly and easily login to your account, or signup for the Chubbyparade forum if you are not yet a member.
