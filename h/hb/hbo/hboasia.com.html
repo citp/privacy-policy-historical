@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hboasia.com privacy policy that was archived on 2011-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111120144403id_/http%3A//hboasia.com/terms/Privacy-Policy-18) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hboasia.com privacy policy that was archived on 2012-05-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120520061857id_/http%3A//www.hboasia.com/terms/Privacy-Policy-18) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -21,7 +21,7 @@
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-</script> 
+</script>
 
 <base href="http://www.hboasia.com/system/application/views/"><script language="javascript" src="admin/validate_form.js"></script><style>
 .error_field{
@@ -113,7 +113,7 @@ function change_country(id,name,language_id){
 					var current_url = window.location.href;
 					var tail = current_url.substring(base.length,current_url.length);
 					//top.location.href = 'http://www.hbosouthasia.com/'+tail;
-					top.location.href = 'http://www.hbosouthasia.com/index.php/home';
+					top.location.href = 'http://www.hbosouthasia.com/';
 				}
 			}
 
@@ -211,6 +211,7 @@ function getRightBannerData(position){
  * Add banner Click data
  */
 function bannerClickthrusAdd(Banner_ID){
+	 //Comment by Kangning on Valentine's Day 2012
 	var User_IP = "174.129.237.157";
 	var url = "http://www.hboasia.com/webbanner/ajaxBannerClickthtus";
 	$.post(
@@ -225,6 +226,12 @@ function bannerClickthrusAdd(Banner_ID){
 		}
 	);
 	return false;
+	/*
+	var horse="http://www.hboasia.com/webbanner/top_banner_flash_page?TB_iframe=true&height=500&width=1024";
+	tb_show('',horse,'');
+	//$('#TB_overlay').css('background','none');
+	$('#TB_title, #TB_overlay').remove();
+	*/
 }
 
 /**
@@ -356,7 +363,7 @@ function banner_overlay(URL){
 
 
 				<!-- Top banner -->
-                <div class="top_banner" id="top_banners"></div>
+                 <div class="top_banner" id="top_banners"></div>
 
                 <!-- start  -->
                 <div class="float_l box_left">
@@ -477,6 +484,24 @@ function banner_overlay(URL){
                             <div class="top_line">
                             	<ul>
                             			                            				                            				                            			
+			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(8,'台灣（中文）',3);return false;">台灣（中文）</a></li>
+				                            						                            		<li><a href="#" onclick="change_country(8,'香港（中文）',3);return false;">香港（中文）</a></li>
+				                            					                            					                            		<li><a href="#" onclick="change_country(8,'中国（中文）',3);return false;">中国（中文）</a></li>
+			                            					                            		<li><a href="#" onclick="change_country(8,'(Bahasa Indonesia)',3);return false;">(Bahasa Indonesia)</a></li>
+			                            		-->
+		                            			                            				                            				                            			
+			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(20,'台灣（中文）',3);return false;">台灣（中文）</a></li>
+				                            						                            		<li><a href="#" onclick="change_country(20,'香港（中文）',3);return false;">香港（中文）</a></li>
+				                            					                            					                            		<li><a href="#" onclick="change_country(20,'中国（中文）',3);return false;">中国（中文）</a></li>
+			                            					                            		<li><a href="#" onclick="change_country(20,'(Bahasa Indonesia)',3);return false;">(Bahasa Indonesia)</a></li>
+			                            		-->
+		                            			                            				                            				                            			
+			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(15,'台灣（中文）',3);return false;">台灣（中文）</a></li>
+				                            						                            		<li><a href="#" onclick="change_country(15,'香港（中文）',3);return false;">香港（中文）</a></li>
+				                            					                            					                            		<li><a href="#" onclick="change_country(15,'中国（中文）',3);return false;">中国（中文）</a></li>
+			                            					                            		<li><a href="#" onclick="change_country(15,'(Bahasa Indonesia)',3);return false;">(Bahasa Indonesia)</a></li>
+			                            		-->
+		                            			                            				                            				                            			
 			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(4,'台灣（中文）',3);return false;">台灣（中文）</a></li>
 				                            						                            		<li><a href="#" onclick="change_country(4,'香港（中文）',3);return false;">香港（中文）</a></li>
 				                            					                            					                            		<li><a href="#" onclick="change_country(4,'中国（中文）',3);return false;">中国（中文）</a></li>
@@ -589,24 +614,6 @@ function banner_overlay(URL){
 				                            						                            		<li><a href="#" onclick="change_country(14,'香港（中文）',3);return false;">香港（中文）</a></li>
 				                            					                            					                            		<li><a href="#" onclick="change_country(14,'中国（中文）',3);return false;">中国（中文）</a></li>
 			                            					                            		<li><a href="#" onclick="change_country(14,'(Bahasa Indonesia)',3);return false;">(Bahasa Indonesia)</a></li>
-			                            		-->
-		                            			                            				                            				                            			
-			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(8,'台灣（中文）',3);return false;">台灣（中文）</a></li>
-				                            						                            		<li><a href="#" onclick="change_country(8,'香港（中文）',3);return false;">香港（中文）</a></li>
-				                            					                            					                            		<li><a href="#" onclick="change_country(8,'中国（中文）',3);return false;">中国（中文）</a></li>
-			                            					                            		<li><a href="#" onclick="change_country(8,'(Bahasa Indonesia)',3);return false;">(Bahasa Indonesia)</a></li>
-			                            		-->
-		                            			                            				                            				                            			
-			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(20,'台灣（中文）',3);return false;">台灣（中文）</a></li>
-				                            						                            		<li><a href="#" onclick="change_country(20,'香港（中文）',3);return false;">香港（中文）</a></li>
-				                            					                            					                            		<li><a href="#" onclick="change_country(20,'中国（中文）',3);return false;">中国（中文）</a></li>
-			                            					                            		<li><a href="#" onclick="change_country(20,'(Bahasa Indonesia)',3);return false;">(Bahasa Indonesia)</a></li>
-			                            		-->
-		                            			                            				                            				                            			
-			                            		<!--				                            						                            		<li><a href="#" onclick="change_country(15,'台灣（中文）',3);return false;">台灣（中文）</a></li>
-				                            						                            		<li><a href="#" onclick="change_country(15,'香港（中文）',3);return false;">香港（中文）</a></li>
-				                            					                            					                            		<li><a href="#" onclick="change_country(15,'中国（中文）',3);return false;">中国（中文）</a></li>
-			                            					                            		<li><a href="#" onclick="change_country(15,'(Bahasa Indonesia)',3);return false;">(Bahasa Indonesia)</a></li>
 			                            		-->
 		                            			                            				                            				                            					                            				<li><a href="#" onclick="change_country(29,'香港 (中文）',9);return false;">香港 (中文）</a></li>
 		                            			
@@ -1025,7 +1032,7 @@ function getPopularMovieListingRightData(){
                     <div class="footer_copy float_l" style="margin-top:0;">
                                         	This website is intended for viewing solely in the following
                     																																												                    	<a href="http://www.hboasia.com/about/territories-14">territories</a>
-                    						                    	. © 2011 HBO Asia. All Rights Reserved.<br>
+                    						                    	. © 2012 HBO Asia. All Rights Reserved.<br>
                         Home Box Office®, HBO® and Cinemax® are registered trademarks of Home Box Office, Inc.<br>
                         HBO Signature, HBO Family and HBO Hits are service marks of Home Box Office, Inc.
                                         </div>
