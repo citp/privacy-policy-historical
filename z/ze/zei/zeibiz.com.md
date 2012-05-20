@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zeibiz.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219094513id_/http%3A//www.zeibiz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeibiz.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520194457id_/http%3A//www.zeibiz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Zeibiz
 
@@ -6,22 +6,10 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here [http://www.networkadvertising.org/managing/opt_out.asp ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-Advertising platforms hosted by Value Click Media Ads, Technorati Media Ads, SpotXchange Video Ads and Pixazza Image ads.
+Advertising platform is hosted by Google Adsense. Google Adsense is a third party advertisement vendor, it uses cookies to serve related content advertisements on this site.
 
 We used social sharing plugins to syndicate our online contents, it includes  Twitter, Facebook Google+, LinkIn and more. Interacting on these plugin will collect your log-in account in each social network.
 
-**Longtail Video and SpotXchange Video Ads**
+Media Artifact Disclaimer
 
-SpotXchange and Longtail Video Ads is a video advertising platform that can be seen in some of our website ‘s video content. Videos under JW player has a pre-roll, in-roll and post-roll advertisements.
-
-**ValueClick** **Media**
-
-The sponsored advertisements visible at any pages on this website.
-
-**Pixazza**
-
-****Pixazza is a third party advertisement vendor, uses cookies to serve Image ads on this site. Pixazza scanned all available images on the pages and instantly displays related ads (ads by Google). Some photos are specially tagged with related products seen on the images allowing viewers to shop online.
-
-**Media  Artifact Disclaimer**
-
-**Photos and Videos** in this website belongs to their respective owners. **Photos** are taken from available sources on the internet and mostly tagged with credentials. **Videos** on this website are mostly embedded from YouTube.
+Photos and Videos in this website belongs to their respective owners. Photos are taken from available sources on the internet and mostly tagged with credentials. Videos on this website are mostly embedded from YouTube.
