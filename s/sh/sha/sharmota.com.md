@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharmota.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211120id_/http%3A//www.sharmota.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharmota.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520081724id_/http%3A//www.sharmota.com/privacy.php) for the most accurate reproduction.*
 
 # Arab Sex - Sharmota шармута شرموطة: Free Arab sex Tube Videos
 
