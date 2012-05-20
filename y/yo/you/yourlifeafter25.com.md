@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourlifeafter25.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217034146id_/http%3A//yourlifeafter25.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourlifeafter25.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520163159id_/http%3A//yourlifeafter25.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Your Life After 25
 
@@ -61,7 +61,7 @@ Because we value your privacy we have taken the necessary precautions to be in c
 
 **Childrens Online Privacy Protection Act Compliance**
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 18 years of age. Our website, products and services are all directed to people who are at least 18 years old or older.
 
 **Terms and Conditions**
 
