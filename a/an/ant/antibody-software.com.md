@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the antibody-software.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120191106id_/http%3A//antibody-software.com/web/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antibody-software.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521103206id_/http%3A//antibody-software.com/web/privacy-policy) for the most accurate reproduction.*
 
 # Antibody Software - Privacy Policy
 
