@@ -1,22 +1,24 @@
-<!--The following is the downloaded HTML source of the fafsa.gov privacy policy that was archived on 2011-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111214063408id_/http%3A//www.fafsa.ed.gov/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fafsa.gov privacy policy that was archived on 2012-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120521123420id_/http%3A//www.fafsa.ed.gov/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Privacy - FAFSA on the Web - Federal Student Aid</title>
 <link href="css/staticNav.css" type="text/css" rel="stylesheet">
 <link href="css/staticLayout.css" type="text/css" rel="stylesheet">
+
 <!--[if lte IE 7]>
 	<style type="text/css">
 		@import url(css/static-ie-fix.css);
 	</style>
 <![endif]-->
+
 <script type="text/javascript" src="/js/fsa.js"></script>
 <script type="text/javascript" src="/js/amessages.js"></script>
 <script type="text/javascript" src="/js/agen.js"></script>
 <script type="text/javascript" src="/js/agenindex.js"></script>
 <script type="text/javascript" src="/js/webdemo.js"></script>
-<script type="text/javascript" src="/fotw1112/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="/fotw1213/js/jquery-1.4.2.min.js"></script>
 
 <script type="text/javascript">
 //<!--
@@ -93,9 +95,12 @@ function MM_swapImage() { //v3.0
 
 <div id="container">
 	  	<div id="header">
-  		<div id="logo"><img src="images/fsa_logo.gif" alt="FAFSA: Free Application for Federal Student Aid"></div>
-  		<div id="title"><img src="images/fafsa_text_logo.jpg" alt="FAFSA: Free Application for Federal Student Aid"></div>
-  		</div>
+			<map name="logomap">
+				<area shape="rect" coords="0,0,1,50" href="#skiplinks" alt="Skip the navigation bars">
+			</map>
+			<img id="logo" usemap="#logomap" src="images/fsa_logo.gif" alt="U.S. Department of Education and Federal Student Aid logo (Start Here. Go Further)">
+			<img id="title" src="images/fafsa_text_logo.jpg" alt="FAFSA: Free Application for Federal Student Aid">
+		</div>
 
   	
   	<form action="" name="FAFSA" method="post">
@@ -120,8 +125,10 @@ function MM_swapImage() { //v3.0
       
       <li id="search">
         <div id="searchInputs">
-          <input type="text" name="q" maxlength="100" size="20" id="query" title="enter search term" onkeypress="if(event.keyCode == 13){JavaScript:Search();}">
-          <img onmouseout="imgOut(this, 'off');" onmouseover="imgIn(this, 'off');" alt="Search" src="fotw1112/images/btn_search_wh.gif" id="btn_search" onclick="JavaScript:Search();">
+            <input type="text" name="q" maxlength="100" size="20" id="query" title="Enter search term" onkeypress="if(event.keyCode == 13){JavaScript:Search(); return false;}">
+            <button onclick="JavaScript:Search();" id="searchRef">
+                <img onmouseout="imgOut(this, 'off');" onmouseover="imgIn(this, 'off');" alt="Search" src="images/btn_search_wh.gif">
+            </button>
         </div>
       </li>
     </ul>
@@ -134,7 +141,7 @@ function MM_swapImage() { //v3.0
 </div> 
 
 <div id="mainContent">
-
+	<a name="skiplinks"></a>
     <span class="formhead_left"></span>
     <span class="formhead_right"></span>
     <span class="formhead_mid">
@@ -148,7 +155,6 @@ function MM_swapImage() { //v3.0
 
 
 <!-- BEGIN CONTENT AREA -->
-<a name="top"></a>
 	<blockquote>
   		<p><a href="#1">Privacy Act</a></p>
 		<p><a href="#2">Non-personal information we record</a></p>
@@ -171,7 +177,7 @@ function MM_swapImage() { //v3.0
 	  </p>
 	<p>Below you will find information explaining how your information will 
 		be safeguarded.</p>
-	<p align="right"><a href="#top">Return to top</a></p>
+	<p align="right"><a href="#container">Return to top</a></p>
 
 <a name="2"></a>
 	<p><strong>Non-personal information we record </strong></p>
@@ -197,7 +203,7 @@ function MM_swapImage() { //v3.0
 			  site more useful to visitors. This tracking system does not record 
 			  information about individuals. 
 		  </p>
-<p align="right"><a href="#top">Return to top</a></p>
+<p align="right"><a href="#container">Return to top</a></p>
 
 <a name="3"></a>
 	<p><strong>Security and Intrusion Detection</strong><br>
@@ -214,7 +220,7 @@ function MM_swapImage() { //v3.0
 		use raw monitoring data logs for determining trends in usage patterns 
 		and in diagnosing system problems. 
 	</p>
-<p align="right"><a href="#top">Return to top</a></p>
+<p align="right"><a href="#container">Return to top</a></p>
 <a name="4"></a>
 	<p><strong>Information from e-mail you send  us </strong><br><br>
 		If you decide to send us an electronic mail message (e-mail, which 
@@ -238,7 +244,7 @@ function MM_swapImage() { //v3.0
 		P.O. Box 84<br>
 		Washington, D.C.  20044 
 	</p>
-<p align="right"><a href="#top">Return to top</a></p>
+<p align="right"><a href="#container">Return to top</a></p>
 <a name="5"></a>
 	<p><strong>Information collected if you complete a form on our Web sites </strong><br><br>
 		On this Web site, we offer interactive forms that allow you to apply 
@@ -259,7 +265,7 @@ function MM_swapImage() { //v3.0
 	<p align="center"><a href="JavaScript:Help('ffpriv00.htm', 'en_US');">Your Privacy 
 		Act Rights</a>
 	</p>
-<p align="right"><a href="#top">Return to top</a></p>
+<p align="right"><a href="#container">Return to top</a></p>
 <a name="6"></a>
 	<p><strong>State Certification </strong><br><br>
 		When you submit this application, you are automatically applying for 
@@ -269,14 +275,14 @@ function MM_swapImage() { //v3.0
 		to obtain income tax information for all people who are required to 
 		report income on this form. 
 	</p>
-<p align="right"><a href="#top">Return to top</a></p>
+<p align="right"><a href="#container">Return to top</a></p>
 
 	<a name="7"></a>
 	 <p><strong>Your rights under the Paperwork Reduction Act </strong><br><br>
 	  Under the Paperwork Reduction Act of 1995, you are not required to
 	  complete a government form unless it displays a valid OMB control
 	  number. The valid OMB control number for the FAFSA application is
-	  1845-0001; the correction form is 1845-0008. Federal  Student Aid estimates that it will take an average of one hour and ten minutes  for applicants who use FAFSA  on the Web to complete and submit the application; an average of fifty-five  minutes for an applicant who has previously used FAFSA on the Web and completes  a Renewal FAFSA; and an average of fifteen minutes to make FAFSA Corrections.&nbsp; Specifically, these estimated times include  time to: read instructions, gather information, complete the FAFSA, review the  answers, and make copies of output documents for future reference.
+	  1845-0001. Federal  Student Aid estimates that it will take an average of fifty-five minutes for applicants who use <i>FAFSA  on the Web</i> to complete and submit the application; an average of fifty minutes for an applicant who has previously used <i>FAFSA on the Web</i> and completes  a Renewal FAFSA; and an average of fifteen minutes to make FAFSA Corrections.&nbsp; Specifically, these estimated times include  time to: read instructions, gather information, complete the FAFSA, review the  answers, and make copies of output documents for future reference.
 	  If you have any comments regarding the accuracy of this time estimate or
 	  suggestions for improving this application, write to:	  </p>
 	<p align="center">
@@ -284,7 +290,7 @@ function MM_swapImage() { //v3.0
 		P.O. Box 84<br>
 		Washington, D.C.  20044 
 	</p>
-<p align="right"><a href="#top">Return to top</a></p>
+<p align="right"><a href="#container">Return to top</a></p>
 <a name="8"></a>
 <p><strong>More about privacy and your student aid records </strong><br>
     <br>
@@ -305,10 +311,10 @@ function MM_swapImage() { //v3.0
 		agencies and schools also collect other information relating to 
 		financial aid payments, admission, enrollment, etc. The privacy of 
 		these records is protected by the 
-		<a target="_blank" href="http://www.ed.gov/offices/OM/fpco/ferpa/index.html">
+		<a target="_blank" href="http://www.ed.gov/policy/gen/guid/fpco/ferpa/index.html">
 		Family Educational Rights and Privacy Act</a>. 
 	</p>
-<p align="right"><a href="#top">Return to top</a></p>
+<p align="right"><a href="#container">Return to top</a></p>
 	<br>
   
 <!-- END CONTENT AREA -->
@@ -322,8 +328,8 @@ function MM_swapImage() { //v3.0
    </div>
 </div>
          <div class="smallGreyText" id="datestamp">
-           Site Last Updated:  Sunday, October 23, 2011
-
+           Site Last Updated: Sunday, April 15, 2012
+<span id="dateStampLinks">Download <a href="http://www.adobe.com/products/reader.html" target="_blank">Adobe Reader</a></span>
 		</div>
 
 <div id="footer">
@@ -362,15 +368,21 @@ function MM_swapImage() { //v3.0
     AddWTBaseTag();
 //-->
 </script>
-<!-- START OF SmartSource Data Collector TAG -->
-<!-- Copyright (c) 1996-2007 WebTrends Inc.  All rights reserved. -->
-<!-- Version: 1.1.0 -->
-<!-- Created: 12/17/2007-->
-<script src="/wtinit_FAFSA.js" type="text/javascript"></script>
-<script src="/wtbase.js" type="text/javascript"></script>
+<script src="/webtrends_FAFSA.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var _tag=new WebTrends();
+//]]>>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_tag.dcsCollect();
+//]]>>
+</script>
 <noscript>
-<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcsp8mg3h10000wkhcw35vmeg_3q5c/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.1.0"/></div>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcsp8mg3h10000wkhcw35vmeg_3q5c/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;DCS.dcscfg=1&amp;WT.tv=8.6.2"/></div>
 </noscript>
-<!-- END OF SmartSource Data Collector TAG -->
+
+
 
 </body></html>
