@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infodog.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123191046id_/http%3A//www.infodog.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infodog.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521090136id_/http%3A//www.infodog.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for infodog.com
 
