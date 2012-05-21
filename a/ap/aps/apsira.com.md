@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the apsira.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102000054id_/http%3A//www.apsira.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apsira.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521180611id_/http%3A//www.apsira.com/policy.php) for the most accurate reproduction.*
 
 # Privacy Policies
+
+[](http://samacheerkalvi.apsira.com/ "Samacheer Kalvi")
+
+[](http://blog.apsira.com/ "Education Blog")
+
+[](http://forum.apsira.com/ "Education Forum")
 
 | 
 
@@ -55,5 +61,3 @@ Fax: 91-44-2855 2042
 Or write to us at [webmaster@apsira.com](mailto:webmaster@apsira.com)
 
 | 
-
-[](http://samacheerkalvi.apsira.com/ "Samacheer Kalvi")
