@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gumtree.co.za privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202091200id_/http%3A//gumtreehelp.com/za/knowledgebase.php%3Farticle%3D120) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gumtree.co.za privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522012734id_/http%3A//bit.ly/ZA-Privacy) for the most accurate reproduction.*
 
 # Gumtree Help Desk - Gumtree Privacy Policy
 
