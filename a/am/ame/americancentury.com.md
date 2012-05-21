@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americancentury.com privacy policy that was archived on 2011-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110813213402id_/https%3A//www.americancentury.com/privacy/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americancentury.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521083209id_/https%3A//www.americancentury.com/privacy/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - American Century
 
@@ -63,12 +63,11 @@ Our vision, which drives all our company activities, is to help people achieve t
 In the next section of this policy, we explain how we protect your information. If, after reading that section, you choose to opt out of future marketing mailings, you may do so in one of the following ways.
 
   * **Mailing your request to:  
-** American Century Investments  
+**American Century Investments  
 4500 Main Street  
 Kansas City, MO 64111 
   * Calling 1-800-345-2021  
-Monday through Friday, 7 a.m. to 7 p.m.  
-or Saturday, 9 a.m. to 2 p.m. Central time 
+Monday through Friday, 7 a.m. to 7 p.m. Central time 
   * [Unsubscribe](https://web.archive.org/customer_service/unsubscribe_email.jsp) from Email for Individual Investors 
 
 
@@ -152,11 +151,11 @@ Our Investment Consultants can be reached Monday through Friday, 7 a.m. to 7 p.m
 
 ## Web Browser Requirements
 
-We require users to access their accounts online with Mozilla Firefox  (version 3.5 or later), Microsoft Internet Explorer  (for Windows - version 7.0 or later), Safari  (version 3.5 or later). These browsers use Secure Sockets Layer (SSL) technology with RSA Public Key encryption. This technology helps enable the security of your online sessions.
+We require users to access their accounts online with (version 3.5 or later), (for Windows - version 7.0 or later), (version 3.5 or later). These browsers use Secure Sockets Layer (SSL) technology with RSA Public Key encryption. This technology helps enable the security of your online sessions.
 
 If for any reason your session is no longer secure, you will be disconnected from online account access.
 
-If a session is secure, it means that it is encrypted. Every secure page on American Century Investments website has been secured with a digital certificate by RSA Data Security, Inc. We use SSL v3, RSA Public Key encryption and proprietary encryption algorithms to secure your connection when you are accessing your account online. American Century Investments supports 128-bit encryption and SSL v3 to provide you with secure access to your account information. If your browser does not support 128-bit encryption or SSL v3, we recommend that you upgrade your browser to a newer version. Please access the Firefox  , Microsoft Internet Explorer  , or Safari  websites to upgrade your browser to the current version with 128-bit encryption.
+If a session is secure, it means that it is encrypted. Every secure page on American Century Investments website has been secured with a digital certificate by RSA Data Security, Inc. We use SSL v3, RSA Public Key encryption and proprietary encryption algorithms to secure your connection when you are accessing your account online. American Century Investments supports 128-bit encryption and SSL v3 to provide you with secure access to your account information. If your browser does not support 128-bit encryption or SSL v3, we recommend that you upgrade your browser to a newer version. Please access the , , or websites to upgrade your browser to the current version with 128-bit encryption.
 
 Use the information in the chart below to help you determine the security features within your browser.
 
