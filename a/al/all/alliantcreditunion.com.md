@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alliantcreditunion.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121112741id_/http%3A//www.alliantcreditunion.org/global/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alliantcreditunion.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521161516id_/http%3A//www.alliantcreditunion.org/global/privacy) for the most accurate reproduction.*
 
 # Alliant Credit Union | Privacy Policy
 
@@ -45,4 +45,4 @@ While Alliant is committed to protecting the privacy of its members, you can hel
 
 If you have any questions concerning this policy, please visit a Service Center or contact the 24/7Member Contact Center at 800-328-1935.
 
-[Privacy Notice](https://web.archive.org/pdf/membership/AlliantPrivacyPolicy_A375R032311.pdf)
+[Privacy Notice](https://web.archive.org/pdf/membership/AlliantPrivacyPolicy_A375R0312.pdf)
