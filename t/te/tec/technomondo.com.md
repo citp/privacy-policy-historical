@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technomondo.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228080651id_/http%3A//technomondo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technomondo.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521233402id_/http%3A//technomondo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Techno Mondo
 
@@ -13,5 +13,5 @@ Like most other websites, we collect the data you provide to us when you visit o
 We also use third party advertisements on TechnoMondo.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site. Google, through their Adsense Program, uses cookies to serve ads on this site.
 
 For any further queries or questions you can contact us directly at:  
-_**contact@technomondo.com**  
+_**contact [at] technomondo [dot] com**  
 _
