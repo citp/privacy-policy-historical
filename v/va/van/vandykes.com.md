@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vandykes.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225043537id_/http%3A//www.vandykes.com/privacy-policy/a/2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vandykes.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522000837id_/http%3A//www.vandykes.com/privacy-policy/a/2) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ Updated 11-01-2010 - Important Policy Changes that apply to all vandykes.com Cus
 
 ### What personally identifiable information is being collected?
 
-When you visit the vandykes.com Web site, in order for us to provide you with the products or services that you have requested, you may be asked to provide us with personally identifiable information. For example, when you order a product, we will ask you to become a registered user of our site, during which you will be asked for your shipping and billing addresses, your email address, and your credit card number or other payment-related information. If you request one of our newsletters or send an inquiry to one of our customer service representatives, we will also store a record of your request along with your email address. We will use this information to communicate with you via e-mail or by periodically sending you our catalog. In addition, our Web servers track various technical details about your visit, such as your computer's IP address and which pages you visited, however that information does not typically contain any personally identifiable information about you.
+When you visit the vandykes.com Web site, in order for us to provide you with the products or services that you have requested, you may be asked to provide us with personally identifiable information. For example, when you order a product, we will ask you to become a registered user of our site, during which you will be asked for your shipping and billing addresses, your email address, and your credit card number or other payment-related information. If you request one of our newsletters or catalogs, or send an inquiry to one of our customer service representatives, we will also store a record of your request along with your email address. We will use this information to communicate with you via e-mail or by periodically sending you our catalog. In addition, our Web servers track various technical details about your visit, such as your computer's IP address and which pages you visited, however that information does not typically contain any personally identifiable information about you.
 
 ### How is the information being used?
 
