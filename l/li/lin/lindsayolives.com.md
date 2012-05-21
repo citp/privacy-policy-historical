@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lindsayolives.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121114341id_/http%3A//www.lindsayolives.com/about-lindsay/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lindsayolives.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521162336id_/http%3A//www.lindsayolives.com/about-lindsay/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Lindsay Olives
 
