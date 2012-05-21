@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hancocks-paducah.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121010728id_/http%3A//hancocks-paducah.com/content--id-4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hancocks-paducah.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521030856id_/http%3A//www.hancocks-paducah.com/content--id-4) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,7 +31,7 @@ Attn: Customer Service
 Paducah , KY 42001  
 270-443-4410  
 800-845-8723  
-fax. 270-442-2164, or, 270-442-3152
+fax: 270-442-2164
 
 _Tell a Friend_  
 If you enjoy your shopping experience at **www.hancocks-paducah.com** , which we believe you will, we encourage you to let others know through our [Tell a Friend](https://web.archive.org/refer.aspx) page. This form requires that you enter your friend's name and email address so that we can deliver the message, and your own name and email address so the recipient knows who sent the message. After the message has been sent, Hancock’s of Paducah keeps no record of this personal information.
@@ -62,8 +62,11 @@ We use Secure Socket Layer software (SSL) that protects your information wheneve
 
 If you do not wish to receive communications from us and have registered at the site, please indicate your preference to opt out by visiting [My Account](https://web.archive.org/members/MyAccount.aspx) and selecting Update Profile to change your preferences. If you are not a registered user, we offer several other options for removing your information from our database or electing not to receive future communications:
 
-  * Click [Contact Us](https://web.archive.org/web/20111121010728id_/http%3A//hancocks-paducah.com/contact--id-12) and submit your request through this Website.
-  * Write to us at: , telephoning us at 1-800-845-8723, or writing to us at Hancock’s of Paducah , 3841 Hinkleville Road , Paducah , KY , 42001 .
-  * Telephone us from 8:00am - 6:00 pm CST, Monday Through Friday days a week at:1-800-845-9207
+  * Click [Contact Us](https://web.archive.org/web/20120521030856id_/http%3A//www.hancocks-paducah.com/contact--id-12) and submit your request through this Website.
+  * Write to us at:
+  * Hancock’s of Paducah 
+  * 3841 Hinkleville Road 
+  * Paducah , KY , 42001
+  * Telephone us from 8:00am - 6:00 pm CST, Monday - Friday days a week at:1-800-845-9207 Saturday 8:00 am - 3:00 pm CST .
 
 
