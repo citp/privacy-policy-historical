@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supplementworld.co.za privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231203326id_/http%3A//www.supplementworld.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supplementworld.co.za privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521091053id_/http%3A//www.supplementworld.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -76,5 +76,3 @@ We are committed to obtain a fair and rapid resolution of any complaints or disp
 ###  Acceptance of privacy policy ****
 
 By using supplementworld.co.za, the user accepts our Privacy Policy, and agrees to adhere to the terms & conditions posted on the website. 
-
- 
