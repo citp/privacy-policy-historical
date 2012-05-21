@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikeexif.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202205646id_/http%3A//www.bikeexif.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikeexif.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521160653id_/http%3A//www.bikeexif.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy – Bike EXIF
 
@@ -29,4 +29,4 @@ We use Disqus for our commenting system. You can find Disqus’ privacy policy [
 If we decide to change our privacy policy, we will post those changes on this page. 
 
 **Contacting Us**  
-If there are any questions regarding this privacy policy you may contact us at PO Box 4132, Balgowlah Heights, NSW 2093, Australia, or via email to editor@bikeexif.com.
+If there are any questions regarding this privacy policy you may contact us at PO Box 668, Warkworth 0941, New Zealand, or via email to editor@bikeexif.com.
