@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the electronics-expo.com privacy policy that was archived on 2011-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110918021009id_/http%3A//www.electronics-expo.com/make-a-store/static/privacy_policy/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronics-expo.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521232759id_/http%3A//www.electronics-expo.com/privacy-policy) for the most accurate reproduction.*
 
-# Electronics-Expo.com - The best brands in Electronics at the best prices - Safe and Secure Online Shopping
+# Privacy Policy
 
 ## Electronics Expo Online Privacy Policy
 
-This is the online privacy policy of Electronics-Expo.com, a division of Electronics Expo, LLC. You can reach us by mail at 70 Demarest Dr, Wayne, NJ 07470, by telephone at (973) 808-8838 or e-mail us at privacy@electronics-expo.com. Please remember that this site and the servers that make this site available are located in the U.S. and hosted by Electronics Expo. By using this site you agree to the transfer, collection, processing and use of data by this site. The content on our site may include, among other items of interest, information on our company and the products well sell, our advertising, entertainment and opportunities to shop online. We may also offer opportunities to apply for employment. 
+This is the online privacy policy of Electronics-Expo.com, a division of Electronics Expo, LLC. You can reach us by mail at 70 Demarest Dr, Wayne, NJ 07470, by telephone at (973) 808-8838 or e-mail us at privacy@electronics-expo.com. Please remember that this site and the servers that make this site available are located in the U.S. and hosted by Electronics Expo. By using this site you agree to the transfer, collection, processing and use of data by this site. The content on our site may include, among other items of interest, information on our company and the products well sell, our advertising, entertainment and opportunities to shop online. We may also offer opportunities to apply for employment.
 
 ## Secure Online Ordering Information
 
@@ -14,7 +14,7 @@ Your online credit card transactions are secure at Electronics-Expo.com. We use 
 
 Making a credit card purchase is just as safe on our Web site as it is by telephone, but if you prefer the latter, you may purchase online merchandise by calling toll-free 1.888.707.EXPO from Monday thru Friday, 10am to 6pm ET. One of our sales associates will gladly take your order. (Our offices are closed on National Holidays) 
 
-You will have to register with Electronics-Expo.com to place your online order. For those who register, we will capture your login name (e-mail address), password, name and mailing address, alternate ship-to addresses, and credit card information. When a registered person returns to the site to place subsequent orders, they can identify themselves with login name (e-mail address) and password. 
+You will have to register with Electronics-Expo.com to place your online order. For those who register, we will capture your login name (e-mail address), password, name and mailing address, alternate ship-to addresses, and credit card information. When a registered person returns to the site to place subsequent orders, they can identify themselves with login name (e-mail address) and password.
 
 ## Information We Collect Online
 
@@ -37,4 +37,4 @@ For our internal purposes, we gather date, time, pages visited, originating sear
 
 You always have the right to request that contact information regarding you be deleted from our database. To request deletion of your contact information in our database, please call 1.888.707.EXPO for more information. Upon proper identification, you may review the personal information we have collected about you, request deletion, or refuse to allow further collection or use by writing to us at the address above. 
 
-We reserve the right to change this policy at any time by posting it on our web site. 
+We reserve the right to change this policy at any time by posting it on our web site.
