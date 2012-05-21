@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialcmsbuzz.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121125056id_/http%3A//socialcmsbuzz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialcmsbuzz.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521163414id_/http%3A//socialcmsbuzz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Social CMS Buzz
 
