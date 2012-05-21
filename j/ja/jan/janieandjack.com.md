@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the janieandjack.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014061619id_/http%3A//www.janieandjack.com/our_company/cs_home.jsp%3FFOLDER%253C%253Efolder_id%3D2534374302099475%26bmUID%3D1192154889449) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the janieandjack.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521140541id_/http%3A//www.janieandjack.com/our_company/cs_home.jsp%3FFOLDER%253C%253Efolder_id%3D2534374302099475%26PRODUCT%253C%253Eprd_id%3D845524443466421%26bmUID%3D1336138393572) for the most accurate reproduction.*
 
 # Janie and Jack - Privacy & Security Policy
 
@@ -6,69 +6,102 @@ Privacy Policy & Security
 
 **Our Commitment to Privacy**
 
-Janie and Jack values you as a customer and respects your privacy. We collect certain information from you that allows us to customize and enhance your shopping experience and to communicate with you about our products, services, promotions and contests. We are committed to managing this information responsibly so that you are in control of your personal information and the communications you receive from us. 
+The Gymboree Corporation's brands, including Gymboree, Gymboree Play & Music, Gymboree Outlet, Janie and Jack, Janie and Jack Outlet, Crazy 8 and Shade (collectively, "Gymboree" or "we," "us" or “our”), values you as a customer and respects your privacy. We collect certain information from you that allows us to customize and enhance your shopping experience and to communicate with you about our products, services, sweepstakes, contests, and promotions. Please carefully review this policy to learn about how we collect, use, protect, and share any personal information you provide us and your choices for managing your personal information. This policy is subject to our website Terms of Use. 
 
 **What This Policy Covers**
 
-This policy describes the personal information we collect from you and why; how we use this information; when we share this information with third parties; the choices you can make about how your personal information is collected, used and/or shared; and the data security, accuracy and access measures we have adopted to protect your information under our control from loss, misuse or alteration. 
+This policy describes the personal information and other information we collect from you and why; how we use this information; when we share this information with third parties; the choices you can make about how your personal information is collected, used, and/or shared; and the data security, accuracy and access measures we have adopted to protect your information under our control from unauthorized access, destruction, use, modification or disclosure. 
 
-This policy applies solely to information collected by one of The Gymboree Corporation’s brands, including Gymboree, Gymboree Play & Music, Gymboree Outlet, Janie and Jack and Crazy 8 (collectively, “Janie and Jack” or “we” or “us”). This policy does not apply to the practices of people that Janie and Jack does not employ or companies that Janie and Jack does not own or operate (including Gymboree Play & Music Play Centers that are independently owned and operated by franchisees). 
+This policy applies solely to information collected by us, including, at our stores and on or through websites owned and operated by Gymboree or its subsidiaries and related entities (such websites shall be collectively referred to as our "Sites"). This policy does not apply to the practices of people that Gymboree does not employ or companies that Gymboree does not own or operate (including those Gymboree Play & Music Centers that are independently owned and operated by franchisees). By providing your personal information to Janie and Jack, you agree that Janie and Jack may process your personal information in accordance with this policy. 
 
-Please be aware that our web sites may contain links to other sites hosted by third parties. Janie and Jack does not control and is not responsible for the content or privacy practices and policies of such other sites. We encourage you to be aware when you leave one of our web sites and to read the privacy statements of each and every web site that collects personally identifiable information from you. 
+Please be aware that our Sites may contain links to other websites hosted by third parties. Janie and Jack does not control and is not responsible for the content or privacy practices and policies of such third party websites. We encourage you to be aware when you leave one of our Sites and to read the privacy policies of each and every third party website, especially if such websites collect personal information from you. 
+
+**Your Privacy Rights: Opting Out Of Marketing And Transfers; Accessing, Updating And Deleting Information**
+
+We want to communicate with you only if you want to hear from us. If you wish to opt out of receiving our marketing efforts or our sharing information with third parties for their marketing efforts, you may do so, at any time, clicking “unsubscribe” in any email you receive from us and following the instructions on the screen. 
+
+You may also opt out of receiving our marketing efforts or our sharing information with third parties by contacting us at: 
+
+The Gymboree Corporation   
+Customer Service   
+2299 Kids Way   
+Dixon, CA 95620   
+Telephone: 1-877-4-GYMWEB (1-877-449-6932)   
+E-mail: [customer_service@gymboree.com](mailto:customer_service@gymboree.com)
+
+In addition, you can manage your preferences by logging into your account at janieandjack.com and clicking on Customer Service - Email Preferences. 
+
+If you would like to opt out of receiving direct mail from Janie and Jack, you may do so by contacting us at 1-877-449-8800. 
+
+You have the right to request a copy of the information which we hold about you (for which we may charge you a small fee for large or complex requests). In addition, if you would like to access, verify, correct, update or delete your e-mail address, mailing address or other personal information with us please contact us the same way. Please note that it may take up to two weeks for your request to become effective. Thereafter, when you make purchases, we may still send you an e-mail confirmation and may need to contact you by phone, postal mail or e-mail if we have questions regarding your order. 
 
 **The Information We Collect**
 
-You can visit our web sites or locations without telling us who you are or revealing any other personal information about yourself. We may track the Internet domain address from which you visit us and analyze this data for trends and statistics, but individual users will remain anonymous, unless and until you identify yourself to us. 
+We collect information that personally identifies you, such as your name, mailing address, e-mail address, phone number (including your cell phone number), credit card numbers, gender, occupation, personal interests and your child's date of birth, only if you choose to share such information with us. Janie and Jack collects personal information from you when you sign in on one of our Sites, sign up (whether online or in-store) for membership to our Gymboree Rewards program use a membership or rewards program number, register for online shopping, place an order, return products that have been purchased, enroll your child in a Play & Music class, participate in a sweepstakes, contest, promotion, or survey, or request other services that require information, registration or subscription. We may also keep a record of your product interests and purchases online and in our stores as this may have an impact upon the content of our communications with you. Whether or not you provide any of your personal information is your own choice. If you choose not to provide the information we request, you may be unable to purchase products or access certain services, offers and content on our Sites, from our catalogs (if we so choose to distribute catalogs) or at our locations. 
 
-Janie and Jack collects personally identifiable information from you when you sign in on one of our web sites, register for on-line shopping, place an order, enroll your child in a Gymboree Play & Music Class, participate in a contest, promotion or survey, or request other services that require information, registration or subscription. This information may include your name, mailing address, e-mail address, phone number, credit card numbers, gender, occupation, personal interests and your child’s date of birth. We may also keep a record of your product interests and purchases on-line and in our stores, and automatically receive and record information on our server logs from your browser (including your Internet domain address, Janie and Jack cookie information, and the page you requested). 
+Like most websites, our Sites automatically collect and use the data contained in log files. The information in the log files may include your IP (internet protocol) address, your ISP (internet service provider), the Web browser you used to visit the Site, the time you visited the Site, which Web pages you visited on the Site, and other anonymous Site usage data. 
 
-Whether or not you provide any of your personal information is your own choice. If you choose not to provide the information we request, you may be unable to purchase products or access certain services, offers and content on our web sites, from our catalogs (if we so choose to distribute catalogs) or at our locations.
+We use cookies (a small file containing a string of characters that uniquely identifies your Web browser) and Web beacons (an electronic file placed within a website that monitors usage). We use cookies and Web beacons to improve the quality of our Sites, to keep track of your electronic shopping bag and to remember you if you sign in to your account. Most Web browsers are initially set up to accept cookies, but you can reset your Web browser to refuse all cookies or to indicate when a cookie is being sent. However, certain features of our Sites may not work if you delete or disable cookies. Certain of our service providers (as described below) may also use cookies and Web beacons in connection with the services they perform on our behalf. 
 
-**How We Use Information**
+We may combine information you give us online or in our locations and/or we may also combine such information with publicly available information to enhance and personalize your shopping experience with us, to communicate with you about our products and events that may be of interest to you, and for other promotional purposes.
 
-Janie and Jack uses customer information for three general purposes: to customize the advertising and content you see on our sites; to fulfill your requests for certain products and services (e.g. shipping your order to you; process your credit card); and to contact you about new products or services, special events and promotions. We use Internet domain addresses for internal purposes to analyze trends, administer the site, track your movement and gather broad demographic information for aggregate use. Janie and Jack typically will not link IP addresses to personally identifiable information, but reserves the right to do so in order to identify a user when we feel this is necessary to enforce compliance with our internal policies or the Janie and Jack Terms of Use (available on our web sites) or to protect our service, site, customers or others. 
+**The Purposes For Which We Collect And Use Information**
 
-**How We Share Information**
+Janie and Jack collects and uses personal information and other information for three general purposes: to customize the advertising and content you see on our Sites; to fulfill your requests for certain products and services (e.g. shipping your order to you, processing your credit card); and to contact you about new products or services, special events and promotions. In addition, Janie and Jack collects your personal information in connection with a non-receipted return for loss prevention purposes. 
 
-Janie and Jack may send personally identifiable information about you to other companies or people when: we have your consent to share such information; we need to share such information to notify contest winners or fulfill promotional obligations, we need to share such information with companies that work on behalf of Janie and Jack or are Gymboree Play & Music franchisees in order for them to provide a product or service you have requested (sometimes known as service providers); we respond to subpoenas, court orders or legal process; or we find that your actions on one of our web sites violate the Janie and Jack Terms of Use or any of our usage guidelines for specific products or services. We prohibit our service providers from using your information except to the extent necessary to fulfill their services to us. 
+We use information collected through log files for internal purposes to analyze trends, administer our Sites, and gather Site usage data and broad demographic information for aggregate use. Janie and Jack typically will not link IP addresses to personal information, but reserves the right to do so in order to identify a user when we feel this is necessary to enforce compliance with our internal policies or the Janie and Jack Terms of Use or to protect our service, Sites, customers or others. Unless required by law and except as otherwise provided herein, we will not share your IP address or other personal information with anyone. 
 
-We may combine information you give us online or in our stores. We may also combine such information with publicly available information to enhance and personalize your shopping experience with us, to communicate with you about our products and events that may be of interest to you, and for other promotional purposes. We may also share or cross-reference, or cause to be shared or cross-referenced, such information, including your personally identifiable information, with unrelated companies you may be interested in so that the companies can directly market their products or services to you. 
+**When We May Share Information With Others**
 
-In the event that some or all of our business assets are sold or transferred, we would transfer your information to the buyer or transferee.
+We will not sell, share or rent personal information to third parties, and we will not otherwise disclose personal information to third parties, without your permission, except as disclosed in this policy.
 
-**How You Can Access, Change or Delete Your Information and Preferences**
+From time to time, we might establish a business relationship with other persons or entities whom we believe trustworthy and whom we have asked to confirm that their privacy practices are consistent with ours. For example, we may contract with service providers to provide certain services including credit card processing, data management, promotional services, Web hosting, Web development, etc. We provide our service providers only with the information (which may include your personal information) needed for them to perform these services. Each service provider must agree to implement and maintain reasonable security procedures and practices appropriate to the nature of the information involved in order to protect your information from unauthorized access, destruction, use, modification or disclosure. 
 
-You may, at any time, access, verify, correct, update or remove your e-mail information and preferences on-line at [janieandjack.com](http://www.janieandjack.com/). You may, at any time, access, verify, correct, update or remove your home address by contacting our Customer Support Team by e-mail at [customer_service@janieandjack.com](mailto:%20customer_service@janieandjack.com) or by telephone at 1- 877-449-8800. In addition, if you prefer not to receive information from us, please let us know by sending us an e-mail or calling our Customer Support Team at the above address or number. Please note that it may take up to two weeks for your request to become effective. Thereafter, when you make purchases, we may still send you an e-mail confirmation and may need to contact you by phone, postal mail or e-mail if we have questions regarding your order. 
+Where you have given your permission, or where otherwise permitted by applicable laws, in certain instances we may disclose personal information and other information when we believe it is necessary to identify, contact, or bring legal action against persons or entities in order to protect Janie and Jack or our customers or when we believe that the law or legal process requires such disclosure. 
+
+We may also share or cross-reference, or cause to be shared or cross-referenced, such information, including your personal information, with unrelated companies you may be interested in so that the companies can directly market their products or services to you; provided, however, you may always opt out of such marketing efforts (as described below). 
+
+We may also use oversaeas facilities to process, store or back up electronic information. As a result, you hereby consent to us transferring your personal information to overseas facilities for such purposes. 
+
+We may also share your personal information and other information with entities controlling, controlled by, or under common control with Janie and Jack. In the event that some or all of our business assets are sold or transferred, we would transfer your information to the buyer or transferee and for due diligence purposes to its professional advisors under an obligation of confidentiality. 
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit http://www.networkadvertising.org/. 
+
+Please note that, from time to time, personal information collected from you may be processed and stored by us or our service providers in jurisdictions in which disclosure may be compelled by governments, law enforcement agencies and regulatory bodies of those jurisdictions as required or permitted by the laws and courts of those jurisdictions. Depending on the laws of the applicable jurisdiction, we may not be allowed to provide notice to you of such required disclosure. 
+
+By providing your personal information to us, either online or in-store, you agree that we may collect, use and disclose your personal information for the purposes outlined above.
 
 **How We Protect Children's Privacy**
 
-Janie and Jack is concerned about the safety and security of children when they use the Internet. Our web sites are general audience sites. We will not knowingly accept personally identifiable information from anyone under the age of 13. Children under the age of 13 must ask a parent or guardian for permission before providing any personal information online. 
+Janie and Jack is concerned about the safety and security of children when they use the Internet. Each of our Sites is intended for a general audience, and children under the age of 13 are not permitted to register with our Sites. Accordingly, we do not knowingly collect personal information from children under the age of 13. If we become aware that we have inadvertently received personal information from a child under the age of 13, we will delete such information from our records. 
 
-**About “Cookies”**
+**Data Security and Integrity**
 
-A “cookie” is a piece of data stored on your hard drive containing information about you. For instance, by setting a cookie on our site, you would only have to log in a password once, thereby saving time while on our site. Cookies permit us to track and target your interests in order to enhance your experience on our web sites. We do not save passwords or credit card information in cookies. 
-
-Advertisers or other companies do not have access to Janie and Jack’s cookies. We may allow business partners to set and access their own cookies on your computer. In such cases, however, Janie and Jack has no access to or control over such cookies. In addition, we may contract with a third party who may use cookies and collect information on our behalf. These third parties are prohibited by our terms of engagement with them from sharing your information with anyone other than us. 
-
-**Data and Credit Card Security**
-
-Janie and Jack takes the security of your information very seriously. As a result, we do not accept orders by e-mail. We will gladly accept your orders on-line or by phone at 1-877- 449-8800. Our Customer Service hours are Monday through Friday, 6:00 a.m. to 9:00 p.m. and Saturday 7:00 a.m. to 3:00 p.m., Pacific Time. 
+Janie and Jack takes the security and integrity of your information very seriously. As a result, we do not accept orders by e-mail. We will gladly accept your orders online at janieandjack.com or by phone at 1-877-449-8800. Our Customer Service hours are Monday through Friday, 6:00 a.m. to 9:00 p.m., Saturday 7:00 a.m. to 3:00 p.m., and Sunday 8:00 a.m. to 4:00 p.m.(U.S. and Canada Pacific Time). 
 
 Your Janie and Jack account information is password-protected for your privacy and security. Janie and Jack will never ask you for your password in an unsolicited phone call or e-mail. You are responsible for maintaining the secrecy of your password and account information. Remember to sign out of your Janie and Jack account and close your browser window when you have completed your shopping to help ensure that others cannot access your personal information. 
 
-In addition, when you submit sensitive information via one of our web sites, such as a credit card number, that information is encrypted and protected by Secure Sockets Layer (SSL) encryption technology. 
+In addition, when you submit personal information via one of our Sites, such as a credit card number, that information is encrypted and protected by Secure Sockets Layer (SSL) encryption technology and stored on servers using standard security procedures and practices appropriate to the nature of the information. However, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect information transmitted on or through our Sites, we cannot and do not guarantee or warrant the security of any information you transmit on or through our Sites, and you do so at your own risk.
 
-If at any time you believe the security of your password or account information has been compromised, please notify Janie and Jack Customer Service Team at the telephone number above or change your member information on-line. Should you discover an unauthorized use of your credit or debit card, you should immediately notify your card provider in accordance with the terms of your agreement with that company. 
+If at any time you believe the security of your password or account information has been compromised, please notify the Janie and Jack Customer Service Team at the telephone number above or change your member information online. Should you discover an unauthorized use of your credit or debit card, you should immediately notify your card provider in accordance with the terms of your agreement with that company.
+
+**European Union Residents**
+
+For European Union and Swiss Residents, if you choose to provide us with your Personal Information, you consent to the transfer and storage of that information on our servers located in the United States.
+
+Janie and Jack adheres to the EU-US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the [U.S. Department of Commerce's Safe Harbor Program](http://www.export.gov/safeharbor/).
+
+Any questions or concerns regarding the use or disclosure of your information should be directed to Gymboree by e-mailing us at [privacy@gymboree.com](mailto:privacy@gymboree.com). We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of your information in accordance with this Privacy Policy. European Union and Swiss Residents, if your complaints cannot be resolved, we have agreed to participate in the dispute resolution procedures of the American Arbitration Association pursuant to the US-EU Safe Harbor and US-Swiss Safe Harbor Privacy Principles.
 
 **Changes to Policy**
 
-Janie and Jack reserves the right to change, modify or amend this policy from time to time without prior notice to you. We will post the changes here. Janie and Jack encourages you to periodically review this policy to be informed of how we collect, use and protect your information. 
+Janie and Jack reserves the right to change, modify or amend this policy from time to time. We will post the changes here. Your continued use of our Sites constitutes your agreement to abide by the policy as changed. If you object to any such changes, your sole recourse shall be to cease using our Sites. 
 
-**How to Contact Us**
+**Your Feedback**
 
-If you would like to contact us for any reason regarding our privacy policy and practices, please write us at Janie and Jack 500 Howard Street, San Francisco CA 94105, Attention: Web Management Team, or e-mail us at [customer_service@janieandjack.com](mailto:%20customer_service@janieandjack.com).
+You may send your feedback about our privacy policy and practices to [privacy@gymboree.com](mailto:privacy@gymboree.com). 
 
-This Policy is effective as of April 2007.
+This Policy is effective as of March 2012. 
 
   
 
