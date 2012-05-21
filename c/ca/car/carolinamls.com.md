@@ -1,17 +1,8 @@
-> *The following text is extracted and transformed from the carolinamls.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531052226id_/http%3A//www.carolinarealtors.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carolinamls.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521162658id_/http%3A//www.carolinarealtors.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 At the Charlotte Regional Realtor® Association (CRRA) and Carolina Multiple Listing Services, Inc. (CMLS), we recognize that privacy is important. This policy applies to all products, services and Web sites offered by CRRA and CMLS, or their subsidiaries or affiliated companies.
-
- **Information we collect and how we use it**
-
-  *  **Information you provide** \- When you register for a class at the Mingle School of Real Estate or purchase a product from the Realtor® Store, we ask you for personal information (such as your name, e-mail address and an account password). For certain services, such as purchasing products, we also request credit card or other payment account information, which we maintain in encrypted form on secure servers.
-  *  **Cookies** \- When you visit our sites, we might send one or more cookies – a small file containing a string of characters – to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Some site features and services might not function properly if your cookies are disabled. 
-  * **Communications** \- When you send e-mail or other communication using our site, we might retain those communications to process your inquiries, respond to your requests and improve our services.
-  *  **Links** \- We might present links in a format that enables us to keep track of whether these links have been followed. We use this information to provide statistics to members on the amount of interest in their listings on our Web site.
-
-
 
  **Choices for personal information**
 
@@ -38,3 +29,7 @@ Our Web site utilizes industry-standard Secure Sockets Layer (SSL) technology to
 To benefit from this security and to use many of the features on this site, you will need to download a 128-bit enabled browser from Microsoft, Netscape or another software company.
 
 In addition to using 128-bit encryption in the browser, all credit card numbers that are stored in our databases are also encrypted.
+
+We will accept returns if you are not satisfied with the product or due to manufacturing defect. All returns must be within 30 days of purchase and with your receipt. All form sales are final. 
+
+All donations are final.
