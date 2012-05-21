@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freetraffictip.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611110432id_/http%3A//freetraffictip.com/services/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freetraffictip.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521171234id_/http%3A//freetraffictip.com/services/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy : Free Traffic Tips
 
 ### Privacy
 
