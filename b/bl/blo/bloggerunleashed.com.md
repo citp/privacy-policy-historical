@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggerunleashed.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120035843id_/http%3A//bloggerunleashed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggerunleashed.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521093654id_/http%3A//bloggerunleashed.com/privacy-policy) for the most accurate reproduction.*
 
 # MAKE MONEY ONLINE | MAKE MONEY BLOGGING | MAKE MONEY
 
