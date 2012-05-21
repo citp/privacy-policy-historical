@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reputation.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008023756id_/http%3A//www.reputation.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reputation.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521055121id_/http%3A//www.reputation.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy : Reputation.com
 
@@ -145,8 +145,8 @@ In the event Reputation.com, Inc., goes through a business transition, such as a
 If you have any questions about this Privacy Policy, the practices of Reputation.com, Inc., with respect to personal information, or your dealings with the Site, you can contact us at [info@reputation.com](mailto:info@reputation.com) or write to:
 
 **Reputation.com, Inc.**  
-2688 Middlefield Road  
-Building C  
+1001 Marshall St.  
+2nd Floor  
 Redwood City, CA 94063
 
 Reputation.com, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.google.com/url?q=http%3A%2F%2Fwww.truste.com%2Fprivacy_seals_and_services%2Fconsumer_privacy%2Fprivacy-programs-requirements.html&sa=D&sntz=1&usg=AFQjCNGCO4IA3-jXh9bgEGigVIPesbNhXA) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. This privacy statement covers the website [Reputation.com](http://www.google.com/url?q=http%3A%2F%2Fwww.reputation.com%2F&sa=D&sntz=1&usg=AFQjCNHVFW0FJ-Vq_ydM-G9Ky1PKbZhitw) and other sub-domains.
