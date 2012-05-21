@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fafsa.gov privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214063408id_/http%3A//www.fafsa.ed.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fafsa.gov privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521123420id_/http%3A//www.fafsa.ed.gov/privacy.htm) for the most accurate reproduction.*
 
 # Privacy - FAFSA on the Web - Federal Student Aid
 
@@ -18,7 +18,7 @@
 > 
 > More about privacy and your student aid records
 > 
-> [Privacy Notice](https://web.archive.org/web/20111214063408id_/http%3A//www.fafsa.ed.gov/privacynotice.htm)
+> [Privacy Notice](https://web.archive.org/web/20120521123420id_/http%3A//www.fafsa.ed.gov/privacynotice.htm)
 > 
 > [Privacy Impact Assessment](http://www2.ed.gov/notices/pia/index.html)
 
@@ -84,7 +84,7 @@ Return to top
 
 **Your rights under the Paperwork Reduction Act**
 
-Under the Paperwork Reduction Act of 1995, you are not required to complete a government form unless it displays a valid OMB control number. The valid OMB control number for the FAFSA application is 1845-0001; the correction form is 1845-0008. Federal Student Aid estimates that it will take an average of one hour and ten minutes for applicants who use FAFSA on the Web to complete and submit the application; an average of fifty-five minutes for an applicant who has previously used FAFSA on the Web and completes a Renewal FAFSA; and an average of fifteen minutes to make FAFSA Corrections.  Specifically, these estimated times include time to: read instructions, gather information, complete the FAFSA, review the answers, and make copies of output documents for future reference. If you have any comments regarding the accuracy of this time estimate or suggestions for improving this application, write to: 
+Under the Paperwork Reduction Act of 1995, you are not required to complete a government form unless it displays a valid OMB control number. The valid OMB control number for the FAFSA application is 1845-0001. Federal Student Aid estimates that it will take an average of fifty-five minutes for applicants who use _FAFSA on the Web_ to complete and submit the application; an average of fifty minutes for an applicant who has previously used _FAFSA on the Web_ and completes a Renewal FAFSA; and an average of fifteen minutes to make FAFSA Corrections.  Specifically, these estimated times include time to: read instructions, gather information, complete the FAFSA, review the answers, and make copies of output documents for future reference. If you have any comments regarding the accuracy of this time estimate or suggestions for improving this application, write to: 
 
 Federal Student Aid Information Center  
 P.O. Box 84  
@@ -98,7 +98,7 @@ When you apply for Federal student aid, the Office of Federal Student Aid Progra
 
 [Select this link to review the System of Records notices](https://web.archive.org/fotw1112/pdf/cps_sorn.pdf), which list the authorized disclosures and the safeguards for the Office of Federal Student Aid Program systems under the [ Privacy Act of 1974, as amended](http://www.usdoj.gov/opcl/privstat.htm). 
 
-If you have authorized us to share your financial aid information with state agencies or the schools that you are thinking of attending, they will also store that information (often in electronic form). State agencies and schools also collect other information relating to financial aid payments, admission, enrollment, etc. The privacy of these records is protected by the [ Family Educational Rights and Privacy Act](http://www.ed.gov/offices/OM/fpco/ferpa/index.html). 
+If you have authorized us to share your financial aid information with state agencies or the schools that you are thinking of attending, they will also store that information (often in electronic form). State agencies and schools also collect other information relating to financial aid payments, admission, enrollment, etc. The privacy of these records is protected by the [ Family Educational Rights and Privacy Act](http://www.ed.gov/policy/gen/guid/fpco/ferpa/index.html). 
 
 Return to top
 
