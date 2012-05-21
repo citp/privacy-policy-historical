@@ -1,19 +1,8 @@
-> *The following text is extracted and transformed from the webvanta.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122053037id_/http%3A//www.webvanta.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webvanta.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521065800id_/http%3A//www.webvanta.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
 **Last updated: 2008-09-07**
-
-## Summary
-
-The agreement below outlines our policy in detail. The highlights are as follows:
-
-  * We won’t ever allow any other company to use your personal information for marketing purposes.
-  * We take industry-standard precautions to keep your financial information secure. We use SSL for pages with credit card information, and we don’t store credit card numbers on our servers.
-  * We use cookies to enable us to customize the site for each user.
-  * We use server logs and third-party analytics services to enable us to understand how our users are using the site and to guide usability and other improvements.
-
-
 
 ## 1\. Acknowledgement And Acceptance Of Terms
 
