@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the internationalliving.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228133233id_/http%3A//internationalliving.com/about-il/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationalliving.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521042604id_/http%3A//internationalliving.com/about-il/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – International Living - Since 1979
+# Privacy Policy – - International Living - Since 1979
 
 We take our commitment to protecting the privacy and security of our website users very seriously. We will never intentionally disclose personal information about you as an individual user, but please note that the Internet as a whole is not a secure forum. Exercise caution whenever disclosing information on any website.
 
