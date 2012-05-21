@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pacsun.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006164450id_/http%3A//shop.pacsun.com/customerservice/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pacsun.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521065240id_/http%3A//shop.pacsun.com/customerservice/privacy) for the most accurate reproduction.*
 
 # Customer Service - PacSun.com
 
