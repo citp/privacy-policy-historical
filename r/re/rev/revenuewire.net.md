@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revenuewire.net privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205200723id_/http%3A//www.revenuewire.com/about/revenuewire-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revenuewire.net privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521065521id_/http%3A//www.revenuewire.com/about/revenuewire-privacy) for the most accurate reproduction.*
 
 # RevenueWire | Privacy Policy
 
