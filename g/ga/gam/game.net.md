@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the game.net privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225165031id_/http%3A//www.game.co.uk/en/info/StaticPageDisplay%3FlangId%3D44%26storeId%3D10151%26categoryId%3D27502%26brdcrmb_trail%3DHelp%7CPolicies%26catalogId%3D10201) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the game.net privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521084338id_/http%3A//www.game.co.uk/en/info/StaticPageDisplay%3FlangId%3D44%26storeId%3D10151%26categoryId%3D27502%26brdcrmb_trail%3DHelp%7CPolicies%26catalogId%3D10201) for the most accurate reproduction.*
 
 # Privacy Policy | GAME
 
-At GAME we are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998). Our data protection registration is Z7720094.
+At GAME we are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998). Our data protection registration is Z3151729.
 
 We collect information about you for two reasons: firstly, to process your order and second, to provide you with the best possible service.
 
