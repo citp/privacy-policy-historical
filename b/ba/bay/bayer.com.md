@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the bayer.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218175804id_/http%3A//www.bayer.com/en/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bayer.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521202902id_/http%3A//www.bayer.com/en/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - Bayer
 
-Bayer is aware that the security of your private information from the use of our web-site is an important concern. We take the protection of your personal data very seriously. Therefore we would like you to know what data we maintain and what data we discard. With this privacy statement, we would like to inform you about our security measures.
+Bayer is aware that the security of your private information from the use of our website is an important concern. We take the protection of your personal data very seriously. Therefore we would like you to know what data we maintain and what data we discard. With this privacy statement, we would like to inform you about our security measures.
 
 ## Collection of Data
 
-You can use our web site without disclosing your personal data. You are not required to provide personal information as a condition of using our site, except as may be necessary to provide you a product or service at your request. When you use our website, data may be stored for various security purposes. This data may include the name of your internet service provider, the web site that you used to link to our site, the web sites that you visit from our site and your IP-Address. This data could possibly lead to your identification, but we do not use it to do so. We do use the data from time to time for statistical purposes, but maintain the anonymity of each individual user so that the person cannot be identified. In cases when personal data is provided to others to provide you products or services you have requested, or for other purposes you have authorized, we rely on technical and organizational means to assure that applicable data security regulations are followed.
+You can use our website without disclosing your personal data. You are not required to provide personal information as a condition of using our site, except as may be necessary to provide you a product or service at your request. When you use our website, data may be stored for various security purposes. This data may include the name of your internet service provider, the website that you used to link to our site, the websites that you visit from our site and your IP-Address. This data could possibly lead to your identification, but we do not use it to do so. We do use the data from time to time for statistical purposes, but maintain the anonymity of each individual user so that the person cannot be identified. In cases when personal data is provided to others to provide you products or services you have requested, or for other purposes you have authorized, we rely on technical and organizational means to assure that applicable data security regulations are followed.
 
 ## Collection and processing of personal data
 
@@ -51,10 +51,11 @@ In light of the importance of protecting children's privacy, we do not collect, 
 If you have any problems, questions or ideas, please contact one of the following persons.
 
 Website Editor:  
+
+
 Katharina Sprenkamp  
 Bayer AG  
 Communications  
-Communications Management & Online Media  
 Building W 11  
 51368 Leverkusen, Germany  
 [E-mail](https://secure.bayer.com/bayer/contact.aspx?lang=en)
@@ -65,6 +66,6 @@ Building K56
 51368 Leverkusen, Germany  
 Phone: +49 (0) 214 30 2 05 22  
 Fax: +49 (0) 214 30 2 03 46  
-[E-Mail](https://secure.bayer.com/bayer/ContactDataprotectionOfficer.aspx?lang=en)
+[E-mail](https://secure.bayer.com/bayer/ContactDataprotectionOfficer.aspx?lang=en)
 
 The constant development of the internet requires occasional adjustments to our privacy statement. We retain the right to make changes when necessary. 
