@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asme.org privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120120546id_/http%3A//www.asme.org/About-ASME/Privacy-and-Security-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asme.org privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521065659id_/http%3A//www.asme.org/About-ASME/Privacy-and-Security-Statement) for the most accurate reproduction.*
 
 # About ASME - Membership, Mission, Vision, Strategic Focus, Governance, Advocacy & Government Relations, Press, Employment, Contact Us - ASME
 
@@ -107,7 +107,7 @@ Your Data is used for the purposes for which you give it to us and other purpose
 
 
 
-If you do not want ASME or the selected third parties to send any communications to you, or if you want to limit the kinds of communications sent to you, you can indicate your preferences by (1) checking applicable “opt out” boxes located in areas of Our Site where we collect Your Data, (2) selecting the “unsubscribe” option in our emails, (3) contacting us by email at [infocentral@asme.org](mailto:infocentral@asme.org "infocentral"), (4) mailing your request to the ASME SERVICE CENTER located at 22 LAW DRIVE, P.O. BOX 2900, FAIRFIELD, NJ 07007-2900, or (5) calling us at 1-800-THE ASME.
+If you do not want ASME or the selected third parties to send any communications to you, or if you want to limit the kinds of communications sent to you, you can indicate your preferences by (1) checking applicable “opt out” boxes located in areas of Our Site where we collect Your Data, (2) selecting the “unsubscribe” option in our emails, (3) contacting us by email at [CustomerCare@asme.org](mailto:CustomerCare@asme.org "infocentral"), (4) mailing your request to the ASME SERVICE CENTER located at 22 LAW DRIVE, P.O. BOX 2900, FAIRFIELD, NJ 07007-2900, or (5) calling us at 1-800-THE ASME.
 
 **Sharing Information with Third Parties**
 
@@ -121,7 +121,7 @@ If you do not want ASME or the selected third parties to send any communications
 ASME provides ASME members with access to the ASME online membership directory, which is available in the access-restricted member section of Our Site.  ASME members have access only to those items of personal information that an individual member chooses to make available to other members.  
 ASME provides selected portions of Your Data to ASME members in leadership or volunteer positions for use in connection with the activities of the groups to which you belong.  If you would like more information about ASME’s policies concerning the use of member data, [click here](http://files.asme.org/asmeorg/Governance/9732.pdf "p12.14").
 
-ASME also shares member mailing lists (i.e., names, street addresses and email addresses) with carefully selected third parties who offer information, goods or services that we think may be of interest to you.  If you prefer that we do not share Your Data with third parties as part of our member mailing lists, please contact us at [infocentral@asme.org](mailto:infocentral@asme.org "Infocentral") and we will respect your request.  Please include your name and ASME member number for identification purposes.  If you would like more information about ASME’s policies concerning the distribution of mailing lists, [click here](http://staging.files.asme.org/ASMEORG/Governance/3650.pdf "P12.8 Distribution of Mailing Lists").
+ASME also shares member mailing lists (i.e., names, street addresses and email addresses) with carefully selected third parties who offer information, goods or services that we think may be of interest to you.  If you prefer that we do not share Your Data with third parties as part of our member mailing lists, please contact us at [CustomerCare@asme.org](mailto:CustomerCare@asme.org "Infocentral") and we will respect your request.  Please include your name and ASME member number for identification purposes.  If you would like more information about ASME’s policies concerning the distribution of mailing lists, [click here](http://staging.files.asme.org/ASMEORG/Governance/3650.pdf "P12.8 Distribution of Mailing Lists").
 
 **Sharing Non-Member Information**
 
@@ -151,7 +151,7 @@ ASME does not knowingly collect personally identifiable information from anyone 
 
 **Review and Correction**
 
-If you are an ASME member, you may review, update, correct or delete any of Your Data that you have provided to us by logging into the Members Only section of Our Site.  Members and non-members may also review and update their personal information by sending a revision request by email to [infocentral@asme.org](mailto:infocentral@asme.org "Infocentral") or by mail at ASME SERVICE CENTER, 22 LAW DRIVE, P.O. BOX 2900, FAIRFIELD, NJ 07007-2900, or by calling us at 1-800-THE ASME.
+If you are an ASME member, you may review, update, correct or delete any of Your Data that you have provided to us by logging into the Members Only section of Our Site.  Members and non-members may also review and update their personal information by sending a revision request by email to [CustomerCare@asme.org](mailto:CustomerCare@asme.org "Infocentral") or by mail at ASME SERVICE CENTER, 22 LAW DRIVE, P.O. BOX 2900, FAIRFIELD, NJ 07007-2900, or by calling us at 1-800-THE ASME.
 
 **Email Alias Service**
 
