@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coverdude.com privacy policy that was archived on 2011-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111027194554id_/http%3A//www.coverdude.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coverdude.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521065819id_/http%3A//www.coverdude.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Cover Dude Privacy Policy | Cover Dude
 
