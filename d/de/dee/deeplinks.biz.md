@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the deeplinks.biz privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117225553id_/http%3A//www.deeplinks.biz/ppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deeplinks.biz privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522011734id_/http%3A//www.deeplinks.biz/ppolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+| 
 
 **What information do we collect?**
 
@@ -58,3 +60,11 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 sdscripts.support @ gmail.com
+
+| 
+
+| Active Users: | 6  
+---|---  
+Accounts: | 0  
+Guests: | 6  
+Visits last 24h: | 658
