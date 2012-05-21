@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the globalwebindex.net privacy policy that was archived on 2011-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111121041634id_/http%3A//globalwebindex.net/home/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the globalwebindex.net privacy policy that was archived on 2012-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120521072412id_/http%3A//globalwebindex.net/home/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
 
@@ -13,7 +13,7 @@
 
 <meta name="keywords" content="Global social media research, social media, social media trends, social media research, global online trends, social media strategy, digital strategy, social media effectiveness, online marketing, international web trends, international social media trends, online research, social networking research, video online trends, content trends, paid content research">
 
-<meta name="viewport" content="width=1024">
+<meta name="viewport" content="user-scalable=yes, width=1024">
 
 <link rel="stylesheet" href="http://globalwebindex.net/wp-content/themes/gwi/style.css" type="text/css" media="screen">
 
@@ -23,18 +23,15 @@
 
 
 
-<link rel="stylesheet" id="wp_dlmp_styles-css" href="http://globalwebindex.net/wp-content/plugins/download-monitor/page-addon/styles.css?ver=3.2.1" type="text/css" media="all">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://globalwebindex.net/wp-includes/js/l10n.js?ver=20101110"></script>
-<script type="text/javascript" src="http://globalwebindex.net/wp-includes/js/jquery/jquery.js?ver=1.6.1"></script>
+<link rel="stylesheet" id="wp_dlmp_styles-css" href="http://globalwebindex.net/wp-content/plugins/download-monitor/page-addon/styles.css?ver=3.3.1" type="text/css" media="all">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://globalwebindex.net/wp-includes/js/jquery/jquery.js?ver=1.7.1"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://globalwebindex.net/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://globalwebindex.net/wp-includes/wlwmanifest.xml"> 
-<link rel="index" title="GlobalWebIndex" href="http://globalwebindex.net/">
-<link rel="up" title="Home" href="http://globalwebindex.net/">
 <link rel="prev" title="Subscription Terms of Usage" href="http://globalwebindex.net/home/terms/">
 <link rel="next" title="Trial Terms of Usage" href="http://globalwebindex.net/home/trialterms/">
-<meta name="generator" content="WordPress 3.2.1">
+<meta name="generator" content="WordPress 3.3.1">
 <link rel="canonical" href="http://globalwebindex.net/home/privacy-policy/">
-<script type="text/javascript">
+<script charset="utf-8" type="text/javascript">var switchTo5x=false;</script><script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'wp.97af648e-c4d1-4661-b5e3-7a789f1c7702'});var st_type='wordpress3.3.1';</script><script type="text/javascript">
 //<![CDATA[
 	var screen_res = "";
 	function writeCookie(name,value,hours) {
@@ -63,7 +60,9 @@
 
 <script type="text/javascript" src="http://globalwebindex.net/wp-content/themes/gwi/javascript.js"></script>
 
-<script type="text/javascript" src="http://globalwebindex.net/wp-content/themes/gwi/jquery.js"></script>
+<script type="text/javascript" src="http://globalwebindex.net/wp-content/themes/gwi/jquery-1.7.1.min.js"></script>
+
+<script type="text/javascript" src="http://globalwebindex.net/wp-content/themes/gwi/jquery.tablesorter.js"></script>
 
 <script type="text/javascript">
 
@@ -115,16 +114,6 @@ $(document).ready(function(){
  
 </script>
 
-
-<!--<script>
-<!--
-//if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/(iPad)|(iPhone)|(iPod)|(android)|(webOS)/i)))
-//{
-//location.replace("/mobile/index.php);
-//}
-//
-</script>-->
-
 <script>
 $(document).ready(function() {
 
@@ -163,7 +152,7 @@ $(document).ready(function() {
 				$active = $('.paging a:first'); //go back to first
 			}
 			rotate(); //Trigger the paging and slider function
-		}, 5000); //Timer speed in milliseconds (3 seconds)
+		}, 10000); //Timer speed in milliseconds (3 seconds)
 	};
 	
 	rotateSwitch(); //Run function on launch
@@ -190,6 +179,57 @@ $(document).ready(function() {
 
 </script>
 
+<!--<script>
+$(document).ready(function() 
+    { 
+        $("#myTable").tablesorter(); 
+    } 
+
+
+
+); 
+</script>
+<script>
+$(document).ready(function(){
+ 
+    // Function to get the max value in an Array
+    Array.max = function(array){
+        return Math.max.apply(Math,array);
+    };
+ 
+    // Get all data values from our table cells making sure to ignore the first column of text
+    // Use the parseInt function to convert the text string to a number
+ 
+    var counts= $('.tablesorter tbody td').not('.stats-title').map(function() {
+        return parseInt($(this).text());
+    }).get();
+ 
+    // run max value function and store in variable
+    var max = Array.max(counts);
+ 
+    n = 100; // Declare the number of groups
+ 
+    // Define the ending colour, which is white
+    xr = 255; // Red value
+    xg = 255; // Green value
+    xb = 255; // Blue value
+ <!--
+    // Define the starting colour #f32075
+    yr = 243; // Red value
+    yg = 32; // Green value
+    yb = 117; // Blue value
+ 
+    // Loop through each data point and calculate its % value
+    $('.tablesorter tbody td').not('.stats-title').each(function(){
+        var val = parseInt($(this).text());
+        var pos = parseInt((Math.round((val/max)*100)).toFixed(0));
+        red = parseInt((xr + (( pos * (yr - xr)) / (n-1))).toFixed(0));
+        green = parseInt((xg + (( pos * (yg - xg)) / (n-1))).toFixed(0));
+        blue = parseInt((xb + (( pos * (yb - xb)) / (n-1))).toFixed(0));
+        clr = 'rgb('+red+','+green+','+blue+')';
+    });
+});
+</script>-->
 </head>
 
 <body>
@@ -198,7 +238,7 @@ $(document).ready(function() {
   <div id="inner">
 		<div id="logo">
 
-			<h1><a href="http://globalwebindex.net">GlobalWebIndex</a></h1>
+			<h1 id="top"><a href="http://globalwebindex.net">GlobalWebIndex</a></h1>
             </div>
     <!-- <div id="slide-out">
 		<div id="subscribe" class="page-wrap">
@@ -228,18 +268,19 @@ $(document).ready(function() {
 			
 			
 				                
-   <li>  
+   	<li>  
    		<span>
-        <a href="/home/">Home</a>  
-        <ul class="subnav">  
-            <li><a href="/report-page/">Buy Reports</a></li>  
-            <li><a href="/contact/get-in-touch/">Get in Touch</a></li>  
-        </ul> 
+        <a href="/home/">Home</a>   
+        </span> 
+    </li> 
+	<li>  
+   		<span>
+        <a href="/report-page/">Buy Reports</a> 
         </span> 
     </li> 
     
     <li><a href="/overview/">2 Minute Overview</a></li>    
-    <li>
+   <!-- <li>
     	<span>
         <a href="">Business Benefits</a>  
         <ul class="subnav">  
@@ -251,7 +292,7 @@ $(document).ready(function() {
             <li><a href="/business-benefits/educational-institute/">Educational Institute</a></li>  
         </ul>
         </span>
-    </li>  
+    </li>  -->
     <li>
     	<span>
         <a href="">Solutions</a>  
@@ -264,7 +305,7 @@ $(document).ready(function() {
         </ul>
         </span>
     </li>   
-    <li> 
+   <!-- <li> 
     	<span>
         <a href="">Data</a>  
         <ul class="subnav">  
@@ -272,10 +313,10 @@ $(document).ready(function() {
             <li><a href="/data/why-surveys/">Why Do We Use Surveys?</a></li> 
             <li><a href="/data/why-we-run/">Why We Run 3 Waves</a></li>  
             <li><a href="/data/roadmap/">Roadmap</a></li>
-            <!--<li><a href="/data/survey-coverage/">Survey Coverage</a></li> -->
+            <!--<li><a href="/data/survey-coverage/">Survey Coverage</a></li>
         </ul> 
         </span> 
-    </li>
+    </li>-->
     <li>
     	<span>
         <a href="/thinking/">Thinking</a>  
@@ -285,7 +326,7 @@ $(document).ready(function() {
         </ul>  
         </span>
     </li> 
-    <li>
+    <!--<li>
     	<span>
         <a href="">Key Themes</a>  
         <ul class="subnav">  
@@ -297,7 +338,7 @@ $(document).ready(function() {
             <li><a href="/key-themes/wave-6-preview/">Wave 6 Preview</a></li>
         </ul>
         </span>  
-    </li>    
+    </li>-->    
 	<li>
     	<span>
         <a href="/contact/">Contact Us</a>
@@ -308,7 +349,8 @@ $(document).ready(function() {
     </li>             
 		</ul>
 
-			            
+						
+            
 			
 
 
@@ -425,7 +467,7 @@ $(document).ready(function() {
 <p>Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.</p>
 <p>Contact</p>
 <p>Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Trendstream Limited, 143 London Road, Kingston Upon Thames, KT2 6NH or globalwebindex@trendstream.net.</p>
-		       </div>
+<p><span class="st_facebook_buttons" st_title="Privacy Policy" st_url="http://globalwebindex.net/home/privacy-policy/" displaytext="share"></span><span class="st_twitter_buttons" st_title="Privacy Policy" st_url="http://globalwebindex.net/home/privacy-policy/" displaytext="share"></span><span class="st_plusone_buttons" st_title="Privacy Policy" st_url="http://globalwebindex.net/home/privacy-policy/" displaytext="share"></span><span class="st_linkedin_buttons" st_title="Privacy Policy" st_url="http://globalwebindex.net/home/privacy-policy/" displaytext="share"></span><span class="st_fblike_buttons" st_title="Privacy Policy" st_url="http://globalwebindex.net/home/privacy-policy/" displaytext="share"></span></p>		       </div>
     </div>
 	</div> <!-- End content -->
 
@@ -436,9 +478,9 @@ $(document).ready(function() {
 
 		<div class="wrapper">
 <ul>
-  <li class="pagenav"><h2></h2><ul><li class="page_item page-item-994 current_page_item"><a href="http://globalwebindex.net/home/privacy-policy/" title="Privacy Policy">Privacy Policy</a></li>
-<li class="page_item page-item-989"><a href="http://globalwebindex.net/home/terms/" title="Subscription Terms of Usage">Subscription Terms of Usage</a></li>
-<li class="page_item page-item-997"><a href="http://globalwebindex.net/home/trialterms/" title="Trial Terms of Usage">Trial Terms of Usage</a></li>
+  <li class="pagenav"><h2></h2><ul><li class="page_item page-item-994 current_page_item"><a href="http://globalwebindex.net/home/privacy-policy/">Privacy Policy</a></li>
+<li class="page_item page-item-989"><a href="http://globalwebindex.net/home/terms/">Subscription Terms of Usage</a></li>
+<li class="page_item page-item-997"><a href="http://globalwebindex.net/home/trialterms/">Trial Terms of Usage</a></li>
 </ul></li>  </ul>
 
 			<p>Copyright © 2011 Trendstream. All rights reserved. </p>
