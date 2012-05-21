@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joelsnews.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227125209id_/http%3A//joelsnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joelsnews.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521105652id_/http%3A//joelsnews.com/privacy) for the most accurate reproduction.*
 
 # Privacy | JoelsNews.com
 
@@ -94,8 +94,8 @@ We take measures to protect data that contains information related to you. Howev
 
 BY REGISTERING AS A MEMBER OF THIS WEBSITE AND USING OUR SERVICES AND/OR THE WEBSITE, YOU EXPRESSLY CONSENT TO THE USE AND DISCLOSURE OF YOUR INFORMATION, BOTH PERSONALLY IDENTIFIABLE AND NON-PERSONALLY IDENTIFIABLE, AS DESCRIBED IN THIS PRIVACY POLICY.
 
-Last updated: November 2008
+Last updated: November 2012
 
-© Copyright 2008 JoelsNews.com All Rights Reserved
+© Copyright 2012 JoelsNews.com All Rights Reserved
 
 [](http://twitter.com/home/?status=Privacy+http://tinyurl.com/66ektzv "Post to Twitter")
