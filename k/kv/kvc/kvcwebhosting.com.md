@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kvcwebhosting.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224610id_/http%3A//www.kvcwebsitehosting.com/webhosting-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kvcwebhosting.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521232523id_/http%3A//www.kvchosting.com/privacy-policy.html) for the most accurate reproduction.*
 
 # KVCHOSTING Privacy Policy
 
-**KVCHosting.com, LLC is committed to protecting client data collected. KVCHosting respects client's privacy and use of KVCHosting services indicates agreement to KVCHosting privacy policy guidelines as defined:
+KVCHosting.com, LLC is committed to protecting client data collected. KVCHosting respects client's privacy and use of KVCHosting services indicates agreement to KVCHosting privacy policy guidelines as defined:
 
 KVCHosting will collect and record minimum required client information in order to provide competitive services. KVCHosting privacy policy states the kinds of processes that may occur in different circumstances when client data will be collected. Usage of KVCHosting.com grants the right to collect user information. 
 
@@ -22,5 +22,3 @@ KVCHosting may change its Privacy Policy at any time without prior notice. Reaso
 
 **CONTACT US**   
 Clients and users are encouraged to contact KVCHosting directly if any questions should arise or they need clarification about information collected. Factual errors in such information or removal of details from list under KVCHosting may also be made this way.
-
-**
