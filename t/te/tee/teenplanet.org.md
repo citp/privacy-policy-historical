@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenplanet.org privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210150631id_/http%3A//photos.teenplanet.org/skins/default/templ/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenplanet.org privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521222909id_/http%3A//photos.teenplanet.org/skins/default/templ/privacy.html) for the most accurate reproduction.*
 
 # 
 
