@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netserveafrica.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121225315id_/http%3A//netserveafrica.com/support/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netserveafrica.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521175643id_/http%3A//netserveafrica.com/support/privacy.php) for the most accurate reproduction.*
 
 # NetServeAfrica Support
 
