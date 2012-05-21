@@ -1,21 +1,26 @@
-> *The following text is extracted and transformed from the adairs.com.au privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201054704id_/http%3A//www.adairs.com.au/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adairs.com.au privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522015038id_/http%3A//www.adairs.com.au/privacy-security) for the most accurate reproduction.*
 
-# Adairs - Privacy Statement
+# None
 
-### Adairs & Your Privacy
+  
 
-At any Adairs store, including our online store, we are committed to protecting your privacy. Any personal information you provide to us will be used to provide you with the services you have agreed to. It is safe and secure with us.
 
-It is important for you to note that once you purchase a product from us it is necessary for us to collect information from you to deliver your products. If you wish to remain completely anonymous you may purchase from any of our stores in Australia, these can be found using our [store finder](https://web.archive.org/store-finder/).
+The Privacy Act National Privacy Principles (amended 21 December 2001) imposed new regulations for the collection, use and disclosure of personal information, plus other matters including data quality and security, openness, access and correction. 
 
-### Your Personal Information
+Adairs Retail Group does not sell, trade or rent your personal information to others. We do, however use third parties to process our postal direct mail and electronic direct mail distribution.  These relationships are governed by confidentiality agreements.
 
-You are able to visit our website without disclosing any personal information to us. If you purchase from us or choose to provide your personal information to us, we will only use this information for purposes you have agreed to. Unless you indicate to us that you do not wish to receive marketing material, such a request can be made to our Privacy Officer. Other than this, we will not give your personal information to anyone without your approval.
+No warranty is given that the information is free of infection by computer viruses or other contamination, nor that access to the website or any part of it will not suffer from interruption from time to time, without notice. All links to other websites included on this website are provided for convenience only and Adairs does not accept any responsibility for the accuracy, availability, or appropriateness to the user's purposes, of any information or services on any other website. 
 
-Adairs will keep your personal information confidential & secure. All of your information is kept in a location that is protected by secure servers. If you wish to access the information we have on you at any time please contact our Privacy Officer. Adairs aims to ensure all of your personal information is accurate at all times. To assist us in doing this we ask that you inform us of any changes to your information by fax, phone, email or at any of our stores around Australia.
+Adairs, as manager of this website, does not accept any responsibility for the accuracy, availability, or appropriateness to the user's purposes, of any information provided. 
 
-Personal information will not be disclosed without your consent, the only exception to this is where we would be required by law to do so. Adairs will not accept responsibility for the use of any information that has been obtained through unauthorised access.
+If you choose to email us or complete forms on the website your contact details and information that you provide will be data based. It is your right to ask for disclosure of any of your personal information that may be held and on request we will remove your details from our records. 
 
-If you have any further queries in regards to Adairs privacy policy you can contact our Privacy Officer by email [privacy@adairs.com.au](mailto:privacy@adairs.com.au), phone 03 8888 4580, fax 03 9763 4546 or mail Shop 1 / 901 Nepean Hwy, Mornington, VIC, 3931.
+For further information regarding compliance with the Act, visit the Privacy Commissioner's website at www.privacy.gov.au
 
-[Home](https://web.archive.org/) » Privacy Statement
+Pricing and Tax Information All prices on this website are in Australian Dollars (AUD) and are inclusive of Goods and Services Tax (GST).
+
+Security with Credit Cards and payments - Adairs Retail Group does not store or database any credit card details within the Adairs or Adairs Kids website databases. Pending payments are processed via eWay once authorised. 
+
+All payments are processed via a 128bit SSL connection to eWay - Australia's leading payment gateway. For further security information on eWay you can visit their website www.eway.com.au
+
+We currently accept VISA, MASTERCARD and American Express transactions via our online store. 
