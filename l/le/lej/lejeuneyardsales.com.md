@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lejeuneyardsales.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121024530id_/http%3A//www.lejeuneyardsales.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lejeuneyardsales.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521045036id_/http%3A//www.lejeuneyardsales.com/privacy.jsp) for the most accurate reproduction.*
 
 # Lejeune bookoo - yard sales and classifieds in Camp Lejeune, North Carolina
 
@@ -10,11 +10,11 @@ Here's the short version: we respect your privacy and never release or misuse yo
 
 If you're bored, you can read the long version below (yawn....). 
 
-This is a web site of Rolera. 
+This is a web site operated by Bookoo, Inc. 
 
 Our postal address is: 248 Foster Drive Oswego, IL 60543 
 
-We can be reached via e-mail at info@kingwoodyardsales.com. 
+We can be reached via e-mail at info@bookoo.com. 
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). 
 
@@ -44,5 +44,5 @@ If you feel that this site is not following its stated information policy, you m
 
 * * *
 
-[ Advertising on Lejeune bookoo ](https://web.archive.org/web/20111121024530id_/http%3A//www.lejeuneyardsales.com/sponsor.jsp)  
+[ Advertising on Lejeune bookoo ](https://web.archive.org/web/20120521045036id_/http%3A//www.lejeuneyardsales.com/sponsor.jsp)  
 ---|---|---
