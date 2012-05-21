@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xdating.com privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014174328id_/http%3A//www.xdating.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xdating.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521031459id_/http%3A//www.xdating.com/site/privacy) for the most accurate reproduction.*
 
-# xdating.com best dating online for free
+# XDating.com - Free online Dating Sites & Service for casual dates
 
 ### Table of Contents:
 
