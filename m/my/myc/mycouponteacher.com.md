@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycouponteacher.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122052350id_/http%3A//www.mycouponteacher.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycouponteacher.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522004913id_/http%3A//www.mycouponteacher.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -33,4 +33,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-I disclose: There may be affiliate links in this post.
+I [disclose](http://www.mycouponteacher.com/disclosure-privacy-policies/) : There may be affiliate links in this post.
