@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsday.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122050423id_/http%3A//www.newsday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsday.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522003817id_/http%3A//www.newsday.com/privacy) for the most accurate reproduction.*
 
 # Newsday LLC Privacy Policy
 
@@ -65,7 +65,7 @@ Newsday reserves the right to change this policy at any time. Please check this 
 
 **Governing law.**
 
-This policy and the use of the website are governed by New York law. Any claim related to the website or this policy shall be brought in a federal or state court in [Nassau](https://web.archive.org/topics/Nassau_County%2C_NY) or [Suffolk](https://web.archive.org/topics/Suffolk_County%2C_NY) Counties, New York, within one year after the claim arises. You agree no such claim may be brought as a class action. Users of the website consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this policy. The website is controlled, operated and administered entirely within the United States. If you are located outside the United States, please note the information you provide to us will be transferred to the United States. You hereby consent to this transfer.
+This policy and the use of the website are governed by [New York](https://web.archive.org/topics/New_York_%28state%29) law. Any claim related to the website or this policy shall be brought in a federal or state court in [Nassau](https://web.archive.org/topics/Nassau_County%2C_NY) or [Suffolk](https://web.archive.org/topics/Suffolk_County%2C_NY) Counties, [New York](https://web.archive.org/topics/New_York_%28state%29), within one year after the claim arises. You agree no such claim may be brought as a class action. Users of the website consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this policy. The website is controlled, operated and administered entirely within the United States. If you are located outside the United States, please note the information you provide to us will be transferred to the United States. You hereby consent to this transfer.
 
-Copyright © 2011, Newsday LLC.  
+Copyright © 2012, Newsday LLC.  
 Version: September 2011
