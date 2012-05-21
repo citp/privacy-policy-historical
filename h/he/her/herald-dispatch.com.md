@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herald-dispatch.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121020524id_/http%3A//www.herald-dispatch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herald-dispatch.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521041538id_/http%3A//www.herald-dispatch.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Herald Dispatch
 
