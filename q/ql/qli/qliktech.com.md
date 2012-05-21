@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qliktech.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009035800id_/http%3A//www.qlikview.com/us/info/privacy%3Fga-link%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qliktech.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521092553id_/http%3A//www.qlikview.com/us/info/privacy%3Fga-link%3Dfooter) for the most accurate reproduction.*
 
 # Privacy | QlikView
 
