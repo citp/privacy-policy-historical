@@ -1,64 +1,95 @@
-> *The following text is extracted and transformed from the raceforlifesponsorme.org privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630115832id_/http%3A//www.justgiving.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raceforlifesponsorme.org privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521042835id_/http%3A//raceforlife.cancerresearchuk.org/utilities/privacy/index.html) for the most accurate reproduction.*
 
-# JustGiving’s privacy policy - JustGiving
+# Privacy - Utilities - Race for Life - Cancer Research UK
 
-Your privacy is paramount. This is how serious we are about it: we will never pass on, trade, exchange or sell your personal details to **anyone** without your express consent. We really mean _anyone_ : not a sister company, not a ‘friendly third party’, not even the charity you are giving to.
+## Privacy Statement
 
-There is one exception to that rule: when you build a JustGiving page or donate by text message (but for text messages only where you have completed gift aid form and agreed the we can pass details on), we will pass on your name, email address and postal address to the charity you have chosen to support, so that they can thank you. You can opt in to receive further communications from them if you like, but you don’t have to. We will not pass your details onto a non member charity until they have entered into an agreement with us.
+At Cancer Research UK we are committed to protecting your privacy. This statement describes how Cancer Research UK collects and uses personal information about people who visit our websites. The terms of this statement may change, so please check it from time to time.
 
-**That’s it. If you want the full, extended version, here it is:**
+If you have any queries about this privacy statement please contact the Data Protection Coordinator at the Legal Department, Cancer Research UK, Angel Building, 407 St John Street, London EC1V 4AD or email [dataprotection@cancer.org.uk](mailto:dataprotection@cancer.org.uk).
 
-By visiting or registering with Justgiving.com, you are agreeing to the practices detailed in the Privacy Policy below so please read on to find out how information relating to you will be treated as you use our site.
+### How do we collect information?
 
-  1. **The information we collect from you as a site visitor**  
-JustGiving (JG) collects information about the Internet Protocol (IP) addresses of all visitors to our site. An IP address is a number assigned to your computer automatically when you use the internet. This information is only collected in aggregate (in other words, we are not able to monitor your individual usage of the site) and helps us monitor site traffic patterns in order to improve our service. 
+We obtain personal information from you when you enquire about our activities, register with us, send or receive an e-postcard, make a donation to us, ask a question about cancer or otherwise provide us with personal information. We may also receive information about you from third parties, for example from our service providers or from a friend who wants to tell you about our websites or the fundraising activities we carry out.
 
-This site uses cookies for some interactive features. A cookie is a small amount of data, which includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive. Most browsers will automatically accept cookies. You can set your browser to reject cookies but some parts of the web site may not function properly if the cookies are rejected. 
+### What information do we collect?
 
-  2. **The information we collect from you as a registered user with a JustGiving page**  
-When you create a secure personal account on JG for the purpose of creating a JustGiving page, we collect your title, name, email address, postal address, your phone number (where you agree to provide it) and your password. We will automatically pass on your name and email and home addresses to the member charity that will benefit from the donations you are collecting. We will not pass on your details to a non member charity unless they have entered into an agreement with us. In all other instances, we will not pass on this information to any third party unless you give us your express consent. 
-  3. **The information we collect from you when you donate**  
-When you make a donation on JustGiving, we collect: your first and last name; your email address; your declaration of tax status; your credit or debit card details (including card type, card number and expiry date); and your billing address. 
-    * **Your name.**  
-If you do not want your name to be publicly associated with your donation, please enter your name as “Anonymous” when filling out the donation. Your name then will not appear on the fundraiser’s JustGiving page, nor will it appear in any online search results. Your name will always be passed on to the fundraiser but, if you have made an anonymous donation, your name will only appear in their secure account area.
-    * **Your email address.**  
-We need your email address so we can confirm your donation or let you know if there’s been a problem. However, we never share your email address with any other party unless you explicitly say so. If you’d like, we can pass your email address on to your fundraiser friend and/or to the member charity you’re donating to so they can thank you and keep you updated. We will not do this unless you expressly ask us to do so. If your donation is to a non member charity, we will not pass your email address to them unless they have accepted your donation and entered into an agreement with us. That’s it.
-    * **Payment details.**  
-We will only use your payment details for the purpose of processing your donation via our card processing partner Barclaycard. To find out more about the security of your payments, please read our [Security policy](https://web.archive.org/info/security). If you make a Gift Aid declaration, we will pass it on to HM Revenue and Customs for the purpose of reclaiming tax on behalf of the recipient charity. Your Gift Aid declaration includes your name and home address (which may be different from your billing address) along with the confirmation that you are paying sufficient amounts of tax in the current tax year. All of this information is held securely and will never be passed on or sold to anyone else. Ever.
-  4. **The information we collect from you when you donate by text message**
+The personal information we collect might include name, date of birth, email address, postal address, telephone number and credit/debit card details. We may also collect health information if you tell us about your cancer experience or the experiences of a friend or relative.
 
-When you make a donation by text message, we collect: your first and last name; your mobile telephone number; the name of the charity you want to donate to; and the amount of your donation. We may ask you to provide your email address.
+We also gather general information about the use of our websites, such as which pages users visit most often and which services, events or facilities are of most interest. We may also track which pages users visit when they click on links in Cancer Research UK emails. We may use this information to personalise the way our websites are presented when users visit them, to make improvements to our websites and to ensure we provide the best service for users. Wherever possible we use aggregated or anonymous information which does not identify individual visitors to our websites.
 
-If you donate by text message we will reply to your message and give you the choice to add gift aid to your donation. If you choose to add gift aid to your donation we will collect your home address and postcode so that we can process your gift aid supplement. When you donate by text we will look after your information as carefully as we do when you donate on the website.
+### How do we use this information?
 
-  5. **The information we collect from you when you use Fundraising Coach**
+We will use your personal information:
 
-When you use the Fundraising Coach application (" **FC** ") you will access your social media accounts and other communication tools, such as Gmail, Yahoo! Mail, Hotmail, Twitter and Facebook (" **Your Accounts** ") through FC. When we access Your Accounts as part of the FC service we will collect the names and electronic addresses of the people in your contacts lists.
-
-    * **FC contact lists**  
-When we collect the names and electronic addresses of your contacts we will ask you to sort them into two contact lists - one for "fans" (eg family and close friends) and one for "Supporters" (eg colleagues and other relatives). When the contacts are sorted into the different contact lists FC will help you to generate and send emails requesting donations. There will be two versions of the email which will be slightly different depending on which contact list the contact is in. We will record the contact lists so that the right messages are sent to your contacts.
-    * **Your contacts**  
-When we collect the details of your contacts from Your Accounts, we will give you the choice of which contacts you want to include in your fundraising campaign. You can choose individual contacts to add to your FC contact lists or you can select all contacts. Any contact who you choose not to include in your FC contact lists will not be sent any emails through FC and we will not keep a record of or use their details for any other purpose. At any point during your fundraising campaign you can choose to remove a contact from the campaign and they will receive no further messages through FC. To do this just log in to your own JustGiving page, access FC and de-select the individual from your FC contact lists. We will only use the information we collect relating to your contacts for the purposes of running your fundraising campaign through FC.
-    * **At the end of your campaign**  
-When your fundraising campaign is finished we will keep a record of your FC contact lists. By accepting the Privacy Policy you agree to us keeping a record of your FC contact lists for up to six months. At any time you will be able to remove individual contacts or delete the whole contact lists for yourself in the same way that you can at any point during the campaign. We will automatically delete your FC contact lists after six months. This will not affect the address books you already have in your standard JG account. 
-
-When you provide your contacts' electronic addresses by using FC, we guarantee that we will only use them for the purposes of running your fundraising campaign through FC. We will not use their electronic addresses for any other purpose and will not provide them to anyone else. We will keep your contact details secure and confidential. Your contacts will not be sent any electronic communication from a JG address unless they donate and opt in to receive regular information from us or otherwise consent to us contacting them.
-
-By using FC you consent to us collecting the details of contacts from Your Accounts and you authorise us to use this information for the purposes set out in this Privacy Policy and on the Website. You agree that all communications sent to your contacts through FC are your sole responsibility. In relation to FC, we will at all times act as a data processor on your behalf. You acknowledge that you will remain the data controller of your contacts' data.
-
-  6. **Email alerts and newsletters from JustGiving**  
-We may send you short emails from time to time: email alerts with important information about our service and newsletters with tips, stories and competitions. You will always be offered the ability to unsubscribe from our newsletters and from our fundraising tips, donation alerts and fundraising updates. If you have a personal JG account, you can change your contact preferences at any time by visiting the ‘Your details’ and ‘Change your email preferences’ sections.
-  7. **Charities’ use of your personal information**  
-Where you have opted in to pass on your personal details to a charity through our website or via text donation, JG declines all responsibility for the subsequent use of your personal information by the charity. If you wish to stop receiving further communications from a charity, please contact them directly. 
-  8. **Security precautions to protect your information**  
-The transfer of online transaction data to and from the web site is protected by the implementation of a Secure Sockets Layer protocol. Our VeriSign 128-bit secure certificate allows web browsers to verify the authenticity of our secure.justgiving.com domain and to communicate with our site securely, protecting confidential information from interception and hacking. It is your responsibility to keep your password secure at all times to avoid unauthorised use of your JG account.
-  9. **Tell a friend**  
-When you provide a friend’s email address for JG to forward a web address, we guarantee that we will only use your friend’s address for this purpose. We will not send them further emails unless they opt in to receive regular information from us.
-  10. **Legal process**  
-Although unlikely, JG may be forced by law to provide personally identifiable information to the appropriate authorities.
-  11. **Acceptance of our Privacy Policy**  
-Use of the JG website and associated services implies acceptance of this Privacy Policy. If you are not satisfied with any aspect of it please do not continue to use the website and services. This policy may change from time to time and you are deemed to have accepted the current version each time you use Justgiving.com or any site powered by us.
+  * to provide you with the services, products or information you have requested;
+  * to create an account for you if you register with us;
+  * for administration purposes;
+  * to further our charitable aims, including for fundraising activities.
 
 
 
-If you have any questions about our privacy policy please contact us via email at [help@justgiving.com](mailto:help@justgiving.com)
+As part of this, we may analyse the personal information we collect to create a profile of your interests and preferences so that we can contact you in the most appropriate way and with the most relevant information. Where relevant, we may also assess your personal information for the purposes of fraud and credit risk reduction.
+
+If you enter your contact details in one of our online registration forms, we may use this information to contact you even if you don't "send" or "submit" the form. We will only do this to see if we can help with any problems you might be experiencing with the form or with our websites.
+
+We may need to share your information with our service providers, associated organisations and agents for the purposes described above.
+
+### Cancer information nurses
+
+If you contact the [cancer information nurses](http://aboutus.cancerresearchuk.org/contact-us/contact-our-cancer-information-nurses/ "This link opens in a new window."), either through CancerHelp UK or directly, you may choose to provide details of a personal nature. Only the cancer information nurses will use your personal information and only for the purposes of dealing with your enquiry. They will not pass on your details to anyone else without your express permission, except in exceptional circumstances to comply with the nurses’ code of professional conduct or the law. Examples of this might include children contacting the service reporting abuse, anyone reporting serious self harm, anyone expressing the intention of harming someone else, or if a terrorist threat is reported.
+
+Your personal information and details of the enquiries received are stored on a secure database. If for any reason you wish to have your personal details removed from their records, please [contact the cancer information nurses](http://aboutus.cancerresearchuk.org/contact-us/contact-our-cancer-information-nurses/ "This link opens in a new window.").
+
+If you send feedback to the CancerHelp UK team, the feedback will be noted and your contact details kept for a maximum of 3 months. If you have sent a complaint to the site, the correspondence will be kept securely in a complaints file for a maximum of one year, in case we need to refer back to it.
+
+### Your choices
+
+You have a choice about whether you want to receive information about our progress and fundraising activities. We will not use your personal information for marketing purposes if you have indicated that you do not wish to be contacted. You can change your marketing preferences at any time by contacting Supporter Services at Cancer Research UK, Angel Building, 407 St John Street, London EC1V 4AD, by phone on 020 7121 6699, or email [supporter.services@cancer.org.uk](mailto:supporter.services@cancer.org.uk).
+
+### Under 16s
+
+Cancer Research UK is concerned to protect the privacy of children aged under 16. Some of our websites, such as Race for Life, have specific rules about how children under 16 can take part in our events. Where appropriate we will seek consent from a parent or guardian before collecting personal information about a child aged under 16.
+
+### Do we use 'cookies'?
+
+'Cookies' are small pieces of information sent by a web server to a web browser which enable the server to collect information from the browser. Essentially it takes the form of a small text file deposited on your computer's hard drive. Our websites use both persistent and session cookies. Persistent cookies are cookies that stay on your computer permanently until you "manually" delete them. Session cookies delete themselves automatically when you leave a website and go to another one or shut down your browser.
+
+Cancer Research UK uses cookies to ensure that you can interact with our websites successfully, to keep track of your browsing patterns and to help you use your account if you have registered with us. Cookies can help to give you a more personalised web experience. The use of cookies does not allow us to access any other information on your computer nor does it affect your experience of using any other websites.
+
+If you want to prevent our cookies being stored on your computer in future, you can easily change your web browser setting to refuse cookies, or to notify you when you receive a new cookie. You can do this by clicking on the "Help" menu. You can also delete these cookies. Please note however that if you disable or delete our cookies your use of our websites may be restricted and you may not be able to access all the services or facilities on our sites. Further information on deleting or controlling cookies is available at <http://www.aboutcookies.org/>.
+
+### How do we protect personal information?
+
+All of our online forms are protected by encryption. We also use a secure server when you make a donation or payment via our websites. We take appropriate measures to ensure that the personal information disclosed to us is kept secure, accurate and up to date and kept only for so long as is necessary for the purposes for which it is used.
+
+### Will we disclose the information we collect to outside parties?
+
+As indicated above, we may pass your information to our service providers, agents and associated organisations for the purpose of completing tasks and providing services to you (other than information provided in a query to CancerHelp UK or the cancer information nurse teams). Where we use service providers we will make sure there are appropriate controls in place.
+
+We may also need to disclose your information if required by law (for example to government bodies and law enforcement agencies) or if we have your permission to do so.
+
+We will not sell any information about your web browsing activity.
+
+### Your consent
+
+By providing us with your personal data, including sensitive personal data such as on your health, you consent to the collection and use of this information in accordance with the purposes described above and this privacy statement.
+
+You also consent to our transferring your information to countries or jurisdictions outside the UK if necessary for the above purposes. These countries may not provide the same level of data protection as the UK. If we do make such a transfer, we will, if appropriate, put appropriate controls in place to ensure your information is protected.
+
+### Right of access
+
+If you have created an account with us, you can sign into your account to access and update your information.  
+You have the right to ask for a copy of the information we hold about you (for which we may charge a small fee) and to have any inaccuracies in your information corrected. If you wish to exercise these rights, contact Supporter Services at Cancer Research UK, Angel Building, 407 St John Street, London EC1V 4AD or email [supporter.services@cancer.org.uk](mailto:supporter.services@cancer.org.uk)
+
+### Links
+
+Our websites may include links to websites run by other organisations. Cancer Research UK is not responsible for the privacy practices of these other websites so you should read their privacy policies carefully.
+
+### Changes
+
+If your personal details change, please help us to keep your information up to date by notifying us at the above address.  
+We may change the terms of this privacy statement from time to time. If we do so, we will post the changes here so please check from time to time. By continuing to use our websites you will be deemed to have accepted such changes.
+
+
+
