@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usg.edu privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121024354id_/http%3A//www.usg.edu/siteinfo/web_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usg.edu privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521164125id_/http%3A//www.usg.edu/siteinfo/web_privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy for WWW.USG.EDU - Site Information - University System of Georgia
 
@@ -20,7 +20,7 @@ The USG does its best to ensure that the personal information obtained from you 
 
 While we strive to protect your personal information by encryption and other means, we cannot guarantee or warrant the security of the information you transmit to us, and if you choose to use the Site, you do so at your own risk.
 
-Please keep in mind that the information disclosed by you on our Site in certain forums — for example, information, including personal information, that you may provide to others on bulletin boards, through blogs or in chat rooms that may be available on the Site — can be collected and used by visitors to the Site.
+Please keep in mind that the information disclosed by you on our Site in certain forums – for example, information, including personal information, that you may provide to others on bulletin boards, through blogs or in chat rooms that may be available on the Site – can be collected and used by visitors to the Site.
 
 ## Sharing of Information
 
@@ -28,4 +28,4 @@ The USG is committed to maintaining the privacy and accuracy of your personal in
 
 ## Questions
 
-If you have questions about this Privacy Policy or you believe that your personal information has been released without your consent or if you wish to correct information held by the USG, please [contact us](http://www.usg.edu/contact/).
+If you have questions about this Privacy Policy or you believe that your personal information has been released without your consent or if you wish to correct information held by the USG, please [contact us](http://www.usg.edu/contact).
