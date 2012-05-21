@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rhb.com.my privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216184411id_/http%3A//www.rhb.com.my/generalinfo/privacy/main.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rhb.com.my privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521141937id_/http%3A//rhb.com.my/generalinfo/privacy/main.html) for the most accurate reproduction.*
 
 # RHB | Privacy Policy
 
