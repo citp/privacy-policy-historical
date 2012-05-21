@@ -1,16 +1,113 @@
-<!--The following is the downloaded HTML source of the gubug.com privacy policy that was archived on 2011-11-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111103095615id_/http%3A//www.gubug.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gubug.com privacy policy that was archived on 2012-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120521184806id_/http%3A//www.gubug.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <link rel="alternate" type="application/rss+xml" title="Newest Files (RSS 2.0)" href="http://www.gubug.com/rss.php?r=newgames&amp;l=20">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="description" content="Find all the fun online games here where the most fun games are added every day. Stop by often for fun online games. There are always new fun online games so check back regularly.">
 <meta name="keywords" content="fun online games, most fun games,batman games,scooby doo games, benten games">
+        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.gubug.com/js/jquery-1.7.1.min.js"></script>
+    <script type="text/javascript">
+    (function($) {
+        /* use jQuery as container for more convenience */
+        $.popunder = function(sUrl) {
+            var _parent = self;
+        var bPopunder = ($.browser.msie && parseInt($.browser.version, 10) < 9);
 
-<script language="javascript">var js_is_index_page=false;</script><script type="text/javascript">
+        if (top != self) {
+            try {
+                if (top.document.location.toString()) {
+                    _parent = top;
+                }
+            }
+            catch(err) { }
+        }
+
+        /* popunder options */
+        var sOptions = 'toolbar=1,scrollbars=1,location=1,statusbar=1,menubar=0,resizable=1,width=' + (screen.availWidth - 10).toString();
+        sOptions += ',height=' + (screen.availHeight - 122).toString() + ',screenX=0,screenY=0,left=0,top=0';
+
+        /* create pop-up from parent context */
+        var popunder = _parent.window.open(sUrl, 'pu_' + Math.floor(89999999*Math.random()+10000000), sOptions);
+            if (popunder) {
+                popunder.blur();
+                if (bPopunder) {
+                    /* classic popunder, used for old ie*/
+                    window.focus();
+                    try { opener.window.focus(); }
+                    catch (err) { }
+                }
+                else {
+                    /* popunder for e.g. ff4+, chrome, ie9 */
+                    popunder.init = function(e) {
+                        with (e) {
+                            (function() {
+                                if (typeof window.mozPaintCount != 'undefined') {
+                                    var x = window.open('about:blank');
+                                    x.close();
+                                }
+    
+                                try { opener.window.focus(); }
+                                catch (err) { }
+                            })();
+                        }
+                    };
+                    popunder.params = {
+                        url: sUrl
+                    };
+                    popunder.init(popunder);
+                }
+            }
+            
+            return this;
+        }
+    })(jQuery);
+$(document).one('click', function() {
+var gotoUrl='http://www.bearhuntforfashion.com/monstergames_lp1.php'; 
+ if (jqp_loadornot())
+ {
+$.popunder(gotoUrl); 
+ } // end if, check cookie
+});
+	
+function jqp_get_cookie(Name) {
+  var search = Name + "="
+  var returnvalue = "";
+  if (document.cookie.length > 0) {
+    offset = document.cookie.indexOf(search)
+    if (offset != -1) { // if cookie exists
+      offset += search.length
+      // set index of beginning of value
+      end = document.cookie.indexOf(";", offset);
+      // set index of end of cookie value
+      if (end == -1)
+         end = document.cookie.length;
+      returnvalue=unescape(document.cookie.substring(offset, end))
+      }
+   }
+  return returnvalue;
+}
+
+function jqp_set_cookie(c_name,value,expiredays)
+{
+var exdate=new Date();
+exdate.setDate(exdate.getDate()+expiredays);
+document.cookie=c_name+ "=" +escape(value)+
+((expiredays==null) ? "" : ";expires="+exdate.toUTCString());
+}
+
+function jqp_loadornot(){
+var rv=0; // default to false
+if (jqp_get_cookie('popunder')==''){
+rv=1; // yes load popunder
+jqp_set_cookie("popunder","yes",1);
+}
+return rv;
+}
+	</script>		<script language="javascript">var js_is_index_page=false;</script><script type="text/javascript">
 if (top != self) top.location.href = location.href;
 // Frame Breaker Code -->
-</script><script language="javascript">var js_is_mbr=0;</script><script language="javascript">var trf_t=3;</script><title>GuBug.com - FUN ONLINE GAMES - MOST FUN GAMES</title>
+</script><script language="javascript">var js_is_mbr=0;</script><script language="javascript">var trf_t=1;</script><title>GuBug.com - FUN ONLINE GAMES - MOST FUN GAMES</title>
 <link rel="shortcut icon" href="http://www.gubug.com/favicon.ico">
 <link rel="stylesheet" type="text/css" href="http://www.gubug.com/sba_style.php">
 <script type="text/javascript" src="/js.js"></script>
@@ -196,7 +293,7 @@ document.write('<object style="margin:0;" classid="clsid:D27CDB6E-AE6D-11cf-96B8
 break;
 default:
 } // end switch
-</script><a href="http://www.gubug.com/tradeout.php" target="_blank"><img src="http://www.gubug.com/images/dora_banner.png" width="728" height="90" border="0" alt="most fun games"></a>
+</script><object style="margin:0;" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" id="scrollb1" width="728" height="90" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,65,0"><param name="movie" value="http://www.gubug.com/flash/scroll_gubug_728x90_2.swf"><param name="quality" value="high"><param name="play" value="true"><param name="loop" value="true"><param name="base" value="flash/"><param name="wmode" value="opaque"><param name="bgcolor" value="#000000"><embed src="http://www.gubug.com/flash/scroll_gubug_728x90_2.swf" width="728" height="90" bgcolor="#000000" wmode="opaque" quality="high" loop="true" base="flash/" type="application/x-shockwave-flash" pluginspace="http://www.macromedia.com/go/getflashplayer"></object>
 <!-- ad code -->
 
  </td>
@@ -285,25 +382,25 @@ filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/images/homeIcon.
       <table border="0" cellpadding="0" cellspacing="0">
         <tbody><tr>
 
-<td align="left" valign="top"><div class="thumb"><a href="http://www.gubug.com/sonic-and-mario-games/Super-Mario-Sunshine-64.html" target="_self" border="0" title="Super Mario Sunshine 64"><img src="http://www.gubug.com/thumbnails/super_mario.bmp" alt="Super Mario Sunshine 64" width="123" height="123" border="1"></a></div></td>
+<td align="left" valign="top"><div class="thumb"><a href="http://www.gubug.com/sport-games/Giraffe__s-Championship.html" target="_self" border="0" title="Giraffe's Championship"><img src="http://www.gubug.com/thumbnails/Giraffe-s-Championship.gif" alt="Giraffe's Championship" width="123" height="123" border="1"></a></div></td>
 
-<td align="left" valign="top"><div class="thumb"><a href="http://www.gubug.com/arcade-games/Pacman.html" target="_self" border="0" title="Pacman"><img src="http://www.gubug.com/thumbnails/pacman.gif" alt="Pacman" width="123" height="123" border="1"></a></div></td>
+<td align="left" valign="top"><div class="thumb"><a href="http://www.gubug.com/racing-games/Monkey-Kart.html" target="_self" border="0" title="Monkey Kart"><img src="http://www.gubug.com/thumbnails/monkeycart.gif" alt="Monkey Kart" width="123" height="123" border="1"></a></div></td>
 
-<td align="left" valign="top"><div class="thumb"><a href="http://www.gubug.com/shooting-games/Homer-The-Flanders-Killer.html" target="_self" border="0" title="Homer The Flanders Killer"><img src="http://www.gubug.com/thumbnails/Flanderskiller02.gif" alt="Homer The Flanders Killer" width="123" height="123" border="1"></a></div></td>
+<td align="left" valign="top"><div class="thumb"><a href="http://www.gubug.com/kid-games/Phineas-and-Ferb-racing-.html" target="_self" border="0" title="Phineas and Ferb racing "><img src="http://www.gubug.com/thumbnails/fast-and-the-phineas.gif" alt="Phineas and Ferb racing " width="123" height="123" border="1"></a></div></td>
 
-<td align="left" valign="top"><div class="thumb"><a href="http://www.gubug.com/kissing-games/Sean-Connery-Kissing.html" target="_self" border="0" title="Sean Connery Kissing"><img src="http://www.gubug.com/thumbnails/Sean-Connery-Kissing.gif" alt="Sean Connery Kissing" width="123" height="123" border="1"></a></div></td>
+<td align="left" valign="top"><div class="thumb"><a href="http://www.gubug.com/puzzle-games/Tinker-Bell-Green-Leaves.html" target="_self" border="0" title="Tinker Bell Green Leaves"><img src="http://www.gubug.com/thumbnails/fgd_tinkerbellgreenleaves.png" alt="Tinker Bell Green Leaves" width="123" height="123" border="1"></a></div></td>
 
-<td align="left" valign="top"><div class="thumb"><a href="http://www.gubug.com/featured-selection-games/Redneck-Olympics.html" target="_self" border="0" title="Redneck Olympics"><img src="http://www.gubug.com/thumbnails/Redneck-Olympics.jpg" alt="Redneck Olympics" width="123" height="123" border="1"></a></div></td>
+<td align="left" valign="top"><div class="thumb"><a href="http://www.gubug.com/dress-up-games/Winx-Club-Girl-Dress-Up.html" target="_self" border="0" title="Winx Club Girl Dress Up"><img src="http://www.gubug.com/thumbnails/winx-club-girl-dress-up.jpg" alt="Winx Club Girl Dress Up" width="123" height="123" border="1"></a></div></td>
 </tr><tr>
-<td align="left" valign="top"><div class="thumb"><a href="http://www.gubug.com/adventure-games/Toffy-Cat.html" target="_self" border="0" title="Toffy Cat"><img src="http://www.gubug.com/thumbnails/toffy_cat_game.gif" alt="Toffy Cat" width="123" height="123" border="1"></a></div></td>
+<td align="left" valign="top"><div class="thumb"><a href="http://www.gubug.com/puzzle-games/Pinocchio-Find-the-Numbers.html" target="_self" border="0" title="Pinocchio Find the Numbers"><img src="http://www.gubug.com/thumbnails/fgd_pinocchio_find_the_numbers.png" alt="Pinocchio Find the Numbers" width="123" height="123" border="1"></a></div></td>
 
-<td align="left" valign="top"><div class="thumb"><a href="http://www.gubug.com/sonic-and-mario-games/Mario-Ghosthouse.html" target="_self" border="0" title="Mario Ghosthouse"><img src="http://www.gubug.com/thumbnails//gf-mario-ghosthouse-100x100.png" alt="Mario Ghosthouse" width="123" height="123" border="1"></a></div></td>
+<td align="left" valign="top"><div class="thumb"><a href="http://www.gubug.com/sport-games/Cheer-Captain-Launch.html" target="_self" border="0" title="Cheer Captain Launch"><img src="http://www.gubug.com/thumbnails/Cheer_Captain.gif" alt="Cheer Captain Launch" width="123" height="123" border="1"></a></div></td>
 
-<td align="left" valign="top"><div class="thumb"><a href="http://www.gubug.com/sonic-and-mario-games/Ultimate-Sonic.html" target="_self" border="0" title="Ultimate Sonic"><img src="http://www.gubug.com/thumbnails/ultimate-Sonic.gif" alt="Ultimate Sonic" width="123" height="123" border="1"></a></div></td>
+<td align="left" valign="top"><div class="thumb"><a href="http://www.gubug.com/kissing-games/Beach-Kiss.html" target="_self" border="0" title="Beach Kiss"><img src="http://www.gubug.com/thumbnails/fgd_beach_kiss.png" alt="Beach Kiss" width="123" height="123" border="1"></a></div></td>
 
-<td align="left" valign="top"><div class="thumb"><a href="http://www.gubug.com/sonic-and-mario-games/Gangster-Mario.html" target="_self" border="0" title="Gangster Mario"><img src="http://www.gubug.com/thumbnails/mario-gangster-bros-game.gif" alt="Gangster Mario" width="123" height="123" border="1"></a></div></td>
+<td align="left" valign="top"><div class="thumb"><a href="http://www.gubug.com/dress-up-games/The-Bratz-Style.html" target="_self" border="0" title="The Bratz Style"><img src="http://www.gubug.com/thumbnails/The-Bratz-Style.gif" alt="The Bratz Style" width="123" height="123" border="1"></a></div></td>
 
-<td align="left" valign="top"><div class="thumb"><a href="http://www.gubug.com/action-games/Wolverine-MRD-Escape.html" target="_self" border="0" title="Wolverine MRD Escape"><img src="http://www.gubug.com/thumbnails/Wolverine_Escape.gif" alt="Wolverine MRD Escape" width="123" height="123" border="1"></a></div></td>
+<td align="left" valign="top"><div class="thumb"><a href="http://www.gubug.com/arcade-games/Crazy-Broom.html" target="_self" border="0" title="Crazy Broom"><img src="http://www.gubug.com/thumbnails/fgd_crazy_broom.png" alt="Crazy Broom" width="123" height="123" border="1"></a></div></td>
         </tr>
       </tbody></table>
       <!-- end wideContentTable -->
@@ -329,7 +426,7 @@ Please review the following terms and conditions concerning the use of this webs
 <br><br>
 <h2>COPYRIGHT INFORMATION</h2>
 <br><br>
-Copyright � 2007-11 GUBUG.COM . All Rights Reserved.
+Copyright � 2007-12 GUBUG.COM . All Rights Reserved.
 <br><br>
 <h2>USE OF WEBSITE INFORMATION</h2>
 <br><br>
@@ -416,23 +513,11 @@ It is our policy to respond quickly to claims of intellectual property violation
        <div class="adSideCode">
        <!-- start adSideCode -->
 <div style="margin:0px;padding:0px;">
-    <script type="text/javascript"><!--
-google_ad_client = "pub-8261026098655866";
-google_ad_width = 160;
-google_ad_height = 600;
-google_ad_format = "160x600_as";
-google_ad_type = "image";
-//2007-03-19: GameSite
-google_ad_channel = "2761359269";
-google_color_border = "dc143c";
-google_color_bg = "dc143c";
-google_color_link = "ffff00";
-google_color_text = "ffffff";
-google_color_url = "ffff00";
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
+    <!-- ValueClick Media 160x600 WIDE SKYSCRAPER CODE for play fun free online web games -->
+<script language="javascript" src="http://media.fastclick.net/w/get.media?sid=48540&amp;tp=7&amp;d=j&amp;t=n"></script>
+<noscript><a href="http://media.fastclick.net/w/click.here?sid=48540&m=3&c=1" target="_blank">
+<img src="http://media.fastclick.net/w/get.media?sid=48540&tp=7&d=s&c=1" width=160 height=600 border=1></a></noscript>
+<!-- ValueClick Media 160x600 WIDE SKYSCRAPER CODE for play fun free online web games -->
 
     </div>       <!-- end adSideCode -->
        </div>
@@ -444,11 +529,11 @@ google_color_url = "ffff00";
        <div class="adSideCode">
        <!-- start adSideCode -->
 <div style="margin:0px;padding:0px;">
-    <!-- ValueClick Media 160x600 WIDE SKYSCRAPER CODE for play fun free online web games -->
-<script language="javascript" src="http://media.fastclick.net/w/get.media?sid=48540&amp;tp=7&amp;d=j&amp;t=n"></script>
-<noscript><a href="http://media.fastclick.net/w/click.here?sid=48540&m=3&c=1" target="_blank">
-<img src="http://media.fastclick.net/w/get.media?sid=48540&tp=7&d=s&c=1" width=160 height=600 border=1></a></noscript>
-<!-- ValueClick Media 160x600 WIDE SKYSCRAPER CODE for play fun free online web games -->
+    <script language="Javascript">
+var cpmstar_rnd=Math.round(Math.random()*999999);
+var cpmstar_pid=4686;
+document.writeln("<SCR"+"IPT language='Javascript' src='http://server.cpmstar.com/view.aspx?poolid="+cpmstar_pid+"&script=1&rnd="+cpmstar_rnd+"'></SCR"+"IPT>");
+</script><script language="Javascript" src="http://server.cpmstar.com/view.aspx?poolid=4686&amp;script=1&amp;rnd=922232"></script>
 
     </div>       <!-- end adSideCode -->
        </div>
@@ -468,13 +553,13 @@ google_color_url = "ffff00";
   <div class="memberSpotDesc">
   <!-- start memberSpotDesc -->
 <span>
-Recent Visitors</span>
+Top 20 Members</span>
   <!-- end memberSpotDesc -->
   </div>
   <div class="memberSpotTabM">
   <!-- start memberSpotTabM -->
 <span>
-Total Members<span style="clear:left;color:#ff0;font-family:arial;">4,469</span></span>
+Total Members<span style="clear:left;color:#ff0;font-family:arial;">4,613</span></span>
   <!-- end memberSpotTabM -->
   </div>
 
@@ -492,7 +577,55 @@ Guests Online<span style="clear:left;color:#eef;font-family:arial;">0</span></sp
   <div class="memberSpotTab">
   <!-- start memberSpotTab -->
     <div class="memberSpotTabPic">
-     <img id="mt_avpic1" src="http://www.gubug.com//avatar_gal/Avatars.CPR.512.jpg" alt="" border="0" width="63" height="63">
+     <img id="mt_avpic1" src="http://www.gubug.com//avatar_gal/Avatars.CPR.156.gif" alt="" border="0" width="63" height="63">
+    </div>
+    <div class="memberSpotTabIcons">
+    <a href="http://www.gubug.com/pm_router.php?task=compose&amp;uid=636" title="Send a Private Message to: yourmom" target="_self">
+    <img src="http://www.gubug.com//images/unread.gif" alt="0" border="0" width="16" height="16">
+    </a>
+    </div>
+   <div class="memberSpotTabName">
+    <a href="http://www.gubug.com/profile/636/yourmom.html" title="yourmom" target="_self">yourmom</a>
+   </div>
+  <!-- end memberSpotTab -->
+  </div>
+  
+  <div class="memberSpotTab">
+  <!-- start memberSpotTab -->
+    <div class="memberSpotTabPic">
+     <img id="mt_avpic2" src="http://www.gubug.com//avatar_gal/Avatars.CPR.027.jpg" alt="" border="0" width="63" height="63">
+    </div>
+    <div class="memberSpotTabIcons">
+    <a href="http://www.gubug.com/pm_router.php?task=compose&amp;uid=961" title="Send a Private Message to: tree" target="_self">
+    <img src="http://www.gubug.com//images/unread.gif" alt="0" border="0" width="16" height="16">
+    </a>
+    </div>
+   <div class="memberSpotTabName">
+    <a href="http://www.gubug.com/profile/961/tree.html" title="tree" target="_self">tree</a>
+   </div>
+  <!-- end memberSpotTab -->
+  </div>
+  
+  <div class="memberSpotTab">
+  <!-- start memberSpotTab -->
+    <div class="memberSpotTabPic">
+     <img id="mt_avpic3" src="http://www.gubug.com//avatar_gal/lionking_moving_nala_av_1.gif" alt="" border="0" width="63" height="63">
+    </div>
+    <div class="memberSpotTabIcons">
+    <a href="http://www.gubug.com/pm_router.php?task=compose&amp;uid=1135" title="Send a Private Message to: haha64" target="_self">
+    <img src="http://www.gubug.com//images/unread.gif" alt="0" border="0" width="16" height="16">
+    </a>
+    </div>
+   <div class="memberSpotTabName">
+    <a href="http://www.gubug.com/profile/1135/haha64.html" title="haha64" target="_self">haha64</a>
+   </div>
+  <!-- end memberSpotTab -->
+  </div>
+  
+  <div class="memberSpotTab">
+  <!-- start memberSpotTab -->
+    <div class="memberSpotTabPic">
+     <img id="mt_avpic4" src="http://www.gubug.com//avatar_gal/Avatars.CPR.512.jpg" alt="" border="0" width="63" height="63">
     </div>
     <div class="memberSpotTabIcons">
     <a href="http://www.gubug.com/pm_router.php?task=compose&amp;uid=3" title="Send a Private Message to: mrmario" target="_self">
@@ -508,63 +641,15 @@ Guests Online<span style="clear:left;color:#eef;font-family:arial;">0</span></sp
   <div class="memberSpotTab">
   <!-- start memberSpotTab -->
     <div class="memberSpotTabPic">
-     <img id="mt_avpic2" src="http://www.gubug.com//images/noavatar.gif" alt="" border="0" width="63" height="63">
-    </div>
-    <div class="memberSpotTabIcons">
-    <a href="http://www.gubug.com/pm_router.php?task=compose&amp;uid=4987" title="Send a Private Message to: vashishthp12" target="_self">
-    <img src="http://www.gubug.com//images/unread.gif" alt="0" border="0" width="16" height="16">
-    </a>
-    </div>
-   <div class="memberSpotTabName">
-    <a href="http://www.gubug.com/profile/4987/vashishthp12.html" title="vashishthp12" target="_self">vashishthp12</a>
-   </div>
-  <!-- end memberSpotTab -->
-  </div>
-  
-  <div class="memberSpotTab">
-  <!-- start memberSpotTab -->
-    <div class="memberSpotTabPic">
-     <img id="mt_avpic3" src="http://www.gubug.com//images/noavatar.gif" alt="" border="0" width="63" height="63">
-    </div>
-    <div class="memberSpotTabIcons">
-    <a href="http://www.gubug.com/pm_router.php?task=compose&amp;uid=4993" title="Send a Private Message to: kc pama" target="_self">
-    <img src="http://www.gubug.com//images/unread.gif" alt="0" border="0" width="16" height="16">
-    </a>
-    </div>
-   <div class="memberSpotTabName">
-    <a href="http://www.gubug.com/profile/4993/kc-pama.html" title="kc pama" target="_self">kc pama</a>
-   </div>
-  <!-- end memberSpotTab -->
-  </div>
-  
-  <div class="memberSpotTab">
-  <!-- start memberSpotTab -->
-    <div class="memberSpotTabPic">
-     <img id="mt_avpic4" src="http://www.gubug.com//images/noavatar.gif" alt="" border="0" width="63" height="63">
-    </div>
-    <div class="memberSpotTabIcons">
-    <a href="http://www.gubug.com/pm_router.php?task=compose&amp;uid=4995" title="Send a Private Message to: jong" target="_self">
-    <img src="http://www.gubug.com//images/unread.gif" alt="0" border="0" width="16" height="16">
-    </a>
-    </div>
-   <div class="memberSpotTabName">
-    <a href="http://www.gubug.com/profile/4995/jong.html" title="jong" target="_self">jong</a>
-   </div>
-  <!-- end memberSpotTab -->
-  </div>
-  
-  <div class="memberSpotTab">
-  <!-- start memberSpotTab -->
-    <div class="memberSpotTabPic">
      <img id="mt_avpic5" src="http://www.gubug.com//images/noavatar.gif" alt="" border="0" width="63" height="63">
     </div>
     <div class="memberSpotTabIcons">
-    <a href="http://www.gubug.com/pm_router.php?task=compose&amp;uid=4988" title="Send a Private Message to: kumar" target="_self">
+    <a href="http://www.gubug.com/pm_router.php?task=compose&amp;uid=539" title="Send a Private Message to: raider35" target="_self">
     <img src="http://www.gubug.com//images/unread.gif" alt="0" border="0" width="16" height="16">
     </a>
     </div>
    <div class="memberSpotTabName">
-    <a href="http://www.gubug.com/profile/4988/kumar.html" title="kumar" target="_self">kumar</a>
+    <a href="http://www.gubug.com/profile/539/raider35.html" title="raider35" target="_self">raider35</a>
    </div>
   <!-- end memberSpotTab -->
   </div>
@@ -575,12 +660,12 @@ Guests Online<span style="clear:left;color:#eef;font-family:arial;">0</span></sp
      <img id="mt_avpic6" src="http://www.gubug.com//images/noavatar.gif" alt="" border="0" width="63" height="63">
     </div>
     <div class="memberSpotTabIcons">
-    <a href="http://www.gubug.com/pm_router.php?task=compose&amp;uid=4990" title="Send a Private Message to: jann" target="_self">
+    <a href="http://www.gubug.com/pm_router.php?task=compose&amp;uid=1646" title="Send a Private Message to: douche123" target="_self">
     <img src="http://www.gubug.com//images/unread.gif" alt="0" border="0" width="16" height="16">
     </a>
     </div>
    <div class="memberSpotTabName">
-    <a href="http://www.gubug.com/profile/4990/jann.html" title="jann" target="_self">jann</a>
+    <a href="http://www.gubug.com/profile/1646/douche123.html" title="douche123" target="_self">douche123</a>
    </div>
   <!-- end memberSpotTab -->
   </div>
@@ -591,12 +676,12 @@ Guests Online<span style="clear:left;color:#eef;font-family:arial;">0</span></sp
      <img id="mt_avpic7" src="http://www.gubug.com//images/noavatar.gif" alt="" border="0" width="63" height="63">
     </div>
     <div class="memberSpotTabIcons">
-    <a href="http://www.gubug.com/pm_router.php?task=compose&amp;uid=4994" title="Send a Private Message to: spopkiller" target="_self">
+    <a href="http://www.gubug.com/pm_router.php?task=compose&amp;uid=1733" title="Send a Private Message to: jballs" target="_self">
     <img src="http://www.gubug.com//images/unread.gif" alt="0" border="0" width="16" height="16">
     </a>
     </div>
    <div class="memberSpotTabName">
-    <a href="http://www.gubug.com/profile/4994/spopkiller.html" title="spopkiller" target="_self">spopkiller</a>
+    <a href="http://www.gubug.com/profile/1733/jballs.html" title="jballs" target="_self">jballs</a>
    </div>
   <!-- end memberSpotTab -->
   </div>
@@ -607,12 +692,12 @@ Guests Online<span style="clear:left;color:#eef;font-family:arial;">0</span></sp
      <img id="mt_avpic8" src="http://www.gubug.com//images/noavatar.gif" alt="" border="0" width="63" height="63">
     </div>
     <div class="memberSpotTabIcons">
-    <a href="http://www.gubug.com/pm_router.php?task=compose&amp;uid=4997" title="Send a Private Message to: giano_pogi" target="_self">
+    <a href="http://www.gubug.com/pm_router.php?task=compose&amp;uid=437" title="Send a Private Message to: colt45" target="_self">
     <img src="http://www.gubug.com//images/unread.gif" alt="0" border="0" width="16" height="16">
     </a>
     </div>
    <div class="memberSpotTabName">
-    <a href="http://www.gubug.com/profile/4997/giano-pogi.html" title="giano_pogi" target="_self">giano_pogi</a>
+    <a href="http://www.gubug.com/profile/437/colt45.html" title="colt45" target="_self">colt45</a>
    </div>
   <!-- end memberSpotTab -->
   </div>
@@ -620,15 +705,15 @@ Guests Online<span style="clear:left;color:#eef;font-family:arial;">0</span></sp
   <div class="memberSpotTab">
   <!-- start memberSpotTab -->
     <div class="memberSpotTabPic">
-     <img id="mt_avpic9" src="http://www.gubug.com//avatar_gal/Avatars.CPR.126.jpg" alt="" border="0" width="63" height="63">
+     <img id="mt_avpic9" src="http://www.gubug.com//images/noavatar.gif" alt="" border="0" width="63" height="63">
     </div>
     <div class="memberSpotTabIcons">
-    <a href="http://www.gubug.com/pm_router.php?task=compose&amp;uid=3175" title="Send a Private Message to: harleynana00" target="_self">
+    <a href="http://www.gubug.com/pm_router.php?task=compose&amp;uid=1173" title="Send a Private Message to: bigsea" target="_self">
     <img src="http://www.gubug.com//images/unread.gif" alt="0" border="0" width="16" height="16">
     </a>
     </div>
    <div class="memberSpotTabName">
-    <a href="http://www.gubug.com/profile/3175/harleynana00.html" title="harleynana00" target="_self">harleynana00</a>
+    <a href="http://www.gubug.com/profile/1173/bigsea.html" title="bigsea" target="_self">bigsea</a>
    </div>
   <!-- end memberSpotTab -->
   </div>
@@ -636,15 +721,15 @@ Guests Online<span style="clear:left;color:#eef;font-family:arial;">0</span></sp
   <div class="memberSpotTab">
   <!-- start memberSpotTab -->
     <div class="memberSpotTabPic">
-     <img id="mt_avpic10" src="http://www.gubug.com//avatar_gal/little_mermaid_av_3.jpg" alt="" border="0" width="63" height="63">
+     <img id="mt_avpic10" src="http://www.gubug.com//images/noavatar.gif" alt="" border="0" width="63" height="63">
     </div>
     <div class="memberSpotTabIcons">
-    <a href="http://www.gubug.com/pm_router.php?task=compose&amp;uid=2999" title="Send a Private Message to: jazzlyn" target="_self">
+    <a href="http://www.gubug.com/pm_router.php?task=compose&amp;uid=1674" title="Send a Private Message to: etnandi" target="_self">
     <img src="http://www.gubug.com//images/unread.gif" alt="0" border="0" width="16" height="16">
     </a>
     </div>
    <div class="memberSpotTabName">
-    <a href="http://www.gubug.com/profile/2999/jazzlyn.html" title="jazzlyn" target="_self">jazzlyn</a>
+    <a href="http://www.gubug.com/profile/1674/etnandi.html" title="etnandi" target="_self">etnandi</a>
    </div>
   <!-- end memberSpotTab -->
   </div>
@@ -652,15 +737,15 @@ Guests Online<span style="clear:left;color:#eef;font-family:arial;">0</span></sp
   <div class="memberSpotTab">
   <!-- start memberSpotTab -->
     <div class="memberSpotTabPic">
-     <img id="mt_avpic11" src="http://www.gubug.com//avatar_gal/cute_anime_girl_av_1.gif" alt="" border="0" width="63" height="63">
+     <img id="mt_avpic11" src="http://www.gubug.com//images/noavatar.gif" alt="" border="0" width="63" height="63">
     </div>
     <div class="memberSpotTabIcons">
-    <a href="http://www.gubug.com/pm_router.php?task=compose&amp;uid=2174" title="Send a Private Message to: Ciara Prince Harris" target="_self">
+    <a href="http://www.gubug.com/pm_router.php?task=compose&amp;uid=542" title="Send a Private Message to: skatina101" target="_self">
     <img src="http://www.gubug.com//images/unread.gif" alt="0" border="0" width="16" height="16">
     </a>
     </div>
    <div class="memberSpotTabName">
-    <a href="http://www.gubug.com/profile/2174/Ciara-Prince-Harris.html" title="Ciara Prince Harris" target="_self">Ciara Prince Harris</a>
+    <a href="http://www.gubug.com/profile/542/skatina101.html" title="skatina101" target="_self">skatina101</a>
    </div>
   <!-- end memberSpotTab -->
   </div>
@@ -668,15 +753,15 @@ Guests Online<span style="clear:left;color:#eef;font-family:arial;">0</span></sp
   <div class="memberSpotTab">
   <!-- start memberSpotTab -->
     <div class="memberSpotTabPic">
-     <img id="mt_avpic12" src="http://www.gubug.com//avatar_gal/Avatars.CPR.254.gif" alt="" border="0" width="63" height="63">
+     <img id="mt_avpic12" src="http://www.gubug.com//images/noavatar.gif" alt="" border="0" width="63" height="63">
     </div>
     <div class="memberSpotTabIcons">
-    <a href="http://www.gubug.com/pm_router.php?task=compose&amp;uid=2653" title="Send a Private Message to: ddawg524" target="_self">
+    <a href="http://www.gubug.com/pm_router.php?task=compose&amp;uid=1109" title="Send a Private Message to: mathsucks93" target="_self">
     <img src="http://www.gubug.com//images/unread.gif" alt="0" border="0" width="16" height="16">
     </a>
     </div>
    <div class="memberSpotTabName">
-    <a href="http://www.gubug.com/profile/2653/ddawg524.html" title="ddawg524" target="_self">ddawg524</a>
+    <a href="http://www.gubug.com/profile/1109/mathsucks93.html" title="mathsucks93" target="_self">mathsucks93</a>
    </div>
   <!-- end memberSpotTab -->
   </div>
@@ -684,15 +769,15 @@ Guests Online<span style="clear:left;color:#eef;font-family:arial;">0</span></sp
   <div class="memberSpotTab">
   <!-- start memberSpotTab -->
     <div class="memberSpotTabPic">
-     <img id="mt_avpic13" src="http://www.gubug.com//avatar_gal/bug_eyes_av.jpg" alt="" border="0" width="63" height="63">
+     <img id="mt_avpic13" src="http://www.gubug.com//images/noavatar.gif" alt="" border="0" width="63" height="63">
     </div>
     <div class="memberSpotTabIcons">
-    <a href="http://www.gubug.com/pm_router.php?task=compose&amp;uid=3134" title="Send a Private Message to: ITZME" target="_self">
+    <a href="http://www.gubug.com/pm_router.php?task=compose&amp;uid=1649" title="Send a Private Message to: gt76" target="_self">
     <img src="http://www.gubug.com//images/unread.gif" alt="0" border="0" width="16" height="16">
     </a>
     </div>
    <div class="memberSpotTabName">
-    <a href="http://www.gubug.com/profile/3134/ITZME.html" title="ITZME" target="_self">ITZME</a>
+    <a href="http://www.gubug.com/profile/1649/gt76.html" title="gt76" target="_self">gt76</a>
    </div>
   <!-- end memberSpotTab -->
   </div>
@@ -700,15 +785,15 @@ Guests Online<span style="clear:left;color:#eef;font-family:arial;">0</span></sp
   <div class="memberSpotTab">
   <!-- start memberSpotTab -->
     <div class="memberSpotTabPic">
-     <img id="mt_avpic14" src="http://www.gubug.com//avatar_gal/Avatars.CPR.207.jpg" alt="" border="0" width="63" height="63">
+     <img id="mt_avpic14" src="http://www.gubug.com//avatar_gal/Avatars.CPR.272.jpg" alt="" border="0" width="63" height="63">
     </div>
     <div class="memberSpotTabIcons">
-    <a href="http://www.gubug.com/pm_router.php?task=compose&amp;uid=1196" title="Send a Private Message to: nico" target="_self">
+    <a href="http://www.gubug.com/pm_router.php?task=compose&amp;uid=171" title="Send a Private Message to: salrmehk999" target="_self">
     <img src="http://www.gubug.com//images/unread.gif" alt="0" border="0" width="16" height="16">
     </a>
     </div>
    <div class="memberSpotTabName">
-    <a href="http://www.gubug.com/profile/1196/nico.html" title="nico" target="_self">nico</a>
+    <a href="http://www.gubug.com/profile/171/salrmehk999.html" title="salrmehk999" target="_self">salrmehk999</a>
    </div>
   <!-- end memberSpotTab -->
   </div>
@@ -716,15 +801,15 @@ Guests Online<span style="clear:left;color:#eef;font-family:arial;">0</span></sp
   <div class="memberSpotTab">
   <!-- start memberSpotTab -->
     <div class="memberSpotTabPic">
-     <img id="mt_avpic15" src="http://www.gubug.com//avatar_gal/anime_sg_av_01.jpg" alt="" border="0" width="63" height="63">
+     <img id="mt_avpic15" src="http://www.gubug.com//images/noavatar.gif" alt="" border="0" width="63" height="63">
     </div>
     <div class="memberSpotTabIcons">
-    <a href="http://www.gubug.com/pm_router.php?task=compose&amp;uid=4918" title="Send a Private Message to: DIYA Pink Star" target="_self">
+    <a href="http://www.gubug.com/pm_router.php?task=compose&amp;uid=704" title="Send a Private Message to: ambrother" target="_self">
     <img src="http://www.gubug.com//images/unread.gif" alt="0" border="0" width="16" height="16">
     </a>
     </div>
    <div class="memberSpotTabName">
-    <a href="http://www.gubug.com/profile/4918/DIYA-Pink-Star.html" title="DIYA Pink Star" target="_self">DIYA Pink Star</a>
+    <a href="http://www.gubug.com/profile/704/ambrother.html" title="ambrother" target="_self">ambrother</a>
    </div>
   <!-- end memberSpotTab -->
   </div>
@@ -732,7 +817,71 @@ Guests Online<span style="clear:left;color:#eef;font-family:arial;">0</span></sp
   <div class="memberSpotTab">
   <!-- start memberSpotTab -->
     <div class="memberSpotTabPic">
-     <img id="mt_avpic16" src="http://www.gubug.com//avatar_gal/tazz_spin.gif" alt="" border="0" width="63" height="63">
+     <img id="mt_avpic16" src="http://www.gubug.com//images/noavatar.gif" alt="" border="0" width="63" height="63">
+    </div>
+    <div class="memberSpotTabIcons">
+    <a href="http://www.gubug.com/pm_router.php?task=compose&amp;uid=1143" title="Send a Private Message to: dollar06" target="_self">
+    <img src="http://www.gubug.com//images/unread.gif" alt="0" border="0" width="16" height="16">
+    </a>
+    </div>
+   <div class="memberSpotTabName">
+    <a href="http://www.gubug.com/profile/1143/dollar06.html" title="dollar06" target="_self">dollar06</a>
+   </div>
+  <!-- end memberSpotTab -->
+  </div>
+  
+  <div class="memberSpotTab">
+  <!-- start memberSpotTab -->
+    <div class="memberSpotTabPic">
+     <img id="mt_avpic17" src="http://www.gubug.com//images/noavatar.gif" alt="" border="0" width="63" height="63">
+    </div>
+    <div class="memberSpotTabIcons">
+    <a href="http://www.gubug.com/pm_router.php?task=compose&amp;uid=630" title="Send a Private Message to: rayt" target="_self">
+    <img src="http://www.gubug.com//images/unread.gif" alt="0" border="0" width="16" height="16">
+    </a>
+    </div>
+   <div class="memberSpotTabName">
+    <a href="http://www.gubug.com/profile/630/rayt.html" title="rayt" target="_self">rayt</a>
+   </div>
+  <!-- end memberSpotTab -->
+  </div>
+  
+  <div class="memberSpotTab">
+  <!-- start memberSpotTab -->
+    <div class="memberSpotTabPic">
+     <img id="mt_avpic18" src="http://www.gubug.com//images/noavatar.gif" alt="" border="0" width="63" height="63">
+    </div>
+    <div class="memberSpotTabIcons">
+    <a href="http://www.gubug.com/pm_router.php?task=compose&amp;uid=519" title="Send a Private Message to: divyapravin" target="_self">
+    <img src="http://www.gubug.com//images/unread.gif" alt="0" border="0" width="16" height="16">
+    </a>
+    </div>
+   <div class="memberSpotTabName">
+    <a href="http://www.gubug.com/profile/519/divyapravin.html" title="divyapravin" target="_self">divyapravin</a>
+   </div>
+  <!-- end memberSpotTab -->
+  </div>
+  
+  <div class="memberSpotTab">
+  <!-- start memberSpotTab -->
+    <div class="memberSpotTabPic">
+     <img id="mt_avpic19" src="http://www.gubug.com//images/noavatar.gif" alt="" border="0" width="63" height="63">
+    </div>
+    <div class="memberSpotTabIcons">
+    <a href="http://www.gubug.com/pm_router.php?task=compose&amp;uid=1727" title="Send a Private Message to: roanman60" target="_self">
+    <img src="http://www.gubug.com//images/unread.gif" alt="0" border="0" width="16" height="16">
+    </a>
+    </div>
+   <div class="memberSpotTabName">
+    <a href="http://www.gubug.com/profile/1727/roanman60.html" title="roanman60" target="_self">roanman60</a>
+   </div>
+  <!-- end memberSpotTab -->
+  </div>
+  
+  <div class="memberSpotTab">
+  <!-- start memberSpotTab -->
+    <div class="memberSpotTabPic">
+     <img id="mt_avpic20" src="http://www.gubug.com//avatar_gal/tazz_spin.gif" alt="" border="0" width="63" height="63">
     </div>
     <div class="memberSpotTabIcons">
     <a href="http://www.gubug.com/pm_router.php?task=compose&amp;uid=2" title="Send a Private Message to: digitali16" target="_self">
@@ -741,70 +890,6 @@ Guests Online<span style="clear:left;color:#eef;font-family:arial;">0</span></sp
     </div>
    <div class="memberSpotTabName">
     <a href="http://www.gubug.com/profile/2/digitali16.html" title="digitali16" target="_self">digitali16</a>
-   </div>
-  <!-- end memberSpotTab -->
-  </div>
-  
-  <div class="memberSpotTab">
-  <!-- start memberSpotTab -->
-    <div class="memberSpotTabPic">
-     <img id="mt_avpic17" src="http://www.gubug.com//avatar_gal/Avatars.CPR.073.jpg" alt="" border="0" width="63" height="63">
-    </div>
-    <div class="memberSpotTabIcons">
-    <a href="http://www.gubug.com/pm_router.php?task=compose&amp;uid=1412" title="Send a Private Message to: DPLynch09" target="_self">
-    <img src="http://www.gubug.com//images/unread.gif" alt="0" border="0" width="16" height="16">
-    </a>
-    </div>
-   <div class="memberSpotTabName">
-    <a href="http://www.gubug.com/profile/1412/DPLynch09.html" title="DPLynch09" target="_self">DPLynch09</a>
-   </div>
-  <!-- end memberSpotTab -->
-  </div>
-  
-  <div class="memberSpotTab">
-  <!-- start memberSpotTab -->
-    <div class="memberSpotTabPic">
-     <img id="mt_avpic18" src="http://www.gubug.com//avatar_gal/Avatars.CPR.093.gif" alt="" border="0" width="63" height="63">
-    </div>
-    <div class="memberSpotTabIcons">
-    <a href="http://www.gubug.com/pm_router.php?task=compose&amp;uid=1065" title="Send a Private Message to: booby" target="_self">
-    <img src="http://www.gubug.com//images/unread.gif" alt="0" border="0" width="16" height="16">
-    </a>
-    </div>
-   <div class="memberSpotTabName">
-    <a href="http://www.gubug.com/profile/1065/booby.html" title="booby" target="_self">booby</a>
-   </div>
-  <!-- end memberSpotTab -->
-  </div>
-  
-  <div class="memberSpotTab">
-  <!-- start memberSpotTab -->
-    <div class="memberSpotTabPic">
-     <img id="mt_avpic19" src="http://www.gubug.com//avatar_gal/Avatars.CPR.403.jpg" alt="" border="0" width="63" height="63">
-    </div>
-    <div class="memberSpotTabIcons">
-    <a href="http://www.gubug.com/pm_router.php?task=compose&amp;uid=2277" title="Send a Private Message to: adhu aditya" target="_self">
-    <img src="http://www.gubug.com//images/unread.gif" alt="0" border="0" width="16" height="16">
-    </a>
-    </div>
-   <div class="memberSpotTabName">
-    <a href="http://www.gubug.com/profile/2277/adhu-aditya.html" title="adhu aditya" target="_self">adhu aditya</a>
-   </div>
-  <!-- end memberSpotTab -->
-  </div>
-  
-  <div class="memberSpotTab">
-  <!-- start memberSpotTab -->
-    <div class="memberSpotTabPic">
-     <img id="mt_avpic20" src="http://www.gubug.com//avatar_gal/Avatars.CPR.129.jpg" alt="" border="0" width="63" height="63">
-    </div>
-    <div class="memberSpotTabIcons">
-    <a href="http://www.gubug.com/pm_router.php?task=compose&amp;uid=2519" title="Send a Private Message to: EllieMuir" target="_self">
-    <img src="http://www.gubug.com//images/unread.gif" alt="0" border="0" width="16" height="16">
-    </a>
-    </div>
-   <div class="memberSpotTabName">
-    <a href="http://www.gubug.com/profile/2519/EllieMuir.html" title="EllieMuir" target="_self">EllieMuir</a>
    </div>
   <!-- end memberSpotTab -->
   </div>
@@ -838,31 +923,29 @@ Powered by <a target="_blank" href="http://www.scriptbliss.com">ScriptBliss Supe
 
 <ul>
 <!-- list item, text link -->
-<li style="display:inline;"><a href="http://www.addictinggames.com" target="_blank">Fun Online Games</a> | </li><li style="display:inline;"><a href="http://www.playhub.com" target="_blank">Free Games</a> | </li><li style="display:inline;"><a href="http://www.arcades247.com" target="_blank">Free Online Games</a> | </li><li style="display:inline;"><a href="http://www.onlinearcadespot.com" target="_blank">Online Arcade Games</a> | </li><li style="display:inline;"><a href="http://www.sonicmariogames.info" target="_blank">Sonic And Mario Games</a> | </li>
-<li style="display:inline;"><a href="http://www.flashgameplay.com" target="_blank">Play Flash Games</a> | </li>
-<li style="display:inline;"><a href="http://www.turbowebhost.com/secure-password-generator.html" target="_blank">Secure Password Generator</a> | </li><li style="display:inline;"><a href="http://www.pinkyarcade.com" target="_blank">Play Games Win Prizes</a> | </li><li style="display:inline;"><a href="http://www.woochoochinchilla.com" target="_blank">Free Games to Play</a>  | 
-</li><li style="display:inline;"><a href="http://www.my-arcade-games.com" target="_blank">Arcade Games </a> | </li><li style="display:inline;"><a href="http://www.arcade-mania.net" target="_blank">Play driving games</a> | </li><li style="display:inline;"><a href="http://www.poparcade.net" target="_blank">PopArcade</a> </li> | 
-<li style="display:inline;"><a href="http://www.my-online-games.net" target="_blank">my-online-games.net</a> | </li><li style="display:inline;"><a href="http://www.gamehopper.net" target="_blank">Play Online Games</a>
-</li></ul>
+<li style="display:inline;"><a href="http://www.mariogames1.com" target="_blank">Mario Games</a> |</li><li style="display:inline;"><a href="http://www.fenscape.org/free-car-games-online.htm" target="_blank">Free Car Games Online </a> | </li><li style="display:inline;"><a href="http://www.onlinearcadespot.com" target="_blank">Online Arcade Games</a> |  </li><li style="display:inline;"><a href="http://www.defencetowergames.com" target="_blank">Tower Defense Games</a> | </li><li style="display:inline;"><a href="http://www.sonicmariogames.info" target="_blank">Sonic And Mario Games</a> | </li>
+<li style="display:inline;"><a href="http://www.playspidermangames.org&#10;" target="_blank">Play Spiderman Games</a></li> |
+ <li style="display:inline;"><a href="http://www.turbowebhost.com/secure-password-generator.html" target="_blank">Secure Password Generator</a> | </li><li style="display:inline;"><a href="http://www.pinkyarcade.com" target="_blank">Play Games Win Prizes</a> | </li><li style="display:inline;"><a href="http://www.woochoochinchilla.com" target="_blank">Free Games to Play</a>  | 
+</li><li style="display:inline;"><a href="http://www.my-arcade-games.com" target="_blank">Arcade Games </a> | </li><li style="display:inline;"><a href="http://www.arcade-mania.net" target="_blank">Play driving games</a> | </li><li style="display:inline;"><a href="http://www.my-online-games.net" target="_blank">my-online-games.net</a> | </li><li style="display:inline;"><a href="http://www.freeonlinewargames.org" target="_blank">War Games</a></li>|<li style="display:inline;"><a href="http://www.freedragonballzgames.net&#10;" target="_blank">Free Dragon Ball Z Games</a></li> | <li style="display:inline;"><a href="http://www.supergamesfree.com" target="_blank">Super Games Free</a></li>
 <br>
-</div>
+</ul></div>
 
 
   <script language="javascript" defer="">
   var mt_avpic1=document.getElementById('mt_avpic1');
-  mt_avpic1.src="http://www.gubug.com//avatar_gal/Avatars.CPR.512.jpg";
+  mt_avpic1.src="http://www.gubug.com//avatar_gal/Avatars.CPR.156.gif";
   </script>
   <script language="javascript" defer="">
   var mt_avpic2=document.getElementById('mt_avpic2');
-  mt_avpic2.src="http://www.gubug.com//images/noavatar.gif";
+  mt_avpic2.src="http://www.gubug.com//avatar_gal/Avatars.CPR.027.jpg";
   </script>
   <script language="javascript" defer="">
   var mt_avpic3=document.getElementById('mt_avpic3');
-  mt_avpic3.src="http://www.gubug.com//images/noavatar.gif";
+  mt_avpic3.src="http://www.gubug.com//avatar_gal/lionking_moving_nala_av_1.gif";
   </script>
   <script language="javascript" defer="">
   var mt_avpic4=document.getElementById('mt_avpic4');
-  mt_avpic4.src="http://www.gubug.com//images/noavatar.gif";
+  mt_avpic4.src="http://www.gubug.com//avatar_gal/Avatars.CPR.512.jpg";
   </script>
   <script language="javascript" defer="">
   var mt_avpic5=document.getElementById('mt_avpic5');
@@ -882,53 +965,151 @@ Powered by <a target="_blank" href="http://www.scriptbliss.com">ScriptBliss Supe
   </script>
   <script language="javascript" defer="">
   var mt_avpic9=document.getElementById('mt_avpic9');
-  mt_avpic9.src="http://www.gubug.com//avatar_gal/Avatars.CPR.126.jpg";
+  mt_avpic9.src="http://www.gubug.com//images/noavatar.gif";
   </script>
   <script language="javascript" defer="">
   var mt_avpic10=document.getElementById('mt_avpic10');
-  mt_avpic10.src="http://www.gubug.com//avatar_gal/little_mermaid_av_3.jpg";
+  mt_avpic10.src="http://www.gubug.com//images/noavatar.gif";
   </script>
   <script language="javascript" defer="">
   var mt_avpic11=document.getElementById('mt_avpic11');
-  mt_avpic11.src="http://www.gubug.com//avatar_gal/cute_anime_girl_av_1.gif";
+  mt_avpic11.src="http://www.gubug.com//images/noavatar.gif";
   </script>
   <script language="javascript" defer="">
   var mt_avpic12=document.getElementById('mt_avpic12');
-  mt_avpic12.src="http://www.gubug.com//avatar_gal/Avatars.CPR.254.gif";
+  mt_avpic12.src="http://www.gubug.com//images/noavatar.gif";
   </script>
   <script language="javascript" defer="">
   var mt_avpic13=document.getElementById('mt_avpic13');
-  mt_avpic13.src="http://www.gubug.com//avatar_gal/bug_eyes_av.jpg";
+  mt_avpic13.src="http://www.gubug.com//images/noavatar.gif";
   </script>
   <script language="javascript" defer="">
   var mt_avpic14=document.getElementById('mt_avpic14');
-  mt_avpic14.src="http://www.gubug.com//avatar_gal/Avatars.CPR.207.jpg";
+  mt_avpic14.src="http://www.gubug.com//avatar_gal/Avatars.CPR.272.jpg";
   </script>
   <script language="javascript" defer="">
   var mt_avpic15=document.getElementById('mt_avpic15');
-  mt_avpic15.src="http://www.gubug.com//avatar_gal/anime_sg_av_01.jpg";
+  mt_avpic15.src="http://www.gubug.com//images/noavatar.gif";
   </script>
   <script language="javascript" defer="">
   var mt_avpic16=document.getElementById('mt_avpic16');
-  mt_avpic16.src="http://www.gubug.com//avatar_gal/tazz_spin.gif";
+  mt_avpic16.src="http://www.gubug.com//images/noavatar.gif";
   </script>
   <script language="javascript" defer="">
   var mt_avpic17=document.getElementById('mt_avpic17');
-  mt_avpic17.src="http://www.gubug.com//avatar_gal/Avatars.CPR.073.jpg";
+  mt_avpic17.src="http://www.gubug.com//images/noavatar.gif";
   </script>
   <script language="javascript" defer="">
   var mt_avpic18=document.getElementById('mt_avpic18');
-  mt_avpic18.src="http://www.gubug.com//avatar_gal/Avatars.CPR.093.gif";
+  mt_avpic18.src="http://www.gubug.com//images/noavatar.gif";
   </script>
   <script language="javascript" defer="">
   var mt_avpic19=document.getElementById('mt_avpic19');
-  mt_avpic19.src="http://www.gubug.com//avatar_gal/Avatars.CPR.403.jpg";
+  mt_avpic19.src="http://www.gubug.com//images/noavatar.gif";
   </script>
   <script language="javascript" defer="">
   var mt_avpic20=document.getElementById('mt_avpic20');
-  mt_avpic20.src="http://www.gubug.com//avatar_gal/Avatars.CPR.129.jpg";
+  mt_avpic20.src="http://www.gubug.com//avatar_gal/tazz_spin.gif";
   </script>
 <!-- Analytics Code -->
+<!-- Begin TranslateThis Button -->
+<style>
+#translate-this
+{
+position:absolute;
+top:0px;
+left:330px;
+}
+</style>
+<div id="translate-this"><a style="width:180px;height:18px;display:block;" class="translate-this-button" href="http://www.translatecompany.com/">Translate Company</a></div>
+
+<script type="text/javascript" src="http://x.translateth.is/translate-this.js"></script>
+<script type="text/javascript">
+TranslateThis();
+</script>
+
+<!-- End TranslateThis Button -->
+
+<script type="text/javascript">
+ 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4391476-3']);
+  _gaq.push(['_trackPageview']);
+ 
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+ 
+</script>
+
+<iframe style="display:none;" src="http://www.kickassracinggames.com/beenThere.php?id=2"></iframe>
+<iframe style="display:none;" src="http://www.gubug.com/beenThere.php?id=4"></iframe>
+<iframe style="display:none;" src="http://www.playmotorbikegames.biz/beenThere.php?id=4"></iframe>
+<iframe style="display:none;" src="http://www.playsonicgamesfree.info/beenThere.php?id=4"></iframe>
+<!--
+<iframe style="display:none;" src="http://www.sonicmariogames.info/beenThere.php?id=66"></iframe> -->
+
+<!-- float ad c -->
+<script language="javascript">
+<!--
+  if(js_is_index_page == false)
+  {
+function sbas_float_ad_cap(name, value, expires, path, domain, secure)
+{
+        var today = new Date();
+        today.setTime(today.getTime());
+
+        if (expires)
+        expires = expires * 1000 * 60; // expires offset in mins
+
+        var expires_date = new Date(today.getTime() + expires);
+
+        //--> write cookie
+        document.cookie = name + "=" + escape(value) +
+        ((expires) ? ";expires=" + expires_date.toGMTString() : "") + 
+        ((path) ? ";path=" + path : "" ) + 
+        ((domain) ? ";domain=" + domain : "" ) +
+        ((secure) ? ";secure" : "" );
+}
+
+var sbas_freq_cap = 5; // Frequency cap in minutes
+// Used to verify that we can set cookies
+//
+document.cookie = 'gu=bug; path=/;';
+// Get the current window size to ensure we can view our ad
+//
+var sbas_window_wt = 0;
+var sbas_window_ht = 0;
+if (window.innerWidth && window.innerHeight) {
+        sbas_window_wt = window.innerWidth;
+        sbas_window_ht = window.innerHeight;
+}
+else if (document.documentElement.clientWidth > 0 && document.documentElement.clientHeight > 0) {
+        sbas_window_wt = document.documentElement.clientWidth;
+        sbas_window_ht = document.documentElement.clientHeight;
+}
+else {
+        sbas_window_wt = document.body.clientWidth;
+        sbas_window_ht = document.body.clientHeight;
+
+if (sbas_window_ht > 1024) {
+        sbas_window_ht = 1024;
+}
+}
+
+if (document.cookie.indexOf('me=i') <= 0 && document.cookie.indexOf('u=bug') > 0 && document.cookie.indexOf('sbascap=1') <= 0) {
+sbas_float_ad_cap('sbascap', '1', sbas_freq_cap, '/', null, null);
+        document.write('<scr'+'ipt language="javascript" src="http://www.hotgamesbox.com/sba_ad_server.php?');
+        document.write('js=1&at=SBAS_FLOATCYCLE');
+        document.write('&wnd_wt=' + sbas_window_wt + '&wnd_ht=' + sbas_window_ht + '"></scr'+'ipt>');
+}
+  } // end if, index page check
+// -->
+</script><script language="javascript" src="http://www.hotgamesbox.com/sba_ad_server.php?js=1&amp;at=SBAS_FLOATCYCLE&amp;wnd_wt=1366&amp;wnd_ht=768"></script>
+<!-- end float ad c -->
+
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -1000,7 +1181,7 @@ if (document.cookie.indexOf('me=i') <= 0 && document.cookie.indexOf('u=bug') > 0
 }
   } // end if, index page check
 // -->
-</script><script language="javascript" src="http://www.gubug.com/sba_ad_server.php?js=1&amp;at=SBAS_FLOATCYCLE&amp;wnd_wt=1366&amp;wnd_ht=768"></script>
+</script>
 <!-- end float ad c -->  <!-- end footerContent div -->
   </div>
 
