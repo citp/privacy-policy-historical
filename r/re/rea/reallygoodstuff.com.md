@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reallygoodstuff.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108175647id_/http%3A//www.reallygoodstuff.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reallygoodstuff.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521201553id_/http%3A//www.reallygoodstuff.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
 
 # Privacy and Security Customer Service
 
@@ -8,11 +8,11 @@ Untitled Document
 
 **What goes on at Really Good Stuff stays at Really Good Stuff.**
 
-As a teaching professional, you know how important it is to keep your students’ ongoing work and personal development confidential. We feel the same way about your relationship with us. What you order, your method of payment and shipping/contact information are completely private. In fact, if you look at the bottom of the home page of our website, you will see a Verisign logo. This is a company we’ve hired to protect your private information. Technically, we use what is called the Secure Socket Layer Protocol to ensure that all of your transactions on our web sites are extremely safe. That means when you place an order online, the information is encrypted to ensure confidentiality. 
+As a teaching professional, you know how important it is to keep your students’ ongoing work and personal development confidential. We feel the same way about your relationship with us. What you order, your method of payment and shipping/contact information are completely private. In fact, if you look at the bottom of the home page of our website, you will see a Verisign logo. This is a company we've hired to protect your private information. Technically, we use what is called the Secure Socket Layer Protocol to ensure that all of your transactions on our web sites are extremely safe. That means when you place an order online, the information is encrypted to ensure confidentiality. 
 
 **Forget an apple for the teacher. We use cookies.**
 
-Most web sites use what is known as a 'cookie', which is a small data file that resides on the hard drive of your computer.) It maintains information that you have given us, such as orders, shipping and credit card details from your prior visits to our site. Here’s how we do use this information: 
+Most web sites use what is known as a 'cookie', which is a small data file that resides on the hard drive of your computer. It maintains information that you have given us, such as orders, shipping and credit card details from your prior visits to our site. We use this information: 
 
   * To identify you when you revisit our site and eliminate the need for you to reenter this information when you place another order. 
   * To keep track of your shopping cart information. 
