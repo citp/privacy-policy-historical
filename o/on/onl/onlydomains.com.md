@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the onlydomains.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007225229id_/http%3A//www.onlydomains.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlydomains.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521204105id_/http%3A//www.onlydomains.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Only Domains - Global Domain Name Registrar
-
-**Introduction**
 
   * This Privacy Policy applies to all personal information collected by **Only Domains Limited - Company Number 2252807**. Covered in this policy, we explain how and why we collect your personal information, how we use it, and what controls you have over our use of it.
   * Only Domains Limited is committed to complying with Commonwealth legislation governing privacy of personal information by businesses and to protecting and safeguarding your privacy when you deal with us. Collection of Information.
@@ -28,13 +26,13 @@
 
 
 
-**Web site links**
+## Web site links
 
   * Our web site may contain links to third party web sites who may collect personal information about you. We are not responsible for the privacy practices of other businesses or the content of web sites that are linked to our web site. Only Domains Limited encourages users to be aware when they leave the site and to read the privacy statements of each and every web site that collects personally identifiable information.
 
 
 
-**Security and Storage**
+## Security and Storage
 
   * Only Domains Limited places a great importance on the security of all information associated with our customers, clients and contractors. We have security measures in place to attempt to protect against the loss, misuse and alteration of personal information under our control.
   * Personal information is de-identified or destroyed securely when no longer required by us.
@@ -44,7 +42,7 @@
 
 
 
-**WHOIS Policy**
+## WHOIS Policy
 
 The public WHOIS service is a standard feature of domain name systems around the world. The purpose of the WHOIS service is to allow users to query a domain name to find out the identity and contact details of the registrant. The WHOIS service is provided by the registry via a web-based tool and Port 43.
 
@@ -62,7 +60,7 @@ In the interests of protecting the privacy of registrants, the following activit
 
 
 
-**Access to and correction of personal information**
+## Access to and correction of personal information
 
   * We are committed to maintaining accurate, timely, relevant and appropriate information about our customers, clients and web-site users. For the purposes of receiving timely renewal notices, consumer alerts, and other related correspondence, it is imperative that the contact details we hold for you are always current. If you would like to access or advise us of a change to your personal information, please e-mail your request to: [info@onlydomains.com](mailto:info@onlydomains.com)
   * Inaccurate information will be corrected upon receiving advice to this effect from you. To ensure confidentiality, details of your personal information will be passed on to you only if we are satisfied that the information relates to you.
@@ -70,26 +68,26 @@ In the interests of protecting the privacy of registrants, the following activit
 
 
 
-**Transfer of information overseas**
+## Transfer of information overseas
 
   * Pursuant to the National Privacy Principles we may transfer personal information we have collected about you to someone other than you in a foreign country only if such transfer is permitted by the National Privacy Principles.
 
 
 
-**Changes to Privacy Policy**
+## Changes to Privacy Policy
 
   * From time to time and in line with customer expectations and legislative changes, our privacy policies and procedures will be reviewed and, if appropriate, updated. Changes will be posted on this Privacy Policy page so that users are always aware of what information is collected, how it is used and the way in which information may be disclosed. As a result, please remember to refer back to this Privacy Policy regularly to review any amendments.
 
 
 
-**Contacting us**
+## Contacting us
 
   * If you require further information regarding our Privacy Policy, please email us at the following address: [info@onlydomains.com](mailto:info@onlydomains.com)
   * Should you wish to read more information on privacy legislation or the National Privacy Principles we recommend that you visit the Federal Privacy Commissioner's web-site at: <http://www.privacy.org.nz/>
 
 
 
-**Acceptance**
+## Acceptance
 
   * You accept that your use of this site includes your acceptance of this Privacy Policy and our Terms and Conditions.
 
