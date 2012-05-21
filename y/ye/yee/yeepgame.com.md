@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the yeepgame.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217192746id_/http%3A//www.yeepgame.com/support/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yeepgame.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521214214id_/http%3A//www.yeepgame.com/support/Privacy_Policy) for the most accurate reproduction.*
 
-# Support-Yeepgame.com-Harness the Power of Yeep!
+# SUPPORT | Yeepgame.com-Harness the Power of Yeep!
 
 Privacy Policy
-
-    
 
 Privacy Policy
 
@@ -32,6 +30,10 @@ Please keep your account and password private and do not give such information t
 6\. Changes to this Privacy Policy  
 GAMEWAVE CHINA HOLDINGS LIMITED (THE COMPANY) reserves the right to change or delete portions of this Privacy Policy at any time, as well as make any additions to it, which will be announced and made effective on the Home page's News section.
 
-Last modified: April, 2011.     
+4.OPT OUT/CORRECTIONS
+
+Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section, or emailing your request to YeepGame.com’s Customer Support department at [gs@yeepgame.com](mailto:service@seasonmall.com) Please do not email your credit card number or other sensitive information.
+
+Last modified: March, 2012.     
 
 GAMEWAVE CHINA HOLDINGS LIMITED
