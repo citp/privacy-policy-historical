@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the homedics.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202090122id_/http%3A//www.homedics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homedics.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521103513id_/http%3A//www.homedics.com/privacy-policy) for the most accurate reproduction.*
 
-# HoMedics.com | Privacy Policy
-
-### Privacy Policy
+# HoMedics USA | Privacy Policy
 
 Protecting your privacy is important to HoMedics. We strive to keep your personal information confidential. By ensuring that you are aware of and understand the HoMedics Customer Privacy Policy, we can provide you with better service. Please take a moment to read the following policy to learn how we handle your personal information.
 
-#### Why we collect personal information
+## Why we collect personal information
 
 HoMedics collects and uses your personal information to give you superior customer service, to provide you with convenient access to our products and services, and to make a wider range available to you. In addition, we use your personal information to keep you up to date on the latest product announcements, promotions, special offers, and other information we think you'd like to hear about. From time to time, we may also use your personal information to contact you to participate in a market research survey, so that we can gauge customer satisfaction and develop better products. Moreover, we may collect your billing and shipping information for processing an online purchase.
 
-#### How we collect personal information
+## How we collect personal information
 
 We collect information about you in several ways. For example, we ask for your contact information when you correspond with us or ask to be included in an email mailing list. We collect and store the information you provide in a secure database.
 
-#### When we disclose personal information
+## When we disclose personal information
 
 Your personal information may be shared with other HoMedics business units. They will protect your personal information in accordance with the HoMedics Customer Privacy Policy.
 
@@ -24,17 +22,17 @@ HoMedics will not obtain your consent before disclosing your information to thir
 
 At times we may be required by law or legal process to disclose your personal information. We may also disclose information about you if we believe that disclosure is necessary for the public interest.
 
-#### How we protect your personal information
+## How we protect your personal information
 
 HoMedics places safeguards to protect against the loss, misuse, unauthorized access and alteration of the data you send us with physical, electronic, and managerial procedures. We urge you to take every precaution to protect your personal data when you are on the Internet.
 
 Our website uses Secure Sockets Layering (SSL) to encrypt your personal credit information, including your credit card number, before it travels over the Internet. SSL technology is the industry standard for secure online transactions.
 
-#### Access to your personal information
+## Access to your personal information
 
 You always have access to the information we have about you. If you would like to review other personal information that HoMedics may have about you, email us at privacy@homedics.com.
 
-#### Collecting other personal information
+## Collecting other personal information
 
 When you browse the HoMedics web site, you are able to do so anonymously. Generally, we don't collect personal information when you browse - not even your email address. Your browser, however, does automatically tell us the type of computer and operating system you are using.
 
@@ -42,7 +40,7 @@ Like many web sites, the HoMedics web site uses "cookie" technology. When you fi
 
 In some of our email to you, we use a "click-through URL." When you click one of these URLs, you pass through our web server before arriving at the website that is your destination. We track click-throughs to help us determine your interest in particular topics and measure the effectiveness of our customer communications.
 
-#### Our company-wide commitment to privacy
+## Our company-wide commitment to privacy
 
 To make sure your personal information remains confidential, we communicate these privacy guidelines to every HoMedics employee. HoMedics does not knowingly solicit personal information from children or send them requests for personal information.
 
