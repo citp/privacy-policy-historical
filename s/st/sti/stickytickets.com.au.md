@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stickytickets.com.au privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202174935id_/http%3A//stickytickets.com.au/templates/content.aspx%3FpageID%3D377) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stickytickets.com.au privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521064313id_/http%3A//stickytickets.com.au/templates/content.aspx%3FpageID%3D377) for the most accurate reproduction.*
 
 # Sell Tickets Online - Buy Tickets Online - Privacy
 
