@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the rustyzipper.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218024740id_/http%3A//www.rustyzipper.com/shop.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rustyzipper.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521041939id_/http%3A//www.rustyzipper.com/shop.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # 
 
 [](http://www.rustyzipper.com/)   
 
 
-Fast Holiday Delivery Times  
----  
-Receive Dec 20th: Choose Overnight delivery ($29) | Receive Dec 21st: Choose 2-Day delivery ($19) | Delivery by Dec 24th: Select Priority Mail  
-  
 **What information do we collect?**
 
 We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey, fill out a form or respond to an email. 
