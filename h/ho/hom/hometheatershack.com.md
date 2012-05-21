@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hometheatershack.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121024243id_/http%3A//www.hometheatershack.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometheatershack.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521042725id_/http%3A//www.hometheatershack.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -23,6 +23,6 @@ Google, a third party vendor, uses cookies to serve ads on our site. Google's us
 **7\. Contact Us.** If you have any concerns about privacy at Home Theater Shack or have questions about this Privacy Policy, please [contact us](http://www.hometheatershack.com/forums/sendmessage.php) with a thorough description of your concerns or questions. 
 
 Home Theater Shack, LLC.  
-Copyright 2006-2011  
+Copyright 2006-2012  
 John Mulcahy and Sonnie Parker  
 All Rights Reserved
