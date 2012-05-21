@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the murad.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008024841id_/http%3A//www.murad.com/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the murad.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522013115id_/http%3A//www.murad.com/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
