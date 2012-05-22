@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the suffil.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122134644id_/http%3A//www.suffil.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suffil.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522031128id_/http%3A//suffil.com/static/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Suffil.com
+# Privacy Policy | My Site
+
+[ ](http://www.suffil.com/)
+
+  * [Published News](http://www.suffil.com/)
+  * [Upcoming News](https://web.archive.org/upcoming/)
+  * [Submit a New Story](https://web.archive.org/submit/)
+  * [Groups](https://web.archive.org/groups/)
+
+
 
 May 18, 2011 
 
@@ -38,4 +47,8 @@ The user of SUFFIL.COM hereby acknowledges that the personal information provide
 The privacy policy of SUFFIL.COM may be changed at any time without prior notice. Kindly note the date at the beginning of the policy for the last revised date. 
 
 
+
+
+  
+  
 
