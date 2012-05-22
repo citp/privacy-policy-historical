@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forex.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214091756id_/http%3A//www.forex.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forex.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522060214id_/http%3A//www.forex.com/privacy-policy.html) for the most accurate reproduction.*
 
 # GAIN Capital Group's Privacy Statement | Forex World Currency Trading | FOREX.com
 
