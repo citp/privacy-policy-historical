@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bunkershot.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125095128id_/http%3A//www.bunkershot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bunkershot.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523011111id_/http%3A//www.bunkershot.com/privacy) for the most accurate reproduction.*
 
-# BunkerShot.com GOLF
+# Privacy Policy |
 
 What information do we collect?
 
