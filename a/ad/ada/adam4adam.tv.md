@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adam4adam.tv privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121231829id_/http%3A//adam4adam.tv/dispatcher/helpPrivacyPolicy%3FtheaterId%3D10899) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adam4adam.tv privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522035105id_/http%3A//www.adam4adam.tv/dispatcher/helpPrivacyPolicy%3FtheaterId%3D10899) for the most accurate reproduction.*
 
 # Privacy | Adam4Adam.TV Pay Per View Theater
 
