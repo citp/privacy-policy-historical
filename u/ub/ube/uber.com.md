@@ -1,53 +1,113 @@
-> *The following text is extracted and transformed from the uber.com privacy policy that was archived on 2011-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111002083650id_/http%3A//www.uber.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uber.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522154437id_/https%3A//www.uber.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Uber
+# Uber - Privacy Policy
 
-Ubercab is committed to protecting our visitors’ and members’ privacy. The following Privacy Policy outlines the information Uber, Inc., (the "Company", "we", or "us") may collect and how we may use that information to better serve visitors and members.
+Uber Technologies, Inc. is committed to protecting our visitors’ and members’ privacy. The following Privacy Policy outlines the information Uber Technologies, Inc., (the "Company", "we", or "us") may collect and how we may use that information to better serve visitors and members while using our Web site [www.uber.com](https://www.uber.com/) and Mobile Application.
 
 BY USING OUR WEBSITE AND MOBILE APPLICATION (COLLECTIVELY, THE "SERVICE"), YOU AGREE TO THE TERMS OF THIS PRIVACY POLICY. Please review the following carefully so that you understand our privacy practices.
 
-We reserve the right, at any time and without notice, to add to, change, update or modify this Privacy Policy, simply by posting such change, update or modification on the Service and/or email notification. Any such change, update or modification will be effective immediately upon posting and/or electronic delivery.
-
 If you have questions about this Privacy Policy, please contact us at [support@uber.com](mailto:support@uber.com).
+
+Uber Technologies, Inc. has been awarded TRUSTe's EU Safe Harbor Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's [program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@uber.com](mailto:support@uber.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+
+Uber Technologies, Inc. complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Uber Technologies, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Uber Technologies, Inc. certification, please visit <http://www.export.gov/safeharbor/>.
 
 ## Children Under the Age of 13
 
-The Company cares about the safety of children. Because the Service is not directed toward kids, children under 13 are not allowed to register with or use the Service. If a child under the age of 13 tries to register, they will be "bumped-out" of the registration process after entering their birth date. In the event that we discover we have collected personal information from a child under the age of 13 without parental consent, the Company will delete that information as soon as possible.
+The Company cares about the safety of children. Because the Service is not directed toward kids, children under 13 are not allowed to register with or use the Service. We do not knowingly collect personal information from anyone under the age of 13. If we discover that we have collected personal information from a child under 13, we will delete that information immediately.
 
 ## Information We Collect
 
-Upon registration with the Service, a user profile is developed to further customize the user’s experience. The current required data fields are:
+Upon registration with the Service (either as a consumer, partner or driver), a user profile is developed to further customize the user’s experience. The current required data fields are:
 
   * Email
   * Password
   * Name
   * Mobile Number
   * Zip Code
+  * Credit Card Number
+  * Expiration date & Security Code
 
 
 
-In addition, tracking information is collected as you navigate through our website (the "Website") or use the Service, including, but not limited to geographic areas. If you are traveling in a vehicle ordered via the Service, the driver’s mobile phone will record your GPS coordinates. Most GPS enabled mobile devices can define one’s location to within 50 feet.
+In addition, tracking information is collected as you navigate through our website (the "Website") or use the Service, including, but not limited to geographic areas. If you are traveling in a vehicle ordered via the Service, the driver’s mobile phone will record your GPS coordinates. Most GPS enabled mobile devices can define one’s location to within 50 feet. We collect this information in order to calculate your fare and do not use it for any other purpose.
+
+We also collect device type and unique identifier when you use our mobile application, we use this information for the sole purpose of providing you with the most up to date application and features. You may also choose to upload a photo while using the site or application, if you wish to do so this may be viewable by the drivers who are picking you up so that they are able to verify your identity. You may remove it or update it at anytime by logging into your account.If you use our services through your mobile device, we will track your geo-location information so that you are able to view the drivers in your area that are close to your location, set your pick up location, and our drivers are able to find the location in which you wish to be picked up from. We will not share this information with third parties for any purpose and will only use this information for the sole purpose of fulfilling your request. You may at any time no longer allow our application to use your location by turning this off at the device level.
+
+If you wish to apply for a job on our site we will collect personal information such as your name, email address, phone number and additional information such as resume, gender, and your ethnicity. We use the information collected within this area of the site to determine your qualifications for the position in which you have applied and to contact you to set up an interview.
 
 To help us serve your needs better, we use "cookies" to store and sometimes track user information. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. Cookies can be disabled or controlled by setting a preference within your web browser.
 
 Users of the Website should be aware that non-personal information and data may be automatically collected by virtue of the standard operation of the Company’s computer servers or through the use of "cookies". Cookies are files a website can use to recognize repeat users, and allow a website to track web usage behavior. Cookies take up minimal room on your computer and cannot damage your computer’s files. Cookies work by assigning a number to the user that has no meaning outside of the assigning website. Users should be aware that the Company cannot control the use of cookies (or the resulting information) by third-parties. If you do not want information to be collected through the use of cookies, your browser allows you to deny or accept the use of cookies. There may, however, be some features of the Service which require the use of cookies in order to customize the delivery of information to you.
 
+The use of third party cookies is not covered by our privacy policy. We do not have access or control over these cookies.
+
+Our third party tracking utility partner employs a software technology called clear gifs (a.k.a. Web Beacons), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored in a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personal information.
+
 ## How We Use Your Information
 
-Our primary goal in collecting information is to provide you with an enhanced experience when using the Service . We use this information to closely monitor which features of the Service are used most and to determine which feautures we need to focus on improving, including usage patterns and geographic locations to determine where we should offer or focus services, features and/or resources.
+Our primary goal in collecting information is to provide you with an enhanced experience when using the Service. We use this information to closely monitor which features of the Service are used most, to allow you to view your trip history, store your credit card information on a secure page, view any promotions we may currently be running, rate trips, and to determine which features we need to focus on improving, including usage patterns and geographic locations to determine where we should offer or focus services, features and/or resources, we use the mobile information collected so that we are able to serve you the correct app version depending on your device type, for troubleshooting and in some cases marketing purposes. We use the credit card information you provide us to bill you for services.
 
 The Company uses your Internet Protocol (IP) address to help diagnose problems with our computer server, and to administer the Website. Your IP address is used to help identify you, and to gather broad demographic data. Your IP address contains no personal information about you.
 
+### Service-related Announcements
+
+We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email.
+
+Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account.
+
+### Customer Service
+
+Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.
+
+## Targeted or Behavioral Advertising
+
+Targeted advertising (also known as Behavioral Advertising) uses information collected on an individual's web browsing behavior such as the pages they have visited or the searches they have made. This information is then used to select which uber.com advertisement should be displayed to a particular individual on websites other than uber.com. For example, if you have shown a preference for nursing while visiting uber.com, you may be served an advertisement from uber.com for nursing related programs when you visit a site other than uber.com. The information collected is only linked to an anonymous cookie ID (alphanumeric number); it does not include any information that could be linked back to a particular person, such as their name, address or credit card number. The information used for targeted advertising either comes from uber.com or through third party website publishers. If you would like to opt out of targeted advertising from uber.com that occurs when visiting our third party advertising publishers, please [click here](http://www.networkadvertising.org/managing/opt_out.asp). Please note that this will opt you out of targeted ads from uber.com and any other participating advertisers. If you opt out, you will continue to receive online advertising from uber.com; however, these ads may not be as relevant to you.
+
 ## Our Disclosure of Your Information
+
+We do not sell, share, rent or trade your personal information or geo-location information other than as disclosed within this privacy policy.
 
 The Company may share aggregated information that includes non-identifying information and log data with third parties for industry analysis, demographic profiling and to deliver targeted advertising about other products and services.
 
-We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Website-related services (e.g., without limitation, maintenance services, database management, web analytics and improvement of the Website’s features) or to assist us in analyzing how our Website and Service are used. These third parties have access to your personal information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. We may also provide personal information to our business partners or other trusted entities for the purpose of providing you with information on goods or services we believe will be of interest to you. You can, at any time, opt out of receiving such communications.
+We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to process payment, provide customer support, provide geo-location information to our drivers, to host our job application form, to perform Website-related services (e.g., without limitation, maintenance services, database management, web analytics and improvement of the Website’s features) or to assist us in analyzing how our Website and Service are used. These third parties have access to your personal information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. We may also provide personal information to our business partners or other trusted entities for the purpose of providing you with information on goods or services we believe will be of interest to you. You can, at any time, opt out of receiving such communications by contacting those third parties directly.
 
 The Company cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of the Company or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, an illegal, unethical or legally actionable activity.
 
-The Company may sell, transfer or otherwise share some or all of its assets, including your personal information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
+If we are involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+
+We use a third party hosting provider who hosts our support section of the site. Information collected within this section of the site is governed by our privacy policy. Our third party service provider does not have access to this information.
+
+## Access to Personal Information
+
+If your personal information changes, or if you no longer desire our service, you may correct, delete inaccuracies, or amend it by making the change on our member information page or by emailing us at [support@uber.com](mailto:support@uber.com). We will respond to your access request within 30 days.
+
+We will retain your information (including geo-location) for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [support@uber.com](mailto:support@uber.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ## Security
 
-The personally identifiable information we collect is securely stored within our database, and we use standard, industry-wide, commercially reasonable security practices such as encryption, firewalls and SSL (Secure Socket Layers) for protecting your information. However, as effective as encryption technology is, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet, and any information you transmit to the Company you do at your own risk. We recommend that you not disclose your password to anyone.
+The personally identifiable and geo-location information we collect is securely stored within our database, and we use standard, industry-wide, commercially reasonable security practices such as encryption, firewalls and SSL (Secure Socket Layers) for protecting your information (credit card number and geo-location information). However, as effective as encryption technology is, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet, and any information you transmit to the Company you do at your own risk. We recommend that you not disclose your password to anyone.
+
+### Tell-A-Friend
+
+If you choose to use our referral service to tell a friend about our site or a job position, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. We store this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
+
+Your friend may contact us at [support@uber.com](mailto:support@uber.com) to request that we remove this information from our database.
+
+### Social Media (Features) and Widgets
+
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
+### Public Forums
+
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [support@uber.com](mailto:support@uber.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+## Changes in this Privacy Policy
+
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+Contact us by postal mail:
+
+Uber Technologies, Inc.  
+182 Howard Street, #8  
+San Francisco, CA 94105
