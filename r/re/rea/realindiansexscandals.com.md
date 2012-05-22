@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the realindiansexscandals.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123080120id_/http%3A//www.realindiansexscandals.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realindiansexscandals.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522185302id_/http%3A//www.realindiansexscandals.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
+
+YellowPlum Ltd.  
+Stasikratous, 16,   
+1065, Nicosia  
+Cyprus
 
 We can be reached via e-mail at [ support@247mg.com](mailto:support@247mg.com)
 
@@ -54,7 +59,7 @@ There may be occasions when a subscriber will be presented with special offers e
 
  _ **"OPT-OUT" Revocation Procedure.**_ The site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive offers by sending an e-mail to [support@247mg.com](mailto:support@247mg.com) , clearly stating that the subscriber has revoked consent to receive any future offers.
 
-This website (the "site") is licensed and owned by Online Net Media UK Ltd. Registered office address: 508 Olympic House, 28-42 Clements Road, London, IG1 1BA, United Kingdom. We don't accept any post at this address, if you need to contact us you can only contact us by E-Mail: [support@247mg.com](mailto:support@247mg.com) _**Data Controller.**_
+This website (the "site") is licensed and owned by  Yellowplum Ltd Stasikratous, 16, 1065, Nicosia, Cyprus.  We don't accept any post at this address, if you need to contact us you can only contact us by E-Mail: [support@247mg.com](mailto:support@247mg.com) _**Data Controller.**_
 
 The Data Controller for all personal information collected about subscribers of the site can be reached by e-mail at [support@247mg.com](mailto:support@247mg.com) . The Data Controller has the authority to resolve all issues regarding the collection, modification, correction, deletion and use of the personal information that has been collected by the site.
 
@@ -85,4 +90,4 @@ All Sales Are Final!
 
 We 
 
-_will not_ issue refunds for any website membership you have purchased. Therefore, we are making our refund policy clear up front: _There will be no refunds for any reason_
+_will not_ issue refunds for any website membership you have purchased after transaction goes, We will refund if there is any issue with the website access. Therefore, we are making our refund policy clear up front: _There will be no refunds for any reason_
