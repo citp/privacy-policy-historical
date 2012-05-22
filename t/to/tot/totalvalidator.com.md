@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totalvalidator.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208100002id_/http%3A//www.totalvalidator.com/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalvalidator.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522081258id_/http%3A//www.totalvalidator.com/home/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statements
 
@@ -14,4 +14,4 @@ Total Validator does not sell, trade, or rent to third parties any information c
 
 No personal information is gathered or held except for an email address purely used in order to notify people of renewals or service changes. No other form of unsolicited contact will be made. 
 
-Privacy | [Contact Us](https://web.archive.org/web/20111208100002id_/http%3A//www.totalvalidator.com/home/contact.html) | Copyright 2011 Total Validator. All rights reserved.
+Privacy | [Contact Us](https://web.archive.org/web/20120522081258id_/http%3A//www.totalvalidator.com/home/contact.html) | Copyright 2012 Total Validator. All rights reserved.
