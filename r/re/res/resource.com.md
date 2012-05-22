@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resource.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101222756id_/http%3A//www.resource.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resource.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522070016id_/http%3A//www.resource.com/privacy-policy) for the most accurate reproduction.*
 
 # Resource Interactive: Privacy Policy
 
