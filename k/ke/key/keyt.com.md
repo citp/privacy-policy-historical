@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keyt.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121225119id_/http%3A//www.keyt.com/home/related/89199527.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keyt.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522033326id_/http%3A//www.keyt.com/home/related/89199527.html) for the most accurate reproduction.*
 
 # KEYT Privacy Policy | KEYT.com - News, Weather, Sports for Santa Barbara, Santa Maria, San Luis Obispo, Ventura, Oxnard | Related Content
 
