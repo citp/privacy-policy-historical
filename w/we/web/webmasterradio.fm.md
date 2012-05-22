@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the webmasterradio.fm privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105020357id_/http%3A//www2.webmasterradio.fm/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmasterradio.fm privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522045846id_/http%3A//www2.webmasterradio.fm/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy « Online Radio / Podcast Network for the B2B and Digital Marketing Industry :: WebmasterRadio.FM
+
+  
+
+
+[](http://www2.webmasterradio.fm/feed/rss/)
 
 What information do we collect?
 
@@ -8,7 +13,7 @@ We collect information from you when you register on our site, place an order, s
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and [content](http://www2.webmasterradio.fm/affiliate_marketing) network privacy policy..
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
 What do we use your information for?
 
@@ -39,7 +44,7 @@ How do we protect your information?
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+We offer the use of a secure [server](http://www2.webmasterradio.fm/web_hosts). All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
 
 After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our [servers](http://www2.webmasterradio.fm/web_hosts).
 
