@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canv.as privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229034344id_/http%3A//canv.as/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canv.as privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522204846id_/http%3A//canv.as/privacy) for the most accurate reproduction.*
 
 # Canvas
 
