@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the life-enthusiast.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123013317id_/http%3A//life-enthusiast.com/index/Company/Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the life-enthusiast.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522191723id_/http%3A//life-enthusiast.com/index/Company/Security) for the most accurate reproduction.*
 
 # Life Enthusiast Co-op | Natural Healing Solutions | Help & About Us
 
