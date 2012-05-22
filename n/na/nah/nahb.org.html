@@ -1,27 +1,9 @@
-<!--The following is the downloaded HTML source of the nahb.org privacy policy that was archived on 2011-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111122133222id_/http%3A//www.nahb.org/footer_content.aspx%3FfooterContentID%3D64) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nahb.org privacy policy that was archived on 2012-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120522031437id_/http%3A//www.nahb.org/footer_content.aspx%3FfooterContentID%3D64) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns:fb="http://www.facebook.com/2011/fbml"><head><title>
 	NAHB: NAHB Privacy Policy
-</title><meta name="verify-v1" content="XPH/fFpyJ7IjoVCc7Jy3tPNVuQR5TymzY8U2jJ5QFHg=">
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-19606743-2']);
-        _gaq.push(['_setDomainName', 'none']);
-        _gaq.push(['_setAllowLinker', true]);
-       _gaq.push(['_setCustomVar',1,'GuestType','Other',2]);_gaq.push(['_setCustomVar',3,'ContentGroup','Search Results',3]);
-        _gaq.push(['_trackPageview']);
-
-        (function() {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
-
-</script>
-
-<link href="/js/Compress.aspx?fileset=maininnercss&amp;v=8.5" rel="stylesheet" type="text/css"><script type="text/javascript" src="/js/Compress.aspx?fileset=mainjs&amp;v=8.5"></script><script type="text/javascript" src="/js/dropdown_js.aspx?dhtmlMenu_1,4"></script><meta name="Description"><meta name="Keywords"><meta name="WT.ti" content="NAHB Privacy Policy"><meta name="WT.cg_n" content="Search Results"><meta name="WT.cg_s"><meta name="WT.ad"><meta name="WT.si_n"><meta name="WT.si_x"><meta name="WT.drill" content="Home;NAHB Privacy Policy"><script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script><script type="text/javascript">GS_googleAddAdSenseService("ca-pub-7907528423314502");GS_googleEnableAllServices();</script><script type="text/javascript">GA_googleAddSlot("ca-pub-7907528423314502", "Dashboard");</script><script type="text/javascript">GA_googleFetchAds();</script></head>
+</title><meta name="verify-v1" content="XPH/fFpyJ7IjoVCc7Jy3tPNVuQR5TymzY8U2jJ5QFHg="><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-19606743-2']);_gaq.push(['_setDomainName', 'none']);_gaq.push(['_setAllowLinker', true]);_gaq.push(['_setCustomVar',1,'GuestType','Other',2]);_gaq.push(['_setCustomVar',3,'ContentGroup','Search Results',3]);_gaq.push(['_trackPageview']);(function() {var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();</script><link href="/js/Compress.aspx?fileset=maininnercss&amp;v=8.6" rel="stylesheet" type="text/css"><script type="text/javascript" src="/js/Compress.aspx?fileset=mainjs&amp;v=8.6"></script><script type="text/javascript" src="/js/dropdown_js.aspx?dhtmlMenu_1,4"></script><meta name="Description"><meta name="Keywords"><meta name="WT.ti" content="NAHB Privacy Policy"><meta name="WT.cg_n" content="Search Results"><meta name="WT.cg_s"><meta name="WT.ad"><meta name="WT.si_n"><meta name="WT.si_x"><meta name="WT.drill" content="Home;NAHB Privacy Policy"><script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script><script type="text/javascript">GS_googleAddAdSenseService("ca-pub-7907528423314502");GS_googleEnableAllServices();</script><script type="text/javascript">GA_googleAddSlot("ca-pub-7907528423314502", "Dashboard");</script><script type="text/javascript">GA_googleFetchAds();</script><script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
 <body bgcolor="#ffffff" id="notloggedin" class="brandpurple" style="">
     <div id="wrapper">
         <!-- googleoff: all -->
@@ -96,6 +78,17 @@ ul.jd_menu li {
                         $("div.scroll-pane").jScrollPane();
                         $("#dashboard-expanded .boxTitle").corner("round top 7px");
                         showAd();
+                        _gaq.push(['_trackEvent','Dashboard','View', document.location.pathname]);
+
+                        $("#dashboard-expanded a").click(function() {
+                            var boxtype = "";
+                            if ($(this).parents("[boxtype]").length > 0)
+                                boxtype = $(this).parents("[boxtype]").attr("boxtype");
+                            _gaq.push(['_trackEvent', 'Dashboard', 'Click-' + boxtype, this.href]);
+
+                            if ($(this).attr('target') == '_blank') return true;
+                            setTimeout('document.location = "' + $(this)[0].href + '"', 200); return false;
+                        });
                     })
                 } else {
                     $("#dashboard-expanded>*").show();
@@ -179,7 +172,7 @@ ul.jd_menu li {
                 Association</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.nahb.org/category.aspx?sectionID=667">Builders
                     &amp; Remodelers</a></div>
         <div style="margin-top: 3px;">
-            <a href="http://www.nahb.org/page.aspx/landing/sectionID=5">About NAHB</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.nahb.org/page.aspx/landing/sectionID=3">Newsroom</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/buildersshow_redirect.aspx" target="_blank">Builders’ Show</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.nahb.org/page.aspx/landing/sectionID=4">Publications &amp; Subscriptions</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.nahb.org/page.aspx/landing/sectionID=400">Shop NAHB</a></div>
+            <a href="http://www.nahb.org/page.aspx/landing/sectionID=5">About NAHB</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.nahb.org/page.aspx/landing/sectionID=3">Newsroom</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/buildersshow_redirect.aspx" target="_blank">Builders' Show</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.nahb.org/page.aspx/landing/sectionID=4">Publications &amp; Subscriptions</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.nahb.org/page.aspx/generic/sectionID=2278">Awards</a></div>
     </div>
     <div class="clear">
     </div>
@@ -233,7 +226,7 @@ ul.jd_menu li {
                                     <td id="ctl00_tdLeftNav" class="leftnav">
                                         <span id="ctl00_lblLeftText" class="leftnav-detail"></span>
                                         
-                                            <ul><li class="selected"><a href="/footer_content.aspx?footerContentID=64" class="selected">NAHB Privacy Policy</a></li></ul>
+                                            
                                         
                                     </td>
 <td id="ctl00_tdContentInner" rowspan="2" class="content-inner">
@@ -248,14 +241,16 @@ ul.jd_menu li {
 		<td id="ctl00_tdTitle">
                                                         <!-- googleoff: snippet -->
                                                         
+                                                        
                                                         <div id="ctl00_pnlTitle" class="header">
 			
                                                             NAHB Privacy Policy
                                                         
 		</div>
+                                                        
                                                         <!-- googleon: snippet -->
                                                     </td>
-		<td align="right" width="350">
+		<td align="right" width="375">
                                                         <!-- googleoff: all -->
                                                         
 
@@ -275,15 +270,10 @@ $(document).ready(function(){
         })
     
     
-    $("div#divPageTools img").hover(function(){
-        $(this).attr("src",$(this).attr("src").replace("_off.gif","_on.gif"))
-    },function(){
-        $(this).attr("src",$(this).attr("src").replace("_on.gif","_off.gif"))
-    })
-    
+      
     //font size tool
     var fontlevel = ($.cookie("basefontsize")||"1");
-    $("img[id$=imgText]").click(function(){
+    $("a[id$=aFontSize]").click(function(){
         fontlevel = (fontlevel=="1"?"2":"1");
         $.cookie("basefontsize",fontlevel,{expires: 3650, path: "/"});
         setFontSize();
@@ -309,8 +299,20 @@ $(document).ready(function(){
 /* Add This */
 var addthis_config = {
     username: "NAHBaddthis",
-    services_compact: 'digg, stumbleupon, favorites, delicious, twitter, linkedin, facebook, mixx, myspace, more'        
+    services_compact: 'digg, stumbleupon, favorites, delicious, twitter, linkedin, facebook, mixx, myspace, more', 
+data_ga_property: 'UA-19606743-2', 
+data_ga_social: true
     }
+var addthis_share = {
+ 
+    templates : {
+ 
+        twitter : "{{title}} - {{url}} (via @NAHBhome)"
+ 
+    },
+    url_transforms : {shorten: {twitter: 'bitly'}}
+ 
+}
 function jsAppend(js_file)
 {
     js_script = document.createElement('script');
@@ -353,23 +355,37 @@ function HideRSS()
 </script>
 
 <div id="divPageTools">
+<div style="float:right;">
+<img src="/style/main/images/inner/icon.tools_spacer.png" id="ctl00_pfv_shareSpacer" class="googlePlusOne">
      <a href="/Form_emailToFriend.aspx?link=%2ffooter_content.aspx%3ffooterContentID%3d64%26emailFriend%3dtrue&amp;cap=NAHB+Privacy+Policy&amp;contentTypeID=0&amp;contentID=0" id="ctl00_pfv_aEmailToFriend" onclick="popupWin=popupDialog('popupWin',600,500,'status=1,scrollbars=0,resizable=1')" target="popupWin">
-                <img src="/style/main/images/inner/email_off.gif" border="0" alt="Email to friend" hspace="0" align="top"></a> <a href="/footer_content.aspx?footerContentID=64&amp;print=true" id="ctl00_pfv_aPfLink">
-                        <img src="/style/main/images/inner/print_off.gif" border="0" alt="Printer Friendly Version" hspace="0" align="top"></a> 
-    <a id="ctl00_pfv_aShare" class="addthis_button">
-        <img src="/style/main/images/inner/share_off.gif" border="0" alt="Share" hspace="0"></a>
-    <img src="/style/main/images/inner/text_off.gif" id="ctl00_pfv_imgText" border="0" alt="Make text larger or smaller" hspace="0">
+                <img src="/style/main/images/inner/icon.email.png" border="0" alt="Email to friend" hspace="0" align="top"></a> <a href="/footer_content.aspx?footerContentID=64&amp;print=true" id="ctl00_pfv_aPfLink">
+                        <img src="/style/main/images/inner/icon.print.png" border="0" alt="Printer Friendly Version" hspace="0" align="top"></a> 
+    <a href="javascript:void(0)" id="aFontSize"><img src="/style/main/images/inner/icon.text.png" id="ctl00_pfv_imgText" border="0" alt="Make text larger or smaller" hspace="0" title="Make text larger"></a></div>
+
+
+<div style="width:24px; overflow: hidden; float:right; padding-left: 8px; padding-top: 3px; padding-right: 3px;" class="googlePlusOne">
+<a href="https://www.addthis.com/bookmark.php" id="ctl00_pfv_aGooglePlusOne" class="shareIcon addthis_button_google_plusone" g:plusone:annotation="none" addthis:url="http://www.nahb.org/footer_content.aspx?footerContentID=64"></a>
+</div>
+<div style="float:right;">
+<img src="/style/main/images/inner/icon.tools_spacer.png">
+<a id="ctl00_pfv_aTwitter" class="shareIcon addthis_button_twitter" target="_blank" addthis:url="http://www.nahb.org/footer_content.aspx?footerContentID=64" href="https://www.addthis.com/bookmark.php"><img src="/style/main/images/inner/twitter.png" alt="Tweet"></a><a href="https://www.addthis.com/bookmark.php" id="ctl00_pfv_aLinkedIn" class="shareIcon addthis_button_linkedin" addthis:url="http://www.nahb.org/footer_content.aspx?footerContentID=64"><img src="/style/main/images/inner/linkedin.png" alt="LinkedIn"></a><a id="ctl00_pfv_lnkPinterest" class="pin-it-button" href="javascript:void((function(){var e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','http://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)})());"><img border="0" src="/style/main/images/inner/pinterest.png" title="Pin It"></a>
+</div>
+
+<div style="float:right; text-align: left;" class="fb_tools">
+<a href="https://www.addthis.com/bookmark.php" id="ctl00_pfv_aFacebook" class="shareIcon addthis_button_facebook_like" style="opacity:1;" fb:like:layout="button_count" addthis:url="http://www.nahb.org/footer_content.aspx?footerContentID=64"></a>
+</div>
+
+
     
 </div>
 <div id="divPageToolsMsg">
 </div>
 
-<script type="text/javascript">    
-    var aShare = getControl("a", "aShare");
-    if (aShare != null)
-        aShare.href = window.location.protocol + "//www.addthis.com/bookmark.php";
+<script type="text/javascript">
+    $(".shareIcon").attr("href", window.location.protocol + "//www.addthis.com/bookmark.php");
+    if ($.browser.msie && parseInt($.browser.version, 10) <= 7)
+        $(".googlePlusOne").hide();
 </script>
-
 
                                                         <!-- googleon: all -->
                                                     </td>
@@ -423,7 +439,7 @@ If you have any questions, please <a href="/contact_us_form.aspx?sectionID=178" 
                                             <p>
                                             </p>
                                             
-                                        </div>                                        
+                                        </div>
                                     </td>
 
                                 </tr>
@@ -439,6 +455,8 @@ If you have any questions, please <a href="/contact_us_form.aspx?sectionID=178" 
     </div>
     
 <div id="footer">
+            <div class="footer-wrapper">
+                        <div class="footer-left">
     <p>
         <a href="/page.aspx/landing/sectionID=5">About NAHB</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/footer_content.aspx?footerContentID=65">Terms of Service</a>&nbsp;&nbsp;|&nbsp;&nbsp;NAHB Privacy Policy&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/page.aspx/landing/sectionID=156">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/reference_list.aspx?sectionID=951">NAHB Careers</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/page.aspx/generic/sectionID=480">Advertise with NAHB</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/sitemap.aspx">Sitemap</a>
     </p>
@@ -447,8 +465,18 @@ If you have any questions, please <a href="/contact_us_form.aspx?sectionID=178" 
     </p>
     <p>
         ©
-        2011. All rights reserved.
+        2012. All rights reserved.
     </p>
+</div>
+        <div class="footer-right">
+                    <a href="http://www.facebook.com/homebuildrs" target="_blank"><img src="/style/main/images/sitewide/facebook_btn.png" width="33" height="32" alt="Facebook" class="social-btns"></a>
+                    <a href="http://pinterest.com/nahbhome" target="_blank"><img src="/style/main/images/sitewide/pinterest_btn.png" width="33" height="32" alt="Facebook" class="social-btns"></a>
+                    <a href="https://twitter.com/#!/NAHBhome" target="_blank"><img src="/style/main/images/sitewide/twitter_btn.png" width="33" height="32" alt="Twitter" class="social-btns"></a>
+                    <a href="https://plus.google.com/u/0/117713222891601824661/posts" target="_blank"><img src="/style/main/images/sitewide/googleplus_btn.png" width="32" height="32" alt="Google plus" class="social-btns"></a>
+                    <a href="http://www.linkedin.com/company/15288" target="_blank"><img src="/style/main/images/sitewide/linkedin_btn.png" width="33" height="32" alt="LinkedIn" class="social-btns"></a>
+        </div>
+        <div class="clear"></div>
+            </div>
 </div>
 
     
@@ -463,7 +491,45 @@ _tag.dcsCollect();
 <noscript>
 <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://ssdc.nahb.org/dcswwq8kj1000086etz8vcrbu_6i6y/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.6.2"/></div>
 </noscript>
+<img style="display:none;" onload="record_login_status(1, 'Google', true)" onerror="record_login_status(1, 'Google', false)" src="https://accounts.google.com/CheckCookie?continue=https://www.google.com/intl/en/images/logos/accounts_logo.png">
 
+<img style="display:none;" onload="record_login_status(2, 'GooglePlus', true)" onerror="record_login_status(2, 'GooglePlus', false)" src="https://plus.google.com/up/?continue=https://www.google.com/intl/en/images/logos/accounts_logo.png&amp;type=st&amp;gpsrc=ogpy0">
+
+<img style="display:none;" src="https://twitter.com/login?redirect_after_login=%2Fimages%2Fspinner.gif" onload="record_login_status(3, 'Twitter', true)" onerror="record_login_status(3, 'Twitter', false)">
+
+<div id="fb-root"></div>
+<script type="text/javascript">
+    $(document).ready(function() {
+        if (typeof FB == "undefined") {
+            window.fbAsyncInit = function() {
+                FB.init({ appId: '326925564025249', status: true, cookie: true, xfbml: true });
+                FB.getLoginStatus(function(response) {
+                    if (response.status != "unknown") {
+                        record_login_status(4, "Facebook", true);
+                    } else {
+                        record_login_status(4, "Facebook", false);
+                    }
+                });
+            };
+            // Load the SDK Asynchronously
+            (function(d) {
+                var js, id = 'facebook-jssdk'; if (d.getElementById(id)) { return; }
+                js = d.createElement('script'); js.id = id; js.async = true;
+                js.src = "//connect.facebook.net/en_US/all.js";
+                d.getElementsByTagName('head')[0].appendChild(js);
+            } (document));
+        }
+        else {
+            FB.getLoginStatus(function(response) {
+                if (response.status != "unknown") {
+                    record_login_status(4, "Facebook", true);
+                } else {
+                    record_login_status(4, "Facebook", false);
+                }
+            });
+        }
+    });
+</script>
 
 
 </body></html>
