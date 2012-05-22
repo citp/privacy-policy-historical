@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the abfs.com privacy policy that was archived on 2011-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111121231645id_/http%3A//www.abfs.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the abfs.com privacy policy that was archived on 2012-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120522035015id_/http%3A//www.abfs.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>ABF Freight System, Inc. - Privacy Policy</title>
@@ -15,7 +15,7 @@
 
 </script>
 
-   <script type="text/javascript" src="/Include/PrintEmail-STC.js?V=1.40"></script>
+   <script type="text/javascript" src="/Include/PrintEmail-STC.js?V=1.41"></script>
    <script type="text/javascript" src="/tools/js/accountinfo/login.js?V=1.1"></script><script language="Javascript" src="/ABFGlobal/Include/ajax-STC.js?V=1.4"></script>
 <script language="javascript">
 <!--
@@ -26,7 +26,7 @@ var strToolCode = '';
 var _et = new jsEventTracking();
 var tuView=""; //Set in ABFGlobal/Class/TrackUsage.asp
 var strOverDiv;
-var arrTrackingTags = new Array("a",":button",".PseudoLink","td[data-track]","img[data-track]");
+var arrTrackingTags = new Array("a",":button",".PseudoLink","td[data-track]","img[data-track]"); // This array is referenced in /Include/quicktools-STC.js to .die() when Customize My Reports is clicked
 
 $(document).ready(function()
 {
@@ -35,8 +35,11 @@ $(document).ready(function()
    if (("Privacy Policy" == "") || (tuView != "-1")) // If on CMS or first time on nonCMS, track
    {  _et.Track(_et.Page, _et.VISIT); }
    
-   $("#topOnlineTools,#leftOnlineTools").live('mouseover', function ()
-   {  strOverDiv = (($(this).attr("id") == "topOnlineTools") ? "Top Menu" : "Left Menu");
+   $("#header-tab-online-tools,#leftOnlineTools").live('mouseover', function () {
+      var thatid = $(this).attr('id');
+      $('#overDiv a').each(function () {
+         $(this).attr('data-track', ((thatid === 'header-tab-online-tools') ? 'Top' : 'Left')+' Menu-'+$(this).html());
+      });
    });
    
    for (i = 0 ; i < arrTrackingTags.length ; i++)
@@ -44,7 +47,6 @@ $(document).ready(function()
       {  if ($(this).attr("data-track") != "no")
          {  if ($(this).find('img[src*="/i.gif"],img[src*="/q4.gif"],img[src*="/q.gif"]').length == 0)
             {  var etCategory = (($(this).closest("#leftNavBar").length == 1) ? "NavBar-" : "");
-               etCategory += (($(this).closest('#overDiv').length == 1) ? strOverDiv + "-" : "");
                etCategory += (($(this).attr('data-track') != undefined) ? $(this).attr('data-track') : (($(this).html() != "") ? $(this).html() : $(this).attr('value')));
                _et.Track(etCategory, _et.CLICK);
             }
@@ -61,7 +63,7 @@ function jsEventTracking()
    };
 
    this.Track = function(category, event)
-   {  _et.Display("["+category+", "+this.Label+"]"); // For debugging only
+   {  _et.Display("["+category+", "+event+", "+this.Label+"]"); // For debugging only
       _gaq.push(['_trackEvent', category, event, this.Label]);  // Sends to Google Analytics
    }
 
@@ -226,7 +228,7 @@ function createElement(index,ver)
 <script type="text/javascript" src="/include/Menu.js?V=1.27"></script>
 <script type="text/javascript" src="/include/pop_msgs.js?V=1.73"></script>
 
-<link href="/style/main_style_new.css?v=1.15" rel="stylesheet" type="text/css">
+<link href="/style/main_style_new.css?v=1.17" rel="stylesheet" type="text/css">
 <link href="/style/ajax.css" rel="stylesheet" type="text/css">
 
 <script type="text/javascript">
@@ -242,47 +244,32 @@ function createElement(index,ver)
    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
    })();
 
-   document.onkeydown = keyPress;
-   function objHotKey(key, loc) {
-      this.key = key;
-      this.loc = loc;
-   }
-   var hotkeys = new Array()
-   var strQS = '?NCHK=HKEY' ;
-
-   if (ie4)
-   {  hotkeys[0] = new objHotKey('B', '/tools/bolfmt/' + strQS);
-      hotkeys[1] = new objHotKey('D', '/tools/docret/' + strQS);
-      hotkeys[2] = new objHotKey('H', '/tools/reports/history/' + strQS);
-      hotkeys[3] = new objHotKey('F', '/tools/billreview/' + strQS);
-      hotkeys[4] = new objHotKey('P', '/tools/planner/' + strQS);
-      hotkeys[5] = new objHotKey('Q', '/tools/ltlquotes/' + strQS);
-      hotkeys[6] = new objHotKey('S', '/tools/reports/' + strQS);
-      hotkeys[7] = new objHotKey('T', '/tools/trace/' + strQS);
-      hotkeys[8] = new objHotKey('U', '/tools/pickup/' + strQS);
-      hotkeys[9] = new objHotKey('R', '/tools/rsearch/' + strQS);
-      hotkeys[10] = new objHotKey('I', '/tools/transit/' + strQS);
-      hotkeys[11] = new objHotKey('X', '/tools/reports/inbox/' + strQS);
-      hotkeys[12] = new objHotKey('C', '/tools/director/' + strQS);
-      hotkeys[13] = new objHotKey('J', 'javascript:showJScriptDiv()');
-   }
-   else  {hotkeys[0] = new objHotKey('J', 'javascript:showJScriptDiv()');}
+   $(function () {
+      $('body').keydown(function (e) {
+         if (ie4 && e.ctrlKey && e.shiftKey && hotkeys[e.keyCode]) {
+            _et.Track(hotkeys[e.keyCode].name, _et.HOTKEY);
+            window.location = hotkeys[e.keyCode].loc;
+         }
+      });
+   });
+   var hotkeys = {
+      66 : { name : 'Bill of Lading',     loc : '/tools/bolfmt/'},          //B
+      67 : { name : 'Shipment Director',  loc : '/tools/director/'},        //C
+      68 : { name : 'Document Retrieval', loc : '/tools/docret/'},          //D
+      70 : { name : 'Invoice Review',     loc : '/tools/billreview/'},      //F
+      72 : { name : 'Historical Reports', loc : '/tools/reports/history/'}, //H
+      73 : { name : 'Transit Times',      loc : '/tools/transit/'},         //I
+      80 : { name : 'Shipment Planner',   loc : '/tools/planner/'},         //P
+      81 : { name : 'LTL Quote',          loc : '/tools/ltlquotes/'},       //Q
+      82 : { name : 'Routing',            loc : '/tools/rsearch/'},         //R
+      83 : { name : 'Status Reports',     loc : '/tools/reports/'},         //S
+      84 : { name : 'Tracking',           loc : '/tools/trace/'},           //T
+      85 : { name : 'Pickup Request',     loc : '/tools/pickup/'},          //U
+      88 : { name : 'Reports Inbox',      loc : '/tools/reports/inbox/'}    //X
+   };
 
    function DisplayWait(strMessage)
    {  
-   }
-
-   function keyPress(e)
-   {  if (ie4) {var thisEvent = (event) ? event : null;}
-      else     {var thisEvent = (e) ? e : null;}
-      if (thisEvent)
-      {  if (thisEvent.ctrlKey && thisEvent.shiftKey)
-         {  for (var i = 0; i < hotkeys.length; i++)
-            {  if (String.fromCharCode(thisEvent.keyCode) == hotkeys[i].key)
-               {  window.location = hotkeys[i].loc; }
-            }
-         }
-      }
    }
 
 //Textbox Placeholder/Watermark logic - Add a placeholder attribute to a textbox and the text will be shown in the textbox if the textbox is not focused and user has not entered any text
@@ -326,7 +313,7 @@ function hideElementsIE() {}
 function showElementsIE() {}
 </script></head>
 <body topmargin="0" leftmargin="3" bgcolor="#FFFFFF" text="#000000">
-<div id="JScriptSource" class="hidden"><form name="frmScriptSrc" method="POST" action="/help/JScriptSource.asp"><input type="hidden" name="hidAction"><input type="hidden" name="hidScriptBlockCount"><table height="100" bgcolor="#F3F3F3" style="border-color:black" width="100%" border="2" cellpadding="0" cellspacing="0">   <tbody><tr>      <td valign="Top">         <table border="0" width="100%" cellpadding="0" cellspacing="0">            <tbody><tr class="sectionHeader">               <td colspan="2">                  ABF JavaScript Diagnostics               </td>               <td align="RIGHT">                  [<a class="sectionHeader" href="javascript:void(null)" onclick="showJScriptDiv();">Close</a>]               </td>            </tr>            <tr height="50">               <td width="10">                  &nbsp;               </td>               <td valign="TOP">                  <font class="formTxt">This section of abf.com is provided solely for the purpose of diagnosing and resolving JavaScript problems that customers may be experiencing with the ABF website. If you have reached this area inadvertantly, please use the 'Close' link in the upper-right-hand corner to continue using abf.com.</font>               </td>            </tr>            <tr>               <td width="10">                  &nbsp;               </td>               <td colspan="2"><select class="frm" name="cboAnalyst"><option value="">DTC Personnel</option><option value="Tina A">Tina A</option><option value="Larry W">Larry W</option><option value="Sherry D">Sherry D</option><option value="Stephen D">Stephen D</option><option value="Ryan E">Ryan E</option></select>                  <input type="BUTTON" name="cmdSend" value="Send Diagnostics" onclick="getScriptSource()">               </td>            </tr>         </tbody></table>      </td>   </tr></tbody></table></form></div><iframe id="overIFrame" src="/blank.htm" style="display:none; position:absolute; z-index:6;border:0;"></iframe>
+<iframe id="overIFrame" src="/blank.htm" style="display:none; position:absolute; z-index:6;border:0;"></iframe>
 <iframe height="0" width="0" id="saveIFrame" src="/blank.htm" style="display:inline; position:absolute; z-index:6;border:0;"></iframe>
 <iframe height="0" width="0" name="saveIFrame2" src="/blank.htm" style="display:inline; position:absolute; z-index:6;border:0;"></iframe>
 <div id="overDiv" style="position:absolute; visibility:hide; z-index:6; filter:revealTrans(transition=5, duration=.3) alpha(opacity=100);"></div>
@@ -464,7 +451,7 @@ txt = txt + "</TABLE></TD></TR></TABLE>"
 <li><a title="Save this page..." data-track="Save" href="javascript:SavePage();">save</a></li>
 </ul>
 <ul id="header-tabs">
-<li><a href="/tools/" onmouseover="menuUp(0, false);">Online Tools <img src="/images/new/tab_arrow.png" border="0"></a></li>
+<li id="header-tab-online-tools"><a data-track="Top Menu-Header Tab" href="/tools/" onmouseover="menuUp(0, false);">Online Tools <img src="/images/new/tab_arrow.png" border="0"></a></li>
 <li><a href="/services/" onmouseover="menuUp(7, false);">Services <img src="/images/new/tab_arrow.png" border="0"></a></li>
 <li><a href="/rteguide/">Coverage</a></li>
 <li><a href="/ecommerce/">eCommerce</a></li>
@@ -585,7 +572,7 @@ txt = txt + "</TABLE></TD></TR></TABLE>"
 </tbody></table>
 <div id="footer">
 <div id="footer-image"></div>
-<div id="footer-links"><a href="/copyright.asp">Copyright© 1995-2011 ABF Freight System, Inc. All Rights Reserved</a> | <a href="/termsofuse.asp">Terms of Use</a> | <a href="/privacy.asp">Privacy Policy</a></div></div>
+<div id="footer-links"><a href="/copyright.asp">Copyright© 1995-2012 ABF Freight System, Inc. All Rights Reserved</a> | <a href="/termsofuse.asp">Terms of Use</a> | <a href="/privacy.asp">Privacy Policy</a></div></div>
 
 
 </body></html>
