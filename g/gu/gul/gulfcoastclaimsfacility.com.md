@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the gulfcoastclaimsfacility.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110054453id_/http%3A//www.gulfcoastclaimsfacility.com/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gulfcoastclaimsfacility.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522225003id_/http%3A//gulfcoastclaimsfacility.com/privacy.pdf) for the most accurate reproduction.*
 
 # 
 
-                                                                                       Issued: 8/23/2010
                                       GULF COAST CLAIMS FACILITY
                                         WEBSITE PRIVACY POLICY
 I.   Scope
@@ -19,22 +18,22 @@ III. Information We Collect
      You may be required to provide personal information to access the site. To use some of the
      features offered on the site and to allow us to evaluate and process your claim, you may need to
      provide us information such as:
-          • your contact information (name, e-mail address, mailing address, phone number)
-          • your social security number or tax identification number
-          • your financial information
-          • medical information
+           your contact information (name, e-mail address, mailing address, phone number)
+           your social security number or tax identification number
+           your financial information
+           medical information
 IV.  How We Use and Share Your Information
      We use and disclose the information that you submit to us, including personal information, to:
-          • process a claim for compensation and any award resulting from that claim and to
+           process a claim for compensation and any award resulting from that claim and to
               communicate with you about the claim
-          • support the legitimate business purposes of the GCCF
-          • determine collateral source payments
-          • respond to law enforcement requests or where required by applicable laws, court orders,
+           support the legitimate business purposes of the GCCF
+           determine collateral source payments
+           respond to law enforcement requests or where required by applicable laws, court orders,
               or government regulations. We shall also disclose information to appropriate law
               enforcement authorities if we believe, in good faith, that the information submitted to us
               evidences fraud or that the site is being misused in a manner that may infringe upon the
               rights or property of GCCF, other visitors to the site, or anyone else.
-          • make periodic reports to interested parties, including BP Exploration & Production, Inc.
+           make periodic reports to interested parties, including BP Exploration & Production, Inc.
               (BP), regarding claims made and claims determinations
      We may provide reports that include non-personal information to state, local, and federal
      government officials and to BP to permit evaluation of the claims process.
@@ -105,7 +104,6 @@ XII. Contact Us/Unsubscribe
      information practices of this site, please contact us at:
      By e-mail: info@gccf-claims.com
      By mail: Gulf Coast Claims Facility
-                Kenneth R. Feinberg, Administrator
                 P.O. Box 9658
                 Dublin, OH 43017-4958
      If you do not wish to receive further e-mail from us, you may unsubscribe by contacting us at
