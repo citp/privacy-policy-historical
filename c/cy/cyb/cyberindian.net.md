@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberindian.net privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121235617id_/http%3A//www.cyberindian.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberindian.net privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522043507id_/http%3A//www.cyberindian.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
