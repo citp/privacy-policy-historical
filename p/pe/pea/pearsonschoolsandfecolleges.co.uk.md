@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pearsonschoolsandfecolleges.co.uk privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202041822id_/http%3A//www.pearsonschoolsandfecolleges.co.uk/Help/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearsonschoolsandfecolleges.co.uk privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522020603id_/http%3A//www.pearsonschoolsandfecolleges.co.uk/Help/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Pearson Education Privacy Policy
 
