@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the postcodelottery.co.uk privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121205822id_/http%3A//www.postcodelottery.com/AboutUs/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postcodelottery.co.uk privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522141536id_/https%3A//www.postcodelottery.co.uk/AboutUs/PrivacyPolicy.htm) for the most accurate reproduction.*
 
-# People's Postcode Lottery - Privacy Policy
+# People's Postcode Lottery UK - Privacy Policy
 
 ## Privacy Policy
 
@@ -59,7 +59,9 @@ The linked pages are provided for the convenience of our site users only and do 
 ** The People's Postcode Lottery will only employ cookies (that is, small data files that are downloaded to your computer) to store the necessary transaction information during your visit to our website[s]. For security reasons, there is never any personal data stored in our cookies. Most Internet browsers will allow you to change settings so that they do not accept cookies, although this may impair the operation of our website[s].
 
  **Legal Rights:  
-** You have legal rights of access to personal information that we hold about you and may review or update any personal information that is provided to us or collected through this website on written request to us. You can also inform us that you do not want us to send you written communications as discussed in "What type of information we collect and how it is used", above. If you want to exercise these rights or have any queries regarding this policy please e-mail [info@postcodelottery.com](mailto:info@postcodelottery.com "mailto:info@postcodelottery.com")
+**
+
+You have legal rights of access to personal information that we hold about you and may review or update any personal information that is provided to us or collected through this website on written request to us. You can also inform us that you do not want us to send you written communications as discussed in "What type of information we collect and how it is used", above. If you want to exercise these rights or have any queries regarding this policy please e-mail [info@postcodelottery.co.uk](mailto:info@postcodelottery.co.uk "mailto:info@postcodelottery.co.uk")
 
  **Security Statement:  
 ** As information security is critical to our activities People's Postcode Lottery attaches a lot of importance to the security of personal information. We handle personal information with commitment to ensure a secure environment that can be trusted to fulfil all confidentiality requirements. Documented steps are taken to safeguard information according to established security standards and procedures and we continually assess and use cutting-edge technology for protecting information.
@@ -70,4 +72,4 @@ People's Postcode Lottery uses and maintains strict physical, electronic and adm
 
 The company uses a comprehensive and effective security management program for the purpose of eliminating the risks posed by potential threats to the company's electronic information resources. The controls that have been put in place work to ensure that the company’s systems are protected against unauthorised access, disclosure, modification or destruction. Any person or group that accesses the company’s web-site and other e-systems must, however, recognise the responsibility to preserve the security and confidentiality of resources/systems and respect the right of other users.
 
- _© 2011 The People's Postcode Lottery’s Privacy Policy and Security Statement have been last updated: May 23, 2005_
+ _© 2012 The People's Postcode Lottery’s Privacy Policy and Security Statement have been last updated: May 23, 2005_
