@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uppababy.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128111330id_/http%3A//www.uppababy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uppababy.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522083125id_/http%3A//www.uppababy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,4 +28,4 @@ When you view one of our Web sites or advertisements, we may store some informat
 
 ## Whom to Contact
 
-If you have submitted individually identifiable information through the UPPAbaby Web site and would like that information deleted from our records, please contact us at [email] or call us at [phone]. We will delete this information from our existing files.
+If you have submitted individually identifiable information through the UPPAbaby Web site and would like that information deleted from our records, please contact us at [contact@uppababy.com](mailto:contact@uppababy.com) or call us at 781.413.3000. We will delete this information from our existing files.
