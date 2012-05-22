@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gideons.org privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525203022id_/http%3A//www.gideons.org/privacy/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gideons.org privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522160106id_/http%3A//www.gideons.org/privacy/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
