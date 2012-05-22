@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsblaster.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616190845id_/http%3A//www.kanatsiz.com/privacy2010.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsblaster.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522235958id_/http%3A//www.kanatsiz.com/privacy2010.pdf) for the most accurate reproduction.*
 
 # Kanatsiz Communications, Inc. Privacy Statement
 
