@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steamykitchen.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101163937id_/http%3A//steamykitchen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steamykitchen.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522053142id_/http%3A//steamykitchen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Steamy Kitchen Recipes
 
