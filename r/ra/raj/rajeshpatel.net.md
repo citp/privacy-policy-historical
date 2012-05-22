@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rajeshpatel.net privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204035053id_/http%3A//www.geeksdesk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rajeshpatel.net privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523011132id_/http%3A//www.geeksdesk.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Computer Tutorials, Tips & Tricks Blog | Windows, Mac, iPhone & Android Downloads, Articles & Resources - Geeksdesk.com
+# Privacy - Technology Blog - GeeksDesk
 
 ## **Privacy Policy for www.geeksdesk.com**
 
