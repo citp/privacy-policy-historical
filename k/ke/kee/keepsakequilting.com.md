@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the keepsakequilting.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121231930id_/http%3A//www.keepsakequilting.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keepsakequilting.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523013909id_/http%3A//www.keepsakequilting.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy and Security
 
-|  |  [](https://web.archive.org/web/20111121231930id_/http%3A//www.keepsakequilting.com/default.aspx)  
+|  |  [](https://web.archive.org/web/20120523013909id_/http%3A//www.keepsakequilting.com/default.aspx)  
 ---  
   
   * [Fabrics](http://www.keepsakequilting.com/fabrics.aspx)
@@ -19,7 +19,9 @@
         * [Extra Wide Backing](http://www.keepsakequilting.com/products/U3/U2/U2.L1/ExtraWide%20Backing.htm)
         * [Pre-Cut Backing](http://www.keepsakequilting.com/products/U3/U13/U5.L1/pre-cut.htm)
       * [Flannels](http://www.keepsakequilting.com/products/U101/U5/U5.L30/Flannel%20Fabric.htm)
+      * [Minkee](http://www.keepsakequilting.com/products/U3/U5/U5.L25/Minkee.htm)
     * [Fabric Medleys](http://www.keepsakequilting.com/products/U3/U5/Fabric-Medleys.htm)
+      * [All Medleys](http://www.keepsakequilting.com/products/U3/U5/U5.L32/ALL%20Quilt%20Medleys.htm)
       * [Americana Country](http://www.keepsakequilting.com/products/U3/U5/U5.L19/Americana-Country.htm)
       * [Animals](http://www.keepsakequilting.com/products/U3/U5/U5.L3/Animals.htm)
       * [Applique Textures](http://www.keepsakequilting.com/products/U3/U5/U5.L4/Applique-Textures.htm)
@@ -41,6 +43,7 @@
       * [Solids](http://www.keepsakequilting.com/products/U3/U5/U5.L16/Solids.htm)
       * [Southwestern](http://www.keepsakequilting.com/products/U3/U5/U5.L17/Southwestern.htm)
     * [Fabric Collections](http://www.keepsakequilting.com/products/U3/U6/Fabric-Collections.htm)
+      * [All Fabric Collections](http://www.keepsakequilting.com/products/U3/U6/U6.L2/ALL%20Fabric%20Collections.htm)
       * [Bali Blenders](http://www.keepsakequilting.com/products/U3/U6/U6.L6/Bali-Blenders.htm)
       * [Color Collections](http://www.keepsakequilting.com/products/U3/U6/U6.L7/Color_Collections.htm)
       * [Hoffman Bali Pops](http://www.keepsakequilting.com/products/U3/U6/U16.L7/Hoffman_Bali_Pops.htm)
@@ -48,6 +51,7 @@
       * [Scrapbags](http://www.keepsakequilting.com/products/U6/U6.L8/Scrapbags.htm)
       * [Tonga Treats Strip Coll](http://www.keepsakequilting.com/products/U3/U6/U6.L10/Tonga%20Treats%20Strip%20Collections.htm)
     * [Keepsake Exclusives](http://www.keepsakequilting.com/products/U3/U16/Keepsake-Exclusives.htm)
+      * [All Exclusives](http://www.keepsakequilting.com/products/U3/U16/U16.L11/ALL%20Exclusive%20at%20Keepsake.htm)
       * [Bitty Bundles](http://www.keepsakequilting.com/products/U3/U16/U16.L6/Bitty-Bundles.htm)
       * [Charm Packs](http://www.keepsakequilting.com/products/U3/U16/U16.L2/Charm-Packs.htm)
       * [KQ Kits](http://www.keepsakequilting.com/products/U3/U16/U16.L8/KQ-Kits.htm)
@@ -64,6 +68,7 @@
     * [Wholecloth Kits](http://www.keepsakequilting.com/products/U8/U8.L6/Wholecloth-Kits.htm)
     * [Block of the Month Kits](http://www.keepsakequilting.com/products/U8/U8.L3/Block-of-the-Month-Kits.htm)
   * [Books](http://www.keepsakequilting.com/products/U11/Books.htm)
+    * [All Books](http://www.keepsakequilting.com/products/U11/U11/U11.L25/ALL%20Quilt%20Books.htm)
     * [Americana Country Theme](http://www.keepsakequilting.com/products/U11/U11.L1/Americana-Country-Theme.htm)
     * [Animal](http://www.keepsakequilting.com/products/U11/U11.L2/Animal.htm)
     * [Applique](http://www.keepsakequilting.com/products/U11/U11.L3/Applique.htm)
@@ -135,9 +140,7 @@ Be the first to know about new products, sales & exclusive offers!  [Sign Up](h
   
 |  | 
 
-Keepsake Quilting's Privacy & Security Commitment
-
-|   | 
+**Keepsake Quilting's Privacy & Security Commitment**
 
 **PRIVACY POLICY**
 
@@ -198,4 +201,4 @@ When you make a purchase, request a catalog or create an account on our Web site
   From time to time, we may use your information for new, unanticipated uses not previously disclosed in this Privacy Policy. If our information practices change at some time in the future, we will post the policy changes here.  
   If you believe that this site is not following its stated information policy, you may contact us at the above address and state or local chapters of the Better Business Bureau.  
   
----|---
+---
