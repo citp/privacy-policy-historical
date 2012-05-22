@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eddiebauer.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103143314id_/http%3A//www.eddiebauer.com/custserv/custserv.jsp%3FsectionId%3D310) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eddiebauer.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522234556id_/http%3A//www.eddiebauer.com/custserv/custserv.jsp%3FsectionId%3D310) for the most accurate reproduction.*
 
 # Eddie Bauer | Eddie Bauer Privacy & Security Policies
 
@@ -74,7 +74,7 @@ We evaluate each request and will reply in an appropriate manner and in a form o
 
 ####  How do I know my information is secure?
 
-We have appropriate security measures in place to protect against the loss, misuse or alteration of information that we have collected from you so you can feel comfortable and secure when shopping. We use industry-standard encryption technologies when transferring and receiving your personal information. On the Internet, when you see either a solid key icon or a locked padlock icon at the lower portion of your browser window, this indicates that the site is secured through Secure Sockets Layer (SSL). Pages requesting personal information should always have one of these icons. If you do not see one of these icons, please contact us to complete your transaction over the phone by calling 1-800-426-8020. When you apply on-line for an Eddie Bauer Charge Card, we will direct you to the World Financial National Bank (WFNB) website. See the WFNB website for information on its privacy statement. 
+We have appropriate security measures in place to protect against the loss, misuse or alteration of information that we have collected from you so you can feel comfortable and secure when shopping. We use industry-standard encryption technologies when transferring and receiving your personal information. On the Internet, when you see either a solid key icon or a locked padlock icon at the lower portion of your browser window, this indicates that the site is secured through Secure Sockets Layer (SSL). Pages requesting personal information should always have one of these icons. If you do not see one of these icons, please contact us to complete your transaction over the phone by calling 1-800-426-8020. When you apply on-line for an Eddie Bauer Charge Card, we will direct you to the World Financial Network Bank (WFNNB) website. See the WFNNB website for information on its privacy statement. 
 
 ###  How to Report Fraud
 
