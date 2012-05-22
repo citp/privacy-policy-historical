@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gobingoo.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102013356id_/http%3A//www.gobingoo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gobingoo.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522115453id_/http%3A//www.gobingoo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Gobingoo.com
+# Privacy Policy - Gobingoo
 
 #### What information do we collect?
 
@@ -88,4 +88,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 http://www.gobingoo.com  
-email: privacy [at] gobingoo [dot]com
+email: [privacy@gobingoo.com](mailto:privacy@gobingoo.com)
