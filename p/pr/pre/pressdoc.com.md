@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pressdoc.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104080743id_/http%3A//pressdoc.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressdoc.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522060320id_/http%3A//pressdoc.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - PressDoc
 
