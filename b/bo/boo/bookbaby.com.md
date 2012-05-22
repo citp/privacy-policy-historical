@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bookbaby.com privacy policy that was archived on 2011-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111027222649id_/http%3A//www.bookbaby.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookbaby.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522144947id_/http%3A//www.bookbaby.com/privacy) for the most accurate reproduction.*
 
-# BookBaby | Terms of Service
+# BookBaby Privacy Policy
 
 Please read the following to learn more about our privacy policy. By visiting the BookBaby managed domains (including, but not limited to, www.bookbaby.com) and websites or domain name, or any other linked pages, features, content, or application services offered from time to time by BookBaby in connection therewith (collectively, the "Website"), submitting information, or using any of our services, you acknowledge that you accept the practices and policies outlined in this privacy policy (the "Privacy Policy").
 
