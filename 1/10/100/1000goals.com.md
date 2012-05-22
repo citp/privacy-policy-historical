@@ -1,9 +1,12 @@
-> *The following text is extracted and transformed from the 1000goals.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210204403id_/http%3A//www.1000goals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1000goals.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522040114id_/http%3A//www.1000goals.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | Football highlights-Man Utd, Liverpool, Chelsea, Arsenal...
+# Privacy | EURO 2012 highlights, England, Spain, Germany, Netherlands, Portugal, Italy, France, Sweden, Denmark, Croatia, Ireland
 
+| [](http://www.clixsense.com/?2083417)  
+---|---  
+  
 Third Party Advertising:  
-We serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
+We serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and [other](http://www.1000goals.com/category/football-betting-blog/other "other") Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
 
 Third Party Cookies:  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
