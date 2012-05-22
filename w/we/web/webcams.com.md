@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcams.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123184930id_/http%3A//www.webcams.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcams.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522233017id_/http%3A//www.webcams.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Webcams.com - Privacy Policy
 
@@ -58,10 +58,6 @@ Visitors who wish to access or change the information they provided to our web s
 
 Visitors who have any questions about this Privacy Policy, the practices of this site, or their interactions with this web site, should visit the Support section of this site and contact us via Email. 
 
-### HOW CAN YOU OPT OUT OF PROMOTIONAL EMAILS?
+© Copyright 2005-2012 Webcams.com, All Rights Reserved.
 
-At the bottom of every email we provide detailed opt out instructions along with a toll free number if you are having problems removing your name from the mailing list.  Alternatively, you can opt out by visiting the following URL: [ /optout.php](https://web.archive.org/optout.php).  Once you go here, enter the email address that is receiving emails and press the submit button.  This will permanently remove your name from the mailing list.
-
-© Copyright 2005-2011 Webcams.com, All Rights Reserved.
-
-[Click Here to contact Customer Support](https://web.archive.org/web/20111123184930id_/http%3A//www.webcams.com/index.php?action=MailSupport)
+[Click Here to contact Customer Support](https://web.archive.org/web/20120522233017id_/http%3A//www.webcams.com/index.php?action=MailSupport)
