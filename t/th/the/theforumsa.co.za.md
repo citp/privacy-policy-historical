@@ -1,29 +1,12 @@
-> *The following text is extracted and transformed from the theforumsa.co.za privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424072727id_/http%3A//www.theforumsa.co.za/wiki/index.php%3Ftitle%3DThe_Forum_SA_Wiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theforumsa.co.za privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523010104id_/http%3A//www.theforumsa.co.za/wiki/index.php%3Ftitle%3DThe_Forum_SA_Wiki%3APrivacy_policy) for the most accurate reproduction.*
 
-# The Forum SA Wiki:Privacy policy - The Forum SA Wiki
+# The Forum SA Wiki:Privacy policy - The Forum SA
+
+### From The Forum SA
 
 Profile information is managed by the vBulletin forum software installed on this site. Details of The Forum SA's privacy policy is set out below. 
 
-## Contents
-
-  * 1 Summary
-  * 2 Publishing on The Forum SA and public data
-    * 2.1 Identification of an author
-    * 2.2 Cookies
-    * 2.3 Passwords
-  * 3 Private logging
-    * 3.1 Policy on release of data derived from page logs
-  * 4 Adservers
-  * 5 Sharing information with third parties
-  * 6 Security of information
-  * 7 E-mail and mailing lists
-    * 7.1 E-mail
-    * 7.2 Mailing lists
-  * 8 User data
-    * 8.1 Removal of user accounts
-  * 9 Deletion of content
-
-
+#### Contents
 
 ##  Summary 
 
@@ -37,13 +20,13 @@ Simply visiting the web site does not expose your identity publicly (but see pri
 
 When you make any post in the forum or edit any page in the wiki, **you are publishing a document**. This is a public act, and you are identified publicly with that edit as its author. 
 
-###  Identification of an author 
+### 
 
 Only registered members may make posts in the forum area and edit or publish a page in the wiki. 
 
 If you are logged in, you will be identified by your user name. This may be your real name if you so choose, or you may choose to publish under a pseudonym, whatever user name you selected when you created your account. 
 
-When using a user name, your IP address will not be available to the public except in cases of abuse, including vandalism of a wiki page by you or by another user with the same IP address. In all cases, your IP address will be stored on the wiki servers and can be seen by Wikimedia's server administrators and by users who have been granted "[CheckUser](https://web.archive.org/wiki/index.php/CheckUser "CheckUser")" access. Your IP address, and its connection to any usernames that share it may be released under certain circumstances (see below). 
+When using a user name, your IP address will not be available to the public except in cases of abuse, including vandalism of a wiki page by you or by another user with the same IP address. In all cases, your IP address will be stored on the wiki servers and can be seen by Wikimedia's server administrators and by users who have been granted "[CheckUser](https://web.archive.org/wiki/index.php?title=CheckUser&action=edit&redlink=1 "CheckUser \(page does not exist\)")" access. Your IP address, and its connection to any usernames that share it may be released under certain circumstances (see below). 
 
 Remember to log out or disconnect yourself after each session using a pseudonym on a shared computer, to avoid allowing others to use your identity. 
 
