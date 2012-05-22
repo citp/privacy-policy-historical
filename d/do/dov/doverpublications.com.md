@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the doverpublications.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210074329id_/http%3A//store.doverpublications.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doverpublications.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522200013id_/http%3A//store.doverpublications.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Dover Publications Privacy Policy
 
 **Dover Publications Privacy Policy**  
-Last updated 9/09/11
+Last updated 4/23/12
 
-Customers have trusted Dover Publications Inc. ("Dover Publications") to protect their privacy for over fifty years. Whether you've been buying books from us since 1948 or are new to the Dover family, rest assured we plan to earn your trust every day. That's why we've always backed our products with an unconditional money back guarantee. It's also the reason we've created this Privacy Policy for DoverPublications.com. We want you to understand what information we collect and what we will—and won't do with it. By visiting DoverPublications.com you agree to accept the practices described in this Privacy Policy.
+Customers have trusted Dover Publications Inc. ("Dover Publications") to protect their privacy for over fifty years. Whether you've been buying books from us since 1948 or are new to the Dover family, rest assured we plan to earn your trust every day. It's also the reason we've created this Privacy Policy for DoverPublications.com. We want you to understand what information we collect and what we will—and won't do with it. By visiting DoverPublications.com you agree to accept the practices described in this Privacy Policy.
 
  **What Information Does Dover Publications Collect About Customers?** We gather information so that we can improve and personalize your shopping experience with Dover Publications. Information that we collect falls in to four primary categories.
 
