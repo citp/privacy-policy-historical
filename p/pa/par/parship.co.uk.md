@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the parship.co.uk privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016041043id_/http%3A//www.parship.co.uk/privacy-policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parship.co.uk privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522191333id_/http%3A//uk.parship.com/privacy-policy/index.htm) for the most accurate reproduction.*
 
 # Privacy policy | PARSHIP.co.uk
 
 ## Privacy policy
 
-### This website is owned and operated by PARSHIP GMBH, Brandstwiete 1, 20457, Hamburg, Germany.
+### This website is owned and operated by PARSHIP GMBH, Speersort 10, 20095, Hamburg, Germany.
 
 PARSHIP has created this privacy statement in order to demonstrate our firm commitment to your right to privacy and data protection. We handle all our information gathering and dissemination procedures with every reasonable safeguard for your protection. 
 
