@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbscorporation.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121230831id_/http%3A//www.cbscorporation.com/page.php%3Fid%3D228) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbscorporation.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522033847id_/http%3A//www.cbscorporation.com/page.php%3Fid%3D228) for the most accurate reproduction.*
 
 # CBS Corporation | Privacy Policy
 
