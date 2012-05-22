@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gadgets.in privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222200146id_/http%3A//www.gadgets.in/main/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadgets.in privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522114411id_/http%3A//www.gadgets.in/main/privacypolicy) for the most accurate reproduction.*
 
 # Buy Privacy Policy|gadgets|online shop| Gadgets.in|Online Shop India
 
