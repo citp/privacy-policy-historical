@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiwt.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119221718id_/http%3A//wiwt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiwt.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522204523id_/http%3A//wiwt.com/privacy) for the most accurate reproduction.*
 
 # Editor's Choice | WIWT.com
 
