@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skoosh.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205011346id_/http%3A//www.skoosh.com/content/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skoosh.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522142948id_/http%3A//www.skoosh.com/content/privacy.html) for the most accurate reproduction.*
 
 # Skoosh Privacy Policy
 
