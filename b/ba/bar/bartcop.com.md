@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bartcop.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122000036id_/http%3A//www.bartcop.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bartcop.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522044347id_/http%3A//www.bartcop.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # BartCop.com - Privacy Policy at BartCop.com and BartBlog
 
