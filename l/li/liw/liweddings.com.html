@@ -1,9 +1,11 @@
-<!--The following is the downloaded HTML source of the liweddings.com privacy policy that was archived on 2011-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111121235952id_/http%3A//liweddings.com/pages/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the liweddings.com privacy policy that was archived on 2012-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120522043633id_/http%3A//www.liweddings.com/pages/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
 <link rel="shortcut icon" href="/i/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" href="/i/favicon.ico">
+
 <link href="/styles.css" rel="stylesheet" type="text/css" media="print, handheld, screen">
 <!--Captures Browser type and directs to proper css file-->
 
@@ -17,33 +19,47 @@
 </style>
 <link rel="stylesheet" href="/nav.css" type="text/css">
 <link href="/in/StyleSheet.css" rel="stylesheet" type="text/css">
-
+<link href="/in/jquery/jquery.qtip.min.css" rel="stylesheet" type="text/css">
 <link href="/jquery-ui-1.8.14.custom.css" rel="stylesheet" type="text/css">
-<script language="javascript" type="text/javascript" src="/in/jquery/jquery-1.7.min.js"></script>
+<script language="javascript" type="text/javascript" src="/in/jquery/jquery-1.7.1.min.js"></script>
 <script language="javascript" type="text/javascript" src="/in/jquery/jquery-ui-1.8.14.custom.min.js"></script>
 <script language="javascript" type="text/javascript" src="/in/jquery/combobox.js"></script>
 <script language="javascript" type="text/javascript" src="/in/jquery/popup.js"></script>
-
+<script src="/in/jquery/jquery.qtip.min.js" type="text/javascript"></script>
 
 
 
 
 <script type="text/javascript">
-	<!--
-		if (top.location!= self.location) {
-			top.location = self.location.href
-		}
+//alert(self.location + ' ' + 'http://www.liweddings.com/pages/privacy.aspx')
+var hT=false
 
-	//-->
 
 $(function(){
+$.ajaxSetup({
+cache: false
+});
+//$(document).on('mouseenter','.cC',function(){
+//alert('d')
+//})
+
+
+//$(document).on('click', '#Xlogo-zone',function(){
+//hT=false
+//})
+ //$(document).on('mouseenter', '#Xlogo-zone', function () {
+//	if(hT==true){return false;}
+//		hT=true
+  //    $.getScript('/in/jquery/msg.js')
+    //});
 var result=document.title
 result=result.replace(/liweddings.com/gi,"").replace(/long island weddings/gi,"").replace(/-/,"").replace(/wedding forums/gi,"")
-//alert(result)
+
 $('.addNotebook').click(function(){
+//alert(encodeURIComponent($(location).attr('href')))
 if(!result==""){
 
-window.location='/planning/notebook/add.aspx?D='+result+'&P='+$(location).attr('href');
+window.location='/planning/notebook/add.aspx?D='+result+'&P='+encodeURIComponent($(location).attr('href'));
 }else{
 alert('This Page Cannot Currently be added to your notebook.');
 }
@@ -61,17 +77,21 @@ function rfsh(){
 if ($('#rban').exists()){
 rh=$('#rban1').height()+'px';
 $('#rban1').css('min-height',rh);
-$('#rban').hide("fold", { direction: "left" }, 2000,function(){
+$('#rban').hide("fade", { direction: "left" }, 2000,function(){
 
 
 $('#rban').load('/in/rbanJ.aspx',function(){
-$('#rban').delay().show("fold", { direction: "left" }, 2000);
+setTimeout(function(){
+$('#rban').show("fade", 2000);
+},2000)
 });
 });
 }
 }
 
 $(function() {
+var picachu = $("#sUbS").position()
+$("#Xlogo-zone").css({ position: "absolute", top: picachu.top - 10, left: picachu.left + 110 })
 jQuery.fn.exists = function(){return jQuery(this).length>0;}
 
 //Head Banner Click
@@ -117,14 +137,27 @@ if ($('#rban').exists()){
 foh =setInterval('rfsh()',60000)
 foh;
 }
-$.getScript('/in/jquery/jquery.tools.min.js',function(){
 
-$('#searchSite').tooltip({ events: {
-	input: "mouseover ,mouseout focus"
-},
- offset: [130,0],effect: 'slide'}).dynamic({ right: { direction: 'up', bounce: true } });
 
-});
+
+  $(document).on('mouseover', '#searchSite', function () {
+            
+            
+                $(this).qtip({
+                    content: 'Search Wedding Vendors,<br />Articles, Store Items,<br /> Message Boards',
+
+                    position: {
+                        my: 'topRight',
+                        at: 'bottomLeft'
+                    },
+                    show: {
+                        ready: true // Needed to make it show on first mouseover event
+                    },
+                    style: {
+                        classes: 'ui-tooltip-shadow ui-tooltip-jtools'
+                    }
+                });
+  });  
 $('#search_form').submit(function(e){
 if( $('#searchSite').val()=="Search LIWeddings.com" || $('#searchSite').val().length<3){
 
@@ -139,8 +172,8 @@ return true;
 $('.sglss').click(function(){
 $('#search_form').submit();
 });
-$(document).on('click','#searchSite',function(){
-$(this).val("").focus();
+$('#searchSite').click(function(){
+$(this).val("");
 });
 
 $('.DatePicker').datepicker({
@@ -237,7 +270,11 @@ var sazxd6n = "";
 
 <meta name="description" content="LONG ISLAND WEDDINGS makes planning your wedding easy! Enter our online contest, post your engagement, wedding columnist, wedding stories, wedding classifieds, wedding albums">
 <meta name="keywords" content="long island weddings,caterers,weddings,bride,groom,long island,bakeries,balloons,decorations,bands,bridal gowns,bridal shows,calligraphy,catering,ceremony locations,consultants,cosmetic dentistry,dance instruction,disc jockeys,dj,equipment rentals,favors,florists,gift registries,health,beauty,ice sculptors,insurance,invitations,jewelers,limousines,lodging,guests,music,ceremony,photographers,real estate,reception state laws,regulations,travel agents,honeymoons,tuxedos,videographers,nassau,suffolk,queens,manhattan,nyc,brooklyn,westchester,new york">
-
+<meta name="format-detection" content="telephone=no">
+<meta content="US-NY" name="geo.region">
+<meta content="MEDFORD" name="geo.placename">
+<meta content="40.842124; -72.995318" name="geo.position">
+<meta content="40.842124, -72.995318" name="ICBM">
 
 
 </head>
@@ -247,7 +284,7 @@ var sazxd6n = "";
 <div id="MPPB"></div>
 <div id="MPP">
 <p id="MPPC"><img style="float:right;margin-right: -35px;margin-top:-15px;" src="/i/CloseButton.png"></p>
-<p id="MPL" style=""><img src="/i/li/logo_popup.png"></p>
+<p id="MPL" style=""><img style="display:block;margin: 0 auto;" src="/i/li/logo_popup.png"></p>
 
 
 <div align="center" style="" id="MPPLoad">
@@ -266,7 +303,7 @@ var sazxd6n = "";
   </div>
   <div class="wrapperHeaderRight">
 <div class="adTop">
-	<p><a class="mHbC" rel="mHbC" ref="107" title="Feldman Esquire Tuxedos" href="/vendors/tuxedos/feldman-esquire-tuxedos/"><img src="/i/hb/107.jpg" alt="Feldman Esquire Tuxedos"></a></p>
+	<p><a class="mHbC" rel="mHbC" ref="79" title="The Vineyards - reception location - catering hall - wedding venue - reception locations - reception - catering halls" href="/vendors/reception-locations/the-vineyards/"><img src="/i/hb/79.jpg" alt="The Vineyards - reception location - catering hall - wedding venue - reception locations - reception - catering halls"></a></p>
 	
 </div> 
 <div class="loginTop">
@@ -294,7 +331,7 @@ document.cookie="Resolution=" + screen.width + "x" + screen.height + "; expires=
 
 </div>
 <div class="searchTop">
-<p class="buttonsTopHeader"><a title="Calendar" href="/mywedding/calendar/"><img src="/i/btnCalendarTop.gif" width="31" height="30" alt="Calender"></a><a title="Budget Calulator" href="/mywedding/budget/"><img src="/i/btnCalculatorTop.gif" width="31" height="30" alt="Budget Calulator"></a><a title="Guests" href="/mywedding/guests/"><img src="/i/btnCoupleTop.gif" width="31" height="30" alt="Guests"></a><a title="To do List" href="/mywedding/todo/"><img src="/i/btnListTop.gif" width="31" height="30" alt="To do list"></a><a title="My Vendors" href="/mywedding/vendors/"><img alt="My Vendors" src="/i/btnFavoritesTop.gif" width="31" height="30"></a></p>
+<p class="buttonsTopHeader"><a title="Calendar" href="/mywedding/calendar/"><img src="/i/btnCalendarTop.gif" width="31" height="30" alt="Calender"></a><a title="Budget Calulator" href="/mywedding/budget/"><img src="/i/btnCalculatorTop.gif" width="31" height="30" alt="Budget Calulator"></a><a title="Guests" href="/mywedding/guests/"><img src="/i/btnCoupleTop.gif" width="31" height="30" alt="Guests"></a><a title="To do List" href="/mywedding/todo/"><img src="/i/btnListTop.gif" width="31" height="30" alt="To do list"></a><a title="My Vendors" href="/mywedding/vendors/"><img alt="My Vendors" id="boWL" src="/i/btnFavoritesTop.gif" width="31" height="30"></a></p>
 
 
 
@@ -305,14 +342,14 @@ document.cookie="Resolution=" + screen.width + "x" + screen.height + "; expires=
 <div class="navTop1">
 
 <ul id="css3menu1" class="topmenu">
-	<li class="toproot"><a href="/vendors/" title="Vendors"><span>Vendors</span></a>
+	<li class="toproot"><a title="Vendors" href="/vendors/"><span>Vendors</span></a>
 	<div class="submenu" style="width:286px;">
 	<div class="column" style="width:49.33%; border-right: thin dotted #95613E;"><ul>
 		<li><a href="/vendors/" title="Services"><img src="/i/menu_V_Services.png" alt="Services">Services&nbsp;&nbsp;</a></li>
 		<li><a href="/vendors/showcases.aspx" title="Shows"><img src="/i/menu_VShows.png" alt="Shows">Shows&nbsp;&nbsp;</a></li>
 		<li><a href="/vendors/promotions.aspx" title="Promotions"><img src="/i/menu_V_Promos.png" alt="Promotions">Promotions&nbsp;&nbsp;</a></li>
-	
 		<li><a href="/vendors/vendor_ratings.aspx" title="Testimonials"><img src="/i/menu_V_Tstm.png" alt="Testimonials">Testimonials&nbsp;&nbsp;</a></li>
+		<li><a href="/vendors/best-of-long-island-weddings.aspx" title="Best of..."><img src="/i/best-of.png" alt="Best of...">Best of...</a></li>
 </ul></div>
 	<div class="column" style="width:48.33%"><ul>
 		<li><a href="/vendors/diamond-card/" title="Diamond Card"><img src="/i/menu_V_DiamondCard.png" alt="Diamond Card">Diamond Card&nbsp;&nbsp;</a></li>
@@ -323,7 +360,7 @@ document.cookie="Resolution=" + screen.width + "x" + screen.height + "; expires=
 	</ul></div></div>
 
 	</li>
-	<li class="toproot"><a href="/chat/"><span>Chat</span></a>
+	<li class="toproot"><a title="Chat" href="/chat/"><span>Chat</span></a>
 	<div class="submenu" style="width:315px;">
 	<div class="column" style="width:49.99%; border-right: thin dotted #95613E;"><ul>
 		<li><a href="/chat/forums-1.html" title="Wedding Chat"><img src="/i/menu_WedChat.png" alt="Wedding Chat">Wedding Chat&nbsp;&nbsp;</a></li>
@@ -333,17 +370,18 @@ document.cookie="Resolution=" + screen.width + "x" + screen.height + "; expires=
 	<div class="column" style="width:47%"><ul>
 		<li><a href="/pages/acronyms.aspx" title="Chat Lingo"><img src="/i/menu_ChatLingo.png" alt="Chat Lingo">Chat Lingo&nbsp;&nbsp;</a></li>
 		<li><a id="fpw" href="/pages/forgotpassword.aspx" title="Forgot Password?"><img src="/i/menu_ForgotPW.png" alt="Forgot Password?">Forgot Password?</a></li>
+		<li><a href="/chat/rules.aspx" title="Rules"><img src="/i/menu_ChatRules.png" alt="Rules">Rules</a></li>
 	</ul></div></div>
 
 	</li>
-	<li class="toproot"><a href="/planning/" title="Planning"><span>Planning</span></a>
+	<li class="toproot"><a title="Planning" href="/planning/"><span>Planning</span></a>
 	<div class="submenu" style="width:337px;">
 	<div class="column" style="width:49.33%; border-right: thin dotted #95613E;"><ul>
 		<li><a href="/planning/location-guide.aspx" title="Reception Guide"><img src="/i/menu_ReceptionLocations.png" alt="Reception Guide">Reception Guide&nbsp;&nbsp;</a></li>
 		<li><a href="/planning/marriage_license/" title="Marriage License"><img src="/i/menu_MarriageLicense.png" alt="Marriage License">Marriage License&nbsp;&nbsp;</a></li>
 	<!--	<li><a href="/planning/gowns/" title="Gowns"><img src="/i/menu_Gowns.png" alt="Gowns"/>Gowns&nbsp;&nbsp;&nbsp;&nbsp;</a></li>  -->
 	
-		<li><a href="/planning/wedding_songs/" title="Songs"><img src="/i/menu_Songs.png" alt="Songs">Songs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+		<li><a href="/planning/wedding_songs/" title="Wedding Songs"><img src="/i/menu_Songs.png" alt="Wedding Songs">Wedding Songs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
 </ul></div>
 	<div class="column" style="width:49.33%"><ul>
 		<li><a href="/planning/articles/" title="Articles"><img src="/i/menu_Articles.png" alt="Articles">Articles&nbsp;&nbsp;</a></li>
@@ -353,7 +391,7 @@ document.cookie="Resolution=" + screen.width + "x" + screen.height + "; expires=
 	</ul></div></div>
 
 	</li>
-	<li class="toproot"><a href="/community/"><span>Community</span></a>
+	<li class="toproot"><a title="Community" href="/community/"><span>Community</span></a>
 	<div class="submenu" style="width:310px;">
 	<div class="column" style="width:49.33%; border-right: thin dotted #95613E;"><ul>
 		<li><a href="/community/real_weddings/" title="Real Weddings"><img src="/i/menu_Cm_RealWeddings.png" alt="Real Weddings">Real Weddings&nbsp;&nbsp;</a></li>
@@ -372,14 +410,14 @@ document.cookie="Resolution=" + screen.width + "x" + screen.height + "; expires=
 	</ul></div></div>
 
 	</li>
-	<li class="toproot"><a href="/mywedding/"><span>My Wedding</span></a>
+	<li class="toproot"><a title="My Wedding" href="/mywedding/"><span>My Wedding</span></a>
 	<div class="submenu1" style="width:477px;">
 	<div class="column" style="width:165px;border-right: thin dotted #95613E;margin-left:5px;margin-top:3px;"><ul>
 		<li><a href="/mywedding/engagement/" title="My Engagement"><img src="/i/menu_MyEngagement.png" alt="My Engagement">My Engagement&nbsp;&nbsp;</a></li>
 		<li><a href="/mywedding/engagement/email.aspx" title="Email Engagement"><img src="/i/menu_EmailEngagement.png" alt="Email Engagement">Email Engagement</a></li>
 		<li><a href="/mywedding/budget/" title="Budget Calculator"><img src="/i/menu_BudgetCalc.png" alt="Budget Calculator">Budget Calculator</a></li>
 		<li><a href="/mywedding/guests/" title="Wedding Guests"><img src="/i/menu_WedGuests.png" alt="Wedding Guests">Wedding Guests&nbsp;&nbsp;</a></li>
-		<li><a href="/guests/report.aspx" title="Guest Report"><img src="/i/menu_GuestReport.png" alt="Guest Report">Guest Report</a></li>
+		<li><a href="/mywedding/guests/report.aspx" title="Guest Report"><img src="/i/menu_GuestReport.png" alt="Guest Report">Guest Report</a></li>
 		
 		<li><a href="/mywedding/thelist/" title="A, B &amp; C Lists"><img src="/i/menu_ABC_lists.png" alt="A, B &amp; C Lists">A, B &amp; C Lists</a></li>
 		<li><a href="/mywedding/seating/" title="Seating Chart"><img src="/i/menu_SeatingChart.png" alt="Seating Chart">Seating Chart</a></li>
@@ -388,7 +426,7 @@ document.cookie="Resolution=" + screen.width + "x" + screen.height + "; expires=
 		
 		
 	</ul></div>
-<div class="column" style="width:155px;;border-right: thin dotted #95613E;margin-left:5px;"><ul>
+<div class="column" style="width:155px;border-right: thin dotted #95613E;margin-left:5px;"><ul>
 		<li><a href="/mywedding/notebook/" title="Notebook"><img src="/i/menu_Notebook.png" alt="Notebook">Notebook</a></li>
 		<li><a href="/mywedding/vendors/" title="My Vendors"><img src="/i/menu_MyVendors.png" alt="My Vendors">My Vendors</a></li>			
 		<li><a href="/mywedding/calendar/" title="Calendar"><img src="/i/menu_Calendar.png" alt="Calendar">Calendar</a></li>
@@ -420,7 +458,7 @@ document.cookie="Resolution=" + screen.width + "x" + screen.height + "; expires=
 
 	</li>
 	
-	<li class="toproot"><a href="/store/" title="Store"><span>Store</span></a>
+	<li class="toproot"><a title="Store" href="/store/"><span>Store</span></a>
 	<div class="submenu1" style="width:110px;">
 	<div class="column" style="width:40.33%"><ul style="margin-top:5px;">
 		<li><a href="/store/" title="Shop"><img src="/i/menu_Shop.png" alt="View Cart">Shop</a></li>
@@ -429,7 +467,7 @@ document.cookie="Resolution=" + screen.width + "x" + screen.height + "; expires=
 	</ul></div></div>
 
 	</li>
-	<li class="toproot"><a href="/contest/" title="Contest"><span>Contest</span></a>
+	<li class="toproot" id="sUbS"><a title="Contest" href="/contest/"><span>Contest</span></a>
 	<div class="submenu1" style="width:150px;">
 	<div><ul align="right" style="margin-top:5px;">
 		<li><a href="/contest/" title="Enter the Contest"><img src="/i/menu_EnterContest.png" alt="Enter the Contest">Enter the Contest</a></li>
@@ -446,12 +484,12 @@ document.cookie="Resolution=" + screen.width + "x" + screen.height + "; expires=
 </div>
 <div class="secondNavTopHome">
   <ul class="nav2Home">
-  <li><a class="rcptionloc" href="/planning/location-guide.aspx">Click Here To View The Reception Location Guide</a>
+  <li><a style="min-width:300px" class="rcptionloc" title="Click Here To View The Reception Location Guide" href="/planning/location-guide.aspx">Click Here To View The Reception Location Guide</a>
       </li><!--<li style="border-right:solid 1px brown;float:left; background:url(/i/bgNavTopSep1.gif) repeat-y scroll right top transparent;width: .1em;height:16px;margin-top:-10px;">-->
 	<li><form action="/search/" id="search_form">
-<input type="text" id="searchSite" name="Search" class="strsrchid" value="Search LIWeddings.com" title="Search Wedding Vendors, Articles, Store Items, Message Boards">
+<input type="text" id="searchSite" name="Search" class="strsrchid ui-autocomplete-input" value="Search LIWeddings.com" title="Search Wedding Vendors, Articles, Store Items, Message Boards" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true"><img class="sglss" src="/i/btnSearchMagn.png">
 
-</form><img class="sglss" src="/i/btnSearchMagn.png"></li>
+</form></li>
     </ul>
 
 </div>    
@@ -464,67 +502,87 @@ document.cookie="Resolution=" + screen.width + "x" + screen.height + "; expires=
     <p class="introLIW"><span class="bold">Long Island Weddings ™</span><br>
       Welcome to LIWeddings.com™ your community for Long Island Weddings™</p>
       <div class="adsL">
-    <p><a rel="stat" class="stat" title="Giorgio's" ref="323" href="http://www.liweddings.com/vendors/reception-locations/giorgios/"><img src="/i/sb/323.jpg" alt="Giorgio's"></a></p><p><a rel="stat" class="stat" title="Lessing's Waterfront Weddings" ref="324" href="http://www.liweddings.com/vendors/reception-locations/lessingcc/"><img src="/i/sb/324.jpg" alt="Lessing's Waterfront Weddings"></a></p><p><a rel="stat" class="stat" title="" ref="4" href="http://www.nycityweddings.com" target="_blank"><img src="/i/sb/4.jpg" alt=""></a></p>
+    <p><a rel="stat" class="stat" title="" ref="4" href="http://www.nycityweddings.com" target="_blank"><img src="/i/sb/4.jpg" alt=""></a></p><p><a rel="stat" class="stat" title="Mediterranean Manor Caterers" ref="476" href="http://www.liweddings.com/vendors/reception-locations/mediterranean-manor-caterers/"><img src="/i/sb/476.jpg" alt="Mediterranean Manor Caterers"></a></p><p><a rel="stat" class="stat" title="Larkfield Manor" ref="474" href="http://www.liweddings.com/vendors/reception-locations/larkfield-manor/"><img src="/i/sb/474.jpg" alt="Larkfield Manor"></a></p>
 
 
     <!-- end .adsL --></div>
     <div class="welcomeVendors">
     <h4>Welcome New Vendors</h4>
     
-<p><a title="Wine U Design" href="http://www.LIWeddings.com/vendors/favors/wine-u-design/" class="Plain">Wine U Design</a></p>
-<p><a title="With Love Keepsake Greetingz" href="http://www.LIWeddings.com/vendors/invitations/with-love-keepsake-greetingz/" class="Plain">With Love Keepsake Greetingz</a></p>
-<p><a title="Hair Sculpting by Renee" href="http://www.LIWeddings.com/vendors/hair/hair-sculpting-by-renee/" class="Plain">Hair Sculpting by Renee</a></p>
-<p><a title="Hart to Hart Entertainment" href="http://www.LIWeddings.com/vendors/djs/hart-to-hart-entertainment/" class="Plain">Hart to Hart Entertainment</a></p>
-<p><a title="SuperPaws Dog Training" href="http://www.LIWeddings.com/vendors/dog-training/superpaws-dog-training/" class="Plain">SuperPaws Dog Training</a></p>
-<p><a title="Marriott-Islandia" href="http://www.LIWeddings.com/vendors/reception-locations/marriott-islandia/" class="Plain">Marriott-Islandia</a></p>
-<p><a title="Fire Monkey Hair Design" href="http://www.LIWeddings.com/vendors/hair/fire-monkey-hair-design/" class="Plain">Fire Monkey Hair Design</a></p>
-<p><a title="Airbrush Makeup by Lisa Marie" href="http://www.LIWeddings.com/vendors/make-up/airbrush-makeup-by-lisa-marie/" class="Plain">Airbrush Makeup by Lisa Marie</a></p>
-<p><a title="Estelle's Dressy Dresses" href="http://www.LIWeddings.com/vendors/gowns/estelles-dressy-dresses/" class="Plain">Estelle's Dressy Dresses</a></p>
-<p><a title="CELYOUBRATIONS" href="http://www.LIWeddings.com/vendors/favors/celyoubrations/" class="Plain">CELYOUBRATIONS</a></p>
-<p><a title="For The Modern Bride" href="http://www.LIWeddings.com/vendors/card-box/for-the-modern-bride/" class="Plain">For The Modern Bride</a></p>
-<p><a title="Sunday Morning Films" href="http://www.LIWeddings.com/vendors/videographers/sunday-morning-films/" class="Plain">Sunday Morning Films</a></p>
+<p><a title="Island Shores Travel" href="http://www.LIWeddings.com/vendors/honeymoons/island-shores-travel/" class="Plain">Island Shores Travel</a></p>
+<p><a title="Dalsimer of New York" href="http://www.LIWeddings.com/vendors/florists/dalsimer-floral/" class="Plain">Dalsimer of New York</a></p>
+<p><a title="Luxe Life Beauty" href="http://www.LIWeddings.com/vendors/hair/luxe-life-beauty/" class="Plain">Luxe Life Beauty</a></p>
+<p><a title="A Cake In Time" href="http://www.LIWeddings.com/vendors/bakeries/a-cake-in-time/" class="Plain">A Cake In Time</a></p>
+<p><a title="Yvonne's Invitations &amp; Favors" href="http://www.LIWeddings.com/vendors/invitations/yvonnes-invitations-favors/" class="Plain">Yvonne's Invitations &amp; Favors</a></p>
+<p><a title="Keep Me Photography" href="http://www.LIWeddings.com/vendors/boudoir/keep-me-photography/" class="Plain">Keep Me Photography</a></p>
+<p><a title="The Modern Photobooth" href="http://www.LIWeddings.com/vendors/photobooth/the-modern-photobooth/" class="Plain">The Modern Photobooth</a></p>
+<p><a title="Angel Project Photography" href="http://www.LIWeddings.com/vendors/photographers/angel-project-photography/" class="Plain">Angel Project Photography</a></p>
+<p><a title="Long Island Marriott" href="http://www.LIWeddings.com/vendors/indian-weddings/long-island-marriott/" class="Plain">Long Island Marriott</a></p>
+<p><a title="Econo Lodge Hicksville" href="http://www.LIWeddings.com/vendors/lodging/econo-lodge-hicksville/" class="Plain">Econo Lodge Hicksville</a></p>
+<p><a title="Candid Like Life " href="http://www.LIWeddings.com/vendors/photographers/candid-like-life-photo/" class="Plain">Candid Like Life </a></p>
+<p><a title="Unique Entertainment Inc." href="http://www.LIWeddings.com/vendors/djs/unique-entertainment/" class="Plain">Unique Entertainment Inc.</a></p>
 
 
       <!-- end .welcomeVendors --></div>
 <script type="text/javascript">
 
-
+var dt="";
+var de="";
+var as="";
+var ar="";
 function asm() {
-
-    var div =$('#asm').get(0) ;
-//document.getElementById("asm");
+if ($('#asm').length!=0){
+    dt =document.getElementById("asm");
 
     // increase the scroll position by 10 px every 10th of a second
-    setInterval(function() { 
-        // make sure it's not at the bottom
-        if (div.scrollTop < div.scrollHeight - div.clientHeight){
-            div.scrollTop += 1; // move down
-		}else{
-		div.scrollTop -= 3000; // move down
-		}
-    }, 100); // 100 milliseconds
 
+        // make sure it's not at the bottom
+        if (dt.scrollTop < dt.scrollHeight - dt.clientHeight){
+            dt.scrollTop += 1; // move down
+		}else{
+		dt.scrollTop -= 3000; // move down
+		}
+    
+
+}
 }
 
 function asv() {
-
-    var div =$('#asv').get(0) ;
-//document.getElementById("asv");
+if ($('#asv').length!=0){
+    de =document.getElementById("asv");
 
     // increase the scroll position by 10 px every 10th of a second
-    setInterval(function() { 
-        // make sure it's not at the bottom
-        if (div.scrollTop < div.scrollHeight - div.clientHeight){
-            div.scrollTop += 1; // move down
+
+	 if (de.scrollTop < de.scrollHeight - de.clientHeight){
+		de.scrollTop += 1;
 		}else{
-		div.scrollTop -= 50000; // move down
-		}
-    }, 100); // 100 milliseconds
+		de.scrollTop -= 50000}
 
 }
+}
+
 $(function(){
-asm();
-asv();
+as= setInterval('asv()',100);
+ar= setInterval('asm()',100);
+
+$('#asv').mouseleave(function(){
+
+as= setInterval('asv()',100);
+as;
+});
+$('#asm').mouseleave(function(){
+
+ar= setInterval('asm()',100);
+ar;
+});
+$('#asv').mouseenter(function(){
+window.clearInterval(as);
+
+});
+$('#asm').mouseenter(function(){
+window.clearInterval(ar);
+
+});
 });
 </script>
  <div class="welcomeVendors">
@@ -533,51 +591,46 @@ asv();
 <p><a title="1-866-BRIDEOO/Linda's Lovelies" href="http://www.LIWeddings.com/vendors/invitations/lindas-lovelies/" class="Plain">1-866-BRIDEOO/Linda's Lovelies</a></p>
 <p><a title="21 Main" href="http://www.LIWeddings.com/vendors/rehearsal-dinner/21-main/" class="Plain">21 Main</a></p>
 <p><a title="3-D Vision, Inc." href="http://www.LIWeddings.com/vendors/videographers/3-d-vision-inc/" class="Plain">3-D Vision, Inc.</a></p>
-<p><a title="5th Avenue Chocolatiere" href="http://www.LIWeddings.com/vendors/favors/5th-avenue-chocolatiere/" class="Plain">5th Avenue Chocolatiere</a></p>
 <p><a title="5th Generation Tooth Whitening" href="http://www.LIWeddings.com/vendors/cosmetic-dentistry/5th-generation-tooth-whitening/" class="Plain">5th Generation Tooth Whitening</a></p>
 <p><a title="A Beautiful Affair Of The Heart" href="http://www.LIWeddings.com/vendors/officiants/a-beautiful-affair-of-the-heart/" class="Plain">A Beautiful Affair Of The Heart</a></p>
-<p><a title="A Beautiful Day Bridal Photography" href="http://www.LIWeddings.com/vendors/photographers/a-beautiful-day-bridal-photography/" class="Plain">A Beautiful Day Bridal Photography</a></p>
-<p><a title="A Cherished Affair" href="http://www.LIWeddings.com/vendors/coordinator/Cherished-Affair/" class="Plain">A Cherished Affair</a></p>
+<p><a title="A Beautiful Bride" href="http://www.LIWeddings.com/vendors/make-up/style-me-pretty/" class="Plain">A Beautiful Bride</a></p>
+<p><a title="A Cake In Time" href="http://www.LIWeddings.com/vendors/bakeries/a-cake-in-time/" class="Plain">A Cake In Time</a></p>
+<p><a title="A Cherished Affair" href="http://www.LIWeddings.com/vendors/coordinator-day-of-coordinator/Cherished-Affair/" class="Plain">A Cherished Affair</a></p>
 <p><a title="A Circle of Gold" href="http://www.LIWeddings.com/vendors/officiants/a-circle-of-gold/" class="Plain">A Circle of Gold</a></p>
-<p><a title="A Modern Day Affair" href="http://www.LIWeddings.com/vendors/coordinator/a-modern-day-affair/" class="Plain">A Modern Day Affair</a></p>
+<p><a title="A Modern Day Affair" href="http://www.LIWeddings.com/vendors/coordinator-day-of-coordinator/a-modern-day-affair/" class="Plain">A Modern Day Affair</a></p>
 <p><a title="A More Fabulous You" href="http://www.LIWeddings.com/vendors/make-up/A-More-Fabulous-You/" class="Plain">A More Fabulous You</a></p>
 <p><a title="A Perfect Bride" href="http://www.LIWeddings.com/vendors/hair/a-perfect-bride/" class="Plain">A Perfect Bride</a></p>
 <p><a title="A. Stan Wiest Entertainment Group" href="http://www.LIWeddings.com/vendors/djs/stan-wiest-entertainment-group/" class="Plain">A. Stan Wiest Entertainment Group</a></p>
 <p><a title="A. Stan Wiest Music" href="http://www.LIWeddings.com/vendors/bands/stan-wiest-music/" class="Plain">A. Stan Wiest Music</a></p>
 <p><a title="AAA Travel" href="http://www.LIWeddings.com/vendors/honeymoons/AAA-travel/" class="Plain">AAA Travel</a></p>
-<p><a title="Above &amp; Beyond Events LI" href="http://www.LIWeddings.com/vendors/coordinator/Above_and_Beyond/" class="Plain">Above &amp; Beyond Events LI</a></p>
+<p><a title="Above &amp; Beyond Events LI" href="http://www.LIWeddings.com/vendors/coordinator-day-of-coordinator/Above_and_Beyond/" class="Plain">Above &amp; Beyond Events LI</a></p>
 <p><a title="Absolute DJ Entertainment" href="http://www.LIWeddings.com/vendors/djs/absolute-dj-entertainment/" class="Plain">Absolute DJ Entertainment</a></p>
 <p><a title="Ad Time Media" href="http://www.LIWeddings.com/vendors/place-cards/ad-time-media/" class="Plain">Ad Time Media</a></p>
 <p><a title="ADA Studio" href="http://www.LIWeddings.com/vendors/photographers/ada-studio/" class="Plain">ADA Studio</a></p>
-<p><a title="Affordable Adventures by Michele" href="http://www.LIWeddings.com/vendors/honeymoons/affordable-adventures-by-michele/" class="Plain">Affordable Adventures by Michele</a></p>
+<p><a title="Advantage Bridal" href="http://www.LIWeddings.com/vendors/bridal-accessories/advantage-bridal/" class="Plain">Advantage Bridal</a></p>
 <p><a title="Afresh Approach" href="http://www.LIWeddings.com/vendors/favors/afresh-approach/" class="Plain">Afresh Approach</a></p>
 <p><a title="After Hours DJ Entertainment" href="http://www.LIWeddings.com/vendors/djs/after-hours-dj-entertainment/" class="Plain">After Hours DJ Entertainment</a></p>
 <p><a title="After Hours Orchestra" href="http://www.LIWeddings.com/vendors/bands/after-hours-orchestra/" class="Plain">After Hours Orchestra</a></p>
 <p><a title="Airbrush Makeup by Lisa Marie" href="http://www.LIWeddings.com/vendors/make-up/airbrush-makeup-by-lisa-marie/" class="Plain">Airbrush Makeup by Lisa Marie</a></p>
-<p><a title="Alison Caiola, Wedding Minister " href="http://www.LIWeddings.com/vendors/officiants/alison-caiola-wedding-minister/" class="Plain">Alison Caiola, Wedding Minister </a></p>
 <p><a title="All County Limousine" href="http://www.LIWeddings.com/vendors/limousine/all-county-limousine/" class="Plain">All County Limousine</a></p>
 <p><a title="All for You Day Spa" href="http://www.LIWeddings.com/vendors/salons-spas/all-for-you-day-spa/" class="Plain">All for You Day Spa</a></p>
-<p><a title="All Pro Siding" href="http://www.LIWeddings.com/vendors/home-improvements/all-pro-siding/" class="Plain">All Pro Siding</a></p>
 <p><a title="All Star Limousine Service Ltd." href="http://www.LIWeddings.com/vendors/limousine/all-star-limousine-service-ltd/" class="Plain">All Star Limousine Service Ltd.</a></p>
 <p><a title="All Type Computer Calligraphy" href="http://www.LIWeddings.com/vendors/calligraphy/all-type-computer-calligraphy/" class="Plain">All Type Computer Calligraphy</a></p>
-<p><a title="Almond Beach Resorts" href="http://www.LIWeddings.com/vendors/honeymoon-resorts/almond-beach-resorts/" class="Plain">Almond Beach Resorts</a></p>
 <p><a title="Alterations by Millie" href="http://www.LIWeddings.com/vendors/alterations/alterations-by-millie/" class="Plain">Alterations by Millie</a></p>
 <p><a title="Always in Style Limos" href="http://www.LIWeddings.com/vendors/limousine/always-in-style-limos/" class="Plain">Always in Style Limos</a></p>
 <p><a title="Amanda Picone Photography" href="http://www.LIWeddings.com/vendors/photographers/amanda-picone-photography/" class="Plain">Amanda Picone Photography</a></p>
 <p><a title="American Culture Hair, Inc." href="http://www.LIWeddings.com/vendors/salons-spas/american-culture-hair-inc/" class="Plain">American Culture Hair, Inc.</a></p>
-<p><a title="American Luxury Limousine" href="http://www.LIWeddings.com/vendors/limousine/American_Luxury_Limousine/" class="Plain">American Luxury Limousine</a></p>
-<p><a title="Amore Productions" href="http://www.LIWeddings.com/vendors/videographers/amore-productions/" class="Plain">Amore Productions</a></p>
 <p><a title="An Invitation Sensation, Inc." href="http://www.LIWeddings.com/vendors/favors/an-invitation-sensation/" class="Plain">An Invitation Sensation, Inc.</a></p>
 <p><a title="And I Quote..." href="http://www.LIWeddings.com/vendors/invitations/and-i-quote/" class="Plain">And I Quote...</a></p>
 <p><a title="Andreas Rentsch Photography" href="http://www.LIWeddings.com/vendors/photographers/andreas-rentsch-photography/" class="Plain">Andreas Rentsch Photography</a></p>
 <p><a title="Angel Bridals" href="http://www.LIWeddings.com/vendors/gowns/angel-bridals/" class="Plain">Angel Bridals</a></p>
 <p><a title="Angel Eyes Makeup" href="http://www.LIWeddings.com/vendors/make-up/angel-eyes-makeup/" class="Plain">Angel Eyes Makeup</a></p>
+<p><a title="Angel Project Photography" href="http://www.LIWeddings.com/vendors/photographers/angel-project-photography/" class="Plain">Angel Project Photography</a></p>
 <p><a title="Angela Heil Ministries" href="http://www.LIWeddings.com/vendors/officiants/angela-heil-ministries/" class="Plain">Angela Heil Ministries</a></p>
 <p><a title="Angela's Hair Design" href="http://www.LIWeddings.com/vendors/hair/angelas-hair-design/" class="Plain">Angela's Hair Design</a></p>
-<p><a title="Angelica Studios" href="http://www.LIWeddings.com/vendors/photographers/angelica-studios/" class="Plain">Angelica Studios</a></p>
 <p><a title="Anthony DeFranco Salon" href="http://www.LIWeddings.com/vendors/salons-spas/anthony-defranco-salon/" class="Plain">Anthony DeFranco Salon</a></p>
 <p><a title="Anthony Matthew Caterers at Mill Pond" href="http://www.LIWeddings.com/vendors/reception-locations/anthony-matthew-caterers-at-mill-pond/" class="Plain">Anthony Matthew Caterers at Mill Pond</a></p>
-<p><a title="Anthony Vazquez Photography " href="http://www.LIWeddings.com/vendors/photographers/perceptions-photography-nyc/" class="Plain">Anthony Vazquez Photography </a></p>
+<p><a title="Antun's of Hicksville" href="http://www.LIWeddings.com/vendors/reception-locations/antuns-of-hicksville/" class="Plain">Antun's of Hicksville</a></p>
 <p><a title="Ariana Waterfall Caterers" href="http://www.LIWeddings.com/vendors/reception-locations/ariana-waterfall-caterers/" class="Plain">Ariana Waterfall Caterers</a></p>
 <p><a title="Around Town Entertainment" href="http://www.LIWeddings.com/vendors/bands/around-town-entertainment/" class="Plain">Around Town Entertainment</a></p>
 <p><a title="Artisan Photo Group" href="http://www.LIWeddings.com/vendors/photographers/artisan-photo-group/" class="Plain">Artisan Photo Group</a></p>
@@ -586,10 +639,8 @@ asv();
 <p><a title="Attitude" href="http://www.LIWeddings.com/vendors/bands/attitude/" class="Plain">Attitude</a></p>
 <p><a title="Audrey's Fine Baked Goods" href="http://www.LIWeddings.com/vendors/bakeries/audreys-fine-baked-goods/" class="Plain">Audrey's Fine Baked Goods</a></p>
 <p><a title="Autumn Studio" href="http://www.LIWeddings.com/vendors/invitations/autumn-studio/" class="Plain">Autumn Studio</a></p>
-<p><a title="Avenue Q" href="http://www.LIWeddings.com/vendors/bachelorette/avenue-q/" class="Plain">Avenue Q</a></p>
 <p><a title="Awesome 80's Prom" href="http://www.LIWeddings.com/vendors/bachelorette/awesome-80s-prom/" class="Plain">Awesome 80's Prom</a></p>
-<p><a title="Balloon Bouquets of LI" href="http://www.LIWeddings.com/vendors/balloons-decorations/balloon-bouquets-of-li/" class="Plain">Balloon Bouquets of LI</a></p>
-<p><a title="Baron Events" href="http://www.LIWeddings.com/vendors/coordinator/baron-events/" class="Plain">Baron Events</a></p>
+<p><a title="Baron Events" href="http://www.LIWeddings.com/vendors/coordinator-day-of-coordinator/baron-events/" class="Plain">Baron Events</a></p>
 <p><a title="Bayview House at Captain Bill's" href="http://www.LIWeddings.com/vendors/reception-locations/captain-bill's-catering/" class="Plain">Bayview House at Captain Bill's</a></p>
 <p><a title="Beach Bum Tanning" href="http://www.LIWeddings.com/vendors/airbrush-tanning/beach-bum-tanning/" class="Plain">Beach Bum Tanning</a></p>
 <p><a title="Beach Club Estate" href="http://www.LIWeddings.com/vendors/reception-locations/beach-club-estate/" class="Plain">Beach Club Estate</a></p>
@@ -597,39 +648,38 @@ asv();
 <p><a title="Beauty By Beth" href="http://www.LIWeddings.com/vendors/make-up/beauty-by-beth/" class="Plain">Beauty By Beth</a></p>
 <p><a title="BeautyFULL Beauty Services" href="http://www.LIWeddings.com/vendors/hair/beautyfull-beauty-services/" class="Plain">BeautyFULL Beauty Services</a></p>
 <p><a title="Bella Flowers" href="http://www.LIWeddings.com/vendors/florists/bella-flowers/" class="Plain">Bella Flowers</a></p>
+<p><a title="Bella Luna Salon" href="http://www.LIWeddings.com/vendors/salons-spas/bella-luna-salon/" class="Plain">Bella Luna Salon</a></p>
 <p><a title="Bella Sposina" href="http://www.LIWeddings.com/vendors/hair/bella-sposina/" class="Plain">Bella Sposina</a></p>
 <p><a title="Bellport Country Club" href="http://www.LIWeddings.com/vendors/reception-locations/bellport-country-club/" class="Plain">Bellport Country Club</a></p>
 <p><a title="Best Buyer's Broker Realty, Inc" href="http://www.LIWeddings.com/vendors/real-estate/best-buyers-broker-realty/" class="Plain">Best Buyer's Broker Realty, Inc</a></p>
-<p><a title="Best Western Mill River Manor" href="http://www.LIWeddings.com/vendors/hotels/best-western-mill-river-manor/" class="Plain">Best Western Mill River Manor</a></p>
-<p><a title="Big Hits Entertainment" href="http://www.LIWeddings.com/vendors/djs/big-hits-entertainment/" class="Plain">Big Hits Entertainment</a></p>
 <p><a title="Bilski Productions" href="http://www.LIWeddings.com/vendors/videographers/bilski-productions/" class="Plain">Bilski Productions</a></p>
 <p><a title="Black Tie Formal Wear" href="http://www.LIWeddings.com/vendors/tuxedos/black-tie-formal-wear/" class="Plain">Black Tie Formal Wear</a></p>
 <p><a title="Bleu Diamond Events" href="http://www.LIWeddings.com/vendors/consultants/bleu-diamond-events" class="Plain">Bleu Diamond Events</a></p>
-<p><a title="Bliss Restaurant" href="http://www.LIWeddings.com/vendors/rehearsal-dinner/bliss-restaurant" class="Plain">Bliss Restaurant</a></p>
+<p><a title="Blupixel films" href="http://www.LIWeddings.com/vendors/videographers/blupixel-films/" class="Plain">Blupixel films</a></p>
 <p><a title="Body Design" href="http://www.LIWeddings.com/vendors/health-fitness/body-design/" class="Plain">Body Design</a></p>
 <p><a title="Body Heat Entertainment" href="http://www.LIWeddings.com/vendors/bands/body-heat-entertainment/" class="Plain">Body Heat Entertainment</a></p>
 <p><a title="Bonaventure Tuxedo" href="http://www.LIWeddings.com/vendors/tuxedos/bonaventure-tuxedo/" class="Plain">Bonaventure Tuxedo</a></p>
-<p><a title="Bowen's by the Bays" href="http://www.LIWeddings.com/vendors/lodging/bowens-by-the-bays/" class="Plain">Bowen's by the Bays</a></p>
 <p><a title="Bra Tenders" href="http://www.LIWeddings.com/vendors/lingerie/bra-tenders/" class="Plain">Bra Tenders</a></p>
 <p><a title="Brazil Bronze Airbrush Spray Tanning Of Great Neck" href="http://www.LIWeddings.com/vendors/airbrush-tanning/brazil-bronze-airbrush-spray-tanning-of-great-neck/" class="Plain">Brazil Bronze Airbrush Spray Tanning Of Great Neck</a></p>
 <p><a title="Bridal Elegance" href="http://www.LIWeddings.com/vendors/bridal-accessories/bridal-elegance/" class="Plain">Bridal Elegance</a></p>
+<p><a title="Bridal Elegance Hair Design" href="http://www.LIWeddings.com/vendors/hair/bridal-elegance/" class="Plain">Bridal Elegance Hair Design</a></p>
 <p><a title="Bridal Reflections" href="http://www.LIWeddings.com/vendors/gowns/bridal-reflections/" class="Plain">Bridal Reflections</a></p>
+<p><a title="Bridal Styles Boutique" href="http://www.LIWeddings.com/vendors/headpieces/bridal-styles/" class="Plain">Bridal Styles Boutique</a></p>
 <p><a title="Bridal Suite of Bay Shore" href="http://www.LIWeddings.com/vendors/gowns/bridal-suite-of-bayshore/" class="Plain">Bridal Suite of Bay Shore</a></p>
 <p><a title="Bridal Suite of Centereach" href="http://www.LIWeddings.com/vendors/gowns/bridal-suite-of-centereach/" class="Plain">Bridal Suite of Centereach</a></p>
 <p><a title="Bridal Suite of Huntington" href="http://www.LIWeddings.com/vendors/gowns/bridal-suite-of-huntington/" class="Plain">Bridal Suite of Huntington</a></p>
-<p><a title="Brothers Band" href="http://www.LIWeddings.com/vendors/bands/brothers-band/" class="Plain">Brothers Band</a></p>
+<p><a title="Brooklyn Dancesport Club" href="http://www.LIWeddings.com/vendors/dance/brooklyn-dancesport-club/" class="Plain">Brooklyn Dancesport Club</a></p>
 <p><a title="Burke Entertainment" href="http://www.LIWeddings.com/vendors/bands/burke-entertainment/" class="Plain">Burke Entertainment</a></p>
-<p><a title="Cakes by Mona" href="http://www.LIWeddings.com/vendors/bakeries/Cakes_by_Mona/" class="Plain">Cakes by Mona</a></p>
 <p><a title="CalliGraphics" href="http://www.LIWeddings.com/vendors/calligraphy/calligraphics/" class="Plain">CalliGraphics</a></p>
 <p><a title="Camelot Party Rentals" href="http://www.LIWeddings.com/vendors/rentals/camelot-party-rentals/" class="Plain">Camelot Party Rentals</a></p>
 <p><a title="Camelot Specialty Limos" href="http://www.LIWeddings.com/vendors/limousine/camelot-specialty-limos/" class="Plain">Camelot Specialty Limos</a></p>
 <p><a title="Camelot Studios" href="http://www.LIWeddings.com/vendors/photographers/camelot-studios/" class="Plain">Camelot Studios</a></p>
+<p><a title="Candid Like Life " href="http://www.LIWeddings.com/vendors/photographers/candid-like-life-photo/" class="Plain">Candid Like Life </a></p>
 <p><a title="Capriccio Ensemble" href="http://www.LIWeddings.com/vendors/music/capriccio-ensemble/" class="Plain">Capriccio Ensemble</a></p>
 <p><a title="Captain Arnold (Chaplain)" href="http://www.LIWeddings.com/vendors/officiants/captain-arnold-chaplain/" class="Plain">Captain Arnold (Chaplain)</a></p>
+<p><a title="Capture the Moment Video Productions" href="http://www.LIWeddings.com/vendors/videographers/capture-the-moment/" class="Plain">Capture the Moment Video Productions</a></p>
 <p><a title="Carlyle On The Green" href="http://www.LIWeddings.com/vendors/reception-locations/carlyle-on-the-green/" class="Plain">Carlyle On The Green</a></p>
-<p><a title="Casablanca The Salon" href="http://www.LIWeddings.com/vendors/salons-spas/casablanca-the-salon/" class="Plain">Casablanca The Salon</a></p>
 <p><a title="Cassarino Studios" href="http://www.LIWeddings.com/vendors/photographers/cassarino-studios/" class="Plain">Cassarino Studios</a></p>
-<p><a title="Celebrations NYC" href="http://www.LIWeddings.com/vendors/lounge-decor/celebrations-nyc/" class="Plain">Celebrations NYC</a></p>
 <p><a title="Celebrity Music" href="http://www.LIWeddings.com/vendors/djs/celebrity-music/" class="Plain">Celebrity Music</a></p>
 <p><a title="Celestial Photographers &amp; Videographers" href="http://www.LIWeddings.com/vendors/videographers/celestial-photographers/" class="Plain">Celestial Photographers &amp; Videographers</a></p>
 <p><a title="Celtic Pipers" href="http://www.LIWeddings.com/vendors/music/celtic-pipers/" class="Plain">Celtic Pipers</a></p>
@@ -637,92 +687,95 @@ asv();
 <p><a title="Central Park Orchestra" href="http://www.LIWeddings.com/vendors/bands/central-park-orchestra/" class="Plain">Central Park Orchestra</a></p>
 <p><a title="Ceremonies of the Heart" href="http://www.LIWeddings.com/vendors/officiants/ceremonies-of-the-heart/" class="Plain">Ceremonies of the Heart</a></p>
 <p><a title="Charm Westwood Limousine Service" href="http://www.LIWeddings.com/vendors/limousine/charm-westwood-limousine-service/" class="Plain">Charm Westwood Limousine Service</a></p>
-<p><a title="Chateau La Mer" href="http://www.LIWeddings.com/vendors/reception-locations/chateau-la-mer/" class="Plain">Chateau La Mer</a></p>
-<p><a title="Cheeky Glam Events" href="http://www.LIWeddings.com/vendors/coordinator/cheeky-glam-events/" class="Plain">Cheeky Glam Events</a></p>
+<p><a title="Chateau Caterers" href="http://www.LIWeddings.com/vendors/reception-locations/the-chateau-caterers/" class="Plain">Chateau Caterers</a></p>
+<p><a title="Cheeky Glam Events" href="http://www.LIWeddings.com/vendors/coordinator-day-of-coordinator/cheeky-glam-events/" class="Plain">Cheeky Glam Events</a></p>
 <p><a title="Chic Hair Trends" href="http://www.LIWeddings.com/vendors/hair/Chic-Hair-Trends/" class="Plain">Chic Hair Trends</a></p>
 <p><a title="Chic... a floral boutique" href="http://www.LIWeddings.com/vendors/florists/Chic-a-floral-boutique/" class="Plain">Chic... a floral boutique</a></p>
 <p><a title="Christine Martin Faces" href="http://www.LIWeddings.com/vendors/make-up/christine-martin-faces/" class="Plain">Christine Martin Faces</a></p>
 <p><a title="Christy Ann Cosmetics" href="http://www.LIWeddings.com/vendors/make-up/christy-ann-cosmetics/" class="Plain">Christy Ann Cosmetics</a></p>
 <p><a title="Chuck Marcy Photography" href="http://www.LIWeddings.com/vendors/photographers/chuck-marcy-photo/" class="Plain">Chuck Marcy Photography</a></p>
 <p><a title="Church of Ancient Ways" href="http://www.LIWeddings.com/vendors/officiants/church-of-ancient-ways/" class="Plain">Church of Ancient Ways</a></p>
-<p><a title="Classic Event Designs" href="http://www.LIWeddings.com/vendors/coordinator/classic-event-designs/" class="Plain">Classic Event Designs</a></p>
+<p><a title="City Cellar" href="http://www.LIWeddings.com/vendors/rehearsal-dinner/city-cellar" class="Plain">City Cellar</a></p>
+<p><a title="Classic Event Designs" href="http://www.LIWeddings.com/vendors/coordinator-day-of-coordinator/classic-event-designs/" class="Plain">Classic Event Designs</a></p>
 <p><a title="Classic Video Enterprises" href="http://www.LIWeddings.com/vendors/videographers/classic-video-enterprises/" class="Plain">Classic Video Enterprises</a></p>
 <p><a title="Classic Video Productions" href="http://www.LIWeddings.com/vendors/videographers/classic-video-productions/" class="Plain">Classic Video Productions</a></p>
 <p><a title="Classical and Flamenco Guitarist" href="http://www.LIWeddings.com/vendors/music/classical-and-flamenco-guitarist/" class="Plain">Classical and Flamenco Guitarist</a></p>
 <p><a title="Claudia's Beauty Spot" href="http://www.LIWeddings.com/vendors/hair/claudias-beauty-spot/" class="Plain">Claudia's Beauty Spot</a></p>
 <p><a title="Cleansing Concepts" href="http://www.LIWeddings.com/vendors/beauty/Cleansing-Concepts/" class="Plain">Cleansing Concepts</a></p>
 <p><a title="Clergy on Call" href="http://www.LIWeddings.com/vendors/officiants/clergy-on-call/" class="Plain">Clergy on Call</a></p>
-<p><a title="Cloud Nove Events" href="http://www.LIWeddings.com/vendors/coordinator/cloud-nove-events/" class="Plain">Cloud Nove Events</a></p>
+<p><a title="Cloud Nove Events" href="http://www.LIWeddings.com/vendors/coordinator-day-of-coordinator/cloud-nove-events/" class="Plain">Cloud Nove Events</a></p>
 <p><a title="Coachman Luxury Transport" href="http://www.LIWeddings.com/vendors/limousine/coachman-luxury-transport/" class="Plain">Coachman Luxury Transport</a></p>
 <p><a title="CoCoBelle" href="http://www.LIWeddings.com/vendors/hair/CoCoBelle/" class="Plain">CoCoBelle</a></p>
+<p><a title="Colonial Springs Golf Club" href="http://www.LIWeddings.com/vendors/reception-locations/colonial-springs-golf-club/" class="Plain">Colonial Springs Golf Club</a></p>
 <p><a title="Colonial Transportation" href="http://www.LIWeddings.com/vendors/buses/colonial-transportation/" class="Plain">Colonial Transportation</a></p>
 <p><a title="Concours D'elegance" href="http://www.LIWeddings.com/vendors/hair/concours-d-elegance/" class="Plain">Concours D'elegance</a></p>
 <p><a title="Coral House" href="http://www.LIWeddings.com/vendors/reception-locations/coral-house/" class="Plain">Coral House</a></p>
 <p><a title="Cosmetic Artistry" href="http://www.LIWeddings.com/vendors/make-up/cosmetic-artistry/" class="Plain">Cosmetic Artistry</a></p>
-<p><a title="Cosmetic MD of NY- Dr. Ronit Adler" href="http://www.LIWeddings.com/vendors/skin-care/cosmetic-md-of-ny/" class="Plain">Cosmetic MD of NY- Dr. Ronit Adler</a></p>
 <p><a title="CosmoNY" href="http://www.LIWeddings.com/vendors/hair/CosmoNY/" class="Plain">CosmoNY</a></p>
 <p><a title="Couped-Up Productions" href="http://www.LIWeddings.com/vendors/videographers/coupedup/" class="Plain">Couped-Up Productions</a></p>
+<p><a title="Cradle of Aviation" href="http://www.LIWeddings.com/vendors/reception-locations/cradle-of-aviation/" class="Plain">Cradle of Aviation</a></p>
 <p><a title="Crest Hollow Country Club" href="http://www.LIWeddings.com/vendors/reception-locations/crest-hollow-country-club/" class="Plain">Crest Hollow Country Club</a></p>
-<p><a title="Crestwood Manor" href="http://www.LIWeddings.com/vendors/reception-locations/crestwood-manor/" class="Plain">Crestwood Manor</a></p>
+<p><a title="Crowd Control Entertainment" href="http://www.LIWeddings.com/vendors/djs/crowd-control-entertainment/" class="Plain">Crowd Control Entertainment</a></p>
 <p><a title="Cruise Control Limousines" href="http://www.LIWeddings.com/vendors/limousine/cruise-control-limousines/" class="Plain">Cruise Control Limousines</a></p>
 <p><a title="Cruising the Ocean Blue" href="http://www.LIWeddings.com/vendors/honeymoons/cruising-the-ocean-blue/" class="Plain">Cruising the Ocean Blue</a></p>
-<p><a title="Cynthia Ross Affairs Inc." href="http://www.LIWeddings.com/vendors/coordinator/Cynthia-Ross-Affairs/" class="Plain">Cynthia Ross Affairs Inc.</a></p>
-<p><a title="Dan Wagner Photography &amp; Video" href="http://www.LIWeddings.com/vendors/photographers/dan-wagner-photography-and-video/" class="Plain">Dan Wagner Photography &amp; Video</a></p>
+<p><a title="Cynthia Ross Affairs Inc." href="http://www.LIWeddings.com/vendors/coordinator-day-of-coordinator/Cynthia-Ross-Affairs/" class="Plain">Cynthia Ross Affairs Inc.</a></p>
+<p><a title="Dalsimer of New York" href="http://www.LIWeddings.com/vendors/florists/dalsimer-floral/" class="Plain">Dalsimer of New York</a></p>
+<p><a title="Dan Wagner Photography" href="http://www.LIWeddings.com/vendors/photographers/dan-wagner-photography/" class="Plain">Dan Wagner Photography</a></p>
 <p><a title="Dancejock Productions" href="http://www.LIWeddings.com/vendors/djs/dancejock-productions/" class="Plain">Dancejock Productions</a></p>
 <p><a title="Danfords Hotel &amp; Marina" href="http://www.LIWeddings.com/vendors/reception-locations/danfords-hotels-and-marina/" class="Plain">Danfords Hotel &amp; Marina</a></p>
 <p><a title="Daniel Krieger Photography" href="http://www.LIWeddings.com/vendors/photographers/daniel-krieger-photography/" class="Plain">Daniel Krieger Photography</a></p>
 <p><a title="Dawn's Honeymoon Specialists" href="http://www.LIWeddings.com/vendors/cruises/dawns-honeymoon-specialists/" class="Plain">Dawn's Honeymoon Specialists</a></p>
 <p><a title="Deja Vu Studios" href="http://www.LIWeddings.com/vendors/photographers/deja-vu-studios/" class="Plain">Deja Vu Studios</a></p>
 <p><a title="Delmonte-Smelson Jewelers" href="http://www.LIWeddings.com/vendors/jewelers/delmonte-smelson-jewelers/" class="Plain">Delmonte-Smelson Jewelers</a></p>
+<p><a title="Design Parlour" href="http://www.LIWeddings.com/vendors/invitations/design-parlor/" class="Plain">Design Parlour</a></p>
 <p><a title="Designer Florals" href="http://www.LIWeddings.com/vendors/florists/designer-florals/" class="Plain">Designer Florals</a></p>
 <p><a title="Di Re Formal Wear" href="http://www.LIWeddings.com/vendors/tuxedos/di-re-formal-wear/" class="Plain">Di Re Formal Wear</a></p>
 <p><a title="Diamond Ideals" href="http://www.LIWeddings.com/vendors/jewelers/diamond-ideals/" class="Plain">Diamond Ideals</a></p>
 <p><a title="Distinctive Floral Design" href="http://www.LIWeddings.com/vendors/florists/distinctive-floral-design/" class="Plain">Distinctive Floral Design</a></p>
 <p><a title="Diva Fit Studio" href="http://www.LIWeddings.com/vendors/bachelorette/diva-fit-studio/" class="Plain">Diva Fit Studio</a></p>
+<p><a title="Division Avenue Caterers" href="http://www.LIWeddings.com/vendors/catering/Division-Avenue/" class="Plain">Division Avenue Caterers</a></p>
+<p><a title="DJ Chef's Bachelorette Cooking Class Parties" href="http://www.LIWeddings.com/vendors/bachelorette/dj-chef/" class="Plain">DJ Chef's Bachelorette Cooking Class Parties</a></p>
 <p><a title="Dollface Professional Makeup Artistry" href="http://www.LIWeddings.com/vendors/make-up/dollface-professional-makeup-artistry/" class="Plain">Dollface Professional Makeup Artistry</a></p>
 <p><a title="Douglaston Manor" href="http://www.LIWeddings.com/vendors/reception-locations/douglaston-manor/" class="Plain">Douglaston Manor</a></p>
 <p><a title="Dr. Beat Productions" href="http://www.LIWeddings.com/vendors/djs/dr-beat-productions/" class="Plain">Dr. Beat Productions</a></p>
 <p><a title="Dr. Inna Gellerman, DDS Children &amp; Adult Orthodontics" href="http://www.LIWeddings.com/vendors/dentistry/dr-inna-gellermain/" class="Plain">Dr. Inna Gellerman, DDS Children &amp; Adult Orthodontics</a></p>
-<p><a title="Dyker Beach Golf Course" href="http://www.LIWeddings.com/vendors/reception-locations/dyker-beach-golf-course/" class="Plain">Dyker Beach Golf Course</a></p>
 <p><a title="Dynasty Limousine" href="http://www.LIWeddings.com/vendors/limousine/dynasty-limousine/" class="Plain">Dynasty Limousine</a></p>
 <p><a title="East Wind Caterers" href="http://www.LIWeddings.com/vendors/reception-locations/east-wind-caterers/" class="Plain">East Wind Caterers</a></p>
+<p><a title="Econo Lodge Hicksville" href="http://www.LIWeddings.com/vendors/lodging/econo-lodge-hicksville/" class="Plain">Econo Lodge Hicksville</a></p>
 <p><a title="Elegant Limousine" href="http://www.LIWeddings.com/vendors/limousine/elegant-limousine/" class="Plain">Elegant Limousine</a></p>
-<p><a title="Elements Therapeutic Massage" href="http://www.LIWeddings.com/vendors/massage-therapy/elements-therapeutic-massage/" class="Plain">Elements Therapeutic Massage</a></p>
 <p><a title="Eleven 18 Design Studio" href="http://www.LIWeddings.com/vendors/invitations/Eleven-18-Design/" class="Plain">Eleven 18 Design Studio</a></p>
 <p><a title="Elite Music" href="http://www.LIWeddings.com/vendors/bands/elite-music/" class="Plain">Elite Music</a></p>
 <p><a title="Elite Studios" href="http://www.LIWeddings.com/vendors/videographers/elite-studios/" class="Plain">Elite Studios</a></p>
 <p><a title="Elite Transport" href="http://www.LIWeddings.com/vendors/buses/Elite_Transport/" class="Plain">Elite Transport</a></p>
-<p><a title="Elizabeth Kristin Photography" href="http://www.LIWeddings.com/vendors/boudoir/elizabeth-kristin-photography/" class="Plain">Elizabeth Kristin Photography</a></p>
-<p><a title="EllaBlue NY " href="http://www.LIWeddings.com/vendors/coordinator/ellablue-ny/ " class="Plain">EllaBlue NY </a></p>
+<p><a title="EllaBlue NY " href="http://www.LIWeddings.com/vendors/coordinator-day-of-coordinator/ellablue-ny/ " class="Plain">EllaBlue NY </a></p>
 <p><a title="Elsa - Rings Boutique" href="http://www.LIWeddings.com/vendors/jewelers/elsa-rings-boutique/" class="Plain">Elsa - Rings Boutique</a></p>
-<p><a title="Embellished" href="http://www.LIWeddings.com/vendors/wedding-details/Embellished/" class="Plain">Embellished</a></p>
 <p><a title="Emerge Graphic Design" href="http://www.LIWeddings.com/vendors/invitations/Emerge-Graphic-Design/" class="Plain">Emerge Graphic Design</a></p>
 <p><a title="Ensemble Champlain" href="http://www.LIWeddings.com/vendors/music/ensemble-champlain/" class="Plain">Ensemble Champlain</a></p>
-<p><a title="Epicure Events &amp; Design" href="http://www.LIWeddings.com/vendors/coordinator/epicure-events-and-design/" class="Plain">Epicure Events &amp; Design</a></p>
+<p><a title="Epicure Events &amp; Design" href="http://www.LIWeddings.com/vendors/coordinator-day-of-coordinator/epicure-events-and-design/" class="Plain">Epicure Events &amp; Design</a></p>
 <p><a title="Escape Concepts" href="http://www.LIWeddings.com/vendors/favors/escape-concepts/" class="Plain">Escape Concepts</a></p>
+<p><a title="Essa Salon &amp; Spa" href="http://www.LIWeddings.com/vendors/salons-spas/essa-salon-spa" class="Plain">Essa Salon &amp; Spa</a></p>
 <p><a title="Estelle's Dressy Dresses" href="http://www.LIWeddings.com/vendors/gowns/estelles-dressy-dresses/" class="Plain">Estelle's Dressy Dresses</a></p>
 <p><a title="European Wax Center" href="http://www.LIWeddings.com/vendors/hair-removal/european-wax-center/" class="Plain">European Wax Center</a></p>
 <p><a title="Event Decor NYC" href="http://www.LIWeddings.com/vendors/decor/event-decor-nyc/" class="Plain">Event Decor NYC</a></p>
 <p><a title="Eventful Productions" href="http://www.LIWeddings.com/vendors/florists/eventful-productions/" class="Plain">Eventful Productions</a></p>
+<p><a title="Events by Gabriella" href="http://www.LIWeddings.com/vendors/favors/events-by-gabriella/" class="Plain">Events by Gabriella</a></p>
 <p><a title="Executive Inn at Woodbury" href="http://www.LIWeddings.com/vendors/hotels/executive-inn-at-woodbury/" class="Plain">Executive Inn at Woodbury</a></p>
-<p><a title="Exquisite Events" href="http://www.LIWeddings.com/vendors/coordinator/Exquisite-Events/" class="Plain">Exquisite Events</a></p>
+<p><a title="Executive Limousine" href="http://www.LIWeddings.com/vendors/limousine/executive-limousine/" class="Plain">Executive Limousine</a></p>
+<p><a title="Exquisite Events" href="http://www.LIWeddings.com/vendors/coordinator-day-of-coordinator/Exquisite-Events/" class="Plain">Exquisite Events</a></p>
 <p><a title="Fade To Black New York" href="http://www.LIWeddings.com/vendors/videographers/fade-to-black/" class="Plain">Fade To Black New York</a></p>
 <p><a title="Fairy Tale Affairs" href="http://www.LIWeddings.com/vendors/invitations/fairy-tale-affairs/" class="Plain">Fairy Tale Affairs</a></p>
-<p><a title="Fairy Tale Events of New York" href="http://www.LIWeddings.com/vendors/coordinator/Fairy-Tale-Events/" class="Plain">Fairy Tale Events of New York</a></p>
 <p><a title="Fantasia Bridal Center" href="http://www.LIWeddings.com/vendors/bridal-centers/fantasia-bridal-center/" class="Plain">Fantasia Bridal Center</a></p>
-<p><a title="Fashions by Fiorenti" href="http://www.LIWeddings.com/vendors/gowns/fashions-by-florenti/" class="Plain">Fashions by Fiorenti</a></p>
 <p><a title="Favors You Keep" href="http://www.LIWeddings.com/vendors/favors/favors-you-keep/" class="Plain">Favors You Keep</a></p>
 <p><a title="Feldman Esquire Tuxedos" href="http://www.LIWeddings.com/vendors/tuxedos/feldman-esquire-tuxedos/" class="Plain">Feldman Esquire Tuxedos</a></p>
 <p><a title="Fire Monkey Hair Design" href="http://www.LIWeddings.com/vendors/hair/fire-monkey-hair-design/" class="Plain">Fire Monkey Hair Design</a></p>
-<p><a title="First Day Films" href="http://www.LIWeddings.com/vendors/videographers/first-day-films/" class="Plain">First Day Films</a></p>
 <p><a title="Floral Designs By Nina" href="http://www.LIWeddings.com/vendors/florists/floral-designs-by-nina/" class="Plain">Floral Designs By Nina</a></p>
 <p><a title="Floral Terrace" href="http://www.LIWeddings.com/vendors/reception-locations/floral-terrace/" class="Plain">Floral Terrace</a></p>
 <p><a title="Florisan LLC" href="http://www.LIWeddings.com/vendors/florists/florisan/" class="Plain">Florisan LLC</a></p>
+<p><a title="Flower Barn" href="http://www.LIWeddings.com/vendors/florists/barn/" class="Plain">Flower Barn</a></p>
 <p><a title="Flowerfield" href="http://www.LIWeddings.com/vendors/reception-locations/flowerfield/" class="Plain">Flowerfield</a></p>
 <p><a title="Flowers By Brian" href="http://www.LIWeddings.com/vendors/florists/flowers-by-brian/" class="Plain">Flowers By Brian</a></p>
 <p><a title="FM Entertainment" href="http://www.LIWeddings.com/vendors/djs/fm-entertainment/" class="Plain">FM Entertainment</a></p>
 <p><a title="For The Modern Bride" href="http://www.LIWeddings.com/vendors/card-box/for-the-modern-bride/" class="Plain">For The Modern Bride</a></p>
-<p><a title="Forever In Bloom" href="http://www.LIWeddings.com/vendors/floral-preservation/forever-in-bloom/" class="Plain">Forever In Bloom</a></p>
 <p><a title="Four Points by Sheraton - Plainview" href="http://www.LIWeddings.com/vendors/hotels/four-points-by-sheraton/" class="Plain">Four Points by Sheraton - Plainview</a></p>
 <p><a title="Fox Hollow Catering" href="http://www.LIWeddings.com/vendors/reception-locations/fox-hollow-catering/" class="Plain">Fox Hollow Catering</a></p>
 <p><a title="Fr David Grainson" href="http://www.LIWeddings.com/vendors/officiants/Fr-David-Grainson/" class="Plain">Fr David Grainson</a></p>
@@ -730,7 +783,6 @@ asv();
 <p><a title="Francine's Bridal Experience" href="http://www.LIWeddings.com/vendors/bridal-accessories/francines-bridal-experience/" class="Plain">Francine's Bridal Experience</a></p>
 <p><a title="Franklin Square Photographers" href="http://www.LIWeddings.com/vendors/photographers/franklin-square-photographers/" class="Plain">Franklin Square Photographers</a></p>
 <p><a title="Franklin Wayne Music" href="http://www.LIWeddings.com/vendors/bands/franklin-wayne-music/" class="Plain">Franklin Wayne Music</a></p>
-<p><a title="Frassanito Jewelers" href="http://www.LIWeddings.com/vendors/jewelers/frassanito-jewelers/" class="Plain">Frassanito Jewelers</a></p>
 <p><a title="Fresh Face Forward" href="http://www.LIWeddings.com/vendors/make-up/fresh-face-forward/" class="Plain">Fresh Face Forward</a></p>
 <p><a title="Full View Studios" href="http://www.LIWeddings.com/vendors/photographers/full-view-studios/" class="Plain">Full View Studios</a></p>
 <p><a title="Fusion DL" href="http://www.LIWeddings.com/vendors/djs/fusion-DL/" class="Plain">Fusion DL</a></p>
@@ -738,20 +790,18 @@ asv();
 <p><a title="Garden City Hotel" href="http://www.LIWeddings.com/vendors/hotels/garden-city-hotel/" class="Plain">Garden City Hotel</a></p>
 <p><a title="Garden City Hotel - Rein Restaurant" href="http://www.LIWeddings.com/vendors/rehearsal-dinner/garden-city-hotels/" class="Plain">Garden City Hotel - Rein Restaurant</a></p>
 <p><a title="Giorgio's" href="http://www.LIWeddings.com/vendors/reception-locations/giorgios/" class="Plain">Giorgio's</a></p>
+<p><a title="Glam Me Up" href="http://www.LIWeddings.com/vendors/make-up/glam-me-up/" class="Plain">Glam Me Up</a></p>
 <p><a title="Glen Cove Mansion" href="http://www.LIWeddings.com/vendors/reception-locations/glen-cove-mansion/" class="Plain">Glen Cove Mansion</a></p>
+<p><a title="Go Tee Entertainment" href="http://www.LIWeddings.com/vendors/videographers/go-tee-entertainment/" class="Plain">Go Tee Entertainment</a></p>
 <p><a title="Gold Star Limousine" href="http://www.LIWeddings.com/vendors/limousine/gold-star-limousine/" class="Plain">Gold Star Limousine</a></p>
 <p><a title="Golden Moments" href="http://www.LIWeddings.com/vendors/videographers/golden-moments/" class="Plain">Golden Moments</a></p>
 <p><a title="Good Old Gold" href="http://www.LIWeddings.com/vendors/jewelers/good-old-gold/" class="Plain">Good Old Gold</a></p>
 <p><a title="Gorgeous Faces" href="http://www.LIWeddings.com/vendors/beauty/gorgeous-faces/" class="Plain">Gorgeous Faces</a></p>
 <p><a title="Grand Bouquets" href="http://www.LIWeddings.com/vendors/florists/grand-bouquets/" class="Plain">Grand Bouquets</a></p>
-<p><a title="Grand Cru Classes" href="http://www.LIWeddings.com/vendors/bachelorette/Grand-Cru-Classes/" class="Plain">Grand Cru Classes</a></p>
-<p><a title="Gregory Muller Photography" href="http://www.LIWeddings.com/vendors/photographers/gregory-muller-photo/" class="Plain">Gregory Muller Photography</a></p>
+<p><a title="Grand Prospect Hall" href="http://www.LIWeddings.com/vendors/reception-locations/grand-prospect-hall" class="Plain">Grand Prospect Hall</a></p>
+<p><a title="Gray Studios " href="http://www.LIWeddings.com/vendors/photographers/gray-studios/" class="Plain">Gray Studios </a></p>
 <p><a title="Gurney's Inn" href="http://www.LIWeddings.com/vendors/reception-locations/gurneys-inn/" class="Plain">Gurney's Inn</a></p>
-<p><a title="Hair Extensions By Bridal Touch" href="http://www.LIWeddings.com/vendors/hair/hair-extensions-by-bridal-touch" class="Plain">Hair Extensions By Bridal Touch</a></p>
 <p><a title="Hair Sculpting by Renee" href="http://www.LIWeddings.com/vendors/hair/hair-sculpting-by-renee/" class="Plain">Hair Sculpting by Renee</a></p>
-<p><a title="Hamlet Golf and Country Club" href="http://www.LIWeddings.com/vendors/reception-locations/hamlet-golf-and-country-club/" class="Plain">Hamlet Golf and Country Club</a></p>
-<p><a title="Hamlet Willow Creek" href="http://www.LIWeddings.com/vendors/reception-locations/hamlet-willow-creek/" class="Plain">Hamlet Willow Creek</a></p>
-<p><a title="Hamlet Wind Watch" href="http://www.LIWeddings.com/vendors/reception-locations/hamlet-wind-watch/" class="Plain">Hamlet Wind Watch</a></p>
 <p><a title="Hampton Inn Jericho - Westbury" href="http://www.LIWeddings.com/vendors/hotels/hampton-inn-jericho-westbury/" class="Plain">Hampton Inn Jericho - Westbury</a></p>
 <p><a title="Happily Ever After" href="http://www.LIWeddings.com/vendors/hair/happily-ever-after/" class="Plain">Happily Ever After</a></p>
 <p><a title="Harbor Club" href="http://www.LIWeddings.com/vendors/reception-locations/harbor-club/" class="Plain">Harbor Club</a></p>
@@ -760,38 +810,35 @@ asv();
 <p><a title="Harpist Katharine Saxton" href="http://www.LIWeddings.com/vendors/harps/harpist-katharine-saxton/" class="Plain">Harpist Katharine Saxton</a></p>
 <p><a title="Hart to Hart Entertainment" href="http://www.LIWeddings.com/vendors/djs/hart-to-hart-entertainment/" class="Plain">Hart to Hart Entertainment</a></p>
 <p><a title="Have You Heard" href="http://www.LIWeddings.com/vendors/invitations/have-you-heard/" class="Plain">Have You Heard</a></p>
+<p><a title="Heavenly Weddings Inc." href="http://www.LIWeddings.com/vendors/honeymoons/heavenly-weddings/" class="Plain">Heavenly Weddings Inc.</a></p>
+<p><a title="Heena Das Beauty" href="http://www.LIWeddings.com/vendors/make-up/heena-das-beauty/" class="Plain">Heena Das Beauty</a></p>
 <p><a title="Henry Leung Photography" href="http://www.LIWeddings.com/vendors/photographers/henry-leung-photography/" class="Plain">Henry Leung Photography</a></p>
 <p><a title="Hidden Essence" href="http://www.LIWeddings.com/vendors/florists/Hidden-Essence/" class="Plain">Hidden Essence</a></p>
-<p><a title="High Energy Entertainment" href="http://www.LIWeddings.com/vendors/djs/high-energy-entertainment/" class="Plain">High Energy Entertainment</a></p>
 <p><a title="Hilton Long Island" href="http://www.LIWeddings.com/vendors/reception-locations/hilton-long-island/" class="Plain">Hilton Long Island</a></p>
 <p><a title="Historical Chapel" href="http://www.LIWeddings.com/vendors/ceremony-locations/historical-chapel/" class="Plain">Historical Chapel</a></p>
 <p><a title="Holiday Inn Plainview" href="http://www.LIWeddings.com/vendors/reception-locations/Holiday-Inn-Plainview/" class="Plain">Holiday Inn Plainview</a></p>
 <p><a title="Hollywood Salon &amp; Day Spa" href="http://www.LIWeddings.com/vendors/salons-spas/hollywood-salon-and-day-spa/" class="Plain">Hollywood Salon &amp; Day Spa</a></p>
-<p><a title="Home Buying 101" href="http://www.LIWeddings.com/vendors/mortgages/home-buying-101/" class="Plain">Home Buying 101</a></p>
-<p><a title="Hot Pursuit Music" href="http://www.LIWeddings.com/vendors/bands/hot-pursuit-music/" class="Plain">Hot Pursuit Music</a></p>
 <p><a title="Hotel Indigo East End" href="http://www.LIWeddings.com/vendors/reception-locations/hotel-indigo-east-end/" class="Plain">Hotel Indigo East End</a></p>
 <p><a title="Hyatt Regency Long Island" href="http://www.LIWeddings.com/vendors/reception-locations/hyatt-regency-long-island/" class="Plain">Hyatt Regency Long Island</a></p>
 <p><a title="I Make Up You" href="http://www.LIWeddings.com/vendors/make-up/i-make-up-you/" class="Plain">I Make Up You</a></p>
 <p><a title="i.d. Salon" href="http://www.LIWeddings.com/vendors/salons-spas/i-d-salon/" class="Plain">i.d. Salon</a></p>
-<p><a title="Ice Sculpture Designs" href="http://www.LIWeddings.com/vendors/ice-sculptors/ice-sculpture-design/" class="Plain">Ice Sculpture Designs</a></p>
 <p><a title="Imagine Studios" href="http://www.LIWeddings.com/vendors/photographers/imagine-studios/" class="Plain">Imagine Studios</a></p>
-<p><a title="In The Zone Personal Fitness" href="http://www.LIWeddings.com/vendors/health-fitness/in-the-zone-personal-fitness/" class="Plain">In The Zone Personal Fitness</a></p>
 <p><a title="IncrediBooths!" href="http://www.LIWeddings.com/vendors/photobooth/incredibooths/" class="Plain">IncrediBooths!</a></p>
 <p><a title="Infinite Video Productions" href="http://www.LIWeddings.com/vendors/videographers/infinite-video-productions/" class="Plain">Infinite Video Productions</a></p>
 <p><a title="Inn at Great Neck" href="http://www.LIWeddings.com/vendors/hotels/inn-at-great-neck/" class="Plain">Inn at Great Neck</a></p>
 <p><a title="Interfaith Union" href="http://www.LIWeddings.com/vendors/officiants/interfaith-union/" class="Plain">Interfaith Union</a></p>
 <p><a title="International Sounds" href="http://www.LIWeddings.com/vendors/djs/international-sounds/" class="Plain">International Sounds</a></p>
 <p><a title="Invitations and Beyond" href="http://www.LIWeddings.com/vendors/invitations/invitations-and-beyond/" class="Plain">Invitations and Beyond</a></p>
-<p><a title="J Castillo Films" href="http://www.LIWeddings.com/vendors/videographers/j-castillo-films/" class="Plain">J Castillo Films</a></p>
+<p><a title="Island Orthodontics" href="http://www.LIWeddings.com/vendors/orthodontists/island-orthodontics/" class="Plain">Island Orthodontics</a></p>
+<p><a title="Island Shores Travel" href="http://www.LIWeddings.com/vendors/honeymoons/island-shores-travel/" class="Plain">Island Shores Travel</a></p>
 <p><a title="J&amp;D Invitations Etc." href="http://www.LIWeddings.com/vendors/invitations/J-and-D-invitations/" class="Plain">J&amp;D Invitations Etc.</a></p>
+<p><a title="J. Lynn Affairs" href="http://www.LIWeddings.com/vendors/coordinator-day-of-coordinator/j-lynn-affairs/" class="Plain">J. Lynn Affairs</a></p>
 <p><a title="J.P.I. Films" href="http://www.LIWeddings.com/vendors/videographers/jpi-video/" class="Plain">J.P.I. Films</a></p>
 <p><a title="Jacqueline Nicole Cosmetics" href="http://www.LIWeddings.com/vendors/beauty/jacqueline-nicole-cosmetics/" class="Plain">Jacqueline Nicole Cosmetics</a></p>
-<p><a title="Jaime's Passion Parties" href="http://www.LIWeddings.com/vendors/bachelorette/jaimes-passion-parties/" class="Plain">Jaime's Passion Parties</a></p>
 <p><a title="James Anthony Floral &amp; Event Design" href="http://www.LIWeddings.com/vendors/florists/james-anthony-floral/" class="Plain">James Anthony Floral &amp; Event Design</a></p>
-<p><a title="James Tramondo Events" href="http://www.LIWeddings.com/vendors/coordinator/james-tramondo-events/" class="Plain">James Tramondo Events</a></p>
+<p><a title="James Tramondo Events" href="http://www.LIWeddings.com/vendors/coordinator-day-of-coordinator/james-tramondo-events/" class="Plain">James Tramondo Events</a></p>
 <p><a title="Jazz Limousine" href="http://www.LIWeddings.com/vendors/limousine/jazz-limousine/" class="Plain">Jazz Limousine</a></p>
 <p><a title="Jeffrey Studio" href="http://www.LIWeddings.com/vendors/photographers/jeffrey-studio/" class="Plain">Jeffrey Studio</a></p>
-<p><a title="Jenerations Photography" href="http://www.LIWeddings.com/vendors/Boudoir/jenerations-photography/" class="Plain">Jenerations Photography</a></p>
 <p><a title="Jessica Leigh Paperie" href="http://www.LIWeddings.com/vendors/invitations/jessica-leigh-paperie/" class="Plain">Jessica Leigh Paperie</a></p>
 <p><a title="Jill Harth Beauty" href="http://www.LIWeddings.com/vendors/make-up/jill-harth-beauty/" class="Plain">Jill Harth Beauty</a></p>
 <p><a title="JK Entertainment" href="http://www.LIWeddings.com/vendors/bands/jk-entertainment/" class="Plain">JK Entertainment</a></p>
@@ -799,16 +846,19 @@ asv();
 <p><a title="Judge William J. Corbett" href="http://www.LIWeddings.com/vendors/officiants/judge-WilliamJ/" class="Plain">Judge William J. Corbett</a></p>
 <p><a title="Just Melt" href="http://www.LIWeddings.com/vendors/health-fitness/just-melt/" class="Plain">Just Melt</a></p>
 <p><a title="Karen Abitol" href="http://www.LIWeddings.com/vendors/make-up/karen-abitol/" class="Plain">Karen Abitol</a></p>
+<p><a title="Keep Me Photography" href="http://www.LIWeddings.com/vendors/boudoir/keep-me-photography/" class="Plain">Keep Me Photography</a></p>
 <p><a title="Keepsake Floral" href="http://www.LIWeddings.com/vendors/floral-preservation/keepsake-floral/" class="Plain">Keepsake Floral</a></p>
+<p><a title="Ken Hild Photography" href="http://www.LIWeddings.com/vendors/photographers/ken-hild-photography/" class="Plain">Ken Hild Photography</a></p>
 <p><a title="Khouloud's Beauty" href="http://www.LIWeddings.com/vendors/hair/khouloud-beauty/" class="Plain">Khouloud's Beauty</a></p>
 <p><a title="L.I. Paramount" href="http://www.LIWeddings.com/vendors/bands/paramount/" class="Plain">L.I. Paramount</a></p>
 <p><a title="La Bonne Boulangerie" href="http://www.LIWeddings.com/vendors/bakeries/la-bonne-boulangerie/" class="Plain">La Bonne Boulangerie</a></p>
-<p><a title="LA Productions" href="http://www.LIWeddings.com/vendors/invitations/la-productions/" class="Plain">LA Productions</a></p>
+<p><a title="LaceyClaireDesigns" href="http://www.LIWeddings.com/vendors/card-box/lacey-claire-designs/" class="Plain">LaceyClaireDesigns</a></p>
 <p><a title="LaCole Salon &amp; Spa" href="http://www.LIWeddings.com/vendors/salons-spas/LaCole-Salon-Spa/" class="Plain">LaCole Salon &amp; Spa</a></p>
 <p><a title="Lancelot Limousine Services, Inc." href="http://www.LIWeddings.com/vendors/limousine/lancelot-limousine-services/" class="Plain">Lancelot Limousine Services, Inc.</a></p>
 <p><a title="Land's End" href="http://www.LIWeddings.com/vendors/reception-locations/lands-end/" class="Plain">Land's End</a></p>
 <p><a title="Larkfield Manor" href="http://www.LIWeddings.com/vendors/reception-locations/larkfield-manor/" class="Plain">Larkfield Manor</a></p>
 <p><a title="Laser Plus Spa" href="http://www.LIWeddings.com/vendors/hair-removal/laser-plus-spa/" class="Plain">Laser Plus Spa</a></p>
+<p><a title="Laurel &amp; Lily LTD" href="http://www.LIWeddings.com/vendors/florists/laurel-and-lily-ltd/" class="Plain">Laurel &amp; Lily LTD</a></p>
 <p><a title="Lavender Bridal Studio" href="http://www.LIWeddings.com/vendors/photographers/lavender-bridal-studio/" class="Plain">Lavender Bridal Studio</a></p>
 <p><a title="Lawrence Photography &amp; Video" href="http://www.LIWeddings.com/vendors/videographers/lawrence-photography-video/" class="Plain">Lawrence Photography &amp; Video</a></p>
 <p><a title="Legend Limousines" href="http://www.LIWeddings.com/vendors/limousine/legend-limousines/" class="Plain">Legend Limousines</a></p>
@@ -818,20 +868,22 @@ asv();
 <p><a title="Lessing's Waterfront Mansions" href="http://www.LIWeddings.com/vendors/reception-locations/lessings-waterfront-mansions/" class="Plain">Lessing's Waterfront Mansions</a></p>
 <p><a title="Lessing's Waterfront Weddings" href="http://www.LIWeddings.com/vendors/reception-locations/lessingcc/" class="Plain">Lessing's Waterfront Weddings</a></p>
 <p><a title="Lexi-Bella Photography" href="http://www.LIWeddings.com/vendors/photographers/lexi-bella-photography/" class="Plain">Lexi-Bella Photography</a></p>
-<p><a title="Lia Sophia - Nicole Schnabel" href="http://www.LIWeddings.com/vendors/jewelers/lia-sophia-nicole-schnabel/" class="Plain">Lia Sophia - Nicole Schnabel</a></p>
-<p><a title="LIBoudoirPhotography.com" href="http://www.LIWeddings.com/vendors/Boudoir/liboudoirphotography/" class="Plain">LIBoudoirPhotography.com</a></p>
 <p><a title="Lighthouse Photography" href="http://www.LIWeddings.com/vendors/photographers/lighthouse-photography/" class="Plain">Lighthouse Photography</a></p>
-<p><a title="Lisa Bari Makeup" href="http://www.LIWeddings.com/vendors/make-up/lisa-bari/" class="Plain">Lisa Bari Makeup</a></p>
+<p><a title="Little Miss Cake Company &amp; Desserts" href="http://www.LIWeddings.com/vendors/bakeries/little-miss-cake/" class="Plain">Little Miss Cake Company &amp; Desserts</a></p>
 <p><a title="LIWeddings.com NYCityWeddings.com Vendor" href="http://www.LIWeddings.com/vendors/wedding-details/liw/" class="Plain">LIWeddings.com NYCityWeddings.com Vendor</a></p>
 <p><a title="Lola Loves Makeup" href="http://www.LIWeddings.com/vendors/make-up/lola-loves-makeup/" class="Plain">Lola Loves Makeup</a></p>
 <p><a title="Lombardis on the Bay" href="http://www.LIWeddings.com/vendors/reception-locations/lombardis-on-the-bay/" class="Plain">Lombardis on the Bay</a></p>
 <p><a title="Lombardis On The Sound" href="http://www.LIWeddings.com/vendors/reception-locations/Lombardis-on-the-Sound/" class="Plain">Lombardis On The Sound</a></p>
+<p><a title="Long Island Laser Group" href="http://www.LIWeddings.com/vendors/hair-removal/long-island-laser-group/" class="Plain">Long Island Laser Group</a></p>
 <p><a title="Long Island Maritime Museum" href="http://www.LIWeddings.com/vendors/reception-locations/long-island-maritime-museum/" class="Plain">Long Island Maritime Museum</a></p>
-<p><a title="Long Island Scuba" href="http://www.LIWeddings.com/vendors/honeymoons/long-island-scuba/" class="Plain">Long Island Scuba</a></p>
+<p><a title="Long Island Marriott" href="http://www.LIWeddings.com/vendors/indian-weddings/long-island-marriott/" class="Plain">Long Island Marriott</a></p>
+<p><a title="Long Island Marriott-Uniondale  JW" href="http://www.LIWeddings.com/vendors/reception-locations/marriott-uniondale/" class="Plain">Long Island Marriott-Uniondale  JW</a></p>
 <p><a title="Long Island Sound" href="http://www.LIWeddings.com/vendors/djs/long-island-sound/" class="Plain">Long Island Sound</a></p>
-<p><a title="Long Island Wedding Boutique" href="http://www.LIWeddings.com/vendors/coordinator/long-island-wedding-boutique/" class="Plain">Long Island Wedding Boutique</a></p>
+<p><a title="Long Island Wedding Boutique" href="http://www.LIWeddings.com/vendors/coordinator-day-of-coordinator/long-island-wedding-boutique/" class="Plain">Long Island Wedding Boutique</a></p>
+<p><a title="Lounge Blue" href="http://www.LIWeddings.com/vendors/lounge-decor/lounge-blue" class="Plain">Lounge Blue</a></p>
 <p><a title="Love Is In The Air" href="http://www.LIWeddings.com/vendors/dove-release/Love-Is-In-The-Air/" class="Plain">Love Is In The Air</a></p>
 <p><a title="Lovin Oven Floral Designs" href="http://www.LIWeddings.com/vendors/florists/lovin-oven-floral-designs/" class="Plain">Lovin Oven Floral Designs</a></p>
+<p><a title="Luxe Life Beauty" href="http://www.LIWeddings.com/vendors/hair/luxe-life-beauty/" class="Plain">Luxe Life Beauty</a></p>
 <p><a title="Luxury Travel Girl" href="http://www.LIWeddings.com/vendors/honeymoons/luxury-travel-girl/" class="Plain">Luxury Travel Girl</a></p>
 <p><a title="M &amp; V Limousines" href="http://www.LIWeddings.com/vendors/limousine/m-and-v-limousines/" class="Plain">M &amp; V Limousines</a></p>
 <p><a title="M.A.S. Music" href="http://www.LIWeddings.com/vendors/music/m-a-s-music/" class="Plain">M.A.S. Music</a></p>
@@ -848,7 +900,6 @@ asv();
 <p><a title="Marken Music" href="http://www.LIWeddings.com/vendors/bands/marken-music/" class="Plain">Marken Music</a></p>
 <p><a title="Marriage Secrets" href="http://www.LIWeddings.com/vendors/marriage-secrets/marriage-secrets/" class="Plain">Marriage Secrets</a></p>
 <p><a title="Marriott-Islandia" href="http://www.LIWeddings.com/vendors/reception-locations/marriott-islandia/" class="Plain">Marriott-Islandia</a></p>
-<p><a title="Mattson Photographers" href="http://www.LIWeddings.com/vendors/boudoir/mattson-photographers/" class="Plain">Mattson Photographers</a></p>
 <p><a title="Maximus Bridal" href="http://www.LIWeddings.com/vendors/salons-spas/maximus-bridal/" class="Plain">Maximus Bridal</a></p>
 <p><a title="Mediterranean Manor Caterers" href="http://www.LIWeddings.com/vendors/reception-locations/mediterranean-manor-caterers/" class="Plain">Mediterranean Manor Caterers</a></p>
 <p><a title="Memento Photography" href="http://www.LIWeddings.com/vendors/photographers/memento-photography/" class="Plain">Memento Photography</a></p>
@@ -857,7 +908,6 @@ asv();
 <p><a title="MG Hair &amp; Makeup" href="http://www.LIWeddings.com/vendors/hair/mghair/" class="Plain">MG Hair &amp; Makeup</a></p>
 <p><a title="Miller Beach Surf Club" href="http://www.LIWeddings.com/vendors/reception-locations/millerbeachsurfclub/" class="Plain">Miller Beach Surf Club</a></p>
 <p><a title="Milleridge Cottage" href="http://www.LIWeddings.com/vendors/reception-locations/milleridge/" class="Plain">Milleridge Cottage</a></p>
-<p><a title="Millimeter Photography" href="http://www.LIWeddings.com/vendors/photographers/millimeter/" class="Plain">Millimeter Photography</a></p>
 <p><a title="Modern Wedding Photography" href="http://www.LIWeddings.com/vendors/photographers/modern-wedding/" class="Plain">Modern Wedding Photography</a></p>
 <p><a title="Montauk Chamber of Commerce" href="http://www.LIWeddings.com/vendors/hamptons-weddings/montauk-chamber-of-commerce/" class="Plain">Montauk Chamber of Commerce</a></p>
 <p><a title="Montauk Yacht Club Resort &amp; Marina" href="http://www.LIWeddings.com/vendors/reception-locations/montauk-yatch-club-resort-and-marina/" class="Plain">Montauk Yacht Club Resort &amp; Marina</a></p>
@@ -869,7 +919,7 @@ asv();
 <p><a title="National Event Connection - Photobooth" href="http://www.LIWeddings.com/vendors/photobooth/national-event-connection/" class="Plain">National Event Connection - Photobooth</a></p>
 <p><a title="New York Bariatric Group" href="http://www.LIWeddings.com/vendors/bariatric-medicine/new-york-bariatric-group/" class="Plain">New York Bariatric Group</a></p>
 <p><a title="New York Body Rhythms" href="http://www.LIWeddings.com/vendors/dance/newyork-body-rhythms/" class="Plain">New York Body Rhythms</a></p>
-<p><a title="New York Minute" href="http://www.LIWeddings.com/vendors/bands/new-york-minute/" class="Plain">New York Minute</a></p>
+<p><a title="New York Cruises Inc" href="http://www.LIWeddings.com/vendors/yachts/new-york-cruises-inc/" class="Plain">New York Cruises Inc</a></p>
 <p><a title="Nicole D'Angio" href="http://www.LIWeddings.com/vendors/hair/nicole-d-angio/" class="Plain">Nicole D'Angio</a></p>
 <p><a title="Nikki's Dressing Room" href="http://www.LIWeddings.com/vendors/gowns/nikkis-dressing-room/" class="Plain">Nikki's Dressing Room</a></p>
 <p><a title="Niteflight Productions" href="http://www.LIWeddings.com/vendors/bands/niteflight-productions/" class="Plain">Niteflight Productions</a></p>
@@ -879,16 +929,14 @@ asv();
 <p><a title="North Ritz Club" href="http://www.LIWeddings.com/vendors/reception-locations/north-ritz-club/" class="Plain">North Ritz Club</a></p>
 <p><a title="Numis Network" href="http://www.LIWeddings.com/vendors/gifts/numis-network/" class="Plain">Numis Network</a></p>
 <p><a title="NY Digital Memories" href="http://www.LIWeddings.com/vendors/photobooth/ny-digital-memories/" class="Plain">NY Digital Memories</a></p>
-<p><a title="NY Event Expo" href="http://www.LIWeddings.com/vendors/lounge-decor/ny-event-expo/" class="Plain">NY Event Expo</a></p>
 <p><a title="NY Lounge Decor" href="http://www.LIWeddings.com/vendors/lighting/ny-lounge-decor/" class="Plain">NY Lounge Decor</a></p>
 <p><a title="NY Marriages" href="http://www.LIWeddings.com/vendors/officiants/ny-marriages/" class="Plain">NY Marriages</a></p>
 <p><a title="NYC Photobooth" href="http://www.LIWeddings.com/vendors/photobooth/nyc-photobooth/" class="Plain">NYC Photobooth</a></p>
 <p><a title="NYIT de Seversky Mansion" href="http://www.LIWeddings.com/vendors/reception-locations/nyit-de-seversky-mansion/" class="Plain">NYIT de Seversky Mansion</a></p>
 <p><a title="Oceanbleu" href="http://www.LIWeddings.com/vendors/reception-locations/oceanbleu/" class="Plain">Oceanbleu</a></p>
-<p><a title="One Enchanted Evening" href="http://www.LIWeddings.com/vendors/coordinator/one-enchanted-evening/" class="Plain">One Enchanted Evening</a></p>
-<p><a title="Orange Films" href="http://www.LIWeddings.com/vendors/videographers/orange_films/" class="Plain">Orange Films</a></p>
+<p><a title="One Enchanted Evening" href="http://www.LIWeddings.com/vendors/coordinator-day-of-coordinator/one-enchanted-evening/" class="Plain">One Enchanted Evening</a></p>
+<p><a title="Orange Films" href="http://www.LIWeddings.com/vendors/videographers/orange-films/" class="Plain">Orange Films</a></p>
 <p><a title="Ovation Photo Booth" href="http://www.LIWeddings.com/vendors/photobooth/ovation-photo-booth/" class="Plain">Ovation Photo Booth</a></p>
-<p><a title="Palermo Bakery" href="http://www.LIWeddings.com/vendors/bakeries/palermo-bakery/" class="Plain">Palermo Bakery</a></p>
 <p><a title="Paradise Alley" href="http://www.LIWeddings.com/vendors/bands/paradise-alley/" class="Plain">Paradise Alley</a></p>
 <p><a title="Paradise Bridals and Tuxedos" href="http://www.LIWeddings.com/vendors/gowns/paradise-bridals-and-tuxedos/" class="Plain">Paradise Bridals and Tuxedos</a></p>
 <p><a title="Paris Live Music" href="http://www.LIWeddings.com/vendors/bands/paris-live-music/" class="Plain">Paris Live Music</a></p>
@@ -901,19 +949,16 @@ asv();
 <p><a title="Pennylane Productions" href="http://www.LIWeddings.com/vendors/videographers/pennylane-productions/" class="Plain">Pennylane Productions</a></p>
 <p><a title="Perfect Faces By Jessica" href="http://www.LIWeddings.com/vendors/make-up/perfect-faces-by-jessica/" class="Plain">Perfect Faces By Jessica</a></p>
 <p><a title="Perrys Florist" href="http://www.LIWeddings.com/vendors/florists/perrys-florist/" class="Plain">Perrys Florist</a></p>
-<p><a title="Personal Training Studio" href="http://www.LIWeddings.com/vendors/health-fitness/Personal-Training-Studio/" class="Plain">Personal Training Studio</a></p>
 <p><a title="Photos of the Heart" href="http://www.LIWeddings.com/vendors/photographers/photos-of-the-heart/" class="Plain">Photos of the Heart</a></p>
-<p><a title="Piece of Cake Events " href="http://www.LIWeddings.com/vendors/coordinator/piece-of-cake-events/ " class="Plain">Piece of Cake Events </a></p>
+<p><a title="Piece of Cake Events " href="http://www.LIWeddings.com/vendors/coordinator-day-of-coordinator/piece-of-cake-events/ " class="Plain">Piece of Cake Events </a></p>
 <p><a title="Pink Noise Band" href="http://www.LIWeddings.com/vendors/bands/pink-noise/" class="Plain">Pink Noise Band</a></p>
 <p><a title="Plandome Paperie" href="http://www.LIWeddings.com/vendors/invitations/plandome-paperie/" class="Plain">Plandome Paperie</a></p>
-<p><a title="PolkaDot Pound Cake" href="http://www.LIWeddings.com/vendors/favors/polkadot-pound-cake/" class="Plain">PolkaDot Pound Cake</a></p>
 <p><a title="Prestige Events Visions In Lighting" href="http://www.LIWeddings.com/vendors/lighting/prestige-events-visions/" class="Plain">Prestige Events Visions In Lighting</a></p>
 <p><a title="Prestige Preservation" href="http://www.LIWeddings.com/vendors/gowns/prestige-preservations/" class="Plain">Prestige Preservation</a></p>
 <p><a title="Proline Studios" href="http://www.LIWeddings.com/vendors/photographers/proline-studio/" class="Plain">Proline Studios</a></p>
-<p><a title="Prudential Douglas Elliman- Maureen Raia" href="http://www.LIWeddings.com/vendors/real-estate/prudential-douglas-elliman-maureen-raia/" class="Plain">Prudential Douglas Elliman- Maureen Raia</a></p>
-<p><a title="PWP Event Planning Design &amp; Boutique" href="http://www.LIWeddings.com/vendors/coordinator/pwp-event-planning-design-and-boutique/" class="Plain">PWP Event Planning Design &amp; Boutique</a></p>
 <p><a title="PWP Event Planning Design &amp; Boutique Florals" href="http://www.LIWeddings.com/vendors/florists/pwp-event-planning-design-and-boutique-florals/" class="Plain">PWP Event Planning Design &amp; Boutique Florals</a></p>
 <p><a title="Rabbi Alan Stein" href="http://www.LIWeddings.com/vendors/officiants/rabbi-alan-stein/" class="Plain">Rabbi Alan Stein</a></p>
+<p><a title="Randy Rich Photography" href="http://www.LIWeddings.com/vendors/boudoir/randy-rich-photography/" class="Plain">Randy Rich Photography</a></p>
 <p><a title="Red Carpet Limousines" href="http://www.LIWeddings.com/vendors/limousine/red-carpet-limousines/" class="Plain">Red Carpet Limousines</a></p>
 <p><a title="RentAKilt.com" href="http://www.LIWeddings.com/vendors/bagpipers/rent-a-kilt/" class="Plain">RentAKilt.com</a></p>
 <p><a title="Rev Thomas G. McCormick" href="http://www.LIWeddings.com/vendors/officiants/rev-thomas-g-mccormick/" class="Plain">Rev Thomas G. McCormick</a></p>
@@ -922,16 +967,18 @@ asv();
 <p><a title="RJ's Limousines" href="http://www.LIWeddings.com/vendors/limousine/rjs-limousines/" class="Plain">RJ's Limousines</a></p>
 <p><a title="RJ's Personal Fitness" href="http://www.LIWeddings.com/vendors/health-fitness/rjs-personal-fitness/" class="Plain">RJ's Personal Fitness</a></p>
 <p><a title="Roots, Flowers and Treasures" href="http://www.LIWeddings.com/vendors/florists/roots-flowers-and-treasures/" class="Plain">Roots, Flowers and Treasures</a></p>
+<p><a title="Rose's Bridal Boutique" href="http://www.LIWeddings.com/vendors/bridal-accessories/roses-bridal-boutique/" class="Plain">Rose's Bridal Boutique</a></p>
+<p><a title="Rosie's Tailoring" href="http://www.LIWeddings.com/vendors/alterations/rosies-tailoring" class="Plain">Rosie's Tailoring</a></p>
+<p><a title="Royal Restrooms" href="http://www.LIWeddings.com/vendors/restrooms/royal-restrooms" class="Plain">Royal Restrooms</a></p>
 <p><a title="Royalty Limousines Ltd." href="http://www.LIWeddings.com/vendors/limousine/royalty-limousines/" class="Plain">Royalty Limousines Ltd.</a></p>
-<p><a title="RSVP Tuxedos" href="http://www.LIWeddings.com/vendors/tuxedos/rsvp-tuxedos/" class="Plain">RSVP Tuxedos</a></p>
 <p><a title="Ruby Star Photography" href="http://www.LIWeddings.com/vendors/videographers/ruby-star-photography" class="Plain">Ruby Star Photography</a></p>
 <p><a title="Salon Beyond Spa" href="http://www.LIWeddings.com/vendors/salons-spas/salon-beyond-spa/" class="Plain">Salon Beyond Spa</a></p>
+<p><a title="Salon Nouveau" href="http://www.LIWeddings.com/vendors/salons-spas/salon-nouveau/" class="Plain">Salon Nouveau</a></p>
 <p><a title="Sand Castle Caterers" href="http://www.LIWeddings.com/vendors/reception-locations/sand-castle-caterers/" class="Plain">Sand Castle Caterers</a></p>
 <p><a title="Sandalwood &amp; Sage Day Spa" href="http://www.LIWeddings.com/vendors/salons-spas/sandalwood-and-sage-day-spa/" class="Plain">Sandalwood &amp; Sage Day Spa</a></p>
 <p><a title="Sands Atlantic Beach" href="http://www.LIWeddings.com/vendors/reception-locations/sands-atlantic-beach/" class="Plain">Sands Atlantic Beach</a></p>
 <p><a title="Sandy's Shoes and Accessories" href="http://www.LIWeddings.com/vendors/bridal-accessories/sandys-shoes-and-accessories/" class="Plain">Sandy's Shoes and Accessories</a></p>
-<p><a title="Sebastianos Caterers" href="http://www.LIWeddings.com/vendors/catering/sebastianos-caterers/" class="Plain">Sebastianos Caterers</a></p>
-<p><a title="Serenity Limo Service" href="http://www.LIWeddings.com/vendors/limousine/serenitylimo/" class="Plain">Serenity Limo Service</a></p>
+<p><a title="Serenity Limousine" href="http://www.LIWeddings.com/vendors/limousine/serenitylimo/" class="Plain">Serenity Limousine</a></p>
 <p><a title="Shandon Court" href="http://www.LIWeddings.com/vendors/reception-locations/shandon-court/" class="Plain">Shandon Court</a></p>
 <p><a title="Sharper Image Tanning" href="http://www.LIWeddings.com/vendors/tanning-salons/sharper-image-tanning/" class="Plain">Sharper Image Tanning</a></p>
 <p><a title="Sherwood-Triart Studios" href="http://www.LIWeddings.com/vendors/photographers/sherwood-triart-studios/" class="Plain">Sherwood-Triart Studios</a></p>
@@ -940,12 +987,11 @@ asv();
 <p><a title="Sir Oliver Limousines" href="http://www.LIWeddings.com/vendors/limousine/sir-oliver-limousines/" class="Plain">Sir Oliver Limousines</a></p>
 <p><a title="Sivana Salon" href="http://www.LIWeddings.com/vendors/salons-spas/sivana-salon/" class="Plain">Sivana Salon</a></p>
 <p><a title="Skyline Orchestras" href="http://www.LIWeddings.com/vendors/bands/skyline-orchestras/" class="Plain">Skyline Orchestras</a></p>
+<p><a title="Slim and Shaped by It Works Global" href="http://www.LIWeddings.com/vendors/beauty/slim-and-shaped-by-it-works-global/" class="Plain">Slim and Shaped by It Works Global</a></p>
 <p><a title="Snapper Inn" href="http://www.LIWeddings.com/vendors/reception-locations/snapper-inn/" class="Plain">Snapper Inn</a></p>
 <p><a title="Soft Touch Laser &amp; Skin Renewal Center" href="http://www.LIWeddings.com/vendors/hair-removal/soft-touch-laser-and-skin-renewal-center/" class="Plain">Soft Touch Laser &amp; Skin Renewal Center</a></p>
 <p><a title="Sound Connection" href="http://www.LIWeddings.com/vendors/djs/sound-connection/" class="Plain">Sound Connection</a></p>
-<p><a title="South Shore Inns" href="http://www.LIWeddings.com/vendors/hotels/South-Shore-inns/" class="Plain">South Shore Inns</a></p>
 <p><a title="Sparkling Pointe Vineyards" href="http://www.LIWeddings.com/vendors/reception-locations/sparkling-pointe-vineyards/" class="Plain">Sparkling Pointe Vineyards</a></p>
-<p><a title="Steel Drum Music &amp; Party Percussionist" href="http://www.LIWeddings.com/vendors/music/steel-drum-music/" class="Plain">Steel Drum Music &amp; Party Percussionist</a></p>
 <p><a title="Stewart Manor Country Club" href="http://www.LIWeddings.com/vendors/reception-locations/stewart-manor-country-club/" class="Plain">Stewart Manor Country Club</a></p>
 <p><a title="Stonebridge Country Club" href="http://www.LIWeddings.com/vendors/reception-locations/stonebridgecc/" class="Plain">Stonebridge Country Club</a></p>
 <p><a title="Stuart Thomas Manor" href="http://www.LIWeddings.com/vendors/reception-locations/stuart-thomas-manor/" class="Plain">Stuart Thomas Manor</a></p>
@@ -954,6 +1000,7 @@ asv();
 <p><a title="Sugar Magnolias" href="http://www.LIWeddings.com/vendors/florists/sugar-magnolias/" class="Plain">Sugar Magnolias</a></p>
 <p><a title="Sugarplum" href="http://www.LIWeddings.com/vendors/gowns-mom/sugarplum/" class="Plain">Sugarplum</a></p>
 <p><a title="Sunday Morning Films" href="http://www.LIWeddings.com/vendors/videographers/sunday-morning-films/" class="Plain">Sunday Morning Films</a></p>
+<p><a title="Sunnyville Films" href="http://www.LIWeddings.com/vendors/videographers/sunnyville-films/" class="Plain">Sunnyville Films</a></p>
 <p><a title="SuperPaws Dog Training" href="http://www.LIWeddings.com/vendors/dog-training/superpaws-dog-training/" class="Plain">SuperPaws Dog Training</a></p>
 <p><a title="Sushi Chef Corp." href="http://www.LIWeddings.com/vendors/catering/sushi-chef/" class="Plain">Sushi Chef Corp.</a></p>
 <p><a title="Swan Club" href="http://www.LIWeddings.com/vendors/reception-locations/swan-club/" class="Plain">Swan Club</a></p>
@@ -962,80 +1009,83 @@ asv();
 <p><a title="T.H.E. Fitzgerald Photography" href="http://www.LIWeddings.com/vendors/photographers/t-h-e-fitzgerald/" class="Plain">T.H.E. Fitzgerald Photography</a></p>
 <p><a title="Table WeAr'" href="http://www.LIWeddings.com/vendors/chair-covers/TableWeAr/" class="Plain">Table WeAr'</a></p>
 <p><a title="Tailored Events" href="http://www.LIWeddings.com/vendors/decorating/tailored-events/" class="Plain">Tailored Events</a></p>
+<p><a title="Tanya's Fine European Tailoring" href="http://www.LIWeddings.com/vendors/alterations/Tanya/" class="Plain">Tanya's Fine European Tailoring</a></p>
+<p><a title="Team Extreme Health &amp; Fitness Boot Camp" href="http://www.LIWeddings.com/vendors/health-fitness/team-extreme-health-and-fitness/" class="Plain">Team Extreme Health &amp; Fitness Boot Camp</a></p>
 <p><a title="Terrace on the Park" href="http://www.LIWeddings.com/vendors/reception-locations/terrace-on-the-park/" class="Plain">Terrace on the Park</a></p>
 <p><a title="The Andrew Hotel" href="http://www.LIWeddings.com/vendors/hotels/the-andrew-hotel/" class="Plain">The Andrew Hotel</a></p>
 <p><a title="The Bridal Touch by Elena" href="http://www.LIWeddings.com/vendors/make-up/bridal-touch-by-elena/" class="Plain">The Bridal Touch by Elena</a></p>
-<p><a title="The Chateau Caterers" href="http://www.LIWeddings.com/vendors/reception-locations/the-chateau-caterers/" class="Plain">The Chateau Caterers</a></p>
 <p><a title="The Chic Room Shop" href="http://www.LIWeddings.com/vendors/favors/the-chic-room-shop/" class="Plain">The Chic Room Shop</a></p>
 <p><a title="The Cookie Lady" href="http://www.LIWeddings.com/vendors/bakeries/the-cookie-lady/" class="Plain">The Cookie Lady</a></p>
 <p><a title="The Crescent Beach Club" href="http://www.LIWeddings.com/vendors/reception-locations/crescent-beach-club/" class="Plain">The Crescent Beach Club</a></p>
 <p><a title="The Culinary Studio" href="http://www.LIWeddings.com/vendors/catering/culinary-studio/" class="Plain">The Culinary Studio</a></p>
-<p><a title="The Fitness Loft" href="http://www.LIWeddings.com/vendors/health-fitness/the-fitness-loft/" class="Plain">The Fitness Loft</a></p>
+<p><a title="The Diamond Center" href="http://www.LIWeddings.com/vendors/jewelers/the-diamond-center/" class="Plain">The Diamond Center</a></p>
 <p><a title="The Hair Genie" href="http://www.LIWeddings.com/vendors/hair/the-hair-genie/" class="Plain">The Hair Genie</a></p>
+<p><a title="The Hamlet Golf and Country Club" href="http://www.LIWeddings.com/vendors/reception-locations/the-hamlet-golf-and-country-club/" class="Plain">The Hamlet Golf and Country Club</a></p>
 <p><a title="The Historical Thatched Cottage" href="http://www.LIWeddings.com/vendors/reception-locations/historical-thatched-cottage/" class="Plain">The Historical Thatched Cottage</a></p>
 <p><a title="The Inn at Fox Hollow" href="http://www.LIWeddings.com/vendors/hotels/inn-at-fox-hollow/" class="Plain">The Inn at Fox Hollow</a></p>
-<p><a title="The Jewelry Appraiser Inc" href="http://www.LIWeddings.com/vendors/jewelers/jewelry-appraiser/" class="Plain">The Jewelry Appraiser Inc</a></p>
+<p><a title="The Mansion at Woodside Acres" href="http://www.LIWeddings.com/vendors/reception-locations/the-mansion-at-woodside-acres/" class="Plain">The Mansion at Woodside Acres</a></p>
 <p><a title="The Meadow Club" href="http://www.LIWeddings.com/vendors/reception-locations/the-meadow-club/" class="Plain">The Meadow Club</a></p>
 <p><a title="The Metropolitan" href="http://www.LIWeddings.com/vendors/reception-locations/metropolitan/" class="Plain">The Metropolitan</a></p>
+<p><a title="The Modern Photobooth" href="http://www.LIWeddings.com/vendors/photobooth/the-modern-photobooth/" class="Plain">The Modern Photobooth</a></p>
 <p><a title="The Old Field Club" href="http://www.LIWeddings.com/vendors/reception-locations/old-field-club/" class="Plain">The Old Field Club</a></p>
-<p><a title="The Palm Gifts, Inc." href="http://www.LIWeddings.com/vendors/gifts/palm-gifts/" class="Plain">The Palm Gifts, Inc.</a></p>
 <p><a title="The Projekt" href="http://www.LIWeddings.com/vendors/bands/theprojekt/" class="Plain">The Projekt</a></p>
 <p><a title="The Riviera" href="http://www.LIWeddings.com/vendors/reception-locations/riviera/" class="Plain">The Riviera</a></p>
 <p><a title="The Royal Brass" href="http://www.LIWeddings.com/vendors/music/royal-brass/" class="Plain">The Royal Brass</a></p>
+<p><a title="The Sands on Lido Beach" href="http://www.LIWeddings.com/vendors/reception-locations/the-sands-on-lido-beach/" class="Plain">The Sands on Lido Beach</a></p>
 <p><a title="The Sterling" href="http://www.LIWeddings.com/vendors/reception-locations/sterling/" class="Plain">The Sterling</a></p>
 <p><a title="The Sugar Chic" href="http://www.LIWeddings.com/vendors/favors/the-sugar-chic/" class="Plain">The Sugar Chic</a></p>
 <p><a title="The Talked About Affair" href="http://www.LIWeddings.com/vendors/florists/the-talked-about-affair/" class="Plain">The Talked About Affair</a></p>
 <p><a title="The Times Square Orchestra" href="http://www.LIWeddings.com/vendors/bands/times-square-orchestra/" class="Plain">The Times Square Orchestra</a></p>
 <p><a title="The Touch" href="http://www.LIWeddings.com/vendors/bands/thetouch/" class="Plain">The Touch</a></p>
-<p><a title="The Ultimate Tribute Video" href="http://www.LIWeddings.com/vendors/videographers/ultimate-tribute-video/" class="Plain">The Ultimate Tribute Video</a></p>
 <p><a title="The Viana Hotel and Spa" href="http://www.LIWeddings.com/vendors/hotels/Viana-Hotel-Spa/" class="Plain">The Viana Hotel and Spa</a></p>
 <p><a title="The Village Club of Lake Success " href="http://www.LIWeddings.com/vendors/reception-locations/the-village-club-of-lake-success/" class="Plain">The Village Club of Lake Success </a></p>
 <p><a title="The Vineyards" href="http://www.LIWeddings.com/vendors/reception-locations/the-vineyards/" class="Plain">The Vineyards</a></p>
 <p><a title="The Wedding Company" href="http://www.LIWeddings.com/vendors/wedding-details/the-wedding-company/" class="Plain">The Wedding Company</a></p>
 <p><a title="The Wedding Plaza" href="http://www.LIWeddings.com/vendors/gowns/Wedding-Plaza/" class="Plain">The Wedding Plaza</a></p>
 <p><a title="The Woodlands" href="http://www.LIWeddings.com/vendors/reception-locations/woodlands/" class="Plain">The Woodlands</a></p>
+<p><a title="The Woodlands at the Greens" href="http://www.LIWeddings.com/vendors/reception-locations/the-woodlands-at-the-greens/" class="Plain">The Woodlands at the Greens</a></p>
 <p><a title="Thomas Knoell Designs" href="http://www.LIWeddings.com/vendors/bridal-accessories/thomas-knoell-designs/" class="Plain">Thomas Knoell Designs</a></p>
 <p><a title="Thomas Paul Photography" href="http://www.LIWeddings.com/vendors/photographers/thomas-paul-photography/" class="Plain">Thomas Paul Photography</a></p>
 <p><a title="Three Village Inn" href="http://www.LIWeddings.com/vendors/reception-locations/three-village-inn/" class="Plain">Three Village Inn</a></p>
 <p><a title="TimeXposureS" href="http://www.LIWeddings.com/vendors/photographers/timexposures/" class="Plain">TimeXposureS</a></p>
 <p><a title="Tommy's Tunes" href="http://www.LIWeddings.com/vendors/djs/tommys-tunes/" class="Plain">Tommy's Tunes</a></p>
-<p><a title="Towers Flowers of Nesconset" href="http://www.LIWeddings.com/vendors/florists/towers-flowers-of-nesconset/" class="Plain">Towers Flowers of Nesconset</a></p>
 <p><a title="Tran-Star Executive Transportation Services" href="http://www.LIWeddings.com/vendors/limousine/tran-star-executive-transportation/" class="Plain">Tran-Star Executive Transportation Services</a></p>
 <p><a title="Treasured Memories" href="http://www.LIWeddings.com/vendors/videographers/treasured-memories/" class="Plain">Treasured Memories</a></p>
-<p><a title="UGL-USA" href="http://www.LIWeddings.com/vendors/appraisals/ugl-usa/" class="Plain">UGL-USA</a></p>
+<p><a title="Tuxedo Park" href="http://www.LIWeddings.com/vendors/tuxedos/tuxedopark/" class="Plain">Tuxedo Park</a></p>
 <p><a title="Ultimate Class Limousine" href="http://www.LIWeddings.com/vendors/limousine/ultimate-class-limousines/" class="Plain">Ultimate Class Limousine</a></p>
-<p><a title="Unique Visions Studio" href="http://www.LIWeddings.com/vendors/photography-nycity/unique-visions/" class="Plain">Unique Visions Studio</a></p>
+<p><a title="Ultimate Sound DJs" href="http://www.LIWeddings.com/vendors/djs/ultimate-sound-djs/" class="Plain">Ultimate Sound DJs</a></p>
+<p><a title="Unique Entertainment Inc." href="http://www.LIWeddings.com/vendors/djs/unique-entertainment/" class="Plain">Unique Entertainment Inc.</a></p>
 <p><a title="Unitarian Universalist Congregation at Shelter Rock" href="http://www.LIWeddings.com/vendors/ceremony-locations/unitarian-universalist-congregation-at-shelter-rock/" class="Plain">Unitarian Universalist Congregation at Shelter Rock</a></p>
 <p><a title="Variety Music" href="http://www.LIWeddings.com/vendors/djs/variety-music/" class="Plain">Variety Music</a></p>
 <p><a title="Velvet Studio" href="http://www.LIWeddings.com/vendors/photographers/Velvet-Studio/" class="Plain">Velvet Studio</a></p>
 <p><a title="Venetian Yacht Club" href="http://www.LIWeddings.com/vendors/reception-locations/venetian-yacht-club/" class="Plain">Venetian Yacht Club</a></p>
 <p><a title="Verbena Designs Inc." href="http://www.LIWeddings.com/vendors/florists/Verbena-Designs/" class="Plain">Verbena Designs Inc.</a></p>
 <p><a title="Verdi's" href="http://www.LIWeddings.com/vendors/reception-locations/verdis/" class="Plain">Verdi's</a></p>
-<p><a title="VIETRI" href="http://www.LIWeddings.com/vendors/bridal-registry/vietri/" class="Plain">VIETRI</a></p>
-<p><a title="View" href="http://www.LIWeddings.com/vendors/reception-locations/view/" class="Plain">View</a></p>
 <p><a title="Villa Lombardi's" href="http://www.LIWeddings.com/vendors/reception-locations/villa-lombardis/" class="Plain">Villa Lombardi's</a></p>
 <p><a title="Village Bridal &amp; Boutique" href="http://www.LIWeddings.com/vendors/gowns/village-bridal-boutique/" class="Plain">Village Bridal &amp; Boutique</a></p>
 <p><a title="Vina de Villa Caterers" href="http://www.LIWeddings.com/vendors/reception-locations/Vina-de-Villa/" class="Plain">Vina de Villa Caterers</a></p>
 <p><a title="Vintage String Quartet" href="http://www.LIWeddings.com/vendors/music/vintage-string-quartet/" class="Plain">Vintage String Quartet</a></p>
 <p><a title="Visual Concepts" href="http://www.LIWeddings.com/vendors/photographers/visual-concepts/" class="Plain">Visual Concepts</a></p>
-<p><a title="Vivian and LuLu, Inc." href="http://www.LIWeddings.com/vendors/bridal-accessories/vivian-and-lulu-inc/" class="Plain">Vivian and LuLu, Inc.</a></p>
 <p><a title="VJ Entertainment" href="http://www.LIWeddings.com/vendors/djs/vj-entertainment/" class="Plain">VJ Entertainment</a></p>
 <p><a title="Water's Edge" href="http://www.LIWeddings.com/vendors/reception-locations/waters-edge/" class="Plain">Water's Edge</a></p>
 <p><a title="Watermill Caterers" href="http://www.LIWeddings.com/vendors/reception-locations/watermill-caterers/" class="Plain">Watermill Caterers</a></p>
-<p><a title="Wedding Air Fresheners" href="http://www.LIWeddings.com/vendors/favors/wedding-air-fresheners/" class="Plain">Wedding Air Fresheners</a></p>
+<p><a title="Wavecrest Studio" href="http://www.LIWeddings.com/vendors/photographers/wavecrest-studio" class="Plain">Wavecrest Studio</a></p>
 <p><a title="Wedding Cinema" href="http://www.LIWeddings.com/vendors/videographers/wedding-cinema/" class="Plain">Wedding Cinema</a></p>
-<p><a title="Wedding Flashes" href="http://www.LIWeddings.com/vendors/photobooth/wedding-flashes/" class="Plain">Wedding Flashes</a></p>
 <p><a title="West Lake Inn" href="http://www.LIWeddings.com/vendors/reception-locations/West-Lake-Inn/" class="Plain">West Lake Inn</a></p>
 <p><a title="Westbury Manor" href="http://www.LIWeddings.com/vendors/reception-locations/westbury-manor/" class="Plain">Westbury Manor</a></p>
+<p><a title="White Rose Bridal World" href="http://www.LIWeddings.com/vendors/gowns/white-rose-bridal-world/" class="Plain">White Rose Bridal World</a></p>
 <p><a title="WhiteWings NY Dove Releases" href="http://www.LIWeddings.com/vendors/dove-release/whitewings-ny-dove-releases/" class="Plain">WhiteWings NY Dove Releases</a></p>
+<p><a title="Wicks Florist" href="http://www.LIWeddings.com/vendors/florists/wicks-florist" class="Plain">Wicks Florist</a></p>
+<p><a title="Willow Creek Golf &amp; Country Club" href="http://www.LIWeddings.com/vendors/reception-locations/hamlet-willow-creek/" class="Plain">Willow Creek Golf &amp; Country Club</a></p>
+<p><a title="Wind Watch Golf and Country Club" href="http://www.LIWeddings.com/vendors/reception-locations/hamlet-wind-watch/" class="Plain">Wind Watch Golf and Country Club</a></p>
 <p><a title="Windows on the Lake" href="http://www.LIWeddings.com/vendors/reception-locations/windows-on-the-lake/" class="Plain">Windows on the Lake</a></p>
 <p><a title="Wine U Design" href="http://www.LIWeddings.com/vendors/favors/wine-u-design/" class="Plain">Wine U Design</a></p>
-<p><a title="Wingate by Wyndham" href="http://www.LIWeddings.com/vendors/hotels/wingate-by-wyndham/" class="Plain">Wingate by Wyndham</a></p>
-<p><a title="With All My Heart Floral Design Studio" href="http://www.LIWeddings.com/vendors/bridal-centers/with-all-my-heart-floral-design/" class="Plain">With All My Heart Floral Design Studio</a></p>
 <p><a title="With Love Keepsake Greetingz" href="http://www.LIWeddings.com/vendors/invitations/with-love-keepsake-greetingz/" class="Plain">With Love Keepsake Greetingz</a></p>
 <p><a title="Woodbury Country Club" href="http://www.LIWeddings.com/vendors/reception-locations/woodbury-country-club/" class="Plain">Woodbury Country Club</a></p>
 <p><a title="Written Confections" href="http://www.LIWeddings.com/vendors/invitations/written-confections/" class="Plain">Written Confections</a></p>
 <p><a title="Xtreme Sounds" href="http://www.LIWeddings.com/vendors/djs/xtreme-sounds/" class="Plain">Xtreme Sounds</a></p>
+<p><a title="Yun Gen Yang Photography" href="http://www.LIWeddings.com/vendors/photographers/yun-gen-yang-photography/" class="Plain">Yun Gen Yang Photography</a></p>
+<p><a title="Yvonne's Invitations &amp; Favors" href="http://www.LIWeddings.com/vendors/invitations/yvonnes-invitations-favors/" class="Plain">Yvonne's Invitations &amp; Favors</a></p>
 
 </div>
 <!-- end .welcomeVendors --></div>
@@ -1126,42 +1176,42 @@ United States of America</p>
   <div id="rban1" class="adsR">
 <h4>Long Island Vendors</h4>
 <div id="rban" style="">
-<p><a class="stat" title="" rel="stat" ref="314" href="http://www.liweddings.com/vendors/jewelers/" target="_blank"><img src="/i/sb/314.gif" alt=""></a></p>
-<p><a class="stat" title="Lessing's Waterfront Weddings" rel="stat" ref="325" href="http://www.liweddings.com/vendors/reception-locations/lessingcc/"><img src="/i/sb/325.jpg" alt="Lessing's Waterfront Weddings"></a></p>
-<p><a class="stat" title="Mediterranean Manor Caterers" rel="stat" ref="322" href="http://www.liweddings.com/vendors/reception-locations/mediterranean-manor-caterers/"><img src="/i/sb/322.jpg" alt="Mediterranean Manor Caterers"></a></p>
-<p><a class="stat" title="Crestwood Manor" rel="stat" ref="321" href="http://www.liweddings.com/vendors/reception-locations/crestwood-manor/"><img src="/i/sb/321.gif" alt="Crestwood Manor"></a></p>
-<p><a class="bann" title="Dan Wagner Photography &amp; Video" rel="bann" ref="539" href="http://www.liweddings.com/vendors/photographers/dan-wagner-photography-and-video/"><img src="/vendors/banners/539.jpg" alt="Dan Wagner Photography &amp; Video"></a></p>
-<p><a class="bann" title="Bridal Suite of Centereach" rel="bann" ref="1183" href="http://www.liweddings.com/vendors/gowns/bridal-suite-of-centereach/"><img src="/vendors/banners/1183.gif" alt="Bridal Suite of Centereach"></a></p>
-<p><a class="bann" title="Photographers" rel="bann" ref="226" href="http://www.liweddings.com/vendors/photographers/"><img src="/vendors/banners/226.jpg" alt="Photographers"></a></p>
+<p><a class="stat" title="Giorgio's - reception location - catering hall - wedding venue - reception locations - reception - catering halls" rel="stat" ref="475" href="http://www.liweddings.com/vendors/reception-locations/giorgios/"><img src="/i/sb/475.jpg" alt="Giorgio's - reception location - catering hall - wedding venue - reception locations - reception - catering halls"></a></p>
+<p><a class="stat" title="Lessing's Waterfront Mansions - reception location - catering hall - wedding venue - reception locations - reception - catering halls" rel="stat" ref="473" href="http://www.liweddings.com/vendors/reception-locations/lessings-waterfront-mansions/"><img src="/i/sb/473.jpg" alt="Lessing's Waterfront Mansions - reception location - catering hall - wedding venue - reception locations - reception - catering halls"></a></p>
+<p><a class="stat" title="Lessing's Waterfront Weddings - reception location - catering hall - wedding venue - reception locations - reception - catering halls" rel="stat" ref="472" href="http://www.liweddings.com/vendors/reception-locations/lessingcc/"><img src="/i/sb/472.jpg" alt="Lessing's Waterfront Weddings - reception location - catering hall - wedding venue - reception locations - reception - catering halls"></a></p>
+<p><a class="stat" title="Orange Films - wedding video - films - cinematography - wedding video photographer - video" rel="stat" ref="422" href="http://www.liweddings.com/vendors/videographers/orange-films/"><img src="/i/sb/422.gif" alt="Orange Films - wedding video - films - cinematography - wedding video photographer - video"></a></p>
+<p><a class="bann" title="Danfords Hotel &amp; Marina - suffolk county catering" rel="bann" ref="521" href="http://www.liweddings.com/vendors/reception-locations/danfords-hotels-and-marina/"><img src="/vendors/banners/521.jpg" alt="Danfords Hotel &amp; Marina - suffolk county catering"></a></p>
+<p><a class="bann" title="Tuxedo Park - tuxedo - tuxedos" rel="bann" ref="2007" href="http://www.liweddings.com/vendors/tuxedos/tuxedopark/"><img src="/vendors/banners/2007.jpg" alt="Tuxedo Park - tuxedo - tuxedos"></a></p>
+<p><a class="bann" title="Bachelorette Parties" rel="bann" ref="1612" href="http://www.liweddings.com/vendors/bachelorette/"><img src="/vendors/banners/1612.jpg" alt="Bachelorette Parties"></a></p>
 
     <!-- end .adsR --></div></div><table class="store" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td colspan="2"><img src="/i/bgHeaderStore.gif" width="173" height="34"></td>
     </tr>
- <tr><td class="storeTh"><a href="http://www.liweddings.com/store/product/?ID=3824"><img src="/store/images/3824t.jpg" alt="" style="max-width:70px;max-height:60px;"></a></td><td class="storeDescription">
-<p><a href="http://www.liweddings.com/store/product/?ID=3824">Shell Place Card Favor Boxes with Designer Place Cards (set of 12)</a></p><p>
-$25.00		</p></td>
+ <tr><td class="storeTh"><a title="Wine Stopper --Puffed Heart " href="http://www.liweddings.com/store/product/?ID=1072"><img alt="Wine Stopper --Puffed Heart " src="/store/images/1072t.jpg" style="max-width:70px;max-height:60px;"></a></td><td class="storeDescription">
+<p><a title="Wine Stopper --Puffed Heart " href="http://www.liweddings.com/store/product/?ID=1072">Wine Stopper --Puffed Heart </a></p><p>
+$2.25		</p></td>
 	</tr>
- <tr><td class="storeTh"><a href="http://www.liweddings.com/store/product/?ID=3893"><img src="/store/images/3893t.jpg" alt="" style="max-width:70px;max-height:60px;"></a></td><td class="storeDescription">
-<p><a href="http://www.liweddings.com/store/product/?ID=3893">Customized Dance Floor Decal</a></p><p>
-$120.00		</p></td>
+ <tr><td class="storeTh"><a title="Color Swirls Multi purpose Bronzer" href="http://www.liweddings.com/store/product/?ID=2389"><img alt="Color Swirls Multi purpose Bronzer" src="/store/images/2389t.jpg" style="max-width:70px;max-height:60px;"></a></td><td class="storeDescription">
+<p><a title="Color Swirls Multi purpose Bronzer" href="http://www.liweddings.com/store/product/?ID=2389">Color Swirls Multi purpose Bronzer</a></p><p>
+$28.00		</p></td>
 	</tr>
- <tr><td class="storeTh"><a href="http://www.liweddings.com/store/product/?ID=4011"><img src="/store/images/4011t.jpg" alt="" style="max-width:70px;max-height:60px;"></a></td><td class="storeDescription">
-<p><a href="http://www.liweddings.com/store/product/?ID=4011">"Girls Best Friend" Jewelry Roll</a></p><p>
-$27.50		</p></td>
+ <tr><td class="storeTh"><a title="LUMINOUS LAVENDAR" href="http://www.liweddings.com/store/product/?ID=2693"><img alt="LUMINOUS LAVENDAR" src="/store/images/2693t.jpg" style="max-width:70px;max-height:60px;"></a></td><td class="storeDescription">
+<p><a title="LUMINOUS LAVENDAR" href="http://www.liweddings.com/store/product/?ID=2693">LUMINOUS LAVENDAR</a></p><p>
+$300.00		</p></td>
 	</tr>
- <tr><td class="storeTh"><a href="http://www.liweddings.com/store/product/?ID=4014"><img src="/store/images/4014t.jpg" alt="" style="max-width:70px;max-height:60px;"></a></td><td class="storeDescription">
-<p><a href="http://www.liweddings.com/store/product/?ID=4014">Ring Bearer Pillow</a></p><p>
-$22.50		</p></td>
+ <tr><td class="storeTh"><a title="Towel Cakes" href="http://www.liweddings.com/store/product/?ID=3765"><img alt="Towel Cakes" src="/store/images/3765t.jpg" style="max-width:70px;max-height:60px;"></a></td><td class="storeDescription">
+<p><a title="Towel Cakes" href="http://www.liweddings.com/store/product/?ID=3765">Towel Cakes</a></p><p>
+$5.99		</p></td>
 	</tr>
- <tr><td class="storeTh"><a href="http://www.liweddings.com/store/product/?ID=4027"><img src="/store/images/4027t.jpg" alt="" style="max-width:70px;max-height:60px;"></a></td><td class="storeDescription">
-<p><a href="http://www.liweddings.com/store/product/?ID=4027">Bridessentials Kit</a></p><p>
-$18.25		</p></td>
+ <tr><td class="storeTh"><a title="Damask Deep Oval Platter" href="http://www.liweddings.com/store/product/?ID=4043"><img alt="Damask Deep Oval Platter" src="/store/images/4043t.jpg" style="max-width:70px;max-height:60px;"></a></td><td class="storeDescription">
+<p><a title="Damask Deep Oval Platter" href="http://www.liweddings.com/store/product/?ID=4043">Damask Deep Oval Platter</a></p><p>
+$10.50		</p></td>
 	</tr>
 
 <tr>
     <td colspan="2">   
-   <h5><a href="#">More &gt;&gt;</a></h5></td>
+   <h5><a title="LIWeddings.com Store" href="/store/">More &gt;&gt;</a></h5></td>
     </tr>
 </tbody></table><br>
 
@@ -1169,8 +1219,8 @@ $18.25		</p></td>
 <div class="wedTip">
     <h4>Wedding Tip on the Week</h4>
     
-<p><strong>Budget Wisely</strong></p>
-<p>It is common for the bride, groom, and both sets of parents to contribute toward the wedding. Pool all the money from these and any other helping parties into a shared checking account for the bride and groom-to-be to avoid having contributing parties take over what they say they are paying for. This will also avoid any confusion on who is paying for what.</p>
+<p><strong>Nice Legs!</strong></p>
+<p>The first step in making sure your legs are sexy and smooth is to make sure that are hairless. To start, try a hot bath or shower to soften the hair. Slather on your choice of moisturizing gel, and gently shave in the direction opposite your hair growth.</p>
 
     <h5><a href="/planning/tips/">More Tips &gt;&gt;</a></h5>
       <!-- end .wedTip --></div>
@@ -1209,8 +1259,8 @@ $18.25		</p></td>
 
 
 </div> 
+<div id="Xlogo-zone" style="position: absolute; top: 1989px; left: 315px;"></div>
 
 
 
-
-</body></html>
+<ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 1; top: 0px; left: 0px; display: none;"></ul></body></html>
