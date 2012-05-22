@@ -1,6 +1,19 @@
-> *The following text is extracted and transformed from the outreach.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203032611id_/http%3A//www.outreach.com/print/articlef.asp%3Farticle_name%3Da-privacypolicy%26N%3D41) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outreach.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522154214id_/http%3A//www.outreach.com/print/article.aspx%3Farticle_name%3Da-privacypolicy%26N%3D41) for the most accurate reproduction.*
 
-# Outreach: Church communication and marketing tools
+# 2010 Privacy Policy
+
+#### SEARCH
+
+by SKU, Keyword, or Title  
+
+
+#### EMAIL NEWSLETTER
+
+Sign-up for our FREE eNewsletter with special promotions and outreach tips. Enter your email address here.
+
+* * *
+
+* * *
 
 ## Privacy Policy
 
@@ -19,7 +32,7 @@ We respect the privacy of our website visitors, newsletter subscribers, those wh
 
 We may collect and process the following data about you:-
 
-  1. Information provided by filling in forms on our site at [www.outreach.com](http://www.outreach.com/?nop=1) (“our site”). This includes information provided at the time of registering to use our site, subscribing to our newsletters, or requesting information from us. We may also ask you for information when you report a problem with our site.
+  1. Information provided by filling in forms on our site at [www.outreach.com](http://www.outreach.com/) (“our site”). This includes information provided at the time of registering to use our site, subscribing to our newsletters, or requesting information from us. We may also ask you for information when you report a problem with our site.
   2. If you contact us, we may keep a record of that correspondence.
   3. We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
   4. Details of transactions you carry out through our site and of the fulfilment of your orders.
@@ -62,6 +75,4 @@ Our site may, from time to time, contain links to and from websites for advertis
 
 **Contact**
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [customerservice@outreach.com](mailto:customerservice@outreach.com?subject=Privacy%20Policy%20Inquiry&nop=1). 
-
-* * *
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [customerservice@outreach.com](mailto:customerservice@outreach.com?subject=Privacy%20Policy%20Inquiry). 
