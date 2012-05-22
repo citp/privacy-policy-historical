@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilestorm.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210023051id_/https%3A//www.mobilestorm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilestorm.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523001804id_/http%3A//www.mobilestorm.com/privacy) for the most accurate reproduction.*
 
 # mobileStorm Privacy Policy
 
