@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kahani.net privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219232109id_/http%3A//www.kahani.net/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kahani.net privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522221525id_/http%3A//www.kahani.net/p/privacy-policy.html) for the most accurate reproduction.*
 
-# 18+ Urdu Stories, Urdu Kahani, Romance Novels, Sex Stories
+# Hindi Sex Stories, Urdu Kahani, Desi Stories, Chudai Stories
 
 We do not collection your information however, third-parties like our blog hosting company "Google Inc.", "Google Analytics" , "eXtreme Tracking" etc may collect your information via;
 
