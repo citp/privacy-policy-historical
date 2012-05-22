@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megauploadindex.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122005626id_/http%3A//www.megauploadindex.com/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megauploadindex.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522060604id_/http%3A//www.megauploadindex.com/terms.php) for the most accurate reproduction.*
 
 # Software/Movie/Music/Ebook Store associates with Amazon!
 
@@ -17,32 +17,32 @@ Disclosure of privacy policy: I provide this privacy notice for informational pu
 
 ### Personally Identifiable Information
 
-Megauploadindex never collect your personally identifiable information except the email address when you register as a user of Megauploadindex.
+Mediafire Index never collect your personally identifiable information except the email address when you register as a user of Mediafireindex.
 
   
 
 
 ### Sharing Information.
 
-Megauploadindex may share certain information regarding our customers and former customers among Megauploadindex affiliates only in accordance with our strict security standards and confidentiality policies, and applicable laws. We hold our employees and agents fully accountable for adhering to these standards, policies and laws.
+Mediafire Index may share certain information regarding our customers and former customers among Mediafireindex affiliates only in accordance with our strict security standards and confidentiality policies, and applicable laws. We hold our employees and agents fully accountable for adhering to these standards, policies and laws.
 
-From time to time opportunities arise that we believe will benefit our customers and former customers. On a selective basis, we may share your name, address, telephone number and email address with third parties, such as insurance agencies, home warranty companies and tax service providers, record storage companies, moving companies, and other businesses that provide services to home owners, to market financial and non-financial products and services that may interest you. We will only provide this information to companies making these offers available to you under strict confidentiality agreements. For instance, we may share certain information with our strategic business partners with whom we have agreements to help provide customers with Megauploadindex One Stop Shopping Services, or with other companies which help us to conduct business, such as credit bureaus and businesses which provide account maintenance, analysis and servicing. We may also provide information to regulatory authorities and law enforcement officials in accordance with applicable law. If you do not want to participate in these opportunities, please refer to the Opt-Out Notice Section below to learn about how to opt out.
+From time to time opportunities arise that we believe will benefit our customers and former customers. On a selective basis, we may share your name, address, telephone number and email address with third parties, such as insurance agencies, home warranty companies and tax service providers, record storage companies, moving companies, and other businesses that provide services to home owners, to market financial and non-financial products and services that may interest you. We will only provide this information to companies making these offers available to you under strict confidentiality agreements. For instance, we may share certain information with our strategic business partners with whom we have agreements to help provide customers with Mediafireindex One Stop Shopping Services, or with other companies which help us to conduct business, such as credit bureaus and businesses which provide account maintenance, analysis and servicing. We may also provide information to regulatory authorities and law enforcement officials in accordance with applicable law. If you do not want to participate in these opportunities, please refer to the Opt-Out Notice Section below to learn about how to opt out.
 
 ### Usage tracking; Collection of your IP Address.
 
-Your IP address is a unique number used to identify your specific computer on a public network. Megauploadindex may collect IP addresses for the purposes of system administration, such as diagnosing problems with our server, to analyze consumer behavior and trends, and to audit the use of our site. IP addresses are not used to personally identify a customer and are kept anonymous. Megauploadindex may use IP addresses to identify a customer when we feel it is necessary to enforce compliance with our site terms of use or terms of service, or to protect our service, site's, customers or others.
+Your IP address is a unique number used to identify your specific computer on a public network. Mediafireindex may collect IP addresses for the purposes of system administration, such as diagnosing problems with our server, to analyze consumer behavior and trends, and to audit the use of our site. IP addresses are not used to personally identify a customer and are kept anonymous. Mediafireindex may use IP addresses to identify a customer when we feel it is necessary to enforce compliance with our site terms of use or terms of service, or to protect our service, site's, customers or others.
 
 ### Use Of Cookies.
 
-Megauploadindex may use "cookies" to track web site visitors. Cookies are small amounts of data that the visitor retains on their computer, which enables the visitor to go back to saved information from a previous visit. They are also used to tailor the navigation of the web site to be consistent with the visitor's preferences and to enable them to see their sales agent's contact information in some cases as they work their way through the web site.
+Mediafire Index may use "cookies" to track web site visitors. Cookies are small amounts of data that the visitor retains on their computer, which enables the visitor to go back to saved information from a previous visit. They are also used to tailor the navigation of the web site to be consistent with the visitor's preferences and to enable them to see their sales agent's contact information in some cases as they work their way through the web site.
 
 ### Links to Other Web Sites.
 
-Please be aware that when you click on links that take you to third-party web sites, you will be subject to their respective privacy policy. While Megauploadindex supports the protection of privacy on the Internet, Megauploadindex cannot be responsible for the actions of third parties. We encourage you to read the posted privacy statement whenever interacting with any web site.
+Please be aware that when you click on links that take you to third-party web sites, you will be subject to their respective privacy policy. While Mediafireindex supports the protection of privacy on the Internet, Mediafireindex cannot be responsible for the actions of third parties. We encourage you to read the posted privacy statement whenever interacting with any web site.
 
 ### Legal Disclosure.
 
-Megauploadindex may also disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating Megauploadindex's terms of use or terms of service, or may be causing injury to or interference (either intentionally or unintentionally) with any of Megauploadindex's rights or property, other Megauploadindex customers, or anyone else Megauploadindex may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our products and services.
+Mediafire Index may also disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating Mediafireindex's terms of use or terms of service, or may be causing injury to or interference (either intentionally or unintentionally) with any of Mediafireindex's rights or property, other Mediafireindex customers, or anyone else Mediafireindex may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our products and services.
 
 * * *
 
@@ -50,4 +50,4 @@ Megauploadindex may also disclose account information in special cases when we h
 
 Links: [Buy a Link Here](https://web.archive.org/more-links.php "Buy a link here")
 
-Disclaimer: This site is a search engine of megaupload index on the Internet and does not store any files on its server. Please contact the content providers to delete copyright contents if any and email [freedown.support@gmail.com](mailto:freedown.support@gmail.com), we'll remove relevant links or contents immediately.
+Disclaimer: This site is a search engine of mediafire index on the Internet and does not store any files on its server. Please contact the content providers to delete copyright contents if any and email [freedown.support@gmail.com](mailto:freedown.support@gmail.com), we'll remove relevant links or contents immediately.
