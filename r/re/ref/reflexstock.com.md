@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reflexstock.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008035128id_/http%3A//reflexstock.com/page/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reflexstock.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522051959id_/http%3A//www.reflexstock.com/page/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy on Reflex Stock Photos
 
