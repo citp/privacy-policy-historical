@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fireemblemwiki.org privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210211723id_/http%3A//fireemblemwiki.org/Fire_Emblem_Wiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fireemblemwiki.org privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522125417id_/http%3A//fireemblemwiki.org/Fire_Emblem_Wiki%3APrivacy_policy) for the most accurate reproduction.*
 
 # Fire Emblem Wiki:Privacy policy - Fire Emblem Wiki
 
-### From Fire Emblem Wiki, your source on Fire Emblem Wiki information. By Fans, for Fans.
+From Fire Emblem Wiki, your source on Fire Emblem Wiki information. By Fans, for Fans.
 
 [](https://web.archive.org/File:Fireemblemwiki.png)
 
