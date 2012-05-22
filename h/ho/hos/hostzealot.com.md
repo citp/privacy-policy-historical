@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hostzealot.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210011731id_/http%3A//hostzealot.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostzealot.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523003826id_/http%3A//hostzealot.com/en/privacy_policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
-This statement discloses the privacy practices of HostZealot Hosting Company. By using HostZealot.net or by agreeing to the Terms and Conditions in HostZealot's [Terms of Service](http://hostzealot.com/en/terms_of_service), you consent and agree, without limitation or qualification, to the collection, use and disclosure of personal information and to the privacy practices set out in the Privacy Policy and to any other privacy or data collection policy which is displayed or is included as a link in any individual   
+This statement discloses the privacy practices of HostZealot Hosting. By using HostZealot.net or by agreeing to the Terms and Conditions in HostZealot's [Terms of Service](http://hostzealot.com/en/terms_of_service), you consent and agree, without limitation or qualification, to the collection, use and disclosure of personal information and to the privacy practices set out in the Privacy Policy and to any other privacy or data collection policy which is displayed or is included as a link in any individual   
 
 
 This statement discloses the privacy practices of HostZealot. By using HostZealot or by agreeing to the Terms and Conditions in HostZealot's [Terms of Service](http://hostzealot.com/en/terms_of_service), you consent and agree, without limitation or qualification, to the collection, use and disclosure of personal information and to the privacy practices set out in the Privacy Policy and to any other privacy or data collection policy which is displayed or is included as a link in any individual HostZealot web site. The following is a list of our current Privacy Policy items. We suggest you check back from time-to-time, to see what has been updated. Questions or concerns regarding our use of your information and this statement should be directed to HostZealot's [Privacy Coordinator](mailto:4abuse@HostZealot.net).
@@ -73,4 +73,8 @@ Please note that HostZealot's sites may contain links to other sites. We cannot 
 
 Also, be aware that HostZealot sponsors and other advertisers have links on our sites that take you to other sites that may collect personal information about you. This Privacy Policy does not cover third party data collection practices and HostZealot does not assume any responsibility for the actions of such third parties.
 
-HostZealot Hosting Company
+### NO-SPAM POLICY
+
+We have a strict policy against using the SPAMMING of unsolicited emails in mass or individually of any kind as a way to market our programs, products and/or services. Should complaints be received in relation to SPAMMING activity that connects back to you, we reserve the right to suspend your account while we investigate all evidence submitted to us. Should you be deemed in violation of such policies, we reserve the right to immediately terminate any active accounts to your name, and all rights in association to these accounts shall be revoked. 
+
+HostZealot Hosting
