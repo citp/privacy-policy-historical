@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xblafans.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206194119id_/http%3A//www.xblafans.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xblafans.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522094006id_/http%3A//www.xblafans.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | xblafans.com
 
@@ -36,4 +36,4 @@ Any sites linked to on Xblafans.com are developed by people over whom we exerci
 
 ## Contact
 
-For more information about our practices regarding specific information or services that are not covered in this Privacy Policy, please email us at:[a](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=admin@vgchartz.com) team@involvedfans.com
+For more information about our practices regarding specific information or services that are not covered in this Privacy Policy, please email us at [team@involvedfans.com](mailto:team@involvedfans.com).
