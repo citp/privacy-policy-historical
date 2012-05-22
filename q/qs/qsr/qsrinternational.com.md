@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qsrinternational.com privacy policy that was archived on 2007-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070830132526id_/http%3A//www.qsrinternational.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qsrinternational.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522052635id_/http%3A//www.qsrinternational.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,9 +6,11 @@
 
 Want to know more about QSR? Read our company brochure.
 
-  * [Download PDF](https://web.archive.org/web/20070830132526id_/http%3A//www.qsrinternational.com/FileResourceHandler.ashx/RelatedDocuments/DocumentFile/71/QSR_Company_Brochure.pdf)
+  * [Download PDF](https://web.archive.org/web/20120522052635id_/http%3A//www.qsrinternational.com/FileResourceHandler.ashx/RelatedDocuments/DocumentFile/499/QSR_Company_Brochure.pdf)
 
 
+
+At QSR we don't automatically collect the personal information of website visitors. The only way we access your personal details is if you provide them to us directly. This means that you can visit the QSR website without disclosing any personal information such as your name, email address and phone number.
 
 ### How is your information collected?
 
@@ -52,7 +54,6 @@ You may be required to provide all or some of the following information dependin
   * Mailing or billing address.
   * Email.
   * Software license key.
-  * Information about your software maintenance plan.
   * User particulars e.g. industry type, topics of interest etc.
   * Credit card details.
   * Student identification number.
@@ -61,11 +62,11 @@ You may be required to provide all or some of the following information dependin
 
 ### How your personal information is used
 
-We will use your personal information to provide the service(s), information or products you have requested or to carry out the transaction(s) you have authorized. It may also be used so that we can better tailor our services to your needs or determine your level of satisfaction with our services. Additionally, information supplied is used to protect QSR International's copyright by ensuring software licenses granted to you are available within the terms and conditions of your specific license.
+We will use your personal information to provide the service(s), information or products you have requested or to carry out the transaction(s) you have authorized. Where necessary we disclose this information to authorized QSR partners to undertake this activity on our behalf. Your personal information may also be used so that we can better tailor our services to your needs or determine your level of satisfaction with our services.
 
 ### Protecting your privacy
 
-We will generally not share your personal information with any third parties. Occasionally, we may collect, use or disclose your personal information to a third party for the purpose of facilitating the distribution of customer satisfaction surveys to you by QSR. Where this is the case, we will only do so after first obtaining your permission.
+We may share your personal information with an authorized QSR partner, who is in your geographic region or speaks your language, to ensure that you have the best resources and information available to service your needs. Occasionally, we may collect, use or disclose your personal information to a third party for the purpose of facilitating the distribution of customer satisfaction surveys to you. Where this is the case, we will only do so after first obtaining your permission.
 
 We protect your personal information by using SSL encryption to collect your details and process online payment transactions. Online orders are transacted via a secure server and all the information is encrypted before it is passed on to QSR.
 
