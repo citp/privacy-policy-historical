@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the totalfratmove.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121112329id_/http%3A//totalfratmove.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalfratmove.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522031601id_/http%3A//totalfratmove.com/privacy) for the most accurate reproduction.*
 
-# TotalFratMove.com | Privacy Policy »
+# TotalFratMove.com | Privacy Policy » |
 
 Your privacy on the Internet is important to us. As a part of the operation of totalfratmove.com, we gather your e-mail address only when you submit it to subscribe to our newsletter. We respect your privacy and will not share or sell your e-mail address to a third party. However, we may use it to contact you regarding site updates, news, and information.
 
