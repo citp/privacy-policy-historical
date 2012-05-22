@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelocal.ch privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122122713id_/http%3A//www.thelocal.ch%3Fsection%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelocal.ch privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522151040id_/http%3A//www.thelocal.ch%3Fsection%3Dprivacy) for the most accurate reproduction.*
 
 # The Local - Switzerland's news in English
 
