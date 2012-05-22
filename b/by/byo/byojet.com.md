@@ -1,0 +1,31 @@
+> *The following text is extracted and transformed from the byojet.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522131441id_/http%3A//www.byojet.com/Privacy.asp) for the most accurate reproduction.*
+
+# BYOjet Privacy Policy
+
+| 
+
+**BYOjet Privacy Policy**  
+Privacy policy between BYOjet herein after referred to as ‘BYOjet’, ‘Travelscene American Express‘, ‘we’, ‘our’ or ‘us’ **and**  
+Any customer or person using the BYOjet website or a telephone consultant to enquire, book or purchase any travel or product, online, by phone or in consultation with any BYOjet consultant or representative in any manner whatsoever. Herein after referred to as ‘you’,  ‘your’,  ‘user’ , ‘client’,  ‘passenger’  or ‘customer’.    
+BYOjet is a member of Travelscene American Express, owned and operated by Jetescape Travel Pty Ltd ACN 145 039 470, a Queensland-registered travel agent with AITA accreditation and a member of the Travellers Compensation Fund. Our IATA number is 0235450 and TCF number is 3395910.  We undertake to use our best endeavours to safeguard the privacy and confidentiality of our website users and your personal information. The following discloses how we gather information and our dissemination practices. If you have any queries concerning your personal information or any questions relating to how we use the information, please e-mail  [travel@byojet.com](mailto:travel@byojet.com).
+
+  INFORMATION COLLECTED 
+
+When you register as a user or purchase any goods or services on the BYOjet website or by phone we will collect the information necessary to provide the services required. We will also collect information from you if you complete any other forms on our site or if you contact us with comments or specific requests either in person, by telephone, SMS, letter, facsimile, e-mail  or through interactive website activities such as, but not restricted to: Facebook, MySpace and Twitter. 
+
+USE OF YOUR PERSONAL INFORMATION 
+
+We may send your details to selected third parties, for the purpose of providing you services while travelling or for the purpose of promoting sales. If you do not want us to use your information in sales promotion please e-mail us and ask us to remover your details from these databases. 
+
+Any registration forms will give you the opportunity to opt out of receiving such information.   
+By law we are required to obtain your consent in the collection of sensitive information. We will assume that your consent has been given to the collection of all information which is supplied to us in accordance to this Privacy Policy, unless you state otherwise. We will at times will act as an agent for our wholesalers and providers for travel products and services. This means that we may collect personal information about you on behalf of the parties for whom we act as agent for their internal purposes. Therefore the consent to the collection of sensitive information under this Privacy Policy, applies equally to the parties for whom we act as agent and whose products and services we sell. As we act as agent for a large amount of companies, it is not possible for us to set out in this Privacy Policy how each of these companies will use your personal information individually. 
+
+All information you provide to us is treated with the utmost confidentiality. 
+
+Your information is stored safely on our computer systems with robust physical, electronic security devices and procedural guidelines to safeguard your details. Your online payment transactions are processed through SSL encryption, along with the use of secure and fraud-resistant e-commerce technology via our payment gateways. BYOjet’s website contains links to other websites. Please note that when you click on one of these links, you are entering another website for which we have no responsibility. Please read their privacy statements. You are solely responsible for maintaining the secrecy of your passwords and any account information. In addition to the circumstances described above, we may disclose member information if required to do so by law, court order, as requested by other government or law enforcement authority, or in the good faith or belief that disclosure is otherwise necessary or advisable including, without limitation, to protect the rights or properties of BYOjet or when we have reason to believe that disclosing the information is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or properties, whether intentionally or otherwise, or when anyone else could be harmed by such activities. Disclosure of member information by BYOjet will be warranted but not limited to the enforcement of the Terms and Conditions, when BYOjet is required to do so by law and in the defence of BYOjet in any action or protection of property. BYOjet sends out travel information, specials and sales offers by e-mail or SMS. At times this will be sponsored by third parties so their details will appear on the e-mail or SMS. To remove yourself from this e-mail list at any time, simply click on the link provided at the bottom of the received e-mail and follow the instructions to be removed from the database. We also collect information automatically about your visit to our site. This information is used to help us improve our website; identification of fraud or error; developing, improving and marketing our travel products and services; sales analysis; and participation in loyalty programs. We use cookies in components of the website to improve, simplify and personalise our service to you. If you do not want a cookie you can always set your browser to deny it. To remove yourself from our e-mail or SMS database please e-mail travel@byojet.com or write to us at 137 Bryants Road Loganholme, Qld 4129 Australia.
+
+CHANGES 
+
+Any material changes in the way we use personal information will be described in future versions of this Privacy Policy. We reserve the right to change our Policy at any time. Should a change occur the amendment would be posted on our website. Concerns regarding our Privacy Policy or our privacy practices to [travel@byojet.com](mailto:travel@byojet.com).  Please allow up to five business days for reply.
+
+| 
