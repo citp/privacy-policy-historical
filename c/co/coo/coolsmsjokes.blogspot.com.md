@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the coolsmsjokes.blogspot.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007104721id_/http%3A//coolsmsjokes.blogspot.com/2006/07/to-help-you-make-decisions-about_14.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolsmsjokes.blogspot.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522085232id_/http%3A//coolsmsjokes.blogspot.com/2006/07/to-help-you-make-decisions-about_14.html) for the most accurate reproduction.*
 
-# Funny SMS Jokes & Text Messages: Privacy Policy
-
-###  [Privacy Policy](http://coolsmsjokes.blogspot.com/)
-
-##### 
-
-#####  **Total Comments:**
-
-Sponsored Links 
+# SMS Messages: Privacy Policy
 
 To help you make decisions about the information you provide anywhere on this site, this notice has been provided to outline our practices. You should know that we respect your privacy, and that I will never sell your information to anyone. Also, we hate spam as much as you do, so you will only ever get email from us that you have asked for and we have personally approved for distribution to the list. 
 
