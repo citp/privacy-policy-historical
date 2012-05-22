@@ -1,23 +1,9 @@
-> *The following text is extracted and transformed from the icmarc.org privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111002233id_/http%3A//www4.icmarc.org/about-us/icma-rc-policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icmarc.org privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522171004id_/http%3A//www4.icmarc.org/about-us/icma-rc-policies/privacy-policy.html) for the most accurate reproduction.*
 
 # ICMA-RC Privacy Policy | ICMA-RC
 
 By choosing ICMA-RC to manage your money, you have entrusted us with your investments and personal financial data. We consider your data to be private and confidential, and we hold ourselves to the highest standards of trust and fiduciary duty in its safekeeping and use.
 
-  * ICMA-RC
-  * ICMA Retirement Trust
-  * ICMA-RC Services, LLC
-  * VantageTrust Company
-
-| 
-
-  * The Vantagepoint Funds
-  * Vantagepoint Investment Advisers, LLC
-  * Vantagepoint Transfer Agents, LLC
-
-  
----|---  
-  
 ## Our Privacy Policy.
 
 Protecting your privacy is important to us. In providing financial services and investment products to you, we collect certain nonpublic personal information about you. Our policy generally is to keep this information strictly confidential, and to use or disclose it as needed to provide services to you, or as permitted or required by law or by you. Our privacy policy applies equally to our former customers and investors, as well as individuals who simply inquire about the services or investments we offer. We may change this privacy policy in the future upon notification to you.
