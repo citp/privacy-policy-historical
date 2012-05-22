@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mimeo.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122010848id_/http%3A//www.mimeo.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mimeo.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522053839id_/http%3A//www.mimeo.com/legal) for the most accurate reproduction.*
 
 # Online Printing Company - Mimeo.com
 
