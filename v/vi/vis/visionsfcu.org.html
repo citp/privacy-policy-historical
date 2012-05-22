@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the visionsfcu.org privacy policy that was archived on 2011-07-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110728062549id_/https%3A//www.visionsfcu.org/about_visions/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the visionsfcu.org privacy policy that was archived on 2012-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120523001057id_/https%3A//www.visionsfcu.org/about_visions/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru"><head>
 	
@@ -17,9 +17,9 @@
 
 	<script src="/struct/js/jquery.cookie.js" type="text/javascript" charset="utf-8"></script>
 	<script src="/struct/js/swfobject.js" type="text/javascript" charset="utf-8"></script>
-	<script src="/struct/js/functions.js?foo=1311835200" type="text/javascript" charset="utf-8"></script>
+	<script src="/struct/js/functions.js?foo=1337732737" type="text/javascript" charset="utf-8"></script>
 	<script src="/struct/js/disclaimIt.js" type="text/javascript" charset="utf-8"></script>
-	<link rel="stylesheet" href="/struct/css/common.css?foo=1311835200" type="text/css" media="screen" title="no title" charset="utf-8">
+	<link rel="stylesheet" href="/struct/css/common.css?foo=1337732737" type="text/css" media="screen" title="no title" charset="utf-8">
 	<!--[if IE 6]>
 	<script src="/struct/js/dd_belatedpng.js"></script>
 	<script>
@@ -57,6 +57,8 @@
 </head>
 <body>
 
+
+
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -78,7 +80,7 @@ pageTracker._trackPageview();
 
 
 				<form method="post" id="search_form" action="http://search.visionsfcu.org/km/ExternalIndex.spr?submitted=false&amp;more=false&amp;showAll=false&amp;startNum=0&amp;selectedCategory=0&amp;matchType=1&amp;_qasChecked=visible&amp;qasChecked=true&amp;_treesChecked=visible&amp;treesChecked=true&amp;_docsChecked=visible&amp;docsChecked=true&amp;contactsChecked=false&amp;issuesChecked=false&amp;emailsChecked=false" name="km_askform">
-
+								<p>ABA Routing Number:<br> 2213-7537-8</p>
                                <input type="text" name="questionValue" value="search" size="15" id="search" onfocus="doClear(this)" onblur="doReset(this)">
                                <input type="hidden" name="type" value="1">
 
@@ -90,6 +92,13 @@ pageTracker._trackPageview();
 
 
 				<ul id="tabs">
+
+                      <li class="apply1" style="background: none;padding: 0px 0px 0px;">
+						<div class="container" style="background: none; padding: 0px 0px 0px;" id="deal_of_day">
+							<div class="content" style="background: none;padding: 0px 0px 0px;"><a href="#" onclick="disclaimIt('/DealOfTheDayRedirect.html'); return false;"><img src="/images/Visions_DoD_Button.png" border="0"></a></div>
+						</div>
+					</li>
+
 					<li class="apply">
 						<div class="container">
 							<div class="content"><a href="/loans/apply_for_loan.php">APPLY FOR<br>A LOAN</a></div>
@@ -97,7 +106,7 @@ pageTracker._trackPageview();
 					</li>
 					<li class="join">
 						<div class="container">
-							<div class="content"><a onclick="disclaimJoinToday('https://umnasg1.umonitor.com/visions/welcome.do');return false;" href="#">JOIN<br>TODAY</a></div>
+							<div class="content"><a href="/about_visions/become_a_member.php"><span style="line-height: 160%;"><span style="font-size: 9px;">Not a Member?</span><br>JOIN TODAY!</span></a></div>
 						</div>
 					</li>
 					<li class="login">
@@ -105,19 +114,88 @@ pageTracker._trackPageview();
 							<div class="content"> 
 
                                                              
-								<script type="text/javascript">
+								
+
+<script type="text/javascript">
 
 function downTime()
 {
  window.open('/downTime.php','dTF','height=250,width=300,location=no,status=no,toolbar=no');
 }
 
+$(document).ready(function(){   
+
+ $('#signin').click(function() {
+
+   var dataString = '';
+
+    $.ajax({
+    type: "POST",
+    url: "/login/loginMiddle2.php",
+    data: dataString,
+
+    success: function(data){
+       var $response=$(data);
+       //query the jq object for the values
+       var mcwexp = $response.filter('#mcwexp').text();
+       var mcwslot = $response.filter('#mcwslot').text();
+        
+       $('#MCWEXPIRATION').val(mcwexp);
+       $('#MCWASSIGNEDSLOT').val(mcwslot);
+
+       $('#login_form').submit();
+    }
+
+    
+ 
+    });
+    return false;
+  }); 
+
+
+
+
+
+
+  $('.top_reg_help').click(function() {
+
+   var dataString1 = '';
+
+    $.ajax({
+    type: "POST",
+    url: "/login/loginMiddle2.php",
+    data: dataString1,
+
+    success: function(data){
+       var $response=$(data);
+       //query the jq object for the values
+       var mcwexp1 = $response.filter('#mcwexp').text();
+       var mcwslot1 = $response.filter('#mcwslot').text();
+        
+       $('#MCWEXPIRATION1').val(mcwexp1);
+       $('#MCWASSIGNEDSLOT1').val(mcwslot1);
+
+       $('#login_form2').submit();
+    }
+
+    
+ 
+    });
+    return false;
+  }); 
+
+
+
+
+
+});
+
 </script>
 
 
 <form name="FORM1" id="login_form" method="POST" autocomplete="off" action="https://www.visionsfcu.com/cgi-bin/mcw000.cgi">
-<input type="HIDDEN" name="MCWEXPIRATION" id="MCWEXPIRATION" value="97F7C21176183FD5837DB4B0C62EA92FE364F51D5553156F">
-<input type="HIDDEN" name="MCWASSIGNEDSLOT" id="MCWASSIGNEDSLOT" value="97F7C21176183FD5A19AB60BDE2B582487C676EB3E1DD527E4D731069B4243C0">
+<input type="HIDDEN" name="MCWEXPIRATION" id="MCWEXPIRATION">
+<input type="HIDDEN" name="MCWASSIGNEDSLOT" id="MCWASSIGNEDSLOT">
 <input type="HIDDEN" name="MCWSYMDIR" id="MCWSYMDIR" value="4E9EA0ADFCB6658E">
 <input type="HIDDEN" name="MCWTRANTYPE" id="MCWTRANTYPE" value="MCWLOGONFORM">
 <p>LOG IN TO VISIONLINE</p><input class="txt" type="TEXT" name="HBUSERNAME" id="HBUSERNAME" maxlength="20" value="Username" onfocus="doClear(this)" onblur="doReset(this)">
@@ -125,14 +203,40 @@ function downTime()
 <input class="txt" id="password-password" type="password" name="PASSWORD" value="" maxlength="20" autocomplete="off" style="display: none;">
 <input type="submit" name="MCWSUBMIT" id="signin" value="SIGN IN">
 </form>
-<p class="top_reg_help"><a href="#" onclick="document.FORM2.submit(); return false;">Enroll Now</a><br><a href="#" onclick="document.FORM2.submit(); return false;">Need help?</a></p><form name="FORM2" id="login_form" method="POST" autocomplete="off" action="https://www.visionsfcu.com/cgi-bin/mcw000.cgi">
-<input type="HIDDEN" name="MCWEXPIRATION" id="MCWEXPIRATION" value="97F7C21176183FD5837DB4B0C62EA92FE364F51D5553156F">
-<input type="HIDDEN" name="MCWASSIGNEDSLOT" id="MCWASSIGNEDSLOT" value="97F7C21176183FD5A19AB60BDE2B582487C676EB3E1DD527E4D731069B4243C0">
+<p class="top_reg_help"><a href="#">Enroll Now</a><br><a href="#">Need help?</a></p><form name="FORM2" id="login_form2" method="POST" autocomplete="off" action="https://www.visionsfcu.com/cgi-bin/mcw000.cgi">
+<input type="HIDDEN" name="MCWEXPIRATION" id="MCWEXPIRATION1">
+<input type="HIDDEN" name="MCWASSIGNEDSLOT" id="MCWASSIGNEDSLOT1">
 <input type="HIDDEN" name="MCWSYMDIR" id="MCWSYMDIR" value="4E9EA0ADFCB6658E">
 <input type="HIDDEN" name="MCWTRANTYPE" id="MCWTRANTYPE" value="MCWLOGONFORM">
 <input type="hidden" name="HBUSERNAME" value="dummyaccount">
 <input type="hidden" name="PASSWORD" value="9456">
 </form>
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
                                                                
 
@@ -146,6 +250,46 @@ function downTime()
 
 
                  <div id="int_content"><div class="container"><div class="content">
+ 
+
+
+
+
+
+
+
+
+ <div class="overlay3" id="overlay3" style="display:none;"></div> 
+ 
+ <div class="box3" id="box3">
+  
+ <p align="center" id="disclaimText"><b>You are leaving the Visions Federal Credit Union web site. This site's privacy and security policies may differ
+ from ours. For details of our policy on linked web sites, <a id="offSitePolicies" href="#" onclick="return false;">click here</a>.</b></p> 
+
+ <div align="center">
+ <form>
+ <input type="button" id="leaveSite" value="Continue"> 
+ 
+ <input type="button" id="stayOnSite" value="Cancel"> 
+ </form>
+ </div>
+
+ </div>
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
 <h3 class="hdr-privacy">Privacy Notice</h3>
 
 <table id="facts" class="privacy" width="100%" border="0" cellspacing="0" cellpading="0">
@@ -158,7 +302,7 @@ function downTime()
                  WHAT DOES Visions Federal Credit Union<br>
 			DO WITH YOUR PERSONAL INFORMATION?
                   </div>
-                 <div style="float:right; border: 2px black solid; padding: 10px; width: 30%;">Please scroll down to read the entire Privacy Notice                </div>
+                 <div style="float:right; border: 2px black solid; padding: 5px 10px; width: 30%;">Please scroll down to read the entire Privacy Notice<br>Rev. 01/11               </div>
               
                  <div class="clear"></div>
 		</td>
@@ -459,48 +603,56 @@ function downTime()
 		<li><a href="/e_services/">e-services</a>
 			<ul>
 				<li><a href="/e_services/my_cu_accounts.php">visionline</a></li>
-				<li><a href="/e_services/all_my_accounts.php">all my accounts</a></li>
 				<li><a href="/e_services/bill_pay.php">bill pay (online form)</a></li>
-				<li><a href="/e_services/online_trading.php">online trading</a></li>
 				<li><a href="/e_services/e_statements.php">e-statements</a></li>
-				<li><a href="/e_services/mobile_banking.php">mobile banking</a></li>
+				<li><a href="/e_services/mobile_banking.php">mobile banking &amp; apps</a></li>
 				<li><a href="/e_services/text_banking.php">text banking</a></li>
 				<li><a href="/e_services/free_credit_report.php">free credit report</a></li>
 				<li><a href="/e_services/defensive_driving.php">Online Defensive Driving</a></li>
 				<li><a href="/e_services/express_deposit.php">express deposit</a></li>
+				<li><a href="/e_services/online_trading.php">online trading</a></li>
 
-                                <li><a href="/convenient_services/foreign_currency.php">Foreign Currency</a></li>
+                                
                      
 			</ul>
 		</li>
 		<li><a href="/convenient_services/">convenient services</a>
 			<ul>
 				<li><a href="/convenient_services/coin_counting.php">coin counting machines</a></li>
-				<li><a href="/convenient_services/forms_applications.php">forms and applications</a></li>
+				<!--<li><a href="/convenient_services/forms_applications.php">forms and applications</a></li>-->
 				<li><a href="/convenient_services/phone_access_teller.php">phone access teller</a></li>
 				<li><a href="/convenient_services/member_access_terminal.php">member access terminal</a></li>
 				<li><a href="/convenient_services/atms.php">atms</a></li>
 				<li><a href="/convenient_services/visa_gift_cards.php">visa gift cards</a></li>
-                                				<li><a href="#" onclick="disclaimIt('http%3A%2F%2Fwww.mymembersmarketplace.com%2Fdefault.aspx%3Fprd%3Dretail%26client%3DVisionsFCU2%26%3Bspokenkey%3DCAW7E1');return false;">Premier Package</a></li>
+                                				<li><a href="#" onclick="disclaimIt('http://www.mymembersmarketplace.com/default.aspx?prd=retail&amp;client=VisionsFCU2&amp;;spokenkey=CAW7E1');return false;">Premier Package</a></li>
 
                                 <li><a href="/Prepaid/index.php">prepaid debit cards</a></li>
 				<li><a href="/convenient_services/budget_debt_counseling.php">budget &amp; debt counseling</a></li>
-
                                 <li><a href="/convenient_services/foreign_currency.php">Foreign Currency</a></li>
+				<li><a href="/convenient_services/id_theft_protection.php">ID Theft Protection</a></li>
+				<li><a href="#" onclick="disclaimIt('http://www.rxcut.com/Visions');return false;">Prescription Discounts</a></li>
+
 			</ul>
 		</li>
-		<li><a href="/wealth_management/">wealth management</a>
+
+
+                <li><a href="/convenient_services/forms_applications.php">forms and applications</a></li>
+
+
+		<li><a href="/wealth_management/">investments</a>
 			<ul>
-				<li><a href="/wealth_management/trust_estate_services.php">trust and estate services</a></li>
-				<li><a href="/wealth_management/retirement.php">investments &amp; retirement planning</a></li>
+				<li><a href="/wealth_management/trust_estate_services.php">Trust and estate services</a></li>
+				<li><a href="/wealth_management/financial_planning_investments/index.php">Financial Planning &amp; Investments</a></li>
 				<li><a href="/wealth_management/insurance.php">insurance</a></li>
+				<li><a href="/e_services/online_trading.php">discount brokerage</a></li>
+					
 			</ul>
 		</li>
 		<li><a href="/mortgages/">mortgages</a>
 			<ul>
 				<li><a href="/mortgages/mortgage_products.php">mortgage products</a></li>
 				<li><a href="/mortgages/mortgage_information.php">mortgage information</a></li>
-				<li><a href="/mortgages/reverse_mortgages.php">reverse mortgages</a></li>
+				
 			</ul>
 		</li>
 		<li><a href="/business_services/">business services</a>
@@ -608,20 +760,26 @@ function downTime()
 
 
 		<div id="footer">
-			<ul class="member_logos">
-				<li><img src="/images/equal_housing_lender.jpg" width="124" height="116" alt="Equal Housing Lender"></li>
-				<li><img src="/images/americas_credit_unions.jpg" width="100" height="68" alt="Americas Credit Unions"></li>
-				<li><a href="#" onclick="disclaimIt('http://ncua.gov');return false;"><img src="/images/ncua.jpg" width="135" height="109" alt="Ncua" border="0"></a></li>
-			</ul>
+			<div>
+				<ul class="footer_nav">
+					<li><a href="/about_visions/contact_us.php">Contact Us</a></li>
+					<li><a href="/about_visions/careers.php">Careers</a></li>
+					<li><a href="/about_visions/branch_locations.php">Hours &amp; Locations</a></li>
+					<li><a href="/about_visions/privacy_policy.php">Privacy</a></li>
+					<li><a href="/about_visions/security.php">Security</a></li>
+					<li><a class="last" href="/site_map.php">Site Map</a></li>
+				</ul>
+			</div>
 			
-			<ul class="footer_nav">
-				<li><a href="/about_visions/contact_us.php">Contact Us</a></li>
-				<li><a href="#" onclick="disclaimIt('http://www.cuservicecenter.com');return false;">CU Service Center</a></li>
-				<li><a href="/about_visions/branch_locations.php">Hours &amp; Locations</a></li>
-				<li><a href="/about_visions/privacy_policy.php">Privacy</a></li>
-				<li><a href="/about_visions/security.php">Security</a></li>
-				<li><a class="last" href="/site_map.php">Site Map</a></li>
-			</ul>
+			<div class="row">
+				<ul class="member_logos">
+					<li><a href="/docs/TEMPORARY_NCUA_INSURANCE_COVERAGE_NOTICE.pdf"><img src="/images/buttons/btn_notice_of_change_small.jpg"></a></li>
+					<li><img src="/images/equal_housing_lender.jpg" width="124" height="116" alt="Equal Housing Lender"></li>
+					<li><a href="#" onclick="disclaimIt('http://ncua.gov');return false;"><img src="/images/ncua.jpg" width="135" height="109" alt="Ncua" border="0"></a></li>
+					<li><img src="/images/americas_credit_unions.jpg" width="100" height="68" alt="Americas Credit Unions"></li>
+				</ul>
+			</div>
+			
 		</div>
 	</div>
 
