@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letterrep.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102154854id_/http%3A//www.letterrep.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letterrep.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522190911id_/http%3A//www.letterrep.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Page - We care about your privacy.
 
@@ -31,4 +31,4 @@ Please remember that when you use a link to go from LetterRep.com to another web
 This Privacy Policy was updated in January 2011. LetterRep.com reserves the right to change, modify or amend this policy at any time. LetterRep.com takes privacy matters very seriously, and intends to stay at the forefront of privacy policy and protection matters. LetterRep.com will occasionally update our privacy policy and we will post those updates on this page. _You are responsible for revisiting this page to review our privacy policy updates_. 
 
 **_How to contact LetterRep.com:_**  
-Please note that whenever you submit any information to us in connection with any LetterRep.com related services, you consent to LetterRep's processing of this information in the United States as necessary to provide the services in which you are participating. If you have any questions, comments, criticisms, or complaints about LetterRep.com's privacy policy and/or the way it affects you, please feel free to [_e-mail us_](https://web.archive.org/web/20111102154854id_/http%3A/contact_us.php).
+Please note that whenever you submit any information to us in connection with any LetterRep.com related services, you consent to LetterRep's processing of this information in the United States as necessary to provide the services in which you are participating. If you have any questions, comments, criticisms, or complaints about LetterRep.com's privacy policy and/or the way it affects you, please feel free to [_e-mail us_](https://web.archive.org/web/20120522190911id_/http%3A/contact_us.php).
