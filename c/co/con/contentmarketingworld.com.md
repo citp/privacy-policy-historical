@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contentmarketingworld.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202051403id_/http%3A//www.contentmarketinginstitute.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentmarketingworld.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522040256id_/http%3A//www.contentmarketinginstitute.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Content Marketing Institute
 
