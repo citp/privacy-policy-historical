@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the independenttraveler.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122005824id_/http%3A//www.independenttraveler.com/aboutus/%3FID%3D11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independenttraveler.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522150048id_/http%3A//www.independenttraveler.com/privacy) for the most accurate reproduction.*
 
-# The Independent Traveler: About Us
+# Privacy | IndependentTraveler.com
 
 Privacy Policy   
 The Internet contains a wealth of information and it may also contain personal details about you that you don't want everyone to know. At The Independent Traveler we strive to assist our participants in protecting their privacy while using our web site. 
@@ -19,13 +19,8 @@ We have adopted the following Principles of Privacy, which summarize and clarify
 
 6\. 
 
-_Information Collected by Third Parties_. Third parties, such as vendors, advertising entities, and business partners, may use cookies and other technologies to collect information about your online activities. The purposes for collecting this information include: to measure usage of our site; to analyze, modify, and personalize advertising content on this and other sites; and to provide ads about goods and services that may be of interest to you. We do not have access to or control over cookies or other features these third parties may use, and the information practices of these third parties are not covered by this Privacy Policy. Some of these third parties may be third-party network advertisers that offer you the option of not having this information collected. To learn more, please see <http://www.networkadvertising.org/>. 
+_Information Collected by Third Parties_. Third parties, such as vendors, advertising entities, and business partners, may use cookies and other technologies to collect information about your online activities. The purposes for collecting this information include: to measure usage of our site; to analyze, modify, and personalize advertising content on this and other sites; and to provide ads about goods and services that may be of interest to you. We do not have access to or control over cookies or other features these third parties may use, and the information practices of these third parties are not covered by this Privacy Policy. Some of these third parties may be third-party network advertisers that offer you the option of not having this information collected. To learn more, please see <http://www.networkadvertising.org/>.
 
-7\. Email newsletters. If you wish to unsubscribe from our email newsletters at any time, please visit <http://www.independenttraveler.com/newsletter/manage.cfm> or contact the [Community Manager](mailto:community@independenttraveler.com). 
+7\. Email newsletters. If you wish to unsubscribe from our email newsletters at any time, please utilize the Update Profile link at the bottom of any of our mailings. 
 
-The Independent Traveler, Inc.   
-7 Tree Farm Road   
-Pennington, NJ 08534   
-609-730-9155 
-
-This Privacy Policy is effective as of 02/24/2011. 
+This Privacy Policy is effective as of 02/27/2012. 
