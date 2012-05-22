@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the visionsfcu.org privacy policy that was archived on 2011-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110728062549id_/https%3A//www.visionsfcu.org/about_visions/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visionsfcu.org privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523001057id_/https%3A//www.visionsfcu.org/about_visions/privacy_policy.php) for the most accurate reproduction.*
 
 # Visions Federal Credit Union
+
+**You are leaving the Visions Federal Credit Union web site. This site's privacy and security policies may differ from ours. For details of our policy on linked web sites,click here.**
 
 ### Privacy Notice
 
@@ -9,7 +11,8 @@ FACTS |
 WHAT DOES Visions Federal Credit Union  
 DO WITH YOUR PERSONAL INFORMATION? 
 
-Please scroll down to read the entire Privacy Notice   
+Please scroll down to read the entire Privacy Notice  
+Rev. 01/11   
   
 ---|---  
    
