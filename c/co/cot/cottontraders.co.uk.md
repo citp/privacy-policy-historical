@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cottontraders.co.uk privacy policy that was archived on 2011-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110915112450id_/http%3A//www.cottontraders.co.uk/privacy-policy/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cottontraders.co.uk privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523005420id_/http%3A//www.cottontraders.co.uk/privacy-policy/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at Cotton Traders
 
@@ -36,5 +36,3 @@ All data provided to the Cotton Traders web site is treated with the utmost sens
 For more details, please read our 
 
 [_Security Statement._](http://www.cottontraders.co.uk/security-statement/page/security/)
-
-Note: Cotton Traders uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to http://www.doubleclick.com/privacy/index.aspx. 
