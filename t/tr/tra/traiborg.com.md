@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the traiborg.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611073209id_/http%3A//www.traiborg.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traiborg.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522082422id_/http%3A//www.traiborg.com/help/privacy) for the most accurate reproduction.*
 
-# Traiborg
+# TRAIBORG - Privacy Policy
 
 | 
 
