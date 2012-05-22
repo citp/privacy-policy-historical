@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mdjunction.com privacy policy that was archived on 2011-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111025024913id_/http%3A//www.mdjunction.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdjunction.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522154438id_/http%3A//www.mdjunction.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,7 +37,7 @@ This Web site contains links to other sites. Please be aware that we are not res
 **Information Collected by Third Parties  
 **We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. 
 
-You can always change your information (profile information, username, screen name, email preferences, etc) via your member account page. Check out the FAQs (link at the bottom of every page) on how to do it. 
+You can always change your information (profile information, email preferences, etc) via your member account page. Check out the FAQs (link at the bottom of every page) on how to do it. 
 
 To learn more about this "behavioral advertising" practice or to opt-out of this use of your anonymous information,you can visit <http://www.networkadvertising.org/managing/opt_out.asp>. 
 
@@ -47,11 +47,8 @@ MDJunction.com implements methods of securing its user information databases fro
 **Amendments to the privacy policy**  
 This policy may be amended from time to time and in our sole discretion, upon posting notice on the Web site. Please periodically visit this page to review the current privacy policy. 
 
-**Accreditation**  
-MDJunction complies with the principles of the HON Code of Conduct established by the Health on the Net Foundation. To verify our compliance, click on the HON logo. 
+ 
 
 **Please feel free to[contact us](http://www.mdjunction.com/contact) with any questions. **
 
-Privacy page was updated on February 2010.   
-  
-**Important** : Articles published in MDJunction are written by MDJunction's community members and not by medical professionals (unless stated directly). They are not medical articles/content and are not a replacement for medical diagnosis. If the article does not contain direct reference to the source of the data, please treat it as personal opinion of the writer. 
+Privacy page was updated on May 2012. 
