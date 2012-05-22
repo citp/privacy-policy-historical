@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the leadsmarket.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228230954id_/http%3A//www.leadsmarket.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadsmarket.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522235646id_/http%3A//leadsmarket.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # LeadsMarket.com - Privacy Policy
 
 Thank you for visiting the LeadsMarket.com website (the "Website"). This websites is an Internet properties of LeadsMarket.com LLC ("LeadsMarket.com," "we" or "us"). LeadsMarket.com is committed to protecting the privacy of our visitor's personally identifiable information. To better protect your privacy, we provide this privacy policy ("Privacy Policy") explaining our online information practices and the choices you can make about the way your information is used at our Websites. By visiting the Websites, you are accepting the practices described in this Privacy Policy. 
 
-If you are a resident of the State of California and would like to opt-out from the disclosure of your Personal Information to any third party for marketing purposes, please e-mail us at: [support@LeadsMarket.com](https://web.archive.org/web/20111228230954id_/http%3A//www.leadsmarket.com/support@LeadsMarket.com). Please be advised that where California residents opt-out from permitting their Personal Information to be shared, such individuals may still receive selected offers directly from us, in accordance with the law. 
+If you are a resident of the State of California and would like to opt-out from the disclosure of your Personal Information to any third party for marketing purposes, please e-mail us at: [support@LeadsMarket.com](https://web.archive.org/web/20120522235646id_/http%3A//leadsmarket.com/support@LeadsMarket.com). Please be advised that where California residents opt-out from permitting their Personal Information to be shared, such individuals may still receive selected offers directly from us, in accordance with the law. 
 
 What Information We Collect and How We Use It
 
@@ -45,7 +45,7 @@ We use the non-personally identifiable information that we collect to improve th
 Choices/Opt Out 
 
 If you prefer not to receive marketing information from us or wish to fully deactivate your account information, simply let us know by sending a letter via certified mail to 6130 Elton Avenue Suite # 386, Las Vegas, NV 89107  
-To opt out from the newsletter, you can unsubscribe your email by visiting our [unsubscribe page](https://web.archive.org/web/20111228230954id_/http%3A//www.leadsmarket.com/unsubscribe.aspx). or an e-mail to Customer Relations. Please note that even if you chose to opt out of LeadsMarket.com’s marketing, we will continue to send you important service-related communications (e.g., order confirmation or product safety information). However, these communications will not be promotional in nature. 
+To opt out from the newsletter, you can unsubscribe your email by visiting our [unsubscribe page](https://web.archive.org/web/20120522235646id_/http%3A//leadsmarket.com/unsubscribe.aspx). or an e-mail to Customer Relations. Please note that even if you chose to opt out of LeadsMarket.com’s marketing, we will continue to send you important service-related communications (e.g., order confirmation or product safety information). However, these communications will not be promotional in nature. 
 
 Cookies
 
@@ -85,4 +85,4 @@ Notification of Changes
 LeadsMarket.com reserves the right to change or update this Privacy Policy at any time by posting a notice on our Website(s) that we are changing our Privacy Policy. If the manner in which we use personally identifiable information changes, LeadsMarket.com will notify you by: (a) posting the changes as a start-up screen prior to your subsequent use of the products and/or service offered on the Website(s); (b) sending the modified policy to the users via e-mail; (c) placing a link to the modified policy on the applicable Website’s home page; or (d) by any other reasonable means acceptable under applicable state and federal law. You will have a choice as to whether or not we use your information in this different manner. At any time that you do not agree with the changes, you must opt out from receiving future communications from us (see the "Choices/Opt-Out" section above). Failure to opt out after notice of any such changes constitutes an affirmative acknowledgement and acceptance by you of the modified Privacy Policy. 
 
 Contact Us  
-If you have any questions regarding this Privacy Policy, or would like more information on our privacy practices, please contact us at: [support@LeadsMarket.com](https://web.archive.org/web/20111228230954id_/http%3A//www.leadsmarket.com/support@LeadsMarket.com)
+If you have any questions regarding this Privacy Policy, or would like more information on our privacy practices, please contact us at: [support@LeadsMarket.com](https://web.archive.org/web/20120522235646id_/http%3A//leadsmarket.com/support@LeadsMarket.com)
