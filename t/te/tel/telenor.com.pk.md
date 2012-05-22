@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the telenor.com.pk privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009135817id_/http%3A//www.telenor.com.pk/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D344) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telenor.com.pk privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522211332id_/http%3A//www.telenor.com.pk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Telenor Pakistan - Privacy Policy
 
 **Privacy Statement**
 
@@ -139,3 +139,13 @@ Please contact Customer Care in writing, including all the details of the SMS/MM
 **What can We do if spamming continues**
 
 Telenor will do what it can to intervene with the sender of the messages. We will do all we can to identify the origin of the message and to demand the sender to stop sending such messages. In some cases we can cut off access to the mobile network for the sender of unsolicited messages. Unfortunately the legal situation as regards spamming is not clear: it is not considered illegal. Telenor supports the GSMA’S Spam Code of Practice in the fight against spam.
+
+**Customers Beware**
+
+Please be aware that some Telenor Pakistan customers are receiving hoax calls and fraudulent SMS informing them that they have won a valuable prize. To get the prize, customers are told to buy some scratch cards and tell the calling party the numbers on them. The fraudulent party immediately transfers the balance to unknown accounts thus depriving the customers of their money.
+
+Please also be aware that in some instances, Telenor Pakistan customers are receiving hoax calls and fraudulent SMS asking them to reply. The SMS contains a hidden message which transfers prepaid balance from the customer's account on reply.
+
+PLEASE NOTE THAT SUCH CALLS AND SMS ARE A FRAUD.
+
+This notice is being given in the public-interest to inform our customers from fraudulent practices. However Telenor Pakistan does not hold any responsibility or is in any way liable for compensation what so ever against such fraudulent activities.
