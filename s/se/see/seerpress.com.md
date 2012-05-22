@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seerpress.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122024013id_/http%3A//seerpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seerpress.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522045213id_/http%3A//seerpress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Seer Press
 
@@ -10,7 +10,7 @@ To make this notice easy to find, we make it available on our homepage and at ev
 
 **Google Adsense and the DoubleClick DART Cookie**
 
-Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet. To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the  
+Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet. To opt out of the DART cookies you may visit the Google ad and content network [Privacy Policy](http://seerpress.com/amazon-product/Privacy-Policy/560825) at the  
 following URL http://www.google.com/privacy_ads.html Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
 
 Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Seerpress.com has no access or control over these cookies that may be used by third party advertisers.
@@ -27,4 +27,4 @@ We have included links on this site for your use and reference. We are not respo
 
 The contents of this statement may be altered at any time, at our discretion.
 
-If you have any questions regarding the privacy policy of Seerpress.com then please don’t hesitate to contact us.
+If you have any questions regarding the [Privacy Policy](http://seerpress.com/amazon-product/Privacy-Policy/560825) of Seerpress.com then please don’t hesitate to contact us.
