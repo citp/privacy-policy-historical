@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adform.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202084254id_/http%3A//www.adform.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adform.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522043517id_/https%3A//www.adform.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Adform privacy policy statement : Adform
 
@@ -78,8 +78,6 @@ Ads served by Adform usually link to other web sites, which may have privacy ass
 Adform implements reasonable security measures to protect all data collected and used by Adform technology. At every step, Adform adapts all relevant security and safety practices, and employs modern security hardware and software provided by recognized world-leading manufacturers. Physical environment security is also ensured; thus, Adform solutions are hosted and data are stored only in Tier 3 or Tier 4 data centres, classified according to official data centre classification.
 
 ###  Adform allows Internet users to opt out of:
-
-Adform allows Internet users to opt out of:
 
   * cookie-based targeted advertisements using Adform technology for online behavioural advertisements (OBAs),
   * tracking of visits across domains of different media or advertisers’ sites through Adform technology,
