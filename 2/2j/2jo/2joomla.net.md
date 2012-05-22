@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2joomla.net privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121235007id_/http%3A//www.2joomla.net/2jcarousel-pricing/76%3Ftask%3Dview) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2joomla.net privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522041250id_/http%3A//www.2joomla.net/2jcarousel-pricing/76%3Ftask%3Dview) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,7 +9,7 @@ Modern information and communication technologies play a fundamental role in the
 Our principal activity is: 
 
   * Development of web applications
-  * Joomla extensions development
+  * Joomla! extensions development
 
 Our privacy policy covers 2JoomlaNet and its Web site.   
 
@@ -29,7 +29,7 @@ We do not use cookies to store personal data nor do we link non-personal informa
 We collect the personal data that you may volunteer while using our services.  
 We do not collect information about our visitors from other sources, such as public records or bodies, or private organisations.  
 We do not collect or use personal data for any purpose other than that indicated in the table below.  
-If we wish to use our visitors' personal data for new purposes, we do not give them the opportunity to consent to those new purposes.
+If we wish to use our visitors personal data for new purposes, we do not give them the opportunity to consent to those new purposes.
 
 #### Children's Privacy
 
