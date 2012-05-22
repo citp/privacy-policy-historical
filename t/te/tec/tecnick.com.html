@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tecnick.com privacy policy that was archived on 2011-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111127042009id_/http%3A//www.tecnick.com/public/code/cp_dpage.php%3Faiocp_dp%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tecnick.com privacy policy that was archived on 2012-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120522152749id_/http%3A//www.tecnick.com/public/code/cp_dpage.php%3Faiocp_dp%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
 <title>Privacy Statement</title>
@@ -21,14 +21,14 @@
 <div class="headertools">
 <form action="http://www.tecnick.com/public/code/cp_search.php" id="cse-search-box">
 <div id="gsrch">
-<input type="hidden" name="cx" id="cx" value="010943011149682345787:p6weyohdcl8">
+<input type="hidden" name="cx" id="cx" value="partner-pub-2627887748647914:5318671723">
 <input type="hidden" name="cof" id="cof" value="FORID:11">
 <input type="hidden" name="ie" id="ie" value="UTF-8">
 <label for="q" style="font-size:small;">?</label> 
 <input type="text" name="q" id="q" size="20" title="Google Search" style="background: url(&quot;https://www.google.it/cse/intl/en/images/google_custom_search_watermark.gif&quot;) left center no-repeat rgb(255, 255, 255);">
 <input type="submit" name="sa" id="gsearch" value="search">
 </div>
-<input name="siteurl" type="hidden" value="web.archive.org/web/20111127042009id_/http%3A//www.tecnick.com/public/code/cp_dpage.php%3Faiocp_dp%3Dprivacy"></form>
+<input name="siteurl" type="hidden" value="web.archive.org/web/20120522152749id_/http%3A//www.tecnick.com/public/code/cp_dpage.php%3Faiocp_dp%3Dprivacy"><input name="ref" type="hidden" value=""></form>
 <script type="text/javascript">
 //<![CDATA[
 
@@ -41,34 +41,48 @@ if (f && f['q']) {
 var q = f['q'];
 var n = navigator;
 var l = location;
-var su = function () {
+var su = function (n, t, v, l) {
+if (!encodeURIComponent || !decodeURIComponent) {
+return;
+}
 var u = document.createElement('input');
-var v = document.location.toString();
-var existingSiteurl = /(?:[?&]siteurl=)([^&#]*)/.exec(v);
-if (existingSiteurl) {
-v = decodeURI(existingSiteurl[1]);
+var regexp = new RegExp('(?:[?&]' + n + '=)([^&#]*)');
+var existing = regexp.exec(t);
+if (existing) {
+v = decodeURIComponent(existing[1]);
 }
 var delimIndex = v.indexOf('://');
 if (delimIndex >= 0) {
 v = v.substring(delimIndex + '://'.length, v.length);
 }
-u.name = 'siteurl';
-u.value = v;
+u.name = n;
+var v_sub = v.substring(0, l);
+while (encodeURIComponent(v_sub).length > l) {
+v_sub = v_sub.substring(0, v_sub.length - 1);
+}
+u.value = v_sub;
 u.type = 'hidden';
 f.appendChild(u);
 };
+var append = false;
 if (n.appName == 'Microsoft Internet Explorer') {
 var s = f.parentNode.childNodes;
 for (var i = 0; i < s.length; i++) {
         if (s[i].nodeName == 'SCRIPT' &&
             s[i].attributes['src'] &&
             s[i].attributes['src'].nodeValue == unescape('https:\x2F\x2Fwww.google.it\x2Fcse\x2Fbrand?form=cse-search-box\x26amp\x3Blang=it')) {
-          su();
+          append = true;
           break;
         }
       }
     } else {
-      su();
+      append = true;
+    }
+    if (append) {
+      
+      var loc = document.location.toString(); var ref = document.referrer;
+      su('siteurl', loc, loc, 250);
+      su('ref', loc, ref, 750);
     }
 
     
@@ -173,11 +187,11 @@ ul.altmenu ul {
 <div class="content">
 <a name="topofdoc" id="topofdoc"></a>
 <script type="text/javascript">//<![CDATA[
-google_ad_client = "pub-0756956618314731";
+google_ad_client = "pub-2627887748647914";
 google_ad_width = 728;
 google_ad_height = 15;
 google_ad_format = "728x15_0ads_al";
-google_ad_channel ="2917180755";
+google_ad_channel ="8280042819";
 google_ad_type = "text";
 google_color_border = "FFFFFF";
 google_color_bg = "FFFFFF";
@@ -246,7 +260,7 @@ The following statement outlines the privacy policy of Tecnick.com (www.tecnick.
 </div>
 </div>
 
-<div class="copyright" dir="ltr">Tecnick.com s.r.l. - Sede Legale: Via Della Pace, 11 - 09044 - Quartucciu (CA) - ITALY - Capitale Sociale EUR 10.000,00 i.v. - P. IVA e C.F.: 02574420929 - C.C.I.A.A.: CA-2000-19195 - R.E.A.: 208980<br>Copyright © 2000-2011 Nicola Asuni - <a href="http://www.tecnick.com" title="Tecnick.com s.r.l. Website">Tecnick.com s.r.l.</a> - Tutti i diritti riservati - All Rights Reserved.</div>
+<div id="footer" class="copyright" dir="ltr" stle="text-align:center;">Copyright © 2000-2011 Nicola Asuni - <a href="http://www.tecnick.com" title="Tecnick.com Website">Tecnick.com LTD</a> - Tutti i diritti riservati - All Rights Reserved.</div>
 
 <div class="minibutton" dir="ltr">
 <a href="http://validator.w3.org/check/referer" class="minibutton" title="This Page Is Valid XHTML 1.0 Strict!">W3C <span>XHTML 1.0</span></a> | <a href="http://jigsaw.w3.org/css-validator/" class="minibutton" title="This document validates as CSS!">W3C <span>CSS 2.0</span></a>
