@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sparktherise.com privacy policy that was archived on 2011-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111123095952id_/http%3A//www.sparktherise.com/dynamic/Privacy%2520Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sparktherise.com privacy policy that was archived on 2012-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120523191653id_/http%3A//www.sparktherise.com/dynamic/Privacy%2520Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" csstransforms csstransforms3d csstransitions"><head>
 <title>Privacy Policy | Spark the Rise</title>
@@ -31,7 +31,7 @@
   <h1 class="logo"><a href="index.php" title="Mahindra - Spark the Rise"><img src="images/mahindra-rise-logo.gif" alt="Mahindra - Spark the Rise"></a></h1>
   <div class="navcontainer">
     <div class="topsearch">
-      <form action="searchresults.php?viewAll=3" name="searchbox" method="POST">
+      <form action="searchresults.php?viewAll=0" name="searchbox" method="POST">
         <input class="default-value" type="text" name="textSearch" value="Search projects" onfocus="this.value=''" style="width:100px;">
       </form>
     </div>
@@ -45,17 +45,18 @@
         <li><a href="faqs.php" class="faq">FAQs</a></li>
         <li><a href="discussionsLP.php" class="forum">Forum</a></li>
         <li><a href="http://rise.mahindra.com/" class="blog" target="_blank">Blog</a></li>
-        <li class="last"><a href="http://amazingindians.timesnow.tv" class="aindians" target="_blank">Blog</a></li>
+        <li><a href="gfprojects.php" class="gfinale">Blog</a></li>
+        <li class="last"><a href="contactus.php" class="contact">Contact Us</a></li>
       </ul>
     </nav>
     <div class="clear"></div>
     <nav id="mainnav">
       <ul>
-        <li><a href="categories.php?cat_id=1&amp;viewAll=3" class="health">Technology</a></li>
-        <li><a href="categories.php?cat_id=2&amp;viewAll=3" class="education">Infrastructure &amp; Transportation</a></li>
-        <li><a href="categories.php?cat_id=3&amp;viewAll=3" class="sc">Energy</a></li>
-        <li><a href="categories.php?cat_id=4&amp;viewAll=3" class="di">Agriculture &amp; Rural Development</a></li>
-        <li class="last"><a href="categories.php?cat_id=5&amp;viewAll=3" class="es">Social Entrepreneurship</a></li>
+        <li><a href="categories.php?cat_id=1&amp;viewAll=0" class="health">Technology</a></li>
+        <li><a href="categories.php?cat_id=2&amp;viewAll=0" class="education">Infrastructure &amp; Transportation</a></li>
+        <li><a href="categories.php?cat_id=3&amp;viewAll=0" class="sc">Energy</a></li>
+        <li><a href="categories.php?cat_id=4&amp;viewAll=0" class="di">Agriculture &amp; Rural Development</a></li>
+        <li class="last"><a href="categories.php?cat_id=5&amp;viewAll=0" class="es">Social Entrepreneurship</a></li>
       </ul>
     </nav>
   </div>
@@ -135,12 +136,11 @@ jQuery(document).ready(function(){
 });
 </script>
 <footer>
-  <div class="wraper footer">
-   <div class="copyright">Mahindra &amp; Mahindra © Copyright 2011. <a href="dynamic/Terms And Conditions">Terms &amp; Conditions</a>&nbsp; | &nbsp;<a href="dynamic/Privacy Policy">Privacy Policy </a></div>
+  <div class="wraper footer hm">
+   <div class="copyright">Mahindra Rise © Copyright 2011. <a href="dynamic/Terms And Conditions">Terms &amp; Conditions</a>&nbsp; | &nbsp;<a href="dynamic/Privacy Policy">Privacy Policy </a></div>
     <div class="addthibutton">
       <!-- AddThis Button BEGIN -->
       <div class="addthis_toolbox addthis_default_style addthis_32x32_style"> <a class="addthis_button_preferred_1"></a> <a class="addthis_button_preferred_2"></a> <a class="addthis_button_preferred_3"></a> <a class="addthis_button_preferred_4"></a> <a class="addthis_button_compact"></a> <a class="addthis_counter addthis_bubble_style"></a> </div>
-      <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4e0323b67c5f1b30"></script>
      <!-- AddThis Button END -->
     </div>
   </div>
@@ -160,17 +160,28 @@ jQuery(document).ready(function(){
     </div>
   </div>
 </footer>
-<script>
+ <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4e0323b67c5f1b30"></script><script>
 jQuery.noConflict();
-jQuery('#errcls').click(function(){
+jQuery('#seasonclose1').click(function(){
 	jQuery('.usrErrpop').css({ left: (jQuery(document).width() - 642) / 2 });
-	jQuery('.usrErrpop').css({ top: 250 });
+	jQuery('.usrErrpop').css({ top: 150 });
 	jQuery('.usrErrpop').css('display','block');
 	jQuery('#errBackPopup').height(jQuery(document).height());
 	jQuery('#errBackPopup').width(jQuery(document).width());
 	jQuery("#errBackPopup").fadeIn();
 	setTimeout(function() {
-		window.location.href = 'usersettings.php';
+		window.location.href = 'projectsubmission-basicinfo.php?step=1';
+	}, 30000);
+});
+jQuery('#seasonclose').click(function(){
+	jQuery('.usrErrpop').css({ left: (jQuery(document).width() - 642) / 2 });
+	jQuery('.usrErrpop').css({ top: 150 });
+	jQuery('.usrErrpop').css('display','block');
+	jQuery('#errBackPopup').height(jQuery(document).height());
+	jQuery('#errBackPopup').width(jQuery(document).width());
+	jQuery("#errBackPopup").fadeIn();
+	setTimeout(function() {
+		window.location.href = 'projectsubmission-basicinfo.php?step=1';
 	}, 30000);
 });
 </script>
