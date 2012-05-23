@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flipbooth.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122164135id_/http%3A//www.flipbooth.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flipbooth.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523191516id_/http%3A//www.flipbooth.com/pages/privacy) for the most accurate reproduction.*
 
 # FlipBooth - The Pinoy Youtube - Free Pinoy 24 TV Videos And Channel Site - Privacy Policy - Free Pinoy 24 TV
 
