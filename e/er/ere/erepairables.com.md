@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the erepairables.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123015616id_/http%3A//erepairables.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erepairables.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523171250id_/http%3A//erepairables.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -71,7 +71,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://erepairables.com](http://erepairables.com/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [https://erepairables.com](http://erepairables.com/)
 
  **Your Consent**
 
@@ -81,13 +81,13 @@ By using our site, you consent to our [online privacy policy](http://www.freepri
 
 If we decide to change our privacy policy, we will post those changes on this page. 
 
-This policy was last modified on 11/12/2010
+This policy was last modified on 02/14/2012
 
  **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-http://erepairables.com  
+https://erepairables.com  
 PO Box 865  
 Royal Oak, Michigan 48089  
 United States  
