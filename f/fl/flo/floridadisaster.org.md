@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floridadisaster.org privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230221130id_/http%3A//www.floridadisaster.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floridadisaster.org privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523190134id_/http%3A//www.floridadisaster.org/privacy.htm) for the most accurate reproduction.*
 
 # FloridaDisaster.org - Privacy Statement
 
