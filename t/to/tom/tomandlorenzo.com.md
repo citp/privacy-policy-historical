@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomandlorenzo.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124021612id_/http%3A//www.tomandlorenzo.com/2006/07/privacy-policy-information.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomandlorenzo.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523170422id_/http%3A//www.tomandlorenzo.com/2006/07/privacy-policy-information.html) for the most accurate reproduction.*
 
 # Privacy Policy Disclosure | Tom & Lorenzo
 
@@ -61,4 +61,5 @@ If there are any questions regarding this privacy policy you may contact us usin
 Website: http://www.tomandlorenzo.com  
 Email: tlo @ tomandlorenzo . com
 
-[](http://www.linkwithin.com/)
+Follow us:   
+[](https://twitter.com/#!/tomandlorenzo) [](http://www.facebook.com/pages/Tom-and-LorenzoProject-Rungay/131035174615) [](http://tomandlorenzo.tumblr.com/) [](http://feeds.feedburner.com/tlofeed) [](https://pinterest.com/tomandlorenzo/)
