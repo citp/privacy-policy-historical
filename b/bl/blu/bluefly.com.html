@@ -1,121 +1,7 @@
-<!--The following is the downloaded HTML source of the bluefly.com privacy policy that was archived on 2011-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111123183112id_/http%3A//bluefly.com/custom/custom.jsp%3FpromoId%3Dm1930248) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bluefly.com privacy policy that was archived on 2012-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120524012101id_/http%3A//www.bluefly.com/custom/custom.jsp%3FpromoId%3Dm1930248) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta scheme="a1afcc517bec909bf5c3fddea7c83c3d" name="TSf52dda" content="30cd0b90a7fd479d"><!--9cc5da25f89a21d1fbb5ffa18da0bb73--><script type="text/javascript">if(window.addEventListener){window.addEventListener("load",fetchcsloader,false);}else{if(window.attachEvent){window.attachEvent("onload",fetchcsloader);}else{onload=fetchcsloader;}}
-var jsepee={};jsepee['ILLEGAL_VALUE']=0xffff;jsepee['DEFAULT_PORT']="80";var e=document.getElementsByTagName('meta');jsepee['CSHUI_RANDOM_DATA_NODE']=null;for(var i=0;i<e.length;i++){if(e[i].getAttribute('scheme')&&e[i].getAttribute('scheme')==='a1afcc517bec909bf5c3fddea7c83c3d'){jsepee['CSHUI_RANDOM_DATA_NODE']=e[i];}}
-if(jsepee['CSHUI_RANDOM_DATA_NODE']!==undefined&&jsepee['CSHUI_RANDOM_DATA_NODE']!==null){jsepee['CSHUI_COOKIE_NAME']=jsepee['CSHUI_RANDOM_DATA_NODE'].getAttribute('name')+'_77';jsepee['CSHUI_COOKIE_VALUE_TRUE']='true'+'_'+jsepee['CSHUI_RANDOM_DATA_NODE'].getAttribute('content');jsepee['CSHUI_MONITOR_KEYBOARD']=true;jsepee['CSHUI_MONITOR_MOUSE']=true;}
-jsepee['CSHUI_MOUSEMOVE_EVENTS_TARGET']=3;jsepee['CSHUI_MOUSEMOVE_MAX_EVENTS']=1024;jsepee['CSHUI_MOUSEMOVE_EVENTS_COUNTER']=0;jsepee['CSHUI_MOUSEMOVE_LAST_X_LOCATION']=0;jsepee['CSHUI_MOUSEMOVE_LAST_Y_LOCATION']=0;jsepee['CSHUI_MOUSEMOVE_IS_CONTINUOUS']=0;jsepee['CSHUI_KEYBOARD_EVENTS_TARGET']=1;jsepee['CSHUI_KEYBOARD_EVENTS_COUNTER']=0;jsepee.new_url=function(){return{'literal':"",'methodId':this.method2id("GET"),'host':"",'port':"",'protocolId':"",'path':"",'fileExtension':"",'parameters':[]};};jsepee.new_das_item=function(){return{'page':{'URL':this.new_url(),'referrer':this.new_url(),'characterEncoding':"UTF-8",'cookie':[]},'links':{},'forms':{},'cshui':'false'+'_'+jsepee['CSHUI_RANDOM_DATA_NODE'].getAttribute('content')};};jsepee.new_das=function(){return{};};jsepee['das']=jsepee.new_das();jsepee.protocol2id=function(protocol){if(protocol=="http:"){return 0;}else if(protocol=="https:"){return 1;}
-return this.ILLEGAL_VALUE;};jsepee.get_file_extension=function(path){var lastIndexOfSlash=path.lastIndexOf("/");var file="";if(lastIndexOfSlash<0){file=path;}else{file=path.substring(lastIndexOfSlash+1);}
-var lastIndexOfDot=file.lastIndexOf(".");var ext="";if(lastIndexOfDot>=0){ext=file.substring(lastIndexOfDot+1);}
-return ext;};jsepee.extract_parameters_from_query_string=function(search){if(!search){return[];}
-var item=search.substring(1).split("&");var params=[];for(var i=0;i<item.length;++i){var pair=item[i].split("=");params.push({name:pair[0],value:decodeURIComponent(pair[1])});}
-return params;};jsepee.get_parsed_url=function(a){return{'literal':a.href,'host':a.host,'port':a.port||this['DEFAULT_PORT'],'protocolId':this.protocol2id(a.protocol),'path':a.pathname,'fileExtension':this.get_file_extension(a.pathname),'parameters':this.extract_parameters_from_query_string(a.search)};};jsepee.is_relative_url=function(u){return/^\w+:/.test(u)===false;
-};
-
-jsepee.parse_url = function(w,nu){
- var a = w.document.createElement("a");
- a.href = nu;
- var parsed_url = this.get_parsed_url(a);
- if (this.is_relative_url(parsed_url.literal)){
-  a.href = this.url2abs(w,nu);
- }
- parsed_url = this.get_parsed_url(a);
- return parsed_url;
-};
-
-jsepee.update_page_URL = function(w) {
- var this_page = this['das'][w.location.href];
- var this_URL = this_page['page']['URL'];
- this_URL['literal']= w.location.href;
- this_URL['host']= w.location.host;
- this_URL['port']= w.location.port || this['DEFAULT_PORT'];
- this_URL['protocolId']= this.protocol2id(w.location.protocol);
- this_URL['path']= w.location.pathname;
- this_URL['fileExtension']= this.get_file_extension(this_URL['path']);
- this_URL['_parameters']= this.extract_parameters_from_query_string(w.location.search);
- return this;
-};
-
-jsepee.update_page_referrer = function(w) {
- var r = this.parse_url(w,w.document.referrer);
- var this_page = this['das'][w.location.href];
- var this_referrer = this_page['page']['referrer'];
- this_referrer['literal'] = r['literal'];
- this_referrer['host'] = r['host'];
- this_referrer['port'] = r['port'] || this['DEFAULT_PORT'];
- this_referrer['protocolId'] = r['protocolId'];
- this_referrer['path'] = r['path'];
- this_referrer['fileExtension'] = r['fileExtension']; 
- this_referrer['parameters'] = r['parameters']; 
-
- return this;
-};
-
-jsepee.update_page_characterEncoding = function(w) {
- var ce = w.document.characterSet;
- if (!w.document.characterSet) {
-  ce=w.document.charset;
-  if (!w.document.charset) {
-   ce = w.document.defaultCharset;
-  }
- }
- if (!ce) {
-  ce = "JSEPEE could not identify character encoding";
- }
- var this_page = this['das'][w.location.href];
- this_page.page.characterEncoding = ce;
- return this;
-};
-
-jsepee.is_cookie_enabled = function(w) {
- if (typeof w.document.cookie == "string"){
-  if (w.document.cookie.length != 0){
-   return true;
-  }
-  w.document.cookie = 'test';
-  var is_cookie_enabled = w.document.cookie == 'test';
-  w.document.cookie = "";
-  return is_cookie_enabled;
- }
- return false;
-};
-
-jsepee.extract_cookies = function(w) {
- var my_cookies = w.document.cookie || window.document.cookie || document.cookie;
- var cookies = [];
- var chunk = my_cookies.split(/\s*;\s*/);for(var i=0;i<chunk.length;++i){var pair=chunk[i].split(/\s*=\s*/);var cookie_name=pair[0];var cookie_value=pair.slice(1,pair.length).join('');cookies.push({name:cookie_name,value:cookie_value});}
-return cookies;};jsepee.update_page_cookies=function(w){if(this.is_cookie_enabled(w)===false){return this;}
-var this_page=this['das'][w.location.href];this_page.page.cookie=this.extract_cookies(w);return this;};jsepee.update_page=function(w){this.update_page_URL(w).update_page_referrer(w).update_page_characterEncoding(w).update_page_cookies(w);return this;};jsepee.update_parsed_url=function(w,pu){if(!this['das'][w.location.href]['links'].hasOwnProperty(pu['literal'])){this['das'][w.location.href]['links'][pu['literal']]={'literal':pu['literal'],'methodId':this.method2id("GET"),'host':pu['host'],'port':pu['port']||this[DEFAULT_PORT],'protocolId':pu['protocolId'],'path':pu['path'],'fileExtension':pu['fileExtension'],'parameters':pu['parameters']};}
-return this;};jsepee.get_html_url_sources=function(){return{"a":["href"],"applet":["code","codebase"],"area":["href"],"bgsound":["src"],"body":["background"],"embed":["src"],"frame":["longdesc","src"],"head":["profile"],"iframe":["longdesc","src"],"img":["longdesc","src","usemap"],"input":["action","src","usemap"],"link":["href"],"object":["codebase","data","usemap"],"script":["src"],"td":["background"]};};jsepee.update_links=function(w){var link=this.get_html_url_sources();for(var t in link){if(link.hasOwnProperty(t)===false){continue;}
-var node=w.document.getElementsByTagName(t);for(var i=0;i<node.length;++i){for(var j=0;j<link[t].length;++j){var n=node[i];var url=n.getAttribute(link[t][j]);if(url){this.update_parsed_url(w,this.parse_url(w,url));}}}}
-return this;};jsepee.make_form_key=function(index,action,method){return index+"|"+action+"|"+method;};jsepee.resolve_form_action_url=function(w,indx){if(w.document.forms[indx].getAttribute('action')===undefined){return w.location.href;}
-var u=w.document.forms[indx].getAttribute('action');var parsed_url=this.parse_url(w,u);return parsed_url.literal;};jsepee.resolve_form_method=function(w,indx){return w.document.forms[indx].getAttribute('method')?w.document.forms[indx].getAttribute("method").toUpperCase():"GET";};jsepee.parameter_type_enumeration={"time":0,"button":1,"checkbox":2,"file":3,"hidden":4,"image":5,"password":6,"radio":7,"submit":8,"text":9,"textarea":10,"option":11,"select":11,"select-multiple":11,"select-one":11,"range":12,"color":13,"search":14,"month":15,"url":16,"week":17,"datetime":18,"reset":19,"email":20,"number":21,"datetime-local":22,"date":23};jsepee.parameter_type2id=function(pt){if(this.parameter_type_enumeration.hasOwnProperty(pt)){return this.parameter_type_enumeration[pt];}
-return this.ILLEGAL_VALUE;};jsepee.make_parameter_key=function(parameter_name,parameter_type_id){return parameter_name+"|"+parameter_type_id;};jsepee.update_form_parameters=function(page_form,das_form){for(var i=0;i<page_form.elements.length;++i){var e=page_form.elements[i];var pname=e.name;if(pname===undefined){pname='';}
-var p={'name':pname,'type':e.type,'typeId':this.parameter_type2id(e.type.toLowerCase()),'value':{}};var pvalue='IF YOU SEE THIS VALUE THEN YOU HAVE A JSEPEE BUG';if(e.tagName=="INPUT"||e.tagName=="TEXTAREA"){pvalue=e.value;if(pvalue===undefined){pvalue='';}
-p.value[pvalue]=pvalue;}else{for(var j=0;j<e.options.length;++j){pvalue=e.options[j].value;if(pvalue===undefined){pvalue="";}
-p.value[pvalue]={pvalue:pvalue};}}
-var parameter_key=this.make_parameter_key(p['name'],p['typeId']);p.parameter_key=parameter_key;if(!das_form['parameters'].hasOwnProperty(parameter_key)){das_form['parameters'][parameter_key]=p;}else{for(var v in p['value']){if(!p['value'].hasOwnProperty(v)){continue;}
-das_form['parameters'][parameter_key]['value'][v]={v:v};}}}};jsepee.method_enumeration={"GET":1,"POST":2,"OPTIONS":3,"HEAD":4,"PUT":5,"DELETE":6,"TRACE":7,"CONNECT":8,"PROPPATCH":9,"ACL":10,"PROPFIND":11,"COPY":12,"MOVE":13,"LOCK":14,"MKCOL":15,"UNLOCK":16,"CHECKOUT":17,"CHECKIN":18,"REPORT":19,"VERSION_CONTROL":20,"MERGE":21};jsepee.method2id=function(http_method){if(this.method_enumeration.hasOwnProperty(http_method)){return this.method_enumeration[http_method];}
-return ILLEGAL_VALUE;};jsepee.update_forms=function(w){var f=this['das'][w.location.href]['forms'];for(var i=0;i<w.document.forms.length;++i){var action=this.parse_url(w,this.resolve_form_action_url(w,i));var method=this.resolve_form_method(w,i);var methodId=this.method2id(method);action['methodId']=methodId;var form_key=this.make_form_key(i,action['literal'],method);if(!f.hasOwnProperty(form_key)){f[form_key]={'methodId':methodId,'action':action,'parameters':{},'form_key':form_key};}
-this.update_form_parameters(w.document.forms[i],f[form_key]);}
-return this;};jsepee.traverse=function(w){this.update_links(w).update_forms(w);return this;};jsepee.implant_human_user_activity_indicator_event_listeners=function(w){var that=this;this.log_mousemove_event=function(e){that.das[w.location.href].cshui=jsepee['CSHUI_COOKIE_VALUE_TRUE'];that.update_cshui_cookie(w);if(that['CSHUI_MONITOR_MOUSE']){if(w.document.removeEventListener){w.document.removeEventListener('mousemove',that.log_mousemove_event,false);}else if(w.document.detachEvent){w.document.detachEvent("on"+'mousemove',that.log_mousemove_event);}else{w['on'+'mousemove']=null;}}
-if(that['CSHUI_MONITOR_KEYBOARD']){if(w.document.removeEventListener){w.document.removeEventListener('keypress',that.log_keyboard_event,false);}else if(w.document.detachEvent){w.document.detachEvent("on"+'keypress',that.log_keyboard_event);}else{w['on'+'keypress']=null;}}
-return;};this.log_keyboard_event=function(e){if(that.das[w.location.href].cshui==that['CSHUI_COOKIE_VALUE_TRUE']){return;}
-that['CSHUI_KEYBOARD_EVENTS_COUNTER']++;if(that['CSHUI_KEYBOARD_EVENTS_TARGET']<=that['CSHUI_KEYBOARD_EVENTS_COUNTER']){that.das[w.location.href].cshui=jsepee['CSHUI_COOKIE_VALUE_TRUE'];that.update_cshui_cookie(w);if(that['CSHUI_MONITOR_MOUSE']){if(w.document.removeEventListener){w.document.removeEventListener('mousemove',that.log_mousemove_event,false);}else if(w.document.detachEvent){w.document.detachEvent("on"+'mousemove',that.log_mousemove_event);}else{w['on'+'mousemove']=null;}}
-if(that['CSHUI_MONITOR_KEYBOARD']){if(w.document.removeEventListener){w.document.removeEventListener('keypress',that.log_keyboard_event,false);}else if(w.document.detachEvent){w.document.detachEvent("on"+'keypress',that.log_keyboard_event);}else{w['on'+'keypress']=null;}}}};if(this['CSHUI_MONITOR_MOUSE']){if(w.document.addEventListener){w.document.addEventListener('mousemove',this.log_mousemove_event,false);}else if(w.document.attachEvent){w.document.attachEvent("on"+'mousemove',this.log_mousemove_event);}else{w['on'+'mousemove']=this.log_mousemove_event;}}
-if(this['CSHUI_MONITOR_KEYBOARD']){if(w.document.addEventListener){w.document.addEventListener('keypress',this.log_keyboard_event,false);}else if(w.document.attachEvent){w.document.attachEvent("on"+'keypress',this.log_keyboard_event);}else{w['on'+'keypress']=this.log_keyboard_event;}}
-return this;};jsepee.load_factory=function(w){var that=this;this.do_on_load=function(){if(that['CSHUI_RANDOM_DATA_NODE']!==undefined&&that['CSHUI_RANDOM_DATA_NODE']!==null){that.implant_human_user_activity_indicator_event_listeners(w);}
-that.update_page(w).traverse(w);return that;};return this.do_on_load();};jsepee.getHTTPObject=function(w){var xhr=false;if(window.XMLHttpRequest){xhr=new XMLHttpRequest();}else if(window.ActiveXObject){try{xhr=new ActiveXObject("Msxml2.XMLHTTP");}catch(e){try{xhr=new ActiveXObject("Microsoft.XMLHTTP");}catch(e){xhr=false;}}}
-return xhr;};jsepee.parseResponse=function(request){if(request.readyState==4){if(request.status==200||request.status==304){}else{}}
-return this;};jsepee.get_base_url=function(w){var baseurl='';if(w.document.getElementsByTagName){var e=w.document.getElementsByTagName('base');if(e.length){baseurl=e[0].href;if(/^\w+:/.test(baseurl)===false){baseurl='';}}}else{baseurl=w.location.protocol+':'+w.location.host;if(w.location.port){baseurl+=':'+w.location.port;}else{baseurl+=':80';}
-baseurl+='/';}
-return baseurl;};jsepee.url2abs=function(w,rel){if(this.is_relative_url(rel)){return this.get_base_url(w)+rel;}
-return rel;};jsepee.is_jsepee_code_reference_url=function(u){return u.parameters.length==1&&u.parameters[0].name.length==32&&u.parameters[0].value.length==0;};jsepee.set_cookie=function(w,cookie_name,cookie_value){var new_cookie=cookie_name+'='+encodeURIComponent(cookie_value)+";path=/";if(w.document.cookie!==undefined){w.document.cookie=new_cookie;}else if(window.document.cookie!==undefined){window.document.cookie=new_cookie;}else{document.cookie=new_cookie;}
-return this;};jsepee.update_cshui_cookie=function(w){this.set_cookie(w,this['CSHUI_COOKIE_NAME'],this.das[w.location.href].cshui);return this;};jsepee.unload_factory=function(w){var that=this;this.do_on_unload=function(){that.update_cshui_cookie(w);return that;};return this.do_on_unload;};jsepee.attach_page_load_and_unload_handler=function(w){if(w.addEventListener){w.addEventListener("load",this.load_factory(w),false);w.addEventListener("unload",this.unload_factory(w),false);}else if(w.attachEvent){w.attachEvent("onload",this.load_factory(w));w.attachEvent("onunload",this.unload_factory(w));}else{w.onload=this.load_factory(w);w.onunload=this.unload_factory(w);}
-return this;};jsepee.frame_recurse=function(w){if(this['das'].hasOwnProperty(w.location.href)){return this;}else{this['das'][w.location.href]=this.new_das_item();}
-this.attach_page_load_and_unload_handler(w);for(var i=0;i<w.frames.length;++i){try{var u=w.frames[i].location.href;}catch(e){continue;}
-if(u.indexOf("http")!=0){continue;}
-this.frame_recurse(w.frames[i]);};return this;};function fetchcsloader(){jsepee.frame_recurse(window);}</script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     
 
 
@@ -186,7 +72,7 @@ this.frame_recurse(w.frames[i]);};return this;};function fetchcsloader(){jsepee.
 <!-- end facebook meta tags -->
 
 <!--begin global css non-secure media -->
-<link type="text/css" rel="stylesheet" href="http://cdn.media.bluefly.com/min/b=media/css&amp;f=global_111121.css,bluefly_jqui.css&amp;111122">
+<link type="text/css" rel="stylesheet" href="http://cdn.media.bluefly.com/min/b=media/css&amp;f=global_120409.css,bluefly_jqui.css&amp;120410">
 <!--end global css non-secure media -->
        
       
@@ -200,7 +86,7 @@ this.frame_recurse(w.frames[i]);};return this;};function fetchcsloader(){jsepee.
 <script type="text/javascript" src="http://cdn.media.bluefly.com/media/javascript/magiczoomplus/mzp-packed.js"></script>
 <link rel="stylesheet" href="http://cdn.media.bluefly.com/media/css/custom_111117.css" type="text/css">
 <link rel="stylesheet" href="http://cdn.media.bluefly.com/media/css/bflyMain.css" type="text/css">
-<link href="http://cdn.www.bluefly.com/media/css/quickLogin.css" type="text/css" rel="stylesheet">
+<link href="http://cdn.media.bluefly.com/media/css/quicklogin.css" type="text/css" rel="stylesheet">
 <!-- END CustomPageCSS -->
        
       
@@ -363,8 +249,8 @@ if (typeof(lpUnit)=='undefined')        var lpUnit='bluefly-english';
               
               
               
-                 Welcome to Bluefly, <a title="login" href="/myfly/login.jsp;jsessionid=9cZY8YihnCvbsnA2xKWWNg**.bluefly_node7">login</a> or register
-                 <a title="register" href="/myfly/login.jsp;jsessionid=9cZY8YihnCvbsnA2xKWWNg**.bluefly_node7">here</a>
+                 Welcome to Bluefly, <a title="login" href="/myfly/login.jsp;jsessionid=c3pj-S3tMrbnujvaclJGEA**.bluefly_node10">login</a> or register
+                 <a title="register" href="/myfly/login.jsp;jsessionid=c3pj-S3tMrbnujvaclJGEA**.bluefly_node10">here</a>
               
            
         </div>
@@ -387,7 +273,7 @@ if (typeof(lpUnit)=='undefined')        var lpUnit='bluefly-english';
               
               <li id="navFlypaper"><a href="http://flypaper.bluefly.com">Flypaper</a></li>
               <li id="navFlyTV"><a href="/custom/custom.jsp?promoId=m1470194">FlyTV</a></li>
-              <li id="navCS"><a href="/custom/custom.jsp;jsessionid=9cZY8YihnCvbsnA2xKWWNg**.bluefly_node7?promoId=m480129">Customer Service</a></li>
+              <li id="navCS"><a href="/custom/custom.jsp;jsessionid=c3pj-S3tMrbnujvaclJGEA**.bluefly_node10?promoId=m480129">Customer Service</a></li>
               <li id="navMyaccount">
                 <a href="/myfly/my_fly.jsp" value="/myfly/my_bluefly_custom.jsp" onclick="checkHeadStat(this);return false;">my fly</a>
               </li>
@@ -403,7 +289,7 @@ if (typeof(lpUnit)=='undefined')        var lpUnit='bluefly-english';
            
            
               <div id="navShopBag">
-                 <a title="shopping bag" href="/cart/cart.jsp;jsessionid=9cZY8YihnCvbsnA2xKWWNg**.bluefly_node7">
+                 <a title="shopping bag" href="/cart/cart.jsp;jsessionid=c3pj-S3tMrbnujvaclJGEA**.bluefly_node10">
                   <span id="textShopBag">Shopping Bag</span>
                  </a>
               </div>
@@ -449,6 +335,7 @@ if (typeof(lpUnit)=='undefined')        var lpUnit='bluefly-english';
 	</form>
 	</div>
 	<div id="shipmessage">
+	
 	</div>
 </div><!-- end topnavRow2 -->
  <div id="topnavRow3v1">
@@ -586,17 +473,28 @@ if (typeof(lpUnit)=='undefined')        var lpUnit='bluefly-english';
                 </ul>
               </div>
           </li>
+		  <li id="navKids" class="navCat">
+            <a class="a_navKids a_menuItem" href="/Designer-Kids/_/N-v2wq/list.fly">Kids</a>
+			  <div class="navCatSubMenu navKidsSub">
+                <ul class="dropDownMenu">
+                  <li><h3 class="mainTitle">Shop Designers</h3></li>
+                  <li><a href="/Burberry-Kids/_/N-1z14073Zv2wq/list.fly">Burberry Kids</a></li>
+                  <li><a href="/Moncler-Kids/_/N-1z140iiZv2wq/list.fly">Moncler Kids</a></li>
+                  <li><a href="/POLO-Ralph-Lauren-Kids/_/N-1z13k7lZv2wq/list.fly">POLO Ralph Lauren Kids</a></li>
+                  <li><a href="/Gucci-Kids/_/N-1z140oaZv2wq/list.fly">Gucci Kids</a></li>
+				  <li><a href="/Tommy-Hilfiger-Kids/_/N-1z13jbsZv2wq/list.fly">Tommy Hilfiger Kids</a></li>
+				  <li><a href="/D-G-Kids/_/N-1z13z58Zv2wq/list.fly">D&amp;G Kids</a></li>
+                </ul>
+              </div>
+          </li>
           <li id="navTre" class="navCat">
-            <a class="a_navTre a_menuItem" href="/custom/custom.jsp?promoId=m1650564">Gifts</a>
+            <a class="a_navTre a_menuItem" href="/a/trends">Trends</a>
           </li>
           <li id="navNew" class="navCat">
             <a class="a_navNew a_menuItem" href="/custom/custom.jsp?promoId=m1580093">New Arrivals</a>      
           </li>
           <li id="navSal" class="navCat">
             <a class="a_navSal a_menuItem" href="/a/designer-sale">Sale</a>
-          </li>
-          <li id="navFly" class="navCat">
-            <a class="a_navFly a_menuItem" href="/custom/custom.jsp?promoId=m1930440">Fly Events</a>
           </li>
           <li id="navDes" class="navCat">
             <a class="a_navDes a_menuItem" href="/designers.fly">Designers</a>
@@ -606,10 +504,10 @@ if (typeof(lpUnit)=='undefined')        var lpUnit='bluefly-english';
               <li class="designerName"><a href="http://www.bluefly.com/designer/christian-louboutin">Christian Louboutin</a></li>
               <li class="designerName"><a href="http://www.bluefly.com/designer/cole-haan">Cole Haan</a></li>
               <li class="designerName"><a href="http://www.bluefly.com/designer/fendi">Fendi</a></li>
-              <li class="designerName"><a href="http://www.bluefly.com/designer/ferragamo">Ferragamo</a></li>
               <li class="designerName"><a href="http://www.bluefly.com/designer/gucci">Gucci</a></li>
               <li class="designerName"><a href="http://www.bluefly.com/designer/marc-jacobs">Marc Jacobs</a></li>
               <li class="designerName"><a href="http://www.bluefly.com/designer/prada">Prada</a></li>
+			  <li class="designerName"><a href="http://www.bluefly.com/designer/salvatore-ferragamo">Salvatore Ferragamo</a></li>
               <li class="designerName"><a href="http://www.bluefly.com/designer/tods">Tod's</a></li>
               <li><h3 class="mainTitle">all designers</h3></li>
               <li class="designerAlpha"><a href="/designers/designer-0">#</a></li>
@@ -809,31 +707,9 @@ if (typeof(lpUnit)=='undefined')        var lpUnit='bluefly-english';
           
             
             
-              <div class="ghDoubleFull">
-    	<div class="ghDoubleFloat ghDoubleLt">
-            <h2 class="ghDoubleTitle">Outerwear Sale!</h2>
-            <div class="ghDoubleNav">
-                <ul>
-				<li><a href="/Designer-Coats-Outerwear/_/N-ffu/list.fly" class="shopwomen"><span class="hide">Shop Women</span></a></li>
-				<li><a href="/Designer-Mens-Coats-Jackets/_/N-7q6/list.fly" class="shopmen"><span class="hide">Shop Men</span></a></li>
-
-                </ul>
-            </div>
-        </div>
-		<div class="ghDoubleFloat ghDoubleRt">
-            <h2 class="ghDoubleTitle">Denim  Sale!</h2>
-            <div class="ghDoubleNav">
-                 <ul>
-            
-			<li><a href="/Designer-Denim-Shop/_/N-bkouZ1z140pd/list.fly" class="shopwomen"><span class="hide">Shop Women</span></a></li>
-            <li><a href="/Designer-Mens-Denim/_/N-fmsZ1z140pd/list.fly" class="shopmen"><span class="hide">Shop Men</span></a></li>
-
-
-                </ul>
-            </div>
-        </div>
- </div>				
-
+              <!-- begin global header content -->
+<!-- This is blank -->
+<!-- end global header content -->
             
           
           </div>
@@ -1021,13 +897,17 @@ if (typeof(lpUnit)=='undefined')        var lpUnit='bluefly-english';
 #social_app {width: 130px;}
 </style>
 <div id="footerBflyv1">
-	<div id="social_bar_new">
 
+	<a href="http://www.belleandclive.com/?partner=bluefly_site&amp;referer=bluefly_site&amp;utm_source=bluefly&amp;utm_medium=site&amp;utm_campaign=takealook&amp;cm_mmc=bluefly-_-Evergreen-_-site-_-takealook" target="_blank" style="display:block; margin-bottom:5px"><img src="http://cdn.media.bluefly.com/media/templates/images/footer/04.26_BC_BrandingBanner_859x139.gif"></a>
+
+
+	<div id="social_bar_new">
+	
 		<div class="social_bar_left">
 		<div id="social_header_img"><img src="http://cdn.media.bluefly.com/media/templates/images/footer/social_new/social_footer_header.png" alt="Fly Access" border="0" width="650" height="35"></div>
 		<div id="social_bar_contents"> 
 			<div id="social_signup">
-				<a href="/myfly/partner_email_subscription.jsp?partner=website_registration_footer" alt="Get Bluefly Alerts" title="Get Bluefly Alerts" rel="nofollow"><img src="/media/templates/images/footer/social_new/email-icon.png" alt="Get Bluefly Alerts" border="0">Sign up for Bluefly email alerts &amp; save <strong>$30 off first order</strong></a>
+				<a href="/myfly/partner_email_subscription.jsp?partner=website_registration_footer" alt="Get Bluefly Alerts" title="Get Bluefly Alerts" rel="nofollow"><img src="/media/templates/images/footer/social_new/email-icon.png" alt="Get Bluefly Alerts" border="0">Sign up for Bluefly email alerts &amp; save <strong>$20 off first order</strong></a>
 			</div>
 			<div id="social_fb_like">
 				<a href="http://www.facebook.com/bluefly" alt="Bluefly on Facebook" title="Bluefly on Facebook"><img src="http://cdn.media.bluefly.com/media/templates/images/footer/social_new/fb-icon.png" alt="Bluefly on Facebook" border="0">Bluefly on Facebook</a>
@@ -1038,13 +918,13 @@ if (typeof(lpUnit)=='undefined')        var lpUnit='bluefly-english';
 				<script src="//platform.twitter.com/widgets.js" type="text/javascript"></script><a href="https://twitter.com/bluefly_com" class="twitter-follow-button" data-button="grey" data-width="100px" data-show-count="false">Follow</a>
 			</div>
 			<div id="social_app">
-				<a href="/custom/custom.jsp?promoId=m1640028" alt="Download our iPhone and iPad apps" title="Download our iPhone and iPad apps"><img src="http://cdn.media.bluefly.com/media/templates/images/footer/social_new/ios_apps-icon.png" alt="Download our iPhone and iPad apps" border="0">Download: iPhone app iPad app</a>
+				<a href="/custom/custom.jsp?promoId=m1640028" alt="Download our iPhone and iPad apps" title="Download our iPhone and iPad apps"><img src="http://cdn.media.bluefly.com/media/templates/images/footer/social_new/ios_apps-icon.png" alt="Download our iPhone and iPad apps" border="0">Download: iPhone app <br>iPad app</a>
 			</div>
 			<div class="clearFloat" style="clear:both"></div>
 		</div>
 		</div>
 		<div class="social_bar_right">
-		<a href="http://www.eyefly.com/?utm_source=bluefly&amp;utm_medium=website&amp;utm_term=footer&amp;utm_content=creative1&amp;utm_campaign=Spring_2011"><img src="http://cdn.media.bluefly.com/media/templates/images/footer/110602_O_HOME_Eyefly_MarketingBox.jpg" width="200" height="97" alt="" border="0"></a>
+		<a href="http://www.eyefly.com/?utm_source=bluefly&amp;utm_medium=website&amp;utm_term=smallf&amp;utm_content=fyl&amp;utm_campaign=w2012&#10;"><img src="http://cdn.media.bluefly.com/media/promotions/images/eyefly/120120_O_HOME_Eyefly_MarketingBox_1.jpg" width="200" height="97" alt="Eyefly" border="0"></a>
 		</div>
 	</div>
    <div id="bflyQuickLinks">
@@ -1092,7 +972,7 @@ if (typeof(lpUnit)=='undefined')        var lpUnit='bluefly-english';
 				</ul>
 				<ul id="bflyQL_blog">
 					<li class="QLlistHead">just for fun:</li>
-					<li><a href="http://flypaper.bluefly.com/">flypaper</a></li>
+					<li><a href="http://flyandmighty.com/">fly &amp; mighty </a></li>
 					<li><a href="/custom/custom.jsp?promoId=m1470194">bluetube</a></li>
 					<li><a rel="nofollow" href="/flyorbye/faceoff.jsp">fly or bye</a></li>
 					<li><a rel="nofollow" href="/roulette/outfitroulette.jsp">outfit roulette</a></li>
@@ -1135,6 +1015,7 @@ if (typeof(lpUnit)=='undefined')        var lpUnit='bluefly-english';
 				<ul id="bflyQL_about">
 
 					<li class="QLlistHead"><a href="/custom/custom.jsp?promoId=m480134">about bluefly:</a></li>
+
 					<li><a href="/custom/custom.jsp?promoId=m480134">all about bluefly</a></li>
 					<li><a href="/custom/custom.jsp?promoId=m480014">what we sell</a></li>
 					<li><a href="/custom/custom.jsp?promoId=m480139">careers</a></li>
@@ -1169,6 +1050,12 @@ if (typeof(lpUnit)=='undefined')        var lpUnit='bluefly-english';
 	  <img src="http://cdn.media.bluefly.com/media/templates/images/footer/bluefly_icon.gif" width="28" height="26" alt=""><br>
    </div>
 </div>
+
+<!-- Past Loves and Shopsense JS -->
+<script type="text/javascript" src="http://cdn.media.bluefly.com/media/javascript/list_page/pastloves.js"></script>
+<script type="text/javascript" src="http://cdn.media.bluefly.com/media/javascript/shopsense.js"></script>
+
+
 <!-- end footer navi non-secure -->
         
       
@@ -1260,7 +1147,7 @@ if (typeof(lpUnit)=='undefined')        var lpUnit='bluefly-english';
   br_data.cat = "";
   br_data.is_paid = "";
   br_data.search_term = "";
-  br_data.session_id = "9cZY8YihnCvbsnA2xKWWNg**.bluefly_node7";
+  br_data.session_id = "c3pj-S3tMrbnujvaclJGEA**.bluefly_node10";
   br_data.is_conversion = "0";
   br_data.basket_value = "";
   br_data.order_id ="";
@@ -1328,8 +1215,8 @@ cmCreatePageviewTag("Bluefly Privacy Policy", "HOME", "", "");
 	
  
     
- <!-- server: app207:11009 -->
-<!-- SessionID: 9cZY8YihnCvbsnA2xKWWNg**.bluefly_node7 -->
+ <!-- server: app210:11009 -->
+<!-- SessionID: c3pj-S3tMrbnujvaclJGEA**.bluefly_node10 -->
 
     
  
