@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the quebles.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229060813id_/http%3A//us.quebles.com/General/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quebles.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523185216id_/http%3A//us.quebles.com/General/Privacy) for the most accurate reproduction.*
 
-# Privacy - Quebles.com
+# Privacy: Quebles.com
 
 **General**  
 Quebles.com makes all reasonable and legally mandated efforts to protect your privacy. This Quebles.com Privacy Statement applies to the web sites where Quebles.com content is offered and relates to the collection and use of data through the Quebles.com services. The personal details of all users are collected, used and disclosed as described in this Privacy Statement.
