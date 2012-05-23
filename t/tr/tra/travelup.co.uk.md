@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelup.co.uk privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526150245id_/http%3A//www.travelup.co.uk/cms/Default.asp%3FPage%3D242) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelup.co.uk privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524012328id_/http%3A//www.travelup.co.uk/cms/Default.asp%3FPage%3D242) for the most accurate reproduction.*
 
 # Travelup :: PRIVACY & SECURITY POLICY
 
