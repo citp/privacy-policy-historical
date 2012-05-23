@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxmanagementindia.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121020608id_/http%3A//www.taxmanagementindia.com/web/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxmanagementindia.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523171637id_/http%3A//www.taxmanagementindia.com/web/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,15 +8,15 @@ Please note that the practices of www.taxmanagementindia.com, with respect to da
 
 [www.taxmanagementindia.com](http://www.taxmanagementindia.com/) undertakes not to disclose the information provided by the member / visitor / client to any person, unless such action is necessary to:
 
-·        Conform to legal requirements or comply with legal process; 
+·        Conform to legal requirements or comply with legal process;
 
-·        Protect and defend [www.taxmanagementindia.com](http://www.taxmanagementindia.com/)'s or its Affiliates' rights, interests or property; 
+·        Protect and defend [www.taxmanagementindia.com](http://www.taxmanagementindia.com/)'s or its Affiliates' rights, interests or property;
 
-·        Enforce the terms and conditions of the products or services; or 
+·        Enforce the terms and conditions of the products or services; or
 
 ·        Act to protect the interests of [www.taxmanagementindia.com](http://www.taxmanagementindia.com/), its Affiliates, or its members, constituents or of other persons.
 
-[www.taxmanagementindia.com](http://www.taxmanagementindia.com/) will limit the collection and use of customer information only on a need-to-know basis to deliver better service to the members / clients. [www.taxmanagementindia.com](http://www.taxmanagementindia.com/) may use and share the information provided by the members / clients with its Affiliates and third parties for providing services and any service-related activities such as collecting subscription fees for such services, and notifying or contacting the members / clients regarding any problem with, or the expiration of, such services. 
+[www.taxmanagementindia.com](http://www.taxmanagementindia.com/) will limit the collection and use of customer information only on a need-to-know basis to deliver better service to the members / clients. [www.taxmanagementindia.com](http://www.taxmanagementindia.com/) may use and share the information provided by the members / clients with its Affiliates and third parties for providing services and any service-related activities such as collecting subscription fees for such services, and notifying or contacting the members / clients regarding any problem with, or the expiration of, such services.
 
 Please note that any information you post to a public bulletin board, such as discussion Forums (the "Forums"), is available to all persons accessing that location, and your e-mail address may also be posted on these venues. The information you share, including your email address, would then be available to all persons accessing these venues, and such information may be read, collected or used by others for any purpose, including sending you unsolicited messages. We are not responsible for any information you elect to submit in these venues or the use of such information. In addition, you should be aware that the Forums offer a service in which subscribers are e-mailed a copy of all messages posted to the Forums on a particular topic. Consequently, if you post a message to the Forums, your e-mail address will be sent to those subscribers who have indicated an interest in the topic of your message.
 
