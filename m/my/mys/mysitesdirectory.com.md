@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysitesdirectory.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123184728id_/http%3A//mysitesdirectory.com/page.php%3Fid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysitesdirectory.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523110257id_/http%3A//mysitesdirectory.com/page.php%3Fid%3D1) for the most accurate reproduction.*
 
 # Mysitesdirectory - privacy-policy - Submit Website Link URL to free web directory.
 
