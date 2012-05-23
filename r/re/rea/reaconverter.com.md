@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reaconverter.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127130441id_/http%3A//www.reaconverter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reaconverter.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523081225id_/http%3A//www.reaconverter.com/privacy.html) for the most accurate reproduction.*
 
 # ReaSoft.com privacy policy.
 
