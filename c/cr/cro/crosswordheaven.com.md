@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crosswordheaven.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101140809id_/http%3A//crosswordheaven.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crosswordheaven.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523094255id_/http%3A//crosswordheaven.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Crossword Heaven
 
