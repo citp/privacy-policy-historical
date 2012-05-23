@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schwans.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123120240id_/http%3A//www.schwans.com/policies/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schwans.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523170220id_/http%3A//www.schwans.com/policies/privacy.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -19,7 +19,7 @@ Last updated: April 5, 2009
   
 
 
-##  Privacy
+## Privacy
 
 Schwan's Home Service, Inc. is committed to maintaining your privacy as described in this Privacy Policy. Most of the information we collect is gathered during the initial registration process. This includes items such as name, address, telephone number, or email address. Sharing information with Schwan's Home Service, Inc. is strictly voluntary.
 
@@ -37,23 +37,23 @@ Schwan's Home Service, Inc.—or our authorized third party partner(s)—may als
 
 Schwan's Home Service, Inc. uses an outside company to measure the effectiveness of our keyword marketing. This technology uses cookies to collect information about our customers' actions on schwans.com but does not capture any personally identifiable information such as your name, email address, or telephone number. The privacy of this information is protected by Schwan's Home Service, Inc. You can set your browser to notify you when you receive a cookie, giving you the opportunity to accept or decline it. 
 
-##  Security
+## Security
 
 Schwan's Home Service, Inc. makes security a top priority. Any personal data you provide to us is stored on a secure server. Only Schwan's Home Service, Inc. employees, or their qualified agents, with proper authorization can view this information. In addition, each customer is protected through a unique username and password. 
 
-##  Cookies
+## Cookies
 
 Like most Web sites, schwans.com uses a technology called "cookies." Cookies are small amounts of data stored on a user's hard disk. This information lets us know if you have visited our site previously. We use cookies to deliver content that matches your interests. This technology also makes it possible to remember your username and password, so you don't have to re-enter it each time you visit. Schwan's Home Service, Inc. uses cookies only to provide better service for its customers. Most Web browsers allow you to choose not to accept cookies. Browsers can also be configured to notify you when a cookie is sent. If you decide not to allow cookies to be stored on your hard drive, schwans.com will not be accessible to you. 
 
-##  Children and Parents
+## Children and Parents
 
 Schwans.com is not directed toward children under the age of 13. Children under age 13 should not submit personal information to Schwan's Home Service, Inc. without explicit permission of a parent or legal guardian. Where appropriate, Schwan's Home Service, Inc. will instruct children not to submit personal information and will require a parent or guardian's consent for anyone under the age of 13. If your child has already submitted personal information and you would like to have it removed, Schwan's Home Service, Inc. will do whatever possible to comply with your request. 
 
-##  Product Reviews and Shared Stories
+## Product Reviews and Shared Stories
 
 When you use our Product Review function or our Share A Story function it is important that you remember comments and information you post are publicly available, so please exercise caution when deciding whether to disclose anything personal about yourself. 
 
-##  Miscellaneous
+## Miscellaneous
 
 Schwans.com may contain links to other sites. We do not endorse or otherwise accept responsibility for the content or privacy policies of those sites. 
 
