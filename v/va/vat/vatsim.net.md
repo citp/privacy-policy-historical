@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vatsim.net privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124121821id_/http%3A//www.vatsim.net/network/docs/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vatsim.net privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523144236id_/http%3A//www.vatsim.net/network/docs/policy) for the most accurate reproduction.*
 
 # VATSIM - The International Online Flying Network: Privacy Policy
 
