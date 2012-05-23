@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-online-games-directory.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205014657id_/http%3A//www.ogjam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-online-games-directory.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523234957id_/http%3A//www.ogjam.com/privacy-policy) for the most accurate reproduction.*
 
 # OGJAM : Online Game Jam
 
