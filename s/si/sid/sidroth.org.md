@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sidroth.org privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623012005id_/http%3A//www.sidroth.org/site/PageServer%3Fpagename%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sidroth.org privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523170224id_/http%3A//www.sidroth.org/site/PageServer%3Fpagename%3Dprivacypolicy) for the most accurate reproduction.*
 
-# Sid Roth - It's Supernatural Messianic Vision: Privacy Policy
+# Privacy Policy - Sid Roth - It's Supernatural
 
 **Privacy Policy**
 
