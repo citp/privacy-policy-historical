@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localizedusa.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123214415id_/http%3A//localizedusa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localizedusa.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523170018id_/http%3A//localizedusa.com/privacy-policy) for the most accurate reproduction.*
 
 # » Privacy Policy - LocalizedUSA
 
@@ -22,3 +22,5 @@ We have included links on this site for your use and reference. We are not respo
 The contents of this statement may be altered at any time, at our discretion.
 
 If you have any questions regarding the privacy policy of Localized USA then you may [contact](http://localizedusa.com/contact/ "contact") us at contact@localizedUSA.com
+
+We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp> .
