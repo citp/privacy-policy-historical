@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wifegfs.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118021727id_/http%3A//www.wifegfs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wifegfs.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523152913id_/http%3A//www.wifegfs.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 In registering for WifeGFs.com, you will be ased to provide an email address. Web traffic is monitored on WifeGFs.com in order to help us identify with our clientel, and provide feedback in regards to server performance and maintenance. This data is collected to ensure that the appearance and presentation of WifeGFs.com is in the best possible form to please our current and new members.
 
-We retain the right to use any of the information collected from members/surfers of WifeGFs for any of the following reasons:
+We retain the right to use any of the information collected from members/surfers of WifeGFs.com for any of the following reasons:
 
 (1) to send new information and/or promotional materials about our company. Members have the option to opt-out of this list where further contact from our company will cease.
 
@@ -18,7 +18,7 @@ We retain the right to use any of the information collected from members/surfers
 
 (6) to aid in the understanding of WifeGFs.com's visitors.
 
-(7) to protect the security and/or itegreity of WifeGFs.com.
+(7) to protect the security and/or integrity of WifeGFs.com.
 
 All data collected by WifeGFs.com is stored securely and will not be shared with any third parties; including but not limited to: marketing agents, partners, or affiliates. The stored data does not include the client's credit card data. As noted above, individuals may opt-out of any mailings that may result from the information collected by WifeGFs.com.
 
