@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainpower.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123010308id_/http%3A//www.domainpower.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainpower.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523185122id_/http%3A//www.domainpower.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | DomainPower
 
@@ -60,7 +60,7 @@ This online privacy policy applies only to information collected through our web
 
 ### Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.domainpower.com/Terms.aspx](https://web.archive.org/web/20111123010308id_/http%3A//www.domainpower.com/Terms.aspx)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.domainpower.com/Terms.aspx](https://web.archive.org/web/20120523185122id_/http%3A//www.domainpower.com/Terms.aspx)
 
 ### Your Consent
 
@@ -77,8 +77,9 @@ This policy was last modified on 7/13/2011
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 **[www.domainpower.com](https://web.archive.org/)**  
-PO Box 1567  
-Stony brook, NY 11790  
+Domain Holdings, Inc.  
+777 East Atlantic Avenue Suite 312  
+Delray Beach, FL 33483  
 USA  
 Privacy@domainpower.com  
 
