@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the todayilearned.co.uk privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123092013id_/http%3A//www.todayilearned.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todayilearned.co.uk privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523180048id_/http%3A//www.todayilearned.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Today I Learned Something New
+# Privacy policy | Today I Learned Something New
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by [email](mailto:todayilearned.co.uk@gmail.com). At www.todayilearned.co.uk, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.todayilearned.co.uk and how it is used. 
 
