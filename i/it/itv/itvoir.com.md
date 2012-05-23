@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itvoir.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119172251id_/http%3A//itvoir.com/portal/static/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itvoir.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523113807id_/http%3A//itvoir.com/portal/static/privacy.asp) for the most accurate reproduction.*
 
 # ITvoir.com - Privacy Statement
 
