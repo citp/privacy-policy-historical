@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trafficreturn.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124121741id_/http%3A//trafficreturn.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficreturn.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523144226id_/http%3A//trafficreturn.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
 
-# TrafficReturn.com Free Manual Traffic Exchange! Get Website Traffic that Returns!
+# TrafficReturn.com Get Traffic that Returns!
 
 **THIS PRIVACY STATEMENT DISCLOSES THE PRIVACY PRACTICES FOR TrafficReturn.com**
 
