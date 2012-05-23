@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rove.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210174553id_/http%3A//rove.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rove.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523160047id_/http%3A//www.rove.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Karl Rove
 
@@ -6,7 +6,7 @@ At Karl Rove & Company we are committed to protecting your privacy online. While
 
 Karl Rove & Company will occasionally update this privacy policy as changes to the site necessitate it. We encourage you to periodically review this policy to be informed of how we are protecting your information.  Our site links to a limited number of other websites.  Karl Rove & Company is not responsible for the content or the privacy policies of these websites. We encourage you to read the privacy statements for each website you visit.
 
-On our sign-up forms on rove.com we may ask for your name, address, telephone number,  email address.  If you should choose to give us your personal information, you decide the amount of information you wish to provide. We will only use your information to provide you information about us. We may also use your zip code and state to send you email messages about upcoming events or activities in your area.
+On our sign-up forms on rove.com we may ask for your name, address, telephone number,  email address.  If you should choose to give us your personal information, you decide the amount of information you wish to provide. We will only use your information to provide you information about us or news related to other George W. Bush administration officials. We may also use your zip code and state to send you email messages about upcoming events or activities in your area.
 
 Cookies:
 
