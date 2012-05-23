@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yottaa.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225114551id_/http%3A//www.yottaa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yottaa.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523110129id_/http%3A//www.yottaa.com/privacy) for the most accurate reproduction.*
 
-# Yottaa Privacy Policy
+# Privacy Policy | Yottaa Website Optimization Services
 
 At Yottaa, Inc., we protect your privacy as if it were our own. We use the information you provide to us for several reasons including: to process your order(s), to reply to your questions, provide our newsletter via email, to provide our services, to facilitate a transaction you chose to enter into with our third party partner(s) and to incorporate your feedback into improvements to our Web site. We will not give, sell, or rent your personal information, including email address, or specific account activity to anyone for any reason without your prior consent except as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our website. 
 
