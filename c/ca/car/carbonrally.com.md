@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carbonrally.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106183240id_/http%3A//www.carbonrally.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbonrally.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523141243id_/http%3A//www.carbonrally.com/pages/privacy) for the most accurate reproduction.*
 
 # Carbonrally – climate change community focused on fun, social, and competitive challenges
 
