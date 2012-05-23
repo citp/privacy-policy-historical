@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the my-spaces.org privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123025542id_/http%3A//www.my-spaces.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my-spaces.org privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523185427id_/http%3A//www.my-spaces.org/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy of MySpaces
 
