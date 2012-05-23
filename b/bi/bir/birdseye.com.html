@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the birdseye.com privacy policy that was archived on 2011-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111123164920id_/http%3A//www.birdseye.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the birdseye.com privacy policy that was archived on 2012-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120523144045id_/http%3A//www.birdseye.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -13,7 +13,11 @@
 
 <meta name="Description" content="Pinnacle Foods Group, LLC is committed to protecting your privacy and providing a safe online experience. Read Birds Eye's privacy policy.">
 
-
+<script type="text/javascript">
+    site_url='http://www.birdseye.com/';
+    csrf_name="ci_csrf_token";
+    csrf_hash="3a14c7bd67e8de2b87e6eed8790f0a6c";
+</script>
 <script type="text/javascript" src="http://www.birdseye.com/js/jquery-1.6.2.min.js"></script>
 <script type="text/javascript" src="http://www.birdseye.com/js/jquery-ui-1.8.15.custom.min.js"></script>
 <script type="text/javascript" src="http://www.birdseye.com/js/jquery.ui.stars.js"></script>    
@@ -90,44 +94,83 @@ display:none;
         <div class="container">
         	<div class="coupon_corner_container">
         						
-				<div class="coupon_corner">
+				
+            		            		
+            		            		
+            		            		
+                                    			<div class="coupon_corner" id="coupon-corner-login">
             		<img src="http://www.birdseye.com/images/hdr_coupon_corner.png" alt="Coupon Corner" class="coupon_corner_hdr">
-            		<div class="coupon_close">
+            		<div class="coupon_close_login">
             			<a onclick="$('.coupon_corner').fadeToggle();" href="javascript:link();">Close</a>
             			<a onclick="$('.coupon_corner').fadeToggle();" href="javascript:link();"><img src="http://www.birdseye.com/images/coupon_close_btn.gif" alt="Close"></a>
             		</div>
-            		            		
-            		            		
-            		            		
-                                    		
+            		<br clear="all">
             		
             		
                                     <!-- Begin Login/Reg for if User is not yet logged in -->
                                     <!-- Whatever link you put in here, please attach: onClick="_gaq.push(['_trackEvent', 'coupon', 'click:offsite', '']);" for GA -->
                                     <p class="top">Please Login below to get your Birds Eye<sup>®</sup> coupon!</p>
                                     					<div class="coupon_corner_login">
-						<form action="http://www.birdseye.com/users/login" method="post" accept-charset="utf-8">
+						<form action="http://www.birdseye.com/users/process_coupon" method="post" accept-charset="utf-8">
 <div class="hidden">
-<input type="hidden" name="ci_csrf_token" value="909d531afc350ed42d49f25ef413d9a5">
+<input type="hidden" name="ci_csrf_token" value="3a14c7bd67e8de2b87e6eed8790f0a6c">
 </div>					    					    <p>
-					    <label for="email">Email <span class="required">*</span> </label><br><input type="text" name="email" value="" label="Email" id="email"><br>					    
-					    <label for="password">Password <span class="required">*</span> </label><br><input type="password" name="password" value="" label="Password"><br></p>
+					    <label for="login_email">Login Email <span class="required">*</span> </label><br><input type="text" name="login_email" value="" label="Login Email" id="login_email"><br>					    
+					    <label for="login_password">Login Password <span class="required">*</span> </label><br><input type="password" name="login_password" value="" label="Login Password"><br></p>
 					    <p><a href="/users/forgot-password">Forgot your password?</a></p>
 					    
-					    <p style="margin-bottom: 5px;"><input type="image" src="http://www.birdseye.com/images/btn_login.gif" alt="Login" style="width: 123px;" class="noborder"> <span class="or">or</span> </p>
-					    <a href="javascript:link()" onclick="return fb_login();"><img src="http://www.birdseye.com/images/facebook_connect.png" alt="Connect with Facebook" class="fb_connect"></a>
+					    <p style="margin-bottom: 5px;"><input type="image" src="http://www.birdseye.com/images/btn_login.gif" alt="Login" style="width: 123px;" class="noborder" onclick="pixel();"> <span class="or">or</span> </p>
+					    <a href="javascript:link()" onclick="return fb_login();"><img src="http://www.birdseye.com/images/facebook_connect.png" alt="Connect with Facebook" class="fb_connect" onclick="pixel();"></a>
 					    <p><a href="http://www.birdseye.com/users/join">Not yet registered? Join us!</a></p>
 						</form>
 					</div>
+					</div>
 					<!-- End Login/Reg View -->
-			            	</div>
-            	        	</div>
+						<br clear="all">
+			  <script>
+                    function pixel(){
+                        $('#pixel').load('http://www.birdseye.com/home/pixel');
+                        
+                    }
+	</script>
+			
+                        <div id="pixel"></div>
+        	</div>
             <div id="navigation">
             	<div id="logo"><a href="http://www.birdseye.com/"><img src="http://www.birdseye.com/images/logo.png" alt="Birds Eye"></a></div>
-            	<div class="user_nav">
+            	<div class="back-be-link">
+	<a href="http://www.birdseye.com/voila">Discover Birds Eye Voila!</a>
+</div>
+
+<div class="search">
+
+    <form action="http://www.birdseye.com/vegetable-recipes/search" method="post" accept-charset="utf-8" onsubmit="return check_search();">
+<div class="hidden">
+<input type="hidden" name="ci_csrf_token" value="3a14c7bd67e8de2b87e6eed8790f0a6c">
+</div>    <input type="text" name="search" id="search_input" value="Search..." onfocus="clear_search(); " onkeypress="return submitenter(this,event)"><input type="image" src="http://www.birdseye.com/images/go-button.png" alt="go" class="noborder">
+    </form>
+
+</div>
+
+<div class="user_nav">
 		<p>
-		    <a href="javascript:link()" onclick="return fb_login();"><img src="http://www.birdseye.com/images/facebook_connect.png" alt="Connect with Facebook" class="fb_connect"></a> | <a href="http://www.birdseye.com/users/login">Login</a> | <a href="http://www.birdseye.com/users/join">Join</a>	</p>
-</div>            	
+		    <span class="not_logged_adjust">
+	       <a href="javascript:link()" onclick="return fb_login();"><img src="http://www.birdseye.com/images/facebook_connect.png" alt="Connect with Facebook" class="fb_connect"></a> | <a href="http://www.birdseye.com/users/login">Login</a> | <a href="http://www.birdseye.com/users/join">Join</a>	   </span>
+		</p>
+
+
+             <script type="text/javascript">
+                        
+
+                                                     function update_badges()
+                                {       
+                                    return;
+                                }
+                                            </script>
+
+</div>
+
+            	
             	<div id="nav">
             		<div class="nav_left"></div>
             		
@@ -135,8 +178,8 @@ display:none;
             		            		<a href="http://www.birdseye.com/vegetable-products/explore-by-veggies" class="nav_products ">Our Products</a>
             		            		<a href="http://www.birdseye.com/whats-new" class="nav_whats_new ">What's New</a>
             		            		<a href="http://www.birdseye.com/birds-eye-view" class="nav_birds_eye_view ">Birds Eye View</a>
-            		            		<a href="http://www.birdseye.com/community" class="nav_community ">Community</a>
-            		<div class="nav_right"></div>
+            		            		<a href="http://www.birdseye.com/community" class="nav_community ">Community</a>					
+					            		<a href="http://www.birdseye.com/song-download" class="nav_right ">Download the song featured in our TV commercial</a>            		
             		<a href="javascript:link();" onclick="_gaq.push(['_trackEvent', 'coupon', 'click:nav', '']); $('.coupon_corner').fadeToggle();"><img src="http://www.birdseye.com/images/nav_coupon.png" alt="Coupons" class="nav_coupons"></a>
             	</div>
             	
@@ -309,7 +352,8 @@ Updated: October 7, 2010
         	<div class="footer">
         		<div class="footer_left">
         			<a href="http://www.birdseye.com/vegetable-recipes">Veggie Recipes &amp; Tips</a>        			|  <a href="http://www.birdseye.com/vegetable-products">Our Products</a>        			|  <a href="http://www.birdseye.com/whats-new">What's New</a>        			|  <a href="http://www.birdseye.com/birds-eye-view">Birds Eye View</a>        			|  <a href="http://www.birdseye.com/community">Community</a><br><div style="height: 5px;"></div>
-        			<a href="http://www.birdseye.com/terms">Terms of Use</a>  | <a href="http://www.birdseye.com/privacy-policy">Privacy Policy</a>  |  <a href="http://www.birdseye.com/contact-us">Contact Us</a> <span class="copyright">Copyright © 2011 Pinnacle Foods Group</span>
+        			<a href="http://www.birdseye.com/terms">Terms of Use</a>  | <a href="http://www.birdseye.com/privacy-policy">Privacy Policy</a>  |  <a href="http://www.birdseye.com/contact-us">Contact Us</a><br><div style="height: 5px;"></div>
+        			<span class="copyright">Copyright © 2012 Pinnacle Foods Group LLC. All Rights Reserved.</span>  
         		</div>
         		<div class="footer_right">
         			<a href="http://www.birdseye.com/vegetable-products/birdseye"><img src="http://www.birdseye.com/images/footer_birds_eye.png" alt="Birds Eye"></a><a href="http://www.birdseye.com/vegetable-products/birdseye-steamfresh"><img src="http://www.birdseye.com/images/footer_steamfresh.png" alt="Steamfresh"></a><a href="http://www.birdseye.com/vegetable-products/voila"><img src="http://www.birdseye.com/images/footer_voila.png" alt="Voila"></a><a href="http://www.birdseye.com/vegetable-products/c-and-w"><img src="http://www.birdseye.com/images/footer_c_w.png" alt="C &amp; W"></a><a href="http://www.birdseye.com/vegetable-products/mckenzies"><img src="http://www.birdseye.com/images/footer_mckenzies.png" alt="McKenzies"></a><a href="http://www.birdseye.com/vegetable-products/birdseye-freshlike"><img src="http://www.birdseye.com/images/footer_freshlike.png" alt="Freshlike"></a><br>
@@ -323,13 +367,14 @@ Updated: October 7, 2010
 <script>
     FB.init({
     appId:207095942676880, cookie:true,
-    status:true, xfbml:true
+    status:true, xfbml:true,oauth:true
     });
 
     function fb_login(){
         FB.login(function(response) {
-            if (response.session) {
-                if (response.perms.split(',').length == 1) {
+            
+            if (response.authResponse) {
+                if (response.status=='connected') {
                     //log user into site
                     $.getJSON('http://www.birdseye.com/ajax/users/login?connect=1&next=' + window.location.pathname + window.location.search, function(data){
                         if(data.success){
@@ -344,7 +389,7 @@ Updated: October 7, 2010
             } else {
                 // user is not logged in; hit cancel
             }
-        }, {perms:'email'});
+        }, {scope:'email'});
         return false;
         }
 
