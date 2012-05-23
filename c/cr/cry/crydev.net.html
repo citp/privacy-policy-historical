@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the crydev.net privacy policy that was archived on 2011-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111123183213id_/http%3A//www.crydev.net/ucp.php%3Fmode%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the crydev.net privacy policy that was archived on 2012-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120523152929id_/http%3A//www.crydev.net/ucp.php%3Fmode%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-gb" xml:lang="en-gb"><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -8,43 +8,138 @@
 <meta http-equiv="imagetoolbar" content="no">
 <meta name="resource-type" content="document">
 <meta name="distribution" content="global">
-<meta name="copyright" content="2000, 2002, 2005, 2007 phpBB Group">
-<meta name="keywords" content="">
-<meta name="description" content="">
+<meta name="keywords" content="crymod, crydev, development, developer, develop, crysis, crytek, cryengine, modding, sandbox, tools, rendering, projects, database, yerli, farcry, graphics, code, coding, programming, scripting, C++, lua, xml, shaders, WYSIWYP, editor, sdk, free, asset, creation, showcase, license, commercial, educational, real time">
+<meta name="description" content="Crytek´s Official Developers Community">
+
 
 <title>Crydev.net • User Control Panel • Privacy Policy</title>
 
-<link rel="stylesheet" href="./style.php?id=2&amp;lang=en&amp;ver=01" type="text/css">
-<!--[if lt IE 8]><link href="./styles/twilightBB/theme/ie.css" rel="stylesheet" type="text/css" /><![endif]-->
-<!--[if gt IE 8]><link href="./styles/twilightBB/theme/ie9.css" rel="stylesheet" type="text/css" /><![endif]-->
-<script src="./styles/twilightBB/template/jquery.js" type="text/javascript"></script>
+
+<link rel="stylesheet" href="./style.php?id=2&amp;lang=en&amp;ver=05" type="text/css">
+<!--[if lt IE 8]><link href="./styles/twilightBB/theme/ie.css?ver=6" rel="stylesheet" type="text/css" /><![endif]-->
+<!--[if gt IE 8]><link href="./styles/twilightBB/theme/ie9.css?ver=6" rel="stylesheet" type="text/css" /><![endif]-->
+
+
+
+<!-- <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script> -->
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="./styles/twilightBB/template/jquery.js" type="text/javascript"></script>
+
 <script src="./styles/twilightBB/template/popup.js" type="text/javascript"></script>
 
-<script type="text/javascript" language="javascript">
-    //google.load("jquery", "1.4.2");
 
-    var characterLimit = 1400;
+<script src="./styles/twilightBB/template/jquery.tools.min.js" type="text/javascript"></script>
 
-    //google.setOnLoadCallback(function(){
-    $(document).ready(function() {	
 
-        $('#remainingCharacters').html(characterLimit);
 
-        $('#message').bind('keyup', function(){
-            var charactersUsed = $(this).val().length;
+<!--[if lt IE 7]>
+<script src="./styles/twilightBB/template/IE7.js" type="text/javascript"></script>
+<![endif]-->
+<script type="text/javascript" src="./styles/twilightBB/template/slidemenu.js"></script>
+<style type="text/css">
+.jqueryslidemenu {
+    position: relative;
+    z-index: 22;
+}
+.jqueryslidemenu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.jqueryslidemenu ul li {
+    display: inline;
+    float: left;
+    position: relative;
+}
+.jqueryslidemenu ul li a, .jqueryslidemenu ul li a:link, .jqueryslidemenu ul li a:visited {
+    color: #999999;
+}
+.jqueryslidemenu ul li a {
+    display: block;
+    /*height: 40px;
+    line-height: 40px;*/
+    overflow: hidden;
+    /*padding: 0 12px;*/
+    text-decoration: none;
+}
+* html .jqueryslidemenu ul li a {
+    display: inline-block;
+}
+.jqueryslidemenu ul li ul {
+    display: block;
+    left: 0;
+    position: absolute;
+    visibility: hidden;
+}
+.jqueryslidemenu ul li ul li {
+    display: list-item;
+    float: none;
+}
+.jqueryslidemenu ul li ul li ul {
+    top: 0;
+}
+.jqueryslidemenu ul li ul li a {
+    margin: 0;
+    padding: 6px 13px;
+    width: 160px;
+}
+.jqueryslidemenu ul ul {
+    background: url("/images/drop.png") no-repeat scroll -1px 0 transparent;
+    padding-bottom: 2px;
+    padding-top: 14px;
+    top: 30px;
+}
+.jqueryslidemenu ul ul.menu_flip {
+    background: url("/images/dropR.png") no-repeat scroll -1px 0 transparent;
+}
+.jqueryslidemenu ul ul ul, .jqueryslidemenu ul ul.menu_flip ul {
+    background: url("/images/drop_sub.png") no-repeat scroll 0 -2px transparent;
+    margin-left: -4px;
+    margin-top: -2px;
+    padding-top: 2px;
+}
+.jqueryslidemenu ul ul li a, .jqueryslidemenu ul ul li a:link, .jqueryslidemenu ul ul li a:visited {
+    height: 100%;
+    line-height: 20px;
+}
+.jqueryslidemenuz ul li ul li a:hover, .jqueryslidemenu ul ul li a:hover {
+    background: none repeat scroll 0 0 #222222;
+    color: #EEEEEE;
+    margin: 0 4px;
+    padding: 6px 9px;
+}
+.jqueryslidemenuz ul ul li ul li a:hover, .jqueryslidemenu ul ul ul li a:hover {
+    margin: 0 1px;
+    padding: 6px 12px;
+    width: 155px;
+}
 
-            if(charactersUsed > characterLimit){
-                charactersUsed = characterLimit;
-                $(this).val($(this).val().substr(0, characterLimit));
-                $(this).scrollTop($(this)[0].scrollHeight);
-            }
+  .jqueryslidemenu ul li a, .jqueryslidemenu ul li a:link, .jqueryslidemenu ul li a:visited {
+      color: #AAAAAA;
+  }
 
-            var charactersRemaining = characterLimit - charactersUsed;
+  .jqueryslidemenu ul li ul li a {
+      text-align:left;
+      font-size:12px !important;
+  }
 
-            $('#remainingCharacters').html(charactersRemaining);
-        });
-   });
-</script> 
+  .jqueryslidemenu ul ul {
+      background-image: url("/images/drop.png");
+  }
+  .jqueryslidemenu ul ul.menu_flip {
+      background-image: url("/images/dropR.png");
+  }
+  .jqueryslidemenu ul ul ul, .jqueryslidemenu ul ul.menu_flip ul {
+      background-image: url("/images/drop_sub.png");
+  }
+  .jqueryslidemenuz ul li ul li a:hover, .jqueryslidemenu ul ul li a:hover, #footer p.thanks {
+      background: none repeat scroll 0 0 #40474F;
+      color: #EEEEEE;
+  }
+
+  .without-border a {
+    border-bottom:0px !important;
+  }
+</style>
 
 	<script type="text/javascript" src="./gallery/plugins/lytebox/lytebox.js"></script>
 	<link rel="stylesheet" type="text/css" href="./gallery/plugins/lytebox/lytebox.css">
@@ -162,13 +257,38 @@ img.reimg-zoom:hover { background-position: 0 100%; cursor: pointer; filter: Alp
 // ]]>
 </script>
 
-
-
-<!--[if lt IE 7]>
-<script src="./styles/twilightBB/template/IE7.js" type="text/javascript"></script>
-<![endif]-->
-
 <script type="text/javascript">
+
+if (navigator.userAgent.toLowerCase().indexOf('chrome') > -1)
+{
+     var chromeCss = document.createElement("link");
+
+     chromeCss.rel = "stylesheet";
+     chromeCss.href = "./styles/twilightBB/theme/chrome.css?ver=5";
+
+     document.getElementsByTagName("head")[0].appendChild(chromeCss);
+}
+
+if (navigator.userAgent.toLowerCase().indexOf('safari') > -1)
+{
+     var safariCss = document.createElement("link");
+
+     safariCss.rel = "stylesheet";
+     safariCss.href = "./styles/twilightBB/theme/safari.css?ver=5";
+
+     document.getElementsByTagName("head")[0].appendChild(safariCss);
+}
+
+if (navigator.userAgent.toLowerCase().indexOf('opera') > -1)
+{
+     var safariCss = document.createElement("link");
+
+     safariCss.rel = "stylesheet";
+     safariCss.href = "./styles/twilightBB/theme/opera.css?ver=5";
+
+     document.getElementsByTagName("head")[0].appendChild(safariCss);
+}
+
 
 
 if (typeof blankImg == 'undefined') var blankImg = './styles/twilightBB/theme/images/spacer.gif';
@@ -230,7 +350,7 @@ function marklist(id, name, state)
 	}
 
 	var rb = parent.getElementsByTagName('input');
-	
+
 	for (var r = 0; r < rb.length; r++)
 	{
 		if (rb[r].name.substr(0, name.length) == name)
@@ -248,13 +368,13 @@ $(document).ready(function(){
     $("#search-link").click(function(){
        $("#search-panel").slideToggle(200);
         $("#search-link").toggleClass("open");
-        
+
     })
 })
 $('#search-panel').click(function() {
         $("#search-panel").hide(0);
         $("#search-link").removeClass("open");
-  
+
 });
 
 $(document).ready(function() {
@@ -263,10 +383,10 @@ $(document).ready(function() {
                 e.preventDefault();
                 $("fieldset#signin_menu").toggle();
                 $(".signin").toggleClass("menu-open");
-                     
-                    
+
+
             });
-                
+
                     $(".signin_menu_pw").click(function(){
                     if($("#pw_area").css('display') == 'none')
                     {
@@ -294,13 +414,13 @@ $(document).ready(function() {
             });
             $(document).mouseup(function(e) {
                 if($(e.target).parent("a.signin").length==0) {
-                    
+
                     $(".signin").removeClass("menu-open");
                     $("fieldset#signin_menu").hide();
-          
+
                  }
             });
-           
+
         });
 
 function setHeight()
@@ -326,109 +446,56 @@ function setHeight()
 
 // ]]>
 
-</script>
-
-<script type="text/javascript" src=".//gallery/plugins/lytebox/lytebox.js"></script>
-	<link rel="stylesheet" type="text/css" href=".//gallery/plugins/lytebox/lytebox.css">
-	<script type="text/javascript">
-		if (window.addEventListener) {
-			window.addEventListener("load",initLytebox,false);
-		} else if (window.attachEvent) {
-			window.attachEvent("onload",initLytebox);
-		} else {
-			window.onload = function() {initLytebox();}
-		}
-		function initLytebox() {
-			var imgMaxWidth = 1280;
-			var imgWarning = '';
-			myLytebox = new LyteBox(imgMaxWidth, imgWarning);
-
-		}
-</script>
-<!--<script type="text/javascript" src=".//highslide/highslide-full.js"></script>
-<link rel="stylesheet" type="text/css" href=".//highslide/highslide.css" />
-<script type="text/javascript">
-    hs.graphicsDir = './highslide/graphics/';
-    hs.align = 'center';
-    hs.transitions = ['expand', 'crossfade'];
-    hs.fadeInOut = true;
-    hs.dimmingOpacity = 0.8;
-    hs.outlineType = 'rounded-white';
-    hs.captionEval = 'this.thumb.title';
-    // This value needs to be set to false, to solve the issue with the highly increasing view counts.
-    hs.continuePreloading = false;
-
-    // Add the slideshow providing the controlbar and the thumbstrip
-    hs.addSlideshow({
-            interval: 5000,
-            repeat: false,
-            useControls: false,
-            fixedControls: 'fit',
-            overlayOptions: {
-                    opacity: .75,
-                    position: 'top center',
-                    hideOnMouseOut: true
-            }
-    });
-</script>-->
-<script type="text/javascript" src=".//jcarousel/lib/jquery.jcarousel.min.js"></script>
-<!--
-  jCarousel skin stylesheet
--->
-<link rel="stylesheet" type="text/css" href=".//jcarousel/skins/tango/skin.css">
-<style type="text/css">
-
-/**
- * Overwrite for having a carousel with dynamic width.
- */
-.jcarousel-skin-tango .jcarousel-container-horizontal {
-    width: 100%;
-}
-
-.jcarousel-skin-tango .jcarousel-clip-horizontal {
-    width: 93%;
-    padding-left: 25px;
-}
-
-
-
-</style>
-
-<script type="text/javascript">
-
-
 function MM_preloadImages() { //v3.0
   var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
     var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
     if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
 }
 
-
-jQuery(document).ready(function() {
-    jQuery('#mycarousel').jcarousel({
-        visible: 3
-    });
-});
-
-</script>
+</script><link rel="stylesheet" href="./styles/twilightBB/theme/chrome.css?ver=5"><link rel="stylesheet" href="./styles/twilightBB/theme/safari.css?ver=5">
 <style type="text/css">.highslide img {cursor: url(./reimg/highslide/graphics/zoomin.cur), pointer !important;}.highslide-viewport-size {position: fixed; width: 100%; height: 100%; left: 0; top: 0}</style></head>
-
 <body id="phpbb" class="ltr" onload="setHeight(); MM_preloadImages('./styles/twilightBB/imageset/logoCrymodHeader.png', './styles/twilightBB/imageset/logoCrymodHeaderHOVER.png', './styles/twilightBB/imageset/btnHomeBGleft.png', './styles/twilightBB/imageset/btnHomeBGrepeat.png', './styles/twilightBB/imageset/freesdk_download_home_button.jpg', './styles/twilightBB/imageset/freesdk_download_home_button_hover.jpg', './styles/twilightBB/imageset/btnComeOnIn_normal.png', './styles/twilightBB/imageset/btnComeOnIn.png');">
 <div id="header">
         <div style="width:960px;margin-left:auto;margin-right:auto;position:relative;">
          
-        <a href="./index.php" id="logo"></a>
+       <!--<a href="./index.php" id="logo"></a>-->
+       <div class="flash_content">
+           <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="300" height="138" title="Nexuiz with DX11 now available on Steam!">
+                <param name="movie" value="./styles/twilightBB/imageset/nexuiz_banner.swf">
+                <param name="wmode" value="transparent">
+                <param name="autoplay" value="false">
+                <!--[if !IE]>-->
+                    <object type="application/x-shockwave-flash" data="./styles/twilightBB/imageset/nexuiz_banner.swf" width="300" height="138" title="Nexuiz with DX11 now available on Steam!">
+                        <param name="wmode" value="transparent">
+                        <param name="autoplay" value="false">
+                <!--<![endif]-->
+                    <a href="./index.php" id="logo_swf"></a>
+                <!--[if !IE]>-->
+                    </object>
+                <!--<![endif]-->
+            </object>
+       </div>
         
 	<table id="menu" cellpadding="0" cellspacing="0">
 	<tbody><tr id="nav">                  
 		<td><a class="faq" href="./newspage.php"><span>News</span></a></td>
                 <td><a class="faq" href="./forum.php">Forums</a></td>
-                <td><a class="faq" href="./wiki"><span>Wiki</span></a></td>
+                <td class="without-border">
+                    <div id="main_navigation" class="jqueryslidemenu">
+                        <ul>
+                          <li class="page_item page-item-25"><a class="faq" href="javascript:;">Docs</a>
+                                  <ul class="children" style="top: 27px; left: 0px; width: 186px; visibility: visible; display: none;">
+                                    <li class="page_item page-item-137"><a target="_blank" href="http://freesdk.crydev.net">CryENGINE 3 Free SDK</a></li>
+                                    <li class="page_item page-item-21"><a target="_blank" href="http://sdk.crydev.net">Crysis 2 Mod SDK</a></li>
+                                    <li><a class="faq" href="./wiki"><span>CryWiki</span></a></li>
+                                  </ul>
+                          </li>
+                        </ul>
+                    </div>
+                </td>               
                 <!-- PROJECT DB-->
-               <td><a class="faq" href="./project_db.php?action=teams" title="Projects">Projects</a></td>
-                <!-- PROJECT DB -->
-                <!--<td><a class="faq" href="./gallery/gallery.php">Gallery</a></td> -->
-		 <!-- Start DM EDS -->
+               <td><a class="faq" href="./project_db.php?action=overview" title="Projects">Projects</a></td>
+                <!-- PROJECT DB --><!-- Start DM EDS -->
                 <td><a class="faq" href="./faq.php">Support</a></td>
                         <!-- End DM EDS -->
 		</tr>
@@ -477,7 +544,7 @@ jQuery(document).ready(function() {
 <td id="middle" valign="top">
     <a id="top" name="top" accesskey="t"></a>
 <div id="ct">
-	<!-- <input type="hidden" name="redirect" value="./ucp.php?mode=privacy" />
+<!-- <input type="hidden" name="redirect" value="./ucp.php?mode=privacy" />
  -->
 
 	<div class="header_news" style="margin-top:24px;">Privacy Policy</div><hr class="hr_line"><table class="tablebg" width="100%" cellspacing="1">
@@ -578,7 +645,7 @@ jQuery(document).ready(function() {
 <p>You may choose to disclose information about yourself in the course   of contributing user generated content to Crytek sites or games or in   public online chat rooms, blogs, message boards, user "profiles" for   public view or in similar forums on our sites. Information that you   disclose in any of these forums is public information, and there is no   expectation of privacy or confidentiality there.</p>
 
 <p>You should be aware that any personally identifiable information you   submit in the course of these public activities can be read, collected,   or used by other users of these forums, and could be used to send you   unsolicited messages. We are not responsible for the personally   identifiable information you choose to submit in these forums.</p>
-<p>If you post a video, image or photo on one of our sites for public   view you should be aware that these may be viewed, collected, copied   and/or used by other users without your consent. We are not responsible   for the videos, images or photos that you choose to submit to Crytek's   site. Please see our regulations at <a href="http://www.legal.com" title="www.legal.com" style="color:#f15832;">www.legal.com</a> on this point and for   other guidelines about posting content on our websites.</p>
+<p>If you post a video, image or photo on one of our sites for public   view you should be aware that these may be viewed, collected, copied   and/or used by other users without your consent. We are not responsible   for the videos, images or photos that you choose to submit to Crytek's   site. Please see our regulations at <a href="http://www.crytek.com/legal" title="www.crytek.com/legal" style="color:#f15832;">www.crytek.com/legal</a> on this point and for   other guidelines about posting content on our websites.</p>
 <p>&nbsp;</p>
 <h2>IX.&nbsp;&nbsp; Third Party Sites.</h2>
 <p>Our website may contain advertising or services which link to other   websites such as Twitter, Facebook and YouTube. The fact that we link to   a website is not an endorsement, authorization or representation of  our  affiliation with that third party. If you click on a link to a  third  party site, including on an advertisement, you will leave the  Crytek  site you are visiting and go to the site you selected. Because  we cannot  control the activities of third parties, we cannot accept   responsibility for any use of your personal information by such third   parties, and we cannot guarantee that they will adhere to the same   privacy and security practices as Crytek. We encourage you to review the   privacy policies of any other service provider from whom you request   services. If you visit a third party website that is linked to a Crytek   site, you should consult that site's privacy policy before providing  any  personal information.</p>
@@ -638,7 +705,7 @@ jQuery(document).ready(function() {
                 
                 <td class="footer_menu" width="37"><a class="" href="./newspage.php">News</a></td>
                 <td class="footer_menu" width="37"><a class="" href="./forum.php">Forums</a></td>
-                <td class="footer_menu" width="37"><a class="" href="./wiki">Wiki</a></td>
+                <td class="footer_menu" width="37"><a class="" href="./wiki">CryWiki</a></td>
                 <td class="footer_menu" width="37"><a class="" href="/project_db.php?action=teams">Projects</a></td>
                 <td class="footer_menu" width="37"><a class="" href="./downloads.php">Downloads</a></td>
                 <td class="footer_menu" width="37"><a class="" href="./faq.php">Support</a></td>
@@ -648,25 +715,39 @@ jQuery(document).ready(function() {
                     <a href="/ucp.php?mode=terms">Terms of Service</a> &nbsp;|&nbsp;
                     <a href="/ucp.php?mode=legal">Legal</a> &nbsp;|&nbsp;
                     <a href="/ucp.php?mode=privacy">Privacy policy</a><br>
-                    © Crytek UK Ltd. All rights reserved.<br>Crytek, Crysis, Crysis Warhead, Crysis Wars, CryNet &amp; GFace are registered trademarks of Crytek in the EU, the USA &amp; other countries.
+                    © Crytek UK Ltd. All rights reserved. Crytek, Crysis, Crysis Warhead, Crysis Wars &amp; CryNet are registered trademarks of Crytek in the EU,<br>the USA &amp; other countries. GFACE and the GFACE logo are registered trademarks of GFACE GmbH in the EU, the USA &amp; other countries.
                 </span></td>
             </tr>
        </tbody></table>
 </div>
     
 </div>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-28262363-1']);
+  _gaq.push(['_setDomainName', 'crydev.net']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
 <!-- Piwik -->
-<a href="http://piwik.org" title="Web analytics" onclick="window.open(this.href);return(false);">
+<!--<a href="http://piwik.org" title="Web analytics" onclick="window.open(this.href);return(false);">
 <script type="text/javascript">
 var pkBaseURL = (("https:" == document.location.protocol) ? "https://statistics.mycrysis.com/" : "http://statistics.mycrysis.com/");
 document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://statistics.mycrysis.com/piwik.js" type="text/javascript"></script><script type="text/javascript">
+</script><script type="text/javascript">
 piwik_action_name = '';
 piwik_idsite = 6;
 piwik_url = pkBaseURL + "piwik.php";
 piwik_log(piwik_action_name, piwik_idsite, piwik_url);
 </script>
-<object><noscript><p>Web analytics <img src="http://statistics.mycrysis.com/piwik.php?idsite=6" style="border:0" alt=""/></p></noscript></object></a>
+<object><noscript><p>Web analytics <img src="http://statistics.mycrysis.com/piwik.php?idsite=6" style="border:0" alt=""/></p></noscript></object></a>-->
 <!-- End Piwik Tag -->
 
-<div class="highslide-container" style="padding: 0px; border: none; margin: 0px; position: absolute; left: 0px; top: 0px; width: 100%; z-index: 1001; direction: ltr;"><a class="highslide-loading" title="Click to cancel" href="javascript:;" style="position: absolute; top: -9999px; opacity: 0.75; z-index: 1;">Loading...</a><div style="display: none;"></div><div class="highslide-viewport highslide-viewport-size" style="padding: 0px; border: none; margin: 0px; visibility: hidden;"></div><table cellspacing="0" style="padding: 0px; border: none; margin: 0px; visibility: hidden; position: absolute; border-collapse: collapse; width: 0px;"><tbody style="padding: 0px; border: none; margin: 0px;"><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td class="drop-shadow highslide-outline" style="padding: 0px; border: none; margin: 0px; position: relative;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr></tbody></table></div><div id="lbOverlay" class="grey" style="display: none;"></div><div id="lbMain" style="display: none;"><div id="lbOuterContainer" class="grey"><div id="lbIframeContainer" style="display: none;"><iframe id="lbIframe" name="lbIframe" style="display: none;"></iframe></div><div id="lbImageContainer"><img id="lbImage"><div id="lbHoverNav"><a id="lbPrev" class="grey" href="#"></a><a id="lbNext" class="grey" href="#"></a></div></div><div id="lbLoading"></div></div><div id="lbDetailsContainer" class="grey"><div id="lbDetailsData" class="grey"><div id="lbDetails"><span id="lbCaption"></span><span id="lbNumberDisplay"></span><span id="lbNavDisplay" style="display: none;"></span></div><div id="lbBottomNav"><a id="lbClose" class="grey" href="#"></a><a id="lbPause" class="grey" href="#" style="display: none;"></a><a id="lbPlay" class="grey" href="#" style="display: none;"></a></div></div></div></div></body></html>
+<div id="lbOverlay" class="grey" style="display: none;"></div><div id="lbMain" style="display: none;"><div id="lbOuterContainer" class="grey"><div id="lbIframeContainer" style="display: none;"><iframe id="lbIframe" name="lbIframe" style="display: none;"></iframe></div><div id="lbImageContainer"><img id="lbImage"><div id="lbHoverNav"><a id="lbPrev" class="grey" href="#"></a><a id="lbNext" class="grey" href="#"></a></div></div><div id="lbLoading"></div></div><div id="lbDetailsContainer" class="grey"><div id="lbDetailsData" class="grey"><div id="lbDetails"><span id="lbCaption"></span><span id="lbNumberDisplay"></span><span id="lbNavDisplay" style="display: none;"></span></div><div id="lbBottomNav"><a id="lbClose" class="grey" href="#"></a><a id="lbPause" class="grey" href="#" style="display: none;"></a><a id="lbPlay" class="grey" href="#" style="display: none;"></a></div></div></div></div><div class="highslide-container" style="padding: 0px; border: none; margin: 0px; position: absolute; left: 0px; top: 0px; width: 100%; z-index: 1001; direction: ltr;"><a class="highslide-loading" title="Click to cancel" href="javascript:;" style="position: absolute; top: -9999px; opacity: 0.75; z-index: 1;">Loading...</a><div style="display: none;"></div><div class="highslide-viewport highslide-viewport-size" style="padding: 0px; border: none; margin: 0px; visibility: hidden;"></div><table cellspacing="0" style="padding: 0px; border: none; margin: 0px; visibility: hidden; position: absolute; border-collapse: collapse; width: 0px;"><tbody style="padding: 0px; border: none; margin: 0px;"><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td class="drop-shadow highslide-outline" style="padding: 0px; border: none; margin: 0px; position: relative;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr></tbody></table></div></body></html>
