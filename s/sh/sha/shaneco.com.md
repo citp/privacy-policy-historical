@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shaneco.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123100341id_/http%3A//www.shaneco.com/About/PrivacyPolicy.htmx%3Fnid%3DGN_Footer_PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shaneco.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523191519id_/http%3A//www.shaneco.com/About/PrivacyPolicy.htmx%3Fnid%3DGN_Footer_PrivacyPolicy) for the most accurate reproduction.*
 
 # Engagement Rings | Wedding Rings | Diamonds | White Gold Engagement Rings | Shane Co | Jewelers | Direct Diamond Importers | Value | Quality
 
@@ -41,9 +41,9 @@ We send all new members a welcome email to verify password and username. Establi
 Choice/Opt-out   
 Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site, at the point where we ask for the information.
 
-Users who no longer wish to receive promotional emails from Shane Co. may opt-out by clicking "Unsubscribe" in the email; or by logging into their ShaneCo.com account and changing their email preference; or by emailing us at 
+Users who no longer wish to receive promotional emails from Shane Co. may opt-out by clicking "Unsubscribe" in the email; or by logging into their ShaneCo.com account and changing their email preference; or by visiting our [opt-out page](http://www.shaneco.com/myaccount/shanecomywayoptout.htmx); or by emailing us at 
 
-[Support@ShaneCo.com](https://web.archive.org/web/20111123100341id_/http%3A//www.shaneco.com/About/ContactUs.aspx?SendTo=Support@ShaneCo.com). Shane Co. cardholders who no longer wish to receive postal mailings about the Shane Co. card should call the Wells Fargo Privacy Preference Line at 1-888-528-8460.
+[Support@ShaneCo.com](https://web.archive.org/web/20120523191519id_/http%3A//www.shaneco.com/About/ContactUs.aspx?SendTo=Support@ShaneCo.com). Shane Co. cardholders who no longer wish to receive postal mailings about the Shane Co. card should call the Wells Fargo Privacy Preference Line at 1-888-528-8460.
 
 Users of our site are always notified when their information is being collected by any outside parties other than those mentioned in this privacy policy above. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party.
 
