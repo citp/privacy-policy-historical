@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neworleans.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123114913id_/http%3A//www.neworleans.com/about-us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neworleans.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523165958id_/http%3A//www.neworleans.com/about-us/privacy.html) for the most accurate reproduction.*
 
 # Privacy & Security | NewOrleans.com
 
@@ -18,7 +18,7 @@ NewOrleans.com takes the privacy of our site visitors and customers very serious
 
 • What You'll Receive from NewOrleans.com
 
-• What Information NewOrleans.com Shares
+• What Information does NewOrleans.com Share
 
 • NewOrleans.com Products Offered on Other Sites
 
@@ -232,7 +232,7 @@ back to top
 
 * * *
 
- **What Information NewOrleans.com share?**
+ **What Information does NewOrleans.com share?**
 
  **NewOrleans.com does not rent or sell any of your personally identifiable information to anyone.**
 
@@ -245,6 +245,8 @@ NewOrleans.com may also share personally identifiable information to third parti
 In some cases, a NewOrleans.com travel service provider may contact you directly if additional information is necessary to fulfill your request.
 
 NewOrleans.com may also share aggregate information to service providers, business partners and advertisers. In these cases, NewOrleans.com does not provide personally identifiable information. In addition, NewOrleans.com may contract with third-party vendors for survey distribution, promotions or to facilitate sweepstakes or contests.
+
+In some instances, we may use outside companies to display ads and collect information on  our site. These ads may contain cookies for optimization purposes, and we do not have access to this information. These companies may use this information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on site, other Web sites and other forms of media about goods and services of interest to you. If you would like more information, or to learn about opting-out of such advertising technologies, please visit: [ _http://www.networkadvertising.org/managing/opt_out.asp_](http://www.networkadvertising.org/managing/opt_out.asp "blocked::http://www.networkadvertising.org/managing/opt_out.asp")
 
 [back to top](https://web.archive.org/about-us/privacy.html#page)
 
