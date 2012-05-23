@@ -1,22 +1,8 @@
-> *The following text is extracted and transformed from the gmu.edu privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203105344id_/http%3A//webdev.gmu.edu/Internet_Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmu.edu privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523182504id_/http%3A//webdev.gmu.edu/Internet_Privacy) for the most accurate reproduction.*
 
 # Internet Privacy - Web Development
 
-### From Web Development
-
-The following information explains the Internet Privacy Policy that George Mason has adopted for its web site. The George Mason University web site is defined to include the [university's home page (the top-level web page)](https://web.archive.org/index.php?title=The_George_Mason_Top_Page_\(gmu.edu\)&action=edit&redlink=1 "The George Mason Top Page \(gmu.edu\) \(page does not exist\)") and every web site that links directly from the home page (second-level web sites), unless the site is not on a university server or the site is licensed from a vendor. It also includes all the web sites that are designed by [Web Communications](http://ur.gmu.edu/webcomm "http://ur.gmu.edu/webcomm") in [University Relations](http://ur.gmu.edu/ "http://ur.gmu.edu") and other sites that are developed using the [university web templates](http://eagle.gmu.edu/mason_template "http://eagle.gmu.edu/mason_template"). The following is intended to explain our current Internet privacy practices but shall not be construed as a contractual promise. We reserve the right to amend our Internet Privacy Policy statement at any time without notice. 
-
-## Contents
-
-  * 1 Virginia Law
-  * 2 Links to Other Web Sites
-  * 3 Information We Collect
-  * 4 How the Collected Information Is Used
-  * 5 Choice to Provide Information
-  * 6 Customer Comments or Review
-  * 7 Related Links
-
-
+The following information explains the Internet Privacy Policy that George Mason has adopted for its web site. The George Mason University web site is defined to include the [university's home page (the top-level web page)](https://web.archive.org/index.php?title=The_George_Mason_Top_Page_\(gmu.edu\)&action=edit&redlink=1 "The George Mason Top Page \(gmu.edu\) \(page does not exist\)") and every web site that links directly from the home page (second-level web sites), unless the site is not on a university server or the site is licensed from a vendor. It also includes all the web sites that are designed by [Web Communications](http://ur.gmu.edu/webcomm) in [University Relations](http://ur.gmu.edu/) and other sites that are developed using the [university web templates](http://eagle.gmu.edu/mason_template). The following is intended to explain our current Internet privacy practices but shall not be construed as a contractual promise. We reserve the right to amend our Internet Privacy Policy statement at any time without notice. 
 
 ##  Virginia Law
 
@@ -54,13 +40,13 @@ Under the Virginia Freedom of Information Act, any records in our possession at 
 
 There is no legal requirement for you to provide any information at our website. However, our website will not work without routing information and the essential technical information. Failure of your browser to provide nonessential technical information will not prevent your use of our website, but may prevent certain features from working Failure to provide optional information will mean that the particular feature or service associated with that part of the web page will not be available to you. 
 
-##  Customer Comments or Review
+## 
 
-If you have questions about this privacy statement or the practices of this web site, or if you choose to review or correct any information you previously submitted, [please contact the George Mason University webmaster at webmaster@gmu.edu](mailto:webmaster@gmu.edu "mailto:webmaster@gmu.edu"). 
+If you have questions about this privacy statement or the practices of this web site, or if you choose to review or correct any information you previously submitted, [please contact the George Mason University webmaster at webmaster@gmu.edu](mailto:webmaster@gmu.edu). 
 
-##  Related Links
+## 
 
-  * [Battening down the Hatches: Report of the GMU Task Force on Information Security and Privacy](http://www.gmu.edu/srp/isptf/local/ispreport.pdf "http://www.gmu.edu/srp/isptf/local/ispreport.pdf")
-  * [Commonwealth of Virginia: Internet Web Page Privacy Statement Guidelines](http://state.vipnet.org/cts/papers/covitrmguide.pdf "http://state.vipnet.org/cts/papers/covitrmguide.pdf")
+  * [Battening down the Hatches: Report of the GMU Task Force on Information Security and Privacy](http://www.gmu.edu/srp/isptf/local/ispreport.pdf)
+  * [Commonwealth of Virginia: Internet Web Page Privacy Statement Guidelines](http://state.vipnet.org/cts/papers/covitrmguide.pdf)
 
 
