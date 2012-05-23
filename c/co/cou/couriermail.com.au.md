@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the couriermail.com.au privacy policy that was archived on 2011-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110813000226id_/http%3A//www.couriermail.com.au/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couriermail.com.au privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523181621id_/http%3A//www.couriermail.com.au/help/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Courier Mail
+# Privacy Policy | The Courier-Mail
 
 Queensland Newspapers Pty Ltd, trading as News Queensland, recognises the importance of protecting the privacy of personally identifiable information collected about our customers. For the purposes of this Privacy Statement, the word customers includes visitors to our web sites, subscribers to and users of our services, purchasers of our products and advertising customers.
 
