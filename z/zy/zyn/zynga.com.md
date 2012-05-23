@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zynga.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101235729id_/http%3A//www.zynga.com/about/privacy-center/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zynga.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523224325id_/http%3A//company.zynga.com/about/privacy-center/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Zynga
 
@@ -27,7 +27,7 @@ The TRUSTe program only covers information that is collected through Zynga websi
   9. International Operations and Transfers out of Switzerland and the EEA
   10. Privacy Policies of Linked Sites and Advertisers
   11. Security of Your Information
-  12. Changes to Our Privacy Policy
+  12. P3P (Compact Machine Readable Policies) & Changes to Our Privacy Policy
   13. Your California Privacy Rights
   14. Contact Us
 
@@ -35,7 +35,7 @@ The TRUSTe program only covers information that is collected through Zynga websi
 
 ## Introduction
 
-Zynga develops and publishes social games for the web and mobile devices including FarmVille, CityVille, Empires & Allies and Words With Friends (the “Service”). In this policy, "Zynga" refers to Zynga Inc. and its Affiliates, which shall mean subsidiaries, parent companies, joint ventures and other corporate entities under common ownership. We may also refer to Zynga as "We" or "Us". Personal data of users that reside outside of the United States is jointly controlled by Zynga Game Ireland Ltd. and Zynga Luxembourg S.a.r.l.
+Zynga develops and publishes social games for the web and mobile devices including FarmVille, CityVille, CastleVille, Draw Something and Words With Friends (the “Service”). In this policy, "Zynga" refers to Zynga Inc. and its Affiliates, which shall mean subsidiaries, parent companies, joint ventures and other corporate entities under common ownership. We may also refer to Zynga as "We" or "Us". Personal data of users that reside outside of the United States is jointly controlled by Zynga Game Ireland Ltd. and Zynga Luxembourg S.a.r.l.
 
 This Privacy Policy describes:
 
@@ -57,12 +57,12 @@ back to top
 
 **Information about You Received from an SNS**
 
-When you use any Zynga game at an SNS such as Facebook or Google +, where our games may also be referred to as “applications”, you allow Zynga to access certain information from your profile for that site. The information you allow Zynga to access varies by game and SNS, and it is affected by the privacy settings you establish at the SNS. You can control and find out more about these settings at the SNS where you play our games. For example, Zynga may access and store some or all of the following information, as allowed by you, the SNS and your preferences:
+When you use any Zynga game at an SNS such as Facebook or Google +, where our games may also be referred to as “applications”, you allow Zynga to access certain information from your profile for that site. The information you allow Zynga to access varies by game and SNS, and it is affected by the privacy settings you and your friends establish at the SNS. You can control and find out more about these settings at the SNS where you play our games. For example, Zynga may access and store some or all of the following information, as allowed by you, the SNS and your preferences:
 
   * your first and last name
   * your profile picture or its URL
   * your user ID number, which is linked to publicly available information such as name and profile photo
-  * the user ID numbers for your friends that are also connected to our game(s)
+  * the user ID numbers and other public data for your friends
   * the login e-mail you provided to that SNS when you registered
   * your physical location and that of your access devices
   * your gender
@@ -74,7 +74,7 @@ By playing a Zynga game through an SNS, you are authorizing Zynga to collect, st
 
 **Information We Collect from You Directly**
 
-When you interact with the Service (whether or not on an SNS), at [www.Zynga.com](http://www.zynga.com/), or any Zynga-owned website, We may collect and store information from you directly as described below:
+When you interact with the Service (whether or not on an SNS), at www.Zynga.com, or any Zynga-owned website, We may collect and store information from you directly as described below:
 
 **Registration Information**
 
@@ -90,7 +90,7 @@ We may also offer you the ability to import your address book contacts or manual
 
 **Information We Receive or Collect When You Access Zynga Games on a Mobile Device**
 
-If you play Zynga games on your mobile telephone or other mobile device, including iPads and tablets, We collect your mobile device identifier and IP Address. In certain games We will create and assign to your device an identifier that is similar to an account number. We may collect the name you have associated with your device, device type, telephone number, country, and any other information you choose to provide, such as user name, character name, geo-location or e-mail address. We may also access your contacts to enable you to invite friends to join you in the Service.
+If you play Zynga games on your mobile telephone or other mobile device, including iPads and tablets, We collect mobile device identifiers, including MAC Address, and IP Address. In certain games We will create and assign to your device an identifier that is similar to an account number. We may collect the name you have associated with your device, device type, telephone number, country, and any other information you choose to provide, such as user name, character name, geo-location or e-mail address. We may also access your contacts to enable you to invite friends to join you in the Service.
 
 **Payment Information**
 
@@ -110,7 +110,7 @@ We may send local notifications to your mobile device to provide game updates an
 
 **Technical and Usage Information**
 
-When you access our websites or play our games, We collect (i) certain technical information about your mobile device or computer system, including IP Address and mobile device ID; and (ii) usage statistics about your interactions with the Service. This information is typically collected through the use of server log files or web log files (“Log Files”), mobile device software development kits and tracking technologies like browser cookies to collect and analyze certain types of technical information. Some of the cookies the Service places on your computer are linked to your user ID number(s). For more information on how We utilize cookies and other tracking technologies please review the "Cookies and Automated Information Collection" portion of Section 3 ("How We Collect Information about You").
+When you access our websites or play our games, We collect (i) certain technical information about your mobile device or computer system, including MAC Address, IP Address and mobile device ID; and (ii) usage statistics about your interactions with the Service. This information is typically collected through the use of server log files or web log files (“Log Files”), mobile device software development kits and tracking technologies like browser cookies to collect and analyze certain types of technical information. Some of the cookies the Service places on your computer are linked to your user ID number(s). For more information on how We utilize cookies and other tracking technologies please review the "Cookies and Automated Information Collection" portion of Section 3 ("How We Collect Information about You").
 
 **Game Toolbars or Game Bars**
 
@@ -192,7 +192,7 @@ The Service supports and may encourage interaction among players. In most Zynga 
 
 We do not actively share personal information with third party advertisers for their direct marketing purposes unless you give Us your consent.
 
-We may share (i) aggregated information (information about you and other users collectively, but not specifically identifiable to you); (ii) anonymous information; and (iii) certain technical information (including IP Addresses and mobile device IDs) to develop and deliver targeted advertising in the Service and on the websites of third parties. We may also allow advertisers to collect these types of information within the Service and they may share it with Us. Advertisers may collect this information through the use of tracking technologies like browser cookies and web beacons. The information collected may be used to offer you targeted ad-selection and delivery in order to personalize your user experience by ensuring that advertisements for products and services you see will appeal to you, a practice known as behavioral advertising, and to undertake web analytics (i.e. to analyze traffic and other end user activity to improve your experience). To learn more about behavioral advertising or to opt-out of this type of advertising for participating ad networks, you can visit the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp) or the [Digital Advertising Alliance](http://www.aboutads.info/choices/).
+We may share (i) aggregated information (information about you and other users collectively, but not specifically identifiable to you); (ii) anonymous information; and (iii) certain technical information (including IP Addresses, MAC Addresses for mobile devices and mobile device IDs) to develop and deliver targeted advertising in the Service and on the websites of third parties. We may also allow advertisers to collect these types of information within the Service and they may share it with Us. Advertisers may collect this information through the use of tracking technologies like browser cookies and web beacons. The information collected may be used to offer you targeted ad-selection and delivery in order to personalize your user experience by ensuring that advertisements for products and services you see will appeal to you, a practice known as behavioral advertising, and to undertake web analytics (i.e. to analyze traffic and other end user activity to improve your experience). To learn more about behavioral advertising or to opt-out of this type of advertising for participating ad networks, you can visit the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp) or the [Digital Advertising Alliance](http://www.aboutads.info/choices/).
 
 To learn more about how you might receive interest based ads for Zynga products and your choices go [here](https://web.archive.org/about/privacy/faq#behavioral-advertising)
 
@@ -228,12 +228,12 @@ Once Zynga receives your information from an SNS, that information is stored and
 
 **Other Methods of Accessing and Controlling your Information**
 
-  * If you no longer want Zynga to make active use of your information, you may send an e-mail to [privacy@zynga.com](mailto:privacy@zynga.com). Place "Delete My Account" in the subject line and include your first name, last name, e-mail address and user ID number for the SNS from which you access our games (if applicable) in the body of the e-mail. We will respond to your request within thirty (30) days. Please note that certain records, for example those pertaining to payments or customer service matters, will be retained for legal and accounting purposes. If you have sent or posted content on the Service, We may not be able to delete it.
+  * If you no longer want Zynga to make active use of your information, you may send an e-mail to privacy@zynga.com. Place "Delete My Account" in the subject line and include your first name, last name, e-mail address and user ID number for the SNS from which you access our games (if applicable) in the body of the e-mail. We will respond to your request within thirty (30) days. Please note that certain records, for example those pertaining to payments or customer service matters, will be retained for legal and accounting purposes. If you have sent or posted content on the Service, We may not be able to delete it.
   * If you wish to review or change the information Zynga has about you, e-mail Us at the address provided herein.
   * You may change your e-mail preferences at any time, by visiting your e-mail preference [page](http://accounts.zynga.com/).
   * You can turn off push notifications by visiting the “options” or “settings” page within the relevant game. You can turn off local notifications by visiting the “options” or “settings” page within the relevant game.
   * You can stop further use of your geo-location (for example through “check-ins”) by visiting your device's settings for the relevant application or the “settings” page for the relevant game. You can also stop checking in.
-  * If you have additional questions about this Privacy Policy, contact Us at [privacy@zynga.com](mailto:privac%79@%7Aynga.com).
+  * If you have additional questions about this Privacy Policy, contact Us at privacy@zynga.com.
 
 
 
@@ -267,7 +267,9 @@ As part of our international operations, We may transfer data to our Affiliates 
 
 Zynga stores information about site visitors and players on servers located in the United States, and Zynga may also store such information on servers and equipment in other countries. Personal data collected within Switzerland and the European Economic Area (“EEA”) may be transferred to, and stored at, a destination outside of Switzerland and the EEA. The data We hold may also be processed by employees operating outside of Switzerland and the EEA who work for Us or one of our Affiliates or for one of our vendors. Such staff may be engaged in, among other things, (i) the processing of transactions and your payment details and (ii) the provision of support services. By submitting your personal data or playing Zynga games, you agree to this transfer, storing or processing.
 
-Zynga Inc. complies with the Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of online user data from the European Union and Switzerland. We will take reasonable steps to ensure that your data is treated securely and in accordance with this privacy policy. Zynga Inc. is a participant in the TRUSTe Safe Harbor Program. If you have reported data privacy concerns to Zynga and do not feel they have been adequately addressed, you may contact TRUSTe at <http://watchdog.truste.com/pvr.php?page=complaint>.
+Zynga complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Zynga has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Zynga's certification, please visit <http://www.export.gov/safeharbor/>.
+
+We will take reasonable steps to ensure that your data is treated securely and in accordance with this privacy policy. Zynga Inc. is a participant in the TRUSTe Safe Harbor Program. If you have reported data privacy concerns to Zynga and do not feel they have been adequately addressed, you may contact [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint).
 
 back to top
 
@@ -283,13 +285,15 @@ Zynga implements reasonable security measures to protect the security of your in
 
 For user accounts registered directly with Zynga profile information is protected by the password each member uses to access their online account. It is important that you protect and maintain the security of your account and that you immediately notify Us of any unauthorized use of your account. If you forget the password to your Zynga account, the website allows you to request that instructions be sent to you that explain how to reset your password. When you sign into your account or enter payment information (such as a credit card number when purchasing virtual currency), We encrypt the transmission of that information using secure socket layer technology ("SSL").
 
-While We take reasonable precautions against possible security breaches of our websites and our customer databases and records, no website or Internet transmission is completely secure, and We cannot guarantee that unauthorized access, hacking, data loss, or other breaches will never occur. We urge you to take steps to keep your personal information safe (including your account password), and to log out of your account after use. If your SNS account is hacked, this may lead to unauthorized play of your Zynga games, so be careful to keep your account information secure. If you have questions about the security of our websites, please contact Us at [privacy@zynga.com](mailto:privacy@z%79%6Ega.%63o%6D).
+While We take reasonable precautions against possible security breaches of our websites and our customer databases and records, no website or Internet transmission is completely secure, and We cannot guarantee that unauthorized access, hacking, data loss, or other breaches will never occur. We urge you to take steps to keep your personal information safe (including your account password), and to log out of your account after use. If your SNS account is hacked, this may lead to unauthorized play of your Zynga games, so be careful to keep your account information secure. If you have questions about the security of our websites, please contact Us at privacy@zynga.com.
 
 Unfortunately, the transmission of information over the Internet is not completely secure. Although We strive to protect your personal data, We cannot guarantee the security of your data while it is being transmitted to our site; any transmission is at your own risk. Once We have received your information, We have procedures and security features in place to try to prevent unauthorized access.
 
 back to top
 
 ## Changes to Our Privacy Policy
+
+We may make P3P – compact machine-readable – policies and headers available. If we do so, we will try to ensure that they are consistent with this human readable policy. However, in the event of a conflict between a machine-readable policy and this policy, this (human readable) policy will control.
 
 If We decide to make material changes to our Privacy Policy, We will notify you and other users by placing a notice on Zynga.com or by sending you a notice to the e-mail address We have on file for you. We may supplement this process by placing notices in our games and on other Zynga websites. You should periodically check [www.zynga.com](http://www.zynga.com/) and this privacy page for updates.
 
@@ -301,13 +305,13 @@ We do not share personal information with third parties for their direct marketi
 
 **Right to Access**
 
-Users in certain jurisdictions have a right to access personal information held about themselves. Your right of access can be exercised in accordance with applicable law. Please submit any requests for access to your personal data in writing to [privacy@zynga.com](mailto:pr%69v%61c%79@%7Aynga.co%6D).
+Users in certain jurisdictions have a right to access personal information held about themselves. Your right of access can be exercised in accordance with applicable law. Please submit any requests for access to your personal data in writing to privacy@zynga.com.
 
 back to top
 
 ## Contact Us
 
-If you have any questions, comments or concerns regarding our Privacy Policy and/or practices, please send an e-mail to [privacy@zynga.com](mailto:pr%69v%61c%79@%7Aynga.co%6D). All other inquiries should be directed to [Zynga's Support Page](http://support.zynga.com/).
+If you have any questions, comments or concerns regarding our Privacy Policy and/or practices, please send an e-mail to privacy@zynga.com. All other inquiries should be directed to [Zynga's Support Page](http://support.zynga.com/).
 
 Zynga Inc.  
 699 8th Street  
