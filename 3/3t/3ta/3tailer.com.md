@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the 3tailer.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228203557id_/http%3A//www.3tailer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3tailer.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523204921id_/http%3A//www.3tailer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+**Sign up for our newsletter**   
+_be the first to learn of new sale events and coupons!_
 
 ## Your privacy is important to us.
 
@@ -20,7 +23,7 @@ The type of information we may securely collect about you includes:
 
 We will never collect sensitive information about you without your explicit consent. The information we hold will be accurate and up to date. You can check the information that we hold about you by emailing us. If you find any inaccuracies we will delete or correct it promptly. The personal information which we hold will be held securely in accordance with our internal security policy and the law.
 
-We share your information with service providers for specific business purposes such as facilitating the processing of your order or for answering your inquiry.  The information we collect from you is shared with our marketing partners or other third parties. We may use the personal information that you supply to us and we may work with other third parties to bring selected retail opportunities to you via direct mail, email and telemarketing.
+We may share your information with service providers for specific business purposes such as facilitating the processing of your order or for answering your inquiry.  The information we collect from you may be shared with our trusted marketing partners or other trusted third parties. We may use the personal information that you supply to us and we may work with other trusted third parties to bring selected retail opportunities to you via direct mail, email and/or telemarketing.
 
 We also send newsletters to users if they have agreed to receive this mailing. If you would like to stop receiving newsletters please contact us at the “contact us” link at the bottom of this privacy policy.
 
