@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-west.net privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123184135id_/http%3A//legal.innogames.de/%3Ftype%3Dprivacy%26game%3Dwest%26lang%3Den_US%26market_id%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-west.net privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523163643id_/http%3A//legal.innogames.de/%3Ftype%3Dprivacy%26game%3Dwest%26lang%3Den_US%26market_id%3Den) for the most accurate reproduction.*
 
 # Data Protection Provisions
 
