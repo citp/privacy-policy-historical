@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efile.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121230823id_/http%3A//www.efile.com/efile/efile-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efile.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523105148id_/http%3A//www.efile.com/efile/efile-privacy) for the most accurate reproduction.*
 
 # Tax Information Privacy, Tax Data Security, Tax Laws | efile
 
@@ -150,7 +150,16 @@ top
   
 
 
+Start a Tax Return
+
+  * No Risk
+  * No Registration
+  * Maximum Refund Faster
+
+
+
+> "I have had a great experience with efile.com. Thank you for another great tax year!"  
+>  Mike (US Marine)
+
 > "Wow, this was so easy and not time consuming either."  
 >  Lisa in Portland
-
-> "Awesome! Another easy tax year!" Kay in Ohio
