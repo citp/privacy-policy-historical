@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ittaleem.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225030925id_/http%3A//www.ittaleem.com/showthread.php%3Ft%3D208530) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ittaleem.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523101753id_/http%3A//www.ittaleem.com/showthread.php%3Ft%3D208530) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  1. 30th July 2011, 11:52 AM [#1](http://www.ittaleem.com/showthread.php?t=208530&p=1061317&viewfull=1#post1061317)
+  1. 30th July 2011, 10:52 AM [#1](http://www.ittaleem.com/showthread.php?t=208530&p=1061317&viewfull=1#post1061317)
 
 ##  Privacy Policy 
 
