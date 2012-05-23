@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitacost.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016050033id_/http%3A//www.vitacost.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitacost.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523160950id_/http%3A//www.vitacost.com/Privacy) for the most accurate reproduction.*
 
 # Vitacost.com Web Site Privacy Statment - Vitacost
 
