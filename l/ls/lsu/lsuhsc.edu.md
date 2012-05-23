@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lsuhsc.edu privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123091831id_/http%3A//www.lsuhsc.edu/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lsuhsc.edu privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523102513id_/http%3A//www.lsuhsc.edu/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Official Privacy Policy for Louisiana State University Health Sciences Center, New Orleans Web Pages
 
