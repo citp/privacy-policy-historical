@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vanmildert.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228063232id_/http%3A//www.vanmildert.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanmildert.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524012502id_/http%3A//www.vanmildert.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Van Mildert
 
