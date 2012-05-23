@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clublexus.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123193555id_/http%3A//www.clublexus.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clublexus.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524015919id_/http%3A//www.clublexus.com/privacy-policy.php) for the most accurate reproduction.*
 
 # ClubLexus - Privacy Policy
 
