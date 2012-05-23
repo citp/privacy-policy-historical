@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pwinsider.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123121622id_/http%3A//www.pwinsider.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pwinsider.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523170226id_/http%3A//www.pwinsider.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | PWInsider.com
 
