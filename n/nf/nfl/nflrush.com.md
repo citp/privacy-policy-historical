@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the nflrush.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124005158id_/http%3A//www.nflrush.com/privacypolicy/%3Ficampaign%3Drush_footer_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nflrush.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523172149id_/http%3A//www.nflrush.com/privacypolicy/%3Ficampaign%3Drush_footer_privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - NFLRUSH
+
+[](http://www.truste.org/ivalidate.php?companyName=National%20Football%20League&sealid=105)
+
+**Updated as of March 11, 2009**
 
 The NFLRUSH website is new and improved! We have added new games, activities and features to the site for your enjoyment and learning. We encourage you to read and understand our newly updated privacy policy as your privacy is important to us.
 
@@ -12,22 +16,28 @@ If you have questions or concerns regarding this statement, you should first con
 
 This Privacy Policy also describes the choices available to you regarding the use of the Personal Information you and/or your child provide to the NFLRUSH website, and the actions that can be taken to access this information and request the information you and/or your child provides be corrected or deleted.
 
+About the NFLRUSH Website
+
 NFLRUSH is the NFL's website for youth ages 6 to 14. It has been built especially for those young people who are football enthusiasts or who may have an interest in football, and in NFL Football in particular. The main goal of the site is to entertain and educate young users about football in a safe environment.
 
-* Children's Online Privacy and Protection Act Compliance
-* Consent
-* Information Collection and Use
-* Other Information Collected
-* Email Communications
-* Information Sharing and Disclosure
-* Choice and Opt-Out
-* Access to Your Information
-* Links to Other Websites
-* Storage and Security of Personal Information
-* International Transfer
-* Changes to this Privacy Policy
-* Questions and Comments
-* Contact Information
+This Privacy Policy contains the following sections:
+
+    * Children's Online Privacy and Protection Act Compliance
+    * Consent
+    * Information Collection and Use
+    * Other Information Collected
+    * Email Communications
+    * Information Sharing and Disclosure
+    * Choice and Opt-Out
+    * Access to Your Information
+    * Links to Other Websites
+    * Storage and Security of Personal Information
+    * International Transfer
+    * Changes to this Privacy Policy
+    * Questions and Comments
+    * Contact Information
+
+
 
 ### Children's Online Privacy and Protection Act Compliance
 
@@ -181,7 +191,7 @@ Personal Information collected by the NFLRUSH website may be stored and processe
 
 YOUR CALIFORNIA PRIVACY RIGHTS
 
-California Civil Code Section 1798.83 permits customers of the National Football League who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [NFLRushPrivacy@NFL.com](mailto:NFLRushPrivacy@nfl.com) or [NFLRushSafety@NFL.com](mailto:NFLRushSafety@nfl.com), or write us at CA Privacy Rights, NFLRUSH.com, 280 Park Avenue, New York, NY 10017.
+California Civil Code Section 1798.83 permits customers of the National Football League who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [NFLRushPrivacy@NFL.com](mailto:NFLRushPrivacy@nfl.com) or [NFLRushSafety@NFL.com](mailto:NFLRushSafety@nfl.com), or write us at CA Privacy Rights, NFLRUSH.com, 345 Park AveNew York, NY 10154.
 
 ### Changes to this Privacy Policy
 
@@ -201,6 +211,7 @@ Additionally, you may write to us at:
 
 NFLRUSH Safety & Privacy  
 Attn: NFL Legal Department  
-280 Park Avenue  
-New York, NY 10017  
+345 Park Ave
+
+New York, NY 10154  
 212-450-2000
