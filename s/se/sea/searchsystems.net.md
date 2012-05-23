@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the searchsystems.net privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123092527id_/http%3A//publicrecords.searchsystems.net/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchsystems.net privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523183115id_/http%3A//publicrecords.searchsystems.net/privacypolicy.php) for the most accurate reproduction.*
 
-# Free Public Records | Search the Original Directory Worldwide- Contact Us
+# Privacy Policy
 
 ## Introduction
 
