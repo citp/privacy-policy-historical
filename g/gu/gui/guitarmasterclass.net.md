@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guitarmasterclass.net privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207082309id_/http%3A//www.guitarmasterclass.net/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitarmasterclass.net privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523103232id_/http%3A//www.guitarmasterclass.net/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy at Guitar Masterclass
 
@@ -17,17 +17,3 @@ During the payment process you will be asked for your name and address. GuitarMa
 **Computer information -** GuitarMasterClass gathers your computer resolution and operating system by using a tracker. This information is only used to improve the site and make it more accessible to the visitors. 
 
 **Contact the webmaster -** If you have questions about this Privacy Policy, the practices of the site, or any other inquiries - you can contact the webmaster [here](https://web.archive.org/Contact-GMC-staff.htm). 
-
-#### 
-
-##### Sales/Marketing
-
-We are looking for local collaborators. Your job will be to contact websites/institutions/companies. All countries & regions are of intererst.
-
-Get in contact with [info@guitarmasterclass.net](mailto:info@guitarmasterclass.net) and tell us more about yourself!
-
-##### Guitar Instructors
-
-We are currently looking for instructors with great teaching skills who can focus their lessons towards beginners. We are also looking for a country instructor.
-
-[Read More](http://www.guitarmasterclass.net/teach-online/)
