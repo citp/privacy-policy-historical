@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stoneagegames.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123121659id_/http%3A//www.stoneagegames.com/html/5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stoneagegames.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523170233id_/http%3A//www.stoneagegames.com/html/5) for the most accurate reproduction.*
 
 # Hidden Object Games - Point and Click Games - Escape Games
 
@@ -66,4 +66,4 @@ We use third-party companies to serve advertisements on our site. Some of these 
 
 11.2. This Privacy Policy was last modified on the 2nd of June, 2010 and is effective immediately.
 
-Copyright - 2008 Electracanada Inc. - All Rights Reserved.
+Copyright - 2008-2012 Electracanada Inc. - All Rights Reserved.
