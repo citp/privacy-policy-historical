@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bart.gov privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123092509id_/http%3A//www.bart.gov/siteinfo/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bart.gov privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523185101id_/http%3A//www.bart.gov/siteinfo/privacy.aspx) for the most accurate reproduction.*
 
 # BART - Privacy Policy
 
@@ -23,6 +23,9 @@ Because aggregated information does not include personal identifying information
 
 BART uses third party measurement software from [Google Analytics](http://www.google.com/analytics) to gather and compile aggregated website usage information. Google Analytics does not collect, track or have any access to personal information received at the BART website. To find out more about Google Analytics, their technology, their privacy policy and their opt-out alternatives visit the [Google Analytics Privacy Overview](http://www.google.com/intl/en/analytics/privacyoverview.html).
 
+**IP Addressess**  
+An IP address is unique string of numbers that is assigned to your computer by your Internet service provider. This number is logged automatically by our servers whenever you visit the site, along with the time of your visit and the pages you visited. Logging IP addresses is standard practice on the Internet and is done automatically by most sites. We use IP addresses to help diagnose and fix server and application problems and otherwise administer the site.
+
 **Cookies  
 ** A cookie is a small data file that websites commonly write to your hard drive when you visit them. A cookie file contains information that can identify you anonymously in order to track traffic patterns and add functionality to the website. Cookies don't identify you personally, but rather identify your computer when you visit our site. A cookie can't read data off your hard disk or read cookie files created by other sites. Your browser can be set to warn you before accepting cookies. In this case, you will receive the warning message with each cookie. You may choose to refuse cookies by turning them off in your browser. You do not need to have cookies turned on to use the majority of the BART website, but you will need to allow cookies in certain areas of the site to perform certain functions. BART allows users to clear cookies.
 
@@ -35,7 +38,7 @@ BART uses third party measurement software from [Google Analytics](http://www.go
 > Oakland, CA 94612-3534 USA
 
 **Updates  
-** If we decide to update our privacy policy, we will update this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. BART reserves the right to update this privacy policy at any time. This page was last updated on May 26, 2010.
+** If we decide to update our privacy policy, we will update this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. BART reserves the right to update this privacy policy at any time. This page was last updated on Decmber 6, 2011.
 
 **Consent  
 ** By using the BART website, you consent to the collection and use of information as described above.
