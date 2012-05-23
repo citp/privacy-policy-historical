@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usinflationcalculator.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124072810id_/http%3A//www.usinflationcalculator.com/terms-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usinflationcalculator.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523160042id_/http%3A//www.usinflationcalculator.com/terms-privacy-policy) for the most accurate reproduction.*
 
 # Terms & Privacy Policy - US Inflation Calculator
 
