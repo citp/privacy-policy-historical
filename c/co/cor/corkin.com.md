@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corkin.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127232926id_/http%3A//www.corkin.com/includes/PrivacyPage.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corkin.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523064959id_/http%3A//www.corkin.com/includes/PrivacyPage.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - Corkin - Corkin - Free Classifieds Free Ads - Free Local Classifieds local and Nationwide. Jobs Search, Used car, Golf clubs, NBA or WWE tickets, auto insurance, dwi, dui, Pet Classifieds, Sell a Car, Sell a Timeshare, sell textbooks, Buy Laptops, IT Jobs, sell my car, Buy DVD, buy a dog, Sell Used car, Sell my House. Find Friends. Car listings, Motorcycles For Sale, Real Estate listings, apartmanets for rent, Job Listings, Post Resume, Find People, Online Jobs, vacation rentals, and personals sales
 
