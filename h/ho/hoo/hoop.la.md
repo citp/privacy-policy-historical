@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the hoop.la privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110093703id_/http%3A//socialstrata.com/docs/privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoop.la privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524015649id_/http%3A//socialstrata.com/docs/privacy_policy.pdf) for the most accurate reproduction.*
 
 # Social Strata Privacy Policy
 
 Social Strata Privacy Policy
-Last Updated: November 3, 2011
+Last Updated: December 9, 2011
 This Privacy Policy (“Policy”) applies to all products, services, and websites operated by Social Strata, Inc.
 (“Social Strata”).
 Social Strata is registered with the U.S. Department of Commerce's Safe Harbor Program. This means that
@@ -61,7 +61,8 @@ While Social Strata does not provide any personal information to advertisers, it
 a certain ad, it may have been delivered to you based on targeting demographic criteria (for example, men
 who are between 18-24 years of age). Please note that in such situations, the advertiser does not know any
 specific personal information about you. You understand, however, that the advertiser will make the
-assumption that you meet its particular targeting criteria.
+assumption that you meet its particular targeting criteria. Social Strata may also share conversion data with
+advertisers.
 Data Integrity
 Social Strata processes personal information only for the purposes for which it was collected, and in
 accordance with the Policy. We review our data collection, storage, and processing practices to ensure that
@@ -95,5 +96,6 @@ Questions/Comments
 If you have any questions or comments regarding Social Strata's Privacy Policy, please contact us at:
 Social Strata, Inc.
 Social Strata Privacy Administrator
-PO Box 1102
-Isle of Palms, SC 29451 USA
+1985 Riviera Drive
+Suite 103-114
+Mount Pleasant, SC 29464 USA
