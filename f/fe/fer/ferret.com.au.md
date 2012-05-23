@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ferret.com.au privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121230246id_/http%3A//www.ferret.com.au/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ferret.com.au privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523162731id_/http%3A//www.ferret.com.au/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -116,5 +116,3 @@ Australia
 Future changes
 
 Our commitment to being a leading provider of online business directory services means that our business will continue to evolve as we introduce new services and features.  Because of this, from time to time, our policies will be reviewed and may be revised.  Catch reserves the right to change its Privacy Policy at any time and notify you by posting an updated version on each Catch website.  The amended Privacy Policy will apply between us whether or not we have given you specific notice of any change.
-
-What are you looking for? 
