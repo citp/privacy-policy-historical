@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the wsoprofitexponential.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123003635id_/http%3A//wsoprofitexponential.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsoprofitexponential.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523032915id_/http%3A//wsoprofitexponential.com/privacy-policy) for the most accurate reproduction.*
 
 # 
+
+Privacy Policy
 
 We have created this privacy statement for WSO Profit Exponential in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with [WSO Profit Exponential](http://wsoprofitexponential.com/). We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
 
@@ -8,7 +10,7 @@ We have created this privacy statement for WSO Profit Exponential in order to de
 
 **What Information Do We Collect?** ****
 
- ****When you visit this web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.
+When you visit this web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.
 
 **1\. Personal Information You Choose to Provide**
 
@@ -50,7 +52,7 @@ You may request access to all your personally identifiable information that we c
 
 **What About Legally Compelled Disclosure of Information?**
 
- ****We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights. We may also disclose account information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms of Service or to protect the safety of our users and the Public.
+We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights. We may also disclose account information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms of Service or to protect the safety of our users and the Public.
 
 **What About Other Web Sites Linked to Our Web Site?**
 
@@ -68,7 +70,7 @@ Please note that your information will be stored and processed on our computers 
 
 **Choice/Opt-In/Opt-Out**
 
- ****This site allows visitors to unsubscribe so that they will not receive future messages. After unsubscribing we will discontinue sending the particular messages as soon as technically feasible.
+This site allows visitors to unsubscribe so that they will not receive future messages. After unsubscribing we will discontinue sending the particular messages as soon as technically feasible.
 
 **Surveys & Contests**
 
@@ -84,4 +86,4 @@ In the event that the web site (or a substantial portion of its assets) is acqui
 
 **Policy Modifications**
 
- ****We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we will email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
+We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we will email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
