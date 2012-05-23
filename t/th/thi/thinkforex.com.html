@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the thinkforex.com privacy policy that was archived on 2011-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111124033013id_/http%3A//www.thinkforex.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thinkforex.com privacy policy that was archived on 2012-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120523163605id_/http%3A//www.thinkforex.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
 
-<!--line breaks are on-->
+
 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <title>ThinkForex - Privacy Policy</title>
@@ -48,13 +48,18 @@
       <!--TABS-->
 		<!--<link href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.7/themes/blitzer/jquery-ui.css" rel="stylesheet" type="text/css" />-->
         <link href="../04-scripts/tfxtheme/jquery-ui-1.8.11.custom.css" rel="stylesheet" type="text/css">
+        <link href="../03-css/dropdown.css" rel="stylesheet" type="text/css">
+		<link href="../04-scripts/jquery-lightbox-0.5/css/jquery.lightbox-0.5.css" rel="stylesheet" type="text/css" media="screen">
       	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>
   		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
 		<script type="text/javascript" src="../04-scripts/mbox.js"></script>
 		<script type="text/javascript" src="../04-scripts/jquery.form.js"></script>
 		<script type="text/javascript" src="../04-scripts/class.quickform.js"></script>
         <script type="text/javascript" src="../04-scripts/flowplayer/flowplayer-3.2.6.min.js"></script>
-        
+        <script type="text/javascript" src="../04-scripts/jquery.youtubeplaylist.js"></script>
+        <script type="text/javascript" src="../04-scripts/jquery.dropdown.js"></script>
+		<script type="text/javascript" src="../04-scripts/validation.js"></script>
+        <script type="text/javascript" src="../04-scripts/jquery-lightbox-0.5/js/jquery.lightbox-0.5.js"></script>
 		<script type="text/javascript">
 		<!--
 			$(document).ready
@@ -112,6 +117,13 @@ win=window.open(mypage,myname,settings);}
 // -->
 </script>
 <!--OPEN A NEW WINDOW FOR THE LIVE CHAT-->
+<!--VIDEO PLAYER-->
+<script type="text/ecmascript">
+		$(function() {
+			$("ul.demo2").ytplaylist({addThumbs:true, autoPlay:true, showRelated:false, holderId: 'ytvideo2',});
+		});
+	
+</script>
 <!--set base for all relative links-->
 <base href="http://www.thinkforex.com/">
 <!--set base for all relative links-->
@@ -170,6 +182,25 @@ win=window.open(mypage,myname,settings);}
 
 <![endif]--> 
 <meta name="robots" content="noindex">
+
+<script type="text/javascript">
+$(document).ready
+(
+function()
+{
+$('#webinar-widget').css('display', 'none');
+ }
+ );
+</script>
+<script type="text/javascript">
+$(document).ready
+(
+function()
+{
+$('#quick-signup').css('display', 'none');
+ }
+ );
+</script>
 <style type="text/css">
 <!--
 
@@ -177,162 +208,206 @@ win=window.open(mypage,myname,settings);}
 </style>
 
 
-<!--<script type ="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>-->   <!--UNCOMMENT THIS LINE IF jquery is not already included in page-->
-<!-- <script type ="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.7/jquery-ui.min.js"></script> -->
-<!-- <link href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.7/themes/blitzer/jquery-ui.css" rel="stylesheet" type="text/css" /> -->
-
-<script type="text/javascript">
-<!--
-	if(typeof jQuery == 'undefined') //if JQuery hasn't been loaded, we need to load it
-	{
-		var head = document.getElementsByTagName("head")[0];         
-		var jq = document.createElement('script');
-		jq.type = 'text/javascript';
-		jq.src = 'https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js';
-		headID.appendChild(jq);
-	}
-	$(document).ready
-	(
-		function()
-		{
-			CheckIPBlock();	
-		}
-	);
-	
-		function GetXMLHTTPRequest()
-	{//creates Request object
-		var req = false;
-		try
-		{//firefox
-			req = new XMLHttpRequest();
-		}
-		catch (err)
-		{//ie
-			try
-			{
-				req = new ActiveXObject("Msxm12.XMLHTTP");
-			}
-			catch (err)
-			{
-				try
-				{
-					req = new ActiveXObject("Microsoft.XMLHTTP");
-				}
-				catch (err)
-				{
-					req = false;
-				}
-			}
-		}
-		return req;
-	}
-	
-	function CheckIPBlock()
-	{
-		var ip = '174.129.237.157';
-		var referrer = '';
-		var alertEmailAddress = 'archive@thinkforex.com';
-		var pageAddress = 'http://www.thinkforex.com/IPCheck/ip_check.php';
-		var ipBlockTable = 'BLOCKED_IPS_SITE';
-		
-		//construct request
-		var params = '&ip=' + ip + '&referrer=' + referrer + '&alert_email_address=' + alertEmailAddress + '&ip_block_table=' + ipBlockTable; 
-		var myRand = parseInt(Math.random()*999999999999999); //prevent caching
-		var theURL = pageAddress + "?rand=" + myRand;
-		var myReq = GetXMLHTTPRequest();
-		myReq.onreadystatechange = 
-		function()
-		{
-			if (this.readyState == 4)
-			{
-				if (this.status == 200)
-				{
-					if(this.responseText == 'blocked')
-					{
-						ShowBlockedMessage('Please note you appear to be from the U.S, please wait until your are redirected.');
-					}
-				}
-			}
-		};
-		
-		//send request
-		myReq.open("POST", theURL, true);
-		myReq.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
-		if (params !== undefined)
-		{
-			myReq.setRequestHeader("Content-length", params.length);
-		}
-		myReq.setRequestHeader("Connection", "close");
-		myReq.send(params);
-		
-		return;
-	}
-		
-	function ShowBlockedMessage(message, isLoading, title)
-	{
-		
-		var messageBox = $('.message_box');
-		messageBox.remove();
-		messageBox = $('<div>');
-		if(title === undefined) {title = ' ';}
-		
-		messageBox.html
-		(
-		'<div class="message_box" title="' + title + '" style="text-align:left;">' +
-		'<br />' +
-		'<p id="message" style="text-indent: 0px;">Please wait</p>' +
-		'<br />' +
-		'</div>'
-		);
-		
-		messageBox.find('#message:eq(0)').text(message);
-		$('body').append(messageBox.html());
-		
-		$('.message_box:eq(0)').dialog(
-		{
-			modal: true,
-			closeOnEscape: false,
-			open: function(event, ui) { $(".ui-dialog-titlebar-close").css('visibility', 'hidden'); },
-			resizable: false,
-			draggable: false
-
-		});
-		
-		var func
-		var t = setTimeout("RedirectIPBlock()", 3000);
-		
-		return;
-	}
-	
-	function RedirectIPBlock()
-	{
-		window.top.location.href = 'http://thinkforex.com/ussorry';
-	}
-	
--->
-</script>
 </head>
 
 <body id="about">
 
+<div id="myjquerymenu" class="jquerycssmenu">
 
+<ul class="top-tier">
+<li style="border-left: 1px solid #99b209;">Forex Trading &nbsp;<img src="../01-images/dropdown-arrow.png" width="8" height="8">
+	<ul class="sub-tier" style="top: 49px; display: none; visibility: visible;">
+ 		<li><a href="forextrading/forex-account-types">Account Types<img src="../01-images/dropdown-arrow-right.png" class="rightarrowclass" style="border:0;"></a>
+        	<ul style="top: 0px; display: none; visibility: visible;">
+					<li><a href="javascript:void()">MetaTrader 4<img src="../01-images/dropdown-arrow-right.png" class="rightarrowclass" style="border:0;"></a>
+					<ul style="top: 0px; display: none; visibility: visible;">
+						<li><a href="forexplatforms/metatrader-4-basic-platform/">MetaTrader 4 Basic</a></li>
+						<li><a href="forexplatforms/metatrader-4-platform/">MetaTrader 4 Standard</a></li>
+						<li><a href="forexplatforms/metatrader-4-pro-platform/">MetaTrader 4 Pro</a></li>
+					</ul></li><li>
+				</li><li><a href="forextrading/reflect-accounts/">Reflect™ Accounts<img src="../01-images/dropdown-arrow-right.png" class="rightarrowclass" style="border:0;"></a>
+                	<ul style="top: 0px; display: none; visibility: visible;">
+            			<li><a href="forextrading/reflect-accounts/mirrortrader-tradency-platform/">MirrorTrader</a></li>
+						<li><a href="forextrading/reflect-accounts/zulutrade-platform/">ZuluTrade</a></li>
+                		<!--<li class="bottom"><a href="#">ZuluTrader</a></li>-->
+            		</ul>
+                </li>
+                <li class="bottom"><a href="forextrading/direct-accounts/">Direct™ Accounts<img src="../01-images/dropdown-arrow-right.png" class="rightarrowclass" style="border:0;"></a>
+                	<ul style="top: 0px; display: none; visibility: visible;">
+                <!--<li><a href="#">SpeedTrader</a></li>-->
+				<li style="border-bottom: 1px solid #111;"><a href="forex/manualforextrading/speedtrader-forex-platform/">SpeedTrader™</a></li>
+				<li class="bottom"><a href="/forex/manualforextrading/speedtrader-pro-forex-platform/">SpeedTrader Pro™</a></li>
+            		</ul>
+                </li>
+            </ul>
+        </li>
+  		<li><a href="forex/open-forex-live-account/">Open Live Trading Account</a></li>
+        <li><a href="forextrading/forex-demo-account/">Forex Demo Accounts<img src="../01-images/dropdown-arrow-right.png" class="rightarrowclass" style="border:0;"></a>
+        	<ul style="top: 0px; display: none; visibility: visible;">
+            	<li class="border-bottom: 1px solid #111;"><a href="forex/open-forex-demo-account/">MetaTrader 4 Demo</a></li>
+				<li class="border-bottom: 1px solid #111;"><a href="forex/open-speedtrader-demo-account/">SpeedTrader™ Demo</a></li>
+				<li class="border-bottom: 1px solid #111;"><a href="forex/open-mirrortrader-demo-account/">MirrorTrader Demo</a></li>
+				<li class="bottom"><a href="forex/open-zulutrade-demo-account/">ZuluTrade Demo</a></li>
+                <!--<li class="bottom"><a href="#">TFXVPS</a></li>-->
+            </ul>
+        </li>
+        <li><a href="forex/islamic-forex-trading-account/">Islamic Trading Account</a></li>
+        <li><a href="forex/deposit-forex-funds/">Deposit Funds</a></li>
+        <!--<li><a href="#">VPS Hosting</a></li>-->
+        <li><a href="javascript:void()">Metals<img src="../01-images/dropdown-arrow-right.png" class="rightarrowclass" style="border:0;"></a>
+        	<ul style="top: 0px; display: none; visibility: visible;">
+            	<li><a href="forex/forex-metals/spot-gold-forex/">Gold Trading</a></li>
+                <li class="bottom"><a href="forex/forex-metals/spot-silver-forex/">Silver Trading</a></li>
+            </ul>
+        </li>
+        <li><a href="javascript:void()">Manual Trading<img src="../01-images/dropdown-arrow-right.png" class="rightarrowclass" style="border:0;"></a>
+        	<ul style="top: 0px; display: none; visibility: visible;">
+            	<li><a href="forexplatforms/webtrader-platform/">WebTrader</a></li>
+				<li class="bottom"><a href="forex/manualforextrading/speedtrader-forex-platform/">SpeedTrader™</a></li>
+            </ul>
+        </li>
+        <li><a href="javascript:void()">Automated Trading<img src="../01-images/dropdown-arrow-right.png" class="rightarrowclass" style="border:0;"></a>
+        	<ul style="top: 0px; display: none; visibility: visible;">
+                <li><a href="forexplatforms/tradency-platform/">MirrorTrader</a></li>
+				<li><a href="forextrading/reflect-accounts/zulutrade-platform/">ZuluTrade</a></li>
+                <!--<li><a href="#">ZuluTrader</a></li>
+                <li class="bottom"><a href="#"></a></li>-->
+            </ul>
+        </li>
+		
+		<li><a href="javascript:void()">Tools<img src="../01-images/dropdown-arrow-right.png" class="rightarrowclass" style="border:0;"></a>
+        	<ul style="top: 0px; display: none; visibility: visible;">
+				<li><a href="#">MetaTrader 4<img src="../01-images/dropdown-arrow-right.png" class="rightarrowclass" style="border:0;"></a>
+                	<ul style="top: 0px; display: none; visibility: visible;">
+            			<li class="border-bottom"><a href="forextrading/depth-of-market/">One-Click+™</a></li>
+						<li class="borer-bottom"><a href="forexplatforms/webtrader-platform/">WebTrader</a></li>
+						<li class="bottom"><a href="forexplatforms/myfx-console/">MYFX</a></li>
+                		<!--<li class="bottom"><a href="#">ZuluTrader</a></li>-->
+            		</ul></li>
+            </ul>
+        </li>
+		
+        <li><a href="forextrading/forex-market-analysis/">Market Analysis</a>
+        	<!--<ul>
+        		<li class="bottom"><a href="#">EducateFX.com</a></li>
+            </ul>-->
+        </li>
+		
+        <li><a href="forextrading/forex-economic-calendar/">Economic Calendar</a></li>
+        <li class="bottom"><a href="javascript:void()">Trading Conditions<img src="../01-images/dropdown-arrow-right.png" class="rightarrowclass" style="border:0;"></a>
+        	<ul style="top: 0px; display: none; visibility: visible;">
+            	<li style="border-bottom: 1px solid #111;"><a href="forextrading/forex-spreads/">Forex Spreads</a></li>
+            	<li style="border-bottom: 1px solid #111;"><a href="forextrading/forex-swap-rates/">Swap Policy &amp; Rates</a></li>
+                <li class="bottom"><a href="forextrading/forex-instrument-list/">Currency Pairs</a></li>
+            </ul>
+        </li>
+   </ul>
+</li>
+<li>Platforms &nbsp; <img src="../01-images/dropdown-arrow.png" width="8" height="8">
+	<ul class="sub-tier" style="top: 49px; display: none; visibility: visible;">
+		<li><a href="javascript:void()">MetaTrader 4<img src="../01-images/dropdown-arrow-right.png" class="rightarrowclass" style="border:0;"></a>
+			<ul style="top: 0px; display: none; visibility: visible;">
+				<li><a href="forexplatforms/metatrader-4-basic-platform/">MetaTrader 4 Basic</a></li>
+				<li><a href="forexplatforms/metatrader-4-platform/">MetaTrader 4 Standard</a></li>
+				<li><a href="forexplatforms/metatrader-4-pro-platform/">MetaTrader 4 Pro</a></li>
+			</ul></li>
+		<li><a href="forexplatforms/metatrader-4-mobile-platform/">MetaTrader 4 Mobile<img src="../01-images/dropdown-arrow-right.png" class="rightarrowclass" style="border:0;"></a>
+		<ul style="top: 0px; display: none; visibility: visible;">
+		<li><a href="forexplatforms/MT4-iphone/">MT4 iPhone Trader</a></li>
+		<li><a href="forexplatforms/MT4-ipad/">MT4 iPad Trader</a></li>
+		<li><a href="forexplatforms/MT4-android/">MT4 Android Trader</a></li>
+		<li><a href="forexplatforms/MT4-blackberry/">MT4 Blackberry Trader</a></li>
+		<li><a href="forexplatforms/MT4-windows-phone/">MT4 Windows Trader</a></li>
+		<li><a href="forexplatforms/MT4-windows-device/">MT4 Windows PDA Trader</a></li>
+		</ul>
+		</li>
+		
+        <li><a href="forexplatforms/MT4-MAM/">MetaTrader 4 MAM</a></li>
+        <li><a href="forexplatforms/webtrader-platform/">WebTrader</a></li>
+        <!--<li><a href="#">SpeedTrader</a></li>
+        <li><a href="#"></a></li>
+        <li><a href="#">ZuluTrader</a></li>-->
+		<li><a href="javascript:void()">SpeedTrader™<img src="../01-images/dropdown-arrow-right.png" class="rightarrowclass" style="border:0;"></a>
+			<ul style="top: 0px; display: none; visibility: visible;">
+		<li><a href="forex/manualforextrading/speedtrader-forex-platform/">SpeedTrader™</a></li>
+		<li><a href="forex/manualforextrading/speedtrader-pro-forex-platform/">SpeedTrader Pro™</a></li>
+		</ul></li>
+        <li><a href="forexplatforms/tradency-platform/">MirrorTrader</a></li>
+		<li class="bottom"><a href="forextrading/reflect-accounts/zulutrade-platform/">ZuluTrade</a></li>
+  </ul>
+</li>
+<li>Institutional Partnerships &nbsp; <img src="../01-images/dropdown-arrow.png" width="8" height="8">
+  <ul class="sub-tier" style="top: 49px; display: none; visibility: visible;">
+  <li><a href="forexpartnerships/introducing-broker-program/">Introducing Broker Program</a></li>
+  <li><a href="forexpartnerships/money-manager-program/">Money Manager Program</a></li>
+  <li class="bottom"><a href="forexpartnerships/forex-white-label-program/">White Label Program</a></li>
+  </ul>
+</li>
+<li>Technology &nbsp; <img src="../01-images/dropdown-arrow.png" width="8" height="8">
+	<ul class="sub-tier" style="top: 49px; display: none; visibility: visible;">
+  		<!--<li><a href="#">Our VPS Technology</a></li>
+        <li><a href="#">Non-Dealing Desk Execution</a></li>-->
+        <!--<li><a href="#">Custom Expert Advisor</a></li>-->
+		<li><a href="forex/free-vps-server/">TFXVPS™</a></li>
+        <li><a href="forex/mt4-php-api/">MetaTrader API</a></li>
+  		<li class="bottom"><a href="forex/fix-api-integration/">FIX/API</a></li>
+  </ul>
+</li>
+<li>Education &nbsp; <img src="../01-images/dropdown-arrow.png" width="8" height="8">
+	<ul class="sub-tier" style="top: 49px; display: none; visibility: visible;">
+    	<li><a href="forexeducation/getting-started-in-forex/">Getting Started</a></li>
+        <li><a href="forexeducation/advantages-of-forex/">Advantages of Forex</a></li>
+        <li><a href="forexeducation/forex-video-tutorials/">Video Tutorials</a></li>
+        <li><a href="forexeducation/forex-webinars/">Weekly Webinars</a></li>
+        <li class="bottom"><a href="forexeducation/forex-automated-trading/">Automated Trading</a></li>
+        <!--<li class="bottom"><a href="#">Live Trading Workshop</a></li>-->
+    </ul>
+</li>
+<li>About ThinkForex &nbsp; <img src="../01-images/dropdown-arrow.png" width="8" height="8">
+	<ul class="sub-tier" style="top: 49px; display: none; visibility: visible;">
+    	<li><a href="regulation/">Security &amp; Compliance</a></li>
+        <li><a href="javascript:void()">Media Center<img src="../01-images/dropdown-arrow-right.png" class="rightarrowclass" style="border:0;"></a>
+        	<ul style="top: 0px; display: none; visibility: visible;">
+            	<!--<li><a href="#">Press Releases</a></li>-->
+                <li class="bottom"><a href="forexvideos/">Forex Videos</a></li>
+            </ul>
+        </li>
+		<li><a href="companynews/">Company News</a></li>
+                <!--<li class="bottom"><a href="#">2012</a></li>-->
+            
+        <li><a href="careers/">Careers</a></li>
+        <!--<li><a href="#">Contact ThinkForex NZ</a></li>-->
+        <li class="bottom"><a href="forex/forex-promotions/">Promotions</a></li>
+    </ul>
+</li>
+<li>Support &nbsp; <img src="../01-images/dropdown-arrow.png" width="8" height="8">
+	<ul class="sub-tier" style="top: 49px; display: none; visibility: visible;">
+    	<li><a href="http://support.thinkforex.com/" target="_blank">ThinkForex Knowledgebase</a></li>
+        <li><a href="forex/fxfaq/">FAQ</a></li>
+        <!--<li><a href="#">Forms</a></li>
+        <li><a href="#">IP Addresses</a></li>-->
+        <li><a href="contact-us/">Contact</a></li>
+        <!--<li><a href="#">Funding Your Account</a></li>-->
+        <li class="bottom"><a href="http://messenger.providesupport.com/messenger/thinkforex.html" onclick="NewWindow(this.href,'mywin','500','510','no','left');return false" onfocus="this.blur()">Live Chat</a></li>
 
+    </ul>
+</li>
+</ul>
+</div>
 <div id="body-bg">
 
 
-<!--wrapper for header background-->
-<div id="header-background">
-
 
 <!--wrapper for header-->
-<div style="width:960px;margin-right:auto;margin-left:auto;position:relative">
+<div id="header_container">
+
+<!--<div style="top:26px; float: left;"><a href="http://www.thinkforex.com/"><img src="02-slices/logo-header.png" alt="ThinkForex" width="263" height="63" border="0" /></a></div>-->
 
 
-
-<div id="nav-topright">
+<!--<div id="nav-topright">
 	<div id="lang-nav">
-    	<a href="http://www.thinkforex.com/"><img src="02-slices/lang-english.gif" alt="ENGLISH" width="81" height="12" border="0" style="margin-right:5px"></a>
-		<a href="http://www.thinkforex.com/cn/"><img src="02-slices/lang-chinese.gif" alt="CHINESE" width="48" height="12" border="0"></a>
+    	<a href="http://www.thinkforex.com/"><img src="02-slices/lang-english.gif" alt="ENGLISH" width="81" height="12" border="0" style="margin-right:5px"/></a>
+		<a href="http://www.thinkforex.com/cn/"><img src="02-slices/lang-chinese.gif" alt="CHINESE" width="48" height="12" border="0" /></a>
 		
 	</div>
 	<div id="login-nav">
@@ -340,16 +415,16 @@ win=window.open(mypage,myname,settings);}
         <a href="https://portal.thinkforex.com/login/" id="client-login"></a>
 	</div>
 <!--nav-topright-->
-	<div id="header_bottom_nav">
+	<!--<div id="header_bottom_nav">
 		<div id="header_social">
-        	<a href="http://twitter.com/thinkforex" target="_blank"><img src="02-slices/footer-twitter.gif" class="footer-logos" alt="ThinkForex Twitter" width="18" height="17" border="0"></a>
-			<a href="http://www.facebook.com/ThinkForex" target="_blank"><img src="02-slices/footer-facebook.gif" class="footer-logos" alt="ThinkForex Facebook" width="17" height="17" hspace="4" border="0"></a>
-			<a href="http://www.linkedin.com/company/forex-brokerage-firm" target="_blank"><img src="02-slices/footer-linkedin.gif" class="footer-logos" alt="ThinkForex Linked In" width="16" height="17" hspace="4" border="0"></a>
-            <a href="skype:thinkforex_info?call"><img src="02-slices/footer-skype.gif" class="footer-logos" style="margin-right: 0;" alt="ThinkForex Skype" width="16" height="17" hspace="4" border="0"></a>
+        	<a href="http://twitter.com/thinkforex" target="_blank"><img src="02-slices/footer-twitter.gif" class="footer-logos" alt="ThinkForex Twitter" width="18" height="17" border="0"/></a>
+			<a href="http://www.facebook.com/ThinkForex" target="_blank"><img src="02-slices/footer-facebook.gif" class="footer-logos" alt="ThinkForex Facebook" width="17" height="17" hspace="4" border="0" /></a>
+			<a href="http://www.linkedin.com/company/forex-brokerage-firm" target="_blank"><img src="02-slices/footer-linkedin.gif" class="footer-logos" alt="ThinkForex Linked In" width="16" height="17" hspace="4" border="0" /></a>
+            <a href="skype:thinkforex_info?call"><img src="02-slices/footer-skype.gif" class="footer-logos" style="margin-right: 0;" alt="ThinkForex Skype" width="16" height="17" hspace="4" border="0" /></a>
        </div>
 
 		<div id="small-nav">
-        	<a href="http://messenger.providesupport.com/messenger/thinkforex.html" onclick="NewWindow(this.href,'mywin','500','510','no','left');return false" onfocus="this.blur()">LIVE CHAT</a> &nbsp;|&nbsp;
+        	<a href="http://messenger.providesupport.com/messenger/thinkforex.html" onClick="NewWindow(this.href,'mywin','500','510','no','left');return false" onFocus="this.blur()">LIVE CHAT</a> &nbsp;|&nbsp;
         	<a href="forex/fxfaq/">FAQ</a> &nbsp;|&nbsp;
         	<a href="contact-us/">CONTACT</a> &nbsp;| 
         </div>
@@ -357,266 +432,55 @@ win=window.open(mypage,myname,settings);}
 </div>
 <!--nav-topright-->
 
+<a href="http://www.thinkforex.com/" style="outline: none;" id="main_logo"></a>
 
-
-
-
-
-
-
-
-<div style="position:absolute; top:26px; left:-3px"><a href="http://www.thinkforex.com/"><img src="02-slices/logo-header.png" alt="ThinkForex" width="263" height="63" border="0"></a></div>
-
-<!--wrapper for header-->
-</div>
-<!--wrapper for header-->
-
-
-
-<!--wrapper for header background-->
-</div>
-<!--wrapper for header background-->
-<div id="visual-portal-wrapper" class="fspArea">
-
-      <div id="portal-top">
-      
-      
-      <div id="nav-wrapper">
-      
-      
-        <div id="site-header-marker" class="fspArea">
-        
-
-    <div id="entHeader">
-    
-    
-      <!-- MEGASELECTOR : BEGIN ****************************************** -->
-                
-                <div id="megaselector">                
-              
-                  
-
-		        <div class="body">
-
-                                    
-			<div id="megatab-client-services" class="tab first inactive " style="width: 157px; margin-right: 0px; margin-left: 0px;">
-			<div class="inner first">
-			<span>ACCOUNTS<img src="02-slices/nav-arrow-down.png" width="6" height="5" border="0" alt="."></span>
-			</div>
-			</div>
-            
-            
-           
-            
-            
-            <div id="megatab-trading" class="tab inactive" style="width:160px">
-                 <div class="inner">
-                 <span>FOREX TRADING<img src="02-slices/nav-arrow-down.png" width="6" height="5" border="0" alt="."></span>
-                 </div>
-            </div>
-            
-            
-            
-            
-           <div id="megatab-platforms" class="tab inactive" style="width:160px">
-           		<div class="inner">
-           		<span>PLATFORMS<img src="02-slices/nav-arrow-down.png" width="6" height="5" border="0" alt="."></span>
-           </div>
-           </div>
-           
-           
-           
-           
-           <div id="megatab-partnerships" class="tab inactive inactive" style="width:160px">
-           		<div class="inner">
-           		<span>PARTNERSHIPS<img src="02-slices/nav-arrow-down.png" width="6" height="5" border="0" alt="."></span>
-           </div>
-           </div>
-           
-           
-
-                                    
-                                    
-<div id="megatab-fx-university" class="tab inactive" style="width:160px">
-                  		<div class="inner">
-                  		<span>FX UNIVERSITY<img src="02-slices/nav-arrow-down.png" width="6" height="5" border="0" alt="."></span>
-                  </div>
-                  </div>
-                                    
-                                    
-
-            
-            <div id="megatab-about-thinkforex" class="tab active" style="width:161px">
-            <div class="inner">
-            <span>ABOUT THINKFOREX<img src="02-slices/nav-arrow-down.png" width="6" height="5" border="0" alt="."></span>
-            </div>
-            </div>
-                     
-                     
-            <div class="tab-end inactive" style="width:1px;margin-right:0px">
-            <div class="inner">
-            &nbsp;
-            </div>
-            </div>               
-                                    
-
-                  </div>
-                        <!--<div class="rightEnd"></div> This is if you wanted a rounded corner-->
-                    
-      </div>
-
-
-        <!-- MEGASELECTOR : FINISH ***************************************** -->
-
+<div id="header_right">
+	
+	<div id="header_login">
+   	  <div id="header_login_client"> <a href="https://portal.thinkforex.com/login/" style="outline: none;"> <img src="../01-images/slider/cta-btn.png" width="12" height="12" border="0"> &nbsp;&nbsp;CLIENT LOGIN</a></div>
+        <div id="header_login_web"><a href="webtrader/" style="outline: none;"> <img src="../01-images/slider/cta-btn.png" width="12" height="12" border="0"> &nbsp;&nbsp; WEBTRADER LOGIN</a></div>
     </div>
-
+    <div id="header_nav_min">
+		<!--<a href="forex/open-forex-live-account/">Open Live Account</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="forex/open-forex-demo-account/">Open Demo Account</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="forex/deposit-forex-funds/">Deposit Funds</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://messenger.providesupport.com/messenger/thinkforex.html" onclick="NewWindow(this.href,'mywin','500','510','no','left');return false" onfocus="this.blur()">Live Chat</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="forex/fxfaq/">FAQ</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="contact-us/">Contact</a> -->
+		<a href="forex/open-forex-live-account/">Open Live Account</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="forex/open-forex-demo-account/">Open Demo Account</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="forex/deposit-forex-funds/">Deposit Funds</a> &nbsp;&nbsp;|
+		
+		 &nbsp;&nbsp; <a href="http://messenger.providesupport.com/messenger/thinkforex.html" onclick="NewWindow(this.href,'mywin','500','510','no','left');return false" onfocus="this.blur()">Live Chat</a> &nbsp;&nbsp;| 
+				
+		&nbsp;&nbsp; <a href="forex/fxfaq/">FAQ</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="contact-us/">Contact</a>
+        <div style="padding: 15px 0 10px 0; clear: both; dispaly: block;">
+        <table cellpadding="0" cellspacing="0" align="right">
+        <tbody><tr>
+        	<td valign="middle">
+   	  		Language: &nbsp;&nbsp;
+            </td>
+            <td valign="top">
+            <a href="https://thinkforex.com" style="outline: none;"><img src="../02-slices/language_english.png" width="30" height="20" title="English" border="0"></a> &nbsp;
+            </td>
+            <td valign="top">
+            <a href="http://thinkforexasia.com" style="outline: none;"><img src="../02-slices/language_chinese.png" width="30" height="20" title="Chinese" border="0"></a>
+            </td>
+            </tr>
+            </tbody></table>
+            </div>
+    </div>
+	
+   
+  
+    
 </div>
 
-        <!--end of nav-wrapper-->
-        </div>
-        <!--end of nav-wrapper-->
 
 
 
-
-
-
-            <div class="megadrop" style="display: block;">
-            
-          <!-- ***MEGASELECTOR : CLIENT SERVICES*** -->
-          <div class="megadropWrap" id="megawrap-client-services"> 
-                
-                    
-              <div>
-              <ul>
-                                <li class="depth1"><!--add class "first" and change to  "depth1" to set this link to the left like a category headeing-->
-                                        <a href="forex/open-forex-live-account/">Open Live Account</a> &nbsp; | &nbsp; <a href="forex/open-forex-demo-account/">Open Demo Account</a> &nbsp; | &nbsp; <a href="forex/deposit-forex-funds/">Deposit Funds</a> &nbsp; | &nbsp; <a href="forex/islamic-forex-trading-account/">Islamic Forex Trading</a> &nbsp; | &nbsp; <a href="forex/free-vps-server/">VPS Hosting</a> &nbsp; | &nbsp; <a href="forex/mt4-php-api/">MT4 PHP API</a> &nbsp; | &nbsp; <a href="forex/fix-api-integration/">FIX API Integration</a> &nbsp; | &nbsp;  <a href="forex/forex-promotions/">Promotions</a>
-                                </li>
-                            
-                </ul>
-                </div>
-                    
-          <div class="clear"></div>
-              </div>
-              
-              
-              
-                
-                <!-- ***MEGASELECTOR : TRADING*** -->
-                <div class="megadropWrap" id="megawrap-trading">
-
-              <div>
-              <ul>
-                                <li class="depth1"><!--add class "first" and change to  "depth1" to set this link to the left like a category headeing-->
-                                        <a href="forextrading/forex-account-types/">Account Types</a> &nbsp; | &nbsp; <a href="forextrading/forex-spreads/">Spreads</a> &nbsp; | <!--&nbsp; <a href="forextrading/forex-execution/">Execution</a> &nbsp; | &nbsp; <a href="forextrading/forex-margin-and-leverage/">Margin and Leverage</a> &nbsp; | -->&nbsp; <a href="forextrading/forex-swap-rates/">Swap Rates</a> &nbsp; | &nbsp; <a href="forextrading/forex-instrument-list/">Instrument List</a>&nbsp; | &nbsp; <a href="forextrading/forex-market-analysis/">Market Analysis</a>&nbsp; | &nbsp; <a href="forextrading/forex-economic-calendar/">Economic Calendar</a>&nbsp; | &nbsp; <a href="forextrading/custom-expert-advisor/">Custom Expert Advisor</a>
-                                </li>
-                            
-                </ul>
-                </div>
-
-
-                    <div class="clear"></div>
-                </div>
-               
-               
-               
-               
-<!-- ***MEGASELECTOR : PLATFORMS*** -->
-                <div class="megadropWrap" id="megawrap-platforms">
-                
-                <div>
-                <ul>
-                                <li class="depth1"><!--add class "first" and change to  "depth1" to set this link to the left like a category headeing-->
-                                        <a href="forexplatforms/metatrader-4-platform/">Metatrader 4</a> &nbsp; | &nbsp; <a href="forexplatforms/metatrader-4-mobile-platform/">MT4 Mobile</a>  &nbsp; | &nbsp; <a href="forexplatforms/speedtrader-currenex-platform/">SpeedTrader by Currenex</a>  &nbsp; | &nbsp; <a href="forexplatforms/MT4-multi-terminal/">MT4 Multi-Terminal</a> &nbsp; | &nbsp; <a href="forexplatforms/webtrader-platform/">Web Trader</a> &nbsp; | &nbsp; <a href="forexplatforms/myfx-console/">MYFX</a>
-                                </li>
-                            
-                </ul>
-                </div>
-
-
-                <div class="clear"></div>
-                </div>               
-               
-               
-               
-               
-                               <!-- ***MEGASELECTOR : PARTNERSHIOPS*** -->
-                <div class="megadropWrap" id="megawrap-partnerships">
-                <div>
-                <ul>
-                                <li class="depth1"><!--add class "first" and change to  "depth1" to set this link to the left like a category headeing-->
-                                        <a href="forexpartnerships/introducing-broker-program/">Introducing Broker Program</a> &nbsp; | &nbsp; <a href="forexpartnerships/money-manager-program/">Money Manager Program</a>  &nbsp; | &nbsp; <a href="forexpartnerships/forex-white-label-program/">White Label Program</a>  &nbsp; <!-- | &nbsp; <a href="forexrepresentative/">Forex Representative Office</a>-->
-                                </li>
-                            
-                </ul>
-                </div>
-
-
-                <div class="clear"></div>
-                </div>
-               
-               
-                
-                
-                
-                
-                <!-- ***MEGASELECTOR : FX UNIVERSITY*** -->
-                <div class="megadropWrap" id="megawrap-fx-university">
-                <div>
-                <ul>
-                                <li class="depth1"><!--add class "first" and change to  "depth1" to set this link to the left like a category headeing-->
-                                        <a href="forexeducation/getting-started-in-forex/">Getting Started</a> &nbsp; | &nbsp; <a href="forexeducation/advantages-of-forex/">Advantages of Forex</a> &nbsp; | &nbsp; <a href="forexeducation/forex-video-tutorials/">Video Tutorials</a> &nbsp; | &nbsp; <a href="forexeducation/forex-webinars/">Weekly Webinars</a>  &nbsp; | &nbsp; <a href="forexeducation/forex-automated-trading/">Automated Trading</a> <!--&nbsp; | &nbsp; <a href="forexeducation/forex-quizzes/">Forex Quizes</a>-->
-                                </li>
-                            
-                </ul>
-                </div>
-
-
-                <div class="clear"></div>
-                </div>
-                
-                
-                
-                
-                <!-- ***MEGASELECTOR : ABOUT THINKFOREX*** -->
-                <div class="megadropWrap" id="megawrap-about-thinkforex" style="display: block;">
-                <div>
-                <ul>
-                                <li class="depth1"><!--add class "first" and change to  "depth1" to set this link to the left like a category headeing-->
-                                        <a href="missionstatement/">Mission Statement</a> &nbsp; | &nbsp; <a href="companynews/">Company News</a> &nbsp; | &nbsp; 
-                                        <a href="ourtechnology/">Our Technology</a>  &nbsp; | <!--&nbsp; <a href="businesscontinuity/">Business Continuity Plan</a>  &nbsp; | !-->&nbsp; <a href="careers/">Careers</a>  &nbsp; | &nbsp; <a href="regulation/">Regulation and Disclosures</a>
-                                </li>
-                            
-                </ul>
-                </div>
-
-
-                <div class="clear"></div>
-                </div>
-                
-                
-                
-                
-                <!--<div class="megacloseWrap">
-                    <span class="megaclose" onclick="setActiveMegaSelector()">
-                        <img src="04-scripts/mega_close.png" alt="Close menu button" />
-                        <span class="megacloseText">Close Menu</span>
-                    </span>
-                </div>-->
-                
-                
-                
-        </div>
 </div>
-
-<!--****end of nav and header section****-->
-<div class="clear"><!-- --></div></div>
-<!--****end of nav and header section****-->
+<!--wrapper for header-->
 
 
 
-<div id="light-grey">
-<img src="01-images/spacer-blank.gif" width="10" height="10" border="0">
+
+
+
+<div id="top_shadow">
 
 
 
@@ -632,77 +496,37 @@ win=window.open(mypage,myname,settings);}
 <!--****start of actual content****-->
 
 
-<div class="content-left-subpages">  <h1>ThinkForex - Privacy Policy</h1>
-			
-			
-			
-			
-			
+<div class="content-left-subpages">  
+	  
+	  
+	  
+	  <div class="bodycopy"> <h1>ThinkForex - Privacy Policy</h1>
 
-			
-			<h2>
-			<!--[if lte IE 7]><br/>
-			<![endif]-->
-			</h2>
+<p>At ThinkForex, protecting the privacy and safeguarding the personal and financial information of our clients and website visitors is one of our highest priorities. ThinkForex employs leading security software, systems, and procedures to offer our clients a safe and secure trading environment, while protecting your personal, financial, and trading information. The following statement explains how ThinkForex collects and protects your information. By opening a ThinkForex account or by using ThinkForex.com and its related website(s), you give your consent to the collection of personal information by ThinkForex as outlined in this privacy statement.</p>
+
+<h2>The Collection of Personal Information</h2>
+<p>ThinkForex collections information required to open an account, transact business effectively, and to safeguard your privacy. To do this, ThinkForex gathers information to help us assess your needs and gauge your preferences. The information ThinkForex collects directly from you is required to communicate with you, including your name, mailing address, telephone number, email address; and as required by law, valid credentials to verify your identity such as a passport, government issued ID, and address verification documents. ThinkForex also collects demographic information that our clients supply upon initiating a ThinkForex account including gender, date of birth, level of education, and occupation, among others.
+</p>
+
+<p>
+You voluntarily provide ThinkForex with the majority of the information that we collect whenever you complete an account application with the related documentation, place a trade, send ThinkForex an email, or submit information in response to a promotion/special offer. Other ways ThinkForex obtains information is by (1) observing your usage of ThinkForex.com, and (2) providing products and services to you. This information enables ThinkForex to offer you products and services that should be of interest to you. The information ThinkForex collects indirectly from our clients includes your Internet Protocol (IP) address, browser type, operating system, Internet Service Provider (ISP), time stamps, transactions placed, and banner ads you may click. ThinkForex does this through the use of cookies, which are small text files sent from the web server to your computer. Cookies help ThinkForex to get to know you better by providing operational data ThinkForex used to aid in your interaction with ThinkForex.com, by improving navigation and usability. Additionally, to administer and improve ThinkForex.com, we may also use a third party to track and analyze usage and volume statistical information such as page requests, form requests, and click paths. The third party may use cookies to track behavior and may set cookies on behalf of ThinkForex.com. These cookies do not contain any personally identifiable information.
+</p>
+
+<h2>The Usage of Your Personal Information</h2>
+<p>ThinkForex only uses your personal information appropriately to provide you with quality service and security. When you open an account with ThinkForex, you are issued a unique account number, User ID and password. There are only a limited number of ThinkForex employees who have a need to know your account information, and we urge that you not disclose this information. Should you close your ThinkForex account, we will retain your information, but only use it comply with regulatory requirements, and to periodically contact you to offer you the opportunity to reactivate your account or to participate in other valuable offers. ThinkForex does not sell, license, lease or otherwise disclose your personal information to any third-party, for any reason, except as already expressed.</p>
+
+<h2>Opt-Out Information</h2>
+<p>You have the right to request a copy of the data that ThinkForex collects about you, and to have any inaccurate data about you corrected. For assistance, please contact our <a href="mailto:compliance@thinkforex.com"> Compliance </a> department. You are not necessarily required to supply any of the personal information that ThinkForex may request; however, failure to do so may result in ThinkForex not being able to open or maintain your client account.</p>
+
+<p>You may opt-out of promotional emails from ThinkForex by contacting the <a href="mailto:compliance@thinkforex.com"> Compliance </a> department with your opt-out request, and your email address will then be removed from future promotional emails. ThinkForex may also provide a third-party with client information from our internal database to help us to analyze and identify client needs, and to notify our clients of product and service offerings. Use of the information shared is strictly limited to the performance of the task requested, and for no other purpose. All third parties with which we share personal information are required to protect personal information in a manner similar to the way ThinkForex protects personal information. You may direct ThinkForex not to disclose non-public personal information to certain non-affiliated third parties by contacting a client service representative. An opt-out election made by one account holder of a joint account is applicable to all of the account holders, but opt-out elections must be made for each account that you hold with ThinkForex.</p>
+
+<p>ThinkForex may share ThinkForex.com usage information about our website visitors to reputable advertising companies to target our internet banner advertisements on ThinkForex.com and other sites. For this purpose, pixel tags (also called clear gifs or web beacons) may be used to note the pages you have visited, and the information collected by the advertising company through the use of these pixel tags is not personally identifiable.</p>
+
+<p>ThinkForex is not responsible for the privacy policies or the content of sites that ThinkForex.com may link to, and therefore, have no control over the use or protection of information provided by you or collected by those sites. Whenever you elect to link to a co-branded or linked website, you may be asked to provide registration or other information. Please note that the information you are providing is going to a third party and you should familiarize yourself with the privacy policy provided by therein.</p>
+
+<p>If ThinkForex proposes to share information in a manner not covered in this Privacy Statement, we will notify you of this change by posting an addendum on ThinkForex.com as a notice in the "About Us" section, and if appropriate, provide you an opportunity to opt out of such use. You agree to accept posting of a revised Privacy Statement electronically on ThinkForex.com as actual notice to you. Any dispute over our Privacy Statement is subject to this notice and the ThinkForex <a href="/live/individual_contract.php">Trading Agreement</a>. If you still have questions that this statement does not address, feel free to contact a client services representative. </p></div>
 	  
-	  		<div class="bodycopy">Protecting the privacy and safeguarding the personal and financial information of our clients and website visitors is one of our highest priorities. The following Privacy Statement explains how ThinkForex.com collects and protects your information.By opening a ThinkForex.com or by using ThinkForex.com sites, you give your consent to the collection and use of personal information by ThinkForex.com as explained in this privacy statement.<br>
-<br>
-Collection of personal information We collect information required to open an account, to transact business effectively and to safeguard your privacy. To do this, we gather information to help us assess your needs and preferences.<br>
-<br>
-The information we collect directly from you includes information required to communicate with you, including your name, mailing address, telephone number, e-mail address; and, as required by law, to identify who you are, including Passport , ID number , Address, etc. We also collect demographic information when you open an account, including gender, birth date, education, occupation, etc. <br>
-<br>
-You directly provide to us the majority of information we collect. You do this by completing the account application and related documentation, placing a trade, sending us an e-mail, or submitting information in response to a promotion or special offer. Other ways we obtain information are by (1) observing your usage of the Web site, and (2) providing products and services to you. This information enables us to offer you products and services that should be of interest to you.The information we collect indirectly from you includes your Internet Protocol (IP) address, browser type, operating system, Internet Service Provider (ISP), time stamps, transactions placed, and banner ads you click. We do this through the use of cookies, which are small text files sent from the Web server to your computer. Cookies help us to know you better by providing operational data we can use to aid your interaction with our Web site and improve its navigation and usability.<br>
-<br>
-Usage of personal information We use personal information only as appropriate to provide you quality service and security. For example, ThinkForex.com may use the information collected from you to verify your identity and contact information. We may also use this information to establish and set up your trading account, issue an account number and a secure password, maintain your account activity, and contact you with account information. This information helps us improve our services to you, customize your browsing experience and inform you about additional products, services or promotions that may be of interest to you.<br>
-<br>
-Should you close your account with us, ThinkForex.com will retain your information, but only use it to comply with regulatory requirements and to periodically contact you to offer you the opportunity to reactivate your account or participate in other valuable offers.<br>
-Non-affiliated third parties ThinkForex.com does not sell, license, lease or otherwise disclose your personal information to any third party for any reason, except as described below.<br>
-<br>
-ThinkForex.com reserves the right to disclose your personal information to third parties where required by law to regulatory, law enforcement or other government authorities.</div>
 	  
-	  
-			  
-		  
-		  <div class="hr-dots-black2"></div>
-		  
-		  <h2>Opt-Out Information</h2>
-		  
-		  <div class="bodycopy">Access to the Personal Data we may hold about you. You have the right to request a copy of the data we hold about you and to have any inaccurate data about you corrected. For more information, please send an email to compliance@thinkforex.com<br>
-<br>
-Opt Out. You are not required to supply any of the personal information that we may request. However, failure to do so may result in ThinkForex not being able to open or maintain your account .<br>
-<br>
-Email Opt Out : You may opt out of Promotional email from ThinkForex by sending a email to compliance@thinkforex.com<br>
-with the subject line "OPT OUT" .Your email address will be removed from future promotional emails. <br>
-<br>
-To help us improve our services to you, we may engage another business to help us to carry out certain internal functions such as account processing, fulfillment, client service, client satisfaction surveys or other data collection activities relevant to our business. We may also provide a party with client information from our database to help us to analyze and identify client needs and notify clients of product and service offerings. Use of the information shared is strictly limited to the performance of the task we request and for no other purpose. All third parties with which we share personal information are required to protect personal information in a manner similar to the way we protect personal information. Examples of information shared are identifying information such as name, mailing address, e-mail address, telephone number, and information on account activity.<br>
-<br>
-We are not responsible for the privacy policies or the content of sites we link to and have no control of the use or protection of information provided by you or collected by those sites. Whenever you elect to link to a co-branded Web site or to a linked Web site, you may be asked to provide registration or other information. Please note that the information you are providing is going to a third party, and you should familiarize yourself with the privacy policy provided by that third party.<br>
-<br>
-Opting out of disclosures of non-public personal information You may direct us not to disclose non-public personal information to certain non-affiliated third parties. To opt out of sharing non-public personal information with non-affiliated third parties, please contact a client service representative. An opt out election made by one account owner of a Joint account is applicable to all account owners of the Joint account. An opt-out election must be made for each separate account you hold at ThinkForex.com.<br>
-<br>
-If we propose to share information in a manner not covered in this Privacy Statement, we will notify you of this change by posting an addendum on the Web site, a notice in the "About Us" section of the Web site, and if appropriate, provide you an opportunity to opt out of such use.<br>
-<br>
-The security of your personal information We employ leading-edge security software, systems, and procedures to offer you a safe and secure trading environment and protect your personal, financial and trading information.<br>
-<br>
-When you open an account with us, you are issued a unique account number, User ID and a password. Only a limited number of ThinkForex.com's employees who have a need to know this information will have access to your account number, UserID, and password. Remember: you are ultimately responsible for maintaining the secrecy of your account number, UserID, and password. We strongly recommend that you do not disclose this information.<br>
-<br>
-Use of "cookies" We use cookies to assist us in securing your trading activities and to enhance the performance of our Web site. (Cookies are small text files sent from the Web server to your computer.) Cookies used by ThinkForex.com do not contain any personal information nor do they contain account or password information. They merely allow the site to recognize that a page request comes from someone who has already logged on.<br>
-<br>
-ThinkForex.com may share Web site usage information about visitors to the Web site with reputable advertising companies for targeting our Internet banner advertisements on this site and other sites. For this purpose, pixel tags (also called clear gifs or web beacons) may be used to note the pages you've visited. The information collected by the advertising company through the use of these pixel tags is not personally identifiable.<br>
-<br>
-To administer and improve the ThinkForex.com Web site, we may use a third party to track and analyze usage and volume statistical information, including page requests, form requests, and click paths. The third party may use cookies to track behavior and may set cookies on behalf of ThinkForex.com. These cookies do not contain any personally identifiable information.</div>
-		  
-		  
-		  
-		  
-		  <div class="hr-dots-black2"></div>
-		  
-		  <h2>Changes to Privacy Statement</h2>
-		  
-		  <div class="bodycopy">In the event ThinkForex.com materially changes this Privacy Statement, the revised Privacy Statement will promptly be posted to the Web sites and we will post a notice on our Web sites informing you of such changes. You agree to accept posting of a revised Privacy Statement electronically on the Web site as actual notice to you. Any dispute over our Privacy Statement is subject to this notice and the ThinkForex.com Customer Agreement. If you have any questions that this statement does not address, please contact a Client Services representative.</div>
-	
-		  
-		  
 
 <!--****end of content-left****-->
 </div>
@@ -711,418 +535,212 @@ To administer and improve the ThinkForex.com Web site, we may use a third party 
 
 
 
-<div class="content-right"><div id="quick-signup">
-<img src="02-slices/form-header-getstartednow.gif" width="300" height="49" alt="GET STARTED NOW!"><br>
+<div class="content-right"><div id="quick-signup" style="width: 300px; height: 400px; background-image:url(../01-images/get_started_widget.png); background-repeat:no-repeat; position: relative;">
 
 
-<div style="margin-right:15px;margin-left:15px">
+
+<div style="margin-right:15px;margin-left:15px; padding-top: 100px;">
 
 <form name="sfform" action="#" id="quick_signup_form" method="post">
 
-<input name="account_type" type="radio" checked="checked" value="LIVE ACCOUNT">
-<span style="margin-left:4px;margin-right:16px">LIVE ACCOUNT</span>
+<input class="radio_btn" name="account_type" type="radio" checked="checked" value="LIVE ACCOUNT">
+<span style="margin-left:4px;margin-right:16px; line-height: 18px;">LIVE ACCOUNT</span>
 
-<input name="account_type" type="radio" value="DEMO ACCOUNT">
+<input class="radio_btn" name="account_type" type="radio" value="DEMO ACCOUNT">
 <span style="margin-left:4px">DEMO ACCOUNT</span>
 
 <input title="First Name" id="first_name" name="primary_first_name" maxlength="40" type="text" value="First Name" class="halfwidth required">
 <input title="Last Name" id="last_name" name="primary_last_name" maxlength="80" type="text" value="Last Name" class="halfwidth required" style="float:right">
 <select title="" name="primary_citizenship" id="country" class="fullwidth required">
 	<option value="" selected="selected">Select Country</option>
-						<option value="Albania">Albania</option> 
-
-                        <option value="Algeria">Algeria</option> 
-
-                        <option value="Andorra">Andorra</option> 
-
-                        <option value="Angola">Angola</option> 
-
-                        <option value="Anguilla">Anguilla</option> 
-
-                        <option value="Antigua Barbuda">Antigua Barbuda</option> 
-
-                        <option value="Argentina">Argentina</option> 
-
-                        <option value="Aruba">Aruba</option> 
-
-                        <option value="Australia">Australia</option> 
-
-                        <option value="Austria">Austria</option> 
-
-                        <option value="Azerbaijan">Azerbaijan</option> 
-
-                        <option value="Bahamas">Bahamas</option> 
-
-                        <option value="Bahrain">Bahrain</option> 
-
-                        <option value="Bangladesh">Bangladesh</option> 
-
-                        <option value="Barbados">Barbados</option> 
-
-                        <option value="Belarus">Belarus</option> 
-
-                        <option value="Belgium">Belgium</option> 
-
-                        <option value="Belize">Belize</option> 
-
-                        <option value="Benin">Benin</option> 
-
-                        <option value="Bermuda">Bermuda</option> 
-
-                        <option value="Bhutan">Bhutan</option> 
-
-                        <option value="Bolivia">Bolivia</option> 
-
-                        <option value="Bosnia-Herzegovina">Bosnia-Herzegovina</option> 
-
-                        <option value="Botswana">Botswana</option> 
-
-                        <option value="Brazil">Brazil</option> 
-
-                        <option value="British Virgin Islands">British Virgin Islands</option> 
-
-                        <option value="Brunei">Brunei</option> 
-
-                        <option value="Bulgaria">Bulgaria</option> 
-
-                        <option value="Burkina">Burkina</option> 
-
-                        <option value="Burkina Faso">Burkina Faso</option> 
-
-                        <option value="Burundi">Burundi</option> 
-
-                        <option value="Cambodia">Cambodia</option> 
-
-                        <option value="Cameroon">Cameroon</option> 
-
-                        <option value="Canada">Canada</option> 
-
-                        <option value="Cape Verde">Cape Verde</option> 
-
-                        <option value="Cayman Islands">Cayman Islands</option> 
-
-                        <option value="Chad">Chad</option> 
-
-                        <option value="Chile">Chile</option> 
-
-                        <option value="China">China</option> 
-
-                        <option value="Colombia">Colombia</option> 
-
-                        <option value="Comoros">Comoros</option> 
-
-                        <option value="Costa Rica">Costa Rica</option> 
-
-                        <option value="Croatia">Croatia</option> 
-
-                        <option value="Cyprus">Cyprus</option> 
-
-                        <option value="Czech Republic">Czech Republic</option> 
-
-                        <option value="Denmark">Denmark</option> 
-
-                        <option value="Djibouti">Djibouti</option> 
-
-                        <option value="Dominica">Dominica</option> 
-
-                        <option value="Dominican Republic">Dominican Republic</option> 
-
-                        <option value="Ecuador">Ecuador</option> 
-
-                        <option value="Egypt">Egypt</option> 
-
-                        <option value="El Salvador">El Salvador</option> 
-
-                        <option value="Equatorial Guinea">Equatorial Guinea</option> 
-
-                        <option value="Eritrea">Eritrea</option> 
-
-                        <option value="Estonia">Estonia</option> 
-
-                        <option value="Ethiopia">Ethiopia</option> 
-
-                        <option value="Falkland Islands">Falkland Islands</option> 
-
-                        <option value="Faroe Islands">Faroe Islands</option> 
-
-                        <option value="Fiji">Fiji</option> 
-
-                        <option value="Finland">Finland</option> 
-
-                        <option value="France">France</option> 
-
-                        <option value="French Polynesia">French Polynesia</option> 
-
-                        <option value="Gabon">Gabon</option> 
-
-                        <option value="Germany">Germany</option> 
-
-                        <option value="Ghana">Ghana</option> 
-
-                        <option value="Gibraltar">Gibraltar</option> 
-
-                        <option value="Greece">Greece</option> 
-
-                        <option value="Grenada">Grenada</option> 
-
-                        <option value="Guam">Guam</option> 
-
-                        <option value="Guatemala">Guatemala</option> 
-
-                        <option value="Guinea">Guinea</option> 
-
-                        <option value="Guinea-Bissau">Guinea-Bissau</option> 
-
-                        <option value="Guyana">Guyana</option> 
-
-                        <option value="Haiti">Haiti</option> 
-
-                        <option value="Honduras">Honduras</option> 
-
-                        <option value="Hong Kong">Hong Kong</option> 
-
-                        <option value="Hungary">Hungary</option> 
-
-                        <option value="Iceland">Iceland</option> 
-
-                        <option value="India">India</option> 
-
-                        <option value="Indonesia">Indonesia</option> 
-
-                        <option value="Ireland">Ireland</option> 
-
-                        <option value="Israel">Israel</option> 
-
-                        <option value="Italy">Italy</option> 
-
-                        <option value="Jamaica">Jamaica</option> 
-
-                        <option value="Japan">Japan</option> 
-
-                        <option value="Jordan">Jordan</option> 
-
-                        <option value="Kazakstan">Kazakstan</option> 
-
-                        <option value="Kenya">Kenya</option> 
-
-                        <option value="Kiribati">Kiribati</option> 
-
-                        <option value="Kuwait">Kuwait</option> 
-
-                        <option value="Kyrgyzstan">Kyrgyzstan</option> 
-
-                        <option value="Laos">Laos</option> 
-
-                        <option value="Latvia">Latvia</option> 
-
-                        <option value="Lebanon">Lebanon</option> 
-
-                        <option value="Lesotho">Lesotho</option> 
-
-                        <option value="Liechtenstein">Liechtenstein</option> 
-
-                        <option value="Lithuania">Lithuania</option> 
-
-                        <option value="Luxembourg">Luxembourg</option> 
-
-                        <option value="Macedonia">Macedonia</option> 
-
-                        <option value="Madagascar">Madagascar</option> 
-
-                        <option value="Malawi">Malawi</option> 
-
-                        <option value="Malaysia">Malaysia</option> 
-
-                        <option value="Maldives">Maldives</option> 
-
-                        <option value="Mali">Mali</option> 
-
-                        <option value="Malta">Malta</option> 
-
-                        <option value="Marshall Islands">Marshall Islands</option> 
-
-                        <option value="Mauritania">Mauritania</option> 
-
-                        <option value="Mauritius">Mauritius</option> 
-
-                        <option value="Mexico">Mexico</option> 
-
-                        <option value="Micronesia">Micronesia</option> 
-
-                        <option value="Monaco">Monaco</option> 
-
-                        <option value="Mongolia">Mongolia</option> 
-
-                        <option value="Montenegro">Montenegro</option> 
-
-                        <option value="Montserrat">Montserrat</option> 
-
-                        <option value="Morocco">Morocco</option> 
-
-                        <option value="Mozambique">Mozambique</option> 
-
-                        <option value="Namibia">Namibia</option> 
-
-                        <option value="Nauru">Nauru</option> 
-
-                        <option value="Nepal">Nepal</option> 
-
-                        <option value="Netherlands">Netherlands</option> 
-
-                        <option value="Netherlands Antilles">Netherlands Antilles</option> 
-
-                        <option value="New Zealand">New Zealand</option> 
-
-                        <option value="Nicaragua">Nicaragua</option> 
-
-                        <option value="Niger">Niger</option> 
-
-                        <option value="Nigeria">Nigeria</option> 
-
-                        <option value="Northern Mariana Islands">Northern Mariana Islands</option> 
-
-                        <option value="Norway">Norway</option> 
-
-                        <option value="Oman">Oman</option> 
-
-                        <option value="Pakistan">Pakistan</option> 
-
-                        <option value="Palua">Palua</option> 
-
-                        <option value="Panama">Panama</option> 
-
-                        <option value="Papua New Guinea">Papua New Guinea</option> 
-
-                        <option value="Paraguay">Paraguay</option> 
-
-                        <option value="Peru">Peru</option> 
-
-                        <option value="Philippines">Philippines</option> 
-
-                        <option value="Pitcairn Island">Pitcairn Island</option> 
-
-                        <option value="Poland">Poland</option> 
-
-                        <option value="Portugal">Portugal</option> 
-
-                        <option value="Puerto Rico">Puerto Rico</option> 
-
-                        <option value="Qatar">Qatar</option> 
-
-                        <option value="Romania">Romania</option> 
-
-                        <option value="Russia">Russia</option> 
-
-                        <option value="Rwanda">Rwanda</option> 
-
-                        <option value="Samoa">Samoa</option> 
-
-                        <option value="San Marino">San Marino</option> 
-
-                        <option value="Sao Tome and Principe">Sao Tome and Principe</option> 
-
-                        <option value="Saudi Arabia">Saudi Arabia</option> 
-
-                        <option value="Senegal">Senegal</option> 
-
-                        <option value="Serbia">Serbia</option> 
-
-                        <option value="Seychelles">Seychelles</option> 
-
-                        <option value="Sierra Leone">Sierra Leone</option> 
-
-                        <option value="Singapore">Singapore</option> 
-
-                        <option value="Slovakia">Slovakia</option> 
-
-                        <option value="Slovenia">Slovenia</option> 
-
-                        <option value="Solomon Islands">Solomon Islands</option> 
-
-                        <option value="South Africa">South Africa</option> 
-
-                        <option value="South Georgia">South Georgia</option> 
-
-                        <option value="South Korea">South Korea</option> 
-
-                        <option value="Spain">Spain</option> 
-
-                        <option value="Sri Lanka">Sri Lanka</option> 
-
-                        <option value="St Helena">St Helena</option> 
-
-                        <option value="St Kitts Nevis">St Kitts Nevis</option> 
-
-                        <option value="St Lucia">St Lucia</option> 
-
-                        <option value="St Vincent The Grenadines">St Vincent The Grenadines</option> 
-
-                        <option value="Suriname">Suriname</option> 
-
-                        <option value="Swaziland">Swaziland</option> 
-
-                        <option value="Sweden">Sweden</option> 
-
-                        <option value="Switzerland">Switzerland</option>  
-
-                        <option value="Taiwan">Taiwan</option> 
-
-                        <option value="Tanzania">Tanzania</option> 
-
-                        <option value="Thailand">Thailand</option> 
-
-                        <option value="The Gambia">The Gambia</option> 
-
-                        <option value="Togo">Togo</option> 
-
-                        <option value="Tonga">Tonga</option> 
-
-                        <option value="Trinidad and Tobago">Trinidad and Tobago</option> 
-
-                        <option value="Tunisia">Tunisia</option> 
-
-                        <option value="Turkey">Turkey</option> 
-
-                        <option value="Turks and Caicos Islands">Turks and Caicos Islands</option> 
-
-                        <option value="Tuvalu">Tuvalu</option> 
-
-                        <option value="Uganda">Uganda</option> 
-
-                        <option value="Ukraine">Ukraine</option> 
-
-                        <option value="United Arab Emirates">United Arab Emirates</option> 
-
-                        <option value="United Kingdom">United Kingdom</option> 
-
-                        <option value="Uruguay">Uruguay</option> 
-
-                        <option value="Uzbekistan">Uzbekistan</option> 
-
-                        <option value="Vanuatu">Vanuatu</option> 
-
-                        <option value="Vatican City State">Vatican City State</option> 
-
-                        <option value="Venezuela">Venezuela</option> 
-
-                        <option value="Vietnam">Vietnam</option> 
-
-                        <option value="West Indies">West Indies</option> 
-
-                        <option value="Western Samoa">Western Samoa</option> 
-
-                        <option value="Yemen">Yemen</option> 
-
-                        <option value="Zambia">Zambia</option> 
-</select>
+				<option value="Albania">Albania</option> 
+				<option value="Algeria">Algeria</option> 
+				<option value="Andorra">Andorra</option> 
+				<option value="Anguilla">Anguilla</option> 
+				<option value="Antigua Barbuda">Antigua Barbuda</option> 
+				<option value="Argentina">Argentina</option> 
+				<option value="Aruba">Aruba</option> 
+				<option value="Australia">Australia</option> 
+				<option value="Austria">Austria</option> 
+				<option value="Azerbaijan">Azerbaijan</option> 
+				<option value="Bahamas">Bahamas</option> 
+				<option value="Bahrain">Bahrain</option> 
+				<option value="Bangladesh">Bangladesh</option> 
+				<option value="Barbados">Barbados</option> 
+				<option value="Belarus">Belarus</option> 
+				<option value="Belgium">Belgium</option> 
+				<option value="Belize">Belize</option> 
+				<option value="Benin">Benin</option> 
+				<option value="Bermuda">Bermuda</option> 
+				<option value="Bhutan">Bhutan</option> 
+				<option value="Bolivia">Bolivia</option> 
+				<option value="Bosnia and Herzegovina">Bosnia-Herzegovina</option>
+				<option value="Brazil">Brazil</option> 
+				<option value="British Virgin Islands">British Virgin Islands</option> 
+				<option value="Brunei Darussalam">Brunei</option> 
+				<option value="Bulgaria">Bulgaria</option> 
+				<option value="Burkina Faso">Burkina</option> 
+				<option value="Burkina Faso">Burkina Faso</option> 
+				<option value="Burundi">Burundi</option> 
+				<option value="Cameroon">Cameroon</option> 
+				<option value="Canada">Canada</option> 
+				<option value="Cape Verde">Cape Verde</option> 
+				<option value="Cayman Islands">Cayman Islands</option> 
+				<option value="Chad">Chad</option> 
+				<option value="Chile">Chile</option> 
+				<option value="China">China</option> 
+				<option value="Colombia">Colombia</option> 
+				<option value="Comoros">Comoros</option> 
+				<option value="Costa Rica">Costa Rica</option> 
+				<option value="Croatia">Croatia</option> 
+				<option value="Cyprus">Cyprus</option> 
+				<option value="Czech Republic">Czech Republic</option> 
+				<option value="Denmark">Denmark</option> 
+				<option value="Djibouti">Djibouti</option> 
+				<option value="Dominica">Dominica</option> 
+				<option value="Dominican Republic">Dominican Republic</option> 
+				<option value="Ecuador">Ecuador</option> 
+				<option value="Egypt">Egypt</option> 
+				<option value="El Salvador">El Salvador</option> 
+				<option value="Equatorial Guinea">Equatorial Guinea</option> 
+				<option value="Eritrea">Eritrea</option> 
+				<option value="Estonia">Estonia</option> 
+				<option value="Ethiopia">Ethiopia</option> 
+				<option value="Falkland Islands (Malvinas)">Falkland Islands</option> 
+				<option value="Faroe Islands">Faroe Islands</option> 
+				<option value="Fiji">Fiji</option> 
+				<option value="Finland">Finland</option> 
+				<option value="France">France</option> 
+				<option value="French Polynesia">French Polynesia</option> 
+				<option value="Gabon">Gabon</option> 
+				<option value="Germany">Germany</option> 
+				<option value="Gibraltar">Gibraltar</option> 
+				<option value="Greece">Greece</option> 
+				<option value="Grenada">Grenada</option> 
+				<option value="Guadeloupe">Guadeloupe</option> 
+				<option value="Guam">Guam</option> 
+				<option value="Guatemala">Guatemala</option> 
+				<option value="Guyana">Guyana</option> 
+				<option value="Haiti">Haiti</option> 
+				<option value="Honduras">Honduras</option> 
+				<option value="Hong Kong">Hong Kong</option> 
+				<option value="Hungary">Hungary</option> 
+				<option value="Iceland">Iceland</option> 
+				<option value="India">India</option> 
+				<option value="Indonesia">Indonesia</option> 
+				<option value="Ireland">Ireland</option> 
+				<option value="Israel">Israel</option> 
+				<option value="Italy">Italy</option> 
+				<option value="Jamaica">Jamaica</option> 
+				<option value="Japan">Japan</option> 
+				<option value="Jordan">Jordan</option> 
+				<option value="Kazakstan">Kazakstan</option> 
+				<option value="Kenya">Kenya</option> 
+				<option value="Kiribati">Kiribati</option> 
+				<option value="Kuwait">Kuwait</option>
+				<option value="Laos">Laos</option> 
+				<option value="Latvia">Latvia</option> 
+				<option value="Lebanon">Lebanon</option> 
+				<option value="Liechtenstein">Liechtenstein</option> 
+				<option value="Lithuania">Lithuania</option> 
+				<option value="Luxembourg">Luxembourg</option> 
+				<option value="Macedonia">Macedonia</option> 
+				<option value="Madagascar">Madagascar</option> 
+				<option value="Malawi">Malawi</option> 
+				<option value="Malaysia">Malaysia</option> 
+				<option value="Maldives">Maldives</option> 
+				<option value="Malta">Malta</option> 
+				<option value="Marshall Islands">Marshall Islands</option> 
+				<option value="Mauritania">Mauritania</option> 
+				<option value="Mauritius">Mauritius</option>
+				<option value="Martinique">Martinique</option>
+				<option value="Mexico">Mexico</option> 
+				<option value="Micronesia">Micronesia</option>
+				<option value="Moldova, Republic Of">Moldova, Republic Of</option>
+				<option value="Monaco">Monaco</option> 
+				<option value="Mongolia">Mongolia</option> 
+				<option value="Montenegro">Montenegro</option> 
+				<option value="Montserrat">Montserrat</option> 
+				<option value="Morocco">Morocco</option> 
+				<option value="Mozambique">Mozambique</option> 
+				<option value="Namibia">Namibia</option> 
+				<option value="Nauru">Nauru</option> 
+				<option value="Nepal">Nepal</option> 
+				<option value="Netherlands">Netherlands</option> 
+				<option value="Netherlands Antilles">Netherlands Antilles</option> 
+				<option value="New Zealand">New Zealand</option> 
+				<option value="Nicaragua">Nicaragua</option>
+				<option value="Nigeria">Nigeria</option> 
+				<option value="Northern Mariana Islands">Northern Mariana Islands</option> 
+				<option value="Norway">Norway</option> 
+				<option value="Oman">Oman</option>
+				<option value="Palau">Palau</option> 
+				<option value="Panama">Panama</option> 
+				<option value="Papua New Guinea">Papua New Guinea</option> 
+				<option value="Paraguay">Paraguay</option> 
+				<option value="Peru">Peru</option> 
+				<option value="Philippines">Philippines</option> 
+				<option value="Pitcairn">Pitcairn Island</option> 
+				<option value="Poland">Poland</option> 
+				<option value="Portugal">Portugal</option> 
+				<option value="Puerto Rico">Puerto Rico</option> 
+				<option value="Qatar">Qatar</option> 
+				<option value="Romania">Romania</option> 
+				<option value="Russian Federation">Russia</option> 
+				<option value="Rwanda">Rwanda</option> 
+				<option value="Samoa">Samoa</option> 
+				<option value="San Marino">San Marino</option> 
+				<option value="Sao Tome and Principe">Sao Tome and Principe</option> 
+				<option value="Saudi Arabia">Saudi Arabia</option> 
+				<option value="Serbia">Serbia</option> 
+				<option value="Seychelles">Seychelles</option>
+				<option value="Singapore">Singapore</option> 
+				<option value="Slovakia">Slovakia</option> 
+				<option value="Slovenia">Slovenia</option> 
+				<option value="Solomon Islands">Solomon Islands</option> 
+				<option value="South Africa">South Africa</option> 
+				<option value="South Georgia and The South Sandwich Islands">South Georgia</option> 
+				<option value="Korea, South">South Korea</option> 
+				<option value="Spain">Spain</option> 
+				<option value="Sri Lanka">Sri Lanka</option> 
+				<option value="Saint Helena">St Helena</option> 
+				<option value="Saint Kitts and Nevis">St Kitts Nevis</option> 
+				<option value="Saint Lucia">St Lucia</option> 
+				<option value="Saint Vincent and The Grenadines">St Vincent The Grenadines</option> 
+				<option value="Suriname">Suriname</option> 
+				<option value="Swaziland">Swaziland</option> 
+				<option value="Sweden">Sweden</option> 
+				<option value="Switzerland">Switzerland</option>  
+				<option value="Taiwan">Taiwan</option> 
+				<option value="Tanzania, United Republic Of">Tanzania</option> 
+				<option value="Thailand">Thailand</option> 
+				<option value="Gambia">The Gambia</option>
+				<option value="Tonga">Tonga</option> 
+				<option value="Trinidad and Tobago">Trinidad and Tobago</option> 
+				<option value="Tunisia">Tunisia</option> 
+				<option value="Turkey">Turkey</option> 
+				<option value="Turks and Caicos Islands">Turks and Caicos Islands</option> 
+				<option value="Tuvalu">Tuvalu</option> 
+				<option value="Uganda">Uganda</option> 
+				<option value="Ukraine">Ukraine</option> 
+				<option value="United Arab Emirates">United Arab Emirates</option> 
+				<option value="United Kingdom">United Kingdom</option>
+				<option value="Uruguay">Uruguay</option> 
+				<option value="Vanuatu">Vanuatu</option> 
+				<option value="Vatican City">Vatican City State</option> 
+				<option value="Venezuela">Venezuela</option> 
+				<option value="Viet Nam">Vietnam</option> 
+				<option value="Western Samoa">Western Samoa</option>
+				<option value="Zambia">Zambia</option> 
+				</select>
 <div class="clear"></div>
 
 <input title="Email Address" id="email" maxlength="80" name="email" type="text" value="Email Address" class="halfwidth required email">
 <input title="Birth Date" id="primary_dob" name="primary_dob" type="text" value="Birth Date" class="halfwidth date required" style="float:right">
 <div class="clear"></div>
 
-<input id="country_code" name="country_code" readonly="readonly" type="text" class="halfwidth required" style="width: 45px;">
-<input title="Phone Number" id="phone" maxlength="40" name="phone_number" type="text" value="Phone Number" class="halfwidth required" style="width: 213px; float:right">
+<input id="country_code" name="country_code" readonly="readonly" type="text" class="halfwidth required" style="width: 35px;">
+<input title="Phone Number" id="phone" maxlength="40" name="phone_number" type="text" value="Phone Number" class="halfwidth required" style="width: 203px; float:right">
 
 <select title="" id="account_type" class="fullwidth required">
 <option value="">Select Account Type</option>
@@ -1130,9 +748,14 @@ To administer and improve the ThinkForex.com Web site, we may use a third party 
 <option value="Joint">Joint</option>
 <option value="Corporate">Corporate</option>
 <option value="Metatrader 4">MetaTrader 4</option>
-<option value="Speed Trader">Speed Trader</option>
+<option value="Metatrader 4 Pro">MetaTrader 4 Pro</option>
+<option value="Mirror Trader">Mirror Trader</option>
+<option value="Speed Trader">SpeedTrader</option>
+<option value="Zulu Trade">ZuluTrade</option>
+<!--<option value="Speed Trader">Speed Trader</option>-->
 </select>
 
+<input type="hidden" id="platform_type" name="platform_type" value="mt4">
 <input type="hidden" name="is_started" value="1">
 <input type="hidden" id="acc_id" name="acc_id" value="">
 
@@ -1142,21 +765,20 @@ To administer and improve the ThinkForex.com Web site, we may use a third party 
 </form>
 
 
-<div class="hr-dots-black2" style="margin-bottom:0px"></div>
-
 </div>
 
-<a href="javascript: void(0);" onclick="javascript: $('#quick_signup_form').submit();" class="button-nextstep" style="margin-left:14px;margin-top:10px">Continue to the Next Step</a><a href="forex/deposit-forex-funds/" class="button-depositfundsnew" style="margin-left:14px;margin-top:5px">Deposit Funds</a>
+<a href="javascript: void(0);" onclick="javascript: $('#quick_signup_form').submit();" class="button-nextstep">SUBMIT</a>
 
 <!--end of quick-signup-->
 </div>
 <!--end of quick-signup-->
  <div class="sidebar-right">
 		
-		<div class="sidebar-right-title">ThinkForex Disclosure</div>
+		<div class="sidebar-right-title">ThinkForex  Disclosure Statements</div>
 		
 		<div class="sidebar-right-content">
 		<ul>
+  <li><a href="regulation/forex-fund-security/">Client Funds Security</a></li>	
   <li><a href="amlpolicy/">Money Laundering / AML Policy</a></li>
   <li><a href="riskdisclosure/">Risk Disclosure</a></li>
   <li><a href="privacypolicy/">Privacy Policy</a></li>
@@ -1166,19 +788,37 @@ To administer and improve the ThinkForex.com Web site, we may use a third party 
 		</div>
 		
 		</div><div id="webinar-widget">
-	<img src="../01-images/webinarwidgethead.png" width="300" height="35">
     <div class="webinardetail">
-    	<div class="webinardate">
-        	<font style="font-size: 14px;">Introduction to<br>ThinkForex</font>
-            <div style="height: 5px;"></div>
-     		November 15th | 8am NZDT<br>
-            November 14th | 7pm GMT
-            </div>
+    	<!-- <div class="webinardate">
+        	<font style="font-size: 16px; font-weight: bold;">Introduction to ThinkForex</font>
+            <div style="height: 10px;"></div>
+     		December 13th</b> at 8am NZDT<br /> 
+     		December 12th at 7pm GMT<br />
+            </div> -->
+            <table width="230" align="center" cellpadding="0" cellspacing="0" style="border: 1px solid #ccc;">
+            	<tbody><tr>
+                	<td colspan="2" style="padding: 10px; border-bottom: 1px solid #ccc; background-color: #ccc; color: #333; font-size: 14px; font-weight: bold;">Inside the Stochastic Indicator</td>
+					<!-- <td colspan="2" style="padding: 10px; border-bottom: 1px solid #ccc; background-color: #ccc; color: #333; font-size: 14px; font-weight: bold;">Engulfing candle psychology</td> -->
+                </tr>
+                <tr>
+                	<td width="131" style="padding: 5px 10px; border-bottom: 1px solid #ccc;">May 25th</td>
+					<td width="97" style="padding: 5px 10px; border-bottom: 1px solid #ccc; border-left: 1px solid #ccc;">8am NZDT</td>
+					<!-- <td width="97" style="padding: 5px 10px; border-bottom: 1px solid #ccc; border-left: 1px solid #ccc;">7pm NZDT</td> -->
+                </tr>
+                <tr>
+                 <td style="padding: 5px 10px;">May 24th</td>
+                 <td style="padding: 5px 10px; border-left: 1px solid #ccc;">8pm GMT</td>
+                <!-- <td style="padding: 5px 10px;">&nbsp;</td> -->
+                <!--<td style="padding: 5px 10px; border-left: 1px solid #ccc;">7am GMT</td> -->
+                    
+                </tr>
+            </tbody></table>
             <div>
-            <a class="webinar_btn" href="https://www3.gotomeeting.com/register/717722886" target="_blank" style="outline:none;"></a>
+            <!-- <a class="webinar_btn" href="https://www3.gotomeeting.com/register/600243326" target="_blank" style="outline:none;"></a>-->
     	</div>
     		
     </div>
+    <a href="https://www3.gotomeeting.com/register/277490158" target="_blank" class="button-nextstep-webinar">REGISTER</a>
 </div>
 <!--****end of content-right****-->
 </div>
@@ -1190,12 +830,14 @@ To administer and improve the ThinkForex.com Web site, we may use a third party 
 
 
 
-<div class="hr-dots-black2" style="margin-bottom:5px"></div>
+<!--<div class="hr-dots-black2" style="margin-bottom:5px"></div>-->
 <!--Start of Featured Buttons-->
-<div class="featured-button" style="margin-left:20px; width: 270px;">
+
+<div id="cta_container">
+<div class="featured-button" style="margin-left:20px; width: 270px; border: 0;">
 <h1><a href="forex/deposit-forex-funds/"><img src="01-images/slider/fundaccount.png" alt="Fund your Account Icon" vspace="4" border="0" align="absmiddle">Fund your Account</a></h1><br>
 
-There are no fees for making a deposit and you are free to withdraw your funds at any time.
+Deposit free via direct credit card or bank wire and you can withdraw your funds at any time.
 
 <a href="forex/deposit-forex-funds/" class="calltoaction-featured" style="color: #333333; width: 190px;">Start funding your account</a>
 
@@ -1203,9 +845,9 @@ There are no fees for making a deposit and you are free to withdraw your funds a
 
 
 <div class="featured-button" style="margin-left:20px">
-<h1><a href="forex/open-forex-live-account/"><img src="01-images/slider/mt4.png" alt="Open a Live Account Icon" vspace="4" border="0" align="absmiddle">Open a Live Account</a></h1><br>
+<h1><a href="forex/open-forex-live-account/"><img src="01-images/slider/open-forex-live-account.png" alt="Open a Live Account Icon" vspace="4" border="0" align="absmiddle">Open a Live Account</a></h1><br>
 
-No dealing desk, Free high speed VPS, Full hedging, Non expiring demo, no commissions
+Low spreads, no dealing desk, Free Forex VPS, full hedging, and no commission account options.
 
 <a href="forex/open-forex-live-account/" class="calltoaction-featured" style="color: #333333; width: 130px;">Get started now</a>
 
@@ -1216,11 +858,11 @@ No dealing desk, Free high speed VPS, Full hedging, Non expiring demo, no commis
 <div class="featured-button">
 <h1><a href="forex/open-forex-demo-account/"><img src="01-images/slider/freedemo.png" alt="Download a Free Demo Icon" vspace="4" border="0" align="absmiddle">Download a Free Demo</a></h1><br>
 
-Sign up for a ThinkForex demo and download the ThinkForex Custom MetaTrader 4 ECN Platform.
+Sign up for a ThinkForex demo and download the ThinkForex custom MetaTrader 4 platform.
 
 <a href="forex/open-forex-demo-account/" class="calltoaction-featured" style="color: #333333; width: 150px;">Start your download</a>
 </div>
-
+</div>
 
 <!--end of Featured Buttons-->
 <div class="clear"></div>
@@ -1262,47 +904,35 @@ Sign up for a ThinkForex demo and download the ThinkForex Custom MetaTrader 4 EC
 <div id="site-tree-inside">
 
 <div class="sections" style="margin-left:0px">
-<h2>CLIENT SERVICES</h2>
-<h3>
-<a href="forex/open-forex-live-account/">Open Live Account</a><br>
-<a href="forex/open-forex-demo-account/">Open Demo Account</a><br>
-<a href="forex/deposit-forex-funds/">Deposit Funds</a><br>
-<a href="forex/islamic-forex-trading-account/">Islamic Forex Trading</a><br>
-<a href="forex/free-vps-server/">VPS Hosting</a><br>
-<a href="forex/mt4-php-api/">MT4 PHP API</a><br>
-<a href="forex/fix-api-integration/">FIX API Integration</a><br>
-<a href="forex/forex-promotions/">Promotions</a><br>
-</h3>
-</div>
-
-<div class="vr-dots-white"></div>
-
-<div class="sections">
 <h2>FOREX TRADING</h2>
 <h3>
 <a href="forextrading/forex-account-types/">Account Types</a><br>
-<a href="forextrading/forex-spreads/">Spreads</a><br>
-<a href="forextrading/forex-swap-rates/">Swap Rates</a><br>
-<a href="forextrading/forex-instrument-list/">Instrument List</a><br>
+<a href="forex/open-forex-live-account/">Open Live Account</a><br>
+<a href="forex/open-forex-demo-account/">Forex Demo Account</a><br>
+<a href="forex/islamic-forex-trading-account/">Islamic Forex Trading</a><br>
+<a href="forex/deposit-forex-funds/">Deposit Funds</a><br>
+<a href="forextrading/direct-accounts/">Manual Trading</a><br>
+<a href="forextrading/reflect-accounts/">Automated Training</a><br>
 <a href="forextrading/forex-market-analysis/">Market Analysis</a><br>
 <a href="forextrading/forex-economic-calendar/">Economic Calendar</a><br>
-<a href="forextrading/custom-expert-advisor/">Custom Expert Advisor</a><br>
+<a href="forextrading/forex-instrument-list/">Trading Conditions</a><br>
 </h3>
 </div>
 
 <div class="vr-dots-white"></div>
-
 
 <div class="sections">
 <h2>PLATFORMS</h2>
 <h3>
-<a href="forexplatforms/metatrader-4-platform/">Metatrader 4</a><br>
+<a href="forexplatforms/metatrader-4-platform/">MetaTrader 4</a><br>
+<a href="forexplatforms/metatrader-4-pro-platform/">MetaTrader 4 Pro</a><br>
 <a href="forexplatforms/metatrader-4-mobile-platform/">MT4 Mobile</a><br>
-<a href="forexplatforms/speedtrader-currenex-platform/">SpeedTrader by Currenex</a><br>
-<a href="forexplatforms/MT4-multi-terminal/">MT4 Multi-Terminal</a><br>
+<a href="forexplatforms/MT4-MAM/">MT4 MAM</a><br>
+<a href="forexplatforms/webtrader-platform/">WebTrader</a><br>
+<a href="forexplatforms/myfx-console/">MYFX</a><br>
+<a href="forexplatforms/tradency-platform/">MirrorTrader</a><br>
 </h3>
 </div>
-
 
 <div class="vr-dots-white"></div>
 
@@ -1316,19 +946,31 @@ Sign up for a ThinkForex demo and download the ThinkForex Custom MetaTrader 4 EC
 </h3>
 </div>
 
+<div class="vr-dots-white"></div>
+
+
+<div class="sections">
+<h2>TECHNOLOGY</h2>
+<h3>
+<a href="forex/mt4-php-api/">MT4 API</a><br>
+<a href="forex/fix-api-integration/">MT4 FIX/API</a><br>
+<a href="forex/free-vps-server/">TFXVPS</a><br>
+</h3>
+</div>
+
 
 <div class="vr-dots-white"></div>
 
 
 <div class="sections">
-<h2>FX UNIVERSITY</h2>
+<h2>EDUCATION</h2>
 <h3>
 <a href="forexeducation/getting-started-in-forex/">Getting Started</a><br>
 <a href="forexeducation/advantages-of-forex/">Advantages of Forex</a><br>
 <a href="forexeducation/forex-video-tutorials/">Video Tutorials</a><br>
 <a href="forexeducation/forex-webinars/">Weekly Webinars</a><br>
 <a href="forexeducation/forex-automated-trading/">Automated Trading</a><br>
-<a href="forexeducation/forex-quizzes/">Forex Quizes</a><br>
+<!--<a href="forexeducation/forex-quizzes/">Forex Quizes</a><br />-->
 </h3>
 </div>
 
@@ -1340,12 +982,23 @@ Sign up for a ThinkForex demo and download the ThinkForex Custom MetaTrader 4 EC
 <div class="sections" style="margin-right:0px">
 <h2>ABOUT</h2>
 <h3>
-<a href="missionstatement/">Mission Statement</a><br>
-<a href="companynews/">Company News</a><br>
 <a href="regulation/">Regulation</a><br>
-<a href="ourtechnology/">Our Technology</a><br>
-<a href="businesscontinuity/">Business Continuity Plan</a><br>
+<a href="forexvideos/">Media Center</a><br>
+<a href="companynews/">Company News</a><br>
 <a href="careers/">Careers</a><br>
+<a href="forex/forex-promotions/">Promotions</a><br>
+</h3>
+</div>
+
+<div class="vr-dots-white"></div>
+
+<div class="sections" style="margin-right:0px">
+<h2 style="line-height: 12px;">SUPPORT</h2>
+<h3>
+<a href="http://support.thinkforex.com/">Knowledgebase</a><br>
+<a href="forex/fxfaq/">FAQ</a><br>
+<a href="contact-us/">Contact</a><br>
+<a href="http://messenger.providesupport.com/messenger/thinkforex.html" onclick="NewWindow(this.href,'mywin','500','510','no','left');return false" onfocus="this.blur()">Live Chat</a><br>
 </h3>
 </div>
 
@@ -1364,15 +1017,45 @@ Sign up for a ThinkForex demo and download the ThinkForex Custom MetaTrader 4 EC
 <div id="footer-justwords">
 <div id="footer-left">
 
-© 2011 ThinkForex All Rights Reserved | <a href="riskdisclosure/">Risk Disclosure</a> | <a href="privacypolicy/">Privacy Policy</a> | <a href="amlpolicy/">Money Laundering / AML Policy</a> | <a href="#" onclick="MyWindow=window.open('marketing-disclaimer.html','MyWindow1','toolbar=no,location=no,directories=no, status=no,menubar=no,scrollbars=no,resizable=no,width=700,height=520'); return false;">Marketing Disclaimer</a> | <a href="sitemap/">Site Map</a><br><br>
 
-<p>Foreign Exchange trading involves substantial risk of loss and is not suitable for all investors.<br>
-ThinkForex.com is compensated through the bid/ask spread. The Foreign Exchange market carries a high<br>level of risk and is not suitable for all investors.</p>
 <p>
-<b>*Please note:</b> We do not service US Entities or Residents of any kind. Governmental restrictions and <br>our policies prohibit us from opening accounts from the following restricted OFAC sanctioned countries:<br> Afghanistan, Burma (Myanmar), Cote d'Ivoire (Ivory Coast), Cuba, Democratic Republic of Congo, <br>Former Liberian Regime of Charles Taylor, Iran, Iraq, Libya, North Korea, and Somalia. 
+<b>*Please note:</b> ThinkForex™ does not service US entities or residents of any kind. While we welcome clients from all over globe, governmental<br>
+ restrictions along with our company policies prohibit ThinkForex™ from opening accounts originated from the following 
+	restricted and/or OFAC<br>
+	sanctioned countries: Afghanistan, Burma (Myanmar), Cote d'Ivoire (Ivory Coast), Cuba, The Democratic Republic of Congo, The former Liberian<br> 
+	Regime of Charles Taylor, Iran, Iraq, Libya, North Korea, and Somalia. 
 </p>
+
+<p>Foreign exchange trading involves substantial risk of loss of financial loss, and is not suitable for all investors. ThinkForex™ is headquartered 
+	<br>in Auckland, New Zealand and compensated through the bid/ask spread.</p>
+
+© 2012 ThinkForex™ All Rights Reserved | <a href="riskdisclosure/">Risk Disclosure</a> | <a href="privacypolicy/">Privacy Policy</a> 
+	| <a href="amlpolicy/">Money Laundering / AML Policy</a> 
+	| <a href="#" onclick="MyWindow=window.open('marketing-disclaimer.html','MyWindow1','toolbar=no,location=no,directories=no, status=no,menubar=no,scrollbars=no,resizable=no,width=700,height=520'); return false;">Marketing Disclaimer</a> | <a href="sitemap/">Site Map</a><br><br>
+
 </div>
-<div id="footer-right"><img src="../02-slices/footer_fsp.png" width="180" height="30"></div>
+<div id="footer-right" style="height: 180px;">
+
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_32x32_style addthis_default_style">
+<a class="addthis_button_facebook_follow" addthis:userid="thinkforex"></a>
+<a class="addthis_button_twitter_follow" addthis:userid="thinkforex"></a>
+<a class="addthis_button_linkedin_follow" addthis:url="http://www.linkedin.com/company/forex-brokerage-firm"></a>
+<a class="addthis_button_google_follow" addthis:userid="110889491798967730727/posts"></a>
+<a class="addthis_button_youtube_follow" addthis:userid="thinkforex"></a>
+<a class="addthis_button_compact"></a>
+</div>
+<script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4f186ef83771a24d"></script>
+<!-- AddThis Button END -->
+<br>
+<br>
+<p>Regulated by:</p>
+<!-- <img src="../02-slices/footer_fsp.png" width="180" height="30" /> -->
+<a href="http://www.business.govt.nz/companies/app/ui/pages/companies/3222907" target="_blank"> <img src="../02-slices/footer_fsp_01.png" width="90" height="30"></a> 
+
+<a href="http://www.fscl.org.nz/lop.php?t=share&amp;p=1&amp;l=t" target="_blank"><img src="../02-slices/footer_fsp_02.png" width="90" height="30"></a>
+
+</div>
 </div>
 
 
@@ -1383,7 +1066,7 @@ ThinkForex.com is compensated through the bid/ask spread. The Foreign Exchange m
 
 
 <!-- BEGIN ProvideSupport.com Visitor Monitoring Code -->
-<div id="ciIqXP" style="z-index:100;position:absolute"></div><div id="sdIqXP" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/thinkforex/safe-monitor.js?ps_h=IqXP&amp;ps_t=1580444263572"></script></div><script type="text/javascript">var seIqXP=document.createElement("script");seIqXP.type="text/javascript";var seIqXPs=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/thinkforex/safe-monitor.js?ps_h=IqXP&ps_t="+new Date().getTime();setTimeout("seIqXP.src=seIqXPs;document.getElementById('sdIqXP').appendChild(seIqXP)",1)</script><noscript><div style="display:inline"><a href="http://www.providesupport.com?monitor=thinkforex"><img src="https://image.providesupport.com/image/thinkforex.gif" border="0" alt="Thinkforex" /></a></div></noscript>
+<div id="ciIqXP" style="z-index:100;position:absolute"></div><div id="sdIqXP" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/thinkforex/safe-monitor.js?ps_h=IqXP&amp;ps_t=1580444263553"></script></div><script type="text/javascript">var seIqXP=document.createElement("script");seIqXP.type="text/javascript";var seIqXPs=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/thinkforex/safe-monitor.js?ps_h=IqXP&ps_t="+new Date().getTime();setTimeout("seIqXP.src=seIqXPs;document.getElementById('sdIqXP').appendChild(seIqXP)",1)</script><noscript><div style="display:inline"><a href="http://www.providesupport.com?monitor=thinkforex"><img src="https://image.providesupport.com/image/thinkforex.gif" border="0" alt="Thinkforex" /></a></div></noscript>
 <!-- END ProvideSupport.com Visitor Monitoring Code -->
 
 
