@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pearsonvue.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222191117id_/http%3A//www.pearsonvue.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearsonvue.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523212408id_/http%3A//pearsonvue.com/legal/privacy) for the most accurate reproduction.*
 
 # Pearson VUE: Privacy Policy
 
