@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adventuresofacouponista.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122204207id_/http%3A//adventuresofacouponista.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adventuresofacouponista.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523153226id_/http%3A//adventuresofacouponista.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Adventures of a Couponista
+# Privacy Policy – - Adventures of a CouponistaAdventures of a Couponista
 
 **What information do we collect?**
 
@@ -49,7 +49,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://adventuresofacouponista.com/about-me-disclosure/](https://web.archive.org/web/20111122204207id_/http://adventuresofacouponista.com/about-me-disclosure/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://adventuresofacouponista.com/about-me-disclosure/](https://web.archive.org/web/20120523153226id_/http://adventuresofacouponista.com/about-me-disclosure/)
 
 **Your Consent**
 
