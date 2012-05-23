@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carolinanightlife.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123185019id_/http%3A//carolinanightlife.com/about/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carolinanightlife.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523171847id_/http%3A//www.carolinanightlife.com/about/info/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy - Carolina Nightlife Presented by Corona Extra
 
