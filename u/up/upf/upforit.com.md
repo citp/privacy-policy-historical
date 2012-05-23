@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the upforit.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123120138id_/http%3A//www.upforit.com/static.php%3Fhtml%3Dprivacy%26s%3Ds) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upforit.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523170221id_/http%3A//www.upforit.com/static.php%3Fhtml%3Dprivacy%26s%3Ds) for the most accurate reproduction.*
 
 # Casual Dating at UpForIt.com
 
 ### Privacy Policy
 
-(' **We** ') Alcuda Ltd are committed to protecting and respecting your privacy.
+(' **We** ') Alcuda Ltd(as subsidiary of Bulova Invest Ltd, company number 1585862 (BVI)) are committed to protecting and respecting your privacy.
 
 This policy (together with our [terms and conditions of use](https://web.archive.org/helptandc.asp?s=s) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
@@ -30,7 +30,7 @@ We use the information we hold about you in the following ways:
   * To allow you to participate in any interactive features of the Site(including the features that require the mobile phone number).
   * To help personalise your repeat visits to the Site.
   * To notify you of any compatible matches or any matches who are near your location.
-  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes (see below under ' **Marketing** ' for more information). Such information may be sent to you by email or by SMS (if you provided your mobile phone number).
+  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes (see below under ' **Marketing by us and third parties** ' for more information). Such information may be sent to you by email or by SMS (if you provided your mobile phone number).
   * To answer any questions you may raise or respond to any comments you may send to us.
   * To notify you about changes to our service or the functionality of the Site.
   * To carry out market analysis and research.
@@ -63,9 +63,13 @@ We may also share information about you with third parties that we engage to hel
 
 We may also provide information about you to other users of the Site as reasonably required in order to provide the services that you order from us. 
 
-**Marketing**
+**Marketing and other uses of your non-personal data by us and by third parties**
 
-We would like to send you information about goods and services offered by us and selected third parties that we think may be of interest to you. For that, the email address or mobile phone number you have provided can be used. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes please tick the appropriate boxes situated in the ' **my account** ' area of the Site. You can also ask us to not to use your personal information, or to pass your details on to third parties for marketing purposes, by e-mailing us at: [](mailto:)
+We may share non-personal information we collect under any of the above circumstances. We may share it with our own companies or other third parties to develop and deliver targeted advertising to you, or to help us prepare or share aggregate business and marketing reports.
+
+We would like to send you information about goods and services offered by us and selected third parties that we think may be of interest to you. For that, the email address or mobile phone number you have provided can be used.
+
+If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes please tick the appropriate boxes situated in the ' **my account** ' area of the Site. You can also ask us to not to use your personal information, or to pass your details on to third parties for marketing purposes, by e-mailing us at: [](mailto:)
 
 **Cookies**
 
