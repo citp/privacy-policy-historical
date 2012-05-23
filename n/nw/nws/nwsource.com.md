@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nwsource.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222160129id_/http%3A//www.seattletimescompany.com/notices/notice2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwsource.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523033041id_/http%3A//www.seattletimescompany.com/notices/notice2.html%3Ffrom%3Dstnv4) for the most accurate reproduction.*
 
 # User Notices of The Seattle Times Company: Privacy Statement
 
