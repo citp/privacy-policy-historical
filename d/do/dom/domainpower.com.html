@@ -1,32 +1,20 @@
-<!--The following is the downloaded HTML source of the domainpower.com privacy policy that was archived on 2011-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111123010308id_/http%3A//www.domainpower.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the domainpower.com privacy policy that was archived on 2012-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120523185122id_/http%3A//www.domainpower.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
-    
-    <title>Privacy Policy | DomainPower</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+	Privacy Policy | DomainPower
+</title><meta http-equiv="Content-type" content="text/html; charset=utf-8">
 
-    	
     <!-- Global Styles -->
-    <link rel="stylesheet" href="/css/reset.css" type="text/css" media="screen" title="no title" charset="utf-8">	
-    <link rel="stylesheet" href="/css/public.css" type="text/css" media="screen" title="no title" charset="utf-8">
-    <link rel="stylesheet" href="/css/common.css" type="text/css" media="screen" title="no title" charset="utf-8">	
-    <link rel="stylesheet" href="/css/core.css" type="text/css" media="screen" title="no title" charset="utf-8">	
-    
+    <link rel="stylesheet" type="text/css" media="all" href="/css/style.css">
     <!-- Plugin Style -->
-    <link rel="stylesheet" href="/js/plugins/jquery-ui/jquery-ui-1.8.13.custom.css" type="text/css" media="screen" title="no title" charset="utf-8">
-
+    <link rel="stylesheet" href="/js/plugins/jquery-ui/jquery-ui-1.8.13.custom.css" type="text/css" media="screen" title="no title">
     <!-- Global JS -->
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
-    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="https://ajax.aspnetcdn.com/ajax/jquery.ui/1.8.16/jquery-ui.min.js"></script>
     <script type="text/javascript" src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.9/jquery.validate.min.js"></script>
-
-    <link rel="icon" type="image/png" href="/dp_icon.png">
-    <link rel="apple-touch-icon" href="/iphone_icon.png">
-
-
+    <link rel="icon" type="image/png" href="/dp_icon.png"><link rel="apple-touch-icon" type="image/png" href="/iphone_icon.png">
     <script type="text/javascript">
-
         var _gaq = _gaq || [];
         _gaq.push(['_setAccount', 'UA-24656632-1']);
         _gaq.push(['_trackPageview']);
@@ -36,44 +24,78 @@
             ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
         })();
-
     </script>
     
-	
+    <script type="text/javascript">
+        $(function () {
+            $("#dp-search-header-keyword").one('focus', function (e) { $(this).val(''); });
+            $("#dp-search-header-keyword").keydown(function (e) {
+                if (e.which == 13) hdSearch();
+            });
+            $("#dp-search-header-submit").click(hdSearch);
+        });
+        function hdSearch() {
+            var hdSearchUrl = '/marketplace/default.aspx?search=';
+            var hdSearchKeyword = $("#dp-search-header-keyword").val().trim();
+            if (hdSearchKeyword == 'Search our Domains For Sale')
+                hdSearchKeyword = '';
+            window.location = hdSearchUrl + hdSearchKeyword;
+        }
+    </script>
+    
+    <style type="text/css">
+        h2, h3
+        {
+        	margin-top: 10px;
+        }
+    </style>
 </head>
-
 <body id="Body" class="privacypolicy">
-	
-    <div class="wrapper">
-        <div class="wrapper_960">
-            <div class="user-menu">
-                <span class="action phone mrl fltLt">
-                    Sales and Support: 1-561-634-7336
-                </span>
-                
-                    <a href="/Login.aspx" class="fltRt mll no-line">SIGN IN</a>
-                
-                
-                <a href="/FAQ.aspx" class="fltRt mrl no-line">FAQ</a>
+    <div id="header-wrapper-hp">
+        <div class="header">
+            <a href="/"><img class="logo" src="/images/domainpower-logo.png" alt=""></a>
+                            
+            <span style="position:relative; top: 45px; left: 45px;">Sales and Support: 1-561-634-7334</span>
+            
+            <div class="seach-wrapper">
+                <p><input type="text" id="dp-search-header-keyword" class="search-field" value="Search our Domains For Sale"></p>
+                <p><input type="button" id="dp-search-header-submit" class="submit-search" value=""></p>
+                <div id="activelistings">
+                    <span class="activelistings"><a href="/marketplace/default.aspx" class="activelistings">23,432</a></span>
+                    <a href="/marketplace/default.aspx">Active Listings</a>
+                    <span class="advancedsearch"><a href="/marketplace/default.aspx" class="advancedsearch">Advanced Search Options</a></span>
+                </div>
             </div>
-            <h1><a title="Domain Development Home" href="/">DomainPower</a></h1>
-            <ul class="nav">
-                <li class="default"><a href="/">Home</a></li>
-                <li class="features"><a href="/Features.aspx">Features</a></li>
-                <li class="services"><a href="/Services.aspx">Services</a></li>
-                <li class="signup"><a href="/SignUp.aspx">Sign Up</a></li>
-                <li class="contactus"><a href="/ContactUs.aspx">Contact Us</a></li>
-            </ul>
+            
         </div>
+        <!-- Navigation -->
+        <div class="nav-wrapper">
+            <div class="nav-container">
+                <ul class="main-nav">
+                    
+                    <li><a class="dd" href="/sell-domains.aspx">Sell Domains</a> </li>
+                    <li><a class="dd" href="/marketplace/default.aspx">Buy Domains</a> </li>
+                    <li><a class="dd" href="/monetize-domains.aspx">Monetize Domains</a> </li>
+                    <li><a href="/faq.aspx">FAQ</a></li>
+                    <li><a href="http://support.domainpower.com/">Support</a></li>
+                    
+                    <li><a href="/aboutus.aspx">About</a></li>
+                </ul>
+                <div class="signup-nav">
+                    <a href="/signup.aspx">SignUp</a>&nbsp;&nbsp; |&nbsp;&nbsp;
+                    <a href="/Login.aspx" class="fltRt mll no-line">SIGN IN</a>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <form method="POST" action="PrivacyPolicy.aspx" id="ctl07">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDMyNDU0NjAzD2QWAmYPZBYCAgMPFgIeBWNsYXNzBQ1wcml2YWN5cG9saWN5FgICAQ8WAh4HVmlzaWJsZWhkZNZRDsvC4FRwvVGGjBHHW/Ak1QexISCk1fsGqftAju/g">
 
-        <div class="center_wrapper push_footer">
-            <div class="wrapper_960">
-                <form method="post" action="PrivacyPolicy.aspx" id="form">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDMyNDU0NjAzD2QWAmYPZBYCAgUPFgIeBWNsYXNzBQ1wcml2YWN5cG9saWN5FgICAQ8WAh4HVmlzaWJsZWhkZJDQTnFl+GUiwdrDdl7gH+u/ZtIJIMZ4qx7HE6GDI8xf">
-
-	                <div id="content">
-                        
-        <div class="content_container">
+    <div id="content">
+        
+        <div class="container">
             <div class="main-content">
         	    <h2>DomainPower Privacy Policy</h2>
                 <h3 class="sub-page-title">What information do we collect?  </h3>
@@ -125,8 +147,9 @@
                 <h3 class="sub-page-title">Contacting Us</h3>
                 <p>If there are any questions regarding this privacy policy you may contact us using the information below.</p>
                 <p><b><a href="/">www.domainpower.com</a></b><br>
-                PO Box 1567<br>
-                Stony brook, NY 11790<br>
+                Domain Holdings, Inc.<br>
+                777 East Atlantic Avenue Suite 312<br>
+                Delray Beach, FL 33483<br>
                 USA<br>
                 Privacy@domainpower.com<br>
                 </p>
@@ -136,46 +159,35 @@
            <br class="clear">
        </div>
 
-	                </div> <!-- #content -->
-                </form>
-            </div>
-        </div>
     </div>
-    <div class="footer-container">
+    </form>
+    <!-- #content -->
+    
+    <div class="footer-wrapper">
         <div class="footer">
-            <div class="x9 mln">
-                <h2>From Our Blog</h2>
-                <p class="prl">
-                    With the 2011 T.R.A.F.F.I.C. Conference nearing (in progress or in the rear-view depending on when you read this) our nomination for best new monetization platform was a wonderful honor. As we write this...
-                    <a href="/blog/DomainPower-rolls-out-new-credit-card-framework.aspx">Read More</a><br>
-                    <a target="_blank" href="http://www.domaining.com/"><img class="mtm" src="https://partner.domaining.com/award/excellence-120x31.gif" alt="award"></a>
-                </p>
+            <ul class="footer-nav">
+                
+                <li><a class="dd" href="/sell-domains.aspx">Sell Domains</a></li>
+                <li><a class="dd" href="/marketplace/default.aspx">Buy Domains</a></li>
+                <li><a href="/monetize-domains.aspx">Monetize Domains</a></li>
+                <li><a href="/faq.aspx">FAQ</a></li>
+                <li><a href="http://support.domainpower.com/">Support</a></li>
+                <li><a href="/contactus.aspx">Contact Us</a></li>
+                <li><a href="/aboutus.aspx">About</a></li>
+            </ul>
+
+            
+
+            <div class="copyright">
+                ©2010-2012 Domain Holdings Group, Inc. | All Rights Reserved<br>
+                <div class="footer-links">
+                    <a href="/PrivacyPolicy.aspx">Privacy Policy</a> | <a href="/Terms.aspx">Terms and Conditions</a>
+                </div>
             </div>
-            <div class="x3">
-                <h2>Contact</h2>
-                <p>
-                    777 East Atlantic Ave. Ste. 312 <br>
-                    Delray Beach, FL 33483<br class="mbm">
-                    <a href="https://www.facebook.com/DomainHoldings" target="_blank"><img class="mrs tm" src="/images/public/follow-on-facebook.png" width="21" height="21"></a>
-                    <a href="http://www.linkedin.com/company/domain-holdings-group" target="_blank"><img class="mrs tm" src="/images/public/follow-on-linkedin.png" width="21" height="21"></a>
-                    <a href="http://twitter.com/#!/domainholdings" target="_blank"><img class="mrs tm" src="/images/public/follow-on-twitter.png" width="22" height="21"></a>
-                    <a href="http://www.domainholdings.com/feed/rss/" target="_blank"><img class="mrs tm" src="/images/public/subscribe-to-rss.png" width="22" height="21"></a><br>
-                </p>
-            </div>
-            <p class="footer-nav">
-            	<a href="/">Home</a>
-            	<a href="/Features.aspx">Features</a>
-            	<a href="/Services.aspx">Services</a>
-            	<a href="/SignUp.aspx">Sign Up</a>
-            	<a href="/ContactUs.aspx">Contact Us</a>
-            	<a href="/PrivacyPolicy.aspx">Privacy Policy</a>
-            	<a href="/Terms.aspx">Terms and Conditions</a>
-                <a href="/FAQ.aspx">FAQ</a>
-            </p>
-            <p class="footer-copyright">
-            	© 2011 Domain Holdings Group, Inc | All Rights Reserved
-            </p>
+
         </div>
+                  <a href="http://www.domaining.com/" target="_blank" style="float:right;padding: 5px 5px 0 0;"><img src="http://partner.domaining.com/award/excellence-120x31.gif"></a> 
     </div>
+
 
 </body></html>
