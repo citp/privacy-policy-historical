@@ -1,10 +1,24 @@
-> *The following text is extracted and transformed from the jpcycles.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124121250id_/http%3A//www.jpcycles.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpcycles.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524010118id_/http%3A//www.jpcycles.com/home/privacy) for the most accurate reproduction.*
 
 # J&P Cycles | Our Security and Privacy Policy
 
+## Questions?
+
+**Contact Us:**  
+J&P Cycles®  
+13225 Circle Drive PO Box 138  
+Anamosa, IA  
+52205 
+
+We can be contacted via email [here](http://support.jpcycles.com/app/contactus). 
+
+You can also reach us by telephone at 1-800-318-4823. Your call to our sales and service department could be monitored. If you do not want your conversation to be monitored, just let your representative know. 
+
+Privacy Policy Effective Beginning July 18th, 2011
+
 ## Site Security
 
-We offer a fully secured environment for your privacy and protection. If you place an [order online](https://web.archive.org/home/ordering), our secure order form requests contact, billing, and financial information (such as your credit card numbers for purchases). Contact information from the order form is used to get in touch with you should we have questions regarding your order or should we need to notify you of the status of your order. The financial information we collect is used ONLY to bill you for products you purchase. 
+We offer a fully secured environment for your privacy and protection. If you place an [order online](https://web.archive.org/terms "J&P Cycles Terms of Business"), our secure order form requests contact, billing, and financial information (such as your credit card numbers for purchases). Contact information from the order form is used to get in touch with you should we have questions regarding your order or should we need to notify you of the status of your order. The financial information we collect is used ONLY to bill you for products you purchase. 
 
 ## Your Information
 
@@ -27,7 +41,7 @@ We make portions of our customer mailing lists available to carefully screened c
 
 ## Cookies
 
-We use cookies to store information between visits to our site. Cookies are a mechanism to remember information about a visitor from one page to another. We use cookies to remember your name and the contents of your shopping cart. Turning off cookies or rejecting the jpcycles.com cookie will prevent you from making purchases from the website. The information contained in the cookies only contains information about your visit to our website, and no other personal information. We cannot and do not track your actions on any internet locations other than www.jpcycles.com, community.jpcycles.com, support.jpcycles.com, and www.motorcyclepartsandaccessoriesblog.com. 
+We use cookies to store information between visits to our site. Cookies are a mechanism to remember information about a visitor from one page to another. We use cookies to remember your name and the contents of your shopping cart. Turning off cookies or rejecting the jpcycles.com cookie will prevent you from making purchases from the website. The information contained in the cookies only contains information about your visit to our website, and no other personal information. We cannot and do not track your actions on any internet locations other than www.jpcycles.com, community.jpcycles.com, support.jpcycles.com, and blog.jpcycles.com. 
 
 ## Browsing
 
@@ -36,18 +50,3 @@ When you visit this web site, we collect information about your visit. We collec
 ## Illegal Activities
 
 We will cooperate with law enforcement and judicial authorities, and we may provide personally identifiable information to appropriate government authorities upon receipt of a subpoena or court order, or to cooperate with a law enforcement investigation. We will fully cooperate with law enforcement agencies in identifying those who use our services for illegal activities. We also reserve the right to report to law enforcement agencies activities that we in good faith believe to be illegal. 
-
-## Questions?
-
-**Contact Us:**  
-J&P Cycles®  
-13225 Circle Drive PO Box 138  
-Anamosa, IA  
-52205 
-
-We can be contacted via email [here](http://support.jpcycles.com/app/contactus). 
-
-You can also reach us by telephone at 1-800-318-4823.  
-Your call to our sales and service department could be monitored. If you do not want your conversation to be monitored, just let your representative know. 
-
-Privacy Policy Effective Beginning July 18th, 2011
