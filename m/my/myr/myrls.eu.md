@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myrls.eu privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202191651id_/http%3A//www.myrls.eu/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myrls.eu privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523184023id_/http%3A//www.myrls.eu/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - MyRelease | MyRLS.eu
+# Privacy Policy | MyRelease
 
 [MyRLS](https://web.archive.org/) » Privacy Policy
 
