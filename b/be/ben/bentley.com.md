@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bentley.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105013929id_/http%3A//www.bentley.com/en-US/Corporate/Privacy%2BPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bentley.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523224122id_/http%3A//www.bentley.com/en-US/Corporate/Privacy%2BPolicy.htm) for the most accurate reproduction.*
 
 # Bentley Web Properties Privacy Policy
 
@@ -8,25 +8,25 @@ At Bentley Systems, Incorporated, we take our users' privacy very seriously and 
 
 Note that this Privacy Policy applies to data collected by Bentley Web Properties and online and offline services. It does not apply to sites, services, and products that do not display or link to this statement or that have their own privacy statements. 
 
-  * [Collection of Your Personal Information](http://www.bentley.com/BentleyWebSite/Templates/Corporate_Generic.aspx?NRMODE=Published&NRNODEGUID=%7bBFDF0ACE-0F9D-4989-B2FF-39F066686CFD%7d&NRORIGINALURL=%2fen-US%2fCorporate%2fPrivacy%2bPolicy%2ehtm&NRCACHEHINT=Guest#collection)
-  * [Use of Your Personal Information](http://www.bentley.com/BentleyWebSite/Templates/Corporate_Generic.aspx?NRMODE=Published&NRNODEGUID=%7bBFDF0ACE-0F9D-4989-B2FF-39F066686CFD%7d&NRORIGINALURL=%2fen-US%2fCorporate%2fPrivacy%2bPolicy%2ehtm&NRCACHEHINT=Guest#use)
-  * [Sharing of Your Personal Information](http://www.bentley.com/BentleyWebSite/Templates/Corporate_Generic.aspx?NRMODE=Published&NRNODEGUID=%7bBFDF0ACE-0F9D-4989-B2FF-39F066686CFD%7d&NRORIGINALURL=%2fen-US%2fCorporate%2fPrivacy%2bPolicy%2ehtm&NRCACHEHINT=Guest#sharing)
-  * [Accessing Your Personal Information](http://www.bentley.com/BentleyWebSite/Templates/Corporate_Generic.aspx?NRMODE=Published&NRNODEGUID=%7bBFDF0ACE-0F9D-4989-B2FF-39F066686CFD%7d&NRORIGINALURL=%2fen-US%2fCorporate%2fPrivacy%2bPolicy%2ehtm&NRCACHEHINT=Guest#access)
-  * [Communication Preferences](http://www.bentley.com/BentleyWebSite/Templates/Corporate_Generic.aspx?NRMODE=Published&NRNODEGUID=%7bBFDF0ACE-0F9D-4989-B2FF-39F066686CFD%7d&NRORIGINALURL=%2fen-US%2fCorporate%2fPrivacy%2bPolicy%2ehtm&NRCACHEHINT=Guest#communication)
-  * [Security of Your Personal Information](http://www.bentley.com/BentleyWebSite/Templates/Corporate_Generic.aspx?NRMODE=Published&NRNODEGUID=%7bBFDF0ACE-0F9D-4989-B2FF-39F066686CFD%7d&NRORIGINALURL=%2fen-US%2fCorporate%2fPrivacy%2bPolicy%2ehtm&NRCACHEHINT=Guest#security)
-  * [Collection and Use of Children's Personal Information](http://www.bentley.com/BentleyWebSite/Templates/Corporate_Generic.aspx?NRMODE=Published&NRNODEGUID=%7bBFDF0ACE-0F9D-4989-B2FF-39F066686CFD%7d&NRORIGINALURL=%2fen-US%2fCorporate%2fPrivacy%2bPolicy%2ehtm&NRCACHEHINT=Guest#children)
-  * [Use of Cookies](http://www.bentley.com/BentleyWebSite/Templates/Corporate_Generic.aspx?NRMODE=Published&NRNODEGUID=%7bBFDF0ACE-0F9D-4989-B2FF-39F066686CFD%7d&NRORIGINALURL=%2fen-US%2fCorporate%2fPrivacy%2bPolicy%2ehtm&NRCACHEHINT=Guest#cookies)
-  * [Use of Web Beacons](http://www.bentley.com/BentleyWebSite/Templates/Corporate_Generic.aspx?NRMODE=Published&NRNODEGUID=%7bBFDF0ACE-0F9D-4989-B2FF-39F066686CFD%7d&NRORIGINALURL=%2fen-US%2fCorporate%2fPrivacy%2bPolicy%2ehtm&NRCACHEHINT=Guest#web_beacons)
-  * [Use of Third-Party Ad Networks](http://www.bentley.com/BentleyWebSite/Templates/Corporate_Generic.aspx?NRMODE=Published&NRNODEGUID=%7bBFDF0ACE-0F9D-4989-B2FF-39F066686CFD%7d&NRORIGINALURL=%2fen-US%2fCorporate%2fPrivacy%2bPolicy%2ehtm&NRCACHEHINT=Guest#ad_networks)
-  * [Links to Other Sites](http://www.bentley.com/BentleyWebSite/Templates/Corporate_Generic.aspx?NRMODE=Published&NRNODEGUID=%7bBFDF0ACE-0F9D-4989-B2FF-39F066686CFD%7d&NRORIGINALURL=%2fen-US%2fCorporate%2fPrivacy%2bPolicy%2ehtm&NRCACHEHINT=Guest#linksto)
-  * [Links to Bentley Web Properties or services](http://www.bentley.com/BentleyWebSite/Templates/Corporate_Generic.aspx?NRMODE=Published&NRNODEGUID=%7bBFDF0ACE-0F9D-4989-B2FF-39F066686CFD%7d&NRORIGINALURL=%2fen-US%2fCorporate%2fPrivacy%2bPolicy%2ehtm&NRCACHEHINT=Guest#linksfrom)
-  * [Controlling "Spam" or Unsolicited E-mail](http://www.bentley.com/BentleyWebSite/Templates/Corporate_Generic.aspx?NRMODE=Published&NRNODEGUID=%7bBFDF0ACE-0F9D-4989-B2FF-39F066686CFD%7d&NRORIGINALURL=%2fen-US%2fCorporate%2fPrivacy%2bPolicy%2ehtm&NRCACHEHINT=Guest#spam)
-  * [Intellectual Property](http://www.bentley.com/BentleyWebSite/Templates/Corporate_Generic.aspx?NRMODE=Published&NRNODEGUID=%7bBFDF0ACE-0F9D-4989-B2FF-39F066686CFD%7d&NRORIGINALURL=%2fen-US%2fCorporate%2fPrivacy%2bPolicy%2ehtm&NRCACHEHINT=Guest#IP)
-  * [Submissions](http://www.bentley.com/BentleyWebSite/Templates/Corporate_Generic.aspx?NRMODE=Published&NRNODEGUID=%7bBFDF0ACE-0F9D-4989-B2FF-39F066686CFD%7d&NRORIGINALURL=%2fen-US%2fCorporate%2fPrivacy%2bPolicy%2ehtm&NRCACHEHINT=Guest#submissions)
-  * [Miscellaneous](http://www.bentley.com/BentleyWebSite/Templates/Corporate_Generic.aspx?NRMODE=Published&NRNODEGUID=%7bBFDF0ACE-0F9D-4989-B2FF-39F066686CFD%7d&NRORIGINALURL=%2fen-US%2fCorporate%2fPrivacy%2bPolicy%2ehtm&NRCACHEHINT=Guest#miscellaneous)
-  * [Enforcement of This Privacy Statement](http://www.bentley.com/BentleyWebSite/Templates/Corporate_Generic.aspx?NRMODE=Published&NRNODEGUID=%7bBFDF0ACE-0F9D-4989-B2FF-39F066686CFD%7d&NRORIGINALURL=%2fen-US%2fCorporate%2fPrivacy%2bPolicy%2ehtm&NRCACHEHINT=Guest#enforcement)
-  * [Changes to This Privacy Statement](http://www.bentley.com/BentleyWebSite/Templates/Corporate_Generic.aspx?NRMODE=Published&NRNODEGUID=%7bBFDF0ACE-0F9D-4989-B2FF-39F066686CFD%7d&NRORIGINALURL=%2fen-US%2fCorporate%2fPrivacy%2bPolicy%2ehtm&NRCACHEHINT=Guest#changes)
-  * [Contacting Us](http://www.bentley.com/BentleyWebSite/Templates/Corporate_Generic.aspx?NRMODE=Published&NRNODEGUID=%7bBFDF0ACE-0F9D-4989-B2FF-39F066686CFD%7d&NRORIGINALURL=%2fen-US%2fCorporate%2fPrivacy%2bPolicy%2ehtm&NRCACHEHINT=Guest#contacting_us)
+  * [Collection of Your Personal Information](http://www.bentley.com/en-US/Corporate/Privacy+Policy.htm#collection)
+  * [Use of Your Personal Information](http://www.bentley.com/en-US/Corporate/Privacy+Policy.htm#use)
+  * [Sharing of Your Personal Information](http://www.bentley.com/en-US/Corporate/Privacy+Policy.htm#sharing)
+  * [Accessing Your Personal Information](http://www.bentley.com/en-US/Corporate/Privacy+Policy.htm#access)
+  * [Communication Preferences](http://www.bentley.com/en-US/Corporate/Privacy+Policy.htm#communication)
+  * [Security of Your Personal Information](http://www.bentley.com/en-US/Corporate/Privacy+Policy.htm#security)
+  * [Collection and Use of Children's Personal Information](http://www.bentley.com/en-US/Corporate/Privacy+Policy.htm#children)
+  * [Use of Cookies](http://www.bentley.com/en-US/Corporate/Privacy+Policy.htm#cookies)
+  * [Use of Web Beacons](http://www.bentley.com/en-US/Corporate/Privacy+Policy.htm#web_beacons)
+  * [Use of Third-Party Ad Networks](http://www.bentley.com/en-US/Corporate/Privacy+Policy.htm#ad_networks)
+  * [Links to Other Sites](http://www.bentley.com/en-US/Corporate/Privacy+Policy.htm#linksto)
+  * [Links to Bentley Web Properties or services](http://www.bentley.com/en-US/Corporate/Privacy+Policy.htm#linksfrom)
+  * [Controlling "Spam" or Unsolicited E-mail](http://www.bentley.com/en-US/Corporate/Privacy+Policy.htm#spam)
+  * [Intellectual Property](http://www.bentley.com/en-US/Corporate/Privacy+Policy.htm#IP)
+  * [Submissions](http://www.bentley.com/en-US/Corporate/Privacy+Policy.htm#submissions)
+  * [Miscellaneous](http://www.bentley.com/en-US/Corporate/Privacy+Policy.htm#miscellaneous)
+  * [Enforcement of This Privacy Statement](http://www.bentley.com/en-US/Corporate/Privacy+Policy.htm#enforcement)
+  * [Changes to This Privacy Statement](http://www.bentley.com/en-US/Corporate/Privacy+Policy.htm#changes)
+  * [Contacting Us](http://www.bentley.com/en-US/Corporate/Privacy+Policy.htm#contacting_us)
 
 
 
@@ -40,11 +40,11 @@ On some Bentley Web Properties, we ask you to provide personal information, such
 
 We may collect information about your visit, including the pages you view, the links you click, and other actions taken in connection with Bentley Web Properties and services. We also collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times, and referring website addresses. 
 
-When you receive newsletters or promotional e-mail from Bentley Web Properties, we may use Web beacons (described [below](http://www.bentley.com/web_beacons)), customized links, or similar technologies to determine whether the e-mail has been opened and which links you click in order to provide you more focused e-mail communications or other information in the future. 
+When you receive newsletters or promotional e-mail from Bentley Web Properties, we may use Web beacons (described [below](http://www.bentley.com/en-US/Corporate/Privacy+Policy.htm#web_beacons)), customized links, or similar technologies to determine whether the e-mail has been opened and which links you click in order to provide you more focused e-mail communications or other information in the future. 
 
 In order to offer you a more consistent and personalized experience in your interactions with Bentley Web Properties, information collected through one Bentley Web Property service may be combined with information obtained through other Bentley Web Property services. We may also supplement the information we collect with information obtained from other companies. For example, we may use services from other companies that enable us to derive a general geographic area based on your IP address in order to customize certain services delivered to you based on your geographic area. 
 
-[Back to top](http://www.bentley.com/BentleyWebSite/Templates/Corporate_Generic.aspx?NRMODE=Published&NRNODEGUID=%7bBFDF0ACE-0F9D-4989-B2FF-39F066686CFD%7d&NRORIGINALURL=%2fen-US%2fCorporate%2fPrivacy%2bPolicy%2ehtm&NRCACHEHINT=Guest#top)
+[Back to top](http://www.bentley.com/en-US/Corporate/Privacy+Policy.htm#top)
 
 ## Use of Your Personal Information
 
@@ -54,11 +54,11 @@ We also use your personal information to communicate with you. We may send certa
 
 Personal information collected on Bentley Web Properties and services may be stored and processed in the United States or any other country in which Bentley or its affiliates, subsidiaries, or agents maintain facilities, and by using a Bentley Web Property or service, you consent to any such transfer of information outside of your country. Bentley abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. 
 
-[Back to top](http://www.bentley.com/BentleyWebSite/Templates/Corporate_Generic.aspx?NRMODE=Published&NRNODEGUID=%7bBFDF0ACE-0F9D-4989-B2FF-39F066686CFD%7d&NRORIGINALURL=%2fen-US%2fCorporate%2fPrivacy%2bPolicy%2ehtm&NRCACHEHINT=Guest#top)
+[Back to top](http://www.bentley.com/en-US/Corporate/Privacy+Policy.htm#top)
 
 ## Sharing of Your Personal Information
 
-Except as described in this statement, we will not disclose your personal information outside of Bentley and its controlled subsidiaries and affiliates without your consent. Some Bentley Web Properties allow you to choose to share your personal information with select Bentley Web Property partners so that they can contact you about their products, services, or offers. Other sites do not share your contact information with third parties for marketing purposes, but instead may give you a choice as to whether you wish to receive communications from Bentley on behalf of external business partners about a partner's particular offering (without transferring your personal information to the third party). See the [Communication Preferences](http://www.bentley.com/BentleyWebSite/Templates/Corporate_Generic.aspx?NRMODE=Published&NRNODEGUID=%7bBFDF0ACE-0F9D-4989-B2FF-39F066686CFD%7d&NRORIGINALURL=%2fen-US%2fCorporate%2fPrivacy%2bPolicy%2ehtm&NRCACHEHINT=Guest#) section below for more information. 
+Except as described in this statement, we will not disclose your personal information outside of Bentley and its controlled subsidiaries and affiliates without your consent. Some Bentley Web Properties allow you to choose to share your personal information with select Bentley Web Property partners so that they can contact you about their products, services, or offers. Other sites do not share your contact information with third parties for marketing purposes, but instead may give you a choice as to whether you wish to receive communications from Bentley on behalf of external business partners about a partner's particular offering (without transferring your personal information to the third party). See the [Communication Preferences](http://www.bentley.com/en-US/Corporate/Privacy+Policy.htm#communication) section below for more information. 
 
 Some Bentley Web Property services may be co-branded and offered in conjunction with another company. If you register for or use such services, both Bentley and the other company may receive information collected in connection with the co-branded services. 
 
@@ -66,21 +66,21 @@ We occasionally hire other companies to provide limited services on our behalf, 
 
 We may access and/or disclose your personal information if we believe such action is necessary to: (a) comply with the law or legal process served on Bentley; (b) protect and defend the rights or property of Bentley (including the enforcement of our agreements); or (c) act in urgent circumstances to protect the personal safety of users of Bentley Web Property services or members of the public. 
 
-[Back to top](http://www.bentley.com/BentleyWebSite/Templates/Corporate_Generic.aspx?NRMODE=Published&NRNODEGUID=%7bBFDF0ACE-0F9D-4989-B2FF-39F066686CFD%7d&NRORIGINALURL=%2fen-US%2fCorporate%2fPrivacy%2bPolicy%2ehtm&NRCACHEHINT=Guest#top)
+[Back to top](http://www.bentley.com/en-US/Corporate/Privacy+Policy.htm#top)
 
 ## Accessing Your Personal Information
 
-You may have the ability to view or edit your personal information online. To help prevent your personal information from being viewed by others, you will be required to sign in with your credentials (e.g. username and password). The appropriate method(s) for accessing your personal information will depend on which sites or services you have used. Some Bentley Web Properties or services may collect personal information that you may be able to access through alternative means of access described by the service. Or you can use our [contact us](mailto:http://www.bentley.com/bentleywebsite/tools/sales_contact.aspx) form and we will contact you within 30 days regarding your request. 
+You may have the ability to view or edit your personal information online. To help prevent your personal information from being viewed by others, you will be required to sign in with your credentials (e.g. username and password). The appropriate method(s) for accessing your personal information will depend on which sites or services you have used. Some Bentley Web Properties or services may collect personal information that you may be able to access through alternative means of access described by the service. Or you can use our [contact us](http://www.bentley.com/BentleyWebSite/Tools/feedback.aspx) form and we will contact you within 30 days regarding your request. 
 
-[Back to top](http://www.bentley.com/BentleyWebSite/Templates/Corporate_Generic.aspx?NRMODE=Published&NRNODEGUID=%7bBFDF0ACE-0F9D-4989-B2FF-39F066686CFD%7d&NRORIGINALURL=%2fen-US%2fCorporate%2fPrivacy%2bPolicy%2ehtm&NRCACHEHINT=Guest#top)
+[Back to top](http://www.bentley.com/en-US/Corporate/Privacy+Policy.htm#top)
 
 ## Communication Preferences
 
-You can stop the delivery of future promotional e-mail from Bentley Web Properties and services by following the specific instructions set forth in such promotional e-mail. You may also have the option of proactively making choices about the communications you receive from particular Bentley Web Properties or services by [contacting us](mailto:http://www.bentley.com/bentleywebsite/tools/sales_contact.aspx). 
+You can stop the delivery of future promotional e-mail from Bentley Web Properties and services by following the specific instructions set forth in such promotional e-mail. You may also have the option of proactively making choices about the communications you receive from particular Bentley Web Properties or services by [contacting us](http://www.bentley.com/BentleyWebSite/Tools/feedback.aspx). 
 
 We may send out periodic e-mails informing you of technical service issues, product surveys, new feature announcements, or news about our products and services. These communications are considered essential to the provision of the service you have requested. You will not be able to choose to unsubscribe to these mailings, as they are considered a part of the service you have chosen. 
 
-[Back to top](http://www.bentley.com/BentleyWebSite/Templates/Corporate_Generic.aspx?NRMODE=Published&NRNODEGUID=%7bBFDF0ACE-0F9D-4989-B2FF-39F066686CFD%7d&NRORIGINALURL=%2fen-US%2fCorporate%2fPrivacy%2bPolicy%2ehtm&NRCACHEHINT=Guest#top)
+[Back to top](http://www.bentley.com/en-US/Corporate/Privacy+Policy.htm#top)
 
 ## Security of Your Personal Information
 
@@ -88,7 +88,7 @@ Bentley is committed to protecting the security of your personal information. We
 
 If a password is used to help protect your accounts and personal information, it is your responsibility to keep your password confidential. Do not share this information with anyone. If you are sharing a computer with anyone you should always choose to log out before leaving a site or service to protect access to your information from subsequent users. 
 
-[Back to top](http://www.bentley.com/BentleyWebSite/Templates/Corporate_Generic.aspx?NRMODE=Published&NRNODEGUID=%7bBFDF0ACE-0F9D-4989-B2FF-39F066686CFD%7d&NRORIGINALURL=%2fen-US%2fCorporate%2fPrivacy%2bPolicy%2ehtm&NRCACHEHINT=Guest#top)
+[Back to top](http://www.bentley.com/en-US/Corporate/Privacy+Policy.htm#top)
 
 ## Collection and Use of Children's Personal Information
 
@@ -96,7 +96,7 @@ Many Bentley Web Properties and services are intended for general audiences and 
 
 Bentley strongly encourages you to talk with your children about communicating with strangers and disclosing personal information online and about using the Internet safely. 
 
-[Back to top](http://www.bentley.com/BentleyWebSite/Templates/Corporate_Generic.aspx?NRMODE=Published&NRNODEGUID=%7bBFDF0ACE-0F9D-4989-B2FF-39F066686CFD%7d&NRORIGINALURL=%2fen-US%2fCorporate%2fPrivacy%2bPolicy%2ehtm&NRCACHEHINT=Guest#top)
+[Back to top](http://www.bentley.com/en-US/Corporate/Privacy+Policy.htm#top)
 
 ## Use of Cookies
 
@@ -108,7 +108,7 @@ When you sign in to a site using your credentials, the Bentley Web Properties ne
 
 You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to sign in or use other interactive features of Bentley Web Properties and services that depend on cookies. 
 
-[Back to top](http://www.bentley.com/BentleyWebSite/Templates/Corporate_Generic.aspx?NRMODE=Published&NRNODEGUID=%7bBFDF0ACE-0F9D-4989-B2FF-39F066686CFD%7d&NRORIGINALURL=%2fen-US%2fCorporate%2fPrivacy%2bPolicy%2ehtm&NRCACHEHINT=Guest#top)
+[Back to top](http://www.bentley.com/en-US/Corporate/Privacy+Policy.htm#top)
 
 ## Use of Web Beacons
 
@@ -118,7 +118,7 @@ Bentley Web Property pages may also employ Web beacons from third-parties in ord
 
 Finally, we may work with other companies that advertise on Bentley Web Properties to place Web beacons on their sites in order to allow us to develop statistics on how often clicking on an advertisement on a Bentley Web Property results in a purchase or other action on the advertiser's site. 
 
-[Back to top](http://www.bentley.com/BentleyWebSite/Templates/Corporate_Generic.aspx?NRMODE=Published&NRNODEGUID=%7bBFDF0ACE-0F9D-4989-B2FF-39F066686CFD%7d&NRORIGINALURL=%2fen-US%2fCorporate%2fPrivacy%2bPolicy%2ehtm&NRCACHEHINT=Guest#top)
+[Back to top](http://www.bentley.com/en-US/Corporate/Privacy+Policy.htm#top)
 
 ## Use of Third Party Ad Networks
 
@@ -126,25 +126,25 @@ The majority of the online banner advertisements you see on Bentley Web Property
 
 Bentley maintains relationships with a number of the third-party ad networks currently operating. Those ad networks that use persistent cookies may offer you a way to opt out of ad targeting. You may find more information at the website of either the individual ad network or the [Network Advertising Initiative](http://www.networkadvertising.org/). 
 
-[Back to top](http://www.bentley.com/BentleyWebSite/Templates/Corporate_Generic.aspx?NRMODE=Published&NRNODEGUID=%7bBFDF0ACE-0F9D-4989-B2FF-39F066686CFD%7d&NRORIGINALURL=%2fen-US%2fCorporate%2fPrivacy%2bPolicy%2ehtm&NRCACHEHINT=Guest#top)
+[Back to top](http://www.bentley.com/en-US/Corporate/Privacy+Policy.htm#top)
 
 ## Links to Other Sites
 
 Bentley Web Properties may contain links to other sites. Bentley is not responsible for the privacy practices or the content of other Web sites. Please refer to the policies of the respective site. 
 
-[Back to top](http://www.bentley.com/BentleyWebSite/Templates/Corporate_Generic.aspx?NRMODE=Published&NRNODEGUID=%7bBFDF0ACE-0F9D-4989-B2FF-39F066686CFD%7d&NRORIGINALURL=%2fen-US%2fCorporate%2fPrivacy%2bPolicy%2ehtm&NRCACHEHINT=Guest#top)
+[Back to top](http://www.bentley.com/en-US/Corporate/Privacy+Policy.htm#top)
 
 ## Links to Bentley Web Properties or services
 
 You are welcome to establish a hypertext link to our sites and services as long as the link does not state or imply Bentley's sponsorship of your site. However, you may not use any Bentley logo in conjunction with the link without obtaining Bentley prior express permission to do so. Bentley reserves the right to revoke this courtesy, at its sole discretion. You may not link to our sites or services through a frame. 
 
-[Back to top](http://www.bentley.com/BentleyWebSite/Templates/Corporate_Generic.aspx?NRMODE=Published&NRNODEGUID=%7bBFDF0ACE-0F9D-4989-B2FF-39F066686CFD%7d&NRORIGINALURL=%2fen-US%2fCorporate%2fPrivacy%2bPolicy%2ehtm&NRCACHEHINT=Guest#top)
+[Back to top](http://www.bentley.com/en-US/Corporate/Privacy+Policy.htm#top)
 
 ## Controlling "Spam" or Unsolicited E-mail
 
 Bentley is concerned about controlling unsolicited commercial e-mail, or Spam. Bentley will not sell, lease, or rent its e-mail subscriber lists to third parties. While Bentley continues to actively review and implement new technology, such as expanded filtering features, there is no currently available technology that will totally prevent the sending and receiving of unsolicited e-mail. Using various e-mail client tools and being cautious about the sharing of your e-mail address while online will help reduce the amount of unsolicited e-mail you receive. By using or otherwise accessing Bentley Web Properties, you agree not to gather any e-mail addresses for the purposes of spamming. 
 
-[Back to top](http://www.bentley.com/BentleyWebSite/Templates/Corporate_Generic.aspx?NRMODE=Published&NRNODEGUID=%7bBFDF0ACE-0F9D-4989-B2FF-39F066686CFD%7d&NRORIGINALURL=%2fen-US%2fCorporate%2fPrivacy%2bPolicy%2ehtm&NRCACHEHINT=Guest#top)
+[Back to top](http://www.bentley.com/en-US/Corporate/Privacy+Policy.htm#top)
 
 ## Intellectual Property
 
@@ -152,41 +152,41 @@ Bentley takes the protection of its intellectual property very seriously. Bentle
 
 Bentley does not review specific requests for guidance concerning the use of trademarks, service marks, logos, or other product names. To the extent a Bentley Web Property does not provide answers to your specific questions, please consult your legal counsel. 
 
-If you have a trademark question pertaining to an existing agreement or other business agreement with Bentley, please contact your Bentley account manager, who will seek advice from Bentley Legal or Bentley Marketing. You may also contact [Bentley Marketing](mailto:http://www.bentley.com/bentleywebsite/tools/sales_contact.aspx). For questions concerning academic use, please contact [becareers@bentley.com](mailto:mailto:becareers@bentley.com). 
+If you have a trademark question pertaining to an existing agreement or other business agreement with Bentley, please contact your Bentley account manager, who will seek advice from Bentley Legal or Bentley Marketing. You may also contact [Bentley Marketing](http://www.bentley.com/en-US/Corporate/Contact+Us/). For questions concerning academic use, please contact [becareers@bentley.com](mailto:mailto:becareers@bentley.com). 
 
 Bentley does not advise others on the scope of intellectual property rights. Bentley does not permit or consent to any name, logo, trademark, or service mark to be used that could be confused with or dilute Bentley's trademarks. If you have any questions, you should consult your legal counsel. 
 
 Bentley is committed to respecting the intellectual property rights of others and requests the same of our users. Bentley, in its sole discretion, may terminate the accounts and access rights of users who infringe or otherwise violate others' intellectual property rights. 
 
-[Back to top](http://www.bentley.com/BentleyWebSite/Templates/Corporate_Generic.aspx?NRMODE=Published&NRNODEGUID=%7bBFDF0ACE-0F9D-4989-B2FF-39F066686CFD%7d&NRORIGINALURL=%2fen-US%2fCorporate%2fPrivacy%2bPolicy%2ehtm&NRCACHEHINT=Guest#top)
+[Back to top](http://www.bentley.com/en-US/Corporate/Privacy+Policy.htm#top)
 
 ## Submissions
 
 Bentley welcomes user input and feedback and provides various services whereby such information can be made available to users of Bentley Web Property services, such as but not limited to FAQs, Tips and Tricks, Case Studies, Examples, Resources, Galleries, and other services. Any user material, information or other communication transmitted or posted to Bentley Web Properties or services, or otherwise provided to Bentley (" **Submission** ") is understood by both parties to be non-confidential and non-proprietary. Bentley has no obligation with respect to any Submission and may freely copy, reproduce, incorporate, distribute, or use such Submission as it wishes. Submissions that are pornographic, violent, obscene, threatening, defamatory, libelous, or violate the law in any way, are prohibited. 
 
-[Back to top](http://www.bentley.com/BentleyWebSite/Templates/Corporate_Generic.aspx?NRMODE=Published&NRNODEGUID=%7bBFDF0ACE-0F9D-4989-B2FF-39F066686CFD%7d&NRORIGINALURL=%2fen-US%2fCorporate%2fPrivacy%2bPolicy%2ehtm&NRCACHEHINT=Guest#top)
+[Back to top](http://www.bentley.com/en-US/Corporate/Privacy+Policy.htm#top)
 
 ## Miscellaneous
 
 Bentley Web Properties may include inaccuracies or typographical errors. Bentley may make improvements and/or changes in the products, services, programs, and prices described in Bentley Web Properties at any time without notice. Pennsylvania law and controlling U.S. federal law will govern any action arising from use of Bentley Web Properties. 
 
-[Back to top](http://www.bentley.com/BentleyWebSite/Templates/Corporate_Generic.aspx?NRMODE=Published&NRNODEGUID=%7bBFDF0ACE-0F9D-4989-B2FF-39F066686CFD%7d&NRORIGINALURL=%2fen-US%2fCorporate%2fPrivacy%2bPolicy%2ehtm&NRCACHEHINT=Guest#top)
+[Back to top](http://www.bentley.com/en-US/Corporate/Privacy+Policy.htm#top)
 
 ## Enforcement of This Privacy Statement
 
-If you have questions regarding this statement, you should [contact us](mailto:http://www.bentley.com/bentleywebsite/tools/sales_contact.aspx). 
+If you have questions regarding this statement, you should [contact us](http://www.bentley.com/BentleyWebSite/Tools/feedback.aspx). 
 
-[Back to top](http://www.bentley.com/BentleyWebSite/Templates/Corporate_Generic.aspx?NRMODE=Published&NRNODEGUID=%7bBFDF0ACE-0F9D-4989-B2FF-39F066686CFD%7d&NRORIGINALURL=%2fen-US%2fCorporate%2fPrivacy%2bPolicy%2ehtm&NRCACHEHINT=Guest#top)
+[Back to top](http://www.bentley.com/en-US/Corporate/Privacy+Policy.htm#top)
 
 ## Changes to This Privacy Statement
 
 We will occasionally update this privacy statement to reflect changes in our services and user feedback. When we make changes to this statement, the " **Last Revised** " date at the top of this statement will reflect when those changes were made. If there are material changes to this statement or in how Bentley will use your personal information, we will notify you either by prominently posting a notice of such changes prior to implementing the change or by directly sending you a notification. We encourage you to periodically review this statement to be informed of how Bentley is protecting your information. 
 
-[Back to top](http://www.bentley.com/BentleyWebSite/Templates/Corporate_Generic.aspx?NRMODE=Published&NRNODEGUID=%7bBFDF0ACE-0F9D-4989-B2FF-39F066686CFD%7d&NRORIGINALURL=%2fen-US%2fCorporate%2fPrivacy%2bPolicy%2ehtm&NRCACHEHINT=Guest#top)
+[Back to top](http://www.bentley.com/en-US/Corporate/Privacy+Policy.htm#top)
 
 ## Contacting Us
 
-Bentley welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please [contact us](mailto:http://www.bentley.com/bentleywebsite/tools/sales_contact.aspx). 
+Bentley welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please [contact us](http://www.bentley.com/BentleyWebSite/Tools/feedback.aspx). 
 
 * * *
 
