@@ -1,17 +1,17 @@
-<!--The following is the downloaded HTML source of the guitarmasterclass.net privacy policy that was archived on 2011-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111207082309id_/http%3A//www.guitarmasterclass.net/Privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the guitarmasterclass.net privacy policy that was archived on 2012-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120523103232id_/http%3A//www.guitarmasterclass.net/Privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
-	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<!--[if IE 6 ]>
-		<link rel="stylesheet" href="/site/ie-6-css/gmc-6.2672.css/" type="text/css" media="screen" charset="utf-8">
+			<!--[if IE 6 ]>
+		<link rel="stylesheet" href="/site/ie-6-css/gmc-6.1337766719.css/" type="text/css" media="screen" charset="utf-8" />
 	<![endif]--> 
 	<!--[if gte IE 7 ]>
-		<link rel="stylesheet" href="/site/ie-7-css/gmc-7.2672.css/" type="text/css" media="screen" charset="utf-8">
+		<link rel="stylesheet" href="/site/ie-7-css/gmc-7.1337766719.css/" type="text/css" media="screen" charset="utf-8" />
 	<![endif]--> 
 	<!--[if !IE]>-->
-			<link rel="stylesheet" href="/site/css/gmc.2672.css/" type="text/css" media="screen" charset="utf-8">
+			<link rel="stylesheet" href="/site/css/gmc.1337766719.css/" type="text/css" media="screen" charset="utf-8">
 		<!--<![endif]-->
 				
 <link rel="shortcut icon" href="/Bilder/favicon.ico">
@@ -27,7 +27,7 @@ margin-left: 20px;
 </style>
 <![endif]-->
 		
-							
+						
 				<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/GuitarMasterClassnet">
 				<link rel="shortcut icon" href="/Bilder/favicon.ico">
 
@@ -52,11 +52,11 @@ margin-left: 20px;
 	</script><script src="https://ssl.google-analytics.com/ga.js" async="true"></script>
 	
 </head>
-<body class="privacy ">
-	<input type="hidden" name="word-helpers" value="asymmetrical phrase,flatwound strings,alternate picking,natural harmonic,chicken picking,hybrid picking,fingerpicking,improvisation,accented note,finger style,neoclassical,fingerboard,double stop,palm muting,arrangement,distortion,diminished,grace note,ghost note,noise gate,mixolydian,modulation,hammer-on,inversion,hammer on,augmented,fretboard,headstock,dead note,hammeron,harmonic,interval,arpeggio,locrian,aeolian,country,archtop,muting,ionian,legato,melody,lydian,octave,detune,dorian,flange,eighth,fusion,chorus,action,bridge,minor,chord,etude,blues,barre,major,capo,bend,fret,half,fuzz,funk,folk,echo,lick,diad,mode,jig,bar,nut" id="word-helpers">
+<body class="privacy  ">
+	<input type="hidden" name="word-helpers" value="downstroke strumming,artificial harmonics,asymmetrical phrase,symmetrical phrase,alternate picking,flatwound strings,chord progression,sixteenth triplet,pinched harmonic,natural harmonic,open string riff,chicken picking,tremolo picking,reharmonization,hybrid picking,harmonic minor,slap back echo,time signature,improvisation,fingerpicking,spring reverb,accented note,speed picking,sweep picking,dynamic range,embellishment,blues rhythm,neoclassical,finger style,accentuation,12 Bar Blues,tremolo arm,palm muting,palm-muting,sound board,power chord,slash chord,progression,tuning pegs,fingerboard,double stop,arrangement,thumb pick,whammy bar,distortion,diminished,whole step,mixolydian,noise gate,modulation,sextuplets,pentatonic,pitch pipe,downstroke,ghost note,percussive,sound hole,grace note,compressor,tablature,sixteenth,strumming,augmented,headstock,hammer-on,dead note,truss rod,hammer on,inversion,half step,harmonics,fretboard,emulator,plectrum,interval,pull off,harmonic,pull-off,staccato,phrygian,phrasing,tonality,hammeron,upstroke,sweeping,arpeggio,riffing,sliding,tapping,bending,vibrato,tremolo,triplet,harmony,voicing,aeolian,archtop,country,quarter,picking,locrian,pickup,dorian,detune,action,eighth,lydian,flange,fusion,legato,chorus,muting,ionian,octave,bridge,phrase,melody,reverb,saddle,barre,sharp,etude,chord,blues,tonic,minor,slide,tuner,bends,tempo,trill,major,scale,triad,solo,capo,sus4,bend,riff,mode,diad,echo,half,fuzz,funk,flat,fret,folk,lick,root,rock,bar,nut,jig,wah,EP,AP" id="word-helpers">
 
 	<div id="bookmarks">
-		<p>
+	                   		<p>
 			<input type="text" id="bookmark-filter" value="Write to filter bookmarks" name="filter" class="hint">
 			<span id="clearFilter">X</span>
 		</p> 
@@ -78,10 +78,49 @@ margin-left: 20px;
 						<span class="color instructors">  <img src="/font/0/9/f8ef06/" alt="0"> </span>
 					</div>
 				</a>
-				<form action="/search/" method="get" id="gmc-search">
+                
+                    <script type="text/javascript">
+		    (function() {
+		    	var is_submited	= false ;
+			window['on_search_form_submit']	= function (evt) {
+				   if(evt) {
+					// evt.stopPropagation?evt.stopPropagation():evt.cancelBubble();
+					evt.cancelBubble    = true ;
+					evt.returnValue = false ;
+				    }
+				    if( is_submited ) {
+				    	return false ;
+				    }
+				   var text    = String( document.getElementById('global-search').value ).replace(/^\s+|\s+$/, '') ;
+				    var url;
+				    if(  text.match(/^Search for anything/)  ){
+					url = '/search/' ;
+				    } else {
+					url = '/search/' + text.replace('#', '_hash_').replace('/', '_slash_')  + '/' ;
+				    }
+				// $('#gmc-search').attr('action',  url);
+				$('#global-search').attr('disabled', 'disabled');
+				$('#gmc-search > input').each(function()
+				{
+					$(this).attr('disabled', 'disabled');
+				});
+				is_submited	= true ;
+				window.location	= url ;
+			}
+		    
+			window['on_search_input_box_click']	= function (evt) {
+				if(  this.value.match(/^Search for anything/)  ){
+				    this.value='' ;
+				};
+				return true;
+			}
+		    })();
+                </script>
+                
+				<form action="/search/" method="get" id="gmc-search" onsubmit="return on_search_form_submit(event)">
 					<input type="hidden" name="page" value="search" id="page">
-					<input onclick="if(this.value.match(/^Search for anything/)){this.value=''};" type="text" name="global-search" value="Search for anything on the site..." id="global-search">
-					<input type="image" src="/images/gmc-global-submit.png" name="global-search-submit" id="global-search-submit">
+					<input onclick="return on_search_input_box_click.call(this, event)" type="text" name="global-search" value="Search for anything on the site..." id="global-search">
+					<input onclick="return on_search_form_submit(event)" type="image" src="/images/gmc-global-submit.png" name="global-search-submit" id="global-search-submit">
 				</form>
 				<div id="gmc-header-bottom"></div>
 			</div>
@@ -92,14 +131,14 @@ margin-left: 20px;
 										<li class="guitar-lessons"><a href="/video-lessons/" title="Guitar Lessons"><img alt="Guitar Lessons" src="/images/menu-guitar-lessons.png"></a></li>
 					<li class="lick-of-the-day"><a href="/lick-of-the-day-v2/blues/" title="Lick of the Day"><img src="/images/menu-lick-of-the-day.png" alt="Lick of the day"></a></li>
 					<li class="workshops"><a href="/live/" title="Workshops"><img src="/images/menu-workshops.png" alt="Workshops"></a></li>
-					<li class="knowledge-base"><a href="/wiki/index.php/Main_Page" title="Knowledge Base"><img src="/images/menu-knowledge-base.png" alt="Knowledge base"></a></li>
+					<li class="knowledge-base"><a href="/scalegenerator/" title="Scale Generator"><img src="/images/menu-scale-generator.png" alt="Scale Generator"></a></li>
 					<li class="forum"><a href="/guitar_forum/" title="Forum"><img src="/images/menu-forum.png" alt="Forum"></a></li>
-                                        
+                    
 											<li class="login">
 							<form action="/actions/login/" method="POST">
 							<input type="hidden" name="remember" value="true">
 							<div>
-								<input class="hint text" type="text" name="logindata" value="Email" id="username">
+								<input class="hint text" type="text" name="logindata" value="Email or forum name" id="username">
 							</div>
 							<div>
 								<input class="hint text" type="password" name="passdata" value="password" id="password">
@@ -113,7 +152,7 @@ margin-left: 20px;
 					<div class="gmc-padding"><div class="old-content">
 <div class="content">
 
-	<h1>Privacy Policy</h1>
+	<h1><img src="/font/Privacy+Policy/20/" alt="Privacy Policy"></h1>
     <p>
     <strong>Cookies - </strong>Cookies are small text files saved on your computer for added functionality or for tracking website usage when you visit websites. Session cookies are temporary files that disappear when you leave the website. Persistent cookies remain on your computer for a longer period or until you delete them yourself. The Persistent cookies enable the website to remember you and the information you sought on earlier visits.
     </p><p>
@@ -134,4 +173,4 @@ margin-left: 20px;
 
 
 </div>
-</div></div></div></div></div><div id="gmc-footer"><a href="/about/">About</a>|<a href="/instructors/">Instructors</a>|<a href="/Contact.htm">Contact</a>|<a href="/terms-of-use.htm">Terms of Use</a>|<a href="/Privacy.htm">Privacy policy</a>|<a href="/member-info/">Referrals</a>|<a href="/signup/"><strong>Sign up</strong></a>|<a href="/teach-online/">Guitar jobs</a>|<a href="/linkmembers/">Linkmembers</a></div><br><br><br><br><div id="gmc-footer-goodstuff-header"><img src="/images/get-to-the-good-stuff.png" alt="Get to the good stuff"></div><br><div id="gmc-footer-goodstuff"><a href="/video-lessons/absolute-beginner/">Beginner guitar lessons</a>|<a href="/video-lessons/blues/">Blues guitar lessons</a>|<a href="/video-lessons/jazz/">Jazz guitar lessons</a>|<a href="/video-lessons/country/">Country guitar lessons</a>|<a href="/video-lessons/acoustic-lessons/">Acoustic guitar lessons</a><br><a href="/video-lessons/flamenco/">Flamenco guitar lessons</a>|<a href="/video-lessons/pop-rock/">Rock guitar lessons</a>|<a href="/video-lessons/metal/">Metal guitar lessons</a>|<a href="/video-lessons/shred/">Shred guitar lessons</a></div><div id="gmc-work"><h4><img src="/font/GMC+Jobs/16/" alt="GMC Jobs"></h4><h5>Sales/Marketing</h5><p>We are looking for local collaborators. Your job will be to contact websites/institutions/companies. All countries &amp; regions are of intererst.</p><p>Get in contact with <a href="mailto:info@guitarmasterclass.net">info@guitarmasterclass.net</a> and tell us more about yourself!</p><h5>Guitar Instructors</h5><p>We are currently looking for instructors with great teaching skills who can focus their lessons towards beginners. We are also looking for a country instructor.</p><p><a class="read-more" href="http://www.guitarmasterclass.net/teach-online/">Read More</a></p></div><script src="/site/js/gmc.2187.js/" type="text/javascript" charset="utf-8"></script></body></html>
+</div></div></div></div></div><div id="gmc-footer"><a href="/about/">About</a>|<a href="/instructors/">Instructors</a>|<a href="/Contact.htm">Contact</a>|<a href="/terms-of-use.htm">Terms of Use</a>|<a href="/Privacy.htm">Privacy policy</a>|<a href="/member-info/">Referrals</a>|<a href="/signup/"><strong>Sign up</strong></a>|<a href="/teach-online/">Guitar jobs</a>|<a href="/linkmembers/">Linkmembers</a></div><br><div id="gmc-footer-goodstuff">Questions? support@guitarmasterclass.net</div><br><script src="/site/js/gmc.1337766719.js/" type="text/javascript" charset="utf-8"></script></body></html>
