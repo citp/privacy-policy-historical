@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the popsugar.com.au privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130193844id_/http%3A//www.popsugar.com.au/page/115630) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popsugar.com.au privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524004941id_/http%3A//www.popsugar.com.au/page/115630) for the most accurate reproduction.*
 
-# Celebrity Gossip & News | PopSugar Australia | Insanely addictive. Celebrity and entertainment news and gossip. - Celebrity Gossip & News
+# Celebrity Gossip & News | PopSugar Australia
 
 ## Privacy Policy
 
