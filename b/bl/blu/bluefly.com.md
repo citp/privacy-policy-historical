@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluefly.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123183112id_/http%3A//bluefly.com/custom/custom.jsp%3FpromoId%3Dm1930248) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluefly.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524012101id_/http%3A//www.bluefly.com/custom/custom.jsp%3FpromoId%3Dm1930248) for the most accurate reproduction.*
 
 # Bluefly Privacy Policy
 
