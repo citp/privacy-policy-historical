@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the japantoday.com privacy policy that was archived on 2011-10-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111006060614id_/http%3A//www.japantoday.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the japantoday.com privacy policy that was archived on 2012-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120523202019id_/http%3A//www.japantoday.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta http-equiv="content-type" content="text/html;charset=UTF-8">
@@ -15,7 +15,7 @@
 <!--[if IE]> <link href="/css/ie.css" media="all" rel="stylesheet" type="text/css" ><![endif]-->
 <!--[if lt IE 8]> <link href="/css/ie7.css" media="all" rel="stylesheet" type="text/css" ><![endif]-->
 <!--[if lt IE 7]> <link href="/css/ie6.css" media="all" rel="stylesheet" type="text/css" ><![endif]-->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 <!--[if IE]> <script type="text/javascript" src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 <script type="text/javascript" src="/js/main.js"></script>
 <script type="text/javascript" src="/js/jquery.placeholder.min.js"></script>
@@ -23,6 +23,7 @@
     //<!--
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-2119552-7']);
+_gaq.push(['_setDomainName', 'japantoday.com']);
 _gaq.push(['_trackPageview']);
 _gaq.push(['_trackPageLoadTime']);
 
@@ -36,30 +37,31 @@ _gaq.push(['_trackPageLoadTime']);
 <script type="text/javascript" src="/js/jquery.tweet.js"></script>
 <script type="text/javascript" src="/js/jt_twitter.js"></script></head>
 <body id="top">
-<div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
-<script>
+<div id="fb-root"><script async="" type="text/javascript" src="https://connect.facebook.net/en_US/all.js"></script></div>
+<script type="text/javascript">
 window.fbAsyncInit = function() {
     FB.init({
-            appId   : '205769802778296',
-            status  : true, // check login status
-            cookie  : true, // enable cookies to allow the server to access the session
-            xfbml   : true // parse XFBML
+            appId  : '205769802778296',
+            status : true,
+            cookie : true,
+            xfbml  : true,
+            oauth  : true
     });
 
-    // whenever the user logs in, we refresh the page
     FB.Event.subscribe('auth.login', function() {
             window.location.reload();
     });
 };
 
+// Load the SDK Asynchronously
 (function() {
         var e = document.createElement('script');
-        e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
         e.async = true;
+        e.type = 'text/javascript';
+        e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
         document.getElementById('fb-root').appendChild(e);
 }());
 </script>
-
 <div class="header_notification">
 <script type="text/javascript">
 <!--//<![CDATA[
@@ -75,11 +77,11 @@ window.fbAsyncInit = function() {
   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
   document.write ("'><\/scr"+"ipt>");
 //]]>-->
-</script><script type="text/javascript" src="https://ads.gplusmedia.com/delivery/ajs.php?zoneid=373&amp;block=1&amp;cb=32833727376&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20111006060614id_/http%253A//www.japantoday.com/privacy"></script>
+</script><script type="text/javascript" src="https://ads.gplusmedia.com/delivery/ajs.php?zoneid=373&amp;block=1&amp;cb=18586590953&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20120523202019id_/http%253A//www.japantoday.com/privacy"></script>
 </div>
 <div class="jcontent">
 <div id="top_info">
-<span class="todate">Thursday October 6, 2011</span>
+<span class="todate">Thursday May 24, 2012</span>
 <ul id="top_global_link"><li><a href="https://jobs.gaijinpot.com">Jobs</a></li>
 <li><a href="http://www.realestate.co.jp">Real Estate</a></li>
 <li><a href="http://classifieds.gaijinpot.com">Classifieds</a></li>
@@ -110,7 +112,7 @@ Login to <a href="/login">update your settings</a> to subscribe to News Alert.</
 <div id="facebook_login">
 <h3>Facebook users</h3>
 <p>Use your Facebook account to login or register with JapanToday.</p>
-<div class="facebook_connect"><fb:login-button perms="user_birthday,email">Facebook connect</fb:login-button></div>
+<div class="facebook_connect"><a class="facebook_connect_login_button" href="https://www.facebook.com/dialog/oauth?client_id=205769802778296&amp;redirect_uri=http%3A%2F%2Fwww.japantoday.com%2Fprivacy&amp;state=b3b3f0798e9a7747871052557c035d5c&amp;scope=user_birthday%2Cemail"><span class="facebook_connect_login_button_text">Facebook connect</span></a></div>
 </div><!-- END facebook_login -->
 <div class="divider"><span>OR</span></div>
 <div id="jt_action">
@@ -178,7 +180,7 @@ Login to <a href="/login">update your settings</a> to subscribe to News Alert.</
   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
   document.write ("'><\/scr"+"ipt>");
 //]]>-->
-</script><script type="text/javascript" src="https://ads.gplusmedia.com/delivery/ajs.php?zoneid=730&amp;block=1&amp;cb=10729004454&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20111006060614id_/http%253A//www.japantoday.com/privacy"></script>
+</script><script type="text/javascript" src="https://ads.gplusmedia.com/delivery/ajs.php?zoneid=730&amp;block=1&amp;cb=466770679&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20120523202019id_/http%253A//www.japantoday.com/privacy"></script>
 </div>
 </div>
 </div><!-- END logo_area_outer -->
@@ -186,7 +188,7 @@ Login to <a href="/login">update your settings</a> to subscribe to News Alert.</
 <div id="header_inner">
 <div id="header_menu">
 <nav>
-    <div id="main_nav"> 
+    <div id="main_nav">
     <ul class="main_nav_list">
     <li><a href="/" title="JapanToday - Home">Home</a></li>
         <li><a href="/category/national" title="Japanese National News">National</a></li>
@@ -219,7 +221,8 @@ Login to <a href="/login">update your settings</a> to subscribe to News Alert.</
 <li><a href="/category/travel" title="Travel">TRAVEL</a></li>
 <li><a href="/category/executive-impact" title="Executive impact">EXECUTIVE IMPACT</a></li>
 <li><a href="/category/commentary" title="Commentary">COMMENTARY</a></li>
-<li><a href="/category/jt-experts" title="JT Experts">JT EXPERTS</a></li>
+<li><a href="/category/opinions" title="Opinions">OPINIONS</a></li>
+<li><a href="/category/jpod" title="JPod">JPOD</a></li>
 </ul>
 </div>
 </nav>
@@ -310,7 +313,7 @@ Please do not hesitate to contact us at support@japantoday.com if you have any q
   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
   document.write ("'><\/scr"+"ipt>");
 //]]>-->
-</script><script type="text/javascript" src="https://ads.gplusmedia.com/delivery/ajs.php?zoneid=726&amp;block=1&amp;cb=81083488890&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20111006060614id_/http%253A//www.japantoday.com/privacy"></script>
+</script><script type="text/javascript" src="https://ads.gplusmedia.com/delivery/ajs.php?zoneid=726&amp;block=1&amp;cb=65366484771&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20120523202019id_/http%253A//www.japantoday.com/privacy"></script>
 </div>
 
 <div id="followus">
@@ -330,66 +333,62 @@ Please do not hesitate to contact us at support@japantoday.com if you have any q
 <ul id="list_widget_popular">
 <li>
 <span class="num">1</span>
-<h3 class="article_title_widget"><a href="/category/technology/view/apple-announces-death-of-steve-jobs-at-56" class="post_title" title="Apple announces death of Steve Jobs at 56">Apple announces death of Steve Jobs at 56</a></h3>
-<p class="article_comment"><a href="/category/technology/view/apple-announces-death-of-steve-jobs-at-56#comments" class="comment">68</a></p></li><li>
+<h3 class="article_title_widget"><a href="/category/national/view/beat-takeshi-compares-same-sex-marriage-with-bestiality" class="post_title" title="Beat Takeshi compares same-sex marriage with bestiality">Beat Takeshi compares same-sex marriage with bestiality</a></h3>
+<p class="article_comment"><a href="/category/national/view/beat-takeshi-compares-same-sex-marriage-with-bestiality#comments" class="comment">430</a></p></li><li>
 <span class="num">2</span>
-<h3 class="article_title_widget"><a href="/category/crime/view/judo-instructor-found-guilty-over-child%E2%80%99s-death-during-training" class="post_title" title="Judo instructor found guilty over child’s death during training">Judo instructor found guilty over child’s death during training</a></h3>
-<p class="article_comment"><a href="/category/crime/view/judo-instructor-found-guilty-over-child%E2%80%99s-death-during-training#comments" class="comment">47</a></p></li><li>
+<h3 class="article_title_widget"><a href="/category/national/view/new-jersey-towns-monument-to-korean-sex-slaves-upsetting-japanese-officials" class="post_title" title="New Jersey town's monument to Korean sex slaves upsetting Japanese officials    ">New Jersey town's monument to Korean sex slaves upsetting Japanese officials    </a></h3>
+<p class="article_comment"><a href="/category/national/view/new-jersey-towns-monument-to-korean-sex-slaves-upsetting-japanese-officials#comments" class="comment">126</a></p></li><li>
 <span class="num">3</span>
-<h3 class="article_title_widget"><a href="/category/national/view/radioactive-cesium-found-in-soil-beyond-fukushima-no-go-zone" class="post_title" title="Contaminated soil found outside Fukushima no-go zone">Contaminated soil found outside Fukushima no-go zone</a></h3>
-<p class="article_comment"><a href="/category/national/view/radioactive-cesium-found-in-soil-beyond-fukushima-no-go-zone#comments" class="comment">45</a></p></li><li>
+<h3 class="article_title_widget"><a href="/category/entertainment/view/takeshi-rejects-anti-gay-accusation" class="post_title" title="'Beat' Takeshi rejects anti-gay accusation">'Beat' Takeshi rejects anti-gay accusation</a></h3>
+<p class="article_comment"><a href="/category/entertainment/view/takeshi-rejects-anti-gay-accusation#comments" class="comment">115</a></p></li><li>
 <span class="num">4</span>
-<h3 class="article_title_widget"><a href="/category/national/view/nuclear-power-essential-to-cut-emissions-uk-expert" class="post_title" title="Nuclear power essential to cut emissions: UK expert">Nuclear power essential to cut emissions: UK expert</a></h3>
-<p class="article_comment"><a href="/category/national/view/nuclear-power-essential-to-cut-emissions-uk-expert#comments" class="comment">29</a></p></li><li>
+<h3 class="article_title_widget"><a href="/category/politics/view/hashimoto-clashes-with-osaka-officials-over-tattoo-survey" class="post_title" title="Hashimoto clashes with Osaka officials over tattoo survey">Hashimoto clashes with Osaka officials over tattoo survey</a></h3>
+<p class="article_comment"><a href="/category/politics/view/hashimoto-clashes-with-osaka-officials-over-tattoo-survey#comments" class="comment">112</a></p></li><li>
 <span class="num">5</span>
-<h3 class="article_title_widget"><a href="/category/world/view/unions-give-wall-street-protesters-support" class="post_title" title="Unions give Wall Street protesters support    ">Unions give Wall Street protesters support    </a></h3>
-<p class="article_comment"><a href="/category/world/view/unions-give-wall-street-protesters-support#comments" class="comment">22</a></p></li></ul>
+<h3 class="article_title_widget"><a href="/category/national/view/japanese-whalers-leave-for-pacific" class="post_title" title="Japanese whalers leave for Pacific">Japanese whalers leave for Pacific</a></h3>
+<p class="article_comment"><a href="/category/national/view/japanese-whalers-leave-for-pacific#comments" class="comment">88</a></p></li></ul>
 <p id="link_widget_popular" class="ua_widget_more article_tools more_button"><a href="/popular">View all</a></p>
 <ul style="display:none" id="list_widget_comments">
 <li>
-<p class="avatar"><img src="http://www.gravatar.com/avatar.php?gravatar_id=63a2996c4ab0db659c0f543fac807a2f&amp;rating=PG&amp;size=50&amp;default=identicon" width="20" height="20"></p>
-<p class="comment_username"><a href="/member/view/Serrano">Serrano</a></p>
-<p class="comment_time"><time datetime="2011-10-06T15:05:51+09:00">Oct. 06, 2011 - 03:05PM JST</time></p>
-<p class="comment_text">"In 1974 Jobs worked for video game maker Atari"
-
-I bought an Atari ( with money…</p>
-<p class="comment_post_link"><strong>Posted in:</strong> <a href="/category/technology/view/apple-announces-death-of-steve-jobs-at-56#comment_1087773" title="Apple announces death of Steve Jobs at 56">Apple announces death of Steve Jobs at 56</a></p>
+<p class="avatar"><img src="http://www.gravatar.com/avatar.php?gravatar_id=719a95eaa8071b98304bd7fd5bf89470&amp;rating=PG&amp;size=50&amp;default=http://graph.facebook.com/539282762/picture?type=square" width="20" height="20"></p>
+<p class="comment_username"><a href="/member/view/Vernie-Jefferies">Vernie Jefferies</a></p>
+<p class="comment_time"><time datetime="2012-05-24T05:04:14+09:00">May. 24, 2012 - 05:04AM JST</time></p>
+<p class="comment_text">What's really sad is that they leave the bodies up there. There is no risk for…</p>
+<p class="comment_post_link"><strong>Posted in:</strong> <a href="/category/world/view/four-climbers-die-on-everest#comment_1314120" title="Four climbers die on Everest">Four climbers die on Everest</a></p>
 </li>
 
 <li>
-<p class="avatar"><img src="http://www.gravatar.com/avatar.php?gravatar_id=105eacefde35833598d5e471b59a8a81&amp;rating=PG&amp;size=50&amp;default=identicon" width="20" height="20"></p>
-<p class="comment_username"><a href="/member/view/gogogo">gogogo</a></p>
-<p class="comment_time"><time datetime="2011-10-06T14:58:12+09:00">Oct. 06, 2011 - 02:58PM JST</time></p>
-<p class="comment_text">
-  Ozawa’s supporters say he has been unfairly targeted by opponents of his drive to weaken the…</p>
-<p class="comment_post_link"><strong>Posted in:</strong> <a href="/category/crime/view/ozawa-pleads-not-guilty-as-trial-gets-under-way#comment_1087771" title="Ozawa pleads not guilty as trial gets under way">Ozawa pleads not guilty as trial gets under way</a></p>
+<p class="avatar"><img src="http://www.gravatar.com/avatar.php?gravatar_id=350041c6b373a497e9dca3f6028ef633&amp;rating=PG&amp;size=50&amp;default=identicon" width="20" height="20"></p>
+<p class="comment_username"><a href="/member/view/ka_chan">ka_chan</a></p>
+<p class="comment_time"><time datetime="2012-05-24T04:44:05+09:00">May. 24, 2012 - 04:44AM JST</time></p>
+<p class="comment_text">Still think they need a Capt. Nemo, who would take stronger action.</p>
+<p class="comment_post_link"><strong>Posted in:</strong> <a href="/category/national/view/japanese-whalers-leave-for-pacific#comment_1314119" title="Japanese whalers leave for Pacific">Japanese whalers leave for Pacific</a></p>
 </li>
 
 <li>
-<p class="avatar"><img src="http://www.gravatar.com/avatar.php?gravatar_id=efc5238ec9992aefb5343689da4d8e18&amp;rating=PG&amp;size=50&amp;default=identicon" width="20" height="20"></p>
-<p class="comment_username"><a href="/member/view/weedkila">weedkila</a></p>
-<p class="comment_time"><time datetime="2011-10-06T14:58:11+09:00">Oct. 06, 2011 - 02:58PM JST</time></p>
-<p class="comment_text">@Nicky Washida,
-
-Re. the Nosebleeds. I'm sorry to hear about that. A couple of links that…</p>
-<p class="comment_post_link"><strong>Posted in:</strong> <a href="/category/national/view/radioactive-cesium-found-in-soil-beyond-fukushima-no-go-zone#comment_1087770" title="Contaminated soil found outside Fukushima no-go zone">Contaminated soil found outside Fukushima no-go zone</a></p>
+<p class="avatar"><img src="http://www.gravatar.com/avatar.php?gravatar_id=350041c6b373a497e9dca3f6028ef633&amp;rating=PG&amp;size=50&amp;default=identicon" width="20" height="20"></p>
+<p class="comment_username"><a href="/member/view/ka_chan">ka_chan</a></p>
+<p class="comment_time"><time datetime="2012-05-24T04:39:59+09:00">May. 24, 2012 - 04:39AM JST</time></p>
+<p class="comment_text">The uniform, bag seems to be a throw back to the 1960'6, 70's. And the logo…</p>
+<p class="comment_post_link"><strong>Posted in:</strong> <a href="/category/picture-of-the-day/view/welcome-aboard-from-ebi-chan#comment_1314118" title="Fly away with Ebi-chan">Fly away with Ebi-chan</a></p>
 </li>
 
 <li>
-<p class="avatar"><img src="http://www.gravatar.com/avatar.php?gravatar_id=010150e5f7cdc124ce8a8aaeefbf4bad&amp;rating=PG&amp;size=50&amp;default=identicon" width="20" height="20"></p>
-<p class="comment_username"><a href="/member/view/zichi">zichi</a></p>
-<p class="comment_time"><time datetime="2011-10-06T14:57:28+09:00">Oct. 06, 2011 - 02:57PM JST</time></p>
-<p class="comment_text">Chernobyl nuclear power plant is now encased in a huge sarcophagus that will have to be…</p>
-<p class="comment_post_link"><strong>Posted in:</strong> <a href="/category/national/view/nuclear-power-essential-to-cut-emissions-uk-expert#comment_1087768" title="Nuclear power essential to cut emissions: UK expert">Nuclear power essential to cut emissions: UK expert</a></p>
+<p class="avatar"><img src="http://www.gravatar.com/avatar.php?gravatar_id=711a9a1a8e3df28fef57bca2705e7a06&amp;rating=PG&amp;size=50&amp;default=http://graph.facebook.com/100000834206828/picture?type=square" width="20" height="20"></p>
+<p class="comment_username"><a href="/member/view/Saul-Schimek">Saul Schimek</a></p>
+<p class="comment_time"><time datetime="2012-05-24T04:25:18+09:00">May. 24, 2012 - 04:25AM JST</time></p>
+<p class="comment_text">and Toru is also trying to get people jailed as well...
+
+http://www.japantimes.co.jp/text/nn20120524a1.html</p>
+<p class="comment_post_link"><strong>Posted in:</strong> <a href="/category/politics/view/hashimoto-clashes-with-osaka-officials-over-tattoo-survey#comment_1314117" title="Hashimoto clashes with Osaka officials over tattoo survey">Hashimoto clashes with Osaka officials over tattoo survey</a></p>
 </li>
 
 <li>
-<p class="avatar"><img src="http://www.gravatar.com/avatar.php?gravatar_id=105eacefde35833598d5e471b59a8a81&amp;rating=PG&amp;size=50&amp;default=identicon" width="20" height="20"></p>
-<p class="comment_username"><a href="/member/view/gogogo">gogogo</a></p>
-<p class="comment_time"><time datetime="2011-10-06T14:56:29+09:00">Oct. 06, 2011 - 02:56PM JST</time></p>
-<p class="comment_text">
-  As the trial began, Ozawa read a statement criticizing prosecutors who investigated the case in the…</p>
-<p class="comment_post_link"><strong>Posted in:</strong> <a href="/category/crime/view/ozawa-pleads-not-guilty-as-trial-gets-under-way#comment_1087767" title="Ozawa pleads not guilty as trial gets under way">Ozawa pleads not guilty as trial gets under way</a></p>
+<p class="avatar"><img src="http://www.gravatar.com/avatar.php?gravatar_id=658465f022a3d6caed3d207f1e781014&amp;rating=PG&amp;size=50&amp;default=http://graph.facebook.com/100001551868048/picture?type=square" width="20" height="20"></p>
+<p class="comment_username"><a href="/member/view/Patrick-Hagger1">Patrick Hagger</a></p>
+<p class="comment_time"><time datetime="2012-05-24T04:15:34+09:00">May. 24, 2012 - 04:15AM JST</time></p>
+<p class="comment_text">discrimination is not justice, under any name. She should not be given special elitist treatment.</p>
+<p class="comment_post_link"><strong>Posted in:</strong> <a href="/category/national/view/deportation-threat-lifted-for-lesbian-couple-in-u-s#comment_1314116" title="Deportation threat lifted for lesbian couple in U.S.    ">Deportation threat lifted for lesbian couple in U.S.    </a></p>
 </li>
 
 </ul>
@@ -407,28 +406,37 @@ Re. the Nosebleeds. I'm sorry to hear about that. A couple of links that…</p>
 <div class="global_widget_list">
 <!-- Jobs -->
 <ul id="list_widget_jobs">
+<li class="first">
+<div class="widget_jobs_banner">
+<div class="widget_jobs_banner_cnt">
+<p><strong>Find your job in Japan.</strong>
+</p><p>
+Create resumes, apply to jobs, get head hunted by employers.</p>
+</div>
+<a class="widget_jobs_banner_go" href="https://jobs.gaijinpot.com/resume/index/pane/register?utm_source=japantoday_widget&amp;utm_medium=banner&amp;utm_campaign=find_a_job">GO!</a>
+</div></li>
 <li>
-<p class="image"><a href="https://jobs.gaijinpot.com/index/view/job_id/46570?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget" title="1-to-1 English Instructor - Kanto (Tokyo, Saitama, Kanagawa, Chiba)"><img src="http://jobs.gaijinpot.com/image/index/id/871/size/58x58" alt="1-to-1 English Instructor - Kanto (Tokyo, Saitama, Kanagawa, Chiba)"></a></p>
+<p class="image"><a href="https://jobs.gaijinpot.com/index/view/job_id/51332?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget" title="Sushi Restaurant Staff  (Immediate Start)"><img src="http://jobs.gaijinpot.com/image/index/id/5109/size/58x58" alt="Sushi Restaurant Staff  (Immediate Start)"></a></p>
 <dl>
-<dt><a href="https://jobs.gaijinpot.com/index/view/job_id/46570?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget">1-to-1 English Instructor - Kanto (Tokyo, Saitama, Kanagawa, Chiba)</a></dt>
-<dd class="detail">Gaba Corporation (株式会社 GABA), Tokyo</dd>
-<dd>Salary:  40-minute lesson rates starting at ¥1500</dd>
+<dt><a href="https://jobs.gaijinpot.com/index/view/job_id/51332?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget">Sushi Restaurant Staff  (Immediate Start)</a></dt>
+<dd class="detail">Smile Staff - 株式会社すまいるスタッフ, Tokyo</dd>
+<dd>Salary: ¥900 ~ ¥1,000 / Hour</dd>
 </dl>
 </li>
 <li class="alt">
-<p class="image"><a href="https://jobs.gaijinpot.com/index/view/job_id/46389?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget" title="1-to-1 English Instructor (applicants outside Japan)"><img src="http://jobs.gaijinpot.com/image/index/id/871/size/58x58" alt="1-to-1 English Instructor (applicants outside Japan)"></a></p>
+<p class="image"><a href="https://jobs.gaijinpot.com/index/view/job_id/53236?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget" title="Sushi Restaurant Staff  (Immediate Start)"><img src="http://jobs.gaijinpot.com/image/index/id/5109/size/58x58" alt="Sushi Restaurant Staff  (Immediate Start)"></a></p>
 <dl>
-<dt><a href="https://jobs.gaijinpot.com/index/view/job_id/46389?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget">1-to-1 English Instructor (applicants outside Japan)</a></dt>
-<dd class="detail">Gaba Corporation (株式会社 GABA), Tokyo</dd>
-<dd>Salary:  40-minute lesson rates from ¥1500 ~ ¥2200</dd>
+<dt><a href="https://jobs.gaijinpot.com/index/view/job_id/53236?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget">Sushi Restaurant Staff  (Immediate Start)</a></dt>
+<dd class="detail">Smile Staff - 株式会社すまいるスタッフ, Tokyo</dd>
+<dd>Salary: ¥900 ~ ¥1,000 / Hour</dd>
 </dl>
 </li>
 <li>
-<p class="image"><a href="https://jobs.gaijinpot.com/index/view/job_id/44961?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget" title="Part-time English Teacher - Osaka"><img src="http://jobs.gaijinpot.com/image/index/id/4103/size/58x58" alt="Part-time English Teacher - Osaka"></a></p>
+<p class="image"><a href="https://jobs.gaijinpot.com/index/view/job_id/53202?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget" title="English Teacher　（starting around July 10th, 2012）"><img src="http://jobs.gaijinpot.com/image/index/id/0/size/58x58" alt="English Teacher　（starting around July 10th, 2012）"></a></p>
 <dl>
-<dt><a href="https://jobs.gaijinpot.com/index/view/job_id/44961?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget">Part-time English Teacher - Osaka</a></dt>
-<dd class="detail">Epion English Language Schools, Osaka</dd>
-<dd>Salary: ¥10,000/Day Depending on how many days a week are worked</dd>
+<dt><a href="https://jobs.gaijinpot.com/index/view/job_id/53202?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget">English Teacher　（starting around July 10th, 2012）</a></dt>
+<dd class="detail">Win, Gifu</dd>
+<dd>Salary: ¥260,000 ~ ¥300,000 / Month</dd>
 </dl>
 </li>
 </ul>
@@ -436,33 +444,33 @@ Re. the Nosebleeds. I'm sorry to hear about that. A couple of links that…</p>
 <!-- Apartments -->
 <ul style="display:none" id="list_widget_apartments">
 <li>
-<p class="image"><a href="http://www.realestate.co.jp/rej/index/detail/id/42263?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget" title="Sky Court Kagurazaka Sanbankan"><img src="http://www.realestate.co.jp/rej/image/218/114405-58x58-c.png" alt="Sky Court Kagurazaka Sanbankan"></a></p>
+<p class="image"><a href="http://www.realestate.co.jp/rej/index/detail/id/23998?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget" title="**Designer's Mansion in Yoga"><img src="http://www.realestate.co.jp/rej/image/320/59834-58x58-c.png" alt="**Designer's Mansion in Yoga"></a></p>
 <dl>
-<dt><a href="http://www.realestate.co.jp/rej/index/detail/id/42263?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget">Sky Court Kagurazaka Sanbankan</a></dt>
-<dd>Shinjuku-ku,
+<dt><a href="http://www.realestate.co.jp/rej/index/detail/id/23998?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget">**Designer's Mansion in Yoga</a></dt>
+<dd>Setagaya-ku,
 Tokyo,
-Kagurazaka: 7 min. walk</dd>
-<dd>Rent: ¥82,500</dd>
+Youga: 12 min. walk</dd>
+<dd>Rent: ¥99,000</dd>
 </dl>
 </li>
 <li class="alt">
-<p class="image"><a href="http://www.realestate.co.jp/rej/index/detail/id/42961?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget" title="Maison TH"><img src="http://www.realestate.co.jp/rej/image/218/117565-58x58-c.png" alt="Maison TH"></a></p>
+<p class="image"><a href="http://www.realestate.co.jp/rej/index/detail/id/26370?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget" title="Apartment in Tamagawa"><img src="http://www.realestate.co.jp/rej/image/320/70450-58x58-c.png" alt="Apartment in Tamagawa"></a></p>
 <dl>
-<dt><a href="http://www.realestate.co.jp/rej/index/detail/id/42961?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget">Maison TH</a></dt>
-<dd>Musashino-shi,
+<dt><a href="http://www.realestate.co.jp/rej/index/detail/id/26370?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget">Apartment in Tamagawa</a></dt>
+<dd>Ota-ku,
 Tokyo,
-Kichijouji: 8 min. walk</dd>
-<dd>Rent: ¥74,000</dd>
+Tamagawa: 4 min. walk</dd>
+<dd>Rent: ¥108,000</dd>
 </dl>
 </li>
 <li>
-<p class="image"><a href="http://www.realestate.co.jp/rej/index/detail/id/41744?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget" title="SK Shinjuku Akebonobashi 2"><img src="http://www.realestate.co.jp/rej/image/218/112081-58x58-c.png" alt="SK Shinjuku Akebonobashi 2"></a></p>
+<p class="image"><a href="http://www.realestate.co.jp/rej/index/detail/id/26761?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget" title="Designer's Mansion in Jiyugaoka"><img src="http://www.realestate.co.jp/rej/image/320/72213-58x58-c.png" alt="Designer's Mansion in Jiyugaoka"></a></p>
 <dl>
-<dt><a href="http://www.realestate.co.jp/rej/index/detail/id/41744?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget">SK Shinjuku Akebonobashi 2</a></dt>
-<dd>Shinjuku-ku,
+<dt><a href="http://www.realestate.co.jp/rej/index/detail/id/26761?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget">Designer's Mansion in Jiyugaoka</a></dt>
+<dd>Meguro-ku,
 Tokyo,
-Akebonobashi: 2 min. walk</dd>
-<dd>Rent: ¥77,000</dd>
+: 0 min. walk</dd>
+<dd>Rent: ¥134,000</dd>
 </dl>
 </li>
 </ul>
@@ -470,31 +478,32 @@ Akebonobashi: 2 min. walk</dd>
 <!-- Classifieds -->
 <ul style="display:none" id="list_widget_classifieds">
 <li>
-<p class="image"><a href="http://classifieds.gaijinpot.com/index/view/article_id/111616?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget" title="Intel i7 Core Base unit or system"><img src="http://classifieds.gaijinpot.com/image/71334-58x58-c.png" alt="Intel i7 Core Base unit or system"></a></p>
+<p class="image"><a href="http://classifieds.gaijinpot.com/index/view/article_id/127870?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget" title="Nows your Chance!"><img src="http://classifieds.gaijinpot.com/image/83186-58x58-c.png" alt="Nows your Chance!"></a></p>
 <dl>
-<dt><a href="http://classifieds.gaijinpot.com/index/view/article_id/111616?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget">Intel i7 Core Base unit or system</a></dt>
+<dt><a href="http://classifieds.gaijinpot.com/index/view/article_id/127870?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget">Nows your Chance!</a></dt>
 <dd>Location: <a href="/index/index/region/jp_tokyo">Tokyo</a></dd>
-<dd>Seller: <a href="http://classifieds.gaijinpot.com/index/index/user_id/450">Lex</a></dd>
-<dd>Tags: <a href="/index/index/category/computer">Computers (and related)</a></dd>
-</dl>
-</li>
-<li class="alt">
-<p class="image"><a href="http://classifieds.gaijinpot.com/index/view/article_id/111613?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget" title="Two Epson Digital Projectors"><img src="http://classifieds.gaijinpot.com/image/71329-58x58-c.png" alt="Two Epson Digital Projectors"></a></p>
-<dl>
-<dt><a href="http://classifieds.gaijinpot.com/index/view/article_id/111613?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget">Two Epson Digital Projectors</a></dt>
-<dd>Location: <a href="/index/index/region/jp_tokyo">Tokyo</a></dd>
-<dd>Seller: <a href="http://classifieds.gaijinpot.com/index/index/user_id/23269">xenofire</a></dd>
-<dd>Tags: <a href="/index/index/category/computer">Computers (and related)</a>, <a href="/index/index/search/tag%3Adelivery">delivery</a>
+<dd>Seller: <a href="http://classifieds.gaijinpot.com/index/index/user_id/690">Moving sale</a></dd>
+<dd>Tags: <a href="/index/index/category/appliance">Appliances</a>, <a href="/index/index/search/tag%3Asayonara">sayonara</a>
+, <a href="/index/index/search/tag%3Adelivery">delivery</a>
 </dd>
 </dl>
 </li>
-<li>
-<p class="image"><a href="http://classifieds.gaijinpot.com/index/view/article_id/111612?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget" title="ZX11/ZZR1100 Custom parts, Big 1109cc JE Pistons - 35k Yen"><img src="http://classifieds.gaijinpot.com/image/71328-58x58-c.png" alt="ZX11/ZZR1100 Custom parts, Big 1109cc JE Pistons - 35k Yen"></a></p>
+<li class="alt">
+<p class="image"><a href="http://classifieds.gaijinpot.com/index/view/article_id/127869?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget" title="Books for Kids and Adults!"><img src="http://classifieds.gaijinpot.com/image/83185-58x58-c.png" alt="Books for Kids and Adults!"></a></p>
 <dl>
-<dt><a href="http://classifieds.gaijinpot.com/index/view/article_id/111612?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget">ZX11/ZZR1100 Custom parts, Big 1109cc JE Pistons - 35k Yen</a></dt>
+<dt><a href="http://classifieds.gaijinpot.com/index/view/article_id/127869?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget">Books for Kids and Adults!</a></dt>
 <dd>Location: <a href="/index/index/region/jp_tokyo">Tokyo</a></dd>
-<dd>Seller: <a href="http://classifieds.gaijinpot.com/index/index/user_id/4482">waruta</a></dd>
-<dd>Tags: <a href="/index/index/category/vehicle">Bikes/bicycles</a></dd>
+<dd>Seller: <a href="http://classifieds.gaijinpot.com/index/index/user_id/194">k</a></dd>
+<dd>Tags: <a href="/index/index/category/book">Books</a></dd>
+</dl>
+</li>
+<li>
+<p class="image"><a href="http://classifieds.gaijinpot.com/index/view/article_id/127868?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget" title="Painting / collage made with washi paper"><img src="http://classifieds.gaijinpot.com/image/83184-58x58-c.png" alt="Painting / collage made with washi paper"></a></p>
+<dl>
+<dt><a href="http://classifieds.gaijinpot.com/index/view/article_id/127868?utm_source=japantoday&amp;utm_medium=cpc&amp;utm_campaign=widget">Painting / collage made with washi paper</a></dt>
+<dd>Location: <a href="/index/index/region/jp_tokyo">Tokyo</a></dd>
+<dd>Seller: <a href="http://classifieds.gaijinpot.com/index/index/user_id/194">k</a></dd>
+<dd>Tags: <a href="/index/index/category/household">Household Goods</a></dd>
 </dl>
 </li>
 </ul>
@@ -521,7 +530,7 @@ Akebonobashi: 2 min. walk</dd>
   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
   document.write ("'><\/scr"+"ipt>");
 //]]>-->
-</script><script type="text/javascript" src="https://ads.gplusmedia.com/delivery/ajs.php?zoneid=736&amp;block=1&amp;cb=18954581286&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20111006060614id_/http%253A//www.japantoday.com/privacy"></script>
+</script><script type="text/javascript" src="https://ads.gplusmedia.com/delivery/ajs.php?zoneid=736&amp;block=1&amp;cb=63634725828&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20120523202019id_/http%253A//www.japantoday.com/privacy"></script>
 </div>
 </section><!-- END side_ads // column3 -->
 <div class="cf"></div>
@@ -543,7 +552,7 @@ Akebonobashi: 2 min. walk</dd>
   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
   document.write ("'><\/scr"+"ipt>");
 //]]>-->
-</script><script type="text/javascript" src="https://ads.gplusmedia.com/delivery/ajs.php?zoneid=744&amp;block=1&amp;cb=17770192684&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20111006060614id_/http%253A//www.japantoday.com/privacy"></script>
+</script><script type="text/javascript" src="https://ads.gplusmedia.com/delivery/ajs.php?zoneid=744&amp;block=1&amp;cb=26410096258&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20120523202019id_/http%253A//www.japantoday.com/privacy"></script>
 </div>
 <div class="newsletter_banner">
 <script type="text/javascript">
@@ -560,7 +569,7 @@ Akebonobashi: 2 min. walk</dd>
   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
   document.write ("'><\/scr"+"ipt>");
 //]]>-->
-</script><script type="text/javascript" src="https://ads.gplusmedia.com/delivery/ajs.php?zoneid=724&amp;block=1&amp;cb=49785424406&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20111006060614id_/http%253A//www.japantoday.com/privacy"></script>
+</script><script type="text/javascript" src="https://ads.gplusmedia.com/delivery/ajs.php?zoneid=724&amp;block=1&amp;cb=36387095071&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20120523202019id_/http%253A//www.japantoday.com/privacy"></script>
 </div>
 </div>
 <nav>
@@ -582,13 +591,16 @@ Akebonobashi: 2 min. walk</dd>
 <li><a href="/category/arts-culture" title="">Arts &amp; Culture</a></li>
 <li><a href="/category/kuchikomi" title="">Kuchikomi</a></li>
 <li><a href="/category/new-products" title="">New Products</a></li>
-<li><a href="/category/health" title="">Health</a></li> <li><a href="/category/food" title="">Food</a></li> <li><a href="/category/travel" title="">Travel</a></li>
+<li><a href="/category/health" title="">Health</a></li>
+<li><a href="/category/food" title="">Food</a></li>
+<li><a href="/category/travel" title="">Travel</a></li>
 <li><a href="/category/executive-impact" title="">Executive Impact</a></li>
 <li><a href="/category/commentary" title="">Commentary</a></li>
-<li><a href="/category/jt-experts" title="">JT Experts</a></li> </ul>
+<li><a href="/category/opinions" title="">Opinions</a></li>
+</ul>
 </nav>
 <ul id="static_links">
-<li class="copyright">© 2011 <a href="http://www.gplusmedia.com" rel="external">GPlusMedia Co., Ltd.</a></li>
+<li class="copyright">© 2012 <a href="http://www.gplusmedia.com" rel="external">GPlusMedia Co., Ltd.</a></li>
 <li><a href="/privacy">Privacy</a></li>
 <li><a href="/terms">Terms of Service</a></li>
 <li><a href="/moderation_policy">Moderation Policy</a></li>
@@ -600,9 +612,7 @@ Akebonobashi: 2 min. walk</dd>
 <a class="twitter" href="http://twitter.com/JapanToday">twitter</a>
 <a class="rss" href="/feed">RSS</a>
 </li>
-</ul>
-
-</footer>
+</ul></footer>
 </div><!-- END jcontent -->
 </div><!-- END whole_container -->
 
