@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coloradolottery.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120134901id_/http%3A//www.colorado.gov/cs/Satellite%3Fc%3DPage%26cid%3D1205189519981%26pagename%3DCO-Portal%252FPage%252FCXPNoCallOutLayout) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coloradolottery.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523020839id_/http%3A//www.colorado.gov/cs/Satellite%3Fc%3DPage%26cid%3D1205189519981%26pagename%3DCO-Portal%252FPage%252FCXPNoCallOutLayout) for the most accurate reproduction.*
 
 # Colorado.gov: The Official State Web Portal: Privacy Statement
 
@@ -46,9 +46,9 @@
   * STATE NEWS
     * STATE NEWS
 
-    * [Gov. Hickenlooper appoints University of Colorado Regent(November 18, 2011)](https://web.archive.org/cs/Satellite?c=Page&childpagename=GovHickenlooper%2FCBONLayout&cid=1251609996072&p=1251609996072&pagename=GOVHWrapper)
-    * [Gov. Hickenlooper and Lt. Gov. Garcia's schedules for the week of Nov. 20(November 18, 2011)](https://web.archive.org/cs/Satellite?c=Page&childpagename=LtGovGarcia%2FCBONLayout&cid=1251599879863&p=1251599879863&pagename=LGGARWrapper)
-    * [Lt. Gov. Garcia wraps up Literacy Matters Tour on Colorado's Eastern Plains(November 18, 2011)](https://web.archive.org/cs/Satellite?c=Page&childpagename=LtGovGarcia%2FCBONLayout&cid=1251609990596&p=1251609990596&pagename=LGGARWrapper)
+    * [Gov. Hickenlooper announces reinstatement of Energy and Mineral Impact Assistance grant program(May 22, 2012)](https://web.archive.org/cs/Satellite?c=Page&childpagename=GovHickenlooper%2FCBONLayout&cid=1251622915062&p=1251622915062&pagename=GOVHWrapper)
+    * [Lt. Gov. Garcia and Cabinet Secretary Garcia Sign Higher Education Tuition Reciprocity Agreement(May 22, 2012)](https://web.archive.org/cs/Satellite?c=Page&childpagename=LtGovGarcia%2FCBONLayout&cid=1251622912876&p=1251622912876&pagename=LGGARWrapper)
+    * [Lt. Gov. Garcia announces new Executive Director of Serve Colorado(May 22, 2012)](https://web.archive.org/cs/Satellite?c=Page&childpagename=LtGovGarcia%2FCBONLayout&cid=1251622912521&p=1251622912521&pagename=LGGARWrapper)
     * [View All](https://web.archive.org/cs/Satellite/CO-Portal/CXP/1201542329107)
   * ALERTS
     * ALERTS
@@ -60,18 +60,17 @@
     * [Cyber Security News](http://www.colorado.gov/cybersecurity)
     *  
   * COMMUNITY HIGHLIGHT
-    * **Description:** Could there be a more fitting segue from the Front Range to the Colorado Rocky Mountains than Estes Park...  
+    * **Description:** Scratch the veneer of the new-West look of urban Denver and you'll get a glimpse of the Old West, too. Sitting at 5,280 feet (one mile) above sea level...  
 
 
-[More Information](http://www.colorado.com/city40)
+[More Information](http://www.colorado.com/city.php?id=10)
 
   * media center
-    * VIDEOS
+    * WEB CAMS
 
-    * [Travel Videos](http://www.colorado.com/static.php?file=media_room/image_and_video_library/video_library&ht=videos%20videos)
-    * [Governor Ritter Videos](http://www.colorado.gov/cs/Satellite?c=Page&cid=1177024890395&pagename=GovRitter%2FGOVRLayout)
-    * [Colorado Parks Video](http://parks.state.co.us/News/VideoGallery/)
-    * [Colorado General Assembly](http://www.coloradochannel.net/)
+    * [Traffic Cameras](http://www.denvergov.org/tabid/37889/Default.aspx?link=http://www.denvergov.org/apps/traffic&title=Traffic%20Cameras)
+    * [Mountain Cameras](http://www.pinecam.com/)
+    * [Weather Cameras](http://www.instacam.com/search.asp?searchbox=co&searchtype=state)
   * governor
     * GOVERNOR
 
@@ -97,8 +96,8 @@
 
     * Denver/Centennial, CO  
 A Few Clouds  
-Temp 48.0 F (8.9 C)  
-Humidity 41% 
+Temp 85.0 F (29.4 C)  
+Humidity 9% 
 
   
 
@@ -116,9 +115,9 @@ Humidity 41%
 
     * Send ePostcard
 
-[Mueller State Park](https://web.archive.org/cs/Satellite?c=Media_C&cid=1201542668678&p=1205189519981&pagename=CO-Portal%2FMedia_C%2FCXPDisplay)
+[Snowmobiling at American Lakes](https://web.archive.org/cs/Satellite?c=Media_C&cid=1206458252755&p=1205189519981&pagename=CO-Portal%2FMedia_C%2FCXPDisplay)
 
-Divide, CO, Colorado State Parks
+State Forest State Park, Colorado State Parks
 
 
 
