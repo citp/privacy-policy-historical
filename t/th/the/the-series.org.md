@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-series.org privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125060112id_/http%3A//www.the-series.org/%3Fpage_id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-series.org privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524010435id_/http%3A//www.the-series.org/%3Fpage_id%3D2) for the most accurate reproduction.*
 
 # the series – series news – series TV » privacy policy
 
@@ -6,7 +6,7 @@ Privacy Policy for **www.the-series.org**
 
 **Log Files**
 
-Like most standard Web site servers,  [the-series.org](https://web.archive.org/web/20111125060112id_/http%3A//) use log files. This includes internet protocol ( IP ) addresses, browser type, internet service provider ( ISP ), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
+Like most standard Web site servers,  [the-series.org](https://web.archive.org/web/20120524010435id_/http%3A//) use log files. This includes internet protocol ( IP ) addresses, browser type, internet service provider ( ISP ), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
 
 **Cookies and Web Beacons**
 
