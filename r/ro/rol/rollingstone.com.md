@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rollingstone.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203221301id_/http%3A//www.rollingstone.com/services/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rollingstone.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523172305id_/http%3A//www.rollingstone.com/services/privacypolicy) for the most accurate reproduction.*
 
 # Rolling Stone | Privacy Policy
 
@@ -8,13 +8,13 @@ Rolling Stone is committed to protecting your privacy online. Please take a mome
 
 Your use of and/or registration on any aspect of the website will constitute your agreement to this Privacy Policy. If you do not agree with this Privacy Policy, please do not use this website. This Privacy Policy does not contain information collected elsewhere, including without limitation offline and on sites linked to from the website.
 
-In addition to reviewing this Privacy Policy, please read our Terms of Use , as your use of the website constitutes your agreement to its terms and conditions as well.
+In addition to reviewing this Privacy Policy, please read our [Terms of Use](https://web.archive.org/services/terms), as your use of the website constitutes your agreement to its terms and conditions as well.
 
 From time to time, we may make changes to the guidelines and content of our policy. These changes will always be posted at this location on our website along with the date the changes were made. Your continued access of the website by you will constitute your acceptance of any changes or revisions to the Privacy Policy, so we encourage you to periodically review this policy in order to keep yourself fully informed of our privacy policy information.
 
 ## CONTACT US
 
-Rollingstone.com is owned and operated by Rolling Stone LLC ("Rolling Stone"). If you have any questions concerning this policy or the content and material on our website, or if you would like to update your personal information, you may contact us at:
+Rollingstone.com is owned and operated by Rolling Stone LLC (“Rolling Stone”). If you have any questions concerning this policy or the content and material on our website, or if you would like to update your personal information, you may contact us at:
 
 **Rolling Stone Magazine**  
 Attention: Customer Relations, Rollingstone.com  
@@ -35,7 +35,11 @@ We will never collect personal information from you without your knowledge or co
 
 From time to time, we may use the personal information you provide us to send you information regarding Rolling Stone magazine and/or Rollingstone.com features and subscriptions and/or to fulfill your requests for products, services and inquiries. We may use the information to contact you about your account or to notify you in the event that you win one of our contests or sweepstakes. We may also offer you or communicate with you about other products, programs, features, or services that we believe may be of interest to you. You will always have the choice to opt out of receiving these offers, updates, and information.
 
-Unless otherwise specified on the website, we may sell or share personally identifying information with our affiliates and with carefully selected companies who we think can offer you services and products of interest to you. There are also times when you provide information about yourself to us in areas of the website that that may be managed or participated in by third parties, such as shopping areas. In such cases, the information may be used by us and those third parties, as well as with any participating sponsors or advertisers of such opportunities and features, each pursuant to its own policies. We may also provide your information to our advertisers, so that they can serve ads to you that meet your needs or match your interests. While Rolling Stone will seek to require such third parties to follow appropriate privacy policies and will not authorize them to use this information except for the express purpose for which it is provided, Rolling Stone does not bear any responsibility for any actions or policies of other third parties.
+We may sell or share personally identifying information with our affiliates and with carefully selected companies who we think can offer you services and products of interest to you, however you may always opt out of having your information shared. If you wish to opt out of having your information shared with third parties for their direct marketing purposes, please click [here](mailto:suggestionbox@rollingstone.com) and mark your request “Re: Opt-Out.”
+
+There are also times when you provide information about yourself to us in areas of the website that that may be managed or participated in by third parties, such as shopping areas. In such cases, the information may be used by us and those third parties, as well as with any participating sponsors or advertisers of such opportunities and features, each pursuant to its own policies. We may also provide your information to our advertisers, so that they can serve ads to you that meet your needs or match your interests.
+
+While Rolling Stone will seek to require any third parties to follow appropriate privacy policies and will not authorize them to use this information except for the express purpose for which it is provided, Rolling Stone does not bear any responsibility for any actions or policies of other third parties.
 
 If you choose to purchase items through features on the website, we may forward your information to third parties for services such as credit card processing and order fulfillment.
 
@@ -45,7 +49,7 @@ If you submit written content, for example, a comment on a posting or a letter t
 
 ## NON-PERSONALLY IDENTIFIABLE INFORMATION
 
-We may collect non-personally identifiable information, for example, the type of operating system you use to access our website, the domain name of your internet service provider, the type of browser you are using and your internet protocol ("IP") address. We use this information to improve many of the features of Rollingstone.com; we may also use this information in the aggregate to analyze site usage and to provide data to our advertisers.
+We may collect non-personally identifiable information, for example, the type of operating system you use to access our website, the domain name of your internet service provider, the type of browser you are using and your internet protocol (“IP”) address. We use this information to improve many of the features of Rollingstone.com; we may also use this information in the aggregate to analyze site usage and to provide data to our advertisers.
 
 In addition, we reserve the right to use the information we collect about your computer, which may at times be able to identify you, for any lawful business purpose, including without limitation to help diagnose problems with our servers, to gather broad demographic information, and to otherwise administer our website.
 
@@ -57,13 +61,15 @@ We do not seek to collect personally identifiable information from persons under
 
 ## YOUR CALIFORNIA PRIVACY RIGHTS (As provided by California Civil Code Section 1798.83)
 
-A California resident who has provided personal information to a business with whom he/she has established a business relationship for personal, family, or household purposes ("California customer") is entitled to request information about whether the business has disclosed personal information to any third parties for the third parties’ direct marketing purposes. In general, if the business has made such a disclosure of personal information, upon receipt of a request by a California customer, the business is required to provide a list of all third parties to whom personal information was disclosed in the preceding calendar year, as well as a list of the categories of personal information that were disclosed.
+A California resident who has provided personal information to a business with whom he/she has established a business relationship for personal, family, or household purposes (“California customer”) is entitled to request information about whether the business has disclosed personal information to any third parties for the third parties’ direct marketing purposes. In general, if the business has made such a disclosure of personal information, upon receipt of a request by a California customer, the business is required to provide a list of all third parties to whom personal information was disclosed in the preceding calendar year, as well as a list of the categories of personal information that were disclosed.
 
-However, under the law, a business is not required to provide the above-described lists if the business adopts and discloses to the public (in its privacy policy) a Privacy Policy of not disclosing customer’s personal information to third parties for their direct marketing purposes unless the customer first affirmatively agrees to the disclosure, as long as the business maintains and discloses this Privacy Policy. Rather, the business may comply with the law by notifying the customer of his or her right to prevent disclosure of personal information and providing a cost free means to exercise the right.
+However, under the law, a business is not required to provide the above-described lists if the business adopts and discloses to the public (in its Privacy Policy) a policy of not disclosing customer’s personal information to third parties for their direct marketing purposes unless the customer first affirmatively agrees to the disclosure or gives customers a mechanism to opt out of having their personal information disclosed to third parties for their direct marketing purposes. Rather, the business may comply with the law by notifying the customer of his or her right to prevent disclosure of personal information and providing a cost free means to exercise the right.
 
-As stated in this Privacy Policy, we do not share information with third parties for their direct marketing purposes unless you affirmatively agree to such disclosure – typically by opting in to receive information from a third party that is participating in a sweepstakes or other promotion on one of our sites. If you do ask us to share your information with a third party for its marketing purposes, we will only share information in connection with that specific promotion, as we do not share information with any third party on a continual basis. To prevent disclosure of your personal information for use in direct marketing by a third party, do not opt in to such use when you provide personally identifiable information on one of our sites. Please note that whenever you opt in to receive future communications from a third party, your information will be subject to the third party’s privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use information. You should always review the privacy policy of any party that collects your information to determine how that entity will handle your information.
+We have opted for this alternative approach. As stated in our Privacy Policy, we give customers a mechanism to opt out of having their personal information disclosed to third parties for their direct marketing purposes. Therefore, we are not required to maintain or disclose a list of third parties that received your personal information for marketing purposes.
 
-California customers may request further information about our compliance with this law by e-mailing suggestionbox@rollingstone.com. Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this e-mail address.
+If you wish to opt-out of sharing your Personal Information with non-affiliated entities for their direct marketing purposes, please click [here](mailto:suggestionbox@rollingstone.com) and mark your request “Re: Opt-out.” 
+
+California customers may request further information about our approach to this law by writing us at the mailing address provided in the “Contact Us” section or by clicking [here](mailto:suggestionbox@rollingstone.com) and requesting further information. 
 
 ## COOKIES
 
@@ -75,7 +81,7 @@ We take the protection of your personal information seriously. Our databases are
 
 ## THIRD PARTY ADVERTISING AND WEBSITES
 
-We use a third-party advertising company to serve ads when you visit Rollingstone.com. This company may use information (not including your name, address, email address or telephone number) about your visit to our website in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. If you would like more information about this practice and to know your choices about not having this information used by this company, please visit http://www.doubleclick.com/contact/index.aspx.
+We use a third-party advertising company to serve ads when you visit Rollingstone.com. This company may use information (not including your name, address, email address or telephone number) about your visit to our website in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. If you would like more information about this practice and to know your choices about not having this information used by this company, please click [here](http://www.doubleclick.net/us/corporate/privacy).
 
 Rollingstone.com may contain links to other websites. The privacy policies of these websites may be different than those listed here, and we do not have any control over, and are not responsible for, the information or use of this information that these websites collect. Please read the privacy notices of any third party websites for their policies.
 
@@ -86,5 +92,3 @@ We may also use advertising service vendors to help present advertisements on th
 ## SALE OR BANKRUPTCY INFORMATION
 
 In the event of a bankruptcy, sale, merger, public offering, or other change in control of Rolling Stone LLC and/or Rollingstone.com, your information may be shared with the person or business that assumes ownership or control of this website.
-
-This Privacy Policy was revised on April 16, 2010. 
