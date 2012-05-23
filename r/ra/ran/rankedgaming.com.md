@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rankedgaming.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123174652id_/http%3A//www.rankedgaming.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rankedgaming.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523160147id_/http%3A//www.rankedgaming.com/privacy.html) for the most accurate reproduction.*
 
 # About Us
 
