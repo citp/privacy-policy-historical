@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crn.in privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123080036id_/http%3A//crn.in/privacystatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crn.in privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523150737id_/http%3A//www.crn.in/privacystatement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
