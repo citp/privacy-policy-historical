@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qfc.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115212622id_/http%3A//www.qfc.com/company_information/Pages/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qfc.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524002549id_/http%3A//www.qfc.com/company_information/Pages/privacy_policy.aspx) for the most accurate reproduction.*
 
 # QFC - Company Information - Privacy Policy
 
