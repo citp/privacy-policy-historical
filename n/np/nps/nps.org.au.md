@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nps.org.au privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123051937id_/http%3A//www.nps.org.au/about_this_website/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nps.org.au privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523180050id_/https%3A//www.nps.org.au/about_this_website/privacy) for the most accurate reproduction.*
 
 # Privacy policy: NPS - Better choices, Better health
 
