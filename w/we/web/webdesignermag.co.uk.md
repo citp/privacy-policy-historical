@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webdesignermag.co.uk privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124203222id_/http%3A//www.imagine-publishing.co.uk/privacy_policy.html%3Futm_source%3Dwebdesignermag.co.uk%26utm_medium%3Dlink%26utm_campaign%3DGlobal%252BFooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdesignermag.co.uk privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523085849id_/http%3A//www.imagine-publishing.co.uk/privacy_policy.html%3Futm_source%3Dwebdesignermag.co.uk%26utm_medium%3Dlink%26utm_campaign%3DGlobal%252BFooter) for the most accurate reproduction.*
 
 # Imagine Publishing - Just imagine...
 
