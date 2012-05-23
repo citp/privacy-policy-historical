@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starpulse.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217063321id_/http%3A//www.starpulse.com/Company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starpulse.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523184856id_/http%3A//www.starpulse.com/Company/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Starpulse.com
 
@@ -46,4 +46,4 @@ Only those employees of Starpulse.com who require access to data concerning User
 
 **Feedback** \- Users may provide feedback (e.g., input and suggestions) to Starpulse.com regarding the Starpulse.com Web site. Users providing feedback must provide their name and e-mail address. Any contact information entered when providing feedback will only be used to acknowledge or respond to that feedback. 
 
-If you have any questions regarding our Privacy Statement and policies or your dealings with our Web site, please [contact us](https://web.archive.org/web/20111217063321id_/http%3A//www.starpulse.com/Company/contact.html)
+If you have any questions regarding our Privacy Statement and policies or your dealings with our Web site, please [contact us](https://web.archive.org/web/20120523184856id_/http%3A//www.starpulse.com/Company/contact.html)
