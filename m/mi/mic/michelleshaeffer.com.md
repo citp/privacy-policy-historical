@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the michelleshaeffer.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531204214id_/http%3A//www.michelleshaeffer.com/about-2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michelleshaeffer.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523155250id_/http%3A//www.michelleshaeffer.com/about-2/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY |
+# PRIVACY POLICY
 
 **1\. HOW WE PROTECT YOUR PRIVACY.**  
 This privacy policy tells you how we collect, use, and protect your personal information. By visiting our website, you accept and agree to the terms and conditions of this privacy policy. In particular, you consent to our collection and use of your personal information as described in this privacy policy.
