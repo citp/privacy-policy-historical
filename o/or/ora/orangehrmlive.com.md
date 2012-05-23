@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orangehrmlive.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112134459id_/http%3A//www.orangehrm.com/privacy%2520policy/OrangeHRM_Privacy_Policy_RV_0.1-1-1.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orangehrmlive.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523130731id_/http%3A//www.orangehrm.com/privacy%2520policy/OrangeHRM_Privacy_Policy_RV_0.1-1-1.pdf) for the most accurate reproduction.*
 
 # OrangeHRM has adopted this privacy policy in order to ensure users of our commitment and dedication to privacy. OrangeHRM is committed to maintaining the highest standards of confidentiality and we understand your need to control your personal data that you share with us.
 
