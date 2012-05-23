@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yesmagazine.org privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209153435id_/http%3A//www.yesmagazine.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesmagazine.org privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523212535id_/http%3A//www.yesmagazine.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — YES! Magazine
 
@@ -7,12 +7,10 @@
 Join over 62,000 others already signed up for FREE YES! news.   
 [[SAMPLE](http://www.yesmagazine.org/newsletters/current/sample_yesnews.html)]  [[ARCHIVE](http://www.yesmagazine.org/whatcounts/archive.html)]
 
-[](http://store.yesmagazine.org/index.php?main_page=product_info&products_id=334&ica=Gift_port_Buy1Get1Free_2for1&icl=All_640)
-
     [](http://www.yesmagazine.org/whatcounts/signup_weekly.php?ica=Signup_tn_YTW_signup&icl=All_800)  
 [Sign up](http://www.yesmagazine.org/whatcounts/signup_weekly.php?ica=Signup_txt_YTW_signup&icl=All_800) for our weekly highlights email. 
 
-[](http://store.yesmagazine.org/agenda-for-new-economy?ica=DKbk_port_3WaysShort&icl=All_2000)
+[](http://store.yesmagazine.org/products/books/7/agenda-for-a-new-economy-2nd-edition/?ica=DKbk_port&icl=All_2000)
 
 [](http://store.yesmagazine.org/yes-posters?ica=Posters_port_YESPosters&icl=Issues_LCol_1600)
 
@@ -33,7 +31,7 @@ The information we gather falls into two categories:
 
 ### Paid Products and Services
 
-While our website is free, we do sell products such as subscriptions and back issues. To enable the purchase of these and other products, we collect and store billing and credit card information. This information will only be shared with third parties who perform tasks required to complete the purchase transaction. Examples of this include fulfilling orders and processing credit card payments.
+While our website is free, we do sell products such as subscriptions and back issues. To enable the purchase of these and other products, we collect and store billing  information. This information will only be shared with third parties who perform tasks required to complete the transaction. Examples of this include fulfilling orders and processing credit card payments.
 
 ### Reader Surveys, Reader Panels and Market Research
 
@@ -51,7 +49,7 @@ As is standard practice on many websites, YES! uses “cookies” and other tech
 
 
 
-We use the IP address log in an aggregate fashion to track access to our site. Log data is only used in aggregate to analyze usage of our website.
+We use the IP address log in an aggregate fashion to track access to our site. Log data is  used in aggregate to analyze usage of our website.
 
 ## What do we do with the information we gather about you?
 
@@ -61,7 +59,7 @@ YES! may perform statistical, demographic and marketing analyses of subscribers,
 
 ### Products and Services from YES!
 
-From time to time, we may provide subscribers with information and offers about other products offered by YES!, including subscriptions, back issues and renewals. This information will only be shared internally. If you do not wish to receive such information and offers, you may opt-out.
+From time to time, we may provide customers with information and offers about other products offered by YES!, including subscriptions, back issues and renewals. This information will only be shared internally. If you do not wish to receive such information and offers, you may opt-out.
 
 ### Email Newsletters
 
@@ -93,7 +91,7 @@ YES! readers may use this feature to send links to articles to others through em
 
 YES! will not sell, rent, swap or authorize any third party to use your email address without your permission. 
 
-If you are a print subscriber to YES! magazine and subscribed either by mail, phone or online, we may exchange or rent your name and mailing address (but not your email address) with other like-minded organizations through direct mail. If you prefer that we do not share this information, you may opt-out. We send you a "welcome" letter when you first subscribe that includes that option, and at any time you can call or email us and request we not share your name.
+If you are a print subscriber to YES! magazine and subscribed either by mail, phone or online, we may exchange or rent your name and mailing address (but not your email address) with other like-minded organizations through direct mail. If you prefer that we do not share this information, you may opt-out, either by logging in to your account ([www.yesmagazine.org/MySubscription](http://www.yesmagazine.org/MySubscription)) and choosing that option, or by emailing customer service.
 
 ### Service Providers
 
@@ -109,14 +107,14 @@ If you experience difficulty with the unsubscribe process, feel free to contact 
 
 ### Print Promotions
 
-If you are a print subscriber and prefer that we do not share your address, you may opt-out. We send you a "welcome" letter when you first subscribe that includes that option, and at any time you can call or email us and request we not share your name. Email us at subs [at] yesmagazine.org, put "don't share my name" in the subject and include in the body your subscriber number and name. If you don't know your subscriber number (found on the address label of the magazine), you will need to include your address as well, so we can correctly identify you.
+ If you prefer that we do not share your address, you may opt-out, either by logging in to your account ([www.yesmagazine.org/MySubscription](http://www.yesmagazine.org/MySubscription)) and choosing that option, or by emailing customer service. Email us at subs [at] yesmagazine.org, put "don't share my name" in the subject and include in the body your subscriber number and name. If you don't know your subscriber number (found on the address label of the magazine), you will need to include your address as well, so we can correctly identify you.
 
 ## Is your information protected?  
 
 
 ### Data Security
 
-We use reasonable precautions to protect our users' personal information and to store it securely. Sensitive information that is transmitted to us online (such as a credit card number) is 128-bit encrypted and is transmitted to us securely.  If you are not comfortable sending your credit card information over the Internet, please call the YES! office (1-800-937-4451), or print the page and FAX (206-842-5208) or mail it to us.  (PO Box 10818, Bainbridge Island, WA 98110)
+We use reasonable precautions to protect our users' personal information and to store it securely. Sensitive information that is transmitted to us online (such as a credit card number) is 256-bit encrypted and is transmitted to us securely.  If you are not comfortable sending your credit card information over the Internet, please call the YES! office (1-800-937-4451), or print the page and FAX (206-842-5208) or mail it to us.  (284 Madrona Way NE Suite 116, Bainbridge Island, WA 98110)
 
 ### Children Under 13
 
@@ -128,7 +126,7 @@ We do not intentionally collect any personally identifiable information from ind
 
 _This Privacy Policy may be amended from time to time. Any such changes will be posted on this page so you should check here from time to time._
 
-YES! Magazine encourages you to make free use of this article by taking these [easy steps](http://www.yesmagazine.org/about/reprints). lotto. (2009, June 30). Privacy Policy. Retrieved December 09, 2011, from YES! Magazine Web site: http://www.yesmagazine.org/about/privacy-policy. This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/3.0/us/ "Creative Commons License")
+YES! Magazine encourages you to make free use of this article by taking these [easy steps](http://www.yesmagazine.org/about/reprints). lotto. (2009, June 30). Privacy Policy. Retrieved May 23, 2012, from YES! Magazine Web site: http://www.yesmagazine.org/about/privacy-policy. This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/3.0/us/ "Creative Commons License")
 
 [ ](http://creativecommons.org/licenses/by-nc-sa/3.0/us/ "Creative Commons License")
 
