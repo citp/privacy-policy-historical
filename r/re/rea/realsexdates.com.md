@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the realsexdates.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123115521id_/http%3A//realsexdates.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realsexdates.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523170119id_/http%3A//www.realsexdates.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Real Sex Dates: Join Right Now for FREE. Search through thousands of LOCAL PROFILES on RealSexDates.com
+# Real Sex Dates, find other adults seeking dates in your AREA for free.
 
 **Privacy Statement for SexDateNetwork**
 
