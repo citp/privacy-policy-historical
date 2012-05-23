@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lacountyfair.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130172750id_/http%3A//www.fairplex.com/fp/company/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacountyfair.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523055333id_/http%3A//www.lacountyfair.com/2012/generalinfo/privacypolicy.asp) for the most accurate reproduction.*
 
-# Fairplex :
+# 2012 L.A. County Fair | | Aug. 31 – Sept. 30, 2012
 
-Privacy Policy
+### Privacy Policy
 
 What information do we collect?
 
@@ -14,44 +14,33 @@ What do we use your information for?
 
 Any of the information we collect from you may be used in one of the following ways:
 
-> • To personalize your experience  
->  (your information helps us to better respond to your individual needs)
-> 
-> • To improve our website  
->  (we continually strive to improve our website offerings based on the information and feedback we receive from you)
-> 
-> • To improve customer service  
->  (your information helps us to more effectively respond to your customer service requests and support needs)
-> 
-> • To process transactions
-> 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.  
-> 
-> 
-> • To administer a contest, promotion, survey or other site feature  
-> 
-> 
-> • To send periodic emails
+-To personalize your experience (your information helps us to better respond to your individual needs)  
+-To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)  
+-To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)  
+-To process transactions (Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.)  
+-To administer a contest, promotion, survey or other site feature  
+-To send periodic emails
 
 The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.  
+
 
 How do we protect your information?
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required toï¿½keep the information confidential.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
 After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
 Do we use cookies?
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information,
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
 We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service.
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly.
 
 Do we disclose any information to outside parties?
 
@@ -84,9 +73,9 @@ This policy was last modified on 1/11/2010
 Contacting Us  
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-[Fairplex.com](http://www.fairplex.com/fp/index.asp)  
+[Fairplex.com](https://web.archive.org/web/20120523055333id_/http%3A//www.lacountyfair.com/fp)  
 1101 W. McKinley Ave  
 Pomona, California 91768  
 USA  
-[info@fairplex.com](email:info@fairplex.com)  
+[info@fairplex.com](mailto:info@fairplex.com)  
 (909) 623-3111
