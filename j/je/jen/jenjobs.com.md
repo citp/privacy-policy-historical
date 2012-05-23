@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jenjobs.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123110700id_/http%3A//www.jenjobs.com/privacy/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jenjobs.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523165934id_/http%3A//www.jenjobs.com/privacy/policy) for the most accurate reproduction.*
 
-# Job Vacancy | Job Search | Online Jobs in Malaysia : JenJOBS
+# Job Vacancy | Job Search | Online Jobs in Malaysia | Jawatan Kosong : JenJOBS
 
 1\. The Company is committed to respecting the privacy of the User. The Company strives to provide a safe and secure user experience. The Company's Privacy Statement sets forth the online data collection, usage policies and practices that apply to the Site.
 
