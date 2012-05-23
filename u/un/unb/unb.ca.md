@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unb.ca privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117232610id_/http%3A//www.unb.ca/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unb.ca privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523161659id_/http%3A//www.unb.ca/privacy/index.html) for the most accurate reproduction.*
 
 # UNB | Privacy
 
@@ -18,8 +18,8 @@ In some cases, the Internet Protocol (IP) address of visitors could allow for in
 
 ## myUNB
 
-Our [myUNB](http://my.unb.ca/ "My.UNB") section uses cookies, small pieces of information sent from our site to your web browser. Cookies enable our website to remember personal page view settings. This information is used solely to provide an improved experience for our users. Each browser allows you to set your preferences for accepting or rejecting cookies, as well as for deleting cookies. UNB's Integrated Technology Services [Help Desk](http://helpdesk.unb.ca/ "Help Desk") can help you find these settings in your browser. 
+Our [myUNB](http://my.unb.ca/ "My.UNB") section uses cookies, small pieces of information sent from our site to your web browser. Cookies enable our website to remember personal page view settings. This information is used solely to provide an improved experience for our users. Each browser allows you to set your preferences for accepting or rejecting cookies, as well as for deleting cookies. UNB's Information Technology Services [Help Desk](http://helpdesk.unb.ca/ "Help Desk") can help you find these settings in your browser. 
 
 ## Want to know more?
 
-For more information, or if you have questions or concerns regarding privacy or management of personal information at UNB, you can visit the [Protection of Personal Information and Privacy @ UNB](https://web.archive.org/web/20111117232610id_/http%3A//www.unb.ca/privacy/pim/index.html) website, consult the [Policy for the Protection of Personal Information and Privacy (.pdf)](https://web.archive.org/web/20111117232610id_/http%3A//www.unb.ca/privacy/pim/pppip.pdf) or contact the [University Secretariat](http://www.unb.ca/secretariat "University Secretariat").
+For more information, or if you have questions or concerns regarding privacy or management of personal information at UNB, you can visit the [Protection of Personal Information and Privacy @ UNB](https://web.archive.org/web/20120523161659id_/http%3A//www.unb.ca/privacy/pim/index.html) website, consult the [Policy for the Protection of Personal Information and Privacy (.pdf)](https://web.archive.org/web/20120523161659id_/http%3A//www.unb.ca/privacy/pim/pppip.pdf) or contact the [University Secretariat](http://www.unb.ca/secretariat "University Secretariat").
