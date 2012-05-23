@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimateclassicrock.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107003058id_/http%3A//ultimateclassicrock.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimateclassicrock.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524003155id_/http%3A//ultimateclassicrock.com/privacy) for the most accurate reproduction.*
 
 # Ultimate Classic Rock
 
@@ -90,7 +90,7 @@ From time to time we may make changes to our Privacy Policy. If we make changes,
 
 ### Contacting Us
 
-If you have any questions about this privacy statement, the practices of the Websites, or your dealings with the Websites, please contact us at: .
+If you have any questions about this privacy statement, the practices of the Websites, or your dealings with the Websites, please .
 
 ### Effective Date
 
