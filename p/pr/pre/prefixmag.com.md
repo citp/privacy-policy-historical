@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the prefixmag.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011072333id_/http%3A//www.prefixmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prefixmag.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523174927id_/http%3A//www.prefixmag.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Prefixmag
+# Privacy Policy | Prefix
 
-**Last Updated 12-6-07**
+**Last Updated May 7, 2012**
 
 Your privacy is important to us. Accordingly, we have created this Privacy Policy, which explains how and why we collect personal data from you and the ways in which that data is or may be used. 
 
@@ -22,6 +22,12 @@ We may use your personal data in the following ways:
 
 
 **Collection of Anonymous Data**
+
+The site’s advertisers may engage in the collection of non-personally identifiable information about end users by third parties through the use of cookies and pixel tags 
+
+End users to opt out of behavioral targeting through the opt-out link located at [Opt out](http://www.networkadvertising.org/managing/opt_out.asp). 
+
+Prefix Magazine is participating in the Digital Advertising Alliance's (DAA) Self-Regulatory Program for Online Behavioral Advertising. [Ad Choices](http://www.aboutads.info/choices/). 
 
 Most pages on the Prefixmag.com Website do not require you to provide personal data. When visiting a page, however, you may automatically provide Prefixmag.com with anonymous data that is not linked to your personal data, such as your browser type, Internet Protocol (IP) address, domain name, operating system, access times, and the addresses of referring web sites. 
 
