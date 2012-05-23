@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bradfordexchangechecks.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123025712id_/http%3A//www.bradfordexchangechecks.com/bec/cs/cs_privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bradfordexchangechecks.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523031816id_/http%3A//www.bradfordexchangechecks.com/bec/cs/cs_privacy_policy.jsp) for the most accurate reproduction.*
 
 # Bradford Exchange Checks Privacy Policy
 
