@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suddenlydarling.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123153828id_/http%3A//www.suddenlydarling.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D1447%26Itemid%3D11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suddenlydarling.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523145709id_/http%3A//www.suddenlydarling.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D1447%26Itemid%3D11) for the most accurate reproduction.*
 
 # Privacy Policy
 
