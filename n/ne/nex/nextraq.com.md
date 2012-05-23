@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the nextraq.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209002329id_/http%3A//www.nextraq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextraq.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524012635id_/http%3A//www.nextraq.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | GPS Fleet Tracking | NexTraq
+# Privacy Policy | Fleet Tracking | NexTraq
 
 [Home](http://www.nextraq.com/) » Privacy Policy
-
-## NexTraq Privacy Statement 
 
 In order to improve the Company’s website and to better tailor it to meet its Customers needs, the Company gathers certain types of information about its Customers to improve marketing and promotional efforts, to statistically analyze site usage, to improve content and product offerings and to customize the Company’s website content, layout and services. This may include personal information such as email addresses and aggregate information such as the number of “hits” the Company’s website receives in a day.
 
