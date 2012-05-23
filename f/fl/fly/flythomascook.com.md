@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flythomascook.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129214410id_/http%3A//book.flythomascook.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flythomascook.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524015139id_/http%3A//book.flythomascook.com/privacy-policy) for the most accurate reproduction.*
 
-# fly thomas cook | Thomas Cook Websites
+# Privacy Policy | Fly Thomas Cook
 
 Thomas Cook understands and respects the importance of your privacy. When you browse the site, we do not collect personal information about you. The only way we will get any kind of personal information is if you give it to us when we specifically ask for it. We ask you for personal information in a variety of circumstances:
 
@@ -14,9 +14,9 @@ In order to help us maintain and improve our service to you Thomas Cook also use
 
 We use third-party advertising companies (such as DoubleClick) to serve ads on other web sites. These companies may use cookie-based information (not including your name, address email address or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness. We may also collect information about your visit to our website, based on your browsing (click stream) activities. This information may include the pages you browse and products and services viewed or booked for example. This helps us to better manage and develop our offers and to provide you with better products and services tailored to your individual interests and needs. We may use this information to measure the entry and exit points of visitors to the Site and respective numbers of visitors to various pages and sections of the Site and details of searches performed. We may also use this information to measure the usage of advertising banners, other click through from the Site. We may disclose information of this nature in aggregate form to third parties, personal information on individual visitors will not be passed on to any third party.
 
-## Email 
+## Email
 
-Users who have subscribed to our e-mail service or visitors purchasing products on the Site who have not opted out, will receive promotional mailings and e-mails from Thomas Cook companies. Your personal details will not be passed to any other third parties except where necessary to process your booking or enquiry. Your details may be passed to countries outside of the UK and the European Economic Area in order to process and arrange for the products and services you request. When you submit your booking or request to us you agree that we may use and transfer your personal information in this manner. We will provide a summary of any personal information held upon request. This information will only be sent to the e-mail address on file for the subscriber name associated with it. To obtain an information summary please use our online self help at [flythomascook.custhelp.com](http://book.flythomascook.com/help/?default).
+Users who have subscribed to our e-mail service or visitors purchasing products on the Site who have not opted out, will receive promotional mailings and e-mails from Thomas Cook companies. Your personal details will not be passed to any other third parties except where necessary to process your booking or enquiry. Your details may be passed to countries outside of the UK and the European Economic Area in order to process and arrange for the products and services you request. When you submit your booking or request to us you agree that we may use and transfer your personal information in this manner. We will provide a summary of any personal information held upon request. This information will only be sent to the e-mail address on file for the subscriber name associated with it.
 
 ## Security
 
@@ -31,25 +31,3 @@ We would also like to store and use your personal details for future marketing p
 Occasionally we contract with other companies to provide services on our behalf, for example mailing information to our customers. We only provide those companies with the personal details relating to our customers which they require in order to deliver the service. They are prohibited from using that information for any other purpose. We will ensure that anyone to whom we pass your details for this reason agrees to treat it with the same level of protection we are obliged to provide.
 
 You are entitled to ask for a copy of your personal details which we hold, for your information (for which we may charge a small fee) and to correct any inaccuracies.
-
-## Buy Together & Save
-
-Book **In-flight meals, Choose Your Seat and Hold baggage** in a special bundle deal and save up to £7 per person. Have a look at the savings you could make.  
-[Special bundle deal »](http://book.flythomascook.com/flight/extras/buy-together-bundle-deal.php)
-
-  
-
-
-## Top Selling Extras
-
-Get a 3 course meal and coffee or tea from **only £8.00** per adult or **£4.00** per child. Check out our [extras price list](http://book.flythomascook.com/charges-and-fees/) for details. It's got to be cheaper than a meal at the airport!  
-[In-flight meals » ](http://book.flythomascook.com/flight-extras/in-flight-meals/)
-
-Make sure you get to sit together for a small charge, simply order when you book your flight. Choose Your Seat from only £7.50 per person per flight.  
-[Book Choose Your Seat » ](http://book.flythomascook.com/flight-extras/seat-reservation/)
-
-Why not book yourself a resort transfer? It's one less thing to arrange when you arrive at your destination.  
-[Resort transfers » ](http://book.flythomascook.com/holiday-extras/when-your-there/airport-transfers/)
-
-  
-
