@@ -1,12 +1,98 @@
-<!--The following is the downloaded HTML source of the geekaphone.com privacy policy that was archived on 2011-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111123183940id_/http%3A//geekaphone.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the geekaphone.com privacy policy that was archived on 2012-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120523105246id_/http%3A//geekaphone.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="en" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns="http://www.w3.org/1999/xhtml"><head>
+    
+    <meta content="Geekaphone" property="og:site_name">
+    <meta content="131447456929682" property="fb:app_id"> 
+    <meta content="612980623" property="fb:admins"> 
+  
     <meta content="text/html; charset=UTF-8" http-equiv="content-type">
     <link href="/images/favicon.ico" rel="shortcut icon">    
     <link href="/images/favicon.ico" rel="icon">
-    <script type="text/javascript" async="" src="http://s3.amazonaws.com/getsatisfaction.com/javascripts/feedback-v2.js"></script><script type="text/javascript" async="" src="http://widgets.twimg.com/j/2/widget.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+    <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
 
+    <script type="text/javascript">
+      // <![CDATA[
+        
+      var _fbAppId = '131447456929682';
+      var _template = 'sites/geekaphone/privacy-policy';
+      
+      // ]]>
+    </script> 
+
+           
+    <script type="text/javascript">
+  // <![CDATA[        
+    /** See: http://www.thetaboard.com/blog/client-side-error-logging-with-google-analytics?r=378 */
+    (function() {
+      function parseUrl(url) {
+        var a = document.createElement('a');
+        a.href = url;
+        return a;
+      }
+      
+      var handlingOnError = false;
+      window.onerror = function(message, fileRaw, line) { 
+        var summary = '[' + fileRaw + ' (' + line + ')] ' + message;
+        var parsedFile = parseUrl(fileRaw);
+   
+        if (parsedFile.host != window.location.host) { 
+          console.warn('Ignoring error from 3rd party domain: ' + summary);
+          return;
+        } else if (line == '0' || line == 0) {
+          // adb: these seem to be noisy and not useful
+          console.warn('Ignoring line 0 error: ' + summary);
+          return;
+        }
+        
+        // Notify google analytics 
+        _gaq.push(['_trackEvent', 'error', 'javascript', summary, null, true]);
+        
+        /* adb: commenting this out, its way too noisy, we'll rely on google analytics for now
+        // If the file is our url, substitute our template
+        var file = fileRaw;
+        if (file == window.location.href && _template.length > 0) 
+          file = _template;   
+        else
+          file = parsedFile.pathname;
+        
+        var data = "errClass=onError&message=" + encodeURIComponent(message) + "&file=" + encodeURIComponent(file) + "&line=" + encodeURIComponent(line) + "&url=" + encodeURIComponent(window.location.href) + "&details=" + encodeURIComponent(fileRaw);
+        
+        // Notify us     
+        handlingOnError = true;
+        $.ajax({ url: '/api/error', type: 'post', data: data, complete: function() { handlingOnError = false; } });
+        */
+      };
+    
+      var handlingAjaxError = false;
+      $(document).ajaxError(function(event, request, settings, error) {
+        if (handlingAjaxError || handlingOnError) return;
+        handlingAjaxError = true;
+        
+        var obj = { url: settings.url, responseText: request.responseText, statusText: request.statusText, statusCode: request.statusCode(), error: error };
+        var details = JSON.stringify(obj);
+         
+        // Notify google analytics 
+        _gaq.push(['_trackEvent', 'error', 'ajax', details, null, true]);
+    
+        /* adb: commenting this out, its way too noisy, we'll rely on google analytics for now
+        var message = request.responseText;
+        if ($.trim(message).length == 0)
+          message = request.statusText;
+        if ($.trim(message).length == 0)
+          message = error;
+          
+        var data = "errClass=ajax&message=" + encodeURIComponent(message) + "&file=" + encodeURIComponent(_template) + "&line=none&url=" + encodeURIComponent(window.location.href) + "&details=" + encodeURIComponent(details);
+        
+        // Notify us     
+        $.ajax({ url: '/api/error', type: 'post', data: data, complete: function() { handlingAjaxError = false; } });
+        */
+      });
+    })();
+  // ]]>    
+</script>
+    
      
     
     <script type="text/javascript">
@@ -82,7 +168,7 @@
         }      
       </style>
     
-    <link type="text/css" rel="stylesheet" href="/cacheable/css?f=css%2Fcore.css&amp;h=2431934a3ed537433c8781ad49f04541"> 
+    <link type="text/css" rel="stylesheet" href="/cacheable/css?f=css%2Fcore.css&amp;h=afc45648e1571821a5a8062642c718e1"> 
   
 	
 <title>Privacy Policy</title>
@@ -90,11 +176,29 @@
 	
 </head>
 <body>
+
+    
+    <script type="text/javascript">
+    // <![CDATA[
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "14243123" });
+      (function() {
+      var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+      s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+      el.parentNode.insertBefore(s, el);
+      })();
+    // ]]>
+    </script>
+    <noscript>
+      <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=14243123&amp;cv=2.0&amp;cj=1" />
+    </noscript>
+    
+
     <div id="container">
-      <div id="ad-top">
-        <table><tbody><tr><td style="vertical-align: top"><script type="text/javascript" src="http://a.collective-media.net/adj/lb.geekaphone/geekaphone;!category=geekaphone;pos=atf;sz=728x90;ord=1322073580601?"></script><noscript>
-        <a target="_blank" href="http://a.collective-media.net/jump/lb.geekaphone/geekaphone;!category=geekaphone;pos=atf;sz=728x90;ord=1322073580601?">
-          <img alt="" border="0" src="http://a.collective-media.net/ad/lb.geekaphone/geekaphone;!category=geekaphone;pos=atf;sz=728x90;ord=1322073580601?" />
+      <div class="default ad-top">
+        <table><tbody><tr><td style="vertical-align: top"><script type="text/javascript" src="http://a.collective-media.net/adj/lb.geekaphone/geekaphone;site=geekaphone;!category=geekaphone;pos=atf;sz=728x90;ord=1337770366685?"></script><noscript>
+        <a target="_blank" href="http://a.collective-media.net/jump/lb.geekaphone/geekaphone;site=geekaphone;!category=geekaphone;pos=atf;sz=728x90;ord=1337770366685?">
+          <img alt="" border="0" src="http://a.collective-media.net/ad/lb.geekaphone/geekaphone;site=geekaphone;!category=geekaphone;pos=atf;sz=728x90;ord=1337770366685?" />
         </a>
       </noscript></td></tr></tbody></table>
       </div>
@@ -111,7 +215,7 @@
           <td style="width:50%; text-align: right;">
             <form action="/api/search" method="get"> 
               <div> 
-                <input name="product" class="text-field hint prod-autocomplete" title="search by phone" style="width: 16em;" type="text"> 
+                <input name="product" class="text-field prod-autocomplete" placeholder="search by phone" style="width: 16em;" type="text"> 
                 <input value="Go" type="submit" title="Look up a particular phone"> 
               </div> 
             </form> 
@@ -137,6 +241,10 @@
     </div>
   </div>
 
+        
+        <div style="float: right">
+          <fb:like show_faces="true" width="450" send="false"></fb:like>
+        </div>
       </div>
       <div id="footer">
         <div id="footer-social">
@@ -174,12 +282,12 @@
       </div>
     </div>
 
-    <script type="text/javascript" src="/cacheable/js?f=common%2Fjs%2Fcommon.js&amp;h=34ccafa6141f876a691a93748a0a24e3"></script> 
+    <script type="text/javascript" src="/cacheable/js?f=common%2Fjs%2Fcommon.js&amp;h=7da8b6dd68d5ca2d2b26c42c20511910"></script> 
     <script charset="utf-8" type="text/javascript">
     // <![CDATA[
       if (loadPlugins.twitter) {
         async_load('http://widgets.twimg.com/j/2/widget.js', function() {
-          new TWTR.Widget({
+          TWTR && new TWTR.Widget({
             version: 2,
             type: 'profile',
             rpp: 6,
@@ -212,16 +320,18 @@
       }    
       if (loadPlugins.gs) {
         async_load('http://s3.amazonaws.com/getsatisfaction.com/javascripts/feedback-v2.js', function() {
-          var feedback_widget_options = {};    
-          $(document).ready(function(){  
-            feedback_widget_options.display = "overlay";  
-            feedback_widget_options.company = "geekaphone";
-            feedback_widget_options.placement = "right";
-            feedback_widget_options.color = "#84C225";
-            feedback_widget_options.style = "idea";
-            // This is important to avoid the script using document.write, which you can't use with xHTML strict
-            feedback_widget_options.container = 'gsContainerID';
-            var feedback_widget = new GSFN.feedback_widget(feedback_widget_options);
+          $(document).ready(function() {  
+            var options = {
+              display: 'overlay',  
+              company: 'geekaphone',
+              placement: 'right',
+              color: '#84C225',
+              style: 'idea',
+              // This is important to avoid the script using document.write, which you can't use with xHTML strict
+              container: 'gsContainerID'
+            };    
+            if (GSFN)            
+              var feedback_widget = new GSFN.feedback_widget(options);
           });
         });
       }      
