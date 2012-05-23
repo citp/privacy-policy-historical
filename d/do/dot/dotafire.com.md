@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dotafire.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123210208id_/http%3A//www.dotafire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotafire.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523152638id_/http%3A//www.dotafire.com/privacy-policy) for the most accurate reproduction.*
 
-# DOTAFire :: DotA2 Guides
+# DOTAFire :: DotA 2 Builds & Guides for Hero Strategy
 
 This policy was last modified on Nov 1, 2010
 
