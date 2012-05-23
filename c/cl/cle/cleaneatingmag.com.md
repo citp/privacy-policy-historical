@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cleaneatingmag.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123213922id_/http%3A//www.cleaneatingmag.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleaneatingmag.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523164222id_/http%3A//www.cleaneatingmag.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -49,10 +49,10 @@ From time to time we may send you further information about the publication, its
 
 In addition, from time to time, we may use your personal information for the following purposes:
 
-  * to detect and protect RKP and other third parties against error, fraud, theft and other illegal activity, and to audit compliance with RKP policies and contractual obligations;
-  * to understand your needs and preferences, including to contact and communicate with you and to conduct surveys, research and evaluations. It is optional for you to submit some demographic information, but providing this information is encouraged so we can provide a more personalized experience on our Site;
-  * to obtain audit statements regarding numbers of subscribers per publication;
-  * to engage in business transactions, including the purchase, sale, lease merger, amalgamation or other type of acquisition, disposal, securitization or financing involving RKP;
+  * to detect and protect RKP and other third parties against error, fraud, theft and other illegal activity, and to audit compliance with RKP policies and contractual obligations; 
+  * to understand your needs and preferences, including to contact and communicate with you and to conduct surveys, research and evaluations. It is optional for you to submit some demographic information, but providing this information is encouraged so we can provide a more personalized experience on our Site; 
+  * to obtain audit statements regarding numbers of subscribers per publication; 
+  * to engage in business transactions, including the purchase, sale, lease merger, amalgamation or other type of acquisition, disposal, securitization or financing involving RKP; 
   * for any other purpose we may indicate to you from time to time. You do not have to provide us with your personal information to visit our website. However, if you choose to withhold requested information, you may not be able to visit all sections of our Site or use all of our online products. 
 
 
@@ -85,8 +85,8 @@ RKP may disclose your personal information to a government institution that has 
 
 At RKP, we want you to be able to maintain control over how we use your personal information. In particular:
 
-  * You always have the option to instruct us to not use your name, address, e-mail address, etc. beyond providing you with the product, service or information you requested. See “Contact Us” below.
-  * E-mail communications will always include an identification of the sender and an “unsubscribe” option. As mentioned before, we may not be able to provide you with our services if you withdraw your consent to our use of your personal information.
+  * You always have the option to instruct us to not use your name, address, e-mail address, etc. beyond providing you with the product, service or information you requested. See “Contact Us” below. 
+  * E-mail communications will always include an identification of the sender and an “unsubscribe” option. As mentioned before, we may not be able to provide you with our services if you withdraw your consent to our use of your personal information. 
 
 
 
@@ -153,4 +153,4 @@ RKP Privacy Policy
 Mississauga, Ontario  
 L5R 3M1   
 905-507-3545   
-E-mail: privacy@rkpubs.com
+E-mail: [privacy@rkpubs.com](mailto:privacy@rkpubs.com)
