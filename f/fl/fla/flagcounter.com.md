@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flagcounter.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129115912id_/http%3A//flagcounter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flagcounter.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523152930id_/http%3A//www.flagcounter.com/privacy.html) for the most accurate reproduction.*
 
 # Flag Counter » Privacy Policy
 
@@ -14,7 +14,7 @@ Personal information submitted to us by customers of our service (i.e. those who
 
 Any correspondence we receive from third-parties regarding a customer of our service's account may be revealed to that customer, or to other third-parties at our sole discretion (even if the third-party contacting us is also our customer). For instance, if we receive a complaint regarding a customer's account, we may reveal that complaint to the account holder, so that they may address the situation. 
 
-Correspondence received from customers of our service (who identify themselves as such) regarding their account will ordinarily not be revealed to third parties, except as we deem in our sole discretion, necessary for us to address any issues raised in or by such correspondence, or as required by law. 
+Correspondence received from customers of our service (who identify themselves as such) regarding their account will ordinarily not be revealed to third parties, except as we deem in our sole discretion, necessary for us to address any issues raised in or by such correspondence, or as required by law. However, if you post publicly in our forums regarding your account or use of our services, we may post any and all information regarding your account or usage publicly in order to assist you, or to address any issues raised in or by such postings or as we feel necessary to preserve our public image. 
 
 **STATISTICAL INFORMATION COLLECTED**
 
