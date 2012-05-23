@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tango.me privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220040648id_/http%3A//www.tango.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tango.me privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523180224id_/http%3A//www.tango.me/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Tango
+# Privacy Policy - Tango - FREE mobile video calls over 3G, 4G, & WiFi!
 
 ## Introduction
 
