@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipaustralia.gov.au privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124013046id_/http%3A//www.ipaustralia.gov.au/about-us/corporate/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipaustralia.gov.au privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523170228id_/http%3A//www.ipaustralia.gov.au/about-us/corporate/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | IP Australia
 
@@ -25,9 +25,9 @@ You should read the privacy policy if you are:
 
 
 
-[Privacy Policy PDF](http://www.ipaustralia.gov.au/46106/privacy_policy "privacy_policy") [  374.03 KB] 
+[Privacy Policy PDF](http://www.ipaustralia.gov.au/46106/IPAustralia__Privacy_Policy_30-04-2012.pdf "IPAustralia_ Privacy Policy 30-04-2012") [  374KB] 
 
-[Privacy Policy RTF](http://www.ipaustralia.gov.au/46106/IPAustralia__Privacy_Policy_13-05-20111.rtf "IPAustralia_ Privacy Policy 13-05-2011") [  1086 KB] 
+[Privacy Policy RTF](http://www.ipaustralia.gov.au/46106/20120321_-_Privacy_Policy_-__RTF_version_for_Internet.rtf "20120321 - Privacy Policy -  RTF version for Internet") [  852KB] 
 
 ####  Personal Information Digest 
 
@@ -97,4 +97,4 @@ Our website contains links to other websites. We are not responsible for the con
 
 
 
-Last Updated: 24/10/2011
+Last Updated: 01/5/2012
