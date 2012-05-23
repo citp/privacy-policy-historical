@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the starpulse.com privacy policy that was archived on 2011-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111217063321id_/http%3A//www.starpulse.com/Company/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the starpulse.com privacy policy that was archived on 2012-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120523184856id_/http%3A//www.starpulse.com/Company/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy - Starpulse.com</title>
@@ -9,11 +9,13 @@
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="shortcut icon" type="image/x-icon" href="http://images.starpulse.com/favicon.ico">
-<link rel="stylesheet" type="text/css" href="http://cdn.starpulse.com/css/spall.20111216-4.css">
-
+<link rel="stylesheet" type="text/css" href="http://cdn.starpulse.com/css/spall.2012012601.css">
 <!--[if lte IE 6]>
 	<link rel="stylesheet" type="text/css" href="http://cdn.starpulse.com/css/ie6_fixes.css" />
 <![endif]-->
+
+<link href="https://plus.google.com/114946410770698472140" rel="publisher">
+
 <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript">
 	/* <![CDATA[ */
 	PHP_SELF='http://www.starpulse.com/Company/privacy.html';
@@ -21,7 +23,8 @@
 	/* ]]> */ 
 </script>
 <script type="text/javascript" src="http://cdn.starpulse.com/java/jquery/jquery.pack.js"></script>
-<script type="text/javascript" src="http://cdn.starpulse.com/java/jquery/jquery.spall.20111215.js"></script>
+<script type="text/javascript" src="http://cdn.starpulse.com/java/jquery/jquery.spall.2012031605.js"></script>
+
 <!-- Google Adsense -->
 <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
 <script type="text/javascript">
@@ -34,9 +37,6 @@
 	GA_googleAddSlot('ca-pub-9674942009345807', 'Generic-300');
 	GA_googleAddSlot('ca-pub-9674942009345807', 'Generic-300-Mid');
 	GA_googleAddSlot('ca-pub-9674942009345807', 'Generic-Sky');
-	GA_googleAddSlot('ca-pub-9674942009345807', 'Generic-SkinTop');
-	GA_googleAddSlot('ca-pub-9674942009345807', 'Generic-SkinLeft');
-	GA_googleAddSlot('ca-pub-9674942009345807', 'Generic-SkinRight');
 </script>
 <script type="text/javascript">
 	/* <![CDATA[ */
@@ -87,8 +87,7 @@
 
   function trackPageView(path) {
     try {
-      var pageTracker =_gat._getTracker('UA-2478988-1');
-      pageTracker._trackPageview(path);
+      _gaq.push(['_trackPageview',path]);
       if (typeof(_qevents.push) == 'function') { _qevents.push({ qacct:"p-4cjg46u42920Y"}); }
       if (typeof(_comscore.push) == 'function') { _comscore.push({ c1:"2",c2:"8555387"}); }
     }catch(err){}
@@ -100,8 +99,7 @@
       if (typeof(category) == 'undefined') { category ='Outbound Link'; }
       var urlParts =link.href.split('/');
       var action =urlParts[2];
-      var pageTracker =_gat._getTracker('UA-2478988-1');
-      pageTracker._trackEvent(category, action, link.href);
+      _gat._getTrackerByName()._trackEvent(category, action, link.href);
     }catch(err){}
     return true;
   }
@@ -111,23 +109,22 @@
       if (typeof(action) == 'undefined') { action ='Unknown'; }
       if (typeof(category) == 'undefined') { category ='Unknown'; }
       if (typeof(label) == 'undefined') { label ='Unknown'; }
-      var pageTracker =_gat._getTracker('UA-2478988-1');
-      pageTracker._trackEvent(category, action, label);
+      _gat._getTrackerByName()._trackEvent(category, action, label);
     }catch(err){}
     return true;
   }
 
 </script>
-<script async="" type="text/javascript" src="http://spcomments.disqus.com/count.js"></script></head>
+<script async="" type="text/javascript" src="http://scribol.com/txwidget1.2.js"></script><script async="" type="text/javascript" src="http://spcomments.disqus.com/count.js"></script></head>
 <body>
 
 <!-- Begin Facebook Connect -->
 <div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
 <script type="text/javascript">
-   var like_btn;
+	var like_btn;
 
 	//session : null, // don't refetch the session when PHP already has it
-	  window.fbAsyncInit = function() {
+	window.fbAsyncInit = function() {
 		FB.init({
 			appId   : '158308557541634',
 			status  : true, // check login status
@@ -188,7 +185,7 @@
 </center></div>
 <div id="login-window"><ul>
 <li><a href="/members/register.html?link_type=Global" target="_parent">Login / Register</a></li>
-<li><fb:login-button size="large">Connect with Facebook</fb:login-button></li>
+<li style="display: inline-block; vertical-align: middle; height: 25px; overflow: hidden; width: 205px;"><fb:login-button size="large">Connect with Facebook</fb:login-button></li>
 
   <li>
   <a class="social_button_med sp_twitter" title="Twitter" href="http://twitter.com/starpulse" target="_blank"><span>Twitter</span></a>
@@ -197,19 +194,6 @@
   <a class="social_button_med sp_email" title="Newsletter" href="http://www.starpulse.com/Newsletters/Entertainment-News.html" target="_blank"><span>Newsletter</span></a>
   </li></ul>
 </div>
-<div meebo:notsharable="true" style="position: absolute; top: 0px; left: 50%; margin-left: -490px; width: 980px;">
-	<div style="position: absolute; z-index: 5; top: 0px; left: 50%; margin-left: -491px; width: 982px;">
-		<script type="text/javascript">GA_googleFillSlot('Generic-SkinTop');</script>
-	</div>
-	<div style="position: fixed; top: 0px; left: 50%; margin-left: -490px; width: 982px;">
-		<div style="position: absolute; left: -331px; height: 1200px; width: 329px;">
-			<script type="text/javascript">GA_googleFillSlot('Generic-SkinLeft');</script>
-		</div>
-		<div style="position: absolute; left: 981px; height: 1200px; width: 329px;">
-			<script type="text/javascript">GA_googleFillSlot('Generic-SkinRight');</script>
-		</div>
-	</div>
-</div>
 <div id="container">
 	<div id="header" class="clearfix">
 	<div id="logo">
@@ -217,7 +201,7 @@
 		<h2>Your Entertainment Destination</h2>
 	</div>
 	<div id="search">
-		<form action="http://www.starpulse.com/search.html" id="cse-search-box">
+		<form action="http://www.starpulse.com/search/index.html" id="cse-search-box">
 			<input type="hidden" name="cx" value="partner-pub-9674942009345807:vbx9te5rox2">
 			<input type="hidden" name="cof" value="FORID:11">
 			<input type="hidden" name="ie" value="ISO-8859-1">
@@ -244,7 +228,7 @@
 		<li class="li6"><a href="/Television/"><span>Television</span></a></li>
 		<li class="li7"><a href="/Photos/"><span>Photos</span></a></li>
 		<li class="li8"><a href="/Videos/"><span>Video</span></a></li>
-		<li class="li9"><a href="/Community/"><span>Community</span></a></li>
+		<li class="li9"><a href="/Contests/"><span>Contests</span></a></li>
 	</ul>
 	<ul id="sub-nav">
 		<li><a href="/news/index.php?cat=54">Exclusives</a></li>
@@ -254,7 +238,6 @@
 		<li><a href="http://ringtones.starpulse.com/" target="_blank">Ringtones</a></li>
 		<li><a href="http://starpulse.pricegrabber.com/" target="_blank">Shop</a></li>
 		<li><a href="/Tickets/">Tickets</a></li>
-		<li><a href="/Contests/">Contests</a></li>
 		<li><a href="/forum/">Forums</a></li>
 	</ul>
 </div>
@@ -348,19 +331,19 @@ If you have any questions regarding our Privacy Statement and policies or your d
 	<div id="right-col">
 		<div id="ad2"><script type="text/javascript">GA_googleFillSlot("Generic-300");</script>
 </div>
-			<div meebo:notsharable="true" class="top-features">
+			<div class="top-features">
 				<div class="content-box">
 			<h1></h1>
 			<ul id="Buzz1-feature-sections" class="feature-sections">
 <li id="Buzz1-link-Buzz" onclick="showfeature('Buzz','Buzz1-displaybox','Generic','Buzz1','0','Buzz');" class="selected">Buzz</li>
 <li id="Buzz1-link-PopularTopics" onclick="showfeature('PopularTopics','Buzz1-displaybox','Generic','Buzz1','0','');">Hot List</li>
 <li id="Buzz1-link-EventPhotos" onclick="showfeature('EventPhotos','Buzz1-displaybox','Generic','Buzz1','9','');">Photos</li>
-<li id="Buzz1-link-Videos" onclick="showfeature('Videos','Buzz1-displaybox','Generic','Buzz1','0','');">Videos</li>
+<li id="Buzz1-link-VideoStickyHL" onclick="showfeature('VideoStickyHL','Buzz1-displaybox','Generic','Buzz1','0','Videos');">Videos</li>
 <li id="Buzz1-link-PopularNews" onclick="showfeature('PopularNews','Buzz1-displaybox','Generic','Buzz1','0','');">News</li>
 </ul>
 <div id="Buzz1-feature-controls" class="feature-controls">
 </div>
-<div id="Buzz1-displaybox" class="display-box" style="padding-top: 8px;">
+<div id="Buzz1-displaybox" class="display-box">
 <script type="text/javascript" src="http://cdn.starpulse.com/feed/include/feature.inc.12-03-2010.php?featuretype=Buzz&amp;page_channel=Generic&amp;featurecat=Buzz&amp;feedoffset=0&amp;featureid=Buzz1&amp;dwrite=1"></script>
 </div>
 
@@ -370,9 +353,9 @@ If you have any questions regarding our Privacy Statement and policies or your d
 				if(typeof Scribol=='undefined') {Scribol={};Scribol.frames=[];Scribol.site='http://scribol.com/';Scribol.is_preview=false;}
 				Scribol.frames.push('477679');
 			</script>
-			<script type="text/javascript" async="async" defer="defer" src="http://scribol.com/txwidget1.2.js"></script>
+			<script type="text/javascript">(function () { var s =document.createElement('script'); s.async =true; s.type ='text/javascript'; s.src ='http://scribol.com/txwidget1.2.js'; (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s); }());</script>
 
-			<form action="http://www.starpulse.com/search.html" id="cse-search-box-rightcol">
+			<form action="http://www.starpulse.com/search/index.html" id="cse-search-box-rightcol">
 				<ul>
 					<li><b>Search for more on Starpulse</b></li>
 					<li>
@@ -389,49 +372,41 @@ If you have any questions regarding our Privacy Statement and policies or your d
 		</div>
 
 		
-		<div class="content-box">
-			<h1>Like It!</h1>
-			<div id="celebrity_like" style="position: relative; height: 135px; margin: 2px;">
-			</div>	
-			<script type="text/javascript" src="http://www.starpulse.com/include/feature.like.php"></script>		
-			<script type="text/javascript">createCelebrityLike();</script>
-		</div>
-
-		<div class="content-box">
-			<h1>Friends With Benefits!</h1>
-
-			<div id="Friends1-feature-controls" class="feature-controls">
+			<div class="content-box">
+<h1>Friends With Benefits!</h1>
+<div id="Friends1-feature-controls" class="feature-controls">
 </div>
-<div id="Friends1-displaybox" class="display-box" style="padding-top: 8px;">
+<div id="Friends1-displaybox" class="display-box">
 <script type="text/javascript" src="http://cdn.starpulse.com/feed/include/feature.inc.12-03-2010.php?featuretype=Friends&amp;page_channel=Generic&amp;featurecat=News&amp;feedoffset=0&amp;featureid=Friends1&amp;dwrite=1"></script>
 </div>
 <div id="FarkHeadlines1-feature-controls" class="feature-controls">
 </div>
-<div id="FarkHeadlines1-displaybox" class="display-box" style="padding-top: 8px;">
+<div id="FarkHeadlines1-displaybox" class="display-box">
 <script type="text/javascript" src="http://cdn.starpulse.com/feed/include/feature.inc.12-03-2010.php?featuretype=FarkHeadlines&amp;page_channel=Generic&amp;featurecat=&amp;feedoffset=0&amp;featureid=FarkHeadlines1&amp;dwrite=1"></script>
 </div>
-<div id="TMZHeadlines1-feature-controls" class="feature-controls">
+<div id="TooFabHeadlines1-feature-controls" class="feature-controls">
 </div>
-<div id="TMZHeadlines1-displaybox" class="display-box" style="padding-top: 8px;">
-<script type="text/javascript" src="http://cdn.starpulse.com/feed/include/feature.inc.12-03-2010.php?featuretype=TMZHeadlines&amp;page_channel=Generic&amp;featurecat=&amp;feedoffset=0&amp;featureid=TMZHeadlines1&amp;dwrite=1"></script>
+<div id="TooFabHeadlines1-displaybox" class="display-box">
+<script type="text/javascript" src="http://cdn.starpulse.com/feed/include/feature.inc.12-03-2010.php?featuretype=TooFabHeadlines&amp;page_channel=Generic&amp;featurecat=&amp;feedoffset=0&amp;featureid=TooFabHeadlines1&amp;dwrite=1"></script>
+</div>
+<br>
+<center><b><a href="/links/">More sites / Submit a link</a></b></center>
+<br>
 </div>
 
-
-			<br>
-			<center><b><a href="/links/">More sites / Submit a link</a></b></center>
-			<br>
-		</div>
 
 		<div class="content-box">
 			<h1>Follow Starpulse</h1>
-			        <fb:like-box href="http://www.facebook.com/pages/Starpulse/124877431305" width="300" height="255" connections="5" stream="false" header="false"></fb:like-box>
+<!--
+			        <fb:like-box  href="http://www.facebook.com/pages/Starpulse/124877431305" width="300" height="255" connections="5" stream="false" header="false"></fb:like-box>
+-->
 			<div id="Starpulse1-feature-controls" class="feature-controls">
 </div>
-<div id="Starpulse1-displaybox" class="display-box" style="padding-top: 8px;">
+<div id="Starpulse1-displaybox" class="display-box">
 <ul><li><center>
 <a class="social_button_lg sp_facebook" href="http://www.facebook.com/pages/Starpulse/124877431305?v=wall" target="_blank" title="Facebook"><span>Facebook</span></a>
 <a class="social_button_lg sp_twitter" href="http://twitter.com/starpulse" target="_blank" title="Twitter"><span>Twitter</span></a>
-<a class="social_button_lg sp_myspace" href="http://www.myspace.com/starpulse" target="_blank" title="MySpace"><span>MySpace</span></a>
+<a class="social_button_lg sp_gplus" href="https://plus.google.com/114946410770698472140?prsrc=3" target="_blank" title="Google+"><span>Google+</span></a>
 <a class="social_button_lg sp_rss" href="http://www.starpulse.com/rss/" target="_blank" title="RSS Feeds"><span>RSS</span></a>
 <a class="social_button_lg sp_email" href="http://www.starpulse.com/Newsletters/Entertainment-News.html" target="_blank" title="Email Subscribe"><span>Email Subscribe</span></a>
 
@@ -499,36 +474,21 @@ If you have any questions regarding our Privacy Statement and policies or your d
 			</ul>
 
 		<ul id="footer-trademark">
-		<li>© 1999-2011 Starpulse.com™ </li>
+		<li>© 1999-2012 Starpulse.com™ </li>
 		</ul>
 
 	</div>
     
-    
-<!-- Quantcast Tag, part 2 -->
-<script type="text/javascript">_qevents.push( { qacct:"p-4cjg46u42920Y"} );</script>
-<noscript><div style="display: none;"><img src="http://pixel.quantserve.com/pixel/p-4cjg46u42920Y.gif" height="1" width="1" alt="Quantcast"/></div></noscript>
-
-<!-- Initialize Meebo -->
-<script type="text/javascript">if (typeof Meebo == 'function') { Meebo('domReady'); }</script>
-
-<!-- Fire off Google+1 (Place this tag after the last plusone tag) -->
+    <!-- Quantcast Tag, part 2 -->
+<script type="text/javascript">_qevents.push( { qacct:'p-4cjg46u42920Y'} );</script>
+<noscript><div style='display: none;'><img src='http://pixel.quantserve.com/pixel/p-4cjg46u42920Y.gif' height='1' width='1' alt='Quantcast' /></div></noscript>
+<!-- trigger Google+1 (Place this tag after the last plusone tag) -->
 <script type="text/javascript">(function() { var po =document.createElement('script'); po.type ='text/javascript'; po.async =true; po.src ='https://apis.google.com/js/plusone.js'; var s =document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); })();</script>
-
-<!-- Fire off Disqus counters -->
+<!-- trigger Disqus counters -->
 <script type="text/javascript">var disqus_shortname ='spcomments'; (function () { var s =document.createElement('script'); s.async =true; s.type ='text/javascript'; s.src ='http://' + disqus_shortname + '.disqus.com/count.js'; (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s); }()); </script>
-
-<!-- CrazyEgg -->
-<!--
-<script type="text/javascript">setTimeout(function(){var a=document.createElement("script"); var b=document.getElementsByTagName('script')[0]; a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/8513.js"; a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);</script>
--->
-
 <!-- GumGum -->
-<!--
 <script type="text/javascript">ggv2id='starpuls';</script>
 <script type="text/javascript" src="http://g2.gumgum.com/javascripts/ggv2.js"></script>
--->
-
 
 </div>
 
