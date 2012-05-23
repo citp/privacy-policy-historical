@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvdizzy.com privacy policy that was archived on 2011-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110914081659id_/http%3A//www.dvdizzy.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvdizzy.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523215528id_/http%3A//www.dvdizzy.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement - www.dvdizzy.com
 
