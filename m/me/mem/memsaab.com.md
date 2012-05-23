@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the memsaab.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123045242id_/http%3A//www.memsaab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memsaab.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523123749id_/http%3A//www.memsaab.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MemSaab.com
 
-By [Administrator](https://web.archive.org/blog/admin) First Posted: Dec 9, 2007 Sun 12:36 AM Updated: Nov 2, 2011 Wed 3:33 AM
+By [Administrator](https://web.archive.org/web/20120523123749id_/http%3A//www.memsaab.com/blog/admin) First Posted: Dec 9, 2007 Sun 12:36 AM Updated: Nov 2, 2011 Wed 3:33 AM
 
 Memsaab.com delivers content drawn from its partners and other sources, as well as providing access to message boards, chat sessions. Any information that you provide under memsaab.com services provided through the site may be collected and used by memsaab.com.
 
