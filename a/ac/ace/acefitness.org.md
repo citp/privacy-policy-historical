@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acefitness.org privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123064038id_/http%3A//www.acefitness.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acefitness.org privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523180527id_/http%3A//www.acefitness.org/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - American Council on Exercise
 
@@ -12,7 +12,7 @@ Your privacy is important to us.  To better protect your privacy we provide thi
 
 **The Information We Collect:**
 
-We will request only the information we need in order to provide the highest level of service to you. On some pages of the Site, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages include: 
+We will request only the information we need in order to provide the highest level of service to you. On some pages of the Site, you can order products, make requests, enter sweepstakes, and register to receive materials. The types of personal information collected at these pages include: 
 
 Name   
 Address   
