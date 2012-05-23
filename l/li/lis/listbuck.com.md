@@ -1,7 +1,37 @@
-> *The following text is extracted and transformed from the listbuck.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210024846id_/http%3A//www.listbuck.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listbuck.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523232646id_/http%3A//www.listbuck.com/privacy.php) for the most accurate reproduction.*
 
 # ListBuck: The Credit Mailer with Cash Rewards
 
+| Text Advertisements  
+---  
+|    
+---  
+EARN 2.5% DAILY  
+150% IN 60 DAYS!!!  
+Do Nothing, Easy&Fun  
+Lock InNow For Early  
+[ **Click Here Now!**](https://web.archive.org/web/20120523232646id_/http%3A//www.listbuck.com/tr1.php?id=2981)  
+|    
+---  
+Make $1000S/Month  
+No Cost Opportunity  
+Simply sign up and  
+start earning Great.  
+[ **Click Here Now!**](https://web.archive.org/web/20120523232646id_/http%3A//www.listbuck.com/tr1.php?id=2966)  
+|    
+---  
+The best internet  
+investment. Earn a   
+XXX% daily profit!!!  
+Vasco Forex  
+[ **Click Here Now!**](https://web.archive.org/web/20120523232646id_/http%3A//www.listbuck.com/tr1.php?id=2935)  
+|    
+---  
+EARLY Launch!  
+150% IN 60 DAYS!!!  
+EARNING 2.5% DAILY!  
+Lock InNow For Early  
+[ **Click Here Now!**](https://web.archive.org/web/20120523232646id_/http%3A//www.listbuck.com/tr1.php?id=2985)  
 Privacy Policy
 
 What information do we collect?  
