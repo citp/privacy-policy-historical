@@ -1,7 +1,11 @@
-> *The following text is extracted and transformed from the bezbrige.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122170432id_/http%3A//bezbrige.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D625%3Aprivacy-policy%26catid%3D55%3Aprivacy-policy%26Itemid%3D90) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bezbrige.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523193052id_/http%3A//bezbrige.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D625%3Aprivacy-policy%26catid%3D55%3Aprivacy-policy%26Itemid%3D90) for the most accurate reproduction.*
 
 # Privacy Policy | Privacy Policy
 
+[ Privacy Policy](http://www.bezbrige.com/index.php/Privacy-Policy/privacy-policy.html)  
+  
+Written by Brigadir Guvec     Wednesday, 24 June 2009 01:10     
+  
 **Bezbrige** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
 **Third Party Advertising**  
