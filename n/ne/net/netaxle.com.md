@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the netaxle.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120082911id_/http%3A//www.netaxle.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netaxle.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523070836id_/http%3A//www.netaxle.com/privacy.aspx) for the most accurate reproduction.*
 
 # NetAxle - Privacy Policy
+
+  * Meet Moms  Chat with other moms. Share photos, stories and more.....  www.cafemom.com 
+
+
+
 
 ##### Introduction 
 
