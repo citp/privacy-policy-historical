@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoomark.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210061159id_/http%3A//www.yoomark.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoomark.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523170331id_/http%3A//www.yoomark.com/static/privacy) for the most accurate reproduction.*
 
 # Yoomark | Privacy policy
 
