@@ -1,123 +1,128 @@
-> *The following text is extracted and transformed from the ratemyplacement.co.uk privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123135742id_/http%3A//articles.ratemyplacement.co.uk/ratemyplacementcouk-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratemyplacement.co.uk privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523133519id_/http%3A//articles.ratemyplacement.co.uk/ratemyplacementcouk-privacy-policy) for the most accurate reproduction.*
 
-# RateMyPlacement.co.uk Privacy Policy | RateMyPlacement Blog
+# Privacy Policy | RateMyPlacement | RateMyPlacement Blog
 
-**R M P Enterprise Ltd**
+#### Privacy Policy
 
-Any personal information submitted on this website will be collected and stored in accordance with the following Privacy Policy:
+Protecting your personal details on our website Last updated: 8 March 2012
 
-**RateMyPlacement.co.uk Privacy Policy**
+**R M P Enterprise Ltd (Registered number 6331665), whose registered office is at Vintage House 37 Albert Embankment London SE17TL, knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes our privacy policy and forms part of our website terms and conditions (“Website Terms”).**
 
-We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
+By accepting our Website Terms or by visiting www.ratemyplacement.co.uk (“the Website”) you are accepting and consenting to the practices described in this Privacy Policy.
 
-**(1)Â  What information do we collect?**
+The Website is brought to you by R M P Enterprise Ltd. R M P Enterprise Ltd believes it is important to protect your Personal Data (as defined in the Data Protection Act 1998) and we are committed to giving you a personalised service that meets your needs in a way that also protects your privacy. This policy explains how we may collect Personal Data about you. It also explains some of the security measures we take to protect your Personal Data, and tells you certain things we will do and not do. You should read this policy in conjunction with the Website Terms.
 
-We may collect, store and use the following kinds of personal data:
+When we first obtain Personal Data from you, or when you take a new service or product from us, we will give you the opportunity to tell us if you do or do not want to receive information from us about other services or products (as applicable). You can normally do this by ticking a box on an application form or contract. You may change your mind at any time by emailing us at the address below. Some of the Personal Data we hold about you may be ‘sensitive personal data’ within the meaning of the Data Protection Act 1998, for example, information about your health or ethnic origin.
 
-(a)Â information about your computer and about your visits to and use of this website (including [your IP address, geographical location, browser type, referral source, length of visit and number of page views]);
+##### 1\. Collecting Information
 
-(b)Â information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services
+We may collect Personal Data about you from a number of sources, including the following:
 
-(c)Â information that you provide to us for the purpose of registering with us (including your full name, email, salutation, password, academic position, university studied at, degree area, degree name, degree type, years of attendance, where you heard about the website)
+1.1 From you when you agree to take a service or product from us, in which case this may include your contact details, date of birth, how you will pay for the product or service and your bank details.
 
-(d)Â information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters, and submitting a review (including the company you worked for, your position within that company, time of employment, location in which you were employed, discipline, salary range)
+1.2 From you when you contact us with an enquiry or in response to a communication from us, in which case, this may tell us something about how you use our services.
 
-(e)Â any other information that you choose to send to us; ****
+1.3 From documents that are available to the public, such as the electoral register.
 
-**(2)Â  Cookies**
+##### 2\. Using Your Personal Information
 
-A cookie consists of information sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
+2.1. Personal Data about our customers is an important part of our business and we shall only use your Personal Data for the following purposes and shall not keep such Personal Data longer than is necessary to fulfil these purposes:
 
-We may use both â€œsessionâ€ cookies and â€œpersistentâ€ cookies on the website.Â  We may use the session cookies to: keep track of you whilst you navigate the website; and we will use the persistent cookies to: enable our website to recognise you when you visit.
+2.1.1. To help us to identify you when you contact us.
 
-Session cookies will be deleted from your computer when you close your browser. Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date.
+2.1.2. To help us to identify accounts, services and/or products which you could have from us or selected partners from time to time. We may do this by automatic means using a scoring system, which uses the Personal Data you have provided and/or any information we hold about you and Personal Data from third party agencies (including credit reference agencies).
 
-We use Google Analytics to analyse the use of this website.Â  Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users’ computers.Â  The information generated relating to our website is used to create reports about the use of the website. Google will store this information.Â  Google’s privacy policy is available at: <http://www.google.com/privacypolicy.html>.
+2.1.3. To help us to administer and to contact you about improved administration of any accounts, services and products we have provided before, do provide now or will or may provide in the future.
 
-Our advertisers/payment services providers may also send you cookies.
+2.1.4. To allow us to carry out marketing analysis and customer profiling (including with transactional information), conduct research, including creating statistical and testing information.
 
-Most browsers allow you to refuse to accept cookies.Â  (For example, in Internet Explorer you can refuse all cookies by clicking â€œToolsâ€, â€œInternet Optionsâ€, â€œPrivacyâ€, and selecting â€œBlock all cookiesâ€ using the sliding selector.)Â  This will, however, have a negative impact upon the usability of many websites, potentially including this one.
+2.1.5. To help to prevent and detect fraud or loss.
 
-**(3)Â  Using your personal data**
+2.1.6. To allow us to contact you in any way (including mail, email, telephone, visit, text or multimedia messages) about products and services offered by us and selected partners unless you have previously asked us not to do so.
 
-Personal data submitted on this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.
+2.1.7. We may monitor and record communications with you (including phone conversations and emails) for quality assurance and compliance.
 
-We may use your personal information to:
+2.1.8. We may check your details with fraud prevention agencies. If you provide false or inaccurate information and we suspect fraud, we will record this.
 
-(a)Â administer the website;
+2.2. We will not disclose your Personal Data to any third party except in accordance with this Privacy Policy.
 
-(b)Â improve your browsing experience by personalising the website;
+2.3. We may allow other people and organisations to use Personal Data we hold about you in the following circumstances:
 
-(c)Â enable your use of the services available on the website;
+2.3.1. If we, or substantially all of our assets, are acquired or are in the process of being acquired by a third party, in which case Personal Data held by us, about our customers, will be one of the transferred assets.
 
-(d)Â send you general (non-marketing) commercial communications;
+2.3.2. If we have been legitimately asked to provide information for legal or regulatory purposes or as part of legal proceedings or prospective legal proceedings.
 
-(e)Â send you email notifications which you have specifically requested;
+2.3.3. We employ companies and individuals to perform functions on our behalf and we may disclose your Personal Data to these parties for the purposes set out in clause 2.1 or, for example, for fulfilling orders, delivering packages, sending postal mail and email, removing repetitive information from customer lists, analysing data, providing marketing assistance, providing search results and links (including paid listings and links) and providing customer service. Those parties are bound by strict contractual provisions with us and only have access to Personal Data needed to perform their functions, and may not use it for other purposes. Further, they must process the Personal Data in accordance with this Privacy Policy and as permitted by the Data Protection Act 1998. From time to time, these other people and organisations to whom we may pass your Personal Data may be outside the European Economic Area. We will take all steps reasonably necessary to ensure that your Personal Data is treated securely and in accordance with this Privacy Policy and the Data Protection Act 1998.
 
-(f)Â send to you our newsletter and other marketing communications relating to our business [or the businesses of carefully-selected third parties] which we think may be of interest to you (where you have specifically agreed to this) by email or similar technology (you can inform us at any time if you no longer require marketing communications)
+2.4. Where you give us Personal Data on behalf of someone else, you confirm that you have provided them with the information set out in this Privacy Policy and that they have not objected to such use of their Personal Data.
 
-(g)Â provide third parties with statistical information about our users â€“ but this information will not be used to identify any individual user;
+2.5. In connection with any transaction which we enter into with you:
 
-(h)Â deal with enquiries and complaints made by or about you relating to the website;
+2.5.1. We, and other companies in our group, may carry out credit and fraud prevention checks with one or more licensed credit reference and fraud prevention agencies. We and they may keep a record of the search. Information held about you by these agencies may be linked to records relating to other people living at the same address with whom you are financially linked. These records will also be taken into account in credit and fraud prevention checks. Information from your application and payment details of your account will be recorded with one or more of these agencies and may be shared with other organisations to help make credit and insurance decisions about you and members of your household with whom you are financially linked and for debt collection and fraud prevention. This includes those who have moved house and who have missed payments.
 
-Where you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the license you grant to us.
+2.5.2. If you provide false or inaccurate information to us and we suspect fraud, we will record this and may share it with other people and organisations. We, and other credit and insurance organisations, may also use technology to detect and prevent fraud.
 
-We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing. ****
+2.5.3. If you need details of those credit agencies and fraud prevention agencies from which we obtain and with which we record information about you, please write to our Data Protection Manager at R M P Enterprise Ltd, Vintage House 37 Albert Embankment London SE17TL.
 
-**(4) Â  Disclosures**
+##### 3\. Protecting Information
 
-We may disclose information about you to any of our employees, officers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes as set out in this privacy policy.
+We have strict security measures to protect Personal Data.
 
-In addition, we may disclose information about you:
+3.1. We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.
 
-(a)Â to the extent that we are required to do so by law;
+3.2. We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
 
-(b)Â in connection with any legal proceedings or prospective legal proceedings;
+3.3. We maintain physical, electronic and procedural safeguards in connection with the collection, storage and disclosure of personally identifiable customer information. Our security procedures mean that we may occasionally request proof of identity before we disclose personal information to you.
 
-(c)Â in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk); and
+3.4. It is important for you to protect against unauthorised access to your password and to your computer. Be sure to sign off when you finish using a shared computer.
 
-(d)Â to the purchaser (or prospective purchaser) of any business or asset which we are (or are contemplating) selling.
+##### 4\. The Internet
 
-Except as provided in this privacy policy, we will not provide your information to third parties.
+4.1. If you communicate with us using the Internet, we may occasionally email you about our services and products. When you first give us Personal Data through the Website, we will normally give you the opportunity to say whether you would prefer us not to contact you by email. You can also always send us an email (at the address set out below) at any time if you change your mind.
 
-**(5)Â  Security of your personal data**
+4.2. Please remember that communications over the Internet, such as emails and webmails (messages sent through a website), are not secure unless they have been encrypted. Your communications may go through a number of countries before they are delivered – this is the nature of the Internet. We cannot accept responsibility for any unauthorised access or loss of Personal Data that is beyond our control.
 
-We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
+4.3. We may use ‘cookies’ to monitor how people use our site. This helps us to understand how our customers and potential customers use our website so we can develop and improve the design, layout and function of the sites. A cookie is a piece of information that is stored on your computer’s hard drive through your browser, to recognise your browser and which records how you have used a website. This means that when you go back to that website, it can give you tailored options based on the information it has stored about your last visit. You can normally alter the settings of your browser to prevent it from accepting cookies.
 
-We will store all the personal information you provide on our secure (password- and firewall- protected) servers.
+4.4. If you do not want us to use cookies in your browser, you can set your browser to reject cookies or to tell you when a website tries to put a cookie on your computer. However, you may not be able to use some of the products or services on our website without cookies.
 
-Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
+##### 5\. Turning Off Cookies in Different Browsers
 
-You are responsible for keeping your password and user details confidential. We will not ask you for your password.
+The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-ons settings or visiting the website of its manufacturer.
 
-**(6)Â  Policy amendments**
+##### 6\. Links
 
-We may update this privacy policy from time-to-time by posting a new version on our website.Â  You should check this page occasionally to ensure you are happy with any changes.Â 
+6.1. The Website may include third-party advertising and links to other websites. We do not provide any personally identifiable customer Personal Data to these advertisers or third-party websites.
 
-We may also notify you of changes to our privacy policy by email.
+6.2. These third-party websites and advertisers, or Internet advertising companies working on their behalf, sometimes use technology to send (or “serve”) the advertisements that appear on the Website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalise advertising content. We do not have access to or control over cookies or other features that they may use, and the information practices of these advertisers and third-party websites are not covered by this Privacy Policy. Please contact them directly for more information about their privacy practices. In addition, the Network Advertising Initiative offers useful information about Internet advertising companies (also called “ad networks” or “network advertisers”), including information about how to opt-out of their information collection.
 
-**(7)Â  Your rights**
+6.3. We exclude all liability for loss that you may incur when using these third party websites.
 
-You may instruct us to provide you with any personal information we hold about you.Â  Provision of such information may be subject to the payment of a fee (currently fixed at Â£10.00).
+###### Cookie Usage
 
-You may instruct us not to process your personal data for marketing purposes by email at any time.Â  (In practice, you will usually either expressly agree in advance to our use of your personal data for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal data for marketing purposes.)
+Cookie | Description, Function & Content | Permission  
+---|---|---  
+Logged In (Session) | Present if a registered RateMyPlacement.co.uk member is logged in. | Registered user explicitly requests permission to login and view their content. Required for usual website use as a registered user.  
+Remember Me | Indicates whether the registered RateMyPlacement.co.uk user wishes to remain logged on subsequent visits to the site. Usage tied to registered account. | The user explicitly opts in or out of this at each login form.  
+Video View Preference | Set by the user when they opt to view video content in one of a number of page layouts. Visual preference only. Usage is not tracked. | You explicitly set this cookie when you change the view state. We do not ask permission because we classify this as essential behaviour which you explicitly request.  
+Referred By Existing User | Set as the consequence of any user visiting the site via a referral link given to them directly, often at a fair or via one of our representatives. Usage is tracked. | We do not ask additional permission because we classify this as essential behaviour for the process of enabling referrals.  
+Job Application Screening Passed | When a user applies for a job via the website, we set a cookie to enable you to proceed once you pass the initial screening questions. Functionally required in order to process your application in line with the requirements of our companies. Usage not tracked. | We do not ask additional permission because we classify this as essential behaviour to the task of validating the job application you are constructing.  
+Job Suggestion Box | When you visit our site if you look at a number of jobs, but are not logged in as a registered user, we suggest you may wish to sign up for our newsletters. The message appears once then disappears. Usage is not tracked. | We do not track the usage of this cookie.  
+Hide Welcome Message | When you first visit the site, we sometimes show a welcome message that you likely do not want to see again. We use a cookie to hide this. Without this cookie, you will be shown the message every time you view the site. Usage is not tracked. | You explicitly set the cookie by interacting with the welcome message box.  
+Search Toolbar Visibility Preference | We offer two ways to view the search tool on the website. One is condensed (by default) and one is open. This cookies saves your preference if you switch between modes. Usage is not tracked. | You explicitly set this cookie when you change the view state.  
+Tab Visibility Preference | When choosing a individual tab which we use around the website, we use a cookie to remember your last viewed tab. This means you can use the back button as intended. Usage is not tracked. | You passively set this preference when you change tabs.  
+Google Analytics (3 Cookies) | We use Google Analytics to monitor our site traffic, and we do this anonymously. | You passively set this cookie when you visit any of our websites.  
+  
+##### 7\. Further Information
 
-**(8)Â  Third party websites**
+7.1. If you would like any more information or you have any comments about our Privacy Policy, please either write to us at Data Protection Manager, R M P Enterprise Ltd, Vintage House 37 Albert Embankment London SE17TL, or email us at enquiries@ratemyplacement.co.uk.
 
-The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
+7.2. We may amend this Privacy Policy from time to time without notice to you, in which case, we will publish the amended version on the Website. You confirm that we shall not be liable to you or any third party for any change to this Privacy Policy from time to time. It is your responsibility to check regularly to determine whether this Privacy Policy has changed.
 
-**(9)Â  Updating information**
+7.3. You can ask us for a copy of this Privacy Policy and of any amended Privacy Policy by writing to the above address or by emailing us at enquiries@ratemyplacement.co.uk. This Privacy Policy applies to Personal Data we hold about individuals. It does not apply to information we hold about companies and other organisations.
 
-Please let us know if the personal information which we hold about you needs to be corrected or updated.
+7.4. If you would like access to the Personal Data that we hold about you, you can do this by emailing us at enquiries@ratemyplacement.co.uk or writing to us at the address noted above. There may be a nominal charge of £10 to cover administrative costs.
 
-**(10) Â  Contact**
+7.5. We aim to keep the Personal Data we hold about you accurate and up to date. If you tell us that we are holding any inaccurate Personal Data about you, we will delete it or correct it promptly. Please email us at enquiries@ratemyplacement.co.uk or write to us at the address above to update your Personal Data.
 
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to [enquiries@ratemyplacement.co.uk](mailto:enquiries@ratemyplacement.co.uk)
-
-**(11)Â  Data controller**
-
-The data controller responsible for our website is R M P Enterprise Ltd.Â 
-
-Our data protection registration number is Z1066396
-
-This website privacy policy is based on a template created by Website-contracts.co.uk and distributed by Website-law.co.uk.
+  **R M P Enterprise Ltd is registered with the ICO Data Protection Register – Number: Z1066396**
