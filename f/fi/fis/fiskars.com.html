@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the fiskars.com privacy policy that was archived on 2011-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111221010651id_/http%3A//www2.fiskars.com/Company/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fiskars.com privacy policy that was archived on 2012-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120523155151id_/http%3A//www2.fiskars.com/Company/Privacy-Policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US"><head>    <!-- Cached :: 2011/12/20 19:06 (GMT -0600) :: /Company/Privacy-Policy -->
+<!DOCTYPE html><html lang="en-US"><head>    <!-- Cached :: 2012/05/23 10:39 (GMT -0500) :: /Company/Privacy-Policy -->
 <!-- meta -->
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
@@ -29,7 +29,8 @@
 <link rel="stylesheet" media="screen, projection" href="http://static-americas.fiskars.com/extension/fiskars/design/fiskars/stylesheets/site.css?v=20110902a">
 <link rel="stylesheet" media="screen, projection" href="http://static-americas.fiskars.com/extension/fiskars/design/fiskars/stylesheets/blocks.css?v=20110902a">
 <link href="http://static-americas.fiskars.com/extension/fiskars/design/fiskars_pot/js/prettyPhoto/css/prettyPhoto.css" media="screen, projection" rel="stylesheet" type="text/css">
-<link href="http://static-americas.fiskars.com/extension/fiskars/design/fiskars_pot/stylesheets/fiskars_pot.css" media="screen, projection" rel="stylesheet" type="text/css">
+
+<link rel="stylesheet" media="screen, projection" href="http://static-americas.fiskars.com/extension/fiskars_innovation_portal/design/standard/stylesheets/innovation_portal.css?v=20110902a">
 
 
 <link rel="stylesheet" media="screen, projection" href="http://gmedia.fiskars.com/styles/fiskars_us_v1.css">
@@ -53,52 +54,18 @@
 <script src="http://static-americas.fiskars.com/extension/fiskars/design/fiskars_pot/js/prettyPhoto/js/jquery.prettyPhoto.js" type="text/javascript"></script>
 <script src="http://static-americas.fiskars.com/extension/fiskars/design/fiskars/js/jquery-css-transform.js" type="text/javascript"></script>
 <script src="http://static-americas.fiskars.com/extension/fiskars/design/fiskars/js/jquery-animate-css-rotate-scale.js" type="text/javascript"></script>
-<script src="http://static-americas.fiskars.com/design/fiskars_americas/js/jquery.scrollTo-min.js" type="text/javascript"></script>
+<script src="http://static-americas.fiskars.com/extension/fiskars/design/fiskars/js/jquery.scrollTo-min.js" type="text/javascript"></script>
 <script src="http://static-americas.fiskars.com/extension/fiskars/design/fiskars_pot/js/jquery.tablesorter.js" type="text/javascript"></script>
 <script src="http://static-americas.fiskars.com/extension/fiskars/design/fiskars/js/jquery-ui-1.8.2.custom.min.js" type="text/javascript"></script>
 <script src="http://static-americas.fiskars.com/extension/fiskars/design/fiskars/js/jquery.jqprint.0.3.js" type="text/javascript"></script>
 <script src="http://static-americas.fiskars.com/extension/fiskars/design/fiskars/js/jquery.cookies.2.2.0.min.js" type="text/javascript"></script>
-<script src="http://static-americas.fiskars.com/extension/fiskars/design/fiskars_pot/js/pot.js" type="text/javascript"></script>
+
 <script src="http://static-americas.fiskars.com/extension/fiskars/design/fiskars_americas/js/analytics.js" type="text/javascript"></script>
 <script type="text/javascript" src="http://collector.fiskars.com/js/fa_update.js?v=20110902a"></script>
-
+<script type="text/javascript" src="http://static-americas.fiskars.com/extension/fiskars_innovation_portal/design/standard/js/innovation_portal.js?v=20110902a"></script>
 <script src="http://static-americas.fiskars.com/extension/fiskars/design/fiskars/js/jquery.tools.min.js" type="text/javascript"></script>
 <!-- Analytics source node: 66 / site_analytics -->
 <script type="text/javascript" src="http://collector.fiskars.com/js/jquery.url.js"> </script>
-<!-- PRICEFIX-->
-<script charset="utf-8" type="text/javascript" language="javascript">
-function getElementsByClassName(oElm, strTagName, strClassName) {
-    var arrElements = (strTagName == "*" && oElm.all) ? oElm.all: oElm.getElementsByTagName(strTagName);
-    var arrReturnElements = new Array();
-    strClassName = strClassName.replace(/\-/g, "\\-");
-    var oRegExp = new RegExp("(^|\\s)" + strClassName + "(\\s|$)");
-    var oElement;
-    for (var i = 0; i < arrElements.length; i++) {
-        oElement = arrElements[i];
-        if (oRegExp.test(oElement.className)) {
-            arrReturnElements.push(oElement);
-        }
-    }
-    return (arrReturnElements)
-}
-function priceFix() {
-    if (document.getElementById("productRelated")) {
-        var prices = getElementsByClassName(document.getElementById("productRelated"), "p", "price");
-        for (var i = 0; i < prices.length; i++) {
-            elm = prices[i];
-            if (elm.innerHTML == 'Price: $0.00') {
-                elm.innerHTML = 'Available for purchase at other online and retail stores';
-                elm.style.lineHeight = "11px";
-                elm.style.fontSize = "10px";
-                elm.style.marginTop = "10px";
-            }
-        }
-    }
-}
-window.onload = priceFix();
-</script>
-
-
 
 
 <!-- analytics -->
@@ -160,12 +127,19 @@ _gaq.push(
     <ul>
         
        	        
-            <li class="alpha "><a href="/About-Us">
+            <li class="alpha "><a href="/About-Us" class="returnFalse">
                 <span>About Us</span>
             <small>
-Heritage, Press Releases and Career Opportunities </small>
+Heritage, Media Center and Career Opportunities </small>
             
             </a>
+
+	<div class="hoverMenu" id="hoverMenu-67">      
+			<span><a href="/About-Us/Heritage">Heritage</a></span>
+			<span><a href="/About-Us/Featured-Artists">Featured Artists</a></span>
+			<span><a href="/About-Us/Media-Center">Media Center</a></span>
+			<span><a href="/About-Us/Careers">Careers</a></span>
+		</div>
 
 	</li>
             
@@ -210,12 +184,23 @@ Crafting, Gardening, Classroom and More</small>
             
                 
        	        
-            <li class=""><a href="/Customer-Service">
+            <li class=""><a href="/Customer-Service" class="returnFalse">
                 <span>Customer Service</span>
             <small>
 Contact Us, Warranty and FAQs</small>
             
             </a>
+
+	<div class="hoverMenu" id="hoverMenu-69">      
+			<span><a href="/Customer-Service/Contact-Us">Contact Us</a></span>
+			<span><a href="/Customer-Service/Product-Registration">Product Registration</a></span>
+			<span><a href="/Customer-Service/Warranty">Warranty</a></span>
+			<span><a href="/Customer-Service/FAQs">FAQs</a></span>
+			<span><a href="/Customer-Service/Questions">Questions</a></span>
+			<span><a href="/Customer-Service/Where-to-Buy">Where to Buy</a></span>
+			<span><a href="/Customer-Service/Comments">Comments</a></span>
+			<span><a href="/Customer-Service/Donations">Donations</a></span>
+		</div>
 
 	</li>
             
@@ -299,14 +284,6 @@ Contact Us, Warranty and FAQs</small>
 		
 
 
-
-
-
-
-
-
-
-
     <div id="content">
         <h2>
 Privacy Policy</h2>
@@ -326,7 +303,7 @@ We may revise our Privacy Policy at any time by updating this posting, and your 
 . For all other inquiries, refer to the Customer Service section.</p>	</div>
     </div>
 
-<!-- Cached :: 2011/12/20 19:06 (GMT -0600) :: /Company/Privacy-Policy -->
+<!-- Cached :: 2012/05/23 10:39 (GMT -0500) :: /Company/Privacy-Policy -->
 
         
 	
@@ -349,7 +326,7 @@ We may revise our Privacy Policy at any time by updating this posting, and your 
 			
 
 <div class="rc_block rc_content rc_content_1" id="rc_block_981">
-<h6 class="size-">Newsletter Sign up</h6>	<div style="height:175px;overflow:hidden;"><script type="text/javascript" src="http://cdn.shoutlet.com/static/flash/swfjs/?w=4180"></script></div>
+<h6 class="size-">Newsletter Subscribe</h6>	<div style="height:175px;overflow:hidden;"><script type="text/javascript" src="http://cdn.shoutlet.com/static/flash/swfjs/?w=4180"></script></div>
 </div>
 	        </div>
         
@@ -372,7 +349,7 @@ We may revise our Privacy Policy at any time by updating this posting, and your 
 			<a href="/sitemap">Sitemap</a> 
 		
 <small><a href="/" class="copyright">© 
-Fiskars 2011</a></small>
+Fiskars 2012</a></small>
 </div>
 
 <div id="ez_debug">
