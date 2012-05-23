@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cic.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109094751id_/http%3A//www.cic.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cic.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523082628id_/http%3A//www.cic.com/policies/privacy) for the most accurate reproduction.*
 
 # CIC: Policies > Privacy | E-Signature, Digital Signature, Signature Verification, Biometric Signature,Signature Tablets, Knowledge Based Authentication, eSign Software
 
