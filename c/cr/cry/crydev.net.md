@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the crydev.net privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123183213id_/http%3A//www.crydev.net/ucp.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crydev.net privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523152929id_/http%3A//www.crydev.net/ucp.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
 
 # Crydev.net • User Control Panel • Privacy Policy
-
-* * *
 
   
 
@@ -117,7 +115,7 @@ You may choose to disclose information about yourself in the course of contribut
 
 You should be aware that any personally identifiable information you submit in the course of these public activities can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
 
-If you post a video, image or photo on one of our sites for public view you should be aware that these may be viewed, collected, copied and/or used by other users without your consent. We are not responsible for the videos, images or photos that you choose to submit to Crytek's site. Please see our regulations at [www.legal.com](http://www.legal.com/ "www.legal.com") on this point and for other guidelines about posting content on our websites.
+If you post a video, image or photo on one of our sites for public view you should be aware that these may be viewed, collected, copied and/or used by other users without your consent. We are not responsible for the videos, images or photos that you choose to submit to Crytek's site. Please see our regulations at [www.crytek.com/legal](http://www.crytek.com/legal "www.crytek.com/legal") on this point and for other guidelines about posting content on our websites.
 
 ## IX.   Third Party Sites.
 
@@ -130,6 +128,3 @@ Members may register for other services from our site(s). Certain products and/o
 ## XI.  Contact Information
 
 If you have questions or concerns regarding this statement, you should contact the Crytek Privacy Policy Administrator at [**privacy@crytek.com**](mailto:privacy@crytek.com "privacy@crytek.com").
-
-  
-
