@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the volunteermatch.org privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123122912id_/http%3A//www.volunteermatch.org/legal/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volunteermatch.org privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523170312id_/https%3A//www.volunteermatch.org/legal/privacy.jsp) for the most accurate reproduction.*
 
 # VolunteerMatch - VolunteerMatch Privacy Policy
 
@@ -157,6 +157,6 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 As part of the Terms of Service, this Privacy Policy is subject to occasional amendment, in accordance with the terms of the Terms of Service. 
 
 **How To Contact Us**  
-We appreciate your questions or comments about this privacy statement, the practices of this Web site, or your dealings with VolunteerMatch. Please send email to [support@volunteermatch.org](mailto:support@volunteermatch.org) or you can send snail mail to 717 California Street, 2nd Floor, San Francisco, CA 94108. 
+We appreciate your questions or comments about this privacy statement, the practices of this Web site, or your dealings with VolunteerMatch. Please send email to [support@volunteermatch.org](mailto:support@volunteermatch.org) or you can send snail mail to VolunteerMatch, 550 Montgomery Street, 8th Floor, San Francisco, CA 94111. 
 
 Effective Date: May 31, 2008 
