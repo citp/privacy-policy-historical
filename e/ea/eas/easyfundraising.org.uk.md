@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyfundraising.org.uk privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206235021id_/http%3A//www.easyfundraising.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyfundraising.org.uk privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523191704id_/http%3A//www.easyfundraising.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - easyfundraising.org.uk
 
