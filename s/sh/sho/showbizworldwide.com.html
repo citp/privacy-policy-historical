@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the showbizworldwide.com privacy policy that was archived on 2011-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111124172543id_/http%3A//www.showbizworldwide.com/privacy/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the showbizworldwide.com privacy policy that was archived on 2012-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120524015643id_/http%3A//www.showbizworldwide.com/privacy/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="EN_GB" id="socialgo"><head>
     	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7,chrome=1">
@@ -14,20 +14,20 @@
 		
 		<title>privacy - ShowBiz Worldwide Network</title>
 		
-			<link rel="shortcut icon" type="image/x-icon" href="http://www.showbizworldwide.com//default.favicon.ico">
+			<link rel="shortcut icon" type="image/x-icon" href="http://static.socialgo.com/cache/150656/favicon.ico">
 			
-										<link rel="stylesheet" href="http://static.socialgo.com/css/gen/snm-pack.css.v4068582" type="text/css" media="screen">
-							<link rel="stylesheet" href="/theme/150656-1280351711.css" type="text/css" media="screen">	
+										<link rel="stylesheet" href="http://static.socialgo.com/css/gen/snm-pack.css.v4069254" type="text/css" media="screen">
+							<link rel="stylesheet" href="/theme/150656-1337248193.css" type="text/css" media="screen">	
 	<!--[if lt IE 9]>			<link type="text/css" rel="stylesheet" href="http://static.socialgo.com/css/iepc.css" />
 		<![endif]-->	
 	<!--[if lt IE 7]>			<link type="text/css" rel="stylesheet" href="http://static.socialgo.com/css/iepc6.css" />
 		<![endif]-->
-			<script type="text/javascript" src="http://static.socialgo.com/js/gen/snm-pack.js.v4068582"></script>
+			<script type="text/javascript" src="http://static.socialgo.com/js/gen/snm-pack.js.v4069254"></script>
 	
 		
 	<script type="text/javascript">
 	//<![CDATA[
-	var snmWidget={"site":"ShowBiz Worldwide Network","site_id":"150656","site_url":"http:\/\/www.showbizworldwide.com\/","uid":false,"avatars":false,"chatavatar":"http:\/\/static.socialgo.com\/cache\/150656\/chatavatar\/avatar-13-1.gif","nickname":false,"profile":false};
+	var snmWidget={"site":"ShowBiz Worldwide Network","site_id":"150656","site_url":"http:\/\/www.showbizworldwide.com\/","uid":false,"avatars":false,"chatavatar":"http:\/\/static.socialgo.com\/cache\/150656\/chatavatar\/avatar-1.gif","nickname":false,"profile":false};
 var Env={"admin_url":"http:\/\/my.socialgo.com\/","environment_url":"socialgo.com","static_media_server":"http:\/\/static.socialgo.com\/","white_label":"false"};
 	//]]>
 	</script>
@@ -121,66 +121,75 @@ var Env={"admin_url":"http:\/\/my.socialgo.com\/","environment_url":"socialgo.co
 
 
 
-<div id="fb-root"></div>    
-<script src="http://connect.facebook.net/en_US/all.js"></script>
+<div id="fb-root"></div>
 <script>
-	window.addEvent('domready', function() {
-	    FB.init({
-            appId  : '159523930754741',
-            status : true, // check login status
-            cookie : true, // enable cookies to allow the server to access the session
-            xfbml  : true  // parse XFBML
+	jqcc(document).ready(function(){
+
+        window.fbAsyncInit = function() {
+                FB.init({
+                    appId   : '159523930754741',
+                    channelUrl : '//www.showbizworldwide.com/channel.html', // Channel File
+                    status  : true, // check login status
+                    cookie  : true, // enable cookies to allow the server to access the session
+                    xfbml   : true // parse XFBML
+                });
+                // whenever the user logs in, we tell our login service
+                // FB.Event.subscribe('auth.login', function() {
+                //     window.location = "www.google.com";
+                // });
+
+                FB.Event.subscribe('auth.login', function(response) {
+                    if (response.authResponse) {
+                        console.log('Welcome!  Fetching your information.... ');
+                        FB.api('/me', function(response) {
+                            console.log('Good to see you, ' + response.name + '.');
+                        });
+                    } else {
+                        console.log('User cancelled login or did not fully authorize.');
+                    }
+                });
+        };
+
+        (function() {
+          var e = document.createElement('script');
+          e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+          e.async = true;
+          document.getElementById('fb-root').appendChild(e);
+        }());
+
+        jqcc('#fb-login-butt').live('click',function(event){
+            FB.login(function(response) 
+            { 
+                var qs = Array();
+                for (var i in response.authResponse)
+                {
+                    qs += i + '=' + response.authResponse[i] + '&';
+                }
+                document.location = '/action/w/sg.fbconnect/?a=connect&' + qs;
+            },{scope:'user_about_me,read_stream,offline_access'});
         });
-        FB.getLoginStatus(function(response)
-        {
-            if (response.session)
-            {
-                var uid = response.session.uid;
-                var query = FB.Data.query('select name from user where uid='+uid);
-                query.wait(function(rows) {
-                    var name = rows[0].name;
-                    $('signin-fbdetails').innerHTML = 'Not <strong>'+name+'</strong>? <a href="#fblogout" onclick="doFBLogout()">Logout</a>?';
-    				$('signin-fbdetails').style.display = 'block';
-                }); 
-            }
-        });
-        FB.Event.subscribe('auth.logout', function(response) {
-            $('signin-fbdetails').style.display = 'none';
-        });
+
     });
-    
-    function doFBLogout()
-    {
-        FB.logout(function(response) { } );
-    }
-    
-    function doFBCon()
-    {
-        FB.login(function(response) {
-            if (response.session) {
-                location.href = '/action/w/sg.fbconnect/?a=connect';
-            }
-        },{perms:'user_videos,user_photos,email,user_about_me,read_stream,publish_stream,offline_access'});
-    }
 </script>
-<div style="text-align:center"><a href="#fbcon" onclick="doFBCon()"><img src="http://fbconnect.apps.sgcdn.net/img/fbconnect.png"></a></div>
-<div id="signin-fbdetails" style="text-align:center;display:none"></div>
+<div style="text-align:center">
+    <a href="#fbcon" id="fb-login-butt"><img src="http://fbconnect.apps.sgcdn.net/img/fbconnect.png"></a><br>
+</div>
 &nbsp;
 
 </div></div>	</div>	<div id="container" class="clearfix">
 		<div id="navigation-wrapper" class="clearfix">
 			<ul id="main-navigation">
-		<li class="" id="nav-welcome"><a href="/" title="Welcome">Welcome</a></li>
+		<li class="" id="nav-news"><a href="/" title="On-Line NEWS">On-Line NEWS</a></li>
+				<li class="" id="nav-television_57"><a href="/television_57.html" title="On-Line TV">On-Line TV</a></li>
+				<li class="" id="nav-radio"><a href="/radio.html" title="On-Line RADIO">On-Line RADIO</a></li>
+				<li class="" id="nav-events_59"><a href="/events_59.html" title="EVENTS">EVENTS</a></li>
+				<li class="" id="nav-groups"><a href="/groups.html" title="GROUPS">GROUPS</a></li>
+				<li class="" id="nav-entertainment_86"><a href="/entertainment_86.html" title="Associates">Associates</a></li>
+				<li class="" id="nav-members"><a href="/members.html" title="S.B. Members">S.B. Members</a></li>
 				<li class="" id="nav-about_us"><a href="/about_us.html" title="About Us">About Us</a></li>
-				<li class="" id="nav-news"><a href="/news.html" title="News">News</a></li>
-				<li class="" id="nav-television_57"><a href="/television_57.html" title="Television">Television</a></li>
-				<li class="" id="nav-radio"><a href="/radio.html" title="Radio">Radio</a></li>
-				<li class="" id="nav-events_59"><a href="/events_59.html" title="Events">Events</a></li>
-				<li class="" id="nav-music"><a href="/music.html" title="Music">Music</a></li>
-				<li class="" id="nav-movies"><a href="/movies.html" title="Film">Film</a></li>
-				<li class="" id="nav-fashion"><a href="/fashion.html" title="Fashion">Fashion</a></li>
-				<li class="" id="nav-comedy"><a href="/comedy.html" title="Comedy">Comedy</a></li>
-				<li class="" id="nav-members"><a href="/members.html" title="Members">Members</a></li>
+				<li class="" id="nav-stockbrokin_entertainment"><a href="/stockbrokin_entertainment.html" title="StockBrokin ENT.">StockBrokin ENT.</a></li>
+				<li class="" id="nav-showbiz_movement_nyc"><a href="/showbiz_movement_nyc.html" title="ShowBiz Movement">ShowBiz Movement</a></li>
+				<li class="" id="nav-the_sovereign_body"><a href="/the_sovereign_body.html" title="The Sovereign Body">The Sovereign Body</a></li>
 			</ul>
 		</div>
 		<div id="main-content" class="twelve clearfix">
@@ -363,7 +372,7 @@ var Env={"admin_url":"http:\/\/my.socialgo.com\/","environment_url":"socialgo.co
 	</script>
 		<!-- 
 web01 
-16.51Mb
+16.52Mb
 -->
 
 </body></html>
