@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uniquerewards.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123193649id_/http%3A//www.uniquerewards.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniquerewards.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523192439id_/http%3A//www.uniquerewards.com/privacy.html) for the most accurate reproduction.*
 
 # UniqueRewards
 
@@ -93,16 +93,16 @@ By registering to use the UniqueRewards service, you agree to accept this privac
 
 |  | 
 
-[](https://web.archive.org/cgi-bin/click.cgi?mid=464)
-
-**JustFlowers.com**
-
-JustFlowers.com is one of the largest online florists and delivers the same day to the USA and Canada!
-
 [](https://web.archive.org/cgi-bin/click.cgi?mid=3914)
 
 **UniqueRewards Profile Survey**
 
 UniqueRewards Profile Survey!
+
+[](https://web.archive.org/cgi-bin/click.cgi?mid=11827)
+
+**Hydroxatone**
+
+Scientifically advcanced wrinkle reduction and prevention WITHOUT using Botox!
 
 | 
