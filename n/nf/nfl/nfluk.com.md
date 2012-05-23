@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nfluk.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229141940id_/http%3A//www.nfluk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfluk.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523161210id_/http%3A//www.nfluk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NFL UK
 
@@ -137,3 +137,311 @@ The Internet offers children wonderful educational and entertainment resources. 
 **12.        YOUR CALIFORNIA PRIVACY RIGHTS** California Civil Code Section 1798.83 permits customers of the National Football League who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [CAPrivacyRights@nfl.com](mailto:CAPrivacyRights@nfl.com) or write us at CA Privacy Rights, NFL Digital Media Group, 280 Park Avenue, New York, NY 10017.
 
 If you have anyquestions about this Privacy Policy or our privacy practices, contact [Enquiries@nfl.com](mailto:Enquiries@nfl.com).
+
+**EU Cookie Policy**
+
+****Cookies, and how we use them on NFL UK
+
+**What is a cookie?**
+
+[Cookies](http://en.wikipedia.org/wiki/Browser_cookie) are small, usually randomly encoded, text files that are designed to store basic information (such as visitor preferences).  A cookie file is created by the Web site you're browsing, and is transmitted and processed by your computer's Web browser software.  The resulting file is stored in your Web browser's installation directory or subfolder (cache). 
+
+Your Web browser accesses this file when you visit the Web site that originally created the cookie.  The Web browser uses the information stored in this file to help ease your navigation of the Web site by letting you log in automatically or remembering settings you selected during your earlier visits to the Web site, among many other functions.  Cookies cannot be used to identify you personally.
+
+Like many Web sites, we use cookies to obtain certain types of information when your Web browser accesses some of our Web pages.  These pieces of information are used to improve services for you, for example:
+
+  * Enabling a service to recognize your device so you don't have to give the same information several times during one task
+  * Recognizing that you may already have given a username and password so you don't need to do it for every web page requested
+  * Measuring how many people are using services, so they can be made easier to use and there's enough capacity to ensure they are fast
+
+
+
+**How do we use them?**
+
+The list below shows what cookies we use on our website, why, and how long they are programmed to stay on your computer or device.
+
+_1) Cookies for Improving Service using Analytics_
+
+We use _Omniture Site Catalyst_ to help us measure how many people visit the site and what they are interested in. The information helps us tailor the site better to your requirements.
+
+**URL** : [http://www.nfluk.com](http://www.nfluk.com/), [http://forum.nfluk.com](http://forum.nfluk.com/), [http://games.nfluk.com](http://games.nfluk.com/)
+
+The cookies involved in this process are:
+
+**Cookie Name**
+
+| 
+
+**Content Description**
+
+| 
+
+**Purpose**
+
+| 
+
+**Expiration Date**  
+  
+---|---|---|---  
+  
+s_cc
+
+| 
+
+This cookie is set and read by the JavaScript code to determine if cookies are enabled (simply set to “True”)
+
+| 
+
+Help us measure how many people visit the site and what they are interested in. The information helps us tailor the site better to your requirements
+
+| 
+
+This cookie is a session cookie and expires when the browser is closed  
+  
+s_gpv_pn
+
+| 
+
+Contains the URL of the currently open document (Web page)
+
+| 
+
+Help us measure how many people visit the site and what they are interested in. The information helps us tailor the site better to your requirements
+
+| 
+
+This cookie is a session cookie and expires when the browser is closed  
+  
+s_getNewRepeat
+
+| 
+
+Determines whether a user on your site is a new visitor or a repeat visitor
+
+| 
+
+Help us measure how many people visit the site and what they are interested in. The information helps us tailor the site better to your requirements
+
+| 
+
+This cookie is a session cookie and expires when the browser is closed  
+  
+s_sq
+
+| 
+
+This cookie is set and read by the JavaScript code when the ClickMap functionality is enabled; it contains information about the previous link that was clicked on by the user
+
+| 
+
+Help us measure how many people visit the site and what they are interested in. The information helps us tailor the site better to your requirements
+
+| 
+
+This cookie is a session cookie and expires when the browser is closed  
+  
+s_vi
+
+| 
+
+Unique visitor ID time/date stamp
+
+| 
+
+Help us measure how many people visit the site and what they are interested in. The information helps us tailor the site better to your requirements
+
+| 
+
+This is a persistent cookie  
+  
+s_sq_session
+
+| 
+
+Randomly encoded session string
+
+| 
+
+Help us measure how many people visit the site and what they are interested in. The information helps us tailor the site better to your requirements
+
+| 
+
+This cookie is a session cookie and expires when the browser is closed, user has logged out, or after 72 hours of inactivity  
+  
+_2) Cookies for User Accounts and Community Features_
+
+We use cookies to maintain an active login session on the Web site, Community, and Forum. 
+
+**URL** : [http://www.nfluk.com](http://www.nfluk.com/), [http://forum.nfluk.com](http://forum.nfluk.com/), [http://games.nfluk.com](http://games.nfluk.com/)
+
+The cookies involved in this process are:   
+
+**Cookie Name**
+
+| 
+
+**Content Description**
+
+| 
+
+**Purpose**
+
+| 
+
+**Expiration Date**  
+  
+---|---|---|---  
+  
+gvo_log_value
+
+| 
+
+Determines whether an active user login session exists
+
+| 
+
+To remember your selections that you've already made when looking at information or using a service on our website
+
+| 
+
+This is a persistent cookie  
+  
+gvo_user_id
+
+| 
+
+Unique visitor login account ID
+
+| 
+
+This cookie is required for user login.
+
+| 
+
+This cookie is a session cookie and expires when the browser is closed, user has logged out, or after 72 hours of inactivity  
+  
+gvo_browsing_lang
+
+| 
+
+Contains the Web browser character encoding (en-US)
+
+| 
+
+To remember your selections that you've already made when looking at information or using a service on our website when the browser is closed
+
+| 
+
+This cookie is a session cookie and expires when the browser is closed, user has logged out, or after 72  hours of inactivity  
+  
+SESS_<string>
+
+| 
+
+Randomly encoded session string
+
+| 
+
+This cookie is required for user login.
+
+| 
+
+This cookie is a session cookie and expires when the browser is closed, user has logged out, or after 72 hours of inactivity  
+  
+bbsessionhash
+
+| 
+
+Randomly encoded session string
+
+| 
+
+This cookie is required for user login.
+
+| 
+
+This cookie is a session cookie and expires when the browser is closed, user has logged out, or after 72 hours of inactivity  
+  
+bblastvisit
+
+| 
+
+Time/date stamp in epoch format
+
+| 
+
+This cookie is required for user login.
+
+| 
+
+This cookie is a session cookie and expires when the browser is closed, user has logged out, or after 72 hours of inactivity  
+  
+bblastactivity
+
+| 
+
+Time/date stamp in epoch format
+
+| 
+
+This cookie is required for user login.
+
+| 
+
+This cookie is a session cookie and expires when the browser is closed, user has logged out, or after 72 hours of inactivity  
+  
+bbuserid                         
+
+| 
+
+Unique visitor login account ID
+
+| 
+
+This cookie is required for user login.
+
+| 
+
+This cookie is a session cookie and expires when the browser is closed, user has logged out, or after 72 hours of inactivity  
+  
+bbpassword
+
+| 
+
+Account password in an encrypted format
+
+| 
+
+This cookie is required for user login.
+
+| 
+
+This cookie is a session cookie and expires when the browser is closed, user has logged out, or after 72 hours of inactivity  
+  
+External Links
+
+| 
+
+Randomly encoded session string
+
+| 
+
+This cookie is required for user login.
+
+| 
+
+This cookie is a session cookie and expires when the browser is closed, user has logged out, or after 72 hours of inactivity  
+  
+symphony
+
+| 
+
+Randomly encoded session string
+
+| 
+
+This cookie is required for user login.
+
+| 
+
+This cookie is a session cookie and expires when the browser is closed, user has logged out, or after 72 hours of inactivity
