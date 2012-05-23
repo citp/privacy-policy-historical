@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the true.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123183042id_/http%3A//www.true.com/privacy.htm%3Fsvw%3Dhomepage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the true.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523102517id_/http%3A//www.true.com/privacy.htm%3Fsvw%3Dhomepage) for the most accurate reproduction.*
 
 # True | Privacy & Use Policy
 
@@ -12,14 +12,6 @@ Also, TRUE uses your Personal Information to send you information about our comp
 
 **Email Communication**  
 We use your email address to help us operate the website by sending appropriate communication to you related to billing and website changes.  We also use your email address to forward communications from other TRUE.com members.  Email communications may contain commercial messaging, such as ads and special offers from TRUE.com or our affiliates.  We may use action tags, also know a single-pixel gif or Web Beacons, to learn more about your visits to this Site in order to provide emails about goods and services of interest to you.  We may also use tracking technologies to determine if you receive and open an email communication and if you click on the email communication to access our website.
-
-TRUE uses our unique triple-blind technology to protect our members' privacy.  Any time a member communicates with another member on our website, we implement a three-step process to ensure that the member's email address is undetectable: 
-
-1.  The member's personal “from” address is stripped and replaced with their TRUE email address.    
-2.  The member that is being emailed has their TRUE email address replaced with their personal email address.    
-3.  All original email headers are stripped and re-created to show that they originated from TRUE.  This stops a member from tracing the message of origin back to the sender's actual physical location.  No other relationship website goes this extra step. 
-
-These features allow members on TRUE to communicate with their email package of choice without fear of losing anonymity through our website. 
 
 Members may make changes to their email address by clicking on My Account underneath the Tools section in the left navigation.  If TRUE makes changes to its email practices, you will be notified by email or through a prominent notice on our website.
 
@@ -35,13 +27,16 @@ Additionally, if you submit information on a Co-Branded page, or you accessed th
 These other "Co-Branded" websites are managed by the companies providing the services.  Any information you provide on these websites is governed by each website's own privacy policy, or the privacy policy of the company providing the services.  Because TRUE.com is not responsible for the privacy practices of these companies, the content of their websites, or the services offered through these Co-Branded websites, we recommend that you review the privacy policies of these websites for information about their respective privacy practices.  This section will be updated periodically as TRUE expands to offer exciting new services through the use of co-branded websites. 
 
 **Sweepstakes and Contests**  
-Occasionally, TRUE may offer users of TRUE.com the opportunity to enter a sweepstakes or other such contests.  In order to enter the sweepstakes, users will be asked to provide their name and contact information through an online or mail-in registration process.  This information may be used by TRUE.com to initiate a one-time communication with the registrant.  Moreover, the information may be shared with a third-party sweepstakes administrator only for purpose of selecting winners and notifying winners about the prizes they have won.  TRUE will not enter the user in a sweepstakes or contest without his or her consent.  For more information, please see the Official Sweepstakes Rules in place for current contests.  TRUE will not use the information provided by users in a manner inconsistent with the terms of the privacy policy in effect at the time such information was provided to TRUE.com without first obtaining the written or email consent of the registered users.
+Occasionally, TRUE may offer users of TRUE.com the opportunity to enter a sweepstakes or other such contests.  In order to enter the sweepstakes, users will be asked to provide their name and contact information through an online or mail-in registration process.  This information may be used by TRUE.com to initiate a one-time communication with the registrant.  Moreover, the information may be shared with a third-party sweepstakes administrator only for purpose of selecting winners and notifying winners about the prizes they have won.  TRUE will not enter the user in a sweepstakes or contest without his or her consent.  For more information, please see the Official Sweepstakes Rules in place for current contests.
 
 **Corporate Information**  
 In addition to the wide array of services offered through TRUE.com, you may also find out more information about TRUE and its affiliated companies through our website.  If the information you are interested in is not available on the website, we encourage you to request further information by completing an information form that requires your name, address and email address.  There is also a place for you to provide your daytime phone number if you wish to have someone from TRUE call you, but this information is optional.  We will use your contact information to reach you regarding your request for information, either by phone or by sending the data to your street address or email address.  Your contact information will be used only for the specific purpose for which you provided it.  TRUE will not share this information with third parties who are not affiliated companies of TRUE. 
 
 **Advertisers**  
 Users of TRUE.com should note that when you are on TRUE.com, you may be directed to other websites that are beyond our control.  For example, if you click on a banner advertisement, the click may take you off the TRUE.com website.  Banner advertisers on TRUE.com do not have access to your Personal Information so long as you remain on our website.  However, these other websites may independently collect data, solicit Personal Information or send their own cookies to you in accordance with their own policies.  TRUE, or its affiliates, is not responsible for the privacy practices or the content of such websites.  We strongly encourage you to review the policies of any such third parties to whom you may give Personal Information.  We may use third-party advertising companies to serve ads on our behalf.  In order to make sure that the advertising you may see is relevant to you, these companies may employ cookies and action tags, also known as single-pixel gifs or Web beacons.  Be assured that any information these third parties collect is completely anonymous.  If you do not want these third-party advertisers collecting information about you, [ click here](http://www.networkadvertising.org/optout_nonppii.asp) to opt out. 
+
+**Service Providers**  
+We may use third party service providers (for example, web hosting providers, email service bureaus, data management providers…) to manage one or more aspects of our business operations, including the processing and handling of personal information.  When we do use an outside company, we use contractual or other appropriate means to ensure that your personal information is used in a manner that is consistent with this Policy.
 
 **Cookies**  
 Cookies are used to deliver content specific to a user's potential interests and for the administration of passwords, among other purposes.  For example, we also may use cookies to ensure users do not see the same advertisements and product offerings repeatedly.  It is important to note that cookies are not linked to Personal Information.  Since our website is specifically designed to your interests, disabling your browser from accepting cookies will prevent you from accessing many of the features on TRUE.com. 
@@ -73,7 +68,7 @@ An SSL certificate is issued to ensure authentic and accurate identification of 
 TRUE reviews its security policies regarding TRUE.com on a regular basis, and changes are made as necessary.  Only a select group of authorized individuals within TRUE have access to your Personal Information. 
 
 **Availability Policy**  
-TRUE recognizes how important it is for you to have access to your Personal Information at any time.  We have implemented a policy specific to Personal Information availability.  Our network will be made available 99% of the time, excluding time for maintenance, backup and other routine services.  In the event of a disaster or other prolonged service interruption, access to system information and other resources will be limited until any problem is corrected.  Should you believe that we are not following our availability policy, please contact Customer Care by [ email](mailto:customercare@TRUE.com?subject=Privacy%20&%20Use%20Policy) or toll free at 1.866.583.TRUE (8783) or 1.214.775.0866. 
+TRUE recognizes how important it is for you to have access to your Personal Information at any time.  We have implemented a policy specific to Personal Information availability.  Our network will be made available 99% of the time, excluding time for maintenance, backup and other routine services.  In the event of a disaster or other prolonged service interruption, access to system information and other resources will be limited until any problem is corrected.  Should you believe that we are not following our availability policy, please contact Customer Care by [ email](mailto:customercare@TRUE.com?subject=Privacy%20&%20Use%20Policy) or toll free at 1.866.583.TRUE (8783) or 1.817.259.1055. 
 
 **Managing Your Information**  
 TRUE also understands that your circumstances and preferences change.  That is why we have simplified the process of amending, updating or deleting your Personal Information. 
@@ -90,16 +85,16 @@ Your TRUE.com account information is password protected so that only you have ac
 We strongly recommend that you do not divulge your password to anyone.  TRUE will never ask you for your password in an unsolicited phone call or email.  Also, remember to log out of your TRUE.com account and close your browser window when you have finished your session.  This will help to ensure that others cannot access your Personal Information and correspondence if you share a computer with someone else or are using a computer in a public place. 
 
 **Opt-Out**  
-If you change your mind about receiving special promotions and other information from TRUE, simply log into TRUE.com, visit your [email options](https://web.archive.org/web/20111123183042id_/http%3A//www.true.com/emailoptions.htm) and specify the types of correspondence you'd like to receive.  You may also opt-out of receiving special promotions and other information from TRUE by following the unsubscribe instructions at the end of the applicable promotional email(s) or by sending an email to [customercare@true.com](mailto:customercare@true.com). 
+If you change your mind about receiving special promotions and other information from TRUE, simply log into TRUE.com, visit your [email options](https://web.archive.org/web/20120523102517id_/http%3A//www.true.com/emailoptions.htm) and specify the types of correspondence you'd like to receive.  You may also opt-out of receiving special promotions and other information from TRUE by following the unsubscribe instructions at the end of the applicable promotional email(s) or by sending an email to [customercare@true.com](mailto:customercare@true.com). 
 
 **Contacting TRUE**  
 You may reach us at: 
 
 TRUE.com  
-909 Lake Carolyn Pkwy.  Suite 600  
-Irving, TX 75039  
+2201 Long Prairie Road, Suite 107-394  
+Flower Mound, TX 75022 USA  
 Email: [ customercare@TRUE.com](mailto:customercare@TRUE.com?subject=Privacy%20&%20Use%20Policy)  
-1.866.583.TRUE (8783) or 1.214.775.0866
+1.866.583.TRUE (8783) or 1.817.259.1055
 
   
-Last updated on July 1, 2010. 
+Last updated on February 2, 2012. 
