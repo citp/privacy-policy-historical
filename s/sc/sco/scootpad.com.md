@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the scootpad.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225010856id_/http%3A//www.scootpad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scootpad.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523043710id_/http%3A//www.scootpad.com/privacy) for the most accurate reproduction.*
 
-# ScootPad :: Practice. Learn. Grow!
+# ScootPad :: Practice. Learn. Succeed!
 
-Welcome to the web site and online services (the "Website") operated by Scoot Pad Inc. Scoot Pad values the privacy of our members and others who visit and use the Website (individually,"You" or collectively, "Users"). We take your privacy seriously and make it a priority to protect personally identifiable information that we obtain from and about individuals both online and off-line.
+Welcome to ScootPad.com (the "Website") operated by ScootPad Corp. ScootPad values the privacy of our members and others who visit and use the Website (individually,"You" or collectively, "Users"). We take your privacy seriously and make it a priority to protect personally identifiable information that we obtain from and about individuals both online and off-line.
 
 This Privacy Policy describes what information we gather from you, how we use that information, and what we do to protect it. By using the Website (whether or not you are a registered member), you expressly consent to the information handling practices described in this policy. If you do not want information about you to be used in the manner set forth in this Privacy Policy, please do not use the Website.
 
-This Privacy Policy is incorporated into and is subject to the ScootPad [Terms and Conditions.](https://web.archive.org/web/20111225010856id_/http%3A//www.scootpad.com/terms) Your use of the Website and any personal information you provide on the Website are subject to the terms of this Privacy Policy and ScootPad [Terms and Conditions](https://web.archive.org/web/20111225010856id_/http%3A//www.scootpad.com/terms).
+This Privacy Policy is incorporated into and is subject to the ScootPad [Terms and Conditions.](https://web.archive.org/web/20120523043710id_/http%3A//www.scootpad.com/terms) Your use of the Website and any personal information you provide on the Website are subject to the terms of this Privacy Policy and ScootPad [Terms and Conditions](https://web.archive.org/web/20120523043710id_/http%3A//www.scootpad.com/terms).
 
 ##### The Information ScootPad Collects: 
 
@@ -61,7 +61,11 @@ Third-Party Advertisers, Links to Other Sites: The Website may be linked to inte
 
 ##### Our Commitment to Children's Privacy:
 
-Protecting the privacy of young children is especially important. For that reason, ScootPad does not knowingly collect or maintain personally identifiable information on the Website from persons under 13 years-of-age unless ScootPad reasonably believes the child's parent has consented to the use of the Website. If ScootPad learns that personally-identifiable information of persons less than 13-years-of-age has been collected on the Website without parental consent, then ScootPad will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under the age of 13 has a registered account with the Website, then you may alert ScootPad at privacy@ScootPad.com and request that ScootPad delete that child's personal information from its systems.
+Protecting the privacy of young children is especially important. For that reason, ScootPad does not knowingly collect or maintain personally identifiable information on the Website from persons under 13 years-of-age unless ScootPad reasonably believes the child's parent or teacher has consented to the use of the Website. If ScootPad learns that personally-identifiable information of persons less than 13-years-of-age has been collected on the Website without parental consent, then ScootPad will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under the age of 13 has a registered account with the Website, then you may alert ScootPad at privacy@ScootPad.com and request that ScootPad delete that child's personal information from its systems.
+
+##### Compliance with Children's Online Privacy Protection Act (COPPA):
+
+ScootPad is designed to comply with the Children's Online Privacy Protection Act (COPPA). Only teachers and parents are allowed to setup kids accounts on ScootPad. Any personally identifiable information we collect through ScootPad is never shared and is only used to communicate with teachers and parents.
 
 ##### Our Commitment to Data Security:
 
@@ -73,4 +77,6 @@ The Website is located within the United States. If you use the Website from the
 
 ##### Changes and Updates to this Privacy Policy:
 
-This Privacy Policy may be revised periodically without further notice to you and this will be reflected by a "Last Updated" date above. Please revisit this page to stay aware of any changes. Your continued use of the Website constitutes your agreement to this Privacy Policy and any future revisions. 
+This Privacy Policy may be revised periodically without further notice to you and this will be reflected by a "Last Updated" date below. Please revisit this page to stay aware of any changes. Your continued use of the Website constitutes your agreement to this Privacy Policy and any future revisions. 
+
+Last Updated: Mar 1st 2012 
