@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qctimes.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124011054id_/http%3A//qctimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qctimes.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523170144id_/http%3A//qctimes.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy : Quad-City Times: Quad Cities, IA/IL
 
 Welcome to the web sites of the The Quad City Times. We (which includes our parent company, Lee Enterprises, Incorporated) believe in your right to know what information is collected during your visit to our web sites and how that information is used and safeguarded. 
 
