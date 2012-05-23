@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the qualitysmith.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129175715id_/http%3A//www.qualitysmith.com/request/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualitysmith.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523170111id_/http%3A//www.qualitysmith.com/request/privacy-policy) for the most accurate reproduction.*
 
 # 
 
 ### Privacy and Information Gathering
 
-The privacy of our customers is extremely important to us. We work with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Web beacons and cookies provided by our marketing company on this site (first party cookies). A cookie is a small packet of information stored on a user's computer that allows a website server to know certain information about a user, for example, how many times a user has visited the site. A web beacon is typically a transparent graphic placed on a site or in an email that allows a site to record, for example, whether a page was accessed or an e-mail opened, for statistical analysis. Our cookies and Web beacons are not tied to personally identifiable information. We don't collect personal information without your knowledge. We ask for it in a forms that must be submitted by the user. 
+The privacy of our customers is extremely important to us. We work with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Web beacons and cookies provided by our marketing company on this site (first party cookies). A cookie is a small packet of information stored on a user's computer that allows a website server to know certain information about a user, for example, how many times a user has visited the site. A web beacon is typically a transparent graphic placed on a site or in an email that allows a site to record, for example, whether a page was accessed or an e-mail opened, for statistical analysis. Our cookies and Web beacons are not tied to personally identifiable information. We don't collect personal information without your knowledge. We ask for it in a form that must be submitted by the user. 
 
 ### Service From Third-Party Sites
 
@@ -12,7 +12,7 @@ We utilize trusted corporate partners for assistance in finding contractors in y
 
 ### Links to Other Sites
 
-This Web site contains links to other sites that are not owned or controlled by Andromeda Park Partners LLC. Please be aware that Andromeda Park Partners LLC is not responsible for the privacy practices of such other sites. This privacy statement applies only to information collected by this website. We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects personally identifiable information. 
+This Web site contains links to other sites that are not owned or controlled by QualitySmith Inc. Please be aware that QualitySmith Inc. is not responsible for the privacy practices of such other sites. This privacy statement applies only to information collected by this website. We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects personally identifiable information. 
 
 ### Legal Disclaimer
 
