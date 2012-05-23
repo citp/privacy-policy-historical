@@ -1,24 +1,18 @@
-> *The following text is extracted and transformed from the cash4gold.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205170148id_/http%3A//www.cash4gold.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cash4gold.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523123825id_/https%3A//www.cash4gold.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Cash4Gold.com
 
-[Home](http://www.cash4gold.com/ "Go to Home.") > Privacy Policy
+[Home](https://www.cash4gold.com/ "Go to Home.") > Privacy Policy
 
-[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.cash4gold.com&sealid=103 "Truste Verification")
-
-To be removed from receiving future Cash4Gold.com emails, please [click here](http://cash4gold.c4gusc.com/unsub/unsub.form?id=644eca1e2e045ae40ebe572dce362889).
+To be removed from receiving future Cash4Gold.com emails, please [click here](https://www.cash4gold.com/unsub/unsubscribe/?cid=7162eb66f0b6c7a4ddec754eeaf25649).
 
 ## 1.         General.
 
 This privacy policy (“Privacy Policy”) is designed to inform you about the type of information that Green Bullion Financial Services, LLC (“we,” “us,” or “our” ) may gather about or collect from you in connection with your use of this site (this “Site”).  It also is intended to explain the conditions under which we use and disclose that information, and your rights in relation to that information.  
-The procedures for modifying or changing this Privacy Policy in the future are discussed in Section 6 of this document.  
-Green Bullion Financial is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the Web site www.cash4gold.com.  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+The procedures for modifying or changing this Privacy Policy in the future are discussed in Section 6 of this document.
 
-If you have questions or concerns regarding this Policy, you should first contact [Privacy@cash4gold.com](mailto:Privacy@kenexa.com). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at [http://watchdog.truste.com/pvr.php?page=complaint&url=](http://watchdog.truste.com/pvr.php?page=complaint&url)  
-,by mail at WatchDog Complaints, TRUSTe, 55 2nd Street, 2nd Floor, San Francisco, CA, USA 94105, by phone at 415-520-3400, or by fax at 415-520-3420.  If you are mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, see [http://watchdog.truste.com/pvr.php?page=complaint&url=](http://watchdog.truste.com/pvr.php?page=complaint&url)  
-or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. 
+If you have questions or concerns regarding this Policy, you should first contact [Privacy@cash4gold.com](mailto:Privacy@kenexa.com).  
 
-Green Bullion Financial complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union
 
 ## 2.         Children
 
