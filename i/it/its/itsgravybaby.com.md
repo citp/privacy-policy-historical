@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itsgravybaby.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123183742id_/http%3A//itsgravybaby.com/2011/08/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsgravybaby.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524012125id_/http%3A//itsgravybaby.com/2011/08/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -65,10 +65,3 @@ whitney.baugh@yahoo.com
 This document was last updated on September 14, 2011
 
 [](http://www.linkwithin.com/)
-
-Related posts:
-
-  1. [Disclosure Policy](http://itsgravybaby.com/2011/08/disclosure-policy/ "Disclosure Policy")
-  2. [>Earn Money Taking Surveys](http://itsgravybaby.com/2009/07/earn-money-taking-surveys/ ">Earn Money Taking Surveys")
-
-
