@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the theperfectbizfinder.com privacy policy that was archived on 2011-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110224185306id_/http%3A//www.howtobeginabusiness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theperfectbizfinder.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523163616id_/http%3A//www.theperfectbizfinder.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | How To Begin A Business Blog
-
-## Privacy Policy
+# Privacy
 
 We are committed to the protection of the rights of visitors to this site. Any data which is collected from you throughout this site will be used solely for the purpose intended, and will not be given, lent, or sold to any third party.
 
