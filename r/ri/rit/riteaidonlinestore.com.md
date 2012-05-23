@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riteaidonlinestore.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223132111id_/http%3A//www.riteaidonlinestore.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riteaidonlinestore.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523154825id_/http%3A//www.riteaidonlinestore.com/info/privacy) for the most accurate reproduction.*
 
 # Rite Aid Online Store: Help > Privacy, Security & Accessibility
 
