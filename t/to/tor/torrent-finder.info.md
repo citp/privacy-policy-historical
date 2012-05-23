@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torrent-finder.info privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124172819id_/http%3A//torrent-finder.info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torrent-finder.info privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524015722id_/http%3A//torrent-finder.info/privacy.php) for the most accurate reproduction.*
 
 # Torrent Finder Privacy :: Torrent Finder :: Torrent Search Engine
 
