@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the scootpad.com privacy policy that was archived on 2011-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111225010856id_/http%3A//www.scootpad.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scootpad.com privacy policy that was archived on 2012-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120523043710id_/http%3A//www.scootpad.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta property="og:title" content="ScootPad :: Practice. Learn. Grow!">
+<meta property="og:title" content="ScootPad :: Practice. Learn. Succeed!">
 <meta property="og:type" content="company">
 <meta property="og:url" content="http://www.scootpad.com">
 <meta property="og:site_name" content="ScootPad">
@@ -12,7 +12,7 @@
 <meta property="fb:admins" content="770774377">
 <meta property="og:image" content="http://static.scootpad.com/5/fb_icon.jpg">
 <meta property="og:description" content="ScootPad is a leading math and reading practice platform. Kids are motivated to practice math and reading with ScootPad, gaining confidence and a desire to learn rapidly. ScootPad is easy, fun and FREE!">
-<title>ScootPad :: Practice. Learn. Grow!</title>
+<title>ScootPad :: Practice. Learn. Succeed!</title>
 <meta name="description" content="ScootPad is a leading math and reading practice platform. Kids are motivated to practice math and reading with ScootPad, gaining confidence and a desire to learn rapidly. ScootPad is easy, fun and FREE!">
 <meta name="keywords" content="Practice, Math, Reading, Math Practice, Reading Practice, Elementary grades">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
@@ -21,7 +21,9 @@
 
 
 <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
-<link href="css/global.css?v=67382971" rel="stylesheet" type="text/css">
+<link rel="apple-touch-icon" href="images/icons/Apple_Icon_SP_72.png">
+
+<link href="css/global.css?v=121" rel="stylesheet" type="text/css">
 <link rel="stylesheet" type="text/css" href="fancybox/fancybox_addfrinds.css" media="screen">
 <link rel="stylesheet" type="text/css" href="fancybox/fancybox_add.css" media="screen">
 <link rel="stylesheet" href="css/fancybox.css">
@@ -71,7 +73,7 @@ body {font-family: Comic Sans MS;}
 
 <script type="text/javascript">
   function showError(id,msg) {
-      $('#'+id+'_msg').empty().append('<img src="images/delete.png"></img>&nbsp;<span style="color:red">' + msg + '</span>');
+      $('#'+id+'_msg').empty().append('<img src="images/delete.png" style="vertical-align:middle"/>&nbsp;<span style="color:red;font-size:12px">' + msg + '</span>');
   }
   function showAccept(id) {
       $('#'+id+'_msg').empty().append('<img src="images/accept.png">');
@@ -84,6 +86,15 @@ body {font-family: Comic Sans MS;}
       var regex = /^[-a-z0-9~!$%^&*_=+}{\'?]+(\.[-a-z0-9~!$%^&*_=+}{\'?]+)*@([a-z0-9_][-a-z0-9_]*(\.[-a-z0-9_]+)*\.(aero|arpa|biz|com|coop|edu|gov|info|int|mil|museum|name|net|org|pro|travel|mobi|[a-z][a-z])|([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}))(:[0-9]{1,5})?$/i;
       return regex.test(str);
   }
+      
+  function loadSignInPage() {
+	  window.location.href = "/signin";
+  }
+  
+  function loadSignUpPage() {
+	  window.location.href = "/signup";
+  }
+
 
   function canClose() {
       if(typeof overrideFancyClose != "undefined") {
@@ -94,17 +105,78 @@ body {font-family: Comic Sans MS;}
   function startClock(){}
 </script>
 
-<script src="//connect.facebook.net/en_US/all.js"></script>
 
 <script type="text/javascript">
 		$(document).ready(function() {
+			$('#classroomselect').change(function() {
+				var type = $("select#classroomselect").val();
+				$('#classAcctId').val(type);
+				dojo.byId('classChangeForm').submit();
+			});
+
+
+			$(".skillsSnapshot").fancybox({
+				'width'				: 953,
+				'height'			: 600,
+				'autoScale'			: false,
+				'transitionIn'		: 'none',
+				'transitionOut'		: 'none',
+				'type'				: 'iframe',
+                'hideOnOverlayClick': true,
+                'showCloseButton'	: false
+			});
+
+			$(".kidInviteFriend").fancybox({
+				'width'				: 540,
+				'height'			: 550,
+				'autoScale'			: false,
+				'transitionIn'		: 'none',
+				'transitionOut'		: 'none',
+				'type'				: 'iframe',
+				'hideOnOverlayClick': false,
+				'showCloseButton'   : false
+			});
+			$(".video").fancybox({
+				'width'				: 660,
+				'height'			: 360,
+				'autoScale'			: false,
+				'transitionIn'		: 'none',
+				'transitionOut'		: 'none',
+				'type'				: 'iframe',
+				'hideOnOverlayClick': false
+			});
+			
+			$(".feedPop").fancybox({
+				'width'				: 953,
+				'height'			: 600,
+				'autoScale'			: false,
+				'transitionIn'		: 'none',
+				'transitionOut'		: 'none',
+				'type'				: 'iframe',
+                'hideOnOverlayClick': true,
+                'showCloseButton'	: false
+			});
+			
+			$(".howto_gallery").fancybox({
+				'width'				: 686,
+				'height'			: 570,
+				'autoScale'			: false,
+				'transitionIn'		: 'none',
+				'transitionOut'		: 'none',
+				'type'				: 'iframe',
+				'hideOnOverlayClick': true,
+				'showCloseButton'	: true
+			});
+			
 		    $('#sendFeedback').click(function() {
-		    	if(dojo.byId('fmessage').value != ""){
+		    	if($.trim(dojo.byId('fmessage').value) != ""){
 			    	dojo.xhrPost({
 			        	form:"feedbackForm",
 			            handleAs:"text",
 			            handle:function(data){
-			            	$('#feedbackMsg').empty().append('Thanks for your feedback. We will be in touch.');
+			            	$('#feedbackMsg').empty().append('Thanks for your feedback. We will get back to you as soon as possible.');
+			            	dojo.byId('feedbackFormDiv').style.display = 'none';
+			            	dojo.byId('feedbackConfirmDiv').style.display = '';
 			            }
 			        });
 		    	}
@@ -112,6 +184,8 @@ body {font-family: Comic Sans MS;}
 		    $('#closeFeedback').click(function() {
 				$(".handle").click();
 				$('#feedbackMsg').empty();
+				dojo.byId('feedbackFormDiv').style.display = '';
+				dojo.byId('feedbackConfirmDiv').style.display = 'none';
 				$('#fmessage').val("");
 		    });
 		});
@@ -124,7 +198,7 @@ body {font-family: Comic Sans MS;}
                  tabLocation: 'left',                               //side of screen where tab lives, top, right, bottom, or left
                  speed: 300,                                        //speed of animation
                  action: 'click',                                   //options: 'click' or 'hover', action to trigger animation
-                 topPos: '150px',                                   //position from the top
+                 topPos: '140px',                                   //position from the top
                  fixedPosition: true                               //options: true makes it stick(fixed position) on scroll
              });
          });
@@ -134,13 +208,25 @@ body {font-family: Comic Sans MS;}
 
 $(document).ready(function()
 {
+	document.getElementById('fb-root').style.display='none';
+	document.getElementById('fbwidgets').style.display='none';
+	
+	var isFBLoaded = false;
 	function submitFBAuth(accessToken){
 		  if(accessToken){
 			  $('#accessToken').val(accessToken);
 			  $('#fb_signin').submit();
 		  }
 	}
+	
 
+    $("#fbsignin").click(function(){
+    	if(isFBLoaded)
+    		FBLogin();
+    	else
+    		$('#fbAuthFail').click();
+    });
+    
 	function FBLogin(){
 		FB.getLoginStatus(function(response) {
 			if(response.authResponse){
@@ -158,39 +244,37 @@ $(document).ready(function()
 			}
 		});		
 	}
+	
+	 window.fbAsyncInit = function() {
+		 isFBLoaded = true;
+		 document.getElementById('fb-root').style.display='';
+		 document.getElementById('fbwidgets').style.display='';
+		    // Initialize Facebook here
+		    FB.init({
+		        appId  : '211488535528518',
+		        status : true, // check login status
+		        cookie : true, // enable cookies to allow the server to access the session
+		        xfbml  : true  // parse XFBML
+		    });
+		    
+		  };
 
-    // Initialize Facebook here
-    FB.init({
-        appId  : '211488535528518',
-        status : true, // check login status
-        cookie : true, // enable cookies to allow the server to access the session
-        xfbml  : true  // parse XFBML
-    });
-    
-    $("#fbsignup").click(function(){
-    	FBLogin();
-	});
-    $("#fbsignin").click(function(){
-    	FBLogin();
-    });
-    
-    $("#fbsignin1").click(function(){
-    	FBLogin();
-	});
-    $("#fbsignin2").click(function(){
-    	FBLogin();
-	});
-    $("#fbsignin3").click(function(){
-    	FBLogin();
-	});
+		  // Load the SDK Asynchronously
+		  (function(d){
+		     var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+		     js = d.createElement('script'); js.id = id; js.async = true;
+		     js.src = "//connect.facebook.net/en_US/all.js";
+		     d.getElementsByTagName('head')[0].appendChild(js);
+		   }(document));
+		  
 
 });
 //-->
 </script>
 
-</head>
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
 <body class="body">
-<div id="fb-root"></div>
+<div id="fb-root" style="display: none;"></div>
 <div id="main">
   <div id="header">
     <div class="topheader">
@@ -214,19 +298,20 @@ $(document).ready(function()
         <div class="nav_hm">
           <ul>
             <li><a href="for_parents" class="for_parents" title="For Parents"></a></li>
-            <li><a href="how_it_works" class="hwit_works" title="How It Works"></a></li>
+            <li><a href="for_teachers" class="for_teachers" title="For Teachers"></a></li>
             <li><a href="why_scootpad" class="why_scoot" title="Why ScootPad"></a></li>
           </ul>
         </div>
         <div class="username_hm"><a href="signin" class="username_hm_sign" title="Click here To Sign in"></a></div>
-        <div class="userbox">
-        	<fb:like send="true" width="450" show_faces="false" href="http://www.facebook.com/scootpad"></fb:like>
+        <div class="userbox" id="fbwidgets" style="display: none;">
+                <fb:like send="true" width="450" show_faces="false" href="http://www.facebook.com/scootpad"></fb:like>
         </div>
-        <div style="float:right; margin-right:20px; font-family:'Comic Sans Ms';font-size: 14px;font-weight: normal;color:#ffffff;">
+        <div style="float:right; margin-right:20px; font-family:'Comic Sans Ms', Arial;font-size: 14px;font-weight: normal;color:#ffffff;">
         	Math &amp; Reading. Grades 1, 2 &amp; 3.
         </div>
         <div class="clear"></div>
       </div>
+<a href="fbAuthFail" id="fbAuthFail"></a>      
   	
     </div>
     <div class="pr_contentbg">
@@ -237,7 +322,7 @@ $(document).ready(function()
     <div class="clear"></div>
     </div>
   <div class="row">
-    <p>Welcome to the web site and online services (the "Website") operated by Scoot Pad Inc. Scoot Pad values the privacy of our members and others who visit and use the Website (individually,"You" or collectively, "Users"). We take your privacy seriously and make it a priority to protect personally identifiable information that we obtain from and about individuals both online and off-line.</p>
+    <p>Welcome to ScootPad.com (the "Website") operated by ScootPad Corp. ScootPad values the privacy of our members and others who visit and use the Website (individually,"You" or collectively, "Users"). We take your privacy seriously and make it a priority to protect personally identifiable information that we obtain from and about individuals both online and off-line.</p>
   </div>
   
   <div class="row">
@@ -292,7 +377,12 @@ $(document).ready(function()
   <div class="row">
   <h5>Our Commitment to Children's Privacy:</h5>
   
-  <p>Protecting the privacy of young children is especially important. For that reason, ScootPad does not knowingly collect or maintain personally identifiable information on the Website from persons under 13 years-of-age unless ScootPad reasonably believes the child's parent has consented to the use of the Website. If ScootPad learns that personally-identifiable information of persons less than 13-years-of-age has been collected on the Website without parental consent, then ScootPad will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under the age of 13 has a registered account with the Website, then you may alert ScootPad at privacy@ScootPad.com and request that ScootPad delete that child's personal information from its systems.</p>
+  <p>Protecting the privacy of young children is especially important. For that reason, ScootPad does not knowingly collect or maintain personally identifiable information on the Website from persons under 13 years-of-age unless ScootPad reasonably believes the child's parent or teacher has consented to the use of the Website. If ScootPad learns that personally-identifiable information of persons less than 13-years-of-age has been collected on the Website without parental consent, then ScootPad will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under the age of 13 has a registered account with the Website, then you may alert ScootPad at privacy@ScootPad.com and request that ScootPad delete that child's personal information from its systems.</p>
+  </div> 
+  <div class="row">
+  <h5>Compliance with Children's Online Privacy Protection Act (COPPA):</h5>
+  
+  <p>ScootPad is designed to comply with the Children's Online Privacy Protection Act (COPPA). Only teachers and parents are allowed to setup kids accounts on ScootPad. Any personally identifiable information we collect through ScootPad is never shared and is only used to communicate with teachers and parents.</p>
   </div> 
   <div class="row">
   <h5>Our Commitment to Data Security:</h5>
@@ -306,11 +396,11 @@ $(document).ready(function()
  </div> 
   <div class="row">
   <h5>Changes and Updates to this Privacy Policy:</h5>
-  <p>This Privacy Policy may be revised periodically without further notice to you and this will be reflected by a "Last Updated" date above. Please revisit this page to stay aware of any changes. Your continued use of the Website constitutes your agreement to this Privacy Policy and any future revisions.
+  <p>This Privacy Policy may be revised periodically without further notice to you and this will be reflected by a "Last Updated" date below. Please revisit this page to stay aware of any changes. Your continued use of the Website constitutes your agreement to this Privacy Policy and any future revisions.
     </p>
  </div> 
   <p>&nbsp;</p>
-  <p>Last Updated: Aug 1st 2011 </p>
+  <p>Last Updated: Mar 1st 2012 </p>
   <div class="clear"></div>
 </div>
       
@@ -318,7 +408,6 @@ $(document).ready(function()
 	  <div class="clear"></div>
 	  
 	   <div class="clear"></div>
-	  
 	  </div>
 	  
 	  
@@ -331,23 +420,30 @@ $(document).ready(function()
     <div class="clear"></div>
   </div>
 <div class="clear"></div>
-  
-  	
-  	
-  	<div class="futter">
+<div class="futter">
   <div class="footer"></div>
 </div>
 <div class="fullfootlight" style="margin:0px 0 0 0">
   <div class="termslight"><span class="submenu_footer">
-  <a href="aboutus">About Us</a> - <a href="http://scootpad.wordpress.com">Blog</a> - <a href="for_parents">For Parents</a> - <a href="curriculum">Curriculum</a> - <a href="how_it_works">How it works</a> - <a href="why_scootpad">Why ScootPad</a> - 
-  <a href="terms"> Terms</a> - <a href="privacy">Privacy</a> - <a href="contactus">Contact Us</a> - <a href="help">Help</a>
-  </span>
-  <span class="socialicons"><a href="http://www.facebook.com/scootpad" style="padding: 0 0 0 0;"><img src="images/home/facebook.png" border="0"></a>&nbsp;<a href="http://www.twitter.com/scootpad" style="padding: 0 0 0 0;"><img src="images/home/twitter.png" border="0"></a>&nbsp;<a href="http://www.linkedin.com/company/scootpad" style="padding: 0 0 0 0;"><img src="images/home/linkedin.png" border="0"></a></span>
-  <span class="copyright">© 2011 ScootPad</span>
+  <a href="aboutus">About Us</a> - <a href="http://blog.scootpad.com">Blog</a> - <a href="for_parents">For Parents</a> - <a href="for_teachers">For Teachers</a> - <a href="curriculum">Curriculum</a> - <a href="why_scootpad">Why ScootPad</a> - 
+		  <a href="terms"> Terms</a> &amp; <a href="privacy">Privacy</a> - <a href="contactus">Contact Us</a> - <a href="help">Help</a>
+	  	</span>
+	  	<span class="socialicons"><a href="http://www.facebook.com/scootpad" style="padding: 0 0 0 0;"><img src="images/home/facebook.png" border="0"></a>&nbsp;<a href="http://www.twitter.com/scootpad" style="padding: 0 0 0 0;"><img src="images/home/twitter.png" border="0"></a>&nbsp;<a href="http://www.linkedin.com/company/scootpad" style="padding: 0 0 0 0;"><img src="images/home/linkedin.png" border="0"></a></span>
+	  	<span class="copyright">© 2012 ScootPad</span>
     <div class="clear"></div>
   </div>
 </div>
-  
+
+  	
+	    <div class="leadersBoard">
+			<a href="leaderboard"><img src="images/leaderboardbtn.png" alt="Leaders Board" border="0"></a>
+	  	</div>
+  	
+
+    
+
+
+
 
 
 
