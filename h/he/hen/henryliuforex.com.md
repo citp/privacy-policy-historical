@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the henryliuforex.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124020302id_/http%3A//www.henryliuforex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the henryliuforex.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523184718id_/http%3A//www.henryliuforex.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Forex Trading | Forex News Trading | News Trading | Forex News - Strategy - Analysis - System
+# Privacy Policy | Forex News Trading - Henry Liu Forex
 
 At **HenryLiuForex.com** , we are committed to protecting your privacy. Whenever we collect personal information from you, we will always explain to you how we intend to use that information. For example, we will use the information you give us to process your requests and transactions, or to provide you with information about relevant products and services..
 
