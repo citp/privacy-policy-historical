@@ -1,13 +1,15 @@
-<!--The following is the downloaded HTML source of the seattleweekly.com privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101154922id_/http%3A//www.seattleweekly.com/about/privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the seattleweekly.com privacy policy that was archived on 2012-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120523181456id_/http%3A//www.seattleweekly.com/about/privacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//w3c//dtd html 4.01 transitional//en" "http://www.w3.org/tr/html4/loose.dtd"><html><head>
     <meta name="google-site-verification" content="HB1ruhwjr9G2iMWnFITxFS9YXCHqRDvxfYM7NFy7KA0">
+<meta property="og:image" content="http://media.seattleweekly.com/7884695.0.jpg">
+<meta property="og:image" content="http://www.seattleweekly.com/img/citylogo-lg.png">
   <title>Seattle Privacy Policy</title>
   <meta name="description" content="">
   <meta name="keywords" content="">
   <link rel="alternate" type="application/rss+xml" title="Seattle Weekly: Privacy" href="feed://seattleweekly.com/syndication/issue">
-    <script type="text/javascript" async="" id="ic_annonymous_pixel" src="http://pixel.indieclick.com/annonymous/domain/seattleweekly.com/reach/script_ic.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript">
+    <script type="text/javascript" async="" id="ic_annonymous_pixel" src="http://pixel.indieclick.com/annonymous/domain/seattleweekly.com/reach/script_ic.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript">
         <!--
         //orig configuration
         OAS_url = 'http://oascentral.seattleweekly.com/';
@@ -21,31 +23,83 @@
 
     <!-- for dev only, remove when rollup is corrected -->
 
-    <link rel="stylesheet" href="http://assets.seattleweekly.com/load/c/default-25579.css">
-<link rel="stylesheet" href="http://assets.seattleweekly.com/load/c/about-privacyPolicy-25579.css">
+    <link rel="stylesheet" href="http://assets.seattleweekly.com/load/c/default-31630.css">
+<link rel="stylesheet" href="http://assets.seattleweekly.com/load/c/about-privacyPolicy-31630.css">
     <!-- p/af/v/e/LoadJS -->
-<script language="javascript" src="http://assets.seattleweekly.com/load/j/default-25579.js" type="text/javascript"></script>
-<script language="javascript" src="http://assets.seattleweekly.com/load/j/about-privacyPolicy-25579.js" type="text/javascript"></script>
+<script language="javascript" src="http://assets.seattleweekly.com/load/j/default-31630.js" type="text/javascript"></script>
+<script language="javascript" src="http://assets.seattleweekly.com/load/j/about-privacyPolicy-31630.js" type="text/javascript"></script>
 <!-- End p/af/v/e/LoadJS -->
-    
+    <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-395255-3']);
+  _gaq.push(['_setDomainName', 'seattleweekly.com']);
+  _gaq.push(['_setCustomVar', 4, '', 'Home|Misc|', 1]);
+  _gaq.push(['_setSiteSpeedSampleRate', 5]);
+  _gaq.push(['_trackPageview']);
+
+  _gaq.push(['b._setAccount','UA-28661610-12']);_gaq.push(['b._trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
     
 <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 
+    
+    <style>
+     .outerBody { overflow: hidden; }
+     .innerBody { overflow-x: auto; }
+    </style>
+    
+    <script type="text/javascript">
+
+        $(document).ready(function(){
+            $toolbar_height = $('.toolbarStripe').height();
+            $adWrapper = $('<div id="adWrapper"/>');
+            var reQS = new RegExp( "[?&]Category=([^&$]*)", "i" );
+            var offset = OAS_query.search( reQS );
+            var category = ( offset >= 0 ) ? RegExp.$1 : null;
+            if (category != null) {
+                $.post(
+                    '/ads/reskins/' + category + '/',
+                    {},
+                    function(response){
+                        $adWrapper.html($("div#adWrapperLeft, div#adWrapperRight", $(response)));
+                        $('.pagecontainer').prepend($adWrapper);
+                    }
+                );
+            }
+
+            $(window).scroll(function(){
+                updateAdWrapperPosition()
+            })
+            updateAdWrapperPosition()
+        });
+
+        function updateAdWrapperPosition(){
+            $y = $(window).scrollTop();
+            if($y > $toolbar_height){
+                $adWrapper.addClass('adWrapperFixed');
+            } else {
+                $adWrapper.removeClass('adWrapperFixed');
+            }
+        }
+    </script>
+    
 </head>
 <body><!--googleoff: all--> 
-
-
-<!-- BACKGROUND AD -->
-
-  
-<!-- BACKGROUND AD -->
-
+<div class="outerBody">
 <div class="pagecontainer">
-    <div class="leaderboard">
+    <div class="vvmlb">
         <div class="topbanner">
             <!-- NOGSA -->
 <div class="Ads" id="Top">
-    <script language="JavaScript">
+    <script type="text/javascript">
         <!--
         OAS_AD('Top');
         //-->
@@ -59,279 +113,248 @@
     </div>
 
     <div class="sitenav">
-        <!-- p/af/v/navigation/index -->
-<!-- js: p/af/wr/js/navigation_index.js -->
-<div class="ClearIt"></div>
-<!-- start nav -->
-<div id="nav">
-    <!-- start navMain -->
-    <div id="navMain">
-        <ul class="nav">
-                                                <li id="nav-news" class="topMenu menuLi">
-                        <a href="/news/" class="top" target="_self">News</a>                                                    <ul class="mid subNav" id="sub-nav-news">
-                                <script type="text/javascript">
-                                    $(document).ready( function() {
-                                                                                    $("#sub-nav-news").append( '<li><a href="/news" target="_self">News Home</a></li>' ); 
-                                                                                    $("#sub-nav-news").append( '<li><a href="/news/national" target="_self">National</a></li>' ); 
-                                                                                    $("#sub-nav-news").append( '<li><a href="http://blogs.seattleweekly.com/dailyweekly/" target="">The Daily Weekly</a></li>' ); 
-                                                                                    $("#sub-nav-news").append( '<li><a href="http://www.seattleweekly.com/2011-09-21/news/war-isn-t-over-remembering-washington-s-war-dead/" target="_self">War Dead Remembered</a></li>' ); 
-                                                                            });
-                                </script>
-                            </ul>
-                                            </li>
-                                                                <li id="nav-music" class="topMenu menuLi">
-                        <a href="/music/" class="top" target="_self">Music</a>                                                    <ul class="mid subNav" id="sub-nav-music">
-                                <script type="text/javascript">
-                                    $(document).ready( function() {
-                                                                                    $("#sub-nav-music").append( '<li><a href="/music" target="_self">Music Home</a></li>' ); 
-                                                                                    $("#sub-nav-music").append( '<li><a href="/events/music" target="_self">Today&#039;s Shows</a></li>' ); 
-                                                                                    $("#sub-nav-music").append( '<li><a href="/feedback/SubmitAnEvent" target="_self">Submit an Event</a></li>' ); 
-                                                                                    $("#sub-nav-music").append( '<li><a href="http://blogs.seattleweekly.com/reverb" target="">Reverb</a></li>' ); 
-                                                                                    $("#sub-nav-music").append( '<li><a href="http://blogs.seattleweekly.com/reverb/john_roderick_reverb_residency/" target="_self">John Roderick</a></li>' ); 
-                                                                                    $("#sub-nav-music").append( '<li><a href="http://blogs.seattleweekly.com/reverb/duff_mckagan/" target="_self">Duff McKagan</a></li>' ); 
-                                                                                    $("#sub-nav-music").append( '<li><a href="/events/concerts/" target="_self">Concert Calendar</a></li>' ); 
-                                                                                    $("#sub-nav-music").append( '<li><a href="/microsites/motf" target="_self">Music on the Ferry</a></li>' ); 
-                                                                                    $("#sub-nav-music").append( '<li><a href="http://microapp.seattleweekly.com/reverb/" target="_self">REVERB Local Music Festival</a></li>' ); 
-                                                                                    $("#sub-nav-music").append( '<li><a href="http://microapp.seattleweekly.com/reverb/reverbmonthly/" target="_self">Reverb Music Monthly</a></li>' ); 
-                                                                                    $("#sub-nav-music").append( '<li><a href="/adIndex/subcategory/music-273" target="_self">Entertainment Ads</a></li>' ); 
-                                                                            });
-                                </script>
-                            </ul>
-                                            </li>
-                                                                <li id="nav-calendar" class="topMenu menuLi">
-                        <a href="/calendar/" class="top" target="_self">Calendar</a>                                                    <ul class="mid subNav" id="sub-nav-calendar">
-                                <script type="text/javascript">
-                                    $(document).ready( function() {
-                                                                                    $("#sub-nav-calendar").append( '<li><a href="/calendar" target="_self">Calendar Home</a></li>' ); 
-                                                                                    $("#sub-nav-calendar").append( '<li><a href="/events/search/" target="_self">Top Picks</a></li>' ); 
-                                                                                    $("#sub-nav-calendar").append( '<li><a href="/events/search/category:[689464]/" target="_self">Halloween Events</a></li>' ); 
-                                                                                    $("#sub-nav-calendar").append( '<li><a href="/feedback/SubmitAnEvent" target="_self">Submit an Event</a></li>' ); 
-                                                                                    $("#sub-nav-calendar").append( '<li><a href="/adIndex/category/entertainment-52" target="_self">Entertainment Ads</a></li>' ); 
-                                                                            });
-                                </script>
-                            </ul>
-                                            </li>
-                                                                <li id="nav-restaurants" class="topMenu menuLi">
-                        <a href="/restaurants/" class="top" target="_self">Restaurants</a>                                                    <ul class="mid subNav" id="sub-nav-restaurants">
-                                <script type="text/javascript">
-                                    $(document).ready( function() {
-                                                                                    $("#sub-nav-restaurants").append( '<li><a href="/restaurants" target="_self">Restaurants Home</a></li>' ); 
-                                                                                    $("#sub-nav-restaurants").append( '<li><a href="/restaurants/search/" target="_self">Restaurant Search</a></li>' ); 
-                                                                                    $("#sub-nav-restaurants").append( '<li><a href="http://blogs.seattleweekly.com/voracious/" target="_self">Voracious</a></li>' ); 
-                                                                                    $("#sub-nav-restaurants").append( '<li><a href="http://blogs.seattleweekly.com/voracious/versus/" target="_self">Versus</a></li>' ); 
-                                                                                    $("#sub-nav-restaurants").append( '<li><a href="/events/category/food-files-287382/" target="_self">Food Files</a></li>' ); 
-                                                                                    $("#sub-nav-restaurants").append( '<li><a href="/columns/bottomfeeder-283453/" target="_self">Bottomfeeder</a></li>' ); 
-                                                                                    $("#sub-nav-restaurants").append( '<li><a href="http://blogs.seattleweekly.com/voracious/first_call/" target="_self">First Call</a></li>' ); 
-                                                                                    $("#sub-nav-restaurants").append( '<li><a href="/restaurants/reviews" target="_self">Restaurant Reviews</a></li>' ); 
-                                                                                    $("#sub-nav-restaurants").append( '<li><a href="/2011-03-23/food/our-107-favorite-restaurants-2011" target="_self">2011 Favorites</a></li>' ); 
-                                                                                    $("#sub-nav-restaurants").append( '<li><a href="http://microapp.seattleweekly.com/voracious/" target="_self">Voracious Tasting</a></li>' ); 
-                                                                                    $("#sub-nav-restaurants").append( '<li><a href="/adIndex/subcategory/restaurants-281" target="_self">Restaurant Ads</a></li>' ); 
-                                                                                    $("#sub-nav-restaurants").append( '<li><a href="http://coupons.seattleweekly.com/seattle/deals/restaurants/" target="_self">Restaurant Coupons</a></li>' ); 
-                                                                                    $("#sub-nav-restaurants").append( '<li><a href="http://happyhours.seattleweekly.com/seattle/find/places/All-Editor+Picks-in-Seattle" target="_self">Happy Hours</a></li>' ); 
-                                                                            });
-                                </script>
-                            </ul>
-                                            </li>
-                                                                <li id="nav-search" class="topMenu">
-                        <a class="top" href="#">&nbsp;</a>
-                        <form id="navSearch" method="get" action="http://www.seattleweekly.com/search/index">                            <input name="keywords" type="text" autocomplete="off" id="searchInput" class="searchInput" value="Search Seattle Weekly"><input type="image" id="searchSubmit" src="http://assets.seattleweekly.com/img/nav_search.jpg">
-                        </form>                                            </li>
-                                                                <li id="nav-arts" class="topMenu menuLi">
-                        <a href="/arts/" class="top" target="_self">Arts</a>                                                    <ul class="mid subNav" id="sub-nav-arts">
-                                <script type="text/javascript">
-                                    $(document).ready( function() {
-                                                                                    $("#sub-nav-arts").append( '<li><a href="/arts" target="_self">Arts Home</a></li>' ); 
-                                                                                    $("#sub-nav-arts").append( '<li><a href="/events/search/category:%5B1058573%5D/" target="_self">Visual Arts</a></li>' ); 
-                                                                                    $("#sub-nav-arts").append( '<li><a href="/events/category/dance-259979/" target="_self">Dance</a></li>' ); 
-                                                                                    $("#sub-nav-arts").append( '<li><a href="/events/category/classical-150732/" target="_self">Classical</a></li>' ); 
-                                                                                    $("#sub-nav-arts").append( '<li><a href="/events/category/books-and-speakers-259981/" target="_self">Books &amp; Authors</a></li>' ); 
-                                                                                    $("#sub-nav-arts").append( '<li><a href="/columns/the-fussy-eye-829348/" target="_self">The Fussy Eye</a></li>' ); 
-                                                                                    $("#sub-nav-arts").append( '<li><a href="http://www.seattleweekly.com/columns/ear-supply-1246778/" target="_self">Ear Supply</a></li>' ); 
-                                                                                    $("#sub-nav-arts").append( '<li><a href="http://artopia.seattleweekly.com" target="_self">Artopia</a></li>' ); 
-                                                                                    $("#sub-nav-arts").append( '<li><a href="http://www.seattleweekly.com/columns/fall-arts-2011-1604360/" target="_self">Fall Arts 2011</a></li>' ); 
-                                                                                    $("#sub-nav-arts").append( '<li><a href="/theater/" target="_self">Theater</a></li>' ); 
-                                                                            });
-                                </script>
-                            </ul>
-                                            </li>
-                                                                <li id="nav-movies" class="topMenu menuLi">
-                        <a href="/movies/" class="top" target="_self">Movies</a>                                                    <ul class="mid subNav" id="sub-nav-movies">
-                                <script type="text/javascript">
-                                    $(document).ready( function() {
-                                                                                    $("#sub-nav-movies").append( '<li><a href="/movies" target="_self">Movies Home</a></li>' ); 
-                                                                                    $("#sub-nav-movies").append( '<li><a href="/movies/showtimes" target="_self">Now Showing</a></li>' ); 
-                                                                                    $("#sub-nav-movies").append( '<li><a href="/movies/theaters" target="_self">Theaters</a></li>' ); 
-                                                                                    $("#sub-nav-movies").append( '<li><a href="/events/category/film-689427/" target="_self">Local Film Events</a></li>' ); 
-                                                                                    $("#sub-nav-movies").append( '<li><a href="/movies/reviews" target="_self">Review Archive</a></li>' ); 
-                                                                                    $("#sub-nav-movies").append( '<li><a href="http://blogs.seattleweekly.com/dailyweekly/siff/" target="_self">SIFF</a></li>' ); 
-                                                                                    $("#sub-nav-movies").append( '<li><a href="http://blogs.seattleweekly.com/dailyweekly/film/" target="_self">Blog</a></li>' ); 
-                                                                                    $("#sub-nav-movies").append( '<li><a href="/adIndex/subcategory/movies-285" target="_self">Movie Ads</a></li>' ); 
-                                                                            });
-                                </script>
-                            </ul>
-                                            </li>
-                                                                <li id="nav-the_ads" class="topMenu menuLi">
-                        <a href="/adindex/" class="top" target="_self">The Ads</a>                                                    <ul class="mid subNav" id="sub-nav-the_ads">
-                                <script type="text/javascript">
-                                    $(document).ready( function() {
-                                                                                    $("#sub-nav-the_ads").append( '<li><a href="/adIndex" target="_self">Ad Index</a></li>' ); 
-                                                                                    $("#sub-nav-the_ads").append( '<li><a href="/flipbook" target="_self">Flip Book</a></li>' ); 
-                                                                                    $("#sub-nav-the_ads").append( '<li><a href="/mediakit" target="_self">Media Kit</a></li>' ); 
-                                                                                    $("#sub-nav-the_ads").append( '<li><a href="http://coupons.seattleweekly.com/seattle/deals/" target="_self">Coupons</a></li>' ); 
-                                                                            });
-                                </script>
-                            </ul>
-                                            </li>
-                                                                <li id="nav-classifieds" class="topMenu menuLi">
-                        <a href="http://seattleweekly.backpage.com/" class="top" target="_self">Classifieds</a>                                                    <ul class="mid subNav" id="sub-nav-classifieds">
-                                <script type="text/javascript">
-                                    $(document).ready( function() {
-                                                                                    $("#sub-nav-classifieds").append( '<li><a href="http://seattleweekly.backpage.com" target="_self">Free Online Classifieds</a></li>' ); 
-                                                                                    $("#sub-nav-classifieds").append( '<li><a href="/classifieds/rentals/" target="_self">Apartment Spaces</a></li>' ); 
-                                                                                    $("#sub-nav-classifieds").append( '<li><a href="http://personals.seattleweekly.com/" target="_self">Personals</a></li>' ); 
-                                                                                    $("#sub-nav-classifieds").append( '<li><a href="http://seattleweekly.trulia.com/WA/Seattle/" target="_self">Real Estate for Sale</a></li>' ); 
-                                                                                    $("#sub-nav-classifieds").append( '<li><a href="/microsites/seattle-weekly-online-career-fair/" target="_self">Jobs</a></li>' ); 
-                                                                                    $("#sub-nav-classifieds").append( '<li><a href="http://personals.seattleweekly.com/blog/index.html" target="_self">Personals Blogs</a></li>' ); 
-                                                                                    $("#sub-nav-classifieds").append( '<li><a href="http://www.seattleweekly.com/microsites/alternativehealing" target="_self">Alternative Healing</a></li>' ); 
-                                                                            });
-                                </script>
-                            </ul>
-                                            </li>
-                                    </ul>
-    </div>
-    <!-- end navMain -->
+        <script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'PT+Sans+Narrow:700:latin' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); 
+  
+</script>
 
-    <!-- start bottomNav -->
-    <div id="navBottom">
-        <ul class="nav">
-                            <li id="nav-blogs" class="bottomMenu menuLi">
-                <a href="http://blogs.seattleweekly.com/" class="bottom" target="_self">Blogs</a>                                            <ul class="mid bottomSubNav" id="bottom-sub-nav-blogs">
-                            <script type="text/javascript">
-                                $(document).ready( function() {
-                                                                            $("#bottom-sub-nav-blogs").append( '<li><a href="http://blogs.seattleweekly.com/dailyweekly/" target="_self">The Daily Weekly</a></li>' ); 
-                                                                            $("#bottom-sub-nav-blogs").append( '<li><a href="http://blogs.seattleweekly.com/reverb/" target="_self">Reverb</a></li>' ); 
-                                                                            $("#bottom-sub-nav-blogs").append( '<li><a href="http://blogs.seattleweekly.com/voracious/" target="_self">Voracious</a></li>' ); 
-                                                                    });
-                            </script>
-                        </ul>
-                                    </li>
-                            <li id="nav-columns" class="bottomMenu menuLi">
-                <a href="/columns/" class="bottom" target="_self">Columns</a>                                            <ul class="mid bottomSubNav" id="bottom-sub-nav-columns">
-                            <script type="text/javascript">
-                                $(document).ready( function() {
-                                                                            $("#bottom-sub-nav-columns").append( '<li><a href="/columns/uptight-seattleite-284118/" target="_self">Uptight Seattleite</a></li>' ); 
-                                                                            $("#bottom-sub-nav-columns").append( '<li><a href="/columns/ask-a-mexican-169253/" target="_self">Ask a Mexican</a></li>' ); 
-                                                                            $("#bottom-sub-nav-columns").append( '<li><a href="/columns/sign-language-160457/" target="_self">Sign Language</a></li>' ); 
-                                                                            $("#bottom-sub-nav-columns").append( '<li><a href="/columns/dategirl-154298/" target="_self">Dategirl</a></li>' ); 
-                                                                            $("#bottom-sub-nav-columns").append( '<li><a href="http://blogs.seattleweekly.com/reverb/krist_novoselic/" target="_self">Krist Novoselic</a></li>' ); 
-                                                                            $("#bottom-sub-nav-columns").append( '<li><a href="http://blogs.seattleweekly.com/reverb/duff_mckagan/" target="_self">Duff McKagan</a></li>' ); 
-                                                                            $("#bottom-sub-nav-columns").append( '<li><a href="http://blogs.seattleweekly.com/reverb/john_roderick_reverb_residency/" target="_self">John Roderick</a></li>' ); 
-                                                                            $("#bottom-sub-nav-columns").append( '<li><a href="/columns/the-fussy-eye-829348/" target="_self">The Fussy Eye</a></li>' ); 
-                                                                    });
-                            </script>
-                        </ul>
-                                    </li>
-                            <li id="nav-best_of" class="bottomMenu menuLi">
-                <a href="/bestOf/" class="bottom" target="_self">Best Of</a>                                            <ul class="mid bottomSubNav" id="bottom-sub-nav-best_of">
-                            <script type="text/javascript">
-                                $(document).ready( function() {
-                                                                            $("#bottom-sub-nav-best_of").append( '<li><a href="/bestof" target="_self">Best Of Home</a></li>' ); 
-                                                                            $("#bottom-sub-nav-best_of").append( '<li><a href="/bestof/2011/section/arts-and-entertainment-338810/" target="_self">Arts &amp; Entertainment</a></li>' ); 
-                                                                            $("#bottom-sub-nav-best_of").append( '<li><a href="/bestof/2011/section/bars-and-clubs-729908/" target="_self">Bars &amp; Clubs</a></li>' ); 
-                                                                            $("#bottom-sub-nav-best_of").append( '<li><a href="/bestof/2011/section/food-and-drink-729913/" target="_self">Food &amp; Drink</a></li>' ); 
-                                                                            $("#bottom-sub-nav-best_of").append( '<li><a href="/bestof/2011/section/people-and-places-729910/" target="_self">People &amp; Places</a></li>' ); 
-                                                                            $("#bottom-sub-nav-best_of").append( '<li><a href="/bestof/2011/section/shopping-and-services-729909/" target="_self">Shopping &amp; Services</a></li>' ); 
-                                                                            $("#bottom-sub-nav-best_of").append( '<li><a href="/bestof/2011/section/sports-and-recreation-338811/" target="_self">Sports &amp; Recreation</a></li>' ); 
-                                                                            $("#bottom-sub-nav-best_of").append( '<li><a href="/bestof/2011/section/readers-choice-339836/" target="_self">Readers&#039; Choice</a></li>' ); 
-                                                                            $("#bottom-sub-nav-best_of").append( '<li><a href="/promotions/mobileApps/" target="_self">Download the App</a></li>' ); 
-                                                                            $("#bottom-sub-nav-best_of").append( '<li><a href="/adIndex/subcategory/best-of-seattle-558" target="_self">Best of Ads</a></li>' ); 
-                                                                    });
-                            </script>
-                        </ul>
-                                    </li>
-                            <li id="nav-barsclubs" class="bottomMenu menuLi">
-                <a href="/directory/clubs/" class="bottom" target="_self">Bars/Clubs</a>                                            <ul class="mid bottomSubNav" id="bottom-sub-nav-barsclubs">
-                            <script type="text/javascript">
-                                $(document).ready( function() {
-                                                                            $("#bottom-sub-nav-barsclubs").append( '<li><a href="/directory/clubs/" target="_self">Bars/Clubs Home</a></li>' ); 
-                                                                            $("#bottom-sub-nav-barsclubs").append( '<li><a href="/adIndex/subcategory/bars-clubs-and-liquor-284" target="_self">Bars/Clubs Ads</a></li>' ); 
-                                                                            $("#bottom-sub-nav-barsclubs").append( '<li><a href="http://coupons.seattleweekly.com/seattle/deals/entertainment/clubs/" target="_self">Bars / Clubs Coupons</a></li>' ); 
-                                                                            $("#bottom-sub-nav-barsclubs").append( '<li><a href="/microsites/divebars/" target="_self">Best Dive Bars</a></li>' ); 
-                                                                            $("#bottom-sub-nav-barsclubs").append( '<li><a href="http://happyhours.seattleweekly.com/seattle/find/places/All-Editor+Picks-in-Seattle" target="_self">Happy Hours</a></li>' ); 
-                                                                    });
-                            </script>
-                        </ul>
-                                    </li>
-                            <li id="nav-archives" class="bottomMenu menuLi">
-                <a href="/search/archive_search/" class="bottom" target="_self">Archives</a>                                            <ul class="mid bottomSubNav" id="bottom-sub-nav-archives">
-                            <script type="text/javascript">
-                                $(document).ready( function() {
-                                                                            $("#bottom-sub-nav-archives").append( '<li><a href="http://www.seattleweekly.com//search/archive_search" target="_self">Advanced Archive Search</a></li>' ); 
-                                                                            $("#bottom-sub-nav-archives").append( '<li><a href="http://www.seattleweekly.com//locations/map" target="_self">Locations Map</a></li>' ); 
-                                                                            $("#bottom-sub-nav-archives").append( '<li><a href="http://www.seattleweekly.com//events/search" target="_self">Event Search</a></li>' ); 
-                                                                    });
-                            </script>
-                        </ul>
-                                    </li>
-                            <li id="nav-mobile" class="bottomMenu menuLi">
-                <a href="/promotions/mobileApps/" class="bottom" target="_self">Mobile</a>                                    </li>
-                            <li id="nav-promotions" class="bottomMenu menuLi">
-                <a href="/promotions/" class="bottom" target="_self">Promotions</a>                                            <ul class="mid bottomSubNav" id="bottom-sub-nav-promotions">
-                            <script type="text/javascript">
-                                $(document).ready( function() {
-                                                                            $("#bottom-sub-nav-promotions").append( '<li><a href="/promotions/freestuff/" target="_self">Free Stuff</a></li>' ); 
-                                                                            $("#bottom-sub-nav-promotions").append( '<li><a href="https://seattleweekly.vvmsecure.com/index.php?cPath=27" target="_self">Online Store</a></li>' ); 
-                                                                            $("#bottom-sub-nav-promotions").append( '<li><a href="http://www.seattleweekly.com/promosites/50-off" target="_self">SW Saves / 50% off</a></li>' ); 
-                                                                            $("#bottom-sub-nav-promotions").append( '<li><a href="/promotions/onsale/" target="_self">Tickets On Sale!</a></li>' ); 
-                                                                            $("#bottom-sub-nav-promotions").append( '<li><a href="http://digitalissue.seattleweekly.com/publication/?i=67630&amp;p=56" target="_self">Spring Green Guide</a></li>' ); 
-                                                                            $("#bottom-sub-nav-promotions").append( '<li><a href="http://www.seattleweekly.com/flipbook/voracious-dining-guide-2011-1277445/" target="_self">Voracious Dining Guide</a></li>' ); 
-                                                                            $("#bottom-sub-nav-promotions").append( '<li><a href="http://www.seattleweekly.com/flipbook/happy-hour-guide-2010-996102/" target="_self">Happy Hour Guide</a></li>' ); 
-                                                                            $("#bottom-sub-nav-promotions").append( '<li><a href="http://www.seattleweekly.com/promosites/gift-guides-2010/" target="_blank">Gift Guides</a></li>' ); 
-                                                                            $("#bottom-sub-nav-promotions").append( '<li><a href="/promotions/events" target="_self">Events</a></li>' ); 
-                                                                            $("#bottom-sub-nav-promotions").append( '<li><a href="http://artopia.seattleweekly.com/" target="_self">Artopia</a></li>' ); 
-                                                                            $("#bottom-sub-nav-promotions").append( '<li><a href="http://microapp.seattleweekly.com/happyhourforhope/" target="_self">Happy Hour for Hope</a></li>' ); 
-                                                                            $("#bottom-sub-nav-promotions").append( '<li><a href="/promotions/streetteams" target="_self">Street Team Slideshows</a></li>' ); 
-                                                                            $("#bottom-sub-nav-promotions").append( '<li><a href="/follow/" target="_self">Follow Us</a></li>' ); 
-                                                                            $("#bottom-sub-nav-promotions").append( '<li><a href="/readers/register" target="_self">Newsletter &amp; Text Sign-Up</a></li>' ); 
-                                                                            $("#bottom-sub-nav-promotions").append( '<li><a href="/samples/readers/" target="_self">Newsletter Samples</a></li>' ); 
-                                                                            $("#bottom-sub-nav-promotions").append( '<li><a href="http://deals.voiceplaces.com/seattle" target="_self">VOICE Daily Deals</a></li>' ); 
-                                                                            $("#bottom-sub-nav-promotions").append( '<li><a href="/promotions/mobileApps/" target="_self">Mobile / Free Apps</a></li>' ); 
-                                                                            $("#bottom-sub-nav-promotions").append( '<li><a href="http://www.urmomcalled.com/" target="_self">URmomcalled</a></li>' ); 
-                                                                            $("#bottom-sub-nav-promotions").append( '<li><a href="http://www.seattleweekly.com/promosites/kraken-rum-beast/" target="_self">Kraken Rum Recipe of the Month</a></li>' ); 
-                                                                            $("#bottom-sub-nav-promotions").append( '<li><a href="/promosites/warren-miller/" target="_self">Warren Miller</a></li>' ); 
-                                                                    });
-                            </script>
-                        </ul>
-                                    </li>
-                            <li id="nav-coupons" class="bottomMenu menuLi">
-                <a href="http://coupons.seattleweekly.com/seattle/deals/" class="bottom" target="_self">Coupons</a>                                            <ul class="mid bottomSubNav" id="bottom-sub-nav-coupons">
-                            <script type="text/javascript">
-                                $(document).ready( function() {
-                                                                            $("#bottom-sub-nav-coupons").append( '<li><a href="http://coupons.seattleweekly.com/seattle/deals/" target="_self">Coupons/Deals Home</a></li>' ); 
-                                                                            $("#bottom-sub-nav-coupons").append( '<li><a href="http://coupons.seattleweekly.com/seattle/deals/entertainment/clubs/" target="_self">Bars/Clubs Coupons</a></li>' ); 
-                                                                            $("#bottom-sub-nav-coupons").append( '<li><a href="http://coupons.seattleweekly.com/seattle/deals/entertainment/" target="_self">Entertainment Coupons</a></li>' ); 
-                                                                            $("#bottom-sub-nav-coupons").append( '<li><a href="http://coupons.seattleweekly.com/seattle/deals/greencard-businesses/?page_size=4" target="_self">Green Coupons</a></li>' ); 
-                                                                            $("#bottom-sub-nav-coupons").append( '<li><a href="http://coupons.seattleweekly.com/seattle/deals/health-beauty/" target="_self">Health &amp; Beauty Coupons</a></li>' ); 
-                                                                            $("#bottom-sub-nav-coupons").append( '<li><a href="http://coupons.seattleweekly.com/seattle/deals/restaurants/" target="_self">Restaurants Coupons</a></li>' ); 
-                                                                            $("#bottom-sub-nav-coupons").append( '<li><a href="http://coupons.seattleweekly.com/seattle/deals/retail/" target="_self">Retail Coupons</a></li>' ); 
-                                                                            $("#bottom-sub-nav-coupons").append( '<li><a href="http://coupons.seattleweekly.com/seattle/deals/services/" target="_self">Services Coupons</a></li>' ); 
-                                                                            $("#bottom-sub-nav-coupons").append( '<li><a href="http://deals.voiceplaces.com/seattle" target="_self">VOICE Daily Deals</a></li>' ); 
-                                                                    });
-                            </script>
-                        </ul>
-                                    </li>
-                    </ul>
+ 
+ <div class="newNavBar" id="newNavBar">
+ 
+  <div class="newNav mmj">
+    <form action="http://www.seattleweekly.com/search/index/" id="navSearch" onsubmit="resetUrlContext();navSearchSubmit(event);" method="get" accept-charset="utf-8">               
+    <input name="keyword" type="text" autocomplete="off" class="text" id="searchInput" value="Search">    <input type="submit" value="" class="submit">        <div class="filterSearch">
+        <input type="hidden" id="filterSearchVal" name="type" value="all">    
+            <ul>
+                <li id="search-all" class="active">Entire Site</li>
+                <li id="search-articles">Articles &amp; Blogs</li>
+                <li id="search-restaurants">Restaurants</li>
+                <li id="search-locations">Places</li>
+                <li id="search-events">Events</li>
+                <li id="search-music">Music</li>
+                <li id="search-images">Images</li>
+                <li id="search-ads" class="moreSearch">Ads</li>
+                <li id="search-bars" class="moreSearch">Bars</li>
+                <li id="search-bestof" class="moreSearch">Best Of</li>
+                <li id="search-movies" class="moreSearch">Movies</li>
+            </ul>
+        </div>
+   </form><a id="tn1" href="/news/" tabindex="1" data-id="news" alt=""><img src="/img/newNav-news.png" alt="NEWS"></a><a id="tn2" href="/calendar/" tabindex="2" data-id="calendar" alt=""><img src="/img/newNav-calendar.png" alt="CALENDAR"></a><a id="tn3" href="/music/" tabindex="3" data-id="music" alt=""><img src="/img/newNav-music.png" alt="MUSIC"></a><a id="tn4" href="/restaurants/" tabindex="4" data-id="restaurants" alt=""><img src="/img/newNav-restaurants.png" alt="RESTAURANTS"></a><a id="tn5" href="/arts/" tabindex="5" data-id="arts" alt=""><img src="/img/newNav-arts.png" alt="ARTS"></a><a id="tn6" href="/movies/" tabindex="6" data-id="film" alt=""><img src="/img/newNav-film.png" alt="FILM"></a><a id="tn7" href="/bestof/" tabindex="7" data-id="bestof" alt=""><img src="/img/newNav-bestof.png" alt="BEST OF"></a><a id="tn8" href="/promotions/" tabindex="8" data-id="promotions" alt=""><img src="/img/newNav-promotions.png" alt="PROMOTIONS"></a><a id="tn9" href="http://seattleweekly.backpage.com" tabindex="9" data-id="classifieds" alt=""><img src="/img/newNav-classifieds.png" alt="CLASSIFIEDS"></a><a id="tn10" href="/directory/marijuana-dispensaries/" tabindex="10" data-id="mmj" alt=""><img src="/img/newNav-mmj.png" alt="MMJ"></a>  </div>
+  
+ 
+ <div class="newSubNav" id="nsnews">
+<a href="/news/" target="_self">News Home</a><a href="http://blogs.seattleweekly.com/dailyweekly/" target="_self">The Daily Weekly</a><a href="/columns/dategirl-154298/" target="_self">Dategirl</a><a href="/2011-09-21/news/war-isn-t-over-remembering-washington-s-war-dead/" target="">War Dead</a><a href="/search/archive_search/" target="_self">Archives Search</a><a href="/flipbook/" target="_self">Seattle Weekly Flipbook</a><a href="/samples/readers/?source_id=8|50|344" target="_self">Weekly Newsletter</a><a href="/promotions/mobileApps/" target="_self">Get Mobile</a><div class="socialButtons">
+    <a href="/follow/">
+     <img src="/img/icon-16-facebook.png" alt="Facebook" title="Facebook">
+     <img src="/img/icon-16-twitter.png" alt="Twitter" title="Twitter">
+     <img src="/img/icon-16-foursquare.png" alt="Foursquare" title="Foursquare">
+    </a>
     </div>
-    <!-- end navSub -->
-</div>
-<!-- end nav -->
-<div class="ClearIt"></div>
-<!-- !p/af/v/navigation/index -->
+   <div class="subContent"></div>
+   <div class="sde"></div>
+  </div>
+ 
+ <div class="newSubNav" id="nscalendar">
+<a href="/calendar/" target="_self">Calendar Home</a><a href="/events/search/" target="_self">Top Picks</a><a href="/feedback/SubmitAnEvent/" target="_self">Submit an Event</a><a href="/samples/readers/?source_id=8|50|345" target="_self">Events Newsletter</a><a href="/promotions/mobileApps/" target="_self">Get Mobile</a><a href="/adIndex/category/entertainment-52/" target="_self">Entertainment Ads</a><div class="socialButtons">
+    <a href="/follow/">
+     <img src="/img/icon-16-facebook.png" alt="Facebook" title="Facebook">
+     <img src="/img/icon-16-twitter.png" alt="Twitter" title="Twitter">
+     <img src="/img/icon-16-foursquare.png" alt="Foursquare" title="Foursquare">
+    </a>
+    </div>
+   <div class="subContent"></div>
+   <div class="sde"></div>
+  </div>
+ 
+ <div class="newSubNav" id="nsmusic">
+<a href="/music/" target="_self">Music Home</a><a href="http://blogs.seattleweekly.com/reverb/" target="_self">Reverb</a><a href="http://blogs.seattleweekly.com/reverb/duff_mckagan/" target="_self">Duff McKagan</a><a href="http://microapp.seattleweekly.com/reverb/reverbmonthly/" target="">Reverb Monthly</a><a href="/concerts/" target="_self">Concert Calendar</a><a href="/directory/clubs/" target="_self">Bars &amp; Clubs</a><a href="/feedback/SubmitAnEvent/" target="_self">Submit an Event</a><a href="/samples/readers/?source_id=8|50|346" target="_self">Music Newsletter</a><a href="/promotions/mobileApps/" target="_self">Get Mobile</a><a href="/adIndex/subcategory/concerts-festivals-and-events-286/" target="_self">Music Ads</a><div class="socialButtons">
+    <a href="/follow/">
+     <img src="/img/icon-16-facebook.png" alt="Facebook" title="Facebook">
+     <img src="/img/icon-16-twitter.png" alt="Twitter" title="Twitter">
+     <img src="/img/icon-16-foursquare.png" alt="Foursquare" title="Foursquare">
+    </a>
+    </div>
+   <div class="subContent"></div>
+   <div class="sde"></div>
+  </div>
+ 
+ <div class="newSubNav" id="nsrestaurants">
+<a href="/restaurants/" target="_self">Restaurants Home</a><a href="http://blogs.seattleweekly.com/voracious/" target="_self">Voracious</a><a href="/restaurants/search/" target="_self">Find a Restaurant</a><a href="http://www.voiceplaces.com/restaurants/menus/market:seattle/" target="_self">Menus</a><a href="http://happyhours.seattleweekly.com/seattle/find/places" target="_self">Happy Hours</a><a href="http://coupons.seattleweekly.com/categories/25-restaurants/offers" target="_self">Deals</a><a href="/samples/readers/?source_id=8|50|347" target="_self">Dining Newsletter</a><a href="/promotions/mobileApps/" target="_self">Get Mobile</a><a href="/adIndex/subcategory/restaurant-ads-479/" target="_self">Restaurant Ads</a><div class="socialButtons">
+    <a href="/follow/">
+     <img src="/img/icon-16-facebook.png" alt="Facebook" title="Facebook">
+     <img src="/img/icon-16-twitter.png" alt="Twitter" title="Twitter">
+     <img src="/img/icon-16-foursquare.png" alt="Foursquare" title="Foursquare">
+    </a>
+    </div>
+   <div class="subContent"></div>
+   <div class="sde"></div>
+  </div>
+ 
+ <div class="newSubNav" id="nsarts">
+<a href="/arts/" target="_self">Arts Home</a><a href="/theater/" target="_self">Theater</a><a href="/samples/readers/?source_id=8|50|348" target="_self">Arts Newsletter</a><a href="/promotions/mobileApps/" target="_self">Get Mobile</a><a href="/adIndex/category/entertainment-52/" target="_self">Entertainment Ads</a><div class="socialButtons">
+    <a href="/follow/">
+     <img src="/img/icon-16-facebook.png" alt="Facebook" title="Facebook">
+     <img src="/img/icon-16-twitter.png" alt="Twitter" title="Twitter">
+     <img src="/img/icon-16-foursquare.png" alt="Foursquare" title="Foursquare">
+    </a>
+    </div>
+   <div class="subContent"></div>
+   <div class="sde"></div>
+  </div>
+ 
+ <div class="newSubNav" id="nsfilm">
+<a href="/movies/" target="_self">Film Home</a><a href="/movies/theaters/" target="_self">Showtimes</a><a href="/filmpoll/" target="_self">Film Poll 2011</a><a href="http://blogs.laweekly.com/arts/sundance/" target="_self">Film Festivals</a><a href="/promotions/mobileApps/" target="_self">Get Mobile</a><a href="/promotions/freestuff/" target="_self">Free Stuff</a><div class="socialButtons">
+    <a href="/follow/">
+     <img src="/img/icon-16-facebook.png" alt="Facebook" title="Facebook">
+     <img src="/img/icon-16-twitter.png" alt="Twitter" title="Twitter">
+     <img src="/img/icon-16-foursquare.png" alt="Foursquare" title="Foursquare">
+    </a>
+    </div>
+   <div class="subContent"></div>
+   <div class="sde"></div>
+  </div>
+ 
+ <div class="newSubNav" id="nsbestof">
+<a href="/bestof/" target="_self">Best Of Home</a><a href="/bestOf/index/2011/" target="_self">2011</a><a href="/bestOf/index/2010/" target="_self">2010</a><a href="/bestOf/index/2009/" target="_self">2009</a><a href="/bestOf/index/2008/" target="_self">2008</a><a href="/samples/readers/?source_id=8|50|350" target="_self">Best Of Newsletter</a><a href="/promotions/mobileApps/" target="_self">Get Mobile</a><a href="/adIndex/subcategory/best-of-seattle-558/" target="_self">Best Of Ads</a><div class="socialButtons">
+    <a href="/follow/">
+     <img src="/img/icon-16-facebook.png" alt="Facebook" title="Facebook">
+     <img src="/img/icon-16-twitter.png" alt="Twitter" title="Twitter">
+     <img src="/img/icon-16-foursquare.png" alt="Foursquare" title="Foursquare">
+    </a>
+    </div>
+   <div class="subContent"></div>
+   <div class="sde"></div>
+  </div>
+ 
+ <div class="newSubNav" id="nspromotions">
+<a href="/promotions/" target="_self">Promotions Home</a><a href="/promotions/events" target="_self">Promotional Events</a><a href="/promotions/streetteams/" target="_self">Street Team</a><a href="/promotions/freestuff/" target="_self">Free Stuff</a><a href="http://www.seattleweekly.com/promotions/onsale/" target="_self">On Sale Now</a><a href="http://www.seattleweekly.com/promosites/50-off/" target="_self">SW Saves</a><a href="http://www.seattleweekly.com/flipbook/happy-hour-guide-2011-1344260/" target="">2011 Happy Hour Guide</a><a href="/samples/readers/?source_id=8|50|351" target="_self">Newsletters &amp; Texts</a><a href="/promotions/mobileApps/" target="_self">Get Mobile</a><a href="http://coupons.seattleweekly.com/" target="_self">Deals</a><div class="socialButtons">
+    <a href="/follow/">
+     <img src="/img/icon-16-facebook.png" alt="Facebook" title="Facebook">
+     <img src="/img/icon-16-twitter.png" alt="Twitter" title="Twitter">
+     <img src="/img/icon-16-foursquare.png" alt="Foursquare" title="Foursquare">
+    </a>
+    </div>
+   <div class="subContent"></div>
+   <div class="sde"></div>
+  </div>
+ 
+ <div class="newSubNav" id="nsclassifieds">
+<a href="http://posting.seattleweekly.backpage.com/online/classifieds/PostAdPPI.html/sws/seattleweekly.backpage.com/" target="_blank">Post an Ad</a><a href="http://seattleweekly.backpage.com/employment/" target="_self">Jobs</a><a href="http://seattleweekly.backpage.com/realestate/" target="_self">Real Estate</a><a href="/adIndex/" target="_self">Advertiser Index</a><a href="http://coupons.seattleweekly.com/" target="_self">Deals</a><a href="/samples/readers/?source_id=8|50|352" target="">Deals Newsletter</a><a href="/microsites/alternativehealing/" target="_self">Alternative Healing</a><div class="socialButtons">
+    <a href="/follow/">
+     <img src="/img/icon-16-facebook.png" alt="Facebook" title="Facebook">
+     <img src="/img/icon-16-twitter.png" alt="Twitter" title="Twitter">
+     <img src="/img/icon-16-foursquare.png" alt="Foursquare" title="Foursquare">
+    </a>
+    </div>
+   <div class="subContent"></div>
+   <div class="sde"></div>
+  </div>
+ 
+ <div class="newSubNav" id="nsmmj">
+<a href="/directory/marijuana-dispensaries/" target="">MMJ Home</a><a href="http://blogs.seattleweekly.com/dailyweekly/marijuana/" target="">MMJ News</a><a href="http://blogs.seattleweekly.com/dailyweekly/toke_signals/marijuana_1/" target="">Toke Signals</a><a href="/directory/marijuana-dispensaries/" target="">Dispensary Guide</a><a href="http://www.seattleweekly.com/microsites/alternativehealing/" target="">Alternative Healing</a><div class="socialButtons">
+    <a href="/follow/">
+     <img src="/img/icon-16-facebook.png" alt="Facebook" title="Facebook">
+     <img src="/img/icon-16-twitter.png" alt="Twitter" title="Twitter">
+     <img src="/img/icon-16-foursquare.png" alt="Foursquare" title="Foursquare">
+    </a>
+    </div>
+   <div class="subContent"></div>
+   <div class="sde"></div>
+  </div>
+ </div>
+ 
+<script type="text/javascript">
+ //<![CDATA[
+   var navLoaded = [];
+   var navLoading = [];
+//   $(document).ready(function(){
+       $('.newNav a').mouseover(function() {
+           var navid = $(this).attr('data-id');
+           if(navid)
+           {
+               $(".newSubNav").hide();
+               $('.newNav a').removeClass("opened");
+               $('#ns' + navid).css('display', 'block');
+               $(this).addClass("opened");
+               if (navLoaded[navid] == undefined) {
+                   navLoaded[navid] = false;
+               }
+               if (navLoading[navid] == undefined) {
+                   navLoading[navid] = false;
+               }
+               if (!navLoaded[navid] && !navLoading[navid]) {
+                   navLoading[navid] = true;
+                   $.ajax({
+                       url:'/navigation/subNavAjax/section:'+navid+'/',
+                       success: function(data){
+                           navLoading[navid] = false;
+                           navLoaded[navid] = true;
+                           $('#ns'+navid+' .subContent').html(data);
+
+                           $('a','#ns'+navid+' .subContent').each(function(){
+                               if(/=/.test(this.href)){
+                                 this.href += '&ref=navigation';  
+                               } else {
+                                 this.href += '?ref=navigation';
+                               }
+                           })
+                       
+                           
+                       },
+                       error: function(){
+                           navLoading[navid] = false;
+                           $('#ns'+navid+' .subContent').html('Problem loading data, please try again.');
+                       }
+                   });
+               }
+           }
+      });
+      
+      $('div.newNavBar').mouseleave(function() {
+          $(".newSubNav").hide();
+          $('.newNav a').removeClass("opened");
+      });
+      
+  
+   $('a','#newNavBar').each(function(){
+       if(/=/.test(this.href)){
+         this.href += '&ref=navigation';  
+       } else {
+         this.href += '?ref=navigation';
+       }
+   })
+
+//   });
+ //]]>
+</script>
+
+<script type="text/javascript"> 
+//ipad, ipod, and iphone fix because hover don't exist in a touchscreen world
+if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i)) || (navigator.userAgent.match(/iPad/i))) {
+ var menuItems=10;
+ for(fixId=1;fixId<=menuItems;fixId++){
+    document.getElementById("tn"+fixId).href="#"; 
+ }
+}  
+</script> 
+
+ <!-- end newNavBar -->
     </div>
 
     <!-- NOGSA -->
 <div class="Ads" id="Middle3">
-    <script language="JavaScript">
+    <script type="text/javascript">
         <!--
         OAS_AD('Middle3');
         //-->
@@ -339,15 +362,16 @@
 </div>
 <!-- /NOGSA -->
     <div class="Content">
+        <div class="innerBody">
          <div class="backbox about "><div class="widget trackme" name="PrivacyPolicy"><div class="content_area chisel_u">
 <h2>Privacy Policy</h2>
 <div class="PrivacyPolicy">
     <h3>Seattle Weekly, LLC</h3>
-    <p>This Privacy Policy is effective as of June 28, 2010.</p>
+    <p>This Privacy Policy is effective as of February 15, 2012.</p>
 
-	<p>This Privacy Policy describes the practices that Seattle Weekly, LLC ("Seattle Weekly") follows with respect to the collection, maintenance and use of information submitted on seattleweekly.com (the "Site").  This Privacy Policy applies only to information we collect from this Site, and does not apply to any other website or business activity of Seattle Weekly.  By using our Site, and/or providing information to us, you consent to the collection, maintenance and use of this information by us. </p> 
+	<p>This Privacy Policy describes the practices that Seattle Weekly, LLC ("Seattle Weekly") follows with respect to the collection, maintenance and use of information submitted on seattleweekly.com (the "Site").  This Privacy Policy applies only to information we collect from this Site, and does not apply to any other website or business activity of Seattle Weekly.  By using our Site, and/or providing information to us, you consent to the collection, maintenance and use of this information by us.</p>   
 
-	<p>If you do not agree to the terms of this Privacy Policy, please do not use the Site and exit immediately. We reserve the right to modify or amend the terms of this Privacy Policy from time to time. Your continued use of the Site following the posting of changes to these terms means that you accept those changes.  We will give you notice of the revised Privacy Policy by posting the revised policy on the Site and by revising the "effective date" set forth above.</p>
+<p>If you do not agree to the terms of this Privacy Policy, please do not use the Site and exit immediately. We reserve the right to modify or amend the terms of this Privacy Policy from time to time. Your continued use of the Site following the posting of changes to these terms means that you accept those changes.  We will give you notice of the revised Privacy Policy by posting the revised policy on the Site and by revising the "effective date"  set forth above.</p>
 
  
     
@@ -356,90 +380,98 @@
 	<p>We collect and maintain personally identifiable information and automatic information.</p>
 
     
-    <h4>Personally Identifiable Information</h4>
-   <p>"Personally identifiable information" is information that tells us who you are, such as your name, screen name, email address, postal address, phone number, credit card information, birth date/year and gender. </p>
+    <h3>Personally Identifiable Information</h3>
+   <p>"Personally identifiable information" is information that tells us who you are, such as your name, screen name, email address, postal address, phone number, credit card information, birth date/year and gender.</p>
+ 
+<p>Seattle Weekly collects and maintains personally identifiable information about you only when you provide it to us. For example, we may collect and maintain personally identifiable information about you when you register for or participate in contests, sweepstakes, promotions, polls, surveys, newsletters and text messages (including contests, sweepstakes, promotions, polls, surveys, newsletters and text messages of certain third parties).  We may also collect and maintain personally identifiable information when you post an ad, submit comments to the Site or letters to the editor, submit events for inclusion on our Site, purchase event tickets from us, or otherwise provide it to us when you contact us.</p>
 
-	<p>Seattle Weekly collects and maintains personally identifiable information about you only when you provide it to us. For example, we may collect and maintain personally identifiable information about you when you register for or participate in contests, sweepstakes, promotions, polls, surveys, newsletters and text messages (including contests, sweepstakes, promotions, polls, surveys, newsletters and text messages of certain third parties).  We may also collect and maintain personally identifiable information when you post an ad, submit comments to the Site or letters to the editor, submit events for inclusion on our Site, purchase event tickets from us, or otherwise provide it to us when you contact us.</p>
-
-	<p>If you do not provide information to us, you may be unable to use certain features of the Site.  For example, you cannot post comments in connection with certain articles or register for the Site, contests, surveys or newsletters unless you provide certain information.  Also, you will not be able to submit events for inclusion on our Site or purchase event tickets if you do not provide certain information.</p>
+<p>If you do not provide information to us, you may be unable to use certain features of the Site.  For example, you cannot post comments in connection with certain articles or register for the Site, contests, surveys or newsletters unless you provide certain information.  Also, you will not be able to submit events for inclusion on our Site or purchase event tickets if you do not provide certain information.</p>
 
 
 
     <h3>Automatic Information and Cookies</h3>
-    <p>"Automatic information" is information automatically collected by our web server (which may be hosted by a third party) that your web browser makes available whenever you visit our Site, such as your browser type and capabilities, network properties, the site that you visited before viewing our Site, content viewed on the Site, and your geographic location.  We maintain such data in aggregated form; it is not associated with your IP address or personally identifiable information.</p>  
+    <p>"Automatic information" is information automatically collected whenever you visit our site.  For example, automatic information includes information collected by our web server (which may be hosted by a third party) that your web browser makes available whenever you visit our Site, such as your browser type and capabilities, network properties, the site that you visited before viewing our Site, content viewed on the Site, and your geographic location.  We currently use, or may use, such information in various ways:</p>  
 
-	<p>IP address tracking: All computers and servers on the Internet use IP addresses to recognize and communicate with each other. We collect and maintain IP addresses to administer and analyze our Site and report aggregate information (such as how many visitors we have and how many visitors see and click on particular advertisements).</p>  
+<p>Aggregated data: We maintain automatic information in aggregated form, not associated with your IP address or personally identifiable information. </p>
+
+	<p>IP address tracking: All computers and servers on the Internet use IP addresses to recognize and communicate with each other. We collect and maintain IP addresses to administer and analyze our Site and report aggregate information (such as how many visitors we have and how many visitors see and click on particular advertisements). </p>  
 
 	<p>We may associate your IP address with your personally identifiable information and may maintain, use and disclose such information in accordance with the terms of this Privacy Policy below.</p> 
 
-	<p>Cookies: This Site also uses "cookies."  "Cookies" are small text files that allow websites to store and retrieve information about you from your computer system. Seattle Weekly does serve cookies to track individual site usage for later aggregation, but does not use cookies in order to retrieve any information from your computer other than information originally sent in a Seattle Weekly cookie, such as a user code. We have no control over whether and how our advertisers use cookies that originate from their website or other websites. You are always free to decline our cookies if your browser permits, but you may not be able to take full advantage of our Site's features if you do.</p>  
+	<p>Cookies: This Site uses "cookies." "Cookies" are small text files that allow websites to store and retrieve information about you from your computer system. Seattle Weekly does serve cookies to track individual site usage for later aggregation and for other purposes explained in this policy.  You are always free to decline our cookies if your browser permits, but you may not be able to take full advantage of our Site's features if you do. </p>
+ 
+<p>We do not and cannot use cookies or IP address tracking to retrieve personally identifiable information from your computer.</p>
 
-	<p>We do not and cannot use cookies or IP address tracking to retrieve personally identifiable information from your computer.</p> 
+<p>Online Behavioral Advertising. Seattle Weekly may tailor advertisements on the Site to a user's apparent interests, based on user browsing activity.  That is, ads may be displayed for you on the Site based on the pages and content that you view.  This is sometimes known as first-party online behavioral advertising.  Also, your viewing activity on the Site may be shared with advertising networks, so that they can display ads for you, which they believe will interest you, on other sites, not affiliated with Seattle Weekly.  This is sometimes known as third-party online behavioral advertising.  Seattle Weekly attempts to deal with advertising networks that are members of the Network Advertising Initiative or the Digital Advertising Alliance, but at times ad networks that are not NAI or DAA participants may have access to your activity on the Site, and hence may use that information in connection with displaying ads to you on other sites. </p>
 
+<p>Advertising networks that are members of Network Advertising Initiative or that participate in the Digital Advertising Alliance have subscribed to certain principles relating to collection and use of information, and may permit users to direct whether or how information about their viewing activities are used for advertising purposes.  To register your preferences or choices, or to opt out of behavioral advertising offered by participants in these programs, visit http://www.networkadvertising.org or http://www.aboutads.info.</p>
+
+<p>If you change browsers or computers, or delete the cookies on your computer, you may need to re-enter your preferences or opt-out.</p>
+
+<p>Web Beacons:  The Site uses web beacons, which provide website operators and third parties a means to deliver a graphic image on a web page or in an email message for the purpose of gathering data.  The Site uses web beacons to gather automatic information such as the duration of a visit to the Site, the web pages viewed, a user's geographical information (e.g., city, state, zip code), IP address, and type of web browser.</p>
 
 	<h3>Use and Disclosure of Information</h3> 
 
-	<p>We maintain and use personally identifiable information for the purpose or purposes for which it is provided.  For example, we may maintain and use personally identifiable information to send newsletters and text messages that you have opted to receive; to establish your online account and recognize you when you return to the Site; to contact you regarding contests, promotions, polls, and surveys; to complete the sale of event tickets; to provide customer support; or to otherwise communicate with you regarding our Site, an ad you posted, an event you submitted to the Site, or your comments or letters to the editor.</p>  
+	<p>We maintain and use personally identifiable information for the purpose or purposes for which it is provided and for purposes specified in this Privacy Policy.  For example, we may maintain and use personally identifiable information to send newsletters and text messages that you have opted to receive; to establish your online account and recognize you when you return to the Site; to contact you regarding contests, promotions, polls, and surveys; to complete the sale of event tickets; to provide customer support; or to otherwise communicate with you regarding our Site, an ad you posted, an event you submitted to the Site, or your comments or letters to the editor. </p>  
 
 	<p>We may also maintain and use your personally identifiable information to attribute your comments, letters to the editor and/or other submissions to the Site to you.  As has traditionally been the case with our print editions, we may require that you supply certain information to us (such as your real name, daytime telephone number and/or e-mail address) in connection with comments and other submissions to the Site.  That is because we may need to contact you, and because your identity may be important to understand your point of view. If you send us comments or other submissions, we reserve the right to publish them in print or display them on this Site in full or in edited form. We normally honor requests to withhold your name and address when provided in connection with comments and other submissions, both in print and on-line, but we reserve the right to use, discuss and report facts that we consider newsworthy relating to submissions even if it might reveal or tend to reveal the poster's identity.</p>
 
-	<p>From time to time, we may send you information with announcements and updates about the Site and Seattle Weekly and our partners. </p> 
+	<p>We may combine personally identifiable information and automatic information we obtain from you or your activities with other data concerning or relating to the behavioral and demographic attributes of our customers, in order to identify our best customers, reach them effectively, understand their interests and best manage our relationships with them.</p>
+ 
+<p>We may also use personally identifiable information to send you advertisements, promotions and information about the Site, Seattle Weekly and our partners. </p> 
 
-	<p>We may disclose personally identifiable information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may have breached our Terms of Use or who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other users of our Site, or anyone else who could be harmed by such activities.  We may also disclose personally identifiable information when we reasonably believe that the law requires it.  </p>
+	<p>We may disclose personally identifiable information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may have breached our Terms of Use or who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other users of our Site, or anyone else who could be harmed by such activities.  We may also disclose personally identifiable information when we reasonably believe that the law requires it. </p>
 
-	<p>If you chose to provide your personally identifiable information for the purposes of a third-party contest, promotion, poll, survey or newsletter, your personally identifiable information will be given to Seattle Weekly and to the third-party advertiser/sponsor involved with the relevant contest, promotion, poll, survey or newsletter and/or its agents and affiliates.  To the extent the contest, promotion, poll, survey or newsletter has its own terms that conflict with the terms of this Privacy Policy, the terms of the contest, promotion, poll, survey, or newsletter govern. </p>
+	<p>If you chose to provide your personally identifiable information for the purposes of a third-party contest, promotion, poll, survey or newsletter, your personally identifiable information will be given to Seattle Weekly and to the third-party advertiser/sponsor involved with the relevant contest, promotion, poll, survey or newsletter and/or its agents and affiliates.  For rules or requirements for contests, promotions, polls, surveys and/or newsletters, please see the applicable page on our Site. </p>
 
-	<p>We occasionally have third party agents, subsidiaries, affiliates and joint ventures that perform functions on our behalf, such as credit card processing, shipping or stocking orders, providing customer service, etc. They are provided access to personal information needed to perform their functions. </p>
+	<p>We occasionally have third party agents, subsidiaries, affiliates and joint ventures that perform functions on our behalf, such as credit card processing, shipping or stocking orders, providing customer service, data combination, etc. They are provided access to personally identifiable information needed to perform their functions.</p>
+	
+	<p>In the event of a sale of Seattle Weekly or a sale of substantially all Seattle Weekly assets, personally identifiable information may be one of the business assets transferred or sold.</p>
 
-	<p>In the event of a sale of Seattle Weekly or a sale of substantially all Seattle Weekly' assets, personally identifiable information may be one of the business assets transferred or sold. </p>
+	<p>We may maintain and use automatic information to track how our visitors use the Site, study traffic patterns, and run and maintain the site, and we and other third parties may provide targeted advertisements to you based on such data. </p>
 
-	<p>We may maintain and use automatic information to track how our visitors use the Site, study traffic patterns, and run and maintain the site, and may provide targeted advertisements to you based on such data.  </p>
-
-	<p>Although we do not currently engage in such practices, Seattle Weekly may in the future disclose automatic information to advertising networks that may use such information in connection with erecting and displaying targeted advertisements both on our website and on unaffiliated websites.</p>
-
-	<p>We may share aggregated data with our advertisers.</p>
+	<p>We may share aggregated data with our advertisers and other marketing and business partners.</p>
 
 	<p>This Privacy Policy does not apply to any information you choose to make public. </p>
 
 	<h3>Opt-Out</h3>
 
-	<p>You may terminate any ongoing communications you receive from Seattle Weekly via e-mail (such as newsletters, subscriptions, contest results, survey inquiries, etc.) by (1) clicking the "unsubscribe" link that is available within the communication received, or (2) through your online profile.</p>  
+	<p>You may terminate any ongoing communications you receive from Seattle Weekly via e-mail (such as newsletters, subscriptions, contest results, survey inquiries, etc.) by (1) clicking the "unsubscribe" link that is available within the communication received, or (2) through your online profile. </p>  
 
 
 
     <h3>Children</h3>
-    <p>Some of the material on this Site is for mature audiences, and parents and guardians should take responsibility for monitoring their children's use of the Site.  Children under the age of 13 should not use this Site. We do not intentionally collect personally identifiable information from users of the Site who are under the age of thirteen.</p>  
+    <p>Some of the material on this Site is for mature audiences, and parents and guardians should take responsibility for monitoring their children's use of the Site.  Children under the age of 13 should not use this Site. We do not intentionally collect personally identifiable information from users of the Site who are under the age of thirteen. </p>  
     
 
     <h3>Links to Other Sites</h3>
-    <p>This Site provides links to websites maintained by other organizations. Seattle Weekly provides these links as a convenience to users, but it does not operate, control or endorse such sites. Seattle Weekly also disclaims any responsibility for the information on those sites and any products or services offered on such sites.  Please review the privacy policies of these sites.  Seattle Weekly is not responsible for any actions or policies of such third parties, and does not make any warranties or representations that any linked sites (or even this Site) will function without error or interruption, that defects will be corrected, or that the sites and their servers are free of viruses and other problems that can harm your computer. Seattle Weekly disclaims any responsibility for transactions conducted on those sites and cannot vouch for the security of the information submitted in those transactions.  </p>
+    <p>This Site provides links to websites maintained by other organizations. Seattle Weekly provides these links as a convenience to users, but it does not operate, control or endorse such sites. Seattle Weekly also disclaims any responsibility for the information on those sites and any products or services offered on such sites.  Please review the privacy policies of these sites.  Seattle Weekly is not responsible for any actions or policies of such third parties, and does not make any warranties or representations that any linked sites (or even this Site) will function without error or interruption, that defects will be corrected, or that the sites and their servers are free of viruses and other problems that can harm your computer. Seattle Weekly disclaims any responsibility for transactions conducted on those sites and cannot vouch for the security of the information submitted in those transactions. </p>
 
     <h3>E-Commerce and Our Secure Server</h3>
-    <p>We use reasonable efforts to protect your personally identifiable information from unauthorized use or disclosure. Unfortunately, information transmitted on the Internet and/or stored on systems attached to the Internet are not 100% secure.  As a result, we do not ensure, warrant or guarantee the security or integrity of such information.  We will not be responsible for disclosure of any information due to errors in transmission or the unauthorized acts of third parties. </p>
+    <p>We use reasonable efforts to protect your personally identifiable information from unauthorized use or disclosure. Unfortunately, information transmitted on the Internet and/or stored on systems attached to the Internet are not 100% secure.  As a result, we do not ensure, warrant or guarantee the security or integrity of such information.  We will not be responsible for disclosure of any information due to errors in transmission or the unauthorized acts of third parties.</p>
 
 
     <h3>Updates and Changes to Your Information.</h3>
     
-    
-	<p>If your personally identifiable information changes, you may correct and/or update it by sending us an email at <a href="mailto:community@seattleweekly.com">community@seattleweekly.com</a>.  You may also view, correct and/or update your personally identifiable information by accessing your profile on the Site.  </p>
+    <p>If your personally identifiable information changes, you may correct and/or update it by sending us an email at <a href="mailto:community@seattleweekly.com">community@seattleweekly.com</a>.  You may also view, correct and/or update your personally identifiable information by accessing your profile on the Site. </p>
 
 
     <h3>More Questions? </h3>
 
-	<p>If you have any questions about this privacy policy, please e-mail them to <a href="mailto:privacyadministrator@villagevoicemedia.com">privacyadministrator@villagevoicemedia.com</a>, and be sure to indicate the specific site you are visiting and the nature of your question or concern.</p> 
+<p>If you have any questions about this privacy policy, please e-mail them to <a href="mailto:privacyadministrator@villagevoicemedia.com">privacyadministrator@villagevoicemedia.com</a>, and be sure to indicate the specific site you are visiting and the nature of your question or concern.</p> 
 
 
 </div>
-</div></div><div class="right_content basic "><div class="widget trackme" name="VoiceDealOfTheDayWidget"><div class="chisel_u r_ad_box">
+</div></div><div class="right_content basic "><div class="widget trackme" name="DailyDeals"><div class="chisel_u r_ad_box">
     <div class="VoiceDealOfTheDayImage">
-        <a href="http://www.voicedailydeals.com/seattle/?utm_source=seattleweekly&amp;utm_medium=widget&amp;utm_campaign=vdotd-seattle" target="_blank">
-            <img src="http://media.seattleweekly.com/7394745.0.jpg" alt="VOICE Daily Deals">
+        <a href="http://www.voicedailydeals.com/seattle/?utm_source=seattleweekly&amp;utm_medium=vdd-widget-sew&amp;utm_campaign=vddw-sew-home" target="_blank">
+            <img src="http://media.seattleweekly.com/7886413.0.gif" alt="VOICE Daily Deals">
         </a>
     </div>
 </div></div><div class="ClearIt "></div>
 <div class="chisel_u r_ad_box "><!-- NOGSA -->
 <div class="Ads" id="Middle">
-    <script language="JavaScript">
+    <script type="text/javascript">
         <!--
         OAS_AD('Middle');
         //-->
@@ -477,18 +509,18 @@ tabs.addTab('eMailed','mostEmailed',0);
             <ul>
                                                                  <li class="story">
                 <div class="popRating">
-                <span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>                </div>
-                <a href="/2011-10-12/news/king-county-s-growing-latino-gangs-problem/" class="headline">King County's Growing Latino Gang Problem</a>                <div class="subHeadline">Why the answer to this "war" is a tatted-up ex-con named Mr. Buzzard.</div>
+                <span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>                </div>
+                <a href="/2012-05-09/news/tales-from-the-housing-bust/" class="headline">Tales from the Housing Bust</a>                <div class="subHeadline">When people walk away from an underwater mortgage, they don't always walk away.</div>
                 </li>
                                                                 <li class="story">
                 <div class="popRating">
-                <span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>                </div>
-                <a href="/2011-10-05/food/unamazing-grace-kitchen/" class="headline">Un-Amazing Grace Kitchen</a>                <div class="subHeadline">Poppy's U-Village kin is the discount rack of restaurants.</div>
+                <span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>                </div>
+                <a href="/2012-05-09/food/zoe-s-sloppy-seconds/" class="headline">Zoe's Sloppy Seconds</a>                <div class="subHeadline">A popular restaurant's reboot recalls a great senatorial fallacy.</div>
                 </li>
                                                                 <li class="story last">
                 <div class="popRating">
-                <span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>                </div>
-                <a href="/2011-10-19/news/hanford-s-nuclear-option/" class="headline">Hanford's Nuclear Option</a>                <div class="subHeadline">Department of Energy scientists allege catastrophic mismanagement of the costliest environmental cleanup in world history.</div>
+                <span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>                </div>
+                <a href="/2012-04-25/news/gordon-hempton-wants-you-to-shut-up/" class="headline">Gordon Hempton Wants You to Shut Up</a>                <div class="subHeadline">To protect the country's quietest place, one man's making a lot of noise.</div>
                 </li>
                                     <li class="more"><a href="/mostPopular/">More Most Popular&gt;&gt;</a></li>
             </ul>
@@ -496,16 +528,12 @@ tabs.addTab('eMailed','mostEmailed',0);
                         <div id="mostCommented" style="display: none;">
         <ul>
                                                                  <li class="story">
-                <a href="/2011-10-05/music/seattle-what-happened/" class="headline">Feedback: This Is Seattle Music?</a> <span class="count">(12)</span>
-                <div class="subHeadline">Kids today have forgotten how to rock.</div>
-                </li>
-                                                                <li class="story">
-                <a href="/2011-10-19/news/hanford-s-nuclear-option/" class="headline">Hanford's Nuclear Option</a> <span class="count">(16)</span>
-                <div class="subHeadline">Department of Energy scientists allege catastrophic mismanagement of the costliest environmental cleanup in world history.</div>
+                <a href="/2012-05-02/news/washington-bullets/" class="headline">Washington Bullets</a> <span class="count">(28)</span>
+                <div class="subHeadline">Gun-rights activists cheer a recent shooting spree.</div>
                 </li>
                                                                 <li class="story last">
-                <a href="/2011-10-26/news/obama-s-war-on-weed/" class="headline">Obama's War on Weed</a> <span class="count">(8)</span>
-                <div class="subHeadline">The president's strange flip-flop on medical marijuana.</div>
+                <a href="/2012-05-09/food/zoe-s-sloppy-seconds/" class="headline">Zoe's Sloppy Seconds</a> <span class="count">(10)</span>
+                <div class="subHeadline">A popular restaurant's reboot recalls a great senatorial fallacy.</div>
                 </li>
                                     <li class="more"><a href="/most/commented/1/">More Most Commented &gt;&gt;</a></li>
             </ul>
@@ -513,13 +541,13 @@ tabs.addTab('eMailed','mostEmailed',0);
                         <div id="mostEmailed" style="display: none;">
             <ul>
                                                                 <li class="story">
-                <a href="/2011-10-19/news/hanford-s-nuclear-option/" class="headline">Hanford's Nuclear Option</a>                <div class="subHeadline">Department of Energy scientists allege catastrophic mismanagement of the costliest environmental cleanup in world history.</div>
+                <a href="/2012-05-16/news/michiel-oakes-twitter-defense/" class="headline">Michiel Oakes' Twitter Defense</a>                <div class="subHeadline">A famous dog trainer's murderer hopes a juror's tweets will spring him from jail.</div>
                 </li>
                                                                 <li class="story">
-                <a href="/2011-10-19/food/casa-d-italia-s-disarming-likability/" class="headline">Casa D'Italia's Disarming Likability</a>                <div class="subHeadline">Anthony Donatone brings a little Italy to Ravenna.</div>
+                <a href="/2012-05-09/news/tales-from-the-housing-bust/" class="headline">Tales from the Housing Bust</a>                <div class="subHeadline">When people walk away from an underwater mortgage, they don't always walk away.</div>
                 </li>
                                                                 <li class="story last">
-                <a href="/2011-10-12/news/king-county-s-growing-latino-gangs-problem/" class="headline">King County's Growing Latino Gang Problem</a>                <div class="subHeadline">Why the answer to this "war" is a tatted-up ex-con named Mr. Buzzard.</div>
+                <a href="/2012-04-25/food/up-on-whiskey-creek/" class="headline">Up on Whiskey Creek</a>                <div class="subHeadline">How three rural steakhouses have weathered the recession.</div>
                 </li>
                                     <li class="more"><a href="/most/emailed/1/">More Most Emailed &gt;&gt;</a></li>
             </ul>
@@ -531,13 +559,23 @@ tabs.addTab('eMailed','mostEmailed',0);
 
  </div>
 </div>
-<!-- /NOGSA --></div><div class="ClearIt "></div>
+<!-- /NOGSA -->
+
+<script>
+   $('a','#mostPopular').each(function(){
+       if(/=/.test(this.href)){
+         this.href += '&ref=mp';  
+       } else {
+         this.href += '?ref=mp';
+       }
+   })
+</script></div><div class="ClearIt "></div>
 <div class="widget trackme" name="FlatAds"><!-- p/af/v/ads/flat_ads -->
 <div class="chisel_u r_ad_box">
   <div class="FlatAds NYVButtons rail">
    <div style="float:left;">
 
-<a href="https://seattleweekly.vvmsecure.com/index.php?cPath=27"><img src="http://media.seattleweekly.com/6117434.0.gif"></a>
+<a href="https://seattleweekly.vvmedia.com/index.php?cPath=27"><img src="http://media.seattleweekly.com/6117434.0.gif"></a>
 
 </div>
 
@@ -551,7 +589,7 @@ tabs.addTab('eMailed','mostEmailed',0);
 <!-- !p/af/v/ads/flat_ads --></div><div class="ClearIt "></div>
 <div class="chisel_u r_ad_box r_noverflow "><!-- NOGSA -->
 <div class="Ads" id="Middle1">
-    <script language="JavaScript">
+    <script type="text/javascript">
         <!--
         OAS_AD('Middle1');
         //-->
@@ -566,77 +604,13 @@ tabs.addTab('eMailed','mostEmailed',0);
         <input type="hidden" name="limit" value="4">
     </form>
 </div>
-<!-- !p/af/v/ad_index/tower --></div><div class="widget trackme" name="CouponsWidget"><style>
-    html, body { margin: 0;}
-    .cZip { background: #fff url('/img/cZip.jpg') repeat-y; }
-    .cText { background: #fff url('/img/cText.jpg') repeat-y; }
-    #thumbnail_search { overflow: hidden; }
-    #thumbnail_search form { width: 100%; position: relative; }
-    #thumbnail_search button { padding: 2px 5px !important; }
-</style>
-
-
-<link href="http://coupons.seattleweekly.com/stylesheets/seattleweekly/thumbnail.css" media="all" rel="stylesheet" type="text/css"> 
-<div id="analog_analytics_content">
-  <div id="coupon_thumbnail">
-    <h2>Find A Coupon</h2>
-    <div id="thumbnail_search">
-<form action="http://coupons.seattleweekly.com/seattle/deals/" method="get">          <select id="category_id" name="category_id"><option value="">Search by Category</option><option value="6">Entertainment</option>
-<option value="28">Restaurants</option>
-<option value="76">Services</option>
-<option value="90">Health &amp; Beauty</option>
-<option value="93">Retail</option>
-<option value="195">Travel</option>
-<option value="1767">Cars</option>
-<option value="2994">Green Businesses</option>
-<option value="3091">SW Saves</option>
-<option value="3105">50% OFF</option></select>
-        <input class="ghostie cZip" id="postal_code" name="postal_code" title="Zip Code" type="text" value="" onfocus="this.className = 'ghostie'">
-        <input class="ghostie cText" id="text" name="text" title="Keywords" type="text" value="" onfocus="this.className = 'ghostie'">
-        <button type="submit">Search</button>
-</form>    </div>
-    <div id="thumbnail_offers">
-      <h3>Popular Coupons</h3>
-        <ul>
-            <li>
-              <div class="photo">
-                <img alt="Thumbnail" src="http://photos.offers.analoganalytics.com/production/13583/thumbnail.png">
-              </div>
-              <div class="content">
-                <h4><a href="http://coupons.seattleweekly.com/seattle/deals/?offer_id=13583" class="proposition">1/2 Off Absinthe &amp; Absinthe Cocktails </a></h4>
-                <div class="advertiser">Can Can</div>
-                <div class="address">
-                      94 Pike St.<br>
-                      Seattle, WA 98101<br>
-                </div>
-              </div>
-            </li>
-            <li class="last">
-              <div class="photo">
-                <img alt="Thumbnail" src="http://photos.offers.analoganalytics.com/production/13671/thumbnail.png">
-              </div>
-              <div class="content">
-                <h4><a href="http://coupons.seattleweekly.com/seattle/deals/?offer_id=13671" class="proposition">$7 Pitchers</a></h4>
-                <div class="advertiser">Darrell's Tavern</div>
-                <div class="address">
-                      18041 Aurora Ave. N.<br>
-                      Seattle, WA 98133<br>
-                </div>
-              </div>
-            </li>
-        </ul>
-    </div>  
-    <div id="more_offers">
-      <a href="http://coupons.seattleweekly.com/seattle/deals/" class="more">More Popular Coupons »</a>
-    </div>
-  </div>
-</div></div><div class="ClearIt "></div>
-<div class="widget trackme" name="AdIndexCoOp"></div><div class="widget trackme" name="FlatAds"></div><div class="widget trackme" name="NowClickThis"><!-- p/af/v/ads/now_click_this -->
+<!-- !p/af/v/ad_index/tower --></div><div class="ClearIt "></div>
+<div class="widget trackme" name="AdIndexCoOp"></div><div class="widget trackme" name="NowClickThis"><!-- p/af/v/ads/now_click_this -->
   <div class="chisel_u r_box city">
    <div class="chisel_d white">
     <h2>Now Click This</h2>
     <ul>
-<li><a href="http://www.seattleweekly.com/promotions/mobileApps/" target="_blank">Free Apps</a><br>For your iPhone, Blackberry and Droid</li><li><a href="http://coupons.seattleweekly.com/publishers/83/offers" target="_blank">COUPONS</a><br></li><li><a href="http://www.seattleweekly.com/promosites/50-off" target="_blank">Seattle Weekly Store - 50% off</a><br>50% off Restaurant GCs, Seattle Weekly Ts, Seattle's Best Dive Bars Book + more</li><li><a href="http://VoiceDailyDeals.com" target="_blank">VOICE Daily Deals</a><br>Get 50 to 90% off every day!</li><li><a href="http://www.seattleweekly.com/adIndex" target="_top">Ad Index</a><br></li><li><a href="http://twitter.com/seattleweekly" target="_blank">@SeattleWeekly</a><br></li><li><a href="http://twitter.com/swreverb" target="_top">@swReverb</a><br></li><li><a href="http://twitter.com/weeklyevents" target="_blank">@WeeklyEvents</a><br></li><li><a href="http://twitter.com/swvoracious" target="_blank">@swVoracious</a><br></li><li><a href="http://www.facebook.com/pages/Seattle-WA/Seattle-Weekly/6192284865" target="_blank">Facebook</a><br></li><li><a href="http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=60747089" target="_blank">MySpace</a><br></li><li><a href="http://happyhours.seattleweekly.com/seattle/find/places" target="_blank">Happy Hour Guide</a><br></li><li class="last"><a href="http://urmomcalled.com/" target="_blank">URmomcalled</a><br>Win tickets to Wrestlemania!</li>    </ul>
+<li><a href="http://amzn.to/SWonKnDl" target="_blank">Now Available on Kindle!</a><br>Seattle Weekly and Reverb Music Monthly now available on Kindle and Kindle Fire</li><li><a href="http://www.seattleweekly.com/promotions/mobileApps/" target="_blank">Free Apps</a><br>For your iPhone, Blackberry and Droid</li><li><a href="http://itunes.apple.com/us/app/voice-daily-deals/id514365001?ls=1&amp;mt=8" target="_blank">Daily Deal Mobile App</a><br>Download Seattle Weekly's Deal Deal app on your phone!</li><li><a href="http://coupons.seattleweekly.com/publishers/83/offers" target="_blank">COUPONS</a><br></li><li><a href="http://www.seattleweekly.com/promosites/50-off" target="_blank">Seattle Weekly Store - 50% off</a><br>50% off Restaurant GCs, Seattle Weekly Ts, Seattle's Best Dive Bars Book + more</li><li><a href="http://VoiceDailyDeals.com" target="_blank">VOICE Daily Deals</a><br>Get 50 to 90% off every day!</li><li><a href="http://www.seattleweekly.com/adIndex" target="_top">Ad Index</a><br></li><li><a href="http://twitter.com/seattleweekly" target="_blank">@SeattleWeekly</a><br></li><li><a href="http://twitter.com/swreverb" target="_top">@swReverb</a><br></li><li><a href="http://twitter.com/weeklyevents" target="_blank">@WeeklyEvents</a><br></li><li><a href="http://twitter.com/swvoracious" target="_blank">@swVoracious</a><br></li><li><a href="http://www.facebook.com/pages/Seattle-WA/Seattle-Weekly/6192284865" target="_blank">Facebook</a><br></li><li><a href="http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=60747089" target="_blank">MySpace</a><br></li><li><a href="http://happyhours.seattleweekly.com/seattle/find/places" target="_blank">Happy Hour Guide</a><br></li><li class="last"><a href="http://urmomcalled.com/" target="_blank">URmomcalled</a><br>Win tickets to Wrestlemania!</li>    </ul>
    </div>
   </div>
 
@@ -644,7 +618,7 @@ tabs.addTab('eMailed','mostEmailed',0);
 </div>
          <div class="bottomAd"><!-- NOGSA -->
 <div class="Ads" id="Bottom">
-    <script language="JavaScript">
+    <script type="text/javascript">
         <!--
         OAS_AD('Bottom');
         //-->
@@ -655,31 +629,33 @@ tabs.addTab('eMailed','mostEmailed',0);
 <!-- /p/af/v/e/Footer -->
 <!--googleoff: all-->
 <div class="footer">
-    <a href="http://www.seattleweekly.com/about/index">About Us</a> |
+    <a href="http://www.seattleweekly.com/about/index/">About Us</a> |
+    <a href="http://media.seattleweekly.com/7815808.0.pdf">Media Kit</a> |
     <a href="http://jobs.seattleweekly.com" target="_blank">Work for Seattle Weekly</a> |
-    <a href="http://www.seattleweekly.com/readers/register">Esubscribe</a> |
+    <a href="http://www.seattleweekly.com/village/register/">Esubscribe</a> |
     <a href="http://seattleweekly.backpage.com">Free Classifieds</a> |
-    <a href="http://www.seattleweekly.com/about/index">Seattle Weekly Advertising</a> |
+    <a href="http://www.seattleweekly.com/about/index/">Seattle Weekly Advertising</a> |
     <a href="http://www.voicemediagroup.com">National Online Advertising</a> |
     <a href="http://www.seattleweekly.com/promotions/mobileApps/">Mobile</a> |
-    <a href="http://www.seattleweekly.com/about/privacyPolicy">Privacy Policy</a> |
-    <a href="http://www.seattleweekly.com/about/terms">Terms of Use</a> |
-    <a href="http://www.seattleweekly.com/bugs">Problem With the Site?</a> |
-    <a href="http://www.seattleweekly.com/about/syndication">RSS</a> |
-    <a href="http://www.seattleweekly.com/about/siteMap">Site Map</a> 
+    <a href="http://www.seattleweekly.com/about/privacyPolicy/">Privacy Policy</a> |
+    <a href="http://www.seattleweekly.com/about/terms/">Terms of Use</a> |
+    <a href="http://www.seattleweekly.com/bugs/">Site Problems?</a> |
+    <a href="http://www.seattleweekly.com/about/syndication/">RSS</a> |
+    <a href="http://www.seattleweekly.com/about/siteMap/">Site Map</a> 
 </div>
 <!-- End /p/af/v/e/Footer -->
+<script>
+   $('a','.footer').each(function(){
+       if(/=/.test(this.href)){
+         this.href += '&ref=navigation';  
+       } else {
+         this.href += '?ref=navigation';
+       }
+   })
+</script>        </div>
     </div>
-    <div class="copyright">© 2011 Seattle Weekly, LLC, All rights reserved.</div>
-</div>
-
-
-<!-- BACKGROUND AD -->
-
-  
-<!-- BACKGROUND AD -->
-
-<!-- /pagecontainer -->
+    <div class="copyright">© 2012 Seattle Weekly, LLC, All rights reserved.</div>
+</div><!-- /pagecontainer -->
 <script type="text/javascript">
 var redirectController = 'village';
 </script>
@@ -697,7 +673,7 @@ var redirectController = 'village';
         <div id="loginProfile">
             <div class="profile">
                 <div id="profile">
-                    <img src="http://vvoice.vo.llnwd.net/e14//6524627.13.jpg">
+                    <img src="http://media.seattleweekly.com/6524627.13.jpg" alt="avatar">
                     <div class="username"></div><span class="triangleOpen"></span>
                 </div>
                 <span id="profileLink"><a href="/">Profile</a> |</span> <a href="/village/newsletters/">Newsletters</a> | <a href="/village/mobile/">Mobile</a>
@@ -770,11 +746,11 @@ var redirectController = 'village';
                 <p class="head"><b>Log in</b> or <span>Sign up</span></p>
                 <strong>Social Connect:</strong>
                 <p>Use your favorite account to access My Voice Nation.</p>
-                <button class="facebookConnect" onclick="VVM.Toolbar.socialConnect(&quot;facebook&quot;, &quot;8|22|39&quot;)"></button>
-                <button class="yahooConnect" onclick="VVM.Toolbar.socialConnect(&quot;yahoo&quot;, &quot;8|22|39&quot;)"></button>
+                <button class="facebookConnect" onclick="VVM.Toolbar.socialConnect(&quot;facebook&quot;, &quot;8|22|35&quot;)"></button>
+                <button class="yahooConnect" onclick="VVM.Toolbar.socialConnect(&quot;yahoo&quot;, &quot;8|22|35&quot;)"></button>
                 <br>
-                <button class="googleConnect" onclick="VVM.Toolbar.socialConnect(&quot;google&quot;, &quot;8|22|39&quot;)"></button>
-                <button class="twitterConnect" onclick="VVM.Toolbar.socialConnect(&quot;twitter&quot;, &quot;8|22|39&quot;)"></button>
+                <button class="googleConnect" onclick="VVM.Toolbar.socialConnect(&quot;google&quot;, &quot;8|22|35&quot;)"></button>
+                <button class="twitterConnect" onclick="VVM.Toolbar.socialConnect(&quot;twitter&quot;, &quot;8|22|35&quot;)"></button>
             </div>
             <div class="right">
                 <p>Use your My Voice Nation account to log in:</p>
@@ -797,11 +773,11 @@ var redirectController = 'village';
                 <p class="head"><b>Sign Up</b> or <span>Log in</span></p>
                 <strong>Social Connect:</strong>
                 <p>Sign up for My Voice Nation with your preferred network.</p>
-                <button class="facebookConnect" onclick="VVM.Toolbar.socialConnect(&quot;facebook&quot;, &quot;8|22|39&quot;)"></button>
-                <button class="yahooConnect" onclick="VVM.Toolbar.socialConnect(&quot;yahoo&quot;, &quot;8|22|39&quot;)"></button>
+                <button class="facebookConnect" onclick="VVM.Toolbar.socialConnect(&quot;facebook&quot;, &quot;8|22|35&quot;)"></button>
+                <button class="yahooConnect" onclick="VVM.Toolbar.socialConnect(&quot;yahoo&quot;, &quot;8|22|35&quot;)"></button>
                 <br>
-                <button class="googleConnect" onclick="VVM.Toolbar.socialConnect(&quot;google&quot;, &quot;8|22|39&quot;)"></button>
-                <button class="twitterConnect" onclick="VVM.Toolbar.socialConnect(&quot;twitter&quot;, &quot;8|22|39&quot;)"></button>
+                <button class="googleConnect" onclick="VVM.Toolbar.socialConnect(&quot;google&quot;, &quot;8|22|35&quot;)"></button>
+                <button class="twitterConnect" onclick="VVM.Toolbar.socialConnect(&quot;twitter&quot;, &quot;8|22|35&quot;)"></button>
             </div>
             <div class="right">
                 <p>Sign up for a My Voice Nation account:</p>
@@ -824,8 +800,8 @@ var redirectController = 'village';
 -->
                     <div id="recaptcha_placeholder">
                     </div>
-                    <input type="hidden" name="sourceId" value="8|22|39">
-                    <button class="submit" onclick="javascript:VVM.Toolbar.removeNoAuthCookie();">Sign Up</button>
+                    <input type="hidden" name="sourceId" value="8|22|35">
+                    <input type="submit" value="Sign Up" class="submit" onclick="javascript:VVM.Toolbar.removeNoAuthCookie();">
                     <a href="/about/privacyPolicy/" class="privacy">Privacy policy</a>
                 </form>
             </div>
@@ -843,26 +819,10 @@ var redirectController = 'village';
     </script>
     </div>
 <script type="text/javascript">
+    VVM.Toolbar.binds();
     VVM.Toolbar.checkReferrer();
 </script>
 <script type="text/javascript" src="http://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-395255-3']);
-  _gaq.push(['_setDomainName', 'seattleweekly.com']);
-  _gaq.push(['_setCustomVar', 4, '', 'Home|Misc|', 1]);
-  _gaq.push(['_trackPageview']);
-  _gaq.push(['_trackPageLoadTime']); 
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-
 	
 
 <!-- Start Quantcast tag -->
@@ -928,7 +888,7 @@ el.parentNode.insertBefore(s, el);
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://optimize.indieclick.com/www/delivery/ajs.php?zoneid=548202&amp;cb=58089692371&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20111101154922id_/http%253A//www.seattleweekly.com/about/privacyPolicy"></script><noscript><a href='http://optimize.indieclick.com/www/delivery/ck.php?n=a87e11fc&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://optimize.indieclick.com/www/delivery/avw.php?zoneid=548202&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a87e11fc' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://optimize.indieclick.com/www/delivery/ajs.php?zoneid=548202&amp;cb=85046368018&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20120523181456id_/http%3A//www.seattleweekly.com/about/privacyPolicy/"></script><noscript><a href='http://optimize.indieclick.com/www/delivery/ck.php?n=a87e11fc&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://optimize.indieclick.com/www/delivery/avw.php?zoneid=548202&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a87e11fc' border='0' alt='' /></a></noscript>
 
 
 <!-- START: IndieClick Pixel -->
@@ -945,10 +905,16 @@ ic_script.parentNode.insertBefore(ic_element, ic_script);
 </script>
 <!-- END: IndieClick Pixel --><!-- INCK -->
 
+<!-- begin ZEDO for channel: Seattle Weekly , publisher: Seattle Weekly , Ad Dimension: Pixel/Popup - 1 x 1 -->
+<script language="JavaScript">
+var zflag_nid="305"; var zflag_cid="8671/1"; var zflag_sid="1913"; var zflag_width="1"; var zflag_height="1"; var zflag_sz="15";
+</script>
+<script language="JavaScript" src="http://c5.zedo.com/jsc/c5/fo.js"></script>
+<!-- end ZEDO for channel: Seattle Weekly , publisher: Seattle Weekly , Ad Dimension: Pixel/Popup - 1 x 1 -->
 <!-- /p/af/v/e/PaperSiteJS -->
 
 
 
-
+</div><!-- outerBody -->
 
 <script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
