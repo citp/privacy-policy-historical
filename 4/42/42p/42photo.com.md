@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 42photo.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123014835id_/http%3A//www.42photo.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 42photo.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523103549id_/http%3A//www.42photo.com/privacy.asp) for the most accurate reproduction.*
 
 # 42photo.com - New York Camera Store, Digital Cameras, Audio and Video Electronics
 
