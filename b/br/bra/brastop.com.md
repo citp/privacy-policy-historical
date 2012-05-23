@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brastop.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122162601id_/http%3A//brastop.com/privacy_security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brastop.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523062833id_/http%3A//www.brastop.com/privacy_security.aspx) for the most accurate reproduction.*
 
 # Secure Shopping - Privacy and Security Information Brastop.com (UK)
 
