@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inforum.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123022238id_/http%3A//www.inforum.com/event/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inforum.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523164309id_/http%3A//www.inforum.com/event/privacy) for the most accurate reproduction.*
 
 # INFORUM | Fargo, ND
 
