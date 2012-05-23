@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zirtual.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124160810id_/http%3A//zirtual.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zirtual.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524012635id_/http%3A//zirtual.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Zirtual.com
 
@@ -65,8 +65,8 @@ If there are any questions regarding this privacy policy you may contact us usin
 ## zirtual.com
 
 Zirtual Inc.  
-182 Howard Street.  
-Suite 242  
-San Francisco, CA 94105  
+222 Sutter St.   
+Suite 450  
+San Francisco, CA 94108  
 [support@zirtual.com](mailto:support@zirtual.com)  
 1.800.997.9714
