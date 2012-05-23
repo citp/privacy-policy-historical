@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparktherise.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123095952id_/http%3A//www.sparktherise.com/dynamic/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparktherise.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523191653id_/http%3A//www.sparktherise.com/dynamic/Privacy%2520Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Spark the Rise
 
