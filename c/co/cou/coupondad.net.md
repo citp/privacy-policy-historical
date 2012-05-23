@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coupondad.net privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205034425id_/http%3A//www.coupondad.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coupondad.net privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523193210id_/http%3A//www.coupondad.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,8 @@ administration, as well as for analysis of website usage and trends.
 
 With respect to Ad Servers
 
-To try and bring you offers that are of interest to you, we have relationships with other companies like Google (www.google.com/adsense http://www.google.com/adsense ) that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address, browser used, interest categories based on information collected from web surfing habits, or if you have Flash installed and clickstream information. For further information, consult the privacy policy of:  
+To try and bring you offers that are of interest to you, we have relationships with other companies like Google (www.google.com/adsense http://www.google.com/adsense ) that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address, browser used, interest categories based on information collected from web surfing habits, or if you have Flash installed and clickstream information. For further information, consult the privacy policy of:
+
 http://www.google.com/privacy.html
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp)
@@ -41,6 +42,8 @@ of any website other than our own. Consequently, we strongly suggest that you re
 Registration and Use of Personal Information
 
 Registration is not required in order to use or access this website.
+
+We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp> .
 
 Security
 
