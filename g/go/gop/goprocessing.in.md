@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goprocessing.in privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216175106id_/http%3A//www.goprocessing.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goprocessing.in privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524211249id_/http%3A//www.goprocessing.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fostering Innovation in the Online Payments Industry
 
