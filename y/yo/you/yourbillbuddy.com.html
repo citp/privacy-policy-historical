@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the yourbillbuddy.com privacy policy that was archived on 2011-11-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111125105037id_/http%3A//www.yourbillbuddy.com/privacyPolicy.do) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yourbillbuddy.com privacy policy that was archived on 2012-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120524215723id_/http%3A//www.yourbillbuddy.com/privacyPolicy.do) for the most accurate reproduction.-->
 
 <html><head>
     	<script type="text/javascript" src="javascript/common_mini.js"></script>
@@ -58,7 +58,7 @@
 	
 
 		
-			<form name="loginform" method="post" action="/login-form.do">
+			<form name="loginform" method="post" action="/login-form.do;jsessionid=E15B634BFA4FCF0112AB51B04B7108E3">
 			<ul>
 				<li>
 					<strong>Login</strong> <input type="text" name="username" value="Email Id" onblur="javascript:if (this.value=='') this.value = 'Email Id'" onfocus="javascript:if (this.value=='Email Id') this.value = ''" class="textfield">
@@ -100,7 +100,24 @@
 
 
 
-
+<script type="text/javascript" src="javascript/jquery/jquery.blockUI_mini.js"></script>
+<script language="JavaScript">
+	function showBillLoading() {
+		$.blockUI({ 		
+			applyPlatformOpacityRules: false,		
+			message: 'Please wait a moment. We are evaluating several options.',
+			css: { 
+			    border: 'none', 
+			    padding: '15px', 
+			    backgroundColor: '#000', 
+			    '-webkit-border-radius': '10px', 
+			    '-moz-border-radius': '10px', 
+			    opacity: .5, 
+			    color: '#fff'
+			} 
+		});
+	}
+</script>
 
 
     
@@ -130,8 +147,8 @@
 				<img src="images/tab_rt.gif" alt=""><a href="mobileNumberAreaInfoinIndia.do" class="">My Tools</a>
 			
 		
-		<img src="images/tab_rt.gif" alt=""><a href="myFriendsInfo.do" class="" title="My Friends">My Friends</a>
-		<img src="images/tab_rt.gif" alt=""><a href="myAccountInfo.do" class="">My Account</a>
+		<!--<img src="images/tab_rt.gif" alt=""/><a href="myFriendsInfo.do" class="" title="My Friends">My Friends</a>
+		--><img src="images/tab_rt.gif" alt=""><a href="myAccountInfo.do" class="">My Account</a>
 		<img src="images/tab_rt.gif" alt="">
     
     </div>
@@ -159,6 +176,19 @@
 <script language="JavaScript"> 
 	function billUploadWizardSubmit(){
 		document.getElementById("unregisteruploadbillwizardform").inProcess_uploadBill.style.display = "inline";
+		/*$.blockUI({ 		
+			applyPlatformOpacityRules: false,		
+			message: 'Please wait a moment. We are evaluating several options.',
+			css: { 
+			    border: 'none', 
+			    padding: '15px', 
+			    backgroundColor: '#000', 
+			    '-webkit-border-radius': '10px', 
+			    '-moz-border-radius': '10px', 
+			    opacity: .5, 
+			    color: '#fff'
+			} 
+		});*/
 		document.unregisteruploadbillwizardform.submit();
 	}
 </script>
@@ -167,7 +197,7 @@
 <div class="unregisteredForm2">
 <h2>Upload Mobile Bill</h2>
 <p>Upload your e-bill now:</p>
-<form name="unregisteruploadbillwizardform" id="unregisteruploadbillwizardform" method="post" action="/unregister-uploadbill-wizard.do" enctype="multipart/form-data">
+<form name="unregisteruploadbillwizardform" id="unregisteruploadbillwizardform" method="post" action="/unregister-uploadbill-wizard.do;jsessionid=E15B634BFA4FCF0112AB51B04B7108E3" enctype="multipart/form-data">
 <input type="file" name="mbills[0]" value="" id="frm_txtfld">
 <p>
 <span class="errorMessageL">
@@ -190,7 +220,7 @@
       if(pdf_password_errors == 'true')
       {
       		addEvent(window, 'load', function(){
-      			showPopWin('/pdf-password.do',600,280,null,pageHelper._pageBlocker.getDocumentHeight(),pageHelper._pageBlocker.getDocumentWidth(),null);
+      			showPopWin('/pdf-password.do;jsessionid=E15B634BFA4FCF0112AB51B04B7108E3',600,280,null,pageHelper._pageBlocker.getDocumentHeight(),pageHelper._pageBlocker.getDocumentWidth(),null);
       		});
       }
 </script>
@@ -343,7 +373,7 @@ $(document).ready(function(){changeTabOnLoad();});
 
 
 <h2 class="title">Enter Call Details</h2><p>Don't have an e-bill? Enter your outgoing call/SMS details:</p>
-<form name="unregisteredAggregatedDataForm" id="recommendationWizardForm" method="post" action="/unregistered-aggregated-form.do" onsubmit="validateRecommendationWizarForm();">
+<form name="unregisteredAggregatedDataForm" id="recommendationWizardForm" method="post" action="/unregistered-aggregated-form.do;jsessionid=E15B634BFA4FCF0112AB51B04B7108E3" onsubmit="validateRecommendationWizarForm();">
 <input type="hidden" id="genType" name="genType" value="0">
 <ul>
    <li>
@@ -421,7 +451,7 @@ $(document).ready(function(){changeTabOnLoad();});
 				    <input type="text" name="roamingsms" maxlength="5" value="0" id="roamingsms" class="frm_txtfld1">
 				    <div class="errorMessage"></div></li>
 			<li><b>Data (Web/Email)</b>
-			    <select name="dataWebEmail" id="data2gWebEmailUsageCalculator" class="frm_txtfld1"><option value="0">--SELECT--</option>
+			    <select name="dataWebEmail" id="data2gWebEmailUsageCalculator" class="frm_txtfld1"><option value="0" selected="selected">--SELECT--</option>
 			        <option value="10">10MB</option>
 		            <option value="50">50MB</option>
 		            <option value="100">100MB</option>
@@ -429,7 +459,7 @@ $(document).ready(function(){changeTabOnLoad();});
 		            <option value="500">500MB</option>
 		            <option value="1024">1GB</option>
 		            <option value="2048">2GB</option>
-		            <option value="3072" selected="selected">3GB</option>
+		            <option value="3072">3GB</option>
 		            <option value="4096">4GB</option>
 		            <option value="5120">5GB</option>
 		            <option value="6144">6GB</option>
@@ -509,7 +539,7 @@ $(document).ready(function(){changeTabOnLoad();});
         </li>
     </ul>   
     </div>
-    <form name="unregisteredAggregatedDataCardsForm" method="post" action="/unregistered-aggregated-datacard-form.do">    
+    <form name="unregisteredAggregatedDataCardsForm" method="post" action="/unregistered-aggregated-datacard-form.do;jsessionid=E15B634BFA4FCF0112AB51B04B7108E3">    
     <p>Enter your internet usage details and view the best high-speed wireless data plans</p>
     <a href="javascript:showPopWin('jspincludes/datausagecalculator.jsp', 785, 475, null);"><p>Data Usage Calculator</p></a>
     <ul>    
@@ -593,7 +623,7 @@ $(document).ready(function(){changeTabOnLoad();});
 
 
 <h2 class="title">Enter Call Details</h2><p>Enter your outgoing call/SMS details:</p>
-<form name="unregisteredAggregatedDataForm" id="recommendationWizardForm" method="post" action="/unregistered-aggregated-form.do" onsubmit="validateRecommendationWizarForm();">
+<form name="unregisteredAggregatedDataForm" id="recommendationWizardForm" method="post" action="/unregistered-aggregated-form.do;jsessionid=E15B634BFA4FCF0112AB51B04B7108E3" onsubmit="validateRecommendationWizarForm();">
 <input type="hidden" id="genType" name="genType" value="1">
 <ul>
     <li>
@@ -647,7 +677,7 @@ $(document).ready(function(){changeTabOnLoad();});
 		    <div class="errorMessage" >
         </li> -->
         <li><b>Data Usage in GB </b>
-			    <input type="text" name="dataWebEmail" value="3072" id="dataWebEmailUsageCalculator" class="frm_txtfld1"> 
+			    <input type="text" name="dataWebEmail" value="0" id="dataWebEmailUsageCalculator" class="frm_txtfld1"> 
 			    <div style="text-align: right; float: right"><a href="javascript:showPopWin('jspincludes/datausagecalculator.jsp', 785, 475, null);">?</a></div>
 	    </li>
 		   <a href="javascript:showPopWin('jspincludes/datausagecalculator.jsp', 785, 475, null);"><p align="right">Estimate your Data Usage</p></a>
@@ -774,8 +804,8 @@ $(document).ready(function() {
 		<h2><a href="prepaidServiceProvider.do">Prepaid Mobile Plans </a></h2>
 		<h2><a href="mobileBillAnalysis.do">Bill Analysis </a></h2>
 	 	<h2><a href="planRecommendationProvider.do"> Get Recommendations </a></h2>
-		<h2><a href="mobile-network-provider.do">My Mobile Network </a></h2>
-		<div class="clear"></div>
+		<!--<h2><a href="mobile-network-provider.do">My Mobile Network </a></h2>
+		--><div class="clear"></div>
 	</div>
 	<div class="in_testiB"><img src="images/ursB.gif" alt="" width="281" height="10"></div>
 	<div class="clear"><img src="images/dot.gif" alt="" height="10px;"></div>
