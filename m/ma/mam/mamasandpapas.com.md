@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mamasandpapas.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123153549id_/http%3A//us.mamasandpapas.com/en-US/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamasandpapas.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524032844id_/http%3A//us.mamasandpapas.com/en-US/privacy) for the most accurate reproduction.*
 
 # Privacy Policy / Mamas & Papas
 
