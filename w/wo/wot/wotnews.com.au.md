@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wotnews.com.au privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009101151id_/http%3A//wotnews.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wotnews.com.au privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524052845id_/http%3A//wotnews.com.au/privacy) for the most accurate reproduction.*
 
 # Wotnews Privacy Policy
 
