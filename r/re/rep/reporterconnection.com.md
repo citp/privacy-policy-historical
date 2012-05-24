@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reporterconnection.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119163115id_/http%3A//www.reporterconnection.com/%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reporterconnection.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524142839id_/http%3A//www.reporterconnection.com/%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # Bill & Steve Harrison's Reporter Connection
 
