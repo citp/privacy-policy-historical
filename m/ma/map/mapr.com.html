@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mapr.com privacy policy that was archived on 2011-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111124031131id_/http%3A//mapr.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mapr.com privacy policy that was archived on 2012-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120524072003id_/http%3A//www.mapr.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.google.com/jsapi"></script>
@@ -8,12 +8,12 @@
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="robots" content="index, follow">
   <meta name="keywords" content="Mapr, Information, Personal, Websites, May, Use, Cookies, Privacy, Data, Collected, Other, Statement, Users, Have, Address, Sites, Automatically, Email, Time, Any, Visit, Services, Provide, Browser, Features">
-  <meta name="title" content="Privacy Statement | MapR Technologies">
+  
   <meta name="description" content="MapR Technologies Privacy Statement General Information MapR Technologies respects the privacy of our customers, business partners, and other visit...">
   <meta name="generator" content="JoomSEO by Phill Brown (http://www.joomseo.com)">
-  <title>Privacy Statement | MapR Technologies | MapR Technologies</title>
+  <title>Privacy Statement</title>
   <link href="/templates/maprpages110522/favicon.ico" rel="shortcut icon" type="image/x-icon">
-  <link rel="stylesheet" href="/plugins/system/modalizer/modals/lytebox/lytebox.css" type="text/css">
+  <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css">
   <style type="text/css">
     <!--
 /* @group Module Widgets */
@@ -36,20 +36,31 @@
     -->
   </style>
   <script type="text/javascript" src="/media/system/js/caption.js"></script>
-  <script type="text/javascript" src="/plugins/system/modalizer/modals/lytebox/lytebox.js"></script>
+  <script type="text/javascript" src="/media/system/js/modal.js"></script>
   <script type="text/javascript">
 
-			if (window.addEventListener) {
-				window.addEventListener("load",initLytebox,false);
-			} else if (window.attachEvent) {
-				window.attachEvent("onload",initLytebox);
-			} else {
-				window.onload = function() {initLytebox();}
-			}
-			function initLytebox() {
-				myLytebox = new LyteBox();
-				
-			}
+		window.addEvent('domready', function() {
+
+			SqueezeBox.initialize({});
+
+			$$('a.modal').each(function(el) {
+				el.addEvent('click', function(e) {
+					new Event(e).stop();
+					SqueezeBox.fromElement(el);
+				});
+			});
+		});
+			window.addEvent('domready', function() {
+				SqueezeBox.initialize({});
+				$$('a.modalizer_link,a.modal,a.modalizer').each(function(el) {
+					el.addEvent('click', function(e) {
+						new Event(e).stop();
+						// fix sizing problem if auto size window is opened before fixed
+						$('sbox-window').setStyle( 'width', '' ).setStyle( 'height', '' );
+						SqueezeBox.fromElement(el);
+					});
+				});
+			});
 		
   </script>
   <script type="text/javascript" src="http://munchkin.marketo.net/munchkin.js"></script>
@@ -119,11 +130,27 @@ new SmoothScroll({duration: 1000});
 
 
 
+
+
+
+
+
+
+
+
  var _gaq = _gaq || [];
 
 
 
+
+
+
+
  _gaq.push(['_setAccount', 'UA-22307841-1']);
+
+
+
+
 
 
 
@@ -135,7 +162,19 @@ new SmoothScroll({duration: 1000});
 
 
 
+
+
+
+
+
+
+
+
  (function() {
+
+
+
+
 
 
 
@@ -143,11 +182,23 @@ new SmoothScroll({duration: 1000});
 
 
 
+
+
+
+
    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 
 
 
+
+
+
+
    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+
+
+
+
 
 
 
@@ -159,9 +210,20 @@ new SmoothScroll({duration: 1000});
 
 
 
+
+
+
+
+
+
+
+
 </script>
 </head>
 <body id="color">
+<div style="margin:auto;">
+
+
 <div id="container" style="overflow-x:hidden;">
   <div id="centertop" style="font-size:11px; width:960px;">
         <!--header-->
@@ -175,7 +237,7 @@ new SmoothScroll({duration: 1000});
         
 <!-- /mod_html version 1.0.0.Alpha1-J1.5 (c) www.fijiwebdesign.com -->
  
-<div id="accountprofile"><a href="/Log-yourself-in">Login/Register</a><a href="/"></a><a href="/"></a></div>
+<div id="accountprofile"><a href="/Log-yourself-in">Login/Register</a><a href="/"></a><a href="/"></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://mapr.com/support">Support</a></div>
 
 <!-- mod_html version 1.0.0.Alpha1-J1.5/ -->
 
@@ -189,7 +251,7 @@ new SmoothScroll({duration: 1000});
 </form>
         </div>
         <div id="top_menu">
-          <div id="horiznav"> <ul class="menunav"><li rel="220" class="haschild"><a href="/products" class="haschild"><span>PRODUCTS</span></a><ul><li rel="210" class="haschild"><a href="/products/why-mapr" class="child"><span>WHY MAPR</span></a><ul><li rel="213"><a href="/products/why-mapr/easy"><span>EASY</span></a></li><li rel="215"><a href="/products/why-mapr/dependable"><span>DEPENDABLE</span></a></li><li rel="214"><a href="/products/why-mapr/fast"><span>FAST</span></a></li></ul></li><li rel="211"><a href="/products/only-with-mapr"><span>ONLY WITH MAPR</span></a></li><li rel="216" class="haschild"><a href="/products/mapr-editions" class="child"><span>MAPR EDITIONS</span></a><ul><li rel="217"><a href="/products/mapr-editions/m3-edition"><span>M3 EDITION</span></a></li><li rel="218"><a href="/products/mapr-editions/m5-edition"><span>M5 EDITION</span></a></li></ul></li><li rel="212"><a href="/products/download"><span>DOWNLOAD</span></a></li><li rel="303"><a href="/resources"><span>RESOURCES</span></a></li></ul></li><li rel="209" class="haschild"><a href="/support" class="haschild"><span>SUPPORT</span></a><ul><li><a href="/index.php?option=com_comprofiler&amp;task=viewsfinfo&amp;Itemid=235"><span>SUPPORT DESK</span></a></li><li><a href="http://answers.mapr.com" target="_blank"><span>MAPR FORUMS</span></a></li><li><a href="/index.php?option=com_comprofiler&amp;task=checklogin&amp;return=doc&amp;Itemid=236" target="_blank"><span>DOCUMENTATION</span></a></li><li><a href="mailto:support@mapr.com"><span>CONTACT SUPPORT</span></a></li><li><a href="http://academy.mapr.com" target="_blank"><span>HADOOP TRAINING</span></a></li></ul></li><li rel="67" class="haschild"><a href="/community" class="haschild"><span>COMMUNITY</span></a><ul><li rel="156"><a href="/community/community-resources"><span>COMMUNITY RESOURCES</span></a></li><li><a href="http://answers.mapr.com" target="_blank"><span>MAPR FORUMS</span></a></li><li rel="159"><a href="/community/partners"><span>PARTNERS</span></a></li></ul></li><li rel="53" class="haschild"><a href="/company" class="haschild"><span>COMPANY</span></a><ul><li rel="171"><a href="/company/news"><span>NEWS</span></a></li><li rel="202"><a href="/company/press-releases"><span>PRESS RELEASES</span></a></li><li rel="170"><a href="/company/events"><span>EVENTS</span></a></li><li rel="109"><a href="/company/management-team"><span>MANAGEMENT TEAM</span></a></li><li rel="110"><a href="/company/board-of-directors"><span>BOARD OF DIRECTORS</span></a></li><li rel="108"><a href="/company/contact-mapr?view=rsform"><span>CONTACT MAPR</span></a></li><li rel="172"><a href="/company/careers"><span>CAREERS</span></a></li></ul></li><li><a href="/blog"><span>BLOG</span></a></li></ul></div>
+          <div id="horiznav"> <ul class="menunav"><li rel="220" class="haschild"><a href="/products" class="haschild"><span>PRODUCTS</span></a><ul><li rel="210" class="haschild"><a href="/products/why-mapr" class="child"><span>WHY MAPR</span></a><ul><li rel="213"><a href="/products/why-mapr/easy"><span>EASY</span></a></li><li rel="215"><a href="/products/why-mapr/dependable"><span>DEPENDABLE</span></a></li><li rel="214"><a href="/products/why-mapr/fast"><span>FAST</span></a></li></ul></li><li rel="211"><a href="/products/only-with-mapr"><span>ONLY WITH MAPR</span></a></li><li rel="216" class="haschild"><a href="/products/mapr-editions" class="child"><span>MAPR EDITIONS</span></a><ul><li rel="217"><a href="/products/mapr-editions/m3-edition"><span>M3 EDITION</span></a></li><li rel="218"><a href="/products/mapr-editions/m5-edition"><span>M5 EDITION</span></a></li></ul></li><li rel="212"><a href="/download"><span>DOWNLOAD</span></a></li><li rel="303"><a href="/resources"><span>RESOURCES</span></a></li><li rel="317"><a href="/solutions"><span>SOLUTIONS</span></a></li></ul></li><li rel="317" class="haschild"><a href="/solutions" class="haschild"><span>SOLUTIONS</span></a><ul><li rel="322"><a href="/products/solutions/financial-services"><span>FINANCIAL SERVICES</span></a></li><li rel="324"><a href="/products/solutions/healthcare"><span>HEALTHCARE</span></a></li><li rel="326"><a href="/products/solutions/manufacturing"><span>MANUFACTURING</span></a></li><li rel="327"><a href="/products/solutions/media-and-entertainment"><span>MEDIA &amp; ENTERTAINMENT</span></a></li><li rel="328"><a href="/products/solutions/natural-resources"><span>NATURAL RESOURCES</span></a></li><li rel="332"><a href="/products/solutions/retail"><span>RETAIL</span></a></li><li rel="329"><a href="/products/solutions/transportation"><span>TRANSPORTATION</span></a></li><li rel="330"><a href="/products/solutions/utilities"><span>UTILITIES</span></a></li><li rel="331"><a href="/products/solutions/government"><span>GOVERNMENT</span></a></li></ul></li><li><a href="/partners"><span>PARTNERS</span></a></li><li rel="67" class="haschild"><a href="/community" class="haschild"><span>COMMUNITY</span></a><ul><li rel="156"><a href="/community/community-resources"><span>COMMUNITY RESOURCES</span></a></li><li><a href="http://answers.mapr.com" target="_blank"><span>MAPR FORUMS</span></a></li><li rel="209" class="haschild"><a href="/support" class="child"><span>SUPPORT</span></a><ul><li><a href="/index.php?option=com_comprofiler&amp;task=viewsfinfo&amp;Itemid=235"><span>SUPPORT DESK</span></a></li><li><a href="/index.php?option=com_comprofiler&amp;task=checklogin&amp;return=doc&amp;Itemid=236" target="_blank"><span>DOCUMENTATION</span></a></li><li><a href="mailto:support@mapr.com"><span>CONTACT SUPPORT</span></a></li><li><a href="http://academy.mapr.com" target="_blank"><span>HADOOP TRAINING</span></a></li></ul></li></ul></li><li rel="53" class="haschild"><a href="/company" class="haschild"><span>COMPANY</span></a><ul><li rel="171"><a href="/company/news"><span>NEWS</span></a></li><li rel="202"><a href="/company/press-releases"><span>PRESS RELEASES</span></a></li><li rel="170"><a href="/company/events"><span>EVENTS</span></a></li><li rel="109"><a href="/company/management-team"><span>MANAGEMENT TEAM</span></a></li><li rel="110"><a href="/company/board-of-directors"><span>BOARD OF DIRECTORS</span></a></li><li rel="108"><a href="/company/contact-mapr"><span>CONTACT MAPR</span></a></li><li rel="172"><a href="/company/careers"><span>CAREERS</span></a></li><li><a href="/blog"><span>BLOG</span></a></li></ul></li></ul></div>
         </div>
         <div id="top_menu_cap"><img src="/templates/maprhomenew/images/main-nav-cap.png" width="17" height="34"></div>
       </div>
@@ -385,6 +447,69 @@ new SmoothScroll({duration: 1000});
             <!-- end component -->
 
             
+			
+            <!-- bottom module position -->
+
+            <div id="callout">
+
+                
+
+		<div class="yjsquare">
+
+
+			
+
+
+						
+
+
+					
+
+
+				
+
+                        
+
+
+                        
+
+
+                        
+
+
+                        
+
+
+						<div class="yjsquare_in"><style>
+	#callout{
+		display:none;	
+	}
+</style>
+</div>
+
+
+			
+
+
+		</div>
+
+
+        
+
+
+        
+
+
+        
+
+
+	
+
+            </div>
+
+            <!-- end module position -->
+
+            
         </div>
         
         <!-- end mid block insidem class -->
@@ -443,7 +568,7 @@ new SmoothScroll({duration: 1000});
                         
 
 
-						<div class="yjsquare_in"><ul class="menu"><li rel="210" class="haschild"><a href="/products/why-mapr" class="haschild"><span>Why MapR</span></a><ul><li rel="213"><a href="/products/why-mapr/easy"><span>Easy</span></a></li><li rel="215"><a href="/products/why-mapr/dependable"><span>Dependable</span></a></li><li rel="214"><a href="/products/why-mapr/fast"><span>Fast</span></a></li></ul></li><li rel="211"><a href="/products/only-with-mapr"><span>Only with MapR</span></a></li><li rel="216" class="haschild"><a href="/products/mapr-editions" class="haschild"><span>MapR Editions</span></a><ul><li rel="217"><a href="/products/mapr-editions/m3-edition"><span>M3 Edition</span></a></li><li rel="218"><a href="/products/mapr-editions/m5-edition"><span>M5 Edition</span></a></li></ul></li><li rel="212"><a href="/products/download"><span>Download</span></a></li><li rel="56"><a href="/resources"><span>Resources</span></a></li></ul></div>
+						<div class="yjsquare_in"><ul class="menu"><li rel="210" class="haschild"><a href="/products/why-mapr" class="haschild"><span>Why MapR</span></a><ul><li rel="213"><a href="/products/why-mapr/easy"><span>Easy</span></a></li><li rel="215"><a href="/products/why-mapr/dependable"><span>Dependable</span></a></li><li rel="214"><a href="/products/why-mapr/fast"><span>Fast</span></a></li></ul></li><li rel="211"><a href="/products/only-with-mapr"><span>Only with MapR</span></a></li><li rel="216" class="haschild"><a href="/products/mapr-editions" class="haschild"><span>MapR Editions</span></a><ul><li rel="217"><a href="/products/mapr-editions/m3-edition"><span>M3 Edition</span></a></li><li rel="218"><a href="/products/mapr-editions/m5-edition"><span>M5 Edition</span></a></li></ul></li><li rel="212"><a href="/download"><span>Download</span></a></li><li rel="56"><a href="/resources"><span>Resources</span></a></li><li rel="317"><a href="/solutions"><span>Solutions</span></a></li></ul></div>
 
 
 			
@@ -499,7 +624,7 @@ new SmoothScroll({duration: 1000});
                         
 
 
-						<div class="yjsquare_in"><ul class="menu"><li rel="168"><a href="/resources/videos"><span>Videos</span></a></li><li rel="268"><a href="/resources/demos"><span>Demos</span></a></li><li rel="169"><a href="/resources/white-papers"><span>White Papers</span></a></li><li rel="212"><a href="/products/download"><span>Download</span></a></li><li rel="209"><a href="/support"><span>Support</span></a></li><li><a href="/blog"><span>MapR Blog</span></a></li><li><a href="http://answers.mapr.com/" target="_blank"><span>MapR Forum</span></a></li><li><a href="/datasheets"><span>Datasheets</span></a></li><li><a href="http://academy.mapr.com" target="_blank"><span>Hadoop Training</span></a></li></ul></div>
+						<div class="yjsquare_in"><ul class="menu"><li rel="168"><a href="/resources/videos"><span>Videos</span></a></li><li rel="268"><a href="/resources/demos"><span>Demos</span></a></li><li rel="169"><a href="/resources/white-papers"><span>White Papers</span></a></li><li rel="212"><a href="/download"><span>Download</span></a></li><li rel="209"><a href="/support"><span>Support</span></a></li><li><a href="/blog"><span>MapR Blog</span></a></li><li><a href="http://answers.mapr.com/" target="_blank"><span>MapR Forum</span></a></li><li rel="282"><a href="/resources/datasheets"><span>Datasheets</span></a></li><li><a href="http://academy.mapr.com" target="_blank"><span>Hadoop Training</span></a></li></ul></div>
 
 
 			
@@ -584,7 +709,7 @@ new SmoothScroll({duration: 1000});
 
 				
 
-				<h3><a href="/support"><span>Support</span></a></h3>
+				<h3><a href="/solutions"><span>Solutions</span></a></h3>
 
 
 			    
@@ -601,7 +726,7 @@ new SmoothScroll({duration: 1000});
                         
 
 
-						<div class="yjsquare_in"><ul class="menu"><li><a href="/index.php?option=com_comprofiler&amp;task=viewsfinfo&amp;Itemid=231"><span>Support Desk</span></a></li><li><a href="http://answers.mapr.com/" target="_blank"><span>MapR Forums</span></a></li><li><a href="/index.php?option=com_comprofiler&amp;task=checklogin&amp;return=doc&amp;Itemid=232" target="_blank"><span>Documentation</span></a></li><li><a href="/index.php?option=com_comprofiler&amp;task=mycase&amp;Itemid=233"><span>Contact Support</span></a></li><li><a href="http://academy.mapr.com" target="_blank"><span>Hadoop Training</span></a></li></ul></div>
+						<div class="yjsquare_in"><ul class="menu"><li rel="322"><a href="/products/solutions/financial-services"><span>Financial Services</span></a></li><li rel="324"><a href="/products/solutions/healthcare"><span>Healthcare</span></a></li><li rel="326"><a href="/products/solutions/manufacturing"><span>Manufacturing</span></a></li><li rel="327"><a href="/products/solutions/media-and-entertainment"><span>Media and Entertainment</span></a></li><li rel="328"><a href="/products/solutions/natural-resources"><span>Natural Resources</span></a></li><li rel="332"><a href="/products/solutions/retail"><span>Retail</span></a></li><li rel="329"><a href="/products/solutions/transportation"><span>Transportation</span></a></li><li rel="330"><a href="/products/solutions/utilities"><span>Utilities</span></a></li><li rel="331"><a href="/products/solutions/government"><span>Government</span></a></li></ul></div>
 
 
 			
@@ -657,7 +782,7 @@ new SmoothScroll({duration: 1000});
                         
 
 
-						<div class="yjsquare_in"><ul class="menu"><li rel="156"><a href="/community/community-resources"><span>Community Resources</span></a></li><li><a href="http://answers.mapr.com/" target="_blank"><span>MapR Forums</span></a></li><li rel="159"><a href="/community/partners"><span>Partners</span></a></li></ul></div>
+						<div class="yjsquare_in"><ul class="menu"><li rel="156"><a href="/community/community-resources"><span>Community Resources</span></a></li><li><a href="http://answers.mapr.com/" target="_blank"><span>MapR Forums</span></a></li><li rel="209" class="haschild"><a href="/support" class="haschild"><span>Support</span></a></li></ul></div>
 
 
 			
@@ -713,7 +838,7 @@ new SmoothScroll({duration: 1000});
                         
 
 
-						<div class="yjsquare_in"><ul class="menu"><li rel="171"><a href="/company/news"><span>News</span></a></li><li rel="202"><a href="/company/press-releases"><span>Press Releases</span></a></li><li rel="170"><a href="/company/events"><span>Events</span></a></li><li rel="109"><a href="/company/management-team"><span>Management Team</span></a></li><li rel="110"><a href="/company/board-of-directors"><span>Board of Directors</span></a></li><li rel="108"><a href="/company/contact-mapr?view=rsform"><span>Contact MapR</span></a></li><li rel="172"><a href="/company/careers"><span>Careers</span></a></li></ul></div>
+						<div class="yjsquare_in"><ul class="menu"><li rel="171"><a href="/company/news"><span>News</span></a></li><li rel="202"><a href="/company/press-releases"><span>Press Releases</span></a></li><li rel="170"><a href="/company/events"><span>Events</span></a></li><li rel="109"><a href="/company/management-team"><span>Management Team</span></a></li><li rel="110"><a href="/company/board-of-directors"><span>Board of Directors</span></a></li><li rel="108"><a href="/company/contact-mapr"><span>Contact MapR</span></a></li><li rel="172"><a href="/company/careers"><span>Careers</span></a></li><li rel="78"><a href="/blog"><span>Blog</span></a></li></ul></div>
 
 
 			
@@ -772,52 +897,52 @@ new SmoothScroll({duration: 1000});
 						<div class="yjsquare_in">
 
 <div>
-			 <a style="font-size: 12px;" href="http://www.mapr.com/index.php?p=168&amp;option=com_wordpress&amp;Itemid=265" title="Hadoop Benchmarks – Looking Beyond the Splash"><span>Hadoop Benchmarks – Looking Beyon ...</span></a>
+			 <a style="font-size: 12px;" href="http://www.mapr.com/index.php?p=269&amp;option=com_wordpress&amp;Itemid=265" title="Announcing the MapR Hive ODBC Driver"><span>Announcing the MapR Hive ODBC Drive ...</span></a>
 
 				 <br>
 
 	
-			 <a style="font-size: 12px;" href="http://www.mapr.com/index.php?p=148&amp;option=com_wordpress&amp;Itemid=265" title="Oracle – Hello World – to Hadoop"><span>Oracle – Hello World –  ...</span></a>
+			 <a style="font-size: 12px;" href="http://www.mapr.com/index.php?p=262&amp;option=com_wordpress&amp;Itemid=265" title="Haystacks and Jet Packs – How Hadoop Changes Everything"><span>Haystacks and Jet Packs – How ...</span></a>
 
 				 <br>
 
 	
-			 <a style="font-size: 12px;" href="http://www.mapr.com/index.php?p=145&amp;option=com_wordpress&amp;Itemid=265" title="Big Data in the Big Apple"><span>Big Data in the Big Apple</span></a>
+			 <a style="font-size: 12px;" href="http://www.mapr.com/index.php?p=258&amp;option=com_wordpress&amp;Itemid=265" title="Lights Out Data Center Ready Hadoop"><span>Lights Out Data Center Ready Hadoop</span></a>
 
 				 <br>
 
 	
-			 <a style="font-size: 12px;" href="http://www.mapr.com/index.php?p=139&amp;option=com_wordpress&amp;Itemid=265" title="20M Reasons to Bank on MapR"><span>20M Reasons to Bank on MapR</span></a>
+			 <a style="font-size: 12px;" href="http://www.mapr.com/index.php?p=251&amp;option=com_wordpress&amp;Itemid=265" title="Alan’s Partner Blog"><span>Alan’s Partner Blog</span></a>
 
 				 <br>
 
 	
-			 <a style="font-size: 12px;" href="http://www.mapr.com/index.php?p=136&amp;option=com_wordpress&amp;Itemid=265" title="MapR and MapReduce 2.0 – The Integrated Next Generation Distribution"><span>MapR and MapReduce 2.0 – The Inte ...</span></a>
+			 <a style="font-size: 12px;" href="http://www.mapr.com/index.php?p=241&amp;option=com_wordpress&amp;Itemid=265" title="Free Hadoop Training – Did I Get Your Attention?"><span>Free Hadoop Training – Did I  ...</span></a>
 
 				 <br>
 
 	
-			 <a style="font-size: 12px;" href="http://www.mapr.com/index.php?p=126&amp;option=com_wordpress&amp;Itemid=265" title="MapR: Fast, Big and Focused"><span>MapR: Fast, Big and Focused</span></a>
+			 <a style="font-size: 12px;" href="http://www.mapr.com/index.php?p=237&amp;option=com_wordpress&amp;Itemid=265" title="Top Misconceptions about Big Data and Hadoop"><span>Top Misconceptions about Big Data a ...</span></a>
 
 				 <br>
 
 	
-			 <a style="font-size: 12px;" href="http://www.mapr.com/index.php?p=117&amp;option=com_wordpress&amp;Itemid=265" title="Machine Learning with MapR"><span>Machine Learning with MapR</span></a>
+			 <a style="font-size: 12px;" href="http://www.mapr.com/index.php?p=227&amp;option=com_wordpress&amp;Itemid=265" title="Top 10 NameNode-related problems"><span>Top 10 NameNode-related problems</span></a>
 
 				 <br>
 
 	
-			 <a style="font-size: 12px;" href="http://www.mapr.com/index.php?p=109&amp;option=com_wordpress&amp;Itemid=265" title="The Design, Scale and Performance of MapR’s Distribution for Apache Hadoop"><span>The Design, Scale and Performance o ...</span></a>
+			 <a style="font-size: 12px;" href="http://www.mapr.com/index.php?p=225&amp;option=com_wordpress&amp;Itemid=265" title="Sr. Director of Business Development, Alan Geary, discusses why MapR is the best Hadoop Distribution for Partners"><span>Sr. Director of Business Developmen ...</span></a>
 
 				 <br>
 
 	
-			 <a style="font-size: 12px;" href="http://www.mapr.com/index.php?p=99&amp;option=com_wordpress&amp;Itemid=265" title="Big Data and Hadoop"><span>Big Data and Hadoop</span></a>
+			 <a style="font-size: 12px;" href="http://www.mapr.com/index.php?p=201&amp;option=com_wordpress&amp;Itemid=265" title="A Big Year for Hadoop"><span>A Big Year for Hadoop</span></a>
 
 				 <br>
 
 	
-			 <a style="font-size: 12px;" href="http://www.mapr.com/index.php?p=95&amp;option=com_wordpress&amp;Itemid=265" title="Launching M3 and M5 at the Hadoop Summit"><span>Launching M3 and M5 at the Hadoop S ...</span></a>
+			 <a style="font-size: 12px;" href="http://www.mapr.com/index.php?p=188&amp;option=com_wordpress&amp;Itemid=265" title="Announcing version 1.2 of MapR’s Distribution for Hadoop"><span>Announcing version 1.2 of MapR̵ ...</span></a>
 
 				 <br>
 
@@ -897,11 +1022,12 @@ new SmoothScroll({duration: 1000});
       </div>
 </div>
 <!-- footer -->
+</div>
 <div id="footer">
   <div id="youjoomla" style="font-size:11px; width:960px;">
     <div id="copyright">
       <!-- <a href="http://jigsaw.w3.org/css-validator/check/referer" target="_blank" title="CSS Validity" style="text-decoration: none;">CSS Valid | </a><a href="http://validator.w3.org/check/referer" target="_blank" title="XHTML Validity" style="text-decoration: none;">XHTML Valid | </a><a href="#color">Top</a><br  />You!Bubble is free GNU/GPL Joomla Template <a href="http://www.youjoomla.com" title="Joomla Templates Club">Design by Youjoomla.com Joomla Templates Club</a> -->
-      © 2011 MapR Technologies, Inc. All Rights Reserved</div>
+      © 2012 MapR Technologies, Inc. All Rights Reserved</div>
     <!-- JoomlaStatsActivated -->
 <!-- /mod_html version 1.0.0.Alpha1-J1.5 (c) www.fijiwebdesign.com -->
  <div id="privacy"><a href="/privacy-policy">Privacy Policy</a> | <a href="/trademarks">Trademarks</a> | <a href="/sitemap">Sitemap</a></div>
@@ -912,7 +1038,6 @@ new SmoothScroll({duration: 1000});
 </div>
 <!-- end footer -->
 </div>
-
 
 
 
