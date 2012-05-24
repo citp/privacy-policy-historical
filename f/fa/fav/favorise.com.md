@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the favorise.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101230557id_/http%3A//www.favorise.com/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the favorise.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524134614id_/http%3A//www.favorise.com/p/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Favorise
-
-Search
-
-Submit Link
-
-English 
-
-Seattle  Login 
 
 **Please read carefully the following privacy policy before reading, subscribing to, downloading, uploading, transmitting, copying, reproducing, translating, publishing, altering materials of any kind, posting information, linking to (COLLECTIVELY "USING") any content of this Website in any way.** The content **("Content")** includes the text, graphics, photos, sounds, music, videos, audiovisual combinations, software, scripts or any other materials you may view on, access through, or contribute to the "Website" (also referred to as **"Favorise"** ). Favorise includes the Website at [favorise.com](http://favorise.com/), [favorise.ca](http://favorise.ca/), [favorise.net](http://favorise.net/), [favorise.info](http://favorise.info/), [favorise.us](http://favorise.us/), [favorise.org](http://favorise.org/) and any sub-domain, international version, widget or mobile version. Favorise is the property of FAVORISE INC. By FAVORISE INC. we mean the owners (also referred to as **"we"** , **"us"** and **"our"** ), the employees, the features, and services we make available including Favorise and any other FAVORISE INC. branded websites, sub-domains, international versions, widgets and mobile versions. 
 
