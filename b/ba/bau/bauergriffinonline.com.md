@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bauergriffinonline.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124073636id_/http%3A//bauergriffinonline.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bauergriffinonline.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524195959id_/http%3A//www.bauergriffinonline.com/privacy.php) for the most accurate reproduction.*
 
 # Celebrity News | Celebrity Photos | Celebrity Gossip | BauerGriffinOnline.com
 
