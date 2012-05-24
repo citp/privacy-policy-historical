@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fbpurity.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124025838id_/http%3A//www.fbpurity.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbpurity.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524195934id_/http%3A//www.fbpurity.com/privacy.htm) for the most accurate reproduction.*
 
 # F.B. Purity - Privacy Policy - Fluff Busting Purity Cleans Your FB Homepage
 
@@ -32,6 +32,6 @@ F.B. Purity does not install any Adware, Spyware or Toolbars onto your computer,
 
 ### Contact Information
 
-Concerns or questions about this privacy policy can be directed to Steve via the [contact form](https://web.archive.org/web/20111124025838id_/http%3A//www.fbpurity.com/contact.htm) for further clarification.
+Concerns or questions about this privacy policy can be directed to Steve via the [contact form](https://web.archive.org/web/20120524195934id_/http%3A//www.fbpurity.com/contact.htm) for further clarification.
 
 **Terms and Conditions** : _Use FBP at your own risk, it comes with no warranty or guarantee, neither explicit or implicit towards functionality or usability. The author shall not be held liable for any damage or loss of data caused by use of this script. By downloading and installing the Fluff Busting Purity script, you agree to these terms._
