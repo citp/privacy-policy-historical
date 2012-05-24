@@ -1,15 +1,18 @@
-> *The following text is extracted and transformed from the jobrapido.ae privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123092123id_/http%3A//www.jobrapido.ae/info/privacy-policy-iframe%3Fpopup) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobrapido.ae privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524031803id_/http%3A//ae.jobrapido.com/info/privacy-policy-iframe%3Fpopup) for the most accurate reproduction.*
 
 # 
 
 Privacy Policy
 
-This page describes the ways in which the personal data of users of the website www.jobrapido.ae (referred to below as "the Site") will be handled. The methods described are limited to the services directly offered from the Site, and do not apply to any website that may be consulted through the links available from it.   
+This page describes the ways in which the personal data of users of the website ae.jobrapido.com (referred to below as "the Site") will be handled. The methods described are limited to the services directly offered from the Site, and do not apply to any website that may be consulted through the links available from it. 
+
 1\. Data Holder  
 The party responsible for handling the personal data of the Site users is Jobrapido S.r.l. (referred to below as “Jobrapido”). If you have any questions about this Privacy Policy, please feel free to contact us through our website or write to us at:  
 Jobrapido s.r.l., Via Paleocapa 7, 20121 Milano, Italia  
-Telephone number: +39 02726251   
-Email address: ae@jobrapido.net  
+Telephone number: +39 02726251 
+
+Email address: ae@jobrapido.com
+
 2\. Place and purpose of the data processing operations  
 The data handling services relating to the Site take place in the Jobrapido offices, and are carried out by the data handling employees of Jobrapido, not by third parties.   
 The personal data provided by users of the Site issuing service requests will only be used to provide the services requested, and will not be revealed to third parties unless required by law or if this is necessary to satisfy the requirements of the users.   
@@ -36,8 +39,10 @@ Concise information may be reported or displayed on web pages dedicated to indiv
 In addition to the data required for surfing purposes, the user is free to provide personal data to request the services offered by Jobrapido (for example, to issue requests for information and quotes, register for services offered by the Site, etc). Failure to provide this data may make it impossible to receive the service requested.   
 5\. Email communications  
 If you chose to provide Jobrapido with your email address, we will send you only those information you signed up for.  
-If you do not want to receive notification emails from us anymore, please adjust your personal settings by opening the mail you received from us and clicking on the link “Unsubscribe”.  
-If you do not have any email from Jobrapido, you can contact us via email at: ae@jobrapido.net.  
+If you do not want to receive notification emails from us anymore, please adjust your personal settings by opening the mail you received from us and clicking on the link “Unsubscribe”.
+
+If you do not have any email from Jobrapido, you can contact us via email at: ae@jobrapido.com.
+
 6\. Data processing methods  
 Personal information is processed manually and automatically, and the time taken to do so will depend on the purpose for which it is collected.   
 Specific security measures are observed to prevent the loss, illegal or incorrect use of the data, or improper and unauthorised access to it.   
