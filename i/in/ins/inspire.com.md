@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspire.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113015432id_/http%3A//www.inspire.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspire.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524145643id_/http%3A//www.inspire.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Inspire
 
@@ -25,6 +25,8 @@ Third, when you confirm your registration, your profile becomes visible to users
 Fourth, we may share personal information with entities that are not part of the ClinicaHealth family on an aggregate or other basis that does not disclose your identity or contain individually identifiable personal information.
 
 Fifth, ClinicaHealth may disclose personal information to appropriate persons in circumstances where we have a good faith belief that a user is likely to cause bodily harm to him or herself or others.
+
+Sixth, ClinicaHealth may share your email address and profile information with the organizations (for example, non-profit organizations) that sponsor Inspire groups that you join.
 
 Otherwise, we do not share, sell, or otherwise disclose personal information that is individually identifiable (including your e-mail address or your personal information) to any other company that we do not control without your prior consent, except as required by law (see Legal Process, below). For example, we do not rent our Member list to other companies. We may, however, provide other companies with aggregated data about our Members that does not contain contact or other individually identifiable personal information. Thus, for example, we may inform a health association of the number of Members we have on this Service, or the number of Members registered for our Service in a particular geographical region.
 
@@ -92,34 +94,4 @@ The P3P codes and so-called P3P privacy policies we publish have no meaning and 
 
 **Effective Date**
 
-This Privacy Statement is effective as of August 11, 2008.
-
-### Additional terms for members of specific groups
-
-**Members of the Discovery Health Diet and Fitness Community**
-
-Inspire will share with Discovery Health, the sponsor of this group, the date of birth, gender, postal (zip) code and e-mail address of group members. In addition, members of this group may receive e-mail from Discovery Health and its partners from time to time.
-
-**Members of the My Child Without Limits Support Community**
-
-Inspire will share with United Cerebral Palsy, the sponsor of this group, the e-mail addresses of group members.
-
-**Members of the National Association For Continence Support Community**
-
-Inspire will share with the National Association For Continence, the sponsor of this group, the e-mail addresses of group members.
-
-**Members of the Ostomy Support Group**
-
-Inspire will share with ConvaTec, the sponsor of this group, the e-mail addresses and ostomy interests of group members. Members of this group may receive e-mail from ConvaTec from time to time.
-
-**Members of the Pregnancy & Parenting Support Community**
-
-Inspire will share with Discovery Health, the sponsor of this group, the date of birth, gender, postal (zip) code and e-mail address of group members. In addition, members of this group may receive e-mail from Discovery Health and its partners from time to time.
-
-**Members of the TalkPsoriasis Support Community**
-
-Inspire will share the e-mail addresses of Talk Psoriasis group members with the National Psoriasis Foundation, and members may receive e-mail from the National Psoriasis Foundation from time to time.
-
-**Members of The Children's Inn at NIH Support Community**
-
-This group, created in agreement with the Children's Inn at NIH will not contain advertisements or announcements of clinical trials.
+This Privacy Statement is effective as of May 4, 2012.
