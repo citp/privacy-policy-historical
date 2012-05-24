@@ -1,71 +1,94 @@
-> *The following text is extracted and transformed from the moviemart.in privacy policy that was archived on 2007-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070515105134id_/http%3A//moviemart.in/Privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviemart.in privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524171959id_/http%3A//www.moviemart.in/pp_sell.aspx) for the most accurate reproduction.*
 
-# Movie Mart : Privacy Policy
+# Rent Movies | Buy DVD Movies Online at Lowest Price
 
-This Privacy Policy explains our policy regarding the collection, use and disclosure of your personal information. As we update and expand our services, this policy may change, so please refer back to it periodically. By accessing our Web site or using our services, you consent to our information practices.
+| 
 
-  * Collection and Use of Information 
-  * Children 
-  * Viewing and Updating Your Information on Movie Mart 
-  * Cookies and Other Technology 
-  * Disclosure of Personal Information 
-  * Security 
-  * Changes to This Policy 
-  * Contact 
-
-
-
-**Collection and Use of Information** **  
-**Personal information means information that can be used to identify and contact you, specifically your name, postal delivery address, e-mail address, payment method (e.g., credit card) and telephone number, as well as other information when such information is combined with your personal information. 
-
-When you register or re-register at our Web site, we ask you to supply us with personal information so that we can provide, enhance and personalize our services and marketing efforts. For similar reasons, we may supplement the personal information you provide with publicly available information about you. We use this personal information to process your registration, your orders and your payments, and to communicate with you on these and other topics. We also use your e-mail address to send you newsletters, as well as messages about Movie Mart special offers, promotional announcements and consumer surveys. Occasionally, we may send these materials to you via postal mail, using the shipping address provided. If you no longer want to receive the newsletters contact us by filling up the feedback form given on the My Account section. 
-
+|   
+---  
+|    [Home](http://www.moviemart.in/index.aspx)   [Movies](http://www.moviemart.in/Movies.aspx)    [Cameras](http://www.moviemart.in/Cameras.aspx)    [Electronics](http://www.moviemart.in/Electronics.aspx)    [Perfumes](http://www.moviemart.in/Perfumes.aspx)    [Mobiles](http://www.moviemart.in/Mobiles.aspx)    [Mobiles-Accessories](http://www.moviemart.in/Mobile-Accessories.aspx)    [Todays Deals](http://www.moviemart.in/TodaysDeals.aspx)    Track Order |  | [Cart(0)](http://www.moviemart.in/Shopping_Cart.aspx?Show=cart)  
+|  |  |  | [](http://www.moviemart.in/rent/browsesection.aspx?lan=1) |  | |   
+---|---|---|---  
+|  |  | [Movies](https://web.archive.org/web/20120524171959id_/http%3A//www.moviemart.in/ViewMore.aspx?ID=2)  
+---  
+[Cameras](https://web.archive.org/web/20120524171959id_/http%3A//www.moviemart.in/Brand.aspx?/10/Cameras/Canon)  
+[Electronics](https://web.archive.org/web/20120524171959id_/http%3A//www.moviemart.in/Brand.aspx?/89/Electronics/philips)  
+[Perfumes](https://web.archive.org/web/20120524171959id_/http%3A//www.moviemart.in/Brand.aspx?/21/Perfumes/Adidas)  
+[Mobiles & Accessories](https://web.archive.org/web/20120524171959id_/http%3A//www.moviemart.in/Brand.aspx?/70/Mobiles-Accessories/HTC)  
+      |  |   Privacy Policy   
+---  
+  |  |   |  | What This Privacy Policy Covers  
+---|---|---  
+  |  | Information Collection and Use  
+  |  | Information Sharing and Disclosurehanges  
+  |  | Your Ability to Edit and Delete Your Account Information and Preferences  
+  |  |  Confidentiality and Security  
+  |  | What Personal Information About Me Does MovieMart.in Use?  
+  |  | How Secure Is The Information MovieMart.in Has About Me?  
+  |  | Contact   
   
-We keep track of your interactions with us, including but not limited to your site activity, [**DVD selections**](https://web.archive.org/web/20070515105134id_/http%3A//moviemart.in/browsesection.aspx?lan=1), movie ratings, payment history and correspondence. We use this information for such purposes as providing recommendations on movies we think will be enjoyable, personalizing the site to better reflect particular interests, helping us quickly and efficiently respond to inquiries and requests and otherwise enhancing our service offering for our customers. We may also disclose and otherwise use, on an anonymous basis, movie ratings, commentary, reviews and other non-personal information about customers. 
+**What This Privacy Policy Cover**  
+  
+---  
+  
+This policy covers how MovieMart.in treats personal information that MovieMart.in collects and receives, including information related to your past use of MovieMart.in products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.
 
-back to top 
+back to top   
+  
+**Information Collection and Use**  
+  
+MovieMart.in collects personal information when you register with MovieMart.in . When you register we ask for information such as your name, email address, birth date, mailing address, zip code and phone number. Once you register with MovieMart.in , you are not anonymous to us.  
+  
+MovieMart.in uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
 
-**Children** **  
-**You must be 18 years of age or older to subscribe to the Movie Mart service. While individuals under the age of 18 may utilize the service, they may do so only with the involvement of a parent or legal guardian and subject to our Terms of Use . While Movie Mart does distribute products that may be watched by children, we do not intentionally seek to collect information from individuals 13 years of age and younger nor do we knowingly collect personal information from children under 13 through the service.
+back to top  
+  
+**Information Sharing and Disclosure**  
+  
+MovieMart.in does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:  
+  
+We provide the information to trusted partners who work on behalf of or with MovieMart.in under confidentiality agreements. MovieMart.in works with vendors, partners, advertisers, and other service providers in different industries and categories of business. These businesses such as shipping companies and credit card companies may have access to certain personal information needed to perform their functions. But these companies are under obligation not to use that information for any other purpose. By law, we sometimes must release account and other personal information when we believe release is necessary to comply with law; enforce or apply our Conditions of Use and other agreements; or protect the rights, property, or safety of MovieMart.in , our users, or others. This may include exchanging information with State or Govt. officials, as well as other companies and organizations to increase fraud protection and credit risk reduction. This is for our customers' own good and protects all of us.
 
-back to top 
+back to top  
+  
+**Your Ability to Edit and Delete Your Account Information and Preferences**  
+  
+You can edit your (make this a hyper link) MovieMart.in Account at any time.  
+  
+|  | 
 
-**Viewing and Updating Your Information on Movie Mart** **  
-**You are responsible for updating and maintaining the truth and accuracy of the personal information you provide to us relating to your account. If you want to update your contact information or change your payment method, you should do so by visiting the Your Account section of our Web site. You must be signed in to access Your Account. You can also make changes to your account program by going to the Your Account page. 
+You can opt to receive email promotions for a specific section. This can be done at the time of registration.  
+  
+We reserve the right to send you certain communications relating to the MovieMart.in service, such as service announcements, administrative messages and the MovieMart.in Newsletter, that are considered part of your MovieMart.in account, without offering you the opportunity to opt-out of receiving them.
 
-back to top 
+back to top   
+  
+**Confidentiality and Security**  
+  
+We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.  
+  
+We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you.
 
-**Cookies and Other Technology** **   
-**As you browse the Movie Mart site, cookies are placed on your computer's hard drive. (Cookies are small pieces of data that are sent to your browser from a Web server and stored on your hard drive for record keeping purposes.) In general, cookies can make the Web more useful by storing information about your preferences on a particular site. Cookies in and of themselves do not personally identify users, although they do identify a user's computer. If your browser is set to not accept cookies, you will not be able to use the site or service. 
+back to top  
+  
+**What Personal Information About Me Does MovieMart.in Use?**  
+  
+Any information we learn from our customers about them helps us only to serve them better and improve their shopping experience on our site. Any information you enter on our Web site or give to us in any other way is stored securely on our servers. You may always choose not to provide certain information, but in doing so, you may deny yourself the ability to use the site or use certain features. In most cases, we use the information customers provide for such purposes as assisting with order processing, responding to your customer queries, customizing emails and shopping for customers, and simply communicating.  
+  
+In truth, due to our careful security measures, we receive certain types of information whenever you interact with us. Many websites, for example, use "cookies," and we do as well. These are used to recognize when you return to MovieMart.in through your browser and to follow your movements through the site to better help us in making a site that you will enjoy using. You may find some companies that offer utilities that allow you to visit sites anonymously. You are welcome to use such programs while at MovieMart.in , of course, though they will impede us from personalizing your experience on our site and may make it impossible for you to sign in and use your account.  
+  
+We also generally receive a confirmation when you open e-mail from MovieMart.in , though only if your computer and service provider supports such capabilities. This way, we know if, for instance, if you've received an answer to a question you may have asked, or notifications about an order you may have placed. If you do not want to receive e-mail or other mail from us, please change your Preferences within your account. Occasionally via email, we provide a product recommendation or special offer that we believe will interest you. Every email of this type is carefully reviewed by our staff for quality and value, as, frankly, we dislike getting "junk" email as much as anyone. Any offers you receive from us will have met specific standards and may, of course, be ignored, but we hope you find them as valuable as we do.
 
-back to top 
+back to top   
+  
+**How Secure Is The Information MovieMart.in Has About Me?**  
+  
+We use Secure Sockets Layer (SSL) software during any order transmission to encrypt valuable information customers input. Your account password is also protected, as we know how important it is to allow only authorized access to your account. Be sure to sign off when finished using a shared computer and never give your password to anyone you aren't sure you can trust.  
+  
+Remember that this Privacy Policy governs your use of MovieMart.in , as well as our use of your information. It is your responsibility to review this Policy for changes, as well as your own account. If you choose to visit MovieMart.in your visit and any dispute over privacy is subject to this Policy and our terms of usage as outlined throughout this site. This includes shipping and return policies, damage limitations, disputes, and the Indian Laws. Please check our site frequently to see any changes to this or other policies. MovieMart.in may update this policy.
 
-**Disclosure of Personal Information** **  
-**Except as otherwise disclosed to you, we will not sell, rent or disclose your personal information to third parties without notifying you of our intent to share the personal information in advance and giving you an opportunity to prevent your personal information from being shared. 
-
-From time to time, we may partner with companies whose products we believe will interest our users. In conjunction with these partners, we may send promotional announcements and/or serve web-based advertisements to our customers on their behalf. In addition, we may offer joint promotions or programs that, in order for participation, will require personal information be shared with third parties. In such instances, you will be provided with notice of the sharing prior to your decision to participate. 
-
-Movie Mart also reserves the right to disclose personal information when we reasonably believe disclosure is required by law, if we reasonably believe disclosure is necessary to establish or exercise legal rights, or in situations involving potential threats to physical safety. In the event that Movie Mart is acquired by or merged with a third party, we reserve the right, to sell or otherwise transfer the personal information we have collected as part of that transaction provided that such third party continues to honor our privacy policy. 
-
-back to top 
-
-**Security** **  
-**Movie Mart takes information security very seriously and uses reasonable administrative, technical and managerial measures to protect your personal information from unauthorized access. For example, we utilize Secure Sockets Layering, an industry-standard protocol for certain of your transmissions to us, in order to encrypt the personal information that you send to us through the registration and sign up process. We store your email address and payment method information in an encrypted form. 
-
-You are responsible for maintaining the confidentiality of your account information and for restricting access to your  through which you access your Movie Mart account. Users of public or shared computers or unprotected devices should log out at the completion of each visit to the Web site. 
-
-Unfortunately, no security system can be guaranteed to be **100% secure**. Accordingly, we cannot guarantee the security of your personal information and cannot assume liability for improper access to it. By using this Web site, or providing personal information to us through any means, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of this site. 
-
-back to top 
-
-**Changes to This Policy** **   
-**As we update and expand our services, we may make changes to this policy. You should check back for updates to this policy from time to time. If the changes result in materially less protection for your personal information than that provided in this policy, we will make reasonable efforts to contact you and obtain your consent to the changes. 
-
-back to top 
-
-**Contact** **  
-**If you have questions concerning your account, please contact Customer Service. If you have questions concerning this privacy policy, please contact [ support@moviemart.in](mailto:support@moviemart.in). 
-
-**_Last updated: August 2006_** ****
-
-back to top 
+back to top   
+  
+**Contact**  
+  
+Still have questions? Contact us at e-mail: [ support@moviemart.in ](mailto:support@moviemart.in)
