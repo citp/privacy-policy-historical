@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orkutpix.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212044033id_/http%3A//www.orkutpix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orkutpix.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524230147id_/http%3A//www.orkutpix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OrkutPix.com - Scrap in Style
 
