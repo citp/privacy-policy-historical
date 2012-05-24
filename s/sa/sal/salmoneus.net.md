@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salmoneus.net privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123201557id_/http%3A//runescape.salmoneus.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salmoneus.net privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524052358id_/http%3A//runescape.salmoneus.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Sal's Realm of RuneScape
 
@@ -20,7 +20,14 @@ Our community forums allow users to interact with each other by posting content.
 
 ## Advertisements
 
-We use outside (third party) advertisers to deliver ad content on our website. These advertisements may contain cookies, which are collected by the advertising company; we do not have access to these cookies or the content that they contain. We currently work with Contextweb and Admeld to deliver advertisements from various third party networks and advertisers, each with its own privacy policy.
+We use outside (third party) advertisers to deliver ad content on our website. These advertisements may set cookies, which are collected by the advertising company; we do not have access to these cookies or the content that they contain. We currently work with Contextweb and Admeld to deliver advertisements from various third party networks and advertisers, each with its own privacy policy. Some third party advertisers use what is known as "behavioral advertising" to display more relevant advertisements to users. For example, an advertising partner, such as an online shop, may set a cookie on a user's system when that website is visited. When a user then visits our website, the cookie will be seen by our advertising partners to display a relevant ad.
+
+To opt-out of behavioral advertising, you may use either of the following websites:
+
+  * [Digital Advertising Alliance](http://www.aboutads.info/choices/)
+  * [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp)
+
+
 
 ## External Links
 
